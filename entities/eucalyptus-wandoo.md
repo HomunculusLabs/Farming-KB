@@ -42,7 +42,7 @@ Eucalyptus wandoo, commonly known as **wandoo** or **white gum**, is a medium-si
 
 ## Woodland Ecology
 
-- Wandoo is both a timber tree and a woodland-forming species.
+- Wandoo is both a [[dalbergia-sissoo-permaculture-timber-tree]] and a woodland-forming species.
 - In southwestern Australia it contributes to open eucalypt woodland structure.
 - The canopy is generally lighter than dense forest species.
 - This can allow grasses, herbs, and shrubs to persist below.
@@ -68,14 +68,14 @@ Eucalyptus wandoo, commonly known as **wandoo** or **white gum**, is a medium-si
 - The note's existing link to [[hemenway-backyard-wildlife-habitat]] is therefore fitting.
 - In a farm system, wandoo shelterbelts can serve production and biodiversity goals together.
 - Nectar flows can support pollinators.
-- Leaf litter and woody debris create habitat at ground level.
+- [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]] and [[fungal-diversity-leaf-litter-coarse-woody-debris]] create habitat at ground level.
 - Retaining old trees is especially important because hollows develop slowly.
 - New plantings should be understood as future habitat, not immediate replacement for old woodland.
 
 ## Management Notes
 
 - Establishment is easiest when seedlings are planted into moist soil before dry weather.
-- Early browsing protection may be necessary.
+- Early [[holzer-browsing-protection-methods]] may be necessary.
 - Mulch and weed reduction help young trees through the first summers.
 - Once established, the species is notably drought hardy.
 - Overwatering or planting in waterlogged sites may be counterproductive.

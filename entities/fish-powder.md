@@ -8,10 +8,10 @@ tags: [fertilizer, nitrogen, organic, fish-product, fast-acting, soluble]
 # Fish Powder
 
 ## Description
-Fish powder is a highly soluble, fast-acting natural fertilizer made from heat-processed fish material. It carries an N-P-K ratio of approximately 12-0.25-1 and is distinguished by its very high nitrogen content (12%) in a water-soluble form. Because it dissolves readily in water, fish powder acts almost as quickly as synthetic fertilizers, making it one of the fastest-acting organic nitrogen sources available. However, this same solubility means it can leach from soils easily and is typically used up within 1 month under normal conditions.
+Fish powder is a highly soluble, fast-acting [[natural-fertilizer-sources-and-application]] made from heat-processed fish material. It carries an N-P-K ratio of approximately 12-0.25-1 and is distinguished by its very high nitrogen content (12%) in a water-soluble form. Because it dissolves readily in water, fish powder acts almost as quickly as [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]], making it one of the fastest-acting organic nitrogen sources available. However, this same solubility means it can leach from soils easily and is typically used up within 1 month under normal conditions.
 
 ## Classification
-- **Category**: Natural/Organic Fertilizer (Dry Powder)
+- **Category**: Natural/[[complete-organic-fertilizer]] (Dry Powder)
 - **Primary Nutrient**: Nitrogen (N)
 - **N-P-K**: 12-0.25-1
 - **Source**: Animal by-product (fish material)
@@ -28,12 +28,12 @@ Fish powder provides very high nitrogen (12%) with minimal phosphorus (0.25%) an
 Fish powder and blood meal are two of the fastest-acting natural fertilizers, approaching the speed of synthetic nitrogen fertilizers. This rapid action makes fish powder useful for:
 - Quick correction of nitrogen deficiencies
 - Boosting nitrogen during critical growth stages
-- Situations where slow-release organic fertilizers haven't had time to activate
+- Situations where slow-release [[cannabis-organic-fertilizers]] haven't had time to activate
 
 ### Leaching Risk
 The high solubility that makes fish powder fast-acting also makes it vulnerable to leaching:
 - Nutrients can wash out of the soil with heavy rainfall or excessive irrigation
-- Particularly problematic in sandy soils with low cation exchange capacity (CEC)
+- Particularly problematic in sandy soils with low [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]] (CEC)
 - Less suitable for fall applications in areas with winter precipitation
 
 ### Short Duration
@@ -77,9 +77,9 @@ The water solubility of fish powder makes it suitable for foliar application as 
 ## Related Entities
 - [[fish-emulsion]] — liquid fish fertilizer with more balanced nutrients
 - [[fish-meal]] — slower-release fish product with more phosphorus
-- [[fish-hydrolysate|hydrolyzed fish]] — enzymatically processed, retains more nutrients
+- [[fish-hydrolysate]] — enzymatically processed, retains more nutrients
 - [[blood-meal]] — another very fast-acting natural nitrogen source (12-0-0)
 - [[cation-exchange-capacity]] — determines how well soil holds soluble nutrients
 
 ## Source Reference
-Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 10.
+Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 10.

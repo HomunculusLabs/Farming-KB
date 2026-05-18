@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Ethyl Alcohol Extraction Liqueur Concentration
+title: Pf Tek [[ethyl-alcohol-extraction]] Liqueur Concentration
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [mycology, extraction, psilocybin, ethyl-alcohol, pf-tek, tincture, concentration]
 ---
@@ -8,7 +8,7 @@ tags: [mycology, extraction, psilocybin, ethyl-alcohol, pf-tek, tincture, concen
 
 ## Overview
 
-The PF TEK describes a complete ethyl [[1960s-counterculture-and-magic-mushrooms]] and concentrating it into a "magic mushroom liqueur" of controllable potency. The technique uses only mushrooms and pure ethyl alcohol, avoiding any toxic chemical solvents. The entire process is designed for home practitioners and results in a storable, doseable liquid extract that can be precisely metered using a syringe.
+The PF TEK describes a complete ethyl [[1960s-counterculture-and-magic-mushrooms]] and concentrating it into a "[[australian-magic-mushroom-common-names]] liqueur" of controllable potency. The technique uses only mushrooms and pure ethyl alcohol, avoiding any toxic chemical solvents. The entire process is designed for home practitioners and results in a storable, doseable liquid extract that can be precisely metered using a syringe.
 
 ## Source Material Selection
 
@@ -65,7 +65,7 @@ The dust-pollen mask material makes "excellent filters" for this purpose accordi
 3. Cover with fresh 200 proof ethyl alcohol
 4. Repeat the 24-hour soak and filtration process
 
-This [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] ensures maximum alkaloid recovery from the starting material.
+This [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] ensures maximum alkaloid recovery from the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]].
 
 ## Evaporation and Concentration
 

@@ -1,5 +1,5 @@
 ---
-title: fukuoka textdoc sparse seeding natural high yield rice for Natural High-Yield jadam-rice-cultivation-methods
+title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] sparse seeding natural [[fukuoka-high-yield-rice-barley]] for Natural High-Yield jadam-rice-cultivation-methods
 created: 2026-04-28
 tags:
   - fukuoka
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,7 +88,7 @@ better results with each iteration of practice and experimentation.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

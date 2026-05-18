@@ -1,5 +1,5 @@
 ---
-title: Surface Sterilization Methods Comparison
+title: Surface [[sterilization-methods-comparison]]
 concept_category: microwave-surface-sterilization
   - autoclave-sterilization-mycology
   - contamination-control-mycology

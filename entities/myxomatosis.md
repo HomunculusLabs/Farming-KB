@@ -16,7 +16,7 @@ and typically death in susceptible populations. It is transmitted by biting inse
 such as mosquitoes and fleas.
 
 In Australia, myxomatosis holds a pivotal place in the history of wildlife
-management and biological control. Introduced deliberately in 1950 as a biological
+management [[odonata-dragonflies-damselflies-ecology-and-biological-control]]. Introduced deliberately in 1950 as a biological
 control agent to combat the devastating rabbit plague, it initially killed over
 99% of infected rabbits and dramatically reduced the rabbit population from an
 estimated 600 million to approximately 100 million within two years. This represented
@@ -63,13 +63,13 @@ practised a form of sustainable "farming" of wild rabbits.
 
 - **Biological Control Paradigm**: Myxomatosis represents the classic case study
   in biological control, providing lessons applicable to biological management
-  of pests and diseases in cultivation systems, including fungal pathogens.
+  of [[mushroom-pests-and-diseases]] in cultivation systems, including fungal pathogens.
 - **Ecological Balance**: The co-evolutionary response (both virus attenuation and
   rabbit resistance) illustrates the futility of one-time interventions versus
   ongoing adaptive management — relevant to managing fungal diseases in crops.
 - **Sustainable Harvesting**: The rabbit trappers' practice of avoiding breeding
   mounds represents a model of sustainable wild harvesting applicable to
-  wild mushroom foraging and other fungal resource management.
+  [[emcdda-wild-mushroom-foraging-misidentification-hazards]] and other fungal [[savory-holistic-resource-management-animal-impact]].
 - **Vector-Borne Disease Management**: Understanding the mosquito and flea vectors
   of myxomatosis has parallels in managing insect vectors of fungal diseases
   in agricultural and horticultural systems.
@@ -77,13 +77,13 @@ practised a form of sustainable "farming" of wild rabbits.
   effects on vegetation, soil compaction, and erosion across vast areas of
   Australia, indirectly affecting soil microbial and fungal communities.
 - **[[integrated-pest-management]]**: The myxomatosis experience informed development
-  of integrated pest management (IPM) strategies that combine biological,
+  of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM) strategies that combine biological,
   cultural, and chemical controls — approaches applicable to managing
   competitor moulds and pathogens in [[mushroom-cultivation]].
 
 ## Source References
 
-- [[david-holmgren]], *Permaculture: Principles and Pathways Beyond Sustainability*
+- [[david-holmgren]], *Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]*
   (2002), Principle 5: Hunting for Sustainable Yield section.
 - Referenced in context of rabbit trappers as sustainable harvesters before
   biological control was introduced in the 1950s.

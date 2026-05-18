@@ -27,7 +27,7 @@ The Green Party movement is a global political movement based on ecological prin
 
 ## Relevance to Cultivation and Mycology
 
-- Political advocacy through Green Party channels can support policies beneficial to sustainable agriculture: pesticide regulation, organic certification standards, and protection of old-growth forests as mycological habitats.
+- Political advocacy through Green Party channels can support policies beneficial to [[mushroom-cultivation-for-sustainable-agriculture]]: pesticide regulation, [[fukuoka-critique-organic-certification]] standards, and protection of old-growth forests as mycological habitats.
 - The non-growth principle aligns with permaculture's emphasis on steady-state, regenerative food systems rather than agricultural expansion.
 - Grassroots democratic structures support community-level food sovereignty initiatives, seed libraries, and local composting programmes.
 - Political representation for ecological policies can secure funding for soil conservation, water quality protection, and biological research including mycological surveys.
@@ -40,13 +40,13 @@ Mollison presents the Green Party as one of several strategies (alongside bioreg
 
 - [[planet-drum-mollison]]
 - [[bioregional-organisation]]
-- [[right-livelihood-commonwork-and-balanced-living|right livelihood]]
+- [[right-livelihood-commonwork-and-balanced-living]]
 - [[bill-mollison]]
 
 ## Background and Influence
 This figure contributed significantly to the development of permaculture
 and sustainable land management practices. Their work influenced both
-academic research and practical applications in ecological design.
+academic research and practical applications [[pattern-understanding-in-ecological-design]].
 
 ## Key Contributions
 Major contributions include advancing understanding of natural systems
@@ -58,8 +58,8 @@ and ecological design thinking worldwide.
 
 ## Historical Context
 This topic was explored by Bill Mollison as part of the permaculture
-design framework, emphasizing sustainable and regenerative approaches
-to land management and community organization. The principles discussed
+[[permaculture-book-structure-design-framework-holmgren]], emphasizing sustainable and regenerative approaches
+to land management [[bioregionalism-and-community-organization]]. The principles discussed
 remain relevant to modern ecological design practice.
 
 ## Further Reading
@@ -78,4 +78,4 @@ published literature on sustainable systems, and community networks.
 ## Contemporary Relevance
 These concepts remain highly relevant to modern sustainability discourse
 and ecological design practice. Their integration into contemporary
-permaculture and regenerative agriculture frameworks continues to evolve.
+permaculture and [[biochar-in-regenerative-agriculture]] frameworks continues to evolve.

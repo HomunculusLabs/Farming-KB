@@ -6,7 +6,7 @@ type: concept
 
 # Rainwater Tanks and Water Storage Costs
 
-Rainwater harvesting and water storage are foundational elements of [[rainwater-tanks-and-water-quality|quality]]
+[[rainwater-harvesting-and-graywater-recycling]] water storage are foundational elements of [[rainwater-tanks-and-water-quality]]
 management, and the role of swales in landscape-scale water retention.
 
 ## Storage Methods: A Cost Hierarchy
@@ -40,7 +40,7 @@ concrete tank. This single comparison underscores why [[dam-construction]]
 - **Tanks** — isolated dwellings, flatlands, cities, and anywhere space is limited
 - **Medium dams (22,500 L – 4.5 ML)** — good country sites with suitable topography
 - **Massive dams** — rock-bermed or glaciated uplands only
-- **Soil and humus storage** — universally applicable and should always be maximised
+- **Soil and [[holzer-humus-storage-ditches]]** — universally applicable and should always be maximised
 
 ## Calculating Rainwater Yield
 
@@ -62,9 +62,9 @@ details that prevent contamination and support biological purification.
 - The **first flow-off** of water from roofs should always be rejected
 - This initial runoff carries dust, debris, and contaminants accumulated on the roof
 - Rejected water should be directed to gardens or swales rather than wasted
-- Two methods for first flush rejection are commonly employed in [[permaculture]] [[mollison-designers-soil-water-storage-in-forest-systems|Systems]]
+- Two methods for first flush rejection are commonly employed in [[permaculture]] [[mollison-designers-soil-water-storage-in-forest-systems]]
 
-Effective gutters are the critical link between roof catchment and storage tanks:
+Effective gutters are the critical link between roof catchment and [[water-storage-tanks]]:
 
 - Gutters must be **cleaned regularly** to prevent debris from entering tanks
 - Alternatively, **leaf-free gutter systems** can be fitted to reduce maintenance

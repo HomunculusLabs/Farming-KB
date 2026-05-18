@@ -24,7 +24,7 @@ created: 2026-04-28
 
 It is a coprophilous (dung-inhabiting) species, fruiting primarily on herbivore dung, especially from cattle, horses, and sheep.
 
-The species is widespread in temperate regions worldwide and is one of the most commonly encountered dung fungi in pastures and meadows.
+The species is widespread in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide and is one of the most commonly encountered dung fungi in pastures and meadows.
 
 It does not contain psilocybin or other psychoactive compounds, distinguishing it from several other *Stropharia* species.
 
@@ -40,7 +40,7 @@ The cap surface is smooth and viscid when moist, with a pale yellowish to ochrac
 
 Gills are adnate to slightly adnexed, initially pale gray, maturing to dark purplish-brown with whitish edges.
 
-The stipe is 5–12 cm long and 2–4 mm thick, slender, hollow, and covered with a characteristic white to silvery partial veil remnant forming a movable ring (annulus).
+The stipe is 5–12 cm long and 2–4 mm thick, slender, hollow, and covered with a characteristic white to silvery [[partial-veil-tropism-protection-before-spore-release]] remnant forming a movable ring (annulus).
 
 Spores are ellipsoid to slightly amygdaliform, thick-walled with a distinct germ pore, measuring 15–20 × 9–12 µm.
 
@@ -50,7 +50,7 @@ This dark spore print color is characteristic of the Strophariaceae and helps di
 
 ## Distribution and Habitat
 
-Cosmopolitan in temperate zones, found across Europe, North America, South America, Australia, and New Zealand.
+Cosmopolitan in temperate zones, found across Europe, [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
 
 Fruits almost exclusively on herbivore dung (horse, cow, sheep) in pastures, meadows, and grasslands.
 
@@ -62,13 +62,13 @@ The species isgregarious, typically fruiting in clusters or scattered groups on 
 
 ## Ecology and Decomposition
 
-As a coprophilous decomposer, *S. semiglobata* plays an important role in breaking down herbivore dung and recycling nutrients back into grassland ecosystems.
+As a coprophilous decomposer, *S. semiglobata* plays an important role in breaking down herbivore dung and recycling nutrients back into [[biodiversity-fungi-grassland-ecosystems]].
 
 The species is a primary colonizer of fresh dung, often appearing within 2–4 weeks of deposition.
 
 Its thick-walled spores are adapted to survive passage through herbivore digestive tracts, ensuring dispersal to new substrate.
 
-The fungus competes with other coprophilous fungi in a well-documented successional sequence on dung, typically appearing in the early to mid-successional phase.
+The fungus competes with other [[antifungal-secondary-metabolites-coprophilous-fungi]] in a well-documented successional sequence on dung, typically appearing in the early to mid-successional phase.
 
 Coprophilous fungi like *S. semiglobata* contribute significantly to [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] in pastoral ecosystems.
 

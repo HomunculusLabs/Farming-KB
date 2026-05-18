@@ -1,5 +1,5 @@
 ---
-title: comparison-living-mulch-vs-cover-crops Systems Guide
+title: [[comparison-living-mulch-vs-cover-crops]] Systems Guide
 created: 2026-04-28
 tags: [living-mulch, ground-cover, clover, nitrogen-fixation, weed-suppression]
 date: 2026-04-27
@@ -27,7 +27,7 @@ and the accumulated wisdom of hands-on practice in the field.
 [[historical-development-of-mushroom-cultivation]] of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 

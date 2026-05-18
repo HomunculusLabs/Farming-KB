@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Iroquois Confederacy (also known as the Haudenosaunee or the League of Five/Six Nations) is a historically significant alliance of Indigenous peoples of northeastern North America. Bill Mollison references the Iroquois in *Permaculture: A Designers' Manual* as a model of sustainable governance and the origin of the "seventh generation" principle, which deeply informs permaculture ethics.
+The Iroquois Confederacy (also known as the Haudenosaunee or the League of Five/Six Nations) is a historically significant alliance of Indigenous peoples of northeastern [[guzman-psilocybin-mushrooms-north-america]]. Bill Mollison references the Iroquois in *Permaculture: A Designers' Manual* as a model of sustainable governance and the origin of the "seventh generation" principle, which deeply informs permaculture ethics.
 
 ## Classification
 
@@ -28,9 +28,9 @@ The Iroquois Confederacy (also known as the Haudenosaunee or the League of Five/
 ## Relevance to Cultivation and Mycology
 
 - The seventh generation principle directly informs permaculture's ethical foundation: making decisions that benefit future inhabitants of the land rather than maximising immediate extraction.
-- The Iroquois practised the "Three Sisters" polyculture — interplanting maize, beans, and squash — one of the most cited examples of companion planting and ecological synergy in permaculture literature.
+- The Iroquois practised the "Three Sisters" polyculture — interplanting maize, beans, and squash — one of the most cited examples of [[companion-planting-and-polycultures]] ecological synergy in permaculture literature.
 - Their forest management practices, including controlled burning and selective harvesting, maintained productive ecosystems for centuries.
-- The confederacy's model of decentralised, bioregionally-based governance parallels permaculture's bioregional organisation concept (Chapter 14.5), where local associations manage resources autonomously while cooperating globally.
+- The confederacy's model of decentralised, bioregionally-based governance parallels permaculture's [[bioregional-organisation-mollison]] concept (Chapter 14.5), where local associations manage resources autonomously while cooperating globally.
 
 ## Context in Permaculture Design
 
@@ -46,7 +46,7 @@ Mollison invokes the Iroquois model to argue that sustainable societies prioriti
 ## Background and Influence
 This figure contributed significantly to the development of permaculture
 and sustainable land management practices. Their work influenced both
-academic research and practical applications in ecological design.
+academic research and practical applications [[pattern-understanding-in-ecological-design]].
 
 ## Key Contributions
 Major contributions include advancing understanding of natural systems
@@ -59,7 +59,7 @@ and ecological design thinking worldwide.
 ## Historical Context
 This topic was explored by Bill Mollison as part of the permaculture
 design framework, emphasizing sustainable and regenerative approaches
-to land management and community organization. The principles discussed
+to land management [[bioregionalism-and-community-organization]]. The principles discussed
 remain relevant to modern ecological design practice.
 
 ## Further Reading
@@ -78,4 +78,4 @@ published literature on sustainable systems, and community networks.
 ## Contemporary Relevance
 These concepts remain highly relevant to modern sustainability discourse
 and ecological design practice. Their integration into contemporary
-permaculture and regenerative agriculture frameworks continues to evolve.
+permaculture and [[biochar-in-regenerative-agriculture]] frameworks continues to evolve.

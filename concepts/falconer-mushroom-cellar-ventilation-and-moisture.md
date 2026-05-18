@@ -1,5 +1,5 @@
 ---
-title: Falconer Mushroom Bed Boxing And Protection Cellar Ventilation And Moisture
+title: [[falconer-mushroom-bed-boxing-and-protection]] Boxing And Protection Cellar Ventilation And Moisture
 created: 2026-04-28
 tags: [
     [[mushroom-cultivation],

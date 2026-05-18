@@ -1,5 +1,5 @@
 ---
-title: Savory Ranch Homestead Financial Planning
+title: Savory Ranch [[homestead-financial-planning]]
 created: 2026-04-26
 aliases: [holistic financial planning, gross margin analysis, wealth generation, ranch economics]
 tags: [financial-planning, ranch-economics, gross-margin, wealth-generation, holistic-management]

@@ -12,15 +12,15 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Purvis OW, Coppins BJ, Hawksworth DL, James PW, Moore DM (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
+  - Purvis OW, Coppins BJ, Hawksworth DL, James PW, Moore DM (1992). "The Lichen Flora of Great Britain and Ireland." [[stropharia-cubensis-identification-and-natural-history]] Museum Publications.
   - Hawksworth DL, Rose F (1970). "Qualitative scale for estimating sulphur dioxide singh-fungal-biosensors-environmental-monitoring in Europe." Bibliotheca Lichenologica 91: 47–69.
 ---
 
 ## Overview
 
-Lecanora conizaeoides is a crustose lichen in the family Lecanoraceae, notable for its exceptional tolerance to atmospheric pollution, particularly sulfur dioxide.
+Lecanora conizaeoides is a crustose lichen in the family Lecanoraceae, notable for its exceptional tolerance to [[lichen-bioindicators-atmospheric-pollution]], particularly sulfur dioxide.
 
-It became one of the most abundant lichens in industrial regions of Europe during the 20th century as more sensitive species were eliminated by air pollution.
+It became one of the most abundant lichens in industrial regions of Europe during the 20th century as more sensitive species were eliminated by [[air-pollution-fungal-community-responses]].
 
 The species is characterized by its gray-white, granular thallus, abundant soredia, and distinctive concolorous apothecia.
 
@@ -46,11 +46,11 @@ The species is morphologically similar to Lecanora dispersa but can be distingui
 
 L. conizaeoides has a predominantly [[guzman-psilocybin-mushrooms-north-america]] but is less common there than in Europe.
 
-The species is strongly associated with polluted environments and was historically the dominant epiphytic lichen in industrial regions of Britain, Germany, and the Czech Republic.
+The species is strongly associated with [[fungi-in-extreme-and-polluted-environments]] and was historically the dominant epiphytic lichen in industrial regions of Britain, Germany, and the Czech Republic.
 
 It colonizes the bark of trees (especially acidic-barked species like oak, birch, and pine), as well as stone, concrete, and occasionally wood.
 
-L. conizaeoides was notably abundant in urban areas and near coal-burning industrial facilities during the 20th century.
+L. conizaeoides was notably abundant [[permaculture-in-urban-areas]] and near coal-burning industrial facilities during the 20th century.
 
 It thrives on exposed, dry bark surfaces where competition from more pollution-sensitive species is reduced.
 
@@ -66,7 +66,7 @@ Spot test reactions are K−, C+ orange (cortex, atranorin), KC+ orange, Pd−, 
 
 The medullary chemistry (zeorin) does not react with standard spot tests, which helps distinguish it from chemically similar taxa.
 
-Usnic acid is absent, and the species does not produce the depsides or depsidones common in many other Lecanora species.
+[[usnic-acid]] is absent, and the species does not produce the depsides or depsidones common in many other Lecanora species.
 
 The relatively simple chemistry of L. conizaeoides contrasts with the complex metabolite profiles of many pollution-sensitive lichens.
 

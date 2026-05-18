@@ -5,12 +5,12 @@
 ## Core Concept
 
 Mathematical modelling provides a powerful complementary approach to
-experimental study of fungal growth, allowing researchers to isolate and
+experimental study of [[brassinosteroid-fungal-growth-promotion]], allowing researchers to isolate and
 investigate key properties of mycelial systems that are difficult to study
 through experiments alone. The challenge is finding the right balance between
 simplicity and biological realism — as Einstein said, "everything should be
 made as simple as possible, but no simpler." Modern fungal growth models
-connect physiology at the hyphal level (tip growth, branching) to function
+connect physiology at the hyphal level ([[gadd-hyphal-tip-growth-and-branching-mechanisms]], branching) to function
 at the mycelial level (biomass distribution, [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]] but is applicable to a broad class of fungi.
 
 ### Five State Variables
@@ -20,7 +20,7 @@ The model tracks five interacting components at each point in space:
 2. **Inactive hyphae** — hyphae no longer involved in translocation or
    growth (moribund or senescent)
 3. **Hyphal tips** — the growing fronts that extend the colony
-4. **Internal substrate** — nutrients within the fungal biomass
+4. **Internal substrate** — nutrients within the [[bioremediation-fungal-biomass-biosorbent-material]]
 5. **External substrate** — nutrients in the environment
 
 ### Key Assumptions
@@ -47,11 +47,11 @@ between fungal biomass and growth-limiting substrate. Ideal for dense
 mycelia on uniform surfaces. Allows study of:
 - Biomass distribution in homogeneous and heterogeneous conditions
 - Translocation in various habitat configurations
-- Functional consequences like acid production
+- Functional consequences like [[staycare-fungal-organic-acid-production-metal-leaching]]
 
 ### Discrete (Hybrid Cellular Automaton) Formulation
 Represents individual hyphae as discrete structures in a continuous
-substrate field. This approach explicitly includes anastomosis (hyphal
+[[bulk-substrate-field-capacity]]. This approach explicitly includes anastomosis (hyphal
 fusion) and translocation, which were neglected in earlier discrete models
 due to computational limitations. More appropriate for sparse growth in
 nutrient-poor or structurally [[gadd-fungal-imaging-techniques]] provide validation data, multi-scale models will become
@@ -65,7 +65,7 @@ resources from distant, resource-rich regions of the mycelium. This has
 profound implications:
 - Fungi can bridge air gaps, dry zones, and contaminated patches in soil
 - Species with efficient translocation can dominate heterogeneous habitats
-- The fungal mycelium functions as an integrated resource distribution
+- The [[fungal-mycelium-hyphae-and-the-feeding-phase]] functions as an integrated resource distribution
   network, not merely a collection of independent foraging hyphae
 
 ## Limitations and Challenges

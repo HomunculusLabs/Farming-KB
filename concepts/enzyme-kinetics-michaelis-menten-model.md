@@ -1,5 +1,5 @@
 ---
-title: Enzyme Kinetics and the Michaelis-Menten Model
+title: [[enzyme]] Kinetics and the Michaelis-Menten Model
 created: 2026-04-28
 updated: 2026-05-06
 aliases: [Michaelis-Menten kinetics, enzyme kinetics, Vmax, Km, enzyme catalysis]
@@ -81,7 +81,7 @@ or intercept versus [I].
 ## Catalytic Efficiency and the Diffusion Limit
 
 The turnover number kcat = Vmax/[E]total is molecules converted per active site
-per second, ranging from ~0.5 s^-1 (slow regulatory [[singh-white-rot-fungi-lignin-modifying-enzymes|enzymes]]) to ~10^6 s^-1
+per second, ranging from ~0.5 s^-1 (slow regulatory [[singh-white-rot-fungi-lignin-modifying-enzymes]]) to ~10^6 s^-1
 (carbonic anhydrase). Catalase achieves kcat ~ 4 x 10^7 s^-1, among the highest
 of all enzymes.
 

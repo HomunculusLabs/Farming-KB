@@ -1,5 +1,5 @@
 ---
-title: Mckenna Food Gods Amazonian Shamanism Ayahuasca Natural Mckenna Distillation And The Birth Of Synthetic Drugs
+title: [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] [[chullachaki-and-soul-recovery-in-amazonian-shamanism]] Ayahuasca Natural [[mckenna-distillation-and-the-birth-of-synthetic-drugs]] The Birth Of [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 created: 2026-04-28
 tags: [drugs, natural, synthetic, mckenna, ethnobotany]
 date: 2026-04-28

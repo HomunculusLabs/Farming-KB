@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Nutmeg and mace, derived from the fruit of Myristica fragrans, are
+Nutmeg and mace, derived from the fruit of [[myristica-fragrans]], are
 among the most widely known spices in world cuisine. Less well known is
 their capacity to induce psychoactive effects when consumed in large
 doses. In *Plants of the Gods*, Schultes, Hofmann, and Ratsch document
@@ -24,7 +24,7 @@ individuals seeking psychoactive experiences.
 ## Botanical Description
 
 Myristica fragrans is a handsome tree, unknown in a truly wild state,
-but widely cultivated in tropical regions of Europe, Africa, and Asia.
+but widely cultivated [[fukuoka-natural-farming-in-tropical-regions]] of Europe, Africa, and Asia.
 The tree produces nutmeg from the seed and mace from the red aril
 (arillode) surrounding the seed. Both spices have different tastes
 because of differing concentrations of components of their essential
@@ -49,7 +49,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

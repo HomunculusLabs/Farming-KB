@@ -45,7 +45,7 @@ created: 2026-04-28
 - You're finishing carved or textured surfaces where film buildup is undesirable
 - You want a warm, natural feel that shows wood texture
 - Easy reapplication and spot-repair is important
-- You support local beekeeping and pollinator ecosystems
+- You support local [[beekeeping-and-pollinator-conservation]] ecosystems
 
 ### Choose Shellac When:
 - You need a fast-drying, buildable film finish
@@ -75,6 +75,6 @@ Many finishers combine these materials to leverage their complementary propertie
 ## See Also
 
 - [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]] insects — deep dive into shellac production
-- [[natural-dye-plants]] and textile fiber crops — other natural coating materials
+- [[natural-dye-plants]] [[natural-dye-plants-and-textile-fiber-crops]] crops — other natural coating materials
 
 See also: [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]]

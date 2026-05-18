@@ -9,9 +9,9 @@ sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 
 # Martha Tent Mushroom Growing
 
-The Martha tent, named after the Martha Stewart brand of indoor greenhouse, is a
+The Martha tent, named after the Martha [[stewart-brand]] of indoor greenhouse, is a
 popular enclosed [[accessible-mushroom-cultivation-for-disabilities]]. It provides an
-intermediate step between simple fruiting chambers like the [[eclss-environmental-control-life-support]], and more professional results while remaining affordable
+intermediate step between simple [[fruiting-chambers-and-environmental-control]] like the [[eclss-environmental-control-life-support]], and more professional results while remaining affordable
 and accessible to home cultivators.
 
 ## What Is a Martha Tent
@@ -19,10 +19,10 @@ and accessible to home cultivators.
 A Martha tent is a freestanding, zippered enclosure made of clear or translucent
 vinyl with a metal or plastic frame. Originally designed as an indoor greenhouse
 for starting plant seedlings and growing orchids, these units are readily
-adapted for mushroom cultivation. They typically measure 48-72 inches tall and
-24-36 inches wide, providing several cubic feet of growing space. The clear
+adapted [[grass-seed-substrate-for-mushroom-cultivation]]. They typically measure 48-72 inches tall and
+24-36 inches wide, providing several cubic feet of [[cotter-growing-space-design-fruiting-rooms]]. The clear
 vinyl walls allow light transmission while the zippered door provides access.
-Most models include shelves for holding growing containers at multiple levels.
+Most models include shelves for holding [[cannabis-soil-growing-containers-flushing]] at multiple levels.
 
 ## Advantages Over Simple Chambers
 
@@ -48,7 +48,7 @@ itself:
 - **Intake port**: Often HEPA-filtered opening for fresh air entry
 - **Timer**: Controls the 12/12 light cycle with fluorescent or LED lighting
 - **Circulating fan**: Prevents stagnant air pockets inside the tent
-- **Digital thermometer/hygrometer**: For real-time environmental monitoring
+- **Digital thermometer/hygrometer**: For real-time [[singh-fungal-biosensors-environmental-monitoring]]
 
 ## Humidification Strategy
 

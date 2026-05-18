@@ -3,9 +3,9 @@ title: Semiconductor Physics and Devices
 type: concept
 category: physics
 related:
-  - crystal-structure-and-crystal-defects
-  - maxwell-equations-electromagnetism
-  - dislocation-theory-crystal-plasticity
+  - [[crystal-structure-and-crystal-defects]]
+  - [[maxwell-equations-electromagnetism]]
+  - [[dislocation-theory-crystal-plasticity]]
 tags: [physics, semiconductor, band-theory, pn-junction, transistor,
   MOSFET, optoelectronics, fabrication, quantum-wells, doping,
   carrier-transport, integrated-circuits, materials-science]
@@ -21,7 +21,7 @@ sources:
 Semiconductor physics governs materials with electrical conductivity between
 metals and insulators, typically with band gaps of 0.1–3.5 eV. [[gallium-arsenide]], and compound semiconductors form the basis of
 modern electronics, optoelectronics, and photovoltaics. The field bridges
-quantum mechanics and electrical engineering. Key milestones: the transistor
+[[quantum-mechanics-fundamentals]] and electrical engineering. Key milestones: the transistor
 at Bell Labs (1947, Shockley/Bardeen/Brattain) and the integrated circuit
 (1958, Kilby; planar process, Noyce).
 

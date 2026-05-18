@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal-metal-transformations-biosorption in Soil
+title: Fungal [[fungal-metal-transformations-biosorption]] in Soil
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources:
 # Fungal Metal Transformations in Soil
 
 Fungi are fundamental decomposer organisms and plant symbionts ([[singh-fungal-transformation-metals-metalloids]] of pyromorphite
-- Fungi can translocate caesium, zinc, and cadmium, concentrating metals in mycelium and fruiting bodies
+- Fungi can translocate caesium, zinc, and cadmium, concentrating metals in [[mycelium]] and [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 - The fungal soil component can immobilize total Chernobyl radiocaesium fallout in upland grasslands, though grazing animals may transfer radiocaesium through the food chain
 
 ## Metal Immobilization
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,4 +86,4 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the

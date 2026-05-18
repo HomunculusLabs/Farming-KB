@@ -2,7 +2,7 @@
 title: "4-PrO-DMT"
 type: chemical
 tags:
-  - tryptamine
+  - [[tryptamine]]
   - psychedelic
   - hallucinogen
   - serotonin-receptor
@@ -20,7 +20,7 @@ created: 2026-05-07
 
 ## Overview
 
-4-PrO-[[dmt]] (4-propyloxy-N,N-dimethyltryptamine) is a synthetic psychedelic tryptamine and a member of the 4-substituted dimethyltryptamine family. It is an analogue of psilocin (4-HO-DMT) and 4-AcO-DMT, with the hydroxyl or acetyl group replaced by a propyloxy substituent at the 4-position of the indole ring.
+4-PrO-[[dmt]] (4-propyloxy-N,N-dimethyltryptamine) is a synthetic psychedelic tryptamine and a member of the 4-substituted dimethyltryptamine family. It is an analogue of [[psilocin]] (4-HO-DMT) and 4-AcO-DMT, with the hydroxyl or acetyl group replaced by a propyloxy substituent at the 4-position of the [[indole]] ring.
 
 The compound was first synthesized and characterized by [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
@@ -42,7 +42,7 @@ The compound exists in research-chemical contexts and has not been approved for 
 
 The freebase form is an oily liquid at room temperature; the compound is typically handled as a salt (hydrochloride or fumarate) for improved stability.
 
-Solubility is moderate in polar organic solvents (ethanol, DMSO) and limited in water, consistent with its lipophilic indole scaffold.
+Solubility is moderate in polar organic solvents ([[ethanol]], DMSO) and limited in water, consistent with its lipophilic indole scaffold.
 
 ## Pharmacology
 

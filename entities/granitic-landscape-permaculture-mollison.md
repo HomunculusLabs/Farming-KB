@@ -1,5 +1,5 @@
 ---
-title: Granitic Landscape Permaculture
+title: Granitic [[arid-landscape-permaculture]]
 source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Granitic landscapes present a specialized set of challenges and opportunities for [[permaculture-design]]. These are slab landscapes characterized by exposed granite rock, permeable sand (often 100+ feet deep), minimal water retention, and rapid organic matter decomposition. [[bill-mollison]] devotes an entire section of the Permaculture Design Course to strategies for these difficult but surprisingly productive environments. The entire Perth plain of Western Australia — home to millions — sits on granitic sand.
+Granitic landscapes present a specialized set of challenges and opportunities for [[permaculture-design]]. These are slab landscapes characterized by exposed granite rock, permeable sand (often 100+ feet deep), minimal water retention, and rapid organic matter decomposition. [[bill-mollison]] devotes an entire section of the [[mollison-permaculture-design-course-curriculum]] to strategies for these difficult but surprisingly productive environments. The entire Perth plain of Western Australia — home to millions — sits on granitic sand.
 
 ## Classification
 
@@ -44,7 +44,7 @@ Species that thrive on granitic landscapes include:
 - **Figs** ([[ficus-carica]])
 - **Grapes** ([[vitis-vinifera]])
 - **Olives** (Olea europaea)
-- **Date palms** (Phoenix dactylifera)
+- **Date palms** ([[phoenix-dactylifera]])
 - **Strawberries** (in shaded pockets among rocks)
 - **Raspberries**
 - **Tomatoes and cucumbers** (in rock niches)
@@ -62,8 +62,8 @@ Species that thrive on granitic landscapes include:
 
 - Deep siliceous sand presents challenges for mycorrhizal networks — rapid organic matter loss means limited carbon for fungal symbionts
 - **Rock crevice microenvironments** may harbor unique fungal communities adapted to low-nutrient, well-drained conditions
-- **Mulched pockets on rock** create concentrated zones of fungal activity and nutrient cycling
-- **Below-garden gley systems** (proposed by Mollison): dig earth, install green mat layer, return earth — potentially creating favorable habitat for beneficial soil fungi
+- **Mulched pockets on rock** create concentrated zones of fungal activity [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
+- **Below-garden gley systems** (proposed by Mollison): dig earth, install green mat layer, return earth — potentially creating favorable [[query-how-do-i-design-habitat-for-beneficial-insects]] soil fungi
 - **Moss and fern establishment** on rocks (Mollison mentions moss-covered keylines) indicates the presence of moisture-retaining fungal-bacterial biofilms
 
 ## Design Principles
@@ -73,7 +73,7 @@ Species that thrive on granitic landscapes include:
 3. Every rock is a growing opportunity (shade, heat, moisture niche)
 4. Water must be captured, stored, and recycled at the smallest scale
 5. Deep sand areas should not be densely settled or crowded
-6. Integrate rocks into architecture as thermal mass and evaporative cooling
+6. Integrate rocks into architecture as thermal mass and [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]
 7. Use morning sun for leaf production, afternoon sun for ripening
 
 ## Sources

@@ -14,9 +14,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "Jacke, D. & Toensmeier, E. (2005). \"Edible forest-gardens, Volume 1: Ecological Vision and Theory for permaculture-designers-manual-temperate-climate-design Permaculture.\" Chelsea Green Publishing."
+  - "Jacke, D. & Toensmeier, E. (2005). \"Edible forest-gardens, Volume 1: Ecological Vision and Theory for permaculture-designers-manual-temperate-climate-design Permaculture.\" [[chelsea-green-publishing]]."
   - "Jacke, D. & Toensmeier, E. (2005). \forest-gardens Gardens, Volume 2: williams-pdc-ecological-design-principles and Practice for Temperate Climate Permaculture.\" Chelsea Green Publishing."
-  - "Holmgren, D. (2002). \"Permaculture: Principles and Pathways Beyond Sustainability.\" Holmgren Design Services."
+  - "Holmgren, D. (2002). \"Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]].\" Holmgren Design Services."
   - "Jacke, D. (2010). \"Post-design and installation forest garden maintenance.\" Permaculture Activist, 72, 36-41."
 ---
 
@@ -40,7 +40,7 @@ based on their ecological roles (nitrogen fixers, [[ben-falk]] — Resilient far
 ## Overview
 
 Dave Jacke represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -61,7 +61,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Dave Jacke finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -69,7 +69,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -90,7 +90,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 dave jacke and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

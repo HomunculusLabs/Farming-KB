@@ -10,7 +10,7 @@ type: entity
 
 Carl Gustav Jung (1875–1961) was a Swiss psychiatrist and founder of analytical psychology.
 
-He wrote the "Psychological Commentary" for W.Y. [[evans-wentz]]'s 1927 English edition of the Tibetan Book of the Dead.
+He wrote the "Psychological Commentary" for W.Y. [[evans-wentz]]'s 1927 English edition of [[jung-and-the-tibetan-book-of-the-dead]] of the Dead.
 
 Jung noted the convergence of Eastern and Western psychological understanding in the [[bardo-thodol]].
 
@@ -22,7 +22,7 @@ His concepts of archetypes, the collective unconscious, and individuation profou
 - **Nationality**: Swiss
 - **Dates**: 1875–1961
 - **Key Work**: "Psychological Commentary" on the Tibetan Book of the Dead
-- **Role**: Bridge between Eastern contemplative traditions and Western psychology
+- **Role**: Bridge between Eastern contemplative traditions and [[metzner-western-psychology-freud-jung-reich-entheogenic-integration]]
 
 ## Key Facts
 
@@ -54,7 +54,7 @@ He argued that the Bardo Thodol was not merely a funeral text but a guide to the
 
 Jung recognized that the three Bardo states described psychological processes, not just post-mortem realms.
 
-His reading opened the door to interpreting the Bardo Thodol as a map of altered states of consciousness.
+His reading opened the door to interpreting the Bardo Thodol as a map of altered [[mckenna-food-gods-designer-states-of-consciousness]].
 
 This psychological interpretation was foundational for Leary's later psychedelic adaptation.
 
@@ -78,11 +78,11 @@ Parallels the Bardo journey from ego-dissolution through visionary experience to
 
 ## Relevance to Psychedelic Studies
 
-Jung's psychological framework provided the conceptual bridge between Tibetan Buddhist practice and Western psychedelic use.
+Jung's psychological framework provided the conceptual bridge between Tibetan Buddhist practice and [[shamanic-vs-western-psychedelic-healing]] use.
 
 His commentary on the Bardo Thodol demonstrated that the text could be read as a psychological document.
 
-This reading enabled Leary to map Bardo states onto psychedelic experience phases.
+This reading enabled Leary to map Bardo states onto [[leary-psychedelic-experience-bardo-mapping]] phases.
 
 Jung's archetypes provide a framework for understanding the universal visionary content of psychedelic experiences.
 
@@ -92,7 +92,7 @@ The convergence Jung identified between East and West is exactly the synthesis *
 
 - **Lama Kazi Dawa-Samdup**: Translator of the Bardo Thodol upon which Jung wrote his commentary.
 - **W.Y. Evans-Wentz**: Editor who commissioned Jung's commentary.
-- **Timothy Leary**: Applied Jung's psychological reading of the Bardo to psychedelic sessions.
+- **Timothy Leary**: Applied Jung's psychological reading of the Bardo to [[bardo-instruction-texts-psychedelic-sessions]].
 - **Alan Watts**: Fellow Western interpreter of Eastern consciousness traditions.
 - **Clear Light**: The state Jung's individuation process ultimately aims toward.
 

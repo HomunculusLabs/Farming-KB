@@ -8,13 +8,13 @@ type: entity
 
 ## Description
 
-The Six Worlds (Sanskrit: Sad-gati; also called Six Realms of Existence) are the six possible modes of existence in Buddhist cosmology into which consciousness can be reborn. In *The Psychedelic Experience*, Leary interprets these as six personality types or levels of re-entry from a psychedelic session — the type of ego one reconstructs after ego-dissolution. Two are higher than normal human existence, three are lower. Each world has characteristic colors, symbols, and forms of psychological bondage.
+The Six Worlds (Sanskrit: Sad-gati; also called Six Realms of Existence) are the six possible modes of existence in Buddhist cosmology into which consciousness can be reborn. In *The [[leary-psychedelic-experience-bardo-mapping]]*, Leary interprets these as six personality types or levels of re-entry from a [[psychedelic-session-instructions]] — the type of ego one reconstructs after ego-dissolution. Two are higher than normal human existence, three are lower. Each world has characteristic colors, symbols, and forms of psychological bondage.
 
 ## Classification
 
 - **Tradition**: Tibetan Buddhism
 - **Category**: Buddhist Cosmology / Personality Typology
-- **Related Concepts**: Karma, Sangsara, Bardo Thodol
+- **Related Concepts**: Karma, Sangsara, [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]
 
 ## Key Facts
 
@@ -24,7 +24,7 @@ The Six Worlds (Sanskrit: Sad-gati; also called Six Realms of Existence) are the
    - **Light**: White
    - **Symbols**: Delightful temples, jewelled mansions
    - **Bondage**: Ever-recurring round of pleasure, free game ecstasy
-   - **Examples**: Gautama Buddha, Lao Tse, Christ
+   - **Examples**: [[gautama-buddha]], Lao Tse, Christ
    - **Character**: Most enlightened people walking the earth
 
 2. **Asuras** (Titans / Heroes)
@@ -77,14 +77,14 @@ The Six Worlds (Sanskrit: Sad-gati; also called Six Realms of Existence) are the
 
 - The Six Worlds framework provides a typology for understanding the range of post-psilocybin integration outcomes, from transformative mystical insight to worsening of pathological patterns
 - The animal symbolism (dog, cock, pig, snake, ape) maps onto recognizable post-session behaviors: compulsive sexuality, greed, anger, chaotic impulsivity
-- The instruction to "choose impartially" during re-entry parallels modern integration practices where patients are encouraged to reflect on their session without grasping or aversion
+- The instruction to "choose impartially" during re-entry parallels modern [[metzner-neoshamanic-preparation-and-integration-practices]] where patients are encouraged to reflect on their session without grasping or aversion
 - The observation that "less than 1%" end in either sainthood or psychosis is consistent with modern research showing that psilocybin rarely produces either full mystical transformation or lasting psychosis in screened populations
 - The concept that each world has characteristic "bondage" helps therapists identify which patterns a patient is likely to fall back into after a session
 
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*
 
 ## See Also
 

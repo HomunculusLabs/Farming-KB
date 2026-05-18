@@ -13,17 +13,17 @@ Biennial vegetables produce seeds in their second year of life, not their
 first. This means you must keep plants alive through winter and allow them to
 flower the following spring. The key challenges are winter survival, isolation
 distance to prevent cross-pollination, and patience — some biennials take up
-to 18 months from sowing to [[plant-propagation-techniques]] for storage best practices.
+to 18 months from sowing to [[plant-propagation-techniques]] for storage [[arbuscular-mycorrhizal-inoculum-production-best-practices]].
 
 ## Key Points
 
-- Biennial vegetables need two growing seasons and a cold period to produce
+- Biennial vegetables need two [[jeavons-climate-adaptation-growing-seasons]] and a cold period to produce
   seed — see [[coleman-overwintered-onions-and-early-spring-crops]].
 - Most biennials are outcrossing and need 500-800m isolation to maintain
   purity; beets/chard and all brassicas will cross within their species.
 - Select seed from the best plants — ideal size, shape, disease resistance,
   and true biennial behavior with no premature bolting.
-- Harvest seed when fully dry and brown, finish drying indoors, then thresh
+- [[mobile-greenhouses-winter-harvest-seed-varieties]] when fully dry and brown, finish drying indoors, then thresh
   and winnow. Store in airtight jars labeled with variety and year.
 
 ## Related Questions
@@ -74,15 +74,15 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
+ecology, data science, [[wasted-human-resources-and-traditional-knowledge]] systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

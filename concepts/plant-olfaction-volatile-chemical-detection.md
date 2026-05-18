@@ -1,12 +1,12 @@
 ---
-title: Plant Olfaction — How Plants Detect Chemical Signals
+title: Plant Olfaction — How Plants Detect [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication, chamovitz]
 ---
 
 # Plant Olfaction — How Plants Detect Chemical Signals
 
-Plants possess a sophisticated ability to detect volatile chemical signals in
+Plants possess a sophisticated ability to detect [[plant-olfaction-volatile-chemical-perception]] signals in
 their environment, a capacity that [[daniel-chamovitz]] explores in Chapter 2 of
 "What a Plant Knows." Plant olfaction, while fundamentally different from
 animal smell, enables plants to perceive neighboring organisms, respond to
@@ -21,7 +21,7 @@ roots all possess chemosensory capabilities.
 The plant equivalent of an olfactory receptor is typically a membrane-bound
 protein that undergoes a conformational change when it binds a specific
 [[reactive-oxygen-species-and-oxidative-stress]],
-and phytohormones like ethylene, jasmonic acid, and salicylic acid.
+and phytohormones like ethylene, [[jasmonic-acid-plant-defense-signaling]], and [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]].
 
 ## Key Examples of Plant Olfaction
 
@@ -62,7 +62,7 @@ Plant roots also detect chemical signals in the soil environment. Root
 exudates serve as chemical signals that mediate plant-plant interactions,
 plant-microbe communication, and belowground ecological relationships:
 
-- **Strigolactones**: Released by roots to attract mycorrhizal fungi, but
+- **Strigolactones**: Released by roots to attract [[arbuscular-mycorrhizal-fungi]], but
   paradoxically also trigger germination of parasitic witchweed seeds.
 - **Allelochemicals**: Some plants release compounds that inhibit the
   growth of competing species through root-level chemical detection.
@@ -73,7 +73,7 @@ plant-microbe communication, and belowground ecological relationships:
 Research has identified several families of plant proteins involved in
 volatile detection:
 
-- **Ethylene receptors**: Members of the two-component histidine kinase
+- **Ethylene receptors**: Members of the two-component [[gadd-two-component-signalling-histidine-kinase-fungi]]
   family that bind ethylene and regulate ripening, senescence, and stress
   responses.
 - **Jasmonate receptors**: The COI1-JAZ co-receptor complex detects

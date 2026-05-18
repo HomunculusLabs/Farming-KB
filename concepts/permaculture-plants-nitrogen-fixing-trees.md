@@ -11,7 +11,7 @@ tags: [culture, permaculture, plants, tree-crop]
 
 # Permaculture Nitrogen-Fixing Trees
 
-Nitrogen-fixing pioneer trees form the foundation of permaculture land reclamation and [[mollison-designers-bee-forage-tree-planting]]. Seed is prolific [[tagasaste-nurse-crop-fodder-systems]] for fruit and [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
+Nitrogen-fixing pioneer trees form the foundation of permaculture [[pioneer-species-for-land-reclamation]] and [[mollison-designers-bee-forage-tree-planting]]. Seed is prolific [[tagasaste-nurse-crop-fodder-systems]] for fruit and [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
 
 - mycorrhizal-nitrogen-transfer-between-plants
 - [[permaculture-design]]
@@ -24,10 +24,10 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 
@@ -65,7 +65,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

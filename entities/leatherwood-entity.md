@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Leatherwood is a tall, evergreen tree species native to the cool temperate
+Leatherwood is a tall, evergreen tree species native to the [[cool-temperate-establishment-and-pioneer-systems]]
 rainforests of Tasmania and parts of southeastern Australia. It belongs to the
 family Cunoniaceae and is renowned worldwide for producing one of the most
 distinctive and commercially valuable monofloral honeys on the planet. The tree
@@ -40,7 +40,7 @@ pollinators.
   rainforest, often along river valleys and in areas of high rainfall exceeding
   1000 mm annually.
 - Flowering occurs from late spring through mid-summer (November–January in
-  the Southern Hemisphere), providing a critical nectar flow for commercial
+  the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]), providing a critical nectar flow for commercial
   beekeeping operations across Tasmania.
 - Individual trees can produce prolific nectar over a flowering period of
   several weeks, making them a keystone forage species for apiarists.
@@ -48,7 +48,7 @@ pollinators.
   hundred years of age, forming an important component of old-growth forest
   structure.
 - The timber has been used historically for specialty woodworking, though its
-  primary contemporary value lies in honey production and conservation.
+  primary contemporary value lies in [[faires-beekeeping-and-honey-production]] and conservation.
 - The species is sensitive to fire and habitat disturbance, which has led to
   concerns about the long-term viability of leatherwood honey production in
   areas affected by logging or bushfire.
@@ -83,7 +83,7 @@ In [[permaculture]]
 
 When incorporating leatherwood into permaculture designs, consider its
 requirements for reliable rainfall, shelter from drying winds, and protection
-from fire. The tree is best established as part of a forest garden system in
+from fire. The tree is best established as part of [[query-what-are-the-seven-layers-of-a-forest-garden]] system in
 cool temperate or maritime climates where conditions mirror its natural habitat.
 Access for beekeepers should be planned as part of the design, ensuring hives
 can be placed within optimal foraging range (approximately 2–3 km) of flowering

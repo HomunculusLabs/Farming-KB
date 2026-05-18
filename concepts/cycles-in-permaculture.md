@@ -6,7 +6,7 @@ type: concept
 
 # Cycles in Permaculture
 
-Cycles are fundamental organizing principles in [[bill-mollison]]
+Cycles are fundamental [[fukuoka-natures-self-organizing-principles]] in [[bill-mollison]]
 describes a cycle as **"a niche in time"** — a recurring event or phenomenon that
 represents a diversion from the inevitable trend of entropy. Living systems
 capture, transform, and redirect energy and materials through repeated loops,
@@ -14,7 +14,7 @@ creating the conditions for sustained productivity and increasing complexity.
 
 ## Life as the Engine of Cycling
 
-Living organisms occupy a special role in cycling materials. In a mature tropical
+[[savory-living-organisms-as-tools]] occupy a special role in cycling materials. In a mature tropical
 forest, nearly all material nutrients are held and cycled within living forms —
 from canopy to forest floor and back again. Life does not merely participate in
 cycles; it actively constructs and accelerates them.
@@ -31,7 +31,7 @@ Mollison uses geese as a vivid illustration of a functional nutrient cycle:
 
 The balance between these determines the **number of opportunities** in any
 system. **Biocides** destroy the organisms responsible for [[decomposition]] and
-nutrient transfer, collapsing cycling opportunity entirely.
+[[interplant-carbon-nutrient-transfer-mycorrhizal-networks]], collapsing cycling opportunity entirely.
 
 ## People and Cycles
 
@@ -106,10 +106,10 @@ ecological systems and designing accordingly.
 
 - nutrient cycling
 - degenerative vs regenerative systems
-- zone and sector planning
-- tropical permaculture
+- zone [[permaculture-wind-fire-sun-and-sector-planning]]
+- [[comparison-arid-vs-tropical-permaculture]]
 - animal systems in permaculture
-- indigenous knowledge in design
+- [[desert-food-systems-and-indigenous-knowledge]] in design
 - entropy and order
 - soil building
 - waste as resource

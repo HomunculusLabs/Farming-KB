@@ -10,10 +10,10 @@ sources: []
 
 ## Overview
 
-Valerian and ashwagandha represent two distinct traditions of herbal medicine
+Valerian and ashwagandha represent two distinct traditions of [[childrens-herbal-medicine]]
 with complementary approaches to nervous system support. Valerian (Valeriana
 officinalis) is a European herb primarily known as a sedative and anxiolytic
-that works through GABAergic pathways. Ashwagandha (Withania somnifera) is an
+that works through GABAergic pathways. Ashwagandha ([[ashwagandha-withania-somnifera]]) is an
 Ayurvedic adaptogen that helps the body resist various stressors through multiple
 mechanisms, primarily involving withanolides. While both support mental
 wellbeing, they differ significantly in their origins, active compounds,
@@ -43,7 +43,7 @@ has been used for over 3,000 years to enhance vitality and resilience.
 
 Ashwagandha functions as a broad-spectrum adaptogen, helping the body resist
 various physical, chemical, and biological stressors. Clinical studies support
-its use for stress reduction, improved sleep quality, enhanced athletic
+its use for [[vipassana-mindfulness-and-stress-reduction-healing]], improved sleep quality, enhanced athletic
 performance, cognitive support, and male fertility. Unlike valerian, ashwagandha
 provides energy-enhancing effects rather than sedation, making it suitable for
 daytime use. It's particularly valuable for conditions involving fatigue,
@@ -51,7 +51,7 @@ exhaustion, and HPA axis dysfunction.
 
 ### Growing Requirements
 
-As a drought-tolerant perennial native to arid regions, ashwagandha thrives in
+As a drought-tolerant perennial native to [[fukuoka-natural-farming-in-arid-regions]], ashwagandha thrives in
 sandy loam soils with good drainage and full sun exposure. It grows 30-75 cm tall
 and is harvested after 150-180 days for optimal root development. The plant's
 xerophytic adaptations make it suitable for water-wise gardening in warm, dry
@@ -77,7 +77,7 @@ Choose valerian when your primary concerns involve sleep difficulties, anxiety
 that interferes with rest, or nervous excitement that prevents relaxation. It's
 particularly effective for those who experience "tired but wired" symptoms where
 mental agitation prevents sleep despite physical fatigue. Valerian works best for
-acute stress responses and situational anxiety rather than chronic fatigue or
+acute [[fungal-stress-responses]] and situational anxiety rather than [[cannabis-chronic-fatigue-research]] or
 exhaustion.
 
 ## When to Choose Ashwagandha

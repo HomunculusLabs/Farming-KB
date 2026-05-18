@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-Updated: 2026-04-18 Chicory (Cichorium intybus) is a hardy perennial plant valued as a nutritious salad green, [[medicinal-herb-growing]] 1-5 feet (30-150 cm) tall. It has a thick taproot that can reach 6-10 feet (2-3 m) deep, making it an excellent [[mollison-designers-bee-forage-tree-planting]] - Animal forage (kills worms, easy to digest) - Herbal remedy - Coffee substitute (roasted roots) - Companion in baby green salads - [[permaculture-dynamic-accumulator-plants]]
+Updated: 2026-04-18 Chicory ([[chicory-cichorium-intybus]]) is a hardy perennial plant valued as a nutritious salad green, [[medicinal-herb-growing]] 1-5 feet (30-150 cm) tall. It has a thick taproot that can reach 6-10 feet (2-3 m) deep, making it an excellent [[mollison-designers-bee-forage-tree-planting]] - [[permaculture-designers-manual-animal-forage-systems]] (kills worms, easy to digest) - Herbal remedy - Coffee substitute (roasted roots) - Companion in baby green salads - [[permaculture-dynamic-accumulator-plants]]
 
 - permaculture-herb-plants
 
@@ -28,7 +28,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -78,7 +78,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Textdoc Staff Of Life Critique Western Dietetics
+title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] Staff Of Life [[fukuoka-critique-western-dietetics]]
 created: 2026-04-28
 tags:
   - fukuoka
@@ -65,7 +65,7 @@ have a balanced diet by gathering many different foods at all times of
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -76,15 +76,15 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
 
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
+these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 

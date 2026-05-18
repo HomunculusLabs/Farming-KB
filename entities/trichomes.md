@@ -9,7 +9,7 @@ tags: [plant-physiology, epidermis, leaf-structures, defense, botany]
 
 ## Description
 
-Trichomes are tiny hair-like structures that grow from the epidermis of plant leaves, stems, and sometimes roots. These specialized epidermal outgrowths serve multiple functions including transpiration enhancement, herbivore defense, and water loss reduction. Trichomes are important diagnostic features in plant identification and play significant roles in plant–environment interactions.
+Trichomes are tiny hair-like structures that grow from the epidermis of plant leaves, stems, and sometimes roots. These specialized epidermal outgrowths serve multiple functions including transpiration enhancement, [[dighton-endophyte-alkaloid-grass-herbivore-defense]], and water loss reduction. Trichomes are important diagnostic features in plant identification and play significant roles in plant–environment interactions.
 
 ## Classification
 
@@ -53,9 +53,9 @@ In some species, trichomes scatter or absorb ultraviolet radiation, providing pr
 
 - **Cannabis cultivation:** Trichome density and development are primary indicators of cannabinoid maturity; harvest timing is based on trichome color (clear to milky to amber)
 - **Pest management:** Glandular trichomes provide natural pest resistance; environmental stress can increase trichome production
-- **Plant health indicator:** Trichome development reflects light intensity, humidity, nutrient availability, and stress conditions
+- **Plant health indicator:** [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] reflects light intensity, humidity, [[chelation-and-nutrient-availability]], and stress conditions
 - **Fungal interaction:** Trichomes can trap fungal spores before they reach the leaf surface, providing a physical barrier against pathogens
-- **Microclimate creation:** Dense trichome layers create humid microenvironments on leaf surfaces
+- **[[holzer-climate-zone-microclimate-creation]]:** Dense trichome layers create humid microenvironments on leaf surfaces
 
 ## Environmental Influences
 
@@ -75,7 +75,7 @@ In some species, trichomes scatter or absorb ultraviolet radiation, providing pr
 Trichomes vary enormously across the plant kingdom:
 
 - **Cannabis:** Capitate stalked and sessile glandular trichomes produce cannabinoids and terpenes
-- **Tomato:** Type VI glandular trichomes produce volatile organic compounds that attract predators of herbivores
+- **Tomato:** Type VI glandular trichomes produce [[chamovitz-plant-scent-communication-volatile-organic-compounds]] that attract predators of herbivores
 - **Mint family (Lamiaceae):** Peltate trichomes produce essential oils (menthol, thymol)
 - **Cotton:** Seed trichomes (cotton fibers) are the longest single cells in the plant kingdom
 - **[[stinging-nettle]]:** Silica-tipped trichomes inject histamine and formic acid when touched
@@ -86,7 +86,7 @@ Trichomes vary enormously across the plant kingdom:
 Trichomes are model systems for studying:
 
 - Cell differentiation and development
-- Secondary metabolite biosynthesis
+- [[fungal-elicitors-enhanced-secondary-metabolite-production]] biosynthesis
 - Plant-insect interactions
 - Glandular secretion mechanisms
 - Industrial production of valuable plant compounds

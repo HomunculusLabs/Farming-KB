@@ -7,14 +7,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137207/
-  - https://pubchem.ncbi.nlm.nih.gov/compound/Ibogaine
+  - https://pubchem.ncbi.nlm.nih.gov/compound/[[ibogaine]]
   - Alper, K.R. et al. (2001). "Ibogaine: A Review." The Journal of the American Board of Family Practice.
-  - Samorini, G. (1995). "The plants-of-the-gods-tabernanthe-iboga."
+  - Samorini, G. (1995). "The [[plants-of-the-gods-tabernanthe-iboga]]."
 ---
 
 # Iboga (Tabernanthe iboga)
 
-Iboga is a perennial rainforest shrub native to Central West Africa, particularly Gabon, Cameroon, and the Republic of the Congo. It is the botanical source of ibogaine, a potent psychoactive [[iboga-root-bark-preparation]] has been central to the Bwiti spiritual tradition, where it serves as a sacrament in [[egyptian-pyramid-initiation-rites]], healing ceremonies, and communal rituals.
+Iboga is a perennial rainforest shrub native to Central West Africa, particularly Gabon, Cameroon, and the Republic of the Congo. It is the botanical source of ibogaine, a potent psychoactive [[iboga-root-bark-preparation]] has been central to the Bwiti spiritual tradition, where it serves as a sacrament in [[egyptian-pyramid-initiation-rites]], [[ayahuasca-healing-ceremonies-iquitos]], and communal rituals.
 
 ## Taxonomy and Botany
 
@@ -53,8 +53,8 @@ The root bark of T. iboga contains at least 12 identified alkaloids, collectivel
 | Alkaloid | Approx. % of root bark | Primary Activity |
 |---|---|---|
 | Ibogaine | 1–5% | Psychedelic, anti-addictive |
-| Ibogamine | 0.2–0.5% | Stimulant, psychoactive |
-| Tabernanthine | 0.2–0.5% | Psychoactive |
+| [[ibogamine]] | 0.2–0.5% | Stimulant, psychoactive |
+| [[tabernanthine]] | 0.2–0.5% | Psychoactive |
 | Iboluteine | Trace | Unknown |
 | O-desmethylibogaine (noribogaine) | Metabolite | Serotonergic, anti-addictive |
 
@@ -63,7 +63,7 @@ The root bark of T. iboga contains at least 12 identified alkaloids, collectivel
 Ibogaine's pharmacology is exceptionally complex, acting on multiple receptor systems simultaneously:
 
 - **NMDA receptor antagonist:** Blocks N-methyl-D-aspartate receptors, contributing to dissociative and oneirogenic (dream-like) effects.
-- **Serotonin reuptake inhibition:** Moderately inhibits the serotonin transporter (SERT), increasing synaptic serotonin.
+- **[[serotonin]] reuptake inhibition:** Moderately inhibits the serotonin transporter (SERT), increasing synaptic serotonin.
 - **Sigma-2 receptor agonism:** May contribute to anti-addictive and neuroprotective effects.
 - **[[salvinorin-a-kappa-opioid-receptor-pharmacology]] modulation:** Weak affinity for mu and kappa opioid receptors. The metabolite noribogaine shows more significant mu-opioid agonism, which may contribute to withdrawal suppression.
 - **Dopamine transporter inhibition:** Moderate inhibition of dopamine reuptake.

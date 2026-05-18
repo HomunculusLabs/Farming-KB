@@ -1,5 +1,5 @@
 ---
-title: cho-fish-amino-acid-preparation Acid
+title: [[cho-fish-amino-acid-preparation]] Acid
 created: 2026-04-28
 type: chemical
 tags: [knf, faa, natural-farming-acid, fermentation, cho-global]
@@ -15,8 +15,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 ## Synergistic Combinations
 
 FAA is most effective when combined with other [[cannabis-vegetative-growth-stage]]
-* **FAA + OHN (1:1000 each):** Combines nitrogen supplementation with disease protection
-* **FAA + WCA (1:1000 each):** During fruiting, FAA provides nitrogen while Water-Soluble Calcium supports cell wall strength and fruit quality
+* **FAA + OHN (1:1000 each):** Combines [[nitrogen-supplementation-for-mushroom-substrates]] with disease protection
+* **FAA + WCA (1:1000 each):** During fruiting, FAA provides nitrogen while Water-Soluble Calcium supports [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]] strength and fruit quality
 * **FAA + BRV (Brown [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], delays flowering, and reduces fruit quality
 * **Pest attraction:** Fish-based products can attract flies, ants, and other pests. Apply in the evening when pest activity is lower. Soil applications may require protective barriers.
 * **Phytotoxicity:** Undiluted FAA or over-concentrated applications (>1:200) can burn leaves and roots, particularly on sensitive crops (lettuce, herbs, seedlings)
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

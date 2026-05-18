@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DON
 
-PIHKAL entry #70. 2,5-DIMETHOXY-4-NITROAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #70. 2,5-DIMETHOXY-4-NITROAMPHETAMINE.
 
 ## Chemical Name
 
@@ -39,7 +39,7 @@ PIHKAL entry #70. 2,5-DIMETHOXY-4-NITROAMPHETAMINE.
 
 ## Extensions and Commentary
 
-These qualitative comments are not true quotations, but have been reconstructed from the published summaries of the human trials reported by several [[chiric-caspi-brunfelsia-south-american-hallucinogen]] researchers. I have personally never tasted DON and have only these fragments from which to create a portrait of activity. A brief quotation, from a note published by these researchers in a bulletin that is restricted to forensic scientists serving law enforcement agencies, is certainly subject to a number of interpretations. It reads as follows: "This action [a strong stimulant action reminiscent of amphetamine] seems to reduce the incidence of insightful, and therefore potentially unpleasant experiences, and thus [DON seems likely] to appear on the market as an illicit recreational drug." I must admit that I have tried, and I am still not able, to interpret this quotation.
+These qualitative comments are not true quotations, but have been reconstructed from the published summaries of the human trials reported by several [[chiric-caspi-brunfelsia-south-american-hallucinogen]] researchers. I have personally never tasted DON and have only these fragments from which to create a portrait of activity. A brief quotation, from a note published by these researchers in a bulletin that is restricted to forensic scientists serving [[cervantes-grow-room-security-law-enforcement]] agencies, is certainly subject to a number of interpretations. It reads as follows: "This action [a strong stimulant action reminiscent of amphetamine] seems to reduce the incidence of insightful, and therefore potentially unpleasant experiences, and thus [DON seems likely] to appear on the market as an illicit recreational drug." I must admit that I have tried, and I am still not able, to interpret this quotation.
 
 ## Synthesis
 
@@ -53,7 +53,7 @@ extreme caution. This compound is not approved for human consumption.
 
 ## Chemical Properties
 DON (2,5-Dimethoxy-4-nitroamphetamine) is a substituted amphetamine
-belonging to the DOx family of psychedelic compounds. Molecular formula:
+belonging to the DOx family of [[psychedelic-compounds-reference]]. Molecular formula:
 C10H14N2O4. The compound features the characteristic 2,5-dimethoxy
 pattern on the phenyl ring, with a nitro group at the 4-position rather
 than the halogen or thioalkyl groups found in more common DOx compounds

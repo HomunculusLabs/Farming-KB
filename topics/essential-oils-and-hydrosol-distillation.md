@@ -1,5 +1,5 @@
 ---
-title: "Essential essential oils and hydrosol distillation Distillation"
+title: "Essential [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]] hydrosol distillation Distillation"
 subtitle: "A comprehensive guide to extracting aromatic plant compounds through comparison-steam-distillation-vs-co2-extraction-for-essential-oils"
 tags: [essential-oils, hydrosols, distillation, aromatic-plants, herbalism, herbal-medicine]
 date: 2026-04-28
@@ -34,7 +34,7 @@ traditional therapeutic claims.
 
 This article covers the chemistry of essential oils, the
 distillation process from lab to home scale, major aromatic plant
-families, quality assessment, storage, safety, and the growing
+families, [[ingham-compost-quality-assessment-visual-microbial-indicators]], storage, safety, and the growing
 movement toward small-scale and community-based production.
 
 ## The Chemistry of Essential Oils
@@ -42,8 +42,8 @@ movement toward small-scale and community-based production.
 Essential oils are complex mixtures of [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 Unlike primary metabolites (proteins, carbohydrates, lipids),
-secondary metabolites are not directly involved in growth or
-reproduction — they serve ecological functions like attracting
+[[biodiversity-fungal-secondary-metabolites]] are not directly involved in growth or
+reproduction — they serve [[fungal-melanin-biosynthesis-ecological-functions]] like attracting
 pollinators, deterring herbivores, inhibiting microbial growth,
 and protecting against environmental stress.
 
@@ -52,7 +52,7 @@ monoterpenes (C10H16), sesquiterpenes (C15H24), monoterpenols,
 sesquiterpenols, esters, aldehydes, ketones, phenols, and oxides.
 
 Each family contributes distinct aromatic qualities and
-therapeutic properties.
+[[raw-cannabis-thca-non-psychoactive-therapeutic-properties]].
 
 Monoterpenes like limonene and pinene are light, sharp, and
 highly volatile — they evaporate quickly and tend to be
@@ -63,7 +63,7 @@ and distillation parameters.
 
 This is why rosemary from Spain (high in camphor) smells and
 acts differently from rosemary from Corsica (high in verbenone),
-even though both are Rosmarinus officinalis.
+even though both are [[rosmarinus-officinalis-entity]].
 
 ## Steam Distillation: The Primary Extraction Method
 

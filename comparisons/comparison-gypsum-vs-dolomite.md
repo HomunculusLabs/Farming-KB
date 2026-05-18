@@ -11,8 +11,8 @@ sources:
 
 ## Overview
 
-Gypsum (calcium sulfate) and dolomite (calcium magnesium carbonate)
-are two of the most widely used mineral amendments in agriculture,
+Gypsum (calcium sulfate) and dolomite ([[calcium-magnesium-secondary-nutrients]] carbonate)
+are two of the most widely used [[cervantes-organic-mineral-amendments]] in agriculture,
 horticulture, and mycology. Both supply calcium, but they behave
 very differently in soil. Gypsum is pH-neutral and provides calcium
 plus sulfur, while dolomite raises pH and supplies both calcium and
@@ -25,7 +25,7 @@ adjustment.
 [[cervantes-dolomite-lime-ph-buffering]]
 
 Dolomite is calcium magnesium carbonate (CaMg(CO₃)₂). It supplies
-both calcium and magnesium in roughly equal proportions and raises
+both [[dynamic-accumulator-plants-calcium-and-magnesium]] in roughly equal proportions and raises
 soil pH toward neutral. Cervantes describes fine dolomite lime as a
 favourite pH stabiliser for cannabis growers, particularly in rainy
 climates with acidic soils. Its pH of 7.0 means it can never raise
@@ -58,7 +58,7 @@ dolomite applications may be the culprit.
 | Solubility | Moderate | Low (slow-release) |
 | Primary role | Calcium + structure | Calcium + Mg + pH buffer |
 | Over-use risk | Low | Mg accumulation |
-| Best context | Alkaline soils, mushroom substrates | Acidic soils, Mg deficiency |
+| Best context | [[plants-tolerant-of-alkaline-soils]], [[kh2po4-phosphate-supplementation-mushroom-substrates]] | Acidic soils, Mg deficiency |
 
 ## When to Choose Gypsum
 
@@ -70,7 +70,7 @@ soil structure — the sulfate ions help flocculate clay particles,
 improving drainage and root penetration.
 
 Mushroom cultivators should default to gypsum over dolomite for
-substrate preparation. It prevents grain clumping, provides calcium
+[[bulk-substrate-preparation]]. It prevents grain clumping, provides calcium
 for metabolic processes, and offers mild pH buffering without the
 pH spike that dolomite would introduce. In Solomon's COF recipe,
 gypsum fills the niche of "calcium without pH change" that neither

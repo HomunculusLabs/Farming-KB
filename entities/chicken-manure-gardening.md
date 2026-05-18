@@ -23,7 +23,7 @@ Chicken manure is a potent organic fertilizer widely used in vegetable gardening
 - **Form:** Sold in sacks that have been "somewhat composted" or as fully composted product
 - **Application rate:** Used in thin layers — 1/8 inch (3 mm) for medium-demand vegetables; 1/4 inch (6 mm) for high-demand vegetables per 1,000 square feet
 - **Potency warning:** Care must be taken not to overuse; excess nitrogen can burn plants and disrupt soil mineral balance
-- **Solomon's experience:** Used commercially available chicken manure before switching exclusively to COF (Complete Organic Fertilizer)
+- **Solomon's experience:** Used commercially available chicken manure before switching exclusively to COF ([[complete-organic-fertilizer-cof-formula]])
 - **Application method:** Spread on soil surface, then spade/rake in before planting
 - **Cost-effective:** Provides more nutrients per dollar than steer manure due to higher concentration
 
@@ -45,12 +45,12 @@ Chicken manure is a potent organic fertilizer widely used in vegetable gardening
 
 ## Relevance to Cultivation and Mycology
 
-- **Mushroom compost ingredient:** Chicken manure is a traditional nitrogen source in mushroom compost formulations for Agaricus cultivation
-- **Nitrogen source:** Provides readily available nitrogen for composting processes used in substrate preparation
-- **Soil microbial stimulation:** High nitrogen content feeds thermophilic organisms during composting
+- **Mushroom compost ingredient:** Chicken manure is a traditional nitrogen source in mushroom compost formulations for [[agaricus-cultivation]]
+- **Nitrogen source:** Provides readily available nitrogen for composting processes used in [[bulk-substrate-preparation]]
+- **Soil microbial stimulation:** High nitrogen content feeds [[thermophilic-organisms]] during composting
 - **Compost thermophily:** Helps achieve proper temperatures in compost piles (160-170 F / 71-77 C) necessary for Phase I mushroom compost
-- **Caution in mycological use:** Must be fully composted before use as mushroom substrate; fresh manure contains ammonia toxic to mycelium
-- **Historical significance:** Chicken manure has been a cornerstone of commercial mushroom compost production since the early 20th century
+- **Caution in mycological use:** Must be fully composted before use [[grass-seed-as-mushroom-substrate]]; fresh manure contains ammonia toxic to mycelium
+- **Historical significance:** Chicken manure has been a cornerstone [[history-of-commercial-mushroom-cultivation]] compost production since the early 20th century
 
 ## Warnings
 

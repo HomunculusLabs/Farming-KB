@@ -10,13 +10,13 @@ sources: []
 # Panaeolus olivaceus
 **Panaeolus olivaceus**, commonly known as the **olive mottlegill**, is a small,
 dung-inhabiting mushroom found worldwide in temperate and subtropical regions. It is one
-of several species in the genus panaeolus known to contain psychoactive tryptamine
+of several species in the genus panaeolus known to contain psychoactive [[tryptamine]]
 compounds, though its potency is generally considered low to moderate compared to more
 prominent species like [[panaeolus-fimicola]] is very similar but typically has a more reddish-brown cap
   coloration
 - [[panaeolus-cyanescens-entity]], which has documented use in traditional Hawaiian and
 Pacific Islander cultures, P. olivaceus is primarily of interest to mycologists and
-amateur mushroom enthusiasts. Its presence as a [[panaeolus-tropicalis]] — a closely related tropical species with higher psilocybin
+amateur mushroom enthusiasts. Its presence as a [[panaeolus-tropicalis]] — a closely related tropical species with higher [[psilocybin]]
   content
 - [[coprophilous-fungi]] — the ecological category of dung-inhabiting fungi
 ## Practical Applications
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

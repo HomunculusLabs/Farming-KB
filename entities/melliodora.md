@@ -8,8 +8,8 @@ type: entity
 
 ## Description
 
-Melliodora is the permaculture property of [[david-holmgren]] and Su Dennett, located
-in Hepburn Springs, central Victoria, Australia. Named after *[[eucalyptus-melliodora]]*
+Melliodora is the [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]] of [[david-holmgren]] and Su Dennett, located
+in [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]], central Victoria, Australia. Named after *[[eucalyptus-melliodora]]*
 (Yellow Box), the property is one of the most documented and influential permaculture
 demonstration sites in the world. Established in the mid-1980s on approximately one
 hectare (2.5 acres) of land, Melliodora integrates residential living with intensive
@@ -21,7 +21,7 @@ demonstrating how a small suburban-rural property can provide a significant
 proportion of a household's food, energy, and material needs through integrated
 biological design. Melliodora is extensively documented in Holmgren's book
 *Melliodora: A Case Study in Design* and is frequently referenced throughout
-*Permaculture: Principles and Pathways Beyond Sustainability* as a source of
+*Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]* as a source of
 practical examples.
 
 ## Classification
@@ -62,7 +62,7 @@ practical examples.
 
 - **Soil Biological Management**: The integration of poultry, goats, and
   composting creates diverse organic matter inputs that feed soil microbial
-  communities, including beneficial fungi and mycorrhizal networks.
+  communities, including beneficial [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] networks.
 - **Liquid Manure System**: 200-litre polyethylene barrels are used for liquid
   manure production, a process involving anaerobic and aerobic fermentation
   that supports diverse microbial communities including beneficial fungi.
@@ -70,10 +70,10 @@ practical examples.
   to mulch creates woody organic matter that supports saprophytic fungal
   colonisation and gradual decomposition.
 - **Worm Farming Integration**: Worm farms process wet, high-nitrogen wastes,
-  with vermicompost introducing fungal spores and beneficial microorganisms
+  with vermicompost introducing fungal spores and [[forest-and-bamboo-beneficial-microorganisms]]
   into garden soils.
 - **Companion Planting**: Tagasaste and wattle (Acacia) species are nitrogen-
-  fixers that also form mycorrhizal associations, supporting underground fungal
+  fixers that also form [[plants-without-mycorrhizal-associations]], supporting underground fungal
   networks that benefit neighbouring fruit trees.
 - **Water Cycling**: The cascading water use hierarchy maintains soil moisture
   levels and supports soil biological activity including fungal networks.

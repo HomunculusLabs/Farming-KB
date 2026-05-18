@@ -18,14 +18,14 @@ Rotenone is a naturally occurring compound found in the roots and stems of sever
 
 - **Chemical class:** Isoflavonoid
 - **Source plants:** *Derris elliptica* (tuba root), *Lonchocarpus* species (cube root), *Tephrosia* species
-- **Mode of action:** Mitochondrial electron transport chain inhibitor (complex I/NADH-ubiquinone oxidoreductase)
+- **Mode of action:** Mitochondrial [[electron-transport-chain-mitochondrial-respiration]] inhibitor (complex I/NADH-ubiquinone oxidoreductase)
 - **Effect:** Inhibits cellular respiration, leading to energy depletion and death
 - **Solubility:** Nearly insoluble in water; soluble in organic solvents
 - **Environmental fate:** Degrades rapidly in sunlight; half-life of 1-3 days on plant surfaces
 
 ## Historical Context
 
-Rotenone was widely used in both conventional and organic agriculture throughout the 20th century. [[eliot-coleman]] includes it in his list of palliative treatments in *The Winter Harvest Handbook*, alongside DDT, Malathion, and other pesticides. His point is that even botanical insecticides like rotenone treat symptoms rather than correcting the ecological causes of pest outbreaks.
+Rotenone was widely used in both [[jadam-conventional-and-organic-pesticide-integration]] agriculture throughout the 20th century. [[eliot-coleman]] includes it in his list of palliative treatments in *The [[eliot-coleman-and-the-winter-harvest-handbook]]*, alongside DDT, Malathion, and other pesticides. His point is that even botanical insecticides like rotenone treat symptoms rather than correcting the ecological causes of pest outbreaks.
 
 ## Health and Safety Concerns
 
@@ -38,7 +38,7 @@ Rotenone was widely used in both conventional and organic agriculture throughout
 
 - Was once a staple of organic pest management programs
 - Effective against a wide range of insects including aphids, caterpillars, beetles, and mites
-- Also toxic to beneficial insects, fish, and other non-target organisms
+- Also toxic to [[beneficial-insects-and-biological-pest-control]], fish, and other non-target organisms
 - Its decline in use reflects growing awareness that "natural" does not always mean "safe"
 - Coleman's philosophy suggests replacing all such interventions with ecological management
 
@@ -61,7 +61,7 @@ broader farming and gardening practice.
 
 ## Historical Significance
 
-The historical development of rotenone reflects broader trends
+The [[historical-development-of-mushroom-cultivation]] rotenone reflects broader trends
 in agricultural science and ecological thinking. Early observations
 and experiments laid groundwork that modern practitioners continue
 to build upon, connecting traditional knowledge with contemporary
@@ -89,4 +89,4 @@ The economic aspects of this topic include direct costs, labor
 requirements, and potential returns for growers and producers.
 Cost-benefit analyses help determine optimal implementation
 strategies. Scale of operation and regional market conditions
-significantly influence economic viability.
+significantly influence [[economic-viability-water-retention-landscapes]].

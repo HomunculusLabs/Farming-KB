@@ -12,16 +12,16 @@ type: concept
 
 ## Overview
 
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with medicinal properties. Their nutritional profile makes
-them particularly valuable in developing countries where protein malnutrition
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]. Their nutritional profile makes
+them particularly valuable in [[low-cost-mushroom-growing-house-construction-developing-countries]] where protein malnutrition
 is prevalent and access to animal protein sources may be limited. As Quimio
 (2002) notes, "mushrooms can mean cash for the poor and a new source of
 nutrition" in regions where conventional protein sources are scarce or
 expensive.
 
-The nutritional value of oyster mushrooms extends beyond basic macronutrients
-to include a range of bioactive compounds. Pleurotus species are good sources
-of beta-1,3/1,6-glucans (called pleuran), mevinolin and related compounds,
+The nutritional value [[cultivation-of-oyster-mushrooms]] extends beyond basic macronutrients
+to include a range of [[cordyceps-cancer-bioactive-compounds]]. Pleurotus species are good sources
+of beta-1,3/1,6-glucans (called pleuran), mevinolin and [[lsd-structure-activity-relationships-related-compounds]],
 and other molecules with immunomodulatory, cholesterol-lowering, and
 antioxidant properties. These attributes position oyster mushrooms at the
 intersection of food and medicine.
@@ -89,7 +89,7 @@ suggests multiple pathways for further exploration and refinement.
 ## Integration and Implementation
 
 Successful implementation of oyster mushroom nutritional composition requires attention to site-specific
-conditions and adaptive management strategies. Integration with complementary
+conditions and adaptive [[forest-management-strategies]]. Integration with complementary
 practices often enhances overall outcomes. Practitioners recommend starting with
 small-scale trials before scaling up, documenting results systematically to
 inform future decisions and share knowledge with the broader community.

@@ -76,18 +76,18 @@ Wiggle wire (also known as wire-lock, springlock, or poly-lock) is a greenhouse 
 
 ## Relevance to Cultivation
 
-Wiggle wire is a foundational component of efficient greenhouse management:
+Wiggle wire is a foundational component of efficient [[aphid-greenhouse-management]]:
 
-- **Rapid ventilation adjustment**: Quick unclip and re-secure is essential for daily temperature management
+- **Rapid ventilation adjustment**: Quick unclip and re-secure is essential for daily [[cervantes-reservoir-temperature-management]]
 - **Seasonal covering changes**: Mobile houses covered/uncovered seasonally benefit from speed
 - **Cost efficiency**: Reusable hardware reduces per-season infrastructure costs
-- **Storm preparedness**: Quick removal or tightening of plastic before severe weather
+- **[[winter-storm-preparedness]]**: Quick removal or tightening of plastic before severe weather
 
 For any grower building or managing poly-covered structures, wiggle wire is the industry-standard attachment method that balances security, speed, and durability.
 
 ## Source Reference
 
-Eliot Coleman, *The Winter Harvest Handbook* (Chelsea Green, 2009), Chapter 5: "Greenhouse Design," pp. 112–117.
+[[eliot-coleman]], *The [[eliot-coleman-and-the-winter-harvest-handbook]]* (Chelsea Green, 2009), Chapter 5: "[[cold-greenhouse-design-unheated]]," pp. 112–117.
 ## See also
 
 - [[quick-hoops]]

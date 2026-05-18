@@ -8,7 +8,7 @@ sources: []
 ---
 # Lentinan Clinical Research
 
-Lentinan is a purified β-(1→3)-D-glucan with β-(1→6) branches extracted from the fruiting bodies and mycelium of [[psk-psp-polysaccharide-peptides]] — similar compounds from [[shiitake-cultivation-guide]] — practical [[sarcoma-180-antitumour-assay]]
+Lentinan is a purified β-(1→3)-D-glucan with β-(1→6) branches extracted from the [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and mycelium of [[psk-psp-polysaccharide-peptides]] — similar compounds from [[shiitake-cultivation-guide]] — practical [[sarcoma-180-antitumour-assay]]
 - [[cancer-agaricus-blazei]]
 ## Background and Context
 
@@ -19,10 +19,10 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 
@@ -60,7 +60,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

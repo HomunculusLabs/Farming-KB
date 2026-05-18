@@ -16,7 +16,7 @@ sources:
 toward the Himalayas. Along with its close relative *Mandragora autumnalis*,
 it is one of approximately six species in the genus *Mandragora*. Mandrake
 possesses one of the most elaborate and enduring histories of any
-hallucinogenic plant in Western culture, deeply interwoven with European
+hallucinogenic plant [[mycophobia-in-western-culture]], deeply interwoven with European
 folklore, mythology, magic, and medieval pharmacology.
 
 ## Botanical Description
@@ -49,10 +49,10 @@ detailed botanical and pharmacological description of mandrake in his
 collector drew three circles around the plant with a sword, facing west, cut
 the root while looking away, and used a dog to pull it from the ground,
 believing the plant's unearthly shriek upon extraction would kill whoever
-pulled it directly. This legend persisted throughout European folklore for
+pulled it directly. This legend persisted throughout [[mandrake-mandragora-officinarum-in-european-folklore]] for
 over two thousand years.
 
-Dioscorides (c. 40-90 CE), in his *De Materia Medica*, prescribed mandrake
+Dioscorides (c. 40-90 CE), in his *De [[herbal-materia-medica]]*, prescribed mandrake
 root as an anesthetic for surgical procedures. A wine infusion of small
 amounts of freshly harvested mandrake root was administered before surgery
 to induce deep, dreamless sleep — one of the earliest recorded surgical
@@ -67,7 +67,7 @@ also warning of its lethal toxicity at higher doses.
 Mandrake was one of the most potent and important ingredients in the complex
 hallucinogenic preparations attributed to medieval and early modern European
 witches. These brews [[datura-stramonium]]. The
-tropane alkaloids in these mixtures produced vivid visual hallucinations,
+[[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] in these mixtures produced vivid visual hallucinations,
 sensations of floating or flying, feelings of bodily transformation, and
 profound dissociation from reality — experiences that formed the experiential
 basis of European witch-lore.

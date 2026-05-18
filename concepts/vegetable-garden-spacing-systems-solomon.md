@@ -1,17 +1,17 @@
 ---
-title: Vegetable Garden Spacing Systems
+title: [[aphid-management-vegetable-garden-solomon]] Spacing Systems
 aliases:
   - plant spacing
   - row gardening
   - intensive spacing
-  - wide spacing
+  - [[solomon-wide-spacing-versus-intensive-gardening-debate]]
 tags:
   - gardening
   - vegetable-production
   - plant-spacing
   - irrigation
   - steve-solomon
-source: Gardening When It Counts - Steve Solomon (2005)
+source: Gardening When It Counts - [[steve-solomon]] (2005)
 created: 2026-05-11
 ---
 
@@ -32,7 +32,7 @@ Popularized by John Jeavons (Grow Biointensive) and Mel Bartholomew (Square
 Foot Gardening), intensive spacing places vegetables close together in deeply
 dug, heavily amended raised beds. Plants are spaced so their leaves barely
 overlap at maturity, supposedly shading the soil to conserve moisture and
-suppress weeds.
+[[query-how-do-cover-crops-suppress-weeds]].
 
 **Advantages:** Maximizes output from small spaces; efficient for urban
 gardens with limited land; visually appealing raised bed aesthetics.
@@ -47,7 +47,7 @@ to intensive beds.
 
 ### 3. Reduced Irrigation Spacing
 A middle ground where plants are spaced wider than intensive but closer
-than traditional row spacing, with modest irrigation. This system
+than traditional [[wide-row-spacing-intensive-gardening-comparison]], with modest irrigation. This system
 acknowledges that some supplemental water may be needed but seeks to
 minimize it through thoughtful spacing.
 
@@ -76,7 +76,7 @@ but adapted to the gardener's specific situation. His guidelines:
 
 ## The Yield Paradox
 
-Solomon's variety trials consistently showed that properly spaced plants
+Solomon's [[coleman-seed-selection-and-variety-trials]] consistently showed that properly spaced plants
 produced more total food per unit of area than crowded plants, once the
 entire system was accounted for. A crowded tomato plant might produce 15
 pounds of small, watery fruit requiring daily watering and weekly

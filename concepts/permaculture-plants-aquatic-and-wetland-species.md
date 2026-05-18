@@ -1,5 +1,5 @@
 ---
-title: Permaculture Plants Aquatic And Wetland Species
+title: [[permaculture-plants-aquatic-systems-water-plants]] And Wetland Species
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -25,7 +25,7 @@ and the accumulated wisdom of hands-on practice in the field.
 [[historical-development-of-mushroom-cultivation]] of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 

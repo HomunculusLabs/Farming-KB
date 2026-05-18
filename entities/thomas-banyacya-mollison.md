@@ -20,20 +20,20 @@ Thomas Banyacya (1909–1999) was a Hopi elder, spiritual leader, and designated
 
 - Served as one of four messengers chosen by Hopi religious leaders to carry traditional prophecies and warnings to the outside world, including the United Nations.
 - Advocated for a concept of nationhood based on shared ethical principles — care for the earth, peace, and human rights — rather than on political borders, military power, or economic systems.
-- His dialogue with Bill Mollison influenced the permaculture vision of a "new united nations" composed of affinity groups, bioregional congresses, and tribal alliances united by an earth-care ethic.
+- His dialogue with Bill Mollison influenced the permaculture vision of a "[[new-united-nations-permaculture-social-strategy]]" composed of affinity groups, bioregional congresses, and tribal alliances united by an earth-care ethic.
 - Spoke before the United Nations General Assembly in 1992, delivering the Hopi prophecy warning of environmental catastrophe if humanity failed to live in harmony with the natural world.
 - Embodied the Hopi tradition of peaceful resistance and long-term ecological stewardship, consistent with the "seventh generation" principle.
 
 ## Relevance to Cultivation and Mycology
 
-- Banyacya's message reinforced the permaculture principle that sustainable land management requires an ethical foundation — not merely technical solutions.
+- Banyacya's message reinforced the [[permaculture-principle-1-observe-interact]] that sustainable land management requires an ethical foundation — not merely technical solutions.
 - His advocacy for earth-centred governance parallels permaculture's zoning strategy: small, well-managed, locally adapted systems that resist centralised, exploitative control.
 - The Hopi agricultural tradition itself — dryland farming of maize, beans, and squash in arid conditions — exemplifies the deep ecological knowledge that permaculture seeks to integrate.
 - His emphasis on intergenerational responsibility (seventh generation thinking) underpins the permaculture ethic of designing for long-term sustainability rather than short-term yield.
 
 ## Context in Permaculture Design
 
-Mollison uses Banyacya's perspective to argue that the existing United Nations fails to represent true nations — peoples bound by common ethics — and that bioregional congresses and tribal alliances offer a more authentic model for global cooperation in earth repair.
+Mollison uses Banyacya's perspective to argue that the existing United Nations fails to represent true nations — peoples bound by common ethics — and that [[bioregional-congresses-and-global-nation-permaculture]] tribal alliances offer a more authentic model for global cooperation in earth repair.
 
 ## See Also
 
@@ -45,7 +45,7 @@ Mollison uses Banyacya's perspective to argue that the existing United Nations f
 ## Background and Influence
 This figure contributed significantly to the development of permaculture
 and sustainable land management practices. Their work influenced both
-academic research and practical applications in ecological design.
+academic research and practical applications [[pattern-understanding-in-ecological-design]].
 
 ## Key Contributions
 Major contributions include advancing understanding of natural systems
@@ -58,7 +58,7 @@ and ecological design thinking worldwide.
 ## Historical Context
 This topic was explored by Bill Mollison as part of the permaculture
 design framework, emphasizing sustainable and regenerative approaches
-to land management and community organization. The principles discussed
+to land management [[bioregionalism-and-community-organization]]. The principles discussed
 remain relevant to modern ecological design practice.
 
 ## Further Reading
@@ -77,4 +77,4 @@ published literature on sustainable systems, and community networks.
 ## Contemporary Relevance
 These concepts remain highly relevant to modern sustainability discourse
 and ecological design practice. Their integration into contemporary
-permaculture and regenerative agriculture frameworks continues to evolve.
+permaculture and [[biochar-in-regenerative-agriculture]] frameworks continues to evolve.

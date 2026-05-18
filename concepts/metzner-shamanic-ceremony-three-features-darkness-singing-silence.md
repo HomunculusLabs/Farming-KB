@@ -1,6 +1,6 @@
 ---
-title: "metzner shamanic ceremony three features darkness singing silence: Three Features of Darkness, Singing, and Silence"
-source: "Ralph Metzner — Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism (1998)"
+title: "[[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] three features [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]] silence: Three Features of Darkness, Singing, and Silence"
+source: "Ralph Metzner — Hallucinogenic Drugs and Plants in [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] (1998)"
 topic: "shamanic-ceremony-structure"
 tags:
   - shamanic-ritual
@@ -19,7 +19,7 @@ tags:
 
 ## Three Distinctive Features of the Shamanic Model
 
-In his comparative analysis of psychoactive-assisted healing practices,
+In his [[human-eye-plant-photoreceptor-comparative-analysis]] of psychoactive-assisted [[blesching-cannabis-healing-practices-setting-intention-affirmations]],
 [[ralph-metzner]] identifies three features that reliably distinguish traditional
 shamanic [[shamanic-vs-western-psychedelic-healing]]
 psychotherapy session: darkness or low light, the shaman's singing, and the
@@ -75,7 +75,7 @@ almost uninterruptedly, weaving the names of Christian saints, spirit allies,
 and the spirits of earth, elements, animals, and plants. In Amazonian
 ceremonies, healers sing *icaros* — specific songs received during their
 own initiatory experiences — through which healing and diagnosis takes place.
-The peyote songs of the Native American Church follow a rapid rhythmic pulse
+The peyote songs of the [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] follow a rapid rhythmic pulse
 passed down through generations.
 
 In virtually all traditions, the singing is understood not as pleasant

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The digestive tracts of beetles harbour extraordinary yeast diversity that has been largely overlooked by traditional mycological surveys. Studies focusing on beetles associated with basidiomata (mushroom fruiting bodies) have revealed that the beetle gut is a major reservoir of novel yeast species, with 650 yeasts isolated from beetle digestive tracts representing more than 200 undescribed taxa. This discovery has profound implications for estimates of global yeast biodiversity and our understanding of insect–fungus symbioses.
+The digestive tracts of beetles harbour extraordinary yeast diversity that has been largely overlooked by traditional mycological surveys. Studies focusing on beetles associated with basidiomata ([[advanced-mushroom-fruiting-techniques]] bodies) have revealed that the beetle gut is a major reservoir of novel yeast species, with 650 yeasts isolated from beetle digestive tracts representing more than 200 undescribed taxa. This discovery has profound implications for estimates of global [[yeast-biodiversity-and-inventory-protocols]] our understanding of insect–fungus symbioses.
 
 ## Key Findings
 
@@ -19,7 +19,7 @@ The digestive tracts of beetles harbour extraordinary yeast diversity that has b
 | Yeasts isolated | 650 from digestive tracts of beetles |
 | Beetle colonization rate | >90% of all dissected beetles harboured yeasts |
 | Undescribed taxa | 290 yeast genotypes representing >200 undescribed taxa |
-| Phylogenetic distribution | Distributed in clusters throughout the yeast phylogenetic tree (SSU and LSU rDNA analysis) |
+| [[basidiomycetous-yeasts-diversity-phylogenetic-distribution]] | Distributed in clusters throughout the yeast phylogenetic tree (SSU and LSU rDNA analysis) |
 
 ### Novel Clades
 
@@ -39,7 +39,7 @@ Several previously unknown, entirely **insect-associated yeast clades** have bee
 
 - **Yeast–beetle specificity** has been observed between certain yeasts and beetles across:
   - **Broad geographical ranges**
-  - **Multiple developmental stages** of the beetle
+  - **Multiple [[psilocybe-cubensis-developmental-stages]]** of the beetle
 - This indicates co-evolutionary relationships rather than opportunistic colonization.
 
 ### Ecological Context
@@ -94,6 +94,6 @@ Gut yeasts from beetles are **not phylogenetically clustered** — they are dist
 
 ## See Also
 
-- [[molecular-methods-geoactive-fungal-communities]] — Molecular methods for fungal community analysis
+- [[molecular-methods-geoactive-fungal-communities]] — [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] for [[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[gadd-phylogenetic-species-recognition-fungi]] — Species delimitation in fungi
 - [[fungal-bioweathering-rocks-minerals]] — Fungi in environmental processes

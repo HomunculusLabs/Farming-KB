@@ -1,5 +1,5 @@
 ---
-title: Mckenna Vegetable Mind And Gaian Holism
+title: [[mckenna-vegetable-mind-gaian-holism-plant-intelligence]] And Gaian Holism
 created: 2026-04-28
 tags: [philosophy, consciousness, gaian-theory, entheogens, mckenna]
 date: 2026-04-25

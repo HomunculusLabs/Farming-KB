@@ -1,5 +1,5 @@
 ---
-title: Sclerotia sclerotia formation in psilocybe species Species
+title: Sclerotia [[growing-gourmet-sclerotia-formation-biology-mushrooms]] in psilocybe species Species
 source: Cultivation of Fruitbodies and Sclerotia on Sterilised Grass Seed
 tags: [mycology, sclerotia, psilocybe, mushroom-cultivation, truffle, conservation]
 created: 2026-05-09
@@ -19,7 +19,7 @@ Sclerotia are compact, pseudoparenchymatous aggregations of fungal hyphae
 formed by the densification and melanisation of mycelial tissue. They are
 rich in stored nutrients (glycogen, lipids, and proteins) and surrounded by
 a melanised rind that provides resistance to desiccation, microbial attack,
-and enzymatic degradation. Sclerotia can remain dormant for extended periods
+and [[enzymatic-degradation-in-mycoremediation]]. Sclerotia can remain dormant for extended periods
 — months to years — and germinate when conditions become favourable,
 producing either new [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] or fruiting bodies.
 
@@ -34,10 +34,10 @@ colour, with a firm, somewhat waxy or rubbery texture.
 ### Psilocybe mexicana
 
 *P. mexicana* is the type species of the genus and was the first
-psilocybin-containing mushroom identified by Western science. Albert
+psilocybin-containing mushroom identified [[discovery-of-psilocybin-mushrooms-by-western-science]]. Albert
 Hofmann isolated and named psilocybin from specimens of this species
 collected by R. Gordon Wasson in Oaxaca, Mexico, in 1958. *P. mexicana*
-produces both mushroom fruiting bodies and sclerotia. The sclerotia are
+produces both [[advanced-mushroom-fruiting-techniques]] bodies and sclerotia. The sclerotia are
 relatively small and form within the substrate (typically grass seed or
 rye grain) during colonisation. When cultivated for sclerotia, *P.
 mexicana* typically produces one large flush of sclerotia and a smaller
@@ -72,10 +72,10 @@ conditions that differ from those needed for mushroom fruiting. The key
 factors are:
 
 - **Substrate**: Grass seed (*Lolium perenne*) is the preferred substrate
-  for sclerotia production. The seed provides a nutrient-dense, well-
+  for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]. The seed provides a nutrient-dense, well-
   aerated medium that supports both colonisation and sclerotia formation.
   Rye grain can also be used but is generally considered superior for
-  mushroom production rather than sclerotia.
+  [[stamets-stump-cultivation-mushroom-production-forestry]] rather than sclerotia.
 
 - **Darkness**: Sclerotia form preferentially in dark conditions. While
   mycelium colonisation proceeds well at room temperature (20°C) in

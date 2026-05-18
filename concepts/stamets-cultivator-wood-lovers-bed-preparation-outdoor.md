@@ -1,7 +1,7 @@
 ---
-title: stamets-outdoor-wood-chip-bed-mycelium-transplantation Chip azurescens-outdoor-bed-preparation-woodchips for Wood-Loving Mushrooms
+title: [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] Chip [[azurescens-outdoor-bed-preparation-woodchips]] for Wood-Loving Mushrooms
 created: 2026-04-28
-tags: [outdoor-cultivation, wood-chips, natural-culture, perennial-beds, permaculture]
+tags: [outdoor-cultivation, wood-chips, natural-culture, perennial-beds, [[permaculture]]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -13,8 +13,8 @@ type: concept
 # Outdoor Wood Chip Bed Preparation for Wood-Loving Mushrooms
 
 Outdoor [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] method
-well-suited to home cultivators seeking seasonal mushroom harvests. For
-hundreds of years, growers have made up outdoor beds and enjoyed
+well-suited to home cultivators seeking [[seasonal-mushroom-fruiting-calendar-companion-cultivation]] harvests. For
+hundreds of years, growers have made up [[growing-woodlovers-outdoor-beds]] and enjoyed
 harvesting seasonal crops. Most mushrooms now grown commercially were
 originally grown using these natural [[stamets-king-stropharia-permaculture-mycofiltration]], [[stamets-outdoor-natural-culture-methods]]
 - [[stamets-species-sequencing-recycling-substrates]]
@@ -35,7 +35,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -38,15 +38,15 @@ type: entity
 - **Cool-temperature fungal activity:** Both *Microdochium* and beneficial fungi remain active at low temperatures, making autumn applications of fungal teas particularly effective
 - **Competitive exclusion:** Diverse fungal communities established by compost tea outcompete *Microdochium* for resources and space
 - **Preventive strategy:** Applying fungally dominated teas in autumn, before conditions favor *Microdochium*, is more effective than reactive treatment
-- **Cultural integration:** Combining compost tea with proper drainage, thatch management, and appropriate mowing height provides comprehensive disease suppression
+- **Cultural integration:** Combining compost tea with proper drainage, thatch management, and appropriate mowing height provides comprehensive [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]]
 
 ## Sources
 
-- Lowenfels & Lewis, *Teaming with Microbes*, Chapter 17 (Compost Teas)
+- Lowenfels & Lewis, *[[teaming-with-microbes-actinomycetes]]*, Chapter 17 (Compost Teas)
 
 ## Ecological Significance
 The ecological importance of Microdochium extends across multiple levels of biological
-organization. Research has documented its role in nutrient cycling, species interactions,
+organization. Research has documented its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], species interactions,
 and ecosystem stability. These relationships highlight the interconnected nature of
 biological communities and the importance of understanding individual components
 within their broader environmental context.
@@ -56,14 +56,14 @@ Understanding Microdochium has practical implications for agriculture, horticult
 and environmental management. Applied research has explored how this knowledge
 can be used to improve soil health, optimize growing conditions, and develop
 more sustainable management practices. These applications demonstrate the bridge
-between fundamental research and real-world problem solving.
+between fundamental research and real-world [[cannabis-grow-nutrient-deficiency-problem-solving]].
 
 ## Research Context
 Current research on Microdochium draws from multiple scientific disciplines, integrating
 findings from microbiology, ecology, chemistry, and applied sciences. Ongoing studies
 continue to refine our understanding of mechanisms and interactions, with implications
 for both theoretical knowledge and practical applications. Key research questions
-remain about the full range of effects and optimal management strategies.
+remain about the full range of effects and optimal [[forest-management-strategies]].
 
 ## Historical Background
 The study of Microdochium has evolved significantly over time, with early observations
@@ -74,7 +74,7 @@ and helps identify areas where further investigation is needed.
 
 ## Distribution and Habitat
 Microdochium occurs across a range of environmental conditions and geographic regions.
-Distribution patterns are influenced by climate, soil type, altitude, and interactions
+[[fungal-biogeography-distribution-patterns]] are influenced by climate, soil type, altitude, and interactions
 with other organisms. Understanding habitat preferences is essential for both
 conservation efforts and practical applications in cultivation and management.
 

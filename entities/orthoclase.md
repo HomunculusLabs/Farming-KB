@@ -56,26 +56,26 @@ Orthoclase is a potassium-rich felspar mineral and a major constituent of granit
 - Weathering releases potassium to soils over time scales of years to millennia
 - Understanding this mineral helps explain why some soils are inherently potassium-rich
 - Granite-derived soils (from orthoclase-bearing parent material) tend to have adequate potassium
-- Limestones and dolomites yield calcium and magnesium, while granites yield potash and sodium
+- Limestones and dolomites yield [[dynamic-accumulator-plants-calcium-and-magnesium]], while granites yield potash and sodium
 
 ### Rock Dust Amendments
 - Finely ground granite rock dust (containing orthoclase) can be applied to soils as a slow-release potassium source
 - Field trials have shown that cheap ores, finely ground, are as effective as more refined sulphates or oxides (Leeper 1982)
 - Rock dust from quarries or gravel pits is often cheaply available
-- Basalt dusts are helpful on leached tropical soils; granite dusts supply potassium specifically
+- Basalt dusts are helpful on leached [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]; granite dusts supply potassium specifically
 - Rock dust as an unselective category can do as much harm as good - choose rock type to match soil needs
 
 ### Soil Formation
 - The weathering of orthoclase to kaolin is a fundamental soil-forming process worldwide
 - This conversion releases potassium and creates clay minerals simultaneously
 - Understanding this process helps in reading landscape history from soil type
-- The rate of orthoclase weathering helps determine natural soil fertility
+- The rate of orthoclase weathering helps determine [[fukuoka-natural-soil-fertility]]
 - Carbonates released during felspar breakdown make soil water a stronger carbonic acid
 
 ### Potassium in Agriculture
-- Potassium from orthoclase weathering supports plant disease resistance and drought tolerance
+- Potassium from orthoclase weathering supports plant disease resistance and [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Granite landscapes often produce well-drained, potassium-sufficient soils
-- The slow release nature aligns with permaculture preference for sustainable nutrient cycling
+- The [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]] nature aligns with permaculture preference for sustainable [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
 - Rock dust applications can supplement natural weathering rates on depleted soils
 
 ## References

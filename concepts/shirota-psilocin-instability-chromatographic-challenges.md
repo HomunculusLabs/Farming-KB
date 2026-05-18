@@ -1,5 +1,5 @@
 ---
-title: "psilocybin-and-psilocin-chemical-synthesis Instability and Chromatographic Identification Challenges"
+title: "psilocybin-and-psilocin-chemical-synthesis Instability and Chromatographic [[magic-mushroom-forensic-identification-challenges-shirota]]"
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 author: Shirota, Hakamata & Goda
 tags: [psilocin, instability, decomposition, chromatography, hplc, tlc, forensic, chemistry]
@@ -10,9 +10,9 @@ created: 2026-05-08
 
 ## Overview
 
-A persistent practical problem in the forensic analysis of [[shirota-forensic-standard-compounds-magic-mushroom-identification]] because 1 easily decomposes and 2
+A persistent practical problem in the [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]] of [[shirota-forensic-standard-compounds-magic-mushroom-identification]] because 1 easily decomposes and 2
 has a high polarity." These dual challenges—psilocin's instability and
-psilocybin's polarity—have shaped the development of analytical methods for
+psilocybin's polarity—have shaped the development of [[analytical-methods-psilocybin-psilocin-quantification]] for
 magic [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
 
 ## References
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

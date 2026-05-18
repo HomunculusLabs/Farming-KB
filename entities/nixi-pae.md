@@ -42,9 +42,9 @@ additive that intensifies and prolongs the experience.
 ### Active Constituents
 
 - **From Banisteriopsis:** Harmine and harmaline
-  (β-carboline MAO inhibitors)
+  (β-carboline [[mao-inhibitors-and-psychedelics]])
 - **From Psychotria:** Dimethyltryptamine (DMT)
-  (fast-acting tryptamine hallucinogen)
+  (fast-acting [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]])
 
 This combination represents the classic ayahuasca
 pharmacological synergy: the MAO inhibitors in the vine
@@ -78,7 +78,7 @@ Nixi pae sessions are intensely communal:
   on logs, wrapping arms and legs around each other)
 - Nixi pae is NEVER taken alone
 - The group provides contact with "the real world" as
-  protection against the terrors of the spirit world
+  protection against the terrors of the [[yakuruna-aquatic-spirit-world]]
 - Only experienced ("strong") men may sit without
   physical contact
 
@@ -108,12 +108,12 @@ understand that without Psychotria, hallucinations are "less
 vivid and of shorter duration"—a precise folk-pharmacological
 observation matching modern understanding of DMT's contribution.
 The preparation method (decoction rather than cold water
-extraction) and dosage guidelines (1–2 pints) offer practical
+extraction) and [[blesching-cannabis-health-index-dosage-guidelines-medical]] (1–2 pints) offer practical
 data for understanding traditional [[ayahuasca-pharmacology]].
 
 ## Sources
 
-- Kensinger, Kenneth M. "Banisteriopsis Usage Among the Peruvian
+- Kensinger, Kenneth M. "[[harner-cashinahua-banisteriopsis-usage]] Among the Peruvian
   Cashinahua" in Harner, M.J. (ed.) *[[hallucinogens-and-shamanism]]*
   (Oxford University Press, 1973)
 - Der Marderosian, Kensinger, Chao, and Goldstein (1970).

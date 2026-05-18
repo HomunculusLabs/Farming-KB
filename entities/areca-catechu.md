@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.m
 
 # Areca catechu
 
-**Areca catechu**, the **areca palm** or **betel nut palm**, is a species of palm native to the Philippines, Malaysia, India, and other tropical regions of South and [[cervantes-selfing-single-seed-descent]] (the betel nut) that is hard, fibrous, and reddish-brown to dark brown.
+**Areca catechu**, the **areca palm** or **betel nut palm**, is a species of palm native to the Philippines, Malaysia, India, and other [[fukuoka-natural-farming-in-tropical-regions]] of South and [[cervantes-selfing-single-seed-descent]] (the betel nut) that is hard, fibrous, and reddish-brown to dark brown.
 
 The palm is monoecious, producing both male and female flowers on the same inflorescence. It thrives in tropical lowland climates with high humidity and well-distributed rainfall, typically at elevations below 1,000 meters.
 
@@ -21,8 +21,8 @@ The primary psychoactive alkaloid in the betel nut is **[[arecoline]]** (methyl 
 The betel nut is almost never chewed alone. It is traditionally prepared as a **quid** wrapped in a leaf of *[[comparison-ethnobotany-vs-ethnomycology]]
 
 - [[betel-nut-arecoline-ethnobotany]] — the primary psychoactive alkaloid
-- Nicotine — another widely used plant alkaloid stimulant
-- Caffeine — the world's most widely consumed psychoactive substance
+- [[nicotine]] — another widely used plant alkaloid stimulant
+- [[caffeine]] — the world's most widely consumed psychoactive substance
 ## Practical Applications
 
 Areca catechu has a range of practical applications that make it relevant to
@@ -40,7 +40,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

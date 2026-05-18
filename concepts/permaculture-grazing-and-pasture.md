@@ -1,5 +1,5 @@
 ---
-title: Permaculture Grazing and Pasture
+title: Permaculture [[holistic-grazing-and-pasture-management]]
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,14 +16,14 @@ Mollison approaches grazing and pasture as components of integrated farm systems
 The permaculture approach to pasture differs fundamentally from conventional monoculture grazing:
 
 - **Diverse species mixtures** rather than introduced pasture monocultures
-- **Rotational grazing** to prevent overgrazing and allow recovery
+- **[[comparison-rotational-grazing-vs-continuous-grazing]]** to prevent overgrazing and allow recovery
 - **Integration with tree crops** for shade, fodder, and shelter
 - **Stocking rates set below worst-case conditions** to ensure survival through drought
 - **Forage conservation** (hay, silage) as insurance against seasonal shortage
 
 ## Grasslands and Range Management
 
-Mollison identifies several key management strategies for grasslands and rangelands:
+Mollison identifies several key [[forest-management-strategies]] for grasslands and rangelands:
 
 ### Addition of Forage Species
 Grasslands can be improved by adding:
@@ -33,7 +33,7 @@ Grasslands can be improved by adding:
 
 ### Environmental Modifications
 - Water storage and soil structure improvement
-- Irrigation and windbreak establishment
+- Irrigation and [[windbreak-establishment-and-benefits]]
 - Key fertiliser or trace elements added as needed
 - Plant species maintained by slashing or light cultivation
 
@@ -75,12 +75,12 @@ Soils under slashed pastures are of excellent structure, and erosion is effectiv
 
 ## Grass Species for Different Climates
 
-- **Elephant/banna grass** (Pennisetum purpureum): Best on deep alluvial soils above 110 cm rainfall; 2.5-4.5 m high, grazed to 1 m or cut to 15 cm; needs vigorous legume interplant
+- **Elephant/banna grass** ([[pennisetum-purpureum]]): Best on deep alluvial soils above 110 cm rainfall; 2.5-4.5 m high, grazed to 1 m or cut to 15 cm; needs vigorous legume interplant
 - **Temperate pastures**: Grass-clover mixtures with chicory, plantain, and deep-rooted herbs
 
 ## Integration with Tree Crops
 
-See [[permaculture-tree-crop-systems]] for full treatment of silvopastoral systems. The transition from pasture to tree crop is a key permaculture strategy, using animal tractor systems to prepare ground for tree planting.
+See [[permaculture-tree-crop-systems]] for full treatment of silvopastoral systems. The transition from pasture to tree crop is a key permaculture strategy, using [[animal-tractor-systems]] to prepare ground for tree planting.
 
 ## Related Concepts
 

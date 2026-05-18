@@ -8,7 +8,7 @@ tags: [mythological-figure, jivaro, first-shaman, amazonian-cosmology]
 ## Description
 
 Tsungi is the mythological first shaman in [[jivaro]] cosmology—
-the primordial practitioner from whom all shamanic power
+the primordial practitioner from whom all [[icaros-shamanic-power-songs]]
 ultimately derives. The Jivaro believe that when a shaman
 hears "the sound of rushing water" during a *natemä*
 (Banisteriopsis) trance, it signals that he possesses the
@@ -35,7 +35,7 @@ to be accessing the same power that Tsungi first possessed.
 ### The Sound of Rushing Water
 
 The auditory phenomenon of rushing water is the key sign that
-a shaman has achieved the Tsungi state. In Jivaro shamanic
+a shaman has achieved the Tsungi state. In [[jivaro-shamanic-apprenticeship]]
 ideology:
 - The sound of rushing water fills the shaman's ears
 - Listening to its roar confirms possession of Tsungi's power
@@ -88,13 +88,13 @@ cultures globally. Tsungi parallels:
 The Jivaro emphasis on Tsungi's power being confirmed by a
 specific auditory phenomenon (rushing water) is distinctive
 and may reflect the particular phenomenology of the
-Banisteriopsis hallucinogenic experience.
+Banisteriopsis [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]].
 
 ## Relevance to Cultivation and Mycology
 
 Tsungi illustrates how hallucinogenic plants generate elaborate
 mythological frameworks that structure the user's experience.
-The entire diagnostic system of Jivaro shamanism—from the
+The entire diagnostic system of [[harner-jivaro-shamanism-yage]]—from the
 auditory confirmation of shamanic power to the "transparent
 body" vision—is mediated through the *natemä* experience and
 attributed to Tsungi's primordial gift. This demonstrates how

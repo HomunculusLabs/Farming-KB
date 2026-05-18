@@ -1,14 +1,14 @@
 ---
-title: arbuscular-mycorrhizal-fungi-biology-symbiosis Diversity
+title: [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] Diversity
 created: 2026-04-28
-tags: [mycology, symbiosis, ecology, soil-science]
+tags: [[mycology]], symbiosis, ecology, soil-science]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
 # Mycorrhizal Fungi Diversity Mycorrhizal fungi form mutualistic associations with plant roots, facilitating nutrient exchange that is fundamental to terrestrial ecosystem function. Over 90% of all plant species form mycorrhizal partnerships, yet the diversity of the fungal partners remains poorly characterized. Mycorrhizal fungi represent a critical intersection of fungal biodiversity and ecosystem services, making their documentation and conservation a matter of global importance. ## Major Mycorrhizal Types There are several distinct types of mycorrhizal associations, each involving different fungal lineages. [[psilocybe-southeast-asia-pacific]] and
-monodominant forests of the Amazon. The discovery of EMF in tropical ecosystems
+monodominant forests of the Amazon. The discovery of EMF in [[fungal-biodiversity-tropical-ecosystems]]
 has substantially revised our understanding of global mycorrhizal biogeography.
 
 ## Common Mycorrhizal Networks
@@ -32,7 +32,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

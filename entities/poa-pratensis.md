@@ -34,17 +34,17 @@ pasture systems where livestock must be sustained through long winters on preser
 - Associated with Alopecurus and Phleum in hayfield communities
 - Tolerant of extreme cold, frost heave, and short growing seasons
 - Provides high-quality forage for livestock (cattle, sheep, horses)
-- Deep root system reaching 60+ cm provides excellent drought tolerance
-- Remains green longer into drought than many other pasture grasses
+- Deep root system reaching 60+ cm provides excellent [[dighton-fungal-drought-tolerance-plant-water-relations]]
+- Remains green longer into drought than many other [[tropical-pasture-grasses]]
 - Hardy to extreme cold; survives deep frost and freeze-thaw cycles
-- Used for pasture, hay, turf, and erosion control across diverse climates
+- Used for pasture, hay, turf, [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] across diverse climates
 
 ## Relevance to Cultivation and Mycology
 
 - **Forage production:** Major component of cold-climate hay and pasture systems
 - **Pasture sod:** Rhizomatous growth creates stable, resilient pasture resistant to erosion
 - **Erosion control:** Dense sod prevents soil loss on slopes and cold-climate rangelands
-- **Arbuscular mycorrhizal associations:** Forms AM fungal partnerships enhancing nutrient uptake
+- **Arbuscular [[plants-without-mycorrhizal-associations]]:** Forms AM fungal partnerships enhancing nutrient uptake
 - **Edible mushrooms:** Well-managed pastures produce field mushrooms ([[agaricus-campestris]])
 - **Hayfield ecology:** Provides winter feed structure in cold-climate livestock systems
 - **Soil building:** Deep roots and rhizome networks build soil organic matter and structure
@@ -56,7 +56,7 @@ pasture systems where livestock must be sustained through long winters on preser
 - Co-dominant with Alopecurus and Phleum in fertilized hayfields
 - Replaces shrub and tussock species when bogs are drained or areas fertilized
 - Provides habitat for ground-nesting birds and small mammals
-- [[root-exudates]] support soil microbial communities and fungal networks
+- [[root-exudates]] support [[endorhiza-rhizosphere-bulk-soil-microbial-communities]] and fungal networks
 - Responds positively to moderate nitrogen fertilization in pasture systems
 - Worm parasites (helminths) increase when native vegetation replaced by improved pasture
 
@@ -73,7 +73,7 @@ The balance between productive hayfield and parasite management remains a key de
 - Establish from seed or sod; rhizomes provide long-term persistence
 - Prefers well-drained, fertile loams but tolerates diverse soil types
 - Optimal growth in cool seasons (spring and autumn)
-- Use rotational grazing to maintain sod health and productivity
+- Use [[comparison-rotational-grazing-vs-continuous-grazing]] to maintain sod health and productivity
 - Monitor for helminth increase when transitioning from native to improved pasture
 - Compatible with clover interplanting for nitrogen fixation in diverse pastures
 

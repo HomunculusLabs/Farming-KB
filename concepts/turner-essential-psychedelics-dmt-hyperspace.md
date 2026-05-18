@@ -1,5 +1,5 @@
 ---
-title: Turner Essential Psychedelics Dmt Hyperspace
+title: [[turner-essential-psychedelics-5-meo-dmt-void-experience]] [[dmt-hyperspace-entities]]
 created: 2026-04-26
 updated: 2026-04-24
 sources:

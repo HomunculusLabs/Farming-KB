@@ -53,10 +53,10 @@ each into my mouth, in order to avoid all possibility of mistake."
 
 This passage is significant because Palmer — an experienced mycologist who
 had tested perhaps forty varieties of toadstools — still relied on the taste
-test even after years of practice. He did not trust visual identification
+test even after years of practice. He did not trust [[mushroom-spore-visual-identification]]
 alone for red-capped russulas, underscoring the difficulty of this group and
 the reliability of the taste method. His approach embodies a key principle
-of safe foraging: consistent methodology matters more than accumulated
+of [[mushroom-poisoning-and-safe-foraging]]: consistent methodology matters more than accumulated
 experience, and no amount of expertise should lead to shortcuts.
 
 Palmer's broader theory — that no fungus which commends itself to the taste
@@ -80,12 +80,12 @@ Nature's warning signal at the gateway.
 2. **Taxonomic complexity:** The Russula subgenus Russula contains numerous
    red-capped species with overlapping morphology. R. rosacea belongs to
    this taxonomically challenging group that continues to be revised with
-   molecular methods.
+   [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]].
 
 3. **Education:** This species is frequently used in [[mycology]] courses to
    teach the Russula taste test and the importance of cautious foraging.
 
-4. **Chemical ecology:** The acrid compounds in R. rosacea (likely
+4. **[[plant-volatile-communication-chemical-ecology]]:** The acrid compounds in R. rosacea (likely
    sesquiterpenes) serve as chemical defense against invertebrate
    predators and are the subject of ongoing natural products research.
 
@@ -102,8 +102,8 @@ Nature's warning signal at the gateway.
 ## Habitat and Season
 
 Found in deciduous woodlands, particularly under oaks and beeches, across
-Europe and parts of North America. Fruits from mid-summer through autumn.
-Prefers mossy, humid forest floor conditions.
+Europe and parts [[huckleberries-and-wild-berries-of-north-america]]. Fruits from mid-summer through autumn.
+Prefers mossy, humid [[fungal-ecology-forest-floor]] conditions.
 
 ## Cautions
 

@@ -27,7 +27,7 @@ Pinus edulis, the Colorado pinyon or pinyon pine, is a small, slow-growing pine 
 - Cones are small, 3-6 cm, containing 10-20 large wingless seeds (pine nuts)
 - Seeds are rich in protein (14-20%), fat (60-70% oil by weight), and carbohydrates
 - A single mature tree can produce 10-25 kg of nuts in a good year
-- Nut production is irregular; heavy crops occur every 3-7 years (mast seeding)
+- [[permaculture-walnut-species-timber-nut-production]] is irregular; heavy crops occur every 3-7 years (mast seeding)
 - Extremely drought-tolerant; survives on 250-400 mm annual precipitation
 - Slow-growing; may take 75-100 years to reach full nut production
 - Can live 400-600 years or more
@@ -39,7 +39,7 @@ Pinus edulis, the Colorado pinyon or pinyon pine, is a small, slow-growing pine 
 - Seeds are critical food source for birds (Clark's nutcracker, pinyon jay), rodents, and bears
 - Provides shelter and nesting habitat for numerous bird species
 - Root systems stabilize thin mountain soils against erosion
-- Mycorrhizal associations enhance nutrient cycling in nutrient-poor soils
+- [[plants-without-mycorrhizal-associations]] enhance [[nutrient-cycling-in-soil]] nutrient-poor soils
 
 ## Indigenous Use and Management
 
@@ -63,15 +63,15 @@ Mollison references Pinus edulis as an example of efficient desert food gatherin
 
 ## Relevance to Cultivation
 
-Pinus edulis exemplifies the [[mycorrhiza]] - fungal root associates critical for pinyon nutrient uptake
+Pinus edulis exemplifies the [[mycorrhiza]] - fungal root associates critical for pinyon [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]
 
 ## Modern Management Considerations
 
 The pinyon-juniper woodlands face complex management challenges:
 
-- Overgrazing by domestic livestock reduces understory and prevents natural regeneration
+- Overgrazing by domestic livestock reduces understory and prevents [[biodiversity-power-natural-regeneration]]
 - Fire suppression has led to dense, even-aged stands vulnerable to catastrophic wildfire
-- Climate change is shifting suitable habitat upward in elevation
+- [[dighton-fungal-responses-climate-change]] is shifting suitable habitat upward in elevation
 - Commercial pine nut harvesting (largely from Asian Pinus species) competes with wild pinyon harvesting
 - Pinyon-juniper clearing for grazing has destroyed significant stands across the Southwest
 - Conservation efforts now focus on maintaining age diversity and preventing type conversion to cheatgrass monoculture

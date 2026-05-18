@@ -60,7 +60,7 @@ The emetic effect of apomorphine is mediated through D2 receptor activation in t
 
 Apomorphine also stimulates [[first-pass-metabolism-and-oral-bioavailability]], precluding oral administration.
 
-Metabolism occurs primarily through glucuronidation, N-demethylation, and catechol O-methylation by catechol-O-methyltransferase (COMT).
+Metabolism occurs primarily through [[glucuronidation]], N-demethylation, and catechol O-methylation by catechol-O-methyltransferase (COMT).
 
 ## Synthesis and Derivatives
 
@@ -68,7 +68,7 @@ Apomorphine is synthesized from morphine through treatment with concentrated hyd
 
 The reaction involves dehydration and rearrangement of the morphinan skeleton to form the aporphine ring system, converting the ether linkage to a direct carbon-carbon bond.
 
-Modern industrial synthesis uses morphine or codeine as [[psilocybin-pharmacology-and-serotonin-receptors]] and adrenergic receptors.
+Modern industrial synthesis uses morphine or [[codeine]] as [[psilocybin-pharmacology-and-serotonin-receptors]] and adrenergic receptors.
 
 Biotechnological production using engineered microorganisms has been explored as an alternative to morphine-derived synthesis.
 

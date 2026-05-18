@@ -67,7 +67,7 @@ Fukuoka saw capitalism and communism as fundamentally similar despite their appa
 
 The Ethiopian tribesman who rejected Fukuoka's farming ideas captured the essence of this economic critique: "Are you asking me to become a farmer? To be attached to the soil and to accumulate things are the acts of a degraded person." Fukuoka called this nomad's words "a perceptive criticism of modern society."
 
-The nomadic critique of materialism underscores that the octopus economy is not an inevitable feature of human society but a specific historical development.
+The nomadic critique of materialism underscores that the octopus economy is not an inevitable feature of human society but a specific [[historical-development-of-mushroom-cultivation]].
 
 This perspective highlights that attachment to material accumulation is not universal — it is a specific pathology of certain civilizations. Nomadic peoples who moved freely with the seasons found joy and sufficiency without permanent possessions or centralized economic structures. Their displacement and forced settlement was itself a consequence of the octopus economy expanding its reach.
 

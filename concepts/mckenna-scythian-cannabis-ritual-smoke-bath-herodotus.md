@@ -1,5 +1,5 @@
 ---
-title: Scythian Cannabis Rituals and Herodotus's Smoke Bath Accounts
+title: [[scythian-cannabis-steam-bath-ritual]] Rituals and Herodotus's Smoke Bath Accounts
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
@@ -8,7 +8,7 @@ tags:
   - cannabis
   - history
   - ethnobotany
-  - shamanism
+  - [[shamanism]]
 sources:
   - "[McKenna, Food of the Gods (1992)]"
 ---
@@ -75,7 +75,7 @@ use.
 This technological gap is significant. Without a pipe, cannabis remained tied
 to specific ritual contexts: the sweat lodge and the communal campfire. The
 pipe would not appear until much later, likely originating in India with the
-chelum -- a simple wooden, ceramic, or soapstone tube still used for hashish
+chelum -- a simple wooden, ceramic, or soapstone tube still used for [[hashish]]
 and tobacco smoking today.
 
 ## Cannabis as Replacement for Sacred Mushrooms

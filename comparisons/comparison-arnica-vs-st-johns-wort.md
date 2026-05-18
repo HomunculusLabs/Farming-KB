@@ -10,8 +10,8 @@ sources: []
 
 ## Overview
 
-Arnica montana and St. John's Wort (Hypericum perforatum) are two of the most
-widely used medicinal herbs in Western herbalism, yet they serve markedly
+[[arnica-montana]] and St. John's Wort ([[hypericum-perforatum]]) are two of the most
+widely used [[medicinal-herbs-for-livestock]] in Western herbalism, yet they serve markedly
 different primary purposes. Arnica is predominantly a topical remedy prized
 for
 reducing bruising, swelling, and muscle soreness. St. John's Wort is valued
@@ -26,9 +26,9 @@ effectively and avoid dangerous misapplications.
 [[st-johns-wort-guide]]
 
 St. John's Wort is a vigorous perennial herb in the Hypericaceae family,
-naturalized across temperate regions worldwide. Named for blooming around St.
+naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. Named for blooming around St.
 John's Day (June 24), it has been used medicinally for over 2,400 years. Its
-primary bioactive compounds are hypericin (a naphthodianthrone pigment),
+primary [[cordyceps-cancer-bioactive-compounds]] are hypericin (a naphthodianthrone pigment),
 hyperforin (a prenylated phloroglucinol), flavonoids, and xanthones.
 Hyperforin is now considered the principal antidepressant compound, acting on
 serotonin, dopamine, and norepinephrine reuptake pathways.
@@ -83,7 +83,7 @@ affective disorder, and anxiety when used internally under guidance. The red
 oil is the better choice when nerve pain, sciatica, or sunburn is the primary
 complaint. It is easier to grow and harvest than arnica, making it accessible
 for home herbalists, and it readily self-seeds in garden settings.
-However, anyone taking prescription medications must
+However, anyone taking [[ayahuasca-interactions-with-prescription-medications]] must
 consult a pharmacist or doctor before internal use due to the extensive
 interaction profile.
 

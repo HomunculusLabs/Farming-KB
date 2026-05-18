@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Thermal compost (also known as hot compost) is compost produced through managed aerobic decomposition where microbial activity raises internal pile temperatures to thermophilic ranges (55–70°C / 131–158°F). The high temperatures destroy pathogens and weed seeds while selecting for beneficial thermophilic organisms. Thermal compost is one of the three main compost types recommended in the soil foodweb approach, valued for its ability to be steered toward either bacterial or fungal dominance through food resource management.
+Thermal compost (also known as hot compost) is compost produced through managed aerobic decomposition where microbial activity raises internal pile temperatures to thermophilic ranges (55–70°C / 131–158°F). The high temperatures destroy pathogens and weed seeds while selecting for beneficial [[thermophilic-organisms]]. Thermal compost is one of the three main compost types recommended in the soil foodweb approach, valued for its ability to be steered toward either bacterial or fungal dominance through food resource management.
 
 ## Classification
 
@@ -28,7 +28,7 @@ Thermal compost (also known as hot compost) is compost produced through managed 
 ## Relevance to Cultivation and Mycology
 
 - Thermal compost is the primary recommended inoculum source for soil foodweb restoration, providing maximum organism diversity plus food resources.
-- In compost tea brewing, thermal compost serves as the microbial inoculum — the starting material whose organisms are extracted and multiplied during the brewing process.
+- In [[compost-tea-brewing]], thermal compost serves as the microbial inoculum — the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] whose organisms are extracted and multiplied during the brewing process.
 - The ability to control fungal:bacterial ratios through feedstock selection makes thermal compost versatile for different crop needs (fungal-dominated for perennials, trees, and vines; bacterial-dominated for annual vegetables).
 - For mushroom growers, thermal composting techniques overlap significantly with substrate pasteurization and Phase I/II composting used in Agaricus cultivation.
 - Thermal compost applied at 5–30 tons per acre in fall and spring provides ongoing biological inputs.
@@ -37,9 +37,9 @@ Thermal compost (also known as hot compost) is compost produced through managed 
 
 ## Sources and References
 
-- Elaine Ingham, *The Field Guide I for Actively Aerated Compost Tea (AACT)*, 2001–2003
-- Sustainable Studies Institute composting guidelines
-- Soil Foodweb Inc. testing protocols
+- Elaine Ingham, *The Field Guide I for [[actively-aerated-compost-tea-introduction]] Tea (AACT)*, 2001–2003
+- [[sustainable-studies-institute-ingharn]] composting guidelines
+- Soil Foodweb Inc. [[mycoremediation-testing-protocols]]
 
 ## Process Parameters
 

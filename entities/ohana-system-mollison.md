@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The [[ohana-system]] was the indigenous Hawaiian land management and social organization system that integrated entire watersheds — from mountain ridges to surrounding reefs — as indivisible ecological and social units. [[bill-mollison]] presents the Ohana as an exemplary model of integrated land stewardship, calling it "a nice concept" and "a totality" that unified watershed, people, nutrient flow, animals, and reef systems into a single, indivisible unit.
+The [[ohana-system]] was the indigenous Hawaiian [[integrated-land-management-and-polyculture-design]] social organization system that integrated entire watersheds — from mountain ridges to surrounding reefs — as indivisible ecological and social units. [[bill-mollison]] presents the Ohana as an exemplary model of integrated land stewardship, calling it "a nice concept" and "a totality" that unified watershed, people, nutrient flow, animals, and reef systems into a single, indivisible unit.
 
 ## Classification
 
@@ -33,18 +33,18 @@ The [[ohana-system]] was the indigenous Hawaiian land management and social orga
 
 ### Watershed Integration
 
-The Ohana model demonstrates the permaculture principle of **whole-system design** at a landscape scale:
+The Ohana model demonstrates the [[permaculture-principle-1-observe-interact]] of **whole-system design** at a landscape scale:
 
 1. **Mountain forest (watershed source):** Protected, tabu. Generates water through condensation and rainfall interception
 2. **Keyline channels:** Stone-lined water distribution from valleys to ridge-tops
-3. **Taro paddies (ridge points):** Primary calorie production using gravity-fed irrigation
-4. **Dryland crops (exposed ridges):** Sweet potato and dryland fern mulch behind cross-wind rock walls
+3. **Taro paddies (ridge points):** Primary [[solomon-garden-planning-calorie-production]] using gravity-fed irrigation
+4. **Dryland crops (exposed ridges):** [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] dryland fern mulch behind cross-wind rock walls
 5. **Fish ponds (coastal):** Converted nutrient run-off into protein via algae → mullet food chain
 6. **Reef structures:** Underwater construction created fish shelter and extended the productive zone
 
 ### Nutrient Cycling
 
-The Ohana system perfected **closed-loop nutrient management** centuries before modern permaculture named the concept:
+The Ohana system perfected **closed-loop [[cannabis-nutrient-management]]** centuries before modern permaculture named the concept:
 
 - Nutrients from forest → agricultural land → coastal zone → fish → people → back to land
 - No nutrient waste: everything flowed downstream and was captured at each stage
@@ -53,7 +53,7 @@ The Ohana system perfected **closed-loop nutrient management** centuries before 
 
 ### Design Lessons for Modern Permaculture
 
-Mollison suggests the Ohana model could be **re-instituted** on degraded Pacific islands:
+Mollison suggests the Ohana model could be **re-instituted** on degraded [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]:
 
 - Seize headwaters and begin "Ohana-ing" downhill
 - Restore the forest-keyline-paddy-pond-reef sequence

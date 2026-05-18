@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Spawn Production
+title: Oyster [[mushroom-spawn-production-and-laboratory-techniques]]
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Oyster Mushroom Spawn Production
 
-Spawn is the mycelium-rich material used to inoculate bulk substrates for mushroom cultivation. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
+Spawn is the mycelium-rich material used to inoculate bulk substrates [[grass-seed-substrate-for-mushroom-cultivation]]. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
 
 ## Types of Spawn
 
@@ -21,7 +21,7 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for mushro
 - Disadvantages: Requires sterilization, contamination risk
 
 ### Sawdust Spawn
-- Mycelium grown on sterilized hardwood sawdust + bran
+- Mycelium grown on sterilized [[hardwood-sawdust-substrate]] + bran
 - Preferred for log inoculation (sawdust plugs)
 - Longer shelf life than grain spawn
 - Slower to colonize than grain spawn
@@ -76,10 +76,10 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for mushro
 ## Strain Selection for Oyster Mushrooms
 
 ### Common Cultivated Species
-- **Pleurotus ostreatus** (Pearl oyster): Most common, versatile, 55-75°F
-- **Pleurotus pulmonarius** (Phoenix oyster): Similar but warmer, 65-85°F
+- **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Pearl oyster): Most common, versatile, 55-75°F
+- **[[pleurotus-pulmonarius]]** (Phoenix oyster): Similar but warmer, 65-85°F
 - **Pleurotus eryngii** (King oyster): Large, thick stems, 55-65°F
-- **Pleurotus citrinopileatus** (Golden oyster): Yellow, tropical, 70-85°F
+- **[[pleurotus-citrinopileatus]]** (Golden oyster): Yellow, tropical, 70-85°F
 - **Pleurotus djamor** (Pink oyster): Tropical, 70-90°F, very fast
 
 ### Sourcing Strains

@@ -27,20 +27,20 @@ The Seventh Generation Principle is an ethical framework originating from the Ir
 
 ## Relevance to Cultivation and Mycology
 
-- Directly informs the permaculture design principle of designing for long-term sustainability — building soil fertility, establishing perennial food systems, and maintaining mycorrhizal networks that may take decades to fully develop.
+- Directly informs the permaculture design principle of designing for long-term sustainability — [[building-soil-fertility-long-term]], establishing perennial food systems, and maintaining [[arbuscular-mycorrhizal-networks]] that may take decades to fully develop.
 - In mycology, the principle supports practices like sustainable mushroom foraging (leaving enough mycelium intact for future fruiting), preserving old-growth forests as fungal habitat, and avoiding soil disturbances that destroy decades-old mycorrhizal networks.
 - Encourages the design of polyculture systems that improve over time (food forests, agroforestry) rather than annual monocultures that deplete soil.
 - Supports the case for building durable composting systems, maintaining long-term soil health records, and preserving heirloom seed and spawn lines.
 
 ## Context in Permaculture Design
 
-Mollison positions the seventh generation principle as a core element of the ethical basis for an alternative nation — one of three key sustainability axioms alongside right livelihood and the development of conserver societies. He argues that sustainable societies must emphasise duties and responsibilities to nature equal to those owed to other people.
+Mollison positions the seventh generation principle as a core element of the ethical basis for [[strategies-for-an-alternative-nation]] — one of three key sustainability axioms alongside [[pdc-right-livelihood-and-permaculture-economics]] the development of conserver societies. He argues that sustainable societies must emphasise duties and responsibilities to nature equal to those owed to other people.
 
 ## See Also
 
 - [[iroquois-confederacy-mollison]]
 - [[thomas-banyacya-mollison]]
-- [[right-livelihood-commonwork-and-balanced-living|right livelihood]]
+- [[right-livelihood-commonwork-and-balanced-living]]
 - [[bioregional-organisation]]
 - [[bill-mollison]]
 
@@ -60,7 +60,7 @@ and ecological design thinking worldwide.
 ## Historical Context
 This topic was explored by Bill Mollison as part of the permaculture
 design framework, emphasizing sustainable and regenerative approaches
-to land management and community organization. The principles discussed
+to land management [[bioregionalism-and-community-organization]]. The principles discussed
 remain relevant to modern ecological design practice.
 
 ## Further Reading
@@ -79,4 +79,4 @@ published literature on sustainable systems, and community networks.
 ## Contemporary Relevance
 These concepts remain highly relevant to modern sustainability discourse
 and ecological design practice. Their integration into contemporary
-permaculture and regenerative agriculture frameworks continues to evolve.
+permaculture and [[biochar-in-regenerative-agriculture]] frameworks continues to evolve.

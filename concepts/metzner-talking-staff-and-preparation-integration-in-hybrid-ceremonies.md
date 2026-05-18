@@ -1,7 +1,7 @@
 ---
 title: "metzner talking staff and preparation integration in hybrid ceremonies and Preparation-Integration in Hybrid Ceremonies"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-tags: [ralph-metzner, talking-staff, council-practice, neoshamanic,
+tags: [[ralph-metzner]], talking-staff, council-practice, neoshamanic,
   preparation, integration, intention-sharing, meditation, expressive-arts,
   hybrid-ceremony]
 created: 2026-05-08
@@ -25,7 +25,7 @@ and the accumulated wisdom of hands-on practice in the field.
 [[historical-development-of-mushroom-cultivation]] of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 

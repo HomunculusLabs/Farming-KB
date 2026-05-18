@@ -13,7 +13,7 @@ Eiichi Kurosawa was a Japanese plant pathologist and research scientist who made
 
 ### Discovery of Gibberellin
 
-Kurosawa isolated and cultured the fungus responsible for **bakanae disease** ("foolish seedling disease") in rice. He was the first to:
+Kurosawa isolated and cultured the fungus responsible for **bakanae disease** ("foolish [[cervantes-damping-off-seedling-disease-prevention]]") in rice. He was the first to:
 
 1. Extract the plant growth hormone from the fungal culture
 2. Demonstrate that the hormone, when absorbed in small amounts by young rice plants, causes abnormally tall growth
@@ -60,8 +60,8 @@ Kurosawa's work demonstrates the profound interconnection between fungal metabol
 
 ## Ecological Significance
 The ecological importance of Eiichi Kurosawa extends across multiple levels of biological
-organization. Research has documented its role in nutrient cycling, species interactions,
-and ecosystem stability. These relationships highlight the interconnected nature of
+organization. Research has documented its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], species interactions,
+and [[biodiversity-specialization-ecosystem-stability]]. These relationships highlight the interconnected nature of
 biological communities and the importance of understanding individual components
 within their broader environmental context.
 
@@ -70,11 +70,11 @@ Understanding Eiichi Kurosawa has practical implications for agriculture, hortic
 and environmental management. Applied research has explored how this knowledge
 can be used to improve soil health, optimize growing conditions, and develop
 more sustainable management practices. These applications demonstrate the bridge
-between fundamental research and real-world problem solving.
+between fundamental research and real-world [[cannabis-grow-nutrient-deficiency-problem-solving]].
 
 ## Research Context
-Current research on Eiichi Kurosawa draws from multiple scientific disciplines, integrating
+[[psychedelic-therapy-current-research]] on Eiichi Kurosawa draws from multiple scientific disciplines, integrating
 findings from microbiology, ecology, chemistry, and applied sciences. Ongoing studies
 continue to refine our understanding of mechanisms and interactions, with implications
 for both theoretical knowledge and practical applications. Key research questions
-remain about the full range of effects and optimal management strategies.
+remain about the full range of effects and optimal [[forest-management-strategies]].

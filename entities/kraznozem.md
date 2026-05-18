@@ -22,12 +22,12 @@ Kraznozems (also spelled "krasnozem") are deep, well-structured red soils known 
 - Kraznozems are among the most permeable agricultural soils, alongside coarse sands and sandy loams.
 - They require 15–20% or more humus content to maintain their rapid infiltration characteristics.
 - In [[water-management]]**: Kraznozems are ideal candidates for swale-based water harvesting systems because they absorb water rapidly, reducing the need for large artificial storage capacity.
-- **Fungal habitat**: The deep, well-aerated structure of kraznozems provides excellent habitat for [[mushroom-cultivation]]**: The moisture-retentive yet well-drained nature of kraznozems makes them suitable for outdoor mushroom beds, particularly for species that prefer well-aerated substrates.
+- **Fungal habitat**: The deep, well-aerated structure of kraznozems provides excellent habitat for [[mushroom-cultivation]]**: The moisture-retentive yet well-drained nature of kraznozems makes them suitable for [[cotter-outdoor-mushroom-garden-mulch-beds]] beds, particularly for species that prefer well-aerated substrates.
 - **Agroforestry**: Their depth supports deep-rooted tree species, making them excellent for [[food-forest-establishment]] in permaculture systems.
 
 ## Design Implications
 
-In permaculture water design, kraznozems allow designers to reduce the scale of artificial water storage. Where clay soils may require large dams and 3–4 days for infiltration, kraznozems can absorb rainfall in hours. This makes them priority sites for:
+In [[permaculture-water-design-checklist]], kraznozems allow designers to reduce the scale of artificial water storage. Where clay soils may require large dams and 3–4 days for infiltration, kraznozems can absorb rainfall in hours. This makes them priority sites for:
 - Groundwater recharge systems
 - Contour swaling with minimal overflow capacity
 - Direct rainfall agriculture without supplementary irrigation
@@ -39,7 +39,7 @@ In permaculture water design, kraznozems allow designers to reduce the scale of 
 
 ## Overview
 Kraznozem represents an important component within sustainable
-design and ecological management systems. Understanding its role
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Understanding its role
 helps inform better integration strategies for diverse environments.
 The interactions between kraznozem and surrounding ecological
 systems create complex feedback loops that enhance overall resilience.
@@ -47,7 +47,7 @@ systems create complex feedback loops that enhance overall resilience.
 ## Characteristics
 Key characteristics include adaptability to varying environmental
 conditions, integration potential with existing systems, and
-contribution to biodiversity and ecological function.
+contribution to biodiversity and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]].
 Seasonal variations affect performance and management requirements.
 Regional differences necessitate site-specific approaches.
 
@@ -67,7 +67,7 @@ Documentation of observations supports knowledge building.
 The ecological relationships involving kraznozem
 extend across multiple trophic levels and functional groups.
 Soil biology, water cycles, and energy flows are all relevant factors.
-Understanding these connections enables more holistic management.
+Understanding these connections enables more [[savory-holistic-management-overview]].
 
 ## Sustainability Considerations
 Sustainable management practices are important for kraznozem.
@@ -76,5 +76,5 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Kraznozem has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.

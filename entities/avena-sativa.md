@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Welch, R.W. (1995). "The chemical composition of oats." In The Oat Crop. Springer.
+  - Welch, R.W. (1995). "The [[chemical-composition-of-hallucinogens]] oats." In The Oat Crop. Springer.
   - Butt, M.S., Tahir-Nadeem, M., Khan, M.K.I., Shabir, R. & Butt, M.S. (2008). "Oat: unique among the cereals." European Journal of Nutrition, 47(2), 68-79.
   - FDA (1997). "Final rule: food labeling, health claims; oats and coronary psilocybe-cubensis-miniculture-production-data-and-flush-longevity for Avena sativa.
 ---
@@ -22,7 +22,7 @@ sources:
 
 Oats are distinguished from other major cereals by their high protein quality, lipid content, and soluble fiber. The beta-glucan content of oats has been extensively studied for its cardiovascular and metabolic health benefits.
 
-The species is thought to have originated as a secondary crop from wild oat (A. sterilis) in Anatolia or the Near East. It became a major cultivated crop in Northern Europe during the Iron Age.
+The species is thought to have originated as a secondary crop from wild oat (A. sterilis) in Anatolia or the [[allegro-fertility-philosophy-of-the-ancient-near-east]]. It became a major cultivated crop in Northern Europe during the Iron Age.
 
 ## Taxonomy and Morphology
 
@@ -58,11 +58,11 @@ Russia, Canada, and Poland are the world's leading oat producers. Global product
 
 Whole oat groats contain approximately 13–17% protein, 5–9% lipids, and 55–65% carbohydrates. Oats have the highest protein and lipid content among the major temperate cereals.
 
-Oat protein has a favorable amino acid profile relative to wheat and barley. Globulins are the primary storage proteins, rather than prolamins, resulting in higher lysine content.
+Oat protein has a favorable [[cho-fish-amino-acid-preparation]] profile relative to wheat and barley. Globulins are the primary storage proteins, rather than prolamins, resulting in higher lysine content.
 
 Beta-glucan, a mixed-linkage (1→3)(1→4)-beta-D-glucan, comprises 3–6% of oat grain dry weight. This soluble fiber forms viscous solutions in the gut, slowing glucose absorption and binding bile acids.
 
-The U.S. FDA approved a health claim in 1997 stating that diets high in oat beta-glucan (3 g/day) may reduce the risk of coronary heart disease. This is one of the first food-specific health claims authorized by the agency.
+The U.S. FDA approved a health claim in 1997 stating that diets high in oat beta-glucan (3 g/day) may reduce the risk of coronary [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]]. This is one of the first food-specific health claims authorized by the agency.
 
 Oats provide significant amounts of iron, manganese, zinc, and B vitamins. Steel-cut oats retain more nutrients than instant or rolled varieties due to minimal processing.
 
@@ -74,7 +74,7 @@ The primary avenanthramides (avenanthramide A, B, and C) are structurally relate
 
 Oat consumption has been shown to lower LDL cholesterol by 5–10% in controlled [[cannabis-for-skin-conditions-detailed]].
 
-Oat oil, extracted from the bran, is rich in tocotrienols and unsaturated fatty acids. It is used in cosmetic products for its emollient and antioxidant properties.
+Oat oil, extracted from the bran, is rich in tocotrienols and unsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]. It is used in cosmetic products for its emollient and antioxidant properties.
 
 ## Ecological Role and Applications
 

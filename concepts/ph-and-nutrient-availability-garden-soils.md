@@ -1,5 +1,5 @@
 ---
-title: pH and ph and nutrient availability garden soils in Garden Soils
+title: pH and ph [[chelation-and-nutrient-availability]] garden soils in Garden Soils
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -14,7 +14,7 @@ sources:
 Updated: 2026-04-18
 
 Soil pH -- the measure of hydrogen ion concentration on a logarithmic scale from 0 (most acidic) to 14 (most alkaline) -- is arguably the single most important chemical property of soil. It determines whether nutrients are available for plant uptake and which organisms dominate the [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] prefer ammonium nitrogen. Coniferous forests naturally create acidic, fungal soils.
-- **Nitrate (NO3-)** dominates in **alkaline soils** (pH above 7). This favors [[ingham-cover-crops-soil-biology]]
+- **Nitrate (NO3-)** dominates in **[[plants-tolerant-of-alkaline-soils]]** (pH above 7). This favors [[ingham-cover-crops-soil-biology]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
 ## Practical Applications
@@ -34,7 +34,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -40,7 +40,7 @@ often to extraordinary depths measured in hundreds of metres.
 - Soils form primarily through frost shattering of rock in permafrost zones
 - Soils and rocks are sorted by ice action and thaw cycles (gelifluction)
 - Ice particles at minus 40 degrees Celsius are as hard and abrasive as sand
-- Frost heave on bare soils creates ideal seedbed conditions for clover and pioneer species
+- [[frost-heave-technique]] on bare soils creates ideal seedbed conditions for clover and pioneer species
 
 ## Relevance to Cultivation and Mycology
 
@@ -50,9 +50,9 @@ often to extraordinary depths measured in hundreds of metres.
 - **Soil fragility:** Vegetation clearing or overgrazing triggers irreversible thaw and permanent soil loss
 - **[[psychrophilic-fungi]]:** Permafrost soils harbor cold-loving fungi for decomposition in cold biomes
 - **Active layer gardening:** The seasonal thaw zone offers a narrow cultivation window
-- **Climate change:** Warming accelerates thaw, releasing stored carbon in positive feedback loops
+- **[[dighton-fungal-responses-climate-change]]:** Warming accelerates thaw, releasing stored carbon in positive feedback loops
 - **[[mushroom-cultivation]]:** Underground chambers provide natural cooling for cold-loving edible fungi
-- **Design principle:** Cold-climate permaculture must account for permafrost depth and peat insulation
+- **[[design-principle-integration]]:** Cold-climate permaculture must account for permafrost depth and peat insulation
 
 ## Ecological Relationships
 
@@ -71,7 +71,7 @@ often to extraordinary depths measured in hundreds of metres.
 - Use earth-formed reflectors and snow management for passive heating
 - Monitor active layer depth seasonally to inform planting and construction decisions
 - Design roads and structures on thermally stable ground with adequate foundation insulation
-- Use glasshouses and attached growing structures to extend season above permafrost ground
+- Use glasshouses and attached [[duggar-mushroom-growing-structures-caves-cellars-houses]] to extend season above permafrost ground
 - Account for 9% volume expansion of freezing water in all storage and structural design
 
 ## References

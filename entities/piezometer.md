@@ -35,11 +35,11 @@ A piezometer is installed by:
 
 Piezometers are critical for informed design decisions in dryland and salt-affected agricultural systems:
 
-- Prevent costly mistakes from applying inappropriate remediation strategies
+- Prevent costly mistakes from applying inappropriate [[soil-pollution-and-remediation-strategies]]
 - Enable monitoring of groundwater response to interceptor banks and tree planting
 - Provide early warning of rising water tables before surface symptoms appear
 - Allow quantitative assessment of remediation effectiveness over time
-- Essential for any serious dryland salinity management program
+- Essential for any serious dryland [[salinity-management-in-aquaculture-ponds]] program
 - Relatively inexpensive compared to the cost of failed tree plantings or earthworks
 
 ## Application in Permaculture Design
@@ -53,7 +53,7 @@ Piezometers are critical for informed design decisions in dryland and salt-affec
 
 ## Overview
 Piezometer represents an important component within sustainable
-design and ecological management systems. Understanding its role
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Understanding its role
 helps inform better integration strategies for diverse environments.
 The interactions between piezometer and surrounding ecological
 systems create complex feedback loops that enhance overall resilience.
@@ -61,7 +61,7 @@ systems create complex feedback loops that enhance overall resilience.
 ## Characteristics
 Key characteristics include adaptability to varying environmental
 conditions, integration potential with existing systems, and
-contribution to biodiversity and ecological function.
+contribution to biodiversity and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]].
 Seasonal variations affect performance and management requirements.
 Regional differences necessitate site-specific approaches.
 
@@ -81,7 +81,7 @@ Documentation of observations supports knowledge building.
 The ecological relationships involving piezometer
 extend across multiple trophic levels and functional groups.
 Soil biology, water cycles, and energy flows are all relevant factors.
-Understanding these connections enables more holistic management.
+Understanding these connections enables more [[savory-holistic-management-overview]].
 
 ## Sustainability Considerations
 Sustainable management practices are important for piezometer.
@@ -90,7 +90,7 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Piezometer has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## See Also

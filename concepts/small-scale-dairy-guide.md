@@ -1,5 +1,5 @@
 ---
-title: Small Scale Dairy Guide
+title: Small Scale [[homestead-dairy-guide]]
 created: 2026-04-15
 updated: 2026-04-15
 type: concept

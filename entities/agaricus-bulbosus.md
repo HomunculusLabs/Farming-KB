@@ -25,8 +25,8 @@ Based on Palmer's and Cordier's descriptions, this species corresponds to a bulb
 
 - **Toxicity:** Extremely poisonous, responsible for fatal mushroom poisonings
 - **Folk test failure:** Cordier tested this species with silver and gold during cooking; neither metal blackened
-- **Visual appeal:** Despite its lethal nature, the fruiting body is attractive and not obviously dangerous
-- **Historical significance:** Used as a key example by Cordier to debunk folk identification methods
+- **Visual appeal:** Despite its lethal nature, the [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] is attractive and not obviously dangerous
+- **Historical significance:** Used as a key example by Cordier to debunk folk [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 - **Treatment (19th century):** Only hypodermic injection of atropia offered any hope, and even this was experimental
 
 ## Identification Features
@@ -44,7 +44,7 @@ Palmer emphasized that all three marks — volva, annulus, and cap warts — mus
 
 ## Cordier's Testing
 
-Dr. Cordier specifically used A. bulbosus to test the widely-believed silver spoon method for detecting mushroom poison.
+Dr. Cordier specifically used A. bulbosus to test the widely-believed [[silver-spoon-test]] method for detecting mushroom poison.
 
 The folk belief held that if silver or gold turned black during cooking, the mushrooms were poisonous. If the metal remained bright, they were safe.
 
@@ -69,7 +69,7 @@ The name "Agaricus bulbosus" reflects pre-modern taxonomic conventions. As mycol
 
 Palmer's reference to "Agaricus bulbosus" as "a variety of the Amanita family" shows the transitional state of [[fungal-taxonomy]] in the late 19th century.
 
-Modern equivalents of the name may refer to several Amanita species, including those in the [[amanita-phalloides]] group (death cap relatives).
+Modern equivalents of the name may refer to several Amanita species, including those in the [[amanita-phalloides]] group ([[amanita-phalloides-death-cap]] relatives).
 
 ## Relevance to Mycology
 
@@ -80,4 +80,4 @@ Modern equivalents of the name may refer to several Amanita species, including t
 
 ## Historical Context
 
-This species was central to Palmer's argument that no general rule can detect poisonous mushrooms. Its ability to pass every folk safety test while remaining lethal made it the perfect counterexample to popular but dangerous beliefs about mushroom identification.
+This species was central to Palmer's argument that no general rule can detect [[identifying-poisonous-mushrooms]]. Its ability to pass every folk safety test while remaining lethal made it the perfect counterexample to popular but dangerous beliefs about [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]].

@@ -17,12 +17,12 @@ patients.
 
 ## Melanin in Fungi
 
-Melanin is a complex polymer of phenolic compounds that provides:
-- **UV radiation protection:** Absorbs harmful ultraviolet light
-- **Antioxidant defense:** Scavenges reactive oxygen species produced by [[fungal-metal-ion-resistance-mechanisms]] binding:** Can concentrate toxic metals
+Melanin is a complex polymer of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] that provides:
+- **UV [[frost-mechanics-radiation-protection]]:** Absorbs harmful ultraviolet light
+- **[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]:** Scavenges [[reactive-oxygen-species-and-oxidative-stress]] produced by [[fungal-metal-ion-resistance-mechanisms]] binding:** Can concentrate toxic metals
 
-Fungal melanin differs biochemically from animal melanin (eumelanin/pheomelanin). The most common
-type in pathogenic fungi is DHN-melanin (1,8-dihydroxynaphthalene melanin), synthesized via the
+[[fungal-melanin]] differs biochemically from animal melanin (eumelanin/pheomelanin). The most common
+type in [[cordyceps-insect-pathogenic-fungi]] is DHN-melanin (1,8-dihydroxynaphthalene melanin), synthesized via the
 pentaketide pathway. Some fungi like [[blesching-cannabis-fungal-infections-candida]]
 - [[fungal-spore-biology]] - Melanin in the cell wall
 

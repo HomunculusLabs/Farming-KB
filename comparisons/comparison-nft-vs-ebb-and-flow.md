@@ -1,5 +1,5 @@
 ---
-title: "comparison nft vs ebb and flow and Flow"
+title: "[[comparison-nft-vs-dwc]] [[comparison-dwc-vs-ebb-and-flow]] and Flow"
 created: 2026-04-28
 tags: [comparison, hydroponics, growing-methods, cannabis]
 date: 2026-04-25
@@ -10,10 +10,10 @@ type: comparison
 
 # NFT vs Ebb and Flow
 
-Nutrient Film Technique (NFT) runs a thin film of aerated [[ebb-and-flow]] systems flood a grow table or tray with nutrient solution
+Nutrient Film Technique (NFT) runs a thin film of aerated [[ebb-and-flow]] systems flood a grow table or tray with [[cannabis-nutrient-solution-preparation]]
 from a reservoir below, hold the flood for a set period, then drain back
 via gravity. This cycle repeats multiple times per day based on a timer.
-During the drain phase, fresh air is pulled into the growing medium around
+During the drain phase, fresh air is pulled into the [[cervantes-green-algae-growing-medium]] around
 the roots, providing excellent oxygenation. The growing medium acts as a
 buffer, holding moisture and nutrients between flood cycles, which gives
 plants a safety margin if equipment malfunctions occur.
@@ -56,7 +56,7 @@ nutrient imbalances. This makes ebb and flow the most forgiving hydroponic
 method and an excellent starting point for growers transitioning from soil.
 
 Ebb and flow accommodates all growth stages, from cloning through flowering.
-The versatility of growing media means you can experiment with rockwool
+The versatility of [[green-cannabis-rockwool-hydroponic-growing-media]] means you can experiment with rockwool
 slabs, clay pebbles, coco coir, or a mix to find what works best for your
 plants and climate. The timer-based operation is simple to set up and
 adjust, requiring less daily monitoring than NFT.
@@ -65,7 +65,7 @@ adjust, requiring less daily monitoring than NFT.
 
 Many commercial operations combine both methods to capitalize on their
 respective strengths. A common pattern uses NFT channels for rapid
-vegetative growth, where speed and efficiency maximize clone-to-veg
+[[green-cannabis-vegetative-growth]], where speed and efficiency maximize clone-to-veg
 turnaround time. Once plants are established and moved to flowering,
 ebb and flow tables provide the stability and root zone buffering needed
 for the longer flowering period.

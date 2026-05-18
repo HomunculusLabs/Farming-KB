@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 Phytoextraction and phytostabilization are two phytoremediation
-    strategies for contaminated soils, but they pursue fundamentally different
+    strategies for [[fungal-competition-survival-contaminated-soils]], but they pursue fundamentally different
     endpoints. Phytoextraction actively removes contaminants by concentrating
     them in harvestable plant tissues. Phytostabilization immobilizes
     contaminants in place, preventing migration to groundwater or the food
@@ -43,7 +43,7 @@ Critical soil amendments include lime for pH adjustment, compost and
     metals and organics, and iron and manganese oxides for arsenic and
     antimony adsorption. Phytostabilization integrates with ecological
     restoration by establishing pioneer vegetation that develops soil organic
-    matter, microbial communities, and wildlife habitat over time. However,
+    matter, [[cannabis-rhizosphere-microbial-communities]], and [[hemenway-backyard-wildlife-habitat]] over time. However,
     contaminants remain on-site permanently, requiring indefinite land use
     restrictions and monitoring.
 
@@ -58,7 +58,7 @@ Critical soil amendments include lime for pH adjustment, compost and
     in soil matrix |
 | Soil Conditions Needed | Bioavailable metals for uptake | Amendments
     to reduce bioavailability |
-| Timeline | Multiple growing seasons (defined endpoint) | Indefinite
+| Timeline | Multiple [[jeavons-climate-adaptation-growing-seasons]] (defined endpoint) | Indefinite
     (open-ended management) |
 | Post-Treatment | Biomass harvesting and disposal required | Long-term
     monitoring and maintenance |
@@ -88,7 +88,7 @@ Choose phytostabilization when contaminant removal is economically
     practical for large areas of low to moderate contamination, mine tailings,
     smelter-impacted soils, and lead-contaminated sites where the cost of
     excavation or chemical treatment is prohibitive. It is particularly
-    well-suited to sites requiring ecological restoration alongside
+    well-suited to sites requiring [[mycorrhizal-fungi-ecological-restoration]] alongside
     containment, as the established vegetation provides [[comparison-rhizofiltration-vs-phytoextraction]]
 
 - [[rhizofiltration]]

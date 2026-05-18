@@ -14,7 +14,7 @@ sources:
   - Xu, J. et al. (2016). "armillaria-mellea-entity." Mycobiology, 44(4), 273–280.
   - Yuan, C.S. et al. (1998). "Traditional Chinese cannabis-neuroprotection-mechanisms-neurological-diseases." American Journal of Chinese Medicine, 26(2), 133–145.
   - Liu, Z. et al. (2018). "Gastrodin: A Review of Its Pharmacological Effects and Mechanisms." Evidence-Based Complementary and Alternative Medicine, 2018, 7421409.
-  - Huang, L.Q. et al. (2020). "Cultivation and Quality Control of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.
+  - Huang, L.Q. et al. (2020). "Cultivation and [[blesching-cannabis-contaminants-testing-quality-control]] of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.
 ---
 
 ## Overview
@@ -34,7 +34,7 @@ Gastrodin has demonstrated neuroprotective effects in numerous preclinical studi
 ## Overview
 
 Gastrodia Elata represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -48,7 +48,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving gastrodia extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -63,13 +63,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for gastrodia elata. Climate adaptation
+opportunities for gastrodia elata. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -84,7 +84,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 gastrodia elata and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: "Weighted Unweighted Unifrac Discrepancy Cannabis Cultivar"
+title: "[[unifrac-weighted-unweighted-analysis-cannabis-microbiome]] Unifrac Discrepancy [[cannabis-cultivar-effects-soil-microbiome]]"
 created: 2026-05-11
 tags: [cannabis, microbiome, unifrac, beta-diversity, cultivar-specificity, community-structure, weighted-analysis, unweighted-analysis]
 source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
@@ -11,7 +11,7 @@ source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 
 The Winston et al. (2014) [[cannabis-rhizosphere-microbial-communities]].
 Specifically, **strain-level differentiation was detectable only with
-weighted UniFrac** when examining OTU presence/absence patterns, while
+weighted UniFrac** when examining [[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]/absence patterns, while
 [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] characterizes Maui Wowie.
 
 ## The PC1 Axis Flip
@@ -70,14 +70,14 @@ OTUs. Shallow sequencing may miss abundance-driven effects.
 The zero significant unweighted OTUs between strains reflects the
 stringency of FDR correction across hundreds of OTUs. While no
 single OTU reaches significance, the aggregate phylogenetic signal
-(strain clustering in PCoA) remains strong, suggesting that
+([[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] in PCoA) remains strong, suggesting that
 multivariate approaches capture signals lost in per-OTU testing.
 
 ## See Also
 
 - [[edaphic-factors-structuring-cannabis-microbiome]] — Soil effects
 - [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]
-- cannabis endorhiza strain specificity post harvest persistence
+- cannabis [[methylophilus-cannabis-endorhiza-strain-specificity]] [[cannabis-curing-storage-post-harvest-clarke]] persistence
 ## Benefits and Limitations
 
 Weighted Unweighted Unifrac Discrepancy Cannabis Cultivar offers several advantages in practice, including adaptability to

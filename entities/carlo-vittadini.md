@@ -9,7 +9,7 @@ tags: [mycologist, italy, agaricus-campestris, 19th-century, taxonomy]
 
 ## Description
 
-Carlo Vittadini was a leading Italian mycologist referenced by Julius Auboineau Palmer in his writings on mushrooms. Vittadini was an authority on edible and poisonous fungi in Italy, and his published plates and descriptions of *Agaricus campestris* (the common meadow mushroom) and *Agaricus arvensis* (the cultivated/horse mushroom) helped establish these species as the primary esculent fungi known worldwide.
+Carlo Vittadini was a leading Italian mycologist referenced by Julius Auboineau Palmer in his writings on mushrooms. Vittadini was an authority on [[classification-of-edible-and-poisonous-mushroom-families]] fungi in Italy, and his published plates and descriptions of *[[agaricus-campestris-biology-and-life-cycle]]* (the common meadow mushroom) and *Agaricus arvensis* (the cultivated/horse mushroom) helped establish these species as the primary esculent fungi known worldwide.
 
 ## Biographical Details
 
@@ -56,11 +56,11 @@ The myth that Italians did not eat *Agaricus campestris* was particularly persis
 
 Vittadini's work is significant for:
 
-- **Species documentation**: Providing authoritative descriptions and illustrations of key edible mushroom species
+- **Species documentation**: Providing authoritative descriptions and illustrations of key [[edible-mushroom-species-identification]]
 - **Cultural mycology**: Recording regional patterns of mushroom consumption and dispelling myths
-- **Taxonomic authority**: Serving as a reliable reference for the identification of *A. campestris* and *A. arvensis*
-- **International mycology**: Bridging Italian mycological tradition with the broader European and American scientific community
-- **Cultivation history**: Supporting the understanding that *A. campestris/arvensis* was the universally recognized edible mushroom
+- **[[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]]**: Serving as a reliable reference for the identification of *A. campestris* and *A. arvensis*
+- **[[international-mycology-research-network]]**: Bridging Italian mycological tradition with the broader European and American scientific community
+- **[[cuthill-mushroom-cultivation-history-19th-century]]**: Supporting the understanding that *A. campestris/arvensis* was the universally recognized edible mushroom
 
 ## Cross-References
 

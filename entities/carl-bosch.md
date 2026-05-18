@@ -9,7 +9,7 @@ tags: [person, engineer, nitrogen-fixation, history-of-science, industrial-chemi
 
 ## Description
 
-Carl Bosch (1874–1940) was a German industrial engineer and chemist who scaled up Fritz Haber's laboratory method for nitrogen fixation into an industrial process capable of producing ammonia on a massive scale. The resulting Haber-Bosch process, named after both men, revolutionized fertilizer production and is one of the most consequential industrial processes in human history. Bosch received the Nobel Prize in Chemistry in 1931 for his contributions to chemical high-pressure methods.
+Carl Bosch (1874–1940) was a German industrial engineer and chemist who scaled up Fritz Haber's laboratory method for [[biological-nitrogen-fixation-agriculture]] into an industrial process capable of producing ammonia on a massive scale. The resulting Haber-Bosch process, named after both men, revolutionized fertilizer production and is one of the most consequential industrial processes in human history. Bosch received the Nobel Prize in Chemistry in 1931 for his contributions to chemical high-pressure methods.
 
 ## Classification
 
@@ -42,22 +42,22 @@ Bosch received the 1931 Nobel Prize in Chemistry jointly with Friedrich Bergius 
 - The resulting Haber-Bosch process produces over 500 million tons of artificial fertilizers per year
 - Nobel Prize in Chemistry, 1931
 - His engineering work made synthetic nitrogen fertilizers economically viable
-- The process now consumes approximately 5% of global natural gas production
+- The process now consumes approximately 5% of [[chos-global-natural-farming-input-reduction-methods]] gas production
 
 ## Historical Significance
 
 Bosch's contribution was essential because Haber's laboratory method, while chemically sound, was impractical at scale. Without Bosch's engineering innovations:
 
-- The world would have remained dependent on limited biological nitrogen fixation
+- The world would have remained dependent on limited [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
 - Agricultural yields could not have increased to support 20th century population growth
-- The geopolitical competition over natural nitrogen deposits (guano, nitrate minerals) would have intensified
+- The geopolitical competition over [[jadam-natural-nitrogen-fertilizer]] deposits (guano, nitrate minerals) would have intensified
 
 ## Relevance to Cultivation and Mycology
 
 - **Synthetic nitrogen access:** Bosch's engineering made nitrogen fertilizers affordable and widely available, transforming agriculture worldwide
 - **Sustainability context:** Understanding the energy cost of the Haber-Bosch process highlights the value of biological nitrogen fixation as a sustainable alternative
-- **Soil microbiome:** The availability of cheap synthetic nitrogen has led to practices that can suppress beneficial soil microbes including mycorrhizal fungi
-- **Organic alternatives:** The environmental cost of the Haber-Bosch process is a key driver behind organic and regenerative agriculture movements
+- **Soil microbiome:** The availability of cheap synthetic nitrogen has led to practices that can suppress beneficial soil microbes including [[arbuscular-mycorrhizal-fungi]]
+- **Organic alternatives:** The environmental cost of the Haber-Bosch process is a key driver behind organic and [[biochar-in-regenerative-agriculture]] movements
 
 ## See Also
 

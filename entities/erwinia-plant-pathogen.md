@@ -37,9 +37,9 @@ Erwinia is a genus of Gram-negative bacteria belonging to the family Enterobacte
 ## Relevance to Cultivation and Mycology
 
 - Compost tea applications can help suppress Erwinia through competitive exclusion on plant surfaces.
-- Beneficial bacteria and fungi in compost tea occupy infection sites that Erwinia would otherwise colonize.
-- [[soil-food-web]] approach aims to create conditions unfavorable for Erwinia through diverse microbial communities.
-- Understanding the environmental conditions favoring Erwinia helps design compost tea programs for prevention.
+- [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] and fungi in compost tea occupy infection sites that Erwinia would otherwise colonize.
+- [[soil-food-web]] approach aims to create conditions unfavorable for Erwinia through diverse [[cannabis-rhizosphere-microbial-communities]].
+- Understanding the environmental conditions favoring Erwinia helps design [[ingham-turf-lawn-compost-tea-programs]] for prevention.
 - Research into plant-derived toxins (like ragwort compounds) against Erwinia could lead to new biological control approaches.
 
 ## Management Through Biology
@@ -62,11 +62,11 @@ Operates through complex interactions between biological, chemical, and physical
 
 ## Practical Applications
 
-Applied in agricultural production, land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
+Applied in [[fukuoka-agricultural-production-net-energy-deduction]], land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
 
 ## Research Findings
 
-Studies demonstrate measurable effects on soil health, plant growth, and ecosystem function. Ongoing research continues to refine understanding and application methods.
+Studies demonstrate measurable effects on soil health, plant growth, [[fungal-biodiversity-and-ecosystem-function]]. Ongoing research continues to refine understanding [[diy-fertilizer-recipes-and-application-methods]].
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.

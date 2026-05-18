@@ -7,7 +7,7 @@ tags: [policy, sustainability, united-nations, report]
 
 ## Description
 
-The Brundtland Report, formally titled "Our Common Future" (1987), is the landmark United Nations report that first articulated the modern definition of sustainable development. Chaired by former Norwegian Prime Minister Gro Harlem Brundtland, the report was produced by the UN World Commission on Environment and Development and became the foundation for subsequent global sustainability initiatives including the Earth Summits.
+The Brundtland Report, formally titled "Our Common Future" (1987), is the landmark [[new-united-nations-concept]] report that first articulated the modern definition of sustainable development. Chaired by former Norwegian Prime Minister Gro Harlem Brundtland, the report was produced by the UN World Commission on Environment and Development and became the foundation for subsequent global sustainability initiatives including the Earth Summits.
 
 ## Classification
 
@@ -22,7 +22,7 @@ The Brundtland Report, formally titled "Our Common Future" (1987), is the landma
 
 - Defined sustainable development as "meeting the needs of the present generation without compromising the ability of future generations to meet their needs."
 - The definition remains the most widely cited formulation of sustainability.
-- Concluded that critical global environmental problems result from poverty in the South and non-sustainable consumption patterns in the North.
+- Concluded that critical [[global-environmental-crisis-forests-soils-water]] problems result from poverty in the South and non-sustainable consumption patterns in the North.
 - Prescribed sustainability as a goal at every level of organization, from local communities to the entire planet.
 - Was the impetus for the UN Earth Summit in 1992 in Rio de Janeiro.
 - Led to the creation of "Agenda 21" — a global plan for sustainable development for the 21st century.
@@ -30,7 +30,7 @@ The Brundtland Report, formally titled "Our Common Future" (1987), is the landma
 
 ## Relevance to Cultivation and Mycology
 
-The Brundtland Report established the policy framework within which mushroom cultivation can be positioned as a sustainability tool. By defining sustainability in terms of intergenerational equity and recognizing the link between poverty and environmental degradation, the report created space for practical solutions like mushroom farming that simultaneously address waste management, nutrition, income generation, and ecosystem health. The ZERI projects documented in the source article explicitly aim to fulfill the Brundtland vision through fungal biotechnology.
+The Brundtland Report established the policy framework within which [[accessible-mushroom-cultivation-for-disabilities]] can be positioned as a sustainability tool. By defining sustainability in terms of intergenerational equity and recognizing the link between poverty and environmental degradation, the report created space for practical solutions like [[organic-mushroom-farming-and-mycoremediation-overview]] that simultaneously address [[community-recycling-waste-management]], nutrition, income generation, and ecosystem health. The ZERI projects documented in the source article explicitly aim to fulfill the Brundtland vision through fungal biotechnology.
 
 ## Legacy
 
@@ -39,7 +39,7 @@ The Brundtland definition of sustainability became the foundation for the Millen
 ## References
 
 - United Nations. 1987. "Our Common Future: Report of the World Commission on Environment and Development." www.un.org/geninfo/bp/envirp2.html.
-- Spinosa, R. 2008. "Fungi and Sustainability." *Fungi Magazine* Vol. 1:1.
+- Spinosa, R. 2008. "[[fungi-and-sustainability]]." *Fungi Magazine* Vol. 1:1.
 
 ## Historical Context and Development
 

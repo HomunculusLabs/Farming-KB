@@ -6,7 +6,7 @@ type: concept
 
 # Bulbing Onion Daylength and Latitude
 
-To fully comprehend growing bulbing onions, you need to understand how daylengths work at different latitudes and how they interact with onion varieties. This is the single most important concept for onion growing success.
+To fully comprehend growing bulbing onions, you need to understand how daylengths work at different latitudes and how they interact with onion varieties. This is the single most important concept for onion [[mushroom-growing-success-failure-and-economics]].
 
 ## The Daylength Basics
 
@@ -35,7 +35,7 @@ A variety bred to start bulbing when the daylength reaches 15 hours and 34 minut
 - Grown where winters are only a bit frosty at worst
 - Sweetest, mildest sort — favorite for eating raw
 - **The trickiest to grow**: if the plant grows too big during an unusually mild winter, it will fail to make bulbs and instead produce seedstalks ("bolters")
-- The key to success: divine the correct sowing date
+- The key to success: divine the correct [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]
 - Do not make soil super-fertile — instead, side-dress heavily after growth has securely resumed in spring
 - Some have been bred for extraordinary cold-hardiness and can be grown over winter in maritime climates
 
@@ -54,7 +54,7 @@ A variety bred to start bulbing when the daylength reaches 15 hours and 34 minut
 ## The Main Tricks for Large Bulbs
 
 1. **Use a variety that matches your latitude** — short-day in the south, long-day in the north
-2. **Direct-seed as early as possible** in spring to give maximum vegetative growth before bulbing
+2. **Direct-seed as early as possible** in spring to give maximum [[cannabis-vegetative-growth-stage]] before bulbing
 
 ## Transplanting for Lunkers
 
@@ -75,18 +75,18 @@ Bulbing onions require constantly moist soil. The usual procedure:
 - Loosen the soil first with a shovel if needed
 - Ideally, let them lie on dry soil in the sun to cure for a few days
 - If the weather isn't settled, bring them indoors, spread on a tarp, and allow them to dry until tops have completely shriveled
-- Store in mesh bags (onion sacks) for lots of air circulation in cool, dry conditions
+- Store in mesh bags (onion sacks) for lots of [[stamets-growing-room-air-circulation-co2-management]] in cool, dry conditions
 
 ## Saving Seed
 
 ### The Right Method
 
-In mild-winter climates, do not produce onion seed by sowing seed in late summer ("seed-to-seed"). This shortcut does not permit you to select perfect bulbs and reject off-types. Always grow onion seed by planting mature, hand-selected bulbs.
+In mild-winter climates, do not produce onion seed by [[fukuoka-sowing-seed-ball-desert-revegetation]] in late summer ("seed-to-seed"). This shortcut does not permit you to select perfect bulbs and reject off-types. Always grow onion seed by planting mature, hand-selected bulbs.
 
 ### Process
 
 1. Choose well-wrapped, middle-sized bulbs with correct shape and narrow necks (which usually result in longer storage)
-2. Include at least 50 bulbs in the gene pool
+2. Include at least 50 bulbs in the [[cannabis-gene-pool-preservation-acclimatization-clarke]]
 3. Where winter is severe, plant bulbs out in spring after wintering them
 4. Set about 1 foot (30 cm) apart in rows 2 feet (60 cm) apart
 5. Plan on staking up or propping up the seedstalks

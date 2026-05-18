@@ -1,12 +1,12 @@
 ---
-title: Shelterbelt Design and Benefits
+title: [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]] and Benefits
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Shelterbelt Design and Benefits
 
-Shelterbelts (also called windbreaks) are among the most productive elements in [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them|them]] and smother in fenced corners
+Shelterbelts (also called windbreaks) are among the most productive elements in [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]] and smother in fenced corners
 - **Escape routes**: all moorland and high plateau fences should allow easy downwind escape to woodlots, sheltered valleys, or lower elevations
 
 ### Weight and Production Effects
@@ -35,7 +35,7 @@ Juniper in high country actually grows better in areas of snow drift (below shar
 
 ### Highway Safety
 
-Wind shear on exposed highways and at caravan parks can cause casualties and [[oyster-mushroom-growing-house-design-site-selection-tropical-climates|climates]]
+Wind shear on exposed highways and at caravan parks can cause casualties and [[oyster-mushroom-growing-house-design-site-selection-tropical-climates]]
 - Greater fruit or seed set in bee-pollinated crops (bees fly more freely in shelter)
 - Preservation of good tree shape, hence less pruning required
 - Reduced wind damage to fruit and leaf
@@ -44,7 +44,7 @@ Wind shear on exposed highways and at caravan parks can cause casualties and [[o
 
 Shelterbelt trees should be evaluated against multiple criteria:
 
-- **Nitrogen fixation** or good mulch potential from leaves and trimmings
+- **[[biological-nitrogen-fixation-agriculture]]** or good mulch potential from leaves and trimmings
 - **Hosting predatory insects or birds** that control crop pests
 - **Minimal moisture competition** with the crop (roots can be ripped or trenched at the crop edge)
 - **Excellent forage yields** or concentrated foods for livestock
@@ -65,7 +65,7 @@ In foggy climates or facing sea coasts, sea air condensation on foliage can prod
 - **Windburn and seed shattering** in hot winds is insignificant for up to **18 times the height** of the windbreak
 - **Soil loss**: very serious losses of up to **100 tonnes/hectare/day** in duststorm episodes (usually followed by torrential rain) are prevented by windbreak and soil pitting with tussock grasses
 - **Dust settlement**: approximately **50–70% of dusts settle out** of the air 100 m into tree clumps
-- Treelines are the essential accompaniment to any pastoral or crop system in arid areas
+- Treelines are the essential accompaniment to any pastoral or crop system [[soil-amelioration-and-fertilisers-in-arid-areas]]
 
 ### Coastal Deforestation Effects
 
@@ -82,8 +82,8 @@ Excellent crop mulch from species including *[[prosopis]]*, *[[acacia]]*, *Eryth
 All mulch-producing species plus *Leucaena*, fig, and *Pennisetum* provide livestock fodder.
 
 ### Soil Fertility
-Some species fix or recycle nitrogen and phosphatic fertilisers, or mine trace elements:
-- *Casuarina*, *Banksia*, *[[tipuana-tipu]]*). Such sites do not frost because there is no bare ground radiation at night, and advected frost is impeded.
+Some species fix or recycle nitrogen and phosphatic fertilisers, or mine [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]:
+- *Casuarina*, *Banksia*, *[[tipuana-tipu]]*). Such sites do not frost because there is no [[savory-bare-ground-and-soil-exposure]] radiation at night, and advected frost is impeded.
 
 ### Firewood and Cooking Fuel
 Forage and firewood from windbreaks provide excess fuels to cook crop products—an important factor in developing world contexts.

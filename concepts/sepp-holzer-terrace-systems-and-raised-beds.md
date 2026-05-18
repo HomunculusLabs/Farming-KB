@@ -1,5 +1,5 @@
 ---
-title: Sepp sepp holzer terrace systems and raised beds Systems and Raised Beds
+title: Sepp sepp [[holzer-terrace-systems]] and [[holzer-raised-beds-systems]] and Raised Beds
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -58,7 +58,7 @@ Terraces serve multiple simultaneous functions:
 - First year: create terraces at top, middle, and bottom; plant immediately
 - Second year: create more terraces between originals once stable
 - On steep slopes, start at the lowest point and work upward
-- Stones placed on terraces for additional stability and heat storage
+- Stones placed on terraces for additional stability [[radiation-and-heat-storage-design]]
 - Plants with different root depths stabilise slopes
 - Embankments built with loose soil rich in humus (unlike conventional flat-packed terraces)
 
@@ -74,9 +74,9 @@ Terraces serve multiple simultaneous functions:
 ## Raised Beds
 
 Raised beds are another key landscape element with multiple functions:
-- Vegetable and crop production
+- Vegetable [[latitude-effects-on-photosynthesis-and-crop-production]]
 - Barriers against emissions, dust, noise, and fumes from roads or industry
-- Visual barriers using lush vegetation that also provides wildlife habitat
+- Visual barriers using lush vegetation that also provides [[hemenway-backyard-wildlife-habitat]]
 - Water retention and [[mollison-designers-microclimate-creation-frost-protection]]
 
 Raised beds should be rebuilt every 5-10 years depending on cultivation type. They can be flattened or compressed by animals or excessive grass growth. Repair is straightforward with a compact digger, tractor with backhoe, or plough (similar to white asparagus bed maintenance).

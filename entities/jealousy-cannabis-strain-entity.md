@@ -28,19 +28,19 @@ sources:
 
 ## Overview
 
-Jealousy is a modern indica-dominant hybrid cannabis strain bred by Seed Junky Genetics, a highly regarded breeding operation based in Southern California. Released in the early 2020s, Jealousy rapidly became one of the most sought-after "exotic" or "zaza" strains on the US West Coast, commanding premium prices at licensed dispensaries and earning a devoted following among both recreational and medical consumers. The strain is a cross of Gelato #41 and a select cut of [[sunset-sherbert]] × [[girl-scout-cookies]] phenotype)
+Jealousy is a modern indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Seed Junky Genetics, a highly regarded breeding operation based in Southern California. Released in the early 2020s, Jealousy rapidly became one of the most sought-after "exotic" or "zaza" strains on the US West Coast, commanding premium prices at licensed dispensaries and earning a devoted following among both recreational and medical consumers. The strain is a cross of Gelato #41 and a select cut of [[sunset-sherbert]] × [[girl-scout-cookies]] phenotype)
 - Known for its creamy, dessert-like [[cannabis-glandular-trichome-types-resin-production-clarke]], and the sweet lavender-citrus terpene expression
 
-**Male Parent: Sunset Sherbet (select cut)**
-- A phenotype of Sherbert, itself derived from Girl Scout Cookies × Pink Panties
-- Known for deep purple coloration, fruity terpene profile (berries, sherbet, tropical), and relaxing body effects
+**Male Parent: [[sunset-sherbet]] (select cut)**
+- A phenotype of Sherbert, itself derived from [[oner-cookie-wreck-trainwreck-girl-scout-cookies-hybrid]] × Pink Panties
+- Known for deep purple coloration, fruity [[cannabis-terpene-profile]] (berries, sherbet, tropical), and relaxing body effects
 - The specific cut used in Jealousy is a select phenotype chosen for its exceptional aroma and potency
 - Contributes the purple hues, enhanced fruitiness, and the deep physical relaxation characteristic of the strain
 
 ### Lineage Summary
 ```
 Girl Scout Cookies
-├── Thin Mint Cookies ──┐
+├── [[thin-mint-cookies]] ──┐
 │                       ├── Gelato #41 ──┐
 └── Pink Panties ───────┤                 │
                         ├── Sunset Sherbet├── Jealousy
@@ -56,7 +56,7 @@ The inbreeding of Sunset Sherbet genetics (present in both Gelato #41 and direct
 
 Jealousy is visually striking and lives up to the "exotic" aesthetic expected of premium modern cannabis:
 
-- **Bud structure:** Dense, chunky, medium-to-large calyxes with a tight, indica-typical formation. Buds are remarkably heavy for their size due to dense trichome coverage.
+- **[[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]:** Dense, chunky, medium-to-large calyxes with a tight, indica-typical formation. Buds are remarkably heavy for their size due to dense trichome coverage.
 - **Coloration:** A dramatic interplay of deep [[cannabis-resin-production-and-quality-traits-clarke]]. Buds appear frosty or "dipped in sugar" with a thick layer of opaque, milky-white trichomes. Under magnification, a mix of bulbous and capitate-stalked glandular trichomes are visible, with amber-colored heads indicating peak maturity.
 - **Leaf:** Broad indica-dominant leaves with serrated edges, often displaying purple stems and petioles.
 

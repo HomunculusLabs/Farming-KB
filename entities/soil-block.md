@@ -12,7 +12,7 @@ A soil block is a compressed cube of growing medium used as a container-free tra
 
 ## Classification
 - **Category**: Propagation technique / Transplant production system
-- **Type**: Container-free seedling production
+- **Type**: Container-free [[coleman-sowing-seedling-production]]
 - **Materials**: Compressed growing medium (potting mix)
 - **Tools**: Soil block maker (hand press or mechanical)
 
@@ -35,7 +35,7 @@ A soil block is a compressed cube of growing medium used as a container-free tra
 - **Space efficient**: Blocks can be packed tightly on benches
 
 ### Coleman's Usage
-- Used for overwintered spinach and lettuce crops under quick hoops
+- Used for [[coleman-overwintered-spinach-cold-house-production]] and lettuce crops under quick hoops
 - Spinach and lettuce seeded in soil blocks on October 1
 - Transplanted out two weeks later (mid-October)
 - Direct seeding an alternative but outdoor germination in fall can be spotty
@@ -58,7 +58,7 @@ A soil block is a compressed cube of growing medium used as a container-free tra
 
 ### Mushroom Substrate Analog
 - The compressed block concept parallels mushroom substrate block production
-- Mushroom growers already use compressed sawdust/bran blocks (e.g., for shiitake, oyster mushrooms)
+- [[enterprise-development-mushroom-growers]] already use compressed sawdust/bran blocks (e.g., for shiitake, oyster mushrooms)
 - The principle of a self-contained, containerless growing medium is identical
 - Air pruning concept applies: mycelium at the block surface benefits from gas exchange
 
@@ -68,14 +68,14 @@ A soil block is a compressed cube of growing medium used as a container-free tra
 - Moisture retention in compressed blocks is relevant to maintaining substrate hydration
 
 ### Transplant Establishment
-- The elimination of transplant shock is directly relevant to outdoor mushroom bed inoculation
+- The elimination of transplant shock is directly relevant to [[growing-gourmet-outdoor-mushroom-bed-establishment]] inoculation
 - Spawn blocks or plug spawn placed in beds establish faster when the surrounding medium is compatible
 - The principle of matching the block medium to the target environment reduces establishment failure
 
 ## Historical Context
 - Soil block technology was developed and popularized in European market gardening
-- Particularly associated with Dutch and Belgian intensive vegetable production
-- Coleman learned and adapted the technique for American organic farming
+- Particularly associated with Dutch and Belgian intensive [[coleman-french-historical-winter-vegetable-production]]
+- Coleman learned and adapted the technique for American [[coleman-deep-organic-farming]]
 - The method aligns with organic principles of waste reduction and working with biological systems
 
 ## See Also

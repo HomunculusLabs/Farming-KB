@@ -1,5 +1,5 @@
 ---
-title: "Earthship vs Cordwood Construction"
+title: "Earthship [[comparison-bamboo-vs-cordwood-construction]]"
 tags: [comparison, natural-building, earthship, cordwood-construction, off-grid]
 date: 2026-05-12
 updated: 2026-05-12
@@ -14,7 +14,7 @@ Earthships and cordwood construction represent two very different approaches
 to [[natural-building]]. Earthships, pioneered by Michael Reynolds in New Mexico,
 are autonomous homes designed to function off-grid — harvesting rainwater,
 treating sewage, generating electricity, and heating themselves passively using
-tire-and-earth thermal mass walls. Cordwood construction, a centuries-old
+tire-and-earth [[comparison-windbreak-vs-thermal-mass]] walls. Cordwood construction, a centuries-old
 technique revived in the 1970s, uses short logs embedded in mortar to create
 thick, insulating walls with distinctive visual patterns. Both methods appeal
 to homesteaders seeking affordable, sustainable shelter, but they differ
@@ -31,7 +31,7 @@ with the thermal mass of masonry, producing walls that perform well
 across a wide range of climates.
 
 The method has deep historical roots, with surviving examples in Europe
-and North America dating back centuries. It experienced a strong revival
+and [[guzman-psilocybin-mushrooms-north-america]] dating back centuries. It experienced a strong revival
 during the 1970s back-to-the-land movement and remains popular with
 owner-builders because it requires no heavy equipment, specialized
 tools, or advanced construction skills. Softwoods like cedar, pine,
@@ -63,7 +63,7 @@ removing and re-laying a section of wall before the mortar sets.
 Choose an earthship when full autonomy is the primary goal — producing
 your own power, treating your own waste, harvesting your own water, and
 growing food within the structure itself. Earthships are ideal for remote
-sites in sunny, arid regions where connecting to grid utilities is
+sites in sunny, [[fukuoka-natural-farming-in-arid-regions]] where connecting to grid utilities is
 impractical or prohibitively expensive. They suit builders willing to
 navigate regulatory challenges and invest significant time and money in
 a holistic systems approach. The integrated greenhouse corridor makes
@@ -84,8 +84,8 @@ recognized and accepted by many building departments.
 ## Combined Approaches
 
 Some builders combine elements of both systems. A cordwood-walled home
-can incorporate earthship-style passive solar orientation, greywater
-botanical treatment cells, and rainwater harvesting cisterns without
+can incorporate earthship-style [[comparison-passive-solar-vs-earth-sheltered]] orientation, greywater
+botanical treatment cells, and [[comparison-drip-irrigation-vs-rainwater-harvesting]] cisterns without
 requiring tire walls. Conversely, earthship builders sometimes use
 cordwood infill panels for interior partition walls where thermal mass
 is less critical. The key is matching the wall system to the climate:

@@ -1,5 +1,5 @@
 ---
-title: Mckenna Mdma And Drug Terror Of The 1980S
+title: Mckenna [[mdma]] And [[mdma-crack-cocaine-drug-terror-1980s]] Of The 1980S
 created: 2026-04-28
 tags: [mdma, ecstasy, crack-cocaine, drug-war, mckenna, prohibition, psychedelics, history]
 date: 2026-04-28
@@ -85,7 +85,7 @@ Throughout the 1970s and 1980s, the need to deny the impact of the
 sixties took on something of the flavor of a mass obsession. As the
 seventies progressed, the new management agenda became clear: while
 [[mckenna-modest-proposal-drug-policy-reform]] not
-as public health but as a system of social control, with different
+as public health but as a system of [[patriarchal-law-and-social-control]], with different
 intoxicants assigned to different socioeconomic strata.
 
 ## See Also

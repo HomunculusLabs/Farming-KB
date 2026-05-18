@@ -8,7 +8,7 @@ type: entity
 
 A penetrometer is a diagnostic tool used to measure soil compaction and soil
 strength by determining the resistance of soil to penetration by a standardized
-probe. In the context of compost tea application and [[soil-food-web]] management,
+probe. In the context of [[compost-tea-application-and-disease-suppression]] and [[soil-food-web]] management,
 [[elaine-ingham]] recommends using a penetrometer to verify that compost tea
 applications are successfully improving soil structure by showing that
 compacted zones in the soil are opening up as beneficial organisms establish
@@ -37,7 +37,7 @@ in the field.
 - Readings above 300 psi typically indicate root-limiting compaction that will
   physically prevent most plant roots from penetrating deeper soil layers
 - Penetrometers can identify compacted zones at specific soil depths without
-  excavation, making them non-destructive diagnostic tools
+  excavation, making them non-destructive [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]
 - Results vary significantly with soil moisture content; readings should be
   interpreted relative to field conditions and compared at similar moisture
 - Used extensively in agriculture, construction, geotechnical engineering,
@@ -55,7 +55,7 @@ colonizing the soil and rebuilding aggregate structure.
 When soil structure improves through biological activity, roots can grow
 deeper into the soil profile, accessing water and nutrients that were
 previously unavailable in compacted zones. Ingham notes that roots should
-start growing deeper into the soil if the application has been successful at
+[[query-how-do-i-start-growing-berries-in-my-garden]] deeper into the soil if the application has been successful at
 improving soil structure, and that this effect may become obvious within a
 week or two after a successful tea application.
 
@@ -74,10 +74,10 @@ activity, and improved plant growth.
 
 In [[mushroom-substrate-preparation]], penetrometer-like measurements of bulk
 density can also help optimize substrate formulations for proper gas exchange
-and mycelial colonization rates.
+and [[mycelial-colonization]] rates.
 
 Using the penetrometer alongside other monitoring tools (soil respiration
-tests, microbial biomass assays, and visual assessment of soil aggregation)
+tests, [[soil-microbial-biomass-measurement-ecological-significance]] assays, and [[jarrold-mycelium-colonization-monitoring-visual-assessment]] of soil aggregation)
 gives a comprehensive picture of whether compost tea applications are achieving
 their intended biological outcomes. The penetrometer specifically measures the
 physical result of biological activity, making it an indispensable tool for

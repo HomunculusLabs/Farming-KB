@@ -33,7 +33,7 @@ Mollison uses the Minamata case to illustrate several interconnected principles 
 
 1. **Metal mobilisation**: Acid conditions (acid rain, pH < 5.5) dissolve toxic metals from geological sources
 2. **Biological activation**: Microorganisms convert inorganic pollutants to more dangerous organic forms
-3. **Sewage interaction**: Organic matter in sewage facilitates the conversion of metals into biologically active compounds
+3. **Sewage interaction**: [[maintaining-organic-matter-in-vegetable-gardens]] sewage facilitates the conversion of metals into biologically active compounds
 4. **Food chain concentration**: Metals concentrate progressively up the food chain
 5. **Synergistic toxicity**: Aldrin prevents DDT from being excreted, and the combination is deadly — a mix still available in some countries
 
@@ -44,10 +44,10 @@ Minamata disease highlights critical principles for safe water management in agr
 - **Never use industrially contaminated water** for irrigation of food crops
 - **Test for heavy metals** in water sources, especially near industrial areas
 - **Maintain soil pH above 5.5** to prevent mobilisation of toxic metals
-- **Use biological water treatment** systems (reed beds, constructed wetlands) to capture heavy metals
-- **Understand that anaerobic conditions** in sewage treatment can precipitate metals as insoluble sulphides (above pH 7), effectively removing them from the water column
+- **Use [[sand-filtration-and-biological-water-treatment]]** systems (reed beds, [[comparison-constructed-wetlands-vs-bioswales]]) to capture heavy metals
+- **Understand that [[aact-ph-and-anaerobic-conditions]]** in sewage treatment can precipitate metals as insoluble sulphides (above pH 7), effectively removing them from the water column
 
-The case also supports the permaculture principle that biological treatment systems are superior to chemical treatment, as they address root causes rather than adding further pollutants to the system.
+The case also supports the [[permaculture-principle-1-observe-interact]] that biological treatment systems are superior to chemical treatment, as they address root causes rather than adding further pollutants to the system.
 
 ## Broader Context
 
@@ -56,7 +56,7 @@ The Minamata case exemplifies what Mollison calls the end point of the technolog
 ## Practical Applications
 
 Minamata Disease finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 

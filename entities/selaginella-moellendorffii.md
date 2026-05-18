@@ -21,7 +21,7 @@ Selaginella moellendorffii is a species of spikemoss in the family Selaginellace
 
 Selaginella moellendorffii can form extensive mats that carpet the forest floor, particularly in areas with consistent moisture.
 
-The species demonstrates some degree of desiccation tolerance, though it is less poikilohydric than some other Selaginella species such as the resurrection fern Selaginella lepidophylla.
+The species demonstrates some degree of [[lichen-desiccation-tolerance-cavitation-ice-nucleation]], though it is less poikilohydric than some other Selaginella species such as the resurrection fern Selaginella lepidophylla.
 
 Populations are generally stable in undisturbed forest habitats but may decline with deforestation and habitat fragmentation.
 
@@ -34,7 +34,7 @@ Selaginella moellendorffii was selected for genome sequencing by the [[agaricus-
 ## Overview
 
 Selaginella Moellendorffii represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -48,7 +48,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving selaginella extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -63,13 +63,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for selaginella moellendorffii. Climate adaptation
+opportunities for selaginella moellendorffii. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -84,7 +84,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 selaginella moellendorffii and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

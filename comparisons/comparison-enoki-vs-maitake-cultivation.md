@@ -1,5 +1,5 @@
 ---
-title: "Enoki vs Maitake Cultivation"
+title: "Enoki [[comparison-nameko-vs-maitake-cultivation]]"
 tags: [comparison, mushrooms, cultivation, enoki, maitake, gourmet]
 date: 2026-05-10
 updated: 2026-05-10
@@ -10,9 +10,9 @@ sources: []
 
 ## Overview
 
-Enoki (Flammulina velutipes) and Maitake (Grifola frondosa) are both
+Enoki ([[enoki-mushroom-flammulina-velutipes]]) and Maitake ([[grifola-frondosa]]) are both
 high-value gourmet mushrooms with devoted commercial markets, yet their
-cultivation requirements could hardly be more different. Enoki thrives
+[[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]] could hardly be more different. Enoki thrives
 in cold, dark, high-CO2 environments that would stunt most species,
 while Maitake demands careful environmental management and rewards
 patience with massive, coral-like fruiting clusters. Understanding
@@ -32,7 +32,7 @@ oaks and elms) that continues as a saprophyte after the host dies.
 
 Maitake is considered one of the more challenging gourmet mushrooms to
 cultivate indoors. Colonization is slow (30-45 days on supplemented
-hardwood sawdust), significantly longer than oyster or shiitake. The
+[[hardwood-sawdust-substrate]]), significantly longer than oyster or shiitake. The
 substrate requires 20-30% bran supplementation with gypsum at 5% to
 maintain structure and provide calcium and sulfur. Strict sterile
 technique is essential due to the extended colonization window.
@@ -65,7 +65,7 @@ Enoki is the clear choice for growers in cold climates or those seeking
 winter production. Its low temperature requirements mean minimal
 cooling costs during cold months — an unheated basement or garage may
 suffice. The fast colonization and straightforward fruiting make it
-ideal for beginners learning mushroom cultivation fundamentals.
+ideal for beginners learning [[mushroom-cultivation-fundamentals]].
 
 Commercially, enoki suits operations targeting Asian grocery markets,
 ramen restaurants, and hot pot establishments. The long shelf life

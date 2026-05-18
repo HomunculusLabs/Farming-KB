@@ -12,10 +12,10 @@ sources: []
 
 Cordyceps ([[reishi-cultivation]]) are two of the most sought-after medicinal
 mushrooms in the world, yet their cultivation demands are strikingly
-different. Cordyceps militaris is a fastidious, parasitic fungus that
+different. [[cordyceps-militaris]] is a fastidious, parasitic fungus that
 fruits on grain substrates under precise sterile conditions. Reishi
-(Ganoderma lucidum) is a robust wood-decay saprotroph that grows on
-supplemented hardwood sawdust and tolerates a wider range of conditions.
+([[ganoderma-lucidum]]) is a robust wood-decay saprotroph that grows on
+supplemented [[hardwood-sawdust-substrate]] and tolerates a wider range of conditions.
 Choosing between them depends on your lab setup, experience level, and
 target market.
 
@@ -23,7 +23,7 @@ target market.
 
 [[reishi-cultivation]]
 
-Reishi is one of the most forgiving medicinal mushrooms to cultivate.
+Reishi is one of the most forgiving medicinal [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]].
 It grows aggressively on supplemented hardwood sawdust (oak preferred
 with 10-20% wheat bran) sterilized at standard pressure. Colonization
 occurs at 70-80 F (21-27 C) over 2-4 weeks, and the species is notably
@@ -56,8 +56,8 @@ extracts.
 
 ## When to Choose Cordyceps
 
-Choose Cordyceps militaris cultivation if you have experience with
-sterile technique and liquid culture, and your target market values
+Choose [[cordyceps-militaris-cultivation]] if you have experience with
+[[cultivator-sterile-technique-and-agar-culture]] liquid culture, and your target market values
 energy-enhancing supplements. Cordyceps is ideal for growers who already
 operate a clean lab with laminar flow capability and want to produce a
 high-value product with a relatively short fruiting cycle. The species

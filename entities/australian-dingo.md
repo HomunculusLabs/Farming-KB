@@ -36,7 +36,7 @@ incrementally closer relationships between humans and wild animals over time.
 - **Subspecies**: C. l. dingo
 - **Common Names**: Dingo, warrigal, Australian wild dog
 - **Origin**: Southeast Asia (arrived in Australia ~4,000 years ago)
-- **Conservation Status**: Vulnerable (due to hybridisation with domestic dogs)
+- **[[fungal-biodiversity-conservation-status]]**: Vulnerable (due to hybridisation with domestic dogs)
 
 ## Key Facts
 
@@ -64,15 +64,15 @@ incrementally closer relationships between humans and wild animals over time.
 - **Ecosystem Regulation**: As apex predators, dingoes help maintain balanced
   ecosystems where herbivore pressure on vegetation is controlled, indirectly
   supporting healthy plant and fungal communities.
-- **Soil Health via Trophic Cascades**: By controlling herbivore populations,
+- **Soil Health via [[keystone-species-and-trophic-cascades]]**: By controlling herbivore populations,
   dingoes reduce overgrazing, allowing vegetation cover that protects soil from
   erosion and maintains conditions favourable for [[mycorrhizal-networks]].
 - **Co-evolutionary Model**: The dingo's domestication story provides insights
   into how humans can develop working relationships with animals in agricultural
-  systems, including pest management in cultivation contexts.
+  systems, including [[integrated-pest-management-in-tropical-polycultures]] cultivation contexts.
 - **Landscape Management**: In [[permaculture-design]], understanding the role of
   apex predators helps inform decisions about [[integrated-pest-management]] and
-  livestock protection in broadacre systems.
+  [[shelterbelt-benefits-and-livestock-protection]] in broadacre systems.
 - **Wild Systems Integration**: The dingo example illustrates how working with
   natural systems and their inherent dynamics can be more effective than attempting
   to exclude or eliminate wild species.
@@ -82,6 +82,6 @@ incrementally closer relationships between humans and wild animals over time.
 
 ## Source References
 
-- [[david-holmgren]], *Permaculture: Principles and Pathways Beyond Sustainability*
-  (2002), Principle 5: Use and Value Renewable Resources and Services — Working
+- [[david-holmgren]], *Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]*
+  (2002), Principle 5: Use [[permaculture-principle-use-and-value-renewable-resources]] Resources and Services — Working
   Animals section.

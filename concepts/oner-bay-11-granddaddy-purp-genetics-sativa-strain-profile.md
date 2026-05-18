@@ -30,7 +30,7 @@ Bay 11 is a sativa-dominant strain bred by Granddaddy Purp Genetics, a Califor [
 - **Light deprivation**: Plants exhibit stretch if deprived of light in the grow room, so lamps should be kept close to seedlings—though growers must avoid burning them
 - **Flowering time**: 9-10 weeks indoors
 - **Yield**: Approximately 1,000 grams per square yard of grow space under standard lighting
-- **Support requirements**: Plants are heavy yielders and need structural support from the vegetative stage onward to prevent branches from bending and snapping during flowering
+- **Support requirements**: Plants are heavy yielders and need [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] from the [[cannabis-vegetative-stage]] onward to prevent branches from bending and snapping during flowering
 
 ### Outdoor Cultivation
 
@@ -38,7 +38,7 @@ Bay 11 is a sativa-dominant strain bred by Granddaddy Purp Genetics, a Califor [
 - **Flowering time**: Finishes by the end of October
 - **Yield**: 1,500 to 2,500 grams per plant outdoors—an exceptionally high yield potential
 - **Recommendation**: If space permits, allowing Bay 11 to grow "as tall and wild as it wishes" produces the best results
-- **Climate**: Suited to Mediterranean climates with long growing seasons; the late October finish requires protection from early rain in wetter regions
+- **Climate**: Suited to Mediterranean climates with long [[jeavons-climate-adaptation-growing-seasons]]; the late October finish requires protection from early rain in wetter regions
 
 ### Growth Habit
 
@@ -62,14 +62,14 @@ The buds of Bay 11 are visually striking and colorful:
 - **Primary aroma**: Sweet and fresh, with an offsetting hint of berries
 - **Flavor comparison**: Described as similar to "chewing fruity gum"
 - **Smoke character**: The strain's appeal is more about its effects than its taste, though the fruity sweetness makes it pleasant to consume
-- **Terpene profile**: Sweet, berry-forward terpenes with fresh, fruity undertones
+- **[[cannabis-terpene-profile]]**: Sweet, berry-forward terpenes with fresh, fruity undertones
 
 ## Effects Profile
 
 Bay 11 was developed specifically as a medical strain with the express goal of providing effective pain relief. The effects are:
 
 - **Onset**: Powerful and immediate, described as being "thrown into a racecar and stepping on the gas"
-- **Character**: Potent cerebral effects with strong medicinal properties
+- **Character**: Potent cerebral effects with strong [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]
 - **Duration**: Long-lasting relief suitable for sustained medical use
 - **Time of use**: Recommended as a daytime smoke due to its energetic effects
 
@@ -79,7 +79,7 @@ Bay 11 is a versatile medical strain with applications for:
 
 - **Chronic pain relief**: The primary intended medical application
 - **Appetite disorders**: Stimulates appetite in patients experiencing appetite loss
-- **Sleep disorders**: Can provide relief for patients with difficulty sleeping
+- **[[blesching-cannabis-sleep-disorders]]**: Can provide relief for patients with difficulty sleeping
 - **Daytime medication**: The sativa-dominant effects allow medical use without excessive sedation
 
 ## Cultivation Tips

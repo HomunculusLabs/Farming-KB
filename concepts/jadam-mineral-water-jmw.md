@@ -22,11 +22,11 @@ sources:
 
 # JADAM Mineral Water (JMW)
 
-JMW is made by immersing leaf mold in water with rocks. It slowly extracts minerals and microbial diversity from both the rock and the decomposed leaf matter. Used as a nutrient source and soil drench in the [[jadam-methods]] system. Part of the foundational trio alongside [[jadam-microorganism-solution-jms]] and sea water/phyllite solution.
+JMW is made by immersing leaf mold in water with rocks. It slowly extracts minerals and microbial diversity from both the rock and the decomposed leaf matter. Used as a nutrient source and soil drench in the [[jadam-methods]] system. Part of the foundational trio alongside [[jadam-microorganism-solution-jms]] and sea water/[[jadam-phyllite-solution]].
 
 ## Why Mineral Water?
 
-Plants are ~95% water. The quality of water directly impacts cell formation and plant health. Purified water cannot sustain fish life; spring/mineral water can. JMW brings inorganic minerals (Ca, Mg, Fe, K, trace elements) in a form accessible to both plants and soil microorganisms. Combined with JMS and sea water, it provides complete nutritional balance.
+Plants are ~95% water. The quality of water directly impacts cell formation and plant health. Purified water cannot sustain fish life; spring/mineral water can. JMW brings inorganic minerals (Ca, Mg, Fe, K, [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]) in a form accessible to both plants and soil microorganisms. Combined with JMS and sea water, it provides complete [[jadam-nutritional-balance-fertilizer]].
 
 ## Making JMW
 
@@ -54,7 +54,7 @@ The principle: use rocks from your local environment, as their mineral profile m
 3. Fill container with water (200-500L)
 4. Put leaf mold in a mesh/cotton bag with rocks to sink it; hang in water
 5. Add additional rocks directly to the water
-6. Cover loosely, place in sun or ambient temperature
+6. Cover loosely, place in sun or [[jadam-ambient-temperature-principle]]
 7. Let steep for 1-2 weeks
 8. The water will gradually darken as minerals and humic substances extract
 9. Filter through fine net before use
@@ -95,7 +95,7 @@ Keep in covered container at ambient temperature. No strict expiration if kept a
 ## Role in JADAM Nutrition Program
 
 JMW provides the inorganic mineral component of the JADAM nutrition triangle:
-1. **JMS** -- microbial workforce and nutrient cycling
+1. **JMS** -- microbial workforce [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 2. **Sea water / sea salt** -- 83+ trace elements from ocean
 3. **JMW / phyllite solution** -- local rock minerals, humic substances
 
@@ -104,6 +104,6 @@ This combination provides both organic (microbe-processed) and inorganic (direct
 ## See Also
 
 - [[jadam-microorganism-solution-jms]] — the microbial component always applied with JMW
-- [[jadam-methods]] — full JADAM soil management and nutrition philosophy
+- [[jadam-methods]] — full [[jadam-soil-management-middle-way-root-health]] and nutrition philosophy
 - [[soil-food-web-nutrient-cycling]] — the biology these mineral inputs support
 - [[dynamic-accumulators]] — plants that mine minerals as living alternative

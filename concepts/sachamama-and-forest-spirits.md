@@ -1,5 +1,5 @@
 ---
-title: Sachamama And Ayahuasca Chullachaki Forest Spirits Huairamama Wind Serpent
+title: Sachamama And [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent]] Spirits [[huairamama]] Wind Serpent
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---

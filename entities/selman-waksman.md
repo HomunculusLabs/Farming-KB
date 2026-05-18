@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Selman Abraham Waksman (1888-1973) was a Ukrainian-American biochemist and microbiologist who pioneered the study of soil microbiology. His book "The Soil and the Microbe" (1931), co-authored with Robert Starkey, was cited by Coleman as one of the foundational texts that informed organic farming philosophy by revealing the critical role of soil microorganisms in plant nutrition.
+Selman Abraham Waksman (1888-1973) was a Ukrainian-American biochemist and microbiologist who pioneered the study of soil microbiology. His book "The Soil and the Microbe" (1931), co-authored with Robert Starkey, was cited by Coleman as one of the foundational texts that informed [[coleman-deep-organic-farming-philosophy]] by revealing the critical role of soil microorganisms in plant nutrition.
 
 ## Classification
 
@@ -20,11 +20,11 @@ Selman Abraham Waksman (1888-1973) was a Ukrainian-American biochemist and micro
 ## Key Facts
 
 - Won the Nobel Prize in Physiology or Medicine in 1952 for the discovery of [[streptomycin]]
-- Pioneered the systematic study of soil microorganisms and their roles in decomposition and nutrient cycling
+- Pioneered the systematic study of soil microorganisms and their roles in decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 - Co-authored "The Soil and the Microbe" (1931) -- cited by Coleman as foundational
 - Discovered numerous antibiotics including streptomycin, neomycin, and actinomycin
 - Coined the term "antibiotic" to describe compounds that kill or inhibit bacteria
-- His work at Rutgers University established soil microbiology as a major scientific discipline
+- His work at Rutgers University established soil microbiology as a major [[bloomfield-history-of-mycology-scientific-discipline]]
 
 ## Relevance to Cultivation
 
@@ -32,7 +32,7 @@ Waksman's research on soil microorganisms underpins the biological understanding
 
 ## Source Context
 
-Referenced in Eliot Coleman's "The Winter Harvest Handbook" as one of the historical authors whose work supported organic farming principles.
+Referenced in Eliot Coleman's "The [[winter-harvest-handbook-guide]]" as one of the historical authors whose work supported organic farming principles.
 
 ## See Also
 
@@ -50,7 +50,7 @@ broader farming and gardening practice.
 
 ## Historical Significance
 
-The historical development of selman waksman reflects broader trends
+The [[historical-development-of-mushroom-cultivation]] selman waksman reflects broader trends
 in agricultural science and ecological thinking. Early observations
 and experiments laid groundwork that modern practitioners continue
 to build upon, connecting traditional knowledge with contemporary
@@ -78,7 +78,7 @@ The economic aspects of this topic include direct costs, labor
 requirements, and potential returns for growers and producers.
 Cost-benefit analyses help determine optimal implementation
 strategies. Scale of operation and regional market conditions
-significantly influence economic viability.
+significantly influence [[economic-viability-water-retention-landscapes]].
 
 ## Integration with Other Systems
 

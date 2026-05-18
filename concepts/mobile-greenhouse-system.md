@@ -1,6 +1,6 @@
 ---
-title: "Mobile Greenhouse System"
-source: Eliot Coleman - The Winter Harvest Handbook
+title: "[[coleman-mobile-greenhouse-system]]"
+source: Eliot Coleman - The [[winter-harvest-handbook-guide]]
 tags:
   - winter-harvest
   - mobile-greenhouse
@@ -17,7 +17,7 @@ tags:
 
 ## Overview
 
-The mobile greenhouse system is an innovative approach to season extension that
+The mobile greenhouse system is an innovative approach to [[cervantes-season-extension-cloches-row-covers]] that
 solves several persistent problems in [[hamilton-pest-and-disease-control-organic]] cycles, reduces operating costs, and maximizes
 the productive utility of every square foot of growing space.
 
@@ -52,7 +52,7 @@ The core of Coleman's system is a two-site rotation aligned with the seasons:
 
 ### Phase 1: Winter Position
 
-In late summer and early fall, cold-hardy winter vegetables are planted
+In late summer and early fall, cold-hardy [[coleman-cold-hardy-winter-vegetables]] are planted
 directly in open ground on Site A — outdoors, with no greenhouse cover. The
 crops grow through autumn in open air, reaching near-mature size by the time
 cold weather arrives. Meanwhile, the mobile greenhouse sits on Site B,
@@ -96,6 +96,6 @@ frost fractures compacted layers, and sun kills surface pathogens and seeds.
 ### Long-Term Green Manure Crops
 
 The uncovered period provides an extended window for growing green manure
-crops — soil-building cover crops that fix nitrogen, add organic matter, and
+crops — soil-building cover crops that fix nitrogen, add [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], and
 [[cold-greenhouse-winter-harvest]] — The protective structure system
-- [[cold-hardy-winter-vegetables]] — Species selection for winter production
+- [[cold-hardy-winter-vegetables]] — Species selection for [[coleman-beet-greens-cold-house-winter-production]]

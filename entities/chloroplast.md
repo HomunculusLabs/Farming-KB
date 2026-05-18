@@ -50,7 +50,7 @@ The chloroplast contains several specialized internal components:
 
 ## Photosynthetic Function
 
-The chloroplast operates a two-stage energy conversion process:
+The chloroplast operates a two-stage [[energy-conversion-efficiency]] process:
 
 1. **Light reactions**: Chlorophyll absorbs light energy, exciting electrons. The concentration gradient of electrons inside the thylakoid compartment drives them through the enzyme ATPase, creating ATP from ADP. Electrons receive a second dose of light and are picked up by NADP.
 
@@ -74,14 +74,14 @@ The close similarity between chloroplasts and cyanobacteria is a cornerstone of 
 ## Relevance to Cultivation and Mycology
 
 - Chloroplasts determine the photosynthetic capacity of plants, directly influencing growth rate and yield
-- Nutrient deficiencies that affect chlorophyll production (such as nitrogen, magnesium, or iron deficiency) manifest as chlorosis — yellowing of leaves
-- Understanding chloroplast function helps cultivators optimize light exposure, CO2 supplementation, and nutrient feeding schedules
+- [[hamilton-nutrient-deficiencies-and-treatment]] that affect chlorophyll production (such as nitrogen, magnesium, or iron deficiency) manifest as chlorosis — yellowing of leaves
+- Understanding [[photosynthesis-and-chloroplast-function]] helps cultivators optimize light exposure, CO2 supplementation, and nutrient feeding schedules
 - In mycology, chloroplasts are absent from fungal cells — fungi are heterotrophic and do not photosynthesize, relying instead on external organic matter
-- The glucose produced by chloroplasts forms the base of the food web that sustains soil microbial communities, including beneficial fungi and bacteria
+- The glucose produced by chloroplasts forms the base of the food web that sustains [[endorhiza-rhizosphere-bulk-soil-microbial-communities]], including [[beneficial-fungi-trichoderma-and-mycorrhizae]] and bacteria
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
 
 ## See Also
 

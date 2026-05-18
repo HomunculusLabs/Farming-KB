@@ -1,5 +1,5 @@
 ---
-title: Bioregional Organisation
+title: [[bioregional-organisation]]
 source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
@@ -23,16 +23,16 @@ Bioregional organisation is a permaculture strategy for community self-governanc
 - The bioregion is ideally defined by natural features — watersheds, remnant tribal boundaries, language groups, or ecological zones — and is recognised as such by its inhabitants.
 - Optimal population: 7,000 to 40,000 people per bioregion, with perhaps 100 initially interested in a regional association.
 - A bioregional office staffed by 4–6 people serves as a coordination hub: land access centre, leasehold register, community banking facility, and contact point for inter-regional trade.
-- Sub-associations organise around specific needs: food (consumer-producer co-ops), shelter (owner-builder groups), energy (appropriate technology), finance (earthbank systems), crafts, music, markets, and nature study.
+- Sub-associations organise around specific needs: food (consumer-producer co-ops), shelter (owner-builder groups), energy ([[appropriate-technology]]), finance (earthbank systems), crafts, music, markets, and nature study.
 - The concept resolves the tension between bioregional centrality (living responsibly in one's region) and global outreach (cooperating across regions) through "families of common interest" and periodic global congresses.
 
 ## Relevance to Cultivation and Mycology
 
 - Bioregional organisation directly supports local food systems: seed exchanges, nurseries, demonstration farms, and consumer-producer cooperatives are all sub-functions of the bioregional model.
 - The Resource Index for Bioregions (compiled by Maxine Cole and Mollison for the Northern Rivers Bioregional Association) includes detailed categories for plant resources, animal resources, [[integrated-pest-management]], food processing, and soil/water analysis services.
-- Mycorrhizal inoculants and tissue culture propagation centres are listed as critical bioregional infrastructure under plant resources.
+- [[pgpr-mycorrhizal-inoculants-microplant-establishment]] and tissue culture propagation centres are listed as critical bioregional infrastructure under plant resources.
 - The model encourages closing resource loops locally — retaining compost, mulch materials, trace elements, and biological products within the region rather than importing them.
-- Integrated pest management (IPM) is a dedicated category within the bioregional resource index, emphasising biological controls and safe methods over biocides.
+- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM) is a dedicated category within the [[bioregional-resource-index-food-systems]], emphasising biological controls and safe methods over biocides.
 
 ## Resource Index Categories
 
@@ -51,8 +51,8 @@ The bioregional resource index includes:
 ## See Also
 
 - [[maxine-cole-mollison]]
-- [[earthbank|Earthbank]]
-- [[right-livelihood-commonwork-and-balanced-living|right livelihood]]
+- [[earthbank]]
+- [[right-livelihood-commonwork-and-balanced-living]]
 - [[seventh-generation-principle-mollison]]
 - [[bill-mollison]]
 
@@ -72,7 +72,7 @@ and ecological design thinking worldwide.
 ## Historical Context
 This topic was explored by Bill Mollison as part of the permaculture
 design framework, emphasizing sustainable and regenerative approaches
-to land management and community organization. The principles discussed
+to land management [[bioregionalism-and-community-organization]]. The principles discussed
 remain relevant to modern ecological design practice.
 
 ## Further Reading

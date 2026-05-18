@@ -8,7 +8,7 @@ sources:
   - "Odum EP (1969) — The Strategy of Ecosystem Development, Science"
   - "Clements FE (1916) — Plant Succession: An Analysis of the Development of Vegetation"
   - "Connell & Slatyer (1977) — Mechanisms of Succession in Natural Communities, American Naturalist"
-  - "Toensmeier E (2016) — The Carbon Farming Solution"
+  - "Toensmeier E (2016) — The [[biointensive-carbon-farming]] Solution"
   - "Jacke & Toensmeier (2005) — Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests, Vol 1 & 2"
   - "USDA NRCS — Soil Health and Ecological Principles"
   - "Shepherd J (2015) — Restoration Agriculture"
@@ -21,7 +21,7 @@ type: query
 
 **Ecological succession** is the natural process by which ecosystems change and develop over time — from [[query-can-fungi-break-down-plastic-pollution]] rock into soil, followed by increasingly demanding plants over centuries or millennia.
 
-**Secondary succession** starts where an existing ecosystem has been disturbed but soil and some organisms remain — abandoned farmland, logged forests, burned prairies, flood-scoured riverbanks. This is the type most relevant to farmers, as it proceeds much faster (years to decades) because soil, seed banks, and microbial communities are already present.
+**[[comparison-primary-vs-secondary-succession]]** starts where an existing ecosystem has been disturbed but soil and some organisms remain — abandoned farmland, logged forests, burned prairies, flood-scoured riverbanks. This is the type most relevant to farmers, as it proceeds much faster (years to decades) because soil, seed banks, and [[cannabis-rhizosphere-microbial-communities]] are already present.
 
 ### The Stages of Secondary Succession
 
@@ -49,7 +49,7 @@ At each stage, the current occupants modify the environment in ways that make it
 
 **Soil building**: Pioneer plants have shallow, fibrous root systems that add [[mycorrhizal-networks-and-forest-communication]].
 
-**Nutrient dynamics**: Early successional soils are typically high in available nitrogen (disturbance releases it) and low in organic matter. As succession progresses, more nitrogen gets locked up in living biomass and soil organic matter, and the system becomes more nitrogen-efficient.
+**[[mycelial-network-nutrient-dynamics]]**: Early successional soils are typically high in [[plant-available-nitrogen-ammonium-nitrate]] (disturbance releases it) and low in organic matter. As succession progresses, more nitrogen gets locked up in living biomass and [[humus-and-soil-organic-matter]], and the system becomes more nitrogen-efficient.
 
 **Competition**: Each stage creates conditions that favor the next — taller plants outcompete shorter ones for light, deeper-rooted plants outcompete shallow ones for water and nutrients, and plants that tolerate lower [[biological-nitrogen-fixation-agriculture]] shrubs (autumn olive, seaberry, Siberian pea shrub) that bridge the gap.
 5. **Uniform management**: Treating an entire farm the same eliminates the successional mosaic that creates resilience and biodiversity.

@@ -24,7 +24,7 @@ duration of action.
 ## Toxicological Implications
 
 Conjugation is a major defense against electrophilic stress. Glutathione depletion, impaired GST activity, or excessive formation
-of reactive intermediates can tip cells toward protein adducts, mitochondrial dysfunction, and cell death.
+of reactive intermediates can tip cells toward protein adducts, mitochondrial dysfunction, and [[blesching-cannabis-apoptosis-and-cancer-cell-death]].
 
 Environmental toxicants such as aromatic amines, phenols, quinones, and halogenated compounds may be detoxified or activated by
 Phase II pathways. Species differences are important in toxicology because laboratory animals and humans may use different
@@ -35,8 +35,8 @@ to drugs, pollutants, smoke constituents, or occupational chemicals. Interpretat
 saturation, and background endogenous sources.
 
 ## References and Further Reading
-This page was researched from public summaries of drug metabolism, glucuronidation, sulfation, and glutathione S-transferases,
-including descriptions of Phase II conjugation, enzyme families, tissue distribution, and pharmacological consequences.
+This page was researched from public summaries of [[cytochrome-p450-enzymes-drug-metabolism]], glucuronidation, sulfation, and glutathione S-transferases,
+including descriptions of Phase II conjugation, enzyme families, [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]], and pharmacological consequences.
 
 Further reading includes Goodman and Gilman's pharmacology chapters on drug metabolism, Casarett and Doull toxicology chapters on
 biotransformation, and review literature on UGT, SULT, GST, NAT, and transporter interactions.

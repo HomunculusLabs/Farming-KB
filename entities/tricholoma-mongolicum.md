@@ -15,9 +15,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ## Taxonomy and Classification
 
 - **Kingdom:** Fungi
-- **Division:** Basidiomycota
+- **Division:** [[basidiomycota]]
 - **Class:** Agaricomycetes
-- **Order:** Agaricales
+- **Order:** [[agaricales]]
 - **Family:** Tricholomataceae
 - **Genus:** Tricholoma
 - **Species:** T. mongolicum

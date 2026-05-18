@@ -9,7 +9,7 @@ categories: [people, science, medicine, literature]
 
 ## Description
 
-Lewis Thomas (1913–1993) was an American physician, poet, etymologist, essayist, administrator, novelist, public speaker, and researcher renowned for his lyrical scientific writing. He is cited by Bill Mollison in *[[permaculture]]: A Designers' Manual* (1988) for the observation that "the bacteria... live by collaboration, accommodation, exchange, and barter" — a quotation used to support permaculture's foundational Principle of Cooperation, which holds that cooperation rather than competition is the basis of existing life systems and future survival.
+Lewis Thomas (1913–1993) was an American physician, poet, etymologist, essayist, administrator, novelist, public speaker, and researcher renowned for his lyrical scientific writing. He is cited by [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] in *[[permaculture]]: A Designers' Manual* (1988) for the observation that "the bacteria... live by collaboration, accommodation, exchange, and barter" — a quotation used to support permaculture's foundational Principle of Cooperation, which holds that cooperation rather than competition is the basis of existing life systems and future survival.
 
 ## Classification
 
@@ -44,17 +44,17 @@ This appears in the context of Mollison arguing that:
 ## The Lives of a Cell (1974)
 
 The cited work, *The Lives of a Cell: Notes of a Biology Watcher*, is a landmark collection of essays that:
-- Proposes viewing the Earth as a single cell-like organism, anticipating aspects of the Gaia hypothesis
-- Explores the cooperative behavior of microorganisms, including bacterial communication and symbiotic relationships
+- Proposes viewing the Earth as a single cell-like organism, anticipating aspects of the [[gaia-hypothesis-and-open-systems-in-permaculture]]
+- Explores the cooperative behavior of microorganisms, including bacterial communication and [[fungi-in-the-environment-symbiotic-relationships]]
 - Argues that collaboration and exchange are more fundamental to biology than competition
 - Examines the organizational principles of biological communities from organelles to ecosystems
 - Won the National Book Award for Arts and Letters and became one of the most widely read science books of the 20th century
 
 ## Influence on Permaculture
 
-Thomas's perspective on biological cooperation directly influenced permaculture philosophy by:
-- Providing scientific authority for the cooperative model of natural systems
-- Supporting the design principle that polycultures and guilds (cooperative plant communities) are more productive and stable than monocultures
+Thomas's perspective on biological cooperation directly influenced [[permaculture-philosophy-and-ethics]] by:
+- Providing scientific authority for the [[emilia-romagna-cooperative-model]] of natural systems
+- Supporting the [[design-principle-integration]] that polycultures and guilds (cooperative plant communities) are more productive and stable than monocultures
 - Reinforcing the idea that beneficial interactions between different species should be the basis of agricultural design
 - Offering an alternative to the competitive, Darwinian framework that had been misapplied to justify industrial agriculture's domination of natural systems
 

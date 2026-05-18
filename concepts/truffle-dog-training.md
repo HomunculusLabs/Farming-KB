@@ -12,7 +12,7 @@ Truffle dogs are specially trained to locate underground truffles by scent, repl
 
 ## Historical Context
 
-The use of animals to find truffles dates back to Roman times, when pigs were the primary truffle-hunting animals. Female pigs are naturally attracted to truffle aroma because it contains androstenol, a steroid compound found in boar saliva. While highly effective at finding truffles, pigs presented significant problems: they eagerly consumed the truffles they found, were difficult to transport to hunting grounds, and could damage the soil and [[bloomfield-truffle-hunting-and-culinary-fungi]] is illegal in several European countries and is considered an outdated practice.
+The use of animals to find truffles dates back to [[mushrooms-in-roman-times-and-food-value]], when pigs were the primary truffle-hunting animals. Female pigs are naturally attracted to truffle aroma because it contains androstenol, a steroid compound found in boar saliva. While highly effective at finding truffles, pigs presented significant problems: they eagerly consumed the truffles they found, were difficult to transport to hunting grounds, and could damage the soil and [[bloomfield-truffle-hunting-and-culinary-fungi]] is illegal in several European countries and is considered an outdated practice.
 
 ## Why Dogs Are Preferred
 
@@ -41,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -7,14 +7,14 @@ tags:
   - plants
   - herbal
   - medicinal
-  - permaculture
+  - [[permaculture]]
   - asteraceae
   - insect-repellent
-  - companion-planting
+  - [[companion-planting]]
 sources:
-  - "Foster, S. & Duke, J.A. (1990). A ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin."
+  - "Foster, S. & Duke, J.A. (1990). A [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin."
   - "Mabey, R. (1996). Flora Britannica. Sinclair-Stevenson."
-  - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing, 2nd ed. CRC Press."
+  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]], 2nd ed. CRC Press."
   - "Stoilov, I. et al. (2005). \"Traditional medicinal plants of Bulgaria.\" Fitoterapia, 76(3–4), 273–281."
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:186896-1"
 ---
@@ -24,8 +24,8 @@ sources:
 ## Overview
 
 *Tanacetum vulgare*, commonly known as tansy, is a perennial herbaceous plant in the aster family (Asteraceae), native to temperate Europe and Asia. It is recognized for its strong aromatic foliage, bright yellow button-shaped flower heads, and its long history of use in traditional European medicine, [[artemisia-absinthium]] — Wormwood, another thujone-containing medicinal plant
-- achillea-millefolium — Yarrow, a companion [[ecological-roles-fungi-ecosystems]]
-- [[thujone]] — The primary bioactive compound in tansy
+- [[achillea-millefolium]] — Yarrow, a companion [[ecological-roles-fungi-ecosystems]]
+- [[thujone]] — The primary [[ganoderma-lucidum-triterpenoids-and-bioactive-compound-pharmacology]] in tansy
 - tagetes-erecta-entity — Marigold, another insect-repellent companion plant in agriculture
 ## Practical Applications
 

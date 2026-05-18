@@ -11,7 +11,7 @@ tags: [chemical, semiconductor, iii-v-semiconductor, optoelectronics, compound-s
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/semiconductor-band-structure.md
+  - /Users/t3rpz/wiki/concepts/[[semiconductor-band-structure]].md
   - https://en.wikipedia.org/wiki/Gallium_arsenide
   - https://en.wikipedia.org/api/rest_v1/page/summary/Gallium_arsenide
 ---
@@ -56,7 +56,7 @@ Semi-insulating substrates became a practical foundation for GaAs RF integrated 
 They reduce parasitic conduction through the wafer beneath transistors and interconnects.
 
 ## Device Uses
-GaAs appears in microwave frequency integrated circuits.
+GaAs appears in [[microwave-frequency-2450-mhz-water-dipole-coupling-sterilization]] integrated circuits.
 It is used in monolithic microwave integrated circuits, often abbreviated MMICs.
 It supports MESFET, HEMT, JFET, HBT, and related high-frequency device families.
 High-electron-mobility transistors exploit heterostructures such as AlGaAs/GaAs.

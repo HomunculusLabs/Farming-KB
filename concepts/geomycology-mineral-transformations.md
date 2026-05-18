@@ -1,9 +1,9 @@
 ---
-title: "Geomycology Mineral Transformations"
+title: "Geomycology [[fungal-biogeochemical-mineral-transformations]]"
 aliases:
   - geomycology
   - fungal biogeochemistry
-  - mineral weathering by fungi
+  - [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]] by fungi
   - fungal biomineralization
 tags:
   - mycology
@@ -17,7 +17,7 @@ created: 2026-05-11
 
 # Geomycology and Mineral Transformations
 
-Geomycology is the study of fungal interactions with minerals and geological
+Geomycology is the study of [[fungal-interactions-with-humans]] minerals and geological
 substrates — encompassing the roles fungi play in mineral weathering,
 biomineralization, element solubilization and immobilization, and the
 transformation of [[bloomfield-turgor-pressure-and-hyphal-invasion]] hyphal tip extension can wedge apart mineral
@@ -25,14 +25,14 @@ grains and expand fractures, increasing surface area for chemical
 attack.
 
 ### Extracellular Enzymatic Action
-Fungi produce [[fungal-oxalate-secretion-and-mineral-dissolution]] leads to precipitation of calcium oxalate
+Fungi produce [[fungal-oxalate-secretion-and-mineral-dissolution]] leads to precipitation of [[fungal-calcium-oxalate-and-carbonate-precipitation]]
 crystals (whewellite and weddellite) in and around mycelium. These
 crystals can persist long after the fungus dies, contributing to soil
 calcium pools and affecting soil structure. Calcium oxalate accounts
 for significant carbon sequestration in some soils.
 
 ### Carbonate Precipitation
-Some fungi induce calcium carbonate precipitation through metabolic
+Some fungi induce [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] precipitation through metabolic
 processes that raise local pH or concentrate calcium ions. This process
 contributes to the formation of calcareous soil horizons, cave
 speleothems, and cemented soil layers (calciche).
@@ -84,7 +84,7 @@ Geomycological processes are fundamental to soil development, nutrient
 cycling, and ecosystem functioning:
 - Soil formation from rock: Fungi are primary agents of biological
   weathering that converts rock into soil over geological time scales
-- Nutrient availability: Mineral transformations control the release of
+- [[chelation-and-nutrient-availability]]: Mineral transformations control the release of
   plant-essential elements from insoluble forms
 - Carbon sequestration: Fungal biomineralization contributes to long-term
   carbon storage through oxalate and carbonate precipitation

@@ -13,9 +13,9 @@ Soil oxygen is a critical and often overlooked requirement for plant growth. Pla
 ## Classification
 
 - **Category:** Soil atmosphere / root physiology
-- **Type:** Biological requirement (aerobic respiration)
+- **Type:** [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]] (aerobic respiration)
 - **Importance:** Essential — root death occurs without adequate oxygen
-- **Often overlooked:** Rarely discussed in gardening literature compared to nutrients and water
+- **Often overlooked:** Rarely discussed in [[historical-intensive-gardening-literature]] compared to nutrients and water
 
 ## Key Facts
 
@@ -42,7 +42,7 @@ Roots never produce oxygen. They always consume it.
 
 - **Mycelial respiration:** Fungal mycelium requires oxygen for aerobic respiration exactly like plant roots
 - **Substrate aeration:** [[mushroom-substrates]] must maintain air spaces for mycelial respiration; over-wet substrate is the number one cause of cultivation failure
-- **Compost aeration:** Composting requires oxygen for aerobic decomposition; anaerobic conditions produce toxic compounds
+- **Compost aeration:** Composting requires oxygen for aerobic decomposition; [[aact-ph-and-anaerobic-conditions]] produce toxic compounds
 - **Casing layer:** Must be porous enough to allow gas exchange while retaining moisture
 - **Spawn run management:** Bag culture requires filter patches to maintain oxygen supply during spawn run
 - **Drainage design:** Outdoor mushroom beds and indoor containers must have drainage to prevent waterlogging
@@ -55,8 +55,8 @@ Roots never produce oxygen. They always consume it.
 
 ## Soil Health Context
 Understanding soil structure and management is essential for
-sustainable agriculture. Healthy soil provides the foundation
-for plant growth, water retention, and nutrient cycling.
+[[mushroom-cultivation-for-sustainable-agriculture]]. Healthy soil provides the foundation
+for plant growth, water retention, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Proper soil management practices improve long-term productivity
 and reduce the need for external inputs.
 
@@ -78,5 +78,5 @@ in well-managed soil systems.
 Timing of soil management activities affects outcomes significantly.
 Spring and fall offer different conditions for soil work. Soil
 moisture levels must be appropriate for any tillage or amendment
-operations. Plan activities around weather patterns and crop
+operations. Plan activities around [[global-weather-patterns-and-atmospheric-engines]] crop
 rotations for best results.

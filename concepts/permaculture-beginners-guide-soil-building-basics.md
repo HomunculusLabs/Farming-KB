@@ -14,7 +14,7 @@ sources: ["raw/papers/permaculture-beginners-guide.md"]
 **Consequences observed:**
 - Soil erosion at accelerating rates
 - Compacted soils that cannot support healthy root growth
-- Nitrate poisoning of watercourses from synthetic fertilizer runoff
+- Nitrate poisoning of watercourses from [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] runoff
 - Diminishing long-term stability of fertile land
 
 The key insight: industrialized agriculture with high inputs of machinery and fossil fuels is diminishing, not increasing, the long-term stability of fertile land.
@@ -43,7 +43,7 @@ Applied to soil fertility:
 
 ## Broadscale Soil Strategies (Zones 3 and 4)
 
-Burnett addresses soil building at the landscape scale through broadscale permaculture techniques. UK farmland is categorized into three types, each requiring different soil strategies:
+Burnett addresses soil building at the landscape scale through broadscale [[urban-permaculture-techniques]]. UK farmland is categorized into three types, each requiring different soil strategies:
 
 **Rough grazing (one-third of farmland):**
 - Moorland and marginal land
@@ -52,11 +52,11 @@ Burnett addresses soil building at the landscape scale through broadscale permac
 
 **Permanent pasture (one-third of farmland):**
 - Hilly areas, water meadows, steep gradients, thin soils
-- Permaculture approach: integrate trees into pasture (silvopasture), manage grazing patterns to build soil organic matter
+- Permaculture approach: integrate trees into pasture (silvopasture), manage grazing patterns to build [[humus-and-soil-organic-matter]]
 
 **Arable land (one-third of farmland):**
 - Land considered suitable for conventional crop production
-- Permaculture approach: reduce tillage, introduce diverse rotations, integrate perennial crops, use green manures
+- Permaculture approach: reduce tillage, introduce diverse rotations, integrate [[perennial-vegetables-and-edible-perennial-crops]], use green manures
 
 ## Soil as Part of the Four Spheres
 
@@ -67,13 +67,13 @@ Burnett's opening ecological framework positions soil within the four interactin
 - Healthy soil depends on the health of all four spheres
 - Disturbing one sphere affects soil health through the others
 
-This systems view means soil building cannot be isolated from air quality, [[water-management]], and biological diversity.
+This systems view means soil building cannot be isolated from air quality, [[water-management]], and [[fungi-convention-on-biological-diversity]].
 
 ## Design Principles Applied to Soil
 
 Several of the guide's [[permaculture-principles]] directly support soil health:
 
-- **Every function supported by many elements:** Diverse plantings (polycultures) provide multiple pathways for nutrient cycling and soil protection, unlike monocultures where soil is exposed between harvests
+- **Every function supported by many elements:** Diverse plantings (polycultures) provide multiple pathways for [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] soil protection, unlike monocultures where soil is exposed between harvests
 
 - **Every element serves many functions:** Deep-rooted plants break up compacted soil, mine minerals from deep layers, add organic matter when they die back, and provide crop yields simultaneously
 

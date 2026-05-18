@@ -1,5 +1,5 @@
 ---
-title: emcdda-psilocybin-mushroom-dose-and-effects Evolution
+title: [[emcdda-psilocybin-mushroom-dose-and-effects]] Evolution
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -13,9 +13,9 @@ The evolutionary questions surrounding the production of psilocybin across unrel
 
 ## The Evolutionary Puzzle
 
-The presence of psilocybin in at least 12 genera across 7 families of gilled mushrooms represents one of the most intriguing puzzles in mycology.
+The presence of psilocybin in at least 12 genera across 7 families of gilled mushrooms represents one of the most intriguing puzzles in [[mycology]].
 
-Psilocybin has been found in families as diverse as Bolbitiaceae (Conocybe, Panaeolus), Cortinariaceae (Gymnopilus, Inocybe), Pluteaceae (Pluteus), Coprinaceae (Copelandia), Strophariaceae (Psilocybe, Hypholoma), and others.
+Psilocybin has been found in families as diverse as Bolbitiaceae (Conocybe, Panaeolus), Cortinariaceae (Gymnopilus, Inocybe), Pluteaceae (Pluteus), Coprinaceae (Copelandia), [[strophariaceae]] (Psilocybe, Hypholoma), and others.
 
 These genera are not closely related to each other, which challenges simple evolutionary explanations.
 
@@ -29,9 +29,9 @@ This view holds that the compound serves no adaptive purpose and its presence in
 
 The survival compound hypothesis proposes that psilocybin is actively produced because it confers some fitness advantage.
 
-Some researchers suggest psilocybin is actively spreading throughout the order Agaricales.
+Some researchers suggest psilocybin is actively spreading throughout the order [[agaricales]].
 
-Stamets noted that so many species producing this unique tryptamine suggests a common biological role.
+Stamets noted that so many species producing this unique [[tryptamine]] suggests a common biological role.
 
 ## The Biosynthetic Pathway
 

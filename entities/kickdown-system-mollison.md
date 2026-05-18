@@ -7,11 +7,11 @@ tags: [permaculture, soil-building, chicken-management, mulch-system, terracing]
 
 ## Description
 
-The kickdown system is a permaculture technique for managing chickens on sloped terrain to produce and distribute mulch for terraced gardens. Chickens are housed at the top of a slope above a series of garden terraces. As they scratch and forage, they kick mulch material downhill where it accumulates against a fence at the bottom. This collected mulch is then used to enrich the garden terraces. The system leverages the natural behavior of chickens to convert chicken forage and organic material into rich, garden-ready compost distributed by gravity.
+The kickdown system is a permaculture technique for managing chickens on sloped terrain to produce and distribute mulch for terraced gardens. Chickens are housed at the top of a slope above a series of garden terraces. As they scratch and forage, they kick mulch material downhill where it accumulates against a fence at the bottom. This collected mulch is then used to enrich the garden terraces. The system leverages the natural behavior of chickens to convert [[chicken-forage-system-mollison]] and organic material into rich, garden-ready compost distributed by gravity.
 
 ## Classification
 
-- **Category**: Animal integration / Soil building
+- **Category**: [[mollison-animal-integration-permaculture-design]] / Soil building
 - **Type**: Gravity-fed mulch production system
 - **Components**: Chicken house, slope, terraces, collection fence, chicken forage trees
 - **Labor requirement**: Minimal — chickens do the work
@@ -62,16 +62,16 @@ Mollison describes two chicken management options for terraced slopes:
 - **Soil building**: Converts raw organic material and chicken manure into rich garden-ready compost.
 - **Terrace maintenance**: Provides ongoing fertility input for terraced growing systems on difficult slopes.
 - **Reduced labor**: Eliminates the need to carry mulch uphill or across the garden.
-- **Animal integration**: Demonstrates the permaculture principle of stacking functions — chickens produce food, pest control, fertilizer, and mulch simultaneously.
+- **Animal integration**: Demonstrates the [[permaculture-principle-1-observe-interact]] of [[gaias-garden-stacking-functions]] — chickens produce food, pest control, fertilizer, and mulch simultaneously.
 - **Slope utilization**: Makes productive use of steep land that would otherwise be difficult to farm.
 
 ## Design Principles
 
-The kickdown system exemplifies several permaculture principles:
+The kickdown system exemplifies several [[mollisonian-permaculture-principles]]:
 - **Work with nature, not against it**: Use the chickens' natural scratching behavior rather than fighting it.
 - **Each element serves multiple functions**: Chickens produce eggs, pest control, fertilizer, and distributed mulch.
 - **Use gravity as a resource**: The slope that makes the land challenging becomes the mechanism that distributes the mulch.
-- **Produce no waste**: All organic material is captured and redirected to productive use.
+- **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]**: All organic material is captured and redirected to productive use.
 
 ## Cross-References
 

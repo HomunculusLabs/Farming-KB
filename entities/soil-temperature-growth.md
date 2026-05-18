@@ -46,9 +46,9 @@ type: entity
 - **Mycelial growth rate:** Fungal mycelium follows similar temperature-growth curves; each species has an optimal temperature range
 - **Spawn running:** [[mushroom-spawn]] colonization is temperature-dependent; maintaining optimal temperatures dramatically reduces colonization time
 - **Fruiting temperature:** Different mushroom species require different temperature triggers for fruiting
-- **Compost thermophily:** Composting follows the same temperature-biology relationship; thermophilic organisms dominate as temperatures rise
-- **Cold-strain mushrooms:** Some species ([[pleurotus-ostreatus]], Flammulina velutipes) fruit specifically in cold conditions
-- **Incubation management:** Warmer temperatures accelerate growth but increase contamination risk
+- **Compost thermophily:** Composting follows the same temperature-biology relationship; [[thermophilic-organisms]] dominate as temperatures rise
+- **Cold-strain mushrooms:** Some species ([[pleurotus-ostreatus]], [[enoki-mushroom-flammulina-velutipes]]) fruit specifically in cold conditions
+- **[[mushroom-training-incubation-management]]:** Warmer temperatures accelerate growth but increase contamination risk
 
 ## See Also
 
@@ -57,8 +57,8 @@ type: entity
 
 ## Soil Health Context
 Understanding soil structure and management is essential for
-sustainable agriculture. Healthy soil provides the foundation
-for plant growth, water retention, and nutrient cycling.
+[[mushroom-cultivation-for-sustainable-agriculture]]. Healthy soil provides the foundation
+for plant growth, water retention, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Proper soil management practices improve long-term productivity
 and reduce the need for external inputs.
 
@@ -80,5 +80,5 @@ in well-managed soil systems.
 Timing of soil management activities affects outcomes significantly.
 Spring and fall offer different conditions for soil work. Soil
 moisture levels must be appropriate for any tillage or amendment
-operations. Plan activities around weather patterns and crop
+operations. Plan activities around [[global-weather-patterns-and-atmospheric-engines]] crop
 rotations for best results.

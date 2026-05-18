@@ -1,5 +1,5 @@
 ---
-title: Permaculture Mapping and Reading the Landscape
+title: [[permaculture-mapping-and-base-maps]] Reading the Landscape
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 
 ## Overview
 
-[[reading-the-landscape]] is the first and most essential skill in permaculture design. Before any design work begins, the designer must learn to observe and interpret the patterns, processes, and history written on the land. Mapping translates these observations into a usable design base.
+[[reading-the-landscape]] is the first and most essential skill [[ecological-succession-in-permaculture-design]]. Before any design work begins, the designer must learn to observe and interpret the patterns, processes, and history written on the land. Mapping translates these observations into a usable design base.
 
 ## Reading the Landscape
 
@@ -24,7 +24,7 @@ The landscape itself tells the story of its history and current health:
 - **Vegetation types** indicate soil conditions, moisture levels, and microclimates
 - **Soil color** reveals organic matter content, drainage, and mineral composition
 - **Rock outcrops and stone placement** indicate geological history
-- **Animal trails and tracks** show movement patterns and wildlife corridors
+- **Animal trails and tracks** show movement patterns and [[permaculture-designers-manual-wildlife-corridors]]
 
 ### Slope and Aspect
 
@@ -39,7 +39,7 @@ Slope determines water movement, erosion potential, frost drainage, and access. 
 ### Contour Reading
 
 Contour lines connect points of equal elevation. Understanding contour is essential for:
-- Placing swales and water harvesting earthworks on contour
+- Placing swales and [[mollison-designers-swale-design-and-water-harvesting-earthworks]] on contour
 - Designing access roads to follow contours (minimizing grade)
 - Understanding water flow and accumulation patterns
 - Planning terraces and garden beds on level ground
@@ -49,7 +49,7 @@ Contour lines connect points of equal elevation. Understanding contour is essent
 ### Base Maps
 
 A base map records the existing conditions of a site. It should include:
-- Property boundaries
+- [[holzer-high-beds-property-boundaries]]
 - Topographic contours
 - Existing structures (buildings, fences, roads)
 - Water features (streams, springs, wetlands, existing ponds)
@@ -72,7 +72,7 @@ Sector maps overlay information about external energies and influences:
 Multiple transparent overlays can be used to analyze different factors:
 - Water flow and catchment
 - Microclimates (frost pockets, heat zones)
-- Access and circulation
+- [[permaculture-access-and-circulation-design]]
 - Zone planning (Zone 0-5 placement)
 - Soil types and conditions
 

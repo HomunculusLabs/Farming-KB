@@ -17,7 +17,7 @@ Ribosomes are bead-shaped organelles that serve as the sites of protein synthesi
 - **Type**: Ribonucleoprotein complex
 - **Size**: 25–30 nanometers
 - **Discovery**: 1953
-- **Location**: Free-floating in cytosol, or attached to rough endoplasmic reticulum
+- **Location**: Free-floating in cytosol, or attached to rough [[endoplasmic-reticulum]]
 
 ## Structure
 
@@ -55,7 +55,7 @@ The ribosome operates like a highly precise knitting machine:
 
 - There are 20 different amino acids that serve as the building blocks of proteins
 - The specific combination and order of amino acids determines the characteristics of each protein
-- A ribosome can produce various kinds of proteins depending on the chemical signals it receives
+- A ribosome can produce various kinds of proteins depending on the [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] it receives
 - Protein synthesis consumes much of the energy produced by the cell
 - Ribosomes were not discovered until 1953 due to their extremely small size
 - Most plant cells contain about 1,000 ribosomes, though some have thousands more
@@ -71,15 +71,15 @@ The ribosome operates like a highly precise knitting machine:
 ## Relevance to Cultivation and Mycology
 
 - Protein synthesis is fundamental to all plant growth processes — without functional ribosomes, no new proteins can be made, halting growth entirely
-- Nutrient deficiencies that impair ribosome function (particularly nitrogen and phosphorus) directly reduce plant vigor and yield
-- In mycology, ribosomes in fungal cells produce the enzymes that decompose organic matter — these extracellular enzymes are essential for nutrient cycling in soil
+- [[hamilton-nutrient-deficiencies-and-treatment]] that impair ribosome function (particularly nitrogen and phosphorus) directly reduce plant vigor and yield
+- In mycology, ribosomes in fungal cells produce the enzymes that decompose organic matter — these [[fungal-extracellular-enzymes]] are essential for [[nutrient-cycling-in-soil]] soil
 - Antibiotics like cycloheximide target ribosomes, which is why they can inhibit fungal growth
 - Understanding ribosome activity helps explain why well-fed plants with adequate nitrogen produce more proteins for growth, defense, and reproduction
 - The balance between free and bound ribosomes shifts depending on the plant's developmental stage and environmental conditions
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
 
 ## See Also
 

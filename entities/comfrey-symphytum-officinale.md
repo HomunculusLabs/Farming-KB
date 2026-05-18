@@ -1,8 +1,8 @@
 ---
-title: Comfrey Symphytum Officinale
+title: [[comfrey]] Symphytum Officinale
 type: species
 tags:
-  - permaculture
+  - [[permaculture]]
   - dynamic-accumulator
   - medicinal-herb
   - compost-activator
@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Hill, R. (2002). "Permaculture Plants: Comfrey." Permaculture Activist.
   - Cockfield, J. (1998). "The Comfrey Report: A Handbook for Growers." Good Life Press.
-  - Joy, J. (2011). "Comfrey: Past, Present and Future." comparison-dynamic-accumulators-vs-cover-crops in permaculture systems." Agroecology and Sustainable Food Systems.
+  - Joy, J. (2011). "Comfrey: Past, Present and Future." [[comparison-dynamic-accumulators-vs-cover-crops]] in permaculture systems." [[agroecology]] and Sustainable Food Systems.
 ---
 
 # Comfrey (Symphytum officinale)
@@ -23,7 +23,7 @@ sources:
 
 Comfrey is a perennial herbaceous plant in the Boraginaceae family that has earned legendary status in both traditional [[guzman-psilocybin-mushrooms-north-america]] and other [[dynamic-accumulators]]** in the permaculture toolkit, mining minerals from deep subsoil layers and bringing them to the surface through its leaves.
 
-In permaculture, comfrey is valued as a nutrient-mining biomass factory, a compost activator, a mulch crop, a livestock fodder, and a companion plant. In herbal medicine, it has been used for millennia for wound healing, bone repair, and [[cannabis-for-skin-conditions-detailed]]—though internal use is now controversial due to the presence of hepatotoxic pyrrolizidine alkaloids (PAs). The distinction between wild *[[symphytum-officinale]]* and cultivated hybrids (particularly the 'Bocking' cultivars) is important for both safety and horticultural purposes.
+In permaculture, comfrey is valued as a nutrient-mining biomass factory, a compost activator, a mulch crop, a livestock fodder, and a companion plant. In [[childrens-herbal-medicine]], it has been used for millennia for wound healing, bone repair, and [[cannabis-for-skin-conditions-detailed]]—though internal use is now controversial due to the presence of hepatotoxic pyrrolizidine alkaloids (PAs). The distinction between wild *[[symphytum-officinale]]* and cultivated hybrids (particularly the 'Bocking' cultivars) is important for both safety and horticultural purposes.
 
 ## Taxonomy
 
@@ -63,7 +63,7 @@ The defining feature is its extraordinary root system:
 
 ## Dynamic Accumulation
 
-Comfrey's role as a **dynamic accumulator** is its most valued permaculture function. The deep taproot mines minerals from subsoil and deposits them in above-ground biomass, which can then be harvested and redistributed through mulch, compost, or liquid feed.
+Comfrey's role as a **[[comparison-hyperaccumulator-vs-dynamic-accumulator]]** is its most valued permaculture function. The deep taproot mines minerals from subsoil and deposits them in above-ground biomass, which can then be harvested and redistributed through mulch, compost, or liquid feed.
 
 ### Mineral Content of Dried Leaves
 

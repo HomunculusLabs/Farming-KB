@@ -1,5 +1,5 @@
 ---
-title: Food Drying and growing-gourmet-mushroom-dehydration-methods-equipment
+title: Food Drying and [[growing-gourmet-mushroom-dehydration-methods-equipment]]
 created: 2026-04-28
 tags: [food-preservation, dehydration, drying, solar-drying, self-sufficiency]
 date: 2026-04-25

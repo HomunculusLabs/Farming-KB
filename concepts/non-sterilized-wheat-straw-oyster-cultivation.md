@@ -1,6 +1,6 @@
 ---
-title: Non-Sterilized Wheat Straw Oyster accessible-mushroom-cultivation-for-disabilities
-tags: [oyster-mushroom, wheat-straw, substrate, pasteurization, lime, low-cost, cultivation, pleurotus]
+title: Non-Sterilized Wheat Straw Oyster [[accessible-mushroom-cultivation-for-disabilities]]
+tags: [oyster-mushroom, wheat-straw, substrate, pasteurization, lime, low-cost, cultivation, [[pleurotus]]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -11,7 +11,7 @@ type: concept
 
 # Non-Sterilized Wheat Straw Oyster Mushroom Cultivation
 
-Traditional mushroom-spawn evenly across the substrate surface. Finally, spread yellow pulse powder uniformly over the spawned substrate as a nitrogen supplement.
+Traditional [[mushroom-spawn]] evenly across the substrate surface. Finally, spread yellow pulse powder uniformly over the spawned substrate as a nitrogen supplement.
 
 ### Step 6: Sealing
 
@@ -19,11 +19,11 @@ Cover all shelves tightly with a polythene sheet, ensuring no air can enter. Thi
 
 ### Step 7: Mycelial Colonization
 
-After 7 to 8 days, mycelium begins growing and spreading across the shelf surface. During [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] provides the most favorable environmental conditions for colonization.
+After 7 to 8 days, [[mycelium]] begins growing and spreading across the shelf surface. During [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] provides the most favorable environmental conditions for colonization.
 
 ### Step 8: Full Colonization
 
-Approximately 50 days after spawning, the entire shelf will be colonized with white mycelial growth. The original wheat straw mixture will no longer be visible. At this point, remove the polythene sheet to induce [[oyster-mushroom-pasteurized-straw-cultivation]] substrate methods, cold water lime pasteurization, and [[low-cost-mushroom-growing-house-construction-developing-countries]] cultivation approaches developed for resource-limited growers.
+Approximately 50 days after spawning, the entire shelf will be colonized with white [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. The original wheat straw mixture will no longer be visible. At this point, remove the polythene sheet to induce [[oyster-mushroom-pasteurized-straw-cultivation]] substrate methods, cold water lime pasteurization, and [[low-cost-mushroom-growing-house-construction-developing-countries]] cultivation approaches developed for resource-limited growers.
 
 ## See Also
 
@@ -45,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

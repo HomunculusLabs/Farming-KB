@@ -9,12 +9,12 @@ tags: [molecule, macromolecule, dna, rna, genetics, nucleotide, plant-cell]
 
 ## Description
 
-Nucleic acids — DNA (deoxyribonucleic acid) and RNA (ribonucleic acid) — are the special molecules that hold the genetic code, the instructions used to build cells and everything in them. Together with carbohydrates, lipids, and proteins, nucleic acids are one of the four fundamental groups of molecules that constitute all living organisms. Among their most critical roles is the duplication of proteins, which despite their immense numbers and importance cannot duplicate themselves.
+Nucleic acids — DNA (deoxyribonucleic acid) and RNA (ribonucleic acid) — are the special molecules that hold the genetic code, the instructions used to build cells and everything in them. Together with carbohydrates, lipids, and proteins, nucleic acids are one of the four fundamental groups of molecules that constitute all [[savory-living-organisms-as-tools]]. Among their most critical roles is the duplication of proteins, which despite their immense numbers and importance cannot duplicate themselves.
 
 ## Classification
 
 - **Type**: Macromolecule / biomolecule
-- **Category**: One of the four molecules of life
+- **Category**: One of the four [[molecules-of-life-in-plants]]
 - **Composition**: Carbon (C), Hydrogen (H), Oxygen (O), Phosphorus (P), Nitrogen (N)
 - **Forms**: DNA and RNA
 
@@ -56,7 +56,7 @@ RNA exists in several functional forms that carry out different roles in protein
 - Copies the genetic instructions from DNA in the nucleus
 - Carries these instructions through nuclear pores to ribosomes in the cytoplasm
 - The ribosome reads the mRNA sequence to determine the order of amino acids in a protein
-- A well-fed plant has abundant tRNA relative to mRNA, ensuring smooth protein production
+- A well-fed plant has abundant tRNA relative to mRNA, ensuring smooth [[fungal-single-cell-protein-production]]
 
 ### Transfer RNA (tRNA)
 
@@ -81,13 +81,13 @@ RNA exists in several functional forms that carry out different roles in protein
 
 ## Relevance to Cultivation and Mycology
 
-- Phosphorus is a structural component of all nucleic acids — phosphorus deficiency directly impairs DNA replication and RNA transcription, slowing growth and reproduction
+- Phosphorus is a structural component of all nucleic acids — [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] directly impairs DNA replication and RNA transcription, slowing growth and reproduction
 - Nitrogen is a major component of nucleotide bases — nitrogen deficiency reduces nucleic acid production and limits protein synthesis
 - Rapidly dividing cells (meristems, root tips) have the highest demand for nucleic acid building blocks
 - In [[mycology]], fungal DNA/RNA drives the production of digestive enzymes that break down organic substrate
 - Understanding nucleic acid metabolism helps explain why nitrogen and phosphorus are the two most critical macronutrients for plant growth
-- Genetic improvement of cultivars operates at the level of DNA — selecting or engineering favorable nucleotide sequences for desired traits
+- [[genetic-improvement-agaricus-bisporus-molecular-approaches]] of cultivars operates at the level of DNA — selecting or engineering favorable nucleotide sequences for desired traits
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 2: Some Basic Chemistry.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 2: Some Basic Chemistry.

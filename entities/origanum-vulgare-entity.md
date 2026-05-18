@@ -2,7 +2,7 @@
 title: "Origanum vulgare"
 created: 2026-04-28
 type: species
-tags: [species, plant, herbal, permaculture, culinary, medicinal, antimicrobial, aromatic]
+tags: [species, plant, herbal, [[permaculture]], culinary, medicinal, antimicrobial, aromatic]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -13,7 +13,7 @@ sources:
 Perennial aromatic herb in the Lamiaceae family, native to the
 Mediterranean basin and parts of western Asia. Oregano is one of the
 world's most important [[permaculture-designers-manual-essential-oil-plants]], which contains high
-concentrations of [[carvacrol]] and thymol. The essential oil of oregano
+concentrations of [[carvacrol]] and [[thymol]]. The essential oil of oregano
 ranks among the most antimicrobial of all plant [[fukuoka-citrus-orchard-ground-cover-cultivation]], pollinator
 attractant, and companion plant with pest-repellent properties.
 ## Taxonomy and Naming
@@ -45,7 +45,7 @@ attractant, and companion plant with pest-repellent properties.
   often reddish-tinged, densely pubescent to glandular-hairy
 - **Leaves:** Opposite, ovate to broadly ovate, 1–4 cm long, entire
   or shallowly toothed; dark green above, paler below; dotted with
-  glandular trichomes containing essential oil; strongly aromatic when
+  glandular [[trichomes]] containing essential oil; strongly aromatic when
   crushed
 - **Inflorescence:** Terminal paniculate cymes, 5–15 mm long; composed
   of whorls of small flowers
@@ -63,7 +63,7 @@ while milder chemotypes have a sweeter, more marjoram-like fragrance.
 ## Distribution and Habitat
 - **Native range:** Mediterranean basin, southern Europe, western and
   central Asia; from Portugal east to western China
-- **Naturalized:** [[psilocybin-north-america-pacific-northwest]], South America, Australia, New Zealand,
+- **Naturalized:** [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand,
   and parts of Africa; can become weedy in disturbed habitats
 - **Habitat preference:** Dry, calcareous, well-drained soils; full sun
   to partial shade; rocky hillsides, grasslands, forest margins, and
@@ -73,7 +73,7 @@ while milder chemotypes have a sweeter, more marjoram-like fragrance.
 ## Chemistry and Active Compounds
 ### Essential Oil Composition
 The essential oil (1–4% dry weight) is the primary bioactive fraction.
-Composition varies enormously by chemotype, geography, and harvest time:
+Composition varies enormously by chemotype, geography, and [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]:
 - **Carvacrol:** 0–80% of essential oil; phenolic monoterpenoid;
   primary antimicrobial compound; highest in Greek oregano (subsp.
   hirtum, 60–80%); responsible for the warm, spicy flavor

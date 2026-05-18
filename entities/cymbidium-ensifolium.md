@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Cymbidium ensifolium** (L.) Sw., known as the four-season orchid or Jian Lan (建兰) in Chinese, is an evergreen epiphytic or lithophytic orchid in the family Orchidaceae. It is one of the most culturally significant orchids in East Asia.
+**Cymbidium ensifolium** (L.) Sw., known as the four-season orchid or Jian Lan (建兰) in Chinese, is an evergreen epiphytic or lithophytic orchid in the family Orchidaceae. It is one of the most culturally significant orchids in [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 The species produces elegant arching inflorescences bearing 3–9 fragrant flowers in shades of green, yellow, or bronze-red. Its long blooming period and sweet fragrance have made it a favorite in Chinese and Japanese horticulture for over a millennium.
 

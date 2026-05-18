@@ -16,7 +16,7 @@ The bromine atom makes DOB a uniquely valuable research tool when labeled with r
 - Brain levels only build up after pulmonary accumulation
 - This strongly implies that **pulmonary metabolism is required** for central activity
 - The finding is consistent with DOB's characteristically slow onset and extremely long duration
-This lung-first distribution pattern is a significant finding in psychedelic pharmacology and may apply to other compounds in the DO series.
+This lung-first distribution pattern is a significant finding in [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]] and may apply to other compounds in the DO series.
 ## Fatal Overdose Report
 A young woman died after snorting a massive amount of DOB, believing it to be [[doi-entity]]|DOI** — iodine analogue, similar potency and duration; also valuable as radiolabeled research tool
 - **[[pihkal-qualitative-effects-themes]]
@@ -45,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

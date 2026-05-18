@@ -9,7 +9,7 @@ tags: [fungi, saprotrophic, ascomycota, drought-tolerance]
 
 ## Description
 
-**Chaetomium bostrychoides** is a saprotrophic ascomycete fungus that has been shown to enhance both seed germination and drought tolerance when used as a seed or seedling inoculant for the Nigerian pulpwood tree *[[gmelina-arborea]]*. It is notable for conferring drought protection to plants despite being a saprotroph rather than a mycorrhizal symbiont.
+**Chaetomium bostrychoides** is a saprotrophic ascomycete fungus that has been shown to enhance both seed germination and [[dighton-fungal-drought-tolerance-plant-water-relations]] when used as a seed or seedling inoculant for the Nigerian pulpwood tree *[[gmelina-arborea]]*. It is notable for conferring drought protection to plants despite being a saprotroph rather than a mycorrhizal symbiont.
 
 ## Classification
 
@@ -25,7 +25,7 @@ tags: [fungi, saprotrophic, ascomycota, drought-tolerance]
 
 - Saprotrophic fungus that colonizes organic matter and decomposes cellulose and other plant polymers
 - When used as inoculum on seeds or seedlings of Gmelina arborea, increased seed germination rates
-- Significantly increased drought tolerance in inoculated seedlings compared to uninoculated controls
+- Significantly increased drought tolerance in [[truffle-inoculated-seedlings]] compared to uninoculated controls
 - Droughted inoculated seedlings produced 9.36 g shoot dry weight vs. 5.89 g for uninoculated droughted plants
 - Root biomass of droughted inoculated seedlings was 4.47 g vs. 2.65 g for uninoculated droughted plants
 - Effective both when applied to seeds and when applied at the seedling stage
@@ -37,7 +37,7 @@ C. bostrychoides is ecologically significant because:
 
 - Demonstrates that [[saprotrophic-fungi]] can confer benefits to plants beyond nutrient cycling
 - May alter rhizosphere conditions to improve water retention or reduce water stress
-- Could produce compounds that enhance plant stress tolerance mechanisms
+- Could produce compounds that enhance [[endophyte-mediated-plant-stress-tolerance]] mechanisms
 - Contributes to understanding of non-mycorrhizal fungal-plant interactions
 - Highlights the diversity of fungal strategies for plant growth promotion
 
@@ -56,11 +56,11 @@ C. bostrychoides is ecologically significant because:
 
 ## Ecological Significance
 
-This organism plays important roles in ecosystem function and biodiversity. Understanding its ecology helps inform conservation strategies and sustainable management practices. Research continues to reveal new aspects of its environmental interactions and ecological niche.
+This organism plays important roles in ecosystem function and biodiversity. Understanding its ecology helps inform [[endangered-fungi-and-conservation-strategies]] and sustainable management practices. Research continues to reveal new aspects of its environmental interactions and ecological niche.
 
 ## Research Methods
 
-Studies of this organism employ a variety of techniques including microscopy, molecular analysis, and ecological sampling. Culture-based methods and environmental DNA sequencing have advanced our understanding of its distribution and diversity. Field observations complement laboratory studies to provide a comprehensive picture of its biology.
+Studies of this organism employ a variety of techniques including microscopy, molecular analysis, and ecological sampling. Culture-based methods and [[environmental-dna-sequencing-fungi]] have advanced our understanding of its distribution and diversity. Field observations complement laboratory studies to provide a comprehensive picture of its biology.
 
 ## Conservation Considerations
 
@@ -79,4 +79,4 @@ Comparative studies reveal both shared characteristics and unique features relat
 
 ## Additional Notes
 
-Recent research has expanded our understanding of this subject significantly. New methodologies and analytical approaches continue to reveal previously unknown aspects. The integration of traditional knowledge with modern scientific methods provides a comprehensive framework for future investigation and practical application.
+Recent research has expanded our understanding of this subject significantly. New methodologies and analytical approaches continue to reveal previously unknown aspects. The integration of [[wasted-human-resources-and-traditional-knowledge]] with modern scientific methods provides a comprehensive framework for future investigation and practical application.

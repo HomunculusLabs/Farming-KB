@@ -33,7 +33,7 @@ sources:
 - **Structure:** A piperidine ring with a propyl substituent at the 2-position. The naturally occurring (S)-enantiomer is the pharmacologically active form.
 - **Appearance:** Colorless to pale yellow oily liquid at room temperature.
 - **Odor:** Characteristic mousy or mouse-like odor (particularly when freshly distilled from plant material).
-- **Solubility:** Slightly soluble in water; freely soluble in ethanol, ether, chloroform, and fixed oils.
+- **Solubility:** Slightly soluble in water; freely soluble in [[ethanol]], ether, chloroform, and fixed oils.
 - **Boiling point:** 166–167°C at atmospheric pressure.
 
 ## Biosynthesis
@@ -46,7 +46,7 @@ Coniine is biosynthesized in *Conium maculatum* via the polyamine pathway:
 4. A second molecule of cadaverine (or a derivative) provides a C₃ unit that is incorporated via a [3+3] condensation mechanism.
 5. Subsequent reduction yields (S)-coniine.
 
-The biosynthetic pathway shares intermediates with nicotine biosynthesis in tobacco, reflecting an evolutionary relationship between the two piperidine alkaloids.
+The biosynthetic pathway shares intermediates with [[nicotine]] biosynthesis in tobacco, reflecting an evolutionary relationship between the two piperidine alkaloids.
 
 ## Occurrence
 

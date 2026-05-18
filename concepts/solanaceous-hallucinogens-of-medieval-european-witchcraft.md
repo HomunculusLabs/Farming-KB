@@ -1,5 +1,5 @@
 ---
-title: Solanaceous Hallucinogens Of Medieval European Witchcraft
+title: [[lycanthropy-solanaceous-hallucinogens]] Of Medieval [[hallucinogenic-plants-in-european-witchcraft]]
 created: 2026-04-28
 tags: [ethnobotany, solanaceae, tropane-alkaloids, european-history, witchcraft]
 date: 2026-04-25
@@ -84,5 +84,5 @@ acetylcholine at muscarinic receptors. The resulting syndrome includes
 dry mouth, dilated pupils, blurred vision, tachycardia, amnesia, and
 characteristically vivid hallucinations. Users often report the
 sensation of flight, which may explain the widespread folklore of
-witches flying to sabbaths. The hallucinations under tropane influence
+[[european-witches-flying-ointment-historical-evidence]] to sabbaths. The hallucinations under tropane influence
 are distinct from those of psilocybin or [[european-witchcraft-hallucinogenic-plants]] of these plants, combined with their toxicity, created a

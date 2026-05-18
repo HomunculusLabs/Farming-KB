@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Cubensis Cap Versus Stem Alkaloid Distribution
+title: [[psilocybe-cubensis-cap-stem-alkaloid-distribution]] Versus [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]]
 created: 2026-05-08
 tags: [psilocybin, psilocin, psilocybe-cubensis, cap, stem, alkaloid-distribution]
 date: 2026-05-08
@@ -80,7 +80,7 @@ These findings have practical implications for mushroom consumers:
 - **Whole mushroom consumption** provides the most consistent experience
 ## Research Context
 
-Research on psilocybe cubensis cap versus stem alkaloid distribution continues to evolve with new findings emerging from
+Research [[tryptamine-effects-on-psilocybe-cubensis]] cap versus stem alkaloid distribution continues to evolve with new findings emerging from
 both laboratory studies and field observations. Current investigations focus on
 optimizing parameters, understanding underlying mechanisms, and documenting
 outcomes across diverse conditions and geographic regions. Published literature
@@ -89,7 +89,7 @@ suggests multiple pathways for further exploration and refinement.
 ## Integration and Implementation
 
 Successful implementation of psilocybe cubensis cap versus stem alkaloid distribution requires attention to site-specific
-conditions and adaptive management strategies. Integration with complementary
+conditions and adaptive [[forest-management-strategies]]. Integration with complementary
 practices often enhances overall outcomes. Practitioners recommend starting with
 small-scale trials before scaling up, documenting results systematically to
 inform future decisions and share knowledge with the broader community.

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strain Effects on OTU Abundance vs Presence/Absence
+title: [[biscotti-cannabis-strain]] Effects on [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] Presence/Absence
 tags:
   - unifrac
   - weighted-analysis
@@ -35,7 +35,7 @@ of those organisms.
 
 | Analysis | PC1 Dominant Factor | Variance Explained |
 |----------|--------------------:|-------------------:|
-| Unweighted UniFrac | Soil type | 32.06% |
+| [[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]] | Soil type | 32.06% |
 | Weighted UniFrac | Strain | 34.51% |
 
 In unweighted space, soil type drives the largest axis — the **set of
@@ -61,7 +61,7 @@ The 71 strain-responsive OTUs were enriched in two phyla:
 
 - **Pseudomonadales**: Common rhizosphere colonists; includes plant growth-promoting and pathogenic species.
 - **Burkholderiales**: Diverse plant-associated lifestyles.
-- **Sphingomonadales**: Organic compound degraders; frequent in rhizosphere soils.
+- **Sphingomonadales**: [[plant-olfaction-volatile-organic-compound-signaling]] degraders; frequent in rhizosphere soils.
 - **Rhizobiales**: Root-associated nitrogen fixers; key rhizosphere functional group.
 
 ### Bacteroidetes
@@ -77,7 +77,7 @@ profiles, favoring different subsets of these lineages.
 ## Convergent Host Genotype-Dependent Selection
 
 Winston et al. describe the mechanism as **"convergent host genotype-
-dependent selection."** Different Cannabis strains converge on similar
+dependent selection."** Different [[cannabis-strains-genetics-potency]] converge on similar
 species pools (soil is the primary filter) but diverge in relative
 abundances (each genotype selectively enriches or depletes specific
 taxa from the shared pool).
@@ -92,7 +92,7 @@ taxa from the shared pool).
 - **Cultivar selection shapes the microbiome by altering proportions of soil-derived microbes, not by recruiting unique taxa.**
 - **Soil management remains the primary lever** for influencing which organisms are available to colonize roots.
 - **Strain-specific breeding could optimize functional outcomes** if certain abundance profiles associate with [[ph-and-nutrient-availability-garden-soils]].
-- **[[cannabis-endorhiza-bacterial-communities]] in the rhizosphere of two Cannabis sativa genotypes. *Applied Soil Ecology*, 79, 77–88.
+- **[[cannabis-endorhiza-bacterial-communities]] in the rhizosphere of two [[blesching-cannabis-sativa-indica-classification]] genotypes. *Applied Soil Ecology*, 79, 77–88.
   - Table 2: PERMANOVA results for weighted and unweighted UniFrac.
   - Figure 2: PCoA ordinations showing factor loadings on PC1.
   - Supplementary materials: OTU-level taxonomic assignments.

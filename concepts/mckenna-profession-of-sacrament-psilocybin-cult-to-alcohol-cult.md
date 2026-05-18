@@ -3,7 +3,7 @@
 
 ## Overview
 
-Terence McKenna identifies the transition from psilocybin-based religion to alcohol-based
+[[terence-mckenna]] identifies the transition from psilocybin-based religion to alcohol-based
 culture as one of the most consequential shifts in human history. This "profanation of the
 sacrament" represents not merely a change in preferred intoxicant but a fundamental
 transformation in the relationship between human consciousness, community, and the natural
@@ -36,7 +36,7 @@ that preserve the form of the mystery without its substance.
 The final stage represents the complete abandonment of even the pretense of remembering the
 felt experience of the mystery. McKenna typifies this as "secular scientism as perfected
 in the [[psychedelic-plants-and-civilization]] and the cultural accommodation of alcohol reflect the same pattern of
-dominator-values enforcement that began with the abandonment of the mushroom religion
+dominator-values enforcement that began with the abandonment of the [[mckenna-food-gods-minoan-crete-mushroom-religion]]
 thousands of years ago. Cannabis, as "second only to mushrooms in its promotion of the
 social values and sensory ratios that typified the original partnership societies," is
 "anathema to the [[entheogen-culture]]

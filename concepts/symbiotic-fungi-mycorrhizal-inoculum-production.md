@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal directed-inoculum-production-process-for-amf - Best Practices for Agriculture
+title: Mycorrhizal directed-inoculum-production-process-for-amf - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] for Agriculture
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 Updated: 2026-04-18
 
-Source: [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] inoculum (AM) requires that the product is "fit for purpose." The product must meet or exceed the customer's requirements. Customers may define different quality characteristics for mycorrhizal inoculum: formulation, handling, weight, safety, functionality, or others. Only the application of all instruments of concurrent quality control procedures results in a traceable and reliable supply chain with the consequence of reliability of the whole product chain as basis for sustainability.
+Source: [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] inoculum (AM) requires that the product is "fit for purpose." The product must meet or exceed the customer's requirements. Customers may define different quality characteristics for mycorrhizal inoculum: formulation, handling, weight, safety, functionality, or others. Only the application of all instruments of concurrent [[blesching-cannabis-contaminants-testing-quality-control]] procedures results in a traceable and reliable [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]] with the consequence of reliability of the whole product chain as basis for sustainability.
 
 This pre-requisite prevents the customer from buying expensive, non-effective inoculum instead of high-quality AM inoculum.
 

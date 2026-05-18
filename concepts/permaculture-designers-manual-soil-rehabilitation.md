@@ -3,7 +3,7 @@ title: Soil Rehabilitation
 created: 2026-04-15
 updated: 2026-04-21
 type: concept
-tags: permaculture, design]
+tags: [[permaculture]], design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Soil Rehabilitation updated: 2026-04-18 From: [[building-soil]]
@@ -17,10 +17,10 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 

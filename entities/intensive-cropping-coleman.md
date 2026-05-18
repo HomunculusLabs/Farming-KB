@@ -1,5 +1,5 @@
 ---
-title: Intensive Cropping
+title: [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]]
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [technique, cropping-system, space-efficiency, organic-farming, rotation]
@@ -17,7 +17,7 @@ Intensive cropping is a production philosophy and set of practices aimed at maxi
 - **Origin**: French *maraicher* tradition (Paris, 18th–19th century)
 - **Modern exemplars**: [[eliot-coleman]], [[john-jeavons]], French intensive / biointensive methods
 - **Scale**: Market garden (1–5 acres typical)
-- **System**: Organic, biological agriculture
+- **System**: Organic, [[pest-philosophy-biological-agriculture]]
 
 ## Key Facts
 
@@ -39,10 +39,10 @@ Intensive cropping is a production philosophy and set of practices aimed at maxi
 - Multiple crops per bed per year through careful succession planning
 - Efficient use of cloches and cold frames for season extension
 
-**British adaptation (19th–20th century)**:
+**[[french-garden-system-british-adaptation]] (19th–20th century)**:
 - British market gardeners adapted French methods to local conditions
 - Emphasis on standardization and systematization of intensive techniques
-- Development of specialized tools and equipment
+- Development of specialized [[winter-harvest-tools-and-equipment]]
 
 **Modern organic intensive (20th–21st century)**:
 - Coleman and others combined European intensive methods with organic principles
@@ -55,7 +55,7 @@ Intensive cropping is a production philosophy and set of practices aimed at maxi
 Intensive cropping is the foundational production system for profitable small-scale market gardening:
 
 - **Land efficiency**: Achieving high yields on small acreage reduces land costs and brings marginal land into productive use
-- **Economic viability**: High gross revenue per acre makes small-scale farming economically sustainable
+- **[[economic-viability-water-retention-landscapes]]**: High gross revenue per acre makes small-scale farming economically sustainable
 - **Winter production**: Intensive methods are especially valuable in protected winter cultivation where every square foot of greenhouse space must be productive
 - **Soil health focus**: The system's reliance on biological fertility creates resilient soils that improve over time
 - **Reduced external inputs**: Generous composting and green manures replace purchased fertility
@@ -77,5 +77,5 @@ Intensive cropping is the foundational production system for profitable small-sc
 
 ## Sources
 
-- Coleman, Eliot. *The Winter Harvest Handbook*. Chelsea Green, 2009. pp. 14–24, 70–71, 123–124.
+- Coleman, Eliot. *The [[eliot-coleman-and-the-winter-harvest-handbook]]*. Chelsea Green, 2009. pp. 14–24, 70–71, 123–124.
 - Coleman, Eliot. *The New Organic Grower*. Chelsea Green, 1995.

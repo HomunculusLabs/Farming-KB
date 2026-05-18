@@ -7,7 +7,7 @@ tags: [person, mycology, taxonomy, psilocybe-cyanescens, europe, distribution]
 
 ## Description
 
-Krieglsteiner is a German mycologist recognized for significant contributions to the mapping and taxonomic clarification of psychoactive mushroom species in Europe, particularly the **[[psilocybe-cyanescens]] complex**. Gartz credits Krieglsteiner with establishing the current taxonomic understanding that multiple European names for bluing Psilocybe species are in fact synonyms for a single variable species.
+Krieglsteiner is a German mycologist recognized for significant contributions to the mapping and taxonomic clarification of [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species in Europe, particularly the **[[psilocybe-cyanescens]] complex**. Gartz credits Krieglsteiner with establishing the current taxonomic understanding that multiple European names for bluing Psilocybe species are in fact synonyms for a single variable species.
 
 ## Taxonomic Contributions
 
@@ -30,12 +30,12 @@ Krieglsteiner produced the first comprehensive distribution map of *Psilocybe cy
 
 - **Category**: Mycologist / Taxonomist
 - **Nationality**: German
-- **Specialty**: Psilocybe species taxonomy and distribution
+- **Specialty**: Psilocybe species [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]]
 - **Key contribution**: Synonymization of European Psilocybe cyanescens complex
 
 ## Relevance to Cultivation and Mycology
 
-Krieglsteiner's taxonomic work is fundamental to modern understanding of European psychoactive Psilocybe species. By demonstrating that multiple named species are in fact geographic variants of a single species, he clarified the distribution patterns and ecological preferences of *P. cyanescens*. This has direct implications for foragers and cultivators seeking to identify and work with these species.
+Krieglsteiner's taxonomic work is fundamental to modern understanding of European psychoactive Psilocybe species. By demonstrating that multiple named species are in fact geographic variants of a single species, he clarified the [[fungal-biogeography-distribution-patterns]] and ecological preferences of *P. cyanescens*. This has direct implications for foragers and cultivators seeking to identify and work with these species.
 
 ## Key Facts
 
@@ -48,7 +48,7 @@ Krieglsteiner's taxonomic work is fundamental to modern understanding of Europea
 
 ## Ecological Significance
 The ecological importance of Krieglsteiner extends across multiple levels of biological
-organization. Research has documented its role in nutrient cycling, species interactions,
+organization. Research has documented its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], species interactions,
 and ecosystem stability. These relationships highlight the interconnected nature of
 biological communities and the importance of understanding individual components
 within their broader environmental context.
@@ -58,14 +58,14 @@ Understanding Krieglsteiner has practical implications for agriculture, horticul
 and environmental management. Applied research has explored how this knowledge
 can be used to improve soil health, optimize growing conditions, and develop
 more sustainable management practices. These applications demonstrate the bridge
-between fundamental research and real-world problem solving.
+between fundamental research and real-world [[cannabis-grow-nutrient-deficiency-problem-solving]].
 
 ## Research Context
 Current research on Krieglsteiner draws from multiple scientific disciplines, integrating
 findings from microbiology, ecology, chemistry, and applied sciences. Ongoing studies
 continue to refine our understanding of mechanisms and interactions, with implications
 for both theoretical knowledge and practical applications. Key research questions
-remain about the full range of effects and optimal management strategies.
+remain about the full range of effects and optimal [[forest-management-strategies]].
 
 ## Historical Background
 The study of Krieglsteiner has evolved significantly over time, with early observations

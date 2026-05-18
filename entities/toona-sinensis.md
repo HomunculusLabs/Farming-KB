@@ -2,7 +2,7 @@
 title: Toona sinensis
 created: 2026-04-28
 type: species
-tags: permaculture, edible-leaves, timber, medicinal, chinese-cuisine]
+tags: [[permaculture]], edible-leaves, timber, medicinal, chinese-cuisine]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
@@ -13,12 +13,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 Toona sinensis, commonly known as Chinese mahogany, Chinese toon, or red toon, is a
 deciduous tree species in the family Meliaceae. Native to China and widely cultivated
 apermaculturend [[medicinal-mushroom-extraction-bioactive-compounds]] including [[quercetin]],
-kaempferol, rutin, and various phenolic acids with demonstrated [[tissue-culture-cloning]]. Seed
+[[kaempferol]], rutin, and various phenolic acids with demonstrated [[tissue-culture-cloning]]. Seed
 germination is relatively straightforward, though viability declines rapidly after 6 to 12
 months, and fresh seed is preferred. Seeds should be sown in spring in well-drained seed
 beds, lightly covered, and kept consistently moist. Germination typically occurs within 2
 to 4 weeks with rates of 60 to 80 percent for fresh seed. Root suckers are readily
-produced and can be separated for vegetative propagation, which maintains the desirable
+produced and can be separated for [[hamilton-vegetative-propagation]], which maintains the desirable
 characteristics of selected cultivars, particularly those bred for enhanced shoot
 production, leaf color, or growth form. Grafted specimens of superior shoot-producing
 cultivars are widely available in Chinese nurseries, with several named cultivars selected
@@ -44,7 +44,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

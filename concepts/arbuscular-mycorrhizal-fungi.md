@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Fungi
+title: [[arbuscular-mycorrhizal-fungi-biology-host-relationships-phylogeny]]
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Arbuscular Mycorrhizal Fungi
 
-Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, and ecosystem function.
+Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, [[fungal-biodiversity-and-ecosystem-function]].
 
 ## The Symbiosis
 
@@ -18,7 +18,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - **Nitrogen**: Access organic and inorganic N sources unavailable to roots
 - **Water**: Hyphal network improves water uptake during drought
 - **Micronutrients**: Enhanced uptake of zinc, copper, manganese
-- **Disease protection**: Physical barrier around roots, induced systemic resistance
+- **Disease protection**: Physical barrier around roots, [[endophytic-mycorrhizal-induced-systemic-resistance]]
 - **Soil aggregation**: Glomalin (a glycoprotein produced by AMF) binds soil particles into stable aggregates
 
 ### What Plants Provide
@@ -57,7 +57,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Broad but Not Universal
 - Most crops, vegetables, grasses, and many trees form AM associations
 - Notable non-hosts: Brassicaceae (cabbage, broccoli, mustard), Chenopodiaceae (spinach, beet), Amaranthaceae (amaranth)
-- AMF can associate with multiple plant species simultaneously — creating common mycorrhizal networks
+- AMF can associate with multiple plant species simultaneously — creating [[common-mycorrhizal-networks]]
 
 ### Crop Families and AMF
 - **Highly dependent**: Allium (onion, garlic), Solanaceae (tomato, pepper), Leguminosae (beans, peas), Poaceae (corn, wheat)
@@ -75,7 +75,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 
 ### Suppressing AMF
 - High P fertilizer (plants reduce carbon allocation to AMF)
-- Conventional tillage (breaks hyphal networks)
+- [[comparison-no-till-vs-conventional-tillage]] (breaks hyphal networks)
 - Fallow periods (no host plants, AMF decline)
 - Certain pesticides (fungicides particularly harmful)
 - High soil disturbance
@@ -88,7 +88,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - Over time, AMF-rich soils require fewer inputs
 
 ### Drought Resilience
-- AMF improve water uptake and drought tolerance
+- AMF improve water uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Particularly important in dryland farming
 - AMF-inoculated plants maintain turgor longer under water stress
 

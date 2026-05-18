@@ -43,9 +43,9 @@ nematodes of both plants and livestock.
   other nutrients.
 - Conidia (asexual spores) of *Arthrobotrys* can survive passage through the
   gastrointestinal tract of ruminant animals, germinating in dung where
-  free-living stages of parasitic nematodes develop (Faedo et al., 1997).
+  free-living stages of [[comparison-free-living-vs-parasitic-nematodes]] develop (Faedo et al., 1997).
 - *Arthrobotrys* spores show lower survival through the ruminant gut compared
-  to *Duddingtonia flagrans*, which may limit their efficacy as feed-through
+  to *[[duddingtonia-flagrans]]*, which may limit their efficacy as feed-through
   biocontrol agents.
 - Kerry and Jafee (1997) highlighted that the success of *Arthrobotrys* as a
   biocontrol agent depends on conidial density in soil, relating to
@@ -60,7 +60,7 @@ nematodes of both plants and livestock.
   populations in soil, contributing to the natural biological control of both
   plant-parasitic and animal-parasitic nematode species.
 - In pasture ecosystems, *Arthrobotrys* traps the free-living larval stages of
-  intestinal nematodes (e.g., *Trichostrongylus colubriformis*) in dung,
+  intestinal nematodes (e.g., *[[trichostrongylus-colubriformis]]*) in dung,
   potentially reducing the infective load for grazing livestock.
 - The genus is part of a broader guild of nematophagous fungi that includes
   *Duddingtonia*, *Dactylella*, *Nematoctonus*, and egg-parasitic genera like
@@ -74,7 +74,7 @@ nematodes of both plants and livestock.
 - *Arthrobotrys* is one of the most studied genera for biological control of
   plant-parasitic nematodes in agriculture, offering an alternative to chemical
   nematicides.
-- Its trapping mechanisms (constricting rings and adhesive nets) have been
+- Its [[fungal-nematode-predation-and-trapping-mechanisms]] (constricting rings and adhesive nets) have been
   extensively studied as models for understanding fungal morphogenesis and the
   evolution of predation in fungi.
 - Limitations for practical deployment include variable conidial survival,
@@ -89,11 +89,11 @@ nematodes of both plants and livestock.
 
 - Faedo, M., Larsen, M., Waller, P. J. (1997). Nematophagous fungi for
   control of nematode parasites of sheep.
-- Kerry, B. R. (1988). Fungal parasites of cereal cyst nematode females/eggs.
+- Kerry, B. R. (1988). [[bloomfield-fungal-parasites-of-insects]] cereal cyst nematode females/eggs.
 - Kerry, B. R., Jafee, B. A. (1997). Nematophagous fungi as biocontrol agents.
 - Viaene, N., Abawi, G. S. (1998). Fungal parasites of *Meloidogyne*.
 - Manueli, P. R. et al. (1999). Nematophagous fungi in tropical conditions.
-- Dighton, J. *Fungi in Ecosystem Processes*. Chapter 5.
+- Dighton, J. *Fungi in [[fungal-decomposition-ecosystem-processes]]*. Chapter 5.
 ## See also
 
 - [[nematophthora-gynophial]]

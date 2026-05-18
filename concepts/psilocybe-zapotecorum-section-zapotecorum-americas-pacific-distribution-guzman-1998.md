@@ -1,5 +1,5 @@
 ---
-title: Psilocybe psilocybe zapotecorum section zapotecorum americas pacific distribution guzman 1998 Zapotecorum: Americas Pacific Distribution
+title: Psilocybe [[psilocybe-zapotecorum]] [[psilocybe-section-zapotecorum-americas-pacific-disjunction]] pacific [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] 1998 Zapotecorum: Americas Pacific Distribution
 created: 2026-05-06
 tags: mycology, psilocybe, zapotecorum, aucklandii, biogeography, trans-pacific, section-zapotecorum, guzman-1998
 type: concept
@@ -14,7 +14,7 @@ Section Zapotecorum of the genus Psilocybe represents one of the most
 biogeographically significant groups of [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 
-- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Convergence Zone
+- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] [[mexico-mycobiotic-convergence-zone-neurotropic-fungi-guzman-2000]]
 - [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
 ## Practical Applications
 
@@ -33,7 +33,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

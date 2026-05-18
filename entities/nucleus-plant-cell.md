@@ -24,7 +24,7 @@ The nucleus is the command center of the plant cell — the organelle that store
 ### Nuclear Envelope
 
 - Two phospholipid membranes separated by a space, forming the nuclear envelope
-- The outer nuclear membrane is continuous with the rough endoplasmic reticulum and studded with ribosomes
+- The outer nuclear membrane is continuous with the rough [[endoplasmic-reticulum]] and studded with ribosomes
 - This physical connection to the ER provides a direct pathway from the nucleus to the rest of the cell
 
 ### Nuclear Pores
@@ -80,20 +80,20 @@ Ribosome subunits are manufactured in the nucleolus from RNA and proteins, then 
 - The outer nuclear membrane is physically continuous with the rough ER — the nucleus is directly plumbed into the cell's protein production line
 - Most plant cells have multiple nucleoli
 - The nucleus cannot be contaminated — strict pore selection prevents unwanted molecules from accessing DNA
-- The nuclear lamina provides both structural support and spatial organization
+- The nuclear lamina provides both [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and spatial organization
 
 ## Relevance to Cultivation and Mycology
 
 - All genetic traits that determine plant characteristics — yield, disease resistance, stress tolerance, nutrient use efficiency — are stored and expressed through nuclear processes
-- Environmental stressors that damage nuclear DNA (UV radiation, chemical mutagens, oxidative stress) can impair plant growth and development
-- In fungi, the nucleus controls the production of enzymes that decompose organic matter — the basis of nutrient cycling in healthy soils
+- Environmental stressors that damage nuclear DNA (UV radiation, chemical mutagens, oxidative stress) can impair plant [[cytokinin-plant-growth-and-development]]
+- In fungi, the nucleus controls the production of enzymes that decompose organic matter — the basis of [[nutrient-cycling-in-soil]] healthy soils
 - Understanding nuclear function is essential for grasping how plants respond to nutrient availability at the molecular level
-- Selective breeding and genetic improvement of crops operates at the level of nuclear DNA
+- Selective breeding and [[genetic-improvement-agaricus-bisporus-molecular-approaches]] of crops operates at the level of nuclear DNA
 - The nucleus-to-ER-to-Golgi protein production pipeline determines the rate at which plants can synthesize defensive compounds, growth hormones, and metabolic enzymes
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
 
 ## See Also
 

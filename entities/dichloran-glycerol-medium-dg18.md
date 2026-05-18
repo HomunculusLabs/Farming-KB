@@ -13,8 +13,8 @@ Dichloran-glycerol medium (commonly designated DG18) is a selective culture medi
 
 ## Classification
 
-- **Type:** Selective mycological culture medium
-- **Category:** Low water activity medium
+- **Type:** Selective [[telluride-mushroom-festival-modern-mycological-culture]] medium
+- **Category:** [[osmophilic-osmotolerant-fungi-low-water-activity]] medium
 - **Primary use:** Isolation and enumeration of xerophilic fungi
 - **Reference:** Hocking and Pitt 1980
 
@@ -45,7 +45,7 @@ Dichloran-glycerol medium (commonly designated DG18) is a selective culture medi
 - **Food mycology:** Isolation of xerophilic spoilage fungi from dried foods, grains, and stored products
 - **[[environmental-mycology]]:** Isolation of fungi from arid and semi-arid soils with low water availability
 - **Biodiversity surveys:** Detection of xerophilic fungal species in desert ecosystems and other water-limited environments
-- **Ecological studies:** Assessment of fungal community composition in xeric environments
+- **[[mycorrhiza-bioassays-ecological-studies]]:** [[monitoring-and-assessment-of-fungal-bioremediation]] [[core-endorhiza-bacterial-community-composition-cannabis]] in xeric environments
 
 ### Selective Properties
 - The reduced water activity selectively inhibits mesophilic fungi that require higher aw values
@@ -58,7 +58,7 @@ Dichloran-glycerol medium (commonly designated DG18) is a selective culture medi
 - Essential for comprehensive fungal diversity surveys in arid environments
 - Without selective media adjusted to appropriate aw levels, xerophilic fungi may not be isolated at all
 - Hocking and Pitt (1980) demonstrated that DG18 outperformed other standard media for xerophile enumeration
-- Critical for understanding fungal community dynamics in desert, semi-arid, and stored-product ecosystems
+- Critical for understanding [[fungal-community-dynamics-ecosystem-stability]] in desert, semi-arid, and stored-product ecosystems
 
 ### Methodological Considerations
 - Growth rates of isolated fungi may change at selected aw values depending on incubation temperature, pH, and [[nutrient-availability]] (Wheeler et al. 1988; Hocking 1993)

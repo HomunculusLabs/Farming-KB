@@ -1,5 +1,5 @@
 ---
-title: "comparison wicking bed vs container gardening vs comparison-cold-frame-gardening-vs-container-gardening-guide"
+title: "[[comparison-wicking-bed-vs-passive-wick-hydroponics]] [[comparison-cold-frame-gardening-vs-container-gardening-guide]] vs comparison-cold-frame-gardening-vs-container-gardening-guide"
 tags: [comparison, water-management, gardening, containers, raised-beds]
 date: 2026-05-08
 updated: 2026-05-08
@@ -10,20 +10,20 @@ sources: []
 
 ## Overview
 
-Wicking beds and container gardens both bring [[container-gardening-guide]]
+[[comparison-raised-beds-vs-wicking-beds]] and container gardens both bring [[container-gardening-guide]]
 
-Container gardening grows plants in individual pots, planters, grow bags, or
+Container gardening grows plants in individual pots, planters, [[filter-can-design-mushroom-grow-bags]], or
 other vessels. It is the most flexible and accessible form of small-space
 gardening, suitable for balconies, patios, rooftops, and anywhere with
 adequate sunlight. Containers range from 6-inch herb pots to 25-gallon
-half-barrels for dwarf fruit trees, and virtually any vegetable, herb, or
+half-barrels for dwarf [[comparison-grafting-vs-budding-fruit-trees]], and virtually any vegetable, herb, or
 flower can be grown in a sufficiently large container.
 
 The core trade-off of container gardening is watering frequency. Because
 containers have limited soil volume and drainage holes at the bottom, they
 dry out quickly — often requiring daily watering in summer, and sometimes
 twice daily during heat waves. Self-watering containers (which use a small
-wicking reservoir, similar in principle to a wicking bed) can extend this to
+wicking reservoir, similar in principle to [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]) can extend this to
 every 3-7 days, but the reservoir capacity is far smaller than a full
 wicking bed. Fertilizing is also more demanding: container soils deplete
 faster than garden soil, and liquid feeding every 2-3 weeks is typical for

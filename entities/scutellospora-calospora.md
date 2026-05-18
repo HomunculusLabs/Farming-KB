@@ -30,12 +30,12 @@ exhibiting reduced spore dispersal in the presence of these soil
 animals. This finding has important implications for understanding
 the factors that structure AM fungal communities and influence plant
 [[dighton-selective-grazing-fungal-community-shifts]] on fungal spores can
-create species-specific impacts on AM fungal community structure
+create species-specific impacts on AM [[mineralogical-controls-fungal-community-structure]]
 and the spatial distribution of [[arbuscular-mycorrhizal-inoculum-production-best-practices]] in soil.
 
 ## Mycorrhizal Function
 
-As an arbuscular mycorrhizal fungus, Scutellospora calospora
+As an [[arbuscular-mycorrhizal-colonization-patterns]] fungus, Scutellospora calospora
 fulfills essential ecological functions in terrestrial ecosystems
 through its symbiotic relationship with host plants. The fungus
 forms arbuscules within root cortical cells, which are the primary
@@ -44,7 +44,7 @@ sites of nutrient exchange between the fungal and plant partners.
 ## Overview
 
 Scutellospora Calospora represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -65,7 +65,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Scutellospora Calospora finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -73,7 +73,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -94,7 +94,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 scutellospora calospora and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

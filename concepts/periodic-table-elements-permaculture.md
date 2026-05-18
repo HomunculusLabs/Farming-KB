@@ -7,7 +7,7 @@ type: concept
 # Periodic Table Elements in Permaculture
 
 Elements from the periodic table play critical roles in soil health, plant nutrition, and
-ecological balance. Understanding these elements through a permaculture lens — their
+[[fukuoka-bushman-world-ecological-balance]]. Understanding these elements through a permaculture lens — their
 sources, cycles, interactions, and toxicity thresholds — is fundamental to designing
 productive and resilient systems. The following covers key elements from [[cation-exchange-capacity]].
 
@@ -17,10 +17,10 @@ uptake by plants is significantly inhibited — useful in contaminated landscape
 from decomposition and combustion drives the greenhouse effect, making carbon cycling
 both a local and global concern.
 
-**Design notes:** Target 10–20% humus for optimal structure and nutrient cycling. Use
+**Design notes:** Target 10–20% humus for optimal [[root-anatomy-structure-and-nutrient-uptake]] cycling. Use
 high-humus soils (>50%) as barriers to heavy metal uptake. Add calcium alongside carbon
 when humus is below 7%. Design for carbon sequestration through perennial plantings and
-minimal tillage.
+[[coleman-bed-preparation-and-minimal-tillage]].
 
 ## Nitrogen (N)
 
@@ -45,14 +45,14 @@ grazing management.
 Oxygen is essential for respiration in all soil organisms and plant roots. Soils require
 12–30% air-filled pore space to sustain aerobic life. Aeration is improved through
 calcium, tree roots, worm activity, soil ripping, and humus. Waterlogging displaces air,
-creating harmful anaerobic conditions.
+creating harmful [[aact-ph-and-anaerobic-conditions]].
 
 Deep loose soils are particularly important for walnuts, oranges, chestnuts, and
 potatoes. Large soil pores — critical for root penetration, water infiltration, and gas
 exchange — are achieved only through [[soil-life]] and perennial crop root systems.
 
 **Design notes:** Maintain 12–30% air-filled pore space via biological and mechanical
-aeration. Use deep-rooted perennials and earthworms as primary aeration tools. Design
+aeration. Use deep-rooted perennials and earthworms as primary [[coleman-tiller-broadfork-and-soil-aeration-tools]]. Design
 drainage to prevent waterlogging. Avoid compaction from vehicles and livestock.
 
 ## Fluorine (F)
@@ -64,7 +64,7 @@ ligament stiffening, and "case-hardened" teeth that rot from inside. Contaminati
 sources include bore water and metal-processing pollution. Desert hard waters can reach
 1–14 ppm fluorine, making them hazardous.
 
-**Design notes:** Use seaweed as a balanced trace element source. Test bore water in
+**Design notes:** Use seaweed as a balanced [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] source. Test bore water in
 dryland systems before irrigation. Avoid industrial-polluted water for food production.
 Be cautious with desert hard waters exceeding 1 ppm fluorine.
 

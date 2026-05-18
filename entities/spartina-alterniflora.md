@@ -18,7 +18,7 @@ sources:
   - Mitsch, W.J. & Gosselink, J.G. (2015). Wetlands, 5th Edition. John Wiley & Sons.
   - Vasey, M.C. et al. (2004). "Integration of morphology, molecular data, and [[psilocybin-north-america-pacific-northwest]].
 
-This species is a foundational ecosystem engineer that stabilizes coastal
+This species is a foundational [[ecosystem-engineer-fungi]] that stabilizes coastal
 sediments, buffers wave energy, and provides critical habitat for commercially
 important fisheries. It has also become a [[pioneer-species-for-land-reclamation]]), Europe, New Zealand, Australia, and the Pacific
 Northwest [[berry-growing]]. In China, it has colonized over 100,000 hectares of
@@ -33,12 +33,12 @@ up to 90% compared to unvegetated mudflats.
 Above-ground biomass attenuates wave energy, reducing wave height by 40–80%
 over short distances and protecting inland areas from storm surge. This function
 has made the species a primary tool in living shoreline designs and nature-
-based coastal defense strategies.
+based [[island-coastal-defense-shoreline-management]] strategies.
 
 ## Overview
 
 Spartina Alterniflora represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -59,7 +59,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Spartina Alterniflora finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -67,7 +67,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -88,7 +88,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 spartina alterniflora and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

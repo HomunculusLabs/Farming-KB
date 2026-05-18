@@ -1,5 +1,5 @@
 ---
-title: "Avocado Cultivation vs Mango Cultivation"
+title: "[[avocado-cultivation-and-variety-guide]] [[comparison-citrus-vs-mango-cultivation]]"
 created: 2026-04-28
 tags:
   - permaculture
@@ -19,7 +19,7 @@ type: comparison
 
 # Avocado Cultivation vs Mango Cultivation
 
-A comprehensive comparison of two premier subtropical food forest trees for permaculture and homesteading systems.
+A comprehensive comparison of two premier subtropical food forest [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]] and homesteading systems.
 
 ## Overview
 
@@ -73,15 +73,15 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
+ecology, data science, [[wasted-human-resources-and-traditional-knowledge]] systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

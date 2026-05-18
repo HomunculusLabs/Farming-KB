@@ -11,13 +11,13 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[sheet-mulching]] is a no-till technique for creating new garden beds, suppressing weeds, building soil, and converting lawns or compacted ground into fertile growing space. It is one of the most practical and immediately useful techniques in permaculture, requiring no special tools or skills.
+[[sheet-mulching]] is a no-till technique for creating new garden beds, suppressing weeds, building soil, and converting lawns or compacted ground into fertile [[cotter-growing-space-design-fruiting-rooms]]. It is one of the most practical and immediately useful techniques in permaculture, requiring no special tools or skills.
 
 ## What Is Sheet Mulching?
 
 Sheet mulching layers organic materials over the ground to create a rich, weed-free planting bed without digging or tilling. It mimics the natural process of forest floor accumulation where leaves, branches, and [[dighton-mycorrhizal-networks-carbon-transfer]], and soil organisms
 - **Weed suppression:** Cardboard/newspaper blocks light, killing weeds and grass without herbicides
-- **Soil building:** Decomposing layers add organic matter, improve soil structure, and feed microorganisms
+- **Soil building:** Decomposing layers add [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], [[query-how-do-fungi-improve-soil-structure]], and feed microorganisms
 - **Moisture retention:** Mulch layer reduces evaporation significantly
 - **Immediate planting:** Can plant directly into the compost layer once applied
 - **Lawn conversion:** The easiest way to convert grass lawn to garden
@@ -26,7 +26,7 @@ Sheet mulching layers organic materials over the ground to create a rich, weed-f
 ## Materials Needed
 
 - **Cardboard** (unprinted, no glossy coatings) or **newspaper** (6-10 sheets)
-- **Compost** (2-4 inches; finished compost, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or worm castings)
+- **Compost** (2-4 inches; finished compost, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or [[ingham-vermicompost-worm-castings]])
 - **Mulch** (4-6 inches; leaves, straw, wood chips, pine needles)
 - Optional: aged manure, rock minerals (azomite, greensand), compost tea, biochar
 
@@ -50,9 +50,9 @@ Sheet mulching layers organic materials over the ground to create a rich, weed-f
 - Can also include aged manure, composted leaves, or worm castings
 
 ### 4. Add Optional Amendments
-- Sprinkle rock minerals (azomite, greensand, bone meal) for trace minerals
+- Sprinkle rock minerals (azomite, greensand, bone meal) for [[dynamic-accumulator-plants-trace-minerals]]
 - Add biochar for long-term soil carbon
-- Apply compost tea to inoculate with beneficial microorganisms
+- Apply compost tea to inoculate with [[forest-and-bamboo-beneficial-microorganisms]]
 
 ### 5. Apply Mulch Layer
 - Cover with 4-6 inches of mulch (leaves, straw, wood chips)

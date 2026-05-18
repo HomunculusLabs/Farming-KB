@@ -1,5 +1,5 @@
 ---
-title: Permaculture Water Harvesting
+title: [[faires-permaculture-water-harvesting]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -41,7 +41,7 @@ A swale is a level ditch on contour that catches water running off the land surf
 - Reduce erosion by slowing water flow
 - Create a moist planting zone on the berm
 - Distribute water across the landscape rather than concentrating it
-- Build soil through accumulated organic matter on the berm
+- Build soil through accumulated [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] on the berm
 
 ## Ponds and Dams
 
@@ -56,7 +56,7 @@ Ponds store water at the surface for irrigation, livestock, fire control, and aq
 
 ## Rainwater Collection
 
-Rainwater harvesting from roofs provides high-quality water for domestic and garden use:
+[[comparison-drip-irrigation-vs-rainwater-harvesting]] from roofs provides high-quality water for domestic and garden use:
 
 - Every square meter of roof collects approximately 1 liter of water per millimeter of rainfall
 - First-flush diverters discard the initial contaminated runoff from roof surfaces
@@ -68,15 +68,15 @@ Rainwater harvesting from roofs provides high-quality water for domestic and gar
 
 Greywater (water from showers, sinks, and laundry) can be treated and reused in the landscape:
 
-- Greywater contains nutrients from soaps and organic matter that benefit plants
+- Greywater contains nutrients from soaps [[hamilton-composting-and-organic-matter-management]] that benefit plants
 - Simple systems use settling tanks, grease traps, and biological filtration
-- Reed beds and constructed wetlands effectively treat greywater using aquatic plants
+- Reed beds and [[comparison-constructed-wetlands-vs-bioswales]] effectively treat greywater using aquatic plants
 - Mulch basins around trees can directly receive filtered greywater
 - Never store untreated greywater -- use it immediately or treat it aerobically
 
 ## Keyline Design
 
-Keyline is a landscape planning technique developed by P.A. Yeomans that optimizes water distribution on agricultural land:
+Keyline is a [[slope-analysis-landscape-planning]] technique developed by P.A. Yeomans that optimizes water distribution on agricultural land:
 
 - The keyline is identified as the point of maximum change in slope (where a convex slope becomes concave)
 - Cultivation parallel to the keyline, widening toward valleys, spreads water from valleys to ridges

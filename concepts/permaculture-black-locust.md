@@ -6,11 +6,11 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-Updated: 2026-04-18 Black Locust (Robinia pseudoacacia) is a valuable hardwood tree prized for its rot-resistant timber, excellent firewood, and nitrogen-fixing ability. It is one of the most valuable bee forages in France and a key [[urban-permaculture-trees-water-cycling]] where branch pruning provides livestock browse.
+Updated: 2026-04-18 [[black-locust-entity]] ([[robinia-pseudoacacia]]) is a valuable hardwood tree prized for its rot-resistant timber, excellent firewood, and nitrogen-fixing ability. It is one of the most valuable bee forages in France and a key [[urban-permaculture-trees-water-cycling]] where branch pruning provides livestock browse.
 
 ## Beekeeping Value
 
-Black Locust is one of the premier honey plants in temperate regions. The fragrant white flowers bloom for 10-14 days in late spring, producing a light, mild, and very tasty honey that remains liquid for long periods. A single large tree can support multiple hives. See faires-[[permaculture-ethics-and-design-principles]], Black Locust is typically placed in zones 3-4 as a [[permaculture-nitrogen-fixing-trees-guide]]
+Black Locust is one of the premier honey plants in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. The fragrant white flowers bloom for 10-14 days in late spring, producing a light, mild, and very tasty honey that remains liquid for long periods. A single large tree can support multiple hives. See faires-[[permaculture-ethics-and-design-principles]], Black Locust is typically placed in zones 3-4 as a [[permaculture-nitrogen-fixing-trees-guide]]
 
 - [[permaculture-forestry-systems]]
 ## Practical Applications
@@ -30,7 +30,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mollison, B. (1988). *Permaculture: A Designer's Manual*. Tagari Publications."
-  - "Holmgren, D. (2002). *Permaculture: Principles and Pathways Beyond Sustainability*. Holmgren Design Services."
+  - "Holmgren, D. (2002). *Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]*. Holmgren Design Services."
   - "Crews, T.E. (2005). Perennial crops and endogenous nutrient supplies. *Renewable Agriculture and Food Systems*, 20(1), 25-37."
   - "Robertson, G.P. & Swinton, S.M. (2005). Reconciling agricultural productivity and environmental integrity: A grand challenge for agriculture. *Frontiers in Ecology and the Environment*, 3(1), 38-46."
 type: query
@@ -16,13 +16,13 @@ created: 2026-04-28
 
 ## Short Answer
 
-In a permaculture system, nitrogen cycling is designed as a **closed-loop system** where [[faires-livestock-integration-permaculture]], and strategic biomass management work together to keep nitrogen moving through the system and available to crops without the environmental pollution associated with conventional agriculture.
+In a permaculture system, nitrogen cycling is designed as a **closed-loop system** where [[faires-livestock-integration-permaculture]], and strategic biomass management work together to keep nitrogen moving through the system and available to crops without the [[bloomfield-environmental-pollution-overcollection-impact-fungi]] associated with conventional agriculture.
 
 ## The Permaculture Nitrogen Cycle: Key Components
 
 ### 1. Biological Nitrogen Fixation (The N Input)
 
-Permaculture systems rely on biological nitrogen fixation (BNF) as the primary nitrogen input rather than synthetic fertilizers:
+Permaculture systems rely on biological nitrogen fixation (BNF) as the primary nitrogen input rather than [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]:
 
 **Leguminous trees and shrubs (nitrogen-fixing trees/NFTs):**
 - Black locust (*[[jeavons-green-manures-cover-crops]] in rotation
@@ -36,7 +36,7 @@ Permaculture systems rely on biological nitrogen fixation (BNF) as the primary n
 - Mature compost provides slow-release N with minimal leaching risk
 - Compost tea extracts multiply beneficial microbes that drive ongoing mineralization
 
-**Livestock integration:**
+**[[fukuoka-natural-livestock-integration-philosophy]]:**
 - Chickens, ducks, rabbits, goats, cattle recycle plant N through manure
 - Urine is especially N-rich (10–15 g N/L) — poultry manure contains ~3–4% N
 - Deep bedding systems (straw + manure) create compost-in-place
@@ -70,12 +70,12 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
+ecology, data science, [[wasted-human-resources-and-traditional-knowledge]] systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
 For continued learning, recommended resources include current research

@@ -1,5 +1,5 @@
 ---
-title: Hippophae Rhamnoides Permaculture
+title: [[hippophae-rhamnoides]] Permaculture
 created: 2026-04-28
 type: species
 tags:
@@ -16,7 +16,7 @@ updated: 2026-04-28
 sources:
   - T. Rousi (1971). "The genus Hippophae L. — a taxonomic study." Annales Botanici Fennici, 8(3), 177–207.
   - Z. Li & T. H. H. Schroeder (1996). "comparison-sea-buckthorn-vs-aronia (Hippophae rhamnoides L.): A multipurpose plant." HortTechnology, 6(4), 370–380.
-  - V. H. Bojkov et al. (2020). "Sea buckthorn in agroforestry and ecological restoration." Agroforestry Systems, 94(5), 1847–1861.
+  - V. H. Bojkov et al. (2020). "[[comparison-aronia-vs-goji-vs-sea-buckthorn]] in agroforestry and [[mycorrhizal-fungi-ecological-restoration]]." Agroforestry Systems, 94(5), 1847–1861.
   - E. P. Kallio et al. (2002). "Vitamin C, flavonoids, and phenolic acids in sea buckthorn." Journal of Agricultural and Food Chemistry, 50(10), 3004–3009.
   - S. C. Sabir et al. (2005). "psilocybin-psilocin-chemistry-and-pharmacology-emcdda of Hippophae rhamnoides." Natural Product Reports, 22(6), 695–711.
 ---
@@ -28,16 +28,16 @@ least six distinct roles simultaneously:
 **[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and timber species, providing a nitrogen-enriched microsite.
 
 **Windbreak and soil stabilization:** The dense, thorny growth habit makes sea buckthorn
-an excellent windbreak and shelterbelt species. Its extensive root system binds soil on
+an excellent [[windbreak-and-shelterbelt-design]] species. Its extensive root system binds soil on
 slopes, coastal dunes, and riparian zones, preventing erosion.
 
-**Wildlife habitat:** The thorny thickets provide nesting sites and winter cover for
+**[[hemenway-backyard-wildlife-habitat]]:** The thorny thickets provide nesting sites and winter cover for
 birds. The persistent berries are an important winter food source for thrushes,
 waxwings, and other frugivorous birds, supporting wildlife through lean months.
 
 **Pioneer species:** Sea buckthorn establishes rapidly on degraded, infertile, or saline
 sites, [[hamilton-composting-and-organic-matter-management]] and nitrogen content for subsequent plantings. It is
-widely used in mine reclamation and coastal restoration.
+widely used in mine reclamation [[mangrove-ecosystems-and-coastal-restoration]].
 
 **Food production:** The nutrient-dense berries provide a high-value yield that can be
 processed into juices, oils, preserves, and supplements, creating economic returns from

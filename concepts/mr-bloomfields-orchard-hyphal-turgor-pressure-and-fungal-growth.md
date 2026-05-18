@@ -1,5 +1,5 @@
 ---
-title: "Mr Bloomfield's Orchard: Hyphal Turgor Pressure and Fungal Growth"
+title: "Mr Bloomfield's Orchard: [[hyphal-turgor-pressure-fungal-growth]] [[evaporative-demand-and-fungal-growth]]"
 source: >-
   mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 source_author: Nicholas P. Money
@@ -25,7 +25,7 @@ than parasitism, which means [[cordyceps-insect-pathogenic-fungi]] retain genes 
 on a daily basis. This genetic conservation suggests they still deploy these
 enzymes occasionally, preserving a biochemical toolkit inherited from their
 saprobic ancestors. Researchers have repeatedly attempted to neutralize
-pathogenic fungi by knocking out individual enzyme genes, only to discover that
+[[onygenales-keratinophilic-systemic-pathogenic-fungi]] by knocking out individual enzyme genes, only to discover that
 fungal flexibility is the "enemy of the researcher."
 
 ## Gene Disruption Experiments: No Magic Bullet
@@ -35,7 +35,7 @@ waxy plant cuticle — did not prevent fungi from infecting plants. The fungi
 simply produced other cutinases, and the cuticle itself proved to be a
 relatively insignificant mechanical barrier. Similarly, disrupting the genes
 encoding plant cell wall-degrading enzymes failed to halt infection. The same
-pattern appeared with *[[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]. A proton pump embedded
+pattern appeared with *[[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]. A [[bloomfield-hyphal-proton-pump-nutrient-uptake-electrical-biology]] embedded
 in the plasma membrane actively exports hydrogen ions (H⁺) out of the cell,
 creating a charge differential — the interior becomes electrically negative
 relative to the exterior. Carrier proteins exploit this gradient through
@@ -50,7 +50,7 @@ Because osmosis continually drives water into the cytoplasm, hyphae must cope
 with constant inward water flow. They manage this by becoming pressurized — the
 rigid cell wall resists expansion, and the resulting hydrostatic pressure
 (turgor) builds to a few atmospheres. For roughly a century, mycologists
-assumed that this turgor pressure was the primary engine driving hyphal tip
+assumed that this turgor pressure was the primary engine driving [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
 expansion: the wall was thought to yield at its weakest point (the tip), and
 internal pressure pushed new cell material outward.
 
@@ -62,7 +62,7 @@ the water molds actually grew *faster* — not slower. This striking result
 challenged the century-old dogma that turgor drives tip expansion and
 suggested that other forces — perhaps the exocytosis of vesicles delivering
 new wall and membrane material at the tip — play a more central role in
-directing hyphal growth than simple hydrostatic pressure.
+directing [[bloomfield-fungal-biology-and-hyphal-growth]] than simple hydrostatic pressure.
 
 ## Implications
 

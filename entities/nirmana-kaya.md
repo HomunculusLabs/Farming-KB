@@ -22,7 +22,7 @@ It governs the return from visionary experience back into embodied, everyday rea
 
 - **Tradition**: Tibetan Buddhism (Vajrayana)
 - **Category**: Tri-Kaya doctrine — third body
-- **Bardo Stage**: Third Bardo (Sidpa Bardo)
+- **Bardo Stage**: [[leary-third-bardo-re-entry]] ([[sidpa-bardo]])
 - **Nature**: Practical, incarnate, embodied
 
 ## Key Facts
@@ -31,7 +31,7 @@ It governs the return from visionary experience back into embodied, everyday rea
 
 2. It corresponds to the historical Buddha's manifestation in human form as a teaching presence.
 
-3. In the Bardo Thodol, the Nirmana-Kaya stage is the process of re-entering the cycle of rebirth (Sangsara).
+3. In [[the-bardo-thodol-as-living-guide]], the Nirmana-Kaya stage is the process of re-entering the cycle of rebirth (Sangsara).
 
 4. The Third Bardo involves the compelling impulse to reincarnate and the visions of possible rebirth realms.
 
@@ -45,11 +45,11 @@ It governs the return from visionary experience back into embodied, everyday rea
 
 9. In the psychedelic context, Nirmana-Kaya corresponds to the comedown phase and reintegration.
 
-10. The quality of one's Nirmana-Kaya expression determines the lasting benefit of the psychedelic experience.
+10. The quality of one's Nirmana-Kaya expression determines the lasting benefit of the [[leary-psychedelic-experience-bardo-mapping]].
 
 ## Relevance to Psychedelic Studies
 
-In *The Psychedelic Experience*, the Nirmana-Kaya maps to the re-entry phase of a psychedelic session.
+In *The Psychedelic Experience*, the Nirmana-Kaya maps to the re-entry phase of a [[psychedelic-session-instructions]].
 
 As the drug effects diminish, the voyager faces the challenge of integrating their visionary insights into ordinary life.
 
@@ -96,6 +96,6 @@ This is the ultimate meaning of the Nirmana-Kaya — enlightenment expressed thr
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.
 - [[lama-anagarika-govinda]]. *Foundations of Tibetan Mysticism*.
 - Lama Kazi Dawa-Samdup (translator). *Bardo Thodol*.

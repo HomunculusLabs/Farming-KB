@@ -18,13 +18,13 @@ mechanisms producing reactive cation radicals.
 
 ## Lignin Peroxidase (LiP) in PAH Oxidation
 
-The extracellular peroxidase LiP exhibits a higher redox potential than
+The extracellular [[singh-lignin-peroxidase-lip-fungal-degradation]] exhibits a higher redox potential than
 other peroxidases, making it a superior oxidant of PAHs. LiP oxidizes
 PAHs with an ionization potential (IP) of less than about 8 eV in the
 presence of H2O2 or H2O2-generating enzyme systems. Compounds I and II
 of the LiP catalytic cycle differ in their ability to oxidize PAHs;
 compound I oxidizes substrates of higher redox potential than compound
-II. Addition of veratryl alcohol (VA) enhances the rate and extent of
+II. Addition of [[fungal-lignin-peroxidase-veratryl-alcohol]] (VA) enhances the rate and extent of
 PAH degradation by mediating LiP to form cation radicals.
 
 ## Veratryl Alcohol Mediation
@@ -80,7 +80,7 @@ across different PAH structures.
 ## White-Rot Fungi Producing MnP and Laccase
 
 Certain white-rot fungi produce MnP and laccase in the absence of LiP,
-including Ceriporiopsis subvermispora, Phlebia brevispora, Panus
-tigrinus, Rigidoporus lignosus, Stereum hirsutum, and Ganoderma
+including [[ceriporiopsis-subvermispora]], Phlebia brevispora, Panus
+tigrinus, Rigidoporus lignosus, [[stereum-hirsutum]], and Ganoderma
 valesiacum. Most species express peroxidases and laccases as several
 isoenzymes. The glycosylated nature of [[singh-ligninolytic-enzymes-fungal-bioremediation]] increases

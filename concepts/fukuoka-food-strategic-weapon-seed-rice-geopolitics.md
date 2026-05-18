@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Food Strategic Weapon Seed Rice Geopolitics
+title: [[fukuoka-food-strategic-weapon]] Weapon Seed [[fukuoka-seed-war-food-strategic-weapon-hybrid-rice-geopolitics]]
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: masanobu-fukuoka
 topics: [food-security, geopolitics, seed-sovereignty, natural-farming, agricultural-policy]
@@ -7,7 +7,7 @@ topics: [food-security, geopolitics, seed-sovereignty, natural-farming, agricult
 
 # Fukuoka's Food as Strategic Weapon: Seed Rice and Geopolitical Power
 
-Masanobu Fukuoka advanced a provocative argument: that food, and
+[[masanobu-fukuoka]] advanced a provocative argument: that food, and
 particularly seed grain, functions as a strategic weapon in international
 relations.
 He observed that nations and empires have historically used control of
@@ -20,7 +20,7 @@ Fukuoka created a rice strain he called "Happy Hill," a hardy variety
 with wild rice genetics that was also one of the highest-yielding strains
 in the world.
 He calculated its exponential multiplication potential: a single head of
-Happy Hill rice, sent to a food-scarce country and sown over a
+[[fukuoka-happy-hill-rice-breeding-philosophy]], sent to a food-scarce country and sown over a
 ten-square-yard area, would yield 5,000 grains in one year.
 These would be enough to sow a half-acre the following year, fifty acres
 two years hence, and 7,000 acres in the fourth year.
@@ -48,7 +48,7 @@ external inputs they cannot produce themselves.
 This dependency, Fukuoka warned, is not accidental but designed.
 The [[biological-nitrogen-fixation-agriculture]], and [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]] through high-yield
 varieties, irrigation, and chemical inputs.
-While the Green Revolution did increase gross production in the short
+While the [[fukuoka-critique-green-revolution]] did increase gross production in the short
 term, Fukuoka argued that it accomplished this by converting
 self-sufficient farming communities into dependent consumers of
 industrial inputs.
@@ -75,7 +75,7 @@ to disease and climate disruption.
 A single pathogen could devastate a monoculture of identical plants,
 while diverse populations contained natural resistance.
 
-The control of seed varieties by corporations and research institutions,
+The control of seed varieties by corporations and [[mycological-research-institutions]],
 Fukuoka argued, represented the final stage in the weaponization of food.
 When farmers could no longer save their own seed but were legally or
 technologically prevented from doing so, food sovereignty was eliminated

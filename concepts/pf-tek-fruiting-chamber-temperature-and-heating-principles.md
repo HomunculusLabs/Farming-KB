@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Fruiting Chamber Temperature And Heating Principles
+title: Pf [[pf-tek-fruiting-chamber]] Temperature And Heating Principles
 created: 2026-04-28
 tags: [mycology, pf tek, duggar-mushroom-growing-history-and-methods
 date: 2026-04-28
@@ -46,10 +46,10 @@ reported seeing the fungi growing perfectly at temperatures even cooler than
 When grown at warm or heated room temperature, they grow very fast. The
 recommended range is between 65F and the upper 80sF (18-31C).
 
-The biological rationale is that in nature, Psilocybe cubensis fruits during
+The biological rationale is that in nature, [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] fruits during
 warm, humid conditions in subtropical and tropical grasslands. However, the
 cultivated environment of the terrarium is fundamentally different from the
-open air of a tropical pasture. In nature, warm air carries more moisture from
+[[open-air-mushroom-culture]] of a [[tropical-pasture-grass-forage-species]]. In nature, warm air carries more moisture from
 the surrounding environment. In a sealed terrarium, warm air only draws
 moisture out of the limited internal reservoir.
 

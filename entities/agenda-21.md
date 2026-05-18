@@ -7,7 +7,7 @@ tags: [policy, sustainability, united-nations, action-plan]
 
 ## Description
 
-Agenda 21 is the comprehensive global action plan for sustainable development adopted at the 1992 United Nations Conference on Environment and Development (Earth Summit) in Rio de Janeiro, Brazil. The "21" refers to the 21st century. It was the first global plan to comprehensively address the relationship between environmental protection and economic development at local, national, and international levels.
+Agenda 21 is the comprehensive global action plan for sustainable development adopted at the 1992 [[new-united-nations-concept]] Conference on Environment and Development (Earth Summit) in Rio de Janeiro, Brazil. The "21" refers to the 21st century. It was the first global plan to comprehensively address the relationship between [[fungal-melanin-environmental-protection-stress-resistance-gadd]] and economic development at local, national, and international levels.
 
 ## Classification
 
@@ -27,7 +27,7 @@ Agenda 21 is the comprehensive global action plan for sustainable development ad
 
 ## Relevance to Cultivation and Mycology
 
-Agenda 21 created the international policy context for promoting [[mushroom-cultivation]] as a sustainable development tool. Under its framework, organizations like ZERI developed projects that use mushroom cultivation to address multiple Millennium Development Goals simultaneously — poverty reduction, food security, environmental sustainability, and economic development. The Hong Kong government's substitution of mushroom cultivation for poultry farming after the avian flu crisis exemplifies an Agenda 21-aligned response.
+Agenda 21 created the international policy context for promoting [[mushroom-cultivation]] as a sustainable development tool. Under its framework, organizations like ZERI developed projects that use [[accessible-mushroom-cultivation-for-disabilities]] to address multiple Millennium Development Goals simultaneously — poverty reduction, food security, environmental sustainability, and economic development. The Hong Kong government's substitution of [[mushroom-cultivation-for-disabilities-training-program]] [[natural-free-range-poultry-farming]] after the avian flu crisis exemplifies an Agenda 21-aligned response.
 
 ## References
 
@@ -74,7 +74,7 @@ particularly productive in generating new insights.
 The study of Agenda 21 intersects with several related fields.
 Ecological principles provide context for understanding broader
 system dynamics. The practical applications extend beyond the
-immediate domain into areas of sustainable design and resource
+immediate domain into areas of [[ozier-pdc-maslows-hierarchy-sustainable-design]] and resource
 management that affect communities worldwide.
 
 ## Practical Applications and Methods

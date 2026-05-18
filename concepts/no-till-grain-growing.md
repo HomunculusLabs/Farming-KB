@@ -1,5 +1,5 @@
 ---
-title: No-Till Grain Growing (Fukuoka Method)
+title: No-Till [[jeavons-grain-growing-mini-farms]] (Fukuoka Method)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -13,9 +13,9 @@ Updated: 2026-04-18
 
 Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
 
-Masanobu Fukuoka's no-till (no-work) method of [[hamilton-composting-and-organic-matter-management]] to the field
+[[masanobu-fukuoka]]'s no-till (no-work) method of [[hamilton-composting-and-organic-matter-management]] to the field
 3. **No weeding**: Weeds are questioned rather than automatically removed. If the desired plant is not harmed, why pull the weed?
-4. **No pesticides**: Natural balances and biodiversity manage pests and diseases
+4. **No pesticides**: Natural balances and biodiversity manage [[mushroom-pests-and-diseases]]
 
 ## The Rethinking Question
 
@@ -36,7 +36,7 @@ This comparison powerfully argues for plant-based diets in terms of land efficie
 
 The Fukuoka system is extraordinarily energy-efficient:
 
-- **Human labor**: A farmer eating a 2,000-calorie per day diet can produce 1,300 pounds (590 kg) of rice (22 bushels) on a quarter acre
+- **Human labor**: A farmer eating a 2,000-calorie per day diet can produce 1,300 pounds (590 kg) of rice (22 bushels) on a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]
 - **Animal labor**: Traditional animal-powered farming uses at least 5x as many calories for the same results
 - **Tractor farming**: Uses at least 10x as many calories as human labor
 - **Conclusion**: Human-powered no-till is the most energy-efficient food [[clay-seed-pellet-production-method-concrete-mixer]] known
@@ -47,12 +47,12 @@ The Fukuoka system is extraordinarily energy-efficient:
 
 1. **Level the ground**
 2. **Build a low mud retaining wall** around the plot that can hold 2 inches (5 cm) of water
-3. **Soil conditioning** (first year only): Chisel plow if soil is extremely compacted, then spread lime or dolomite and a thin layer of chicken manure and water it in
+3. **Soil conditioning** (first year only): Chisel plow if soil is extremely compacted, then spread lime or dolomite and a thin layer of [[chicken-manure]] and water it in
 4. **Boundary planting**: On the outer perimeter, grow weed-control plants such as comfrey, lemongrass, or citrus, mulched with sawdust
 
 ### No-Till Rice Strategy — Annual Cycle
 
-1. **Plant combinations**: Each plot always grows rice and white clover, plus one additional grain: rye, barley, millet, winter wheat, or oats
+1. **Plant combinations**: Each plot always grows rice and [[fukuoka-white-clover-cover-crop-system]], plus one additional grain: rye, barley, millet, winter wheat, or oats
 
 | Crop | Seed per acre |
 |------|--------------|

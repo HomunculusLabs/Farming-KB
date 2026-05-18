@@ -16,7 +16,7 @@ The endoplasmic reticulum (ER) is an extensive network of folded membranes that 
 - **Domain**: Organelle (membrane-bound)
 - **Type**: Endomembrane system organelle
 - **Subtypes**: Rough endoplasmic reticulum (RER), Smooth endoplasmic reticulum (SER)
-- **Connectivity**: Extends from nucleus to cell membrane
+- **Connectivity**: Extends from nucleus to [[plant-cell-membrane-transport-proteins]]
 
 ## Structure
 
@@ -58,7 +58,7 @@ Toxic compounds are chemically modified in the smooth ER to reduce their harmful
 
 ### Vesicle Formation
 
-Vesicles bud off from the ER membrane, carrying proteins and lipids to the Golgi apparatus for further processing. Waste-containing vesicles transport toxins out of the cell.
+Vesicles bud off from the ER membrane, carrying proteins and lipids to the [[golgi-apparatus]] for further processing. Waste-containing vesicles transport toxins out of the cell.
 
 ## Key Facts
 
@@ -72,14 +72,14 @@ Vesicles bud off from the ER membrane, carrying proteins and lipids to the Golgi
 
 - Phospholipid production in the ER is essential for building all cellular membranes, including those of root hair cells that absorb nutrients
 - Detoxification capacity of the ER determines how well a plant can handle heavy metals, pesticide residues, and other soil contaminants
-- In fungi, the ER similarly processes and secretes extracellular enzymes that decompose organic substrate — critical for composting and nutrient cycling
+- In fungi, the ER similarly processes and secretes [[fungal-extracellular-enzymes]] that decompose organic substrate — critical for [[ozier-pdc-composting-and-nutrient-cycles]] cycling
 - Protein transport through the ER is necessary for producing defense-related proteins that protect against pathogens
 - Stress conditions (heat, drought, salinity) can cause ER stress, triggering the unfolded protein response and potentially reducing plant productivity
-- Understanding ER function helps explain how nutrient availability affects membrane synthesis and, consequently, cell division and growth
+- Understanding ER function helps explain how [[chelation-and-nutrient-availability]] affects membrane synthesis and, consequently, cell division and growth
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
 
 ## See Also
 

@@ -9,7 +9,7 @@ tags: [organelle, cell-biology, protein-processing, packaging, plant-cell]
 
 ## Description
 
-The Golgi apparatus (also called the Golgi complex) is a membrane-enclosed organelle that serves as the packaging and shipping center of the plant cell. Named after the Italian histologist Camillo Golgi who discovered it, the Golgi apparatus receives proteins and other molecules from the endoplasmic reticulum, modifies them, sorts them, and dispatches them to their final destinations inside or outside the cell.
+The Golgi apparatus (also called the Golgi complex) is a membrane-enclosed organelle that serves as the packaging and shipping center of the plant cell. Named after the Italian histologist Camillo Golgi who discovered it, the Golgi apparatus receives proteins and other molecules from the [[endoplasmic-reticulum]], modifies them, sorts them, and dispatches them to their final destinations inside or outside the cell.
 
 ## Classification
 
@@ -37,7 +37,7 @@ Proteins synthesized in ribosomes and transferred through the endoplasmic reticu
 
 The Golgi apparatus assembles polysaccharides (long sugar chains) needed for:
 - Cellulose production (the structural component of cell walls)
-- Root exudates (compounds secreted by roots into the rhizosphere)
+- [[mycorrhiza-root-exudates]] (compounds secreted by roots into the rhizosphere)
 
 ### Sorting and Tagging
 
@@ -46,7 +46,7 @@ Molecules are chemically tagged with destination codes that ensure they reach th
 ### Vesicle Transport
 
 Finished molecules are loaded into vesicles for transport:
-- Vesicles containing functional products merge with the cell membrane and empty their contents
+- Vesicles containing functional products merge with the [[plant-cell-membrane-transport-proteins]] and empty their contents
 - Vesicles containing waste material fuse with the vacuole
 
 ## Transport Mechanism
@@ -66,10 +66,10 @@ Finished molecules are loaded into vesicles for transport:
 
 ## Relevance to Cultivation and Mycology
 
-- Root exudates assembled in the Golgi apparatus are the primary means by which plants attract beneficial soil microbes, including mycorrhizal fungi and nitrogen-fixing bacteria
+- Root exudates assembled in the Golgi apparatus are the primary means by which plants attract beneficial soil microbes, including [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] nitrogen-fixing bacteria
 - Cellulose production depends on Golgi-processed polysaccharides — cellulose is the structural backbone of plant cell walls
 - Glycoproteins produced by the Golgi apparatus play roles in cell signaling and plant immune responses
-- In fungi, the Golgi apparatus performs similar packaging functions and is critical for secretion of digestive enzymes that break down organic matter
+- In fungi, the Golgi apparatus performs similar packaging functions and is critical for secretion of digestive enzymes that break down [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 - Understanding Golgi function illuminates how plants produce and secrete compounds that shape the soil microbiome
 
 ## Camillo Golgi
@@ -78,7 +78,7 @@ Camillo Golgi (1843–1926) was an Italian physician and histologist who discove
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
 
 ## See Also
 

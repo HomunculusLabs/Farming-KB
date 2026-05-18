@@ -1,5 +1,5 @@
 ---
-title: Polyethylene Sheeting Fruiting Chamber Passive Humidity
+title: [[polyethylene-sheeting-fruiting-chamber-simple-stackable-design]] Chamber Passive Humidity
 aliases: mushroom-fruiting-chamber-design, stackable fruiting bin, passive-humidity-fruiting-chamber-stackable-plastic-bin-design
 tags: [mycology, fruiting-chamber, cultivation, humidity, polyethylene, passive-humidity, psilocybe]
 sources:
@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-The polyethylene sheeting fruiting chamber is a minimalist, passive-humidity approach to mushroom fruiting that requires no mechanical humidifiers, cool-mist devices, or automated systems. Developed by early Dutch cultivators, this method relies on evaporative moisture from cased trays to maintain adequate humidity within a simple clear plastic bin covered with polyethylene sheeting.
+The polyethylene sheeting fruiting chamber is a minimalist, passive-humidity approach to [[advanced-mushroom-fruiting-techniques]] that requires no mechanical humidifiers, cool-mist devices, or automated systems. Developed by early Dutch cultivators, this method relies on evaporative moisture from cased trays to maintain adequate humidity within a simple clear [[plastic-bin-fruiting-chamber-mushroom-cultivation]] covered with polyethylene sheeting.
 
 ## Design and Construction
 
@@ -24,7 +24,7 @@ The system uses clear plastic storage bins that are:
 
 ### Ventilation
 
-Air exchange is achieved through small holes melted in the sides of the bins:
+[[growing-gourmet-growing-room-ventilation-air-exchange]] is achieved through small holes melted in the sides of the bins:
 
 - Holes are created using a heated tool (soldering iron or heated nail)
 - Mesh or filter material can be placed over holes to exclude fungus gnats and other flying insects
@@ -32,7 +32,7 @@ Air exchange is achieved through small holes melted in the sides of the bins:
 
 ### Capacity
 
-A standard bin holds approximately **five cased trays** arranged side by side. The evaporation from five trays' worth of casing surface area is sufficient to maintain proper humidity inside the enclosed bin without any supplemental humidification.
+A standard bin holds approximately **five cased trays** arranged side by side. The evaporation from five trays' worth of [[abort-dead-pinhead-cleanup-casing-surface-hygiene]] area is sufficient to maintain proper humidity inside the enclosed bin without any supplemental humidification.
 
 ## Operating Principle
 
@@ -82,7 +82,7 @@ Cold shocking is applied selectively based on species difficulty:
 | Time from pins to mature mushrooms | 5-7 days |
 | Typical flush count | 3 flushes (normal management) |
 | Maximum flush count | 5-6 flushes (optimal watering) |
-| *P. mexicana* flush pattern | One large flush + one small flush |
+| *P. mexicana* [[psilocin-biosynthetic-accumulation-flush-pattern-bigwood-beug]] | One large flush + one small flush |
 
 *P. mexicana* tends to produce a single dominant flush followed by a much smaller second flush, while other species produce more consistent flush-to-flush yields.
 

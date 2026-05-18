@@ -36,16 +36,16 @@ Pongamia is a leguminous tree genus, with the primary species *[[indian-beech]].
 - Seed production begins at 4-7 years of age
 - Trees can live 80-100+ years
 - Coppices readily when cut, regenerating from the stump
-- Seed cake (after oil extraction) makes excellent organic fertilizer
+- Seed cake (after oil extraction) makes excellent [[complete-organic-fertilizer]]
 
 ## Source References
 
-- [[bill-mollison]], *Permaculture: A Designer's Manual* — Chapter 11 (Dryland Strategies), shelter and mulch tree species lists
+- [[bill-mollison]], *Permaculture: A Designer's Manual* — Chapter 11 ([[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]), shelter and mulch tree species lists
 
 ## Overview
 
 Pongamia represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -66,7 +66,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pongamia finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -74,7 +74,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -95,7 +95,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pongamia and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

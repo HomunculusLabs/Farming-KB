@@ -14,13 +14,13 @@ In *Gardening When It Counts*, [[steve-solomon]] provides one of the clearest pr
 
 ### Soil Humus C/N
 
-All healthy soil contains humus—the stable, dark, decomposed residue of organic matter. Regardless of climate, soil type, or location, **soil humus has a C/N ratio of approximately 12:1**. This is the stable equilibrium point that soil biology maintains. Every amendment added to soil will be decomposed until its C/N approaches this ratio, and the processes involved have major consequences for soil health.
+All healthy soil contains humus—the stable, dark, decomposed residue of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Regardless of climate, soil type, or location, **soil humus has a C/N ratio of approximately 12:1**. This is the stable equilibrium point that soil biology maintains. Every amendment added to soil will be decomposed until its C/N approaches this ratio, and the processes involved have major consequences for soil health.
 
 ### What C/N Means
 
 The C/N ratio expresses the proportion of carbon (carbohydrate/energy) to nitrogen (protein/nutrient) in any organic material:
 - **High C/N (>12:1)**: Carbon-rich, nitrogen-poor (e.g., sawdust, straw, dry leaves, paper)
-- **Low C/N (<12:1)**: Nitrogen-rich, carbon-poor (e.g., fresh manure, seed meal, legume greens)
+- **Low C/N (<12:1)**: Nitrogen-rich, carbon-poor (e.g., fresh manure, [[cotton-seed-meal]], legume greens)
 - **C/N = 12:1**: Balanced—this is soil humus itself
 
 ## What Happens When You Amend Soil
@@ -52,7 +52,7 @@ When nitrogen-rich material (C/N below 12:1) enters the soil, the opposite occur
 
 **Net effect**: Short-term fertility boost, but long-term soil degradation. This is exactly the same mechanism by which [[query-how-do-i-start-growing-hazelnut-bushes]], and when it is all over we have slightly reduced the soil's humus content, a less-healthy microbial population, and poorer tilth."
 
-This means that excessive use of even organic nitrogen-rich fertilizers (like poultry manure or seed meals) can degrade soil structure over time—exactly the same problem caused by synthetic chemical fertilizers, just slower.
+This means that excessive use of even organic nitrogen-rich fertilizers (like poultry manure or seed meals) can degrade soil structure over time—exactly the same problem caused by synthetic [[cannabis-chemical-fertilizers]], just slower.
 
 ## C/N Ratios of Common Materials
 
@@ -83,4 +83,4 @@ This means that excessive use of even organic nitrogen-rich fertilizers (like po
 |----------|----------------|
 | Seaweed | ~19:1 |
 | Fresh [[coleman-mobile-greenhouse-green-manure-soil-building]] | ~15:1 |
-| Green grass clippings | ~12:1 |
+| [[knf-green-grass-liquid-fertilizer]] clippings | ~12:1 |

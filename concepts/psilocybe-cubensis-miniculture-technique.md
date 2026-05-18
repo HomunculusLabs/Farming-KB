@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Cubensis Miniculture Technique
+title: [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] Technique
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 extracted: 2026-05-09
 type: concept
@@ -9,9 +9,9 @@ wikilinks: [psilocybin-psilocin-variation-across-flushes, alkaloid-distribution-
 
 # Psilocybe cubensis Miniculture Technique
 
-The "miniculture" method developed by Bigwood and Beug (1982) is a scaled-down [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] that uses small jars rather than large trays or monotubs. Originally designed for controlled research on alkaloid variation across flushes, this approach offers advantages for experimental reproducibility, space efficiency, and [[hplc-analysis-of-psilocybin-and-psilocin]] levels across successive flushes. The method was based on:
+The "miniculture" method developed by Bigwood and Beug (1982) is a scaled-down [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] that uses small jars rather than large trays or monotubs. Originally designed for controlled research on alkaloid [[psilocybin-psilocin-variation-across-flushes]], this approach offers advantages for experimental reproducibility, space efficiency, and [[hplc-analysis-of-psilocybin-and-psilocin]] levels across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. The method was based on:
 
-- The rye-grain medium originally described by San Antonio (1971) for commercial mushroom cultivation.
+- The rye-grain medium originally described by [[jp-san-antonio]] (1971) for [[history-of-commercial-mushroom-cultivation]].
 - Refinements by Oss and Oeric (1976) for [[psilocybe-cubensis-cultivation]].
 - Further adaptation by Bigwood and Beug to a "miniculture" scale using half-pint jars.
 
@@ -30,7 +30,7 @@ The miniculture setup requires minimal equipment:
 
 ### Sterilization and Inoculation
 
-- **Autoclave or pressure cooker**: For sterilizing jars at 15 PSI (121°C) for 45–60 minutes.
+- **Autoclave or [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]**: For sterilizing jars at 15 PSI (121°C) for 45–60 minutes.
 - **Agar cultures**: Mycelium culture maintained on various agar media for stock and inoculation.
 - **Inoculation tools**: Sterile syringe or inoculation loop for transferring mycelium from agar to grain.
 

@@ -1,5 +1,5 @@
 ---
-title: "Pf Tek Contaminant Identification Non Germination Troubleshooting"
+title: "Pf Tek [[contaminant-identification-and-prevention]] [[pf-tek-non-germination-troubleshooting]]"
 tags: [mycology, cultivation, pf-tek, contamination, troubleshooting, sterile-technique, bacteria, mold]
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 created: 2026-05-11
@@ -10,7 +10,7 @@ created: 2026-05-11
 ## Overview
 
 Contamination is the most common cause of failure in the [[pf-tek]] cultivation
-method. Psilocybe Fanaticus (PF) identified the key [[comparison-pressure-canning-vs-water-bath-canning]]) and its
+method. [[pf-tek-psilocybe-fanaticus]] (PF) identified the key [[comparison-pressure-canning-vs-water-bath-canning]]) and its
 exposure of jars during inoculation make contamination awareness critical.
 This page covers contaminant types, the control jar technique, and systematic
 troubleshooting for spore non-germination.
@@ -87,7 +87,7 @@ guaranteed syringes to be clean and viable with replacement or refund.
 
 ## Sterilization Best Practices
 
-PF TEK uses steam sterilization (not pressure canning) because the substrate
+PF TEK uses [[growing-gourmet-atmospheric-steam-sterilization]] (not [[pressure-canning-food-preservation]]) because the substrate
 contains no grain requiring thorough cooking. Key practices include maintaining
 a gentle boil for at least one hour in a tightly covered pot, keeping jar lids
 loose during sterilization for steam penetration, and using a steamer insert
@@ -100,7 +100,7 @@ that halts at a consistent line with no contamination visible.
 When mycelium colonizes but then stops with no visible contamination, the
 cause is almost certainly dried substrate. Growth halts at a consistent line
 and the substrate may appear lighter than expected. The remedy is to increase
-water content in the substrate formula. Keep notes on formulations, as
+water content in the [[pf-substrate-formula]]. Keep notes on formulations, as
 vermiculite coarseness varies between brands and affects water-holding
 capacity.
 

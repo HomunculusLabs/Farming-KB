@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 **Psilocybe czechica** is a bluing [[baeocystin]]: present in small quantities
 
 The psychoactive potency appears moderate, comparable to other European grassland Psilocybe species such as [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]; larger, more conical cap, different spore dimensions, typically more potent.
-- **[[psilocybin]]-containing mushrooms, **P. czechica** is controlled under drug legislation. In the Czech Republic, psilocybin and psilocin are scheduled substances, and the collection and possession of psychoactive mushrooms is restricted.
+- **[[psilocybin]]-containing mushrooms, **P. czechica** is controlled under drug legislation. In the Czech Republic, [[hplc-analysis-of-psilocybin-and-psilocin]] are scheduled substances, and the collection and possession [[historical-and-cultural-uses-of-psychoactive-mushrooms]] is restricted.
 
 ## See Also
 
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

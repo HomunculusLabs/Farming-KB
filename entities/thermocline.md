@@ -41,13 +41,13 @@ A thermocline is a thin but distinct layer in a body of water where temperature 
 ### Production Impact
 - Gains in yield of 2-5 times are common where ponds are regulated to optimise temperature
 - Heating devices can extend fish growing periods by 30-40%
-- Temperature management is as critical as nutrient management for yield
+- [[cervantes-reservoir-temperature-management]] is as critical as nutrient management for yield
 
 ## Relevance to Cultivation and Mycology
 - Temperature stratification concepts apply directly to [[mushroom-fruiting-chamber-design]], where thermal gradients affect pinning and fruit body development
 - Compost heating systems used for ponds are identical to the hot composting methods used to prepare mushroom substrate
 - The principle of creating microclimate refuges in ponds translates to creating fruiting zones in [[mushroom-cultivation]]
-- Thermosiphon and passive solar heating techniques used in aquaculture can be adapted for mushroom house climate control
+- Thermosiphon and [[mollison-designers-passive-solar-heating-building-design]] techniques used in aquaculture can be adapted for mushroom house climate control
 
 ## References
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 13.
@@ -56,14 +56,14 @@ A thermocline is a thin but distinct layer in a body of water where temperature 
 ## Practical Applications
 
 The study of thermocline has significant implications
-for sustainable agriculture and ecological management.
+[[mushroom-cultivation-for-sustainable-agriculture]] and [[solomon-gardening-aikido-pest-philosophy-ecological-management]].
 Practitioners can apply these principles to improve
 system resilience and productivity.
 
 ## Ecological Context
 
 Within broader ecological systems, thermocline
-interacts with multiple environmental factors. Understanding
+interacts with multiple [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Understanding
 these relationships is key to effective implementation
 and long-term sustainability of management practices.
 
@@ -76,7 +76,7 @@ properties relevant to permaculture design applications.
 
 ## Design Applications
 
-In permaculture design, thermocline informs
+[[ecological-succession-in-permaculture-design]], thermocline informs
 decisions about system layout, species selection, and
 management strategies. Proper integration enhances overall
 system resilience and productive capacity.

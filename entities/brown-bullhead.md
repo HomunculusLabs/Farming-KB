@@ -9,7 +9,7 @@ tags: [fish, aquaculture, permaculture, pond-culture, population-control]
 
 ## Description
 
-The brown bullhead is a small to medium-sized freshwater catfish native to North America. In permaculture aquaculture, it is notable for its natural breeding inhibition under crowded conditions -- a biological population control mechanism that makes it valuable in managed pond systems where preventing overpopulation is essential.
+The brown bullhead is a small to medium-sized freshwater catfish native to North America. In [[permaculture-aquaculture-guide]], it is notable for its natural breeding inhibition under crowded conditions -- a biological population control mechanism that makes it valuable in managed pond systems where preventing overpopulation is essential.
 
 ## Classification
 
@@ -23,7 +23,7 @@ The brown bullhead is a small to medium-sized freshwater catfish native to North
 
 ## Key Facts
 
-- Native to eastern North America from Canada to the Gulf Coast
+- Native to [[polypore-fungi-eastern-north-america]] from Canada to the Gulf Coast
 - Omnivorous bottom-feeder consuming insects, crustaceans, molluscs, plant matter, and detritus
 - Hardy species tolerant of warm water, low oxygen, and poor water quality
 - Typical adult size: 20-36 cm, weighing 0.2-1.5 kg
@@ -52,7 +52,7 @@ Mollison references feeding trials with brown bullhead where all fish were fed w
 
 ## Cultivation Notes
 
-- Excellent for small-scale pond culture due to self-regulating population dynamics
+- Excellent for small-scale pond culture due to self-regulating [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
 - Best managed at densities below 7,500/ha if breeding is desired
 - At higher densities, breeding suppression simplifies population management
 - Compatible with polyculture systems including other fish, mussels, and aquatic plants
@@ -60,7 +60,7 @@ Mollison references feeding trials with brown bullhead where all fish were fed w
 
 ## Related Species
 
-- Channel catfish (Ictalurus punctatus) -- larger, more commercially important relative
+- [[channel-catfish]] (Ictalurus punctatus) -- larger, more commercially important relative
 - Yellow bullhead (Ameiurus natalis) -- similar ecology
 - Black bullhead (Ameiurus melas) -- smaller, also tolerant of poor water quality
 
@@ -72,7 +72,7 @@ Mollison references feeding trials with brown bullhead where all fish were fed w
 ## Practical Applications
 
 The study of brown bullhead has significant implications
-for sustainable agriculture and ecological management.
+[[mushroom-cultivation-for-sustainable-agriculture]] and [[solomon-gardening-aikido-pest-philosophy-ecological-management]].
 Practitioners can apply these principles to improve
 system resilience and productivity.
 

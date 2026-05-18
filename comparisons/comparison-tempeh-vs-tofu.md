@@ -53,7 +53,7 @@ Tempeh and tofu are the two most important whole-soybean foods in global cuisine
 
 **Protein and calorie density**: Tempeh is substantially more calorie- and protein-dense than tofu because it retains all of the soybean's fat and carbohydrates. Tofu is essentially concentrated protein with most fat and carbs removed in the whey. For someone seeking maximum protein per serving, tempeh wins. For someone limiting calories, tofu may be preferable.
 
-**Fiber**: Tempeh retains all soybean fiber (~5.5g per 100g), while tofu contains almost none (~0.3g). The fiber in tempeh is partially broken down by fungal enzymes, making it more digestible than raw bean fiber.
+**Fiber**: Tempeh retains all soybean fiber (~5.5g per 100g), while tofu contains almost none (~0.3g). The fiber in tempeh is partially broken down by [[fungal-enzymes-in-decomposition]], making it more digestible than raw bean fiber.
 
 **Calcium**: Tofu (especially gypsum-set) is one of the best plant sources of calcium. Tempeh contains less calcium unless it has been fortified.
 
@@ -67,7 +67,7 @@ Tempeh and tofu are the two most important whole-soybean foods in global cuisine
 
 - **Texture range**: Silken (custard-like) → soft → medium → firm → extra-firm
 - **Behavior**: Absorbs marinades and sauces readily due to its porous, spongy structure
-- **Cooking methods**: Steaming, braising, stir-frying, deep-frying, scrambling, blending into smoothies/desserts
+- **[[comparison-biogas-digester-basics-vs-solar-cooking-methods]]**: Steaming, braising, stir-frying, deep-frying, scrambling, blending into smoothies/desserts
 - **Frying**: Develops a crispy golden crust; especially good when pressed, dusted with cornstarch, and pan-fried
 - **Scrambling**: Extra-firm tofu crumbled and pan-cooked with turmeric, nutritional yeast, and vegetables makes a popular egg substitute
 - **Soups**: Silken or soft tofu added at the last minute to miso soup, hot-and-sour soup, or Thai curries

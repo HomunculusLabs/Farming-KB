@@ -13,9 +13,9 @@ sources:
 **[[phenethylamine-chemistry-basics]] studies. Its complete inactivity despite sharing the 3,4-dimethoxy substitution pattern with active compounds like [[mda]]-entity|MDA demonstrates that:
 
 - Two methoxy groups alone are insufficient for psychedelic activity
-- The methylenedioxy bridge of MDA/MDMA contributes more than simple oxygen substitution
+- The methylenedioxy bridge of MDA/[[mdma]] contributes more than simple oxygen substitution
 - The alpha-methyl group of amphetamine is crucial for the psychedelic character of the MDA series
-- Three oxygen substituents (as in mescaline's 3,4,5-trimethoxy) appear to be the minimum for phenethylamine psychedelic activity
+- Three oxygen substituents (as in [[mescaline]]'s 3,4,5-trimethoxy) appear to be the minimum for phenethylamine psychedelic activity
 - The spatial arrangement matters enormously: 3,4-dimethoxy is inactive while 3,4,5-trimethoxy (mescaline) is the prototype
 
 ## Broader Research Context
@@ -25,7 +25,7 @@ The DMPEA/schizophrenia story is part of a larger pattern in [[dmmda-compound-pr
 
 ## Significance
 
-DMPEA's inclusion in PiHKAL is primarily educational -- it represents a landmark in the history of psychopharmacology and the scientific process of hypothesis testing. The transmethylation hypothesis, while ultimately incorrect, was a productive research program that advanced analytical chemistry and our understanding of amine metabolism. Shulgin includes it as a reminder that not every compound with an interesting backstory turns out to be psychoactive.
+DMPEA's inclusion in PiHKAL is primarily educational -- it represents a landmark in the history of psychopharmacology and the scientific process of hypothesis testing. The transmethylation hypothesis, while ultimately incorrect, was a productive [[hofmann-lsd-sandoz-research-program]] that advanced analytical chemistry and our understanding of amine metabolism. Shulgin includes it as a reminder that not every compound with an interesting backstory turns out to be psychoactive.
 ## Practical Applications
 
 DMPEA has a range of practical applications that make it relevant to
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

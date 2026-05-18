@@ -50,8 +50,8 @@ The "ready-to-till test" is a simple field method for determining whether soil i
 
 ## Relevance to Cultivation and Mycology
 
-- **Substrate moisture:** The tactile assessment principle applies to [[mushroom-substrate-preparation]] — substrate must be at the right moisture content before inoculation
-- **Casing layer:** Casing material must be at correct moisture for application; too wet causes anaerobic conditions
+- **[[pf-tek-substrate-moisture-diagnosis-and-correction]]:** The tactile assessment principle applies to [[mushroom-substrate-preparation]] — substrate must be at the right moisture content before inoculation
+- **Casing layer:** Casing material must be at correct moisture for application; too wet causes [[aact-ph-and-anaerobic-conditions]]
 - **Compost turning:** Compost should be at the right moisture for effective turning; the squeeze test is a related method for compost moisture assessment
 - **Outdoor beds:** Mushroom beds established in native soil require proper soil moisture for initial preparation
 - **General principle:** The concept of a "window" of correct moisture applies broadly across cultivation
@@ -64,8 +64,8 @@ The "ready-to-till test" is a simple field method for determining whether soil i
 
 ## Soil Health Context
 Understanding soil structure and management is essential for
-sustainable agriculture. Healthy soil provides the foundation
-for plant growth, water retention, and nutrient cycling.
+[[mushroom-cultivation-for-sustainable-agriculture]]. Healthy soil provides the foundation
+for plant growth, water retention, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Proper soil management practices improve long-term productivity
 and reduce the need for external inputs.
 
@@ -73,12 +73,12 @@ and reduce the need for external inputs.
 Successful implementation requires attention to local conditions
 including climate, soil type, and existing vegetation. Start with
 small test areas before scaling up. Monitor results over multiple
-growing seasons to assess effectiveness and adjust approaches
+[[jeavons-climate-adaptation-growing-seasons]] to assess effectiveness and adjust approaches
 based on observed outcomes.
 
 ## Environmental Benefits
 These practices contribute to improved soil ecosystem health,
 enhanced biodiversity, and reduced environmental impact.
-Soil organic matter increases over time, improving water
+[[humus-and-soil-organic-matter]] increases over time, improving water
 infiltration and reducing erosion. Biological activity thrives
 in well-managed soil systems.

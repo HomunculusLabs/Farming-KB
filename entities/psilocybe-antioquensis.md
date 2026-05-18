@@ -3,8 +3,8 @@ title: Psilocybe antioquensis
 created: 2026-04-28
 type: species
 tags:
-  - psilocybin-mushroom
-  - agaricales
+  - [[psilocybin-mushroom]]
+  - [[agaricales]]
   - hymenogastraceae
   - neotropical-fungi
   - colombian-species
@@ -20,7 +20,7 @@ sources:
 ## Taxonomy
 
 - **Kingdom:** Fungi
-- **Division:** Basidiomycota
+- **Division:** [[basidiomycota]]
 - **Class:** Agaricomycetes
 - **Order:** Agaricales
 - **Family:** Hymenogastraceae
@@ -48,7 +48,7 @@ Described by Guzmán from material collected in the department of Antioquia, Col
 
 ## Conservation Status
 
-Not formally assessed. Its restricted range in the Colombian Andes, an area subject to significant deforestation for agriculture, cattle grazing, and urban expansion, suggests potential vulnerability. Cloud forest habitats in Antioquia have experienced substantial fragmentation, which could threaten populations of this geographically limited species.
+Not formally assessed. Its restricted range in the Colombian Andes, an area subject to significant deforestation for agriculture, cattle grazing, and urban expansion, suggests potential vulnerability. [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]] habitats in Antioquia have experienced substantial fragmentation, which could threaten populations of this geographically limited species.
 ## Practical Considerations
 
 When working with Psilocybe antioquensis, several practical factors should be

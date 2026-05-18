@@ -9,7 +9,7 @@ tags: [amendment, fertilizer, organic-growing, soil-fertility]
 
 ## Description
 
-Alfalfa meal is a finely ground organic fertilizer and soil amendment made from dried alfalfa (Medicago sativa) plants. At [[four-season-farm]], it serves as the standard extra-boost fertilizer applied between greenhouse crops in the succession cropping cycle. Coleman values it not only for its effectiveness but also because it is an amendment farmers could theoretically produce themselves, aligning with his philosophy of locally based fertility programs.
+Alfalfa meal is a finely ground [[complete-organic-fertilizer]] and soil amendment made from dried alfalfa (Medicago sativa) plants. At [[four-season-farm]], it serves as the standard extra-boost fertilizer applied between greenhouse crops in the [[no-tillage-rice-barley-succession-cropping]] cycle. Coleman values it not only for its effectiveness but also because it is an amendment farmers could theoretically produce themselves, aligning with his philosophy of locally based fertility programs.
 
 ## Classification
 
@@ -30,7 +30,7 @@ Alfalfa meal is a finely ground organic fertilizer and soil amendment made from 
 ### Biological Activity
 - Feeds soil microorganisms as it decomposes
 - Stimulates biological activity in the root zone
-- Slow, steady nutrient release over 4 to 6 weeks
+- Slow, steady [[solomon-cool-climate-compost-soil-temperature-nutrient-release]] over 4 to 6 weeks
 - Improves soil structure through organic matter addition
 
 ## Role at Four Season Farm
@@ -64,7 +64,7 @@ For crops following heavy-feeding predecessors (spinach, claytonia), additional 
 |-----------|---------------|
 | Timing | Between crops, before replanting |
 | Method | Surface broadcast, then incorporate 2 inches deep |
-| Rate | Moderate, depends on soil test results |
+| Rate | Moderate, depends on [[interpreting-soil-test-results]] |
 | Frequency | Every succession cycle in greenhouse beds |
 | Complement | Always followed by compost application |
 
@@ -89,11 +89,11 @@ For crops following heavy-feeding predecessors (spinach, claytonia), additional 
 
 ## Relevance to Cultivation
 
-Alfalfa meal represents a key principle in Coleman's approach to soil fertility: the preference for modest, consistent, biologically active amendments over concentrated synthetic inputs. This is especially important in greenhouse systems where continuous cropping demands frequent fertility inputs, enclosed environments amplify risks of over-fertilization, and soil biological health must be maintained over years of intensive production.
+Alfalfa meal represents a key principle in Coleman's approach to soil fertility: the preference for modest, consistent, biologically active amendments over concentrated synthetic inputs. This is especially important in greenhouse systems where continuous cropping demands frequent fertility inputs, enclosed environments amplify risks of over-fertilization, and soil biological health must be maintained over years of [[mollison-designers-market-garden-intensive-production-design]].
 
 ## Source Reference
 
-Eliot Coleman, The Winter Harvest Handbook (Chelsea Green, 2009), Chapter 7: Soil Preparation, pp. 133-134. Also referenced in The New Organic Grower.
+Eliot Coleman, The [[eliot-coleman-and-the-winter-harvest-handbook]] (Chelsea Green, 2009), Chapter 7: Soil Preparation, pp. 133-134. Also referenced in The New Organic Grower.
 ## See also
 
 - [[deep-organic-farming]]

@@ -1,5 +1,5 @@
 ---
-title: Cover Crop Selection Guide
+title: Cover [[fukuoka-weed-succession-crop-selection-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -12,13 +12,13 @@ sources:
 
 ## Why Cover Crops
 
-Cover crops are planted specifically to build and hold soil and to smother weeds. Their leaves shield soil from hammering rains and carpet the earth with humus-building litter. Their roots drive deep into soil, loosening earth, drawing up nutrients, and placing organic matter farther down than even the deepest plowing. Many send roots 10 to 15 feet deep.
+[[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] planted specifically to build and hold soil and to smother weeds. Their leaves shield soil from hammering rains and carpet the earth with humus-building litter. Their roots drive deep into soil, loosening earth, drawing up nutrients, and placing [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] farther down than even the deepest plowing. Many send roots 10 to 15 feet deep.
 
 ## Selection Principles
 
 ### Diversity Is Key
 
-As in so much of ecological gardening, diversity provides the key. Seed a mélange of varieties and record which thrive. Each plant type secretes its own array of sugars and compounds from its roots, attracting a different community of soil organisms. The more species of [[cover-crop]] planted, the more varied the soil life's diversity, which subdues disease and boosts plant growth.
+As in so much of [[ecological-gardening-principles]], diversity provides the key. Seed a mélange of varieties and record which thrive. Each plant type secretes its own array of sugars and compounds from its roots, attracting a different community of soil organisms. The more species of [[cover-crop]] planted, the more varied the soil life's diversity, which subdues disease and boosts plant growth.
 
 ### Annual vs Perennial
 
@@ -42,7 +42,7 @@ Planted late summer or fall; mowed or tilled in spring while flowering and befor
 | Crop | N-fixer | Height | Notes |
 |------|---------|--------|-------|
 | Austrian winter pea | Yes | 2 ft | Hardy to 0°F |
-| Crimson clover | Yes | 18 in | Hardy to 10°F |
+| [[comparison-lupin-vs-crimson-clover-green-manure]] | Yes | 18 in | Hardy to 10°F |
 | Hairy vetch | Yes | 3-6 ft | Hardy to -10°F |
 | Common vetch | Yes | 3-6 ft | Hardy to 0°F |
 | Fava/bell bean | Yes | 3-6 ft | Mix with legumes |
@@ -63,7 +63,7 @@ Planted spring or summer; tilled or mowed before seed set.
 | Crop | N-fixer | Height | Notes |
 |------|---------|--------|-------|
 | Buckwheat | No | 1-3 ft | Chokes weeds |
-| Cowpeas (red) | Yes | 1-2 ft | Chokes weeds, drought resistant |
+| Cowpeas (red) | Yes | 1-2 ft | Chokes weeds, [[drought-resistant-gardening-and-water-wise-landscaping]] |
 | Black-eyed peas | Yes | 3-4 ft | Drought resistant |
 | Soybeans | Yes | 2-4 ft | Mix with nonlegume |
 | Sunn hemp | Yes | 6-8 ft | Drought resistant |

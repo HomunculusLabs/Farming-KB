@@ -9,7 +9,7 @@ tags: [organelle, cell-biology, lipid-metabolism, nitrogen-assimilation, plant-c
 
 ## Description
 
-Peroxisomes are small, membrane-bound organelles in the cytosol that serve as specialized digestion vessels. Unlike lysosomes, which break down proteins, peroxisomes focus on the digestion of lipids and fats. They play essential roles in fatty acid metabolism, nitrogen assimilation, and hormone metabolism. Peroxisomes are generated from proteins and lipids synthesized in the endoplasmic reticulum.
+Peroxisomes are small, membrane-bound organelles in the cytosol that serve as specialized digestion vessels. Unlike lysosomes, which break down proteins, peroxisomes focus on the digestion of lipids and fats. They play essential roles in fatty acid metabolism, nitrogen assimilation, and hormone metabolism. Peroxisomes are generated from proteins and lipids synthesized in the [[endoplasmic-reticulum]].
 
 ## Classification
 
@@ -24,7 +24,7 @@ Peroxisomes are small, membrane-bound organelles in the cytosol that serve as sp
 
 - Peroxisomes contain enzymes that break down lipids and fats
 - In seeds, they supply the enzymes that initiate the conversion of stored fatty acids into sugars
-- This fatty acid conversion is critical during seed germination, providing the energy needed before photosynthesis begins
+- This fatty acid conversion is critical during [[cannabis-seed-germination]], providing the energy needed before photosynthesis begins
 
 ### Nitrogen Assimilation
 
@@ -40,7 +40,7 @@ Peroxisomes are small, membrane-bound organelles in the cytosol that serve as sp
 
 ## Key Facts
 
-- Peroxisomes are generated from proteins and lipids made in the endoplasmic reticulum, not by budding from the Golgi apparatus like lysosomes
+- Peroxisomes are generated from proteins and lipids made in the endoplasmic reticulum, not by budding from the [[golgi-apparatus]] like lysosomes
 - They have a single-layer membrane, which allows them to merge with other single-membrane organelles like vacuoles
 - The enzymes in peroxisomes are specialized for lipid and fat substrates, complementing the protein-focused enzymes of lysosomes
 - Peroxisomes work alongside lysosomes and vacuoles in the cell's waste processing and recycling system
@@ -60,16 +60,16 @@ Peroxisomes are small, membrane-bound organelles in the cytosol that serve as sp
 
 - Seed germination depends on peroxisomal conversion of stored fatty acids into sugars — healthy peroxisome function translates to strong, vigorous seedling establishment
 - Nitrogen assimilation in peroxisomes is directly tied to plant nutrition; nitrogen deficiency or impaired peroxisomal function reduces amino acid production and overall growth
-- In fungi, peroxisomes (sometimes called microbodies) are essential for specialized metabolic pathways, including the breakdown of unusual carbon sources and the synthesis of secondary metabolites
+- In fungi, peroxisomes (sometimes called microbodies) are essential for specialized metabolic pathways, including the breakdown of unusual carbon sources and the synthesis of [[antifungal-secondary-metabolites-coprophilous-fungi]]
 - Peroxisomal metabolism of plant hormones affects germination timing, root development, and flowering — all critical factors in cultivation
 - Understanding peroxisome function illuminates the metabolic pathway from stored seed reserves to seedling establishment, which is relevant to propagation success rates
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
 ## Historical Context
 
-This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the historical development provides important context for current perspectives and applications.
+This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the [[historical-development-of-mushroom-cultivation]] provides important context for current perspectives and applications.
 ## Key Characteristics
 
 Several defining features distinguish this subject from related topics. These characteristics inform both practical applications and theoretical understanding.

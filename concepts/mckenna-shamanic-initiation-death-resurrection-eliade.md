@@ -1,5 +1,5 @@
 ---
-title: "McKenna Shamanic Initiation, Death, Resurrection, and Eliade"
+title: "McKenna [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]], Death, Resurrection, and Eliade"
 source: Food of the Gods - terence-mckenna
 tags: [mckenna, shamanism, eliade, initiation, ecstasy, death-resurrection, healing, paleolithic]
 created: 2026-05-11
@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Eliade's Framework: Archaic Techniques of Ecstasy
 
-Terence McKenna draws heavily on Mircea Eliade's seminal work *Shamanism: Archaic
+[[terence-mckenna]] draws heavily on [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]'s seminal work *Shamanism: Archaic
 Techniques of Ecstasy* to establish the universal structure of shamanic initiation.
 Eliade, whom McKenna calls "the foremost authority on shamanism in the context of
 comparative religion," demonstrated that shamanism maintains a "surprising internal
@@ -26,9 +26,9 @@ science has systematically ignored.
 ## Transformation from Profane to Sacred
 
 Eliade's analysis, as presented by McKenna, establishes that the neophyte
-shaman undergoes a symbolic death and resurrection "which is understood as a
+shaman undergoes a symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]] "which is understood as a
 radical transformation into a superhuman condition." McKenna quotes *The
-Invisible Landscape*: "In short, the shaman is transformed from a profane into a
+[[tryptamine-hypercontinuum-and-invisible-landscape]]*: "In short, the shaman is transformed from a profane into a
 sacred state of being."
 
 Eliade used the word "profane" deliberately to create "a clear split between
@@ -65,7 +65,7 @@ an invisible realm in which the causality of the ordinary world is replaced with
 the rationale of natural magic."
 
 In this invisible realm, "language, ideas, and meaning have greater power than
-cause and effect." Sympathies, resonances, intentions, and personal will are
+[[fukuoka-nature-no-cause-and-effect]]." Sympathies, resonances, intentions, and personal will are
 "linguistically magnified through poetic rhetoric." The imagination is invoked
 "and sometimes its forms are beheld visibly." Within the magical mind-set of
 the shaman, "the ordinary connections of the world and what we call natural laws

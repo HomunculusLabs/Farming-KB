@@ -9,7 +9,7 @@ tags: [species, poaceae, grass, salt-indicator, dryland, halophyte, permaculture
 
 ## Description
 
-*Hordeum maritimum*, commonly known as sea barley grass, is a salt-tolerant annual grass species in the family Poaceae. Mollison identifies it as a key **surface indicator species** for [[plantago-coronopus]]*) as surface indicators of dryland salting:
+*Hordeum maritimum*, commonly known as sea barley grass, is a salt-tolerant annual grass species in the family Poaceae. Mollison identifies it as a key **surface indicator species** for [[plantago-coronopus]]*) as surface indicators of [[dryland-salting-causes-and-cautious-approaches]]:
 
 - Appears as **brownish patches** in pasture and cropland
 - Colonizes areas where salt concentrations are rising but not yet visible as salt crusts
@@ -26,7 +26,7 @@ In Mollison's dryland salinity assessment framework, the appearance of *Hordeum 
 
 ## Relevance to Cultivation and Permaculture
 
-*Hordeum maritimum* is one of the most valuable indicator plants for permaculture designers working in dryland regions. Its appearance provides a low-cost, visually accessible early warning system for salinity problems that may not become apparent in crop yields for years. Designers should train landowners to recognize this species and use its presence as a trigger for diagnostic investigation and corrective earthwork design.
+*Hordeum maritimum* is one of the most valuable indicator plants for [[bill-mollison-permaculture-designers-manual]] working in dryland regions. Its appearance provides a low-cost, visually accessible early warning system for salinity problems that may not become apparent in crop yields for years. Designers should train landowners to recognize this species and use its presence as a trigger for diagnostic investigation and corrective earthwork design.
 
 ## Source Reference
 
@@ -36,7 +36,7 @@ In Mollison's dryland salinity assessment framework, the appearance of *Hordeum 
 ## Overview
 
 Hordeum Maritimum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -57,7 +57,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Hordeum Maritimum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -65,7 +65,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -86,7 +86,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 hordeum maritimum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,6 +1,6 @@
 ---
 title: "Bill Mollison's Permaculture: A Designers' Manual"
-subtitle: "A comprehensive guide to the foundational text of permaculture design, its methodology, principles, and practical systems for sustainable land use"
+subtitle: "A [[allen-australian-psilocybe-species-comprehensive-guide]] to the foundational text of [[bee-forage-systems-permaculture-design]], its methodology, principles, and practical systems for sustainable land use"
 tags: [permaculture, bill-mollison, design-methods, sustainable-agriculture, land-use-planning, ecological-design, food-forests, water-management]
 date: 2026-05-11
 updated: 2026-05-11
@@ -22,7 +22,7 @@ related_concepts:
 
 *Permaculture: A Designers' Manual* (1988) is the seminal text of the
 permaculture movement, written by [[bill-mollison]] and published by
-Tagari Publications. Often referred to simply as "the Manual" or "the
+[[tagari-publications]]. Often referred to simply as "the Manual" or "the
 big black book," it remains the most comprehensive single-volume
 treatment of permaculture [[permaculture-ethical-principles-holmgren]] to the engineering of earthworks. It is dense,
 technical, and encyclopedic in scope -- running over 570 pages of
@@ -35,14 +35,14 @@ between elements that conventional thinking treats as isolated.
 ## Pattern Understanding in Design
 
 One of the Manual's most distinctive contributions is its treatment
-of natural patterns as design templates. Mollison argues that
+of [[natural-patterns-in-permaculture-design]] as design templates. Mollison argues that
 conventional design is "pattern-illiterate" -- it imposes straight
 lines, grids, and uniformity on landscapes that naturally express
 complex, efficient patterns evolved over billions of years. By
 studying and emulating these patterns, permaculture design achieves
 efficiencies that mechanical approaches cannot match.
 
-Branching patterns, for example, appear in tree structure, river
+[[branching-patterns-and-fractal-geometry-in-nature]], for example, appear in tree structure, river
 systems, blood vessels, and root networks. The branching pattern
 solves the universal problem of distributing a resource from a central
 source to a broad area with minimum total path length. In design,
@@ -55,7 +55,7 @@ of herb spirals, garden paths, and building layouts.
 Edge effects receive particular attention. Mollison observes that the
 boundary between two ecological systems -- forest and meadow, land and
 water, cultivated and wild -- is always more productive than either
-system alone. Edges concentrate resources, create microclimates, and
+system alone. Edges concentrate resources, [[query-how-do-i-create-microclimates-in-my-garden]], and
 support species from both adjoining systems plus edge-specialist
 species found nowhere else. The designer's task is to maximize
 productive edge through wavy borders, keyhole gardens, ponds with

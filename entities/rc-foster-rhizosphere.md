@@ -30,14 +30,14 @@ This work used transmission and scanning electron microscopy to reveal the compl
 
 - The intimate physical contact between root surfaces, fungal hyphae, and bacterial colonies
 - Extracellular polymeric substances (EPS) and other "sticky" materials binding soil particles together
-- The layered organization of microbial communities around roots
+- The layered organization of [[cannabis-rhizosphere-microbial-communities]] around roots
 - The structural basis for nutrient exchange at the root-soil interface
 
 ## Relevance to Cultivation and Mycology
 
 - Foster's documentation of microbial glues in the rhizosphere provides the structural basis for understanding how soil aggregates form and stabilize
-- In mushroom cultivation, understanding rhizosphere dynamics is relevant to the interaction between mycorrhizal fungi and host plants
-- The ultrastructure perspective helps explain why biological soil amendments (compost, compost tea) improve soil tilth — they introduce organisms that produce the binding compounds Foster documented
+- [[contamination-prevention-in-mushroom-cultivation]], understanding rhizosphere dynamics is relevant to the interaction between [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] host plants
+- The ultrastructure perspective helps explain why [[microbial-inoculants-and-biological-soil-amendments]] (compost, compost tea) improve soil tilth — they introduce organisms that produce the binding compounds Foster documented
 - His work underscores that soil structure is biologically generated, not merely a physical or chemical phenomenon
 
 ## Connection to Glomalin Research
@@ -45,7 +45,7 @@ This work used transmission and scanning electron microscopy to reveal the compl
 Ingham notes that Foster observed "glomalins, long before anyone called them glomalin." This places Foster's research as a critical precursor to modern understanding of soil organic matter stabilization. The recognition that VAM (vesicular-arbuscular mycorrhizae) are not the only organisms producing these compounds — many bacteria and other fungi also generate sticky materials — extends Foster's original observations to the full soil food web.
 ## Biography
 
-Contributions to agricultural science and sustainable farming practices through research and field work.
+Contributions to [[fukuoka-critique-agricultural-science-laws-liebig]] and sustainable farming practices through research and field work.
 
 ## Research Contributions
 
@@ -57,7 +57,7 @@ Authored and co-authored significant research papers and technical guides in the
 
 ## Legacy
 
-Influence on modern agricultural practices and ongoing relevance to sustainable farming movements.
+Influence on modern [[mycorrhizal-agricultural-practices]] and ongoing relevance to sustainable farming movements.
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.

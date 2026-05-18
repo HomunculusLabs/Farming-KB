@@ -30,18 +30,18 @@ Hypholoma is a genus of wood-inhabiting mushrooms that includes several cultivat
 
 - Wood-inhabiting genus fruiting on hardwood logs, stumps, and supplemented substrates
 - Mushrooms form singly or in small clusters, often fusing at the base
-- Similar in texture to black poplar mushrooms (Agrocybe aegerita)
+- Similar in texture to black poplar mushrooms ([[agrocybe-aegerita-detailed]])
 - Mild nutty flavor with a crunchy bite
-- Protein content: 20–30 percent (dry weight) — among the most protein-rich of all cultivated mushrooms
+- Protein content: 20–30 percent (dry weight) — among the most protein-rich of all [[fungi-cultivated-mushrooms-pathogens-competitors]]
 - Requires cooler fruiting temperatures, below 60°F (16°C)
-- Difficulty level: Outdoor cultivation 2/5, Indoor cultivation 3/5
+- Difficulty level: Outdoor cultivation 2/5, [[cannabis-sativa-indoor-cultivation-techniques]] 3/5
 
 ## Cultivation Notes
 
 ### Substrate Preferences
 
 - Hardwood logs, stumps, and wood chips for outdoor cultivation
-- Supplemented sawdust for indoor cultivation
+- [[oyster-mushroom-supplemented-sawdust-blocks]] for indoor cultivation
 - Prefers high-density fruiting substrates
 
 ### Fruiting Conditions
@@ -63,7 +63,7 @@ Hypholoma is a genus of wood-inhabiting mushrooms that includes several cultivat
 - Use supplemented sawdust or sterilized wood-based substrates
 - Grain or supplemented sawdust spawn preferred
 - Requires cold shock to initiate fruiting
-- Maintain high humidity during primordia formation
+- Maintain high humidity during [[growing-gourmet-primordia-formation-pinning]]
 
 ## Harvesting
 
@@ -110,4 +110,4 @@ Hypholoma is a genus of wood-inhabiting mushrooms that includes several cultivat
 
 ## Relevance to Cultivation and Mycology
 
-Hypholoma species represent an underutilized genus in commercial [[mushroom-cultivation]]. Their exceptional protein content (among the highest of any cultivated mushroom) and strong medicinal properties make them excellent candidates for expanded cultivation. The genus's ability to fruit at cooler temperatures and its antibacterial properties make it particularly promising for mycoremediation applications in temperate and cold climates. The brick top (H. sublateritium) is the most commercially viable species in the genus.
+Hypholoma species represent an underutilized genus in commercial [[mushroom-cultivation]]. Their exceptional protein content (among the highest of any cultivated mushroom) and strong medicinal properties make them excellent candidates for expanded cultivation. The genus's ability to fruit at cooler temperatures and its antibacterial properties make it particularly promising for [[mycoremediation-applications]] in temperate and cold climates. The brick top (H. sublateritium) is the most commercially viable species in the genus.

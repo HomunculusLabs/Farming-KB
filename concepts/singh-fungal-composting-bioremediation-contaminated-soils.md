@@ -1,5 +1,5 @@
 ---
-title: Fungal Composting Bioremediation of Contaminated Soils
+title: Fungal Composting Bioremediation of [[fungal-competition-survival-contaminated-soils]]
 created: 2026-04-26
 tags: [mycoremediation, composting, bioreactor, soil-remediation]
 date: 2026-04-25
@@ -43,14 +43,14 @@ of chlorophenols was eliminated after 2 months. At this stage, highly
 contaminated soils of 683 to 1108 mg/kg were added to the composting
 windrows. Finally, more than 90% of chlorophenols were eliminated after
 3 months. This stepwise approach, beginning with moderately contaminated
-soil to establish active microbial communities before introducing heavily
+soil to establish active [[cannabis-rhizosphere-microbial-communities]] before introducing heavily
 contaminated material, demonstrates an effective strategy for handling
 high pollutant loads.
 
 ## PAH Removal in Compost Bioreactors
 
 Composting can reduce the amount of extractable PAHs by stimulating
-biodegradation or binding of intermediate compounds to organic matter in
+biodegradation or binding of intermediate compounds to [[maintaining-organic-matter-in-vegetable-gardens]]
 soil. A compost bioreactor has been evaluated to enhance the removal of
 benzo[a]pyrene in contaminated soils by the white-rot fungus
 [[phanerochaete-chrysosporium]] (McFarland et al., 1992). The fungal system
@@ -75,12 +75,12 @@ the ultimate effectiveness of compost-based remediation.
 
 ## Spent Mushroom Compost as Inoculum
 
-Spent mushroom compost serves as both a fungal inoculum source and a
+Spent mushroom compost serves as both a [[ingham-fungal-inoculum-sourcing]] source and a
 bulking agent for contaminated soil remediation. Fish oil is added to
-spent mushroom compost and then mixed with creosote-contaminated soil,
+spent [[mushroom-compost-and-stable-manure-preparation]] then mixed with creosote-contaminated soil,
 achieving significant PAH degradation. During treatment of aged
 creosote-contaminated soil, [[singh-ligninolytic-enzymes-fungal-bioremediation]] showed
 substantially higher activities in straw-based compost than in liquid
 culture. The compost environment provides favorable conditions for
 [[ph-and-nutrient-availability-garden-soils]], and the presence of lignocellulosic
-substrates that induce ligninolytic enzyme systems. These enzymes
+substrates that induce [[ligninolytic-enzyme-systems-white-rot-fungi]]. These enzymes

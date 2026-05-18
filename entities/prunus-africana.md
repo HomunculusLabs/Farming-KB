@@ -23,7 +23,7 @@ in the treatment of benign prostatic hyperplasia (BPH), a common condition in ol
 men, and has been the subject of considerable pharmaceutical research and commercial
 exploitation.
 
-In the context of permaculture and agroforestry in Africa, *Prunus africana* is
+In the [[preface-and-author-context-of-permaculture-designers-manual]] and agroforestry in Africa, *Prunus africana* is
 identified as a valuable longer-lived, non-leguminous tree species that is being
 encouraged as part of agroforestry systems alongside faster-growing leguminous
 pioneer species.
@@ -61,27 +61,27 @@ pioneer species.
 ## Relevance to Cultivation and Mycology
 
 - **Agroforestry Integration**: As a longer-lived canopy tree, *Prunus africana*
-  provides shade and microclimate modification that can benefit understory crops
+  provides shade [[tree-temperature-effects-and-microclimate-modification]] that can benefit understory crops
   and fungal cultivation in agroforestry systems.
 - **Soil Health**: The tree contributes to soil organic matter through leaf litter
-  and [[root-exudates]], supporting soil microbial communities including mycorrhizal
+  and [[root-exudates]], supporting [[endorhiza-rhizosphere-bulk-soil-microbial-communities]] including mycorrhizal
   fungi.
 - **Mycorrhizal Associations**: As a member of the Rosaceae family, *Prunus
   africana* forms vesicular-arbuscular mycorrhizal (VAM) associations that
   enhance nutrient uptake and contribute to forest soil health.
 - **Forest Ecosystem Function**: In its native habitat, the tree supports complex
   forest ecosystems where [[fungal-decomposition]] and [[mycorrhizal-networks]] play
-  essential roles in nutrient cycling.
+  essential roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]].
 - **Sustainable Harvesting**: The challenge of sustainable bark harvesting
   parallels sustainable management of fungal resources, requiring understanding
   of regeneration biology and long-term population dynamics.
 - **Cultivation Potential**: Efforts to cultivate *Prunus africana* in agroforestry
   systems may reduce pressure on wild populations and provide structured habitats
-  beneficial for cultivated mushroom species.
+  beneficial for [[classification-of-cultivated-mushroom-species]].
 
 ## Source References
 
-- [[david-holmgren]], *Permaculture: Principles and Pathways Beyond Sustainability*
+- [[david-holmgren]], *Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]*
   (2002), Principle 5 discussion on African agroforestry.
 - Footnote 23: Identified as a local indigenous tree in Kenya, threatened by
   over-exploitation for bark sold as a medicinal remedy for prostate disorders.

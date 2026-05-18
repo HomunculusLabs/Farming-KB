@@ -1,5 +1,5 @@
 ---
-title: "Primary Succession vs Secondary Succession"
+title: "[[dighton-fungi-volcanic-glacier-primary-succession]] vs Secondary Succession"
 tags: [ecology, succession, disturbance, restoration, pioneer-species]
 date: 2026-04-28
 updated: 2026-04-28
@@ -52,13 +52,13 @@ interventions restoration practitioners should consider.
 Understanding succession types is essential for effective restoration:
 
 - **Primary succession sites** require active intervention — soil amendments,
-  nurse-plants, and careful pioneer species selection.
+  nurse-plants, and careful [[pioneer-species-selection-for-permaculture-systems]].
   Natural recovery may be impractically slow for human management timescales.
   Mine reclamation and volcanic restoration are canonical examples.
 
 - **Secondary succession sites** often benefit from passive restoration:
   removing ongoing stressors (e.g., overgrazing, invasive species pressure) and
-  allowing natural recovery. Assisted natural regeneration — light seeding,
+  allowing natural recovery. Assisted [[biodiversity-power-natural-regeneration]] — light seeding,
   [[edaphic-factors-microbial-community-structure]] health
   helps practitioners choose between active planting, soil reconstruction, or
   protective exclusion measures.
@@ -73,7 +73,7 @@ guidelines, and monitoring protocols in major restoration programs worldwide.
 - **Primary succession** — no soil, no prior community; very slow (centuries
   to millennia); lichens and mosses are first colonizers; dominant mechanism is
   substrate modification by pioneer organisms.
-- **Secondary succession** — soil and seed bank present; faster recovery
+- **Secondary succession** — soil and [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] present; faster recovery
   (decades); herbaceous plants and grasses dominate early stages; existing soil
   biota facilitate rapid community reassembly.
 - The critical differentiating factor is **biological legacy** — the extent to

@@ -2,7 +2,7 @@
 title: "Soil Minerals and Nutrients"
 created: 2026-04-26
 updated: 2026-04-25
-sources: "jeff-lowenfels & Wayne Lewis, teaming-with-microbes-actinomycetes"
+sources: "jeff-lowenfels & [[wayne-lewis]], teaming-with-microbes-actinomycetes"
 wikilinks: "lowenfels-soil-food-web-overview lowenfels-bacteria-role-soil lowenfels-fungi-role-soil lowenfels-nutrients-nitrogen-cycle lowenfels-mycorrhizal-networks lowenfels-compost-tea-brewing"
 type: concept
 tags: [minerals, nutrients, soil]
@@ -12,12 +12,12 @@ tags: [minerals, nutrients, soil]
 
 ## Overview
 
-Plants require at least 16 essential mineral nutrients for growth. Three are
+Plants require at least 16 essential [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]] for growth. Three are
 obtained from air and water (carbon, hydrogen, oxygen), while the remaining 13
 must come from the soil. The soil food web is the mechanism by which these
 minerals are made available to plants. Without the soil food web, most soil
-minerals remain locked in chemical compounds that plant roots cannot access.
-The key insight from "Teaming with Microbes" is that plants do not feed
+minerals remain locked in [[neurotropic-fungi-chemical-compounds]] that plant roots cannot access.
+The key insight from "[[teaming-with-microbes-actinomycetes]]" is that plants do not feed
 themselves directly -- the soil food web feeds them.
 
 ## The Primary Macronutrients (NPK)

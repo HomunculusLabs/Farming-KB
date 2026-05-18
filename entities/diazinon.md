@@ -10,7 +10,7 @@ Diazinon (O,O-diethyl O-[4-methyl-6-(propan-2-yl)pyrimidin-2-yl]
 phosphorothioate) is an organophosphate insecticide that was widely used in
 agriculture and residential pest control. In [[elaine-ingham]]'s [[compost]] tea field
 guide, diazinon is mentioned alongside [[dieldrin]], furans, and DDT as one of
-the problematic chemical residues that can be present in compost starting
+the problematic [[ingham-manure-antibiotics-chemical-residues-composting]] that can be present in compost starting
 materials, particularly grass clippings, and that must be decomposed by
 beneficial organisms during the [[composting]] process.
 
@@ -33,7 +33,7 @@ beneficial organisms during the [[composting]] process.
   to unacceptable health risks, particularly to children
 - Agricultural uses remain limited but still permitted on certain crops under
   specific application restrictions
-- Highly toxic to birds, fish, amphibians, and beneficial insects including
+- Highly toxic to birds, fish, amphibians, [[hemenway-insectary-plants-and-beneficial-insects]] including
   pollinators and natural enemies of pests
 - Relatively short half-life in soil (2-4 weeks) compared to persistent
   organochlorines like DDT, meaning it breaks down more rapidly
@@ -50,8 +50,8 @@ activity in compost piles.
 
 The primary indicator of such chemical contamination is when compost pile
 temperatures stay low too long after starting the pile. The chemical residues
-suppress the thermophilic organisms that normally drive composting temperatures
-upward through their metabolic activity. Ingham lists the problem hierarchy as:
+suppress the [[thermophilic-organisms]] that normally drive composting temperatures
+upward through their [[arbuscule-isolation-metabolic-activity-assays]]. Ingham lists the problem hierarchy as:
 strongylid de-wormers being the worst, then herbicide residues, insecticides
 including diazinon, fungicides, then copper and sulfur compounds.
 
@@ -64,10 +64,10 @@ needed. Ingham specifically mentions EM inoculum, Biostart, Organica, and
 Agri-Energy compost starters as products containing the bacteria that can
 decompose these harmful materials.
 
-For mushroom growers who produce their own compost from yard waste or
+For [[enterprise-development-mushroom-growers]] who produce their own compost from yard waste or
 agricultural residues, monitoring initial pile temperatures is essential.
 Delayed or reduced heating suggests chemical contamination should be
-investigated. The biological remediation approach aligns with the broader soil
+investigated. The [[combined-biological-remediation-approaches]] approach aligns with the broader soil
 food web philosophy of using biology rather than chemistry to solve problems.
 
 The ability of soil organisms to decompose diazinon and other pesticides

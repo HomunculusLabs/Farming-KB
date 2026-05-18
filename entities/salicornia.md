@@ -34,17 +34,17 @@ tags: [species, genus, chenopodiaceae, salt-tolerant, halophyte, samphire, dryla
 
 - Found in coastal salt marshes, estuaries, and tidal flats worldwide
 - Also occurs in inland saline habitats — salt lakes, salt flats, and saline seeps
-- Pioneer species in saline environments, often first colonizer of bare salt pans
+- Pioneer species in [[halotolerant-halophilic-fungi-saline-environments]], often first colonizer of bare salt pans
 - Tolerates periodic inundation by saline or brackish water
 - Often forms monospecific stands in highly saline zones
 
 ## Agricultural and Culinary Uses
 
 - **Edible shoots:** Young stems are harvested as a gourmet vegetable (marketed as "sea asparagus")
-- **High in minerals:** Contains beneficial levels of trace minerals and salts
+- **High in minerals:** Contains beneficial levels of [[dynamic-accumulator-plants-trace-minerals]] and salts
 - **Oilseed potential:** *S. bigelovii* produces seeds with 26–33% oil content, researched as a halophyte oil crop
 - **Forage:** Can provide emergency grazing on severely salted land
-- **Biofuel feedstock:** Biomass production on land too saline for conventional crops
+- **Biofuel feedstock:** [[dighton-fungal-biomass-production-aquatic-ecosystems]] on land too saline for conventional crops
 
 ## Role in Salinity Management
 
@@ -59,7 +59,7 @@ Mollison mentions *Crithmum* (rock samphire) alongside *Salicornia*. While *Crit
 
 ## Relevance to Cultivation and Permaculture
 
-*Salicornia* represents the extreme end of salt tolerance in useful plants. For [[bill-mollison]], *Permaculture: A Designer's Manual*, Chapter 11 (Dryland Strategies), page 445.
+*Salicornia* represents the extreme end of salt tolerance in useful plants. For [[bill-mollison]], *Permaculture: A Designer's Manual*, Chapter 11 ([[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]), page 445.
 
 ## Practical Applications
 Salicornia has several practical applications in sustainable systems.
@@ -69,7 +69,7 @@ Multiple functions can be served within a single system design.
 
 ## Historical Significance
 Salicornia has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## Sustainability Considerations

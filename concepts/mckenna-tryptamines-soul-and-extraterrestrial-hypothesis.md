@@ -1,11 +1,11 @@
 ---
-title: Tryptamines the Soul and the mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal
+title: Tryptamines the Soul and the [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]
 created: 2026-04-28
 tags:
   - philosophy
   - consciousness
   - dmt
-  - psilocybin
+  - [[psilocybin]]
   - tryptamines
   - mckenna
   - extraterrestrial
@@ -28,7 +28,7 @@ are reassuring, saying "Don't be alarmed. Remember, and do what we are doing." T
 like music and language, conveying information in a translinguistic modality that cannot be
 translated into any known language.
 
-McKenna emphasizes that the ego remains intact during the DMT experience. One is not "fuzzed
+McKenna emphasizes that the ego remains intact during the [[dmt-experience-phenomenology-hyperspace]]. One is not "fuzzed
 out" but rather experiences "profound astonishment that persists and persists." The entities
 warn against letting a "loop of wonder" develop, instead urging focus and observation. They
 bathe one in love that is "not erotic but open-hearted." These beings are, in McKenna's words,
@@ -71,12 +71,12 @@ require the nervous system of a mammal. Do you have one handy?"
 
 ## Language and the Assembly Behind Language
 
-A central feature of the tryptamine experience is its effect on language. The compounds work
+A central feature of the [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] is its effect on language. The compounds work
 "directly on the language centers," producing an interior dialogue with what seems to be an
 alien intelligence. McKenna distinguishes tryptamine-induced glossolalia from classical
 speaking in tongues. The tryptamine version gives access to what he calls "the assembly
 language that lies behind language," a primal "Ursprache" or original tongue of the sort that
-Robert Graves discussed in *The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*.
+[[robert-graves-british-mushroom-connection]] discussed in *The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*.
 
 This leads to McKenna's most far-reaching speculation: that human language may be only a shadow
 of a deeper capacity for the direct beholding of meaning in three-dimensional space. Under DMT,

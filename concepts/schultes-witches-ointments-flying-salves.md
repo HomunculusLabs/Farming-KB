@@ -1,7 +1,7 @@
 ---
-title: "schultes witches ointments flying salves and Flying Salves"
+title: "schultes witches ointments [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] and Flying Salves"
 created: 2026-04-28
-tags: [ethnobotany, witches-ointment, flying-salve, solanaceae, europe, medieval, tropane, scopolamine
+tags: [ethnobotany, witches-ointment, flying-salve, [[solanaceae]], europe, medieval, tropane, [[scopolamine]]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
@@ -84,4 +84,4 @@ remembers nothing experienced during the intoxication; and the
 experience involves a complete dissolution of normal consciousness.
 These properties -- amnesia, toxicity, and delirium -- are
 characteristic of tropane alkaloid intoxication and distinguish the
-European witches' plants from the tryptamine-based and
+[[european-witches-flying-ointment-historical-evidence]]' plants from the tryptamine-based and

@@ -55,7 +55,7 @@ Two closely related forms exist: the turkey's nest dam (above-grade embankment w
 
 ## Relevance to Cultivation and Mycology
 
-Turkey's nest dams provide flatland water storage critical for mushroom cultivation in areas without natural slope. The slight elevation advantage enables gravity-fed irrigation to mushroom log yards, outdoor mushroom bed misting systems, substrate hydration stations, and climate control systems in poly tunnels or grow rooms.
+Turkey's nest dams provide flatland water storage critical [[grass-seed-substrate-for-mushroom-cultivation]] in areas without natural slope. The slight elevation advantage enables gravity-fed irrigation to mushroom log yards, [[growing-gourmet-outdoor-mushroom-bed-establishment]] misting systems, substrate hydration stations, and [[reactive-house-passive-climate-control-systems]] in poly tunnels or grow rooms.
 
 For integrated permaculture systems on flat sites, turkey's nest dams combined with solar pumping create self-sustaining water supply for diverse cultivation including fungal production.
 
@@ -70,15 +70,15 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), page 159.
 ## Practical Applications
 
 Turkeys Nest Dam finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 
 ## Ecological Context
 
 Understanding turkeys nest dam within broader ecosystem dynamics reveals
-interconnections with nutrient cycling, energy flow, and species interactions.
-These relationships inform regenerative design strategies that work with
+interconnections with [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], energy flow, and species interactions.
+These relationships inform regenerative [[cold-climate-design-strategies]] that work with
 natural processes rather than against them.
 
 ## Design Considerations

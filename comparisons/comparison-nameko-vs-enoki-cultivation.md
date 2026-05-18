@@ -10,12 +10,12 @@ sources: []
 
 ## Overview
 
-Nameko (Pholiota nameko) and Enoki (Flammulina velutipes) are two of Japan's
+Nameko (Pholiota nameko) and Enoki ([[enoki-mushroom-flammulina-velutipes]]) are two of Japan's
 most commercially important cultivated mushrooms. Both are cool-weather
 species
-grown on supplemented hardwood sawdust substrates, yet they differ
+grown on supplemented [[hardwood-sawdust-substrate]] substrates, yet they differ
 dramatically
-in appearance, cultivation technique, and culinary role. Nameko is prized for
+in appearance, [[boil-a-bag-mushroom-cultivation-technique]], and culinary role. Nameko is prized for
 its distinctive gelatinous coating and nutty flavor in soups, while Enoki is
 recognized worldwide for its long, white, needle-like clusters. Understanding
 the differences between these species helps cultivators choose the right one
@@ -38,7 +38,7 @@ Nameko. After colonization, blocks or bottles receive a cold shock at
 50-55°F (10-13°C). The stem elongation phase then demands sustained high CO2
 (2000-5000 ppm), near darkness (below 50 lux), and 90-95% RH for 10-20 days.
 The traditional bottle method uses narrow-necked containers that channel
-mushroom growth upward. Biological efficiency is high at 80-150%, though most
+mushroom growth upward. [[biological-efficiency]] is high at 80-150%, though most
 commercial operations harvest only the first flush for premium quality.
 
 ## Key Differences
@@ -77,10 +77,10 @@ expansion and stem shortening, ruining the commercial form.
 
 Choose Nameko when you want a mushroom that fruits under standard cool-weather
 conditions without specialized environmental control. It is ideal for home
-cultivators with basic fruiting chambers, those using log cultivation methods,
+cultivators with basic fruiting chambers, those using [[log-cultivation-methods]],
 and growers targeting Japanese or Asian food markets where the gelatinous
 texture is valued. Nameko is also a strong choice for outdoor log operations
-in temperate climates, as it colonizes hardwood logs readily and produces
+[[query-how-to-grow-and-use-oca-in-temperate-climates]], as it colonizes hardwood logs readily and produces
 reliable autumn flushes for multiple years.
 
 ## When to Choose Enoki

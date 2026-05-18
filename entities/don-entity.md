@@ -28,7 +28,7 @@ The nitro group makes DON unique among the DOx compounds in several ways -- it i
 
 ## Effects
 
-The reconstructed qualitative comments (from published summaries of South American research) describe:
+The reconstructed [[qualitative-comments-methodology-pihkal]] (from published summaries of [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] research) describe:
 
 - **At 3.0 mg:** Amphetamine-like stimulation apparent within an hour, with considerable anxiety. Stomach cramps were present. "Indications that there might be something hallucinogenic at a higher dose."
 - **At 4.5 mg:** Enhancement of color perception and some auditory distortion, still noticeable 8 hours in. Visual changes described as "intense." A feeling of running a slight fever with restlessness, but "almost no physical malaise." Still "somewhat wound up" at the 14th hour.

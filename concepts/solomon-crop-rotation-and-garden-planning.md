@@ -1,5 +1,5 @@
 ---
-title: Solomon on comparison-crop-rotation-vs-cover-cropping and hamilton-garden-planning-and-site-assessment
+title: Solomon on [[comparison-crop-rotation-vs-cover-cropping]] and [[hamilton-garden-planning-and-site-assessment]]
 created: 2026-04-21
 updated: 2026-04-21
 type: "concept"
@@ -13,7 +13,7 @@ From [[intensive-gardening-critique-solomon]]
 - [[intensive-gardening-critique-solomon]]
 
 ## Merged: Garden Size Planning
-Steve Solomon provides practical guidance on how much garden space is needed to feed a family, drawing on historical examples and his own experience. His recommendations are grounded in what is actually achievable for a home gardener. - solomon crop rotation and garden planning - solomon crop rotation and garden planning - [[mollison-designers-community-garden-design-urban-permaculture]] plot) available to any resident who requested one.
+[[steve-solomon]] provides practical guidance on how much garden space is needed to feed a family, drawing on historical examples and his own experience. His recommendations are grounded in what is actually achievable for a home gardener. - solomon crop rotation and garden planning - solomon crop rotation and garden planning - [[mollison-designers-community-garden-design-urban-permaculture]] plot) available to any resident who requested one.
 ## Merged: Solomon Wide Row Spacing Method
 Steve Solomon advocates for much wider plant spacing than [[solomon-gardening-when-it-counts-index]] - [[solomon-root-cellaring-and-crop-storage]]
 ## Practical Applications
@@ -33,7 +33,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -1,9 +1,9 @@
 ---
-title: I/Thou Ethics in the Tryptamine mckenna-dmt-i-thou-relationship-entity-encounter-ethics
+title: I/Thou Ethics in the [[tryptamine]] [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [entity-encounter, ethics, tryptamines, DMT, terence-mckenna, martin-buber, i-thou, phenomenology, hyperspace, shamanism]
+tags: [entity-encounter, ethics, tryptamines, DMT, terence-mckenna, martin-buber, i-thou, phenomenology, hyperspace, [[shamanism]]]
 sources:
   - raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
@@ -36,8 +36,8 @@ face of apparent transcendence is to become passive, to accept information
 without evaluation, and potentially to confuse the seductive aspects of the
 experience with genuine insight. The entities themselves, while often
 benevolent, can be misleading. McKenna quoted a mnemonic: "Some are made
-of ions, some of mind; the ones of ketamine, you'll find, stutter often and
-are blind" — a reminder that not all entity encounters are equivalent and
+of ions, some of mind; the ones of [[ketamine]], you'll find, stutter often and
+are blind" — a reminder that not all [[dmt-entity-encounters-and-the-logos]] are equivalent and
 that the nature of the compound influences the nature of the beings
 encountered.
 

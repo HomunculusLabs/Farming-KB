@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Introduction
 
-The psychoactive potency of psilocybin-containing mushrooms varies enormously — by factors of 10× to 100× or more — depending on species, strain genetics, developmental stage, tissue type, flush number, substrate composition, environmental conditions during growth, and post-harvest handling. Understanding this variation is essential for accurate dosing in therapeutic applications, meaningful interpretation of pharmacological research, and informed harm reduction.
+The psychoactive potency of psilocybin-containing mushrooms varies enormously — by factors of 10× to 100× or more — depending on species, strain genetics, developmental stage, tissue type, flush number, substrate composition, environmental conditions during growth, and post-harvest handling. Understanding this variation is essential for accurate dosing in [[psilocybin-therapeutic-applications]], meaningful interpretation of pharmacological research, and informed harm reduction.
 
 ## Inter-Species Variation
 
@@ -19,9 +19,9 @@ The psychoactive potency of psilocybin-containing mushrooms varies enormously �
 Reported psilocybin concentrations (dry weight basis) vary dramatically across species:
 
 - ***[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*** (liberty cap): 0.2–1.5%
-- ***Psilocybe cyanescens***: 0.3–1.5%
+- ***[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]***: 0.3–1.5%
 - ***Psilocybe cubensis***: 0.3–1.3% (cultivated)
-- ***Psilocybe baeocystis***: 0.3–0.8%
+- ***[[psilocybe-baeocystis]]***: 0.3–0.8%
 - ***[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]***: 0.05–0.3%
 
 The order-of-magnitude range from the weakest to strongest species underscores the importance of accurate species identification. Misidentification is a significant risk factor in recreational and therapeutic use.
@@ -52,14 +52,14 @@ Among the most commonly cultivated species, named strains show significant poten
 - **AA+ (Albino A+)**: moderate, 0.4–0.8%
 - **Yeti**: high potency, 0.7–1.2%
 
-Strain names in the cultivated mushroom community are largely informal designations without rigorous genetic characterization. The same "strain" acquired from different sources may represent genetically distinct lineages, making potency comparisons unreliable without controlled cultivation experiments.
+Strain names in the cultivated mushroom community are largely informal designations without rigorous genetic characterization. The same "strain" acquired from different sources may represent genetically distinct lineages, making potency comparisons unreliable without controlled [[holzer-mushroom-cultivation-experiments]].
 
 ### Genetic Basis of Potency Variation
 
 Potency is a polygenic trait influenced by:
 
 - **Biosynthetic gene expression**: Copy number variation and promoter strength of psiD, psiH, psiK, and psiM genes.
-- **Precursor availability**: Endogenous tryptophan biosynthesis rates and SAM availability affect pathway flux.
+- **Precursor availability**: Endogenous [[tryptophan-biosynthesis-from-chorismate]] rates and SAM availability affect pathway flux.
 - **Regulatory genes**: Transcription factors controlling the developmental timing of biosynthetic gene activation.
 - **Post-translational regulation**: Enzyme stability, cofactor availability, and compartmentalization.
 
@@ -71,7 +71,7 @@ Potency changes throughout the [[mushroom-life-cycle]]:
 
 - **Primordia (pins)**: Lower total alkaloid content per unit dry weight, but developing biosynthetic capacity.
 - **Immature fruiting bodies**: Rapidly increasing alkaloid accumulation.
-- **Mature fruiting bodies**: Peak alkaloid concentration, typically at or just before full spore maturity.
+- **Mature fruiting bodies**: Peak [[abort-harvesting-alkaloid-concentration-pf-tek]], typically at or just before full spore maturity.
 - **Post-mature / senescent**: Gradual decline as tissue begins to autodigest or desiccate.
 
 ### Tissue Distribution

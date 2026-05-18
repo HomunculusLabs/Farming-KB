@@ -10,9 +10,9 @@ sources: []
 # Honey Varieties Guide
 
 Monofloral honey comes predominantly from a single nectar source. The flavor,
-color, and medicinal properties vary dramatically depending on the floral
+color, [[ginseng-cultivation-and-medicinal-properties]] vary dramatically depending on the floral
 source. Understanding honey varieties helps beekeepers market their product and
-consumers choose the right honey for culinary or therapeutic use.
+consumers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] honey for culinary or therapeutic use.
 
 ## Factors That Determine Honey Character
 
@@ -26,7 +26,7 @@ consumers choose the right honey for culinary or therapeutic use.
 ### Clover Honey
 
 Light amber color with a mild, sweet, floral flavor. One of the most common
-varieties in North America. White and sweet clover are the primary sources.
+varieties in [[guzman-psilocybin-mushrooms-north-america]]. White and sweet clover are the primary sources.
 Low crystallization tendency in liquid form. Excellent general-purpose sweetener
 and a good entry honey for new beekeepers.
 
@@ -44,7 +44,7 @@ scoparium (manuka tree). Dark, earthy, slightly bitter flavor. Unique
 non-peroxide antibacterial activity measured on the Unique Manuka Factor
 (UMF) scale. UMF 10+ is considered therapeutic grade. Used topically for
 wound healing and internally for digestive support. See
-[[bee-product-medicinal-uses]] for details on therapeutic applications.
+[[bee-product-medicinal-uses]] for details on [[psilocybin-therapeutic-applications]].
 
 ### Buckwheat Honey
 
@@ -60,13 +60,13 @@ Golden-green hue with a distinctive buttery, floral flavor. Produced from
 the blossoms of the Ogeechee tupelo tree (Nyssa ogeche) in the southeastern
 United States, particularly along the Apalachicola River in Florida.
 Tupelo honey resists crystallization due to its high fructose-to-glucose
-ratio. Short three-week harvest window makes it one of the more expensive
+ratio. Short three-week [[harvest-window-cannabis]] makes it one of the more expensive
 varieties.
 
 ### Orange Blossom Honey
 
 Light amber to white with a delicate citrus aroma and flavor. Produced in
-Florida, Texas, and California from Citrus sinensis blossoms. Popular for
+Florida, Texas, and California from [[citrus-sinensis]] blossoms. Popular for
 tea, cheese pairings, and baking. The subtle citrus notes make it a favorite
 for mead making. Available in spring after the citrus bloom.
 

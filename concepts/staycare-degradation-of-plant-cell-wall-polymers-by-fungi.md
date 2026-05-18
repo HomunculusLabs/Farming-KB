@@ -1,5 +1,5 @@
 ---
-title: "Degradation of Plant staycare degradation of plant cell wall polymers by fungi Polymers by Fungi"
+title: "Degradation of Plant staycare degradation of [[plant-cell-wall-and-water-pathways]] polymers by fungi Polymers by Fungi"
 created: 2026-04-28
 tags: [bioremediation, lignocellulose, mycology, fungal-enzymology, plant-biology]
 date: 2026-04-25
@@ -17,7 +17,7 @@ organisms, but predominantly fungi. The annual terrestrial production of
 lignocellulose-rich plant cell wall material is approximately 100
 gigatonnes, of which lignin alone accounts for 20 gigatonnes. The
 Basidiomycota and Ascomycota are responsible for decomposition of a high
-proportion of this material. Understanding lignocellulose degradation
+proportion of this material. Understanding [[lignocellulose-degradation-by-fungi]]
 mechanisms is important for modifying and enhancing the degradation of
 industrial pollutants such as chlorophenols, nitrophenols, and polyaromatic
 hydrocarbons by these fungi.
@@ -43,7 +43,7 @@ in cell wall architecture and plant disease resistance.
 ## Secondary Cell Wall Structure
 
 As some cell types mature, a secondary cell wall is deposited between the
-primary wall and the plasmalemma. Wood contains the most mature cell walls,
+primary wall and the plasmalemma. Wood contains the most mature [[alpha-1-3-glucan-fungal-pathogen-cell-walls]],
 with several layers (S1, S2, S3) in the secondary wall. These are composed
 of approximately 35% cellulose, 25% hemicellulose including pectin, and
 up to 35% lignin depending on the plant species. Lignin gives rigidity to
@@ -65,7 +65,7 @@ grasses), coniferyl alcohol (major unit in gymnosperm wood), and sinapyl
 alcohol (predominant in angiosperm wood). Polymerization occurs by free
 radical reaction catalyzed by peroxidase, resulting in a variety of bonds.
 The predominant bond linkage is the beta-O-4 bond between the aromatic
-ring and the beta-carbon of the side chain.
+ring and the beta-carbon of the [[dimethylamine-amidation-tryptamine-side-chain-construction]].
 
 The high proportion of ether bonds in lignin gives it unique structural
 properties as a strong, resistant polymer. Lignin is not a symmetrical

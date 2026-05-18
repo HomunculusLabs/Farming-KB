@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Genipa americana**, commonly known as genipap, jagua, or genipa berry, is a medium-sized evergreen tree native to tropical regions of the Americas.
+**Genipa americana**, commonly known as genipap, jagua, or genipa berry, is a medium-sized evergreen tree native to [[fukuoka-natural-farming-in-tropical-regions]] of the Americas.
 
 It ranges from the Caribbean and southern Mexico through [[fukuoka-natural-body-and-health]] paint, producing a blue-black dye that has been used by Indigenous peoples for millennia.
 
@@ -49,11 +49,11 @@ The pulp is brownish, gelatinous, and aromatic, containing numerous flattened se
 
 ## Distribution and Habitat
 
-Genipap is distributed from southern Florida and the Caribbean (Cuba, Jamaica, Puerto Rico) through Central America to Colombia, Venezuela, Ecuador, Peru, Bolivia, and Brazil.
+Genipap is distributed from southern Florida and the Caribbean (Cuba, Jamaica, Puerto Rico) through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Colombia, Venezuela, Ecuador, Peru, Bolivia, and Brazil.
 
 It is most abundant in lowland tropical moist and wet forests, typically below 500 m elevation.
 
-The species is also cultivated in home gardens and orchards throughout its native range and has been introduced to parts of West Africa and [[mollison-designers-tropical-soils-and-cation-exchange-management]] but prefers deep, well-drained, fertile loams with pH 5.5–7.0.
+The species is also cultivated in [[desert-home-gardens]] and orchards throughout its native range and has been introduced to parts of West Africa and [[mollison-designers-tropical-soils-and-cation-exchange-management]] but prefers deep, well-drained, fertile loams with pH 5.5–7.0.
 
 Annual rainfall requirements are 1200–3000 mm, with a distinct dry season tolerated.
 

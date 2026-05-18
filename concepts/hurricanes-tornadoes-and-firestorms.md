@@ -69,9 +69,9 @@ conventional firefighting efforts.
   zones and dense fuel loads
 - **Design refuge structures** that can withstand extreme winds, flying debris, and
   flooding
-- **[[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|Use]] wind-sheltering elements** such as earth banks, dense tree belts, and terrain
+- **[[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] wind-sheltering elements** such as earth banks, dense tree belts, and terrain
   features to reduce exposure
-- **Plan evacuation routes and community shelters** as part of broader settlement design
+- **Plan evacuation routes and community shelters** as part of broader [[cool-climate-house-and-settlement-design]]
 - **Maintain fire-resistant zones** around structures in [[firestorm]]-susceptible areas
 Understanding the mechanisms behind these extreme atmospheric events allows designers
 to work with — rather than against — natural forces, creating resilient landscapes and
@@ -87,7 +87,7 @@ components of effective disaster management.
 ## Ecological Context
 
 Within broader ecological systems, hurricanes tornadoes and firestorms
-interacts with multiple environmental factors. Understanding
+interacts with multiple [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Understanding
 these relationships is key to effective implementation
 and long-term sustainability of management practices.
 

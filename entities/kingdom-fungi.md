@@ -35,14 +35,14 @@ Kingdom Fungi is one of the major kingdoms of eukaryotic organisms, comprising a
 
 ### Major Phyla
 
-- **Chytridiomycota**: Zoosporic fungi; includes Blastocladiales and Monoblepharidales; implicated in global amphibian decline
-- **Zygomycota**: Includes Mucorales, Entomophthorales, Trichomycetes; also the Glomales (arbuscular mycorrhizal fungi, sometimes separated)
+- **Chytridiomycota**: Zoosporic fungi; includes Blastocladiales and Monoblepharidales; implicated in global [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
+- **Zygomycota**: Includes Mucorales, Entomophthorales, Trichomycetes; also the Glomales ([[arbuscular-mycorrhizal-fungi]], sometimes separated)
 - **Ascomycota**: Largest phylum; classes include Archiascomycetes, Saccharomycetes (yeasts), and Euascomycetes; includes morels, truffles, cordyceps, Penicillium, Aspergillus
 - **Basidiomycota**: Includes mushrooms, rusts, smuts; classes include Ustilaginiomycetes, Urediniomycetes, Hymenomycetes
 
 ### Ecological Roles
 
-- Decomposition and nutrient cycling—essential for breaking down woody materials and organic matter
+- Decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]—essential for breaking down woody materials and organic matter
 - Mycorrhizal associations—obligate mutualistic symbioses with plants (Glomales, ectomycorrhizal basidiomycetes)
 - Endophytes—live inside plants without causing disease
 - Plant and animal pathogens—cause millions of dollars in damage annually
@@ -63,14 +63,14 @@ Kingdom Fungi is one of the major kingdoms of eukaryotic organisms, comprising a
 - Fungi cannot be trapped or fogged like insects
 - Many produce fruit bodies only at intervals of many years, persisting for hours
 - Others are perennial and found year-round (lichen fungi, polypores)
-- Some live inside plants or arthropods, invisible without microscopic examination
+- Some live inside plants or arthropods, invisible without [[fungal-microscopic-examination-mounting-media-techniques]]
 - Many do not grow in culture or remain sterile when cultured
 - Pleomorphic fungi have multiple sporing stages, sometimes given separate names
 - Isolation methods may capture resting spores rather than actively growing fungi
 
 ## Relevance to Cultivation and Mycology
 
-Kingdom Fungi encompasses all commercially cultivated mushroom species and their relatives. Understanding the phylogenetic framework—especially the distinction between true fungi and fungus-like organisms—informs cultivation methodology, as different kingdoms require fundamentally different approaches. The phylum-level classification (Ascomycota vs. Basidiomycota) directly affects understanding of fruiting body development, spore production, and life cycle management in cultivation systems. The vast undescribed diversity suggests numerous potentially cultivable species remain undiscovered.
+Kingdom Fungi encompasses all commercially [[classification-of-cultivated-mushroom-species]] and their relatives. Understanding the phylogenetic framework—especially the distinction between true fungi and fungus-like organisms—informs cultivation methodology, as different kingdoms require fundamentally different approaches. The phylum-level classification (Ascomycota vs. Basidiomycota) directly affects understanding of [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]], spore production, and life cycle management in cultivation systems. The vast undescribed diversity suggests numerous potentially cultivable species remain undiscovered.
 
 ## See Also
 

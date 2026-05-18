@@ -40,7 +40,7 @@ Consider Chinese cabbage a high-demand crop. COF ([[complete-organic-fertilizer]
 ### OP vs. Hybrid
 
 - **OP varieties**: Be prepared in advance to have over half your plants fail to head before bolting
-- **Hybrid varieties**: Nearly every plant will make a perfect head
+- **[[cervantes-hybrid-varieties-types]]**: Nearly every plant will make a perfect head
 - **Santoh**: A non-heading variety that compares to Chinese cabbage as collards do to European cabbage. Much easier to grow.
 
 ### Recommended Approach
@@ -73,13 +73,13 @@ Chinese cabbage is a biennial brassica, bee-pollinated. It will cross with other
 ## Growing Conditions
 Success depends on matching varieties to local climate and
 season length. Soil temperature, day length, and frost dates
-all influence planting schedules. Start with proven varieties
+all influence [[fall-winter-planting-schedules]]. Start with proven varieties
 for your region before experimenting with unusual types.
 Maintain consistent soil moisture during establishment.
 
 ## Common Challenges
-Pest pressure, disease, and environmental stress are the most
+Pest pressure, disease, and [[ectomycorrhizal-community-environmental-stress]] are the most
 frequent challenges. Use row covers for insect protection and
-crop rotation to break pest and disease cycles. Proper spacing
-improves air circulation and reduces foliar disease. Early
+crop rotation to break [[hamilton-pest-and-disease-control-organic]] cycles. Proper spacing
+improves [[stamets-growing-room-air-circulation-co2-management]] and reduces [[aact-foliar-disease-control]]. Early
 detection and intervention prevent minor issues from escalating.

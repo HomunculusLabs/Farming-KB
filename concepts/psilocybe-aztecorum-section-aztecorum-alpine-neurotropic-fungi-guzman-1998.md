@@ -1,5 +1,5 @@
 ---
-title: Psilocybe psilocybe aztecorum section aztecorum alpine neurotropic fungi guzman 1998 Aztecorum: Alpine challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
+title: Psilocybe [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] section aztecorum alpine [[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]] 1998 Aztecorum: Alpine challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
 created: 2026-05-06
 tags: mycology, psilocybe, aztecorum, baeocystis, alpine, subalpine, mexico, biogeography, guzman-1998
 type: concept
@@ -11,9 +11,9 @@ sources: "Guzmán, Allen & Gartz (1998)"
 # Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi
 
 Section Aztecorum of the genus Psilocybe represents a distinctive
-biogeographic group of neurotropic fungi adapted to high-elevation,
+biogeographic group [[distribution-of-neurotropic-fungi]] adapted to high-elevation,
 subalpine, and alpine habitats. According to [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
-- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin Hypothesis for Neurotropic Fungi
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] [[neurotropic-fungi-southern-hemisphere-origin-hypothesis-guzman-1998]] for Neurotropic Fungi
 - [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Convergence Zone
 ## Practical Applications
 
@@ -32,7 +32,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

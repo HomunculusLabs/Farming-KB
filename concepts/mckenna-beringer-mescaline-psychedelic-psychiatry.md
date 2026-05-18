@@ -19,7 +19,7 @@ The excitement of Lewin and his colleagues was driven by ethnographic reports of
 extraordinary power. German ethnographer Theodore Koch-Grünberg had returned from
 Amazonas with accounts of tribes using "telepathy-inducing plant drugs" to direct the
 course of their societies. In 1927, chemists E. Perrot and M. Raymond-Hamet isolated the
-active agent from *[[peganum-harmala]]*, and the name harmine was given
+active agent from *[[peganum-harmala]]*, and the name [[harmine]] was given
 official precedence. The story of telepathine's naming and renaming encapsulates the
 tension between the extraordinary phenomenological reports of indigenous use and the
 reductionist framework of Western pharmacology.

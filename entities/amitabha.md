@@ -16,7 +16,7 @@ Amitabha is associated with the fire element and the color red.
 
 He represents the transmutation of desire and attachment into discriminating wisdom.
 
-In the [[bardo-thodol]], Amitabha appears on a specific day of the Second Bardo visions.
+In the [[bardo-thodol]], Amitabha appears on a specific day of [[the-second-bardo-and-hallucinatory-visions]] visions.
 
 ## Classification
 
@@ -35,11 +35,11 @@ In the [[bardo-thodol]], Amitabha appears on a specific day of the Second Bardo 
 
 3. Amitabha transmutes the poison of desire/attachment into the wisdom of discrimination.
 
-4. In the Bardo Thodol, Amitabha appears accompanied by his consort and attending deities.
+4. In [[the-bardo-thodol-as-living-guide]], Amitabha appears accompanied by his consort and attending deities.
 
 5. He is one of the most widely revered Buddhas in East Asian Buddhism, particularly in Pure Land traditions.
 
-6. In *The Psychedelic Experience*, Amitabha is associated with Vision 3 instructions.
+6. In *The [[leary-psychedelic-experience-bardo-mapping]]*, Amitabha is associated with Vision 3 instructions.
 
 7. The fire element connection links Amitabha to transformative, purifying energy in the psychedelic context.
 
@@ -53,7 +53,7 @@ In the [[bardo-thodol]], Amitabha appears on a specific day of the Second Bardo 
 
 In *The Psychedelic Experience*, Amitabha appears as one of the archetypal visions of the Second Bardo.
 
-The red, fiery quality of Amitabha corresponds to the intense emotional and sensory experiences during psychedelic sessions.
+The red, fiery quality of Amitabha corresponds to the intense emotional and sensory experiences during [[bardo-instruction-texts-psychedelic-sessions]].
 
 The instruction for Amitabha's vision guides the voyager to recognize the fire-like quality of psychedelic perception as an expression of discriminating wisdom.
 
@@ -69,7 +69,7 @@ The Amitabha vision is particularly relevant to experiences of overwhelming blis
 - **Sambhoga-Kaya**: The visionary body through which Amitabha manifests.
 - **Tri-Kaya**: The three-fold doctrine within which Amitabha operates as a Second Bardo deity.
 - **Herukas**: The wrathful counterparts to peaceful deities like Amitabha.
-- **Clear Light**: The primordial light from which Amitabha's "Infinite Light" emanates.
+- **[[clear-light]]**: The primordial light from which Amitabha's "Infinite Light" emanates.
 
 ## Psychological Significance
 
@@ -94,6 +94,6 @@ In the Vajrayana context of the Bardo Thodol, Amitabha appears as one of five Dh
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.
 - Lama Kazi Dawa-Samdup (translator). *Bardo Thodol*.
 - [[lama-anagarika-govinda]]. *Foundations of Tibetan Mysticism*.

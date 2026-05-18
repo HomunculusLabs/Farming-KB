@@ -23,7 +23,7 @@ crop quality. See [[gypsum-soil-amendment]].
 
 Gypsum is calcium sulfate dihydrate (CaSO4·2H2O), a white-to-grey crystalline
 mineral. Unlike limestone, gypsum does not significantly raise soil pH, which
-makes it safe for alkaline soils. Its primary agricultural uses are structural
+makes it safe for [[plants-tolerant-of-alkaline-soils]]. Its primary agricultural uses are structural
 rather than purely nutritional: calcium from gypsum flocculates clay particles
 into larger aggregates, improving aeration, water infiltration, and root
 penetration.
@@ -31,12 +31,12 @@ penetration.
 The most important application is treating sodic (sodium-rich) clays. Gypsum
 displaces sodium ions on clay exchange sites with calcium ions. The displaced
 sodium leaches away as sodium sulfate when the soil is flushed with fresh
-water. Typical application rates range from 1–3 handfuls per square metre
+water. Typical [[compost-tea-application-rates]] range from 1–3 handfuls per square metre
 (50–150 g/m²), depending on soil severity.
 
 Gypsum also provides sulfur in plant-available sulfate form. For soils needing
 both calcium and sulfur without pH adjustment, gypsum is the ideal amendment.
-It benefits mycorrhizal networks by improving soil structure in sodic
+It benefits [[arbuscular-mycorrhizal-networks]] by improving soil structure in sodic
 conditions and can be incorporated into compost as a calcium and sulfur
 source.
 
@@ -59,8 +59,8 @@ Choose elemental sulfur when the primary goal is lowering soil pH. Blueberry
 beds, azalea plantings, and other acid-loving crops benefit from sulfur's
 acidifying effect. It is also the right choice when a sulfur-only amendment is
 needed — for instance, where calcium levels are already adequate but sulfur is
-deficient. In soils with high calcium carbonate or excess lime, elemental
-sulfur gradually generates sulfuric acid through microbial oxidation, helping
+deficient. In soils with high [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] or excess lime, elemental
+sulfur gradually generates [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]] through microbial oxidation, helping
 to mobilize phosphorus and micronutrients that are locked up at high pH.
 
 Because elemental sulfur oxidizes slowly, it should be applied months before
@@ -85,7 +85,7 @@ particularly valuable in no-till systems where calcium cannot be mixed into
 the
 profile — gypsum's moderate solubility allows it to move downward with
 rainfall, improving subsoil structure over time. See also [[solomon-lime-calcium-ph-management]] framework provides detailed guidance on integrating these
-amendments into a comprehensive liming and fertilization program.
+amendments into a comprehensive liming and [[purdue-four-step-garden-fertilization-program]].
 
 ## See Also
 

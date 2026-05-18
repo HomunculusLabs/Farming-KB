@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Cubensis Malt Agar Dung Grain Cultivation
+title: [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] Malt Agar Dung [[grain-cultivation-small-scale]]
 created: 2026-04-28
 tags: [cultivation, psilocybe-cubensis, malt-agar, dung-grain-substrate, mycelial-growth, substrate]
 date: 2026-04-28
@@ -20,7 +20,7 @@ Malt agar is one of the most widely used media for fungal culture in
 mycological laboratories. The 6% concentration (6 grams of malt extract per
 100 mL of water) used in this study represents a relatively rich medium,
 providing ample carbohydrates, amino acids, minerals, and vitamins for
-robust mycelial growth.
+robust [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 Malt extract is produced by hydrolyzing barley malt, yielding a complex
 mixture of maltose, glucose, dextrins, amino acids, and B vitamins. This
@@ -33,7 +33,7 @@ In the Gartz study, malt agar was used specifically to measure mycelial
 growth rate, as the flat transparent surface allows easy visualization and
 measurement of colony diameter over time. The ten replicate runs per
 treatment condition provided adequate statistical power to detect the
-2-3 fold growth rate increase observed with brassinosteroid treatment.
+2-3 fold growth rate increase observed with [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]].
 
 ## Role of KH2PO4
 
@@ -56,7 +56,7 @@ on herbivore dung in tropical and subtropical grasslands.
 
 Horse dung provides a complex organic substrate rich in partially digested
 plant material, including cellulose, hemicellulose, lignin fragments, and
-microbial biomass. Rice grain serves as a nutrient-dense supplement,
+[[soil-microbial-biomass-measurement-ecological-significance]]. Rice grain serves as a nutrient-dense supplement,
 providing readily available starch and protein that supports rapid
 [[mycelial-colonization]]. The combination creates a substrate with both
 immediate nutritional availability (from grain) and sustained nutrient
@@ -67,7 +67,7 @@ and typically pasteurizing or sterilizing before inoculation. In the Gartz
 study, the substrate was supplemented with KH2PO4 and, in experimental
 groups, with 10^-2 ppm brassinosteroid. The water content of the prepared
 substrate is critical: too dry limits mycelial growth, while too wet creates
-anaerobic conditions that favor bacterial contamination.
+[[aact-ph-and-anaerobic-conditions]] that favor bacterial contamination.
 
 ## Fruiting Induction and Flush Patterns
 

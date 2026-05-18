@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Euphorbia antiquorum is a large, succulent, thorny shrub or small tree in the Euphorbiaceae family, widely used across tropical Asia as a living fence and barrier plant. Mollison specifically cites E. antiquorum as a traditional fencing material in India, alongside [[lycium-ferocissimum]] in Australia, as examples of plant-based fencing solutions for dryland gardens where post-and-wire fencing is unaffordable.
+Euphorbia antiquorum is a large, succulent, thorny shrub or small tree in the Euphorbiaceae family, widely used across tropical Asia as [[query-how-do-i-design-and-plant-a-living-fence]] and barrier plant. Mollison specifically cites E. antiquorum as a traditional fencing material in India, alongside [[lycium-ferocissimum]] in Australia, as examples of plant-based fencing solutions for dryland gardens where post-and-wire fencing is unaffordable.
 
 ## Classification
 
@@ -21,7 +21,7 @@ Euphorbia antiquorum is a large, succulent, thorny shrub or small tree in the Eu
 
 ## Key Facts
 
-- Native to tropical and subtropical Asia: India, Sri Lanka, Southeast Asia, southern China
+- Native to tropical and subtropical Asia: India, Sri Lanka, [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]], southern China
 - Thick, fleshy, angular stems with prominent spines along the ridges
 - Stems are 3-4 angled (triangular to quadrangular cross-section), segmented
 - Small,短暂 leaves that drop quickly; photosynthesis occurs primarily through green stems
@@ -71,18 +71,18 @@ E. antiquorum exemplifies the [[vetiver-grass]] - companion hedgerow species
 
 Beyond fencing, E. antiquorum has traditional applications:
 
-- In Ayurvedic medicine, the latex is used (with extreme caution) for treating skin conditions
+- In Ayurvedic medicine, the latex is used (with extreme caution) for treating [[cannabis-for-skin-conditions-detailed]]
 - The wood from older stems is used for light construction and fuel
 - Planted near homes as a protective barrier against both animals and intruders
 - Sometimes incorporated into temple gardens in South and Southeast Asia
 - The plant has insecticidal properties; latex deters many insect pests
-- Root systems help stabilize embankments and prevent erosion on slopes
+- Root systems help stabilize embankments [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] on slopes
 
 ## Regional Variations
 
 Living fence traditions vary by region, and E. antiquorum is one species in a global catalog:
 
-- In Indonesia and Malaysia, E. antiquorum is planted along property boundaries
-- In arid regions of India, it forms the primary perimeter defense for village gardens
+- In Indonesia and Malaysia, E. antiquorum is planted along [[holzer-high-beds-property-boundaries]]
+- [[fukuoka-natural-farming-in-arid-regions]] of India, it forms the primary perimeter defense for village gardens
 - Combined with thorny Acacia species for multi-layered fencing systems
 - In some regions, E. antiquorum is interplanted with Agave for additional barrier density

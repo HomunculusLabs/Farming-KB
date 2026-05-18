@@ -20,8 +20,8 @@ Static compost is compost produced by stacking organic materials in a pile witho
 - Static compost piles are not turned during the composting process, allowing anaerobic zones to develop in the interior.
 - The exterior of the pile remains aerobic, creating a gradient of conditions from aerobic shell to anaerobic core.
 - Critical rule: static compost piles must not be opened or disturbed until the process is complete and the material has fully stabilized.
-- Opening a static pile prematurely can release anaerobic organisms and toxic compounds (hydrogen sulfide, ammonia, organic acids) that harm plants and soil biology.
-- Static composting is slower than thermal composting but requires significantly less labor and equipment.
+- Opening a static pile prematurely can release [[anaerobic-organisms-compost]] and toxic compounds (hydrogen sulfide, ammonia, organic acids) that harm plants and soil biology.
+- Static composting is slower than [[thermal-composting-vs-aact]] but requires significantly less labor and equipment.
 - The anaerobic interior may not achieve pathogen kill temperatures, making proper curing time essential for safety.
 - Static compost may have different organism community structures compared to thermal or worm compost.
 
@@ -29,7 +29,7 @@ Static compost is compost produced by stacking organic materials in a pile witho
 
 - Static compost is listed as one of three compost sources for soil foodweb inoculation, alongside thermal compost and worm compost.
 - For compost tea production, static compost may carry risks if anaerobic organisms persist — testing through Soil Foodweb Inc. analysis is recommended.
-- The warning about not opening static piles prematurely is relevant to mushroom substrate preparation, where anaerobic zones can produce compounds toxic to mycelium.
+- The warning about not opening static piles prematurely is relevant to [[fungicide-treated-seed-hazard-mushroom-substrate-preparation]], where anaerobic zones can produce compounds toxic to mycelium.
 - Static compost may be suitable for certain applications where slower processing is acceptable and labor is limited.
 - Understanding the anaerobic interior dynamics of static compost helps explain why Elaine Ingham recommends thermal or worm compost as preferred inoculum sources.
 - For mushroom growers, static composting principles inform the management of outdoor wood chip beds and log-based cultivation systems.
@@ -37,8 +37,8 @@ Static compost is compost produced by stacking organic materials in a pile witho
 
 ## Sources and References
 
-- Elaine Ingham, *The Field Guide I for Actively Aerated Compost Tea (AACT)*, 2001–2003
-- Soil Foodweb Inc. compost quality assessment protocols
+- Elaine Ingham, *The Field Guide I for [[actively-aerated-compost-tea-basics]] Tea (AACT)*, 2001–2003
+- Soil Foodweb Inc. [[ingham-compost-quality-assessment-visual-microbial-indicators]] protocols
 
 ## Process Parameters
 
@@ -68,7 +68,7 @@ Static compost is compost produced by stacking organic materials in a pile witho
 
 - Additional research needed for comprehensive coverage
 - Cross-reference with related wiki entries recommended
-- Data synthesized from multiple agricultural science sources
+- Data synthesized from multiple [[fukuoka-critique-agricultural-science-laws-liebig]] sources
 ## Overview
 
 Fundamental concept in agricultural and ecological systems. Understanding this topic provides insight into sustainable management practices and biological processes.

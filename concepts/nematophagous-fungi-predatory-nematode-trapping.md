@@ -1,5 +1,5 @@
 ---
-title: Nematophagous Fungi — Predatory Fungi That Trap and Kill Nematodes
+title: [[endophytes-woody-plants-nematophagous-fungi]] — Predatory Fungi That Trap and Kill Nematodes
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[nematophagous-fungi]] are a diverse group of fungi that capture, kill, and digest nematodes. They have evolved remarkable morphological adaptations for trapping their prey, including adhesive structures, mechanical traps, and spore-based infection strategies. These fungi are ecologically important as natural regulators of nematode populations and have attracted interest as biocontrol agents against plant-parasitic nematodes. Phylogenetic analyses based on 18S rDNA sequences show that nematode-trapping fungi form a **monophyletic clade** among apothecial ascomycetes.
+[[nematophagous-fungi]] are a diverse group of fungi that capture, kill, and digest nematodes. They have evolved remarkable morphological adaptations for trapping their prey, including adhesive structures, mechanical traps, and spore-based infection strategies. These fungi are ecologically important as natural regulators of nematode populations and have attracted interest as [[singh-entomopathogenic-fungi-biocontrol-agents]] against plant-parasitic nematodes. Phylogenetic analyses based on 18S rDNA sequences show that nematode-trapping fungi form a **monophyletic clade** among apothecial ascomycetes.
 
 ## Trap Morphology and Types
 
@@ -49,7 +49,7 @@ Regardless of trap type, infection follows a conserved sequence of events:
 
 1. **Attachment**: Trap cells adhere to the nematode surface (cuticle).
 2. **Penetration**: The fungus penetrates the nematode cuticle, typically via an infection peg.
-3. **Digestion**: Extracellular enzymes break down nematode tissues.
+3. **Digestion**: [[fungal-extracellular-enzymes]] break down nematode tissues.
 4. **Assimilation**: The fungus absorbs nutrients from the killed nematode.
 
 ## Phylogenetic Relationships
@@ -69,7 +69,7 @@ The nematode-trapping fungal clade is related to, but distinct from, other group
 - *Choiromyces venosus*
 - *Rhizina undulata*
 
-Notably, common laboratory fungi like *Aspergillus niger* and *Saccharomyces cerevisiae* are outside this clade, as is *Neolecta vitellina*.
+Notably, common laboratory fungi like *[[aspergillus-niger]]* and *[[saccharomyces-cerevisiae]]* are outside this clade, as is *Neolecta vitellina*.
 
 ## Ecological Significance
 
@@ -77,7 +77,7 @@ Notably, common laboratory fungi like *Aspergillus niger* and *Saccharomyces cer
 
 - Nematophagous fungi are important natural regulators of nematode populations in soil ecosystems.
 - They contribute to the "suppressive soil" phenomenon, where certain soils naturally limit nematode damage to crops.
-- Their activity is influenced by soil moisture, temperature, organic matter, and agricultural practices.
+- Their activity is influenced by soil moisture, temperature, organic matter, and [[mycorrhizal-agricultural-practices]].
 
 ### Biocontrol Potential
 

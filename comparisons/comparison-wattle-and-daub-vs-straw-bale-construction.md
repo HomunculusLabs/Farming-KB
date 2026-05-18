@@ -13,7 +13,7 @@ type: comparison
 ## Overview
 
 Wattle and daub and [[straw-bale-construction]] are two of humanity's oldest
-building techniques, both relying on locally sourced, renewable materials
+[[mollison-designers-straw-bale-building-techniques]], both relying on locally sourced, renewable materials
 to create insulated, breathable walls. Wattle and daub uses a woven
 wooden lattice packed with earthy mortar, while straw bale construction
 stacks baled straw and plasters it on both sides. They share a
@@ -39,7 +39,7 @@ days. The bales serve as both structure and insulation simultaneously
 in load-bearing designs, or as infill within a post-and-beam frame.
 
 Key vulnerabilities include moisture: if bales get wet and cannot dry,
-fungal decay can compromise the wall rapidly. Proper detailing —
+[[fungal-decay-and-nutrient-transport]] can compromise the wall rapidly. Proper detailing —
 raised foundations, generous roof overhangs, breathable plasters, and
 good site drainage — is essential. Straw bale walls also require more
 square footage of floor plan due to wall thickness, and the bales must
@@ -51,7 +51,7 @@ be kept dry during construction.
 |--------|----------------|------------|
 | Wall Thickness | 100-200 mm | 450-600 mm |
 | Insulation (R-value) | R-2 to R-4 | R-25 to R-35 |
-| Thermal Mass | High | Low to Moderate |
+| [[comparison-windbreak-vs-thermal-mass]] | High | Low to Moderate |
 | Construction Speed | Slow (daub applied by hand) | Fast (bales stack quickly) |
 | Material Cost | Very low (on-site soil) | Low (agricultural bales) |
 | Structural Role | Infill only (needs frame) | Load-bearing or infill |
@@ -74,12 +74,12 @@ with materials they can harvest directly from their land.
 The moderate wall thickness preserves interior floor space compared to
 straw bale, and the high thermal mass helps stabilize indoor
 temperatures in climates with large diurnal swings. Wattle and daub
-pairs naturally with timber framing, cob, and light earth construction
+pairs naturally with [[preserving-wood-timber-framing]], cob, and light earth construction
 for hybrid building approaches.
 
 ## When to Choose Straw Bale
 
-Straw bale construction shines in cold climates where insulation is the
+Straw bale construction shines [[query-how-do-i-grow-figs-in-cold-climates]] where insulation is the
 primary concern. The R-25 to R-35 wall performance drastically reduces
 heating energy, and the thick walls create a profound sense of
 shelter and solidity. It is ideal for owner-builders because the

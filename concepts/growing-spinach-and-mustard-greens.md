@@ -6,7 +6,7 @@ type: concept
 
 # Growing Spinach and Mustard Greens
 
-Spinach and mustard are cool-season greens with a twist: their fertilizer demand changes dramatically depending on whether they're grown for spring or winter harvest. For spring crops they are high-demand (because they bolt in spring, needing maximum growth before going to seed). For autumn/winter crops they are medium-demand (because they grow slowly over months before bolting).
+Spinach and mustard are cool-season greens with a twist: their fertilizer demand changes dramatically depending on whether they're grown for spring or [[cold-greenhouse-winter-harvest]]. For [[coleman-overwintered-onions-and-early-spring-crops]] they are high-demand (because they bolt in spring, needing maximum growth before going to seed). For autumn/[[coleman-semi-hibernating-winter-crops-harvest-extension]] they are medium-demand (because they grow slowly over months before bolting).
 
 ## The Demand Difference Explained
 
@@ -19,7 +19,7 @@ Spinach and mustard are cool-season greens with a twist: their fertilizer demand
 
 ### Fertilizer
 
-Work in strong compost or, better, COF (Complete Organic Fertilizer) made with some tankage or even highly potent bloodmeal instead of one part seedmeal. Work it in before sowing, then side-dress closer to the rows of seedlings as soon as they start forming their first true leaf.
+Work in strong compost or, better, COF ([[complete-organic-fertilizer]]) made with some tankage or even highly potent bloodmeal instead of one part seedmeal. Work it in before sowing, then side-dress closer to the rows of seedlings as soon as they start forming their first true leaf.
 
 ### Timing
 
@@ -39,7 +39,7 @@ A few spinach varieties, bred for reluctance to bolt, can be grown in summer. Th
 
 ### Summer Mustard Greens
 
-There is also one Asian mustard green that will not bolt in summer. It is mild flavored, with broad off-white stalks — not as fancy as some of the tsai-tsoi types, but still pretty good. Johnny's Selected Seeds has a hybrid pac-choi for summer; Territorial still offers the older OP variety.
+There is also one Asian mustard green that will not bolt in summer. It is mild flavored, with broad off-white stalks — not as fancy as some of the tsai-tsoi types, but still pretty good. Johnny's [[johnnys-selected-seeds]] has a hybrid pac-choi for summer; Territorial still offers the older OP variety.
 
 ## Harvest Technique
 
@@ -53,7 +53,7 @@ In spring, at the first signs of bolting, cut the whole patch and resow the area
 
 ### Autumn/Winter Harvest
 
-In autumn, if growing for autumn harvest, feed them. One leaf per week from each plant works well, but they'll continue producing through the cool season.
+In autumn, if growing for autumn harvest, feed them. One leaf per week from each plant works well, but they'll continue producing through the [[query-how-do-i-grow-cool-season-brassicas-cabbage-broccoli-cauliflower-kale]].
 
 ## Saving Seed
 

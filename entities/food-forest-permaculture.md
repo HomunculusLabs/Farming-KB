@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens Vol. I & II. Chelsea Green."
-  - "Mollison, B. (1988). Permaculture: A Designer's Manual. Tagari Publications."
+  - "Mollison, B. (1988). Permaculture: A Designer's Manual. [[tagari-publications]]."
   - "Shepard, M. (2013). Restoration Agriculture. Acres USA."
 ---
 
@@ -31,7 +31,7 @@ A food forest — also called a forest garden or edible forest garden — is a p
 Natural forests are the most productive and resilient terrestrial ecosystems. They exhibit:
 
 - **Vertical stratification**: Multiple canopy layers capturing sunlight at every height
-- **Nutrient cycling**: Closed-loop decomposition with no external inputs needed
+- **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]**: Closed-loop decomposition with no external inputs needed
 - **Mutualistic networks**: Mycorrhizal fungi connecting plants for [[functional-redundancy-fungal-communities]] and pest resilience
 
 A food forest replicates these principles with species selected for human utility — food, medicine, fiber, fuel, and fertility.
@@ -70,7 +70,7 @@ The classic food forest model comprises seven distinct vertical layers:
 ### Phase 3: Understory Development (Years 3–7)
 
 - Fill shrub and herbaceous layers as canopy begins to cast shade
-- Introduce mushroom cultivation on inoculated logs and woodchip beds
+- Introduce [[accessible-mushroom-cultivation-for-disabilities]] on inoculated logs and woodchip beds
 - Begin chop-and-drop mulching cycles with support species
 - Reduce annual cropping as perennials mature
 
@@ -78,7 +78,7 @@ The classic food forest model comprises seven distinct vertical layers:
 
 - Canopy closes; shade-tolerant understory species thrive
 - System becomes increasingly self-maintaining
-- Nutrient cycling operates through decomposition and mycelial networks
+- Nutrient cycling operates through decomposition and [[ectomycorrhizal-nutrient-cycling-mycelial-networks]]
 - Selective pruning and harvest become primary management activities
 
 ### Phase 5: Climax Food Forest (Years 15+)
@@ -86,7 +86,7 @@ The classic food forest model comprises seven distinct vertical layers:
 - Fully productive, largely self-sustaining ecosystem
 - Minimal external inputs required
 - Yields stabilize at 2–5 kg/m²/year for established temperate systems
-- Carbon sequestration peaks; soil organic matter stabilizes at 5–10%
+- [[exotic-plantations-soil-aggregates-and-carbon-sequestration]] peaks; [[humus-and-soil-organic-matter]] stabilizes at 5–10%
 
 ## Species Selection by Climate
 

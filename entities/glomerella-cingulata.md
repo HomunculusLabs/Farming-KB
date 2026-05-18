@@ -12,7 +12,7 @@ type: entity
 Phyllachoraceae and the teleomorphic (sexual) stage of the anamorphic fungus
 *[[colletotrichum-gloeosporioides]]*. Together, this species pair represents one of
 the most important causes of preharvest and postharvest diseases in both
-temperate and tropical regions. The anamorph *C. gloeosporioides* is the most
+temperate and [[fukuoka-natural-farming-in-tropical-regions]]. The anamorph *C. gloeosporioides* is the most
 common anthracnose pathogen in the tropics, causing disease on an enormous range
 of wild and cultivated plants including avocado, citrus, mango, papaya, passion
 fruit, guava, cocoa, and rubber (Holliday 1980; Dodd et al. 1992). Thirty-nine
@@ -35,7 +35,7 @@ species and numerous subspecies of *Colletotrichum* are recognized (Sutton
 - **Host Range:** Extraordinarily broad — causes anthracnose of avocado, citrus,
   mango, papaya, passion fruit, guava, cocoa, rubber, and numerous other wild
   and cultivated plants (Holliday 1980; Dodd et al. 1992). This wide host range
-  makes it one of the most important plant pathogens in tropical agriculture.
+  makes it one of the most important plant pathogens [[termite-and-ant-ecology-in-tropical-agriculture]].
 
 - **Disease Symptoms:** Anthracnose symptoms are fairly conspicuous, typically
   consisting of sunken, irregularly shaped necrotic lesions on fruits, leaves,
@@ -50,8 +50,8 @@ species and numerous subspecies of *Colletotrichum* are recognized (Sutton
 
 - **Microscopic Characters:** Acervuli frequently produce dark brown setae and
   hyaline, aseptate conidia that germinate to produce appressoria. Appressoria
-  are specialized infection structures — melanized, dome-shaped cells that
-  generate enormous turgor pressure to mechanically penetrate the host cuticle.
+  are specialized [[fungal-appressorium-and-infection-structures]] — melanized, dome-shaped cells that
+  generate enormous [[bloomfield-turgor-pressure-and-hyphal-invasion]] to mechanically penetrate the host cuticle.
 
 - **Appressoria:** A key diagnostic and functional feature. Appressorium
   production can be induced in the laboratory by placing conidia in a drop of
@@ -65,7 +65,7 @@ species and numerous subspecies of *Colletotrichum* are recognized (Sutton
 
 - **Species Complex:** *C. gloeosporioides* is now recognized as a species
   complex containing multiple [[cryptic-species]] that differ in host range and
-  geographic distribution. Modern taxonomy uses multilocus sequence analysis to
+  [[geographic-distribution-of-psilocybe-species]]. Modern taxonomy uses [[fungi-multilocus-sequence-typing-molecular-epidemiology]] analysis to
   resolve species boundaries.
 
 ## Relevance to Cultivation and Mycology

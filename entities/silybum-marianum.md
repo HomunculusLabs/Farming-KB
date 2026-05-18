@@ -2,7 +2,7 @@
 title: "Silybum marianum"
 created: 2026-04-28
 type: species
-tags: [herbal-plant, hepatoprotective, asteraceae, medicinal-plant, antioxidant, permaculture]
+tags: [herbal-plant, hepatoprotective, asteraceae, medicinal-plant, antioxidant, [[permaculture]]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -20,12 +20,12 @@ of several flavonolignans, primarily silybin (silibinin), which is the
 most biologically active constituent. Milk thistle is among the
 best-studied herbal medicines, with extensive clinical evidence supporting
 its use in liver disorders, and it also has applications in [[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines calcium, potassium, and
-  trace minerals from subsoil; leaves return these to surface soil when
+  [[dynamic-accumulator-plants-trace-minerals]] from subsoil; leaves return these to surface soil when
   they decompose
 - **Pollinator Support:** Rich nectar source for bees and butterflies;
   blooms July–September when many other nectar sources are declining
 - **[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
-  (lead, cadmium) from contaminated soils
+  (lead, cadmium) from [[fungal-competition-survival-contaminated-soils]]
 - **Soil Improvement:** Deep taproot breaks compacted subsoil layers,
   improving drainage and aeration
 - **Seed as Food:** Hulled seeds (thistle hearts) are edible and

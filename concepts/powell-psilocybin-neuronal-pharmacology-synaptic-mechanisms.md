@@ -1,5 +1,5 @@
 ---
-title: Powell Psilocybin Neuronal Pharmacology Synaptic Mechanisms
+title: [[powell-psilocybin-brain-plasticity]] Neuronal Pharmacology Synaptic Mechanisms
 created: 2026-04-28
 tags: [psilocybin, neuroscience, neurons, synapse, neurotransmitter, brain, powell]
 date: 2026-04-25
@@ -26,7 +26,7 @@ twice the number of people alive on the planet. These neurons are the
 essential wetware of the brain and, massed together with other cells that
 provide support and energy, they form the grey matter within our skulls.
 
-Structurally, the neuron has four main components: dendrites, the soma or
+Structurally, the neuron has four main components: dendrites, the [[soma]] or
 cell body, the axon, and terminal fibres. Powell offers a memorable
 analogy: imagine a tree suspended in mid-air, where the roots are the
 dendrites, the lower bulbous trunk is the soma, the long thin upper trunk

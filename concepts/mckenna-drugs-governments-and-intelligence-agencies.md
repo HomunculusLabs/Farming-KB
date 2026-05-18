@@ -1,7 +1,7 @@
 ---
 title: Drugs, Governments, and Intelligence Agencies
 created: 2026-04-28
-tags: [drug-policy, government, CIA, intelligence, heroin, cocaine, McKenna, food-of-the-gods, prohibition]
+tags: [drug-policy, government, CIA, intelligence, [[heroin]], [[cocaine]], McKenna, food-of-the-gods, prohibition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]

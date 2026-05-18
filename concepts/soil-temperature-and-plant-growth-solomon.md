@@ -19,7 +19,7 @@ for [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] germinati
   40-65°F (4-18°C) soil temperature.
 - **Warm-season crops** (tomatoes, peppers, eggplant, beans): germinate best at
   65-85°F (18-29°C) soil temperature.
-- **Hot-season crops** (okra, melons, sweet potatoes): need soil temperatures
+- **Hot-season crops** (okra, melons, [[growing-sweet-potatoes]]): need soil temperatures
   above 70°F (21°C) for reliable germination.
 
 ### Watering Lowers Soil Temperature
@@ -38,9 +38,9 @@ air, and soil particles determines whether roots (and [[solomon-sprouting-seeds-
 ### The Soil Air-Water Balance
 Healthy soil is approximately 50% mineral particles, 25% water, and 25% air by
 volume. When soil is waterlogged, water displaces air in the pore spaces, creating
-anaerobic conditions. Without oxygen:
+[[aact-ph-and-anaerobic-conditions]]. Without oxygen:
 - Seeds cannot germinate (embryo suffocates)
-- Roots cannot respire (no energy for nutrient uptake)
+- Roots cannot respire (no energy for [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]])
 - Anaerobic bacteria produce toxic compounds (hydrogen sulfide, methane)
 - Beneficial aerobic microorganisms die, disrupting soil ecology
 
@@ -75,8 +75,8 @@ drying into a tough, impenetrable skin.
 ### Puddling
 Puddling happens when a gardener waters after planting, and the soil slumps into a
 solid, nearly airless mass. The surface seals, preventing both water infiltration
-and gas exchange.
+and [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
 
 ### Prevention Through Humus
 The solution to both crusting and puddling is to increase the amount of decomposed
-organic matter ([[humus]]) in the soil. When enough humus is mixed in, particles of
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] ([[humus]]) in the soil. When enough humus is mixed in, particles of

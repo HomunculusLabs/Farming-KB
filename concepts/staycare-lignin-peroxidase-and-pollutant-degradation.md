@@ -1,5 +1,5 @@
 ---
-title: Lignin Peroxidase and Pollutant Degradation
+title: [[fungal-lignin-peroxidase-veratryl-alcohol]] and [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 created: 2026-04-28
 tags: [bioremediation, lignin-peroxidase, fungal-enzymes, pollutant-degradation]
 date: 2026-04-25
@@ -11,14 +11,14 @@ type: concept
 # Lignin Peroxidase and Pollutant Degradation
 
 Lignin peroxidase (LiP) is a water-soluble, glycosylated extracellular
-enzyme secreted by white rot fungi. Like [[cervantes-hydrogen-peroxide-sterilization]] for catalysis. LiP is unique among
+enzyme secreted by [[brown-rot-and-white-rot-fungi-in-mycoremediation]]. Like [[cervantes-hydrogen-peroxide-sterilization]] for catalysis. LiP is unique among
 fungal peroxidases in its ability to produce radical cations from the
 one-electron oxidation of non-phenolic aromatic compounds, making it a
 powerful agent for the degradation of recalcitrant environmental pollutants
 including [[phanerochaete-chrysosporium]] by
 Tien and Kirk (1984), LiP is a haem-containing peroxidase that operates at
 an optimum pH below 3.0. The enzyme shows signs of instability under
-certain conditions but is protected by veratryl alcohol (VA), a secondary
+certain conditions but is protected by [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] (VA), a secondary
 metabolite produced by many white rot fungi that enhances LiP activity by
 protecting it from inactivation by excess H2O2.
 
@@ -51,7 +51,7 @@ VA is a fungal metabolite produced simultaneously with LiP. The products
 of VA oxidation are radical cations that act as one-electron oxidants
 themselves, creating reactive radical cations in secondary substrates by
 charge transfer. When secondary substrates are phenylpropanoid structures
-typifying lignin, carbon-carbon and C-O-ether side chain cleavage reactions
+typifying lignin, carbon-carbon and C-O-ether [[dimethylamine-amidation-tryptamine-side-chain-construction]] cleavage reactions
 of the radical cations lead to lignin depolymerization. The primary
 oxidant (VA radical) is restored following oxidation of the secondary
 substrate, creating a catalytic redox shuttle.

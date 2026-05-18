@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Hickories (*Carya* spp.) and butternut (*[[juglans-cinerea]]*) are among the most valuable native nut-producing trees in North America. Long-lived, deeply rooted, and ecologically foundational, they produce nutrient-dense nuts prized for culinary use, provide exceptional timber, and serve as [[drought-tolerant-planting-design]], sandy soils
+Hickories (*Carya* spp.) and butternut (*[[juglans-cinerea]]*) are among the most valuable native nut-producing trees in [[guzman-psilocybin-mushrooms-north-america]]. Long-lived, deeply rooted, and ecologically foundational, they produce nutrient-dense nuts prized for culinary use, provide exceptional timber, and serve as [[drought-tolerant-planting-design]], sandy soils
 - Red hickory (*C. ovalis*) — upland species
 
 **Pecan Hickories (Sinocarya section):**
@@ -45,7 +45,7 @@ Larger in all dimensions than shagbark, with even more dramatic bark. Prefers mo
 
 **Characteristics:**
 - Height: 60–100 ft (18–30 m)
-- Growth rate: Slow to moderate
+- [[soil-temperature-plant-growth-rate-doubling-rule]]: Slow to moderate
 - Nut size: 1.75–2.5 inches — largest of the hickories
 - Kernel: Sweet, 12–18% kernel by weight
 - Hardiness: USDA Zones 5–8
@@ -67,9 +67,9 @@ Larger in all dimensions than shagbark, with even more dramatic bark. Prefers mo
 - Nut size: 1.5–2.5 inches, oblong, pointed
 - Kernel: Oily, buttery, sweet, ~40% kernel by weight
 - Hardiness: USDA Zones 3–7
-- Chill hours: 800–1200
+- [[chill-hours-morel-cultivation]]: 800–1200
 
-**Butternut vs. Black Walnut:**
+**Butternut vs. [[black-walnut-juglans-allelopathy]]:**
 - Butternut kernels are oilier and sweeter, with a distinctive buttery flavor
 - Butternut shells are softer and more easily cracked by hand
 - Butternut trees are smaller and more cold-hardy
@@ -103,7 +103,7 @@ Larger in all dimensions than shagbark, with even more dramatic bark. Prefers mo
 - pH range: 5.5–7.5, prefers slightly acidic to neutral (6.0–7.0)
 - Shagbark tolerates rocky, thin soils better than shellbark
 - Shellbark demands deep, moist, fertile bottomland soils
-- Sandy loam to clay loam acceptable if well-drained
+- [[sandy-loam-texture-cannabis-microbiome-assembly]] to clay loam acceptable if well-drained
 - Poor tolerance of waterlogged soils (except water hickory)
 - Deep taproot makes them drought-tolerant once established
 - Benefit from 3–6 ft (1–2 m) of soil depth

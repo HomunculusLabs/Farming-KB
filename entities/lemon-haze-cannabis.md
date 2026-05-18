@@ -1,5 +1,5 @@
 ---
-title: "Lemon Haze (blesching-cannabis-strain-selection-receptor-targeting)"
+title: "[[cannabis-strain-super-lemon-haze-greenhouse-seed-co]] (blesching-cannabis-strain-selection-receptor-targeting)"
 type: strain
 tags: [cannabis, sativa, citrus, terpenes, limonene, uplifting]
 date: 2026-04-28
@@ -24,7 +24,7 @@ The strain exemplifies the modern approach to [[cannabis-terpene-profiles-sativa
 
 ### Parent Strains
 
-**Silver Haze (Sativa-dominant)**
+**[[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]] (Sativa-dominant)**
 - Lineage:  reen (SCROG)**: Ideal for managing the strain's tall stature indoo [[cannabis-terpene-profiles]]
 ## Practical Applications
 

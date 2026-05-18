@@ -1,5 +1,5 @@
 ---
-title: Allegro Secret Sacred Mushroom Names Cross Cultural Synonyms Korkoron Balag Nomenclature
+title: Allegro Secret [[sacred-mushroom-names-cross-cultural-synonyms]] [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]] Synonyms Korkoron Balag Nomenclature
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

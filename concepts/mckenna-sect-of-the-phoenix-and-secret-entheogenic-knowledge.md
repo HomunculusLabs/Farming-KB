@@ -1,5 +1,5 @@
 ---
-title: Mckenna Sect Of The Phoenix And Secret Entheogenic Knowledge
+title: [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]] The Phoenix And Secret [[entheogenic-knowledge-secret-societies]]
 source: mckenna_t-tryptamines_consciousness.md
 tags: [terence-mckenna, borges, sect-of-the-phoenix, aleph, dmt,
   black-hole-effect, secret-knowledge, entheogen, tryptamine]
@@ -23,7 +23,7 @@ and the accumulated wisdom of hands-on practice in the field.
 [[historical-development-of-mushroom-cultivation]] of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 

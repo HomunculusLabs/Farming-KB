@@ -1,5 +1,5 @@
 ---
-title: Mushroom Inoculation Aseptic Technique
+title: [[mushroom-inoculation]] Aseptic Technique
 created: 2026-05-11
 updated: 2026-05-11
 sources:
@@ -13,14 +13,14 @@ tags: [inoculation, sterile-technique, mushroom-cultivation, contamination, myco
 Inoculation is the process of introducing fungal inoculant -- spores, liquid
 culture, or agar tissue -- into a [[grass-seed-substrate]]:
 
-- **Spore syringe** -- A suspension of mushroom spores in sterile water.
+- **[[comparison-mushroom-liquid-culture-vs-spore-syringe]]** -- A suspension of [[query-how-to-store-mushroom-spores-long-term]] in sterile water.
   Spores must germinate before colonization begins, making this the slowest
   [[jadam-ambient-temperature-principle]],
 cooling may take several hours to overnight.
 
 All tools and surfaces should be cleaned and disinfected before beginning.
 The work area should be as clean as possible, with drafts minimized. A
-simple cardboard box hood is sufficient to prevent drafts and reduce
+simple [[cardboard-box-inoculation-hood-draft-prevention-mycology]] hood is sufficient to prevent drafts and reduce
 airborne contamination during the procedure.
 
 ## Flame Sterilization
@@ -56,7 +56,7 @@ throughout the substrate.
 
 After shaking, the lid is loosened again. This is essential for gas exchange
 during colonization. Mycelium requires oxygen and produces carbon dioxide.
-A tight lid would create anaerobic conditions that inhibit growth and
+A tight lid would create [[aact-ph-and-anaerobic-conditions]] that inhibit growth and
 may promote bacterial contamination.
 
 ## Draft Prevention
@@ -70,7 +70,7 @@ More sophisticated options include still air boxes (plastic containers with
 arm holes) and laminar flow hoods (HEPA-filtered laminar airflow workstations).
 These provide progressively higher levels of protection but are not strictly
 necessary for successful cultivation, particularly when working with spore
-or liquid culture syringes that can be injected through a self-healing
+or [[comparison-agar-vs-liquid-culture]] syringes that can be injected through a self-healing
 injection port.
 
 ## Post-Inoculation Handling
