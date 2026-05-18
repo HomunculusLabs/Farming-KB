@@ -55,7 +55,7 @@ their own food via photosynthesis.
 Protozoa arrive in areas of bacterial abundance in a consistent progression.
 First come flagellates (smallest, able to access tiny soil pores), then
 ciliates, and finally amoebae. On average, a single protozoan can consume
-10,000 bacteria per day. The combined grazing pressure eventually reduces
+10,000 bacteria per day. The combined [[gadd-mycelial-network-resilience-grazing-pressure]] eventually reduces
 bacterial populations, at which point larger protozoa begin eating smaller
 ones, allowing bacterial populations to stabilize.
 

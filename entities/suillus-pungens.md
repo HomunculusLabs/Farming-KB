@@ -4,7 +4,7 @@ created: 2026-04-28
 type: species
 tags:
   - fungi
-  - basidiomycota
+  - [[basidiomycota]]
   - boletales
   - suillaceae
   - suillus
@@ -12,14 +12,14 @@ tags:
   - pine-associate
   - western-north-america
   - california
-  - mycology
+  - [[mycology]]
   - foraging
   - forest-ecology
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Thiers, H.D. (1975). "California boletes: the genus Suillus." Mycotaxon 2(2): 197–218.
-  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." Ann Arbor: University of Michigan Press.
+  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of [[growing-gourmet-north-american-reishi-species]] species of Suillus." Ann Arbor: University of Michigan Press.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html
 ---
@@ -67,7 +67,7 @@ Basidiomycota → Agaricomycetes → Boletales → **Suillaceae → *Suillus →
   acrid, fruity, or chemical-like. This is the most reliable field character.
 - **Taste:** Mild to slightly acidic.
 - **[[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area south to San Luis Obispo County.
-- **Habitat:** Exclusively ectomycorrhizal with Monterey pine (*Pinus radiata*).
+- **Habitat:** Exclusively ectomycorrhizal with Monterey pine (*[[pinus-radiata]]*).
   Found in coastal pine forests, often in sandy or loamy soils.
 - **Season:** Late autumn through early winter (November–February), appearing
   with the onset of seasonal rains.

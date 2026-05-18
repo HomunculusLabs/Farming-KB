@@ -48,7 +48,7 @@ The genus *Acalypha* comprises approximately 450–570 species, making it one of
 - **Arrangement:** Alternate
 - **Blade:** Ovate to broadly ovate, 5–15 cm long, 3–10 cm wide
 - **Margin:** Crenate to serrate, occasionally dentate
-- **Texture:** Rough to the touch due to stellate trichomes on both surfaces
+- **Texture:** Rough to the touch due to stellate [[trichomes]] on both surfaces
 - **Petiole:** 2–6 cm, pubescent
 - **Venation:** Prominent lateral veins, palmately arranged
 

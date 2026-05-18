@@ -18,7 +18,7 @@ species), which forms the foundation of the property's productive and ecological
 systems.
 
 The project serves as a living demonstration of permaculture Principle 5 — "Use and
-Value Renewable Resources and Services" — showing how careful forest management can
+Value [[permaculture-principle-5-renewable-resources-services]] and Services" — showing how careful forest management can
 simultaneously obtain a yield adequate to cover management costs while increasing
 future timber and other forest values over time. It represents one of the most
 mature examples of applied [[permaculture-design]] in a temperate Australian context.
@@ -62,14 +62,14 @@ several mechanisms:
   and mycelial network expansion in the forest floor.
 - **Mulch Production**: Thinned material converted to mulch provides organic matter
   that feeds decomposer fungi and builds soil humus, enhancing [[soil-food-web]].
-- **Sustainable Forestry Model**: Demonstrates how forest management can maintain
+- **[[sustainable-forestry-coppicing-and-woodlot-management]] Model**: Demonstrates how forest management can maintain
   and enhance the ecological functions that support mycorrhizal fungal networks
   critical to forest health.
 - **Mycorrhizal Associations**: Box eucalypts (Eucalyptus species) form ectomycorrhizal
   associations with a range of fungi; maintaining healthy forest stands supports
-  these symbiotic relationships.
+  these [[fungi-in-the-environment-symbiotic-relationships]].
 - **Soil Building**: The mulch and organic matter from thinning operations feed
-  soil organisms including saprophytic fungi, contributing to nutrient cycling and
+  soil organisms including saprophytic fungi, contributing to [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]]
   soil structure improvement.
 - **Integrated Land Use**: The model shows how productive forestry can be combined
   with other land uses, including potential cultivation areas at forest edges and
@@ -77,6 +77,6 @@ several mechanisms:
 
 ## Source References
 
-- David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability*
-  (2002), Principle 5: Use and Value Renewable Resources and Services.
+- David Holmgren, *Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]*
+  (2002), Principle 5: Use [[permaculture-principle-use-and-value-renewable-resources]] Resources and Services.
 - Footnote references: HDS web site for Fryers Forest.

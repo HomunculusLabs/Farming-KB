@@ -18,7 +18,7 @@ sources:
 
 Coriolus versicolor (L.) Quél. is a wood-decay basidiomycete
 fungus
-belonging to the phylum Basidiomycota, class Agaricomycetes,
+belonging to the phylum [[basidiomycota]], class Agaricomycetes,
 order
 Polyporales, and family Polyporaceae. The species is now
 generally

@@ -1,5 +1,5 @@
 ---
-title: Mollison Designers Bamboo Treatment Preservation
+title: [[mollison-designers-bamboo-structure-construction-joinery]] Treatment Preservation
 created: 2026-04-28
 tags:
   - bamboo

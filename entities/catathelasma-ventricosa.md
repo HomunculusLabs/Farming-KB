@@ -7,7 +7,7 @@ tags: [species, mushroom, edible, north-america]
 
 ## Description
 
-Catathelasma ventricosa is a spectacular mushroom species found across much of North America that is notably covered in [[andrus-voitk]]'s *Common Mushrooms of Newfoundland and Labrador* (2007). It is a large, distinctive basidiomycete that is often absent from standard field guides despite its broad distribution.
+Catathelasma ventricosa is a spectacular mushroom species found across much [[huckleberries-and-wild-berries-of-north-america]] that is notably covered in [[andrus-voitk]]'s *Common Mushrooms of Newfoundland and Labrador* (2007). It is a large, distinctive basidiomycete that is often absent from standard field guides despite its broad distribution.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Catathelasma ventricosa is a spectacular mushroom species found across much of N
 
 ## Relevance to Cultivation and Mycology
 
-Catathelasma ventricosa represents an underdocumented but widely distributed North American species that may have cultivation potential. Species that are large, visually distinctive, and ecologically successful often possess robust mycelial growth characteristics that could translate to cultivation systems. Its omission from many field guides illustrates the gaps in North American mycological documentation that are slowly being addressed by regional specialists.
+Catathelasma ventricosa represents an underdocumented but widely distributed [[growing-gourmet-north-american-reishi-species]] species that may have cultivation potential. Species that are large, visually distinctive, and ecologically successful often possess robust mycelial growth characteristics that could translate to cultivation systems. Its omission from many field guides illustrates the gaps in North [[palmer-mushroom-charts-american-mycological-education]] documentation that are slowly being addressed by regional specialists.
 
 ## References
 
@@ -47,13 +47,13 @@ accurate classification at the species level.
 ## Ecological Role and Habitat
 
 In its natural habitat, this species participates in
-complex nutrient cycling processes. Mycorrhizal and
+complex [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] processes. Mycorrhizal and
 saprotrophic interactions connect it to broader forest
 ecosystem dynamics and soil food webs.
 
 ## Practical Significance
 
-Field identification requires attention to multiple
+[[amanita-muscaria-physical-description-field-identification]] requires attention to multiple
 macroscopic and microscopic characters. Habitat,
 seasonal timing, and associated tree species provide
 important clues for accurate determination.
@@ -75,7 +75,7 @@ particularly productive in generating new insights.
 The study of Catathelasma Ventricosa intersects with several related fields.
 Ecological principles provide context for understanding broader
 system dynamics. The practical applications extend beyond the
-immediate domain into areas of sustainable design and resource
+immediate domain into areas of [[ozier-pdc-maslows-hierarchy-sustainable-design]] and resource
 management that affect communities worldwide.
 
 ## Practical Applications and Methods

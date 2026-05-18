@@ -24,7 +24,7 @@ Daphnia is a genus of small planktonic crustaceans (water fleas) belonging to th
 
 ## Key Facts
 
-- One of the primary zooplankton genera in sewage lagoons, alongside Moina, Chydorus, and Pleuroxus
+- One of the primary zooplankton genera in [[werribee-sewage-lagoons-mollison]], alongside Moina, Chydorus, and Pleuroxus
 - Filter-feeds on algae, bacteria, and organic particles, clearing the water column
 - Can bloom to densities of 100 mg/l in nutrient-rich environments
 - Concentrates heavy metals from the water column in their tissues
@@ -35,7 +35,7 @@ Daphnia is a genus of small planktonic crustaceans (water fleas) belonging to th
 
 ## Heavy Metal Bioaccumulation
 
-Mollison reports that zooplankton (including Daphnia) accumulate significant concentrations of heavy metals in mg/l dry weight:
+Mollison reports that zooplankton (including Daphnia) accumulate significant concentrations [[staycare-fungal-biosorption-of-heavy-metals]] in mg/l dry weight:
 
 - **Iron**: 1,200 mg/l
 - **Zinc**: 152 mg/l
@@ -45,14 +45,14 @@ Mollison reports that zooplankton (including Daphnia) accumulate significant con
 - **Lead**: 10.3 mg/l
 - **Cadmium**: 1.7 mg/l
 
-This concentration effect means harvested zooplankton are almost a mine in themselves for metals, and can be added to foodstuffs for poultry or pumped into forests and fields as manures and trace elements.
+This concentration effect means harvested zooplankton are almost a mine in themselves for metals, and can be added to foodstuffs for poultry or pumped into forests and fields as manures [[teaming-with-nutrients-micronutrients-and-trace-elements]].
 
 ## Role in Sewage Treatment
 
 Daphnia occupies a critical trophic position in treatment pond ecology:
 
 1. **Grazing on phytoplankton**: Controls algal blooms, maintaining water clarity
-2. **Nutrient cycling**: Converts algal biomass into zooplankton biomass, concentrating nutrients
+2. **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]**: Converts algal biomass into zooplankton biomass, concentrating nutrients
 3. **Metal removal**: Bioaccumulates heavy metals from the water column
 4. **Pathogen reduction**: Filter-feeding removes bacteria from the water
 5. **Food web support**: Provides food for fish and waterfowl in downstream ponds
@@ -62,13 +62,13 @@ Daphnia occupies a critical trophic position in treatment pond ecology:
 - **Bioindicator**: Daphnia presence/absence and behaviour indicate water quality and pollution levels
 - **Aquaculture**: Natural food source for fish in integrated aquaculture systems
 - **Waste-to-value**: Can be harvested and used as poultry feed or soil amendment
-- **Toxicity testing**: Standard test organism for water quality assessment
+- **Toxicity testing**: Standard test organism for water [[ingham-compost-quality-assessment-visual-microbial-indicators]]
 - **[[biological-wastewater-treatment]] systems
 
 ## Life Cycle and Population Dynamics
 
 - Reproduces parthenogenetically (without mating) under favourable conditions, producing clones
-- Switches to sexual reproduction when conditions deteriorate, producing resting eggs (ephippia)
+- Switches to [[basidiomycete-mating-systems-sexual-reproduction]] when conditions deteriorate, producing resting eggs (ephippia)
 - Generation time as short as 5-10 days at optimal temperatures
 - Population crashes when food supply is exhausted, followed by recovery — a natural self-regulation mechanism
 

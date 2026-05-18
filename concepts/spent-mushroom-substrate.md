@@ -1,9 +1,9 @@
 ---
-title: Spent gourmet-medicinal-mushroom-substrate-preparation
+title: Spent [[gourmet-medicinal-mushroom-substrate-preparation]]
 created: 2026-04-28
 tags:
-  - mushroom-cultivation
-  - composting
+  - [[mushroom-cultivation]]
+  - [[composting]]
   - waste-management
   - soil-health
   - recycling

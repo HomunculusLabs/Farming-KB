@@ -1,7 +1,7 @@
 ---
-title: cuthill-mushroom-spawn-preparation-historical Making and Pure Culture Methods
+title: cuthill-mushroom-spawn-preparation-historical Making and Pure [[stamets-outdoor-natural-culture-methods]]
 slug: mushroom-spawn-making-pure-culture
-source: Benjamin duggar-mushroom-growing-history-and-methods (1915)
+source: [[benjamin-duggar]]-mushroom-growing-history-and-methods (1915)
 tags: [spawn, pure-culture, brick-spawn, mycelium, inoculation, mushroom-cultivation]
 ---
 
@@ -28,7 +28,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

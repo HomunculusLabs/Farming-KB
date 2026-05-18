@@ -11,7 +11,7 @@ sources:
 # Vegetable Watering and Thinning
 
 Guidelines for proper irrigation and seedling thinning in home
-vegetable gardens, based on Purdue Extension recommendations.
+[[maintaining-organic-matter-in-vegetable-gardens]], based on Purdue Extension recommendations.
 Consistent watering and correct spacing are essential for producing
 high-quality vegetables.
 
@@ -34,7 +34,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

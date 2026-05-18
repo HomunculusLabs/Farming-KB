@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Danesch, U. (2004). "Petasites hybridus extract in migraine." Neurology, 63(2), 2240-2244.
   - Schmitz, K. et al. (2019). "Petasin and isopetasin from Petasites." Phytomedicine, 55, 81-88.
-  - Blumenthal, M. et al. (2000). herbal-medicine: Expanded Commission E Monographs. Integrative Medicine Communications.
+  - Blumenthal, M. et al. (2000). [[herbal-medicine]]: Expanded Commission E Monographs. Integrative Medicine Communications.
   - Meister, A. et al. (1999). "Petasites hybridus for allergic rhinitis." BMJ, 318(7177), 80.
 ---
 
@@ -32,7 +32,7 @@ herbaceous plant in the family Asteraceae, native to Europe and parts of
 Asia. It is one of the best-documented [[jeavons-seed-propagation-techniques]] difficult but possible with cold stratification
 - **Growth:** Rapid vegetative spread via rhizome; forms large
   colonies within 2–3 years; tolerates full sun to partial shade
-- **Permaculture applications:** Excellent riparian stabilizer with
+- **[[permaculture]] applications:** Excellent riparian stabilizer with
   massive root systems; large leaves provide heavy mulch; [[coleman-overwintered-onions-and-early-spring-crops]] before most plants flower; however, its aggressive
   spread requires containment (root barriers)
 ## See Also

@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BOM
 
-PIHKAL entry #17. 3,4,5,beta-Tetramethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #17. 3,4,5,beta-Tetramethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -60,7 +60,7 @@ by the addition of 6 g of solid
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[bom-entity]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[bom-entity]]
 
 - [[boh-entity-pihkal]]
 - [[4-br-3-5-dma-entity-pihkal]] -- 4-Br-3,5-DMA (PIHKAL #18)

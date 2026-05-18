@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Textdoc Four Group Nutrition Scoring Critique
+title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] Four Group Nutrition Scoring Critique
 created: 2026-04-28
 tags:
   - fukuoka
@@ -72,10 +72,10 @@ is increasingly recognized as essential for sustainable outcomes.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] and research directions.
 
 ## See Also
 - [[det]]

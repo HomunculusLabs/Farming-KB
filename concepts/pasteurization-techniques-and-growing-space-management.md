@@ -1,12 +1,12 @@
 ---
-title: Pasteurization Techniques and Growing Space Management
+title: [[mushroom-pasteurization-techniques]] and [[cotter-growing-space-design-fruiting-rooms]] Management
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
 # Pasteurization Techniques and Growing Space Management
 
-From [[tradd-cotter]]'s *Organic Mushroom Farming and [[mycoremediation]]*, detailed methods for [[substrate-pasteurization]] and efficient use of growing space in [[mushroom-cultivation]] operations.
+From [[tradd-cotter]]'s *[[organic-mushroom-farming-and-mycoremediation-overview]] and [[mycoremediation]]*, detailed methods for [[substrate-pasteurization]] and efficient use of growing space in [[mushroom-cultivation]] operations.
 
 ## Hot Water Immersion Pasteurization
 
@@ -29,7 +29,7 @@ From [[tradd-cotter]]'s *Organic Mushroom Farming and [[mycoremediation]]*, deta
 "Gloves are cheap; new skin is not." The lid may not seem hot, "but as soon as you crack it, steam will jet outward and sear everything within a few inches."
 
 ### Process
-1. Immerse growing medium in heated water
+1. Immerse [[cervantes-green-algae-growing-medium]] in heated water
 2. Maintain temperature for 1-2 hours
 3. Pull out and drain
 4. Sanitize a clean table/tarp with rubbing alcohol
@@ -44,7 +44,7 @@ From [[tradd-cotter]]'s *Organic Mushroom Farming and [[mycoremediation]]*, deta
 4. Generally not under pressure — steam must be constantly injected
 
 ### Commercial Scale
-"Large commercial growers use an insulated shipping container with a porous floor; the steam is injected from below and works its way up and through the growing media."
+"Large commercial growers use an insulated shipping container with a porous floor; the steam is injected from below and works its way up and through the [[green-cannabis-rockwool-hydroponic-growing-media]]."
 
 ### Small-Scale 55-Gallon Drum Method
 1. Modify drum with locking metal lid and ½-inch hole for steam escape
@@ -52,7 +52,7 @@ From [[tradd-cotter]]'s *Organic Mushroom Farming and [[mycoremediation]]*, deta
 3. Stack bricks at bottom for platform, suspending basket ~8 inches above bottom
 4. Add ~6 inches of water
 5. Monitor depth every 30 minutes; replenish as needed
-6. Temperature range: **180-190°F (82-88°C)**
+6. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: **180-190°F (82-88°C)**
 7. When live steam escapes, maintain for 1-2 hours
 
 ## Growing Space Management

@@ -1,7 +1,7 @@
 ---
 title: "psilocybe magnivelaris"
 created: 2026-04-28
-tags: [species, fungus, psilocybin-mushroom, psilocybe]
+tags: [species, fungus, [[psilocybin-mushroom]], psilocybe]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [psilocybin-mushrooms-of-the-world-stamets.md]
@@ -11,13 +11,13 @@ type: entity
 # Psilocybe magnivelaris
 
 **Type:** Species (Fungus)
-**Category:** Basidiomycota, [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] is a distinctive
+**Category:** [[basidiomycota]], [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] is a distinctive
 feature that separates it from most Psilocybe species. The species
 complex with P. squamosa and P. thrausta can be resolved by cheilocystidia
 length. Its presence in alluvial and riparian habitats with Salix
 and Alnus suggests a preference for nitrogen-rich soils near
 waterways, an [[ecological-niche]] shared with several other
-Psilocybe and Stropharia species.
+Psilocybe and [[stropharia]] species.
 
 ## See Also
 - [[psilocybe-caerulea]]

@@ -45,7 +45,7 @@ Its tolerance of wet feet makes it suitable for low areas, drainage lines, and s
 
 The timber and firewood uses are secondary benefits in many plantings.
 
-The primary design function is often repair: holding a difficult site while soil and hydrology recover.
+The primary design function is often repair: holding a [[difficult-site-planting]] while soil and hydrology recover.
 
 Because it is a medium tree rather than a giant forest species, it may fit more farm-scale designs than jarrah.
 
@@ -57,17 +57,17 @@ Still, mature size and fire behavior must be planned before planting near struct
 - Protect seedlings from grazing during the first seasons.
 - Match planting position to the wettest and most saline parts of the site.
 - Use mixed shelterbelts where biodiversity is a goal.
-- Avoid assuming salt tolerance equals tolerance of permanent deep flooding.
+- Avoid assuming [[fungal-salt-tolerance-and-ion-homeostasis]] equals tolerance of permanent deep flooding.
 - Monitor survival across dry years and wet years separately.
-- Combine with groundcovers or grasses for erosion control during establishment.
+- Combine with groundcovers or grasses [[mollison-designers-earthworks-for-erosion-control]] during establishment.
 
 ## Comparison with Other Eucalypts
 
 Compared with [[eucalyptus-marginata]], Eucalyptus occidentalis is smaller and more tolerant of waterlogging and salinity.
 
-Compared with fast timber eucalypts, it is chosen less for maximum volume and more for stress tolerance.
+Compared with fast timber eucalypts, it is chosen less for maximum volume and more for [[dark-septate-endophyte-function-stress-tolerance]].
 
-This difference matters in permaculture species selection.
+This difference matters in [[permaculture-species-selection-urban]].
 
 A tree that thrives in a problem soil may outperform a more famous timber species that cannot establish there.
 
@@ -77,6 +77,6 @@ The flat-topped form also gives useful structural diversity in windbreaks.
 
 - Which provenances show the strongest combined salt and waterlogging tolerance?
 - How does swamp yate affect shallow saline groundwater over time?
-- What fungi associate with its roots in sodic or alkaline soils?
+- What fungi associate with its roots in sodic or [[plants-tolerant-of-alkaline-soils]]?
 - Can mixed plantings improve survival compared with single-species blocks?
 - How durable is its timber relative to other Western Australian eucalypts?

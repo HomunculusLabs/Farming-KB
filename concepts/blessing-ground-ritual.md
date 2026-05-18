@@ -73,7 +73,7 @@ energy, of warmth, of knowledge. Prometheus has given this to us from you and
 we thank you for that." A puff is taken as before.
 
 The reference to Prometheus invokes the Greek mythological figure who stole
-fire from the gods and gave it to humanity, framing fire as sacred knowledge.
+fire from the gods and gave it to humanity, framing fire [[tribal-art-as-sacred-knowledge-systems]].
 
 ### West: Water and Life
 

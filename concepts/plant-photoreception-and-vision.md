@@ -22,10 +22,10 @@ light from dark, then colors, then directions. Each step would be considered an
 enhancement of sight. Plants possess all of these capabilities:
 
 - They distinguish light from darkness (photoperception)
-- They perceive multiple colors across the electromagnetic spectrum
+- They perceive multiple colors across the [[chamovitz-electromagnetic-spectrum-light-wavelengths-plant-perception]]
 - They detect the direction of light (phototropism)
 - They measure the duration of light exposure (photoperiodism)
-- They sense light quality ratios (phototropism and shade avoidance)
+- They sense light quality ratios ([[phototropism-and-shade-avoidance]] avoidance)
 
 If "sight" is defined as the ability to detect and respond to electromagnetic
 radiation in the visual range, plants clearly qualify — they simply process the
@@ -36,7 +36,7 @@ information differently than animals, without forming images.
 ### Visible Light (400–700 nm)
 
 Visible light wavelengths range from 0.4 µm (blue/violet) to 0.7 µm (red). Plants
-detect this range through multiple photoreceptor families. Blue light (~450 nm) is
+detect this range through multiple photoreceptor families. [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] (~450 nm) is
 the shortest visible wavelength and carries the highest energy per photon; red
 light (~680 nm) is the longest. Green light (~550 nm) is least absorbed by
 chlorophyll, which is why plants appear green — they reflect rather than absorb
@@ -46,7 +46,7 @@ most green wavelengths.
 
 Plants detect UV-A (315–400 nm) and UV-B (280–315 nm) radiation. UV perception
 triggers protective responses including flavonoid production, DNA repair enzyme
-activation, and thickening of epidermal cell walls. Excessive UV causes cellular
+activation, and thickening of epidermal [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Excessive UV causes cellular
 damage, so plants have evolved sophisticated UV-sensing and [[plant-circadian-rhythms]].
 
 ### Cryptochromes

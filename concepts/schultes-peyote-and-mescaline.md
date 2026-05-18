@@ -1,5 +1,5 @@
 ---
-title: "Peyote and Mescaline-Containing Cacti"
+title: "[[peyote]] and Mescaline-Containing Cacti"
 created: 2026-04-28
 tags:
   - peyote
@@ -27,7 +27,7 @@ Two species of *Lophophora* are recognized, differing morphologically
 and chemically. Both are small, spineless, gray-green or bluish green
 top-shaped plants. The succulent chlorophyll-bearing head or crown
 measures up to 3 inches in diameter and is radially divided into 5 to
-13 rounded ribs. *Lophophora williamsii* is usually blue-green with
+13 rounded ribs. *[[lophophora-williamsii]]* is usually blue-green with
 straight furrows and has up to 30 alkaloids -- primarily [[schultes-peyote-tracks-little-deer]] -- Primary active alkaloid
 - [[schultes-morning-glory-ipomoea-seeds]] -- Other Mesoamerican hallucinogens
 ## Practical Applications

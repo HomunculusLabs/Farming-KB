@@ -16,7 +16,7 @@ sources:
 
 # Blastomyces dermatitidis
 
-**Blastomyces dermatitidis** is a thermally dimorphic [[growing-gourmet-north-american-reishi-species]] blastomycosis. It is one of the endemic dimorphic fungi, capable of existing as a mold in the environment and converting to a pathogenic yeast form at mammalian body temperature. The fungus is a significant cause of systemic mycosis in parts of North America, particularly the Mississippi and Ohio River valleys, and the Great Lakes region.
+**Blastomyces dermatitidis** is a thermally dimorphic [[growing-gourmet-north-american-reishi-species]] blastomycosis. It is one of the endemic dimorphic fungi, capable of existing as a mold in the environment and converting to a pathogenic yeast form at mammalian body temperature. The fungus is a significant cause of systemic mycosis in parts [[huckleberries-and-wild-berries-of-north-america]], particularly the Mississippi and Ohio River valleys, and the Great Lakes region.
 
 ## Taxonomy and Classification
 
@@ -27,7 +27,7 @@ sources:
 - **Family:** Ajellomycetaceae
 - **Genus:** Blastomyces
 
-The teleomorph (sexual) state was long unknown but was eventually identified as *Ajellomyces dermatitidis*. Phylogenetic studies have confirmed that *Blastomyces* is closely related to *Histoplasma capsulatum* and *Paracoccidioides brasiliensis*, forming a monophyletic clade of dimorphic [[paracoccidioides-brasiliensis]]
+The teleomorph (sexual) state was long unknown but was eventually identified as *Ajellomyces dermatitidis*. Phylogenetic studies have confirmed that *Blastomyces* is closely related to *[[bloomfield-histoplasma-capsulatum-ohio-valley-disease]]* and *Paracoccidioides brasiliensis*, forming a monophyletic clade of dimorphic [[paracoccidioides-brasiliensis]]
 - dimorphic-fungi
 - endemic-mycoses
 - fungal-pathogenesis
@@ -77,5 +77,5 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.

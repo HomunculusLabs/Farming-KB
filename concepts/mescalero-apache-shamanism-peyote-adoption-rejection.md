@@ -1,5 +1,5 @@
 ---
-title: Mescalero Apache Shamanism Peyote Adoption Rejection
+title: [[mescalero-apache-shamanism-and-peyote-rejection]] Peyote Adoption Rejection
 created: 2026-04-28
 tags: [mescalero, apache, peyote, shamanism, hallucinogens, native-american, harner, boyer, witchcraft, cultural-change]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 
 This chapter by L. Bryce Boyer, Ruth M. Boyer, and Harry W.
 Basehart examines peyote use among the Apache of the Mescalero
-Indian Reservation in New Mexico. It documents how peyote was
+[[mescalero-indian-reservation]] in New Mexico. It documents how peyote was
 adopted for shamanistic purposes around 1870, used for
 approximately forty years, and then deliberately abandoned. The
 analysis explores the religious concepts and personality
@@ -33,7 +33,7 @@ shamanic criteria, and procedures.
 
 Nineteenth-century sources document peyote in religious rites:
 Mescaleros in 1867, Chiricahuas in 1875, Lipans in 1885. The
-Lipans obtained peyote from the Carrizo Indians; Mescaleros
+Lipans obtained peyote from the [[carrizo-indians]]; Mescaleros
 likely learned rites from Lipans before 1870 or from northern
 Mexican groups.
 

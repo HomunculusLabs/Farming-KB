@@ -16,7 +16,7 @@ sources: []
 
 **Psilocybe stuntzii** Guzmán & Ott (syn. *Psilocybe pugetensis* Harris) is a
 psilocybin-containing mushroom in the family Hymenogastraceae. It is commonly
-known as Stuntz's Psilocybe, Stuntz's blue legs, or blue ringers. The species
+known as Stuntz's Psilocybe, Stuntz's blue legs, or [[stamets-psi-psilocybe-stuntzii-blue-ringers]]. The species
 was named in honor of Dr. Daniel Stuntz, a prominent mycologist at the
 University of Washington. It is one of the most frequently encountered
 [[growing-gourmet-north-american-reishi-species]] mycologists.
@@ -27,7 +27,7 @@ University of Washington. It is one of the most frequently encountered
 
 1.5–5 cm broad. Obtusely conic at first, soon expanding to convex to broadly
 convex-umbonate to nearly flattened or plane, with the margin uplifting in very
-mature fruiting bodies. Margin translucent-striate halfway to the disc when
+mature [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. Margin translucent-striate halfway to the disc when
 moist; decurved, then straightening, and finally elevated, undulating, and
 often eroded in extreme age. Dark chestnut brown, lighter towards the margin,
 which is often olive greenish; hygrophanous, fading to a more yellowish brown
@@ -47,8 +47,8 @@ becoming more brownish and eventually very dark brown with spore maturity.
 30–60 mm long by 2–4 mm thick. Subequal, slightly enlarged at the apex and
 often curved, twisted and inflated at the base. Dingy yellow to pale yellowish
 brown. Surface dry, covered with pallid appressed fibrils to the annulus, and
-smooth above. Context stuffed with a fibrous whitish pith. Partial veil thinly
-membranous, typically streaked bluish, leaving a fragile membranous annulus as
+smooth above. Context stuffed with a fibrous whitish pith. [[partial-veil-tropism-protection-before-spore-release]] thinly
+membranous, typically streaked bluish, leaving a fragile [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] as
 the cap expands, which soon deteriorates into a fairly persistent annular zone
 darkened by spores. Stem often with rhizomorphs protruding about the base.
 
@@ -69,7 +69,7 @@ landscaping beds in urban and suburban environments. The species fruits
 primarily in the fall to early winter, and to a minor degree in the spring. It
 is abundant within approximately ninety kilometers of coastal regions, especially
 in Oregon, Washington, and British Columbia. It often fruits in prodigious
-colonies, making it one of the most productive psilocybin mushrooms in its
+colonies, making it one of the most productive [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] in its
 range by sheer biomass.
 
 ## Chemistry and Potency
@@ -77,7 +77,7 @@ range by sheer biomass.
 *Psilocybe stuntzii* is considered weakly to moderately active. Beug and
 Bigwood (1982b) reported a range of 0–0.36% psilocybin and 0–0.12% psilocin
 by dry weight. Repke et al. (1977) reported 0.02% [[psilocybe-baeocystis]] — Named for the same psychoactive compound found
-  in *P. stuntzii*; also native to the Pacific Northwest.
+  in *P. stuntzii*; also native to the [[psilocybin-north-america-pacific-northwest]].
 - galerina-marginata — Deadly toxic lookalike; critical to distinguish
   from psilocybin mushrooms.
 - [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]; a widespread psilocybin species

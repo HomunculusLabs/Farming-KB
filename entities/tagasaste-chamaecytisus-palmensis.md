@@ -11,10 +11,10 @@ sources: [knowledge]
 
 ## Overview
 
-[[chamaecytisus-palmensis]], commonly known as tagasaste or tree lucerne, is a fast-growing
+[[chamaecytisus-palmensis]], commonly known as tagasaste or [[canary-island-tree-lucerne-mollison]], is a fast-growing
 evergreen shrub or small tree in the family Fabaceae. Native to the arid volcanic
 slopes of the Canary Islands (particularly La Palma), it has been widely planted in
-Australia, New Zealand, and parts of Africa as a drought-resistant fodder tree and
+Australia, New Zealand, and parts of Africa as a drought-resistant [[permplant-tagasaste-pioneer-fodder-tree]] and
 soil-improvement species. The plant combines high-quality [[biological-nitrogen-fixation-agriculture]], making it a cornerstone species in permaculture
 and silvopastoral agroforestry systems.
 
@@ -45,13 +45,13 @@ and root exudation.
 Soil improvement benefits include:
 
 - **Nutrient pumping:** The deep taproot accesses phosphorus, potassium, and trace
-  minerals from subsoil horizons beyond the reach of pasture grasses, returning them
+  minerals from subsoil horizons beyond the reach of [[tropical-pasture-grasses]], returning them
   to the surface via leaf drop and grazing.
-- **Organic matter:** Regular coppicing and leaf fall contribute 2–5 tonnes/ha/year
+- **[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]:** Regular coppicing and leaf fall contribute 2–5 tonnes/ha/year
   of organic matter to the soil surface.
 - **[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]:** Established hedgerows reduce wind erosion by 40–50% on
   exposed sites, while root systems stabilize soil on sloping ground.
-- **Microclimate modification:** Hedgerows reduce evapotranspiration in adjacent
+- **[[tree-temperature-effects-and-microclimate-modification]]:** Hedgerows reduce evapotranspiration in adjacent
   pasture by providing wind shelter and afternoon shade.
 
 ## Fodder Quality and Production

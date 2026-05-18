@@ -1,5 +1,5 @@
 ---
-title: Mushroom Negative Geotropism
+title: Mushroom [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]
 created: 2026-05-09
 tags: [mycology, tropism, geotropism, gravity-response, mushroom-development]
 date: 2026-05-09
@@ -19,8 +19,8 @@ of [[mushroom-anemotropism]].
 
 ## Onset and Timing
 
-The negative geotropic response in P. cubensis is not present throughout all
-developmental stages. It appears specifically at Stage 2, when:
+The negative [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] in P. cubensis is not present throughout all
+[[psilocybe-cubensis-developmental-stages]]. It appears specifically at Stage 2, when:
 
 - The pileus has become nearly spherical
 - [[spore]] production is initiating in the lamellae (gills)
@@ -39,7 +39,7 @@ developmental stages. It appears specifically at Stage 2, when:
 ## Link to Spore Production
 
 The most significant finding of Badham's study is the connection between
-negative geotropism and spore formation. Three lines of evidence support this
+negative [[geotropism-and-spore-production-in-mushrooms]] formation. Three lines of evidence support this
 link:
 
 ### 1. Absence in Sterile Mutants
@@ -68,11 +68,11 @@ recurvature occurred. This is consistent with the spore-geotropism hypothesis.
 
 Previous research on other mushroom species supports the existence of
 gill-produced hormones involved in tropic regulation:
-- Gruen (1963) and Hagimoto (1963) postulated mushroom hormones involved in
+- Gruen (1963) and Hagimoto (1963) postulated [[mushroom-hormones-gill-directed-tropism]] involved in
   tropisms
 - Decapitation experiments linked these hormones to the lamellae (gills)
 - Hagimoto and Konishi (1960) showed agar diffusates from gills could partially
-  replace the influence of the pileus on tropic responses
+  replace the influence of the pileus on [[fungal-tropic-responses]]
 
 ## Behavioral Characteristics
 

@@ -7,7 +7,7 @@ aliases:
   - Cider Cup Fungus
 tags:
   - fungi
-  - ascomycota
+  - [[ascomycota]]
   - helvellaceae
   - helvella
   - cup-fungus
@@ -15,7 +15,7 @@ tags:
   - temperate-fungi
   - forest-fungi
   - foraging
-  - mycology
+  - [[mycology]]
   - spring-fungi
   - european-fungi
 date: 2026-04-28
@@ -30,7 +30,7 @@ created: 2026-04-28
 
 ## Overview
 
-*Helvella acetabulum* is a species of cup fungus in the family Helvellaceae, found across temperate regions of Europe and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that resembles a small goblet or cider cup.
+*Helvella acetabulum* is a species of cup fungus in the family Helvellaceae, found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that resembles a small goblet or cider cup.
 
 The species fruits in spring and early summer, typically on bare soil in forests, along trails, and in disturbed ground.
 
@@ -82,5 +82,5 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.

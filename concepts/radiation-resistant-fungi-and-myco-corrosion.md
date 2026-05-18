@@ -2,7 +2,7 @@
 title: "Radiation-Resistant Fungi and Myco-Corrosion"
 created: 2026-04-26
 tags:
-  - mycology
+  - [[mycology]]
   - radiation-resistance
   - bioremediation
   - extremophiles

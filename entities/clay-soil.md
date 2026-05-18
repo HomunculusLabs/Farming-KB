@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Clay soil is a heavy soil type composed predominantly of fine mineral particles (less than 0.002 mm diameter). It presents significant challenges for vegetable gardening due to its density, poor drainage, and difficult working characteristics. While clay soils can be agriculturally productive for certain uses (orchards, permanent pastures), they are among the most challenging substrates for intensive vegetable production.
+Clay soil is a heavy soil type composed predominantly of fine mineral particles (less than 0.002 mm diameter). It presents significant challenges for [[dryland-vegetable-gardening]] due to its density, poor drainage, and difficult working characteristics. While clay soils can be agriculturally productive for certain uses (orchards, permanent pastures), they are among the most challenging substrates for intensive [[coleman-french-historical-winter-vegetable-production]].
 
 ## Classification
 
@@ -61,8 +61,8 @@ Clay soil management is a critical skill for food self-sufficiency. Many homeste
 
 ## Soil Health Context
 Understanding soil structure and management is essential for
-sustainable agriculture. Healthy soil provides the foundation
-for plant growth, water retention, and nutrient cycling.
+[[mushroom-cultivation-for-sustainable-agriculture]]. Healthy soil provides the foundation
+for plant growth, water retention, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Proper soil management practices improve long-term productivity
 and reduce the need for external inputs.
 
@@ -70,12 +70,12 @@ and reduce the need for external inputs.
 Successful implementation requires attention to local conditions
 including climate, soil type, and existing vegetation. Start with
 small test areas before scaling up. Monitor results over multiple
-growing seasons to assess effectiveness and adjust approaches
+[[jeavons-climate-adaptation-growing-seasons]] to assess effectiveness and adjust approaches
 based on observed outcomes.
 
 ## Environmental Benefits
 These practices contribute to improved soil ecosystem health,
 enhanced biodiversity, and reduced environmental impact.
-Soil organic matter increases over time, improving water
+[[humus-and-soil-organic-matter]] increases over time, improving water
 infiltration and reducing erosion. Biological activity thrives
 in well-managed soil systems.

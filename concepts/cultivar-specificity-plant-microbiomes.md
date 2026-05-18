@@ -13,12 +13,12 @@ Cultivar-specificity refers to the phenomenon whereby different plant
 cultivars
 (varieties) of the same species harbor distinct [[winston-cannabis-microbiome-study-design]] by Winston et
 al. (2014) provided one of the clearest demonstrations of this effect, showing
-that Cannabis strains maintain significantly different endorhiza bacterial
+that Cannabis strains maintain significantly different [[cannabis-endorhiza-bacterial-communities]]
 communities even when grown in identical soil. Cultivar-specificity is a
 fundamental prediction of the two-tier selection model, which posits that
 while
-soil type determines the rhizosphere community, host genotype fine-tunes the
-endorhiza community through selective filtering.
+soil type determines the [[cannabis-rhizosphere-community-structure-edaphic-factors]], host genotype fine-tunes the
+[[proteobacteria-dominance-cannabis-endorhiza-community]] through selective filtering.
 
 ## Evidence from Cannabis
 
@@ -27,7 +27,7 @@ endorhiza community through selective filtering.
 Three Cannabis strains were compared: Sour Diesel (C. sativa, high THC:CBD
 ratio), Bookoo Kush (sativa-dominant hybrid, moderately high THC:CBD), and
 Burmese (balanced hybrid, moderate THC:CBD). When controlling for soil type,
-endorhiza communities showed significant cultivar-specific clustering in both
+[[cannabis-rhizosphere-endorhiza-communities]] showed significant cultivar-specific clustering in both
 weighted (ADONIS: R² = 0.59, p = 0.004) and unweighted (R² = 0.39, p = 0.003)
 analyses. Strain-level effects were not significant for rhizosphere or bulk
 soil communities in unweighted analyses, confirming that genotype effects are
@@ -60,8 +60,8 @@ community. THC concentration correlated with endorhiza structure (r-stat:
 
 Cultivar-specificity has been documented in other crop species including
 maize,
-potato, and grapevine. In wine grapes, microbial terroir — the contribution of
-microbial communities to regional flavor characteristics — is partly
+potato, and grapevine. In wine grapes, [[microbial-terroir-and-crop-specificity]] — the contribution of
+[[cannabis-rhizosphere-microbial-communities]] to regional flavor characteristics — is partly
 cultivar-dependent. The Cannabis findings align with this broader literature
 while adding the novel element of a medically important crop with exceptional
 secondary metabolic diversity.

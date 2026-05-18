@@ -1,5 +1,5 @@
 ---
-title: mollison designers trout and cool water aquaculture species Water Aquaculture Species
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] trout and cool water aquaculture species Water Aquaculture Species
 created: 2026-04-28
 tags:
   - aquaculture
@@ -19,10 +19,10 @@ type: concept
 
 Cool-water and cold-water aquaculture species offer high-value protein
 production in temperate and highland permaculture systems. Mollison integrates
-fish production into the broader water harvesting and landscape design
+fish production into the broader water harvesting and [[holzer-permaculture-landscape-design]]
 framework, positioning aquaculture as a multi-functional element that produces
 food while improving water quality, providing irrigation storage, and creating
-wildlife habitat. This topic complements the general mollison-fish-pond-construction
+[[hemenway-backyard-wildlife-habitat]]. This topic complements the general mollison-fish-pond-construction
 principles.
 
 ## Species Selection for Cool and Cold Water Systems
@@ -31,14 +31,14 @@ Mollison categorises aquaculture species by their temperature preferences and
 uses this classification to match species to site conditions:
 
 ### Rainbow Trout (Oncorhynchus mykiss)
-The primary cold-water species for permaculture aquaculture in temperate
+The primary cold-water species for [[permaculture-aquaculture-guide]] in temperate
 regions. Rainbow trout are the most widely cultured cool-water fish globally
 and offer several advantages for integrated systems:
 
 - **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 mg/L (higher than
   most warm-water species); pH 6.5-8.0; low turbidity; low ammonia and nitrite.
   See mollison-plant-stacking-and-interaction: each
-species occupies a distinct ecological niche, maximising total pond
+species occupies a distinct [[ecological-niche]], maximising total pond
 productivity while minimising competition.
 
 ### Niche Partitioning in Polyculture
@@ -61,7 +61,7 @@ polyculture:
 ## Water Source and Temperature Management
 
 Cool-water aquaculture depends critically on reliable water supply and
-temperature control. Mollison integrates aquaculture water requirements with
+[[hamilton-greenhouse-heating-and-temperature-control]]. Mollison integrates aquaculture water requirements with
 mollison-pond-systems-layouts-and-connectivity chapter details multi-pond series design.
 
 ### Stream Diversion

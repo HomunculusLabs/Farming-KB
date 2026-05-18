@@ -1,5 +1,5 @@
 ---
-title: Palmer Toadstool Poisoning Cases
+title: Palmer [[amanitine-toadstool-poisoning]] Cases
 created: 2026-04-28
 tags: [mushroom-poisoning, amanita, toxicology, case-reports, palmer]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 Julius A. Palmer maintained a careful record of poisoning cases
 throughout his years of study, corresponding with physicians across
 America and Europe. These cases, published in medical journals, provided
-crucial evidence for his theories about [[hallucinogenic-mushroom-dose-effects-clinical|effects]] were felt until three and eight o'clock the following
+crucial evidence for his theories about [[hallucinogenic-mushroom-dose-effects-clinical]] were felt until three and eight o'clock the following
 morning, respectively. One patient even slept calmly after the vertigo
 passed. Once attacked, however, the usual symptoms followed, and both
 were dead within three days. The physician tried coffee, tea, antimony,
@@ -35,7 +35,7 @@ A third case was identical in pattern. Two children died within
 thirty-six hours. The father, subject to severe delirium, jumped from
 a second-story window. The attack came about eight hours after
 ingestion. In all these cases, no person felt worse after the fatal
-meal until the actual attack began — a hallmark of Amanitine poisoning.
+meal until the actual attack began — a hallmark of [[amanitine-poisoning-and-absorption-mechanisms]].
 
 ## The New York Case (1879)
 
@@ -78,7 +78,7 @@ twelve hours before consumption.
 ## The Farris Family Case (Shenandoah, 1885)
 
 Perhaps the most thoroughly documented case in Palmer's circle was the
-Farris family poisoning of Shenandoah, Pennsylvania, in 1885. Charles
+[[farris-family-poisoning-shenandoah-1885]] of Shenandoah, Pennsylvania, in 1885. Charles
 McIlvaine of Philadelphia obtained detailed reports from Dr. S. E.
 Shadle, who treated five victims. Mr. F., aged twenty-nine, his wife
 aged twenty-two, his mother-in-law Mrs. R. aged forty-five, and a

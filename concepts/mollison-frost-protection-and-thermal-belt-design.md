@@ -1,5 +1,5 @@
 ---
-title: "holzer-frost-protection-techniques and permaculture-thermal-belt-siting Design"
+title: "[[holzer-frost-protection-techniques]] and [[permaculture-thermal-belt-siting]] Design"
 created: 2026-04-26
 tags:
   - permaculture
@@ -20,7 +20,7 @@ type: concept
 Frost is identified by Mollison as the limiting factor in plant hardiness
 zones. Understanding where frost occurs, how it flows, and how to prevent
 it is critical for [[holzer-fruit-growing-marginal-climates]] species.
-This page covers frost mechanics and the [[hemenway-cold-air-drainage-and-frost-management]]
+This page covers [[frost-mechanics-radiation-protection]] and the [[hemenway-cold-air-drainage-and-frost-management]]
 drains downhill at night, pooling in low-lying areas where it settles
 and damages sensitive plants. In mountainous regions, valley frosts form
 below tree lines at night as cold air cascades from upper slopes.
@@ -43,7 +43,7 @@ In narrow, shaded, high-altitude gorges, cold accumulates severely. But
 in sun-facing wider valleys sheltered from winds, hot air builds up
 rapidly, soils are drier, and strong winds may be generated (upslope and
 up valley by day, downslope and down valley at night). Understanding
-these valley wind patterns is essential for placing frost-sensitive
+these valley [[wind-patterns-and-beaufort-scale]] is essential for placing frost-sensitive
 crops and structures.
 
 ## Tree Canopies and Frost Exclusion

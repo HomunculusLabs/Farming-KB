@@ -1,5 +1,5 @@
 ---
-title: "Stinkhorn Fungi: Biology, Evolution, and Ecology"
+title: "[[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]: Biology, Evolution, and Ecology"
 type: concept
 tags:
   - mycology
@@ -36,7 +36,7 @@ cycle.
 ## Taxonomic Diversity
 
 Approximately thirty truly phallic mushroom species have been described.
-The common stinkhorn, Phallus impudicus, is the most widely recognized.
+The common stinkhorn, [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]], is the most widely recognized.
 The dog stinkhorn, Mutinus caninus, is smaller with a pink shaft and
 lacks the bulbous head. Species of Dictyophora are distinguished by a
 lacy veil or indusium hanging beneath the head like a crinoline.
@@ -48,7 +48,7 @@ eaten without much suffering.
 
 ## Ecological Role: Decomposition and Soil Ecology
 
-Stinkhorns are saprotrophic fungi that decompose dead [[fungal-mycelial-networks-nutrient-translocation]] spread through decomposing
+Stinkhorns are [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]] that decompose dead [[fungal-mycelial-networks-nutrient-translocation]] spread through decomposing
 wood and forest floor material, recycling nutrients and contributing to
 soil structure. The visible fruiting body represents only the reproductive
 phase of a much larger underground organism.
@@ -56,7 +56,7 @@ phase of a much larger underground organism.
 Their ecological importance extends beyond decomposition. By attracting
 insects to specific locations, stinkhorns may influence insect foraging
 patterns and the distribution of other soil organisms. The nutrient-rich
-spore deposits left by visiting [[fruiting-body-development]] can
+[[macrofungal-documentation-spore-deposits-taxonomic-resources]] left by visiting [[fruiting-body-development]] can
 produce dramatic morphological differences. Weakening of tissue along
 specific tracks would cause a shaft to split into arms, transforming a
 Phallus-type body into an Anthurus-type cage fungus. Adding pigmentation
@@ -68,7 +68,7 @@ million years, driven by coevolution with different insect dispersers.
 
 ## Cultural History
 
-Stinkhorns appear in Pliny the Elder's first-century Natural History. John
+Stinkhorns appear in Pliny the Elder's first-century [[stropharia-cubensis-identification-and-natural-history]]. John
 Gerard's seventeenth-century herbal illustrated them as "Pricke Mushrum."
 Victorian women found them so offensive that Etty Darwin waged personal
 war against them using gloves and a pointed stick, burning specimens in
@@ -76,7 +76,7 @@ secret.
 
 The Maori people of New Zealand recognized nine different names for the
 cage fungus Ileodictyon and barbecued its eggs, while rejecting the
-hatched fruiting bodies as the "feces of ghosts or of the stars." The
+hatched [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] as the "feces of ghosts or of the stars." The
 polyhedral cage structure later inspired comparisons to Buckminster
 Fuller's geodesic domes and to the buckminsterfullerene carbon molecules.
 

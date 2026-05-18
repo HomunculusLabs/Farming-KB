@@ -32,7 +32,7 @@ natural savannah productivity without external inputs.
 - Large African antelope of open grassland and savannah habitats
 - 27 hartebeest equal one standard stock unit in the cow-equivalent system
 - Ten standard stock units equal approximately 27 hartebeest
-- Native to sub-Saharan Africa across diverse grassland ecosystems
+- Native to sub-Saharan Africa across diverse [[biodiversity-fungi-grassland-ecosystems]]
 - Primarily a grazer, feeding on medium to tall grasses in open savannah
 - Can browse when grass is scarce, showing dietary flexibility
 - Herding species; forms groups of 20–300+ individuals on open range

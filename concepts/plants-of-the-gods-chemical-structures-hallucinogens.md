@@ -5,7 +5,7 @@ tags:
   - chemistry
   - alkaloids
   - molecular-structure
-  - tryptamine
+  - [[tryptamine]]
   - schultes
 date: 2026-04-28
 updated: 2026-04-28
@@ -21,7 +21,7 @@ type: concept
 Chemical determination of the molecular structure of the hallucinogenic
 principles in sacred plants has led to remarkable results. Almost all
 plant hallucinogens contain the element nitrogen and therefore belong
-to the large class of chemical compounds known as [[schultes-peyote-and-mescaline]] cactus
+to the large class of [[neurotropic-fungi-chemical-compounds]] known as [[schultes-peyote-and-mescaline]] cactus
 is the alkaloid mescaline, a compound closely related to the brain
 hormone norepinephrine (noradrenaline). Norepinephrine belongs to the
 group of physiological agents known as neurotransmitters because they
@@ -31,7 +31,7 @@ structure. Both are derivatives of phenylethylamine.
 
 ## Tryptamine Derivatives
 
-Psilocybin and psilocin, the active principles of Teonanacatl (the
+[[hplc-analysis-of-psilocybin-and-psilocin]], the active principles of [[teonanacatl]] (the
 hallucinogenic Mexican mushrooms of the [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]*) contains hallucinogenic principles that are also
 tryptamine derivatives. In this case, tryptamine is incorporated in a
 complex ring structure called ergoline. [[schultes-peyote-and-mescaline]]);

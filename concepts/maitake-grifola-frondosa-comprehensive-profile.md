@@ -1,5 +1,5 @@
 ---
-title: Maitake (maitake grifola frondosa comprehensive profile) — Comprehensive Profile
+title: Maitake ([[maitake-grifola-frondosa-cultivation]] [[ganoderma-lucidum-reishi-comprehensive-profile]]) — Comprehensive Profile
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -7,11 +7,11 @@ tags: [reference]
 sources: []
 ---
 
-**Source:** woodlovers-mycelium-running-pathway-technique (Paul Stamets) | **Updated:** 2026-04-18
+**Source:** woodlovers-mycelium-running-pathway-technique ([[paul-stamets]]) | **Updated:** 2026-04-18
 
 ## Overview
 
-Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushroom"), this delicious soft-fleshed polypore has excellent nutritional and medicinal properties. One of the most promising [[maitake-cultivation-guide]], and [[maitake-d-fraction-research]]
+Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushroom"), this delicious soft-fleshed polypore has excellent nutritional [[ginseng-cultivation-and-medicinal-properties]]. One of the most promising [[maitake-cultivation-guide]], and [[maitake-d-fraction-research]]
 - [[medicinal-mushroom-extraction-preparation]]
 
 ## See Also
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

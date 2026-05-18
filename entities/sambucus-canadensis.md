@@ -5,7 +5,7 @@ tags:
   - herbal-plant
   - medicinal-plant
   - edible-fruit
-  - permaculture
+  - [[permaculture]]
   - caprifoliaceae
 date: 2026-04-28
 updated: 2026-04-28
@@ -41,7 +41,7 @@ American elderberry has experienced a surge in commercial cultivation since 2015
 
 **Authority:** Carl Linnaeus (1753).
 
-**Synonyms:** *Sambucus nigra* subsp. *canadensis* (L.) R. Bolli, *Sambucus mexicana* C. Presl ex DC.
+**Synonyms:** *[[sambucus-nigra]]* subsp. *canadensis* (L.) R. Bolli, *Sambucus mexicana* C. Presl ex DC.
 
 Recent taxonomic treatments by Bolli (1994) and subsequent molecular studies support recognizing American elderberry as a subspecies of *S. nigra*, though the specific epithet *canadensis* remains widely used in horticultural and agricultural contexts.
 
@@ -67,7 +67,7 @@ Berries are exceptionally rich in anthocyanins, primarily cyanidin-3-glucoside a
 
 Total anthocyanin content ranges from 400–1,500 mg/100 g fresh weight, depending on cultivar and growing conditions.
 
-Flavonoids including quercetin, rutin, and kaempferol are present in both flowers and berries.
+Flavonoids including [[quercetin]], rutin, and [[kaempferol]] are present in both flowers and berries.
 
 Flowers contain phenolic acids (chlorogenic, caffeic, ferulic) and are a traditional source for elderflower cordials and teas.
 

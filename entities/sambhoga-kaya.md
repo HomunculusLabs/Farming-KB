@@ -16,13 +16,13 @@ This body represents Reflected or Modified Wisdom as it manifests through the fi
 
 The Sambhoga-Kaya is the realm of visionary experience, where pure consciousness takes on luminous forms.
 
-It is encountered in the Second Bardo, when the ego begins to reassert itself after the initial [[clear-light]] vision fades.
+It is encountered in [[the-second-bardo-and-hallucinatory-visions]], when the ego begins to reassert itself after the initial [[clear-light]] vision fades.
 
 ## Classification
 
 - **Tradition**: Tibetan Buddhism (Vajrayana)
 - **Category**: Tri-Kaya doctrine — second body
-- **Bardo Stage**: Second Bardo (Chonyid Bardo)
+- **Bardo Stage**: Second Bardo ([[chonyid-bardo]])
 - **Nature**: Luminous, visionary, archetypal
 
 ## Key Facts
@@ -33,7 +33,7 @@ It is encountered in the Second Bardo, when the ego begins to reassert itself af
 
 3. Each Dhyani Buddha embodies a different aspect of the modified wisdom of the Sambhoga-Kaya.
 
-4. The visions of the Second Bardo — peaceful and wrathful deities — are expressions of Sambhoga-Kaya.
+4. The visions of the Second Bardo — [[leary-peaceful-and-wrathful-visions]] deities — are expressions of Sambhoga-Kaya.
 
 5. These visions appear in sequence from the first to the seventh day of the Bardo experience.
 
@@ -49,7 +49,7 @@ It is encountered in the Second Bardo, when the ego begins to reassert itself af
 
 ## Relevance to Psychedelic Studies
 
-In *The Psychedelic Experience*, the Sambhoga-Kaya corresponds to the visionary phase following the initial ego-dissolution peak.
+In *The [[leary-psychedelic-experience-bardo-mapping]]*, the Sambhoga-Kaya corresponds to the visionary phase following the initial ego-dissolution peak.
 
 As the intensity of the psychedelic experience begins to modulate, rich archetypal imagery emerges.
 
@@ -83,7 +83,7 @@ The Sambhoga-Kaya visions are not random hallucinations but structured expressio
 
 The Sambhoga-Kaya stage is where most psychedelic experiences spend the majority of their duration.
 
-It is the realm of vivid colors, geometric patterns, entity encounters, and narrative visions.
+It is the realm of vivid colors, geometric patterns, [[dmt-entity-encounters-and-the-logos]], and narrative visions.
 
 The manual provides specific instructions for each day of the Second Bardo to help the voyager navigate this phase.
 
@@ -92,6 +92,6 @@ The key instruction is always the same: recognize these visions as projections o
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.
 - [[lama-anagarika-govinda]]. *Foundations of Tibetan Mysticism*.
 - Lama Kazi Dawa-Samdup (translator). *Bardo Thodol*.

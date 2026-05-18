@@ -17,7 +17,7 @@ type: concept
 # Ecological Succession and Community Dynamics
 
 Succession is the name given to the process of change and development in
-communities of [[savory-holistic-management-overview]] framework developed by Allan Savory. Understanding
+communities of [[savory-holistic-management-overview]] framework developed by [[allan-savory]]. Understanding
 succession is essential for managing [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], the
 microenvironment on exposed soil surfaces is subject to such extremes
 that succession starts with the greatest difficulty. On smooth, steep, or
@@ -25,7 +25,7 @@ vertical surfaces, the process might never advance beyond frail algal
 communities. Succession starts more easily on soil covered by old material
 and on ground broken by weather, large animals, or machinery.
 
-In brittle environments, communities that evolved did so with herding
+In [[savory-brittle-environments]], communities that evolved did so with herding
 animals and their predators. Rest, which implies removal of these animals
 and prevention of natural fires, is not natural and constitutes human
 interference in this dynamic process. Prolonged rest in brittle
@@ -50,7 +50,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

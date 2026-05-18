@@ -21,7 +21,7 @@ sources:
 
 # Purple Punch
 
-**Purple Punch** is an indica-dominant hybrid [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area, it has become one of the most popular and commercially successful cannabis strains of the late 2010s and 2020s.
+**Purple Punch** is an indica-dominant hybrid [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area, it has become one of the most popular and commercially successful [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] of the late 2010s and 2020s.
 Renowned for its striking purple coloration, sweet dessert-like aroma, and deeply relaxing effects, Purple Punch has earned a reputation as a premier "nighttime" strain.
 Its genetic lineage connects two legendary California cannabis pillars — the colorful, fruity [[cannabis-glandular-trichome-types-resin-production-clarke]] of the OG family.
 
@@ -32,7 +32,7 @@ Its genetic lineage connects two legendary California cannabis pillars — the c
 - Purple coloration intensifies as plants are exposed to cooler nighttime temperatures during late flowering
 - Thick coat of frosty white trichomes covering the entire flower surface
 - Bright orange to rust-colored pistils (stigmas) winding through the calyxes
-- Heavy resin production gives buds a sticky texture
+- Heavy [[cannabis-resin-production-and-quality-traits-clarke]] gives buds a sticky texture
 - Visual quality is one of the strain's most celebrated attributes
 
 ## Aroma and Flavor Profile
@@ -72,17 +72,17 @@ The balance of sweet fruity terpenes with subtle spicy OG notes creates a comple
 | CBD | < 0.1% | Negligible CBD content |
 | CBG | 0.1–0.5% | Present in trace amounts |
 | THCV | Trace | Not a significant contributor |
-| Cannabinol | Low | Varies by harvest time and curing |
+| Cannabinol | Low | Varies by [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] and curing |
 
-The high THC content combined with minimal CBD produces potent psychoactive effects, making Purple Punch best suited for experienced consumers or those with higher tolerance.
+The high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] combined with minimal CBD produces potent psychoactive effects, making Purple Punch best suited for experienced consumers or those with higher tolerance.
 
 ## Effects
 
 - **Deep physical relaxation:** Heavy body high that can lead to couch-lock at higher doses
 - **Euphoria:** Uplifting cerebral onset that transitions into full-body calm
 - **Sedation:** Strong sleep-inducing properties, especially in the later stages
-- **Appetite stimulation:** Noticeable increase in appetite ("munchies")
-- **Pain relief:** Effective for mild to moderate physical discomfort
+- **[[cannabis-for-cachexia-and-appetite-stimulation]]:** Noticeable increase in appetite ("munchies")
+- **[[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]:** Effective for mild to moderate physical discomfort
 - **Mood enhancement:** Gentle elevation of mood without intense cerebral stimulation
 
 ### Experience Timeline

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Road Man Does Not Live By Bread Alone
+title: [[fukuoka-road-africa-greening-desert]] Man Does Not Live By Bread Alone
 created: 2026-04-28
 tags: [philosophy, interview, life, food, meaning]
 date: 2026-04-28
@@ -73,10 +73,10 @@ outcomes creates a valuable knowledge base that supports progressively
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] and research directions.
 
 ## See Also
 - [[det]]

@@ -10,7 +10,7 @@ type: entity
 
 Osmotic shock refers to the rapid change in solute concentration around
 microbial cells that causes water to move in or out of the cell at rates that
-damage or kill the organism. In compost tea and soil microbiology, osmotic
+damage or kill the organism. In [[compost-tea-and-biological-extracts]] soil microbiology, osmotic
 shock is relevant both as a mechanism for controlling pathogens and as a
 potential risk to beneficial organisms during [[compost-tea-brewing]] and
 application. [[elaine-ingham]] discusses osmotic shock effects in the context of
@@ -49,14 +49,14 @@ management:
 
 1. **Molasses concentration**: Adding too much molasses or sugar to compost
    tea can create osmotic shock that kills beneficial organisms before they
-   can adapt. Proper dilution rates are critical.
-2. **Honey as an antibiotic**: Honey's antimicrobial properties are partly
+   can adapt. Proper [[ingham-soil-drench-dilution-rates]] are critical.
+2. **Honey as an antibiotic**: Honey's [[medicinal-mushroom-antimicrobial-properties]] are partly
    due to osmotic shock effects on pathogenic bacteria. Ingham notes that
   honey can be used strategically in compost tea to suppress specific
   pathogens.
-3. **Salt management**: Compost tea ingredients must be assessed for salt
+3. **Salt management**: [[compost-tea-ingredients-and-fungal-activation]] must be assessed for salt
    content, as high salt levels can damage beneficial organisms through
-   osmotic effects.
+   [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]].
 4. **Dilution timing**: Food resources added to compost tea should be diluted
    and incorporated gradually to allow organisms to acclimate rather than
    suffer osmotic shock.
@@ -70,7 +70,7 @@ management:
 
 ## Management Notes
 
-- Follow recommended molasses and sugar addition rates for compost tea
+- Follow recommended molasses and sugar addition rates [[fungal-activation-for-compost-tea]]
   (typically 0.5-1% by volume for unsulfured [[blackstrap-molasses]]).
 - Dilute concentrated food resources before adding to compost tea.
 - Monitor compost tea organism populations microscopically to confirm that
@@ -80,7 +80,7 @@ management:
 
 ## See Also
 
-- [[actively-aerated-compost-tea|Actively Aerated Compost Tea]]
-- [[blackstrap-molasses|Blackstrap Molasses]]
+- [[actively-aerated-compost-tea]]
+- [[blackstrap-molasses]]
 - [[actinomycetes]]
-- [[elaine-ingham|Elaine Ingham]]
+- [[elaine-ingham]]

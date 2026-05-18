@@ -1,5 +1,5 @@
 ---
-title: "Lion's Mane vs Oyster Mushroom"
+title: "Lion's Mane [[comparison-chaga-vs-oyster-mushroom]]"
 tags: [comparison, lions-mane, oyster-mushroom, medicinal-mushrooms, mushroom-cultivation, hericium, pleurotus]
 date: 2026-05-11
 updated: 2026-05-11
@@ -11,12 +11,12 @@ sources: []
 ## Overview
 
 Lion's mane ([[oyster-mushroom-cultivation]]) represent two of the most
-accessible and rewarding cultivated mushrooms, yet they serve very
+accessible and rewarding [[fungi-cultivated-mushrooms-pathogens-competitors]], yet they serve very
 different purposes. Lion's mane is prized for its neuroprotective
 compounds and unique lobster-like flavor, while oyster mushrooms are
 celebrated for their aggressive growth, culinary versatility, and
 cholesterol-lowering statins. Understanding their differences helps
-growers choose the right species for their goals and conditions.
+growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] species for their goals and conditions.
 
 ## Lion's Mane
 
@@ -29,10 +29,10 @@ P. eryngii (king oyster), P. citrinopileatus (golden), and P. djamor
 (pink). This diversity allows year-round production in most climates.
 
 Oyster mushrooms grow on an exceptionally wide range of substrates,
-including straw (pasteurized, not sterilized), coffee grounds,
-agricultural waste, supplemented sawdust, and even hemp hurds. The straw
+including straw (pasteurized, not sterilized), [[oyster-mushroom-coffee-grounds-cultivation]],
+agricultural waste, [[oyster-mushroom-supplemented-sawdust-blocks]], and even hemp hurds. The straw
 bucket method is the simplest entry point for beginners, requiring only
-hot water pasteurization and grain spawn. Colonization is rapid at 2-3
+[[growing-gourmet-hot-water-pasteurization-straw]] and grain spawn. Colonization is rapid at 2-3
 weeks, with first flushes appearing shortly after.
 
 Medicinally, oyster mushrooms are notable for producing lovastatin, the

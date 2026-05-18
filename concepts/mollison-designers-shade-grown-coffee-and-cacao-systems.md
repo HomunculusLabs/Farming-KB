@@ -1,8 +1,8 @@
 ---
-title: Mollison Designers Shade Grown Coffee And Cacao Systems
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Shade Grown Coffee And Cacao Systems
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - coffee
   - cacao
   - shade-cropping
@@ -19,7 +19,7 @@ type: concept
 
 Coffee (Coffea spp., especially C. arabica and C. robusta) and cacao
 ([[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as
-ideal understory crops within tropical polycultures. Rather than being
+ideal understory crops within [[integrated-pest-management-in-tropical-polycultures]]. Rather than being
 grown as monoculture plantations, both crops achieve their [[mollison-designers-coffee-shade-growing-systems]] Concepts
 
 - [[mollison-avenue-cropping-with-legumes]]

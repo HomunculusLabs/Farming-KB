@@ -13,8 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Seed Junky Genetics. "Super Boof chupacabra-strain-profile-sickmeds-oner." seedjunky.com.
-  - Leafly Staff (2024). "Super Boof blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
+  - Seed Junky Genetics. "Super Boof [[chupacabra-strain-profile-sickmeds-oner]]." seedjunky.com.
+  - Leafly Staff (2024). "Super Boof [[blesching-cannabis-strain-selection-receptor-targeting]] Information." Leafly.
   - AllBud (2024). "Super Boof Weed Strain." AllBud.com.
   - Weedmaps (2024). "Super Boof Strain Review." Weedmaps.
   - Cookies Fam Genetics. Strain database entries.
@@ -31,8 +31,8 @@ Cannabis Cup.
 
 ## Lineage
 
-- **Female parent:** Black Cherry Punch — [[miracle-alien-cookies]] × (Girl Scout
-  Cookies × Tangie). Contributes [[fukuoka-mandarin-orange-citrus]] terpenes, dense bud
+- **Female parent:** Black Cherry Punch — [[miracle-alien-cookies]] × ([[girl-scout-cookies]]
+  Cookies × Tangie). Contributes [[fukuoka-mandarin-orange-citrus]] [[terpenes]], dense bud
   structure, and uplifting mental effects.
 
 The approximate genetic ratio is roughly 60/40 indica-to-sativa,
@@ -68,8 +68,8 @@ lingering tropical sweetness.
 - **[[limonene]]** (secondary, ~0.5–0.8%) — citrus brightness, mood
   elevation
 - **Myrcene** (secondary, ~0.4–0.7%) — earthy, sedative base
-- **Linalool** (trace, ~0.1–0.3%) — floral, anxiolytic contribution
-- **Humulene** (trace, ~0.1–0.2%) — woody, appetite suppressant
+- **[[linalool]]** (trace, ~0.1–0.3%) — floral, anxiolytic contribution
+- **[[humulene]]** (trace, ~0.1–0.2%) — woody, appetite suppressant
 
 The high caryophyllene content is unusual for a cherry-forward strain
 and contributes to Super Boof's distinctive spicy-peppery finish.

@@ -22,7 +22,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Tirmenstein, D. (1990). "Armillaria tabescens." In: "Silvics of psilocybin-north-america-pacific-northwest," USDA Forest Service.
-  - Baumgartner, K. & Bega, R.V. (1994). "Armillaria singh-bioaugmentation-vs-biostimulation-fungal-strategies of Wood Decay in Trees." Springer.
+  - Baumgartner, K. & Bega, R.V. (1994). "Armillaria singh-bioaugmentation-vs-biostimulation-fungal-strategies of [[bloomfield-wood-decay-fungi-spalted-timber]] in Trees." Springer.
   - Watling, R. et al. (1982). "The Genus Armillaria." Royal Botanic Garden Edinburgh.
 ---
 
@@ -35,7 +35,7 @@ basidiomycete fungus in the family Physalacriaceae, notable as a root pathogen
 and wood-decay fungus of hardwood trees across temperate [[armillaria-mellea]]* but is
 distinguished by the complete absence of an annulus (ring) on the stipe.
 
-The species is one of the most common causes of **Armillaria root rot**, a
+The species is one of the most common causes of **Armillaria [[cannabis-root-rot-prevention-and-treatment]]**, a
 devastating disease of orchard trees, ornamental hardwoods, and forest trees.
 Individual genets (genetic individuals) can form enormous underground networks
 spanning hectares, making *Armillaria* species among the largest and oldest
@@ -75,6 +75,6 @@ particularly the Mediterranean region, and parts of Asia.
 The species fruits in late summer to autumn (August–November), typically
 appearing in dense clusters at the base of hardwood trees or from buried roots.
 It is most commonly found associated with oaks (*Quercus* spp.), hickories
-(*Carya* spp.), maples (*Acer* spp.), and various fruit trees.
+(*Carya* spp.), maples (*Acer* spp.), and various [[comparison-grafting-vs-budding-fruit-trees]].
 
 Preferred habitats include hardwood forests, orchards, urban parks, and

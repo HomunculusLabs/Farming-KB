@@ -41,7 +41,7 @@ Cork cells are dead at maturity and filled with suberin, making them impermeable
 ## Functions
 
 ### Protection
-The periderm serves as a physical and chemical barrier against pathogen entry, physical damage from animals and environmental factors, water loss through desiccation, and temperature extremes.
+The periderm serves as a physical and chemical barrier against pathogen entry, physical damage from animals and [[duggar-mushroom-environmental-factors-temperature-moisture-light]], water loss through desiccation, and temperature extremes.
 
 ### Gas Exchange
 While suberin-filled cork cells are impermeable, lenticels in the periderm allow controlled gas exchange, enabling oxygen supply to living tissues beneath the bark.
@@ -53,8 +53,8 @@ Suberin in cork cells creates a waterproof layer preventing water loss from the 
 
 - **Grafting:** Understanding periderm structure is essential for grafting woody plants, as cambium layers must be aligned
 - **Fungal pathogens:** Many canker diseases infect through wounds in the periderm; healthy bark is a primary defense
-- **Mycorrhizal roots:** In woody perennials, periderm covers older root surfaces while active mycorrhizal associations occur on younger root tips
-- **Bark mulch:** Periderm-rich bark is widely used as mulch, contributing to soil organic matter and fungal habitat
+- **Mycorrhizal roots:** In woody perennials, periderm covers older root surfaces while active [[plants-without-mycorrhizal-associations]] occur on younger root tips
+- **Bark mulch:** Periderm-rich bark is widely used as mulch, contributing to [[humus-and-soil-organic-matter]] [[mushroom-nutritional-categories-and-fungal-habitat-roles]]
 - **Cork harvesting:** The cork oak (Quercus suber) produces commercially valuable periderm
 
 ## See Also
@@ -68,7 +68,7 @@ Suberin in cork cells creates a waterproof layer preventing water loss from the 
 
 Periderm development follows seasonal patterns:
 
-- **Active growth:** Cork cambium is most active during the growing season
+- **Active growth:** Cork cambium is most active during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - **Winter dormancy:** Periderm thickens and provides insulation against freezing
 - **Annual rings:** In some species, annual growth rings are visible in bark
 - **Bark shedding:** Some species (e.g., eucalyptus, birch) shed periderm in strips or sheets
@@ -77,5 +77,5 @@ Periderm development follows seasonal patterns:
 
 - **Cork products:** Cork from Quercus suber is harvested every 9-12 years for wine stoppers, flooring, and insulation
 - **Bark mulch:** Periderm-rich bark is a major commercial mulch product
-- **Medicinal compounds:** Some bark-derived compounds (e.g., willow bark salicin, cinchona bark quinine) have pharmaceutical significance
+- **[[cotter-mushroom-nutrition-medicinal-compounds]]:** Some bark-derived compounds (e.g., willow bark salicin, cinchona bark quinine) have pharmaceutical significance
 - **Tannins:** Bark tannins have been used for leather tanning for millennia

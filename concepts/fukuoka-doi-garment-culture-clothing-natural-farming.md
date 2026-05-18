@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Doi Garment Culture, Clothing, and Natural Farming
+title: Fukuoka Doi Garment Culture, Clothing, [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: masanobu-fukuoka
 tags: [fukuoka, natural-farming, clothing, doi, traditional-garments, farmer-attire, japanese-culture]

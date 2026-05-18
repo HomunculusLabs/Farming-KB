@@ -11,7 +11,7 @@ entity_type: "compound"
 source: "TIHKAL"
 source_entry: "#49"
 classification: ["tryptamine", "monoalkyltryptamine"]
-synthesis_method: "from indole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and ethylamine, or from tryptamine via acetylation and LAH reduction"
+synthesis_method: "from [[indole]] via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and ethylamine, or from tryptamine via acetylation and LAH reduction"
 status: ["research chemical", "minimally active"]
 legal_status: ["varies by jurisdiction"]
 created: 2026-04-15
@@ -32,7 +32,7 @@ NET is N-ethyltryptamine, a monoalkyltryptamine in which a single ethyl group is
 The free base spontaneously crystallizes to a white waxy solid with a melting point of 80-81 degrees Celsius. The hydrochloride salt has a melting point of 181-182 degrees Celsius (from isopropanol/ether).
 
 Mass [[tryptamine-entity-tihkal]] - the unsubstituted parent compound
-- [[amt-entity-tihkal]] - alpha-methyltryptamine, exploring alpha-substitution
+- [[amt-entity-tihkal]] - [[alpha-methyltryptamine]], exploring alpha-substitution
 
 ## References
 
@@ -84,4 +84,4 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation

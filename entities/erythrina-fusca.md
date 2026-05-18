@@ -5,11 +5,11 @@ type: species
 tags:
   - fabaceae
   - nitrogen-fixing
-  - permaculture|permaculture
+  - [[permaculture]]|permaculture
   - tropical
   - alkaloid
   - ornamental
-  - agroforestry|agroforestry
+  - [[agroforestry]]|agroforestry
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -17,8 +17,8 @@ sources:
     Genus Erythrina." Lloydia 37(4): 332-459.
   - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of
     Characteristics, Uses, and Nodulation. University of Wisconsin Press.
-  - Rice, R.P. et al. (1990). "Erythrina fusca: A mollison-designers-chestnut-as-multipurpose-tree-crop for
-    the Humid Tropics." comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria Tree Research Reports 8: 98-104.
+  - Rice, R.P. et al. (1990). "Erythrina fusca: A [[mollison-designers-chestnut-as-multipurpose-tree-crop]] for
+    the [[humid-tropics-design-and-climate-zones]]." [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] Tree Research Reports 8: 98-104.
   - Pennington, T.D. (1997). The Genus Inga: Botany. Royal Botanic
     Gardens, Kew.
 ---

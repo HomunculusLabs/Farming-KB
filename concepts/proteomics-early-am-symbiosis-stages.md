@@ -1,5 +1,5 @@
 ---
-title: Proteomics Early Am Symbiosis Stages
+title: [[proteomics-early-arbuscular-mycorrhiza-symbiosis]] Am Symbiosis Stages
 created: 2026-04-26
 tags: [mycorrhiza, proteomics, transcriptomics, plant-microbe-interaction, functional-genomics]
 date: 2026-04-25
@@ -24,7 +24,7 @@ analysis:
      the root surface, when the fungus first establishes physical contact with
      the host. Limited amounts of root material are available, making
      proteomics particularly challenging at this stage.
-  2. **Late arbuscule stage**: When the fungus has fully colonised roots to
+  2. **Late [[arbuscule]] stage**: When the fungus has fully colonised roots to
      establish a functional symbiosis. More root material is available, and
      most proteomic studies have targeted this stage.
 
@@ -55,7 +55,7 @@ response to AM inoculation, with 7 spots decreased and 12 spots increased in
 abundance. Six spots gave positive identifications after MALDI-TOF peptide
 mass fingerprinting:
 
-  - **Alanine aminotransferase**: Enzyme of primary metabolism
+  - **Alanine aminotransferase**: [[enzyme]] of primary metabolism
   - **Serine/threonine kinase**: [[fungal-environmental-sensing-signal-transduction]], protein transport,
     and [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]]
   - **40S ribosomal protein S5**: Involved in protein synthesis

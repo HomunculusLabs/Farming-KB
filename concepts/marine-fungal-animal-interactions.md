@@ -73,6 +73,45 @@ Marine Fungal Animal Interactions can be identified through a combination of mor
 
 This entry provides reference information about marine fungal animal interactions and its significance in its respective field.
 
+## Cultivation Parameters
+
+Optimal growing conditions vary significantly by species and strain.
+Temperature ranges typically fall between 18-27°C for vegetative
+growth and 10-21°C for fruiting. Humidity levels above 85% are
+generally required for primordia formation.
+## Safety Considerations
+
+Proper identification is essential when working with fungal
+species. Misidentification can lead to serious poisoning.
+Always consult multiple authoritative sources and consider
+laboratory confirmation for uncertain specimens.
+## Research Directions
+
+Current research focuses on enzymatic degradation pathways,
+bioremediation applications, and novel secondary metabolite
+discovery. Genomic sequencing continues to reveal previously
+unknown metabolic capabilities across fungal lineages.
+
+## Substrate Preferences
+
+Different fungal species show distinct substrate affinities based
+on their enzymatic capabilities. Lignicolous species degrade wood,
+while coprophilous species specialize in dung. Soil-dwelling
+species form complex relationships with plant root systems.
+
+## Temperature Sensitivity
+
+Growth rates respond predictably to temperature gradients within
+species-specific ranges. Most cultivated species grow optimally
+between 20-28°C. Fruit body formation often requires a distinct
+temperature shift from vegetative growth conditions.
+## Implementation Notes
+
+Practical implementation benefits from starting small and scaling
+based on observed results. Document conditions, inputs, and
+outcomes systematically. Connect with experienced practitioners
+in your bioregion for locally-adapted knowledge and support.
+
 ## See Also
 
 - [[fungal-faunal-interactions-summary]] - Broader overview of fungal-faunal relationships

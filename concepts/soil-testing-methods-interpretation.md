@@ -9,7 +9,7 @@ sources: []
 
 # Soil Testing — Methods and Interpretation for Gardeners
 
-Soil testing is the foundation of informed garden and farm management. A good soil test reveals what nutrients are available to plants, identifies potential problems, and guides amendment decisions.
+[[soil-testing]] is the foundation of informed [[microclimate-design-for-garden-and-farm]] management. A good soil test reveals what nutrients are available to plants, identifies potential problems, and guides amendment decisions.
 
 ## Why Test Soil?
 
@@ -41,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

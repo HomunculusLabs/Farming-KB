@@ -29,7 +29,7 @@ tags: [profile]
 ## Overview
 
 L-ornithine is a non-proteinogenic alpha-amino acid.
-It is a central recyclable carrier in the mammalian [[l-citrulline]] is produced directly from ornithine in the urea cycle.
+It is a central recyclable carrier in the mammalian [[l-citrulline]] is produced directly from ornithine in the [[urea-cycle-biochemistry]].
 carbamoyl phosphate donates the carbamoyl group to ornithine.
 arginine is hydrolyzed to regenerate ornithine and release urea.
 putrescine is formed from ornithine by [[decarboxylation]].

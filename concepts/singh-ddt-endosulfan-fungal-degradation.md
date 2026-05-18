@@ -1,5 +1,5 @@
 ---
-title: singh-fungal-degradation-endocrine-disrupting-compounds of Chlorinated Insecticides DDT and Endosulfan
+title: [[singh-fungal-degradation-endocrine-disrupting-compounds]] of Chlorinated Insecticides DDT and Endosulfan
 created: 2026-04-26
 tags: [ddt, endosulfan, chlorinated-insecticides, fungal-degradation, organochlorine]
 date: 2026-04-25
@@ -11,8 +11,8 @@ type: concept
 
 # Fungal Degradation of Chlorinated Insecticides DDT and Endosulfan
 
-Chlorinated insecticides including DDT, aldrin, dieldrin, heptachlor,
-endrin, chlordane, and endosulfan represent major environmental
+Chlorinated insecticides including DDT, aldrin, [[dieldrin]], heptachlor,
+endrin, [[chlordane]], and endosulfan represent major environmental
 concerns due to their persistence, bioaccumulation, and toxicity. Fungi
 play important roles in the degradation and detoxification of these
 organochlorine compounds through both ligninolytic and nonligninolytic
@@ -25,7 +25,7 @@ extensively since the 1940s and banned in most industrialized nations by
 1972. Certain fungi including Mucor alternans, [[trichoderma-viride]] have been known to degrade DDT for decades (Anderson
 and Lichtenstein, 1971; Engst and Kujawa, 1968; Matsumura and Bousch,
 1968). The pathways of DDT degradation by bacteria and fungi appear
-similar, with reductive dechlorination, oxidation, decarboxylation, and
+similar, with reductive dechlorination, oxidation, [[decarboxylation]], and
 ring cleavage as primary mechanisms.
 
 ## Phanerochaete chrysosporium and DDT
@@ -40,7 +40,7 @@ of [14C]DDT.
 ## Factors Affecting DDT Mineralization
 
 DDT mineralization by P. chrysosporium depends on the carbon source
-(Fernando et al., 1989). Cellulose and starch prove better carbon
+(Fernando et al., 1989). [[cellulose]] and starch prove better carbon
 sources supporting [14C]DDT mineralization. LiP inhibitors such as
 EDTA and TEMED inhibit DDT mineralization. DDT appears to be degraded
 through cooxidation mediated by [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] (Khindaria et al.,
@@ -54,7 +54,7 @@ P. chrysosporium dechlorinates [ring-14C]methoxychlor to three
 metabolites, all subsequently mineralized (Grifoll and Hammel, 1997).
 The fungus caused significant bioconversion of [14C]aldrin, [14C]dieldrin,
 [14C]heptachlor, and [14C]mirex, though these were poorly mineralized
-(Kennedy et al., 1990). Species of Fusarium, Penicillium, Rhizopus,
+(Kennedy et al., 1990). Species of Fusarium, Penicillium, [[rhizopus]],
 and Trichoderma convert heptachlor to heptachlor epoxide. Lindane was
 transformed to polar metabolites and 14CO2 by P. chrysosporium (Mougin
 et al., 1996).

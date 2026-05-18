@@ -17,7 +17,7 @@ tags:
   - usa-genetics
   - recreational
 sources:
-  - Seed Junky Genetics. "Georgia Pie Strain Profile." seedjunky.com.
+  - Seed Junky Genetics. "Georgia Pie [[chupacabra-strain-profile-sickmeds-oner]]." seedjunky.com.
   - Leafly. "Georgia Pie blesching-cannabis-strain-selection-receptor-targeting Information." leafly.com/strains/georgia-pie.
   - AllBud. "Georgia Pie Strain." allbud.com/georgia-pie.
   - Wikileaf. "Georgia Pie Strain Review." wikileaf.com/strain/georgia-pie.
@@ -28,13 +28,13 @@ sources:
 
 ## Overview
 
-Georgia Pie is a hybrid cannabis strain bred by Seed Junky Genetics, a prominent
+Georgia Pie is a [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Seed Junky Genetics, a prominent
 breeding operation based in Los Angeles known for developing many of the most
-sought-after modern cultivars. It was created by crossing **Girl Scout Cookies
+sought-after modern cultivars. It was created by crossing **[[oner-cookie-wreck-trainwreck-girl-scout-cookies-hybrid]]
 (GSC)** with a **Pie phenotype** from the Cookies genetic line.
 
 The strain has gained a dedicated following for its intensely sweet, fruity aroma
-reminiscent of baked peach or cherry pie. Its effects are characterized by a
+reminiscent of baked peach or [[cherry-pie-cannabis]]. Its effects are characterized by a
 heavy cerebral euphoria that transitions into deep physical relaxation, making it
 popular among both recreational and medical users.
 
@@ -48,7 +48,7 @@ attention on social media and cannabis forums since its release in the early
 Georgia Pie is a cross of **Girl Scout Cookies (GSC)** × **Pie** (a select
 Cookies-family phenotype).
 
-GSC, itself a cross of OG Kush × Durban Poison, contributes dense resin
+GSC, itself a cross of OG Kush × [[durban-poison]], contributes dense resin
 production, complex cookie-and-earth terpenes, and potent hybrid effects. The
 specific Pie parent is a terpene-heavy phenotype expressing dominant sweet, fruity
 esters.

@@ -20,7 +20,7 @@ With "street" 2C-B it is hard to know exactly how much is in a capsule, likely c
 |------|--------|
 | 8 mg | Starting test dose for new users |
 | 12-16 mg | "Museum level" — enhanced perception, functional in public |
-| 20-24 mg | Full [[turner-ketamine]]**: Combines remarkably (see [[mescaline-peyote-and-san-pedro-guide]] — related phenethylamine
+| 20-24 mg | Full [[turner-ketamine-realms-dissociative-consciousness]]**: Combines remarkably (see [[mescaline-peyote-and-san-pedro-guide]] — related phenethylamine
 - [[mdai-entity]]
 - [[turner-mescaline-peyote-san-pedro-experience]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

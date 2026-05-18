@@ -1,9 +1,9 @@
 ---
-title: "Phoenicoid Fungi — Fire-Associated Ascomycetes and Basidiomycetes"
+title: "[[phoenicoid-fungi]] — Fire-Associated Ascomycetes and [[basidiomycetes]]"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: mycology, fungi]
+tags: [[mycology]], fungi]
 sources: []
 ---
 # Phoenicoid Fungi — Fire-Associated Ascomycetes and Basidiomycetes
@@ -27,7 +27,7 @@ on steam-sterilized soil in greenhouses.
 
 - Soil heating stimulates some species to fruit
 - Changes in [[soil-ph]] after fire trigger others
-- Sporocarp production in undisturbed forest soils can be stimulated by
+- Sporocarp production in undisturbed [[fire-effect-on-forest-soils-and-nutrient-loss]] can be stimulated by
   lime application (mimicking ash effects)
 
 ## Fruiting Groups After Fire (Dix and Webster 1995)

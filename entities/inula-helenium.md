@@ -6,7 +6,7 @@ tags:
   - herbal-plant
   - asteraceae
   - medicinal-plant
-  - permaculture
+  - [[permaculture]]
   - respiratory
   - ethnobotany
 date: 2026-04-28
@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Barnes, J. et al. (2007). "Herbal Medicines." 3rd ed.
     Pharmaceutical Press.
-  - European Medicines Agency (2011). "Assessment report on
+  - European Medicines Agency (2011). "[[permaculture-site-assessment-report-writing]] on
     Inula helenium radix." EMA/HMPC/572356/2009.
   - Van Wyk, B.E. & Wink, M. (2004). "Medicinal Plants of the
     World." 2nd ed. Timber Press.
@@ -32,8 +32,8 @@ conditions. Growing 1.5–2.5 m tall, it produces large leaves and
 bright yellow flower heads. Its thick aromatic root contains inulin
 (up to 44%), alantolactone, and isoalantolactone.herbal-medicine-preparation-methodsan**Introduced:** Northeastern gartz-magic-mushrooms-species-south-america, [[camphene]]. Warm, camphoraceous aroma.
 
-**Other:** Phenolic acids, flavonoids (quercetin, kaempferol
-glycosides), triterpenes, mucilage, bitter principles.
+**Other:** Phenolic acids, flavonoids ([[quercetin]], [[kaempferol]]
+glycosides), triterpenes, [[mucilage]], bitter principles.
 
 ## Medicinal Uses
 

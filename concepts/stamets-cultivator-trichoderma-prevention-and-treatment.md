@@ -1,5 +1,5 @@
 ---
-title: stamets cultivator trichoderma prevention and treatment and Treatment
+title: [[mushroom-life-cycle-stamets-cultivator]] trichoderma [[cannabis-root-rot-prevention-and-treatment]] and Treatment
 created: 2026-04-28
 tags: [contamination, trichoderma, green-mold, disease-control, cultivation-problems]
 date: 2026-04-28
@@ -27,7 +27,7 @@ Since Trichoderma thrives in acidic habitats, raising the pH of
 surrounding soil inhibits further growth. The simplest method is covering
 the infecting colony with salt, sodium hypochlorite, or sodium
 bicarbonate (baking soda) or a solution thereof. Recognizing and treating
-the fungus in its earliest stages, before spore production, greatly
+the fungus in its earliest stages, before [[geotropism-and-spore-production-in-mushrooms]], greatly
 reduces risk of satellite colonies spreading throughout the [[stamets-mushroom-disease-pathogens-contaminants]]
 - stamets-casing-layer-design
 - [[stamets-crop-watering-flushing-management]]
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

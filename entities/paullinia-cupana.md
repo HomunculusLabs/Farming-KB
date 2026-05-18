@@ -78,7 +78,7 @@ that of coffee beans, making it the most potent natural caffeine source.
 
 ### Non-Alkaloid Compounds
 
-- **Tannins:** High polyphenol content (8–12%), primarily condensed
+- **Tannins:** High [[polyphenol]] content (8–12%), primarily condensed
   tannins that slow caffeine absorption, producing the characteristic
   sustained release profile.
 - **Saponins:** Triterpenoid saponins with immunomodulatory potential.

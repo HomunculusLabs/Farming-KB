@@ -47,7 +47,7 @@ mediterranean herbs prefer slightly alkaline conditions (pH 7.0 to 8.0).
 ## The Calcium-Magnesium Ratio
 
 One of the most important concepts in soil [[mollison-designers-tropical-soils-and-cation-exchange-management]] sites. This ratio
-profoundly affects soil structure, drainage, and nutrient availability.
+profoundly affects soil structure, drainage, [[chelation-and-nutrient-availability]].
 
 Calcium is the dominant cation on most productive agricultural soils. It
 promotes flocculation (the aggregation of clay particles into crumbs), which
@@ -56,11 +56,11 @@ present in excess, has the opposite effect: it causes clay particles to
 disperse, creating tight, impermeable soils that resist root penetration and
 water infiltration.
 
-The ideal calcium-to-magnesium ratio on the cation exchange capacity is
+The ideal calcium-to-magnesium ratio on the [[cation-exchange-capacity]] is
 approximately 7:1 to 10:1 by weight. When magnesium dominates (ratios below
 3:1), soils become sticky when wet and hard when dry. Mollison notes that many
 degraded agricultural soils suffer from magnesium excess caused by excessive
-application of dolomitic limestone, which contains both calcium and magnesium
+application of [[dolomitic-limestone]], which contains both [[dynamic-accumulator-plants-calcium-and-magnesium]]
 carbonate.
 
 Correcting imbalance requires selective liming with high-calcium limestone
@@ -73,9 +73,9 @@ where soils are already alkaline but structurally poor.
 Cation exchange capacity (CEC) is a measure of the soil's ability to hold
 positively charged nutrient ions (cations) against leaching. Soils with high
 CEC can store large quantities of calcium, magnesium, potassium, ammonium,
-and trace minerals, releasing them gradually to plant roots.
+and [[dynamic-accumulator-plants-trace-minerals]], releasing them gradually to plant roots.
 
-CEC is determined primarily by clay content and organic matter. Fine clay
+CEC is determined primarily by clay content [[hamilton-composting-and-organic-matter-management]]. Fine clay
 minerals (especially montmorillonite and vermiculite) have very high CEC,
 while sandy soils have low CEC. Organic matter contributes significantly to
 CEC because [[nitrogen-fixing-trees]] can access minerals from subsoil layers and bring them

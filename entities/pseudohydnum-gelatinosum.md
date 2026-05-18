@@ -14,9 +14,9 @@ sources:
     Nytt Magasin for Botanikk.
   - Corner, E.J.H. (1970). "Supplementary monograph of Pseudohydnum."
     Nova Hedwigia.
-  - Roberts, P. (1999). "British jelly fungi." Mycologist.
+  - Roberts, P. (1999). "British [[tremellales-mycoparasitic-jelly-fungi]]." Mycologist.
   - Larsson, E. & Larsson, K.H. (2003). "Phylogenetic relationships of
-    Pseudohydnum." Mycological Research.
+    Pseudohydnum." [[mycological-research-institutions]].
 ---
 
 ## Overview
@@ -40,7 +40,7 @@ Pseudohydnaceae → *Pseudohydnum gelatinosum* (Scop.) P. Karst.
 **Synonyms:** *Tremella gelatinosa* Scop., *Hydnum gelatinosum* (Scop.) Pers.,
 *Merisma gelatinosum* (Scop.) Gray, *Exidia gelatinosa* (Scop.) G. W. Martin.
 
-The fruiting body is gelatinous to rubbery in texture, translucent whitish to
+The [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] is gelatinous to rubbery in texture, translucent whitish to
 pale gray or tan, and 1–5 cm tall. It is typically shelf-like or laterally
 stipitate with a cap-like upper portion.
 
@@ -65,7 +65,7 @@ host trees.
 
 Fruiting occurs from late summer through autumn, typically September through
 November in [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] emerge from the
-forest floor, often from moss or needle litter near the base of host trees.
+[[fungal-ecology-forest-floor]], often from moss or [[dighton-pine-needle-litter-decomposition-fungal-succession]] near the base of host trees.
 
 It prefers cool, moist microhabitats with high humidity and is commonly found
 in old-growth and mature forests with abundant [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], including

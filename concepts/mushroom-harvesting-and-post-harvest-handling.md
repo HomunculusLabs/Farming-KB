@@ -20,16 +20,16 @@ premium products. For [[query-what-are-the-main-bioactive-compounds-in-medicinal
 
 ## Harvest Timing
 
-The optimal harvest window varies by species and market requirements.
+The optimal [[harvest-window-cannabis]] varies by species and market requirements.
 Key indicators of harvest maturity:
 
 - **[[oyster-mushrooms]] (Pleurotus spp.)**: Harvest when the cap margin
   begins to flatten from convex to plane, typically 3-5 days after
   pinning. Waiting too long results in dry, tough textures and massive
-  spore release.
+  [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]].
 - **Shiitake ([[genetic-improvement-agaricus-bisporus-molecular-approaches]])**: Harvest at button stage
   (closed veil) for premium market, or cup stage for processing.
-- **Lion mane (Hericium erinaceus)**: Harvest when spines are 0.5-1.5
+- **Lion mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]])**: Harvest when spines are 0.5-1.5
   cm long, before they begin to brown from the tips downward.
 - **Reishi (Ganoderma lingzhi)**: Harvest after the spore-producing
   surface has developed a significant white growth margin, typically
@@ -41,7 +41,7 @@ Mushrooms should be harvested by cutting with a sharp knife or scissors
 at the base, or by gently twisting and pulling from the substrate. The
 twist method is faster but can damage the substrate surface and disturb
 adjacent pins. Cutting is preferred for species that flush multiple times,
-as it minimizes substrate disturbance. For oyster mushrooms growing in
+as it minimizes substrate disturbance. For [[cultivation-of-oyster-mushrooms]] growing in
 clusters, the entire cluster is typically removed at once.
 
 Workers should wear clean gloves to prevent bacterial introduction, and
@@ -56,7 +56,7 @@ substrate block. The first flush is typically the largest (50-60% of
 total yield), with subsequent flushes declining. Oysters usually produce
 2-4 flushes, shiitake 3-5 flushes over 6-8 weeks, and buttons 2-3
 flushes. Between flushes, the substrate needs a rest period of 1-2
-weeks at high humidity with reduced air exchange. Some growers soak
+weeks at high humidity with reduced [[growing-gourmet-growing-room-ventilation-air-exchange]]. Some growers soak
 blocks in cold water for 12-24 hours between flushes to rehydrate and
 stimulate the next cycle.
 
@@ -71,7 +71,7 @@ avoided as it damages cell walls, turning texture to mush upon thawing.
 
 ## Packaging
 
-Proper packaging maintains high humidity while allowing gas exchange.
+Proper packaging maintains high humidity while allowing [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
 The industry standard is micro-perforated polyethylene or polypropylene
 film overwrapped trays. Micro-perforations allow O2 in and CO2 out at
 rates matched to respiration, creating a modified atmosphere extending

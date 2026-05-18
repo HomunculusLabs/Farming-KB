@@ -1,7 +1,7 @@
 ---
-title: "Cho Oriental Herbal Nutrient Preparation"
+title: "Cho [[knf-ohn-oriental-herbal-nutrient-recipe]] Preparation"
 created: 2026-04-28
-tags: [knf, input-preparation, herbal-medicine
+tags: [knf, input-preparation, [[herbal-medicine]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

@@ -1,5 +1,5 @@
 ---
-title: Clear Light
+title: [[clear-light-consciousness]]
 source: leary-t-the-psychedelic-experience.md
 type: entity
 ---
@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Clear Light is the central concept of the First Bardo in the Tibetan Book of the Dead.
+The Clear Light is the central concept of the First Bardo in [[jung-and-the-tibetan-book-of-the-dead]] of the Dead.
 
 It represents pure consciousness — the unconditioned awareness that is the ground of all experience.
 
@@ -37,7 +37,7 @@ Recognition of and merger with the Clear Light is the highest attainment in the 
 
 5. Most beings fail to recognize the Clear Light because of karmic obscurations and habitual ego-grasping.
 
-6. The Bardo Thodol repeatedly exhorts the dying person to recognize the Clear Light and merge with it.
+6. [[the-bardo-thodol-as-living-guide]] repeatedly exhorts the dying person to recognize the Clear Light and merge with it.
 
 7. In the psychedelic context, the Clear Light corresponds to the peak experience of complete ego-loss.
 
@@ -59,13 +59,13 @@ The recognition must happen immediately — any hesitation allows the ego to rea
 
 If the Clear Light is recognized, liberation is instantaneous.
 
-If it is not recognized, the consciousness descends into the Second Bardo visions.
+If it is not recognized, the consciousness descends into [[the-second-bardo-and-hallucinatory-visions]] visions.
 
 ## Relevance to Psychedelic Studies
 
-The Clear Light is arguably the most important concept in *The Psychedelic Experience*.
+The Clear Light is arguably the most important concept in *The [[leary-psychedelic-experience-bardo-mapping]]*.
 
-It represents the optimal outcome of a high-dose psychedelic session: complete ego-dissolution recognized as liberation.
+It represents the optimal outcome of a high-dose [[psychedelic-session-instructions]]: complete ego-dissolution recognized as liberation.
 
 Leary and colleagues identified the psilocybin peak experience with the Clear Light of the First Bardo.
 

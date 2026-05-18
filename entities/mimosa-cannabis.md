@@ -1,5 +1,5 @@
 ---
-title: Mimosa (blesching-cannabis-strain-selection-receptor-targeting)
+title: Mimosa ([[blesching-cannabis-strain-selection-receptor-targeting]])
 created: 2026-04-28
 type: strain
 tags:
@@ -19,9 +19,9 @@ sources:
 
 # Mimosa (Cannabis Strain)
 
-**Mimosa** is a sativa-dominant hybrid cannabis strain renowned for its uplifting, energizing effects and distinctive citrus-forward aroma. A cross between **Clementine** and **[[larry-og]]*
+**Mimosa** is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for its uplifting, energizing effects and distinctive citrus-forward aroma. A cross between **Clementine** and **[[larry-og]]*
 - Famous for sweet grape and blueberry flavors with relaxing body effects
-- High caryophyllene and myrcene content
+- High caryophyllene and [[myrcene]] content
 - Contributes body relaxation, berry undertones, and enhanced [[cannabis-hybrid-vigor-and-phenotypes-clarke]] from the complementary parent profiles
 - Several phenotypes exist, ranging from more Clementine-dominant (taller, more cerebral) to Purple Punch-dominant (shorter, more relaxing)
 
@@ -43,9 +43,9 @@ sources:
 
 | Terpene | Typical Range | Primary Effects |
 |---------|--------------|-----------------|
-| **Limonene** | 1.0–2.5% | Mood elevation, stress relief, anti-anxiety |
+| **[[limonene]]** | 1.0–2.5% | Mood elevation, stress relief, anti-anxiety |
 | **Myrcene** | 0.5–1.5% | Relaxation, sedation (at higher levels), anti-inflammatory |
-| **β-Caryophyllene** | 0.3–0.8% | Anti-inflammatory, pain relief via CB2 [[humulene]]** | 0.1–0.2% | Appetite suppression, anti-inflammatory |
+| **β-Caryophyllene** | 0.3–0.8% | Anti-inflammatory, [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] via CB2 [[humulene]]** | 0.1–0.2% | Appetite suppression, anti-inflammatory |
 
 The limonene-dominant profile is the defining characteristic — Mimosa consistently ranks among the most citrus-forward strains available.
 
@@ -77,4 +77,4 @@ Mimosa is a **THC-dominant strain** with virtually no CBD. The [[cannabis-terpen
 ### Secondary Effects
 - Mild body relaxation from the Purple Punch lineage
 - Reduced anxiety and stress in moderate doses
-- Appetite stimulation (moderate)
+- [[cannabis-for-cachexia-and-appetite-stimulation]] (moderate)

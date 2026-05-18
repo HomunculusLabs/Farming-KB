@@ -46,7 +46,7 @@ tags: [fish, aquaculture, freshwater, cyprinid, permaculture]
 - Compatible with duck, pig, and chicken manure fertilisation systems
 
 ## Relevance to Cultivation and Mycology
-- Carp pond sediments are rich in organic matter and can be harvested as [[compost]] or mushroom substrate
+- Carp pond sediments are rich in [[savory-soil-organic-matter-and-decomposition-dynamics]] can be harvested as [[compost]] or mushroom substrate
 - The integrated polyculture model parallels multi-trophic cultivation systems in [[mycology]]
 - Nutrient cycling from animal manure through carp to land crops demonstrates closed-loop design used in mushroom-plant integrated systems
 
@@ -57,14 +57,14 @@ tags: [fish, aquaculture, freshwater, cyprinid, permaculture]
 ## Practical Applications
 
 The study of cyprinus carpio has significant implications
-for sustainable agriculture and ecological management.
+[[mushroom-cultivation-for-sustainable-agriculture]] and [[solomon-gardening-aikido-pest-philosophy-ecological-management]].
 Practitioners can apply these principles to improve
 system resilience and productivity.
 
 ## Ecological Context
 
 Within broader ecological systems, cyprinus carpio
-interacts with multiple environmental factors. Understanding
+interacts with multiple [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Understanding
 these relationships is key to effective implementation
 and long-term sustainability of management practices.
 
@@ -77,7 +77,7 @@ selection for maximum productivity and system stability.
 
 ## Design Applications
 
-In permaculture design, cyprinus carpio informs
+[[ecological-succession-in-permaculture-design]], cyprinus carpio informs
 decisions about system layout, species selection, and
-management strategies. Proper integration enhances overall
+[[forest-management-strategies]]. Proper integration enhances overall
 system resilience and productive capacity.

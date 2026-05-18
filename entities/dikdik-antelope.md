@@ -46,7 +46,7 @@ can outproduce cattle per unit area when properly managed in multi-species syste
 - **Micro-livestock potential:** Represents extreme end of scaled livestock for rangeland systems
 - **Rangeland efficiency:** Diverse species mixes always exceed monoculture yields per Mollison
 - **Browse utilization:** As browsers, dikdik use vegetation layers inaccessible to grazers
-- **Dung dispersal:** Antelope dung contributes to soil fertility and fungal substrate
+- **Dung dispersal:** Antelope dung contributes to soil fertility and [[pressure-cooker-sterilisation-fungal-substrate]]
 - **[[coprophilous-fungi]]:** Dung supports specialized fungi including Panaeolus and Coprinus
 - **Ecological indicator:** Dikdik presence indicates healthy shrub and browse layer
 
@@ -55,9 +55,9 @@ can outproduce cattle per unit area when properly managed in multi-species syste
 - Browser feeding strategy complements grazers in multi-species rangeland systems
 - Can exist without free surface water except in extreme drought conditions
 - Territorial behavior creates even distribution across available range area
-- Dung marking of territories contributes to nutrient cycling and distribution
+- Dung marking of territories contributes to [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] distribution
 - Prey base supports predator populations (eagles, wild cats, jackals, snakes)
-- Seed dispersal through ingestion and deposition of fruit and browse seeds
+- [[clay-pellet-seed-dispersal]] through ingestion and deposition of fruit and browse seeds
 
 ## Stock Unit Context (from Mollison)
 
@@ -69,8 +69,8 @@ Ten standard stock units equal 1 elephant; 4 black rhino; 15 zebras; or 27 [[har
 ## Design Implications
 
 - Multi-species stocking using diverse animal sizes utilizes range resources efficiently
-- Small species can be continuously harvested with minimal environmental impact
-- Protein production per unit area can exceed cattle with well-managed small species
+- Small species can be continuously harvested with minimal [[fertilizer-pollution-environmental-impact]]
+- [[fungal-single-cell-protein-production]] per unit area can exceed cattle with well-managed small species
 - Integration of browsers and grazers maximizes rangeland productivity per hectare
 - Natural behaviors (territoriality, water independence) reduce management inputs
 

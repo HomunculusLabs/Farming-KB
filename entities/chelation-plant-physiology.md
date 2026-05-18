@@ -12,7 +12,7 @@ Chelation is a chemical process in which organic molecules bind to metal ions,
 forming stable, water-soluble complexes that keep minerals available for plant
 and microbial uptake. [[elaine-ingham]] discusses chelation extensively in her
 field guide, covering chelated minerals, chelating agents, and the role of
-chelation in plant physiology and nutrient cycling. Understanding chelation is
+chelation in plant physiology [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]. Understanding chelation is
 central to Ingham's approach because [[soil-food-web]] naturally produces
 chelating compounds that make minerals available to plants without synthetic
 fertilizers.
@@ -50,12 +50,12 @@ fertilizers.
 
 Ingham's discussion of chelation connects directly to compost tea biology:
 
-1. **Microbial chelation**: Beneficial bacteria and fungi in compost tea
+1. **Microbial chelation**: [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] and fungi in compost tea
    produce organic acids and siderophores that chelate minerals, making them
   available to plants.
 2. **Humic acid as chelator**: Humic acids added to compost tea serve as both
   food for beneficial organisms and powerful natural chelating agents.
-3. **Fungal chelation**: Mycorrhizal fungi and saprophytic fungi produce
+3. **Fungal chelation**: [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] saprophytic fungi produce
   oxalic acid and other chelating compounds that dissolve mineral particles
   and release nutrients.
 4. **Natural vs. synthetic**: Ingham emphasizes that natural biological
@@ -73,19 +73,19 @@ Ingham's discussion of chelation connects directly to compost tea biology:
 
 ## Management Notes
 
-- Support natural chelation by maintaining diverse microbial communities.
-- Include humic acids in compost tea recipes for their chelating properties.
+- Support natural chelation by maintaining diverse [[cannabis-rhizosphere-microbial-communities]].
+- Include humic acids in [[compost-tea-recipes-and-ratios]] for their chelating properties.
 - Avoid over-reliance on synthetic chelators that can bypass biological
   nutrient cycling.
 - Ensure adequate fungal populations, as fungi are the primary chelating
   organisms in most soil systems.
-- Test soil mineral availability to confirm that biological chelation is
+- Test soil [[chelation-microbial-mineral-availability-ingham]] to confirm that biological chelation is
   functioning effectively.
 
 ## See Also
 
-- [[humic-acid|Humic Acid]]
+- [[humic-acid]]
 - [[glomalin]]
 - [[mycorrhizae]]
-- [[actively-aerated-compost-tea|Actively Aerated Compost Tea]]
-- [[elaine-ingham|Elaine Ingham]]
+- [[actively-aerated-compost-tea]]
+- [[elaine-ingham]]

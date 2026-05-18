@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sakai K, Nagamasu H, Ito T. (2000). "Curcuma of Borneo." Acta Phytotaxonomica et Geobotanica.
-  - Theilade I, Theilade S. (2013). "Zingiberaceae of arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Science.
+  - Theilade I, Theilade S. (2013). "Zingiberaceae of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] Science.
 ---
 
 # Curcuma mangga
@@ -21,13 +21,13 @@ sources:
 commonly known as mango turmeric or Javanese turmeric. It is native to Southeast
 Asia, where it grows as a rhizomatous herb in tropical lowland forests.
 
-The species is valued in traditional Javanese and Malay folk medicine for treating
+The species is valued in traditional Javanese and Malay [[magical-illness-peruvian-amazon-folk-medicine]] for treating
 digestive disorders, [[permaculture-designers-manual-essential-oil-plants]] with a distinctive mango-like fragrance, which
 gives the plant its common name.
 
 Despite its traditional importance, C. mangga remains less commercially cultivated
 than its close relative C. longa (common turmeric). It is primarily gathered from
-wild populations or grown in home gardens across Java, Sumatra, and peninsular
+wild populations or grown in [[desert-home-gardens]] across Java, Sumatra, and peninsular
 Malaysia.
 
 ## Taxonomy and Morphology
@@ -54,7 +54,7 @@ C. mangga is distributed across Peninsular Malaysia, Sumatra, Java, and Borneo.
 It has also been reported from southern Thailand and the Philippines.
 
 The species occurs in lowland and hill dipterocarp forests at elevations up to
-800 meters. It prefers well-drained sandy loam soils in partial shade, often
+800 meters. It prefers well-drained [[sandy-loam-texture-cannabis-microbiome-assembly]] soils in partial shade, often
 growing as an understory herb beneath taller canopy trees.
 
 In Java, it is commonly found in [[teak]] forest margins and secondary growth areas.

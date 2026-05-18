@@ -3,7 +3,7 @@ title: "Annona muricata"
 type: species
 tags:
   - plants
-  - herbal-medicine
+  - [[herbal-medicine]]
   - tropical-fruit
   - pharmacology
   - acetogenins
@@ -18,7 +18,7 @@ sources:
 
 It is native to the [[panax-ginseng]].
 
-The species has attracted significant research interest due to its acetogenin content, which exhibits cytotoxic activity against cancer cell lines in vitro.
+The species has attracted significant research interest due to its acetogenin content, which exhibits cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
 ## Taxonomy and Morphology
 
@@ -65,7 +65,7 @@ These compounds are potent inhibitors of mitochondrial complex I (NADH:ubiquinon
 
 The leaves and bark contain alkaloids including anonaine, nornuciferine, and asimilobine.
 
-Flavonoids, including quercetin, kaempferol, and luteolin glycosides, contribute to antioxidant activity.
+Flavonoids, including [[quercetin]], [[kaempferol]], and [[luteolin]] glycosides, contribute to antioxidant activity.
 
 Vitamins present in the fruit include vitamin C, vitamin B1, vitamin B2, and niacin. The fruit also contains significant potassium, magnesium, and dietary fiber.
 

@@ -1,5 +1,5 @@
 ---
-title: Powdery Mildew
+title: [[cervantes-powdery-mildew-prevention-treatment]]
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---
@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Powdery mildew is a fungal disease caused by multiple genera of obligate
+Powdery mildew is a [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] caused by multiple genera of obligate
 parasites in the order Erysiphales. It appears as white to grayish powdery
 growth on the surfaces of leaves, stems, buds, and fruits of a wide range of
 host plants. Unlike many foliar pathogens, powdery mildew fungi do not require
@@ -29,12 +29,12 @@ tissue in relatively dry conditions with high humidity.
 - One of the most common and easily recognized plant diseases worldwide,
   affecting vegetables, fruits, ornamentals, and cereal crops.
 - Thrives in warm, dry climates with cool nights; high humidity (but not wet
-  leaves) promotes spore germination.
+  leaves) promotes [[duggar-mushroom-life-cycle-spore-germination-fruiting]].
 - Produces large quantities of conidiospores that spread by wind over long
   distances.
 - Severely infected leaves become distorted, yellow, and drop prematurely,
   reducing photosynthesis and yield.
-- Overwinters as cleistothecia (sexual fruiting bodies) on plant debris.
+- Overwinters as cleistothecia (sexual [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]) on plant debris.
 - Commonly affects grapes, strawberries, cucurbits, roses, wheat, and many
   other crops.
 
@@ -45,7 +45,7 @@ tissue in relatively dry conditions with high humidity.
 [[actively-aerated-compost-tea]] (AACT) is used as a foliar spray to suppress
 powdery mildew through several mechanisms described by [[elaine-ingham]]:
 
-1. **Competitive exclusion**: Beneficial bacteria and fungi colonize the leaf
+1. **Competitive exclusion**: [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] and fungi colonize the leaf
    surface, occupying niches that powdery mildew spores would otherwise
    germinate on.
 2. **Antibiotic production**: Beneficial microbes in AACT produce antibiotic
@@ -58,7 +58,7 @@ powdery mildew through several mechanisms described by [[elaine-ingham]]:
 ### Vineyard and Strawberry Management
 
 Ingham specifically notes powdery mildew as a major concern in vineyards and
-strawberry production, where AACT applications have demonstrated effective
+strawberry production, where [[aact-applications-guide-ingham]] have demonstrated effective
 suppression when the correct fungal-dominated biology is present on leaf
 surfaces.
 
@@ -81,7 +81,7 @@ surfaces.
 
 ## See Also
 
-- [[actively-aerated-compost-tea|Actively Aerated Compost Tea]]
-- [[ampelomyces-quisqualis|Ampelomyces quisqualis]]
+- [[actively-aerated-compost-tea]]
+- [[ampelomyces-quisqualis]]
 - [[trichoderma]]
-- [[foliar-pests-aact|Foliar Pests and AACT]]
+- [[foliar-pests-aact]]

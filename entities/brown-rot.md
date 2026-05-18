@@ -1,5 +1,5 @@
 ---
-title: Brown Rot
+title: [[bioremediation-fenton-chemistry-brown-rot-fungi]]
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---
@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Brown rot is a destructive fungal disease affecting stone fruits (Prunus species)
+Brown rot is a destructive [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] affecting [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]] (Prunus species)
 including cherries, peaches, plums, and apricots. It is caused primarily by
 *Monilinia fructicola* and *Monilinia laxa*. The disease affects blossoms,
 twigs, and fruit, causing blossom blight, twig cankers, and a characteristic
@@ -51,10 +51,10 @@ Elaine Ingham includes brown rot on cherries as a disease suppressible through
 1. **Blossom protection**: AACT applied during bloom colonizes flower
    surfaces, preventing *Monilinia* spores from germinating and infecting
    delicate blossom tissue.
-2. **Fruit surface colonization**: Regular AACT applications maintain
+2. **Fruit surface colonization**: Regular [[aact-applications-guide-ingham]] maintain
   beneficial biofilms on developing fruit, creating barriers to infection
   as fruit ripens and becomes more susceptible.
-3. **Mummy management**: AACT applied to the orchard floor helps decompose
+3. **Mummy management**: AACT applied to the [[fukuoka-orchard-floor-management]] helps decompose
    mummified fruit more rapidly, breaking the disease cycle.
 4. **Canopy biology**: Beneficial organisms in AACT colonize twig surfaces,
   suppressing canker development and reducing overwintering inoculum.
@@ -72,12 +72,12 @@ Elaine Ingham includes brown rot on cherries as a disease suppressible through
 - Apply AACT at pink bud stage, full bloom, petal fall, and pre-harvest.
 - Remove and destroy mummified fruit from trees and orchard floor.
 - Prune out cankered twigs during dormant season.
-- Use fungal-dominated compost tea for woody perennial applications.
+- Use fungal-dominated [[compost-tea-for-specific-crops]] woody perennial applications.
 - Maintain [[soil-food-web]] health to support overall tree vigor.
 
 ## See Also
 
-- [[actively-aerated-compost-tea|Actively Aerated Compost Tea]]
-- [[peach-leaf-curl|Peach Leaf Curl]]
-- [[elaine-ingham|Elaine Ingham]]
-- [[compost-tea-disease-suppression|Disease Suppression and Compost Tea]]
+- [[actively-aerated-compost-tea]]
+- [[peach-leaf-curl]]
+- [[elaine-ingham]]
+- [[compost-tea-disease-suppression]]

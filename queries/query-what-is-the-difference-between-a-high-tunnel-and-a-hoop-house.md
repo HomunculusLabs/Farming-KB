@@ -1,5 +1,5 @@
 ---
-title: "What Is the Difference Between a High Tunnel and a Hoop House?"
+title: "What Is the Difference Between a High Tunnel and a [[grow-tunnel-and-hoop-house]]?"
 tags: [query, season-extension, greenhouse, high-tunnel, hoop-house]
 date: 2026-05-09
 updated: 2026-05-09
@@ -40,11 +40,11 @@ Neither is considered a permanent building in most zoning codes.
 
 ## How They Compare to Other Season Extension
 
-[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season|Frost protection]] covers like [[query-how-to-build-a-passive-solar-greenhouse|A passive solar greenhouse]] typically has a solid wall on one side and glazing on the other for better heat retention.
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] covers like [[query-how-to-build-a-passive-solar-greenhouse]] typically has a solid wall on one side and glazing on the other for better heat retention.
 
 [[mollison-pdc-trellis-systems-climate-control]] that high tunnels lack.
 
-[[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques|Season extension techniques]] like interior row covers can add even more frost protection inside a tunnel.
+[[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] like interior [[cervantes-season-extension-cloches-row-covers]] can add even more frost protection inside a tunnel.
 
 ## Ventilation and Temperature Management
 
@@ -66,13 +66,13 @@ Orient the structure east-to-west for maximum light capture in winter.
 
 Position it to take advantage of prevailing winds for natural cross-ventilation.
 
-Locate it near a water source since drip irrigation will be needed.
+Locate it near a water source since [[cervantes-drip-irrigation-systems]] will be needed.
 
 - Avoid low-lying frost pockets where cold air settles at night.
 
 ## Cost and Materials
 
-A small DIY hoop house can be built for under $100 using PVC pipe and greenhouse plastic.
+A small DIY hoop house can be built for under $100 using PVC pipe and [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]].
 
 A mid-size 20-by-50-foot high tunnel with steel frames costs between $2,000 and $5,000.
 
@@ -82,7 +82,7 @@ A mid-size 20-by-50-foot high tunnel with steel frames costs between $2,000 and 
 
 - High tunnels and hoop houses are the same basic structure under different names.
 - High tunnels tend to be taller and used commercially, while hoop houses range from small to large.
-- Both provide passive solar heating, [[cold-climate-gardening]] without artificial climate control.
+- Both provide passive [[fao-solar-heating-pasteurization-mushroom-cultivation]], [[cold-climate-gardening]] without artificial [[reactive-house-passive-climate-control-systems]].
 - Ventilation through roll-up sides and open doors is critical to prevent overheating.
 - Crops are grown directly in the ground, distinguishing them from traditional greenhouses.
 

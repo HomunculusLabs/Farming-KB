@@ -1,5 +1,5 @@
 ---
-title: Munn Mazatec Mushroom Oracular Cure
+title: Munn [[maria-sabina-and-mazatec-mushroom-ceremony]] Oracular Cure
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,11 +13,11 @@ sources:
 
 # Munn and the Mazatec Mushroom Oracular Cure
 
-Henry Munn's essay "The Mushrooms of Language" appears in [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[maria-sabina]]-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
+[[henry-munn]]'s essay "The [[mazatec-mushrooms-of-language]]" appears in [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[maria-sabina]]-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 
 ## The Shaman as Speaker
 
-The Mazatec shaman presides over the session in an authoritarian context.
+The [[mazatec-shaman-healing-medicine-woman-practices]] presides over the session in an authoritarian context.
 
 Everyone is enjoined to keep silent and listen while the shaman speaks for each person present.
 
@@ -37,7 +37,7 @@ Language is an ecstatic activity of signification.
 
 ## The Ceremonial Setting
 
-Participants sit on the earthen floor of huts, close to the fire, breathing copal incense.
+Participants sit on the earthen floor of huts, close to the fire, breathing [[copal-incense]].
 
 The shaman sits with furrowed brow and marked mouth of speech.
 

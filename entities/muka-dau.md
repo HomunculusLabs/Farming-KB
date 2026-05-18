@@ -10,14 +10,14 @@ tags: [shamanic-power, cashinahua, traditional-medicine, bitter-medicine]
 Muka dau ("bitter medicine") is the [[cashinahua]] term for the
 spiritual quality or power that a shaman (*huni mukaya*, "the
 man with bitter") possesses within his body. It is the central
-therapeutic agent in Cashinahua shamanic healing—a spiritual
+therapeutic agent in Cashinahua [[cosmic-shamanic-healing]]—a spiritual
 substance received from spirit familiars during the process of
 becoming a shaman and deployed to counteract illness caused
-by malevolent spirit beings.
+by malevolent [[metzner-spirit-beings-multiple-realities-entheogens]].
 
 ## Classification
 
-- **Type:** Spiritual/substance-based shamanic power
+- **Type:** Spiritual/substance-based [[icaros-shamanic-power-songs]]
 - **Culture:** Cashinahua (southeastern Peru)
 - **Practitioner:** *Huni mukaya* (shaman, "man with bitter")
 - **Opposition:** *Huni dauya* (herbalist, "man with sweet
@@ -101,7 +101,7 @@ shamanism is ayahuasca-centered.
 
 ## Sources
 
-- Kensinger, Kenneth M. "Banisteriopsis Usage Among the Peruvian
+- Kensinger, Kenneth M. "[[harner-cashinahua-banisteriopsis-usage]] Among the Peruvian
   Cashinahua" in Harner, M.J. (ed.) *[[hallucinogens-and-shamanism]]*
   (Oxford University Press, 1973)
 - Kensinger, Kenneth M. "The Cashinahua Cultural Domain Dau"

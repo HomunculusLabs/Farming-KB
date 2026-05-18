@@ -1,5 +1,5 @@
 ---
-title: Mollison Barrier Plants In Garden Design
+title: Mollison Barrier Plants In [[community-garden-design]]
 created: 2026-04-26
 tags:
   - permaculture
@@ -20,7 +20,7 @@ type: concept
 Barrier plants serve multiple functions in permaculture
 systems: resisting invasive grasses, corralling animals,
 blocking hot or salt-laden winds, and dispersing overland
-water flow to prevent erosion. Mollison identifies several
+water flow to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]]. Mollison identifies several
 categories of barrier plants and their applications in
 tropical and subtropical design.
 
@@ -48,7 +48,7 @@ if space permits:
 - A clump grass which does not seed down or is not browsed
   (e.g., lemongrass, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], nasturtium, or
   Impatiens
-- A dense low shrub (Oncoba, Coprosma, Echium fastuosum)
+- A dense low shrub (Oncoba, Coprosma, [[echium-fastuosum]])
 - A bulb such as Canna, Agapanthus
 
 In total, the same plants can form a fire barrier, provide
@@ -72,9 +72,9 @@ cut and built into a thorn fence (boma). The latter enables
 more flexibility in changing compound arrangements.
 
 Species ideal for bomas include:
-- Lycium ferocissimum (African boxthorn)
-- Acacia tortilis (umbrella thorn)
-- Oncoba spinosa (bushman's cherry)
+- [[lycium-ferocissimum]] (African boxthorn)
+- [[acacia-tortilis]] (umbrella thorn)
+- [[oncoba-spinosa]] (bushman's cherry)
 - [[euphorbia-tirucalli]] (pencil cactus)
 
 Of these, only Lycium and Oncoba may not need barbed wire

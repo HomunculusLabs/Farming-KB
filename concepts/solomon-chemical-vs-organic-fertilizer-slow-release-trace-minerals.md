@@ -79,3 +79,44 @@ quantities, deficiencies in trace minerals can cause problems just as severe
 as [[cervantes-macronutrient-deficiency-toxicity]] — and often more difficult to diagnose.
 
 ### Seed Meals
+
+## Microbial Activity
+
+Soil microorganisms drive nutrient cycling, decomposition, and
+plant health. Bacteria, fungi, actinomycetes, and protozoa each
+play distinct roles. Maintaining diverse microbial populations
+through organic matter additions supports soil fertility.
+## Testing and Analysis
+
+Regular soil testing reveals pH, nutrient levels, organic matter
+content, and potential contaminants. Professional lab analysis
+provides more accurate results than home test kits. Annual
+testing allows tracking of soil health trends over time.
+## Environmental Impact
+
+Soil management practices affect water quality, carbon
+sequestration, and ecosystem health. Reducing tillage, adding
+organic amendments, and maintaining ground cover improve soil
+structure while minimizing erosion and nutrient runoff.
+
+## pH Management
+
+Soil pH directly affects nutrient availability and microbial
+activity. Most plants prefer slightly acidic to neutral pH
+(6.0-7.0). Adjusting pH with lime (to raise) or sulfur (to lower)
+should be done gradually based on regular soil testing.
+
+## Application Rates
+
+Proper application rates prevent both deficiency and toxicity.
+Over-application wastes resources and can cause environmental
+harm through runoff. Under-application limits effectiveness.
+Follow recommended rates and adjust based on observed results.
+## See Also
+
+- [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]]
+- [[solomon-complete-organic-fertilizer-guide]]
+- [[complete-organic-fertilizer-cof-solomon]]
+- [[solomon-complete-organic-fertilizer-soil-science]]
+- [[complete-organic-fertilizer-cof-recipe-solomon]]
+- [[solomon-complete-organic-fertilizer-cof-recipe]]

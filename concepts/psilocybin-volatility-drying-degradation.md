@@ -80,3 +80,16 @@ Based on the accumulated evidence:
 - Ohenoja, E. et al. (1987). Psilocybin decrease in herbarium specimens
 - Ott, J. (1993). Pharmacotheon
 - Palmer, J. A. (1894). *About Mushrooms*. Boston: Lee and Shepard
+## Dosage Considerations
+
+Effective dosage varies significantly by species, preparation
+method, individual sensitivity, and body weight. Dry weight
+measurements are more reliable than fresh weight due to variable
+water content. Start with lower doses when potency is uncertain.
+
+## Integration Practices
+
+Post-experience integration helps process and apply insights
+gained. Journaling, meditation, nature walks, and discussion
+with trusted individuals support meaning-making. Professional
+integration coaching is increasingly available in many areas.

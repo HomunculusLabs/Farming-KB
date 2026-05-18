@@ -1,5 +1,5 @@
 ---
-title: Two-Tier Selection Model for Plant Microbiomes
+title: Two-Tier [[cultivar-cannabis-microbiome-two-tier-selection-model]] for Plant Microbiomes
 created: 2026-05-11
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [two-tier-selection, microbiome-assembly, host-selection,
@@ -18,9 +18,9 @@ harbor
 distinct [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] directly select for microorganisms
 adapted
 to specific environmental conditions. Acidic soils favor acidophilic
-bacteria and fungi, while alkaline soils support alkaliphilic
+bacteria and fungi, while [[plants-tolerant-of-alkaline-soils]] support alkaliphilic
 communities.
-High organic matter soils support larger and more diverse microbial
+High [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] soils support larger and more diverse microbial
 populations than low-organic-matter soils. These abiotic filters operate
 independently of the host plant, establishing the baseline community
 from
@@ -29,7 +29,7 @@ which the plant draws its root associates.
 The first tier also includes biotic interactions within the soil
 microbial
 community itself: competition, predation, and mutualistic relationships
-between soil microorganisms that shape community structure before any
+between soil microorganisms that shape [[acidifying-pollutants-mycorrhizal-community-structure]] before any
 host-mediated selection occurs. The result is a "soil-specific microbial
 reservoir" — a pool of available organisms that varies between
 geographic
@@ -57,7 +57,7 @@ significant differentiation.
 The mechanism of host selection involves multiple pathways: (1) chemical
 recruitment through exudate signaling that attracts beneficial microbes,
 (2) immune-mediated exclusion that prevents colonization by potential
-pathogens, (3) physical barriers including root anatomy and mucilage
+pathogens, (3) physical barriers including root [[root-cross-section-anatomy-and-mucilage]]
 production that create specific colonization niches, and (4) metabolic
 cross-feeding where root exudates provide substrates for specific
 microbial
@@ -78,7 +78,7 @@ environment (first tier) while respecting the cultivar-specific
 microbial
 preferences (second tier), potentially improving plant performance
 through
-targeted microbiome management strategies informed by both soil science
+targeted microbiome [[forest-management-strategies]] informed by both soil science
 and
 host genetics.
 

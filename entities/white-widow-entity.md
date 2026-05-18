@@ -1,5 +1,5 @@
 ---
-title: "White Widow"
+title: "[[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]"
 created: 2026-05-06
 type: strain
 tags:
@@ -14,9 +14,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Clarke, R.C. & Merlin, M.D. (2013). \"Cannabis: Evolution and Ethnobotany.\" University of California Press."
-  - "Green, J.M. (2009). \"The Cannabis Grow Bible.\" Green Candy Press."
+  - "Green, J.M. (2009). \"The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]].\" Green Candy Press."
   - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Biological Psychiatry, 79(7), 613-619."
-  - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from cultivar to chemovar.\" Drug Testing and Analysis, 4(7-8), 660-667."
+  - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from cultivar to chemovar.\" Drug [[soil-testing-and-analysis]], 4(7-8), 660-667."
 ---
 
 # White Widow
@@ -42,7 +42,7 @@ Genetic ratio is approximately 60% indica / 40% sativa, though this
 varies by cut and phenotype.
 
 White Widow has been used as a parent in numerous notable crosses,
-including White Russian (White Widow × AK-47), Banana Kush, and
+including [[oner-ninja-turtle-white-russian-martian-mean-green]] (White Widow × AK-47), Banana Kush, and
 many "White" family strains (White Rhino, White Shark, Great White
 Shark).
 
@@ -58,7 +58,7 @@ contrast against the pale green calyxes and white resin. Leaves are
 dark green with occasional purple hues when exposed to cool nighttime
 temperatures during late flowering.
 
-The resin production is exceptional even by modern standards. Hand-rubbing
+The [[cannabis-resin-production-and-quality-traits-clarke]] is exceptional even by modern standards. Hand-rubbing
 a bud leaves fingers noticeably sticky with a layer that dries to a
 translucent film.
 
@@ -72,7 +72,7 @@ On inhalation, the flavor is smooth with dominant pine and earthy
 notes, accompanied by a peppery spice on the back of the palate. The
 exhale carries a woody, hashish-like quality with subtle floral hints.
 
-The terpene profile is led by [[limonene]] | 0.1–0.4% | Citrus, uplifting |
+The [[cannabis-terpene-profile]] is led by [[limonene]] | 0.1–0.4% | Citrus, uplifting |
 | [[tetrahydrocannabinol]] for cannabinoid chemistry.
 - **CBD:** 0.1–0.5% (negligible; not a CBD-rich strain)
 - **CBN:** Trace amounts in aged flower

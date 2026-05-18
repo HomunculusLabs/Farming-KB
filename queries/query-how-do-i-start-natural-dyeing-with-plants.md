@@ -1,5 +1,5 @@
 ---
-title: "How Do I query how do i start natural dyeing with plants Dyeing with Plants?"
+title: "How Do I query how do i start [[mollison-designers-wool-processing-natural-dyeing]] with plants Dyeing with Plants?"
 created: 2026-05-06
 tags: [query, natural-dyeing, plants, textiles, fiber-arts]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: query
 Natural dyeing with plants involves extracting color pigments from
 plant material and bonding them to fabric or fiber using a mordant.
 You can start with common dye plants like indigo, marigold, onion
-skins, and black walnut, using basic equipment most kitchens already
+skins, and [[black-walnut-juglans-allelopathy]], using basic equipment most kitchens already
 have.
 A mordant (usually alum) is essential for making most plant colors
 permanent and wash-fast on protein fibers like wool and silk, or

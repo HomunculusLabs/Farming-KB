@@ -1,5 +1,5 @@
 ---
-title: Soil Type Otu Abundance Vs Strain Structure Cannabis Microbiome
+title: Soil Type [[otu-abundance-vs-presence-absence-cannabis-strain-microbiome]] [[cannabis-microbiome-soil-type-composition-strain-structure]] [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
 created: 2026-05-08
 tags: [microbiology, cannabis, microbiome, soil-science, otu-analysis, plant-microbe-interactions, community-ecology, endorhiza]
 date: 2026-05-08
@@ -31,7 +31,7 @@ The study employed both unweighted (presence/absence-based) and weighted
 - **Strain produced zero significant OTU differences**
 
 This result was striking: when considering only which taxa were present or
-absent (binary membership), Cannabis strain had no statistically detectable
+absent (binary membership), [[biscotti-cannabis-strain]] had no statistically detectable
 effect. The microbial membership of communities was overwhelmingly determined
 by soil type and compartment (soil vs. rhizosphere vs. endorhiza).
 

@@ -12,7 +12,7 @@ type: concept
 ## Bioavailability
 
 Bioavailability is a critical factor controlling the success of fungal
-bioremediation in contaminated soils. It refers to the fraction of a
+bioremediation in [[fungal-competition-survival-contaminated-soils]]. It refers to the fraction of a
 pollutant that is accessible to microorganisms for uptake or enzymatic
 transformation. Even when fungi possess the enzymatic machinery to
 degrade a contaminant, remediation may fail if the pollutant is
@@ -28,7 +28,7 @@ chemical nature of the pollutant and the amount of [[comparison-liquid-culture-v
 pH significantly influences sorption behavior. [[pcp]], for example,
 becomes a water-soluble salt at high pH, increasing its mobility and
 bioavailability. In contrast, at lower pH the neutral form predominates
-and sorption to organic matter increases. Understanding these
+and sorption to [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] increases. Understanding these
 pH-dependent dynamics is essential for optimizing remediation
 conditions.
 
@@ -37,12 +37,12 @@ conditions.
 Long-term contact between pollutants and soil leads to aging effects
 that reduce bioavailability over time. Slow migration and diffusion of
 POPs into soil micropores renders them unavailable for microbial
-transformation, even by extracellular enzymes. General microbial
+transformation, even by [[fungal-extracellular-enzymes]]. General microbial
 activity is restricted in smaller soil pores; carbon turnover rates are
 lower in micropores at low soil matric potential, and nitrifying bacteria
 are confined to pores of specific size ranges.
 
-Evidence indicates that pollutant transformation is restricted in pores
+Evidence indicates that [[fungal-soil-pollutant-transformation]] is restricted in pores
 less than one micrometer in diameter. The heterogeneous soil environment
 therefore prevents complete pollutant transformation regardless of how
 efficient a fungal inoculant may be under laboratory conditions.
@@ -54,7 +54,7 @@ A fundamental question in [[staycare-fungal-in-situ-bioremediation-formulation-s
 - fungal-enzymes-degradation for enzymatic mechanisms
 ## Practical Considerations
 
-When working with Bioavailability of Pollutants in Fungal Bioremediation, several practical factors should be
+When working with Bioavailability of Pollutants [[staycare-manganese-peroxidase-in-fungal-bioremediation]], several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

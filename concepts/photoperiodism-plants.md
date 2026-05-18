@@ -11,7 +11,7 @@ Plants do not simply react to light as it arrives. They measure the
 duration of light and darkness to make critical decisions about when to
 grow, when to flower, and when to prepare for winter. This ability —
 known as [[coleman-louis-savier-twentieth-century-maraicher]]
-transformed both basic plant science and commercial agriculture. The
+transformed both basic plant science and [[night-break-photoperiodism-manipulation-commercial-agriculture]]. The
 story begins with a peculiar tobacco plant that simply would not stop
 growing.
 
@@ -64,7 +64,7 @@ practice, these plants are really responding to long nights. Examples
 include chrysanthemums and soybeans. Chrysanthemums naturally bloom in
 the autumn as the days shorten, while soybeans flower as summer wanes.
 
-**Long-day plants** flower only when the day length exceeds a certain
+**Long-day plants** flower only when the [[mollison-designers-day-length-and-flowering-response]] exceeds a certain
 threshold — when days are long and nights are short. Examples include
 irises and barley. These plants typically bloom in late spring and
 early summer, when the days are at their longest.

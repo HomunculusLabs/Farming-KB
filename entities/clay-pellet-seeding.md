@@ -1,5 +1,5 @@
 ---
-title: Clay Pellet Seeding
+title: [[clay-pellet-seeding-technique]]
 source: masanobu-fukuoka-fukuoka.md
 type: entity
 tags: [technique, natural-farming, seed-treatment, direct-seeding, fukuoka]
@@ -55,7 +55,7 @@ After broadcasting pellets, a thin layer of [[chicken-manure]] is spread over th
 ## Classification
 
 - **Category**: Agricultural technique / Seed treatment
-- **Originator**: Masanobu Fukuoka
+- **Originator**: [[masanobu-fukuoka-natural-farming-one-straw-revolution]]
 - **Primary use**: Direct seeding without cultivation
 - **Materials**: Clay, water, unhulled seed
 
@@ -64,8 +64,8 @@ After broadcasting pellets, a thin layer of [[chicken-manure]] is spread over th
 The clay pellet technique has direct analogues in [[mushroom-cultivation]]:
 
 1. **Spawn distribution**: Similar to how mushroom spawn is mixed with substrate and formed into blocks or plugs for distribution
-2. **Protection of inoculum**: Just as clay protects seeds, mushroom growers protect grain spawn from contamination
-3. **Moisture management**: The clay's moisture-retaining properties mirror the role of hydrated substrates in mushroom cultivation
+2. **Protection of inoculum**: Just as clay protects seeds, [[enterprise-development-mushroom-growers]] protect grain spawn from contamination
+3. **[[mushroom-bed-moisture-management]]**: The clay's moisture-retaining properties mirror the role of hydrated substrates [[contamination-prevention-in-mushroom-cultivation]]
 4. **Outdoor cultivation**: Clay pellets enable outdoor seeding without prepared beds, similar to outdoor mushroom patch techniques
 
 ## Key Facts
@@ -73,7 +73,7 @@ The clay pellet technique has direct analogues in [[mushroom-cultivation]]:
 - Seed enclosure technique developed by Masanobu Fukuoka
 - Seeds coated in clay form pellets ~½ inch in diameter
 - Protects against birds, mice, crickets, and slugs
-- Two preparation methods: dusting or kneading/screening
+- Two [[amanita-muscaria-preparation-methods]]: dusting or kneading/screening
 - One day of work produces pellets for several acres
 - Essential for direct-seeding non-cultivation method
 - Also used for vegetables and other grain seeds

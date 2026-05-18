@@ -1,10 +1,10 @@
 ---
-title: Cannabis Pollen Collection
+title: [[cannabis-pollen-collection-storage-clarke]]
 created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cervantes - marijuana-horticulture-cervantes-cannabis-breeding-and-genetics"
+  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
 type: concept
 tags: [cannabis]
 ---

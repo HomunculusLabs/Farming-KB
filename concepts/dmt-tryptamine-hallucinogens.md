@@ -1,5 +1,5 @@
 ---
-title: Dmt Tryptamine Hallucinogens
+title: Dmt [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 created: 2026-05-11
 source: mckenna_t-tryptamines_consciousness.md
 tags: [dmt, tryptamine, hallucinogen, consciousness, psychedelics,
@@ -56,8 +56,8 @@ This translinguistic phenomenon manifests as glossolalia (speaking in
 tongues), but unlike classical glossolalia, it is experienced as a brain
 state allowing expression of "the assembly language that lies behind
 language" — a primal "Ursprache" emerging from within. McKenna connects
-this to Robert Graves' concept in The White Goddess and to Kabbalistic
-descriptions of a primal language in the Zohar.
+this to [[robert-graves-british-mushroom-connection]]' concept in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] and to Kabbalistic
+descriptions of a [[mckenna-glossolalia-and-primal-language-tryptamine-states]] in the Zohar.
 
 ## Endogenous DMT and Consciousness
 
@@ -86,4 +86,4 @@ understanding of consciousness.
 - [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
 - Shulgin A, Shulgin A (1997) TIHKAL. Transform Press.
 - Smythies JR (1994) The Walls of Plato's Cave. Ashgate.
-- Strassman R (2001) DMT: The Spirit Molecule. Park Street Press.
+- Strassman R (2001) DMT: The [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]. Park Street Press.

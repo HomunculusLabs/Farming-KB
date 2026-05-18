@@ -81,4 +81,4 @@ sources:
 - Poor-quality extracts used aerial material rather than noble root varieties
 - **Noble vs. Tudei kava:** Traditional use employs only noble varieties; tudei varieties have higher DHM and flavokavain levels linked to cytotoxicity
 - Organic solvent vs. aqueous extraction may affect hepatotoxicity profile
-- **Current consensus:** WHO (2007) — hepatotoxicity rare, possibly idiosyncratic; quality control critical; German ban lifted 2015 for pharmaceutical-grade extracts
+- **Current consensus:** WHO (2007) — hepatotoxicity rare, possibly idiosyncratic; [[blesching-cannabis-contaminants-testing-quality-control]] critical; German ban lifted 2015 for pharmaceutical-grade extracts

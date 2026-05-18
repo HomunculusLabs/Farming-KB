@@ -1,5 +1,5 @@
 ---
-title: Permaculture Twelve Design Principles
+title: Permaculture Twelve [[aact-brewer-design-principles-aeration-systems-ingham]]
 source: "Permaculture: Principles & Pathways david-holmgren"
 source_file: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, design-principles, holmgren, sustainability, systems-thinking]
@@ -8,7 +8,7 @@ created: 2026-05-10
 
 # Permaculture's Twelve Design Principles
 
-[[david-holmgren]]'s *Permaculture: Principles & Pathways Beyond Sustainability*
+[[david-holmgren]]'s *Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]]*
 (2002) presents the most comprehensive articulation of [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]:
 
 1. **Care for the Earth** — Provision for all life systems to continue and
@@ -19,7 +19,7 @@ created: 2026-05-10
    necessary for their existence. This extends the first ethic to include
    human welfare as inseparable from ecological health.
 
-3. **Fair Share (Set Limits and Redistribute Surplus)** — By governing our
+3. **[[permaculture-ethics-earth-care-people-care-fair-share]] (Set Limits and Redistribute Surplus)** — By governing our
    own needs, we can set resources aside to further the first two ethics.
    This third ethic establishes limits to consumption and advocates for
    the redistribution of surplus.
@@ -46,7 +46,7 @@ observe, design, implement, observe, redesign.
 We live in a world of finite resources where energy flows through systems.
 By developing systems that collect and store resources when they are
 abundant, we can use them in times of need. This applies to water harvesting,
-solar energy, soil building, seed saving, and the storage of surplus food.
+[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]], soil building, seed saving, and the storage of surplus food.
 Holmgren draws heavily on H.T. Odum's energy systems theory.
 
 ### 3. Obtain a Yield
@@ -66,7 +66,7 @@ We need to discourage inappropriate activity to ensure that systems can
 continue to function well. Negative feedback — recognizing and responding to
 signs of dysfunction — is essential. This principle applies at every scale:
 from a garden that tells you it needs water (wilting leaves) to a civilization
-that tells you it is unsustainable (climate change, resource depletion).
+that tells you it is unsustainable ([[dighton-fungal-responses-climate-change]], resource depletion).
 
 ### 5. Use and Value Renewable Resources and Services
 *Let nature take its course.*
@@ -74,7 +74,7 @@ that tells you it is unsustainable (climate change, resource depletion).
 Make the best use of nature's abundance to reduce our consumptive behavior
 and dependence on non-renewable resources. This means valuing not just
 material resources (timber, food, fiber) but also the services that natural
-systems provide (pollination, pest control, water purification, soil
+systems provide (pollination, [[beneficial-insects-and-biological-pest-control]], water purification, soil
 formation) at no cost.
 
 ### 6. Produce No Waste

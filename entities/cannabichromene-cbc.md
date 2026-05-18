@@ -12,10 +12,10 @@ type: entity
 
 **Type:** Chemical / Phytocannabinoid
 **Category:** Minor [[cannabis-indica]]. It is one of the five major cannabinoids
-identified in cannabis research, alongside THC, CBD, CBG, and CBN.
+identified in [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]], alongside THC, CBD, CBG, and CBN.
 Despite being classified as a "minor" cannabinoid due to its relatively
 low concentration in most strains, CBC has demonstrated significant
-therapeutic properties, particularly in anti-cancer and antibacterial
+[[raw-cannabis-thca-non-psychoactive-therapeutic-properties]], particularly in anti-cancer and antibacterial
 research.
 
 ## Key Details
@@ -31,7 +31,7 @@ research.
 ## Overview
 
 Cannabichromene Cbc represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -60,13 +60,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for cannabichromene cbc. Climate adaptation
+opportunities for cannabichromene cbc. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -81,7 +81,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cannabichromene cbc and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -15,7 +15,7 @@ tags: [mycelium, plants]
 
 - Mycelium loosens soil as mass is reduced, enhancing aggregation and
   creating micro spaces that absorb and fill with water
-- Carbon dioxide outgassed by mycelium, heavier than air, saturates
+- [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] outgassed by mycelium, heavier than air, saturates
   soil and fuels developing plants
 - As sugars flow between plant and fungi, complex biochemical
   interchanges occur that scientists are only beginning to understand
@@ -44,7 +44,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

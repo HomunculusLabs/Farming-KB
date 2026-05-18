@@ -1,5 +1,5 @@
 ---
-title: Soma Haoma Hypothesis
+title: [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]] Hypothesis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -11,9 +11,9 @@ tags: [reference]
 # Soma Haoma Hypothesis
 
 The Soma-Haoma hypothesis concerns the identification of the sacred plants Soma
-(of Vedic India) and Haoma (of Zoroastrian Persia) with [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom. Proposed most influentially by R. Gordon Wasson in 1968,
+(of Vedic India) and Haoma (of Zoroastrian Persia) with [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom. Proposed most influentially by R. [[gordon-wasson]] in 1968,
 this hypothesis suggests that [[amanita-muscaria]] was the divine intoxicant
-celebrated in the Rig Veda as the elixir of immortality and the source of
+celebrated in the [[rig-veda]] as the elixir of immortality and the source of
 divine inspiration for the Vedic priests. The hypothesis remains one of the
 most debated questions in ethnobotany and Indo-Iranian studies.
 
@@ -54,16 +54,16 @@ brought a unique combination of ethnobotanical field experience and classical
 scholarship to the question. His argument drew on multiple lines of evidence:
 
 1. **Botanical evidence**: The Rig Veda describes Soma as growing in the
-   mountains, which matches the habitat of Amanita muscaria, a boreal-montane
+   mountains, which matches the habitat of [[allegro-amanita-muscaria-properties-and-pharmacology]], a boreal-montane
    species
 
-2. **Preparation methods**: The pressing of Soma between stones parallels the
+2. **[[amanita-muscaria-preparation-methods]]**: The pressing of Soma between stones parallels the
    [[kava-traditional-preparation-ceremonial-context]] of Amanita
 
 3. **Color descriptions**: Soma is described as "fiery," "tawny," and
    "ruddy," matching the red cap of Amanita muscaria
 
-4. **Urine recycling**: Vedic texts describe the gods drinking Soma-urine,
+4. **[[siberian-fly-agaric-shamanism-urine-recycling]]**: Vedic texts describe the gods drinking Soma-urine,
    paralleling the Siberian practice of drinking the urine of those who have
    consumed Amanita muscaria
 

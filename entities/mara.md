@@ -35,7 +35,7 @@ The historical Buddha's struggle with Mara under the Bodhi tree is the archetypa
 
 5. In the [[bardo-thodol]], the Hosts of Mara represent the ego's desperate attempts to reconstitute itself during ego-dissolution.
 
-6. The psychedelic experience directly confronts the voyager with Mara — the terror and resistance that accompany ego-loss.
+6. The [[leary-psychedelic-experience-bardo-mapping]] directly confronts the voyager with Mara — the terror and resistance that accompany ego-loss.
 
 7. Mara's attacks include fear, seduction, doubt, and the compelling urge to flee from the [[clear-light]].
 
@@ -71,20 +71,20 @@ The fear, panic, and desperate desire to "hold on" during a psychedelic peak are
 
 The manual instructs practitioners to recognize these resistances as Mara's illusions and not be deceived by them.
 
-This reframes the "bad trip" phenomenon as a natural — and navigable — encounter with the ego's defense mechanisms.
+This reframes the "bad trip" phenomenon as a natural — and navigable — encounter with the ego's [[plant-defense-mechanisms]].
 
 The psychedelic voyager, like the Buddha under the Bodhi tree, must simply remain present and unmoved.
 
 ## Relation to Other Entities
 
-- **Clear Light**: What Mara attempts to obscure or prevent recognition of.
+- **[[clear-light-consciousness]]**: What Mara attempts to obscure or prevent recognition of.
 - **Gautama Buddha**: The archetypal conqueror of Mara.
 - **Sangsara**: The cycle that Mara perpetuates through delusion.
 - **Dharma-Kaya**: The truth that dispels Mara's illusions.
-- **Herukas**: Wrathful deities that may appear as Mara-like figures but are actually enlightened beings.
+- **Herukas**: [[wrathful-deities]] that may appear as Mara-like figures but are actually enlightened beings.
 
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
-- Lama Kazi Dawa-Samdup (translator). *Bardo Thodol*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.
+- Lama Kazi Dawa-Samdup (translator). *[[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]*.

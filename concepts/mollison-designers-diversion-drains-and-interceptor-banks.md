@@ -1,5 +1,5 @@
 ---
-title: "mollison designers diversion drains and interceptor banks and Interceptor Banks in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
+title: "[[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]] [[diversion-drains-and-spreader-banks]] interceptor [[spreader-banks-and-interceptor-drains]] Banks in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
 created: 2026-04-26
 tags:
   - water-harvesting
@@ -41,7 +41,7 @@ If low earth-walls are raised across the flow channels of
 larger diversion drains, these then act as a series of
 mini-swales for specific tree sites, while surplus water
 flows on to storages. This integration of storage and
-conveyance is a hallmark of permaculture water design,
+conveyance is a hallmark of [[permaculture-water-design-checklist]],
 where every element serves multiple functions.
 
 Diversion drains can also be led to broad level swales in
@@ -54,7 +54,7 @@ flat alluvial plains.
 
 Interceptor drains act in the opposite sense to diversion
 drains. These earthworks are specifically designed (by
-Harry Whittington of West Australia) to prevent overland
+[[harry-whittington-mollison]] of West Australia) to prevent overland
 waterflow and waterlogging, which has the effect of
 collapsing the dryland valley or downslope soils of a
 desert soil catena.

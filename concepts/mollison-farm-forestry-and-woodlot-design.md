@@ -79,3 +79,44 @@ dyes or tannin, medicinals, and mulches on a sustainable basis.
 ## Nursery Enterprises
 
 Support services for farm forestry include combined plant
+
+## Design Considerations
+
+Effective implementation requires careful site analysis including
+sun patterns, water flow, existing vegetation, and soil type.
+Zone planning places frequently-accessed elements closer to
+the home. Observing natural patterns informs better design.
+## Regional Adaptations
+
+Principles must be adapted to local climate, altitude, and
+growing season length. Mediterranean, tropical, temperate, and
+arid regions each require different species selections, water
+management strategies, and seasonal timing approaches.
+## Economic Aspects
+
+Cost-benefit analysis should account for long-term yields,
+reduced input costs over time, and ecosystem services provided.
+Initial establishment costs are offset by decreasing maintenance
+as the system matures and self-regulates.
+
+## Water Management
+
+Water harvesting, storage, and distribution form critical
+infrastructure in any land management system. Swales, ponds,
+and keyline design capture and retain rainfall. Greywater
+recycling reduces demand on freshwater sources.
+
+## Soil Building Strategies
+
+Building soil organic matter through composting, mulching, cover
+cropping, and reduced tillage improves structure, water retention,
+and nutrient availability. Biological soil management prioritizes
+feeding soil organisms over direct plant fertilization.
+## See Also
+
+- [[farm-forestry-design-mollison]]
+- [[mollison-farm-dam-design-modifications]]
+- [[farm-forestry-design]]
+- [[mollison-farm-design-strategies-for-yield-increase]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[farm-forestry-mollison]]

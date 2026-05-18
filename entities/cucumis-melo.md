@@ -67,7 +67,7 @@ with a frost-free period of 90–120 days.
 
 Optimal conditions include temperatures of 25–30°C during growth, well-drained
 [[sandy-loam-texture-cannabis-microbiome-assembly]] soils (pH 6.0–7.0), and moderate but consistent soil moisture.
-Drought stress during fruit development reduces yield and sugar content.
+[[mycorrhizal-biodiversity-drought-stress-response]] during fruit development reduces yield and sugar content.
 
 ## Cultivation
 

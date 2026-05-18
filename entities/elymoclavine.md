@@ -12,14 +12,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Hofmann, A. (1978). "LSD — My Problem Child." McGraw-Hill.
-  - Schardl, C.L. et al. (2006). "Ergot alkaloids — Biology and
+  - Schardl, C.L. et al. (2006). "[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] — Biology and
     molecular biology." Alkaloids: Chemical and Biological Perspectives.
   - Gröger, D. & Floss, H.G. (1998). "Biochemistry of ergot alkaloids."
     European Journal of Plant Pathology.
   - Taber, W.A. & Vining, L.C. (1963). "Clavine alkaloids in
     Aspergillaceae." Phytopathologische Zeitschrift.
   - Flieger, M. et al. (1997). "Ergot alkaloids — Sources, structures
-    and analytical methods." Folia Microbiologica.
+    and [[analytical-methods-psilocybin-psilocin-quantification]]." Folia Microbiologica.
 created: 2026-04-28
 ---
 
@@ -32,7 +32,7 @@ precursor rather than for its own pharmacological effects.
 
 Elymoclavine is classified as a Schedule III controlled substance in
 some jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to lysergamide
-psychedelics and its role as a precursor in clandestine LSD synthesis.
+psychedelics and its role as a precursor in clandestine [[lsd-synthesis-history]].
 
 ## Chemical Properties
 
@@ -47,7 +47,7 @@ psychedelics and its role as a precursor in clandestine LSD synthesis.
 
 Elymoclavine belongs to the clavine alkaloid class, characterized by
 a tetracyclic ergoline ring system lacking the amide moiety present in
-lysergic acid derivatives. The molecule contains a double bond between
+[[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] derivatives. The molecule contains a double bond between
 C-8 and C-9, distinguishing it from its dihydro derivative
 dihydroelymoclavine (lysergol).
 
@@ -59,7 +59,7 @@ salt is the most commonly encountered form in laboratory settings.
 
 Elymoclavine acts as a partial agonist at serotonin 5-HT₂A receptors,
 the primary pharmacological target responsible for psychedelic effects
-among the ergoline alkaloids. Its binding affinity at 5-HT₂A is
+among the [[morning-glory-ergoline-alkaloids-chemistry]]. Its binding affinity at 5-HT₂A is
 approximately 10–50 times lower than that of LSD.
 
 Additional receptor interactions include agonist activity at 5-HT₁A

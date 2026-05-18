@@ -24,8 +24,8 @@ be easily replaced.
 
 # Classification
 
-Category: Culture storage technique. Domain: [[mycology]], cryobiology. Related methods:
-submerged agar cubes, agar slants, colonized grain storage, dehydration, mineral oil
+Category: [[cotter-culture-storage-senescence]] technique. Domain: [[mycology]], cryobiology. Related methods:
+[[submerged-agar-cube-storage]] cubes, agar slants, colonized grain storage, dehydration, mineral oil
 storage.
 
 # Key Facts
@@ -56,12 +56,12 @@ identical liquid cultures of a single strain and freezing multiple tubes. After 
 remove one tube and thaw it in a warm water bath at 77 to 86 degrees F (25 to 30 degrees
 C) for 2 to 5 minutes.
 
-Transfer the thawed culture to a fresh agar plate and observe both its recovery and the
+Transfer the thawed culture to a fresh [[agar-plate-preparation]] and observe both its recovery and the
 speed of that recovery. If the growth does not look healthy, try transferring again to
-another fresh plate. Look for uniform mycelial growth that best resembles the original
+another fresh plate. Look for uniform [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] that best resembles the original
 culture before freezing.
 
-Verify culture purity under a microscope by looking for clamp connections, which are small
+Verify culture purity under a microscope by looking for [[basidiomycete-sexual-reproduction-and-clamp-connections]], which are small
 elbow-shaped bumps near the septa between dividing cells. Clamp connections confirm that
 you have a basidiomycete (gilled mushroom) culture and not a mold or other contaminant.
 

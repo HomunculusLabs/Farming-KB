@@ -12,9 +12,9 @@ type: concept
 # Seed Establishment and Plant Recruitment
 
 The establishment of new plants from seed is one of the most critical
-yet overlooked processes in rangeland management. Savory's observations
+yet overlooked processes in [[rangeland-management]]. Savory's observations
 reveal that [[savory-weak-link-analysis]]. This
-understanding is essential to advancing plant succession and  community dynamics and reversing [[savory-soil-surface-and-capping]] - Surface conditions preventing
+understanding is essential to advancing plant succession and  [[dighton-aquatic-hyphomycete-conidia-community-dynamics]] and reversing [[savory-soil-surface-and-capping]] - Surface conditions preventing
   establishment
 - [[savory-partial-rest-and-algal-crusts]] and algal crusts - How rest prevents recruitment
 
@@ -38,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

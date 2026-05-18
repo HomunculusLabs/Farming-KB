@@ -1,5 +1,5 @@
 ---
-title: Lemon Cherry Gelato
+title: Lemon [[white-cherry-gelato]]
 type: strain
 tags:
   - cannabis
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly (2024). "Lemon Cherry Gelato Strain Information." www.leafly.com.
+  - Leafly (2024). "Lemon Cherry [[gelato-strain]] Information." www.leafly.com.
   - AllBud (2024). "Lemon Cherry Gelato." www.allbud.com.
   - Wikileaf (2024). "Lemon Cherry Gelato Strain Review." www.wikileaf.com.
   - query-sog-vs-scrog-cannabis-training-methods University (2023). "Gelato Family Tree and Lineage Guide."
@@ -28,9 +28,9 @@ being overly sedating at moderate doses.
 Lemon Cherry Gelato is a three-way cross combining genetics from several prominent
 modern cannabis lines:
 
-- **Lemon Haze** (sativa-dominant parent) — Silver Haze × Lemon Skunk
+- **[[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]** (sativa-dominant parent) — [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]] × Lemon Skunk
 - **Cherry Gelato** — [[granddaddy-purple]] descendant crossed
-  with [[sunset-sherbet]] → Girl Scout Cookies
+  with [[sunset-sherbet]] → [[girl-scout-cookies]]
 
 The sativa influence from Lemon Haze provides uplifting, creative cerebral effects,
 while the heavy indica genetics from the Cherry and Gelato side contribute body
@@ -42,7 +42,7 @@ Buds are medium to large with a dense, chunky structure typical of the Gelato fa
 The calyxes are tightly packed and covered in a thick layer of milky-white trichomes
 with occasional amber caps at full maturity.
 
-Coloration is striking: dark forest green base with deep purple and violet hues,
+Coloration is striking: dark [[trichoderma-forest-green-mold-guide]] base with deep purple and violet hues,
 punctuated by bright orange pistils. The purple intensifies under cooler nighttime
 temperatures during the final weeks of flowering.
 

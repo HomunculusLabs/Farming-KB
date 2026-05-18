@@ -1,6 +1,6 @@
 ---
-title: "comparison-root-cellaring-guide-vs-canning-and-preserving vs Freezing"
-tags: [comparison, food-preservation, root-cellar, freezing, homesteading]
+title: "[[comparison-root-cellaring-guide-vs-canning-and-preserving]] vs Freezing"
+tags: [comparison, food-preservation, root-cellar, freezing, [[homesteading]]]
 date: 2026-05-08
 updated: 2026-05-08
 sources: []
@@ -44,7 +44,7 @@ match.
 
 ## Combined Strategies
 
-The most resilient food preservation systems use both methods. Root cellaring
+The most resilient food preservation systems use both methods. [[root-cellaring]]
 handles bulk storage of hardy crops through winter at zero energy cost, while
 freezing preserves tender vegetables, fruits, and value-added products like
 soups and sauces. This combination reduces freezer load and energy consumption

@@ -1,7 +1,7 @@
 ---
 title: Harner Jivaro Shamanism And Natem Yage
 created: 2026-04-26
-sources: Harner (ed.), [[hallucinogens-and-shamanism-harner-anthology]] (1973), Ch. 2 (Harner)
+sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Ch. 2 (Harner)
 related:
   - amazonian-ayahuasca-shamanism
   - [[tsentsak]]

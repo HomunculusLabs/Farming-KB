@@ -9,13 +9,13 @@ tags:
   - medicinal-mushroom
   - hericiaceae
   - russulales
-  - basidiomycota
+  - [[basidiomycota]]
   - conifer-associate
   - pacific-northwest
   - neuroprotective
   - nerve-growth-factor
-  - erinacines
-  - hericenones
+  - [[erinacines]]
+  - [[hericenones]]
   - mycophagy
 date: 2026-04-28
 updated: 2026-04-28
@@ -36,7 +36,7 @@ sources:
 - **Common names:** Conifer coral mushroom, western bear's head, bear's head tooth
 - **Family:** Hericiaceae | **Order:** Russulales | **Phylum:** Basidiomycota
 - **Growth form:** Tooth fungus — pendant spines from branched coral-like base
-- **Native range:** Pacific Northwest [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]:** Multiple branches from common base, 5–25 cm broad
+- **Native range:** [[psilocybin-north-america-pacific-northwest]] [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]:** Multiple branches from common base, 5–25 cm broad
 - **Spines:** White to cream, pendant, soft, 0.5–2.5 cm, cascading
 - **Flesh:** White, soft, watery fresh; fibrous dried
 - **Odor:** Pleasant, mild, seafood-like | **Taste:** Sweet, lobster-like

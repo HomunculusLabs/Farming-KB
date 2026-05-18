@@ -75,6 +75,45 @@ Mollison's framework implies a clear priority for regional financial planning: e
 
 Communities must also distinguish between **locally conserved resources** (the basis of regional wealth, such as soil) and **exportable surplus** (goods or services that can be traded for scarce external resources). Financial institutions should prevent leakage of essential resources while facilitating the export of true surplus — but never at the cost of irreplaceable resources like soil or humus.
 
+## Design Considerations
+
+Effective implementation requires careful site analysis including
+sun patterns, water flow, existing vegetation, and soil type.
+Zone planning places frequently-accessed elements closer to
+the home. Observing natural patterns informs better design.
+## Regional Adaptations
+
+Principles must be adapted to local climate, altitude, and
+growing season length. Mediterranean, tropical, temperate, and
+arid regions each require different species selections, water
+management strategies, and seasonal timing approaches.
+## Economic Aspects
+
+Cost-benefit analysis should account for long-term yields,
+reduced input costs over time, and ecosystem services provided.
+Initial establishment costs are offset by decreasing maintenance
+as the system matures and self-regulates.
+
+## Water Management
+
+Water harvesting, storage, and distribution form critical
+infrastructure in any land management system. Swales, ponds,
+and keyline design capture and retain rainfall. Greywater
+recycling reduces demand on freshwater sources.
+
+## Soil Building Strategies
+
+Building soil organic matter through composting, mulching, cover
+cropping, and reduced tillage improves structure, water retention,
+and nutrient availability. Biological soil management prioritizes
+feeding soil organisms over direct plant fertilization.
+## Implementation Notes
+
+Practical implementation benefits from starting small and scaling
+based on observed results. Document conditions, inputs, and
+outcomes systematically. Connect with experienced practitioners
+in your bioregion for locally-adapted knowledge and support.
+
 ## See Also
 
 - [[informal-and-formal-community-economics]] Community Economies]([[informal-formal-community-economies]].md) — on LET systems, barter clubs, and cooperatives

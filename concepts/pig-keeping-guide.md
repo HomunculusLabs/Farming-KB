@@ -18,7 +18,7 @@ Pigs are among the most efficient livestock for the homestead, functioning as fo
 
 Pigs serve multiple valuable functions:
 
-- **Land clearing**: Their rooting action clears brush, blackberries, and scrub, preparing beds for planting
+- **[[urban-permaculture-pig-land-clearing]]**: Their rooting action clears brush, blackberries, and scrub, preparing beds for planting
 - **Natural plowing**: They dig up roots and turn soil, eliminating the need for mechanical tilling
 - **[[mollison-designers-banana-circle-waste-recycling-system]]**: Pigs consume food waste — up to 25 pounds (11.3 kg) of food per day
 - **Foraging**: They eat grass, herbs, vines, nuts, and roots
@@ -27,9 +27,9 @@ Pigs serve multiple valuable functions:
 ## Ideal Location
 
 - **Shady, treed area**: Full of waste material and weeds, not too muddy
-- **Orchard integration**: Pigs can be allowed into orchards when trees are at least a few years old
-- **Pasture preparation**: Plant pasture with legumes, comfrey, endive, and grass, treated with chisel plow and lime
-- **Stocking rate**: Maximum 20 pigs per acre (0.4 hectare) — they will completely clear the area
+- **[[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]]**: Pigs can be allowed into orchards when trees are at least a few years old
+- **Pasture preparation**: Plant pasture with legumes, comfrey, endive, and grass, treated with [[comparison-broadfork-vs-chisel-plow]] and lime
+- **[[savory-stock-density-vs-stocking-rate]]**: Maximum 20 pigs per acre (0.4 hectare) — they will completely clear the area
 
 ## Rotational Clearing Strategy
 
@@ -57,10 +57,10 @@ Plants can be grown specifically as pig forage:
 
 ## Housing and Shelter
 
-- **Cold climates**: Three-sided shed with soft, dry floor in the pasture
+- **[[query-best-kiwifruit-varieties-for-cold-climates]]**: Three-sided shed with soft, dry floor in the pasture
 - **Farrowing pen**: Needed for breeding — a well-ventilated shed with a door big enough for the sow to enter and turn around in, with two dividers on each side so piglets can walk through without being crushed
 - **Water**: Large, reliable, constant water supply essential — pigs do not sweat and need to cool themselves. Automatic waterers that pigs can activate for spraying are ideal.
-- **Salt**: Provide salt for mineral supplementation
+- **Salt**: Provide salt for [[jadam-seawater-mineral-supplementation]]
 
 ## Feeding
 

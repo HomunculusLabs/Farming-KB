@@ -6,17 +6,17 @@ type: entity
 
 ## Description
 
-The bow rake (also called a garden rake or level-head rake) is one of the three essential garden tools identified by [[steve-solomon]], alongside the [[combination-shovel]] and the garden hoe. It features a row of short, rigid steel tines attached to a bow-shaped frame, connected to a long handle. The bow rake is used for smoothing, leveling, and firming soil surfaces to create seedbeds, as well as for incorporating amendments into the top layer of soil.
+The bow rake (also called a garden rake or level-head rake) is one of the three essential [[garden-tools-and-sharpening]] identified by [[steve-solomon]], alongside the [[combination-shovel]] and the garden hoe. It features a row of short, rigid steel tines attached to a bow-shaped frame, connected to a long handle. The bow rake is used for smoothing, leveling, and firming soil surfaces to create seedbeds, as well as for incorporating amendments into the top layer of soil.
 
 ## Classification
 
 - **Category:** Garden tool
 - **Type:** Soil finishing / surface preparation tool
-- **Related concepts:** Combination shovel, garden hoe, seedbed preparation, tilth
+- **Related concepts:** Combination shovel, garden hoe, [[soil-tilth-and-seedbed-preparation]], tilth
 
 ## Key Facts
 
-- The bow rake is one of only three tools Solomon considers essential for a productive garden up to 1,000 square meters (quarter acre).
+- The bow rake is one of only three [[garden-hand-tools-solomon]] considers essential for a productive garden up to 1,000 square meters ([[fukuoka-agriculture-tomorrow-quarter-acre-vision]]).
 - The bow-shaped spring-steel frame provides flexibility and shock absorption, making the rake less fatiguing to use than rigid-head rakes.
 - Short, rigid tines (typically 14–16 teeth) break up small clods and comb through soil to create a fine, even surface.
 - The flat back of the rake head is used for firming and smoothing the soil surface after tine work.
@@ -27,9 +27,9 @@ The bow rake (also called a garden rake or level-head rake) is one of the three 
 
 The bow rake serves critical functions in [[garden-bed-preparation]]:
 
-- **Seedbed creation:** After digging and incorporating amendments, the bow rake produces the fine, level, firm surface needed for reliable seed germination.
+- **Seedbed creation:** After digging and incorporating amendments, the bow rake produces the fine, level, firm surface needed for reliable [[cannabis-seed-germination]].
 - **Amendment incorporation:** The tines work lime, [[compost]], and fertilizer into the top few inches of soil without requiring re-digging.
-- **Surface firming:** The flat back of the rake head presses seed into contact with moist soil, enhancing capillary action for germination.
+- **Surface firming:** The flat back of the rake head presses seed into contact with moist soil, enhancing [[capillary-action-in-soils]] for germination.
 - **Bed shaping:** Used to shape raised beds, create planting furrows, and define bed edges.
 - **Path maintenance:** Keeps pathways between beds smooth and level.
 

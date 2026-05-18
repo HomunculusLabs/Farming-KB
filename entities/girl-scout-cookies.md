@@ -1,5 +1,5 @@
 ---
-title: Girl Scout Cookies
+title: [[oner-cookie-wreck-trainwreck-girl-scout-cookies-hybrid]]
 created: 2026-04-28
 type: strain
 tags: [cannabis, strain, hybrid, cookie-family, bay-area-genetics, high-thc]
@@ -15,12 +15,12 @@ hybrid) with an unknown Cookies cutting rumored to be an F1 from a
 Florida OG x [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the
 world. It is the foundational mother of the broader "Cookies" genetic
 family, which includes [[cannabis-terpene-profile]], uplifting sativa effect |
-| Florida OG (rumored) | Maternal grandparent | Potency, [[cannabis-glandular-trichome-types-resin-production-clarke]], OG terpene profile |
-| Granddaddy Purple (rumored) | Paternal grandparent | Coloration, berry notes, indica relaxation |
+| Florida OG (rumored) | Maternal grandparent | Potency, [[cannabis-glandular-trichome-types-resin-production-clarke]], OG [[terpene-profile-chemotaxonomy]] |
+| [[granddaddy-purple]] (rumored) | Paternal grandparent | Coloration, berry notes, indica relaxation |
 
 The exact genetics have been debated since the strain's commercial
 debut. The breeder, known by the pseudonym "Jigga," initially worked
-within the Cookie Fam collective in San Francisco. Multiple phenotypes
+within the Cookie Fam collective in [[san-francisco-yarina-shipibo-ayahuasca-ceremonial-center]]. Multiple phenotypes
 were released under the GSC umbrella, with Thin Mint, Forum Cut, and
 the original GSC being the most sought-after. The Forum Cut, stabilized
 by the Cookie Fam, became the genetic basis for much of the subsequent
@@ -32,7 +32,7 @@ commercial breeding.
 - **THC**: 17-28% (tested averages), with select phenotypes exceeding 30%
 - **CBD**: Typically below 0.1% (negligible)
 - **Primary cannabinoids**: THCA dominates the cannabinoid fraction
-- The high THC content was considered exceptional at the time of its
+- The high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] was considered exceptional at the time of its
   release and contributed significantly to its reputation
 
 ### Terpene Profile
@@ -77,4 +77,4 @@ with dark green foliage that can develop purple and violet hues under
 cool night temperatures, especially in the final 2-3 weeks of flowering.
 
 ### Flowering
-- **Indoor flowering time**: 9-10 weeks from 12/12 flip
+- **Indoor [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]**: 9-10 weeks from 12/12 flip

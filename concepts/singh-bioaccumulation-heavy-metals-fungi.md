@@ -16,12 +16,12 @@ type: concept
 
 # Bioaccumulation and Biosorption of Heavy Metals by Fungi
 
-Heavy metal contamination of soil and water from industrial activities
+Heavy [[gadd-fungal-biosorption-metal-contamination-remediation]] of soil and water from industrial activities
 including mining, smelting, electroplating, and chemical manufacturing
 represents a persistent environmental challenge. Unlike organic
 pollutants, metals cannot be degraded and must be removed, transformed,
 or immobilized. Fungi offer cost-effective and efficient mechanisms for
-metal removal through biosorption (metabolism-independent binding to
+[[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] through biosorption (metabolism-independent binding to
 cell surfaces) and bioaccumulation (active intracellular uptake requiring
 metabolic energy).
 
@@ -32,7 +32,7 @@ metabolic energy).
 Biosorption occurs independently of cellular metabolism and involves
 binding of metal ions to functional groups on the [[dighton-fungal-biosorption-heavy-metal-remediation]] systems.
 - **Complexation**: Metal ions form coordination complexes with nitrogen,
-  oxygen, and sulfur donors on cell wall polymers.
+  oxygen, and sulfur donors on [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]].
 - **Electrostatic attraction**: Negatively charged cell wall groups
   (carboxylate, phosphate) attract cationic metal species.
 - **Precipitation**: Metal ions may precipitate as hydroxides, carbonates,
@@ -54,14 +54,14 @@ Bioaccumulation is a metabolically dependent process involving:
 
 ## Cell Wall Composition and Metal Binding
 
-The fungal cell wall provides the primary biosorption surface. Key
+The [[gadd-fungal-cell-structure]] wall provides the primary biosorption surface. Key
 structural components and their metal-binding groups include:
 
 - **Chitin**: Linear polymer of N-acetylglucosamine with amino and
   hydroxyl groups that coordinate metal ions.
 - **Glucans**: Beta-glucans (beta-1,3 and beta-1,6 linkages) provide
   hydroxyl groups for metal complexation.
-- **Chitosan**: Deacetylated chitin, present in some fungal cell walls
+- **Chitosan**: Deacetylated chitin, present in some fungal [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
   (especially Mucorales), provides abundant free amino groups with high
   affinity for metal cations.
 - **Proteins and glycoproteins**: Cell wall-associated proteins contribute
@@ -70,7 +70,7 @@ structural components and their metal-binding groups include:
   [[saccharomyces-cerevisiae]]: Brewer's yeast biomass, available as
   industrial waste, effective for multiple metal ions.
 - [[fungal-heavy-metal-biosorption-and-detoxification]]
-  with organic pollutant degradation capability.
+  with organic [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]] capability.
 
 ## Factors Affecting Biosorption
 

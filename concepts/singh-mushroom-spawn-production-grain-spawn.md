@@ -62,7 +62,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Mushroom Spawn Production and Grain Spawn. These include both technical difficulties and broader systemic
+[[mushroom-spawn-production-and-laboratory-techniques]] and [[comparison-grain-spawn-vs-sawdust-spawn]]. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.

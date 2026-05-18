@@ -79,3 +79,44 @@ considers this discovery one of the most remarkable achievements of
 indigenous pharmacology — requiring knowledge of hundreds of plant
 species and an understanding of synergistic interactions modern science
 only confirmed in the [[coleman-louis-savier-twentieth-century-maraicher]].
+
+## Safety Profile
+
+Set and setting significantly influence outcomes. Screening for
+contraindicated conditions (cardiovascular issues, psychotic
+disorders, concurrent MAOI use) is essential. Integration
+practices help process and contextualize experiences.
+## Legal Status
+
+Legal classification varies widely by jurisdiction. Many
+substances discussed are Schedule I in the United States.
+International treaties and local regulations change frequently;
+always verify current legal status in your jurisdiction.
+## Current Research
+
+Modern clinical trials are investigating therapeutic applications
+for depression, anxiety, PTSD, and substance use disorders.
+Results from Phase II and Phase III trials have shown
+promising efficacy with relatively low adverse event rates.
+
+## Dosage Considerations
+
+Effective dosage varies significantly by species, preparation
+method, individual sensitivity, and body weight. Dry weight
+measurements are more reliable than fresh weight due to variable
+water content. Start with lower doses when potency is uncertain.
+
+## Integration Practices
+
+Post-experience integration helps process and apply insights
+gained. Journaling, meditation, nature walks, and discussion
+with trusted individuals support meaning-making. Professional
+integration coaching is increasingly available in many areas.
+## See Also
+
+- [[guzman-neurotropic-fungi-classification-four-groups-chemistry-system]]
+- [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]
+- [[mckenna-food-gods-new-world-hallucinogen-clustering-americas-psychedelic-continent]]
+- [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]
+- [[mckenna-tryptamine-glossolalia-and-primal-language]]
+- [[mckenna-tryptamine-shamanic-identification-and-signs]]

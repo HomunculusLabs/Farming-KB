@@ -1,5 +1,5 @@
 ---
-title: air-pollution-fungal-community-responses Analysis by Molecular Methods in Remediation
+title: air-pollution-fungal-community-responses Analysis by [[molecular-methods-in-situ-fungal-diversity-monitoring]] Remediation
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Community Analysis by Molecular Methods in Remediation
 
-Understanding fungal community structure and dynamics in contaminated
+Understanding [[mineralogical-controls-fungal-community-structure]] and dynamics in contaminated
 environments is essential for predicting remediation outcomes and
 designing effective [[singh-mycorrhizal-fungi-rhizosphere-remediation]]. Limitations
 include resolution constraints (20-40 detectable taxa) and
@@ -32,7 +32,7 @@ throughput and more reproducible, quantitative data than DGGE.
 ### Automated Ribosomal Intergenic Spacer Analysis (ARISA)
 
 ARISA targets the ITS region, which exhibits greater variability than 18S
-or 28S rRNA genes, enabling finer-scale discrimination of fungal taxa
+or 28S rRNA genes, enabling finer-scale discrimination of [[undescribed-fungal-taxa]]
 particularly at the species level.
 
 ## Quantitative PCR and Digital PCR
@@ -44,7 +44,7 @@ or functional genes. Key applications include:
 
 - Quantifying [[singh-lignin-peroxidase-lip-fungal-degradation]] genes
 - Tracking inoculated strains during bioaugmentation experiments
-- Assessing fungal-to-bacterial biomass ratios in contaminated soils
+- Assessing fungal-to-bacterial biomass ratios in [[fungal-competition-survival-contaminated-soils]]
 
 ### Digital PCR (dPCR)
 
@@ -58,7 +58,7 @@ inhibitors common in contaminated soil extracts.
 ### Amplicon Sequencing
 
 Metabarcoding of fungal ITS regions using Illumina platforms is standard
-for community profiling. Key considerations include primer selection
+for [[fungal-community-profiling-rock-mineral-surfaces-gadd]]. Key considerations include primer selection
 (ITS3/ITS4, fITS7/ITS4), bioinformatics pipelines (quality filtering,
 chimera removal, ASV denoising, taxonomic assignment against UNITE), and
 diversity metrics (Shannon, Simpson, Chao1; Bray-Curtis, UniFrac).

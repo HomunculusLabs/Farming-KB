@@ -39,7 +39,7 @@ flies for [[aquatic-fungi-spore-dispersal-ingold]] vectors.
 New Zealand, and southern Africa.
 
 **Introduced range:** Widespread in western and central Europe (first
-recorded France, 1914), North America (Pacific Northwest, California,
+recorded France, 1914), [[guzman-psilocybin-mushrooms-north-america]] ([[psilocybin-north-america-pacific-northwest]], California,
 northeastern US), and parts of Asia (Japan).
 
 Spread likely via wool imports or military equipment during WWI.
@@ -49,9 +49,9 @@ Fruiting occurs August–November (Northern Hemisphere) at 15–22°C.
 
 ## Ecology and Dispersal
 
-Obligate saprotroph decomposing woody [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest and garden ecosystems.
+Obligate saprotroph decomposing woody [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest and [[fungi-in-garden-ecosystems]].
 
-Spore dispersal is entomochorous — the foul-smelling gleba attracts
+[[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] is entomochorous — the foul-smelling gleba attracts
 carrion-feeding flies. Flies land on the gleba, spores adhere to
 their bodies, and are transported to new substrates.
 
@@ -65,14 +65,14 @@ Limited research on [[antifungal-secondary-metabolites-coprophilous-fungi]]. Not
 Red coloration from carotenoid pigments rather than anthocyanins.
 
 Carrion odor volatiles include dimethyl disulfide, dimethyl
-trisulfide, and short-chain fatty acids — typical saprotrophic
+trisulfide, and short-chain [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] — typical saprotrophic
 attractants for dipteran dispersal agents.
 
 ## Edibility
 
 Not recommended for consumption. While not known to be toxic, the
 foul odor and unappealing texture make it undesirable. Several field
-guides list it as inedible. The immature egg stage is technically
+guides list it as inedible. The immature [[bloomfield-stinkhorn-egg-stage-and-pheromone-dispersal]] is technically
 edible (as with other Phallales) but confusion with toxic egg-stage
 fungi poses a risk.
 

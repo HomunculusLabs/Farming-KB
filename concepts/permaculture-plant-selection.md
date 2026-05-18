@@ -43,8 +43,8 @@ Plants that produce edible yields for humans:
 Plants that convert atmospheric nitrogen into plant-available form
 through symbiotic bacteria:
 
-- **Trees:** Black locust, honey locust, Siberian pea shrub, seaberry,
-  autumn olive, mesquite, alder, acacia
+- **Trees:** Black locust, [[comparison-black-locust-vs-honey-locust]], [[siberian-pea-tree-mollison]] shrub, seaberry,
+  [[permaculture-autumn-olive]], mesquite, alder, acacia
 - **Shrubs:** Ceanothus, elaeagnus, goumi, Russian olive, broom, gorse
 - **Herbaceous:** Clover (white, red, crimson), alfalfa, vetch, lupine,
   peas, beans, fenugreek
@@ -68,13 +68,13 @@ Plants that attract pollinators and beneficial predatory insects:
 
 ### Climate Adaptation
 
-Choose plants suited to your climate zone:
+Choose plants suited to your [[holzer-climate-zone-microclimate-creation]]:
 
 - **Hardiness zone:** Minimum winter [[mycorrhizal-drought-and-temperature-tolerance]]
 - **Heat tolerance:** Summer heat survival
-- **Chill hours:** For deciduous fruit trees (hours below 45F needed
+- **[[chill-hours-morel-cultivation]]:** For deciduous fruit trees (hours below 45F needed
   for fruit set)
-- **Rainfall:** Match to local precipitation patterns or provide
+- **Rainfall:** Match to local [[desert-precipitation-patterns-and-opportunistic-ecology]] or provide
   irrigation
 
 ### Soil Adaptation

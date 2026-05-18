@@ -26,7 +26,7 @@ For comprehensive species inventory, a minimum of 20 collections per
 category (e.g., per tree species, per decay stage) should be made
 from at least 10 different trees of each species. Collections should
 span available decay stages. Record: host species, diameter, decay
-stage, bark condition, exposure, moisture, and associated fungi
+stage, bark condition, exposure, moisture, and [[canker-and-gall-associated-fungi]]
 visible to the naked eye.
 
 ### Substratum Categories
@@ -35,14 +35,14 @@ visible to the naked eye.
 - Fallen logs and branches (various diameters and decay stages)
 - Twigs (recently dead to well-decayed)
 - Leaf litter (various stages of decomposition)
-- Coarse woody debris
+- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - Herbaceous plant debris
 
 ## Two Complementary Methods
 
 ### Direct Culturing from Substratum
 
-Place small pieces of substratum directly on isolation media. Surface
+Place small pieces of substratum directly on [[saprobic-soil-fungi-inventory-planning-isolation-media-incubation]]. Surface
 sterilize or not depending on objectives -- sterilization for
 endophytes, no sterilization for surface-inhabiting species. Use
 multiple media types to capture different fungal groups. Incubate at
@@ -67,9 +67,9 @@ the natural substratum under humid conditions.
 ### Standard Media Types
 
 Effective isolation of microfungi requires a range of media:
-- **Malt Extract Agar (MEA)**: General-purpose medium supporting
-  broad fungal diversity.
-- **Potato Dextrose Agar (PDA)**: Supports rapid growth of many
+- **[[malt-extract-agar]] (MEA)**: General-purpose medium supporting
+  broad [[arbuscular-mycorrhizal-fungal-diversity]].
+- **[[potato-dextrose-agar]] (PDA)**: Supports rapid growth of many
   saprotrophic species.
 - **Corn Meal Agar (CMA)**: Promotes sporulation of many
   dematiaceous hyphomycetes.

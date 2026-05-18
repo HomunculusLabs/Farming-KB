@@ -9,11 +9,11 @@ tags: [permaculture, poultry, forage, integrated-system, zone-two, chickens]
 
 ## Description
 
-A comprehensive, integrated poultry forage system designed by [[bill-mollison]] for zone two permaculture design. The system replaces conventional grain feeding with a diverse perennial forage polyculture that provides year-round nutrition for chickens while simultaneously improving soil, managing pests, and producing commercial nut crops. Mollison asserts that "never in the history of the world has anybody designed and implemented animal forage systems" of this type.
+A comprehensive, [[integrated-poultry-forage-systems-zone-two]] system designed by [[bill-mollison]] for zone two permaculture design. The system replaces conventional grain feeding with a diverse perennial forage polyculture that provides year-round nutrition for chickens while simultaneously improving soil, managing pests, and producing commercial nut crops. Mollison asserts that "never in the history of the world has anybody designed and implemented animal forage systems" of this type.
 
 ## Classification
 
-- **Category**: Integrated permaculture design system
+- **Category**: Integrated [[permaculture-design-system-nature-conservation]]
 - **Zone**: Zone two
 - **Primary animal**: Chickens (Gallus gallus domesticus)
 - **Complementary animals**: Ducks (with sheep), pigeons, quail
@@ -22,7 +22,7 @@ A comprehensive, integrated poultry forage system designed by [[bill-mollison]] 
 
 ### Forage Trees and Shrubs
 - **White mulberry**: 17% protein, primary forage during bearing season. As good as a double crop of grain.
-- **Siberian pea tree**: Drought-period forage; peasants fed poultry on it alone.
+- **[[siberian-pea-tree-mollison]]**: Drought-period forage; peasants fed poultry on it alone.
 - **Black locust**: Best fence post material, provides 10,000+ pound leaf drop per acre.
 - **Hawthorn group**: Great winter forage.
 - **Mountain ash**: Winter forage.
@@ -32,7 +32,7 @@ A comprehensive, integrated poultry forage system designed by [[bill-mollison]] 
 - **Comfrey**: High-protein greens for summer drought periods.
 - **Cleavers**: Summer greens forage.
 - **Chard**: Grown more for chickens than for humans in some gardens.
-- **Jerusalem artichoke**: Tubers brought into forage system.
+- **[[comparison-jerusalem-artichoke-vs-potato]]**: Tubers brought into forage system.
 - **Clover**: Planted in frost-heave patches.
 
 ### Commercial Crops (Integrated)
@@ -78,7 +78,7 @@ A comprehensive, integrated poultry forage system designed by [[bill-mollison]] 
 
 ## Source Reference
 
-- Bill Mollison, *Permaculture Design Course Pamphlet IX — Permaculture Techniques*
+- Bill Mollison, *[[mollison-permaculture-design-course-curriculum]] Pamphlet IX — [[urban-permaculture-techniques]]*
 - Discussed extensively in the zone two forage systems section.
 
 ## See Also

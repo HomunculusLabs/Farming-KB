@@ -2,7 +2,7 @@
 title: "Psilocybe equestris"
 created: 2026-04-28
 type: species
-tags: [fungi, psilocybe, psychedelic-mushroom, entheogen, agaricales]
+tags: [fungi, psilocybe, psychedelic-mushroom, entheogen, [[agaricales]]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -50,7 +50,7 @@ when moist, with a separable pellicle.
 ### Gills (Lamellae)
 Gills are adnate to adnexed, moderately close to subdistant, with
 2-3 tiers of lamellulae. Color is initially grayish-brown becoming
-dark purple-brown to nearly black with spore maturity. Gill edges
+dark purple-brown to nearly black with [[spore]] maturity. Gill edges
 are lighter and fringed, sometimes becoming mottled with white.
 
 ### Stipe (Stem)

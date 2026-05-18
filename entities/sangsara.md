@@ -16,7 +16,7 @@ In Tibetan Buddhist cosmology, Sangsara encompasses six distinct realms of rebir
 
 The ultimate goal of Buddhist practice is liberation from Sangsara into Nirvana.
 
-In *The Psychedelic Experience*, Sangsara maps to the cycle of ego-reconstitution during psychedelic re-entry.
+In *The [[leary-psychedelic-experience-bardo-mapping]]*, Sangsara maps to the cycle of ego-reconstitution during psychedelic re-entry.
 
 ## Classification
 
@@ -30,7 +30,7 @@ In *The Psychedelic Experience*, Sangsara maps to the cycle of ego-reconstitutio
 
 1. Sangsara is the endless cycle of birth, death, and rebirth driven by karma and delusion.
 
-2. It encompasses six worlds (lokas) of possible rebirth experience.
+2. It encompasses six worlds (lokas) of possible [[shamanism-and-the-death-rebirth-experience]].
 
 3. The six worlds are: devas (gods), asuras (demigods), humans, animals, pretas (hungry ghosts), and hell beings.
 
@@ -91,11 +91,11 @@ It recognizes that the quality of "coming down" determines the lasting value of 
 - **Dharma-Kaya**: Encompasses both Sangsara and Nirvana.
 - **Nirmana-Kaya**: The body that operates within Sangsaric existence.
 - **Mara**: The personification of the delusive forces that perpetuate Sangsara.
-- **Clear Light**: The state beyond Sangsara, encountered in the First Bardo.
-- **Gautama Buddha**: The teacher who discovered the path out of Sangsara.
+- **[[clear-light]]**: The state beyond Sangsara, encountered in the First Bardo.
+- **[[gautama-buddha]]**: The teacher who discovered the path out of Sangsara.
 
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
-- Lama Kazi Dawa-Samdup (translator). *Bardo Thodol*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.
+- Lama Kazi Dawa-Samdup (translator). *[[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]*.

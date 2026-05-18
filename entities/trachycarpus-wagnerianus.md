@@ -80,8 +80,8 @@ Trachycarpus wagnerianus is one of the most cold-hardy trunk-forming palms,
 surviving temperatures to approximately −15°C when established. It is more wind-
 tolerant than Trachycarpus fortunei due to its stiff leaf segments.
 
-**Climate:** Adaptable to USDA Zones 7B through 10. Thrives in cool temperate
+**Climate:** Adaptable to USDA Zones 7B through 10. Thrives in [[cool-temperate-establishment-and-pioneer-systems]]
 maritime climates with moderate rainfall. Performs well in warm temperate
 conditions provided roots are shaded.
 
-**Soil:** Tolerates clay, loam, and sandy soils. Prefers well-drained, humus-
+**Soil:** Tolerates clay, [[loam]], and sandy soils. Prefers well-drained, humus-

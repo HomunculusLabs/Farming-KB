@@ -1,5 +1,5 @@
 ---
-title: Earthworm Breeding
+title: [[comparison-bsf-composting-vs-earthworm-breeding]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -18,8 +18,8 @@ Three main species complement each other in their work:
 | Species | Habitat | Function |
 |---------|---------|----------|
 | Brandling worm (Eisenia foetida) | Epigeal — lives on soil surface | Processes large amounts of organic material, provides the best compost. Dark red with distinctive yellow bands. |
-| Red earthworm (Lumbricus rubellus) | Surface in youth, burrows into deeper layers as adult | Aerates soil, produces nutrient-rich compost. No distinctive banding. |
-| Common earthworm (Lumbricus terrestris) | Creates burrows at depths up to 3 metres | Creates drainage system, aerates soil deeply. The "typical" earthworm. |
+| Red earthworm ([[lumbricus-rubellus]]) | Surface in youth, burrows into deeper layers as adult | Aerates soil, produces nutrient-rich compost. No distinctive banding. |
+| Common earthworm ([[lumbricus-terrestris]]) | Creates burrows at depths up to 3 metres | Creates drainage system, aerates soil deeply. The "typical" earthworm. |
 
 ## Benefits of Earthworms
 
@@ -53,8 +53,8 @@ The soil should be loose and well aerated.
 
 - Any cooking waste can be used as food
 - Onions and garlic should be avoided — worms do not seem to like them
-- Worms particularly like used coffee filters complete with coffee grounds
-- Provide a regular supply of organic matter
+- Worms particularly like used coffee filters complete with [[oyster-mushroom-coffee-grounds-cultivation]]
+- Provide a regular supply of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 - Adjust the amount of food to the number of earthworms
 - If worms can break down food as quickly as new food accumulates, the rate is optimal
 - This prevents harmful build-ups of mould
@@ -78,7 +78,7 @@ In greenhouses, worms can be bred directly in the soil instead of boxes: cover t
 
 ## Using Worm Products
 
-- Scatter bred worms along with soil and worm eggs over new terraces and raised beds (in the evening, during wet weather)
+- Scatter bred worms along with soil and worm eggs over new terraces [[sepp-holzer-terrace-systems-and-raised-beds]] (in the evening, during wet weather)
 - Use nutrient-rich, fine crumbly worm humus for especially valuable and demanding plants
 - Also suitable for flowers on balconies
 

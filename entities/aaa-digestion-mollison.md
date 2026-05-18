@@ -9,13 +9,13 @@ tags: [wastewater-treatment, sewage, bioremediation, permaculture, technique]
 
 ## Description
 
-AAA (Alternating Aerobic and Anaerobic) digestion is a wastewater treatment technique in which faculative ponds are aerated at intervals of two hours in six, running aeration for only 30% of the time. The process was documented in Ecos 44 (Winter 1985) and represents a significant optimisation of biological sewage treatment, reducing both energy costs and sludge volume.
+AAA (Alternating [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]]) digestion is a [[biological-wastewater-treatment]] technique in which faculative ponds are aerated at intervals of two hours in six, running aeration for only 30% of the time. The process was documented in Ecos 44 (Winter 1985) and represents a significant optimisation of [[biological-sewage-treatment-plants]], reducing both energy costs and sludge volume.
 
 ## Classification
 
 - **Category**: Wastewater treatment technique
 - **Function**: Optimised biological sewage digestion
-- **Principle**: Alternating aerobic and anaerobic conditions
+- **Principle**: Alternating aerobic [[aact-ph-and-anaerobic-conditions]]
 
 ## Key Facts
 
@@ -52,12 +52,12 @@ AAA digestion is directly applicable to permaculture and ecological design:
 - **Cost-effective**: Lower capital and operating costs than conventional treatment plants
 - **Scalable**: Works at both household and small community scale
 
-The technique exemplifies the permaculture principle of working with natural biological processes rather than imposing energy-intensive mechanical solutions.
+The technique exemplifies the [[permaculture-principle-1-observe-interact]] of working with natural biological processes rather than imposing energy-intensive mechanical solutions.
 
 ## Practical Applications
 
 Aaa Digestion finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 

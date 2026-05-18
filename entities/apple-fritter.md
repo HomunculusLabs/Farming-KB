@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff. "Apple Fritter Strain Information." Leafly.com, 2024.
-  - AllBud. "Apple Fritter blesching-cannabis-strain-selection-receptor-targeting." AllBud.com, 2024.
+  - AllBud. "Apple Fritter [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com, 2024.
   - Weedmaps. "Apple Fritter: Strain Review." Weedmaps.com, 2025.
 ---
 
@@ -26,7 +26,7 @@ sources:
 
 ### Parent Strains
 
-- **Sour Apple** (female): A cross of Sour Diesel and Cinderella 99. Contributes sour, fruity terpenes and uplifting sativa-like cerebral effects.
+- **Sour Apple** (female): A cross of [[cannabis-sour-diesel]] and [[cinderella-99]]. Contributes sour, fruity [[terpenes]] and uplifting sativa-like cerebral effects.
 - **Animal Cookies** (male): A phenotype of [[cannabis-terpene-profile]].
 
 ### Genetic Profile
@@ -34,7 +34,7 @@ sources:
 - **Type:** Indica-dominant hybrid (approximately 60–70% indica / 30–40% sativa)
 - **[[interpreting-soil-test-results]] vary significantly by cultivation)
 - **CBD content:** < 1% (typically 0.05–0.3%)
-- **Primary terpenes:** Limonene, caryophyllene, myrcene
+- **Primary terpenes:** [[limonene]], caryophyllene, myrcene
 
 ## Appearance
 
@@ -42,7 +42,7 @@ Apple Fritter buds are visually striking and densely structured:
 
 - **Structure:** Medium to large, tightly packed calyxes forming chunky, rounded nuggets
 - **Coloration:** Deep [[trichoderma-forest-green-mold-guide]] with flashes of violet and purple, particularly in cooler growing conditions. Bright orange pistils weave throughout.
-- **Trichome coverage:** Exceptionally heavy — buds appear frosted or snow-capped with a thick layer of milky-white trichomes
+- **Trichome coverage:** Exceptionally heavy — buds appear frosted or snow-capped with a thick layer of milky-white [[trichomes]]
 - **Density:** High — buds are firm and compact, characteristic of their Cookies lineage
 
 The overall appearance is reminiscent of a freshly glazed apple pastry, which contributed to its name.

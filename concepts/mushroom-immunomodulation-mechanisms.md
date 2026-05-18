@@ -3,7 +3,7 @@ title: Mushroom Immunomodulation Mechanisms
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology]], mushrooms, cultivation]
 sources: []
 ---
 # Mushroom Immunomodulation Mechanisms
@@ -65,7 +65,7 @@ neutrophils and macrophages to kill iC3b-opsonized tumour cells.
 
 ## Cytokine Cascade
 
-Mushroom polysaccharides trigger a cascade of cytokine production:
+[[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]] trigger a cascade of cytokine production:
 | Cytokine | Primary Source | Effect |
 |----------|---------------|--------|
 | IL-1beta | Macrophages | Fever, T-cell activation, inflammation |

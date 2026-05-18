@@ -5,7 +5,7 @@ tags: [organic-farming, winter-harvest, greenhouse, season-extension, deep-organ
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Eliot Coleman, "The [[winter-harvest-handbook-guide]]" (Chelsea Green, 2009)
+  - Eliot Coleman, "The winter-harvest-handbook-guide" (Chelsea Green, 2009)
   - Eliot Coleman, "The New Organic Grower" (Chelsea Green, revised 2018)
 related_concepts:
   - coleman-deep-organic-farming-philosophy

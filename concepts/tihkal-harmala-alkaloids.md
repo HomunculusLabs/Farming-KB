@@ -1,8 +1,8 @@
 ---
-title: "turner-harmala-alkaloids-preparation-and-dosage: Harmine, Harmaline, and Tetrahydroharmine"
+title: "[[turner-harmala-alkaloids-preparation-and-dosage]]: [[harmine]], [[harmaline]], and [[tetrahydroharmine]]"
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
-tags: [harmala, harmine, harmaline, THH, beta-carboline, MAOI, ayahuasca]
+tags: [harmala, harmine, harmaline, THH, [[beta-carboline]], MAOI, [[ayahuasca]]]
 type: concept
 updated: 2026-04-26
 ---

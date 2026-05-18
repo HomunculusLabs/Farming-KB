@@ -13,7 +13,7 @@ The classification of psychedelics as Schedule I substances with "no medical
 use" and "high potential for abuse" reflects moral panic and cultural bias
 rather than scientific assessment. The scheduling system purports to be based
 on pharmacology but is in practice shaped by theological assumptions about the
-nature of consciousness and the soul.
+[[tryptamine-hallucinogens-and-nature-of-consciousness]] and the soul.
 
 ## The Religious Roots of Drug Prohibition
 
@@ -42,12 +42,12 @@ freedoms: religious practice and the privacy of the individual mind.
 
 ### The Original Religious Sensibility
 
-Religious use of [[mckenna-modest-proposal-drug-policy-reform]] Drug Policy Reform
-- McKenna   Drug War and Human Freedom
+Religious use of [[mckenna-modest-proposal-drug-policy-reform]] [[magic-mushroom-prohibition-and-uk-drug-policy]] Reform
+- McKenna   [[mckenna-drug-war-and-human-freedom]] Human Freedom
 - McKenna   The Dissolution of the [[mckenna-food-gods-genesis-first-drug-bust]]
 ## Practical Considerations
 
-When working with Mckenna Food mckenna food gods fundamentalist christianity drug war Christianity Drug War, several practical factors should be
+When working with Mckenna Food [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] fundamentalist christianity drug war Christianity Drug War, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

@@ -29,7 +29,7 @@ sources:
 ## Overview
 
 Eucalyptol, also known as 1,8-cineole, is a monoterpene cyclic ether
-found in the [[eucalyptus-globulus]]* essential oil) and occurs significantly in
+found in the [[eucalyptus-globulus]]* [[permaculture-designers-manual-essential-oil-plants]]) and occurs significantly in
 rosemary, tea tree, bay laurel, and basil.
 
 Widely used in medicine, dentistry, and food flavoring, eucalyptol
@@ -48,7 +48,7 @@ its expectorant, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobia
 - **Boiling point:** 176 °C
 - **Density:** 0.923 g/mL at 20 °C
 - **Solubility:** Sparingly soluble in water (3.5 g/L); miscible with
-  ethanol, ether, and chloroform
+  [[ethanol]], ether, and chloroform
 
 ## Pharmacology
 

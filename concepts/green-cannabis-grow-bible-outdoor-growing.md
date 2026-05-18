@@ -89,6 +89,13 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+## Storage and Preservation
+
+Proper storage maintains quality and potency over time.
+Temperature, light exposure, humidity, and oxygen contact
+all affect degradation rates. Airtight, opaque containers
+in cool environments provide optimal preservation conditions.
+
 ## See Also
 - [[dom]]
 - [[companion-planting]]

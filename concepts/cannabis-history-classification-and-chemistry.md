@@ -81,11 +81,11 @@ type: concept
 - From its origins in central Asia, Cannabis spread to virtually every inhabited continent
 - Hemp fiber cultivation preceded psychoactive use in many regions
 - The dual utility of Cannabis — as a fiber crop and a psychoactive plant — contributed to its global dissemination
-- European colonial expansion further distributed the plant to the Americas, Africa, and Southeast Asia
+- European colonial expansion further distributed the plant to the Americas, Africa, and [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]]
 
 ## Key Distinctions
 
-- **Hemp** varieties are bred for fiber and seed, with low THC content
+- **Hemp** varieties are bred for fiber and seed, with low [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
 - **Drug** varieties are bred for high resin and THC production
 - The distinction between industrial hemp and psychoactive Cannabis is primarily a matter of **cultivar selection**, not separate species
 - [[pf-tek-substrate-formula-and-jar-preparation-method]], [[cannabis-botany-history-chemistry]]

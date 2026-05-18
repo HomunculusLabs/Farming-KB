@@ -97,5 +97,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[nitrous-oxide]]
 - [[psychedelic-safety-guidelines-turner]]
 - [[turner-5meo-dmt]]
-- [[turner-ketamine]]
+- [[turner-ketamine-realms-dissociative-consciousness]]
 - [[turner-ketamine-combinations-and-cydelikspace-navigation]]

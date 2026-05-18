@@ -74,6 +74,38 @@ Ongoing developments in research and practice continue to expand our
 ## Historical Significance
 The development and understanding of 2c p pihkal entry 36 has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
+## Safety Profile
+
+Set and setting significantly influence outcomes. Screening for
+contraindicated conditions (cardiovascular issues, psychotic
+disorders, concurrent MAOI use) is essential. Integration
+practices help process and contextualize experiences.
+## Legal Status
+
+Legal classification varies widely by jurisdiction. Many
+substances discussed are Schedule I in the United States.
+International treaties and local regulations change frequently;
+always verify current legal status in your jurisdiction.
+## Current Research
+
+Modern clinical trials are investigating therapeutic applications
+for depression, anxiety, PTSD, and substance use disorders.
+Results from Phase II and Phase III trials have shown
+promising efficacy with relatively low adverse event rates.
+
+## Dosage Considerations
+
+Effective dosage varies significantly by species, preparation
+method, individual sensitivity, and body weight. Dry weight
+measurements are more reliable than fresh weight due to variable
+water content. Start with lower doses when potency is uncertain.
+
+## Integration Practices
+
+Post-experience integration helps process and apply insights
+gained. Journaling, meditation, nature walks, and discussion
+with trusted individuals support meaning-making. Professional
+integration coaching is increasingly available in many areas.
 ## See Also
 - [[2c-i-pihkal-entry-33]]
 - [[aem-pihkal-entry-1]]

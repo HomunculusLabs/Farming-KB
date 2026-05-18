@@ -12,13 +12,13 @@ type: concept
 
 ## Overview
 
-Bigwood and Beug (1982) adapted existing grain cultivation techniques into
+Bigwood and Beug (1982) adapted existing grain [[cannabis-sativa-indoor-cultivation-techniques]] into
 a "miniculture" system for growing [[psilocybin-psilocin-variation-across-flushes]] in a single species.
 
 ## Historical Development
 
-The miniculture technique was built upon three prior methodological
-contributions spanning a decade of mycological research:
+The [[psilocybe-cubensis-miniculture-technique]] was built upon three prior methodological
+contributions spanning a decade of [[mycological-research-institutions]]:
 
 1. **San Antonio (1971)**: Developed the original rye-grain substrate
    method for [[growing-gourmet-button-mushroom-agaricus-cultivation]]) cultivation
@@ -51,7 +51,7 @@ Each miniculture used a wide-mouth half-pint jar (approximately 250 ml
 volume) charged with 10 grams of rye grain and 15 ml of water. The jar
 was autoclaved to sterilize the substrate before inoculation. The simple
 two-ingredient formula of grain plus water minimized compositional
-variables that could affect alkaloid production, making the system
+variables that could affect [[mycelial-broth-alkaloid-production]], making the system
 suitable for controlled scientific experiments where reproducibility
 was paramount.
 
@@ -73,8 +73,8 @@ jars were opened and the grain was cased with a layer approximately
 2 cm deep. The casing mixture consisted of three components in specific
 proportions:
 
-- **2 parts peat moss**: Provides organic matter and moisture retention
-- **1 part calcium carbonate**: Buffers pH to neutral or slightly
+- **2 parts peat moss**: Provides [[savory-soil-organic-matter-and-decomposition-dynamics]] moisture retention
+- **1 part [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]**: Buffers pH to neutral or slightly
   alkaline conditions favorable for pin formation
 - **2 parts perlite and/or vermiculite**: Provides aeration and
   additional moisture retention while maintaining a loose,

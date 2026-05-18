@@ -75,7 +75,7 @@ compounds:
 
 ## Pharmacology and Health Effects
 
-Paeoniflorin and related compounds exhibit a wide range of validated
+Paeoniflorin and [[lsd-structure-activity-relationships-related-compounds]] exhibit a wide range of validated
 bioactivities relevant to multiple therapeutic areas:
 
 - **Anti-inflammatory and immunomodulatory** — inhibits NF-κB and MAPK

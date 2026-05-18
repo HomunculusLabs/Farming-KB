@@ -23,7 +23,7 @@ tags: [fish, aquaculture, freshwater, air-breathing, snakehead, permaculture]
 
 ### Air-Breathing Adaptation
 - Possesses a specialised suprabranchial organ (labyrinth organ) for aerial respiration
-- Can survive in completely anaerobic conditions (below 1 ppm dissolved oxygen)
+- Can survive in completely [[aact-ph-and-anaerobic-conditions]] (below 1 ppm dissolved oxygen)
 - Survives in weedy, stagnant tropical shallows where most fish die
 - Capable of overland migration during wet weather using sustained wriggling motion
 
@@ -57,14 +57,14 @@ tags: [fish, aquaculture, freshwater, air-breathing, snakehead, permaculture]
 ## Practical Applications
 
 The study of ophiocephalus striatus has significant implications
-for sustainable agriculture and ecological management.
+[[mushroom-cultivation-for-sustainable-agriculture]] and [[solomon-gardening-aikido-pest-philosophy-ecological-management]].
 Practitioners can apply these principles to improve
 system resilience and productivity.
 
 ## Ecological Context
 
 Within broader ecological systems, ophiocephalus striatus
-interacts with multiple environmental factors. Understanding
+interacts with multiple [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Understanding
 these relationships is key to effective implementation
 and long-term sustainability of management practices.
 
@@ -77,7 +77,7 @@ practical implications for design and implementation.
 
 ## Design Applications
 
-In permaculture design, ophiocephalus striatus informs
+[[ecological-succession-in-permaculture-design]], ophiocephalus striatus informs
 decisions about system layout, species selection, and
-management strategies. Proper integration enhances overall
+[[forest-management-strategies]]. Proper integration enhances overall
 system resilience and productive capacity.

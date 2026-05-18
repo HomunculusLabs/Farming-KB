@@ -70,6 +70,25 @@ THC content varies significantly among cannabis strains and growing conditions:
 - **Harvest timing**: THC content changes during flowering; harvesting at the optimal time maximizes potency
 - **Degradation**: THC content decreases over time and is affected by UV light, heat, and oxidation. Proper storage (cool, dark, airtight) preserves potency
 
+## Strain Selection
+
+Choosing appropriate cultivars depends on intended use, local
+climate, and growing conditions. Indica-dominant varieties
+typically flower faster and stay compact. Sativa-dominant
+varieties require longer flowering but produce different profiles.
+## Common Problems
+
+Nutrient deficiencies, pest infestations, and environmental
+stress are the most frequent cultivation challenges. Early
+detection through regular inspection prevents most issues.
+Maintaining proper pH and watering schedules reduces problems.
+## Harvest and Processing
+
+Timing harvest correctly requires monitoring trichome
+development. Clear trichomes indicate immaturity, cloudy
+indicates peak potency, and amber signals degradation.
+Proper drying and curing preserves quality significantly.
+
 ## See Also
 
 - [[cannabinoid-receptors-cb1-cb2]]

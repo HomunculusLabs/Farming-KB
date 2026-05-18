@@ -1,5 +1,5 @@
 ---
-title: mollison designers legume shade tree pasture systems Tree Pasture Systems
+title: [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]] shade tree pasture systems Tree Pasture Systems
 created: 2026-04-28
 tags:
   - agroforestry
@@ -18,7 +18,7 @@ type: concept
 # Legume Shade Tree Pasture Systems
 
 Leguminous shade trees integrated into pastoral systems represent one of the
-most productive and ecologically beneficial forms of permaculture-designers-manual-bamboo, Bill Mollison describes how nitrogen-fixing
+most productive and ecologically beneficial forms of permaculture-designers-manual-bamboo, [[bill-mollison]] describes how nitrogen-fixing
 trees such as Leucaena, Albizia, and Calliandra transform open pasture into
 multistrata production systems that simultaneously improve animal welfare,
 soil fertility, and overall farm productivity.
@@ -46,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -79,3 +79,44 @@ Bees are among the most easily protected from predators by elevation on pole str
 - [[animal-manure-guide]] -- nutrient cycling from animals
 - [[permaculture-tree-crop-systems]] -- animals integrated with tree crops
 - permaculture domestic animals -- this page
+
+## Design Considerations
+
+Effective implementation requires careful site analysis including
+sun patterns, water flow, existing vegetation, and soil type.
+Zone planning places frequently-accessed elements closer to
+the home. Observing natural patterns informs better design.
+## Regional Adaptations
+
+Principles must be adapted to local climate, altitude, and
+growing season length. Mediterranean, tropical, temperate, and
+arid regions each require different species selections, water
+management strategies, and seasonal timing approaches.
+## Economic Aspects
+
+Cost-benefit analysis should account for long-term yields,
+reduced input costs over time, and ecosystem services provided.
+Initial establishment costs are offset by decreasing maintenance
+as the system matures and self-regulates.
+
+## Water Management
+
+Water harvesting, storage, and distribution form critical
+infrastructure in any land management system. Swales, ponds,
+and keyline design capture and retain rainfall. Greywater
+recycling reduces demand on freshwater sources.
+
+## Soil Building Strategies
+
+Building soil organic matter through composting, mulching, cover
+cropping, and reduced tillage improves structure, water retention,
+and nutrient availability. Biological soil management prioritizes
+feeding soil organisms over direct plant fertilization.
+## See Also
+
+- [[permaculture-interaction-of-plants-and-animals]]
+- [[mollison-domestic-small-animals-zone-one]]
+- [[permaculture-pyrethrum-daisy]]
+- [[urban-permaculture-and-city-farming]]
+- [[permaculture-woodlot-management]]
+- [[sepp-holzer-permaculture-water-landscapes-climate-restoration]]

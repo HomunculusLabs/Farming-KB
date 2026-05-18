@@ -1,5 +1,5 @@
 ---
-title: Partnership Society Vs Dominator Culture
+title: [[dominator-culture-and-partnership-society]] [[partnership-vs-dominator-culture]]
 aliases: [dominator model, partnership model, Chalice and the Blade, Riane
   Eisler, patriarchal culture]
 source: Food of the Gods (terence-mckenna)
@@ -28,7 +28,7 @@ characteristics:
 
 - **Gender equality**: Women and men share power and social status.
   Leadership roles are not restricted by gender.
-- **Egalitarian social structure**: Power is distributed rather than
+- **Egalitarian [[permaculture-community-philosophy-and-social-structure]]**: Power is distributed rather than
   concentrated. Social organization is horizontal rather than vertical.
 - **Peaceful conflict resolution**: Violence and warfare are not
   glorified or systematized. Disputes are resolved through negotiation,

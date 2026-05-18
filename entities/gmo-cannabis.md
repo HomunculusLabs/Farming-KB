@@ -21,17 +21,17 @@ sources:
 
 ## Overview
 
-GMO, also known as "Garlic Cookies" or "[[gmo-cookies]]," is a highly potent indica-dominant [[girl-scout-cookies]] (GSC) with Chemdawg. Bred by Mamiko Seeds and popularized by Divine Genetics, it has become one of the most sought-after strains of the 2020s for its exceptionally high THC content, unique savory pungent aroma, and deeply relaxing body effects. The "GMO" name stands for "Garlic, Mushroom, Onion" — a reference to its complex umami-forward [[cannabis-glandular-trichome-types-resin-production-clarke]]; indica body effects |
+GMO, also known as "Garlic Cookies" or "[[gmo-cookies]]," is a highly potent indica-dominant [[girl-scout-cookies]] (GSC) with Chemdawg. Bred by Mamiko Seeds and popularized by Divine Genetics, it has become one of the most sought-after strains of the 2020s for its exceptionally high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]], unique savory pungent aroma, and deeply relaxing body effects. The "GMO" name stands for "Garlic, Mushroom, Onion" — a reference to its complex umami-forward [[cannabis-glandular-trichome-types-resin-production-clarke]]; indica body effects |
 | **Chemdawg** | Balanced hybrid (Nigerian × Thai landrace × Chemdog lineage) | Diesel, chemical pungency; potency; complex terpene depth |
 
 - **Genetic ratio:** Approximately 90% indica / 10% sativa
 - **Breeder:** Mamiko Seeds (original); Divine Genetics (popularized clone-only cut)
-- **Notable descendants:** GMO x Purple Punch, GMO x Sherb BX, Jeez-O-GMO
+- **Notable descendants:** GMO x [[purple-punch]], GMO x Sherb BX, Jeez-O-GMO
 
 ## Appearance
 
-- **Bud structure:** Dense, chunky, and tightly packed indica-typical nugs
-- **Color:** Dark forest green to olive, with occasional deep purple hues, especially in cooler growing conditions
+- **[[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]:** Dense, chunky, and tightly packed indica-typical nugs
+- **Color:** Dark [[trichoderma-forest-green-mold-guide]] to olive, with occasional deep purple hues, especially in cooler growing conditions
 - **Trichome coverage:** Exceptionally heavy; thick, frosty layer of milky-white trichomes
 - **Pistils:** Abundant orange to amber pistils woven throughout the dense calyxes
 - **Visual impression:** Strikingly resinous and potent-looking; often described as "sticky" or "wet" in appearance

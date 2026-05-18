@@ -110,4 +110,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ketamine-dissociative-pharmacology]]
 - [[ketamine]]
 - [[ketamine-ultimate-psychedelic-journey]]
-- [[turner-ketamine]]
+- [[turner-ketamine-realms-dissociative-consciousness]]

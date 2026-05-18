@@ -80,3 +80,16 @@ gastric cancers are underway in the US and Japan.
 G. frondosa demonstrates multiple [[dom]]
 - [[grifolan]]
 - [[grifola-frondosa]]
+## Substrate Preferences
+
+Different fungal species show distinct substrate affinities based
+on their enzymatic capabilities. Lignicolous species degrade wood,
+while coprophilous species specialize in dung. Soil-dwelling
+species form complex relationships with plant root systems.
+
+## Temperature Sensitivity
+
+Growth rates respond predictably to temperature gradients within
+species-specific ranges. Most cultivated species grow optimally
+between 20-28°C. Fruit body formation often requires a distinct
+temperature shift from vegetative growth conditions.

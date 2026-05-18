@@ -1,7 +1,7 @@
 ---
 title: "LSD, Hofmann, and the Opening of Pandora's Box"
 source: mckenna_t-food_of_the_gods.md
-topic: "The invention of LSD by Albert Hofmann and its escape into culture"
+topic: "The [[mckenna-invention-of-lsd-and-psychedelic-sixties]] by [[albert-hofmann]] and its escape into culture"
 type: concept
 tags:
   - lsd
@@ -44,7 +44,7 @@ asked his laboratory assistant to escort him home by bicycle. The
 ride became a hallucinatory ordeal: the landscape distorted, his
 neighborhood appeared threatening and alien, he feared he was dying
 or losing his mind. This date — April 19 — has since been celebrated
-as **"Bicycle Day"** by psychedelic enthusiasts worldwide.
+as **"[[bicycle-day-april-1943]]"** by psychedelic enthusiasts worldwide.
 
 ## Delysid and the Research Era
 
@@ -54,7 +54,7 @@ remarkable potency and interest. Marketed under the trade name
 to psychiatric researchers. Effective doses measured in micrograms,
 making LSD the most potent psychoactive substance known. Throughout
 the 1950s, LSD was investigated as a treatment for alcoholism, anxiety,
-depression, and as an adjunct to psychotherapy. Humphry Osmond coined
+depression, and as an adjunct to psychotherapy. [[humphry-osmond]] coined
 the term **"psychedelic"** ("mind-manifesting") in 1957. The
 scientific establishment regarded LSD as a powerful tool for
 understanding the mind.

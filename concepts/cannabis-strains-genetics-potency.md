@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strains — Genetics, Types, and Potency
+title: [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] — Genetics, Types, and Potency
 source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
@@ -15,7 +15,7 @@ There are many strains (varieties) of Cannabis alive today, most resulting from 
 The cannabis plant can be divided into six main sections:
 
 1. **Bud** — The flower, the most potent part of the plant.
-2. **Stem** — Structural support; low potency.
+2. **Stem** — [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]; low potency.
 3. **Branches** — Support the buds; moderate potency in sugar leaves.
 4. **Nodes** — Junction points where branches meet the stem.
 5. **Leaves** — Photosynthesis; lower potency than buds.
@@ -26,7 +26,7 @@ The cannabis plant can be divided into six main sections:
 ### Breeding Goals
 
 Breeders select for:
-- **Taste and aroma** (terpene profiles).
+- **Taste and aroma** ([[cannabis-terpene-profiles]]).
 - **Potency** (THC, CBD, and other cannabinoid levels).
 - **Growth characteristics** (height, yield, flowering time, resistance to pests/diseases).
 - **Effect type** (indica body high, sativa cerebral high, hybrid balance).
@@ -53,7 +53,7 @@ Breeders select for:
 | 2 | Two | Moderate quality |
 | 3 | Three | Lower quality |
 
-"Zero Zero" is the highest grade, requiring both high THC levels in the source plant and excellent extraction technique. Note that good technique with low-THC plant material may still produce only grade 2 or 3.
+"Zero Zero" is the highest grade, requiring both high THC levels in the source plant and excellent [[psilocybin-methyl-alcohol-extraction-technique]]. Note that good technique with low-THC plant material may still produce only grade 2 or 3.
 
 ### Factors Affecting Potency
 
@@ -71,7 +71,7 @@ Breeders select for:
 
 ## Security Fundamentals
 
-The single most important security principle for cannabis cultivation:
+The single most important security principle for [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]:
 
 > **NEVER TELL ANYONE THAT YOU ARE GROWING CANNABIS.**
 
@@ -83,5 +83,5 @@ The single most important security principle for cannabis cultivation:
 
 ## See Also
 
-- [[cannabis-indoor-growing-environmental-control]] — Environmental parameters
+- [[cannabis-indoor-growing-environmental-control]] — [[maitake-environmental-parameters]]
 - [[photoreception-plants-what-a-plant-sees]] — Plant [[photoperiodism]] (12/12 flowering)

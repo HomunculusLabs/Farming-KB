@@ -20,7 +20,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Strain Database. "MAC ([[miracle-alien-cookies]])." https://www.leafly.com/strains/mac
+  - Leafly Strain Database. "MAC (miracle-alien-cookies)." https://www.leafly.com/strains/mac
   - AllBud. "MAC 1 Strain Information." https://www.allbud.com/mac-1
   - Wikileaf. "MAC 1 blesching-cannabis-strain-selection-receptor-targeting." https://www.wikileaf.com/strain/mac-1
   - Capulator breeder profile. "MAC (Miracle Alien Cookies) line." https://www.instagram.com/capulator

@@ -1,5 +1,5 @@
 ---
-title: St Johns Wort Cultivation And Medicinal Uses
+title: [[comparison-arnica-vs-st-johns-wort]] [[calendula-cultivation-and-medicinal-uses]] Uses
 tags:
   - st-johns-wort
   - hypericum-perforatum
@@ -37,7 +37,7 @@ modern medicine recognizes as depression and anxiety.
 ## Phytochemistry and Active Compounds
 
 St. John's Wort contains a complex mixture of [[cannabis-topical-applications]] and antiviral
-research. Hypericin content varies significantly with harvest timing,
+research. Hypericin content varies significantly with [[cannabis-harvest-timing-visual-cues]],
 drying method, and genotype, ranging from 0.05% to 0.3% of dry weight.
 
 ### Hyperforin

@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Perlite Humidification Mushroom Cultivation
+title: Pf [[pf-tek-perlite-humidification-technique]] [[accessible-mushroom-cultivation-for-disabilities]]
 source: PF TEK - [[passive-humidity-fruit-chamber-polyethylene-sheeting]] management technique central to
 the [[dual-chambered-terrarium]].
 
@@ -23,7 +23,7 @@ Perlite is inexpensive, widely available at [[mushroom-crop-management-flush-har
 ## The "Less is More" Approach
 
 Perlite humidification exemplifies the PF TEK philosophy of minimal
-intervention. Psilocybe Fanaticus advocated for simpler solutions over complex
+intervention. [[pf-tek-psilocybe-fanaticus]] advocated for simpler solutions over complex
 technical systems:
 
 - Use passive systems instead of active equipment
@@ -89,7 +89,7 @@ suggests multiple pathways for further exploration and refinement.
 ## Integration and Implementation
 
 Successful implementation of pf tek perlite humidification mushroom cultivation requires attention to site-specific
-conditions and adaptive management strategies. Integration with complementary
+conditions and adaptive [[forest-management-strategies]]. Integration with complementary
 practices often enhances overall outcomes. Practitioners recommend starting with
 small-scale trials before scaling up, documenting results systematically to
 inform future decisions and share knowledge with the broader community.

@@ -1,5 +1,5 @@
 ---
-title: "Holzer Reading Nature Philosophy"
+title: "Holzer Reading [[fukuoka-return-to-nature-philosophy]]"
 created: 2026-04-26
 tags: permaculture, nature-observation, philosophy, holistic-thinking, holzer]
 date: 2026-04-25

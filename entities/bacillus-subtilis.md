@@ -25,7 +25,7 @@ sources: []
 
 *Bacillus subtilis* is a Gram-positive, rod-shaped bacterium and one of the
 most extensively studied microorganisms in biology. Known commonly as the hay
-bacillus or grass bacillus, it serves as the premier model organism for
+bacillus or grass bacillus, it serves as the premier [[canary-grass-phototropism-model-organism]] for
 Gram-positive bacteria and for research on sporulation, competence, biofilm
 formation, and cell differentiation. Its ubiquity in soil, combined with its
 GRAS (Generally Recognized As Safe) status, has made it a cornerstone of
@@ -44,7 +44,7 @@ reclassified from Firmicutes to Bacillota in 2021.
 ## Morphology and Cell Structure
 
 *B. subtilis* is a Gram-positive rod, 2–6 μm long and 0.7–0.8 μm in
-diameter, forming chains during active growth. The cell wall contains thick
+diameter, forming chains during active growth. The [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]] contains thick
 peptidoglycan with teichoic acids. Motile via peritrichous flagella. Under
 nutrient deprivation, it undergoes sporulation forming a highly resistant
 endospore containing dipicolinic acid (~10% dry weight), surrounded by

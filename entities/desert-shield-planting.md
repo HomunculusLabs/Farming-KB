@@ -18,7 +18,7 @@ in plant survival using shields versus unprotected plantings.
 ## Classification
 
 - **Category**: Plant establishment technique
-- **Domain**: Desert agriculture, arid-land reforestation, windbreak establishment
+- **Domain**: [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]], arid-land reforestation, [[windbreak-establishment-and-benefits]]
 - **Technology level**: Low-tech
 - **Materials**: Plastic bags, stakes, loose weeds/mulch
 
@@ -47,7 +47,7 @@ runs down to plant roots. Creates a self-watering micro-environment.
 
 ### Mulch Retention
 Loose weeds placed inside the shield remain in place rather than being blown
-away, providing ongoing soil cover and organic matter.
+away, providing ongoing soil cover [[hamilton-composting-and-organic-matter-management]].
 
 ### Animal Exclusion
 The physical barrier protects young plants from small browsing animals.
@@ -59,7 +59,7 @@ bag tubes around small trees compared to unshielded controls.
 ## Performance Data
 
 - 80-90% improvement in survival rate versus unprotected plants
-- Growth rate may double in tall clear plastic tube shields
+- [[soil-temperature-plant-growth-rate-doubling-rule]] may double in tall clear plastic tube shields
 - Effective across multiple arid and semi-arid environments
 - Low material cost — plastic bags and simple stakes
 
@@ -74,8 +74,8 @@ bag tubes around small trees compared to unshielded controls.
 
 ## Relevance to Cultivation
 
-Critical technique for establishing the windbreaks, food trees, and fuel forests
-that make desert settlement possible. Extremely low cost and high effectiveness
+Critical technique for establishing the windbreaks, food trees, [[dryland-settlement-vegetation-and-fuel-forests]]
+that make [[arid-landscape-scarp-wadi-desert-settlement]] possible. Extremely low cost and high effectiveness
 make it accessible to the poorest communities facing [[permaculture]] principle of using biological and simple physical solutions to
 create favorable microclimates for plant growth.
 

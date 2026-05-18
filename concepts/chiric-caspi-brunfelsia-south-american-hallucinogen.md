@@ -1,5 +1,5 @@
 ---
-title: Chiric Caspi Brunfelsia South American Hallucinogen
+title: Chiric Caspi Brunfelsia [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] Hallucinogen
 created: 2026-04-28
 tags: [ethnobotany, solanaceae, colombia, ecuador, peru, brazil,
   hallucinogenic-plants, schultes, jivaro, kofan]
@@ -38,7 +38,7 @@ their intensely bitter flavor, including ayahuasca, which is described as
 
 ## Medicinal Uses
 
-All species of Brunfelsia enter into folk medicine, being used especially
+All species of Brunfelsia enter into [[magical-illness-peruvian-amazon-folk-medicine]], being used especially
 to reduce fevers and as antirheumatic agents. B. uniflora (sometimes
 classified as B. hopeana) has been included in the Brazilian pharmacopoeia,
 reflecting its recognized therapeutic value. The antipyretic (fever-reducing)
@@ -53,7 +53,7 @@ compounds responsible for its psychoactive effects, or they may involve
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -64,15 +64,15 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
 
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
+these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 

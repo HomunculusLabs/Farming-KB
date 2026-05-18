@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizal Root Exudates and Pathogen Interactions"
+title: "Mycorrhizal [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]] [[mycorrhizae-plant-pathogen-interactions]]"
 created: 2026-04-28
 tags:
   - root-exudates
@@ -20,18 +20,18 @@ type: concept
 
 [[growing-gourmet-spore-germination-strain-isolation]], and
 hyphal growth. Research using in vitro bi-compartmental systems and
-PCR-DGGE [[singh-mycorrhizal-exudates-root-exudate-interactions]], pathogen dynamics, and rhizosphere microbial
+PCR-DGGE [[singh-mycorrhizal-exudates-root-exudate-interactions]], pathogen dynamics, and [[cannabis-rhizosphere-microbial-communities]]
 communities that do not always translate directly from simplified
 laboratory assays to more complex soil environments.
 
 ## Changes in Exudate Composition
 
 Quantitative and qualitative changes in root exudation after
-mycorrhizal colonization have been documented across multiple studies.
+[[arbuscular-mycorrhizal-colonization-patterns]] have been documented across multiple studies.
 Among 27 sugars, amino acids, and organic acids quantified within root
 exudates of mycorrhizal and nonmycorrhizal tomato plants, only proline
 and isocitric acid concentrations differed significantly. Proline
-concentration in exudates from mature mycorrhizal roots was higher than
+concentration in exudates from mature [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]] was higher than
 from nonmycorrhizal roots and from younger roots. Proline is involved
 in plant protection against water and salt stresses and accumulates
 following pathogen infection, suggesting it may play a role in the
@@ -69,7 +69,7 @@ Mycorrhizal root exudates have shown diverse effects on pathogen spore
 germination depending on the pathogen and AMF species combination.
 Exudates from strawberry roots colonized by G. etunicatum or G.
 monosporum inhibited sporangia production of Phytophthora fragariae.
-Microconidia germination of Fusarium oxysporum f. sp. lycopersici was
+Microconidia germination of [[fusarium-oxysporum]] f. sp. lycopersici was
 more than doubled in the presence of root exudates from tomatoes
 colonized with G. mosseae. Interestingly, root exudates from twelve
 nonhost plant species produced similar stimulatory effects, indicating

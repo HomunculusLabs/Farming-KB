@@ -23,15 +23,15 @@ sources:
 
 # Mochi (Cannabis Strain)
 
-**Mochi**, also known as **Mochi Gelato**, is an indica-dominant [[sunset-sherbet]]** and **Thin Mint [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] of the [[blesching-cannabis-deep-relaxation-healing]].
+**Mochi**, also known as **Mochi Gelato**, is an indica-dominant [[sunset-sherbet]]** and **[[thin-mint]] [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] of the [[blesching-cannabis-deep-relaxation-healing]].
 
 **Thin Mint GSC (♂)** — Original GSC phenotype (OG Kush × [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]].
 
 ### Lineage Tree
 ```
-OG Kush × Durban Poison
+OG Kush × [[durban-poison]]
          ↓
-   Girl Scout Cookies × Pink Panties
+   [[girl-scout-cookies]] × Pink Panties
          ↓               ↓
   Thin Mint GSC    Sunset Sherbet
          ↓               ↓

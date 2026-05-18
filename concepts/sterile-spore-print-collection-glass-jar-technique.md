@@ -1,5 +1,5 @@
 ---
-title: Sterile Spore Print Collection Glass Jar Technique
+title: Sterile [[comparison-spore-print-collection-vs-spore-syringe-production]] Glass [[cannabis-curing-jar-technique]]
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, spore-print, sterile-technique, jarrold, spore-collection, genetics]
 created: 2026-05-09
@@ -8,11 +8,11 @@ created: 2026-05-09
 # Sterile Spore Print Collection Using Glass Jar Technique
 
 Collecting [[spore-syringe-preparation-jarrold-method]] uses a sterile glass jar technique that
-produces clean, contaminant-free spore deposits.
+produces clean, contaminant-free [[macrofungal-documentation-spore-deposits-taxonomic-resources]].
 
 These prints can be stored for months and used to create
 [[mushroom-spore-printing-and-storage]] on paper or foil exposes spores
-to open air and contamination.
+to [[open-air-mushroom-culture]] and contamination.
 
 The glass [[fungicide-treated-seed-contamination-risk-mushroom-substrate]].
 
@@ -78,5 +78,5 @@ characteristics, then stored cool, dark, and dry.
 
 ## Integration with Syringe Preparation
 
-Jar-collected spore prints feed directly into the spore
+Jar-collected [[macrofungal-documentation-photography-spore-prints]] feed directly into the spore
 syringe preparation process.

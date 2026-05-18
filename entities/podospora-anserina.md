@@ -19,7 +19,7 @@ P. anserina belongs to the Sordariales within the Sordariomycetes.
 
 Key taxonomic details include:
 
-- **Phylum:** Ascomycota
+- **Phylum:** [[ascomycota]]
 - **Class:** Sordariomycetes
 - **Order:** Sordariales
 - **Family:** Lasiosphaeriaceae

@@ -28,7 +28,7 @@ validation" in structuring hallucinatory experiences.
 
 Siskind's research centered on the Sharanahua, closely related
 neighbors of the Cashinahua in eastern Peru. Her work addressed
-a specific theoretical question raised by Carlos Castaneda's
+a specific theoretical question raised by [[carlos-castaneda]]'s
 publications: the degree to which "consensual validation"
 operates in structuring the hallucinatory experience.
 
@@ -64,12 +64,12 @@ that visionary experiences are not purely idiosyncratic or
 pharmacologically determined. Instead, they are shaped by:
 - Cultural expectations and traditions
 - Verbal and non-verbal communication during the session
-- The shared social context of the healing event
+- The shared [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] of the healing event
 - Pre-existing frameworks (songs, myths, cosmology)
 
 This work directly engaged with and extended Castaneda's
 ideas about the relationship between cultural expectation
-and psychedelic experience.
+and [[leary-psychedelic-experience-bardo-mapping]].
 
 ## Relevance to Cultivation and Mycology
 
@@ -79,12 +79,12 @@ documentation of shaman-patient communication during shared
 ayahuasca trances demonstrates that indigenous peoples
 understood and exploited the suggestibility of the
 hallucinogenic state for therapeutic purposes centuries
-before Western psychology described the same principles.
+before [[metzner-western-psychology-freud-jung-reich-entheogenic-integration]] described the same principles.
 Her social reintegration model bridges anthropological and
-psychological approaches to understanding psychedelic healing.
+psychological approaches to understanding [[metzner-four-paradigms-psychedelic-healing]].
 
 ## Sources
 
-- Siskind, Janet. "Visions and Cures Among the Sharanahua" in
+- Siskind, Janet. "[[harner-sharanahua-visions-and-cures]] Among the Sharanahua" in
   Harner, M.J. (ed.) *Hallucinogens and [[shamanism]]* (Oxford
   University Press, 1973)

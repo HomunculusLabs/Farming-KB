@@ -1,5 +1,5 @@
 ---
-title: Mckenna Brothers La Chorrera Experiment 1971
+title: Mckenna Brothers [[la-chorrera-experiment-mckenna]] 1971
 created: 2026-04-26
 tags:
   - history

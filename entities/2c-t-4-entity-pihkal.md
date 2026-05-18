@@ -1,5 +1,5 @@
 ---
-title: "2C-T-4 -- 2,5-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE -- PIHKAL Entry #41"
+title: "2C-T-4 -- 2,5-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE -- [[2c-b-pihkal-entry-20]] #41"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity

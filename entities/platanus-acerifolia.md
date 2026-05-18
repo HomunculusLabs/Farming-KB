@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bean, W.J. (1980). "nitrogen-fixing-trees-and-shrubs Hardy in the British Isles." 8th ed. John Murray.
+  - Bean, W.J. (1980). "[[nitrogen-fixing-trees-and-shrubs]] Hardy in the British Isles." 8th ed. John Murray.
   - Tormo, J. et al. (1996). "Platanus pollen allergens." Journal of Allergy and Clinical Immunology, 98(5), 977–987.
   - Pezeshki, S.R. & Chambers, J.L. (1986). "Variation in flood tolerance of green ash, sycamore, and sweetgum." Forest Science, 32(3), 616–622.
   - Santamour, F.S. (1972). "Interspecific hybridization in Platanus." Forest Science, 18(3), 236–239.
@@ -78,8 +78,8 @@ The hybrid is hardy to USDA Zone 5 (−23 °C / −10 °F) and performs well in 
 
 London planetree is the preeminent street tree in cities such as London, Paris, New York, and Melbourne.
 
-Its tolerance of atmospheric pollution, road salt, compacted soils, and repeated [[cervantes-root-pruning-rootbound-management]] makes it unmatched for harsh urban conditions.
+Its tolerance of [[lichen-bioindicators-atmospheric-pollution]], road salt, compacted soils, and repeated [[cervantes-root-pruning-rootbound-management]] makes it unmatched for harsh urban conditions.
 
 The tree casts dense shade, reducing urban heat island effects and lowering building cooling costs.
 
-Large mature specimens are significant landscape features, with spreading crowns spanning 15–20 m (50–65 ft).
+Large mature specimens are significant [[desert-landscape-features-and-erosion-landforms]], with spreading crowns spanning 15–20 m (50–65 ft).

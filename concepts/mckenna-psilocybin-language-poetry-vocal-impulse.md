@@ -5,7 +5,7 @@ tags: [mckenna, psilocybin, language, poetry, glossolalia, vocalization, [[shama
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - terence-mckenna (1992), "Food of the Gods: The Search for the Original [[stropharia-cubensis-tree-of-knowledge]]," Bantam Books, Chapters 3-4
+  - terence-mckenna (1992), "Food of the Gods: The Search for the Original stropharia-cubensis-tree-of-knowledge," Bantam Books, Chapters 3-4
 type: concept
 ---
 

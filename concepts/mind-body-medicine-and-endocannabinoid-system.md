@@ -1,5 +1,5 @@
 ---
-title: Mind Body Medicine And Endocannabinoid System
+title: [[blesching-cannabis-mind-body-medicine]] And Endocannabinoid System
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -21,7 +21,7 @@ with cannabinoid therapeutics.
 
 ## The Mind-Body Bridge
 
-Blesching's personal experience as a paramedic catalyzed his
+Blesching's [[palmer-mushroom-cooking-and-personal-experience]] as a paramedic catalyzed his
 exploration of mind-body medicine. During a resuscitation attempt on
 a GHB-overdose patient, he witnessed his partner's fatigue-induced
 negative statement ("Just die") correlate instantaneously with the

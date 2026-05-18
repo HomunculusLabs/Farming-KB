@@ -8,7 +8,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." Allium Crop Science.
+  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." Allium [[brassinosteroid-anti-stress-effects-crop-science]].
   - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
   - Kamenetsky, R. (2007). "Allium." Handbook of Plant Breeding, Springer.
   - McCollum, G.D. (1976). "Onions and allies." Horticulture 283, USDA.
@@ -60,7 +60,7 @@ Wild populations occur in rocky coastal habitats, dry hillsides, and
 disturbed ground at elevations up to 1,500 m. The species tolerates poor,
 sandy soils and moderate drought.
 
-Cultivated leeks are grown worldwide in temperate regions. Major producers
+Cultivated leeks are grown worldwide in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Major producers
 include France, Belgium, the United Kingdom, the Netherlands, and Turkey.
 
 Leeks prefer cool, moist conditions at 15–20°C. They are frost-tolerant and
@@ -79,4 +79,4 @@ rows 30–45 cm apart.
 Mounding soil around the developing pseudostem is essential for producing
 long, well-blanched white shafts. This is repeated 2–3 times during the
 [[comparison-brown-rot-vs-white-rot-bioremediation]] (*Sclerotium
-cepivorum*), and [[cervantes-downy-mildew-fungal-blight]] (*Peronospora destructor*).
+cepivorum*), and [[cervantes-downy-mildew-fungal-blight]] (*[[peronospora]] destructor*).

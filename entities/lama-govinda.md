@@ -10,9 +10,9 @@ type: entity
 
 [[lama-anagarika-govinda]] (1898–1985) was a German-born Buddhist scholar and practitioner.
 
-He was one of the foremost Western interpreters of Tibetan Buddhist philosophy and practice.
+He was one of the foremost Western interpreters of Tibetan Buddhist [[fukuoka-do-nothing-farming-philosophy-and-practice]].
 
-His work *Foundations of Tibetan Mysticism* is cited extensively in *The Psychedelic Experience*.
+His work *Foundations of Tibetan Mysticism* is cited extensively in *The [[leary-psychedelic-experience-bardo-mapping]]*.
 
 Govinda provided key insights on the nature of Herukas, deity visualizations, and the [[tri-kaya]] doctrine.
 
@@ -36,7 +36,7 @@ Govinda provided key insights on the nature of Herukas, deity visualizations, an
 
 5. Govinda wrote that Herukas are "merely the dynamic aspect of enlightenment" — not malevolent beings.
 
-6. He explained the distinction between peaceful and wrathful deity forms as different expressions of the same awakened wisdom.
+6. He explained the distinction between [[leary-peaceful-and-wrathful-visions]] deity forms as different expressions of the same awakened wisdom.
 
 7. His interpretation of the [[bardo-thodol]] informed Leary's psychological model of the psychedelic experience.
 
@@ -64,7 +64,7 @@ His understanding of wrathful deities as enlightened energies helped Leary refra
 
 The concept that terrifying visions are "merely the dynamic aspect of enlightenment" is central to the manual's approach.
 
-Govinda's scholarship provided the intellectual foundation for mapping Bardo states onto psychedelic experiences.
+Govinda's scholarship provided the intellectual foundation for mapping [[bardo-states]] onto psychedelic experiences.
 
 His work demonstrates that the psychedelic model was grounded in serious engagement with Tibetan Buddhist philosophy.
 
@@ -74,10 +74,10 @@ His work demonstrates that the psychedelic model was grounded in serious engagem
 - **Tri-Kaya**: Govinda provided extensive commentary on this doctrine.
 - **Lama Kazi Dawa-Samdup**: Fellow translator and scholar of Tibetan Buddhist texts.
 - **Carl Jung**: Fellow Western interpreter of Eastern psychological frameworks.
-- **Timothy Leary**: Used Govinda's work as a primary source for *The Psychedelic Experience*.
+- **[[timothy-leary]]**: Used Govinda's work as a primary source for *The Psychedelic Experience*.
 
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
 - Govinda, Lama Anagarika. (1960). *Foundations of Tibetan Mysticism*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.

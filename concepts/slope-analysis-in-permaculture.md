@@ -86,6 +86,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+## Seasonal Considerations
+
+Timing of planting, maintenance, and harvest varies by climate
+zone. Spring preparation, summer maintenance, and fall harvest
+form the basic annual cycle. Understanding local frost dates
+and growing season length is essential for planning.
+
 ## See Also
 
 - [[chemical-analysis-psilocybin-mushrooms]]

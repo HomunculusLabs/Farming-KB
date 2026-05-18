@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 Lycoperdon giganteum, commonly known as the giant puffball (now classified as [[calvatia-gigantea]]),
-is one of the largest fungi in the world, producing fruiting bodies that can reach up to 70 cm
+is one of the largest fungi in the world, producing [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that can reach up to 70 cm
 (28 inches) in diameter and weigh over 20 kg (44 lbs). When young and edible, the interior is
 pure white and firm, resembling a dense marshmallow. The skin color varies from pure white to
 almost black. As it matures, the interior turns yellow and eventually brown, becoming a mass of
@@ -53,9 +53,9 @@ are cooked at once.
 - The simple "white inside = safe" test exemplifies the clearest edibility rule in [[mycology]].
 - The rapid post-harvest deterioration illustrates the importance of freshness in fungal food
   safety — a theme Palmer emphasized throughout his work.
-- Giant puffballs can produce trillions of spores from a single fruiting body, making them
-  subjects of reproductive biology studies.
-- The species has been investigated for medicinal compounds including calvacin, which showed
+- Giant puffballs can produce trillions of spores from a single [[bloomfield-fungal-fruiting-body-morphology-ecological-function]], making them
+  subjects of [[clarke-marijuana-botany-sex-determination-reproductive-biology]] studies.
+- The species has been investigated for [[cotter-mushroom-nutrition-medicinal-compounds]] including calvacin, which showed
   antitumor activity in early research.
 - Cultivation has been attempted but is challenging; most specimens are wild-foraged.
 
@@ -73,7 +73,7 @@ are cooked at once.
 
 - Earthballs (Scleroderma spp.) have a dark, marbled interior even when young — not pure white.
 - [[amanita]] "eggs" (unexpanded Amanita fruiting bodies) are differentiated by cutting vertically
-  to reveal the developing mushroom structure inside (gill outlines, stem).
+  to reveal the developing [[biology-of-fungi-and-mushroom-structure]] inside (gill outlines, stem).
 - Palmer noted that no poisonous fungus resembles puffballs, making them uniquely safe.
 
 ## Historical Notes
@@ -85,4 +85,4 @@ guides.
 
 ## References
 
-- Palmer, J.A. Jr. (1894). *About Mushrooms — Edible and Poisonous*. Boston: Little, Brown & Co.
+- Palmer, J.A. Jr. (1894). *About Mushrooms — [[classification-of-edible-and-poisonous-mushroom-families]]*. Boston: Little, Brown & Co.

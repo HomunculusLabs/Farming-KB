@@ -29,7 +29,7 @@ This butyl compound provoked no interest, and although longer chain counterparts
 
 All mouse assays that compared this homologous series showed a consistent decrease in action (anesthetic potency and motor activity) as the alkyl chain on the nitrogen atoms was lengthened.
 
-The pattern suggests that the N-hydrogen (as in MDA) or short N-alkyl chains (as in MDMA with N-methyl, or MDE with N-ethyl) are optimal for psychoactivity.
+The pattern suggests that the N-hydrogen (as in MDA) or short N-alkyl chains (as in [[mdma]] with N-methyl, or MDE with N-ethyl) are optimal for psychoactivity.
 
 Chain extension beyond two carbons on the nitrogen progressively reduces central activity.
 
@@ -39,7 +39,7 @@ MDBU is synthesized by the reductive amination of 3,4-methylenedioxyphenylaceton
 
 Butylamine hydrochloride is prepared by introducing butylamine into concentrated HCl and removing volatiles.
 
-The reductive amination uses sodium cyanoborohydride in methanol at pH 6, maintained by the addition of HCl as needed.
+The reductive amination uses sodium cyanoborohydride in [[methanol]] at pH 6, maintained by the addition of HCl as needed.
 
 The reaction proceeds over about two days.
 

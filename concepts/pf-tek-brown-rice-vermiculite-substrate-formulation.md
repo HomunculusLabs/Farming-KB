@@ -2,8 +2,8 @@
 
 ## Overview
 
-The [[pf-tek]] substrate is a simple, effective growing medium developed by Psilocybe
-Fanaticus. It uses brown rice powder combined with vermiculite to create an airy,
+The [[pf-tek]] substrate is a simple, effective [[cervantes-green-algae-growing-medium]] developed by Psilocybe
+Fanaticus. It uses [[brown-rice-powder]] combined with vermiculite to create an airy,
 nutrient-rich environment ideal for fungal colonization. This formulation eliminates
 the need for grain-based substrates and their associated contamination risks.
 
@@ -53,7 +53,7 @@ rapid and complete colonization.
 
 ## The Secret of Vermiculite: Mycelial Growth Pattern
 
-The key innovation of the PF TEK substrate lies in how mycelium colonizes
+The key innovation of the [[pf-tek-substrate-formula]] lies in how mycelium colonizes
 vermiculite compared to grain-based substrates:
 
 - **Grain substrates**: Mycelium forms a dense, solid mass around each grain
@@ -63,14 +63,14 @@ vermiculite compared to grain-based substrates:
 
 This growth pattern mimics how fungi colonize natural substrates in the wild.
 The airy structure allows for superior gas exchange during colonization, easier
-moisture management throughout the grow cycle, reduced risk of anaerobic pockets,
+[[mushroom-bed-moisture-management]] throughout the grow cycle, reduced risk of anaerobic pockets,
 and simpler cake handling during fruiting.
 
 ---
 
 ## Spore Inoculation and Genotype Preservation
 
-The PF TEK employs **mass spore inoculation senescence avoidance pf tek** rather than tissue culture or
+The PF TEK employs **[[mass-spore-inoculation-senescence-avoidance-pf-tek]] senescence avoidance pf tek** rather than tissue culture or
 liquid culture expansion. This approach preserves the **complete genotype** of
 the original specimen and avoids **senescence** (genetic degradation through
 repeated cloning). Each jar is inoculated directly from a spore syringe,
@@ -96,7 +96,7 @@ This barrier allows PF TEK growers to work without a [[cannabis-growing-environm
 
 ## Source Attribution
 
-This concept page is derived from **Source 3: PF TEK by Psilocybe Fanaticus**.
+This concept page is derived from **Source 3: PF TEK by [[pf-tek-psilocybe-fanaticus]]**.
 The PF TEK is a foundational [[bigwood-beug-cultivation-methodology]] originally published by
 Robert "Psilocybe Fanaticus" McPherson. All technical specifications, formulas,
 and techniques described above are based on the original PF TEK documentation.

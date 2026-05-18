@@ -1,5 +1,5 @@
 ---
-title: "entheogen-tetrapteris-methystica-alternative-caapi"
+title: "[[entheogen-tetrapteris-methystica-alternative-caapi]]"
 created: 2026-04-28
 type: species
 tags: [species, plant, ethnobotanical, malpighiaceae, psychoactive, amazonian]
@@ -13,7 +13,7 @@ sources:
 
 Tetrapteris methystica is a woody vine in the family
 Malpighiaceae native to the Amazon basin, noted for its
-traditional use as a psychoactive additive in ayahuasca
+traditional use as a psychoactive additive in [[ayahuasca]]
 preparations. The plant has been documented among indigenous
 groups in western Amazonia, particularly in Peru and Brazil,
 where it is valued for the hallucinogenic properties of its
@@ -55,7 +55,7 @@ The epithet 'methystica' derives from Greek 'methystikos'
 
 | Species | Growth form | DMT source | Key use |
 |---------|------------|------------|---------|
-| Tetrapteris methystica | Woody vine | Leaves, bark | Ayahuasca admixture |
+| Tetrapteris methystica | Woody vine | Leaves, bark | [[entheogen-ayahuasca-admixture-plants]] |
 | [[ayahuasca-and-banisteriopsis-caapi]] | Woody vine | Bark | Ayahuasca base (MAOI) |
 | Banisteriopsis rubra | Woody vine | Bark | Ayahuasca variant |
 
@@ -64,7 +64,7 @@ The epithet 'methystica' derives from Greek 'methystikos'
 - **Native range:** Western Amazon basin — Peru, western Brazil, possibly Ecuador and Colombia
 - **Habitat:** Lowland tropical moist forest, primary and secondary growth
 - **Elevation:** 100-500 m
-- **Climate:** Warm humid tropical; 25-27°C; rainfall 2000-3500 mm
+- **Climate:** [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]] tropical; 25-27°C; rainfall 2000-3500 mm
 - **Associated species:** Often found alongside [[banisteriopsis-caapi]]
 
 T. methystica is forest-dependent, requiring large trees for

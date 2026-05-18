@@ -36,7 +36,7 @@ insects at or below the soil surface.
 
 With approximately 290,000 described species, beetles are the most
 species-rich order of insects. Many beetle species are important soil
-predators. Ground beetles, rove beetles, and their larvae consume
+predators. [[ground-beetles-carabidae-and-biological-pest-control]], [[rove-beetles-compost]], and their larvae consume
 springtails, mites, nematodes, and other soil organisms. Some beetles,
 like the predatory Thanasimus formicarius, specialize in controlling
 pest species.
@@ -46,14 +46,14 @@ pest species.
 Predatory arthropods serve several critical functions in the soil food
 web:
 
-1. **Population regulation**: Predators prevent any single prey species
+1. **[[fungal-pathogens-animal-population-regulation]]**: Predators prevent any single prey species
    from dominating, maintaining biodiversity
 2. **Nutrient redistribution**: By consuming prey at one location and
    excreting waste at another, predators move nutrients through soil
 3. **Microbial transport**: Predators carry microorganisms on their
-   bodies and in their gut, dispersing beneficial bacteria and fungi
+   bodies and in their gut, dispersing [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] and fungi
 4. **Indirect decomposition**: By consuming herbivorous arthropods,
-   predators reduce grazing pressure on decomposer organisms
+   predators reduce [[gadd-mycelial-network-resilience-grazing-pressure]] on decomposer organisms
 
 The ratio of predators to prey organisms is a key indicator of soil
 food web health. In disturbed or chemically treated soils, predator

@@ -1,5 +1,5 @@
 ---
-title: "Ice ice cream bean entity"
+title: "Ice [[ice-cream-bean-inga-species]] entity"
 created: 2026-04-28
 tags: [species, plant, nitrogen-fixer, tropical-tree, edible-fruit]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: entity
 # Ice Cream Bean
 
 **Type:** Species (Plant)
-**Category:** Nitrogen-fixing [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] with edible fruit production. This
+**Category:** Nitrogen-fixing [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] with edible [[berry-fruit-production-cool-humid-climates]]. This
 dual function makes it exceptionally valuable in tropical [[mollison-designers-legume-shade-tree-pasture-systems]] demonstrates excellent multi-strata
   integration potential. Inga alley farming systems in the Amazon basin
   have shown improved soil fertility and crop yields compared to
@@ -37,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

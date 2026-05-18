@@ -1,5 +1,5 @@
 ---
-title: fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature comparison-natural-farming-vs-permaculture
+title: fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature [[comparison-natural-farming-vs-permaculture]]
 created: 2026-05-06
 tags:
 type: concept

@@ -19,10 +19,10 @@ Hallucinogens group by chemical structure into three major categories:
 
 1. **Indolealkylamines (tryptamines)**: LSD, psilocin, psilocybin, DMT
 2. **Phenylethylamines**: mescaline
-3. **Cannabinoids**: THC and related compounds
+3. **Cannabinoids**: THC and [[lsd-structure-activity-relationships-related-compounds]]
 
 Psilocybin and psilocin belong to the tryptamine group, sharing the same
-broad chemical family as LSD. Their structural similarity to serotonin is
+broad chemical family as LSD. Their [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] to serotonin is
 central to their pharmacological mechanism.
 
 ## Molecular Structures
@@ -50,7 +50,7 @@ dephosphorylate it to psilocin, the active form. Psilocin acts as a
 - Visual and sensory distortions
 - Altered perception of time and space
 - Changes in mood and thought patterns
-- Ego dissolution at higher doses
+- [[default-mode-network-and-ego-dissolution]] at higher doses
 
 ## Biotransformation and Metabolism
 
@@ -76,11 +76,11 @@ potency compared to wild species like P. semilanceata and P. azurescens.
 
 The blue bruising that occurs when psilocybin-containing mushroom flesh
 is handled results from oxidation of psilocin and related phenolic
-compounds. While used as a field identification aid, blueing is not
+compounds. While used as a [[amanita-muscaria-physical-description-field-identification]] aid, blueing is not
 exclusive to psychoactive species and should not be the sole criterion.
 
 ## Stability and Storage
 
 - Psilocybin is stable when dried and stored cool, dark, and airtight
 - Fresh mushrooms degrade rapidly; drying is essential for preservation
-- Desiccant-based drying (silica gel) is effective for long-term storage
+- Desiccant-based drying ([[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]) is effective for long-term storage

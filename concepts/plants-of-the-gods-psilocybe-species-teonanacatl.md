@@ -18,7 +18,7 @@ type: concept
 
 ## Little Flowers of the Gods
 
-The sacred Mexican mushrooms have a long history closely linked
+The [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] mushrooms have a long history closely linked
 to shamanism and religion. The Aztecs called them Teonanacatl,
 meaning "divine flesh," and they were ceremonially ingested.
 Highland Maya cultures in Guatemala apparently had, more than
@@ -34,7 +34,7 @@ psychoactive species include:
 
 - [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] (Earle) Sing. (San Isidro) — nearly
   cosmopolitan in the tropics, known in Oaxaca as Hongo de
-  San Isidro or Di-shi-tjo-le-rra-ja ("divine mushroom of
+  San Isidro or Di-shi-tjo-le-rra-ja ("[[soma-controversy-fly-agaric-as-divine-mushroom]] of
   manure").
 - [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (Liberty Cap) — cosmopolitan
   except Mexico, the most common [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] — known only from the slopes of the
@@ -58,15 +58,15 @@ Psilocybe cyanescens is relatively easy to identify by its wavy
 brown cap 0.75 to 1.75 inches (2-4 cm) wide. It does not live
 on dung but on decaying plants, coniferous mulch, and humus-rich
 earth. A traditional or shamanic use has not yet been documented,
-but today it is used in Central Europe and North America in
+but today it is used in Central Europe and [[guzman-psilocybin-mushrooms-north-america]] in
 neo-pagan rituals. Visionary doses are 1 gram of the dried
 mushroom, which contains approximately 1% tryptamine
 (psilocybine, psilocine, and baeocystine).
 
 ## Psilocybe semilanceata: The Liberty Cap
 
-Psilocybe semilanceata is the most common psychoactive mushroom
-in the Psilocybe genus. It is possible that this fungus has been
+Psilocybe semilanceata is the most common [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]
+in the [[psilocybe-genus-biogeography-tropical-temperate]]. It is possible that this fungus has been
 used for psychoactive purposes in Central Europe for about 12,000
 years. Earlier, it was used as a hallucinogen by the Alpen nomads
 and has also been used in [[harner-european-witchcraft-hallucinogens]]. The species is
@@ -89,7 +89,7 @@ suggests multiple pathways for further exploration and refinement.
 ## Integration and Implementation
 
 Successful implementation of plants of the gods psilocybe species teonanacatl requires attention to site-specific
-conditions and adaptive management strategies. Integration with complementary
+conditions and adaptive [[forest-management-strategies]]. Integration with complementary
 practices often enhances overall outcomes. Practitioners recommend starting with
 small-scale trials before scaling up, documenting results systematically to
 inform future decisions and share knowledge with the broader community.

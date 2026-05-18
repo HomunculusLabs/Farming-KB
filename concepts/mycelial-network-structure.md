@@ -1,9 +1,9 @@
 ---
-title: gadd-mycelial-network-dynamics Structure
+title: [[gadd-mycelial-network-dynamics]] Structure
 created: 2026-04-28
 updated: 2026-05-09
 type: concept
-tags: [mycology, networks, biology, fungi]
+tags: [[mycology]], networks, biology, fungi]
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-mycelium-running.md]
 ---
 
@@ -21,7 +21,7 @@ the largest biological networks on Earth.
 Each hypha is a tubular cell enclosed by a rigid [[chitin-chitosan-fungal-cell-wall]]
 synthesis and membrane expansion.
 
-Behind the growing tip, mature regions contain nuclei, mitochondria,
+Behind the growing tip, mature regions contain nuclei, [[mitochondria]],
 vacuoles, and ribosomes.
 
 In most fungi, hyphae are septate; divided into discrete compartments
@@ -39,7 +39,7 @@ a continuous multinucleate mass.
 
 Key features include:
 
-- **Branching patterns** that follow Murray's law; daughter branches
+- **[[branching-patterns-and-fractal-geometry-in-nature]]** that follow Murray's law; daughter branches
   maintain optimal radii to minimise transport resistance
 - **Fusion points** where genetically compatible hyphae anastomose,
   creating a reticulate web with redundant pathways
@@ -72,7 +72,7 @@ demand.
 
 ## Adaptation and Plasticity
 
-Mycelial networks are highly plastic.
+[[ectomycorrhizal-nutrient-cycling-mycelial-networks]] are highly plastic.
 
 When a nutrient source is discovered, hyphal tips proliferate locally,
 increasing branching density.

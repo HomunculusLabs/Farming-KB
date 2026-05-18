@@ -1,5 +1,5 @@
 ---
-title: "turner dmt hyperspace and smoked tryptamines and Smoked Tryptamines"
+title: "turner [[dmt-hyperspace-entities]] and smoked tryptamines and Smoked Tryptamines"
 created: 2026-04-28
 tags: [DMT, tryptamine, hyperspace, 5meo-dmt, smoking]
 date: 2026-04-25
@@ -39,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -44,7 +44,7 @@ When a novice wishes to become a shaman:
 4. Some portion of spirit helpers are transferred to the
    apprentice
 
-This transfer mechanism means that shamanic power is literally
+This transfer mechanism means that [[icaros-shamanic-power-songs]] is literally
 tangible and transmissible within Jivaro cosmology.
 
 ### Offensive Use (Bewitching)
@@ -59,7 +59,7 @@ shaman who can perceive and extract the intrusive spirits.
 
 Tsentsak form protective shields around their shaman masters,
 deflecting or absorbing attacks from enemy shamans. This
-creates a spiritual arms race where shamans must maintain
+creates a spiritual [[bloomfield-plant-hypersensitive-response-rust-arms-race]] where shamans must maintain
 sufficient spirit helpers for both offense and defense.
 
 ### Diagnostic Use

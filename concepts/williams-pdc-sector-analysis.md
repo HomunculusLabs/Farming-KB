@@ -1,5 +1,5 @@
 ---
-title: "mollison-designers-sector-analysis-wind-sun-fire in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
+title: "[[mollison-designers-sector-analysis-wind-sun-fire]] in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]"
 created: 2026-04-28
 tags: [permaculture, sectors, site-analysis, design-method]
 date: 2026-04-25
@@ -26,7 +26,7 @@ directional forces that zones alone do not capture.
 
 Fire hazard is worth noting on every design, identifying which direction a
 wild or other fire would most likely come from. The fire sector combines
-topography analysis with prevailing wind patterns to determine the most
+topography analysis with prevailing [[wind-patterns-and-beaufort-scale]] to determine the most
 likely fire approach direction. Fire travels fastest uphill and with the
 wind, so the designer must analyze both slope and wind direction together to
 accurately map the fire sector.

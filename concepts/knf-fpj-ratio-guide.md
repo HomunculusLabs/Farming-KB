@@ -11,7 +11,7 @@ sources:
 
 # KNF FPJ Ratio Guide
 
-Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
+[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) both follow the same fundamental [[fungal-fruiting-body-mechanics-osmotic-pressure]] [[lemon-cannabis-alchemy-high-volume-extraction-method]]. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
 
 ## Base Ratio
 
@@ -29,7 +29,7 @@ Choose plant material that matches the growth stage of your target crop:
 | Target Stage | Use Material From | Examples |
 |-------------|-------------------|----------|
 | Early growth (spring) | Fast-growing spring plants | Mugwort, dropwort, bamboo shoot |
-| Vegetative growth | Summer-growing plants | Sweet potato tips, squash tips, tomato |
+| [[cannabis-vegetative-growth-stage]] | Summer-growing plants | Sweet potato tips, squash tips, tomato |
 | Flowering | Plants that flower in your season | Fruit blossoms, mugwort flowers |
 | Fruiting | Mature/fruiting plants | Banana peel, mango, papaya |
 
@@ -92,7 +92,7 @@ Choose plant material that matches the growth stage of your target crop:
 | Early growth boost | 1:500 |
 | Stress recovery | 1:500 |
 | Soil drench | 1:1,000 |
-| Seed treatment | 1:1,000 |
+| [[ingham-aact-seed-treatment-bare-root-transplant-inoculation]] | 1:1,000 |
 
 ## Temperature
 

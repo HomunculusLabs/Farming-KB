@@ -14,7 +14,7 @@ clergyman, widely regarded as one of the founding figures of modern
 
 [[mycology]]. He is cited by [[julius-auboineau-palmer]] as one of the few
 
-English authorities on the neglected science of fungi.
+English authorities on the [[neglected-science-of-mycology]] fungi.
 
 Berkeley's contributions to [[fungal-taxonomy]] and plant pathology were
 
@@ -22,7 +22,7 @@ enormous. He described thousands of fungal species from collections
 
 worldwide and was instrumental in establishing mycology as a serious
 
-scientific discipline during the 19th century.
+[[bloomfield-history-of-mycology-scientific-discipline]] during the 19th century.
 
 His work on the potato blight fungus in the 1840s was among the
 
@@ -36,7 +36,7 @@ demonstrating the practical importance of mycological knowledge.
 - **Born:** 1803
 - **Died:** 1889
 - **Field:** Mycology, botany, plant pathology
-- **Specialty:** Fungal taxonomy and species description
+- **Specialty:** [[fungal-taxonomy-and-classification]] species description
 - **Institution:** Royal Botanic Gardens, Kew (collections)
 
 ## Key Facts
@@ -71,9 +71,9 @@ Berkeley's work on fungal classification established many genus and
 
 species concepts still referenced in mycology today. His descriptions
 
-of species from global collections helped create a universal framework
+of species from global collections helped create a [[set-and-setting-universal-framework-altered-states]]
 
-for fungal identification that transcended national boundaries.
+for [[dna-barcoding-fungal-identification]] that transcended national boundaries.
 
 His work on plant pathology demonstrated that fungi cause plant
 
@@ -93,4 +93,4 @@ The tradition of rigorous species description that Berkeley established
 
 continues in modern mycology, where accurate identification is the first
 
-requirement for both cultivation and safe foraging practice.
+requirement for both cultivation [[mushroom-poisoning-and-safe-foraging]] practice.

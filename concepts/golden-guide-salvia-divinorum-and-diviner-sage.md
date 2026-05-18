@@ -89,6 +89,13 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+## Integration with Broader Systems
+
+Individual practices and concepts gain power when integrated
+into holistic systems. Connections between components create
+synergies that exceed the sum of individual parts. Feedback
+loops, both reinforcing and balancing, govern system behavior.
+
 ## See Also
 - [[psilocybin]]
 - [[permaculture]]

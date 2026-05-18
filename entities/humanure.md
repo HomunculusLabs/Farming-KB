@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Humanure refers to human feces and urine that has been composted and converted into a safe, nutrient-rich soil amendment. The term was popularized by Joseph Jenkins in his 1995 book *The Humanure Handbook*. In gardening contexts, humanure is presented as a free, locally available alternative to purchased animal manures and synthetic fertilizers.
+Humanure refers to human feces and urine that has been composted and converted into a safe, nutrient-rich soil amendment. The term was popularized by Joseph Jenkins in his 1995 book *The Humanure Handbook*. In gardening contexts, humanure is presented as a free, locally available alternative to purchased animal manures and [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]].
 
 ## Classification
 
@@ -25,13 +25,13 @@ Humanure refers to human feces and urine that has been composted and converted i
 
 ## Relevance to Cultivation
 
-Humanure addresses a core challenge in self-sufficient gardening: obtaining sufficient organic matter and nutrients without purchased inputs. It is especially relevant in scenarios where:
+Humanure addresses a core challenge in self-sufficient gardening: obtaining sufficient [[savory-soil-organic-matter-and-decomposition-dynamics]] nutrients without purchased inputs. It is especially relevant in scenarios where:
 
 - Commercial fertilizers are unavailable or unaffordable
 - Animal manure sources are distant or expensive to transport
 - The gardener seeks a closed-loop nutrient cycle
 
-Solomon positions humanure as part of a gradient approach to soil fertility — from no inputs, to minimal amendments, to full organic fertility programs. It represents the most resource-efficient option in his fertility spectrum.
+Solomon positions humanure as part of a [[soil-fertility-gradient-approach]] to soil fertility — from no inputs, to minimal amendments, to full organic fertility programs. It represents the most resource-efficient option in his fertility spectrum.
 
 ## Safety Considerations
 
@@ -49,11 +49,11 @@ Solomon positions humanure as part of a gradient approach to soil fertility — 
 - Chicken manure
 
 ## Nutrient Cycling
-Organic amendments play a vital role in closing nutrient loops
+[[cervantes-organic-amendments-chart]] play a vital role in closing nutrient loops
 on farms and in gardens. Manure and compost return nutrients
 to the soil that were removed through harvest. The slow release
 of nutrients from organic sources provides sustained feeding
-for crops throughout the growing season.
+for crops throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Application Methods
 Proper application ensures maximum benefit and minimizes
@@ -73,7 +73,7 @@ rates and timing near waterways.
 Combine amendments with cover cropping and crop rotation for
 optimal soil building. Monitor plant response to guide future
 amendment schedules. Soil testing helps determine appropriate
-application rates and identifies nutrient imbalances that need
+[[ingham-compost-tea-application-rates-and-timing]] identifies nutrient imbalances that need
 correction.
 
 ## Additional Notes

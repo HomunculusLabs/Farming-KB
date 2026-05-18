@@ -17,7 +17,7 @@ type: concept
 
 # Neem Tree as Natural Insecticide in Permaculture
 
-The neem tree ([[azadirachta-indica]], also referred to as Melia azedarach or
+The neem tree ([[azadirachta-indica]], also referred to as [[melia-azedarach-entity]] or
 white cedar) is presented in the Permaculture [[cannabis-pest-management-guide]] in tropical and
 subtropical permaculture systems. Mollison describes its uses across
 [[mushroom-pests-insect-control-stamets]].
@@ -27,7 +27,7 @@ subtropical permaculture systems. Mollison describes its uses across
 Classic insecticides derived from plants include those from Chrysanthemum
 spp (pyrethrum), Derris spp (rotenone), and the neem tree. A few of
 these plants in home gardens and small clumps in crop give a ready source
-of insect control for invertebrates, nuisance fish, and amphibia in water.
+of [[cervantes-mealybugs-scale-insect-control]] for invertebrates, nuisance fish, and amphibia in water.
 Both neem and derris control aquatic organisms; most insecticidal plants
 are lethal to aquatic species.
 
@@ -43,14 +43,14 @@ combine fats or oils (e.g. lecithin), neem oil as a poison, and an
 infective agent ([[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] by small fish and insect predators such as
 notonectids (backswimmers) in open water systems.
 
-This integrated approach demonstrates Mollison's principle of stacking
+This [[solomon-insects-and-diseases-integrated-approach]] demonstrates Mollison's principle of stacking
 multiple biological controls rather than relying on a single synthetic
 chemical. The neem component provides the direct insecticidal effect while
 the biological agents provide ongoing population suppression.
 
 ## Soil Pest Management
 
-Marigolds, neem tree leaves or berries, and pyrethrum daisy control soil
+Marigolds, neem tree leaves or berries, and [[permaculture-pyrethrum-daisy]] control soil
 pests and provide insecticides or water insect control. The neem tree is
 often planted to overhang ponds, so that the berries that drop control
 water-flies and mosquitoes. This passive pest management strategy means
@@ -59,7 +59,7 @@ control without any active harvesting or application.
 
 ## Livestock Health Applications
 
-Neem tree products have multiple applications in permaculture livestock
+Neem tree products have multiple [[pattern-applications-in-permaculture-design]] livestock
 systems:
 
 - **Poultry**: Dried bracken and neem tree leaves in dust baths control
@@ -81,6 +81,6 @@ Indian practice has been validated by modern research showing that neem
 compounds repel and disrupt stored grain insects including weevils,
 beetles, and moths. In permaculture systems, neem leaves can be layered
 with stored grain or placed in storage containers to protect harvests
-without chemical residues.
+without [[ingham-manure-antibiotics-chemical-residues-composting]].
 
 ## Integration in Garden Design

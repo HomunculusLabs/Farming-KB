@@ -32,7 +32,7 @@ vegetation.
 - **Section:** Zapotecorum
 
 Guzmán noted that *P. aucklandii* is closely related to *P. zapotecorum*
-from Mexico and South America, with both species belonging to Section
+from Mexico and [[solanaceous-hallucinogens-south-america-overview]], with both species belonging to Section
 Zapotecorum. This relationship is of biogeographic interest, suggesting
 ancient Gondwanan [[distribution-of-neurotropic-fungi]].
 
@@ -50,7 +50,7 @@ when injured or in age.
 ### Gills (Lamellae)
 
 Gill attachment is adnate. Young gills are grayish yellowish brown, becoming
-darker brown with maturity as spores develop. The dark spore print is
+darker brown with maturity as spores develop. The dark [[boil-a-bag-spore-print-technique-jarrold]] is
 typical of the genus *Psilocybe*.
 
 ### Stem (Stipe)
@@ -58,12 +58,12 @@ typical of the genus *Psilocybe*.
 The stipe measures 35 to 100 mm in length and 1.5 to 5 mm in thickness.
 It is equal, pruinose above the annulus zone, and covered with whitish
 silky fibrils below. The flesh is brownish and bruises bluish when
-handled. The partial veil is cortinate, poorly developed, and soon
+handled. The [[partial-veil-tropism-protection-before-spore-release]] is cortinate, poorly developed, and soon
 disappearing, leaving at most a fugacious annular zone.
 
 ### Microscopic Features
 
-- **Spore print:** Dark purplish brown
+- **[[spore-print]]:** Dark purplish brown
 - **Spore dimensions:** (6.5) 7 to 9.5 by 4.5 to 5.5 micrometers,
   ovoid-ellipsoid in side view, ovoid in face view
 - **Basidia:** 4-spored
@@ -83,4 +83,4 @@ Guzmán et al. (1991, 1993b), Johnston and Buchanan (1995), and Stamets
 (1996). Allen's guide to Australian and [[allen-new-zealand-psychoactive-fungi]] fungi
 also documented *P. aucklandii* from Auckland and the North Island.
 
-The species grows scattered to gregarious on soil rich in woody debris
+The species grows scattered to gregarious on soil rich in [[fungal-diversity-leaf-litter-coarse-woody-debris]]

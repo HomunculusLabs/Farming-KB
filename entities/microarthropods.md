@@ -29,22 +29,22 @@ Microarthropods are small arthropod organisms (typically less than 2mm) that inh
 ## Relevance to Cultivation and Mycology
 
 - Microarthropods are evaluated in Step Twelve of the foodweb restoration protocol — if adequate numbers cannot be observed in handfuls of soil, inoculation from worm compost or forest soil is recommended.
-- In mushroom cultivation, microarthropods can be both beneficial (distributing spores, decomposing spent substrate) and problematic (certain springtails and mites feed on mycelium or fruiting bodies).
+- [[contamination-prevention-in-mushroom-cultivation]], microarthropods can be both beneficial (distributing spores, decomposing spent substrate) and problematic (certain springtails and mites feed on mycelium or fruiting bodies).
 - Springtails (Collembola) are known to feed on mushroom mycelium and can be pests in commercial mushroom production facilities.
-- Predatory mites (Mesostigmata) can help control nuisance mite species and fungus gnat larvae in mushroom growing environments.
+- Predatory mites (Mesostigmata) can help control nuisance mite species and fungus gnat larvae in [[mushroom-growing-environments]].
 - Forest soil is a rich source of microarthropod diversity for inoculating depleted agricultural soils.
 - The presence of microarthropods indicates a mature, complex soil foodweb with multiple trophic levels functioning.
 - Monitoring microarthropod populations provides insight into overall soil ecosystem maturity and health.
 
 ## Sources and References
 
-- Elaine Ingham, *The Field Guide I for Actively Aerated Compost Tea (AACT)*, 2001–2003
+- Elaine Ingham, *The Field Guide I for [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT)*, 2001–2003
 - Soil Foodweb Inc. soil biology assessment protocols
 
 ## Ecological Role
 
 - Function within soil food web trophic levels
-- Contribution to nutrient cycling and mineralization
+- Contribution to nutrient [[soil-protozoa-nutrient-cycling-and-mineralization]]
 - Predator-prey relationships with other soil organisms
 
 ## Environmental Conditions
@@ -56,7 +56,7 @@ Microarthropods are small arthropod organisms (typically less than 2mm) that inh
 ## Observation Methods
 
 - Microscopic identification techniques
-- Sampling protocols for population assessment
+- [[lichen-biodiversity-sampling-protocols-data-analysis]] for population assessment
 - Quantitative measurement approaches
 
 ## Habitat and Distribution
@@ -64,7 +64,7 @@ Microarthropods are small arthropod organisms (typically less than 2mm) that inh
 - Preferred soil types and moisture conditions
 - Depth distribution in soil profile
 - Geographic range and climate adaptation
-- Seasonal population dynamics and fluctuations
+- Seasonal [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] and fluctuations
 
 ## Practical Significance
 

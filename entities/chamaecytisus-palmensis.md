@@ -1,5 +1,5 @@
 ---
-title: Chamaecytisus Palmensis
+title: [[tagasaste-chamaecytisus-palmensis]]
 created: 2026-04-28
 tags: [species, tree, nitrogen-fixer, fodder, pioneer]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: entity
 **Type:** Species
 **Category:** Nitrogen-fixing fodder shrub/tree
 **Also known as:** [[permaculture]]. In Western Australia alone, 50,000 hectares of
-marginal farmland have been planted to tagasaste, with an estimated 1.5
+marginal farmland have been planted to [[tagasaste]], with an estimated 1.5
 million hectares that could benefit. It is a fast-growing, highly
 productive stock feed with exceptional [[det]] ails
 
@@ -23,7 +23,7 @@ productive stock feed with exceptional [[det]] ails
 - **Origin:** Canary Islands; now naturalised in Australia
 - **Lifespan:** Fairly short-lived; extended considerably by regular
   cutting or browsing
-- **Root system:** Nitrogen-fixing; rhizobia usually present in soil
+- **Root system:** Nitrogen-fixing; [[rhizobia]] usually present in soil
   from [[leucaena-entity]]
 ## Practical Applications
 

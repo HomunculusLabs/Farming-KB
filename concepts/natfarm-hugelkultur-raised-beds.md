@@ -1,5 +1,5 @@
 ---
-title: natfarm hugelkultur raised beds Beds
+title: natfarm hugelkultur [[cervantes-raised-beds-mound-planting]] Beds
 created: 2026-04-28
 tags: [hugelkultur, raised-beds, soil-building, water-retention, permaculture]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Hugelkultur Raised Beds
 
-Hugelkultur is a method of burying old wood in the ground under a garden bed.
+Hugelkultur is a method of burying old wood in the ground under a [[desert-garden-bed-design-and-planting-methods]].
 It is a very old strategy that patterns the exact processes of the forest and
 lends itself very well to land that has been cleared of trees for farming.
 Hugelkultur returns massive amounts of organic material to the soil, retains
@@ -75,10 +75,10 @@ and reduces the need for external inputs.
 
 ## Connection to Forest Ecology
 
-Hugelkultur mimics the natural forest floor, where fallen trees decompose
+Hugelkultur mimics the natural [[fungal-ecology-forest-floor]], where fallen trees decompose
 and feed new growth. This connects directly to principles, as the buried wood creates conditions that
 allow later successional plants to thrive. The technique aligns with the
-philosophy of imitating natural forest ecosystems
+philosophy of imitating natural [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
 for food production. Combined with [[urban-rooftop-gardening-and-sheet-mulching]] on the surface,
-hugelkultur beds become self-sustaining growing systems that improve with
+[[hugelkultur-beds]] become self-sustaining growing systems that improve with
 each passing year.

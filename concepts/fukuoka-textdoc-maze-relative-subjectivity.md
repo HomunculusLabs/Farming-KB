@@ -67,7 +67,7 @@ nothing but delusion.
 
 ## The Scientist's Defense and Its Failure
 
-The scientist argues that through repeated [[fukuoka-textdoc-errors-of-human-intellect|errors]].
+The scientist argues that through repeated [[fukuoka-textdoc-errors-of-human-intellect]].
 
 ## Connection to Non-Discriminating Knowledge
 
@@ -76,6 +76,19 @@ non-discriminating knowledge. An infant sees things intuitively. When observed
 without intellectual discrimination, nature is entire and complete, a unity.
 In this non-discriminating view, there is no cause for doubt or discontent.
 
+## Water Management
+
+Water harvesting, storage, and distribution form critical
+infrastructure in any [[integrated-land-management-and-polyculture-design]] system. Swales, ponds,
+and [[comparison-gabion-dams-vs-keyline-design]] capture and retain rainfall. Greywater
+recycling reduces demand on freshwater sources.
+
+## Soil Building Strategies
+
+Building [[humus-and-soil-organic-matter]] through composting, mulching, cover
+cropping, and [[comparison-no-till-vs-reduced-tillage]] improves structure, water retention,
+[[chelation-and-nutrient-availability]]. Biological soil management prioritizes
+feeding soil organisms over direct plant fertilization.
 ## See Also
 - [[doc]]
 - [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]]

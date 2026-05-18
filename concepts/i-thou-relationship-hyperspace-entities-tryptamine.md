@@ -53,6 +53,13 @@ a more personal, experiential mode of testing. The entity is
 challenged to demonstrate its claims through observable action
 rather than through assertion alone.
 
+## Integration with Broader Systems
+
+Individual practices and concepts gain power when integrated
+into holistic systems. Connections between components create
+synergies that exceed the sum of individual parts. Feedback
+loops, both reinforcing and balancing, govern system behavior.
+
 ## See Also
 - dmt
 - ketamine

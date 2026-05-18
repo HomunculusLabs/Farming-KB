@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Chicken manure is a potent organic fertilizer derived from poultry waste. When sold in sacks for garden use, it has been somewhat composted but is not labeled as compost. It is significantly richer in nutrients than steer manure and is considered one of the best animal manure fertilizers for vegetable gardening. Its high nitrogen content makes it particularly valuable for heavy-feeding crops.
+Chicken manure is a potent [[complete-organic-fertilizer-cof]] derived from poultry waste. When sold in sacks for garden use, it has been somewhat composted but is not labeled as compost. It is significantly richer in nutrients than steer manure and is considered one of the best animal manure fertilizers for [[dryland-vegetable-gardening]]. Its high nitrogen content makes it particularly valuable for heavy-feeding crops.
 
 ## Classification
 
@@ -20,7 +20,7 @@ Chicken manure is a potent organic fertilizer derived from poultry waste. When s
 
 ## Key Facts
 
-- Far more nutrient-dense than steer manure for fertilizing vegetable gardens.
+- Far more nutrient-dense than steer manure for fertilizing [[maintaining-organic-matter-in-vegetable-gardens]].
 - Typical commercial product NPK of 4-3-2 — classified as potent by Solomon.
 - Available as chicken manure (somewhat composted) or chicken manure compost.
 - Must be used carefully — overapplication can burn plants or unbalance soil chemistry.
@@ -63,11 +63,11 @@ Chicken manure is a key tool in the gradient soil fertility system described by 
 - [[green-manure]] — plant-based fertility alternative
 
 ## Nutrient Cycling
-Organic amendments play a vital role in closing nutrient loops
+[[cervantes-organic-amendments-chart]] play a vital role in closing nutrient loops
 on farms and in gardens. Manure and compost return nutrients
 to the soil that were removed through harvest. The slow release
 of nutrients from organic sources provides sustained feeding
-for crops throughout the growing season.
+for crops throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Application Methods
 Proper application ensures maximum benefit and minimizes
@@ -81,4 +81,4 @@ Always wear gloves when handling animal manures. Age or
 compost manure for at least six months before garden use.
 Keep amendments covered during storage to prevent nutrient
 runoff. Follow local regulations regarding manure application
-rates and timing near waterways.
+[[ingham-compost-tea-application-rates-and-timing]] near waterways.

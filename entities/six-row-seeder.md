@@ -8,7 +8,7 @@ tags: [tool, seeding, greenhouse, precision-agriculture]
 # Six-Row Seeder
 
 ## Description
-The six-row seeder is an improved precision seeding implement that succeeded the original German-made pinpoint seeder used on Eliot Coleman's farm. Developed collaboratively after the German manufacturer discontinued the pinpoint seeder in 2004, the six-row version addressed design limitations found in the original while increasing capacity from four to six rows per pass. It plants twelve rows on a 30-inch bed in just two passes (compared to three passes with the four-row model).
+The six-row seeder is an improved [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] implement that succeeded the original German-made pinpoint seeder used on Eliot Coleman's farm. Developed collaboratively after the German manufacturer discontinued the pinpoint seeder in 2004, the six-row version addressed design limitations found in the original while increasing capacity from four to six rows per pass. It plants twelve rows on a 30-inch bed in just two passes (compared to three passes with the four-row model).
 
 ## Classification
 - **Category**: Agricultural tool / Precision seeder
@@ -23,7 +23,7 @@ The six-row seeder is an improved precision seeding implement that succeeded the
 - Coleman organized a collaboration with other interested parties to find a new manufacturer
 - New manufacturer engaged to produce a six-row version with improved features
 - Designed to address features found wanting in the original pinpoint seeder
-- Sources listed in Appendix C of *The Winter Harvest Handbook*
+- Sources listed in Appendix C of *The [[winter-harvest-handbook-guide]]*
 
 ### Design Improvements Over Pinpoint Seeder
 - Increased from four rows to six rows per pass
@@ -55,12 +55,12 @@ Same as pinpoint seeder:
 
 ### Precision Distribution
 - Six-row precision exemplifies the importance of even spatial distribution in intensive biological production
-- In mushroom cultivation, even spawn distribution across substrate follows the same principle
-- Dense, uniform planting maximizes resource utilization — applicable to both crops and mycelial colonization
+- [[contamination-prevention-in-mushroom-cultivation]], even spawn distribution across substrate follows the same principle
+- Dense, uniform planting maximizes resource utilization — applicable to both crops and [[mycelial-colonization]]
 
 ### Production Efficiency
 - The evolution from four-row to six-row demonstrates continuous improvement in production tools
-- Reducing passes (3 to 2) saves time and labor — directly applicable to substrate preparation workflows
+- Reducing passes (3 to 2) saves time and labor — directly applicable to [[bulk-substrate-preparation]] workflows
 - The collaborative development model (users driving manufacturer design) parallels open-source tool development in mushroom cultivation
 
 ### Economic Viability
@@ -72,7 +72,7 @@ Same as pinpoint seeder:
 - Baby leaf salads (twelve rows per 30-inch bed)
 - Radishes (twelve rows per bed)
 - Carrots (twelve rows per bed)
-- Spinach (dense greenhouse production)
+- Spinach (dense [[economics-of-winter-greenhouse-production]])
 - Any crop suited to 2.5-inch row spacing
 
 ## See Also

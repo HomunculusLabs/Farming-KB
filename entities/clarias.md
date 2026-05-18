@@ -23,7 +23,7 @@ tags: [fish, aquaculture, freshwater, air-breathing, catfish, permaculture]
 
 ### Air-Breathing Adaptation
 - Possesses a suprabranchial organ (labyrinth organ or air chamber) near the gills
-- Can extract oxygen directly from air, surviving in anaerobic conditions (< 1 ppm dissolved oxygen)
+- Can extract oxygen directly from air, surviving in [[aact-ph-and-anaerobic-conditions]] (< 1 ppm dissolved oxygen)
 - Enables survival in weedy, stagnant, tropical shallows where other fish perish
 - Can "walk" overland between water bodies using pectoral spines during rainy periods
 
@@ -39,7 +39,7 @@ tags: [fish, aquaculture, freshwater, air-breathing, catfish, permaculture]
 - **Habitat**: Stagnant ponds, swamps, rice paddies, weedy shallows
 
 ### Production
-- Very low-input culture -- minimal aeration or water quality management required
+- Very low-input culture -- minimal aeration or [[pond-water-quality-management]] required
 - Can be fed on waste and by-product feeds
 - Integrates well with rice paddy systems as accessory protein crop
 
@@ -55,14 +55,14 @@ tags: [fish, aquaculture, freshwater, air-breathing, catfish, permaculture]
 ## Practical Applications
 
 The study of clarias has significant implications
-for sustainable agriculture and ecological management.
+[[mushroom-cultivation-for-sustainable-agriculture]] and [[solomon-gardening-aikido-pest-philosophy-ecological-management]].
 Practitioners can apply these principles to improve
 system resilience and productivity.
 
 ## Ecological Context
 
 Within broader ecological systems, clarias
-interacts with multiple environmental factors. Understanding
+interacts with multiple [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Understanding
 these relationships is key to effective implementation
 and long-term sustainability of management practices.
 
@@ -75,7 +75,7 @@ selection for maximum productivity and system stability.
 
 ## Design Applications
 
-In permaculture design, clarias informs
+[[ecological-succession-in-permaculture-design]], clarias informs
 decisions about system layout, species selection, and
 management strategies. Proper integration enhances overall
 system resilience and productive capacity.

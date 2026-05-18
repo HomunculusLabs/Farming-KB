@@ -1,5 +1,5 @@
 ---
-title: "Acapulco Gold"
+title: "[[acapulco-gold-heirloom-mexican-sativa]]"
 type: strain
 tags:
   - cannabis
@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - https://www.leafly.com/strains/acapulco-gold
   - https://www.wikileaf.com/strain/acapulco-gold/
-  - Clarke, R.C. (1998). Hashish! Red Eye Press.
-  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
-  - Emboden, W. (1972). "Ritual Use of comparison-cannabis-sativa-vs-cannabis-indica L." Economic Botany, 26(3), 264-274.
+  - Clarke, R.C. (1998). [[hashish]]! Red Eye Press.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
+  - Emboden, W. (1972). "Ritual Use of [[comparison-cannabis-sativa-vs-cannabis-indica]] L." Economic Botany, 26(3), 264-274.
 created: 2026-05-07
 ---
 
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

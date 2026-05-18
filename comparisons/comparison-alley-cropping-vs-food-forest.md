@@ -1,5 +1,5 @@
 ---
-title: "Alley Cropping vs Food Forest"
+title: "[[comparison-alley-cropping-vs-silvopasture]] Food Forest"
 tags: [comparison, agroforestry, alley-cropping, food-forest, permaculture]
 date: 2026-05-12
 updated: 2026-05-12
@@ -10,8 +10,8 @@ sources: []
 
 ## Overview
 
-Alley cropping and food forests are two of the most widely practiced
-agroforestry systems in permaculture design. While both integrate trees
+[[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] food forests are two of the most widely practiced
+agroforestry systems [[ecological-succession-in-permaculture-design]]. While both integrate trees
 with crops, they differ fundamentally in structure, management intensity,
 and long-term objectives. Alley cropping arranges trees in rows with
 crop alleys between them, favoring mechanized production and flexibility.
@@ -28,7 +28,7 @@ uses seven recognized layers: canopy trees, understory trees, shrubs,
 herbaceous plants, ground covers, root crops, and vines, with an eighth
 fungal layer increasingly recognized by designers.
 
-The system follows ecological succession from pioneer species through
+The system follows [[ecological-succession]] from pioneer species through
 mature polyculture over 15-50 years. Guild design groups plants around
 central elements for mutual support, with nitrogen fixers, dynamic
 accumulators, insectary plants, and mulch species arranged together.
@@ -68,8 +68,8 @@ system that produces diverse yields with minimal ongoing management.
 Food forests suit homesteads, community gardens, and small farms where
 diversity of harvest matters more than bulk production of any single
 crop. They are ideal when you have the patience for a 15-50 year
-maturation timeline and value closed-loop nutrient cycling, wildlife
-habitat creation, and resilience through biodiversity. Food forests also
+[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]] and value closed-loop nutrient cycling, wildlife
+[[amphibian-habitat-creation]], and resilience through biodiversity. Food forests also
 shine on marginal land where conventional annual cropping struggles, as
 perennial root systems access deeper nutrients and moisture.
 

@@ -15,18 +15,57 @@ The 1982 study by [[jeremy-bigwood]] and Michael W. Beug at The [[bigwood-beug-m
 - **Sterilization**: Autoclaved before inoculation
 - **Inoculation**: Mycelium culture on agar transferred under sterile conditions
 - **Incubation**: Jars shaken every 4 days for 28 days to distribute mycelium evenly
-- **Casing**: 2 cm layer of 2 parts peat : 1 part calcium carbonate : 2 parts perlite/vermiculite
+- **Casing**: 2 cm layer of 2 parts peat : 1 part [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] : 2 parts perlite/vermiculite
 - **Watering**: 1 ml sterile water via syringe every two days
 
 ### Strain
 The primary strain studied originated from a [[psilocybin-psilocin-flush-accumulation-patterns]]
+
+## Safety Profile
+
+[[lsd-set-and-setting-framework]] significantly influence outcomes. Screening for
+contraindicated conditions (cardiovascular issues, psychotic
+disorders, concurrent MAOI use) is essential. Integration
+practices help process and contextualize experiences.
+## Legal Status
+
+Legal classification varies widely by jurisdiction. Many
+substances discussed are Schedule I in the United States.
+International treaties and local regulations change frequently;
+always verify current legal status in your jurisdiction.
+## Current Research
+
+Modern [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] are investigating [[psilocybin-therapeutic-applications]]
+for depression, anxiety, PTSD, and substance use disorders.
+Results from Phase II and Phase III trials have shown
+promising efficacy with relatively low adverse event rates.
+
+## Dosage Considerations
+
+Effective dosage varies significantly by species, preparation
+method, individual sensitivity, and body weight. Dry weight
+measurements are more reliable than fresh weight due to variable
+water content. Start with lower doses when potency is uncertain.
+
+## Integration Practices
+
+Post-experience integration helps process and apply insights
+gained. Journaling, meditation, nature walks, and discussion
+with trusted individuals support meaning-making. Professional
+integration coaching is increasingly available in many areas.
+## Implementation Notes
+
+Practical implementation benefits from starting small and scaling
+based on observed results. Document conditions, inputs, and
+outcomes systematically. Connect with experienced practitioners
+in your bioregion for locally-adapted knowledge and support.
 
 ## See Also
 
 - [[psilocybin-psilocin-variation-flushes]]
 ## Practical Applications
 
-Psilocybin Psilocin Variation Flushes Cubensis has a range of practical applications that make it relevant to
+[[psilocybin-psilocin-variation-across-flushes]] Flushes Cubensis has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -41,7 +80,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

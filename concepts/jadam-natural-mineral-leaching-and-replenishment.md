@@ -33,7 +33,7 @@ plant's dried mass comes from organic nutrients (C, H, O), while only 4%
 comes from inorganic nutrients. However, that 4% is critically important for
 crop health and produce quality.
 
-The consequences of mineral depletion are measurable. In the 1940s in the
+The consequences of [[solomon-soil-mineral-depletion]] are measurable. In the 1940s in the
 US, the saying was that "an apple a day keeps the doctor away" because a
 single apple contained all the minerals a person needed in a day. Today, a
 person would need to eat thirty-two apples to obtain the same mineral
@@ -43,7 +43,7 @@ minerals compared to the past.
 ## Forced Leaching of Minerals
 
 Forced leaching is a more damaging process caused by human agricultural
-practices. It occurs when farmers remove and destroy crop residues (stems,
+practices. It occurs when farmers remove and destroy [[jadam-monoculture-disorder-crop-residues]] (stems,
 leaves, branches, roots) after harvest. Crop roots select and absorb specific
 nutrients from the soil pool, and these nutrients are reflected in the
 composition of stems and leaves. When residues are removed rather than
@@ -66,11 +66,11 @@ a salt concentration between 3.1-3.8%. Historically, rice paddies and
 orchards near the sea were showered with sea water elements for millennia,
 contributing to their fertility.
 
-Phyllite solution is the second major mineral replenishment tool. JADAM
+[[jadam-phyllite-solution]] is the second major mineral replenishment tool. JADAM
 encourages the use of phyllites, a type of rock, to replenish minerals in
 depleted soil. Fine-powdered phyllite rock is immersed in water to create
 "phyllite solution." This is especially important for soil with serious
-mineral deficiency. The phyllite solution can be added directly to JMS
+[[mineral-deficiency-remedies]]. The phyllite solution can be added directly to JMS
 culturing containers by placing rock powder in a mesh bag.
 
 ## Practical Application

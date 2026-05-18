@@ -14,7 +14,7 @@ sources:
   - Capelli, F. (1984). "Agaricus L. (Fungi, Basidiomycotina)." Quaderni della Civica Stazione di Milano.
   - Kerrigan, R.W. (2016). "Agaricus of psilocybin-north-america-pacific-northwest." Memoirs of the New York Botanical Garden.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
-  - Boertmann, D. (1995). "The Genus Agaricus in Denmark." Danish Mycological Society.
+  - Boertmann, D. (1995). "The Genus Agaricus in Denmark." Danish [[british-mycological-society]].
 ---
 
 ## Overview
@@ -68,8 +68,8 @@ identification feature after the yellowing reaction.
 
 ## Distribution and Habitat
 
-*A. xanthodermus* has a cosmopolitan distribution and is found across temperate and
-subtropical regions worldwide. It is particularly common in Europe, North America,
+*A. xanthodermus* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] and is found across temperate and
+subtropical regions worldwide. It is particularly common in Europe, [[guzman-psilocybin-mushrooms-north-america]],
 Australia, and parts of Asia. Originally described from Europe, the species complex
 has since been recognized as containing multiple cryptic taxa.
 

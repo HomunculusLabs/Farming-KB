@@ -7,7 +7,7 @@ tags:
   - bolete
   - rubroboletus
   - boletaceae
-  - mushroom-identification
+  - [[mushroom-identification]]
   - foraging
   - temperate
   - gi-distress
@@ -36,7 +36,7 @@ recognize.
 
 ## Taxonomy
 
-- **Kingdom:** Fungi → **Division:** Basidiomycota → **Class:** Agaricomycetes
+- **Kingdom:** Fungi → **Division:** [[basidiomycota]] → **Class:** Agaricomycetes
   → **Order:** Boletales
 - **Family:** Boletaceae → **Genus:** *Rubroboletus* → **Species:**
   *R. satanas*

@@ -13,8 +13,8 @@ tags: [reference]
 Ololiuqui is the Aztec name for the seeds of [[golden-guide-morning-glory-and-ololiuqui]] vine native to Mexico. Among the
 most sacred psychoactive plants of Mesoamerica, ololiuqui seeds were
 revered by the Aztecs and continue to be used today by indigenous
-communities in Oaxaca for divination and healing rituals. The seeds
-contain ergoline alkaloids chemically related to those found in the
+communities in Oaxaca for divination and [[shamanic-entheogenic-healing-rituals]]. The seeds
+contain [[morning-glory-ergoline-alkaloids-chemistry]] chemically related to those found in the
 [[morning-glory-entheogens]].
 
 ## Traditional Use
@@ -29,18 +29,18 @@ and the experience of the practitioner.
 The ritual use of ololiuqui is typically conducted by a curandero or
 curandera (healer) in a controlled ceremonial setting. The seeds are
 used for divination, diagnosis of illness, and communication with the
-spirit world. The ceremony is usually conducted at night, in a
+[[yakuruna-aquatic-spirit-world]]. The ceremony is usually conducted at night, in a
 darkened room, and involves prayers and invocations alongside the
-consumption of the seed preparation.
+consumption of the [[cho-soil-treatment-and-seed-preparation]].
 
 The experience is described as producing a state of lassitude and
 drowsiness, followed by dream-like visions that are often interpreted
 by the curandero for the benefit of the patient or community. The
 visions may include encounters with [[albert-hofmann-eleusinian-potion-analysis]] in
-1960, when he isolated [[ergot-and-lysergic-acid-history]] amide and lysergic acid
+1960, when he isolated [[ergot-and-lysergic-acid-history]] amide and [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]]
 hydroxyethylamide from the seeds. This discovery was significant
 because it demonstrated that ergoline alkaloids were not exclusive to
-the ergot fungus but could also be produced by higher plants, raising
+the [[ergot-fungus]] but could also be produced by higher plants, raising
 fascinating questions about the evolutionary and ecological
 relationships involved.
 

@@ -1,5 +1,5 @@
 ---
-title: Lichen Symbiosis Mechanisms Photobiont Selection
+title: [[symbiotic-fungi-lichen-symbiosis-mechanisms]] Photobiont Selection
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -69,7 +69,7 @@ partners involves several levels of specificity:
 The comparison between [[lichen-symbiosis]] and the Geosiphon-Nostoc symbiosis
 illuminates the range of fungal-algal partnership strategies:
 
-- **Lichens**: The photobiont lives outside the [[endophytic-fungi-living-inside-plants]] the fungal cell. [[hamilton-vegetative-propagation]] of the entire
+- **Lichens**: The photobiont lives outside the [[endophytic-fungi-living-inside-plants]] the [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]]. [[hamilton-vegetative-propagation]] of the entire
   symbiotic system does not exist. Geosiphon does not survive water loss and
   is very sensitive to high temperature and grows only in moderate light
   (Kluge and Schubler 2002).

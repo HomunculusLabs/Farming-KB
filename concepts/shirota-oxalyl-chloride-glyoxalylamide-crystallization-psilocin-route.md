@@ -1,5 +1,5 @@
 ---
-title: "shirota-glyoxalylamide-formation-oxalyl-chloride-indole Glyoxalylamide Crystallization in acetylation-protection-psilocin-synthesis-4-hydroxyindole"
+title: "shirota-glyoxalylamide-formation-oxalyl-chloride-indole Glyoxalylamide Crystallization in [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]"
 aliases: [glyoxalylamide yellow crystal formation, acetylation-protection-psilocin-synthesis-4-hydroxyindole step two]
 tags: [shirota, psilocin, synthesis, oxalyl-chloride, glyoxalylamide,
   crystallization, organic-chemistry, tryptamines]
@@ -13,7 +13,7 @@ created: 2026-05-08
 
 In the concise large-scale synthesis of [[glyoxalylamide-intermediate-in-tryptamine-synthesis]] (6) via oxalyl chloride
 represents a critical two-step acylation-amidation sequence. This step
-produces a distinctive yellow crystalline product and proceeds in over
+produces a distinctive yellow [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]] and proceeds in over
 80% yield, making it highly suitable for gram-scale production without
 chromatographic purification.
 

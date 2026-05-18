@@ -80,3 +80,31 @@ The Mescalero case stands in sharp contrast to the usual picture of amiable, har
 - shamanism
 - [[mescalero-apache-shamanism-peyote-adoption-rejection]]
 - [[harner-amanita-muscaria-siberian-shamanism]]
+
+## Practical Applications
+
+Theoretical understanding translates to practice through careful
+observation, systematic experimentation, and iterative
+improvement. Documenting results builds personal knowledge and
+enables sharing successful approaches with others.
+## Historical Context
+
+Traditional knowledge systems worldwide have developed
+sophisticated approaches over centuries. Modern science often
+validates what indigenous and traditional practitioners have
+long understood about ecological relationships and management.
+## Future Directions
+
+Emerging research continues to expand understanding of
+complex interactions within biological systems. Climate change
+adaptation strategies are increasingly important. Technology
+and traditional knowledge combined offer promising pathways.
+
+## See Also
+
+- [[mescalero-apache-shamanism-peyote]]
+- [[mescalero-apache-shamanism-and-peyote-rejection]]
+- [[mescalero-shamanism-peyote-ban]]
+- [[mescalero-apache-shamanism-peyote-adoption-rejection]]
+- [[hallucinogens-and-shamanism-harner-anthology]]
+- [[harner-amanita-muscaria-siberian-shamanism]]

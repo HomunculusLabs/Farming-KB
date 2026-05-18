@@ -73,6 +73,25 @@ The excessive surpluses of pest plants and animals represent a special opportuni
 
 Carp themselves are a response to inland waterways overloaded with algal growth, stimulated by excessive nutrients from farm fertilisers and town sewage. Beyond recognising our role in contributing to nature's plagues, learning to accept plant and animal plagues as opportunities to creatively provide for our needs while restoring greater balance epitomises our harmonious place in nature.
 
+## Practical Applications
+
+Theoretical understanding translates to practice through careful
+observation, systematic experimentation, and iterative
+improvement. Documenting results builds personal knowledge and
+enables sharing successful approaches with others.
+## Historical Context
+
+Traditional knowledge systems worldwide have developed
+sophisticated approaches over centuries. Modern science often
+validates what indigenous and traditional practitioners have
+long understood about ecological relationships and management.
+## Future Directions
+
+Emerging research continues to expand understanding of
+complex interactions within biological systems. Climate change
+adaptation strategies are increasingly important. Technology
+and traditional knowledge combined offer promising pathways.
+
 ## See Also
 
 - [[permaculture-principles]]

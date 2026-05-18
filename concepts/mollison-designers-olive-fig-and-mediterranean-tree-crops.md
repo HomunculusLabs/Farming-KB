@@ -1,5 +1,5 @@
 ---
-title: Olive holzer-fig-and-mediterranean-species Tree Crops
+title: Olive holzer-fig-and-mediterranean-species [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]
 created: 2026-04-28
 tags:
   - tree-crops
@@ -17,7 +17,7 @@ type: concept
 
 # Olive, Fig, and Mediterranean Tree Crops
 
-The Mediterranean climate zone, characterised by mild wet winters and hot dry
+The Mediterranean [[holzer-climate-zone-microclimate-creation]], characterised by mild wet winters and hot dry
 summers, supports a distinctive assemblage of long-lived tree crops that have
 co-evolved with human agriculture over millennia. Mollison treats these species
 as keystone elements in dryland and subtropical permaculture systems, valued
@@ -31,7 +31,7 @@ Mollison highlights several design properties:
 
 - **Longevity**: Productive trees can live 500-1000+ years, making olive
   plantings effectively permanent landscape elements.
-- **Drought tolerance**: Mature trees survive on 200-400 mm annual rainfall
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]**: Mature trees survive on 200-400 mm annual rainfall
   once established, drawing water from deep soil layers through extensive root
   systems.
 - **Soil adaptation**: Olives tolerate alkaline, calcareous, stony, and
@@ -42,7 +42,7 @@ Mollison highlights several design properties:
 - **Rosemary and lavender**: Aromatic herbs that share olive's drought
   tolerance and attract pollinators while potentially deterring olive fly
   (Bactrocera oleae).
-- **Vine crops**: Grape vines ([[vitis-vinifera]]) interplanted with olives are a
+- **[[permaculture-vine-crops]]**: Grape vines ([[vitis-vinifera]]) interplanted with olives are a
   traditional Mediterranean combination, exploiting different root depths and
   canopy layers.
 - **Cereal understory**: Barley or oats can be grown between young olive rows
@@ -52,13 +52,13 @@ Mollison highlights several design properties:
 Mollison recommends selecting varieties for dual-purpose (oil and table) use
 and for local adaptation. Key considerations include frost tolerance (critical
 for young trees), oil quality, and ripening time. Multi-variety plantings
-extend the harvest season and provide genetic diversity against pests and
+extend the harvest season and provide [[biodiversity-fungal-genetic-diversity]] against pests and
 disease.
 
 ## The Fig (Ficus carica)
 
 The fig occupies a unique niche in Mediterranean permaculture as a reliable
-producer in hot, dry conditions where other fruit trees struggle. Mollison
+producer in hot, dry conditions where other [[comparison-grafting-vs-budding-fruit-trees]] struggle. Mollison
 values figs for several reasons:
 
 - **Rapid establishment**: Fig trees can bear fruit within 2-3 years of

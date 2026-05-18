@@ -59,7 +59,7 @@ cap radius; flesh white, thin, and fragile.
 **Stipe:** 8–16 × 0.8–2 cm, central, cylindrical, slightly tapering upward;
 surface white, fibrillose, sometimes with grayish scales below the annulus;
 base bulbous, with a saccate volva that is often buried and easily detached;
-partial veil leaving a thin, fragile, evanescent annulus that frequently
+[[partial-veil-tropism-protection-before-spore-release]] leaving a thin, fragile, evanescent annulus that frequently
 falls away.
 
 **Spores:** 8–12 × 6–9 μm, broadly ellipsoid to ellipsoid, smooth, thin-
@@ -71,7 +71,7 @@ slightly nutty.
 ## Distribution and Habitat
 
 *Amanita vaginata* has a broad circumboreal distribution, found throughout
-Europe, Asia, and North America. In North America it occurs from Alaska to
+Europe, Asia, and [[huckleberries-and-wild-berries-of-north-america]]. In North America it occurs from Alaska to
 Mexico, though western and eastern populations may represent distinct
 phylogenetic species within the *A. vaginata* complex.
 

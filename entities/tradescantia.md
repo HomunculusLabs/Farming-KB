@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Tradescantia is a genus of about 75 species of herbaceous perennial plants in the family Commelinaceae, native to the Americas from southern Canada to northern Argentina. Several species, particularly Tradescantia fluminensis (wandering Jew) and Tradescantia albiflora, are aggressive ground-covering plants that thrive in subtropical and temperate regions. In [[decomposition]] processes.
+Tradescantia is a genus of about 75 species of herbaceous perennial plants in the family Commelinaceae, native to the Americas from southern Canada to northern Argentina. Several species, particularly Tradescantia fluminensis (wandering Jew) and Tradescantia albiflora, are aggressive ground-covering plants that thrive in subtropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. In [[decomposition]] processes.
 
 ## Botanical Description
 
@@ -51,14 +51,14 @@ Propagation methods include seed, division, and vegetative techniques by species
 
 ## Ecological Relationships
 
-Serves as habitat and food source for beneficial insects, birds, and soil organisms.
+Serves as habitat and food source [[query-how-do-i-design-habitat-for-beneficial-insects]], birds, and soil organisms.
 Root associations with mycorrhizal fungi enhance nutrient uptake capabilities.
-Plays role in local food webs and nutrient cycling within ecosystem processes.
+Plays role in local food webs [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] within ecosystem processes.
 
 ## Uses and Applications
 
 Traditional and modern applications in agriculture, horticulture, and land management.
-Potential for integration into permaculture designs as functional elements.
+Potential for [[duck-keeping-and-integration-into-permaculture-systems]] designs as functional elements.
 Value as companion plants, windbreaks, hedgerows, or specialist crop components.
 
 ## Economic Importance
@@ -71,13 +71,13 @@ Understanding market dynamics helps inform strategic planning decisions.
 ## Integration Strategies
 
 Integration of tradescantia into broader systems requires careful planning.
-Companion relationships and functional connections should be considered.
+Companion relationships [[component-analysis-and-functional-connections]] should be considered.
 Design for multiple functions increases overall system efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Considerations
 
-Common challenges include pest management, climate variability, and resource allocation.
+Common challenges include pest management, climate variability, and [[mycelial-foraging-resource-allocation]].
 Proactive planning and diversified approaches mitigate potential problems.
 Knowledge sharing among practitioners accelerates problem-solving.
 Documentation of both successes and failures builds collective understanding.

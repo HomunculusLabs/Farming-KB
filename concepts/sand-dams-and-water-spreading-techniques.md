@@ -89,6 +89,13 @@ An extensive silt dam of 9-12 m height is always built in 1.5 to 2 m stages, wit
 
 Below roost trees around such dams, guano from desert birds may be gathered as sheets of phosphate fertiliser. Mixed with 30-40 parts of damp sand as a dilute solution, this is of great value in establishing dune or rock windrow trees. On the silt dam, melons grow very well as the first swampy condition recedes, and a good crop of legumes and melons can be planted at that time. A few such dams can support a strong village population and keep downstream scour holes recharged with water.
 
+## Integration with Broader Systems
+
+Individual practices and concepts gain power when integrated
+into holistic systems. Connections between components create
+synergies that exceed the sum of individual parts. Feedback
+loops, both reinforcing and balancing, govern system behavior.
+
 ## See Also
 - [[water-spreading-techniques-drylands]]
 - [[water-spreading-and-infiltration-techniques]]

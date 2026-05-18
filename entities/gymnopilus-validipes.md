@@ -1,7 +1,7 @@
 ---
 title: "Gymnopilus validipes"
 created: 2026-04-28
-tags: [species, fungus, psilocybin-mushroom, gymnopilus]
+tags: [species, fungus, [[psilocybin-mushroom]], gymnopilus]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [psilocybin-mushrooms-of-the-world-stamets.md]
@@ -17,7 +17,7 @@ type: entity
 Gymnopilus validipes is one of the most commonly encountered
 [[psilocybin]]-active Gymnopilus species due to its large size and
 widespread distribution. Its resemblance to the edible honey mushroom
-(Armillaria mellea) has led to numerous accidental intoxications, which
+([[armillaria-mellea]]) has led to numerous accidental intoxications, which
 historically served as the first reports of its psychoactivity. The
 species demonstrates that not all active Gymnopilus species share the
 characteristic bitter taste of G. spectabilis, making identification

@@ -1,5 +1,5 @@
 ---
-title: Tryptophan Biosynthesis From Chorismate
+title: [[tryptophan]] Biosynthesis From Chorismate
 created: 2026-04-28
 tags: [biochemistry, tryptophan, chorismate, biosynthesis, fungal-metabolism]
 date: 2026-04-28
@@ -18,7 +18,7 @@ the final transamination-like condensation step.
 
 ### Step 1: 2-Deoxyisochorismate Formation
 
-Chorismate is converted to 2-deoxyisochorismate by the enzyme
+Chorismate is converted to 2-deoxyisochorismate by the [[enzyme]]
 2-deoxyisochorismate synthase. This reaction involves the
 substitution of the 2-hydroxyl group of chorismate with a hydrogen
 atom, activated by magnesium ions. The reaction proceeds through

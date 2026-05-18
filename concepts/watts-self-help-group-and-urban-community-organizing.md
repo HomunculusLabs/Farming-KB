@@ -93,3 +93,9 @@ The female newspaper reporter who originally led Mollison to Watts conducted her
 4. **Fair dealing works even in violent contexts**: Despite operating in an environment of constant gunfire, fairness and openness were the principles that held the network together
 5. **Self-financing is achievable**: Progressing from 15% to 85% self-finance demonstrates that even the poorest communities can build economic independence
 6. **Multiple strategies are needed**: Visual identification, rapid mobility, encirclement tactics, nighttime negotiation, and consistent fairness all operated together as an integrated system
+## Integration with Broader Systems
+
+Individual practices and concepts gain power when integrated
+into holistic systems. Connections between components create
+synergies that exceed the sum of individual parts. Feedback
+loops, both reinforcing and balancing, govern system behavior.

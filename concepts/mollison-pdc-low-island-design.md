@@ -1,5 +1,5 @@
 ---
-title: Mollison Pdc Low Island Design
+title: [[mollison-pdc-arid-landscape-settlement]] Low [[mollison-pdc-high-island-design]]
 created: 2026-04-28
 tags:
   - permaculture
@@ -26,8 +26,8 @@ level is often only three to five feet below the surface, with the
 bottom only four to five feet below that. The available fresh water can
 be calculated from the island area. Critical management rules:
 
-- Never pollute the water table -- dry toilets are a necessity
-- Even two or three septic tanks can contaminate the entire water supply
+- Never pollute the water table -- [[greywater-management-and-dry-toilets]] are a necessity
+- Even two or three [[septic-tanks-and-natural-swimming-pools]] can contaminate the entire water supply
 - When the fresh water is drawn down, salt water fills the table and
   plants die
 - Surface water storage must supplement the limited lens
@@ -65,7 +65,7 @@ cover with sand -- a new platen reforms within twelve months.
 
 ## Circle Gardening
 
-The "magical ring garden" is the ideal atoll growing system:
+The "magical [[ring-garden-atoll-mollison]]" is the ideal atoll growing system:
 
 - Break up the platen and heap sand around the edge of a circle
 - Fill the center with mulch and plant vegetable crops

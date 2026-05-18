@@ -1,5 +1,5 @@
 ---
-title: "PF TEK Primordia Development Abort Harvesting and Potency by Age"
+title: "[[pf-tek-primordia-formation-and-pinning-process]] Development [[abort-harvesting-alkaloid-concentration-pf-tek]] and Potency by Age"
 tags: [mycology, cultivation, pf-tek, harvesting, potency, primordia, aborts, fruiting, alkaloids]
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 created: 2026-05-11
@@ -60,7 +60,7 @@ cap. These are also potent and suitable for harvesting.
 
 The central claim of PF regarding potency is straightforward: **small
 immature specimens are significantly more potent than larger mature ones.**
-This relationship has been supported by subsequent chemical analyses showing
+This relationship has been supported by subsequent [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] showing
 that [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]]** — Provides the nutritional base for optimal
    [[jarrold-mycelium-colonization-to-fruiting-transition-bag-opening-technique]] cycle start** — within 2 weeks
 4. **Fruiting cycle duration** — approximately 2 weeks for the primary flush
@@ -71,8 +71,8 @@ fruit bodies sometimes appear after thorough cleaning, but are typically sparse.
 
 ## The PF Verdict on P. cubensis Potency
 
-PF pushed back against the characterization of Psilocybe cubensis as a "weak"
-mushroom, arguing that it all depends on cultivation method, growing medium,
+PF pushed back against the characterization of [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] as a "weak"
+mushroom, arguing that it all depends on [[boil-a-bag-mushroom-cultivation-method]], growing medium,
 and harvesting/preservation technique. When grown on brown rice, harvested
 young, and cool-dried with desiccant, PF maintained that P. cubensis produces
 material of the highest entheogenic quality. This perspective highlights the
@@ -83,5 +83,5 @@ potency of cultivated material.
 
 - Fanaticus, Psilocybe (1996). PF TEK — Complete Illustrated Instructions.
   Seattle, WA.
-- Gartz, J. (1995). Magic Mushrooms Around the World.
+- Gartz, J. (1995). Magic Mushrooms [[fungi-around-the-world-species-distribution]].
 - Stamets, P. & Gartz, J. (1995). New species of Psilocybe from the USA.

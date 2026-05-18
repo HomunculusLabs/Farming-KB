@@ -4,7 +4,7 @@ created: 2026-04-28
 tags:
   - phosphorus
   - potassium
-  - dynamic-accumulators
+  - [[dynamic-accumulators]]
   - soil-minerals
   - organic-gardening
 date: 2026-04-28
@@ -16,7 +16,7 @@ type: concept
 
 # Phosphate and Potassium Accumulator Plants
 
-Phosphorus and potassium are two essential plant nutrients that are
+Phosphorus and potassium are two [[teaming-with-nutrients-essential-plant-nutrients]] that are
 notoriously difficult to liberate from their mineral forms in soil.
 While these elements may be present in adequate total quantities, they
 are often locked in compounds that plants cannot readily absorb. Dynamic
@@ -47,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -7,7 +7,7 @@ type: concept
 # Hallucinogenic plants|Plants in Primitive Societies
 
 > Hallucinogens permeate nearly every aspect of life in primitive societies.
-> — R.E. Schultes, *A Golden Guide to [[blesching-cannabis-healing-practices-setting-intention-affirmations]] and disease
+> — R.E. Schultes, *A [[golden-guide-amanita-muscaria-and-soma]] to [[blesching-cannabis-healing-practices-setting-intention-affirmations]] and disease
   conceptualization
 - **Peace and war** — used to divine enemy plans, ensure victory, and
   ritualize conflict
@@ -23,7 +23,7 @@ type: concept
 - Medical and religious applications are particularly important across
   [[ayahuasca-and-banisteriopsis-caapi]] prepared as a brew
   - Used in initiation rituals throughout the Amazon
-  - Brings visions of the spirit world to new initiates
+  - Brings visions of the [[yakuruna-aquatic-spirit-world]] to new initiates
 
 ## Divination, Prophecy, and Warfare
 
@@ -58,7 +58,7 @@ type: concept
   tree to ritualize death, induce trance for diagnosing disease, and
   thank spirits for victory
 - **Witotos (Colombia)** eat the same powerful resin to "talk with the
-  little people" (spirit beings)
+  little people" ([[metzner-spirit-beings-multiple-realities-entheogens]])
 - **Peruvian medicine men** drink *cimora* to become "owners of
   another's identity" — used for healing, divination, and influence
 
@@ -79,7 +79,7 @@ type: concept
   - Represents a **newly imported and superimposed cultural trait**
   - Lacks natural roots in Western tradition
   - Removed from integrated spiritual frameworks that gave these
-    practices meaning in indigenous cultures
+    practices meaning [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
 
 ## Key Themes
 
@@ -88,7 +88,7 @@ type: concept
 - **Spirit world access**: The primary value is access to the spirit
   world, not recreational experience
 - **Cultural integration**: Use is embedded within complex systems of
-  belief, ritual, and social structure
+  belief, ritual, [[permaculture-community-philosophy-and-social-structure]]
 - **Knowledge transmission**: Shamans and medicine men serve as
   custodians of plant knowledge and its proper application
 - **Continuity**: The same fundamental patterns recur across continents,

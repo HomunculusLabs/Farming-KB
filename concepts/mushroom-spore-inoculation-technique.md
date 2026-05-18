@@ -1,5 +1,5 @@
 ---
-title: Mushroom Spore Inoculation Technique
+title: [[mushroom-spore-inoculation-techniques]] Technique
 tags: [mycology, mushroom-cultivation, inoculation, spores, pf-tek, sterile-technique]
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 created: 2026-05-09
@@ -22,12 +22,12 @@ Before inoculating, several conditions must be met:
   After cooling, tighten the lids and store in a cool, draft-free place until ready
   to inoculate.
 
-- **The spore syringe must be shaken well.** This is critical — shaking redistributes
+- **The [[comparison-mushroom-liquid-culture-vs-spore-syringe]] must be shaken well.** This is critical — shaking redistributes
   the spores in the water carrier solution. Without adequate shaking, spores settle
   to the bottom and the inoculum will be unevenly distributed, potentially leaving
   some holes without viable spores.
 
-- **Tape is removed from both the syringe needle guard and the jar lid holes.**
+- **Tape is removed from both the syringe needle guard and the [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] holes.**
   The tape covering the needle holes on the jar lid was placed during sterilization
   to prevent contaminant entry. It must be removed before inoculation.
 
@@ -58,9 +58,9 @@ from the same syringe.
 
 Proper needle depth is critical for success. The needle tip must be positioned below
 the non-nutritive upper vermiculite barrier layer. If the spore solution is deposited
-into the dry vermiculite layer instead of the substrate, it will be absorbed by the
+into the [[dry-vermiculite-contaminant-barrier-pf-tek]] layer instead of the substrate, it will be absorbed by the
 non-nutritive material and the spores will not germinate because they lack access to
-the nutrients in the brown rice powder below.
+the nutrients in the [[brown-rice-powder]] below.
 
 If the syringe needle plugs up as it is inserted into the substrate, draw the needle
 back slightly and it will unplug. The needle should penetrate into the substrate
@@ -75,7 +75,7 @@ covered with tin foil), the inoculation technique requires extra care:
   when removing the needle after inoculation.
 - The underlying wet substrate must not be exposed to the air.
 - Any disturbed vermiculite should be carefully moved back into place to maintain
-  the contaminant barrier.
+  the [[pf-tek-dry-vermiculite-contaminant-barrier]].
 - After inoculation, the tin foil cover must be replaced immediately.
 
 It is recommended to master inoculation with punched lids first before attempting the

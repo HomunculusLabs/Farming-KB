@@ -20,7 +20,7 @@ sources:
 
 [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] (Hawaiian Baby Woodrose). All contain ergoline
 alkaloids in their seeds. Turbina corymbosa is often confused or
-synonymized with Ipomoea violacea in the literature, though the two
+synonymized with [[ipomoea-violacea]] in the literature, though the two
 are morphologically and chemically distinct species.
 
 ## Description
@@ -61,14 +61,14 @@ in tropical and subtropical forests, often climbing along forest edges,
 in secondary growth, and along watercourses. The vine prefers warm,
 humid conditions with well-drained soil and partial to full sun.
 
-The plant has been introduced to other tropical regions and is
+The plant has been introduced to other [[fukuoka-natural-farming-in-tropical-regions]] and is
 occasionally cultivated as an ornamental vine for its attractive white
 flowers. Its seeds have been distributed widely through ethnobotanical
 and horticultural channels.
 
 ## Chemistry
 
-The seeds of Turbina corymbosa contain ergoline alkaloids, a class of
+The seeds of Turbina corymbosa contain [[morning-glory-ergoline-alkaloids-chemistry]], a class of
 compounds structurally related to [[lysergic-acid-amide-containing-plants-halpern]] (LSA, also known as ergine)** — the dominant
   psychoactive alkaloid, producing effects qualitatively similar to
   LSD though considerably less potent.

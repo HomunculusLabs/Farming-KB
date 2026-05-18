@@ -2,10 +2,10 @@
 title: Puffball Fungi
 created: 2026-04-28
 tags:
-  - mycology
-  - basidiomycota
+  - [[mycology]]
+  - [[basidiomycota]]
   - gasteromycetes
-  - spore-dispersal
+  - [[spore-dispersal]]
   - fungal-fruiting-bodies
 date: 2026-04-28
 updated: 2026-04-28
@@ -18,7 +18,7 @@ type: concept
 
 Puffballs are a group of fungi belonging to the order Lycoperdales within
 the class Basidiomycota. They produce spores internally within enclosed
-fruiting bodies, classifying them among the gasteromycetes. Unlike
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], classifying them among the gasteromycetes. Unlike
 mushrooms with exposed gills, puffballs release their spores through a
 single opening or by disintegration of the [[symbiotic-fungi-piriformospora-indica]]
 - [[endophytic-fungi]]-and-plant-health
@@ -49,7 +49,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

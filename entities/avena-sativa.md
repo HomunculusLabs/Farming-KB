@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Welch, R.W. (1995). "The [[chemical-composition-of-hallucinogens]] oats." In The Oat Crop. Springer.
+  - Welch, R.W. (1995). "The chemical-composition-of-hallucinogens oats." In The Oat Crop. Springer.
   - Butt, M.S., Tahir-Nadeem, M., Khan, M.K.I., Shabir, R. & Butt, M.S. (2008). "Oat: unique among the cereals." European Journal of Nutrition, 47(2), 68-79.
   - FDA (1997). "Final rule: food labeling, health claims; oats and coronary psilocybe-cubensis-miniculture-production-data-and-flush-longevity for Avena sativa.
 ---

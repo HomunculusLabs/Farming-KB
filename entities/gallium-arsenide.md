@@ -11,7 +11,7 @@ tags: [chemical, semiconductor, iii-v-semiconductor, optoelectronics, compound-s
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/[[semiconductor-band-structure]].md
+  - /Users/t3rpz/wiki/concepts/semiconductor-band-structure.md
   - https://en.wikipedia.org/wiki/Gallium_arsenide
   - https://en.wikipedia.org/api/rest_v1/page/summary/Gallium_arsenide
 ---

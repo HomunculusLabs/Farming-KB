@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
+  - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. London: [[stropharia-cubensis-identification-and-natural-history]] Museum.
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). psilocybin-north-america-pacific-northwest. Yale University Press.
   - Wirth, V. (2010). Flechten Baden-Württembergs. Eugen Ulmer Verlag.
   - Nimis, P.L. & Martellos, S. (2008). ITALIC - The Information System on Italian Lichens. University of Trieste.
@@ -23,7 +23,7 @@ sources:
 **Lecanora muralis** (Schreb.) Rabenh. is a crustose to squamulose lichen
 in the family Lecanoraceae, commonly known as the **common wall lichen**.
 It is one of the most ubiquitous [[lichens]] in human-made environments,
-colonizing stone, concrete, and mortar surfaces in urban areas worldwide.
+colonizing stone, concrete, and mortar surfaces [[permaculture-in-urban-areas]] worldwide.
 
 The species is characterized by its circular, radiating squamules with
 white margins and brown to grey centres. Its tolerance of urban pollution
@@ -52,10 +52,10 @@ Spores are ellipsoid, colourless, simple, 10-16 × 6-9 µm. The species
 is frequently sterile in urban populations, reproducing primarily through
 soredia from marginal soralia.
 
-Chemically, the thallus contains **usnic acid** and **zeorin** as major
+Chemically, the thallus contains **[[usnic-acid]]** and **zeorin** as major
 [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate
 regions, occurring across Europe, [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]] s
-to the species' desiccation tolerance. Zeorin has demonstrated
+to the species' [[lichen-desiccation-tolerance-cavitation-ice-nucleation]]. Zeorin has demonstrated
 anti-inflammatory and cytotoxic activities in pharmacological screening.
 
 Additional minor compounds include **norstictic acid** and traces of
@@ -68,7 +68,7 @@ metabolites for potential pharmaceutical applications.
 
 ## Ecology and Environmental Role
 
-*Lecanora muralis* is a dominant member of the lichen communities on
+*Lecanora muralis* is a dominant member of the [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]] on
 urban stone surfaces, often forming extensive mats on walls, tombstones,
 and pavement. It plays a significant role in stone biodeterioration
 through physical penetration of substrate and chemical weathering.

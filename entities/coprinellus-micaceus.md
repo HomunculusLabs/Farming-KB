@@ -4,13 +4,13 @@ created: 2026-04-28
 type: species
 tags:
   - fungi
-  - basidiomycota
-  - agaricales
+  - [[basidiomycota]]
+  - [[agaricales]]
   - coprinoid
   - edible
   - saprotrophic
   - wood-decay
-  - mycology
+  - [[mycology]]
   - temperate
   - urban-mushroom
   - decomposer
@@ -54,9 +54,9 @@ compound causing disulfiram-like reactions in *[[spore-print]]**: Dark brown to 
 
 ### Habitat
 
-Obligate saprotroph on dead wood of broadleaf trees, particularly oak, beech,
+Obligate saprotroph on [[fungal-dead-wood-diversity]] of broadleaf trees, particularly oak, beech,
 elm, maple, and ash. Frequently fruits from buried roots or subsurface wood,
-making it appear to grow on soil or grass. Mycelium persists in buried wood
+making it appear to grow on soil or grass. [[mycelium]] persists in buried wood
 for years, producing repeated mushroom flushes.
 
 ### Growth Pattern

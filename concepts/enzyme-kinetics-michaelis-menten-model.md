@@ -89,6 +89,13 @@ The specificity constant kcat/Km is the second-order rate constant at low [S]
 (M^-1 s^-1). The diffusion limit is ~10^8 to 10^9 M^-1 s^-1, set by three-
 dimensional diffusion. Enzymes at this ceiling are catalytically perfect:
 
+## Integration with Broader Systems
+
+Individual practices and concepts gain power when integrated
+into holistic systems. Connections between components create
+synergies that exceed the sum of individual parts. Feedback
+loops, both reinforcing and balancing, govern system behavior.
+
 ## See Also
 - [[det]]
 - [[cannabis-acidobacteria-iii1-15-endorhiza-decline-two-tier-model]]

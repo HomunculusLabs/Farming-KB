@@ -1,5 +1,5 @@
 ---
-title: "Anandamide (AEA)"
+title: "[[anandamide]] (AEA)"
 created: 2026-04-28
 tags: [chemical, endocannabinoid, lipid-mediator, neuroscience]
 date: 2026-04-25

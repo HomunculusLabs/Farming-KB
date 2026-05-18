@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # gamma-2C-T-4
 
-PIHKAL entry #42. 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE).
+[[2c-b-pihkal-entry-20]] #42. 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE).
 
 ## Chemical Name
 
@@ -39,7 +39,7 @@ Here is another example of the presentation of a compound for which there has no
 - [[2c-g-4-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
-- Related compounds in the 2C-T series
+- [[lsd-structure-activity-relationships-related-compounds]] in the 2C-T series
 ## Practical Considerations
 
 When working with gamma-2C-T-4 -- 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE) -- PIHKAL Entry #42, several practical factors should be

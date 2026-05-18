@@ -1,5 +1,5 @@
 ---
-title: Mushroom Processing and Preservation Techniques
+title: [[mushroom-processing-recipes-waste-management]] and [[biodiversity-of-fungi-fungal-culture-preservation-techniques]]
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -16,7 +16,7 @@ sources:
 # Mushroom Processing and Preservation Techniques
 
 Because mushrooms are highly perishable, strategies for conservation and processing are
-essential for any mushroom farming enterprise. The FAO [[psilocybin-shelf-life-stability]] far beyond that of fresh produce.
+essential for any [[organic-mushroom-farming-and-mycoremediation-overview]] enterprise. The FAO [[psilocybin-shelf-life-stability]] far beyond that of fresh produce.
 
 ## The Need for Processing
 
@@ -40,7 +40,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

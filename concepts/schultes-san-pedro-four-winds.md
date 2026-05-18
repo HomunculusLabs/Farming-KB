@@ -1,10 +1,10 @@
 ---
-title: San san-pedro-cactus-history of the Four Winds
+title: San [[san-pedro-cactus-history]] of the Four Winds
 created: 2026-04-28
 tags:
   - ethnobotany
   - san-pedro
-  - mescaline
+  - [[mescaline]]
   - curanderismo
   - andean-ceremonies
 date: 2026-04-28

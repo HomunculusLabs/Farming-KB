@@ -1,5 +1,5 @@
 ---
-title: Casing Soil Techniques in The Mushroom Cultivator
+title: Casing Soil Techniques in [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,7 +13,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Casing is the practice of covering the colonized substrate surface with a layer of moist material having specific structural characteristics. Developed by Agaricus growers who found that [[duggar-mushroom-growing-history-and-methods]] methodology. It encourages fruiting and enhances yield potential in many, but not all, cultivated mushroom species.
+Casing is the practice of covering the colonized substrate surface with a layer of moist material having specific structural characteristics. Developed by Agaricus growers who found that [[duggar-mushroom-growing-history-and-methods]] methodology. It encourages fruiting and enhances yield potential in many, but not all, [[classification-of-cultivated-mushroom-species]].
 
 ## Casing Requirements by Species
 
@@ -39,15 +39,15 @@ In all species where casing is optional, yields are clearly enhanced with its ap
 1. **Protects from drying**: Mushroom mycelium is extremely sensitive to dry air. The casing layer shields the exposed cropping surface.
 2. **Provides humid microclimate**: The casing is where mycelium develops an extensive network supporting [[pf-tek-mushroom-growth-timeline]].
 3. **Water reservoir**: Enlargement of pinheads into mature mushrooms is strongly influenced by available water. The casing supplies this for heavy flushes.
-4. **Supports beneficial microorganisms**: Select groups of bacteria (especially Pseudomonas putida) in the casing result in increased primordia formation, earlier cropping, and higher yields.
+4. **Supports [[forest-and-bamboo-beneficial-microorganisms]]**: Select groups of bacteria (especially Pseudomonas putida) in the casing result in increased primordia formation, earlier cropping, and higher yields.
 
 ## Properties of Ideal Casing
 
 1. **Water Retention**: Must absorb and release substantial quantities of water for successive generations of fruitbodies
 2. **Structure**: Surface must be porous and open, with small moist cavities protecting developing primordia and allowing gas diffusion
-3. **Microflora**: Should support beneficial bacteria; sterilized casing lacks these and has little resistance to contaminants
+3. **Microflora**: Should support [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]; sterilized casing lacks these and has little resistance to contaminants
 4. **Low Nutritive Value**: A nutritive casing supports broader range of competitor molds -- wood fragments should be screened out
-5. **pH**: Agaricus brunnescens prefers 7.0-7.5; casing gradually falls to ~6.0 by end of cropping due to mycelial acids
+5. **pH**: [[agaricus-brunnescens]] prefers 7.0-7.5; casing gradually falls to ~6.0 by end of cropping due to mycelial acids
 6. **Hygienic Quality**: Must be free of pests, pathogens, nematodes, and insect larvae
 
 ## Casing Materials
@@ -57,7 +57,7 @@ In all species where casing is optional, yields are clearly enhanced with its ap
 Sphagnum peat has practically eliminated the use of soil in [[mazatec-mushroom-culture-and-velada]]:
 - Highly decomposed plant matter, pH 3.5-4.5 (acidic, which precludes many contaminants)
 - Coarse fibrous peat is preferred -- holds structure better than fine peat
-- Must be buffered with calcium carbonate to reach target pH
+- Must be buffered with [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] to reach target pH
 
 **Buffering Agents:**
 - **Limestone flour**: Most widely used in the US (97% CaCO3, <2% magnesium)

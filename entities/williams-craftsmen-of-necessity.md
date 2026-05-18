@@ -65,10 +65,10 @@ villages and fields alike.
 
 ## Relevance to Cultivation
 
-Provides one of the most compelling traditional food forest examples. Demonstrates
+Provides one of the most compelling traditional [[food-forest]] examples. Demonstrates
 stacking, shade succession, multiple yield, self-sustainability, and cultural
 integration. Directly inspired Mollison's food forest concepts and remains one
-of the most productive systems per unit area in arid regions.
+of the most productive systems per unit area [[fukuoka-natural-farming-in-arid-regions]].
 
 ## References
 

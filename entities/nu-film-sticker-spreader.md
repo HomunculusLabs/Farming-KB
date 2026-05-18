@@ -9,7 +9,7 @@ tags: [adjuvant, sticker-spreader, foliar-application, compost-tea, saponin]
 
 ## Description
 
-Nu-Film is a commercial sticker-spreader adjuvant used in [[actively-aerated-compost-tea]] (AACT) applications to improve the adhesion and coverage of beneficial microorganisms on leaf surfaces. It is classified as a saponin-based product, derived from natural plant compounds that reduce surface tension and improve film formation on plant foliage.
+Nu-Film is a commercial sticker-spreader adjuvant used in [[actively-aerated-compost-tea]] (AACT) applications to improve the adhesion and coverage of [[forest-and-bamboo-beneficial-microorganisms]] on leaf surfaces. It is classified as a saponin-based product, derived from natural plant compounds that reduce surface tension and improve film formation on plant foliage.
 
 ## Classification
 
@@ -63,24 +63,24 @@ Nu-Film is a commercial sticker-spreader adjuvant used in [[actively-aerated-com
 ## Cautions
 
 - Dormant oils should not be used as sticker-spreaders for AACT
-- Always test compatibility with specific compost tea recipes before large-scale application
+- Always test compatibility with specific [[compost-tea-recipes-and-ratios]] before large-scale application
 - Avoid application during bloom periods to prevent interference with pollination
 
 ## References
 
-- Elaine Ingham, PhD - The Field Guide I for Actively Aerated Compost Tea
+- Elaine Ingham, PhD - The Field Guide I for [[actively-aerated-compost-tea-basics]] Tea
 
 ## Application Guidelines
 
 - Recommended concentration rates for foliar spray tank mixing
 - Compatibility with biological inoculants and compost tea preparations
-- Temperature and humidity considerations for optimal film formation
+- [[greg-green-temperature-and-humidity-control]] considerations for optimal film formation
 - Re-application intervals after rainfall or irrigation events
 
 ## Environmental Considerations
 
-- Biodegradation timeline in soil and aquatic environments
-- Impact on non-target organisms including beneficial insects
+- Biodegradation timeline in soil and [[fungal-roles-aquatic-environments]]
+- Impact on non-target organisms including [[beneficial-insects-and-biological-pest-control]]
 - Regulatory status for organic certification compliance
 
 ## See Also

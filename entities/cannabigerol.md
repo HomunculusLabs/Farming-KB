@@ -7,7 +7,7 @@ title: "Cannabigerol"
 ## Overview
 
 **Cannabigerol** (CBG) is a non-psychoactive phytocannabinoid found in
-*[[cannabis-sativa]]* L. It serves as the biosynthetic precursor to all major
+*[[cannabis-sativa]]* L. It serves as the [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] to all major
 cannabinoids, including THC, CBD, and CBC, earning it the designation
 "mother cannabinoid" or "stem cell cannabinoid."
 
@@ -78,7 +78,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that

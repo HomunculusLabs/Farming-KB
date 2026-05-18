@@ -1,5 +1,5 @@
 ---
-title: Mental Contrasting Positivity Ratio Healing Blesching
+title: [[mental-contrasting-technique-for-goal-achievement]] Positivity Ratio Healing Blesching
 created: 2026-05-10
 tags: [psychology, mind-body-medicine, goal-achievement, positive-emotions, self-healing]
 source: "uwe-blesching-the-cannabis-health-index"

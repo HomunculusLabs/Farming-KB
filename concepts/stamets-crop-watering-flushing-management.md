@@ -15,7 +15,7 @@ type: concept
 ## Overview
 
 Once pinheads have matured into mushrooms, the crop enters the cropping phase
-where careful management of watering, temperature, humidity, and air exchange
+where careful management of watering, temperature, humidity, and [[growing-gourmet-growing-room-ventilation-air-exchange]]
 determines yield quality and total harvest. This phase encompasses multiple
 flushes of mushrooms and requires the cultivator to balance competing
 environmental demands throughout the cropping cycle.
@@ -26,17 +26,17 @@ During the [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. O
 temperature becomes the controlling factor. Each species has an optimum
 temperature for fruitbody development within a broader growing range.
 
-Lower temperatures can postpone or lengthen harvesting for quality control.
+Lower temperatures can postpone or lengthen harvesting for [[blesching-cannabis-contaminants-testing-quality-control]].
 High temperatures shorten cropping by promoting rapid flushes but risk heat
 buildup, CO2 generation, and faster insect and contaminant reproduction.
 
 Commercial [[agaricus]] growers commonly lower air temperature by 2 degrees F,
-48 hours prior to the peak of the first and second flushes. Later flushes are
+48 hours prior to the peak of the first and second flushes. [[psilocin-emergence-in-later-flushes]] are
 then run hotter to speed the crop to completion.
 
 ## Flushing Pattern
 
-The mushroom crop grows in cycles called flushes or "breaks." Depending on the
+The [[mushroom-crop-management-flush-harvesting]] grows in cycles called flushes or "breaks." Depending on the
 species, these flushes normally come in seven to ten day intervals with each
 successive flush bearing fewer mushrooms. The manner of flushing is determined
 during the pin initiation period.
@@ -65,7 +65,7 @@ close nozzle proximity to the casing should be avoided.
 
 ### Preventing Panning
 
-The goal is to keep the casing surface open and porous throughout the cropping
+The goal is to keep the [[abort-dead-pinhead-cleanup-casing-surface-hygiene]] open and porous throughout the cropping
 cycle. Putting on too much water at once is the most common cause of panning.
 By watering 2-4 times per day rather than just once, the casing can slowly
 absorb water without damage to the surface.
@@ -80,5 +80,5 @@ contaminants. Fill exposed holes with moist casing material.
 ## Bacterial Blotch Prevention
 
 One of the common contaminants in [[duggar-mushroom-growing-history-and-methods]] is Bacterial Blotch
-(Pseudomonas). Blotch results from mushroom caps that remain wet for extended
+(Pseudomonas). Blotch results from [[alkaloid-distribution-mushroom-caps-stems]] that remain wet for extended
 periods. Agaricus growers attempt to dry recently watered mushroom caps as

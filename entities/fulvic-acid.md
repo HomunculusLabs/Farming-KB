@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Fulvic acid is a low-molecular-weight humic substance that is soluble in water at all pH levels. It is one of the most biologically active components of humus, serving as both a nutrient chelator and a direct food source for beneficial soil microorganisms. In compost tea brewing, fulvic acid is listed as one of the key food resources for feeding beneficial organisms.
+Fulvic acid is a low-molecular-weight humic substance that is soluble in water at all pH levels. It is one of the most biologically active components of humus, serving as both a nutrient chelator and a direct food source for beneficial soil microorganisms. In [[compost-tea-brewing]], fulvic acid is listed as one of the key food resources for feeding beneficial organisms.
 
 ## Classification
 
@@ -18,7 +18,7 @@ Fulvic acid is a low-molecular-weight humic substance that is soluble in water a
 ## Key Facts
 
 - Fulvic acid is the fraction of humic substances that remains soluble under all pH conditions, making it highly bioavailable.
-- It acts as a natural chelator, binding to minerals and trace elements to improve their availability to plant roots and microorganisms.
+- It acts as a natural chelator, binding to minerals [[teaming-with-nutrients-micronutrients-and-trace-elements]] to improve their availability to plant roots and microorganisms.
 - Fulvic acid can penetrate cell membranes more easily than humic acid due to its smaller molecular size.
 - In the soil foodweb approach, fulvic acid is recommended alongside humic acid as a food source to feed beneficial fungi and other microorganisms.
 - Fulvic acid stimulates root growth and enhances nutrient uptake efficiency.
@@ -28,8 +28,8 @@ Fulvic acid is a low-molecular-weight humic substance that is soluble in water a
 ## Relevance to Cultivation and Mycology
 
 - Fulvic acid is used as a fungal food additive in compost tea brewing to promote beneficial fungal biomass growth.
-- When mycorrhizal colonization is between 15–40%, humic and fulvic acids can be applied to feed the fungal networks without requiring additional spore inoculation.
-- In mushroom substrate preparation, fulvic acid may enhance mycelial growth by improving nutrient availability.
+- When [[arbuscular-mycorrhizal-colonization-patterns]] is between 15–40%, humic and fulvic acids can be applied to feed the fungal networks without requiring additional spore inoculation.
+- In [[fungicide-treated-seed-hazard-mushroom-substrate-preparation]], fulvic acid may enhance mycelial growth by improving nutrient availability.
 - Fulvic acid is part of the recommended suite of microbial foods alongside humic acid, fish hydrolysate, molasses, and kelp.
 - It supports the development of soil aggregates by feeding the fungi that produce macroaggregate-binding glues.
 - Fulvic acid can help remediate soils damaged by excessive chemical fertilizer use by stimulating biological activity.
@@ -37,12 +37,12 @@ Fulvic acid is a low-molecular-weight humic substance that is soluble in water a
 
 ## Sources and References
 
-- Elaine Ingham, *The Field Guide I for Actively Aerated Compost Tea (AACT)*, 2001–2003
+- Elaine Ingham, *The Field Guide I for [[actively-aerated-compost-tea-overview]] Tea (AACT)*, 2001–2003
 - Soil Foodweb Inc. compost tea brewing guidelines
 
 ## Application Methods
 
-- Dilution rates and concentration guidelines
+- Dilution rates and [[jadam-concentration-guidelines]]
 - Foliar spray vs soil drench effectiveness comparison
 - Timing relative to plant growth stage
 

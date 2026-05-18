@@ -5,7 +5,7 @@ updated: 2026-04-24
 type: concept
 tags: [cannabis, seeds, breeding, cultivation]
 sources:
-  - "S.T. Oner - [[comparison-cannabis-sativa-vs-cannabis-indica]] Volume 3: The Essential Guide"
+  - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
 # [[oner-cannabis-phenotypes-genetic-expression]]

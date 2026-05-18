@@ -1,5 +1,5 @@
 ---
-title: Solomon Vegetable Nutritional Decline Trace Minerals
+title: Solomon [[soil-fertility-and-vegetable-nutritional-quality]] Decline [[dynamic-accumulator-plants-trace-minerals]]
 created: 2026-04-26
 tags:
   - gardening
@@ -31,7 +31,7 @@ See [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] thr
   re-select for nutrition. See
 ## Practical Applications
 
-Vegetable Nutritional Decline and Trace Minerals - Steve Solomon has a range of practical applications that make it relevant to
+Vegetable Nutritional Decline and Trace Minerals - [[steve-solomon-evidence-based-organic-gardening]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -46,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

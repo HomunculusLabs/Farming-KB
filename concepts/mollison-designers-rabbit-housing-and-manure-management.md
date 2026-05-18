@@ -1,5 +1,5 @@
 ---
-title: "mollison designers rabbit housing and manure management and Manure Management"
+title: "[[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] rabbit housing [[jadam-livestock-integration-and-manure-management]] and Manure Management"
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,10 +17,10 @@ type: concept
 
 # Rabbit Housing and Manure Management
 
-Bill Mollison's [[duck-keeping-guide-detailed]] design follows
+[[bill-mollison]]'s [[duck-keeping-guide-detailed]] design follows
 [[comparison-deep-litter-vs-hot-composting]] systems produce compost directly in the rabbit housing,
 reducing handling and transportation. The microbial activity in the
-litter generates warmth, which is valuable in cold climates. Mollison
+litter generates warmth, which is valuable [[query-how-do-i-grow-figs-in-cold-climates]]. Mollison
 notes that deep-litter rabbit housing produces some of the richest
 compost available, combining rabbit manure with carbonaceous bedding
 in ideal proportions.
@@ -30,7 +30,7 @@ in ideal proportions.
 Rabbit manure is among the most valuable animal manures for garden
 use. Mollison provides these characteristics:
 
-- **Nutrient content:** Approximately 2.0-2.4% nitrogen, 1.0-1.4%
+- **[[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]:** Approximately 2.0-2.4% nitrogen, 1.0-1.4%
   phosphorus, and 0.8-1.2% potassium (NPK), roughly equivalent to
   commercial poultry manure.
 

@@ -1,7 +1,7 @@
 ---
-title: "Comfrey vs Yarrow"
+title: "Comfrey vs [[yarrow]]"
 created: 2026-04-28
-tags: [comparison, dynamic-accumulators, companion-planting, herbs]
+tags: [comparison, [[dynamic-accumulators]], [[companion-planting]], herbs]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
@@ -9,7 +9,7 @@ type: comparison
 ---
 # Comfrey vs Yarrow
 
-[[comfrey]] and yarrow are both powerhouse permaculture plants, but they serve
+[[comfrey]] and yarrow are both powerhouse [[permaculture]] plants, but they serve
 different primary functions in the garden ecosystem. Comfrey is the biomass
 champion and potassium accumulator, while yarrow excels at attracting beneficial
 insects and providing medicinal value. Understanding their strengths helps you

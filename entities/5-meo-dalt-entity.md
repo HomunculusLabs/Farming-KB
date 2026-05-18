@@ -49,7 +49,7 @@ COc1ccc2[nH]c(CCN(C=CC)C=CC)c(C)c2c1
 ### Physical Properties
 - Appearance: White to off-white crystalline powder or freebase oil
 - Freebase form is an oily liquid at room temperature; commonly encountered as a hydrochloride or fumarate salt
-- Slightly soluble in water (as salt); soluble in ethanol, DMSO, and lipid solvents
+- Slightly soluble in water (as salt); soluble in [[ethanol]], DMSO, and lipid solvents
 
 ## Pharmacology
 

@@ -10,11 +10,11 @@ type: entity
 
 R. Gordon Wasson (1898–1986) was an American ethnomycologist and banker.
 
-He is credited with discovering the use of [[psilocybin-mushrooms]] in indigenous Mexican ceremonies.
+He is credited with discovering the use of [[psilocybin-mushrooms]] in [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] ceremonies.
 
 His 1957 *Life* magazine article "Seeking the Magic Mushroom" introduced psilocybin to the Western world.
 
-Wasson's work is listed as recommended reading in *The Psychedelic Experience*.
+Wasson's work is listed as recommended reading in *The [[leary-psychedelic-experience-bardo-mapping]]*.
 
 ## Classification
 
@@ -30,9 +30,9 @@ Wasson's work is listed as recommended reading in *The Psychedelic Experience*.
 
 2. He was a vice president of J.P. Morgan & Company — banking was his professional career.
 
-3. Together with his wife Valentina Pavlovna, he developed the field of ethnomycology.
+3. Together with his wife [[valentina-pavlovna-wasson]], he developed the field of ethnomycology.
 
-4. In 1955, Wasson traveled to Huautla de Jiménez, Oaxaca, Mexico, seeking mushroom ceremonies.
+4. In 1955, Wasson traveled to Huautla de Jiménez, Oaxaca, Mexico, seeking [[sacred-mushroom-ceremonies]].
 
 5. He became the first outsider to participate in a Mazatec velada (mushroom ceremony).
 
@@ -56,7 +56,7 @@ In 1955, guided by Mazatec informants, Wasson participated in a nighttime mushro
 
 He described the experience as overwhelming and transformative — encountering visions of "palaces and gardens."
 
-The subsequent *Life* article brought international attention to psilocybin mushrooms and indigenous shamanic practices.
+The subsequent *Life* article brought international attention to [[psilocybin-mushrooms-and-ecology]] indigenous shamanic practices.
 
 ## Impact on Ethnomycology
 
@@ -76,7 +76,7 @@ His 1957 article directly inspired Timothy Leary to seek out psilocybin mushroom
 
 Leary traveled to Mexico in 1960 and had his own transformative experience with psilocybin.
 
-This experience launched Leary's career in psychedelic research, ultimately leading to *The Psychedelic Experience*.
+This experience launched Leary's career in [[controlled-substances-act-and-psychedelic-research]], ultimately leading to *The Psychedelic Experience*.
 
 Wasson's work is listed as recommended reading for understanding the cultural and botanical context of psilocybin.
 

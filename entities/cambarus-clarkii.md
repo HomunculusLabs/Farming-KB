@@ -49,7 +49,7 @@ tags: [crustacean, aquaculture, freshwater, crayfish, permaculture]
 ## Relevance to Cultivation and Mycology
 - Crayfish pond sediments and waste contribute to organic matter accumulation useful for composting
 - The rice-crayfish dual-crop model parallels the integrated cultivation approach used in mushroom-crop systems
-- Detritivore function mirrors the decomposer role of fungi in nutrient cycling
+- Detritivore function mirrors the decomposer role of fungi [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
 - Burrowing and sediment turnover by crayfish parallels the substrate-colonising behaviour of [[mycelial-networks]]
 
 ## References
@@ -58,14 +58,14 @@ tags: [crustacean, aquaculture, freshwater, crayfish, permaculture]
 ## Practical Applications
 
 The study of cambarus clarkii has significant implications
-for sustainable agriculture and ecological management.
+[[mushroom-cultivation-for-sustainable-agriculture]] and [[solomon-gardening-aikido-pest-philosophy-ecological-management]].
 Practitioners can apply these principles to improve
 system resilience and productivity.
 
 ## Ecological Context
 
 Within broader ecological systems, cambarus clarkii
-interacts with multiple environmental factors. Understanding
+interacts with multiple [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Understanding
 these relationships is key to effective implementation
 and long-term sustainability of management practices.
 
@@ -78,7 +78,7 @@ practical implications for design and implementation.
 
 ## Design Applications
 
-In permaculture design, cambarus clarkii informs
+[[ecological-succession-in-permaculture-design]], cambarus clarkii informs
 decisions about system layout, species selection, and
-management strategies. Proper integration enhances overall
+[[forest-management-strategies]]. Proper integration enhances overall
 system resilience and productive capacity.

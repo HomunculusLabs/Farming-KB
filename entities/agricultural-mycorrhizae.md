@@ -3,7 +3,7 @@ title: Agricultural Mycorrhizae
 created: 2026-04-28
 type: species
 tags:
-  - mycology
+  - [[mycology]]
   - agriculture
   - symbiosis
   - soil-health
@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-[[pgpr-mycorrhizal-inoculants-microplant-establishment]] are available as powders, granules, or liquid suspensions containing AMF spores and hyphae. Best practices include:
+[[pgpr-mycorrhizal-inoculants-microplant-establishment]] are available as powders, granules, or liquid suspensions containing AMF spores and hyphae. [[arbuscular-mycorrhizal-inoculum-production-best-practices]] include:
 
 - Inoculate at planting or transplanting — colonization efficiency decreases as root systems mature
 - Minimize soil disturbance after inoculation to preserve hyphal networks

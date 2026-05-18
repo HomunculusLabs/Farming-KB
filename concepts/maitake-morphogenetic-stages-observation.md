@@ -1,5 +1,5 @@
 ---
-title: Maitake maitake morphogenetic stages observation and Visual Observation Guide
+title: Maitake maitake [[maitake-fruiting-body-morphogenetic-stages]] observation and Visual Observation Guide
 created: 2026-04-28
 tags:
   - maitake
@@ -48,7 +48,7 @@ period of metabolic activities.
 ## Fruiting Body Development Stages
 
 [[fruiting-body-development]] encompasses four distinct morphological
-stages: primordia, brain, cauliflower, and cluster flower.
+stages: primordia, brain, cauliflower, and [[maitake-cluster-flower-stage-and-harvest]].
 
 ### Stage 1: Primordia
 
@@ -57,7 +57,7 @@ sealed bags that have ventilation. These dark grayish black mounds
 develop into globular, ball-like primordia that are often dotted with
 exudates, sometimes light yellow in color. The exudates should not
 be wiped off, as they are part of normal development. Primordia
-continue to develop, leading to formation of fruiting bodies.
+continue to develop, leading to formation [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ### Stage 2: The Brain Stage
 

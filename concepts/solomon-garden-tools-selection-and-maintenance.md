@@ -1,5 +1,5 @@
 ---
-title: "solomon garden tools selection and maintenance Selection and Maintenance"
+title: "solomon [[garden-tools-selection]] and maintenance Selection and Maintenance"
 created: 2026-04-28
 tags: [tools, garden-equipment, hand-tools, maintenance]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 ---
 
 # [[garden-hand-tools-solomon]], provided they are high quality and properly sharpened.
-Garden magazines, [[solomon-garden-hoe-and-cultivation-techniques]], a bow rake, and a file to sharpen the shovel and hoe.
+Garden magazines, [[solomon-garden-hoe-and-cultivation-techniques]], a [[bow-rake-garden-tool]], and a file to sharpen the shovel and hoe.
 
 ## The Three Essential Tools
 
@@ -23,13 +23,13 @@ long cannot afford to be breaking one every other day, so professional
 quality tools, while not cheap, work out to be economical over months
 of use.
 
-**The combination shovel:** The combination shovel does what both the
+**The [[combination-shovel]]:** The combination shovel does what both the
 spade and the shovel do, but in one tool. The blade is somewhat pointed
 with a curved edge that is as effective as a spade for cutting into
 soil, but will move soil better than a spade. It can also scoop up and
 move loose materials like [[compost]] or sand.
 
-**The garden hoe:** The primary weeding and cultivation tool. Solomon
+**The [[garden-hoe-techniques-and-weeding]]:** The primary [[flame-weeding-and-cultivation]] tool. Solomon
 emphasizes that a sharp hoe transforms weeding from exhausting labor
 into quick, easy work. A dull hoe from the store will have you dripping
 with sweat in two minutes.

@@ -43,13 +43,13 @@ It is the ground of all being, beyond conceptual thought and dualistic perceptio
 
 8. Recognition of the Dharma-Kaya state is the highest spiritual attainment in the Tibetan tradition.
 
-9. The psychedelic experience, properly guided, aims to induce recognition of this primordial state.
+9. The [[leary-psychedelic-experience-bardo-mapping]], properly guided, aims to induce recognition of this primordial state.
 
 10. Failure to recognize the Dharma-Kaya leads to descent into the Second Bardo visions.
 
 ## Relevance to Psychedelic Studies
 
-In *The Psychedelic Experience*, Timothy Leary and colleagues map the Dharma-Kaya to the initial moments of ego-dissolution during a psychedelic session.
+In *The Psychedelic Experience*, [[timothy-leary]] and colleagues map the Dharma-Kaya to the initial moments of ego-dissolution during a [[psychedelic-session-instructions]].
 
 The First Bardo corresponds to the peak experience where pure consciousness manifests without the filter of ego.
 
@@ -57,13 +57,13 @@ The "Clear Light" of the Dharma-Kaya is analogous to the state of unconditioned 
 
 The manual instructs practitioners to recognize and merge with this light rather than fleeing from it.
 
-This represents the optimal outcome of a psychedelic journey — the direct recognition of the nature of mind.
+This represents the optimal outcome of a [[ketamine-psychedelic-journey-guide]] — the direct recognition of the nature of mind.
 
 The Dharma-Kaya is not a deity to be worshipped but a state to be realized through direct experiential knowledge.
 
 ## Relation to Other Entities
 
-- **Sambhoga-Kaya**: The second body, reflecting Dharma-Kaya's wisdom in five Dhyani Buddhas.
+- **Sambhoga-Kaya**: The second body, reflecting Dharma-Kaya's wisdom in five [[dhyani-buddhas]].
 - **Nirmana-Kaya**: The third body, the practical incarnate expression.
 - **Adi-Kaya**: Synonymous with Dharma-Kaya — primordial consciousness itself.
 - **Clear Light**: The experiential manifestation of Dharma-Kaya in the First Bardo.
@@ -94,6 +94,6 @@ This is described as the most blissful and most terrifying moment — blissful i
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.
 - Lama Kazi Dawa-Samdup (translator). *Bardo Thodol*.
 - [[lama-anagarika-govinda]]. *Foundations of Tibetan Mysticism*.

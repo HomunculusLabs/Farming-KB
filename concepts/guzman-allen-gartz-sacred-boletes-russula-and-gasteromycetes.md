@@ -50,7 +50,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Sacred Boletes Russula and Gasteromycetes. These include both technical difficulties and broader systemic
+[[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]] and Gasteromycetes. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
@@ -72,10 +72,10 @@ The greatest value from this topic often comes through integration
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] and research directions.
 
 ## See Also
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]

@@ -1,5 +1,5 @@
 ---
-title: MushWorld Oyster growing-gourmet-sawdust-spawn-production-use Guide
+title: [[mushworld-oyster-cultivation-case-studies-developing-countries]] growing-gourmet-sawdust-spawn-production-use Guide
 tags:
   - mushroom-cultivation
   - oyster-mushroom
@@ -18,7 +18,7 @@ type: concept
 
 # MushWorld Oyster Spawn Production Guide
 
-A comprehensive guide to producing [[comparison-grain-spawn-vs-grain-to-grain-transfer]], as described in the MushWorld Mushroom Growers' Handbook 1. Spawn is to mushroom what seed is to crop, and its quality is one of the most decisive factors for successful cultivation.
+A [[allen-australian-psilocybe-species-comprehensive-guide]] to producing [[comparison-grain-spawn-vs-grain-to-grain-transfer]], as described in the MushWorld [[enterprise-development-mushroom-growers]]' Handbook 1. Spawn is to mushroom what seed is to crop, and its quality is one of the most decisive factors for successful cultivation.
 
 ## Overview of Spawn Types
 
@@ -41,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

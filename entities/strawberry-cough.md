@@ -70,11 +70,11 @@ modern cannabis market.
 ## Terpene Profile
 
 - **[[myrcene]]:** Dominant — contributes to relaxing body effects and herbal aroma
-- **Pinene:** Present — adds pine notes and may promote alertness and focus
-- **Limonene:** Moderate — enhances mood elevation and contributes citrus brightness
+- **[[pinene]]:** Present — adds pine notes and may promote alertness and focus
+- **[[limonene]]:** Moderate — enhances mood elevation and contributes citrus brightness
 - **Caryophyllene:** Present — adds subtle peppery spice and potential
   anti-inflammatory properties
-- **Linalool:** Trace — complements the smooth, calming character of the strain
+- **[[linalool]]:** Trace — complements the smooth, calming character of the strain
 
 ## Medical Applications
 

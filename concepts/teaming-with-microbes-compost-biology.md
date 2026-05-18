@@ -1,5 +1,5 @@
 ---
-title: Compost Biology and the Soil Food Web - Teaming with Microbes
+title: [[compost-biology-organisms]] and the Soil Food Web - [[teaming-with-microbes-actinomycetes]]
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Compost is a concentrated universe of [[teaming-with-microbes-overview]]) along with additional fungi.
 
-**Temperature management:**
+**[[cervantes-reservoir-temperature-management]]:**
 - A properly made pile reaches 135F (57C) in 24-72 hours and 150F (65C) in three days
 - Maintain 140-150F for at least a few days to kill pathogens
 - At 150F, weed seeds are destroyed
@@ -22,7 +22,7 @@ Compost is a concentrated universe of [[teaming-with-microbes-overview]]) along 
 
 ### Stage 3: Maturation (Cooling)
 
-Mesophilic organisms reassert themselves. [[mulching-guide]]
+[[mesophilic-organisms]] reassert themselves. [[mulching-guide]]
 - [[teaming-with-microbes-fb-ratio]]
 
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

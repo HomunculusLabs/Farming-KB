@@ -14,8 +14,8 @@ A spreader bank is an earthwork designed to spill a thin sheet of surplus (overf
 ## Classification
 
 - **Category**: Water management earthwork
-- **Function**: Sheet flow distribution and erosion prevention
-- **Design lineage**: Permaculture earthworks / surface irrigation
+- **Function**: Sheet flow distribution [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]
+- **Design lineage**: [[permaculture-earthworks]] / surface irrigation
 
 ## Design Specifications
 
@@ -49,8 +49,8 @@ A spreader bank is an earthwork designed to spill a thin sheet of surplus (overf
 Spreader banks are a key permaculture earthwork for distributing water across the landscape without causing erosion. Their primary agricultural relevance includes:
 
 - **Surface irrigation** of pastures, crops, and forestry without energy-intensive pumped systems
-- **Erosion control** in semi-arid landscapes where concentrated water flow causes gullying
-- **Wildfire management** when combined with dam systems and remotely operated spill gates
+- **[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]** in semi-arid landscapes where concentrated water flow causes gullying
+- **[[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]** when combined with dam systems and remotely operated spill gates
 - **Salt flushing** from soils by spreading fresh floodwater evenly across affected land
 
 The system is particularly effective when gravity-fed, requiring no pumps or energy inputs once constructed. Mollison notes that with plastic flag gates, one or two people can water 200-240 ha (400-600 acres) in a morning using these systems.
@@ -58,14 +58,14 @@ The system is particularly effective when gravity-fed, requiring no pumps or ene
 ## Practical Applications
 
 Spreader Bank finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 
 ## Ecological Context
 
 Understanding spreader bank within broader ecosystem dynamics reveals
-interconnections with nutrient cycling, energy flow, and species interactions.
+interconnections with [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], energy flow, and species interactions.
 These relationships inform regenerative design strategies that work with
 natural processes rather than against them.
 

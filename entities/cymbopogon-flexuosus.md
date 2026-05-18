@@ -10,7 +10,7 @@ tags:
   - malabar-lemongrass
   - essential-oil
   - citral
-  - companion-planting
+  - [[companion-planting]]
   - pest-deterrent
   - medicinal-herb
   - culinary-herb
@@ -66,7 +66,7 @@ The essential oil is steam-distilled from fresh or dried aerial parts, yielding
 
 - **Citral** (75–85%): A mixture of geranial (citral A, ~40–50%) and neral
   (citral B, ~30–40%). This is the primary aromatic and bioactive component.
-- **Myrcene** (10–20%): Monoterpene contributing to the fresh green aroma.
+- **[[myrcene]]** (10–20%): Monoterpene contributing to the fresh green aroma.
 - **[[linalool]]** (trace), **[[limonene]]** (trace).
 - Minor constituents: farnesol, nerol, methyl heptenone.
 
@@ -77,4 +77,4 @@ the synthesis of ionones, vitamin A, and retinol.
 ## Uses
 
 **Culinary:** Less commonly used in cooking than *C. citratus*, but employed in
-South Indian, Sri Lankan, and Burmese cuisines. The fresh leaves are bruised and
+[[cannabis-strain-south-indian-landrace-autofem-oner]], Sri Lankan, and Burmese cuisines. The fresh leaves are bruised and

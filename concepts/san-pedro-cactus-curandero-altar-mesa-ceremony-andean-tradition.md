@@ -1,5 +1,5 @@
 ---
-title: San Pedro Cactus Curandero Altar Ceremonies in the Andes
+title: [[mescaline-peyote-san-pedro-cactus]] Curandero Altar Ceremonies in the Andes
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [san-pedro, curandero, andes, peru, entheogenic-ceremony, altar, mescaline]
 created: 2026-05-10
@@ -9,7 +9,7 @@ created: 2026-05-10
 
 ## Overview
 
-The ceremonies of the San Pedro cactus ([[trichocereus-pachanoi]]) in the Andean regions of South America represent
+The ceremonies of the San Pedro cactus ([[trichocereus-pachanoi]]) in the Andean regions of [[guzman-psilocybin-mushrooms-south-america]] represent
 one of the oldest continuously practiced entheogenic traditions in the
 world. Metzner describes how these ceremonies are sometimes conducted
 around a fire with singing, similar to other shamanic traditions, but
@@ -33,8 +33,8 @@ contexts, [[halpern-sacramental-peyote-and-native-american-church]].
 ## The Curandero: Andean Healing Practitioner
 
 The curandero is the traditional healer who leads San Pedro ceremonies.
-Unlike the formally structured roles of the Native American Church
-roadman or the Brazilian ayahuasca church maestres, the curandero
+Unlike the formally structured roles of the [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
+roadman or the [[brazilian-ayahuasca-churches]] church maestres, the curandero
 operates within a more flexible and individually oriented healing
 tradition. Each curandero develops their own ceremonial style while
 working within established Andean healing traditions.

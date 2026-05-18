@@ -1,9 +1,9 @@
 ---
-title: cannabis-nutrient-lockout-and-ph in Cannabis
+title: [[cannabis-nutrient-lockout-and-ph]] in Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Cervantes - Marijuana Horticulture"
+  - "Cervantes - [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]"
 type: concept
 tags: [nutrients]
 ---
@@ -18,7 +18,7 @@ Nutrient lockout is a condition where one or more essential nutrients cannot be 
 
 - **Incorrect pH**: The most common cause — pH outside the optimal range changes the chemical form of nutrients
 - **Nutrient antagonism**: Excess of one nutrient makes another unavailable
-- **[[jadam-salt-accumulation-in-soil]] in the growing medium locks up nutrients
+- **[[jadam-salt-accumulation-in-soil]] in the [[cervantes-green-algae-growing-medium]] locks up nutrients
 - **Chemical precipitation**: Nutrients combine into insoluble compounds
 
 ## pH-Related Lockout

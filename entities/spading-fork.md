@@ -8,11 +8,11 @@ type: entity
 
 ## Description
 
-A spading fork (digging fork) is a garden digging tool with multiple sturdy tines instead of a solid blade. It is designed to loosen compacted soil by inserting tines and levering back, breaking up the earth without inverting soil layers. Spading forks are most effective on naturally loose (sandy) soils and are less suitable for heavy clay. Short-handled versions are described by Solomon as "an instrument of torture" for tall users.
+A spading fork (digging fork) is a garden digging tool with multiple sturdy tines instead of a solid blade. It is designed to loosen compacted soil by inserting tines and levering back, breaking up the earth without inverting soil layers. Spading forks are most effective on naturally loose (sandy) soils and are less suitable [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]. Short-handled versions are described by Solomon as "an instrument of torture" for tall users.
 
 ## Classification
 
-- **Category:** Garden hand tool
+- **Category:** [[garden-hand-tools]] tool
 - **Type:** Tined digging implement
 - **Primary use:** Soil loosening, turning, mixing amendments
 - **Best soil type:** Sandy or loamy soils
@@ -36,11 +36,11 @@ A spading fork (digging fork) is a garden digging tool with multiple sturdy tine
 
 ## Relevance to Cultivation and Mycology
 
-- **Bed preparation:** Excellent for loosening soil in established mushroom bed sites with light soil
+- **[[azurescens-outdoor-bed-preparation-woodchips]]:** Excellent for loosening soil in established [[falconer-mushroom-bed-boxing-and-protection]] sites with light soil
 - **Compost turning:** Fork design excels at turning and aerating compost piles
-- **Substrate mixing:** Can mix bulk substrate materials more effectively than solid-blade tools
+- **Substrate mixing:** Can mix bulk [[growing-gourmet-substrate-materials-wood-types]] more effectively than solid-blade tools
 - **Minimal soil inversion:** Preserves soil stratification and [[mycorrhizal-networks]] better than solid tools
-- **[[mycelium]]-friendly:** Tined design causes less mycelial damage when working in areas with established fungal networks
+- **[[mycelium]]-friendly:** Tined design causes less mycelial damage when working in areas with established [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 
 ## See Also
 

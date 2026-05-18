@@ -43,7 +43,7 @@ Together, they provide a complete map of consciousness from formless void to emb
 
 9. Lama Govinda's *Foundations of Tibetan Mysticism* provides extensive commentary on the Tri-Kaya.
 
-10. Understanding the Tri-Kaya is essential for navigating the psychedelic experience as a spiritual journey.
+10. Understanding the Tri-Kaya is essential for navigating the [[leary-psychedelic-experience-bardo-mapping]] as a spiritual journey.
 
 ## The Three Bodies in Detail
 
@@ -55,9 +55,9 @@ It is the source from which the other two bodies emanate.
 
 ### Sambhoga-Kaya
 
-The radiant expression of enlightenment through archetypal forms — the five Dhyani Buddhas and their retinues.
+The radiant expression of enlightenment through archetypal forms — the five [[dhyani-buddhas]] and their retinues.
 
-It includes both peaceful and wrathful deity visions.
+It includes both [[leary-peaceful-and-wrathful-visions]] deity visions.
 
 ### Nirmana-Kaya
 
@@ -69,9 +69,9 @@ It represents the challenge of embodying transcendental insight in everyday life
 
 The Tri-Kaya provides the fundamental structural framework for *The Psychedelic Experience*.
 
-Leary, Metzner, and Alpert used this three-fold model to organize their psychedelic session manual.
+Leary, Metzner, and Alpert used this three-fold model to organize their [[psychedelic-session-instructions]] manual.
 
-Each Bardo instruction corresponds to a specific Kaya and a specific phase of the drug experience.
+Each [[bardo-instruction-texts-psychedelic-sessions]] corresponds to a specific Kaya and a specific phase of the drug experience.
 
 The Tri-Kaya demonstrates the profound convergence between Tibetan contemplative psychology and psychedelic phenomenology.
 
@@ -88,7 +88,7 @@ It offers a non-Western, non-pathological framework for understanding ego-dissol
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.
 - [[lama-anagarika-govinda]]. *Foundations of Tibetan Mysticism*.
 - Lama Kazi Dawa-Samdup (translator). *Bardo Thodol*.
 

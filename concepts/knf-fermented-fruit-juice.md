@@ -1,5 +1,5 @@
 ---
-title: KNF Fermented Fruit Juice
+title: KNF [[bionutrients-lab-fermented-fruit-juice-ffj]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,28 +11,28 @@ sources:
 
 # KNF Fermented Fruit Juice (FFJ)
 
-Fermented Fruit Juice is made by extracting plant juice using osmotic pressure from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
+Fermented Fruit Juice is made by extracting plant juice using [[fungal-fruiting-body-mechanics-osmotic-pressure]] from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
 
 ## Purpose and Effects
 
 - Promotes plant growth through bio-active substances and natural hormones
 - Enzymes in FFJ help manufacturing of nutrients for plant growth
 - Supports microorganisms in the soil
-- Different fruits provide different benefits based on their growing season
+- Different fruits provide different benefits based on their [[extending-growing-season]]
 
 ## Selecting Fruits
 
-Choose fruits appropriate to the plant's growth stage:
+Choose fruits appropriate to the plant's [[cannabis-growth-stage-checklist]]:
 
 | Season | Recommended Fruits |
 |--------|-------------------|
-| Spring (growing period) | Mulberry, strawberry, grape, raspberry, apple |
+| Spring ([[mushroom-growing-period-and-crop-management]]) | Mulberry, strawberry, grape, raspberry, apple |
 | Summer (fast growth) | Cherry, tomato, apricot, peach, persimmon, watermelon |
 | Autumn (flowering/fruiting) | Mango, banana, apple, grape, pineapple, papaya |
 
 - Banana peel FFJ: very effective for fruiting/flowering plants
 - Tomato FFJ: good for leafy growth
-- Mango FFJ: excellent for flowering stage
+- Mango FFJ: excellent for [[cannabis-flowering-stage]]
 - Papaya FFJ: contains lots of enzymes
 
 ## Best Time to Pick

@@ -89,6 +89,13 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+## Identification Tips
+
+Accurate identification requires examining multiple morphological
+features including cap shape, gill structure, spore print color,
+and habitat. Microscopic examination of spores provides definitive
+identification for many closely related species.
+
 ## See Also
 - [[doc]]
 - [[dom]]

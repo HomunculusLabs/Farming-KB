@@ -1,5 +1,5 @@
 ---
-title: "Falconer on Who Should Grow Mushrooms"
+title: "Falconer on Who Should [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]"
 created: 2026-04-28
 tags:
   [

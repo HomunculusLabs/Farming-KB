@@ -2,7 +2,7 @@
 title: Solomon comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques Guide
 created: 2026-04-18
 updated: 2026-04-18
-sources: Gardening When It Counts ([[steve-solomon-evidence-based-organic-gardening]])
+sources: Gardening When It Counts (steve-solomon-evidence-based-organic-gardening)
 tags: seed-saving, germination, plant-breeding
 type: concept
 ---

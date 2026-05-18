@@ -86,6 +86,13 @@ that ordinarily remains inaccessible.
 
 McKenna places translinguistic objects within the concept of the
 
+## Integration with Broader Systems
+
+Individual practices and concepts gain power when integrated
+into holistic systems. Connections between components create
+synergies that exceed the sum of individual parts. Feedback
+loops, both reinforcing and balancing, govern system behavior.
+
 ## See Also
 
 - [[the-logos-and-translinguistic-matter]]

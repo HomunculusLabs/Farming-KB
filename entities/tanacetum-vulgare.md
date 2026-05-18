@@ -12,7 +12,7 @@ tags:
   - insect-repellent
   - [[companion-planting]]
 sources:
-  - "Foster, S. & Duke, J.A. (1990). A [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin."
+  - "Foster, S. & Duke, J.A. (1990). A ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin."
   - "Mabey, R. (1996). Flora Britannica. Sinclair-Stevenson."
   - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]], 2nd ed. CRC Press."
   - "Stoilov, I. et al. (2005). \"Traditional medicinal plants of Bulgaria.\" Fitoterapia, 76(3–4), 273–281."

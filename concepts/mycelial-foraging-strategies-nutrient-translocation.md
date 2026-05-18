@@ -1,5 +1,5 @@
 ---
-title: Mycelial Foraging Strategies Nutrient Translocation
+title: Mycelial [[fungal-foraging-strategies-heterogeneous-environments]] [[dighton-fungal-nutrient-translocation-element-redistribution]]
 created: 2026-04-26
 tags:
   - mycology
@@ -30,7 +30,7 @@ Basidiomycetes are the major agents of decomposition and [[dighton-fungi-acidify
 and redistribution across the entire colony.
 
 The distribution of resources in soil is extremely heterogeneous and
-unpredictable in space and time. Fungi have evolved species-specific
+unpredictable in [[niche-in-space-and-time]]. Fungi have evolved species-specific
 strategies to search for new resources and capitalize on resources landing
 on their mycelial systems. These foraging strategies can be broadly
 classified into patterns of search, capture, and redistribution that differ
@@ -65,12 +65,12 @@ yet fully known but are thought to include:
   pressure gradients within the mycelial network.
 - **Diffusion**: passive movement of solutes along concentration gradients.
 - **Cytoplasmic streaming**: active movement of cytoplasm within hyphae.
-- **Vesicular transport**: specific transport of nutrients in membrane-bound
+- **Vesicular transport**: specific [[membrane-transport-of-nutrients-into-plant-cells]] in membrane-bound
   vesicles.
-- **Vacuolar transport**: the dynamic pleiomorphic vacuolar system in
+- **[[mycelial-nutrient-translocation-and-vacuolar-transport]]**: the dynamic pleiomorphic vacuolar system in
   [[gadd-hyphal-tip-growth-and-branching-mechanisms]] to a series of
 larger, more spherical, adherent vacuoles interconnected with fine tubes in
-mature hyphal regions. Fluorescence recovery after photobleaching (FRAP)
+mature hyphal regions. [[fluorescence-recovery-after-photobleaching]] photobleaching (FRAP)
 studies have demonstrated that diffusion alone can explain observed
 transport within vacuolar compartments.
 

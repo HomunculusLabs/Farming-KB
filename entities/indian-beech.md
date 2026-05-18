@@ -1,5 +1,5 @@
 ---
-title: "permaculture-neem-and-indian-beech-utility-trees"
+title: "[[permaculture-neem-and-indian-beech-utility-trees]]"
 created: 2026-04-28
 tags: [species, plant, tree, nitrogen-fixer, multipurpose]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Species (Plant)
 **Category:** Leguminous [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], livestock fodder,
-industrial oil production, [[agroforestry]].
+industrial [[cannabis-honey-oil-production]], [[agroforestry]].
 
 ## See Also
 - [[acacia]]
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

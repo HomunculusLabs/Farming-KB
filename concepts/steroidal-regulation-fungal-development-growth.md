@@ -5,8 +5,8 @@ tags:
   - steroid-regulation
   - fungal-development
   - steroidal-signaling
-  - mycology
-  - brassinosteroids
+  - [[mycology]]
+  - [[brassinosteroids]]
   - phytohormones
   - eukaryotic-signaling
   - cross-kingdom
@@ -21,7 +21,7 @@ type: concept
 
 The demonstration by Gartz, Adam and Vorbrodt (1990) that a plant
 steroidal hormone, 22S,23S-[[homobrassinolide]], profoundly affects the
-growth and development of [[accessible-mushroom-cultivation-for-disabilities]] and new insights into eukaryotic signaling
+[[cytokinin-plant-growth-and-development]] of [[accessible-mushroom-cultivation-for-disabilities]] and new insights into eukaryotic signaling
 evolution.
 ## Related Concepts
 
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

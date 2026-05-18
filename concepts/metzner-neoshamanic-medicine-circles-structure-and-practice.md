@@ -1,5 +1,5 @@
 ---
-title: "metzner neoshamanic medicine circles structure and practice Circles — Structure and Practice"
+title: "[[metzner-neoshamanic-medicine-circles]] circles [[ayahuasca-ceremony-structure-and-practice]] Circles — Structure and Practice"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 type: concept
 tags: [metzner, neoshamanism, medicine-circle, entheogenic-ceremony, hybrid-therapy, circle-ritual]
@@ -13,7 +13,7 @@ tags: [metzner, neoshamanism, medicine-circle, entheogenic-ceremony, hybrid-ther
 medicine circles" — hybrid ritual forms that blend elements of traditional
 [[psilocybin-north-america-pacific-northwest]], involving several
 hundred participants, many of them repeatedly. His analysis provides the most
-detailed ethnographic account available of contemporary Western entheogenic
+detailed [[mazatec-mushroom-ceremony-roman-estrada-ethnographic-account]] available of contemporary Western entheogenic
 practice outside of organized religious contexts.
 
 ## Definition and Context
@@ -40,7 +40,7 @@ most neoshamanic medicine circles:
   traditional shaman (ceremony leader, singer) and the Western therapist
   (facilitator, holder of space).
 
-- **Low-light environment**: A preference for semidarkness or low light
+- **Low-light environment**: A preference for semidarkness or [[darkness-low-light-facilitation-entheogenic-ceremonies]]
   facilitates the emergence of visions. Eye-shades are sometimes used to
   deepen the interior focus.
 

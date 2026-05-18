@@ -14,7 +14,7 @@ Most seed sold in stores is faltering only two years after harvest. Growing your
 
 1. **Fresh seed germinates reliably** — your neighbors will buy it eagerly because they know it will come up
 2. **Uniform crop** — seed from hand-selected roots produces a uniform crop
-3. **Income opportunity** — selling extra seed at the local garden center can earn enough to pay for all the seed you wish to buy
+3. **Income opportunity** — selling extra seed at the local [[garden-center-transplant-pitfalls]] can earn enough to pay for all the seed you wish to buy
 
 ## Growing Details
 
@@ -57,7 +57,7 @@ Parsnip flavor improves after they go through some stiff frosts. This is why the
 
 Save seed as you would for carrots:
 - Parsnips are biennial and insect-pollinated
-- To avoid inbreeding depression, use at least 25 roots in the seed crop
+- To avoid [[cervantes-hybrid-vigor-inbreeding-depression]], use at least 25 roots in the seed crop
 - Grow seed from carefully hand-selected roots that show exactly the traits you desire
 - Select the strongest and largest seed from the main central flowers
 - The seed falls from the flowers when fully dry, much as dill seed does
@@ -67,7 +67,7 @@ Save seed as you would for carrots:
 ## Culinary Uses
 
 - Roasted parsnips are a classic preparation
-- They can be mashed like potatoes, often with butter and maple syrup
+- They can be mashed like potatoes, often with butter and [[maple-syrup-production]]
 - Parsnip soup is rich and creamy
 - Grated raw parsnip can be used in slaws
 - The flavor is sweet, nutty, and complex — especially after frost
@@ -79,7 +79,7 @@ Save seed as you would for carrots:
 - [[seed-storage-and-preservation]]
 
 ## Summary and Key Takeaways
-Understanding the core principles discussed above provides
+Understanding the [[permaculture-core-principles]] discussed above provides
 a foundation for practical application. Key points to remember
 include the importance of observation, adaptation to local
 conditions, and integration with complementary practices.

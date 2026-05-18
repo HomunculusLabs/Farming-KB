@@ -39,19 +39,19 @@ It is the state of pure consciousness before any distinction between subject and
 
 6. Adi-Kaya consciousness transcends all categories, all concepts, all forms of dualistic thought.
 
-7. It is the "ground luminosity" that manifests at the moment of death in the Bardo Thodol.
+7. It is the "ground luminosity" that manifests at the moment of death in [[the-bardo-thodol-as-living-guide]].
 
 8. In the Tibetan system, the Adi-Buddha (primordial Buddha) embodies this Adi-Kaya principle.
 
-9. The psychedelic experience can temporarily reveal the Adi-Kaya state through ego-dissolution.
+9. The [[leary-psychedelic-experience-bardo-mapping]] can temporarily reveal the Adi-Kaya state through ego-dissolution.
 
 10. Recognition of Adi-Kaya is considered liberation — the direct knowing of the nature of mind.
 
 ## Relevance to Psychedelic Studies
 
-In *The Psychedelic Experience*, the Adi-Kaya corresponds to the deepest level of ego-loss attainable through psychedelic substances.
+In *The Psychedelic Experience*, the Adi-Kaya corresponds to the deepest level of ego-loss attainable through [[psychedelic-substances-comparison]].
 
-At the peak of a high-dose psychedelic session, the ordinary sense of self can dissolve entirely.
+At the peak of a high-dose [[psychedelic-session-instructions]], the ordinary sense of self can dissolve entirely.
 
 What remains is pure awareness without content — the Adi-Kaya state of unmodified consciousness.
 
@@ -61,7 +61,7 @@ The manual instructs practitioners to rest in this recognition rather than grasp
 
 The Adi-Kaya perspective reframes psychedelic ego-dissolution not as pathology but as potential liberation.
 
-The challenge is that most practitioners fail to recognize this state and instead fall into Second Bardo hallucinations.
+The challenge is that most practitioners fail to recognize this state and instead fall into [[second-bardo-hallucinations-introduction]].
 
 ## Relation to Other Entities
 
@@ -94,6 +94,6 @@ This understanding transforms the peak psychedelic experience from a terrifying 
 ## Sources
 
 - Leary, T., Metzner, R., & Alpert, R. (1964). *The Psychedelic Experience*.
-- Evans-Wentz, W.Y. (1927). *The Tibetan Book of the Dead*.
+- Evans-Wentz, W.Y. (1927). *[[jung-and-the-tibetan-book-of-the-dead]] of the Dead*.
 - Lama Kazi Dawa-Samdup (translator). *Bardo Thodol*.
 - [[lama-anagarika-govinda]]. *Foundations of Tibetan Mysticism*.

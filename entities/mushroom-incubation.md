@@ -9,19 +9,19 @@ tags: [mycology, cultivation, incubation, colonization, mycelial-growth]
 
 ## Description
 
-Mushroom incubation is the phase [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] to allow mushroom mycelium to fully colonize the substrate before fruiting is initiated. During incubation, the mycelium grows throughout the substrate, digesting the organic material and building the biological foundation necessary for mushroom production. This phase is distinct from the fruiting phase and requires different environmental conditions — primarily warmer temperatures, higher CO2 levels, and minimal light.
+Mushroom incubation is the phase [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] to allow mushroom mycelium to fully colonize the substrate before fruiting is initiated. During incubation, the mycelium grows throughout the substrate, digesting the organic material and building the biological foundation necessary for [[stamets-stump-cultivation-mushroom-production-forestry]]. This phase is distinct from the fruiting phase and requires different environmental conditions — primarily warmer temperatures, higher CO2 levels, and minimal light.
 
 ## Classification
 
-- **Category**: Mushroom cultivation process phase
+- **Category**: [[accessible-mushroom-cultivation-for-disabilities]] process phase
 - **Type**: [[mushroom-training-incubation-management]] — particularly temperature and hygiene monitoring — is essential for achieving profitable yields.
 
 For farmers with disabilities, the incubation phase requires monitoring skills rather than physical labor, making it highly accessible. The primary tasks are observation, record-keeping, and environmental management (adjusting ventilation, humidity), all of which can be performed from a wheelchair or with limited mobility.
 
 ## See Also
 
-- Mushroom Inoculation
-- Mushroom Substrate Bags
+- [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]]
+- [[mushroom-substrate-bags]]
 - [[mushroom-troubleshooting]]
 
 ## Environmental Control Priorities
@@ -40,7 +40,7 @@ The 15-30 day range is a training guideline, not a fixed biological law.
 
 Oyster mushrooms may colonize quickly under good conditions, while other species or dense substrates may require more time.
 
-Spawn rate, substrate particle size, moisture level, and inoculation technique all influence speed.
+Spawn rate, substrate particle size, moisture level, [[pf-tek-steam-sterilization-and-inoculation-technique]] all influence speed.
 
 The practical goal is complete, clean colonization rather than racing toward fruiting.
 
@@ -67,7 +67,7 @@ If colonization is incomplete, fruiting may be weak, contaminated, or uneven.
 
 ## Training Connections
 
-The incubation phase connects laboratory work, substrate preparation, and fruiting management.
+The incubation phase connects laboratory work, [[bulk-substrate-preparation]], and fruiting management.
 
 Clean cultures from [[mushroom-training-incubation-management]], while problems are diagnosed through [[mushroom-troubleshooting]].
 

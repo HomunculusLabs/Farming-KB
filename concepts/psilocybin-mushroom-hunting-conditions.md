@@ -84,6 +84,13 @@ For reference, indigenous Mexican practitioners regularly consume 30 to 40 *P. c
 
 Psilocybin mushrooms are illegal. In Louisiana at the time of the original publication, possession was a felony. Laws vary by jurisdiction — the Bureau of Dangerous Drugs in your state can provide specific information about penalties (felony vs. misdemeanor).
 
+## Identification Tips
+
+Accurate identification requires examining multiple morphological
+features including cap shape, gill structure, spore print color,
+and habitat. Microscopic examination of spores provides definitive
+identification for many closely related species.
+
 ## See Also
 
 - [[psilocybin-mushroom-field-identification]]

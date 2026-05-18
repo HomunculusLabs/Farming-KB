@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kibby, G. (2011). "The Genus Imleria." Field Mycology 12(4): 127–134.
+  - Kibby, G. (2011). "The Genus Imleria." Field [[mycology]] 12(4): 127–134.
   - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland Vol. 3."
   - Watling, R. (1970). "British Fleshy Fungi." HMSO, London.
   - Basso, M.T. (1999). "Monografia di Imleria badia." Bresadola.
@@ -23,7 +23,7 @@ sources:
 ## Overview
 
 Imleria badia, the bay bolete, is an edible [[psilocybin-north-america-pacific-northwest]]. It fruits from mid-summer through late autumn beneath conifers
-and hardwoods, and remains one of the most commonly collected wild edible
+and hardwoods, and remains one of the most commonly collected [[query-how-do-i-forage-for-common-wild-edible-plants-safely]]
 mushrooms in central and northern Europe.
 
 Long classified as *Xerocomus badius*, it was moved to *Imleria* by Vizzini
@@ -31,7 +31,7 @@ in 2014 based on multigene phylogenetic analysis.
 
 ## Taxonomy and Morphology
 
-**Taxonomy:** Basidiomycota → Agaricomycetes → Boletales → Boletaceae →
+**Taxonomy:** [[basidiomycota]] → Agaricomycetes → Boletales → Boletaceae →
 Imleria badia (Fr.) Vizzini. Synonyms include *Boletus badius* Fr. (1821)
 and *Xerocomus badius* (Fr.) Kühner ex Gilb. (1931).
 
@@ -52,7 +52,7 @@ olive-brown. Flesh bluing faintly; taste mild, odor pleasant.
 
 Broad circumboreal distribution: Europe, Asia (China, Japan, Korea), and
 [[picea-abies]]*), fir (*Abies* spp.), and also birch
-and oak in mixed woodlands. Fruits on acidic to neutral forest soils from
+and oak in mixed woodlands. Fruits on acidic to neutral [[fire-effect-on-forest-soils-and-nutrient-loss]] from
 July through November, most abundantly in wet autumns following warm summers.
 
 ## Edibility and Culinary Use
@@ -72,7 +72,7 @@ become slimy; removing them before cooking is recommended.
 - **Badione A and B:** Bis-p-quinone pigments with moderate antibacterial
   activity against Gram-positive bacteria.
 - **Variegatic acid and xerocomic acid:** Pulvinic acid derivatives
-  responsible for bruising color changes.
+  responsible for bruising [[boletus-species-alarming-color-changes]].
 - **[[ergosterol]]:** Predominant sterol and provitamin D₂ precursor.
 - **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Catechol derivatives with antioxidant activity.
 - **Polysaccharides:** Beta-glucan fractions showing immunomodulatory

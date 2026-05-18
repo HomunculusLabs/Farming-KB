@@ -1,5 +1,5 @@
 ---
-title: comparison-banana-circle-vs-herb-spiral ecological sanitation and waste recycling systems System
+title: comparison-banana-circle-vs-herb-spiral [[ecological-sanitation-and-waste-recycling-systems]] waste recycling systems System
 created: 2026-04-28
 tags:
   - permaculture-design
@@ -19,12 +19,12 @@ type: concept
 The banana circle is one of the most iconic and immediately productive elements in
 permaculture-designers-manual-bamboo, it converts organic waste and
 greywater into a dense productive polyculture centred on bananas and papaya.
-It is a classic demonstration of the permaculture principle that every waste
+It is a classic demonstration of the [[permaculture-principle-1-observe-interact]] that every waste
 product of one system becomes the resource input for another.
 
 ## Design Fundamentals
 
-A banana circle begins with a shallow pit, typically 1.5 to 2 metres in diameter
+[[query-what-is-a-banana-circle-in-permaculture]] begins with a shallow pit, typically 1.5 to 2 metres in diameter
 and 0.5 to 1 metre deep, excavated in a well-drained location. The excavated
 soil is mounded up around the rim of the pit to form a raised ring. This
 ring becomes the planting zone. The pit itself functions as an active
@@ -36,13 +36,13 @@ lemongrass, taro, and other pdc-zone-one-garden-design intensively managed produ
 The layered polyculture within a banana circle includes:
 
 - **Canopy layer:** Bananas (Musa spp.) and papaya (Carica papaya) provide
-  shade and structural support. Bananas produce their main stem from a
+  shade [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]. Bananas produce their main stem from a
   single flowering event, after which the stem dies back and is recycled
   into the pit.
 
-- **Understorey and groundcover:** Sweet potato (Ipomoea batatas) trails
+- **Understorey and groundcover:** Sweet potato ([[ipomoea-batatas]]) trails
   over the mound surface, protecting soil from erosion and providing
-  edible tubers. Taro (Colocasia esculenta) may be planted where moisture
+  edible tubers. Taro ([[colocasia-esculenta]]) may be planted where moisture
   is persistent. Lemongrass and comfrey help repel pests and accumulate
   nutrients from deeper soil layers.
 

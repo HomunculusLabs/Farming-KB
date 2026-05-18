@@ -29,7 +29,7 @@ surfaces for later use in the garden. A simple system consists of:
 - A collection surface (roof)
 - Gutters and downspouts to direct water
 - A storage container (rain barrel or cistern)
-- A means to distribute the water (hose or gravity-fed drip line)
+- A means to distribute the water (hose or gravity-fed [[drip-line]])
 
 Even a modest 1,000-square-foot roof will yield about 620 gallons of
 water from one inch of rainfall. In areas with 30 inches of annual

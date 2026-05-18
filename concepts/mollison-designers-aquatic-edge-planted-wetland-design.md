@@ -1,8 +1,8 @@
 ---
-title: Mollison Designers Aquatic Edge Planted Wetland Design
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Aquatic Edge Planted [[constructed-wetland-design]]
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - wetland-design
   - water-management
   - aquaculture
@@ -19,7 +19,7 @@ type: concept
 
 [[mollison-designers-mixed-orchard-design-species-selection]] benefits from water
   retention and microclimate moderation near ponds
-- [[gaias-garden-backyard-wetland]] [[keyline-design]] -- broader water management context
+- [[gaias-garden-backyard-wetland]] [[keyline-design]] -- broader [[water-management]] context
 ## Practical Applications
 
 Aquatic Edge and Planted Wetland Design has a range of practical applications that make it relevant to

@@ -36,9 +36,9 @@ D. rotundifolia belongs to the subgenus Drosera, section Drosera, characterized 
 
 The lamina is borne on a slender petiole 15–50 mm long, covered with downward-pointing hairs on the upper surface.
 
-The upper surface of the lamina is densely covered with reddish glandular tentacles (trichomes) in two size classes.
+The upper surface of the lamina is densely covered with reddish glandular tentacles ([[trichomes]]) in two size classes.
 
-Stalked glands (10–20 per leaf) are 2–4 mm long and produce the sticky mucilage that captures prey.
+Stalked glands (10–20 per leaf) are 2–4 mm long and produce the sticky [[mucilage]] that captures prey.
 
 Sessile glands are shorter and responsible for secreting digestive enzymes after prey capture.
 

@@ -18,15 +18,15 @@ including bulb mites, [[tent-caterpillars]], and leaf-feeding insects in general
 ## Classification
 
 - **Category**: Pest management technique
-- **Approach**: Biological control through foliar microbial ecology
-- **Key organisms**: Beneficial bacteria, fungi, protozoa, and nematodes
+- **Approach**: [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] through foliar [[fukuoka-microbial-ecology-decomposition]]
+- **Key organisms**: [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]], fungi, protozoa, and nematodes
   applied via AACT
 
 ## Key Facts
 
 - AACT applied as a foliar spray creates a living biological barrier on leaf
   surfaces that deters pest feeding and reproduction.
-- Beneficial fungi such as *[[beauveria-bassiana]]* in compost tea can directly
+- Beneficial fungi such as *[[beauveria-bassiana]]* [[molasses-and-sugars-in-compost-tea-brewing]] can directly
   infect and kill various insect pests.
 - Foliar microorganisms alter the chemical profile of leaf surfaces, making
   plants less attractive to ovipositing (egg-laying) insects.
@@ -50,7 +50,7 @@ Ingham outlines several mechanisms by which AACT controls foliar pests:
    and texture, making treated plants less palatable to herbivorous insects.
 3. **Reproductive disruption**: Some beneficial organisms produce compounds
    that interfere with insect reproduction and development.
-4. **Predator attraction**: Foliar biology produces volatile compounds that
+4. **Predator attraction**: Foliar biology produces [[mycovolatiles-fungal-volatile-compounds]] that
    attract predatory insects and parasitic wasps.
 5. **Physical barrier**: Biofilm formation on leaf surfaces can impede small
    pests like mites and thrips from moving and feeding freely.
@@ -70,7 +70,7 @@ Ingham outlines several mechanisms by which AACT controls foliar pests:
 
 ## Management Notes
 
-- Apply AACT to foliage every 7–14 days during the growing season.
+- Apply AACT to foliage every 7–14 days during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 - Use both foliar spray and soil drench for comprehensive pest management.
 - Maintain compost diversity to ensure broad-spectrum beneficial organisms.
 - Combine AACT with habitat features that support predatory insects.
@@ -79,7 +79,7 @@ Ingham outlines several mechanisms by which AACT controls foliar pests:
 
 ## See Also
 
-- [[actively-aerated-compost-tea|Actively Aerated Compost Tea]]
-- [[beauveria-bassiana|Beauveria bassiana]]
-- [[tent-caterpillars|Tent Caterpillars]]
-- [[elaine-ingham|Elaine Ingham]]
+- [[actively-aerated-compost-tea]]
+- [[beauveria-bassiana]]
+- [[tent-caterpillars]]
+- [[elaine-ingham]]

@@ -31,9 +31,9 @@ oxygen availability, nutrient conditions, and other environmental factors.
   whether bacteria can transform between fundamentally different forms.
 - In compost tea context, Ingham addresses the concern that beneficial
   organisms might transform into pathogenic forms under certain conditions.
-- Properly aerated compost tea maintains aerobic conditions that favor
+- Properly [[actively-aerated-compost-tea-overview]] maintains aerobic conditions that favor
   beneficial organism forms and suppress potential pathogenic morphotypes.
-- Key environmental triggers for morphological shifts include oxygen levels,
+- Key [[fungal-fruiting-body-formation-environmental-triggers]] for morphological shifts include oxygen levels,
   pH, nutrient availability, temperature, and moisture.
 - Actinomycetes are a classic example — they exhibit bacterial characteristics
   but form filamentous, fungus-like growth under certain conditions.
@@ -46,10 +46,10 @@ Ingham's discussion of pleomorphism is relevant to several practical aspects
 of compost tea production and application:
 
 1. **Aerobic maintenance**: Continuous aeration during [[compost-tea-brewing]]
-   prevents anaerobic conditions that could favor undesirable morphological
+   prevents [[aact-ph-and-anaerobic-conditions]] that could favor undesirable morphological
   shifts in microbial populations.
 2. **Organism identification**: Understanding that organisms can change form
-  makes microscopic identification more nuanced — the same organism may look
+  makes [[psilocybin-mushroom-microscopic-identification]] more nuanced — the same organism may look
   different under different conditions.
 3. **Safety assurance**: Proper brewing techniques ensure that organisms
    remain in beneficial forms; this is one reason Ingham emphasizes testing
@@ -65,11 +65,11 @@ of compost tea production and application:
   conditions in the rhizosphere.
 - This adaptability is a feature of healthy soil ecosystems, not a liability.
 - Understanding pleomorphism helps practitioners appreciate the dynamic nature
-  of soil microbial communities.
+  of [[endorhiza-rhizosphere-bulk-soil-microbial-communities]].
 
 ## Management Notes
 
-- Maintain aerobic conditions throughout compost tea brewing (dissolved oxygen
+- Maintain aerobic conditions throughout [[compost-tea-brewing-equipment-ingham]] (dissolved oxygen
   above 5-6 ppm).
 - Use proper compost as the inoculum source — well-made thermal or
   vermicompost.
@@ -80,7 +80,7 @@ of compost tea production and application:
 
 ## See Also
 
-- [[actively-aerated-compost-tea|Actively Aerated Compost Tea]]
-- [[anaerobic-organisms-compost|Anaerobic Organisms]]
+- [[actively-aerated-compost-tea]]
+- [[anaerobic-organisms-compost]]
 - [[actinomycetes]]
-- [[elaine-ingham|Elaine Ingham]]
+- [[elaine-ingham]]

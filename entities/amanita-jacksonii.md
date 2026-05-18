@@ -39,7 +39,7 @@ It is a strikingly beautiful [[polypore-fungi-eastern-north-america]] America, c
 | Basionym | *Amanitopsis jacksonii* Peck (1908) |
 
 The species was originally described by Charles Horton Peck in 1908 as *Amanitopsis jacksonii*, before being transferred to the genus *Amanita* by Émile-Jean Gilbert in 1941.
-Some authorities have treated it as a variety or subspecies of *Amanita caesarea*, but molecular phylogenetic studies have confirmed it as a distinct species endemic to North America.
+Some authorities have treated it as a variety or subspecies of *[[amanita-caesarea]]*, but molecular phylogenetic studies have confirmed it as a distinct species endemic to [[guzman-psilocybin-mushrooms-north-america]].
 It belongs to *Amanita* section Caesareae, which contains several prized edible species worldwide.
 
 ## Description

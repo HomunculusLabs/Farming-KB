@@ -1,5 +1,5 @@
 ---
-title: Fungal Metabolites of PAHs and Their Mutagenicity
+title: [[eliciting-novel-fungal-metabolites]] of PAHs and Their Mutagenicity
 created: 2026-04-26
 tags:
   - PAH-metabolites
@@ -36,13 +36,13 @@ additional oxidation product of the 8,9- or 10,11-dihydrodiol pathway.
 ### Benzo[a]pyrene Metabolism
 
 Benzo[a]pyrene is one of the most potent carcinogens. Of 17 strains of
-filamentous fungi screened, six species eliminated more than 40% of
+[[conidia-and-asexual-reproduction-in-filamentous-fungi]] screened, six species eliminated more than 40% of
 benzo[a]pyrene at 25 degrees C in 17 days. A rare fungus, Marasmiellus
 troyanus, achieved up to 95% removal. Candida lipolytica detected 3- and
 9-hydroxybenzo[a]pyrenes within 2 days at an initial concentration of
 200 mg/l.
 
-The relative degradation per unit biomass for three mitosporic fungi was:
+The relative degradation per unit biomass for three [[mitosporic-fungi-diversity-species-estimates]] was:
 [[fusarium-oxysporum]]
 (8%). T. viride degraded 50% of benzo[a]pyrene without detectable laccase
 or peroxidase activities, suggesting a different metabolic pathway. F.
@@ -50,7 +50,7 @@ solani can store benzo[a]pyrene in intracellular vesicles independently of
 degradation rate, with about 5.3% incorporated into the biomass.
 
 An alternative metabolic pathway based on free radical production,
-including reactive oxygen species (ROS) and hydroxyl radicals, has been
+including [[reactive-oxygen-species-and-oxidative-stress]] (ROS) and hydroxyl radicals, has been
 hypothesized as agents for initiating benzo[a]pyrene oxidation.
 Potassium cyanide and piperonyl butoxide (both P450 and peroxidase
 inhibitors) enhanced benzo[a]pyrene degradation significantly, suggesting
@@ -78,7 +78,7 @@ Fungi produce various conjugated metabolites from PAHs:
   racemosum
 
 These conjugation reactions generally reduce the toxicity and
-bioavailability of singh fungal pah metabolites mutagenicity, facilitating their excretion or
+bioavailability of [[singh-fungal-alkane-metabolism-pathways]] pah metabolites mutagenicity, facilitating their excretion or
 further degradation.
 
 ## Mutagenicity of Fungal Metabolites

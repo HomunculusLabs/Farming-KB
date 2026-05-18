@@ -22,11 +22,11 @@ biological approaches for remediation of these persistent contaminants.
 
 ## The Petroleum Hydrocarbon Problem
 
-Petroleum hydrocarbons encompass a diverse group of compounds including
-polycyclic aromatic hydrocarbons, BTEX compounds (benzene, toluene,
+[[mycoremediation-petroleum-hydrocarbons]] encompass a diverse group of compounds including
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]], BTEX compounds (benzene, toluene,
 ethylbenzene, and xylenes), and aliphatic hydrocarbons. PAHs are particularly
 problematic due to their chemical stability, hydrophobicity, and tendency to
-accumulate in sediments and organic matter. Their recalcitrance increases with
+accumulate in sediments [[hamilton-composting-and-organic-matter-management]]. Their recalcitrance increases with
 molecular weight and degree of aromatic ring condensation.
 
 ## White Rot Fungi as Degraders
@@ -64,7 +64,7 @@ quinones as intermediates in PAH degradation.
 
 ### Laccase Pathway
 
-Laccase from Coriolopsis gallica oxidized benzo[a]pyrene, methylanthracenes,
+Laccase from [[coriolopsis-gallica]] oxidized benzo[a]pyrene, methylanthracenes,
 anthracene, biphenylene, acenaphthene, and phenanthrene. Laccases of
 [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] carried out oxidation of acenaphthene,
 acenaphthylene, anthracene, and fluorene, mediated by small-molecular-weight
@@ -84,4 +84,4 @@ PCB degradation by basidiomycetes depends on the level of chlorination and
 the fungal strain employed. P. chrysosporium degraded 82, 31, and 18 percent
 of Aroclor 1242, 1254, and 1260 respectively. This was the first conclusive
 demonstration of substantial degradation of Aroclor 1260 by a fungus in pure
-culture. Bjerkandera adusta, Pleurotus Ostreatus, and T. versicolor were
+culture. [[bjerkandera-adusta]], [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], and T. versicolor were

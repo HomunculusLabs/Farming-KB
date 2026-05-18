@@ -27,7 +27,7 @@ nutty characteristics that make it a staple in miso soups and stir fries.
 ### Taxonomy and Classification
 
 Kingdom: Fungi
-Division: Basidiomycota
+Division: [[basidiomycota]]
 Class: [[tricholoma-matsutake]]
 - [[pholiota-adiposa]]
 ## Practical Applications

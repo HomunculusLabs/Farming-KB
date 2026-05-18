@@ -79,3 +79,44 @@ reflected in language, but instead is actually produced by language."
 
 From the psychedelic shaman's point of view, the cosmos is a tale that
 becomes true as it is told, and as it tells itself. Human imagination can
+
+## Safety Profile
+
+Set and setting significantly influence outcomes. Screening for
+contraindicated conditions (cardiovascular issues, psychotic
+disorders, concurrent MAOI use) is essential. Integration
+practices help process and contextualize experiences.
+## Legal Status
+
+Legal classification varies widely by jurisdiction. Many
+substances discussed are Schedule I in the United States.
+International treaties and local regulations change frequently;
+always verify current legal status in your jurisdiction.
+## Current Research
+
+Modern clinical trials are investigating therapeutic applications
+for depression, anxiety, PTSD, and substance use disorders.
+Results from Phase II and Phase III trials have shown
+promising efficacy with relatively low adverse event rates.
+
+## Dosage Considerations
+
+Effective dosage varies significantly by species, preparation
+method, individual sensitivity, and body weight. Dry weight
+measurements are more reliable than fresh weight due to variable
+water content. Start with lower doses when potency is uncertain.
+
+## Integration Practices
+
+Post-experience integration helps process and apply insights
+gained. Journaling, meditation, nature walks, and discussion
+with trusted individuals support meaning-making. Professional
+integration coaching is increasingly available in many areas.
+## See Also
+
+- [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]
+- [[mckenna-archaic-paradise-techniques-ecstasy]]
+- [[shamanism-and-techniques-of-ecstasy]]
+- [[mckenna-techniques-of-ecstasy]]
+- [[shamanism-techniques-of-ecstasy]]
+- [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]

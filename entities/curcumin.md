@@ -4,7 +4,7 @@ created: 2026-04-28
 type: chemical
 tags:
   - curcuminoid
-  - polyphenol
+  - [[polyphenol]]
   - anti-inflammatory
   - antioxidant
   - turmeric
@@ -28,7 +28,7 @@ sources:
 
 # Curcumin
 
-Curcumin is the principal bioactive curcuminoid of turmeric (*[[permaculture-designers-manual-essential-oil-plants]] repels certain soil nematodes), and ground
+Curcumin is the principal bioactive curcuminoid of turmeric (*[[permaculture-designers-manual-essential-oil-plants]] repels certain [[soil-nematodes]]), and ground
 cover that suppresses weeds during establishment. It integrates well with leguminous support species and
 can be intercropped with ginger, cardamom, and [[curcuma-longa]] — the turmeric plant source of curcuminoids
 - [[piperine]] — alkaloid that enhances curcumin bioavailability by 2,000%

@@ -1,5 +1,5 @@
 ---
-title: yopo-anadenanthera-peregrina-snuff
+title: [[yopo-anadenanthera-peregrina-snuff]]
 created: 2026-04-28
 type: species
 tags:
@@ -32,7 +32,7 @@ Yopo, Cohoba, Parica, Jopa, Niopo, Huilca, Sebil, Juju
 ## Synonyms
 
 - [[mimosa]] peregrina L.
-- Acacia peregrina (L.) Willd.
+- [[acacia]] peregrina (L.) Willd.
 - Piptadenia peregrina (L.) Benth.
 
 ## Description
@@ -64,12 +64,12 @@ and extends across northern [[mollison-designers-gallery-forests-and-valley-bott
 
 The active principles of Anadenanthera peregrina belong to both
 open-chained and ringed tryptamine derivatives, all members of the
-class of indole alkaloids. The principal open-chained tryptamines are:
+class of [[indole]] alkaloids. The principal open-chained tryptamines are:
 
 - **N,N-dimethyltryptamine (DMT):** A potent hallucinogenic compound
   found in numerous plant species and produced endogenously in mammals.
 
-- **Bufotenine (5-hydroxy-DMT):** A tryptamine derivative also found
+- **[[bufotenine]] (5-hydroxy-DMT):** A tryptamine derivative also found
   in the skin secretions of toads of the genus Bufo, from which its
   name is derived. Bufotenine contributes significantly to the
   psychoactive effects of [[ayahuasca-preparation-and-ceremony]]

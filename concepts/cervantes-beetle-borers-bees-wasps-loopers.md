@@ -80,7 +80,7 @@ cold weather.
   pest entry and capture individuals
 - Bees and wasps are also attracted to hot HID lamps and may
   fly into them and die
-- Pyrethrum is recommended for chemical control
+- [[pyrethrum]] is recommended for chemical control
 - Small wasp nests can be stuffed into a wide-mouthed jar at
   night when wasps are quiet, then placed in a freezer for
   a few hours

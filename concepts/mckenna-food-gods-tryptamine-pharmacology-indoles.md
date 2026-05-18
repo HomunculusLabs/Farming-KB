@@ -1,7 +1,7 @@
 ---
-title: Mckenna Food Gods Tryptamine Pharmacology Indoles
+title: [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] Tryptamine Pharmacology Indoles
 created: 2026-04-28
-tags: [tryptamine, dmt, psilocybin, serotonin, mckenna]
+tags: [tryptamine, dmt, [[psilocybin]], [[serotonin]], mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
