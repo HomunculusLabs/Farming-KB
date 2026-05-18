@@ -51,13 +51,6 @@ arrived at deductively: if the causes of desertification are misguided human
 knowledge and action, then eliminating those causes allows nature to heal
 itself.
 
-## See Also
-
-- [[fukuoka-village-self-sufficient-community]]
-- [[masanobu-fukuoka]]
-- [[dmt]]
-- [[fukuoka-weed-management-and-green-manure]]
-
 ## Overview
 
 Fukuoka Sowing Natural Culture Community And Green Earth Vision represents an important element within sustainable
@@ -135,8 +128,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-village-self-sufficient-community]]
+- [[masanobu-fukuoka]]
+- [[dmt]]
+- [[fukuoka-weed-management-and-green-manure]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

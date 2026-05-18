@@ -1,12 +1,5 @@
 # Plant [[plant-memory-and-learning]]
 
-## See Also
-
-- [[coleman-winter-day-length-and-persephone-months]]
-variations helps ensure that actions are taken at the optimal moment.
-Seasonal planning also includes [[fukuoka-clover-cover-cropping-soil-ecology]],
-and soil building activities that maintain productivity year-round.
-
 ## Integration with Other Systems
 
 Plant-based systems work best when integrated with other elements of the
@@ -138,8 +131,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[coleman-winter-day-length-and-persephone-months]]
+variations helps ensure that actions are taken at the optimal moment.
+Seasonal planning also includes [[fukuoka-clover-cover-cropping-soil-ecology]],
+and soil building activities that maintain productivity year-round.
 - [[electromagnetic-spectrum-plant-light-perception]]
 - [[lowenfels-rhizosphere-bacteria-plant-interaction]]
 - [[phytochrome-and-plant-photoperiodism]]

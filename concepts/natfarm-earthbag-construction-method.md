@@ -51,11 +51,6 @@ The walls must be built and covered fairly quickly. More than a month of
 intense desert sun will degrade the bags too much, and no more than three
 months in a [[comparison-lime-plaster-vs-earthen-plaster]]. Cob is a
 
-## See Also
-
-- [[natfarm-lacto-fermentation-preservation]]
-- [[natfarm-zone-sector-permaculture-planning]]
-
 ## Overview
 
 Natfarm Earthbag Construction Method represents an important element within sustainable
@@ -133,10 +128,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[natfarm-hugelkultur-raised-beds]]
+## See Also
 - [[natfarm-lacto-fermentation-preservation]]
+- [[natfarm-zone-sector-permaculture-planning]]
+- [[natfarm-hugelkultur-raised-beds]]
 - [[natfarm-rainwater-harvesting-storage]]
 - [[natfarm-sheet-mulching-garden-preparation]]
 - [[natfarm-swale-water-conservation]]

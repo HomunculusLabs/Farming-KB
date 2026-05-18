@@ -61,13 +61,6 @@ Modern identification and quantification of fungal alkaloids employs:
 
 These techniques have resolved many of the taxonomic controversies that plagued earlier mycochemical work, where species identification was based solely on morphological characteristics and subjective bioassay.
 
-## See Also
-
-- [[psilocybe-genus-distribution]]
-- [[amanita-muscaria]]
-- ergotism
-- tryptamine pharmacology
-
 ## Overview
 
 Psilocybin Chemistry represents an important element within sustainable
@@ -145,6 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybe-genus-distribution]]
+- [[amanita-muscaria]]
+- ergotism
+- tryptamine pharmacology
 - [[powell-psilocybin-legal-status-research]]

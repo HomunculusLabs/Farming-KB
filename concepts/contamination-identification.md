@@ -37,13 +37,6 @@ clean environment with a still-air box or laminar flow hood, and quarantining
 new cultures before introducing them to the main growing area. Proper
 [[agar-culture-and-isolation]] for clean culture maintenance.
 
-## See Also
-
-- [[agar-culture-and-isolation]]
-- [[dom]]
-- [[spore]]
-- [[mushroom-cultivation]]
-
 ## Overview
 
 Contamination Identification represents an important element within sustainable
@@ -121,8 +114,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[agar-culture-and-isolation]]
+- [[dom]]
+- [[spore]]
+- [[mushroom-cultivation]]
 - [[contamination-prevention-in-mushroom-cultivation]]
 - [[mushroom-cultivation-contamination-control]]
 - [[mushroom-cultivator-contamination-prevention]]

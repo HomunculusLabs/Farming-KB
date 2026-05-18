@@ -42,13 +42,6 @@ ALEPH-7 is the most pharmacologically distinctive member of the [ALEPH family, n
 - See [[set-and-setting-framework]] is critical. Do NOT take this compound alone.
 - See [legal context for jurisdictional status.
 
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -89,7 +82,12 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[dom]]
 - [[aleph-6-pihkal-entry-6]]
 - [[aleph-2-pihkal-entry-4]]

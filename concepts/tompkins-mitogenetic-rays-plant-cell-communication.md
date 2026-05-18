@@ -65,9 +65,6 @@ accepted that plant tissues could pick up human thought and emotion.
 He was reminded of Sir James Jeans's observation that "the Universe
 begins to look more like a great thought than a great machine."
 
-## See Also
-- [[tompkins-marcel-vogel-plant-human-communication]]
-
 ## Overview
 
 Tompkins Mitogenetic Rays Plant Cell Communication represents an important element within sustainable
@@ -145,6 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tompkins-marcel-vogel-plant-human-communication]]
 - [[tompkins-albert-abrams-electronic-diagnosis]]

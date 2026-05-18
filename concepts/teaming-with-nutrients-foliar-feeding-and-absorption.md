@@ -34,13 +34,6 @@ Several well-tested foliar spray formulations are commonly used in [[comparison-
 - **Fish emulsion spray**: Dilute 1-2 tablespoons of fish emulsion per gallon of water. Provides nitrogen (approximately 5% N), phosphorus, and trace minerals. The strong odor dissipates within 24-48 hours. Best used as a transplant starter or for nitrogen-deficient plants
 - **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living [[soil-food-web]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
 
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -129,8 +122,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]
 - [[teaming-with-microbes-overview]]
 - [[teaming-with-microbes-plant-control]]

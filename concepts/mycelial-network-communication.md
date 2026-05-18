@@ -14,10 +14,6 @@ type: concept
 scanning and microfluidic models, and exploring the computational properties
 of [[mycelial-networks]] for bio-inspired computing applications.
 
-## See Also
-
-- [[bloomfield-fungal-secondary-metabolites]]
-- mycelial network communication
 ## Practical Considerations
 
 When working with Mycelial Network Communication, several practical factors should be
@@ -146,4 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[bloomfield-fungal-secondary-metabolites]]
+- mycelial network communication

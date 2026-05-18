@@ -53,14 +53,6 @@ products. The EMCDDA case study highlighted this as an area where improved
 consumer information and harm reduction messaging could potentially reduce
 adverse outcomes.
 
-## See Also
-
-- emcdda-psilocybin-mushroom-market-variety-names-and-strain-marketing-2006
-- emcdda-hallucinogenic-mushroom-dose-effects
-- emcdda-psilocybin-mushroom-species-comparison-dosage-guidelines
-- psilocybin-potency-variation-species-strain-growth-conditions
-- psilocybin-potency-dosage-guide
-
 ## Overview
 
 Emcdda Psilocybin Mushroom Fresh Dried Product Forms And Potency Variability 2006 represents an important element within sustainable
@@ -138,8 +130,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- emcdda-psilocybin-mushroom-market-variety-names-and-strain-marketing-2006
+- emcdda-hallucinogenic-mushroom-dose-effects
+- emcdda-psilocybin-mushroom-species-comparison-dosage-guidelines
+- psilocybin-potency-variation-species-strain-growth-conditions
+- psilocybin-potency-dosage-guide
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

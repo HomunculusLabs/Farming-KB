@@ -18,17 +18,6 @@ Between crops, all surfaces that contact substrate must be thoroughly cleaned an
 
 Steam cleaning is effective for both systems and has the advantage of reaching into cracks and crevices that manual cleaning may miss. Some operations use chemical disinfectants, though these must be thoroughly rinsed before the next crop cycle to avoid residue effects on mushroom mycelium.
 
-## See Also
-
-- [[phase-ii-composting]] — compost conditioning procedures
-
-mushroom-composting — [[mushroom-market-and-economics]] — economics of tray vs. shelf systems
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -126,8 +115,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phase-ii-composting]] — compost conditioning procedures
+mushroom-composting — [[mushroom-market-and-economics]] — economics of tray vs. shelf systems
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

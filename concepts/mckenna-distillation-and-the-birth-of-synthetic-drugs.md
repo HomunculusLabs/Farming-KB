@@ -64,11 +64,6 @@ encouraging soldiers' minds before the joining of battle.
 
 (Section content removed for length. See source for full details.)
 
-## See Also
-- [[mckenna-food-gods-natural-synthetic-drugs]]
-- [[mckenna-drugs-governments-and-intelligence-agencies]]
-- [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]
-
 ## Overview
 
 Mckenna Distillation And The Birth Of Synthetic Drugs represents an important element within sustainable
@@ -146,4 +141,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[mckenna-food-gods-natural-synthetic-drugs]]
+- [[mckenna-drugs-governments-and-intelligence-agencies]]
+- [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]

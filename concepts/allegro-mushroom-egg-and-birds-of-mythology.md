@@ -38,13 +38,6 @@ agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
 
-## See Also
-- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-- [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]]
-- [[allegro-philological-methodology]]
-- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
-- [[allegro-womans-part-in-the-creative-process]]
-
 ## Practical Considerations
 
 Successful implementation of Mushroom Egg and Birds of Mythology (Allegro) requires attention to
@@ -141,8 +134,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
+- [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]]
+- [[allegro-philological-methodology]]
+- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
+- [[allegro-womans-part-in-the-creative-process]]
 - [[allegro-main-thesis]]
 - [[allegro-man-child-born-virgin-thunder-fertilization-anointing]]
 - [[allegro-mushroom-cosmography]]

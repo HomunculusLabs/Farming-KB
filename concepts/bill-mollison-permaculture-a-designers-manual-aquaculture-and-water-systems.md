@@ -51,14 +51,6 @@ Waste water from aquaculture can be used to irrigate garden beds, creating
 a nutrient-rich water source that closes the loop between water systems and
 plant production.
 
-## See Also
-
-- [[permaculture-designers-manual-vine-systems]]
-
-- mollison-water-filtration-methods
-- [[mollison-designers-mulberry-and-sericulture-in-permaculture]]
-- [[mollison-designers-citrus-growing-and-care]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -87,7 +79,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[permaculture-designers-manual-vine-systems]]
+- mollison-water-filtration-methods
+- [[mollison-designers-mulberry-and-sericulture-in-permaculture]]
+- [[mollison-designers-citrus-growing-and-care]]
 - [[bill-mollison]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
 - [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]

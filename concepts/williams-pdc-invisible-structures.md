@@ -52,11 +52,6 @@ Cultural traditions, social norms, and community expectations form another layer
 
 The PDC teaches that the designer must be fluent in both languages -- the language of physical landscape design and the language of invisible social and economic systems -- to create truly regenerative and resilient human settlements.
 
-## See Also
-
-- [[williams-pdc-client-interview-process]]
-- [[williams-pdc-non-violent-communication]]
-
 ## Overview
 
 Williams Pdc Invisible Structures represents an important element within sustainable
@@ -134,8 +129,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[williams-pdc-client-interview-process]]
+- [[williams-pdc-non-violent-communication]]
 - [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
 - [[williams-pdc-electricity-in-permaculture]]
 - [[williams-pdc-food-forests]]

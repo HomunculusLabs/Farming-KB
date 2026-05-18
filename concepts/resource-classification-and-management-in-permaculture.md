@@ -87,13 +87,10 @@ The ethical framework for resource use in permaculture can be summarized as:
 4. **Apply the principle of enough**: Design for sufficiency rather than excess, recognizing that both scarcity and surplus are forms of disorder
 5. **Return benefits to the common resource base**: Every design element should improve the conditions for future production
 
-## See Also
 
+## See Also
 - [[permaculture-design-principles-law-of-return]]
 - [[savory-holistic-resource-management-decision-framework]]
-
-## See Also
-
 - [[permaculture-energy-cycling-and-resource-efficiency]]
 - [[permaculture-resource-categories-and-yield-dispersal]]
 - [[savory-holistic-resource-management-animal-impact]]

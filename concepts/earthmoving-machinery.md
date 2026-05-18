@@ -40,11 +40,6 @@ Scoops drawn behind horses or oxen can excavate small ponds or clean silt from e
 - **Draglines** extend reach for canal and pond work
 - **Spinners** are optimal for flatland drainage without creating spoil banks
 
-## See Also
-
-- [[earthmoving-machinery-permaculture]]
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-
 ## Overview
 
 Earthmoving Machinery represents an important element within sustainable
@@ -122,10 +117,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[advanced-earthmoving-equipment]]
+## See Also
 - [[earthmoving-machinery-permaculture]]
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[advanced-earthmoving-equipment]]
 - [[earthmoving-machinery-tools]]
 - [[earthmoving-tools-permaculture-mollison]]
 - [[jadam-soil-compaction-heavy-machinery]]

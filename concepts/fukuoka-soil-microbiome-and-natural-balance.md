@@ -9,12 +9,6 @@ insights. His work demonstrates that careful, patient observation of
 natural systems can yield understanding that formal scientific
 methodology, when applied reductively, may miss entirely.
 
-## See Also
-
-- [[doc]]
-- [[mycorrhiza]]
-- [[fukuoka-straw-pest-control-natural-balance]]
-
 ## Overview
 
 Fukuoka Soil Microbiome And Natural Balance represents an important element within sustainable
@@ -92,8 +86,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[mycorrhiza]]
+- [[fukuoka-straw-pest-control-natural-balance]]
 - [[cho-natural-farming-philosophy-of-non-interference]]
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 - [[fukuoka-bushman-world-ecological-balance]]

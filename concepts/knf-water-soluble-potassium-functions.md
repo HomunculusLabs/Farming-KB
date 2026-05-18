@@ -17,7 +17,6 @@ Water-Soluble Potassium (WS-K) is a [[knf-water-soluble-calcium]] -- balance bet
 ## Application in the KNF System
 
 In the [[knf-water-soluble-calcium]], and other inputs in foliar spray programs.
-## See Also
 ## Practical Applications
 
 Water-Soluble Potassium (WS-K) -- Ten Functions in Plant Nutrition has a range of practical applications that make it relevant to
@@ -45,11 +44,6 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
-
-## See Also
-- [[det]]
-- [[knf-water-soluble-potassium-detailed]]
-- [[knf-water-soluble-potassium-wsk]]
 
 ## Overview
 
@@ -128,8 +122,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[knf-water-soluble-potassium-detailed]]
+- [[knf-water-soluble-potassium-wsk]]
 - [[green-cannabis-dry-sift-water-extraction]]
 - [[osmophilic-osmotolerant-fungi-low-water-activity]]
 - [[permaculture-plants-aquatic-systems-water-plants]]

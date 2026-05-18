@@ -39,16 +39,6 @@ Illness begins when man moves away from nature, and the severity with which he i
 
 The plants of the mountains and streams always grow and mature while maintaining the best possible nutrient balance. Out-of-season vegetables and fruit are unnatural and incomplete. The eggplants, tomatoes, and cucumbers grown by natural [[fukuoka-natural-diet-as-foundation]].
 
-## See Also
-
-- fukuoka natural diet four types
-
-- [[fukuoka-natural-farming-philosophy]]
-
-- [[natural-diet]]
-- [[natural-farming]]
-- [[permaculture]]
-
 ## Overview
 
 Fukuoka Natural Diet Four Types represents an important element within sustainable
@@ -126,8 +116,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- fukuoka natural diet four types
+- [[fukuoka-natural-farming-philosophy]]
+- [[natural-diet]]
+- [[natural-farming]]
+- [[permaculture]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

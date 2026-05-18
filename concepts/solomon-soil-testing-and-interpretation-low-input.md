@@ -43,13 +43,6 @@ In all cases, the COF formula can be adjusted for specific conditions,
 but the principle remains: apply a balanced mineral amendment rather
 than chasing pH numbers.
 
-## See Also
-
-- [[solomon-potting-mix-and-seedling-soil-recipe]]
-
-- [[calcium-magnesium-secondary-nutrients]]
-- [[composting-science-solomon]]
-
 ## Overview
 
 Solomon Soil Testing And Interpretation Low Input represents an important element within sustainable
@@ -127,8 +120,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[solomon-potting-mix-and-seedling-soil-recipe]]
+- [[calcium-magnesium-secondary-nutrients]]
+- [[composting-science-solomon]]
 - [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 - [[solomon-low-grade-compost-making-methods]]

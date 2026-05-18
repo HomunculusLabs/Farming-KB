@@ -34,14 +34,6 @@ of different grass species work well. The seed must not be treated with
 still colonizing in the jar — no casing or [[gourmet-medicinal-mushroom-casing-layer-techniques]] of
 cased trays.
 
-## See Also
-
-- [[psilocybe-cubensis]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -83,7 +75,13 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[psilocybe-cubensis]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[fruiting-conditions]]
 - [[substrate-preparation]]
 - [[lolium-perenne]]

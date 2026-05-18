@@ -52,12 +52,6 @@ Ingham provides this recipe for fungal AACT for lawns:
 - Kelp at 0.1% (half pound in 5-gallon brew)
 - [[chamovitz-circadian-rhythm-internal-clock-plants]]
 
-## See Also
-
-- [[soil-food-web]]
-- [[det]]
-- [[ghb]]
-
 ## Overview
 
 Ingham Turf Lawn Compost Tea Programs represents an important element within sustainable
@@ -135,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-food-web]]
+- [[det]]
+- [[ghb]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

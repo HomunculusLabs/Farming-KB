@@ -22,13 +22,6 @@ Roberts served as a guide and farming helper at the [[fukuoka-natural-farming-ph
 - The spiritual dimension of [[fukuoka-desert-revegetation-natural-farming]] continues
 beyond individual life, carried forward by seeds, soil, and community.
 
-## See Also
-
-- [[fukuoka-pine-blight-matsutake-portent]]
-- [[permaculture]]
-- [[fukuoka-green-gulch-zen-center-desert-reclamation]]
-- [[fukuoka-mahayana-and-hinayana-natural-farming]]
-
 ## Overview
 
 Fukuoka Harry Roberts Zen Center Tribute represents an important element within sustainable
@@ -106,8 +99,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-pine-blight-matsutake-portent]]
+- [[permaculture]]
+- [[fukuoka-green-gulch-zen-center-desert-reclamation]]
+- [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

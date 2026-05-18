@@ -56,12 +56,6 @@ The revival of clinical research into all four families since the early 2000s ha
 
 McKenna's analysis fits within his broader framework of the [[psychedelic-consciousness-models]] draws on both pharmacological data and phenomenological reports to build integrated models of how these compounds alter consciousness, a project that extends McKenna's original inquiry into the relationship between molecular structure and subjective experience.
 
-## See Also
-
-- [[mckenna-food-of-the-gods-thesis]]
-- [[psychedelic-plants-and-civilization]]
-- [[mckenna-dmt-experience-and-hyperspace]]
-
 ## Overview
 
 Mckenna Four Families Of Indole Hallucinogens represents an important element within sustainable
@@ -139,8 +133,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-of-the-gods-thesis]]
+- [[psychedelic-plants-and-civilization]]
+- [[mckenna-dmt-experience-and-hyperspace]]
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

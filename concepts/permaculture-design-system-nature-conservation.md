@@ -76,11 +76,9 @@ Permaculture as a design system contains nothing fundamentally new — it arrang
 
 The end result of adopting permaculture strategies is a dramatic reduction in the agricultural area needed by households and settlements, releasing much of the landscape for wildlife and re-occupation by endemic flora. Respect for all life forms is not merely an ideal but an essential ethic for all people.
 
+
 ## See Also
 - [[permaculture-landscape-society-anthropocentric-nature-centered-design]]
-
-## See Also
-
 - [[nut-tree-cultivation-for-permaculture-food-forests]]
 - [[stametsian-permaculture-model]]
 - [[permaculture-farm-design-principles]]

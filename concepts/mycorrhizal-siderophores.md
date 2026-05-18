@@ -27,9 +27,6 @@ is repressed, while iron limitation triggers biosynthesis gene expression.
 This regulatory mechanism ensures that the energetically costly process of
 siderophore production occurs only when needed.
 
-## See Also
-
-- mycorrhizal-siderophores-iron-chelation
 ## Practical Considerations
 
 When working with mycorrhizal Siderophores, several practical factors should be
@@ -141,8 +138,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mycorrhizal-siderophores-iron-chelation
 - [[dighton-leaf-litter-patch-effects-mycorrhizal-community]]
 - [[endobacteria-arbuscular-mycorrhizal-fungi]]
 - [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

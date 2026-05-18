@@ -31,11 +31,6 @@ optimizing
 flowering time, yield, and cannabinoid production in controlled
 environments.
 
-## See Also
-
-- [[phytochrome-plant-light-perception]]
-- [[plant-sensory-biology]]
-
 ## References
 
 - Chamovitz D (2012) What a Plant Knows. Oneworld Publications.
@@ -120,8 +115,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phytochrome-plant-light-perception]]
+- [[plant-sensory-biology]]
 - [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
 - [[night-break-photoperiodism-manipulation-commercial-agriculture]]
 - [[night-interruption-photoperiodism-commercial-floral-manipulation]]

@@ -64,24 +64,6 @@ The development of these ideas reflects decades of practical experience
 and scientific inquiry. Traditional knowledge systems, empirical observation,
 and modern research methods have all contributed to current understanding.
 
-## See Also
-
-- [[amanita]]
-- [[fly-agaric-amanita-muscaria]]
-- [[amanita]]
-- [[shroom-cultural-history-mushroom-art-and-iconography]]
-- [[shroom-cultural-history-hippie-revolution-and-counterculture]]
-## See Also
-
-- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[rig-veda-soma-hymns-amanita-muscaria]]
-- [[allegro-amanita-muscaria-properties-and-pharmacology]]: Cultural History and Pharmacology requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
 ## Future Directions
 
 Continued development in this area promises new insights and
@@ -90,3 +72,18 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+
+## See Also
+- [[amanita]]
+- [[fly-agaric-amanita-muscaria]]
+- [[shroom-cultural-history-mushroom-art-and-iconography]]
+- [[shroom-cultural-history-hippie-revolution-and-counterculture]]
+- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[rig-veda-soma-hymns-amanita-muscaria]]
+- [[allegro-amanita-muscaria-properties-and-pharmacology]]: Cultural History and Pharmacology requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.

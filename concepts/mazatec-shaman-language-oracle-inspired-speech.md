@@ -81,14 +81,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[mazatec-mushroom-tradition]]
 - [[psilocybin-mushrooms]]
 - [[psilocybin-mushroom]]
 - [[psilocybe-mexicana]]
 - [[sierra-mazateca]]
-## See Also
-
 - [[mazatec-mushrooms-of-language]] — broader overview of Mazatec mushroom linguistics
 - [[maria-sabina-and-mazatec-mushroom-ceremony]] — María Sabina's specific practices
 - [[mazatec-mushroom-tradition]] — general Mazatec mushroom tradition

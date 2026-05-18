@@ -32,7 +32,6 @@ Skill in mushroom culture is tantamount to skill in contamination control. If
 a previously successful method suddenly produces unfamiliar contamination,
 identifying the vector requires careful analysis of all variables. What seems
 an inconsequential alteration at one stage can cause radical escalation at later
-## See Also
 ## Practical Considerations
 
 When working with Contaminants of Mushroom Culture Identification and Control, several practical factors should be
@@ -130,8 +129,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[cultivator-grain-spawn-preparation-and-inoculation]]
 - [[mushroom-cultivator-contamination-prevention]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]

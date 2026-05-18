@@ -64,12 +64,6 @@ Subsidiary plants are sometimes added to preparations to alter, increase, or len
 - *Brunfelsia* or *Datura* (added — independently hallucinogenic)
 
 This practice of combining plants represents an extraordinary accomplishment of aboriginal Americans in pharmacological knowledge. The β-carboline alkaloids in *Banisteriopsis* serve as monoamine oxidase inhibitors (MAOIs), which allow the otherwise orally inactive DMT from *Psychotria* to become psychoactive when consumed by mouth.
-## See Also
-- [[hallucinogenic-plants-united-states]]
-- [[ayahuasca]]
-- [[ibogaine]]
-- [[psilocin]]
-
 ## Overview
 
 Chemistry Of Hallucinogenic Plants represents an important element within sustainable
@@ -147,4 +141,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[hallucinogenic-plants-united-states]]
+- [[ayahuasca]]
+- [[ibogaine]]
+- [[psilocin]]

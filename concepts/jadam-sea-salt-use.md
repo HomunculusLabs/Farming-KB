@@ -55,13 +55,6 @@ Fields, rice paddies, and orchards near the sea have been showered with sea wate
 
 JADAM uses sea water together with phyllite solution (fine-powdered phyllite rock). Add 60 kg of phyllite powder to 500 L of water, stir, let settle, and use the upper water. Phyllite contains almost all inorganic nutrients required by plants. Together with sea water, the soil will never be richer in minerals.
 
-## See Also
-
-- [[jadam-ultra-low-cost-methods]]
-- [[jadam-fermented-plant-juice]]
-- [[knf-indigenous-microorganism-culture]]
-- [[knf-water-soluble-calcium]]
-
 ## Overview
 
 Jadam Sea Salt Use represents an important element within sustainable
@@ -139,8 +132,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[jadam-ultra-low-cost-methods]]
+- [[jadam-fermented-plant-juice]]
+- [[knf-indigenous-microorganism-culture]]
+- [[knf-water-soluble-calcium]]
 - [[jadam-anaerobic-fermentation-principles]]
 - [[jadam-element-function-reference]]
 - [[jadam-herbal-smoker-livestock]]

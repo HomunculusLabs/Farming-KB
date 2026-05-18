@@ -53,12 +53,6 @@ Oyster mushroom crops are susceptible to several pests. [[cervantes-sticky-traps
 primary defenses. [[comparison-predatory-mites-vs-ladybugs-biocontrol]] can be introduced
 proactively in commercial operations.
 
-## See Also
-
-- [[oyster-mushrooms]]
-- [[pleurotus-ostreatus]]
-- [[pleurotus-pulmonarius]]
-
 ## Overview
 
 Cultivation Of Oyster Mushrooms represents an important element within sustainable
@@ -136,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[oyster-mushrooms]]
+- [[pleurotus-ostreatus]]
+- [[pleurotus-pulmonarius]]
 - [[fukuoka-rice-dry-field-cultivation]]
 - [[grass-seed-cultivation-of-psilocybe-species]]
 - [[malt-agar-vs-dung-grain-comparative-cultivation-psilocybe-cubensis]]

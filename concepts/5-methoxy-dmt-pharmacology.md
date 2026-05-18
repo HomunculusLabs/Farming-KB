@@ -48,12 +48,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[dmt]]
-- [[bufotenine]]
-- [[indole]]
-
 ## Overview
 
 5 Methoxy Dmt Pharmacology represents an important element within sustainable
@@ -131,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dmt]]
+- [[bufotenine]]
+- [[indole]]
 - [[5-methoxy-compounds]]
 - [[ayahuasca-pharmacology-and-cultural-context]]
 - [[cancer-beta-glucan-pharmacology]]

@@ -47,12 +47,6 @@ Synthetic nitrification inhibitors (such as DCD — dicyandiamide, DMPP — 3,4-
 BNI aligns naturally with [[regenerative-agriculture|Regenerative Agriculture]] · [[compost]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[biological-network-optimization]]
-## See Also
-
-- [[enzyme-inhibition]]
-- [[tryptophan-decarboxylase-inhibition-and-regulation]]
-- [[mckenna-banisteriopsis-caapi-harmine-mao-inhibition-chemistry]]
-
 ## Overview
 
 Biological Nitrification Inhibition represents an important element within sustainable
@@ -130,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[enzyme-inhibition]]
+- [[tryptophan-decarboxylase-inhibition-and-regulation]]
+- [[mckenna-banisteriopsis-caapi-harmine-mao-inhibition-chemistry]]
 - [[biological-indicators-of-soil-and-site]]
 - [[compost]]
 - [[entomopathogenic-nematodes-biological-pest-control]]

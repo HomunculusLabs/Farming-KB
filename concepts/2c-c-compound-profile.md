@@ -60,13 +60,6 @@ complexity of day-to-day management and observation activities.
 ## Historical Significance
 The development and understanding of 2c c compound profile has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
-## See Also
-- [[mdo-compound-profile]]
-- [[2c-t-7-compound-profile]]
-- [[mdma]]
-- [[dom]]
-- [[mescaline]]
-
 ## Overview
 
 2C C Compound Profile represents an important element within sustainable
@@ -144,7 +137,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mdo-compound-profile]]
+- [[2c-t-7-compound-profile]]
+- [[mdma]]
+- [[dom]]
+- [[mescaline]]
 - [[2c-e-compound-profile]]
 - [[dob-compound-profile]]

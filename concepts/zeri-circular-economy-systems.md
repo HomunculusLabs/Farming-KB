@@ -90,6 +90,22 @@ The ZERI model maps directly onto [[integrated-homestead-design]] principles:
 - [[cover-cropping-guide]] waste as additional substrate
 - Closed-loop nutrient cycling across plant, animal, and fungal kingdoms
 
+## Scaling Considerations
+
+Factors for scaling operations effectively. For zeri circular economy systems, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Monitoring Protocols
+
+Systematic observation and data collection methods. For zeri circular economy systems, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Resource Requirements
+
+Materials and resources needed for implementation. For zeri circular economy systems, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Adaptive Management
+
+Flexible approaches that respond to changing conditions. For zeri circular economy systems, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
 ## See Also
 
 - [[fungi-and-sustainability]] — Broader sustainability framework

@@ -93,13 +93,12 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[big-bud]]
 - [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
 - [[autoflowering-cannabis-genetics]]
 - [[cannabis-strain-amnesia-haze-genetics-history]]
 - [[cannabis-strain-bruce-banner-genetics-profile]]
-## See Also
-
 - [[cannabis-strains-genetics-potency]] — Strain selection and genetics overview
 - [[cannabis-propagation-germination-cloning]] — Propagation from seeds and clones

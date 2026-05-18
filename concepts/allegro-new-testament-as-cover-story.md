@@ -49,12 +49,6 @@ numerous flaws in Allegro's [[allegro-death-and-resurrection-in-the-mushroom-cul
 - [[allegro-new-testament-names-as-mushroom-cryptograms]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 - [[comparison-mulch-vs-cover-crops]]
-## See Also
-
-- [[allegro-old-testament-figures-as-fertility-deities]]
-- [[allegro-criticism-rebuttal]]
-- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
-
 ## Overview
 
 Allegro New Testament As Cover Story represents an important element within sustainable
@@ -132,10 +126,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[allegro-old-testament-figures-as-fertility-deities]]
+- [[allegro-criticism-rebuttal]]
+- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 - [[allegro-main-thesis]]
 - [[allegro-man-child-born-virgin-thunder-fertilization-anointing]]
 - [[allegro-mushroom-cosmography]]
-- [[allegro-old-testament-figures-as-fertility-deities]]
 - [[allegro-soma-and-vedic-traditions]]

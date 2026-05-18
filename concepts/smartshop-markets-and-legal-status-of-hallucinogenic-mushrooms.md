@@ -35,11 +35,6 @@ Price ranges observed in European markets:
 | Grow kits | €25–100 |
 | Spore prints / syringes | €9–28 |
 
-## See Also
-
-- [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]
-- [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]
-
 ## Overview
 
 Smartshop Markets And Legal Status Of Hallucinogenic Mushrooms represents an important element within sustainable
@@ -117,8 +112,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]
+- [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]
 - [[emcdda-european-magic-mushroom-smartshop-market]]
 - [[emcdda-smartshop-online-risk-information-quality-audit-2006]]
 - [[emcdda-smartshop-trade-online-distribution-mushrooms]]

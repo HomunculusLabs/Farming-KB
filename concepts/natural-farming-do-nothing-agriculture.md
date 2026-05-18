@@ -53,10 +53,6 @@ White clover (*Trifolium repens*) played a central role in Fukuoka's system as a
 
 Fukuoka drew a sharp distinction between [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]] in a perennial system: no pruning, no spraying, no fertilization, and no cultivation of the ground cover.
 
-## See Also
-
-- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]
-
 ## Overview
 
 Natural Farming Do Nothing Agriculture represents an important element within sustainable
@@ -134,8 +130,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]
 - [[fukuoka-energy-productivity-natural-vs-mechanized-farming]]
 - [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]

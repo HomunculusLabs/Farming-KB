@@ -46,14 +46,6 @@ For areas larger than 0.1 ha (1/4 acre):
 For areas smaller than 0.1 ha (1/4 acre):
 - Take out sea salt from the formula
 
-## See Also
-
-- [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]
-- [[jadam-soil-foundation-work]] - Detailed soil foundation method
-- [[jadam-fertilizer-program]]
-- [[bionutrients]]
-- [[biochar]]
-
 ## Overview
 
 Jadam Fertilizer Program Examples represents an important element within sustainable
@@ -131,8 +123,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]
+- [[jadam-soil-foundation-work]] - Detailed soil foundation method
+- [[jadam-fertilizer-program]]
+- [[bionutrients]]
+- [[biochar]]
 - [[jadam-herb-solution-jhs]]
 - [[jadam-natural-mineral-water]]
 - [[jadam-potassium-fertilizer]]

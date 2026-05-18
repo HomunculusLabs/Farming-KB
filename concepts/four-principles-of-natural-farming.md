@@ -19,13 +19,6 @@ controlled, not eliminated. [[natural-farming-guide-no-till-grain-strategy|no-ti
 conditions. In making the transition, some weeding or
 [[organic-farming-history|ecological farming]] movements around the world.
 
-## See Also
-
-- [[white-clover-ground-cover]]
-- [[natural-farming]]
-- [[permaculture-design]]
-- [[decomposition]]
-
 ## Overview
 
 Four Principles Of Natural Farming represents an important element within sustainable
@@ -103,8 +96,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[white-clover-ground-cover]]
+- [[natural-farming]]
+- [[permaculture-design]]
+- [[decomposition]]
 - [[evaporative-demand-four-factors-mushroom-tropism]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

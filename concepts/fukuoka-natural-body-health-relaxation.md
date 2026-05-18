@@ -21,12 +21,6 @@ Dr. Keizo Hashimoto, a chiropractor from Sendai, made a strong impression on Fuk
 
 Fukuoka had no objection to those who earnestly practice zazen on a tatami mat, but he wondered if one can be at rest by joining one's hands, crossing one's legs, and staying perfectly still. He would think that in moving one's arms and legs, one's attention would be diverted to this, emptying the mind and achieving the same result as if one were to sit quietly.
 
-## See Also
-
-- [[fukuoka-natural-body-and-health]]
-
-- [[fukuoka-natural-diet-philosophy]]
-
 ## Merged: Fukuoka The Natural Body
 Fukuoka's philosophy of the body extends his rejection of human intervention from farming to health and physical well-being. The natural body -- like the [[fukuoka-do-nothing-health-philosophy]] - [[fukuoka-one-straw-revolution-conclusion]]) **Updated:** 2026-04-18 Fukuoka's philosophy of body-earth inseparability holds that the human body and the earth are fundamentally one and the same substance. When a person truly understands this unity, the distinction between self and nature dissolves. - [[fukuoka-natural-farming-philosophy-of-mu]] This is not a metaphor or poetic idea but a literal reality that modern civilization has forgotten.
 ## Practical Considerations
@@ -126,8 +120,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-natural-body-and-health]]
+- [[fukuoka-natural-diet-philosophy]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

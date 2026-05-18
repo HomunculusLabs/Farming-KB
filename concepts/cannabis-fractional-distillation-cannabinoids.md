@@ -46,12 +46,6 @@ Operating at high vacuum introduces safety considerations beyond those of atmosp
 
 Leak detection is important, as air leaking into the system can introduce oxygen that promotes cannabinoid degradation at elevated temperatures. A properly sealed system should maintain its vacuum for extended periods without active pumping. Leak-checking with a vacuum gauge before heating ensures the system integrity needed for successful distillation.
 
-## See Also
-
-[[fractional-distillation]]
-- [[petroleum-ether]]
-- [[ethanol]]
-
 ## Overview
 
 Cannabis Fractional Distillation Cannabinoids represents an important element within sustainable
@@ -129,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[fractional-distillation]]
+- [[petroleum-ether]]
+- [[ethanol]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

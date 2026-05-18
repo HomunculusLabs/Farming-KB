@@ -36,13 +36,6 @@ each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
 successful implementations combine established [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 
-## See Also
-- [[doc]]
-- [[mycorrhiza]]
-- [[doc]]
-- [[permaculture]]
-- [[mollison-designers-appropriate-technology-small-scale-tools]]
-
 ## Overview
 
 Holmgren Gigantism Intermediate Technology And Small Scale represents an important element within sustainable
@@ -120,8 +113,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[mycorrhiza]]
+- [[permaculture]]
+- [[mollison-designers-appropriate-technology-small-scale-tools]]
 - [[holmgren-community-design-and-intentional-communities]]
 - [[holmgren-genetic-engineering-and-evolution]]
 - [[holmgren-mineral-balance-soil-fertility]]

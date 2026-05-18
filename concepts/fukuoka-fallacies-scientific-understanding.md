@@ -23,9 +23,6 @@ This is not passivity; it is a profound humility that recognizes the limits of h
 
 ## Practical Applications
 
-## See Also
-
-Related topics in this wiki include: .
 ## Practical Considerations
 
 When working with Fallacies of Scientific Understanding, several practical factors should be
@@ -123,8 +120,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+Related topics in this wiki include: .
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

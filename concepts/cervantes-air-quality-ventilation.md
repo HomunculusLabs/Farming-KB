@@ -40,11 +40,6 @@ For grow rooms, size the exhaust fan to provide at least one air exchange per mi
 
 Two main approaches to grow [[eclss-environmental-control-life-support]]. Sealed rooms are preferred for commercial operations and growers using CO2 enrichment, while ventilated rooms work well for hobbyists and those on a budget. Hybrid approaches that use partial air exchange combined with supplemental dehumidification are also common.
 
-## See Also
-
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[powdery-mildew-cannabis]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -72,11 +67,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[growing-gourmet-growing-room-ventilation-air-exchange]]
-- [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]
-- [[coleman-greenhouse-ventilation-design]]
 
 ## Overview
 
@@ -147,3 +137,11 @@ Successful integration of cervantes air quality ventilation into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
+
+
+## See Also
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
+- [[powdery-mildew-cannabis]]
+- [[growing-gourmet-growing-room-ventilation-air-exchange]]
+- [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]
+- [[coleman-greenhouse-ventilation-design]]

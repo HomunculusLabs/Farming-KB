@@ -18,10 +18,6 @@ and [[fukuoka-semi-wild-vegetable-growing-techniques]] and
 vegetable cultivation requires careful attention to timing and plant
 selection, but the results are remarkably productive.
 
-## See Also
-
-- [[fukuoka-three-dimensional-orchard-design]]
-- [[fukuoka-no-till-grain-production-method]]
 ## Practical Considerations
 
 Successful implementation of Natural Crop Rotation and Vegetable Growing Methods requires attention to
@@ -68,11 +64,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[fukuoka-crop-rotation-and-natural-weeds]]
-- [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
-- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
 
 ## Overview
 
@@ -148,3 +139,11 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
+
+
+## See Also
+- [[fukuoka-three-dimensional-orchard-design]]
+- [[fukuoka-no-till-grain-production-method]]
+- [[fukuoka-crop-rotation-and-natural-weeds]]
+- [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
+- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]

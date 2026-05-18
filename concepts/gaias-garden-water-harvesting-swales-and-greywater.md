@@ -34,10 +34,6 @@ Greywater closes a loop in the garden ecosystem. Instead of the linear flow (cle
 ### Simple Greywater Setups
 
 - Basin in the sink emptied onto plants
-## See Also
-
-- gaias-garden-greywater-systems
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -65,11 +61,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[soil-life]]
-- [[borago-officinalis]]
-- [[gleditsia-triacanthos]]
 
 ## Overview
 
@@ -147,3 +138,10 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+
+
+## See Also
+- gaias-garden-greywater-systems
+- [[soil-life]]
+- [[borago-officinalis]]
+- [[gleditsia-triacanthos]]

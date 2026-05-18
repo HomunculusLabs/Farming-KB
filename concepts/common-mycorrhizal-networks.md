@@ -34,9 +34,6 @@ Beyond resource transfer, evidence suggests that CMNs facilitate chemical
 signaling between plants. Plants attacked by herbivores or pathogens can
 produce [[gadd-fungal-biodiversity-conservation]] and ecosystem resilience.
 
-## See Also
-
-- [[plant-fungal-signaling-mycorrhiza]] — [[rhizophagus-irregularis]]
 ## Practical Considerations
 
 Successful implementation of Common Mycorrhizal Networks requires attention to
@@ -84,7 +81,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[plant-fungal-signaling-mycorrhiza]] — [[rhizophagus-irregularis]]
 - [[doc]]
 - [[det]]
 - [[fungal-hyphae]]

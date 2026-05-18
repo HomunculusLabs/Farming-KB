@@ -32,9 +32,6 @@ foundations of modern education and the idea that knowledge is best pursued
 through division and specialization. For Fukuoka, the path back to nature
 is the path back to sanity.
 
-## See Also
-
-- [[fukuoka-natural-farming-philosophy]] — the [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] — analytic, separating thought
 ## Practical Considerations
 
 When working with Fukuoka Pit of Knowledge and Fragmented Science Critique, several practical factors should be
@@ -132,8 +129,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-natural-farming-philosophy]] — the [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] — analytic, separating thought
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

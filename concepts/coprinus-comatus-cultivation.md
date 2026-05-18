@@ -58,11 +58,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[substrate-preparation]]
-- [[spore]]
-- [[mycelium]]
-
 ## Overview
 
 Coprinus Comatus Cultivation represents an important element within sustainable
@@ -140,8 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[substrate-preparation]]
+- [[spore]]
+- [[mycelium]]
 - [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
 - [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
 - [[coprinus-picaceus]]

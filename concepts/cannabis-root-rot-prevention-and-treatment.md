@@ -63,11 +63,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[composting]]
-- [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]
-- [[query-what-causes-cannabis-bud-rot-and-how-to-prevent-it]]
-
 ## Overview
 
 Cannabis Root Rot Prevention And Treatment represents an important element within sustainable
@@ -145,6 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[composting]]
+- [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]
+- [[query-what-causes-cannabis-bud-rot-and-how-to-prevent-it]]
 - [[blesching-cannabis-vasopressin-aggression]]

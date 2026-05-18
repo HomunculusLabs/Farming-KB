@@ -39,10 +39,6 @@ At wholesale markets such as Carpentras, truffle selling follows a distinctive s
 
 The Périgord region is a famous truffle ground, yet Carpentras in Vaucluse was for many years foremost in the truffle trade. The village of Bédouin, about eight miles from Carpentras under the shadow of Mt. Ventoux, is the center of one of the chief truffle sections of France. Through some unknown cause, truffles have begun to fail in this region — a matter of regret, as a thorough study of the conditions has not been made by botanists and mycologists.
 
-## See Also
-
-- [[mushroom-cultivation]]
-
 ## Overview
 
 Truffle Hunting Methods And Truffle Culture represents an important element within sustainable
@@ -120,8 +116,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-cultivation]]
 - [[bloomfield-truffle-evolution-cup-fungi-hypogeous]]
 - [[bloomfield-truffle-hunting-and-culinary-fungi]]
 - [[sequestrate-fungi-evolution-mushroom-to-truffle]]

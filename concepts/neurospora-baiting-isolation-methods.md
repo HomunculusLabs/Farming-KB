@@ -23,11 +23,6 @@ Following forest fires, phoenicoid fungi are assigned to groups based on timing 
 - Group 3: Species appearing 20-50 weeks after fire, continuing 130-200 weeks
 - Group 4: Species not appearing until 50 weeks, continuing up to 150 weeks
 
-## See Also
-
-- [[fungal-sensitivity-testing-identification]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[molecular-fungal-taxonomy]]
 ## Practical Considerations
 
 Successful implementation of Neurospora Baiting and Isolation Methods requires attention to
@@ -124,8 +119,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-sensitivity-testing-identification]]
+- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+- [[molecular-fungal-taxonomy]]
 - [[arbuscule-isolation-metabolic-activity-assays]]
 - [[bacterial-endophyte-isolation-detection-plant-roots]]
 - [[neurospora-crassa]]

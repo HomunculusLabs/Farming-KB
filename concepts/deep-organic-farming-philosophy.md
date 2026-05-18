@@ -66,12 +66,6 @@ The philosophy connects soil health directly to human health: just as organic fa
 5. **Soil health as the foundation** of food quality, with attention to mineral balance and biological activity
 6. **Minimal processing** to preserve the nutritional integrity of food
 7. **Direct relationships** between growers and eaters, eliminating unnecessary intermediaries
-## See also
-
-- [[deep-organic-farming]]
-- [[eliot-coleman]]
-- [[coleman-deep-organic-vs-shallow-organic-farming]]
-
 ## Practical Applications
 
 Deep-Organic Farming Philosophy has several important applications in sustainable agriculture
@@ -80,8 +74,11 @@ practical methods for implementation across diverse climate zones.
 Understanding these applications helps integrate the concept into
 broader farming and gardening practice.
 
-## See Also
 
+## See Also
+- [[deep-organic-farming]]
+- [[eliot-coleman]]
+- [[coleman-deep-organic-vs-shallow-organic-farming]]
 - [[coleman-deep-organic-farming-philosophy]]
 - [[coleman-deep-organic-shallow-organic-farming-comparison]]
 - [[coleman-deep-organic-history-and-philosophy]]

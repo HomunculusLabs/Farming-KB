@@ -56,14 +56,6 @@ veterinary supplies. However, he acknowledges that conventional veterinary
 care may be needed for acute conditions and emergencies.
 ## Breed Selection
 
-## See Also
-
-- [[permaculture-design-concepts-themes]]
-- [[permaculture-design-methods-and-topics]]
-- [[permaculture-design-principles-overview]]
-- [[permaculture-design-scope-and-methods]]
-- [[permaculture-design-system-nature-conservation]]
-
 ## Overview
 
 Permaculture Designers Manual Cattle Systems represents an important element within sustainable
@@ -141,8 +133,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-design-concepts-themes]]
+- [[permaculture-design-methods-and-topics]]
+- [[permaculture-design-principles-overview]]
+- [[permaculture-design-scope-and-methods]]
+- [[permaculture-design-system-nature-conservation]]
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]

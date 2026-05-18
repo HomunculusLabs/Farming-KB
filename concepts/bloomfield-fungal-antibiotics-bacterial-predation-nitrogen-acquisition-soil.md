@@ -58,10 +58,6 @@ formation, and show a marked propensity for attacking other organisms.
 The continuous production of antibiotics by fungi in soil has driven the evolution
 of antibiotic [[ph-and-nutrient-availability-garden-soils]] fluctuates unpredictably.
 
-## See Also
-- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
-- [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
-
 ## Sources
 - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists
   (Nicholas P. Money, 2002) — Chapter 8: Angels of Death; Chapter 9: The Blight
@@ -143,8 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
+- [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 - [[bloomfield-amatoxin-poisoning-mechanism]]
 - [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
 - [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]

@@ -48,13 +48,6 @@ induces apoptosis in lymphoma cancer cells.
 
 | Drug | Study Type | Year, Place, Key Results | CHI |
 
-## See Also
-- [[blesching-cannabis-rheumatoid-arthritis]]
-- [[blesching-cannabis-cancer-night-sweats]]
-- [[doc]]
-- [[cannabis-for-leukemia-and-lymphoma]]
-- [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
-
 ## Overview
 
 Blesching Cannabis Leukemia Lymphoma represents an important element within sustainable
@@ -132,8 +125,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[blesching-cannabis-rheumatoid-arthritis]]
+- [[blesching-cannabis-cancer-night-sweats]]
+- [[doc]]
+- [[cannabis-for-leukemia-and-lymphoma]]
+- [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[blesching-molecules-emotions-expansive-constricting-neurotransmitters]]
 - [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]]

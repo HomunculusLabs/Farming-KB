@@ -58,12 +58,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[doc]]
-- [[borago-officinalis]]
-- [[ocimum-basilicum]]
-
 ## Overview
 
 Herb Gardening Organic Hamilton represents an important element within sustainable
@@ -141,8 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[borago-officinalis]]
+- [[ocimum-basilicum]]
 - [[comparison-banana-circle-vs-herb-spiral]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
 - [[herb-spiral]]

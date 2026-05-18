@@ -56,11 +56,6 @@ complexity of day-to-day management and observation activities.
 
 ## Future Directions
 
-## See Also
-
-- [[tma-4-entity-pihkal]]
-- [[tma-entity-pihkal]]
-
 ## Overview
 
 Tma 2 Compound Profile represents an important element within sustainable
@@ -138,8 +133,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tma-4-entity-pihkal]]
+- [[tma-entity-pihkal]]
 - [[2c-e-compound-profile]]
 - [[dob-compound-profile]]
 - [[dpt-compound-profile]]

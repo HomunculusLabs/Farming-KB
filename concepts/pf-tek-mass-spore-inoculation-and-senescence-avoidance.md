@@ -38,13 +38,6 @@ Successful cultivation depends on maintaining appropriate environmental conditio
 
 Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
 
-## See Also
-- [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]]
-- [[compost-biology-soil-food-web-inoculation]]
-- [[pf-tek-brown-rice-vermiculite-substrate-method]] — Complete substrate preparation
-- [[pf-tek-spore-printing-and-syringe-preparation]]
-- [[pf-tek-contaminant-source-identification]] — Troubleshooting contamination
-
 ## References
 
 - Fanaticus, P. (1996). PF TEK: Complete Illustrated Instructions for Cultivating [[query-how-to-identify-psilocybe-cubensis-mushrooms]]. Psylocybe Fanaticus, Seattle, WA.
@@ -127,8 +120,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]]
+- [[compost-biology-soil-food-web-inoculation]]
+- [[pf-tek-brown-rice-vermiculite-substrate-method]] — Complete substrate preparation
+- [[pf-tek-spore-printing-and-syringe-preparation]]
+- [[pf-tek-contaminant-source-identification]] — Troubleshooting contamination
 - [[comparison-windbreak-vs-thermal-mass]]
 - [[fungal-roles-in-mass-extinction-recovery]]
 - [[mckenna-food-gods-television-drug-mass-hypnosis]]

@@ -26,10 +26,6 @@ becoming stuck in difficult psychological material.
 Participants sit or lie in near darkness while the healer sings almost
 uninterruptedly throughout the night, weaving the names of Christian saints,
 spirit allies, and the spirits of the Earth, elements, animals, plants, sky,
-## See Also
-
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[icaros-power-songs]]
 ## Practical Considerations
 
 Successful implementation of Metzner Shamanic Healing and Divination Paradigm requires attention to
@@ -126,8 +122,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[metzner-hybrid-shamanic-therapeutic-rituals]]
+- [[icaros-power-songs]]
 - [[metzner-consciousness-expansion-versus-contraction-addiction]]
 - [[metzner-neoshamanic-medicine-circles]]
 - [[metzner-san-pedro-cactus-andean-ceremony-altar-practice]]

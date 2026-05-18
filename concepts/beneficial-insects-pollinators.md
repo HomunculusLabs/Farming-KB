@@ -36,13 +36,6 @@ relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
-## See Also
-- [[gaias-garden-beneficial-insects-pest-management]]
-- [[hemenway-insectary-plants-and-beneficial-insects]]
-- [[gaillardia-pulchella|Gaillardia Pulchella]]
-- [[permaculture-insectary-plants]]
-- [[jadam-fruit-tree-winter-pest-control]]
-
 ## Overview
 
 Beneficial Insects Pollinators represents an important element within sustainable
@@ -120,8 +113,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gaias-garden-beneficial-insects-pest-management]]
+- [[hemenway-insectary-plants-and-beneficial-insects]]
+- [[gaillardia-pulchella|Gaillardia Pulchella]]
+- [[permaculture-insectary-plants]]
+- [[jadam-fruit-tree-winter-pest-control]]
 - [[beneficial-indigenous-microorganisms-lacto-bacilli]]
 - [[beneficial-insects-cannabis]]
 - [[coleman-beneficial-insects-and-ecological-pest-control]]

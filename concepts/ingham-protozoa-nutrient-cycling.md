@@ -40,14 +40,6 @@ When applying these concepts, consider regional variations, available resources,
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
-
-- [[ingham-protozoa-soil-food-web-nutrient-cycling]]
-- [[soil-protozoa-nutrient-cycling-and-mineralization]]
-- [[soil-food-web]]
-- [[protozoa-nematode-nutrient-cycling-ingham]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-
 ## Overview
 
 Ingham Protozoa Nutrient Cycling represents an important element within sustainable
@@ -125,8 +117,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ingham-protozoa-soil-food-web-nutrient-cycling]]
+- [[soil-protozoa-nutrient-cycling-and-mineralization]]
+- [[soil-food-web]]
+- [[protozoa-nematode-nutrient-cycling-ingham]]
+- [[ingham-nutrient-cycling-soil-food-web]]
 - [[aact-brewing-ingredients-ingham]]
 - [[ingham-aact-brewing-techniques]]
 - [[ingham-foliar-pest-deterrence-aact]]

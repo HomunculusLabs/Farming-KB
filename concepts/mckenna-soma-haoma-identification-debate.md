@@ -56,14 +56,6 @@ This elusiveness is itself significant. The Soma mystery has driven centuries of
 
 Perhaps the most important lesson of the Soma debate is that the entheogenic dimension of ancient religion has been systematically underestimated and dismissed by mainstream scholarship. Whether or not Soma is ever definitively identified, the recognition that psychoactive plants played a central role in the formation of the world's religious traditions represents a fundamental shift in our understanding of human cultural evolution.
 
-## See Also
-
-- [[mckenna-stropharia-hypothesis]]
-- ayahuasca pharmacology dmt maoi
-- vedic ritual and psychoactive plants
-- wasson ethnomycology legacy
-- peganum harmala pharmacology
-
 ## Overview
 
 Mckenna Soma Haoma Identification Debate represents an important element within sustainable
@@ -141,8 +133,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-stropharia-hypothesis]]
+- ayahuasca pharmacology dmt maoi
+- vedic ritual and psychoactive plants
+- wasson ethnomycology legacy
+- peganum harmala pharmacology
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

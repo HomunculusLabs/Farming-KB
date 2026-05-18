@@ -54,11 +54,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[cervantes-15-bag-water-hash-extraction]]
-- [[cervantes-water-quality-filtration]]
-- [[cervantes-wilting-plant-water-stress]]
-
 ## Overview
 
 Cervantes Water Hash Bubble Hash represents an important element within sustainable
@@ -136,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cervantes-15-bag-water-hash-extraction]]
+- [[cervantes-water-quality-filtration]]
+- [[cervantes-wilting-plant-water-stress]]
 - [[cervantes-damping-off-seedling-disease-prevention]]
 - [[cervantes-high-pressure-sodium-lighting]]
 - [[cervantes-passive-wick-hydroponic-systems]]

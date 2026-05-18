@@ -26,9 +26,6 @@ Since 1982, several advances have improved psilocybin/psilocin analysis:
 For laboratories performing psilocybin/psilocin testing:
 
 1. **Use certified reference standards** (available from NIDA, Cerilliant, or other suppliers)
-## See Also
-
-- [[psilocybin-psilocin-variation-analysis]]
 ## Practical Applications
 
 HPLC Analysis of [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
@@ -74,10 +71,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[psilocin]]
-- [[doc]]
-- [[det]]
 ## Benefits and Limitations
 
 Hplc Analysis Psilocybin Psilocin Mushroom Tissue offers several advantages in practice, including adaptability to
@@ -93,3 +86,10 @@ offering unique advantages for specific situations. Comparative evaluation
 of these methods helps identify the most suitable option given available
 resources, environmental constraints, and desired outcomes. Combining
 multiple approaches often yields synergistic benefits.
+
+
+## See Also
+- [[psilocybin-psilocin-variation-analysis]]
+- [[psilocin]]
+- [[doc]]
+- [[det]]

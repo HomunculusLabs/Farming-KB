@@ -58,10 +58,6 @@ are combined to produce a full-spectrum preparation. Commercial Chaga products
 vary widely in their extraction methods and resulting compound profiles, which
 complicates comparisons between studies and between products. Consumers should
 be aware that a product extracted only with water will contain minimal betulin
-## See Also
-
-- [[cancer-immune-modulation-mechanisms]] mechanisms relevant to Chaga's antitumour activity
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -83,7 +79,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cancer-immune-modulation-mechanisms]] mechanisms relevant to Chaga's antitumour activity
 - [[lentinan]]
 - [[ethanol]]
 - [[mycelium]]

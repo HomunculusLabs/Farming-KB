@@ -110,14 +110,13 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
+
 ## See Also
 - [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
 - [[clay-seed-pellet-composition-and-aerial-seeding-method]]
 - [[clay-pellet-seed-ball-method-for-desert-revegetation]]
 - [[sclerotia-production-grass-seed-jar-method]]
 - [[fukuoka-desert-revegetation-clay-pellet-method]]
-
-## See Also
 - [[det]]
 - [[spore]]
 - [[permaculture]]

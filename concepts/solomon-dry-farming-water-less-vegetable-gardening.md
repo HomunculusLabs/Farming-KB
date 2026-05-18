@@ -45,12 +45,6 @@ Solomon makes a crucial economic argument: [[mollison-designers-soil-ph-and-mine
 6. **Accept lower per-square-foot yields** in exchange for lower inputs and
    more reliable production without irrigation infrastructure
 
-## See Also
-
-- [[watering-irrigation-solomon]]
-- [[vegetable-garden-spacing-systems-solomon]]
-- soil fertility building
-
 ## Overview
 
 Solomon Dry Farming Water Less Vegetable Gardening represents an important element within sustainable
@@ -128,8 +122,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[watering-irrigation-solomon]]
+- [[vegetable-garden-spacing-systems-solomon]]
+- soil fertility building
 - [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 - [[solomon-low-grade-compost-making-methods]]

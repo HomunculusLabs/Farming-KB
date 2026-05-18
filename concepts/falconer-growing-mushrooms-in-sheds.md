@@ -53,11 +53,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
-- [[growing-gourmet-parasitic-mushrooms-forest-blights]]
-- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-
 ## Overview
 
 Falconer Growing Mushrooms In Sheds represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
+- [[growing-gourmet-parasitic-mushrooms-forest-blights]]
+- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
 - [[falconer-horse-manure-varieties]]
 - [[falconer-mushroom-cellar-ventilation-and-moisture]]
 - [[falconer-mushroom-cooking-selection-and-preparation]]

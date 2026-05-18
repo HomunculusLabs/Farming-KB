@@ -14,9 +14,6 @@ Mollison suggests people should "mulch their recipe books" — replace books tha
 
 Just as designers can increase yield, so can yield be decreased. The perverse aims of some politicians, developers, and even religious dogmatists limit yield by disallowing certain products. Just as one's neighbors may refuse the snail and eat the lettuce, refuse the blackbird and eat the strawberry, so people may only allow certain types of toilets or certain plants in gardens and parks. People are the main impediment to using their potential yields — not physical limitations of the land or climate.
 
-## See Also
-- [[yield-extension-and-storage]]
-
 ## Overview
 
 Yield Extension And Storage Strategies represents an important element within sustainable
@@ -94,8 +91,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[yield-extension-and-storage]]
 - [[farm-strategies-and-yield-extension-in-permaculture]]
 - [[fukuoka-hotel-analogy-crop-yield-model]]
 - [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]

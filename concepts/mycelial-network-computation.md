@@ -59,11 +59,6 @@ research in telecommunications.
 - **Pattern recognition**: Exploiting the high-dimensional dynamics of
   mycelial networks for classification tasks via reservoir computing.
 
-## See Also
-
-- biological computing
-- [[unconventional-computing]]
-
 ## Overview
 
 Mycelial Network Computation represents an important element within sustainable
@@ -141,8 +136,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- biological computing
+- [[unconventional-computing]]
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycelial-colonization]]
 - [[mycelial-growth-promotion]]

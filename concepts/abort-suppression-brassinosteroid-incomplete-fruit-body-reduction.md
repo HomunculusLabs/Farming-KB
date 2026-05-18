@@ -54,11 +54,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
-- [[incomplete-fruit-body-suppression-brassinosteroid-cultivation]]
-- [[mycelium]]
-
 ## Overview
 
 Abort Suppression Brassinosteroid Incomplete Fruit Body Reduction represents an important element within sustainable
@@ -136,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
+- [[incomplete-fruit-body-suppression-brassinosteroid-cultivation]]
+- [[mycelium]]
 - [[abort-dead-pinhead-cleanup-casing-surface-hygiene]]
 - [[abort-harvesting-alkaloid-concentration-pf-tek]]
 - [[abort-management-pinhead-removal-mushroom-casing-cultivation]]

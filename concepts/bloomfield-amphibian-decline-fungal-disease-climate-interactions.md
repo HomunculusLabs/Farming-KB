@@ -47,12 +47,6 @@ Chytrid species also infect mosquito larvae and other aquatic insects, algae, an
 
 The chytrid's role as a parasite of mosquito larvae has attracted interest from public health researchers, as it raises the possibility of [[mycelium-running-conservation-biology-and-fungi]] and [[bloomfield-saprolegnia-water-mold-zoospore-discharge]] are genuine pathogens, but their impact is amplified by environmental changes that stress host populations and compromise their immune defenses. Conservation efforts must therefore address both the proximate cause (the pathogen itself) and the ultimate causes (climate change, habitat degradation, and other environmental stressors) that create conditions favorable for disease emergence — challenges explored in fungal biodiversity and conservation.
 
-## See Also
-
-- [[fungal-biodiversity]]
-- [[spore]]
-- [[batrachochytrium-dendrobatidis]]
-
 ## Overview
 
 Bloomfield Amphibian Decline Fungal Disease Climate Interactions represents an important element within sustainable
@@ -130,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-biodiversity]]
+- [[spore]]
+- [[batrachochytrium-dendrobatidis]]
 - [[bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution]]
 - [[bloomfield-fungal-secondary-metabolites]]
 - [[bloomfield-nematode-trapping-adhesive-snares-explosive-ring-mechanisms]]

@@ -37,15 +37,6 @@ highlights safety concerns that modern research protocols specifically
 address. His expectation that mushrooms would be 'as good as LSD' also
 illustrates how preconceived notions can shape psychedelic experiences.
 
-## See Also
-
-- [[leary-harvard-psilocybin-project]]
-- gordon-wasson
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -143,8 +134,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[leary-harvard-psilocybin-project]]
+- gordon-wasson
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[grass-seed-cultivation-of-psilocybe-species]]
 - [[psilocybe-fascicata]]
 - [[psilocybe-plutonia]]

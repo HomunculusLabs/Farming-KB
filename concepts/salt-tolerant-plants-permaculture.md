@@ -65,10 +65,6 @@ A fast-growing leguminous tree reaching 30 m, which adapts well to semi-arid con
 4. **Plan for coppice**: Many salt-tolerant trees (sissoo, mopane) respond well to coppice management
 5. **Multi-function stacking**: Select species that provide forage, honey, timber, or erosion control alongside salt tolerance
 6. **Gradual remediation**: Saltbushes and other halophytes can gradually improve soil conditions, allowing less tolerant species to be introduced over time
-## See Also
-- [[alkaline-soil-tolerant-plants-permaculture]]
-- [[salt-tolerant-trees-and-shrubs-permaculture]]
-
 ## Overview
 
 Salt Tolerant Plants Permaculture represents an important element within sustainable
@@ -146,4 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[alkaline-soil-tolerant-plants-permaculture]]
+- [[salt-tolerant-trees-and-shrubs-permaculture]]

@@ -33,11 +33,6 @@ greenhouse plantings, excessive elongation reduces fruit quality
 and increases disease susceptibility. Supplemental far-red LED
 lighting can be used to manipulate the R:FR ratio and control
 
-## See Also
-- [[phytochrome-photoperiodism-plants]]
-- [[mycorrhizal-phosphatase-activity-elf97-detection]]
-- [[parasitic-plant-host-detection-volatile-sensing]]
-
 ## Overview
 
 Phytochrome Red Far Red Ratio Shade Detection Plants represents an important element within sustainable
@@ -115,8 +110,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phytochrome-photoperiodism-plants]]
+- [[mycorrhizal-phosphatase-activity-elf97-detection]]
+- [[parasitic-plant-host-detection-volatile-sensing]]
 - [[phytochrome]]
 - [[phytochrome-discovery-butler-single-receptor-model]]
 - [[phytochrome-photoreceptor-red-far-red-light]]

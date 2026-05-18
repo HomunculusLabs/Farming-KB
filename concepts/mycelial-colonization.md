@@ -14,20 +14,6 @@ type: concept
 - Pre-wet substrate 12-24 hours before pasteurization to ensure even
   moisture distribution.
 
-## See Also
-
-- [[mycelium-colonization]]
-
-- [[substrate-contamination]] — threats to successful colonization
-
-See also [[grain-spawn-preparation]] for related cultivation topics.
-
-[[cotter-inoculation-techniques-and-hygiene]] and sterile [[mushroom-strain-preservation-species-banking]] — long-term strain storage and genetic preservation methods
-[[hyphal-growth-mechanics-and-invasion]], branching, and anastomosis underlying [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -119,8 +105,16 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycelium-colonization]]
+- [[substrate-contamination]] — threats to successful colonization
+See also [[grain-spawn-preparation]] for related cultivation topics.
+[[cotter-inoculation-techniques-and-hygiene]] and sterile [[mushroom-strain-preservation-species-banking]] — long-term strain storage and genetic preservation methods
+[[hyphal-growth-mechanics-and-invasion]], branching, and anastomosis underlying [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[gadd-mycelial-network-dynamics]]
 - [[mushroom-mycelial-morphology-types-identification]]
 - [[mycelial-broth-alkaloid-production]]

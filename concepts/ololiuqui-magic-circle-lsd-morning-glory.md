@@ -97,14 +97,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[schultes-ololiuqui-and-morning-glory]]
 - [[hofmann-ololiuqui-morning-glory-investigation]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
 - [[lysergic-acid-amide]]
 - [[rivea-corymbosa]]
-## See Also
-
 - [[lsd-structure-activity-relationships-related-compounds]] — The chemistry of lysergic acid derivatives
 - [[sacred-mushrooms-mazatecs-wasson-expeditions-indigenous-belief]] — Wasson's expeditions
 - [[mazatec-mushroom-shamanism-language-and-revelation]] — Mazatec mushroom practices

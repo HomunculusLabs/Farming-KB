@@ -38,10 +38,6 @@ The 5-methoxy family shares several [[psilocybin-ego-dissolution-mechanisms]] wi
 3. **Minimal auditory component**: Even compared to DMT, 5-MeO compounds tend to produce relatively silent experiences
 4. **Variable oral activity**: Unlike DMT which is strictly inactive orally without an MAOI, some 5-MeO compounds (particularly 5-MeO-DIPT and 5-MeO-MIPT) show partial oral activity, likely due to steric hindrance at the amine nitrogen reducing metabolic deamination
 
-## See Also
-
-- [[beta-carboline-chemistry]]
-
 ## Merged: Structure Activity Relationships Of Tryptamines
 
 # Structure-Activity Relationships of Tryptamines
@@ -93,11 +89,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[dom]]
-- [[det]]
-- [[soma]]
-
 ## Practical Considerations
 
 Understanding the practical applications of this
@@ -121,3 +112,10 @@ topic carefully. These connect theoretical understanding
 with practical application and field observation,
 providing a framework for both academic study and
 hands-on implementation in real-world scenarios.
+
+
+## See Also
+- [[beta-carboline-chemistry]]
+- [[dom]]
+- [[det]]
+- [[soma]]

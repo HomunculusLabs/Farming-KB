@@ -14,10 +14,6 @@ Radiation — the transfer of heat through electromagnetic waves — is one of t
 - Reflective surfaces multiply the effective solar collection area
 - Insulation preserves stored heat precisely where and when it is needed
 
-## See Also
-- [[albedo-heat-radiation]]
-- [[radiation-effects-permaculture-design]]
-
 ## Overview
 
 Radiation And Heat Storage Design represents an important element within sustainable
@@ -95,8 +91,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[albedo-heat-radiation]]
+- [[radiation-effects-permaculture-design]]
 - [[heat-transfer-conduction-convection-radiation]]
 - [[holzer-raised-bed-design]]
 - [[langley-radiation-unit]]

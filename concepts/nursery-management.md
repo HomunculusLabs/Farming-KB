@@ -42,14 +42,6 @@ Nursery record keeping is essential for managing the propagation calendar and tr
 
 Permaculture nurseries can generate income through plant sales to the community. Surplus seedlings of vegetables, herbs, fruit trees, and ornamental plants can be sold at farmers markets, through community networks, or at the nursery gate. Speciality plants including rare food species, medicinal herbs, and indigenous plants often command premium prices. Nursery income can contribute to household economics and fund further permaculture development.
 
-## See Also
-
-[[permaculture-plant-selection]]
-
-permaculture-designers-manual-seed-saving-varieties
-- permaculture-designers-manual-plant-propagation
-- [[mycorrhizal-fungi]]
-
 ## Overview
 
 Nursery Management represents an important element within sustainable
@@ -127,8 +119,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[permaculture-plant-selection]]
+permaculture-designers-manual-seed-saving-varieties
+- permaculture-designers-manual-plant-propagation
+- [[mycorrhizal-fungi]]
 - [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 - [[jadam-seed-treatment-and-nursery-management]]
 - [[mollison-designers-plant-nursery-establishment]]

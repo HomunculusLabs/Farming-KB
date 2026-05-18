@@ -45,13 +45,6 @@ potatoes are a [[jeavons-companion-planting]]
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[coleman-yearly-schedule-multi-crop-winter-rotation-planning]]
-- [[crop-rotation-and-ley-farming]]
-- [[det]]
-- [[jeavons-crop-rotation-system]]
-- [[jadam-crop-rotation-critique]]
-
 ## Overview
 
 Jeavons Crop Rotation Detail represents an important element within sustainable
@@ -129,8 +122,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[coleman-yearly-schedule-multi-crop-winter-rotation-planning]]
+- [[crop-rotation-and-ley-farming]]
+- [[det]]
+- [[jeavons-crop-rotation-system]]
+- [[jadam-crop-rotation-critique]]
 - [[jeavons-composting-methods]]
 - [[jeavons-grow-biointensive-method-overview]]
 - [[jeavons-master-planning-mini-farms]]

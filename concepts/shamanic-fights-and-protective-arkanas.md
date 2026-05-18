@@ -63,11 +63,6 @@ The defensive plants used in this battle include piñón colorado (Jatropha goss
 
 Shamanic fights are not merely metaphorical. In Amazonian communities, accusations of sorcery are common and can lead to social conflict, displacement, and even violence. The elaborate defensive systems described in the visions reflect real social dynamics in which healers must maintain active defenses against perceived spiritual attacks. The visions also serve a pedagogical function: by visualizing the spirit world in such detail, they train apprentices in the taxonomy of threats and the repertoire of available defenses.
 
-## See also
-
-- [[amaringo-ayahuasca-visions-shipibo-iconography]]
-- [[mariri-phantom-sorcery]]
-
 ## Overview
 
 Shamanic Fights And Protective Arkanas represents an important element within sustainable
@@ -145,6 +140,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[amaringo-ayahuasca-visions-shipibo-iconography]]
+- [[mariri-phantom-sorcery]]
 - [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]

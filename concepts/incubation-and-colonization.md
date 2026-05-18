@@ -17,9 +17,6 @@ mycelium cake begins to turn blue and no more mushrooms form. Secondary
 fruiting may occur if the cake is thoroughly cleaned, but yields are usually
 sparse and small.
 
-## See Also
-
-- [[fruiting-conditions-and-harvesting]]
 ## Practical Applications
 
 incubation and colonization has a range of practical applications that make it relevant to
@@ -118,8 +115,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fruiting-conditions-and-harvesting]]
 - [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
 - [[mushroom-incubation]]
 - [[mushroom-training-incubation-management]]

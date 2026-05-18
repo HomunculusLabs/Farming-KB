@@ -35,9 +35,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[mycelium]]
-
 ## Overview
 
 Mushroom Cultivation Lifecycle represents an important element within sustainable
@@ -115,8 +112,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycelium]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

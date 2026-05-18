@@ -43,11 +43,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[det]]
-- [[mycelium]]
-- [[fungal-biodiversity-built-environments-indoor-mycobiome]]
-
 ## Overview
 
 Fungal Biodiversity Patterns represents an important element within sustainable
@@ -125,8 +120,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[mycelium]]
+- [[fungal-biodiversity-built-environments-indoor-mycobiome]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

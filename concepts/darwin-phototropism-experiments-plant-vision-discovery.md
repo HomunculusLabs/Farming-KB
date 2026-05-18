@@ -29,13 +29,6 @@ blue-light photoreceptor proteins responsible for [[plant-sensory-biology]]**: T
   at a time with clear controls—became a model for [[phytochrome]], phototropins,
   cryptochromes) and the molecular pathways through which plants detect light.
 
-## See Also
-
-- [[phytochrome]] — Red/far-red light sensing in plants
-- plant photoreceptor families beyond phytochrome — Modern photoreceptor
-  systems
-- [[photoperiodism]] — How plants measure day length to time flowering
-
 ## Overview
 
 Darwin Phototropism Experiments Plant Vision Discovery represents an important element within sustainable
@@ -113,8 +106,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phytochrome]] — Red/far-red light sensing in plants
+- plant photoreceptor families beyond phytochrome — Modern photoreceptor
+  systems
+- [[photoperiodism]] — How plants measure day length to time flowering
 - [[darwin-finches]]
 - [[darwin-five-condition-phototropism-experiment-canary-grass]]
 - [[darwin-five-condition-phototropism-experimental-design]]

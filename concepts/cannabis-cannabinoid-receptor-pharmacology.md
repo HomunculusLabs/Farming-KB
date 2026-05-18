@@ -71,13 +71,11 @@ The development of these ideas reflects decades of practical experience
 and scientific inquiry. Traditional knowledge systems, empirical observation,
 and modern research methods have all contributed to current understanding.
 
-## See Also
 
+## See Also
 - [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
 - [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
 - [[cannabinoid-receptors-cb1-cb2]]
 - [[endocannabinoid-system-and-cannabis-pharmacology]]
 - [[emcdda-psilocybin-psilocin-serotonin-5ht2a-receptor-pharmacology]]
-## See Also
-
 - [[cannabis-for-gastrointestinal-conditions]]

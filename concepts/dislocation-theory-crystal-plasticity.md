@@ -89,9 +89,6 @@ Small coherent precipitates are sheared by dislocations through chemical (new in
 
 ## Observation Techniques
 
-## See Also
-- [[fukuoka-high-yield-theory-photosynthesis-critique]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -120,7 +117,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fukuoka-high-yield-theory-photosynthesis-critique]]
 - [[dom]]
 - [[amanita-muscaria-holy-grail-theory-detailed]]
 - [[tree-of-knowledge-and-forbidden-fruit-theory]]

@@ -24,11 +24,6 @@ type: concept
 
 Fringing coral reefs disappear opposite streams on tropical islands
 
-## See Also
-- [[mollison-designers-high-island-and-tropical-valley-design]]
-- [[mollison-pdc-small-pond-frog-habitat-design]]
-- [[mollison-pdc-design-report-methodology]]
-
 ## Overview
 
 Mollison Pdc High Island Design represents an important element within sustainable
@@ -106,8 +101,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-high-island-and-tropical-valley-design]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[mollison-pdc-design-report-methodology]]
 - [[hypnodinium-mollison]]
 - [[mollison-arid-lands-aquatic-species]]
 - [[mollison-orographic-and-forest-rainfall-effects]]

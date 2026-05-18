@@ -50,11 +50,6 @@ vision, even though their visual experience bears no resemblance
 to human pictorial perception.
 
 This redefinition has implications beyond botany. It suggests that
-## See Also
-
-- [[chamovitz-darwin-phototropism-experiment-canary-grass]]
-- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-
 ## Overview
 
 Chamovitz Plant Vision Photoreception Systems Compared represents an important element within sustainable
@@ -132,9 +127,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[chamovitz-darwin-phototropism-experiment-canary-grass]]
+- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
 - [[chamovitz-electromagnetic-spectrum-light-wavelengths-plant-perception]]
 - [[chamovitz-rhodopsin-photopsin-visual-pigment-chemistry-plant-parallels]]
 - [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]

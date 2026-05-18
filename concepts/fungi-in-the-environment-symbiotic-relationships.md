@@ -39,10 +39,6 @@ While fungal symbioses are often described as mutualistic, the relationship is b
 - **Carbon drain**: Mycorrhizal fungi can demand up to 30% of host plant photosynthate, representing a significant carbon cost that may reduce growth under certain conditions
 - **Conditional mutualism**: The net benefit to the host depends on [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
-## See Also
-
-- [[common-mycorrhizal-networks]]
-- [[ant-termite-fungal-symbiosis]]
 ## Practical Considerations
 
 Successful implementation of Fungi in the Environment - Symbiotic Relationships requires attention to
@@ -90,7 +86,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[common-mycorrhizal-networks]]
+- [[ant-termite-fungal-symbiosis]]
 - [[ericoid-mycorrhiza]]
 - [[mycorrhizal-networks]]
 - [[lichens]]

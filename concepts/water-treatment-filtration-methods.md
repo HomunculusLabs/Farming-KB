@@ -50,11 +50,6 @@ This multi-barrier approach ensures redundancy — if one stage underperforms, d
 - Harvest yields where possible (mussels, watercress, grazing from treated land).
 - Size systems generously; undersized systems fail under peak loads.
 
-## See Also
-
-- [[sand-filtration-and-biological-water-treatment]]
-- [[water-filtration-and-treatment-systems]]
-
 ## Overview
 
 Water Treatment Filtration Methods represents an important element within sustainable
@@ -132,8 +127,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[sand-filtration-and-biological-water-treatment]]
+- [[water-filtration-and-treatment-systems]]
 - [[desert-water-storage-evaporation]]
 - [[holzer-water-management-ponds-springs]]
 - [[mollison-designers-hand-pump-and-water-lifting-devices]]

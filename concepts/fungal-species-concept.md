@@ -37,9 +37,6 @@ Bridging this taxonomic gap between phylogenetic discovery and formal
 nomenclature remains one of mycology's greatest and most urgent challenges,
 with direct implications for conservation, biosecurity, and bioprospecting.
 
-## See Also
-
-- [[key-fungal-species-bioremediation]]
 ## Practical Considerations
 
 When working with Fungal Species Concept, several practical factors should be
@@ -137,8 +134,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[key-fungal-species-bioremediation]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[plant-fungal-signaling-mycorrhiza]]

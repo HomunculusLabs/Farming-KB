@@ -45,11 +45,6 @@ creating conditions favorable for sustained ligninolytic activity.
 ## Monitoring and Assessment
 
 Monitoring [[laccase]]. In situ monitoring
-## See Also
-- [[doc]]
-- [[composting]]
-- [[mycorrhiza]]
-
 ## Overview
 
 Fungal Explosive Compound Degradation represents an important element within sustainable
@@ -127,8 +122,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[composting]]
+- [[mycorrhiza]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

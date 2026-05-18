@@ -37,16 +37,6 @@ The multiple male figures of the Eleusinian Mysteries should not be understood a
 
 This progression mirrors the dionysus-vegetative-consort-and-mushroom-symbolism that pervades these figures — the mykema (bellowing) that announces the mykes (mushroom), the serpent consort, the association with lightning-struck earth — further reinforces the entheogenic interpretation. Each male figure is, in effect, a mask worn by the psychoactive experience itself, adapted to different moments in the ritual journey.
 
-## See Also
-
-- [[sacred-road-pilgrimage-to-eleusis]]
-
-- [[set-and-setting-eleusinian-initiation-methodology]]
-
-- [[eleusinian-mysteries]]
-- [[allegro-old-testament-figures-as-fertility-deities]]
-- [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]
-
 ## Overview
 
 Iacchos Zagreus Eubuleus Ploutos Eleusinian Figures represents an important element within sustainable
@@ -124,10 +114,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[sacred-road-pilgrimage-to-eleusis]]
+- [[set-and-setting-eleusinian-initiation-methodology]]
+- [[eleusinian-mysteries]]
+- [[allegro-old-testament-figures-as-fertility-deities]]
+- [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]
 - [[albert-hofmann-eleusinian-potion-analysis]]
 - [[catholic-church-suppression-eleusinian-mysteries]]
-- [[eleusinian-mysteries]]
 - [[eleusinian-mysteries-ethnomycology]]
 - [[eleusinian-mysteries-minoan-mushroom-cults]]

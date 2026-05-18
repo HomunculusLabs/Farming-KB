@@ -54,12 +54,6 @@ The entrance faces east so animals wake with the rising sun. The shelter provide
 - Pipe diameter: at least 15cm for a 10m3 cellar
 - Inlet pipe sloped slightly downward doubles as a drain during cleaning
 
-## See Also
-
-- [[holzer-livestock-integration]]
-- [[holzer-wild-cattle-and-old-breeds]]
-- [[permaculture-multi-purpose-plants]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -88,7 +82,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[holzer-livestock-integration]]
+- [[holzer-wild-cattle-and-old-breeds]]
+- [[permaculture-multi-purpose-plants]]
 - [[dom]]
 - [[permaculture]]
 - [[sepp-holzer-cattle-and-poultry-management]]

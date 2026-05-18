@@ -54,11 +54,6 @@ Very salt tolerant, native to north Africa, requires 300+ mm rainfall.
 - **H. coronarium** (Sulla): Biennial from north Africa and southern
   Italy, yields over 20 tonnes dry matter/ha/year recorded, potential
 
-## See Also
-- [[salt-tolerant-fodder-plants]]
-- [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
-- [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
-
 ## Overview
 
 Salt Tolerant Fodder Species represents an important element within sustainable
@@ -136,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[salt-tolerant-fodder-plants]]
+- [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
+- [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
 - [[cyclic-salt]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[jadam-sea-salt-use]]

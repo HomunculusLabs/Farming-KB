@@ -47,9 +47,6 @@ phylogenetic hypotheses:
 - Finds that traditionally recognized families Mucoraceae,
   Thamnidiaceae, and Pilobolaceae are polyphyletic
 
-## See Also
-- [[fungal-phylogeny-classification]]
-
 ## Overview
 
 Zygomycota Phylogeny Classification Non Monophyletic represents an important element within sustainable
@@ -127,10 +124,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-phylogeny-classification]]
 - [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
 - [[biodiversity-zygomycota-diversity]]
 - [[chytridiomycota-phylogeny-diversity]]
 - [[fungal-kingdom-phylogeny-classification-overview]]
-- [[fungal-phylogeny-classification]]

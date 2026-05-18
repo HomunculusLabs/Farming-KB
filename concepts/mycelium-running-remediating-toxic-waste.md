@@ -34,9 +34,6 @@ enzymes break down many chemical contaminants, mushrooms can concentrate
 heavy metals. If a site contains heavy metals, mushrooms should not be
 eaten until determined safe through testing.
 
-## See Also
-
-- [[woodlovers-mycelium-running-pathway-technique]] remediating toxic waste -- this page
 ## Practical Considerations
 
 Successful implementation of Remediating Toxic Waste with Fungi requires attention to
@@ -133,8 +130,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[woodlovers-mycelium-running-pathway-technique]] remediating toxic waste -- this page
 - [[growing-gourmet-iconic-types-mushroom-mycelium]]
 - [[mycelium-digestive-membrane-information-network]]
 - [[mycelium-running-insect-fungal-mutualism]]

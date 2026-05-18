@@ -24,12 +24,6 @@ See [[cannabis-flowering-stage]] — flowering overview
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
 - [[cannabis-sativa-flowering-cycle-management]]
-## See Also
-
-- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
-- [[cannabis-flowering-cycles]]
-- [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
-
 ## Overview
 
 Cannabis Pre Flowering And Sexing represents an important element within sustainable
@@ -107,8 +101,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
+- [[cannabis-flowering-cycles]]
+- [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - [[blesching-cannabis-antiemetic-vomiting]]
 - [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-parkinsons-disease]]

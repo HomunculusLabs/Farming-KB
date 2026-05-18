@@ -32,8 +32,6 @@ Gartz expressed hope that current "lop-sided attitudes against hallucinogens may
 - Some countries prohibited mushrooms without any documented cases of use or harm
 - Other countries with significant use had no legislation at all
 
-## See Also
-
 ## Overview
 
 Psilocybin Mushroom Legal Status Worldwide represents an important element within sustainable
@@ -111,8 +109,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

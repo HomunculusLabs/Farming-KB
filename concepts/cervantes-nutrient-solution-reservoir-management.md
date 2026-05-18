@@ -46,12 +46,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[cervantes-reservoir-temperature-management]]
-- [[cervantes-nutrient-management]]
-- [[cannabis-nutrient-solution-preparation]]
-
 ## Overview
 
 Cervantes Nutrient Solution Reservoir Management represents an important element within sustainable
@@ -129,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cervantes-reservoir-temperature-management]]
+- [[cervantes-nutrient-management]]
+- [[cannabis-nutrient-solution-preparation]]
 - [[cervantes-hemp-industrial-cannabis]]
 - [[cervantes-medical-marijuana-pharmacology]]
 - [[cervantes-nutrient-burn-over-fertilization]]

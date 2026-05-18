@@ -60,13 +60,6 @@ Its effects include stimulation of [[brassinosteroid-psilocybe-cubensis-mycelial
 ## Historical Significance
 The development and understanding of 22s 23s homobrassinolide chemistry and synthesis has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
-## See Also
-- [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
-- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
-- [[22s-23s-homobrassinolide]]
-- [[psilocybin]]
-- [[det]]
-
 ## Overview
 
 22S 23S Homobrassinolide Chemistry And Synthesis represents an important element within sustainable
@@ -144,7 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
 - [[22s-23s-homobrassinolide]]
+- [[psilocybin]]
+- [[det]]
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]

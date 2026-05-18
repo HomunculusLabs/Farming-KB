@@ -41,11 +41,6 @@ Pediatric considerations include potential effects on brain development, though 
 
 Seizure activity has been associated with religious vision and hyperreligiosity in temporal lobe epilepsy. The tonic-clonic movements simulate a short circuit without a circuit breaker -- intense thoughts and feelings the person refuses to consciously experience. Some children use seizure activities as an unconscious defense mechanism. Studies suggest mental activity that engages the person fully (sports, swimming, trapeze, classes they enjoy) can reduce seizure frequency.
 
-## See Also
-
-- [[cannabis-and-epilepsy]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -74,10 +69,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[cannabis-and-epilepsy]]
-- [[uwe-blesching]]
-- [[dom]]
 ## Applications and Practical Uses
 
 The principles behind cannabis epilepsy research detailed have been applied across various
@@ -91,3 +82,10 @@ Several factors influence the effectiveness and outcomes of
 cannabis epilepsy research detailed. Environmental conditions, timing, and material
 selection all play critical roles. Proper preparation and monitoring
 help ensure consistent results across different scenarios.
+
+
+## See Also
+- [[cannabis-and-epilepsy]]
+- [[cannabis-cannabinoid-receptor-pharmacology]]
+- [[uwe-blesching]]
+- [[dom]]

@@ -49,13 +49,6 @@ Endophytes can protect their host plants against pathogenic microorganisms throu
 - **[[biodiversity-fungal-molecular-identification-dna-barcoding]]**: DNA extraction from surface-sterilized tissue or isolated cultures, followed by PCR amplification of ribosomal DNA regions (ITS, LSU) and sequencing for species identification.
 - **Culture-independent methods**: Metagenomic approaches and high-throughput sequencing of environmental DNA directly from plant tissue can reveal endophyte diversity that is not captured by culture-based methods, including non-culturable species.
 
-## See Also
-
-- [[bacterial-endophytes-plant-roots]]
-
-- arthropod-associated-fungi
-- [[gadd-fungal-biodiversity-conservation]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -84,7 +77,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[bacterial-endophytes-plant-roots]]
+- arthropod-associated-fungi
+- [[gadd-fungal-biodiversity-conservation]]
 - [[endophytic-fungal-diversity]]
 - [[doc]]
 - [[det]]

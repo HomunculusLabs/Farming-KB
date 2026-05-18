@@ -120,14 +120,11 @@ Techniques discussed here can be adapted across a wide range of scales, from sma
 
 Climate adaptation is essential for long-term success. What works in temperate regions may require significant modification for tropical or arid environments. Local knowledge, experimentation, and careful observation of results guide successful adaptation across diverse conditions and resource availability levels.
 
-## See Also
 
+## See Also
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycelial-network-structure]]
 - [[fungal-biology-fundamentals]]
-
-## See Also
-
 - [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
 - [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]
 - [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]

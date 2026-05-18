@@ -47,14 +47,6 @@ Wood chip spawn is preferred over direct grain inoculation for outdoor beds:
 
 Chips are soaked 48 hours, supplemented with oatmeal or boiled grass seed (half cup per bag), sterilised at 121°C for 3 hours, inoculated with grain spawn in a [[psilocybin-mushroom-legal-history]] for regulatory information.
 
-## See Also
-
-- [[stamets-psi-psilocybe-cubensis-species-guide]]
-
-- [[woodlovers-mycelium-running-pathway-technique]]
-- [[outdoor-mushroom-bed-preparation]] — general [[log-cultivation-methods]] — alternative wood-based cultivation
-- [[psilocybin-liquid-culture]]
-
 ## Overview
 
 Psilocybe Woodlovers Species Guide represents an important element within sustainable
@@ -132,8 +124,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[stamets-psi-psilocybe-cubensis-species-guide]]
+- [[woodlovers-mycelium-running-pathway-technique]]
+- [[outdoor-mushroom-bed-preparation]] — general [[log-cultivation-methods]] — alternative wood-based cultivation
+- [[psilocybin-liquid-culture]]
 - [[grass-seed-cultivation-of-psilocybe-species]]
 - [[psilocybe-fascicata]]
 - [[psilocybe-plutonia]]

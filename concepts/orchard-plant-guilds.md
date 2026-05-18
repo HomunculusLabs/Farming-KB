@@ -90,8 +90,8 @@ Successful orchard plant guilds are built on several interconnected principles d
 
 When these principles are applied together, the orchard guild becomes a self-regulating polycultural system that produces fruit, herbs, vegetables, forage, and mulch while maintaining soil health and ecological balance.
 
-## See Also
 
+## See Also
 - plant guilds — the broader concept of functional plant communities
 - [[comfrey]] — key dynamic accumulator species
 - insectary plants — detailed guide to plants attracting beneficial insects
@@ -99,9 +99,6 @@ When these principles are applied together, the orchard guild becomes a self-reg
 - orchard design — physical layout, earthworks, and shelter systems
 - animal integration — strategic use of domestic animals in food systems
 - biological pest control — predators, parasites, and ecological pest management
-
-## See Also
-
 - [[mr-bloomfields-orchard-dermatophytes-and-human-fungal-infections]]
 - [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]

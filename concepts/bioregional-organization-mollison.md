@@ -21,13 +21,6 @@ A bioregion is a geographic area defined by natural characteristics: watersheds,
 
 ## Two Paths to Political Change
 
-## See Also
-- [[zeri-organization]]
-- [[ozier-pdc-stewardship-mandala-community-organization]]
-- [[bioregional-organization]]
-- [[holmgren-bioregional-governance-and-political-structures]]
-- [[savory-community-organization-and-shared-grazing]]
-
 ## Overview
 
 Bioregional Organization Mollison represents an important element within sustainable
@@ -105,10 +98,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[bioregional-organization]]
-- [[fungal-cell-wall-composition-and-structural-organization]]
-- [[holmgren-bioregional-governance-and-political-structures]]
-- [[ozier-pdc-stewardship-mandala-community-organization]]
+## See Also
 - [[zeri-organization]]
+- [[ozier-pdc-stewardship-mandala-community-organization]]
+- [[bioregional-organization]]
+- [[holmgren-bioregional-governance-and-political-structures]]
+- [[savory-community-organization-and-shared-grazing]]
+- [[fungal-cell-wall-composition-and-structural-organization]]

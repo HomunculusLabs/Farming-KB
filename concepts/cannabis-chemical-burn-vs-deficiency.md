@@ -23,12 +23,6 @@ Step seven: If none of these diagnoses fit, the solution is to flush the soil th
 
 [[cannabis-pruning-and-defoliation-guide]]
 
-## See Also
-
-- [[cannabis-nutrient-burn-and-toxicity]]
-- [[cannabis-light-burn]]
-- [[cannabis-chemical-fertilizers]]
-
 ## Overview
 
 Cannabis Chemical Burn Vs Deficiency represents an important element within sustainable
@@ -106,8 +100,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-nutrient-burn-and-toxicity]]
+- [[cannabis-light-burn]]
+- [[cannabis-chemical-fertilizers]]
 - [[blesching-cannabis-antiemetic-vomiting]]
 - [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-parkinsons-disease]]

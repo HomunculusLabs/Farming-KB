@@ -48,11 +48,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[bionutrients]]
-- [[cho-fish-amino-acid-preparation]]
-- [[cho-water-soluble-phosphoric-acid-preparation]]
-
 ## Overview
 
 Cho Lactic Acid Bacteria Preparation represents an important element within sustainable
@@ -130,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bionutrients]]
+- [[cho-fish-amino-acid-preparation]]
+- [[cho-water-soluble-phosphoric-acid-preparation]]
 - [[lactic-acid-bacteria]]
 - [[lactic-acid-bacteria-knf]]
 - [[lactic-acid-bacteria-lab]]

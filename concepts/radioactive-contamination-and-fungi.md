@@ -35,16 +35,6 @@ Gray et al. (1996) estimated a fivefold higher flux of 137Cs through rhizomorphs
 
 Temperature and humidity requirements vary by species. Most cultivated mushrooms prefer 18-24°C during fruiting with relative humidity above 85%. Substrate preparation is critical for commercial yields.
 
-## See Also
-
-- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
-- [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]
-
-## See Also
-
-- [[mycorrhizal-fungi-rhizosphere-remediation]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]
-
 ## Practical Considerations
 
 Successful implementation of Radioactive Contamination and Fungi requires attention to
@@ -141,8 +131,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
+- [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]
+- [[mycorrhizal-fungi-rhizosphere-remediation]]
+- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[duggar-mushroom-disease-and-contamination]]
 - [[gadd-fungal-biosorption-metal-contamination-remediation]]

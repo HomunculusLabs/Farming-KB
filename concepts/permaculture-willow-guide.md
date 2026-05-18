@@ -26,15 +26,6 @@ Living willow structures (dens, tunnels, domes, and fences) are popular in [[soi
 
 Permaculture design integrates multiple elements working together. Each component should serve at least three functions. Zone planning places frequently accessed elements closer to the home.
 
-## See Also
-
-- [[permaculture-broadscale-no-till-grain-production]]
-- [[cho-yeast-preparation-guide]]
-
-## See Also
-
-- [[permplant-willows-salix-erosion-control-fodder]]
-
 ## Overview
 
 Permaculture Willow Guide represents an important element within sustainable
@@ -112,8 +103,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-broadscale-no-till-grain-production]]
+- [[cho-yeast-preparation-guide]]
+- [[permplant-willows-salix-erosion-control-fodder]]
 - [[holzer-permaculture-landscape-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-methods-summary]]

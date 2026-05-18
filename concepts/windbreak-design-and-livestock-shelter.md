@@ -22,10 +22,6 @@ Shelterbelt species must be carefully selected for multiple uses — to either *
 
 Where severe sea or desert winds greatly reduce all yields, salt-resistant or sand-blast-resistant windbreak species must be selected regardless of the shelterbelt's intrinsic yields, as survival of the whole system depends on the frontline protection.
 
-## See Also
-- [[comparison-windbreak-design-vs-species-selection]]
-- [[permaculture-windbreak-design]]
-
 ## Overview
 
 Windbreak Design And Livestock Shelter represents an important element within sustainable
@@ -103,10 +99,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[comparison-windbreak-design-vs-species-selection]]
+- [[permaculture-windbreak-design]]
 - [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]
 - [[comparison-windbreak-vs-hedgerow]]
 - [[comparison-windbreak-vs-thermal-mass]]
-- [[permaculture-windbreak-design]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]

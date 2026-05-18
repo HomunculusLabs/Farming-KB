@@ -78,15 +78,13 @@ Holmgren's synthesis of Howard Odum's systems ecology, the pattern language of C
 - **Ecosynthesis**: The deliberate creation of new ecological assemblages for human benefit
 - **Self-reliance**: The capacity to meet needs without dependence on external systems
 
-## See Also
 
+## See Also
 - Permaculture design principles and social change
 - Ecological succession and pulsing ecosystems
 - Energy descent and post-industrial adaptation
 - Self-reliance and household resilience
 - Permaculture zones and sectors
-
-## See Also
 - [[holmgren-ethical-principles-care-earth-people-fair-shares]]
 - [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]]
 - [[permaculture-ethical-principles-care-earth-people-limits]]

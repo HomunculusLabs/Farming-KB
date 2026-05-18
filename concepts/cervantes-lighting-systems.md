@@ -62,11 +62,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]
-- [[cervantes-high-pressure-sodium-lighting]]
-- [[cervantes-no-reflective-hood-lighting]]
-
 ## Overview
 
 Cervantes Lighting Systems represents an important element within sustainable
@@ -144,7 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[cervantes-damping-off-seedling-disease-prevention]]
+## See Also
+- [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]
 - [[cervantes-high-pressure-sodium-lighting]]
+- [[cervantes-no-reflective-hood-lighting]]
+- [[cervantes-damping-off-seedling-disease-prevention]]

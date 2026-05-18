@@ -17,12 +17,6 @@ In *The Road Back to Nature*, [[fukuoka-view-of-nature-and-human-hubris]], [[com
 - Observing natural ecosystems provides the blueprint for sustainable food production
 - Fukuoka challenged the fundamental assumptions of modern agricultural science
 
-## See Also
-
-[[fukuoka-road-back-to-nature-overview]], [[fukuoka-no-weeding-no-pesticides]]
-
-- [[fukuoka-direct-observation-method]].
-
 ## Philosophical Context
 
 Fukuoka's work emerged from a deep disillusionment with the trajectory of modern
@@ -118,8 +112,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[fukuoka-road-back-to-nature-overview]], [[fukuoka-no-weeding-no-pesticides]]
+- [[fukuoka-direct-observation-method]].
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

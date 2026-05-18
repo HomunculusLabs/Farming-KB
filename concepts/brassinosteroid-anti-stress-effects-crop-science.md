@@ -46,12 +46,6 @@ competitive microorganisms all impose stress on cultivated fungi.
 The Gartz study demonstrated [[accessible-mushroom-cultivation-for-disabilities]], where [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
   compound used in research
 
-## See Also
-
-- [[brassinosteroid]]
-- [[bri1]]
-- [[brassinosteroids]]
-
 ## Overview
 
 Brassinosteroid Anti Stress Effects Crop Science represents an important element within sustainable
@@ -129,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[brassinosteroid]]
+- [[bri1]]
+- [[brassinosteroids]]
 - [[brassinosteroid-experimental-methodology-gartz-1990]]
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]

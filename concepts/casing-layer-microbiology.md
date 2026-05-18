@@ -26,13 +26,6 @@ Vermiculite and perlite serve as structural components that improve aeration and
 
 Several practical approaches allow cultivators to optimize the [[growing-gourmet-tree-species-guide-mushroom-cultivation]].
 
-## See Also
-
-[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] — supplementation at casing time
-
-mushroom-composting — compost-based cultivation systems
-
-mushroom-environmental-parameters — environmental conditions for cased crops
 ## Practical Considerations
 
 Successful implementation of Casing Layer Microbiology — The Role of Microorganisms in Fruiting requires attention to
@@ -80,7 +73,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] — supplementation at casing time
+mushroom-composting — compost-based cultivation systems
+mushroom-environmental-parameters — environmental conditions for cased crops
 - [[streptomyces]]
 - [[bacillus-megaterium]]
 - [[composting]]

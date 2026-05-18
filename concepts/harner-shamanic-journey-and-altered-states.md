@@ -41,11 +41,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[doc]]
-- [[det]]
-- shamanism
-
 ## Overview
 
 Harner Shamanic Journey And Altered States represents an important element within sustainable
@@ -123,8 +118,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[det]]
+- shamanism
 - [[harner-amanita-muscaria-siberian-shamanism]]
 - [[harner-amazonian-ayahuasca-preparation-methods]]
 - [[harner-cashinahua-banisteriopsis-usage]]

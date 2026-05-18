@@ -39,11 +39,6 @@ His conclusion: "No test of any kind, in form, shape, color, basis of growth, or
 
 For experienced foragers testing a new species, Palmer described a gradual approach: identify the mushroom so as never to confuse it with its nearest neighbor, then broil a small piece with salt and butter (no pepper) and eat it on an empty stomach. Increase the quantity in successive experiments. The non-edible fungus typically "discloses its character over the charcoal" through nauseous slime, grassy odor, or an instinctive aversion to a second bite.
 
-## See Also
-
-- [[palmer-poisonous-mushrooms-deadly-species]] -- The Amanita family and fatal poisonings
-- mushroom-identification
-
 ## Boletus Identification Guidelines
 
 Palmer provides detailed guidance for the Boleti, which he considers safer for the amateur than the gilled Agarics:
@@ -145,6 +140,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[palmer-poisonous-mushrooms-deadly-species]] -- The Amanita family and fatal poisonings
+- mushroom-identification
 - [[mushroom-toxicology-palmer-theory]]

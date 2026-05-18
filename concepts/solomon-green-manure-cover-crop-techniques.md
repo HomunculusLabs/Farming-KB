@@ -52,11 +52,6 @@ guidance, developing intuitive sense over a few years. Local agricultural
 extension agencies and farm supply stores (not mail-order seed companies) are the
 best sources for locally adapted cover crop seed and advice.
 
-## See Also
-
-- [[hamilton-composting-and-organic-matter-management]] and tilth
-- [[winter-gardening-season-extension]]-and-season-planning
-
 ## References
 
 - Solomon, S. (2005). *Gardening When It Counts*. New Society Publishers.
@@ -138,8 +133,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hamilton-composting-and-organic-matter-management]] and tilth
+- [[winter-gardening-season-extension]]-and-season-planning
 - [[solomon-disease-identification-and-organic-remedies]]
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-raised-beds-and-bed-preparation]]

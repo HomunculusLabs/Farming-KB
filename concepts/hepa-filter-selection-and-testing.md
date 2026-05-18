@@ -50,15 +50,6 @@ Modern equivalents would cost significantly more due to inflation, but the propo
 - Never wash a HEPA filter -- water damages the glass fibre media
 - A differential pressure gauge across the filter can indicate when replacement is needed (replace when pressure drop reaches 2x the clean rating)
 
-## See Also
-
-- [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood usage and protocol
-- [[cultivator-sterile-technique-and-agar-culture]] principles
-- [[mushroom-cultivation-contamination-troubleshooting]] and prevention
-- [[hepa-filter]]
-- [[spore]]
-- [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
-
 ## Overview
 
 Hepa Filter Selection And Testing represents an important element within sustainable
@@ -136,10 +127,15 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood usage and protocol
+- [[cultivator-sterile-technique-and-agar-culture]] principles
+- [[mushroom-cultivation-contamination-troubleshooting]] and prevention
+- [[hepa-filter]]
+- [[spore]]
+- [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
 - [[filter-can-construction-mushroom-cultivation]]
 - [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
-- [[hepa-filter]]
 - [[jarrold-filter-can-vermiculite-air-exchange-mushroom-cultivation]]
 - [[laminar-flow-hood-construction-hepa-filter]]

@@ -53,11 +53,6 @@ In the long term, tree and ground legumes are essential for maintaining soil hea
 - Ralph, Wayne, "Managing Some Tropical Soils" in *Rural Research* No. 117, pp. 15–16
 - Okigbo, B.N. and R. Lal, "Residue Mulches and Agriculture" in *International Conference on Ecological Agriculture*, Montreal, 1978
 
-## See Also
-
-- [[green-manure]]
-- [[mulching-guide]]
-
 ## Overview
 
 Tropical Soil Management And Restoration represents an important element within sustainable
@@ -135,8 +130,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[green-manure]]
+- [[mulching-guide]]
 - [[bloomfield-mycetoma-madurella-tropical-foot-fungus]]
 - [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
 - [[fungal-biodiversity-tropical-ecosystems]]

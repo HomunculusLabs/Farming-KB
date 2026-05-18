@@ -51,13 +51,6 @@ Fungal decomposition mediates:
 - Ponge, J.F. (1990, 1991). Ecological study of forest soils. *Pedobiologia*.
 - Wells, J.M. and Boddy, L. (1990, 1995a). Wood decay and phosphorus translocation. *Nova Hedwigia*.
 
-## See Also
-
-- [[fungal-role-in-carbon-cycling]]
-- [[fungal-decomposition]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[pinus-sylvestris]]
-
 ## Overview
 
 Dighton Fungal Decomposition Nutrient Cycling represents an important element within sustainable
@@ -135,8 +128,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-role-in-carbon-cycling]]
+- [[fungal-decomposition]]
+- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
+- [[pinus-sylvestris]]
 - [[dighton-fungal-biosorption-heavy-metal-remediation]]
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
 - [[dighton-fungal-rock-weathering-mineral-dissolution]]

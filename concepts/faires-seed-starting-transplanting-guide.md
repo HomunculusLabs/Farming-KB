@@ -34,13 +34,6 @@ Good soil maintains a balance of water, air, organic materials, and nutrients th
 
 The atmosphere is rich with nitrogen, but plants cannot use most of it directly. Nitrogen must be chemically altered by bacteria (like rhizobium) or by lightning. The volume of fixed nitrogen in the soil decides how much will grow, and when plants die, they release nitrogen back. Leguminous green manures like clover, vetch, and field peas can be mulched before flowering (when beneficial nitrogen is used up) to fix nitrogen in the soil.
 
-## See Also
-
-- faires-growing-and-season-extension
-- faires-composting-and-vermiculture
-- [[seed-starting-indoors]]
-- [[succession-planting]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -68,11 +61,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[composting]]
-- [[succession-planting]]
-- [[ghb]]
 
 ## Overview
 
@@ -148,3 +136,12 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
+
+
+## See Also
+- faires-growing-and-season-extension
+- faires-composting-and-vermiculture
+- [[seed-starting-indoors]]
+- [[succession-planting]]
+- [[composting]]
+- [[ghb]]

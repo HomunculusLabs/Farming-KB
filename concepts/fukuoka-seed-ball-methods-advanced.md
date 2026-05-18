@@ -40,11 +40,6 @@ Rather than isolating beneficial microbes and inoculating straw with elaborate "
 
 A single piece of rice straw on the ground undergoes a remarkable succession: rice blast fungi spread first, then spider mites arrive, followed by yeasts, blue mold, and trichoderma fungi that destroy the pathogens. Nematodes feed on fungi, bacteria feed on nematodes, mites consume bacteria, and predaceous mites feed on those mites. This complex [[fukuoka-seeds-in-the-dirt]] three-year reseeding plan. "Start out with a three-year plan, expecting to learn about three years, and just concentrate on sowing seed."
 
-## See Also
-
-- [[fukuoka-rice-barley-dual-culture]] — seed ball use in [[fukuoka-natural-fertility-cycle]] — natural soil building
-- [[fukuoka-clay-pellet-desert-greening]] and scattered over the field in mid-November or later.
-
 ## Clay Selection
 
 Topsoil-containing clay may be used to form pellets, but if pellets crumble too early in spring, the seed will be devoured by rodents and other pests. Well-crushed clay or red earth that holds together through winter is preferred.
@@ -133,8 +128,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-rice-barley-dual-culture]] — seed ball use in [[fukuoka-natural-fertility-cycle]] — natural soil building
+- [[fukuoka-clay-pellet-desert-greening]] and scattered over the field in mid-November or later.
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

@@ -34,11 +34,6 @@ training become easy later. Periodic re-evaluation of example difficulty
 relative to the current model ensures training data remains optimally
 informative throughout the training process.
 
-## See Also
-
-- [[reasoning-trace-curation]]
-- active learning
-- data augmentation
 ## Practical Considerations
 
 When working with Difficulty-Calibrated Data Selection, several practical factors should be
@@ -136,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[reasoning-trace-curation]]
+- active learning
+- data augmentation
 - [[coleman-double-cover-air-inflated-trial-temperature-data]]
 - [[emcdda-hallucinogenic-mushroom-survey-methodology-data-limitations]]
 - [[emcdda-hallucinogenic-mushroom-telephone-helpline-data]]

@@ -10,11 +10,6 @@ Yield in [[permaculture-design]] and nature alone is that in permaculture we **a
 
 This approach is theoretically unlimited in its potential, as system yield results from the number of strategies applied, what connections are made, and what information is applied to a particular design.
 
-## See Also
-
-- [[resource-categories-and-management]] — understanding what resources are available and how they behave
-- [[farm-yield-strategies]] — practical applications of yield strategies at the farm scale
-
 ## Overview
 
 System Yield And Production Strategies represents an important element within sustainable
@@ -92,8 +87,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[resource-categories-and-management]] — understanding what resources are available and how they behave
+- [[farm-yield-strategies]] — practical applications of yield strategies at the farm scale
 - [[ayahuasca-ceremony-and-mariri-system]]
 - [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]]
 - [[cannabis-health-index-scoring-system]]

@@ -62,12 +62,6 @@ tablets containing 0.025 mg (25 mcg), and ampoules of 1 ml containing 0.1 mg
 subcutaneously or intravenously, producing identical effects but more rapidly.
 
 The prospectus listed the properties, method of administration, indications [[timothy-leary-harvard-psilocybin-experiments]]
-## See Also
-
-- [[lsd]]
-- [[dom]]
-- [[sandoz-delysid-research-program]]
-
 ## Overview
 
 Hofmann Lsd Sandoz Research Program represents an important element within sustainable
@@ -145,6 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[lsd]]
+- [[dom]]
+- [[sandoz-delysid-research-program]]
 - [[hofmann-leary-case-and-harvard-research]]

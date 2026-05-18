@@ -47,13 +47,6 @@ The more surface area of substrate available to the mycelium, the faster the deg
 - **Oxygen**: Aerobic conditions are essential for white rot enzyme systems
 - **Contaminant concentration**: Extremely high concentrations may be toxic; dilution or successive treatments may be needed
 
-## See Also
-
-- [[cotter-mycoremediation-overview]]
-- [[mycoremediation-heavy-metals]]
-- [[mycoforestry-forest-restoration]]
-- [[paul-stamets]]
-
 ## Overview
 
 Mycoremediation Petroleum Hydrocarbons represents an important element within sustainable
@@ -131,8 +124,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cotter-mycoremediation-overview]]
+- [[mycoremediation-heavy-metals]]
+- [[mycoforestry-forest-restoration]]
+- [[paul-stamets]]
 - [[cotter-mycoremediation-techniques]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[mycoremediation-bioreactor-design-considerations]]

@@ -52,10 +52,6 @@ and cross-feeding analysis in [[singh-fungal-consortia-synergistic-biodegradatio
 Emerging technologies including long-read sequencing and spatial
 transcriptomics promise further advances in understanding fungal
 bioremediation at the systems level.
-## See Also
-
-- [[singh-cytochrome-p450-fungal-bioremediation]]
-
 ## Overview
 
 Singh Omics Approaches Fungal Bioremediation represents an important element within sustainable
@@ -133,8 +129,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[singh-cytochrome-p450-fungal-bioremediation]]
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

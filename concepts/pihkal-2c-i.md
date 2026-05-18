@@ -30,9 +30,6 @@ Shulgin documented 2C-I as having a "goodly amount of visual activity" and a
 pleasant overall character. He noted its similarity to 2C-B while
 acknowledging [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
 
-## See Also
-- [[pihkal-2c-b-family]]
-
 ## Overview
 
 Pihkal 2C I represents an important element within sustainable
@@ -110,8 +107,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pihkal-2c-b-family]]
 - [[4-t-tris-entity-pihkal]]
 - [[doc-pihkal-64]]
 - [[dopr-entity-pihkal]]

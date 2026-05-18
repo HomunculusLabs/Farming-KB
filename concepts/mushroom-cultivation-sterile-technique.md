@@ -54,12 +54,6 @@ Sterilize at 15 psi for 30 minutes. Do not exceed 250 F or sugar will caramelize
 
 Do not overkill the laboratory with toxic fungicides and bacteriocides. UV lights can cause skin cancer with prolonged exposure. Work for reasonable periods -- not to exhaustion. Never leave lit alcohol lamps unattended.
 
-## See Also
-
-- [[mushroom-cultivation-grain-spawn]]
-- [[mushroom-cultivation-cloning-isolation]]
-- [[mushroom-cultivation-fruiting-chambers]]
-
 ## Overview
 
 Mushroom Cultivation Sterile Technique represents an important element within sustainable
@@ -137,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-cultivation-grain-spawn]]
+- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-fruiting-chambers]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

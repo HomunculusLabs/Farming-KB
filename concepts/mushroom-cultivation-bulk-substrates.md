@@ -37,14 +37,6 @@ Pasteurization (140-180 F for 1-2 hours) is used for non-supplemented substrates
 
 After inoculation, the substrate enters the spawn run phase at species-appropriate temperature (typically 70-80 F) for 1-4 weeks. Spawn rate is typically 10-20% of substrate dry weight. The substrate should be fully colonized before initiating fruiting.
 
-## See Also
-
-- [[mushroom-cultivation-grain-spawn]]
-- [[mushroom-cultivation-sterile-technique]]
-- [[mushroom-cultivation-fruiting-chambers]]
-- [[shiitake-cultivation-log-method]]
-- [[oyster-mushroom-cultivation]]
-
 ## Overview
 
 Mushroom Cultivation Bulk Substrates represents an important element within sustainable
@@ -122,8 +114,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-cultivation-grain-spawn]]
+- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-fruiting-chambers]]
+- [[shiitake-cultivation-log-method]]
+- [[oyster-mushroom-cultivation]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

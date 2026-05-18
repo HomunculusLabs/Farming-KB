@@ -83,13 +83,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
 - fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions
 - fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer
 - fukuoka-no-fertilizer-principle-natural-soil-fertility
-
-## See Also
-
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-critique-agricultural-development]]
 - [[fukuoka-harry-roberts-zen-center-tribute]]

@@ -58,13 +58,6 @@ textbook "Fungous Diseases of Plants" (1909) was a standard reference for
 decades. The methodological rigor he brought to the study of fungal physiology
 influenced generations of mycologists and mushroom cultivation scientists.
 
-## See Also
-
-- aureomycin discovery chlortetracycline
-- [[mushroom-cultivation]]
-- [[brassinosteroid]]
-- [[mycology]]
-
 ## Overview
 
 Benjamin Minge Duggar Mushroom Cultivation Research represents an important element within sustainable
@@ -142,8 +135,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- aureomycin discovery chlortetracycline
+- [[mushroom-cultivation]]
+- [[brassinosteroid]]
+- [[mycology]]
 - [[benjamin-duggar]]
 - [[duggar-mushroom-common-varieties]]
 - [[duggar-mushroom-culinary-preparation-and-cooking]]

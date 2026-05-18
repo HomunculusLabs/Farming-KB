@@ -53,14 +53,6 @@ Reishi fruitbodies are harvested when fully mature, typically after 2-3 months o
 
 Traditional uses include immune system support, fatigue reduction, liver protection, and cardiovascular health. Modern research has validated many of these traditional applications through clinical and preclinical studies.
 
-## See Also
-
-- [[reishi-cultivation-methods]]
-- [[growing-gourmet-substrate-preparation]]
-- [[reishi-cultivation]]
-- [[fruiting-conditions]]
-- [[spore]]
-
 ## Overview
 
 Growing Gourmet Reishi Cultivation represents an important element within sustainable
@@ -138,8 +130,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[reishi-cultivation-methods]]
+- [[growing-gourmet-substrate-preparation]]
+- [[reishi-cultivation]]
+- [[fruiting-conditions]]
+- [[spore]]
 - [[comparison-tomato-vs-pepper-growing]]
 - [[growing-gourmet-mushroom-harvesting-marketing-guide]]
 - [[growing-gourmet-plug-spawn-production]]

@@ -49,13 +49,6 @@ Holmgren suggests that direct engagement with nature — through gardening, farm
 Wholistic design thinking becomes especially critical in the context of energy descent, where the reductionist approach of simply substituting one energy source for another (e.g., replacing fossil fuels with renewables while maintaining all other systems unchanged) is fundamentally inadequate. Energy descent requires redesigning entire systems — food, shelter, transport, economy — as integrated wholes. The twelve principles of permaculture provide the thinking tools for this redesign, but only when applied wholistically rather than as a checklist of techniques.
 
 Holmgren argues that the energy descent transition will reward those who can think wholistically and penalize those who remain trapped in reductionist frameworks. Industrial agriculture, with its dependence on fossil fuel inputs at every stage, is particularly vulnerable because its reductionist structure cannot adapt incrementally — it requires a wholistic redesign that the prevailing paradigm is ill-equipped to envision. Permaculture design thinking, grounded in systems ecology and informed by indigenous knowledge, offers the cognitive framework needed for this unprecedented challenge.
-## See Also
-- [[david-holmgren]]
-- [[regenerative-agriculture]]
-- [[permaculture-design-principles]]
-- [[david-holmgren]]
-- [[dom]]
-
 ## Overview
 
 Holmgren Wholistic Design Thinking represents an important element within sustainable
@@ -133,8 +126,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[david-holmgren]]
+- [[regenerative-agriculture]]
+- [[permaculture-design-principles]]
+- [[dom]]
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]
 - [[holmgren-built-environment-household-energy-storage]]
 - [[holmgren-ecological-succession-and-pulsing]]

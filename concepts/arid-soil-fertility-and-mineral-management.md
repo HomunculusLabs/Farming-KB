@@ -109,10 +109,8 @@ These thresholds underscore why industrial contamination, mining waste, and chem
 7. **Eliminate biocide use** — deserts cannot process these chemicals
 8. **Monitor salt accumulation** — especially when using sewage water for irrigation
 9. **Protect groundwater** — contamination causes irreversible human health damage
-## See Also
 
 ## See Also
-
 - [[animal-systems-arid-areas-permaculture]]
 - [[arid-land-fertilisers-and-toxin-pollution]]
 - [[dighton-fungi-desert-arid-ecosystems]]

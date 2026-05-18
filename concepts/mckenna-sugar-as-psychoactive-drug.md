@@ -33,13 +33,6 @@ The principles outlined here find application across multiple domains including 
 
 When applying these concepts, several factors warrant attention: environmental conditions, regional climate variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
 
-## See Also
-
-- [[mckenna-tv-dominator-drug]]
-- [[mckenna-television-as-electronic-drug-media-narcotic]]
-- [[mckenna-tea-coffee-chocolate-stimulants]]
-- mckenna partnership society
-
 ## Overview
 
 Mckenna Sugar As Psychoactive Drug represents an important element within sustainable
@@ -117,8 +110,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-tv-dominator-drug]]
+- [[mckenna-television-as-electronic-drug-media-narcotic]]
+- [[mckenna-tea-coffee-chocolate-stimulants]]
+- mckenna partnership society
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

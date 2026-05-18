@@ -78,13 +78,10 @@ The bee range presents a unique opportunity to grow crops dependent on bee polli
 
 An excellent bee farm combines apiary management with production farming for fruits and seeds. Cross-wind forage hedgerows shelter bee-dependent seed crops, herbs, and vines. The system requires adequate water, diverse pollen sources, proper shelter, and a well-designed honey house. The integration of beekeeping with orchard and seed crop production creates a synergistic system where each element supports the others.
 
-## See Also
 
+## See Also
 - [[free-range-poultry-management]]
 - [[free-range-forage-systems]]
-
-## See Also
-
 - [[hay-and-forage-management]]
 - [[bee-forage-hive-management-mollison]]
 - [[forage-trees-and-meadow-rehabilitation]]

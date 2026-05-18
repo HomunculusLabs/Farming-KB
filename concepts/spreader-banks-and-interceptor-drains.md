@@ -13,10 +13,6 @@ Spreader banks and interceptor drains are complementary earthworks used in [[soi
 
 Sodium and potassium salts can deflocculate soil clays or damage leaves at concentrations exceeding 1,000 ppm. Woody perennials cope better with complex pollutants than garden vegetables, allowing more decomposition time. In critical areas, special soaps (unpolluted oils, potash or sodium) and water plants that remove excesses may be necessary before greywater reaches soils and streams.
 
-## See Also
-- [[mollison-designers-diversion-drains-and-interceptor-banks]]
-- [[spreader-banks-and-irrigation-bays]]
-
 ## Overview
 
 Spreader Banks And Interceptor Drains represents an important element within sustainable
@@ -94,10 +90,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-diversion-drains-and-interceptor-banks]]
+- [[spreader-banks-and-irrigation-bays]]
 - [[diversion-drains-interceptor-drains-spreader-banks]]
 - [[ingham-sticker-spreader-surfactants]]
 - [[interceptor-banks-soil-reclamation]]
 - [[molasses-fungal-food-sticker-spreader-ingham]]
-- [[mollison-designers-diversion-drains-and-interceptor-banks]]

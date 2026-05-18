@@ -20,11 +20,6 @@ Plants detect [[tompkins-plant-electrical-signals]] can transmit information abo
 - [[plant-phototropism-darwin-experiments]]
 - auxin plant hormone growth regulation
 
-## See Also
-
-- Chamovitz D. (2012) "What a Plant Knows: A Field Guide to the Senses." Oneworld Publications.
-- Karban R. (2015) "Plant Sensing and Communication." University of Chicago Press.
-
 ## Overview
 
 Plant Sensory Biology Overview represents an important element within sustainable
@@ -102,8 +97,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- Chamovitz D. (2012) "What a Plant Knows: A Field Guide to the Senses." Oneworld Publications.
+- Karban R. (2015) "Plant Sensing and Communication." University of Chicago Press.
 - [[comfrey-plant-guide]]
 - [[plant-memory-and-spatial-awareness]]
 - [[plant-memory-epigenetic-recall-mechanisms]]

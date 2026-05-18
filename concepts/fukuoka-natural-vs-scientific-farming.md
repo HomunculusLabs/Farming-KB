@@ -17,11 +17,6 @@ Masanobu Fukuoka provides a systematic comparison between [[comparison-natural-f
 
 Philosophically, scientific farming cannot be superior to Mahayana natural farming because, while scientific farming is the sum of knowledge and forces extracted from nature by the human intellect, this still amounts to finite human knowledge. No matter how one totals it up, human knowledge is but a tiny, closely circumscribed fraction of the infinitude of the natural world.
 
-## See Also
-
-- [[fukuoka-critique-modern-agriculture]]
-
-- [[fukuoka-natural-fruit-tree-pest-control]]
 ## Practical Considerations
 
 When working with Natural vs Scientific Farming, several practical factors should be
@@ -119,8 +114,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-critique-modern-agriculture]]
+- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

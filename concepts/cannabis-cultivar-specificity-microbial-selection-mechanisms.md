@@ -56,13 +56,6 @@ endorhiza, such as the [[cannabis-rhizosphere-community-structure-edaphic-factor
 account for soil conditions. A strain colonizing effectively in one soil type may
 fail in another due to differences in pH, nitrogen, or competing microbiota.
 
-## See Also
-
-- [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales]]
-- [[sphingomonas-wittichii-maui-wowie]]
-- [[cannabis-rhizosphere-community-structure-edaphic-factors]]
-- [[bacteroidetes-strain-differentiation-cannabis-endorhiza]]
-
 ## Overview
 
 Cannabis Cultivar Specificity Microbial Selection Mechanisms represents an important element within sustainable
@@ -140,8 +133,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales]]
+- [[sphingomonas-wittichii-maui-wowie]]
+- [[cannabis-rhizosphere-community-structure-edaphic-factors]]
+- [[bacteroidetes-strain-differentiation-cannabis-endorhiza]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

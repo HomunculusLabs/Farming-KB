@@ -49,13 +49,6 @@ After 3 years, the treated road showed a mantle of nearly contiguous mycelium at
 
 Once a mycofiltration habitat is constructed, ecological recovery unfolds and nature guides the course. Spores are released as mushrooms grow to maturity, giving rise to more mycelium. The new mushrooms attract native insects, and rotting mushrooms become breeding grounds for fly larvae and grubs, subsequently attracting animals from lizards to birds. As the mycelium infiltrates the wood chips, more moisture is retained, creating a self-reinforcing cycle of ecological restoration.
 
-## See Also
-
-- [[cotter-mycoremediation-overview]]
-- [[mycoforestry-forest-restoration]]
-- [[fungal-enzyme-systems-bioremediation]]
-- [[paul-stamets]]
-
 ## Overview
 
 Mycofiltration Water Treatment represents an important element within sustainable
@@ -133,8 +126,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cotter-mycoremediation-overview]]
+- [[mycoforestry-forest-restoration]]
+- [[fungal-enzyme-systems-bioremediation]]
+- [[paul-stamets]]
 - [[mycelium-running-skookum-inlet-mycofiltration-field-trial]]
 - [[mycofiltration-overview]]
 - [[mycofiltration-watershed-protection]]

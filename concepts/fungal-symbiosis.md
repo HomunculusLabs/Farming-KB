@@ -31,12 +31,6 @@ Cordyceps fungi parasitize insects, replacing the host's tissue with
 [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* is a commensal fungus in humans that
 can become pathogenic when the immune system is compromised.
 
-## See Also
-
-- mycelium-network — How fungal networks connect organisms
-- [[candida-albicans]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -64,11 +58,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[mycorrhizae]]
-- [[mycorrhiza]]
 
 ## Overview
 
@@ -147,4 +136,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- mycelium-network — How fungal networks connect organisms
+- [[candida-albicans]]
+- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
+- [[det]]
+- [[mycorrhizae]]
+- [[mycorrhiza]]

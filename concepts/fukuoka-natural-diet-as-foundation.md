@@ -14,16 +14,6 @@ sources:
 
 Fukuoka argues that agriculture arose from human cravings over food and that [[fukuoka-do-nothing-health-philosophy]]: just as farming should work with nature rather than against it, eating should align with the body's true needs rather than the palate's endless demands.
 
-## See Also
-
-- [[fukuoka-tasty-rice-illusion]]
-- [[dom-compound-profile]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
-
-- [[natural-diet]]
-- [[dom]]
-- [[fukuoka-disappearance-natural-diet]]
-
 ## Overview
 
 Fukuoka Natural Diet As Foundation represents an important element within sustainable
@@ -101,8 +91,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-tasty-rice-illusion]]
+- [[dom-compound-profile]]
+- [[fukuoka-natural-farming-philosophy-of-mu]]
+- [[natural-diet]]
+- [[dom]]
+- [[fukuoka-disappearance-natural-diet]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

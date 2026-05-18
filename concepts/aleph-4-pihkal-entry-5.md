@@ -43,13 +43,6 @@ ALEPH-4 is a member of the [ALEPH family with an isopropylthio group at the 4-po
 - See [[set-and-setting-framework]] is critical -- ensure the ability to change locations if needed.
 - See [legal context for jurisdictional status.
 
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -93,11 +86,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[dom]]
-- [[aleph-6-pihkal-entry-6]]
-- [[aleph-7-pihkal-entry-7]]
-
 ## Practical Considerations
 
 Understanding the practical applications of this
@@ -121,3 +109,13 @@ topic carefully. These connect theoretical understanding
 with practical application and field observation,
 providing a framework for both academic study and
 hands-on implementation in real-world scenarios.
+
+
+## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+- [[dom]]
+- [[aleph-6-pihkal-entry-6]]
+- [[aleph-7-pihkal-entry-7]]

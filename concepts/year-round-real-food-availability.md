@@ -65,13 +65,6 @@ The practical ability to harvest fresh greens, roots, and other vegetables throu
 
 Coleman's ultimate argument is that the universal year-round availability of fresh, local, "real" food grown by deep-organic farmers can help people "turn heads around far enough to clearly see the whole truth about human nutrition" — just as organic farming helped people see the truth about soil nutrition.
 
-## See Also
-
-- [[deep-organic-farming-philosophy]] — The philosophical foundation of quality-focused organic agriculture
-- [[coleman-winter-harvest-philosophy]] — Technical methods for season extension
-- [[coleman-winter-harvest-planting-schedule]] — Choosing varieties that thrive in winter conditions
-- [[coleman-unheated-greenhouse-design]] — How protected structures modify growing conditions
-
 ## Practical Applications
 
 Year-Round Real Food Availability has several important applications in sustainable agriculture
@@ -80,8 +73,12 @@ practical methods for implementation across diverse climate zones.
 Understanding these applications helps integrate the concept into
 broader farming and gardening practice.
 
-## See Also
 
+## See Also
+- [[deep-organic-farming-philosophy]] — The philosophical foundation of quality-focused organic agriculture
+- [[coleman-winter-harvest-philosophy]] — Technical methods for season extension
+- [[coleman-winter-harvest-planting-schedule]] — Choosing varieties that thrive in winter conditions
+- [[coleman-unheated-greenhouse-design]] — How protected structures modify growing conditions
 - [[query-how-do-i-grow-salad-greens-and-lettuce-year-round]]
 - [[coleman-year-round-intensive-cropping-bed-management]]
 - [[coleman-year-round-marketing-calendar]]

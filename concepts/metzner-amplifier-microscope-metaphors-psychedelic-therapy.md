@@ -30,9 +30,6 @@ neurochemistry). Instead, it treats consciousness as a legitimate
 object of investigation in its own right, one that requires its own
 methodology and its own instruments.
 
-## See Also
-
-- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]] [[lsd-set-and-setting-framework]]
 ## Practical Considerations
 
 Successful implementation of metzner Amplifier and Microscope Metaphors for Psychedelic Therapy requires attention to
@@ -129,8 +126,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]] [[lsd-set-and-setting-framework]]
 - [[metzner-consciousness-expansion-versus-contraction-addiction]]
 - [[metzner-neoshamanic-medicine-circles]]
 - [[metzner-san-pedro-cactus-andean-ceremony-altar-practice]]

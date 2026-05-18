@@ -36,9 +36,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[pdc-right-livelihood-and-permaculture-economics]]
-
 ## Overview
 
 Williams Pdc Right Livelihood represents an important element within sustainable
@@ -116,8 +113,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pdc-right-livelihood-and-permaculture-economics]]
 - [[williams-pdc-climates-and-biomes]]
 - [[williams-pdc-community-design]]
 - [[williams-pdc-earthworks]]

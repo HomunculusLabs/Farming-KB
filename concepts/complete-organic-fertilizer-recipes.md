@@ -33,11 +33,6 @@ Solomon reports that a full year's supply of COF ingredients for a large garden 
 
 Store mixed COF in airtight containers in a cool, dry location. Seedmeals can go rancid if exposed to moisture. Properly stored, mixed COF remains effective for at least one year. Individual ingredients have longer shelf lives: limes and rock phosphate are essentially inert and last indefinitely; seedmeals should be used within 1-2 years of purchase.
 
-## See Also
-
-- complete organic fertilizer recipes
-- [[knf-preparations]]
-- [[solomon-gardening-when-it-counts-index]] - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon ranks potatoes as the single most important vegetable for self-sufficient homesteading. Use Complete Organic Fertilizer (COF) at standard rates. See [[tomato-pepper-eggplant-growing-guide]] - [[solomon-gardening-when-it-counts-index]] - [[solomon-complete-organic-fertilizer-guide]] The result is loose, dark brown soil.
 ## Practical Considerations
 
 When working with Complete Organic Fertilizer (COF) Recipes, several practical factors should be
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- complete organic fertilizer recipes
+- [[knf-preparations]]
+- [[solomon-gardening-when-it-counts-index]] - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon ranks potatoes as the single most important vegetable for self-sufficient homesteading. Use Complete Organic Fertilizer (COF) at standard rates. See [[tomato-pepper-eggplant-growing-guide]] - [[solomon-gardening-when-it-counts-index]] - [[solomon-complete-organic-fertilizer-guide]] The result is loose, dark brown soil.
 - [[complete-knf-input-reference]]
 - [[complete-organic-fertilizer-cof-solomon]]
 - [[complete-organic-fertilizer-formulation]]

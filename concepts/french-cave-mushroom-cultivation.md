@@ -34,10 +34,6 @@ The adaptation of mining infrastructure for food production represents a remarka
 
 In England, mushrooms were grown in specially constructed houses, cellars, caves, and sometimes even in the open air with protection. Belgium and Germany had more limited production. Italy, despite being on the European continent, paid the least attention to *Agaricus* cultivation relative to its other mushroom interests. The French cave system, however, remained unique in its scale, continuity, and integration with the urban building materials industry.
 
-## See Also
-
-- [[mushroom-growing-facilities]]
-
 ## Key Principles
 - Central to understanding ecological and sustainable design systems
 - Integrates theoretical knowledge with practical application
@@ -138,8 +134,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-growing-facilities]]
 - [[coleman-french-maraicher-manure-system-and-compost-quality]]
 - [[coleman-french-maraicher-parisian-intensive-market-gardening]]
 - [[coleman-french-maraicher-transport-britain-kropotkin]]

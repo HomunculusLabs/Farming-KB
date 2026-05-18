@@ -43,13 +43,6 @@ Fukuoka explained that without grasses growing over the surface of the ground, r
 
 All organic material produced in the orchard stays in the orchard. Leaves, pruned branches (from the initial establishment phase), crop residues, and weed biomass are returned to the soil surface as mulch. This continuous input of organic matter feeds soil organisms, moderates soil temperature, conserves moisture, and suppresses unwanted weed germination. The mulch layer is the engine of the orchard's self-fertilizing system.
 
-## See Also
-
-- [[fukuoka-rice-barley-dual-culture]] — Fukuoka's grain [[fukuoka-road-back-clover-barley-rice-method]]
-- [[doc]]
-- [[green-manure-crops]]
-- [[permaculture]]
-
 ## Overview
 
 Fukuoka Orchard Floor Management represents an important element within sustainable
@@ -127,8 +120,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-rice-barley-dual-culture]] — Fukuoka's grain [[fukuoka-road-back-clover-barley-rice-method]]
+- [[doc]]
+- [[green-manure-crops]]
+- [[permaculture]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

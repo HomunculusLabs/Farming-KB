@@ -33,9 +33,6 @@ These conditions yield Snell's law and the Fresnel equations at dielectric inter
 In source-free vacuum (ρ = 0, **J** = 0), taking the curl of Faraday's law and
 substituting the Ampère–Maxwell law produces the wave equation: ∇²**E** − μ₀ε₀
 
-## See Also
-- [[plants-and-electromagnetism]]
-
 ## Overview
 
 Maxwell Equations Electromagnetism represents an important element within sustainable
@@ -113,8 +110,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[plants-and-electromagnetism]]
 - [[navier-stokes-equations]]
 - [[navier-stokes-equations-fluid-dynamics]]
-- [[plants-and-electromagnetism]]

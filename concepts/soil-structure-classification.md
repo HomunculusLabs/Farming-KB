@@ -63,10 +63,6 @@ Soil crumb structure, aided by lime (calcium), bonds the different fractions tog
 
 The USDA classifies soil types by particle size ratios (the soil texture triangle), plotting the percentages of sand, silt, and clay to determine textural classes such as sandy loam, clay loam, silty clay, and so on. This standardised system allows consistent communication about soil properties across regions and disciplines.
 
-## See Also
-- [[tribal-soil-classification-and-structure]]
-- [[mollison-tribal-soil-classifications-and-soil-structure]]
-
 ## Overview
 
 Soil Structure Classification represents an important element within sustainable
@@ -144,7 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tribal-soil-classification-and-structure]]
+- [[mollison-tribal-soil-classifications-and-soil-structure]]
 - [[cool-temperate-soil-characteristics]]
 - [[jeavons-soil-ph-testing-balancing]]

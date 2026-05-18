@@ -21,11 +21,6 @@ A series of interceptor banks in wheatfields can isolate soil blocks from both o
 5. **Leverage microclimates**: Nebkas, vine screens, and underground spaces create protected niches within harsh environments
 6. **Utilize waste water**: Greywater sustains productive vine screens and garden plantings
 7. **Respect traditional knowledge**: Many of the most effective dryland strategies come from indigenous and traditional practices refined over centuries
-## See also
-
-- [[soil-erosion-control]]
-- [[salting-interceptor-banks]]
-
 ## Overview
 
 Dryland Settlements And Interceptor Banks represents an important element within sustainable
@@ -103,8 +98,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-erosion-control]]
+- [[salting-interceptor-banks]]
 - [[dryland-building-and-settlement]]
 - [[dryland-building-settlements]]
 - [[dryland-garden-irrigation-systems]]

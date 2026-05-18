@@ -87,11 +87,9 @@ Key [[fungal-siderophores-iron-acquisition-mycorrhiza]]:** Produces siderophores
   risk factor
 - **Rhizopus oryzae uses a fungal CotH protein** that binds to host GRP78 receptor on
 
+
 ## See Also
 - [[fungal-infections-human]]
-
-## See Also
-
 - [[bloomfield-mucormycosis-zygomycetes-opportunistic-human-pathogen]]
 - [[bloomfield-zygomycete-sex-trisporic-acid-zygospore]]
 - [[zygomycete-phylum-guide]]

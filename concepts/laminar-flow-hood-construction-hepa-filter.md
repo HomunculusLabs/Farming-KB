@@ -28,9 +28,6 @@ The HEPA (High Efficiency Particulate Air) filter is the critical component that
 - Incubate unopened for 48-72 hours
 - Zero growth on plates confirms the filter and seals are functioning correctly
 
-## See Also
-
-- [[laminar-flow-hood]] usage and protocols
 ## Practical Considerations
 
 When working with Laminar Flow Hood [[laminar-flow-hood]]
@@ -114,8 +111,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[laminar-flow-hood]] usage and protocols
 - [[laminar-flow-hood]]
 - [[laminar-flow-hood-blower-and-filter-sizing]]
 - [[laminar-flow-hood-construction]]

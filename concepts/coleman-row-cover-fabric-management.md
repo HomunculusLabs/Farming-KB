@@ -36,12 +36,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[eliot-coleman]]
-- [[coleman-double-layer-protection-greenhouse-row-cover]]
-- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
-
 ## Overview
 
 Coleman Row Cover Fabric Management represents an important element within sustainable
@@ -119,10 +113,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[eliot-coleman]]
+- [[coleman-double-layer-protection-greenhouse-row-cover]]
+- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
 - [[coleman-deep-organic-shallow-organic-farming-comparison]]
 - [[coleman-direct-marketing-and-csa-models]]
-- [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-mobile-greenhouse-system]]
 - [[coleman-tools-small-farm]]

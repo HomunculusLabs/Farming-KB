@@ -63,13 +63,6 @@ the principle: seedlings of twenty to thirty mangrove varieties sprouted and
 grew as far as the eye could see, providing a model that could be applied
 worldwide but had not been widely adopted.
 
-## See Also
-
-- [[fukuoka-clay-seed-pellets]]
-- [[masanobu-fukuoka]]
-- [[doc]]
-- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]
-
 ## Overview
 
 Fukuoka Sowing Desertification Countermeasures And Modern Failures represents an important element within sustainable
@@ -147,4 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[fukuoka-clay-seed-pellets]]
+- [[masanobu-fukuoka]]
+- [[doc]]
+- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

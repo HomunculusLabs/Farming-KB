@@ -62,10 +62,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[psycholytic-versus-psychedelic-therapy-models]]
-
 ## Overview
 
 Psycholytic And Psychedelic Therapy Models represents an important element within sustainable
@@ -143,8 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psycholytic-versus-psychedelic-therapy-models]]
 - [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]]
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
 - [[metzner-psycholytic-psychedelic-therapy-models]]

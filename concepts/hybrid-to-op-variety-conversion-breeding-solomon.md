@@ -39,12 +39,6 @@ Solomon cautions that some seed sold as "hybrid" at premium prices may actually 
 
 Dr. Alan Kapuler provided crucial insight into why older [[gardening-in-hard-times]].
 
-## See Also
-
-- solomon-seed-saving-fundamentals.md
-- solomon-hybrid-vs-open-pollinated.md
-- solomon-seed-quality-and-germination-testing.md
-
 ## References
 
 - Solomon, Steve. *Gardening When It Counts.* New Society Publishers, 2005. Chapter 5: Seeds.
@@ -80,7 +74,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- solomon-seed-saving-fundamentals.md
+- solomon-hybrid-vs-open-pollinated.md
+- solomon-seed-quality-and-germination-testing.md
 - [[solomon-hybrid-to-open-pollinated-variety-conversion-breeding]]
 - [[dom]]
 - [[det]]

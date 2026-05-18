@@ -40,11 +40,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[det]]
-- [[ingham-field-guide-compost-tea-application-rates]]
-- [[ingham-compost-tea-application-rates-and-timing]]
-
 ## Overview
 
 Ingham Foliar Compost Tea Application represents an important element within sustainable
@@ -122,8 +117,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[ingham-field-guide-compost-tea-application-rates]]
+- [[ingham-compost-tea-application-rates-and-timing]]
 - [[aact-brewing-ingredients-ingham]]
 - [[ingham-aact-brewing-techniques]]
 - [[ingham-foliar-pest-deterrence-aact]]

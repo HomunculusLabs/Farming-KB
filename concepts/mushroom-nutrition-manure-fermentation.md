@@ -60,12 +60,6 @@ While horse manure remains the traditional substrate, modern cultivators have de
 - **Synthetic compost:** Formulated from agricultural by-products without animal manure. Typical ingredients include wheat straw, brewers' grain, cottonseed meal, molasses, gypsum, and urea or ammonium sulfate as nitrogen supplements. Produces reliable results but requires careful formulation.
 - **Spent [[cotter-oyster-mushroom-cultivation]], and [[mushroom-cultivation-bulk-substrates]] preparation today.
 
-## See Also
-
-- [[mushroom-compost-bed-systems-duggar]]
-- [[mushroom-spawn-history-and-methods-duggar]]
-- [[cotter-oyster-mushroom-cultivation]]
-
 ## Overview
 
 Mushroom Nutrition Manure Fermentation represents an important element within sustainable
@@ -143,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-compost-bed-systems-duggar]]
+- [[mushroom-spawn-history-and-methods-duggar]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

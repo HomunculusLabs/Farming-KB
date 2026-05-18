@@ -42,9 +42,6 @@ pigs" and require no feed, only attention, making them an
 economical choice for households with limited space and
 resources.
 
-## See Also
-- [[mushroom-growing-substrates]]
-
 ## Overview
 
 Mushroom Growing Houses represents an important element within sustainable
@@ -122,8 +119,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-growing-substrates]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

@@ -50,12 +50,6 @@ out of a year-long series.
 
 Disturbance is a major driver of fungal community assembly. Following disturbance events such as fire, tillage, or logging, fungal communities undergo directional changes through succession. Early successional communities are typically dominated by ruderal species with rapid colonization ability, while late-successional communities favor competitive and stress-tolerant species. The culturing-culture-independent-fungi are essential for understanding the full complexity of fungal community assembly processes. Molecular data have confirmed the strong environmental regulation of community composition while also revealing the importance of dispersal limitation and historical factors at broader spatial scales.
 
-## See Also
-
-- [[fungal-biogeography]]
-- fungal-communities-succession
-- [[fungal-metagenomics]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -84,7 +78,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fungal-biogeography]]
+- fungal-communities-succession
+- [[fungal-metagenomics]]
 - [[dom]]
 - [[mycelium]]
 - [[trichoderma]]

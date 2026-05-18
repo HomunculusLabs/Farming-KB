@@ -18,11 +18,6 @@ The fact that plants possess multiple, overlapping photoreceptor systems sensiti
 
 - Chamovitz D. (2012) What a Plant Knows: A Field Guide to the Senses of Your Garden – and Beyond. Oneworld Publications.
 
-## See Also
-
-- [[phototropism]]
-- shade avoidance response
-
 ## Further Reading
 
 - phototropin mediated chloroplast movement
@@ -107,8 +102,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phototropism]]
+- shade avoidance response
 - [[comfrey-plant-guide]]
 - [[plant-memory-and-spatial-awareness]]
 - [[plant-memory-epigenetic-recall-mechanisms]]

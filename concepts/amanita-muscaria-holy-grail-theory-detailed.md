@@ -21,13 +21,6 @@ The theory that the Holy Grail of Arthurian legend originated as a [[amanita-mus
 - Alternative interpretations of Grail symbolism are equally plausible
 - The theory requires acceptance of the broader Amanita muscaria-as-Christ hypothesis
 
-## See Also
-
-- [[amanita-muscaria-eucharist-wafer-preparation]] -- The "body" of the sacrament
-- [[amanita-muscaria]]
-- [[doc]]
-- [[amanita-muscaria-grail-terra-cotta-vessel-preparation]]
-
 ## Overview
 
 Amanita Muscaria Holy Grail Theory Detailed represents an important element within sustainable
@@ -105,8 +98,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[amanita-muscaria-eucharist-wafer-preparation]] -- The "body" of the sacrament
+- [[amanita-muscaria]]
+- [[doc]]
+- [[amanita-muscaria-grail-terra-cotta-vessel-preparation]]
 - [[amanita-muscaria-ancient-wine-question]]
 - [[amanita-soma-born-thunder-eucharist-taste-identification]]
 - [[amanita-vaginata]]

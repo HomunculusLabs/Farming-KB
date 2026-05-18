@@ -70,8 +70,6 @@ Arbutoid mycorrhizae are ecologically important because they:
 - Create mycorrhizal linkages between ericaceous understory and overstory conifers through shared fungal partners
 - Contribute to [[singh-ericoid-mycorrhizal-fungi-remediation]] strategies. The combination of Hartig net (ectomycorrhizal feature) and intracellular colonization (ericoid/arbuscular feature) in a single root system is unique among mycorrhizal types and may reflect the evolutionary plasticity of the ericaceous mycorrhizal habit.
 
-## See Also
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -99,6 +97,7 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
+
 
 ## See Also
 - [[permaculture]]

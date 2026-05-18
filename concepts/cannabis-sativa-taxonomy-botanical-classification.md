@@ -47,11 +47,6 @@ This system has been widely adopted by botanists and is reflected in modern lega
 
 Modern research has revealed that the morphological traits traditionally used to classify cannabis (plant height, leaf shape, branching pattern) correlate poorly with the plant's chemical profile. A 2015 study by Small et al. found that [[fukuoka-natural-farming-in-tropical-regions]] (Southeast Asia, [[metzner-ayahuasca-therapeutic-potential]]), yield (grams/sq ft), flowering time, disease resistance, morphology, and trichome production density.
 
-## See Also
-
-- haze lineage and genetic history — The iconic sativa lineage
-- cannabis landrace preservation — Conserving original genetic diversity
-
 ## Overview
 
 Cannabis Sativa Taxonomy Botanical Classification represents an important element within sustainable
@@ -129,8 +124,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- haze lineage and genetic history — The iconic sativa lineage
+- cannabis landrace preservation — Conserving original genetic diversity
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

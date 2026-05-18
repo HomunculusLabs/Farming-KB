@@ -61,14 +61,6 @@ JADAM fundamentally shifts the approach from killing pathogens (disinfection) to
 
 JADAM method can be applied in all types of agriculture: conventional, hydroponics, commercial farms, large-scale plantations, home gardens, and urban gardens. Even conventional farmers can use JADAM pesticides alongside chemical ones to drastically cut costs.
 
-## See Also
-
-- [[jadam-sulfur-application]]
-- [[jadam-sea-salt-use]]
-- [[jadam-fermented-plant-juice]]
-- [[jadam-herbal-pest-control]]
-- [[knf-indigenous-microorganism-culture]]
-
 ## Overview
 
 Jadam Ultra Low Cost Methods represents an important element within sustainable
@@ -146,4 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[jadam-sulfur-application]]
+- [[jadam-sea-salt-use]]
+- [[jadam-fermented-plant-juice]]
+- [[jadam-herbal-pest-control]]
+- [[knf-indigenous-microorganism-culture]]

@@ -52,11 +52,6 @@ center, surrounded by the green-black [[basidiomycota-classification-major-clade
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[stinkhorn-fungi-biology-and-spore-dispersal]]
-- [[gasteromycetes-sacred-fungi]]
-- [[stinkhorn-cage-fungi-reproductive-biology]]
-
 ## Overview
 
 Stinkhorn Fungi Gasteromycetes represents an important element within sustainable
@@ -134,10 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
-- [[stinkhorn-cage-fungi-reproductive-biology]]
-- [[stinkhorn-fungi]]
+## See Also
 - [[stinkhorn-fungi-biology-and-spore-dispersal]]
+- [[gasteromycetes-sacred-fungi]]
+- [[stinkhorn-cage-fungi-reproductive-biology]]
+- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
+- [[stinkhorn-fungi]]
 - [[stinkhorn-reproduction-and-spore-dispersal]]

@@ -25,13 +25,6 @@ Oral administration (tinctures, capsules) provides consistent daily dosing for t
 
 THC should generally be avoided or minimized in metabolic syndrome patients due to its appetite-stimulating effects and potential to increase caloric intake. If THC is used for comorbid conditions (pain, sleep), it should be administered in the evening to minimize daytime eating effects. See [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include chronic stress (elevating cortisol), sedentary behavior, poor diet, and disrupted sleep -- all modifiable through awareness and lifestyle change. The mind-body connection suggests that emotional stress, when chronic, directly drives insulin resistance and central adiposity through HPA axis activation.
 
-## See Also
-
-- [[cannabis-cbd-therapeutic-profile]]
-- [[doc]]
-- [[dom]]
-- [[endocannabinoid-system]]
-
 ## Overview
 
 Cannabis Metabolic Syndrome Research represents an important element within sustainable
@@ -109,8 +102,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-cbd-therapeutic-profile]]
+- [[doc]]
+- [[dom]]
+- [[endocannabinoid-system]]
 - [[blesching-cannabis-antiemetic-vomiting]]
 - [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-parkinsons-disease]]

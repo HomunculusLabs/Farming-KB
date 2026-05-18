@@ -24,15 +24,6 @@ support natural ecological processes.
 
 Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
 
-## See Also
-
-- [[teaming-with-microbes-soil-food-web-overview]]
-- [[query-how-can-i-design-a-climate-resilient-food-forest]]
-
-## See Also
-
-- [[williams-pdc-sustainability-history-and-definition]]
-
 ## Overview
 
 Williams Pdc Food Forests represents an important element within sustainable
@@ -110,14 +101,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
-
-- [[williams-pdc-climates-and-biomes]]
-- [[williams-pdc-community-design]]
-- [[williams-pdc-earthworks]]
-- [[williams-pdc-food-systems]]
-- [[williams-pdc-sustainability-history-and-definition]]
-
 ## Practical Considerations
 
 Understanding the practical applications of this
@@ -125,3 +108,13 @@ concept requires considering both theoretical frameworks
 and real-world implementation challenges. Practitioners
 must balance ideal approaches with available resources
 and site-specific conditions to achieve meaningful results.
+
+
+## See Also
+- [[teaming-with-microbes-soil-food-web-overview]]
+- [[query-how-can-i-design-a-climate-resilient-food-forest]]
+- [[williams-pdc-sustainability-history-and-definition]]
+- [[williams-pdc-climates-and-biomes]]
+- [[williams-pdc-community-design]]
+- [[williams-pdc-earthworks]]
+- [[williams-pdc-food-systems]]

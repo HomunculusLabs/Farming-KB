@@ -37,10 +37,6 @@ In addition to enzymatic degradation, fungal biomass can physically adsorb dye m
 - Dead fungal biomass retains 60-80% of its dye biosorption capacity, enabling use of [[comparison-constructed-wetlands-vs-bioswales]] provide final polishing and habitat creation
 - **Water reuse:** Treated effluent from well-operated fungal treatment systems can often be recycled back into the dyeing process, reducing both water consumption and discharge volumes
 
-## See Also
-
-- fungal-bioreactor-types-for-pollutant-removal — bioreactor design for dye treatment
-- [[singh-fungal-degradation-of-chlorinated-compounds]] other recalcitrant pollutants
 ## Practical Considerations
 
 Successful implementation of Mycoremediation of Textile Dyes requires attention to
@@ -133,8 +129,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- fungal-bioreactor-types-for-pollutant-removal — bioreactor design for dye treatment
+- [[singh-fungal-degradation-of-chlorinated-compounds]] other recalcitrant pollutants
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[mycoremediation-applications]]
 - [[mycoremediation-pcbs-and-dioxins]]

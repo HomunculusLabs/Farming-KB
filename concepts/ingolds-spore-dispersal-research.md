@@ -60,11 +60,6 @@ The mechanisms he discovered continue to be studied with increasingly
 sophisticated tools, and each new investigation reveals additional layers
 of complexity and elegance in the systems he first described.
 
-## See Also
-
-- [[fungal-ecology-and-symbiosis]]
-- history of mycology
-
 ## Overview
 
 Ingolds Spore Dispersal Research represents an important element within sustainable
@@ -142,8 +137,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-ecology-and-symbiosis]]
+- history of mycology
 - [[amf-spore-strain-variability-effectiveness]]
 - [[growing-gourmet-spore-germination-strain-isolation]]
 - [[pf-tek-mycelium-senescence-spore-mass-inoculation]]

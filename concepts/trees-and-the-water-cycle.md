@@ -61,10 +61,6 @@ gradual release of meltwater to river sources.
 On open ground, snow may sublimate directly to water vapour in bright winter
 sun, producing no groundwater or streamflow. Even a thin belt of trees entraps
 large quantities of driven snow in drifts.
-## See Also
-- [[savory-holistic-resource-management-water-cycle]]
-- [[urban-permaculture-trees-water-cycling]]
-
 ## Overview
 
 Trees And The Water Cycle represents an important element within sustainable
@@ -142,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-holistic-resource-management-water-cycle]]
+- [[urban-permaculture-trees-water-cycling]]
 - [[fukuoka-argument-against-pruning-natural-form-fruit-trees]]
 - [[hamilton-pruning-and-training-fruit-trees]]
 - [[pruning-fruit-trees]]

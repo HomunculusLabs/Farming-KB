@@ -55,11 +55,6 @@ systematic devaluation of indigenous knowledge all represented facets of
 the same Dominator culture impulse to eliminate alternative sources of
 spiritual authority and experiential knowledge.
 
-## See Also
-
-- [[mckenna-food-gods-dmt-virola-anadenanthera-amazonian-snuff-traditions]]
-- [[mckenna-food-gods-european-witchcraft-psychoactive-plants-thornapple-mandrake-nightshade]]
-
 ## Overview
 
 Mckenna Food Gods New World Hallucinogen Clustering Americas Psychedelic Continent represents an important element within sustainable
@@ -137,8 +132,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-gods-dmt-virola-anadenanthera-amazonian-snuff-traditions]]
+- [[mckenna-food-gods-european-witchcraft-psychoactive-plants-thornapple-mandrake-nightshade]]
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

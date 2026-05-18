@@ -64,12 +64,6 @@ The EMCDDA documented the impact of regulatory changes on market dynamics:
 
 The case study highlighted that market responses to legislation are complex and adaptive. Restricting one product can stimulate demand for alternatives, potentially creating new public health challenges.
 
-## See Also
-
-- [[mushroom-legislation-europe]]
-- [[amanita-muscaria]]
-- harm reduction hallucinogens
-
 ## Overview
 
 Magic Mushroom Market Trends represents an important element within sustainable
@@ -147,4 +141,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[mushroom-legislation-europe]]
+- [[amanita-muscaria]]
+- harm reduction hallucinogens

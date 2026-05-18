@@ -13,13 +13,6 @@ The information paradigm of consciousness proposes that mind is not a separate s
 
 This framework, developed most thoroughly by Simon G. Powell in The [[psilocybin-and-mystical-experience]], particularly the vivid visionary experiences induced by substances like [[psilocybin-neuroscience]] and [[leary-psychedelic-experience-bardo-mapping]] and its implications for our understanding of consciousness and reality.
 
-## See Also
-
-- [[consciousness-and-psychedelics]]
-- [[doc]]
-- [[dom]]
-- [[mind-body-problem-vs-information-paradigm-of-consciousness]]
-
 ## Overview
 
 Information Paradigm Of Consciousness represents an important element within sustainable
@@ -97,8 +90,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[consciousness-and-psychedelics]]
+- [[doc]]
+- [[dom]]
+- [[mind-body-problem-vs-information-paradigm-of-consciousness]]
 - [[emcdda-smartshop-online-risk-information-quality-audit-2006]]
 - [[language-self-replicating-information-noosphere-mckenna]]
 - [[mckenna-perceiving-self-as-primary-datum-consciousness]]

@@ -22,10 +22,6 @@ sources:
 
 5. **Temperature-matched microbes:** Culture JMS at [[jadam-pest-control-with-natural-pesticides-jhs]]
 
-## See Also
-
-- [[compost-tea-recipe-guide]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -53,11 +49,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[jadam-seed-treatment-and-storage]]
-- [[small-scale-seed-starting-and-nursery-management]]
 
 ## Overview
 
@@ -136,8 +127,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[compost-tea-recipe-guide]]
+- [[det]]
+- [[jadam-seed-treatment-and-storage]]
+- [[small-scale-seed-starting-and-nursery-management]]
 - [[jadam-anaerobic-fermentation-principles]]
 - [[jadam-element-function-reference]]
 - [[jadam-herbal-smoker-livestock]]

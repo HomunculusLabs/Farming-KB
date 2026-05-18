@@ -37,14 +37,6 @@ broader recognition that indigenous pharmacological knowledge
 represented an invaluable resource for understanding the relationship
 between humans and psychoactive plants.
 
-## See Also
-
-- ololiuqui aztec visionary seeds
-- turbina corymbosa ergoline alkaloids
-- ipomoea purpurea psychoactive properties
-- mazatec shamanism plant complex
-- psilocybin mushroom [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
-
 ## Overview
 
 Morning Glory Complex Ipomoea Turbina Corymbosa represents an important element within sustainable
@@ -122,8 +114,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- ololiuqui aztec visionary seeds
+- turbina corymbosa ergoline alkaloids
+- ipomoea purpurea psychoactive properties
+- mazatec shamanism plant complex
+- psilocybin mushroom [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
 - [[morning-glory-entheogens]]
 - [[morning-glory-ergoline-alkaloids-chemistry]]

@@ -50,14 +50,6 @@ Lentinan and related compounds activate the host immune system through multiple 
 
 Lentinan continues to be approved for clinical use in Japan. It is one of only three mushroom-derived compounds (along with PSK and PSP) that have been used in extensive clinical trials involving hundreds of cancer patients. Its use as an adjuvant to conventional chemotherapy, particularly for gastric cancer, remains the primary clinical application.
 
-## See Also
-
-- [[cancer-maitake-d-fraction]]
-- cancer integration conventional treatment
-- [[lentinan]]
-- [[schizophyllan]]
-- [[mycelium]]
-
 ## Overview
 
 Cancer Shiitake Lentinan Therapy represents an important element within sustainable
@@ -135,8 +127,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cancer-maitake-d-fraction]]
+- cancer integration conventional treatment
+- [[lentinan]]
+- [[schizophyllan]]
+- [[mycelium]]
 - [[blesching-cannabis-pancreatic-cancer]]
 - [[cancer-medicinal-mushrooms-extraction-bioavailability]]
 - [[lentinan-gastric-cancer-combination-therapy]]

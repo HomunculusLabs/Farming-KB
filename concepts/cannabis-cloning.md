@@ -47,14 +47,6 @@ Most Skunk and indica strains are easy to clone. Growers and sick plants cause m
 - **Slow rooting:** Low temperature, wrong pH, or old/lazy rooting hormone
 - **Algae on medium:** Too much light or moisture on the medium surface
 
-## See Also
-
-- [[rockwool-cannabis]] -- common rooting medium
-- banisteriopsis caapi -- aeroponic cloning systems
-- [[doc]]
-- [[banisteriopsis-caapi]]
-- [[cannabis-cloning-guide]]
-
 ## Overview
 
 Cannabis Cloning represents an important element within sustainable
@@ -132,8 +124,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[rockwool-cannabis]] -- common rooting medium
+- banisteriopsis caapi -- aeroponic cloning systems
+- [[doc]]
+- [[banisteriopsis-caapi]]
+- [[cannabis-cloning-guide]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

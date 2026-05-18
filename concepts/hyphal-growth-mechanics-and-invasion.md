@@ -62,11 +62,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[det]]
-- [[mycorrhiza]]
-- [[bloomfield-turgor-pressure-and-hyphal-invasion]]
-
 ## Overview
 
 Hyphal Growth Mechanics And Invasion represents an important element within sustainable
@@ -144,7 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[mycorrhiza]]
+- [[bloomfield-turgor-pressure-and-hyphal-invasion]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
 - [[amf-hyphal-anastomosis-self-recognition]]

@@ -41,11 +41,6 @@ farming," but this is misleading. The farmer is intensely active in
 observation and response — he simply does not impose his will upon the
 land through mechanical or chemical means.
 
-## See Also
-
-- [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]
-- [[fukuoka-mahayana-and-hinayana-natural-farming]]
-
 ## Overview
 
 Fukuoka Textdoc Centrifugal Centripetal Forces Civilization represents an important element within sustainable
@@ -123,8 +118,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]
+- [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

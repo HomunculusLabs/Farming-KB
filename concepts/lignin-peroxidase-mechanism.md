@@ -24,9 +24,6 @@ The ability of LiP to remove chlorine atoms from aromatic rings is significant f
 
 LiP production in Phanerochaete chrysosporium is regulated by nutrient nitrogen limitation and carbon source availability. Secondary metabolism is triggered under nitrogen-limiting conditions, leading to the synthesis of LiP isozymes. This nutrient-dependent regulation links lignin degradation to the physiological state of the fungus, ensuring that LiP is produced when the fungus is actively degrading lignocellulose as a carbon source.
 
-## See Also
-
-[[singh-cytochrome-p450-fungal-bioremediation]]
 ## Practical Considerations
 
 When working with Lignin Peroxidase Mechanism, several practical factors should be
@@ -138,8 +135,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[singh-cytochrome-p450-fungal-bioremediation]]
 - [[lignin-degradation-by-fungi]]
 - [[query-what-is-the-role-of-lignin-in-soil-health-and-decomposition]]
 - [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]]

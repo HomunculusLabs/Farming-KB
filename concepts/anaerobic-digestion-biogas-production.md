@@ -14,16 +14,6 @@ Anaerobic digestion is a biological process that breaks down organic matter in t
 - **Sludge harvesting**: Periodically harvest metal-rich sludge from anaerobic pond bottoms; this material may be suitable for non-food soil amendment after testing.
 - **Multiple functions**: Design pond systems to provide energy (biogas), water treatment, nutrient recycling, and aquatic habitat simultaneously.
 
-## See Also
-- [[biogas-digesters-and-anaerobic-digestion-systems]]
-- [[anaerobic-sewage-digestion-methane]]
-
-- Wastewater Treatment Systems
-- Biogas Energy
-- Aquaculture Integration
-- Heavy Metal Remediation
-- Pond Design and Management
-
 ## Overview
 
 Anaerobic Digestion Biogas Production represents an important element within sustainable
@@ -101,10 +91,16 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[anaerobic-gut-fungi]]
+## See Also
+- [[biogas-digesters-and-anaerobic-digestion-systems]]
 - [[anaerobic-sewage-digestion-methane]]
+- Wastewater Treatment Systems
+- Biogas Energy
+- Aquaculture Integration
+- Heavy Metal Remediation
+- Pond Design and Management
+- [[anaerobic-gut-fungi]]
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 - [[ingham-compost-tea-pathogen-safety-anaerobic-risk]]
 - [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]]

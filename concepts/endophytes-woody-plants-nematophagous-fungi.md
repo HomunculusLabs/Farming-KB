@@ -97,10 +97,8 @@ Beyond trapping fungi, other fungi parasitize nematode eggs and females:
 ## Nematicidal Basidiomycetes
 
 Barron and Thorn (1987) found that basidiomycete fungi of the genus Pleurotus (P. ostreatus, P. strigosus, P. subareolatus, P. cornucopiae) produced minute spathulate secretory cells that generated droplets of toxins killing nematodes on contact within 30 seconds. Subsequent to nematode death, fungal hyphae penetrated orifices and destroyed the nematode. This represents a fundamentally different mechanism from trapping — direct chemical toxicity rather than physical capture.
-## See also
 
+## See Also
 - [[fungal-endophytes-antiherbivore-defense]]
 - [[neotyphodium]]
-## See also
-
 - [[entomopathogenic-nematodes-biological-pest-control]]

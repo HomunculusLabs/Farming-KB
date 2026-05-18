@@ -14,10 +14,6 @@ Updated: 2026-04-18
 
 Solar cooking uses concentrated sunlight to heat food without fuel. It is an ideal complement to faires-low-energy-cooking-methods like haybox cooking (start on the solar cooker, finish in a haybox) to extend solar cooking into marginal conditions.
 
-## See Also
-
-- [[making-ghee-and-clarified-fats]]
-- [[growing-vegetables-with-less-fertilizer]]
 ## Practical Applications
 
 Solar Cooking Methods has a range of practical applications that make it relevant to
@@ -114,8 +110,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[making-ghee-and-clarified-fats]]
+- [[growing-vegetables-with-less-fertilizer]]
 - [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 - [[mollison-designers-home-energy-conservation-and-solar-heating]]
 - [[passive-solar-greenhouse-design-and-energy-systems]]

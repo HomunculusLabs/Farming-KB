@@ -52,11 +52,6 @@ Desert Landscape Features Classification has been recognized for its contributio
 Traditional knowledge systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
-## See Also
-- [[desert-house-water-energy-conservation]]
-- [[fukuoka-desert-succession-ecology]]
-- [[gilgai-desert-swales-mollison]]
-
 ## Overview
 
 Desert Landscape Features Classification represents an important element within sustainable
@@ -134,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[desert-house-water-energy-conservation]]
+- [[fukuoka-desert-succession-ecology]]
+- [[gilgai-desert-swales-mollison]]
 - [[desert-dune-stabilisation-and-forestry]]
 - [[desert-soils-and-mulching-strategies]]
 - [[desert-water-storage-evaporation]]

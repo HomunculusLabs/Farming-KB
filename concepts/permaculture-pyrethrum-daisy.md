@@ -36,10 +36,6 @@ Must be stored whole and in a dark container. Light degrades the active pyrethri
 
 The most commonly cultivated strain is the Dalmatian chrysanthemum (Chrysanthemum cinerariifolium), which has the highest pyrethrin content. The Persian chrysanthemum (C. coccineum) contains lower levels of pyrethrins but is more cold-hardy and has showier flowers.
 
-## See Also
-
-- [[permaculture-plant-selection]]
-
 ## Practical Considerations
 
 Successful implementation of Pyrethrum Daisy (Natural Insecticide) requires attention to
@@ -136,8 +132,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-plant-selection]]
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]

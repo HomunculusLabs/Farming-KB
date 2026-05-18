@@ -58,11 +58,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[spore]]
-- [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
-- [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
-
 ## Overview
 
 Adaptive Anemotropism Spore Dispersal Optimization Mushroom Evolution represents an important element within sustainable
@@ -140,9 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[spore]]
 - [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
+- [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
 - [[anemotropism-in-basidiomycete-mushrooms]]
 - [[anemotropism-in-fungi]]
 - [[mushroom-anemotropism]]

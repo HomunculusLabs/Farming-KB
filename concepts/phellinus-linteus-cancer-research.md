@@ -39,10 +39,6 @@ methods used for commercial mushroom polysaccharide products.
 
 | Feature | P. linteus | Psk Polysacolaride K | kappa opioid receptor characterisation needed
 
-## See Also
-
-- [[psp-phase-clinical-trials]]
-- [[medicinal-mushroom-cancer-regulatory-frameworks]]
 ## Practical Considerations
 
 Successful implementation of Phellinus Linteus Cancer Research requires attention to
@@ -139,8 +135,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psp-phase-clinical-trials]]
+- [[medicinal-mushroom-cancer-regulatory-frameworks]]
 - [[phellinus-gilvus]]
 - [[phellinus-linteus]]
 - [[phellinus-linteus-meshima-cancer-research]]

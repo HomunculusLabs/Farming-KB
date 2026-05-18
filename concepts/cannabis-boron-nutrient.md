@@ -23,13 +23,6 @@ Boron is a [[cannabis-calcium-nutrient]]. Boron helps facilitate calcium uptake 
 Boron can quickly become toxic if concentrated in the [[query-how-to-fix-boron-deficiency-in-cannabis]] tip burn with HID [[knf-calcium-deficiency-symptoms]] symptoms persist despite adequate calcium levels
 - Not distinguishing between above-ground and below-ground boron deficiency symptoms
 
-## See Also
-
-- [[cannabis-nutrient-toxicity]]
-- [[foliar-feeding]]
-- [[cannabis-nutrient-burn-and-toxicity]]
-- [[cannabis-nutrient-toxicity]]
-
 ## Overview
 
 Cannabis Boron Nutrient represents an important element within sustainable
@@ -107,8 +100,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-nutrient-toxicity]]
+- [[foliar-feeding]]
+- [[cannabis-nutrient-burn-and-toxicity]]
 - [[blesching-cannabis-antiemetic-vomiting]]
 - [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-parkinsons-disease]]

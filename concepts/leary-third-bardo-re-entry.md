@@ -84,11 +84,9 @@ The manual notes that due to "the increased suggestibility and openness of the m
 
 ## Choosing the Post-Session Personality
 
+
 ## See Also
 - [[leary-psychedelic-bardo-model]]
-
-## See Also
-
 - [[mckenna-food-gods-leary-harvard-psilocybin-project]]
 - [[timothy-leary-harvard-psilocybin-experiments]]
 - [[hofmann-leary-case-and-harvard-research]]

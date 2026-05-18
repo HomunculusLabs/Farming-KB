@@ -53,12 +53,6 @@ Many of the strains documented in Cannabis Sativa Vol. 3 carry significant landr
 - **Rio Negro Colombian Sativa**: Direct [[oner-colombian-landrace-sativa-strains]] from the Rio Negro region
 - **South Indian**: Direct South Indian landrace
 
-## See Also
-
-- cannabis sativa taxonomy botanical classification — Taxonomic framework for cannabis
-- haze lineage and genetic history — Landrace genetics in the most influential hybrid
-- terpene profiles in sativa strains — Chemical diversity of landrace-derived strains
-
 ## Overview
 
 Cannabis Landrace Preservation represents an important element within sustainable
@@ -136,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- cannabis sativa taxonomy botanical classification — Taxonomic framework for cannabis
+- haze lineage and genetic history — Landrace genetics in the most influential hybrid
+- terpene profiles in sativa strains — Chemical diversity of landrace-derived strains
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

@@ -26,8 +26,6 @@ Conversely, cold-weather Oyster strains (Pleurotus ostreatus and allies) can be 
 
 If the spawn fails, the excuse heard more often than not is that the spawn was mishandled by the purchaser. This type of business relationship is intrinsically problematic and represents yet another reason why mushroom farms should generate their own spawn whenever possible.
 
-## See Also
-
 ## Overview
 
 Spawn Storage Conditions represents an important element within sustainable
@@ -105,8 +103,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[duggar-flat-ridge-beds-and-spawn-transfer]]
 - [[grain-spawn-generation]]
 - [[mushroom-spawn-and-fruiting-stages]]

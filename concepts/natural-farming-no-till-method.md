@@ -39,12 +39,6 @@ and climates worldwide, demonstrating that the rejection of tillage is
 not merely a Japanese technique but a universal principle of sustainable
 agriculture.
 
-## See Also
-
-- [[fukuoka-clover-and-green-manure-cropping]]
-  manure in the no-till system
-- [[natural-farming-microbial-inoculants]] for understanding soil
-  biology that replaces tillage
 ## Practical Considerations
 
 Successful implementation of Natural Farming No Till Method requires attention to
@@ -141,8 +135,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-clover-and-green-manure-cropping]]
+  manure in the no-till system
+- [[natural-farming-microbial-inoculants]] for understanding soil
+  biology that replaces tillage
 - [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]
 - [[mushroom-natural-habitats]]

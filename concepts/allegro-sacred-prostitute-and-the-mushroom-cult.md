@@ -56,18 +56,6 @@ The development of these ideas reflects decades of practical experience
 and scientific inquiry. Traditional knowledge systems, empirical observation,
 and modern research methods have all contributed to current understanding.
 
-## See Also
-
-- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-- [[sacred-mushroom-and-the-cross]]
-- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-- [[allegro-the-sacred-mushroom-amanita-identification]]
-- [[mushroom-training-mushroom-processing]]
-## See Also
-
-- [[allegro-fungal-iconography-in-ancient-art]]
-- controversy-sacred-mushroom-theory
-- [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 ## Practical Considerations
 
 Successful implementation of Sacred Prostitute and the Mushroom Cult (Allegro) requires attention to
@@ -86,3 +74,13 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+
+## See Also
+- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
+- [[sacred-mushroom-and-the-cross]]
+- [[allegro-the-sacred-mushroom-amanita-identification]]
+- [[mushroom-training-mushroom-processing]]
+- [[allegro-fungal-iconography-in-ancient-art]]
+- controversy-sacred-mushroom-theory
+- [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.

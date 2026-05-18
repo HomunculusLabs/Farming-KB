@@ -18,9 +18,6 @@ diversity of fungi on flowers and fruits is poorly known in tropical
 regions and represents a significant gap in our understanding of
 [[fungal-species-accumulation-rarefaction-estimators]]-estimates-biodiversity-overview and [[fungal-species-estimates-biodiversity-overview]]
 for broader estimates.
-## See Also
-
-- fungi living plant substrata
 ## Practical Considerations
 
 Successful implementation of Fungi Living Plant Substrata requires attention to
@@ -67,11 +64,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[sterilization]]
-- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
 
 ## Overview
 
@@ -148,3 +140,10 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
+
+
+## See Also
+- fungi living plant substrata
+- [[det]]
+- [[sterilization]]
+- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]

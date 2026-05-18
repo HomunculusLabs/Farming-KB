@@ -58,14 +58,6 @@ In desert environments, protective barriers serve multiple functions. Ocotillo i
 - **Nebka creation**: Harness wind-deposited soil around plantings to build fertility
 - **Salinity management**: Use interceptor banks and careful water management to prevent salt accumulation
 - **Species selection**: Choose plants adapted to arid conditions that provide multiple yields
-## See also
-
-- [[dryland-permaculture-strategies]]
-- [[dryland-building-and-settlement]]
-- [[dryland-precipitation-and-opportunistic-ecology]]
-- [[dryland-salting-mollison]]
-- [[dryland-vegetable-gardening]]
-
 ## Overview
 
 Dryland Building Settlements represents an important element within sustainable
@@ -143,8 +135,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dryland-permaculture-strategies]]
+- [[dryland-building-and-settlement]]
+- [[dryland-precipitation-and-opportunistic-ecology]]
+- [[dryland-salting-mollison]]
+- [[dryland-vegetable-gardening]]
 - [[dryland-buildings-and-settlements]]
 - [[dryland-designers-checklist]]
 - [[dryland-garden-irrigation-systems]]

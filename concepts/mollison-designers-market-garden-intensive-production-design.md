@@ -33,7 +33,6 @@ Minimising unnecessary labour is critical to market garden profitability.
 Efficient layout places frequently used tools and materials at the point of
 use. Compost bins are positioned between garden zones for easy access from
 all beds. Water sources and irrigation headers are centrally located.
-## See Also
 ## Practical Considerations
 
 Successful implementation of Market Garden Intensive Production Design requires attention to
@@ -123,8 +122,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[humid-cool-climate-characteristics-mollison]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-climate-zone-3-farm-forestry]]

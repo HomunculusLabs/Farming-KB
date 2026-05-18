@@ -58,11 +58,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[holzer-livestock-philosophy-paddock-system]]
-- [[sepp-holzer-earth-cellars-and-philosophy]]
-- [[holzer-farming-philosophy]]
-
 ## Overview
 
 Holzer Rebel Farmer Philosophy represents an important element within sustainable
@@ -140,8 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[holzer-livestock-philosophy-paddock-system]]
+- [[sepp-holzer-earth-cellars-and-philosophy]]
+- [[holzer-farming-philosophy]]
 - [[holzer-alpine-plant-cultivation]]
 - [[holzer-browsing-protection-methods]]
 - [[holzer-fruit-growing-marginal-climates]]

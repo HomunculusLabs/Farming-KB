@@ -53,13 +53,6 @@ With the threat of bioterrorism from weaponized viruses, a readily available, in
 
 Stamets argues that preserving old-growth forests is not merely an environmental issue but a medical imperative. Two-thirds of our pharmaceuticals still originate from nature. He cites taxol from Pacific yew bark as an example, and notes the endophytic fungus Taxomyces andreanae, found inhabiting yew trees, also synthesizes taxol. He has little doubt that many other mushrooms will provide antiviral or anticancer drugs -- provided our forests survive the effects of short-sighted political and corporate agendas.
 
-## See Also
-
-- [[medicinal-mushroom-antimicrobial-antiviral-research]]
-- [[cancer-medicinal-mushrooms-maitake-d-fraction]]
-- [[fungal-antibiotics]]
-- [[medicinal-mushrooms-biological-response-modifiers]]
-
 ## Overview
 
 Mycelium Running Stamets Mushrooms As Medicine represents an important element within sustainable
@@ -137,8 +130,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[medicinal-mushroom-antimicrobial-antiviral-research]]
+- [[cancer-medicinal-mushrooms-maitake-d-fraction]]
+- [[fungal-antibiotics]]
+- [[medicinal-mushrooms-biological-response-modifiers]]
 - [[growing-gourmet-iconic-types-mushroom-mycelium]]
 - [[mycelium-digestive-membrane-information-network]]
 - [[mycelium-running-insect-fungal-mutualism]]

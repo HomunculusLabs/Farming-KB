@@ -35,9 +35,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[psilocybe-cubensis]]
-
 ## Overview
 
 Psilocybin Psilocin Flush Accumulation Patterns represents an important element within sustainable
@@ -115,8 +112,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybe-cubensis]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

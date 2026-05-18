@@ -110,14 +110,13 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
+
 ## See Also
 - [[cannabis-autoflower-guide]]
 - [[blesching-cannabis-wound-care]]
 - [[cannabis-topicals-guide]]
 - [[cannabis-lighting-guide]]
 - [[cannabis-thc-cbd-ratio-guide-for-conditions]]
-
-## See Also
 - [[greg-green]]
 - [[cannabis-guerrilla-growing-guide]]
 - [[cannabis-pruning-and-defoliation-guide]]

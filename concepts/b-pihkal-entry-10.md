@@ -37,11 +37,6 @@ amphetamine counterparts 3C-B, 3C-A, 3C-H, and 3C-S.
 
 ## Structural Position Among Mescaline Homologues
 
-## See Also
-- [[dom]]
-- [[serotonin]]
-- [[pihkal-entry-46]]
-
 ## Overview
 
 B Pihkal Entry 10 represents an important element within sustainable
@@ -119,8 +114,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[serotonin]]
+- [[pihkal-entry-46]]
 - [[4-t-tris-entity-pihkal]]
 - [[doc-pihkal-64]]
 - [[dopr-entity-pihkal]]

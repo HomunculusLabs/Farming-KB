@@ -59,11 +59,6 @@ You can make it yourself:
 1. Find an uncontaminated piece of land
 2. Cut [[savory-growing-season-and-non-growing-season-management]]. It pairs with soil foundation work using JMS, seawater, phyllite solution, and JLF to create a comprehensive system of biological protection and nutrition.
 
-## See Also
-
-- [[jadam-anaerobic-fermentation]] -- the fermentation principle behind microbial activity
-- [[jadam-cover-crop-wild-grass-symbiosis]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -92,7 +87,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[jadam-anaerobic-fermentation]] -- the fermentation principle behind microbial activity
+- [[jadam-cover-crop-wild-grass-symbiosis]]
 - [[dom]]
 - [[cho-seed-seedling-solution-treatment]]
 - [[jadam-seed-treatment-and-storage]]

@@ -54,12 +54,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[mycorrhizal-fungi]]
-- [[mycotoxins]]
-- [[cover-crops]]
-
 ## Overview
 
 Biodiversity Of Fungi Plant Health Pathogens Biocontrol represents an important element within sustainable
@@ -137,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhizal-fungi]]
+- [[mycotoxins]]
+- [[cover-crops]]
 - [[biodiversity-fungal-molecular-identification-dna-barcoding]]
 - [[dighton-soil-fungal-biodiversity-assessment]]
 - [[fungal-biodiversity-tropical-ecosystems]]

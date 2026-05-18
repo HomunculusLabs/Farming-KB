@@ -21,14 +21,6 @@ Detailed experience reports from [[psychedelic-crisis-response-protocol]] if dif
 - Semi-consciously aware of body chanting and moving — common with DMT + Syrian Rue but not previously with Ketamine
 - Turner later decided this combination was not appropriate (K + natural psychedelics warning)
 
-## See Also
-- [[2c-b-psychedelic-empathogen-guide]] — 2C-B details
-- [[ecstasy-mdma-guide]] — MDMA combinations
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -133,8 +125,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[2c-b-psychedelic-empathogen-guide]] — 2C-B details
+- [[ecstasy-mdma-guide]] — MDMA combinations
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[psychedelic-safety-guidelines-turner]]
 - [[turner-dmt-water-spirit-connection]]
 - [[turner-further-explorations-and-future-of-psychedelics]]

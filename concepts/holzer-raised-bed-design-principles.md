@@ -20,15 +20,6 @@ Raised beds have a substantial advantage over normal beds at ground level. They 
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
 
-## See Also
-
-- [[sepp-holzer-method]], [[sepp-holzer-terrace-systems-and-raised-beds]], [[holzer-green-manure-crops]], [[mollison-designers-microclimate-creation-frost-protection]].
-[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
-Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and [[holzer-raised-bed-design]]
-- [[doc]]
-- [[swale]]
-
 ## Overview
 
 Holzer Raised Bed Design Principles represents an important element within sustainable
@@ -106,8 +97,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[sepp-holzer-method]], [[sepp-holzer-terrace-systems-and-raised-beds]], [[holzer-green-manure-crops]], [[mollison-designers-microclimate-creation-frost-protection]].
+[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
+Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
+Ancient grain varieties selected for mountain conditions show superior resilience and [[holzer-raised-bed-design]]
+- [[doc]]
+- [[swale]]
 - [[holzer-ancient-cereals-growing]]
 - [[holzer-livestock-philosophy-pig-breeds]]
 - [[holzer-urban-gardening-rubbish-hugelkultur]]

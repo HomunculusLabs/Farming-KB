@@ -52,10 +52,6 @@ of plant-based religions: the original sacramental plant is gradually replaced b
 psychedelically potent but more addictively reliable substances. The shift from 
 to opium mirrors the later shifts from opium to [[mckenna-minoan-crete-mushroom-religion]]
 
-## See Also
-
-- [[mckenna-opium-tobacco-paradoxical-attitudes]]
-
 ## Overview
 
 Mckenna Paracelsus Doctor Opiatus Alchemical Opium represents an important element within sustainable
@@ -133,8 +129,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-opium-tobacco-paradoxical-attitudes]]
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

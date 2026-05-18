@@ -31,12 +31,6 @@ Several solvents are suitable for cannabis reflux extraction, each with differen
 - [[comparison-cannabis-extraction-basics-vs-extraction-methods]]
 - [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]
 - [[lemon-cannabis-alchemy-hashing-and-extraction]]
-## See Also
-
-- [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]
-- [[cannabis-extraction-basics]]
-- [[cannabis-oil-extraction]]
-
 ## Overview
 
 Cannabis Reflux Extraction Apparatus represents an important element within sustainable
@@ -114,8 +108,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]
+- [[cannabis-extraction-basics]]
+- [[cannabis-oil-extraction]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

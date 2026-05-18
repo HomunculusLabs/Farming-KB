@@ -16,11 +16,6 @@ mushrooms. Using chemical desiccants to absorb moisture from the surrounding
 air, this technique dries mushrooms at room temperature or below without the
 heat damage that degrades alkaloid content. [[psilocybe-cubensis]] achieves its maximum
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
-creative adaptation to local conditions and emerging challenges.
-
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
@@ -147,4 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+creative adaptation to local conditions and emerging challenges.

@@ -90,14 +90,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[harmala-alkaloids]]
 - [[claudio-naranjo]]
 - [[yage-visions-felines-reptiles-prehistoric-imagery]]
 - [[yage-cross-cultural-experience]]
 - [[yage-common-themes-south-american-indians]]
-## See Also
-
 - [[yage-experience-soul-body-dissociation-autonomous-self]] — The broader framework of soul-body dissociation
 - [[hallucinogenic-plants-in-european-witchcraft]] — The European parallel of flying witches
 - [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]] — Theoretical context

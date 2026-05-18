@@ -39,11 +39,6 @@ Puffballs produce spores internally within a spherical structure. When mature, a
 
 Conversely, poisonous mushrooms cause thousands of illnesses and dozens of deaths annually worldwide. The death cap (*Amanita phalloides*) contains amatoxins that destroy liver cells, while the destroying angel (*Amanita virosa*) is similarly lethal. Accurate identification is literally a matter of life and death, underscoring the importance of the morphological knowledge that mycologists like Money and his mentors have dedicated their careers to developing.
 
-## See Also
-
-- [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
-- stinkhorn insect dispersal strategy
-
 ## Overview
 
 Bloomfield Fungal Fruiting Body Morphology Ecological Function represents an important element within sustainable
@@ -121,8 +116,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
+- stinkhorn insect dispersal strategy
 - [[bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution]]
 - [[bloomfield-fungal-secondary-metabolites]]
 - [[bloomfield-nematode-trapping-adhesive-snares-explosive-ring-mechanisms]]

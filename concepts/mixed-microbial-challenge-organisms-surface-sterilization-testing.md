@@ -57,11 +57,6 @@ The NASA report presented kill curves for the mixed surface population at an exp
 
 4. **Complete sterilization**: At 13.1 W-hr total exposure, the population drops to zero CFU — complete surface sterilization.
 
-## See Also
-
-- [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]
-- [[mixed-population-kill-kinetics-microwave-surface-sterilization-nasa]]
-
 ## Overview
 
 Mixed Microbial Challenge Organisms Surface Sterilization Testing represents an important element within sustainable
@@ -139,10 +134,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]
+- [[mixed-population-kill-kinetics-microwave-surface-sterilization-nasa]]
 - [[cho-fermented-mixed-compost-methods]]
 - [[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]]
 - [[microwave-sterilization-mixed-contaminant-kill-kinetics]]
-- [[mixed-population-kill-kinetics-microwave-surface-sterilization-nasa]]
 - [[mollison-designers-mixed-orchard-design-species-selection]]

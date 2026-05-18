@@ -30,13 +30,6 @@ Psychological tension that cannot be immediately resolved in reality may
 contribute to seizure occurrence, and resolving such tension in a therapeutic
 setting could ameliorate seizure activity.
 
-## See Also
-- [[endocannabinoid-system]]
-- [[doc]]
-- [[doc]]
-- [[soma]]
-- [[anandamide]]
-
 ## Overview
 
 Blesching Cannabis Epileptic Seizure Cbd Anticonvulsant Research represents an important element within sustainable
@@ -114,8 +107,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[endocannabinoid-system]]
+- [[doc]]
+- [[soma]]
+- [[anandamide]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
 - [[blesching-cannabis-dental-and-oral-health]]

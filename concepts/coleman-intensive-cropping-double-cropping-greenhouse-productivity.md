@@ -48,11 +48,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[succession-planting]]
-- [[coleman-double-layer-protection-greenhouse-row-cover]]
-- [[coleman-cold-greenhouse-double-layer-protection]]
-
 ## Overview
 
 Coleman Intensive Cropping Double Cropping Greenhouse Productivity represents an important element within sustainable
@@ -130,10 +125,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[succession-planting]]
+- [[coleman-double-layer-protection-greenhouse-row-cover]]
+- [[coleman-cold-greenhouse-double-layer-protection]]
 - [[coleman-deep-organic-shallow-organic-farming-comparison]]
 - [[coleman-direct-marketing-and-csa-models]]
-- [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-mobile-greenhouse-system]]
 - [[coleman-tools-small-farm]]

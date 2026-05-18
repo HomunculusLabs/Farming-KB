@@ -104,13 +104,10 @@ Just by moving the same components into a beneficial design assembly — without
 ## Common Elements of a Small Farm
 
 Mollison catalogs the typical components available for design:
+
 ## See Also
 - [[functional-design-component-placement]]
-
-## See Also
-
 - [[fungal-signal-transduction-pathways-gpcr-two-component-mapk]]
 - [[gadd-two-component-signalling-histidine-kinase-fungi]]
 - [[functional-analysis-component-connection]]
-- [[functional-design-component-placement]]
 - [[ozier-pdc-sector-analysis-for-site-design]]

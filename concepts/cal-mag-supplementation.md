@@ -32,10 +32,6 @@ intake. Using a super bloom fertilizer with less nitrogen and more potassium,
 phosphorus, and calcium promotes fat, heavy, dense buds. Calcium demands increase
 significantly during flowering as bud structures develop rapidly.
 
-## See Also
-
-- [[co2-enrichment-cannabis]] -- increased nutrient demand
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 ## Practical Considerations
 
 When working with Cal Mag Supplementation, several practical factors should be
@@ -133,8 +129,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[co2-enrichment-cannabis]] -- increased nutrient demand
+- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[brown-rice-flour-supplementation-straw-substrate-mushroom]]
 - [[cannabis-co2-supplementation]]
 - [[growing-gourmet-substrate-supplementation]]

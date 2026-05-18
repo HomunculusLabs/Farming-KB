@@ -44,9 +44,6 @@ Fukuoka framed pine rot as "an early sign of desertification brought about by a 
 updated: 2026-04-18
 - [[fukuoka-natural-fruit-tree-pest-control]]
 
-## See Also
-
-- [[fukuoka-pine-bark-weevil-ecology]]
 ## Practical Considerations
 
 When working with Fukuoka Pine Rot Research, several practical factors should be
@@ -144,7 +141,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-pine-bark-weevil-ecology]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]

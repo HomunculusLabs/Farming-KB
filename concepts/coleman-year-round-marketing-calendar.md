@@ -38,8 +38,6 @@ This economic model makes [[coleman-year-round-intensive-cropping-bed-management
 - [[coleman-marketing-economics]]
 - [[small-farm-business-and-marketing]]
 
-## See Also
-
 ## Historical Context
 
 The historical development of this subject reflects centuries of accumulated
@@ -53,11 +51,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[psilocybin]]
-- [[coleman-year-round-intensive-cropping-bed-management]]
-- [[winter-harvest-scheduling-year-round]]
 
 ## Overview
 
@@ -136,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin]]
+- [[coleman-year-round-intensive-cropping-bed-management]]
+- [[winter-harvest-scheduling-year-round]]
 - [[coleman-overwintered-onions-and-early-spring-crops]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]

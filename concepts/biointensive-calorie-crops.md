@@ -13,13 +13,6 @@ Calorie farming is a core principle of [[biointensive-carbon-farming]] (60% of t
 
 A well-designed biointensive mini-farm of 2,800-4,000 sq ft can feed one person a complete vegetarian diet year-round.
 
-## See Also
-
-- [[biointensive-seed-saving]]
-
-- [[root-vegetable-storage-guide]]
-- mushroom-harvesting-storage-methods
-
 ## Related
 
 - [[doc]]
@@ -103,8 +96,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[biointensive-seed-saving]]
+- [[root-vegetable-storage-guide]]
+- mushroom-harvesting-storage-methods
 - [[biointensive-gardening-overview]]
 - [[comparison-biodynamic-vs-biointensive]]
 - [[comparison-biointensive-vs-square-foot-gardening]]

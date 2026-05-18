@@ -115,13 +115,10 @@ Soil types change predictably with position in the landscape:
 
 Erosion and leaching create predictable soil sequences down slopes—understanding the catena helps designers select appropriate plant systems and management strategies for each position in the landscape.
 
-## See Also
 
+## See Also
 - [[plant-primary-nutrients-and-mineral-sources]]
 - [[primary-nutrients-and-mineral-sources-in-soils]]
-
-## See Also
-
 - [[plant-sensing-communication]]
 - [[phytochrome-red-far-red-light-switch-plant-pigment]]
 - [[cervantes-supercropping-plant-stress-techniques]]

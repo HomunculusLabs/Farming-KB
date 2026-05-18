@@ -24,10 +24,6 @@ Growing fruit without pruning, fertilizing, or using chemical sprays
 is possible. It all begins with planting the seedling and allowing it
 to develop its natural shape.
 
-## See Also
-
-- [[fukuoka-citrus-orchard-ground-cover-cultivation]]
-- [[fukuoka-white-clover-ground-cover]]
 ## Practical Applications
 
 Citrus Orchard Establishment from Bare Hillside has a range of practical applications that make it relevant to
@@ -93,7 +89,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[fukuoka-citrus-orchard-ground-cover-cultivation]]
+- [[fukuoka-white-clover-ground-cover]]
 - [[doc]]
 - [[fukuoka-natural-farming-energy-utilization-orchard-establishment]]
 - [[fukuoka-mite-scale-microclimate-control-citrus-orchard]]

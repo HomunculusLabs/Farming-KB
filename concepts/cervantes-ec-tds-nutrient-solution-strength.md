@@ -65,11 +65,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[det]]
-- [[cervantes-nutrient-solution-reservoir-management]]
-- [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
-
 ## Overview
 
 Cervantes Ec Tds Nutrient Solution Strength represents an important element within sustainable
@@ -147,4 +142,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[det]]
+- [[cervantes-nutrient-solution-reservoir-management]]
+- [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]

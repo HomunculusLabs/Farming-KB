@@ -47,13 +47,6 @@ The mycoremediation approach for persistent organic pollutants involves:
 
 Using a plurality of species creates a synergistic effect for more complete degradation of toxins. Different species secrete unique mixes of extracellular enzymes and acids. The art of this emerging science lies in the selection of species and their timely introduction.
 
-## See Also
-
-- [[cotter-mycoremediation-overview]]
-- [[mycoremediation-petroleum-hydrocarbons]]
-- [[mycoremediation-heavy-metals]]
-- [[fungal-enzyme-systems-bioremediation]]
-
 ## Overview
 
 Mycoremediation Pesticides represents an important element within sustainable
@@ -131,8 +124,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cotter-mycoremediation-overview]]
+- [[mycoremediation-petroleum-hydrocarbons]]
+- [[mycoremediation-heavy-metals]]
+- [[fungal-enzyme-systems-bioremediation]]
 - [[cotter-mycoremediation-techniques]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[mycoremediation-bioreactor-design-considerations]]

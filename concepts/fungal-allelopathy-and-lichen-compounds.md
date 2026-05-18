@@ -120,10 +120,8 @@ The allelopathic effects mediated by fungi operate at multiple scales:
 4. **Mycorrhizal interference**: Allelopathic lichen compounds can reduce ectomycorrhizal fungal growth, indirectly affecting plant nutrient acquisition
 
 The actual effects of allelopathic chemicals in natural ecosystems, their frequency of occurrence, and their interactions with other organisms have not been clearly resolved. Key remaining questions include how important these chemicals are in regulating ecosystem processes, altering [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]], and affecting fungal community composition across all functional groups.
-## See also
 
+## See Also
 - [[fungal-adaptations-environmental-gradients]]
 - [[fungal-biology-fundamentals]]
-## See also
-
 - [[fungal-allelopathy-mechanisms-and-ecological-effects]]

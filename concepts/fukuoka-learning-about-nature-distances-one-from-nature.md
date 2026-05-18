@@ -39,10 +39,6 @@ For the practitioner, this philosophy has immediate consequences. The natural fa
 
 The parallel with [[emcdda-return-to-nature-megatrend-mushroom-appeal]] finds parallels in Zen Buddhism's emphasis on "beginner's mind" (shoshin) and in the Taoist concept of the "uncarved block" (pu). In each case, the goal is not to accumulate more knowledge but to strip away the accumulated layers of conceptual thinking that separate the individual from direct experience of reality. Fukuoka's natural farming is, at its deepest level, a spiritual practice conducted in fields and orchards rather than in meditation halls — though Fukuoka would insist that the distinction between these locations is itself a product of the conceptual mind.
 
-## See Also
-
-- fukuoka learning about nature distances one from nature
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 ## Practical Considerations
 
 When working with Fukuoka - Learning About Nature Distances One from Nature, several practical factors should be
@@ -140,8 +136,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- fukuoka learning about nature distances one from nature
+- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

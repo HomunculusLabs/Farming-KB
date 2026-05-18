@@ -44,9 +44,6 @@ Brisbane River near Toowing High School, and children in search of 'kicks'
 have been experimenting with them." Such reports simultaneously popularized
 the terminology and provided location information to would-be foragers.
 
-## See Also
-
-- [[liberty-cap-british-discovery-1970s]] -- British history of the liberty cap
 ## Practical Considerations
 
 Successful implementation of Common Names and Epithets for Magic Mushrooms in Australia and NZ requires attention to
@@ -94,7 +91,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[liberty-cap-british-discovery-1970s]] -- British history of the liberty cap
 - [[d-gold]]
 - [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]]
 - [[magic-mushroom-tipping-point-1970s-america]]

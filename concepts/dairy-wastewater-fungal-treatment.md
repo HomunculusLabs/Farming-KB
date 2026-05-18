@@ -53,11 +53,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[ethanol]]
-- [[singh-distillery-wastewater-fungal-treatment]]
-- [[singh-olive-mill-wastewater-fungal-treatment]]
-
 ## Overview
 
 Dairy Wastewater Fungal Treatment represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ethanol]]
+- [[singh-distillery-wastewater-fungal-treatment]]
+- [[singh-olive-mill-wastewater-fungal-treatment]]
 - [[home-cheesemaking-and-dairy-fermentation]]
 - [[dairy-and-cheesemaking]]
 - [[ingham-streptococcus-dairy-soil-disease]]

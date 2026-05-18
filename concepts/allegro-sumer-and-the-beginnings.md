@@ -20,15 +20,6 @@ Allegro supports his Sumerian thesis by showing that many plant names throughout
 
 Allegro's interpretation of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
-## See Also
-
-- [[allegro-fungal-iconography-in-ancient-art]]
-- controversy-sacred-mushroom-theory
-- [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
-- [[doc]]
-- [[det]]
-- [[enki]]
-
 ## Overview
 
 Allegro Sumer And The Beginnings represents an important element within sustainable
@@ -106,8 +97,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[allegro-fungal-iconography-in-ancient-art]]
+- controversy-sacred-mushroom-theory
+- [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
+- [[doc]]
+- [[det]]
+- [[enki]]
 - [[allegro-david-egypt-and-the-census]]
 - [[allegro-wasson-soma-connection]]
 - [[allegro-womans-part-in-the-creative-process]]

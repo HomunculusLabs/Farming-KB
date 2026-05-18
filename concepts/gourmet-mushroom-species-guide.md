@@ -41,13 +41,6 @@ An amber-colored mushroom with a gelatinous cap coating. Popular in Japanese cui
 - **Coprinus comatus** (Shaggy mane): Ink cap that deliquesces after maturity
 - **Morchella spp.** (Morels): Highly prized but challenging to cultivate
 
-## See Also
-
-- [[shiitake-cultivation-log-method]]
-- [[oyster-mushroom-cultivation]]
-- [[medicinal-mushroom-health-benefits]]
-- [[mushroom-cultivation-bulk-substrates]]
-
 ## Overview
 
 Gourmet Mushroom Species Guide represents an important element within sustainable
@@ -125,8 +118,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[shiitake-cultivation-log-method]]
+- [[oyster-mushroom-cultivation]]
+- [[medicinal-mushroom-health-benefits]]
+- [[mushroom-cultivation-bulk-substrates]]
 - [[growing-gourmet-black-morel-sclerotia-life-cycle]]
 - [[growing-gourmet-contamination-prevention]]
 - [[growing-gourmet-phase-ii-steam-pasteurization]]

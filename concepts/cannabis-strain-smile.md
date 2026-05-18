@@ -19,11 +19,6 @@ type: concept
 Smile is a sativa-dominant hybrid [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - ak-47-strain - The legendary AK-47 [[oner-cannabis-breeding-fundamentals]] in Spain
 
-## See Also
-
-- [[cannabis-strain-chupacabra]]
-- [[cannabis-strain-peptide]]
-- [[cannabis-strain-sherpa]]
 ## Practical Applications
 
 Smile has a range of practical applications that make it relevant to
@@ -95,7 +90,11 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[cannabis-strain-chupacabra]]
+- [[cannabis-strain-peptide]]
+- [[cannabis-strain-sherpa]]
 - [[dom]]
 - [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]

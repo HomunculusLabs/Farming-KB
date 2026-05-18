@@ -65,11 +65,6 @@ Turner's personal discovery of a "magical link" between N,N-DMT and water, based
 - Metaphysical forces may try to prevent discovery of this connection
 - "Something which exists in a metaphysical realm was trying to prevent me from gaining knowledge"
 
-## See Also
-
-- [[ketamine-psychedelic-journey-guide]] — ketamine
-- [[turner-psychedelic-combination-experience-reports]]
-
 ## Overview
 
 [[turner-dmt]] Water Spirit Connection represents an important element within sustainable
@@ -147,4 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[ketamine-psychedelic-journey-guide]] — ketamine
+- [[turner-psychedelic-combination-experience-reports]]

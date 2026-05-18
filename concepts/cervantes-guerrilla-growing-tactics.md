@@ -43,13 +43,6 @@ of sunlight.
 Wind patterns will affect your garden and influence
 where plants are located. Research average wind
 
-## See Also
-- [[urban-guerrilla-food-growing-city-agriculture]]
-- [[cervantes-rockwool-growing-substrate]]
-- [[doc]]
-- [[cervantes-net-pots-growing-slabs]]
-- [[cervantes-growing-mediums-comparison]]
-
 ## Overview
 
 Cervantes Guerrilla Growing Tactics represents an important element within sustainable
@@ -127,8 +120,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[urban-guerrilla-food-growing-city-agriculture]]
+- [[cervantes-rockwool-growing-substrate]]
+- [[doc]]
+- [[cervantes-net-pots-growing-slabs]]
+- [[cervantes-growing-mediums-comparison]]
 - [[cervantes-hemp-industrial-cannabis]]
 - [[cervantes-medical-marijuana-pharmacology]]
 - [[cervantes-nutrient-burn-over-fertilization]]

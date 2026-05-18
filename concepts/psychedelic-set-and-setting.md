@@ -19,9 +19,6 @@ The term was coined by [[mckenna-dominator-culture-and-suppression-of-ecstasy]].
 
 The set and setting principle has direct implications for [[psilocybin-ego-dissolution-mechanisms]] (in a sterile clinical setting without preparation). The drug opens the door, but set and setting determine what is found on the other side.
 
-## See Also
-
-- [[philosophical-implications-of-psychedelics]]
 ## Merged: Boundary Dissolution in Psychedelic Experience
 
 # Boundary Dissolution in Psychedelic Experience
@@ -105,8 +102,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[philosophical-implications-of-psychedelics]]
 - [[ethnobotany-of-psychedelic-fungi]]
 - [[mckenna-psychedelic-terror-and-existential-authenticity]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]

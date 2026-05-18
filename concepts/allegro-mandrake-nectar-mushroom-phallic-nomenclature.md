@@ -63,11 +63,6 @@ persecution of [[african-mushroom-cult-history]] practice, its
 names, its rituals, and its pharmacological secrets, preserved behind the
 inaccessible veil of mythological language.
 
-## See Also
-
-- [[allegro-new-testament-names-as-mushroom-cryptograms]]
-- [[allegro-cross-crucifixion-harmony-yoke-mushroom-symbolism]]
-
 ## Overview
 
 Allegro Mandrake Nectar Mushroom Phallic Nomenclature represents an important element within sustainable
@@ -145,6 +140,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[allegro-new-testament-names-as-mushroom-cryptograms]]
+- [[allegro-cross-crucifixion-harmony-yoke-mushroom-symbolism]]
 - [[allegro-main-thesis]]

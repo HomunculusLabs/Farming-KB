@@ -36,11 +36,6 @@ Scientists suspect that at least three additional cannabinoid receptors exist be
 
 The full characterization of these additional receptors represents an active area of research that may expand our understanding of the ECS significantly.
 
-## See Also
-
-- [[anandamide-bliss-molecule]]
-- [[thc-tetrahydrocannabinol]]
-
 ## References
 
 - Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books, Berkeley.
@@ -122,8 +117,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[anandamide-bliss-molecule]]
+- [[thc-tetrahydrocannabinol]]
 - [[cannabinoid-consciousness-hemisphere-integration-blesching]]
 - [[cannabinoid-isomerization-and-thc-acetate]]
 - [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]]

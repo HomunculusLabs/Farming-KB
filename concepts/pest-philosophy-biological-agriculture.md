@@ -49,12 +49,6 @@ Consider a lawn growing mostly crabgrass, sorrel, and dandelions rather than fin
 ## The Long-Range Philosophy
 
 Palliatives are the easy way but they do not solve the problem. Momentary reliance on them is understandable, but they should never form the basis of agricultural practice. Removing symptoms produces only cosmetic improvement. Working to establish optimum soil conditions through understanding and observation is the most constructive approach for a dependable long-range philosophy of agriculture. The goal is not to fight Nature but to understand and cooperate with it, creating conditions where plants are vigorous enough to resist pest and disease pressure through their own biological fitness.
-## See also
-
-- [[deep-organic-farming]]
-- [[pyrethrum]]
-- [[rotenone]]
-
 ## Practical Applications
 
 Pest Philosophy in Biological Agriculture has several important applications in sustainable agriculture
@@ -87,8 +81,11 @@ and physical factors. Current investigations focus on optimizing
 practical applications while maintaining ecological balance.
 Peer-reviewed findings contribute to evolving best practices.
 
-## See Also
 
+## See Also
+- [[deep-organic-farming]]
+- [[pyrethrum]]
+- [[rotenone]]
 - [[entomopathogenic-nematodes-biological-pest-control]]
 - [[natural-farming-guide-biological-pest-control-predators]]
 - [[predatory-mites-biological-pest-control]]

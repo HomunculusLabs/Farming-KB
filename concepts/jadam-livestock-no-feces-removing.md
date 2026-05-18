@@ -50,14 +50,6 @@ When applying these concepts, consider regional variations, available resources,
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
-
-- [[jadam-livestock-integration-and-manure-management]]
-- [[jadam-fly-control-livestock]]
-- [[dom]]
-- [[composting]]
-- [[permaculture]]
-
 ## Overview
 
 Jadam Livestock No Feces Removing represents an important element within sustainable
@@ -135,8 +127,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[jadam-livestock-integration-and-manure-management]]
+- [[jadam-fly-control-livestock]]
+- [[dom]]
+- [[composting]]
+- [[permaculture]]
 - [[jadam-anaerobic-fermentation-principles]]
 - [[jadam-element-function-reference]]
 - [[jadam-herbal-smoker-livestock]]

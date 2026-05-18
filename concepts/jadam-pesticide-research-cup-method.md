@@ -27,11 +27,6 @@ determine effective [[knf-imo-four-soil-foundation-and-field-application]].
 
 JADAM founder [[jadam-concentration-guidelines]]
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
-creative adaptation to local conditions and emerging challenges.
-
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
@@ -77,7 +72,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+creative adaptation to local conditions and emerging challenges.
 - [[det]]
 - [[jadam-natural-pesticide-institute-and-research]]
 - [[jadam-foam-gun-pesticide-method]]

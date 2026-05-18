@@ -66,11 +66,6 @@ The complete PF TEK can be summarized in six fundamental steps:
 
 The PF TEK democratized mushroom cultivation by eliminating the need for specialized equipment like pressure canners, laminar flow hoods, and laboratory-grade supplies. Its use of commonly available materials — small canning jars, brown rice, vermiculite, and a standard aquarium — made cultivation accessible to virtually anyone. The technique's emphasis on simplicity, reliability, and the dry vermiculite contaminant barrier (a PF original discovery) represented genuine innovations in amateur mycology that remain influential to this day.
 
-## See Also
-- [[mollison-introduction-to-soils-in-permaculture]]
-- [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
-- [[permaculture-introduction-and-definition]]
-
 ## Practical Applications
 
 PF TEK Introduction and History has several important applications in sustainable agriculture
@@ -87,8 +82,11 @@ and experiments laid groundwork that modern practitioners continue
 to build upon, connecting traditional knowledge with contemporary
 research and sustainable management approaches.
 
-## See Also
 
+## See Also
+- [[mollison-introduction-to-soils-in-permaculture]]
+- [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
+- [[permaculture-introduction-and-definition]]
 - [[introduction-to-permaculture-origins]]
 - [[humid-tropics-introduction-and-climatic-types]]
 - [[introduction-to-aquaculture-in-permaculture]]

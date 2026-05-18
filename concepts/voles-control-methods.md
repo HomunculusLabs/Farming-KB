@@ -54,12 +54,6 @@ When voles exceed tolerable levels, trapping is recommended over poisoning:
 
 Holzer stresses that complete eradication is neither possible nor desirable. The goal is maintaining balance so that vole damage remains within acceptable limits. A farm or garden with healthy predator populations and diverse plantings will naturally regulate vole numbers. Over-reliance on any single control method leads to imbalance elsewhere in the system.
 
-## See Also
-
-- [[slugs-and-snails-organic-control]] -- Other common garden pest control methods
-- [[integrated-pest-management]] -- Broader IPM strategies
-- [[animal-manure-guide]] -- Soil health as pest prevention
-
 ## Overview
 
 Voles Control Methods represents an important element within sustainable
@@ -137,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[slugs-and-snails-organic-control]] -- Other common garden pest control methods
+- [[integrated-pest-management]] -- Broader IPM strategies
+- [[animal-manure-guide]] -- Soil health as pest prevention
 - [[cervantes-spider-mites-identification-control]]
 - [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - [[entomopathogenic-nematodes-biological-pest-control]]

@@ -63,13 +63,6 @@ shown that the use of indica and indica-dominant strains with their particular
 mix of cannabinoid ratios, namely a relatively lower THC:CBD combination,
 encourages sedation, relaxation, and grounding effects.
 
-## See Also
-- [[cannabis-and-insomnia]]
-- [[dom]]
-- [[cannabis-for-sleep-disorders]]
-- [[dom]]
-- [[lsd]]
-
 ## Overview
 
 Blesching Cannabis Sleep Disorders represents an important element within sustainable
@@ -147,4 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[cannabis-and-insomnia]]
+- [[dom]]
+- [[cannabis-for-sleep-disorders]]
+- [[lsd]]

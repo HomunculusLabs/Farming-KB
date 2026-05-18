@@ -74,17 +74,6 @@ These principles can be applied in permaculture design, sustainable agriculture,
 
 When applying these concepts, several factors warrant attention: environmental conditions, regional climate variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
 
-## See Also
-
-- [[soil-edaphic-factors-microbial-communities]]
-- [[edaphic-determinants-cannabis-microbiome-community-structure]]
-
-## See Also
-
-- [[endorhiza-rhizosphere-bulk-soil-microbial-communities]]
-- cannabis cultivar specificity microbiome
-- soil ph nitrogen microbial activity
-
 ## References
 
 - Winston ME et al. (2014) Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome. PLoS ONE 9(6): e99641.
@@ -94,3 +83,11 @@ When applying these concepts, several factors warrant attention: environmental c
 ## Concluding Remarks
 
 The overwhelming influence of edaphic factors on soil microbial communities means that effective microbiome management in Cannabis cultivation begins with soil management. Rather than focusing exclusively on microbial inoculants or cultivar selection, growers should first ensure that their soil or growing medium provides the chemical and physical conditions that support a diverse, healthy native microbial community. Nitrogen availability, organic carbon content, appropriate salinity, adequate but not excessive water content, and slightly acidic pH together create the foundation upon which beneficial plant-microbe partnerships can develop. Subsequent interventions—such as cultivar selection, targeted inoculation, or rhizosphere management—operate within the constraints and opportunities established by these fundamental soil properties.
+
+
+## See Also
+- [[soil-edaphic-factors-microbial-communities]]
+- [[edaphic-determinants-cannabis-microbiome-community-structure]]
+- [[endorhiza-rhizosphere-bulk-soil-microbial-communities]]
+- cannabis cultivar specificity microbiome
+- soil ph nitrogen microbial activity

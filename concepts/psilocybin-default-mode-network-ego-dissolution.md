@@ -48,11 +48,6 @@ The DMN-disrupting effects of psilocybin have significant philosophical implicat
 
 This finding supports Powell's broader thesis that consciousness is "mediated by chemistry" and that "mutable or transformable chemical processes underlie consciousness." The DMN, as the neurobiological substrate of the self, is the concrete realisation of this principle: it is a chemically maintained pattern of neuronal information that constitutes our experience of being a self, and it can be chemically altered.
 
-## See Also
-
-- [[consciousness-and-psychedelics]]
-- [[information-paradigm-of-consciousness]]
-
 ## Overview
 
 Psilocybin Default Mode Network Ego Dissolution represents an important element within sustainable
@@ -130,8 +125,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[consciousness-and-psychedelics]]
+- [[information-paradigm-of-consciousness]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

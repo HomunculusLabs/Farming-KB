@@ -52,10 +52,6 @@ The flowers are now coated with intensified oil and can be over 12× their origi
 
 See also [[cannabis-hash-making-from-extracted-oil]].
 
-## See Also
-
-- [[cannabis-microbial-terpene-enhancement]], [[cannabis-flowering-stage-management]], [[fukuoka-direct-observation-method]].
-
 ## Safety Considerations
 
 All cannabis processing should be conducted with attention to safety protocols.
@@ -90,7 +86,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cannabis-microbial-terpene-enhancement]], [[cannabis-flowering-stage-management]], [[fukuoka-direct-observation-method]].
 - [[thc-acetate]]
 - [[petroleum-ether]]
 - [[hashish]]

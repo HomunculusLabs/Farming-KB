@@ -48,11 +48,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[doc]]
-- [[det]]
-- [[spore]]
-
 ## Overview
 
 Biodiversity Of Fungi Freshwater Survey Collection Methods represents an important element within sustainable
@@ -130,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[det]]
+- [[spore]]
 - [[biodiversity-fungi-temperate-boreal-forests]]
 - [[biodiversity-microfungi-litter-wood-debris]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]

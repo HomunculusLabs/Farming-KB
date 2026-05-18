@@ -20,13 +20,6 @@ ground.
 In the Akkadian kukru incantation, the mushroom "little-ones" are said to have
 been engendered by "a [[allegro-mushroom-cosmography]].
 
-## See Also
-
-- [[canaanite-religion-and-mushroom-symbolism]] -- Canaanite evidence
-- [[amanita]]
-- [[allegro-old-testament-figures-as-fertility-deities]]
-- [[allegro-names-of-the-gods-and-their-fertility-origins]]
-
 ## Overview
 
 Allegro Fertility Cults represents an important element within sustainable
@@ -104,8 +97,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[canaanite-religion-and-mushroom-symbolism]] -- Canaanite evidence
+- [[amanita]]
+- [[allegro-old-testament-figures-as-fertility-deities]]
+- [[allegro-names-of-the-gods-and-their-fertility-origins]]
 - [[allegro-david-egypt-and-the-census]]
 - [[allegro-wasson-soma-connection]]
 - [[allegro-womans-part-in-the-creative-process]]

@@ -26,10 +26,6 @@ Ventilation is a critical design consideration for greenhouses used in year-roun
 
 The ventilation designs at Four Season Farm all depend on the wiggle-wire (wire-lock) plastic attachment system. This system's ability to quickly secure and release plastic sheeting makes it possible to open and close large ventilation areas as conditions change. Without this attachment method, the adaptive ventilation management that characterizes the [[savory-growing-season-and-non-growing-season-management]].
 
-## See Also
-
-- [[coleman-moveable-greenhouse-system]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -57,11 +53,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[gravitropism]]
-- [[coleman-greenhouse-end-wall-ventilation-design-mobile-houses]]
-- [[coleman-mobile-greenhouse-design-and-operation]]
 
 ## Overview
 
@@ -140,8 +131,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[coleman-moveable-greenhouse-system]]
+- [[gravitropism]]
+- [[coleman-greenhouse-end-wall-ventilation-design-mobile-houses]]
+- [[coleman-mobile-greenhouse-design-and-operation]]
 - [[coleman-overwintered-onions-and-early-spring-crops]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]

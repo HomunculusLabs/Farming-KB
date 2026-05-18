@@ -54,11 +54,6 @@ Orchard Plant Guilds And Integrated Pest Management has been recognized for its 
 Traditional knowledge systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
-## See Also
-- [[cool-climate-glasshouse-orchard-design]]
-- [[fukuoka-natural-orchard-three-dimensional-design]]
-- [[mollison-designers-climate-zone-2-orchard-food-forest]]
-
 ## Overview
 
 Orchard Plant Guilds And Integrated Pest Management represents an important element within sustainable
@@ -136,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cool-climate-glasshouse-orchard-design]]
+- [[fukuoka-natural-orchard-three-dimensional-design]]
+- [[mollison-designers-climate-zone-2-orchard-food-forest]]
 - [[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]]
 - [[fukuoka-orchard-herbs-cover-crop-classification]]
 - [[fukuoka-straw-mandala-orchard-design]]

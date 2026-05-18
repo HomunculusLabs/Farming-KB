@@ -55,11 +55,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]
-- [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
-- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
-
 ## Overview
 
 Fukuoka Textdoc Creating Rice Paddy Natural Methods represents an important element within sustainable
@@ -137,8 +132,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]
+- [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
+- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

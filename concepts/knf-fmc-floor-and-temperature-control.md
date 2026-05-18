@@ -49,13 +49,6 @@ ordinary compost.
 - Apply to field 2-3 hours before sunset to avoid UV damage to
   microorganisms
 
-## See Also
-
-- [[bahay-kubo-imo-collection-and-preparation]] and preparation
-- [[det]]
-- [[hamilton-greenhouse-heating-and-temperature-control]]
-- [[savory-biological-pest-control-and-succession]]
-
 ## Overview
 
 Knf Fmc Floor And Temperature Control represents an important element within sustainable
@@ -133,8 +126,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bahay-kubo-imo-collection-and-preparation]] and preparation
+- [[det]]
+- [[hamilton-greenhouse-heating-and-temperature-control]]
+- [[savory-biological-pest-control-and-succession]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]
 - [[fukuoka-orchard-floor-management]]
 - [[fungal-ecology-forest-floor]]

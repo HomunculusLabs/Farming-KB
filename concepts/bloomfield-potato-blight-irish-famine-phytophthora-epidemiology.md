@@ -38,10 +38,6 @@ ascomycete fungi and wood-boring beetles take hold and the oaks disintegrate. Th
 loss of mature oak trees has cascading effects on forest ecosystems, affecting
 [[mycofiltration-watershed-protection]], and biodiversity along the California coast.
 
-## See Also
-- [[bloomfield-sudden-oak-death-phytophthora-species-diversity]]
-- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
-
 ## Sources
 - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists
   (Nicholas P. Money, 2002) — Chapter 9: The Blight
@@ -124,8 +120,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bloomfield-sudden-oak-death-phytophthora-species-diversity]]
+- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
 - [[bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution]]
 - [[bloomfield-fungal-secondary-metabolites]]
 - [[bloomfield-nematode-trapping-adhesive-snares-explosive-ring-mechanisms]]

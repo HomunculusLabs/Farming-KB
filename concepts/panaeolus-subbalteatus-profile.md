@@ -40,11 +40,6 @@ Panaeolus subbalteatus is a medium-sized mushroom with several
 [[psilocybin-north-america-pacific-northwest]], it
 occurs across much of the [[psilocybin-mushroom-species-overview]].
 
-## See Also
-
-- [[panaeolus-subbalteatus]]
-- [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]
-
 ## Overview
 
 Panaeolus Subbalteatus Profile represents an important element within sustainable
@@ -122,8 +117,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[panaeolus-subbalteatus]]
+- [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]
 - [[panaeolus-antillarum-misidentification-copelandia-confusion]]
 - [[panaeolus-cyanescens-entity]]
 - [[panaeolus-panaeolina-neurotropic-species]]

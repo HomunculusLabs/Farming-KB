@@ -91,12 +91,10 @@ features including cap shape, gill structure, spore print color,
 and habitat. Microscopic examination of spores provides definitive
 identification for many closely related species.
 
-## See Also
 
+## See Also
 - [[psilocybin-mushroom-field-identification]]
 - [[psilocybin-mushroom-cultivation-basics]]
-
-## See Also
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[psilocybin-mushroom-history-ethnobotany]]
 - [[psilocybin-mushroom-chemistry]]

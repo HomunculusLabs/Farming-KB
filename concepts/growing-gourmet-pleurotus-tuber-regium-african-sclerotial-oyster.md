@@ -54,16 +54,6 @@ countries where [[fukuoka-african-agriculture-observations]].
 The sclerotia of P. tuber-regium contain [[growing-gourmet-black-morel-sclerotia-life-cycle]], which also use underground
 structures to bridge unfavorable environmental periods.
 
-## See Also
-
-- [[pleurotus-euosmus]]
-
-- [[growing-gourmet-black-morel-sclerotia-life-cycle]]
-- growing-gourmet-mushroom-life-cycle
-- [[oyster-mushroom]]
-- [[oyster-mushrooms]]
-- [[pleurotus-tuber-regium]]
-
 ## Overview
 
 Growing Gourmet Pleurotus Tuber Regium African Sclerotial Oyster represents an important element within sustainable
@@ -141,8 +131,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pleurotus-euosmus]]
+- [[growing-gourmet-black-morel-sclerotia-life-cycle]]
+- growing-gourmet-mushroom-life-cycle
+- [[oyster-mushroom]]
+- [[oyster-mushrooms]]
+- [[pleurotus-tuber-regium]]
 - [[comparison-tomato-vs-pepper-growing]]
 - [[growing-gourmet-mushroom-harvesting-marketing-guide]]
 - [[growing-gourmet-plug-spawn-production]]

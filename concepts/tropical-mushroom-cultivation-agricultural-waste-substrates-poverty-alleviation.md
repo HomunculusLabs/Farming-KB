@@ -44,15 +44,6 @@ Sawdust from hardwood trees and coconut lumber provides a lignin-rich
 substrate that supports prolonged fruiting. Sugarcane bagasse—the fibrous
 residue remaining after juice extraction—is abundantly available in tropical
 
-## See Also
-
-- [[tropical-gardening]]
-- [[tropical-house-design-cooling-strategies]]
-- [[tropical-mulch-systems-and-humus-creation]]
-- [[tropical-soil-life-and-humus-sources]]
-- [[tropical-soils-and-fertility]]
-- [[tropical-soils-nutrient-management]]
-
 ## Overview
 
 Tropical Mushroom Cultivation Agricultural Waste Substrates Poverty Alleviation represents an important element within sustainable
@@ -130,8 +121,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tropical-gardening]]
+- [[tropical-house-design-cooling-strategies]]
+- [[tropical-mulch-systems-and-humus-creation]]
+- [[tropical-soil-life-and-humus-sources]]
+- [[tropical-soils-and-fertility]]
+- [[tropical-soils-nutrient-management]]
 - [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
 - [[mollison-tropical-mulch-systems-and-materials]]
 - [[tropical-earth-shaping-techniques]]

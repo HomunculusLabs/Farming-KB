@@ -16,13 +16,6 @@ Many countries face massive die-off of bee populations. In the [[comparison-esse
   hive, at least 3-4m wide and deep
 - Install a sloping piece of wood above the entrance that forces bees to
 
-## See Also
-
-- [[natural-diet-philosophy]]
-- [[natural-livestock-farming]]
-- [[natural-orchard-management]]
-- [[natural-pool-design-and-water-conservation]]
-
 ## Overview
 
 Natural Beekeeping Practices represents an important element within sustainable
@@ -100,8 +93,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[natural-diet-philosophy]]
+- [[natural-livestock-farming]]
+- [[natural-orchard-management]]
+- [[natural-pool-design-and-water-conservation]]
 - [[cho-natural-farming-philosophy-of-non-interference]]
 - [[jadam-weed-control-strategies-natural]]
 - [[mycorrhizal-agricultural-practices]]

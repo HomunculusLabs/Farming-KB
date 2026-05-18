@@ -24,10 +24,6 @@ The choice of growing situation ultimately depends on:
 4. **Access and logistics**: Convenient delivery of compost and removal of spent beds
 5. **Economic factors**: Construction costs, operating expenses, and proximity to markets
 
-## See Also
-
-- [[mushroom-house-construction-design]]
-
 ## Overview
 
 Mushroom Growing Situations And Caves represents an important element within sustainable
@@ -105,8 +101,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-house-construction-design]]
 - [[evaporative-demand-four-factors-mushroom-tropism]]
 - [[falconer-mushroom-cellar-management]]
 - [[mushroom-biology-nutrition-health-properties]]

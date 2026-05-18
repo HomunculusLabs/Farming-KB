@@ -43,13 +43,6 @@ Understanding bioavailability is essential for designing effective fungal-biorea
 - Soil amendments like straw can sorb pollutants and decrease their toxicity while providing a growth substrate for fungi
 
 - The rate of bioremediation depends on bioavailability; it is much slower when there are problems in mass transfer of pollutant molecules to microorganisms
-## See Also
-
-- fungal-methylation-oxidative-coupling
-
-- fungal-bioremediation
-
-- [[factors-affecting-mycoremediation-efficiency]]
 ## Practical Considerations
 
 Successful implementation of Bioavailability in Fungal Bioremediation requires attention to
@@ -97,7 +90,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- fungal-methylation-oxidative-coupling
+- fungal-bioremediation
+- [[factors-affecting-mycoremediation-efficiency]]
 - [[pcp]]
 - [[det]]
 - [[composting]]

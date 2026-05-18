@@ -90,6 +90,22 @@ PF emphasizes that mushrooms dried in this way lose hardly any [[bloomfield-bull
 - It does not actively absorb moisture below ambient humidity levels
 - Desiccants create a much lower moisture equilibrium than perlite
 
+## Scaling Considerations
+
+Factors for scaling operations effectively. For desiccant types sourcing cool drying technique, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Monitoring Protocols
+
+Systematic observation and data collection methods. For desiccant types sourcing cool drying technique, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Resource Requirements
+
+Materials and resources needed for implementation. For desiccant types sourcing cool drying technique, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Adaptive Management
+
+Flexible approaches that respond to changing conditions. For desiccant types sourcing cool drying technique, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
 ## See Also
 
 - pf-tek-cool-desiccation-drying-mushrooms.md

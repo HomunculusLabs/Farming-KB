@@ -61,10 +61,6 @@ varieties. The importance of coffee growing to economies in South and Central
 America, Africa, and Asia places considerable urgency upon effective control
 measures.
 
-## See Also
-- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
-- [[bloomfield-potato-blight-irish-famine-phytophthora-epidemiology]]
-
 ## Sources
 - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists
   (Nicholas P. Money, 2002) — Chapter 9: The Blight
@@ -146,4 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
+- [[bloomfield-potato-blight-irish-famine-phytophthora-epidemiology]]

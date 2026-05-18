@@ -25,11 +25,6 @@ begin performing their ecological functions:
 The single most important step in producing effective compost tea is starting
 with compost that meets these organism-level standards.
 
-## See Also
-
-- [[aact-compost-organism-levels]]
-- [[aact-tea-types-and-definitions-ingham]]
-
 ## Overview
 
 Ingham Compost Quality Standards Organism Assessment represents an important element within sustainable
@@ -107,8 +102,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[aact-compost-organism-levels]]
+- [[aact-tea-types-and-definitions-ingham]]
 - [[glomalin-mycorrhizal-soil-aggregate-stabilizer-ingham]]
 - [[ingham-field-guide-compost-tea-ingredients-and-recipes]]
 - [[ingham-fungal-inoculum-sourcing]]

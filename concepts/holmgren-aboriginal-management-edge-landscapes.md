@@ -42,12 +42,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-
-- [[holmgren-design-thinking-guidelines-problem-is-solution]]
-- [[holmgren-ecological-succession-design]]
-- [[holmgren-third-wave-environmentalism-model]]
-
 ## Overview
 
 Holmgren Aboriginal Management Edge Landscapes represents an important element within sustainable
@@ -125,8 +119,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[holmgren-design-thinking-guidelines-problem-is-solution]]
+- [[holmgren-ecological-succession-design]]
+- [[holmgren-third-wave-environmentalism-model]]
 - [[holmgren-community-design-and-intentional-communities]]
 - [[holmgren-genetic-engineering-and-evolution]]
 - [[holmgren-mineral-balance-soil-fertility]]

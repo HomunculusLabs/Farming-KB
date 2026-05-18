@@ -18,11 +18,6 @@ Dryland and desert environments are defined not merely by their scarcity of wate
 6. **Moderate extremes** — shade, mulch, and thermal mass to reduce soil temperatures and evaporative demand
 7. **Respect ancient water** — treat groundwater as finite; invest in surface harvesting and soil storage
 8. **Learn from traditional peoples** — Aboriginal Australians and other desert cultures hold millennia of refined design intelligence
-## See Also
-
-- [[dryland-soils-and-mineral-nutrition]]
-- [[dryland-building-and-settlement]]
-
 ## Overview
 
 Dryland Precipitation And Opportunistic Ecology represents an important element within sustainable
@@ -100,14 +95,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
-
-- [[dryland-building-and-settlement]]
-- [[dryland-building-settlements]]
-- [[dryland-garden-irrigation-systems]]
-- [[dryland-settlements-and-interceptor-banks]]
-- [[dryland-strategies-and-desert-ecology]]
-
 ## Practical Considerations
 
 Understanding the practical applications of this
@@ -123,3 +110,12 @@ principles while exploring new methodological approaches.
 Empirical findings continue to refine our understanding
 and suggest promising directions for future investigation
 across multiple disciplines and application domains.
+
+
+## See Also
+- [[dryland-soils-and-mineral-nutrition]]
+- [[dryland-building-and-settlement]]
+- [[dryland-building-settlements]]
+- [[dryland-garden-irrigation-systems]]
+- [[dryland-settlements-and-interceptor-banks]]
+- [[dryland-strategies-and-desert-ecology]]

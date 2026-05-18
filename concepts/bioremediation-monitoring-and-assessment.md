@@ -43,15 +43,6 @@ The final phase of bioremediation monitoring involves confirming that cleanup ob
 
 Post-closure monitoring may be required at some sites to verify that contaminant concentrations remain below cleanup levels and that rebound does not occur. Rebound, the increase in contaminant concentrations after treatment stops, can result from the slow release of contaminants from previously inaccessible locations. The monitoring duration and frequency for post-closure assessment depend on site-specific risk factors and regulatory requirements.
 
-## See Also
-
-[[biostimulation-techniques]]
-
-[[fungal-cometabolism]]
-- [[doc]]
-- [[det]]
-- [[monitoring-and-assessment-of-fungal-bioremediation]]
-
 ## Overview
 
 Bioremediation Monitoring And Assessment represents an important element within sustainable
@@ -129,8 +120,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[biostimulation-techniques]]
+[[fungal-cometabolism]]
+- [[doc]]
+- [[det]]
+- [[monitoring-and-assessment-of-fungal-bioremediation]]
 - [[comparison-white-rot-vs-brown-rot-bioremediation]]
 - [[fungal-oil-petroleum-bioremediation]]
 - [[heavy-metal-bioremediation]]

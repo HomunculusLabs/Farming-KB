@@ -61,11 +61,6 @@ Dryland Designers Checklist has been recognized for its contributions to various
 Traditional knowledge systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
-## See Also
-- [[dryland-permaculture-strategies]]
-- [[dryland-salting-management]]
-- [[dryland-vegetable-gardening]]
-
 ## Overview
 
 Dryland Designers Checklist represents an important element within sustainable
@@ -143,8 +138,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dryland-permaculture-strategies]]
+- [[dryland-salting-management]]
+- [[dryland-vegetable-gardening]]
 - [[dryland-buildings-and-settlements]]
 - [[dryland-garden-irrigation-systems]]
 - [[dryland-strategies-desertification]]

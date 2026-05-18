@@ -53,14 +53,6 @@ stocking of oxygen-depleted waters, is well-documented in
 rice-fish systems. In these systems, the rice crop itself
 provides nutrients through leaf fall and [[query-how-to-control-pests-without-chemicals]].
 
-## See Also
-
-- [[mollison-designers-glasshouse-protected-cropping]]
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
-- [[terminalia-mollison]]
-- [[mollison-designers-bamboo-treatment-preservation]]
-- [[mallee-fowl-leipoa-ocellata-mollison]]
-
 ## Overview
 
 Mollison Designers Fish Pond Fertiliser And Nutrient Cycling represents an important element within sustainable
@@ -138,8 +130,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-glasshouse-protected-cropping]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[terminalia-mollison]]
+- [[mollison-designers-bamboo-treatment-preservation]]
+- [[mallee-fowl-leipoa-ocellata-mollison]]
 - [[aquaponics-fish-species]]
 - [[bardi-grub-hepialidae-mollison]]
 - [[cannabis-molybdenum-nutrient]]

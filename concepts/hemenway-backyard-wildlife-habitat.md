@@ -15,16 +15,6 @@ gardener fashions by planting a broad assortment of species, and the
 diversity of life that spreads into this welcoming habitat from nearby wild
 places. Every blossom-decked corner is a reservoir for helpful wildlife.
 
-## See Also
-
-- [[hemenway-oak-tree-ecological-model]] for the gold standard of wildlife
-  habitat trees
-
-See also: [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -130,8 +120,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hemenway-oak-tree-ecological-model]] for the gold standard of wildlife
+  habitat trees
+See also: [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[hemenway-accelerated-succession]]
 - [[hemenway-cold-air-drainage-and-frost-management]]
 - [[hemenway-garden-design-process-observation-and-visioning]]

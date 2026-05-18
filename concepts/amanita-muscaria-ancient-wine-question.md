@@ -26,14 +26,6 @@ If the theory is correct, it would mean:
 2. All ancient wine cultures may have originated from Amanita [[magic-mushroom-preparation-and-consumption-methods]]
 4. The universal ancient practice of wine dilution preserves a fossil of the original mushroom-based beverage
 
-## See Also
-
-- [[amanita-muscaria-drying-and-preparation]] -- Pre-processing
-- [[amanita-muscaria-sacramental-wine-preparation]]
-- [[amanita-muscaria]]
-- [[soma]]
-- [[amanita-muscaria-ancient-christian-agape-communion-eucharist]]
-
 ## Overview
 
 Amanita Muscaria Ancient Wine Question represents an important element within sustainable
@@ -111,8 +103,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[amanita-muscaria-drying-and-preparation]] -- Pre-processing
+- [[amanita-muscaria-sacramental-wine-preparation]]
+- [[amanita-muscaria]]
+- [[soma]]
+- [[amanita-muscaria-ancient-christian-agape-communion-eucharist]]
 - [[amanita-cesarea]]
 - [[amanita-muscaria-grail-terra-cotta-vessel-preparation]]
 - [[amanita-muscaria-living-bread-sacrament]]

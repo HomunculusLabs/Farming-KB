@@ -30,9 +30,6 @@ Solid lubricants such as graphite, molybdenum disulfide, PTFE, and some layered 
 
 Additives in oils can form anti-wear, extreme-pressure, detergent, dispersant, antioxidant, or friction-modifying films.
 
-## See Also
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-
 ## Overview
 
 Tribology Friction Wear Lubrication represents an important element within sustainable
@@ -110,5 +107,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
 - [[oyster-mushroom-bottle-cultivation-system-sawdust-sterilization-automation]]

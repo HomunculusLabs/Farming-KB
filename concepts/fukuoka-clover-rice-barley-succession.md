@@ -53,10 +53,6 @@ Fukuoka's clover-based system embodies several key ecological principles that ha
 
 The relationship between the clover, the grain crops, and the soil microbiome is fundamentally mutualistic. The clover provides nitrogen; the grain crops provide carbon through [[biological-nitrogen-fixation-agriculture]] fixation, straw return, minimal disturbance — are universally applicable and have been successfully adapted to many different climates and cropping systems [[fukuoka-no-till-rice-barley-clover-succession]]
 
-## See Also
-
-- fukuoka-rice-barley-clover-succession-method-details
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -85,7 +81,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- fukuoka-rice-barley-clover-succession-method-details
 - [[fukuoka-no-till-rice-barley-clover-succession]]
 - [[det]]
 - [[decomposition]]

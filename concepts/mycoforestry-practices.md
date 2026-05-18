@@ -35,8 +35,6 @@ The added expense does not thrill most investment loggers, who wish to maximize 
 
 The current practice of burning or hauling wood debris robs biomass from the carbon cycle. Decomposition by fungi buffers carbon dioxide emission and cycles much of the gas back into the flourishing ecosystem, since carbon dioxide is heavier than air and permeates soils where plant cells absorb it as raw material for creating cellulose, lignin, carbohydrates, proteins, and sterols.
 
-## See Also
-
 ## Overview
 
 Mycoforestry Practices represents an important element within sustainable
@@ -114,8 +112,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[cortes-island-mycoforestry-project]]
 - [[mycoforestry]]
 - [[mycoforestry-applications]]

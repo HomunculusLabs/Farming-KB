@@ -52,9 +52,6 @@ That is why serine protease inhibitors, beta-lactamase inhibitors, and some cova
 
 Catalytic triads are major drug targets because they appear in proteases, lipases, esterases, beta-lactamases, and viral processing enzymes.
 
-## See Also
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
-
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
@@ -139,8 +136,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
 - [[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]
 - [[mckenna-catalytic-psychedelics-and-culture]]
 - [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]]

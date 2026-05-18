@@ -38,12 +38,6 @@ cold and relatively warm conditions, making it productive across a
 wide range of winter temperatures. See [[coleman-french-intensive-bed-method]]
 philosophy of ongoing soil and variety improvement.
 
-## See Also
-
-- [[eliot-coleman]]
-- [[diplotaxis-tenuifolia]]
-- [[coleman-cold-hardy-winter-vegetables-selection]]
-
 ## Overview
 
 Coleman Winter Greens Variety Selection represents an important element within sustainable
@@ -121,8 +115,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[eliot-coleman]]
+- [[diplotaxis-tenuifolia]]
+- [[coleman-cold-hardy-winter-vegetables-selection]]
 - [[coleman-deep-organic-shallow-organic-farming-comparison]]
 - [[coleman-direct-marketing-and-csa-models]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]

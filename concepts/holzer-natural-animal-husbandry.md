@@ -63,11 +63,6 @@ Important: feeding toxic plants in a bucket makes animals sick. The animal
 must self-select. Biodiversity in the landscape is essential for natural
 self-medication.
 
-## See Also
-- [[holzer-bee-collapse-natural-beekeeping]]
-- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
-- [[doc]]
-
 ## Overview
 
 Holzer Natural Animal Husbandry represents an important element within sustainable
@@ -145,6 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[holzer-bee-collapse-natural-beekeeping]]
+- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
+- [[doc]]
 - [[holzer-alpine-plant-cultivation]]

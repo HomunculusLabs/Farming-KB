@@ -58,11 +58,6 @@ On the Krameterhof, natural streams are left to find their own course. Where str
 - Every water body should serve multiple functions simultaneously
 - Study natural water systems before building -- they have perfected the design over millennia
 
-## See Also
-
-- [[climate-and-microclimate-management]]
-- [[holzer-pond-construction-and-aquaculture]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -91,7 +86,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[climate-and-microclimate-management]]
+- [[holzer-pond-construction-and-aquaculture]]
 - [[permaculture]]
 - [[holzer-tamera-water-landscape-project]]
 - [[holzer-extremadura-water-paradise-project]]

@@ -48,12 +48,6 @@ fungi and banished a diverse selection to a species he named Chaos
 fungorum. The Dictionary of Fungi defines more than 120 terms for
 describing spore shape and developmental origin, including
 "dictyochlamydospore" and "botryo-aleuriospore," testament to the
-## See Also
-
-- [[bloomfield-fungal-pleomorphy-tulasne-brothers-anamorph-teleomorph]]
-- [[permaculture]]
-- [[mycology]]
-
 ## Overview
 
 Bloomfield Fungal Pleomorphy Anamorph Teleomorph represents an important element within sustainable
@@ -131,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bloomfield-fungal-pleomorphy-tulasne-brothers-anamorph-teleomorph]]
+- [[permaculture]]
+- [[mycology]]
 - [[bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution]]
 - [[bloomfield-fungal-secondary-metabolites]]
 - [[bloomfield-nematode-trapping-adhesive-snares-explosive-ring-mechanisms]]

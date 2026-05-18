@@ -49,10 +49,6 @@ advance understanding of perception, cognition, and mental health.
   the Ur plant hypothesis.
 - Schultes, R.E. and Hofmann, A. Plants of the Gods: Their Sacred,
   Healing, and Hallucinogenic Powers. Healing Arts Press, 1992.
-## See Also
-
-- [[mckenna-four-families-of-indole-hallucinogens]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -81,7 +77,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[mckenna-four-families-of-indole-hallucinogens]]
 - [[ayahuasca]]
 - [[psilocybin]]
 - [[ibogaine]]

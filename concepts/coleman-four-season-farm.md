@@ -24,12 +24,6 @@ Coleman advocates a "deeper organic farming" that goes beyond basic organic cert
 
 He envisions a coming "small-farm revival" led by growers who will make great improvements on these systems.
 
-## See Also
-
-- [[doc]]
-- [[homesteading]]
-- [[coleman-season-extension-timeline-and-frost-protection]]
-
 ## Overview
 
 Coleman Four Season Farm represents an important element within sustainable
@@ -107,8 +101,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[homesteading]]
+- [[coleman-season-extension-timeline-and-frost-protection]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-greenhouse-summer-crops]]
 - [[coleman-insects-diseases]]

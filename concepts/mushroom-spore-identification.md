@@ -61,10 +61,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[mushroom-spore-visual-identification]]
-
 ## Overview
 
 Mushroom Spore Identification represents an important element within sustainable
@@ -142,8 +138,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-spore-visual-identification]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

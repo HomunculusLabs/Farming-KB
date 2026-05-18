@@ -107,12 +107,10 @@ Many world beliefs share an essential core derived from contemplation of natural
 3. **Cultural preservation**: Understanding indigenous knowledge reinforces the permaculture ethic of preserving traditional ecological knowledge
 4. **Applied aesthetics**: Functional beauty models the permaculture principle that every element should serve multiple functions
 
+
 ## See Also
 - [[patterns-of-social-hierarchy]]
 - [[social-hierarchy-patterns-and-arts-in-permaculture]]
-
-## See Also
-
 - [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[mckenna-prehistoric-imagination-and-consciousness-patterns]]

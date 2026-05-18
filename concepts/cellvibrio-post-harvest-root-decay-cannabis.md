@@ -63,8 +63,6 @@ For Cannabis cultivators, the post-harvest root decay process has practical impl
 - **Waste root management**: The root mass left in soil after harvest represents a significant organic input that undergoes microbial decomposition, potentially affecting nutrient cycling and soil structure.
 - **Greenhouse vs. field**: In greenhouse operations where root material is typically removed between crops, this decay dynamic is avoided, but the organic matter disposal and potential pathogen carryover remain considerations.
 
-## See Also
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -93,11 +91,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[post-harvest-root-decay-endorhiza-cannabis-microbiome]]
-- [[soil-health-management]]
-- [[dom]]
-
 ## Practical Considerations
 
 Understanding the practical applications of this
@@ -121,3 +114,9 @@ topic carefully. These connect theoretical understanding
 with practical application and field observation,
 providing a framework for both academic study and
 hands-on implementation in real-world scenarios.
+
+
+## See Also
+- [[post-harvest-root-decay-endorhiza-cannabis-microbiome]]
+- [[soil-health-management]]
+- [[dom]]

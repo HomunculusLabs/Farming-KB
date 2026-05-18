@@ -94,13 +94,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
 - ayahuasca
 - doc
 - ghb
-
-## See Also
-
 - [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]
 - [[ayahuasca-tourism-western-seekers-and-integration]]
 - [[ayahuasca-botany-and-preparation]]

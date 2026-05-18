@@ -45,11 +45,6 @@ Each zone offers different opportunities and constraints. The key design princip
 Reading the valley profile accurately — recognising where water moves, where it pauses, and where it disappears — is the first step in any successful arid-land design. The profile tells you where to plant, what to plant, and what earthworks will yield the highest return on invested effort.
 
 Together, these principles of trace element management, pH correction, judicious fertiliser use, pollution prevention, and zone-appropriate design form a comprehensive approach to soil amelioration in arid areas — one that works with natural processes rather than against them.
-## See Also
-
-- [[soil-rehabilitation-strategies]]
-- [[dryland-soils-and-mineral-nutrition]]
-
 ## Overview
 
 Soil Amelioration And Fertilisers In Arid Areas represents an important element within sustainable
@@ -127,8 +122,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-rehabilitation-strategies]]
+- [[dryland-soils-and-mineral-nutrition]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[casing-soil-mushroom-cultivation]]
 - [[gaias-garden-bringing-the-soil-to-life]]

@@ -21,11 +21,6 @@ The conventional approach of eliminating all insects through pesticide applicati
 
 Beneath the surface, the soil is a battleground and marketplace where countless microorganisms compete, cooperate, and maintain a delicate chemical balance. Beneficial bacteria suppress pathogenic fungi. [[comparison-natural-farming-vs-permaculture]] requires constant attention and observation -- not to control nature but to stay attuned to its rhythms. The [[roger-heim-scientific-study-psilocybin]] but through direct, sustained contact with the natural world. The farmer who lives on the land, eats from the land, and observes the land day after day develops a understanding that no textbook can provide.
 
-## See Also
-
-- [[fukuoka-vegetable-disease-insect-resistance]]
-
-- [[fukuoka-australia-fruit-fly-incident]]
 ## Practical Considerations
 
 When working with Ecological Balance Principles, several practical factors should be
@@ -123,8 +118,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-vegetable-disease-insect-resistance]]
+- [[fukuoka-australia-fruit-fly-incident]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

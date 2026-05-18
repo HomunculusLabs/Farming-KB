@@ -39,15 +39,6 @@ Pronounced physical symptoms such as severe stomach pain, persistent
 vomiting, and diarrhea have also been recorded. A UK [[psychedelic-integration]] practices are increasingly recognized
 as important for reducing adverse outcomes and maximizing therapeutic benefit.
 
-## See Also
-
-- [[lsd-set-and-setting-framework]]
-- [[psychedelic-integration-guide]]
-
-- [[psilocybin-mushroom-galactic-symbiote-mckenna-hypothesis]]
-- [[psilocybin-mushroom-minor-genera]]
-- [[psilocybin-mushroom-sclerotia-philosophers-stone-truffle]]
-- [[psilocybin-mushroom-taxonomy]]
 ## Practical Considerations
 
 Successful implementation of Psilocybin Mushroom Dosage and Acute Effects requires attention to
@@ -144,7 +135,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[lsd-set-and-setting-framework]]
+- [[psychedelic-integration-guide]]
+- [[psilocybin-mushroom-galactic-symbiote-mckenna-hypothesis]]
+- [[psilocybin-mushroom-minor-genera]]
+- [[psilocybin-mushroom-sclerotia-philosophers-stone-truffle]]
+- [[psilocybin-mushroom-taxonomy]]
 - [[powell-psilocybin-legal-status-research]]
 - [[psilocybin-bluing-reaction]]

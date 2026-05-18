@@ -59,11 +59,6 @@ Holzer has successfully applied his methods in widely different climates:
 
 This demonstrates that the principles -- diversity, observation, working with nature -- are universally applicable, even if specific techniques must be adapted to local conditions.
 
-## See Also
-
-- [[holzer-water-landscapes]]
-- [[holzer-thailand-permaculture-project]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -92,7 +87,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[holzer-water-landscapes]]
+- [[holzer-thailand-permaculture-project]]
 - [[soil-life]]
 - [[permaculture]]
 - [[permaculture-principles]]

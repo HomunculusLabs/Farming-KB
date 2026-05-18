@@ -84,13 +84,10 @@ The simple way to check on any design is to ask: Why did you put that structure 
 
 ---
 
+
 ## See Also
 - [[permaculture-zone-planning-guide]]
-
 - [[mollison-pdc-zone-two-livestock-integration]]
-
-## See Also
-
 - [[mollison-designers-termite-and-ant-mound-niche-gardening]]
 - [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
 - [[humus-soil-amendment-mollison]]

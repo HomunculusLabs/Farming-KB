@@ -32,11 +32,6 @@ The fruit produces seeds that yield a remarkable oil called behen or ben oil tha
 5. **Medicinal**: Leaves, bark, and seeds have documented anti-inflammatory, antimicrobial, and nutritional [[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
 
-## See Also
-
-- [[multipurpose-trees-in-permaculture-design]]
-- [[permaculture-plants-tagasaste-comprehensive-profile]] — Tagasaste, another drought-hardy fodder tree
-
 ## Overview
 
 Moringa Oleifera Horseradish Tree Permaculture represents an important element within sustainable
@@ -114,8 +109,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[multipurpose-trees-in-permaculture-design]]
+- [[permaculture-plants-tagasaste-comprehensive-profile]] — Tagasaste, another drought-hardy fodder tree
 - [[comparison-moringa-vs-comfrey]]
 - [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
 - [[moringa-oleifera]]

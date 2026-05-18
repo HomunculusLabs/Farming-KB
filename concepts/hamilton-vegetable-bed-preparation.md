@@ -22,12 +22,6 @@ best soil possible. While soil types vary widely, even poor soil can be
 substantially improved by working in plenty of mollison [[hamilton-green-manure-crops-and-cover-cropping]] [[hamilton-composting-and-organic-matter-management]], maintain fertility through the season, and
 never compact the soil by walking on prepared beds.
 
-## See Also
-
-- [[doc]]
-- [[composting]]
-- [[hamilton-deep-bed-system]]
-
 ## Overview
 
 Hamilton Vegetable Bed Preparation represents an important element within sustainable
@@ -105,8 +99,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[composting]]
+- [[hamilton-deep-bed-system]]
 - [[hamilton-cottage-garden-design]]
 - [[hamilton-layering-propagation-techniques]]
 - [[hamilton-organic-pest-control]]

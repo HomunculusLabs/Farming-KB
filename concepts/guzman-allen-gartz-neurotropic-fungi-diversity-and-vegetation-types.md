@@ -35,14 +35,6 @@ pattern observed in Mexico, where mesophytic forests harbor far more species
 than better-studied coniferous forests, likely applies globally and should
 guide future collecting strategies.
 
-## See Also
-
-- [[bolete-fungi-appalachian-region]]
-
-- [[guzman-neurotropic-fungi-genus-diversity-overview]]
-
-- [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
-- [[psychedelic-mushroom-set-and-setting]]
 ## Practical Considerations
 
 Successful implementation of Neurotropic Fungi Diversity and Vegetation Types requires attention to
@@ -77,7 +69,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[bolete-fungi-appalachian-region]]
+- [[guzman-neurotropic-fungi-genus-diversity-overview]]
+- [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[neurotropic-fungi]]
 - [[guzman-allen-gartz-india-neurotropic-fungi-diversity-psychoactive-species]]
 - [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]

@@ -41,10 +41,6 @@ mollison-zone-planning-frequency-distance-and-placement
   periods between intense events
 - FOG zones: deploy [[mollison-tropical-mulch-systems-and-materials]] suited to the local precipitation
 regime.
-## See Also
-
-- mollison-designers-wind-effects-and-design
-- mollison-designers-precipitation-and-global-weather
 ## Practical Considerations
 
 Successful implementation of Precipitation Types and Their Effects on Permaculture Design requires attention to
@@ -141,8 +137,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mollison-designers-wind-effects-and-design
+- mollison-designers-precipitation-and-global-weather
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-conifer-forestry-and-timber]]
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]

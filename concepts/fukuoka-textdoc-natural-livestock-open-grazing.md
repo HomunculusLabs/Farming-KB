@@ -37,15 +37,6 @@ and vines and could [[fukuoka-learning-about-nature-distances-one-from-nature]] 
 creates something from nothing — because they are merely processed goods. Both the farm
 worker and the city dweller who consumes these food products lose their health and humanity
 as they turn away from nature.
-## See Also
-
-- [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -80,7 +71,13 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]
 - [[fukuoka-natural-livestock-farming-open-grazing]]
 - [[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]]

@@ -77,14 +77,6 @@ When applying these concepts, consider regional variations, available resources,
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
-
-- [[jadam-wild-grass-liquid-fertilizer]]
-- [[jadam-liquid-fertilizer-nutritional-perspective]]
-- [[jadam-anaerobic-fermentation]] -- the fermentation approach
-- [[jadam-leaf-mold-soil-method]]
-- [[jadam-food-waste-liquid-fertilizer]]
-
 ## Historical Context
 
 The historical development of this subject reflects centuries of accumulated
@@ -99,7 +91,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[composting]]
+- [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-liquid-fertilizer-nutritional-perspective]]
+- [[jadam-anaerobic-fermentation]] -- the fermentation approach
+- [[jadam-leaf-mold-soil-method]]
+- [[jadam-food-waste-liquid-fertilizer]]
+- [[composting]]
 - [[jadam-liquid-fertilizer-philosophy]]

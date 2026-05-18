@@ -50,11 +50,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[mycorrhiza]]
-- [[strain-isolation-from-wild-specimens]]
-- [[yeast-isolation-biodiversity-methods]]
-
 ## Overview
 
 Isolation Metabolically Active Arbuscules Intraradical Hyphae represents an important element within sustainable
@@ -132,10 +127,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhiza]]
+- [[strain-isolation-from-wild-specimens]]
+- [[yeast-isolation-biodiversity-methods]]
 - [[endophyte-isolation-techniques]]
 - [[growing-gourmet-spore-germination-strain-isolation]]
 - [[soil-fungal-community-isolation-survey-methods]]
 - [[thermophilic-thermotolerant-fungi-ecology-isolation]]
-- [[yeast-isolation-biodiversity-methods]]

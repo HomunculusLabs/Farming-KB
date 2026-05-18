@@ -34,10 +34,6 @@ The ecological implications of these practices extend beyond their immediate app
 
 Financial viability influences adoption and long-term sustainability of any practice. Initial investment costs, ongoing maintenance requirements, and potential returns all factor into decision-making. Many practitioners find that reduced input costs over time offset initial setup expenses. Scale-appropriate strategies ensure that techniques remain economically feasible from backyard gardens to commercial operations.
 
-## See Also
-
-[[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-natural-rice-barley-cultivation]]
-
 ## Practical Applications
 
 The principles outlined on this page connect directly to hands-on work in gardens,
@@ -87,7 +83,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+[[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-natural-rice-barley-cultivation]]
 - [[det]]
 - [[permaculture]]
 - [[natural-farming]]

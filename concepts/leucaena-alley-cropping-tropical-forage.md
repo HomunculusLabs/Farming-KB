@@ -30,10 +30,6 @@ of local performance before scaling up. Once established, these
 legume tree systems reduce or eliminate purchased fertiliser, feed,
 and fuel costs while building soil carbon and supporting biodiversity.
 
-## See Also
-
-- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
-
 ## Historical Context
 - These approaches have evolved through decades of research and practical application.
 - Traditional knowledge systems have contributed significantly to modern understanding.
@@ -121,8 +117,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
 - [[alley-cropping]]
 - [[leucaena-alley-cropping-systems]]
 - [[leucaena-entity]]

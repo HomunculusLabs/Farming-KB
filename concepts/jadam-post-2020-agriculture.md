@@ -56,11 +56,6 @@ Korea's organic produce can reach Chinese markets within 3 days. For farmers who
 
 JADAM strongly urges a break from energy-intensive agriculture. The cost of oil and electricity will rise, making tractors, cold storage, and processing increasingly expensive. Methods of production, processing, storage, and transportation must all change. Ultra-low-cost agriculture is inherently energy-efficient because it minimizes purchased inputs and heavy machinery.
 
-## See Also
-
-- [[jadam-farm-economics-market-viability]] -- [[jadam-making-organic-farming-inputs]] -- input self-sufficiency
-- [[natural-farming-soil-building]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -89,7 +84,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[jadam-farm-economics-market-viability]] -- [[jadam-making-organic-farming-inputs]] -- input self-sufficiency
+- [[natural-farming-soil-building]]
 - [[det]]
 - [[desertification]]
 - [[jadam-ultra-low-cost-agriculture]]

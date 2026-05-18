@@ -43,10 +43,6 @@ Treatment residuals from [[bioremediation-fungal-biomass-biosorbent-material]]**
 5. **Training and certification**: Professional development builds technical
    literacy in fungal remediation principles.
 
-## See Also
-
-- [[singh-ecology-of-mycoremediation]]
-
 ## Overview
 
 Singh Mycoremediation Regulatory Frameworks represents an important element within sustainable
@@ -124,8 +120,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[singh-ecology-of-mycoremediation]]
 - [[singh-composted-biomass-as-soil-amendment-remediation]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

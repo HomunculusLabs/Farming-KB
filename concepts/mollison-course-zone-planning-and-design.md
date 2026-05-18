@@ -52,11 +52,6 @@ destroying water systems.
 Zone four is a forage and collection zone for wild harvest, timber, and
 larger animal grazing. It requires infrequent visits. Zone five is an
 
-## See Also
-- [[dom]]
-- [[mollison-permaculture-two-zone-planning-and-site-layout]]
-- [[mollison-course-swales-and-earthworks-design]]
-
 ## Overview
 
 Mollison Course Zone Planning And Design represents an important element within sustainable
@@ -134,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[mollison-permaculture-two-zone-planning-and-site-layout]]
+- [[mollison-course-swales-and-earthworks-design]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-conifer-forestry-and-timber]]
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]

@@ -40,13 +40,6 @@ The fact that none of these nitrogen-functionalized analogues were tasted limits
 
 DOC is a potent 5-HT2A agonist with additional affinity for 5-HT2B and 5-HT2C receptors. The chloro substituent at the 4-position provides greater electronegativity compared to the methyl of DOM, contributing to increased receptor affinity and potency. See [[2c-family-compounds-overview]] for broader phenethylamine harm reduction context
 
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -82,7 +75,12 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[dom]]
 - [[lsd]]
 - [[dmmda-compound-profile]]

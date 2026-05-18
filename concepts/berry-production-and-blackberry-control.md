@@ -56,11 +56,6 @@ Berry Production And Blackberry Control has been recognized for its contribution
 Traditional knowledge systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
-## See Also
-- [[berry-cage-culture-and-bird-deterrence-mollison]]
-- [[berry-white]]
-- [[oner-choke-berry-jack-the-ripper-querkle-tga-subcool]]
-
 ## Overview
 
 Berry Production And Blackberry Control represents an important element within sustainable
@@ -138,10 +133,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[berry-fruit-production-cool-humid-climates]]
+## See Also
+- [[berry-cage-culture-and-bird-deterrence-mollison]]
 - [[berry-white]]
+- [[oner-choke-berry-jack-the-ripper-querkle-tga-subcool]]
+- [[berry-fruit-production-cool-humid-climates]]
 - [[cage-culture-berry-production]]
 - [[comparison-goji-berry-vs-aronia-chokeberry]]
 - [[hawthorn-berry-guide]]

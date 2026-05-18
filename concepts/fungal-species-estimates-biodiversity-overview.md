@@ -53,12 +53,6 @@ confusing. See [[fungal-species-concepts-estimates]]
 
 - [[herbarium-specimens-fungal-collections]] for preservation techniques
 
-## See Also
-
-- [[fungal-species-estimates]]
-- [[det]]
-- [[fungal-species-concepts-estimates]]
-
 ## Overview
 
 Fungal Species Estimates Biodiversity Overview represents an important element within sustainable
@@ -136,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-species-estimates]]
+- [[det]]
+- [[fungal-species-concepts-estimates]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[plant-fungal-signaling-mycorrhiza]]

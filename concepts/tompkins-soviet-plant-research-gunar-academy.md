@@ -85,13 +85,10 @@ factors such as sunlight, wind, clouds, the dark of night, the
 tactual stimulus from flies and bees, injuries produced by chemicals
 and burning, and even the very proximity of a vine to a structure to
 
+
 ## See Also
 - [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]
-
-## See Also
-
 - [[tompkins-plant-electrical-signals]]
 - [[tompkins-radionic-agriculture-pesticides]]
-- [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]
 - [[tompkins-photosynthesis-biophotons]]
 - [[tompkins-electroculture-plant-growth]]

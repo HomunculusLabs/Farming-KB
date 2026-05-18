@@ -18,27 +18,6 @@ type: concept
 
 Chapter 7 of [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
 
-## See Also
-
-- [[green-cannabis-grow-bible-cloning-and-seed-propagation]] has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
-- [[cannabis-pre-flowering-and-sexing]]
-- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
-
 ## Overview
 
 Green Cannabis Grow Bible Pre Flowering And Sexing Plants represents an important element within sustainable
@@ -116,8 +95,24 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[green-cannabis-grow-bible-cloning-and-seed-propagation]] has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
+- [[cannabis-pre-flowering-and-sexing]]
+- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
 - [[cervantes-screen-of-green-technique]]
 - [[green-cannabis-dry-sift-water-extraction]]
 - [[green-cannabis-grow-bible-vegetative-phase-management]]

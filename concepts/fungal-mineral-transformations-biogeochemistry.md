@@ -45,10 +45,6 @@ Mining activities create extreme environments characterized by high concentratio
 
 Rock surfaces in diverse environments are often colonized by fungal communities that produce visible coatings, stains, and crusts. Lithic (rock-dwelling) fungi contribute to the formation of rock varnish — thin, dark coatings composed of clay minerals, iron and manganese oxides, and organic matter found on exposed rock surfaces in arid and semi-arid regions. While bacterial contributions to rock varnish have long been recognized, fungal roles in manganese oxidation and organic matter incorporation are increasingly appreciated. In urban environments, fungi contribute to the biological weathering of building stone, concrete, and masonry, producing discoloration, surface etching, and structural degradation. The ability of fungi to colonize and transform rock surfaces — from natural outcrops to human-made structures — underscores their significance as geological agents operating at the interface between the biosphere and the lithosphere.
 
-## See Also
-
-- [[fungal-calcium-oxalate-crystals]]
-- rock-eating-fungi-and-mineral-weathering
 ## Practical Considerations
 
 Successful implementation of Fungal Mineral Transformations and Biogeochemical Cycles requires attention to
@@ -96,7 +92,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fungal-calcium-oxalate-crystals]]
+- rock-eating-fungi-and-mineral-weathering
 - [[dom]]
 - [[mycofiltration]]
 - [[swale]]

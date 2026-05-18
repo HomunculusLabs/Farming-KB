@@ -59,10 +59,6 @@ remediation. Endophyte-produced IAA contributes to [[pgpr-mycorrhizal-inoculants
   horticulture, forestry, and agriculture, where [[singh-endophytic-fungi-plant-protection-mechanisms]]
 - [[singh-mycorrhizal-response-under-salinity-stress]]
 
-## See Also
-
-- [[cervantes-plant-additives-growth-supplements]]
-
 ## Overview
 
 Singh Fungal Plant Growth Regulators Production represents an important element within sustainable
@@ -140,8 +136,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cervantes-plant-additives-growth-supplements]]
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

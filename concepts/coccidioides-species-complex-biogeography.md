@@ -34,13 +34,6 @@ biogeography of Coccidioides populations is essential for tracking the
 geographic origin of infections, predicting emergence in new areas, and
 developing geographically targeted public health interventions.
 
-## See Also
-
-- [[cryptococcus-neoformans-pathogenesis]]
-- [[coccidioides-immitis]]
-- [[fungal-genetics]]
-- [[dmt]]
-
 ## Overview
 
 Coccidioides Species Complex Biogeography represents an important element within sustainable
@@ -118,9 +111,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cryptococcus-neoformans-pathogenesis]]
 - [[coccidioides-immitis]]
+- [[fungal-genetics]]
+- [[dmt]]
 - [[mollison-pioneer-species-and-accelerated-succession]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
 - [[neurotropic-puffballs-lycoperdales-vascellum-species]]

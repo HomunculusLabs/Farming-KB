@@ -23,9 +23,6 @@ First Western Conference on Kirlian Photography and the Human Aura in
 1972, startling pictures were shown of a leaf before and after being
 pricked. The photo of the wounded leaf revealed an enormous blood-red
 
-## See Also
-- [[tompkins-plant-perception-experiments]]
-
 ## Overview
 
 Tompkins Kirlian Photography Plant Auras represents an important element within sustainable
@@ -103,8 +100,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tompkins-plant-perception-experiments]]
 - [[tompkins-dowsing-plants-for-health]]
 - [[tompkins-findhorn-garden-devas-nature-spirits]]
 - [[tompkins-george-washington-carver-plant-alchemy]]

@@ -49,12 +49,6 @@ Shamanism is described as the **cornerstone of all religions**, though corrupted
 
 As Arthur J. notes: "Different 'keys' open different doorways, and different combinations open different locks. Do not fall into the trap of thinking that any experience is the same as any other."
 
-## See Also
-
-- [[ayahuasca]] — DMT-MAOI brew traditions of the Amazon
-- pineal gland dmt — Endogenous DMT production in the human brain
-- syrian rue harmala — [[mckenna-food-gods-peganum-harmala-soma]] as MAOI source
-
 ## Overview
 
 Soma Brew Entheogenic Admixture represents an important element within sustainable
@@ -132,8 +126,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ayahuasca]] — DMT-MAOI brew traditions of the Amazon
+- pineal gland dmt — Endogenous DMT production in the human brain
+- syrian rue harmala — [[mckenna-food-gods-peganum-harmala-soma]] as MAOI source
 - [[allegro-soma-and-vedic-traditions]]
 - [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]]
 - [[mckenna-food-gods-soma-vedic-enigma]]

@@ -5,11 +5,6 @@ aliases: [root systems, root communication, [[dighton-mycorrhizal-networks-carbo
 tags: [botany, ecology, soil-science, plant-intelligence]
 related: [[tompkins-plant-animal-relationships]], [[desmodium-gyrans]] (the telegraph plant), Bose found that if the cut
 
-## See Also
-- [[exopheromones-and-plant-intelligence]]
-- [[plant-intelligence-and-communication]]
-- [[plant-sensory-biology]]
-
 ## Overview
 
 Tompkins Plant Roots Intelligence represents an important element within sustainable
@@ -87,8 +82,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[exopheromones-and-plant-intelligence]]
+- [[plant-intelligence-and-communication]]
+- [[plant-sensory-biology]]
 - [[mollison-life-in-earth-burrowers-roots]]
 - [[mycelial-networks-and-intelligence]]
 - [[plant-mothers-spirits]]

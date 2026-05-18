@@ -56,14 +56,6 @@ Combined CHI Value: 10
 
 Sativex consists of roughly equal parts THC (2.7 mg) and CBD (2.5 mg) -- ratios very similar to actual [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], rosemary, basil, clove, cinnamon, oregano. Traditional anti-arthritis herbs include turmeric (curcumin), ginger, boswellia, and willow bark.
 
-## See Also
-
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-chronic-pain]]
-
-These findings contribute to the growing body of evidence supporting
-the therapeutic potential explored throughout related entries in the wiki.
-
 ## Source
 
 Blesching, U. (2015). *The [[doc]]
@@ -147,4 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[cannabis-endocannabinoid-system]]
+- [[cannabis-for-chronic-pain]]
+These findings contribute to the growing body of evidence supporting
+the therapeutic potential explored throughout related entries in the wiki.

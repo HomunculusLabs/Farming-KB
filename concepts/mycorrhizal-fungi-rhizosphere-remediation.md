@@ -30,10 +30,6 @@ Regulatory and monitoring challenges also exist. Establishing remediation endpoi
 
 Not all mycorrhizal fungi are equally suited to remediation applications. Species selection must consider both the target pollutant and the environmental conditions at the site. For metal-contaminated sites, fungi with demonstrated metal tolerance and strong glomalin production (such as *Glomus intraradices* and *Glomus mosseae*) are preferred. For organic pollutant degradation, ECM fungi with robust ligninolytic enzyme systems (such as *Paxillus involutus*, *Suillus luteus*, and *Pisolithus tinctorius*) have shown the most promise. ERM fungi like *Hymenoscyphus ericae* are particularly effective for phenolic compound degradation and are suited to the acidic, low-nutrient conditions found in some contaminated sites. The availability of commercial inoculum is also a practical constraint — while VAM inoculants are widely available from biological supply companies, ECM inoculants are more limited and may require on-site cultivation from collected sporocarps. Indigenous isolates adapted to local conditions often outperform commercial strains, making site-specific inoculum collection and propagation a worthwhile investment for larger remediation projects.
 
-## See Also
-
-- [[combined-biological-remediation-approaches]] — multi-organism remediation strategies
-- [[singh-mycorrhizal-fungi-rhizosphere-remediation]] — Author-specific treatment of the same topic
 ## Practical Considerations
 
 Successful implementation of Mycorrhizal Fungi in Rhizosphere Remediation requires attention to
@@ -130,8 +126,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[combined-biological-remediation-approaches]] — multi-organism remediation strategies
+- [[singh-mycorrhizal-fungi-rhizosphere-remediation]] — Author-specific treatment of the same topic
 - [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 - [[arbuscular-mycorrhizal-symbiosis]]
 - [[leake-mycorrhizal-carbon-cycle-global-sequestration]]

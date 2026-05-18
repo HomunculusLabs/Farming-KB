@@ -98,15 +98,13 @@ The question of optimum scale recurs throughout permaculture thinking. Industria
 
 Functional scale depends on context: what is appropriate for a household garden may not suit a broadacre farm, and vice versa. Permaculture scale is determined by the ability of the designer/manager to understand and interact with the whole system, not by abstract efficiency calculations.
 
-## See Also
 
+## See Also
 - Ecological succession and pulsing ecosystems
 - Energy descent and post-industrial adaptation
 - Permaculture zones and sectors
 - Self-reliance and household resilience
 - Bottom-up social change strategies
-
-## See Also
 - [[permaculture-landscape-energy-storage-water-soil-trees-seed]]
 - [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]
 - [[mollison-designers-soil-water-storage-in-forest-systems]]

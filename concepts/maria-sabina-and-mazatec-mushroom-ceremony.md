@@ -60,14 +60,6 @@ The flood of Western visitors to Huautla following Wasson's publicity eventually
 
 Wasson enlisted Roger Heim (1900-1979), Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, who identified several species of Psilocybe, Conocybe, and other genera. Heim cultivated specimens and sent them to Albert Hofmann at Sandoz, who in 1958 synthesized psilocybin and psilocin. The team also identified Ololiuhqui as Turbina corymbosa (morning glory) and Salvia divinorum as a hallucinogenic mint used by Mazatec curanderos.
 
-## See Also
-
-- [[r-gordon-wasson]] — The banker-turned-ethnomycologist who publicized the Mazatec tradition
-- [[albert-hofmann]] — The Swiss chemist who isolated psilocybin
-- [[richard-evans-schultes-updated]] — The Harvard ethnobotanist who first formally identified Mexican psychedelic mushrooms
-- [[psychedelic-mushroom-history]] — Timeline of key events
-- [[amanita-muscaria-guide]] — Contrast with the Amanita-based Siberian traditions
-
 ## Overview
 
 Maria Sabina And Mazatec Mushroom Ceremony represents an important element within sustainable
@@ -145,6 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[r-gordon-wasson]] — The banker-turned-ethnomycologist who publicized the Mazatec tradition
+- [[albert-hofmann]] — The Swiss chemist who isolated psilocybin
+- [[richard-evans-schultes-updated]] — The Harvard ethnobotanist who first formally identified Mexican psychedelic mushrooms
+- [[psychedelic-mushroom-history]] — Timeline of key events
+- [[amanita-muscaria-guide]] — Contrast with the Amanita-based Siberian traditions
 - [[juniperus-sabina]]

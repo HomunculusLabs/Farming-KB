@@ -62,11 +62,6 @@ The challenge of urban permaculture is to facilitate the dynamic
 intersections of the web of life and to reestablish natural
 ecosystems as the context of urban form and activity. This is the
 
-## See Also
-
-- [[urban-permaculture-and-integrated-land-management]]
-- [[urban-permaculture-systems]]
-
 ## Overview
 
 Urban Permaculture Community Building Social Design represents an important element within sustainable
@@ -144,7 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[urban-permaculture-and-integrated-land-management]]
+- [[urban-permaculture-systems]]
 - [[mollison-designers-community-garden-design-urban-permaculture]]
 - [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]

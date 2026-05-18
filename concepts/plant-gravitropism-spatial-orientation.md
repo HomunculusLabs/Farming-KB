@@ -16,15 +16,6 @@ Gravitropism knowledge is applied in several agricultural and horticultural cont
 - **Potato production:** Seed potatoes are planted at specific orientations because the shoot emerges from the apical end and roots from the basal end, a polarity partly established by gravity sensing.
 - **Tree stabilization:** Understanding gravitropic correction helps arborists predict how leaning trees will respond and whether intervention is needed.
 
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]] perception
-- phototropism and [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -113,8 +104,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[what-a-plant-knows-plant-vision-and-light-perception]] perception
+- phototropism and [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[chamovitz-gradualist-framework-plant-sensory-capabilities]]
 - [[herbal-plant-remedies]]
 - [[plant-communication-volatile-organic-compounds]]

@@ -71,12 +71,6 @@ The consumption of fungi by animals generates multiple feedback effects on funga
 - **Population regulation**: The seasonal availability of fungal fruit bodies limits or enables animal population growth, creating bottom-up trophic control.
 
 These interactions demonstrate that the role of fungi extends far beyond decomposition and plant symbiosis — they are foundational to the structure and function of terrestrial food webs.
-## See also
-
-- [[fungal-faunal-interactions-in-ecosystems]]
-- [[invertebrate-fungivory-and-feeding-preferences]]
-- [[mycophagy-in-vertebrates]]
-
 ## Morphology and Identification
 Fungi As Food For Secondary Producers can be identified through a combination of morphological characteristics including spore morphology, fruiting body structure, and microscopic features. Key diagnostic traits include colony appearance, hyphal structure, and reproductive organ morphology when observed under laboratory conditions. Field identification requires careful attention to habitat, substrate, and seasonal timing of appearance.
 
@@ -115,7 +109,11 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
+
 ## See Also
+- [[fungal-faunal-interactions-in-ecosystems]]
+- [[invertebrate-fungivory-and-feeding-preferences]]
+- [[mycophagy-in-vertebrates]]
 - [[antifungal-secondary-metabolites-coprophilous-fungi]]
 - [[mycorrhizal-fungi-secondary-metabolite-elicitation]]
 - [[fungi-soil-food-webs]]

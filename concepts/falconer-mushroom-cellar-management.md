@@ -7,20 +7,6 @@ sources:
 type: concept
 tags: [[mushroom-cultivation-fruiting-chambers]]
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
-by experienced practitioners. These practices represent distilled wisdom
-about what works reliably across a range of conditions. However, they
-should be treated as guidelines rather than rigid rules, with adaptation
-to local conditions always taking precedence over textbook approaches.
-
-Common pitfalls and mistakes that practitioners should be aware of
-include inadequate preparation, poor timing of interventions, failure
-to monitor conditions adequately, and insufficient attention to the
-specific requirements of the particular context. Learning from these
-common errors can significantly accelerate the development of skill.
-
 ## Applications and Use Cases
 
 The practical applications of this knowledge span multiple contexts
@@ -59,11 +45,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[falconer-dosoris-mushroom-cellar]]
-- [[falconer-mushroom-cellar-ventilation-and-moisture]]
 
 ## Overview
 
@@ -142,9 +123,21 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[falconer-horse-manure-varieties]]
+## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+- [[det]]
+- [[falconer-dosoris-mushroom-cellar]]
 - [[falconer-mushroom-cellar-ventilation-and-moisture]]
+- [[falconer-horse-manure-varieties]]
 - [[falconer-mushroom-cooking-selection-and-preparation]]
 - [[falconer-mushroom-cultivation-history]]

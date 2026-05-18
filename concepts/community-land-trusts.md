@@ -48,18 +48,6 @@ The village CLT retains ownership of roads, common buildings, forests, water sys
 
 CLTs face several challenges including the high cost of land acquisition in desirable areas, complex legal requirements for establishment and operation, the need for ongoing organisational management and governance, balancing individual leaseholder rights with community interests, and building public understanding and support for the trust model.
 
-## See Also
-
-permaculture-economics
-
-[[permaculture-settlement-design]]
-
-permaculture-designers-manual-legal-and-social-structures
-- [[permaculture-design]]
-- [[doc]]
-- [[dom]]
-- [[permaculture]]
-
 ## Overview
 
 Community Land Trusts represents an important element within sustainable
@@ -137,8 +125,15 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+permaculture-economics
+[[permaculture-settlement-design]]
+permaculture-designers-manual-legal-and-social-structures
+- [[permaculture-design]]
+- [[doc]]
+- [[dom]]
+- [[permaculture]]
 - [[community-supported-agriculture-csa]]
 - [[fungal-molecular-community-analysis]]
 - [[ingham-single-species-vs-whole-community]]

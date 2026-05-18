@@ -61,11 +61,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[permaculture]]
-- [[solomon-crop-rotation-and-garden-planning]]
-- [[hamilton-vegetable-planning-rotation]]
-
 ## Overview
 
 Hamilton Crop Rotation And Vegetable Planning represents an important element within sustainable
@@ -143,8 +138,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture]]
+- [[solomon-crop-rotation-and-garden-planning]]
+- [[hamilton-vegetable-planning-rotation]]
 - [[hamilton-cottage-garden-design]]
 - [[hamilton-garden-ponds-and-aquatic-plants]]
 - [[hamilton-pruning-and-training-fruit-trees]]

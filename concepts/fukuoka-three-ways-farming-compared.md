@@ -50,15 +50,6 @@ The irregular shape of scientific farming represents the distortions and imperfe
 - Apply a thin layer of chicken manure or compost only if soil fertility is visibly deficient.
 - Harvest at natural maturity rather than forcing early or late harvests with chemical inputs.
 
-## See Also
-
-- [[one-straw-revolution-guide]], [[fukuoka-no-fertilizer-principle]], [[natural-farming-seed-balls]], [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
-The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
-Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
-Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates [[masanobu-fukuoka]]
-- [[natural-farming]]
-- [[dom]]
-
 ## Overview
 
 Fukuoka Three Ways Farming Compared represents an important element within sustainable
@@ -136,8 +127,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[one-straw-revolution-guide]], [[fukuoka-no-fertilizer-principle]], [[natural-farming-seed-balls]], [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
+The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
+Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
+Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates [[masanobu-fukuoka]]
+- [[natural-farming]]
+- [[dom]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

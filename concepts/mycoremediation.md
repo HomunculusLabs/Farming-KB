@@ -28,11 +28,6 @@ robust and resilient outcomes. Rather than treating this topic in
 isolation, the most effective practitioners consider how it connects
 with and enhances other elements of the broader system within which
 
-## See Also
-- [[det]]
-- [[mycoremediation-basics]]
-- [[mycoremediation-of-plastics]]
-
 ## Overview
 
 Mycoremediation represents an important element within sustainable
@@ -110,8 +105,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[mycoremediation-basics]]
+- [[mycoremediation-of-plastics]]
 - [[cotter-mycoremediation-techniques]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[mycoremediation-bioreactor-design-considerations]]

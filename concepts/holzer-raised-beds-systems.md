@@ -26,11 +26,6 @@ Raised beds offer substantial advantages over ground-level beds:
 - Use polycultures to maintain soil health and prevent pest outbreaks
 - Green [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by weeks.
 
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[gaias-garden-cover-crops-soil-building]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -58,11 +53,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[herb-spiral]]
-- [[decomposition]]
 
 ## Overview
 
@@ -141,8 +131,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+- [[gaias-garden-cover-crops-soil-building]]
+- [[det]]
+- [[herb-spiral]]
+- [[decomposition]]
 - [[holzer-alpine-plant-cultivation]]
 - [[holzer-browsing-protection-methods]]
 - [[holzer-fruit-growing-marginal-climates]]

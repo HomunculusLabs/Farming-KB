@@ -54,11 +54,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[det]]
-- [[cervantes-reflective-hoods-light-distribution]]
-- [[cervantes-photoperiod-interruption-light-leak]]
-
 ## Overview
 
 Cervantes Light Spectrum Photomorphogenesis represents an important element within sustainable
@@ -136,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[cervantes-reflective-hoods-light-distribution]]
+- [[cervantes-photoperiod-interruption-light-leak]]
 - [[cervantes-damping-off-seedling-disease-prevention]]
 - [[cervantes-high-pressure-sodium-lighting]]
 - [[cervantes-passive-wick-hydroponic-systems]]

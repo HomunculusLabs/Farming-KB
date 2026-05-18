@@ -33,12 +33,6 @@ Common beginner mistakes include misaligning the cambium layers, using a
 dull blade that crushes rather than cuts, and failing to secure the graft
 union properly. Taking time with each step dramatically improves success.
 
-## See Also
-
-- [[dom]]
-- [[comparison-grafting-vs-budding-fruit-trees]]
-- [[hamilton-layering-propagation-techniques]]
-
 ## Overview
 
 Hamilton Grafting Budding Techniques represents an important element within sustainable
@@ -116,8 +110,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[comparison-grafting-vs-budding-fruit-trees]]
+- [[hamilton-layering-propagation-techniques]]
 - [[hamilton-composting-and-organic-matter-management]]
 - [[hamilton-cottage-garden-design]]
 - [[hamilton-garden-ponds-and-aquatic-plants]]

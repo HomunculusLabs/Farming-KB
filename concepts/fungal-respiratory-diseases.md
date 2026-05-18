@@ -57,11 +57,6 @@ Several trends are increasing the clinical importance of fungal respiratory dise
 - **Immunosuppressed populations** — Growing numbers of patients receiving chemotherapy, organ transplants, and biologic immunosuppressants
 - **COVID-19-associated pulmonary aspergillosis** — A newly recognized complication of severe COVID-19, particularly in critically ill patients
 
-## See Also
-- [[doc]]
-- [[thermophilic-fungi]]
-- [[soma]]
-
 ## Overview
 
 Fungal Respiratory Diseases represents an important element within sustainable
@@ -139,8 +134,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[thermophilic-fungi]]
+- [[soma]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[plant-fungal-signaling-mycorrhiza]]

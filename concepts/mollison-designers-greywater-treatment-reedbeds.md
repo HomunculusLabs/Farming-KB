@@ -47,7 +47,6 @@ Mollison describes routine maintenance requirements:
   of wastewater across the bed surface
 - Media inspection: Over 10 to 20 years, the gravel media may become
   clogged with accumulated solids, requiring replacement. Proper
-## See Also
 ## Practical Considerations
 
 Successful implementation of Greywater Treatment Reedbeds requires attention to
@@ -144,7 +143,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-conifer-forestry-and-timber]]

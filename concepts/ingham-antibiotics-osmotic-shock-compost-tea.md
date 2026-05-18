@@ -49,12 +49,6 @@ organisms. pH extremes create chemical stress. Each mechanism
 requires a different management approach, and confusing them can
 lead to ineffective solutions.
 
-## See Also
-
-- [[dom]]
-- [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
-
 ## Overview
 
 Ingham Antibiotics Osmotic Shock Compost Tea represents an important element within sustainable
@@ -132,8 +126,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]
+- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

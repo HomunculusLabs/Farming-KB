@@ -53,12 +53,6 @@ direct personal experience with their effects. Guzmán's decades of work with
 Psilocybe species gave him a unique perspective combining rigorous scientific
 methodology with firsthand understanding of the fungi's psychoactive properties.
 
-## See Also
-
-- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]]
-- [[guzman-magic-mushrooms-neotropical-species]]
-- [[guzman-psilocybin-mushrooms-asia-oceania]]
-
 ## Overview
 
 Guzman Accidental Psilocybin Vapor Inhalation Lab represents an important element within sustainable
@@ -136,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]]
+- [[guzman-magic-mushrooms-neotropical-species]]
+- [[guzman-psilocybin-mushrooms-asia-oceania]]
 - [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
 - [[guzman-allen-gartz-mixtec-narcotic-puffballs-ott-investigation]]
 - [[guzman-allen-gartz-neurotropic-fungi-europe]]

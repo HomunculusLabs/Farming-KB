@@ -48,9 +48,6 @@ absent from the [[halotolerant-halophilic-fungi]], and
 [[fungal-enzyme-systems]]-and-nutrient-cycling,
 and the limits of eukaryotic life.
 
-## See Also
-
-- [[soil-food-web-nutrient-cycling]]
 ## Practical Considerations
 
 Successful implementation of Thermophilic and Thermotolerant Fungi - Ecology and Isolation requires attention to
@@ -147,4 +144,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[soil-food-web-nutrient-cycling]]

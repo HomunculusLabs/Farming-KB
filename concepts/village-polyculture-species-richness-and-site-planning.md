@@ -79,10 +79,8 @@ This connects species richness directly to social structure. Complex polyculture
 5. **Earthworks before planting**: Water infrastructure and wind protection must precede crop establishment
 6. **Market assessment comes first**: Economic viability determines what should be grown, not the other way around
 7. **Seven factors limit species count**: Labor, zoning, economics, guilds, processing, area, and maturity together determine the workable species palette
-## See also
 
 ## See Also
-
 - [[permaculture-designers-manual-village-design]]
 - [[mollison-village-enterprises-occupations]]
 - [[fukuoka-sunken-hearth-and-village-philosophy]]

@@ -42,13 +42,6 @@ Unlike organic pollutant degradation, heavy metal mycoremediation has unique cha
 
 The use of fungi for heavy metal remediation is an active area of research. Stamets notes that mycoremediation "holds promise for removing heavy metals from the land by channeling them to the fruitbodies for removal." The combination of enzymatic degradation (for organic co-contaminants) and metal bioaccumulation makes fungal approaches particularly valuable at mixed-waste sites where petroleum and metals co-occur.
 
-## See Also
-
-- [[cotter-mycoremediation-overview]]
-- [[mycoremediation-petroleum-hydrocarbons]]
-- [[mycoremediation-pesticides]]
-- [[mycofiltration-water-treatment]]
-
 ## Overview
 
 Mycoremediation Heavy Metals represents an important element within sustainable
@@ -126,8 +119,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cotter-mycoremediation-overview]]
+- [[mycoremediation-petroleum-hydrocarbons]]
+- [[mycoremediation-pesticides]]
+- [[mycofiltration-water-treatment]]
 - [[cotter-mycoremediation-techniques]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[mycoremediation-bioreactor-design-considerations]]

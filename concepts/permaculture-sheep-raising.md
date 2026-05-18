@@ -34,11 +34,6 @@ Summer (June-August):
 
 - Provide shade and plenty of fresh water; sheep can suffer [[sheep-keeping-guide]]
 
-## See Also
-
-- [[nematode-management]] for detailed parasite control
-strategies applicable to permaculture systems.
-
 ## Fencing Design and Rotation
 
 Proper fencing is essential for containing sheep and implementing
@@ -145,6 +140,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[nematode-management]] for detailed parasite control
+strategies applicable to permaculture systems.
 - [[eucalyptus-permaculture]]

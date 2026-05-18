@@ -41,12 +41,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[fukuoka-semi-wild-vegetable-cultivation-techniques]]
-- [[doc]]
-- [[permaculture]]
-
 ## Overview
 
 Fukuoka Semi Wild Vegetable Growing Techniques represents an important element within sustainable
@@ -124,8 +118,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-semi-wild-vegetable-cultivation-techniques]]
+- [[doc]]
+- [[permaculture]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

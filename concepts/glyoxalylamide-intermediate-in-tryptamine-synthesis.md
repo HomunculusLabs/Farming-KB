@@ -48,13 +48,6 @@ can be viewed as a telescoped acylation-amidation conversion:
 
 4-Acetylindole (compound 4) is dissolved in anhydrous diethyl ether and
 treated with [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
-## See Also
-- [[4-hydroxyindole]]
-- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
-- [[tryptamine]]
-- [[psilocin]]
-- [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
-
 ## Overview
 
 Glyoxalylamide Intermediate In Tryptamine Synthesis represents an important element within sustainable
@@ -132,8 +125,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[4-hydroxyindole]]
+- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
+- [[tryptamine]]
+- [[psilocin]]
 - [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
 - [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
 - [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]]

@@ -56,10 +56,6 @@ Mollison's concept of a "global nation" is the political expression of permacult
 
 This vision of decentralized, ethics-based cooperation stands in contrast to both the nation-state system (which Mollison sees as inherently destructive) and to centralized global governance (which he views as unlikely to serve ethical ends). Instead, it proposes a world of self-reliant communities connected by shared values and voluntary cooperation — "a million villages" replacing the nation-state as the primary unit of human organization.
 
-## See Also
-
-- [[permaculture-zones]]
-
 ## Overview
 
 Permaculture Ethics represents an important element within sustainable
@@ -137,8 +133,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-zones]]
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]

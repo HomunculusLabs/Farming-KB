@@ -22,12 +22,6 @@ Commercial soilless blends such as Pro-Mix combine peat moss, perlite, vermiculi
 
 Cost is another important consideration. Rockwool and peat moss are relatively inexpensive per use but are disposable, while clay pebbles have higher upfront costs but can be reused indefinitely with proper cleaning. Coco coir falls in the middle range and is increasingly available at competitive prices in compressed brick form.
 
-## See Also
-
-- [[cannabis-living-soil-guide]]
-
-- [[cannabis-vegetative-stage-management]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -55,11 +49,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[water-management]]
-- [[deep-water-culture]]
-- [[mycorrhiza]]
 
 ## Overview
 
@@ -138,8 +127,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-living-soil-guide]]
+- [[cannabis-vegetative-stage-management]]
+- [[water-management]]
+- [[deep-water-culture]]
+- [[mycorrhiza]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

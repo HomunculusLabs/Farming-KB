@@ -54,12 +54,6 @@ Halotolerant fungi (Alternaria, Aspergillus, Penicillium, Myrothecium, Stachybot
 
 Oligotrophic fungi are adapted to grow in extremely nutrient-poor environments. Rock-inhabiting fungi (also called lithophytic or cryptoendolithic fungi) colonize rock surfaces and subsurface pore spaces, where they derive nutrients from atmospheric deposition, dust, and slow weathering of rock minerals. These fungi are important agents of rock weathering and soil formation in arid and polar environments. They typically grow very slowly, produce heavily melanized cell walls for protection against UV radiation and desiccation, and can survive extreme temperature fluctuations and prolonged desiccation.
 
-## See Also
-
-- [[acidophilic-alkalophilic-fungi]]
-- fungal-biodiversity-alpine-arctic
-- [[gadd-fungal-ecology-saprotrophs]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -88,7 +82,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[acidophilic-alkalophilic-fungi]]
+- fungal-biodiversity-alpine-arctic
+- [[gadd-fungal-ecology-saprotrophs]]
 - [[thermophilic-fungi]]
 - [[det]]
 - [[composting]]

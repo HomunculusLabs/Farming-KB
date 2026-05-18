@@ -34,10 +34,6 @@ and [[mollison-designers-wool-processing-natural-dyeing]]: After scouring and ca
   fibre, and has multiple other uses (seed oil, [[mollison-designers-lime-and-cement-natural-building]]
 and [[mollison-designers-wool-processing-natural-dyeing]]
 
-## See Also
-
-- mollison-natural-swimming-pools
-
 ## Overview
 
 Mollison Designers Wool Insulation And Natural Textiles represents an important element within sustainable
@@ -115,8 +111,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mollison-natural-swimming-pools
 - [[humid-cool-climate-characteristics-mollison]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-climate-zone-3-farm-forestry]]

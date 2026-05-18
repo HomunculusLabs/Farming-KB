@@ -92,15 +92,13 @@ The field guide provides detailed protocols for both methods and includes compar
 
 The field guide includes templates for a Data Collection Research Project designed to gather information about conventional practices across industries. By collecting data on current costs, inputs, and outcomes, practitioners can evaluate the economic case for switching to AACT-based management. This research approach reflects the movement's emphasis on evidence-based practice rather than ideological advocacy.
 
-## See Also
 
+## See Also
 - Soil foodweb and microbial ecology
 - Compost tea brewing methods and mechanisms
 - Biological disease suppression in soils
 - Nutrient cycling and the microbial loop
 - Soil health assessment methods
-
-## See Also
 - [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
 - [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]]
 - [[ingham-aact-worm-leachate-extract-comparison-brewing-methods]]

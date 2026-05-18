@@ -38,11 +38,6 @@ The suppression of the Bacchanalia was a decisive moment in the long war of the 
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
 - [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
-## See Also
-
-- [[psychedelic-mushroom-history]]
-- [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
-
 ## Practical Considerations
 
 Successful implementation of McKenna on Dionysian Cults and the Suppression of Ecstasy requires attention to
@@ -139,8 +134,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psychedelic-mushroom-history]]
+- [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

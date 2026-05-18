@@ -33,10 +33,6 @@ Understanding that we are "the universe attempting to define its processes" — 
 - Birch, L. and Cobb, J. (1984). *The Liberation of Life*. Cambridge University Press.
 - Capra, F. (1976). *The Tao of Physics*. Shambhala Publications.
 
-## See Also
-- [[event-classification-and-time-in-pattern-models]]
-- [[event-classification-and-pattern-unity]]
-
 ## Overview
 
 Pattern Classification Time And Unified Events represents an important element within sustainable
@@ -114,8 +110,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[event-classification-and-time-in-pattern-models]]
+- [[event-classification-and-pattern-unity]]
 - [[anasazi-spiral-calendar-and-pattern-timekeeping]]
 - [[designers-checklist-for-pattern-analysis]]
 - [[herb-spirals-and-applied-pattern-design]]

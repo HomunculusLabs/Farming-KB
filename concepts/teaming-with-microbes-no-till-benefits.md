@@ -46,7 +46,6 @@ One of the most significant but often overlooked benefits of no-till gardening i
 
 Cover crops are a natural complement to no-till practices, providing multiple benefits that reinforce the no-till approach. Winter cover crops protect the soil surface from erosion and compaction during the dormant season, add organic matter when terminated, suppress weeds through competition, and can fix nitrogen (leguminous cover crops) or scavenge residual nutrients (grass cover crops). Terminating cover crops without tilling requires techniques such as roller-crimping (for winter-killed or mature cover crops), mowing, or frost-kill. The resulting mulch from terminated cover crops provides the same benefits as applied mulch while being produced on-site at minimal cost. This integration of cover crops and no-till represents a systems approach to soil management that Lowenfels and Lewis would endorse as working with the soil food web rather than against it.
 
-## See Also
 ## Practical Considerations
 
 Successful implementation of No-Till Benefits and Soil Food Web - Teaming with Microbes requires attention to
@@ -143,8 +142,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[teaming-with-microbes-arthropods]]
 - [[teaming-with-microbes-humus-formation-and-glomalin]]
 - [[teaming-with-microbes-old-growth-forest]]

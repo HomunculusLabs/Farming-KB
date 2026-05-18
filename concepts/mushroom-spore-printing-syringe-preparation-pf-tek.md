@@ -39,11 +39,6 @@ that exceed the sum of individual component contributions.
 
 Case studies and documented examples provide valuable models for
 
-## See Also
-
-- [[mushroom-spore-syringe-preparation-and-storage]]
-- [[mushroom-spore-syringe-preparation-jarrold]]
-
 ## Overview
 
 Mushroom Spore Printing Syringe Preparation Pf Tek represents an important element within sustainable
@@ -121,8 +116,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-spore-syringe-preparation-and-storage]]
+- [[mushroom-spore-syringe-preparation-jarrold]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

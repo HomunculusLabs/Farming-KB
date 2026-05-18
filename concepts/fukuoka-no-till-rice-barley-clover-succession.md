@@ -43,12 +43,6 @@ Fukuoka reduced farming to essentially two activities: sowing seed and
 spreading straw. "Human effort is unnecessary because nature, not man,
 grows the rice and wheat."
 
-## See Also
-
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]
-- [[fukuoka-rice-barley-clover-succession]]
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-
 ## Overview
 
 Fukuoka No Till Rice Barley Clover Succession represents an important element within sustainable
@@ -126,8 +120,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]
+- [[fukuoka-rice-barley-clover-succession]]
+- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

@@ -52,13 +52,6 @@ When applying AACT to calcium-deficient soils:
 - Compost and compost tea provide food resources for mycorrhizal fungi
 - Repeated applications build the biology over time, making calcium amendments increasingly effective
 
-## See Also
-
-- [[ingham-glomalin-biological-soil-glues]]
-- [[mycorrhizal-fungi]]
-- [[dom]]
-- [[fungal-hyphae]]
-
 ## Overview
 
 Ingham Calcium Fungi Relationship represents an important element within sustainable
@@ -136,8 +129,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ingham-glomalin-biological-soil-glues]]
+- [[mycorrhizal-fungi]]
+- [[dom]]
+- [[fungal-hyphae]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

@@ -18,15 +18,6 @@ Kluyveromyces marxianus is the most commonly used yeast for whey treatment due t
 
 See [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], hydraulic retention time, and nutrient supplementation. Pellet-forming fungi can be cultivated in fluidized beds or airlift reactors, but excessive pellet growth leads to hollow pellets with dead cores due to oxygen depletion.
 
-## See Also
-
-- [[mycoremediation-of-textile-dyes]]
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -79,7 +70,13 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[mycoremediation-of-textile-dyes]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[aspergillus-oryzae]]
 - [[ethanol]]
 - [[mycoremediation]]

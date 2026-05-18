@@ -23,9 +23,6 @@ requirements can inhibit or stop the process.
 
 ## Stage I: Preparation
 
-## See Also
-- [[pinhead-initiation-techniques]]
-
 ## Merged: Pinhead Initiation and Fruiting Triggers
 
 # Pinhead Initiation and Fruiting Triggers
@@ -135,8 +132,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pinhead-initiation-techniques]]
 - [[mushroom-inoculation-techniques-stamets]]
 - [[stamets-crop-watering-flushing-management]]
 - [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

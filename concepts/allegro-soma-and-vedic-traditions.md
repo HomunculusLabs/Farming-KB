@@ -37,10 +37,6 @@ R. Gordon Wasson proposed Amanita muscaria as Soma in his 1968 book "Soma: Divin
 
 Allegro's interpretation of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
-## See Also
-- [[allegro-biblical-references-to-mushrooms-and-fungi]]
-- [[rig-veda-soma-hymns-amanita-muscaria]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -68,11 +64,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[amanita-muscaria]]
-- [[mycelium]]
 
 ## Overview
 
@@ -148,3 +139,11 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
+
+
+## See Also
+- [[allegro-biblical-references-to-mushrooms-and-fungi]]
+- [[rig-veda-soma-hymns-amanita-muscaria]]
+- [[det]]
+- [[amanita-muscaria]]
+- [[mycelium]]

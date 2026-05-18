@@ -25,13 +25,6 @@ This subject has relevance across multiple disciplines and applications. Underst
 
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
-## See Also
-- [[mckenna-wasson-fly-agaric-theory-amanita-muscaria-contradictions]]
-- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
-- [[amanita-muscaria]] — The fly agaric mushroom and its role in shamanic traditions
-- syrian rue harmala alkaloids — MAOI-containing plants and their role in Ayahuasca analogs
-- [[shamanism-death-and-rebirth]] — Shamanic practice and the death-rebirth experience
-
 ## Overview
 
 Pinoline Pineal Gland Dmt represents an important element within sustainable
@@ -109,8 +102,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-wasson-fly-agaric-theory-amanita-muscaria-contradictions]]
+- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
+- [[amanita-muscaria]] — The fly agaric mushroom and its role in shamanic traditions
+- syrian rue harmala alkaloids — MAOI-containing plants and their role in Ayahuasca analogs
+- [[shamanism-death-and-rebirth]] — Shamanic practice and the death-rebirth experience
 - [[pineal-gland-dmt-entheogenic-experience]]
 - [[pineal-gland-entheogen]]
 - [[pinoline]]

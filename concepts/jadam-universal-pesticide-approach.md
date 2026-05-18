@@ -48,11 +48,6 @@ The simple lab costs approximately $50 to set up. Results are remarkably consist
 
 For the approximately 10% of pest problems not solved by the universal approach, JADAM offers additional specific options: [[ultra-low-jadam-herb-solution-jhs]] solutions for specific pests, and various combination strategies.
 
-## See Also
-
-- [[jadam-natural-pesticide-jnp]] -- detailed formula
-- [[jadam-natural-pest-control-methods]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -81,7 +76,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[jadam-natural-pesticide-jnp]] -- detailed formula
+- [[jadam-natural-pest-control-methods]]
 - [[composting]]
 - [[jadam-compost-free-approach]]
 - [[jadam-rice-pesticide-program]]

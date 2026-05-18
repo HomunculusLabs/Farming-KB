@@ -18,10 +18,6 @@ type: concept
 
 Tropical regions harbor some of the most diverse [[fungal-endemism-and-biogeography]] that face accelerating habitat loss.
 
-## See Also
-
-- [[biodiversity-fungi-soil-fungal-communities]]
-- [[mollison-designers-forest-garden-layer-canopy-understory]]
 ## Practical Applications
 
 Tropical Fungal Diversity has a range of practical applications that make it relevant to
@@ -91,7 +87,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[biodiversity-fungi-soil-fungal-communities]]
+- [[mollison-designers-forest-garden-layer-canopy-understory]]
 - [[det]]
 - [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]
 - [[fungal-biodiversity-tropical-ecosystems]]

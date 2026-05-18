@@ -21,11 +21,6 @@ updated: 2026-04-18 Formulation of fungi for in situ fungal-bioremediation. Whil
 - Appropriate inoculum density
 - Realistic expectations about degradation rates
 
-## See Also
-
-- [[fungal-immobilization-bioreactor-systems]]
-- fungal-formulation-in-situ-bioremediation
-
 ## Source
 
 Gadd, G.M. (ed.) (2001). *Fungi in Bioremediation*. Cambridge University Press. Chapter 5: Bennett, Connick, Daigle & Wunch, "Formulation of fungi for in situ bioremediation."
@@ -126,8 +121,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-immobilization-bioreactor-systems]]
+- fungal-formulation-in-situ-bioremediation
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

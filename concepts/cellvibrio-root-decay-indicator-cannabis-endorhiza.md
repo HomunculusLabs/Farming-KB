@@ -46,11 +46,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[dom]]
-- [[sour-diesel]]
-- [[pseudomonas]]
-
 ## Overview
 
 Cellvibrio Root Decay Indicator Cannabis Endorhiza represents an important element within sustainable
@@ -128,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[sour-diesel]]
+- [[pseudomonas]]
 - [[cannabis-root-decay-cellvibrio-biomarker-post-harvest]]
 - [[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]
 - [[cellvibrio-and-root-decay-microbiome]]

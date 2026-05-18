@@ -36,11 +36,6 @@ It has been suggested that Geosiphon pyriforme could provide an important model 
 
 The most fundamental distinction lies in the depth of integration. In lichens, the fungal and algal partners remain in close physical contact but each retains its own cell boundaries. In Geosiphon, the cyanobacterial cells are truly internalized -- enclosed within membrane-bound compartments inside the fungal cytoplasm. This makes Geosiphon a genuine endosymbiosis, more analogous to the relationship between a eukaryotic cell and its mitochondria than to a lichen partnership. This distinction is crucial for understanding the evolutionary significance of Geosiphon as a model for the deeper integration seen in [[arbuscular-mycorrhizal-fungi]], where analogous membrane transporters mediate the plant-fungal interface.
 
-## See Also
-
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -68,11 +63,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[lichens]]
-- [[fungal-hyphae]]
 
 ## Overview
 
@@ -148,3 +138,11 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
+
+
+## See Also
+- [[nutrient-movement-through-soil-to-plant-roots]]
+- [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
+- [[dom]]
+- [[lichens]]
+- [[fungal-hyphae]]

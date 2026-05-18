@@ -52,12 +52,6 @@ Survey data must be managed and disseminated effectively:
 
 Comprehensive fungal surveys benefit from integrating multiple methods:
 
-## See Also
-
-- [[doc]]
-- [[decomposition]]
-- [[operational-groups-fungal-survey-design]]
-
 ## Overview
 
 Fungal Survey Design Role Of Volunteers represents an important element within sustainable
@@ -135,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[decomposition]]
+- [[operational-groups-fungal-survey-design]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[plant-fungal-signaling-mycorrhiza]]

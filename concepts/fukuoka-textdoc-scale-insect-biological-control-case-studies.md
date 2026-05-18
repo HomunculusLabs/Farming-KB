@@ -27,9 +27,6 @@ Scale insects have historically been among the most serious pests affecting citr
 
 Three species — the [[query-jadam-vs-korean-natural-farming]].
 
-## See Also
-
-- [[orchard-management]]
 ## Practical Applications
 
 Scale Insect Biological Control Case Studies has a range of practical applications that make it relevant to
@@ -128,8 +125,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[orchard-management]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

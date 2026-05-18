@@ -70,11 +70,6 @@ Holzer mentions stonemeal in several contexts:
 - Complements organic fertilisation by adding mineral components that [[mollison-mulch-materials-sources-and-tropical-application]] to provide diverse nutrients
 - 20cm+ of dry material (straw, hay) provides long-term soil protection
 
-## See Also
-
-- [[holzer-fruit-growing-marginal-climates]]
-- [[holzer-wild-fruit-trees-and-hedges]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -103,11 +98,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[composting]]
-- [[ghb]]
-- [[comparison-kelp-meal-vs-rock-dust]]
-
 ## Practical Considerations
 
 Understanding the practical applications of this
@@ -123,3 +113,11 @@ principles while exploring new methodological approaches.
 Empirical findings continue to refine our understanding
 and suggest promising directions for future investigation
 across multiple disciplines and application domains.
+
+
+## See Also
+- [[holzer-fruit-growing-marginal-climates]]
+- [[holzer-wild-fruit-trees-and-hedges]]
+- [[composting]]
+- [[ghb]]
+- [[comparison-kelp-meal-vs-rock-dust]]

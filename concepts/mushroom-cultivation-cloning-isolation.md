@@ -53,12 +53,6 @@ To transfer mycelium between agar plates: flame-sterilize scalpel, cut a wedge f
 
 Understanding the life cycle aids cultivation: spore (1N, haploid) germinates to primary mycelium, two compatible hyphae mate to form secondary (dikaryotic) mycelium, which grows vegetatively until conditions trigger formation of hyphal knots, then pinheads, then primordia, then mature fruitbodies that release spores.
 
-## See Also
-
-- [[mushroom-cultivation-sterile-technique]]
-- [[mushroom-cultivation-grain-spawn]]
-- [[psilocybin-mushroom-cultivation-basics]]
-
 ## Overview
 
 Mushroom Cultivation Cloning Isolation represents an important element within sustainable
@@ -136,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-grain-spawn]]
+- [[psilocybin-mushroom-cultivation-basics]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

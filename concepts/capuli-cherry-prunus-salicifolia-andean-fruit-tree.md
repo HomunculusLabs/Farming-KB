@@ -30,13 +30,6 @@ The fruit grows in grape-like clusters. Individual cherries resemble European ch
 Capuli Cherry Prunus Salicifolia [[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
 
-## See Also
-
-- [[permaculture-fruit-tree-guide]] — Tropical fruit species for warm climates
-- [[prunus-avium]]
-- [[permaculture]]
-- [[fungal-fruit-tree-diseases]]
-
 ## Overview
 
 Capuli Cherry Prunus Salicifolia Andean Fruit Tree represents an important element within sustainable
@@ -114,8 +107,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-fruit-tree-guide]] — Tropical fruit species for warm climates
+- [[prunus-avium]]
+- [[permaculture]]
+- [[fungal-fruit-tree-diseases]]
 - [[cannabis-strain-chunky-cherry-mawi-deep-chunk-hybrid]]
 - [[cherry-pie-cannabis]]
 - [[lemon-cherry-gelato]]

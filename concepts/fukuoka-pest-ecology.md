@@ -46,10 +46,6 @@ Fukuoka's investigation of pine rot across Japan revealed a chain reaction: soil
 
 This case study demonstrates that pest outbreaks are ecosystem-level failures, not simple pathogen problems. See [[insectary-plants-for-pest-control]].
 
-## See Also
-
-- [[fukuoka-do-nothing-farming-philosophy]] — the philosophical basis for non-intervention
-- [[fukuoka-pest-balance-without-chemicals]]
 ## Practical Considerations
 
 When working with Pest Ecology in Natural Farming, several practical factors should be
@@ -147,4 +143,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[fukuoka-do-nothing-farming-philosophy]] — the philosophical basis for non-intervention
+- [[fukuoka-pest-balance-without-chemicals]]

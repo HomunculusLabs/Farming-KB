@@ -16,9 +16,6 @@ Direct seeding non-cultivation is [[fukuoka-natural-upland-rice-minor-grains]], 
 of [[query-what-is-the-kratky-method-for-growing-cannabis]] grain," but it took
 Fukuoka over thirty years to reach this simplicity.
 
-## See Also
-
-- [[solomon-thinning-spacing-and-direct-seeding]]
 ## Practical Applications
 
 Direct Seeding Non-Cultivation has a range of practical applications that make it relevant to
@@ -88,7 +85,9 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[solomon-thinning-spacing-and-direct-seeding]]
 - [[det]]
 - [[direct-seeding-techniques]]
 - [[comparison-seed-balls-vs-direct-seeding]]

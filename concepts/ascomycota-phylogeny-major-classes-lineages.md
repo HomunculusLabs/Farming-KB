@@ -55,13 +55,6 @@ the goal of accurately reflecting monophyletic clades. The names
 used in current literature represent a composite of formal and
 informal designators. Resolution will require analyses of
 multiple independent loci.
-## See Also
-
-- [[chytrid-phylogeny-zoospore-diversity-basal-fungi]]
-- [[ascomycota]]
-- [[yeast-biology]]
-- [[decomposition]]
-
 ## Overview
 
 Ascomycota Phylogeny Major Classes Lineages represents an important element within sustainable
@@ -139,10 +132,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[ascomycota]]
-- [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
+## See Also
 - [[chytrid-phylogeny-zoospore-diversity-basal-fungi]]
+- [[ascomycota]]
+- [[yeast-biology]]
+- [[decomposition]]
+- [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
 - [[fungal-phylogeny-systematics]]
 - [[kingdom-fungi-phylogeny]]

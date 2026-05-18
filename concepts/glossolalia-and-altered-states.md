@@ -55,12 +55,6 @@ The neural basis of glossolalia in altered states is not well understood, but se
 - McKenna T. (1983/1992) [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
 - Goodman F.D. (1972) Speaking in Tongues: A Cross-Cultural Study of Glossolalia. University of Chicago Press.
 
-## See Also
-
-- [[tryptamine-hallucinogens-and-consciousness]]
-- [[psilocybin-mushrooms]]
-- universal grammar theory
-
 ## Overview
 
 Glossolalia And Altered States represents an important element within sustainable
@@ -138,8 +132,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tryptamine-hallucinogens-and-consciousness]]
+- [[psilocybin-mushrooms]]
+- universal grammar theory
 - [[glossolalia-translinguistic-objects]]
 - [[glossolalia-tryptamine-language]]
 - [[mckenna-glossolalia-and-primal-language-tryptamine-states]]

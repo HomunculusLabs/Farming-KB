@@ -73,11 +73,6 @@ His mythology includes themes of **[[golden-guide-syrian-rue-and-maoi-plants]], 
 
 The cross-cultural consistency provides mutual confirmation. If Soma alone were identified with Amanita muscaria, skepticism would be reasonable. But when Ambrosia independently describes the same substance with the same attributes, and Nectar's etymology encodes the same promise, and Dionysus preserves the same ritual and mythological complex — the identification becomes stronger than any single-culture argument could ever be. The pattern is the evidence.
 
-## See Also
-
-- [[amanita-indo-european-language-family-ancient-world-view]]
-- [[shamanism-death-and-rebirth]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -106,7 +101,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[amanita-indo-european-language-family-ancient-world-view]]
+- [[shamanism-death-and-rebirth]]
 - [[amanita]]
 - [[rig-veda]]
 - [[fly-agaric]]

@@ -35,11 +35,6 @@ Pure strains should be saved as "stock cultures" (slants) in test tubes stored a
 
 For long-term preservation, a thin layer of sterile mineral oil over live mycelium greatly reduces metabolism. In one study (Perrin, 1979), all 30 wood-inhabiting species stored under mineral oil for 27 years produced viable cultures upon reactivation.
 
-## See Also
-
-- mushroom-sectoring-strain-development
-- [[grain-to-grain-transfer]]
-
 ## Genetic Basis of Sectoring
 
 Sectoring on agar plates reflects genetic heterogeneity within the mycelial population. When spores germinate, they produce monokaryons (single-nucleus hyphae) that must find compatible mates to form dikaryons, the fertile state of most basidiomycete fungi. This mating process generates enormous [[growing-gourmet-mycelial-morphology-classification-agar-media]] and sectoring patterns. Temperature variation can induce sectoring in some species, with certain genotypes preferring warmer or cooler incubation temperatures. Light exposure affects morphology in photosensitive species, where continuous light may promote rhizomorphic growth while darkness encourages cottony forms. Atmospheric gas composition, particularly elevated CO2 levels commonly found in sealed culture vessels, can suppress rhizomorphism and promote cottony growth. These environmental variables mean that strain evaluation should be conducted under standardized conditions to ensure fair comparison between candidates.
@@ -135,8 +130,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mushroom-sectoring-strain-development
+- [[grain-to-grain-transfer]]
 - [[cannabis-strain-naming]]
 - [[fukuoka-textdoc-cross-breeding-fungal-strain-mutability]]
 - [[growing-gourmet-spore-germination-strain-isolation]]

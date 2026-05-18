@@ -40,14 +40,6 @@ and prized for gun butts due to resilience.
 
 Large, fast-growing [[chiric-caspi-brunfelsia-south-american-hallucinogen]] germplasm.
 
-## See Also
-
-- [Food Forestry](/wiki/concepts/food-forestry)
-- [Agroforestry Systems](/wiki/concepts/agroforestry-systems)
-- [[nut-tree-cultivation-for-permaculture-food-forests]](/wiki/concepts/nut-tree-cultivation)
-- [Temperate Timber Species](/wiki/concepts/temperate-timber-species)
-- [[permaculture-plant-propagation-methods]](/wiki/concepts/plant-propagation-methods)
-
 ## Overview
 
 Permaculture Walnut Species Timber Nut Production represents an important element within sustainable
@@ -125,8 +117,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [Food Forestry](/wiki/concepts/food-forestry)
+- [Agroforestry Systems](/wiki/concepts/agroforestry-systems)
+- [[nut-tree-cultivation-for-permaculture-food-forests]](/wiki/concepts/nut-tree-cultivation)
+- [Temperate Timber Species](/wiki/concepts/temperate-timber-species)
+- [[permaculture-plant-propagation-methods]](/wiki/concepts/plant-propagation-methods)
 - [[holzer-permaculture-landscape-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-methods-summary]]

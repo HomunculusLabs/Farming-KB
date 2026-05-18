@@ -62,11 +62,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[permaculture]]
-- [[mckenna-women-gatherers-and-evolution-of-language]]
-- [[entheogens-and-cultural-evolution]]
-
 ## Overview
 
 Holmgren Genetic Engineering And Evolution represents an important element within sustainable
@@ -144,7 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture]]
+- [[mckenna-women-gatherers-and-evolution-of-language]]
+- [[entheogens-and-cultural-evolution]]
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]
 - [[holmgren-built-environment-household-energy-storage]]

@@ -37,16 +37,6 @@ blocks, selecting different vines for different oak trees. These
 require no establishment work, only tuning. Hard animals and pioneer
 forage species prepare the site for larger tree species to follow.
 
-## See Also
-
-- mollison-designers [[mollison-geese-grass-control-and-integrated-poultry]] Forage Systems and Zone Two Animal Design requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
 ## Future Directions
 
 Continued development in this area promises new insights and
@@ -79,7 +69,15 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- mollison-designers [[mollison-geese-grass-control-and-integrated-poultry]] Forage Systems and Zone Two Animal Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 - [[psilocybin]]
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
 - [[mollison-pdc-poultry-forage-systems]]

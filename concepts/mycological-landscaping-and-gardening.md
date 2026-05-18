@@ -18,15 +18,6 @@ Mycorestoration practices can be implemented at the garden scale through "mycoga
 - **Woodlovers** (Hypholoma species): colonize wood chips in pathways and garden borders. [[stamets-reishi-ganoderma-lucidum-cultivation]]): for medicinal landscapes, reishi can be cultivated on stumps and buried logs. See [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] like reishi on stumps near the house; small oyster mushroom buckets for kitchen waste decomposition.
 - **Zone 2** (home garden): garden giant beds in pathways and between garden rows; [[mycorestoration-ecology]].
 
-## See Also
-
-- mushroom-trails-and-mycological-landscaping
-
-- mushroom-cultivation-for-gardeners -- cultivation techniques
-- [[growing-gourmet-substrate-materials-wood-types]]
-- [[outdoor-mushroom-bed]] -- outdoor bed techniques
-- [[permaculture-zones-and-sectors]] -- permaculture integration
-
 ## Related
 
 - fungal-chromogens-and-color-change
@@ -126,8 +117,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mushroom-trails-and-mycological-landscaping
+- mushroom-cultivation-for-gardeners -- cultivation techniques
+- [[growing-gourmet-substrate-materials-wood-types]]
+- [[outdoor-mushroom-bed]] -- outdoor bed techniques
+- [[permaculture-zones-and-sectors]] -- permaculture integration
 - [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
 - [[mycological-dark-taxa]]
 - [[mycological-permaculture-integration]]

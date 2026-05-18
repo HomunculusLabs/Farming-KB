@@ -60,11 +60,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[doc]]
-- [[decomposition]]
-- [[comparison-raised-beds-vs-hugelkultur]]
-
 ## Overview
 
 Hugelkultur Beds represents an important element within sustainable
@@ -142,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[decomposition]]
+- [[comparison-raised-beds-vs-hugelkultur]]
 - [[comparison-hugelkultur-vs-terra-preta-soil-building]]
 - [[gaias-garden-hugelkultur]]
 - [[hugelkultur-permaculture]]

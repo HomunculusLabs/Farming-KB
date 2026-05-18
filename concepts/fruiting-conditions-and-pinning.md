@@ -31,13 +31,6 @@ should be avoided. Oyster mushrooms are highly phototropic and bend
 toward light. Insufficient light produces pale, spindly mushrooms with
 poor cap development and reduced yields.
 
-## See Also
-
-- [[fruiting-conditions-and-harvesting]]
-- [[fruiting-conditions]]
-- [[spore-dispersal]]
-- [[spore]]
-
 ## Overview
 
 Fruiting Conditions And Pinning represents an important element within sustainable
@@ -115,9 +108,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fruiting-conditions-and-harvesting]]
 - [[fruiting-conditions]]
+- [[spore-dispersal]]
+- [[spore]]
 - [[fruiting-environment-parameters]]
 - [[humidity-chamber-aquarium-mushroom-fruiting]]
 - [[hydro-pellet-fish-tank-humidity-chamber-mushroom-fruiting]]

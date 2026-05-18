@@ -27,11 +27,6 @@ The Swiss program distinguished between two approaches:
 - Maximizing the emergence of transpersonal states of consciousness
 - Often resembled [[psilocybe-cubensis-potency-variation-by-flush]] had already introduced her to mystical experiences. For her second journey, she used 20 [[early-paris-psilocybin-research-1960s]] in the 21st century.
 
-## See Also
-
-- [[timothy-leary-harvard-psilocybin-experiments]] -- Earlier American research
-- psychedelic assisted therapy protocol -- Modern protocols
-
 ## Overview
 
 Swiss Psycholytic Therapy 1988 1993 represents an important element within sustainable
@@ -109,8 +104,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[timothy-leary-harvard-psilocybin-experiments]] -- Earlier American research
+- psychedelic assisted therapy protocol -- Modern protocols
 - [[european-psycholytic-therapy-1960s-1970s]]
 - [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]]
 - [[metzner-sandoz-psycholytic-therapy-european-clinical-model]]

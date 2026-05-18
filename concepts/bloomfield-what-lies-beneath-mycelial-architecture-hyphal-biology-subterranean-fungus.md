@@ -61,11 +61,6 @@ varies enormously, from highly generalist fungi that associate with
 hundreds of plant species to highly specialist fungi that associate
 with only one.
 
-## See Also
-
-- [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
-- [[bloomfield-mushroom-formation-hyphal-construction-no-meristems]]
-
 ## Overview
 
 Bloomfield What Lies Beneath Mycelial Architecture Hyphal Biology Subterranean Fungus represents an important element within sustainable
@@ -143,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
+- [[bloomfield-mushroom-formation-hyphal-construction-no-meristems]]
 - [[bloomfield-amatoxin-poisoning-mechanism]]
 - [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
 - [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]

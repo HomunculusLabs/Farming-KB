@@ -29,13 +29,6 @@ vegetation, creating a rich planting bed without digging. See
 can meaningfully [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] are excellent soil amendments that
   introduce beneficial microorganisms quickly
 
-## See Also
-
-- [[hugelkultur]]
-- [[soil-life]]
-- [[det]]
-- [[hugelkultur]]
-
 ## Overview
 
 Building Soil represents an important element within sustainable
@@ -113,8 +106,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hugelkultur]]
+- [[soil-life]]
+- [[det]]
 - [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]
 - [[fungal-building-material-deterioration]]
 - [[mollison-designers-straw-bale-building-techniques]]

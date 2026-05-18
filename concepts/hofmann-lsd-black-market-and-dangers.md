@@ -60,13 +60,6 @@ such amenity has a substantial influence on the course of the experiment.
 
 ## Medical Supervision
 
-## See Also
-- [[dmt-black-hole-effect-and-shamanic-practice]]
-- [[black-locust-entity]]
-- [[lsd]]
-- [[det]]
-- [[permaculture]]
-
 ## Overview
 
 Hofmann Lsd Black Market And Dangers represents an important element within sustainable
@@ -144,7 +137,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dmt-black-hole-effect-and-shamanic-practice]]
+- [[black-locust-entity]]
+- [[lsd]]
+- [[det]]
+- [[permaculture]]
 - [[hofmann-leary-case-and-harvard-research]]
 - [[hofmann-lsd-mazatec-and-psilocybin]]

@@ -56,12 +56,6 @@ The concept of kapukiri bears resemblance to other indigenous frameworks for und
 
 Kapukiri occupies a unique position at the intersection of ecology, spirituality, and medicine in Amazonian thought. It represents an indigenous framework for understanding environmental health—one in which human well-being is inseparable from the health of the forest ecosystem and the moral relationships maintained between humans and the more-than-human world. The concept encodes practical ecological knowledge (certain decomposing plant materials can indeed produce toxic compounds), behavioral norms for forest interaction, and a sophisticated diagnostic system that links specific environmental exposures to characteristic symptom patterns.
 
-## See Also
-
-- [[icaros-in-ayahuasca-ceremony]] — healing songs of the vegetalistas
-- [[ayahuasca-plant-spirits]] — Amazonian vegetalista spirit ecology
-- [[kava-traditional-preparation-ceremonial-context]]
-
 ## Overview
 
 Kapukiri And Environmental Illness represents an important element within sustainable
@@ -139,8 +133,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[icaros-in-ayahuasca-ceremony]] — healing songs of the vegetalistas
+- [[ayahuasca-plant-spirits]] — Amazonian vegetalista spirit ecology
+- [[kava-traditional-preparation-ceremonial-context]]
 - [[environmental-dna-fungal-survey]]
 - [[kapukiri]]
 - [[kapukiri-pathogenic-forest-vapors]]

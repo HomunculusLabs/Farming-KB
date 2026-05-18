@@ -43,18 +43,6 @@ The modern gourmet mushroom industry, now worth billions of dollars globally, ha
 
 Paul Stamets' own work, including Growing Gourmet and Medicinal Mushrooms (1993) and later Mycelium Running (2005), represents a continuation of the tradition established by Wasson, Heim, and Hofmann, bridging the gap between ancient cultural knowledge and modern ecological science. The vision of a "mycotopian" future, where fungi are recognized as essential partners in human civilization, connects directly to the deep historical relationship between mushrooms and human culture documented by ethnomycologists.
 
-## See Also
-
-- ethnomycology history mushrooms human civilization - Broader ethnomycology
-- wasson soma divine mushroom immortality - Soma hypothesis in detail
-- eleusinian mysteries psychoactive fungi - Eleusinian mysteries
-- tassili cave mushroom art paleolithic - Tassili cave paintings
-- iceman birch polypore piptoporus - The Iceman's mushrooms
-- medicinal mushrooms ancient traditions - Historical medicinal use
-- psychedelic mushrooms cultural significance - Psychoactive fungi in culture
-- mycophobic mycophilic cultures comparison - Cultural attitudes toward fungi
-- amanita muscaria fly agaric cultural impact - Fly Agaric in history
-
 ## Overview
 
 Stamets Mushrooms Civilization History Ethnomycology represents an important element within sustainable
@@ -132,8 +120,17 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- ethnomycology history mushrooms human civilization - Broader ethnomycology
+- wasson soma divine mushroom immortality - Soma hypothesis in detail
+- eleusinian mysteries psychoactive fungi - Eleusinian mysteries
+- tassili cave mushroom art paleolithic - Tassili cave paintings
+- iceman birch polypore piptoporus - The Iceman's mushrooms
+- medicinal mushrooms ancient traditions - Historical medicinal use
+- psychedelic mushrooms cultural significance - Psychoactive fungi in culture
+- mycophobic mycophilic cultures comparison - Cultural attitudes toward fungi
+- amanita muscaria fly agaric cultural impact - Fly Agaric in history
 - [[mushroom-inoculation-techniques-stamets]]
 - [[stamets-crop-watering-flushing-management]]
 - [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

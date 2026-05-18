@@ -16,10 +16,6 @@ In *The Road Back to Nature*, [[fukuoka-natural-foods-movement-america]]" being 
 
 See also: [[fukuoka-disappearance-natural-diet]]
 
-## See Also
-
-[[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-new-age]]
-
 ## Practical Applications
 
 The principles outlined on this page connect directly to hands-on work in gardens,
@@ -56,11 +52,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[permaculture]]
-- [[fukuoka-road-natural-diet-health]]
-- [[fukuoka-natural-diet-tasty-rice-seasonal-eating]]
 
 ## Overview
 
@@ -139,8 +130,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-new-age]]
+- [[permaculture]]
+- [[fukuoka-road-natural-diet-health]]
+- [[fukuoka-natural-diet-tasty-rice-seasonal-eating]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

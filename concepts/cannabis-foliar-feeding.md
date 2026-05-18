@@ -46,13 +46,6 @@ Reduce [[cervantes-foliar-feeding]]
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[comparison-foliar-feeding-vs-vermicompost-tea]]
-- [[teaming-with-nutrients-foliar-feeding-and-absorption]]
-- [[foliar-feeding]]
-- [[spore]]
-- [[query-how-does-foliar-feeding-work-for-cannabis]]
-
 ## Overview
 
 Cannabis Foliar Feeding represents an important element within sustainable
@@ -130,8 +123,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[comparison-foliar-feeding-vs-vermicompost-tea]]
+- [[teaming-with-nutrients-foliar-feeding-and-absorption]]
+- [[foliar-feeding]]
+- [[spore]]
+- [[query-how-does-foliar-feeding-work-for-cannabis]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

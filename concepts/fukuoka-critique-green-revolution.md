@@ -32,11 +32,6 @@ Fukuoka acknowledged that the Green Revolution increased yields but argued this 
 
 Fukuoka's contribution is distinctive in going beyond political or scientific critique to challenge the very epistemology that makes the Green Revolution seem necessary -- the belief that human knowledge can improve upon natural systems.
 
-## See Also
-
-- [[fukuoka-four-principles-natural-farming]]
-
-- [[fukuoka-hybrid-rice-international-drama]]
 ## Practical Considerations
 
 Successful implementation of Fukuoka's Critique of the Green Revolution requires attention to
@@ -84,7 +79,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fukuoka-four-principles-natural-farming]]
+- [[fukuoka-hybrid-rice-international-drama]]
 - [[fukuoka-green-revolution-africa-desert-reclamation]]
 - [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 - [[fukuoka-seeding-real-green-revolution]]

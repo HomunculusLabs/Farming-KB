@@ -11,9 +11,6 @@ While some growers use raw or pasteurized casing soil, the referenced source rec
 ### Rationale for Sterilization
 The authors note that they have had "only bad experiences with untreated or pasteurised [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] mexicana, P. tampanensis, [[disposable-tray-casing-method-grass-seed-substrate]]." Mycological Research Notes.
 - Fritsche, G. (1978). "Casing soil." Mushroom Science, 10(1), 631–639.
-## See Also
-
-- oven-bag-casing-soil-sterilization
 ## Practical Considerations
 
 When working with Casing Soil Mushroom Cultivation, several practical factors should be
@@ -111,8 +108,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- oven-bag-casing-soil-sterilization
 - [[casing-mushroom-cultivation]]
 - [[casing-soil-preparation]]
 - [[casing-soil-preparation-mushroom-cultivation]]

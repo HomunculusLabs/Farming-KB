@@ -37,11 +37,6 @@ Key observations:
 
 Bigwood and Beug's data demonstrates that flush number significantly affects the **qualitative** alkaloid profile (psilocin presence) even when the **quantitative** psilocybin level is similar:
 
-## See Also
-
-- [[psilocybin-psilocin-tissue-distribution]]
-- [[psilocybin-psilocin-variation-flushes-cubensis]]
-
 ## Overview
 
 Psilocybin Psilocin Biosynthetic Timing First Flush Absence represents an important element within sustainable
@@ -119,8 +114,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin-psilocin-tissue-distribution]]
+- [[psilocybin-psilocin-variation-flushes-cubensis]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

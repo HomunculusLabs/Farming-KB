@@ -53,11 +53,6 @@ The discovery that LSD could model psychotic states in otherwise
 healthy individuals revolutionized psychiatric research and contributed
 to the development of serotonin receptor theory in neuroscience.
 
-## See Also
-
-- [[schultes-peyote-tracks-little-deer]] for mescaline-containing
-  cacti used in ceremonial contexts
-
 ## Overview
 
 Schultes Ergot St Anthonys Fire represents an important element within sustainable
@@ -135,8 +130,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[schultes-peyote-tracks-little-deer]] for mescaline-containing
+  cacti used in ceremonial contexts
 - [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]
 - [[richard-evans-schultes]]
 - [[schultes-mimosa-jurema-dmt-brazil]]

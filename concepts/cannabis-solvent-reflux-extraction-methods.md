@@ -10,9 +10,6 @@ sources: []
 
 Solvent reflux extraction is the foundational technique described in "[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] from plant material. The soxhlet extraction apparatus enables continuous, automated solvent cycling through the cannabis, achieving high [[cannabis-indoor-growing-basics]]
 
-## See Also
-
-- [[cannabis-reflux-extraction-apparatus]]
 ## Practical Applications
 
 Cannabis Solvent Reflux Extraction Methods has a range of practical applications that make it relevant to
@@ -92,7 +89,9 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[cannabis-reflux-extraction-apparatus]]
 - [[soxhlet-extraction]]
 - [[det]]
 - [[neem]]

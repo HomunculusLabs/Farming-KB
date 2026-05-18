@@ -28,13 +28,6 @@ The [[holzer-ancient-cereals-growing|ancient cereals]] demonstrate the [[holzer-
 [[holzer-polycultures-catch-crop-combinations|Polyculture systems]] provide resilience against weather extremes, pests, and disease.
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
 
-## See Also
-- [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-microclimates-permaculture]], [[holzer-terrace-construction-guide]], [[hugelkultur-bed-construction-detailed]], [[mollison-designers-microclimate-creation-frost-protection]].
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
-[[permaculture-quinoa-growing-guide]] varieties selected for mountain conditions show superior resilience and [[sepp-holzer]]
-- [[det]]
-- [[swale]]
-
 ## Overview
 
 Holzer Experiences Soil Test Areas represents an important element within sustainable
@@ -112,8 +105,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-microclimates-permaculture]], [[holzer-terrace-construction-guide]], [[hugelkultur-bed-construction-detailed]], [[mollison-designers-microclimate-creation-frost-protection]].
+Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
+[[permaculture-quinoa-growing-guide]] varieties selected for mountain conditions show superior resilience and [[sepp-holzer]]
+- [[det]]
+- [[swale]]
 - [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
 - [[holzer-medicinal-and-culinary-herbs-compendium]]
 - [[holzer-permaculture-landscape-design]]

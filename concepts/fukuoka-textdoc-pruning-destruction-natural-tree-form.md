@@ -24,11 +24,6 @@ Fukuoka argues that pruning is one of the most destructive practices
 in modern [[ingham-natural-growth-regulators-soil-microbes]] processes of
 their trees.
 
-## See Also
-
-- [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]] for
-[[fukuoka-textdoc-three-ways-farming-compared]] for the broader
-framework of intervention versus non-intervention
 ## Practical Applications
 
 Pruning as Destruction of Natural Tree Form has a range of practical applications that make it relevant to
@@ -87,7 +82,11 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]] for
+[[fukuoka-textdoc-three-ways-farming-compared]] for the broader
+framework of intervention versus non-intervention
 - [[dom]]
 - [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 - [[fukuoka-textdoc-attaining-natural-form-fruit-trees]]

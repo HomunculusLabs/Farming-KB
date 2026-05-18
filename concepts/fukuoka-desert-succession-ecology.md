@@ -22,11 +22,6 @@ When succession is allowed to proceed naturally, the eventual outcome is a self-
 
 Fukuoka connected this vision to his broader philosophy: "Reviving the earth, halting the growth of deserts, conserving the environment all can be achieved not by doing something, but by seizing an opportunity for returning to nature that requires nothing to be done."
 
-## See Also
-
-- [[natural-farming-desert-reclamation]]
-
-- [[fukuoka-soil-building-method]]
 ## Practical Considerations
 
 When working with Fukuoka's Desert Succession Ecology, several practical factors should be
@@ -124,8 +119,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[natural-farming-desert-reclamation]]
+- [[fukuoka-soil-building-method]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

@@ -46,11 +46,6 @@ healing. Various species of Datura were employed rather widely in
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[plants-of-the-gods-trichocereus-san-pedro-chemistry]]
-- [[plants-of-the-gods-mushroom-stone-artifacts]]
-- [[plants-gods-nicotiana]]
-
 ## Overview
 
 Plants Gods Datura Solanaceous represents an important element within sustainable
@@ -128,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[plants-of-the-gods-trichocereus-san-pedro-chemistry]]
+- [[plants-of-the-gods-mushroom-stone-artifacts]]
+- [[plants-gods-nicotiana]]
 - [[hamilton-garden-ponds-and-aquatic-plants]]
 - [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
 - [[permaculture-plants-aquatic-systems-water-plants]]

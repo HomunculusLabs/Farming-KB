@@ -34,11 +34,6 @@ should be integrated with the house design from the outset.
 ## Economic Considerations
 For growers in developing countries, the growing house represents a
 
-## See Also
-
-- [[low-island-coral-cay-strategies]]
-- [[low-island-coral-cay-strategies]]
-
 ## Overview
 
 Low Cost Mushroom Growing House Construction Developing Countries represents an important element within sustainable
@@ -116,8 +111,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[low-island-coral-cay-strategies]]
 - [[cervantes-electricity-consumption-cost-management]]
 - [[fukuoka-livestock-energy-inefficiency-caloric-cost]]
 - [[mushroom-training-cost-profit-analysis]]

@@ -50,11 +50,6 @@ Calcium acts as a long-term pH buffer. Limed and mulched gardens rarely show pla
 - Lucas, R.E. and J.F. Davis, "Relationships between pH values of organic soils and availability of 12 plant nutrients", *Soil Science*, 192:17-182 (1961).
 - Mollison, B., *Permaculture: A Designer's Manual*, Chapter 8.9.
 
-## See Also
-
-- [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]
-- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
-
 ## Overview
 
 Soil Ph And Nutrient Availability represents an important element within sustainable
@@ -132,8 +127,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
 - [[cool-temperate-soil-characteristics]]
 - [[jeavons-soil-ph-testing-balancing]]
 - [[lowenfels-tilling-no-till-soil-health]]

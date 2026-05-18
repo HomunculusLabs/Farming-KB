@@ -43,10 +43,6 @@ About three years to edible size, prefer warm temperatures, often used to feed b
 - Check spillway for blockages after storms
 - Dredge muck from prawn areas periodically — use as compost or mulch for seedlings
 
-## See Also
-
-- [[aquaponics]] — fish and aquatic systems
-- [[earthworks-for-water-management]]
 ## Practical Considerations
 
 Successful implementation of Pond Design and Construction requires attention to
@@ -143,8 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[aquaponics]] — fish and aquatic systems
+- [[earthworks-for-water-management]]
 - [[amphibians-and-pond-ecology]]
 - [[fukuoka-heart-shaped-garden-pond-technique]]
 - [[pond-maintenance-and-troubleshooting]]

@@ -52,14 +52,6 @@ Molecular sequence approaches are increasingly used for:
 - Detecting unculturable endophytes
 - Assessing genetic diversity within populations
 
-## See Also
-
-- fungal-culture-preservation-methods
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
-- [[det]]
-- [[brassinosteroid]]
-- [[sterilization]]
-
 ## Overview
 
 Endophyte Sampling Methods represents an important element within sustainable
@@ -137,8 +129,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- fungal-culture-preservation-methods
+- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
+- [[det]]
+- [[brassinosteroid]]
+- [[sterilization]]
 - [[bacterial-endophyte-isolation-detection-plant-roots]]
 - [[endophyte-isolation-techniques]]
 - [[endorhiza-endophyte-bacteria-plant-roots]]

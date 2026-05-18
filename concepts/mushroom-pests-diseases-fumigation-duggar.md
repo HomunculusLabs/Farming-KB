@@ -63,9 +63,6 @@ sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 - Open all windows, ventilators, and doors from outside
 - Let house air and dry out
 - WARNING: Keep lighted lamps away — liquid formalin is non-explosive but the gas in confined state is explosive
-## See Also
-- [[sterilization]]
-
 ## Overview
 
 Mushroom Pests Diseases Fumigation Duggar represents an important element within sustainable
@@ -143,8 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[sterilization]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

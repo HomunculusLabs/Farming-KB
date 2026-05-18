@@ -43,13 +43,6 @@ with nine distinct names, barbecued its edible eggs, and poetically
 described the expanded [[forest-ecology-basics]] is
 entirely disproportionate to its brief appearance.
 
-## See Also
-
-- Decomposition [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
-- Fungal reproductive strategies and [[fungal-spore-dispersal-mechanisms]]
-- Cultural entanglements between fungi and human sexuality
-- Biomimicry: polyhedral geometry in biology and engineering
-
 ## Overview
 
 Mr Bloomfields Orchard Stinkhorn Fungi And Spore Dispersal represents an important element within sustainable
@@ -127,8 +120,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- Decomposition [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
+- Fungal reproductive strategies and [[fungal-spore-dispersal-mechanisms]]
+- Cultural entanglements between fungi and human sexuality
+- Biomimicry: polyhedral geometry in biology and engineering
 - [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
 - [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]
 - [[bloomfields-orchard-spore-discharge-mechanisms]]

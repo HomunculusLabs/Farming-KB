@@ -110,14 +110,13 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
+
 ## See Also
 - [[free-range-poultry-forage-systems-design]]
 - [[mollison-designers-free-range-forage-design-principles]]
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
 - [[bee-forage-and-range-design]]
 - [[free-range-forage-systems]]
-
-## See Also
 - [[gleditsia-triacanthos]]
 - [[galium-aparine]]
 - [[plantago-major]]

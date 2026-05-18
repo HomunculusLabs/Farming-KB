@@ -55,12 +55,6 @@ Species with strong mycelial networks and rapid colonization are preferred:
 
 While Mycelium Running discusses the structural role of mycelium in nature -- binding soil, creating aggregates, and forming mats that resist erosion -- the commercial development of mycelium composites extends these natural properties into manufactured materials. The concept draws directly from observations of how mycelium binds wood chips into coherent masses in mycofiltration installations and how fungal mycelium creates durable structures in nature.
 
-## See Also
-
-- [[cotter-mycoremediation-overview]]
-- [[mushroom-substrates]]
-- [[fungal-ecology-decomposition-cycles]]
-
 ## Overview
 
 Mycelium Composites Materials represents an important element within sustainable
@@ -138,8 +132,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cotter-mycoremediation-overview]]
+- [[mushroom-substrates]]
+- [[fungal-ecology-decomposition-cycles]]
 - [[growing-gourmet-iconic-types-mushroom-mycelium]]
 - [[mycelium-digestive-membrane-information-network]]
 - [[mycelium-running-insect-fungal-mutualism]]

@@ -35,11 +35,6 @@ Korea has practiced organic farming for approximately 4,300 years (since the fou
 
 Franklin Hiram King, chief of the US Division of Soil Management, visited China, Korea, and Japan in 1909 and documented their permanent agriculture systems. He recognized these Asian nations as the true founders of organic farming and criticized European and American methods for destroying soil in less than 100 years.
 
-## See Also
-
-- [[jadam-monoculture-critique]] -- nature's answer to monoculture
-- [[jadam-cover-crop-method]] -- working with natural vegetation cycles
-
 ## Related
 
 - [[doc]]
@@ -123,8 +118,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[jadam-monoculture-critique]] -- nature's answer to monoculture
+- [[jadam-cover-crop-method]] -- working with natural vegetation cycles
 - [[jadam-herb-solution-jhs]]
 - [[jadam-natural-mineral-water]]
 - [[jadam-potassium-fertilizer]]

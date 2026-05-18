@@ -56,13 +56,6 @@ Aact Fungal Dominant Tea has significant applications in sustainable agriculture
 ## Historical Significance
 The development and understanding of aact fungal dominant tea has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
-## See Also
-- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
-- [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]]
-- [[fungal-hyphae]]
-- [[trichoderma]]
-- [[mycorrhiza]]
-
 ## Overview
 
 Aact Fungal Dominant Tea represents an important element within sustainable
@@ -140,8 +133,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
+- [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]]
+- [[fungal-hyphae]]
+- [[trichoderma]]
+- [[mycorrhiza]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

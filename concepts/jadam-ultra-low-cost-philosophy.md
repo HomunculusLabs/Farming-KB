@@ -49,10 +49,6 @@ pesticides. See [[jadam-do-as-nature-does-philosophy]]
 
 - [[ultra-low-cost-tools-equipment]]
 
-## See Also
-
-- [[jadam-rejection-of-sugar-molasses]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -81,7 +77,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[jadam-rejection-of-sugar-molasses]]
 - [[youngsang-cho]]
 - [[jadam-ultra-low-cost-agriculture]]
 - [[jadam-ultra-low-cost-methods]]

@@ -54,11 +54,6 @@ The species' expansion across the Pacific Northwest represents a notable case st
 | Fruiting season | Year-round | Fall | Fall | Fall |
 | Regional usage rank | 2nd | 1st | 3rd | Less common |
 
-## See Also
-
-- [[psilocybe-pelliculosa-profile]] -- Wood-inhabiting lookalike
-- [[psilocybin-north-america-pacific-northwest]] -- Regional overview
-
 ## Overview
 
 Psilocybe Stuntzii Profile represents an important element within sustainable
@@ -136,8 +131,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybe-pelliculosa-profile]] -- Wood-inhabiting lookalike
+- [[psilocybin-north-america-pacific-northwest]] -- Regional overview
 - [[grass-seed-cultivation-of-psilocybe-species]]
 - [[psilocybe-fascicata]]
 - [[psilocybe-plutonia]]

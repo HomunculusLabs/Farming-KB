@@ -56,14 +56,6 @@ At Tumbarumba, New South Wales, Neil Dauce and Jason Alexandra reduce forest fue
 - **Use thorny plants strategically**: Blackberry-apple and Lycium-hops guilds turn pest plants into protective nurseries
 - **Leverage forest structures**: Stumps, fallen logs, and canopy gaps create protected niches for understory crops
 - ** Coppice for diversity**: Willow coppice yields basketry, charcoal, rooting hormone, forage, and fuel from the same plants
-## See also
-
-- [[homesteading-livestock-comparison]]
-- [[coleman-cool-greenhouse-vs-cold-greenhouse-temperature-comparison]]
-- [[cool-temperate-soil-characteristics]]
-- [[perennialising-annual-vegetables-cool-climate-mollison]]
-- [[solomon-cool-climate-compost-soil-temperature-nutrient-release]]
-
 ## Overview
 
 Cool Temperate Forage Systems And Small Livestock represents an important element within sustainable
@@ -141,8 +133,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[homesteading-livestock-comparison]]
+- [[coleman-cool-greenhouse-vs-cold-greenhouse-temperature-comparison]]
+- [[cool-temperate-soil-characteristics]]
+- [[perennialising-annual-vegetables-cool-climate-mollison]]
+- [[solomon-cool-climate-compost-soil-temperature-nutrient-release]]
 - [[cool-climate-glasshouse-orchard-design]]
 - [[cool-climate-house-and-settlement-design]]
 - [[humid-cool-climate-characteristics-mollison]]

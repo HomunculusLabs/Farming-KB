@@ -32,11 +32,6 @@ Viability varies: onions (1-2 years), beans/peas (3-5 years), some brassicas (5+
 
 Jeavons recommends dedicating approximately 5-10% of garden space to seed production. The approach is iterative: each generation, you select the best plants, save their seeds, and gradually improve the variety for your specific conditions. Over 5-10 generations, locally adapted seeds significantly outperform their commercially sourced ancestors.
 
-## See Also
-
-- [[2c-d-pihkal-entry-23]]
-- [[seasonal-gardening-calendar]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -64,11 +59,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[permaculture]]
-- [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
-- [[vegetable-seed-saving-and-germination]]
 
 ## Overview
 
@@ -147,4 +137,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[2c-d-pihkal-entry-23]]
+- [[seasonal-gardening-calendar]]
+- [[permaculture]]
+- [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
+- [[vegetable-seed-saving-and-germination]]

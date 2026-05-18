@@ -33,14 +33,6 @@ The receptor binding data suggest:
 5. **Patient selection** -- individuals with very low immunity may be less likely to benefit from beta-glucan therapy, as a minimally functional immune system is required as a foundation
 6. **HLA factors** -- genetic factors such as HLA B40 may predict response to specific mushroom polysaccharides
 
-## See Also
-
-- [[turkey-tail-research-psk]]
-- [[lentinan-clinical-research]]
-- [[doc]]
-- [[lentinan]]
-- [[grifron-d-maitake-beta-glucan]]
-
 ## Overview
 
 Beta Glucan Receptor Binding represents an important element within sustainable
@@ -118,8 +110,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[turkey-tail-research-psk]]
+- [[lentinan-clinical-research]]
+- [[doc]]
+- [[lentinan]]
+- [[grifron-d-maitake-beta-glucan]]
 - [[beta-caryophyllene]]
 - [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]]
 - [[cancer-beta-glucan-pharmacology]]

@@ -41,13 +41,6 @@ Habitat nooks require minimal maintenance:
 - **Native plantings:** Provide food and shelter for beneficial insects; native plants support 10-50x more insect species than ornamentals
 - **Perimeter hedgerows:** Create corridors connecting wildlife habitat areas
 
-## See Also
-
-- [[backyard-pond-building]]
-- [[permaculture]]
-- [[query-how-do-i-design-habitat-for-beneficial-insects]]
-- [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
-
 ## Overview
 
 Habitat Nooks For Garden Wildlife represents an important element within sustainable
@@ -125,8 +118,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[backyard-pond-building]]
+- [[permaculture]]
+- [[query-how-do-i-design-habitat-for-beneficial-insects]]
+- [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
 - [[european-truffles-species-habitat-and-distribution]]
 - [[hemenway-backyard-wildlife-habitat]]
 - [[insectary-plants-and-beneficial-insect-habitat-design]]

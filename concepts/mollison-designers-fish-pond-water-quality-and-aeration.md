@@ -88,11 +88,9 @@ for most fish are pH 3.7 (acid) and 10.5 (alkaline).
 Ponds in areas of peats, mangroves, cordgrass flats,
 samphires, and with water derived from heaths and
 
+
 ## See Also
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-
-## See Also
-
 - [[mollison-designers-termite-and-ant-mound-niche-gardening]]
 - [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
 - [[humus-soil-amendment-mollison]]

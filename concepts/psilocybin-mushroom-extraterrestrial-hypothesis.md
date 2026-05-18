@@ -21,10 +21,6 @@ The extraterrestrial hypothesis for [[aquatic-fungi-spore-dispersal-ingold]]. Fi
 
 This mythological framework places the suppression and rediscovery of the mushroom within a larger narrative of cosmic forces, suggesting that the mushroom represents a primordial consciousness that has been alternately embraced and rejected by human cultures throughout history.
 
-## See Also
-
-- [[psilocybin-mushroom-identification]]
-- psilocybin-mushrooms-north-america-distribution
 ## Practical Considerations
 
 Successful implementation of Psilocybin Mushroom Extraterrestrial Hypothesis requires attention to
@@ -121,8 +117,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin-mushroom-identification]]
+- psilocybin-mushrooms-north-america-distribution
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

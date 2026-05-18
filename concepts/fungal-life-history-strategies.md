@@ -87,14 +87,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[fungal-ecology]]
 - [[saprotrophic-fungi]]
 - [[mycelial-networks]]
 - [[mycorrhizal-fungi]]
 - [[fungal-saprotrophic-enzymatic-strategies]]
-## See Also
-
 - [[fungal-hyphal-structure-resource-exploitation]]
 - [[fungal-ecosystem-services]]
 - [[saprotrophic-decomposition]]

@@ -101,13 +101,10 @@ For permaculture designers, the complexity principle suggests:
 - **Introduce unique species** when they fill functions unavailable from common species
 - **Think in terms of webs and cycles**, not hierarchies
 
-## See Also
 
+## See Also
 - [[niche-in-space-and-time]] — how species partition ecological resources
 - [[permaculture-design-framework]] — overall design philosophy
-
-## See Also
-
 - [[fukuoka-soil-microbe-fertilizer-complexity]]
 - [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
 - [[fukuoka-human-knowledge-limits-ecosystem-complexity]]

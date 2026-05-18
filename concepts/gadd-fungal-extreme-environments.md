@@ -40,13 +40,6 @@ and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 The molecular basis of desiccation- and stress-tolerance in lichen-forming fungi and their photobionts remains poorly investigated. In natural habitats, constitutively induced protective mechanisms for cellular membrane and enzyme systems are essential. Acyclic polyols from fungal and green algal partners serve as compatible solutes under drought stress and are centrally important mobile carbohydrates in the [[gadd-colony-morphogenesis-hyphal-growth]], hyphal avoidance, homing, yeast-hyphal dimorphism and reproduction. Fungi produce a diverse range of extracellular enzymes efficiently secreted into the environment, and possess a wide range of transport membrane processes for nutrient uptake.
 
-## See Also
-
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[doc]]
-- [[singh-mycelial-mats-and-biological-soil-crusts]]
-- [[spore]]
-
 ## Overview
 
 Gadd Fungal Extreme Environments represents an important element within sustainable
@@ -124,8 +117,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+- [[doc]]
+- [[singh-mycelial-mats-and-biological-soil-crusts]]
+- [[spore]]
 - [[gadd-fungal-biodegradation-concrete-building-materials]]
 - [[gadd-fungal-ecology-pathogens]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]

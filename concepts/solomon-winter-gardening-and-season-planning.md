@@ -26,11 +26,6 @@ The goal is to have the ground producing biomass for as many days of the
 year as possible, whether that biomass is food for the table or organic
 matter for the soil.
 
-## See Also
-
-- green manure cover crop techniques
-- [[solomon-humanure-recycling-and-composting]] and [[solomon-garden-planning-calorie-production]]
-
 ## Overview
 
 Solomon Winter Gardening And Season Planning represents an important element within sustainable
@@ -108,8 +103,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- green manure cover crop techniques
+- [[solomon-humanure-recycling-and-composting]] and [[solomon-garden-planning-calorie-production]]
 - [[clay-soil-management-solomon]]
 - [[solomon-food-preservation-storage]]
 - [[solomon-harvesting-techniques-and-timing]]

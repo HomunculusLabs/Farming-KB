@@ -32,11 +32,6 @@ McKenna noted the bitter irony that the drug responsible for the most devastatin
 
 McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[psychedelic-therapy-current-research]] for the contemporary overturning of this suppression.
 
-## See Also
-
-- [[mckenna-food-of-the-gods-thesis]]
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-therapy-current-research]]
 ## Practical Considerations
 
 Successful implementation of McKenna on Opium, Tobacco, and Paradoxical Attitudes requires attention to
@@ -133,8 +128,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-of-the-gods-thesis]]
+- [[psychedelic-plants-and-civilization]]
+- [[psychedelic-therapy-current-research]]
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

@@ -34,13 +34,6 @@ appropriate nutrition at each growth stage. Plants that are not
 overfed with nitrogen (a common cause of pest attraction) are
 naturally more resistant.
 
-## See Also
-
-- [[knf-soap-water-and-hot-pepper]]
-- [[fish-amino-acid]]
-- [[cho-natural-pest-control-methods]]
-- [[knf-pest-control-methods]]
-
 ## Overview
 
 Cho Pest Control Methods represents an important element within sustainable
@@ -118,8 +111,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[knf-soap-water-and-hot-pepper]]
+- [[fish-amino-acid]]
+- [[cho-natural-pest-control-methods]]
+- [[knf-pest-control-methods]]
 - [[cannabis-pest-management-guide]]
 - [[cervantes-sticky-traps-pest-monitoring]]
 - [[coleman-beneficial-insects-and-ecological-pest-control]]

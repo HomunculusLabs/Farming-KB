@@ -26,10 +26,6 @@ Other species growing wild in Europe include [[emcdda-hallucinogenic-mushrooms-e
 
 - [[bad-trip]] - adverse psychological reactions to mushroom use
 
-## See Also
-- [[psilocybe-cubensis-flush-variation]]
-- [[psilocybe-cinctulus]]
-
 ## Overview
 
 Psilocybe Cubensis represents an important element within sustainable
@@ -107,8 +103,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybe-cubensis-flush-variation]]
+- [[psilocybe-cinctulus]]
 - [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
 - [[psilocybe-coprophila-profile]]
 - [[psilocybe-mexicana-profile]]

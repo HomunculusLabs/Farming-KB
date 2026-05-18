@@ -46,12 +46,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[doc]]
-- [[endocannabinoid-system]]
-- [[cannabis-and-sickle-cell-disease]]
-
 ## Overview
 
 Cannabis And Kidney Disease represents an important element within sustainable
@@ -129,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[endocannabinoid-system]]
+- [[cannabis-and-sickle-cell-disease]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

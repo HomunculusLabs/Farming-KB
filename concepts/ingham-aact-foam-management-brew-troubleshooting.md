@@ -61,11 +61,6 @@ microscopy:
 4. Confirm absence of anaerobic indicator organisms (thick rods, spirochetes)
 5. Smell test — should be earthy, pleasant, no sour or putrid notes
 
-## See Also
-
-- [[aact-foam-management-troubleshooting-ingham]]
-- [[aact-ph-water-quality-ingham]]
-
 ## Overview
 
 Ingham Aact Foam Management Brew Troubleshooting represents an important element within sustainable
@@ -143,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[aact-foam-management-troubleshooting-ingham]]
+- [[aact-ph-water-quality-ingham]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

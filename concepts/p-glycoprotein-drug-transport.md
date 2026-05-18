@@ -106,15 +106,13 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
+
 ## See Also
 - [[mycelial-nutrient-transport-network-dynamics]]
 - [[xylem-phloem-nutrient-transport]]
 - [[mycelial-nutrient-translocation-and-vacuolar-transport]]
 - [[hemoglobin-and-oxygen-transport]]
 - [[heavy-metal-toxicity-and-biological-element-transport]]
-
-## See Also
-
 - [[peruvian-drug-war-and-ayahuasca-acceptance]]
 - [[cytochrome-p450-enzymes-drug-metabolism]]
 - [[ayahuasca-drug-interactions]]

@@ -16,11 +16,6 @@ Soil science concentrates on classification but not on how to evolve soil. Often
 
 Science is good at explaining why things work and making skills teachable. It is not so good at initiating field work or training people already in the field to work effectively. The most effective knowledge transfer happens through farmer field days and local educational sessions.
 
-## See Also
-
-- [[soil-formation-and-erosion]]
-- [[soil-formation-and-values]]
-
 ## Overview
 
 Soil Formation And Sustainability represents an important element within sustainable
@@ -98,8 +93,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-formation-and-erosion]]
+- [[soil-formation-and-values]]
 - [[bloomfield-rust-sex-insect-mediated-spermatia-transfer-dikaryon-formation]]
 - [[fukuoka-weed-diversity-soil-nutrients]]
 - [[fungi-and-sustainability]]

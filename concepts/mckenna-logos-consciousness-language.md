@@ -58,11 +58,6 @@ McKenna identifies a clear acceleration in human cultural and technological deve
 - [[psilocybin-mushroom-history-ethnobotany]]
 - novelty theory timewave zero
 
-## See Also
-
-- McKenna T. (1983/1992) "[[tryptamine-hypercontinuum-and-invisible-landscape]]: Mind, Hallucinogens, and the I Ching." Seabury Press.
-- Dick PK. (1981) "Valis." Bantam Books.
-
 ## Overview
 
 Mckenna Logos Consciousness Language represents an important element within sustainable
@@ -140,8 +135,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- McKenna T. (1983/1992) "[[tryptamine-hypercontinuum-and-invisible-landscape]]: Mind, Hallucinogens, and the I Ching." Seabury Press.
+- Dick PK. (1981) "Valis." Bantam Books.
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

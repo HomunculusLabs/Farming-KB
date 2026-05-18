@@ -110,14 +110,13 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
+
 ## See Also
 - [[savory-holistic-resource-management-animal-impact]]
 - [[savory-holistic-resource-management-decision-framework]]
 - [[savory-holistic-resource-management-energy-flow]]
 - [[savory-holistic-resource-management-water-cycle]]
 - [[savory-holistic-resource-management-ecological-succession]]
-
-## See Also
 - [[savory-conventional-vs-holistic-range-management]]
 - [[savory-holistic-resource-management-mineral-cycle]]
 - [[savory-holistic-resource-management-biological-monitoring]]

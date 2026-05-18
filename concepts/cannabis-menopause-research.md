@@ -41,13 +41,6 @@ Combined with dietary modifications and exercise, cannabinoid therapy represents
 Several botanical medicines complement cannabinoid therapy for menopause symptom management.
 Black cohosh (Actaea racemosa) has the strongest evidence base among herbal alternatives to HRT, with multiple [[blesching-cannabis-alzheimers-disease]] for detailed research on cannabinoid neuroprotection.
 
-## See Also
-
-- [[cannabis-cbd-therapeutic-profile]]
-- [[doc]]
-- [[dom]]
-- [[det]]
-
 ## Overview
 
 Cannabis Menopause Research represents an important element within sustainable
@@ -125,8 +118,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-cbd-therapeutic-profile]]
+- [[doc]]
+- [[dom]]
+- [[det]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

@@ -64,11 +64,6 @@ The experience must somehow be integrated into life in a way which minimises soc
 
 This is why the psychedelic experience, while potentially transformative, is not a simple panacea. The dissolution of the ego reveals the limitations of the ego-construct, but the individual must still function within a world that operates largely through ego-mediated interactions. The challenge is to carry the insights of the boundary-dissolved state back into the boundary-maintained world without either denying the insight or being unable to function.
 
-## See Also
-
-- [[psilocybin-mystical-experiences-personality-change]]
-- [[information-paradigm-of-consciousness]]
-
 ## Overview
 
 Psilocybin Ego Dissolution Mechanisms represents an important element within sustainable
@@ -146,4 +141,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[psilocybin-mystical-experiences-personality-change]]
+- [[information-paradigm-of-consciousness]]

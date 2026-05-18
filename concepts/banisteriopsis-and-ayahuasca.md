@@ -97,15 +97,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[banisteriopsis-caapi]]
 - [[hallucinogens-and-shamanism]]
 - [[psychotria-viridis]]
 - [[banisteriopsis-ayahuasca-cross-cultural-vision-patterns]]
 - [[ayahuasca-and-banisteriopsis-caapi]]
-## See Also
-
-- [[hallucinogens-and-shamanism]]
 - [[jivaro-shamanism-and-natem]]
 - [[cashinahua-ayahuasca-practices]]
 - [[beta-carboline-alkaloids]]

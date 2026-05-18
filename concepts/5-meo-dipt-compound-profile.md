@@ -70,14 +70,13 @@ relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
+
 ## See Also
 - [[2c-b-compound-profile]]
 - [[shulgin-mda-compound-profile]]
 - [[5-meo-dalt-entity]]
 - [[5-meo-eipt]]
 - [[5-meo-pyr-t-entity-tihkal]]
-## See Also
-
 - [[tma-2-compound-profile]]
 - [[2c-c-compound-profile]]
 - [[2c-t-7-compound-profile]]

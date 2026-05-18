@@ -81,10 +81,8 @@ Yeomans stated that if from 10-15% of a normal, humid,
 lowland or foothill landscape were fitted with small earth
 storages and check dams, floods and drought or fire threat
 could be eliminated. This scaling principle applies from
-## See Also
 
 ## See Also
-
 - [[mollison-designers-termite-and-ant-mound-niche-gardening]]
 - [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
 - [[humus-soil-amendment-mollison]]

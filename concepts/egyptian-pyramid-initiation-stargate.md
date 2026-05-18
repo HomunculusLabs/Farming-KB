@@ -44,13 +44,6 @@ This subject has relevance across multiple disciplines and applications. Underst
 
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
-## See Also
-- [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]]
-- [[allegro-plants-and-drugs-in-the-ancient-world]]
-- [[maps]]
-- [[soma]]
-- [[amanita]]
-
 ## Overview
 
 Egyptian Pyramid Initiation Stargate represents an important element within sustainable
@@ -128,8 +121,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]]
+- [[allegro-plants-and-drugs-in-the-ancient-world]]
+- [[maps]]
+- [[soma]]
+- [[amanita]]
 - [[egyptian-mushroom-symbolism]]
 - [[egyptian-mystery-schools-and-pyramid-initiation]]
 - [[egyptian-pyramid-initiation-rites]]

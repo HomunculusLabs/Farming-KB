@@ -37,9 +37,6 @@ designs.
 - Space requirement: minimum 5 metres between plants
 - Water needs: regular moisture during [[leaf-senescence-autumn-colour-change-active-plant-process]] to permaculture landscapes
 
-## See Also
-
-- [[permplant-fig-ficus-carica-fruit-tree]]
 ## Practical Considerations
 
 Successful implementation of Persimmon as Ornamental Fruit Tree in Permaculture requires attention to
@@ -136,10 +133,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[permplant-chestnuts-castanea-nut-crop-coppice]]
+## See Also
 - [[permplant-fig-ficus-carica-fruit-tree]]
+- [[permplant-chestnuts-castanea-nut-crop-coppice]]
 - [[permplant-mulberries-morus-fruit-fodder-timber]]
 - [[permplant-tagasaste-pioneer-fodder-tree]]
 - [[permplant-willows-salix-erosion-control-fodder]]

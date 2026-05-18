@@ -56,12 +56,6 @@ of most lightning (milliseconds) is insufficient to activate phytochrome
 significantly, so plants have evolved to be insensitive to such transient
 disturbances.
 
-## See Also
-
-- [[photoperiodism-garner-allard-discovery]]
-- [[blesching-cannabinoid-pharmacology]]
-- [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
-
 ## Overview
 
 Night Interruption Photoperiodism represents an important element within sustainable
@@ -139,8 +133,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[photoperiodism-garner-allard-discovery]]
+- [[blesching-cannabinoid-pharmacology]]
+- [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
 - [[blesching-cannabis-cancer-night-sweats]]
 - [[blesching-cannabis-cancer-night-sweats-palliative]]
 - [[blesching-cannabis-improved-night-vision]]

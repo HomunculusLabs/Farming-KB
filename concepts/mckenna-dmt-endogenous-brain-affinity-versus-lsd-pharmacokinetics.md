@@ -16,11 +16,6 @@ source: McKenna (1983/1992) - Tryptamine bloomfield-cordyceps-summit-disease-bra
 McKenna noted that DMT is present in small amounts in the human brain, making it an endogenous hallucinogen. This fact distinguishes it fundamentally from synthetic compounds like LSD. The presence of DMT within human neurochemistry suggests that the brain has evolved receptor systems and metabolic pathways specifically responsive to this molecule, raising questions about the natural function of endogenous DMT and its role in ordinary and extraordinary [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] of hallucinogenesis demonstrate a "dynamic linkage at the formative level between quantum mechanically described matter and mind." He cited the work of John Smythies and [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic film
 - A friend suggested this sound represents "our [[mckenna-psychedelic-terror-and-existential-authenticity]] distinguishes the DMT experience from purely hedonic intoxication. For McKenna, the experience "must move one's heart, and it will not move the heart unless it deals with the issues of life and death."
 
-## See Also
-
-- [[mckenna-dmt-endogenous-hallucinogen-brain-affinity]]
-- [[mckenna-dmt-psilocybin-lsd-pharmacokinetic-comparison]]
-
 ## Overview
 
 Mckenna Dmt Endogenous Brain Affinity Versus Lsd Pharmacokinetics represents an important element within sustainable
@@ -98,8 +93,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-dmt-endogenous-hallucinogen-brain-affinity]]
+- [[mckenna-dmt-psilocybin-lsd-pharmacokinetic-comparison]]
 - [[hofmann-lsd-pharmacokinetics-dosage-tolerance]]
 - [[hofmann-lsd-pharmacology-serotonin-brain]]
 - [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]]

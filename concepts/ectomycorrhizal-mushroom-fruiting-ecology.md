@@ -12,17 +12,6 @@ The timing of mushroom fruiting influences food web dynamics in forest ecosystem
 
 Mushroom fruiting also represents a significant carbon and nutrient flux from the belowground mycelial network to the aboveground food web and soil surface. When fruiting bodies decompose, their nutrients are released back to the soil, contributing to [[ectomycorrhizae-forest-life]] for ecosystem function.
 
-## See Also
-
-- [[mycorrhizal-fungi]]
-
-- mushroom-hunting-and-identification
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -82,7 +71,14 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[mycorrhizal-fungi]]
+- mushroom-hunting-and-identification
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[doc]]
 - [[spore-dispersal]]
 - [[desert-truffles]]

@@ -36,14 +36,6 @@ An important effect of air circulation and fresh air supply is evaporation of mo
 - Never allow casing to dry out completely
 - Stop watering once mushroom caps reach adolescence (wet caps breed Bacterial Blotch)
 
-## See Also
-
-- mushroom-yield-optimization
-- bulk-substrate-preparation
-
----
-
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter X: [[mushroom-growing-environmental-control]]
 ## Practical Considerations
 
 When working with [[duggar-mushroom-growing-history-and-methods]], several practical factors should be
@@ -141,8 +133,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mushroom-yield-optimization
+- bulk-substrate-preparation
+---
+Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter X: [[mushroom-growing-environmental-control]]
 - [[environmental-dna-fungal-survey]]
 - [[environmental-dna-metabarcoding-fungi]]
 - [[mushroom-environmental-requirements-temperature-moisture-light]]

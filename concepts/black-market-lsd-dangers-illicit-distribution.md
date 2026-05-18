@@ -90,14 +90,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[hofmann-lsd-black-market-and-dangers]]
 - [[albert-hofmann]]
 - [[bad-trip]]
 - [[black-locust-entity]]
 - [[black-spot-disease]]
-## See Also
-
 - [[sandoz-cease-lsd-distribution-1965]] — The withdrawal of pharmaceutical LSD
 - [[lsd-discovery-aftermath-pharmacological-properties]] — LSD's pharmacological profile
 - lsd criminalization and regulatory history — The policy context

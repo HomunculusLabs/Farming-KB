@@ -58,9 +58,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
-## See Also
-- [[permaculture-seed-saving-networks]]
-
 ## Overview
 
 Permaculture Seed Saving Breeding represents an important element within sustainable
@@ -138,8 +135,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-seed-saving-networks]]
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]

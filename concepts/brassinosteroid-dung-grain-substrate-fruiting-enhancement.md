@@ -41,11 +41,6 @@ Other known fungal growth promoters include:
 
 The brassinosteroid results are notable because they represent one of the few well-documented cases of a defined plant hormone producing significant, reproducible effects on both vegetative and reproductive growth in a cultivated mushroom species.
 
-## See Also
-
-- [[brassinosteroid-mushroom-yield-dry-mass]]
-- [[brassinosteroid-effects-on-fungal-morphology]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -74,13 +69,16 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[doc]]
-- [[homobrassinolide]]
-- [[brassinosteroids]]
-
 ## Research Directions
 Current research explores several promising avenues for advancement in this area.
 Emerging methodologies provide new tools for investigation and analysis.
 Interdisciplinary collaboration continues to yield valuable insights.
 Long-term studies are helping to establish evidence-based best practices.
+
+
+## See Also
+- [[brassinosteroid-mushroom-yield-dry-mass]]
+- [[brassinosteroid-effects-on-fungal-morphology]]
+- [[doc]]
+- [[homobrassinolide]]
+- [[brassinosteroids]]

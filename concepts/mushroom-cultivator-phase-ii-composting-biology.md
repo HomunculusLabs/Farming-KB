@@ -37,11 +37,6 @@ identify opportunities for implementation in their own contexts.
 Integration with other systems and approaches often yields the most
 robust and resilient outcomes. Rather than treating this topic in
 
-## See Also
-
-- [[mushroom-cultivator-flush-management-watering]]
-- [[mushroom-cultivator-species-growing-parameters-overview]]
-
 ## Overview
 
 Mushroom Cultivator Phase Ii Composting Biology represents an important element within sustainable
@@ -119,8 +114,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-cultivator-flush-management-watering]]
+- [[mushroom-cultivator-species-growing-parameters-overview]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

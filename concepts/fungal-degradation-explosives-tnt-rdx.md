@@ -47,12 +47,6 @@ Composting is the most widely applied full-scale treatment for explosives-contam
 - The long-term stability of compost-bound explosive residues remains controversial
 
 ## Transformation Products and Environmental Fate
-## See Also
-
-- [[singh-explosives-tnt-rdx-fungal-degradation]]
-- [[laccase]]
-- [[det]]
-
 ## Overview
 
 Fungal Degradation Explosives Tnt Rdx represents an important element within sustainable
@@ -130,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[singh-explosives-tnt-rdx-fungal-degradation]]
+- [[laccase]]
+- [[det]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

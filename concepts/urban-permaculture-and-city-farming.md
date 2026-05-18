@@ -51,11 +51,6 @@ Urban Permaculture And City Farming has been recognized for its contributions to
 Traditional knowledge systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
-## See Also
-- [[urban-farming-methods]]
-- [[urban-permaculture-food-forest-succession]]
-- [[urban-rooftop-farming-guide]]
-
 ## Overview
 
 Urban Permaculture And City Farming represents an important element within sustainable
@@ -133,8 +128,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[urban-farming-methods]]
+- [[urban-permaculture-food-forest-succession]]
+- [[urban-rooftop-farming-guide]]
 - [[mollison-designers-community-garden-design-urban-permaculture]]
 - [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]
 - [[urban-permaculture-edge-effect-microclimate]]

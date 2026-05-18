@@ -39,10 +39,6 @@ Found almost everywhere in [[solomon-liquid-fertilizers-and-foliar-feeding]].
 - Colorado potato beetles respond best to new ground, [[cervantes-powdery-mildew-prevention-treatment]] on contact but needs frequent
   reapplication.
 
-## See Also
-
-- [[specific-pest-management-solomon]]
-
 ## Overview
 
 Solomon Disease Identification And Organic Remedies represents an important element within sustainable
@@ -120,8 +116,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[specific-pest-management-solomon]]
 - [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 - [[solomon-low-grade-compost-making-methods]]

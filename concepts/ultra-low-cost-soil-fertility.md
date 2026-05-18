@@ -49,11 +49,6 @@ JADAM champions anaerobic fermentation for making all organic inputs, directly c
 
 The JADAM "gunnysack fermentation" method requires no turning, no machinery, and no special conditions. Anaerobic fermentation actually preserves more nutrients than aerobic methods because [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], produce high yields, and maintain quality. Imbalanced nutrition leads to weakness, disease susceptibility, and poor quality. The simplest way to achieve balance is to use materials similar to the crop itself — crop residues, wild grass, and leaf mold — rather than trying to adjust individual nutrients through separate amendments.
 
-## See Also
-
-- [[organic-nutrients-vs-synthetic-nutrients]]
-- [[compost-building-guide]]
-
 ## Overview
 
 Ultra Low Cost Soil Fertility represents an important element within sustainable
@@ -131,8 +126,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[organic-nutrients-vs-synthetic-nutrients]]
+- [[compost-building-guide]]
 - [[dts-multi-line-sativa-hybrid-cheeze-mk-ultra-diesel-haze]]
 - [[oner-space-grape-ultra-genetics-nebula-grapefruit]]
 - [[ultra-low-cost-farming-overview]]

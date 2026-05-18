@@ -60,13 +60,6 @@ These properties arise from evolutionary selection pressures favoring
 systems that maintain function despite genetic mutations, environmental
 fluctuations, and stochastic damage.
 
-## See Also
-
-- [[fungal-ecology]]
-- [[dom]]
-- [[mycorrhizae]]
-- [[mycelium-running-mycelium-natures-internet-fungal-network-theory]]
-
 ## Overview
 
 Biological Network Theory represents an important element within sustainable
@@ -144,7 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-ecology]]
+- [[dom]]
+- [[mycorrhizae]]
+- [[mycelium-running-mycelium-natures-internet-fungal-network-theory]]
 - [[biological-indicators-of-soil-conditions]]
 - [[biological-nitrification-inhibition]]

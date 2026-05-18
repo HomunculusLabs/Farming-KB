@@ -47,13 +47,6 @@ In silico removal of nodes and links revealed that fungal networks show intermed
 
 [[fungal-pulsatile-nutrient-transport-mycelial-networks]] also makes quantitative comparisons between experiments challenging, requiring sophisticated analytical approaches to accommodate colony-level variability.
 
-## See Also
-
-- [[gadd-colony-morphogenesis-hyphal-growth|Colony Morphogenesis and Hyphal Growth]]
-- [[mycelial-nutrient-translocation]]
-- [[fungal-ecology]]
-- [[ghb]]
-
 ## Overview
 
 Gadd Mycelial Nutrient Translocation Imaging represents an important element within sustainable
@@ -131,8 +124,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gadd-colony-morphogenesis-hyphal-growth|Colony Morphogenesis and Hyphal Growth]]
+- [[mycelial-nutrient-translocation]]
+- [[fungal-ecology]]
+- [[ghb]]
 - [[gadd-fungal-biodegradation-concrete-building-materials]]
 - [[gadd-fungal-ecology-pathogens]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]

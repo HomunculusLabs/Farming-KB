@@ -46,8 +46,6 @@ Despite decades of clinical use of PSK and PSP in humans, bioavailability and ph
 
 - **PSK and PSP**: Can be used as convenient, self-administered oral supplements [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]] through [[cancer-prevention-dietary-mushroom-intake]] intake, the oral bioavailability of mushroom polysaccharides is essential, as prevention requires long-term consistent intake that is only practical through oral consumption.
 
-## See Also
-
 ## Overview
 
 Oral Polysaccharide Bioavailability represents an important element within sustainable
@@ -125,8 +123,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[allegro-religion-prehistory-oral-tradition-etymology]]
 - [[blesching-cannabis-dental-and-oral-health]]
 - [[first-pass-metabolism-and-oral-bioavailability]]

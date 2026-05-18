@@ -13,14 +13,6 @@ sources:
 
 Phyllite water (phyllite solution) is a key mineral supplementation technology in the [[jadam-nature-as-teacher-philosophy]]. In forests, trees pull minerals from deep in the earth through their roots, and when leaves and branches fall, those minerals are returned to the soil surface where microbes gradually release them. The phyllite water method accelerates this cycle by providing powdered mineral-rich rock that microbes can quickly [[jadam-ultra-low-cost-agriculture]]. One 60 kg batch of phyllite mixed with 500 L of water can be used repeatedly throughout the year, with only water refills needed. This makes comprehensive mineral supplementation accessible even to small-scale farmers with limited budgets.
 
-## See Also
-- [[jadam-water-softener]]
-- [[jadam-mineral-water-jmw]]
-- [[jadam-cover-crop-method]]
-- [[doc]]
-- [[jadam-phyllite-mineral-solution]]
-- [[jadam-leaf-mold-soil-method]]
-
 ## Overview
 
 Jadam Phyllite Water Method represents an important element within sustainable
@@ -98,8 +90,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[jadam-water-softener]]
+- [[jadam-mineral-water-jmw]]
+- [[jadam-cover-crop-method]]
+- [[doc]]
+- [[jadam-phyllite-mineral-solution]]
+- [[jadam-leaf-mold-soil-method]]
 - [[jadam-methods]]
 - [[jadam-patent-free-revolution]]
 - [[jadam-phyllite-solution]]

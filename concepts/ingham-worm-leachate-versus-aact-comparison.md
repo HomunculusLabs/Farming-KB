@@ -43,13 +43,6 @@ castings provide the biological workforce and the urea-wood chip mix provides
 substrate. Regular tea applications every 7 days can maintain active
 decomposition.
 
-## See Also
-
-- compost tea recipes and ingredient formulations
-- [[elaine-ingham]]
-- [[dom]]
-- [[decomposition]]
-
 ## Overview
 
 Ingham Worm Leachate Versus Aact Comparison represents an important element within sustainable
@@ -127,8 +120,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- compost tea recipes and ingredient formulations
+- [[elaine-ingham]]
+- [[dom]]
+- [[decomposition]]
 - [[aact-brewing-ingredients-ingham]]
 - [[ingham-aact-brewing-techniques]]
 - [[ingham-foliar-pest-deterrence-aact]]

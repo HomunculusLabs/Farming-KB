@@ -58,11 +58,6 @@ communities, and systematic experimentation to build expertise.
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[permaculture-plants-root-crops-and-tubers]]
-- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
-- [[permaculture-dynamic-accumulator-plants]]
-
 ## Overview
 
 Permaculture Plants Medicinal Herbs Healing represents an important element within sustainable
@@ -140,8 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-plants-root-crops-and-tubers]]
+- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
+- [[permaculture-dynamic-accumulator-plants]]
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]

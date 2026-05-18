@@ -32,12 +32,6 @@ The Phoenix, the Pillar, the Cross, the Ladder — all these cosmic symbols conv
 
 Allegro's interpretation of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
-## See Also
-
-- [[allegro-fungal-iconography-in-ancient-art]]
-- controversy-sacred-mushroom-theory
-- [[ancient-cannabis-use-near-east-and-egypt]] Mediterranean world were ultimately derived from a proto-historical [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
-
 ## Cultivation Applications
 
 This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.
@@ -85,7 +79,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[allegro-fungal-iconography-in-ancient-art]]
+- controversy-sacred-mushroom-theory
+- [[ancient-cannabis-use-near-east-and-egypt]] Mediterranean world were ultimately derived from a proto-historical [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 - shamanism
 - [[allegro-mushroom-cosmography-jerusalem-zion-gehenna]]
 - [[allegro-key-of-the-kingdom-and-peter-as-mushroom]]

@@ -9,11 +9,6 @@ type: concept
 ## Overview
 
 The flat areas and depressions of desert landscapes — including tectonic basins, deflection hollows, pans, scalds, and claypans — present unique challenges and opportunities for [[water-conservation]] begins on foothill slopes and forests are generated downhill. Complex foothills provide many sites for water storages and swales. Understanding this topography is essential for effective desert permaculture design, as the basins collect everything that erodes from the ranges above.
-## See Also
-
-- [[dryland-soils-and-mineral-nutrition]]
-- [[soil-rehabilitation-strategies]]
-
 ## Overview
 
 Desert Basins Scalds And Claypans represents an important element within sustainable
@@ -91,8 +86,26 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
+## Scaling Considerations
 
+Factors for scaling operations effectively. For desert basins scalds claypans, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Monitoring Protocols
+
+Systematic observation and data collection methods. For desert basins scalds claypans, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Resource Requirements
+
+Materials and resources needed for implementation. For desert basins scalds claypans, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Adaptive Management
+
+Flexible approaches that respond to changing conditions. For desert basins scalds claypans, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+
+## See Also
+- [[dryland-soils-and-mineral-nutrition]]
+- [[soil-rehabilitation-strategies]]
 - [[desert-basins-pans-scalds-and-gully-erosion]]
 - [[desert-soils-scalds-and-claypans]]
 - [[desert-temperature-regimes-and-soil-chemistry]]

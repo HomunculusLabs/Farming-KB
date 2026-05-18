@@ -127,13 +127,10 @@ The design adapts to different climates, soil types, and cultural contexts by su
 | Labor efficiency | Least-path access, keyhole beds, low-maintenance zones |
 | Pest management | Polyculture diversity, integrated livestock |
 | Education | Visible, intuitive design for teaching permaculture |
-## See also
-
-- [[mandala-garden-design]]
-- [[integrated-home-garden-design]]
 
 ## See Also
-
+- [[mandala-garden-design]]
+- [[integrated-home-garden-design]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
 - [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
 - [[comparison-keyhole-garden-vs-raised-bed]]

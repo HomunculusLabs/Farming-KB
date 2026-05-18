@@ -43,14 +43,6 @@ When applying these concepts, several factors warrant attention: environmental c
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures are essential for meaningful progress.
 
-## See Also
-
-- [[fukuoka-textdoc-getting-natural-diet]]
-- [[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]]
-- [[disappearance-natural-diet]]
-
-Related topics in this wiki include: .
-
 ## Practical Considerations
 
 Successful implementation of Disappearance of a Natural Diet requires attention to
@@ -84,7 +76,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fukuoka-textdoc-getting-natural-diet]]
+- [[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]]
+- [[disappearance-natural-diet]]
+Related topics in this wiki include: .
 - [[natural-diet]]
 - [[natural-farming]]
 - [[doc]]

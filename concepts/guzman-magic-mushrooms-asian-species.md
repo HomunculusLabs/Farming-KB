@@ -19,11 +19,6 @@ type: concept
 
 See also: psilocybe-cubensis-distribution-and-ecology
 
-## See Also
-- [[doc]]
-- [[dom]]
-- [[amanita-muscaria]]
-
 ## Overview
 
 Guzman Magic Mushrooms Asian Species represents an important element within sustainable
@@ -101,8 +96,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[dom]]
+- [[amanita-muscaria]]
 - [[guzman-accidental-psilocybin-vapor-inhalation-lab]]
 - [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]

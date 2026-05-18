@@ -84,12 +84,6 @@ North, Central, and South America and the Caribbean host a far greater diversity
 - **Richard Evans Schultes** (1915–2001): Harvard ethnobotanist and the foremost authority on hallucinogenic plants; author of *The Golden Guide to Hallucinogenic Plants* (1976), from which much of this knowledge is drawn
 - **Albert Hofmann** (1906–2008): Swiss chemist who discovered LSD and identified psilocybin and psilocin
 
-## See Also
-
-- [[cannabis-botany-and-history]]
-- [[edaphic-factors-microbial-communities]]
-- [[ayahuasca]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -118,7 +112,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cannabis-botany-and-history]]
+- [[edaphic-factors-microbial-communities]]
+- [[ayahuasca]]
 - [[doc]]
 - [[psilocybin]]
 - [[psilocybin-mushrooms]]

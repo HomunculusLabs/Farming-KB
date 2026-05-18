@@ -42,12 +42,6 @@ remediation capabilities. Key enzyme families include:
 These enzymes are naturally produced to digest lignin — one of the most
 recalcitrant organic polymers on Earth — which gives them the broad
 substrate specificity needed to degrade anthropogenic pollutants.
-## See Also
-
-- [[mycofiltration-fungal-water-filtration]]
-- entomopathogenic fungi biocontrol mycopesticides
-- mushroom life cycle spore to fruiting body
-
 ## Overview
 
 Mycoremediation Fungal Biodegradation Toxic Waste represents an important element within sustainable
@@ -125,8 +119,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycofiltration-fungal-water-filtration]]
+- entomopathogenic fungi biocontrol mycopesticides
+- mushroom life cycle spore to fruiting body
 - [[cotter-mycoremediation-techniques]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[mycoremediation-bioreactor-design-considerations]]

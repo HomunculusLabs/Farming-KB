@@ -12,12 +12,6 @@ aliases: emcdda-psilocybin-non-addictive-profile-tolerance-dynamics use statisti
 Hallucinogenic mushrooms containing [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
 - gaias-garden-flowering-tree-desert-restoration-case-study" by Hillebrand, Olszewski & Sedefov
 
-## See Also
-
-- [[pf-tek]]
-- [[dom]]
-- [[european-prevalence-hallucinogenic-mushrooms]]
-
 ## Overview
 
 Hallucinogenic Mushrooms European Prevalence represents an important element within sustainable
@@ -95,10 +89,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pf-tek]]
+- [[dom]]
+- [[european-prevalence-hallucinogenic-mushrooms]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
 - [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]]
-- [[european-prevalence-hallucinogenic-mushrooms]]
 - [[hallucinogenic-mushroom-prevalence-use-patterns-europe]]
 - [[hallucinogenic-mushroom-smoking-and-alternative-administration-routes]]

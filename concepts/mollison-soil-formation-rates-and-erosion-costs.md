@@ -9,9 +9,6 @@ tags:
 - Following deforestation, up to 30% more silt per annum flows into
   and reduces the useful life of water storages.
 
-## See Also
-- [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]
-
 ## Overview
 
 Mollison Soil Formation Rates And Erosion Costs represents an important element within sustainable
@@ -89,8 +86,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]
 - [[actinomycetes-soil-biology]]
 - [[aquatic-polyculture-design-mollison]]
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]

@@ -44,14 +44,6 @@ This contrasts sharply with what happens under conventional management, where we
 
 The green manure approach thus serves not only as a replacement for chemical nitrogen but as a comprehensive soil restoration strategy. It addresses the physical structure (roots loosen and aggregate soil), biological activity (microbes proliferate), chemical balance (nutrients cycle naturally), and water management (mulch retains moisture) of the soil simultaneously.
 
-## See Also
-
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-white-clover-ground-cover]]
-- [[doc]]
-- [[hamilton-green-manure-crops-and-cover-cropping]]
-- [[fukuoka-green-manure-clover-revolution]]
-
 ## Overview
 
 Fukuoka Clover And Green Manure Cropping represents an important element within sustainable
@@ -129,8 +121,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-natural-farming-philosophy]]
+- [[fukuoka-white-clover-ground-cover]]
+- [[doc]]
+- [[hamilton-green-manure-crops-and-cover-cropping]]
+- [[fukuoka-green-manure-clover-revolution]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

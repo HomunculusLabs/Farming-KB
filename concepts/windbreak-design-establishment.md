@@ -79,11 +79,9 @@ In windbreak forests near coasts, **small openings of 6–9 m (20–30 feet)** p
 ### Traditional Hawaiian Example
 
 Across the flat peninsula of Kalaupapa on Moloka'i, Hawaiians built tiny stone fences of 25–50 cm (10–20 inches) high, only 4.5–5 m (15–18 feet) apart, behind which they grew sweet potato crops with tough fern mulch. Wild date palms still struggle to 4.5 m (15 feet) in the teeth of the trade winds, demonstrating the persistent challenge of coastal wind exposure.
+
 ## See Also
 - [[windbreak-design-establishment-methods]]
-
-## See Also
-
 - [[comparison-windbreak-vs-thermal-mass]]
 - [[windbreak-design-and-configurations]]
 - [[coastal-windbreak-systems-and-plant-wind-tolerance]]

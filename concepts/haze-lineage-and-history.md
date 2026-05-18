@@ -59,10 +59,6 @@ tree, particularly in European markets where it dominates coffee shop menus.
 
 ### [[super-silver-haze]] Descendants
 
-## See Also
-
-- [[jack-herer-cannabis-strain]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -91,7 +87,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[jack-herer-cannabis-strain]]
 - [[dom]]
 - [[haze-lineage-and-genetic-history]]
 - [[haze-lineage-and-legacy-in-modern-breeding]]

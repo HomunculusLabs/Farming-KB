@@ -22,10 +22,6 @@ Designers can build either appropriate or inappropriate systems by choosing part
 4. **Design for functional reciprocity** rather than status hierarchy
 5. **Recognize that water, nutrients, information, and energy are of the whole**—not to be thought of in terms of their parts alone
 
-## See Also
-- [[event-classification-and-orders-of-magnitude]]
-- [[stream-orders-and-settlement-design]]
-
 ## Overview
 
 Orders Of Magnitude And Hierarchical Design represents an important element within sustainable
@@ -103,10 +99,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[branching-patterns-and-stream-orders]]
+## See Also
 - [[event-classification-and-orders-of-magnitude]]
+- [[stream-orders-and-settlement-design]]
+- [[branching-patterns-and-stream-orders]]
 - [[mollison-stream-orders-and-branching-magnitudes]]
 - [[stream-orders-and-branching-hierarchies]]
-- [[stream-orders-and-settlement-design]]

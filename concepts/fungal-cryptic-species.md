@@ -32,10 +32,6 @@ component of the "unknown" [[mycotoxins]],
 cryptic species may produce different [[fungal-functional-diversity-decomposition]], producing genotypes capable of colonizing
 new niches or hosts.
 
-## See Also
-
-- [[environmental-dna-sequencing-fungi]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -63,11 +59,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[psilocybin]]
-- [[morchella-esculenta]]
-- [[aureobasidium-pullulans]]
 
 ## Overview
 
@@ -146,4 +137,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[environmental-dna-sequencing-fungi]]
+- [[psilocybin]]
+- [[morchella-esculenta]]
+- [[aureobasidium-pullulans]]

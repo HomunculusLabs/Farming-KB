@@ -62,14 +62,6 @@ Aeroponic nutrient solutions must be carefully maintained:
 - **Reduced growth**: Often caused by clogged nozzles reducing misting coverage. Clean or replace nozzles.
 - **Algae in chamber**: Light leak. Seal all openings and check for cracks or gaps in the chamber.
 
-## See Also
-
-- [[nutrient-film-technique]]
-- [[cannabis-growing-mediums]]
-- [[bubbleponics]]
-- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
-- [[comparison-aquaponics-vs-aeroponics]]
-
 ## Overview
 
 Aeroponics Cannabis represents an important element within sustainable
@@ -147,4 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[nutrient-film-technique]]
+- [[cannabis-growing-mediums]]
+- [[bubbleponics]]
+- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
+- [[comparison-aquaponics-vs-aeroponics]]

@@ -32,10 +32,6 @@ Modern pharmacological studies have identified lagochiline and related diterpeno
 
 The plant remains relatively understudied by Western standards, partly due to the historical inaccessibility of its native range and partly because its effects are subtle compared to more dramatic psychoactive plants. However, the growing interest in under-explored psychoactive plants from Central Asia may lead to renewed research attention.
 
-## See Also
-
-[[syrian-rue-peganum-harmala-ethnobotany]] — [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[cultural-evolution-and-psychoactive-substances]]
 ## Practical Considerations
 
 Successful implementation of Turkestan Mint (Lagochilus inebrians): Central Asian Intoxicant requires attention to
@@ -132,8 +128,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[syrian-rue-peganum-harmala-ethnobotany]] — [[turner-harmala-alkaloids-preparation-and-dosage]]
+- [[cultural-evolution-and-psychoactive-substances]]
 - [[lagochilus-inebrians]]
 - [[syrian-rue-turkestan-mint-and-lesser-old-world-hallucinogens]]
 - [[thin-mint]]

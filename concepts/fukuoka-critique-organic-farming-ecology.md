@@ -26,12 +26,6 @@ agriculture. But in his view, organic farming is very different from
 - [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-natural-vs-scientific-farming]]
 
-## See Also
-
-- [[masanobu-fukuoka]]
-- [[permaculture]]
-- [[fukuoka-organic-farming-destructive-compost-depletion-critique]]
-
 ## Overview
 
 Fukuoka Critique Organic Farming Ecology represents an important element within sustainable
@@ -109,8 +103,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[masanobu-fukuoka]]
+- [[permaculture]]
+- [[fukuoka-organic-farming-destructive-compost-depletion-critique]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

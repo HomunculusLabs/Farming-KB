@@ -61,14 +61,6 @@ Each entry follows a consistent format:
 
 Tryptamines primarily act as serotonin receptor agonists, particularly at 5-HT2A and 5-HT1A receptors. The Shulgin compounds span a wide range of receptor affinities and functional selectivities, from the extremely potent lysergamides (microgram range) to the simpler tryptamines (milligram range).
 
-## See Also
-
-- [[dmt-compound-profile]]
-- [[tryptamine-family-overview]]
-- [[psilocin-and-psilocybin-chemistry]]
-- [[5-meo-dmt-compound-profile]]
-- [[ayahuasca-pharmacology]]
-
 ## Overview
 
 Tihkal Introduction And Methodology represents an important element within sustainable
@@ -146,4 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[dmt-compound-profile]]
+- [[tryptamine-family-overview]]
+- [[psilocin-and-psilocybin-chemistry]]
+- [[5-meo-dmt-compound-profile]]
+- [[ayahuasca-pharmacology]]

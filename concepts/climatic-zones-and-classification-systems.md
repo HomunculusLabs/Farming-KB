@@ -30,10 +30,6 @@ Because local climate is so site-specific and so critical to design success, it 
 - Design for extremes, not averages
 - Incorporate fail-safe diversity in all systems
 
-## See Also
-- [[climatic-zones-and-global-weather-patterns]]
-- [[mollison-designers-climate-classification-and-design-zones]]
-
 ## Overview
 
 Climatic Zones And Classification Systems represents an important element within sustainable
@@ -111,10 +107,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[climatic-zones-and-global-weather-patterns]]
+- [[mollison-designers-climate-classification-and-design-zones]]
 - [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]
 - [[climatic-factors-in-design]]
-- [[climatic-zones-and-global-weather-patterns]]
 - [[humid-tropics-introduction-and-climatic-zones]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]

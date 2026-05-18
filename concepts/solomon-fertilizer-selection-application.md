@@ -18,9 +18,6 @@ NPK 4-3-2) is far better but should not be overused -- it is high in nitrogen
 and can burn plants if applied too heavily. Apply chicken manure at about half
 the rate of COF.
 
-## See Also
-
-- [[solomon-irrigation-water-scarce]] for fertigation bucket techniques
 ## Practical Considerations
 
 When working with Fertilizer Selection and Application Rates, several practical factors should be
@@ -139,8 +136,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[solomon-irrigation-water-scarce]] for fertigation bucket techniques
 - [[solomon-disease-identification-and-organic-remedies]]
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-raised-beds-and-bed-preparation]]

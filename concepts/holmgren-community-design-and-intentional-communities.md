@@ -19,11 +19,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[det]]
-- [[holmgren-self-regulation-and-feedback-systems-design]]
-- [[holmgren-wholistic-design-thinking]]
-
 ## Overview
 
 Holmgren Community Design And Intentional Communities represents an important element within sustainable
@@ -101,10 +96,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[holmgren-self-regulation-and-feedback-systems-design]]
+- [[holmgren-wholistic-design-thinking]]
 - [[holmgren-aboriginal-management-edge-landscapes]]
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]
 - [[holmgren-catch-and-store-energy-four-landscape-storages]]
 - [[holmgren-economic-and-social-succession]]
-- [[holmgren-self-regulation-and-feedback-systems-design]]

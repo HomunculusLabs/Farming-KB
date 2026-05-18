@@ -31,14 +31,6 @@ In Alice Springs, Central Australia, extensive discing over 600 square kilometer
 - **Monitor indicator species**: Sea barley grass and spike rush signal salinity problems before catastrophic soil collapse
 - **Install interceptor banks early**: Prevent the cascade of salt-laden water downhill before it destroys agricultural land
 - **Integrate livestock into structures**: Chickens, frogs, and fish within greenhouse structures create pest control and nutrient cycling
-## See also
-
-- [[earth-cellar-construction]]
-- [[dryland-building-and-settlement]]
-- [[dryland-precipitation-and-opportunistic-ecology]]
-- [[dryland-salting-mollison]]
-- [[dryland-vegetable-gardening]]
-
 ## Overview
 
 Dryland Buildings And Settlements represents an important element within sustainable
@@ -116,8 +108,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[earth-cellar-construction]]
+- [[dryland-building-and-settlement]]
+- [[dryland-precipitation-and-opportunistic-ecology]]
+- [[dryland-salting-mollison]]
+- [[dryland-vegetable-gardening]]
 - [[dryland-building-settlements]]
 - [[dryland-designers-checklist]]
 - [[dryland-permaculture-strategies]]

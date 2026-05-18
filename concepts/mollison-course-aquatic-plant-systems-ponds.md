@@ -53,11 +53,6 @@ living forms and particle and shoots them out and buries them. Of all
 plants, animals, seeds, anything, the mussels are the superior phosphorus
 fixer.
 
-## See Also
-- [[mollison-goats-and-browsing-systems-in-permaculture]]
-- [[human-vs-plant-photoreceptor-systems-comparison]]
-- [[mollison-pdc-trellis-systems-climate-control]]
-
 ## Overview
 
 Mollison Course Aquatic Plant Systems Ponds represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-goats-and-browsing-systems-in-permaculture]]
+- [[human-vs-plant-photoreceptor-systems-comparison]]
+- [[mollison-pdc-trellis-systems-climate-control]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-conifer-forestry-and-timber]]
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]

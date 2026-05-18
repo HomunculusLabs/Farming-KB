@@ -45,9 +45,6 @@ suppress plant diseases without chemical inputs. Fukuoka pointed to the example
 of shrine groves in Japanese villages, where tall trees grew to great size
 without the aid of [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] and mechanical soil preparation.
 
-## See Also
-
-- [[clay-seed-pellets]]
 ## Practical Considerations
 
 Successful implementation of No Till Agriculture requires attention to
@@ -144,7 +141,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[clay-seed-pellets]]
 - [[comparison-no-till-vs-raised-bed]]
 - [[fukuoka-rice-barley-no-till-method]]

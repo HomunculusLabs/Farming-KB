@@ -50,14 +50,6 @@ Zoning is about correct placement — positioning elements by frequency of human
 
 Local spending keeps money circulating within communities. When money is spent with a local producer using local materials, it stays within the community to be continually reinvested. Community orchards, LETS (Local Exchange Trading Systems), and local distinctiveness (preserving regional heritage varieties) all strengthen community resilience against homogenization and corporate extraction.
 
-## See Also
-
-- [[permaculture-ethics-and-principles]]
-- permaculture design principles beginners
-- [[permaculture-zones-and-sectors]]
-- [[permaculture-zone-and-sector-analysis]]
-- [[permaculture-design]]
-
 ## Overview
 
 Permaculture Design Principles Beginners represents an important element within sustainable
@@ -135,8 +127,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-ethics-and-principles]]
+- permaculture design principles beginners
+- [[permaculture-zones-and-sectors]]
+- [[permaculture-zone-and-sector-analysis]]
+- [[permaculture-design]]
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]

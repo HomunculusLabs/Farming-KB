@@ -18,7 +18,6 @@ sources: [cotter-organic-mushroom-farming-mycoremediation]
 - Stunted growth or twisted/fried leaves indicate contamination
 - Mycoremediation with [[query-can-fungi-break-down-plastic-pollution]] these compounds, but testing is essential
 
-## See Also
 ## Practical Applications
 
 mushroom-composting has a range of practical applications that make it relevant to
@@ -85,6 +84,7 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
+
 
 ## See Also
 - [[doc]]

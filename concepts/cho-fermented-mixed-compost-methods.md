@@ -52,11 +52,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[permaculture]]
-- [[fermented-mixed-compost-fmc]]
-- [[compost-tea-application-methods]]
-
 ## Overview
 
 Cho Fermented Mixed Compost Methods represents an important element within sustainable
@@ -134,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture]]
+- [[fermented-mixed-compost-fmc]]
+- [[compost-tea-application-methods]]
 - [[comparison-fermented-plant-extract-vs-compost-tea]]
 - [[fermented-dairy-and-cultured-milk-products]]
 - [[fermented-vegetables-guide]]

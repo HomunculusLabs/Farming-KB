@@ -32,10 +32,6 @@ Fungal spores vary enormously in longevity. Some spores remain viable for only d
 
 The efficiency of spore dispersal determines fungal colonization patterns, population genetic structure, and biogeographic distributions. [[gadd-aspergillus-fumigatus-glucan-virulence]] (globally distributed) illustrates how dispersal capacity interacts with ecology to shape fungal biogeography. Understanding dispersal biology is essential for predicting the spread of fungal pathogens, invasive species, and fungal-roles-built-environments.
 
-## See also: [[fungal-stress-responses]], [[fungal-spore-biology]]
-- [[fungal-biogeography]]
-- [[doc]]
-
 ## Overview
 
 Fungal Spore Biology Dispersal represents an important element within sustainable
@@ -113,8 +109,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-biogeography]]
+- [[doc]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

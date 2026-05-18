@@ -54,16 +54,6 @@ The conversion of agricultural land to housing developments has been a major fac
 
 Homeowners can inadvertently worsen infestations by keeping rhizomorphs soaked with lawn sprinklers and using air conditioning to cool the fungus to its optimum growth temperature of approximately 23°C (73°F). This combination of moisture and temperature creates near-ideal conditions for Meruliporia establishment.
 
-## See Also
-
-- [[poria-cocos]]
-
-- [[basidiomycete-phylum-guide]]
-- fungal-wood-decay-types-white-rot-brown-rot
-- [[meruliporia-incrassata]]
-- [[serpula-himantioides]]
-- [[psilocybin]]
-
 ## Overview
 
 Dry Rot Fungi Serpula Meruliporia represents an important element within sustainable
@@ -141,8 +131,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[poria-cocos]]
+- [[basidiomycete-phylum-guide]]
+- fungal-wood-decay-types-white-rot-brown-rot
+- [[meruliporia-incrassata]]
+- [[serpula-himantioides]]
+- [[psilocybin]]
 - [[fungi-environment-mycelial-nutrient-transport-imaging]]
 - [[mycorrhizal-fungi-biome-surveys]]
 - [[neurotropic-fungi-chemical-compounds]]

@@ -23,13 +23,6 @@ When a person ingests [[informational-monism]] preserves the reality of consciou
 The mind-body problem is not merely an academic curiosity for psychedelic researchers.
 
 It directly affects how we interpret the significance of psychedelic experiences.
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -129,8 +122,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[blesching-mind-body-medicine-immune-vulnerability-viral-infections]]
 - [[blesching-mind-body-molecules-emotions]]
 - [[cannabis-mind-body-medicine-integration]]

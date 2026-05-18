@@ -33,11 +33,6 @@ Since Harmala slows the onset so drastically, much of the brilliance experienced
 ## Small-Dose Experience
 
 A small dose of 5-MeO produces only bodily symptoms and a slight alteration of consciousness, especially in the visual field. In contrast, a small dose of N,N-DMT will still produce a psychedelic trip (without the intensity and depth of a full dose).
-## See Also
-
-- [[psychedelic-combination-guide]]
-- [[mao-inhibitors-and-psychedelics]]
-
 ## Overview
 
 Turner 5Meo Dmt represents an important element within sustainable
@@ -115,8 +110,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psychedelic-combination-guide]]
+- [[mao-inhibitors-and-psychedelics]]
 - [[psychedelic-safety-guidelines-turner]]
 - [[turner-cydelikspace-and-psychedelic-reality]]
 - [[turner-ketamine-lsd-dmt-interactions-recovery-effects]]

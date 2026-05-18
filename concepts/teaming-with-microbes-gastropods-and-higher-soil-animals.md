@@ -28,10 +28,6 @@ entirely underpinned by microarthropods and microorganisms, which far
 outnumber them in any soil food web. The larger animals are the visible
 tip of a much larger, mostly invisible ecosystem.
 
-## See Also
-
-- [[teaming-with-microbes-springtails-and-collembola]]
-- [[teaming-with-microbes-plant-control]]
 ## Practical Considerations
 
 Successful implementation of Gastropods and Higher Soil Animals requires attention to
@@ -128,10 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[teaming-with-microbes-springtails-and-collembola]]
+- [[teaming-with-microbes-plant-control]]
 - [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]
 - [[teaming-with-microbes-overview]]
-- [[teaming-with-microbes-plant-control]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
 - [[teaming-with-microbes-soil-ph-and-biology]]

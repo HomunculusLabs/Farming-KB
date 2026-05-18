@@ -40,10 +40,6 @@ perception is in many respects more sophisticated than human vision,
 processing multiple wavelength channels simultaneously to coordinate growth,
 development, and metabolic responses.
 
-## See Also
-
-- [[plant-tropisms-perception-mechanisms]]
-
 ## Overview
 
 Plant Vision And Light Perception Mechanisms represents an important element within sustainable
@@ -121,8 +117,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[plant-tropisms-perception-mechanisms]]
 - [[chamovitz-gradualist-framework-plant-sensory-capabilities]]
 - [[herbal-plant-remedies]]
 - [[plant-communication-volatile-organic-compounds]]

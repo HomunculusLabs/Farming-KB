@@ -60,9 +60,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-## See Also
-- emcdda psilocybin non addictive profile tolerance dynamics
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -91,7 +88,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- emcdda psilocybin non addictive profile tolerance dynamics
 - [[psilocybin]]
 - [[doc]]
 - [[psilocybin-psilocin-flush-dynamics-biosynthetic-timing-bigwood-beug]]

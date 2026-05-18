@@ -30,11 +30,6 @@ Global Influence
 
 The PF TEK was copied by organizations worldwide, including Hemp BC (Vancouver), Hemp Nation (Canada), Psilo-grow (Amsterdam), Smart Botanics (Gouda), the Florida Mycology Research Center, and was featured on the Lycaeum, Erowid, and Hyperreal websites. It appeared in multiple languages and inspired numerous modifications including Italian versions using sand, perlite, and whole grains as vermiculite substitutes.
 
-## See Also
-
-- [[pf-tek-fruiting-chamber]]
-- [[psychedelic-mushroom-set-and-setting]]
-
 ## Overview
 
 Pf Tek Psilocybe Fanaticus Cultivation Method represents an important element within sustainable
@@ -112,8 +107,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pf-tek-fruiting-chamber]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[psilocybe-caeruleoannulata]]
 - [[psilocybe-ovoidocystidiata]]
 - [[psilocybe-phyllogena]]

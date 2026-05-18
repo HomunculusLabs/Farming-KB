@@ -28,17 +28,6 @@ Even [[fukuoka-disappearance-natural-diet]] | [[holmgren-vegetation-patterns-bio
 - Apply a thin layer of chicken manure or compost only if soil fertility is visibly deficient.
 - Harvest at natural maturity rather than forcing early or late harvests with chemical inputs.
 
-## See Also
-
-Related topics in this wiki include: [[one-straw-revolution-key-concepts]], [[fukuoka-no-weeding-no-pesticides]], [[clay-seed-balls-tsuchi-dango]].
-
-For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
-The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
-Key to success is abandoning the mindset that nature needs to be controlled and instead learning to cooperate with natural processes.
-Winter grain cultivation without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
-The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
-Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
-Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates around the world.
 ## Practical Considerations
 
 Successful implementation of Fukuoka What Lies Ahead for Modern Agriculture requires attention to
@@ -79,7 +68,16 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+Related topics in this wiki include: [[one-straw-revolution-key-concepts]], [[fukuoka-no-weeding-no-pesticides]], [[clay-seed-balls-tsuchi-dango]].
+For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
+The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
+Key to success is abandoning the mindset that nature needs to be controlled and instead learning to cooperate with natural processes.
+Winter grain cultivation without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
+The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
+Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
+Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates around the world.
 - [[doc]]
 - [[ground-cover-plants]]
 - [[natural-farming]]

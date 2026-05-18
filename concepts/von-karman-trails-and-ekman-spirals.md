@@ -77,13 +77,10 @@ Creatures that live in open flow conditions are specially shaped and adapted to 
 - Vogel, S. (1981). *Life in Moving Fluids*. A comprehensive scholarly work on the relationships between fluid flow, boundary conditions, and the forms these impose on organisms.
 - Von Kármán, T. — Original theoretical work on vortex streets in fluid dynamics.
 
+
 ## See Also
 - [[mollison-von-karman-trails-and-flowforms]]
-
-## See Also
-
 - [[von-karman-trails-and-fluid-flow-patterns]]
 - [[von-karman-trail]]
 - [[von-karman-trails-and-flow-patterns]]
-- [[mollison-von-karman-trails-and-flowforms]]
 - [[ekman-spiral-mollison]]

@@ -14,9 +14,6 @@ Soil aggregates are the fundamental structural units of soil. Well-aggregated so
 
 The process begins as hyphae grow through soil, depositing glomalin along their length. When hyphae die and decompose, the glomalin-coated soil particles remain bound together. New [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. The [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in degraded soils, offering a pathway to restore soil health in agricultural and restoration contexts.
 
-## See Also
-
-- [[fungal-indicators-soil-quality-ecosystem-health]]
 ## Practical Applications
 
 Glomalin and Soil Carbon has a range of practical applications that make it relevant to
@@ -87,7 +84,9 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[det]]
 - [[composting]]
 - [[mycorrhizal-fungi]]

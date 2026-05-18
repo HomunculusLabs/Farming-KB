@@ -69,11 +69,6 @@ While not energy generation per se, Holzer's building methods dramatically reduc
 
 The energy systems on the Krameterhof demonstrate that a modern farm can operate entirely without fossil fuel inputs. The key is to work with natural forces (gravity, water flow, thermal mass) rather than against them.
 
-## See Also
-
-- [[holzer-bone-salve-rock-dust]]
-- [[holzer-stone-fruit-varieties-and-growing]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -102,7 +97,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[holzer-bone-salve-rock-dust]]
+- [[holzer-stone-fruit-varieties-and-growing]]
 - [[holzer-browsing-protection-methods]]
 - [[holzer-water-landscapes-retention]]
 - [[holzer-livestock-philosophy-paddock-system]]

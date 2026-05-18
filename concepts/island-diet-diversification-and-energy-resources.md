@@ -32,11 +32,6 @@ Effective island permaculture design integrates terrestrial and marine systems i
 - **Design plant and animal assemblies** in relation to local culture, market opportunities, processing capacity, available labour, and value-added potential rather than imposing generic templates.
 - **Design houses and villages for low-energy climate control**, using prevailing breezes, shading, thermal mass, and elevated structures to minimise cooling demands and maximise comfort without mechanical systems.
 - **Integrate marine systems as full partners** in the design — reefs, lagoons, and nearshore waters are productive zones equivalent in importance to agricultural land and must be managed with equal care and intention.
-## See Also
-
-- [[tropical-island-diet-diversification-and-energy-resources]]
-- [[low-island-coral-cay-strategies]]
-
 ## Overview
 
 Island Diet Diversification And Energy Resources represents an important element within sustainable
@@ -114,8 +109,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tropical-island-diet-diversification-and-energy-resources]]
+- [[low-island-coral-cay-strategies]]
 - [[cortes-island-mycoforestry-project]]
 - [[extending-diet-island-food-systems]]
 - [[mollison-designers-high-island-and-tropical-valley-design]]

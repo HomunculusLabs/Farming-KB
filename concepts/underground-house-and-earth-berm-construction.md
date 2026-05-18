@@ -28,10 +28,6 @@ Most modern [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]** -- earth 
 
 A sod or living roof can be added to conventional structures (not just underground houses) to gain thermal mass and insulation benefits. The roof must be very strong and well supported, with a moisture barrier between the roof deck and the sod layer. A beam along the edge prevents soil sliding, and metal flashing under the eaves protects gutters. In wet areas, regular grass works; in dry climates, local groundcover species are better.
 
-## See Also
-
-- [[cordwood-construction]]
-- [[building-with-natural-materials]]
 ## Practical Considerations
 
 Successful implementation of Underground House and Earth Berm Construction requires attention to
@@ -128,8 +124,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cordwood-construction]]
+- [[building-with-natural-materials]]
 - [[comparison-greenhouse-vs-underground-walipini]]
 - [[london-underground-and-british-magic-mushroom-discovery]]
 - [[neurotropic-fungi-underground-trade-legislation-guzman-1998]]

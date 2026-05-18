@@ -53,11 +53,6 @@ for a replacement before use.
 ## Control Jar Technique
 To verify that the steam sterilization process is effective, the PF TEK
 recommends the control jar technique. For broader [[pf-tek-desiccant-drying-technique]]
-## See Also
-- [[microwave-steam-flash-sterilization-mechanism]]
-- [[trace-water-flash-steam-microwave-sterilization]]
-- [[growing-gourmet-atmospheric-steam-sterilization]]
-
 ## Overview
 
 Pf Tek Steam Sterilization Technique represents an important element within sustainable
@@ -135,10 +130,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
+## See Also
+- [[microwave-steam-flash-sterilization-mechanism]]
+- [[trace-water-flash-steam-microwave-sterilization]]
 - [[growing-gourmet-atmospheric-steam-sterilization]]
+- [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
 - [[scythian-cannabis-steam-bath-ritual]]
 - [[steam-sterilization-techniques]]
 - [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]

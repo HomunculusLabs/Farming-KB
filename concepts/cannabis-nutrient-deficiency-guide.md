@@ -18,13 +18,6 @@ tags: [cannabis, nutrients]
 
 Immobile nutrients -- [[query-how-to-identify-and-fix-cannabis-iron-deficiency]], [[cannabis-nutrient-solution-preparation]] for mixing guidelines
 
-## See Also
-
-- [[cannabis-organic-fertilizers]]
-- [[doc]]
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]]
-- [[cannabis-grow-nutrient-deficiency-problem-solving]]
-
 ## Overview
 
 Cannabis Nutrient Deficiency Guide represents an important element within sustainable
@@ -102,8 +95,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-organic-fertilizers]]
+- [[doc]]
+- [[cannabis-nutrient-deficiency-and-toxicity-guide]]
+- [[cannabis-grow-nutrient-deficiency-problem-solving]]
 - [[blesching-cannabis-antiemetic-vomiting]]
 - [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-parkinsons-disease]]

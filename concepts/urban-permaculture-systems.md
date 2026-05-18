@@ -7,11 +7,6 @@ type: concept
 # Urban Permaculture Systems
 
 Urban [[permaculture-principles]] to urban environments, cities can become net producers of food, clean water, and biological resources while reducing their ecological footprint.
-## See also
-
-- [[urban-guerrilla-gardening]]
-- [[water-catchment-urban-permaculture]]
-
 ## Overview
 
 Urban Permaculture Systems represents an important element within sustainable
@@ -89,8 +84,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[urban-guerrilla-gardening]]
+- [[water-catchment-urban-permaculture]]
 - [[bloomfield-basidiomycete-mating-systems-tetrapolar-incompatibility-dikaryon-genetics]]
 - [[urban-broadscale-restoration-watershed-repair]]
 - [[urban-permaculture-design]]

@@ -95,12 +95,10 @@ The upward spirals of humid air from forests carry insects, pollen, and bacteria
 
 **Trees, especially crosswind belts of tall trees, meet all of these criteria in one integrated system.** They also store water for local climatic modification. Total precipitation can be significantly changed (in either direction) by design actions on site, particularly within 30–100 km of coasts.
 
+
 ## See Also
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - [[trees-and-precipitation-generation]]
-
-## See Also
-
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]
 - [[hamilton-ornamental-trees]]

@@ -26,13 +26,6 @@ chemotherapy. The conidia of [[bloomfield-basidiomycete-biology-overview]]
 - [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
 - [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]]
 
-## See Also
-
-- [[aflatoxins-mycotoxins-food]]
-
-- [[bloomfield-eurotium-aspergillus-pleomorphism-dual-identity]]
-- [[bloomfield-basidiomycete-biology-overview]]
-- [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]]
 ## Related Topics
 
 - [[ingham-leaf-surface-biology-exudates]]
@@ -114,8 +107,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[aflatoxins-mycotoxins-food]]
+- [[bloomfield-eurotium-aspergillus-pleomorphism-dual-identity]]
+- [[bloomfield-basidiomycete-biology-overview]]
+- [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]]
 - [[bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution]]
 - [[bloomfield-fungal-secondary-metabolites]]
 - [[bloomfield-nematode-trapping-adhesive-snares-explosive-ring-mechanisms]]

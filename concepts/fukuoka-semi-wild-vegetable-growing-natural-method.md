@@ -60,11 +60,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[fukuoka-vegetable-growing-natural-method]]
-- [[fukuoka-natural-vegetable-rotation-semi-wild-cultivation]]
-- [[dom]]
-
 ## Overview
 
 Fukuoka Semi Wild Vegetable Growing Natural Method represents an important element within sustainable
@@ -142,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-vegetable-growing-natural-method]]
+- [[fukuoka-natural-vegetable-rotation-semi-wild-cultivation]]
+- [[dom]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

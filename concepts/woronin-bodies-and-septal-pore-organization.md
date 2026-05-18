@@ -88,15 +88,12 @@ The diversity of septal-pore-associated organelles across the fungal kingdom ref
 
 The independent evolution of septal-pore-associated organelles in both major dikaryan lineages (Ascomycota and Basidiomycota) underscores the fundamental importance of septal pore regulation in fungal biology. Despite convergent evolution toward similar functional outcomes, the molecular mechanisms and evolutionary origins of these organelles are entirely distinct.
 
-## See Also
 
+## See Also
 - [[fungal-mycelial-network-analysis]]
 - [[vacuolar-nutrient-transport-in-fungi]]
 - Pulsatile Nutrient Transport in Fungal Mycelia
 - Photon-Counting Scintillation Imaging of Mycelial Transport
-
-## See Also
-
 - [[woronin-bodies]]
 - [[hex-1-protein]]
 - [[septal-pore-cap]]

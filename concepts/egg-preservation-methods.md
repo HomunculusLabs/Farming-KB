@@ -29,10 +29,6 @@ Eggs can be frozen but must be removed from the shell first:
 
 Before using preserved eggs, test by placing in water. Discard any that float. Preserved eggs are best used in cooking and baking rather than for dishes where egg freshness is critical (like fried eggs or poached eggs).
 
-## See Also
-
-- [[sustainable-living-habits-for-homesteads]]
-- [[solomon-root-cellaring-and-crop-storage]]
 ## Practical Considerations
 
 Successful implementation of Egg Preservation Methods requires attention to
@@ -80,7 +76,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[sustainable-living-habits-for-homesteads]]
+- [[solomon-root-cellaring-and-crop-storage]]
 - [[natural-farm-food-preservation-methods]]
 - [[palmer-mushroom-drying-preservation-methods]]
 - [[oss-oeric-drying-and-preservation-methods]]

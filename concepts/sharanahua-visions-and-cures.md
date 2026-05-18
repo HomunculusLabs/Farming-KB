@@ -98,14 +98,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[harner-sharanahua-visions-and-cures]]
 - [[gerald-weiss]]
 - [[janet-siskind]]
 - [[ayahuasca-ceremony]]
 - [[carlos-castaneda]]
-## See Also
-
 - [[hallucinogens-and-shamanism]]
 - [[banisteriopsis-and-ayahuasca]]
 - [[cashinahua-ayahuasca-practices]]

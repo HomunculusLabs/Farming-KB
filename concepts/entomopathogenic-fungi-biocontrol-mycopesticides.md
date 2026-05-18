@@ -30,11 +30,6 @@ Entomopathogenic fungi exhibit high specificity for their insect hosts
 and pose minimal risk to mammals, birds, fish, and most beneficial insects.
 This selectivity arises from the requirement for specific cuticular
 receptors and physiological conditions found only in susceptible insects.
-## See Also
-
-- [[mycofiltration-fungal-water-filtration]]
-- mushroom life cycle spore to fruiting body
-
 ## Overview
 
 Entomopathogenic Fungi Biocontrol Mycopesticides represents an important element within sustainable
@@ -112,8 +107,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycofiltration-fungal-water-filtration]]
+- mushroom life cycle spore to fruiting body
 - [[biodiversity-fungi-entomopathogenic-insect-pathogens]]
 - [[comparison-trichoderma-vs-entomopathogenic-fungi]]
 - [[cordyceps-and-entomopathogenic-fungi]]

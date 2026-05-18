@@ -58,11 +58,6 @@ root reserves.
 Weeds with deep taproots, such as dandelions and docks, are remarkably
 resilient. Even a dock root nailed to a shed door and left for two years
 
-## See Also
-- [[doc]]
-- [[dandelion]]
-- [[ground-cover-chapter]]
-
 ## Overview
 
 Hamilton Clearing Uncultivated Ground represents an important element within sustainable
@@ -140,8 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[dandelion]]
+- [[ground-cover-chapter]]
 - [[hamilton-cottage-garden-design]]
 - [[hamilton-garden-ponds-and-aquatic-plants]]
 - [[hamilton-pruning-and-training-fruit-trees]]

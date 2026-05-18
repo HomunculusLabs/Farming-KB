@@ -52,12 +52,6 @@ Market considerations should also inform species selection. [[mushroom-cultivati
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[oyster-mushroom-species-and-strain-selection]]
-- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
-- [[mushroom-species-parameters-comparison]]
-- [[mushroom-species-sequencing-cultivation]]
-
 ## Overview
 
 Mushroom Species Selection represents an important element within sustainable
@@ -135,8 +129,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[oyster-mushroom-species-and-strain-selection]]
+- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
+- [[mushroom-species-parameters-comparison]]
+- [[mushroom-species-sequencing-cultivation]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

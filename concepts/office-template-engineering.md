@@ -62,10 +62,6 @@ both static content and dynamic elements like fields and content controls.
 
 Conditional formatting in templates uses fields and IF expressions to vary
 
-## See Also
-- [[genetic-engineering-fungal-bioremediation]]
-- [[fukuoka-textdoc-genetic-engineering-warning]]
-
 ## Overview
 
 Office Template Engineering represents an important element within sustainable
@@ -143,8 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[genetic-engineering-fungal-bioremediation]]
+- [[fukuoka-textdoc-genetic-engineering-warning]]
 - [[binary-document-format-reverse-engineering]]
 - [[fukuoka-critique-genetic-engineering]]
 - [[fukuoka-textdoc-genetic-engineering-critique-warning]]

@@ -40,13 +40,6 @@ Essential equipment includes:
 - Long-term experiments may be limited by medium exhaustion
 - Scale is small compared to soil-based systems
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-- carbon isotope mycorrhizal allocation tracking
-- [[symbiotic-fungi-mycorrhizosphere-helper-bacteria]]
-- [[symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions]]
-
 ## Overview
 
 Symbiotic Fungi Compartmented In Vitro Amf Transport Systems represents an important element within sustainable
@@ -124,8 +117,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
+- carbon isotope mycorrhizal allocation tracking
+- [[symbiotic-fungi-mycorrhizosphere-helper-bacteria]]
+- [[symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions]]
 - [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]]
 - [[symbiotic-fungi-mycorrhizal-bioassays-agriculture]]
 - [[symbiotic-fungi-mycorrhizal-carbon-trading]]

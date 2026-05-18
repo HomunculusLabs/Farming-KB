@@ -62,13 +62,6 @@ grilled chicken stalls appear. Heavy catches of yang fish such as yellowtail and
 are made, and the exquisite flavor of yang fish during a yin season is described as
 part of nature's grand design. Daikon and leafy vegetables from the garden complement
 
-## See Also
-- [[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]]
-- [[fukuoka-textdoc-matter-spirit-unity-food]]
-- [[fukuoka-seasonal-eating-natural-food-calendar]]
-- [[matsutake-mushroom]]
-- [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]
-
 ## Overview
 
 Fukuoka Textdoc Seasonal Eating Japanese Food Calendar represents an important element within sustainable
@@ -146,4 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]]
+- [[fukuoka-textdoc-matter-spirit-unity-food]]
+- [[fukuoka-seasonal-eating-natural-food-calendar]]
+- [[matsutake-mushroom]]
+- [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]

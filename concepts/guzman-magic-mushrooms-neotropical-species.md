@@ -44,11 +44,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[det]]
-- [[mycorrhiza]]
-- [[guzman-magic-mushrooms-temperate-zone-species]]
-
 ## Overview
 
 Guzman Magic Mushrooms Neotropical Species represents an important element within sustainable
@@ -126,8 +121,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[mycorrhiza]]
+- [[guzman-magic-mushrooms-temperate-zone-species]]
 - [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
 - [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]]
 - [[guzman-psilocybin-mushrooms-africa]]

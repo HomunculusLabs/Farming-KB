@@ -46,12 +46,6 @@ fungal sheath, represents a uniquely extensive interface between plant
 and fungus that supports the diverse functional roles of
 [[fungal-ecosystem-processes-overview]].
 
-## See Also
-
-- [[ericoid-mycorrhiza]]
-- [[fungal-hyphae]]
-- [[ectomycorrhiza]]
-
 ## Overview
 
 Dighton Ectomycorrhizal Hartig Net Structure Function represents an important element within sustainable
@@ -129,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ericoid-mycorrhiza]]
+- [[fungal-hyphae]]
+- [[ectomycorrhiza]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]
 - [[dighton-fungal-succession-disturbance]]
 - [[dighton-fungi-tropical-forest-ecosystems]]

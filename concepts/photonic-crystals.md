@@ -48,18 +48,6 @@ The concept also matters philosophically because it shows that form can function
 [[statistical-mechanics]] supplies concepts for disorder, localization, and collective behavior in materials.
 [[kintsugi]] is unrelated technically but similarly highlights how visible structure can carry aesthetic meaning.
 
-## See Also
-Structural Color
-Metamaterials
-Integrated Photonics
-Nanofabrication
-Quantum Optics
-Optical Fiber
-Bragg Mirror
-Semiconductor Laser
-Cavity Quantum Electrodynamics
-Materials Science
-
 ## Overview
 
 Photonic Crystals represents an important element within sustainable
@@ -137,8 +125,18 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+Structural Color
+Metamaterials
+Integrated Photonics
+Nanofabrication
+Quantum Optics
+Optical Fiber
+Bragg Mirror
+Semiconductor Laser
+Cavity Quantum Electrodynamics
+Materials Science
 - [[fungal-calcium-oxalate-crystals]]
 - [[photonic-crystals-vs-metamaterials]]
 - [[query-how-do-photonic-crystals-create-structural-color]]

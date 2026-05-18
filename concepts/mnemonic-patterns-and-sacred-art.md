@@ -88,11 +88,9 @@ It is a challenge to educators to revive the meaningful geometries, songs, and d
 
 Some modern sculptural forms serve both aesthetic and functional purposes. The **[[virbela-institute]], Emerson College, Forest Row, East Sussex, UK (Flowform designs and research).
 
+
 ## See Also
 - [[hallucinogenic-mushroom-prevalence-use-patterns-europe]]
-
-## See Also
-
 - [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[mckenna-prehistoric-imagination-and-consciousness-patterns]]

@@ -48,11 +48,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[hericium-abietis]]
-- [[pcp]]
-- [[agarikon]]
-
 ## Overview
 
 Brown Rot White Rot Fungi Remediation represents an important element within sustainable
@@ -130,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hericium-abietis]]
+- [[pcp]]
+- [[agarikon]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[comparison-white-rot-vs-brown-rot-bioremediation]]
 - [[jadam-brown-rice-vinegar-production]]

@@ -26,9 +26,6 @@ and provides a far broader spectrum of microbial diversity.
 - Change leaf mold bags in water containers 1-2 times per year
 - The ultimate goal is to make farm soil resemble forest leaf mold
 
-## See Also
-
-- [[jadam-leaf-mold-soil-method]]
 ## Practical Applications
 
 JADAM Leaf Mold Source Collection and Artificial Production has a range of practical applications that make it relevant to
@@ -92,7 +89,8 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[jadam-leaf-mold-soil-method]]
 - [[det]]
 - [[jadam-humus-soil-and-leaf-mold-distinction]]
-- [[jadam-leaf-mold-soil-method]]

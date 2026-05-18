@@ -46,10 +46,6 @@ Solomon notes the opposite effect in hot climates: organic matter decomposes so 
 
 - **10°C:** Beans and corn can be planted; lettuce and peas grow well
 
-## See Also
-
-- [[solomon-soil-temperature-and-nighttime-plant-growth]]
-
 ## Overview
 
 Solomon Cool Climate Compost Soil Temperature Nutrient Release represents an important element within sustainable
@@ -127,8 +123,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[solomon-soil-temperature-and-nighttime-plant-growth]]
 - [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 - [[solomon-low-grade-compost-making-methods]]

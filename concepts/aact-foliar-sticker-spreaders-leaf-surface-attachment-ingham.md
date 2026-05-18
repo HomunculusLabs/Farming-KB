@@ -55,13 +55,6 @@ Aact Foliar Sticker Spreaders Leaf Surface Attachment Ingham has significant app
 ## Historical Significance
 The development and understanding of aact foliar sticker spreaders leaf surface attachment ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
-## See Also
-- [[ingham-leaf-surface-biology-exudates]]
-- [[ingham-foliar-pest-deterrence-aact]]
-- [[elaine-ingham]]
-- [[spore]]
-- [[ingham-leaf-surface-biology-phyllosphere-compost-tea-attachment]]
-
 ## Overview
 
 Aact Foliar Sticker Spreaders Leaf Surface Attachment Ingham represents an important element within sustainable
@@ -139,8 +132,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ingham-leaf-surface-biology-exudates]]
+- [[ingham-foliar-pest-deterrence-aact]]
+- [[elaine-ingham]]
+- [[spore]]
+- [[ingham-leaf-surface-biology-phyllosphere-compost-tea-attachment]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

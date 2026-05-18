@@ -21,13 +21,6 @@ Root pruning and managing rootbound plants are essential skills for
 maintaining [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] grows. [[cervantes-pruning-training]] aboveground can balance the temporary
 growth slowdown by redirecting energy to a more manageable canopy.
 
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -65,11 +58,6 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
-
-## See Also
-- [[cervantes-root-maggots-cutworms]]
-- [[cervantes-root-rot-pythium-damping-off]]
-- [[cervantes-nematodes-root-maggots-soil-pests]]
 
 ## Overview
 
@@ -147,3 +135,13 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+
+
+## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+- [[cervantes-root-maggots-cutworms]]
+- [[cervantes-root-rot-pythium-damping-off]]
+- [[cervantes-nematodes-root-maggots-soil-pests]]

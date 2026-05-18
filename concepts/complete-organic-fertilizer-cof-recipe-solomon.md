@@ -1,12 +1,5 @@
 # Complete Organic Fertilizer (COF) — [[coleman-winter-greens-nutritional-quality-cold-sweetening]] over maximum bulk yield.
 
-## See Also
-
-- [[row-gardening-vs-intensive-methods-solomon]]
-- [[complete-organic-fertilizer-cof]]
-- [[complete-organic-fertilizer-cof-solomon]]
-- [[growing-food-in-hard-times]]
-
 ## Overview
 
 Complete Organic Fertilizer Cof Recipe Solomon represents an important element within sustainable
@@ -84,9 +77,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[row-gardening-vs-intensive-methods-solomon]]
 - [[complete-organic-fertilizer-cof]]
+- [[complete-organic-fertilizer-cof-solomon]]
+- [[growing-food-in-hard-times]]
 - [[complete-organic-fertilizer-formulation]]
 - [[complete-organic-fertilizer-recipes]]
 - [[jadam-fertilizer-program-design]]

@@ -18,14 +18,6 @@ Updated: 2026-04-18 Duckweed (Lemna spp.) is a tiny floating aquatic plant that 
 
 - Thrives in nutrient-rich water — benefits from [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], and contaminants from water. It has been used in [[psilocybe-southeast-asia-pacific]], duckweed is harvested and eaten as a vegetable. It has a mild, slightly nutty flavor when fresh. It can be added to soups, stir-fries, and salads. The high protein and mineral content make it an excellent survival food. Some varieties have been selected specifically for human food use.
 
-## See Also
-
-- [[permaculture-animal-integration]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -129,8 +121,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-animal-integration]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[holzer-permaculture-landscape-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-methods-summary]]

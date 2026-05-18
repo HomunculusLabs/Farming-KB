@@ -25,13 +25,6 @@ minor grains like millet or buckwheat in the autumn, with the stubble left
 to decompose over winter. This pattern provides year-round ground cover,
 prevents erosion, fixes nitrogen through legumes, and produces diverse food
 crops without chemical inputs. The integration of fruit trees into this
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -66,11 +59,6 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
-
-## See Also
-- [[green-manure-crops]]
-- [[decomposition]]
-- [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]
 
 ## Overview
 
@@ -148,3 +136,13 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+
+
+## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+- [[green-manure-crops]]
+- [[decomposition]]
+- [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]

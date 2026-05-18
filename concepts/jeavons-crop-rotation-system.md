@@ -60,11 +60,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[companion-planting]]
-- [[fukuoka-white-clover-cover-crop-system]]
-- [[fukuoka-orchard-cover-crop-black-wattle-system]]
-
 ## Overview
 
 Jeavons Crop Rotation System represents an important element within sustainable
@@ -142,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[companion-planting]]
+- [[fukuoka-white-clover-cover-crop-system]]
+- [[fukuoka-orchard-cover-crop-black-wattle-system]]
 - [[jeavons-history-philosophy-biointensive-agriculture]]
 - [[jeavons-master-planning-mini-farms]]
 - [[jeavons-root-systems-below-ground-composting]]

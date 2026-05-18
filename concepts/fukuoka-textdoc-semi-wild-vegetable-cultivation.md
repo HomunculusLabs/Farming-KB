@@ -46,13 +46,6 @@ pesticides.
 
 Semi-wild vegetables have a pungent aroma and good body. Because these have been produced in
 healthy soil containing all the necessary micronutrients, they are without question the most
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -84,7 +77,12 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[fukuoka-semi-wild-vegetable-cultivation-techniques]]
 - [[fukuoka-semi-wild-vegetable-growing-techniques]]
 - [[fukuoka-semi-wild-vegetable-growing-natural-method]]

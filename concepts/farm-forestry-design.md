@@ -44,15 +44,6 @@ Mollison advocates for **small-scale forest farms** of approximately 12–16 hec
 
 The diversity of yields from small forest farms provides economic resilience, ecological stability, and a degree of self-sufficiency that is unattainable in conventional single-enterprise farming systems. Crucially, these yields can be harvested **continuously and sustainably** across seasons and years, providing a stable income stream that does not depend on a single harvest cycle or market price.
 
-## See Also
-
-- [Agroforestry](/wiki/concepts/agroforestry)
-- [Silvopasture](/wiki/concepts/silvopasture)
-- [Coppice Systems](/wiki/concepts/coppice-systems)
-- [Hedgerow Design](/wiki/concepts/hedgerow-design)
-- [Woodlot Management](/wiki/concepts/woodlot-management)
-- [Polyculture](/wiki/concepts/polyculture)
-
 ## Overview
 
 Farm Forestry Design represents an important element within sustainable
@@ -130,8 +121,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [Agroforestry](/wiki/concepts/agroforestry)
+- [Silvopasture](/wiki/concepts/silvopasture)
+- [Coppice Systems](/wiki/concepts/coppice-systems)
+- [Hedgerow Design](/wiki/concepts/hedgerow-design)
+- [Woodlot Management](/wiki/concepts/woodlot-management)
+- [Polyculture](/wiki/concepts/polyculture)
 - [[coleman-tools-small-farm]]
 - [[farm-strategies-for-yield-increase]]
 - [[fukuoka-shelterbelt-and-farm-site-selection]]

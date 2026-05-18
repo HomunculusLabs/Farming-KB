@@ -10,10 +10,6 @@ sources: []
 
 "[[cervantes-hash-cannabis-oil-production]] into hashish of varying quality. These methods go beyond traditional [[cannabis-hashish-guide]]
 
-## See Also
-
-- [[2c-d-pihkal-entry-23]]
-- [[cannabis-hashish-making-methods]]
 ## Practical Considerations
 
 Successful implementation of Cannabis Hash Making from Extracted Oil requires attention to
@@ -60,11 +56,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[isopropyl-alcohol]]
-- [[pittsburgh-doublewash]]
-- [[cannabis-hashish-from-extracted-oil-techniques]]
 
 ## Overview
 
@@ -143,8 +134,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[2c-d-pihkal-entry-23]]
+- [[cannabis-hashish-making-methods]]
+- [[isopropyl-alcohol]]
+- [[pittsburgh-doublewash]]
+- [[cannabis-hashish-from-extracted-oil-techniques]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

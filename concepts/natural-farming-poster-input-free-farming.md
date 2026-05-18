@@ -57,12 +57,6 @@ When applying these concepts, consider regional variations, available resources,
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
-
-- [[natural-farming-poster-korean-methods-summary]]
-- [[what-natural-farming-method-should-i-use]]
-- [[soil-microorganisms-natural-farming]]
-
 ## Overview
 
 Natural Farming Poster Input Free Farming represents an important element within sustainable
@@ -140,8 +134,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[natural-farming-poster-korean-methods-summary]]
+- [[what-natural-farming-method-should-i-use]]
+- [[soil-microorganisms-natural-farming]]
 - [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]
 - [[mushroom-natural-habitats]]

@@ -33,12 +33,6 @@ Trends over time show mushroom use prevalence among adolescents has generally
 declined or remained stable in most European countries since the late 2000s,
 following overall illicit drug use trends in this age group.
 
-## See Also
-
-- [[european-sclerotia-market-philosophers-stones]] — commercial availability affecting
-  prevalence measurements
-- [[dutch-smart-shop-paddos-history]] — legal context affecting prevalence data
-
 ## Overview
 
 Espad School Survey Methodology Mushroom Prevalence represents an important element within sustainable
@@ -116,8 +110,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[european-sclerotia-market-philosophers-stones]] — commercial availability affecting
+  prevalence measurements
+- [[dutch-smart-shop-paddos-history]] — legal context affecting prevalence data
 - [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
 - [[environmental-dna-fungal-survey]]

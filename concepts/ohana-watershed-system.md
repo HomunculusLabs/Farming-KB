@@ -22,9 +22,6 @@ The Ohana is not just a land division but a social-ecological unit: "If you belo
 
 High islands (over 1,000 feet) create their own microclimates. The windward side receives heavy orographic rainfall and supports rain forest. The leeward side is dry. "You can play all sorts of climate games downhill" -- descending from temperate species at elevation to ultra-tropical species at sea level. Mollison notes that "[[permaculture-principles]] of catching and storing energy, integrating rather than segregating, and producing no waste are all embodied in the Ohana system.
 
-## See Also
-
-- [[watershed-management]]
 ## Practical Considerations
 
 When working with Ohana Watershed System, several practical factors should be
@@ -145,6 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[watershed-management]]
 - [[broadscale-restoration-watershed-repair]]

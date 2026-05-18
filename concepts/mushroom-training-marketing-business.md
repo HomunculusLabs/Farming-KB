@@ -44,9 +44,6 @@ The manual recommends collaborating with various organizations:
 - International agencies such as FAO, ILO, and UNDP
 ## Value-Added Products
 Mushrooms can be processed into various products for additional income:
-## See Also
-
-- [[mushroom-training-mushroom-processing]]
 ## Practical Considerations
 
 Successful implementation of Mushroom Marketing and Business Development requires attention to
@@ -143,8 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-training-mushroom-processing]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

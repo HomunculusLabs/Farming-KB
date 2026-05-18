@@ -16,12 +16,6 @@ Amazonian ethnobotany encompasses the vast body of traditional plant knowledge d
 ## Merged: Michael Harner
 American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973). Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. Harner's work forced a serious academic reckoning with the centrality of psychoactive plants in shamanic practice worldwide, and his anthology became a foundational text for the emerging field of [[gartz-wasson-mexican-mushroom-cult-rediscovery]] discoveries that complement Harner's Amazonian work - [[amazonian-plant-teachers-doctores]] — Amazonian teacher plant traditions
 
-## See Also
-
-- [[hallucinogens-and-shamanism]]
-- [[hallucinogens-and-shamanism]]
-- [[hallucinogens-dissociative-agents-growing-united-states]]
-
 ## Practical Applications
 
 Hallucinogens and Shamanism — Harner Anthology has a range of practical applications that make it relevant to
@@ -85,7 +79,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[hallucinogens-and-shamanism]]
+- [[hallucinogens-dissociative-agents-growing-united-states]]
 - shamanism
 - [[doc]]
 - [[det]]

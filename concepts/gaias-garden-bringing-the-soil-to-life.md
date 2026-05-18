@@ -60,14 +60,6 @@ Ancient farmers knew this: Roman farm texts of Virgil and Cato both recommend pl
 
 A living, fertile soil is the cornerstone of a sustainable garden. By packing the growing earth with organic matter via thick mulch, self-renewing roots, and buried debris, gardeners beckon worms, beetles, mites, bacteria, fungi, and other helpers. Life builds on life. Whatever is planted in rich earth has a far greater chance of thriving.
 
-## See Also
-
-- [[teaming-with-microbes-mulch-and-soil-food-web]]
-- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
-- [[soil-life]]
-- [[composting]]
-- [[cover-crops]]
-
 ## Overview
 
 Gaias Garden Bringing The Soil To Life represents an important element within sustainable
@@ -145,6 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[teaming-with-microbes-mulch-and-soil-food-web]]
+- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
+- [[soil-life]]
+- [[composting]]
+- [[cover-crops]]
 - [[gaias-garden-hugelkultur]]

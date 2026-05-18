@@ -28,11 +28,6 @@ methylated with methyl iodide (5 mL) and KOH (3.0 g) in EtOH
 (75 mL) at room temperature for 5 days to give 8.2 g of the
 final aldehyde as a pale yellow liquid.
 
-## See Also
-- [[psilocybin]]
-- [[methanol]]
-- [[lsd]]
-
 ## Overview
 
 Asb Pihkal Entry 9 represents an important element within sustainable
@@ -110,8 +105,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin]]
+- [[methanol]]
+- [[lsd]]
 - [[4-t-tris-entity-pihkal]]
 - [[doc-pihkal-64]]
 - [[dopr-entity-pihkal]]

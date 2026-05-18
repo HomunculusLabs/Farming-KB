@@ -61,13 +61,6 @@ Acidophilic Alkalophilic Fungi has significant applications in sustainable agric
 ## Historical Significance
 The development and understanding of acidophilic alkalophilic fungi has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
-## See Also
-- [[phytohormone-activity-in-fungi-steroid-growth-regulation]]
-- [[cordyceps-cultivation]]
-- [[extremophilic-fungi]]
-- [[decomposition]]
-- [[microbial-ecology-fungi]]
-
 ## Overview
 
 Acidophilic Alkalophilic Fungi represents an important element within sustainable
@@ -145,6 +138,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phytohormone-activity-in-fungi-steroid-growth-regulation]]
+- [[cordyceps-cultivation]]
+- [[extremophilic-fungi]]
+- [[decomposition]]
+- [[microbial-ecology-fungi]]
 - [[fungi-environment-mycelial-nutrient-transport-imaging]]

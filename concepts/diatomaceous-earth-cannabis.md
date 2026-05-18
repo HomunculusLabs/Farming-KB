@@ -37,9 +37,6 @@ Beyond pest control, DE provides additional value in cannabis cultivation:
 
 These secondary benefits make DE a dual-purpose amendment for organic cannabis growers focused on [[organic-pest-and-disease-management]].
 
-## See Also
-
-- diatomaceous earth cannabis
 ## Practical Considerations
 
 Successful implementation of Diatomaceous Earth - Cannabis Pest Control requires attention to
@@ -87,7 +84,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- diatomaceous earth cannabis
 - [[query-how-to-use-diatomaceous-earth-in-the-garden]]
 - [[cannabis-botany-history-chemistry]]
 - [[blesching-cannabis-tourette-syndrome]]

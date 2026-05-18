@@ -16,10 +16,6 @@ In the very humid air of fog forests, giant trees may accumulate so much moistur
 
 Any strategy that generates, conserves, or stores water is critical to the permaculture design approach. Fog and dew harvesting should be considered as supplementary water sources, particularly in marginal climates, integrated through strategic plant placement, stone mulching, and wind-permeable condenser structures. Species selection should ensure yield even under drier-than-usual conditions, and water storage should be sized for distribution extremes rather than averages.
 
-## See Also
-- [[precipitation-types-and-dew-collection]]
-- [[precipitation-types-dew-fog-rainfall]]
-
 ## Overview
 
 Precipitation Types Dew Fog represents an important element within sustainable
@@ -97,8 +93,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[precipitation-types-and-dew-collection]]
+- [[precipitation-types-dew-fog-rainfall]]
 - [[desert-precipitation-and-opportunistic-response]]
 - [[dryland-precipitation-and-opportunistic-ecology]]
 - [[forest-water-cycling-and-precipitation]]

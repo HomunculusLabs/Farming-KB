@@ -34,9 +34,6 @@ not merely cultural color but an entire way of knowing—a philosophy of Mu
 that cannot be recovered once the living community that embodied it has been
 dispersed.
 
-## See Also
-- [[fukuoka-textdoc-village-philosophy-disappearance]]
-
 ## Overview
 
 Fukuoka Sunken Hearth And Village Philosophy represents an important element within sustainable
@@ -114,8 +111,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-textdoc-village-philosophy-disappearance]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

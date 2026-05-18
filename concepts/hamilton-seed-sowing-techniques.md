@@ -47,13 +47,6 @@ alginate gel and "sow" the mixture in a seed row.
 When seedlings are large enough to handle, thin to prevent
 overcrowding. Water rows well before thinning. [[comparison-cold-frame-gardening-vs-container-gardening-guide]].
 
-## See Also
-
-- [[organic-propagation-methods]]
-- [[geoff-hamilton]]
-- [[permaculture]]
-- [[fukuoka-sowing-clay-seed-ball-preparation]]
-
 ## Overview
 
 Hamilton Seed Sowing Techniques represents an important element within sustainable
@@ -131,8 +124,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[organic-propagation-methods]]
+- [[geoff-hamilton]]
+- [[permaculture]]
+- [[fukuoka-sowing-clay-seed-ball-preparation]]
 - [[hamilton-composting-and-organic-matter-management]]
 - [[hamilton-cottage-garden-design]]
 - [[hamilton-garden-ponds-and-aquatic-plants]]

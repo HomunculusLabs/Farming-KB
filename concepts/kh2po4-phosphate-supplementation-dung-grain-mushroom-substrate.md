@@ -53,11 +53,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[fungal-hyphae]]
-- [[brassinosteroids]]
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]]
-
 ## Overview
 
 Kh2Po4 Phosphate Supplementation Dung Grain Mushroom Substrate represents an important element within sustainable
@@ -135,10 +130,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-hyphae]]
+- [[brassinosteroids]]
+- [[kh2po4-phosphate-supplementation-mushroom-substrates]]
 - [[gadd-fungal-metal-immobilization-biomineralization-oxalate-carbonate-phosphate]]
 - [[gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation]]
 - [[kh2po4-phosphate-supplementation-brassinosteroid-synergy-psilocybe-cubensis]]
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]]
 - [[monopotassium-phosphate-kh2po4-mushroom-substrate-buffer-nutrient]]

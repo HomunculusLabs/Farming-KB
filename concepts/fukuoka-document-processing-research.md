@@ -40,13 +40,6 @@ The team developed methods for reliable extraction of text content and basic
 formatting from legacy binary word processor formats. This included work on
 the internal structures of Ichitaro (JustSystems), [[document-format-conversion-fidelity]]
 
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -90,7 +83,12 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[japanese-document-processing]]
 - [[fukuoka-tasty-rice-illusion-food-processing]]
 - [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]]

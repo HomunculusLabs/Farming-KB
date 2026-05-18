@@ -23,11 +23,6 @@ The permaculture approach to yield is fundamentally ethical. Yield is not merely
 
 Accumulations of unused benefits are predictive of collapse at the production level, and thence throughout all tiers of the system. The 4–6% of the population in essential production cannot indefinitely support the remaining 94% deriving secondary or tertiary benefits without adequate return to primary producers. This imbalance can only result in a weak economy, waste, and irresponsibility.
 
-## See Also
-
-- [[yield-systems-and-design-strategies]]
-- [[yield-theory-and-strategies-in-permaculture-design]]
-
 ## Overview
 
 Yield Extension And Storage represents an important element within sustainable
@@ -105,10 +100,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[yield-systems-and-design-strategies]]
+- [[yield-theory-and-strategies-in-permaculture-design]]
 - [[chen-maitake-harvesting-yield-comparison]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]
 - [[system-yield-permaculture-design]]
-- [[yield-systems-and-design-strategies]]

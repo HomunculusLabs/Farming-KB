@@ -28,10 +28,6 @@ stiripentol.
 
 The pharmacokinetics of CBD are complex. Oral bioavailability is
 
-## See Also
-
-- [[cannabis-for-leukemia-and-lymphoma]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -59,11 +55,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[serotonin]]
-- [[cannabis-and-epilepsy]]
 
 ## Overview
 
@@ -142,8 +133,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-for-leukemia-and-lymphoma]]
+- [[dom]]
+- [[serotonin]]
+- [[cannabis-and-epilepsy]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

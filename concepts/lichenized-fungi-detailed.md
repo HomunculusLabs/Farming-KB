@@ -13,11 +13,6 @@ sources: []
 Lichens are composite organisms consisting of a fungal partner (mycobiont) and a photosynthetic partner (photobiont) that grow symbiotically to form a coherent structure (the thallus). Through the [[lichens]]
 - [[lichens]]
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
-creative adaptation to local conditions and emerging challenges.
-
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
@@ -141,8 +136,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+creative adaptation to local conditions and emerging challenges.
 - [[biodiversity-lichenized-fungi-symbiosis]]
 - [[lichenized-fungi-bioindicators]]
 - [[lichenized-fungi-biology-ecology-diversity]]

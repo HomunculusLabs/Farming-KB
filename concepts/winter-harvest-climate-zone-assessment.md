@@ -84,14 +84,11 @@ Coleman identifies four specific temperature factors that determine crop quality
 Coleman's central argument is that winter vegetable production is feasible across a much broader geographic range than most growers assume. His experimental work in Zone 3 Vermont mountains proved that even in extremely cold climates, the [[winter-harvest-system]] works. The combination of appropriate protection structures, cold-hardy crop selection, and proper timing makes year-round fresh vegetable production possible for most of the continental United States.
 
 The climate maps serve primarily to encourage growers to attempt winter production by demonstrating that their conditions are likely more favorable than they believe — especially when compared to the proven success of winter growing in southern France and other European regions with similar or harsher winter conditions.
-## See also
 
+## See Also
 - [[coleman-winter-harvest-planting-schedule]]
 - [[coleman-unheated-greenhouse-design]]
 - [[winter-spinach-production]]
-
-## See Also
-
 - [[winter-harvest-crop-categories-management]]
 - [[winter-harvest-crop-rotation-and-fertility]]
 - [[winter-harvest-handbook-overview]]

@@ -57,16 +57,6 @@ Shulgin noted significant uncertainties when equating the pure chemicals with th
 
 Psilocin and psilocybin are Schedule I drugs under the US Controlled Substances Act. Interestingly, no mushroom genera (Psilocybe, Panaeolus, Inocybe, Stropharia) or individual species are explicitly named in federal statute. However, since the fruiting bodies contain Schedule I substances, growing or possessing them can be treated as manufacture or distribution of controlled substances.
 
-## See Also
-
-- [[tryptamine-family-overview]]
-- [[tihkal-introduction-and-methodology]]
-- [[psilocybin-mushroom-chemistry]]
-- [[psilocybin-pharmacology-detail]]
-- [[psilocybe-genus-classification]]
-- [[european-psilocybin-species]]
-- [[dmt-compound-profile]]
-
 ## Overview
 
 Psilocin And Psilocybin Chemistry represents an important element within sustainable
@@ -144,7 +134,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tryptamine-family-overview]]
+- [[tihkal-introduction-and-methodology]]
+- [[psilocybin-mushroom-chemistry]]
+- [[psilocybin-pharmacology-detail]]
+- [[psilocybe-genus-classification]]
+- [[european-psilocybin-species]]
+- [[dmt-compound-profile]]
 - [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]
 - [[psilocin-psilocybin-characterization]]

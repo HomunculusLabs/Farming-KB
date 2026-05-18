@@ -10,9 +10,6 @@ interface. Using two-dimensional gel electrophoresis and mass
 spectrometry, researchers have identified differentially expressed
 proteins involved in [[mycorrhizal-symbiosis]].
 
-## See Also
-
-- [[proteomics-early-am-symbiosis-stages]]
 ## Practical Applications
 
 Proteomics of Early Arbuscular Mycorrhiza Symbiosis has a range of practical applications that make it relevant to
@@ -147,4 +144,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[proteomics-early-am-symbiosis-stages]]

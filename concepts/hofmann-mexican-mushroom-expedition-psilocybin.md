@@ -28,13 +28,6 @@ reduced to the mystery of the effects of two crystalline substances,
 since these effects cannot be explained by science either, but can only
 be described.
 
-## See Also
-
-- [[wasson-rediscovery-of-psilocybin]]
-- [[psilocybin]]
-- [[psilocin]]
-- [[indole]]
-
 ## Overview
 
 Hofmann Mexican Mushroom Expedition Psilocybin represents an important element within sustainable
@@ -112,8 +105,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[wasson-rediscovery-of-psilocybin]]
+- [[psilocybin]]
+- [[psilocin]]
+- [[indole]]
 - [[hofmann-ergonovine-self-experiment-detail]]
 - [[hofmann-lsd-chemical-modifications-derivatives]]
 - [[hofmann-lsd-consciousness-and-philosophy]]

@@ -65,8 +65,6 @@ entangled for man to unravel through research and analysis.
 Although useful for examining results in retrospect, the
 explanations of yesterday cannot be used to set tomorrow's
 strategy.
-## See Also
-
 ## Overview
 
 Fukuoka Natural Farming represents an important element within sustainable
@@ -144,7 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]

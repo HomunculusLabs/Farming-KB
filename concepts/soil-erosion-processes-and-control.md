@@ -26,11 +26,6 @@ Effective management requires monitoring soil indicators and responding to chang
 soil structure, organic matter content, and biological activity. Key strategies include
 minimizing soil disturbance, maintaining ground cover, and incorporating diverse plantings.
 
-## See Also
-- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
-- [[coleman-cover-crop-rotation-and-soil-health]]
-- [[crop-rotation-and-ley-farming]]
-
 ## Overview
 
 Soil Erosion Processes And Control represents an important element within sustainable
@@ -108,8 +103,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
+- [[coleman-cover-crop-rotation-and-soil-health]]
+- [[crop-rotation-and-ley-farming]]
 - [[building-soil-fertility-long-term]]
 - [[cannabis-rhizosphere-bulk-soil-microbial-comparison]]
 - [[clay-soil-management-solomon]]

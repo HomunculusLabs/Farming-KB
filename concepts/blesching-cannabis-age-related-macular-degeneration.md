@@ -39,12 +39,6 @@ cells opens several promising avenues for research:
 
 - [[cannabis-safety-profile-and-overdose-risk]] of cannabis makes further
 
-## See Also
-
-- [[mycorrhiza]]
-- [[blesching-cannabis-tourette-syndrome]]
-- [[blesching-cannabis-pregnancy]]
-
 ## Overview
 
 Blesching Cannabis Age Related Macular Degeneration represents an important element within sustainable
@@ -122,8 +116,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhiza]]
+- [[blesching-cannabis-tourette-syndrome]]
+- [[blesching-cannabis-pregnancy]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
 - [[blesching-cannabis-dental-and-oral-health]]

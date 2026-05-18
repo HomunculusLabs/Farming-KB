@@ -14,11 +14,6 @@ created: 2026-04-24
 
 [[ingham-compost-tea-application-rates-and-timing]] - [[coleman-winter-greens-variety-selection]] and nutrition
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
-creative adaptation to local conditions and emerging challenges.
-
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
@@ -146,4 +141,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+creative adaptation to local conditions and emerging challenges.

@@ -47,14 +47,6 @@ Cellulose, a linear polymer of beta-1,4-linked glucose units, is the most abunda
 
 Studies using competitive RT-PCR have shown that fungal enzyme gene expression patterns differ dramatically between laboratory culture and natural substrates. In Phanerochaete chrysosporium, certain lignin peroxidase transcripts abundant in defined media were not expressed during organopollutant degradation in soil, arguing against a significant role for those specific genes in pentachlorophenol and PAH degradation. Similarly, cellulase gene expression profiles differ between wood chips and soil substrates. These findings underscore the importance of studying fungal physiology in situ rather than relying solely on laboratory culture results.
 
-## See Also
-
-- cellulase-enzyme-systems-in-fungi
-- [[gadd-fungal-ecology-saprotrophs]]
-- [[saprotrophic-nutrition]]
-- [[saccharomyces-cerevisiae]]
-- [[det]]
-
 ## Overview
 
 Gadd Fungal Nutrition Metabolism represents an important element within sustainable
@@ -132,8 +124,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- cellulase-enzyme-systems-in-fungi
+- [[gadd-fungal-ecology-saprotrophs]]
+- [[saprotrophic-nutrition]]
+- [[saccharomyces-cerevisiae]]
+- [[det]]
 - [[gadd-intracellular-signal-transduction-filamentous-fungi]]
 - [[gadd-lichen-biogeochemistry-pioneer]]
 - [[gadd-mineral-transformations-biogeochemistry]]

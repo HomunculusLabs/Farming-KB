@@ -46,12 +46,6 @@ Local currencies are not intended to replace national currencies but to compleme
 
 The two-currency model allows communities to capture and retain the value of local economic activity while maintaining access to the goods, services, and opportunities available in the broader economy. This complementary relationship makes local currencies a practical tool for building economic resilience without economic isolation.
 
-## See Also
-
-[[permaculture-social-design]]
-
-[[permaculture-design]]
-
 ## Overview
 
 Local Currencies represents an important element within sustainable
@@ -129,8 +123,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[permaculture-social-design]]
+[[permaculture-design]]
 - [[ayahuasca-ceremony-pricing-disparity-tourist-versus-local]]
 - [[coleman-marketing-fresh-local-philosophy]]
 - [[fukuoka-seasonal-food-mandala-local-diet]]

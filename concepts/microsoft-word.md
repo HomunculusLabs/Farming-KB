@@ -34,14 +34,6 @@ contexts where document fidelity is critical.
 
 The "[[word-document-formats]].
 
-## See Also
-
-- [[word-ribbon-interface]]
-- [[office-open-xml]] XML file format
-- word processing — History and evolution of word processors
-- microsoft office — The broader productivity suite
-- latex — Academic document preparation system
-- office suites — Comparison of office productivity software
 ## Practical Considerations
 
 Successful implementation of Microsoft Word requires attention to
@@ -138,8 +130,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[word-ribbon-interface]]
+- [[office-open-xml]] XML file format
+- word processing — History and evolution of word processors
+- microsoft office — The broader productivity suite
+- latex — Academic document preparation system
+- office suites — Comparison of office productivity software
 - [[allegro-word-play-and-secret-names-in-scripture]]
 - [[microsoft-word-document-format]]
 - [[microsoft-word-document-format-history]]

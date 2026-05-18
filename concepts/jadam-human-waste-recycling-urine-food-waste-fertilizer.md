@@ -100,14 +100,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[jadam-food-waste-liquid-fertilizer]]
 - [[jadam-liquid-fertilizer]]
 - [[jadam-human-manure-liquid-fertilizer]]
 - [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
 - [[holmgren-waste-hierarchy-container-reuse-industrial-recycling]]
-## See Also
-
 - [[jadam-input-production-water-leaf-mold-liquid-fertilizer]] — Input production overview
 - [[jadam-organic-farming-ultra-low-cost-agriculture-philosophy]] — System philosophy
 - human urea agricultural use — The science of urine as fertilizer

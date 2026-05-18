@@ -12,13 +12,6 @@ sources:
 
 **Source:** [[hamilton-composting-and-organic-matter-management]] and fats from the bones, leaving a porous mineral structure that can be dissolved by [[cho-water-soluble-phosphoric-acid-preparation]] from plant sources.
 
-## See Also
-
-- [[knf-agricultural-mineral-water]]
-- [[dom]]
-- [[composting]]
-- [[knf-poultry-feed-preparation]]
-
 ## Overview
 
 Knf Bone Charcoal Preparation represents an important element within sustainable
@@ -96,8 +89,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[knf-agricultural-mineral-water]]
+- [[dom]]
+- [[composting]]
+- [[knf-poultry-feed-preparation]]
 - [[blesching-cannabis-bone-fracture-healing]]
 - [[cannabis-for-bone-cancer-pain]]
 - [[charcoal-production-for-cooking]]

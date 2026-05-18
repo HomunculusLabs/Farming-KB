@@ -56,14 +56,6 @@ The Hawaiian ohana system illustrates integrated land management on a volcanic i
 - **Shorelines need buffers**: 100 m inland preserves windbreak, stability, and cloud generation
 - **Mariculture extends the farm**: Lagoons, estuaries, and artificial reefs are agricultural extensions into the sea
 - **Build complete village systems**: Housing, water, nursery, livestock, fuelwood, and processing must all be planned together
-## See also
-
-- [[tropical-food-system-development]]
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- integrated poultry forage systems zone two
-- [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]]
-- [[permaculture-integrated-animal-systems]]
-
 ## Overview
 
 Integrated Land Management And Village Design represents an important element within sustainable
@@ -141,8 +133,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tropical-food-system-development]]
+- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- integrated poultry forage systems zone two
+- [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]]
+- [[permaculture-integrated-animal-systems]]
 - [[integrated-land-management-and-polyculture-design]]
 - [[integrated-land-management-hill-to-shore]]
 - [[integrated-land-management-tropical-profiles]]

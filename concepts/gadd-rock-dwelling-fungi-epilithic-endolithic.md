@@ -110,14 +110,13 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
+
 ## See Also
 - [[gadd-rock-dwelling-fungi-epilithic-endolithic-classification]]
 - [[endolithic-fungi-rock-colonizing-communities]]
 - [[rock-penetrating-fungi]]
 - [[gadd-fungal-bioweathering-rock-mineral-interactions]]
 - [[bloomfield-rock-penetrating-fungi-granite-weathering-soil-formation]]
-
-## See Also
 - [[gadd-rock-dwelling-fungi-epilithic-endolithic-cryptoendolithic]]
 - [[doc]]
 - [[decomposition]]

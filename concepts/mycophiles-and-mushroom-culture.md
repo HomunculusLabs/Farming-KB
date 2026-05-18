@@ -56,9 +56,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-## See Also
-- [[fungal-taxonomy]]
-
 ## Overview
 
 Mycophiles And Mushroom Culture represents an important element within sustainable
@@ -136,8 +133,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-taxonomy]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

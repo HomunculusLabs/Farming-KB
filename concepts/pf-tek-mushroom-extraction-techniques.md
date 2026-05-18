@@ -63,10 +63,6 @@ States, sometimes over the counter and sometimes with a simple state permit.
 
 In the United States, 200 proof anhydrous ethyl alcohol (100% pure, no water)
 is available from full-service liquor stores that supply hospitals and
-## See Also
-- [[gourmet-medicinal-mushroom-casing-layer-techniques]]
-- [[duggar-mushroom-spawn-preparation-techniques]]
-
 ## Overview
 
 Pf Tek Mushroom Extraction Techniques represents an important element within sustainable
@@ -144,7 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gourmet-medicinal-mushroom-casing-layer-techniques]]
+- [[duggar-mushroom-spawn-preparation-techniques]]
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]

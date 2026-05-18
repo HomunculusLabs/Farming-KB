@@ -36,13 +36,6 @@ primarily psychosocial rather than just political, requiring that people
 first recognise and act on their own responsibilities before pointing
 fingers at others.
 
-## See Also
-- [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]]
-- [[holmgren-permaculture-flower-conceptual-framework]]
-- [[permaculture-design]]
-- [[pdc-right-livelihood-and-permaculture-economics]]
-- [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
-
 ## Overview
 
 Holmgren Permaculture Education Training And Pdc represents an important element within sustainable
@@ -120,8 +113,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]]
+- [[holmgren-permaculture-flower-conceptual-framework]]
+- [[permaculture-design]]
+- [[pdc-right-livelihood-and-permaculture-economics]]
+- [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
 - [[holmgren-community-design-and-intentional-communities]]
 - [[holmgren-genetic-engineering-and-evolution]]
 - [[holmgren-mineral-balance-soil-fertility]]

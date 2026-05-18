@@ -51,11 +51,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[ayahuasca]]
-- [[hyoscyamine]]
-- [[dom]]
-
 ## Overview
 
 Harner Hallucinogens European Witchcraft represents an important element within sustainable
@@ -133,8 +128,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ayahuasca]]
+- [[hyoscyamine]]
+- [[dom]]
 - [[harner-cashinahua-banisteriopsis-usage]]
 - [[harner-datura-solanaceous-shamanism]]
 - [[harner-shamanic-journey-and-altered-states]]

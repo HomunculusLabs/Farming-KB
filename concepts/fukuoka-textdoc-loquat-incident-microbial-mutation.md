@@ -18,13 +18,6 @@ mutation. This case study demonstrates how human interventions create new
 problems while attempting to solve old ones, a theme central to
 [[fukuoka-textdoc-leave-nature-alone-philosophy]].
 
-## See Also
-
-- [[fukuoka-disease-pest-management]]
-- [[doc]]
-- [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
-- [[fukuoka-textdoc-natural-order-microbial-ecology]]
-
 ## Overview
 
 Fukuoka Textdoc Loquat Incident Microbial Mutation represents an important element within sustainable
@@ -102,8 +95,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-disease-pest-management]]
+- [[doc]]
+- [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
+- [[fukuoka-textdoc-natural-order-microbial-ecology]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

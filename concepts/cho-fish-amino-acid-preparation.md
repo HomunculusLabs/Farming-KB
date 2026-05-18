@@ -42,13 +42,6 @@ When making IMO or [[knf-water-soluble-calcium-phosphate]].
 FAA should not be used during the [[cho-fermented-plant-juice-preparation]] to promote leaf and
 stem development during the early and mid-growing season.
 
-## See Also
-
-- [[knf-vegetative-growth-stage]]
-- [[fish-amino-acid]]
-- [[spore]]
-- [[fish-amino-acid-faa]]
-
 ## Overview
 
 Cho Fish Amino Acid Preparation represents an important element within sustainable
@@ -126,8 +119,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[knf-vegetative-growth-stage]]
+- [[fish-amino-acid]]
+- [[spore]]
+- [[fish-amino-acid-faa]]
 - [[comparison-fish-aminos-vs-kelp-meal]]
 - [[fukuoka-pelagic-disease-chemical-fish-farming]]
 - [[hydro-pellet-fish-tank-humidity-chamber-mushroom-fruiting]]

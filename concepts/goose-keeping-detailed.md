@@ -28,13 +28,6 @@ Geese eat grass and weeds and in return fertilize the soil while leaving crops a
 - Dark breeds: harder to feather when butchering
 - Separate egg breeds and meat breeds exist
 
-## See Also
-
-- [[growing-vegetables-with-less-fertilizer]]
-- [[goose-keeping]]
-- [[permaculture]]
-- [[duck-keeping-guide-detailed]]
-
 ## Overview
 
 Goose Keeping Detailed represents an important element within sustainable
@@ -112,10 +105,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[growing-vegetables-with-less-fertilizer]]
+- [[goose-keeping]]
+- [[permaculture]]
+- [[duck-keeping-guide-detailed]]
 - [[comparison-chicken-keeping-vs-beekeeping-basics]]
 - [[faires-goose-management-and-integration]]
 - [[fungal-herbarium-record-keeping-specimen-transactions]]
-- [[goose-keeping]]
 - [[goose-keeping-guide]]

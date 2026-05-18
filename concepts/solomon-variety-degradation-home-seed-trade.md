@@ -35,8 +35,6 @@ skills a home gardener can develop. The key is to always save seed from
 multiple outstanding plants, never from a single specimen, to maintain genetic
 diversity while selecting for desirable traits.
 
-## See Also
-
 ## Overview
 
 Solomon Variety Degradation Home Seed Trade represents an important element within sustainable
@@ -114,8 +112,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 - [[solomon-low-grade-compost-making-methods]]

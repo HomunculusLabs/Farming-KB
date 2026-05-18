@@ -15,13 +15,6 @@ Updated: 2026-04-18
 Growing fruit organically means you will know your apple has not been drenched with insecticide or coated with preservatives. The organically grown crop is usually large enough to withstand a few bird attacks, and the fruit will be far superior to commercial varieties chosen for [[mollison-designers-sun-trap-and-frost-pocket-design]], you may be limited to varieties that flower late. Strong winds destroy foliage, damage flowers, and discourage pollinating insects. If your site is exposed, protect fruit with a temporary plastic windbreak and plant a hedge nearby. Raise the foot of the windbreak 12in (30cm) off the ground to avoid creating an artificial frost pocket.
 
 Before planting fruit, prepare the soil well using normal organic methods of soil care -- deep digging, incorporating [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] (Nick Hamilton, ed.), 2010
-## See Also
-
-- [[geoff-hamilton-organic-techniques]]
-- [[doc]]
-- [[det]]
-- [[hamilton-organic-fruit-growing]]
-
 ## Overview
 
 Fruit Growing Guide Organic represents an important element within sustainable
@@ -99,8 +92,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[geoff-hamilton-organic-techniques]]
+- [[doc]]
+- [[det]]
+- [[hamilton-organic-fruit-growing]]
 - [[bramble-and-cane-fruit-cultivation]]
 - [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
 - [[comparison-guava-vs-passion-fruit-cultivation]]

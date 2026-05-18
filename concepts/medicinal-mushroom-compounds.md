@@ -20,10 +20,6 @@ timing, and processing methods. Standardization to specific marker compounds
 water extraction is preferred for polysaccharides, while dual extraction (water
 + alcohol) captures both polar and non-polar compounds.
 
-## See Also
-
-- [[mushroom-growing-environmental-parameters]]
-
 ## Overview
 
 Medicinal Mushroom Compounds represents an important element within sustainable
@@ -101,8 +97,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-growing-environmental-parameters]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 - [[cancer-medicinal-mushrooms-mixed-extracts-synergism]]
 - [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]

@@ -53,11 +53,6 @@ Desert Landscape Reading And Erosion Landforms has been recognized for its contr
 Traditional knowledge systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
-## See Also
-- [[desert-house-water-energy-conservation]]
-- [[fukuoka-desert-succession-ecology]]
-- [[gilgai-desert-swales-mollison]]
-
 ## Overview
 
 Desert Landscape Reading And Erosion Landforms represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[desert-house-water-energy-conservation]]
+- [[fukuoka-desert-succession-ecology]]
+- [[gilgai-desert-swales-mollison]]
 - [[desert-dune-stabilisation-and-forestry]]
 - [[desert-soils-and-mulching-strategies]]
 - [[desert-water-storage-evaporation]]

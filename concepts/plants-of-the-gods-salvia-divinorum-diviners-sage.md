@@ -63,11 +63,6 @@ LSD. Research into the chemistry of Salvia divinorum has revealed
 
 Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
 
-## See Also
-
-- [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
-- [[permaculture-plants-nitrogen-fixing-trees]]
-
 ## Overview
 
 Plants Of The Gods Salvia Divinorum Diviners Sage represents an important element within sustainable
@@ -145,6 +140,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
+- [[permaculture-plants-nitrogen-fixing-trees]]
 - [[hallucinogenic-plants-overview]]

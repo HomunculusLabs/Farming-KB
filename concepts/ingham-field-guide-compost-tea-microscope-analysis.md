@@ -21,12 +21,6 @@ The Ingham Field Guide strongly advocates direct microscopy over plate count met
 
 SFI was developing a Beneficial Organism Assay to determine whether specific beneficial bacterial species are present in soil, compost, or tea, directing users to companies selling inocula for missing organisms. Molecular methods for bacterial and fungal species identification were also in development.
 
-## See Also
-
-- [[aact-compost-organism-levels]]
-- [[ingham-soil-food-web-assessment-methods]]
-- [[keyline-design]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -54,11 +48,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[ingham-field-guide-compost-tea-application-rates]]
-- [[soil-food-web]]
-- [[dom]]
 
 ## Overview
 
@@ -137,8 +126,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[aact-compost-organism-levels]]
+- [[ingham-soil-food-web-assessment-methods]]
+- [[keyline-design]]
+- [[ingham-field-guide-compost-tea-application-rates]]
+- [[soil-food-web]]
+- [[dom]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

@@ -49,11 +49,6 @@ Blanching is a critical step before freezing vegetables. It slows or stops the e
 | Shell beans | -- | 1.75 min |
 | Snap beans | 3 min | -- |
 
-## See Also
-- [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
-- [[solomon-soil-freezing-requirements-sustainable-gardening]]
-- [[comparison-freezing-vs-canning]]
-
 ## Overview
 
 Blanching Vegetables For Freezing represents an important element within sustainable
@@ -131,8 +126,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
+- [[solomon-soil-freezing-requirements-sustainable-gardening]]
+- [[comparison-freezing-vs-canning]]
 - [[growing-root-vegetables-guide]]
 - [[hamilton-bulb-vegetables-onion-family-organic]]
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]

@@ -33,10 +33,6 @@ Also called the "dark reactions" or "light-independent reactions":
 ### Light Intensity
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as a soil carbon store
 
-## See Also
-
-- [[mycorrhiza]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 ## Practical Considerations
 
 Successful implementation of Photosynthesis and the Carbon Cycle in Plants requires attention to
@@ -133,8 +129,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhiza]]
+- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
 - [[photosynthesis-and-chloroplast-function]]
 - [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]

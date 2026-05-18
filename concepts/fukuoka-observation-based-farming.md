@@ -59,11 +59,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[fukuoka-road-observation-natures-patterns]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
-- [[fukuoka-natural-livestock-farming]]
-
 ## Overview
 
 Fukuoka Observation Based Farming represents an important element within sustainable
@@ -141,8 +136,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-road-observation-natures-patterns]]
+- [[fukuoka-natural-farming-philosophy-of-mu]]
+- [[fukuoka-natural-livestock-farming]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

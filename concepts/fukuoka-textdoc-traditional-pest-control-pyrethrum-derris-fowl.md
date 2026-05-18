@@ -43,13 +43,6 @@ black chickens that Fukuoka observed had been bred over generations to
 forage without damaging crops, unlike commercial breeds that may scratch
 up seedlings and uproot young plants. Introducing fowl after vegetables
 
-## See also
-
-- Disease and [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] [[masanobu-fukuoka]]
-- [[masanobu-fukuoka]]
-- [[det]]
-- [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
-
 ## Overview
 
 Fukuoka Textdoc Traditional Pest Control Pyrethrum Derris Fowl represents an important element within sustainable
@@ -127,8 +120,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- Disease and [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] [[masanobu-fukuoka]]
+- [[masanobu-fukuoka]]
+- [[det]]
+- [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

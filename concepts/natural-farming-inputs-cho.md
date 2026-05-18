@@ -56,11 +56,6 @@ However, not all inputs are compatible. OHN should generally be applied
 separately. Practitioners should observe plant responses and adjust
 combinations and rates based on local conditions.
 
-## See Also
-
-- [[beneficial-indigenous-microorganisms-bim]] (IMO)](indigenous-microorganisms-imo.md)
-- [Cho's Natural [[fukuoka-do-nothing-farming-philosophy-and-practice]](cho-natural-farming-philosophy.md)
-
 ## Overview
 
 Natural Farming Inputs Cho represents an important element within sustainable
@@ -138,8 +133,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[beneficial-indigenous-microorganisms-bim]] (IMO)](indigenous-microorganisms-imo.md)
+- [Cho's Natural [[fukuoka-do-nothing-farming-philosophy-and-practice]](cho-natural-farming-philosophy.md)
 - [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]
 - [[mushroom-natural-habitats]]

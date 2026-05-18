@@ -23,11 +23,6 @@ The techniques described here are applicable across a wide range of permaculture
 
 ---
 
-## See Also
-
-- [[permaculture-earthworks-and-water-harvesting]]
-
-- [[permaculture-design]]
 ## Practical Considerations
 
 Successful implementation of Mollison Broadscale Soil Improvement and Keyline Rehabilitation requires attention to
@@ -124,8 +119,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-earthworks-and-water-harvesting]]
+- [[permaculture-design]]
 - [[humid-cool-climate-characteristics-mollison]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-climate-zone-3-farm-forestry]]

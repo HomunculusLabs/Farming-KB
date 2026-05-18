@@ -85,13 +85,10 @@ Current research explores the intersection of fungal biology with sustainable ag
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
 
+## See Also
 - [[mushroom-cultivation-bulk-substrates]]
 - [[victorian-mushroom-spawn-cultivation]]
 - [[victorian-mushroom-cultivation]]
-
-## See Also
-
 - mycoremediation-of-petroleum-hydrocarbons
 - mycoremediation-enzyme-production-optimization

@@ -33,7 +33,6 @@ The fundamental premise of pattern thinking in permaculture is that nature has a
 
 One of the challenges in pattern-based design is measuring whether a pattern application is actually effective. Holmgren suggests that the ultimate measure is whether the system produces a sustainable yield over time, but this requires long-term observation. Shorter-term indicators include [[fukuoka-direct-observation-method]]. Holmgren recommends beginning with simple patterns -- the branching of a tree, the spiral of a snail shell, the net of a spider web -- and gradually developing the ability to recognize more complex and abstract patterns. Field exercises, where students are asked to identify and map patterns in natural and designed landscapes, build the observational skills necessary for pattern-based design. The ultimate goal is not to memorize a catalog of patterns but to develop a way of seeing that reveals the underlying order in natural systems and guides the creation of designed systems that share that order.
 
-## See Also
 ## Practical Considerations
 
 Successful implementation of Holmgren Pattern Thinking and Pattern Language requires attention to
@@ -80,6 +79,7 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
+
 
 ## See Also
 - [[permaculture-design]]

@@ -97,14 +97,10 @@ The convergence of ancient belief systems on core truths about natural patterns 
 - **Integration of knowledge** (rather than fragmentation into disciplines) reflects actual reality
 - **Accessible, shared understanding** is more robust than specialized, centralized knowledge
 
+
 ## See Also
 - [[buddhist-mnemonics-and-universal-pattern-beliefs]]
 - [[mnemonics-of-meaning-and-sacred-pattern]]
-
-## See Also
-
 - [[mnemonics-of-meaning]]
-- [[mnemonics-of-meaning-and-sacred-pattern]]
-- [[buddhist-mnemonics-and-universal-pattern-beliefs]]
 - [[tribal-pattern-encoding-and-mnemonics]]
 - [[powell-natural-intelligence-and-the-universal-computation]]

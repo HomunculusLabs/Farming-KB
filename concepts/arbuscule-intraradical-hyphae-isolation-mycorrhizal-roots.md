@@ -32,12 +32,6 @@ Nucleic acid extraction enables gene expression studies of fungal genes active i
 
 Biochemical analysis of carbohydrate and lipid metabolism reveals the pathways of carbon and phosphorus exchange.
 
-## See Also
-
-- [[allium-cepa]]
-- [[mycorrhiza]]
-- [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
-
 ## Overview
 
 Arbuscule Intraradical Hyphae Isolation Mycorrhizal Roots represents an important element within sustainable
@@ -115,8 +109,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[allium-cepa]]
+- [[mycorrhiza]]
 - [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - [[arbuscule-isolation-metabolic-activity-assays]]
 - [[fungal-hyphae-and-mycelium]]

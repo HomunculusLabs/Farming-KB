@@ -45,13 +45,6 @@ Maitake mycelium colonizes substrates more slowly than Oyster or Shiitake. Full 
 
 Maitake commands premium prices in both fresh and dried forms. Fresh Maitake is particularly valued in Japanese cuisine and in upscale restaurants. The combination of culinary quality and medicinal reputation makes it one of the most valuable cultivated mushrooms per pound.
 
-## See Also
-
-- [[maitake-cultivation]]
-- [[maitake-d-fraction-research]]
-- [[growing-gourmet-fruiting-parameters]]
-- gourmet-mushroom-strain-selection
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -80,7 +73,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[maitake-cultivation]]
+- [[maitake-d-fraction-research]]
+- [[growing-gourmet-fruiting-parameters]]
+- gourmet-mushroom-strain-selection
 - [[doc]]
 - [[fruiting-conditions]]
 - [[dom]]

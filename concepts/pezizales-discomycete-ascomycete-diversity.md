@@ -30,10 +30,6 @@ are found in association with trees, and some are
   many other Pezizales form [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - Evolution of animal-dispersed [[helotiales-inoperculate-discomycete-diversity-ecology]]
 
-## See Also
-
-- [[peziza-vesiculosa]]
-
 ## Overview
 
 Pezizales Discomycete Ascomycete Diversity represents an important element within sustainable
@@ -111,8 +107,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[peziza-vesiculosa]]
 - [[ascomycete-phylum-guide]]
 - [[biodiversity-ascomycete-diversity-taxonomy]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]

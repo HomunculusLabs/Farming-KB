@@ -48,13 +48,6 @@ As more entomopathogenic fungi were observed, often found on the moldy carcasses
 
 Most mycopesticidal patents target an insect species using a fungus strain, with or without an effective delivery system. The search for ecologically rational methods to control insects has focused on biopesticides, nature-based remedies that cause only negligible collateral damage, or none at all, to other organisms.
 
-## See Also
-
-[[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-
-[[mycofiltration-of-pathogens]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-
 ## Overview
 
 Mycopesticide Development represents an important element within sustainable
@@ -132,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+[[mycofiltration-of-pathogens]]
+- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[basidiocarp-four-stages-psilocybe-cubensis-morphological-development]]
 - [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]]
 - [[fukuoka-citrus-orchard-natural-development]]

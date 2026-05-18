@@ -49,11 +49,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[hordeum-vulgare]]
-- [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
-- [[query-best-walnut-varieties-for-different-climates-and-uses]]
-
 ## Overview
 
 Barley Varieties For Brewing represents an important element within sustainable
@@ -131,8 +126,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hordeum-vulgare]]
+- [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
+- [[query-best-walnut-varieties-for-different-climates-and-uses]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley]]
 - [[fukuoka-no-tillage-rice-barley-succession]]
 - [[fukuoka-rice-barley-annual-calendar]]

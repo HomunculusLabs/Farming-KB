@@ -40,11 +40,6 @@ opium was originally used.
 
 The suppression of one drug inevitably leads to involvement with another.
 
-## See Also
-- [[mckenna-mushroom-cultivation-history]]
-- [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]
-- [[mckenna-eschatology-history-as-shockwave]]
-
 ## Overview
 
 Mckenna Opium History Demeter Poppy represents an important element within sustainable
@@ -122,8 +117,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-mushroom-cultivation-history]]
+- [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]
+- [[mckenna-eschatology-history-as-shockwave]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

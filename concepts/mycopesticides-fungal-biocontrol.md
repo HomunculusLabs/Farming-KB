@@ -61,12 +61,6 @@ This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be 
 - Treated structures develop a resident protective shield from sporulated carcasses
 - Does not pose the cascading health hazards of chemical treatments
 
-## See Also
-
-- [[cotter-mycoremediation-overview]]
-- [[paul-stamets]]
-- [[stamets-patents]]
-
 ## Overview
 
 Mycopesticides Fungal Biocontrol represents an important element within sustainable
@@ -144,7 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cotter-mycoremediation-overview]]
+- [[paul-stamets]]
+- [[stamets-patents]]
 - [[entomopathogenic-fungi-biocontrol-mycopesticides]]
 - [[mycelium-running-presporulating-mycopesticides]]

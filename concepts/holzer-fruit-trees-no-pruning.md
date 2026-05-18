@@ -47,14 +47,6 @@ holzer fruit trees no pruning | [[sepp-holzer-method]]
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
 
-## See Also
-- [[sepp-holzer-method]], [[holzer-raised-bed-design-principles]], [[holzer-green-manure-crops]], [[mollison-designers-microclimate-creation-frost-protection]].
-[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
-Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and [[sepp-holzer]]
-- [[jerusalem-artichoke]]
-- [[green-manure-crops]]
-
 ## Overview
 
 Holzer Fruit Trees No Pruning represents an important element within sustainable
@@ -132,8 +124,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[sepp-holzer-method]], [[holzer-raised-bed-design-principles]], [[holzer-green-manure-crops]], [[mollison-designers-microclimate-creation-frost-protection]].
+[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
+Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
+Ancient grain varieties selected for mountain conditions show superior resilience and [[sepp-holzer]]
+- [[jerusalem-artichoke]]
+- [[green-manure-crops]]
 - [[holzer-alpine-plant-cultivation]]
 - [[holzer-browsing-protection-methods]]
 - [[holzer-fruit-growing-marginal-climates]]

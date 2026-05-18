@@ -34,10 +34,6 @@ protozoa and nematode grazers are present, and mycorrhizal
 colonization is high, the soil ecosystem is generally well-protected
 against most common plant pathogens.
 
-## See Also
-
-- [[ingham-streptococcus-dairy-soil-disease]]
-
 ## Overview
 
 Microbial Disease Suppression Soil represents an important element within sustainable
@@ -115,8 +111,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ingham-streptococcus-dairy-soil-disease]]
 - [[edaphic-factors-microbial-community-structure]]
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]
 - [[microbial-terroir-endophyte-crop-quality-influence]]

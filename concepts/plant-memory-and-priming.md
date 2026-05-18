@@ -27,10 +27,6 @@ Cross-protection is another remarkable feature of stress priming. Plants
 primed by drought stress often show improved tolerance to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], and UV radiation, providing a mechanism for encoding
 environmental information at the molecular level.
 
-## See Also
-
-- [[plant-vision-and-light-perception-mechanisms]]-and-light-perception
-
 ## Overview
 
 Plant Memory And Priming represents an important element within sustainable
@@ -108,8 +104,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[plant-vision-and-light-perception-mechanisms]]-and-light-perception
 - [[comfrey-plant-guide]]
 - [[plant-memory-and-spatial-awareness]]
 - [[plant-memory-epigenetic-recall-mechanisms]]

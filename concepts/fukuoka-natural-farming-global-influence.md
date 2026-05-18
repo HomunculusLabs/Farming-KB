@@ -35,15 +35,6 @@ The ecological implications of these practices extend beyond their immediate app
 
 Financial viability influences adoption and long-term sustainability of any practice. Initial investment costs, ongoing maintenance requirements, and potential returns all factor into decision-making. Many practitioners find that reduced input costs over time offset initial setup expenses. Scale-appropriate strategies ensure that techniques remain economically feasible from backyard gardens to commercial operations.
 
-## See Also
-
-- [[fukuoka-doi-garment-culture-clothing-natural-farming]]
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -87,7 +78,13 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[fukuoka-doi-garment-culture-clothing-natural-farming]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[masanobu-fukuoka]]
 - [[dom]]
 - [[bill-mollison]]

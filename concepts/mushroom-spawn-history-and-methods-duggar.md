@@ -60,13 +60,6 @@ Dr. Ferguson's investigations on spore germination were reported in Bulletin 16 
 
 Repin in Paris also referenced a secret method for effecting spore germination, which was practically applied in making "plate" spawn by one of the large seed firms of Paris, though this spawn never came into very general use.
 
-## See Also
-
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[mushroom-house-construction-duggar]]
-- oyster-mushroom-growing-house-site-selection
-- mushroom-spawn-making-history-duggar-1915
-
 ## Overview
 
 Mushroom Spawn History And Methods Duggar represents an important element within sustainable
@@ -144,7 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+- [[mushroom-house-construction-duggar]]
+- oyster-mushroom-growing-house-site-selection
+- mushroom-spawn-making-history-duggar-1915
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]

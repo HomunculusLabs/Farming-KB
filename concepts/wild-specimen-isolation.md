@@ -55,12 +55,6 @@ In tissue culture, bacteria are the most commonly encountered contaminants. An o
 
 If sporulating mold colonies develop adjacent to growing mycelium, the culture should be promptly isolated by transferring mycelium away from contaminants. However, strains isolated from contaminated dishes may harbor hidden spores that only become evident when the mycelium is later inoculated into sterile grain.
 
-## See Also
-
-- [[contamination-identification-prevention]]
-
-- [[mushroom-cultivation-sterile-technique]]
-
 ## Overview
 
 Wild Specimen Isolation represents an important element within sustainable
@@ -138,8 +132,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[contamination-identification-prevention]]
+- [[mushroom-cultivation-sterile-technique]]
 - [[edible-wild-mushrooms-by-region]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[seasonal-distribution-and-habitat-of-wild-mushrooms]]

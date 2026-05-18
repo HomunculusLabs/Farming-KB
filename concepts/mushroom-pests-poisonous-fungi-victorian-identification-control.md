@@ -90,14 +90,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[mushroom-pests-insect-control-stamets]]
 - [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[ramsbottom-poisonous-fungi-identification-guide]]
 - [[field-guide-psilocybin-mushroom-species-identification]]
-## See Also
-
 - [[historical-mushroom-cultivation-cuthill-1870-treatise]] — Cuthill's cultivation methods
 - mushroom pests integrated management — Modern pest control
 - [[psilocybin-mushroom-identification-guide]] — Toxic species recognition

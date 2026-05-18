@@ -22,11 +22,6 @@ Sea-grass mulch and guano close the sea-land cycle of nutrients, and makes the g
 
 In both hemispheres, burrowing and surface-nesting seabirds can also be managed for eggs and meat production, fine down, and manurial output. The muttonbird (Puffinus) industry of Tasmania yields millions of birds annually; but under good management, the rookeries are fast increasing. By-products of down make the best insulation for doonas, beds, and even rooms.
 
-## See Also
-- [[mollison-designers-trout-and-cool-water-aquaculture-species]]
-- [[mollison-designers-chinampa-wetland-garden-system]]
-- [[mollison-designers-banana-circle-waste-recycling-system]]
-
 ## Overview
 
 Mollison Salicornia Flats And Estuarine Aquaculture represents an important element within sustainable
@@ -104,8 +99,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-trout-and-cool-water-aquaculture-species]]
+- [[mollison-designers-chinampa-wetland-garden-system]]
+- [[mollison-designers-banana-circle-waste-recycling-system]]
 - [[hypnodinium-mollison]]
 - [[mollison-arid-lands-aquatic-species]]
 - [[mollison-orographic-and-forest-rainfall-effects]]

@@ -18,10 +18,6 @@ Copper is a [[comparison-pheromone-based-pest-control-vs-beneficial-insect-bioco
 
 [[cannabis-nutrient-regimens-comparison]]
 
-## See Also
-
-- [[cannabis-molybdenum-nutrient]]
-- [[cannabis-nutrient-solution-preparation]]
 ## Practical Considerations
 
 When working with Cannabis Copper Nutrient, several practical factors should be
@@ -119,8 +115,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-molybdenum-nutrient]]
+- [[cannabis-nutrient-solution-preparation]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

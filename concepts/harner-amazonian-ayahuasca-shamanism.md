@@ -42,10 +42,6 @@ Responsible implementation requires attention to safety considerations and estab
 
 Documentation of procedures and outcomes supports both personal learning and community knowledge-sharing. Maintaining detailed records of conditions, methods, and results allows for iterative improvement and helps identify patterns that might otherwise go unnoticed. Peer review and mentorship from experienced practitioners further enhance safety and effectiveness.
 
-## See Also
-
-- [[amaringo-ayahuasca-visions-shipibo-iconography]]
-- [[harner-datura-solanaceous-shamanism]] - Datura and solanaceous plants in shamanic practice
 ## Practical Considerations
 
 Successful implementation of Amazonian Ayahuasca Shamanism requires attention to
@@ -93,7 +89,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[amaringo-ayahuasca-visions-shipibo-iconography]]
+- [[harner-datura-solanaceous-shamanism]] - Datura and solanaceous plants in shamanic practice
 - [[ayahuasca]]
 - [[psilocybin]]
 - [[tetrahydroharmine]]

@@ -47,14 +47,6 @@ The choice of old and rare breeds reflects [[palmer-poisonous-mushrooms-deadly-s
 
 This observation has profound implications for [[holzer-ancient-cereals-growing]] provides additional winter feed options. Heritage grain varieties, grown without chemical inputs, produce straw and grain that can supplement the herd's diet during the cold months, closing the loop between crop and livestock production.
 
-## See Also
-
-- [[polyculture-design-hemenway]]
-
-- [[doc]]
-- [[permaculture]]
-- [[holzer-old-varieties-and-seed-saving]]
-
 ## Overview
 
 Holzer Wild Cattle And Old Breeds represents an important element within sustainable
@@ -132,8 +124,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[polyculture-design-hemenway]]
+- [[doc]]
+- [[permaculture]]
+- [[holzer-old-varieties-and-seed-saving]]
 - [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
 - [[holzer-medicinal-and-culinary-herbs-compendium]]
 - [[holzer-permaculture-landscape-design]]

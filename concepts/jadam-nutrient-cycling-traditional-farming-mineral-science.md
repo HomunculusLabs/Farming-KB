@@ -96,14 +96,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[fungal-nutrient-cycling-mineral-transformations]]
 - [[jadam-nutrient-management-wetting-agent-and-calcium]]
 - [[jadam-sea-mineral-fertilizer-simplified-soil-management]]
 - [[jadam-organic-farming-ultra-low-cost-agriculture-philosophy]]
 - [[jadam-farming-method]]
-## See Also
-
 - [[jadam-soil-management-middle-way-root-health]] — Soil management overview
 - [[jadam-input-production-water-leaf-mold-liquid-fertilizer]] — Input production
 - nutrient cycling agricultural ecosystems — The science of nutrient loops

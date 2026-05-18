@@ -64,11 +64,6 @@ pathway upregulates cell wall biosynthetic genes in response to damage, ensuring
 even under adverse conditions such as antifungal drug exposure, osmotic stress, or temperature
 fluctuations. The CWI pathway represents a potential target for combination antifungal therapies.
 
-## See Also
-
-- [[chitin-chitosan-fungal-cell-wall]]
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
-
 ## Overview
 
 Fungal Cell Wall Composition And Structural Organization represents an important element within sustainable
@@ -146,4 +141,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[chitin-chitosan-fungal-cell-wall]]
+- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]

@@ -68,10 +68,6 @@ Historically, beer was often safer to drink than water due to the boiling and fe
 
 The medicinal use of beer extends back thousands of years. Herbal beers were used to treat digestive complaints, respiratory illnesses, pain, fever, and a wide range of other conditions. The herbs used in traditional brewing -- many of which are now largely forgotten -- were selected not just for flavor but for their therapeutic properties.
 
-## See Also
-
-- [[food-fermentation-guide]] for broader fermentation science
-
 ## Related
 
 - [[teaming-with-nutrients-essential-plant-nutrients]]
@@ -104,7 +100,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[food-fermentation-guide]] for broader fermentation science
 - [[sacred-brewing-traditions]]
 - [[doc]]
 - [[myrica-gale]]

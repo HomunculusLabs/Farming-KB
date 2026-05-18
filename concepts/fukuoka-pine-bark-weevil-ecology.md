@@ -29,13 +29,6 @@ understanding risk disrupting the system further.
 Fukuoka discussed [[pine-disease-and-matsutake-mushroom-decline]], which depends on healthy
 pine roots. The [[fukuoka-natural-farming-soil-ecology-principles]] and allow the pine trees to recover their natural resistance.
 
-## See Also
-
-- [[fukuoka-ecological-balance-principles]]
-- [[masanobu-fukuoka]]
-- [[det]]
-- [[fukuoka-pine-weevil-blight-non-causality]]
-
 ## Overview
 
 Fukuoka Pine Bark Weevil Ecology represents an important element within sustainable
@@ -113,10 +106,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[fukuoka-nature-fundamentally-perfect-self-enriching]]
+## See Also
+- [[fukuoka-ecological-balance-principles]]
+- [[masanobu-fukuoka]]
+- [[det]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
+- [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-western-vs-japanese-attitudes]]

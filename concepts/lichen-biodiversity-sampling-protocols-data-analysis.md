@@ -38,9 +38,6 @@ isolation, the most effective practitioners consider how it connects
 with and enhances other elements of the broader system within which
 they are working. This systems thinking approach generates synergies
 
-## See Also
-- [[fungal-biodiversity-data-analysis]]
-
 ## Overview
 
 Lichen Biodiversity Sampling Protocols Data Analysis represents an important element within sustainable
@@ -118,8 +115,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-biodiversity-data-analysis]]
 - [[fungal-lichen-stress-tolerance-and-poikilohydry]]
 - [[gadd-lichen-biogeochemistry-pioneer]]
 - [[lichen-biogeochemistry-pioneer-rock-colonization-gadd]]

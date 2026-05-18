@@ -60,10 +60,6 @@ Sissoo pairs well with:
 | Max height | 30 m | 25 m | 40 m |
 | Frost tolerance | Yes | Limited | Limited |
 | [[holzer-climate-zone-microclimate-creation]], and wildlife habitat, making it one of the most functionally dense tree species available for tropical and subtropical systems.
-## See Also
-- [[dalbergia-sissoo]]
-- [[tree-energy-transactions]]
-
 ## Overview
 
 Dalbergia Sissoo Timber Tree represents an important element within sustainable
@@ -141,10 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[dalbergia-nigra]]
+## See Also
 - [[dalbergia-sissoo]]
+- [[tree-energy-transactions]]
+- [[dalbergia-nigra]]
 - [[dalbergia-sissoo-permaculture-timber-tree]]
 - [[permplant-black-locust-nitrogen-fixing-timber]]
 - [[singh-wood-rot-fungi-structural-timber-decay]]

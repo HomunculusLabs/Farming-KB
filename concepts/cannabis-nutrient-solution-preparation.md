@@ -28,11 +28,6 @@ Proper nutrient solution preparation is critical for [[cannabis-magnesium-nutrie
 - Skipping the pre-harvest flush, leading to harsh-tasting buds
 - Adding too much fertilizer to a small container -- chance of overfertilization is greater in small amounts of soil
 
-## See Also
-
-- [[cannabis-chemical-fertilizers]]
-- [[cannabis-ph-management-and-soil-flushing]]
-- cannabis water quality
 ## Practical Considerations
 
 When working with Cannabis Nutrient Solution Preparation, several practical factors should be
@@ -130,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-chemical-fertilizers]]
+- [[cannabis-ph-management-and-soil-flushing]]
+- cannabis water quality
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

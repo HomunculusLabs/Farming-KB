@@ -24,9 +24,6 @@
   rosemary; aromatic oils increase fire resistance; culinary herb; [[savory-livestock-grazing-planning]] or root barriers
 7. Design for year-round flowering to support permanent bee hive sites
 
-## See Also
-
-- [[pdc-food-forest-design-and-forest-ecology]]-forests-multiple-canopy-systems
 ## Practical Considerations
 
 When working with Permaculture Plants Food Forest Ground Covers Bamboos, several practical factors should be
@@ -144,7 +141,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pdc-food-forest-design-and-forest-ecology]]-forests-multiple-canopy-systems
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]

@@ -34,12 +34,6 @@ This funerary context connects the Scythian practice to a broader pattern of psy
 
 The Scythians grew cannabis along the Volga River approximately 3,000 years ago. The Volga region represents one of the probable areas of original [[old-world-hallucinogenic-plants-overview]] of Old [[comparison-cannabis-sativa-vs-cannabis-indica]], and the Scythian ritual represents one of the earliest documented uses of the plant in its native range.
 
-## See Also
-
-- [[ancient-cannabis-use-near-east-and-egypt]] — ancient cannabis use in the Near East.
-
-[[turner-brief-history-psychedelics-ancient-to-modern]]
-- hallucinogenic-mushroom-health-risks-and-harm-reduction
 ## Practical Considerations
 
 Successful implementation of Scythian Cannabis Steam Bath Ritual requires attention to
@@ -136,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ancient-cannabis-use-near-east-and-egypt]] — ancient cannabis use in the Near East.
+[[turner-brief-history-psychedelics-ancient-to-modern]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
 - [[lemon-haze-cannabis]]

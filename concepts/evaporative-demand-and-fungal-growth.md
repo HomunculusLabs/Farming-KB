@@ -32,10 +32,6 @@ The evaporative demand framework has implications for understanding natural vari
 - **Lighting**: Even, diffuse lighting from above minimizes phototropic interference with geotropic growth
 - **Watering**: The finding that cultures were watered when they lost more than 10 ml of water (determined by weight) highlights the importance of maintaining adequate moisture levels to prevent excessive evaporative demand from stressing the developing fruiting bodies
 
-## See Also
-
-- [[mushroom-geotropism-and-spore-production]]
-
 ## References
 
 - Badham, E.R. (1982). Tropisms in the mushroom *Psilocybe cubensis*. *Mycologia*, 74(2), 275-279.
@@ -119,8 +115,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-geotropism-and-spore-production]]
 - [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]
 - [[evaporative-demand-four-factors-mushroom-tropism]]
 - [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]

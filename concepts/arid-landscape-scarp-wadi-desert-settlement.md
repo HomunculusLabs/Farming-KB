@@ -37,13 +37,6 @@ All desert peoples dry food: dates, apricots, and desert nuts are
 long-storage staples. Drying rooms cut into opposite scarps facing hot
 sun desiccate food very quickly.
 
-## See Also
-
-- [[arid-land-fertilization-and-pollution-risks]]
-- [[acacia]]
-- [[permaculture]]
-- [[desert-and-arid-lands-permaculture]]
-
 ## Overview
 
 Arid Landscape Scarp Wadi Desert Settlement represents an important element within sustainable
@@ -121,10 +114,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[arid-land-fertilization-and-pollution-risks]]
-- [[comparison-arid-vs-tropical-permaculture]]
+- [[acacia]]
+- [[permaculture]]
 - [[desert-and-arid-lands-permaculture]]
+- [[comparison-arid-vs-tropical-permaculture]]
 - [[mollison-arid-lands-aquatic-species]]
 - [[mollison-pdc-arid-landscape-settlement]]

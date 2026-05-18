@@ -11,10 +11,6 @@ type: concept
   coordinate seed swaps, work parties, and coordinated food
   strategies
 
-## See Also
-
-- [[urban-permaculture-community-building-social-design]]
-
 ## Practical Considerations
 
 Successful implementation of Community [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] requires attention to
@@ -111,8 +107,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[urban-permaculture-community-building-social-design]]
 - [[williams-pdc-climates-and-biomes]]
 - [[williams-pdc-earthworks]]
 - [[williams-pdc-food-systems]]

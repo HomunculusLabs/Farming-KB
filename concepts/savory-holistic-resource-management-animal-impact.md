@@ -55,16 +55,6 @@ The concept of animal impact may also serve goals on cropland. In brittle
 
 Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
 
-## See Also
-
-- [[animal-harvest-and-processing]]
-- [[savory-animal-days-and-forage-measurement]]
-
-## See Also
-
-- [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
-- [[savory-holistic-resource-management-overgrazing]]
-
 ## Overview
 
 Savory Holistic Resource Management Animal Impact represents an important element within sustainable
@@ -142,8 +132,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[animal-harvest-and-processing]]
+- [[savory-animal-days-and-forage-measurement]]
+- [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
+- [[savory-holistic-resource-management-overgrazing]]
 - [[savory-fencing-economics-and-stock-density-curve]]
 - [[savory-flexibility-in-management]]
 - [[savory-grasshopper-and-insect-outbreaks]]

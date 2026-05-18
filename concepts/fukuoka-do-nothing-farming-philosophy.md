@@ -52,15 +52,6 @@ The deepest level of do-nothing farming requires abandoning the desire to know:
 - This is not ignorance but a cultivated openness: "One must abandon oneself each day"
 - Children exemplify this state: "An adult cannot practice natural farming without distinguishing between clover and weeds, but young people grow and search for food in the midst of nature as they find it"
 
-## See Also
-
-- [[fukuoka-death-discontinuous-continuum-philosophy]]
-- [[fukuoka-road-back-to-nature-overview]]
-- [[fukuoka-peace-march-war-agriculture]]
-- [[fukuoka-god-nature-and-transcendent-world]]
-- [[mollison-permaculture-two-no-tillage-grain-cropping]]
-
-- [[fukuoka-the-one-straw-revolution-final-chapter]], [[fukuoka-natural-farming-philosophy]]
 ## Practical Considerations
 
 Successful implementation of Fukuoka Do-Nothing Farming Philosophy requires attention to
@@ -99,7 +90,14 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fukuoka-death-discontinuous-continuum-philosophy]]
+- [[fukuoka-road-back-to-nature-overview]]
+- [[fukuoka-peace-march-war-agriculture]]
+- [[fukuoka-god-nature-and-transcendent-world]]
+- [[mollison-permaculture-two-no-tillage-grain-cropping]]
+- [[fukuoka-the-one-straw-revolution-final-chapter]], [[fukuoka-natural-farming-philosophy]]
 - [[natural-farming]]
 - [[permaculture]]
 - [[fukuoka-do-nothing-farming-mu-philosophy]]

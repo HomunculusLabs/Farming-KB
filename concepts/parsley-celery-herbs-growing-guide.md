@@ -54,10 +54,6 @@ Celery is one crop for which you should double-dig:
 - [[growing-globe-artichokes]]
 - [[solomon-cover-crops-green-manure-guide]]
 
-## See Also
-
-- [[petroselinum-crispum]]
-
 ## Overview
 
 Parsley Celery Herbs Growing Guide represents an important element within sustainable
@@ -135,8 +131,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[petroselinum-crispum]]
 - [[fukuoka-orchard-herbs-cover-crop-classification]]
 - [[medicinal-herbs-for-livestock]]
 - [[nervine-herbs-and-anxiety-relief]]

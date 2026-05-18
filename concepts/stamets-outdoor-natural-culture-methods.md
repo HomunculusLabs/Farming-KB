@@ -45,10 +45,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[natural-culture-myco-landscaping]]
-
 ## Overview
 
 Stamets Outdoor Natural Culture Methods represents an important element within sustainable
@@ -126,8 +122,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[natural-culture-myco-landscaping]]
 - [[stamets-cultivator-liquid-culture-propagation-methods]]
 - [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]

@@ -49,10 +49,6 @@ The cultivation of [[cotter-oyster-mushroom-cultivation]]
 - [[azurescens-outdoor-bed-preparation-woodchips]]
 - [[falconer-mushroom-cultivation-victorian-methods]]
 
-## See Also
-
-- mushroom-training-manual-overview
-
 ## Overview
 
 Mushroom Cultivation Disabilities Training Manual Overview represents an important element within sustainable
@@ -130,8 +126,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mushroom-training-manual-overview
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

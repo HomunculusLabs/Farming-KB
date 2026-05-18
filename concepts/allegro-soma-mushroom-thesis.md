@@ -11,13 +11,6 @@ sources:
 
 John Marco Allegro (1923-1988), a British philologist and the only secular member of the original Dead [[allegro-the-sacred-mushroom-amanita-identification]] [[allegro-amanita-muscaria-properties-and-pharmacology]]: it is red, grows in mountains, is pressed for its juice, and produces visionary experiences. R. Gordon Wasson independently proposed the Soma-Amanita identification in 1968. Allegro extended this far further, arguing that the same [[cattle-dispersal-psychoactive-fungi-australia]] in ancient religion. His hypothesis, while not accepted by mainstream scholarship, contributed to the broader entheogen theory of religion and stimulated research into the historical use of psychoactive substances in spiritual contexts.
 
-## See Also
-
-- mushroom-symbols-ancient-languages
-- [[john-allegro]]
-- allegro soma mushroom thesis
-- [[allegro-wasson-soma-connection]]
-- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 ## Practical Considerations
 
 When working with Allegro's Soma-Mushroom Thesis, several practical factors should be
@@ -115,8 +108,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mushroom-symbols-ancient-languages
+- [[john-allegro]]
+- allegro soma mushroom thesis
+- [[allegro-wasson-soma-connection]]
+- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 - [[allegro-bible-morals-ten-commandments-mushroom-word-play]]
 - [[allegro-fungal-iconography-in-ancient-art]]
 - [[allegro-religion-prehistory-oral-tradition-etymology]]

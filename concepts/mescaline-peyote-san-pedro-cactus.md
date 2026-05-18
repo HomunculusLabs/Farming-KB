@@ -32,10 +32,6 @@ Mescaline was the first psychedelic compound extracted and isolated (1896) and t
 - [[5-meo-dmt-compound-profile]]
 - [[turner-brief-history-psychedelics-ancient-to-modern]]
 
-## See Also
-
-- [[peyote-mescaline-cactus-pharmacology]]
-
 ## Overview
 
 Mescaline Peyote San Pedro Cactus represents an important element within sustainable
@@ -113,8 +109,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[peyote-mescaline-cactus-pharmacology]]
 - [[gottlieb-peyote-botany-and-mescaline-content]]
 - [[mescaline]]
 - [[mescaline-compound-profile]]

@@ -70,9 +70,6 @@ stomata may briefly reopen for additional CO₂ uptake. This temporal
 separation gives CAM plants 10-100× the water-use efficiency of C3
 plants, but lower maximum daily carbon gain (5-15 μmol CO₂ m⁻² s⁻¹).
 
-## See Also
-- [[tompkins-photosynthesis-biophotons]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -96,7 +93,9 @@ to inform current [[macrofungal-fruiting-phenology-climate-variability]], resour
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[tompkins-photosynthesis-biophotons]]
 - [[comparison-c3-c4-and-cam-photosynthesis-pathways]]
 - [[photosynthesis-and-chloroplast-function]]
 - [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]

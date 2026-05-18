@@ -27,10 +27,6 @@ White sapotes grow easily from seed and can also be produced by grafting. Seedli
 3. **[[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
 
-## See Also
-- [[lucuma-pouteria-lucmo-andean-fruit-tree]] — Andean fruit with similar subtropical adaptation
-- [[permaculture-fruit-tree-guide]] — Tropical and subtropical fruit guide
-
 ## Overview
 
 White Sapote Casimiroa Edulis Rutaceae Subtropical Fruit represents an important element within sustainable
@@ -108,8 +104,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[lucuma-pouteria-lucmo-andean-fruit-tree]] — Andean fruit with similar subtropical adaptation
+- [[permaculture-fruit-tree-guide]] — Tropical and subtropical fruit guide
 - [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]
 - [[white-cherry-gelato]]
 - [[white-muscle-disease]]

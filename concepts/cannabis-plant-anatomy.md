@@ -60,12 +60,6 @@ The glandular head contains a secretory cavity where the cannabinoid precursor o
 
 Pollen germinates on the pistil stigma 15-20 minutes after contact. The pollen tube grows toward the ovule, with the generative cell dividing into two gametes. After fertilization (approximately 14-35 days), the seed matures within the calyx, which swells and often darkens. The seed coat hardens, and the mature seed eventually drops or is harvested.
 
-## See Also
-
-- [[cannabis-genetics-and-breeding]]
-- [[cannabis-extraction-methods]]
-- [[cannabis-extraction-basics]]
-
 ## Overview
 
 Cannabis Plant Anatomy represents an important element within sustainable
@@ -143,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-genetics-and-breeding]]
+- [[cannabis-extraction-methods]]
+- [[cannabis-extraction-basics]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

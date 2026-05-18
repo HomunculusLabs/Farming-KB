@@ -43,14 +43,6 @@ Current research explores the intersection of fungal biology with sustainable ag
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
-
-- [[mushroom-mycelium-growth-monitoring-colonization-cues]]
-- [[jarrold-mycelium-colonization-monitoring-visual-assessment]]
-- [[mycelium]]
-- [[grain-spawn-preparation]]
-- [[contamination-identification-prevention]]
-
 ## Overview
 
 Mycelium Colonization represents an important element within sustainable
@@ -128,8 +120,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-mycelium-growth-monitoring-colonization-cues]]
+- [[jarrold-mycelium-colonization-monitoring-visual-assessment]]
+- [[mycelium]]
+- [[grain-spawn-preparation]]
+- [[contamination-identification-prevention]]
 - [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]]
 - [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - [[mycelium-running-remediating-toxic-waste]]

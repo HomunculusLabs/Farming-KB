@@ -47,10 +47,6 @@ Succession can be reversed through disturbance — fire, overgrazing, clearing, 
 - Fire-resistant plantings and green firebreaks
 - [[permaculture-design-principles]] in action — stable, self-reliant, and yielding. The key insight from Mollison is that succession is not something to wait for passively but a process to be actively designed, directed, and harvested at every stage.
 
-## See Also
-
-- [[zone-and-sector-analysis]]
-
 ## Overview
 
 Bill Mollison Permaculture A Designers Manual Succession And Ecological Evolution represents an important element within sustainable
@@ -128,8 +124,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[zone-and-sector-analysis]]
 - [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]]
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 - [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]

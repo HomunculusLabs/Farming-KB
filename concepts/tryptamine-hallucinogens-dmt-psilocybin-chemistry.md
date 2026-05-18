@@ -47,12 +47,6 @@ McKenna highlights a remarkable pharmacological observation: the difference betw
 - [[mckenna-logos-consciousness-language]]
 - serotonin 5 ht2a receptor psychopharmacology
 
-## See Also
-
-- McKenna T. (1983/1992) "Tryptamine Hallucinogens and Consciousness." The [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
-- Shulgin A, Shulgin A. (1997) "TIHKAL: The Continuation." Transform Press.
-- Nichols DE. (2016) "Psychedelics." Pharmacological Reviews 68(2): 264-355.
-
 ## Overview
 
 Tryptamine Hallucinogens Dmt Psilocybin Chemistry represents an important element within sustainable
@@ -130,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- McKenna T. (1983/1992) "Tryptamine Hallucinogens and Consciousness." The [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
+- Shulgin A, Shulgin A. (1997) "TIHKAL: The Continuation." Transform Press.
+- Nichols DE. (2016) "Psychedelics." Pharmacological Reviews 68(2): 264-355.
 - [[ehrlich-reagent-tryptamine-detection-tlc-mycology]]
 - [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]

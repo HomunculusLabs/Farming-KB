@@ -52,11 +52,6 @@ from this study suggest that amending sandy loam soils with composted organic ma
 increase carbon content may increase microbial diversity while altering community
 composition in ways that benefit plant health and secondary metabolite production.
 
-## See Also
-
-- [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] — full analysis
-- [[cannabis-rhizosphere-bulk-soil-similarity-endorhiza-divergence]] — compartment comparison
-
 ## Overview
 
 Sandy Loam Texture Cannabis Microbiome Assembly represents an important element within sustainable
@@ -134,8 +129,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] — full analysis
+- [[cannabis-rhizosphere-bulk-soil-similarity-endorhiza-divergence]] — compartment comparison
 - [[cervantes-outdoor-soil-types-clay-sand-loam]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
 - [[lemon-haze-cannabis]]

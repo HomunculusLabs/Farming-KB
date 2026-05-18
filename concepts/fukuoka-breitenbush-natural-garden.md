@@ -28,10 +28,6 @@ The garden had varied growing conditions: dry spots and wet spots, areas of poor
 
 This concept connects directly to Fukuoka's [[holmgren-ecological-succession-and-pulsing]] to take its course.
 
-## See Also
-
-- [[fukuoka-america-revisited-agricultural-revolution]]
-- [[fukuoka-do-nothing-farming-and-spiritual-life]]
 ## Practical Considerations
 
 Successful implementation of Fukuoka Breitenbush Natural Garden requires attention to
@@ -79,7 +75,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fukuoka-america-revisited-agricultural-revolution]]
+- [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[doc]]
 - [[fukuoka-starting-natural-farm-orchard-garden-paddy]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]

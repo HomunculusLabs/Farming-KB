@@ -54,11 +54,6 @@ In severe drought without irrigation, maximum spacing for corn is ~16 sq ft per 
 
 Rototilling creates a hard "plow pan" a few inches below the surface, blocking root penetration into subsoil moisture. This is another reason Solomon prefers spade-digging or shallow cultivation with a sharp hoe for established beds.
 
-## See Also
-
-- [[drip-irrigation-cannabis]]
-- [[permaculture-water-systems]]
-
 ## Overview
 
 Solomon Irrigation Water Management represents an important element within sustainable
@@ -136,8 +131,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[drip-irrigation-cannabis]]
+- [[permaculture-water-systems]]
 - [[solomon-disease-identification-and-organic-remedies]]
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-raised-beds-and-bed-preparation]]

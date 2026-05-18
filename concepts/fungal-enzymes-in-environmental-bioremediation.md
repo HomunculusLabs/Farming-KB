@@ -29,14 +29,6 @@ to enhance production levels for commercial applications.
 
 While fungal enzymes primarily target organic pollutants, several ligninolytic fungi also interact with heavy metals. [[comparison-constructed-wetlands-vs-bioswales]] approaches by adding a fungal degradation step to conventional biological treatment.
 
-## See Also
-
-- [[enzymatic-degradation-in-mycoremediation]]
-- fungal enzymes in environmental bioremediation
-- [[doc]]
-- [[laccase]]
-- [[ganoderma-lucidum]]
-
 ## Overview
 
 Fungal Enzymes In Environmental Bioremediation represents an important element within sustainable
@@ -114,8 +106,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[enzymatic-degradation-in-mycoremediation]]
+- fungal enzymes in environmental bioremediation
+- [[doc]]
+- [[laccase]]
+- [[ganoderma-lucidum]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

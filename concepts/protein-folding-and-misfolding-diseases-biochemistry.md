@@ -41,9 +41,6 @@ Macroautophagy delivers cytoplasmic cargo to lysosomes via double-membrane autop
 
 Understanding the biophysical principles of protein folding and the cellular machinery maintaining proteostasis is essential for rational drug design targeting conformational diseases.
 
-## See Also
-
-- [[lignin-degradation]]
 ## Practical Considerations
 
 Successful implementation of Protein Folding And Misfolding Diseases Biochemistry requires attention to
@@ -133,8 +130,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[lignin-degradation]]
 - [[black-soldier-fly-farming-and-insect-protein]]
 - [[fungal-single-cell-protein-production]]
 - [[hex1-protein-woronin-body-crystal-structure-euascomycetes]]

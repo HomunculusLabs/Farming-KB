@@ -63,10 +63,6 @@ when and how to exercise.
 - Indica-heavy strains with higher CBD content may be most appropriate for
   diabetes-related applications
 
-## See Also
-
-- [[blesching-cannabis-cardiovascular-health]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -95,7 +91,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[blesching-cannabis-cardiovascular-health]]
 - [[dom]]
 - [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]

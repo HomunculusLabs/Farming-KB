@@ -17,12 +17,6 @@ spent-mushroom-substrate-recycling and
 oyster-mushroom-substrate-materials-guide for comparisons with other
 species' substrate requirements.
 
-## See Also
-
-- [[substrate-formulation]]
-- [[det]]
-- [[chen-maitake-harvesting-yield-comparison]]
-
 ## Overview
 
 Chen Maitake Substrate Formulation represents an important element within sustainable
@@ -100,10 +94,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[chen-maitake-growth-parameters-environmental-control]]
+## See Also
+- [[substrate-formulation]]
+- [[det]]
 - [[chen-maitake-harvesting-yield-comparison]]
+- [[chen-maitake-growth-parameters-environmental-control]]
 - [[chen-maitake-primordia-initiation-fruiting]]
 - [[chen-maitake-strain-selection-spawn-preparation]]
 - [[maitake-growth-parameters]]

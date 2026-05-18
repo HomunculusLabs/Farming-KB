@@ -33,11 +33,6 @@ McKenna (via Powell) noted that the replacement of natural mushrooms with labora
 
 Powell repeatedly emphasizes the significance of psilocybin being a naturally occurring compound produced by the Earth's biosphere. This is not merely an aesthetic preference but central to his Gaian thesis: the mushroom is a product of evolution, designed (through natural selection) to catalyze expanded awareness in humans. "Nature and the evolutionary process has not let the human race down, rather we have been blind to its solutions."
 
-## See Also
-
-- psilocybin vs other psychedelics
-- [[archaic-revival-philosophy]]
-
 ## Merged: [[psilocybin-neuroscience]]: 5-HT2A and the Raphe System
 
 # Psilocybin Neuroscience: 5-HT2A and the Raphe System
@@ -125,8 +120,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- psilocybin vs other psychedelics
+- [[archaic-revival-philosophy]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

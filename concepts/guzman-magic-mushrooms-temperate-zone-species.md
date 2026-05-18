@@ -53,11 +53,6 @@ in this topic. Understanding these considerations helps practitioners make
 informed decisions and avoid common pitfalls. Environmental conditions,
 timing, and material selection all play critical roles.
 
-## See Also
-- [[psilocybin]]
-- [[psilocin]]
-- [[baeocystin]]
-
 ## Overview
 
 Guzman Magic Mushrooms Temperate Zone Species represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin]]
+- [[psilocin]]
+- [[baeocystin]]
 - [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
 - [[guzman-allen-gartz-mixtec-narcotic-puffballs-ott-investigation]]
 - [[guzman-allen-gartz-neurotropic-fungi-europe]]

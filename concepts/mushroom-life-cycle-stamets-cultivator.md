@@ -34,10 +34,6 @@ four haploid spores on microscopic stalks called sterigmata. Spores
 are forcibly discharged by Buller's drop -- a liquid droplet mechanism
 at the spore base that launches them into the airstream for dispersal.
 
-## See Also
-- [[growing-gourmet-agar-media-formulas-preparation]] — agar recipes and preparation
-- [[growing-gourmet-primordia-formation-pinning]] — pinning biology
-
 ## Overview
 
 Mushroom Life Cycle Stamets Cultivator represents an important element within sustainable
@@ -115,8 +111,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[growing-gourmet-agar-media-formulas-preparation]] — agar recipes and preparation
+- [[growing-gourmet-primordia-formation-pinning]] — pinning biology
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

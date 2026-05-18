@@ -20,10 +20,6 @@ greater affinity for lead ions.
 
 [[singh-key-fungal-genera-bioremediation]] and species. [[fungal-heavy-metal-biosorption-and-detoxification]]
 
-## See Also
-
-- [[fungal-chitosan-biotechnology-applications]]
-
 ## Overview
 
 Staycare Chitosan And Fungal Biomass Derivatives In Biosorption represents an important element within sustainable
@@ -101,8 +97,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-chitosan-biotechnology-applications]]
 - [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]]
 - [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-mycoremediation-of-pharmaceutical-contaminants]]

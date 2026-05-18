@@ -40,16 +40,6 @@ The classical example of the ever-burning fire before a virgin goddess is the cu
 
 Allegro's interpretation of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
-## See Also
-
-- [[allegro-fungal-iconography-in-ancient-art]]
-- controversy-sacred-mushroom-theory
-- [[african-mushroom-cult-history]]. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
-
-The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[det]]
-- [[amanita-muscaria]]
-- [[amanita]]
-
 ## Overview
 
 Allegro Womans Part In The Creative Process represents an important element within sustainable
@@ -127,10 +117,15 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[allegro-bible-morals-ten-commandments-mushroom-word-play]]
+## See Also
 - [[allegro-fungal-iconography-in-ancient-art]]
+- controversy-sacred-mushroom-theory
+- [[african-mushroom-cult-history]]. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
+The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[det]]
+- [[amanita-muscaria]]
+- [[amanita]]
+- [[allegro-bible-morals-ten-commandments-mushroom-word-play]]
 - [[allegro-religion-prehistory-oral-tradition-etymology]]
 - [[allegro-the-sacred-mushroom-amanita-identification]]
 - [[allegro-word-play-and-secret-names-in-scripture]]

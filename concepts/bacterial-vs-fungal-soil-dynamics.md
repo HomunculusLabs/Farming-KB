@@ -67,10 +67,6 @@ Forest soils have a [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] need a li
 
 [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 
-## See Also
-
-- [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -99,7 +95,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]
 - [[dom]]
 - [[elaine-ingham]]
 - [[mycorrhiza]]

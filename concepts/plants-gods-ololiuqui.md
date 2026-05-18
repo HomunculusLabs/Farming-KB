@@ -50,11 +50,6 @@ The tryptamine radical in the ring structure of lysergic acid establishes its re
 
 The cultivated morning glory varieties popular in horticulture — such as "Flying Saucers" — are derived from Ipomoea violacea and contain the same psychoactive alkaloids as the traditional Ololiuqui, though at variable concentrations depending on the strain.
 
-## See Also
-
-- teonanacatl-and-mesoamerican-mushroom-cults — [[ergot-fungus]] — Source of related ergoline alkaloids
-- [[ololiuqui]]
-
 ## Overview
 
 Plants Gods Ololiuqui represents an important element within sustainable
@@ -132,8 +127,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- teonanacatl-and-mesoamerican-mushroom-cults — [[ergot-fungus]] — Source of related ergoline alkaloids
+- [[ololiuqui]]
 - [[hallucinogenic-plants-overview]]
 - [[hallucinogenic-plants-overview-cultural-significance]]
 - [[mollison-designers-internet-of-plants-information-sharing]]

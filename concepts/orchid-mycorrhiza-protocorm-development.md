@@ -56,12 +56,6 @@ In adult orchids, the mycorrhizal relationship becomes more mutualistic. While a
 
 The obligate dependency of orchids on mycorrhizal fungi creates special challenges for [[dighton-mycorrhizal-networks-carbon-transfer]] zal networks. This makes them indirectly parasitic on neighboring photosynthetic plants. Fully mycoheterotrophic orchids have reduced or absent leaves and chloroplasts, reflecting their complete dependence on fungal nutrition.
 
-## See Also
-
-- [[siderophores-mycorrhizal-fungi]]
-- mycorrhizal-plant-signaling
-- [[mycorrhizal-networks-common-mycelial-network]]
-
 ## Overview
 
 Orchid Mycorrhiza Protocorm Development represents an important element within sustainable
@@ -139,8 +133,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[siderophores-mycorrhizal-fungi]]
+- mycorrhizal-plant-signaling
+- [[mycorrhizal-networks-common-mycelial-network]]
 - [[comparison-bromeliad-vs-orchid-care]]
 - [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
 - [[ericoid-and-orchid-mycorrhizae]]

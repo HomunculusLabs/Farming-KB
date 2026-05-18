@@ -56,12 +56,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-
-- [[broadscale-forage-planning-and-forest-pasture-systems]]
-- [[broadscale-landscape-analysis-and-slope-design]]
-- [[broadscale-soil-improvement-and-no-tillage-systems]]
-
 ## Overview
 
 Broadscale Restoration Watershed Repair represents an important element within sustainable
@@ -139,8 +133,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[broadscale-forage-planning-and-forest-pasture-systems]]
+- [[broadscale-landscape-analysis-and-slope-design]]
+- [[broadscale-soil-improvement-and-no-tillage-systems]]
 - [[broadscale-watershed-restoration-techniques]]
 - [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 - [[mollison-permaculture-two-broadscale-soil-improvement]]

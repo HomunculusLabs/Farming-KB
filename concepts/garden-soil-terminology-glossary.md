@@ -65,11 +65,6 @@ A comprehensive reference of key terms used in soil science, plant biology, and 
 - **lipids:** Organic molecules insoluble in water (fats, waxes, steroids, triglycerides)
 - **oxidation:** Loss of electrons in a chemical reaction
 
-## See Also
-
-- [[nutrient-cycling-in-soil]]
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -98,7 +93,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[nutrient-cycling-in-soil]]
+- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[mycorrhiza]]
 - [[gaias-garden-soil-food-web-ecology]]
 - [[fukuoka-textdoc-hillside-garden-terrace-soil-preparation]]

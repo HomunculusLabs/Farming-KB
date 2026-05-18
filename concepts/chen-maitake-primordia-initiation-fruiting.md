@@ -14,11 +14,6 @@ type: concept
 The growth sequence of [[mushroom-pinning-primordia-formation-strategies]],
 mushroom-primordia-formation-triggers.
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
-creative adaptation to local conditions and emerging challenges.
-
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
@@ -147,4 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+creative adaptation to local conditions and emerging challenges.

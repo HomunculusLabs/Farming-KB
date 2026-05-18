@@ -56,13 +56,6 @@ public health monitoring and risk reduction efforts. The case study
 concluded that accurate information about product identification, dosing,
 and potential somatic effects was essential for reducing harm.
 
-## See Also
-
-- emcdda-hallucinogenic-mushroom-consequences-and-health-risks
-- emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management
-- emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative
-- emcdda-wild-mushroom-foraging-misidentification-hazards
-
 ## Overview
 
 Emcdda Psilocybin Mushroom Somatic Health Risks And Physiological Effects represents an important element within sustainable
@@ -140,8 +133,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- emcdda-hallucinogenic-mushroom-consequences-and-health-risks
+- emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management
+- emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative
+- emcdda-wild-mushroom-foraging-misidentification-hazards
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

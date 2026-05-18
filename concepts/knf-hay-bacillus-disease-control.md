@@ -21,13 +21,6 @@ Hay bacillus is particularly effective against foliar diseases such as [[endophy
 
 Hay bacillus preparations can be stored for extended periods because the bacteria form endospores under nutrient-limited conditions. To maximize shelf life, the finished culture should be dried and kept in a cool, dark location. When reconstituted with water and a small amount of sugar, the spores germinate within hours and begin producing antimicrobial compounds. This storage stability makes hay bacillus one of the most practical KNF inputs for farmers who need reliable disease suppression throughout the growing season.
 
-## See Also
-
-- [[knf-oriental-herbal-nutrient]]
-- [[bacillus-subtilis]]
-- [[det]]
-- [[mycorrhiza]]
-
 ## Overview
 
 Knf Hay Bacillus Disease Control represents an important element within sustainable
@@ -105,10 +98,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[knf-oriental-herbal-nutrient]]
+- [[bacillus-subtilis]]
+- [[det]]
+- [[mycorrhiza]]
 - [[bacillus-megaterium]]
 - [[bacillus-pumilus-radiation-resistance-surface-decontamination]]
 - [[bacillus-pumilus-space-relevant-challenge-organism-sterilization-validation]]
-- [[bacillus-subtilis]]
 - [[comparison-trichoderma-vs-bacillus-vs-pseudomonas-biocontrol]]

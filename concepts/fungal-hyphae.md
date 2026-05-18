@@ -13,9 +13,6 @@ type: concept
 - **Other microorganisms:** Engaging in antagonistic or synergistic
   interactions with bacteria and other fungi.
 
-## See Also
-
-- [[saprotrophic-nutrition]] — Decompositional feeding via hyphae
 ## Practical Applications
 
 Fungal Hyphae has a range of practical applications that make it relevant to
@@ -80,7 +77,9 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[saprotrophic-nutrition]] — Decompositional feeding via hyphae
 - [[det]]
 - [[mycelium]]
 - [[decomposition]]

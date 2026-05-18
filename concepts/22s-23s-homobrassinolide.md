@@ -65,10 +65,6 @@ The development and understanding of 22s 23s homobrassinolide has evolved consid
 ## Key Considerations
 Successful implementation of 22s 23s homobrassinolide requires attention to local conditions, climate adaptability, and integration with existing ecological systems. Regular monitoring and adaptive management are essential for optimal results.
 
-## See Also
-- [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
-
 ## Historical Context
 
 The historical development of this subject reflects centuries of accumulated
@@ -83,7 +79,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 - [[psilocybin]]
 - [[psilocin]]
 - [[indole]]

@@ -17,9 +17,6 @@ For the flat bed, Duggar recommended a depth of 8 to 10 inches after suitable co
 
 Based on his extensive experimentation and field experience, Duggar distilled several practical rules that any cultivator could follow. First, never spawn a bed when the heat is rising or when warmer than 100°F; always spawn when the temperature is declining and under 90°F. Second, maintain the growing house at 54°F to 56°F for best results, extending the acceptable range to 50°F to 65°F if necessary. Third, keep atmospheric humidity between 60 and 75 percent, ensuring gradual surface evaporation without dripping or drying. Fourth, do not fear light, but be aware that sunlight brings heat that must be managed. Fifth, use fresh spawn rather than old, as vitality degrades over time regardless of [[mushroom-cultivation]].
 
-## See Also
-
-- [[victorian-mushroom-spawn-types]]
 ## Practical Applications
 
 Duggar Mushroom Environmental Factors Temperature Moisture Light has a range of practical applications that make it relevant to
@@ -85,7 +82,9 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[victorian-mushroom-spawn-types]]
 - [[det]]
 - [[sterilization]]
 - [[mushroom-fruiting-biology-light-tropisms-and-environmental-triggers]]

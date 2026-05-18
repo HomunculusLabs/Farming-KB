@@ -47,9 +47,6 @@ knowledge surrounding its use. Given the rapid loss of indigenous
 ethnobotanical knowledge worldwide, such research may need to be
 conducted urgently before the tradition disappears entirely.
 
-## See Also
-
-- [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] for other auditory hallucinogens
 ## Practical Considerations
 
 Successful implementation of Shanshi Coriaria Thymifolia Andean Entheogen requires attention to
@@ -146,4 +143,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] for other auditory hallucinogens

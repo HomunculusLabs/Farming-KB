@@ -26,14 +26,6 @@ The pH of the solution strongly influences ion [[jadam-ultra-low-cost-agricultur
 
 The main limitations include the finite capacity of biomass, potential interference from other solutes, the need for biomass harvesting and disposal or regeneration, and variability between biomass batches.
 
-## See Also
-
-- fungal-bioremediation
-- [[fungal-metal-redox-transformations-detailed]]
-- [[biosorption-isotherms]]
-- [[dighton-fungal-biosorption-heavy-metal-remediation]]
-- [[fungal-heavy-metal-biosorption-and-detoxification]]
-
 ## Overview
 
 Fungal Heavy Metal Anion Biosorption represents an important element within sustainable
@@ -111,8 +103,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- fungal-bioremediation
+- [[fungal-metal-redox-transformations-detailed]]
+- [[biosorption-isotherms]]
+- [[dighton-fungal-biosorption-heavy-metal-remediation]]
+- [[fungal-heavy-metal-biosorption-and-detoxification]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

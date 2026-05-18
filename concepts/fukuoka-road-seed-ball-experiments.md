@@ -110,14 +110,13 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
+
 ## See Also
 - [[fukuoka-seed-ball-technique]]
 - [[fukuoka-clay-seed-ball-technique]]
 - [[fukuoka-seed-ball-one-seed-technique]]
 - [[fukuoka-seed-ball-method]]
 - [[fukuoka-seed-ball-methods-advanced]]
-
-## See Also
 - [[acacia]]
 - [[soma]]
 - [[desert-revegetation]]

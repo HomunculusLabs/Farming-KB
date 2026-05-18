@@ -112,16 +112,13 @@ This developmental sequence demonstrates that fungal network topology is an emer
 - **Network evolution** through proliferation → reinforcement → regression shows that topology is dynamic and resource-driven, with the graph structure adapting over time to optimize foraging efficiency.
 - The planar constraint is both a limitation and an organizing principle: it prevents the extreme connectivity seen in non-spatial networks while enforcing biologically meaningful spatial relationships between nodes.
 
-## See Also
 
+## See Also
 - Fungal foraging strategies and resource translocation
 - Spatial graph theory and planar networks
 - Biological network resilience and robustness
 - Mycelial cord systems and their ecological functions
 - Complex network analysis of biological systems
-
-## See Also
-
 - [[mycelial-network-structure]]
 - [[fungal-biology-fundamentals]]
 - [[fungal-mycelial-networks-nutrient-translocation]]

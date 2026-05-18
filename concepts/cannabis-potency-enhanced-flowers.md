@@ -32,12 +32,6 @@ Potency-enhanced flowers offer a different consumption experience compared to co
 
 This gradual release may be preferable for users who find the intensity of direct oil vaporization unpleasant. The plant material in the enhanced flowers acts as a buffer, moderating the rate of cannabinoid delivery and producing a smoother, more extended experience. The presence of the plant matrix also contributes familiar flavors and aromas that are absent from pure oil consumption.
 
-## See Also
-
-[[psilocybin]]
-- [[petroleum-ether]]
-- [[brassinosteroid]]
-
 ## Overview
 
 Cannabis Potency Enhanced Flowers represents an important element within sustainable
@@ -115,8 +109,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[psilocybin]]
+- [[petroleum-ether]]
+- [[brassinosteroid]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

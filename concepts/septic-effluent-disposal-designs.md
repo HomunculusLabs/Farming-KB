@@ -12,10 +12,6 @@ type: concept
 - **Methane production** for household energy independence
 - **Comfrey beds** for additional nutrient uptake and fodder production
 
-## See Also
-- [[pulp-paper-effluent-treatment]]
-- [[kraft-pulp-bleach-effluent-fungal-treatment]]
-
 ## Overview
 
 Septic Effluent Disposal Designs represents an important element within sustainable
@@ -93,10 +89,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[mushroom-fruiting-chamber-designs]]
+## See Also
 - [[pulp-paper-effluent-treatment]]
+- [[kraft-pulp-bleach-effluent-fungal-treatment]]
+- [[mushroom-fruiting-chamber-designs]]
 - [[septic-tanks-and-natural-swimming-pools]]
 - [[singh-pulp-paper-effluent-fungal-decolorization]]
 - [[staycare-kraft-pulp-bleach-effluent-treatment]]

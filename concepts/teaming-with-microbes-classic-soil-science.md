@@ -19,15 +19,6 @@ See also: [[nutrient-cycling-in-soil]]
 
 Healthy soil exhibits good structure, earthy smell, and diverse biological activity. Carbon-to-nitrogen ratios between 25:1 and 30:1 support optimal microbial decomposition. Regular soil testing guides amendment schedules.
 
-## See Also
-
-- [[microwave-interaction-with-microbial-cells]]
-- [[soil-building-ecological-garden]]
-
-## See Also
-
-[[teaming-with-microbes-protozoa]], [[teaming-with-microbes-fb-ratio]]
-
 ## Organic Matter and Humus
 Organic matter, while typically comprising only 3-6% of soil volume, is
 the biological engine of soil fertility. It exists in three forms: fresh
@@ -147,4 +138,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[microwave-interaction-with-microbial-cells]]
+- [[soil-building-ecological-garden]]
+[[teaming-with-microbes-protozoa]], [[teaming-with-microbes-fb-ratio]]

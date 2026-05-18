@@ -28,10 +28,6 @@ What followed was what we call "history" — the long, grim record of warfare, s
 - [[mckenna-archaic-revival]]
 - [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
-## See Also
-- [[psychedelic-consciousness-models]]
-- [[psilocybin-and-mystical-experience]] has brought renewed scholarly attention to many of the questions McKenna raised. While his specific historical claims remain debated, the broader question of how psychoactive substances have shaped human consciousness and culture is now being investigated with new methodological tools and a growing body of clinical evidence.
-
 ## Contemporary Relevance
 
 McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
@@ -131,8 +127,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psychedelic-consciousness-models]]
+- [[psilocybin-and-mystical-experience]] has brought renewed scholarly attention to many of the questions McKenna raised. While his specific historical claims remain debated, the broader question of how psychoactive substances have shaped human consciousness and culture is now being investigated with new methodological tools and a growing body of clinical evidence.
 - [[mckenna-amazon-ayahuasca-encounter-dona-catalina]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]

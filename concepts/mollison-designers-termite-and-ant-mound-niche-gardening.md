@@ -49,9 +49,6 @@ by observation and local report, which useful crops or trees are
 left alone on mounds, which are attacked but remain productive,
 and which actually benefit by association with a local termite or
 ant species.
-## See Also
-- [[mollison-designers-day-length-and-flowering-response]]
-
 ## Overview
 
 Mollison Designers Termite And Ant Mound Niche Gardening represents an important element within sustainable
@@ -129,8 +126,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-day-length-and-flowering-response]]
 - [[humid-cool-climate-characteristics-mollison]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-climate-zone-3-farm-forestry]]

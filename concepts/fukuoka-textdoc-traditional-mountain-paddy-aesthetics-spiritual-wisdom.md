@@ -29,9 +29,6 @@ requires no fertilizer because natural vegetation returns [[cho-natural-pest-con
 knowledge are sufficient. Most importantly, it requires no sacrifice of spiritual
 fulfillment for material productivity, because the two are inseparable in this
 approach to agriculture.
-## See Also
-
-- [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 ## Practical Applications
 
 Traditional Mountain Paddy Aesthetics and Spiritual Wisdom has a range of practical applications that make it relevant to
@@ -91,7 +88,9 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 - [[dom]]
 - [[composting]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]

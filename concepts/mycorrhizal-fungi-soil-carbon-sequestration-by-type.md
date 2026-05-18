@@ -61,11 +61,6 @@ The differences between mycorrhizal types have significant implications for carb
 - glomalin soil aggregation and carbon storage
 - soil organic carbon pools and turnover rates
 
-## See Also
-
-- [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]
-- [[teaming-with-microbes-fungi]]
-
 ## Overview
 
 Mycorrhizal Fungi Soil Carbon Sequestration By Type represents an important element within sustainable
@@ -143,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]
+- [[teaming-with-microbes-fungi]]
 - [[dighton-leaf-litter-patch-effects-mycorrhizal-community]]
 - [[endobacteria-arbuscular-mycorrhizal-fungi]]
 - [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

@@ -56,14 +56,6 @@ By the end of the century, the fly-agaric found its way into children's books, C
 
 The case of "Mr W." (possibly a Mr. White or Mr. Wright) is one of the earliest documented accidental intoxications with psilocybin mushrooms in Britain. A man in Knightsbridge gathered what he believed to be common field mushrooms but instead consumed Liberty Caps (Psilocybe semilanceata). He was subsequently found staggering through the streets in a state of extreme intoxication, with dilated pupils and vivid hallucinations. The case was widely reported and became a cautionary tale in Victorian mycological circles.
 
-## See Also
-
-- [[mushroom-identification]] — Modern identification methods descended from Victorian taxonomy
-- [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom discovery
-- [[mushroom-folklore-and-culture]] — Mushrooms in fairy lore and popular culture
-- [[mordecai-cubitt-cooke]] — The Victorian mycologist who almost discovered magic mushrooms
-- [[r-gordon-wasson]] — Who ultimately brought Mexican mushroom practices to Western attention
-
 ## Related
 
 - [[buller-ahr]]
@@ -146,4 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[mushroom-identification]] — Modern identification methods descended from Victorian taxonomy
+- [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom discovery
+- [[mushroom-folklore-and-culture]] — Mushrooms in fairy lore and popular culture
+- [[mordecai-cubitt-cooke]] — The Victorian mycologist who almost discovered magic mushrooms
+- [[r-gordon-wasson]] — Who ultimately brought Mexican mushroom practices to Western attention

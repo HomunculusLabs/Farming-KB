@@ -60,11 +60,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[det]]
-- [[solomon-starting-new-garden-sod-clay-soil]]
-- [[solomon-clay-soil-management-and-remediation]]
-
 ## Overview
 
 Clay Soil Management Vegetable Garden Solomon represents an important element within sustainable
@@ -142,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[solomon-starting-new-garden-sod-clay-soil]]
+- [[solomon-clay-soil-management-and-remediation]]
 - [[clay-ball-seed-pellets]]
 - [[comparison-light-straw-clay-vs-hempcrete]]
 - [[fukuoka-clay-pellet-aerial-seeding-method]]

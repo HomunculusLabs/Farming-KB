@@ -10,27 +10,6 @@ type: concept
 
 The black wattle ([[fukuoka-orchard-method]]
 
-## See Also
-
-- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] Host is an important subject that has garnered significant attention
-from researchers, practitioners, and enthusiasts alike. The topic
-sits at the intersection of multiple disciplines, drawing on insights
-from biology, ecology, chemistry, and practical experience. A thorough
-understanding requires engagement with both the theoretical foundations
-and the accumulated wisdom of hands-on practice in the field.
-
-Historical development of knowledge in this area has been gradual and
-incremental, with key contributions from researchers across different
-cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
-This synthesis of old and new approaches continues to yield valuable
-insights for practitioners seeking to apply these principles effectively.
-
-The broader context within which this topic exists includes evolving
-environmental conditions, changing social priorities, and advancing
-technological capabilities. Each of these factors influences both the
-relevance and the practical application of the principles involved.
-
 ## Key Principles and Mechanisms
 
 Several foundational principles govern the processes and outcomes
@@ -141,8 +120,24 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] Host is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

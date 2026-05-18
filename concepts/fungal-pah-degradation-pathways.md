@@ -35,22 +35,6 @@ Boletus edulis and [[allegro-amanita-muscaria-properties-and-pharmacology]] remo
 - **Mineralization rates** — Complete mineralization to CO2 varies from <5% to >50% depending on PAH structure, fungal species, and environmental conditions
 - **Compost bioreactors** — Combination of fungal inoculation with composting achieves effective PAH removal in contaminated soils. See [[pah-properties-toxicity-bioremediation]] discusses the broader toxicity implications. Some fungal metabolites of PAHs retain or even increase mutagenicity compared to parent compounds. This is particularly relevant for quinone metabolites and diol epoxides of benzo[a]pyrene. Complete mineralization to CO2 is the only pathway that fully eliminates mutagenic potential.
 
-## See Also
-
-- [[mycoremediation-pah-and-pcb-degradation]] for combined approaches
-- fungal-lignin-degradation-enzymology for peroxidase/laccase mechanisms
-- [[singh-fungal-transformation-metals-metalloids]] of PAHs often reduces toxicity, though not always predictably:
-
-- **Ring hydroxylation** generally produces more polar, water-soluble metabolites that are less bioaccumulative
-- **Ring fission** products (muconic acid derivatives, pyrones) are typically less toxic than parent PAHs
-- **Quinone formation** can be problematic, as some PAH quinones (particularly benzo[a]pyrene quinones) retain mutagenic potential through redox cycling that generates reactive oxygen species
-- **Bound residue formation** via covalent incorporation into soil organic matter represents a permanent detoxification pathway, as described in [[fungal-bound-residue-formation]]
-
-The balance between detoxification and potential activation during fungal PAH metabolism underscores the importance of achieving complete mineralization to CO2 whenever possible, particularly for high molecular weight carcinogenic PAHs like benzo[a]pyrene.
-- [[laccase]]
-- [[suillus-grevillei]]
-- [[composting]]
-
 ## Overview
 
 Fungal Pah Degradation Pathways represents an important element within sustainable
@@ -128,8 +112,19 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycoremediation-pah-and-pcb-degradation]] for combined approaches
+- fungal-lignin-degradation-enzymology for peroxidase/laccase mechanisms
+- [[singh-fungal-transformation-metals-metalloids]] of PAHs often reduces toxicity, though not always predictably:
+- **Ring hydroxylation** generally produces more polar, water-soluble metabolites that are less bioaccumulative
+- **Ring fission** products (muconic acid derivatives, pyrones) are typically less toxic than parent PAHs
+- **Quinone formation** can be problematic, as some PAH quinones (particularly benzo[a]pyrene quinones) retain mutagenic potential through redox cycling that generates reactive oxygen species
+- **Bound residue formation** via covalent incorporation into soil organic matter represents a permanent detoxification pathway, as described in [[fungal-bound-residue-formation]]
+The balance between detoxification and potential activation during fungal PAH metabolism underscores the importance of achieving complete mineralization to CO2 whenever possible, particularly for high molecular weight carcinogenic PAHs like benzo[a]pyrene.
+- [[laccase]]
+- [[suillus-grevillei]]
+- [[composting]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

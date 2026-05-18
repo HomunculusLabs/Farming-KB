@@ -47,11 +47,6 @@ plants — knowledge anticipating modern pharmacology by centuries. This was der
 not from theoretical reasoning but from direct experience: shamans observed the
 effects of different plant combinations on their own consciousness, adjusting
 
-## See Also
-- dmt
-- ayahuasca
-- doc
-
 ## Overview
 
 Shamanism Plant Ecstasy represents an important element within sustainable
@@ -129,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- dmt
+- ayahuasca
+- doc
 - [[harner-amanita-muscaria-siberian-shamanism]]
 - [[mckenna-psychedelic-shamanism]]
 - [[mckenna-shamanism-and-techniques-of-ecstasy]]

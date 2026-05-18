@@ -78,7 +78,7 @@ The [[doc]]
 
 ## Overview
 
-Blesching Cannabis Depression And Anger Release represents an important element within sustainable
+[[blesching-cannabis-depression]] And Anger Release represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Blesching Cannabis Depression And Anger Release finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

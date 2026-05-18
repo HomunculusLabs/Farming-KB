@@ -42,12 +42,6 @@ and was entirely absent from Sour Diesel (FDR p = 0.012). Methylophilus species
 are methylotrophic bacteria capable of utilizing single-carbon compounds like
 methanol — a product of plant cell wall demethylation. The [[fungal-elicitors-enhanced-secondary-metabolite-production]] including cannabinoids.
 
-## See Also
-
-- cannabis cultivar specificity endorhiza microbiome — cultivar-specific selection mechanisms
-- [[fukuoka-soil-microbiome-and-natural-balance]] — edaphic drivers of community composition
-- two tier selection model rhizosphere microbiome assembly — theoretical framework for root microbiome assembly
-
 ## Overview
 
 Cannabis Rhizosphere Microbiome Zonation represents an important element within sustainable
@@ -125,8 +119,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- cannabis cultivar specificity endorhiza microbiome — cultivar-specific selection mechanisms
+- [[fukuoka-soil-microbiome-and-natural-balance]] — edaphic drivers of community composition
+- two tier selection model rhizosphere microbiome assembly — theoretical framework for root microbiome assembly
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

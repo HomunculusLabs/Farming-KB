@@ -42,10 +42,6 @@ manganese. Noting variation in wheat head size, he investigates the cause,
 discovers [[fukuoka-critique-laws-agricultural-science]] and
 [[fukuoka-textdoc-no-good-or-evil-in-nature]].
 
-## See Also
-
-- [[fukuoka-theory-principle-of-non-causality]]
-- [[fukuoka-nature-perfect-imperfect]]
 ## Practical Considerations
 
 Successful implementation of No Cause and Effect in Nature - The Principle of Non-Causality requires attention to
@@ -93,7 +89,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fukuoka-theory-principle-of-non-causality]]
+- [[fukuoka-nature-perfect-imperfect]]
 - [[doc]]
 - [[fukuoka-principle-non-causality-beyond-cause-effect]]
 - [[savory-cause-and-effect-guideline]]

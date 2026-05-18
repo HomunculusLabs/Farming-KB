@@ -57,11 +57,6 @@ against syphilis behaved similarly.
 
 Abrams realized that if he could devise a wave-emitting instrument
 
-## See Also
-
-- [[tompkins-hieronymus-eloptic-energy]]
-- [[tompkins-radionic-agriculture-pesticides]]
-
 ## Overview
 
 Tompkins Albert Abrams Electronic Diagnosis represents an important element within sustainable
@@ -139,10 +134,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tompkins-hieronymus-eloptic-energy]]
+- [[tompkins-radionic-agriculture-pesticides]]
 - [[tompkins-ancient-plant-knowledge]]
 - [[tompkins-electricity-plants-historical-discoveries]]
-- [[tompkins-hieronymus-eloptic-energy]]
 - [[tompkins-kirlian-photography-plant-auras]]
 - [[tompkins-soil-health-howard-indore-process]]

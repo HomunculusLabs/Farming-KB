@@ -73,10 +73,6 @@ local [[lactic-acid-bacteria-knf]] and yeasts -- over pathogens.
 - [[beneficial-indigenous-microorganisms-bim]] -- broader IMO context
 - [[jadam-leaf-mold-as-ideal-soil]]
 
-## See Also
-
-- spawn-grain-medium-interaction-lentinus-squarrosulus
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -105,7 +101,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- spawn-grain-medium-interaction-lentinus-squarrosulus
 - [[jadam-microorganism-diversity-over-disinfection]]
 - [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 - [[jadam-microorganism-solution-jms]]

@@ -54,12 +54,6 @@ undersampled. The endemic species of Australia and New Zealand are
 particularly vulnerable to habitat destruction and deserve priority
 in conservation efforts. International collaboration between
 mycologists and indigenous communities is essential.
-## See Also
-
-- [[doc]]
-- [[psilocin]]
-- [[ectomycorrhiza]]
-
 ## Overview
 
 Biogeography Austral Hemisphere Fungi represents an important element within sustainable
@@ -137,8 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[psilocin]]
+- [[ectomycorrhiza]]
 - [[coccidioides-species-complex-biogeography]]
 - [[fungal-biodiversity-biogeography]]
 - [[neurotropic-fungi-global-biogeography]]

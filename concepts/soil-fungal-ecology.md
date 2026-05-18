@@ -49,11 +49,6 @@ infiltration, erosion resistance, and overall soil structure. Soils
 with robust fungal networks typically have better tilth and higher
 water-holding capacity than fungal-depleted soils.
 
-## See Also
-
-- [[fungal-secondary-metabolites-environment]]
-- [[decomposition]]
-
 ## Overview
 
 Soil Fungal Ecology represents an important element within sustainable
@@ -131,8 +126,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-secondary-metabolites-environment]]
+- [[decomposition]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[casing-soil-mushroom-cultivation]]
 - [[gaias-garden-bringing-the-soil-to-life]]

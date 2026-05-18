@@ -15,13 +15,6 @@ The neuroprotective properties of cannabinoids represent one of the most signifi
 
 The neuroprotective properties of cannabinoids span from acute conditions (stroke, traumatic brain injury) to chronic neurodegenerative diseases. CBD's ability to provide neuroprotection independently of CB1 receptors (avoiding psychoactive effects) makes it particularly promising for clinical applications.
 
-## See Also
-
-- [[cannabis-anti-inflammatory-applications]]
-- [[doc]]
-- [[blesching-cannabis-neuroprotection-neurodegenerative]]
-- [[blesching-cannabis-neuroprotection]]
-
 ## Overview
 
 Cannabis Neuroprotection represents an important element within sustainable
@@ -99,8 +92,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-anti-inflammatory-applications]]
+- [[doc]]
+- [[blesching-cannabis-neuroprotection-neurodegenerative]]
+- [[blesching-cannabis-neuroprotection]]
 - [[blesching-cannabis-antiemetic-vomiting]]
 - [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-parkinsons-disease]]

@@ -31,12 +31,6 @@ Mexico is the global center of [[arbuscular-mycorrhizal-fungi-in-tropical-forest
 Mexican neurotropic fungi span an extraordinary altitudinal range. The highest
 recorded altitude is 4,000 m, where [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 
-## See Also
-
-- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
-- [[guzman-allen-gartz-neurotropic-fungi-europe]]
-- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
-
 ## Overview
 
 Guzman Allen Gartz Neurotropic Fungi Central America Caribbean represents an important element within sustainable
@@ -114,8 +108,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
+- [[guzman-allen-gartz-neurotropic-fungi-europe]]
+- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
 - [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
 - [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]]
 - [[guzman-psilocybin-mushrooms-africa]]

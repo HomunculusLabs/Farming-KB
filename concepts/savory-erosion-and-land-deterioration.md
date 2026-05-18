@@ -32,10 +32,6 @@ plants, rill formation, and changes in stream bank stability. Photographic
 records at fixed points provide the most accessible means of tracking
 erosion trends over time.
 
-## See Also
-
-- [[savory-water-cycle-management]]
-- [[savory-animal-impact-and-herd-effect]]
 ## Practical Considerations
 
 Successful implementation of Erosion and Land Deterioration requires attention to
@@ -132,8 +128,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-water-cycle-management]]
+- [[savory-animal-impact-and-herd-effect]]
 - [[savory-fencing-economics-and-stock-density-curve]]
 - [[savory-flexibility-in-management]]
 - [[savory-grasshopper-and-insect-outbreaks]]

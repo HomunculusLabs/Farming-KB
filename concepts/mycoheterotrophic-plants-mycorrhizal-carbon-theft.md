@@ -28,10 +28,6 @@ DNA-based identification has revealed that most fully mycoheterotrophic plants a
 |---|---|---|
 | Voyria spp. (4 species) | Glomus Group A | AM with [[fungal-mycelial-networks-nutrient-translocation]] linking different plant species can facilitate "cheating" -- individual plants gaining more nutrients than they have "paid for" in carbon, or even stealing carbon from fungi. This has important implications for plant [[arbuscular-mycorrhizal-networks]], [[mycorrhizal-effects-on-plant-community-composition]]
 
-## See Also
-
-- [[monotropa-uniflora]]
-
 ## Overview
 
 Mycoheterotrophic Plants Mycorrhizal Carbon Theft represents an important element within sustainable
@@ -109,8 +105,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[monotropa-uniflora]]
 - [[anticholinergic-plants-dangers]]
 - [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
 - [[query-how-do-i-grow-carnivorous-plants-outdoors]]

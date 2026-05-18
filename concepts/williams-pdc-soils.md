@@ -51,10 +51,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-## See Also
-- [[rammed-earth]]
-- [[teaming-with-microbes-mulch-and-soil-food-web]]
-
 ## Overview
 
 Williams Pdc Soils represents an important element within sustainable
@@ -132,8 +128,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[rammed-earth]]
+- [[teaming-with-microbes-mulch-and-soil-food-web]]
 - [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
 - [[williams-pdc-electricity-in-permaculture]]
 - [[williams-pdc-food-forests]]

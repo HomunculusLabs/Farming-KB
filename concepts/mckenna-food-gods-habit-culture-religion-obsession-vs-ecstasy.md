@@ -55,10 +55,6 @@ dangerous to the status quo. They demonstrate that the habitual
 patterns that constitute "reality" are constructions — and that
 other constructions are possible.
 
-## See Also
-
-- [[mckenna-food-gods-wasson-revelation-magic-mushroom-discovery-mazatec]]
-
 ## Overview
 
 Mckenna Food Gods Habit Culture Religion Obsession Vs Ecstasy represents an important element within sustainable
@@ -136,8 +132,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-gods-wasson-revelation-magic-mushroom-discovery-mazatec]]
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

@@ -63,13 +63,6 @@ destined to become the most important of the trading companies, was founded in
 1600. From that date until 1834, the company controlled the tea trade to its
 great advantage.
 
-## See Also
-
-- [[mckenna-sugar-as-psychoactive-drug]]
-- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
-- [[mckenna-cannabis-cultural-style-and-feminine-plant]] style
-- mckenna opium european imagination
-
 ## Overview
 
 Mckenna Tea Coffee Chocolate Stimulants represents an important element within sustainable
@@ -147,4 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[mckenna-sugar-as-psychoactive-drug]]
+- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
+- [[mckenna-cannabis-cultural-style-and-feminine-plant]] style
+- mckenna opium european imagination

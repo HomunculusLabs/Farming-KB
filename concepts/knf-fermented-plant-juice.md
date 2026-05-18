@@ -55,15 +55,6 @@ jars, glass bottles (brown glass to block sunlight), or containers made
 from Japanese cedar. Bury the container or keep in a cool storehouse.
 FPJ is typically diluted at a ratio of 1:500 for [[savory-growing-season-and-non-growing-season-management]].
 
-## See Also
-
-- [[korean-natural-farming]] IMO for the foundational microbial input
-  used alongside FPJ in the KNF system
-- knf lab preparation for setting up a [[jadam-uls-technology]] for another Korean approach to ultra-low-
-  cost [[fermented-plant-juice]]
-- [[permaculture]]
-- [[master-cho-knf-fpj-fermented-plant-juice-guide]]
-
 ## Overview
 
 Knf Fermented Plant Juice represents an important element within sustainable
@@ -141,8 +132,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[korean-natural-farming]] IMO for the foundational microbial input
+  used alongside FPJ in the KNF system
+- knf lab preparation for setting up a [[jadam-uls-technology]] for another Korean approach to ultra-low-
+  cost [[fermented-plant-juice]]
+- [[permaculture]]
+- [[master-cho-knf-fpj-fermented-plant-juice-guide]]
 - [[comparison-fermented-plant-extract-vs-compost-tea]]
 - [[fermented-dairy-and-cultured-milk-products]]
 - [[fermented-vegetables-guide]]

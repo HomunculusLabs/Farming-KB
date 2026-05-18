@@ -24,12 +24,6 @@ Bees are integrated into every zone of Holzer's farm:
 
 The health of the bee colonies serves as a barometer for the health of the entire farm ecosystem. When bees thrive, it indicates that the landscape is diverse, chemical-free, and ecologically balanced.
 
-## See Also
-
-- [[holzer-bee-collapse-natural-beekeeping]]
-
-- [[holzer-livestock-integration]]
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]
 ## Practical Considerations
 
 When working with Holzer Beekeeping and Honey Production, several practical factors should be
@@ -127,8 +121,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[holzer-bee-collapse-natural-beekeeping]]
+- [[holzer-livestock-integration]]
+- [[holzer-poultry-keeping-ducks-geese-and-chickens]]
 - [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
 - [[holzer-medicinal-and-culinary-herbs-compendium]]
 - [[holzer-permaculture-landscape-design]]

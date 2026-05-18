@@ -56,11 +56,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[youngsang-cho]]
-- [[fukuoka-textdoc-village-philosophy-disappearance]]
-- [[fukuoka-sunken-hearth-and-village-philosophy]]
-
 ## Overview
 
 Jadam Bongha Village Proof represents an important element within sustainable
@@ -138,8 +133,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[youngsang-cho]]
+- [[fukuoka-textdoc-village-philosophy-disappearance]]
+- [[fukuoka-sunken-hearth-and-village-philosophy]]
 - [[jadam-anaerobic-fermentation-principles]]
 - [[jadam-element-function-reference]]
 - [[jadam-herbal-smoker-livestock]]

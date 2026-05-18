@@ -34,10 +34,6 @@ closed-loop system where woody biomass is converted to stable carbon,
 the heat is used productively, the gases are captured, and the final
 biochar returns to the soil that produced the original biomass.
 
-## See Also
-
-- permaculture-designers-manual-bamboo -- source reference
-- [[keyline-design]] -- integrating biochar into broadacre design
 ## Practical Considerations
 
 Successful implementation of Charcoal Production and Biochar Soil Amendment requires attention to
@@ -134,8 +130,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- permaculture-designers-manual-bamboo -- source reference
+- [[keyline-design]] -- integrating biochar into broadacre design
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-conifer-forestry-and-timber]]
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]

@@ -46,11 +46,6 @@ The Metzner model has been adapted by psychedelic integration therapists who use
 
 Metzner's publications including "The Psychedelic Experience" (1964, with Leary and Alpert) and "Allies for Awakening" (1997) provide detailed frameworks for understanding the relationship between Western psychological theory and entheogenic practice.
 
-## See Also
-
-- [[syncretic-entheogenic-churches]]
-- [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
-
 ## Overview
 
 Metzner Western Psychology Freud Jung Reich Entheogenic Integration represents an important element within sustainable
@@ -128,8 +123,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[syncretic-entheogenic-churches]]
+- [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
 - [[metzner-consciousness-expansion-versus-contraction-addiction]]
 - [[metzner-neoshamanic-medicine-circles]]
 - [[metzner-san-pedro-cactus-andean-ceremony-altar-practice]]

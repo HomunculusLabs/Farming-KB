@@ -78,11 +78,9 @@ to suppress contaminants. Several approaches show commercial promise:
   activity against Trichoderma contaminants in research settings but are not yet
   commercially available for mushroom cultivation.
 
+
 ## See Also
 - [[mushroom-contamination-prevention]]
-
-## See Also
-
 - [[telluride-mushroom-festival-modern-mycological-culture]]
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
 - [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]

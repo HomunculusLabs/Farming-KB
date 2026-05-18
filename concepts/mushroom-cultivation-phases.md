@@ -13,10 +13,6 @@ type: concept
 
 Once fully colonized, substrates are exposed to fruiting triggers: fresh air exchange (high CO2 to ambient O2), indirect light (12 hours on/off), high humidity (85-95%), and a temperature drop of 5-10 degrees C. Primordia (pin formation) typically appears within 3-7 days. Proper [[mushroom-cultivation-overview]] for the complete lifecycle context.
 
-## See Also
-
-- [[fruiting-environment-parameters]]
-
 ## Practical Considerations
 
 When working with Mushroom Cultivation Phases, several practical factors should be
@@ -116,8 +112,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fruiting-environment-parameters]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

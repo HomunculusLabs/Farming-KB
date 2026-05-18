@@ -14,9 +14,6 @@ type: concept
 - Changing thought patterns and beliefs can alter gene expression
   through epigenetic mechanisms
 
-## See Also
-- [[blesching-cannabis-emotional-intelligence-healing-framework]]
-
 ## Practical Considerations
 
 When working with Blesching Cannabis Epigenetics And Emotional Trauma, several practical factors should be
@@ -114,8 +111,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[blesching-cannabis-emotional-intelligence-healing-framework]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
 - [[blesching-cannabis-dental-and-oral-health]]

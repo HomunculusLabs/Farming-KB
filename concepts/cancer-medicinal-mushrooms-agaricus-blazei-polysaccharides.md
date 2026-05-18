@@ -62,11 +62,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[doc]]
-- [[cancer-medicinal-mushrooms-mixed-extracts-synergism]]
-- [[medicinal-mushroom-guide-agaricus-blazei]]
-
 ## Overview
 
 Cancer Medicinal Mushrooms Agaricus Blazei Polysaccharides represents an important element within sustainable
@@ -144,7 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[cancer-medicinal-mushrooms-mixed-extracts-synergism]]
+- [[medicinal-mushroom-guide-agaricus-blazei]]
 - [[blesching-cannabis-pancreatic-cancer]]
 - [[cancer-medicinal-mushrooms-extraction-bioavailability]]

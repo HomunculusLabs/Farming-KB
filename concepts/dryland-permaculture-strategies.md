@@ -117,13 +117,10 @@ The power of dryland permaculture lies not in any single technique but in their 
 
 Together, these strategies form coherent systems that increase in resilience and productivity over time, turning the fundamental challenges of dryland environments — scarcity of water, fertility, and shelter — into the organizing principles of sustainable design. The periodic table reminds us that no element is wasted in a well-designed system; every material flow can be captured and redirected toward productive ends.
 
-## See Also
 
+## See Also
 - [[dryland-building-and-settlement]]
 - [[dryland-buildings-and-settlements]]
 - [[dryland-settlements-and-salting-control]]
-
-## See also
-
 - [[soil-erosion-control]]
 - [[water-catchment-urban-permaculture]]

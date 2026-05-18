@@ -38,15 +38,6 @@ Swales can be scaled to any property:
 
 Even on flat urban lots, the principles apply: slow, spread, and sink water rather than letting it run off. Every drop of water captured on-site is a drop that does not need to be imported.
 
-## See Also
-
-- [[rainwater-harvesting-systems]]
-- [Chop and [[urban-permaculture-food-forest-succession]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -140,8 +131,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[rainwater-harvesting-systems]]
+- [Chop and [[urban-permaculture-food-forest-succession]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[mollison-designers-community-garden-design-urban-permaculture]]
 - [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]
 - [[urban-permaculture-edge-effect-microclimate]]

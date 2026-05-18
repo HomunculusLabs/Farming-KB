@@ -95,6 +95,22 @@ Modern testing laboratories profile terpene content using gas chromatography-mas
 - **Harvest timing**: Terpenes peak then degrade in late flowering. Optimal harvest timing preserves maximum content
 - **Curing and storage**: Slow curing (60–65% humidity, 60–68°F, 2–4 weeks) preserves terpenes. Light, heat, and oxygen cause rapid degradation
 
+## Scaling Considerations
+
+Factors for scaling operations effectively. For terpene profiles sativa strains, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Monitoring Protocols
+
+Systematic observation and data collection methods. For terpene profiles sativa strains, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Resource Requirements
+
+Materials and resources needed for implementation. For terpene profiles sativa strains, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Adaptive Management
+
+Flexible approaches that respond to changing conditions. For terpene profiles sativa strains, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
 ## See Also
 
 - [[cannabis-landrace-preservation]] — Terpene diversity in original landraces

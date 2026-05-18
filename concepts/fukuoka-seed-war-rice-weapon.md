@@ -32,10 +32,6 @@ The specific case of rice illustrates the dynamic:
 - Observing natural ecosystems provides the blueprint for sustainable food production
 - Fukuoka challenged the fundamental assumptions of modern agricultural science
 
-## See Also
-
-- [[fukuoka-food-as-strategic-weapon]], [[fukuoka-rice-barley-no-till-method]], [[fukuoka-direct-observation-method]].
-
 ## Philosophical Context
 
 Fukuoka's work emerged from a deep disillusionment with the trajectory of modern
@@ -131,8 +127,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-food-as-strategic-weapon]], [[fukuoka-rice-barley-no-till-method]], [[fukuoka-direct-observation-method]].
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

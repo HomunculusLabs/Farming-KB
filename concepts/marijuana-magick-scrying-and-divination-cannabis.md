@@ -35,11 +35,6 @@ The ritual requires:
 
 The three-mirror arrangement creates a classic scrying chamber where reflections multiply infinitely in the darkness. Combined with the fog machine filling the room with mist and the vaporizer adding cannabis vapor to the air, the physical environment becomes saturated with obscured light and atmospheric haze -- conditions that traditional scrying practitioners have long sought for inducing visionary states.
 
-## See Also
-- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
-- [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]
-- [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]]
-
 ## Overview
 
 Marijuana Magick Scrying And Divination Cannabis represents an important element within sustainable
@@ -117,8 +112,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
+- [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]
+- [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]]
 - [[cervantes-medical-marijuana-pharmacology]]
 - [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]
 - [[marijuana-horticulture-cervantes-nutrient-deficiencies-and-disorders]]

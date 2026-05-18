@@ -49,9 +49,6 @@ This allows surface moisture to evaporate, which conserves mushrooms longer.
 
 Each subsequent flush typically produces fewer mushrooms than the previous one. After 4 to 5
 flushes, bags are generally spent and should be removed from production. [[falconer-mushroom-preserving-and-drying]] techniques, which add value and extend shelf life significantly.
-## See Also
-- [[oyster-mushroom]]
-
 ## Overview
 
 Mushroom Training Harvesting Packaging represents an important element within sustainable
@@ -129,8 +126,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[oyster-mushroom]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

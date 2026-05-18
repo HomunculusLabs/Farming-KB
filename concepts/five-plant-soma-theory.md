@@ -35,13 +35,6 @@ The central insight of this theory is that individually, each proposed Soma cand
 - [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 - [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]
 
-## See Also
-
-- [[ayahuasca-pharmacology]]
-- soma mystery — The historical search for the Vedic sacrament
-- pineal gland and dmt — Endogenous psychedelic chemistry
-- entheogenic sacraments in religious art — Hidden plant symbolism in Christian iconography
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -62,11 +55,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[ayahuasca]]
-- [[harmine]]
-- [[set-and-setting]]
 
 ## Overview
 
@@ -145,6 +133,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ayahuasca-pharmacology]]
+- soma mystery — The historical search for the Vedic sacrament
+- pineal gland and dmt — Endogenous psychedelic chemistry
+- entheogenic sacraments in religious art — Hidden plant symbolism in Christian iconography
+- [[ayahuasca]]
+- [[harmine]]
+- [[set-and-setting]]
 - [[endocannabinoid-five-ligands-blesching]]

@@ -46,11 +46,6 @@ how record keeping ties into business management.
 Inoculation is Step 7 in the full cultivation cycle described in the FAO manual. It follows
 [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 management, and harvesting.
-## See Also
-- [[substrate-preparation]]
-- [[mushroom-inoculation-techniques]]
-- [[mushroom-inoculation-techniques-stamets]]
-
 ## Overview
 
 Mushroom Training Inoculation Techniques represents an important element within sustainable
@@ -128,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[substrate-preparation]]
+- [[mushroom-inoculation-techniques]]
+- [[mushroom-inoculation-techniques-stamets]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

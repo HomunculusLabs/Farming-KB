@@ -57,14 +57,6 @@ A recommended layout: the garden forms a U-shape opening toward the south (in no
 
 In the establishment phase, when working to restore abused land and heal broken cycles, some flexibility with purist principles is warranted. Using nonrenewable resources to create an eventually self-sustaining landscape is justified if the long-term result conserves or provides more resources than it took to build. A one-time use of herbicide to prepare land for tree planting (David Holmgren's view) may be less destructive than repeated machine clearing. The guiding rule: doing an imperfect something is better than doing a perfect nothing.
 
-## See Also
-
-- [[habitat-nooks-for-garden-wildlife]]
-- [[plant-propagation]]
-- [[food-forest]]
-- [[dom]]
-- [[swale]]
-
 ## Overview
 
 Forest Garden Design Principles represents an important element within sustainable
@@ -142,8 +134,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[habitat-nooks-for-garden-wildlife]]
+- [[plant-propagation]]
+- [[food-forest]]
+- [[dom]]
+- [[swale]]
 - [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
 - [[growing-gourmet-parasitic-mushrooms-forest-blights]]
 - [[mollison-designers-temperate-zone-food-forest-design]]

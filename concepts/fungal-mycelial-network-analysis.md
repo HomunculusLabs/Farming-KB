@@ -118,16 +118,13 @@ Understanding mycelial network architecture has direct relevance to farming and 
 - **Composting optimization**: Knowledge of network development phases can inform composting management — maintaining conditions that favor the proliferation and reinforcement phases maximizes decomposition rates.
 - **Tillage impact assessment**: Network resilience testing provides a quantitative basis for evaluating how different tillage practices affect soil fungal communities and the ecosystem services they provide.
 
-## See Also
 
+## See Also
 - Mycorrhizal Networks
 - [[soil-fungal-ecology]]
 - Wood Decomposition
 - Graph Theory in Biology
 - Saprotrophic Fungal Foraging
-
-## See Also
-
 - [[mycelial-network-structure]]
 - [[fungal-biology-fundamentals]]
 - [[fungal-mycelial-networks-nutrient-translocation]]

@@ -52,8 +52,6 @@ precipitated inorganic salts, and other insoluble materials) [[turner-brief-hist
 - Poole, C.F., and Poole, S.K. (1991). Chromatography Today. Elsevier Science Publishers.
 - Gennaro, M.C., et al. (1990). Selectivity in aminopropyl-bonded silica: a review. Journal of Chromatography A, 506, 417-434.
 
-## See Also
-- [[cervantes-silicon-silica-beneficial-mineral]]
 ## Practical Considerations
 
 Successful implementation of Aminopropyl Silica Gel Chromatography Indole Alkaloid Purification requires attention to
@@ -101,7 +99,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cervantes-silicon-silica-beneficial-mineral]]
 - [[psilocybin]]
 - [[det]]
 - [[neem]]

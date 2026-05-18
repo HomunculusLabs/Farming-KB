@@ -28,9 +28,6 @@ sources:
 - The temperature drop from spawn run to primordia is critical
 - Maitake is one of the species recommended for Stage 3 of species sequencing (with 10% supplement added to [[stamets-reishi-ganoderma-lucidum-cultivation]] and [[oyster-mushroom-species-fruiting-parameters]]
 
-## See Also
-
-- [[maitake-grifola-frondosa-cultivation]]
 ## Practical Considerations
 
 Successful implementation of Maitake Cultivation from Stamets requires attention to
@@ -127,8 +124,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[maitake-grifola-frondosa-cultivation]]
 - [[stamets-cultivator-liquid-culture-propagation-methods]]
 - [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]

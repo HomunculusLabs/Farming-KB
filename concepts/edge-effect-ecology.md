@@ -24,14 +24,6 @@ When applying these concepts, several factors warrant attention: environmental c
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures are essential for meaningful progress.
 
-## See Also
-
-- [[query-what-is-the-edge-effect-in-permaculture]]
-- [[ozier-pdc-biomes-ecotones-edge-effect]]
-- [[dom]]
-- [[dmt]]
-- [[lsd]]
-
 ## Overview
 
 Edge Effect Ecology represents an important element within sustainable
@@ -109,10 +101,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[query-what-is-the-edge-effect-in-permaculture]]
+- [[ozier-pdc-biomes-ecotones-edge-effect]]
+- [[dom]]
+- [[dmt]]
+- [[lsd]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
 - [[holmgren-aboriginal-management-edge-landscapes]]
 - [[mollison-designers-aquatic-edge-planted-wetland-design]]
-- [[ozier-pdc-biomes-ecotones-edge-effect]]
 - [[urban-permaculture-edge-effect-microclimate]]

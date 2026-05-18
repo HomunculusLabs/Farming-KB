@@ -23,14 +23,6 @@ The [[mollison-designers-cover-crops-and-green-manure-species]] used across perm
 
 ---
 
-## See Also
-
-- [[soil-building-permaculture]]
-
-- [[permaculture-water-systems]]
-
-- broadscale-permaculture-techniques-mollison
-
 ## Practical Considerations
 
 Successful implementation of Mollison No-Tillage Grain Cropping and Fukuoka Method requires attention to
@@ -127,8 +119,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-building-permaculture]]
+- [[permaculture-water-systems]]
+- broadscale-permaculture-techniques-mollison
 - [[humid-cool-climate-characteristics-mollison]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-climate-zone-3-farm-forestry]]

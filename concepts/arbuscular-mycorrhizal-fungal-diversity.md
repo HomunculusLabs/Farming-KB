@@ -39,12 +39,6 @@ The mycorrhizosphere — soil volume influenced by AM hyphae — dramatically af
 AM fungi are found in soil worldwide and have also been detected in aerial epiphytes and vegetative plant debris. The International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi (INVAM) contains almost 1,100 accessions of more than 86 species. Many areas remain unsampled, and characterization of [[mycorrhizal-networks]] — comprehensive treatment of mycorrhizal ecology
 - [[mycorrhizal-fungi-hydrocarbon-remediation]]
 
-## See Also
-
-- [[mycorrhizal-fungal-diversity]]
-- [[fungal-hyphae]]
-- [[dom]]
-
 ## Overview
 
 Arbuscular Mycorrhizal Fungal Diversity represents an important element within sustainable
@@ -122,8 +116,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhizal-fungal-diversity]]
+- [[fungal-hyphae]]
+- [[dom]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 - [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 - [[arbuscular-mycorrhizal-networks]]

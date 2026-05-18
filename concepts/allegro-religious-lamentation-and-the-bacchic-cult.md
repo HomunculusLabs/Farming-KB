@@ -40,14 +40,6 @@ The pattern of ecstatic worship followed by contemplative silence can be observe
 
 This topic connects to broader themes explored throughout the wiki.
 
-## See Also
-
-- [[allegro-biblical-references-to-mushrooms-and-fungi]]
-- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
-- [[amanita-pantherina]]
-- [[soma]]
-- [[amanita]]
-
 ## Overview
 
 Allegro Religious Lamentation And The Bacchic Cult represents an important element within sustainable
@@ -125,8 +117,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[allegro-biblical-references-to-mushrooms-and-fungi]]
+- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
+- [[amanita-pantherina]]
+- [[soma]]
+- [[amanita]]
 - [[allegro-bible-morals-ten-commandments-mushroom-word-play]]
 - [[allegro-fungal-iconography-in-ancient-art]]
 - [[allegro-religion-prehistory-oral-tradition-etymology]]

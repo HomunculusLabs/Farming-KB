@@ -25,11 +25,6 @@ core nutrients in forms available to plant roots.
 only one other soil component, clay, can hold onto and exchange
 nutrients with plant roots, but humus can hold a far greater amount.
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
-creative adaptation to local conditions and emerging challenges.
-
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
@@ -77,7 +72,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+creative adaptation to local conditions and emerging challenges.
 - [[det]]
 - [[decomposition]]
 - [[mycorrhiza]]

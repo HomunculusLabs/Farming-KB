@@ -53,21 +53,6 @@ approach.
 
 To harvest, the consolidated substrate block is removed intact and carefully broken
 apart by hand. Sclerotia are separated from the remaining grass seed and mycelium,
-## See Also
-
-- [[sclerotia-timeline-and-harvest-optimization-psilocybe]]
-
-- [[grass-seed-cultivation-of-psilocybe-mushrooms]]-substrate-preparation
-- sterilization pressure cooker techniques
-- casing layer techniques trays
-- magic truffles [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]] Psilocybe Tampanensis Mexicana Grass Seed Jar requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
 ## Future Directions
 
 ## Overview
@@ -147,4 +132,16 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[sclerotia-timeline-and-harvest-optimization-psilocybe]]
+- [[grass-seed-cultivation-of-psilocybe-mushrooms]]-substrate-preparation
+- sterilization pressure cooker techniques
+- casing layer techniques trays
+- magic truffles [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]] Psilocybe Tampanensis Mexicana Grass Seed Jar requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.

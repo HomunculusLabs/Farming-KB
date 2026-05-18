@@ -35,12 +35,6 @@ species. However, most fully mycoheterotrophic orchids have switched to
 associate with [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
 
-## See Also
-
-- [[fungal-endophytes]]
-- [[ectomycorrhiza]]
-- [[mycorrhiza]]
-
 ## Overview
 
 Fungi In The Environment Fungal Endophytes Plant Communities represents an important element within sustainable
@@ -118,8 +112,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-endophytes]]
+- [[ectomycorrhiza]]
+- [[mycorrhiza]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution]]
 - [[bloomfield-rock-penetrating-fungi-granite-weathering-soil-formation]]

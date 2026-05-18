@@ -62,11 +62,6 @@ Humans need:
 
 Health is not coincidence -- it is the result of effort. "How you eat, drink, exercise, move your body, and operate your mind all matter."
 
-## See Also
-
-- [[jadam-sese-philosophy]] -- the SESE framework
-- [[fukuoka-natural-rice-farming-steps]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -95,7 +90,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[jadam-sese-philosophy]] -- the SESE framework
+- [[fukuoka-natural-rice-farming-steps]]
 - [[det]]
 - [[jadam-concentration-guidelines]]
 - [[jadam-pesticide-mixing-guidelines]]

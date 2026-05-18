@@ -46,13 +46,6 @@ This subject has relevance across multiple disciplines and applications. Underst
 
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
-## See Also
-- [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]]
-- [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
-- [[mushrooms-and-mankind]]
-- [[dmt]]
-- [[freemasonry]]
-
 ## Key Considerations
 
 Several important factors influence the effectiveness and outcomes described
@@ -74,13 +67,19 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[harmine]]
-- [[dom]]
-- [[soma]]
-
 ## Research Directions
 Current research explores several promising avenues for advancement in this area.
 Emerging methodologies provide new tools for investigation and analysis.
 Interdisciplinary collaboration continues to yield valuable insights.
 Long-term studies are helping to establish evidence-based best practices.
+
+
+## See Also
+- [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]]
+- [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
+- [[mushrooms-and-mankind]]
+- [[dmt]]
+- [[freemasonry]]
+- [[harmine]]
+- [[dom]]
+- [[soma]]

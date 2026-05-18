@@ -46,10 +46,6 @@ For McKenna, the cave paintings are evidence of a consciousness that was deeply 
 
 The path back to the partnership society does not lie in a return to hunting and gathering -- that is neither possible nor desirable for the billions of people who now inhabit the earth. It lies, rather, in a recovery of the values of the partnership society: gender equality, [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] -- not a retreat into the past but a creative synthesis of ancient wisdom and modern knowledge, informed by the [[partnership-and-dominator-cultures-in-human-history]] par excellence: hierarchical, militaristic, and profoundly alienated from the natural world. Their legacy -- the city, the state, the standing army, the written law -- is the foundation of the dominator civilization that now dominates the entire planet.
 
-## See Also
-
-- [[mckenna-epilogue-from-grasslands-to-the-starship]]
-
 ## Overview
 
 Mckenna Agriculture And The Fall From Paradise represents an important element within sustainable
@@ -127,8 +123,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-epilogue-from-grasslands-to-the-starship]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

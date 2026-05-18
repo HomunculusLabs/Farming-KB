@@ -85,13 +85,10 @@ Soil samples revealing 40% or more clay content indicate sites suited to earth-d
 - Seidl, Kathe, et al., *Contributions to the Revitalization of Waters*, Max Planck Institute, Krefeld-Hulserberg, West Germany, 1976.
 - Yeomans, P. A., *Water for Every Farm*, Second Back Row Press, Leura, NSW, Australia, 1981.
 
-## See Also
 
+## See Also
 - [[natural-farm-water-conservation-irrigation]]
 - [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
-
-## See Also
-
 - [[knf-livestock-chicken-house-natural-farming]]
 - [[four-principles-of-natural-farming]]
 - [[fukuoka-natural-diet-movement-america-europe]]

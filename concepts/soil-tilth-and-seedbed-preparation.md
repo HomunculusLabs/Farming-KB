@@ -58,9 +58,6 @@ The speed at which the embryo grows and develops is determined by temperature. I
 
 ### Seedbed Structure
 
-## See Also
-- [[solomon-fine-seedbed-soil-tilth-clod-management-raking]]
-
 ## Overview
 
 Soil Tilth And Seedbed Preparation represents an important element within sustainable
@@ -138,8 +135,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[solomon-fine-seedbed-soil-tilth-clod-management-raking]]
 - [[cool-temperate-soil-characteristics]]
 - [[jeavons-soil-ph-testing-balancing]]
 - [[lowenfels-tilling-no-till-soil-health]]

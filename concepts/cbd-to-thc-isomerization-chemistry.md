@@ -37,12 +37,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[thc-isomerization]]
-- [[tetrahydrocannabinol]]
-- [[dmt]]
-
 ## Overview
 
 Cbd To Thc Isomerization Chemistry represents an important element within sustainable
@@ -120,10 +114,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[thc-isomerization]]
+- [[tetrahydrocannabinol]]
+- [[dmt]]
 - [[cannabinoid-isomerization-and-thc-acetate]]
 - [[isomerization-cannabinoid]]
 - [[lemon-cannabis-alchemy-isomerization]]
-- [[thc-isomerization]]
 - [[thc-isomerization-and-acetate-synthesis]]

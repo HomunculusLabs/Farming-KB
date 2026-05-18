@@ -33,11 +33,6 @@ Bound residues raise important ecological considerations:
 - **Soil quality** — The incorporation process may alter soil organic matter structure and function
 - **Regulatory implications** — Current regulations often do not account for bound residue formation when setting cleanup standards
 
-## See Also
-
-- [[white-rot-fungi-bioremediation]] for ligninolytic enzyme-producing fungi
-- [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
-
 ## Practical Considerations
 
 Successful implementation of Fungal Bound Residue Formation in Soil Bioremediation requires attention to
@@ -85,7 +80,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[white-rot-fungi-bioremediation]] for ligninolytic enzyme-producing fungi
+- [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
 - [[laccase]]
 - [[soxhlet-extraction]]
 - [[brassinosteroid]]

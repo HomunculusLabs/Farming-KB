@@ -21,12 +21,6 @@ Gartz's laboratory was investigating methods to improve the efficiency of [[bras
 - [[psilocybin-fruiting-chambers]]
 - [[brassinosteroids-in-fungal-cultures]]
 - [[brassinosteroids]]
-## See Also
-
-- [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
-- [[brassinosteroids-in-fungal-cultures]]
-- [[brassinosteroids]]
-
 ## Overview
 
 Brassinosteroids Psilocybin Fruiting represents an important element within sustainable
@@ -104,10 +98,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
+- [[brassinosteroids-in-fungal-cultures]]
 - [[brassinosteroids]]
 - [[brassinosteroids-in-fungal-cultivation]]
-- [[brassinosteroids-in-fungal-cultures]]
 - [[brassinosteroids-phytohormones-fungal-growth-promotion]]
 - [[psilocybin-mushrooms-species-and-pharmacology]]

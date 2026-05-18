@@ -84,11 +84,9 @@ life as screws, propellers, impellers, turbines, and some gears. Some
 species of sharks and invertebrates develop spiral gut lining to
 increase absorption, or spiral cilia to convey mucus and food or
 
+
 ## See Also
 - [[mollison-designers-herb-spiral-design-construction]]
-
-## See Also
-
 - [[mollison-designers-termite-and-ant-mound-niche-gardening]]
 - [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
 - [[humus-soil-amendment-mollison]]

@@ -39,15 +39,6 @@ The Grail is one of Amanita muscaria's "greatest Gifts to mankind, a magical nev
 
 Teeter concludes that "Amanita Muscaria is NATURAL MAGIC" -- the only logical explanation for the ancient legends of magic vessels across Eurasia. The Grail "matches the Grail of ancient legends perfectly," from its never-ending supply of wisdom and inspiration to the spicy smell described in Grail legend.
 
-## See Also
-
-- amanita-muscaria-herb-of-immortality-soma-hypothesis
-- amanita-muscaria-living-vessel-grail
-
----
-
-Source: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] (Teeter), Chapters 1, 4, 6-7, 11, 14; pp 5, 13, 17-20, 37, 49-54, 56-58
-
 ## Practical Considerations
 
 When working with Maga: The Great Gift and Root of Magic, several practical factors should be
@@ -145,6 +136,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- amanita-muscaria-herb-of-immortality-soma-hypothesis
+- amanita-muscaria-living-vessel-grail
+---
+Source: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] (Teeter), Chapters 1, 4, 6-7, 11, 14; pp 5, 13, 17-20, 37, 49-54, 56-58
 - [[amanita]]

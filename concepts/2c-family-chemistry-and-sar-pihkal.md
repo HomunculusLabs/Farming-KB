@@ -30,12 +30,6 @@ The "2C" prefix was Shulgin's encoding system for this class. The letter followi
 - [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
 - [[pihkal-mda-family]]
 - [[pihkal-doa-family]]
-## See Also
-
-- [[pihkal-2c-b-family]]
-- [[pihkal-mda-family]]
-- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
-
 ## Overview
 
 2C Family Chemistry And Sar Pihkal represents an important element within sustainable
@@ -113,10 +107,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pihkal-2c-b-family]]
+- [[pihkal-mda-family]]
+- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
 - [[2c-family-compounds-overview]]
 - [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]
 - [[five-endogenous-cannabinoids-lipid-signaling-family-blesching-2015]]
 - [[hamilton-bulb-vegetables-onion-family-organic]]
-- [[pihkal-mda-family]]

@@ -53,13 +53,6 @@ Both species serve similar design functions:
 - Feijoa is not reliably self-fertile — plant 2–3 for cross-pollination
 - The iodine content in feijoa fruit is notable and may be nutritionally significant
 
-## See Also
-
-- [[permaculture-fruit-tree-guide]] — Comprehensive fruit species guide
-- [[feijoa]]
-- [[edible-landscaping]]
-- [[permaculture]]
-
 ## Overview
 
 Feijoa And Ugni Cool Climate Myrtaceous Fruits represents an important element within sustainable
@@ -137,10 +130,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[cool-climate-house-and-settlement-design]]
+## See Also
+- [[permaculture-fruit-tree-guide]] — Comprehensive fruit species guide
 - [[feijoa]]
+- [[edible-landscaping]]
+- [[permaculture]]
+- [[cool-climate-house-and-settlement-design]]
 - [[feijoa-sellowiana]]
 - [[humid-cool-climate-characteristics-mollison]]
 - [[pf-tek-desiccant-types-sourcing-cool-drying-technique]]

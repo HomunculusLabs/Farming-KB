@@ -45,11 +45,6 @@ Through them, we have had placed into our hands a tool for the redemption of the
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[mckenna-food-gods-lewis-lewin-birth-psychopharmacology-peyote-mescaline]]
-- [[mckenna-food-gods-tryptamine-dimension]]
-- [[mckenna-food-gods-ergot-kykeon-eleusinian]]
-
 ## Overview
 
 Mckenna Food Gods Dmt Experience Hyperspace represents an important element within sustainable
@@ -127,8 +122,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-gods-lewis-lewin-birth-psychopharmacology-peyote-mescaline]]
+- [[mckenna-food-gods-tryptamine-dimension]]
+- [[mckenna-food-gods-ergot-kykeon-eleusinian]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

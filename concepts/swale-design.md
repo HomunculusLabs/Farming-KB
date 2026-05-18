@@ -62,10 +62,6 @@ Established swales require minimal maintenance. The primary maintenance tasks in
 
 Sediment accumulation in swale bottoms gradually reduces infiltration capacity. Periodic cleaning, every 5-10 years depending on erosion rates upstream, may be necessary to maintain performance. Accumulated sediment can be spread on the berm as topsoil.
 
-## See Also
-
-[[keyline-design]]
-
 ## Overview
 
 Swale Design represents an important element within sustainable
@@ -143,8 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[keyline-design]]
 - [[comparison-dam-construction-vs-swale-design]]
 - [[comparison-keyline-vs-swale-design]]
 - [[comparison-rain-garden-vs-swale]]

@@ -101,13 +101,10 @@ Defined in this way, yield has no known limits. Designers cannot know all ways t
 
 Just as yield can be increased, it can be decreased. The perverse aims of some politicians, developers, and even religious dogmatists limit yield by disallowing certain products. Just as neighbours may refuse the snail and eat the lettuce, refuse the blackbird and eat the strawberry, people may only "allow" certain types of toilets or certain plants in gardens. Thus people are the main impediment to using their potential yields.
 
-## See Also
 
+## See Also
 - [[permaculture-principle-obtain-a-yield]]
 - [[permaculture-energy-cycling-and-resource-efficiency]]
-
-## See Also
-
 - [[cannabis-yield-optimization]]
 - [[farm-yield-strategies]]
 - [[solomon-potassium-yield-versus-nutrition-tradeoff]]

@@ -40,10 +40,6 @@ The seed mixture is coated first with a layer of soil, then with a
 layer of clay, forming microbe-containing clay pellets.
 For field use in rice and [[fukuoka-clover-cover-cropping-soil-ecology]]
 
-## See Also
-
-- [[masanobu-fukuoka]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -71,11 +67,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[permaculture]]
-- [[no-tillage-rice-barley-succession]]
 
 ## Overview
 
@@ -148,3 +139,10 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
+
+
+## See Also
+- [[masanobu-fukuoka]]
+- [[det]]
+- [[permaculture]]
+- [[no-tillage-rice-barley-succession]]

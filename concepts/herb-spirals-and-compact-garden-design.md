@@ -59,13 +59,6 @@ Each pattern element serves multiple functions simultaneously: the herb spiral p
 
 ## Significance [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] landscape installations that work with natural forces rather than against them.
 
-## See Also
-
-- Pattern Applications in Permaculture Design
-- Water Conservation in Garden Design
-- Arts in the Service of Life
-- Implicate Order and Pattern Unity
-
 ## Overview
 
 Herb Spirals And Compact Garden Design represents an important element within sustainable
@@ -143,8 +136,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- Pattern Applications in Permaculture Design
+- Water Conservation in Garden Design
+- Arts in the Service of Life
+- Implicate Order and Pattern Unity
 - [[comparison-banana-circle-vs-herb-spiral]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
 - [[herb-spiral]]

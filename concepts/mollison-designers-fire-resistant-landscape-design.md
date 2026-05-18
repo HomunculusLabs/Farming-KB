@@ -57,9 +57,6 @@ through:
 - Ignition of wooden decks, furniture, and fences
 Mollison recommends:
 - Metal or fine wire mesh screens (1.5 to 2mm aperture) over all vents,
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
-
 ## Overview
 
 Mollison Designers Fire Resistant Landscape Design represents an important element within sustainable
@@ -137,8 +134,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-conifer-forestry-and-timber]]
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]

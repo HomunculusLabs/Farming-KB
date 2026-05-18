@@ -60,9 +60,6 @@ A swamp tree of the Florida Everglades that has been found to be quite frost har
 
 Hedge plants serve as windbreaks, privacy screens, and [[query-how-do-i-create-microclimates-in-my-garden]]**: Sheltered pockets behind windbreaks support a wider range of species.
 4. **Use pioneers**: Salt-tolerant nitrogen fixers (Russian olive, Casuarina) [[mollison-plant-nursery-species-selection]] and layered planting, can transform harsh seaside environments into productive, beautiful, and ecologically functional permaculture landscapes.
-## See Also
-- [[coastal-permaculture-plants]]
-
 ## Overview
 
 Coastal Plant Communities Permaculture represents an important element within sustainable
@@ -140,8 +137,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[coastal-permaculture-plants]]
 - [[coastal-gardening]]
 - [[coastal-ground-covers-hedges-permaculture]]
 - [[coastal-windbreak-systems-and-plant-wind-tolerance]]

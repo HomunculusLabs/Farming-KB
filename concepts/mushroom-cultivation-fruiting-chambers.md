@@ -47,12 +47,6 @@ Ducting runs the length of the room at ceiling level. Outlet holes in the duct s
 
 Essential: maximum-minimum thermometers, hygrometer or sling psychrometer. Advanced: CO2 detectors, moisture meters, anemometers, light measuring devices. Hygrometers should be periodically calibrated with a sling psychrometer.
 
-## See Also
-
-- [[mushroom-cultivation-grain-spawn]]
-- [[mushroom-cultivation-bulk-substrates]]
-- [[mushroom-cultivation-sterile-technique]]
-
 ## Overview
 
 Mushroom Cultivation Fruiting Chambers represents an important element within sustainable
@@ -130,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-cultivation-grain-spawn]]
+- [[mushroom-cultivation-bulk-substrates]]
+- [[mushroom-cultivation-sterile-technique]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

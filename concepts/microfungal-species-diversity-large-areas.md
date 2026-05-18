@@ -47,11 +47,6 @@ The taxonomic diversity and structural variety of plant taxa exert the greatest 
 
 Bills and Polishook (1994) detected 78-134 species per collection from Costa Rican litter, with rarefaction curves showing no sign of leveling off. Reanalysis found only 15-28% overlap of named species between samples, underscoring the enormity of under-sampling.
 
-## See Also
-
-- [[fungal-species-richness-and-diversity-indices]]
-- [[fungal-species-concept-and-taxonomy]]
-
 ## Merged: Coprophilous Fungi Succession Defense Mechanisms
 
 # Coprophilous Fungi Succession Defense Mechanisms
@@ -135,8 +130,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-species-richness-and-diversity-indices]]
+- [[fungal-species-concept-and-taxonomy]]
 - [[biodiversity-microfungal-inventory]]
 - [[leaf-litter-microfungal-diversity-tropical-temperate]]
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]

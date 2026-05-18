@@ -65,11 +65,6 @@ Growers can transition to no-till gradually by:
 - **Growth rate**: hydroponic-cannabis|Hydroponic methods produce faster growth; no-till emphasizes quality and sustainability.
 - **Complexity**: No-till requires understanding of soil biology; hydroponics requires precise chemistry management.
 
-## See Also
-
-- [[compost-tea-guide]]
-- [[ozier-pdc-composting-and-soil-building]]
-
 ## Overview
 
 No Till Cannabis represents an important element within sustainable
@@ -147,4 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[compost-tea-guide]]
+- [[ozier-pdc-composting-and-soil-building]]

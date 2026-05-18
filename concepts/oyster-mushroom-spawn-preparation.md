@@ -48,11 +48,6 @@ to contamination during substrate inoculation.
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[mushroom-spawn-preparation]]
-- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
-- [[duggar-mushroom-spawn-preparation-techniques]]
-
 ## Overview
 
 Oyster Mushroom Spawn Preparation represents an important element within sustainable
@@ -130,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-spawn-preparation]]
+- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
+- [[duggar-mushroom-spawn-preparation-techniques]]
 - [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
 - [[oyster-mushroom-bagging-methods-worldwide-comparison]]
 - [[oyster-mushroom-marketing-economics]]

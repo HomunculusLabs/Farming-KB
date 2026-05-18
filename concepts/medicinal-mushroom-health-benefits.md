@@ -47,12 +47,6 @@ An extremely rare old-growth forest polypore documented in the historical medica
 - **Decoction (tea)**: Traditional method; simmer sliced or powdered mushroom in water
 - **Tinctures**: Alcohol-based liquid extracts
 
-## See Also
-
-- [[gourmet-mushroom-species-guide]]
-- [[mushroom-foraging-safety]]
-- [[paul-stamets]]
-
 ## Overview
 
 Medicinal Mushroom Health Benefits represents an important element within sustainable
@@ -130,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gourmet-mushroom-species-guide]]
+- [[mushroom-foraging-safety]]
+- [[paul-stamets]]
 - [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
 - [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
 - [[holzer-medicinal-and-culinary-herbs-compendium]]

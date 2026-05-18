@@ -56,11 +56,6 @@ Humanity's addictions down through the ages, from sugar to cocaine and televisio
 paradise. The answer has been found. It is no longer
 something to be sought. It has been found. This is the central, provocative claim with which McKenna closes his exploration of the tryptamine dimension and its implications for human freedom.
 
-## See Also
-
-- [[mckenna-hyperspace-and-human-freedom]]
-- [[psychedelic-research-legal-history-united-states]]
-
 ## Overview
 
 Mckenna Hyperspace Law And The Remarkable Overmind represents an important element within sustainable
@@ -138,8 +133,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-hyperspace-and-human-freedom]]
+- [[psychedelic-research-legal-history-united-states]]
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

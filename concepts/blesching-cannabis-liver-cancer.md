@@ -60,13 +60,6 @@ pure alcohol into tumor sites.
 JWH-015. Each displayed the ability to inhibit liver cancer cell lines or
 induce apoptosis. THC binds with both CB1 and CB2. WIN55,212-2 binds with
 
-## See Also
-- [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabis-thyroid-cancer]]
-- [[cannabis-health-index]]
-- [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]
-- [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
-
 ## Overview
 
 Blesching Cannabis Liver Cancer represents an important element within sustainable
@@ -144,7 +137,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[blesching-cannabis-cancer-symptoms]]
+- [[blesching-cannabis-thyroid-cancer]]
+- [[cannabis-health-index]]
+- [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]
+- [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[blesching-molecules-emotions-expansive-constricting-neurotransmitters]]

@@ -61,11 +61,6 @@ micronutrients that support plant establishment and [[singh-phytoremediation-myc
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[singh-fungal-interactions-with-heavy-metals-in-soil]]
-- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
-- [[singh-fungal-biosorption-heavy-metals]]
-
 ## Overview
 
 Singh Composted Fungal Biomass Heavy Metal Immobilization represents an important element within sustainable
@@ -143,8 +138,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[singh-fungal-interactions-with-heavy-metals-in-soil]]
+- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
+- [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

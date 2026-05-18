@@ -87,11 +87,9 @@ good mothers), Satin (good meat yield, beautiful sheen).
 - **Chill:** Ice water 1+ hour, age in fridge 24-48 hours before freezing.
 - **Yield:** ~60% dressed weight (5 lb live = ~3 lb dressed).
 
+
 ## See Also
 - [[rabbit-husbandry]]
-
-## See Also
-
 - [[rabbit-husbandry-guide]]
 - [[rabbit-processing-guide]]
 - [[comparison-rabbit-vs-quail-husbandry]]

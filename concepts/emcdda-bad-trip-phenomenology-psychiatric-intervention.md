@@ -62,11 +62,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[doc]]
-- [[dom]]
-- [[psilocin]]
-
 ## Overview
 
 Emcdda Bad Trip Phenomenology Psychiatric Intervention represents an important element within sustainable
@@ -144,7 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[dom]]
+- [[psilocin]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]

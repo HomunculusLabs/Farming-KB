@@ -51,14 +51,6 @@ Brown sugar is preferred over refined white sugar because it contains trace mine
 The fermentation relies on naturally occurring microorganisms — particularly lactic acid bacteria — present on the plant surfaces. This is the same principle behind [[cannabis-vegetative-growth-stage]] (lush but weak), reduce FPJ application. If growth is sluggish, increase frequency slightly.
 - **Storage and quality**: Discard FPJ that develops an off-odor (putrid rather than sweet-sour), mold on the surface, or unusual coloration. Properly made FPJ has a pleasant sweet-sour smell and a dark amber to brown color. The liquid should be clear to slightly cloudy, never murky or opaque. Label each batch with the source plant species and harvest date for future reference.
 
-## See Also
-
-- [[bionutrients-lab-fermented-fruit-juice-ffj]] juice ffj — the reproductive-stage companion to FPJ
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -91,7 +83,13 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[bionutrients-lab-fermented-fruit-juice-ffj]] juice ffj — the reproductive-stage companion to FPJ
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[bionutrients]]
 - [[lactic-acid-bacteria]]
 - [[natural-farming]]

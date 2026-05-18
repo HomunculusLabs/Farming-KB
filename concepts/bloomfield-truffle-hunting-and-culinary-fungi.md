@@ -52,12 +52,6 @@ perfume "akin to the smell of very cheap cologne," which intensified during
 cooking until it matched "the pungency of a disinfectant used in a
 slaughterhouse." His guests were horrified.
 
-## See Also
-
-- [[det]]
-- [[spore]]
-- [[dmt]]
-
 ## Overview
 
 Bloomfield Truffle Hunting And Culinary Fungi represents an important element within sustainable
@@ -135,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[spore]]
+- [[dmt]]
 - [[bloomfield-amatoxin-poisoning-mechanism]]
 - [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
 - [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]

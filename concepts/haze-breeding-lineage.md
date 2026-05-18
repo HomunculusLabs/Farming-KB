@@ -49,11 +49,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[haze-genetics]]
-- [[colombian-gold]]
-- [[dom]]
-
 ## Overview
 
 Haze Breeding Lineage represents an important element within sustainable
@@ -131,10 +126,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[haze-genetics]]
+- [[colombian-gold]]
+- [[dom]]
 - [[amnesia-haze-genetics-cultivation-potency-oner]]
 - [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
 - [[dts-multi-line-sativa-hybrid-cheeze-mk-ultra-diesel-haze]]
-- [[haze-genetics]]
 - [[haze-lineage-and-genetic-history]]

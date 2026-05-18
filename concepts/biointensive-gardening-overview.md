@@ -49,11 +49,6 @@ climates from tropical to arid. The method's emphasis on seed saving and
 locally-produced fertility makes it accessible to farmers who cannot afford
 or access commercial agricultural inputs.
 
-## See Also
-
-- [[biointensive-carbon-farming]]
-- [[dom-compound-profile]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -82,7 +77,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[biointensive-carbon-farming]]
+- [[dom-compound-profile]]
 - [[dom]]
 - [[green-manure-crops]]
 - [[permaculture]]

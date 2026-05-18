@@ -99,13 +99,12 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[fruiting-conditions]]
 - [[psilocybe-azurescens]]
 - [[grain-spawn]]
 - [[psilocybe-subaeruginosa]]
 - [[spawn-preparation]]
-## See Also
-
 - [[cultivation-psilocybe-azurescens]] — Detailed *P. azurescens* cultivation
 - [[psilocybin-mushroom-species-identification-cultivation]] — Species data

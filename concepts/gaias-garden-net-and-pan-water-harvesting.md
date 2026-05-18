@@ -27,10 +27,6 @@ The net pattern is one of several natural patterns described in gaias garden [[f
 
 All of these patterns are "patterns of expansion, contraction, and even distribution" found throughout nature.
 
-## See Also
-
-- gaias garden [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] — edge effect in [[gaias-garden-cover-crops-soil-building]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -58,11 +54,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[permaculture]]
-- [[building-soil]]
 
 ## Overview
 
@@ -141,8 +132,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- gaias garden [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] — edge effect in [[gaias-garden-cover-crops-soil-building]]
+- [[dom]]
+- [[permaculture]]
+- [[building-soil]]
 - [[gaias-garden-hugelkultur]]
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
 - [[gaias-garden-methods]]

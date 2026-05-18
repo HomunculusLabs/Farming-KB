@@ -46,24 +46,12 @@ Proper grain preparation is essential regardless of grain type. Grains must be h
 
 Some species do not grow well on grain and are better suited to alternative spawn media. [[shiitake-mushroom-cultivation]] because shiitake mycelium naturally colonizes wood substrates more aggressively than grain. The sawdust spawn also provides a smoother transition when inoculating logs or supplemented sawdust blocks, reducing the competitive disadvantage the mycelium faces during the spawn run.
 
-## See Also
-
-- [[contamination-identification-prevention]]
-
 ## Practical Applications
 
 The principles discussed here have broad applications
 across diverse climate zones and growing conditions.
 Practitioners should adapt techniques to local context,
 soil types, and seasonal patterns for optimal results.
-
-## See Also
-
-- [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]
-- [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]
-- [[det]]
-- [[mycelium]]
-- [[psilocybe-cubensis]]
 
 ## Overview
 
@@ -142,8 +130,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[contamination-identification-prevention]]
+- [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]
+- [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]
+- [[det]]
+- [[mycelium]]
+- [[psilocybe-cubensis]]
 - [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
 - [[fukuoka-barley-winter-grain-method]]
 - [[grain-spawn-preparation]]

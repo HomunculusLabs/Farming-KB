@@ -57,11 +57,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[det]]
-- [[bri1]]
-- [[psilocybe-cubensis]]
-
 ## Overview
 
 Brassinosteroid represents an important element within sustainable
@@ -139,8 +134,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[bri1]]
+- [[psilocybe-cubensis]]
 - [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]
 - [[brassinosteroid-psilocybe-cubensis-growth]]
 - [[first-flush-acceleration-brassinosteroid-timing-reduction]]

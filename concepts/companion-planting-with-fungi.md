@@ -46,13 +46,6 @@ Current research explores the intersection of fungal biology with sustainable ag
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures are essential for meaningful progress.
 
-## See Also
-
-- [[teaming-with-microbes-fungi-the-underground-network]]
-- [[teaming-with-microbes-fungi]]
-- [[mycological-permaculture-integration]] -- fungi in [[mycorrhizal-plant-defense]] -- how fungal partners protect plants
-- mycorrhizal-mushrooms-forest-partnerships-stamets -- forest companion systems
-
 ## Practical Considerations
 
 Successful implementation of Companion Planting with Fungi requires attention to
@@ -86,7 +79,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[teaming-with-microbes-fungi-the-underground-network]]
+- [[teaming-with-microbes-fungi]]
+- [[mycological-permaculture-integration]] -- fungi in [[mycorrhizal-plant-defense]] -- how fungal partners protect plants
+- mycorrhizal-mushrooms-forest-partnerships-stamets -- forest companion systems
 - [[mycorrhizal-fungi]]
 - [[dom]]
 - [[substrate-preparation]]

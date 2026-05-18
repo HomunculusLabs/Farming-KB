@@ -60,13 +60,6 @@ The technique also opens possibilities for creating custom cannabinoid profiles.
 
 - **Starting material selection** — While any dried marijuana can be used, the best results come from well-cured, fully dried material. Leaf and trim produce a lighter-colored dust suitable for Moroccan-style hashish, while bud material yields a richer, darker product better suited to Nepalese-style preparations.
 
-## See Also
-
-- **[[cannabis-oil-extraction]]** — The prerequisite process for obtaining the purified cannabis oil used in both hashish making and flower potentiation.
-- **Cannabinoid isomerization** — Converting CBD to THC to increase the potency of extracted oil before it is used in hashish production.
-- **THC acetate (acetylation)** — The most potent oil preparation, producing psychoactive effects significantly beyond natural THC levels.
-- **Hashish traditions** — The cultural and historical contexts of Moroccan, Lebanese, Afghan, and Nepalese hashish styles that these techniques aim to replicate.
-
 ## Overview
 
 Hashish Preparation From Cannabis Oil represents an important element within sustainable
@@ -144,7 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- **[[cannabis-oil-extraction]]** — The prerequisite process for obtaining the purified cannabis oil used in both hashish making and flower potentiation.
+- **Cannabinoid isomerization** — Converting CBD to THC to increase the potency of extracted oil before it is used in hashish production.
+- **THC acetate (acetylation)** — The most potent oil preparation, producing psychoactive effects significantly beyond natural THC levels.
+- **Hashish traditions** — The cultural and historical contexts of Moroccan, Lebanese, Afghan, and Nepalese hashish styles that these techniques aim to replicate.
 - [[cannabis-hashish-from-extracted-oil-techniques]]
 - [[cannabis-hashish-making-methods]]

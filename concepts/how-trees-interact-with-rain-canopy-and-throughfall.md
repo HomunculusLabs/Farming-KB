@@ -102,12 +102,10 @@ The evidence presented leads to clear design principles:
 
 The fundamental insight is that on-site strategies make water either a scarce or plentiful resource. Given that there is always some free water in the air and earth around us, we can usually increase local precipitation through thoughtful design that works with, rather than against, the natural processes trees have refined over millions of years.
 
+
 ## See Also
 - [[mollison-rain-interception-and-throughfall-in-forests]]
 - [[tree-rain-interception-and-throughfall]]
-
-## See Also
-
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]
 - [[hamilton-ornamental-trees]]

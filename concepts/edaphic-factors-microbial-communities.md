@@ -33,11 +33,6 @@ organic carbon (organic amendments, biochar), optimize water retention
 sulfur amendments) will have cascading positive effects on the root-associated
 microbial community.
 
-## See Also
-
-- [[cannabis-endorhiza-microbiome]]
-- [[cultivar-specificity-plant-microbiomes]]
-
 ## References
 
 - Winston ME et al. (2014) PLoS ONE 9(6): e99641.
@@ -122,8 +117,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-endorhiza-microbiome]]
+- [[cultivar-specificity-plant-microbiomes]]
 - [[cannabis-microbiome-best-analysis-edaphic-factor-ranking]]
 - [[edaphic-factor-ranking-nitrogen-salinity-carbon-cannabis-microbiome]]
 - [[edaphic-factors-microbial-community-structure]]

@@ -18,11 +18,6 @@ McKenna proposed a three-stage model of mushroom use, with different doses produ
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
-## See Also
-
-- mckenna human cognition and the stoned age
-- [[psychedelic-consciousness-models]]
-- [[mckenna-transcendent-other-and-exopheromones]] - [[mckenna-transcendent-other-and-exopheromones]] - mushroom-symbolism-rock-art-ancient-imagery - mckenna human cognition and the stoned age McKenna proposes that psilocybin catalyzed the very behaviors that natural selection then rewarded.
 ## Practical Considerations
 
 When working with McKenna on Human Cognition and the Stoned Age, several practical factors should be
@@ -141,8 +136,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mckenna human cognition and the stoned age
+- [[psychedelic-consciousness-models]]
+- [[mckenna-transcendent-other-and-exopheromones]] - [[mckenna-transcendent-other-and-exopheromones]] - mushroom-symbolism-rock-art-ancient-imagery - mckenna human cognition and the stoned age McKenna proposes that psilocybin catalyzed the very behaviors that natural selection then rewarded.
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

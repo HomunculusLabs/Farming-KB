@@ -32,12 +32,6 @@ McKenna acknowledges that the Wasson-Hofmann theory remains "well-argued specula
 
 For McKenna, the Eleusinian Mysteries are significant not merely as a historical curiosity but as evidence for his broader thesis about the suppression of partnership societies by [[bloomfield-ergot-claviceps-purpurea-ergotism]] growing on barley under Mediterranean conditions may differ significantly from the strains that caused ergotism epidemics in Northern European rye fields.
 
-## See Also
-
-- [[eleusinian-mysteries]] -- the historical rite itself
-- mckenna food of the gods kykeon and eleusinian mysteries -- Wasson, Hofmann, and Ruck's full argument
-- mckenna food of the gods kykeon and eleusinian mysteries -- the ritual beverage of the Mysteries
-
 ## Enduring Significance
 
 The Eleusinian Mysteries remain one of the most compelling case studies in the relationship between psychoactive substances and religious experience. Whether or not the Wasson-Hofmann ergotized beer theory is ever conclusively proven, the example of Eleusis demonstrates that Western civilization's own ancestors practiced and revered plant-based ecstatic religion for nearly two millennia. This fact alone challenges the assumption that psychoactive spirituality is a marginal or exotic phenomenon and supports McKenna's argument that the suppression of such practices represents a historical rupture rather than a natural progression.
@@ -119,8 +113,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[eleusinian-mysteries]] -- the historical rite itself
+- mckenna food of the gods kykeon and eleusinian mysteries -- Wasson, Hofmann, and Ruck's full argument
+- mckenna food of the gods kykeon and eleusinian mysteries -- the ritual beverage of the Mysteries
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

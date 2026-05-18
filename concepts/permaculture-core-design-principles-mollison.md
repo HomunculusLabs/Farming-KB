@@ -87,13 +87,10 @@ These principles are not rigid rules but thinking tools. They guide the designer
 
 The principles work synergistically: working with nature makes the least change sufficient; recognizing that the problem is the solution reveals hidden yields; understanding that everything gardens reveals allies where others see competitors; and knowing that yield is theoretically unlimited keeps the designer innovating rather than settling.
 
-## See Also
 
+## See Also
 - [[permaculture-twelve-design-principles]]
 - [[mollison-permaculture-two-introduction-design-principles]]
-
-## See Also
-
 - [[nut-tree-cultivation-for-permaculture-food-forests]]
 - [[stametsian-permaculture-model]]
 - [[permaculture-farm-design-principles]]

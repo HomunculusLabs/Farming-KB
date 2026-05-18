@@ -56,11 +56,6 @@ not doing that?' — that was my way of thinking. I ultimately reached the
 conclusion
 that there was no need to plow, no need to apply fertilizer, no need to make
 
-## See Also
-- [[composting]]
-- [[fukuoka-rice-straw-mulch-fertility-cycle]]
-- [[fukuoka-straw-mulch-fertility-cycle]]
-
 ## Overview
 
 Fukuoka Straw Mulch System represents an important element within sustainable
@@ -138,8 +133,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[composting]]
+- [[fukuoka-rice-straw-mulch-fertility-cycle]]
+- [[fukuoka-straw-mulch-fertility-cycle]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

@@ -100,13 +100,12 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[cannabis-grow-harvesting-drying-curing]]
 - [[cannabis-drying-and-curing]]
 - [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]
 - [[green-cannabis-curing-drying-buds]]
 - [[cannabis-drying-and-curing-guide]]
-## See Also
-
 - [[cannabis-indoor-growing-environmental-control]] — Nutrient management and pH
 - [[cannabis-strains-genetics-potency]] — Strain selection and potency factors

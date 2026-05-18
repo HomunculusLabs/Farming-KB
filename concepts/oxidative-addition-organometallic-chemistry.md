@@ -53,11 +53,6 @@ introduces a second organic group, and reductive elimination releases the couple
 Hydrogenation and hydrofunctionalization also use oxidative addition. H2, silanes, boranes, or hydrides can add to a metal, creating metal
 hydride species that transfer hydrogen or hydride equivalents to unsaturated substrates.
 
-## See Also
-- [[staycare-organometallic-compound-dealkylation-by-fungi]]
-- [[mckenna-banisteriopsis-caapi-harmine-mao-inhibition-chemistry]]
-- [[psilocybin-chemistry-pharmacology]]
-
 ## Overview
 
 Oxidative Addition Organometallic Chemistry represents an important element within sustainable
@@ -135,10 +130,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[staycare-organometallic-compound-dealkylation-by-fungi]]
+- [[mckenna-banisteriopsis-caapi-harmine-mao-inhibition-chemistry]]
+- [[psilocybin-chemistry-pharmacology]]
 - [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - [[oxidative-addition-vs-photoredox-catalysis]]
 - [[oxidative-phosphorylation-mitochondrial-respiration]]
 - [[reactive-oxygen-species-and-oxidative-stress]]
-- [[staycare-organometallic-compound-dealkylation-by-fungi]]

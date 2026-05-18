@@ -16,11 +16,6 @@ The earth is not inert rock and dirt — it is a living, breathing system. All o
 6. **Roots are geological agents** — they penetrate, decompose, redeposit, and stabilise earth materials
 7. **Underground diversity mirrors aboveground diversity** — design for the whole system, surface and subsurface
 
-## See Also
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]
-- [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]]
-
 ## Overview
 
 Earth Respiration And Geology represents an important element within sustainable
@@ -98,8 +93,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]
+- [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]]
 - [[earth-sheltered-housing]]
 - [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]
 - [[mollison-designers-earth-building-cob-adobe-rammed-earth]]

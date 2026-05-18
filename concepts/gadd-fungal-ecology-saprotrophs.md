@@ -53,15 +53,6 @@ Mycodiversity exhibits distinct patterns in both space and time, although such f
 
 Sampling studies have shown that species-substrata curves rarely reach an asymptote, indicating that additional sampling would continue to reveal new species. Turnover in fruiting agaric species is high in both temperate and tropical forests, requiring weekly or biweekly sampling intervals, while corticioid and polypore fungi may be sampled at approximately 2-month intervals.
 
-## See Also
-
-- [[fungal-hemicellulose-pectin-decomposition]]
-- biodiversity-fungi-wood-decay-succession
-- [[gadd-fungal-nutrition-metabolism]]
-- [[fungal-ecology]]
-- [[laccase]]
-- [[det]]
-
 ## Overview
 
 Gadd Fungal Ecology Saprotrophs represents an important element within sustainable
@@ -139,8 +130,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-hemicellulose-pectin-decomposition]]
+- biodiversity-fungi-wood-decay-succession
+- [[gadd-fungal-nutrition-metabolism]]
+- [[fungal-ecology]]
+- [[laccase]]
+- [[det]]
 - [[gadd-intracellular-signal-transduction-filamentous-fungi]]
 - [[gadd-lichen-biogeochemistry-pioneer]]
 - [[gadd-mineral-transformations-biogeochemistry]]

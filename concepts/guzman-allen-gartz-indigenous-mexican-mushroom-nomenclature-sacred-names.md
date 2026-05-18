@@ -62,10 +62,6 @@ The linguistic diversity documented by Guzmán's survey is under increasing thre
 
 The 200+ indigenous mushroom names of Mexico constitute one of the richest bodies of ethnomycological nomenclature in the world, rivaling the fungal vocabularies of any other culture. Their preservation and study is essential not only for ethnobotany but for understanding the full scope of human-fungal relationships across cultures. They remind us that the scientific naming of mushrooms — governed by the International Code of Nomenclature — is only one way of organizing fungal knowledge, and that indigenous classification systems encode information about cultural values, spiritual beliefs, and ecological relationships that no Linnaean binomial can capture.
 
-## See Also
-
-- [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -94,7 +90,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]
 - [[doc]]
 - [[psilocybin]]
 - [[det]]

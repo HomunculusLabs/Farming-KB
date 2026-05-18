@@ -51,9 +51,6 @@ proportion to the number of particles in the nucleus of an element.
 The range of frequencies from complex substances can disclose what
 they contain. He concluded that disease was destroyed by the Abrams
 
-## See Also
-- [[tompkins-plants-response-to-human-intent]]
-
 ## Overview
 
 Tompkins Hieronymus Eloptic Energy represents an important element within sustainable
@@ -131,8 +128,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tompkins-plants-response-to-human-intent]]
 - [[tompkins-electricity-plants-historical-discoveries]]
 - [[tompkins-magnetism-plant-growth]]
 - [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]

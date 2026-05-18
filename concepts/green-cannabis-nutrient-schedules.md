@@ -41,9 +41,6 @@ when no real deficiency exists. Solution: get new genetics.
 | Seedling | Water only | None | As needed |
 | Early veg | High N, balanced P/K | -- | Every 2 weeks |
 
-## See Also
-- [[green-cannabis-soil-flushing-nutrient-leaching]]
-
 ## Practical Considerations
 
 Successful implementation of Cannabis Nutrient Schedules - Greg Green's [[greg-green]]
@@ -127,8 +124,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[green-cannabis-soil-flushing-nutrient-leaching]]
 - [[cervantes-screen-of-green-technique]]
 - [[green-cannabis-dry-sift-water-extraction]]
 - [[green-cannabis-grow-bible-vegetative-phase-management]]

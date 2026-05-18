@@ -34,13 +34,6 @@ combined in creative ways to address diverse needs and objectives.
 Understanding the range of possible applications helps practitioners
 identify opportunities for implementation in their own contexts.
 
-## See Also
-
-- [[tidal-aquaculture-and-salt-marsh-systems]]
-- [[tidal-aquaculture-marsh-systems]]
-- [[tidal-aquaculture-systems]]
-- [[tidal-marine-aquaculture]]
-
 ## Overview
 
 Tidal Estuarine Aquaculture Mollison represents an important element within sustainable
@@ -118,8 +111,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tidal-aquaculture-and-salt-marsh-systems]]
+- [[tidal-aquaculture-marsh-systems]]
+- [[tidal-aquaculture-systems]]
+- [[tidal-marine-aquaculture]]
 - [[aquaponics]]
 - [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]
 - [[marine-estuarine-fungi]]

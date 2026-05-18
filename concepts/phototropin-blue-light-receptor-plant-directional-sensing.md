@@ -14,11 +14,6 @@ Phototropins are blue-light-absorbing serine/threonine protein kinases that
 serve as the primary photoreceptors mediating phototropic responses in plants.
 First identified in [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] during phototropic bending:
 
-## See Also
-- [[phototropism-darwin-plant-light-sensing]]
-- [[darwin-phototropism-experiments-plant-light-sensing]]
-- [[plant-photoreception-light-sensing]]
-
 ## Overview
 
 Phototropin Blue Light Receptor Plant Directional Sensing represents an important element within sustainable
@@ -96,8 +91,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phototropism-darwin-plant-light-sensing]]
+- [[darwin-phototropism-experiments-plant-light-sensing]]
+- [[plant-photoreception-light-sensing]]
 - [[blesching-cannabis-strain-selection-receptor-targeting]]
 - [[blue-cheese]]
 - [[blue-lotus-history]]

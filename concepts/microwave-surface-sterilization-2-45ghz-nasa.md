@@ -17,10 +17,6 @@ NASA's Lyndon B. Johnson Space Center developed a novel microwave-based surface 
 - Penetration depth is limited by the dielectric properties of intervening materials.
 - Uniform exposure of complex geometries requires careful antenna placement and may need multiple irradiation angles.
 - The method has not been validated against all possible microbial contaminants, particularly extremophiles or unusually resistant spore-forming species.
-## See Also
-
-- [[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]] methods comparison
-
 ## Merged: Microwave Sterilization Spore Resistance Mechanisms and Trace Water Enhancement
 
 # Microwave Sterilization: Spore Resistance Mechanisms and Trace Water Enhancement
@@ -138,8 +134,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]] methods comparison
 - [[microwave-interaction-with-microbial-cells]]
 - [[microwave-sterilization-mixed-contaminant-kill-kinetics]]
 - [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]

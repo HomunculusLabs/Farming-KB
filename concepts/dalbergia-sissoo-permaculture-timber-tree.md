@@ -66,10 +66,6 @@ Sissoo combines well with:
 ## Summary
 
 Dalbergia sissoo is one of the most versatile multi-purpose trees available for permaculture in semi-arid and tropical regions. Its combination of valuable timber, nitrogen fixation, erosion control, livestock forage, and coppice resilience makes it an excellent choice for integrated land management systems seeking to maximise yields while building soil and ecosystem health.
-## See Also
-- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
-- [[moringa-oleifera-horseradish-tree-permaculture]]
-
 ## Overview
 
 Dalbergia Sissoo Permaculture Timber Tree represents an important element within sustainable
@@ -147,4 +143,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
+- [[moringa-oleifera-horseradish-tree-permaculture]]

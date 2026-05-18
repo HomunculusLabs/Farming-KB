@@ -61,11 +61,6 @@ record. Partnership cultures depict chalices, vessels, and rounded
 forms. [[cultural-evolution-and-psychoactive-substances]], gender relations, and
 the relationship between human societies and their environments.
 
-## See Also
-
-- [[eleusinian-mysteries]]
-- [[natural-farming-philosophy]]
-
 ## Overview
 
 Dominator Partnership Culture represents an important element within sustainable
@@ -143,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[eleusinian-mysteries]]
+- [[natural-farming-philosophy]]
 - [[mckenna-food-of-the-gods-sugar-as-dominator-tool]]
 - [[mckenna-partnership-dominator-culture-models]]
 - [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]

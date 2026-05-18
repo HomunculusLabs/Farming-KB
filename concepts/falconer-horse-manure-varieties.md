@@ -16,10 +16,6 @@ type: concept
 In order to [[mycelium]] evades hog manure; besides it is impure and
 malodorous, and a propagating bed for noxious insect vermin.
 
-## See Also
-
-- falconer-preparation-of-the-manure
-- falconer-manure-for-mushroom-beds
 ## Practical Applications
 
 Falconer Horse Manure Varieties for Mushrooms has a range of practical applications that make it relevant to
@@ -118,8 +114,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- falconer-preparation-of-the-manure
+- falconer-manure-for-mushroom-beds
 - [[falconer-dosoris-mushroom-cellar]]
 - [[falconer-growing-mushrooms-in-sheds]]
 - [[falconer-mushroom-cellar-ventilation-and-moisture]]

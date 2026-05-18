@@ -35,12 +35,6 @@ The far-red reversal experiments revealed something profound about plant percept
 
 This concept extends [[plant-epigenetic-memory-gene-based-remembering]] (heritable changes in gene expression without changes to the DNA sequence). The phytochrome Pr/Pfr ratio represents one of the simplest and most elegant examples of how plants encode environmental information in biochemical form, and it serves as a conceptual bridge to understanding more complex forms of plant information processing discussed in contemporary plant neurobiology.
 
-## See Also
-
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] induction
-- circadian rhythm plants biological clock
-- shade avoidance syndrome plants
-
 ## References
 
 The following sources were consulted in the preparation of this page:
@@ -128,8 +122,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] induction
+- circadian rhythm plants biological clock
+- shade avoidance syndrome plants
 - [[phytochrome]]
 - [[phytochrome-discovery-butler-single-receptor-model]]
 - [[phytochrome-photoperiodism]]

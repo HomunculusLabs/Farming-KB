@@ -43,11 +43,6 @@ Wherever series of palisades are a feature, a horizontal bore will often tap swe
 | Headwater streams | N/A | Divert to contour trench, then dam |
 | Palisade slopes | N/A | Plant on upslope side for infiltration |
 
-## See Also
-- [[inselbergs-and-fold-mountains-desert]]
-- [[inselbergs-domes-and-fold-mountains-in-deserts]]
-- [[desert-house-water-energy-conservation]]
-
 ## Overview
 
 Inselbergs Fold Mountains Desert Water Conservation represents an important element within sustainable
@@ -125,10 +120,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[inselbergs-and-fold-mountain-water-systems]]
+## See Also
 - [[inselbergs-and-fold-mountains-desert]]
+- [[inselbergs-domes-and-fold-mountains-in-deserts]]
+- [[desert-house-water-energy-conservation]]
+- [[inselbergs-and-fold-mountain-water-systems]]
 - [[inselbergs-and-fold-mountains-in-desert-permaculture]]
 - [[inselbergs-and-fold-mountains-in-deserts]]
-- [[inselbergs-domes-and-fold-mountains-in-deserts]]

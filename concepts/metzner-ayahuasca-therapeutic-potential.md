@@ -48,8 +48,6 @@ recognized and the use of ayahuasca is legal in Brazil within this framework. Tw
 the churches have established significant satellite centers in [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]. Most have experienced and/or practiced various forms
 of psychotherapy and body-oriented therapy. The insights from these practices are
 woven into work with the entheogenic medicines, which participants confirm function to
-## See Also
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
 ## Practical Considerations
 
 Successful implementation of Ayahuasca Therapeutic Potential requires attention to
@@ -146,4 +144,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[metzner-hybrid-shamanic-therapeutic-rituals]]

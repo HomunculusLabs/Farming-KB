@@ -21,13 +21,6 @@ The sparagmos (σπαραγμός) — the ritual dismemberment of a living anim
 
 In the [[psychedelic-secrecy-comparative-eleusis-mesoamerica]] observed in both Greek and Mesoamerican traditions can be understood as adaptive responses to this recurrent pattern of suppression.
 
-## See Also
-
-- [[persephone-abduction-and-narkissos]]
-
-- [[psychedelic-use-in-ancient-greece]]
-
-- [[psychedelic-secrecy-comparative-eleusis-mesoamerica]]
 ## Practical Considerations
 
 Successful implementation of Maenads, Thyrsos, and Ecstatic Ritual requires attention to
@@ -124,8 +117,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[persephone-abduction-and-narkissos]]
+- [[psychedelic-use-in-ancient-greece]]
+- [[psychedelic-secrecy-comparative-eleusis-mesoamerica]]
 - [[cannabis-fire-ritual]]
 - [[eleusinian-telesterion-architecture-and-ritual]]
 - [[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]]

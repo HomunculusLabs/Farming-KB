@@ -62,11 +62,6 @@ Common potassium-rich amendments that gardeners should use sparingly include woo
 - Taste may serve as a practical indicator of nutritional quality
 - Solomon's COF formula is designed to avoid excessive potassium while providing balanced overall nutrition
 
-## See Also
-
-- [[solomon-manure-types-and-nutrient-values]]
-- [[complete-organic-fertilizer-recipes]]
-
 ## Overview
 
 Solomon Potassium Yield Versus Nutrition Tradeoff represents an important element within sustainable
@@ -144,7 +139,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[solomon-disease-identification-and-organic-remedies]]
+## See Also
 - [[solomon-manure-types-and-nutrient-values]]
+- [[complete-organic-fertilizer-recipes]]
+- [[solomon-disease-identification-and-organic-remedies]]

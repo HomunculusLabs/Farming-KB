@@ -26,15 +26,6 @@ The [[sacred-mushroom-names-cross-cultural-synonyms]] within Aramaic phrases giv
 
 Allegro's interpretation of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
-## See Also
-
-- [[allegro-philological-methodology]]
-- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the ancient Near East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
-
-The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psilocybin]]
-- shamanism
-- [[amanita]]
-
 ## Overview
 
 Allegro Key Of The Kingdom And Peter As Mushroom represents an important element within sustainable
@@ -112,8 +103,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[allegro-philological-methodology]]
+- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the ancient Near East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
+The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psilocybin]]
+- shamanism
+- [[amanita]]
 - [[allegro-bible-morals-ten-commandments-mushroom-word-play]]
 - [[allegro-fungal-iconography-in-ancient-art]]
 - [[allegro-religion-prehistory-oral-tradition-etymology]]

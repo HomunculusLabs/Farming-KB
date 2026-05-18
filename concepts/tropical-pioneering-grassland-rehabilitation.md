@@ -50,10 +50,6 @@ Vigorous [[nitrogen-fixing-trees-in-agroforestry]]
 - Contour Strip Planting
 - Cut And Carry Forage Systems
 - Polycultural Forest Design
-## See Also
-
-- [[permaculture-design]]
-
 ## Overview
 
 Tropical Pioneering Grassland Rehabilitation represents an important element within sustainable
@@ -131,8 +127,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-design]]
 - [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
 - [[mollison-tropical-mulch-systems-and-materials]]
 - [[tropical-earth-shaping-techniques]]

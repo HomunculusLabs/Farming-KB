@@ -46,11 +46,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[holmgren-ethical-principles-care-earth-people-fair-shares]]
-- [[sepp-holzer-earth-cellars-and-philosophy]]
-- [[earth-oven-and-cob-oven-construction]]
-
 ## Overview
 
 Ethical Investment And Earth Banking represents an important element within sustainable
@@ -128,10 +123,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[holmgren-ethical-principles-care-earth-people-fair-shares]]
+- [[sepp-holzer-earth-cellars-and-philosophy]]
+- [[earth-oven-and-cob-oven-construction]]
 - [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]
 - [[earth-constructs-permaculture]]
-- [[holmgren-ethical-principles-care-earth-people-fair-shares]]
 - [[permaculture-ethical-principles-holmgren]]
 - [[solomon-ethical-mail-order-seed-business]]

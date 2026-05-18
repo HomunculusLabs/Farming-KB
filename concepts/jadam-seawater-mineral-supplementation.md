@@ -78,11 +78,6 @@ applying seawater during flowering for crops where sodium
 sensitivity affects fruit set, and always rinse foliage with fresh
 water after foliar seawater application to prevent salt burn on
 leaf surfaces.
-## See Also
-
-- [[jadam-soil-foundation-work]] -- the comprehensive soil preparation method
-- [[fukuoka-natural-diet-food-philosophy]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -111,7 +106,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[jadam-soil-foundation-work]] -- the comprehensive soil preparation method
+- [[fukuoka-natural-diet-food-philosophy]]
 - [[youngsang-cho]]
 - [[jadam-natural-mineral-leaching-and-replenishment]]
 - [[jadam-soil-mineral-replenishment]]

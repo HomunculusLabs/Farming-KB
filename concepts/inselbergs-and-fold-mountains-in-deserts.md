@@ -59,13 +59,6 @@ A shallow, fast dry-stream system typically develops from the upper foothill reg
 
 The strategy for these violent flows is not to dam them directly (which would fill with boulders and silt in a few rains) but to bleed off the torrent and divert it to a more peaceful contour flow, and thence to a dam. An oversized, wide, shallow contour trench allows silt to settle out before reaching the dam, and the trench itself provides a planting site and a silt trap that is easily cleaned.
 
-## See Also
-
-- [[desert-scarps-and-wadis]]
-- Water Storage in Scarp and Wadi Landscapes
-- Basin and Range Topography
-- Desert Forestry
-
 ## Overview
 
 Inselbergs And Fold Mountains In Deserts represents an important element within sustainable
@@ -143,8 +136,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[desert-scarps-and-wadis]]
+- Water Storage in Scarp and Wadi Landscapes
+- Basin and Range Topography
+- Desert Forestry
 - [[inselbergs-and-fold-mountain-water-systems]]
 - [[inselbergs-and-fold-mountains-desert]]
 - [[inselbergs-and-fold-mountains-in-desert-permaculture]]

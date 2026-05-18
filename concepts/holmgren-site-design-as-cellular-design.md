@@ -49,12 +49,6 @@ The cellular model becomes concrete when applied to specific design situations:
 
 **Suburban quarter-acre block**: The dwelling (nucleus) sits centrally, with Zone 1 vegetable gardens and herbs immediately accessible from the kitchen door. Fruit trees occupy Zone 2 in the side and rear yards, with chickens ranging beneath them. Zone 3 production (main crops, larger orchards) occupies the far corners. Water tanks capture roof runoff, and greywater from the laundry irrigates the food forest. The property boundary (membrane) includes hedges that provide [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], form tissues with specialised functions, and coordinate through nervous and hormonal systems. Analogously, permaculture sites in a bioregion can coordinate through holmgren-integrate-segregate-detailed applies at every scale from the garden bed to the bioregion.
 
-## See Also
-
-- [[permaculture-design]]
-- [[doc]]
-- [[det]]
-
 ## Overview
 
 Holmgren Site Design As Cellular Design represents an important element within sustainable
@@ -132,8 +126,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-design]]
+- [[doc]]
+- [[det]]
 - [[holmgren-community-design-and-intentional-communities]]
 - [[holmgren-genetic-engineering-and-evolution]]
 - [[holmgren-mineral-balance-soil-fertility]]

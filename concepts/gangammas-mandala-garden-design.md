@@ -51,11 +51,6 @@ Gangammas Mandala Garden Design has been recognized for its contributions to var
 Traditional knowledge systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
-## See Also
-- [[gangammas-mandala-garden]]
-- [[gangammas-mandala-tropical-sustenance-garden]]
-- [[mollison-gangammas-mandala-and-banana-circle-gardens]]
-
 ## Overview
 
 Gangammas Mandala Garden Design represents an important element within sustainable
@@ -133,10 +128,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[gangammas-mandala-garden]]
-- [[gangammas-mandala-intensive-home-garden]]
 - [[gangammas-mandala-tropical-sustenance-garden]]
 - [[mollison-gangammas-mandala-and-banana-circle-gardens]]
+- [[gangammas-mandala-intensive-home-garden]]
 - [[ozier-pdc-stewardship-mandala-community-organization]]

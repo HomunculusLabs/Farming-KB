@@ -46,13 +46,6 @@ conditions:
   cortisol and adrenaline, constricting blood vessels persistently.
 - **Cardiovascular disease**: Long-term emotional suppression contributes
 
-## See Also
-- [[endocannabinoid-system]]
-- [[doc]]
-- [[uwe-blesching]]
-- [[det]]
-- [[endocannabinoid-system]]
-
 ## Overview
 
 Epigenetics And Mind Body Medicine Blesching represents an important element within sustainable
@@ -130,8 +123,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[endocannabinoid-system]]
+- [[doc]]
+- [[uwe-blesching]]
+- [[det]]
 - [[blesching-cannabis-epigenetics-and-emotional-trauma]]
 - [[blesching-mind-body-medicine-immune-vulnerability-viral-infections]]
 - [[blesching-mind-body-molecules-emotions]]

@@ -32,11 +32,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[dom]]
-- [[fukuoka-textdoc-one-thing-is-all-things-holism]]
-- [[fukuoka-road-man-does-not-live-by-bread-alone]]
-
 ## Overview
 
 Fukuoka Road All One Has To Do Is Live represents an important element within sustainable
@@ -114,8 +109,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[fukuoka-textdoc-one-thing-is-all-things-holism]]
+- [[fukuoka-road-man-does-not-live-by-bread-alone]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

@@ -52,12 +52,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[composting]]
-- [[humus-humic-acid-fulvic-acid-distinctions]]
-- [[teaming-with-microbes-humic-and-fulvic-acids]]
-
 ## Overview
 
 Cervantes Humic Fulvic Acid Soil Conditioners represents an important element within sustainable
@@ -135,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[composting]]
+- [[humus-humic-acid-fulvic-acid-distinctions]]
+- [[teaming-with-microbes-humic-and-fulvic-acids]]
 - [[cervantes-damping-off-seedling-disease-prevention]]
 - [[cervantes-high-pressure-sodium-lighting]]
 - [[cervantes-passive-wick-hydroponic-systems]]

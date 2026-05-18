@@ -31,10 +31,6 @@ This disparity is notable because [[guzman-panaeolina-foenisecii-psilocybin-cont
 
 Horak (1983) identified relationships between [[knf-global-adoption]]
 
-## See Also
-
-- [[guzman-psilocybin-mushrooms-europe]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -62,11 +58,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[psilocybin]]
-- [[psilocin]]
-- [[baeocystin]]
 
 ## Overview
 
@@ -145,6 +136,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[guzman-psilocybin-mushrooms-europe]]
+- [[psilocybin]]
+- [[psilocin]]
+- [[baeocystin]]
 - [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]

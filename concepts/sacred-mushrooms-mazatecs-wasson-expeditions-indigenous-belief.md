@@ -89,14 +89,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[psilocybin-mushrooms]]
 - [[indigenous-use-of-sacred-mushrooms]]
 - [[mexican-indigenous-nomenclature-sacred-mushrooms]]
 - [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
 - [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
-## See Also
-
 - [[albert-hofmann-early-career-ergot-research-sandoz]] — Hofmann's background
 - [[mazatec-mushroom-shamanism-language-and-revelation]] — Detailed Mazatec shamanic practices
 - [[psilocybin-synthesis]] — Hofmann's identification of the mushroom alkaloids

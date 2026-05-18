@@ -61,9 +61,6 @@ judgment.
 He illustrates this with an analogy: "At first, reason appeared capable of becoming
 the means necessary for conversing with God, but instead it turned out to be a
 
-## See Also
-- [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -92,7 +89,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]]
 - [[dom]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]

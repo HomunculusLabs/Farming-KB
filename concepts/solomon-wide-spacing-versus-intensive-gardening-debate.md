@@ -43,10 +43,6 @@ The wide-spacing model trades theoretical maximum yield per square foot for robu
 Solomon's [[complete-organic-fertilizer-recipes|Complete Organic Fertilizer Recipes]]
 - [[garden-hand-tools-solomon|Garden Hand Tools]]
 
-## See Also
-
-- [[wide-row-spacing-intensive-gardening-comparison]]
-
 ## Overview
 
 Solomon Wide Spacing Versus Intensive Gardening Debate represents an important element within sustainable
@@ -124,8 +120,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[wide-row-spacing-intensive-gardening-comparison]]
 - [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 - [[solomon-low-grade-compost-making-methods]]

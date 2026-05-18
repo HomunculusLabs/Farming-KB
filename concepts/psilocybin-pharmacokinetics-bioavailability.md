@@ -48,11 +48,6 @@ This pharmacogenomic variability is not routinely assessed in current [[lentinan
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[psilocybin-mushroom-evolution]]
-- [[analytical-methods-psilocybin-psilocin-quantification]]
-- [[psilocybin-psilocin-chemistry]]
-
 ## Overview
 
 Psilocybin Pharmacokinetics Bioavailability represents an important element within sustainable
@@ -130,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin-mushroom-evolution]]
+- [[analytical-methods-psilocybin-psilocin-quantification]]
+- [[psilocybin-psilocin-chemistry]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

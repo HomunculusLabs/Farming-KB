@@ -90,13 +90,10 @@ The contrast between free-range and confinement pig production mirrors that seen
 - **Hot seasons**: Shade, wallows, and dust baths become critical for thermoregulation
 - **Farrowing timing**: Plan farrowing to coincide with favorable seasonal conditions, using the pen rotation system (3 months occupied, 6 months rested) to manage parasite cycles and pasture recovery
 
-## See Also
 
+## See Also
 - [[free-range-forage-systems]]
 - [[farm-forestry-systems]]
-
-## See Also
-
 - [[natural-free-range-poultry-farming]]
 - [[jadam-patent-free-revolution]]
 - [[peat-free-gardening]]

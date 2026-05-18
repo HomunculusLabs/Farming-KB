@@ -53,11 +53,6 @@ Terrace borders and slopes can produce significant fodder for livestock. Species
 ## Longevity and Sustainability
 
 The terraces of the Ifugao people demonstrate that well-designed terrace systems can remain productive for millennia. Key factors in this longevity include continuous mulch application, vegetative stabilization of all structural elements, integration of tree crops that provide both stability and fertility, and careful water management. When terraces combine tree plantings on borders and steep slopes with diverse cropping on the flat areas, they create self-renewing agricultural systems that improve rather than degrade over time.
-## See also
-
-- [[soil-erosion-control]]
-- [[slope-analysis-in-permaculture]]
-
 ## Overview
 
 Terrace Systems For Slope Agriculture represents an important element within sustainable
@@ -135,8 +130,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-erosion-control]]
+- [[slope-analysis-in-permaculture]]
 - [[fukuoka-textdoc-hillside-garden-terrace-soil-preparation]]
 - [[holzer-terrace-systems]]
 - [[terrace-construction-earthworks]]

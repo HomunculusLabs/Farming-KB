@@ -33,12 +33,6 @@ entheogenic practices, the cimora ceremony faces challenges from
 modernization and legal restrictions, yet continues to adapt and
 persist in contemporary Andean society.
 
-## See Also
-
-- [[ayahuasca]]
-- [[atropine]]
-- [[curandero-healing-ayahuasca]]
-
 ## Overview
 
 Entheogen Cimora Folk Healing Ceremony represents an important element within sustainable
@@ -116,8 +110,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ayahuasca]]
+- [[atropine]]
+- [[curandero-healing-ayahuasca]]
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
 - [[entheogen-culture]]
 - [[keule-gomortega-keule-chilean-entheogen]]

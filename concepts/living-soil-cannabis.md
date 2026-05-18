@@ -35,15 +35,6 @@ Quality living soil mixes include:
 
 [[cervantes-organic-amendments-chart]] between grows builds the soil biology. Over multiple cycles, living soil can become largely self-sustaining, requiring fewer external inputs while producing increasingly high-quality cannabis.
 
-## See Also
-
-- [[compost-tea-guide]]
-- [[cannabis-soilless-grow-media]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -137,8 +128,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[compost-tea-guide]]
+- [[cannabis-soilless-grow-media]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[biblical-sacrament-and-living-waters]]
 - [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]

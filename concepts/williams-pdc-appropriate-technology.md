@@ -46,9 +46,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-## See Also
-- [[appropriate-technology]]
-
 ## Overview
 
 Williams Pdc Appropriate Technology represents an important element within sustainable
@@ -126,8 +123,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[appropriate-technology]]
 - [[williams-pdc-climates-and-biomes]]
 - [[williams-pdc-community-design]]
 - [[williams-pdc-earthworks]]

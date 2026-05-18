@@ -38,10 +38,6 @@ or biodiversity is possible. Water is not just a resource to be used; it
 is a living being that must be treated with respect and allowed to follow its
 natural pathways through the landscape.
 
-## See Also
-
-- [[holzer-ten-step-plan-world-hunger]] for the broader strategy
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -69,11 +65,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[holzer-tamera-water-landscape-project]]
-- [[holzer-extremadura-water-paradise-project]]
 
 ## Overview
 
@@ -148,3 +139,10 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
+
+
+## See Also
+- [[holzer-ten-step-plan-world-hunger]] for the broader strategy
+- [[det]]
+- [[holzer-tamera-water-landscape-project]]
+- [[holzer-extremadura-water-paradise-project]]

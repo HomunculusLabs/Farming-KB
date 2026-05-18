@@ -66,9 +66,6 @@ differentials, the four Maxwell relations connect unmeasurable quantities
 (dS/dV)_T = (dP/dT)_V, and (dS/dP)_T = -(dV/dT)_P. These relations
 are essential for deriving equations of state, material property
 
-## See Also
-- [[fukuoka-critique-laws-agricultural-science]]
-
 ## Overview
 
 Laws Of Thermodynamics represents an important element within sustainable
@@ -146,4 +143,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[fukuoka-critique-laws-agricultural-science]]

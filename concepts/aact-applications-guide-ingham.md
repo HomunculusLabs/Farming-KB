@@ -56,13 +56,6 @@ Aact Applications Guide Ingham has significant applications in sustainable agric
 ## Historical Significance
 The development and understanding of aact applications guide ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
-## See Also
-- [[ingham-field-guide-aact-brewing-methodology]]
-- [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
-- [[elaine-ingham]]
-- [[soil-food-web]]
-- [[composting]]
-
 ## Overview
 
 Aact Applications Guide Ingham represents an important element within sustainable
@@ -140,8 +133,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ingham-field-guide-aact-brewing-methodology]]
+- [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
+- [[elaine-ingham]]
+- [[soil-food-web]]
+- [[composting]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

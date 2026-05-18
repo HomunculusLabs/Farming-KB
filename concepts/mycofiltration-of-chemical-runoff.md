@@ -36,14 +36,6 @@ Installation of mycofiltration membranes can utilize debris from multiple source
 
 The approach is particularly valuable for protecting salmon spawning grounds and other sensitive aquatic habitats from the cumulative effects of multiple small pollution sources that would be prohibitively expensive to address individually through conventional treatment methods.
 
-## See Also
-
-- [[mycofiltration-overview]]
-
-[[mycoforestry-practices]]
-
-[[forest-ecology-basics]]
-
 ## Overview
 
 Mycofiltration Of Chemical Runoff represents an important element within sustainable
@@ -121,8 +113,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycofiltration-overview]]
+[[mycoforestry-practices]]
+[[forest-ecology-basics]]
 - [[growing-gourmet-bioremediation-mycofiltration]]
 - [[mycofiltration]]
 - [[mycofiltration-farm-livestock-buffers]]

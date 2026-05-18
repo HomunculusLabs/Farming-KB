@@ -53,14 +53,6 @@ Excellent safety record across decades of clinical use. Mild gastrointestinal ef
 
 Used in Traditional Chinese Medicine as "Yun Zhi" (cloud mushroom) to strengthen vitality, clear dampness, and reduce phlegm. The modern research validates its traditional application in supporting patients with chronic illness.
 
-## See Also
-
-- [[reishi-mushroom-medicinal-research]]
-- [[maitake-mushroom-research]]
-- [[chaga-mushroom-research]]
-- [[medicinal-mushroom-guide-turkey-tail]]
-- [[turkey-tail-trametes-versicolor]]
-
 ## Overview
 
 Turkey Tail Mushroom Cancer Research represents an important element within sustainable
@@ -138,10 +130,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[reishi-mushroom-medicinal-research]]
+- [[maitake-mushroom-research]]
+- [[chaga-mushroom-research]]
+- [[medicinal-mushroom-guide-turkey-tail]]
+- [[turkey-tail-trametes-versicolor]]
 - [[bloomfield-turkey-x-disease-aflatoxin-discovery-1960]]
 - [[comparison-chaga-vs-turkey-tail]]
 - [[comparison-cordyceps-vs-turkey-tail]]
 - [[turkey-husbandry]]
-- [[turkey-tail-trametes-versicolor]]

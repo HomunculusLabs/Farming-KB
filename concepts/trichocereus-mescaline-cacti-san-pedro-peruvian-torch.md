@@ -45,14 +45,6 @@ Trichocereus cacti are among the easiest psychoactive plants to cultivate:
 
 Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
 
-## See Also
-
-- [[turner-mescaline-peyote-san-pedro-experience]]
-- [[psychoactive-cacti-species-reference]]
-
-## See Also
-
-- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
 ## Practical Considerations
 
 Successful implementation of Trichocereus Mescaline Cacti: San Pedro and Peruvian Torch Cultivation and Chemistry requires attention to
@@ -148,3 +140,9 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+
+
+## See Also
+- [[turner-mescaline-peyote-san-pedro-experience]]
+- [[psychoactive-cacti-species-reference]]
+- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]

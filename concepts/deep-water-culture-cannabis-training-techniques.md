@@ -82,13 +82,12 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[deep-water-culture]]
 - [[cannabis-training-techniques]]
 - [[cannabis-deep-water-culture-guide]]
 - [[cannabis-training-techniques-comparison]]
 - [[cannabis-grow-plant-training-scrog-techniques]]
-## See Also
-
 - [[cannabis-hydroponics-systems-nutrients]] — Hydroponic fundamentals
 - [[cannabis-propagation-germination-cloning]] — Cloning techniques

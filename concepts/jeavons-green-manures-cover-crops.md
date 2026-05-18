@@ -39,12 +39,6 @@ Legumes serve dual purposes in the GROW BIOINTENSIVE system:
 - **Heavy givers in [[jeavons-composting-methods]] before returning them
 to the soil.
 
-## See Also
-
-- [[cover-crops]]
-- [[cover-crop]]
-- [[decomposition]]
-
 ## Overview
 
 Jeavons Green Manures Cover Crops represents an important element within sustainable
@@ -122,8 +116,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cover-crops]]
+- [[cover-crop]]
+- [[decomposition]]
 - [[jeavons-composting-methods]]
 - [[jeavons-grow-biointensive-method-overview]]
 - [[jeavons-master-planning-mini-farms]]

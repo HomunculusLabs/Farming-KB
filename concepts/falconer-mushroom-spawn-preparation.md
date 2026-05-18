@@ -58,11 +58,6 @@ than "made" spawn. Seldom used for spawning beds because difficult to
 obtain. When found, it was to be secured, dried, and used as French
 [[cuthill-mushroom-spawn-preparation-historical]]
 
-## See Also
-
-- [[mushroom-spawn-preparation]]
-- [[mushroom-spawn-grain-preparation-inoculation]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -91,7 +86,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[mushroom-spawn-preparation]]
+- [[mushroom-spawn-grain-preparation-inoculation]]
 - [[spore]]
 - [[falconer-mushroom-spawn-types-and-merits]]
-- [[mushroom-spawn-preparation]]

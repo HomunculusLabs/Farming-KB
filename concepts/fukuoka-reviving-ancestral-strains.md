@@ -27,10 +27,6 @@ Ancestral strains have qualities that modern varieties lack:
 - Observing natural ecosystems provides the blueprint for sustainable food production
 - Fukuoka challenged the fundamental assumptions of modern agricultural science
 
-## See Also
-
-[[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-observation-based-farming]]
-
 ## Practical Applications
 
 The principles outlined on this page connect directly to hands-on work in gardens,
@@ -80,7 +76,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+[[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-observation-based-farming]]
 - [[det]]
 - [[permaculture]]
 - [[natural-farming]]

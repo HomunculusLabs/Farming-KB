@@ -33,9 +33,6 @@ disease.
 The turmeric**: A large meta-study noted turmeric's potential therapeutic value
   in the treatment of pancreatitis.
 
-## See Also
-
-- [[endocannabinoid-system-overview]]
 ## Practical Considerations
 
 When working with Cannabis and Pancreatitis, several practical factors should be
@@ -133,8 +130,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[blesching-molecules-emotions-expansive-constricting-neurotransmitters]]
 - [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]]

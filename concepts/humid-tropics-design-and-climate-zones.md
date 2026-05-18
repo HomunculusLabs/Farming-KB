@@ -119,13 +119,10 @@ The key insight is that the forest itself is the model for sustainable tropical 
 - Trewartha, G.T., 1954 (climatic classification basis)
 - Moore, New Scientist, 21/8/86 (forest structure)
 
-## See Also
 
+## See Also
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[mulching-guide]]
-
-## See Also
-
 - [[mollison-designers-cool-humid-climate-design-overview]]
 - [[mollison-designers-small-forest-farm-cool-humid-layout]]
 - [[warm-humid-air-delivery-chamber-cold-climate-mushroom]]

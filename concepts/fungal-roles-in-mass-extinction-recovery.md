@@ -20,9 +20,6 @@ A ZERI brewery project in Tsumeb, Namibia, illustrates this principle in practic
 - [[zeri-circular-economy-systems]]
 - mushroom-nutritional-medicinal-value — Nutritional and medicinal value of mushrooms in recovery contexts
 
-## See Also
-
-- [[fungal-roles-soil-food-webs]]
 ## Practical Considerations
 
 When working with Fungal Roles in Mass Extinction Recovery, several practical factors should be
@@ -120,8 +117,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-roles-soil-food-webs]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

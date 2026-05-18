@@ -64,10 +64,6 @@ McKenna's analysis anticipates later research on the neurological effects of scr
 ## The Opium Wars and the Geopolitics of Drugs
 McKenna's historical analysis of the relationship between governments and psychoactive substances finds its most explicit expression in the Opium Wars of the [[psychedelic-plants-and-civilization]] within their own territories. The British prohibition of cannabis in India (1893-1894), the American prohibition of peyote (despite treaty protections for [[psychedelic-plants-and-civilization]] and validated by modern  research — in which it can be responsibly fulfilled.
 
-## See Also
-
-- [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]]
-
 ## Overview
 
 Mckenna Heroin Cocaine And Synthetic Drugs represents an important element within sustainable
@@ -145,6 +141,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]]
 - [[mckenna-abandonment-of-the-mystery]]

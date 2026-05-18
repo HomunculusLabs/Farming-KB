@@ -43,11 +43,6 @@ The discovery of the ECS has transformed our understanding of human physiology a
 - Hundreds of medical organizations support [[blesching-cannabis-neurodegenerative-diseases]], autoimmune disorders, psychiatric conditions, cancer, and cardiovascular disease
 - Understanding individual ECS function may eventually allow personalized cannabinoid-based medicine tailored to a patient's specific receptor distribution and endocannabinoid levels
 
-## See Also
-
-- [[anandamide-bliss-molecule]]
-- [[thc-tetrahydrocannabinol]]
-
 ## References
 
 - Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books, Berkeley.
@@ -129,8 +124,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[anandamide-bliss-molecule]]
+- [[thc-tetrahydrocannabinol]]
 - [[blesching-gaba-endocannabinoid-system-anxiety-relaxation]]
 - [[cannabis-endocannabinoid-system]]
 - [[endocannabinoid-autonomic-nervous-system-balance-blesching]]

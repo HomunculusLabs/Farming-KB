@@ -97,14 +97,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[claudio-naranjo]]
 - [[metzner-five-experience-features-entheogenic-shamanic-practice]]
 - [[powell-universal-symbology-in-entheogenic-visions]]
 - [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 - [[shamanic-healing-hallucinogenic-plants]]
-## See Also
-
 - [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]] — Harner's theoretical framework
 - [[yage-experience-soul-body-dissociation-autonomous-self]] — The soul-body dissociation theme
 - [[yage-visions-flight-winged-transformation]] — The flying and winged-being theme

@@ -62,11 +62,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-## See Also
-- [[permaculture-principles]]
-- [[permaculture]]
-- [[dom]]
-
 ## Overview
 
 Holmgren Energy Descent Permaculture Flower represents an important element within sustainable
@@ -144,7 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-principles]]
+- [[permaculture]]
+- [[dom]]
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]
 - [[holmgren-built-environment-household-energy-storage]]

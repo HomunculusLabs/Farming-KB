@@ -35,11 +35,6 @@ Stainless steel 55-gallon drums from the food/fermentation industry are preferre
 
 A second basket of chopped straw can be immersed into the still-hot water from the previous batch, maximizing fukuoka-natural-farming-tropical-climates where energy for heating water is expensive.
 
-## See Also
-
-- straw-substrate-preparation
-- straw-substrate-yeast-extract-marmite-spore-germination-enrichment
-
 ## Overview
 
 Straw Substrate Pasteurization Methods Mushroom Cultivation represents an important element within sustainable
@@ -117,8 +112,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- straw-substrate-preparation
+- straw-substrate-yeast-extract-marmite-spore-germination-enrichment
 - [[comparison-timber-frame-vs-straw-bale-construction]]
 - [[fukuoka-one-straw-revolution-principles]]
 - [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]

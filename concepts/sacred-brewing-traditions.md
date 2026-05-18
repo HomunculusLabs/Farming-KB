@@ -35,13 +35,6 @@ Several common principles emerge across the world's sacred brewing traditions:
 - Communal consumption: Drinking together creates bonds of community and shared spiritual experience
 - Respect for fermentation: The transformative power of fermentation is understood as a manifestation of divine or spiritual force
 
-## See Also
-
-- [[gruit-beer-and-herbs]] for sacred European herbal brewing
-- herbal beer ingredients for psychoactive and medicinal brewing herbs
-- wild [[mead-making-guide]] for the sacred history of mead
-- [[wild-fermentation-vs-cultured-yeast]]
-
 ## Overview
 
 Sacred Brewing Traditions represents an important element within sustainable
@@ -119,8 +112,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gruit-beer-and-herbs]] for sacred European herbal brewing
+- herbal beer ingredients for psychoactive and medicinal brewing herbs
+- wild [[mead-making-guide]] for the sacred history of mead
+- [[wild-fermentation-vs-cultured-yeast]]
 - [[allegro-sacred-prostitute-serpent-mushroom-eden-fascination]]
 - [[ethnomycology-cultural-significance-sacred-fungi]]
 - [[gasteromycetes-sacred-fungi]]

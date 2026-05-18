@@ -21,9 +21,6 @@ Chop-and-drop mulching is a core permaculture technique where plants are periodi
 - Oak [[comparison-living-mulch-vs-cover-crops]] transition**: Some species (tagasaste managed as low hedge) function as both living and cut mulch
 - **Integration with stock**: Many mulch species double as fodder -- design dual-purpose cutting/grazing systems
 
-## See Also
-
-- [[permaculture-plants-herbaceous-perennials]] - perennial mulch-producing herbs
 ## Practical Considerations
 
 Successful implementation of Permaculture Comfrey and Chop-and-Drop Mulch Plants requires attention to
@@ -120,8 +117,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-plants-herbaceous-perennials]] - perennial mulch-producing herbs
 - [[holzer-permaculture-landscape-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-methods-summary]]

@@ -46,12 +46,6 @@ Current research on cannabis and metabolic syndrome focuses on several key areas
 
 The withdrawal of rimonabant due to psychiatric side effects highlighted the risks of targeting the endocannabinoid system systemically. More selective approaches, including peripheral CB1 antagonists and individual cannabinoid isolates, are being explored as safer alternatives for metabolic conditions.
 
-## See Also
-
-- [[cannabis-for-bacterial-infections-and-mrsa]]
-
-[[cannabis-plant-nutrition]] — cannabis nutrition and plant science.
-
 ## References
 
 Cota, D., et al. "The Endogenous Cannabinoid System Affects Energy Balance via Central Orexigenic Drive and Peripheral Lipogenesis." Journal of Clinical Investigation, 2003.
@@ -83,7 +77,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cannabis-for-bacterial-infections-and-mrsa]]
+[[cannabis-plant-nutrition]] — cannabis nutrition and plant science.
 - [[cannabis-and-diabetes]]
 - [[dom]]
 - [[endocannabinoid-system]]

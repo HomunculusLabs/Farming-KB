@@ -43,11 +43,6 @@ Ceramic jars filled with water are used in [[solomon-soil-testing-laboratory-ana
 
 The plant teachers include the chicuas (guardians of ayahuasca), the bun-bun monkeys (invisible by day, used for difficult cases), and the sylphs of the pashaquilla sensitiva vine (experts in love magic). Each plant maintains a relationship with specific spirit beings who serve as intermediaries between the plant's pharmacological properties and the healer's practical application.
 
-## See Also
-
-- [[amazonian-medicinal-plants-reference]]
-- [[ayahuasca-plant-spirits-sacha-huarmi-piripiri-icaro-healing]]
-
 ## Overview
 
 Vegetalista Healing Techniques And Plant Medicines represents an important element within sustainable
@@ -125,8 +120,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[amazonian-medicinal-plants-reference]]
+- [[ayahuasca-plant-spirits-sacha-huarmi-piripiri-icaro-healing]]
 - [[amaringo-plant-teachers-and-vegetalista-cosmology]]
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]
 - [[mindful-healing-protocol-setting-intention-cannabis-therapy-blesching]]

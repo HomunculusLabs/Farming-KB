@@ -24,13 +24,6 @@ abortion of the [[water-management]] is difficult.
 Understanding its causes and prevention is essential for [[duggar-mushroom-growing-room-design]] environment is often the first step in
 managing a bacterial blotch outbreak.
 
-## See Also
-
-- growing-gourmet-growing-room-humidification-climate-control
-- [[doc]]
-- [[mushroom-cultivation]]
-- [[growing-gourmet-gypsum-lime-ph-management]]
-
 ## Overview
 
 Growing Gourmet Bacterial Blotch Disease Management represents an important element within sustainable
@@ -108,8 +101,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- growing-gourmet-growing-room-humidification-climate-control
+- [[doc]]
+- [[mushroom-cultivation]]
+- [[growing-gourmet-gypsum-lime-ph-management]]
 - [[bean-growing-guide]]
 - [[brassica-growing-guide]]
 - [[falconer-dwelling-house-mushroom-growing]]

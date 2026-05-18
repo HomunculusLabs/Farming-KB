@@ -28,13 +28,6 @@ so weak as to germinate only in plowed soil. Man has no need to plow
 and turn the earth because nature already provides this service
 through its own biological systems.
 
-## See Also
-- [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]]
-- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
-- [[doc]]
-- [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]
-- [[teaming-with-microbes-cover-crops-soil-health]]
-
 ## Overview
 
 Fukuoka Microbes Soil Health Discriminating Knowledge represents an important element within sustainable
@@ -112,8 +105,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]]
+- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
+- [[doc]]
+- [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]
+- [[teaming-with-microbes-cover-crops-soil-health]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

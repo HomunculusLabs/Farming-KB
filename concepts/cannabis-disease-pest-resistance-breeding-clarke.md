@@ -39,12 +39,6 @@ broad genetic diversity in breeding populations.
 The conservation of diverse
 [[cannabis-glandular-trichome-types-resin-production-clarke]]
 
-## See Also
-
-- [[det]]
-- [[cannabis-breeding-traits-selection-criteria-clarke]]
-- [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
-
 ## Overview
 
 Cannabis Disease Pest Resistance Breeding Clarke represents an important element within sustainable
@@ -122,8 +116,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[cannabis-breeding-traits-selection-criteria-clarke]]
+- [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

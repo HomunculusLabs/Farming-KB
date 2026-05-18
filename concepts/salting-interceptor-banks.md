@@ -61,11 +61,6 @@ Interceptor banks are a reactive measure—they manage the symptoms of rising wa
 - Maintenance is required after major rainfall events to repair any erosion damage
 - The discharge end must be protected from scouring
 - Integration with fencing and revegetation maximizes the protected area and accelerates recovery
-## See also
-
-- [[soil-erosion-control]]
-- [[slope-analysis-in-permaculture]]
-
 ## Overview
 
 Salting Interceptor Banks represents an important element within sustainable
@@ -143,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-erosion-control]]
+- [[slope-analysis-in-permaculture]]
 - [[desertification-soil-salting-causes-processes]]
 - [[dryland-salting-causes-and-cautious-approaches]]
 - [[dryland-salting-management]]

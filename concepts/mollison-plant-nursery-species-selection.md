@@ -38,11 +38,6 @@ soils:
 - Roots of sunroot, comfrey, chicory, horseradish, ginger,
   [[vegetative-propagation-methods-mollison]]
 - mollison-seed-resources-and-sovereignty
-## See Also
-- [[mollison-hedgerow-barrier-species-selection]]
-- [[mollison-designers-mixed-orchard-design-species-selection]]
-- [[mollison-designers-plant-nursery-seedling-production]]
-
 ## Overview
 
 Mollison Plant Nursery Species Selection represents an important element within sustainable
@@ -120,8 +115,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-hedgerow-barrier-species-selection]]
+- [[mollison-designers-mixed-orchard-design-species-selection]]
+- [[mollison-designers-plant-nursery-seedling-production]]
 - [[humid-cool-climate-characteristics-mollison]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-climate-zone-3-farm-forestry]]

@@ -16,11 +16,6 @@ The contaminant identification system in *[[cultivator-compost-preparation-phase
 - **Actinomyces** — thermophilic actinomycetes essential in [[mushroom-contamination-control]] — the contaminants themselves become the cultivator's
 most valuable teachers of what not to do.
 
-## See Also
-
-- [[mushroom-cultivator-contaminants-identification]]
-- [[stamets-cultivator-trichoderma-prevention-and-treatment]]
-
 ## Overview
 
 Mushroom Cultivator Contaminant Identification Key System represents an important element within sustainable
@@ -98,8 +93,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-cultivator-contaminants-identification]]
+- [[stamets-cultivator-trichoderma-prevention-and-treatment]]
 - [[evaporative-demand-four-factors-mushroom-tropism]]
 - [[falconer-mushroom-cellar-management]]
 - [[mushroom-biology-nutrition-health-properties]]

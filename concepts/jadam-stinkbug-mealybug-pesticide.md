@@ -37,14 +37,6 @@ Recipe #9 includes the effects of recipes #6 (aphid/mite), #7 (moth), and #8 (pl
 - Pesticide must coat the target and remain wet as long as possible
 - If evaporation is rapid, pesticide becomes ineffective
 
-## See Also
-
-- [[jadam-herb-solution-jhs]] - How to make JHS from various herbs
-- [[jadam-naphthalene-pesticide]]
-- [[jadam-red-clay-powder-method]]
-- [[jadam-pesticide-for-powdery-mildew]]
-- [[jadam-natural-pesticide-institute-and-research]]
-
 ## Overview
 
 Jadam Stinkbug Mealybug Pesticide represents an important element within sustainable
@@ -122,8 +114,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[jadam-herb-solution-jhs]] - How to make JHS from various herbs
+- [[jadam-naphthalene-pesticide]]
+- [[jadam-red-clay-powder-method]]
+- [[jadam-pesticide-for-powdery-mildew]]
+- [[jadam-natural-pesticide-institute-and-research]]
 - [[jadam-herb-solution-jhs]]
 - [[jadam-natural-mineral-water]]
 - [[jadam-potassium-fertilizer]]

@@ -43,11 +43,6 @@ neural architecture. Understanding how plants learn and remember could reveal
 fundamental principles of biological computation that are obscured by the
 complexity of animal nervous systems.
 
-## See Also
-
-- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]-red-far-red-switch-photoperiodism
-- [[plant-memory]]
-
 ## Overview
 
 Plant Memory And Associative Learning represents an important element within sustainable
@@ -125,8 +120,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]-red-far-red-switch-photoperiodism
+- [[plant-memory]]
 - [[chamovitz-gradualist-framework-plant-sensory-capabilities]]
 - [[herbal-plant-remedies]]
 - [[plant-communication-volatile-organic-compounds]]

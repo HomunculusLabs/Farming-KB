@@ -26,7 +26,6 @@ pH at 7.0-7.5.
 pre extends to 10 days before make-up, with the full
 process requiring 13 or more days.
 
-## See Also
 ## Practical Considerations
 
 When working with Compost Pile Management Turning and Temperature, several practical factors should be
@@ -143,8 +142,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

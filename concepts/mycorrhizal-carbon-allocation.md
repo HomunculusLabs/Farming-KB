@@ -28,12 +28,6 @@ A significant fraction of the carbon allocated to mycorrhizal fungi enters soil 
 
 This cost-benefit dynamic is a key component of [[holmgren-soil-humus-carbon-storage-rebuilding]]. ECM fungi receive large quantities of plant-derived carbon and channel it into extensive mycelial networks that persist in soil for months to years. A portion of this carbon is transferred to [[dighton-fungal-biomass-production-aquatic-ecosystems]] and carbon demand under natural conditions. Combining field measurements with laboratory-based isotope studies allows researchers to scale up from mechanistic understanding of carbon flow to ecosystem-level carbon budgets, bridging the gap between [[mycorrhizal-carbon-nitrogen-economics]] and the broader functioning of [[mycorrhizal-carbon-sequestration]] — ECM-dominated ecosystems tend to accumulate more stable soil carbon, while AM-dominated grasslands cycle carbon more quickly through microbial biomass.
 
-## See Also
-
-- [[mycorrhizal-carbon-sequestration]]
-- [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] labelling in signature fatty acids to track carbon allocation in arbuscular mycorrhiza. In: Varma A, Kharkwal AC (eds) [[arbuscular-mycorrhizal-fungi]] can jumpstart carbon allocation pathways and accelerate soil building
-- **Monitor with bioindicators**: Healthy mycorrhizal activity correlates with good soil structure, earthworm populations, and organic matter accumulation
-
 ## Future Directions
 
 Continued development in this area promises new insights and improved approaches for both research and practical application. Cross-disciplinary collaboration and advances in analytical methods create opportunities for innovation and refinement. Recommended resources include current literature, practitioner communities, and systematic experimentation to build expertise.
@@ -115,8 +109,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhizal-carbon-sequestration]]
+- [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] labelling in signature fatty acids to track carbon allocation in arbuscular mycorrhiza. In: Varma A, Kharkwal AC (eds) [[arbuscular-mycorrhizal-fungi]] can jumpstart carbon allocation pathways and accelerate soil building
+- **Monitor with bioindicators**: Healthy mycorrhizal activity correlates with good soil structure, earthworm populations, and organic matter accumulation
 - [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 - [[arbuscular-mycorrhizal-symbiosis]]
 - [[leake-mycorrhizal-carbon-cycle-global-sequestration]]

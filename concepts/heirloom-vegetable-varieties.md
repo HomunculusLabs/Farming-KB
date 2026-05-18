@@ -60,11 +60,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
-- [[cannabis-landrace-and-heirloom-varieties]]
-- [[solomon-vegetable-varieties-self-sufficiency]]
-
 ## Overview
 
 Heirloom Vegetable Varieties represents an important element within sustainable
@@ -142,9 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[cannabis-strain-acapulco-gold-heirloom-mexican-sativa]]
+## See Also
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
+- [[cannabis-landrace-and-heirloom-varieties]]
+- [[solomon-vegetable-varieties-self-sufficiency]]
+- [[cannabis-strain-acapulco-gold-heirloom-mexican-sativa]]
 - [[comparison-heirloom-vs-hybrid-seeds]]
 - [[heirloom-vs-hybrid-seeds-comparison]]

@@ -63,11 +63,6 @@ Ice water extraction, popularized as "bubble hash," uses cold water and
 mechanical agitation to separate trichomes from plant material. Cannabis
 material is mixed with ice and water, then agitated. The [[cannabis-terpene-profiles-sativa]] indicate careful processing
 
-## See Also
-
-- [[cannabis-alchemy-overview]]
-- [[cannabis-trichome-types-and-development]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -96,7 +91,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cannabis-alchemy-overview]]
+- [[cannabis-trichome-types-and-development]]
 - [[charas]]
 - [[cannabis-hashish-production]]
 - [[oner-cannabis-hashish-production]]

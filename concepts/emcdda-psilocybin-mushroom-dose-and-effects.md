@@ -48,11 +48,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[psilocybin-mushrooms]]
-- [[emcdda-psilocybin-mushroom-somatic-health-risks-and-physiological-effects]]
-- [[psilocybin-mushroom-dose-potency-acute-effects-emcdda-2006]]
-
 ## Overview
 
 Emcdda Psilocybin Mushroom Dose And Effects represents an important element within sustainable
@@ -130,10 +125,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin-mushrooms]]
+- [[emcdda-psilocybin-mushroom-somatic-health-risks-and-physiological-effects]]
+- [[psilocybin-mushroom-dose-potency-acute-effects-emcdda-2006]]
 - [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]
 - [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]
-- [[emcdda-psilocybin-mushroom-somatic-health-risks-and-physiological-effects]]
 - [[emcdda-retailer-risk-information-quality]]
 - [[emcdda-return-to-nature-megatrend-mushroom-appeal]]

@@ -48,11 +48,6 @@ All natural buildings benefit from:
 - **Natural plasters** -- earth or lime-based exterior and interior finishes
 - **[[mollison-designers-composting-toilets-and-humanure]] and composting systems
 
-## See Also
-
-- [[cordwood-construction]]
-- [[graywater-systems-for-homesteads]]
-
 ## Historical Context
 - These approaches have evolved through decades of research and practical application.
 - Traditional knowledge systems have contributed significantly to modern understanding.
@@ -140,8 +135,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cordwood-construction]]
+- [[graywater-systems-for-homesteads]]
 - [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]
 - [[mushroom-natural-habitats]]

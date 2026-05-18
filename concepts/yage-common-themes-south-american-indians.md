@@ -44,9 +44,6 @@ Yagé visions are routinely interpreted through each culture's supernatural fram
 
 The independent invention of the word "trip" in both [[european-witchcraft-hallucinogenic-plants]] and other cross-cultural psychedelic phenomena.
 
-## See Also
-
-- [[mckenna-ayahuasca-and-amazonian-shamanism]]
 ## Practical Considerations
 
 Successful implementation of Common Themes in South American Indian Yagé Experiences requires attention to
@@ -143,8 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[harner-jivaro-shamanism-yage]]
 - [[harner-yage-experience-themes]]
 - [[naranjo-harmaline-yage-experiment]]

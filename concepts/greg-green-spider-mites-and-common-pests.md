@@ -11,12 +11,6 @@ type: concept
 [[green-cannabis-grow-bible-pest-disease-prevention]] and
 [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] products readily available.
 
-## See Also
-
-- [[doc]]
-- [[query-how-to-prevent-and-treat-spider-mites-on-cannabis]]
-- [[greg-green-npk-and-nutrient-deficiency]]
-
 ## Overview
 
 Greg Green Spider Mites And Common Pests represents an important element within sustainable
@@ -94,8 +88,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[query-how-to-prevent-and-treat-spider-mites-on-cannabis]]
+- [[greg-green-npk-and-nutrient-deficiency]]
 - [[green-cannabis-soil-flushing-nutrient-leaching]]
 - [[greg-green-odor-control-and-air-filtration]]
 - [[greg-green-sinsemilla-and-pollination]]

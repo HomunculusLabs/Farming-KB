@@ -44,10 +44,6 @@ plant nutrition. Sacked steer manure from garden centers has little fertilizing
 value but does feed soil microbes and improve structure. Sacked chicken manure
 (NPK approximately 4-3-2) is far better but should not be overused.
 
-## See Also
-
-- [[holmgren-mineral-balance-soil-fertility]] considerations -
-[[ingham-compost-tea-application-rates-and-timing]] on beds
 ## Practical Considerations
 
 Successful implementation of Compost and Organic Matter Management requires attention to
@@ -144,7 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[holmgren-mineral-balance-soil-fertility]] considerations -
+[[ingham-compost-tea-application-rates-and-timing]] on beds
 - [[solomon-disease-identification-and-organic-remedies]]
 - [[solomon-manure-types-and-nutrient-values]]

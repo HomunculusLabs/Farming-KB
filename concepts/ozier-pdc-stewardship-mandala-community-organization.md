@@ -32,10 +32,6 @@ The key principle is that every member participates in a fair share of the
 work, everyone has a clear role with autonomy, and the whole system is
 coordinated through gentle oversight rather than rigid control.
 
-## See Also
-
-- [[savory-community-organization-and-shared-grazing]]
-
 ## Overview
 
 Ozier Pdc Stewardship Mandala Community Organization represents an important element within sustainable
@@ -113,8 +109,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-community-organization-and-shared-grazing]]
 - [[ozier-pdc-biomes-ecotones-edge-effect]]
 - [[ozier-pdc-composting-and-nutrient-cycles]]
 - [[ozier-pdc-ecological-design]]

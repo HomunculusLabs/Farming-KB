@@ -64,10 +64,6 @@ familiar with Conocybe species should be aware that P. filaris
 represents one of the most dangerous members of this group and
 warrants particular attention during any identification process.
 
-## See Also
-
-- [[2c-c-compound-profile]]
-
 ## Overview
 
 Pholiotina Filaris Profile represents an important element within sustainable
@@ -145,6 +141,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[2c-c-compound-profile]]
 - [[dpt-compound-profile]]

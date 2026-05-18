@@ -39,13 +39,6 @@ dispersal corridors. Understanding dispersal mechanisms is
 essential for predicting how fungi will respond to habitat
 change and for designing effective conservation strategies.
 
-## See Also
-
-- [[fungal-biogeography-distribution-patterns]]
-- [[fungal-spore-dispersal]]
-- [[spore]]
-- [[sequestrate-fungi]]
-
 ## Overview
 
 Fungal Spore Dispersal Mechanisms represents an important element within sustainable
@@ -123,8 +116,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-biogeography-distribution-patterns]]
+- [[fungal-spore-dispersal]]
+- [[spore]]
+- [[sequestrate-fungi]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

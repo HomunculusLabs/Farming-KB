@@ -56,11 +56,6 @@ The systematic modification of LSD by Hofmann and Troxler revealed key structure
 
 Beyond the specific compounds produced, the LSD modification program had a profound influence on the broader field of neuropharmacology. The discovery that LSD blocks serotonin receptors was one of the first demonstrations that a specific drug could act on a specific neurotransmitter system — a foundational insight for receptor pharmacology. The fact that only one of four stereoisomers was active demonstrated the extreme molecular specificity of neural receptors, supporting the emerging concept that drugs produce their effects by binding to discrete protein targets rather than through nonspecific cellular disruption. BOL-148, as a non-psychedelic serotonin antagonist, became an important tool for distinguishing serotonin-mediated from non-serotonin-mediated effects in experimental settings. These methodological advances contributed to the development of modern receptor theory and the broader project of mapping neurotransmitter systems in the brain.
 
-## See Also
-
-- [[ergot-and-lysergic-acid-history]]
-- [[tryptamine-family-overview]]
-
 ## The Serotonin Hypothesis and Receptor Pharmacology
 
 ## Overview
@@ -140,8 +135,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ergot-and-lysergic-acid-history]]
+- [[tryptamine-family-overview]]
 - [[comparison-organic-vs-chemical-amendments]]
 - [[psilocybin-and-psilocin-chemical-synthesis]]
 - [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]

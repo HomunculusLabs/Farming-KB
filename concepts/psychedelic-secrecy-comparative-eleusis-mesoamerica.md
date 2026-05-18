@@ -37,13 +37,6 @@ The phenomenology of the [[lsd-set-and-setting-framework]] developed in modern [
 
 This cross-cultural pattern reinforces Wasson's argument that secrecy is not an incidental feature of entheogenic traditions but a functional necessity rooted in the pharmacology and phenomenology of the substances involved.
 
-## See Also
-
-- [[eleusinian-profanes-scandal-of-415-bce]]
-
-- [[the-profanation-of-415-bc-and-evidence-for-eleusinian-psychoactivity]]
-
-- [[psychedelic-safety-and-harm-reduction]]
 ## Practical Considerations
 
 Successful implementation of Psychedelic Secrecy — Comparative Eleusis and Mesoamerica requires attention to
@@ -140,8 +133,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[eleusinian-profanes-scandal-of-415-bce]]
+- [[the-profanation-of-415-bc-and-evidence-for-eleusinian-psychoactivity]]
+- [[psychedelic-safety-and-harm-reduction]]
 - [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
 - [[psychedelic-combination-guide]]
 - [[psychedelic-paradigm-shifting-and-reality-reconception]]

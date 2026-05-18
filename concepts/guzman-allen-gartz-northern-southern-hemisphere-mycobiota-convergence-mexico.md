@@ -63,11 +63,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
-- [[doc]]
-- [[psilocybe-zapotecorum]]
-
 ## Overview
 
 Guzman Allen Gartz Northern Southern Hemisphere Mycobiota Convergence Mexico represents an important element within sustainable
@@ -145,6 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
+- [[doc]]
+- [[psilocybe-zapotecorum]]
 - [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]

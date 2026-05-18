@@ -62,10 +62,6 @@ In the local microclimate, water in vegetation greatly moderates heat and cold e
 - Biological water storages (fruits, nuts, succulent tissues) sustain life where free water is absent
 - Every intervention in the water cycle should be accompanied by adequate storage and distribution infrastructure
 
-## See Also
-- [[holzer-ring-water-feeder-living-water-supply]]
-- [[savory-water-cycle-management]]
-
 ## Overview
 
 Regional Water Cycle Intervention represents an important element within sustainable
@@ -143,8 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[holzer-ring-water-feeder-living-water-supply]]
+- [[savory-water-cycle-management]]
 - [[desert-water-storage-evaporation]]
 - [[holzer-water-management-ponds-springs]]
 - [[mollison-designers-hand-pump-and-water-lifting-devices]]

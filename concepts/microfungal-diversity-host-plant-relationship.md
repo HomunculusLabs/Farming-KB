@@ -28,10 +28,6 @@ DNA-based methods are revealing that traditional culture-based surveys capture o
 
 The strong link between plant diversity and microfungal diversity means that plant conservation and fungal conservation are inseparable. Protecting plant community diversity automatically protects much microfungal diversity, though some microfungal species may have additional requirements not captured by plant-focused conservation.
 
-## See Also
-
-- [[mycorrhizal-fungi-biome-surveys]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 ## Practical Considerations
 
 Successful implementation of Microfungal Diversity Host Plant Relationship requires attention to
@@ -128,8 +124,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhizal-fungi-biome-surveys]]
+- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[biodiversity-microfungal-inventory]]
 - [[leaf-litter-microfungal-diversity-tropical-temperate]]
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]

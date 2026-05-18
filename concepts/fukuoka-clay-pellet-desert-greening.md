@@ -52,14 +52,6 @@ Fukuoka acknowledged that desert greening was the most difficult application of 
 
 The seed ball technique embodies Fukuoka's entire approach to agriculture and life. It requires no special knowledge, no expensive equipment, and no ongoing management. It works with natural processes rather than against them. And it trusts that nature, given the opportunity, will restore itself without human direction. The seed ball is both a practical tool and a philosophical statement — a small clay sphere containing the potential for the restoration of an entire ecosystem.
 
-## See Also
-
-- [[fukuoka-natural-farming-method]]
-- [[fukuoka-natural-rice-barley-cultivation]]
-- [[clay-pellet-seed-balls]]
-- [[composting]]
-- [[fukuoka-clay-pellet-seed-balls-desert-revegetation]]
-
 ## Overview
 
 Fukuoka Clay Pellet Desert Greening represents an important element within sustainable
@@ -137,8 +129,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-natural-farming-method]]
+- [[fukuoka-natural-rice-barley-cultivation]]
+- [[clay-pellet-seed-balls]]
+- [[composting]]
+- [[fukuoka-clay-pellet-seed-balls-desert-revegetation]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

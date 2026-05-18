@@ -15,13 +15,6 @@ have been dammed; large dams' environmental impacts preclude new projects.
 But substantial potential exists for small-scale hydro — mini (for a small
 town) and micro (for a house or small business) — including spillways of
 
-## See Also
-- [[doc]]
-- [[holmgren-gigantism-intermediate-technology-and-small-scale]]
-- [[doc]]
-- [[holmgren-waste-hierarchy-container-reuse-industrial-recycling]]
-- [[holmgren-gender-balance-and-sustainability]]
-
 ## Overview
 
 Holmgren Optimum Scale Speed Balance Industrial Post Industrial represents an important element within sustainable
@@ -99,8 +92,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[holmgren-gigantism-intermediate-technology-and-small-scale]]
+- [[holmgren-waste-hierarchy-container-reuse-industrial-recycling]]
+- [[holmgren-gender-balance-and-sustainability]]
 - [[holmgren-aboriginal-management-edge-landscapes]]
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]
 - [[holmgren-catch-and-store-energy-four-landscape-storages]]

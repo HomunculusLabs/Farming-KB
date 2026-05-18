@@ -76,11 +76,9 @@ fungi."
 
 ## Palmer's Assessment After Fifteen Years
 
+
 ## See Also
 - [[mycology-21st-century-frontiers]]
-
-## See Also
-
 - [[palmer-mushroom-folklore-cultural-significance]]
 - [[palmer-amanitine-poison-mechanism]]
 - [[palmer-amanitine-poison-classification-treatment]]

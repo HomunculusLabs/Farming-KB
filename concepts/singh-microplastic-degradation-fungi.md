@@ -64,10 +64,6 @@ Fungi deploy several enzyme classes to attack synthetic polymers:
    environments
 5. **Nanoplastic formation**: Biodegradation may generate nanoplastics
    with unknown environmental behavior
-## See Also
-
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-
 ## Overview
 
 Singh Microplastic Degradation Fungi represents an important element within sustainable
@@ -145,6 +141,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[singh-fungal-alkane-metabolism-pathways]]

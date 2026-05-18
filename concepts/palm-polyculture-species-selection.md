@@ -45,11 +45,6 @@ The emphasis on over-planting and long-term culling reflects a realistic accepta
 - Seed-grown palms exhibit significant genetic variation, requiring initial over-planting and a structured culling program spanning the full 60-year productive life of the stand.
 - Co-processing companion species—selected for ethanol, oil, or wetland production—share infrastructure and extend the productive capacity of the system without proportional increases in capital or labor.
 
-## See Also
-
-- [[tropical-pioneering-grassland-rehabilitation]]
-- [[permaculture-design]]
-
 ## Overview
 
 Palm Polyculture Species Selection represents an important element within sustainable
@@ -127,8 +122,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tropical-pioneering-grassland-rehabilitation]]
+- [[permaculture-design]]
 - [[doum-palm]]
 - [[mollison-coconut-palm-polyculture-systems]]
 - [[palm-clump-planting-patterns]]

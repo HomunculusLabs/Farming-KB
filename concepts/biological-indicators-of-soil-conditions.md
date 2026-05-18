@@ -14,11 +14,6 @@ In any local area, the composition, shape, size, and distribution of plants prov
 
 Shallow soils dry out quickly and hold few nutrients. The best indicator of soil depth is to observe one species of tree (such as [[permaculture]] designers and land managers to make informed decisions about site selection, soil treatment, plant species choice, and management strategies without relying solely on laboratory analysis. These living indicators are always present, continuously updated, and provide site-specific information that generalised soil maps and tests cannot match.
 
-## See Also
-- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
-- [[clay-seed-pellet-composition-and-aerial-seeding-method]]
-- [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]
-
 ## Overview
 
 Biological Indicators Of Soil Conditions represents an important element within sustainable
@@ -96,8 +91,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
+- [[clay-seed-pellet-composition-and-aerial-seeding-method]]
+- [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]
 - [[biological-sewage-treatment-with-aquatic-plants]]
 - [[coprophilous-fungi-biodiversity-indicators]]
 - [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]

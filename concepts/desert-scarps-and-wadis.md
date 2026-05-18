@@ -49,13 +49,6 @@ True desert has the broad primary landscape pavement classification of **erg** (
 
 Scarps and wadis represent the most complex and potentially productive dryland landscape systems. Their natural water concentration, shade-providing cliffs, deep alluvial soils in wadi floors, and natural containment by cliffs make them ideal for settlement and productive agriculture. The Nabatean people demonstrated millennia ago that sophisticated water harvesting and management in wadi systems could support orchards, field crops, and permanent settlements in some of the most arid regions on Earth.
 
-## See Also
-
-- Water Storage in Scarp and Wadi Landscapes
-- Desert Dune Stabilisation
-- Fold Mountains in Drylands
-- Nabatean Water Harvesting Systems
-
 ## Overview
 Desert Scarps And Wadis represents an important component within sustainable
 design and ecological management systems. Understanding its role
@@ -98,7 +91,12 @@ Desert Scarps And Wadis has been recognized for its contributions to various fie
 Traditional knowledge systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
+
 ## See Also
+- Water Storage in Scarp and Wadi Landscapes
+- Desert Dune Stabilisation
+- Fold Mountains in Drylands
+- Nabatean Water Harvesting Systems
 - [[desert-house-water-energy-conservation]]
 - [[fukuoka-desert-succession-ecology]]
 - [[gilgai-desert-swales-mollison]]

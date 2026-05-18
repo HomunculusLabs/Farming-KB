@@ -40,12 +40,6 @@ When applying these concepts, consider regional variations, available resources,
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-vision-light-perception]]
-- [[plant-vision-and-phototropism]]
-
 ## Overview
 
 Mescal Bean Sophora Secundiflora Vision Dance represents an important element within sustainable
@@ -123,8 +117,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[what-a-plant-knows-plant-vision-and-light-perception]]
+- [[plant-vision-light-perception]]
+- [[plant-vision-and-phototropism]]
 - [[bean-growing-guide]]
 - [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
 - [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]

@@ -57,11 +57,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[hashish]]
-- [[cannabis-cannabutter-preparation]]
-- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
-
 ## Overview
 
 Cannabis Tincture Preparation represents an important element within sustainable
@@ -139,8 +134,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hashish]]
+- [[cannabis-cannabutter-preparation]]
+- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

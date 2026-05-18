@@ -56,14 +56,6 @@ Maitake is described as requiring "single-minded devotion" — it is more demand
 
 With proper technique, synthetic log cultivation of maitake can produce fruiting bodies within 2-3 months of inoculation. Biological efficiency (fresh weight of mushrooms / dry weight of substrate) typically ranges from 50-100% over multiple flushes.
 
-## See Also
-
-- [[maitake-mushroom-research]]
-- [[maitake-cultivation-guide]]
-- [[medicinal-mushroom-guide-maitake]]
-- [[psilocybin-mushroom-cultivation-basics]]
-- [[psilocybin-mushroom-cultivation]]
-
 ## Related
 
 - [[mushroom-substrates]]
@@ -147,4 +139,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[maitake-mushroom-research]]
+- [[maitake-cultivation-guide]]
+- [[medicinal-mushroom-guide-maitake]]
+- [[psilocybin-mushroom-cultivation-basics]]
+- [[psilocybin-mushroom-cultivation]]

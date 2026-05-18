@@ -24,11 +24,6 @@ ability to produce [[ligninolytic-enzyme-production-bioremediation]]
 - Evaluate the long-term sustainability of fungal communities in
   constructed wetland systems
 
-## See Also
-
-- [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]]
-- singh-fungal-lignin-degradation-pulp-effluents
-
 ## Overview
 
 Singh Constructed Wetlands Fungal Wastewater Treatment represents an important element within sustainable
@@ -106,8 +101,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]]
+- singh-fungal-lignin-degradation-pulp-effluents
 - [[singh-ddt-endosulfan-fungal-degradation]]
 - [[singh-fungal-biosorbents-mycosorption-mechanisms]]
 - [[singh-genetically-engineered-fungi-bioremediation]]

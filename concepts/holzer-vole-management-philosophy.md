@@ -63,11 +63,6 @@ in this topic. Understanding these considerations helps practitioners make
 informed decisions and avoid common pitfalls. Environmental conditions,
 timing, and material selection all play critical roles.
 
-## See Also
-- [[psilocybin]]
-- [[psilocin]]
-- [[permaculture]]
-
 ## Overview
 
 Holzer Vole Management Philosophy represents an important element within sustainable
@@ -145,6 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin]]
+- [[psilocin]]
+- [[permaculture]]
 - [[holzer-alpine-plant-cultivation]]

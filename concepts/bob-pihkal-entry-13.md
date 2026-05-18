@@ -45,11 +45,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[ethanol]]
-- [[pihkal-entry-46]]
-- [[2c-c-pihkal-entry-22]]
-
 ## Overview
 
 Bob Pihkal Entry 13 represents an important element within sustainable
@@ -127,8 +122,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ethanol]]
+- [[pihkal-entry-46]]
+- [[2c-c-pihkal-entry-22]]
 - [[4-t-tris-entity-pihkal]]
 - [[doc-pihkal-64]]
 - [[dopr-entity-pihkal]]

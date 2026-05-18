@@ -61,10 +61,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-
 ## Overview
 
 Psychedelic Terminology Hallucinogenic Entheogenic represents an important element within sustainable
@@ -142,8 +138,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
 - [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
 - [[psychedelic-combination-guide]]
 - [[psychedelic-paradigm-shifting-and-reality-reconception]]

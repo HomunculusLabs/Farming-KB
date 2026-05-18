@@ -90,15 +90,13 @@ For permaculture practitioners, the lessons of ecological succession include:
 
 - **Think in cycles**: Long-term thinking about cycles of change (decades to centuries) is necessary for truly sustainable design, not just seasonal planning.
 
-## See Also
 
+## See Also
 - Permaculture design principles
 - Food forests and agroforestry
 - Soil foodweb and microbial ecology
 - Fire ecology and indigenous land management
 - Energy descent and post-industrial adaptation
-
-## See Also
 - [[permaculture-landscape-energy-storage-water-soil-trees-seed]]
 - [[mollison-designers-soil-water-storage-in-forest-systems]]
 - [[holmgren-catch-and-store-energy-four-landscape-storages]]

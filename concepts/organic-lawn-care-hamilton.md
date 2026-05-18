@@ -55,11 +55,6 @@ communities, and systematic experimentation to build expertise.
 
 Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
 
-## See Also
-
-- [[propagation-methods-organic]]
-- [[organic-fertilizer-recipes]]
-
 ## Overview
 
 Organic Lawn Care Hamilton represents an important element within sustainable
@@ -137,8 +132,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[propagation-methods-organic]]
+- [[organic-fertilizer-recipes]]
 - [[comparison-biodynamic-farming-vs-organic-farming]]
 - [[eliot-coleman]]
 - [[mckenna-radio-entelechy-organic-matrix-ripping]]

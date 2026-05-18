@@ -42,10 +42,6 @@ improving stream health, increasing biodiversity, improving [[growing-gourmet-my
 include Boletus edulis with pines and Cantharellus cibarius with oaks
 and firs.
 
-## See Also
-
-- [[mycoforestry-spored-oil-techniques]] -- spored oil method
-- [[forest-ecology-basics]] -- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] fundamentals
 ## Practical Considerations
 
 Successful implementation of Mycoforestry: Forest Management with Mushrooms requires attention to
@@ -142,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycoforestry-spored-oil-techniques]] -- spored oil method
+- [[forest-ecology-basics]] -- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] fundamentals
 - [[growing-gourmet-iconic-types-mushroom-mycelium]]
 - [[mycelium-digestive-membrane-information-network]]
 - [[mycelium-running-insect-fungal-mutualism]]

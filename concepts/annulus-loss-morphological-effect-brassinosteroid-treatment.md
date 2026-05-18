@@ -16,11 +16,6 @@ One of the most intriguing observations reported by Gartz, Adam, and Vorbrodt (1
 
 The absence of the annulus in brassinosteroid-treated cultures has significant implications for [[fungal-microscopic-examination-mounting-media-techniques]] of the partial veil during development in brassinosteroid-treated versus control cultures could reveal whether the veil forms normally but fails to persist, or whether its initial formation is already altered. Gene expression studies could identify which developmental pathways are affected by brassinosteroid treatment, and whether known fungal hormone signaling pathways are involved. Comparative studies with other brassinosteroid compounds and other mushroom species would help determine whether this is a general effect of brassinosteroids on agaric development or a species-specific response.
 
-## See Also
-
-- [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]
-- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
-
 ## Practical Considerations
 
 When working with Annulus Loss Morphological Effect of Brassinosteroid Treatment, several practical factors should be
@@ -118,10 +113,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]
+- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 - [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]]
 - [[cervantes-genetic-bottleneck-and-diversity-loss]]
 - [[desertification-and-vegetation-loss]]
-- [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]
 - [[soil-formation-and-topsoil-loss]]

@@ -57,11 +57,6 @@ Techniques discussed here can be adapted across a wide range of scales, from sma
 
 Climate adaptation is essential for long-term success. What works in temperate regions may require significant modification for tropical or arid environments. Local knowledge, experimentation, and careful observation of results guide successful adaptation across diverse conditions and resource availability levels.
 
-## See Also
-
-- [[cannabis-photoperiodism-and-light-cycles]] -- understanding light schedules for re-vegging
-- [[topping-cannabis]] -- further increasing branching on re-vegged plants
-- [[cannabis-nutrient-recipes]] -- nitrogen-rich feeding for re-vegetation
 ## Practical Applications
 
 Monster-Cropping has a range of practical applications that make it relevant to
@@ -114,8 +109,11 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 
-## See Also
 
+## See Also
+- [[cannabis-photoperiodism-and-light-cycles]] -- understanding light schedules for re-vegging
+- [[topping-cannabis]] -- further increasing branching on re-vegged plants
+- [[cannabis-nutrient-recipes]] -- nitrogen-rich feeding for re-vegetation
 - [[query-what-is-monster-cropping-and-should-i-try-it]]
 - [[agroforestry-and-alley-cropping]]
 - [[alley-cropping]]

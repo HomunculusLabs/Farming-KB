@@ -11,10 +11,6 @@ type: concept
 bioinformatics tools improve, comprehensive global maps of fungal diversity
 from eDNA data are becoming an achievable goal.
 
-## See Also
-
-- [[mycorrhizal-fungi-diversity]]
-
 ## Practical Considerations
 
 When working with Fungal Environmental DNA, several practical factors should be
@@ -53,11 +49,6 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
-
-## See Also
-- [[doc]]
-- [[dom]]
-- [[det]]
 
 ## Overview
 
@@ -136,8 +127,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhizal-fungi-diversity]]
+- [[doc]]
+- [[dom]]
+- [[det]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[plant-fungal-signaling-mycorrhiza]]

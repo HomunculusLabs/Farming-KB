@@ -53,11 +53,6 @@ tubes were easily separable, it was specifically a boletus.
 
 Of all the major families of toadstools, Palmer expressed the greatest
 
-## See Also
-- [[mold-identification-guide]]
-- [[ramsbottom-poisonous-fungi-identification-guide]]
-- [[psilocybin-mushroom-identification-guide]]
-
 ## Overview
 
 Palmer Boleti Guide Identification represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mold-identification-guide]]
+- [[ramsbottom-poisonous-fungi-identification-guide]]
+- [[psilocybin-mushroom-identification-guide]]
 - [[mushroom-toxicology-palmer-theory]]
 - [[palmer-amanitine-poison-classification-treatment]]
 - [[palmer-fungus-reproduction-spawn]]

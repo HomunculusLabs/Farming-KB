@@ -79,13 +79,10 @@ The advice is clear: experiment by all means, but only on a small scale and with
 
 Despite the risks, mushroom growing is an established industry. The figures regarding its development in recent years indicate that when freed from fake advertisers and fake growers, it will succeed throughout the United States just as it has succeeded throughout France. The transformation from an industry dependent on unreliable imported spawn and shrouded in secrecy to one built on scientific pure culture methods and open information represents one of the most remarkable success stories in American agricultural history.
 
-## See Also
 
+## See Also
 - [[mushroom-market-and-production-history]]
 - [[mushroom-processing-recipes-waste-management]]
-
-## See Also
-
 - [[telluride-mushroom-festival-modern-mycological-culture]]
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
 - [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]

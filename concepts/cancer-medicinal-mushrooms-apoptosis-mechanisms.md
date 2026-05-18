@@ -19,12 +19,6 @@ which several [[ganoderma-lucidum]]
 - cancer [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
 - [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]
 - [[cancer-medicinal-mushrooms-maitake-d-fraction]]
-## See Also
-
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[cancer-medicinal-mushrooms-hericium-erinaceus]]
-- [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
-
 ## Overview
 
 Cancer Medicinal Mushrooms Apoptosis Mechanisms represents an important element within sustainable
@@ -102,10 +96,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
+- [[cancer-medicinal-mushrooms-hericium-erinaceus]]
+- [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
 - [[blesching-cannabis-liver-cancer]]
 - [[cancer-agaricus-blazei]]
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 - [[cancer-medicinal-mushrooms-mixed-extracts-synergism]]
 - [[cannabis-for-colon-cancer]]

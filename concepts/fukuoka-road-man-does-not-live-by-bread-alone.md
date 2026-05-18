@@ -29,11 +29,6 @@ vaguest idea what real food is. It can't tell us why, how,
 and in what way man eats and should eat. It can't explain
 the true source, meaning, and goal of life. See [[fukuoka-road-all-one-has-to-do-is-live]]
 
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
-creative adaptation to local conditions and emerging challenges.
-
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
@@ -78,7 +73,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] and research directions.
 
+
 ## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+creative adaptation to local conditions and emerging challenges.
 - [[det]]
 - [[fukuoka-road-all-one-has-to-do-is-live]]
 - [[fukuoka-textdoc-man-sole-heretic-natural-order]]

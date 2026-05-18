@@ -29,11 +29,6 @@ Key biological strategies include:
   strategy. See mollison-green-manure-soil-fertility.
 - **Legume integration**: Nitrogen-fixing legumes generally prefer slightly
   acidic conditions and their [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]].
-## See Also
-- [[mollison-designers-avalanche-awareness-and-snow-stability]]
-- [[mollison-designers-mulch-pit-interplanting-technique]]
-- [[mollison-designers-roof-water-catchment-calculations]]
-- [[mollison-designers-traditional-irrigation-systems]]
 ## Practical Considerations
 
 Successful implementation of Soil pH and Mineral Amendments requires attention to
@@ -130,8 +125,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-designers-avalanche-awareness-and-snow-stability]]
+- [[mollison-designers-mulch-pit-interplanting-technique]]
+- [[mollison-designers-roof-water-catchment-calculations]]
+- [[mollison-designers-traditional-irrigation-systems]]
 - [[humid-cool-climate-characteristics-mollison]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-climate-zone-3-farm-forestry]]

@@ -51,14 +51,6 @@ of liquid feeds before the foliage dies down.
   next year's flower
 - Mulch over dormant bulbs with well-rotted manure or compost
 
-## See Also
-
-- [[hamilton-annual-flowers-organic]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -91,7 +83,13 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[hamilton-annual-flowers-organic]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[hamilton-ornamental-shrub-care]]
 - [[hamilton-root-vegetables-growing]]
 - [[hamilton-potting-compost-recipes-and-growing-media]]

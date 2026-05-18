@@ -25,9 +25,6 @@ identify opportunities for implementation in their own contexts.
 Integration with other systems and approaches often yields the most
 robust and resilient outcomes. Rather than treating this topic in
 
-## See Also
-- [[mollison-permaculture-two-introduction-design-principles]]
-
 ## Overview
 
 Mollison Village Enterprises Occupations represents an important element within sustainable
@@ -105,8 +102,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-permaculture-two-introduction-design-principles]]
 - [[hypnodinium-mollison]]
 - [[mollison-arid-lands-aquatic-species]]
 - [[mollison-orographic-and-forest-rainfall-effects]]

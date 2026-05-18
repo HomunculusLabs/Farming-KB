@@ -27,14 +27,6 @@ When applying these concepts, consider regional variations, available resources,
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
-
-- [[terence-mckenna-tryptamine-hypothesis]]
-- [[terence-mckenna]]
-- [[mckenna-archaic-revival]]
-- [[psychedelic-mushroom-set-and-setting]]
-- [[leary-psychedelic-experience-bardo-mapping]].
-
 ## Archaeological Evidence: The Tassili Plateau
 The [[mckenna-abandonment-of-the-mystery]].
 
@@ -120,8 +112,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[terence-mckenna-tryptamine-hypothesis]]
+- [[terence-mckenna]]
+- [[mckenna-archaic-revival]]
+- [[psychedelic-mushroom-set-and-setting]]
+- [[leary-psychedelic-experience-bardo-mapping]].
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

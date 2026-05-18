@@ -52,8 +52,6 @@ Disadvantages include lower nutrient density, less selectivity (fewer
 beneficial microorganisms than compost), and generally lower yields per
 pound of substrate compared to properly prepared compost.
 
-## See Also
-
 ## Overview
 
 Pasteurized Straw Cultivation Techniques represents an important element within sustainable
@@ -131,8 +129,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[fukuoka-one-straw-revolution-principles]]
 - [[oyster-mushroom-pasteurized-straw-cultivation]]
 - [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]

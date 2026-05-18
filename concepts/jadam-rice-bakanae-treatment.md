@@ -32,11 +32,6 @@ This solution can fully replace chemical seed disinfectants.
 - The method works by disrupting the Fusarium fungus on the seed surface during the long cold soak
 - This is one of JADAM's signature inventions listed among Youngsang Cho's major achievements
 
-## See Also
-
-- [[ultra-low-jadam-sulfur-js]]
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
-- [[jadam-natural-vs-chemical-pesticide]]
 ## Practical Considerations
 
 Successful implementation of Rice Bakanae Disease Treatment (JADAM Pesticide Recipe #1) requires attention to
@@ -84,7 +79,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[ultra-low-jadam-sulfur-js]]
+- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
+- [[jadam-natural-vs-chemical-pesticide]]
 - [[jadam-seed-treatment-and-storage]]
 - [[jadam-seed-treatment-and-nursery-management]]
 - [[jadam-seed-treatment-leaf-mold]]

@@ -10,11 +10,6 @@ type: concept
 # Mycelial Network Dynamics [[gadd-fungal-carbon-sequestration]]
 - **Plant-fungal interactions**: [[gadd-fungal-imaging-techniques]]. Confocal laser scanning microscopy combined with
 fluorescent probes allows visualization of intracellular transport. Photon-
-## See Also
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
-creative adaptation to local conditions and emerging challenges.
-
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
@@ -143,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+creative adaptation to local conditions and emerging challenges.
 - [[gadd-intracellular-signal-transduction-filamentous-fungi]]
 - [[gadd-lichen-biogeochemistry-pioneer]]
 - [[gadd-mineral-transformations-biogeochemistry]]

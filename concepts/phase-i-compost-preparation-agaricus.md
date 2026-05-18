@@ -33,9 +33,6 @@ Two fundamental compost types exist:
   stable manure is heavier with more urine and droppings.
 - **Synthetic compost**: Uses no horse manure. Straw, sometimes
   mixed with hay, is the base ingredient. Because straw is low
-## See Also
-- [[thermophilic-fungi]]
-
 ## Merged: Compost Preparation for Agaricus Cultivation
 
 # Compost Preparation for Agaricus Cultivation
@@ -146,4 +143,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[thermophilic-fungi]]

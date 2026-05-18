@@ -29,12 +29,6 @@ fungal surveys valuable tools for forest monitoring and management.
 
 Understanding [[fungal-biodiversity-forest-ecosystems]]
 
-## See Also
-
-- [[fungal-ecology]]
-- [[spore]]
-- [[mycelium]]
-
 ## Overview
 
 Fungal Ecology Forest Ecosystems represents an important element within sustainable
@@ -112,8 +106,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-ecology]]
+- [[spore]]
+- [[mycelium]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[fungal-phylogeny-classification]]
 - [[fungal-siderophore-detection-analytical-methods]]

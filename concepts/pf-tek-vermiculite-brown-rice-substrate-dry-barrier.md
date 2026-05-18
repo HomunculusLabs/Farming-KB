@@ -15,10 +15,6 @@ cc total per jar (allowing 10 jars per standard syringe).
 If the needle plugs du [[accessible-mushroom-cultivation-for-disabilities]] methods comparison
 - [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]] [[pf-tek-perlite-humidification-evaporation-dynamics]] mushroom cultivation
 
-## See Also
-
-- [[pf-tek-brown-rice-vermiculite-method]]
-
 ## Overview
 
 Pf Tek Vermiculite Brown Rice Substrate Dry Barrier represents an important element within sustainable
@@ -96,8 +92,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pf-tek-brown-rice-vermiculite-method]]
 - [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]]
 - [[comparison-white-rot-vs-brown-rot-fungi]]
 - [[dry-vermiculite-contaminant-barrier-pf-tek]]

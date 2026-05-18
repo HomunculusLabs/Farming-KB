@@ -45,13 +45,6 @@ government, were the cause of persecution.
 Despite these errors, Allegro was a pioneer in entheogen-culture|ethnomycology and founded many ideas that researchers in the field still use today,
 though most deny the connection.
 
-## See Also
-
-- [[allegro-death-and-resurrection-in-the-mushroom-cult]] -- Easter and Anthesteria
-- [[ayahuasca]]
-- [[dom]]
-- [[amanita-muscaria]]
-
 ## Overview
 
 Allegro Main Thesis represents an important element within sustainable
@@ -129,8 +122,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[allegro-death-and-resurrection-in-the-mushroom-cult]] -- Easter and Anthesteria
+- [[ayahuasca]]
+- [[dom]]
+- [[amanita-muscaria]]
 - [[allegro-bible-morals-ten-commandments-mushroom-word-play]]
 - [[allegro-fungal-iconography-in-ancient-art]]
 - [[allegro-religion-prehistory-oral-tradition-etymology]]

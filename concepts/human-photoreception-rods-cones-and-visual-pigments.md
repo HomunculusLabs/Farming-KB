@@ -63,11 +63,6 @@ colours like red.
 
 Beyond the visible spectrum, ultraviolet light has shorter
 
-## See Also
-
-- [[phytochrome-photoreception]] - Phytochrome photoreceptor systems
-- phytochrome and plant [[darwin-phototropism-discovery-plant-light-perception]] - Darwin's
-  phototropism experiments
 ## Practical Considerations
 
 Successful implementation of Human human photoreception rods cones and visual pigments Cones And Visual Pigments requires attention to
@@ -115,7 +110,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[phytochrome-photoreception]] - Phytochrome photoreceptor systems
+- phytochrome and plant [[darwin-phototropism-discovery-plant-light-perception]] - Darwin's
+  phototropism experiments
 - [[det]]
 - [[phototropism]]
 - [[phytochrome]]

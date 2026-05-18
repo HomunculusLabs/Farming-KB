@@ -37,10 +37,6 @@ selenium-accumulating Astragalus species, each with distinct
 toxicological mechanisms but similar ecological triggers related to
 overgrazing-induced community shifts.
 
-## See Also
-- [[savory-livestock-grazing-planning]]
-- [[savory-technology-as-management-tool]]
-
 ## Overview
 
 Savory Locoweed And Poisonous Plant Management represents an important element within sustainable
@@ -118,8 +114,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-livestock-grazing-planning]]
+- [[savory-technology-as-management-tool]]
 - [[savory-drought-planning-and-reserves]]
 - [[savory-holistic-decision-making]]
 - [[savory-holistic-resource-management-animal-impact]]

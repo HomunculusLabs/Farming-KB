@@ -81,9 +81,6 @@ norepinephrine.
 The demethylated homologue, BOHH, is the methylenedioxy
 analogue of norepinephrine itself and might hydrolytically open
 
-## See Also
-- [[bob-pihkal-entry-13]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -112,7 +109,8 @@ these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[bob-pihkal-entry-13]]
 - [[bis-tom-pihkal-entry-12]]
 - [[2c-c-pihkal-entry-22]]
-- [[bob-pihkal-entry-13]]

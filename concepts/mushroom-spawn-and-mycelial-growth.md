@@ -54,15 +54,6 @@ Modern spawn production involves laboratory-scale sterile technique:
 The spawn industry has developed specialized facilities with laminar flow hoods,
 autoclaves, and climate-controlled incubation rooms to ensure consistent quality.
 
-## See Also
-
-- [[agaricus-campestris-biology-and-life-cycle]]
-- [[mushroom-market-and-production-history]]
-- [[mushroom-substrate-preparation]]
-- [[grain-spawn-preparation]]
-
-Continued research into mushroom spawn and mycelial growth expands the knowledge base for ecological design.
-
 ## Overview
 
 Mushroom Spawn And Mycelial Growth represents an important element within sustainable
@@ -140,8 +131,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[agaricus-campestris-biology-and-life-cycle]]
+- [[mushroom-market-and-production-history]]
+- [[mushroom-substrate-preparation]]
+- [[grain-spawn-preparation]]
+Continued research into mushroom spawn and mycelial growth expands the knowledge base for ecological design.
 - [[classic-mushroom-recipes-traditional-preparations]]
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

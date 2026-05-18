@@ -62,12 +62,6 @@ also reduce evapotranspiration from protected areas, effectively
 increasing available moisture. On farms with [[mollison-designers-rainwater-harvesting-swale-systems]] and
 [[mollison-designers-rainwater-harvesting-swale-systems]]: Watershed forest role
 
-## See Also
-
-- [[chamaecyparis-lawsoniana]]
-
-- [[metasequoia-glyptostroboides]]
-
 ## Overview
 
 Mollison Designers Conifer Forestry And Timber represents an important element within sustainable
@@ -145,6 +139,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[chamaecyparis-lawsoniana]]
+- [[metasequoia-glyptostroboides]]
 - [[mentha-aquatica-mollison]]

@@ -62,8 +62,6 @@ carbon from the plant is traded for nutrients from the fungus:
 - Plants allocate 10 to 20 percent of total photosynthetically fixed
   carbon to AM fungal partners, primarily as lipids (triacylglycerols)
   and sugars
-## See Also
-
 ## Overview
 
 Singh Mycorrhiza Mediated Plant Nutrient Uptake Pathways represents an important element within sustainable
@@ -141,8 +139,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

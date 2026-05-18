@@ -40,14 +40,6 @@ The symbiote hypothesis also implies that the relationship is not merely histori
 
 This framing has profound implications for how we understand the history of religion, the nature of artistic inspiration, and the persistent human intuition that consciousness is not an isolated phenomenon confined to individual brains but participates in a larger, shared informational reality.
 
-## See Also
-
-- nag hammadi library gnostic texts
-- philip k dick valis exegesis
-- gnostic cosmology sophia demiurge
-- mushroom consciousness teaching entity
-- tryptamine hyperspace information dimension
-
 ## Overview
 
 Mckenna Nag Hammadi Logos Hibernation Valis represents an important element within sustainable
@@ -125,8 +117,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- nag hammadi library gnostic texts
+- philip k dick valis exegesis
+- gnostic cosmology sophia demiurge
+- mushroom consciousness teaching entity
+- tryptamine hyperspace information dimension
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

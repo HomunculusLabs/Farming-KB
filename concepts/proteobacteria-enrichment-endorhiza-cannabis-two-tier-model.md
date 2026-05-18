@@ -14,11 +14,6 @@ restructures the community, offering a metric that can be compared across
 plant species and [[weed-management-strategies]] that promote Rhizobiales populations, potentially
 enhancing the beneficial functions they provide.
 
-## See Also
-
-[[endorhiza-microbiome]]
-[[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]
-
 ## Overview
 
 Proteobacteria Enrichment Endorhiza Cannabis Two Tier Model represents an important element within sustainable
@@ -96,8 +91,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[endorhiza-microbiome]]
+[[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]
 - [[cannabis-strain-starship]]
 - [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]

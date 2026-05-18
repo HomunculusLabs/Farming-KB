@@ -38,13 +38,6 @@ Some practitioners age their pressed hashish for weeks or months before consumpt
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[cannabis-oil-purification-techniques]]
-- [[comparison-cannabis-kief-collection-vs-hashish-guide]]
-- [[hashish-production-methods]]
-- [[dom]]
-- [[petroleum-ether]]
-
 ## Overview
 
 Cannabis Hashish From Extracted Oil Techniques represents an important element within sustainable
@@ -122,8 +115,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-oil-purification-techniques]]
+- [[comparison-cannabis-kief-collection-vs-hashish-guide]]
+- [[hashish-production-methods]]
+- [[dom]]
+- [[petroleum-ether]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
 - [[cannabis-musculoskeletal-conditions]]

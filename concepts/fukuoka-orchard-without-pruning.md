@@ -15,13 +15,6 @@ One of Masanobu Fukuoka's most radical and counterintuitive practices was the ab
 
 Soil management techniques such as green manure cultivation and sod cultivation that eliminate weeding and tillage simultaneously make fertilizer-free cultivation possible. With pest and [[holzer-fruit-growing-marginal-climates]] tend to change with the times, but the natural form of a tree remains always the same. Use of the natural form is the best approach possible for stable, labor-saving, high-yield [[fukuoka-natural-orchard-management]], [[fukuoka-natural-pest-balance]]
 
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -60,11 +53,6 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
-
-## See Also
-- [[doc]]
-- [[fukuoka-orchard-management-without-pruning]]
-- [[fukuoka-textdoc-no-weeding-no-fertilizer-no-pruning-orchard-conclusion]]
 
 ## Overview
 
@@ -143,8 +131,15 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+- [[doc]]
+- [[fukuoka-orchard-management-without-pruning]]
+- [[fukuoka-textdoc-no-weeding-no-fertilizer-no-pruning-orchard-conclusion]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

@@ -63,10 +63,6 @@ integrates with [[fungal-mycelial-networks-nutrient-translocation]] physically t
 3. **Regulatory acceptance**: Not yet widely recognized as standalone
    treatment
 4. **Scalability**: Commercial-scale production requires standardization
-## See Also
-
-- [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-
 ## Overview
 
 Singh Mycofiltration Water Runoff represents an important element within sustainable
@@ -144,7 +140,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[singh-fungal-biosorbents-mycosorption-mechanisms]]
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]

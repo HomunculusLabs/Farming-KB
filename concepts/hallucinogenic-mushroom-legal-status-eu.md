@@ -16,14 +16,6 @@ toxicity risks. Purple Ohms capsules ([[emcdda-return-to-nature-megatrend-mushro
 interest in organic products, and smartshop commercial interests all played roles. Future work on
 emerging drug trends must consider how contextual forces reinforce or legitimate regulation.
 
-## See Also
-
-- [[psilocybe-cubensis]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -69,11 +61,6 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
-
-## See Also
-- shamanism
-- [[hallucinogenic-mushroom-legal-status-europe]]
-- [[hallucinogenic-mushroom-legal-status-european-union]]
 
 ## Overview
 
@@ -148,3 +135,14 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
+
+
+## See Also
+- [[psilocybe-cubensis]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+- shamanism
+- [[hallucinogenic-mushroom-legal-status-europe]]
+- [[hallucinogenic-mushroom-legal-status-european-union]]

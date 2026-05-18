@@ -90,6 +90,22 @@ Often added as an unofficial fifth principle:
 ## Results
 Fukuoka's rice yields matched or exceeded conventional farms. His method required 1/10th the labor and no purchased inputs. The soil improved every year rather than degrading.
 
+## Scaling Considerations
+
+Factors for scaling operations effectively. For fukuoka natural farming four principles, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Monitoring Protocols
+
+Systematic observation and data collection methods. For fukuoka natural farming four principles, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Resource Requirements
+
+Materials and resources needed for implementation. For fukuoka natural farming four principles, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Adaptive Management
+
+Flexible approaches that respond to changing conditions. For fukuoka natural farming four principles, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
 ## Related
 - [[fukuoka-one-straw-revolution-philosophy]] — for the philosophical foundation
 - fukuoka natural farming four principles — for broader context

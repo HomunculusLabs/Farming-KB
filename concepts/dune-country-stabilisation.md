@@ -62,13 +62,6 @@ Once stabilised, dunes must be protected from:
 - **Badly aligned roads**: Which can reactivate sand movement.
 - **Sand mining**: Particularly to windward of stabilised areas.
 
-## See Also
-
-- [[desert-scarps-and-wadis]]
-- Scalds and Claypans
-- Pelleted Seed for Dryland Revegetation
-- Desert Forestry
-
 ## Overview
 
 Dune Country Stabilisation represents an important element within sustainable
@@ -146,4 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[desert-scarps-and-wadis]]
+- Scalds and Claypans
+- Pelleted Seed for Dryland Revegetation
+- Desert Forestry

@@ -100,14 +100,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[aldous-huxley]]
 - [[hallucinogenic-drugs]]
 - [[albert-hofmann]]
 - [[mckenna-huxley-mind-at-large-reducing-valve]]
 - [[phytochrome-plant-light-perception]]
-## See Also
-
 - [[hofmann-ernst-juenger-shared-lsd-drug-literature]] — The Hofmann-Jünger relationship
 - [[travels-universe-soul-varied-lsd-experience-reports]] — Other experience accounts
 - [[psilocybin-synthesis]] — Hofmann's identification of the mushroom alkaloids

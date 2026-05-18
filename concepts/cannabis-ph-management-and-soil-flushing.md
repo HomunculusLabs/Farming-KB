@@ -13,14 +13,6 @@ pH management is one of the most critical yet frequently overlooked aspects of [
 
 See [[cannabis-soil-and-nutrients]] for soil mix recipes that include pH buffering agents.
 
-## See Also
-
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]]
-- [[cannabis-womens-health]]
-- [[doc]]
-- [[cannabis-soil-and-nutrient-requirements]]
-- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
-
 ## Overview
 
 Cannabis Ph Management And Soil Flushing represents an important element within sustainable
@@ -98,8 +90,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-nutrient-deficiency-and-toxicity-guide]]
+- [[cannabis-womens-health]]
+- [[doc]]
+- [[cannabis-soil-and-nutrient-requirements]]
+- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-chemdawg-origin-story-lineage]]
 - [[cannabis-light-spectrum-and-color-bands]]

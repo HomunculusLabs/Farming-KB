@@ -44,12 +44,6 @@ No nutrient leeching occurs. Better control over moisture and feeding.
 8. Keep soil sterile -- no outdoor soil, sticks, or organic matter
    from outside
 
-## See Also
-
-- [[composting]]
-- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
-- [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]
-
 ## Overview
 
 Green Cannabis Soil Mixes represents an important element within sustainable
@@ -127,8 +121,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[composting]]
+- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
+- [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]
 - [[cervantes-screen-of-green-technique]]
 - [[green-cannabis-dry-sift-water-extraction]]
 - [[green-cannabis-grow-bible-vegetative-phase-management]]

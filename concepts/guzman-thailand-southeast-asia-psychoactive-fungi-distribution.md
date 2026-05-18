@@ -61,14 +61,6 @@ Several questions about Southeast Asian neurotropic fungi remain open:
 - Indigenous knowledge of psychoactive mushrooms in more remote regions of Myanmar, Laos, and Cambodia has been poorly documented
 - The impact of deforestation and agricultural intensification on neurotropic fungal populations has not been studied
 
-## See Also
-
-- [[guzman-allen-gartz-india-neurotropic-fungi-diversity-psychoactive-species]]
-- psilocybe samuiensis koh samui discovery
-- copelandia cyanescens tropical distribution
-- psilocybe cubensis pantropical species
-- allen merlin thailand ethnomycology
-
 ## Overview
 
 Guzman Thailand Southeast Asia Psychoactive Fungi Distribution represents an important element within sustainable
@@ -146,4 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[guzman-allen-gartz-india-neurotropic-fungi-diversity-psychoactive-species]]
+- psilocybe samuiensis koh samui discovery
+- copelandia cyanescens tropical distribution
+- psilocybe cubensis pantropical species
+- allen merlin thailand ethnomycology

@@ -60,12 +60,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[cover-crops]]
-- [[mycorrhiza]]
-- [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]
-
 ## Overview
 
 Jadam Salt Accumulation In Soil represents an important element within sustainable
@@ -143,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cover-crops]]
+- [[mycorrhiza]]
+- [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]
 - [[jadam-anaerobic-fermentation-principles]]
 - [[jadam-element-function-reference]]
 - [[jadam-herbal-smoker-livestock]]

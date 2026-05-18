@@ -59,11 +59,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[ayahuasca]]
-- [[psilocybin]]
-- [[tryptophan]]
-
 ## Overview
 
 Dmt Entity Encounters And The Logos represents an important element within sustainable
@@ -141,8 +136,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ayahuasca]]
+- [[psilocybin]]
+- [[tryptophan]]
 - [[2c-c-entity]]
 - [[2c-o-4-entity]]
 - [[4-ho-dbt-entity-tihkal]]

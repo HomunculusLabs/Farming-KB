@@ -45,13 +45,6 @@ In an Asahi Shimbun essay, Fukuoka captures his philosophy in a single image: "T
 
 updated: 2026-04-18
 
-## See Also
-
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-- [[masanobu-fukuoka]]
-- [[permaculture]]
-- [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]]
-
 ## Overview
 
 Fukuoka Visit To Africa Detailed represents an important element within sustainable
@@ -129,8 +122,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
+- [[masanobu-fukuoka]]
+- [[permaculture]]
+- [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

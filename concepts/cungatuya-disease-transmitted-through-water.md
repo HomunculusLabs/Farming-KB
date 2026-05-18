@@ -38,11 +38,6 @@ The presence of these plants near the patient or in the sorcerer's toolkit repre
 
 Cungatuya encodes practical public health knowledge within a shamanic framework: the importance of covering water containers to prevent contamination by animals. The mashu (bat) serves as a memorable mythological vector for what is, in biological terms, waterborne disease transmission. The elaborate visual vocabulary of the vision — phlegm, worms, leeches, electric fish — may encode empirical observations about the symptoms and progression of waterborne illnesses in the Amazon, where sanitation infrastructure is limited and waterborne diseases remain a significant health concern.
 
-## See Also
-
-- [[ayahuasca-ceremony-and-mariri-system]]
-- [[shamanic-powers-and-mariris]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -70,11 +65,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[cuncatuya]]
-- shamanism
-- [[theobroma-cacao]]
 
 ## Overview
 
@@ -147,3 +137,11 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
+
+
+## See Also
+- [[ayahuasca-ceremony-and-mariri-system]]
+- [[shamanic-powers-and-mariris]]
+- [[cuncatuya]]
+- shamanism
+- [[theobroma-cacao]]

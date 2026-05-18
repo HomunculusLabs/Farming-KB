@@ -46,11 +46,6 @@ In 2007, a team from [[cannabis-for-cancer-patients]] for broader cancer applica
 
 Source: Uwe Blesching, The Cannabis Health Index (2015)
 
-## See Also
-
-- [[cannabis-for-endometriosis]]
-- [[cannabis-for-fibromyalgia]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -79,7 +74,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cannabis-for-endometriosis]]
+- [[cannabis-for-fibromyalgia]]
 - [[doc]]
 - [[dom]]
 - [[dronabinol]]

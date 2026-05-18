@@ -65,12 +65,6 @@ Fat is the most difficult nutrient to produce in a small garden:
 - 2 people: ~5,000-6,000 sq ft (economies of scale; paths stay the same)
 - Family of 4: ~8,000-10,000 sq ft (about 1/5 to 1/4 acre)
 
-## See Also
-
-- [[biointensive-seed-saving]]
-- [[dom-compound-profile]]
-- [[permaculture-food-storage-and-preservation]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -99,7 +93,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[biointensive-seed-saving]]
+- [[dom-compound-profile]]
+- [[permaculture-food-storage-and-preservation]]
 - [[jerusalem-artichoke]]
 - [[jeavons-diet-design-self-sufficiency]]
 - [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]

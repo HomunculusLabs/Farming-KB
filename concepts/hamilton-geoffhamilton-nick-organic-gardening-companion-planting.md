@@ -19,16 +19,6 @@ contribute significantly to [[savory-growing-season-and-non-growing-season-manag
   insects
 - Experiment and keep records — some companion combinations work better
   in some gardens than others
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-- [[hamilton-organic-pest-control]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -66,11 +56,6 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
-
-## See Also
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 
 ## Overview
 
@@ -148,3 +133,16 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+
+
+## See Also
+- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
+- [[hamilton-organic-pest-control]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]

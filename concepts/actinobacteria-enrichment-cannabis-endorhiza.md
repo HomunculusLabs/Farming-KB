@@ -58,11 +58,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[dom]]
-- [[det]]
-- [[indole]]
-
 ## Overview
 
 Actinobacteria Enrichment Cannabis Endorhiza represents an important element within sustainable
@@ -140,8 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[det]]
+- [[indole]]
 - [[cervantes-co2-enrichment]]
 - [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
 - [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]

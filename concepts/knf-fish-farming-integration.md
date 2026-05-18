@@ -52,12 +52,6 @@ Integrated KNF aquaculture reduces costs by:
 - Converting waste products into resources
 - Reducing labor through natural system maintenance
 
-## See Also
-
-- [[knf-fish-amino-acid]]
-- [[natural-farming-livestock-integration]]
-
-Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Chapters 1, 3.
 ## Practical Considerations
 
 Successful implementation of KNF Fish Farming Integration requires attention to
@@ -98,7 +92,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[knf-fish-amino-acid]]
+- [[natural-farming-livestock-integration]]
+Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Chapters 1, 3.
 - [[composting]]
 - [[sterilization]]
 - [[mycorrhiza]]

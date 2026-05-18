@@ -15,10 +15,6 @@ In regions with cold winters, the annual deep freeze serves as a natural reset m
 - [[cultivar-endorhiza-bacterial-communities-cannabis]], mycorrhizal spores, and [[solomon-crop-rotation-and-garden-planning]]
 - [[aact-disease-suppression-mechanisms-ingham]] mechanisms
 
-## See Also
-
-- [[solomon-soil-mineral-depletion]]
-
 ## Overview
 
 Solomon Soil Freezing Requirements Sustainable Gardening represents an important element within sustainable
@@ -96,8 +92,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[solomon-soil-mineral-depletion]]
 - [[comparison-freezing-vs-canning]]
 - [[mushroom-environmental-requirements-temperature-moisture-light]]
 - [[ozier-pdc-maslows-hierarchy-sustainable-design]]

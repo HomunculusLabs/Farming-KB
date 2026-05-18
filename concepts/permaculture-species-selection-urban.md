@@ -33,11 +33,6 @@ Selecting the right plants for [[permplant-carob-drought-tolerant-food-tree]], p
   sprouts), major fodder, bee forage, soil improver drawing up subsoil nutrients
 - Vetch (Vicia spp.) -- nitrogen fixation, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] (Ipomoea batatas) -- perennial groundcover for orchards, staple
   food, livestock fodder, dies back in frost
-## See Also
-- [[taraxacum-officinale]]
-- [[cichorium-intybus]]
-- [[actinidia-chinensis]]
-
 ## Overview
 
 Permaculture Species Selection Urban represents an important element within sustainable
@@ -115,8 +110,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[taraxacum-officinale]]
+- [[cichorium-intybus]]
+- [[actinidia-chinensis]]
 - [[holzer-permaculture-landscape-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-methods-summary]]

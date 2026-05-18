@@ -38,11 +38,6 @@ penetrates into surface irregularities via the waveguide design, and
 operates at temperatures that do not damage adjacent components because
 heating is localised to the thin water film on the target surfaces.
 
-## See Also
-
-- [[bacillus-pumilus-radiation-resistance-surface-decontamination]]
-- [[microbial-kill-curve-microwave-surface-sterilization-kinetics]]
-
 ## Overview
 
 Microwave Sterilizable Access Port Nasa Msap represents an important element within sustainable
@@ -120,10 +115,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bacillus-pumilus-radiation-resistance-surface-decontamination]]
+- [[microbial-kill-curve-microwave-surface-sterilization-kinetics]]
 - [[dry-microwave-irradiation-spore-resistance]]
 - [[e-coli-pseudomonas-cepacia-microwave-susceptibility-surface-sterilization]]
-- [[microbial-kill-curve-microwave-surface-sterilization-kinetics]]
 - [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
 - [[thermally-gentle-microwave-surface-sterilization]]

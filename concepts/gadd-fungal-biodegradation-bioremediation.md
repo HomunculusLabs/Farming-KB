@@ -55,13 +55,6 @@ Several mycoremediation strategies have been developed:
 - **Lignocellulosic substrate amendments**: Addition of wood chips, sawdust, or straw as growth substrates and nutrient sources for white-rot fungi in contaminated soil.
 - **Mycofiltration**: Use of fungal mycelial mats to filter and degrade contaminants from water flowing through the substrate. Fungal biofilters have been applied to treat stormwater, agricultural runoff, and industrial effluents.
 
-## See Also
-
-- [[gadd-fungal-biochemical-weathering-acidolysis-complexolysis-redoxolysis-protonolysis]]
-- [[gadd-fungal-extreme-environments]]
-- [[gadd-fungal-plant-pathogens]]
-- [[gadd-fungal-reproduction-spores]]
-
 ## Key Considerations
 
 Several important factors influence the effectiveness and outcomes described
@@ -83,7 +76,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[gadd-fungal-biochemical-weathering-acidolysis-complexolysis-redoxolysis-protonolysis]]
+- [[gadd-fungal-extreme-environments]]
+- [[gadd-fungal-plant-pathogens]]
+- [[gadd-fungal-reproduction-spores]]
 - [[pcp]]
 - [[phanerochaete-chrysosporium]]
 - [[mycofiltration]]

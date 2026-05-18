@@ -13,10 +13,6 @@ sources:
 
 The genus *Ascobolus*, discussed by Money, provides a window into the evolutionary transition between epigeous and hypogeous fruiting. These tiny cup fungi grow on dung and have exposed apothecia (cup-shaped fruiting bodies), representing the ancestral condition from which enclosed truffle bodies evolved. Studying *Ascobolus* development helps researchers understand how the shift to underground fruiting occurred.
 
-## See Also
-- fungal-sexuality-and-mating-systems — Reproductive biology underlying truffle formation
-- [[mycorrhizal-mineral-weathering-nutrient-acquisition]] by [[dna-barcoding-fungal-identification]] and for appreciating the evolutionary creativity of the fungal kingdom.
-
 ## Three Main Categories
 
 At an elementary level, three categories of ascomycete fruiting body can be recognized:
@@ -144,7 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- fungal-sexuality-and-mating-systems — Reproductive biology underlying truffle formation
+- [[mycorrhizal-mineral-weathering-nutrient-acquisition]] by [[dna-barcoding-fungal-identification]] and for appreciating the evolutionary creativity of the fungal kingdom.
 - [[african-truffle-species]]
 - [[asian-truffle-species]]

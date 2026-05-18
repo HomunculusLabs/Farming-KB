@@ -20,12 +20,6 @@ Fourier-transform infrared spectroscopy (FTIR) provides rapid, non-destructive c
 Nuclear magnetic resonance (NMR) spectroscopy offers structural confirmation of degradation products, though its lower sensitivity limits its application to compounds present at higher concentrations.
 Isotope ratio mass spectrometry (IRMS) can track the source and [[singh-ligninolytic-enzymes-fungal-bioremediation]] including [[singh-mycoremediation-regulatory-frameworks]] framework for regulatory compliance requirements.
 
-## See Also
-
-- [[fungal-detection-and-monitoring-methods-bioremediation]]
-
-- [[fungal-bioremediation-mechanisms]]
-- [[bioavailability-in-fungal-bioremediation]]
 ## Practical Considerations
 
 When working with Monitoring and Assessment of Fungal Bioremediation, several practical factors should be
@@ -141,10 +135,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-detection-and-monitoring-methods-bioremediation]]
+- [[fungal-bioremediation-mechanisms]]
+- [[bioavailability-in-fungal-bioremediation]]
 - [[biodiversity-of-fungi-fungal-survey-design-baseline-monitoring]]
 - [[bioremediation-monitoring-and-assessment]]
 - [[fao-monitoring-evaluation-disabled-mushroom-entrepreneurs]]
-- [[fungal-detection-and-monitoring-methods-bioremediation]]
 - [[soil-moisture-monitoring-irrigation-management]]

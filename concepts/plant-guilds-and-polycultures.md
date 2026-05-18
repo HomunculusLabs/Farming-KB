@@ -133,13 +133,10 @@ By assembling guilds that meet these needs internally, the ecological gardener
 replaces labor and chemical inputs with biological intelligence—the elegant
 efficiency of natural ecosystems working on the home scale.
 
+
 ## See Also
 - [[ozier-pdc-plant-guilds-and-polyculture-design]]
 - [[permaculture-plant-guilds-companion-planting]]
-- [[permaculture-plant-guilds-companion-planting]]
-
-## See Also
-
 - [[plant-sensing-communication]]
 - [[phytochrome-red-far-red-light-switch-plant-pigment]]
 - [[cervantes-supercropping-plant-stress-techniques]]

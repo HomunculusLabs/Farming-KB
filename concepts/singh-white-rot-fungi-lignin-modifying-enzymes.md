@@ -60,11 +60,6 @@ communities, and systematic experimentation to build expertise.
 
 Temperature and humidity requirements vary by species. Most cultivated mushrooms prefer 18-24°C during fruiting with relative humidity above 85%. Substrate preparation is critical for commercial yields.
 
-## See Also
-
-- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
-- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
-
 ## Overview
 
 Singh White Rot Fungi Lignin Modifying Enzymes represents an important element within sustainable
@@ -142,8 +137,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
+- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

@@ -30,14 +30,6 @@ While any green plant material can be used, some are better than others:
 - **Grasses:** Provide silica and potassium
 - **Broadleaves:** Provide calcium, magnesium, and trace minerals
 
-## See Also
-
-- knf green grass liquid fertilizer
-- [[knf-vegetative-growth-stage]]
-- [[composting]]
-- [[jadam-wild-grass-liquid-fertilizer]]
-- [[knf-mineral-liquid]]
-
 ## Overview
 
 Knf Green Grass Liquid Fertilizer represents an important element within sustainable
@@ -115,8 +107,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- knf green grass liquid fertilizer
+- [[knf-vegetative-growth-stage]]
+- [[composting]]
+- [[jadam-wild-grass-liquid-fertilizer]]
+- [[knf-mineral-liquid]]
 - [[cervantes-screen-of-green-technique]]
 - [[green-cannabis-dry-sift-water-extraction]]
 - [[green-cannabis-grow-bible-vegetative-phase-management]]

@@ -42,16 +42,6 @@ Hemicellulases contribute to the degradation of plant-based organic wastes inclu
 
 - **Biofuel production** -- hemicellulase supplementation improves sugar yields from lignocellulosic biomass pretreatment
 
-## See Also
-
-- lignin-degradation-mechanisms-wood-rot-fungi
-
-- [[fungal-biology-fundamentals]]
-
-- [[doc]]
-- [[dom]]
-- [[ethanol]]
-
 ## Overview
 
 Hemicellulase Enzyme Systems represents an important element within sustainable
@@ -129,8 +119,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- lignin-degradation-mechanisms-wood-rot-fungi
+- [[fungal-biology-fundamentals]]
+- [[doc]]
+- [[dom]]
+- [[ethanol]]
 - [[dighton-fungal-enzyme-systems-resource-quality-decomposition]]
 - [[enzyme-harvesting-mycorrhizal-systems]]
 - [[fungal-enzyme-systems]]

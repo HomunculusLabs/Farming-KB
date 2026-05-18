@@ -63,9 +63,6 @@ A key insight from boundary theory:
 
 Designing differences into a system is a resource-building strategy, whereas smoothing out differences is a deprivation of potential resources. Every boundary has unique behavior and translation potential, and the establishment of complex boundary conditions is a primary strategy for generating complex life assemblies.
 
-## See Also
-- [[boundary-conditions-and-media-interfaces]]
-
 ## Overview
 
 Boundary Conditions In Permaculture represents an important element within sustainable
@@ -143,8 +140,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[boundary-conditions-and-edge-effect]]
+## See Also
 - [[boundary-conditions-and-media-interfaces]]
+- [[boundary-conditions-and-edge-effect]]
 - [[boundary-layer-redistribution-fungal-tropism]]

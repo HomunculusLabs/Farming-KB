@@ -51,14 +51,6 @@ When combined with conventional anticancer drugs:
 - Not approved as a pharmaceutical by FDA or equivalent agencies
 - Quality and standardization vary between manufacturers
 
-## See Also
-
-- [[synthetic-log-cultivation-methods-guide]] for [[mushroom-immunomodulation-mechanisms]] — immune activation mechanisms
-- mushroom-cytokine-production-immune-activation
-- [[lentinan]]
-- [[cancer-beta-glucan-pharmacology]]
-- [[comparison-pioppino-vs-maitake-cultivation]]
-
 ## Overview
 
 Grifron D Maitake Beta Glucan represents an important element within sustainable
@@ -136,8 +128,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[synthetic-log-cultivation-methods-guide]] for [[mushroom-immunomodulation-mechanisms]] — immune activation mechanisms
+- mushroom-cytokine-production-immune-activation
+- [[lentinan]]
+- [[cancer-beta-glucan-pharmacology]]
+- [[comparison-pioppino-vs-maitake-cultivation]]
 - [[comparison-maitake-vs-wine-cap-cultivation]]
 - [[maitake-cancer-clinical-research]]
 - [[maitake-cultivation]]

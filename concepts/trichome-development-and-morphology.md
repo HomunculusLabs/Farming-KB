@@ -55,9 +55,6 @@ with the ratio of THCA to CBN and the overall psychoactive profile:
 - **70%+ amber**: Significant THC degradation. Lower psychoactive
   potency but higher CBN content. CBN demonstrates independent sedative
   and anticonvulsant properties.
-## See Also
-- [[cannabis-chemotype-classification]]
-
 ## Overview
 
 Trichome Development And Morphology represents an important element within sustainable
@@ -135,8 +132,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabis-chemotype-classification]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]
 - [[cannabis-trichome-types-and-development]]

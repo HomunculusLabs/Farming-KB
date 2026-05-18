@@ -76,9 +76,6 @@ Blesching frames cannabis in the context of a harm reduction approach:
 - Any reduction in alcohol consumption, even without complete
   abstinence, produces meaningful health benefits
 
-## See Also
-- [[blesching-cannabis-arthritis-anti-inflammatory-cbd-therapy]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -107,7 +104,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[blesching-cannabis-arthritis-anti-inflammatory-cbd-therapy]]
 - [[cannabis-and-alcoholism-research]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
 - [[blesching-cannabis-tourette-syndrome]]

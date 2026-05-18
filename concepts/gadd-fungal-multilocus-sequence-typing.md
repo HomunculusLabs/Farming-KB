@@ -51,13 +51,6 @@ communities, and systematic experimentation to build expertise.
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]]
-- [[gadd-fungal-biodegradation-bioremediation]]
-- [[psilocybin]]
-- [[fungi-multilocus-sequence-typing-molecular-epidemiology]]
-- [[gadd-fungal-imaging-techniques]]
-
 ## Overview
 
 Gadd Fungal Multilocus Sequence Typing represents an important element within sustainable
@@ -135,8 +128,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]]
+- [[gadd-fungal-biodegradation-bioremediation]]
+- [[psilocybin]]
+- [[fungi-multilocus-sequence-typing-molecular-epidemiology]]
+- [[gadd-fungal-imaging-techniques]]
 - [[gadd-intracellular-signal-transduction-filamentous-fungi]]
 - [[gadd-lichen-biogeochemistry-pioneer]]
 - [[gadd-mineral-transformations-biogeochemistry]]

@@ -20,10 +20,6 @@ tissue [[growing-gourmet-mushrooms-civilization-history]] never appear, trees an
 - Inoculations by one generation of mycologists may not see fruition
   until the next generation
 
-## See Also
-
-- [[mycorrhizal-agricultural-practices]] -- mycorrhizae in farming
-- [[mycelium-running-gourmet-mushroom-species]] -- edible species
 ## Practical Considerations
 
 Successful implementation of Mycorrhizal Mushroom Gardens and Cultivation requires attention to
@@ -120,8 +116,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycorrhizal-agricultural-practices]] -- mycorrhizae in farming
+- [[mycelium-running-gourmet-mushroom-species]] -- edible species
 - [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]]
 - [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - [[mycelium-running-remediating-toxic-waste]]

@@ -79,13 +79,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
 - tryptamine
 - turner-essential-psychedelics-dmt-hyperspace
 - mckenna-self-transforming-machine-elves-dmt-entities
-
-## See Also
-
 - [[mckenna-paradise-regained-dmt-hyperspace]]
 - [[turner-dmt-hyperspace-and-smoked-tryptamines]]
 - [[dmt-phenomenology-and-hyperspace-experience]]

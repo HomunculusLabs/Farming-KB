@@ -60,9 +60,6 @@ scopolamine. Even in small doses, this drug may cause excitement,
 hallucinations, and delirium. The trees are the special property of certain
 medicine men who employ the drug in difficult cases of disease diagnosis,
 divination, prophecy, or witchcraft.
-## See Also
-
-- [[golden-guide-morning-glory-and-ololiuqui]]
 ## Practical Considerations
 
 Successful implementation of Golden Guide: Datura and Nightshade Deliriants requires attention to
@@ -110,7 +107,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[golden-guide-morning-glory-and-ololiuqui]]
 - [[hyoscyamine]]
 - [[scopolamine]]
 - [[atropine]]

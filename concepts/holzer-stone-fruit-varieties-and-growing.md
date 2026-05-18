@@ -12,12 +12,6 @@ Holzer provides specific variety recommendations for damsons and plums, all sele
 | Variety | Location | Ripening | Characteristics |
 |---------|----------|----------|----------------|
 
-## See Also
-- holzer-stone-cellar-construction
-- [[sepp-holzer-fruit-tree-varieties]]
-- [[winter-gardening-season-extension]]
-- holzer stone fruit varieties and growing
-
 ## Merged: Best Stone Fruit Varieties for Different Climate Zones
 
 # Best Stone Fruit Varieties for Different Climate Zones
@@ -136,8 +130,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- holzer-stone-cellar-construction
+- [[sepp-holzer-fruit-tree-varieties]]
+- [[winter-gardening-season-extension]]
+- holzer stone fruit varieties and growing
 - [[holzer-alpine-plant-cultivation]]
 - [[holzer-browsing-protection-methods]]
 - [[holzer-fruit-growing-marginal-climates]]

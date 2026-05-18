@@ -38,16 +38,6 @@ includes:
 - Ganoderma sinense
 - [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and allies
 
-## See Also
-
-- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
-
-- [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -80,7 +70,14 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
+- [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[pycnoporus-cinnabarinus]]
 - [[piptoporus-betulinus]]
 - [[ganoderma-applanatum]]

@@ -33,14 +33,6 @@ Nature knows how to grow trees without human help. The farmer's role
 is not to manage the trees but to create the conditions in which the
 trees can manage themselves.
 
-## See Also
-
-- [[fukuoka-argument-against-pruning]]
-- [[fukuoka-citrus-orchard-ground-cover-cultivation]]
-- [[masanobu-fukuoka]]
-- [[composting]]
-- [[building-soil]]
-
 ## Overview
 
 Fukuoka Pruning Fruit Tree Natural Management represents an important element within sustainable
@@ -118,8 +110,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-argument-against-pruning]]
+- [[fukuoka-citrus-orchard-ground-cover-cultivation]]
+- [[masanobu-fukuoka]]
+- [[composting]]
+- [[building-soil]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

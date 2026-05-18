@@ -29,10 +29,6 @@ Fukuoka's clay seed ball technique has become one of the most widely adopted ele
 
 The simplicity of the technique — requiring only seeds, clay, and water — makes it accessible to farmers and gardeners without access to commercial agricultural inputs. It has proven particularly valuable in contexts where conventional seed-bed preparation is impractical due to terrain, labor constraints, or the scale of the planting area.
 
-## See Also
-
-- [[cho-natural-farming-inputs-overview]] — Comparison with [[natural-farming-inputs-cho]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -60,11 +56,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[natural-diet]]
-- [[ground-cover-plants]]
-- [[fukuoka-seed-ball-one-seed-technique]]
 
 ## Overview
 
@@ -143,8 +134,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cho-natural-farming-inputs-overview]] — Comparison with [[natural-farming-inputs-cho]]
+- [[natural-diet]]
+- [[ground-cover-plants]]
+- [[fukuoka-seed-ball-one-seed-technique]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

@@ -40,9 +40,6 @@ adhering to surfaces or interfaces. Singh's discussion of
   pollutant removal
 - **Moving bed biofilm reactors**: Fungal carriers provide high biomass
   concentration
-## See Also
-
-- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] -- key enzymes produced within biofilms
 ## Practical Considerations
 
 Successful implementation of Fungal Biofilms in Contaminated Environments requires attention to
@@ -139,8 +136,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] -- key enzymes produced within biofilms
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

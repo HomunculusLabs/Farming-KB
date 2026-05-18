@@ -52,13 +52,6 @@ These characteristics are reflected in diverse elements of the alternative cultu
 
 An integrated approach is essential because mismatched individual changes (e.g., sustainable food production within an otherwise mainstream lifestyle) have limited impact. Many of these strategies can develop within existing communities with a [[critical-mass]] of like-minded people, but the most integrated application of permaculture principles becomes possible through intentional communities — communities deliberately designed by their participants rather than unconsciously evolved.
 
-## See Also
-
-- [[designing-sustainable-communities]] — intentional communities, co-housing, and invisible structures
-- [[small-and-slow-solutions]] — Permaculture Principle 9 on appropriate scale
-- [[permaculture-principles]] — overview of all twelve principles
-- [[bioregionalism-and-community-organization]] — governance aligned with natural systems
-- [[lets-system-mollison]] — Local Exchange and Trading Systems
 ## Theoretical Framework
 
 The theoretical basis for this concept draws from systems thinking,
@@ -90,8 +83,13 @@ implementation, adapting general principles to specific local
 conditions, and maintaining long-term commitment. Addressing these
 requires flexible approaches and supportive policy frameworks.
 
-## See Also
 
+## See Also
+- [[designing-sustainable-communities]] — intentional communities, co-housing, and invisible structures
+- [[small-and-slow-solutions]] — Permaculture Principle 9 on appropriate scale
+- [[permaculture-principles]] — overview of all twelve principles
+- [[bioregionalism-and-community-organization]] — governance aligned with natural systems
+- [[lets-system-mollison]] — Local Exchange and Trading Systems
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 - [[permaculture-principle-integrate-rather-than-segregate]]
 - [[holmgren-food-systems-and-local-self-reliance]]

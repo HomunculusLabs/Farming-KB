@@ -54,13 +54,6 @@ The principal organic acids involved in [[mycoremediation-pahs]] strategies:
 - **Soil health**: Glomalin and other mycorrhizal exudates improve soil
   aggregation, water retention, and carbon sequestration
 
-## See Also
-
-- [[laccase-mediator-system-dye]] -- key oxidative enzyme in fungal metabolism
-- heavy metal contamination -- metals targeted by exudate-mediated
-  remediation
-- phosphate solubilization -- nutrient mobilization by fungal exudates
-
 ## Overview
 
 Singh Mycorrhizal Exudates Root Exudate Interactions represents an important element within sustainable
@@ -138,8 +131,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[laccase-mediator-system-dye]] -- key oxidative enzyme in fungal metabolism
+- heavy metal contamination -- metals targeted by exudate-mediated
+  remediation
+- phosphate solubilization -- nutrient mobilization by fungal exudates
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

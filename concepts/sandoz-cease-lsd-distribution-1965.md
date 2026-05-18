@@ -94,14 +94,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[sandoz-pharmaceuticals]]
 - [[albert-hofmann]]
 - [[bad-trip]]
 - [[sandoz-psilocybin-distribution-program]]
 - [[hofmann-sandoz-crisis-lsd-withdrawal]]
-## See Also
-
 - [[lsd-discovery-aftermath-pharmacological-properties]] — The discovery and its immediate aftermath
 - [[lsd-psychotherapy-model-psychosis-concept]] — The clinical research program
 - lsd criminalization and regulatory history — The broader regulatory context

@@ -51,10 +51,6 @@ In coastal mangrove and estuarine systems, natural companion relationships exist
 - **Betula populifolia** (grey birch) thrives on sandy or swampy coastal soil and is best planted in groves for mutual protection.
 
 Salt-tolerant trees and shrubs are foundational elements for expanding productive permaculture into coastal, arid, and degraded saline landscapes, transforming marginal land into functional, yielding systems.
-## See Also
-- [[permaculture-plants-fire-resistant-trees-shrubs]]
-- [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
-
 ## Overview
 
 Salt Tolerant Trees And Shrubs Permaculture represents an important element within sustainable
@@ -132,8 +128,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-plants-fire-resistant-trees-shrubs]]
+- [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
 - [[faires-salt-curing-and-clarified-fats]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]

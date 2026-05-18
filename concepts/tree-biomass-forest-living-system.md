@@ -53,10 +53,6 @@ These deformation indicators are invaluable for permaculture site assessment. Th
 
 Forests provide a nutrient net for materials blown by wind or gathered by birds that forage from forest edges. Migrating salmon die in headwaters after spawning, and thousands of tons of fish remains are deposited by birds and other predators in surrounding forests. In addition to these external nutrient sources, trees actively mine base rock and soils for minerals through root exudates and mycorrhizal partnerships.
 
-## See Also
-- [[tree-biomass-system]]
-- [[integrated-paddy-rice-and-tree-system]]
-
 ## Overview
 
 Tree Biomass Forest Living System represents an important element within sustainable
@@ -134,8 +130,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tree-biomass-system]]
+- [[integrated-paddy-rice-and-tree-system]]
 - [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
 - [[hemenway-apple-tree-guild-design]]
 - [[mollison-tree-biomass-and-forest-as-living-entity]]

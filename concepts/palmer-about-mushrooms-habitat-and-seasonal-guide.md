@@ -56,13 +56,6 @@ considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
-## See Also
-
-- [[palmer-classification-four-fungal-divisions]]
-- [[palmer-key-to-edibility-and-bibliography]]
-- [[palmer-mushroom-cooking-and-personal-experience]]
-- [[palmer-toadstool-eating-guide]]
-
 ## Overview
 
 Palmer About Mushrooms Habitat And Seasonal Guide represents an important element within sustainable
@@ -140,8 +133,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[palmer-classification-four-fungal-divisions]]
+- [[palmer-key-to-edibility-and-bibliography]]
+- [[palmer-mushroom-cooking-and-personal-experience]]
+- [[palmer-toadstool-eating-guide]]
 - [[mushroom-toxicology-palmer-theory]]
 - [[palmer-amanitine-poison-classification-treatment]]
 - [[palmer-fungus-reproduction-spawn]]

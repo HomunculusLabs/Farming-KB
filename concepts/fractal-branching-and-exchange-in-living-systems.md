@@ -19,10 +19,6 @@ These "half-models" in one medium demonstrate that wherever exchange between a t
 - Vogel, S. (1981). *Life in Moving Fluids*. Princeton University Press.
 - Mandelbrot, B.B. (1982). *The Fractal Geometry of Nature*. W.H. Freeman.
 
-## See Also
-- [[fractal-geometry-and-branching-conduits]]
-- [[open-systems-energy-exchange]]
-
 ## Overview
 
 Fractal Branching And Exchange In Living Systems represents an important element within sustainable
@@ -100,10 +96,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
-- [[branching-patterns-and-fractal-geometry-in-nature]]
+## See Also
 - [[fractal-geometry-and-branching-conduits]]
+- [[open-systems-energy-exchange]]
+- [[branching-patterns-and-fractal-geometry-in-nature]]
 - [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
 - [[mckenna-fractal-elves-reassurance-protocol-and-wonder-loop]]
 - [[stream-orders-and-branching-hierarchies]]

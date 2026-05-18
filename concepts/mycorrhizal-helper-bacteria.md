@@ -20,12 +20,6 @@ MHB appear to play important roles in forest ecosystems by:
 
 - **Sustainable agriculture**: MHB consortia can reduce fertilizer dependence by enhancing [[aact-disease-suppression-mechanisms-ingham]]
 
-## See Also
-
-- mycorrhizal helper bacteria
-
-- [[soil-food-web-nutrient-cycling]]
-
 ## Related
 
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
@@ -126,8 +120,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mycorrhizal helper bacteria
+- [[soil-food-web-nutrient-cycling]]
 - [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 - [[arbuscular-mycorrhizal-symbiosis]]
 - [[leake-mycorrhizal-carbon-cycle-global-sequestration]]

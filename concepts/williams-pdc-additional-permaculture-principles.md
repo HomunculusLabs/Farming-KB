@@ -17,9 +17,6 @@ While not one of Holmgren's original 12, the principle of Stacking
 of Functions is one of the most oft-recited permaculture principles.
 This principle ties in strongly with "[[permaculture-principle-catch-and-store-energy]] energy,
 [[fukuoka-natural-farming-philosophy]]
-## See Also
-- [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]
-
 ## Overview
 
 Williams Pdc Additional Permaculture Principles represents an important element within sustainable
@@ -97,8 +94,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]
 - [[mollison-permaculture-two-introduction-design-principles]]
 - [[mushroom-infused-beer-brewing-principles]]
 - [[williams-pdc-disaster-preparedness]]

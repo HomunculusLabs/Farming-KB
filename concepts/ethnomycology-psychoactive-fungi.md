@@ -45,12 +45,6 @@ cultures force aboriginal people. The plant hallucinogens that are the
 source of the oldest human religions remain a clear running spring, as
 refreshing as they have always been.
 
-## See Also
-
-- [[mushroom-natural-habitats]]
-- stamets-mushrooms-world-identification-safety for practical identification
-  of mushroom species
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -79,7 +73,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[mushroom-natural-habitats]]
+- stamets-mushrooms-world-identification-safety for practical identification
+  of mushroom species
 - [[ayahuasca]]
 - [[dom]]
 - [[mycology]]

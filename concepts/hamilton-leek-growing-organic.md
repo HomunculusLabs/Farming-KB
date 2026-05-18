@@ -60,11 +60,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[hamilton-garlic-growing-organic]]
-- [[hamilton-tomato-growing-organic]]
-- [[hamilton-potato-growing-organic]]
-
 ## Overview
 
 Hamilton Leek Growing Organic represents an important element within sustainable
@@ -142,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hamilton-garlic-growing-organic]]
+- [[hamilton-tomato-growing-organic]]
+- [[hamilton-potato-growing-organic]]
 - [[hamilton-cottage-garden-design]]
 - [[hamilton-garden-ponds-and-aquatic-plants]]
 - [[hamilton-pruning-and-training-fruit-trees]]

@@ -56,11 +56,6 @@ JADAM does not prescribe elaborate seed storage systems. Traditional seed storag
 
 Commercial seed costs represent a significant portion of farming expenses, particularly for vegetable growers. By saving their own seeds, farmers eliminate this recurring cost entirely. When combined with JADAM's other self-sufficiency measures — making fertilizers, pesticides, and microbial inputs at home — the total cost of farming can be reduced to approximately $100 per acre per year for all inputs combined.
 
-## See Also
-
-- [[seed-starting-methods-comparison]]
-- [[cover-crop-species-comparison]]
-
 ## Overview
 
 Ultra Low Cost Seed Saving represents an important element within sustainable
@@ -138,8 +133,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[seed-starting-methods-comparison]]
+- [[cover-crop-species-comparison]]
 - [[oner-space-grape-ultra-genetics-nebula-grapefruit]]
 - [[ultra-low-cost-tools-equipment]]
 - [[ultra-low-fermentation-myths-and-sugar-free-inputs]]

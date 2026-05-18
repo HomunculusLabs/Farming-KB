@@ -100,14 +100,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[salvia-divinorum]]
 - [[maria-sabina-velada-songs-and-mazatec-healing]]
 - [[albert-hofmann]]
 - [[copal-incense]]
 - [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
-## See Also
-
 - [[sacred-mushrooms-mazatecs-wasson-expeditions-indigenous-belief]] — The broader Mazatec context
 - [[ololiuqui-magic-circle-lsd-morning-glory]] — Hofmann's other Mexican plant investigation
 - [[salvia-divinorum-salvinorin-a-pharmacology]] — The eventual identification of the active principle

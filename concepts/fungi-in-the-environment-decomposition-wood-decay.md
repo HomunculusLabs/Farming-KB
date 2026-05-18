@@ -48,10 +48,6 @@ Understanding fungal decomposition is valuable for agriculture:
 - fungal-cellulose-decomposition-fungal-enzymes
 - [[fungal-decomposition-succession-resource-quality]]
 
-## See Also
-
-- [[wood-decay-fungi-buildings]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -80,7 +76,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[wood-decay-fungi-buildings]]
 - [[saprotrophic-fungi]]
 - [[fungal-decomposition]]
 - [[fungal-decomposition-processes]]

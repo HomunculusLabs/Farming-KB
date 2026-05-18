@@ -44,14 +44,6 @@ DNA-based methods (rDNA/ITS PCR with ascomycete-selective primers) confirmed the
 - Lyons, J.I. et al. (2003). Diversity of ascomycete laccase gene sequences in salt marsh.
 - Buchan, A. et al. (2002, 2003). Dynamics of [[query-how-does-lignin-degradation-by-fungi-work]] by Pycnoporus cinnabarinus.
 
-## See Also
-
-- [[gadd-fungal-imaging-techniques]]
-- [[soil-food-web-nutrient-cycling]]
-- [[psilocybin]]
-- [[dom]]
-- [[spore]]
-
 ## Overview
 
 Gadd Fungal Saltmarsh Communities represents an important element within sustainable
@@ -129,8 +121,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gadd-fungal-imaging-techniques]]
+- [[soil-food-web-nutrient-cycling]]
+- [[psilocybin]]
+- [[dom]]
+- [[spore]]
 - [[gadd-fungal-biodegradation-concrete-building-materials]]
 - [[gadd-fungal-ecology-pathogens]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]

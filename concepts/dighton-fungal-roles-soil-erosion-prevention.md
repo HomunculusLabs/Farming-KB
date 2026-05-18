@@ -56,10 +56,6 @@ including reduced tillage, maintenance of vegetation cover, and
 minimization of chemical inputs, can enhance the natural
 erosion-preventing functions of fungi.
 
-## See Also
-
-- fungal-soil-aggregation
-- [[dighton-fungi-tropical-forest-ecosystems]]
 ## Practical Considerations
 
 Successful implementation of Fungal Roles in Soil Erosion Prevention requires attention to
@@ -107,7 +103,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- fungal-soil-aggregation
+- [[dighton-fungi-tropical-forest-ecosystems]]
 - [[lichens]]
 - [[dighton-fungal-role-soil-aggregation]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]

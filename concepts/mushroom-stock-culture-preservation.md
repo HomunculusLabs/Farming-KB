@@ -40,14 +40,6 @@ Cultivators should watch for several indicators of strain degeneration during re
 - [[telluride-mushroom-festival-modern-mycological-culture]]
 - [[query-how-to-make-liquid-culture-for-mushroom-cultivation]]
 
-## See Also
-
-- [[strain-isolation-from-wild-specimens]]
-
-[[mushroom-genetics-strain-selection]]
-
-[[permaculture-macadamia]]
-
 ## Overview
 
 Mushroom Stock Culture Preservation represents an important element within sustainable
@@ -125,8 +117,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[strain-isolation-from-wild-specimens]]
+[[mushroom-genetics-strain-selection]]
+[[permaculture-macadamia]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

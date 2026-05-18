@@ -58,7 +58,6 @@ For natural rice cultivation to work, the seed must survive on the soil surface 
 
 This clay pellet technique makes winter sowing possible and is one of the key innovations that enables Fukuoka's rice fukuoka-natural-vs-scientific-farming (mechanization)
 4. **1970:** Agribusiness (energy-intensive systemized agriculture)
-## See Also
 ## Practical Considerations
 
 Successful implementation of Fukuoka Natural Rice and Barley Cultivation requires attention to
@@ -113,11 +112,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[permaculture]]
-- [[fukuoka-clover-revolution-rice-barley-wheat-cultivation]]
-- [[fukuoka-direct-seeding-rice-barley-cultivation]]
-
 ## Research Context
 
 Current research in this area builds upon foundational
@@ -125,3 +119,9 @@ principles while exploring new methodological approaches.
 Empirical findings continue to refine our understanding
 and suggest promising directions for future investigation
 across multiple disciplines and application domains.
+
+
+## See Also
+- [[permaculture]]
+- [[fukuoka-clover-revolution-rice-barley-wheat-cultivation]]
+- [[fukuoka-direct-seeding-rice-barley-cultivation]]

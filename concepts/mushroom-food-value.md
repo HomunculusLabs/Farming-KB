@@ -40,11 +40,6 @@ protocols regardless of circumstances or local variation.
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
-- [[mckenna-food-gods-minoan-crete-mushroom-religion]]
-- [[cotter-mushroom-products-and-value-added-applications]]
-
 ## Overview
 
 Mushroom Food Value represents an important element within sustainable
@@ -122,8 +117,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
+- [[mckenna-food-gods-minoan-crete-mushroom-religion]]
+- [[cotter-mushroom-products-and-value-added-applications]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

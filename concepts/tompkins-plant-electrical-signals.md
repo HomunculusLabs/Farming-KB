@@ -52,11 +52,6 @@ time."
 Bose summed up his philosophy: "This vast abode of nature is built in
 many wings, each with its own portal. The physicist, the chemist and the
 
-## See Also
-- [[plant-bioelectricity]]
-- [[dom]]
-- [[phototropism]]
-
 ## Overview
 
 Tompkins Plant Electrical Signals represents an important element within sustainable
@@ -134,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[plant-bioelectricity]]
+- [[dom]]
+- [[phototropism]]
 - [[tompkins-albert-abrams-electronic-diagnosis]]
 - [[tompkins-ancient-plant-knowledge]]
 - [[tompkins-hieronymus-eloptic-energy]]

@@ -33,13 +33,6 @@ reenacts the first peyote quest of the divine ancestors.
 
 ## Effects and the Native American Church
 
-## See Also
-- [[turner-mescaline-peyote-san-pedro-experience]]
-- [[schultes-peyote-and-mescaline]]
-- [[peyote-and-mescaline]]
-- [[doc]]
-- [[mescaline-peyote-and-san-pedro-guide]]
-
 ## Overview
 
 Golden Guide Peyote And Mescaline Cacti represents an important element within sustainable
@@ -117,8 +110,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[turner-mescaline-peyote-san-pedro-experience]]
+- [[schultes-peyote-and-mescaline]]
+- [[peyote-and-mescaline]]
+- [[doc]]
+- [[mescaline-peyote-and-san-pedro-guide]]
 - [[golden-guide-ayahuasca-and-caapi]]
 - [[golden-guide-coleus-and-other-mild-psychoactives]]
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]]

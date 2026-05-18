@@ -45,9 +45,6 @@ an airy, non-grain substrate, the technique achieved reliable results with
 common kitchen equipment, opening the door for countless amateur mycologists
 worldwide.
 
-## See Also
-
-- [[pf-tek-alcohol-extraction-method]]
 ## Practical Considerations
 
 Successful implementation of pf tek dry vermiculite contaminant barrier requires attention to
@@ -144,7 +141,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[pf-tek-alcohol-extraction-method]]
 - [[dry-vermiculite-contaminant-barrier-pf-tek]]
 - [[jarrold-filter-can-vermiculite-air-exchange-mushroom-cultivation]]

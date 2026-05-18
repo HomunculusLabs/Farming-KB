@@ -26,11 +26,6 @@ The Japanese concept of mu (emptiness, nothingness, or the void) is central to F
 
 Fukuoka's wholistic perception shares deep structural similarities with several other philosophical traditions, though he arrived at his insights independently through farming practice rather than intellectual study. The Taoist concept of wu wei (effortless action or non-interference) closely parallels Fukuoka's "do-nothing" farming — both emphasize achieving results through alignment with natural processes rather than forceful intervention. Buddhist philosophy, particularly the Madhyamaka school's emphasis on avoiding fixed categories and conceptual elaboration, resonates with Fukuoka's critique of the analytical mind that fragments reality into discrete objects. The phenomenological tradition in [[comparison-natural-farming-vs-permaculture]].
 
-## See Also
-
-- [[fukuoka-nature-god-limits-of-knowledge]]
-- [[2c-d-pihkal-entry-23]]
-- [[fukuoka-pine-blight-matsutake-portent]]
 ## Practical Considerations
 
 When working with Fukuoka's Wholistic Nature Perception, several practical factors should be
@@ -128,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-nature-god-limits-of-knowledge]]
+- [[2c-d-pihkal-entry-23]]
+- [[fukuoka-pine-blight-matsutake-portent]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

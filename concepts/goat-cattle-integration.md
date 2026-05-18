@@ -18,16 +18,6 @@ Grazing animals perform multiple functions in permaculture systems beyond meat a
 
 In cool climate systems, Mollison describes the integration of livestock with hay storage, field shelter, and root crop production for winter fodder. Barns and outbuildings must be solid, well-designed, and carefully assessed for thermal efficiency. Pastures and remnant prairie and meadow are uniquely suited to these regions.
 
-## See Also
-
-[[animal-tractoring]]
-
-forage-systems-animals-permaculture
-
-[[doc]]
-- [[dom]]
-- [[silvopasture]]
-
 ## Overview
 
 Goat Cattle Integration represents an important element within sustainable
@@ -105,8 +95,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+[[animal-tractoring]]
+forage-systems-animals-permaculture
+[[doc]]
+- [[dom]]
+- [[silvopasture]]
 - [[comparison-pig-husbandry-vs-goat-husbandry]]
 - [[goat-husbandry]]
 - [[mollison-designers-goat-management-and-browsing-systems]]

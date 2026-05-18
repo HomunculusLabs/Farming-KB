@@ -21,11 +21,6 @@ and biological controls is more effective than chemical treatments, which
 can leave residues on [[stamets-biological-efficiency-yield]] ranges from
 60-130% depending on species, substrate, and growing conditions.
 
-## See Also
-
-- [[oyster-mushroom-species]]
-- mushroom-spawn-production
-- [[biological-efficiency-mushroom-cultivation]]
 ## Practical Considerations
 
 Successful implementation of Oyster Mushroom Cultivation Methods requires attention to
@@ -122,8 +117,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[oyster-mushroom-species]]
+- mushroom-spawn-production
+- [[biological-efficiency-mushroom-cultivation]]
 - [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
 - [[oyster-mushroom-bagging-methods-worldwide-comparison]]
 - [[oyster-mushroom-marketing-economics]]

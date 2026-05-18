@@ -53,15 +53,6 @@ The model should also be extended to incorporate temporal dynamics. Root microbi
 
 Finally, integrating fungal communities into the model is essential. The original formulation focuses on bacterial communities, but mycorrhizal fungi and fungal saprotrophs are major players in the root zone. A multi-kingdom version of the two-tier model would provide a more complete picture of root microbiome assembly.
 
-## See Also
-
-- [[cannabinoid-receptors-cb1-cb2]]
-- [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
-- 
-- [[root-exudates]]
-
-The two-tier selection model continues to serve as the primary conceptual framework for root microbiome assembly, guiding both basic research and applied agricultural microbiology. As more data accumulates from diverse plant systems, the model will continue to be refined and extended, potentially incorporating multi-kingdom interactions and temporal dynamics.
-
 ## Overview
 
 Two Tier Selection Model represents an important element within sustainable
@@ -139,8 +130,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cannabinoid-receptors-cb1-cb2]]
+- [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
+- 
+- [[root-exudates]]
+The two-tier selection model continues to serve as the primary conceptual framework for root microbiome assembly, guiding both basic research and applied agricultural microbiology. As more data accumulates from diverse plant systems, the model will continue to be refined and extended, potentially incorporating multi-kingdom interactions and temporal dynamics.
 - [[cannabis-microbiome-two-tier-selection]]
 - [[cannabis-two-tier-microbiome-selection]]
 - [[rhizosphere-bulk-soil-similarity-cannabis-weak-first-tier]]

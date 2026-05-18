@@ -47,10 +47,6 @@ The relationship between photosynthesis and climate yields several actionable pr
 - Twidale, C.R.
 - Cornell Hortus Third
 
-## See Also
-- [[photosynthetic-efficiency]]
-- [[cool-climate-settlement-design-mollison]]
-
 ## Overview
 
 Photosynthetic Efficiency And Climate Design represents an important element within sustainable
@@ -128,10 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[photosynthetic-efficiency]]
+- [[cool-climate-settlement-design-mollison]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[fukuoka-textdoc-energy-efficiency-natural-farming]]
 - [[growing-gourmet-mushrooms-biological-efficiency-yield-metrics]]
-- [[photosynthetic-efficiency]]
 - [[photosynthetic-efficiency-and-co2-enrichment]]

@@ -54,10 +54,6 @@ You can never apply too much compost tea — no ill effects from unlimited appli
 Bacterial bioslime is strong stuff and clogs air holes and tubing. It appears in the strangest places — bucket sides, bottom crevices, inside hoses and fittings. Clean immediately while still wet: wipe off or flush with water. Use 3% [[teaming-with-microbes-compost-biology]]
 - teaming with [[compost-tea-aact]]
 
-## See Also
-
-- [[braggot-brewing-guide]]
-
 ## Overview
 
 Teaming With Microbes Compost Tea Brewing Guide represents an important element within sustainable
@@ -135,8 +131,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[braggot-brewing-guide]]
 - [[teaming-with-microbes-arthropods]]
 - [[teaming-with-microbes-humus-formation-and-glomalin]]
 - [[teaming-with-microbes-no-till-benefits]]

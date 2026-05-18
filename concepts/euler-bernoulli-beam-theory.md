@@ -22,11 +22,6 @@ Mixing sign conventions for shear, moment, and curvature can lead to correct mag
 
 Treating a short thick member as a slender beam can underestimate deflection and misrepresent support reactions.
 
-## See Also
-
-- [[fracture-mechanics-engineering-materials]]
-- creep deformation high temperature materials
-- boundary layer theory [[pasture-management-and-forage]]
 ## Practical Considerations
 
 When working with Euler-Bernoulli Beam Theory, several practical factors should be
@@ -124,8 +119,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fracture-mechanics-engineering-materials]]
+- creep deformation high temperature materials
+- boundary layer theory [[pasture-management-and-forage]]
 - [[beam-test]]
 - [[fukuoka-theory-natural-farming-mahayana-hinayana-scientific]]
 - [[mckenna-food-gods-wasson-amanita-theory]]

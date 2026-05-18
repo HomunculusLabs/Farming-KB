@@ -78,17 +78,14 @@ A successful AACT brew should:
 - Show fungal hyphae (if fungal foods were included) — hyphae should
   be 10+ micrometres in diameter with bright, refractive cytoplasm
 
-## See Also
-
-- complete-organic-fertilizer-cof
-
 ## References
 
 - Ingham, E.R. *The Field Guide I for Actively Aerated Compost Tea*.
   Sustainable Studies Institute, 2004.
 
-## See Also
 
+## See Also
+- complete-organic-fertilizer-cof
 - [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
 - [[ingham-strawberry-potato-tomato-aact-application-protocols]]
 - [[ingham-aact-hydroponic-integration-microbe-restoration]]

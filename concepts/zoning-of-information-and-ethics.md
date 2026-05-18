@@ -36,9 +36,6 @@ The "Bruce effect" — where rats subjected to breathing the same airstream as t
 
 The zoning of information and ethics extends permaculture design beyond physical placement into a philosophical framework. Zones represent a gradient from human-dominated systems (where we are teachers and information developers) to wilderness (where we are humble learners). The ethical imperative is to manage our own systems efficiently before ever touching wild systems. Type 1 errors — settling in wilderness — trigger cascading destruction. The contrast between permaculture and conventional design is ultimately a contrast between stability through dynamic local adjustment and instability through perceived individual powerlessness.
 
-## See Also
-- [[psilocybin-consciousness-as-information-in-process]]
-
 ## Overview
 
 Zoning Of Information And Ethics represents an important element within sustainable
@@ -116,10 +113,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin-consciousness-as-information-in-process]]
 - [[emcdda-retailer-risk-information-quality]]
 - [[emcdda-smartshop-online-risk-information-quality-audit-2006]]
 - [[homestead-planning-and-zoning]]
 - [[mind-body-problem-vs-information-paradigm-of-consciousness]]
-- [[psilocybin-consciousness-as-information-in-process]]

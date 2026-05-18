@@ -36,12 +36,6 @@ proteins and analyses compare favorably with those of truffles. They
 possess a rich flavor and mealy texture, yet possess only to a degree
 the deliciousness of the cultivated mushroom or the pervading aroma of
 
-## See Also
-
-- [[termitomyces-fuliginosus]]
-- [[termitomyces-titanellus]]
-- [[termitomyces-umkowaani]]
-
 ## Overview
 
 Termitomyces African Mushrooms represents an important element within sustainable
@@ -119,10 +113,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[termitomyces-fuliginosus]]
+- [[termitomyces-titanellus]]
+- [[termitomyces-umkowaani]]
 - [[termitomyces-clypeatus]]
 - [[termitomyces-eurhizus]]
-- [[termitomyces-fuliginosus]]
 - [[termitomyces-heimii]]
-- [[termitomyces-titanellus]]

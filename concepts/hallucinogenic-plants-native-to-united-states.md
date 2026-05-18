@@ -44,12 +44,6 @@ toxic in most species, with seeds being particularly dangerous.
 [[mescaline]]
 - salvinorin-A
 
-## See Also
-
-- [[ayahuasca]]
-- [[ipomoea-violacea]]
-- [[datura-stramonium]]
-
 ## Overview
 
 Hallucinogenic Plants Native To United States represents an important element within sustainable
@@ -127,8 +121,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ayahuasca]]
+- [[ipomoea-violacea]]
+- [[datura-stramonium]]
 - [[anticholinergic-hallucinogenic-plants]]
 - [[chemistry-of-hallucinogenic-plants]]
 - [[european-hallucinogenic-mushroom-prevalence-trends]]

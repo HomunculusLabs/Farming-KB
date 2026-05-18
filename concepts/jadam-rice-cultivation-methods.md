@@ -36,13 +36,6 @@ Apply before rain or mix with water and fully soak the soil. Repeat 3-4 times be
 - Serious pest/disease infestation: increase JWA and KPFR JHS to over 10 L each
 - Can use only KPFR JHS (take out [[jadam-pest-control-with-natural-pesticides-jhs]] chapter (Formulas #1, #2, #3) and Soil Foundation chapters
 
-## See Also
-
-- [[soil-food-web-nutrient-cycling]]
-- [[det]]
-- [[jadam-rice-pesticide-program]]
-- [[fukuoka-natural-rice-barley-cultivation]]
-
 ## Overview
 
 Jadam Rice Cultivation Methods represents an important element within sustainable
@@ -120,8 +113,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-food-web-nutrient-cycling]]
+- [[det]]
+- [[jadam-rice-pesticide-program]]
+- [[fukuoka-natural-rice-barley-cultivation]]
 - [[jadam-herb-solution-jhs]]
 - [[jadam-natural-mineral-water]]
 - [[jadam-potassium-fertilizer]]

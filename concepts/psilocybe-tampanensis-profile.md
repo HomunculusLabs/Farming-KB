@@ -36,15 +36,6 @@ If mushroom production is desired:
 - The only confirmed Psilocybe species originally found in Florida
 - Bluish bruising is present but can be slow to develop
 
-## See Also
-
-- [[grass-seed-substrate-preparation]] -- Preferred substrate
-- shikimate-pathway-in-fungi -- Metabolic pathway origins
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -133,8 +124,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[grass-seed-substrate-preparation]] -- Preferred substrate
+- shikimate-pathway-in-fungi -- Metabolic pathway origins
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[grass-seed-cultivation-of-psilocybe-species]]
 - [[psilocybe-fascicata]]
 - [[psilocybe-plutonia]]

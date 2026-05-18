@@ -38,10 +38,6 @@ A word of warning, however: pdc-climate-and-microclimate-analysis is different. 
 ---
 Updated: 2026-04-18
 Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]]
-## See Also
-
-- [[permaculture-tree-crop-systems]]
-
 ## Merged: Permaculture Succession Planting
 
 # Permaculture Succession Planting
@@ -129,8 +125,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-tree-crop-systems]]
 - [[holzer-permaculture-landscape-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-methods-summary]]

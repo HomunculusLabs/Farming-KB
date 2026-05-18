@@ -49,12 +49,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[fungi-in-the-environment-plant-fungal-interactions]]
-- [[det]]
-- [[fungi-in-the-environment-fungal-ecosystems]]
-
 ## Overview
 
 Fungi In The Environment Fungal Radionuclide Interactions represents an important element within sustainable
@@ -132,8 +126,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungi-in-the-environment-plant-fungal-interactions]]
+- [[det]]
+- [[fungi-in-the-environment-fungal-ecosystems]]
 - [[fungi-environment-mycelial-nutrient-transport-imaging]]
 - [[mycorrhizal-fungi-biome-surveys]]
 - [[neurotropic-fungi-chemical-compounds]]

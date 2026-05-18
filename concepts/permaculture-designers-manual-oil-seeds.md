@@ -38,11 +38,6 @@ Case studies and documented examples provide valuable models for
 implementation, though direct replication is rarely possible due to
 the uniqueness of each context. Instead, these examples serve as
 
-## See Also
-- [[dom]]
-- [[det]]
-- [[mycorrhiza]]
-
 ## Overview
 
 Permaculture Designers Manual Oil Seeds represents an important element within sustainable
@@ -120,8 +115,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[det]]
+- [[mycorrhiza]]
 - [[holzer-permaculture-landscape-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-methods-summary]]

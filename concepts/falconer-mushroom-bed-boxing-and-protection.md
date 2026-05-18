@@ -50,9 +50,6 @@ grower to ventilate the general cellar space while keeping
 the mushroom bed itself protected from cold draughts that
 would harm the crop.
 
-## See Also
-- [[falconer-mushroom-cooking-selection-and-preparation]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -81,7 +78,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[falconer-mushroom-cooking-selection-and-preparation]]
 - [[falconer-mushroom-preserving-and-drying]]
 - [[falconer-mushroom-cellar-ventilation-and-moisture]]
 - [[outdoor-mushroom-cultivation]]

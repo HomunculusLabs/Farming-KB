@@ -37,14 +37,6 @@ Not good places initially, but lead to good fruitings with time. In central Oreg
 ## Key Principle
 Comparatively few psilocybin mushrooms grow in the woodlands of the true tropics. They occur with frequency in pine forests of Mexico and elsewhere closer to the equatorial subtropics. Deciduous woodlands devastated by recurring cataclysms tend to be better habitats than those in stasis.
 
-## See Also
-
-- [[psychedelic-mushroom-set-and-setting]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -135,8 +127,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psychedelic-mushroom-set-and-setting]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[powell-psilocybin-legal-status-research]]
 - [[psilocybin-bluing-reaction]]
 - [[psilocybin-in-human-evolution]]

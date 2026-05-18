@@ -24,10 +24,6 @@ The most straightforward method uses plug spawn -- wooden dowels colonized with 
 - **Cauliflower mushroom** (Sparassis crispa): Responds well to rope spawn on conifer stumps
 - **Maitake** ([[mycoforestry-practices]] -- converting waste wood into years of food and medicine while building soil for future tree generations.
 
-## See Also
-
-- [[decomposer-fungi-succession]] -- understanding decomposition stages on stumps
-- [[stem-butt-cardboard-cultivation]] -- alternative low-cost inoculation method
 ## Practical Considerations
 
 Successful implementation of Stump Inoculation Techniques requires attention to
@@ -124,8 +120,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[decomposer-fungi-succession]] -- understanding decomposition stages on stumps
+- [[stem-butt-cardboard-cultivation]] -- alternative low-cost inoculation method
 - [[cho-imo-collection-bamboo-stump-and-paddy-field]]
 - [[growing-gourmet-stump-totem-cultivation]]
 - [[outdoor-mushroom-cultivation]]

@@ -31,9 +31,6 @@ needed.
 We cannot get a riot of one person, and fewer than 15 rarely clap to
 applaud as an audience. The rules of order should guide us.
 
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
-
 ## Overview
 
 Mollison Classification Of Events And Orders In Design represents an important element within sustainable
@@ -111,8 +108,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 - [[humid-cool-climate-characteristics-mollison]]
 - [[mentha-aquatica-mollison]]
 - [[mollison-designers-climate-zone-3-farm-forestry]]

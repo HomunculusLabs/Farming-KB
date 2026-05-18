@@ -27,9 +27,6 @@ The order **Solanaceae** (potato family) contains probably the single most impor
 - More frequently **frightening** experiences involving transformation into animals and encounters with malevolent beings
 - Primarily **individual** use by specialists rather than communal ceremonies
 
-## See Also
-
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]
 ## Practical Considerations
 
 Successful implementation of Datura and Solanaceous Plants in Shamanism requires attention to
@@ -77,7 +74,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[tree-daturas-brugmansia-south-american-ethnobotany]]
 - [[ayahuasca]]
 - [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-amanita-muscaria-siberian-shamanism]]

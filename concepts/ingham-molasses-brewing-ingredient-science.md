@@ -62,11 +62,6 @@ Stir or agitate briefly after addition to ensure even distribution.
 - Properly stored, blackstrap molasses lasts indefinitely
 - Crystallization is normal — warm gently to re-dissolve
 
-## See Also
-
-- [[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham]]
-- [[aact-brew-duration-timing-optimization-ingham]]
-
 ## Overview
 
 Ingham Molasses Brewing Ingredient Science represents an important element within sustainable
@@ -144,7 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham]]
+- [[aact-brew-duration-timing-optimization-ingham]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]

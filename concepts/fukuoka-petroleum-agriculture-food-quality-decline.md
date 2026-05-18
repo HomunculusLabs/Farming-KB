@@ -49,13 +49,6 @@ He argues that the visual and gustatory appeal of hothouse products masks a fund
 Fukuoka quantifies the [[fukuoka-critique-scientific-agriculture-civilization]] paradigm because it still treats soil as a nutrient delivery medium rather than a living ecosystem
 - No-tillage farming and cover cropping systems derive directly from Fukuoka's principles
 
-## See Also
-
-- [[fukuoka-japan-postwar-agriculture]]
-- [[fukuoka-decline-food-quality-petroleum-agriculture]]
-- [[permaculture]]
-- [[cover-crop]]
-
 ## Overview
 
 Fukuoka Petroleum Agriculture Food Quality Decline represents an important element within sustainable
@@ -133,8 +126,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-japan-postwar-agriculture]]
+- [[fukuoka-decline-food-quality-petroleum-agriculture]]
+- [[permaculture]]
+- [[cover-crop]]
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

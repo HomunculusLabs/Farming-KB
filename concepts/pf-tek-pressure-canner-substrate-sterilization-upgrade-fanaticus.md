@@ -53,11 +53,6 @@ Substrate jars are prepared identically to the standard PF-TEK method:
 7. Wait an additional 10–15 minutes after pressure equalization before
    opening the lid.
 
-## See Also
-- [[spore]]
-- [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]
-- [[pressure-cooker-sterilization-mushroom-substrate]]
-
 ## Overview
 
 Pf Tek Pressure Canner Substrate Sterilization Upgrade Fanaticus represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[spore]]
+- [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]
+- [[pressure-cooker-sterilization-mushroom-substrate]]
 - [[cervantes-high-pressure-sodium-lighting]]
 - [[guttation-root-pressure-and-maple-sap-physiology]]
 - [[hyphal-biology-and-turgor-pressure]]

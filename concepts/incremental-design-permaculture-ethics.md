@@ -18,9 +18,6 @@ Site designing needs not a specialist approach but rather a **multi-disciplinary
 
 Incremental design provides the methodology for evolving designs over time through observation, feedback, and adaptation. The ethical framework provides the moral compass: put your own house in order before reaching into wilderness, understand that we are learners in nature and teachers only in our gardens, and recognize that complex functions cannot be ordered but must evolve. Together, these principles ensure that permaculture designs are not only efficient and productive but also ethical and sustainable across generations.
 
-## See Also
-- [[incremental-design-in-permaculture]]
-
 ## Overview
 
 Incremental Design Permaculture Ethics represents an important element within sustainable
@@ -98,10 +95,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[incremental-design-in-permaculture]]
 - [[comparison-hugelkultur-vs-keyline-design]]
 - [[holzer-raised-bed-design]]
 - [[incremental-design-and-design-methods-summary]]
-- [[incremental-design-in-permaculture]]
 - [[mollison-permaculture-two-introduction-design-principles]]

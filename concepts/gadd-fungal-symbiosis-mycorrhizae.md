@@ -27,13 +27,6 @@ Ectomycorrhizae are formed primarily by basidiomycetes (with some ascomycetes) o
 - **Soil aggregation**: Extraradical hyphae and associated fungal secretions (glomalin-related soil proteins produced by AM fungi) contribute to soil aggregate stability and soil structure.
 - **Common mycorrhizal networks**: Individual mycorrhizal fungal networks can simultaneously connect multiple host plants of the same or different species, creating pathways for [[staycare-molecular-approaches-fungal-bioremediation]] have revealed that the diversity of mycorrhizal fungi, especially the "hidden" species that do not produce conspicuous sporocarps, is much greater than previously recognized. Competitive RT-PCR and microarray-based transcript analyses are being applied to study gene expression in mycorrhizal associations in situ.
 
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi]]
-- [[arbuscular-mycorrhizal-spore-extraction-methods]]
-- [[agricultural-chemicals-mycorrhizal-impact]]
-- [[gadd-beetle-gut-fungal-symbiosis]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -61,11 +54,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[fungal-hyphae]]
-- [[ericoid-mycorrhiza]]
-- [[dom]]
 
 ## Overview
 
@@ -144,7 +132,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[arbuscular-mycorrhizal-fungi]]
+- [[arbuscular-mycorrhizal-spore-extraction-methods]]
+- [[agricultural-chemicals-mycorrhizal-impact]]
+- [[gadd-beetle-gut-fungal-symbiosis]]
+- [[fungal-hyphae]]
+- [[ericoid-mycorrhiza]]
+- [[dom]]
 - [[gadd-intracellular-signal-transduction-filamentous-fungi]]
 - [[gadd-lichen-biogeochemistry-pioneer]]

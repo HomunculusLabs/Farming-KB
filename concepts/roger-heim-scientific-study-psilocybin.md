@@ -47,17 +47,6 @@ Heim's taxonomic work was foundational. He identified and described several new 
 
 Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
 
-## See Also
-
-- [[scientific-farming-paradoxes-according-to-fukuoka]]
-- [[field-guide-psilocybin-mushroom-species-identification]]
-
-## See Also
-
-- magic-mushroom-cultural-history
-- [[wasson-hofmann-ruck-theory]]
-- [[psychedelic-mushroom-set-and-setting]]
-
 ## Overview
 
 Roger Heim Scientific Study Psilocybin represents an important element within sustainable
@@ -135,8 +124,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[scientific-farming-paradoxes-according-to-fukuoka]]
+- [[field-guide-psilocybin-mushroom-species-identification]]
+- magic-mushroom-cultural-history
+- [[wasson-hofmann-ruck-theory]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
 - [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
 - [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]]

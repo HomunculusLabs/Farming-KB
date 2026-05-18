@@ -50,12 +50,6 @@ See also:
 [[winter-gardening-techniques]]
 [[teaming-with-microbes-soil-ph-and-biology]]
 
-## See Also
-
-- [[det]]
-- [[swale]]
-- [[cover-crops]]
-
 ## Overview
 
 Home Vegetable Gardening represents an important element within sustainable
@@ -133,8 +127,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[swale]]
+- [[cover-crops]]
 - [[query-how-to-grow-black-currants-at-home]]
 - [[query-how-to-grow-sugarcane-at-home]]
 - [[query-how-to-make-sauerkraut-at-home]]

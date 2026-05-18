@@ -14,13 +14,6 @@ sources:
 
 Fukuoka's essay on "Tasty Rice" dissects one of the most widespread delusions of modern agricultural society: the belief that distinct varieties of rice possess inherently superior taste, and that pursuing "tasty rice" through breeding, cultivation techniques, and market mechanisms is a worthwhile endeavor. This argument is a specific application of his broader [[fukuoka-natural-diet-theory]] and toward a food system driven by delusion and commerce.
 
-## See Also
-
-- [[fukuoka-rice-barley-no-till-method]]
-- [[fukuoka-critique-modern-agriculture]]
-
-- [[fukuoka-road-back-to-nature-overview]]
-
 ## Practical Applications
 
 Fukuoka's Tasty Rice Illusion has a range of practical applications that make it relevant to
@@ -91,7 +84,11 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[fukuoka-rice-barley-no-till-method]]
+- [[fukuoka-critique-modern-agriculture]]
+- [[fukuoka-road-back-to-nature-overview]]
 - [[det]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
 - [[fukuoka-natural-diet-tasty-rice-seasonal-eating]]

@@ -53,11 +53,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[composting]]
-- [[greenhouse-cannabis-growing]]
-- [[hamilton-container-greenhouse-growing]]
-
 ## Overview
 
 Greenhouse Growing represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[composting]]
+- [[greenhouse-cannabis-growing]]
+- [[hamilton-container-greenhouse-growing]]
 - [[coleman-mobile-greenhouse-crop-rotation-soil-health]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]

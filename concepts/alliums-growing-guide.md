@@ -4,13 +4,6 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [reference]
-## See Also
-
-- crop-rotation-benefits
-- root-crops-growing-guide
-- organic-vegetable-garden-rotation-deep-beds
-- companion-cultivation-of-mushrooms-with-garden-vegetables
-
 ## Merged: How Do I Grow Alliums (Garlic, Onions, Leeks, Shallots) Successfully?
 
 # How Do I Grow Alliums (Garlic, Onions, Leeks, Shallots) Successfully?
@@ -111,7 +104,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- crop-rotation-benefits
+- root-crops-growing-guide
+- organic-vegetable-garden-rotation-deep-beds
+- companion-cultivation-of-mushrooms-with-garden-vegetables
 - [[allicin]]
 - [[solomon-growing-root-crops-guide]]
 - [[bean-growing-guide]]

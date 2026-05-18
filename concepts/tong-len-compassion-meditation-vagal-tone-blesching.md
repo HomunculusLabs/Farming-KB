@@ -23,9 +23,6 @@ dissatisfaction and emotional constriction.
 3. Place a neutral observer version of yourself between the two
 4. Notice where you feel drawn — typically toward the suffering group
 
-## See Also
-- [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]
-
 ## Overview
 
 Tong Len Compassion Meditation Vagal Tone Blesching represents an important element within sustainable
@@ -103,8 +100,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]
 - [[endocannabinoid-tone-and-emotional-wellness-blesching]]
 - [[gratitude-compassion-forgiveness-healing-effects]]

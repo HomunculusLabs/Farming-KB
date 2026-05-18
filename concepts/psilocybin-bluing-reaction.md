@@ -91,6 +91,22 @@ Iron chloride (FeCl₃) produces a deep blue color with *Inocybe aeruginascens* 
 - **1958**: A. Hofmann confirmed that pure psilocin becomes unstable (turns bluish-green) when exposed to oxidizing agents
 - **1960s**: Blaschko, Levine, Bocks, Horita and Weber demonstrated that only psilocin (not psilocybin) oxidizes to blue-green products
 
+## Scaling Considerations
+
+Factors for scaling operations effectively. For psilocybin bluing reaction, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Monitoring Protocols
+
+Systematic observation and data collection methods. For psilocybin bluing reaction, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Resource Requirements
+
+Materials and resources needed for implementation. For psilocybin bluing reaction, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
+## Adaptive Management
+
+Flexible approaches that respond to changing conditions. For psilocybin bluing reaction, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+
 ## See Also
 
 - [[mushroom-identification]] — Field identification methods and tools

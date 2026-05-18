@@ -22,11 +22,6 @@ target the 660 nm red wavelength exclusively, cutting energy
 costs by up to 80% compared to broad-spectrum lighting. The
 principles from [[cervantes-reflective-hoods-light-distribution]] across the canopy for consistent responses.
 
-## See Also
-
-- [[chamovitz-photoperiodism-agricultural-applications]] phytochrome plant vision - Photoperiodism
-  overview
-
 ## Overview
 
 Night Break Experiments And Agricultural Light Manipulation represents an important element within sustainable
@@ -104,8 +99,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[chamovitz-photoperiodism-agricultural-applications]] phytochrome plant vision - Photoperiodism
+  overview
 - [[blesching-cannabis-improved-night-vision]]
 - [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]
 - [[cannabis-for-night-sweats]]

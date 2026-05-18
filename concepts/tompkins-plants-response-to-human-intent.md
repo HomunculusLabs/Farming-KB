@@ -25,8 +25,6 @@ Adults are much less successful than children, which leads Vogel to surmise that
 - "Through such sharing, a person and a plant become one. This oneness is what makes possible a mutual sensitivity allowing plant and man not only to intercommunicate, but to record these communications."
 - "It seemed to me to be describable only as pure consciousness." -- Debbie Sapp
 
-## See Also
-
 ## Overview
 
 Tompkins Plants Response To Human Intent represents an important element within sustainable
@@ -104,8 +102,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[tompkins-dowsing-plants-for-health]]
 - [[tompkins-findhorn-garden-devas-nature-spirits]]
 - [[tompkins-george-washington-carver-plant-alchemy]]

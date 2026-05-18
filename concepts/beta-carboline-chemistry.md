@@ -31,13 +31,6 @@ Synthesis from 6-methoxytryptamine and glycolaldehyde: The aldehyde condenses wi
 - [[5-methoxy-compounds]] - [[dmt-botanical-sources-pharmacology]]: Banisteriopsis caapi (the ayahuasca vine of the Amazon) and Peganum harmala (Syrian rue, native to Mediterranean North Africa and Central Asia). These compounds have been used by humans for at least several thousand years and are the pharmacological key to ayahuasca's oral activity. - beta carboline chemistry - beta carboline chemistry - beta carboline chemistry - 5-meo-dmt-compound-profile - The first of the harmala alkaloids to be isolated (1847) - Fully aromatic beta-carboline (3,4-dihydroharmine oxidized) - Potent reversible inhibitor of monoamine oxidase type A (MAO-A) - Present in B.
 - turner-harmala-alkaloids-preparation-and-dosage
 
-## See Also
-
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -78,7 +71,12 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[ayahuasca]]
 - [[harmala-alkaloids]]
 - [[harmine]]

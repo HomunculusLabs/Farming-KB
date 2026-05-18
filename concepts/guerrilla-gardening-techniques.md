@@ -40,13 +40,6 @@ what thrives and expand from there. Every successful
 guerrilla garden inspires others and builds momentum for
 broader urban ecological restoration.
 
-## See Also
-
-- [[food-forest-design]]
-- [[dom]]
-- [[water-management]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-
 ## Overview
 
 Guerrilla Gardening Techniques represents an important element within sustainable
@@ -124,8 +117,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[food-forest-design]]
+- [[dom]]
+- [[water-management]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[cannabis-guerrilla-growing-guide]]
 - [[cervantes-guerrilla-growing-tactics]]
 - [[guerrilla-mycology]]

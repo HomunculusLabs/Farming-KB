@@ -20,10 +20,6 @@ The levels of psychoactive alkaloids in *Psilocybe cubensis* vary significantly 
 
 6. **Bioassay vs. chemical analysis**: The psychoactive potency of a mushroom cannot be determined from psilocybin content alone, because psilocin is pharmacologically active at lower doses and may contribute disproportionately to the subjective experience. The flush-dependent variation in psilocin levels means that mushrooms from later flushes may produce qualitatively different experiences even at the same psilocybin-equivalent dose.
 
-## See Also
-
-- [[psilocybe-cubensis]]
-
 ## References
 
 - Bigwood, J. & Beug, M.W. (1982). Variation of psilocybin and psilocin levels with repeated flushes of *Psilocybe cubensis*. *Journal of Ethnopharmacology*, 5, 287-291.
@@ -106,8 +102,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybe-cubensis]]
 - [[psilocybin-and-mystical-experience]]
 - [[psilocybin-mushroom-habitat-and-ecology]]
 - [[psilocybin-mushrooms-species-and-pharmacology]]

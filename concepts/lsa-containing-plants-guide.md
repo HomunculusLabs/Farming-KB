@@ -39,9 +39,6 @@ This legal paradox, where a controlled substance occurs naturally in an uncontro
 - [[permaculture-water-plants-guide]]
 - [[lysergic-acid-amide-containing-plants-halpern]]
 
-## See Also
-
-- [[ergine-lsa]]
 ## Practical Considerations
 
 Successful implementation of Lsa Containing Plants Guide requires attention to
@@ -138,8 +135,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ergine-lsa]]
 - [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
 - [[mescaline-containing-cacti]]
 - [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]]

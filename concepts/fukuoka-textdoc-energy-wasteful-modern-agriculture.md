@@ -27,13 +27,6 @@ considered true "production."
 
 Mechanized farming enslaves the farmer to his equipment. Machinery is the
 largest [[fukuoka-natural-farming-method]].
-## See Also
-
-- [[fukuoka-natural-farming-method]]
-- [[doc]]
-- [[det]]
-- [[natural-farming]]
-
 ## Overview
 
 Fukuoka Textdoc Energy Wasteful Modern Agriculture represents an important element within sustainable
@@ -111,8 +104,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-natural-farming-method]]
+- [[doc]]
+- [[det]]
+- [[natural-farming]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

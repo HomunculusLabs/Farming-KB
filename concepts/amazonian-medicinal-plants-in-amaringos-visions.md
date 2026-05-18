@@ -63,11 +63,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[ayahuasca]]
-- [[pablo-amaringo]]
-- [[det]]
-
 ## Overview
 
 Amazonian Medicinal Plants In Amaringos Visions represents an important element within sustainable
@@ -145,6 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ayahuasca]]
+- [[pablo-amaringo]]
+- [[det]]
 - [[amazonian-sorcery-illness-and-curing-practices]]

@@ -24,10 +24,6 @@ Lowenfels recommends applying the bulk of slow-release [[savory-growing-season-a
 Understanding [[compost-building-guide]] alongside [[teaming-with-nutrients-fertilizer-sources]]
 - [[soil-testing-and-interpretation]]
 
-## See Also
-
-- [[teaming-with-nutrients-biofertilizers]]
-
 ## Overview
 
 Teaming With Nutrients Fertilizer Application represents an important element within sustainable
@@ -105,10 +101,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[teaming-with-nutrients-biofertilizers]]
 - [[teaming-with-fungi-truffle-cultivation-basics]]
 - [[teaming-with-microbes-bacteria-and-archaea-in-soil]]
 - [[teaming-with-microbes-old-growth-forest]]
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
-- [[teaming-with-nutrients-biofertilizers]]

@@ -63,11 +63,6 @@ Cannabutter can be made from various cannabis materials:
 
 - Trimmed fan leaves from [[comparison-cannabis-extraction-basics-vs-extraction-methods]], Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995).
 
-## See Also
-
-- [[cannabis-manicuring-techniques]]
-- [[cannabis-seed-selection-and-strain-types]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -96,7 +91,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cannabis-manicuring-techniques]]
+- [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-seed-scuffing-and-preparation]]
 - [[lemon-cannabis-alchemy-hashish-preparation]]
 - [[cannabis-oil-capsules-preparation]]

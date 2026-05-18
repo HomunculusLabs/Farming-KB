@@ -20,10 +20,6 @@ Latitude profoundly influences [[permaculture-design]]:
 
 The interplay between latitude, light availability, temperature, and carbon dioxide concentration creates a complex but understandable framework for optimizing crop production. The key insight is that **more light is not always better** — the most productive conditions occur where moderate light coincides with optimal photosynthetic temperatures (15–24°C). High latitudes achieve this naturally during summer; tropical regions can approximate it through deliberate shading with permeable-crowned trees. In all cases, climate is a design variable, not a fixed constraint.
 
-## See Also
-- [[latitude-effects]]
-- [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]]
-
 ## Overview
 
 Latitude Effects On Photosynthesis And Crop Production represents an important element within sustainable
@@ -101,10 +97,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[latitude-effects]]
+- [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]]
 - [[altitude-and-latitude-effects-on-climate]]
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]]
 - [[latitude-altitude-and-valley-climates]]
-- [[latitude-effects]]
 - [[mycorrhizal-effects-on-plant-community-composition]]

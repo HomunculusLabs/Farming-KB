@@ -50,12 +50,6 @@ methods that treated soil as an inert medium rather than a living
 system. The same pattern is repeating today across the globe, from
 California's Central Valley to the Sahel.
 
-## See Also
-
-- [[masanobu-fukuoka]]
-- fukuoka natural farming do nothing agriculture
-- fukuoka spiritual philosophy nature and god
-
 ## Overview
 
 Fukuoka Desertification Agricultural Civilization Collapse represents an important element within sustainable
@@ -133,8 +127,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[masanobu-fukuoka]]
+- fukuoka natural farming do nothing agriculture
+- fukuoka spiritual philosophy nature and god
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

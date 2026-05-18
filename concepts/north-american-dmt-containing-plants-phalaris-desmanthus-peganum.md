@@ -40,9 +40,6 @@ experiences lasting 3-4 hours.
 - McKenna DJ, Towers GH, Abbott F (1984) J Ethnopharmacol 10: 195-223.
 - Callaway JC, et al. (1996) J Anal Toxicol 20: 492-497.
 
-## See Also
-
-- [[north-american-dmt-plants-phalaris-desmanthus]]
 ## Practical Considerations
 
 Successful implementation of North American DMT-Containing Plants: Phalaris, Desmanthus, Peganum, and Passiflora requires attention to
@@ -139,10 +136,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[north-american-dmt-plants-phalaris-desmanthus]]
 - [[guzman-psilocybin-mushrooms-north-america]]
 - [[huckleberries-and-wild-berries-of-north-america]]
-- [[north-american-dmt-plants-phalaris-desmanthus]]
 - [[palmer-edible-mushrooms-north-america]]
 - [[schultes-datura-holy-flower-north-star]]

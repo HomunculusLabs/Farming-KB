@@ -37,12 +37,6 @@ A warm feeling spreads throughout the body with light pressure in the head that 
 Synthesized from 2,5-dimethoxy-4-(ethylthio)benzaldehyde (see [[aleph-7-pihkal-entry-7]]: The heptylthio analog (entry #7), active at 4-7 mg.
 - [[harm-reduction-guide]] for general psychedelic [[pihkal-cautionary-note-and-legal-context]] for jurisdictional status.
 
-## See Also
-
-- [[dom]]
-- [[aleph-6-pihkal-entry-6]]
-- [[aleph-4-pihkal-entry-5]]
-
 ## Overview
 
 Aleph 2 Pihkal Entry 4 represents an important element within sustainable
@@ -120,8 +114,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dom]]
+- [[aleph-6-pihkal-entry-6]]
+- [[aleph-4-pihkal-entry-5]]
 - [[aleph-2-entity-pihkal]]
 - [[aleph-4-entity]]
 - [[aleph-7-entity]]

@@ -56,10 +56,6 @@ In the [[singh-mycorrhizal-exudates-root-exudate-interactions]] -- related exuda
 - heavy metal contamination -- metals associated with phosphate
   minerals in contaminated soils
 
-## See Also
-
-- [[gadd-mycelial-resource-competition-and-combat-fungi]]
-
 ## Overview
 
 Singh Phosphate Solubilizing Fungi And Nutrient Mobilization represents an important element within sustainable
@@ -137,8 +133,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[gadd-mycelial-resource-competition-and-combat-fungi]]
 - [[singh-fungal-alkane-metabolism-pathways]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]

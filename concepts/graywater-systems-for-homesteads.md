@@ -15,14 +15,6 @@ Updated: 2026-04-18
 Graywater is wastewater from household sources other than toilets -- including sinks, showers, bathtubs, and washing machines. It typically contains soap, hair, food particles, and bacteria but is much less contaminated than blackwater (toilet waste). Reusing graywater for landscape irrigation can reduce household water consumption by 30-50% and is a key [[growing-root-vegetables-guide]] or plants where the edible portion contacts the soil
 - Best for [[cervantes-salt-buildup-leaching-management]] or overwatering
 
-## See Also
-
-- [[desalination-and-water-treatment-technologies]]
-- [[constructed-wetlands-wastewater-treatment]]
-- [[graywater-systems]]
-- [[composting]]
-- [[natfarm-graywater-recycling-systems]]
-
 ## Overview
 
 Graywater Systems For Homesteads represents an important element within sustainable
@@ -100,10 +92,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[desalination-and-water-treatment-technologies]]
+- [[constructed-wetlands-wastewater-treatment]]
 - [[graywater-systems]]
-- [[graywater-wetland-marsh-filtration-systems]]
+- [[composting]]
 - [[natfarm-graywater-recycling-systems]]
+- [[graywater-wetland-marsh-filtration-systems]]
 - [[rainwater-harvesting-systems]]
 - [[urban-permaculture-rainwater-harvesting-graywater]]

@@ -20,9 +20,6 @@ Any system or organism can accept only that quantity of a resource which it can 
 
 A foundational permaculture principle states that every organism affects its environment — "everything makes its own garden." Rabbits create burrows, defecation mounds, short swards, and conditions favorable for certain weeds. People build houses, dispose of sewage, and cultivate gardens. The designer's task is to determine where each organism belongs in the system and whether to control, manage, or tolerate its effects. When we examine how plants and animals change ecosystems, we may find many unexpected allies in sustaining both ourselves and other species.
 
-## See Also
-- [[resource-classification-and-management-in-permaculture]]
-
 ## Overview
 
 Permaculture Resource Classification represents an important element within sustainable
@@ -100,8 +97,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[resource-classification-and-management-in-permaculture]]
 - [[permaculture-building-design]]
 - [[permaculture-domestic-animals]]
 - [[permaculture-plants-aquatic-and-wetland-species]]

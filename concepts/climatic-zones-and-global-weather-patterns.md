@@ -47,10 +47,6 @@ There is no substitute in any design for:
 
 Designers working across wide climatic ranges should study regional long-term human and agricultural adaptations to climate. Above all, avoid introducing temperate (European) techniques and species to tropical and arid lands on any large scale. Native agricultural and pastoral management practices are often finely tuned to survival, sometimes highly productive, and above all independent of outside aid.
 
-## See Also
-- [[global-weather-patterns-and-atmospheric-engines]]
-- [[climatic-zones-and-classification-systems]]
-
 ## Overview
 
 Climatic Zones And Global Weather Patterns represents an important element within sustainable
@@ -128,10 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[global-weather-patterns-and-atmospheric-engines]]
+- [[climatic-zones-and-classification-systems]]
 - [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]
 - [[climatic-factors-in-design]]
-- [[climatic-zones-and-classification-systems]]
 - [[humid-tropics-introduction-and-climatic-zones]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]

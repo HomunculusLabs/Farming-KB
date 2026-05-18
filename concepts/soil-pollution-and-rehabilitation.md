@@ -61,11 +61,6 @@ The sane procedure in health is to:
 - Drink clean water or beverages
 - Stay as cheerful as this world permits
 
-## See Also
-
-- [[mollison-soil-pollution-and-remediation]]
-- [[soil-pollution-and-remediation]]
-
 ## Overview
 
 Soil Pollution And Rehabilitation represents an important element within sustainable
@@ -143,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-soil-pollution-and-remediation]]
+- [[soil-pollution-and-remediation]]
 - [[cool-temperate-soil-characteristics]]
 - [[jeavons-soil-ph-testing-balancing]]
 - [[lowenfels-tilling-no-till-soil-health]]

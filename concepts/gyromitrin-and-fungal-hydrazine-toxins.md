@@ -54,11 +54,6 @@ gastrointestinal upset to fulminant multi-organ failure and death. The onset of 
 is typically within 6-12 hours of ingestion, which is somewhat faster than the onset
 of [[emcdda-wild-mushroom-foraging-misidentification-hazards]].
 
-## See Also
-
-- [[ergosterol-fungal-membrane-biology]]
-- [[fungal-cell-wall-composition-and-structural-organization]]
-
 ## Overview
 
 Gyromitrin And Fungal Hydrazine Toxins represents an important element within sustainable
@@ -136,8 +131,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ergosterol-fungal-membrane-biology]]
+- [[fungal-cell-wall-composition-and-structural-organization]]
 - [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[gyromitrin]]

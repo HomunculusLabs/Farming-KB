@@ -11,9 +11,6 @@ type: concept
 
 See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
 
-## See Also
-- [[permaculture]]
-
 ## Overview
 
 Permaculture Settlement Siting Fire represents an important element within sustainable
@@ -91,8 +88,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture]]
 - [[dryland-settlement-vegetation-and-fuel-forests]]
 - [[fire-resistant-plants]]
 - [[low-island-coral-cay-permaculture]]

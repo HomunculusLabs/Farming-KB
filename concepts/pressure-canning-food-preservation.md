@@ -21,10 +21,6 @@ The critical threshold is 116°C (240°F), which is sufficient to kill C. botuli
 - Skipping the 10-minute venting step before building pressure
 - Modifying tested recipes (adding ingredients, changing proportions, or omitting acid)
 
-## See Also
-
-- [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]]
-
 ## Overview
 
 Pressure Canning Food Preservation represents an important element within sustainable
@@ -102,8 +98,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]]
 - [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]
 - [[pf-tek-pressure-canner-substrate-sterilization-upgrade-fanaticus]]
 - [[pressure-cooker-sterilization-mushroom-substrate]]

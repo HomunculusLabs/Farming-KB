@@ -11,12 +11,6 @@ type: concept
 of C3 and C4 plants to show that spore delta 13C decreased linearly from the
 C4 plant towards the proximity of the C3 plant in dual cultures.
 
-## See Also
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -130,8 +124,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[gadd-fungal-biodegradation-concrete-building-materials]]
 - [[gadd-fungal-ecology-pathogens]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]

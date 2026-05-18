@@ -25,11 +25,6 @@ dry substrate mass) of approximately 23-29%.
 
 Brassinosteroid-treated cultures yielded 3.4 to 3.9 grams dry mass per 10
 
-## See Also
-
-- [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison]]
-- [[psilocybe-cubensis-strain-varieties-and-characteristics]]
-
 ## Overview
 
 Psilocybe Cubensis Fruiting Timeline Flush Patterns Dung Grain Substrate represents an important element within sustainable
@@ -107,8 +102,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison]]
+- [[psilocybe-cubensis-strain-varieties-and-characteristics]]
 - [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
 - [[psilocybe-coprophila-profile]]
 - [[psilocybe-mexicana-profile]]

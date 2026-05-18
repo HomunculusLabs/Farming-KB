@@ -40,10 +40,6 @@ Russula virescens has a distinctive green cap with a pattern of cracks or patche
 
 Found in deciduous forests of Europe and [[ectomycorrhizal-ecology]] and ethnomycology for ecological context.
 
-## See Also
-
-- [[russula-integra]]
-
 ## Overview
 
 Russula Edible Species represents an important element within sustainable
@@ -121,8 +117,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[russula-integra]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
 - [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
 - [[palmer-russula-lactarius-families]]

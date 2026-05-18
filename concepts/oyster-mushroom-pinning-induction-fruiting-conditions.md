@@ -28,11 +28,6 @@ challenging. In temperate regions, supplemental humidification may be needed. Th
 growing room should be checked multiple times daily based on hygrometer readings and
 [[pf-tek-substrate-moisture-diagnosis-and-correction]] and even light and air exposure.
 
-## See Also
-
-- [[oyster-mushroom-species]]-guide
-- oyster-mushroom-growing-house-site-selection-house-environment
-
 ## Practical Considerations
 
 Successful implementation of Oyster Mushroom Pinning oyster mushroom pinning induction fruiting conditions Conditions requires attention to
@@ -129,8 +124,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[oyster-mushroom-species]]-guide
+- oyster-mushroom-growing-house-site-selection-house-environment
 - [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
 - [[oyster-mushroom-bagging-methods-worldwide-comparison]]
 - [[oyster-mushroom-marketing-economics]]

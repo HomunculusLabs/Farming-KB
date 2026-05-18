@@ -46,12 +46,6 @@ commercial [[genetic-improvement-agaricus-bisporus-molecular-approaches]] are 1â
 substrate dry weight. Higher spawn rates give faster colonization and better
 contamination resistance but increase input costs.
 
-## See Also
-
-- [[fungal-fruiting-body-formation-environmental-triggers]]
-- [[mushroom-spawn-grain-preparation-inoculation]]
-- [[singh-mushroom-spawn-production-grain-spawn]]
-
 ## Overview
 
 Mushroom Spawn Production Grain Inoculation represents an important element within sustainable
@@ -129,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-fruiting-body-formation-environmental-triggers]]
+- [[mushroom-spawn-grain-preparation-inoculation]]
+- [[singh-mushroom-spawn-production-grain-spawn]]
 - [[casing-soil-mushroom-cultivation]]
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[mushroom-geotropism-and-spore-formation]]

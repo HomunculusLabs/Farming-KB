@@ -26,10 +26,6 @@ For permaculture designers, the key strategies derived from understanding precip
 4. **Select species for actual water availability** — not rainfall averages, which may mislead
 5. **Preserve cloud forests** — they are irreplaceable natural water-harvesting systems
 
-## See Also
-- [[precipitation-types-dew-fog-rainfall]]
-- [[precipitation-types-dew-fog]]
-
 ## Overview
 
 Precipitation Types And Dew Fog Collection represents an important element within sustainable
@@ -107,8 +103,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[precipitation-types-dew-fog-rainfall]]
+- [[precipitation-types-dew-fog]]
 - [[precipitation-and-opportunistic-response-in-deserts]]
 - [[precipitation-types-and-dew-collection]]
 - [[tree-effects-on-precipitation]]

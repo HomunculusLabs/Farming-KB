@@ -98,12 +98,10 @@ Permaculture draws heavily on these indigenous pattern-understanding traditions:
 
 The challenge for modern permaculture designers is to study and portray knowledge in compact, memorable, and transmissible forms — to research and recreate surviving art forms that retain their meaning, and to reintegrate art with science and society's functions and needs.
 
+
 ## See Also
 - [[tribal-pattern-encodement-and-song-navigation]]
 - [[pattern-applications-and-tribal-pattern-knowledge]]
-
-## See Also
-
 - [[indigenous-use-of-sacred-mushrooms]]
 - [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]
 - [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]]

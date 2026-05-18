@@ -54,8 +54,6 @@ inhospitable barriers, with the strength of projection proportional to
 the mycelial mat's ability to sequester and channel nutrients to its
 advancing tips.
 
-## See Also
-
 ## Overview
 
 Mycelium Running Garden Giant Stamets represents an important element within sustainable
@@ -133,8 +131,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[growing-gourmet-iconic-types-mushroom-mycelium]]
 - [[mycelium-digestive-membrane-information-network]]
 - [[mycelium-running-insect-fungal-mutualism]]

@@ -44,12 +44,6 @@ intellect. See also [[fukuoka-natural-farming-philosophy-road-back-to-nature|nat
   Will the road to nature fade again
   Into the mists?
 
-## See Also
-
-- [[fukuoka-road-japanese-preface]]
-- [[fukuoka-road-european-culture-of-food]]
-- [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
-
 ## Overview
 
 Fukuoka Road English Preface represents an important element within sustainable
@@ -127,10 +121,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-road-japanese-preface]]
+- [[fukuoka-road-european-culture-of-food]]
+- [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]
-- [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-western-vs-japanese-attitudes]]

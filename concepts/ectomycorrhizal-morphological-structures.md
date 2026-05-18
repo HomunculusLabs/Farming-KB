@@ -47,14 +47,6 @@ The extramatrical mycelium (also called external mycelium or soil mycelium) exte
 - [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 - [[singh-ectomycorrhizal-pah-tnt-transformation]]
 
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi]]
-- [[ectomycorrhizal-remediation]]
-- [[dom]]
-- [[fungal-hyphae]]
-- [[ectomycorrhiza]]
-
 ## Overview
 
 Ectomycorrhizal Morphological Structures represents an important element within sustainable
@@ -132,10 +124,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[arbuscular-mycorrhizal-fungi]]
+- [[ectomycorrhizal-remediation]]
+- [[dom]]
+- [[fungal-hyphae]]
+- [[ectomycorrhiza]]
 - [[biodiversity-fungi-ectomycorrhizal-diversity]]
 - [[comparison-arbuscular-vs-ectomycorrhizal]]
-- [[ectomycorrhizal-remediation]]
 - [[gadd-mycorrhizal-carbon-cycle-ericoid-ectomycorrhizal-sequestration]]
 - [[singh-ectomycorrhizal-pah-tnt-transformation]]

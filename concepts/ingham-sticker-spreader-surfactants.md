@@ -38,12 +38,6 @@ the manufacturer's recommendations for dilution and be aware that
 your tea already contains organic materials that may interact with
 the sticker-spreader product.
 
-## See Also
-
-- [[spore]]
-- [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-
 ## Overview
 
 Ingham Sticker Spreader Surfactants represents an important element within sustainable
@@ -121,8 +115,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[spore]]
+- [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
+- [[ingham-nutrient-cycling-soil-food-web]]
 - [[aact-brewing-ingredients-ingham]]
 - [[ingham-aact-brewing-techniques]]
 - [[ingham-foliar-pest-deterrence-aact]]

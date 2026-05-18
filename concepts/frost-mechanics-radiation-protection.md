@@ -96,11 +96,9 @@ Areas of severe radiation require screening:
 - Prevent radiation loss with reflective insulation or double-glazed windows
 - Massive stoves (radiant heaters) are extremely efficient—they heat bodies and objects directly rather than wasting energy heating air
 
+
 ## See Also
 - [[coleman-season-extension-timeline-and-frost-protection]]
-
-## See Also
-
 - [[query-how-do-i-protect-plants-from-frost-and-freeze-damage]]
 - [[frost-protection-strategies]]
 - [[frost-protection-in-permaculture]]

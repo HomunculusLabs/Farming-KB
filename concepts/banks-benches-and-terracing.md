@@ -29,10 +29,6 @@ On very steep slopes, terrace systems must be carefully designed with narrow pla
 
 Banks, benches, and terraces are rarely used in isolation. An integrated design might use banks along contour lines for water harvesting, benched roads for access across a slope, and terraces for intensive food production — all working together to stabilise the landscape and maximise productivity. The choice between these techniques depends on slope angle, soil type, water availability, intended land use, and available resources. In all cases, vegetation is the primary long-term stabilising agent, and earthworks should be planted and protected as soon as possible after construction.
 
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-
 ## Overview
 
 Banks Benches And Terracing represents an important element within sustainable
@@ -110,14 +106,16 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
+## Practical Considerations
 
+Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.
+
+
+## See Also
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
+- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[dryland-settlements-and-interceptor-banks]]
 - [[interceptor-banks-soil-rehabilitation]]
 - [[mollison-designers-community-seed-banks-and-exchange]]
 - [[mollison-designers-diversion-drains-and-interceptor-banks]]
 - [[spreader-banks-and-interceptor-drains]]
-
-## Practical Considerations
-
-Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.

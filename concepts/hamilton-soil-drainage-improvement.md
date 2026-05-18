@@ -63,11 +63,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[query-how-do-i-improve-soil-drainage-in-my-garden]]
-- [[hamilton-soil-biology-and-microorganisms]]
-- [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]
-
 ## Overview
 
 Hamilton Soil Drainage Improvement represents an important element within sustainable
@@ -145,6 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[query-how-do-i-improve-soil-drainage-in-my-garden]]
+- [[hamilton-soil-biology-and-microorganisms]]
+- [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]
 - [[hamilton-cottage-garden-design]]

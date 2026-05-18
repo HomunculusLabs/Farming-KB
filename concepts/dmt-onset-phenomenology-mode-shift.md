@@ -11,11 +11,6 @@ created: 2026-05-08
 
 [[mckenna-dmt-experience-and-hyperspace]] seriously as a source of knowledge about the nature of consciousness and reality.
 
-## See Also
-
-- [[tryptamine-hypercontinuum]]
-
-- dmt [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 ## Practical Applications
 
 DMT Onset Phenomenology and Mode Shift has a range of practical applications that make it relevant to
@@ -83,7 +78,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[tryptamine-hypercontinuum]]
+- dmt [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 - [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]
 - [[det]]
 - [[tryptamine]]

@@ -23,9 +23,6 @@ from diversity in the use of land. The more diverse a system, the more
 stable it is. A natural diverse system offers many opportunities and is
 economically safer than specialisation.
 
-## See Also
-
-- [[hugelkultur-bed-construction-detailed]] for detailed hugelkultur methods
 ## Practical Considerations
 
 When working with Biodiversity and Soil Life, several practical factors should be
@@ -123,8 +120,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hugelkultur-bed-construction-detailed]] for detailed hugelkultur methods
 - [[biodiversity-fungi-temperate-boreal-forests]]
 - [[biodiversity-microfungi-litter-wood-debris]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]

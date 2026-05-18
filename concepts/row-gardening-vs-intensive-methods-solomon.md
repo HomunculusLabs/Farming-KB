@@ -50,10 +50,6 @@ walks on them, which avoids compacting the root zone.
   without irrigation infrastructure. Requires wider spacing and careful
   variety selection.
 
-## See Also
-
-- [[complete-organic-fertilizer-cof]]-recipe-solomon
-
 ## Source
 
 - Solomon, Steve. *Gardening When It Counts*. New Society Publishers, 2005.
@@ -135,8 +131,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[complete-organic-fertilizer-cof]]-recipe-solomon
 - [[cold-frame-gardening]]
 - [[comparison-chinampas-vs-raised-bed-gardening]]
 - [[hamilton-seasonal-gardening-calendar]]

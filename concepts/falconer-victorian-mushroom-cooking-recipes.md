@@ -11,8 +11,6 @@ type: concept
 
 # Victorian falconer-gathering-and-marketing-mushrooms
 
-## See Also
-- [[falconer-who-should-grow-mushrooms]]
 ## Background and Context
 
 [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
@@ -67,11 +65,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[mycorrhiza]]
-- [[falconer-mushroom-cultivation-victorian-methods]]
 
 ## Overview
 
@@ -148,3 +141,10 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
+
+
+## See Also
+- [[falconer-who-should-grow-mushrooms]]
+- [[dom]]
+- [[mycorrhiza]]
+- [[falconer-mushroom-cultivation-victorian-methods]]

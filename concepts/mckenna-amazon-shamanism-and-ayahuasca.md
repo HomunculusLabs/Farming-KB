@@ -55,16 +55,6 @@ Responsible engagement requires understanding set and setting, proper dosing pro
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
 
-## See Also
-
-- [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
-- [[mckenna-shamanism-and-techniques-of-ecstasy]]
-- [[harner-ayahuasca-shamanism-amazon]]
-
-- [[mckenna-psychedelic-shamanism]]
-- [[mckenna-shamanism-and-the-lost-archaic-world]]
-- [[mckenna-catalytic-psychedelics-and-culture]]
-
 ## Overview
 
 Mckenna Amazon Shamanism And Ayahuasca represents an important element within sustainable
@@ -142,8 +132,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
+- [[mckenna-shamanism-and-techniques-of-ecstasy]]
+- [[harner-ayahuasca-shamanism-amazon]]
+- [[mckenna-psychedelic-shamanism]]
+- [[mckenna-shamanism-and-the-lost-archaic-world]]
+- [[mckenna-catalytic-psychedelics-and-culture]]
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

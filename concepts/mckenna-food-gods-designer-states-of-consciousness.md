@@ -37,11 +37,6 @@ He also describes psychedelics as "enzymes that synergize the human
 imagination and empower language." They cause people to connect and
 reconnect the contents of the collective mind in ever more implausible,
 
-## See Also
-- [[mckenna-food-gods-set-setting-psychedelic-preparation]]
-- [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]
-- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
-
 ## Overview
 
 Mckenna Food Gods Designer States Of Consciousness represents an important element within sustainable
@@ -119,8 +114,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-gods-set-setting-psychedelic-preparation]]
+- [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]
+- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

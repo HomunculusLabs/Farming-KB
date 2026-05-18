@@ -62,13 +62,6 @@ prioritizing conservation effort. Ex situ conservation through culture
 collections is possible but resource-intensive. Citizen science programs
 generate valuable distribution data and raise public awareness.
 
-## See Also
-
-- [[cryptic-fungal-species]]
-- [[fungal-biodiversity]]
-- [[psilocybin]]
-- [[saprotrophic-fungi]]
-
 ## Overview
 
 Fungal Conservation Challenges represents an important element within sustainable
@@ -146,4 +139,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[cryptic-fungal-species]]
+- [[fungal-biodiversity]]
+- [[psilocybin]]
+- [[saprotrophic-fungi]]

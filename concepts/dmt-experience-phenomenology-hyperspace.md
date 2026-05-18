@@ -55,12 +55,6 @@ McKenna argues that the fear sometimes inspired by DMT is not a side effect but 
 - [[mckenna-logos-consciousness-language]]
 - [[5-meo-dmt-compound-profile]]
 
-## See Also
-
-- McKenna T. (1983/1992) "Tryptamine [[tryptamine-hallucinogens-and-consciousness]]." The Archaic Revival. HarperSanFrancisco.
-- Strassman R. (2001) "DMT: The Spirit Molecule." Park Street Press.
-- Timmermann C. et al. (2018) "DMT Modulates Neural Oscillatory Patterns." Scientific Reports 8: 2130.
-
 ## Overview
 
 Dmt Experience Phenomenology Hyperspace represents an important element within sustainable
@@ -138,8 +132,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- McKenna T. (1983/1992) "Tryptamine [[tryptamine-hallucinogens-and-consciousness]]." The Archaic Revival. HarperSanFrancisco.
+- Strassman R. (2001) "DMT: The Spirit Molecule." Park Street Press.
+- Timmermann C. et al. (2018) "DMT Modulates Neural Oscillatory Patterns." Scientific Reports 8: 2130.
 - [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
 - [[lsd-lysergic-acid-diethylamide-experience-guide]]
 - [[lsd-psychedelic-experience-guide]]

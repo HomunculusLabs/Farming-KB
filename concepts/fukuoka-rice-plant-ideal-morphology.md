@@ -14,9 +14,6 @@ Many people assume that yields from [[comparison-green-manure-guide-vs-mulch-typ
 more total energy than rice monoculture ever could, even when
 measured purely by grain output per unit area.
 
-## See Also
-
-- [[fukuoka-rice-and-barley-natural-farming]]
 ## Practical Applications
 
 Ideal [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
@@ -66,11 +63,6 @@ The historical development of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
-
-## See Also
-- [[doc]]
-- [[mycorrhiza]]
-- [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]
 
 ## Overview
 
@@ -148,3 +140,10 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+
+
+## See Also
+- [[fukuoka-rice-and-barley-natural-farming]]
+- [[doc]]
+- [[mycorrhiza]]
+- [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]

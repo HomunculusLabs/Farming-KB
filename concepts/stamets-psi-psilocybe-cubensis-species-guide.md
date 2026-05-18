@@ -16,10 +16,6 @@ stropharia cyanescens.
 The reassignment of Stropharia Cubensis to [[psilocybe-caerulescens]], Psilocybe Aztecorum,
 psilocybe zapotecorum, or [[psychedelic-mushroom-set-and-setting]] - subtropical grassland species
 
-## See Also
-
-- Galerina - deadly look-alike genus
-- [[field-guide-psilocybin-bluing-reaction-identification]] as a co-indicator of activity
 ## Practical Considerations
 
 Successful implementation of Psilocybe cubensis Species Guide requires attention to
@@ -116,8 +112,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- Galerina - deadly look-alike genus
+- [[field-guide-psilocybin-bluing-reaction-identification]] as a co-indicator of activity
 - [[stamets-cultivator-liquid-culture-propagation-methods]]
 - [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]

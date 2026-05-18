@@ -58,11 +58,6 @@ Some practitioners could kill by inducing fibrillation in heart nerves, demonstr
 
 One of the most remarkable examples of pattern encoding is the Anasazi spiral, with 19 intercepts on its "horizon" line. This apparently simple spiral form, inscribed on a rock [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] intuitive, and therefore most entitled to special veneration. Such knowledge is almost invariably based on pattern understanding and is independent of sex or even age. One is "aged" by degree of revelation, not time spent living.
 
-## See Also
-
-- [[tribal-pattern-knowledge]]
-- [[tribal-soil-classification-and-structure]]
-
 ## Overview
 
 Tribal Pattern Knowledge And Traditional Encoding represents an important element within sustainable
@@ -140,10 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tribal-pattern-knowledge]]
+- [[tribal-soil-classification-and-structure]]
 - [[mollison-tribal-soil-classifications-and-soil-structure]]
 - [[tribal-art-as-sacred-knowledge-systems]]
 - [[tribal-pattern-encoding-and-mnemonics]]
-- [[tribal-soil-classification-and-structure]]
 - [[tribal-uses-of-patterning]]

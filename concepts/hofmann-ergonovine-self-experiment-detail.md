@@ -49,12 +49,6 @@ The experiment also contributed to the growing recognition that many "medicinal"
 
 - [Hofmann ergot alkaloid research program
 
-## See Also
-
-- [[ergonovine]]
-- [[doc]]
-- [[claviceps-paspali-alkaloids]]
-
 ## Overview
 
 Hofmann Ergonovine Self Experiment Detail represents an important element within sustainable
@@ -132,8 +126,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ergonovine]]
+- [[doc]]
+- [[claviceps-paspali-alkaloids]]
 - [[hofmann-leary-case-and-harvard-research]]
 - [[hofmann-lsd-mazatec-and-psilocybin]]
 - [[hofmann-lsd-pharmacology-and-effects]]

@@ -64,11 +64,6 @@ This is not a regression to primitivism. Natural farming, for Fukuoka, is parado
 
 It occupies an "immutable and unshakable position that transcends time and space." It is always simultaneously the oldest and the newest form of farming — the practice of the first humans and the inevitable practice of the last. In this sense, natural farming stands at the very leading edge of modern agriculture, not behind it but ahead of it, waiting for civilization to complete its arc and return.
 
-## See Also
-
-- [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]]
-- [[fukuoka-one-straw-revolution-philosophy]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -97,7 +92,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]]
+- [[fukuoka-one-straw-revolution-philosophy]]
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
 - [[natural-farming]]
 - [[mycorrhiza]]

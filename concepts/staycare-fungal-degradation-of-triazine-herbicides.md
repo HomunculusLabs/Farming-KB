@@ -42,9 +42,6 @@ broad xenobiotic-degrading specificity. The degradative ability of
 these ectomycorrhizal fungi was comparable to, and in some cases
 exceeded, that of white [[staycare-molecular-approaches-fungal-bioremediation]].
 
-## See Also
-
-- [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]]
 ## Practical Considerations
 
 Successful implementation of Fungal Degradation of Triazine Herbicides requires attention to
@@ -141,8 +138,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]]
 - [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]]
 - [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]]
 - [[staycare-lignin-peroxidase-and-pollutant-degradation]]

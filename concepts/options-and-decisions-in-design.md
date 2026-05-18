@@ -40,9 +40,6 @@ The complete options-based design process follows this general flow:
 
 This iterative approach ensures that design remains responsive to reality rather than locked into a predetermined plan that may prove unsuitable once implemented.
 
-## See Also
-- [[permaculture-options-and-decisions]]
-
 ## Overview
 
 Options And Decisions In Design represents an important element within sustainable
@@ -120,10 +117,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-options-and-decisions]]
 - [[coleman-greenhouse-heating-options-winter-production]]
 - [[homestead-internet-options]]
-- [[permaculture-options-and-decisions]]
 - [[permaculture-options-decisions-map-overlays]]
 - [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]

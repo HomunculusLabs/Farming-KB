@@ -137,13 +137,9 @@ Each mechanism operates simultaneously in most real-world systems. A well-design
 - **Use thermal mass strategically**: Conductive materials stabilize temperature swings in both heating and cooling seasons.
 - **Consider biological models**: Thermogenic plants show that decentralized, chemical-based heat production is viable even in cold climates.
 
+
 ## See Also
 - [[thermal-belts-heat-transfer-convection]]
 - [[heat-transfer-conduction-convection-radiation]]
-
-## See Also
-
 - [[convection-thermosiphons-heat-transfer]]
-- [[heat-transfer-conduction-convection-radiation]]
-- [[thermal-belts-heat-transfer-convection]]
 - [[thermal-belts-thermosiphons-and-convective-heat]]

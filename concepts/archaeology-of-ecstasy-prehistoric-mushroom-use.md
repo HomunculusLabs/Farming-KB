@@ -8,11 +8,6 @@ sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
 # The Archaeology of Ecstasy — Prehistoric Mushroom Use Debate The question of whether prehistoric humans used psychoactive mushrooms is one of the most contested issues in the history of psychedelia. The popular narrative of an ancient, unbroken tradition of mushroom use stretching back to the Palaeolithic is examined critically in the archaeological record. ## The Popular Narrative Speak to any serious-minded mushroom aficionado, and they will conjure a picture of a Palaeolithic hunter-gatherer who picks a mushroom, experiences its psychedelic effects, and returns to camp with a bundle of sacred mushrooms. This belief rests upon a philosophical assumption: that there is some universal or essential psychedelic experience that transcends history and culture. Aldous Huxley famously argued in The Doors of Perception (1954) that all vegetable hallucinogens "have been known and systematically used by human beings since time immemorial," because the longing to transcend the drudgeries of life "is and always has been one of the principal appetites of the soul." When psychedelia went mainstream during the mid-1960s, these arguments were eagerly reiterated by hippies determined to make the case against prohibition. Enthusiasts imagine an unbroken tradition stretching from Palaeolithic shamans through Neolithic builders of Stonehenge, the ancient Greeks at Eleusis, Iron Age Druids, and medieval witches — only severed by Christianity and the industrial revolution. ## The Three Conditions For any particular culture to have centralised the use of a psychoactive species, three conditions must obtain: 1. **Availability:** The plant must be available in sufficient quantities, either growing in a plentiful enough supply or obtainable by trade 2. **Knowledge:** The culture must know that the plant is responsible for causing the subsequent alterations of consciousness 3. **Cultural context:** There must be a cultural context in which those alterations can be meaningfully apprehended, and psychologically and socially integrated These three conditions frame the entire debate. Without all three being satisfied simultaneously, the hypothesis that a culture systematically used psychoactive mushrooms cannot be sustained. Each condition presents its own evidentiary challenges when applied to prehistoric societies. ## Evidence Against Ancient Use in Europe ### The Fly-Agaric (Amanita muscaria) Found across great swathes of temperate forest regions, but has only been consistently used as an intoxicant in two relatively small regions of Siberia. In Japan it was consumed as a food (not intoxicant), with elaborate cooking techniques employed to remove psychoactive ingredients. In China, known since the Chin Dynasty (265-420 CE), mushrooms that "made you laugh unceasingly" were classified as poisons to be avoided. The Siberian case is instructive because it represents the most thoroughly documented instance of sustained cultural mushroom use. Yet even here, the practice was geographically limited to specific ethnic groups — primarily the Koryak, Chukchi, and Kamchadal peoples — rather than being universal among Siberian populations. ### European Psilocybin Mushrooms Known since at least the fifteenth century, with some writers likening their effects to opium, but no one seems to have eaten them intentionally until the twentieth century. Contemporary Dutch statistics show that most people who have ever taken magic mushrooms do so only once or twice in their lifetime. The [[mckenna-modest-proposal-drug-policy-reform]] debates. Claims that psychedelics have been used "since the dawn of humanity" are routinely deployed in arguments for decriminalisation, regardless of their historical accuracy.
 
-## See Also
-
-- [[soma-and-the-sacred-mushroom-debate]]
-- mushroom-polymorphous-symbolism
-
 ## Related
 
 - [[magic-mushroom-history-timeline]]
@@ -113,8 +108,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soma-and-the-sacred-mushroom-debate]]
+- mushroom-polymorphous-symbolism
 - [[archaeology-of-psychedelic-mushroom-use]]
 - [[archaeology-of-psychedelic-mushrooms]]
 - [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]

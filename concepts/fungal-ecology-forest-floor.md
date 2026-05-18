@@ -51,12 +51,6 @@ In old-growth forests, a continuous mycelial mat underlies the forest floor. Thi
 
 Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels, and many other animals. Fly larvae breed in rotting mushrooms, attracting lizards and birds. This cascading food web makes fungi foundational to forest biodiversity.
 
-## See Also
-
-- [[mycoforestry-forest-restoration]]
-- [[cotter-mycoremediation-overview]]
-- [[mushroom-foraging-safety]]
-
 ## Overview
 
 Fungal Ecology Forest Floor represents an important element within sustainable
@@ -134,8 +128,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycoforestry-forest-restoration]]
+- [[cotter-mycoremediation-overview]]
+- [[mushroom-foraging-safety]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[plant-fungal-signaling-mycorrhiza]]

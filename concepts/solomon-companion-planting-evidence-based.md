@@ -31,11 +31,6 @@ entire biomass is returned to the soil.
 
 Solomon's [[hamilton-garden-planning-and-site-assessment]].
 
-## See Also
-
-- [[solomon-crop-rotation-and-garden-planning]]
-- [[green-manure-cover-crops]]
-
 ## Overview
 
 Solomon Companion Planting Evidence Based represents an important element within sustainable
@@ -113,8 +108,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[solomon-crop-rotation-and-garden-planning]]
+- [[green-manure-cover-crops]]
 - [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 - [[solomon-low-grade-compost-making-methods]]

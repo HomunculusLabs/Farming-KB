@@ -49,15 +49,6 @@ The process of designing by deduction follows several key steps:
 - Design for multiple functions and elements
 - Apply small-scale intensive solutions before large-scale extensive ones
 
-## See Also
-
-- [[permaculture-design-principles]]
-- [[permaculture-landscape-society-design]]
-- [[permaculture-deduction-from-nature]]
-- [[permaculture-functional-design-integration]]
-
-Continued research into design deduction from nature expands the knowledge base for ecological design.
-
 ## Overview
 
 Design Deduction From Nature represents an important element within sustainable
@@ -135,8 +126,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-design-principles]]
+- [[permaculture-landscape-society-design]]
+- [[permaculture-deduction-from-nature]]
+- [[permaculture-functional-design-integration]]
+Continued research into design deduction from nature expands the knowledge base for ecological design.
 - [[hemenway-apple-tree-guild-design]]
 - [[mollison-classification-of-events-and-orders-in-design]]
 - [[mollison-permaculture-design-course-curriculum]]

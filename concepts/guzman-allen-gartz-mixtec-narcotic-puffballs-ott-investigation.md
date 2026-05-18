@@ -25,11 +25,6 @@ The Mixtec puffball case illustrates a recurring phenomenon in ethnomycoology: t
 - [[allen-new-zealand-psychoactive-fungi]]
 - [[allen-psilocybin-potency-australian-species]]
 
-## See Also
-
-- [[dictyophora-indusiata-divination-fungus-chinantec]] — Another Group 4 sacred fungus without confirmed neurotropic properties
-- [[elaphomyces-granulatus]] — The "director" of ceremonies involving sacred Cordyceps and *Psilocybe*
-
 ## Overview
 
 Guzman Allen Gartz Mixtec Narcotic Puffballs Ott Investigation represents an important element within sustainable
@@ -107,8 +102,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[dictyophora-indusiata-divination-fungus-chinantec]] — Another Group 4 sacred fungus without confirmed neurotropic properties
+- [[elaphomyces-granulatus]] — The "director" of ceremonies involving sacred Cordyceps and *Psilocybe*
 - [[guzman-accidental-psilocybin-vapor-inhalation-lab]]
 - [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]

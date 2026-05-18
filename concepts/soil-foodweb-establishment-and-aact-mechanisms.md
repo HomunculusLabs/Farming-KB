@@ -118,15 +118,13 @@ The field guide provides guidance on typical amounts and timing of inputs for AA
 - **Application timing**: Apply AACT during cool, cloudy conditions or in the evening to minimize UV damage to organisms. Soil drenches can be applied at any time.
 - **Application frequency**: Initial programs may require monthly applications, with frequency reducing as soil biology establishes.
 
-## See Also
 
+## See Also
 - Actively aerated compost tea overview
 - Soil foodweb and microbial ecology
 - Compost tea brewing methods and quality control
 - Biological disease suppression in soils
 - Direct microscopy for soil biology assessment
-
-## See Also
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
 - [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]
 - [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]

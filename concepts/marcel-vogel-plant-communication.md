@@ -25,11 +25,6 @@ the bioelectric field. Building on [[cleve-backster-plant-perception-experiments
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[plant-communication-volatile-organic-compounds]]
-- [[tompkins-plant-chemical-communication]]
-- [[chamovitz-plant-scent-communication-volatile-organic-compounds]]
-
 ## Overview
 
 Marcel Vogel Plant Communication represents an important element within sustainable
@@ -107,8 +102,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[plant-communication-volatile-organic-compounds]]
+- [[tompkins-plant-chemical-communication]]
+- [[chamovitz-plant-scent-communication-volatile-organic-compounds]]
 - [[comfrey-plant-guide]]
 - [[plant-olfaction-volatile-chemical-perception]]
 - [[stephen-vogel-mollison]]

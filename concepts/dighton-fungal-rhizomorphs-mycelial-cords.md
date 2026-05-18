@@ -52,11 +52,6 @@ nutrients, carbon, and water can modify the distribution of
 heterogeneously distributed resources and reduce spatial heterogeneity
 within ecosystems.
 
-## See Also
-
-- [[decomposition]]
-- [[dighton-selective-grazing-fungal-community-shifts]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -85,7 +80,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[composting]]
 - [[decomposition]]
+- [[dighton-selective-grazing-fungal-community-shifts]]
+- [[composting]]
 - [[dighton-litter-quality-fungal-decomposition-rates]]

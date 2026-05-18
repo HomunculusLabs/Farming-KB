@@ -59,14 +59,6 @@ Genetically modified organisms combine enhanced degradative capabilities:
 - Multiple isozyme genes (lipA through lipJ) identified in P. chrysosporium for [[arbuscular-mycorrhizal-inoculum-production-best-practices]] must be balanced against remediation benefit
 - Long-term stability of remediated soils needs assessment
 
-## See Also
-
-- mycoremediation-of-petroleum-hydrocarbons
-- [[fungal-competition-survival-contaminated-soils]]
-- [[laccase]]
-- [[mycoremediation]]
-- [[mycorrhiza]]
-
 ## Overview
 
 Combined Biological Remediation Approaches represents an important element within sustainable
@@ -144,7 +136,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mycoremediation-of-petroleum-hydrocarbons
+- [[fungal-competition-survival-contaminated-soils]]
+- [[laccase]]
+- [[mycoremediation]]
+- [[mycorrhiza]]
 - [[biological-indicators-of-soil-conditions]]
 - [[biological-nitrification-inhibition]]

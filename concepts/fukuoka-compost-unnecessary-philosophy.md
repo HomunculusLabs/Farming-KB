@@ -15,14 +15,6 @@ Updated: 2026-04-19
 
 Masanobu Fukuoka provocatively declares composting unnecessary in *The Natural Way of Farming*, arguing that returning fresh straw directly to fields is both simpler and more effective than the laborious process of [[fukuoka-no-fertilizer-principle]] and [[soil-microbiology-in-natural-farming]] and [[fukuoka-natural-rice-farming-steps]]." But this is only possible with strong, healthy grain. The importance of healthy [[fukuoka-agricultural-pollution-and-consumer-culpability]].
 
-## See Also
-
-- [[fukuoka-no-fertilizer-principle]]
-
-- [[masanobu-fukuoka]]
-- [[det]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
-
 ## Overview
 
 Fukuoka Compost Unnecessary Philosophy represents an important element within sustainable
@@ -100,8 +92,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-no-fertilizer-principle]]
+- [[masanobu-fukuoka]]
+- [[det]]
+- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

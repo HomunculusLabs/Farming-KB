@@ -56,12 +56,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
-
-- [[maps]]
-- [[permaculture]]
-- [[bioregional-organization-mollison]]
-
 ## Overview
 
 Bioregional Organization represents an important element within sustainable
@@ -139,8 +133,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[maps]]
+- [[permaculture]]
 - [[bioregional-organization-mollison]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[holmgren-bioregional-governance-and-political-structures]]

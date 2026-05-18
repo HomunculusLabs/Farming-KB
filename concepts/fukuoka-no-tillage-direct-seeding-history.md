@@ -31,14 +31,6 @@ Fukuoka's observations over more than twenty years, coupled with other insights,
 
 The experience demonstrated conclusively that no-tillage cultivation not only does not degrade the land being worked — it actually improves and enriches it.
 
-## See Also
-
-- [[fukuoka-green-manure-clover-revolution]]
-
-- [[masanobu-fukuoka]]
-- [[det]]
-- [[fukuoka-rice-barley-cultivation-history-no-tillage-method]]
-
 ## Overview
 
 Fukuoka No Tillage Direct Seeding History represents an important element within sustainable
@@ -116,8 +108,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-green-manure-clover-revolution]]
+- [[masanobu-fukuoka]]
+- [[det]]
+- [[fukuoka-rice-barley-cultivation-history-no-tillage-method]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

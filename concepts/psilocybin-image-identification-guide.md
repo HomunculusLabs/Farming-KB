@@ -19,9 +19,6 @@ Visual identification is an essential skill for anyone studying or foraging [[co
 - PF TEK grow chamber documentation (fruiting cakes, environmental setups)
 - Recording flush quality and morphology for yield tracking
 
-## See Also
-
-- [[magic-mushrooms-australia-new-zealand]] — Australian/NZ species with photos
 ## Practical Considerations
 
 Successful implementation of Psilocybin Mushroom Image Identification Guide requires attention to
@@ -118,8 +115,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[magic-mushrooms-australia-new-zealand]] — Australian/NZ species with photos
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

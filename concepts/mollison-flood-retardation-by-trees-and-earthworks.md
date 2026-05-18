@@ -121,13 +121,11 @@ Techniques discussed here can be adapted across a wide range of scales, from sma
 
 Climate adaptation is essential for long-term success. What works in temperate regions may require significant modification for tropical or arid environments. Local knowledge, experimentation, and careful observation of results guide successful adaptation across diverse conditions and resource availability levels.
 
+
 ## See Also
 - [[mollison-designers-coppicing-management-of-legume-trees]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[mollison-designers-grafting-and-budding-fruit-trees]]
-
-## See Also
-
 - [[flood-plain-design-and-riparian-forestry]]
 - [[flood-preparedness-guide]]
 - [[fukuoka-plow-hardens-soil-flood-mechanism]]

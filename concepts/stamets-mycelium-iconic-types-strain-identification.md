@@ -56,10 +56,6 @@ Experienced cultivators can identify many common cultivated species solely by th
 - *[[ganoderma-lucidum]]*: Very white, dense, appressed tomentose growth that progressively darkens to a cream or tan color with age.
 - *[[coprinus-atrementarius-entity-the-mushroom-cultivator]]*. Agarikon Press.
 
-## See Also
-- [[hamilton-soil-types-identification]]
-- [[cannabis-seed-selection-and-strain-types]]
-
 ## Overview
 
 Stamets Mycelium Iconic Types Strain Identification represents an important element within sustainable
@@ -137,8 +133,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hamilton-soil-types-identification]]
+- [[cannabis-seed-selection-and-strain-types]]
 - [[mushroom-inoculation-techniques-stamets]]
 - [[stamets-crop-watering-flushing-management]]
 - [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

@@ -23,13 +23,6 @@ of 2-4x and typically increases potency. This pattern demonstrates
 the metabolic stability conferred by the methyl group, which impedes
 monoamine oxidase degradation.
 
-## See Also
-- [[phenethylamine-chemistry-basics]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -136,8 +129,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phenethylamine-chemistry-basics]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[aleph-4-entity-pihkal]]
 - [[pihkal-aleph-2]]
 - [[pihkal-mescaline]]

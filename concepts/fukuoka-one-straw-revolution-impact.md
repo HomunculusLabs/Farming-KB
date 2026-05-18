@@ -63,8 +63,6 @@ The book has generated numerous memorable quotes that have become touchstones fo
 
 Wendell Berry, the American poet and farmer, praised Fukuoka's work as one of the most important agricultural texts of the [[natural-way-of-farming-guide]] on millions of acres, and the mainstreaming of regenerative agriculture principles all reflect the intellectual foundation that *The One-Straw Revolution* helped establish. Climate change and soil degradation have made Fukuoka's warnings about [[fungi-around-the-world-species-distribution]].
 
-## See Also
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -92,6 +90,7 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
+
 
 ## See Also
 - [[dom]]

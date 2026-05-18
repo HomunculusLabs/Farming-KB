@@ -46,12 +46,6 @@ Coleman's measurements at Four Season Farm showed that on a sunny January day wi
 | Ventilation | Roll-up sidewalls + ridge vents |
 | Automation | Wax-cylinder vent openers |
 
-## See Also
-
-- deep organic soil management — Soil fertility practices for greenhouse growing
-- winter harvest scheduling — Crop scheduling for year-round production
-- [[season-extension-techniques]] — Additional methods beyond greenhouse growing
-
 ## Overview
 
 Cold Greenhouse Design Unheated represents an important element within sustainable
@@ -129,8 +123,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- deep organic soil management — Soil fertility practices for greenhouse growing
+- winter harvest scheduling — Crop scheduling for year-round production
+- [[season-extension-techniques]] — Additional methods beyond greenhouse growing
 - [[cold-house-winter-harvest-system]]
 - [[cold-montane-deserts]]
 - [[coleman-cold-hardiness-testing-ratings]]

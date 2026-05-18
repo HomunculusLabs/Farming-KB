@@ -23,14 +23,6 @@ progressively. Proper management of the period between flushes, including mainta
 researchers advocate for reporting BE on both a total substrate basis and a base
 material-only basis to enable fairer comparisons.
 
-## See Also
-
-- [[biological-element-transport-and-soil-ph]]
-- [[biological-indicators-of-soil-conditions]]
-- [[oyster-mushroom]]
-- [[brassinosteroid]]
-- [[pleurotus-eryngii]]
-
 ## Overview
 
 Biological Efficiency represents an important element within sustainable
@@ -108,8 +100,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[biological-element-transport-and-soil-ph]]
+- [[biological-indicators-of-soil-conditions]]
+- [[oyster-mushroom]]
+- [[brassinosteroid]]
+- [[pleurotus-eryngii]]
 - [[biological-soil-indicators]]
 - [[entomopathogenic-fungi-biocontrol-mycopesticides]]
 - [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]

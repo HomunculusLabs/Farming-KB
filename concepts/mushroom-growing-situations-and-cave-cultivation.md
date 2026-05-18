@@ -22,10 +22,6 @@ Inquiries about spawning pastures and lawns to establish natural cultures for au
 
 The choice of growing situation ultimately depends on the grower's ability to control the two critical variables: temperature and moisture. Natural caves offer year-round production potential but require accessibility, drainage, and ventilation. Purpose-built houses offer maximum control and convenience at higher capital cost. Simple structures and modified outdoor beds can succeed in favorable climates but carry significant risk from environmental variability.
 
-## See Also
-
-- [[mushroom-house-construction-design]]
-
 ## Overview
 
 Mushroom Growing Situations And Cave Cultivation represents an important element within sustainable
@@ -103,8 +99,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mushroom-house-construction-design]]
 - [[evaporative-demand-four-factors-mushroom-tropism]]
 - [[falconer-mushroom-cellar-management]]
 - [[mushroom-biology-nutrition-health-properties]]

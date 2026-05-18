@@ -35,15 +35,6 @@ The Navdanya movement, founded by Vandana Shiva, has worked to preserve and revi
 
 Fukuoka's work ultimately reached the United Nations through Henri Lucy, a Frenchman who had lived in Africa and proposed that the U.N. fund seed-sowing from airplanes for [[fukuoka-do-nothing-farming-philosophy-and-practice]]. This spiritual alignment means that natural farming may find particularly fertile ground in India, where the underlying worldview is already present.
 
-## See Also
-
-- [[home-garden-seed-saving]]
-
-- [[fukuoka-soil-self-improvement-without-tillage]]
-- [[dom]]
-- [[agroforestry]]
-- [[natural-farming]]
-
 ## Overview
 
 Fukuoka Indian Agriculture Observations represents an important element within sustainable
@@ -121,8 +112,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[home-garden-seed-saving]]
+- [[fukuoka-soil-self-improvement-without-tillage]]
+- [[dom]]
+- [[agroforestry]]
+- [[natural-farming]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

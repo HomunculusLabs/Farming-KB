@@ -35,10 +35,6 @@ McKenna argued that "the war on drugs was never meant to be won." Instead, it se
 
 He connected the drug war to [[leary-psychedelic-experience-bardo-mapping]]" and therefore could not imagine that "the task of managing a global human population into a state of balance and happiness could involve introducing the experience of an internal horizon of transcendence into people's lives."
 
-## See Also
-
-- [[mckenna-food-gods-partnership-dominator]]
-
 ## Overview
 
 Mckenna Food Gods Archaic Revival represents an important element within sustainable
@@ -116,8 +112,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

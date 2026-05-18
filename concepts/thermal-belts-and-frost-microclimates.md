@@ -51,13 +51,6 @@ Use wind machines, covers, or water spray for active frost protection.
 Design swales and earthworks to manage cold air flow on site.
 Integrate thermal mass elements to moderate temperature extremes.
 
-## See Also
-- [[albedo-heat-transfer-and-thermal-belts]]
-- [[frost-mechanics-radiation-protection]]
-- [[frost-protection-and-thermal-belts]]
-- [[query-how-do-i-create-microclimates-in-my-garden]]
-- [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
-
 ## Overview
 
 Thermal Belts And Frost Microclimates represents an important element within sustainable
@@ -135,8 +128,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[albedo-heat-transfer-and-thermal-belts]]
+- [[frost-mechanics-radiation-protection]]
+- [[frost-protection-and-thermal-belts]]
+- [[query-how-do-i-create-microclimates-in-my-garden]]
+- [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
 - [[ingham-thermal-compost-process-standards]]
 - [[ingham-thermal-compost-versus-worm-compost]]
 - [[ingham-thermal-worm-compost-comparison]]

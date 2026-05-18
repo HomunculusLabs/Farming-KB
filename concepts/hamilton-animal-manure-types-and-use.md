@@ -19,9 +19,6 @@ type: concept
 Animal manures are among the very best sources of [[hamilton-composting-and-organic-matter-management]] where
 the high nitrogen content will assist [[organic-soil-management]] programme.
 
-## See Also
-
-- [[solomon-manure-types-and-nutrient-values]]
 ## Practical Applications
 
 Animal Manure — Types and Use in the Garden has a range of practical applications that make it relevant to
@@ -89,7 +86,9 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
+- [[solomon-manure-types-and-nutrient-values]]
 - [[det]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]

@@ -53,9 +53,6 @@ JADAM organizes insect [[ultra-low-jadam-wetting-agent-jwa]] for wetting power, 
 - Always use soft water (test with JWA)
 - Always do mixture test and concentration test before full application
 
-## See Also
-
-- [[jadam-combined-pesticide-programs-jwa-js-jhs]] with full details
 ## Practical Considerations
 
 Successful implementation of JADAM Insect Pest Management requires attention to
@@ -103,7 +100,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[jadam-combined-pesticide-programs-jwa-js-jhs]] with full details
 - [[det]]
 - [[jadam-pest-control-with-natural-pesticides-jhs]]
 - [[solomon-pest-management-without-chemicals]]

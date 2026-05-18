@@ -43,12 +43,6 @@ If you draw a mental picture of the natural form of a tree and make every effort
 
 Whatever new [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 
-## See Also
-
-- [[doc]]
-- [[ghb]]
-- [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]]
-
 ## Overview
 
 Fukuoka Textdoc Pruning Self Perpetuating Human Error represents an important element within sustainable
@@ -126,8 +120,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[ghb]]
+- [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

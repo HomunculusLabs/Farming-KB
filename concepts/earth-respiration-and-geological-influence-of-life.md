@@ -58,11 +58,6 @@ The understanding of earth respiration and the geological influence of life lead
 
 The fundamental insight is that the earth is a living system whose respiratory and geological functions depend on the continued health and diversity of biological communities. Any design that supports these communities supports the long-term productivity and stability of the landscape as a whole.
 
-## See Also
-- [[bloomfield-rock-penetrating-fungi-granite-weathering-soil-formation]]
-- [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
-- [[teaming-with-microbes-cover-crops-soil-health]]
-
 ## Overview
 
 Earth Respiration And Geological Influence Of Life represents an important element within sustainable
@@ -140,8 +135,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bloomfield-rock-penetrating-fungi-granite-weathering-soil-formation]]
+- [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
+- [[teaming-with-microbes-cover-crops-soil-health]]
 - [[comparison-neem-oil-vs-diatomaceous-earth]]
 - [[earth-cellar-construction]]
 - [[earth-dam-construction]]

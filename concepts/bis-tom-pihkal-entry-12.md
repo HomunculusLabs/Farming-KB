@@ -52,11 +52,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[bis-tom-entity-pihkal]]
-- [[bom-pihkal-entry-17]]
-- [[2c-e-pihkal-entry-24]]
-
 ## Overview
 
 Bis Tom Pihkal Entry 12 represents an important element within sustainable
@@ -134,8 +129,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bis-tom-entity-pihkal]]
+- [[bom-pihkal-entry-17]]
+- [[2c-e-pihkal-entry-24]]
 - [[aleph-4-entity-pihkal]]
 - [[pihkal-aleph-2]]
 - [[pihkal-mescaline]]

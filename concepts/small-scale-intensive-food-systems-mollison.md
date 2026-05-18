@@ -19,14 +19,6 @@ A continuous rotation of small grains intercropped with [[free-range-poultry-for
 
 Seeding rates are remarkably low: clover at 1 kg/ha, grains at 7-16 kg/ha. The system demonstrates that productive agriculture can be achieved with minimal seed inputs when soil health is maintained through continuous mulch. This connects to [[home-garden-seed-saving]] for detailed [[query-how-to-control-pests-without-chemicals]] (insects, snails, weeds) and add manure to the system. This is an ancient Asian technique that Mollison documents and recommends for temperate adaptation. See [[comparison-natural-farming-vs-permaculture]] approach. The rice paddy system described draws from Fukuoka's methods adapted for temperate climates. Fukuoka's system uses only poultry as manurial sources, with ducks as both pest controllers and recyclers. The permaculture-zone-one-design where daily attention and harvesting occur. The combination of grains, vegetables, and small livestock in close proximity maximizes yield per square meter while minimizing external inputs.
 
-## See Also
-
-- [[biointensive-gardening-overview]]
-
-- [[no-till-grain-growing]]
-
-- permaculture-seed-saving
-
 ## Overview
 
 Small Scale Intensive Food Systems Mollison represents an important element within sustainable
@@ -104,8 +96,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[biointensive-gardening-overview]]
+- [[no-till-grain-growing]]
+- permaculture-seed-saving
 - [[berry-and-small-fruit-growing]]
 - [[mollison-domestic-small-animals-zone-one]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]

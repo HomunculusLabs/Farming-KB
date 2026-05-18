@@ -38,11 +38,6 @@ direct sunlight and periodic rainfall.
 Stable isotope analysis of lichen tissues provides information about
 nutrient sources and cycling. gadd-lichen-water-relations
 - gadd-lichen-water-relations
-## See Also
-- [[lichen-biogeochemistry]]
-- [[det]]
-- [[ascomycota]]
-
 ## Overview
 
 Gadd Lichen Biogeochemistry Pioneer represents an important element within sustainable
@@ -120,8 +115,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[lichen-biogeochemistry]]
+- [[det]]
+- [[ascomycota]]
 - [[gadd-fungal-biodegradation-concrete-building-materials]]
 - [[gadd-fungal-ecology-pathogens]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]

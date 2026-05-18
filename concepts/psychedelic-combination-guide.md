@@ -26,15 +26,6 @@ turner-lsd|Turner documents multiple psychedelic combinations and their effects,
 - DMT and psilocybin proved to be allies in breaking addiction, providing insights into negative effects
 - Negative effects of frequent K use: reduced ambition, reduced healthy mortal fears, reluctance to confront difficult situations
 
-## See Also
-
-- [[adverse-effects-and-harm-reduction-psilocybin]]
-- [[turner-further-explorations-and-future-of-psychedelics]]
-- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -134,8 +125,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[adverse-effects-and-harm-reduction-psilocybin]]
+- [[turner-further-explorations-and-future-of-psychedelics]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 - [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
 - [[psychedelic-mushroom-chemistry]]
 - [[psychedelic-paradigm-shifting-and-reality-reconception]]

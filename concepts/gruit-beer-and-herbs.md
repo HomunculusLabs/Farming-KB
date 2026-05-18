@@ -37,13 +37,6 @@ Modern brewers interested in gruit ales should note that gruit herbs behave diff
 
 Some traditional gruit herbs, particularly wild rosemary (Ledum palustre), contain compounds that may be toxic in large quantities. Modern brewers should research each herb carefully and use them in moderation. Sweet gale also contains compounds that should not be consumed in excessive amounts, particularly by pregnant women.
 
-## See Also
-
-- [[beer-brewing-basics]] for general brewing technique
-- ale vs lager fermentation for fermentation science
-- beer styles overview for modern beer style categories
-- [[pihkal-cautionary-note-and-legal-context]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -71,11 +64,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[herbal-beer-ingredients]]
-- [[psilocybin]]
-- [[marrubium-vulgare]]
 
 ## Overview
 
@@ -148,3 +136,13 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
+
+
+## See Also
+- [[beer-brewing-basics]] for general brewing technique
+- ale vs lager fermentation for fermentation science
+- beer styles overview for modern beer style categories
+- [[pihkal-cautionary-note-and-legal-context]]
+- [[herbal-beer-ingredients]]
+- [[psilocybin]]
+- [[marrubium-vulgare]]

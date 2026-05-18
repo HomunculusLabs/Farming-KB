@@ -57,12 +57,6 @@ Coleman uses a musical analogy: hearing a great artist perform without a sound s
 ## The Rock Climber's Perspective
 
 Coleson frames the farmer's mindset through his rock climbing experience. The scientist stands far from the cliff, speculating on coefficients of friction and surface fracturing. The merchandiser speculates on products to palliate the impossible. The climber—the farmer—stands next to the problem, studying and planning how to solve it. A problem is something to be solved, not studied to death or marketed. Where you stand and what your goals are determine what you see and what you do. Organic farmers' success threatens the scientific and commercial establishment because it demonstrates their redundancy—proving that imagination and determination, working with natural processes, can achieve what billions in research and products claimed was impossible.
-## See also
-
-- [[deep-organic-farming]]
-- [[coleman-deep-organic-vs-shallow-organic-farming]]
-- [[eliot-coleman]]
-
 ## Practical Applications
 
 Deep-Organic vs Shallow-Organic Farming has several important applications in sustainable agriculture
@@ -87,8 +81,11 @@ cycling are relevant to ecological farming systems. Understanding
 these impacts supports more informed management decisions and
 sustainable land use planning.
 
-## See Also
 
+## See Also
+- [[deep-organic-farming]]
+- [[coleman-deep-organic-vs-shallow-organic-farming]]
+- [[eliot-coleman]]
 - [[coleman-deep-organic-shallow-organic-farming-comparison]]
 - [[coleman-deep-organic-farming-philosophy]]
 - [[deep-organic-farming-philosophy]]

@@ -44,11 +44,6 @@ cervical [[psk-psp-polysaccharide-peptides]] |
 - Biomarker-guided patient selection not yet routine
 - Standardisation of [[first-pass-metabolism-and-oral-bioavailability]]
 
-## See Also
-
-- mushroom-polysaccharide-chemotherapy-synergy
-- [[psk-gastric-cancer-clinical-trials]]
-- [[lentinan-gastric-cancer-combination-therapy]]
 ## Practical Considerations
 
 Successful implementation of Schizophyllan Cancer Clinical Trials requires attention to
@@ -145,6 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- mushroom-polysaccharide-chemotherapy-synergy
+- [[psk-gastric-cancer-clinical-trials]]
+- [[lentinan-gastric-cancer-combination-therapy]]
 - [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]

@@ -15,11 +15,6 @@ sources:
 - Piptoporus betulinus (Birch Polypore)
 - [[growing-gourmet-poisonous-mushroom-lookalikes]], can grow alongside edible mushrooms on stumps. It resembles enoki-cultivation|Enoki and has caused fatalities
 
-## See Also
-
-- [[reishi-cultivation-methods]]
-- [[medicinal-mushroom-guide-reishi]]
-- [[gourmet-mushroom-enriched-sawdust-cultivation]]
 ## Practical Considerations
 
 When working with Gourmet Mushroom Polypore Cultivation Overview, several practical factors should be
@@ -117,8 +112,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[reishi-cultivation-methods]]
+- [[medicinal-mushroom-guide-reishi]]
+- [[gourmet-mushroom-enriched-sawdust-cultivation]]
 - [[growing-gourmet-black-morel-sclerotia-life-cycle]]
 - [[growing-gourmet-contamination-prevention]]
 - [[growing-gourmet-phase-ii-steam-pasteurization]]

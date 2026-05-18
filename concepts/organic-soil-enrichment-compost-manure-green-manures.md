@@ -77,13 +77,12 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[green-manure]]
 - [[clay-soil]]
 - [[green-manures-organic-gardening]]
 - [[coleman-mobile-greenhouse-green-manure-soil-building]]
 - [[jadam-green-manure-crops-for-soil-salinity-reduction]]
-## See Also
-
 - [[cannabis-soil-growing-containers-flushing]] — Soil management for cannabis
 - [[cannabis-hydroponics-systems-nutrients]] — Alternative: hydroponic nutrients

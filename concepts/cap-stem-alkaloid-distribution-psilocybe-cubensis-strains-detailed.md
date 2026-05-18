@@ -54,11 +54,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]
-- [[psilocybe-cubensis]]
-- [[psilocybe-cubensis-cap-stem-alkaloid-distribution]]
-
 ## Overview
 
 Cap Stem Alkaloid Distribution Psilocybe Cubensis Strains Detailed represents an important element within sustainable
@@ -136,10 +131,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]
+- [[psilocybe-cubensis]]
+- [[psilocybe-cubensis-cap-stem-alkaloid-distribution]]
 - [[cap-stem-alkaloid-distribution-psilocybe-cubensis-bigwood-beug]]
 - [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
-- [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]
 - [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]]
-- [[psilocybe-cubensis-cap-stem-alkaloid-distribution]]

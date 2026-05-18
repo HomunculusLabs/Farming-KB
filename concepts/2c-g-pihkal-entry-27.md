@@ -44,13 +44,6 @@ than a standalone label: the useful questions are where it appears, what
 ## Historical Significance
 The development and understanding of 2c g pihkal entry 27 has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
-## See Also
-- [[2c-i-pihkal-entry-33]]
-- [[aem-pihkal-entry-1]]
-- [[psilocybin]]
-- [[mescaline]]
-- [[indole]]
-
 ## Overview
 
 2C G Pihkal Entry 27 represents an important element within sustainable
@@ -128,8 +121,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[2c-i-pihkal-entry-33]]
+- [[aem-pihkal-entry-1]]
+- [[psilocybin]]
+- [[mescaline]]
+- [[indole]]
 - [[4-t-tris-entity-pihkal]]
 - [[doc-pihkal-64]]
 - [[dopr-entity-pihkal]]

@@ -33,13 +33,6 @@ Aquatic plant systems should be integrated with:
 - **Wetland margins**: Gradual transitions from deep water to emergent plants to margin plants
 - **Composting**: Excess aquatic plant biomass added to compost systems
 
-## See Also
-
-- [[bee-forage-systems-permaculture-design]] — Bee forage including aquatic margins
-- [[permaculture]]
-- [[composting]]
-- [[colocasia-esculenta]]
-
 ## Overview
 
 Duckweed And Aquatic Plants Permaculture Systems represents an important element within sustainable
@@ -117,8 +110,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[bee-forage-systems-permaculture-design]] — Bee forage including aquatic margins
+- [[permaculture]]
+- [[composting]]
+- [[colocasia-esculenta]]
 - [[comparison-duckweed-vs-azolla]]
 - [[fungi-aquatic-animals-pathogens-parasites]]
 - [[hamilton-garden-ponds-and-aquatic-plants]]

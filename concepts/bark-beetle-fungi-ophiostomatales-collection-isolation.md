@@ -53,11 +53,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[ethanol]]
-- [[biodiversity-medically-important-fungi-isolation]]
-- [[thermophilic-thermotolerant-fungi-ecology-isolation]]
-
 ## Overview
 
 Bark Beetle Fungi Ophiostomatales Collection Isolation represents an important element within sustainable
@@ -135,8 +130,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[ethanol]]
+- [[biodiversity-medically-important-fungi-isolation]]
+- [[thermophilic-thermotolerant-fungi-ecology-isolation]]
 - [[bark-xylotropic-endophytes-woody-tissue-colonization]]
 - [[dighton-fungus-cultivation-ants-termites-bark-beetles]]
 - [[fukuoka-pine-bark-weevil-ecology]]

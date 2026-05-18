@@ -59,11 +59,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[doc]]
-- [[aflatoxin]]
-- [[mycelium]]
-
 ## Overview
 
 Aflatoxins Mycotoxins Food represents an important element within sustainable
@@ -141,8 +136,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[doc]]
+- [[aflatoxin]]
+- [[mycelium]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
 - [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]]
 - [[mckenna-food-gods-soma-vedic-enigma]]

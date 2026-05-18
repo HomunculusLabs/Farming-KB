@@ -43,10 +43,6 @@ The recognition that classical hallucinogens act through the serotonin system de
 
 ### Beyond 5-HT2A
 
-## See Also
-
-- [[hplc-analysis-psilocybin-psilocin]]
-
 ## Overview
 
 Serotonin Psilocybin Structural Relationship Hallucinogenic Mechanism represents an important element within sustainable
@@ -124,8 +120,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[hplc-analysis-psilocybin-psilocin]]
 - [[hofmann-lsd-pharmacology-serotonin-brain]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]
 - [[psilocin-chemistry-and-serotonin-relationship]]

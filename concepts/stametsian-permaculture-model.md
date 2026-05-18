@@ -53,8 +53,6 @@ This long-term perspective is both a strength and a challenge. It is a strength 
 
 The ultimate vision is a landscape where mushroom cultivation is seamlessly woven into the fabric of the natural environment, producing food, medicine, and ecological services in a sustainable and mutually beneficial partnership with the forest.
 
-## See Also
-
 ## Overview
 
 Stametsian Permaculture Model represents an important element within sustainable
@@ -132,8 +130,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[eucalyptus-permaculture]]
 - [[growing-gourmet-stametsian-permaculture-model]]
 - [[holzer-thailand-permaculture-project]]

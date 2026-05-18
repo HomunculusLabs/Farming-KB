@@ -61,10 +61,6 @@ the goal needs reexamination. Tools should never be mentioned in goals
 (beyond brief reference to forms of production), as this can eliminate
 options essential to achieving the landscape goal.
 
-## See Also
-
-- [[savory-water-cycle-management]]
-- [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
 ## Practical Considerations
 
 Successful implementation of Biological Monitoring and Control requires attention to
@@ -84,9 +80,10 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
-## See Also
 
+## See Also
 - [[savory-water-cycle-management]]
+- [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
 - [[savory-predator-prey-and-herding-behavior]]
 - [[savory-mineral-cycle-management]]
 - [[savory-holistic-resource-management-overgrazing]]

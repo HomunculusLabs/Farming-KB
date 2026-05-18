@@ -39,11 +39,6 @@ For permaculture designers, niche theory suggests:
 - **Observe natural scheduling patterns** before designing interventions
 - **Remember that those who try to hold on to all things at all times prevent their use by others**
 
-## See Also
-
-- [[complexity-and-connections-in-permaculture]] — how niches create functional connections
-- [[permaculture-design-framework]] — overall design philosophy
-
 ## Overview
 
 Niche In Space And Time represents an important element within sustainable
@@ -121,8 +116,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[complexity-and-connections-in-permaculture]] — how niches create functional connections
+- [[permaculture-design-framework]] — overall design philosophy
 - [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]]
 - [[eclss-water-system-aseptic-access-space-biology]]
 - [[ecological-niche]]

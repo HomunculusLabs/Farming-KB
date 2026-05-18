@@ -53,9 +53,6 @@ Responsible design arises from recommending to others the way you have found it 
 
 Designers who are pioneers in a region should capitalize on that position by providing resources for newcomers: species as nursery stock, educational resources, food processing services, or lease arrangements. The first successful design becomes a demonstration and resource hub for the broader community.
 
-## See Also
-- [[mollison-permaculture-two-introduction-design-principles]]
-
 ## Overview
 
 Permaculture System Establishment And Design Principles represents an important element within sustainable
@@ -133,8 +130,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mollison-permaculture-two-introduction-design-principles]]
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]

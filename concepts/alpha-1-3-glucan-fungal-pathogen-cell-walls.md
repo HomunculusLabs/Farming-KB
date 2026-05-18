@@ -51,11 +51,6 @@ recognition. Alternatively, antibodies targeting exposed beta-glucan
 after alpha-1,3-glucan disruption could be developed as adjunctive
 immunotherapy.
 
-## See Also
-
-- [[cryptococcus-neoformans-pathogenesis]]
-- fungal cell wall composition and function
-
 ## References
 
 - Beauvais, A. et al. (2005). Glucans in fungal cell walls.
@@ -92,7 +87,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
+- [[cryptococcus-neoformans-pathogenesis]]
+- fungal cell wall composition and function
 - [[spore]]
 - [[fungal-cell-wall-composition-and-structural-organization]]
 - [[chitin-chitosan-fungal-cell-wall]]

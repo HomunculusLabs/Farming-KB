@@ -21,12 +21,6 @@ THC [[cannabis-breeding-traits-selection-criteria-clarke]] when developing drug 
 
 Strains may also be bred for resin tenacity — the degree to which resin heads adhere to the plant surface. Strains bred for hashish production benefit from resin heads that release easily with moderate agitation, while strains intended for marijuana use benefit from extremely tenacious resin heads that remain attached during handling and packaging.
 
-## See Also
-
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-
-- [[cannabis-glandular-trichome-types-resin-production-clarke]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -54,11 +48,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[decomposition]]
-- [[cannabis-plant-stress-types-and-recovery]]
 
 ## Overview
 
@@ -137,8 +126,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
+- [[cannabis-glandular-trichome-types-resin-production-clarke]]
+- [[det]]
+- [[decomposition]]
+- [[cannabis-plant-stress-types-and-recovery]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

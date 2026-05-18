@@ -121,12 +121,9 @@ tolerance levels for spray [[mycorrhizal-inoculation]] is essential in arid syst
 pines, Casuarinas, and garden crops all benefit from root-associated fungi that enable
 phosphate accumulation from otherwise unavailable soil reserves. When applying phosphates, it
 is best to use small quantities placed close to the crop to maximise uptake efficiency.
-## See Also
 
+## See Also
 - [[dryland-strategies-desertification]]
-
-## See Also
-
 - [[desert-dams-rockholes-evaporation]]
 - [[desert-mulches-and-drought-strategies]]
 - [[desert-precipitation-and-opportunistic-response]]

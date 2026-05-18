@@ -43,9 +43,6 @@ hydrogen. Not only does it contain magnesium, calcium, potassium, and
 phosphorus, but also iodine, manganese, molybdenum, cobalt, selenium, and
 germanium, which are all essential for [[jadam-fertilizer-program-design]] rests.
 
-## See Also
-
--   [[jadam-leaf-mold-soil-method]]
 ## Practical Considerations
 
 When working with JADAM Soil Mineral Replenishment, several practical factors should be
@@ -143,8 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+-   [[jadam-leaf-mold-soil-method]]
 - [[jadam-anaerobic-fermentation-principles]]
 - [[jadam-element-function-reference]]
 - [[jadam-herbal-smoker-livestock]]

@@ -50,13 +50,6 @@ Wood chips serve as a primary substrate for mycoforestry practices. They provide
 
 Future trials for mycoforestry use a matrix of white rot, brown rot, and mycorrhizal species working in concert. No parasitic species are contemplated. The combination of decomposition, soil building, and symbiotic nutrient exchange creates a comprehensive approach to forest restoration.
 
-## See Also
-
-- [[mycofiltration-water-treatment]]
-- [[cotter-mycoremediation-overview]]
-- [[fungal-ecology-decomposition-cycles]]
-- [[paul-stamets]]
-
 ## Overview
 
 Mycoforestry Forest Restoration represents an important element within sustainable
@@ -134,8 +127,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycofiltration-water-treatment]]
+- [[cotter-mycoremediation-overview]]
+- [[fungal-ecology-decomposition-cycles]]
+- [[paul-stamets]]
 - [[cortes-island-mycoforestry-project]]
 - [[mycoforestry]]
 - [[mycoforestry-fungal-forest-restoration]]

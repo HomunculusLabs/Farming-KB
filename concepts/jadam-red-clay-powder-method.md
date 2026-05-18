@@ -33,10 +33,6 @@ When spraying clay-enhanced pesticide:
 - Improves spray coverage on waxy or hairy plant surfaces
 - Adds trace minerals as incidental foliar nutrition
 
-## See Also
-
-- [[jadam-natural-pesticide-jnp]] - JNP system overview
-- [[jadam-herbal-pest-control]]
 ## Practical Considerations
 
 When working with Fine Red Clay Powder Method (JADAM Technique), several practical factors should be
@@ -134,8 +130,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[jadam-natural-pesticide-jnp]] - JNP system overview
+- [[jadam-herbal-pest-control]]
 - [[jadam-anaerobic-fermentation-principles]]
 - [[jadam-element-function-reference]]
 - [[jadam-herbal-smoker-livestock]]

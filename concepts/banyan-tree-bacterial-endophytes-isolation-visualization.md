@@ -71,10 +71,6 @@ requires expertise. Access of fixatives to intercellular spaces can be limited
 by suberized and lignified parenchyma cells, creating difficulties in detecting
 bacteria.
 
-## See Also
-
-- [[fungal-diversity-arid-environments]]
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -103,11 +99,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[sterilization]]
-- [[bacterial-endophyte-isolation-detection-plant-roots]]
-- [[cannabis-endorhiza-core-community-bacterial-endophytes]]
-
 ## Practical Considerations
 
 Understanding the practical applications of this
@@ -123,3 +114,10 @@ principles while exploring new methodological approaches.
 Empirical findings continue to refine our understanding
 and suggest promising directions for future investigation
 across multiple disciplines and application domains.
+
+
+## See Also
+- [[fungal-diversity-arid-environments]]
+- [[sterilization]]
+- [[bacterial-endophyte-isolation-detection-plant-roots]]
+- [[cannabis-endorhiza-core-community-bacterial-endophytes]]

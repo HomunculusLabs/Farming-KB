@@ -61,11 +61,6 @@ incredible, make more sense than the dusty pronouncements of
 academicians; what is more, they give philosophic meaning to the
 totality of life.
 
-## See Also
-
-- [[tompkins-george-washington-carver-plant-alchemy]] - Carver's
-  belief in nature spirits
-
 ## Overview
 
 Tompkins Findhorn Garden Devas Nature Spirits represents an important element within sustainable
@@ -143,8 +138,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[tompkins-george-washington-carver-plant-alchemy]] - Carver's
+  belief in nature spirits
 - [[tompkins-albert-abrams-electronic-diagnosis]]
 - [[tompkins-ancient-plant-knowledge]]
 - [[tompkins-hieronymus-eloptic-energy]]

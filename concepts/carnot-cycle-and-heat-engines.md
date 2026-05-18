@@ -60,11 +60,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[sadi-carnot]]
-- [[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]]
-- [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]
-
 ## Overview
 
 Carnot Cycle And Heat Engines represents an important element within sustainable
@@ -142,8 +137,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[sadi-carnot]]
+- [[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]]
+- [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]
 - [[carnot-cycle-vs-rankine-cycle]]
 - [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
 - [[gadd-mycorrhizal-carbon-cycle-ericoid-ectomycorrhizal-sequestration]]

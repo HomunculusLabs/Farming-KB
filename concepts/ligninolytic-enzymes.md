@@ -49,7 +49,6 @@ Ligninolytic enzyme expression in *Pleurotus* species is regulated by multiple
 [[mushroom-cultivation]]:
 too much nitrogen supplementation can suppress enzyme production and reduce
 
-## See Also
 ## Practical Considerations
 
 Successful implementation of Ligninolytic Enzymes requires attention to
@@ -146,5 +145,6 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+
 
 ## See Also

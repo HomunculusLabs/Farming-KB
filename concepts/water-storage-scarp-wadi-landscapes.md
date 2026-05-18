@@ -63,13 +63,6 @@ Large trees already grow in most wadis, naturally shaded and protected by cliffs
 
 The wadi system offers many special niches for utilisation, and a rich flora and fauna exists in most deserts that can be preserved and encouraged. Simply by increasing shade, crevices, and ramp-access water cisterns, populations of desert quail and pigeon can be stabilised and supported.
 
-## See Also
-
-- [[desalination-and-water-treatment-technologies]]
-- [[eclss-water-system-aseptic-access-space-biology]]
-- [[gadd-lichens-water-relations-symbiosis]]
-- [[microwave-water-interaction-2-45-ghz]]
-
 ## Overview
 
 Water Storage Scarp Wadi Landscapes represents an important element within sustainable
@@ -147,4 +140,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
+
 ## See Also
+- [[desalination-and-water-treatment-technologies]]
+- [[eclss-water-system-aseptic-access-space-biology]]
+- [[gadd-lichens-water-relations-symbiosis]]
+- [[microwave-water-interaction-2-45-ghz]]

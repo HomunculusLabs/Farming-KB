@@ -98,13 +98,12 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[mushroom-compost]]
 - [[staycare-spent-mushroom-compost-bioremediation]]
 - [[crumb-structure]]
 - [[clay-soil]]
 - [[spent-mushroom-substrate]]
-## See Also
-
 - [[organic-soil-enrichment-compost-manure-green-manures]] — Soil enrichment overview
 - [[fungal-bioweathering-rocks-minerals]] — Fungi in soil mineral cycling

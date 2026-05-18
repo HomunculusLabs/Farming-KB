@@ -47,11 +47,6 @@ Solomon warns that his calculations assume several conditions:
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
-## See Also
-- [[solomon-vegetableatarian-experiment-calorie-production-home-garden]]
-- [[solomon-self-sufficiency-garden-production]]
-- [[solomon-self-sufficiency-calorie-production-economics]]
-
 ## Overview
 
 Solomon Garden Planning Calorie Production represents an important element within sustainable
@@ -129,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[solomon-vegetableatarian-experiment-calorie-production-home-garden]]
+- [[solomon-self-sufficiency-garden-production]]
+- [[solomon-self-sufficiency-calorie-production-economics]]
 - [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 - [[solomon-low-grade-compost-making-methods]]

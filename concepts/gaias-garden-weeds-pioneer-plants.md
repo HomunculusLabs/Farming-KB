@@ -35,9 +35,6 @@ process. Hemenway describes several techniques:
   rapidly, feeding the soil organisms whose
   activity drives succession forward.
 
-## See Also
-
-- gaias-garden-host-plants-beneficial-insects
 ## Practical Considerations
 
 When working with Gaia's Garden - Weeds and Pioneer Plants in Ecological Succession, several practical factors should be
@@ -135,8 +132,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- gaias-garden-host-plants-beneficial-insects
 - [[gaias-garden-hugelkultur]]
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
 - [[gaias-garden-methods]]

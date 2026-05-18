@@ -36,10 +36,6 @@ Maintaining balanced soil nutrition through JADAM inputs
 (particularly adequate calcium and potassium) strengthens plant
 cell walls and natural defense compounds, making plants less
 susceptible to infection.
-## See Also
-
-- [[jadam-pest-control-recipes]] - All numbered pesticide recipes
-
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
@@ -67,11 +63,6 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[jadam-pesticide-for-powdery-mildew]]
-- [[jadam-natural-pesticide-institute-and-research]]
-- [[jadam-jms-pesticide]]
 
 ## Overview
 
@@ -148,3 +139,10 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
+
+
+## See Also
+- [[jadam-pest-control-recipes]] - All numbered pesticide recipes
+- [[jadam-pesticide-for-powdery-mildew]]
+- [[jadam-natural-pesticide-institute-and-research]]
+- [[jadam-jms-pesticide]]

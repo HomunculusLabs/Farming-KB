@@ -65,8 +65,6 @@ Put food in oven at 175 degrees F (79 degrees C) for 30 minutes. Properly dried 
 
 Drying preserves most nutrients effectively. Vitamin C is the most heat-sensitive nutrient and some loss occurs during drying, particularly with sun drying at high temperatures. Vitamin A, fiber, minerals, and most B vitamins are well-preserved in dried foods. The concentration of nutrients per unit weight actually increases as water is removed, making dried foods nutrient-dense additions to meals during seasons when fresh produce is scarce.
 
-## See Also
-
 ## Overview
 
 Solar And Electric Food Drying Methods represents an important element within sustainable
@@ -144,7 +142,7 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
 - [[comparison-agrovoltaics-vs-traditional-solar-farms]]
 - [[comparison-solar-cooking-vs-solar-dehydrating]]

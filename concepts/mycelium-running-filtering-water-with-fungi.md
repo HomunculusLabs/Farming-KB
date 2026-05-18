@@ -45,11 +45,6 @@ bacteria like Bacillus subtilis are blocked from reproducing and enter
 dormancy. They may later revive when the mycelial mat dies back -- a
 process analogous to a fishing net losing its cohesiveness.
 
-## See Also
-
-- [[mycofiltration-of-chemical-runoff]] -- chemical toxin filtration
-- [[mycelium-running-garden-giant-stamets]] -- [[mycelium-running-garden-giant-stamets]] in filtration
-
 ## Overview
 
 Mycelium Running Filtering Water With Fungi represents an important element within sustainable
@@ -127,8 +122,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mycofiltration-of-chemical-runoff]] -- chemical toxin filtration
+- [[mycelium-running-garden-giant-stamets]] -- [[mycelium-running-garden-giant-stamets]] in filtration
 - [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]]
 - [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - [[mycelium-running-remediating-toxic-waste]]

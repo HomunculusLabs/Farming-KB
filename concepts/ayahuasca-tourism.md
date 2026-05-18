@@ -34,13 +34,6 @@ Iquitos has served as the primary hub for [[ayahuasca-and-banisteriopsis-caapi]]
 
 - Stuart, R. "Ayahuasca Tourism: A Cautionary Tale." *MAPS*, Vol. XII, No. 2, Summer 2002, pp. 36–38.
 
-## See Also
-
-- [[ayahuasca-tourism-ethics-and-commodification]]
-- [[ayahuasca-tourism-ethnography]]
-- [[ayahuasca-tourism-medical-risks-prescription-interactions]]
-- [[ayahuasca-tourism-shaman-character-evaluation]]
-
 ## Common Challenges and Solutions
 
 Several recurring challenges tend to arise in work related to this
@@ -81,7 +74,12 @@ in this topic. Understanding these considerations helps practitioners make
 informed decisions and avoid common pitfalls. Environmental conditions,
 timing, and material selection all play critical roles.
 
+
 ## See Also
+- [[ayahuasca-tourism-ethics-and-commodification]]
+- [[ayahuasca-tourism-ethnography]]
+- [[ayahuasca-tourism-medical-risks-prescription-interactions]]
+- [[ayahuasca-tourism-shaman-character-evaluation]]
 - [[doc]]
 - [[psilocybin]]
 - [[tetrahydroharmine]]

@@ -32,11 +32,6 @@ Until such controlled studies are conducted, the potency claims regarding
 aborts must be considered preliminary but supported by extensive anecdotal
 evidence from experienced cultivators.
 
-## See Also
-
-- [[psilocybin]] — primary active compound and its biosynthesis
-- [[psilocybe-cubensis]] — the primary species cultivated with PF Tek
-
 ## Overview
 
 Abort Harvesting Alkaloid Concentration Pf Tek represents an important element within sustainable
@@ -114,8 +109,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[psilocybin]] — primary active compound and its biosynthesis
+- [[psilocybe-cubensis]] — the primary species cultivated with PF Tek
 - [[abort-dead-pinhead-cleanup-casing-surface-hygiene]]
 - [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
 - [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]

@@ -26,10 +26,6 @@ in a specific directory structure. The archive always includes a
 `[Content_Types].xml` file at its root that [[document-format-conversion-fidelity]] tools and the open standards movement in government IT
 procurement.
 
-## See Also
-
-- [[microsoft-word-document-format]]
-
 ## Overview
 
 Office Open Xml represents an important element within sustainable
@@ -107,8 +103,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[microsoft-word-document-format]]
 - [[fukuoka-natural-livestock-farming-open-grazing]]
 - [[gaia-hypothesis-and-open-systems-in-permaculture]]
 - [[mollison-open-living-systems-and-design-principles]]

@@ -55,14 +55,6 @@ When applying these concepts, several factors warrant attention: environmental c
 
 When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures are essential for meaningful progress.
 
-## See Also
-
-- [[coleman-winter-spinach-dependable-cold-house-crop]]
-- [[coleman-winter-kale-brassica-cold-house-management]]
-- [[dom]]
-- [[coleman-rye-straw-mat-cold-frame-insulation]]
-- [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
-
 ## Overview
 
 Coleman Cold Hardiness Testing Ratings represents an important element within sustainable
@@ -140,8 +132,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[coleman-winter-spinach-dependable-cold-house-crop]]
+- [[coleman-winter-kale-brassica-cold-house-management]]
+- [[dom]]
+- [[coleman-rye-straw-mat-cold-frame-insulation]]
+- [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
 - [[coleman-overwintered-onions-and-early-spring-crops]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]

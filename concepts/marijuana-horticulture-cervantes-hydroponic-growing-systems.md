@@ -47,11 +47,6 @@ The most popular hydroponic system for [[cannabis-clone-rooting-and-transplantin
 - Total: 1415W, costing $35-60/month in electricity
 - Expected yield: 1+ pound (450+ grams) per month of dried flower
 
-## See Also
-
-- [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]] genetics
-- [[living-soil-cannabis]]
-
 ## Overview
 
 Marijuana Horticulture Cervantes Hydroponic Growing Systems represents an important element within sustainable
@@ -129,8 +124,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]] genetics
+- [[living-soil-cannabis]]
 - [[cervantes-medical-marijuana-pharmacology]]
 - [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]
 - [[marijuana-horticulture-cervantes-nutrient-deficiencies-and-disorders]]

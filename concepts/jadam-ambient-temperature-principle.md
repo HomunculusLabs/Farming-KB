@@ -43,11 +43,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[jadam-cover-crop-soil-temperature-management]]
-- [[fukuoka-no-pesticides-principle-seeing-nature-wholistic]]
-- [[fukuoka-no-cultivation-principle]]
-
 ## Overview
 
 Jadam Ambient Temperature Principle represents an important element within sustainable
@@ -125,8 +120,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[jadam-cover-crop-soil-temperature-management]]
+- [[fukuoka-no-pesticides-principle-seeing-nature-wholistic]]
+- [[fukuoka-no-cultivation-principle]]
 - [[jadam-herb-solution-jhs]]
 - [[jadam-natural-mineral-water]]
 - [[jadam-potassium-fertilizer]]

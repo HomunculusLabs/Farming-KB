@@ -46,11 +46,6 @@ Mound gardening integrates well with:
 
 The key principle is that in tropical and subtropical systems, termites and ants are allies to be understood and utilised, not enemies to be eliminated.
 
-## See Also
-
-- [[soil-ph]]
-- [[fungal-biology-fundamentals]]
-
 ## Overview
 
 Termite And Ant Ecology In Tropical Agriculture represents an important element within sustainable
@@ -128,8 +123,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[soil-ph]]
+- [[fungal-biology-fundamentals]]
 - [[ant-termite-fungal-symbiosis]]
 - [[mollison-designers-termite-and-ant-mound-niche-gardening]]
 - [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]]

@@ -90,14 +90,13 @@ Integration opportunities exist within broader design frameworks and management 
 Synergistic effects emerge when this concept is combined with complementary approaches.
 Systems thinking reveals feedback loops and emergent properties that affect overall performance.
 
+
 ## See Also
 - [[sepp-holzer]]
 - [[holzer-ring-water-feeder-living-water-supply]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[holzer-water-management-ponds-springs]]
 - [[holzer-irrigation-principles]]
-## See Also
-
 - [[sepp-holzer-permaculture-water-landscapes-climate-restoration]] — The broader water philosophy
 - [[hugelkultur-crater-gardens-raised-growing-systems]] — Buried wood techniques
 - [[desertification-causes-holzer-ecological-critique]] — The problem context

@@ -91,12 +91,10 @@ Several non-psilocybin mushroom species are dangerously poisonous. Ingestion cau
 
 The famed *Amanita muscaria* (Mexico's "magic mushroom") causes intense hallucinations but is highly toxic and should be avoided. It is visually unmistakable — a red ball-shaped mushroom bearing no resemblance to any of the three species described here.
 
-## See Also
 
+## See Also
 - [[psilocybin-mushroom-hunting-conditions]]
 - [[psilocybin-mushroom-cultivation-basics]]
-
-## See Also
 - [[field-guide-psilocybin-bluing-reaction-identification]]
 - [[field-guide-psilocybin-mushroom-species-identification]]
 - [[horse-dung-rice-grain-substrate-formulation-psilocybe-cubensis]]

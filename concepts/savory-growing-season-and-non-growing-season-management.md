@@ -55,13 +55,6 @@ parasitism or disease. During the non-growing season, one selection per
 paddock at such short intervals maintains a reasonable plane of nutrition
 without supplementation.
 
-## See Also
-
-- [[savory-cropland-management-and-succession]]
-
-- [[savory-drought-planning-and-reserves]]
-- [[savory-livestock-grazing-planning]]
-
 ## Overview
 
 Savory Growing Season And Non Growing Season Management represents an important element within sustainable
@@ -139,8 +132,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[savory-cropland-management-and-succession]]
+- [[savory-drought-planning-and-reserves]]
+- [[savory-livestock-grazing-planning]]
 - [[savory-fencing-economics-and-stock-density-curve]]
 - [[savory-flexibility-in-management]]
 - [[savory-grasshopper-and-insect-outbreaks]]

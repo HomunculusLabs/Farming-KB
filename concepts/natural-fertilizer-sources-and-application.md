@@ -48,13 +48,6 @@ Green manures feed soil biology, prevent erosion, suppress weeds, and improve so
 
 Perennials, trees, and shrubs in natural systems with the Law of Return operating usually don't need much fertilizer. Exceptions: at planting time, after heavy pruning, or when fruit is removed (preventing nutrient return to soil).
 
-## See Also
-
-- falconer-manure-water-and-fertilizer-application
-
-- [[nutrient-cycling-in-soil]]
-- [[green-manure-crops]]
-
 ## Overview
 
 Natural Fertilizer Sources And Application represents an important element within sustainable
@@ -132,8 +125,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- falconer-manure-water-and-fertilizer-application
+- [[nutrient-cycling-in-soil]]
+- [[green-manure-crops]]
 - [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]
 - [[mushroom-natural-habitats]]

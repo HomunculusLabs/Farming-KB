@@ -36,13 +36,6 @@ Notable tools for binary format analysis include `oletools` for OLE2 files,
 metadata extraction, and `Kaitai Struct` for declarative binary format
 description and parsing.
 
-## See Also
-- [[microsoft-word-document-format]]
-- [[fukuoka-document-processing-research]]
-- [[doc]]
-- [[microsoft-word-document-format-history]]
-- [[fukuoka-document-processing-research]]
-
 ## Overview
 
 Binary Document Format Reverse Engineering represents an important element within sustainable
@@ -120,10 +113,13 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[microsoft-word-document-format]]
+- [[fukuoka-document-processing-research]]
+- [[doc]]
+- [[microsoft-word-document-format-history]]
 - [[document-interoperability-standards]]
 - [[fungal-binary-ternary-biosorption]]
-- [[microsoft-word-document-format]]
 - [[singh-binary-ternary-fungal-biosorption-systems]]
 - [[word-document-formats]]

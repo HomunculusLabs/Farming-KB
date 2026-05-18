@@ -62,13 +62,6 @@ The principle applies at every level:
 
 The key is to establish the right pattern first — then fill in the details. Getting the pattern wrong makes the best details irrelevant; getting the pattern right allows even imperfect details to function adequately.
 
-## See Also
-
-- [[permaculture-principles]]
-- [[permaculture-zone-and-sector-planning]]
-- [[pattern-language-for-permaculture-design]]
-- [[patterns-in-nature]]
-- [[energy-descent-and-permaculture]]
 ## Theoretical Framework
 
 The theoretical basis for this concept draws from systems thinking,
@@ -94,8 +87,13 @@ soil health, biodiversity indices, water quality, and carbon
 sequestration. Social metrics include food security, community
 resilience, and economic sustainability indicators.
 
-## See Also
 
+## See Also
+- [[permaculture-principles]]
+- [[permaculture-zone-and-sector-planning]]
+- [[pattern-language-for-permaculture-design]]
+- [[patterns-in-nature]]
+- [[energy-descent-and-permaculture]]
 - [[mollison-designers-temperate-zone-food-forest-design]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
 - [[mollison-designers-community-garden-design-urban-permaculture]]

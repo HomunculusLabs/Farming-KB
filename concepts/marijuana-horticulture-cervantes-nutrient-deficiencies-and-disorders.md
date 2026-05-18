@@ -47,12 +47,6 @@ The pH of the growing medium is the master variable controlling nutrient availab
 
 pH imbalance is the most common root cause of apparent nutrient deficiency. Always check and correct pH before supplementing individual nutrients.
 
-## See Also
-
-- [[factors-affecting-mycoremediation-efficiency]] nutrient uptake
-- [[marijuana-horticulture-cervantes-pest-management-ipm]] — stressed plants are more vulnerable to pests
-- marijuana horticulture cervantes pruning and training techniques — plant architecture affects nutrient distribution
-
 ## Overview
 
 Marijuana Horticulture Cervantes Nutrient Deficiencies And Disorders represents an important element within sustainable
@@ -130,8 +124,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[factors-affecting-mycoremediation-efficiency]] nutrient uptake
+- [[marijuana-horticulture-cervantes-pest-management-ipm]] — stressed plants are more vulnerable to pests
+- marijuana horticulture cervantes pruning and training techniques — plant architecture affects nutrient distribution
 - [[cervantes-medical-marijuana-pharmacology]]
 - [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]
 - [[marijuana-magick-ancient-ritual-use-cannabis]]

@@ -42,11 +42,6 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
-## See Also
-- [[det]]
-- [[fukuoka-rice-straw-mulch-central-technique]]
-- [[fukuoka-soil-fertility-straw-mulch]]
-
 ## Overview
 
 Fukuoka Straw Mulch Technique represents an important element within sustainable
@@ -124,8 +119,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[det]]
+- [[fukuoka-rice-straw-mulch-central-technique]]
+- [[fukuoka-soil-fertility-straw-mulch]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

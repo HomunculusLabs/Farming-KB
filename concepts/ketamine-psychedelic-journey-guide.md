@@ -16,17 +16,6 @@ Ketamine is rated intensity "10 to Infinity" by Turner, who calls it "The [[2c-b
 - **LSD**: Wider "dosage window" for spectacular journeys
 - **Harmala**: Good potentiating results
 
-## See Also
-
-- [[lsd-psychedelic-experience-guide]] — LSD comparison
-- [[mckenna-consciousness-expansion-and-drug-war]]" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
-
-The set and setting framework remains foundational to modern psychedelic therapy, emphasizing that the therapeutic context is as important as the pharmacological substance.
-
-The set and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. The extensive dose-response data collected by military researchers, much of which was later declassified, provided valuable information about the relationship between dose, duration, and subjective experience. However, the programs also generated enormous public distrust of government-funded [[ketamine]]
-- [[set-and-setting]]
-- [[set-and-setting-framework]]
-
 ## Overview
 
 Ketamine Psychedelic Journey Guide represents an important element within sustainable
@@ -104,10 +93,15 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[lsd-psychedelic-experience-guide]] — LSD comparison
+- [[mckenna-consciousness-expansion-and-drug-war]]" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
+The set and setting framework remains foundational to modern psychedelic therapy, emphasizing that the therapeutic context is as important as the pharmacological substance.
+The set and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. The extensive dose-response data collected by military researchers, much of which was later declassified, provided valuable information about the relationship between dose, duration, and subjective experience. However, the programs also generated enormous public distrust of government-funded [[ketamine]]
+- [[set-and-setting]]
+- [[set-and-setting-framework]]
 - [[ketamine]]
 - [[ketamine-dissociative-pharmacology]]
-- [[ketamine]]
 - [[ketamine-ultimate-psychedelic-journey]]
 - [[turner-ketamine-realms-dissociative-consciousness]]

@@ -59,11 +59,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-## See Also
-- [[phototropism]]
-- [[fungal-growth-dynamics]]
-- [[gadd-colony-morphogenesis-hyphal-growth]]
-
 ## Overview
 
 Hyphal Growth Dynamics represents an important element within sustainable
@@ -141,8 +136,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[phototropism]]
+- [[fungal-growth-dynamics]]
+- [[gadd-colony-morphogenesis-hyphal-growth]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
 - [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
 - [[hyphal-anastomosis-self-non-self-recognition]]

@@ -23,12 +23,6 @@ Benjamin [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]*, the [
 
 *Pleurotus ostreatus*, the [[comparison-spore-print-collection-vs-spore-syringe-production]] color as one of the most practical field identification characters. A spore print is made by placing the cap, gills downward, on a sheet of white paper for several hours. Black-spored agarics include Agaricus and Coprinus; white-spored forms include Lepiota, Amanita, Tricholoma, and Pleurotus. Pink and ochraceous spored forms represent additional groups. This simple test, combined with attention to the presence or absence of a ring, volva, and milk-producing gills, provides the foundation for safe identification.
 
-## See Also
-
-- [[fungal-sexual-reproduction]]
-- fungal-wood-decay-types-white-rot-brown-rot
-- [[oyster-mushroom-species-fruiting-parameters]]
-
 ## Overview
 
 Mushroom Classification Basidiomycete Families represents an important element within sustainable
@@ -106,8 +100,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fungal-sexual-reproduction]]
+- fungal-wood-decay-types-white-rot-brown-rot
+- [[oyster-mushroom-species-fruiting-parameters]]
 - [[evaporative-demand-four-factors-mushroom-tropism]]
 - [[falconer-mushroom-cellar-management]]
 - [[mushroom-biology-nutrition-health-properties]]

@@ -63,11 +63,6 @@ Every terrace system should ideally be designed to accommodate **perennial bund 
 - **Tree crop systems** on bunds maintain long-term soil fertility and provide additional yields
 - **Drainage systems** must be designed to safely convey excess water without causing erosion below the terrace series
 
-## See Also
-
-- [[polycultural-terrace-design]]
-- [[earthmoving-machinery]]
-
 ## Overview
 
 Terrace Construction Earthworks represents an important element within sustainable
@@ -145,6 +140,8 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[polycultural-terrace-design]]
+- [[earthmoving-machinery]]
 - [[fukuoka-textdoc-hillside-garden-terrace-soil-preparation]]

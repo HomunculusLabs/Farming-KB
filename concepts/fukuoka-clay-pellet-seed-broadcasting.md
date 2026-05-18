@@ -43,11 +43,6 @@ results. Despite these challenges, the technique remains one of the few
 low-input approaches to large-scale ecological restoration that works with
 rather than against natural processes.
 
-## See Also
-
-- [[fukuoka-desert-revegetation]]
-- [[fukuoka-happy-hill-rice]]
-
 ## Overview
 
 Fukuoka Clay Pellet Seed Broadcasting represents an important element within sustainable
@@ -125,8 +120,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[fukuoka-desert-revegetation]]
+- [[fukuoka-happy-hill-rice]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-pine-weevil-blight-non-causality]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

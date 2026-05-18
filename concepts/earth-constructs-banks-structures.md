@@ -44,11 +44,6 @@ Roads represent a major opportunity for integrated design:
 
 Such planning must precede actual construction. The same machines that build roads can also build wetlands, swales, small dams for wildfire control and wildlife, underpasses, and guide fences for migrating wildlife.
 
-## See Also
-
-- [[earth-constructs-permaculture]]
-- [[permaculture-terrace-design-slopes]]
-
 ## Overview
 
 Earth Constructs Banks Structures represents an important element within sustainable
@@ -126,10 +121,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[earth-constructs-permaculture]]
+- [[permaculture-terrace-design-slopes]]
 - [[comparison-hempcrete-vs-rammed-earth]]
 - [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 - [[comparison-neem-oil-vs-diatomaceous-earth]]
-- [[earth-constructs-permaculture]]
 - [[tropical-earth-shaping-techniques]]

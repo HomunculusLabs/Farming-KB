@@ -35,15 +35,6 @@ Willows are extremely good [[comparison-dynamic-accumulators-vs-cover-crops]] up
 - **Aquatic integration**: Duckweed and azolla ponds can process nutrient-rich water from animal systems and produce fertiliser
 - **Species stacking**: Combine deep-rooted mineral miners with nitrogen fixers for complete nutrient cycling
 
-## See Also
-
-- [[permaculture-gooseberry]]
-- [[permaculture-chicory]]
-- [[biological-transmutation-in-plants]]
-- permaculture-tamarillo
-
-- [[permaculture-plants-ground-covers-and-accumulators]] - nutrient-accumulating ground covers
-- [[permaculture-plants-aquatic-and-wetland-species]] - aquatic accumulators
 ## Practical Considerations
 
 Successful implementation of permaculture-dynamic-accumulator-plants requires attention to
@@ -131,8 +122,14 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[permaculture-gooseberry]]
+- [[permaculture-chicory]]
+- [[biological-transmutation-in-plants]]
+- permaculture-tamarillo
+- [[permaculture-plants-ground-covers-and-accumulators]] - nutrient-accumulating ground covers
+- [[permaculture-plants-aquatic-and-wetland-species]] - aquatic accumulators
 - [[holzer-permaculture-landscape-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
 - [[permaculture-design-methods-summary]]

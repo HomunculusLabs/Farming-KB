@@ -61,11 +61,6 @@ using much more water while apparently "enjoying it less."
 
 ## George Smith's Field Experiments
 
-## See Also
-- [[sound-and-music-effects-on-plants]]
-- [[tompkins-jagadis-bose-plant-response-crescograph]]
-- [[tompkins-marcel-vogel-plant-human-communication]]
-
 ## Overview
 
 Tompkins Plant Music Sound represents an important element within sustainable
@@ -143,8 +138,11 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[sound-and-music-effects-on-plants]]
+- [[tompkins-jagadis-bose-plant-response-crescograph]]
+- [[tompkins-marcel-vogel-plant-human-communication]]
 - [[tompkins-albert-abrams-electronic-diagnosis]]
 - [[tompkins-ancient-plant-knowledge]]
 - [[tompkins-hieronymus-eloptic-energy]]

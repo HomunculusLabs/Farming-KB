@@ -48,13 +48,6 @@ The age of studied specimens significantly affects chemical analysis results.
 Repke et al. (1977a) demonstrated that [[ethnomycology-cultural-significance-sacred-fungi]]
 of species used as sacred fungi without reliable chemical verification.
 
-## See Also
-
-- neurotropic-fungi-world-checklist for the classification framework these disputes inform
-- [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
-- [[neurotropic-fungi]]
-- [[guzman-allen-gartz-neurotropic-inocybe-species]]
-
 ## Overview
 
 Guzman Allen Gartz Doubtful And Disputed Neurotropic Species represents an important element within sustainable
@@ -132,8 +125,12 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- neurotropic-fungi-world-checklist for the classification framework these disputes inform
+- [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-inocybe-species]]
 - [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
 - [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]]
 - [[guzman-psilocybin-mushrooms-africa]]

@@ -34,11 +34,6 @@ a small area of Central Africa.
 
 Modern interest in ibogaine has shifted toward [[cervantes-cannabis-tolerance-addiction-pharmacology]].
 
-## See Also
-
-- [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
-- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
-
 ## Overview
 
 Mckenna Food Of The Gods Bwiti Religion And Iboga represents an important element within sustainable
@@ -116,8 +111,10 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
+- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-fall-of-partnership-society]]

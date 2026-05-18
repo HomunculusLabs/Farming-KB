@@ -32,10 +32,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
-## See Also
-
-- [[williams-pdc-water-courses]]
-
 ## Overview
 
 Williams Pdc Water Treatment represents an important element within sustainable
@@ -113,8 +109,9 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also
 
+## See Also
+- [[williams-pdc-water-courses]]
 - [[williams-pdc-climates-and-biomes]]
 - [[williams-pdc-community-design]]
 - [[williams-pdc-earthworks]]
