@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Huautla de Jiménez is a village in the state of Oaxaca, Mexico, famous worldwide as a center of sacred usage of psychoactive mushrooms (primarily [[psilocybe-mexicana]]). The village is home to the Mazatec Indians and has been a major site of ethnobotanical and anthropological research into the traditional use of hallucinogenic mushrooms. Huautla de Jiménez became internationally known through the work of R. Gordon Wasson and subsequently through numerous anthropological studies.
+Huautla de Jiménez is a village in the state of Oaxaca, Mexico, famous worldwide as a center of sacred usage [[historical-and-cultural-uses-of-psychoactive-mushrooms]] (primarily [[psilocybe-mexicana]]). The village is home to the Mazatec Indians and has been a major site of ethnobotanical and anthropological research into the traditional use [[health-risks-of-hallucinogenic-mushrooms]]. Huautla de Jiménez became internationally known through the work of R. Gordon Wasson and subsequently through numerous anthropological studies.
 
 ## Classification
 
@@ -22,7 +22,7 @@ Huautla de Jiménez is a village in the state of Oaxaca, Mexico, famous worldwid
 
 ### Pre-Columbian Heritage
 
-The use of psychoactive mushrooms at Huautla de Jiménez has deep pre-Columbian roots. The fungi used in Mazatec ceremonies were also employed in pre-Columbian Aztec ceremonies, indicating a tradition spanning many centuries. The mushrooms contain the hallucinogenic indole-derived alkaloids psilocybine and psilocybine (psilocybin and psilocin).
+The use of psychoactive mushrooms at Huautla de Jiménez has deep pre-Columbian roots. The fungi used in Mazatec ceremonies were also employed in pre-Columbian Aztec ceremonies, indicating a tradition spanning many centuries. The mushrooms contain the hallucinogenic indole-derived alkaloids psilocybine and psilocybine ([[hplc-analysis-of-psilocybin-and-psilocin]]).
 
 ### Modern Discovery
 
@@ -47,7 +47,7 @@ Huautla de Jiménez has been the site of significant research contributions:
 
 ### Munn's Participant Observation
 Henry Munn conducted participant-observation research at Huautla de Jiménez, producing notable insights:
-- The hallucinogenic experience produces a state where "words leap to mind, one after another, of themselves without having to be searched for"
+- The [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]] produces a state where "words leap to mind, one after another, of themselves without having to be searched for"
 - This phenomenon resembles "automatic dictation of the surrealists"
 - The chemical properties of the mushrooms may specifically activate language centers in the brain
 - Munn argued that the experiences are "revelations of reality" rather than mere hallucinations
@@ -74,8 +74,8 @@ Huautla de Jiménez is arguably the most important single location in the histor
 
 ## Modern Significance
 
-Huautla de Jiménez continues to be an important site for ethnobotanical research and cultural tourism. The village's connection to the global history of psilocybin research makes it a landmark location in the study of psychoactive mushrooms. The traditional Mazatec ceremonies practiced there represent one of the oldest continuously maintained traditions of hallucinogenic mushroom use in the world, stretching back to pre-Columbian times.
+Huautla de Jiménez continues to be an important site for ethnobotanical research and cultural tourism. The village's connection to the global history of psilocybin research makes it a landmark location in the study of psychoactive mushrooms. The traditional Mazatec ceremonies practiced there represent one of the oldest continuously maintained traditions of [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] in the world, stretching back to pre-Columbian times.
 
 ## Oracle at Delphi Parallel
 
-Munn's research at Huautla de Jiménez raised interesting questions about the possible role of chemical substances in promoting oracular behavior in other times and places. He noted it has long been claimed that chemical factors were operative in the case of the oracle at Delphi in ancient Greece, though the specific agents involved remain disputed.
+Munn's research at Huautla de Jiménez raised interesting questions about the possible role of chemical substances in promoting oracular behavior in other times and places. He noted it has long been claimed that chemical factors were operative in the case of the oracle at Delphi [[psychedelic-use-in-ancient-greece]], though the specific agents involved remain disputed.

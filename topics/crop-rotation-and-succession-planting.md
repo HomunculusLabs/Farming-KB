@@ -7,12 +7,12 @@ updated: 2026-05-09
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - /Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
-  - /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
-  - /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
-  - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
-  - /Users/t3rpz/wiki/raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
+  - "raw/papers/eliot-coleman-winter-harvest-handbook.md"
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  - "raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
+  - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 related_concepts:
   - crop-rotation-principles
   - crop-rotation-benefits

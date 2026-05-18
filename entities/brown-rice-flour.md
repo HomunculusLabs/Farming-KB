@@ -9,11 +9,11 @@ type: entity
 ## Description
 
 Brown rice flour (BRF) is a finely ground powder made from whole grain brown
-rice that retains the bran and germ. In mushroom cultivation, it serves as
+rice that retains the bran and germ. [[contamination-prevention-in-mushroom-cultivation]], it serves as
 the primary nutrient source in the [[pf-tek]] (Psilocybe Fanaticus Technique)
 substrate formula. Organic brown rice flour is specifically recommended for
 cultivation because it lacks the chemical additives and preservatives found
-in some commercial flour products that may inhibit [[mycelium|mycelial]] growth.
+in some commercial flour products that may inhibit [[mycelium]] growth.
 
 ## Classification
 
@@ -33,9 +33,9 @@ in some commercial flour products that may inhibit [[mycelium|mycelial]] growth.
 - The typical ratio is approximately 1/4 cup BRF per 1/2 cup
   [[vermiculite]] per 1/4 cup water per half-pint jar.
 - Brown rice flour provides a complex carbohydrate base that supports
-  vigorous mycelial colonization.
+  vigorous [[mycelial-colonization]].
 - The nutrient profile of brown rice supports the development of psilocybin
-  content in cultivated mushrooms.
+  content in [[fungi-cultivated-mushrooms-pathogens-competitors]].
 - Research by [[jochen-gartz]] demonstrated that mushrooms grown on brown
   rice substrate can achieve psilocybin content approaching 1% dry weight,
   comparable to [[psilocybe-semilanceata]] (Liberty Caps).
@@ -76,19 +76,19 @@ with brown rice being specifically noted for producing potent specimens.
 
 ## Potency and Alkaloid Research
 
-The connection between brown rice substrate and mushroom potency was
+The connection between [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]] and mushroom potency was
 established through the work of [[jochen-gartz]], whose research showed
 that Psilocybe grown on brown rice achieved psilocybin levels rivaling
 wild [[psilocybe-semilanceata]]. This finding was significant because it
 demonstrated that substrate composition directly affects alkaloid
 production. The complex carbohydrates and micronutrients in whole grain
-brown rice appear to support robust psilocybin biosynthesis during fruit
+brown rice appear to support robust [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] during fruit
 body formation.
 
 ## Preparation and Freshness
 
 BRF freshness significantly affects colonization success. Fresh flour has
-higher enzymatic activity and nutrient availability. Stale or rancid flour
+higher enzymatic activity [[chelation-and-nutrient-availability]]. Stale or rancid flour
 develops off-odors and reduced nutritional value. Some cultivators grind
 their own brown rice flour immediately before use using a coffee grinder
 or grain mill to ensure maximum freshness. The [[pf-tek]] community

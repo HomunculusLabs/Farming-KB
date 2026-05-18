@@ -117,3 +117,7 @@ The manual may be read aloud, pre-recorded and played back, or memorized beforeh
 - [[third-bardo-re-entry]] — The re-entry period the Third Bardo texts address
 - [[wrathful-visions-psychedelic-experience]] — The nightmare visions requiring specific instructions
 - [[set-setting-psychedelic-therapy]] — Context for when and how to use the texts
+
+## Practical Considerations
+
+Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.

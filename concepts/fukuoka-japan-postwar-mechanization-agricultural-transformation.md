@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Japan Postwar Mechanization Agricultural Transformation"
+title: "Fukuoka Japan Postwar Agriculture Mechanization Agricultural Transformation"
 source: The Natural Way of Farming - masanobu-fukuoka
 tags: [fukuoka, natural-farming, japan, mechanization, postwar, agricultural-policy, industrialization, rural-depopulation]
 created: 2026-05-11
@@ -38,10 +38,10 @@ pesticides."
 Fukuoka identifies agriculture as the engine that powered two major
 industries: "The rapid mechanization of agriculture lit the fires for the
 revival and precipitous growth of the machine industry, while the adoption
-of pesticides, chemical fertilizers, and petroleum-based farming materials
+of pesticides, [[cervantes-chemical-fertilizers-guide]], and petroleum-based farming materials
 laid the foundation for development of the chemical industry."
 
-The machine industry found its first mass market in farm equipment. The
+The machine industry found its first mass market in [[coleman-small-farm-equipment-and-tools]]. The
 chemical industry found its in agricultural inputs. Both industries grew on
 the back of farming, which in turn shed labor that fed the urban workforce.
 
@@ -60,7 +60,7 @@ to arise, the farmers became a weight around the government's neck."
 ## The Basic Agriculture Law of 1961
 
 The Basic Agriculture Law, established in 1961, "was to define the role and
-direction to be taken by Japanese agriculture. But instead of serving as a
+direction to be taken by [[fukuoka-breakdown-japanese-agriculture]]. But instead of serving as a
 foundation for farmers, it established controls over the farmer and passed
 the reins of control to the financial community."
 

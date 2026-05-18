@@ -28,7 +28,7 @@ Phalloidin is a bicyclic heptapeptide toxin found in deadly *Amanita* species, p
 
 ## Relevance to Cultivation and Mycology
 
-Phalloidin is significant both historically and practically. Historically, the isolation of multiple toxins from *Amanita phalloides* demonstrated that a single species can produce a cocktail of poisonous compounds with distinct mechanisms. This understanding is essential for medical treatment — knowing that both a fast-acting and a slow-acting, heat-stable toxin are present explains the biphasic clinical course of amatoxin poisoning. Practically, phalloidin has become one of the most important tools in cell biology for actin staining, turning a deadly natural product into an indispensable research reagent.
+Phalloidin is significant both historically and practically. Historically, the isolation of multiple toxins from *Amanita phalloides* demonstrated that a single species can produce a cocktail of poisonous compounds with distinct mechanisms. This understanding is essential for medical treatment — knowing that both a fast-acting and a slow-acting, heat-stable toxin are present explains the biphasic clinical course of [[bloomfield-amatoxin-poisoning-mechanism]]. Practically, phalloidin has become one of the most important tools in cell biology for actin staining, turning a deadly natural product into an indispensable research reagent.
 
 ## Related Toxins
 
@@ -44,8 +44,8 @@ Phalloidin is significant both historically and practically. Historically, the i
 
 ## Ecological Significance
 The ecological importance of Phalloidin extends across multiple levels of biological
-organization. Research has documented its role in nutrient cycling, species interactions,
-and ecosystem stability. These relationships highlight the interconnected nature of
+organization. Research has documented its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], species interactions,
+and [[biodiversity-specialization-ecosystem-stability]]. These relationships highlight the interconnected nature of
 biological communities and the importance of understanding individual components
 within their broader environmental context.
 
@@ -54,14 +54,14 @@ Understanding Phalloidin has practical implications for agriculture, horticultur
 and environmental management. Applied research has explored how this knowledge
 can be used to improve soil health, optimize growing conditions, and develop
 more sustainable management practices. These applications demonstrate the bridge
-between fundamental research and real-world problem solving.
+between fundamental research and real-world [[cannabis-grow-nutrient-deficiency-problem-solving]].
 
 ## Research Context
 Current research on Phalloidin draws from multiple scientific disciplines, integrating
 findings from microbiology, ecology, chemistry, and applied sciences. Ongoing studies
 continue to refine our understanding of mechanisms and interactions, with implications
 for both theoretical knowledge and practical applications. Key research questions
-remain about the full range of effects and optimal management strategies.
+remain about the full range of effects and optimal [[forest-management-strategies]].
 
 ## Historical Background
 The study of Phalloidin has evolved significantly over time, with early observations
@@ -72,7 +72,7 @@ and helps identify areas where further investigation is needed.
 
 ## Distribution and Habitat
 Phalloidin occurs across a range of environmental conditions and geographic regions.
-Distribution patterns are influenced by climate, soil type, altitude, and interactions
+[[fungal-biogeography-distribution-patterns]] are influenced by climate, soil type, altitude, and interactions
 with other organisms. Understanding habitat preferences is essential for both
 conservation efforts and practical applications in cultivation and management.
 

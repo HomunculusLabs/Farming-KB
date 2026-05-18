@@ -7,8 +7,8 @@ tags: [medicinal-mushrooms, chaga, inonotus-obliquus, mycology,
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md
-  - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 related_concepts:
   - chaga-inonotus-obliquus-medicinal-profile
   - medicinal-mushroom-guide-chaga

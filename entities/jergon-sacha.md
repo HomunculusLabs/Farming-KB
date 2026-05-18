@@ -15,7 +15,7 @@ Jergón sacha is a medicinal plant widely used in Amazonian traditional medicine
 - **Family**: Araceae (arum family)
 - **Common names**: Jergón sacha, hierba del jergón, sacha jergón
 - **Origin**: Amazon Basin (Peru, Brazil, Colombia)
-- **Tradition**: Vegetalismo and general Amazonian folk medicine
+- **Tradition**: Vegetalismo and general Amazonian [[magical-illness-peruvian-amazon-folk-medicine]]
 
 ## Key Facts
 - Jergón sacha is a tuberous herbaceous plant in the Araceae family, related to taro and philodendrons.
@@ -30,7 +30,7 @@ Jergón sacha is a medicinal plant widely used in Amazonian traditional medicine
 ## Relevance to Cultivation and Mycology
 - Jergón sacha can be cultivated in tropical conditions from tuber divisions, preferring shade and moist, well-drained soil.
 - As an Araceae, it has similar [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]] to other aroids commonly grown in tropical horticulture.
-- The plant's pharmacological properties warrant further scientific investigation for potential antivenom and antimicrobial applications.
+- The plant's [[lsd-discovery-aftermath-pharmacological-properties]] warrant further scientific investigation for potential antivenom and antimicrobial applications.
 - Conservation of jergón sacha and related species is important for maintaining traditional snakebite treatment options in remote Amazonian areas.
 - Its doctrine-of-signatures relationship with the jergón snake represents one of the most striking examples of this principle in [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[ayahuasca-tourism-economics-peruvian-amazon]], recognized across multiple indigenous and mestizo communities as a primary treatment for snakebite.
 

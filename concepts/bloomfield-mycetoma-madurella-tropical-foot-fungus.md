@@ -41,7 +41,7 @@ deformed, earning the condition its colloquial name of Madura foot.
 Mycetoma is classified into two major categories based on the type
 of causative organism. Eumycetoma is caused by true fungi, with
 Madurella mycetomatis being the most prevalent agent in Africa.
-Actinomycetoma is caused by filamentous bacteria called actinomycetes,
+Actinomycetoma is caused by filamentous bacteria called [[actinomycetes]],
 principally species of Nocardia, [[acacia]] savannahs of Sudan and other parts of
 sub-Saharan Africa. The fungus may exist as a saprotroph in soil
 for extended periods, awaiting the opportunity to enter a human host

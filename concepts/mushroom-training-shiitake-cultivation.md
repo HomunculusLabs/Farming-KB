@@ -13,9 +13,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by
 
 Shiitake mushrooms ([[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide. In the FAO [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** Shiitake requires a narrower temperature range of 20-30°C for fruiting, making it best suited for cultivation during the rainy and cold seasons in Thailand (approximately August through January). This is slightly cooler than the requirements for most [[oyster-mushroom]] varieties.
 
-**Cultivation season:** Mid-rainy season through early winter (August-January), making it complementary to the summer oyster mushroom production cycle.
+**Cultivation season:** Mid-rainy season through early winter (August-January), making it complementary to the summer oyster [[stamets-stump-cultivation-mushroom-production-forestry]] cycle.
 
-**Substrate:** Like other bag-cultivated species, shiitake grows on a sawdust-based substrate supplemented with rice bran and minerals. The substrate recipe is the same as for oyster mushrooms: 100 kg sawdust, 5 kg rice bran, 2 kg calcium sulfate, 1 kg calcium carbonate, 0.2 kg magnesium sulfate.
+**Substrate:** Like other bag-cultivated species, shiitake grows on a sawdust-based substrate supplemented with rice bran and minerals. The substrate recipe is the same as for oyster mushrooms: 100 kg sawdust, 5 kg rice bran, 2 kg calcium sulfate, 1 kg [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]], 0.2 kg magnesium sulfate.
 
 ## Health and Nutritional Properties
 
@@ -23,16 +23,16 @@ Shiitake mushrooms are recognized for their significant health benefits:
 
 - **Cartilage development**: Particularly noted as "good for baby's cartilage" in traditional Thai medicine
 - **Immune system support**: Shiitake contains lentinan, a polysaccharide with well-documented immune-modulating properties
-- **Nutritional value**: Like other cultivated mushrooms, shiitake provides high protein, essential amino acids, low fat, and high fiber
+- **Nutritional value**: Like other [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]], shiitake provides high protein, essential amino acids, low fat, and high fiber
 - **Medicinal applications**: Shiitake has been extensively studied for anti-cancer, cholesterol-lowering, and antiviral properties
 
-The training program emphasizes that eating two to three types of mushroom per day provides proper amounts of essential amino acids required by the body.
+The [[mushroom-cultivation-disabilities-nine-week-training-program]] emphasizes that eating two to three types of mushroom per day provides proper amounts of essential amino acids required by the body.
 
 ## Substrate Bag Cultivation Method
 
 Shiitake cultivation follows the same substrate bag procedure as other species in the training program:
 
-**Step 5 — Substrate bag production:**
+**Step 5 — [[mushroom-cultivation-disabilities-substrate-bag-production]]:**
 The standard substrate recipe applies. Note that in hot climates, additives should not exceed 7.5% of the total substrate weight to prevent excessive microbial competition and overheating during fermentation.
 
 **Step 6 — Pasteurization:**
@@ -75,7 +75,7 @@ The log method produces higher quality shiitake with better texture and flavor b
 
 ## Comparison with Oyster Mushroom Cultivation
 
-| Feature | Shiitake (Lentinula edodes) | Oyster (Pleurotus ostreatus) |
+| Feature | Shiitake (Lentinula edodes) | Oyster ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]]) |
 |---------|---------------------------|------------------------------|
 | Temperature range | 20-30°C | 20-35°C |
 | Season (Thailand) | Aug-Jan | Jun-Feb |

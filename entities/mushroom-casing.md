@@ -9,13 +9,13 @@ tags: [technique, cultivation, casing, mushroom-growing, bed-management]
 
 ## Description
 
-Casing is a fundamental technique in [[mushroom-cultivation]] that involves covering the fully spawned compost bed with a layer of soil or soil-like material. This practice, detailed extensively by Benjamin Minge Duggar in his 1915 text "Mushroom Growing," is critical for initiating fruiting body (sporophore) formation and maintaining proper moisture conditions in the mushroom bed. The casing layer creates a microenvironment that stimulates the transition from vegetative mycelial growth to reproductive fruiting.
+Casing is a fundamental technique in [[mushroom-cultivation]] that involves covering the fully spawned compost bed with a layer of soil or soil-like material. This practice, detailed extensively by [[benjamin-minge-duggar-mushroom-cultivation-research]] in his 1915 text "Mushroom Growing," is critical for initiating fruiting body (sporophore) formation and maintaining proper moisture conditions in the mushroom bed. The casing layer creates a microenvironment that stimulates the transition from vegetative mycelial growth to reproductive fruiting.
 
 ## Classification
 
 - **Category**: Cultivation technique
 - **Subcategory**: Bed management
-- **Historical origin**: Practiced since early commercial mushroom cultivation (19th century)
+- **Historical origin**: Practiced since early [[history-of-commercial-mushroom-cultivation]] (19th century)
 - **Application stage**: Post-spawning, after mycelial colonization is confirmed
 
 ## Casing Layer Specifications
@@ -33,7 +33,7 @@ Duggar ranks casing materials from best to acceptable:
 
 1. **Good garden loam** — preferred, readily available
 2. **Potting soil** — excellent consistency and structure
-3. **Soil from beneath grass sod** — excellent, rich in beneficial microorganisms
+3. **Soil from beneath grass sod** — excellent, rich in [[forest-and-bamboo-beneficial-microorganisms]]
 4. **Calcareous loam mixture** (French method) — advantageous for sanitation purposes
 
 ### Materials to Avoid
@@ -92,11 +92,11 @@ Casing remains essential in commercial Agaricus cultivation worldwide. Contempor
 - Pasteurized casing to reduce contamination
 - pH-adjusted casing materials (typically limed to pH 7.5-8.0)
 
-The microbiological interaction between casing soil and mushroom mycelium was later discovered to be crucial — specific bacteria in the casing layer produce volatile compounds that stimulate primordia formation.
+The microbiological interaction between casing soil and mushroom mycelium was later discovered to be crucial — specific bacteria in the casing layer produce [[mycovolatiles-fungal-volatile-compounds]] that stimulate primordia formation.
 
 ## Relevance to Cultivation
 
-Casing represents one of the most important innovations in mushroom cultivation. Without a casing layer, Agaricus species typically fail to fruit or produce greatly reduced yields. The technique demonstrates the importance of understanding the environmental triggers for fungal reproduction.
+Casing represents one of the most important innovations [[contamination-prevention-in-mushroom-cultivation]]. Without a casing layer, Agaricus species typically fail to fruit or produce greatly reduced yields. The technique demonstrates the importance of understanding the [[fungal-fruiting-body-formation-environmental-triggers]] for fungal reproduction.
 
 ## See Also
 

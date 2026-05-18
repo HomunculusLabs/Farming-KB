@@ -45,7 +45,7 @@ Lemmas are 4 to 6 millimeters long with a short awn or awnless. Anthers are 1.5 
 
 Festuca rubra has a broad circumboreal distribution across the Northern Hemisphere. In Europe, it occurs from the Mediterranean to Scandinavia and eastward to Siberia.
 
-In North America, it is native across Canada and the northern United States, extending southward in mountainous regions. It is also native to Greenland and Iceland.
+In [[guzman-psilocybin-mushrooms-north-america]], it is native across Canada and the northern [[dmt-containing-plants-united-states-halpern]], extending southward in mountainous regions. It is also native to Greenland and Iceland.
 
 The species grows in a wide range of habitats including grasslands, meadows, open woodlands, coastal dunes, and alpine tundra. Subspecies arenaria is specifically adapted to sandy coastal environments.
 
@@ -59,7 +59,7 @@ The species is shade-tolerant and commonly occurs in open woodland understories 
 
 Festuca rubra flowers from June through August. It is predominantly wind-pollinated, with pollen dispersed from exposed anthers on the open panicle.
 
-Seed production is abundant, with each panicle producing 100 to 300 seeds. Natural seed dispersal occurs by wind and animal movement.
+[[cannabis-controlled-pollination-seed-production]] is abundant, with each panicle producing 100 to 300 seeds. Natural [[clay-pellet-seed-dispersal]] occurs by wind and animal movement.
 
 The fine leaf texture and dense basal growth provide effective ground cover. This makes the species competitive in nutrient-poor soils where coarser grasses struggle.
 
@@ -67,7 +67,7 @@ Red fescue is an important forage species in northern temperate grasslands. It i
 
 The creeping rhizomes of some subspecies contribute to soil stabilization on slopes and coastal dunes. Subspecies arenaria is particularly valued for dune fixation.
 
-Several fungal endophytes associate with Festuca rubra, including [[dighton-fungal-drought-tolerance-plant-water-relations]] and herbivore resistance.
+Several [[fungal-endophytes]] associate with Festuca rubra, including [[dighton-fungal-drought-tolerance-plant-water-relations]] and herbivore resistance.
 
 ## Cultivation
 
@@ -81,7 +81,7 @@ Mowing height for turf applications ranges from 2.5 to 7.5 centimeters. Lower mo
 
 Fertilizer requirements are moderate to low compared with other turf grasses. Nitrogen applications of 50 to 100 kilograms per hectare per year are generally sufficient.
 
-Drought tolerance is good to excellent, especially for endophyte-infected selections. The species maintains acceptable color during summer dormancy in warmer regions.
+[[dighton-mycorrhizal-drought-tolerance-plant-water-relations]] is good to excellent, especially for endophyte-infected selections. The species maintains acceptable color during summer dormancy in warmer regions.
 
 ## See Also
 

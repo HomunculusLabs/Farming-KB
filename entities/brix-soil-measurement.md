@@ -24,20 +24,20 @@ Brix is a measurement of dissolved solids in plant sap, primarily sugars, expres
 
 2. **Free Amino Acid Problem**: If free amino acids accumulate in plant tissue without being incorporated into proteins, the plant attracts pests. High brix from free amino acids (rather than completed proteins) can actually indicate a nutritional problem. Understanding plant physiology is essential for interpreting brix readings.
 
-3. **Plant Controls Nutrient Uptake**: When beneficial microorganisms are present on leaf surfaces, the plant controls its own nutrition. It releases sugars onto leaf surfaces to feed organisms when it needs nutrients. The organisms respire, raising CO2 at the leaf surface, which opens stomata and allows nutrient uptake. The plant regulates this entire process.
+3. **Plant Controls Nutrient Uptake**: When [[forest-and-bamboo-beneficial-microorganisms]] are present on leaf surfaces, the plant controls its own nutrition. It releases sugars onto leaf surfaces to feed organisms when it needs nutrients. The organisms respire, raising CO2 at the leaf surface, which opens stomata and allows nutrient uptake. The plant regulates this entire process.
 
 4. **Not Always Higher = Better**: Ingham challenges the assumption that elevated brix always indicates better plant health. Elevated sugar could mean the plant is mounting an immune response to a spray, not necessarily that it is healthier. A drop in brix might mean sugars are being converted to other needed compounds.
 
 5. **Standard Curve Needed**: To properly evaluate brix, a standard curve of typical brix fluctuations through the day is needed for each crop. Hourly readings could establish baselines. Without knowing the baseline for a conventionally grown plant, it is impossible to say whether treated plants are actually improved.
 
-6. **Correlation with Foodweb Health**: When [[soil-food-web]] Inc. tests show higher biomass of bacteria, fungi, protozoa, or nematodes, this correlates with improved disease protection, nutrient retention, nutrient cycling, soil aggregation, and often higher brix readings.
+6. **Correlation with Foodweb Health**: When [[soil-food-web]] Inc. tests show higher biomass of bacteria, fungi, protozoa, or nematodes, this correlates with improved disease protection, [[bacterial-biofilms-and-nutrient-retention]], nutrient cycling, soil aggregation, and often higher brix readings.
 
 7. **Foliar Spray Impact**: After applying compost tea, brix changes can be measured within hours. Ingham recommends a controlled test design: measure brix before and after applying good tea, poor tea, water, and nutrient solution across four plots to document actual responses.
 
 ## Relevance to Cultivation and Mycology
 
 ### Compost Tea Evaluation
-Brix measurements before and after compost tea application provide a rapid field assessment of whether the biological treatment is improving plant nutrient status. This is a low-cost monitoring tool for compost tea practitioners.
+Brix measurements before and after [[compost-tea-application-and-disease-suppression]] provide a rapid field assessment of whether the biological treatment is improving plant nutrient status. This is a low-cost monitoring tool for compost tea practitioners.
 
 ### Pest Management Connection
 Plants with high free amino acid content (incomplete protein synthesis) attract insect pests. Healthy soil foodwebs ensure complete protein synthesis, reducing pest pressure. Brix can help identify when this pathway is broken.
@@ -66,17 +66,17 @@ Elaine Ingham, PhD — *The Field Guide I for [[actively-aerated-compost-tea]]*.
 ## Measurement Methodology
 
 - Equipment requirements and calibration procedures
-- Sampling protocols for consistent results
+- [[lichen-biodiversity-sampling-protocols-data-analysis]] for consistent results
 - Interpretation of readings across crop types
 
 ## Limitations and Considerations
 
 - Factors that affect measurement accuracy
 - Correlation with actual plant nutrient status
-- Complementary assessment methods
+- Complementary [[fungal-biodiversity-assessment-methods]]
 
 ## Agricultural Applications
 
-- Inoculation methods and timing for crop systems
+- [[inoculation-methods]] and timing for crop systems
 - Compatibility with common soil amendments and practices
 - Cost-benefit analysis for commercial scale deployment

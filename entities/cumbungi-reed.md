@@ -17,7 +17,7 @@ by their tall (2-4 metre) strap-like leaves and distinctive dark brown, cylindri
 flower spikes.
 
 In permaculture and environmental engineering, cumbungi reeds are valued for their
-extraordinary water purification capabilities. They are used in constructed wetlands
+extraordinary water purification capabilities. They are used in [[comparison-constructed-wetlands-vs-bioswales]]
 and reed bed systems to treat wastewater, stormwater, and effluent through natural
 biological processes. At the Harcourt Park project in Bendigo, [[david-holmgren]]
 designed small cumbungi ponds below stormwater outlets to catch debris and sediment
@@ -50,7 +50,7 @@ composted in surrounding urban forest plantings.
 - Multiple parts of the plant are edible: young shoots (known as "Cossack
   asparagus"), pollen (used as flour), and starchy rhizomes.
 - The tall stems and leaves have traditional uses for thatching, mat-making,
-  and as building material.
+  and [[bamboo-as-building-material]].
 - Constructed reed bed systems using *Typha* are among the fastest-growing
   areas of environmental technology, particularly in Europe and North America.
 - Natural swamps dominated by reeds have been found to be highly efficient at
@@ -60,7 +60,7 @@ composted in surrounding urban forest plantings.
 ## Relevance to Cultivation and Mycology
 
 - **Root Zone Microbiology**: The rhizosphere of *Typha* plants supports dense
-  populations of aerobic and anaerobic microorganisms, including fungi, that
+  populations of [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] microorganisms, including fungi, that
   break down organic pollutants and cycle nutrients in water treatment systems.
 - **Constructed Wetland Substrates**: The organic-rich sediments that accumulate
   in cumbungi ponds can be harvested and composted, producing material rich in
@@ -75,8 +75,8 @@ composted in surrounding urban forest plantings.
   ponds, when composted, provides a fungal-rich amendment that can improve soil
   structure and biological activity in garden beds.
 - **Mycorrhizal Potential**: While wetland plants like *Typha* have adapted to
-  flooded, anaerobic conditions (and many wetland species have reduced
-  mycorrhizal associations), the transition zones between wetland and dry land
+  flooded, [[aact-ph-and-anaerobic-conditions]] (and many wetland species have reduced
+  [[plants-without-mycorrhizal-associations]]), the transition zones between wetland and dry land
   support diverse fungal communities that benefit from the moisture gradient.
 - **Natural Water Purification**: Cumbungi-based systems exemplify how biological
   processes (including [[fungal-decomposition]]) can replace energy-intensive
@@ -84,7 +84,7 @@ composted in surrounding urban forest plantings.
 
 ## Source References
 
-- David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability*
+- David Holmgren, *Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]*
   (2002), Principle 5: water purification services section.
 - Footnote 37: Identified as *Typha* species.
 - Harcourt Park, Bendigo City stormwater design project.

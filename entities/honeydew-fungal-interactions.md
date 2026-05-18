@@ -7,7 +7,7 @@ tags: [ecology, phylloplane, canopy-process, nutrient-cycling, aphid]
 
 ## Description
 
-**Honeydew-fungal interactions** refer to the ecological relationships between sugar-rich honeydew excreted by phloem-feeding insects (primarily aphids) and the fungal and bacterial communities that colonize leaf surfaces (phylloplane). Honeydew serves as a critical carbon and energy source for phylloplane microorganisms, dramatically increasing microbial biomass and altering fungal community composition on leaf surfaces. These interactions have cascading effects on pathogen invasion, nutrient absorption in forest canopies, and soil nutrient loading.
+**Honeydew-fungal interactions** refer to the ecological relationships between sugar-rich honeydew excreted by phloem-feeding insects (primarily aphids) and the fungal and [[cannabis-endorhiza-bacterial-communities]] that colonize leaf surfaces (phylloplane). Honeydew serves as a critical carbon and energy source for phylloplane microorganisms, dramatically increasing microbial biomass and altering fungal [[core-endorhiza-bacterial-community-composition-cannabis]] on leaf surfaces. These interactions have cascading effects on pathogen invasion, nutrient absorption in forest canopies, and soil nutrient loading.
 
 ## Classification
 
@@ -31,7 +31,7 @@ Aphids produce honeydew as a byproduct of phloem sap feeding:
 
 Stadler and Muller (1996, 2000) documented dramatic responses:
 
-- **Bacterial densities:** 2-3 orders of magnitude higher on honeydew-contaminated leaves vs. controls
+- **Bacterial densities:** 2-3 [[event-classification-and-orders-of-magnitude]] higher on honeydew-contaminated leaves vs. controls
 - **Filamentous fungi:** 2-3 orders of magnitude higher on honeydew-contaminated leaves
 - **Energy limitation:** All phylloplane microorganisms are suspected to be energy-limited; honeydew alleviates this limitation
 - **Community composition:** Honeydew alters which fungal and bacterial species dominate on leaf surfaces
@@ -42,7 +42,7 @@ Honeydew-mediated microbial growth affects canopy nutrient dynamics:
 
 1. **Nitrogen immobilization:** Elevated microbial biomass on leaf surfaces immobilizes nitrogen from throughfall precipitation
 2. **Canopy N absorption:** Stadler et al. (1998) showed increased phylloplane microbial biomass on Norway spruce increased nitrogen absorption in the canopy
-3. **Reduced soil N loading:** Nitrogen captured by canopy microbes does not reach the soil, directly affecting soil nutrient availability
+3. **Reduced soil N loading:** Nitrogen captured by canopy microbes does not reach the soil, directly affecting soil [[chelation-and-nutrient-availability]]
 4. **Tree nutrition:** Canopy-level nitrogen immobilization may affect the overall nutrient balance of the tree
 
 ### Pathogen Interactions
@@ -59,7 +59,7 @@ The altered phylloplane fungal community has implications for plant pathology:
 
 Understanding honeydew-fungal interactions has practical applications:
 
-1. **Greenhouse management:** Aphid infestations alter phylloplane microbial communities, potentially affecting disease susceptibility
+1. **[[aphid-greenhouse-management]]:** Aphid infestations alter phylloplane microbial communities, potentially affecting disease susceptibility
 2. **Biological control:** Honeydew supports beneficial epiphytic fungi that may suppress pathogens
 3. **Foliar fertilization:** The interaction between foliar-applied nutrients and honeydew-supported microbes affects nutrient absorption efficiency
 4. **IPM considerations:** Aphid control affects not only direct plant damage but also the phylloplane microbial community
@@ -69,7 +69,7 @@ Understanding honeydew-fungal interactions has practical applications:
 Honeydew-mediated canopy processes have implications for:
 
 - **Throughfall chemistry:** Forest management practices that affect aphid populations will alter nutrient fluxes through the canopy
-- **Forest fertilization:** Understanding canopy-level nutrient immobilization is important for interpreting fertilization trial results
+- **Forest fertilization:** Understanding canopy-level [[dighton-fungal-nutrient-immobilization-turnover]] is important for interpreting fertilization trial results
 
 ## See Also
 

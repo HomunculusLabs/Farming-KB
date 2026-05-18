@@ -14,7 +14,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 ## Principle
 
-The underlying principle of FPJ is that fast-growing plants contain high concentrations of growth-promoting substances — auxins, gibberellins, cytokinins, and other phytohormones — at their growing tips. By extracting these substances through osmotic pressure (using sugar to draw out the plant sap) and then preserving them through lactic acid fermentation, FPJ provides crops with a concentrated source of natural growth regulators and nutrients.
+The underlying principle of FPJ is that fast-growing plants contain high concentrations of growth-promoting substances — auxins, gibberellins, cytokinins, and other phytohormones — at their growing tips. By extracting these substances through [[fungal-fruiting-body-mechanics-osmotic-pressure]] (using sugar to draw out the plant sap) and then preserving them through lactic acid fermentation, FPJ provides crops with a concentrated source of [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]] and nutrients.
 
 Cho's insight was that different plants accumulate different growth factors based on their growth characteristics, allowing farmers to tailor FPJ formulations to specific crop needs. The KNF principle states: "What grows fast is good for what grows slow."
 
@@ -24,10 +24,10 @@ In KNF, plant species are selected for FPJ based on their growth characteristics
 
 - **Fast-growing shoots**: Young, rapidly growing parts of plants are richest in growth hormones and amino acids. Ideal collection time is just before dawn when plant sap is most concentrated.
 - **Common FPJ sources**:
-  - **Sweet potato** (*Ipomoea batatas*): Rich in potassium, promotes root development and tuber enlargement
+  - **Sweet potato** (*[[ipomoea-batatas]]*): Rich in potassium, promotes root development and tuber enlargement
   - **Bamboo shoots**: High in silica, promotes cell wall strength and structural integrity
-  - **Arrowroot** (*Maranta arundinacea*): Balanced nutrition, general-purpose FPJ
-  - **Water spinach** (*Ipomoea aquatica*): High nitrogen, promotes vegetative growth
+  - **Arrowroot** (*[[maranta-arundinacea]]*): Balanced nutrition, general-purpose FPJ
+  - **Water spinach** (*[[ipomoea-aquatica]]*): High nitrogen, promotes vegetative growth
   - **Banana pseudostem**: Rich in potassium, promotes fruit development
   - **Seaweed**: Trace minerals, growth hormones, disease resistance
   - **Mugwort** (*Artemisia vulgaris*): High mineral content, pest-repellent properties
@@ -61,7 +61,7 @@ FPJ contains a complex mixture of plant-derived compounds including:
 - **Amino acids**: Free amino acids and small peptides from protein hydrolysis
 - **Sugars**: Glucose, fructose, and other simple sugars
 - **Organic acids**: Lactic acid, acetic acid, and other fermentation products
-- **Minerals**: Potassium, calcium, magnesium, iron, and trace elements
+- **Minerals**: Potassium, calcium, magnesium, iron, [[teaming-with-nutrients-micronutrients-and-trace-elements]]
 - **Enzymes**: Amylases, proteases, and other plant and microbial enzymes
 - **Vitamins**: B-group vitamins produced by microbial fermentation
 

@@ -9,7 +9,7 @@ tags: [equipment, dissolved-oxygen, compost-tea, brewing, measurement, monitorin
 
 ## Description
 
-A dissolved oxygen (DO) meter is an essential instrument for monitoring oxygen levels during the brewing of [[actively-aerated-compost-tea]] (AACT). Maintaining adequate dissolved oxygen concentrations throughout the brewing process is critical for supporting aerobic beneficial microorganisms and preventing the growth of anaerobic pathogens.
+A dissolved oxygen (DO) meter is an essential instrument for monitoring oxygen levels during the brewing of [[actively-aerated-compost-tea]] (AACT). Maintaining adequate dissolved oxygen concentrations throughout the brewing process is critical for supporting aerobic [[forest-and-bamboo-beneficial-microorganisms]] and preventing the growth of anaerobic pathogens.
 
 ## Classification
 
@@ -22,7 +22,7 @@ A dissolved oxygen (DO) meter is an essential instrument for monitoring oxygen l
 - **Critical threshold**: Dissolved oxygen must remain above 5.5-6.0 mg/L throughout the brewing cycle to maintain aerobic conditions
 - **Measurement range**: Typical DO meters for compost tea measure 0-20 mg/L (ppm)
 - **Temperature compensation**: Quality meters include automatic temperature compensation (ATC), as oxygen solubility varies with temperature
-- **Total dissolved gases**: In addition to oxygen, total dissolved gases must be monitored; excessive CO2 indicates anaerobic conditions developing
+- **Total dissolved gases**: In addition to oxygen, total dissolved gases must be monitored; excessive CO2 indicates [[aact-ph-and-anaerobic-conditions]] developing
 - **Oxygen concentration vs. saturation**: Both parameters are important - concentration measures absolute O2, while saturation compares to maximum possible at current temperature
 
 ## Role in AACT Brewing
@@ -37,7 +37,7 @@ Elaine Ingham emphasizes dissolved oxygen monitoring as one of the most critical
 
 ### Why Monitoring Matters
 
-- **Anaerobic prevention**: If dissolved oxygen drops below critical levels, anaerobic organisms including E. coli and other coliforms can proliferate
+- **Anaerobic prevention**: If dissolved oxygen drops below critical levels, [[anaerobic-organisms-compost]] including E. coli and other coliforms can proliferate
 - **Quality assurance**: DO readings provide objective evidence of proper aerobic conditions throughout brewing
 - **Equipment verification**: Regular DO measurements confirm that brewing equipment is functioning correctly
 - **Food safety**: Documented DO levels are important for regulatory compliance in commercial applications
@@ -78,7 +78,7 @@ Elaine Ingham emphasizes dissolved oxygen monitoring as one of the most critical
 Dissolved oxygen management is fundamental to producing high-quality compost tea for biological agriculture:
 
 - **Fungal biomass**: Fungi require well-oxygenated conditions; low DO favors bacteria over fungi
-- **Disease suppression**: Only aerobic compost tea contains the full complement of beneficial organisms needed for foliar and soil disease suppression
+- **Disease suppression**: Only [[ingham-anaerobic-vs-aerobic-compost-tea]] contains the full complement of beneficial organisms needed for foliar and soil disease suppression
 - **Mycorrhizal compatibility**: Properly aerated tea supports mycorrhizal fungal spores and hyphal fragments
 - **Nutrient cycling**: Aerobic microorganisms are responsible for converting organic matter into plant-available nutrients
 
@@ -91,8 +91,8 @@ Dissolved oxygen management is fundamental to producing high-quality compost tea
 
 ## References
 
-- Elaine Ingham, PhD - The Field Guide I for Actively Aerated Compost Tea
-- Soil Foodweb Institute - AACT Brewing Protocols
+- Elaine Ingham, PhD - The Field Guide I for [[actively-aerated-compost-tea-basics]] Tea
+- [[soil-foodweb-institute]] - AACT Brewing Protocols
 
 ## See Also
 

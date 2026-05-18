@@ -1,5 +1,5 @@
 ---
-title: "Oyster Mushroom Postharvest Respiration and Cold Storage"
+title: "Comparison Chaga Vs Oyster Mushroom Postharvest Respiration Root Cellars And Cold Storage"
 source: "unknown-oyster-mushroom-cultivation.md"
 source_path: "/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md"
 chunk_id: 40
@@ -17,7 +17,7 @@ created: 2026-05-16
 # Oyster Mushroom Postharvest Respiration and Cold Storage
 
 ## Core idea
-Fresh oyster mushrooms remain biologically active after harvest.
+Fresh [[oyster-mushrooms]] remain biologically active after harvest.
 They continue to respire, and the MushWorld guide notes that oyster mushrooms
 respire at roughly three times the rate of most fruits.
 That high respiration rate is a practical warning: oyster mushrooms have a
@@ -86,13 +86,13 @@ Postharvest handling affects facility layout.
 A farm needs a short clean path from grow room to trimming area to cooler.
 Packaging should be ready before harvest begins.
 Labor should be scheduled around the flush, not after it.
-For oyster mushrooms, marketing capacity must match biological timing.
+For oyster mushrooms, marketing capacity must match [[pulsers-and-biological-timing]].
 A grower who cannot sell quickly needs smaller staggered flushes.
 
 ## Relationship to cultivation planning
 High respiration changes how production targets should be set.
 Large synchronized flushes are risky without immediate outlets.
-Staggered bag production spreads harvest pressure.
+Staggered [[mushroom-bag-production-cost-justification]] spreads harvest pressure.
 Restaurant accounts, farmers markets, and direct customers should be matched
 to expected flush timing.
 The best postharvest strategy begins before pinning.
@@ -110,7 +110,7 @@ These signs indicate that respiration, enzymes, and microbes are overtaking
 marketable freshness.
 
 ## Design principle
-Oyster mushroom storage is a race against active tissue metabolism.
+[[oyster-mushroom-storage-processing]] is a race against active tissue metabolism.
 Cooling buys time.
 Clean handling reduces inoculum.
 Fast sales preserve value.

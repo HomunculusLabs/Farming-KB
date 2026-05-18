@@ -28,8 +28,8 @@ Ilya Romanovich Prigogine (1917–2003) was a Russian-Belgian physical chemist a
 ## Relevance to Cultivation and Mycology
 
 1. **Self-organising substrates:** Mushroom mycelium is a classic dissipative structure — it consumes energy-rich substrate and produces organised networks, fruiting bodies, and complex metabolites. Understanding this helps cultivators optimise conditions for mycelial self-organisation.
-2. **Far-from-equilibrium growing:** Actively growing fungal cultures exist far from thermodynamic equilibrium. Maintaining energy flow (fresh air exchange, nutrient availability, temperature gradients) keeps the system in the productive far-from-equilibrium state.
-3. **Ecosystem complexity:** Mixed cultivation systems (polyculture beds, [[companion-planting-with-fungi]]) are more complex and stable than monocultures because they are far-from-equilibrium dissipative structures with multiple energy pathways.
+2. **Far-from-equilibrium growing:** Actively growing fungal cultures exist far from thermodynamic equilibrium. Maintaining energy flow (fresh air exchange, [[chelation-and-nutrient-availability]], temperature gradients) keeps the system in the productive far-from-equilibrium state.
+3. **[[fukuoka-human-knowledge-limits-ecosystem-complexity]]:** Mixed cultivation systems (polyculture beds, [[companion-planting-with-fungi]]) are more complex and stable than monocultures because they are far-from-equilibrium dissipative structures with multiple energy pathways.
 4. **Design for energy throughput:** Prigogine's work validates Mollison's strategy of designing systems that maximise energy throughput — more energy flow means more potential for self-organisation and complexity.
 5. **Contamination resistance:** Complex, self-organised mycelial networks resist contamination better than sparse, low-energy cultures, consistent with dissipative-structure theory.
 
@@ -45,7 +45,7 @@ Mollison quotes Newsweek (October 24, 1977) on Prigogine's Nobel Prize: "biologi
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
-- Relates to fundamental principles of natural system design
+- Relates to fundamental [[four-principles-of-natural-farming]] system design
 - Has applications across multiple disciplines and contexts
 - Understanding this topic supports better environmental stewardship
 
@@ -62,14 +62,14 @@ Mollison quotes Newsweek (October 24, 1977) on Prigogine's Nobel Prize: "biologi
 - Understanding requires both theoretical and practical knowledge
 
 ## Ecological Role
-- Contributes to ecosystem function and resilience
+- Contributes to [[dighton-mycorrhizal-diversity-ecosystem-function]] and resilience
 - Supports biodiversity and habitat complexity
 - Plays role in natural nutrient cycling processes
 - Influenced by landscape-level patterns and processes
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
-- Used in conservation and ecological restoration projects
+- Applied in [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
+- Used in conservation and [[mycorrhizal-fungi-ecological-restoration]] projects
 - Informs decision-making in agricultural and horticultural systems
 - Supports development of regenerative practices
 

@@ -5,10 +5,10 @@ tags: [mycology, ecology, symbiosis, evolution, mycorrhizae, plant-biology, soil
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md
-  - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
-  - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-  - /Users/t3rpz/wiki/raw/papers/teaming-with-fungi-lowenfels.md
+  - "raw/papers/symbiotic-fungi.md"
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+  - "raw/papers/teaming-with-fungi-lowenfels.md"
 related_concepts:
   - "mycorrhizal-fungi"
   - "endophytic-fungi-hidden-symbionts-within-plants"

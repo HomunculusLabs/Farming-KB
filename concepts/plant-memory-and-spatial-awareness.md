@@ -12,7 +12,7 @@ behavior.
 
 ## What a Plant Remembers: Molecular Memory
 
-Plant memory manifests in several distinct forms, each operating on different
+[[plant-memory]] manifests in several distinct forms, each operating on different
 timescales and through different molecular mechanisms. The most
 straightforward form is the phytochrome-based memory described earlier: a
 plant "remembers" the last color of light it perceived because the phytochrome
@@ -38,7 +38,7 @@ sufficient cold exposure, FLC is stably silenced, and the plant becomes
 competent to flower when days lengthen in spring.
 
 This [[biological-memory-non-neural]] outside of the adaptive immune system. Crucially,
-vernalization memory is reset in the next generation — seeds produced by a
+vernalization memory is reset in the [[next-generation-sequencing-hidden-fungal-diversity]] — seeds produced by a
 vernalized plant are again responsive to cold, ensuring that each generation
 independently measures the passage of winter before committing to flowering.
 
@@ -61,7 +61,7 @@ debated.
 Plants maintain a sophisticated awareness of their orientation relative to the
 gravity vector, a capability essential for their survival and normal
 development. Roots grow downward (positive gravitropism) toward water and
-mineral nutrients in the soil, while shoots grow upward (negative
+[[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]] in the soil, while shoots grow upward (negative
 gravitropism) toward the photosynthetically active radiation of sunlight. If a
 potted plant is knocked over, both roots and shoots will reorient their growth
 within hours to restore the normal vertical orientation — a response that has
@@ -71,7 +71,7 @@ The mechanism of graviperception involves statoliths — dense, starch-filled
 organelles called amyloplasts that sediment to the bottom of specialized
 gravity-sensing cells under the influence of gravity. In roots, these sensing
 cells are the columella cells of the root cap; in shoots, they are the
-endodermal cells surrounding the vascular tissue. The sedimentation of
+endodermal cells surrounding the [[plant-vascular-tissue-and-root-anatomy]]. The sedimentation of
 statoliths is detected by the cell, triggering a signaling cascade involving
 rapid changes in cytoplasmic calcium concentration, pH shifts, and the
 redistribution of the plant hormone auxin (indole-3-acetic acid).

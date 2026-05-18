@@ -1,5 +1,5 @@
 ---
-title: Methyl Alcohol
+title: Psilocybin Methyl Alcohol Extraction Technique
 source: field-guide-to-the-psilocybin-mushroom.md
 type: entity
 ---
@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Methyl alcohol, also known as methanol or wood alcohol, is a simple alcohol compound (CH₃OH) used as a solvent in alkaloid extraction from psilocybin mushrooms. In the context of the Field Guide to the Psilocybin Mushroom, methanol is described as the primary solvent for extracting psilocybin from dried, powdered mushroom material. The extraction process involves soaking the mushroom powder in methanol for several days, followed by straining and evaporation to yield a concentrated alkaloid residue.
+Methyl alcohol, also known as methanol or wood alcohol, is a simple alcohol compound (CH₃OH) used as a solvent in alkaloid extraction from [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]]. In the context of the Field Guide to the Psilocybin Mushroom, methanol is described as the primary solvent for extracting psilocybin from dried, powdered mushroom material. The extraction process involves soaking the mushroom powder in methanol for several days, followed by straining and evaporation to yield a concentrated alkaloid residue.
 
 ## Classification
 
@@ -20,7 +20,7 @@ Methyl alcohol, also known as methanol or wood alcohol, is a simple alcohol comp
 
 ## Key Facts
 
-- Methyl alcohol is used as an extraction solvent for psilocybin and psilocin from dried mushroom material.
+- Methyl alcohol is used as an [[everclear-extraction-solvent]] for [[hplc-analysis-of-psilocybin-and-psilocin]] from dried mushroom material.
 - The extraction process involves soaking dried, ground mushroom powder in methanol for several days.
 - After soaking, the alcohol is strained off and the liquid evaporated in a shallow dish.
 - The residue contains concentrated alkaloids and is scraped up for storage.
@@ -32,7 +32,7 @@ Methyl alcohol, also known as methanol or wood alcohol, is a simple alcohol comp
 
 ## Relevance to Cultivation and Mycology
 
-Methyl alcohol extraction represents one of the earliest documented methods for concentrating psilocybin from mushrooms, appearing in 1970s-era field guides. While effective as a solvent, methanol's toxicity makes it significantly more dangerous than ethanol-based extraction methods. The technique demonstrates the historical interest in creating standardized psilocybin preparations from wild-harvested mushrooms. Modern extraction methodology generally favors food-grade ethanol (ethyl alcohol) over methanol for safety reasons, though methanol remains a common laboratory solvent for analytical extraction of alkaloids.
+Methyl [[ethyl-alcohol-extraction]] represents one of the earliest documented methods for concentrating psilocybin from mushrooms, appearing in 1970s-era field guides. While effective as a solvent, methanol's toxicity makes it significantly more dangerous than ethanol-based [[arbuscular-mycorrhizal-spore-extraction-methods]]. The technique demonstrates the historical interest in creating standardized psilocybin preparations from wild-harvested mushrooms. Modern extraction methodology generally favors food-grade ethanol (ethyl alcohol) over methanol for safety reasons, though methanol remains a common laboratory solvent for analytical extraction of alkaloids.
 
 ## Extraction Process (Historical)
 

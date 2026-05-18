@@ -6,12 +6,12 @@ type: concept
 
 # Growing Kohlrabi, Turnips, and Rutabagas
 
-These three crops are so similar that their cultural differences can be described together. All are medium-demand crops. All appear to be root crops but kohlrabi is actually a swollen stem forming a ball-shaped vegetable. A steady supply of soil moisture is essential for all of these crops.
+These three crops are so similar that their cultural differences can be described together. All are medium-demand crops. All appear to be [[permaculture-plants-root-crops-and-tubers]] but kohlrabi is actually a swollen stem forming a ball-shaped vegetable. A steady supply of soil moisture is essential for all of these crops.
 
 ## General Requirements
 
 - **Fertility**: Medium-demand — better than minimum but not the highest
-- **Moisture**: Steady supply is essential — all will become woody or pithy under drought stress
+- **Moisture**: Steady supply is essential — all will become woody or pithy under [[mycorrhizal-biodiversity-drought-stress-response]]
 - **Soil**: Work in decent [[compost]] before sowing, side-dress as seedlings start their first true leaf
 - **Daylength sensitivity**: All act like biennials — they go to seed after overwintering. Do not sow them until several weeks (or more) after the solstice or they may go to seed before sizing up
 
@@ -43,12 +43,12 @@ In mild-winter climates, make a second sowing to size up after weather turns rea
 
 Kohlrabi is cellarable if:
 - Roots are left attached
-- Large leaves are cut off to facilitate air circulation
+- Large leaves are cut off to facilitate [[stamets-growing-room-air-circulation-co2-management]]
 - They are replanted in a bed of damp soil
 
 ### Pests
 
-- Cabbage root maggots are a big problem with in-ground brassica crops in some regions
+- Cabbage [[cervantes-nematodes-root-maggots-soil-pests]] are a big problem with in-ground brassica crops in some regions
 - However, kohlrabi forms several inches above the soil line — the edible part is not invaded by maggots
 - Their presence in the growing area may help protect other brassicas by attracting maggots to themselves
 
@@ -62,7 +62,7 @@ Turnips, like winter radishes, are spring and autumn vegetables. But if you grow
 
 ### Asian Hybrid Varieties
 
-The Asian hybrid varieties are excellent — mild, tender, and reliable. They have largely replaced the old-fashioned types in home gardens.
+The Asian hybrid varieties are excellent — mild, tender, and reliable. They have largely replaced the old-fashioned types in [[desert-home-gardens]].
 
 ### Storage Warning
 
@@ -76,7 +76,7 @@ Rutabagas are probably the most cellarable of the lot. They have an excellent ab
 
 ### Storage Enhancement
 
-Rutabagas from Canadian markets were thinly coated with paraffin wax. A gardener with a root cellar could melt paraffin or beeswax and dip each root, in and out, sealing their pores. This significantly extends storage life.
+Rutabagas from Canadian markets were thinly coated with paraffin wax. A gardener with [[query-how-to-build-and-manage-a-root-cellar]] could melt paraffin or beeswax and dip each root, in and out, sealing their pores. This significantly extends storage life.
 
 ### Winter Quality
 

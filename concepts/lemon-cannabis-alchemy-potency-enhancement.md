@@ -5,7 +5,7 @@ tags: [cannabis, potency, flowers, enhancement, extraction]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md
+  - "raw/papers/ben-lemon-cannabis-alchemy.md"
 type: concept
 ---
 

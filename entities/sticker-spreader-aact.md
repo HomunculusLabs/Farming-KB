@@ -9,7 +9,7 @@ tags: [adjuvant, sticker-spreader, foliar-application, compost-tea, saponin, alo
 
 ## Description
 
-Sticker-spreaders are adjuvant materials added to [[actively-aerated-compost-tea]] (AACT) before foliar application to improve the attachment and distribution of beneficial microorganisms on leaf surfaces. [[elaine-ingham]] discusses several sticker-spreader options, emphasizing natural and biology-compatible choices while warning against products that harm beneficial organisms.
+Sticker-spreaders are adjuvant materials added to [[actively-aerated-compost-tea]] (AACT) before [[aact-foliar-application-and-sticker-spreaders]] to improve the attachment and distribution of [[forest-and-bamboo-beneficial-microorganisms]] on leaf surfaces. [[elaine-ingham]] discusses several sticker-spreader options, emphasizing natural and biology-compatible choices while warning against products that harm beneficial organisms.
 
 ## Classification
 
@@ -36,7 +36,7 @@ Sticker-spreaders are adjuvant materials added to [[actively-aerated-compost-tea
 
 ### 2. Saponin-based Products (e.g., Nu-Film)
 - Derived from plant saponins
-- Effective at reducing surface tension
+- Effective at reducing [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - Good film-forming properties
 - Widely available commercially
 
@@ -89,16 +89,16 @@ Ingham provides specific coverage targets for foliar AACT applications:
 
 ## Relevance to Cultivation and Mycology
 
-The sticker-spreader concept is central to successful biological disease management:
+The sticker-spreader concept is central to successful biological [[clubroot-disease-management]]:
 
 - **Phyllosphere colonization**: Beneficial organisms must establish on leaf surfaces to compete with pathogens for space and resources
-- **Biofilm formation**: Sticker-spreaders help initiate the formation of protective biofilms by beneficial bacteria
+- **Biofilm formation**: Sticker-spreaders help initiate the formation of protective biofilms by [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
 - **Fungal attachment**: Beneficial fungi need to establish hyphal contact with leaf surfaces; sticker-spreaders improve initial attachment
 - **Economic efficiency**: Better coverage and retention mean fewer applications are needed
 
 ## References
 
-- Elaine Ingham, PhD - The Field Guide I for Actively Aerated Compost Tea
+- Elaine Ingham, PhD - The Field Guide I for [[actively-aerated-compost-tea-basics]] Tea
 
 ## See Also
 

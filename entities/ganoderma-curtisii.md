@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ganoderma curtisii, commonly known as golden reishi, is a lacquered polypore mushroom in the genus Ganoderma. It is closely related to the well-known reishi species ([[ganoderma-lucidum]]) and shares many of the same medicinal properties and cultivation characteristics. The species produces striking golden-colored antlers when grown in closed bags under elevated carbon dioxide, making it one of the most visually spectacular reishi-type mushrooms for cultivation. It is found primarily in the southeastern United States, where it fruits from hardwood stumps and buried roots.
+Ganoderma curtisii, commonly known as golden reishi, is a lacquered polypore mushroom in the genus Ganoderma. It is closely related to the well-known reishi species ([[ganoderma-lucidum]]) and shares many of the same [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]] and cultivation characteristics. The species produces striking golden-colored antlers when grown in closed bags under elevated carbon dioxide, making it one of the most visually spectacular reishi-type mushrooms for cultivation. It is found primarily in the southeastern United States, where it fruits from hardwood stumps and buried roots.
 
 ## Classification
 
@@ -27,7 +27,7 @@ Ganoderma curtisii, commonly known as golden reishi, is a lacquered polypore mus
 - Mycelium is white and linear, producing a signature yellow metabolite that darkens to orange with age
 - [[spore-print]] is cinnamon to chocolate brown
 - Mycelium has an aggressive growth habit, capable of outcompeting most wild fungi and bacteria
-- Spawn can transform into solid bricks at room temperature, demonstrating the structural strength of the mycelium
+- Spawn can transform into solid bricks at room temperature, demonstrating the [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] of the mycelium
 - Some growers have used the solid mycelium bricks to construct living structures as demonstrations of fungal material strength
 - Mycelial smell can be sour, similar to the fruitbody, and somewhat unpleasant
 
@@ -51,7 +51,7 @@ The fruitbody begins as an antler with a whitish tip, flattening to a cap positi
 - **Spawn types:** Sawdust, plug, or cardboard spawn
 
 ### Indoor Cultivation
-- **Substrates:** Supplemented sawdust, sterilized in autoclave for two hours
+- **Substrates:** [[oyster-mushroom-supplemented-sawdust-blocks]], sterilized in autoclave for two hours
 - **Inoculation to fruiting:** Two to three weeks after complete colonization
 - **Technique:** Antlers form inside closed bags and keep growing for weeks seeking exit; cutting the bag open allows mushrooms to flatten and sporulate
 - **Expected yields:** Good
@@ -86,15 +86,15 @@ Ganoderma curtisii mycelium shares the genus-wide properties valuable for enviro
 
 - Can be harvested at any stage of development depending on appearance and intended use
 - Antlers are believed (though not substantiated) to contain more beneficial medicinal properties
-- Best harvested while still possessing growing edge, just before spore release
+- Best harvested while still possessing growing edge, just [[partial-veil-tropism-protection-before-spore-release]]
 - Retains energy that would have gone to spore production
 - Low water content makes dehydration the preferred preservation method
 - Can be dried and powdered or processed into hot water and alcohol extracts
 
 ## See Also
 
-- Ganoderma lucidum (reishi, ling chi)
+- [[ganoderma-lucidum-cultivation]] (reishi, ling chi)
 - [[ganoderma-tsugae]] (hemlock reishi)
 - [[ganoderma-oregonense]]
-- Ganoderma resinaceum
+- [[ganoderma-resinaceum]]
 - Ganodermataceae

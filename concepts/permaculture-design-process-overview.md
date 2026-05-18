@@ -1,7 +1,7 @@
 # keyhole-beds.
 - **Waves and nets**: Create productive edge habitats along waterways and windbreaks.
 
-The guiding principle is to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], [[comparison-apple-tree-care-vs-apple-guild-design]] guild includes comfrey for dynamic nutrient accumulation, nitrogen-fixing legumes beneath the canopy, daffodils to deter grazing pests, and alliums to repel borers.
+The guiding principle is to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], [[comparison-apple-tree-care-vs-apple-guild-design]] guild includes comfrey for [[dynamic-nutrient-accumulators]] accumulation, nitrogen-fixing legumes beneath the canopy, daffodils to deter grazing pests, and alliums to repel borers.
 
 Design guilds by analyzing the needs and products of the central element. Then select companion species that fill those needs and benefit from its products. The result is a plant community more productive than any monoculture.
 
@@ -11,7 +11,7 @@ Polycultures extend this concept to broader planting arrangements across the ent
 
 Design for how the landscape will evolve over time. Start with pioneer species that prepare the ground, improve soil, and establish microclimates. Fast-growing nitrogen fixers pave the way for longer-term productive species.
 
-The design should anticipate and guide natural succession rather than fight it. A permaculture-ethics: earth care, people care, and fair share. Every design decision should be evaluated against these ethics before proceeding. The process also reinforces the twelve principles, including obtaining a yield, producing no waste, and using small and slow solutions.
+The design should anticipate and guide natural succession rather than fight it. A permaculture-ethics: earth care, people care, and fair share. Every design decision should be evaluated against these ethics before proceeding. The process also reinforces the twelve principles, including obtaining a yield, producing no waste, and using small [[permaculture-principle-use-small-and-slow-solutions]].
 
 Effective [[hemenway-garden-design-process-observation-and-visioning]] Overview has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
@@ -28,7 +28,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -78,14 +78,14 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 ## Historical Development
 
-This approach has evolved significantly over time, drawing from both traditional practices and modern scientific understanding. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current science continues to advance the field.
+This approach has evolved significantly over time, drawing from both traditional practices and modern scientific understanding. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current [[fukuoka-science-continues-rampage]] to advance the field.
 
 ## Environmental Impact
 
-The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader ecosystem resilience. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
+The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader [[fungal-rhizosphere-and-ecosystem-resilience]]. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
 
 ## Economic Considerations
 

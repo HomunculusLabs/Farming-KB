@@ -14,17 +14,17 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Wickens, G.E. et al. (1995). "Acacia nilotica and its utilization." FAO Corporate Document Repository.
-  - Singh, R. & Raghuvanshi, R.S. (2012). "Fruits of the Indian arid zone." Springer India.
-  - Kala, C.P. (2007). "Ethnobotany of Acacia nilotica." Indian Journal of Traditional Knowledge, 6(2), 352–356.
+  - Singh, R. & Raghuvanshi, R.S. (2012). "Fruits of the Indian [[arid-zone-species-selection-and-forage-systems]]." Springer India.
+  - Kala, C.P. (2007). "Ethnobotany of Acacia nilotica." Indian Journal of [[wasted-human-resources-and-traditional-knowledge]], 6(2), 352–356.
   - Orwa, C. et al. (2009). "Agroforestree Database: Acacia nilotica." World Agroforestry Centre.
   - Booth, F.E.M. & Wickens, G.E. (1988). "Non-timber uses of selected arid zone trees." FAO Conservation Guide 19.
 ---
 
 ## Overview
 
-**Acacia nilotica**, commonly known as babul, prickly acacia, gum arabic tree, or Indian gum arabic, is a perennial tree in the family Fabaceae. It is native to Africa and the Indian subcontinent, ranging from Egypt to South Africa and eastward to India.
+**Acacia nilotica**, commonly known as babul, prickly acacia, gum arabic tree, or Indian gum arabic, is a perennial tree in the family Fabaceae. It is native to Africa and the Indian subcontinent, ranging from Egypt to [[table-mountain-south-africa-mollison]] and eastward to India.
 
-The tree is highly valued across its range for gum production, tannin-rich bark, fodder, fuelwood, and traditional medicine. It is one of the most economically important [[ecological-roles-fungi-ecosystems]] in desertification control and sand dune stabilization.
+The tree is highly valued across its range for gum production, tannin-rich bark, fodder, fuelwood, and traditional medicine. It is one of the most economically important [[ecological-roles-fungi-ecosystems]] in [[interceptor-drains-and-desertification-control]] and sand dune stabilization.
 
 ## Taxonomy and Morphology
 

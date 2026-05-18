@@ -23,18 +23,18 @@ tags: [fungi, dark-septate-endophyte, ascomycota, mycorrhizal]
 
 ## Key Facts
 
-- Classified as a dark septate endophyte (DSE), characterized by darkly pigmented hyphae and regular septation.
+- Classified as a [[dark-septate-endophyte-function-stress-tolerance]] (DSE), characterized by darkly pigmented hyphae and regular septation.
 - Enhances phosphate acquisition in nutrient-poor ecosystems, specifically demonstrated with lodgepole pine on glacier outwash soils.
 - Colonizes roots of a wide range of host plants including conifers, deciduous trees, and herbaceous species in boreal and alpine ecosystems.
 - Commonly co-occurs with ericoid and ectomycorrhizal fungi on the same root systems.
 - Functions as a helper organism, potentially synergizing with mycorrhizal fungi to improve overall nutrient uptake efficiency.
-- Adapted to cold, nutrient-limited environments where traditional mycorrhizal associations may be less effective.
+- Adapted to cold, nutrient-limited environments where traditional [[plants-without-mycorrhizal-associations]] may be less effective.
 - The dark pigmentation (melanin) of its hyphae may provide protection against environmental stresses including UV radiation, desiccation, and freezing.
 - Part of the broader group of root endophytes whose ecological functions are still being elucidated.
 
 ## Ecological Role
 
-*P. fortinii* is particularly significant in early successional ecosystems such as glacial forelands and volcanic substrates where it is among the first fungal colonizers of plant roots. In these extreme environments, it provides a critical bridge between the mineral substrate and plant nutrition by enhancing phosphate availability. Its role in these systems parallels that of mycorrhizal fungi in more developed soils, suggesting it fills a similar ecological niche under conditions where mycorrhizal establishment is limited.
+*P. fortinii* is particularly significant in early successional ecosystems such as glacial forelands and volcanic substrates where it is among the first fungal colonizers of plant roots. In these [[fungal-biodiversity-in-extreme-environments]], it provides a critical bridge between the mineral substrate and plant nutrition by enhancing phosphate availability. Its role in these systems parallels that of mycorrhizal fungi in more developed soils, suggesting it fills a similar ecological niche under conditions where mycorrhizal establishment is limited.
 
 ## Relevance to Cultivation and Mycology
 
@@ -48,7 +48,7 @@ tags: [fungi, dark-septate-endophyte, ascomycota, mycorrhizal]
 ## See Also
 
 - [[ectomycorrhiza]] - primary mycorrhizal type in boreal forests where P. fortinii co-occurs
-- [[ericoid-mycorrhizae]] - co-occurring mycorrhizal type in heathland ecosystems
+- [[ericoid-mycorrhizae]] - co-occurring mycorrhizal type in [[ericoid-mycorrhiza-heathland-ecosystems]]
 - [[hymenoscyphus-ericae]] - related helotialean fungus with ericoid mycorrhizal function
 - [[oidiodendron-maius]] - another helotialean fungus bridging ericoid and DSE categories
 
@@ -57,13 +57,13 @@ tags: [fungi, dark-septate-endophyte, ascomycota, mycorrhizal]
 The enhancement of phosphate acquisition by *P. fortinii* in glacier outwash soils demonstrates several important principles:
 
 - DSE fungi can substitute for or complement mycorrhizal function in extremely nutrient-poor habitats.
-- Phosphate mobilization occurs through mechanisms that may include organic acid exudation and phosphatase enzyme production.
+- [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]] occurs through mechanisms that may include organic acid exudation and phosphatase enzyme production.
 - Plant growth benefits are most pronounced in oligotrophic systems where nutrient limitations are severe.
 - The fungus contributes to primary succession by enabling plant establishment on virtually unweathered mineral substrates.
 
 ## DSE vs. Mycorrhizal Function
 
-Dark septate endophytes like *P. fortinii* occupy a functional continuum between pathogenic and mutualistic root fungi:
+[[dark-septate-endophytes-stressed-environments]] like *P. fortinii* occupy a functional continuum between pathogenic and mutualistic root fungi:
 
 | Feature | DSE (*P. fortinii*) | ECM | Ericoid |
 |---------|--------------------|----|---------|

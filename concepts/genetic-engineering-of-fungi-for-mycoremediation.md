@@ -5,7 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [remediation, environment]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
 
 updated: 2026-04-18

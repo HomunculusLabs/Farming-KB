@@ -11,7 +11,7 @@ researcher known for his theories about human origins based on his translations
 and interpretations of ancient Sumerian cuneiform texts. In the context of
 ethnomycological research, Sitchin's work is notable for his dissemination of
 the Mesopotamian texts that tell the oldest known versions of the Adam and Eve
-and Garden of Eden stories — texts that predate the biblical versions and
+and [[allegro-garden-of-eden-and-delight]] stories — texts that predate the biblical versions and
 present the "eating of the fruit" in a radically different, positive light
 rather than as a fall from grace.
 
@@ -21,7 +21,7 @@ rather than as a fall from grace.
 - **Nationality:** Azerbaijani-American
 - **Field:** Sumerian studies, ancient astronaut theory
 - **Ethnomycological Relevance:** Dispersion of pre-biblical cuneiform texts
-  that reframe entheogenic mushroom use
+  that reframe [[entheogenic-mushroom-species]] use
 
 ## Key Work
 
@@ -62,7 +62,7 @@ In the earlier Mesopotamian version:
 
 This reframing is directly relevant to ethnomycology because the "fruit" is
 identified as the entheogenic mushroom, and the Mesopotamian version supports
-the interpretation of entheogenic use as beneficial consciousness expansion
+the interpretation of entheogenic use as beneficial [[mckenna-consciousness-expansion-and-drug-war]]
 rather than sinful transgression.
 
 ## Relevance to Ethnomycology
@@ -72,9 +72,9 @@ rather than sinful transgression.
 The cuneiform texts predate the biblical texts by millennia, suggesting:
 
 - The original understanding of entheogenic sacraments was positive
-- The negative framing (forbidden fruit, fall from grace) was a later
+- The negative framing ([[forbidden-fruit-cannabis]], fall from grace) was a later
   political revision
-- The suppression of entheogenic knowledge has ancient roots in power dynamics
+- The suppression of [[entheogenic-knowledge-secret-societies]] has ancient roots in power dynamics
 
 ### The Control vs. Liberation Pattern
 
@@ -89,7 +89,7 @@ The Enlil vs. Ea conflict encodes a fundamental tension:
 
 ### Connection to Mushrooms
 
-If the "fruit of knowledge" is the entheogenic mushroom (as argued by Allegro
+If the "[[sumerian-annunaki-and-fruit-of-knowledge]]" is the entheogenic mushroom (as argued by Allegro
 and others), then:
 
 - The Mesopotamian texts describe the original positive role of mushroom use

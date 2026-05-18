@@ -32,7 +32,7 @@ The spinner drain is created by:
 - **Dimensions**: Approximately 4 feet wide and 1 foot deep.
 - **No banks**: Unlike conventional drains, there are no raised edges. The spoil is distributed far from the channel.
 - **Trafficable**: Vehicles and tractors can enter and leave the drain without difficulty — no embankments to cross.
-- **Landscape integration**: Barely visible on the landscape except in low-lying wet conditions.
+- **[[pond-annidations-and-landscape-integration]]**: Barely visible on the landscape except in low-lying wet conditions.
 - **Application**: Primarily used on very low slopes and flat lands where conventional tilted-blade drains are unnecessary.
 - **Cost**: Very low — single pass with tractor creates the complete drain.
 - **Feeds earth tanks**: Spinner drains can direct gentle flow into excavated earth tanks below ground level.
@@ -66,18 +66,18 @@ The spinner drain is created by:
 - **Flat-land farming**: Enables productive agriculture on very low-grade land by managing water movement without significant earthworks.
 - **Low-impact design**: Preserves the visual and physical character of the landscape while providing essential drainage function.
 - **Cost-effective water management**: Single-pass construction makes extensive drainage networks affordable.
-- **Desert reclamation**: Subtle water harvesting in arid regions where visible infrastructure would be inappropriate or impractical.
+- **[[fukuoka-desert-reclamation]]**: Subtle water harvesting [[fukuoka-natural-farming-in-arid-regions]] where visible infrastructure would be inappropriate or impractical.
 
 ## Cross-References
 
 - [[keyline-design]] — the broader water management system
 - [[diversion-drain-mollison]] — larger-scale drainage channels
-- [[swale]] — broader, deeper water harvesting earthworks
-- [[earth-dam-building-mollison]] — dam construction that works with drainage networks
+- [[swale]] — broader, deeper [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[earth-dam-building-mollison]] — [[comparison-dam-construction-vs-swale-design]] that works with drainage networks
 
 ## Historical Significance
 
-The development and understanding of spinner drain mollison has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
+The development and understanding of spinner [[interceptor-drain-mollison]] has evolved through decades of observation, experimentation, and knowledge transfer across cultures and scientific disciplines.
 
 ## Key Considerations
 

@@ -1,9 +1,9 @@
 ---
-title: "Foliage Pathogens, Cankers, and Galls — Fungal Sampling"
+title: "Foliage Pathogens, Cankers, and Galls — Fungal Sampling Methods"
 source: "biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills, Foster)"
 source_key: "unknown-biodiversity-of-fungi.md"
 topics: [mycology, fungal-biodiversity, plant-pathology, foliage-fungi, cankers, galls, sampling]
-aliases: [leaf pathogens, canker fungi, gall fungi, foliar parasites]
+aliases: [leaf pathogens, [[canker-fungi-and-gall-associated-fungi]], gall fungi, foliar parasites]
 ---
 
 # Foliage Pathogens, Cankers, and Galls — Fungal Sampling
@@ -11,7 +11,7 @@ aliases: [leaf pathogens, canker fungi, gall fungi, foliar parasites]
 ## Overview
 
 Fungi associated with [[moist-chamber-technique-fungal-fruiting]]** to induce sporulation. This is especially useful for
-detecting fungi that have not yet produced fruiting bodies at the time of
+detecting fungi that have not yet produced [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] at the time of
 collection.
 
 ### Common Leaf-Spotting Genera
@@ -21,7 +21,7 @@ collection.
   and *Pestalotiopsis*. Many produce lesions on stems, flowers, and fruits as
   well as leaves.
 
-- **Temperate broadleaf trees and shrubs**: *Coccomyces*, *Discula*,
+- **Temperate broadleaf [[nitrogen-fixing-trees-and-shrubs]]**: *Coccomyces*, *Discula*,
   *Gnomonia*, *Mycosphaerella*, *Rhytisma*, and *Venturia*.
 
 - **Temperate grasses**: *Gaeumannomyces*, *Gibberella*, *Monographella*,
@@ -79,7 +79,7 @@ associated with diffuse cankers.
 
 Gall-inducing fungi include several distinct groups:
 
-- **Rust fungi**: *Endocronartium harknessii* on lodgepole pine and
+- **Rust fungi**: *[[endocronartium-harknessii]]* on lodgepole pine and
   *Gymnosporangium* species on juniper cause prominent galls.
 
 - **Apiosporina morbosa**: Causes galls on *Prunus* species in temperate
@@ -94,7 +94,7 @@ Gall-inducing fungi include several distinct groups:
 
 - **Cyttaria**: A parasitic discomycete known only from galled branches of 12
   south-temperate *Nothofagus* species. Three groups are recognized based on
-  geography, host range, and morphological features.
+  geography, [[powdery-mildews-erysiphaceae-diversity-host-range]], and morphological features.
 
 - **Plasmodiophoromycetes**: 15 genera of obligate endoparasites causing
   gall-like underground symptoms. Characterized by multinucleate, unwalled

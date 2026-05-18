@@ -1,9 +1,9 @@
 ---
-title: staycare phanerochaete chrysosporium in bioremediation in Bioremediation
+title: staycare Phanerochaete Chrysosporium in bioremediation in Bioremediation
 created: 2026-04-26
 synonyms:
   - P. chrysosporium bioremediation
-  - Phanerochaete chrysosporium pollutant degradation
+  - Phanerochaete chrysosporium [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
   - white rot model organism
 type: concept
 tags: [pollution]
@@ -15,7 +15,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Phanerochaete chrysosporium (syn. Sporotrichum pulverulentum) is a white rot basidiomycete and the most extensively studied fungal organism for bioremediation applications. Originally isolated and characterized for its ability to degrade lignin, P. chrysosporium has become the model organism for understanding fungal biodegradation of environmental pollutants. Its ligninolytic enzyme system — comprising [[fungal-manganese-peroxidase-remediation]] (MnP), and H₂O₂-generating oxidases — has been shown to degrade an extraordinarily wide range of xenobiotic compounds.
+Phanerochaete chrysosporium (syn. Sporotrichum pulverulentum) is a white rot basidiomycete and the most extensively studied fungal organism for [[fungi-in-the-environment-bioremediation-applications]]. Originally isolated and characterized for its ability to degrade lignin, P. chrysosporium has become the model organism for understanding [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] environmental pollutants. Its [[ligninolytic-enzyme-production-bioremediation]] system — comprising [[fungal-manganese-peroxidase-remediation]] (MnP), and H₂O₂-generating oxidases — has been shown to degrade an extraordinarily wide range of xenobiotic compounds.
 
 ## Biological Characteristics
 
@@ -36,7 +36,7 @@ Phanerochaete chrysosporium (syn. Sporotrichum pulverulentum) is a white rot bas
 - **Molecular weight**: ~42 kDa (haem peroxidase)
 - **pH optimum**: 2.3-2.5 (based on initial rates); enzyme is unstable at this pH
 - **Unique capability**: Only peroxidase known to oxidize non-phenolic aromatic compounds directly (redox potential >1.4V)
-- **Mechanism**: One-electron oxidation of aromatic nuclei generates cation radicals; veratryl alcohol (VA) serves as both mediator (diffusible electron carrier) and enzyme protector (prevents inactivation by H₂O₂ excess)
+- **Mechanism**: One-electron oxidation of aromatic nuclei generates cation radicals; [[fungal-lignin-peroxidase-veratryl-alcohol]] (VA) serves as both mediator (diffusible electron carrier) and enzyme protector (prevents inactivation by H₂O₂ excess)
 - **Isozymes**: Family of structurally similar genes with complex regulation patterns (Stewart et al., 1992; Brooks, Sims & Broda, 1993; Gaskell et al., 1994)
 - **Genetics**: lip genes are differentially expressed based on growth conditions; molecular genetics well characterized with established protocols for auxotroph production, DNA/RNA purification, and genetic transformation (Cullen, 1997)
 

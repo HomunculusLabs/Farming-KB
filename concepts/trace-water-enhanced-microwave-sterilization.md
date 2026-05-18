@@ -10,7 +10,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
+  - ""raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
 type: concept
 ---
 

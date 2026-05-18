@@ -29,12 +29,12 @@ Its cultivation is centered in Japan, Korea, and China, where it has been farmed
 **Classification:** Rhodophyta, Bangiophyceae, Bangiales, Bangiaceae, Porphyra. The authority is Ueda (1932). Recent phylogenetic revisions have reassigned many Porphyra species to the genus Pyropia, though P. yezoensis remains widely used in aquaculture literature.
 
 The gametophytic thallus is leafy, membranous, and monostromatic (one cell layer thick), typically 15–30 cm in length.
-Color ranges from purplish-red to dark greenish-brown depending on light exposure and nutrient status.
+Color ranges from purplish-red to dark greenish-brown depending on light exposure and [[leaf-tissue-analysis-crop-nutrient-status]].
 
 The thallus is broadly lanceolate with irregular margins.
 The holdfast is a small disc or rhizoidal pad at the base. Cell dimensions are approximately 15–30 micrometers in diameter.
 
-The conchocelis phase is filamentous and microscopic, boring into calcium carbonate substrates such as mollusk shells.
+The conchocelis phase is filamentous and microscopic, boring into [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] substrates such as mollusk shells.
 This phase produces conchospores that germinate into the macroscopic gametophyte.
 
 ## Distribution and Habitat
@@ -55,7 +55,7 @@ In summer, conchocelis filaments are cultivated on shells in indoor tanks under 
 Conchospores are seeded onto nets suspended in the sea during autumn.
 The gametophytic thalli grow on these nets through winter, reaching harvestable size in 30–50 days. Multiple harvests are possible from a single seeding.
 
-The floating net method is the standard cultivation technique.
+The floating net method is the standard [[boil-a-bag-mushroom-cultivation-technique]].
 Nets are stretched between floating frames in coastal waters, with the depth adjusted to optimize light exposure and [[plant-disease-management-solomon]], particularly against red rot disease caused by Pythium, is a major challenge requiring careful monitoring and net management.
 
 ## Chemistry and Nutrition
@@ -75,8 +75,8 @@ This polysaccharide has demonstrated prebiotic, immunomodulatory, and antiviral 
 [[porphyra-umbilicalis]] is the closest relative of P.
 yezoensis in commercial cultivation, known as laver in the British Isles and used in Welsh laverbread. It differs in its thicker thallus and preference for colder Atlantic waters.
 
-Pyropia tenera (formerly Porphyra tenera) is the traditional Japanese nori species, largely replaced by P.
+[[pyropia-tenera]] (formerly Porphyra tenera) is the traditional Japanese nori species, largely replaced by P.
 yezoensis in modern cultivation due to the latter's faster growth and higher disease resistance.
 
-Pyropia haitanensis is the primary nori species cultivated in southern China, adapted to warmer waters than P.
+[[pyropia-haitanensis]] is the primary nori species cultivated in southern China, adapted to warmer waters than P.
 yezoensis. It has a shorter cultivation season and different flavor profile.

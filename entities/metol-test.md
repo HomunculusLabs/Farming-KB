@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-The metol test is a chemical field test used to detect the presence of psilocybin in mushrooms of the family Strophariaceae and related genera. It employs metol (p-methylaminophenol), a common photographic darkroom chemical, which produces a distinctive purple color reaction in the presence of indole compounds characteristic of psilocybin-containing fungi.
+The metol test is a chemical field test used to detect the presence of psilocybin in mushrooms of the family Strophariaceae and related genera. It employs metol (p-methylaminophenol), a common photographic darkroom chemical, which produces a distinctive purple color reaction in the presence of [[psilocybe-semilanceata-eight-indole-compounds]] characteristic of psilocybin-containing fungi.
 
 ## Classification
 
@@ -62,15 +62,15 @@ Because blue-staining is immediately visible upon bruising and requires no reage
 - **Availability**: Metol was historically available from photographic supply stores; its availability has declined with the shift to digital photography
 - **Shelf life**: The prepared solution has virtually no shelf life — it must be used immediately
 - **Safety**: As with any chemical reagent, appropriate handling precautions should be observed
-- **Not definitive**: The metol test is one tool among many for mushroom identification and should never be used as the sole criterion for edibility or psychoactivity determinations
+- **Not definitive**: The metol test is one tool among many for [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]] and should never be used as the sole criterion for edibility or psychoactivity determinations
 
 ## Historical Context
 
-The metol test was documented in the mycological literature of the 1950s–1970s, a period of intense interest in psilocybin mushrooms following R. [[gordon-wasson]]'s discoveries in Mexico and Albert Hofmann's isolation of psilocybin. It was referenced by Singer (1958) and Enos (1970) as part of the identification toolkit for field mycologists working with psilocybin species.
+The metol test was documented in the mycological literature of the 1950s–1970s, a period of intense interest [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] following R. [[gordon-wasson]]'s discoveries in Mexico and [[albert-hofmann]]'s isolation of psilocybin. It was referenced by Singer (1958) and Enos (1970) as part of the identification toolkit for field mycologists working with psilocybin species.
 
 ## Relevance to Cultivation
 
-For cultivators working with known *Psilocybe cubensis* spores or cultures, the metol test is generally unnecessary — the identity of the organism is established through the cultivation process itself. However, the test remains relevant for:
+For cultivators working with known *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* spores or cultures, the metol test is generally unnecessary — the identity of the organism is established through the cultivation process itself. However, the test remains relevant for:
 
 - Verifying wild specimens before spore collection
 - Confirming the identity of mushrooms from new cultures
@@ -80,5 +80,5 @@ For cultivators working with known *Psilocybe cubensis* spores or cultures, the 
 
 - Singer, R. (1958), p. 247
 - Enos, E. (1970), p. 5
-- O.T. Oss & O.N. Oeric, *Magic Mushroom Grower's Guide* (1976)
+- O.T. Oss & O.N. Oeric, *[[australian-magic-mushroom-common-names]] Grower's Guide* (1976)
 - Benedict et al. (1967)

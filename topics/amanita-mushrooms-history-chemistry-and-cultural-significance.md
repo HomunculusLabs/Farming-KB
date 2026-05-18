@@ -5,10 +5,10 @@ tags: [amanita, mycology, ethnobotany, psychedelic, ancient-religion]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/amanita-muscaria-herb-of-immortality.md
-  - /Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md
-  - /Users/t3rpz/wiki/raw/papers/allegro-j-the-sacred-mushroomcross.md
-  - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+  - "raw/papers/amanita-muscaria-herb-of-immortality.md"
+  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
+  - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 related_concepts:
   - amanita-genus-morphology
   - amanita-muscaria-chemistry-and-pharmacology

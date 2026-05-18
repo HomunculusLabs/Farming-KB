@@ -30,16 +30,16 @@ potato wart disease and is an internationally regulated quarantine pathogen.
 ## Key Facts
 
 - **Species Diversity:** Approximately 120 species are recognized worldwide.
-  Geographic distribution includes 106 species from North America, 88 from
-  Asia, 56 from Europe, 24 from South America, 16 from Africa, 8 from Australia
-  and New Zealand, and 5 from Central America (Karling 1964). The genus occurs
-  from arctic to tropical regions.
+  [[geographic-distribution-of-psilocybe-species]] includes 106 species from [[guzman-psilocybin-mushrooms-north-america]], 88 from
+  Asia, 56 from Europe, 24 from [[guzman-psilocybin-mushrooms-south-america]], 16 from Africa, 8 from Australia
+  and New Zealand, and 5 from [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] (Karling 1964). The genus occurs
+  from arctic to [[fukuoka-natural-farming-in-tropical-regions]].
 
 - **Host Range:** Extraordinarily broad. More than 1,350 plant species in over
   800 genera and 165 families have been reported as hosts. Some species occur
   on only one host genus; others are limited to a single host family. *S.
   macrosporum* has been shown to infect more than 1,300 host species under
-  greenhouse conditions, making it one of the most polyphagous fungal pathogens
+  greenhouse conditions, making it one of the most polyphagous [[bloomfield-fungal-pathogens-and-parasites]]
   known.
 
 - **Gall Formation:** Infected flowering plants develop galls on leaves,

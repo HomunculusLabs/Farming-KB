@@ -5,7 +5,7 @@ tags: [mycology, mycorrhizae, soil-science, ecology, geology, basidiomycota]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
 type: concept
 ---
 

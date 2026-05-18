@@ -14,12 +14,12 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - /Users/t3rpz/wiki/raw/papers/lowenfels-teaming-with-microbes.md
-  - /Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
-  - /Users/t3rpz/wiki/raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
-  - /Users/t3rpz/wiki/raw/papers/teaming-with-fungi-lowenfels.md
-  - /Users/t3rpz/wiki/raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
-  - /Users/t3rpz/wiki/raw/papers/teaming-with-microbes-lowenfels.md
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+  - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
+  - "raw/papers/teaming-with-fungi-lowenfels.md"
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
 related_concepts:
   - "the-soil-food-web"
   - "composting-and-soil-biology"

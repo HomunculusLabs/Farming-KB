@@ -20,14 +20,14 @@ Piripiri (Cyperus sp.) is a group of sedge plants used extensively in Amazonian 
 
 ## Key Facts
 
-- The caballo piripiri confers great physical strength upon ingestion. It is prepared in a mixture with jagua or huito (Genipa americana), applied over the entire body, and turns the skin black for eight days.
+- The caballo piripiri confers great physical strength upon ingestion. It is prepared in a mixture with jagua or huito ([[genipa-americana]]), applied over the entire body, and turns the skin black for eight days.
 - Strict dietary restrictions accompany caballo piripiri use: the patient must avoid sun, salt, sweets, garlic, liquor, pig fat, sex, and socializing with sexually active people for eight days.
 - The yahuar-piripiri (blood piripiri, [[blesching-cannabis-healing-practices-setting-intention-affirmations]].
 - Multiple unnamed varieties exist with distinct icaros and applications, reflecting the Amazonian practice of distinguishing plants by spiritual properties rather than Linnaean taxonomy.
 
 ## Relevance to Cultivation and Mycology
 
-Piripiri species are excellent candidates for ethnobotanical cultivation. Cyperus species are generally hardy, fast-growing, and adaptable to wet conditions. The [[cordyceps-cancer-bioactive-compounds]] capable of crossing the skin barrier. The strict dietary restrictions accompanying piripiri use (avoiding salt, garlic, alcohol, pork, and sex) parallel the dietary restrictions observed with MAO inhibitors and other pharmacologically active plants, suggesting that piripiri may contain compounds with significant drug interaction potential. For cultivation, Cyperus species can be grown from seed or division in moist, rich soil.
+Piripiri species are excellent candidates for ethnobotanical cultivation. Cyperus species are generally hardy, fast-growing, and adaptable to wet conditions. The [[cordyceps-cancer-bioactive-compounds]] capable of crossing the skin barrier. The strict dietary restrictions accompanying piripiri use (avoiding salt, garlic, alcohol, pork, and sex) parallel the dietary restrictions observed with [[mao-inhibitors-and-psychedelics]] other pharmacologically active plants, suggesting that piripiri may contain compounds with significant drug interaction potential. For cultivation, Cyperus species can be grown from seed or division in moist, rich soil.
 
 ## Related Entities
 
@@ -62,7 +62,7 @@ Piripiri species are excellent candidates for ethnobotanical cultivation. Cyperu
 
 - Many Cyperus species prefer wet or seasonally moist soils.
 - They may be propagated by division when clumps are established.
-- Seed propagation may be possible but can be taxonomically uncertain.
+- [[green-cannabis-grow-bible-cloning-and-seed-propagation]] may be possible but can be taxonomically uncertain.
 - Cultivators should avoid collecting unidentified sedges without local guidance.
 - Wetland cultivation can spread rhizomatous species quickly.
 - Containers or managed beds may be appropriate for living collections.
@@ -74,7 +74,7 @@ Piripiri species are excellent candidates for ethnobotanical cultivation. Cyperu
 
 - Piripiri should not be generalized as a safe supplement.
 - The dietary prohibitions imply potential potency or interaction risk.
-- Topical preparations with Genipa americana may alter skin absorption.
+- [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] with Genipa americana may alter skin absorption.
 - Pharmacological study should distinguish sedge material from companion plants.
 - Reports should also distinguish ritual effect, placebo response, and direct biochemical action.
 - The strongest reading is integrative rather than reductive.

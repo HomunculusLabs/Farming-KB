@@ -28,7 +28,7 @@ The defining metabolic capability of Acetobacter is the oxidation of ethanol to 
 
 **C₂H₅OH + O₂ → CH₃COOH + H₂O**
 
-This reaction is the basis of vinegar production and, undesirably, wine spoilage. The process requires oxygen, making Acetobacter primarily a surface-dwelling organism in liquid environments.
+This reaction is the basis of [[jadam-brown-rice-vinegar-production]] and, undesirably, wine spoilage. The process requires oxygen, making Acetobacter primarily a surface-dwelling organism in liquid environments.
 
 ### Ecological Niche
 
@@ -37,7 +37,7 @@ Acetobacter species are naturally present on:
 - Fruit surfaces (especially damaged or overripe fruit)
 - Mushroom fruitbodies (both fresh and dried)
 - Flowers and plant tissues with sugar residues
-- Soil and organic matter
+- Soil [[hamilton-composting-and-organic-matter-management]]
 - Fermenting liquids exposed to air
 
 ### Spoilage in Mushroom Products
@@ -66,7 +66,7 @@ While problematic as a spoiler, Acetobacter has important beneficial uses:
 
 ### Dried Mushroom Quality
 
-Acetobacter presence on dried mushrooms highlights the importance of proper drying and storage:
+Acetobacter presence on dried mushrooms highlights the importance of proper [[psilocybin-mushroom-drying-and-storage-methods]]:
 
 - Dry mushrooms completely to halt microbial activity
 - Store in airtight containers to prevent rehydration and bacterial reactivation
@@ -103,8 +103,8 @@ Acetobacter species can also contaminate laboratory cultures and [[mushroom-spaw
 
 ## See Also
 
-- mushroom wine - mushroom-infused fermented beverages
+- mushroom wine - mushroom-infused [[comparison-mead-vs-kvass-fermented-beverages]]
 - mushroom extracts - alcohol extraction methods
-- contamination - general contamination management in cultivation
+- contamination - general [[oyster-mushroom-contamination-management]] in cultivation
 - fermentation - principles of controlled microbial activity
-- [[sterilization]] - autoclave and sterilization techniques
+- [[sterilization]] - autoclave and [[mushroom-agar-media-pouring-sterilization-techniques]]

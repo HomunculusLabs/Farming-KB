@@ -5,7 +5,7 @@ updated: 2026-05-02
 type: concept
 tags: [mycoremediation, biotechnology, emerging, innovation, research, genetic-engineering]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
 
 ## Emerging Techniques in Mycoremediation

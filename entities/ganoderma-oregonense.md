@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Ganoderma oregonense is a reishi species native to the Pacific Northwest region of North America. It is one of several species in the Ganoderma genus commonly referred to as reishi, the group of lacquered polypore mushrooms highly valued for their medicinal properties. Like other members of the genus, it is a wood-decomposing fungus that produces distinctive antler-like fruitbodies and lacquered, shelf-like conks. The species is part of the broader reishi complex documented for cultivation in [[tradd-cotter]]'s organic mushroom farming reference.
+Ganoderma oregonense is a reishi species native to the [[psilocybin-north-america-pacific-northwest]] region [[huckleberries-and-wild-berries-of-north-america]]. It is one of several species in the Ganoderma genus commonly referred to as reishi, the group of lacquered polypore mushrooms highly valued for their [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]. Like other members of the genus, it is a wood-decomposing fungus that produces distinctive antler-like fruitbodies and lacquered, shelf-like conks. The species is part of the broader reishi complex documented for cultivation in [[tradd-cotter]]'s [[organic-mushroom-farming-and-mycoremediation-overview]] reference.
 
 ## Classification
 
@@ -48,7 +48,7 @@ As a member of the Ganoderma genus, G. oregonense likely produces the characteri
 - **Wood preference:** Versatile on many hardwood types; matching strain to wood type is important
 
 ### Indoor Cultivation
-- **Substrates:** Supplemented sawdust, sterilized in autoclave for two hours
+- **Substrates:** [[oyster-mushroom-supplemented-sawdust-blocks]], sterilized in autoclave for two hours
 - **Inoculation to fruiting:** Two to three weeks after complete colonization
 - **Technique:** Antlers form in closed bags; cut open to allow flattening and sporulation
 - **Expected yields:** Good
@@ -89,5 +89,5 @@ Before purchasing strains, cultivators should inquire about preferred wood type,
 - [[ganoderma-lucidum]] (reishi, ling chi)
 - [[ganoderma-curtisii]] (golden reishi)
 - Ganoderma tsugae (hemlock reishi)
-- Ganoderma resinaceum
+- [[ganoderma-resinaceum]]
 - Ganodermataceae

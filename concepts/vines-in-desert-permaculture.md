@@ -1,5 +1,5 @@
 ---
-title: Vines in Desert Permaculture
+title: Vines Inselbergs And Fold Mountains In Desert Permaculture
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -52,7 +52,7 @@ Place a water tank under the vine crop to:
 
 Vines can be vigorous producers of foliage for:
 
-- **Garden mulch** — regular pruning provides a steady supply
+- **[[cotter-outdoor-mushroom-garden-mulch-beds]]** — regular pruning provides a steady supply
 - **Feeding small domestic livestock** — many vine species are palatable fodder
 - **Shade vines** can also provide some stick fuel wood for efficient cook-stoves
 
@@ -92,7 +92,7 @@ Within fenced areas, sometimes surprising natural regeneration of trees can occu
 
 - Firewood resource
 - Mulch resource
-- Medicinal resource for hard times
+- Medicinal resource for [[gardening-in-hard-times]]
 
 ### Harmless Livestock
 
@@ -104,10 +104,10 @@ Where no money is available for post-and-wire fencing, more labourious alternati
 
 - **Ditch and bank systems** — rock-faced or thorn-crowned
 - **Woven fences** — of plant materials (reeds in the Caspian area)
-- **Living fences** — cactus in Mexico, *[[euphorbia-tirucalli]]* and *[[lycium-ferocissimum]]* in Africa and parts of Australia
+- **[[comparison-living-fences-vs-hedgerows]]** — cactus in Mexico, *[[euphorbia-tirucalli]]* and *[[lycium-ferocissimum]]* in Africa and parts of Australia
 - **Combinations** — stone walls, rock, thorny shrubs, and steel pickets or wires
 
-In affluent societies, burnt brick walls are common. In Afghanistan and Iran, unburnt mud brick walls surround large gardens. Even within urban areas of the third world, domestic animals range and destroy vegetation.
+In affluent societies, burnt brick walls are common. In Afghanistan and Iran, unburnt mud brick walls surround large gardens. Even within [[permaculture-for-urban-areas]] of the third world, [[permaculture-domestic-animals]] range and destroy vegetation.
 
 Where hunting will support dogs, large domestic dogs will defend a house area (at the cost of feeding the dog). It is a matter of adapting to local materials, labour costs, and customs.
 

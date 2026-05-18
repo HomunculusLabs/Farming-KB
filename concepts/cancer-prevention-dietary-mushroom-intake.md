@@ -5,7 +5,7 @@ updated: 2026-04-16
 type: concept
 tags: [mycology, mushrooms]
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md"
+  - ""raw/papers/cancer-treatments-medicinal-mushrooms.md"
 ---
 # Cancer Prevention Through Dietary Mushroom Intake
 

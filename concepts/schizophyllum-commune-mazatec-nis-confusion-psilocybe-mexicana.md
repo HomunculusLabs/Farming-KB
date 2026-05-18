@@ -1,5 +1,5 @@
 ---
-title: "Schizophyllum Commune Mazatec Nis Confusion Psilocybe Mexicana"
+title: "Schizophyllum Commune Schizophyllan Cancer Mazatec Nis Confusion Psilocybe Mexicana"
 tags: [mycology, ethnobotany, neurotropic-fungi, mazatec, misidentification, schizophyllum, psilocybe-mexicana]
 sources: [guzman-allen-gartz-world-wide-distribution]
 created: 2026-05-11
@@ -37,7 +37,7 @@ features include:
 Among the Mazatec people of Oaxaca, the term "nise" translates to "little bird."
 This name is applied to at least two entirely different fungi:
 
-1. **Psilocybe mexicana** — a small, psychoactive mushroom containing
+1. **Psilocybe mexicana** — a small, [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] containing
    [[richard-evans-schultes]]** (1939), who initiated modern ethnobotanical study
   of Mexican hallucinogenic fungi
 - **R. Gordon Wasson** (1957), whose Life magazine article brought Mazatec
@@ -74,20 +74,20 @@ species have been documented in the neurotropic fungi literature:
 ## Significance for Ethnobotanical Research
 
 This pattern of naming confusion has several important implications for
-ethnobotanical and mycological research:
+ethnobotanical and [[mycological-research-institutions]]:
 
 1. **Chemical verification is essential** — Reliance on indigenous names alone
    is insufficient to determine the psychoactive properties of a fungus.
    Chemical analysis must always accompany ethnobotanical reports.
 
-2. **Specimen preservation matters** — Misidentified voucher specimens can
+2. **[[fungal-specimen-preservation]] matters** — Misidentified voucher specimens can
    propagate errors through the literature for decades, as seen with several
    Panaeolus and Psilocybe species reported to contain psilocybin based on
    mixed or misidentified collections.
 
-3. **Contextual understanding is required** — The cultural context in which a
+3. **Contextual understanding is required** — The [[ayahuasca-pharmacology-and-cultural-context]] in which a
    fungus is named and used must be thoroughly understood before drawing
-   conclusions about its pharmacological properties. A name like "nise" may
+   conclusions about its [[lsd-discovery-aftermath-pharmacological-properties]]. A name like "nise" may
    describe a morphological feature (resemblance to a small bird) rather than
    indicating a specific chemical property.
 

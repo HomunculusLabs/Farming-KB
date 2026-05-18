@@ -5,7 +5,7 @@ updated: 2026-04-16
 type: entity
 tags: [chemistry, tihkal, 2c-family]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+  - "raw/papers/shulgin-a-pihkal.md"
 ---
 # 2C-T-9
 

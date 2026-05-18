@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Rice and Barley Cultivation History and No-Tillage Method
+title: Fukuoka Rice And Barley Natural Farming Barley Cuthill Mushroom Cultivation History 19th Century and No-Tillage Method
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -29,18 +29,18 @@ practice to starch production and ultimately to the pursuit of profits.
 Japanese rice cultivation passed through four distinct stages:
 
 1. **1940 — Primitive farming**: Characterized by improvements in tilling
-   methods, relying on manual labor and traditional knowledge passed down
+   methods, relying on manual labor [[wasted-human-resources-and-traditional-knowledge]] passed down
    through generations.
 
 2. **1950 — Animal-powered agriculture**: Introduced draft animals and
    increased fertilizer production, raising output but demanding heavier labor.
 
-3. **1960 — Scientific farming**: Brought mechanization and the application of
+3. **1960 — [[fukuoka-critique-scientific-farming-energy-efficiency]]**: Brought mechanization and the application of
    [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] technology appears to have
 progressed rapidly over the last fifty years, the productivity of the land has
 declined."
 
-Even organic farming, often seen as an alternative, is an outgrowth of
+Even [[coleman-deep-organic-farming]], often seen as an alternative, is an outgrowth of
 scientific farming oriented toward petroleum energy-intensive commercial
 agribusiness, remaining trapped within the same paradigm of human domination.
 
@@ -103,7 +103,7 @@ His key findings from over a decade of no-tillage practice were:
 
 - **No-tillage improves and enriches the land**, demonstrated over more than
   ten consecutive years.
-- **It provides total germination and weed control**, with less labor and
+- **It provides total germination [[jadam-soil-management-no-till-and-weed-control]]**, with less labor and
   higher yields than [[fukuoka-spiritual-philosophical-foundation]] for everything that
 followed. During wartime mobilization, he was sent to the Kochi Prefecture
 agricultural [[four-principles-of-natural-farming]] into practice.

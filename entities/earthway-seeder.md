@@ -9,7 +9,7 @@ tags: [tool, seeding, precision-seeding, field-equipment]
 
 ## Description
 
-The EarthWay Precision Garden Seeder is an affordable, widely available single-row push seeder manufactured by EarthWay Products, Inc. in Bristol, Indiana. While not a high-precision instrument by European greenhouse standards, it played a pivotal role in the development of [[eliot-coleman]]'s intensive seeding approach. Coleman's earliest attempt at multi-row precision seeding involved bolting five EarthWay seeders together side by side to create a five-row unit, a makeshift solution that validated the concept before the German pinpoint seeder was discovered.
+The EarthWay Precision Garden Seeder is an affordable, widely available single-row push seeder manufactured by EarthWay Products, Inc. in Bristol, Indiana. While not a high-precision instrument by European greenhouse standards, it played a pivotal role in the development of [[eliot-coleman]]'s intensive seeding approach. Coleman's earliest attempt at multi-row [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] involved bolting five EarthWay seeders together side by side to create a five-row unit, a makeshift solution that validated the concept before the German pinpoint seeder was discovered.
 
 ## Classification
 
@@ -59,7 +59,7 @@ The EarthWay served as proof-of-concept hardware that validated the multi-row ap
 
 ## Strengths
 
-1. **Affordable**: One of the least expensive precision seeders available
+1. **Affordable**: One of the least expensive [[precision-seeders-for-greenhouse-sowing]] available
 2. **Widely available**: Sold through most garden supply retailers in the US
 3. **Modifiable**: Simple construction allows creative modifications
 4. **Adequate for field use**: Sufficient precision for field-scale row crops
@@ -86,18 +86,18 @@ The EarthWay served as proof-of-concept hardware that validated the multi-row ap
 
 ## Relevance to Cultivation
 
-The EarthWay seeder is significant in the history of intensive vegetable production for several reasons:
+The EarthWay seeder is significant in the history of intensive [[coleman-french-historical-winter-vegetable-production]] for several reasons:
 
 - **Entry-level precision**: Provides an accessible starting point for growers transitioning from broadcast sowing to precision placement
 - **Modification platform**: Simple design invites creative adaptation, as Coleman demonstrated
 - **Field workhorse**: For outdoor production where greenhouse-level precision is unnecessary, the EarthWay remains practical
-- **Historical importance**: Its role in Coleman's tool development illustrates the iterative process of matching equipment to production methods
+- **Historical importance**: Its role in Coleman's tool development illustrates the iterative process of matching equipment to [[enriched-sawdust-cultivation-and-spawn-production-methods]]
 
-For small-scale market growers on a budget, the EarthWay offers a viable entry point into precision seeding, with the understanding that intensive greenhouse production may eventually demand more specialized tools.
+For small-scale market growers on a budget, the EarthWay offers a viable entry point into precision seeding, with the understanding that intensive [[economics-of-winter-greenhouse-production]] may eventually demand more specialized tools.
 
 ## Source Reference
 
-Eliot Coleman, The New Organic Grower (Chelsea Green), p. 73. Referenced in: Eliot Coleman, The Winter Harvest Handbook (Chelsea Green, 2009), Chapter 8: Sowing, p. 141.
+Eliot Coleman, The New Organic Grower (Chelsea Green), p. 73. Referenced in: Eliot Coleman, The [[winter-harvest-handbook-guide]] (Chelsea Green, 2009), Chapter 8: Sowing, p. 141.
 ## See also
 
 - [[pinpoint-seeder]]

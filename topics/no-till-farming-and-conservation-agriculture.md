@@ -7,12 +7,12 @@ updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - /Users/t3rpz/wiki/raw/papers/one-straw-revolution-masanobu-fukuoka.md
-  - /Users/t3rpz/wiki/raw/papers/lowenfels-teaming-with-microbes.md
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-  - /Users/t3rpz/wiki/raw/papers/savory-holistic-resource-management.md
-  - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
-  - /Users/t3rpz/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/savory-holistic-resource-management.md"
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 related_concepts:
   - "the-soil-food-web"
   - "mycorrhizal-fungi"

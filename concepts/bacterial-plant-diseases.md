@@ -15,7 +15,7 @@ Bacterial plant diseases are caused by single-celled organisms that enter plants
 
 ### Bacterial Wilt (Ralstonia solanacearum)
 
-One of the most destructive bacterial diseases worldwide. Causes rapid wilting of the entire plant despite adequate soil moisture. The bacterium colonizes the xylem vessels, blocking water transport. Cutting an infected stem reveals brown, discolored vascular tissue, and a milky bacterial ooze may exude from the cut end when placed in water.
+One of the most destructive bacterial diseases worldwide. Causes rapid wilting of the entire plant despite adequate soil moisture. The bacterium colonizes the xylem vessels, blocking water transport. Cutting an infected stem reveals brown, discolored [[plant-vascular-tissue-and-root-anatomy]], and a milky bacterial ooze may exude from the cut end when placed in water.
 
 Hosts: tomatoes, potatoes, eggplants, peppers, bananas, ginger.
 
@@ -32,7 +32,7 @@ Management:
 Primarily affects tomatoes. Symptoms begin as small, raised white spots ("bird's eye" lesions) on fruit, dark cankers on stems, and marginal leaf necrosis that progresses inward. The bacterium is seed-borne and can persist on stakes and equipment for months.
 
 Management:
-- Use hot-water treated seed or certified pathogen-free seed
+- Use hot-water [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] or certified pathogen-free seed
 - Disinfect stakes and cages with 10% bleach solution
 - Avoid overhead irrigation
 - Remove infected plants immediately
@@ -48,7 +48,7 @@ Management:
 - Copper-based sprays combined with mancozeb for better efficacy
 - Avoid working in fields when foliage is wet
 - Remove infected lower leaves
-- Crop rotation with non-host species
+- [[coleman-cover-crop-rotation-and-soil-health]] with non-host species
 - Resistant varieties available for peppers
 
 ### Fire Blight (Erwinia amylovora)
@@ -70,7 +70,7 @@ Management:
 Causes rough, tumor-like galls at the crown, roots, or occasionally stems of a very wide host range including roses, fruit trees, grapes, berries, and many ornamentals. The bacterium transfers T-DNA into plant cells, causing uncontrolled growth. Galls start small and pale, becoming dark and woody over time.
 
 Management:
-- Inspect nursery stock before planting -- reject galled plants
+- Inspect [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] before planting -- reject galled plants
 - Avoid planting in fields with known crown gall history
 - Dip roots of bare-root plants in Galltrol (Agrobacterium radiobacter K84) as preventive
 - Remove and destroy severely infected plants
@@ -81,7 +81,7 @@ Management:
 
 - Use certified pathogen-free seed and transplants
 - Practice strict tool sanitation between plants
-- Avoid overhead watering; use drip irrigation
+- Avoid overhead watering; use [[cervantes-drip-irrigation-systems]]
 - Remove and destroy infected plant material -- never compost diseased tissue
 - Rotate crops by family for 3-5 years
 - Work in fields only when foliage is dry
@@ -91,7 +91,7 @@ Management:
 
 ## See Also
 
-- [[plant-disease-identification]] -- visual diagnostic guide for distinguishing bacterial from fungal symptoms
+- [[plant-disease-identification]] -- visual [[growing-gourmet-cultivation-troubleshooting-diagnostic-guide]] for distinguishing bacterial from fungal symptoms
 - [[integrated-pest-management]] -- systematic approach to managing bacterial diseases within an IPM framework
 - [[fungal-plant-diseases]]
 - [[viral-plant-diseases]]

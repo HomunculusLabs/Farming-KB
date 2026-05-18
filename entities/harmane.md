@@ -31,7 +31,7 @@ sources:
 smoke, and mammalian tissues including the human brain.
 
 Its pharmacological significance centers on reversible MAO-A
-inhibition, serotonin receptor agonism, and neurotoxic properties at
+inhibition, [[serotonin-receptor-interference-psychedelic-mechanism]] agonism, and neurotoxic properties at
 elevated concentrations. A principal β-carboline in *Banisteriopsis
 caapi*, harmane enables [[tihkal-oral-activity-mao-inhibition]] of DMT in ayahuasca by
 inhibiting peripheral MAO-A.
@@ -62,7 +62,7 @@ profile), Ki 0.5–5 µM. Weak MAO-B inhibition (Ki > 50 µM).
 By inhibiting peripheral MAO-A, allows DMT oral bioavailability in
 ayahuasca — the pharmacological basis for the brew's oral activity.
 
-**Serotonin receptors:** Agonist at multiple subtypes:
+**[[psilocybin-pharmacology-and-serotonin-receptors]]:** Agonist at multiple subtypes:
 - **5-HT₂A** (Ki ~1–5 µM) — mild psychoactive/hallucinogenic effects
 - **5-HT₂B** — cardiac valvulopathy risk with chronic use
 - **5-HT₂C** — appetite and mood effects
@@ -81,7 +81,7 @@ neurotoxic potential. Not used recreationally as standalone drug.
 ## Overview
 
 Harmane represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -110,13 +110,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for harmane. Climate adaptation
+opportunities for harmane. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 harmane and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

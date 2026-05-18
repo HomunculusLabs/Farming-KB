@@ -5,7 +5,7 @@ updated: 2026-05-02
 type: concept
 tags: [cannabis, taxonomy, botany, cannabinoids, terpenes, strains, medicine]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+  - "raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md"
 ---
 # Cannabis Sativa vs. Indica Guide
 Cannabis sativa and Cannabis indica are the two primary species used in medicinal and recreational cannabis. While both contain the cannabinoids necessary to engage the human endocannabinoid system, they differ significantly in their morphology, growth patterns, cannabinoid ratios, and therapeutic effects. Understanding these differences helps cultivators choose appropriate genetics and patients select strains for specific conditions. Modern taxonomy, as discussed by [[cannabis-terpene-entourage-effect]] research suggests that terpenes play an equally important role in determining subjective effects, potentially more so than cannabinoid ratios alone.

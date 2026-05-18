@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Nameko (Pholiota nameko) and Pioppino (Agrocybe aegerita) are two
+Nameko (Pholiota nameko) and Pioppino ([[agrocybe-aegerita-detailed]]) are two
 lesser-known gourmet mushrooms that deserve more attention from home
 and small-scale cultivators. Both are wood-loving species that fruit
 on supplemented hardwood substrates and have deep culinary traditions
@@ -39,7 +39,7 @@ bed cultivation, making it a valuable permaculture species.
 The flavor is mellow and attractive when young, developing a mild
 pork-like richness when cooked. Pioppino is excellent stir-fried,
 baked in stuffing, or served in white sauce over fish and chicken.
-It holds particular culinary significance in Italian and southern
+It holds particular [[bolete-mushrooms-ecology-identification-and-culinary-significance]] in Italian and southern
 European cuisine.
 
 ## Key Differences
@@ -50,7 +50,7 @@ European cuisine.
 | Appearance | Amber, gelatinous coating | Gray-brown, dry cap with ring |
 | Fruiting Temp | 54-59°F (12-15°C) | 60-70°F (15-21°C) |
 | Humidity Need | 90-95% RH (very high) | 85-92% RH (high) |
-| Primary Substrate | Hardwood sawdust blocks | Sawdust, stumps, wood chips |
+| Primary Substrate | [[hardwood-sawdust-substrate]] blocks | Sawdust, stumps, wood chips |
 | Casing Required | No | Recommended (1/2 inch) |
 | Colonization | 20-30 days | 14-21 days (faster) |
 | Log Cultivation | Yes (6-12 months) | Yes (stump recycling) |
@@ -71,7 +71,7 @@ well-documented after decades of Japanese commercial production.
 
 Nameko is also an excellent choice for log-based cultivation in
 temperate climates with access to oak or beech hardwoods. The cold
-shock fruiting trigger (50-54°F) makes it a natural fit for autumn
+[[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]] (50-54°F) makes it a natural fit for autumn
 and winter production cycles in unheated grow spaces.
 
 ## When to Choose Pioppino
@@ -84,7 +84,7 @@ species for outdoor mycoscaping. Its faster colonization time
 flexibility than nameko's tighter environmental requirements.
 
 Pioppino is particularly well-suited to growers in warmer temperate
-or subtropical climates (southeastern US, Mediterranean regions)
+or [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] (southeastern US, Mediterranean regions)
 where nameko's cool fruiting requirements would demand significant
 climate control infrastructure. The species' affinity for cottonwood,
 willow, and poplar stumps makes it a natural choice for land
@@ -98,7 +98,7 @@ to separate fruiting chambers. Pioppino's warmer fruiting window
 allowing year-round production by alternating species seasonally.
 Use pioppino in spring and summer months, transitioning to nameko
 as temperatures drop in autumn. Both share similar spawn production
-methods and supplemented sawdust substrate preparation, reducing
+methods and [[stamets-supplemented-sawdust-substrate-preparation]] preparation, reducing
 the equipment and knowledge investment needed for dual cultivation.
 
 ## See Also

@@ -10,9 +10,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  - "raw/papers/mckenna_t-food_of_the_gods.md"
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Stropharia cubensis

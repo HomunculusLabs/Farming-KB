@@ -16,12 +16,12 @@ type: entity
 
 ## Overview
 Virodhamine (O-arachidonoyl-ethanolamine) is one of five identified
-endogenous cannabinoids produced naturally by the human body. Discovered
+[[five-endogenous-cannabinoids-lipid-signaling-family-blesching-2015]] produced naturally by the human body. Discovered
 in 2002, virodhamine is structurally similar to anandamide (N-
 arachidonoylethanolamine) but differs in the position of the
 arachidonoyl chain attachment: virodhamine is an O-linked ester while
 anandamide is an N-linked amide. This structural difference gives
-virodhamine unique pharmacological properties, including partial
+virodhamine unique [[lsd-discovery-aftermath-pharmacological-properties]], including partial
 antagonist activity at CB1 receptors, distinguishing it from the
 agonist profile of other endocannabinoids.
 
@@ -61,7 +61,7 @@ agonist profile of other endocannabinoids.
 ## Overview
 
 Virodhamine represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -90,13 +90,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for virodhamine. Climate adaptation
+opportunities for virodhamine. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -111,7 +111,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 virodhamine and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

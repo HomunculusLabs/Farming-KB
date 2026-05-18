@@ -1,5 +1,5 @@
 ---
-title: Tihkal Dmt Pharmacology
+title: Tihkal 5 Methoxy Dmt Pharmacology
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [DMT, pharmacology, psychedelic, tryptamine, endogenous]
@@ -50,7 +50,7 @@ As an endogenous psychotogen candidate, DMT does not produce tolerance upon repe
 
 DMT is extraordinarily widespread in nature:
 - **Piptadenia peregrina** and **P. macrocarpa**: Beans and pods ([[entheogen-jurema-mimosa-hostilis-ethnobotany]]**: Roots (jumera/vinho de jurema drink)
-- **Phalaris** species (reed canarygrass): Pasture grasses
+- **Phalaris** species (reed canarygrass): [[tropical-pasture-grasses]]
 - **Acacia** species: Africa and Australia
 - **Virola** species: Amazon basin snuffs (yakee, yato, parica, epena, nyakwana)
 - **Sonora Desert Toad** ([[5-meo-dmt-and-bufo-alvarius]]): Venom contains DMT and 5-MeO-DMT
@@ -81,11 +81,11 @@ DMT has identical serotonin binding capacity to its 1-methyl homologue. It has b
 **75 mg i.m.**: "The third or fourth minute after the injection vegetative symptoms appeared, such as tingling sensation, trembling, slight nausea, mydriasis, elevation of the blood pressure and increase of the pulse rate. At the same time, eidetic phenomena, optical illusions, pseudohallucinations, and later real hallucinations, appeared. The hallucinations consisted of moving, brilliantly colored oriental motifs, and later I saw wonderful scenes altering very rapidly. The faces of people seemed to be masks."
 ## Historical Development
 
-This approach has evolved significantly over time, drawing from both traditional practices and modern scientific understanding. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current science continues to advance the field.
+This approach has evolved significantly over time, drawing from both traditional practices and modern [[fukuoka-fallacies-scientific-understanding]]. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current [[fukuoka-science-continues-rampage]] to advance the field.
 
 ## Environmental Impact
 
-The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader ecosystem resilience. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
+The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader [[fungal-rhizosphere-and-ecosystem-resilience]]. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
 
 ## Economic Considerations
 

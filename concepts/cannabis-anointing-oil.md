@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/a-practitioners-guide-marijuana-magick.md
+  - "raw/papers/a-practitioners-guide-marijuana-magick.md"
 type: concept
 ---
 

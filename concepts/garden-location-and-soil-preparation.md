@@ -7,7 +7,7 @@ type: concept
 tags: [gardening, soil-preparation, site-selection, organic-gardening]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - /Users/t3rpz/wiki/raw/papers/purdue-home-gardeners-guide.md
+  - "raw/papers/purdue-home-gardeners-guide.md"
 ---
 # Garden Location and Soil Preparation
 

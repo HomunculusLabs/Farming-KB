@@ -9,7 +9,7 @@ tags: [chemical, biocide, pollutant, water-purification, permaculture, toxic]
 
 ## Description
 
-Pentachlorophenol (PCP) is a highly toxic chlorinated phenol compound widely used as a wood preservative, biocide, and herbicide. Mollison identifies it as one of the toxic phenols that can be broken down by Scirpus (bulrush) species in biological water treatment systems. Its persistence and toxicity make it a significant environmental pollutant, particularly in industrial wastewater and runoff from treated lumber facilities.
+Pentachlorophenol (PCP) is a highly toxic chlorinated phenol compound widely used as a wood preservative, biocide, and herbicide. Mollison identifies it as one of the toxic phenols that can be broken down by Scirpus (bulrush) species in [[sand-filtration-and-biological-water-treatment]] systems. Its persistence and toxicity make it a significant environmental pollutant, particularly in [[fungal-industrial-wastewater-treatment]] and runoff from treated lumber facilities.
 
 ## Classification
 
@@ -21,9 +21,9 @@ Pentachlorophenol (PCP) is a highly toxic chlorinated phenol compound widely use
 
 ## Key Facts
 
-- Pentachlorophenol is one of the most toxic phenolic compounds, with broad-spectrum biocidal activity against fungi, bacteria, algae, and insects.
+- Pentachlorophenol is one of the most toxic [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], with broad-spectrum biocidal activity against fungi, bacteria, algae, and insects.
 - Historically used extensively as a wood preservative for utility poles, fence posts, and building materials.
-- Mollison notes that Scirpus spp. (bulrushes) can break down phenols, including toxic pentachlorophenol, in constructed wetland treatment systems.
+- Mollison notes that Scirpus spp. (bulrushes) can break down phenols, including toxic pentachlorophenol, in [[comparison-constructed-wetland-vs-backyard-pond]] treatment systems.
 - PCP is classified as a probable human carcinogen (Group 2B) by the International Agency for Research on Cancer (IARC).
 - Highly toxic to aquatic organisms; contaminates waterways through industrial discharge, runoff, and leaching from treated wood products.
 - Relatively persistent in the environment, with half-lives ranging from days to months depending on conditions.
@@ -47,9 +47,9 @@ Mollison describes a [[rhizosphere-microbial-communities]] capable of dechlorina
 ## Relevance to Cultivation and Mycology
 
 - **Phytoremediation**: The ability of Scirpus and other wetland plants to break down PCP demonstrates the potential of biological treatment systems for industrial pollutant cleanup.
-- **Mycoremediation**: Fungi, particularly white-rot fungi such as [[phanerochaete-chrysosporium]], are known to degrade PCP through lignin-degrading enzyme systems. This makes PCP-contaminated sites candidates for combined phyto-myco remediation approaches.
+- **Mycoremediation**: Fungi, particularly white-rot fungi such as [[phanerochaete-chrysosporium]], are known to degrade PCP through lignin-degrading enzyme systems. This makes PCP-contaminated sites candidates for combined phyto-myco [[combined-biological-remediation-approaches]].
 - **Permaculture design**: Understanding biocide contamination pathways is essential for designing safe water collection, treatment, and reuse systems.
-- **Organic standards**: PCP residues in soil and water can disqualify land from organic certification, making remediation important for sustainable agriculture.
+- **Organic standards**: PCP residues in soil and water can disqualify land from organic certification, making remediation important [[mushroom-cultivation-for-sustainable-agriculture]].
 
 ## References
 

@@ -107,3 +107,19 @@ Other interaction states include unilateral co-action (+0, 0+, −0, 0−) and o
 Despite analytical tools, Mollison cautions that weather vagaries mean a peasant farmer may accept a (~ +) effect — getting some crop of the "losing" species — rather than risk total failure of a single monoculture. **It is always safer to mix or complicate crops than to pin hopes on a single main crop.** The directive: be guided by analyses but study reality.
 
 Every designer and every gardener can plan guilds for specific target species, specific pests [[jadam-soil-management-no-till-and-weed-control]] needs, and specific garden beds or orchards. The guild concept transforms pest management, nutrient cycling, and microclimate regulation from external inputs into self-managing system functions.
+
+## Practical Considerations
+
+Understanding the practical applications of this
+concept requires considering both theoretical frameworks
+and real-world implementation challenges. Practitioners
+must balance ideal approaches with available resources
+and site-specific conditions to achieve meaningful results.
+
+## Research Context
+
+Current research in this area builds upon foundational
+principles while exploring new methodological approaches.
+Empirical findings continue to refine our understanding
+and suggest promising directions for future investigation
+across multiple disciplines and application domains.

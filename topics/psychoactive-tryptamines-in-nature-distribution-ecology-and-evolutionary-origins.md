@@ -5,15 +5,15 @@ tags: [biogeography, ecology, tryptamine, evolution, distribution, ethnobotany, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mckenna_t-food_of-the_gods.md
-  - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
-  - /Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
-  - /Users/t3rpz/wiki/raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
-  - /Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-production.md
-  - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
-  - /Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md
-  - /Users/t3rpz/wiki/raw/papers/the-road-to-eleusis.md
+  - "raw/papers/mckenna_t-food_of-the_gods.md"
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
+  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
+  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
+  - "raw/papers/the-road-to-eleusis.md"
 related_concepts:
   - tryptamine-chemistry-and-psychedelic-pharmacology
   - psychedelic-mushrooms-species-and-identification

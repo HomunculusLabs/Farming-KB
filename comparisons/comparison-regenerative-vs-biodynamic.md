@@ -12,14 +12,14 @@ type: comparison
 # Regenerative vs Biodynamic Agriculture
 
 ## Overview
-Regenerative agriculture and [[coleman-deep-organic-farming-philosophy]]. Regenerative agriculture,
+[[biochar-in-regenerative-agriculture]] and [[coleman-deep-organic-farming-philosophy]]. Regenerative agriculture,
 codified by Robert Rodale in the 1980s and popularized by practitioners like
 Gabe Brown, focuses on measurable soil health outcomes, carbon sequestration,
-biodiversity enhancement, and ecosystem restoration through five core
+biodiversity enhancement, and [[bioremediation-ecosystem-restoration]] through five core
 principles. Biodynamic agriculture, developed by Rudolf Steiner in the 1920s
 and advanced by Dr. Ehrenfried Pfeiffer, incorporates esoteric principles
 including "etheric formative forces," homeopathic compost preparations, and
-astronomical planting calendars. Both share a commitment to treating farms as
+astronomical [[hamilton-seasonal-planting-calendars]]. Both share a commitment to treating farms as
 living systems rather than industrial production units.
 
 ## Regenerative Agriculture
@@ -37,7 +37,7 @@ manure (preparation 500) applied to soil in spring and horn silica
 (preparation 501) applied to foliage. The biodynamic planting calendar
 considers lunar and planetary rhythms, with specific days considered favorable
 for different agricultural activities.
-Biodynamic farming has produced remarkable results in soil restoration, crop
+[[biodynamic-farming-principles-and-practice]] has produced remarkable results in soil restoration, crop
 quality, and plant vitality that conventional chemistry cannot fully explain.
 Pfeiffer's chromatographic analysis showed that natural vitamins produce
 stronger vitality patterns than synthetic equivalents. Biodynamic farms often
@@ -60,7 +60,7 @@ results.
 | Approach | Pragmatic, outcome-focused | Holistic, philosophy-driven |
 | [[comparison-biodynamic-preparations-vs-biofertilizers]]
 would be impractical. The five core principles can be adopted incrementally —
-starting with no-till and cover crops, then adding livestock integration and
+starting with no-till and cover crops, then adding [[jadam-livestock-integration-and-manure-management]]
 biodiversity enhancements — making it accessible to any operation regardless
 of size, budget, or philosophical orientation.
 
@@ -82,7 +82,7 @@ biodiversity, and producing nutritious food. Many regenerative farmers adopt
 biodynamic compost preparations as supplements, while biodynamic farmers
 increasingly incorporate regenerative science into soil management. The most
 resilient farms draw from both traditions — using regenerative principles for
-measurable soil health outcomes while incorporating biodynamic preparations
+measurable soil health outcomes while incorporating [[biodynamic-preparations]]
 and timing for their observed effects on plant vitality and food quality.
 Together, they represent the most holistic approaches to sustainable food
 production available today.

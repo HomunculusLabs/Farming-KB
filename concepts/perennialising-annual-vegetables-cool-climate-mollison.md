@@ -9,7 +9,7 @@ type: concept
 Mollison presents a collection of practical techniques for extending the life
 of conventionally annual vegetables, effectively converting them into
 perennial or semi-perennial crops. These methods reduce the need for annual
-seed starting and can significantly lower garden maintenance while providing
+[[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] can significantly lower garden maintenance while providing
 continuous harvests. The chunk also covers trellis systems and small fruit
 management specific to cool mesothermal climates.
 
@@ -74,7 +74,7 @@ harvesting improves overall germination rates and seedling vigour.
 
 Trellis crop in mesothermal climates is important. Many peas, beans, and
 cucurbits will trellis, as will varieties of tomatoes. However, trellis over
-the garden is inappropriate in cool humid climates (unlike in deserts where
+the garden is inappropriate in [[berry-fruit-production-cool-humid-climates]] (unlike in deserts where
 overhead shade is beneficial). The preferred trellis configurations are:
 
 - Vertical zigzag trellis
@@ -92,10 +92,10 @@ Small fruit such as currants, gooseberry, raspberry, or trellis blackberry
 is a feature of cool-area gardens. Six to fifteen plants of 7-8 species
 yields a great deal of fresh or frozen food of high vitamin C value. Many
 such rows can act as windbreak within the garden, serving a dual function of
-crop production and microclimate modification.
+crop production [[tree-temperature-effects-and-microclimate-modification]].
 
 Rows of berry bushes planted on the windward edge of the garden provide
-shelter for more sensitive vegetables and herbs while producing a significant
+shelter for more sensitive [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] while producing a significant
 food crop. This integration of shelter and production is a hallmark of
 permaculture design in cool climates.
 
@@ -117,5 +117,5 @@ tropical gardens but with important modifications:
 ## See Also
 
 - [[berry-growing]] — Comprehensive berry growing guide
-- [[biointensive-seed-saving]] — Detailed seed saving methods
-- [[permaculture-seed-saving-and-selection]] — Permaculture seed saving philosophy
+- [[biointensive-seed-saving]] — Detailed [[seed-saving-methods-home-garden]]
+- [[permaculture-seed-saving-and-selection]] — [[permaculture-seed-saving-breeding]] philosophy

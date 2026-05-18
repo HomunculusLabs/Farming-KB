@@ -5,7 +5,7 @@ updated: 2026-04-24
 type: concept
 tags: [fungi, mycology, pollution]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
 
 # White-Rot Fungi Lignin Degradation Enzymes

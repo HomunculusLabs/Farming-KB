@@ -11,12 +11,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
 # Eleutheromyces subulatus
 
-Eleutheromyces subulatus is a fungicolous discomycete (cup fungus) that grows specifically on the sporocarps of Trametes species, one of the most common and widely distributed genera of wood-decay polypore fungi. It is one of the characteristic fungicolous ascomycetes found on polypore brackets in temperate forests and provides an important model for understanding host specificity patterns among fungicolous fungi.
+Eleutheromyces subulatus is a fungicolous discomycete (cup fungus) that grows specifically on the sporocarps of Trametes species, one of the most common and widely distributed genera of wood-decay [[polypore-fungi-eastern-north-america]]. It is one of the characteristic fungicolous ascomycetes found on polypore brackets in temperate forests and provides an important model for understanding [[fungal-endemism-host-specificity]] patterns among [[fungicolous-fungi]].
 
 ## Taxonomy and Classification
 
@@ -28,9 +28,9 @@ E. subulatus demonstrates a notable degree of host specificity, being primarily 
 
 ### Primary Host: Trametes species
 
-The principal host genus for E. subulatus is Trametes, which includes some of the most common bracket fungi in temperate and tropical forests worldwide. Key Trametes species that may serve as hosts include:
+The principal host genus for E. subulatus is Trametes, which includes some of the most common bracket fungi in temperate and [[fungal-biodiversity-tropical-forests]] worldwide. Key Trametes species that may serve as hosts include:
 
-- [[fungal-dead-wood-diversity]] in forest environments. The fungus is typically found on the upper or lateral surfaces of the polypore bracket, where it forms its own fruiting structures. Its presence is often noted during systematic surveys of fungicolous fungi on polypores, where it contributes to the characteristic species assemblage associated with Trametes hosts. The geographic distribution of E. subulatus closely follows that of its Trametes hosts, being found in temperate forests across the Northern Hemisphere.
+- [[fungal-dead-wood-diversity]] in forest environments. The fungus is typically found on the upper or lateral surfaces of the polypore bracket, where it forms its own fruiting structures. Its presence is often noted during systematic surveys of [[fungicolous-fungi-on-ascomycota-hosts]] polypores, where it contributes to the characteristic species assemblage associated with Trametes hosts. The [[geographic-distribution-of-psilocybe-species]] E. subulatus closely follows that of its Trametes hosts, being found in temperate forests across the Northern Hemisphere.
 
 ## Role in Fungal Community Dynamics
 

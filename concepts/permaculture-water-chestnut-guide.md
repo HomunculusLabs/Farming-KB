@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
-Updated: 2026-04-18 Water chestnuts (Eleocharis dulcis) are aquatic vegetables that grow in shallow water. Despite the name, they are not nuts but water plants that produce small, rounded, crunchy edible corms. ## Uses - Edible vegetable (corms) - Water plant ## Growing Conditions - Long [[psilocybe-southeast-asia-pacific]]. Ornamental water chestnuts are not edible — always confirm you are purchasing food-grade corms from a reliable source. ## Propagation Water chestnuts are propagated from corms. Plant whole corms 2-3 inches deep in rich, muddy soil at the shallow edges of a pond or in containers filled with water-retentive soil. Planting is done in spring after the last frost. Each planted corm will produce a clump of grass-like stems and 10-20 new corms by season's end. In cooler climates, start corms indoors in containers of water in early spring, then transplant when water temperatures reach 65°F (18°C). Maintain constant water level throughout the growing season. ## [[permaculture-wildlife-corridors]], water chestnuts are food producers, providing edible corms while creating aquatic habitat for beneficial insects, amphibians, and fish.
+Updated: 2026-04-18 Water chestnuts (Eleocharis dulcis) are aquatic vegetables that grow in shallow water. Despite the name, they are not nuts but water plants that produce small, rounded, crunchy edible corms. ## Uses - Edible vegetable (corms) - Water plant ## Growing Conditions - Long [[psilocybe-southeast-asia-pacific]]. Ornamental water chestnuts are not edible — always confirm you are purchasing food-grade corms from a reliable source. ## Propagation Water chestnuts are propagated from corms. Plant whole corms 2-3 inches deep in rich, muddy soil at the shallow edges of a pond or in containers filled with water-retentive soil. Planting is done in spring after the last frost. Each planted corm will produce a clump of grass-like stems and 10-20 new corms by season's end. In cooler climates, start corms indoors in containers of water in early spring, then transplant when water temperatures reach 65°F (18°C). Maintain constant water level throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. ## [[permaculture-wildlife-corridors]], water chestnuts are food producers, providing edible corms while creating aquatic [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, amphibians, and fish.
 
 ## Culinary Uses
 
@@ -53,7 +53,7 @@ surface. Drainage holes should be sealed or the container should be
 watertight. Place containers in full sun. As plants grow, the water
 level can be raised gradually to a maximum of 6-8 inches. Container
 growing allows precise control over water quality, temperature, and
-nutrient availability. It also makes harvesting easier — simply
+[[chelation-and-nutrient-availability]]. It also makes harvesting easier — simply
 drain the water and sift through the soil for corms. In cold
 climates, containers can be moved to a greenhouse or garage before
 first frost to protect dormant corms over winter.
@@ -64,10 +64,10 @@ Clean, still or slow-moving water is essential for healthy water
 chestnut growth. Stagnant water that becomes anaerobic (smelling of
 sulfur or rotten eggs) promotes root rot and corm failure. In
 natural ponds, water chestnuts benefit from the nutrient cycling of
-aquatic ecosystems — fish waste and decomposing organic matter
+[[dighton-fungal-biomass-production-aquatic-ecosystems]] — fish waste and decomposing organic matter
 provide steady nutrition. In containers, supplement with a thin
 layer of well-rotted compost or manure mixed into the soil at
-planting time. Avoid chemical fertilizers, which can cause algal
+planting time. Avoid [[cannabis-chemical-fertilizers]], which can cause algal
 blooms. Adding small floating aquatic plants like duckweed helps
 absorb excess nutrients from the water column while providing shade
 that keeps water temperatures stable. A weekly partial water change
@@ -79,7 +79,7 @@ container systems.
 A typical water chestnut growing season spans 6-7 months. In spring,
 inspect stored corms for firmness and plant the best specimens.
 During early summer, ensure water levels remain consistent and
-watch for signs of nutrient deficiency (yellowing tips). Midsummer
+watch for signs of [[cannabis-nutrient-deficiency-and-toxicity-guide]] (yellowing tips). Midsummer
 brings peak growth — the grass-like foliage reaches 2-3 feet tall.
 By late summer, plants begin senescing and foliage yellows from
 the tips downward. Harvest begins when approximately 70% of

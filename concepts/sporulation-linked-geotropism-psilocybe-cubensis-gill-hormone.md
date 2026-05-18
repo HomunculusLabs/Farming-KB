@@ -1,5 +1,5 @@
 ---
-title: Sporulation Linked Geotropism Psilocybe Cubensis Gill Hormone
+title: Sporulation Linked Geotropism Basidiocarp Four Stage Development Classification Psilocybe Cubensis Badham 1982 Gill Hormone
 aliases: [spore geotropism connection, gill hormone geotropism, sporulation sporeless-mutant-geotropism-link-psilocybe-cubensis, pileus reorientation mechanism]
 tags: [mycology, tropism, geotropism, sporulation, psilocybe-cubensis, mushroom-physiology, hormonal-control, basidiocarp]
 sources:
@@ -18,7 +18,7 @@ The development of *P. cubensis* basidiocarps follows a two-phase directed growt
 
 ### Phase 1: Anemotropism (Stages 1-2)
 
-During early development, the stipe grows toward the direction of greatest evaporative demand, which typically means growing **into the wind**. This phase:
+During early development, the stipe grows toward the direction of greatest [[anemotropism-evaporative-demand-fungi]], which typically means growing **into the wind**. This phase:
 
 - Occurs in both fertile (spore-producing) and sterile (sporeless) basidiocarps
 - Happens in both light and darkness
@@ -53,13 +53,13 @@ The sporeless mutant grows normally through Phase 1, curving into the wind just 
 
 The existence of a mushroom "growth hormone" has been postulated by several researchers:
 
-- **Gruen (1963)** — Proposed endogenous growth regulation in carpophores of *[[agaricus-bisporus]]*
-- **Hagimoto (1963)** — Linked a [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] to geotropic response in *Agaricus bisporus*
+- **Gruen (1963)** — Proposed endogenous [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]] in carpophores of *[[agaricus-bisporus]]*
+- **Hagimoto (1963)** — Linked a [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] to geotropic response in *[[agaricus-bisporus-cultivation-biology]]*
 - **Hagimoto and Konishi (1960)** — Showed that agar diffusates from the gills can partially replace the influence of the pileus
 
 ### Decapitation Experiments
 
-Surgical removal of the pileus (decapitation) abolishes tropic responses in developing mushrooms. The effect can be partially restored by applying agar diffusates collected from the gill (lamellar) surface. This strongly suggests that the gills produce a diffusible substance — likely a hormone or growth regulator — that influences stipe growth direction.
+Surgical removal of the pileus (decapitation) abolishes [[fungal-tropic-responses]] in developing mushrooms. The effect can be partially restored by applying agar diffusates collected from the gill (lamellar) surface. This strongly suggests that the gills produce a diffusible substance — likely a hormone or growth regulator — that influences stipe growth direction.
 
 ### Proposed Mechanism for Sporulation-Linked Geotropism
 
@@ -85,7 +85,7 @@ Light plays a complex role in this system:
 
 The chemical identity of the gill-produced tropic hormone remains unknown. Several candidates have been investigated:
 
-- **Indole acetic acid (IAA)** — Found in *Agaricus bisporus* fruitbodies (Konishi and Hagimoto, 1961), but no evidence suggests it regulates mushroom tropisms
+- **Indole acetic acid (IAA)** — Found in *Agaricus bisporus* fruitbodies (Konishi and Hagimoto, 1961), but no evidence suggests it regulates [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
 - **Gibberellin-like substances** — Detected in basidiomycete sporophores (Pegg, 1973), but functional role unclear
 - **Ethylene** — Implicated in autochemotropism of *Phycomyces* (Russo et al., 1977), a related fungus that shows similar tropic responses
 

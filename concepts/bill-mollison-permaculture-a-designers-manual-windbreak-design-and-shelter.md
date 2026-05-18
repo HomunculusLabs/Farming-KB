@@ -1,5 +1,5 @@
 ---
-title: Bill Mollison Permaculture A Designers Manual Windbreak Design And Shelter
+title: Bill Mollison Permaculture A Designers Manual Animal Systems In Permaculture Bill Mollison Permaculture A Designers Manual Earthworking And Earth Resources Windbreak Design And Configuration Shelter
 source: bill-mollison-permaculture-a-designers-manual.md
 source_author: bill-mollison
 category: permaculture

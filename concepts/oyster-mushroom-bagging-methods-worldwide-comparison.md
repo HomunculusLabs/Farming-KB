@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Bagging Methods Worldwide Comparison
+title: Comparison Chaga Vs Oyster Mushroom Bagging Methods Worldwide Comparison
 source: "MushWorld - oyster-mushroom-cultivation (Mushrooms Handbook Vol. 1)"
 topic: mushroom-cultivation
 tags: [oyster-mushroom, bagging, cultivation, substrate, worldwide, packaging]
@@ -26,7 +26,7 @@ first method is recommended to minimise [[growing-gourmet-growing-room-ventilati
 
 ### Bangladesh
 
-About 500 g of mango sawdust is mixed with wheat bran in a ratio of 4:1, then
+About 500 g of mango sawdust is mixed with [[wheat-bran]] in a ratio of 4:1, then
 watered and sterilised before being put into polypropylene bags measuring
 25 × 20 cm. The small bag size suits the sawdust-based substrate and limited
 scale of operations typical in Bangladeshi smallholder cultivation.

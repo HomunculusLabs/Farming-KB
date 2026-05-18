@@ -5,8 +5,8 @@ tags: [mycorrhizae, inoculation, inoculum-production, biofertilizers, soil-biolo
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/lowenfels-teaming-with-fungi.md
-  - /Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md
+  - "raw/papers/lowenfels-teaming-with-fungi.md"
+  - "raw/papers/symbiotic-fungi.md"
 related_concepts:
   - mycorrhizal-fungi
   - mycorrhizal-inoculation-guide

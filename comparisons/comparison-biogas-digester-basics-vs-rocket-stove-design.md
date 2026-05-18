@@ -10,9 +10,9 @@ sources: []
 
 ## Overview
 
-Biogas digesters and rocket stoves are two distinct approaches to
+[[biogas-digesters-and-anaerobic-digestion-systems]] rocket stoves are two distinct approaches to
 sustainable homestead energy. A biogas digester converts organic waste
-into methane-rich gas through anaerobic fermentation, producing
+into methane-rich gas through [[jadam-anaerobic-fermentation]], producing
 cooking fuel and liquid fertilizer simultaneously. A rocket stove burns
 small-diameter wood in an insulated combustion chamber, achieving
 near-complete combustion with minimal smoke and fuel use. Both reduce
@@ -75,16 +75,16 @@ any climate, with any dry woody biomass — no biology to manage, no
 temperature-sensitive microbes, no plumbing. The ultra-low cost
 (free to $50 for a basic build) and 10-minute assembly make them
 accessible to anyone. Rocket stoves also pair well with thermal mass
-systems (rocket mass heaters) for space heating in cold climates,
+systems (rocket mass heaters) for space heating [[query-how-do-i-grow-figs-in-cold-climates]],
 a function biogas cannot easily serve. For occasional cooking,
-emergency preparedness, or situations where fuelwood is abundant but
+[[emergency-preparedness]], or situations where fuelwood is abundant but
 organic waste is scarce, rocket stoves are the practical choice. Their
-simplicity means nearly zero maintenance and no failure modes beyond
+simplicity means nearly zero maintenance and no [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]] beyond
 physical damage.
 
 ## Combined Systems
 
-A permaculture homestead can benefit from running both systems
+[[query-how-do-i-keep-goats-on-a-permaculture-homestead]] can benefit from running both systems
 simultaneously. The rocket stove handles rapid-demand cooking and
 space heating with gathered woody biomass, while the biogas digester
 processes manure and food waste to provide a baseline supply of

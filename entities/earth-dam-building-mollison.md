@@ -9,7 +9,7 @@ tags: [water-management, earthworks, dam-construction, permaculture]
 
 ## Description
 
-Earth dam building is the construction of water-retaining structures using compacted soil, primarily clay and earth materials, to create on-farm water storages. Small earth dams are among the most cost-effective water storage methods available, storing approximately 100 times more water per unit cost than concrete tanks. They are a cornerstone of permaculture water management and Keyline design systems.
+Earth dam building is the construction of water-retaining structures using compacted soil, primarily clay and earth materials, to create on-farm water storages. Small earth dams are among the most cost-effective water [[culture-storage-methods]] available, storing approximately 100 times more water per unit cost than concrete tanks. They are a cornerstone of permaculture water management and Keyline design systems.
 
 ## Classification
 
@@ -78,18 +78,18 @@ Earth dams are central to permaculture because they provide:
 
 1. **Low-cost water storage** enabling drought-proofing of farms and settlements
 2. **Gravity-fed irrigation** when positioned above use points
-3. **Biological water purification** when fenced and planted to 30–60 m of forest surround
-4. **Microclimate modification** through water body thermal mass
+3. **[[biological-water-purification]]** when fenced and planted to 30–60 m of forest surround
+4. **[[tree-temperature-effects-and-microclimate-modification]]** through water body thermal mass
 5. **Aquaculture opportunities** with proper sealing and stocking
 6. **Fire protection** when integrated with spill gate and sheet irrigation systems
 
-The combination of dams with Keyline design, swales, and diversion drains creates a complete water management system that captures, stores, and distributes water across the landscape using only gravity and natural processes.
+The combination of dams with Keyline design, swales, and [[diversion-drains-and-spreader-banks]] creates a complete water management system that captures, stores, and distributes water across the landscape using only gravity and natural processes.
 
 ## Relationships to Other Entities
 
-- [[gley-pond-sealing-mollison]]: Anaerobic fermentation sealing method
+- [[gley-pond-sealing-mollison]]: [[jadam-anaerobic-fermentation]] sealing method
 - [[swale]]: Complementary water infiltration structures
-- [[check-dam-mollison]]: Smaller erosion control structures
+- [[check-dam-mollison]]: Smaller [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] structures
 - [[p-a-yeomans]]: Pioneer of Keyline farm water design
 
 ## Sources

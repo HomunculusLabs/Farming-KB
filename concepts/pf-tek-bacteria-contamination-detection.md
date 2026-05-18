@@ -5,7 +5,7 @@ tags: [mycology, contamination, bacteria, safety, pf-tek]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
+  - "raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
 type: concept
 ---
 

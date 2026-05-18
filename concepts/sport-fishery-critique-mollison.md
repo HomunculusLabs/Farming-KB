@@ -80,7 +80,7 @@ This section encapsulates Mollison's broader political critique: that government
 
 ## Sources
 
-- Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Section 7.4.
+- Mollison, B. Permaculture Two: Practical Design for Town & Country in [[earthcare-ethics-and-permanent-agriculture]]. Tagari Books, 1979. Section 7.4.
 - Sciences Council of Canada, 1979.
 
 #permaculture #fisheries-policy #sport-fishing #aquaculture-policy #estuarine-fishery #polyculture #public-policy

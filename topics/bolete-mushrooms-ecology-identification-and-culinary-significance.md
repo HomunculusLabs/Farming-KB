@@ -5,8 +5,8 @@ tags: [mycology, mushrooms, boletes, foraging, ecology, mycorrhizal, culinary, t
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md
-  - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+  - "raw/papers/carolina-mushrooms_08qxp.md"
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 related_concepts:
   - porcini-boletus-guide
   - bolete-mushrooms-ecology-edibility

@@ -29,7 +29,7 @@ Actinomycetes are a group of Gram-positive, largely aerobic bacteria belonging t
 
 ### Nitrogen Cycling
 
-- **Nitrogen fixation**: *Frankia* species form actinorhizal symbioses with over 200 species of angiosperm plants (alders, casuarinas, bayberries), fixing atmospheric N₂ in root nodules analogous to rhizobial symbioses. These associations are critical for nitrogen input in boreal forests, riparian zones, and nutrient-poor soils.
+- **[[biological-nitrogen-fixation-agriculture]]**: *Frankia* species form actinorhizal symbioses with over 200 species of angiosperm plants (alders, casuarinas, bayberries), fixing atmospheric N₂ in root nodules analogous to rhizobial symbioses. These associations are critical for nitrogen input in [[biodiversity-fungi-temperate-boreal-forests]], riparian zones, and nutrient-poor soils.
 - **Nitrification**: Some actinomycetes participate in nitrification, though the primary nitrifiers are autotrophic bacteria (*Nitrosomonas*, *Nitrobacter*) and archaea.
 - **Protein decomposition**: Actinomycetes are prolific producers of extracellular proteases, breaking down proteins and peptides into amino acids that become available for plant uptake.
 
@@ -43,18 +43,18 @@ Several actinomycetes solubilize insoluble phosphates through:
 
 ## Plant Growth Promotion
 
-Actinomycetes promote plant growth through both direct and indirect mechanisms:
+Actinomycetes [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]] through both direct and indirect mechanisms:
 
 ### Direct Mechanisms
 
 - **Indole-3-acetic acid (IAA) production**: *Streptomyces* species synthesize auxin-like compounds that stimulate root elongation, lateral root formation, and increased root surface area.
-- **Siderophore production**: Desferrioxamine-type siderophores chelate iron (Fe³⁺) from the soil, making it available to plant roots while simultaneously denying iron to pathogenic microorganisms.
+- **[[singh-fungal-siderophore-production-iron-acquisition]]**: Desferrioxamine-type siderophores chelate iron (Fe³⁺) from the soil, making it available to plant roots while simultaneously denying iron to pathogenic microorganisms.
 - **Phosphate solubilization**: As described above, organic acid and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance.
 
 ### Indirect Mechanisms (Biocontrol)
 
 - **Antibiotic production**: *Streptomyces* produce an enormous diversity of antibiotics—tetracyclines, streptomycin, neomycin, chloramphenicol, and hundreds more. In soil, these suppress plant pathogens at sub-clinical concentrations.
-- **Lytic enzymes**: Chitinases, glucanases, and proteases directly degrade pathogen cell walls.
+- **Lytic enzymes**: Chitinases, glucanases, and proteases directly degrade [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
 - **Competition**: Rapid colonization of root surfaces and rhizosphere soil physically excludes pathogens from niches and nutrients.
 - **Induced Systemic Resistance (ISR)**: *Streptomyces* lipopeptides and other elicitors prime plant immune responses, enhancing resistance to foliar pathogens.
 
@@ -67,7 +67,7 @@ Actinomycetes are among the most thermotolerant bacteria, with many species grow
 - *Thermoactinomyces* and *Thermomonospora* become dominant
 - They degrade cellulose, hemicellulose, and proteins that resist degradation at lower temperatures
 - Their metabolic heat contributes to maintaining thermophilic conditions
-- The breakdown products serve as substrates for mesophilic organisms during the curing phase
+- The breakdown products serve as substrates for [[mesophilic-organisms]] during the curing phase
 
 ### The Earthy Smell of Finished Compost
 
@@ -76,6 +76,6 @@ Geosmin (trans-1,10-dimethyl-trans-9-decalol) is synthesized by the enzyme geosm
 - Is produced during the transition from vegetative growth to sporulation
 ## See Also
 
-- [[mycelium-networks-and-fungal-ecology|Mycelium Networks and Fungal Ecology]]
+- [[mycelium-networks-and-fungal-ecology]]
 - [[vermicomposting-and-earthworm-ecology]]
-- [[bacteriophages-and-viral-ecology|Bacteriophages and Viral Ecology]]
+- [[bacteriophages-and-viral-ecology]]

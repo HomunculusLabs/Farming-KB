@@ -20,7 +20,7 @@ A wound-healing and anti-inflammatory salve made from the whole calendula plant.
 1. Cut two heaped double handfuls of calendula (whole plant including stem, leaves, and flowers) finely
 2. Heat roughly half a litre of lard (available from a butcher) in a pan
 3. Carefully fry the calendula in the lard, keeping it moving
-4. Alternative: use olive oil or other vegetable oil instead of lard
+4. Alternative: use [[olive-cultivation-and-olive-oil-production]] or other vegetable oil instead of lard
 5. Cover the mixture and leave to stand for one day
 6. Lightly warm, then filter through a cloth into a container
 
@@ -38,7 +38,7 @@ Calendula salve treats all kinds of injuries — it encourages wounds to heal an
 
 ## Lemon Thyme and Thyme Oil
 
-An old remedy for sprains, rheumatism, and stroke recovery.
+An old remedy for sprains, rheumatism, and [[cannabis-for-stroke-recovery]].
 
 ### Recipe
 
@@ -111,11 +111,11 @@ An old traditional remedy made from rendered animal bones, used for wounded live
 - Treatment of wounded livestock
 - Watered-down form spread on draught animals to protect from flies and horseflies at haymaking/harvest times
 - Deterrent against bark stripping in forest cultures
-- Protection for fruit trees from rodent gnawing — mix with linseed oil, fresh cow dung, slaked lime, and very fine quartz sand to paintable consistency
+- Protection [[query-how-to-design-a-food-forest-guild-for-fruit-trees]] from rodent gnawing — mix with linseed oil, fresh cow dung, slaked lime, and very fine quartz sand to paintable consistency
 
 ## Sage Tea (Salvia officinalis)
 
-Mentioned by Holzer as a well-established remedy. Sage nutrient content is greatest when grown in a sunny place without fertiliser.
+Mentioned by Holzer as a well-established remedy. Sage [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] is greatest when grown in a sunny place without fertiliser.
 
 ### Uses
 
@@ -124,6 +124,6 @@ Mentioned by Holzer as a well-established remedy. Sage nutrient content is great
 
 ## Related
 
-- [[sepp-holzer-method]] — Holzer's broader permaculture philosophy and techniques
-- [[alkaline-soil-plants]] — many medicinal herbs tolerate alkaline conditions
+- [[sepp-holzer-method]] — Holzer's broader [[permaculture-philosophy-and-ethics]] techniques
+- [[alkaline-soil-plants]] — many [[medicinal-herbs-for-livestock]] tolerate alkaline conditions
 - [[soil-food-web-nutrient-cycling]] — healthy soil grows more potent medicinal plants

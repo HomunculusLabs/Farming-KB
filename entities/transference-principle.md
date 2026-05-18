@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Transference Principle is a concept from Tibetan Buddhist practice adapted by Leary in "The Psychedelic Experience." It refers to the advanced spiritual technique whereby a practitioner of "extremely advanced spiritual development" can, at the moment of ego-death, transfer consciousness directly to the [[dharma-kaya]] state without traversing the subsequent Second and Third Bardo stages. In Leary's psychedelic framework, this represents the ability of well-prepared, meditation-proficient individuals to immediately recognize and abide in the [[clear-light]] of the First Bardo for the entire duration of a psychedelic session.
+The Transference Principle is a concept from Tibetan Buddhist practice adapted by Leary in "The [[leary-psychedelic-experience-bardo-mapping]]." It refers to the advanced spiritual technique whereby a practitioner of "extremely advanced spiritual development" can, at the moment of ego-death, transfer consciousness directly to the [[dharma-kaya]] state without traversing the subsequent Second and Third Bardo stages. In Leary's psychedelic framework, this represents the ability of well-prepared, meditation-proficient individuals to immediately recognize and abide in the [[clear-light]] of the First Bardo for the entire duration of a [[psychedelic-session-instructions]].
 
 ## Classification
 
@@ -48,8 +48,8 @@ The Transference Principle corresponds to the Tibetan Buddhist practice of Phowa
 The Transference Principle is relevant to modern psychedelic practice:
 
 - Represents the ideal outcome of a well-prepared psilocybin session — immediate, sustained ego dissolution
-- Emphasizes the critical importance of preparation (set) before consuming psychedelic mushrooms
-- Meditation practice as preparation for mushroom sessions is supported by modern research showing meditators have deeper psychedelic experiences
+- Emphasizes the critical importance of preparation (set) before consuming [[archaeology-of-psychedelic-mushrooms]]
+- Meditation practice as [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation]] sessions is supported by modern research showing meditators have deeper psychedelic experiences
 - The concept of "transferring" consciousness parallels the modern understanding of intention-setting in psychedelic therapy
 - Cultivators who understand this framework can better prepare themselves and others for optimal experiences with their products
 
@@ -60,7 +60,7 @@ The Transference Principle is relevant to modern psychedelic practice:
 - Tibetan Buddhist teachings on Phowa (Six Yogas of Naropa)
 ## Historical Context
 
-This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the historical development provides important context for current perspectives and applications.
+This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the [[historical-development-of-mushroom-cultivation]] provides important context for current perspectives and applications.
 ## Key Characteristics
 
 Several defining features distinguish this subject from related topics. These characteristics inform both practical applications and theoretical understanding.
@@ -72,7 +72,7 @@ The principles discussed here have been applied in various contexts, from tradit
 This topic intersects with several broader themes and specialized areas of study. Understanding these connections provides a more complete picture of the subject matter.
 ## Contemporary Relevance
 
-Current research and practice continue to draw on these foundational concepts. Modern approaches often integrate traditional knowledge with contemporary understanding.
+Current research and practice continue to draw on these foundational concepts. Modern approaches often integrate [[wasted-human-resources-and-traditional-knowledge]] with contemporary understanding.
 ## Cultural Significance
 
 The cultural impact of this subject extends across communities and traditions. Its influence can be observed in various forms of expression and practice.

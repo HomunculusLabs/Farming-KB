@@ -16,7 +16,7 @@ sources:
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
   - Emboden, W. (1972). "Ritual Use of comparison-cannabis-sativa-vs-cannabis-indica L." Economic Botany 26(3): 264–276.
   - Small, E. & Cronquist, A. (1976). "A practical and natural taxonomy for Cannabis." Taxon 25(4): 405–435.
-  - McPartland, J.M. (2018). "Cannabis: Sativa, Indica, and the Origin of 'Kush'." Journal of Cannabis Research 1: 1.
+  - McPartland, J.M. (2018). "Cannabis: Sativa, Indica, and the Origin of 'Kush'." Journal of [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]] 1: 1.
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Thomas.
 created: 2026-05-07
 ---
@@ -72,7 +72,7 @@ reflecting its landrace genetics.
 ## Overview
 
 Hindu Kush represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -86,7 +86,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving hindu extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for hindu kush. Climate adaptation
+opportunities for hindu kush. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 hindu kush and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

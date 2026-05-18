@@ -15,11 +15,11 @@ sources:
     url: https://catalog.extension.oregonstate.edu/ec1627
   - title: Royal Horticultural Society — Gooseberry comparison-bean-growing-guide-vs-pepper-growing-guide
     url: https://www.rhs.org.uk/fruit/gooseberries/grow-your-own
-  - title: Royal Horticultural Society — Blackcurrant Growing Guide
+  - title: Royal Horticultural Society — Blackcurrant [[alliums-growing-guide]]
     url: https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own
   - title: University of Minnesota Extension — Growing Gooseberries and Currants
     url: https://extension.umn.edu/product-and-plant-selection/growing-gooseberries-and-currants
-  - title: North Carolina State University Extension — Muscadine and Bunch grape-growing-guide (Ribes pest reference)
+  - title: [[north-carolina-mycodiversity]] State University Extension — Muscadine and Bunch grape-growing-guide (Ribes pest reference)
     url: https://content.ces.ncsu.edu/
 created: 2026-05-03
 type: query
@@ -27,7 +27,7 @@ type: query
 
 # How Do I Grow Gooseberries and Currants?
 
-Gooseberries and currants (*Ribes* genus) are among the most cold-hardy and productive fruiting shrubs for temperate climates, well-suited to [[query-how-to-grow-black-currants-at-home]]** (*R. nigrum*) — Strong, musky flavor; highest vitamin C; fruit on 1-2 year old wood; most shade-tolerant.
+Gooseberries and currants (*Ribes* genus) are among the most cold-hardy and productive [[serviceberry-and-native-fruiting-shrubs]] for [[fukuoka-natural-farming-temperate-climates]], well-suited to [[query-how-to-grow-black-currants-at-home]]** (*R. nigrum*) — Strong, musky flavor; highest vitamin C; fruit on 1-2 year old wood; most shade-tolerant.
 - **Red currants** (*R. rubrum*) — Tart berries on long strigs; excellent for jellies; upright habit.
 - **White/pink currants** (*R. rubrum* cultivars) — Sweeter, milder versions of red currants; same culture.
 
@@ -39,7 +39,7 @@ All share similar growing requirements but differ in pruning needs and fruiting 
 2. Mix [[compost]] into the backfill at a 1:3 ratio.
 3. For black currants, plant 2-3 inches deeper than the nursery mark to encourage basal shoots. For gooseberries and red/white currants, plant at the same depth.
 4. Backfill, firm gently, and water thoroughly.
-5. Apply 3-4 inches of organic mulch, keeping it 2 inches from the stem.
+5. Apply 3-4 inches of [[organic-mulch]], keeping it 2 inches from the stem.
 6. Cut back bare-root plants to 4-6 inches above ground to encourage root establishment.
 
 ## How Do I Prune Gooseberries and Currants?
@@ -79,7 +79,7 @@ Always prune during dormancy. Remove dead, diseased, and crossing branches first
 
 - **'Ben Hope'** — Best disease resistance, high yield.
 - **'Consort'** — White pine blister rust resistant, reliable in cold zones.
-- **'Titania'** — Mildew-resistant, large berries, good for organic growing.
+- **'Titania'** — Mildew-resistant, large berries, good for [[query-what-is-the-role-of-trichoderma-in-organic-growing]].
 
 Choose disease-resistant varieties — they dramatically reduce maintenance for beginners.
 

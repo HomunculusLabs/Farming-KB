@@ -5,10 +5,10 @@ tags: [lsd, psychedelics, pharmacology, history, counterculture, serotonin, hofm
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md
-  - /Users/t3rpz/wiki/raw/papers/leary-t-the-psychedelic-experience.md
-  - /Users/t3rpz/wiki/raw/papers/turner-d-m-the-essential-psychedelics-guide.md
-  - /Users/t3rpz/wiki/raw/papers/powell-s-g-the-psilocybin-solution.md
+  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
+  - "raw/papers/turner-d-m-the-essential-psychedelics-guide.md"
+  - "raw/papers/powell-s-g-the-psilocybin-solution.md"
 related_concepts:
   - lsd-discovery-and-history
   - lsd-pharmacology

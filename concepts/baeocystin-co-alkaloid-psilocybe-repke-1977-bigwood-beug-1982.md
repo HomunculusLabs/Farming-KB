@@ -2,7 +2,7 @@
 title: Baeocystin as a Co-Alkaloid in Psilocybe — The Repke 1977 Reference
 source: raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 author: Bigwood & Beug (1982), citing Repke et al. (1977)
-topic: mycology, alkaloid chemistry, tryptamine compounds
+topic: mycology, [[ergot-alkaloid-chemistry-history]], tryptamine compounds
 mined: 2026-05-11
 ---
 
@@ -14,7 +14,7 @@ In their 1982 study of [[psilocybin-variation-across-flushes]],
 Bigwood and Beug referenced a key paper by Repke, Leslie, and Guzman (1977)
 that documented the presence of baeocystin in *Psilocybe*, *Conocybe*, and
 *Panaeolus* species. This reference highlights baeocystin as a third
-bioactive tryptamine alkaloid commonly found alongside psilocybin and
+bioactive [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] commonly found alongside psilocybin and
 psilocin in psilocybin-containing mushrooms.
 
 ## What Is Baeocystin?
@@ -39,7 +39,7 @@ distribution across psilocybin-containing genera. Key findings included:
 
 - Baeocystin was detected in multiple species of *Psilocybe*, *Conocybe*,
   and *Panaeolus*
-- Its presence correlated with the presence of psilocybin and psilocin
+- Its presence correlated with the presence of [[hplc-analysis-of-psilocybin-and-psilocin]]
 - The relative concentration of baeocystin varied considerably between
   species, suggesting species-specific regulation of the methylation pathway
 - Baeocystin was generally present at lower concentrations than psilocybin
@@ -63,7 +63,7 @@ This raises important questions about their results:
    accumulate in early flushes and be converted to psilocybin in later ones,
    or it might show its own independent temporal dynamics.
 
-2. **Was the total tryptamine alkaloid content more stable across flushes
+2. **Was the total tryptamine alkaloid content more stable [[psilocin-accumulation-pattern-across-flushes]]
    than psilocybin or psilocin alone?** The fourfold variation in psilocybin
    levels that Bigwood and Beug observed might partially reflect
    interconversion between related alkaloids rather than net changes in total
@@ -77,7 +77,7 @@ This raises important questions about their results:
 
 ## Analytical Challenges
 
-The presence of multiple structurally similar tryptamine alkaloids creates
+The presence of multiple structurally similar [[hplc-analysis-of-tryptamine-alkaloids]] creates
 challenges for analytical chemistry:
 
 - **HPLC separation**: Baeocystin must be chromatographically resolved from
@@ -110,7 +110,7 @@ profile.
 - Repke, D.B., Leslie, D.T. and Guzman, G. (1977). Baeocystin in
   *Psilocybe*, *Conocybe* and *Panaeolus*. Lloydia, 40, 566-578.
 - Bigwood, J. and Beug, M.W. (1982). Variation of psilocybin and psilocin
-  levels with repeated flushes of *Psilocybe cubensis*. J. Ethnopharmacol.
+  levels with repeated flushes of *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]*. J. Ethnopharmacol.
   5, 287-291.
 - Chilton, W.S., Bigwood, J. and Jensen, R. (1979). Psilocin, bufotenine
   and serotonin: Historical and biosynthetic observations. J. Psychedelic

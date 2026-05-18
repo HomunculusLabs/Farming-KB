@@ -44,7 +44,7 @@ The genus Scleroderma (earth balls) is related but has dark interior flesh even 
 
 ## Relevance to Cultivation and Mycology
 
-Lycoperdon species occupy an important niche in mycological education and foraging safety. They represent one of the safest groups for novice foragers because they lack gills, have no dangerous lookalikes with white flesh, and cannot be confused with the deadly [[amanita-genus]] when basic identification principles are followed.
+Lycoperdon species occupy an important niche in [[palmer-mushroom-charts-american-mycological-education]] and foraging safety. They represent one of the safest groups for novice foragers because they lack gills, have no dangerous lookalikes with white flesh, and cannot be confused with the deadly [[amanita-genus]] when basic identification principles are followed.
 
 Key safety rules for puffball identification:
 
@@ -57,11 +57,11 @@ The anesthetic properties of mature puffballs represent a historically interesti
 
 ## Historical Notes
 
-Palmer discusses Lycoperdon in the context of a poisoning case where a family stewed puffballs together with an Amanita specimen. The mixture complicated the clinical picture, as the puffballs' own mild anesthetic properties may have interacted with the Amanita alkaloid. Palmer states that puffballs "contain an anesthetic, of which little is known" while emphasizing that young specimens "may be eaten with safety" — a fact he describes as among the most certain in all of mycology.
+Palmer discusses Lycoperdon in the context of a poisoning case where a family stewed puffballs together with an Amanita specimen. The mixture complicated the clinical picture, as the puffballs' own mild anesthetic properties may have interacted with the [[amanita-alkaloid-medicinal-uses-pilocarpine-treatment]]. Palmer states that puffballs "contain an anesthetic, of which little is known" while emphasizing that young specimens "may be eaten with safety" — a fact he describes as among the most certain in all of mycology.
 
 ## Historical Context
 
-This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the historical development provides important context for current perspectives and applications.
+This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the [[historical-development-of-mushroom-cultivation]] provides important context for current perspectives and applications.
 ## Key Characteristics
 
 Several defining features distinguish this subject from related topics. These characteristics inform both practical applications and theoretical understanding.
@@ -73,9 +73,9 @@ The principles discussed here have been applied in various contexts, from tradit
 This topic intersects with several broader themes and specialized areas of study. Understanding these connections provides a more complete picture of the subject matter.
 ## Contemporary Relevance
 
-Current research and practice continue to draw on these foundational concepts. Modern approaches often integrate traditional knowledge with contemporary understanding.
+[[psychedelic-therapy-current-research]] and practice continue to draw on these foundational concepts. Modern approaches often integrate [[wasted-human-resources-and-traditional-knowledge]] with contemporary understanding.
 ## See Also
 
 - [[amanita]] — the deadly genus sometimes confused with young puffballs
 - [[amanitine]] — the poison unique to Amanita species
-- [[solanaceae]] — the nightshade family providing antidotes to mushroom poisoning
+- [[solanaceae]] — the nightshade family providing antidotes to [[amanita-toxins-and-mushroom-poisoning]]

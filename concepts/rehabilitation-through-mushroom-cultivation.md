@@ -6,7 +6,7 @@ tags: [rehabilitation, disability-inclusion, mushroom-cultivation,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+  - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
 type: concept
 ---
 

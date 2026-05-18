@@ -13,7 +13,7 @@ type: entity
 - **Domain**: Biology / Chronobiology
 - **Category**: Biological timing mechanism
 - **Subcategory**: Endogenous diurnal rhythm
-- **Related concepts**: Biological pulsers, melatonin, pineal gland, biological clocks, photoperiodism
+- **Related concepts**: [[biological-pulsers]], melatonin, pineal gland, biological clocks, photoperiodism
 
 ## Key Facts
 
@@ -36,7 +36,7 @@ Circadian rhythms are critically important in mycology. The bread mold *[[lentin
 - **Light**: Primary zeitgeber (time-giver) for most organisms; even brief flashes can shift the clock.
 - **Temperature**: Temperature cycles can entrain circadian rhythms, particularly in fungi.
 - **Humidity**: Diurnal humidity cycles influence fungal growth and fruiting.
-- **Chemical signals**: Oxygen pulses, cyclic AMP, and hormonal signals participate in clock regulation.
+- **[[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]**: Oxygen pulses, cyclic AMP, and hormonal signals participate in clock regulation.
 
 ## Source Reference
 
@@ -50,7 +50,7 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 4, section on pulser
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
-- Relates to fundamental principles of natural system design
+- Relates to fundamental [[four-principles-of-natural-farming]] system design
 - Has applications across multiple disciplines and contexts
 - Understanding this topic supports better environmental stewardship
 
@@ -67,14 +67,14 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 4, section on pulser
 - Understanding requires both theoretical and practical knowledge
 
 ## Ecological Role
-- Contributes to ecosystem function and resilience
+- Contributes to [[dighton-mycorrhizal-diversity-ecosystem-function]] and resilience
 - Supports biodiversity and habitat complexity
 - Plays role in natural nutrient cycling processes
 - Influenced by landscape-level patterns and processes
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
-- Used in conservation and ecological restoration projects
+- Applied in [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
+- Used in conservation and [[mycorrhizal-fungi-ecological-restoration]] projects
 - Informs decision-making in agricultural and horticultural systems
 - Supports development of regenerative practices
 

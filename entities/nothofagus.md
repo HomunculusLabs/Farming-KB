@@ -9,7 +9,7 @@ tags: [genus, plant, tree, southern-beech, forest, nutrient-cycling]
 
 ## Description
 
-Nothofagus, commonly known as southern beech, is a genus of trees in the family Nothofagaceae native to the Southern Hemisphere, including South America, New Zealand, Australia, and parts of Oceania. Nothofagus forests are important temperate forest ecosystems where fungal-mediated nutrient cycling has been extensively studied. The genus is notable for its [[ectomycorrhizal-associations]] and the diversity of fungal fruit bodies produced in its forests.
+Nothofagus, commonly known as southern beech, is a genus of trees in the family Nothofagaceae native to the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], including South America, New Zealand, Australia, and parts of Oceania. Nothofagus forests are important temperate forest ecosystems where fungal-mediated nutrient cycling has been extensively studied. The genus is notable for its [[ectomycorrhizal-associations]] and the diversity of fungal fruit bodies produced in its forests.
 
 ## Classification
 
@@ -24,7 +24,7 @@ Nothofagus, commonly known as southern beech, is a genus of trees in the family 
 
 - Nothofagus forests support abundant fungal fruit body production from both mycorrhizal and saprotrophic [[basidiomycetes]], making them key systems for studying fungal nutrient dynamics.
 - Clinton et al. (1999) measured nutrient concentrations in fungal fruit bodies and underlying forest floor substrates in Nothofagus forests, demonstrating elevated nutrient levels in fungal tissue.
-- All elements except calcium are more concentrated in fungal fruit bodies than in surrounding forest floor material, indicating active fungal immobilization and concentration of nutrients.
+- All elements except calcium are more concentrated in fungal fruit bodies than in surrounding forest floor material, indicating active [[staycare-fungal-immobilization-and-entrapment-for-bioremediation]] concentration of nutrients.
 - Forest floor mushrooms showed N at 35 mg/kg vs. 8.7 in substrate, P at 4 vs. 1.0, K at 22 vs. 3.5, and Mg at 0.8 vs. 0.1.
 - Deadwood mushrooms showed even more dramatic concentration effects: N at 31 vs. 1.5, P at 5 vs. 0.2, K at 19 vs. 0.1 in the deadwood substrate.
 
@@ -48,11 +48,11 @@ Calcium is the only element more concentrated in substrate than in fungal fruit 
 - Nothofagus forests illustrate the role of fungal fruit bodies as nutrient concentrators and temporary nutrient reservoirs
 - Seasonal fruit body production (spring and fall) may coincide with peak root growth and nutrient demand by trees, suggesting an evolved synchrony
 - [[decomposition]] of fruit body material is faster than surrounding forest floor material, creating localized hot spots of nutrient release
-- The duration of nutrient immobilization in hyphae before translocation to fruit bodies represents an important temporal control on nutrient release timing
+- The duration of [[fungal-nutrient-immobilization-and-cycling]] in hyphae before translocation to fruit bodies represents an important temporal control on nutrient release timing
 
 ## Relevance to Cultivation and Mycology
 
-- Nothofagus-associated fungi demonstrate how fruit bodies serve as nutrient redistribution mechanisms, relevant to understanding mushroom nutrition in cultivation
+- Nothofagus-associated fungi demonstrate how fruit bodies serve as nutrient redistribution mechanisms, relevant to understanding [[cotter-mushroom-nutrition-medicinal-compounds]] in cultivation
 - The concentration effect (fungal tissue having much higher nutrient levels than substrate) shows that fungi actively import and concentrate nutrients
 - Understanding calcium dynamics (lower in fruit bodies than substrate) is relevant to calcium supplementation in [[mushroom-cultivation]]
 - The C:N ratios of fungal fruit bodies (13-19) are much lower than most plant substrates, indicating efficient carbon metabolism
@@ -61,7 +61,7 @@ Calcium is the only element more concentrated in substrate than in fungal fruit 
 ## Key References
 
 - Clinton et al. (1999) — Nutrient concentrations in fungal fruit bodies vs. forest floor substrates
-- Dighton (1997) — Fungal colonization patterns in forest ecosystems
+- Dighton (1997) — Fungal [[arbuscular-mycorrhizal-colonization-patterns]] in forest ecosystems
 - Fogel and Hunt (1983) — Fungal biomass allocation in temperate forest ecosystems
 
 ## Calcium Dynamics
@@ -71,7 +71,7 @@ A notable finding from Clinton et al. (1999) is that calcium is the only element
 - Deadwood mushrooms: 2.6 mg/kg Ca vs. 2.9 mg/kg in substrate (roughly equal)
 - This contrasts sharply with N (4x higher in mushrooms), P (4-25x higher), K (6-190x higher), and Mg (4-8x higher)
 - The pattern suggests fungi do not actively concentrate calcium or may even exclude it from fruit body tissue
-- This has implications for calcium supplementation in mushroom cultivation
+- This has implications for calcium supplementation [[contamination-prevention-in-mushroom-cultivation]]
 
 ## Temporal Nutrient Release Patterns
 

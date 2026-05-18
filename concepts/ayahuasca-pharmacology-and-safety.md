@@ -5,7 +5,7 @@ tags: [ayahuasca, pharmacology, harmala, dmt, maoi, drug-interactions]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/stuart-r-ayahuasca-tourism.md
+  - "raw/papers/stuart-r-ayahuasca-tourism.md"
 type: concept
 ---
 

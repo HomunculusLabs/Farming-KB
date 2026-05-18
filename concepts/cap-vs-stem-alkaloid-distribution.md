@@ -4,7 +4,7 @@ date: 2026-04-28
 updated: 2026-04-28
 tags: [psilocybin, psilocin, alkaloids, mushroom-anatomy, cap, stem, psilocybe-cubensis]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 type: concept
 ---
 

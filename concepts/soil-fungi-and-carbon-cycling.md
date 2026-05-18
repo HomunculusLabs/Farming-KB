@@ -10,7 +10,7 @@ type: concept
 
 # Soil Fungi and Carbon Cycling
 
-Soil fungi are primary drivers of the terrestrial carbon cycle, mediating the
+Soil fungi are primary drivers of the [[mycorrhizal-contributions-terrestrial-carbon-cycle]], mediating the
 decomposition of organic matter, the formation of stable soil carbon pools, and
 the flux of carbon dioxide between terrestrial ecosystems and the atmosphere.
 Understanding fungal contributions to carbon cycling is critical for predicting
@@ -20,14 +20,14 @@ This transformation occurs through several mechanisms: selective degradation
 of easily metabolized compounds, leaving resistant residues; production of
 fungal necromass (dead hyphal tissue) rich in chitin and melanin; and
 synthesis of extracellular polymeric substances that bind organic matter to
-mineral surfaces.
+[[fungal-community-profiling-rock-mineral-surfaces-gadd]].
 
-Fungal necromass contributes disproportionately to stable soil organic matter.
+Fungal necromass contributes disproportionately to stable [[humus-and-soil-organic-matter]].
 Chitin, the structural polysaccharide of fungal cell walls, is relatively
 resistant to decomposition and associates strongly with soil minerals.
 Melanized hyphae of dark-septate endophytes and dematiaceous fungi persist
 even longer in soil. Studies using compound-specific isotope analysis estimate
-that fungal necromass accounts for 20-60% of total soil organic carbon in
+that fungal necromass accounts for 20-60% of total [[soil-organic-carbon-fractions-turnover-dynamics]] in
 many ecosystems.
 
 ## White-Rot vs Brown-Rot Pathways
@@ -53,7 +53,7 @@ feeding [[soil-food-web]] and contributing to stable carbon pools.
 
 Ectomycorrhizal fungi, which dominate in boreal and temperate forests, produce
 large amounts of recalcitrant necromass and strongly suppress free-living
-saprotrophic decomposition through competitive interactions. This "Gadgil
+[[dighton-fungal-sulfite-effects-saprotrophic-decomposition]] through competitive interactions. This "Gadgil
 effect" means that ECM-dominated forests tend to accumulate more soil carbon
 than AM-dominated forests, a pattern observed across broad geographic
 gradients.
@@ -99,6 +99,6 @@ Documentation of procedures and outcomes supports both personal learning and com
 
 ## Future Directions
 
-Ongoing research and technological development continue to expand the possibilities within this field. Emerging areas of interest include improved monitoring tools, optimized formulations based on microbiome science, and integration with precision agriculture systems. Climate adaptation strategies are becoming increasingly important as practitioners respond to changing environmental conditions.
+Ongoing research and technological development continue to expand the possibilities within this field. Emerging areas of interest include improved monitoring tools, optimized formulations based on microbiome science, and integration with precision agriculture systems. Climate [[mollison-designers-climate-change-adaptation-strategies]] are becoming increasingly important as practitioners respond to changing environmental conditions.
 
 Community knowledge-sharing through online platforms, workshops, and demonstration sites accelerates innovation and reduces barriers to entry for new practitioners. The combination of rigorous scientific methodology with practical field experience promises continued advancement in both understanding and application.

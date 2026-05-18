@@ -13,9 +13,9 @@ Soil is not dirt—it is a living ecosystem teeming with billions of organisms
 in every teaspoon. The **soil food web** is the community of bacteria, fungi,
 protozoa, nematodes, microarthropods, earthworms, and other organisms that
 cycle nutrients, build soil structure, and maintain plant health. Understanding
-and nurturing this community is the foundation of ecological gardening.
+and nurturing this community is the foundation of [[ecological-gardening-principles]].
 
-When we apply chemical fertilizers, we feed plants directly but starve the
+When we apply [[cannabis-chemical-fertilizers]], we feed plants directly but starve the
 soil life that would otherwise provide those nutrients for free. Ecological
 gardening reverses this: we feed the soil, and the soil feeds the plants.
 
@@ -32,7 +32,7 @@ plants and weeds.
 ### Fungi
 
 Fungi break down tough, woody organic matter that bacteria cannot digest. They
-form vast mycelial networks that transport nutrients and water across
+form vast [[ectomycorrhizal-nutrient-cycling-mycelial-networks]] that transport nutrients and water across
 distances. Fungal-dominated soils characterize mature ecosystems such as
 forests and favor perennial plants and trees—the very plants most ecological
 gardeners want to grow.
@@ -41,7 +41,7 @@ gardeners want to grow.
 
 Protozoa are single-celled organisms that eat bacteria. By grazing on
 bacterial populations, they release plant-available nitrogen in a form
-and pace that plants can absorb. This natural nutrient cycling is far more
+and pace that plants can absorb. This natural [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] is far more
 efficient than synthetic fertilization.
 
 ### Nematodes
@@ -70,7 +70,7 @@ side-dress, or incorporate into planting holes.
 
 ### Sheet Mulching
 
-Sheet mulching (also called lasagna gardening) builds soil in place without
+Sheet mulching (also called [[sheet-mulching-lasagna-gardening]]) builds soil in place without
 tilling. Lay down cardboard or newspaper to suppress weeds, then alternate
 layers of nitrogen-rich (green) and carbon-rich (brown) materials. Top with
 mulch. Over months, the layers decompose into rich, worm-filled soil.
@@ -79,7 +79,7 @@ mulch. Over months, the layers decompose into rich, worm-filled soil.
 
 Cover crops protect bare soil, fix nitrogen (legumes), break compaction
 (daikon radish), and add organic matter when cut and dropped as green mulch.
-They keep [[soil-food-web]] fed during fallow periods query how do i garden on a slope and prevent erosion.
+They keep [[soil-food-web]] fed during fallow periods query how do i garden on a [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] erosion.
 
 ### Woody Debris
 

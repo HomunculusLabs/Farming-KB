@@ -13,7 +13,7 @@ From [[composting-science-solomon]]
 - [[intensive-gardening-critique-solomon]]
 
 ## Merged: Fertilizer Placement
-Steve Solomon provides specific guidance on how, when, and where to place fertilizers in the garden. Proper placement ensures nutrients reach plant roots efficiently while minimizing waste and leaching. - solomon complete organic fertilizer guide - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon identifies certain vegetables as fussy about soil type. - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[tomato-pepper-eggplant-growing-guide]] - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide There are two basic types of garlic: hardnecks and softnecks.
+[[steve-solomon]] provides specific guidance on how, when, and where to place fertilizers in the garden. Proper placement ensures nutrients reach plant roots efficiently while minimizing waste and leaching. - [[solomon-complete-organic-fertilizer-cof-recipe]] fertilizer guide - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon identifies certain vegetables as fussy about soil type. - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[tomato-pepper-eggplant-growing-guide]] - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide There are two basic types of garlic: hardnecks and softnecks.
 ## Background and Context
 
 Solomon on the Complete Organic Fertilizer is an important subject that has garnered significant attention
@@ -23,10 +23,10 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

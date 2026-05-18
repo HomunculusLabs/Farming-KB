@@ -1,5 +1,5 @@
 ---
-title: Adenosine Triphosphate (ATP)
+title: Adenosine Triphosphate And Cellular Energy (ATP)
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden
 type: entity
 tags: [molecule, energy-currency, phosphorylation, metabolism, plant-physiology]
@@ -75,19 +75,19 @@ Energy from sunlight (in chloroplasts) or from glucose oxidation (in mitochondri
 - Photosynthesis breaks ATP bonds to make sugar; respiration uses sugar to make ATP — a complementary cycle
 - All cellular energy originates from either light (photosynthesis) or glucose oxidation (respiration)
 - ATP is generated in two complementary organelles (chloroplasts and mitochondria) providing redundancy in critical energy production
-- Glucose serves dual roles: energy storage and fundamental building material for all cell components
+- Glucose serves dual roles: energy storage and fundamental [[bamboo-as-building-material]] for all cell components
 
 ## Relevance to Cultivation and Mycology
 
-- ATP production rate directly determines plant growth rate — anything that limits ATP production (insufficient light, poor nutrient availability, temperature stress) limits growth
-- Phosphorus deficiency impairs ATP synthesis because phosphorus is a structural component of ATP — this explains why phosphorus is classified as a macronutrient
-- In mycology, fungal ATP production drives the synthesis of extracellular enzymes that decompose organic matter, releasing nutrients into the soil
+- ATP production rate directly determines plant growth rate — anything that limits ATP production (insufficient light, poor [[chelation-and-nutrient-availability]], temperature stress) limits growth
+- [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] impairs ATP synthesis because phosphorus is a structural component of ATP — this explains why phosphorus is classified as a macronutrient
+- In mycology, fungal ATP production drives the synthesis of [[fungal-extracellular-enzymes]] that decompose organic matter, releasing nutrients into the soil
 - Understanding the ATP cycle explains why optimal light, temperature, and nutrient conditions must all be met simultaneously for maximum plant productivity
 - The dual production sites (chloroplasts and mitochondria) explain why both light quality and root zone health (oxygen for respiration) affect plant vigor
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 2: Some Basic Chemistry.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 2: Some Basic Chemistry.
 
 ## See Also
 

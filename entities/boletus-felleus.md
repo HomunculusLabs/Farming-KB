@@ -9,7 +9,7 @@ tags: [fungi, basidiomycota, agaricomycetes, boletales, boletaceae, tylopilus, b
 
 ## Description
 
-Boletus felleus (now reclassified as Tylopilus felleus), commonly known as the bitter bolete, is a large bolete mushroom that closely resembles the prized Boletus edulis (king bolete / porcini). The cap is smooth and brown, the pore surface is initially white becoming pinkish with age, and the stem is robust with a distinctive dark brown net-like pattern (reticulation). The key distinguishing feature is its extremely bitter taste, which makes it inedible though not poisonous. It is one of the most common causes of misidentification by hopeful porcini foragers and has ruined many otherwise fine mushroom dishes.
+Boletus felleus (now reclassified as [[tylopilus-felleus]]), commonly known as the bitter bolete, is a large bolete mushroom that closely resembles the prized [[boletus-edulis-and-pore-fungi-polyporaceae]] (king bolete / porcini). The cap is smooth and brown, the pore surface is initially white becoming pinkish with age, and the stem is robust with a distinctive dark brown net-like pattern (reticulation). The key distinguishing feature is its extremely bitter taste, which makes it inedible though not poisonous. It is one of the most common causes of misidentification by hopeful porcini foragers and has ruined many otherwise fine mushroom dishes.
 
 ## Classification
 
@@ -30,7 +30,7 @@ Boletus felleus (now reclassified as Tylopilus felleus), commonly known as the b
 - **Stem:** 6-12 cm tall, thick and robust; covered with a prominent dark brown reticulation (net pattern) that is coarser and darker than that of B. edulis
 - **Flesh:** White, firm; does not change color when cut
 - **Taste:** Extremely bitter, even a tiny piece on the tongue is unmistakable
-- **Spore print:** Pinkish-brown to vinaceous-brown
+- **[[boil-a-bag-spore-print-technique-jarrold]]:** Pinkish-brown to vinaceous-brown
 - **Odor:** Not distinctive
 
 ## Key Facts
@@ -55,7 +55,7 @@ Palmer's discussion of B. felleus serves as an early example of two important my
 - Ectomycorrhizal with both hardwoods (oaks, beech) and conifers (pine, spruce)
 - Found in forests, woodland paths, and clearings
 - Prefers acidic soils
-- Widespread across Europe and North America
+- Widespread across Europe and [[guzman-psilocybin-mushrooms-north-america]]
 - Season: Summer to late autumn
 - Often fruits in the same habitats as B. edulis, leading to frequent confusion
 

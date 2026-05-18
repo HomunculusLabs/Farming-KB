@@ -55,7 +55,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Korean Natural Farming (KNF) Overview. These include both technical difficulties and broader systemic
+[[korean-natural-farming-and-jadam]] (KNF) Overview. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
@@ -80,6 +80,6 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches

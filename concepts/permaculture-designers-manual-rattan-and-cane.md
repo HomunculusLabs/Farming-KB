@@ -70,8 +70,8 @@ The manual references bamboo extensively alongside other cane species. While bam
 
 ## Overview
 
-Permaculture Designers Manual Rattan And Cane represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[bill-mollison-permaculture-designers-manual]] Rattan And Cane represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Permaculture Designers Manual Rattan And Cane finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,7 +100,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 permaculture designers manual rattan and cane and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context
@@ -133,7 +133,7 @@ current understanding and implementation strategies.
 
 ## Integration Strategies
 
-Successful integration of permaculture designers manual rattan and cane into broader
+Successful integration [[preface-and-author-context-of-permaculture-designers-manual]] manual rattan and cane into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.

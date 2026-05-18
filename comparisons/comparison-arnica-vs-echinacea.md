@@ -12,7 +12,7 @@ sources: []
 
 Arnica and Echinacea are two of the most widely recognized medicinal herbs in
 modern herbalism, yet they serve distinctly different therapeutic purposes. Arnica
-(Arnica montana) is primarily valued as a topical anti-inflammatory and
+([[arnica-montana]]) is primarily valued as a topical anti-inflammatory and
 analgesic, traditionally used for bruising, sprains, and muscle soreness.
 Echinacea (Echinacea purpurea and related species) is renowned for its
 immunomodulatory properties, commonly employed to support immune function and
@@ -29,8 +29,8 @@ North America and stands as one of the most commercially important medicinal her
 globally. Unlike arnica, echinacea is primarily used internally for its immune-
 enhancing properties.
 
-The therapeutic effects of echinacea are attributed to a complex mix of
-bioactive compounds including alkylamides, caffeic acid derivatives (especially
+The [[cbd-therapeutic-effects]] of echinacea are attributed to a complex mix of
+[[cordyceps-cancer-bioactive-compounds]] including alkylamides, caffeic acid derivatives (especially
 cichoric acid), polysaccharides, and essential oils. These constituents work
 synergistically to modulate immune function through multiple mechanisms:
 macrophage activation, enhancement of natural killer cell activity, cytokine
@@ -58,13 +58,13 @@ occasionally.
 | **Key Compounds** | Helenalin (sesquiterpene lactones) | Alkylamides, cichoric acid, polysaccharides |
 | **Preparation** | Topical gels, creams, ointments | Tinctures, capsules, teas, pressed juices |
 | **Safety** | Toxic if ingested internally | Generally safe for internal use |
-| **Geographic Origin** | European mountainous regions | Central and eastern North America |
+| **Geographic Origin** | European mountainous regions | Central and [[polypore-fungi-eastern-north-america]] |
 | **Cultivation** | Requires well-drained acidic soils | Adaptable, drought-tolerant once established |
-| **Primary Plant Part Used** | Flowers (for topical preparations) | Roots and aerial parts (for internal use) |
+| **Primary Plant Part Used** | Flowers (for [[blesching-cannabis-tinctures-infused-oils-topical-preparations]]) | Roots and aerial parts (for internal use) |
 
 ## When to Choose Arnica
 
-Arnica is the herb of choice for external trauma and inflammatory conditions.
+Arnica is the herb of choice for external trauma and [[cannabis-for-inflammatory-conditions]].
 Select arnica when dealing with bruises, sprains, strains, muscle soreness,
 joint pain, or postoperative swelling. It's particularly effective for acute
 injuries where inflammation and pain are primary concerns. Athletes and those

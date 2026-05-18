@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-DNA microarray analysis of the nematode-trapping fungus *[[monacrosporium-haptotylum]]* has revealed the molecular basis of trap formation and nematode infection. Key findings centre on the regulation of the actin cytoskeleton during trap (knob) development, and striking parallels with appressorium formation in plant pathogenic fungi. These molecular insights are driving efforts to enhance the biocontrol potential of nematophagous fungi through genetic engineering.
+DNA microarray analysis of the nematode-trapping fungus *[[monacrosporium-haptotylum]]* has revealed the molecular basis of trap formation and nematode infection. Key findings centre on the regulation of the actin cytoskeleton during trap (knob) development, and striking parallels with appressorium formation in plant pathogenic fungi. These molecular insights are driving efforts to enhance the biocontrol potential of nematophagous fungi through [[fukuoka-critique-genetic-engineering]].
 
 ## Microarray Analysis of *M. haptotylum*
 
@@ -56,16 +56,16 @@ Both structures represent **specialized infection structures** that develop as s
 
 ### Current Use
 
-Species of nematode-trapping fungi have been successfully used in **biological control** of plant and animal parasitic nematodes.
+Species of nematode-trapping fungi have been successfully used in **biological control** of plant and animal [[comparison-free-living-vs-parasitic-nematodes]].
 
 ### Genomics-Enhanced Biocontrol
 
-Functional genomics tools can enhance biocontrol potential:
+[[functional-genomics-arbuscular-mycorrhiza]] tools can enhance biocontrol potential:
 
 1. **Strain comparison**: DNA microarrays identify differences in gene expression and genome composition between closely related strains that differ in virulence and host preferences.
 2. **Candidate gene identification**: cDNA array experiments generate candidate genes for genetic engineering.
 3. **Genetic engineering**: Overexpression of virulence genes to produce enhanced strains.
-   - Only one example so far: overexpression of **subtilisin PII** in *Arthrobotrys oligospora* (Åhman et al., 2002).
+   - Only one example so far: overexpression of **subtilisin PII** in *[[arthrobotrys-oligospora]]* (Åhman et al., 2002).
 
 ### Data Standards
 
@@ -76,12 +76,12 @@ For effective comparative transcriptome analysis, access to raw data is essentia
 Subtilisin PII is a serine protease produced by *A. oligospora* that:
 
 - Degrades the nematode cuticle during infection.
-- Is one of the most abundant extracellular enzymes during the infection process.
+- Is one of the most abundant [[fungal-extracellular-enzymes]] during the infection process.
 - Was the first nematophagous fungal gene to be overexpressed in a biocontrol context.
 
 ## Future Directions
 
-- More extensive genetic engineering of nematode-trapping fungi using candidate genes identified through microarray studies.
+- More extensive [[genetic-engineering-of-fungi-for-mycoremediation]] nematode-trapping fungi using candidate genes identified through microarray studies.
 - Field trials of genetically enhanced strains.
 - Integration of transcriptomic, proteomic, and metabolomic data for systems-level understanding of trap formation and infection.
 

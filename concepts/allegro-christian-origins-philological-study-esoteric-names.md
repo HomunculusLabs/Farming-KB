@@ -8,7 +8,7 @@ type: concept
 
 ## The New Testament as a Philological Problem
 
-John Allegro begins his investigation with a deceptively simple question:
+[[john-allegro]] begins his investigation with a deceptively simple question:
 > "What manner of writing is this book we call the New Testament, and in
 > particular just what are the narratives called the Gospels trying to convey?
 > Is it history?"
@@ -55,7 +55,7 @@ The pivotal event is the Jewish Revolt against Rome:
 This catastrophe shattered Judaism's infrastructure. Jerusalem was ravaged, the
 temple destroyed, the priestly establishment obliterated. The people were
 scattered, many driven to Mediterranean coastlands and beyond. The structures
-that had sustained the mushroom cult — temple priesthood, sectarian
+that had sustained [[allegro-sacred-prostitute-and-the-mushroom-cult]] — temple priesthood, sectarian
 communities, oral traditions — all were swept away.
 
 The cult's secrets had traditionally been transmitted orally. With the community
@@ -66,7 +66,7 @@ dispersed, this was no longer viable:
 
 The solution was esoteric writing — concealing real subject matter beneath an
 innocuous surface narrative. Folk-tales featuring personified plants were
-well-established in the ancient Near East. What was new was creating "the story
+well-established in the ancient [[ancient-cannabis-use-near-east-and-egypt]]. What was new was creating "the story
 of a rabbi called Jesus" as a cover for the mushroom cult. The Gospels are
 cryptographic texts designed to be read on two levels.
 
@@ -74,7 +74,7 @@ But the strategy backfired catastrophically:
 > "The ruse failed. Christians, hated and despised, were hauled forth and slain
 > in their thousands."
 
-The cover story proved insufficient to protect practitioners, yet all too
+The [[allegro-new-testament-as-cover-story]] proved insufficient to protect practitioners, yet all too
 effective in concealing the cult's true nature from later generations:
 > "What began as a hoax, became a trap even to those who believed themselves to
 > be the spiritual heirs of the mystery religion."

@@ -1,15 +1,15 @@
 ---
-title: "How Do I Design and Plant a query how do i design and plant a hops trellis system for home brewing System for ayahuasca-diy-home-brewing-as-tourism-alternative?"
+title: "How Do I Design and Plant a query how do i design and plant a hops trellis system for Ayahuasca Diy Home Brewing As Tourism Alternative System for ayahuasca-diy-home-brewing-as-tourism-alternative?"
 tags:
   - hops
   - trellis
   - homebrewing
   - beer
-  - homesteading
+  - [[homesteading]]
   - perennial-crops
   - garden-design
   - diy-projects
-  - bill-mollison (1988)"
+  - [[bill-mollison]] (1988)"
 created: 2026-04-28
 type: query
 ---
@@ -56,7 +56,7 @@ Eye bolts, wire, pulley, twine mounted on existing wall/fence/eaves. Minimum 3�
 
 1. **Test soil pH** (target 6.0–7.0). Amend with lime if below 5.5, sulfur if above 7.5.
 2. **Dig holes** 30 cm deep × 30 cm wide, spaced 90–120 cm apart along the trellis line.
-3. **Mix in amendments:** 2–4 L compost + 100 g bone meal + 50 g wood ash per hole.
+3. **Mix in amendments:** 2–4 L [[compost]] + 100 g bone meal + 50 g wood ash per hole.
 4. **Mound soil** 5–10 cm above grade for drainage.
 
 ### Planting (Spring, after last frost)
@@ -66,7 +66,7 @@ Eye bolts, wire, pulley, twine mounted on existing wall/fence/eaves. Minimum 3�
 
 ### First Season
 
-- **Water 2–3× per week**, soaking root zone deeply.
+- **Water 2–3× per week**, soaking [[cervantes-root-zone-heating]] deeply.
 - **Train bines** clockwise around twine at 30–45 cm. Select 2–3 strongest per plant.
 - **Feed lightly:** [[cervantes-spider-mites-identification-control]]. |
 | Sep | **Harvest.** Dry at 50–60°C. Vacuum-seal and freeze. |

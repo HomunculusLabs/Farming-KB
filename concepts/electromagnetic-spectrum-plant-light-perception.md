@@ -5,7 +5,7 @@ tags: [physics, plant-biology, electromagnetic-spectrum, light, photoreception]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
+  - "raw/papers/grahamholmes-what-a-plant-knowsindd.md"
 type: concept
 ---
 

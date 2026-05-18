@@ -1,7 +1,7 @@
 ---
-title: Qatal Huyuk and the Mother Goddess
+title: Mckenna Qatal Huyuk Naturalistic Art Vitiation Partnership Society and the Mother Goddess
 source: mckenna_t-food_of_the_gods.md
-source_author: Terence McKenna
+source_author: [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]]
 source_title: Food of the Gods
 published: 1992
 tags:
@@ -27,7 +27,7 @@ hunter-gathering to agriculture. [[terence-mckenna]], in *Food of the Gods*
 (Chapter 6: "The High Plains of Eden"), presents Qatal Huyuk as the last
 great flowering of the partnership model of society — a civilization built
 around the worship of a Mother Goddess and sustained by psychedelic
-mushroom use — before its destruction by Indo-European dominator culture.
+mushroom use — before its destruction by Indo-European [[dominator-culture-and-partnership-society]].
 
 ## The Mother Goddess Cult
 
@@ -49,7 +49,7 @@ representations carried forward techniques and sensibilities that had
 developed over tens of thousands of years. Geometric ornament including
 spirals and meanders appeared alongside red-ochre burials and bird-like
 steatopygous goddess amulets. The range of pigments used at the site was
-unmatched in the Near East, equaled or surpassed only by the Round Head
+unmatched in the [[allegro-fertility-philosophy-of-the-ancient-near-east]], equaled or surpassed only by the [[mckenna-tassili-plateau-round-head-civilization]]
 art of the Sahara. The most common artistic motifs were cattle and bulls,
 with vultures and leopards as secondary subjects — all animals of the
 African grasslands, pointing to cultural origins far to the south.
@@ -88,7 +88,7 @@ McKenna proposes that the mushroom was recognized at Qatal Huyuk as the
 "third and hidden member" of a shamanic trinity, alongside the more
 obvious products of cattle: milk, meat, and manure. Cattle were central
 to the settlement's economy, art, and religion, but McKenna argues that
-the psychoactive mushroom — likely growing in the dung of these same
+the [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] — likely growing in the dung of these same
 cattle — was the secret animating force behind the culture's spiritual
 life. Built-in "recliners" found in some shrines suggest curing or
 midwifery practices conducted in a shamanic style, where the mushroom

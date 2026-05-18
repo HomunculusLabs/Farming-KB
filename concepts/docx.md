@@ -5,7 +5,7 @@ tags: [file-format, microsoft-word, xml, document, office]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 

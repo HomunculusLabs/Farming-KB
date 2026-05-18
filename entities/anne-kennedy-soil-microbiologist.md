@@ -19,7 +19,7 @@ Anne Kennedy is a soil microbiologist whose research focuses on dormant weed see
 
 - Kennedy's work represents one of the **very few** detailed studies on the contribution of soil microorganisms to dormant weed seed decay
 - Her research is cited by Ingham as the primary reference on microbial mechanisms of weed suppression in biologically active soils
-- The mechanism she studies — direct microbial [[decomposition]] of dormant weed seeds — is distinct from the more commonly observed mechanism of nutrient availability shifting plant species composition
+- The mechanism she studies — direct microbial [[decomposition]] of dormant weed seeds — is distinct from the more commonly observed mechanism of [[chelation-and-nutrient-availability]] shifting plant species composition
 - Her work provides scientific backing for the observation that improving soil biology reduces weed pressure in agricultural systems
 
 ## Research Context
@@ -34,7 +34,7 @@ Kennedy's research explores a complementary mechanism: soil microorganisms direc
 - Connects soil food web management directly to weed management without herbicides
 - Relevant to organic farming systems seeking to reduce or eliminate herbicide use
 - The microbial seed decay mechanism may be enhanced by [[compost]] tea applications that introduce diverse decomposer organisms
-- Understanding this mechanism helps cultivators appreciate that biological soil management provides weed suppression as a secondary benefit beyond nutrient cycling and disease control
+- Understanding this mechanism helps cultivators appreciate that biological soil management provides weed suppression as a secondary benefit beyond [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] disease control
 
 ## Connection to Soil Food Web Theory
 
@@ -49,11 +49,11 @@ Operates through complex interactions between biological, chemical, and physical
 
 ## Practical Applications
 
-Applied in agricultural production, land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
+Applied in [[fukuoka-agricultural-production-net-energy-deduction]], land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
 
 ## Research Findings
 
-Studies demonstrate measurable effects on soil health, plant growth, and ecosystem function. Ongoing research continues to refine understanding and application methods.
+Studies demonstrate measurable effects on soil health, plant growth, [[fungal-biodiversity-and-ecosystem-function]]. Ongoing research continues to refine understanding [[diy-fertilizer-recipes-and-application-methods]].
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.
@@ -76,7 +76,7 @@ Functions as part of interconnected agricultural and ecological systems. Synergi
 
 ## Common Challenges
 
-Practitioners face various obstacles including pest pressure, climate variability, and resource limitations. Proven strategies exist for addressing each of these challenges effectively.
+Practitioners face various obstacles including pest pressure, [[macrofungal-fruiting-phenology-climate-variability]], and resource limitations. Proven strategies exist for addressing each of these challenges effectively.
 
 ## See Also
 

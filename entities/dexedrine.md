@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Dexedrine (dextroamphetamine) is a central nervous system stimulant of the amphetamine class. In the context of Leary's "The Psychedelic Experience," Dexedrine is mentioned as an optional adjunct that can be used to "break the set" if a person becomes trapped in a repetitive game-routine during a psychedelic session. A dose of 25 mg is cited as potentially sufficient to interrupt a stuck pattern, though Leary emphasizes such additional dosages should only be given with the person's own knowledge and consent.
+Dexedrine (dextroamphetamine) is a central nervous system stimulant of the amphetamine class. In the context of Leary's "The [[leary-psychedelic-experience-bardo-mapping]]," Dexedrine is mentioned as an optional adjunct that can be used to "break the set" if a person becomes trapped in a repetitive game-routine during a [[psychedelic-session-instructions]]. A dose of 25 mg is cited as potentially sufficient to interrupt a stuck pattern, though Leary emphasizes such additional dosages should only be given with the person's own knowledge and consent.
 
 ## Classification
 
@@ -47,7 +47,7 @@ Dexedrine is relevant to the broader pharmacological context of psychedelic prac
 - Leary, T. "The Psychedelic Experience" — Drugs and Dosages section
 ## Historical Context
 
-This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the historical development provides important context for current perspectives and applications.
+This topic has been studied and referenced across multiple traditions and academic disciplines. Understanding the [[historical-development-of-mushroom-cultivation]] provides important context for current perspectives and applications.
 ## Key Characteristics
 
 Several defining features distinguish this subject from related topics. These characteristics inform both practical applications and theoretical understanding.
@@ -59,7 +59,7 @@ The principles discussed here have been applied in various contexts, from tradit
 This topic intersects with several broader themes and specialized areas of study. Understanding these connections provides a more complete picture of the subject matter.
 ## Contemporary Relevance
 
-Current research and practice continue to draw on these foundational concepts. Modern approaches often integrate traditional knowledge with contemporary understanding.
+Current research and practice continue to draw on these foundational concepts. Modern approaches often integrate [[wasted-human-resources-and-traditional-knowledge]] with contemporary understanding.
 ## Cultural Significance
 
 The cultural impact of this subject extends across communities and traditions. Its influence can be observed in various forms of expression and practice.
@@ -74,7 +74,7 @@ Various approaches have been developed to study and apply these concepts. Each m
 Emerging trends and ongoing research suggest new possibilities for understanding and application. Interdisciplinary collaboration is increasingly important for advancing knowledge in this area.
 ## Cross-Cultural Perspectives
 
-Different cultural traditions have developed unique approaches to this topic. Comparative analysis reveals both common themes and distinctive cultural adaptations.
+Different cultural traditions have developed unique approaches to this topic. [[human-eye-plant-photoreceptor-comparative-analysis]] reveals both common themes and distinctive cultural adaptations.
 ## Environmental Context
 
-Environmental factors play a significant role in understanding this subject. Changes in environmental conditions can affect outcomes and applications in important ways.
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] play a significant role in understanding this subject. Changes in environmental conditions can affect outcomes and applications in important ways.

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Harvesting and Potency
+title: Psilocybin Mushroom Harvesting And Post Harvest Handling Potency
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-The potency of psilocybin-containing mushrooms is not static — it changes dramatically throughout the mushroom's life cycle. Understanding when and how to harvest is critical for maximizing the concentration of active alkaloids (psilocybin and psilocin). Research by Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of 1%, comparable to *Psilocybe semilanceata*, but only under optimal conditions.
+The potency of psilocybin-containing mushrooms is not static — it changes dramatically throughout the mushroom's life cycle. Understanding when and how to harvest is critical for maximizing the concentration of active alkaloids ([[hplc-analysis-of-psilocybin-and-psilocin]]). Research by Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of 1%, comparable to *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*, but only under optimal conditions.
 
 ## Factors Affecting Potency
 
-Multiple interrelated variables determine the final alkaloid concentration in harvested mushrooms:
+Multiple interrelated variables determine the final [[abort-harvesting-alkaloid-concentration-pf-tek]] in harvested mushrooms:
 
-- **Substrate**: Brown rice provides a favorable nutritional base for psilocybin production in cultivated specimens.
+- **Substrate**: Brown rice provides a favorable nutritional base for [[gottlieb-psilocybin-production-extraction-methods]] in cultivated specimens.
 - **Age/Maturity**: Young, pre-sporulation specimens contain significantly higher concentrations of active compounds per unit weight.
 - **Sporulation Stage**: Mushrooms harvested before or just as the veil tears (pre-sporulation) are markedly more potent than those allowed to fully sporulate.
 - **Harvest Method**: Gentle, timely picking preserves the integrity of the alkaloid content.
@@ -67,7 +67,7 @@ The traditional approach to consuming harvested fungi emphasizes ritual and inte
 
 - **Be deliberate**: Set and setting matter significantly.
 - **Consume at one sitting**: Do not piece-meal the dose across time. The lag time between ingestion and onset (typically 20–60 minutes) can cause miscalculation if additional doses are taken prematurely.
-- **Controlled methodical intake**: This maximizes the peak performance of the psychedelic experience.
+- **Controlled methodical intake**: This maximizes the peak performance of the [[leary-psychedelic-experience-bardo-mapping]].
 
 ## Historical and Research Context
 

@@ -26,7 +26,7 @@ A wadi (Arabic: وادي) is a dry riverbed, valley, or watercourse that contain
 
 ## Ecological Significance
 
-- **Biological corridors**: Wadis concentrate water and nutrients, supporting vegetation bands that act as wildlife corridors across otherwise barren desert.
+- **Biological corridors**: Wadis concentrate water and nutrients, supporting vegetation bands that act as [[permaculture-designers-manual-wildlife-corridors]] across otherwise barren desert.
 - **Alluvial soils**: Sediment deposited in wadis creates some of the most productive agricultural soils in arid regions.
 - **Groundwater recharge**: Infiltration through wadi beds is a primary mechanism for groundwater recharge in arid basins.
 - **Flood routing**: Wadis can carry devastating flash floods after rare rain events, making understanding their behaviour critical for settlement planning.
@@ -45,7 +45,7 @@ A wadi (Arabic: وادي) is a dry riverbed, valley, or watercourse that contain
 
 ## Overview
 Wadi represents an important component within sustainable
-design and ecological management systems. Understanding its role
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Understanding its role
 helps inform better integration strategies for diverse environments.
 The interactions between wadi and surrounding ecological
 systems create complex feedback loops that enhance overall resilience.
@@ -53,13 +53,13 @@ systems create complex feedback loops that enhance overall resilience.
 ## Characteristics
 Key characteristics include adaptability to varying environmental
 conditions, integration potential with existing systems, and
-contribution to biodiversity and ecological function.
+contribution to biodiversity and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]].
 Seasonal variations affect performance and management requirements.
 Regional differences necessitate site-specific approaches.
 
 ## Practical Applications
 Wadi has several practical applications in sustainable systems.
-Integration with permaculture design principles enhances its utility.
+Integration with [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] enhances its utility.
 Consideration of local climate and soil conditions is essential.
 Multiple functions can be served within a single system design.
 
@@ -73,7 +73,7 @@ Documentation of observations supports knowledge building.
 The ecological relationships involving wadi
 extend across multiple trophic levels and functional groups.
 Soil biology, water cycles, and energy flows are all relevant factors.
-Understanding these connections enables more holistic management.
+Understanding these connections enables more [[savory-holistic-management-overview]].
 
 ## Sustainability Considerations
 Sustainable management practices are important for wadi.
@@ -82,7 +82,7 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Wadi has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## See Also

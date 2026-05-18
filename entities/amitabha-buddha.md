@@ -116,8 +116,8 @@ with them — converting terrifying boundary loss into liberating dissolution.
 
 ---
 
-*Sources: Leary, T., Metzner, R., & Alpert, R. (1964). The Psychedelic Experience.
-[[evans-wentz]] (1927), The Tibetan Book of the Dead; Fremantle & Trungpa (1975).*
+*Sources: Leary, T., Metzner, R., & Alpert, R. (1964). The [[leary-psychedelic-experience-bardo-mapping]].
+[[evans-wentz]] (1927), [[jung-and-the-tibetan-book-of-the-dead]] of the Dead; Fremantle & Trungpa (1975).*
 
 ## See Also
 

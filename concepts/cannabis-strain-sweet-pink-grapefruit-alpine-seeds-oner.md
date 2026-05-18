@@ -1,6 +1,6 @@
 ---
 title: Sweet Pink Grapefruit (Alpine Seeds) — Refined SPG Line
-source: Cannabis Sativa Vol 3
+source: [[blesching-cannabis-sativa-indica-classification]] Vol 3
 tags:
   - cannabis-strain
   - sativa-dominant
@@ -13,7 +13,7 @@ tags:
 
 ## Overview
 
-Sweet Pink Grapefruit (SPG) is a sativa-dominant cannabis strain developed by
+Sweet Pink Grapefruit (SPG) is a sativa-dominant [[biscotti-cannabis-strain]] developed by
 Alpine Seeds, a breeding company based in Spain that has earned recognition for
 producing refined, stable genetics with European sensibility. The SPG project
 spanned four years of dedicated breeding work, during which Alpine Seeds
@@ -44,8 +44,8 @@ feeding schedules with confidence.
 
 ## Flowering and Harvest
 
-Sweet Pink Grapefruit completes its flowering cycle in approximately 65 days,
-placing it in a moderate flowering time bracket that balances speed with the
+Sweet Pink Grapefruit completes its [[cannabis-photoperiod-flowering-cycle]] in approximately 65 days,
+placing it in a moderate [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] bracket that balances speed with the
 development of full terpene and cannabinoid profiles. This 65-day window is
 shorter than many haze-influenced sativas, making SPG practical for commercial
 operations and home growers working within time constraints.
@@ -65,13 +65,13 @@ The buds of Sweet Pink Grapefruit are extremely resinous. Cannabis Sativa Vol 3
 describes them as being "stoked with resin," a vivid characterization that
 captures the heavy trichome coverage visible to the naked eye. This abundant
 resin production contributes both to the strain's potency and to its value for
-extractors and concentrate makers. The THC content has been measured at
+extractors and concentrate makers. The [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] has been measured at
 approximately 19%, placing SPG firmly in the above-average range and ensuring
 a powerful experience for consumers.
 
 Yields are reported as above average, with the bushy growth structure providing
 multiple bud sites that contribute to overall harvest weight. The combination
-of high yield, fast flowering, and exceptional resin production makes Sweet
+of high yield, [[cannabis-strain-jamaican-dream-fast-flowering-sativa]], and exceptional resin production makes Sweet
 Pink Grapefruit an efficient and rewarding strain to cultivate.
 
 ## Curing and Flavor Profile

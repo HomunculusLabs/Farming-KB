@@ -1,5 +1,5 @@
 ---
-title: Rolling Greenhouse
+title: Coleman Rolling Greenhouse Wheel Rail Design
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [greenhouse, season-extension, mobile-structure, cultivation]
@@ -8,7 +8,7 @@ tags: [greenhouse, season-extension, mobile-structure, cultivation]
 # Rolling Greenhouse
 
 ## Description
-A rolling greenhouse is a mobile greenhouse design placed on wheels that run on pipe rails, enabling the structure to be moved between plots with minimal effort. Developed by Eliot Coleman as an evolution of his earlier sled-based mobile greenhouses, the rolling design solved directional stability issues and allowed for wider end-wall openings, improved ventilation, and easier access. The rolling greenhouse is central to Coleman's multi-plot rotation system for year-round production.
+A rolling greenhouse is a [[coleman-mobile-greenhouse-design-and-operation]] placed on wheels that run on pipe rails, enabling the structure to be moved between plots with minimal effort. Developed by Eliot Coleman as an evolution of his earlier sled-based mobile greenhouses, the rolling design solved directional stability issues and allowed for wider end-wall openings, improved ventilation, and easier access. The rolling greenhouse is central to Coleman's multi-plot rotation system for year-round production.
 
 ## Classification
 - **Category**: Protected agriculture / Mobile greenhouse
@@ -59,12 +59,12 @@ A rolling greenhouse is a mobile greenhouse design placed on wheels that run on 
 ## Relevance to Cultivation and Mycology
 
 ### Controlled Environment Mobility
-- The concept of moving a controlled environment over different crops has potential for mushroom cultivation
-- A mobile fruiting chamber could be moved over different mushroom bed plots on a rotation schedule
-- The rail system concept could be scaled for moving mushroom grow tents between substrate preparation areas
+- The concept of moving a controlled environment over different crops has potential [[grass-seed-substrate-for-mushroom-cultivation]]
+- A mobile [[comparison-laminar-flow-hood-vs-fruiting-chamber]] could be moved over different mushroom bed plots on a rotation schedule
+- The rail system concept could be scaled for moving mushroom grow tents between [[bulk-substrate-preparation]] areas
 
 ### Soil-Based Systems
-- Rolling greenhouses maintain a connection to living soil — relevant for outdoor mushroom bed systems
+- Rolling greenhouses maintain a connection to living soil — relevant for [[growing-gourmet-outdoor-mushroom-bed-establishment]] systems
 - The movement cycle allows soil recovery between crops, similar to how mushroom beds need rest periods
 - Open-air exposure between rotations provides natural sanitation (UV, weather, competing organisms)
 

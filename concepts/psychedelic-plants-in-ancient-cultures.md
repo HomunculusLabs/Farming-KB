@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Plants in Ancient Cultures
+title: Psychedelic Plants Entheogens In Ancient Cultures
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -19,7 +19,7 @@ sources:
 
 # Psychedelic Plants in Ancient Cultures
 
-The evidence and theories connecting psychoactive plants to ancient religious practices, particularly the Eleusinian Mysteries and the Vedic Soma ceremony.
+The evidence and theories connecting psychoactive plants to ancient religious practices, particularly [[plutarch-and-cicero-on-the-eleusinian-mysteries]] and the Vedic Soma ceremony.
 
 ## The Eleusinian Mysteries
 
@@ -27,7 +27,7 @@ The Eleusinian Mysteries were the most important religious initiation ceremony o
 
 ### Wasson's Ergot Hypothesis
 
-Gordon Wasson proposed that the kykeon contained an infusion of ergot (*Claviceps purpurea*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which Albert Hofmann later derived LSD:
+Gordon Wasson proposed that the kykeon contained an infusion of ergot (*[[bloomfield-ergot-claviceps-purpurea-ergotism]]*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which Albert Hofmann later derived LSD:
 
 - Wasson noted the parallel between the Greek word *eleusis* (advent, revealing) and descriptions of the ceremony's effects, which ancient writers described as producing visions of the afterlife and dispelling the fear of death.
 - The kykeon was prepared from barley (a grain susceptible to ergot) and water, consistent with an ergot-based preparation.
@@ -52,7 +52,7 @@ The identity of Soma, the sacred plant of the Vedic hymns (Rig Veda, c. 1500 BCE
 
 The debate over Soma's identity produced numerous competing theories:
 
-- **Syrian rue (Peganum harmala)**: Flattery and Schwartz (1989) proposed in *Haoma and Harmaline* that the Iranian Avesta's descriptions of haoma better fit Syrian rue, whose active ingredient harmaline is an MAO inhibitor and psychoactive in its own right. The Rig Veda descriptions were, they argued, too distorted by poetic fancy to be botanically useful.
+- **Syrian rue ([[mckenna-food-gods-peganum-harmala-soma]])**: Flattery and Schwartz (1989) proposed in *Haoma and Harmaline* that the Iranian Avesta's descriptions of haoma better fit Syrian rue, whose active ingredient harmaline is an MAO inhibitor and psychoactive in its own right. The Rig Veda descriptions were, they argued, too distorted by poetic fancy to be botanically useful.
 - **Ephedra**: Various scholars proposed ephedra species based on the plant's stimulant properties.
 - **Puffball mushrooms**: Other mushroom candidates have been proposed.
 - **Multiple plants**: Some scholars argue Soma may have been composite, made from several plants.
@@ -63,11 +63,11 @@ Wasson's Soma hypothesis, whatever its scholarly weaknesses, had enormous cultur
 
 ### Ancient Egypt
 
-Andrija Puharich proposed in *The Sacred Mushroom: Key to the Door of Eternity* (1959) that ancient Egyptians used the fly-agaric mushroom, based on channeled material from a trance medium. This theory is not taken seriously by Egyptologists and rests on methodologically questionable foundations.
+[[andrija-puharich]] proposed in *The Sacred Mushroom: Key to the Door of Eternity* (1959) that ancient Egyptians used the fly-agaric mushroom, based on channeled material from a trance medium. This theory is not taken seriously by Egyptologists and rests on methodologically questionable foundations.
 
 ### Mesoamerica
 
-The mushroom stones of highland Guatemala (c. 1000 BCE) and Aztec codices provide the strongest archaeological evidence of ancient psychedelic mushroom use. The Aztec *teonanacatl* ("flesh of the gods") was unequivocally a mushroom, as confirmed by colonial-era Spanish records.
+The mushroom stones of highland Guatemala (c. 1000 BCE) and Aztec codices provide the strongest archaeological evidence of ancient [[archaeology-of-psychedelic-mushroom-use]]. The Aztec *teonanacatl* ("flesh of the gods") was unequivocally a mushroom, as confirmed by colonial-era Spanish records.
 
 ### Ancient Greece Beyond Eleusis
 

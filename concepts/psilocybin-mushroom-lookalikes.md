@@ -1,5 +1,5 @@
 ---
-title: emcdda-psilocybin-mushroom-dose-and-effects Lookalikes and Deadly Identification Warnings
+title: emcdda-psilocybin-mushroom-dose-and-effects Lookalikes and Deadly Mushroom Toxicity Identification Warnings
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -14,7 +14,7 @@ Source: [[psilocybin-mushroom-identification-guide]] can be lethal. Since few li
 
 ## Deadly Galerina Species
 
-The primary deadly lookalikes are species of Galerina that resemble Psilocybes and contain amatoxins (cyclopeptides) similar to those in lethal Amanita species:
+The primary [[psilocybin-mushroom-deadly-lookalikes]] are species of Galerina that resemble Psilocybes and contain amatoxins (cyclopeptides) similar to those in lethal Amanita species:
 
 - **G. autumnalis**: Stamets considers this an indicator species — when present, Psilocybe are likely nearby. Colonies of G. autumnalis and P. stuntzii have been found overlapping with stems actually touching.
 - **G. marginata**: Contains the same deadly amatoxins
@@ -51,8 +51,8 @@ Other brown-spored genera with abundant poisonous species:
 
 - Spore prints are essential for identification
 - Pay attention to detail and follow keys carefully
-- Members of Psilocybe and Panaeolus generally seem safe — only psilocybin, psilocin, and related compounds detected thus far
-- Some species (e.g., formerly Stropharia aeruginosa = Psilocybe aeruginosa) have not been fully tested
+- Members of Psilocybe and Panaeolus generally seem safe — only psilocybin, psilocin, and [[lsd-structure-activity-relationships-related-compounds]] detected thus far
+- Some species (e.g., formerly [[stropharia-aeruginosa]] = [[psilocybe-aeruginosa]]) have not been fully tested
 - Bluing Inocybes should be treated with extreme caution due to poisonous close relatives
 
 ## Integration with Broader Systems
@@ -76,7 +76,7 @@ Documentation of procedures and outcomes supports both personal learning and com
 ## See Also
 
 - [[ramsbottom-poisonous-fungi-identification-guide]] guide
-- amanita poisoning types
+- [[amanita-poisoning-identification]] types
 - [[mycorrhizal-edible-mushroom-species-overview]]
 - [[fungal-roles-in-old-growth-forests]]
 ## Practical Considerations

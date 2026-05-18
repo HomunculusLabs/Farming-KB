@@ -9,7 +9,7 @@ tags: [fish, aquaculture, permaculture, pond-culture, polyculture]
 
 ## Description
 
-Pangasius is a genus of large freshwater catfish native to Southeast Asia, widely cultivated in pond and cage aquaculture systems throughout the Mekong River basin. In permaculture pond systems, they are valued as additive polyculture species that increase total yield without competing with other cultured fish.
+Pangasius is a genus of large freshwater catfish native to [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]], widely cultivated in pond and cage aquaculture systems throughout the Mekong River basin. In [[permaculture-pond-and-water-garden]] systems, they are valued as additive polyculture species that increase total yield without competing with other cultured fish.
 
 ## Classification
 
@@ -38,7 +38,7 @@ Mollison specifically mentions pangas as an example of non-competing polyculture
 - The addition of pangas (Pangasia) to ponds rich in molluscs does not affect yields of carp or Tilapia
 - Pangas feeding efficiency is unaffected by the presence of other species
 - Total yield increases additively -- pangas production is essentially a bonus on top of existing polyculture output
-- This demonstrates the ideal permaculture polyculture outcome: each additional species adds to total productivity without diminishing others
+- This demonstrates the ideal [[permaculture-polyculture-fish-pond]] outcome: each additional species adds to total productivity without diminishing others
 
 ### Niche Partitioning
 - Pangasius occupies a distinct feeding niche as a mollusc specialist
@@ -46,7 +46,7 @@ Mollison specifically mentions pangas as an example of non-competing polyculture
 - Their bottom-feeding habits complement mid-water and surface-feeding species like Tilapia
 
 ### Design Implications
-Mollison's reference to pangas illustrates the permaculture principle of stacking functions: by adding a species that feeds on an unused resource (molluscs), the system's total efficiency increases without additional inputs. This is analogous to adding mussels to fish ponds for water quality, or adding plants for oxygen production.
+Mollison's reference to pangas illustrates the [[permaculture-principle-1-observe-interact]] of [[gaias-garden-stacking-functions]]: by adding a species that feeds on an unused resource (molluscs), the system's total efficiency increases without additional inputs. This is analogous to adding mussels to fish ponds for water quality, or adding plants for oxygen production.
 
 ## Cultivation Notes
 
@@ -84,7 +84,7 @@ Pangasius fillets are lean and white-fleshed, with a mild flavour that appeals t
 - Good source of omega-3 fatty acids (though lower than marine fish)
 - Rich in B vitamins, particularly B12, and minerals including selenium and phosphorus
 
-The fish's efficient feed conversion means that each kilogram of feed produces more edible protein than many competing aquaculture species, making it an economically and ecologically efficient choice for permaculture systems focused on protein production.
+The fish's efficient feed conversion means that each kilogram of feed produces more edible protein than many competing aquaculture species, making it an economically and ecologically efficient choice for permaculture systems focused on [[fungal-single-cell-protein-production]].
 
 ## See Also
 - [[water-quality-in-aquaculture-ponds]]

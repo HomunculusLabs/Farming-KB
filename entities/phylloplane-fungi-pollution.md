@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Phylloplane (leaf surface) fungi are a diverse community of saprotrophic, endophytic, and weakly parasitic fungi that colonize living leaf surfaces. These communities are directly exposed to atmospheric pollutants, making them sensitive indicators of air quality. Research by Magan et al. (1995), Newsham et al. (1992a,b), and others has documented how sulfur dioxide (SO2) and ozone (O3) alter phylloplane fungal community structure, with implications for plant health and ecosystem function.
+Phylloplane (leaf surface) fungi are a diverse community of saprotrophic, endophytic, and weakly parasitic fungi that colonize living leaf surfaces. These communities are directly exposed to atmospheric pollutants, making them sensitive indicators of air quality. Research by Magan et al. (1995), Newsham et al. (1992a,b), and others has documented how sulfur dioxide (SO2) and ozone (O3) alter phylloplane [[mineralogical-controls-fungal-community-structure]], with implications for plant health [[fungal-biodiversity-and-ecosystem-function]].
 
 ## Classification
 
@@ -22,10 +22,10 @@ Phylloplane (leaf surface) fungi are a diverse community of saprotrophic, endoph
 ### Phylloplane Fungal Community Composition
 
 Common phylloplane fungi include:
-- **Saprotrophs:** Aureobasidium pullulans, Cladosporium cladosporioides, Epicoccum nigrum, Phoma exigua, Mycena galopus
+- **Saprotrophs:** [[aureobasidium-pullulans]], [[cladosporium-cladosporioides]], Epicoccum nigrum, Phoma exigua, Mycena galopus
 - **Yeasts:** Pink yeasts, white yeasts
 - **Weak parasites:** Cladosporium spp.
-- **Conifer specialists:** Sclerophoma pythiophila, Rhizosphaera kalkhoffii
+- **Conifer specialists:** [[sclerophoma-pythiophila]], [[rhizosphaera-kalkhoffii]]
 
 These fungi derive nutrition from leaf wax cuticles, surface exudates, and atmospheric deposition of nutrients and carbon.
 

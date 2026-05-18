@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Mikania is a fast-growing tropical and subtropical vine genus, most notably represented by *Mikania micrantha*, commonly known as mile-a-minute vine. It is one of the world's most aggressive climbing plants, capable of growing up to 27 mm per day under optimal conditions. In [[permaculture]] principle of stacking functions: a single plant providing shade, cooling, mulch, and forage. In desert permaculture, its aggressive growth is an asset rather than a liability, as arid conditions naturally constrain its spread. It exemplifies the strategy of using evergreen vines on western aspects to moderate extreme heat, a critical design element for desert settlements. However, its invasive potential demands responsible placement and ongoing management, particularly near natural ecosystems.
+Mikania is a fast-growing tropical and subtropical vine genus, most notably represented by *Mikania micrantha*, commonly known as mile-a-minute vine. It is one of the world's most aggressive climbing plants, capable of growing up to 27 mm per day under optimal conditions. In [[permaculture]] principle of [[gaias-garden-stacking-functions]]: a single plant providing shade, cooling, mulch, and forage. [[inselbergs-and-fold-mountains-in-desert-permaculture]], its aggressive growth is an asset rather than a liability, as arid conditions naturally constrain its spread. It exemplifies the strategy of using evergreen vines on western aspects to moderate extreme heat, a critical design element for desert settlements. However, its invasive potential demands responsible placement and ongoing management, particularly near natural ecosystems.
 
 ## Related Entities
 
@@ -22,7 +22,7 @@ Mikania is a fast-growing tropical and subtropical vine genus, most notably repr
 
 ## Biogeography
 
-Native range spans from southern Mexico through Central America into tropical South America. Introduced to India during WWII as camouflage for military installations, it subsequently spread across Southeast Asia and the Pacific. In Australia, it is a declared weed in Queensland and the Northern Territory. Its spread is constrained by aridity, making it most manageable in desert and semi-arid design contexts.
+Native range spans from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] into tropical South America. Introduced to India during WWII as camouflage for military installations, it subsequently spread across Southeast Asia and the Pacific. In Australia, it is a declared weed in Queensland and the Northern Territory. Its spread is constrained by aridity, making it most manageable in desert and semi-arid design contexts.
 
 ## Management in Permaculture Systems
 
@@ -38,7 +38,7 @@ When using Mikania in designed systems, Mollison emphasizes confinement strategi
 ## Overview
 
 Mikania represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -67,7 +67,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -88,7 +88,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mikania and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

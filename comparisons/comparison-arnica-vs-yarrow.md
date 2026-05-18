@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Arnica (*[[arnica-montana]]*) and yarrow (*Achillea millefolium*) are two of
+Arnica (*[[arnica-montana]]*) and yarrow (*[[achillea-millefolium]]*) are two of
 the most storied wound-healing herbs in the European phytotherapy
 tradition. Both belong to the Asteraceae family and share a reputation
 for treating bruises, swelling, and musculoskeletal pain, yet their
@@ -32,7 +32,7 @@ benefit.
 [[yarrow-achillea-millefolium]]
 
 Yarrow is a rhizomatous perennial native to temperate Europe and Asia,
-widely naturalized across North America and other temperate regions. It
+widely naturalized across North America and other [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It
 forms dense clumps 30 to 90 cm tall with distinctive feathery, finely
 dissected leaves and flat-topped clusters of small white to pink
 flowers. The genus name honors Achilles, who legendarily used yarrow to
@@ -47,16 +47,16 @@ inflammation, relieves spasms, stimulates digestion, promotes sweating
 during fevers, and exhibits antimicrobial activity.
 
 Unlike arnica, yarrow is safe for both internal and external use.
-Traditional preparations include teas, tinctures, poultices, and
+[[classic-mushroom-recipes-traditional-preparations]] include teas, tinctures, poultices, and
 salves. Yarrow tea is commonly used for feverish colds, menstrual
 cramps, and digestive upset. Externally, fresh leaves or poultices are
 applied to cuts, abrasions, and nosebleeds. Yarrow is also a
 nutritive bitter, stimulating gastric secretions and bile flow.
 
 Beyond medicine, yarrow is a valuable permaculture plant. It attracts
-pollinators and beneficial insects, accumulates nutrients through deep
-roots, and serves as a dynamic accumulator in companion planting
-schemes. Its drought tolerance and hardiness across USDA zones 3 to 9
+pollinators [[hemenway-insectary-plants-and-beneficial-insects]], accumulates nutrients through deep
+roots, and serves as a [[comparison-hyperaccumulator-vs-dynamic-accumulator]] in companion planting
+schemes. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and hardiness across USDA zones 3 to 9
 make it one of the easiest medicinal herbs to cultivate.
 
 ## Key Differences

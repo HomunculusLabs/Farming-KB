@@ -15,13 +15,13 @@ updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-  - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
-  - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-  - /Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-  - /Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
-  - /Users/t3rpz/wiki/raw/papers/mycelium-running-stamets.md
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
+  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
+  - "raw/papers/mycelium-running-stamets.md"
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 related_concepts:
   - mushroom-cultivation-fundamentals
   - mushroom-fruiting-biology-light-tropisms-and-environmental-triggers

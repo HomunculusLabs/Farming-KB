@@ -9,7 +9,7 @@ tags: [mineral, carbonate, calcium, soil-amendment, evaporite]
 
 ## Description
 
-Calcite is a carbonate mineral and the most stable polymorph of calcium carbonate (CaCO3). It is one of the most abundant minerals on Earth's surface and plays a central role in soil chemistry, water hardness, and agricultural liming. In the evaporite sequence from seawater, calcite is one of the first minerals to precipitate. Mollison notes that as seawater evaporates, calcite and dolomite separate out first, followed by gypsum and anhydrite, then rock salts, and finally potash and bitterns.
+Calcite is a carbonate mineral and the most stable polymorph of [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] (CaCO3). It is one of the most abundant minerals on Earth's surface and plays a central role in soil chemistry, water hardness, and agricultural liming. In the evaporite sequence from seawater, calcite is one of the first minerals to precipitate. Mollison notes that as seawater evaporates, calcite and dolomite separate out first, followed by gypsum and anhydrite, then rock salts, and finally potash and bitterns.
 
 ## Classification
 
@@ -37,7 +37,7 @@ It is the primary component of limestone, which is the most widely used agricult
 - The primary component of agricultural lime (limestone) used to raise [[cation-exchange-capacity]] (CEC) of soils
 - Affects availability of other nutrients through pH modification
 - Critical for legume nodulation and nitrogen fixation effectiveness
-- Adequate calcium is prerequisite for effective biological nitrogen fixation
+- Adequate calcium is prerequisite for effective [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 
 ### Evaporite and Marine Connections
 - First mineral to precipitate from seawater during evaporation
@@ -59,7 +59,7 @@ It is the primary component of limestone, which is the most widely used agricult
 ## Overview
 
 Calcite represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -80,7 +80,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Calcite finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -88,7 +88,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -109,7 +109,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 calcite and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

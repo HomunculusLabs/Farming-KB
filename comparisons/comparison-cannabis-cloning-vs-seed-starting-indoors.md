@@ -1,5 +1,5 @@
 ---
-title: "comparison cannabis cloning vs seed starting indoors vs Seed seed-starting-indoors-solomon"
+title: "Comparison Cannabis Clone Rooting And Transplanting Vs Seed Germination cloning vs Comparison Seed Starting Indoors Vs Direct Seeding Techniques vs Seed seed-starting-indoors-solomon"
 created: 2026-04-28
 tags: [comparison, cannabis, propagation, growing]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: comparison
 
 # [[seed-starting-indoors]]
 Starting cannabis from seed involves germinating seeds and raising
-seedlings through the vegetative stage before transitioning to
+seedlings through the [[cannabis-vegetative-stage]] before transitioning to
 flowering. Based on [[hamilton-pest-and-disease-control-organic]] transmission risks associated with cloning.
 
 The seed starting process for cannabis follows the general principles
@@ -45,9 +45,9 @@ cultivation.
 | Sex Guarantee | Female (if mother is female) | Requires feminized seeds or sexing at pre-flower |
 | Start to Harvest Time | Faster (skips seedling phase) | Slower (includes germination and seedling phase) |
 | Mother Plant Required | Yes (dedicated space and resources) | No |
-| Genetic Diversity | None (monoculture of single genotype) | High (sexual recombination) |
+| [[biodiversity-fungal-genetic-diversity]] | None (monoculture of single genotype) | High (sexual recombination) |
 | Pest/Disease Risk | Higher (transmitted from mother) | Lower (seeds are pathogen-free) |
-| Breeding Potential | None (sterile copies) | Full (sexual reproduction enables breeding) |
+| Breeding Potential | None (sterile copies) | Full ([[basidiomycete-mating-systems-sexual-reproduction]] enables breeding) |
 | [[cervantes-perpetual-harvest-cycle]] system rely on
 cloning because it provides predictable, uniform crops that can be
 managed on a fixed schedule. Cloning also allows growers to skip the
@@ -77,7 +77,7 @@ repetition of growing the same clone repeatedly.
 Seeds are also the practical choice for growers who do not have space to
 maintain a dedicated mother plant or who want to avoid the pest and
 disease risks associated with clone distribution networks. Pathogens
-like hop latent viroid (HLVd), spider mites, powdery mildew, and broad
+like hop latent viroid (HLVd), spider mites, [[cervantes-powdery-mildew-prevention-treatment]], and broad
 mites can spread silently through clone networks, devastating entire
 gardens. Starting from seed provides a clean slate with no inherited
 biological baggage. For legal markets where seed genetics are readily

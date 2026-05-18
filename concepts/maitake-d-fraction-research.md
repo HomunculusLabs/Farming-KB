@@ -11,16 +11,16 @@ sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 [[lentinan-pre-clinical-antitumour-models]] or schizophyllan-research|schizophyllan, which typically require injection.
 
 ### D-Fraction
-The Maitake D-fraction and crude Maitake powder have demonstrated remarkable inhibition of metastasis in immuno-competent mouse models, especially in prevention of **hepatic metastases** -- reduced by 81% (Maitake powder) to 91% (D-fraction) in experimental studies. This level of metastasis inhibition is among the highest reported for any mushroom polysaccharide preparation.
+The Maitake D-fraction and crude Maitake powder have demonstrated remarkable inhibition of metastasis in immuno-competent mouse models, especially in prevention of **hepatic metastases** -- reduced by 81% (Maitake powder) to 91% (D-fraction) in experimental studies. This level of metastasis inhibition is among the highest reported for any [[mushroom-polysaccharide-chemistry]] preparation.
 
 ## Direct Cytotoxic Effects
 
-Unlike many mushroom polysaccharides that act purely through [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] (elevated lipid peroxidation, oxidative membrane damage)
+Unlike many [[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]] that act purely through [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] (elevated lipid peroxidation, oxidative membrane damage)
 - **Vitamin C acts synergistically** with Grifron-D -- combinations as low as 30-60 micrograms/ml GD with 200 microM vitamin C were as effective as GD alone at 480 micrograms/ml
 - **Carmustine/GD combination** showed 90% reduction in cell viability, suggesting chemosensitising potential
 - GD may potentiate anticancer drugs through inactivation of **glyoxalase I**, a vital detoxifying enzyme
 
-The dual mechanism of both immune activation AND direct cytotoxicity makes Maitake unique among [[lentinan-pre-clinical-antitumour-models]]) operate primarily through immune modulation rather than direct tumour cell killing.
+The dual mechanism of both immune activation AND direct cytotoxicity makes Maitake unique among [[lentinan-pre-clinical-antitumour-models]]) operate primarily through [[cancer-immune-modulation-mechanisms]] rather than direct tumour cell killing.
 
 ## Clinical Trials
 
@@ -42,7 +42,7 @@ The US FDA has approved Grifron-D for trial under an Investigational New Drug Ap
 
 ## Mechanism of Action
 
-As a kappa opioid receptor mechanism involves CR3 (complement receptor 3) on immune cells, consistent with other mushroom beta-glucans. The dual mechanism of both immune activation and direct cytotoxicity makes Maitake unique among medicinal mushroom preparations.
+As [[salvinorin-a-kappa-opioid-receptor-pharmacology]] [[psilocybin-pharmacology-5ht2a-receptor-mechanism]] involves CR3 (complement receptor 3) on immune cells, consistent with other mushroom beta-glucans. The dual mechanism of both immune activation and direct cytotoxicity makes Maitake unique among [[gourmet-medicinal-mushroom-casing-layer-techniques]] preparations.
 
 Grifolan's cytokine induction profile (IL-1beta, IL-6, TNF-alpha) activates the immune cascade at the macrophage level, which then communicates with T-cells and NK cells. The T-cell dependence of antitumour activity has been confirmed through experiments with cyclosporin A.
 

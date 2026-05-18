@@ -1,5 +1,5 @@
 ---
-title: "Masonry Heater vs Pellet Stove"
+title: "Comparison Charcoal Production For Cooking Vs Masonry Heater Design Comparison Rocket Stove Vs Pellet Stove"
 tags: [comparison, heating, homesteading, off-grid, energy]
 date: 2026-05-09
 updated: 2026-05-09
@@ -11,10 +11,10 @@ sources: []
 ## Overview
 
 Masonry heaters and pellet stoves represent two fundamentally different
-approaches to efficient wood heating. A [[pellet-stove-heating|pellet stove]] feeds compressed wood pellets
+approaches to [[rocket-stoves-and-efficient-wood-burning-design]] heating. A [[pellet-stove-heating]] feeds compressed wood pellets
 continuously via an automated auger system, offering thermostat control
 and steady output with minimal user intervention. Choosing between them
-depends on whether you value passive thermal mass storage or automated
+depends on whether you value [[coleman-soil-heat-mass-passive-thermal-storage]] mass storage or automated
 convenience.
 
 ## Masonry Heater
@@ -80,7 +80,7 @@ rather than expecting instant on-demand heat.
 
 ## When to Choose a Pellet Stove
 
-A pellet stove excels when convenience and precise temperature control
+A pellet stove excels when convenience and precise [[hamilton-greenhouse-heating-and-temperature-control]]
 are priorities. If you work long hours and want to come home to a warm
 house, the thermostat automation delivers that without attention. The
 lower upfront cost makes pellet stoves accessible to a much wider range

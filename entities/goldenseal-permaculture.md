@@ -1,5 +1,5 @@
 ---
-title: Goldenseal (Permaculture Resource)
+title: Goldenseal (Permaculture Resource Assessment And Client Consultation)
 source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Goldenseal is a perennial herb native to eastern North America, valued for its medicinal root containing the alkaloid [[berberine]]. Mollison references goldenseal as an example of a high-value specialty crop that may already exist unrecognized on a client's property, representing what he calls "the greatest unplanted goldenseal farm in the country" — land that naturally supports the species without deliberate cultivation.
+Goldenseal is a perennial herb native to [[polypore-fungi-eastern-north-america]], valued for its medicinal root containing the alkaloid [[berberine]]. Mollison references goldenseal as an example of a high-value specialty crop that may already exist unrecognized on a client's property, representing what he calls "the greatest unplanted goldenseal farm in the country" — land that naturally supports the species without deliberate cultivation.
 
 ## Classification
 
@@ -18,7 +18,7 @@ Goldenseal is a perennial herb native to eastern North America, valued for its m
 - **Species**: H. canadensis
 - **Common names**: Goldenseal, orange root, yellow puccoon, ground raspberry
 - **Growth form**: Low-growing perennial herb, 20-30 cm tall
-- **Native range**: Eastern deciduous forests of North America
+- **Native range**: Eastern deciduous forests [[huckleberries-and-wild-berries-of-north-america]]
 
 ## Key Facts
 
@@ -62,11 +62,11 @@ Goldenseal's requirement for shade makes it a natural component of multi-story p
 
 ### Conservation Through Cultivation
 
-By promoting goldenseal cultivation, permaculture designers contribute to conservation of wild populations. Every pound of cultivated goldenseal reduces pressure on wild stands, aligning economic activity with ecological protection.
+By promoting goldenseal cultivation, [[bill-mollison-permaculture-designers-manual]] contribute to conservation of wild populations. Every pound of cultivated goldenseal reduces pressure on wild stands, aligning economic activity with ecological protection.
 
 ### Low-Input Production
 
-Once established in appropriate habitat, goldenseal requires minimal inputs — no tillage, irrigation, or chemical amendments. This aligns with [[permaculture-principles]] of low-energy-input, high-yield production systems. The main management requirements are weed control and protection from overharvesting.
+Once established in appropriate habitat, goldenseal requires minimal inputs — no tillage, irrigation, or [[comparison-organic-vs-chemical-amendments]]. This aligns with [[permaculture-principles]] of low-energy-input, high-yield production systems. The main management requirements are weed control and protection from overharvesting.
 
 ### Diversified Forest Income
 
@@ -78,4 +78,4 @@ The goldenseal example reinforces that the permaculture designer's primary skill
 
 ## Source Reference
 
-Mollison, Bill. *Permaculture Design Course Pamphlet VIII — Designing for Permaculture*. Yankee Permaculture, 1981.
+Mollison, Bill. *[[mollison-permaculture-design-course-curriculum]] Pamphlet VIII — Designing for Permaculture*. Yankee Permaculture, 1981.

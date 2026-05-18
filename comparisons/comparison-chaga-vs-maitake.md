@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 Chaga (*[[maitake-grifola-frondosa]]*)
-are two of the most celebrated medicinal mushrooms in the world, yet they
+are two of the most celebrated [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] in the world, yet they
 occupy fundamentally different ecological niches, offer distinct bioactive
 compound profiles, and serve different therapeutic goals. Chaga is a sterile
 conk harvested from living birch trees in boreal forests, prized for its
@@ -26,9 +26,9 @@ enthusiasts choose the right mushroom for their specific needs.
 
 [[maitake-grifola-frondosa]]
 
-Maitake (*Grifola frondosa*), meaning "dancing mushroom" in Japanese, is a
+Maitake (*[[grifola-frondosa]]*), meaning "dancing mushroom" in Japanese, is a
 large polypore forming compound clusters of overlapping gray-brown caps at
-the base of oak, beech, and elm trees in temperate forests of North America,
+the base of oak, beech, and elm trees in temperate forests [[huckleberries-and-wild-berries-of-north-america]],
 Europe, and Japan. Individual clusters can weigh up to 50 pounds. Unlike
 chaga, maitake is both a prized culinary mushroom and a potent medicinal
 species.
@@ -41,7 +41,7 @@ many competitors. Alpha-glucans contribute unique metabolic benefits including
 blood sugar regulation, insulin sensitivity improvement, and cholesterol
 reduction.
 
-Maitake is cultivable on supplemented hardwood sawdust substrates, though it
+Maitake is cultivable on supplemented [[hardwood-sawdust-substrate]] substrates, though it
 presents more challenges than oyster or shiitake due to slower growth. Wild
 harvest traditions are deeply rooted in Japanese culture, with secret foraging
 locations passed through generations.
@@ -67,12 +67,12 @@ systemic inflammation, or addressing exposure to environmental stressors. Its
 exceptional melanin content and triterpenoid profile make it the superior
 choice for oxidative stress management and general vitality during periods
 of high physical or mental demand. Chaga tea is ideal as a daily adaptogenic
-tonic, particularly in cold climates where its warming, earthy character is
+tonic, particularly [[query-how-do-i-grow-figs-in-cold-climates]] where its warming, earthy character is
 culturally traditional.
 
 Chaga is also the better choice for those interested in antiviral support,
 as betulinic acid and inotodiol have demonstrated antiviral properties in
-preclinical research. However, wild harvest sustainability is a genuine
+preclinical research. However, wild [[wild-mushroom-harvest-sustainability]] is a genuine
 concern — seek suppliers who practice responsible harvesting, leaving at
 least 30% of each conk intact.
 

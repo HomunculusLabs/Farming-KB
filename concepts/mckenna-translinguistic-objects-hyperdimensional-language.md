@@ -1,6 +1,6 @@
 ---
 title: "mckenna-translinguistic-objects-cognitive-dissonance-tryptamine and Hyperdimensional Language in Tryptamine Experiences"
-aliases: ["glossolalia-tryptamine-language entities"]
+aliases: ["[[glossolalia-tryptamine-language]] entities"]
 tags: [dmt, tryptamines, phenomenology, language, entities, mckenna, hyperdimensional]
 ---
 
@@ -68,7 +68,7 @@ The phenomenon challenges the assumption that language is exclusively a product 
 
 If a hyperdimensional language exists and is accessible under tryptamine influence, it may represent a mode of communication that consciousness can access independently of the specific neurobiological apparatus of the human brain.
 
-This possibility has profound implications for understanding the nature of consciousness and its relationship to physical reality.
+This possibility has profound implications for understanding the [[tryptamine-hallucinogens-and-nature-of-consciousness]] and its relationship to physical reality.
 
 ## Relationship to Entity Encounters
 

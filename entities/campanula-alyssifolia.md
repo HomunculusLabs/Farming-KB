@@ -21,7 +21,7 @@ Campanula alyssifolia is a compact, cushion-forming perennial bellflower endemic
 
 The species epithet "alyssifolia" refers to its leaves, which resemble those of the genus Alyssum — small, greyish, and closely packed. This adaptation helps the plant conserve moisture in its harsh alpine environment.
 
-It is highly valued in rock garden cultivation for its neat, dome-shaped habit and prolific flowering display. The plant rarely exceeds 8 cm in height, making it one of the smallest Campanula species in cultivation.
+It is highly valued in [[hamilton-rock-garden-design]] cultivation for its neat, dome-shaped habit and prolific flowering display. The plant rarely exceeds 8 cm in height, making it one of the smallest Campanula species in cultivation.
 
 ## Taxonomy and Morphology
 
@@ -48,9 +48,9 @@ Winter conditions in its native range include prolonged snow cover and temperatu
 
 ## Cultivation
 
-Campanula alyssifolia requires exceptionally sharp drainage and a lime-rich growing medium. A mix of equal parts coarse sand, crushed limestone chips, and loam-based compost provides ideal conditions.
+Campanula alyssifolia requires exceptionally sharp drainage and a lime-rich [[cervantes-green-algae-growing-medium]]. A mix of equal parts coarse sand, crushed limestone chips, and loam-based compost provides ideal conditions.
 
-Full sun is essential for compact growth and abundant flowering. Plants grown in shade become leggy and flower poorly. A south-facing rock crevice or trough garden is ideal.
+Full sun is essential for [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and abundant flowering. Plants grown in shade become leggy and flower poorly. A south-facing rock crevice or trough garden is ideal.
 
 Propagation is primarily by seed sown in late winter. Seeds require a period of cold stratification (4–6 weeks at 0–4°C) for reliable germination. Surface-sow on moist, gritty compost.
 
@@ -62,7 +62,7 @@ The species is hardy to approximately USDA Zone 5 (−29°C) when provided with 
 
 In its native Turkish alpine habitats, Campanula alyssifolia serves as a pioneer species on unstable limestone scree. Its fibrous root system helps stabilize loose substrate particles.
 
-The nodding flowers are adapted for pollination by small solitary bees and hoverflies. The pendant orientation protects pollen from rain washout in the frequently wet mountain environment.
+The nodding flowers are adapted for pollination by small [[comparison-honey-bees-vs-native-solitary-bees]] and hoverflies. The pendant orientation protects pollen from rain washout in the frequently wet mountain environment.
 
 Like many alpine cushion plants, it provides microhabitat shelter for invertebrates and serves as a nurse plant for seedlings of other species. The dense foliage creates a warmer, more humid microclimate within the cushion.
 
@@ -70,9 +70,9 @@ Like many alpine cushion plants, it provides microhabitat shelter for invertebra
 
 Campanula alyssifolia has a naturally restricted range within the Turkish Taurus Mountains. While not currently listed as threatened on the IUCN Red List, its limited distribution makes it vulnerable to habitat disturbance.
 
-Climate change poses a long-term threat to alpine populations, as warming temperatures push suitable habitat zones to higher elevations. The highest peaks in the Taurus range provide limited upward migration space.
+[[dighton-fungal-responses-climate-change]] poses a long-term threat to alpine populations, as warming temperatures push suitable habitat zones to higher elevations. The highest peaks in the Taurus range provide limited upward migration space.
 
-Over-collection by alpine plant enthusiasts has historically impacted some accessible populations. Seed collection from cultivated specimens is preferred to wild harvesting.
+Over-collection by alpine plant enthusiasts has historically impacted some accessible populations. Seed collection from cultivated specimens is preferred to [[sustainable-wild-harvesting]].
 
 ## See Also
 

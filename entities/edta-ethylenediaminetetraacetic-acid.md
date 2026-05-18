@@ -7,7 +7,7 @@ tags: [chemical, chelating-agent, soil-science]
 
 ## Description
 
-EDTA (ethylenediaminetetraacetic acid) is a synthetic chelating agent widely used in agriculture and horticulture to improve mineral availability to plants. It works by binding positively charged metal ions, neutralizing their charge and allowing them to pass through cell membranes more readily.
+EDTA (ethylenediaminetetraacetic acid) is a synthetic chelating agent widely used in agriculture and horticulture to improve [[chelation-microbial-mineral-availability-ingham]] to plants. It works by binding positively charged metal ions, neutralizing their charge and allowing them to pass through cell membranes more readily.
 
 ## Classification
 
@@ -22,7 +22,7 @@ EDTA (ethylenediaminetetraacetic acid) is a synthetic chelating agent widely use
 - After the plant removes the mineral, the EDTA residue is typically expelled back out of the plant rather than metabolized.
 - EDTA contrasts with biological chelation, where bacteria and fungi produce proteins and amino acids to neutralize cation charges for membrane transport.
 - Synthetic chelators like EDTA may leave undesirable residues in plant tissue that organic-approved chelators do not.
-- Organic certification bodies (OMRI, IFOAM) may not approve EDTA-based products for organic growing operations.
+- [[fukuoka-critique-organic-certification]] bodies (OMRI, IFOAM) may not approve EDTA-based products for organic growing operations.
 
 ## Relevance to Cultivation and Mycology
 
@@ -30,7 +30,7 @@ EDTA (ethylenediaminetetraacetic acid) is a synthetic chelating agent widely use
 - In [[compost]] tea production and [[soil-food-web]] management, biological chelation by microorganisms is preferred over synthetic chelation.
 - Bacteria and fungi naturally chelate minerals using proteins and amino acids, making synthetic chelation unnecessary when soil biology is healthy.
 - The presence of adequate soil microbiology eliminates the need for EDTA because microbes perform chelation as part of normal nutrient cycling.
-- EDTA-based products may persist in soil and potentially affect microbial communities in ways that are not fully understood.
+- EDTA-based products may persist in soil and potentially affect [[cannabis-rhizosphere-microbial-communities]] in ways that are not fully understood.
 
 ## Relationship to Soil Biology
 
@@ -58,11 +58,11 @@ Operates through complex interactions between biological, chemical, and physical
 
 ## Practical Applications
 
-Applied in agricultural production, land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
+Applied in [[fukuoka-agricultural-production-net-energy-deduction]], land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
 
 ## Research Findings
 
-Studies demonstrate measurable effects on soil health, plant growth, and ecosystem function. Ongoing research continues to refine understanding and application methods.
+Studies demonstrate measurable effects on soil health, plant growth, [[fungal-biodiversity-and-ecosystem-function]]. Ongoing research continues to refine understanding [[diy-fertilizer-recipes-and-application-methods]].
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.

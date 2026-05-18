@@ -1,6 +1,6 @@
 ---
 
-title: Pablo Amaringo
+title: Ayahuasca Preparation Pablo Amaringo Ucayali Shamanism
 created: 2026-04-11
 updated: 2026-04-12
 type: entity
@@ -26,7 +26,7 @@ sources:
 
 # Pablo Amaringo
 
-Pablo Amaringo (1938-2009) was a Peruvian vegetalista (plant healer), shaman, and artist from the Ucayali region of the Peruvian Amazon. He became internationally renowned for his intricate visionary paintings depicting ayahuasca experiences, Amazonian plant spirits, and the invisible world of the vegetalista.
+Pablo Amaringo (1938-2009) was a Peruvian vegetalista (plant healer), shaman, and artist from the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of the [[ayahuasca-tourism-economics-peruvian-amazon]]. He became internationally renowned for his intricate visionary paintings depicting ayahuasca experiences, Amazonian plant spirits, and the invisible world of the vegetalista.
 
 ## Biography
 
@@ -48,7 +48,7 @@ The preparation process Amaringo documented requires strict discipline:
 - No salty, sweet, or bitter food; no alcohol
 - Must rise early and make an offering of tobacco, matches, and banana leaf to the "grandfather" (ayahuasca spirit)
 - The chicua bird (Piaya cayana) serves as an omen: "chis, chis" means favorable conditions; "chicua" means danger
-- The vine is cut, boiled for 3-4 hours across multiple pots, with chacruna (Psychotria viridis) added
+- The vine is cut, boiled for 3-4 hours across multiple pots, with chacruna ([[chacruna-psychotria-viridis]]) added
 - Must be cooked in clay pots, not aluminum
 - Prepared in solitude — no one must see the pot
 - Tobacco is added to the brew as an additional ingredient
@@ -92,7 +92,7 @@ Amaringo describes the two plants as snake spirits:
 
 ## Legacy
 
-Amaringo's paintings bridge Amazonian shamanism and the global art world, providing an unparalleled visual record of ayahuasca visionary experiences. His work contributed to international awareness of Amazonian plant medicine traditions and the concept of plant consciousness.
+Amaringo's paintings bridge [[chullachaki-and-soul-recovery-in-amazonian-shamanism]] and the global art world, providing an unparalleled visual record of ayahuasca visionary experiences. His work contributed to international awareness of Amazonian plant medicine traditions and the concept of plant consciousness.
 
 ## See Also
 

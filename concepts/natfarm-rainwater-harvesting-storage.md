@@ -1,5 +1,5 @@
 ---
-title: Natfarm Rainwater Harvesting Storage
+title: Natfarm Comparison Drip Irrigation Vs Rainwater Harvesting Storage
 created: 2026-04-28
 tags: [rainwater, water-storage, water-harvesting, permaculture, self-sufficiency]
 date: 2026-04-25

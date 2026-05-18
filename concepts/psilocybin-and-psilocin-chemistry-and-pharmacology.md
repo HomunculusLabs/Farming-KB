@@ -4,7 +4,7 @@
 
 Psilocybin and psilocin are the principal psychoactive compounds found in hallucinogenic
 mushrooms of the genus *Psilocybe* and several related genera. These substances belong to
-a class of organic compounds known as indolealkylamines, or more specifically, tryptamines.
+a class of [[chamovitz-plant-scent-communication-volatile-organic-compounds]] known as indolealkylamines, or more specifically, tryptamines.
 They are responsible for the characteristic psychedelic effects experienced after ingestion
 of psilocybin-containing mushrooms, which have been used for centuries in traditional and
 ceremonial contexts across Mesoamerica and other regions of the world.
@@ -28,7 +28,7 @@ metabolite of psilocybin. Upon ingestion, psilocybin is rapidly dephosphorylated
 enzyme alkaline phosphatase in the body, converting it into psilocin. Psilocin is less
 stable than psilocybin in the open air due to the free hydroxyl group at the 4-position,
 which is susceptible to oxidation. It is this compound that directly interacts with
-serotonin receptors in the central nervous system to produce psychoactive effects.
+[[psilocybin-pharmacology-and-serotonin-receptors]] in the central nervous system to produce psychoactive effects.
 
 ### Structural Relationship to Serotonin
 
@@ -37,7 +37,7 @@ or 5-HT), a key neurotransmitter involved in mood regulation, perception, and co
 The indole ring system common to both serotonin and the [[tryptamine-hallucinogens]] allows
 these compounds to bind to serotonin receptor sites, particularly the 5-HT2A receptor
 subtype. This structural mimicry is fundamental to understanding the pharmacological
-mechanism of action of psilocybin and related compounds.
+mechanism of action of psilocybin and [[lsd-structure-activity-relationships-related-compounds]].
 
 ## Pharmacology
 
@@ -50,11 +50,11 @@ experience. The 5-HT2A receptor is densely expressed in cortical layer V pyramid
 neurons, and its stimulation leads to increased glutamate release and altered patterns of
 neuronal firing that correlate with changes in perception, mood, and cognition. Additional
 affinity for other serotonin receptor subtypes (5-HT1A, 5-HT2C) and dopaminergic pathways
-may contribute to the overall subjective experience.
+may contribute to the overall [[dosage-unpredictability-psilocybin-subjective-experience]].
 
 ### Other Tryptamine Alkaloids in Mushrooms
 
-In addition to psilocybin and psilocin, hallucinogenic mushrooms contain smaller quantities
+In addition to psilocybin and psilocin, [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] contain smaller quantities
 of other tryptamine alkaloids. Baeocystin (4-phosphoryloxy-N-methyltryptamine) and
 norbaeocystin (4-phosphoryloxytryptamine) are N-demethylated analogues of psilocybin that
 are present in many *Psilocybe* species. These compounds are generally considered to be
@@ -80,5 +80,5 @@ The phenylethylamine class includes mescaline (found in *[[european-hallucinogen
 ## Source
 
 This page is based on content from the EMCDDA 2006 report on hallucinogenic mushrooms.
-Source: EMCDDA (2006), *Hallucinogenic mushrooms: an emerging trend in Europe?*
+Source: EMCDDA (2006), *Hallucinogenic mushrooms: an [[emcdda-epod-project-emerging-trend-detection-methodology]] in Europe?*
 European Monitoring Centre for Drugs and Drug Addiction, Lisbon.

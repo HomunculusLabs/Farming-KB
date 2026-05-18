@@ -10,8 +10,8 @@ sources: []
 
 ## Overview
 
-Maitake (Grifola frondosa) and Wine Cap (Stropharia rugosoannulata) represent
-two very different approaches to mushroom cultivation. Maitake is a demanding
+Maitake ([[grifola-frondosa]]) and Wine Cap ([[stropharia-rugosoannulata]]) represent
+two very different approaches to [[accessible-mushroom-cultivation-for-disabilities]]. Maitake is a demanding
 indoor species prized for its medicinal beta-glucans and rich culinary flavor,
 while Wine Cap is one of the easiest outdoor mushrooms to grow, thriving in
 simple wood chip beds with minimal equipment. This comparison helps
@@ -20,16 +20,16 @@ choose the species that matches their skill level, resources, and goals.
 
 ## Maitake Cultivation
 
-[[oyster-mushroom-pleurotus-ostreatus|oyster]] or
+[[oyster-mushroom-pleurotus-ostreatus]] or
 [[wine-cap-stropharia-cultivation]]
 
 Wine Cap, also called King Stropharia or Garden Giant, is among the most
-accessible cultivated mushrooms. It grows outdoors in wood chip beds,
+accessible [[fungi-cultivated-mushrooms-pathogens-competitors]]. It grows outdoors in wood chip beds,
 requiring
 no sterile technique, pressure cooker, or grow room. Simply layer hardwood
 chips with spawn in a shaded area, keep moist, and wait for fruiting in spring
 and fall. This simplicity makes it an ideal first mushroom for beginners,
-homesteaders, and permaculture designers.
+homesteaders, and [[bill-mollison-permaculture-designers-manual]].
 
 The mushrooms themselves are large, burgundy-capped beauties with firm white
 stems and a flavor often described as potato-like with hints of red wine.
@@ -113,7 +113,7 @@ production.
 | Targeting medicinal market | Maitake |
 | Budget under $100 | Wine Cap |
 | Year-round production needed | Maitake |
-| Permaculture food forest integration | Wine Cap |
+| [[permaculture-food-forest-design-principles]] integration | Wine Cap |
 | Both premium culinary and volume | Both |
 
 ## See Also

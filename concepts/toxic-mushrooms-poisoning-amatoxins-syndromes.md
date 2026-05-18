@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
+  - "raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"
 type: concept
 ---
 

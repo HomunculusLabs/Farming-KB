@@ -1,5 +1,5 @@
 ---
-title: "Season season-extension-techniques vs Cold Frame Gardening"
+title: "Season season-extension-techniques vs Comparison Cold Frame Gardening Vs Container Gardening Guide"
 created: 2026-04-28
 tags: [comparison, season-extension, cold-frame, gardening, homesteading]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 Season extension is a broad category of techniques that modify microclimates
-to extend the productive growing period, while cold frames are a single,
+to extend the productive [[mushroom-growing-period-and-crop-management]], while cold frames are a single,
 specific structure within that toolkit. Understanding both helps growers
 [[cold-frame-gardening]]
 A cold frame is a bottomless box with a transparent lid that captures solar
@@ -27,7 +27,7 @@ transparent lid and warms the soil and air inside; the lid traps the heat,
 preventing it from escaping; and the insulated sides and bottom reduce heat
 loss. On a sunny 40-degree F day, the interior temperature can reach 60 to 80
 degrees F. At night, the captured solar heat radiates back to the plants,
-providing frost protection of 5 to 15 degrees F above outside temperatures.
+providing [[cervantes-microclimate-frost-protection]] of 5 to 15 degrees F above outside temperatures.
 
 Cold frames excel at specific tasks: hardening off seedlings started indoors
 over 7 to 10 days, direct sowing cold-hardy crops 4 to 6 weeks before the last
@@ -35,7 +35,7 @@ frost date, and growing winter greens in mild climates. Their small footprint
 makes them ideal for home gardeners with limited space. Construction is simple
 and inexpensive using reclaimed windows, scrap lumber, cinder blocks, or even
 straw bales. The standard dimensions are 3 to 4 feet wide by 4 to 8 feet long,
-with the lid sloped toward the south to maximize solar capture.
+with the lid sloped toward the south to maximize [[savory-energy-flow-and-solar-capture]].
 
 The primary management concern is ventilation. On sunny days, interior
 temperatures can reach 80 to 100 degrees F even when outside temperatures are
@@ -71,7 +71,7 @@ availability.
 Cold frames are ideal for home gardeners, beginners, and anyone needing a low-
 cost entry point into season extension. They are the perfect tool for
 hardening off indoor-started seedlings, which is a task every grower who
-starts seeds indoors must perform. For gardeners in zones 6 through 8, a cold
+starts [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] must perform. For gardeners in zones 6 through 8, a cold
 frame can supply fresh greens year-round with minimal investment. Their small
 size means they fit into any yard, patio, or rooftop garden. The construction
 simplicity allows even novice builders to complete a project in a single
@@ -79,7 +79,7 @@ weekend.
 
 ## Hybrid Approaches
 Cold frames integrate naturally into a broader season extension program. Use
-cold frames for the earliest seed starting and hardening off, then graduate
+cold frames for the earliest seed starting [[vegetable-transplanting-and-hardening-off]], then graduate
 plants to low tunnels or high tunnels as they grow. Place cold frames inside
 high tunnels for an additional layer of winter protection. The cold frame
 becomes the nursery that feeds the larger growing system. In spring, the cold

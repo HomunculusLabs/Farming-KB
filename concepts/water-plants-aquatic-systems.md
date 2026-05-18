@@ -6,7 +6,7 @@ tags: [aquaculture, permaculture, food-production,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
+  - "raw/papers/a-selection-permaculture-plants.md"
 type: concept
 ---
 

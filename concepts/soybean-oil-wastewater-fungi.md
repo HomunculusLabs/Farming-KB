@@ -1,9 +1,9 @@
 ---
-title: Soybean Oil dairy-wastewater-fungal-treatment Treatment
+title: Soybean Oil Dairy Wastewater Fungal Treatment Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology]], fungi]
 sources: []
 ---
 # Soybean Oil Wastewater Fungal Treatment ## Overview Wastewater from soybean oil manufacturing plants is characterized by high oil content (88% oils, 3% carbohydrates, 3% proteins, 6% unknown substances) and presents a significant treatment challenge. Fungal treatment using oil-decomposing yeasts has demonstrated effective removal without the need for chemical pretreatment, as part of [[protein-fat-wastewater-fungi]] -- broader fungal wastewater treatment overview
@@ -18,10 +18,10 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 
@@ -59,7 +59,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

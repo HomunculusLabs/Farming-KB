@@ -17,7 +17,7 @@ tags:
 
 ## Overview
 
-In Mr. Bloomfield's Orchard, Nicholas Money describes the hidden battles
+In Mr. Bloomfield's Orchard, [[nicholas-money]] describes the hidden battles
 waged between fungal mycelia within the wood of living and dead trees.
 When different species and incompatible strains of the same species
 meet inside wood, they fight or fuse. The resulting conflicts produce
@@ -44,7 +44,7 @@ attack each other's hyphae and produce thick, melanin-impregnated
 walls to resist each other's poisons. These melanized zone lines are
 visible as black or brown demarcations within decaying wood, creating
 a map of contested territories that reveals the complex politics of
-the fungal community.
+the [[air-pollution-fungal-community-responses]].
 
 ## Fusion and Compatibility
 
@@ -84,7 +84,7 @@ provide a rare window into the dynamics of this hidden world.
 ## Implications for Forest Management
 
 Understanding fungal warfare has practical implications for forest
-management and timber production. The rate and pattern of wood decay
+management and [[honey-locust-pod-fodder-timber-production]]. The rate and pattern of wood decay
 affects the structural integrity of standing trees, the quality of
 harvested timber, and the availability of dead wood as habitat for
 other organisms. Forest managers who understand the dynamics of fungal
@@ -105,6 +105,6 @@ by organisms that communicate through chemistry rather than language.
 
 - bloomfield wood decay fungi basidiomycetes
 - [[bloomfield-fungal-secondary-metabolites]]
-- bloomfield fungal antibiotics penicillin
-- bloomfield arouilla gallica humongous fungus
-- bloomfield mycorrhizal symbiosis
+- [[bloomfield-fungal-antibiotics-and-soil-nitrogen-ecology]] penicillin
+- bloomfield arouilla [[bloomfield-armillaria-gallica-humongous-fungus-clone-organism]]
+- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]

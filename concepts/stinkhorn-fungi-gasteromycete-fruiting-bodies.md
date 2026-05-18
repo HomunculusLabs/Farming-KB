@@ -5,7 +5,7 @@ tags: [mycology, fungi, stinkhorn, basidiomycota, reproduction]
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
 type: concept
 ---
 
@@ -117,3 +117,7 @@ In China, the eggs of one *Dictyophora* species are sold as delicacies and
 marketed as aphrodisiacs. Inside the unhatched egg, the stinkhorn slime does
 not smell particularly awful, and some mycologists have reportedly enjoyed
 them prepared with cream.
+
+## Practical Considerations
+
+Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.

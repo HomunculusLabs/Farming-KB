@@ -1,6 +1,6 @@
 ---
-title: Psilocybe Cubensis Miniculture Method
-aliases: [miniculture mushroom cultivation, half-pint jar mushroom grow, rye-grain-miniculture-production-parameters
+title: Peat Calcium Carbonate Perlite Casing Psilocybe Cubensis Miniculture Method
+aliases: [miniculture [[accessible-mushroom-cultivation-for-disabilities]], half-pint jar mushroom grow, rye-grain-miniculture-production-parameters
 tags: [mycology, cultivation, psilocybe-cubensis, miniculture, rye-grain, sterile-technique, flush-harvest]
 created: 2026-05-10
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
@@ -39,7 +39,7 @@ The casing layer is applied approximately 2 cm deep.
 ### Equipment
 
 - Wide-mouth half-pint jars (~250 ml) — wide mouth allows easy access for casing and harvesting
-- Autoclave (pressure cooker) — for [[mushroom-substrate-sterilization-and-pasteurization]]
+- Autoclave ([[double-layer-tinfoil-jar-covering-pressure-cooker-method]]) — for [[mushroom-substrate-sterilization-and-pasteurization]]
 - Sterile syringes — for watering
 - Inoculation tools — for transferring mycelium from agar stock to grain
 - Agar plates — for maintaining stock cultures
@@ -63,15 +63,15 @@ By day 28, the mycelium should have fully colonized the grain, appearing as a so
 
 1. Open the colonized jar (aseptic conditions are no longer necessary at this stage, as the fully colonized mycelium is contamination-resistant)
 2. Apply a ~2 cm deep casing layer of the peat/calcium carbonate/perlite-vermiculite mixture over the grain surface
-3. Water the casing lightly to field capacity
-4. Place the open jar under appropriate fruiting conditions (light, humidity, fresh air exchange)
+3. Water the casing lightly to [[bulk-substrate-field-capacity]]
+4. Place the open jar under appropriate [[fruiting-conditions]] (light, humidity, fresh air exchange)
 
 The first flush typically occurs 4–5 weeks after initial inoculation, or about 2 weeks after casing.
 
 ### Phase 3: Flush Management (Weeks 6–20+)
 
 1. Water each miniculture once every two days with 1 ml sterile water via syringe
-2. Monitor for primordium formation and mushroom development
+2. Monitor for primordium formation and [[acropetal-cell-expansion-stipe-elongation-mushroom-development]]
 3. Harvest each flush as soon as the sporocarps are mature (pileus fully expanded, spores being released)
 4. Immediately freeze-dry the harvested mushrooms
 5. Seal the dried mushrooms in plastic and store at −5°C until analysis

@@ -32,7 +32,7 @@ on the trunk, giving the species its specific epithet *coronata* (crowned).
 
 Licuri palm is best known as the primary food source for the Spix's macaw
 (Cyanopsitta spixii), one of the world's rarest birds. Although currently
-extinct in the wild, cannabis landrace conservation breeding genetic diversity breeding [[fungal-biodiversity-tropical-forests]] at elevations up to 800 meters. Population
+extinct in the wild, [[cannabis-landrace-conservation-breeding-genetic-diversity]] breeding [[biodiversity-fungal-genetic-diversity]] breeding [[fungal-biodiversity-tropical-forests]] at elevations up to 800 meters. Population
 density varies enormously: some Bahia sites exceed 200 individuals per hectare,
 while others are fragmented and declining due to land conversion.
 
@@ -51,7 +51,7 @@ Endangered species nest in sandstone cliffs adjacent to licuri stands in Bahia.
 ## Overview
 
 Syagrus Coronata represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -80,13 +80,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for syagrus coronata. Climate adaptation
+opportunities for syagrus coronata. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -101,7 +101,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 syagrus coronata and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

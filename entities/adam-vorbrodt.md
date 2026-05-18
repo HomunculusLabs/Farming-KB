@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md
+  - "raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"
 ---
 
 # Adam Vorbrodt

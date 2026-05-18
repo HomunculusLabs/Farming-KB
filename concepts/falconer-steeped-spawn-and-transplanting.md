@@ -13,9 +13,9 @@ spawn into pieces about two inches square and mixing them in
 a heap of manure that is fermenting gently. After lying in
 this heap about three weeks it will be found one mass of
 spawn, and just in the right condition for running vigorously
-all through the bed in a very short time. When flake spawn
+all through the bed in a very short time. When [[flake-spawn]]
 is used the appearance of the crop is from two to three
-weeks earlier than when brick spawn is used."
+weeks earlier than when [[brick-spawn]] is used."
 
 Falconer tried this method and gave it careful attention,
 but the results were inferior to those obtained where plain,
@@ -93,7 +93,7 @@ shallow planting is to be recommended. But if the beds are
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -104,14 +104,14 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
 
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
+these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.

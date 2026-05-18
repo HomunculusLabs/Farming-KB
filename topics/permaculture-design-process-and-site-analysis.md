@@ -6,8 +6,8 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - /Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-design-course.md
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 related_concepts:
   - permaculture-design-process
   - permaculture-design-process-overview

@@ -7,10 +7,10 @@ tags: [mycelium, fungal-ecology, decomposition, mycorrhiza, wood-wide-web,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md
-  - /Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md
-  - /Users/t3rpz/wiki/raw/papers/teaming-with-fungi-lowenfels.md
-  - /Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/unknown-mycelium-running.md"
+  - "raw/papers/symbiotic-fungi.md"
+  - "raw/papers/teaming-with-fungi-lowenfels.md"
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 related_concepts:
   - the-soil-food-web
   - mycorrhizal-fungi

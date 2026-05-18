@@ -1,5 +1,5 @@
 ---
-title: Reverse Osmosis Water for Compost Tea
+title: Reverse Osmosis Water Fungal Activation For Compost Tea
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 tags: [water-quality, reverse-osmosis, compost-tea, brewing, chlorine-removal]
@@ -9,7 +9,7 @@ tags: [water-quality, reverse-osmosis, compost-tea, brewing, chlorine-removal]
 
 ## Description
 
-Reverse osmosis (RO) water treatment is discussed in Elaine Ingham's field guide as a method for preparing high-quality water for brewing [[actively-aerated-compost-tea]] (AACT). Water quality is critical for successful AACT production, as contaminants in source water can harm beneficial microorganisms or introduce unwanted compounds.
+Reverse osmosis (RO) water treatment is discussed in Elaine Ingham's field guide as a method for preparing high-quality water for brewing [[actively-aerated-compost-tea]] (AACT). Water quality is critical for successful AACT production, as contaminants in source water can harm [[forest-and-bamboo-beneficial-microorganisms]] or introduce unwanted compounds.
 
 ## Classification
 
@@ -21,7 +21,7 @@ Reverse osmosis (RO) water treatment is discussed in Elaine Ingham's field guide
 ## Key Facts
 
 - **Principle**: RO forces water through a semi-permeable membrane that removes >95% of dissolved solids, including chlorine, chloramine, heavy metals, and minerals
-- **Chlorine removal**: Critical for AACT - chlorine in municipal water kills beneficial microorganisms
+- **[[aact-water-quality-chlorine-removal-brewing-standards-ingham]]**: Critical for AACT - chlorine in municipal water kills beneficial microorganisms
 - **Chloramine removal**: Unlike chlorine, chloramine does not dissipate by simply leaving water to stand; RO effectively removes it
 - **Mineral control**: RO removes dissolved minerals, allowing the brewer to precisely control the nutrient profile through food resources added to the tea
 - **pH effect**: RO water tends to be slightly acidic (pH 5.5-6.5) due to dissolved CO2, which may need adjustment
@@ -65,7 +65,7 @@ Reverse osmosis (RO) water treatment is discussed in Elaine Ingham's field guide
 1. **Produce RO water**: Run sufficient water through RO system for the brew volume
 2. **Check pH**: RO water may need pH adjustment to optimal range (6.2-6.8)
 3. **Add minerals back**: If using RO, may need to add trace minerals for optimal organism growth
-4. **Temperature**: Bring water to brewing temperature before starting
+4. **Temperature**: Bring water to [[compost-tea-brewing-temperature-ingredients]] before starting
 
 ### Cost Considerations
 - **Residential RO systems**: $150-500 for under-sink units
@@ -77,7 +77,7 @@ Reverse osmosis (RO) water treatment is discussed in Elaine Ingham's field guide
 
 Water quality directly impacts the success of [[compost-tea-brewing]]:
 
-- **Organism survival**: Chlorine and chloramine in untreated water kill the beneficial bacteria, fungi, and other organisms the tea is meant to cultivate
+- **Organism survival**: Chlorine and chloramine in untreated water kill the [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]], fungi, and other organisms the tea is meant to cultivate
 - **Fungal growth**: Fungi are particularly sensitive to water quality; chlorinated water severely inhibits fungal development in AACT
 - **Consistency**: RO water provides a consistent base, eliminating variability from source water quality changes
 - **Scale**: For commercial operations, RO may be necessary to produce consistent, high-quality compost tea at scale
@@ -91,7 +91,7 @@ Water quality directly impacts the success of [[compost-tea-brewing]]:
 
 ## References
 
-- Elaine Ingham, PhD - The Field Guide I for Actively Aerated Compost Tea
+- Elaine Ingham, PhD - The Field Guide I for [[actively-aerated-compost-tea-overview]] Tea
 
 ## See Also
 

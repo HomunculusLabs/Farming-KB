@@ -8,7 +8,7 @@ tags: [organic-gardening, soil-fertility, self-sufficiency, steve-solomon,
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 related_concepts:
   - solomon-complete-organic-fertilizer-cof-recipe
   - solomon-complete-organic-fertilizer-guide

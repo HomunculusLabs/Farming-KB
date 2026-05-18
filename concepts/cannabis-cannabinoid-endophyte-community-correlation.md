@@ -18,7 +18,7 @@ tags:
 
 Winston et al. (2014) investigated whether cannabinoid concentrations,
 particularly THC (delta-9-tetrahydrocannabinol) and CBD (cannabidiol), were
-correlated with endorhiza bacterial community structure across five Cannabis
+correlated with [[core-endorhiza-bacterial-community-composition-cannabis]] structure across five Cannabis
 cultivars. The study found statistically significant correlations between
 cannabinoid profiles and endorhiza community composition using Mantel tests,
 but also revealed that these correlations were substantially confounded by
@@ -43,10 +43,10 @@ profile are intrinsically linked.
 
 Mantel tests comparing cannabinoid concentration distance matrices with
 community dissimilarity matrices revealed significant but moderate correlations
-between cannabinoid profiles and endorhiza community structure. The correlation
+between cannabinoid profiles and [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]. The correlation
 was stronger when using weighted
-[[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome|Nitrogen availability]] was the
-strongest edaphic predictor of community structure, and nitrogen is also known
+[[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]] was the
+[[nitrogen-strongest-edaphic-factor-cannabis-microbiome-structuring]] predictor of community structure, and nitrogen is also known
 to influence cannabinoid biosynthesis rates. This dual role of nitrogen creates
 a statistical confound: the observed cannabinoid-microbiome correlation could
 reflect nitrogen's independent effects on both variables rather than a direct
@@ -56,25 +56,25 @@ cannabinoid-microbe interaction.
 
 Partial Mantel tests and distance-based redundancy analysis (dbRDA) were
 employed to partition the variance in community composition attributable to
-cannabinoid concentration versus edaphic factors. After controlling for soil
+cannabinoid concentration versus [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]]. After controlling for soil
 chemistry, the unique contribution of cannabinoid concentration to community
 variation was small but detectable. This residual signal suggests that some
 direct interaction between cannabinoid-producing root tissues and the
 endorhiza microbiome may exist, but it is dwarfed by the overwhelming influence
-of soil physicochemical properties.
+of [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]].
 
 ## Mechanisms of Cannabinoid-Microbiome Interaction
 
 Despite the confounding challenges, several plausible mechanisms could underlie
 direct cannabinoid-endophyte interactions. Cannabinoid compounds possess
-antimicrobial properties that could selectively inhibit or promote specific
+[[medicinal-mushroom-antimicrobial-properties]] that could selectively inhibit or promote specific
 bacterial taxa in the root interior. THC and CBD have documented antibacterial
 activity against Gram-positive bacteria, which could shape the relative
 abundance of Actinomycetales and other Gram-positive endorhiza members.
 
 Root exudates may also contain cannabinoid biosynthetic intermediates or
 degradation products that serve as carbon sources for specialized endophytes.
-The [[cannabis-cultivar-specificity-microbial-selection-mechanisms|cultivar-specific enrichments]] like [[sphingomonas-wittichii-maui-wowie|Sphingomonas wittichii]] may reflect differential
+The [[cannabis-cultivar-specificity-microbial-selection-mechanisms]] like [[sphingomonas-wittichii-maui-wowie]] may reflect differential
 tolerance to cannabinoid concentrations.
 
 ## Implications for Terroir

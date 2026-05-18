@@ -1,5 +1,5 @@
 ---
-title: comparison duck keeping vs rabbit husbandry vs comparison-rabbit-husbandry-vs-chicken-keeping
+title: comparison Comparison Chicken Keeping Vs Duck Keeping vs Comparison Rabbit Husbandry Vs Chicken Keeping comparison-rabbit-husbandry-vs-chicken-keeping
 created: 2026-04-28
 tags: [homesteading, livestock, poultry, small-scale-farming]
 date: 2026-04-28
@@ -52,7 +52,7 @@ roughly 4 lbs of feed per pound of gain versus more for ducks.
 ## Climate Tolerance
 
 Ducks are cold-hardy with waterproof feathers and body fat. Their main
-vulnerability is extreme heat with poor ventilation. Rabbits tolerate cold
+vulnerability is [[extreme-heat-preparedness]] with poor ventilation. Rabbits tolerate cold
 well but are extremely heat-sensitive — above 85 degrees F they risk fatal
 heat stroke, making them poorly suited to hot climates without dedicated
 cooling infrastructure. **Winner for hot climates: Ducks**, by a wide margin.
@@ -67,7 +67,7 @@ Muscovy). **Winner for meat volume: Rabbits. Winner for eggs: Ducks.**
 ## Products Beyond Meat
 
 Duck eggs have higher fat and protein than chicken eggs, thicker shells, and
-longer shelf life. Prized for baking and pastry. Rabbit pelts from heritage
+longer [[ingham-aact-holding-time-shelf-life-decay]]. Prized for baking and pastry. Rabbit pelts from heritage
 breeds yield marketable fur. Angora rabbits produce wool fiber. Rabbit manure
 (approx. 2.4% N, 1.4% P, 0.6% K) goes directly on gardens without composting.
 
@@ -99,11 +99,11 @@ $200-500, monthly feed $20-35.
 | Space per animal | 3-4 sq ft + outdoor | 24x30 inch hutch |
 | Feed conversion | Moderate | Excellent |
 | Foraging capability | High (30-50%) | Low (supplemental) |
-| Cold tolerance | Excellent | Good |
+| [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] | Excellent | Good |
 | Heat tolerance | Moderate | Poor |
 | Reproduction rate | Moderate | Very high |
 | Noise level | Moderate to high | Silent |
-| Manure handling | Requires composting | Apply directly |
+| [[solomon-manure-handling-and-cof-ingredients]] | Requires composting | Apply directly |
 
 ## See Also
 

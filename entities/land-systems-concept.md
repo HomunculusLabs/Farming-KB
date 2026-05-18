@@ -16,7 +16,7 @@ G.A. Stewart in 1953 for CSIRO (Commonwealth Scientific and Industrial Research
 Organisation), it provides a hierarchical geographical framework for
 understanding landscape patterns from the bioregion down to individual site
 level. The method remains one of the most powerful tools available to
-permaculture designers for reading and responding to landscape patterns.
+[[bill-mollison-permaculture-designers-manual]] for reading and responding to landscape patterns.
 
 ## Classification
 
@@ -50,7 +50,7 @@ permaculture designers for reading and responding to landscape patterns.
 
 ## Relevance to Cultivation and Permaculture
 
-1. **Pattern Recognition**: The approach embodies the permaculture principle of
+1. **Pattern Recognition**: The approach embodies the [[permaculture-principle-1-observe-interact]] of
    "[[design-from-patterns-to-details]]" by providing a top-down framework for
    landscape understanding that reveals underlying order in apparently complex
    terrain
@@ -80,7 +80,7 @@ permaculture designers for reading and responding to landscape patterns.
 
 - Little understood or used outside professional and scientific circles
 - Patterns within one bioregion do not necessarily translate to another
-- Standardisation attempts can ignore informal landscape reading skills
+- Standardisation attempts can ignore informal [[desert-landscape-reading-and-erosion-landforms]] skills
 - Cultural loading of terms like "improvement" and "degradation" affects how
   results are interpreted and applied
 - Training has traditionally been through apprenticeship within government
@@ -91,11 +91,11 @@ permaculture designers for reading and responding to landscape patterns.
 ## Holmgren's Application
 
 [[david-holmgren]] has applied Land Systems concepts in his design work including:
-- Melliodora (Hepburn Permaculture Gardens) — small property design informed by
+- Melliodora (Hepburn [[mollison-guinea-pig-integration-in-permaculture-gardens]]) — small property design informed by
   local land system patterns
 - Permaculture in the Bush (Nascimanere, 1992) — pattern language informing
-  small permaculture property design
-- Trees on the Treeless Plains — large-scale landscape planning for the volcanic
+  small [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]] design
+- Trees on the Treeless Plains — large-scale [[slope-analysis-landscape-planning]] for the volcanic
   landscapes of central Victoria using Land Systems as foundation
 
 ## Cross-References

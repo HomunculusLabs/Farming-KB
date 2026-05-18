@@ -5,11 +5,11 @@ tags: [rhizosphere, soil-ecology, mycorrhizae, microbiome, root-exudates, plant-
 date: 2026-04-28
 updated: 2026-04-28
 sources: [raw/papers/forest-gardening-robert-hart.md]
-  - /Users/t3rpz/wiki/raw/papers/teaming-with-fungi-lowenfels.md
-  - /Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md
-  - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
-  - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-  - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+  - "raw/papers/teaming-with-fungi-lowenfels.md"
+  - "raw/papers/symbiotic-fungi.md"
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+  - "raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md"
 related_concepts: "mycorrhizal-fungi, the-soil-food-web, mycelium-networks-and-fungal-ecology, composting-and-soil-biology, plant-sensory-biology-and-intelligence, living-soil-cannabis-cultivation, companion-planting-and-polycultures"
 ---
 

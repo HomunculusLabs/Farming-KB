@@ -32,9 +32,9 @@ Humicola is a genus of fungi commonly found in soil and decomposing organic matt
 
 - Cellulolytic decomposer of leaf litter and plant residues in forest soils
 - Produces cellulase and chitinase (beta-N-acetylglucosaminidase) enzymes for breaking down structural plant and fungal compounds
-- Can outperform mixed microbial communities in decomposition under certain conditions
+- Can outperform mixed [[cannabis-rhizosphere-microbial-communities]] in decomposition under certain conditions
 - Part of the soil saprotrophic fungal community in temperate forest ecosystems
-- Some species are thermophilic, thriving in self-heating compost and organic matter
+- Some species are thermophilic, thriving in self-heating [[coleman-compost-and-organic-fertility-management]] matter
 
 ## Enzyme Activity
 
@@ -47,14 +47,14 @@ Humicola is a genus of fungi commonly found in soil and decomposing organic matt
 - Humicola demonstrates that fungal-bacterial interactions are not always beneficial, informing composting and [[substrate-preparation]] strategies
 - Pure fungal cultures may be more efficient at substrate decomposition than mixed microbial communities under some conditions
 - Thermophilic Humicola species are relevant to [[phase-ii-composting]] in [[mushroom-cultivation]], where temperature peaks select for heat-tolerant fungi
-- The chitinase production is relevant to understanding fungal-fungal interactions and biological control
+- The chitinase production is relevant to understanding fungal-fungal interactions [[odonata-dragonflies-damselflies-ecology-and-biological-control]]
 - Understanding when fungal-bacterial synergy vs. antagonism occurs helps optimize substrate conditioning
 
 ## Key References
 
 - Moller et al. (1999) — Humicola carbon utilization vs. fungal-bacterial combinations on beech leaves
 - Robinson et al. (1993a,b) — Fungal interactions and decomposition on straw substrates
-- Cooke and Rayner (1984) — Fungal colonization and resource decomposition ecology
+- Cooke and Rayner (1984) — Fungal colonization and [[dighton-fungal-succession-resource-decomposition]] ecology
 
 ## Fungal-Bacterial Antagonism in Decomposition
 
@@ -63,7 +63,7 @@ The Humicola-bacteria interaction challenges common assumptions:
 - Moller et al. (1999) demonstrated the opposite: the fungus alone was more efficient than the fungus-bacteria combination
 - The mechanism appears to be non-nutritional competition: bacteria may produce compounds that inhibit fungal enzyme production or activity
 - Alternatively, the fungus may divert resources from enzyme production to defensive compounds when bacteria are present
-- This finding has implications for composting and substrate preparation where mixed communities are expected
+- This finding has implications for composting and [[bulk-substrate-preparation]] where mixed communities are expected
 
 ## Industrial Applications
 
@@ -79,5 +79,5 @@ Thermophilic Humicola species play important roles in the composting process:
 - Active during the thermophilic phase when temperatures exceed 45 degrees Celsius
 - Contribute to the breakdown of cellulose and hemicellulose during peak heating
 - Their thermostable enzymes remain active when mesophilic fungi are inactivated
-- In mushroom cultivation compost, Humicola and related [[thermophilic-fungi]] help create selective substrate
+- In [[psilocybin-mushroom-cultivation-compost-basics]], Humicola and related [[thermophilic-fungi]] help create selective substrate
 - The thermophilic phase reduces competitor organisms while selecting for heat-tolerant beneficial fungi

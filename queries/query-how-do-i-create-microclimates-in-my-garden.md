@@ -14,19 +14,19 @@ type: query
 Creating microclimates means deliberately modifying temperature, wind, moisture,
 and light conditions in specific areas of your garden using features like stone
 walls, water bodies, windbreaks, and strategic plant placement.
-The key principles are capturing solar energy with thermal mass, blocking wind
-with vegetation or structures, managing cold air drainage, and maximizing
+The key principles are capturing solar energy with [[comparison-windbreak-vs-thermal-mass]], blocking wind
+with vegetation or structures, managing [[hemenway-cold-air-drainage-and-frost-management]], and maximizing
 productive edge between different growing zones.
-Even small gardens offer multiple opportunities for microclimate modification.
+Even small gardens offer multiple opportunities for [[tree-temperature-effects-and-microclimate-modification]].
 ## Understanding What Creates Microclimates
 Microclimates form when structures block air mixing, reduce heat loss, or
 cast shade.
 In open ground, wind constantly mixes air and evens temperatures.
 Trees, walls, ponds, and earthworks interrupt this mixing and create
 localized conditions that differ from the surrounding area.
-The primary forces at work are heat transfer through radiation, conduction,
+The primary forces at work are [[albedo-absorption-and-heat-transfer]] through radiation, conduction,
 and convection.
-Solar radiation warms dark surfaces more than light ones.
+[[albedo-and-solar-radiation]] warms dark surfaces more than light ones.
 All objects radiate heat outward, especially on clear nights when there is no
 cloud cover to reflect warmth back to the ground.
 Wind is convection on a large scale, and blocking it is the fastest way to
@@ -37,7 +37,7 @@ Notice where snow melts first in spring and where frost lingers in autumn.
 Track where soil dries fastest after rain and where water collects.
 Observe wind patterns by watching how grass or flags move.
 These observations reveal the microclimates already present on your site.
-Mapping these patterns is the foundation of all microclimate design.
+Mapping these patterns is the foundation of all [[herb-spiral-microclimate-design]].
 Once you understand what your site already offers, you can decide which
 interventions will have the greatest impact.
 ## Use Thermal Mass to Moderate Temperature

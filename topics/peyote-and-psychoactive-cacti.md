@@ -13,10 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
-  - /Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md
-  - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
-  - /Users/t3erpz/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md
+  - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
+  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
+  - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
 related_concepts:
   - "ethnobotany-and-sacred-plant-traditions"
   - "tryptamine-chemistry-and-psychedelic-pharmacology"

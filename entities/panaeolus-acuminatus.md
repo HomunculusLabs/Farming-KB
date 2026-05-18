@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - psilocybin-mushrooms-of-the-world-stamets.md
-  - /Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: entity
 ---
 

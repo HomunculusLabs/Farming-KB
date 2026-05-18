@@ -1,5 +1,5 @@
 ---
-title: Amazonian Medicinal Plants Reference
+title: Amazonian Medicinal Plants In Amaringos Visions Reference
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -19,9 +19,9 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 | Plant | Scientific Name | Primary Use | Notes |
 |-------|----------------|-------------|-------|
 | Ayahuasca | Banisteriopsis caapi | Primary visionary brew base | MAOI (harmine, harmaline, THH); vine teacher |
-| Chacruna | Psychotria viridis | DMT source for ayahuasca | Leaves harvested fasting; sun-side placed down |
+| Chacruna | [[chacruna-psychotria-viridis]] | DMT source for ayahuasca | Leaves harvested fasting; sun-side placed down |
 | Chaliponga | Diplopterys cabrerana | DMT + 5-MeO-DMT source | More intense than chacruna |
-| Toe | Brugmansia sp. | Ayahuasca admixture | Tropane alkaloids; 2 leaves added to brew; dangerous |
+| Toe | Brugmansia sp. | Ayahuasca admixture | [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]]; 2 leaves added to brew; dangerous |
 | Shillinto | Mascagnia psilophylla | Ayahuasca admixture | Vine; combined with chicuro |
 
 ## Teacher Trees (Arboles Maestros)
@@ -45,7 +45,7 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 | Motelo huasca | Bauhinia guianensis | Ayahuasca admixture | "Motelo" = tortoise (shell pattern) |
 | Clavohuasca | Tynanthus panurensis | Strength, vitality, aphrodisiac | Vine teacher |
 | Abuta | Abuta spp. | Women's health, pain | Used for menstrual issues |
-| Uña de gato | Uncaria tomentosa | Anti-inflammatory, immune | Cat's claw; widely commercialized |
+| Uña de gato | [[uncaria-tomentosa]] | Anti-inflammatory, immune | Cat's claw; widely commercialized |
 
 ## Flower and Shrub Teachers
 
@@ -59,9 +59,9 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 
 | Plant | Scientific Name | Primary Use | Notes |
 |-------|----------------|-------------|-------|
-| Mapacho | Nicotiana rustica | Protection, offering, brew aid | Essential to ceremonies; added to boiling pot |
+| Mapacho | [[mckenna-shamanic-tobaccos-and-nicotiana-rustica]] | Protection, offering, brew aid | Essential to ceremonies; added to boiling pot |
 | Chicuro | Cyperus sp. | Ayahuasca admixture | Sedge; combined with shillinto |
-| Mucura | Petiveria alliacea | Cleansing, protection | Strong odor; spiritual purifier |
+| Mucura | [[petiveria-alliacea]] | Cleansing, protection | Strong odor; spiritual purifier |
 
 ## Spiritual / Protective Plants
 

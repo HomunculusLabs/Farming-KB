@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 ---
 # Cannabis Growing Environment Setup
 

@@ -10,7 +10,7 @@ type: entity
 
 Chitin is a long-chain polymer of N-acetylglucosamine, a derivative of glucose.
 It is a primary structural component found in the exoskeletons of arthropods (insects, crustaceans), the cell walls of fungi, and the radulae of molluscs.
-In the context of compost tea and soil biology, chitin serves as both a structural compound and a signaling molecule that influences microbial community dynamics.
+In the context of compost tea and soil biology, chitin serves as both a structural compound and a signaling molecule that influences [[cannabis-cultivar-microbial-community-effects]] dynamics.
 When chitin or chitin-containing materials are added to soil or compost tea, they selectively stimulate chitinolytic microorganisms — bacteria and fungi that produce chitinase enzymes capable of breaking down chitin.
 
 ## Classification
@@ -19,7 +19,7 @@ When chitin or chitin-containing materials are added to soil or compost tea, the
 - **Chemical formula**: (C8H13O5N)n
 - **Molecular structure**: Beta-(1,4)-linked N-acetyl-D-glucosamine units
 - **Natural occurrence**: Fungal cell walls (8-60% of dry weight), arthropod exoskeletons, insect cuticles, crustacean shells
-- **Related compounds**: Chitosan (deacetylated chitin), glucosamine, N-acetylglucosamine
+- **[[lsd-structure-activity-relationships-related-compounds]]**: Chitosan (deacetylated chitin), glucosamine, N-acetylglucosamine
 - **Abundance**: Second most abundant natural polysaccharide on Earth after cellulose
 
 ## Key Facts
@@ -41,10 +41,10 @@ Chitin is central to fungal biology — it forms the structural scaffold of fung
 
 1. **Fungal cell wall target**: Beneficial chitinolytic bacteria can attack pathogenic fungi by degrading their chitin cell walls, a principle exploited in biological control
 2. **Compost tea ingredient**: Crab waste granules (mentioned in Ingham's AACT ingredients list) provide chitin to stimulate these beneficial organisms
-3. **Integrated pest management**: Chitin-based amendments support a soil food web that naturally suppresses both fungal diseases and certain insect pests
-4. **Mushroom cultivation**: In edible mushroom production, understanding chitin helps explain why certain compost formulations support beneficial fungi while suppressing competitors
+3. **[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]**: Chitin-based amendments support a soil food web that naturally suppresses both fungal diseases and certain insect pests
+4. **[[accessible-mushroom-cultivation-for-disabilities]]**: In edible mushroom production, understanding chitin helps explain why certain compost formulations support beneficial fungi while suppressing competitors
 5. **Soil health indicator**: High chitinase activity in soil correlates with active biological disease suppression capacity
-6. **Plant defense priming**: Chitin fragments (chitooligosaccharides) act as elicitors that prime plant immune responses against fungal pathogens
+6. **Plant [[mycorrhiza-induced-resistance-defense-priming]]**: Chitin fragments (chitooligosaccharides) act as elicitors that prime plant immune responses against fungal pathogens
 
 The use of chitin in compost tea represents a practical application of soil food web principles — feeding specific organisms to build populations that naturally control pathogens without chemical interventions.
 
@@ -53,12 +53,12 @@ The use of chitin in compost tea represents a practical application of soil food
 - [[actinomycetes]] — important chitin-degrading bacteria
 - [[trichoderma]] — fungal genus that produces chitinase enzymes
 - [[beauveria]] — entomopathogenic fungus whose cell walls contain chitin
-- [[actively-aerated-compost-tea|Actively Aerated Compost Tea]] — the application system where chitin amendments are used
-- [[elaine-ingham|Elaine Ingham]] — soil microbiologist who documented chitin use in compost tea
+- [[actively-aerated-compost-tea]] — the application system where chitin amendments are used
+- [[elaine-ingham]] — soil microbiologist who documented chitin use in compost tea
 
 ## Application Methods
 
-- Dilution rates and concentration guidelines
+- Dilution rates and [[jadam-concentration-guidelines]]
 - Foliar spray vs soil drench effectiveness comparison
 - Timing relative to plant growth stage
 

@@ -20,22 +20,22 @@ Beyond direct chemical production, endophytes provide protection through
 immune priming. When a plant hosts [[endophytic-fungi]], its immune system
 operates at a heightened state of readiness without expending the energy
 cost of full activation. This
-endophytic fungi and plant health
+[[query-what-are-endophytic-fungi-and-why-do-they-matter]] plant health
 have shown that endophyte-colonized plants accumulate higher levels of
 defensive enzymes like peroxidases and chitinases, and activate
 pathogenesis-related (PR) genes more rapidly upon infection.
 
 Competitive exclusion is another important mechanism. Endophytes occupy
 space and consume nutrients within plant tissues, making it harder for
-pathogenic fungi and bacteria to establish infections. This is
-particularly effective against [[endophytic-fungi-biology-ecology-taxonomic-diversity|diversity of endophytic fungi]] means that different species provide different types and levels
-of protection. [[comparison-endophytic-fungi-vs-mycorrhizal-fungi|comparison between endophytic and mycorrhizal fungi]] reveals that these are distinct
+[[cordyceps-insect-pathogenic-fungi]] and bacteria to establish infections. This is
+particularly effective against [[endophytic-fungi-biology-ecology-taxonomic-diversity]] means that different species provide different types and levels
+of protection. [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] reveals that these are distinct
 symbiotic strategies that can work together for comprehensive plant
 protection.
 
 ## Key Points
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
-- [[endophytic-fungi-in-agriculture|Endophytic Fungi in Agriculture]]
+- [[endophytic-fungi-in-agriculture]]
 ## Practical Considerations
 
 When working with How Do Endophytic Fungi Protect Plants from Pests and Disease, several practical factors should be
@@ -81,15 +81,15 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
+ecology, data science, [[wasted-human-resources-and-traditional-knowledge]] systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

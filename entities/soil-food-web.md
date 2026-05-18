@@ -18,9 +18,9 @@ The Soil Food Web is the interconnected community of organisms living in soil �
 ## Key Facts
 
 - The **complete food web** includes bacteria, fungi, protozoa, nematodes, microarthropods, and earthworms working in concert
-- Each trophic level plays a distinct role: bacteria initiate decomposition of simple compounds; fungi process complex materials like lignin and cellulose; protozoa and nematodes graze on bacteria and fungi, releasing plant-available nutrients
+- Each trophic level plays a distinct role: bacteria initiate decomposition of simple compounds; fungi process complex materials like lignin and cellulose; [[teaming-with-microbes-protozoa-and-nematodes]] graze on bacteria and fungi, releasing plant-available nutrients
 - Dr. Ingham emphasizes that **all components** are needed — adding only bacteria back to degraded soil provides temporary improvement but "stalls" because the full food web must be restored for lasting results
-- The food web directly controls nutrient retention, nutrient availability to plants, disease suppression, and soil structure development
+- The food web directly controls nutrient retention, [[chelation-and-nutrient-availability]] to plants, disease suppression, and soil structure development
 - Compost tea aims to deliver the **whole food web** — not just bacteria — to restore degraded soils
 - Healthy soils contain approximately 25,000 unique DNA strands per gram as measured by molecular assays
 
@@ -34,7 +34,7 @@ The soil food web suppresses disease through:
 1. **Competition** — beneficial organisms occupy all infection sites and consume available food resources before pathogens can establish
 2. **Predation** — protozoa and nematodes consume pathogenic organisms
 3. **Antibiosis** — some beneficial fungi and bacteria produce compounds that inhibit pathogens
-4. **Nutrient immobilization** — beneficial organisms tie up nutrients that pathogens would otherwise use
+4. **[[dighton-fungal-nutrient-immobilization-turnover]]** — beneficial organisms tie up nutrients that pathogens would otherwise use
 
 ## Relevance to Cultivation and Mycology
 
@@ -59,11 +59,11 @@ Operates through complex interactions between biological, chemical, and physical
 
 ## Practical Applications
 
-Applied in agricultural production, land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
+Applied in [[fukuoka-agricultural-production-net-energy-deduction]], land management, and environmental restoration. Integration with other sustainable practices enhances overall system productivity.
 
 ## Research Findings
 
-Studies demonstrate measurable effects on soil health, plant growth, and ecosystem function. Ongoing research continues to refine understanding and application methods.
+Studies demonstrate measurable effects on soil health, plant growth, [[fungal-biodiversity-and-ecosystem-function]]. Ongoing research continues to refine understanding [[diy-fertilizer-recipes-and-application-methods]].
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.

@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.greenhomebuilding.com/plaster.htm
-  - The Hand-Sculpted House, Ianto Evans et al. (Chelsea Green, 2002)
+  - The Hand-Sculpted House, [[ianto-evans-polyculture-system]] et al. ([[chelsea-green-publishing]], 2002)
   - Building with Cob, Adam Weismann & Katy Bryce (Green Books, 2006)
   - https://earthship.com/
   - The Natural Plaster Book, Cedar Rose Guelberth & Dan Chiras (New Society Publishers, 2003)
@@ -30,10 +30,10 @@ The best natural plaster depends on which wall system you're working with, your 
 
 ### Best Overall: Earthen (Clay) Plaster
 
-Cob walls and earthen plaster are made from essentially the same materials — clay, sand, and straw fiber. This makes clay plaster the natural choice for cob because:
+Cob walls and [[comparison-lime-plaster-vs-earthen-plaster]] are made from essentially the same materials — clay, sand, and straw fiber. This makes clay plaster the natural choice for cob because:
 
 - **Perfect material compatibility**: The plaster and wall are chemically identical, ensuring excellent adhesion and no differential movement or delamination risk.
-- **On-site sourcing**: You can often use the same subsoil excavated for cob construction to make the plaster, reducing cost to nearly zero.
+- **On-site sourcing**: You can often use the same subsoil excavated for [[cob-construction]] to make the plaster, reducing cost to nearly zero.
 - **Breathability**: Clay plaster allows cob walls to breathe freely, preventing moisture from being trapped inside the wall.
 - **Easy repair**: Since cob walls are monolithic and the plaster is the same material, repairs blend invisibly. Just mix up fresh clay plaster and apply.
 
@@ -57,7 +57,7 @@ Earthship walls are more complex than cob because they combine multiple material
 
 ### Tire Walls (Thermal Mass)
 
-Earthship tire walls are packed rammed earth inside rubber tires. Plastering tire walls presents unique challenges:
+Earthship tire walls are packed [[comparison-adobe-vs-rammed-earth]] inside rubber tires. Plastering tire walls presents unique challenges:
 
 - **Lime plaster is recommended** for tire walls because lime adheres reasonably well to the rubber surface and provides the durability needed for thermal mass walls that experience temperature cycling.
 - **Preparation is critical**: Wire-brush the rubber tire sidewalls and pack any gaps between tires with earth or mortar before plastering. Many builders embed **expanded metal lath** over the tires for mechanical adhesion — this is the most reliable approach.

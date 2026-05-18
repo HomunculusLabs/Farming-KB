@@ -1,5 +1,5 @@
 ---
-title: Cannabis Oil Consumption Methods
+title: Cannabis Oil Capsules Preparation Magic Mushroom Preparation And Consumption Methods
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
@@ -13,8 +13,8 @@ principal methods, each with its own practical considerations and advantages.
 
 | Method | Route | Key Advantage |
 |--------|-------|---------------|
-| Oil Capsules | Oral / Ingestion | Precise dosing, no inhalation |
-| Direct Vaporization | Inhalation | Rapid onset, full flavor |
+| [[lemon-cannabis-alchemy-oil-capsules]] | Oral / Ingestion | Precise dosing, no inhalation |
+| [[lemon-cannabis-alchemy-direct-vaporization]] | Inhalation | Rapid onset, full flavor |
 | [[hashish-preparation-and-cannabis-products]] typically take 30–90 minutes to take
   effect, as cannabinoids must pass through the digestive tract and liver.
 - **Duration:** Effects last significantly longer than inhaled methods, often
@@ -53,7 +53,7 @@ while glass pipes offer a more refined experience.
 
 ## 3. Translucent (Honey) Oil — Refinement Process (Chapter 8)
 
-Honey oil is a further refinement of purified cannabis oil producing a cleaner,
+[[cannabis-honey-oil-production]] is a further refinement of purified cannabis oil producing a cleaner,
 more aesthetically appealing product. The translucent amber oil resembles dark
 honey in color and consistency. This refined product can then be used with any
 consumption method.
@@ -80,7 +80,7 @@ applied to reefers.
 
 ## 4. Reefers (Chapter 9)
 
-A reefer, in the context of cannabis alchemy, is a marijuana cigarette
+A reefer, in the context of [[cannabis-alchemy-book]], is a marijuana cigarette
 impregnated or fortified with cannabis extract or oil. This combines the
 familiar form of a hand-rolled cigarette with the enhanced potency of
 concentrated cannabis oil, producing a product significantly stronger than a

@@ -5,7 +5,7 @@ tags: [neuroscience, serotonin-receptors, tryptamines, psychopharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md
+  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
 # Tryptamine Receptor Pharmacology

@@ -1,5 +1,5 @@
 ---
-title: "Shiitake Huagu Formation Through Environmental Stress"
+title: "Shiitake Huagu Formation Through Ectomycorrhizal Community Environmental Stress"
 source: "unknown-oyster-mushroom-cultivation.md"
 source_path: "/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md"
 chunk_id: 52
@@ -20,7 +20,7 @@ created: 2026-05-16
 Huagu shiitake formation depends on controlled stress during young mushroom
 development.
 The MushWorld guide describes huagu as a product of winter-like conditions.
-Dry air, cold temperature, and strong daily fluctuation alter cap growth.
+Dry air, [[snow-mold-fungi-cold-temperature-plant-pathogens]], and strong daily fluctuation alter cap growth.
 The result is a cracked, flower-like surface pattern valued in shiitake
 markets.
 Huagu is therefore not simply a strain trait.
@@ -40,9 +40,9 @@ Observation of button size is therefore more useful than a calendar alone.
 Under cold and dry conditions, the pileus surface enters a dormant or slowed
 state.
 The cap skin becomes protective and dry.
-The surface growth rate is reduced.
+The surface [[soil-temperature-plant-growth-rate-doubling-rule]] is reduced.
 Meanwhile, the inner context of the mushroom continues growing slowly.
-It draws water from the substrate rather than from humid air.
+It draws water from the substrate rather than from [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]].
 This creates uneven growth between outside and inside.
 Huagu formation depends on that differential.
 
@@ -69,7 +69,7 @@ Growers deliberately shape morphology by managing microclimate.
 ## Quality implication
 Huagu illustrates how mushroom quality can be produced after pinning.
 Substrate and strain establish potential.
-Fruiting management expresses or suppresses that potential.
+[[mushroom-harvesting-fruiting-management]] expresses or suppresses that potential.
 For shiitake, cap appearance and texture can be as market-relevant as yield.
 A lower-yield but higher-grade crop may be economically preferable where huagu
 commands premium prices.
@@ -109,7 +109,7 @@ The desired cracking pattern emerges from this imbalance.
 ## Grower observations
 Track button diameter.
 Track cap surface dryness.
-Track substrate moisture.
+Track [[pf-tek-substrate-moisture-diagnosis-and-correction]].
 Track night and day temperature swings.
 Track whether cracks are forming without aborts.
 Track whether caps are thickening rather than collapsing.

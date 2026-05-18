@@ -6,9 +6,9 @@ tags: [psychedelic, tryptamine, alkaloid, pharmacology, ethnobotany, entheogen]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
-  - /Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md
+  - "raw/papers/shulgin-a-tihkal.md"
+  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
+  - "raw/papers/mckenna_t-food_of_the_gods.md"
 ---
 
 # Bufotenin

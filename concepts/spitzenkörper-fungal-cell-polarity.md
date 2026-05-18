@@ -1,5 +1,5 @@
 ---
-title: Spitzenkörper Fungal Cell Polarity
+title: Spitzenkörper Alpha 1 3 Glucan Fungal Cell Wall Human Pathogens Polarity
 type: concept
 tags:
   - mycology
@@ -10,8 +10,8 @@ date: 2026-05-11
 updated: 2026-05-11
 sources:
   - Bartnicki-Garcia S (2002). "gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction: Outstanding Questions." Molecular Microbiology 45:1347-1352.
-  - Harris SD (2006). "Cell Polarity in Filamentous Fungi: Shaping the Mold." Mycologia 98:6-12.
-  - Riquelme M, Bartnicki-Garcia S (2008). "Key Differences Between Distantly Related Fungi." Fungal Genetics and Biology 45:1377-1387.
+  - Harris SD (2006). "Cell Polarity [[conidia-and-asexual-reproduction-in-filamentous-fungi]]: Shaping the Mold." Mycologia 98:6-12.
+  - Riquelme M, Bartnicki-Garcia S (2008). "Key Differences Between Distantly Related Fungi." [[fungal-genetics]] and Biology 45:1377-1387.
 ---
 
 The Spitzenkörper (German for "apical body") is a dense, membrane-
@@ -41,13 +41,13 @@ peripheral zone contains larger macrovesicles (70-150 nm diameter)
 that carry plasma membrane components, cell wall proteins, and
 enzymes for extracellular matrix modification. This spatial
 segregation of vesicle populations allows coordinated delivery of
-different materials to specific regions of the extending hyphal tip.
+different materials to specific regions of the extending [[gadd-hyphal-tip-growth-and-branching-mechanisms]].
 
 ## Role in Polarized Growth
 
 Hyphal tip extension in filamentous fungi is a highly polarized
 process driven by continuous fusion of secretory vesicles at the
-apex. The Spitzenkörper serves as the vesicle supply center (VSC),
+apex. The Spitzenkörper serves as the [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]] center (VSC),
 a concept formalized by Bartnicki-Garcia's mathematical model of
 hyphal morphogenesis. According to this model, the Spitzenkörper
 acts as a point source from which vesicles are delivered to the
@@ -100,6 +100,6 @@ yeast and oomycete growth modes. [[neurospora-crassa]] and Ashbya gossypii
 display large, prominent Spitzenkörpers, while slower-growing
 species may have smaller or less organized apical bodies. Mucorales
 produce a modified version called the apical vesicle crescent. These
-structural variations correlate with differences in growth rate,
+structural variations correlate with differences in [[soil-temperature-plant-growth-rate-doubling-rule]],
 [[laccase]]
 - [[fungal-melanin]]

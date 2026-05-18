@@ -11,22 +11,22 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/growing-psilocybe-azurescens.md
+  - "raw/papers/growing-psilocybe-azurescens.md"
 ---
 
 # Malt Extract Agar
 
-Malt extract agar (MEA) is a standard microbiological growth medium widely used in mycology for the cultivation, isolation, and maintenance of fungal cultures. It provides a nutrient-rich, semi-solid surface that supports the growth of a broad range of fungi, making it the preferred medium for germinating spores and establishing pure mycelial cultures of species such as fungal-cultivation-methods.
+Malt extract agar (MEA) is a standard microbiological growth medium widely used in mycology for the cultivation, isolation, and maintenance of [[biosafety-classification-shipping-fungal-cultures]]. It provides a nutrient-rich, semi-solid surface that supports the growth of a broad range of fungi, making it the preferred medium for germinating spores and establishing pure mycelial cultures of species such as fungal-cultivation-methods.
 
 ## Composition
 
 Malt extract agar is composed of the following ingredients:
 
-- **Malt extract**: 30 g per liter, providing a complex mixture of carbohydrates (maltose, glucose, dextrins), amino acids, peptides, vitamins (particularly B vitamins including thiamine, riboflavin, and niacin), and minerals (potassium, magnesium, phosphorus, [[psilocybe-azurescens]] are deposited onto the agar surface (typically using a sterile [[comparison-spore-print-vs-agar-culture]]), the nutrients support hyphal emergence and initial growth. The moisture-retaining gel surface maintains high local humidity around the spores, which is critical for germination. Germination typically occurs within 3 to 14 days depending on species, spore viability, and incubation conditions. Fresh spores from recently collected specimens typically germinate faster than older spores from stored prints.
+- **Malt extract**: 30 g per liter, providing a complex mixture of carbohydrates (maltose, glucose, dextrins), amino acids, peptides, vitamins (particularly B vitamins including thiamine, riboflavin, and niacin), and minerals (potassium, magnesium, phosphorus, [[psilocybe-azurescens]] are deposited onto the agar surface (typically using a sterile [[comparison-spore-print-vs-agar-culture]]), the nutrients support hyphal emergence and initial growth. The moisture-retaining gel surface maintains high local humidity around the spores, which is critical for germination. Germination typically occurs within 3 to 14 days depending on species, [[pf-tek-spore-viability-degradation]], and incubation conditions. Fresh spores from recently collected specimens typically germinate faster than older spores from stored prints.
 
 ### Mycelium Isolation
 
-When working with wild specimens, spore prints, or multi-spore cultures, mycologists use MEA to isolate individual mycelial strains with desired characteristics. Fast-growing, rhizomorphic (cord-like, organized) sectors of [[mycelium]]: the vegetative body of fungi that grows on [[psilocybe-azurescens]]: a species commonly germinated on MEA as the first step in its cultivation process
+When working with [[strain-isolation-from-wild-specimens]], [[macrofungal-documentation-photography-spore-prints]], or multi-spore cultures, mycologists use MEA to isolate individual mycelial strains with desired characteristics. Fast-growing, rhizomorphic (cord-like, organized) sectors of [[mycelium]]: the vegetative body of fungi that grows on [[psilocybe-azurescens]]: a species commonly germinated on MEA as the first step in its cultivation process
 - [[tryptamine]]: the class of alkaloids produced by fungi grown from MEA-isolated cultures
 ## Practical Applications
 
@@ -45,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

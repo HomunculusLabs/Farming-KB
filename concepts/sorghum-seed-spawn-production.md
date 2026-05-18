@@ -11,13 +11,13 @@ type: concept
 
 # Sorghum Seed Spawn Production
 
-Sorghum seed spawn production is a grain spawn method documented in the FAO training manual *grain-spawn-production is Step 4 in the FAO training sequence, following tissue culture selection on PDA medium (Step 3) and preceding substrate bag production (Step 5). The purpose is to multiply a small amount of mycelium from a PDA plate into a much larger quantity of inoculum that can colonize substrate bags efficiently.
+Sorghum seed spawn production is a [[san-antonio-cased-grain-spawn-method-origin-modern-miniculture-bigwood-beug-1982]] documented in the FAO [[mushroom-cultivation-disabilities-training-manual-overview]] *grain-spawn-production is Step 4 in the FAO training sequence, following [[cervantes-tissue-culture-micropropagation]] selection on PDA medium (Step 3) and preceding [[mushroom-cultivation-disabilities-substrate-bag-production]] (Step 5). The purpose is to multiply a small amount of mycelium from a PDA plate into a much larger quantity of inoculum that can colonize substrate bags efficiently.
 
-The sequence is: tissue culture on PDA medium, transfer to sorghum seeds for multiplication, then use the colonized sorghum grains to inoculate substrate bags. Each step increases the volume of viable mycelium available for cultivation.
+The sequence is: tissue culture on PDA medium, transfer to [[mushroom-spawn-production-sorghum-seeds]] for multiplication, then use the colonized sorghum grains to inoculate substrate bags. Each step increases the volume of viable mycelium available for cultivation.
 
 ## Grain Selection Criteria
 
-Multiple grain types can serve as spawn substrate, with sorghum being the primary grain used in the FAO Thailand [[aact-compost-quality-standards-ingham]]:
+Multiple grain types can serve as [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], with sorghum being the primary grain used in the FAO Thailand [[aact-compost-quality-standards-ingham]]:
 
 - **Recent harvest**: Grains should be from the current or most recent harvest season
 - **Intact kernels**: Few broken kernels, as cracked grains are more prone to contamination

@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Johnson, D.V. (1998). "Non-wood mollison-specialist-tropical-crops-forest-products: palms." FAO.
-  - Renuka, C. (2017). "Borassus flabellifer — a multipurpose palm." Indian Journal of Traditional Knowledge 16(2): 266–275.
+  - Renuka, C. (2017). "Borassus flabellifer — a multipurpose palm." Indian Journal of [[wasted-human-resources-and-traditional-knowledge]] 16(2): 266–275.
   - Sanyal, P.K. et al. (2019). "Palmyra palm: biology, cultivation and uses." Springer.
   - Morton, J.F. (1988). "Notes on distribution, propagation, and products of Borassus palms." Economic Botany 42(2): 220–231.
 ---
@@ -41,7 +41,7 @@ The heartwood is particularly valued for its strength, dark color, and natural l
 ## Overview
 
 Borassus Flabellifer represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -55,7 +55,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving borassus extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -70,13 +70,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for borassus flabellifer. Climate adaptation
+opportunities for borassus flabellifer. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -91,7 +91,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 borassus flabellifer and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

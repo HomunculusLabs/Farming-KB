@@ -5,13 +5,13 @@ tags: [chemistry, pharmacology, tryptamine, psilocybin, DMT, biosynthesis, shulg
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
-  - /Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md
-  - /Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-production.md
-  - /Users/t3rpz/wiki/raw/papers/tryptamine-cubensis-gartz.md
-  - /Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-future-drugs.md
+  - "raw/papers/shulgin-a-tihkal.md"
+  - "raw/papers/shulgin-a-pihkal.md"
+  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
+  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
+  - "raw/papers/tryptamine-cubensis-gartz.md"
+  - "raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"
+  - "raw/papers/shulgin-a-future-drugs.md"
 related_concepts:
   - psychedelic-therapy-and-research
   - the-history-of-psychedelic-science

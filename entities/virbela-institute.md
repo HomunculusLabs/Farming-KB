@@ -63,23 +63,23 @@ The Virbela Institute's work builds on a lineage of water engineering:
 
 ## Relevance to Cultivation and Permaculture
 
-The Virbela Institute's Flowform system is cited by Bill Mollison as a prime example of **applied pattern** in permaculture design. Its relevance includes:
+The Virbela Institute's Flowform system is cited by Bill Mollison as a prime example of **applied pattern** [[ecological-succession-in-permaculture-design]]. Its relevance includes:
 
 1. **Pattern application**: Natural hydrological patterns are identified, studied, and replicated for human benefit
 2. **Multiple functions**: Each installation serves aesthetic, educational, and practical water treatment purposes simultaneously
-3. **Appropriate technology**: Low-energy, gravity-fed systems that work with natural water behaviour rather than against it
-4. **Integration of art and science**: Demonstrates Mollison's principle that meaningful art serves practical ecological functions
+3. **[[appropriate-technology]]**: Low-energy, gravity-fed systems that work with natural water behaviour rather than against it
+4. **Integration of art and science**: Demonstrates Mollison's principle that meaningful art serves practical [[fungal-melanin-biosynthesis-ecological-functions]]
 
 ## Design Philosophy
 
-The Virbela Institute exemplifies the permaculture principle of designing with natural patterns. Their work follows a clear evolution:
+The Virbela Institute exemplifies the [[permaculture-principle-1-observe-interact]] of designing with natural patterns. Their work follows a clear evolution:
 
 1. **Wonder and observation** of natural water forms
 2. **Sketches and analysis** of turbulence patterns
 3. **Constructed basins** that replicate natural forms
 4. **Practical applications** across diverse sites and functions
 
-This mirrors the permaculture design process: observe, analyse, design, implement — with pattern understanding as the unifying thread.
+This mirrors the [[permaculture-design-process]]: observe, analyse, design, implement — with [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] as the unifying thread.
 
 ## Cross-References
 

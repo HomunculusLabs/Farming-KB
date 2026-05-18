@@ -6,7 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable|fukuoka-textdoc.md
+  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable|fukuoka-textdoc.md"
 type: concept
 ---
 

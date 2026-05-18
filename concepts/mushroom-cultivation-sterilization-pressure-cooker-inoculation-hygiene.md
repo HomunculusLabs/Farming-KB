@@ -21,10 +21,10 @@ on the sterilization protocols that surround it.
 ## Understanding Contamination Vectors
 
 A contamination vector is any pathway through which unwanted organisms -- molds,
-bacteria, yeasts -- can enter your sterile substrate or spore culture. The primary
+bacteria, yeasts -- can enter your sterile substrate or [[spore]] culture. The primary
 contamination vectors in home mushroom cultivation include:
 
-- **Airborne spores**: Molds such as Trichoderma and Aspergillus produce enormous
+- **Airborne spores**: Molds such as [[trichoderma]] and [[aspergillus]] produce enormous
   quantities of spores that drift on air currents throughout any indoor environment.
 
 - **Exhaled breath**: The human breath carries moisture, bacteria, and fungal

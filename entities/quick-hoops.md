@@ -9,11 +9,11 @@ tags: [infrastructure, season-extension, low-tunnel, winter-growing]
 
 ## Description
 
-Quick hoops are low-cost, low-profile temporary tunnel structures used for overwintering hardy crops in the field. Designed by Eliot Coleman at [[four-season-farm]] in Harborside, Maine, they provide a fraction of the protection of a full greenhouse at roughly 5% of the cost. They represent a key innovation in the "hidden farm" concept — the idea that any piece of land sitting empty through winter represents unrealized production potential.
+Quick hoops are low-cost, low-profile temporary tunnel structures used for overwintering hardy crops in the field. Designed by [[eliot-coleman]] at [[four-season-farm]] in Harborside, Maine, they provide a fraction of the protection of a full greenhouse at roughly 5% of the cost. They represent a key innovation in the "hidden farm" concept — the idea that any piece of land sitting empty through winter represents unrealized production potential.
 
 ## Classification
 
-- **Category**: Season extension infrastructure
+- **Category**: [[cervantes-season-extension-cloches-row-covers]] infrastructure
 - **Type**: Low tunnel / temporary field structure
 - **Scale**: Small-scale market farm
 - **Climate suitability**: Northern temperate (zone 4–6)
@@ -35,7 +35,7 @@ Quick hoops are low-cost, low-profile temporary tunnel structures used for overw
 1. Insert each end of the conduit ~10 inches into the soil on either side of the two beds
 2. Plastic conduit can be bent as placed; metal conduit must be pre-bent with a tubing bender
 3. Cover with spun-bonded row cover first, secured with sandbags
-4. In late fall, add clear plastic over the row cover for additional frost protection
+4. In late fall, add clear plastic over the row cover for additional [[cervantes-microclimate-frost-protection]]
 5. Tighten plastic by driving stakes 4 feet beyond each end and tying rope to pull taut lengthwise
 6. Adjust sandbags to tighten side-to-side
 7. In heavy snow areas using plastic conduit, reduce spacing to 2½ feet between hoops
@@ -76,7 +76,7 @@ Quick hoops are low-cost, low-profile temporary tunnel structures used for overw
 
 ## Key Design Principles
 
-1. Crops must be hardy enough to survive overwintering stress — variety selection is critical
+1. Crops must be hardy enough to survive overwintering stress — [[coleman-winter-greens-variety-selection]] is critical
 2. Sowing date must allow establishment before deep freeze but not trigger premature bolting
 3. The system exploits "progressive hardiness" — matching crop cold tolerance to level of protection
 4. Northern growers can experiment with late-fall sowing of seeds that remain dormant until February
@@ -91,7 +91,7 @@ Quick hoops are a practical, scalable solution for small farms seeking year-roun
 
 ## Source Reference
 
-Eliot Coleman, *The Winter Harvest Handbook* (Chelsea Green, 2009), Chapter 6: "Year-Round Intensive Cropping."
+Eliot Coleman, *The [[eliot-coleman-and-the-winter-harvest-handbook]]* (Chelsea Green, 2009), Chapter 6: "Year-Round [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]]."
 ## See also
 
 - [[wiggle-wire]]

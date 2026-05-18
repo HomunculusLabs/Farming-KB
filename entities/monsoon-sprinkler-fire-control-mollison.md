@@ -32,9 +32,9 @@ The monsoon sprinkler is a fire protection device designed for roof-mounted depl
 
 ### Permaculture Design Integration
 
-Fire control is an essential element of [[permaculture-design]] in fire-prone landscapes (Mediterranean, chaparral, Australian bush, boreal forests). Mollison integrates fire protection into a layered defense strategy:
+Fire control is an essential element of [[permaculture-design]] in fire-prone landscapes (Mediterranean, chaparral, Australian bush, [[biodiversity-fungi-temperate-boreal-forests]]). Mollison integrates fire protection into a layered defense strategy:
 
-1. **Outer zone:** Fuel reduction through swaling, pit mulching, browsing/grazing (sheep reduce standing litter to 1 inch)
+1. **Outer zone:** [[firebreaks-and-fuel-reduction-strategies]] through swaling, pit mulching, browsing/grazing (sheep reduce standing litter to 1 inch)
 2. **Mid zone:** 100 feet of non-fuel surfaces (roads, ponds) with fire-resistant plantings
 3. **Inner zone:** Fire-resistant species (Coprosma, ice plants, thick-leaf evergreens with fast-decomposing litter)
 4. **Structure:** Monsoon sprinkler + screened gutters + rolled roof edges + underground fire shelter
@@ -42,15 +42,15 @@ Fire control is an essential element of [[permaculture-design]] in fire-prone la
 
 ### Plant-Fire Interactions
 
-- **Coprosma repens** can shield a person from direct fire — you feel only "a hot steam bath"
+- **[[coprosma-repens-entity]]** can shield a person from direct fire — you feel only "a hot steam bath"
 - Plants with high ash content, high water content, low bulk, and dense growth are preferred for fire-defense zones
 - Avoid **eucalypts and pines** on the downhill (fire approach) side — they are fire weeds with volatile oils and serotinous cones
 - **Chickens and sheep** break up ground litter and reduce fuel load through grazing and scratching
-- **Mulches are surprisingly fire-safe** — sawdust and organic mulch may smolder on the surface but do not carry fire
+- **Mulches are surprisingly fire-safe** — sawdust and [[organic-mulch]] may smolder on the surface but do not carry fire
 
 ### Fire Ecology and Landscape Patterns
 
-Understanding fire cycles is critical for land management:
+Understanding fire cycles is critical for [[integrated-land-management-and-polyculture-design]]:
 
 - Fire periodicity is site-specific, determined by fuel accumulation rate and moisture content
 - Areas burning every 30 years naturally can accelerate to every 8–10 years with repeated burning
@@ -82,4 +82,4 @@ For extreme fire sites, Mollison recommends digging a **T-shaped or L-shaped pit
 
 ## Sources
 
-- Bill Mollison, *[[permaculture]] Design Course Pamphlet VII — Permaculture for Fire Control* (1981, Yankee Permaculture edition)
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], *[[permaculture]] Design Course Pamphlet VII — Permaculture for Fire Control* (1981, Yankee Permaculture edition)

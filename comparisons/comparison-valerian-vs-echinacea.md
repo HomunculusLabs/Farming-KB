@@ -25,8 +25,8 @@ applications diverge sharply.
 [[echinacea-cultivation-and-medicinal-uses]]
 
 Echinacea, the purple coneflower genus (family Asteraceae), encompasses
-ten species native to North America. Three dominate the medicinal trade:
-Echinacea purpurea, the vigorous eastern species with fibrous roots;
+ten species native to [[guzman-psilocybin-mushrooms-north-america]]. Three dominate the medicinal trade:
+[[echinacea-purpurea]], the vigorous eastern species with fibrous roots;
 E. angustifolia, the compact Great Plains species with a deep fleshy
 taproot considered the most pharmacologically potent; and E. pallida,
 with its characteristic drooping pale-pink ray florets. Plains Indigenous
@@ -36,7 +36,7 @@ European contact.
 
 The genus produces a distinctive chemistry of alkylamides, caffeic acid
 derivatives (including echinacoside and cichoric acid), polysaccharides,
-and glycoproteins. These compounds collectively modulate innate immunity
+and glycoproteins. These compounds collectively modulate [[plant-innate-immunity-pti-eti-defense]]
 by stimulating phagocytic activity, increasing cytokine production, and
 enhancing white blood cell mobilization. Clinical evidence supports
 echinacea's role in reducing the duration and severity of upper
@@ -76,9 +76,9 @@ long-term nightly use under practitioner guidance.
 
 Gardeners in cooler, moister climates with rich soils will find valerian
 easier to cultivate than echinacea. It is an excellent choice for
-medicinal herb gardens in temperate regions, woodland edges, and areas
+medicinal herb gardens in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], woodland edges, and areas
 with consistent moisture. The plant also attracts pollinators and serves
-as a wildlife habitat plant in permaculture designs.
+as a [[hemenway-backyard-wildlife-habitat]] plant in permaculture designs.
 
 ## When to Choose Echinacea
 
@@ -90,7 +90,7 @@ preventive during cold and flu season. Topically, echinacea preparations
 aid wound healing, a use with deep Indigenous roots.
 
 Gardeners in drier, hotter climates with well-drained soils will find
-echinacea far easier to grow than valerian. Its drought tolerance,
+echinacea far easier to grow than valerian. Its [[dighton-fungal-drought-tolerance-plant-water-relations]],
 deer resistance, and pollinator value make it a workhorse in
 permaculture guilds, food forests, and native plant gardens.
 Echinacea's deep taproots also serve a soil-building function,

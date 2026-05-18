@@ -6,7 +6,7 @@ tags: [plant-biology, plant-memory, vernalization, epigenetics,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/what-a-plant-knows-daniel-chamovitz.md
+  - "raw/papers/what-a-plant-knows-daniel-chamovitz.md"
 type: concept
 ---
 

@@ -11,7 +11,7 @@ type: entity
 *Meliola* is the largest genus of black mildew fungi, belonging to the order
 Meliolales in the phylum [[ascomycota]]. With approximately 1,400 described species
 (out of more than 1,580 species in the entire order Meliolales), *Meliola* is
-by far the dominant genus of black mildews. These fungi are obligate plant
+by far the dominant genus of [[foliar-fungi-sooty-and-black-mildews]]. These fungi are obligate plant
 parasites that produce characteristic dark, superficial, circular colonies on
 the surface of their host plants. They are especially abundant in tropical and
 subtropical regions worldwide and represent one of the most diverse groups of
@@ -32,7 +32,7 @@ foliicolous (leaf-inhabiting) fungi known.
   (Hawksworth et al. 1995), most of which (approximately 1,400) are in the
   genus *Meliola* (Parbery and Brown 1986). This makes *Meliola* one of the
   largest genera of plant-parasitic fungi and a major contributor to fungal
-  diversity estimates in the tropics.
+  [[fungal-diversity-estimates]] in the tropics.
 
 - **Host Range:** Most (>90%) plant hosts are dicotyledonous angiosperms, but
   black mildews also occur on monocotyledons, gymnosperms, and pteridophytes.
@@ -64,7 +64,7 @@ foliicolous (leaf-inhabiting) fungi known.
   composed of four or five cells, and rarely more than 10 micrometers long.
   Black mildews lack asexual states, which is unusual among foliicolous fungi.
 
-- **Geographic Distribution:** Most diverse in the tropics, where they are most
+- **[[geographic-distribution-of-psilocybe-species]]:** Most diverse in the tropics, where they are most
   common in scrub or open parkland. Relatively rare on undergrowth and shorter
   trees in dense tropical rain forest, but may be abundant in the upper canopy
   (Hansford 1961). Absent from arid subtropical regions. Infections are
@@ -81,15 +81,15 @@ foliicolous (leaf-inhabiting) fungi known.
   monographic treatments that remain foundational. Their diversity makes them
   important indicators of tropical forest health and plant diversity.
 
-- **Biodiversity Estimation:** The high host specificity of *Meliola* species
-  means they can be used to estimate fungal diversity based on plant diversity.
+- **[[biodiversity-fungal-biodiversity-estimation-methods]]:** The high host specificity of *Meliola* species
+  means they can be used to estimate [[arbuscular-mycorrhizal-fungal-diversity]] based on plant diversity.
   Areas with high plant species richness likely harbor correspondingly high
   black mildew diversity.
 
 - **Collection and Identification:** Techniques for collecting black mildews are
   similar to those for sooty molds. Keys to genera are in Muller and von Arx
   (1973); species descriptions in Hansford (1961, 1963). Identification
-  requires microscopic examination of ascomata and hyphopodia.
+  requires [[fungal-microscopic-examination-mounting-media-techniques]] of ascomata and hyphopodia.
 
 - **Ecological Role:** As obligate parasites, black mildews have direct effects
   on host plants. While individual infections may not be lethal, heavy

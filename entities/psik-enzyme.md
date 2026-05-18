@@ -6,7 +6,7 @@ tags: [enzyme, biosynthesis, psilocybin, kinase, phosphorylation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-production.md
+  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
 # PsiK (4-Hydroxytryptamine Kinase)

@@ -9,11 +9,11 @@ type: concept
 "Farming with Air, Water and Sunlight" is a foundational principle in [[double-digging]] in Biointensive Mini-Farming
 
 One of the most direct applications of this principle is found in the **Biointensive
-mini-farming** technique of **double digging**. In conventional agriculture, soil is typically
+mini-farming** technique of **[[comparison-double-digging-vs-no-till]]**. In conventional agriculture, soil is typically
 loosened to a depth of only 8 to 10 inches using plows or tractors. Double digging loosens
 soil to a depth of **24 inches** — nearly three times deeper. This dramatic increase allows
 far more air to pass through the soil profile, creating an aerobic environment that supports
-vigorous root development and beneficial microbial activity. Plants in compacted soil struggle
+vigorous [[root-development-and-plant-competition]] beneficial microbial activity. Plants in compacted soil struggle
 because air cannot reach their root systems effectively.
 
 ## Harnessing Water
@@ -21,9 +21,9 @@ because air cannot reach their root systems effectively.
 Water is frequently taken for granted, yet without adequate moisture — whether through
 irrigation or natural rainfall — plants do not grow well and often die. In [[natural-farming]],
 consistent and clean water availability is ensured for both crops and livestock. Water
-facilitates organic matter [[companion-planting]]
+facilitates [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] [[companion-planting]]
 
-In planting beds oriented **north to south**, interplanting or companion planting is employed.
+In planting beds oriented **north to south**, interplanting or [[cervantes-companion-planting-pest-deterrent]] is employed.
 Shorter plants are positioned towards the northern portion to maximize sunlight exposure and
 strategic shading. The sun inclines toward the northern side despite rising east and setting
 west, making this orientation effective when combined with thoughtful plant height arrangement.
@@ -47,7 +47,7 @@ Air movement and ventilation are mandatory. An **exhaust ventilation system** en
 continuous air exchange. The substrate — composed of loose sawdust, wood shavings, and compost
 — is maintained at a depth of **one yard (approximately 36 inches)**. This deep loose litter
 allows air to circulate through both the housing structure and the litter substrate, preventing
-anaerobic conditions that breed pathogens.
+[[aact-ph-and-anaerobic-conditions]] that breed pathogens.
 
 ### Sunlight: Orientation and Transparent Roofing
 
@@ -59,7 +59,7 @@ resistance.
 ### Water: Clean and Continuous Access
 
 Clean water must be provided at all times. Water quality directly affects animal health,
-growth rates, and disease susceptibility. In natural farming, water access is a fundamental
+growth rates, and disease susceptibility. [[cho-loess-powder-in-natural-farming]], water access is a fundamental
 requirement, not an afterthought.
 
 ### The Conventional Contrast

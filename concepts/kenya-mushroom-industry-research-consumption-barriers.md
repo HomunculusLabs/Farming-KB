@@ -1,5 +1,5 @@
 ---
-title: "Kenya Mushroom Industry Research and Consumption Barriers"
+title: "Kenya Mushroom Industry Research Mushroom Taste Route Of Administration And Consumption Barriers"
 source: "unknown-oyster-mushroom-cultivation.md"
 source_path: "/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md"
 chunk_id: 42
@@ -18,7 +18,7 @@ created: 2026-05-16
 
 ## Core idea
 The MushWorld guide presents Kenya as a case where mushroom production is held
-back by more than cultivation technique.
+back by more than [[boil-a-bag-mushroom-cultivation-technique]].
 The limiting factors include research infrastructure and public familiarity
 with mushrooms as food.
 A mushroom industry can fail to develop even when biological production is
@@ -28,7 +28,7 @@ Markets, institutions, and cultural acceptance must develop together.
 ## Research infrastructure
 The source argues for a research institution dedicated specifically to
 mushrooms.
-Kenya already had crop-specific research institutions for export crops such as
+Kenya already had crop-specific [[mycological-research-institutions]] for export crops such as
 coffee, tea, and pyrethrum.
 Those institutions helped improve production systems and national income.
 The comparison with tea is important: tea became a major Kenyan export after
@@ -48,7 +48,7 @@ It is a demand-formation problem.
 A grower cannot build a stable enterprise if nearby consumers do not recognize
 the crop as food.
 Promotion must therefore explain both nutrition and culinary use.
-Public education becomes part of agricultural development.
+Public education becomes part of [[fukuoka-critique-agricultural-development]].
 
 ## Nutrition and medicinal messaging
 The source recommends teaching nutritional and medicinal attributes.
@@ -74,7 +74,7 @@ For an emerging industry, these questions are foundational.
 Extension work must address both growers and consumers.
 
 ## Institutional lesson
-The Kenyan example shows that mushroom cultivation is a system.
+The Kenyan example shows that [[accessible-mushroom-cultivation-for-disabilities]] is a system.
 It needs research.
 It needs training.
 It needs reliable spawn.
@@ -104,7 +104,7 @@ Biology, economics, education, and public trust all matter.
 ## Grower-facing barriers
 New growers need practical substrate recommendations.
 They need dependable spawn sources.
-They need disease and contamination troubleshooting.
+They need [[duggar-mushroom-disease-and-contamination]] troubleshooting.
 They need realistic market expectations.
 They need examples of profitable small-scale systems.
 Without these supports, failed first attempts can damage confidence in the

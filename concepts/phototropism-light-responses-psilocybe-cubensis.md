@@ -1,5 +1,5 @@
 ---
-title: Phototropism Light Responses Psilocybe Cubensis
+title: Phototropism Light Responses Basidiocarp Four Stage Development Classification Psilocybe Cubensis Badham 1982
 created: 2026-05-11
 updated: 2026-05-11
 sources:
@@ -23,14 +23,14 @@ mushrooms (Eger-Hummel, 1980). *Psilocybe cubensis* is similar to
 *Coprinus congregatus* in exhibiting this multi-faceted light sensitivity.
 The responses include:
 
-- **Basidiocarp initiation:** Light is required to trigger the formation
+- **[[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]:** Light is required to trigger the formation
   of mushroom primordia from colonized substrate. Without light, the
   mycelium continues vegetative growth but does not produce fruiting
   bodies. Badham (1980) demonstrated this requirement in a previous
   study, showing that cultures kept in darkness failed to produce
   primordia.
 
-- **Stipe elongation inhibition:** Light exerts an inhibitory effect on
+- **[[acropetal-cell-expansion-stipe-elongation-mushroom-development]] inhibition:** Light exerts an inhibitory effect on
   stipe elongation. Mushrooms grown in darkness tend to have longer,
   thinner stipes as the elongation proceeds without the inhibitory
   influence of light. This is a common response across many mushroom
@@ -42,7 +42,7 @@ The responses include:
   maturation. Mushrooms kept in darkness produce few or no spores,
   even when the basidiocarp develops to maturity in other respects.
 
-- **Geotropic sensitivity:** The negative geotropic response that
+- **[[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]]:** The negative [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] that
   reorients the cap horizontally at maturity requires at least some
   light. This requirement appears to be indirect -- light is needed
   for spore production, and the geotropic response is linked to spore
@@ -65,7 +65,7 @@ bent into the wind regardless of light direction.
 
 ## The Evaporative Demand Framework
 
-Badham proposed that light's influence on mushroom tropisms may be
+Badham proposed that light's influence on [[adaptive-significance-mushroom-tropisms-spore-dispersal]] may be
 mediated through its effect on evaporative demand. Light heats the
 surface of the mushroom, increasing the rate of water evaporation.
 If strong enough relative to wind and humidity, light could become the

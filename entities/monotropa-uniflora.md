@@ -6,9 +6,9 @@ tags: [fungi, mycoheterotroph, monotropaceae, forest-ecology, ericaceae, symbios
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/medical-botany-heywood.md
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
-  - /Users/t3rpz/wiki/raw/papers/mycoheterotrophic-plants-leake.md
+  - "raw/papers/medical-botany-heywood.md"
+  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
+  - "raw/papers/mycoheterotrophic-plants-leake.md"
 ---
 
 # Monotropa uniflora

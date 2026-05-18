@@ -6,7 +6,7 @@ tags: [cannabis, strain, landrace, sativa, historical, heirloom, central-america
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
-  - /Users/t3rpz/wiki/raw/papers/vic-high-creating-true-breeding-strains.md
+  - "raw/papers/vic-high-creating-true-breeding-strains.md"
 ---
 
 # Panama Red

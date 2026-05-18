@@ -10,7 +10,7 @@ type: comparison
 
 ## Kefir vs Kombucha: Fermented Beverage Comparison
 
-Kefir and kombucha are the two most popular home-fermented probiotic beverages, but they differ fundamentally in origin, microbial culture, base ingredients, and flavor profile. Both offer rich probiotic benefits and can be made at home with minimal equipment, yet they occupy distinct niches in the fermented foods and beverages world.
+Kefir and kombucha are the two most popular home-fermented probiotic beverages, but they differ fundamentally in origin, microbial culture, base ingredients, and flavor profile. Both offer rich probiotic benefits and can be made at home with minimal equipment, yet they occupy distinct niches in the [[fermented-foods-and-beverages]] beverages world.
 
 ## Origins
 
@@ -24,8 +24,8 @@ The most important distinction lies in the fermentation starter.
 
 | Feature | Kefir | Kombucha |
 |---|---|---|
-| Culture type | Kefir grains (gelatinous granules) | SCOBY (cellulose pellicle/mat) |
-| Composition | 30-50+ bacteria and yeast species | Fewer species; dominated by Acetobacter and yeasts |
+| Culture type | Kefir grains (gelatinous granules) | SCOBY ([[cellulose]] pellicle/mat) |
+| Composition | 30-50+ bacteria and yeast species | Fewer species; dominated by [[acetobacter]] and yeasts |
 | Structure | Cauliflower-like granules, irregular | Flat disc or pancake that floats on surface |
 | Symbiotic matrix | Kefiran (polysaccharide) | Cellulose produced by Gluconacetobacter |
 | Reusability | Indefinite with proper care | Indefinite; produces baby SCOBYs each batch |

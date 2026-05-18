@@ -5,7 +5,7 @@ tags: [mushroom-cooking, victorian-recipes, culinary-history, preservation, falc
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
+  - "raw/papers/william-falconer-mushroom-how-to-grow-them.md"
 type: concept
 ---
 

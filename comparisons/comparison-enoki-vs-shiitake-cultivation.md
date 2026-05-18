@@ -1,5 +1,5 @@
 ---
-title: "Enoki vs Shiitake Cultivation"
+title: "Enoki Comparison Maitake Vs Shiitake Cultivation"
 tags: [comparison, mushrooms, cultivation, enoki, shiitake]
 date: 2026-05-10
 updated: 2026-05-10
@@ -10,16 +10,16 @@ sources: []
 
 ## Overview
 
-Enoki (Flammulina velutipes) and shiitake (Lentinula edodes) are two of the
+Enoki ([[enoki-mushroom-flammulina-velutipes]]) and shiitake (Lentinula edodes) are two of the
 most commercially important cultivated mushrooms in the world. Both originate
 from East Asia and have centuries of cultivation history, yet they occupy very
 different niches. Shiitake is a versatile culinary staple grown on logs or
 sawdust at moderate temperatures, while enoki is a cold-loving species grown
-almost exclusively indoors under tightly controlled conditions to produce its
+almost exclusively indoors under tightly [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] to produce its
 characteristic long white stems.
 
 Choosing between them depends on your climate, available space, intended use,
-and level of environmental control. This comparison breaks down the key
+and level of [[cannabis-indoor-growing-environmental-control]]. This comparison breaks down the key
 differences to help you decide which species fits your setup.
 
 ## Enoki
@@ -44,7 +44,7 @@ Wide-range strains are most versatile, fruiting between 50-80 F. Cold-
 weather strains prefer 50-65 F and warm-weather strains 65-80 F. Multiple
 flushes over 8-12 weeks can yield 1-2 pounds per block.
 
-Shiitake's rich umami flavor, meaty texture, and medicinal properties
+Shiitake's rich umami flavor, meaty texture, [[ginseng-cultivation-and-medicinal-properties]]
 (immune-modulating lentinan, cholesterol-lowering eritadenine) make it a
 high-value crop with strong market demand.
 
@@ -98,7 +98,7 @@ fruits through the warm season, then enoki takes over the same fruiting
 space during winter when temperatures drop. This year-round rotation
 maximizes infrastructure utilization and provides continuous harvests.
 
-The substrate ingredients overlap significantly — both use hardwood sawdust
+The substrate ingredients overlap significantly — both use [[hardwood-sawdust-substrate]]
 supplemented with bran — allowing bulk purchasing and shared preparation
 equipment. Spawn for both species is available from the same suppliers.
 

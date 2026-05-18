@@ -7,7 +7,7 @@ tags: [place, italy, history, inquisition, psilocybe-semilanceata, witchcraft]
 
 ## Description
 
-Monte del Tonale is a mountain pass located at an altitude of approximately 2,000 m (ca. 6,000 ft) in the Alpine valleys of Northern Italy, situated in the provinces of Brescia and Sondrio. It is historically significant as the site of witches' meetings during the period of the Inquisition, and may represent one of the few European locations where psychoactive mushroom use can be geographically linked to historical witchcraft practices.
+Monte del Tonale is a mountain pass located at an altitude of approximately 2,000 m (ca. 6,000 ft) in the Alpine valleys of Northern Italy, situated in the provinces of Brescia and Sondrio. It is historically significant as the site of witches' meetings during the period of the Inquisition, and may represent one of the few European locations where [[global-ethnography-psychoactive-mushroom-use]] can be geographically linked to historical witchcraft practices.
 
 ## Historical Significance
 
@@ -26,8 +26,8 @@ Gartz credits **G. Samorini** for pointing out that the Inquisition was unusuall
 Given the absence of traditional "witching herbs" and the rarity of *A. muscaria* at this altitude, *Psilocybe semilanceata* is the most likely psychotropic agent associated with the reported witches' meetings. This supports the hypothesis that:
 
 1. European witchcraft practices may have involved psychoactive Psilocybe species rather than (or in addition to) *Amanita muscaria*
-2. The subjective sensation of flying or levitation — commonly reported in medieval witchcraft accounts — is among the commonly reported effects of psilocybin intoxication
-3. Knowledge of psychoactive mushrooms was suppressed during the Inquisition alongside other pre-Christian practices
+2. The subjective sensation of flying or levitation — commonly reported in medieval witchcraft accounts — is among the commonly reported effects of [[psilocybin-intoxication-medical-management-and-first-aid]]
+3. Knowledge [[historical-and-cultural-uses-of-psychoactive-mushrooms]] was suppressed during the Inquisition alongside other pre-Christian practices
 
 ## Classification
 
@@ -48,11 +48,11 @@ Monte del Tonale provides a compelling case study in ethnomycology, where ecolog
 - Nightshade plants and fly agaric are essentially absent at this altitude
 - *Psilocybe semilanceata* grows abundantly in local pastures during fall
 - Research credited to G. Samorini
-- Supports hypothesis that [[psilocybin-mushrooms]] were used in European witchcraft
+- Supports hypothesis that [[psilocybin-mushrooms]] were used [[hallucinogenic-plants-in-european-witchcraft]]
 
 ## Ecological Significance
 The ecological importance of Montedel Tonale extends across multiple levels of biological
-organization. Research has documented its role in nutrient cycling, species interactions,
+organization. Research has documented its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], species interactions,
 and ecosystem stability. These relationships highlight the interconnected nature of
 biological communities and the importance of understanding individual components
 within their broader environmental context.
@@ -62,7 +62,7 @@ Understanding Montedel Tonale has practical implications for agriculture, hortic
 and environmental management. Applied research has explored how this knowledge
 can be used to improve soil health, optimize growing conditions, and develop
 more sustainable management practices. These applications demonstrate the bridge
-between fundamental research and real-world problem solving.
+between fundamental research and real-world [[cannabis-grow-nutrient-deficiency-problem-solving]].
 
 ## Research Context
 Current research on Montedel Tonale draws from multiple scientific disciplines, integrating

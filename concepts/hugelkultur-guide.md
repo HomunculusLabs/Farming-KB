@@ -1,5 +1,5 @@
 ---
-title: Hugelkultur Guide
+title: Hemenway Hugelkultur Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -61,7 +61,7 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 
 ### Established Mounds (Year 2+)
 - Virtually any crop thrives: tomatoes, squash, peppers, brassicas, root vegetables.
-- The sponge effect reduces watering to once per week or less in temperate climates.
+- The sponge effect reduces watering to once per week or less [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 - Vining crops (squash, cucumbers) cascade beautifully off mound sides.
 
 ## Irrigation
@@ -72,9 +72,9 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 
 ## Troubleshooting
 
-- **Nitrogen deficiency (yellowing leaves)**: Top-dress with blood meal, composted manure, or fish emulsion. More common in year 1 with high-wood-volume mounds.
+- **Nitrogen deficiency (yellowing leaves)**: Top-dress with blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or [[comparison-fish-hydrolysate-vs-fish-emulsion]]. More common in year 1 with high-wood-volume mounds.
 - **Excessive settling**: Pack layers firmly during construction; add more soil/compost in year 2.
-- **Slugs and pests**: The moist environment attracts slugs. Use beer traps, diatomaceous earth, or encourage predator populations (ducks, ground beetles).
+- **Slugs and pests**: The moist environment attracts slugs. Use beer traps, [[comparison-diatomaceous-earth-vs-bacillus-thuringiensis]], or encourage predator populations (ducks, [[ground-beetles-carabidae-and-biological-pest-control]]).
 - **Dry spots**: Large logs can create air pockets; water deeply and slowly to saturate.
 
 ## Hugelkultur vs. Conventional Raised Beds

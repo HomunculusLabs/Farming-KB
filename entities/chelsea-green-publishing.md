@@ -9,7 +9,7 @@ tags: [organizations, publishing, sustainable-agriculture]
 
 ## Description
 
-Chelsea Green Publishing is an American book publisher based in White River Junction, Vermont, specializing in books on sustainable agriculture, renewable energy, green building, and environmental politics. They are the publisher of *The Winter Harvest Handbook* and numerous other influential works in the organic farming and sustainable living movement. Referenced throughout the back matter and catalog pages of the source text as both publisher and advocate for sustainable agriculture.
+Chelsea Green Publishing is an American book publisher based in White River Junction, Vermont, specializing in books on [[mushroom-cultivation-for-sustainable-agriculture]], renewable energy, green building, and environmental politics. They are the publisher of *The [[winter-harvest-handbook-guide]]* and numerous other influential works in the [[eliot-coleman-deep-organic-farming-and-winter-harvest]] sustainable living movement. Referenced throughout the back matter and catalog pages of the source text as both publisher and advocate for sustainable agriculture.
 
 ## Classification
 
@@ -33,7 +33,7 @@ Chelsea Green Publishing is an American book publisher based in White River Junc
 
 The Chelsea Green catalog as listed in *The Winter Harvest Handbook* includes:
 
-- **The New Organic Grower** by Eliot Coleman — master manual of tools and techniques for home and market gardeners (Second Edition, $24.95)
+- **The New Organic Grower** by Eliot Coleman — master manual of [[levelling-tools-and-techniques]] for home and market gardeners (Second Edition, $24.95)
 - **Gaia's Garden** by [[toby-hemenway]] — guide to home-scale permaculture (Second Edition, $34.95)
 - **Small-Scale Grain Raising** by Gene Logsdon — organic guide to growing, processing, and using whole grains (Second Edition, $29.95)
 - **[[perennial-vegetables]]** by Eric Toensmeier — guide to over 100 perennial edible crops from artichokes to zuiki taro ($35.00)
@@ -59,7 +59,7 @@ Chelsea Green's approach to publishing sustainable agriculture books emphasizes:
 - **Practical detail**: Step-by-step instructions, photographs, and technical specifications
 - **Working knowledge**: Authors are practicing farmers, not just theoreticians
 - **Systems thinking**: Books present integrated approaches rather than isolated techniques
-- **Historical context**: Many titles draw on historical agricultural knowledge alongside modern research
+- **[[ghouled-field-guide-historical-context]]**: Many titles draw on historical agricultural knowledge alongside modern research
 - **Economic realism**: Books address the financial viability of sustainable practices alongside ecological benefits
 
 ## Relevance to Cultivation
@@ -71,7 +71,7 @@ For the cultivation and organic farming community, Chelsea Green Publishing serv
 - **Eliot Coleman** — key author, published three major works with Chelsea Green
 - **[[four-season-farm]]** — the model farm documented in Chelsea Green publications
 - **Organic Farming Movement** — Chelsea Green serves as a primary publishing outlet
-- **Barbara Damrosch** — author and farming partner, part of Chelsea Green author community
+- **[[barbara-damrosch]]** — author and farming partner, part of Chelsea Green author community
 - **Gene Logsdon** — author of *Small-Scale Grain Raising* and other Chelsea Green titles
 - **Toby Hemenway** — author of *Gaia's Garden*, permaculture reference
 

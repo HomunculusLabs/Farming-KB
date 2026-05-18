@@ -117,3 +117,11 @@ physical parameters. Biological filtration through wetlands removes
 pathogens and excess nutrients. pH management ensures nutrient
 availability. Dissolved oxygen supports aerobic decomposition.
 Regular testing for contaminants protects system integrity.
+
+## Practical Considerations
+
+Understanding the practical applications of this
+concept requires considering both theoretical frameworks
+and real-world implementation challenges. Practitioners
+must balance ideal approaches with available resources
+and site-specific conditions to achieve meaningful results.

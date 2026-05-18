@@ -7,12 +7,12 @@ tags: [person, mycology, conservation, new-mexico]
 
 ## Description
 
-Lynda Taylor is a cofounder of Sustainable Communities/ZERI-New Mexico
+Lynda Taylor is a cofounder of [[designing-sustainable-communities]]/ZERI-New Mexico
 (SCZ-NM) and initiator of the New Mexico native fungal culture bank
 project. Her work focuses on collecting, maintaining, and testing native
 fungi for their ability to grow on locally available woody substrates as
 part of forest restoration efforts. She is featured in [[ron-spinosa]]'s
-article on fungi and sustainability published in Fungi Magazine.
+article on [[fungi-and-sustainability]] published in Fungi Magazine.
 
 ## Classification
 
@@ -34,7 +34,7 @@ article on fungi and sustainability published in Fungi Magazine.
   species including ponderosa pine, piñon, and juniper.
 - Also tested on invasive species like salt cedar and Russian olive being
   thinned during forest restoration.
-- Her work connects forest management with practical mushroom cultivation
+- Her work connects forest management with practical [[accessible-mushroom-cultivation-for-disabilities]]
   and [[mycoforestry-and-fungal-ecosystem-restoration]].
 
 ## The Native Fungal Culture Bank
@@ -54,7 +54,7 @@ mushroom cultivation.
 
 New Mexico's forests face a dual crisis: overgrowth of small-diameter
 trees creating severe wildfire hazard, and invasion by non-native species
-like salt cedar (Tamarix) and Russian olive (Elaeagnus angustifolia).
+like salt cedar (Tamarix) and Russian olive ([[elaeagnus-angustifolia]]).
 Thinning operations produce enormous volumes of woody biomass with limited
 economic value. Taylor's insight was to test whether native fungi could
 convert this low-value thinned material into high-value mushroom crops.
@@ -82,7 +82,7 @@ applied mycology initiative. By systematically collecting and
 characterizing native fungi — and testing their ability to fruit on locally
 available substrates — she is building a resource for sustainable forest
 management. Matching native fungi to native tree species follows Paul
-Stamets's mycoforestry principles and ensures that mushroom cultivation
+Stamets's [[mycoforestry-principles-stamets]] and ensures that mushroom cultivation
 efforts use locally adapted organisms. Her approach to cultivating
 [[rhizomorph-mycelium]] and other growth forms helps identify which
 species are most productive on specific wood types.
@@ -93,7 +93,7 @@ The native fungal culture bank concept could serve as a model for other
 regions seeking to develop locally adapted mushroom cultivation industries
 while simultaneously addressing forest fire hazard reduction. Taylor's
 work demonstrates that conservation and economic development need not be
-in conflict when fungi are integrated into land management strategies.
+in conflict when fungi are integrated into land [[livestock-grassland-management-strategies]].
 
 ## References
 

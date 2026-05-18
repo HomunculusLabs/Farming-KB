@@ -6,9 +6,9 @@ tags: [permaculture, soil-health, nutrient-cycling, dynamic-accumulators,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/nutrient-and-dynamic-accumulators.md
-  - /Users/t3rpz/wiki/raw/papers/gaias-garden-toby-hemenway.md
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - "raw/papers/nutrient-and-dynamic-accumulators.md"
+  - "raw/papers/gaias-garden-toby-hemenway.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 related_concepts:
   - "cover-crops-and-green-manures"
   - "composting-and-soil-biology"

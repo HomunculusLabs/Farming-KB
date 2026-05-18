@@ -1,11 +1,11 @@
 ---
-title: "Eliot Coleman's Deep Organic Farming and Winter Harvest System"
+title: "Eliot Coleman's Coleman Deep Organic Farming and Cold House Winter Harvest System"
 subtitle: "A comprehensive guide to year-round dry-gardening-unirrigated-vegetable-production-solomon without heating, from the pioneer of unheated winter growing"
 tags: [organic-farming, winter-harvest, greenhouse, season-extension, deep-organic, coleman, four-season-farming, soil-health, small-farm]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Eliot Coleman, "The Winter Harvest Handbook" (Chelsea Green, 2009)
+  - Eliot Coleman, "The [[winter-harvest-handbook-guide]]" (Chelsea Green, 2009)
   - Eliot Coleman, "The New Organic Grower" (Chelsea Green, revised 2018)
 related_concepts:
   - coleman-deep-organic-farming-philosophy
@@ -26,7 +26,7 @@ related_concepts:
 [[eliot-coleman]] is among the most influential organic farmers and writers of
 the past half century. Since purchasing a portion of Scott and Helen
 Nearing's homestead in Harborside, Maine in 1968, he has developed and
-refined a system of year-round vegetable production that requires no
+refined a system of year-round [[coleman-french-historical-winter-vegetable-production]] that requires no
 artificial heat, no fossil fuels, and no complex technology. His farm,
 Four Season Farm, sits at 44 degrees north latitude in USDA Zone 5, where
 winter temperatures routinely drop below zero Fahrenheit. Yet Coleman
@@ -40,10 +40,10 @@ parts.
 This article synthesizes Coleman's methods as documented primarily in "The
 Winter Harvest Handbook" (2009) and "The New Organic Grower" (revised
 2018), supplemented by concept pages derived from those texts. It covers
-his farming philosophy, [[mushroom-pests-and-diseases]]
+his [[cho-natural-farming-philosophy]], [[mushroom-pests-and-diseases]]
 without any need for intervention.
 
-Shallow organic farmers, by contrast, reject [[root-exudates|root exudates]] that feed specific soil organisms,
+Shallow organic farmers, by contrast, reject [[root-exudates]] that feed specific soil organisms,
 which in turn make nutrients available in absorbable forms. This biological
 dance produces measurably different results in crop quality, pest
 resistance, and long-term soil health.
@@ -68,7 +68,7 @@ cold weather. Children in Coleman's town reportedly call his winter carrots
 "candy carrots."
 
 The second component is [[coleman-protected-cultivation]] using unheated greenhouses
-with an inner layer of floating row cover. This double-layer system creates
+with an inner layer of [[floating-row-cover]]. This double-layer system creates
 a microclimate approximately three USDA hardiness zones warmer than the
 outside climate. A Zone 5 farm achieves growing conditions equivalent to
 Zone 8 through this simple combination.

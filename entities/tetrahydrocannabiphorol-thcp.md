@@ -19,7 +19,7 @@ created: 2026-04-28
 
 # Tetrahydrocannabiphorol (THCP)
 
-**Tetrahydrocannabiphorol** (THCP) is a phytocannabinoid identified in 2019 by a team of Italian researchers led by Cinzia Citti at the University of Modena and Reggio Emilia. It is notable for possessing a **pentyl side chain extended by two methylene units** to a heptyl chain (7 carbon atoms), making it the first naturally occurring **heptyl homolog** of Δ⁹-[[tetrahydrocannabinol]] (THC). This structural extension confers dramatically enhanced binding affinity at cannabinoid receptors — up to 33 times that of Δ⁹-THC at CB1.
+**Tetrahydrocannabiphorol** (THCP) is a phytocannabinoid identified in 2019 by a team of Italian researchers led by Cinzia Citti at the University of Modena and Reggio Emilia. It is notable for possessing a **pentyl [[dimethylamine-amidation-tryptamine-side-chain-construction]] extended by two methylene units** to a heptyl chain (7 carbon atoms), making it the first naturally occurring **heptyl homolog** of Δ⁹-[[tetrahydrocannabinol]] (THC). This structural extension confers dramatically enhanced binding affinity at [[cannabinoid-receptors-cb1-cb2]] — up to 33 times that of Δ⁹-THC at CB1.
 
 ## Discovery
 
@@ -44,7 +44,7 @@ Simultaneously, the same team identified **CBDP** (cannabidiphorol), the heptyl 
 | Double Bond | Δ⁹ (C-9/C-10) | Δ⁹ (C-9/C-10) |
 | Stereochemistry | trans | trans |
 
-The sole structural difference from Δ⁹-THC is the **alkyl side [[tihkal-receptor-binding-serotonin]], as the alkyl chain occupies a critical lipophilic pocket in the CB1 receptor binding site.
+The sole structural difference from Δ⁹-THC is the **alkyl side [[tihkal-receptor-binding-serotonin]], as the alkyl chain occupies a critical lipophilic pocket in the CB1 [[beta-glucan-receptor-binding]] site.
 
 ## Pharmacology
 
@@ -57,7 +57,7 @@ The pharmacological significance of THCP lies in its extraordinary receptor affi
 | CB1 | 1.2 nM | 40 nM | ~33× higher |
 | CB2 | 5.7 nM | 36 nM | ~6× higher |
 
-This binding profile makes THCP one of the most potent naturally occurring cannabinoids ever characterized. The Ki value of 1.2 nM at CB1 places THCP among the most potent CB1 agonists known, rivaling certain synthetic cannabinoids.
+This binding profile makes THCP one of the most potent naturally occurring cannabinoids ever characterized. The Ki value of 1.2 nM at CB1 places THCP among the most potent CB1 agonists known, rivaling certain [[blesching-cannabis-synthetic-cannabinoids]].
 
 ### In Vivo Activity
 
@@ -72,13 +72,13 @@ The effective dose of THCP was approximately **5–10 times lower** than Δ⁹-T
 
 ### Proposed Contribution to "cannabis terpenes and the entourage effect"
 
-A significant implication of THCP's discovery is its potential role in explaining the variable psychoactivity of different cannabis varieties. The Italian researchers hypothesized that THCP may be present at concentrations too low to detect by standard analytical methods, yet sufficient — given its 33× potency advantage — to contribute meaningfully to the overall pharmacological effect. This could partially explain why some cannabis samples produce unexpectedly strong effects despite modest Δ⁹-THC levels.
+A significant implication of THCP's discovery is its potential role in explaining the variable psychoactivity of different cannabis varieties. The Italian researchers hypothesized that THCP may be present at concentrations too low to detect by standard [[analytical-methods-psilocybin-psilocin-quantification]], yet sufficient — given its 33× potency advantage — to contribute meaningfully to the overall pharmacological effect. This could partially explain why some cannabis samples produce unexpectedly strong effects despite modest Δ⁹-THC levels.
 
 ### Safety and Toxicity
 
 As of 2026, comprehensive safety and toxicity data for THCP are lacking:
 
-- **Acute toxicity**: No published LD₅₀ data; the extreme potency suggests a narrow [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] es concerns about acute anxiety, dissociation, and psychosis ris [[query-what-is-the-cannabis-entourage-effect]] ption. However, the possibility of **synergistic effects** with other cannabinoids (entourage effect) remains an active area of investigation.
+- **[[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]]**: No published LD₅₀ data; the extreme potency suggests a narrow [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] es concerns about acute anxiety, dissociation, and psychosis ris [[query-what-is-the-cannabis-entourage-effect]] ption. However, the possibility of **synergistic effects** with other cannabinoids (entourage effect) remains an active area of investigation.
 
 ## Synthetic and Semi-Synthetic Production
 

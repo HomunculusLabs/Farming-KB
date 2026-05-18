@@ -5,7 +5,7 @@ tags: [farming, revegetation, desertification, seed-balls, ecology]
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 

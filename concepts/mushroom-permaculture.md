@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: concept
 ---
 

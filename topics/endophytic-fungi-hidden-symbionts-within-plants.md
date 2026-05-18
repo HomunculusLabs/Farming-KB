@@ -5,11 +5,11 @@ tags: [mycology, plant-biology, symbiosis, endophytes, fungal-ecology, agricultu
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
-  - /Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md
-  - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
-  - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-  - /Users/t3rpz/wiki/raw/papers/teaming-with-fungi-lowenfels.md
-  - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+  - "raw/papers/symbiotic-fungi.md"
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+  - "raw/papers/teaming-with-fungi-lowenfels.md"
+  - "raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md"
 related_concepts:
   - mycorrhizal-fungi
   - the-rhizosphere-ecology-and-plant-microbe-interactions

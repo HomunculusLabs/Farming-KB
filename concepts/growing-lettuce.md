@@ -1,5 +1,5 @@
 ---
-title: Growing Lettuce
+title: Growing Lettuce Salad Greens
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -40,7 +40,7 @@ Dark green looseleaf varieties grown on properly balanced mineral-rich soils hav
 
 ### The Problem
 
-In warm weather, a single sowing of one variety remains in prime eating condition for only about three weeks. Lettuce that sits around uncut just a few days too old rapidly becomes unusable — even the chickens or rabbits won't eat it.
+In [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], a single sowing of one variety remains in prime eating condition for only about three weeks. Lettuce that sits around uncut just a few days too old rapidly becomes unusable — even the chickens or rabbits won't eat it.
 
 ### The Solution
 
@@ -51,7 +51,7 @@ In warm weather, a single sowing of one variety remains in prime eating conditio
 
 ### Mesclun Considerations
 
-Growing salad [[mesclun]] — a densely spaced salad greens mixture cut repeatedly, like mowing a lawn — has become a popular practice. However:
+[[solomon-growing-salad-greens]] [[mesclun]] — a densely spaced [[query-how-do-i-grow-salad-greens-and-lettuce-year-round]] mixture cut repeatedly, like mowing a lawn — has become a popular practice. However:
 
 - After the first cutting, mesclun usually results in second-rate salads
 - If you spread a strongly seasoned fatty dressing on your greens, you won't notice how bitter and dry they have become
@@ -73,14 +73,14 @@ Lettuce is a self-pollinated annual that grows vegetatively for a time and then 
 
 ### Timing is Critical
 
-Success at making seed depends on how warm and how long summer is where you live. The heads must be fully developed and probably must be bolting before summer heat arrives if the plants are to mature their seed load.
+Success at making seed depends on how warm and how long summer is where you live. The heads must be fully developed and probably must be bolting before [[summer-heat-management-greenhouse-ventilation]] arrives if the plants are to mature their seed load.
 
 Most varieties reach a critical point about 6-8 weeks after the summer solstice, when prompted by shortening days, plants forming seed switch from ripening that seed load to growing vegetatively again. If the seed crop hasn't matured by then, it won't.
 
 ### Seasonal Strategy
 
 - **Mild winters**: Sow seed crop in mid-autumn and overwinter outdoors without protection
-- **Harsh winters**: Start seed crop at the first signs of spring and set out at the earliest possible date
+- **Harsh winters**: [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] crop at the first signs of spring and set out at the earliest possible date
 - Seedlings can be started under glass at the summer solstice with the expectation that they will be mature before the critical date
 
 ### Isolation

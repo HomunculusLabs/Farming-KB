@@ -75,7 +75,7 @@ Eight mushroom houses serve two distinct purposes:
 ### Support Infrastructure
 
 **Transport and Storage:**
-- 40 iron racks for mushroom bag transport
+- 40 iron racks for [[mushroom-bag-inoculation-short-needle-vs-long-needle]] transport
 - 4 trolleys (3-wheel, manually powered)
 - Storeroom with shelving
 
@@ -95,7 +95,7 @@ Eight mushroom houses serve two distinct purposes:
 
 **Consumables and Raw Materials:**
 - 1.5 tons of plastic bags; 200,000 plastic necks, cotton plugs, rubber bands
-- Substrate ingredients: sawdust (2–15 truckloads), MgSO₄, CaSO₄, CaCO₃, pumice, rice bran
+- Substrate ingredients: sawdust (2–15 truckloads), MgSO₄, CaSO₄, CaCO₃, pumice, [[jadam-rice-bran-problems]]
 - Laboratory consumables: glucose, gelatin, alcohol, dettol, plastic sheeting
 
 ---

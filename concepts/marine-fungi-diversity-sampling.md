@@ -1,5 +1,5 @@
 ---
-title: Marine Fungi Diversity Sampling
+title: Marine Arbuscular Mycorrhizal Fungi Diversity Distribution Species Richness Sampling
 created: 2026-04-21
 updated: 2026-05-09
 type: concept
@@ -63,9 +63,9 @@ suggested, including many novel lineages without known cultured representatives.
 
 High-throughput sequencing platforms allow comprehensive surveys of marine fungal
 communities across spatial and temporal gradients. These studies have uncovered
-previously unknown patterns of fungal biogeography, host specificity, and
+previously unknown patterns of [[fungal-biogeography]], host specificity, and
 seasonal dynamics in marine environments, fundamentally changing our
-understanding of fungal diversity in the oceans.
+understanding of [[arbuscular-mycorrhizal-fungal-diversity]] in the oceans.
 
 ## Biogeographic Patterns
 
@@ -77,7 +77,7 @@ Temperature, salinity, and substrate availability are the primary environmental
 determinants of marine fungal [[core-endorhiza-bacterial-community-composition-cannabis]]. Warm-water species
 predominate in tropical mangroves and coral reefs, while cold-adapted species
 colonize higher-latitude shorelines. The transition between marine and
-terrestrial fungal communities along estuarine gradients creates unique
+terrestrial [[acidifying-pollutants-saprotrophic-fungal-communities]] along estuarine gradients creates unique
 ecotonal communities with mixed marine and terrestrial species.
 ## Integration with Broader Systems
 
@@ -93,12 +93,12 @@ Key differences between approaches typically center on: the role of human interv
 
 ## Safety and Best Practices
 
-Responsible implementation requires attention to safety considerations and established best practices. Proper identification of materials and organisms, understanding of potential hazards, and appropriate protective measures are essential. novices should start with simple, low-risk applications before attempting advanced techniques.
+Responsible implementation requires attention to [[ayahuasca-tourism-practitioners-and-safety-considerations]] and established best practices. Proper identification of materials and organisms, understanding of potential hazards, and appropriate protective measures are essential. novices should start with simple, low-risk applications before attempting advanced techniques.
 
 Documentation of procedures and outcomes supports both personal learning and community knowledge-sharing. Maintaining detailed records of conditions, methods, and results allows for iterative improvement and helps identify patterns that might otherwise go unnoticed. Peer review and mentorship from experienced practitioners further enhance safety and effectiveness.
 
 ## Future Directions
 
-Ongoing research and technological development continue to expand the possibilities within this field. Emerging areas of interest include improved monitoring tools, optimized formulations based on microbiome science, and integration with precision agriculture systems. Climate adaptation strategies are becoming increasingly important as practitioners respond to changing environmental conditions.
+Ongoing research and technological development continue to expand the possibilities within this field. Emerging areas of interest include improved monitoring tools, optimized formulations based on microbiome science, and integration with precision agriculture systems. Climate [[mollison-designers-climate-change-adaptation-strategies]] are becoming increasingly important as practitioners respond to changing environmental conditions.
 
 Community knowledge-sharing through online platforms, workshops, and demonstration sites accelerates innovation and reduces barriers to entry for new practitioners. The combination of rigorous scientific methodology with practical field experience promises continued advancement in both understanding and application.

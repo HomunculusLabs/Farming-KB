@@ -2,7 +2,7 @@
 title: "Plant Guild"
 created: 2026-04-28
 type: species
-tags: [permaculture, polyculture, companion-planting, food-forest, ecological-design, guild]
+tags: [[permaculture]], polyculture, [[companion-planting]], food-forest, ecological-design, guild]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["https://en.wikipedia.org/wiki/Companion_planting", "https://permacultureprinciples.com/"]
@@ -10,8 +10,8 @@ sources: ["https://en.wikipedia.org/wiki/Companion_planting", "https://permacult
 # Plant Guild ## Overview / Summary A plant guild is a group of mutually beneficial organisms — typically plants, but also including animals, insects, and microorganisms — that function together as an integrated system within permaculture design. Guilds mimic natural ecosystem relationships to create self-sustaining, low-maintenance productive landscapes. Each member of the guild contributes at least one function that supports the others, reducing the need for external inputs such as fertilizers, pesticides, or irrigation. The concept is foundational to [[food-forest]] design.
 A food forest can be understood as a landscape-scale assembly of interconnected guilds organized into vertical canopy layers.
 Each tree or shrub in a food forest typically has its own associated guild, and these guilds overlap and interact across the landscape.
-[[apple-guild-design-guide]] methodology, including the concept of "[[toby-hemenway]] popularized guild design for home gardeners in "Gaia's Garden" (2001, 2nd ed. 2009), making the concept accessible to a broad audience with practical examples and step-by-step design guides.
-comfrey (three-sisters
+[[apple-guild-design-guide]] methodology, including the concept of "[[toby-hemenway]] popularized [[apple-centered-guild-design]] for home gardeners in "Gaia's Garden" (2001, 2nd ed. 2009), making the concept accessible to a broad audience with practical examples and step-by-step design guides.
+[[comfrey]] (three-sisters
 - comfrey
 - permaculture
 - [[asclepias-syriaca]]
@@ -32,7 +32,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -9,7 +9,7 @@ tags: [fungi, basidiomycota, agaricomycetes, agaricales, psathyrellaceae, coprin
 
 ## Description
 
-Coprinus micaceus, commonly known as the mica cap, glistening inky cap, or sparkling coprinus, is a small edible mushroom species that fruits in dense clusters on and around decaying wood, stumps, and buried roots. The cap is tan to yellowish-brown and covered with minute, reflective granules that glisten like mica flakes, especially when young. The gills are initially white, turning gray, then black as the mushroom deliquesces (dissolves into ink) with age. The species is one of the most common and easily recognized ink caps, found worldwide in temperate regions.
+Coprinus micaceus, commonly known as the mica cap, glistening inky cap, or sparkling coprinus, is a small [[edible-mushroom-species-identification]] that fruits in dense clusters on and around decaying wood, stumps, and buried roots. The cap is tan to yellowish-brown and covered with minute, reflective granules that glisten like mica flakes, especially when young. The gills are initially white, turning gray, then black as the mushroom deliquesces (dissolves into ink) with age. The species is one of the most common and easily recognized [[bloomfield-coprinus-ink-caps-deliquescence-coprine]], found worldwide in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 ## Classification
 
@@ -27,7 +27,7 @@ Coprinus micaceus, commonly known as the mica cap, glistening inky cap, or spark
 - **Cap:** 2-5 cm diameter, oval when young becoming convex to bell-shaped; surface covered with glistening white or yellowish granules (velar remnants) that resemble mica flakes; color ranges from tawny to yellowish-brown
 - **Gills:** Crowded, free from the stem; white when young, progressing through gray to black as deliquescence proceeds
 - **Stem:** 3-10 cm tall, slender, hollow, white to pale buff; fragile
-- **Spore print:** Black
+- **[[boil-a-bag-spore-print-technique-jarrold]]:** Black
 - **Flesh:** Thin, white, delicate
 
 ## Key Facts
@@ -52,7 +52,7 @@ Palmer experienced unpleasant symptoms after consuming a stew containing C. mica
 
 - Saprobic, decomposing dead wood, buried roots, and organic debris
 - Fruits in dense clusters, often appearing in the same location repeatedly
-- Found in forests, parks, gardens, and urban areas
+- Found in forests, parks, gardens, and [[permaculture-for-urban-areas]]
 - Widespread across temperate regions of the Northern Hemisphere
 - Season: Spring through late autumn, especially after rain
 
@@ -61,7 +61,7 @@ Palmer experienced unpleasant symptoms after consuming a stew containing C. mica
 - **Foraging:** A reliable edible species for beginning foragers due to its distinctive appearance and clustered growth habit on wood
 - **Identification:** The glistening cap granules and clustered growth on wood are key diagnostic features that distinguish it from similar species
 - **Safety:** Must be consumed fresh before deliquescence begins; specimens with blackening gills should be discarded
-- **Ecology:** Saprobic decomposer of dead wood, contributing to nutrient cycling in forest and urban ecosystems
+- **Ecology:** Saprobic decomposer of dead wood, contributing to [[nutrient-cycling-in-soil]] forest and urban ecosystems
 - **Research significance:** One of the species that illustrated early mycological confusion between inherent edibility and contamination by decomposing specimens
 - **Taxonomic note:** Molecular studies have reclassified many former Coprinus species into new genera (Coprinopsis, Coprinellus), but C. micaceus retains its placement in Coprinus sensu stricto
 

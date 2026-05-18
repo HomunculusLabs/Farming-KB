@@ -5,7 +5,7 @@ tags: [sterilization, microwave, autoclave, gamma-irradiation, uv-sterilization,
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md
+  - "raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md"
 type: concept
 ---
 

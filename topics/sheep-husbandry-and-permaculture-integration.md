@@ -1,5 +1,5 @@
 ---
-title: Sheep Husbandry and Permaculture Integration
+title: Sheep Husbandry and Mycological Permaculture Integration
 created: 2026-05-18
 type: topic
 tags:
@@ -27,7 +27,7 @@ Their natural flocking instinct makes them easier to contain and handle than
 goats or cattle, while their efficient conversion of pasture to protein
 makes them economically viable on modest acreage. This article covers breed
 selection, housing, feeding, health management, shearing, breeding, and
-integration into permaculture design systems.
+[[duck-keeping-and-integration-into-permaculture-systems]] design systems.
 
 ## Botanical and Biological Overview
 
@@ -51,7 +51,7 @@ breeding life is typically 5-7 years.
 
 Choosing the right breed is the most consequential decision for a sheep
 operation. Breeds vary enormously in size, wool type, meat yield, mothering
-ability, climate adaptation, and management requirements.
+ability, [[jeavons-climate-adaptation-growing-seasons]], and management requirements.
 
 ### Meat Breeds
 
@@ -104,11 +104,11 @@ to the ground than cattle and should be rotated before pasture is grazed
 below 2 inches to prevent overgrazing and root damage.
 
 Rainfall of 20+ inches annually supports productive pasture without
-irrigation in most temperate regions. Arid regions require supplementary
+irrigation in most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Arid regions require supplementary
 feeding or larger acreage per animal.
 
-Stocking rate on good improved pasture with rotational grazing runs
-4-6 sheep per acre. Stocking rates must be adjusted downward for marginal
+Stocking rate on good improved pasture with [[comparison-rotational-grazing-vs-continuous-grazing]] runs
+4-6 sheep per acre. [[aquaculture-pond-yields-and-stocking-rates]] must be adjusted downward for marginal
 land, arid climates, or continuous grazing systems.
 
 ## Housing and Shelter

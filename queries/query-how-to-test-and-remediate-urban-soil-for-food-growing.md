@@ -17,7 +17,7 @@ sources:
   - https://www.epa.gov/urban-agriculture/soil-contamination-and-urban-agriculture
   - https://doi.org/10.1016/j.envint.2014.07.017
   - Attanayake CP et al. (2014) Soil lead geochemistry in urban gardens
-  - Brown SL, Chaney RL (2016) Lead risk assessment for urban agriculture
+  - Brown SL, Chaney RL (2016) Lead risk assessment for [[cuban-urban-agriculture]]
   - USDA NRCS Urban Soil Primer
 created: 2026-04-28
 type: query
@@ -26,7 +26,7 @@ type: query
 # How to Test and Remediate Urban Soil for Food Growing
 ## Why Urban Soil Testing Matters
 
-Urban soils often carry contamination from decades or centuries of human activity — lead paint, leaded gasoline, industrial emissions, coal ash, demolition debris, and chemical spills. The most common urban soil contaminant is **lead (Pb)**, which was pervasive in exterior house paint (before 1978 in the US) and gasoline (before 1996). Other contaminants found in urban soils include arsenic (from treated lumber and historical pesticides), cadmium, chromium, petroleum hydrocarbons, PCBs, and asbestos.
+Urban soils often carry contamination from decades or centuries of human activity — lead paint, leaded gasoline, industrial emissions, coal ash, demolition debris, and chemical spills. The most common urban soil contaminant is **lead (Pb)**, which was pervasive in exterior house paint (before 1978 in the US) and gasoline (before 1996). Other contaminants found in urban soils include arsenic (from treated lumber and historical pesticides), cadmium, chromium, [[mycoremediation-petroleum-hydrocarbons]], PCBs, and asbestos.
 
 Contaminated soil poses [[comparison-raised-beds-vs-hugelkultur]] with fungal-bioturbation-and-soil-aggregate-formation, and boosts microbial activity
 - Microorganisms in compost can transform contaminants into less bioavailable forms
@@ -86,15 +86,15 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
+ecology, data science, [[wasted-human-resources-and-traditional-knowledge]] systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

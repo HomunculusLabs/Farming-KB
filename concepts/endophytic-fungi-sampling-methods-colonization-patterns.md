@@ -1,5 +1,5 @@
 ---
-title: "[[endophytic-fungi]] Sampling Methods Colonization Patterns"
+title: "[[endophytic-fungi]] [[biodiversity-of-fungi-macrofungi-sampling-methods]] [[arbuscular-mycorrhizal-colonization-patterns]]"
 source: "[[dighton-fungal-drought-tolerance-plant-water-relations]] in exchange for nutrition and
 dispersal.
 
@@ -26,7 +26,7 @@ diversity present in a single leaf.
 
 ## Sampling Guidelines and Best Practices
 
-Effective endophyte surveys require careful sampling design. Key principles
+Effective endophyte surveys require careful [[macrofungal-sampling-design-plots-transects]]. Key principles
 from decades of research include:
 
 - **Smaller sampling units recover greater diversity**: Dividing material into
@@ -41,8 +41,8 @@ from decades of research include:
   provides more time for colonization and greater tissue diversity.
 
 - **Sampling many host species is more productive than extensive single-host
-  sampling**: Host specificity is common, so surveying multiple species
-  captures more total fungal diversity.
+  sampling**: [[fungal-endemism-host-specificity]] is common, so surveying multiple species
+  captures more total [[arbuscular-mycorrhizal-fungal-diversity]].
 
 ## Sample Collection and Processing
 
@@ -66,7 +66,7 @@ mutualists enhancing host fitness.
 
 ## Microfungi Life Strategies: Adaptation of Grime's CSR Framework
 
-The life history strategies of microfungi, including endophytes, have been
+The [[fungal-life-history-strategies]] of microfungi, including endophytes, have been
 conceptualized using frameworks adapted from plant ecology. Grime's (1977) CSR
 model was adapted for fungi by Pugh (1980) and refined by Cooke and Rayner
 (1984). Three primary strategies are recognized:

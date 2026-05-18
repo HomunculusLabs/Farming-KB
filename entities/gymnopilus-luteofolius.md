@@ -5,8 +5,8 @@ updated: 2026-05-09
 type: entity
 tags: [species, fungi, basidiomycota, cortinariaceae, gymnopilus, psilocybin, wood-inhabiting]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
 # Gymnopilus luteofolius

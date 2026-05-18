@@ -1,11 +1,11 @@
 ---
-title: Harner Jivaro Shamanism Yage
+title: Harner Jivaro Shamanism And Natem Yage
 created: 2026-04-26
-sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Ch. 2 (Harner)
+sources: Harner (ed.), [[hallucinogens-and-shamanism-harner-anthology]] (1973), Ch. 2 (Harner)
 related:
   - amazonian-ayahuasca-shamanism
-  - tsentsak
-  - banisteriopsis-caapi
+  - [[tsentsak]]
+  - [[banisteriopsis-caapi]]
 tags: [ethnobotany, shamanism, jivaro, ecuador, ayahuasca, natem, witchcraft]
 type: concept
 updated: 2026-04-26
@@ -49,12 +49,12 @@ Bewitching is carried out against specific, known individuals:
 
 Special spirit helpers include:
 - **Pasuk**: A specialized servant of bewitching, appearing as a tarantula to laypersons but as an iron-armored human to shamans under natem. Only vulnerable in its eyes.
-- **Wakani birds**: Supernatural servants that fly around victims causing fever and insanity
+- **[[wakani]] birds**: Supernatural servants that fly around victims causing fever and insanity
 
 ## Curing
 
 The curing shaman's work is complementary to bewitching:
-1. Drinks natem, tobacco juice, and piripiri in late afternoon
+1. Drinks natem, tobacco juice, and [[piripiri]] in late afternoon
 2. Under the drug, sees into the patient's body "as though it were glass"
 3. Determines if illness is due to sorcery and whether he can cure it
 4. At night, in darkness, regurgitates two matching tsentsak into mouth

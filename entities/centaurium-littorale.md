@@ -34,7 +34,7 @@ Stamens are five, inserted in the corolla tube, with versatile anthers. The styl
 
 Flowering occurs from June to September. The fruit is a cylindrical capsule containing numerous tiny, angular seeds less than 0.5 mm long.
 
-The species is diploid with 2n = 18. It is closely related to [[centaurium-erythraea]] and C. pulchellum, forming a complex of annual species with overlapping morphological characters.
+The species is diploid with 2n = 18. It is closely related to [[centaurium-erythraea]] and C. pulchellum, forming a complex of annual species with overlapping [[culturing-macrofungi-describing-morphological-characters]].
 
 Identification requires careful attention to corolla tube length and calyx lobe proportions. The coastal habitat is a strong diagnostic indicator, as no other annual Centaurium shares this strict coastal restriction.
 
@@ -76,6 +76,6 @@ Centaurium littorale shares the bitter properties common to the genus Centaurium
 
 Historically, coastal populations of centaury were gathered as a bitter tonic herb. However, C. littorale was less commonly used than the larger, more widespread C. erythraea.
 
-In folk medicine along the coasts of Brittany and Wales, the plant was infused as a digestive remedy. The preparation was known by various local names referencing its coastal habitat.
+In [[magical-illness-peruvian-amazon-folk-medicine]] along the coasts of Brittany and Wales, the plant was infused as a digestive remedy. The preparation was known by various local names referencing its coastal habitat.
 
 Modern herbalism rarely distinguishes between Centaurium species. The genus as a whole is used as a bitter tonic to stimulate digestive secretions and appetite.

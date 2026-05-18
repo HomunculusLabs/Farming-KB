@@ -5,7 +5,7 @@ tags: [transplanting, hardening-off, seed-starting, vegetable-gardening, frost-p
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/purdue-home-gardeners-guide.md
+  - "raw/papers/purdue-home-gardeners-guide.md"
 type: concept
 ---
 

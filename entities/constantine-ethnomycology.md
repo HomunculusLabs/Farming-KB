@@ -75,7 +75,7 @@ The Catholic ("catholic" = universal) Church's ambition to be the single world r
 - Illustrates how **political power structures** have historically suppressed direct knowledge of [[allegro-cross-and-mushroom-symbolism]] persists** in religious texts despite institutional denial
 - Demonstrates the **replacement mechanism** — substituting real mushrooms with symbolic objects and priestly authority
 - Provides historical context for **ongoing prohibition** of entheogenic substances
-- Explains why **decoding mushroom symbolism** in religious art requires understanding the political editing process
+- Explains why **decoding [[allegro-cross-crucifixion-harmony-yoke-mushroom-symbolism]]** in religious art requires understanding the political editing process
 
 ## See Also
 

@@ -8,7 +8,7 @@ tags: [person, historical, agriculture, political-philosophy]
 # Peter Kropotkin
 
 ## Description
-Prince Peter Kropotkin (1842–1921) was a Russian geographer, zoologist, and anarchist philosopher whose observations on mutual aid in nature and decentralized agriculture influenced generations of organic farmers. His 1899 book *Fields, Factories and Workshops* documented intensive agricultural practices including the Parisian maraicher system. Eliot Coleman quotes Kropotkin's observation that Parisian growers "make the soil themselves" to contextualize his own experience of transforming poor land into productive soil.
+Prince Peter Kropotkin (1842–1921) was a Russian geographer, zoologist, and anarchist philosopher whose observations on mutual aid in nature and decentralized agriculture influenced generations of organic farmers. His 1899 book *Fields, Factories and Workshops* documented intensive [[mycorrhizal-agricultural-practices]] including the [[coleman-parisian-maraicher-system]]. Eliot Coleman quotes Kropotkin's observation that Parisian growers "make the soil themselves" to contextualize his own experience of transforming poor land into productive soil.
 
 ## Classification
 - **Category**: Historical figure / Philosopher / Scientist / Author
@@ -34,8 +34,8 @@ Prince Peter Kropotkin (1842–1921) was a Russian geographer, zoologist, and an
 ### Mutual Aid Theory
 - In *Mutual Aid: A Factor of Evolution* (1902), Kropotkin argued that cooperation, not just competition, drives evolution
 - Observed mutual aid in animal societies, indigenous communities, and medieval cities
-- This theory underpins the organic farming philosophy of working with natural systems rather than dominating them
-- The concept of mutually beneficial relationships in ecosystems directly informs understanding of soil food webs and mycorrhizal associations
+- This theory underpins the [[coleman-deep-organic-farming-philosophy]] of working with natural systems rather than dominating them
+- The concept of mutually beneficial relationships in ecosystems directly informs understanding of soil food webs and [[plants-without-mycorrhizal-associations]]
 
 ### Agricultural Philosophy
 - Advocated for agriculture integrated with industry and education
@@ -55,7 +55,7 @@ Prince Peter Kropotkin (1842–1921) was a Russian geographer, zoologist, and an
 - Kropotkin's mutual aid theory is strikingly applicable to mycorrhizal networks
 - Mycorrhizal fungi form mutualistic associations with plant roots — a literal biological mutual aid network
 - Wood-wide-web concept of fungal mycelium connecting plants for nutrient sharing exemplifies mutual aid
-- Kropotkin's philosophy of cooperation over competition is reflected in understanding soil microbial communities
+- Kropotkin's philosophy of cooperation over competition is reflected in understanding [[endorhiza-rhizosphere-bulk-soil-microbial-communities]]
 
 ### Decentralized Production
 - Kropotkin's advocacy for decentralized, local production applies to mushroom cultivation
@@ -64,7 +64,7 @@ Prince Peter Kropotkin (1842–1921) was a Russian geographer, zoologist, and an
 - Modern urban mushroom farms embody Kropotkin's vision of integrated local production
 
 ### Composting and Soil Building
-- Kropotkin's documentation of intensive composting by Parisian growers is relevant to mushroom substrate preparation
+- Kropotkin's documentation of intensive composting by Parisian growers is relevant to [[fungicide-treated-seed-hazard-mushroom-substrate-preparation]]
 - Both systems depend on thermophilic decomposition of organic materials
 - The principle of building growing medium rather than using native soil applies to both vegetable and mushroom production
 

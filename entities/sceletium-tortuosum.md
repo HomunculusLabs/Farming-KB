@@ -7,7 +7,7 @@ tags:
   - entheogen
   - succulent
   - south-african
-  - [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]), Northern Cape (Great Karoo), Eastern Cape, and southern Free State. Found on rocky outcrops, quartzite gravel flats, semi-arid renosterveld, and sandy well-drained soils at elevations up to ~1,200 m. Drought-tolerant; winter-rainfall Mediterranean [[kava-traditional-preparation-ceremonial-context]] involves a critical **fermentation process**: fresh leaves/stems are crushed, placed in closed containers, and fermented 5–8 days. This converts precursor alkaloids into the more psychoactive mesembrine-type compounds. The fermented material is sun-dried, then chewed, sniffed as snuff, or smoked. Unfermented material is significantly less potent.
+  - [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]), Northern Cape (Great Karoo), Eastern Cape, and southern Free State. Found on rocky outcrops, quartzite gravel flats, semi-arid renosterveld, and sandy well-drained soils at elevations up to ~1,200 m. Drought-tolerant; winter-rainfall Mediterranean [[kava-traditional-preparation-ceremonial-context]] involves a critical **[[mushroom-compost-fermentation-process]]**: fresh leaves/stems are crushed, placed in closed containers, and fermented 5–8 days. This converts precursor alkaloids into the more psychoactive mesembrine-type compounds. The fermented material is sun-dried, then chewed, sniffed as snuff, or smoked. Unfermented material is significantly less potent.
 
 ### Historical Documentation
 
@@ -28,7 +28,7 @@ tags:
 ## Overview
 
 Sceletium Tortuosum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -49,7 +49,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Sceletium Tortuosum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -57,13 +57,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for sceletium tortuosum. Climate adaptation
+opportunities for sceletium tortuosum. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -78,7 +78,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 sceletium tortuosum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -5,7 +5,7 @@ tags: [biodynamic, steiner, organic-farming, compost-preparations, cosmic-influe
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/tompkins-secret-life-of-plants.md
+  - "raw/papers/tompkins-secret-life-of-plants.md"
 related_concepts:
   - biodynamic-agriculture-and-steiner
   - biodynamic-preparations

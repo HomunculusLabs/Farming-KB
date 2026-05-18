@@ -1,18 +1,18 @@
 ---
-title: "Weed Management and Ecological Weed Control"
-subtitle: "A comprehensive guide to understanding weeds ecologically and managing them without chemicals"
+title: "Fukuoka Weed Management And Green Manure Ecological Weed Control"
+subtitle: "A [[allen-australian-psilocybe-species-comprehensive-guide]] to understanding weeds ecologically and managing them without chemicals"
 tags: [weeds, weed-management, organic-gardening, no-till, permaculture, soil-ecology, natural-farming]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
- - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
- - /Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md
- - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
- - /Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
- - /Users/t3rpz/wiki/raw/papers/gaias-garden-toby-hemenway.md
- - /Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+ - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
+ - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
+ - "raw/papers/gardening-when-it-counts-steve-solomon.md"
+ - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
+ - "raw/papers/gaias-garden-toby-hemenway.md"
+ - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 related_concepts:
  - fukuoka-weed-ecology
  - fukuoka-no-weeding-no-pesticides
@@ -41,7 +41,7 @@ become an endless burden or a manageable part of a healthy farm
 ecosystem. Conventional agriculture treats weeds as enemies to be
 eradicated through herbicides and intensive tillage. Ecological
 approaches, by contrast, seek to understand the roles weeds play in
-soil health, nutrient cycling, and ecosystem recovery, then manage them
+soil health, [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], and ecosystem recovery, then manage them
 through competition, timing, and biological processes rather than
 chemical force.
 
@@ -75,7 +75,7 @@ with disgust as weeds, striving ever since to remove them.
 
 Weeds are ecologically defined as pioneer species, plants adapted
 through millions of years of evolution to quickly colonize disturbed,
-open ground. Toby Hemenway described them as nature's first responders
+open ground. [[toby-hemenway]] described them as nature's first responders
 to bare soil, compaction, and nutrient imbalances. They will
 relentlessly cover bare ground because nature abhors exposed earth.
 Most gardens, with their tilled rows and bare spaces between plants,
@@ -91,7 +91,7 @@ framing leads to fundamentally different and often more effective
 [[mushroom-growing-temperature-and-moisture]] loss through evaporation.
 
 Weeds provide habitat for predatory insects that control crop pests.
-Ladybugs, lacewings, ground beetles, parasitic wasps, and spiders all
+Ladybugs, lacewings, [[ground-beetles-carabidae-and-biological-pest-control]], [[parasitic-wasps-biological-pest-control]], and spiders all
 require diverse plant communities to sustain their populations. A
 weed-free orchard is a pest-vulnerable orchard. Where humus accumulates
 from weed decomposition, earthworms appear, and as earthworm

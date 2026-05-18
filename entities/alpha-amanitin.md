@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mushrooms-poisionous-fungi-by-john-ramsbottom-1945.md
+  - "raw/papers/mushrooms-poisionous-fungi-by-john-ramsbottom-1945.md"
 ---
 
 # alpha-Amanitin

@@ -1,5 +1,5 @@
 ---
-title: Allegro Secret Mushroom Names Korkoron Balag Nomenclature
+title: Allegro Secret Sacred Mushroom Names Cross Cultural Synonyms Korkoron Balag Nomenclature
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

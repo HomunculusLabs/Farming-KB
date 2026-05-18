@@ -30,17 +30,17 @@ Deflocculation is a chemical process in soil science where the aggregate (crumb)
 - **Gypsum application**: Adding gypsum (calcium sulphate) supplies calcium ions that can displace sodium and restore flocculation. This is the standard remediation treatment for sodic soils.
 - **Prevention over cure**: Once deflocculation occurs, remediation is extremely difficult and expensive. Maintaining tree cover and preventing salt mobilisation is far more effective.
 - **[[interceptor-banks]] and careful water management are essential in salt-affected landscapes — concentrated water flow through sodic soils accelerates the process.
-- **Compost and organic matter**: High organic matter content buffers against deflocculation by maintaining soil structure through biological rather than purely chemical bonds.
+- **[[coleman-compost-and-organic-fertility-management]] matter**: High organic matter content buffers against deflocculation by maintaining soil structure through biological rather than purely chemical bonds.
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications, pp. 438–439.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]], pp. 438–439.
 - Whittington, H. WA S.A.L.T. Soil collapse explanation of desertification.
 - USDA Natural Resources Conservation Service. *Soil Quality Indicators: Sodicity*.
 
 ## Overview
 Deflocculation represents an important component within sustainable
-design and ecological management systems. Understanding its role
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Understanding its role
 helps inform better integration strategies for diverse environments.
 The interactions between deflocculation and surrounding ecological
 systems create complex feedback loops that enhance overall resilience.
@@ -48,7 +48,7 @@ systems create complex feedback loops that enhance overall resilience.
 ## Characteristics
 Key characteristics include adaptability to varying environmental
 conditions, integration potential with existing systems, and
-contribution to biodiversity and ecological function.
+contribution to biodiversity and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]].
 Seasonal variations affect performance and management requirements.
 Regional differences necessitate site-specific approaches.
 
@@ -68,7 +68,7 @@ Documentation of observations supports knowledge building.
 The ecological relationships involving deflocculation
 extend across multiple trophic levels and functional groups.
 Soil biology, water cycles, and energy flows are all relevant factors.
-Understanding these connections enables more holistic management.
+Understanding these connections enables more [[savory-holistic-management-overview]].
 
 ## Sustainability Considerations
 Sustainable management practices are important for deflocculation.
@@ -77,7 +77,7 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Deflocculation has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## See Also

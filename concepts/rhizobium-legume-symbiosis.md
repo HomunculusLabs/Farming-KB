@@ -8,11 +8,11 @@ sources: []
 ---
 # Rhizobium-Legume Symbiosis
 
-Rhizobium-legume symbiosis is one of the most important nitrogen-fixing mutualisms in terrestrial ecosystems. The gram-negative bacteria collectively known as rhizobia (genera Azorhizobium, Bradyrhizobium, Mesorhizobium, Allorhizobium, Rhizobium, Sinorhizobium) infect the roots of leguminous plants (family Leguminosae) and form specialized structures called root nodules where atmospheric nitrogen (N2) is converted into ammonia through the action of the enzyme nitrogenase.
+Rhizobium-legume symbiosis is one of the most important nitrogen-fixing mutualisms in terrestrial ecosystems. The gram-negative bacteria collectively known as [[rhizobia]] (genera Azorhizobium, Bradyrhizobium, Mesorhizobium, Allorhizobium, Rhizobium, Sinorhizobium) infect the roots of leguminous plants (family Leguminosae) and form specialized structures called root nodules where atmospheric nitrogen (N2) is converted into ammonia through the action of the [[enzyme]] nitrogenase.
 
 ## Establishment of the Symbiotic Relationship
 
-The establishment of the Rhizobium-legume mutualism proceeds through a series of highly regulated developmental stages. In the presymbiosis stage, a diverse group of rhizobia may inhabit the rhizosphere, but only one or a limited number of species will interact with a given legume. Each species of legume excretes a spectrum of flavonoids, stachydrines and aldenic acids into the rhizosphere, creating a unique biochemical environment that attracts the appropriate rhizobial species.
+The establishment of the Rhizobium-legume mutualism proceeds through a series of highly regulated [[psilocybe-cubensis-developmental-stages]]. In the presymbiosis stage, a diverse group of rhizobia may inhabit the [[rhizosphere]], but only one or a limited number of species will interact with a given legume. Each species of legume excretes a spectrum of flavonoids, stachydrines and aldenic acids into the rhizosphere, creating a unique biochemical environment that attracts the appropriate rhizobial species.
 
 ### Chemical Signaling in the Rhizosphere
 
@@ -38,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

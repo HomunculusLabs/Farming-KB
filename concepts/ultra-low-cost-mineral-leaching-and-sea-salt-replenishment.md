@@ -29,20 +29,20 @@ Taking a macro-view, minerals taken from soil through leaching eventually end
 up in the sea. To date, 83 elements have been found present in sea water. The
 mineral content of sea water is strikingly similar to that of amniotic fluid.
 The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
-with JMS and phyllite solution.
-Sea salt provides a broad spectrum of trace minerals that match the
+with JMS and [[jadam-phyllite-solution]].
+Sea salt provides a broad spectrum of [[dynamic-accumulator-plants-trace-minerals]] that match the
 requirements of plants. JADAM also recommends eating small amounts of sea salt
 for human health, and using JADAM [[maintaining-organic-matter-in-vegetable-gardens]] soil should be abundant, like leaf mold in mountains. If the
 soil is barren, just putting in microorganisms will not secure the nutrients
 needed for plant growth. Certain elements must be present:
-- **Organic nutrients:** Carbon (C), hydrogen (H), oxygen (O) from
+- **[[ectomycorrhizal-enzyme-activity-organic-nutrients]]:** Carbon (C), hydrogen (H), oxygen (O) from
   photosynthesis. These comprise 96% of a plant's dried mass.
 - **Inorganic nutrients:** Nitrogen (N), potassium (K), calcium (Ca),
   phosphorus (P), magnesium (Mg), boron (B), sulfur (S) comprising 3.5%.
-- **Trace elements:** Iron (Fe), manganese (Mn), molybdenum (Mo), copper (Cu),
+- **[[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]:** Iron (Fe), manganese (Mn), molybdenum (Mo), copper (Cu),
   zinc (Zn), cobalt (Co) comprising 0.5%.
 If organic nutrients do not back up the soil, minerals become dysfunctional.
-Organic matter is broken down into [[humus]], which turns soil into aggregate
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] is broken down into [[humus]], which turns soil into aggregate
 structure with good air permeability and water/fertilizer retaining properties.
 ## Phyllite and Loess Powder
 In addition to sea salt, JADAM uses phyllite powder and loess powder as mineral
@@ -74,7 +74,7 @@ even frequent rain cannot wash them away, making soil resistant to erosion.
 - Use sun-dried sea salt (not purified salt) for full mineral spectrum.
 ## The Essential Elements Debate
 JADAM challenges the claim that only eighteen elements are required for plant
-growth. This conclusion was reached by "today's" agricultural science, which
+growth. This conclusion was reached by "today's" [[fukuoka-critique-agricultural-science-laws-liebig]], which
 is always advancing. For humans, the number of essential minerals was sixty
 ten years ago and is now over seventy. As science progresses, more essential
 plant nutrients will be discovered. This is why JADAM advocates providing a

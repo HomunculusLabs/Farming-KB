@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Plants perceive light through specialized photoreceptor proteins, most notably **phytochromes** and **cryptochromes**, which enable them to detect not only the presence of light but its colour, intensity, duration, and direction. This sensory capability underlies critical processes including phototropism (growth toward light), photoperiodism (measurement of day length for flowering), shade avoidance, germination, and circadian rhythms. [[daniel-chamovitz]]'s "What a Plant Knows" explores these sensory capabilities, drawing parallels between plant and animal photoreception.
+Plants perceive light through specialized photoreceptor proteins, most notably **phytochromes** and **cryptochromes**, which enable them to detect not only the presence of light but its colour, intensity, duration, and direction. This sensory capability underlies critical processes including phototropism (growth toward light), photoperiodism (measurement of day length for flowering), [[phototropism-and-shade-avoidance]], germination, and [[plant-circadian-rhythms]]. [[daniel-chamovitz]]'s "What a Plant Knows" explores these [[chamovitz-gradualist-framework-plant-sensory-capabilities]], drawing parallels between plant and animal photoreception.
 
 ## Human vs. Plant Light Perception
 
@@ -26,7 +26,7 @@ Humans perceive light through photoreceptor cells in the retina:
 Plants lack eyes and a brain but possess:
 
 - **Photoreceptor proteins** that absorb specific wavelengths.
-- **Signal transduction pathways** that convert light absorption into biochemical responses.
+- **[[fungal-signal-transduction-pathways-gpcr-two-component-mapk]]** that convert light absorption into biochemical responses.
 - No central processing — responses are direct biochemical cascades.
 
 ## Photoperiodism — Measuring Day Length
@@ -34,14 +34,14 @@ Plants lack eyes and a brain but possess:
 ### The Maryland Mammoth Discovery
 
 - The **Maryland Mammoth** variety of tobacco was discovered to flower only under short days.
-- This led to the concept of **photoperiodism** — plants measuring day/night length to trigger flowering.
+- This led to the concept of **photoperiodism** — plants measuring day/[[photoperiodism-plants-measure-night-length]] to trigger flowering.
 - Discovery meant farmers could manipulate flowering by controlling light exposure.
 
 ### Photoperiodic Categories
 
 | Category | Requirement | Examples |
 |---|---|---|
-| Short-day plants | Flower when days are short | Chrysanthemums, soybeans, Maryland Mammoth tobacco |
+| Short-day plants | Flower when days are short | Chrysanthemums, soybeans, [[garner-allard-maryland-mammoth-tobacco-experiment]] |
 | Long-day plants | Flower when days are long | Irises, barley |
 | Day-neutral plants | Flower regardless of day length | Tomato, rice |
 

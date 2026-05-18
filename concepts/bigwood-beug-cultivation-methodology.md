@@ -5,7 +5,7 @@ tags: [cultivation, psilocybe-cubensis, rye-grain, miniculture, methodology, big
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 type: concept
 ---
 

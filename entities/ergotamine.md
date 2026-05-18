@@ -13,9 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-future-drugs.md
+  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
+  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
+  - "raw/papers/shulgin-a-future-drugs.md"
 ---
 
 # Ergotamine

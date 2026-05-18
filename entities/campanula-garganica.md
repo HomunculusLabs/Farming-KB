@@ -57,7 +57,7 @@ The species thrives in Mediterranean-mountain conditions with hot, dry summers a
 Populations in Sicily tend to grow at slightly higher elevations than those on the Gargano promontory, reflecting cooler and wetter montane conditions. Despite its limited native range, the species shows modest morphological [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is hardy to USDA zones 5–8 and RHS hardiness rating H5 (−10 to −15 °C).
 
 **Growing requirements:**
-- Soil: Well-drained, alkaline to neutral loam or gritty substrate
+- Soil: Well-drained, alkaline to neutral [[loam]] or gritty substrate
 - Light: Full sun to light shade; benefits from afternoon shade in hot climates
 - Water: Moderate during active growth; drought-tolerant once established
 - Propagation: Division in spring or autumn; stem cuttings in late spring; seed sown in autumn

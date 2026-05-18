@@ -5,7 +5,7 @@ tags: [farming, greenhouse, winter-harvest, Eliot-Coleman, cold-house, double-la
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 type: concept
 ---
 

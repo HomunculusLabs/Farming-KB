@@ -5,7 +5,7 @@ tags: [ergot, eleusinian, kykeon, mckenna, classical-studies]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md
+  - "raw/papers/mckenna_t-food_of_the_gods.md"
 type: concept
 ---
 

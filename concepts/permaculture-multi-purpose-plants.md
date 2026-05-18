@@ -117,3 +117,7 @@ When choosing plants for a design, evaluate each candidate against the following
 - [[permaculture-plant-selection-guide]]
 - [[comfrey-plant-guide]]
 - [[bamboo-species-guide]]
+
+## Practical Considerations
+
+Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.

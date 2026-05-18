@@ -1,9 +1,9 @@
 ---
-title: Soil Moisture Monitoring — Irrigation Management Sensors
+title: Soil Moisture Monitoring And Field Capacity — Irrigation Management Sensors
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [irrigation, soil-moisture, sensors, water-management
+tags: [irrigation, soil-moisture, sensors, [[water-management]]
 sources: []
 ---
 # Soil Moisture Monitoring for Irrigation Management
@@ -11,7 +11,7 @@ sources: []
 ## Why Monitor Soil Moisture?
 
 Soil moisture monitoring is a cornerstone of modern irrigation management. Rather than irrigating on a fixed schedule or visual
-estimates, sensors provide real-time data on the water status within the root zone. This allows growers to apply water only when crops
+estimates, sensors provide real-time data on the water status within the [[cervantes-root-zone-heating]]. This allows growers to apply water only when crops
 actually need it, reducing water waste, energy costs, and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Soil Water Content vs. Soil Water Potential

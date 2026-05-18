@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, temperate-forests, boreal-forests, fungal-ecology, biogeography]
 sources:
-  - "/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"
+  - ""raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
 # Fungal Diversity in Temperate and Boreal Forests

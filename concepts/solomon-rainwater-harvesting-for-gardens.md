@@ -5,7 +5,7 @@ tags: [rainwater, water-collection, irrigation, water-storage, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
 ---
 

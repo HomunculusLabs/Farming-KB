@@ -1,5 +1,5 @@
 ---
-title: Soil Physicochemical Properties Microbial Communities
+title: Soil Physicochemical Properties Cannabis Microbiome Assembly Winston Cannabis Rhizosphere Microbial Communities
 slug: soil-physicochemical-properties-microbial-communities
 source: understanding-cultivar-specificity-cannabis-microbiome
 tags: [soil-science, ph, salinity, organic-carbon, microbial-ecology]
@@ -21,14 +21,14 @@ Organic carbon content reflects the amount of decomposed plant and animal materi
 - Enhancing water-holding capacity and [[cation-exchange-capacity]]
 - Supporting higher microbial biomass and diversity
 
-Soils with high organic carbon (5-20% TOC) support larger and more diverse microbial communities than low-carbon soils (<2% TOC). The Cannabis microbiome study found organic carbon values ranging from 3.02% to 20.0% across sampling sites, reflecting this range.
+Soils with high organic carbon (5-20% TOC) support larger and more diverse microbial communities than low-carbon soils (<2% TOC). The [[winston-cannabis-microbiome-study-design]] found organic carbon values ranging from 3.02% to 20.0% across sampling sites, reflecting this range.
 
 ### Total Nitrogen
-Soil [[nitrogen-availability-in-legumes]] affects microbial community composition through several pathways:
+Soil [[nitrogen-availability-in-legumes]] affects microbial [[core-endorhiza-bacterial-community-composition-cannabis]] through several pathways:
 
 - **Ammonium vs. nitrate dominance**: Different microbial groups prefer different nitrogen forms. Ammonia-oxidizing bacteria (AOB) and archaea (AOA) are directly influenced by ammonium availability.
-- **C:N ratio**: The carbon-to-nitrogen ratio of soil organic matter influences whether nitrogen is immobilized (high C:N) or mineralized (low C:N) by microbial activity.
-- **Nitrogen saturation**: Excessive nitrogen inputs from fertilizers can reduce microbial diversity by favoring copiotrophic taxa at the expense of oligotrophs.
+- **C:N ratio**: The carbon-to-nitrogen ratio of [[humus-and-soil-organic-matter]] influences whether nitrogen is immobilized (high C:N) or mineralized (low C:N) by microbial activity.
+- **[[dighton-fungal-greenhouse-gas-nitrogen-saturation]]**: Excessive nitrogen inputs from fertilizers can reduce microbial diversity by favoring copiotrophic taxa at the expense of oligotrophs.
 
 ### Salinity
 Soil salinity (electrical conductivity) affects microbial communities through osmotic stress:

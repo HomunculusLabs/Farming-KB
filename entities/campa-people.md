@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Campa (also known as Asháninka or Asháninca) are an indigenous people of the Peruvian Amazon whose territory lies in proximity to the former Incan empire. They are notable for their distinctive kamdrampi (ayahuasca) ceremony, which exhibits a unique ambivalence between shamanistic séance and priestly ritual. The Campa have been studied by anthropologist [[gerald-weiss]], whose work illuminates the relationship between shamanism and priesthood.
+The Campa (also known as Asháninka or Asháninca) are an indigenous people of the [[ayahuasca-tourism-economics-peruvian-amazon]] whose territory lies in proximity to the former Incan empire. They are notable for their distinctive kamdrampi (ayahuasca) ceremony, which exhibits a unique ambivalence between shamanistic séance and priestly ritual. The Campa have been studied by anthropologist [[gerald-weiss]], whose work illuminates the relationship between [[campa-ayahuasca-shamanism-and-priesthood]].
 
 ## Classification
 
@@ -27,7 +27,7 @@ The Campa inhabit territory in the Peruvian Amazon that is geographically close 
 The Campa kamdrampi ceremony is the centerpiece of their shamanistic religious practice:
 
 ### Key Features
-- The brew is prepared from transplanted ayahuasca vine ([[banisteriopsis-caapi]]) and wild horéva leaves (Psychotria viridis)
+- The brew is prepared from transplanted ayahuasca vine ([[banisteriopsis-caapi]]) and wild horéva leaves ([[chacruna-psychotria-viridis]])
 - The ceremony takes place at nightfall with gender-segregated seating
 - The shaman serves as the central figure, distributing drinks from a gourd bowl
 - Participants remain passive spectators while the shaman communicates with good spirits
@@ -49,7 +49,7 @@ The Campa cosmology features several spirit types:
 - **Kodkiti**: A hawk spirit who brings tobacco from "River's Beginning"
 - **Hummingbird spirits**: Appear as "all our brothers" in groups without blemish
 - The Campa explicitly do not believe in spirit possession — the shaman relays spirit songs but is never possessed
-- Soul-flight is an optional personal experience, not central to the ceremony
+- Soul-flight is an optional [[palmer-mushroom-cooking-and-personal-experience]], not central to the ceremony
 
 ## Cultural Significance
 
@@ -70,7 +70,7 @@ The Campa are significant in anthropological studies because:
 
 ## Relevance to Cultivation and Mycology
 
-The Campa practice of transplanting ayahuasca vines and using Psychotria viridis demonstrates sophisticated ethnobotanical knowledge. Their cultivation of Banisteriopsis caapi near settlements represents one of the documented traditional cultivation practices for this important entheogenic vine. The Campa example is frequently cited in discussions of the origins of religious institutions and the role of psychoactive plants in cultural evolution.
+The Campa practice of transplanting ayahuasca vines and using Psychotria viridis demonstrates sophisticated ethnobotanical knowledge. Their cultivation of [[ayahuasca-and-banisteriopsis-caapi]] near settlements represents one of the documented traditional cultivation practices for this important entheogenic vine. The Campa example is frequently cited in discussions of the origins of religious institutions and the role of psychoactive plants in [[cultural-evolution-and-psychoactive-substances]].
 
 ## References
 

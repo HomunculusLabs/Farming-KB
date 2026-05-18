@@ -16,16 +16,16 @@ until it encounters compatible microbial partners, at which point it commits ene
 fruiting cycle. The interaction between fungal mycelium and casing soil microbes
 represents one of the most significant frontiers in [[mushroom-cultivation]] science.
 
-While the phenomenon is well-documented through decades of commercial Agaricus cultivation
+While the phenomenon is well-documented through decades of commercial [[agaricus-cultivation]]
 practice, the specific microbial species, chemical signals, and molecular mechanisms
-involved remain largely unknown for most cultivated mushrooms. Understanding and managing
+involved remain largely unknown for most [[fungi-cultivated-mushrooms-pathogens-competitors]]. Understanding and managing
 these microbial partnerships may unlock the cultivation of many species that currently
 resist domestication.
 
 # Classification
 
-Category: Cultivation concept and microbial ecology. Domain: Mycology, microbiology,
-mushroom cultivation. Related entities: casing soil, [[dilution-to-extinction]], microbial
+Category: Cultivation concept and [[fukuoka-microbial-ecology-decomposition]]. Domain: Mycology, microbiology,
+[[accessible-mushroom-cultivation-for-disabilities]]. Related entities: casing soil, [[dilution-to-extinction]], microbial
 slurry, pasteurization.
 
 # Key Facts
@@ -33,7 +33,7 @@ slurry, pasteurization.
 Species requiring or benefiting from microbial casing include Agaricus spp. (white button,
 portabella, almond portabella), Lepiota spp. (parasol mushrooms), Stropharia spp. (king
 stropharia), Clitocybe spp. (blewits), and Morchella spp. (morels). Most wood-decomposing
-mushrooms such as shiitake and oyster do not require microbial interactions for fruiting.
+mushrooms such as [[query-difference-between-shiitake-and-oyster-mushrooms]] do not require microbial interactions for fruiting.
 
 The key evidence for microbial triggering is that sterilized casing soils, in which all
 microbes have been destroyed, result in zero Agaricus yields. In contrast, pasteurized
@@ -76,7 +76,7 @@ microbial life needed.
 Pasteurization at 130 to 145 degrees F (54 to 63 degrees C) for 6 to 8 hours preserves
 heat-tolerant beneficial microbes while killing pathogens. This is generally the
 recommended approach. Sterilization destroys all microbes and is only appropriate when the
-cultivator plans to reintroduce a specific known microbial community via a dilution assay.
+cultivator plans to reintroduce a specific known [[cannabis-cultivar-microbial-community-effects]] via a dilution assay.
 
 Casing soils should not contain mycoparasites such as Trichoderma spp. or other pathogens
 that could impede or pose a threat to the mycelium, the mushrooms, or human health.

@@ -2,7 +2,7 @@
 title: Boletus pachypus
 source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
-tags: [fungi, basidiomycota, agaricomycetes, boletales, boletaceae, boletus, edible]
+tags: [fungi, [[basidiomycota]], agaricomycetes, boletales, boletaceae, boletus, edible]
 ---
 
 # Boletus pachypus
@@ -52,7 +52,7 @@ Palmer used this case to illustrate two important principles: that the blueing r
 ## Ecology and Distribution
 
 - Likely mycorrhizal with hardwood trees
-- Found in forested areas of North America
+- Found in forested areas [[huckleberries-and-wild-berries-of-north-america]]
 - Details of habitat preference are poorly documented due to taxonomic ambiguity
 - Season: Late summer to autumn
 
@@ -63,7 +63,7 @@ Palmer used this case to illustrate two important principles: that the blueing r
 - **Taxonomic ambiguity:** The name has been applied to various thick-stemmed boletes by different authors; exact modern correspondence may vary and requires further investigation
 - **Cultural mycology:** Illustrates the significant gap between European mycological tradition and actual American foraging experience
 - **Sensory identification:** The powerful nutty aroma serves as a secondary identification aid beyond morphological features
-- **Cautionary note:** The species' identity remains uncertain; modern foragers should not rely on historical accounts alone for edibility assessment
+- **[[pihkal-cautionary-note-and-legal-context]]:** The species' identity remains uncertain; modern foragers should not rely on historical accounts alone for edibility assessment
 
 ## Key Characteristics
 

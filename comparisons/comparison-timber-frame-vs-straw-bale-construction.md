@@ -1,5 +1,5 @@
 ---
-title: "Timber Frame vs Straw Bale Construction"
+title: "Comparison Timber Frame Vs Cordwood Construction Comparison Earthship Vs Straw Bale Construction"
 tags: [comparison, construction, natural-building, sustainability, off-grid]
 date: 2026-05-12
 updated: 2026-05-12
@@ -10,8 +10,8 @@ sources: []
 
 ## Overview
 
-Timber framing and straw bale construction are two of the most popular
-natural building methods, and they pair together beautifully. Timber
+[[preserving-wood-timber-framing]] and straw bale construction are two of the most popular
+[[query-what-are-the-best-natural-building-methods]], and they pair together beautifully. Timber
 framing creates a structural skeleton of large wooden posts and beams
 joined with wooden pegs, while straw bale construction uses compressed
 agricultural straw bales as wall insulation. Understanding each method
@@ -36,7 +36,7 @@ restricted design flexibility. Infill offers greater freedom for
 openings, multiple stories, and complex rooflines.
 
 Moisture is the primary threat. Bales must stay below 14% moisture
-content. Design strategies include generous roof overhangs, raised
+content. [[cold-climate-design-strategies]] include generous roof overhangs, raised
 foundations with good drainage, breathable plaster finishes, and
 continuous air barriers. When properly protected and plastered, straw
 bale walls achieve a 2-hour fire rating and resist pests effectively.
@@ -61,7 +61,7 @@ bale walls achieve a 2-hour fire rating and resist pests effectively.
 Choose timber framing when your priority is structural permanence and
 architectural beauty. Timber frames make sense for projects that need
 wide open spans — great rooms, barns, workshops — where exposed beams
-add aesthetic value. They are ideal in wet or humid climates where
+add aesthetic value. They are ideal in wet or [[berry-fruit-production-cool-humid-climates]] where
 moisture-sensitive materials like straw would require extraordinary
 protective measures.
 

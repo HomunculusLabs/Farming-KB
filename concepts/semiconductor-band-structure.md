@@ -81,11 +81,11 @@ conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 ## Historical Development
 
-This approach has evolved significantly over time, drawing from both traditional practices and modern scientific understanding. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current science continues to advance the field.
+This approach has evolved significantly over time, drawing from both traditional practices and modern [[fukuoka-fallacies-scientific-understanding]]. Early practitioners developed intuitive methods through careful observation of natural systems. Contemporary research has validated many traditional insights while adding quantitative frameworks for optimization and scaling. The synthesis of historical knowledge with current [[fukuoka-science-continues-rampage]] to advance the field.
 
 ## Environmental Impact
 
-The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader ecosystem resilience. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
+The ecological implications of these practices extend beyond their immediate application. Properly implemented techniques can enhance biodiversity, improve soil health, and contribute to broader [[fungal-rhizosphere-and-ecosystem-resilience]]. Conversely, poorly planned approaches may have unintended consequences. A systems-thinking perspective helps anticipate and mitigate potential negative impacts while maximizing ecological benefits.
 
 ## Economic Considerations
 

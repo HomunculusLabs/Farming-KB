@@ -1,5 +1,5 @@
 ---
-title: "Gypsum vs Rock Phosphate"
+title: "Gypsum Comparison Kelp Meal Fertilizer Vs Rock Phosphate"
 tags: [comparison, soil-amendment, gypsum, rock-phosphate, mineral]
 date: 2026-05-12
 updated: 2026-05-12
@@ -15,7 +15,7 @@ mineral soil amendments in organic and permaculture systems. Both are
 naturally mined, slow-acting, and support long-term soil health, yet they
 serve fundamentally different purposes. Gypsum improves physical soil
 structure and supplies calcium and sulfur, while rock phosphate provides
-slow-release phosphorus essential for root development and flowering.
+slow-release phosphorus essential for [[root-development-and-plant-competition]] flowering.
 
 ## Gypsum
 
@@ -28,7 +28,7 @@ mycorrhizal fungi rather than rapid chemical dissolution. This slow release
 supports stable soil food web development and avoids the boom-bust nutrient
 cycles associated with soluble fertilisers like superphosphate.
 
-Phosphorus availability from rock phosphate is optimised at soil pH 6.0 to
+[[phosphorus-availability]] from rock phosphate is optimised at soil pH 6.0 to
 6.5. On acid soils, the calcined (roasted) form is more effective. In soils
 with high-iron clays, larger initial applications may be needed as some
 phosphorus is initially locked up but slowly releases over time. The mineral
@@ -39,7 +39,7 @@ phosphate through organic acid exudates, strengthening plant-fungal
 relationships. Unlike superphosphate, which can suppress mycorrhizal
 colonisation, rock phosphate actively encourages fungal networks. It can
 also be added to compost piles where fungal decomposition helps pre-dissolve
-the mineral before field application.
+the mineral before [[knf-imo-four-soil-foundation-and-field-application]].
 
 ## Key Differences
 
@@ -50,7 +50,7 @@ the mineral before field application.
 | pH effect | None (does not change pH) | Best available at pH 6.0 to 6.5 |
 | Speed of action | Moderate (weeks to months) | Slow (months to years) |
 | Persistence | Single-season benefit | Multi-year phosphorus release |
-| Key soil problem | Sodicity, clay compaction | Phosphorus deficiency |
+| Key soil problem | Sodicity, clay compaction | [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] |
 | Mycorrhizal impact | Neutral | Strongly positive |
 | Heavy metal risk | Low | Possible cadmium/uranium |
 | Application rate | 1 to 5 t/ha | Based on soil test P levels |
@@ -89,7 +89,7 @@ contamination, as Mollison specifically advises.
 ## Combined Use
 
 Gypsum and rock phosphate can be used together in the same system since they
-address different soil needs. Apply gypsum first to improve soil structure
+address different soil needs. Apply gypsum first to [[query-how-do-fungi-improve-soil-structure]]
 and drainage, which creates better conditions for rock phosphate to release
 phosphorus through biological activity. Good soil structure ensures that
 mycorrhizal fungi can establish networks to access the rock phosphate. Avoid

@@ -9,7 +9,7 @@ tags: [genus, ascomycete, marine, mangrove, wood-decomposer]
 
 ## Description
 
-Lulworthia is a genus of marine ascomycete fungi in the family Lulworthiaceae, primarily found in marine and estuarine environments. Species in this genus are important decomposers of mangrove wood and plant litter in tropical and subtropical coastal ecosystems. They are among the dominant fungal species in mangrove swamp decomposition systems and are notable for their role in long-distance fungal dispersal via ocean currents.
+Lulworthia is a genus of marine ascomycete fungi in the family Lulworthiaceae, primarily found in marine and estuarine environments. Species in this genus are important decomposers of mangrove wood and plant litter in tropical and subtropical [[dighton-fungi-mangrove-coastal-ecosystems]]. They are among the dominant fungal species in mangrove swamp decomposition systems and are notable for their role in long-distance fungal dispersal via ocean currents.
 
 ## Classification
 
@@ -32,8 +32,8 @@ Lulworthia is a genus of marine ascomycete fungi in the family Lulworthiaceae, p
 
 ### In Mangrove Ecosystems
 - Dominant decomposer of mangrove leaf litter, particularly in later stages after initial oomycete (Halophytophthora) colonization
-- Contributes to the breakdown of more recalcitrant organic compounds in mangrove leaves
-- Part of the fungal community responsible for converting mangrove detritus to dissolved organic carbon (DOC)
+- Contributes to the breakdown of more recalcitrant [[chamovitz-plant-scent-communication-volatile-organic-compounds]] in mangrove leaves
+- Part of the fungal community responsible for converting mangrove detritus to [[dighton-fungal-dissolved-organic-carbon-production]] (DOC)
 - Supports the detrital food web that sustains diverse populations of bacteria, fauna, and other microorganisms
 
 ### Dispersal Ecology
@@ -52,9 +52,9 @@ Lulworthia is a genus of marine ascomycete fungi in the family Lulworthiaceae, p
 ## Relevance to Cultivation and Mycology
 
 - Lulworthia species are not cultivated commercially but are important for understanding marine [[fungal-ecology]]
-- Their dominance in mangrove leaf decomposition makes them potential candidates for bioaugmentation in mangrove restoration
+- Their dominance in mangrove leaf decomposition makes them potential candidates for bioaugmentation in [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 - The genus illustrates how specialized fungal communities adapt to high-salinity environments
-- Understanding Lulworthia dispersal mechanisms has implications for predicting fungal community responses to climate-driven changes in ocean currents
+- Understanding Lulworthia [[fungal-spore-biology-and-dispersal-mechanisms]] has implications for predicting fungal community responses to climate-driven changes in ocean currents
 - Marine ascomycete enzyme systems adapted to saline conditions could have industrial applications
 
 ## Key References
@@ -62,7 +62,7 @@ Lulworthia is a genus of marine ascomycete fungi in the family Lulworthiaceae, p
 - Kohlmeyer and Kohlmeyer (1979) — Marine fungi taxonomy, ecology, and dispersal
 - Newell and Fell (1992) — Fungal biomass in decomposing mangrove leaves
 - Hyde et al. (1998) — Marine [[fungal-taxonomy]] and ecology
-- Hyde and Lee (1995) — Mangrove fungal nutrient cycling
+- Hyde and Lee (1995) — Mangrove [[fungal-nutrient-cycling-forests]]
 - Newell (1996) — Marine decomposer strategies
 
 ## Marine Fungal Diversity Context

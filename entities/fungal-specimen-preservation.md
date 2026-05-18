@@ -1,18 +1,18 @@
 ---
-title: Fungal Specimen Preservation (Herbarium Methods)
+title: Fungal Specimen Preservation Herbarium (Herbarium Methods)
 source: unknown-biodiversity-of-fungi.md
 type: entity
 ---
 
 ## Description
 
-Fungal specimen preservation encompasses the methods and protocols for collecting, drying, storing, and maintaining fungal specimens in herbaria for scientific study. Proper preservation is essential for documenting fungal biodiversity, supporting taxonomic research, and providing voucher specimens for ecological, morphological, phylogenetic, and molecular studies.
+Fungal specimen preservation encompasses the methods and protocols for collecting, drying, storing, and maintaining fungal specimens in herbaria for [[roger-heim-scientific-study-psilocybin]]. Proper preservation is essential for documenting fungal biodiversity, supporting taxonomic research, and providing voucher specimens for ecological, morphological, phylogenetic, and molecular studies.
 
 ## Classification
 
 - **Domain**: Mycological technique
-- **Category**: Specimen management / Herbarium science
-- **Applications**: Taxonomy, phylogenetics, biodiversity inventory, molecular studies
+- **Category**: [[biodiversity-of-fungi-database-specimen-management]] / Herbarium science
+- **Applications**: Taxonomy, phylogenetics, [[fungal-biodiversity-inventory]], molecular studies
 - **Primary method**: Warm-air drying (40–50°C)
 
 ## Key Facts
@@ -105,7 +105,7 @@ Herbaria selectively accept specimens based on six criteria:
 
 ## Relevance to Cultivation and Mycology
 
-Proper specimen preservation is essential for documenting cultivated species, verifying identities of production strains, and maintaining reference collections. Cultivators who collect wild specimens for identification or breeding programs must follow correct drying protocols to ensure specimens remain useful for scientific study and molecular analysis. The emphasis on warm-air drying (avoiding chemical fixation) is particularly relevant for cultivators seeking to preserve specimens for future DNA analysis, which is increasingly important for strain identification and patent documentation.
+Proper specimen preservation is essential for documenting cultivated species, verifying identities of production strains, and maintaining reference collections. Cultivators who collect wild specimens for identification or breeding programs must follow correct drying protocols to ensure specimens remain useful for scientific study and [[molecular-analysis-nematode-trapping-fungi-cytoskeleton]]. The emphasis on warm-air drying (avoiding chemical fixation) is particularly relevant for cultivators seeking to preserve specimens for future DNA analysis, which is increasingly important for [[stamets-mycelium-iconic-types-strain-identification]] and patent documentation.
 
 ## See Also
 

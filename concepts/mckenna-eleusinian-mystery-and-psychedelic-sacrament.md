@@ -22,15 +22,15 @@ type: concept
 
 The [[terence-mckenna]] argues in *Food of the
 Gods*, these mysteries likely involved the consumption of a psychoactive sacrament, making them one of the
-longest-running psychedelic ceremonies in Western history and a crucial link between prehistoric mushroom
+longest-running psychedelic ceremonies in Western history and a crucial link between [[archaeology-of-ecstasy-prehistoric-mushroom-use]]
 cults and classical civilization.
 
 ## Historical Context and Duration
 
 The Mysteries at Eleusis were open to all free Greek speakers who had not committed murder, including women
-and slaves, a remarkably inclusive policy for the ancient world. Initiation was a multi-stage process
+and slaves, a remarkably inclusive policy for [[allegro-plants-and-drugs-in-the-ancient-world]]. Initiation was a multi-stage process
 involving the Lesser Mysteries in spring at Agrae and the Greater Mysteries in autumn at Eleusis. The cult
-centered on the myth of Demeter and Persephone: Demeter, goddess of agriculture, searches for her daughter
+centered on the myth of [[demeter-and-persephone-in-eleusinian-mythology]]: Demeter, goddess of agriculture, searches for her daughter
 Persephone, who has been abducted by Hades to the underworld. The story of death, descent, and rebirth
 paralleled the agricultural cycle of planting, dormancy, and harvest, and mirrored the initiatory journey of
 the candidate.
@@ -66,16 +66,16 @@ and the barley component provides the most plausible vehicle for an ergot prepar
 
 ## The Wasson-Hofmann-Ruck Hypothesis
 
-[[albert-hofmann]], the Swiss chemist who discovered LSD in 1943, identified psychoactive ergoline alkaloids in
+[[albert-hofmann]], the Swiss chemist who discovered LSD in 1943, identified psychoactive [[morning-glory-ergoline-alkaloids-chemistry]] in
 the sclerotia of a specific ergot fungus ([[claviceps-paspali]]) that grows on wild grasses in the Mediterranean
 region. This finding was crucial because it demonstrated that a naturally occurring ergot species in the Greek
 environment contained compounds capable of producing psychedelic effects. The combination of Wasson's
 ethnobotanical expertise, Hofmann's chemical knowledge, and Ruck's classical scholarship made a compelling
 interdisciplinary case.
 
-They noted that the Homeric Hymn to Demeter describes Demeter herself preparing and consuming a kykeon,
+They noted that [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] to Demeter describes Demeter herself preparing and consuming a kykeon,
 suggesting that the sacred drink had divine sanction and that its preparation was part of the sacred knowledge
-guarded by the priestly families. McKenna extends this argument by placing the Eleusinian Mysteries within his
+guarded by the priestly families. McKenna extends this argument by placing [[plutarch-and-cicero-on-the-eleusinian-mysteries]] within his
 broader framework of human-plant symbiosis, viewing the Mysteries as a direct institutional descendant of the
 earlier mushroom-using cultures of the Neolithic and Paleolithic periods. The shift from mushroom use to ergot
 use represented an adaptation to the grain-based agricultural economy that replaced the nomadic pastoral

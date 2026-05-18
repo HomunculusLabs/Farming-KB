@@ -9,7 +9,7 @@ type: entity
 ## Description
 
 Stone mulch uses rocks placed around plants to condense atmospheric moisture,
-suppress weeds, reduce wind, anchor roots, and moderate temperature. Wherever
+[[query-how-do-cover-crops-suppress-weeds]], reduce wind, anchor roots, and moderate temperature. Wherever
 stone is plentiful, it provides one of the most effective low-cost establishment
 methods for arid conditions. The ground below stone piles is always damp.
 
@@ -67,7 +67,7 @@ Creates a micro-ecosystem supporting plant nutrition alongside water harvesting.
 - Can be relocated as needed
 - Ground below always damp
 - Invertebrate habitat adds nutrients
-- Compatible with all other irrigation methods
+- Compatible with all other [[sprinkler-irrigation-methods]]
 - Effective wherever stone is plentiful
 
 ## Relevance to Cultivation
@@ -79,7 +79,7 @@ Foundational desert [[mollison-designers-mulch-pit-interplanting-technique]]
 ## Overview
 
 Stone Mulch represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -108,13 +108,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for stone mulch. Climate adaptation
+opportunities for stone mulch. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 stone mulch and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

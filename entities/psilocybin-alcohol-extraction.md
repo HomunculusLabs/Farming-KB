@@ -1,12 +1,12 @@
 ---
-title: Psilocybin Alcohol Extraction
+title: Psilocybin Ethyl Alcohol Extraction
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: entity
 ---
 
 ## Description
 
-Psilocybin alcohol extraction is a technique described in the [[pf-tek]] for concentrating the psychoactive compounds (primarily psilocybin) from dried *Psilocybe cubensis* mushrooms into a potent alcohol-based tincture or "magic mushroom liqueur." The method uses pure 200-proof (anhydrous) ethyl alcohol to extract psilocybin from pulverized dried mushrooms, followed by evaporation to achieve the desired concentration. The entire process uses only mushrooms and food-grade alcohol.
+Psilocybin alcohol extraction is a technique described in the [[pf-tek]] for concentrating the psychoactive compounds (primarily psilocybin) from dried *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* mushrooms into a potent alcohol-based tincture or "magic mushroom liqueur." The method uses pure 200-proof (anhydrous) ethyl alcohol to extract psilocybin from pulverized dried mushrooms, followed by evaporation to achieve the desired concentration. The entire process uses only mushrooms and food-grade alcohol.
 
 ## Classification
 
@@ -18,10 +18,10 @@ Psilocybin alcohol extraction is a technique described in the [[pf-tek]] for con
 
 ## Key Facts
 
-- The extraction uses pure 200-proof anhydrous ethyl alcohol as the solvent — chosen because it contains no water, which is important for evaporation concentration.
+- The extraction uses pure 200-proof anhydrous ethyl alcohol as the solvent — chosen because it contains no water, which is important for [[pf-tek-evaporation-concentration-extraction]].
 - 190-proof alcohol (95% ethyl, 5% water) is acceptable but the 5% residual water is a "negative, especially when evaporated down."
 - Mushrooms must be thoroughly dried (rock hard) before extraction to allow proper pulverization.
-- The recommended starting material is at least several grams of dried mushrooms to make the process "worthwhile and effective."
+- The recommended [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] is at least several grams of dried mushrooms to make the process "worthwhile and effective."
 - Only pre-sporulation mushrooms (harvested before or just as caps open, cool-dried with desiccant) should be used for maximum psilocybin content.
 
 ## Extraction Procedure
@@ -82,11 +82,11 @@ The alcohol extraction technique is significant for several reasons:
 - **Preservation:** Alcohol tinctures may have longer shelf life than dried mushrooms when stored properly.
 - **Consumption:** Liquid form allows for more controlled and rapid onset compared to eating dried mushrooms.
 - **Research connection:** The technique is referenced alongside Jochen Gartz's research on tryptamine techniques, suggesting scientific interest in extraction methods.
-- **Potency maximization:** When combined with the PF TEK's emphasis on harvesting young specimens and cool drying, the extraction captures the maximum possible alkaloid content.
+- **[[cannabis-potency-maximization]]:** When combined with the PF TEK's emphasis on harvesting young specimens and cool drying, the extraction captures the maximum possible alkaloid content.
 
 ## References
 
-- PF TEK booklet by Psylocybe Fanaticus (1996), Pages 26–28
+- PF TEK booklet by [[psylocybe-fanaticus]] (1996), Pages 26–28
 - Jochen Gartz tryptamine technique (referenced in PF TEK)
 
 ## See Also

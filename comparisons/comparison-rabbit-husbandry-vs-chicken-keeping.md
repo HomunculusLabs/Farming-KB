@@ -1,5 +1,5 @@
 ---
-title: "comparison rabbit husbandry vs chicken keeping vs comparison-chicken-keeping-vs-beekeeping-basics"
+title: "comparison Comparison Duck Keeping Vs Rabbit Husbandry vs Comparison Chicken Keeping Vs Beekeeping Basics comparison-chicken-keeping-vs-beekeeping-basics"
 created: 2026-04-28
 tags: [comparison, livestock, homesteading, meat-production]
 date: 2026-04-25
@@ -31,13 +31,13 @@ designs range from simple DIY structures to prefabricated units, and the deep
 litter method reduces cleaning frequency while generating compost. Chicken
 tractors add mobility, allowing birds to fertilize specific garden areas while
 remaining protected from predators. Chickens integrate naturally into
-permaculture Zone 2, cycling nutrients between garden, compost pile, and flock.
+[[permaculture-zone-0-house-design]] 2, cycling nutrients between garden, compost pile, and flock.
 The knowledge base is enormous — breed selection, feeding, health management,
 and housing are all well-documented with decades of community experience.
 
 The challenges are familiar to any poultry keeper. Predator pressure is
 relentless: raccoons, hawks, foxes, weasels, owls, and dogs all target
-chickens, requiring secure housing and vigilance. Egg production declines after
+chickens, requiring secure housing and vigilance. [[pastured-egg-production]] declines after
 the first year and annual molts cause six to twelve week laying pauses. Health
 management includes monitoring for mites, lice, respiratory infections, egg
 binding, and bumblefoot. Roosters (needed for flock reproduction) add noise
@@ -54,7 +54,7 @@ expense, though supplementary foraging and food waste diversion reduce the bill.
 | Reproduction rate | 4-6 litters/year, 6-12 kits per litter | ~300 eggs/year per hen; 21-day incubation |
 | Time to harvest | 8-12 weeks | 12-20 weeks (meat breeds); hens kept for years (eggs) |
 | Noise | Very quiet | Moderate (hens vocal, roosters loud) |
-| Climate sensitivity | Heat-sensitive (85°F+ dangerous); cold-tolerant | Moderate (frostbite on combs); moderate cold tolerance |
+| Climate sensitivity | Heat-sensitive (85°F+ dangerous); cold-tolerant | Moderate (frostbite on combs); moderate [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] |
 | Manure | Cold manure — apply directly to garden | Hot manure — requires composting |
 | Secondary products | Pelts, Angora wool | Feathers, compost |
 | Processing difficulty | Moderate (dispatch and dressing skill needed) | Low (eggs require no processing) |
@@ -83,7 +83,7 @@ requirements (rabbits need dry, well-ventilated hutches; chickens need secure
 coops with roosts and nesting boxes) and should be housed separately to prevent
 disease transmission. A typical homestead setup places chickens in Zone 2 near
 the garden and compost area, with rabbits in a nearby but separate structure.
-The combined manure stream — rabbit manure applied directly and chicken manure
+The combined manure stream — rabbit manure applied directly and [[chicken-manure]]
 composted — provides balanced fertility for [[homesteading-livestock-comparison]]
 - chicken-integration-permaculture-guide
 - [[rabbit-husbandry]]

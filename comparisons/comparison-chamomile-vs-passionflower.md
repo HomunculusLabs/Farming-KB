@@ -12,7 +12,7 @@ sources: []
 
 Chamomile and passionflower are two of the most widely used calming herbs in
 Western herbalism, yet they differ profoundly in their plant form, potency,
-cultivation requirements, and best applications. Chamomile is a gentle,
+[[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]], and best applications. Chamomile is a gentle,
 approachable herb suitable for daily use -- a cup of chamomile tea is one of
 the most universal self-care rituals worldwide. Passionflower is a more
 powerful sedative and anxiolytic, traditionally reserved for situations
@@ -24,7 +24,7 @@ foundational skill for any home herbalist.
 
 [[passionflower-growing-guide]]
 
-Passionflower (Passiflora incarnata) is a vigorous perennial vine native to
+Passionflower ([[passiflora-incarnata]]) is a vigorous perennial vine native to
 the southeastern United States, hardy in USDA zones 5-9. Unlike chamomile's
 gentle touch, passionflower produces a more pronounced sedative effect. Its
 leaves and flowers contain a complex mix of flavonoids (chrysin, apigenin,
@@ -55,11 +55,11 @@ root readily in early summer.
 | Plant form | Small annual herb | Large perennial vine |
 | Space needed | Minimal (6-12 in spacing) | Significant (trellis, 3-5 ft apart) |
 | Sedative strength | Mild, gentle | Moderate to strong |
-| Primary compounds | Apigenin, bisabolol, chamazulene | Chrysin, vitexin, harmala alkaloids |
+| Primary compounds | Apigenin, bisabolol, chamazulene | Chrysin, vitexin, [[harmala-alkaloids]] |
 | Best for | Daily relaxation, digestion | Insomnia, anxiety, muscle tension |
-| Safety profile | Very safe, child-friendly | Avoid in pregnancy, drug interactions |
+| [[blesching-cannabis-safety-profile]] | Very safe, child-friendly | Avoid in pregnancy, [[ayahuasca-drug-interactions]] |
 | Cultivation ease | Very easy, self-seeds | Moderate, needs structure |
-| Harvest window | Flowers only | Leaves, flowers, and fruit |
+| [[harvest-window-cannabis]] | Flowers only | Leaves, flowers, and fruit |
 | USDA zones | Annual in most zones | Perennial in zones 5-9 |
 
 ## When to Choose Chamomile

@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
 # Trichoderma koningii

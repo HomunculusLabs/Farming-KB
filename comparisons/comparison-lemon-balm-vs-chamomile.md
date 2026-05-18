@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Lemon balm (Melissa officinalis) and chamomile (Matricaria chamomilla /
+Lemon balm ([[melissa-officinalis]]) and chamomile ([[matricaria-chamomilla]] /
 Chamaemelum nobile) are two of the most beloved calming herbs in Western
 herbalism. Both have been used for millennia to ease anxiety, promote sleep,
 and soothe digestion. Yet they differ significantly in plant family, growing
@@ -40,20 +40,20 @@ made them a staple of tea blends worldwide.
 
 [[chamomile-cultivation-and-uses]]
 
-Chamomile's therapeutic profile centers on apigenin, a flavonoid that binds
+Chamomile's [[cannabidiol-cbd-therapeutic-profile-blesching]] centers on apigenin, a flavonoid that binds
 to benzodiazepine receptors in the brain, producing genuine anxiolytic and
 sedative effects. This mechanism is well-documented in clinical literature,
 making chamomile one of the most scientifically validated sleep aids in
 the herbal repertoire. Bisabolol and chamazulene add potent anti-
-inflammatory and antimicrobial properties.
+inflammatory and [[medicinal-mushroom-antimicrobial-properties]].
 
 German chamomile (Matricaria chamomilla) is the variety most commonly used
 medicinally. It produces abundant flower heads that are harvested at full
 bloom and dried for tea, tincture, and essential oil production. Roman
 chamomile (Chamaemelum nobile) yields similar but less potent medicinal
 constituents; it is more often used as a ground cover, in lawns, or for
-aromatherapy. Both species attract beneficial insects and serve as
-excellent companion plants in vegetable gardens.
+aromatherapy. Both species attract [[beneficial-insects-and-biological-pest-control]] serve as
+excellent companion plants [[maintaining-organic-matter-in-vegetable-gardens]].
 
 Culturally, chamomile carries deep historical significance. Ancient
 Egyptians dedicated it to the sun god Ra, Greek physicians prescribed it

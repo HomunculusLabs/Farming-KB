@@ -5,7 +5,7 @@ tags: [contamination, bacteria, sterile-technique, prevention, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
+  - '"raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
 type: concept
 ---
 

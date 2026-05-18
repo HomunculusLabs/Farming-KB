@@ -15,14 +15,14 @@ Anaerobic comfrey tea is a traditional liquid plant fertilizer made by fermentin
 
 - **Category**: Plant-based liquid fertilizer
 - **Type**: Anaerobic [[fermented-plant-extract]]
-- **Primary plant**: Comfrey (Symphytum officinale, Symphytum x uplandicum)
+- **Primary plant**: Comfrey ([[comfrey-symphytum-officinale]], Symphytum x uplandicum)
 - **Process**: Anaerobic fermentation (steeping without aeration)
 
 ## Key Facts
 
 - **Nutrient profile**: Comfrey leaves are exceptionally rich in potassium (K), with significant nitrogen (N) and phosphorus (P), plus trace minerals
 - **Deep roots**: Comfrey's deep taproot (up to 3 meters) mines nutrients from subsoil that are unavailable to shallow-rooted plants
-- **Traditional use**: One of the oldest liquid fertilizer preparations in organic gardening and farming
+- **Traditional use**: One of the oldest liquid fertilizer preparations [[hamilton-kelp-and-seaweed-in-organic-gardening]] and farming
 - **Anaerobic process**: Unlike AACT, comfrey tea is made by steeping leaves in water for 2-6 weeks without aeration
 - **Odor**: Produces a strong, unpleasant smell during fermentation due to anaerobic decomposition
 
@@ -51,7 +51,7 @@ Anaerobic comfrey tea is a traditional liquid plant fertilizer made by fermentin
 
 ## Nutrient Content
 
-Comfrey is known as a dynamic accumulator, concentrating nutrients from deep soil layers:
+Comfrey is known as a [[comparison-hyperaccumulator-vs-dynamic-accumulator]], concentrating nutrients from deep soil layers:
 
 - **Potassium (K)**: Exceptionally high - comfrey is one of the richest plant sources
 - **Nitrogen (N)**: Moderate to high from protein-rich leaves
@@ -71,14 +71,14 @@ Comfrey is known as a dynamic accumulator, concentrating nutrients from deep soi
 
 ### Limitations (Ingham's Perspective)
 - **No biology**: Lacks the diverse beneficial microbial community of AACT
-- **Anaerobic organisms**: May contain anaerobic organisms that are harmful to plants
+- **[[ingham-anaerobic-organisms-role-soil]]**: May contain anaerobic organisms that are harmful to plants
 - **Nutrient only**: Provides nutrition without the disease-suppression benefits of aerobic biology
 - **Phytotoxicity risk**: Undiluted tea can burn plant foliage
 - **Pathogen potential**: Anaerobic conditions during fermentation may produce alcohols and organic acids harmful to plant roots
 
 ### Integration Strategy
 Ingham suggests that comfrey tea can complement AACT programs but should not replace them:
-1. **Use AACT** for biological benefits and disease suppression
+1. **Use AACT** for biological benefits [[compost-tea-application-and-disease-suppression]]
 2. **Use comfrey tea** as a supplemental nutrient source when potassium is needed
 3. **Avoid anaerobic teas** when beneficial organism establishment is the primary goal
 4. **Consider aerated comfrey extract** as an alternative that provides both nutrients and biology
@@ -92,7 +92,7 @@ Ingham warns that anaerobic comfrey tea, like all anaerobic preparations, may ha
 
 ## References
 
-- Elaine Ingham, PhD - The Field Guide I for Actively Aerated Compost Tea
+- Elaine Ingham, PhD - The Field Guide I for [[actively-aerated-compost-tea-basics]] Tea
 
 ## See Also
 

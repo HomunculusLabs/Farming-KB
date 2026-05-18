@@ -5,7 +5,7 @@ tags: [pf-tek, contamination, troubleshooting, sterile-technique, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
+  - '"raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
 type: concept
 ---
 # [[pf-tek-steam-sterilization-pot-method-common-pottery]] time and repeat

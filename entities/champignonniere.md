@@ -22,7 +22,7 @@ The Parisian champignonnières produced approximately 3–5 million kilograms of
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
-- Relates to fundamental principles of natural system design
+- Relates to fundamental [[four-principles-of-natural-farming]] system design
 - Has applications across multiple disciplines and contexts
 - Understanding this topic supports better environmental stewardship
 
@@ -46,7 +46,7 @@ The Parisian champignonnières produced approximately 3–5 million kilograms of
 
 ## Practical Applications
 - Applied in [[permaculture-design]] and sustainable land management
-- Used in conservation and ecological restoration projects
+- Used in conservation and [[mycorrhizal-fungi-ecological-restoration]] projects
 - Informs decision-making in agricultural and horticultural systems
 - Supports development of regenerative practices
 
@@ -61,7 +61,7 @@ The Parisian champignonnières produced approximately 3–5 million kilograms of
 ## Overview
 
 Champignonniere represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -82,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Champignonniere finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -90,7 +90,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -111,7 +111,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 champignonniere and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

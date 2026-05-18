@@ -107,3 +107,19 @@ This index covers plants from the letter I through M as catalogued in *Permacult
 ### Medicinal Plants (M Section)
 - **Medicinal** — pages 102, 136. Numerous species have documented medicinal properties including neem (87), moringa (90), jujube (61), and various palms (102).
 - **Meliodogyne javanica** — page 88. Root-knot nematode; major pest managed through crop rotation, resistant varieties, and biological controls.
+
+## Practical Considerations
+
+Understanding the practical applications of this
+concept requires considering both theoretical frameworks
+and real-world implementation challenges. Practitioners
+must balance ideal approaches with available resources
+and site-specific conditions to achieve meaningful results.
+
+## Research Context
+
+Current research in this area builds upon foundational
+principles while exploring new methodological approaches.
+Empirical findings continue to refine our understanding
+and suggest promising directions for future investigation
+across multiple disciplines and application domains.

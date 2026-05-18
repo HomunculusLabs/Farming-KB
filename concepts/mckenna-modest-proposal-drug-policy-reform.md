@@ -1,5 +1,5 @@
 ---
-title: Mckenna Modest Proposal Drug Policy Reform
+title: Mckenna Modest Proposal Magic Mushroom Prohibition And Uk Drug Policy Reform
 created: 2026-04-28
 tags: [drug-policy, legalization, McKenna, food-of-the-gods, prohibition, reform, psychedelics]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # A Modest Proposal for Drug Policy Reform
 
-In the closing chapters of Food of the Gods, McKenna moves from historical analysis to political prescription. His nine-point proposal for drug policy reform represents his most concrete attempt to translate the [[dmt-containing-plants-united-states-halpern]], the federal government's zeal to appear to wish to eradicate drugs is directly linked to the degree to which the government has been co-opted by the values of shamanism that heralds the abandonment of the monkey body and tribal group that has always been our context. The age of the imagination is dawning.
+In the closing chapters of Food of the Gods, McKenna moves from historical analysis to political prescription. His nine-point proposal for drug policy reform represents his most concrete attempt to translate the [[dmt-containing-plants-united-states-halpern]], the federal government's zeal to appear to wish to eradicate drugs is directly linked to the degree to which the government has been co-opted by the values of [[shamanism]] that heralds the abandonment of the monkey body and tribal group that has always been our context. The age of the imagination is dawning.
 
 The shamanic plants and the worlds that they reveal are the worlds from which we imagine that we came long ago, worlds of light and power and beauty that lie behind the eschatological visions of all the world's great religions. We can claim this prodigal legacy only as quickly as we can remake our language and ourselves.
 

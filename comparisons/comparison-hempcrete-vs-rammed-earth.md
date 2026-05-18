@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Hempcrete and rammed earth are two leading natural building materials that
+Hempcrete and rammed earth are two leading natural [[gadd-fungal-biodegradation-concrete-building-materials]] that
 appeal to sustainable builders for different reasons. Hempcrete is a
 lightweight, carbon-negative biocomposite of hemp hurd and lime binder,
 used primarily as insulation and infill around a structural frame. Rammed
@@ -61,13 +61,13 @@ buildings last for centuries.
 
 ## When to Choose Hempcrete
 
-Hempcrete excels in cold and temperate climates where insulation is the
+Hempcrete excels in cold and [[fukuoka-natural-farming-temperate-climates]] where insulation is the
 priority. Its low thermal conductivity keeps interiors warm in winter and
 prevents overheating in summer. The material is ideal for renovations and
 retrofits — hempcrete can be applied to the interior or exterior of
-existing walls to improve insulation and moisture management.
+existing walls to improve insulation and [[mushroom-bed-moisture-management]].
 
-Projects that prioritise carbon sequestration should lean toward hempcrete.
+Projects that prioritise [[exotic-plantations-soil-aggregates-and-carbon-sequestration]] should lean toward hempcrete.
 Every cubic metre of hempcrete wall locks away roughly 30-40 kg of CO₂,
 making it one of the most climate-positive building choices available.
 It is also well-suited for people with chemical sensitivities, as the
@@ -75,7 +75,7 @@ material contains no synthetic components and naturally regulates indoor
 humidity between 40-60%, inhibiting mold growth.
 
 Hempcrete requires a separate structural system — typically a timber frame
-— so it suits projects where timber framing is already planned. The material
+— so it suits projects where [[preserving-wood-timber-framing]] is already planned. The material
 is relatively forgiving to work with; mixing and placing hempcrete is less
 technically demanding than rammed earth, though curing time is longer and
 the building must be protected from rain during the weeks-long drying period.
@@ -97,7 +97,7 @@ methods for rural and off-grid construction.
 Rammed earth suits projects where aesthetics matter. The exposed natural
 strata and warm earth tones create walls of striking beauty that need no
 plaster or paint. For permaculture-designed buildings where walls are
-integrated with passive solar strategies, earth-sheltered design, or
+integrated with [[comparison-passive-solar-vs-earth-sheltered]] strategies, earth-sheltered design, or
 [[hempcrete-and-hemp-lime-construction]]
 - [[comparison-cob-vs-hempcrete]]
 - [[natural-building-materials-guide]]

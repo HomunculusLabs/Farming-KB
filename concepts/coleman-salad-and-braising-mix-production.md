@@ -1,5 +1,5 @@
 ---
-title: Coleman Salad And Braising Mix Production
+title: Coleman Salad Mix Quality Standards And Braising Mix Production
 created: 2026-04-28
 tags:
   - winter-crops
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 type: concept
 ---
 
@@ -37,7 +37,7 @@ three inches in length. Leaves should easily fit onto a fork and into
 the mouth. Overgrown leaves (such as mizuna with seven- to
 eight-inch stems) are better suited to a braising mix or sold bunched
 as cooking greens. The farm does not chop mature plants into small
-pieces like the cut-up endive and radicchio seen in supermarket mixes.
+pieces like the cut-up [[query-how-do-i-grow-endive-and-radicchio-in-my-garden]] seen in supermarket mixes.
 
 ## Specific Ingredient Choices
 
@@ -63,7 +63,7 @@ hardy but requires more study of its soil-fertility needs and planting
 timing.
 
 Despite preferring a consistent mix with the same percentage of each
-leaf type, extreme weather, poor germination, or quality issues can
+leaf type, [[windbreak-effects-on-soil-moisture-and-extreme-weather]], poor germination, or quality issues can
 force modifications. The most extreme variations were mixes that were
 50 percent claytonia and 50 percent baby spinach. The key is
 maintaining high quality even when consistency slips temporarily.
@@ -88,7 +88,7 @@ sold as an Asian salad/braising mix.
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -99,7 +99,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -107,7 +107,7 @@ to inform current best practices and research directions.
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
+these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 

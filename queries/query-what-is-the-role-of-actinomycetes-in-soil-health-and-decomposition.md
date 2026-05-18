@@ -23,7 +23,7 @@ created: 2026-04-28
 
 ## Short Answer
 
-Actinomycetes are filamentous bacteria that serve as the **primary decomposers of tough, recalcitrant organic matter** in soil. They break down cellulose, hemicellulose, chitin, and even lignin—materials that many other soil organisms cannot process. Beyond decomposition, actinomycetes produce antibiotics that suppress plant pathogens, fix nitrogen (via *Frankia* species in root nodules), solubilize phosphorus, and produce plant growth hormones. They are responsible for the characteristic "earthy" smell of healthy soil (geosmin). In composting, they dominate the thermophilic phase and the curing stage, converting raw organic waste into stable humus. A soil rich in actinomycetes is generally a soil that is biologically active, disease-suppressive, and fertile.
+Actinomycetes are filamentous bacteria that serve as the **primary decomposers of tough, recalcitrant organic matter** in soil. They break down cellulose, hemicellulose, chitin, and even lignin—materials that many other soil organisms cannot process. Beyond decomposition, actinomycetes produce antibiotics that suppress plant pathogens, fix nitrogen (via *Frankia* species in root nodules), solubilize phosphorus, and produce [[gibberellins-plant-growth-hormones]]. They are responsible for the characteristic "earthy" smell of healthy soil (geosmin). In composting, they dominate the thermophilic phase and the curing stage, converting raw organic waste into stable humus. A soil rich in actinomycetes is generally a soil that is biologically active, disease-suppressive, and fertile.
 
 ## What Exactly Are Actinomycetes?
 
@@ -50,20 +50,20 @@ While fungi and fast-growing bacteria break down fresh organic matter (sugars, p
 
 ### Enzymes They Produce
 
-| Enzyme | Target Substrate | Ecological Significance |
+| Enzyme | Target Substrate | [[lichen-biology-and-ecological-significance]] |
 |--------|-----------------|------------------------|
 | Cellulases | Cellulose (plant cell walls) | Releases glucose from the most abundant organic polymer on Earth |
 | Xylanases | Hemicellulose (xylan) | Degrades the second most abundant plant polymer |
 | Chitinases | Chitin (fungal walls, insect exoskeletons) | Recycles nitrogen from fungal and insect biomass; biocontrol |
 | Lignin peroxidases, laccases | Lignin (woody tissue) | Partial breakdown of the most recalcitrant plant polymer |
 | Proteases | Proteins, peptides | Releases amino acids for plant and microbial nutrition |
-| Phosphatases | Organic phosphoesters | Solubilizes organic phosphorus for plant uptake |
+| Phosphatases | Organic phosphoesters | Solubilizes [[organic-phosphorus-potassium-calcium-fertilizers]] for plant uptake |
 
 ## How Do Actinomycetes Improve Soil Health?
 
 ### Disease Suppression
 
-Actinomycetes are among the most important **naturally occurring biocontrol agents** in soil:
+Actinomycetes are among the most important **naturally occurring [[singh-entomopathogenic-fungi-biocontrol-agents]]** in soil:
 
 - **Antibiotic production**: *Streptomyces* species produce hundreds of antibiotic compounds (streptomycin, tetracycline, neomycin, and many more) that suppress soilborne plant pathogens including *Fusarium*, *Rhizoctonia*, *Pythium*, *Phytophthora*, and *Verticillium*
 - **Competitive exclusion**: Rapid colonization of root surfaces physically prevents pathogen establishment
@@ -71,14 +71,14 @@ Actinomycetes are among the most important **naturally occurring biocontrol agen
 
 ### Nutrient Cycling
 
-- **Nitrogen fixation**: *Frankia* species form root nodules on alder, casuarina, bayberry, and ~200 other plant species, fixing atmospheric N₂ at rates comparable to legume-rhizobia symbioses
+- **[[biological-nitrogen-fixation-agriculture]]**: *Frankia* species form root nodules on alder, casuarina, bayberry, and ~200 other plant species, fixing atmospheric N₂ at rates comparable to legume-rhizobia symbioses
 - **[[cover-crops]]** | [[mushroom-growing-temperature-and-moisture]]; provides decomposable material |
 | **Avoid over-fertilization** | Excessive synthetic N suppresses actinomycete diversity and antibiotic production |
 | **Minimize pesticide use** | Broad-spectrum fungicides and soil fumigants kill beneficial actinomycetes |
 
 ### What Harms Them
 
-- **Compacted, waterlogged soils**: Actinomycetes are aerobic; they cannot survive prolonged anaerobic conditions
+- **Compacted, waterlogged soils**: Actinomycetes are aerobic; they cannot survive prolonged [[aact-ph-and-anaerobic-conditions]]
 - **Soil acidification**: Below pH 5.5, populations decline sharply
 - **Excessive [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]]
 - [[query-what-is-the-role-of-actinomycetes-in-soil-health]]

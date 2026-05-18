@@ -12,7 +12,7 @@ the doctrine of submission, and even the notorious Assassins sect — derive fro
 ancient [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] in Arabic linguistic form.
 
 The Arabic phrase *gan-nnā'īmi*, "the gardens of delight," is Allegro's key:
-it is the Arabic form of the Sumerian mushroom name *GAN_NA_IM_A_AN*,
+it is the Arabic form of the [[sumerian-mushroom-nomenclature]] name *GAN_NA_IM_A_AN*,
 the "cap of the juice of the eye-opening plant." The paradise garden is
 the mushroom itself, and its delights are the ecstatic effects of the sacrament.
 
@@ -20,7 +20,7 @@ Muhammad's Judaeo-Christian ideas came to him through Aramaic-speaking Christian
 communities in the Arabian desert. Some versions of these traditions were so strange
 that scholars have long been puzzled by them. Muhammad employed special vocabulary
 borrowed from Christian Aramaic, and his "gardens of delight" stem directly from
-the mushroom cult mythology that permeated Near Eastern religion for millennia.
+[[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology that permeated Near Eastern religion for millennia.
 
 By the seventh century, the Byzantine Church had purged what it called "heresies"
 and driven heterodox communities into the desert fringes. Allegro suggests that
@@ -35,7 +35,7 @@ to the Qur'anic vision of bliss. Their most celebrated attribute is being
 *ḥūr 'īn*, "wide-eyed." In Arabic, *'ūr* means "white of the eye" — specifically
 the bright white contrasted with a dark pupil. This accentuated whiteness was
 cosmetically enhanced with dark pigment (kohl) around the eyes, a beauty practice
-well known throughout the ancient Near East.
+well known throughout [[allegro-fertility-philosophy-of-the-ancient-near-east]] East.
 
 The Aramaic word *mestabāthā'* means "adorned woman" and comes from the root
 *s-b-t*, meaning "to set right" or "to adorn." This same root yields the Greek
@@ -76,7 +76,7 @@ Muhammad's concept of the submissive believer — *al-muslim* — maps onto the 
 Aramaic *mestebit-hā'*, itself derived from *MASh_T_BA_RI_TI*. The theological
 foundation of Islam is thus another branch of the ancient [[allegro-amanita-muscaria-properties-and-pharmacology]]*, the fly-agaric, with its red cap
 dotted with white spots. Other Greek plant names from the same root include
-*Panakēs* ("all-healing") and *Asclepion*, both of which were mushroom names
+*Panakēs* ("all-healing") and *Asclepion*, both of which were [[allegro-secret-mushroom-names-korkoron-balag-nomenclature]]
 in [[sacred-mushroom-and-the-cross]] built an entire religious
 vocabulary from its biology and effects.
 

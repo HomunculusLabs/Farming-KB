@@ -5,11 +5,11 @@ tags: [mescaline, peyote, san-pedro, cacti, ethnobotany, phenethylamine, ceremon
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
-  - /Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
-  - /Users/t3rpz/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md
-  - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
+  - "raw/papers/shulgin-a-pihkal.md"
+  - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
+  - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
+  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 related_concepts:
   - mescaline-compound-profile
   - mescaline-reference

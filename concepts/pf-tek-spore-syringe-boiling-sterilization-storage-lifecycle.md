@@ -1,5 +1,5 @@
 ---
-title: PF TEK Spore Syringe Boiling Sterilization and Storage Lifecycle
+title: PF Pf Tek Spore Syringe Preparation And Inoculation Boiling Pf Tek Syringe Sterilization And Storage Lifecycle
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [mycology, cultivation, pf-tek, spore-syringe, sterilization, storage]
 ---
@@ -8,7 +8,7 @@ tags: [mycology, cultivation, pf-tek, spore-syringe, sterilization, storage]
 
 ## Overview
 
-The [[query-spore-syringes-vs-liquid-culture]] that avoids the need for a [[mushroom-spore-printing-syringe-preparation-pf-tek]] accessible to home cultivators using only common kitchen equipment. The method covers syringe preparation, sterilization, spore loading, inoculation, and storage practices that together define a full lifecycle management system for fungal inoculant.
+The [[query-spore-syringes-vs-liquid-culture]] that avoids the need for a [[mushroom-spore-printing-syringe-preparation-pf-tek]] accessible to home cultivators using only common kitchen equipment. The method covers [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]], sterilization, spore loading, inoculation, and storage practices that together define a full lifecycle management system for fungal inoculant.
 
 ## Syringe Sterilization Method
 
@@ -32,7 +32,7 @@ The [[pf-tek]] specifies a straightforward boiling-water approach:
 
 4. **Cooling**: Allow syringes to cool to room temperature before use. Hot syringes will kill spores on contact during loading.
 
-The boiling method works because syringes are thin-walled plastic devices with narrow internal channels and minimal thermal mass. Unlike substrate jars containing dense organic material, a syringe has no insulation barriers. One hour at 100 degrees Celsius is sufficient to sterilize all internal surfaces. PF offered a money-back guarantee for contaminated syringes, demonstrating confidence in this approach.
+The boiling method works because syringes are thin-walled plastic devices with narrow internal channels and minimal [[comparison-windbreak-vs-thermal-mass]]. Unlike substrate jars containing dense organic material, a syringe has no insulation barriers. One hour at 100 degrees Celsius is sufficient to sterilize all internal surfaces. PF offered a money-back guarantee for contaminated syringes, demonstrating confidence in this approach.
 
 ## Syringe Loading from Spore Print
 
@@ -51,7 +51,7 @@ Both holes must be covered with tin foil or sterile surgical tape before and aft
 2. Flame-sterilize the glass stirring rod, allow it to cool briefly, then insert through the center hole to scrape spores into the water
 3. Insert the sterile syringe needle through the small edge hole, tilt the jar until the spore-water suspension reaches the needle tip, and draw the spore solution into the syringe
 
-The critical principle is minimizing exposure of the jar interior to room air. Every transition between steps must be protected. PF emphasized that experience is the best teacher for this procedure.
+The critical principle is minimizing exposure of the jar interior to [[stamets-growing-room-air-circulation-co2-management]]. Every transition between steps must be protected. PF emphasized that experience is the best teacher for this procedure.
 
 ## Inoculation Technique with Sterile Syringe
 
@@ -81,6 +81,6 @@ If the syringe needle plugs during insertion into the substrate, drawing the nee
 [[vegetable-storage-conditions-by-temperature-and-humidity]]
 - **Approximately 1.5 years**: Germination becomes "greatly reduced or won't occur at all"
 
-This relatively short viability window underscores the importance of proper storage conditions and timely use of prepared syringes. Germination is most vigorous when spores are fresh from the print.
+This relatively short viability window underscores the importance of proper [[spawn-storage-conditions]] and timely use of prepared syringes. Germination is most vigorous when spores are fresh from the print.
 
 ## Storage Best Practices

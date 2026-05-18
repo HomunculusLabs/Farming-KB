@@ -5,7 +5,7 @@ tags: [mycology, pathogenesis, candida, medicine, infection]
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
 type: concept
 ---
 

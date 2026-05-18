@@ -9,7 +9,7 @@ tags: [plant, aquatic, water-purification, pathogen-removal, permaculture, ornam
 
 ## Description
 
-Iris pseudocorus, commonly known as yellow flag iris, is a robust perennial aquatic plant in the Iridaceae family. Mollison identifies it as one of the species active in biological pathogen removal from wastewater in constructed wetland and reed bed treatment systems. Its tall, sword-like leaves and showy yellow flowers make it both a functional water purification plant and an attractive ornamental for pond margins and treatment wetlands.
+Iris pseudocorus, commonly known as yellow flag iris, is a robust perennial aquatic plant in the Iridaceae family. Mollison identifies it as one of the species active in biological pathogen removal from wastewater in [[comparison-constructed-wetland-vs-backyard-pond]] and reed bed treatment systems. Its tall, sword-like leaves and showy yellow flowers make it both a functional water purification plant and an attractive ornamental for pond margins and treatment wetlands.
 
 ## Classification
 
@@ -24,14 +24,14 @@ Iris pseudocorus, commonly known as yellow flag iris, is a robust perennial aqua
 ## Key Facts
 
 - Yellow flag iris grows 1-1.5 m tall with erect, sword-shaped leaves and bright yellow flowers 7-10 cm across, blooming in late spring to early summer.
-- Native to Europe, western Asia, and northwest Africa; widely naturalised in temperate regions including North America and Australia.
-- Mollison lists Iris pseudocorus alongside Alisma plantago-aquatica, Mentha aquatica, [[juncus-effusus]], Schoenoplectus lacustris, and Spartina spp. as species active in pathogen removal from polluted water.
+- Native to Europe, western Asia, and northwest Africa; widely naturalised in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] including North America and Australia.
+- Mollison lists Iris pseudocorus alongside Alisma plantago-aquatica, Mentha aquatica, [[juncus-effusus]], [[schoenoplectus-lacustris]], and Spartina spp. as species active in pathogen removal from polluted water.
 - Following biological treatment through beds containing Iris pseudocorus and associated species, E. coli, coliform bacteria, Salmonella, and Enterococci populations drop to near zero.
 - Virus and worm eggs are also effectively eliminated.
 - The plant spreads by both seed and creeping rhizomes, forming dense colonies that stabilize banks and filter sediments.
 - Tolerates a wide range of water depths from moist soil to 25 cm submerged.
 - Can tolerate brackish water conditions and some degree of salinity.
-- Listed as invasive in some regions (parts of North America, New Zealand) due to its vigorous growth and ability to colonize natural waterways.
+- Listed as invasive in some regions (parts [[huckleberries-and-wild-berries-of-north-america]], New Zealand) due to its vigorous growth and ability to colonize natural waterways.
 
 ## Role in Water Purification
 
@@ -44,7 +44,7 @@ Iris pseudocorus contributes to water purification through several mechanisms:
 
 ## Relevance to Cultivation and Mycology
 
-- **Constructed wetlands**: Yellow flag iris is a staple plant in designed wastewater treatment systems, combining aesthetic value with water purification function.
+- **[[comparison-constructed-wetlands-vs-bioswales]]**: Yellow flag iris is a staple plant in designed wastewater treatment systems, combining aesthetic value with water purification function.
 - **Permaculture design**: Fits naturally into zone 3-4 water management systems, particularly around greywater treatment cells and pond margins.
 - **Multi-yield species**: Provides cut flowers, fiber from leaves (traditionally used for thatching and basketry), and water purification services simultaneously.
 - **Bank stabilization**: Effective at preventing erosion along stream banks and pond edges.
@@ -61,7 +61,7 @@ Iris pseudocorus contributes to water purification through several mechanisms:
 ## References
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 7: Water.
-- Max Planck Institute research on biological water treatment (cited by Mollison).
+- Max Planck Institute research on [[sand-filtration-and-biological-water-treatment]] (cited by Mollison).
 
 ## Practical Applications
 

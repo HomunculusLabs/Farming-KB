@@ -10,8 +10,8 @@ sources: []
 
 ## Overview
 
-Shiitake (*Lentinula edodes*) and lion's mane (*Hericium erinaceus*) are two
-of the most popular medicinal mushrooms cultivated worldwide. Shiitake is the
+Shiitake (*Lentinula edodes*) and lion's mane (*[[cancer-medicinal-mushrooms-hericium-erinaceus]]*) are two
+of the most popular [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] cultivated worldwide. Shiitake is the
 second most cultivated mushroom globally, prized for both culinary excellence
 and immune-modulating beta-glucans. Lion's mane has surged in popularity as a
 nootropic, recognized for its unique ability to stimulate nerve growth factor
@@ -24,13 +24,13 @@ enthusiasts choose the right species for their goals.
 
 Lion's mane is a distinctive saprotrophic mushroom recognized by its cascading
 white spines. Native to temperate forests across North America, Europe, and
-Asia, it grows on dead or dying hardwoods. Its primary bioactive compounds are
+Asia, it grows on dead or dying hardwoods. Its primary [[cordyceps-cancer-bioactive-compounds]] are
 hericenones (in the fruiting body) and erinacines (in the mycelium), both of
 which cross the blood-brain barrier and stimulate NGF synthesis. Clinical
 trials demonstrate improvements in mild cognitive impairment at 3g/day of
 dried fruiting body powder. Its flavor and texture resemble lobster or crab
 meat, making it a prized gourmet ingredient. Lion's mane is cultivated on
-supplemented hardwood sawdust at 65-75°F.
+supplemented [[hardwood-sawdust-substrate]] at 65-75°F.
 
 ## Key Differences
 
@@ -43,7 +43,7 @@ supplemented hardwood sawdust at 65-75°F.
 | Substrate | Logs or sawdust blocks | Sawdust blocks preferred |
 | Fruit temperature | 50-80°F (strain-dependent) | 60-70°F (narrower range) |
 | Days to first fruit | 6-18 months (logs) or 4-8 weeks (sawdust) | 3-6 weeks from spawn |
-| Biological efficiency | 80-120% | 50-80% |
+| [[biological-efficiency]] | 80-120% | 50-80% |
 | Market price | Low to moderate | High |
 | Historical use | 1,000+ years, East Asia | Centuries, Chinese/Japanese medicine |
 
@@ -58,7 +58,7 @@ adjunct in Japan give it the strongest clinical evidence base among culinary
 medicinal mushrooms. If your goal is daily dietary supplementation through
 cooking rather than extract capsules, shiitake is ideal — its rich umami
 flavor integrates easily into soups, stir-fries, and broths. It is also the
-better choice for outdoor log-based growing operations in temperate climates.
+better choice for outdoor log-based growing operations [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 ## When to Choose Lion's Mane
 
@@ -83,7 +83,7 @@ narrower 60-70°F band and demands higher humidity (85-95% during pinning)
 and more aggressive fresh air exchange. Shiitake produces reliable yields on
 logs for 3-6 years after a long colonization period, while lion's mane
 completes its cycle in weeks but must be restarted from fresh blocks. For
-indoor growers using [[shiitake-cultivation-log-method|loggrowers]], shiitake provides years of harvests from a single inoculation.
+indoor growers using [[shiitake-cultivation-log-method]], shiitake provides years of harvests from a single inoculation.
 
 ## Medicinal Use Patterns
 

@@ -15,7 +15,7 @@ tags:
 
 ## Description
 
-Lythrum salicaria, commonly known as purple loosestrife, is a perennial herbaceous plant in the family Lythraceae. It is native to Europe, Asia, and northwestern Africa but has become one of the most significant invasive wetland plants in North America. The species is notable for its striking spikes of magenta-purple flowers and its ability to form dense stands that displace native wetland vegetation. From a mycological perspective, L. salicaria is significant as an emergent aquatic plant that forms functional arbuscular mycorrhizal (AM) associations, and its phosphorus-mycorrhiza interactions have been studied in detail.
+Lythrum salicaria, commonly known as purple loosestrife, is a perennial herbaceous plant in the family Lythraceae. It is native to Europe, Asia, and northwestern Africa but has become one of the most significant invasive wetland plants in North America. The species is notable for its striking spikes of magenta-purple flowers and its ability to form dense stands that displace native wetland vegetation. From a mycological perspective, L. salicaria is significant as an emergent aquatic plant that forms functional [[arbuscular-mycorrhizal-colonization-patterns]] (AM) associations, and its phosphorus-mycorrhiza interactions have been studied in detail.
 
 ## Classification
 
@@ -51,8 +51,8 @@ L. salicaria occupies a broad [[ecological-niche]] in wetland environments:
 
 - **Mycorrhizal-phosphorus interaction:** White and Charvat (1999) demonstrated that AM colonization of L. salicaria roots increases significantly with increasing phosphate levels in water up to a threshold of 1000 µg PO₄/L, beyond which mycorrhizae do not form.
 - **Growth effects:** Mycorrhizal infection did not positively affect total plant biomass at low P availability but significantly reduced plant growth at the highest P level (47.5 mg PO₄/L) where no mycorrhizae developed.
-- **Root:shoot allocation:** At intermediate P levels, mycorrhizal colonization increased the root:shoot ratio, suggesting enhanced belowground resource allocation under moderate nutrient conditions.
-- **Invasive success:** The mycorrhizal responsiveness of L. salicaria may contribute to its invasive success in North American wetlands by enhancing nutrient acquisition under variable phosphorus conditions.
+- **Root:shoot allocation:** At intermediate P levels, [[mycorrhizal-colonization-thresholds]] increased the root:shoot ratio, suggesting enhanced belowground [[mycelial-foraging-resource-allocation]] under moderate nutrient conditions.
+- **Invasive success:** The mycorrhizal responsiveness of L. salicaria may contribute to its invasive success in North American wetlands by enhancing [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] under variable phosphorus conditions.
 - **Reproductive output:** A single mature plant can produce over 2 million seeds per year, contributing to its rapid spread.
 
 ## Mycorrhizal Associations
@@ -66,7 +66,7 @@ L. salicaria forms arbuscular mycorrhizal associations with specific functional 
 
 ## Interactions with Other Organisms
 
-- **[[arbuscular-mycorrhizal-fungi]]:** Functional AMF associations modulated by phosphorus availability
+- **[[arbuscular-mycorrhizal-fungi]]:** Functional AMF associations modulated by [[phosphorus-availability]]
 - **Native wetland plants:** Competitively excludes native species such as cattails (Typha) and sedges (Carex) through dense canopy formation
 - **Pollinators:** Flowers are attractive to bees and butterflies; in North America, the plant provides nectar resources but at the cost of habitat degradation
 - **Biocontrol agents:** Galerucella beetles (G. calmariensis, G. pusilla) have been introduced in North America as biological control agents
@@ -75,7 +75,7 @@ L. salicaria forms arbuscular mycorrhizal associations with specific functional 
 
 L. salicaria is relevant to several research and management domains:
 
-- **[[invasive-species-management]]:** Understanding its mycorrhizal ecology may inform restoration strategies following removal
+- **[[invasive-species-management]]:** Understanding its [[mycorrhizal-ecology-research-themes]] may inform restoration strategies following removal
 - **Mycorrhizal physiology:** A well-studied model for AMF-phosphorus interactions in aquatic plants
 - **Wetland ecology:** Research on its ecosystem impacts informs wetland conservation and restoration
 - **Biocontrol:** One of the most extensively studied examples of classical biological control of an invasive wetland plant

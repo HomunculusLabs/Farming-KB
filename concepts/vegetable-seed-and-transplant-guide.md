@@ -6,7 +6,7 @@ updated: 2026-04-28
 type: concept
 tags: [gardening, seeds, transplants, planting, organic-gardening]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/purdue-home-gardeners-guide.md
+  - "raw/papers/purdue-home-gardeners-guide.md"
 ---
 # Vegetable Seed and Transplant Guide
 

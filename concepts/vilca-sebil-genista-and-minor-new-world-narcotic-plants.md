@@ -117,3 +117,7 @@ Beyond the major [[new-world-hallucinogens-overview-and-ethnobotanical-context]]
 - [[golden-guide-peyote-and-mescaline-cacti]]
 - [[mescal-bean-sophora-secundiflora-vision-dance]]
 - [[piule-rhynchosia-seeds-mexican-hallucinogen]]
+
+## Practical Considerations
+
+Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.

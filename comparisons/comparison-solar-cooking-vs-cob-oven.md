@@ -19,9 +19,9 @@ sources: []
 ## Overview
 Solar cookers and cob ovens represent two fuel-conscious approaches to
     cooking that operate on fundamentally different energy sources. Solar
-    cookers harness concentrated sunlight, producing zero emissions and
+    cookers harness concentrated sunlight, producing [[zeri-zero-emissions-mushroom-systems]] and
     requiring no fuel, but are constrained by weather and daylight. Cob ovens
-    burn wood to reach 700 to 900 degrees Fahrenheit through thermal mass
+    burn wood to reach 700 to 900 degrees Fahrenheit through [[comparison-windbreak-vs-thermal-mass]]
     storage, providing reliable high-heat cooking in any weather but requiring
     fuel and producing emissions. Together they form a complementary off-grid
     cooking system covering the full range of culinary needs.
@@ -63,7 +63,7 @@ Construction requires no specialized skills beyond mixing cob (one part
 | Food Burning Risk | None (temperature self-limiting) | Possible
     (requires attention at peak heat) |
 | Construction Cost | Very low (cardboard DIY possible) | Very low
-    (on-site natural materials) |
+    (on-site [[building-with-natural-materials]]) |
 | Best Cooking | Grains, stews, vegetables, baking | Bread, pizza,
     roasting, multi-course meals |
 | Fuel Requirement | None | Firewood (moderate per firing) |
@@ -88,7 +88,7 @@ Choose a cob oven when high-heat baking, bread making, and pizza are
     gatherings and community events. The 700 to 900 degree temperatures are
     essential for proper hearth bread and pizza crust development that solar
     cookers cannot achieve. Cob ovens are the better choice for temperate and
-    cold climates where solar cooking has limited seasonal utility, and for
+    [[query-best-kiwifruit-varieties-for-cold-climates]] where solar cooking has limited seasonal utility, and for
     homesteads with abundant firewood.
 
 ## Hybrid Approaches

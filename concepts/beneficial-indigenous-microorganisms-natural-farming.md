@@ -9,7 +9,7 @@ type: concept
 Beneficial Indigenous Microorganisms (BIM) are naturally occurring microorganisms
 harvested from local environments and cultured for use in [[han-kyu-cho]]'s [[lactic-acid-bacteria]] (Lacto Bacilli)
 
-Lactic acid bacteria are the primary workhorse microorganism in the BIM toolkit.
+[[bionutrients-lab-lactic-acid-bacteria-serum]] are the primary workhorse microorganism in the BIM toolkit.
 These Gram-positive bacteria produce lactic acid as a metabolic byproduct,
 creating an acidic environment that suppresses pathogenic organisms. Their
 applications span multiple domains:
@@ -19,7 +19,7 @@ applications span multiple domains:
   inhibiting putrefactive bacteria that cause foul smells.
 - **Natural Piggery**: In odor-free piggery systems, lacto bacilli are sprayed on
   bedding and manure to control ammonia and hydrogen sulfide odors, improving
-  animal welfare without wastewater treatment infrastructure.
+  animal welfare without [[biological-wastewater-treatment]] infrastructure.
 - **Aquaculture**: In fish ponds and shrimp farms, lactic acid bacteria improve
   water quality by breaking down organic waste and suppressing pathogens,
   reducing mortality in cultured stock.
@@ -49,7 +49,7 @@ use. No laboratory equipment is required.
 
 ## Forest Beneficial Microorganisms
 
-Old-growth forests contain rich microbial communities in their humus layers.
+Old-growth forests contain rich [[cannabis-rhizosphere-microbial-communities]] in their humus layers.
 Practitioners place cooked rice in a container and bury it beneath leaf litter in
 an undisturbed forest area. After three to five days, the rice becomes colonized
 by fungi and bacteria attracted to the carbohydrate source. The microbial-covered
@@ -59,7 +59,7 @@ microbial concentrate valued for its diversity and adaptability.
 ## Bamboo Microorganisms
 
 Bamboo stands are targeted because bamboo roots exude sugary compounds supporting
-a distinct microbial community. The same cooked-rice bait method is used, placing
+a distinct [[cannabis-cultivar-microbial-community-effects]]. The same cooked-rice bait method is used, placing
 rice at the base of bamboo clumps or within bamboo litter. The resulting culture
 is rich in cellulolytic organisms capable of breaking down tough plant fibers,
 making it useful for [[bionutrients-fermented-plant-extracts]] (FPE), serve as food for
@@ -72,7 +72,7 @@ cultures, creating a self-reinforcing biological system in the soil.
 ## Eastern vs. Western Approaches
 
 A philosophical distinction exists between Eastern and Western approaches to
-sustainable agriculture. Western organic farming emphasizes compost, nutrient
+[[mushroom-cultivation-for-sustainable-agriculture]]. Western organic farming emphasizes compost, nutrient
 management, cover cropping, and mechanical weed control. Eastern natural farming
 focuses on microorganisms, enzymes, and the energetic concepts of chi (life force)
 and yin-yang balance. While Western standards regulate prohibited inputs, Eastern

@@ -6,7 +6,7 @@ updated: 2026-04-28
 type: concept
 tags: [gardening, harvest, root-vegetables, storage, organic-gardening]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/purdue-home-gardeners-guide.md
+  - "raw/papers/purdue-home-gardeners-guide.md"
 ---
 # Root Crop Harvest and Storage
 

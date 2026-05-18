@@ -6,7 +6,7 @@ tags:
 between Eastern and Western approaches to medicine and their corresponding agricultural
 philosophies. He argues that Western medicine treats symptoms locally while Eastern
 medicine addresses the whole person, and that this fundamental divergence mirrors the
-difference between conventional agriculture (which attacks [[fukuoka-desert-revegetation-natural-farming|desert revegetation]] is
+difference between conventional agriculture (which attacks [[fukuoka-desert-revegetation-natural-farming]] is
 explicitly modeled on the Eastern medical approach—restore the whole system rather
 than attack individual symptoms.
 
@@ -54,15 +54,15 @@ of life and death occur in nature." He describes an ideal meadow—"full of wild
 and sweet clover with bees and a few spotted fawns grazing in sunlight"—and asks
 whether "it is not enough to simply enjoy our time here and be grateful."
 
-The closing reflection on medicine mirrors his [[fukuoka-desert-revegetation-natural-farming|Desert Revegetation]]
-- [[fukuoka-critique-darwinian-evolution|Critique of Darwinian Evolution]]
+The closing reflection on medicine mirrors his [[fukuoka-desert-revegetation-natural-farming]]
+- [[fukuoka-critique-darwinian-evolution]]
 
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -73,15 +73,15 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
 
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
+these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 

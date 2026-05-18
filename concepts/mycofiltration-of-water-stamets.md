@@ -46,7 +46,7 @@ Mycofiltration is the use of fungal [[stropharia-rugoso-annulata-mycofiltration]
 
 - Cold temperatures slow mycelial activity and filtration effectiveness
 - Very high contaminant loads may overwhelm the system
-- Specific pollutant removal rates vary with species, substrate, and conditions
+- Specific [[singh-fungal-biosurfactants-pollutant-removal]] rates vary with species, substrate, and conditions
 
 ## Experimental Results and Field Trials
 Stamets documents several field trials demonstrating mycofiltration
@@ -83,10 +83,10 @@ Understanding these mycological processes has practical implications
 across agriculture, medicine, and environmental management. Fungal
 biotechnology leverages mycelial metabolism for producing enzymes,
 antibiotics, and industrial compounds. Mushroom cultivation provides
-nutritious food while recycling agricultural waste substrates.
+nutritious food while recycling [[agricultural-waste-substrates]].
 Mycoremediation applies fungal decomposition capabilities to clean
-contaminated sites. Research into fungal secondary metabolites
-continues to yield novel pharmaceuticals and bioactive compounds.
+contaminated sites. Research into [[biodiversity-fungal-secondary-metabolites]]
+continues to yield novel pharmaceuticals [[ganoderma-lucidum-pharmacology-and-bioactive-compounds]].
 
 The practical implications of these fungal processes extend to
 agriculture, forestry, and environmental management worldwide.
@@ -104,7 +104,7 @@ symbionts, and pathogens in virtually every terrestrial ecosystem.
 Their hyphal networks form the biological infrastructure of forest
 soils, connecting trees through mycorrhizal associations. Saprotrophic
 fungi break down complex organic polymers including lignin and
-cellulose, driving global carbon cycling. The enzymatic diversity
+cellulose, driving [[dighton-fungi-elevated-co2-global-carbon-cycling]]. The enzymatic diversity
 of fungal species enables them to access nutrients from substrates
 that bacteria cannot decompose.
 
@@ -115,6 +115,6 @@ molecular techniques. DNA barcoding using the ITS region has become
 the standard for species identification. High-throughput sequencing
 characterizes entire fungal communities from environmental samples.
 Cultivation studies on various media provide data on growth rates,
-fruiting requirements, and secondary metabolite production.
+fruiting requirements, and [[fungal-elicitors-enhanced-secondary-metabolite-production]].
 Microscopy remains essential for documenting spore morphology and
 tissue structure characteristics.

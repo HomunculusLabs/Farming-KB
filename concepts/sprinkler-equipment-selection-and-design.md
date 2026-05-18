@@ -1,10 +1,10 @@
 ---
 title: Sprinkler Equipment Selection And Design
-source: gardening-when-it-counts-steve-[[solomon-irrigation-systems-sprinkler-design|solomon]].md
+source: gardening-when-it-counts-steve-[[solomon-irrigation-systems-sprinkler-design]].md
 type: concept
 ---
 
-# Sprinkler Equipment Selection and [[macrofungal-sampling-protocol-design-plot-selection|Design]]
+# Sprinkler Equipment Selection and [[macrofungal-sampling-protocol-design-plot-selection]]
 
 Choosing the right sprinkler equipment makes the difference between uniform irrigation and a garden with drowned spots alongside parched ones. Most consumer-grade sprinklers are designed for lawn convenience, not garden efficiency. Understanding sprinkler physics — nozzle diameter, operating pressure, throw radius, and overlap — allows gardeners to select or assemble systems that work properly.
 
@@ -43,13 +43,13 @@ For [[dryland-vegetable-gardening]], sprinkler systems designed around this nozz
 Smaller bore nozzles:
 1. Produce lighter droplets that don't compact soil or form crusts
 2. Have shorter throw radius, keeping water where you need it and off buildings and noncritical vegetation
-3. Result in lower application rates, reducing leaching
+3. Result in lower [[ingham-compost-tea-application-rates-and-timing]], reducing leaching
 4. Allow more precise coverage in tight backyard situations
 
 ### Why Bigger Is Worse
 
 Larger bore nozzles (>7/64 inch):
-1. Emit massive droplets that cause soil compaction, reducing root penetration and making cultivation and weeding more difficult
+1. Emit massive droplets that cause [[soil-compaction]], reducing root penetration and making cultivation and weeding more difficult
 2. May contribute to forming soil crusts
 3. Require larger water supply than most home gardeners have (5+ GPM per sprinkler)
 4. Are designed for pastures, golf courses, and corn fields, not [[maintaining-organic-matter-in-vegetable-gardens]]

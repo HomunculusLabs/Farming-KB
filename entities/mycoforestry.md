@@ -15,8 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - /Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md
-  - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - "raw/papers/unknown-mycelium-running.md"
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
 # Mycoforestry

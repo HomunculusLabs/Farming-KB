@@ -7,7 +7,7 @@ tags: [forest-ecosystem, california, fog-condensation, sequoia]
 
 ## Description
 
-The California redwood forests are temperate rainforest ecosystems dominated by coast redwood (*Sequoia sempervirens*) that depend heavily on coastal fog condensation for their water supply. Mollison cites them as a prime example of how tree height and fog drip interaction creates self-reinforcing moisture cycles, and how deforestation can break these cycles catastrophically. The redwoods were historically restricted to the coastal fog belt of northern California and southern Oregon.
+The California redwood forests are temperate rainforest ecosystems dominated by coast redwood (*[[sequoia-sempervirens]]*) that depend heavily on coastal fog condensation for their water supply. Mollison cites them as a prime example of how tree height and fog drip interaction creates self-reinforcing moisture cycles, and how deforestation can break these cycles catastrophically. The redwoods were historically restricted to the coastal fog belt of northern California and southern Oregon.
 
 ## Classification
 
@@ -23,10 +23,10 @@ The California redwood forests are temperate rainforest ecosystems dominated by 
 - Coast redwoods were once restricted to the fog belt along the northern California coast
 - Redwoods will grow well in areas of higher rainfall without fog, indicating the fog belt is their minimum viable moisture zone
 - The taller the trees, the larger the volume of moist air intercepted, and the greater the precipitation
-- Fog drip on Table Mountain (South Africa) and Lanai (Hawaii) has been measured at 130–330 cm
+- Fog drip on [[table-mountain]] (South Africa) and Lanai (Hawaii) has been measured at 130–330 cm
 - Redwoods and other giant conifers present enormous laminate surface area for condensation
 - Evergreen conifers work as condensers year-round, unlike deciduous trees
-- The forests depend on cold ocean currents (analogous to the Oya Shio off East Asia and Labrador current off NE America) that generate advection fogs
+- The forests depend on cold ocean currents (analogous to the Oya Shio off East Asia and [[labrador-current]] off NE America) that generate advection fogs
 - When redwood forests are cut, the fog condensation cycle breaks and reafforestation becomes extremely difficult
 
 ## The Fog-Redwood Feedback Loop
@@ -64,19 +64,19 @@ Mollison groups the redwoods with other fog-dependent forests worldwide:
 
 ## Source Reference
 
-Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Section 6.5 (Trees and Precipitation), subsections on Condensation Phenomena and Rehumidification of Airstreams. Reference to Chang (1968) for redwood range data.
+Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Section 6.5 ([[trees-and-precipitation]]), subsections on Condensation Phenomena and Rehumidification of Airstreams. Reference to Chang (1968) for redwood range data.
 
 ## Practical Applications
 
 California Redwood Forests finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 
 ## Ecological Context
 
 Understanding california redwood forests within broader ecosystem dynamics reveals
-interconnections with nutrient cycling, energy flow, and species interactions.
+interconnections with [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], energy flow, and species interactions.
 These relationships inform regenerative design strategies that work with
 natural processes rather than against them.
 

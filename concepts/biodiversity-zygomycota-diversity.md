@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, zygomycota, fungal-taxonomy, phylogeny, evolution]
 sources:
-  - "/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"
+  - ""raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
 # Zygomycota Diversity and Phylogeny

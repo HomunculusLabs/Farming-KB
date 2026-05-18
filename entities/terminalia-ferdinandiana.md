@@ -7,7 +7,7 @@ tags:
   - superfruit
   - vitamin-c
   - bushfood
-  - permaculture
+  - [[permaculture]]
   - medicinal-plant
 date: 2026-04-28
 updated: 2026-04-28

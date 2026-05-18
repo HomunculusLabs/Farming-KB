@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "Falk, B. (2013). The Resilient Farm and Homestead: An Innovative Permaculture and Whole Systems Design Approach. Chelsea Green Publishing."
+  - "Falk, B. (2013). The Resilient Farm and Homestead: An Innovative Permaculture and Whole Systems Design Approach. [[chelsea-green-publishing]]."
   - "Falk, B. (2019). The Resilient Farm and Homestead, Revised and Expanded Edition. Chelsea Green Publishing."
   - "Falk, B. (2021). \"Adaptive Land Use in a Changing Climate.\" bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Magazine, 98, 22-29."
   - "Whole Systems Design LLC. (2024). \"About.\" wholesystemsdesign.com."
@@ -52,13 +52,13 @@ key systems.
 
 Key [[hugelkultur]], and [[holzer-frost-protection-techniques]] and water retention
 - **Integrated water systems:** Multiple ponds, swales, and gravity-fed
-  irrigation; spring development and [[bill-mollison|Bill Mollison]] and [[eric-toensmeier|Eric Toensmeier]]:** Perennial vegetable systems for
+  irrigation; spring development and [[bill-mollison]] and [[eric-toensmeier]]:** Perennial vegetable systems for
   cold climates
 
 ## Overview
 
 Ben Falk represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -79,7 +79,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ben Falk finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -87,13 +87,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for ben falk. Climate adaptation
+opportunities for ben falk. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -108,7 +108,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 ben falk and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

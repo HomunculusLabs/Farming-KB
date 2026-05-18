@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The Babassu palm is a large, multi-stemmed palm species native to South America but extensively naturalized in coastal India and other tropical regions. In Mollison's [[permaculture-design-framework]], it serves as a prime example of a high-yield, multi-function perennial crop that can outperform oil wells in energy production per acre while simultaneously providing building materials, food, and livelihood for thousands of people.
+The Babassu palm is a large, multi-stemmed palm species native to [[guzman-psilocybin-mushrooms-south-america]] but extensively naturalized in coastal India and other [[fukuoka-natural-farming-in-tropical-regions]]. In Mollison's [[permaculture-design-framework]], it serves as a prime example of a high-yield, multi-function perennial crop that can outperform oil wells in energy production per acre while simultaneously providing [[gadd-fungal-biodegradation-concrete-building-materials]], food, and livelihood for thousands of people.
 
 ## Classification
 
@@ -31,11 +31,11 @@ The palm grows under the worst conditions on exposed coasts. It thrives in erode
 
 ### Building and Thatching Material
 
-For centuries, Babassu palms have provided a very large proportion of building, thatching, and carpeting material. The thatch produces absolutely waterproof, low-mass dwellings ideally suited to tropical climates. Entire buildings are constructed from Babassu thatch, representing appropriate architecture for hot regions.
+For centuries, Babassu palms have provided a very large proportion of building, thatching, and carpeting material. The thatch produces absolutely waterproof, low-mass dwellings ideally suited to [[fukuoka-natural-farming-tropical-climates]]. Entire buildings are constructed from Babassu thatch, representing appropriate architecture for hot regions.
 
 ### Intercropping Compatibility
 
-Babassu palms provide excellent shade cover for intercrops. They can be heavily intercropped with beans, green-leaf vegetables, cattle grazing, and honey production. The intercropping actually improves palm health. Vanilla orchids can be grown on each palm tree, adding another valuable crop layer.
+Babassu palms provide excellent shade cover for intercrops. They can be heavily intercropped with beans, green-leaf vegetables, cattle grazing, [[faires-beekeeping-and-honey-production]]. The intercropping actually improves palm health. Vanilla orchids can be grown on each palm tree, adding another valuable crop layer.
 
 ### Multi-Function Stacking
 
@@ -71,7 +71,7 @@ The Babassu system as described by Mollison is a textbook example of functional 
 
 ### Economic Modeling
 
-At estimated production rates, Babassu systems compete favorably with fossil fuel extraction without subsidies, while producing positive externalities (reforestation, community livelihood, ecosystem services) rather than negative ones (pollution, depletion, community displacement).
+At estimated production rates, Babassu systems compete favorably with fossil fuel extraction without subsidies, while producing positive externalities (reforestation, community livelihood, [[arbuscular-mycorrhizal-herbaceous-ecosystem-services]]) rather than negative ones (pollution, depletion, community displacement).
 
 ### Keyline Integration
 

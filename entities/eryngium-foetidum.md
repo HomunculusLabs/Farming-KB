@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Poulsen AD (2006). "Eryngium foetidum L." In: Grubben GJH, Denton OA, eds. Plant Resources of Tropical Africa 1.
-  - Martins AP et al. (2015). "Chemical composition and bioactivity of Eryngium foetidum permaculture-designers-manual-essential-oil-plants." Journal of Ethnopharmacology 173: 359–365.
+  - Martins AP et al. (2015). "[[chemical-composition-of-hallucinogens]] and bioactivity of Eryngium foetidum permaculture-designers-manual-essential-oil-plants." Journal of Ethnopharmacology 173: 359–365.
   - Gupta MP (1995). "270 Plants of Panama." Editorial Universitaria.
   - Bello J et al. (1998). "Eryngium foetidum: A traditional herb with multiple uses." Economic Botany 52(4): 392–403.
 ---
@@ -57,7 +57,7 @@ Africa, South and Southeast Asia, and the [[permaculture-designers-manual-essent
 ## Overview
 
 Eryngium Foetidum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -78,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Eryngium Foetidum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -86,13 +86,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for eryngium foetidum. Climate adaptation
+opportunities for eryngium foetidum. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -107,7 +107,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 eryngium foetidum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

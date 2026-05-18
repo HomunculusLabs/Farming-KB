@@ -14,7 +14,7 @@ Phylum Ascomycota is the largest phylum of Kingdom Fungi, encompassing approxima
 - **Phylum**: Ascomycota
 - **Estimated species**: ~32,000 described
 - **Sister phylum**: Basidiomycota (together form the crown fungi with Glomales)
-- **Major classes**: Archiascomycetes, Saccharomycetes, Euascomycetes
+- **[[ascomycota-phylogeny-major-classes-lineages]]**: Archiascomycetes, Saccharomycetes, Euascomycetes
 
 ## Key Facts
 
@@ -37,8 +37,8 @@ Phylum Ascomycota is the largest phylum of Kingdom Fungi, encompassing approxima
 #### Saccharomycetes (True Yeasts)
 
 - Monophyletic clade sharing a most recent common ancestor with Euascomycetes (Berbee and Taylor 1993b; Kurtzman and Robnett 1995)
-- Paramount in food production: *Saccharomyces cerevisiae* (bakers' and brewers' yeast)
-- Pathogens: *Candida albicans* (facultative human pathogen)
+- Paramount in food production: *[[saccharomyces-cerevisiae]]* (bakers' and brewers' yeast)
+- Pathogens: *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* (facultative human pathogen)
 - Mutualists: numerous endosymbionts of arthropods
 - No true yeast produces a sporocarp; life histories include budding growth phase
 - Some members display filamentous growth (e.g., *Ascoidea* species)
@@ -55,9 +55,9 @@ Phylum Ascomycota is the largest phylum of Kingdom Fungi, encompassing approxima
 ### Key Orders and Groups
 
 - **Pezizales**: Largest group of apothecial fungi; includes *Morchella* (morels), *Gyromitra*, *Helvella*, truffles; operculate asci; probably contains majority of ectomycorrhizal ascomycete species
-- **Helotiales**: Inoperculate discomycetes; endophytes, mycorrhizal fungi, plant pathogens, saprobes; grossly polyphyletic
+- **Helotiales**: Inoperculate discomycetes; endophytes, [[arbuscular-mycorrhizal-fungi]], plant pathogens, saprobes; grossly polyphyletic
 - **Pyrenomycetes (Sordariomycetes)**: Perithecial (flask-shaped) ascomycetes; includes Hypocreales, Sordariales, Xylariales, Ophiostomatales; also includes cleistothecial fungi and yeastlike endosymbionts
-- **Plectomycetes (Eurotiomycetes)**: Eurotiales + Onygenales; includes *Penicillium chrysogenum* (penicillin source), *Coccidioides immitis* (valley fever), *Elaphomyces* (ectomycorrhizal truffles)
+- **Plectomycetes (Eurotiomycetes)**: Eurotiales + Onygenales; includes *[[penicillium-chrysogenum]]* (penicillin source), *[[coccidioides-immitis]]* (valley fever), *Elaphomyces* (ectomycorrhizal truffles)
 - **Lecanorales s.l.**: Lichenized ascomycetes; >7,000 species; two main groups—apothecial Lecanorales and Arthoniales
 - **Loculoascomycetes**: Ascostromatic development; includes Pleosporales, Dothideales, Chaetothyriales; at least two independent origins of ascostromatic development
 

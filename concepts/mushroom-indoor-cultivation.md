@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom Indoor Cultivation
+title: Comparison Mushroom Log Cultivation Vs Mushroom Indoor Cultivation
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -28,7 +28,7 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 ## Growing Environments
 
 - **Monotub** -- Modified plastic storage bin with polyfill-filtered holes for FAE; self-contained fruiting chamber. Common for cubensis and oysters. Simple, low-cost, good for beginners
-- **Shotgun Fruiting Chamber (SGFC)** -- Perlite-lined tub with 1/4" holes drilled on all six sides. Passive humidity via evaporation. Best for cake/grain-based grows
+- **[[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] (SGFC)** -- Perlite-lined tub with 1/4" holes drilled on all six sides. Passive humidity via evaporation. Best for cake/grain-based grows
 - **Martha Tent / Greenhouse** -- Enclosed plastic greenhouse with humidifier and fan on timers. Scalable, good for multiple substrates. Requires external humidification
 - **Dedicated grow room** -- Climate-controlled room with shelves, HVAC, humidification, CO2 monitoring. Commercial scale. See Stamets Ch. IV for full design specs
 
@@ -45,7 +45,7 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 - Temperature: drop 5-10F below colonization temp triggers pinning
 - Humidity: 90-95% (critical -- pins desiccate quickly)
 - FAE: increased; CO2 below 800-1000 ppm for most species
-- Light: 12 hours on/off at 6500K daylight spectrum; blue wavelengths (370-460 nm) most effective for basidiocarp initiation
+- Light: 12 hours on/off at 6500K daylight spectrum; blue wavelengths (370-460 nm) most effective for [[light-basidiocarp-initiation-psilocybe-cubensis-research]]
 - Evaporation from substrate surface is a primary pinning trigger
 
 ### Fruiting (Cropping)
@@ -74,8 +74,8 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 - 6500K daylight fluorescent or LED; 12 hours on/off cycle
 - Blue light (440-460 nm) most effective for fruiting initiation per Badham (1980)
 - Light intensity: 100-1000 lux sufficient; too much heat from incandescent is harmful
-- Light from above promotes upright growth (negative geotropism in stipes)
-- Light is required for spore production and geotropic sensitivity
+- Light from above promotes upright growth ([[negative-geotropism-in-mushroom-fruiting]] stipes)
+- Light is required for spore production and [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]]
 
 ## Contamination Management
 
@@ -97,5 +97,5 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 
 - [[mushroom-sterile-technique-detailed]] -- SAB/flow hood procedures, contamination prevention
 - [[mushroom-substrates]] -- Grain spawn, bulk substrates, supplementation
-- [[mushroom-species-guide]] -- Species-specific temperature and humidity ranges
+- [[mushroom-species-guide]] -- Species-specific [[greg-green-temperature-and-humidity-control]] ranges
 - [[mushroom-pests-and-diseases]] — pests and diseases

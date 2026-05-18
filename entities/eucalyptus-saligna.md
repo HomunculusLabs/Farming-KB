@@ -33,7 +33,7 @@ Eucalyptus saligna, commonly known as **Sydney blue gum** or **blue gum**, is a 
 - **Pulpwood:** Widely used in pulp and paper production internationally
 - **Firewood:** Good quality firewood (pages 20, 94)
 - **Shelter and windbreaks:** Fast growth makes it suitable for tall shelterbelts
-- **Reforestation:** Widely used in plantation forestry worldwide, especially in Brazil, South Africa, and Australia
+- **Reforestation:** Widely used in [[plantation-forestry-carbon-dynamics]] worldwide, especially in Brazil, South Africa, and Australia
 - **[[soil-temperature-plant-growth-rate-doubling-rule]] provides rapid carbon capture
 
 ## Cultivation Notes
@@ -60,14 +60,14 @@ Eucalyptus saligna, commonly known as **Sydney blue gum** or **blue gum**, is a 
 - It is commonly considered a general-purpose hardwood.
 - Plantation managers value the species for predictable early growth.
 - It can produce pulpwood before sawlog rotations are complete.
-- In mixed farm forestry, that creates several possible harvest windows.
+- In mixed [[farm-forestry-design]], that creates several possible harvest windows.
 - Durable posts and structural uses require correct age, seasoning, and site quality.
 - The source's timber notes place it alongside other multipurpose farm trees.
 - For comparison with nitrogen-fixing timber crops, see [[gadd-fungal-carbon-sequestration]].
 - Leaf litter can influence understorey composition.
 - Dense stands may suppress pasture or garden crops through shade and moisture competition.
 - Wider spacing allows more light and easier access for harvest.
-- Shelterbelt plantings should consider fire behavior as well as wind protection.
+- Shelterbelt plantings should consider fire behavior as well as [[cervantes-wind-protection-outdoor-cannabis]].
 - Eucalypt oils, dry bark, and dropped branches can affect fuel loads.
 - In wet climates the tree may be productive, but it still needs thoughtful placement.
 - It is more suitable as a boundary, woodlot, or forestry block than as a close house tree.
@@ -77,7 +77,7 @@ Eucalyptus saligna, commonly known as **Sydney blue gum** or **blue gum**, is a 
 - Propagation is usually by seed.
 - Seedlings should be raised in containers that prevent root deformation.
 - Planting at the beginning of a wet season improves establishment.
-- Weed control may be needed only during the early establishment window.
+- [[aact-weed-control-and-soil-testing]] may be needed only during the early establishment window.
 - Mulch can reduce competition while protecting soil moisture.
 - Form pruning may improve future timber value.
 - Thinning is useful if the goal is large-diameter sawlogs.
@@ -87,10 +87,10 @@ Eucalyptus saligna, commonly known as **Sydney blue gum** or **blue gum**, is a 
 
 ## Constraints
 
-- The species is not highly drought tolerant.
+- The species is not highly [[drought-tolerant-planting-design]].
 - It can struggle in exposed frost pockets.
 - It is poorly suited to saline soils.
-- Susceptibility to insect pests and fungal problems increases under stress.
+- Susceptibility to [[duggar-mushroom-insect-pests-and-fungal-diseases]] fungal problems increases under stress.
 - Monitoring is therefore important in plantations outside its ideal range.
 - Where rainfall is marginal, more drought-adapted eucalypts may be better.
 - Where biodiversity is the goal, local native species should be prioritized.

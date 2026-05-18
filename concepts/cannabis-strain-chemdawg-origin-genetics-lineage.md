@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strain Chemdawg Origin Genetics Lineage
+title: Cannabis Strain Chemdawg Origin Story Genetics Origin Haze Genetics Lineage
 source: s-t-oner-the-rev-cannabis-sativa-volume-3.md
 tags: [cannabis, strain, chemdawg, genetics, lineage, sour-diesel, OG-kush]
 created: 2026-05-11
@@ -7,7 +7,7 @@ created: 2026-05-11
 
 # Chemdawg: Origin Story and Genetics Lineage
 
-Chemdawg is one of the most influential cannabis strains [[cannabis-genetics-and-breeding]],
+Chemdawg is one of the most influential [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] [[cannabis-genetics-and-breeding]],
 Chemdawg's exact origins are shrouded in mystery and conflicting accounts.
 What is certain is that this strain emerged from the American underground cannabis scene of the early 1990s and went on to fundamentally reshape the genetic landscape of modern cannabis.
 
@@ -17,7 +17,7 @@ The most widely circulated account of Chemdawg's origin involves a chance encoun
 Indiana,  during the band's 1991 summer tour. According to this narrative,
 the person who would become known as "Chemdawg" (the strain's namesake) was offered a small amount of exceptionally potent cannabis by a fellow concert-goer.
 The identity of the person who provided the original seeds or bud has never been publicly confirmed,
-and the story exists primarily as oral history within cannabis culture.
+and the story exists primarily as oral history within [[mckenna-cannabis-culture-history]].
 
 What is more reliably documented is that the original Chemdawg genetics were subsequently grown and stabilized by a small network of growers on the American East Coast.
 The strain was circulated within this underground community throughout the 1990s,
@@ -53,7 +53,7 @@ This morphological intermediacy is consistent with the hypothesized Nepalese-Tha
 as Nepalese varieties tend toward indica morphology while Thai varieties are classic tropical sativas.
 
 The buds are dense and resinous,
-with a tendency to develop significant trichome production relatively early in the flowering cycle.
+with a tendency to develop significant trichome production relatively early in the [[cannabis-photoperiod-flowering-cycle]].
 The calyx-to-leaf ratio is favorable,
 producing buds that are compact and heavily coated in resin glands.
 The coloration ranges from medium to dark green,
@@ -74,7 +74,7 @@ particularly caryophyllene (which contributes peppery,  spicy notes),
 limonene (citrus),  myrcene (earthy,  musky),
 and various sulfur-containing compounds that are responsible for the sharp,
 diesel-like quality.
-This unique terpene combination is one of Chemdawg's most important genetic contributions to its descendants,
+This unique terpene combination is one of Chemdawg's most important [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] to its descendants,
 as it has been transmitted to numerous offspring strains.
 
 ## Effects and Potency

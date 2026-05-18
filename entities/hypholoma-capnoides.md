@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
 # Hypholoma capnoides
@@ -45,7 +45,7 @@ and cap development is influenced by light and CO2 concentration.
 
 No formal medicinal properties have been documented for *Hypholoma capnoides*.
 However, [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*.
-- /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+- "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 
 *Last updated: 2026-04-28*
 ## Practical Considerations

@@ -1,5 +1,5 @@
 ---
-title: "comparison-cob-construction-vs-straw-bale-construction vs Cordwood Construction"
+title: "comparison-cob-construction-vs-straw-bale-construction Comparison Bamboo Vs Cordwood Construction"
 tags: [comparison, natural-building, construction, homesteading]
 date: 2026-05-08
 updated: 2026-05-08
@@ -11,12 +11,12 @@ sources: []
 ## Overview
 
 Straw bale and cordwood construction are two of the most accessible natural
-building methods for owner-builders. Both use inexpensive or free materials to
+[[query-what-are-the-best-natural-building-methods]] for owner-builders. Both use inexpensive or free materials to
 create walls with above-average insulation, but they differ fundamentally in
 structure, aesthetics, and the skills required. Straw bale walls are thick,
 plastered monoliths offering superb thermal performance, while cordwood walls
 reveal the exposed end-grain of short logs set in mortar, combining insulation
-with significant thermal mass.
+with significant [[comparison-windbreak-vs-thermal-mass]].
 
 ## Straw Bale Construction
 
@@ -30,7 +30,7 @@ insulation and reduce weight. Lime-based mortars offer self-healing cracks and
 better breathability than Portland cement mixes.
 
 Cordwood walls are extremely heavy (100 to 150 lbs per [[comparison-passive-solar-vs-earth-sheltered]]
-design where heat storage and slow release are desirable.
+design where heat storage and [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]] are desirable.
 
 ## Key Differences
 
@@ -54,7 +54,7 @@ design where heat storage and slow release are desirable.
 
 ## When to Choose Straw Bale
 
-Straw bale construction excels in cold climates where maximizing insulation
+Straw bale construction excels [[query-how-do-i-grow-figs-in-cold-climates]] where maximizing insulation
 is the priority. The high R-value per dollar makes it one of the most
 affordable paths to a super-insulated envelope. Owner-builders with minimal
 carpentry experience can learn the basics in a weekend workshop. The method
@@ -70,7 +70,7 @@ aesthetic.
 ## When to Choose Cordwood
 
 Cordwood construction is ideal for builders who want thermal mass combined
-with insulation -- a combination that works well with passive solar design in
+with insulation -- a combination that works well with [[passive-solar-design]] in
 climates with significant diurnal temperature swings. The exposed log ends
 create a visually striking wall that requires no additional finish, which
 appeals to builders who want the structure itself to be the finish surface.

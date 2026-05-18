@@ -1,5 +1,5 @@
 ---
-title: Effective Working Groups
+title: Effective Working Groups Community Organization
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

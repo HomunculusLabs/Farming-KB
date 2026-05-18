@@ -10,9 +10,9 @@ type: entity
 
 The ProSilva Network (also written ProSilva or Pro Silva) is a European federation
 of foresters, forest owners, and environmental advocates promoting nature-based
-forestry practices. Founded in 1989 at the first ProSilva European Forest
+[[mycelium-running-forestry-practices-and-mushrooms]]. Founded in 1989 at the first ProSilva European Forest
 Convention in Slovenia, the network advocates for a fundamental shift in forest
-management philosophy — from even-aged plantation forestry with clearfelling to
+[[holzer-vole-management-philosophy]] — from even-aged [[plantation-forestry-carbon-dynamics]] with clearfelling to
 continuous cover forestry (CCF) that maintains forest structure, biodiversity, and
 ecological function while still producing timber.
 
@@ -79,8 +79,8 @@ Australia.
 - **Timber and Mushroom Dual Production**: ProSilva-style forests can potentially
   integrate mushroom cultivation (e.g., shiitake on logs, truffle cultivation)
   with timber production in diversified management systems.
-- **Carbon and Nutrient Cycling**: The network's emphasis on natural decomposition
-  processes supports fungal-mediated carbon and nutrient cycling in forest
+- **Carbon [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]**: The network's emphasis on natural decomposition
+  processes supports fungal-mediated carbon and [[nutrient-cycling-in-soil]] forest
   ecosystems.
 - **Landscape-Scale Mycology**: ProSilva provides a framework for managing
   forested landscapes where wild mushroom harvesting (foraging) can be sustainable
@@ -88,6 +88,6 @@ Australia.
 
 ## Source References
 
-- David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability*
+- David Holmgren, *Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]*
   (2002), Principle 5, footnote 19: "The Prosilva Network of Nature based
   forestry."

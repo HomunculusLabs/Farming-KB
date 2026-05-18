@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 **Fermented Plant Juice (FPJ)** is a core [[foliar-pest-deterrence-aact-mechanisms]].
 * **Dropwort (Oenanthe javanica) FPJ:** Made from the aquatic plant water dropwort. High in minerals, particularly iron and silica. Used for leafy green vegetables and rice crops.
-* **Seaweed/Kelp FPJ:** Made from fresh seaweed collected from clean coastal waters. Extraordinarily rich in trace minerals (over 60 elements), alginates, cytokinins, and auxins. Used as a micronutrient supplement and [[ozier-pdc-composting-and-soil-building]] support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting [[aact-disease-suppression-mechanisms-ingham]]
+* **Seaweed/Kelp FPJ:** Made from [[ingham-fresh-seaweed-kelp-brewing-ingredients]] collected from clean coastal waters. Extraordinarily rich in [[dynamic-accumulator-plants-trace-minerals]] (over 60 elements), alginates, cytokinins, and auxins. Used as a micronutrient supplement and [[ozier-pdc-composting-and-soil-building]] support:** Dilute FPJ applied to soil feeds diverse [[cannabis-rhizosphere-microbial-communities]], supporting [[aact-disease-suppression-mechanisms-ingham]]
 
 ## Troubleshooting
 
@@ -42,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

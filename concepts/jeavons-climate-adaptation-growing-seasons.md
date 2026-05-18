@@ -5,7 +5,7 @@ tags: [biointensive, climate, growing-season, adaptation, jeavons]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
+  - ""raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
 type: concept
 ---
 

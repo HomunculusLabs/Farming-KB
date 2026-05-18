@@ -26,15 +26,15 @@ sources:
 
 ## At a Glance
 
-| Feature | Mangosteen (*[[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them|The Most]] cold-sensitive tropical fruits. Growth ceases below 20°C, and temperatures below 4°C are lethal. Even brief exposure to 10–15°C can cause leaf drop and stress. This extreme sensitivity limits mangosteen to strict lowland [[vegetative-propagation-methods-mollison]] have low success rates (40–70% with modern approach grafting, historically much lower). Fortunately, mangosteen is apomictic — seed-grown trees are genetically identical to the parent, which mitigates the usual drawbacks of seed propagation (variability, longer bearing age).
+| Feature | Mangosteen (*[[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cold-sensitive [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Growth ceases below 20°C, and temperatures below 4°C are lethal. Even brief exposure to 10–15°C can cause leaf drop and stress. This extreme sensitivity limits mangosteen to strict lowland [[vegetative-propagation-methods-mollison]] have low success rates (40–70% with modern approach grafting, historically much lower). Fortunately, mangosteen is apomictic — seed-grown trees are genetically identical to the parent, which mitigates the usual drawbacks of [[green-cannabis-grow-bible-cloning-and-seed-propagation]] (variability, longer bearing age).
 
-**Rambutan** is readily propagated by a variety of vegetative methods including patch budding, cleft grafting, approach grafting, and air-layering (marcotting). Success rates are high (80–95%), and grafted trees begin bearing in 2–3 years — dramatically faster than mangosteen. The ease of vegetative propagation also means that named varieties with specific fruit characteristics can be reliably reproduced.
+**Rambutan** is readily propagated by a variety of [[query-how-do-i-propagate-plants-from-cuttings-and-other-vegetative-methods]] including patch budding, cleft grafting, approach grafting, and air-layering (marcotting). Success rates are high (80–95%), and grafted trees begin bearing in 2–3 years — dramatically faster than mangosteen. The ease of [[hamilton-vegetative-propagation]] also means that named varieties with specific fruit characteristics can be reliably reproduced.
 
 ### Time to Production
 
 | Stage | Mangosteen | Rambutan |
 |---|---|---|
-| Seed germination | 14–21 days | 10–21 days |
+| [[cannabis-seed-germination]] | 14–21 days | 10–21 days |
 | Nursery period | 1–2 years | 6–12 months |
 | Time to first fruit | 8–15 years (seed) | 3–5 years (seed) |
 | Grafted time to fruit | 5–8 years (if available) | 2–3 years (standard) |
@@ -53,7 +53,7 @@ The long juvenile period of mangosteen represents a major investment of time and
 
 **Mangosteen**: Smooth, dark purple rind when ripe; white, translucent, segmented flesh; visually striking and immediately recognizable.
 
-**Rambutan**: Hairy, red or yellow exterior with flexible "spines"; translucent white or pale flesh clinging to a single seed; appearance is distinctive and exotic, though less universally appealing than mangosteen.
+**Rambutan**: Hairy, red or yellow exterior with flexible "spines"; translucent white or pale flesh clinging to a [[cervantes-selfing-single-seed-descent]]; appearance is distinctive and exotic, though less universally appealing than mangosteen.
 
 ### Flavor Profile
 

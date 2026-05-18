@@ -51,10 +51,10 @@ Sod killing is the process of converting an established grass-covered area into 
 
 ## Relevance to Cultivation and Mycology
 
-- **Mushroom bed establishment:** Sod must be fully killed and decomposed before establishing outdoor mushroom beds to prevent grass competition
-- **Mycorrhizal disruption:** Sod killing disrupts existing mycorrhizal networks; re-inoculation may be needed
-- **Soil biology reset:** Decomposing sod releases nutrients and stimulates microbial activity beneficial for mushroom cultivation
-- **Sheet mulching alternative:** Cardboard + substrate + mulch can both kill grass and establish mushroom habitat simultaneously
+- **[[growing-gourmet-outdoor-mushroom-bed-establishment]]:** Sod must be fully killed and decomposed before establishing [[cotter-outdoor-mushroom-garden-mulch-beds]] beds to prevent grass competition
+- **Mycorrhizal disruption:** Sod killing disrupts existing [[arbuscular-mycorrhizal-networks]]; re-inoculation may be needed
+- **Soil biology reset:** Decomposing sod releases nutrients and stimulates microbial activity beneficial [[grass-seed-substrate-for-mushroom-cultivation]]
+- **Sheet mulching alternative:** Cardboard + substrate + mulch can both kill grass and establish [[psilocybin-mushroom-habitat-and-ecology]] simultaneously
 - **Weed seed management:** Turning sod brings weed seeds to surface where they germinate; subsequent digging kills seedlings
 
 ## See Also
@@ -65,7 +65,7 @@ Sod killing is the process of converting an established grass-covered area into 
 
 ## Background and Context
 This topic connects to broader principles of sustainable land
-management and ecological design. Understanding the fundamentals
+[[weed-management-and-ecological-weed-control]] design. Understanding the fundamentals
 helps practitioners make informed decisions and adapt approaches
 to their specific conditions and goals.
 

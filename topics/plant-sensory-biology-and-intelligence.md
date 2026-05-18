@@ -6,8 +6,8 @@ tags: [plant-biology, sensory-ecology, plant-intelligence, botany,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/what-a-plant-knows-daniel-chamovitz.md
-  - /Users/t3rpz/wiki/raw/papers/tompkins-secret-life-of-plants.md
+  - "raw/papers/what-a-plant-knows-daniel-chamovitz.md"
+  - "raw/papers/tompkins-secret-life-of-plants.md"
 related_concepts:
   - companion-planting-and-polycultures
   - mycorrhizal-fungi

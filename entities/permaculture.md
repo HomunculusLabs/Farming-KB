@@ -15,8 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-  - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Permaculture

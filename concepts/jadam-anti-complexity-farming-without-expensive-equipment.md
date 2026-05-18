@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-A persistent theme in JADAM's teaching is the critique of unnecessary complexity in organic farming. Cho argues that the organic movement has been co-opted by equipment manufacturers and input suppliers who profit from making farming seem more complicated than it needs to be. This concept page examines JADAM's anti-complexity philosophy and its practical implications.
+A persistent theme in JADAM's teaching is the critique of unnecessary complexity in [[coleman-deep-organic-farming]]. Cho argues that the organic movement has been co-opted by equipment manufacturers and input suppliers who profit from making farming seem more complicated than it needs to be. This concept page examines JADAM's anti-complexity philosophy and its practical implications.
 
 ## The Complexity Trap
 
@@ -32,13 +32,13 @@ The dismissal of simple, accessible methods in favor of expensive equipment serv
 
 ### Against Frequent Turning
 
-"That you have to turn [[compost]] is a misperception. Look at solid fertilizers from the nutritional perspective also. You turn compost to provide oxygen and prevent overheating. The more you turn, the more nutrition is lost."
+"That you have to turn [[compost]] is a misperception. Look at solid fertilizers from the [[jadam-liquid-fertilizer-nutritional-perspective]] also. You turn compost to provide oxygen and prevent overheating. The more you turn, the more nutrition is lost."
 
 JADAM challenges the conventional wisdom that compost must be frequently turned. While turning does provide oxygen and prevent overheating, it also causes nutrient loss through volatilization and oxidation. For the small-scale farmer, the nutrient loss from turning outweighs the benefits.
 
 ### The Nutritional Perspective
 
-"Look and judge organic farming inputs with a nutritional perspective. Minimizing nutritional loss is the goal: light and air should be tightly blocked out."
+"Look and judge [[jadam-making-organic-farming-inputs]] with a nutritional perspective. Minimizing nutritional loss is the goal: light and air should be tightly blocked out."
 
 The nutritional perspective reframes the question from "how do I make the best compost?" to "how do I retain the most nutrients?" The answer favors anaerobic methods that minimize exposure to air and light.
 
@@ -70,7 +70,7 @@ JADAM distinguishes between industrial-scale composting, which requires aeration
 
 ### Zero-Input Purity
 
-"Some zero-input advocates from Japan use vinegar for pest control. That is literally not zero-input. Applying vinegar is same as providing foliar fertilizer."
+"Some zero-input advocates from Japan use vinegar [[insectary-plants-for-pest-control]]. That is literally not zero-input. Applying vinegar is same as providing foliar fertilizer."
 
 JADAM maintains intellectual rigor by rejecting claims that don't withstand scrutiny. The "zero-input" label should mean what it says.
 
@@ -94,7 +94,7 @@ Documentation of procedures and outcomes supports both personal learning and com
 
 ## Future Directions
 
-Ongoing research and technological development continue to expand the possibilities within this field. Emerging areas of interest include improved monitoring tools, optimized formulations based on microbiome science, and integration with precision agriculture systems. Climate adaptation strategies are becoming increasingly important as practitioners respond to changing environmental conditions.
+Ongoing research and technological development continue to expand the possibilities within this field. Emerging areas of interest include improved monitoring tools, optimized formulations based on microbiome science, and integration with precision agriculture systems. Climate [[mollison-designers-climate-change-adaptation-strategies]] are becoming increasingly important as practitioners respond to changing environmental conditions.
 
 Community knowledge-sharing through online platforms, workshops, and demonstration sites accelerates innovation and reduces barriers to entry for new practitioners. The combination of rigorous scientific methodology with practical field experience promises continued advancement in both understanding and application.
 
@@ -102,4 +102,4 @@ Community knowledge-sharing through online platforms, workshops, and demonstrati
 
 - [[jadam-organic-farming-ultra-low-cost-agriculture-philosophy]] — System overview
 - [[jadam-sea-mineral-fertilizer-simplified-soil-management]] — Simplified techniques
-- [[jadam-soil-management-middle-way-root-health]] — Soil management principles
+- [[jadam-soil-management-middle-way-root-health]] — [[jadam-soil-management-principles]]

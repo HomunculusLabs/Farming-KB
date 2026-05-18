@@ -9,7 +9,7 @@ tags: [fungi, basidiomycota, agaricomycetes, boletales, boletaceae, boletus, xer
 
 ## Description
 
-Boletus subtomentosus (also known as the suede bolete or olive-red boletus; sometimes placed in Xerocomus) is a medium-to-large bolete mushroom with a dull olive-brown to yellowish-brown cap that has a finely velvety (tomentose) surface texture. The pore surface on the underside is yellow, sometimes with olivaceous tones, and may bruise blue when handled. The stem is solid, typically yellowish with some reddish-brown staining toward the base. The flesh is pale yellow and may show a faint blueing reaction when cut. This species is notable in mycological history as a case study in how environmental conditions can transform an edible mushroom into one that causes illness.
+Boletus subtomentosus (also known as the suede bolete or olive-red boletus; sometimes placed in Xerocomus) is a medium-to-large bolete mushroom with a dull olive-brown to yellowish-brown cap that has a finely velvety (tomentose) surface texture. The pore surface on the underside is yellow, sometimes with olivaceous tones, and may bruise blue when handled. The stem is solid, typically yellowish with some reddish-brown staining toward the base. The flesh is pale yellow and may show a faint blueing reaction when cut. This species is notable in mycological history as a case study in how environmental conditions can transform an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] into one that causes illness.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Boletus subtomentosus (also known as the suede bolete or olive-red boletus; some
 - **Tubes:** Yellow, fairly long, depressed around the stem
 - **Stem:** 5-10 cm tall, solid, cylindrical or slightly tapered; yellowish with reddish-brown staining near base; lacking reticulation
 - **Flesh:** Pale yellow in cap, staining faintly blue when cut; soft and spongy when waterlogged
-- **Spore print:** Olive-brown
+- **[[boil-a-bag-spore-print-technique-jarrold]]:** Olive-brown
 - **Taste/odor:** Mild, pleasant when fresh
 
 ## Key Facts
@@ -55,16 +55,16 @@ Palmer demonstrated the chemical change using litmus paper, showing the mushroom
 - Ectomycorrhizal with broadleaf trees (especially oaks) and conifers
 - Found in forests, woodland edges, and parklands
 - Prefers well-drained, acidic soils
-- Widespread across Europe and North America
+- Widespread across Europe and [[guzman-psilocybin-mushrooms-north-america]]
 - Season: Summer to autumn
 - Often found in the same locations year after year
 
 ## Relevance to Cultivation and Mycology
 
-- **Edibility testing:** A key example in mycological literature of how environmental conditions and specimen freshness affect edibility
+- **[[mushroom-edibility-testing-safety-protocols]]:** A key example in mycological literature of how environmental conditions and specimen freshness affect edibility
 - **Chemical decomposition:** Demonstrates that post-harvest chemical changes can render edible species harmful through acidulous fermentation
 - **Identification marker:** The blueing reaction, while often associated with toxicity, occurs in this edible species — showing color change alone is unreliable
-- **Foraging safety:** Only young specimens with firm, solid substance too hard to admit fermentation should be consumed
+- **[[mushroom-foraging-safety]]:** Only young specimens with firm, solid substance too hard to admit fermentation should be consumed
 - **Taxonomic note:** Some modern authorities place this species in the genus Xerocomus based on molecular phylogenetics
 - **Teaching value:** Frequently cited in foraging guides as an example of why condition matters as much as species identification
 

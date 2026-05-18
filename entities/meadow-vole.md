@@ -9,7 +9,7 @@ tags: [pests, rodents, greenhouse-pests, organic-farming]
 
 ## Description
 
-The meadow vole (*Microtus pennsylvanicus*) is a small rodent pest that poses significant challenges in winter greenhouse vegetable production. In *The Winter Harvest Handbook*, Coleman discusses meadow voles at pp. 175-178 as one of the most persistent and damaging pests in unheated and minimally heated [[mobile-greenhouse]] structures. Their presence in winter greenhouses represents a unique pest management challenge specific to protected winter cropping.
+The meadow vole (*Microtus pennsylvanicus*) is a small rodent pest that poses significant challenges in winter greenhouse [[coleman-french-historical-winter-vegetable-production]]. In *The [[eliot-coleman-and-the-winter-harvest-handbook]]*, Coleman discusses meadow voles at pp. 175-178 as one of the most persistent and damaging pests in unheated and minimally heated [[mobile-greenhouse]] structures. Their presence [[weed-control-in-winter-greenhouses]] represents a unique pest management challenge specific to protected winter cropping.
 
 ## Classification
 
@@ -35,7 +35,7 @@ The meadow vole (*Microtus pennsylvanicus*) is a small rodent pest that poses si
 
 ## Behavior in Greenhouse Environments
 
-Meadow voles become especially problematic in winter greenhouse production for several reasons:
+Meadow voles become especially problematic in [[economics-of-winter-greenhouse-production]] for several reasons:
 
 - **Shelter**: Greenhouses provide habitat free from predators and harsh winter weather
 - **Food**: Dense, low-growing winter crops (mache, spinach, claytonia) provide ideal foraging
@@ -78,13 +78,13 @@ In organic systems, vole control must avoid rodenticides and emphasizes preventi
 
 ## Relevance to Cultivation
 
-Meadow voles represent a unique challenge specific to winter greenhouse production that conventional field growers rarely face at the same intensity. The warm, protected greenhouse environment creates an artificial habitat that concentrates vole populations during the season when natural food sources are scarce and predators are less active. Understanding vole biology and behavior is essential for organic growers using unheated greenhouse systems, as failure to manage vole populations can result in significant crop losses during the high-value winter production season.
+Meadow voles represent a unique challenge specific to winter greenhouse production that conventional field growers rarely face at the same intensity. The warm, protected greenhouse environment creates an artificial habitat that concentrates vole populations during the season when natural food sources are scarce and predators are less active. Understanding vole biology and behavior is essential for organic growers using [[cold-house-unheated-greenhouse]] systems, as failure to manage vole populations can result in significant crop losses during the high-value winter production season.
 
 ## Connections
 
 - **Mobile Greenhouses** — greenhouse movement strategy affects vole populations (pp. 105-117)
 - **Winter Crops** — low-growing winter greens provide ideal vole habitat (pp. 33-34)
-- **Organic Farming** — vole control must comply with organic standards, prohibiting rodenticides (pp. 203-205)
+- **[[coleman-deep-organic-farming]]** — vole control must comply with organic standards, prohibiting rodenticides (pp. 203-205)
 - **Crop Debris Management** — debris removal reduces vole habitat (pp. 139-140)
 - **[[cover-crops]]** — can provide vole habitat if not managed carefully (p. 124)
 

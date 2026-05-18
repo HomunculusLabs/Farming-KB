@@ -5,7 +5,7 @@ tags: [psychedelics, tryptamine, language, glossolalia, consciousness]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md
+  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 type: concept
 ---
 

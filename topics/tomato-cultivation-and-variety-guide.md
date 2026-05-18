@@ -5,12 +5,12 @@ tags: [tomatoes, solanaceae, vegetable-cultivation, organic-gardening, greenhous
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/concepts/tomato-growing-guide.md
-  - /Users/t3rpz/wiki/raw/concepts/growing-tomatoes-organically.md
-  - /Users/t3rpz/wiki/raw/concepts/hamilton-tomato-growing-organic.md
-  - /Users/t3rpz/wiki/raw/concepts/solomon-growing-tomatoes.md
-  - /Users/t3rpz/wiki/raw/concepts/tomato-pepper-eggplant-growing-guide.md
-  - /Users/t3rpz/wiki/raw/concepts/coleman-vertical-trellis-growing-greenhouse-tomatoes.md
+  - "raw/concepts/tomato-growing-guide.md"
+  - "raw/concepts/growing-tomatoes-organically.md"
+  - "raw/concepts/hamilton-tomato-growing-organic.md"
+  - "raw/concepts/solomon-growing-tomatoes.md"
+  - "raw/concepts/tomato-pepper-eggplant-growing-guide.md"
+  - "raw/concepts/coleman-vertical-trellis-growing-greenhouse-tomatoes.md"
 related_concepts:
   - tomato-growing-guide
   - growing-tomatoes-organically

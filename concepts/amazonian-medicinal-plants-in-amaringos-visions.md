@@ -5,7 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [reference]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/amaringo-p-ayahuasca-visions.md
+  - "raw/papers/amaringo-p-ayahuasca-visions.md"
 ---
 
 # Amazonian Medicinal Plants in Amaringo's Visions

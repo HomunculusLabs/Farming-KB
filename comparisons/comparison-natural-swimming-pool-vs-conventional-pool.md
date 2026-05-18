@@ -1,5 +1,5 @@
 ---
-title: "Natural Swimming Pool vs Conventional Pool"
+title: "Mollison Designers Natural Swimming Pools And Water Purification Pool vs Conventional Pool"
 created: 2026-04-28
 tags:
   - natural-swimming-pool
@@ -13,12 +13,12 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - Littlewood, Michael. Natural Swimming Pools: A Guide for Building.
+  - Littlewood, Michael. [[septic-tanks-and-natural-swimming-pools]]: A Guide for Building.
     Hygia Press, 2015.
   - "Natural Swimming Pools/Ponds." BioNova Natural Pools, 2023.
-  - "Residential Swimming Pools: Health and Safety Considerations." EPA,
+  - "Residential Swimming Pools: Health [[ayahuasca-tourism-practitioners-and-safety-considerations]]." EPA,
     2022.
-  - Wagenführ, Rainer, and Werner Pötschke. "Biological Water Purification
+  - Wagenführ, Rainer, and Werner Pötschke. "[[biological-water-purification]]
     in Natural Swimming Pools." Journal of Applied Phycology, vol. 30, 2018.
   - "Pool and Spa Maintenance Guidelines." CDC, 2023.
 type: comparison
@@ -31,7 +31,7 @@ two fundamentally different approaches to creating a backyard swimming
 environment. Conventional pools rely on chemical disinfectants — primarily
 chlorine, along with algaecides, clarifiers, and pH adjusters — to maintain
 water clarity and kill pathogens. Natural swimming pools use biological
-filtration zones planted with aquatic plants, along with beneficial bacteria and
+filtration zones planted with aquatic plants, along with [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] and
 substrate media, to purify water through ecological processes similar to those
 found in wetlands and lakes.
 
@@ -66,7 +66,7 @@ use and ecological integration.
 - **Biodiversity**: NSPs create habitat for amphibians, insects, and birds.
   Conventional pools are ecological dead zones in the landscape.
 - **Carbon footprint**: NSP construction has a slightly higher embodied carbon
-  footprint due to the larger excavation and substrate materials, but lower
+  footprint due to the larger excavation and [[growing-gourmet-substrate-materials-wood-types]], but lower
   ongoing carbon emissions from reduced chemical manufacturing and transport.
 
 ## Maintenance Comparison
@@ -82,5 +82,5 @@ debris from the water surface, ensure pump is running, monitor water clarity.
 
 ## See Also
 
-- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation|Bioremediation Using Fungi]]
-- [[singh-constructed-wetlands-fungal-wastewater-treatment|Constructed Wetlands]]
+- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]]
+- [[singh-constructed-wetlands-fungal-wastewater-treatment]]

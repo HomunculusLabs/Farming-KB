@@ -18,7 +18,7 @@ prosperity and reduce environmental impact.
 Lovins argues that the application of natural design principles — integration,
 feedback loops, zero waste, and closed-loop systems (which he explicitly connects
 to [[permaculture]] thinking) — to industrial and business processes is creating a
-"second industrial revolution" characterised by doing more with less. His 1997
+"second [[mckenna-caffeine-coffee-and-industrial-revolution]]" characterised by doing more with less. His 1997
 book *Factor Four: Doubling Wealth — Halving Resource Use* (co-authored with
 Ernst von Weizsäcker and L. Hunter Lovins) became a seminal text in the green
 technology movement.
@@ -46,12 +46,12 @@ environmental benefit.
   and resource consumption, and even "Factor 10" improvements as a longer-term
   goal.
 - Argues that redesign of manufacturing processes driven by market forces is
-  rapidly producing examples of radical resource efficiency.
+  rapidly producing examples of radical [[permaculture-energy-cycling-and-resource-efficiency]].
 - Believes that natural design principles (integration, feedback, no waste)
   applied to industrial processes constitute a second industrial revolution.
 - His home and office in Snowmass, Colorado, demonstrated [[passive-solar-design]]
   principles, maintaining comfortable temperatures without central heating in a
-  harsh mountain climate.
+  harsh [[mollison-valley-and-mountain-climate-effects]].
 - Coined the term "negawatts" to describe energy saved through efficiency
   measures, arguing that saving energy is cheaper and more practical than
   producing more.
@@ -71,7 +71,7 @@ environmental benefit.
   applied to [[mushroom-cultivation]] and broader agricultural systems to identify
   opportunities for doubling output while halving resource inputs.
 - **Closed-Loop Systems**: The zero-waste principle Lovins advocates aligns
-  directly with circular substrate management in mushroom cultivation, where
+  directly with circular substrate management [[contamination-prevention-in-mushroom-cultivation]], where
   spent substrate becomes compost or animal feed.
 - **Energy in Agriculture**: Lovins' analysis of energy efficiency is relevant
   to evaluating the energy costs of controlled environment mushroom cultivation
@@ -89,6 +89,6 @@ environmental benefit.
 
 ## Source References
 
-- [[david-holmgren]], *Permaculture: Principles and Pathways Beyond Sustainability*
-  (2002), Principle 6: Produce No Waste — A Second Industrial Revolution section.
+- [[david-holmgren]], *Permaculture: Principles and [[permaculture-principles-pathways-beyond-sustainability]]*
+  (2002), Principle 6: [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]] — A Second Industrial Revolution section.
 - Footnote 12: Identified as a green technology optimist.

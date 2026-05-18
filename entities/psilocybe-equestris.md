@@ -6,7 +6,7 @@ tags: [fungi, psilocybe, psychedelic-mushroom, entheogen, agaricales]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/stamets-psilocybin-mushrooms-of-the-world.md"
+  - ""raw/papers/stamets-psilocybin-mushrooms-of-the-world.md"
 ---
 
 # Psilocybe equestris

@@ -11,22 +11,22 @@ sources: []
 ## Overview
 
 [[st-johns-wort-guide]] are two of the most
-widely used medicinal herbs in Western herbalism, yet they serve markedly
+widely used [[medicinal-herbs-for-livestock]] in Western herbalism, yet they serve markedly
 different primary functions. Chamomile is the quintessential gentle nervine,
 best known for promoting relaxation, easing digestive discomfort, and
 supporting sleep. St. John's Wort is a more potent herb renowned for its
 antidepressant properties and its vivid red oil used topically for nerve
 pain and wound healing. While both herbs influence the nervous system, their
-active compounds, safety profiles, cultivation requirements, and ideal use
+active compounds, safety profiles, [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]], and ideal use
 cases differ substantially. Understanding these distinctions helps growers
-and herbalists choose the right plant for their needs and use each safely.
+and herbalists [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] plant for their needs and use each safely.
 
 ## Chamomile
 
 [[st-johns-wort-guide]]
 St. John's Wort ([[hypericum-perforatum]]) is a hardy perennial in the
 Hypericaceae family, native to Europe and now naturalized across much of
-North America. Its name comes from flowering around St. John's Day (June
+[[guzman-psilocybin-mushrooms-north-america]]. Its name comes from flowering around St. John's Day (June
 24). The plant contains hypericin and hyperforin, compounds that influence
 serotonin, dopamine, and norepinephrine reuptake, making it one of the most
 clinically studied herbal antidepressants.
@@ -53,12 +53,12 @@ peak potency.
 | Primary use | Relaxation, sleep, digestion | Depression, nerve pain |
 | Key compounds | Apigenin, chamazulene, bisabolol | Hypericin, hyperforin |
 | Preparation | Tea, tincture, bath | Tincture, oil infusion, capsule |
-| Safety profile | Very safe, gentle | Significant drug interactions |
+| Safety profile | Very safe, gentle | Significant [[ayahuasca-drug-interactions]] |
 | Potency | Mild, gentle nervine | Moderate to strong |
 | Lifecycle | Annual (German) or perennial (Roman) | Perennial |
 | Growth habit | Upright annual or low ground cover | Upright bushy perennial |
 | Invasiveness | Low (self-seeds modestly) | Can be aggressive spreader |
-| Harvest window | Spring through fall | Mid-summer only |
+| [[harvest-window-cannabis]] | Spring through fall | Mid-summer only |
 | Child safety | Generally safe | Not recommended for children |
 
 ## When to Choose Chamomile

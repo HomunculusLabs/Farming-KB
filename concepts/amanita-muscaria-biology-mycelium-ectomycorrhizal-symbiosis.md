@@ -1,5 +1,5 @@
 ---
-title: "Amanita Muscaria Biology Mycelium Ectomycorrhizal Symbiosis"
+title: "Allegro Amanita Muscaria Properties And Pharmacology Biology Mycelium Ectomycorrhizal Symbiosis"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -57,17 +57,17 @@ Mycelium can live for **decades, even centuries**, making it effectively perenni
 is the "immortal" aspect referenced in [[ectomycorrhizal-associations]] with **birch** (*Betula*
 spp.), **pine** (*Pinus* spp.), **spruce** (*Picea* spp.), **fir** (*Abies* spp.), and
 a variety of other coniferous and deciduous trees. The fly agaric is especially common
-in birch and pine forests across the Northern Hemisphere — its global distribution
+in birch and pine forests across the Northern Hemisphere — its [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 closely mirrors the range of these tree genera, because the fungus cannot survive
 without its arboreal partner.
 
 ### Network Scale
 
-The mycelial network of a single *Amanita muscaria* individual can be remarkably vast.
+The [[beber-mycelial-network-graph-theory-cord-routing]] of a single *Amanita muscaria* individual can be remarkably vast.
 A single fungal genet (genetically identical individual) may spread across hundreds of
 square meters of forest floor, connecting to the root systems of many different trees.
-In this way, ectomycorrhizal fungi create a hidden **"[[wood-wide-web]]"** — an underground
-network through which nutrients, chemical signals, and possibly even resources can be
+In this way, [[ectomycorrhizal-fungi]] create a hidden **"[[wood-wide-web]]"** — an underground
+network through which nutrients, [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], and possibly even resources can be
 transferred between trees. This network is essential to overall forest health, stability,
 and resilience.
 
@@ -88,6 +88,6 @@ profoundly mysterious, even supernatural.
 The concept of the **"Tree of Life"** in ancient mythology may encode knowledge of this
 symbiosis. The fungus lives *within* the roots of the tree; the mushroom is the fruit
 of both. The tree is perennial, the fungus is perennial, and together they sustain the
-forest ecosystem across generations. To ancient observers, the mushroom that appeared
+[[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] across generations. To ancient observers, the mushroom that appeared
 and disappeared from beneath sacred trees — returning again and again, as if deathless —
 was a natural symbol of immortality, resurrection, and the cycle of life and renewal.

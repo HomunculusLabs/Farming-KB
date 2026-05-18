@@ -1,5 +1,5 @@
 ---
-title: "Earthship vs Earthbag Construction"
+title: "Earthship Straw Bale Construction Vs Earthbag Construction"
 tags: [comparison, natural-building, earthship, earthbag, off-grid, sustainable-housing]
 date: 2026-05-12
 updated: 2026-05-12
@@ -52,7 +52,7 @@ water, or waste systems.
 | **Labor Intensity** | Very high (tire packing) | Moderate (bag filling) |
 | **Skill Required** | Moderate to high | Low (weekend learnable) |
 | **Best Shape** | U-shaped, south-facing | Any form (domes, curves) |
-| **Thermal Mass** | Excellent (tire walls) | Excellent (earth walls) |
+| **[[comparison-windbreak-vs-thermal-mass]]** | Excellent (tire walls) | Excellent (earth walls) |
 | **Seismic Resistance** | Good | Excellent (flexible walls) |
 | **Permitting** | Very difficult | Difficult to moderate |
 
@@ -63,7 +63,7 @@ and you are willing to commit to a demanding, multi-month construction
 process. Earthships are ideal for off-grid homesteads in arid or
 semi-arid climates with good southern exposure and reliable solar
 resource. They make the most sense for permanent residences where
-the integrated water harvesting, greywater treatment, and indoor
+the integrated water harvesting, [[mollison-designers-greywater-treatment-reedbeds]], and indoor
 food production systems will be fully utilized over decades.
 
 Earthships shine when the site has limited access to municipal
@@ -71,7 +71,7 @@ utilities and the builder wants total energy and water independence.
 They are best suited to people who plan to live in the home long-term,
 as the upfront investment is substantial but utility costs drop to
 near zero. The indoor greenhouse is a major advantage in cold
-climates with short growing seasons.
+climates with short [[jeavons-climate-adaptation-growing-seasons]].
 
 ## When to Choose Earthbag
 
@@ -80,14 +80,14 @@ structure and are willing to add energy, water, and waste systems
 separately. Earthbag is ideal for emergency shelters, outbuildings,
 root cellars, garden walls, and any structure where speed and cost
 matter more than integrated systems. It excels in seismic zones
-due to the flexible, monolithic wall construction.
+due to the flexible, monolithic [[dam-wall-construction-and-earth-tanks]].
 
 Earthbag is also the better choice for builders who want design
 flexibility — domes, curved walls, and freeform shapes are all
 achievable. The low cost makes it accessible to builders with
 limited budgets, and the simple technique means community workshops
 can produce real structures in days rather than weeks. Earthbag
-domes, in particular, provide extraordinary structural strength
+domes, in particular, provide extraordinary [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
 without any wooden roof framework.
 
 ## Combined Approaches

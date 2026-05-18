@@ -1,5 +1,5 @@
 ---
-title: "Maitake vs Oyster Cultivation"
+title: "Maitake Comparison Cordyceps Vs Oyster Cultivation"
 tags: [comparison, maitake, oyster, mushroom-cultivation, medicinal-mushrooms]
 date: 2026-05-11
 updated: 2026-05-11
@@ -32,11 +32,11 @@ markets.
 Cultivation is considerably more demanding than oyster or shiitake. Maitake is
 highly aerobic, requiring significantly more oxygen during fruiting than most
 cultivated species. The substrate must be precisely formulated — typically a
-supplemented hardwood sawdust blend — and fully sterilized rather than merely
+supplemented [[hardwood-sawdust-substrate]] blend — and fully sterilized rather than merely
 pasteurized. Spawn run takes 30-45 days, much longer than oyster's 10-14 days.
 
-Fruiting requires a specific sequence of environmental triggers: mycelial coat
-formation, followed by primordia initiation at lower temperatures (13-18°C),
+Fruiting requires a specific sequence of [[fungal-fruiting-body-formation-environmental-triggers]]: mycelial coat
+formation, followed by [[chen-maitake-primordia-initiation-fruiting]] at lower temperatures (13-18°C),
 then careful management of humidity, CO2, and airflow to produce well-formed
 clusters. Deformed fruiting bodies result from even minor deviations in oxygen
 or humidity. Dedicated grow rooms are recommended, as maitake should not share
@@ -71,7 +71,7 @@ with minimal specialized equipment, oyster mushrooms are the clear choice.
 Oyster cultivation also scales well. Commercial operations can stack substrate
 bags on shelving in simple rooms with basic humidification and ventilation.
 Multiple species within the genus allow growers to diversify their product line
-without learning entirely new cultivation parameters.
+without learning entirely new [[mushroom-species-cultivation-parameters]].
 
 ## When to Choose Maitake
 
@@ -86,7 +86,7 @@ Successful maitake cultivation requires dedicated fruiting chambers with precise
 temperature, humidity, CO2, and airflow control. It is best suited to growers
 who already have experience with shiitake or other intermediate species and want
 to move into a higher-value niche. The longer crop cycle means cash flow moves
-more slowly, so financial planning should account for the 8-12 week turnaround.
+more slowly, so [[homestead-financial-planning]] should account for the 8-12 week turnaround.
 
 ## Combined Use
 

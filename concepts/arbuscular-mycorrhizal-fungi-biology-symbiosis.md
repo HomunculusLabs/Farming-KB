@@ -5,7 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 # Arbuscular Mycorrhizal Fungi — Biology and Symbiosis
 Arbuscular mycorrhizal (AM) fungi are among the most ecologically important

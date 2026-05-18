@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clarke, C.M. (2001). "Nepenthes of Sumatra and Peninsular Malaysia." Natural History Publications.
+  - Clarke, C.M. (2001). "Nepenthes of Sumatra and Peninsular Malaysia." [[stropharia-cubensis-identification-and-natural-history]] Publications.
   - Murphy, D. (2018). "Nepenthes: The Tropical Pitcher Plants." Redfern Natural History Productions.
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
   - McPherson, S. & Robinson, A. (2012). "ghouled-field-guide-historical-context to the Pitcher Plants of Borneo." Redfern Natural History Productions.
@@ -40,7 +40,7 @@ Authority: Jack (1835). The epithet refers to the small flask-shaped lower pitch
 
 N. ampullaria is found across Borneo, Sumatra, Peninsular Malaysia, southern Thailand, Singapore, and New Guinea. It occurs from sea level to approximately 2100 m elevation.
 
-The species is strongly associated with disturbed and secondary forest habitats. It frequently colonizes road cuts, logged areas, and forest margins where light penetration increases.
+The species is strongly associated with disturbed and [[pioneering-secondary-forest-and-lantana]] habitats. It frequently colonizes road cuts, logged areas, and forest margins where light penetration increases.
 
 Unlike most Nepenthes, N. ampullaria thrives in deep shade. It is commonly found on the rainforest floor beneath a closed canopy, often in leaf-litter-rich sites.
 
@@ -48,7 +48,7 @@ It grows as a terrestrial or lithophytic plant. Substrates include peat swamps, 
 
 ## Trapping Mechanism
 
-N. ampullaria employs a unique trapping strategy that distinguishes it from most other Nepenthes. Its lower pitchers are positioned horizontally or angled upward to intercept falling leaf litter.
+N. ampullaria employs a unique trapping strategy that distinguishes it from most other Nepenthes. Its lower pitchers are positioned horizontally or angled upward to intercept falling [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]].
 
 The broad peristome is often partially submerged in accumulated rainwater and debris. Insects that enter to feed on the decomposing [[edaphic-factors-microbial-community-structure]] involved in [[decomposition]].
 

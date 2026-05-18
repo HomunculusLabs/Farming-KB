@@ -5,7 +5,7 @@ tags: [ethnobotany, nightshade, tropane-alkaloids, witchcraft]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 type: concept
 ---
 

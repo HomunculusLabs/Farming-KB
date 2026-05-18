@@ -1,5 +1,5 @@
 ---
-title: Mckenna Dmt Hyperspace Translinguistic Matter
+title: Mckenna Dmt Hyperspace Mckenna Exteriorization Soul Translinguistic Matter
 aliases: [DMT hyperspace, translinguistic matter, mckenna-hyperspace-and-human-freedom, DMT mode shift]
 tags: [psychedelics, consciousness, DMT, philosophy, tryptamines, phenomenology]
 source: mckenna_t-tryptamines_consciousness.md
@@ -12,7 +12,7 @@ DMT (N,N-dimethyltryptamine) produces what [[leary-psychedelic-experience-bardo-
 the experience begins in approximately fifteen seconds, making it one of the
 fastest-acting psychoactive compounds known. The experiencer falls immediately
 into a trance state, hearing a sound described as "[[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping
-out of the organic matrix." The experience is so overwhelming that despite living in
+out of the [[mckenna-radio-entelechy-organic-matrix-ripping]]." The experience is so overwhelming that despite living in
 a society "absolutely obsessed with every kind of sensation imaginable" that
 "adores every therapy, every intoxication, every sexual configuration, and all
 forms of media overload," people find DMT to be too much. It is, as they say in
@@ -25,12 +25,12 @@ DMT molecule, and one experiences the mode shift occurring over a period of abou
 thirty seconds. At that point one arrives in a place that defies description, a
 space that has a feeling of being underground, or somehow insulated and domed.
 
-McKenna referenced James Joyce's *Finnegans Wake*, calling this space the "merry go
+McKenna referenced James Joyce's *[[dmt-finnegans-wake-and-the-merry-go-raum]]*, calling this space the "merry go
 raum" (from the German word *raum*, meaning "space"). The room is actually going
 around, and in that space one feels like a child, though one has come out somewhere
 in eternity.
 
-This phenomenological profile is unique to the tryptamine family of compounds.
+This phenomenological profile is unique to the [[tryptamine-family-overview]] of compounds.
 While LSD, mescaline, and other classical psychedelics produce visual alterations
 of consciousness, none match the sheer intensity and concentration of visual cortex
 activity found with DMT. The interior landscapes possess an "immense vividness," as
@@ -57,11 +57,11 @@ language that cannot be translated into English—a [[mckenna-translinguistic-ob
 
 When humans encounter this translinguistic information, the hindbrain attempts to
 overlay language upon it, and it "sheds it like water off a duck's back." One tries
-again and fails again, and this cognitive dissonance causes wonder, astonishment,
+again and fails again, and this [[mckenna-cognitive-dissonance-translinguistic-object]] causes wonder, astonishment,
 and awe at the brink of terror.
 
 McKenna described the experience as a "declension of gnosis" that proved to him
-"in a moment that right here and now, one quanta away, there is raging a universe
+"in a moment that right here and now, [[mckenna-1966-ontological-crisis-declension-gnosis-one-quanta-away]], there is raging a universe
 of active intelligence that is transhuman, hyperdimensional, and extremely alien."
 
 He called it the Logos, and said he made no judgments about it, constantly engaging

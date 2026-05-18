@@ -7,7 +7,7 @@ tags: [medicinal-mushrooms, cancer, immunotherapy, beta-glucans, clinical-trials
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - /Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md
+  - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
 related_concepts:
   - cancer-medicinal-mushrooms-turkey-tail-psk-and-psp
   - cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials

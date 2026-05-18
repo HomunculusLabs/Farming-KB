@@ -1,5 +1,5 @@
 ---
-title: Secret Societies Entheogenic Knowledge
+title: Entheogenic Knowledge Secret Societies Mckenna Sect Of The Phoenix And Secret Entheogenic Knowledge
 source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---

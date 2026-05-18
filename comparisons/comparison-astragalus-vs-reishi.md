@@ -10,13 +10,13 @@ sources: []
 
 ## Overview
 
-Astragalus (*Astragalus membranaceus*) and Reishi (*Ganoderma lucidum*) represent two
+Astragalus (*[[astragalus-membranaceus]]*) and Reishi (*[[ganoderma-lucidum]]*) represent two
 of the most revered medicinal substances in traditional healing systems worldwide.
 While Astragalus is a perennial flowering plant from the legume family used
 primarily in Traditional Chinese Medicine (TCM), Reishi is a polypore mushroom
 with a 2,000-year history across East Asian medicine. Both are classified as
 premier adaptogens—substances that help the body maintain homeostasis and resist
-the damaging effects of stress—yet they offer distinct therapeutic profiles and
+the damaging effects of stress—yet they offer distinct [[cannabis-sativa-vs-indica-therapeutic-profiles]] and
 applications.
 
 ## Astragalus
@@ -34,7 +34,7 @@ Reishi's therapeutic profile is dominated by two major compound classes:
 triterpenes (ganoderic acids) and polysaccharides (beta-glucans). The
 bitter-tasting ganoderic acids demonstrate significant anti-inflammatory,
 hepatoprotective, and anti-tumor properties through modulation of NF-κB and
-other signaling pathways. The polysaccharides provide profound immunomodulatory
+other [[plant-signaling-pathways]]. The polysaccharides provide profound immunomodulatory
 effects, particularly through activation of dendritic cells and enhancement of
 natural killer cell activity.
 
@@ -62,9 +62,9 @@ regulation and cholesterol reduction.
 ## When to Choose Astragalus
 
 Astragalus is optimal for building foundational energy and immune resilience.
-Choose Astragalus for chronic fatigue, weakness following illness, frequent
+Choose Astragalus for [[cannabis-chronic-fatigue-research]], weakness following illness, frequent
 infections, digestive weakness with poor appetite, organ prolapse conditions,
-supportive therapy during cancer treatment, and autoimmune conditions where
+supportive therapy during cancer treatment, and [[blesching-cannabis-health-index-autoimmune-conditions]] where
 immune modulation rather than stimulation is desired.
 
 Astragalus works best when taken consistently over weeks to months, as its

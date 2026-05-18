@@ -55,15 +55,15 @@ Elements:
 - Beekeeping
 - Grazing (cattle, sheep, goats)
 - Large-scale water harvesting
-- Wildlife corridors
+- [[permaculture-designers-manual-wildlife-corridors]]
 
 ### Zone 5: The Wilderness
 Visited rarely (for observation, education, and inspiration). Left undisturbed as a reference ecosystem.
 
 Elements:
 - Natural forest or native vegetation
-- Wildlife habitat
-- Watershed protection
+- [[hemenway-backyard-wildlife-habitat]]
+- [[mycofiltration-watershed-protection]]
 - Seed source for native plants
 - Educational and spiritual resource
 
@@ -78,7 +78,7 @@ Sectors are external energies and influences that affect the site from outside. 
 ## Overview
 
 Zone Sector Analysis Guide represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Zone Sector Analysis Guide finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 zone sector analysis guide and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

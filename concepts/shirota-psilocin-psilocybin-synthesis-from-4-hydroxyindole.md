@@ -5,7 +5,7 @@ tags: [chemistry, synthesis, psilocybin, psilocin, shirota, 4-hydroxyindole, pha
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - '/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md'
+  - '"raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"
 type: concept
 ---
 

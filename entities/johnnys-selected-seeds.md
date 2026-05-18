@@ -23,18 +23,18 @@ Johnny's Selected Seeds offers an extensive catalog of seeds and specialized far
 
 ### Seeds
 - Wide range of vegetable, herb, and flower seed varieties
-- Excellent selection of winter harvest varieties specifically suited for cold-climate and greenhouse production
+- Excellent selection of [[greenhouse-suppliers-and-winter-harvest-varieties]] specifically suited for cold-climate and [[economics-of-winter-greenhouse-production]]
 - Varieties tested and proven in northern growing conditions
 
 ### Farm Tools
 The following tools, recommended by Eliot Coleman and available through Johnny's, are essential for small-scale organic farming:
 
-- **Six-row seeder** — precision seeding for dense plantings of salad greens and baby vegetables
+- **Six-row seeder** — [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] for dense plantings of salad greens and baby vegetables
 - **Greens harvesters** — efficient harvesting tools for [[cut-and-come-again]] salad production
 - **Victorinox harvest knives** — durable, sharp knives ideal for clean harvesting cuts
 - **Broadfork** — deep soil aeration tool that loosens soil without inverting layers, preserving soil structure
-- **The Tilther** — a lightweight, power-driven tiller for shallow surface cultivation
-- **30-inch-wide Austrian grading rake** — for seedbed preparation and soil leveling
+- **The Tilther** — a lightweight, power-driven tiller for shallow [[jeavons-surface-cultivation-technique]]
+- **30-inch-wide Austrian grading rake** — for [[soil-tilth-and-seedbed-preparation]] and soil leveling
 - **Collineal hoe** — an ergonomic hoe designed for efficient cultivation in tight spacing
 - **Wire weeder** — delicate weeding tool for use around small seedlings
 - **Three-tooth cultivator** — for between-row cultivation in prepared beds
@@ -51,7 +51,7 @@ The following tools, recommended by Eliot Coleman and available through Johnny's
 
 ## Role in Winter Harvest Farming
 
-Johnny's Selected Seeds plays a central role in the [[winter-harvest-system]] described by Eliot Coleman in *The Winter Harvest Handbook*. As the primary supplier for [[four-season-farm]], the company provides:
+Johnny's Selected Seeds plays a central role in the [[winter-harvest-system]] described by Eliot Coleman in *The [[eliot-coleman-and-the-winter-harvest-handbook]]*. As the primary supplier for [[four-season-farm]], the company provides:
 
 1. **Winter-adapted varieties** specifically bred or selected for cold tolerance, low-light conditions, and protected-culture production
 2. **Specialized tools** designed for the intensive, small-scale production methods used in winter greenhouse farming

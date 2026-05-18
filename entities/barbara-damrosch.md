@@ -9,7 +9,7 @@ tags: [people, organic-farming, market-gardening, author]
 
 ## Description
 
-Barbara Damrosch is an American organic farmer, author, and television personality who co-operates [[four-season-farm]] in Harborside, Maine, with her husband [[eliot-coleman]]. She is a prominent figure in the sustainable agriculture movement, known for her expertise in year-round vegetable production and garden design. Her work bridges practical farming with public education through writing, television, and regular columns that have reached millions of home gardeners and aspiring market growers.
+Barbara Damrosch is an American organic farmer, author, and television personality who co-operates [[four-season-farm]] in Harborside, Maine, with her husband [[eliot-coleman]]. She is a prominent figure in the [[mushroom-cultivation-for-sustainable-agriculture]] movement, known for her expertise in year-round [[coleman-french-historical-winter-vegetable-production]] and garden design. Her work bridges practical farming with public education through writing, television, and regular columns that have reached millions of home gardeners and aspiring market growers.
 
 ## Classification
 
@@ -26,7 +26,7 @@ Barbara Damrosch is an American organic farmer, author, and television personali
 - Author of *The Garden Primer* (Workman Publishing) — one of the most comprehensive single-volume gardening references, covering vegetables, fruits, herbs, flowers, lawns, and landscaping
 - Author of *Theme Gardens* — an influential work on creative garden design with practical cultivation advice organized around thematic concepts
 - Regular gardening columnist for the Washington Post and other major publications
-- Referenced in *The Winter Harvest Handbook* in relation to harvest scheduling and farming operations (pp. 161, 211)
+- Referenced in *The [[winter-harvest-handbook-guide]]* in relation to [[winter-harvest-scheduling-year-round]] and farming operations (pp. 161, 211)
 - Recognized as one of the leading voices in American organic gardening education for home gardeners and market growers alike
 
 ## Role at Four Season Farm
@@ -44,7 +44,7 @@ At Four Season Farm, Damrosch is integrally involved in all aspects of the comme
 
 - **Customer relationships**: Managing direct-market sales and customer communications
 - **Farmers market presence**: Representing the farm at local and regional markets
-- **Financial planning**: Contributing to cost management and return-on-investment analysis (pp. 173-174)
+- **[[homestead-financial-planning]]**: Contributing to cost management and return-on-investment analysis (pp. 173-174)
 
 ### Research and Education
 
@@ -56,7 +56,7 @@ At Four Season Farm, Damrosch is integrally involved in all aspects of the comme
 
 Damrosch's published works complement Coleman's technical manuals by making organic gardening accessible to a broader audience:
 
-- ***The Garden Primer*** — comprehensive gardening reference covering all major plant groups and gardening techniques, praised for its practicality and thoroughness
+- ***The Garden Primer*** — comprehensive gardening reference covering all major plant groups and [[container-gardening-techniques]], praised for its practicality and thoroughness
 - ***Theme Gardens*** — creative approaches to garden design organized around sixteen thematic concepts, from a moon garden to a caterpillar garden
 - ***Gardening Naturally*** (TV series) — demonstrated organic methods to a national television audience on The Learning Channel
 - **Newspaper columns** — regular gardening advice in major publications reaching mainstream audiences who may not identify as organic gardeners

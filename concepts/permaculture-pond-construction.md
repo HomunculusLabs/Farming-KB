@@ -1,5 +1,5 @@
 ---
-title: Permaculture Pond Construction
+title: Permaculture Pond And Water Garden Construction
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Pond Construction
 
-Ponds and small dams are central elements in permaculture water management, serving multiple functions: irrigation, aquaculture, fire control, wildlife habitat, stock water, and landscape aesthetics. Mollison treats earth dams as the cheapest, easiest, and most locally self-reliant method of water conservation.
+Ponds and small dams are central elements in permaculture water management, serving multiple functions: irrigation, aquaculture, fire control, [[hemenway-backyard-wildlife-habitat]], stock water, and landscape aesthetics. Mollison treats earth dams as the cheapest, easiest, and most locally self-reliant method of water conservation.
 
 ## General Principles
 
@@ -39,7 +39,7 @@ Constructed across flowing or intermittent stream beds. Need ample spillways, ca
 Above-grade tanks requiring pumped water input (by windmill or solar pump). Common in flatlands as stock water tanks or for low-head irrigation.
 
 ### Check Dams
-Barrier dams not intended to create water storages but to slow water flow, catch silt, and prevent erosion in channels and gullies.
+Barrier dams not intended to create water storages but to slow water flow, catch silt, [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] in channels and gullies.
 
 ## Spillway Design
 
@@ -52,7 +52,7 @@ The spillway is the critical safety element:
 ## Sealing Methods
 
 ### Gleying
-A biological sealing method using fresh animal manure (cattle, pig, chicken) and green organic matter (grass, papaya and banana leaves, green manure) spread 15-30 cm thick over the pond bottom and banks, then sealed with soil, plastic, or hay. Fermentation produces an impermeable bacterial slime. Modifications include penning cattle in the dry dam until the bottom is manurial pug.
+A biological sealing method using fresh animal manure (cattle, pig, chicken) and green [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] (grass, papaya and banana leaves, green manure) spread 15-30 cm thick over the pond bottom and banks, then sealed with soil, plastic, or hay. Fermentation produces an impermeable bacterial slime. Modifications include penning cattle in the dry dam until the bottom is manurial pug.
 
 ### Bentonite
 Volcanic ash-derived clay powder that swells when watered. Rototilled in at 5-7 cm deep and rolled. Works in sands, gravels, shales, and leaking substrates. Expensive and doesn't always work.
@@ -73,11 +73,11 @@ Welded plastic, neoprene, or poured concrete. Expensive but appropriate for crit
 
 ## Aquaculture Integration
 
-Dams and ponds are potential aquaculture sites. Ponds can be organised as fodder pond sequences where ducks add manure upstream, shrimp eat algae, small fish breed in mid-ponds, and trout or perch occupy the outlet pond. Species suitable at each stage create a self-feeding polyculture.
+Dams and ponds are potential aquaculture sites. Ponds can be organised as [[fodder-pond-sequences]] where ducks add manure upstream, shrimp eat algae, small fish breed in mid-ponds, and trout or perch occupy the outlet pond. Species suitable at each stage create a self-feeding polyculture.
 
 ## Related Concepts
 
 - [[permaculture-aquaculture-guide]] -- fish and aquatic plant systems
-- [[permaculture-water-harvesting]] -- broader water management strategies
+- [[permaculture-water-harvesting]] -- broader water [[forest-management-strategies]]
 - [[aquaponics]] -- integrated fish and plant systems
 - [[permaculture-fire-management]] -- dams designed for fire control

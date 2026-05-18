@@ -5,7 +5,7 @@ tags: [pharmacology, dissociatives, nmda-receptor, antidepressant]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 type: concept
 ---
 

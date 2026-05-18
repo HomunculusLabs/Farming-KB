@@ -1,10 +1,10 @@
 ---
-title: Psilocybin Potency Harvesting And Extraction
+title: Psilocybin Mushroom Potency Harvesting And Desiccation Pf Tek Extraction
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# Psilocybin [[psilocybin-mushroom-harvesting-potency|Potency]], [[psilocybin-mushroom-potency-and-harvesting|Harvesting]], and Alcohol Extraction
+# Psilocybin [[psilocybin-mushroom-harvesting-potency]], [[psilocybin-mushroom-potency-and-harvesting]], and Alcohol Extraction
 
 ## Overview
 
@@ -14,12 +14,12 @@ The potency of psilocybin-containing mushrooms is not static — it changes dram
 
 Psilocybin content in mushrooms peaks before sporulation begins and declines steadily afterward. When a mushroom cap opens, the veil tears away, gills turn dark brown to purple, and spore deposits gather on the stem, the specimen has passed its prime for psychedelic use. This principle appears to hold true across all [[emcdda-psilocybin-mushroom-species-and-identification]], whether cultivated or wild-harvested.
 
-Research by Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of 1% by dry weight — comparable to the more famously potent *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap). However, reaching this level depends on several converging factors:
+Research by Jochen Gartz demonstrated that *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* can achieve a baseline psilocybin content of 1% by dry weight — comparable to the more famously potent *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap). However, reaching this level depends on several converging factors:
 
 - **Substrate**: Brown rice provides an excellent base for potency development
 - **Age/maturity**: Young, pre-veil-break specimens contain the highest concentrations
 - **Sporulation state**: Pre-sporulation specimens retain maximum alkaloid content
-- **Harvest and preservation**: Cool [[gottlieb-psilocybin-cultivation-harvesting-and-drying|drying]] (with desiccant) preserves potency best
+- **Harvest and preservation**: Cool [[gottlieb-psilocybin-cultivation-harvesting-and-drying]] (with desiccant) preserves potency best
 
 ## Harvesting Strategy for Maximum Potency
 
@@ -45,7 +45,7 @@ The recommended approach is deliberate and ritualistic:
 
 ## Alcohol Extraction Technique
 
-The alcohol extraction method produces a concentrated psilocybin liqueur using only mushrooms and pure ethyl alcohol. This creates a dose-controllable preparation where potency can be precisely measured.
+The [[pf-tek-alcohol-extraction-method]] produces a concentrated [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]] using only mushrooms and pure [[ethyl-alcohol-extraction]]. This creates a dose-controllable preparation where potency can be precisely measured.
 
 ### Materials
 
@@ -135,7 +135,7 @@ This method produces excellent flush quality, often surpassing electric humidifi
 
 ### Maximum Formula Notes
 
-The maximum substrate formula requires slight tamping (unlike the regular PF formula):
+The maximum [[pf-substrate-formula]] requires slight tamping (unlike the regular PF formula):
 
 1. Loosely load the half-pint jar and level the top
 2. Cover the mouth with one hand and grasp the jar

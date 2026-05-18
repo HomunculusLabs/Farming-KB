@@ -39,15 +39,15 @@ Gilgais are natural surface depressions or micro-relief features formed in soils
 ## Relevance to Cultivation and Permaculture
 
 - **Natural [[permaculture]] emulates through constructed swales.
-- **Soil moisture management**: Understanding gilgai formation helps land managers work with, rather than against, natural soil behaviour in clay-rich regions.
+- **[[soil-moisture-management-and-root-growth]]**: Understanding gilgai formation helps land managers work with, rather than against, natural soil behaviour in clay-rich regions.
 - **Dryland aquaculture**: Mollison notes that gilgais and claypans host aquatic and swamp plant species adapted to "very hot and somewhat brackish or salty water," making them potential sites for small-scale aquaculture in deserts.
-- **Species selection**: Plants suited to gilgai depressions (waterlogging tolerant) differ from those on gilgai mounds (drought tolerant), informing mosaic planting strategies.
+- **Species selection**: Plants suited to gilgai depressions (waterlogging tolerant) differ from those on gilgai mounds ([[drought-tolerant-planting-design]]), informing mosaic planting strategies.
 - **Indicator of soil type**: The presence of gilgais signals expansive clay soils, which have specific management requirements (timing of cultivation, [[tagari-publications]], pp. 433–434.
 - Paton, T.R. (1974). "Origin of gilgai." *Australian Journal of Soil Research*.
 
 ## Overview
 Gilgai represents an important component within sustainable
-design and ecological management systems. Understanding its role
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Understanding its role
 helps inform better integration strategies for diverse environments.
 The interactions between gilgai and surrounding ecological
 systems create complex feedback loops that enhance overall resilience.
@@ -55,7 +55,7 @@ systems create complex feedback loops that enhance overall resilience.
 ## Characteristics
 Key characteristics include adaptability to varying environmental
 conditions, integration potential with existing systems, and
-contribution to biodiversity and ecological function.
+contribution to biodiversity and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]].
 Seasonal variations affect performance and management requirements.
 Regional differences necessitate site-specific approaches.
 
@@ -75,7 +75,7 @@ Documentation of observations supports knowledge building.
 The ecological relationships involving gilgai
 extend across multiple trophic levels and functional groups.
 Soil biology, water cycles, and energy flows are all relevant factors.
-Understanding these connections enables more holistic management.
+Understanding these connections enables more [[savory-holistic-management-overview]].
 
 ## Sustainability Considerations
 Sustainable management practices are important for gilgai.
@@ -84,7 +84,7 @@ Long-term ecological health depends on responsible stewardship.
 
 ## Historical Significance
 Gilgai has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
+[[wasted-human-resources-and-traditional-knowledge]] systems have long valued its properties.
 Modern research continues to validate and expand upon traditional uses.
 
 ## See Also

@@ -1,5 +1,5 @@
 ---
-title: Ethyl Alcohol Extraction
+title: Pf Tek Ethyl Alcohol Extraction Liqueur Concentration
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: entity
 ---
@@ -12,7 +12,7 @@ Ethyl alcohol extraction is a method for isolating [[psilocybin]] and related
 alkaloids from dried mushroom material using 200 proof (100%) anhydrous
 ethyl alcohol as the solvent. The technique produces a concentrated
 [[psilocybin]] liqueur that can be dosed with precision using a syringe.
-This method was popularized in the [[pf-tek]] (Psilocybe Fanaticus) community
+This method was popularized in the [[pf-tek]] ([[pf-tek-psilocybe-fanaticus]]) community
 as a way to create standardized, potent doses from home-grown mushrooms.
 
 ## Classification
@@ -21,7 +21,7 @@ as a way to create standardized, potent doses from home-grown mushrooms.
 - **Solvent**: 200 proof anhydrous ethyl alcohol (preferred) or 190 proof
 - **Target compounds**: [[psilocybin]], [[psilocin]]
 - **Difficulty**: Moderate
-- **Yield**: Variable, depending on starting material potency
+- **Yield**: Variable, depending on [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] potency
 
 ## Key Facts
 
@@ -46,7 +46,7 @@ as a way to create standardized, potent doses from home-grown mushrooms.
 
 ## Relevance to Cultivation and Mycology
 
-This extraction method is significant because it allows cultivators to create
+This [[lemon-cannabis-alchemy-high-volume-extraction-method]] is significant because it allows cultivators to create
 standardized, shelf-stable [[psilocybin]] preparations from their harvests.
 The concentrated liqueur can be stored in small screw-cap bottles or vials in
 the freezer, where the alcohol remains liquid. The precision of syringe
@@ -85,9 +85,9 @@ The extraction's effectiveness depends heavily on harvest timing. Mushrooms
 harvested before the veil breaks (before or just as the cap opens) contain
 peak levels of [[psilocybin]] and [[psilocin]]. After sporulation begins,
 alkaloid content declines as the mushroom redirects metabolic energy toward
-spore production. Proper drying with [[desiccant]] preserves these alkaloids;
+[[geotropism-and-spore-production-in-mushrooms]]. Proper drying with [[desiccant]] preserves these alkaloids;
 heat drying degrades [[psilocin]] rapidly. The [[pf-tek]] method emphasizes
-this harvest window for maximum extraction yield.
+this [[harvest-window-cannabis]] for maximum extraction yield.
 
 ## Solvent Selection and Availability
 

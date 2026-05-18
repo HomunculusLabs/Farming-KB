@@ -5,7 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  - /Users/t3rpz/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
 # [[cover-crops]]

@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-Somatogamy is a process of sexual reproduction in fungi in which the somatic (vegetative) cells of two compatible monokaryotic mycelia fuse together, establishing a dikaryotic mycelium. This process is central to the life cycle of gilled mushrooms (Agaricales) and other basidiomycete fungi, including all species relevant to [[mushroom-cultivation]].
+Somatogamy is a process of [[basidiomycete-mating-systems-sexual-reproduction]] in fungi in which the somatic (vegetative) cells of two compatible monokaryotic mycelia fuse together, establishing a dikaryotic mycelium. This process is central to the life cycle of gilled mushrooms (Agaricales) and other [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]], including all species relevant to [[mushroom-cultivation]].
 
 ## Classification
 
@@ -29,7 +29,7 @@ Somatogamy occurs in the following sequence:
 
 - It is **not** nuclear fusion (karyogamy) — nuclei remain separate
 - It is **not** fertilization in the traditional sense — there is no diploid zygote formed
-- It is **not** the same as hyphal anastomosis between incompatible strains (which may occur but does not establish a viable dikaryon)
+- It is **not** the same as [[amf-hyphal-anastomosis-self-recognition]] between incompatible strains (which may occur but does not establish a viable dikaryon)
 
 ## Compatibility Requirements
 
@@ -38,7 +38,7 @@ For somatogamy to result in a viable dikaryotic mycelium, the two monokaryotic m
 - Two independent sets of mating factors (A and B) control compatibility
 - Both factor sets must differ between the two monokaryons (e.g., AB × ab)
 - With two independent loci and multiple alleles at each, hundreds of mating types can exist within a single species
-- This system promotes outcrossing and genetic diversity
+- This system promotes outcrossing and [[biodiversity-fungal-genetic-diversity]]
 
 If a monokaryotic mycelium does not encounter a compatible partner, it will eventually die without completing the sexual cycle.
 
@@ -54,7 +54,7 @@ Somatogamy is one of three key nuclear events in the basidiomycete life cycle:
 
 The dikaryotic mycelium established through somatogamy is the most prolonged and most important phase of the fungal life cycle:
 
-- It is the **main assimilative stage** — responsible for nutrient acquisition and vegetative growth
+- It is the **main assimilative stage** — responsible for [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] and vegetative growth
 - It can **propagate vegetatively indefinitely** without going through sexual reproduction
 - It is the stage that can be **induced to fruit** (produce mushrooms) under appropriate environmental conditions
 - In cultivation, all tissue transfers, grain spawns, and substrate colonization involve dikaryotic mycelium
@@ -70,7 +70,7 @@ When cultivators inoculate plates or substrates with spore prints or spore syrin
 Cultivators can observe the transition from monokaryotic to dikaryotic mycelium on agar plates. Monokaryotic mycelium tends to be thinner and less robust, while dikaryotic mycelium is typically more vigorous, ropey, and faster-growing. The point where two compatible monokaryons meet and undergo somatogamy is often visible as a line of increased growth.
 
 ### Cloning and Tissue Culture
-When tissue from a mushroom fruiting body is transferred to agar, the resulting mycelium is already dikaryotic (having undergone somatogamy during the original life cycle). This dikaryotic culture can be propagated indefinitely without any further sexual process, which is the basis of strain preservation.
+When tissue from a [[mushroom-fruiting-body-morphogenesis]] is transferred to agar, the resulting mycelium is already dikaryotic (having undergone somatogamy during the original life cycle). This dikaryotic culture can be propagated indefinitely without any further sexual process, which is the basis of strain preservation.
 
 ## Comparison with Other Reproductive Strategies
 

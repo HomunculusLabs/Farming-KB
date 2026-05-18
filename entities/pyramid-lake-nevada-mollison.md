@@ -7,7 +7,7 @@ tags: [place, deforestation, case-study, hydrology, nevada]
 
 ## Description
 
-Pyramid Lake is a terminal lake on the Paiute Indian Reservation in western Nevada, USA, fed by the Truckee River. Mollison cites it as a case study in how upland deforestation combined with river diversion and irrigation can destroy entire lake ecosystems within a single human lifetime. The lake is the geographic remnant of ancient Lake Lahontan and holds deep cultural significance for the Cuiuidika'a band of the Paiute people.
+Pyramid Lake is a terminal lake on the Paiute [[mescalero-indian-reservation]] in western Nevada, USA, fed by the Truckee River. Mollison cites it as a case study in how upland deforestation combined with river diversion and irrigation can destroy entire lake ecosystems within a single human lifetime. The lake is the geographic remnant of ancient Lake Lahontan and holds deep [[amanita-mushrooms-history-chemistry-and-cultural-significance]] for the Cuiuidika'a band of the Paiute people.
 
 ## Classification
 
@@ -48,7 +48,7 @@ Pyramid Lake serves as a powerful cautionary tale with direct design implication
 2. **Snow management**: Trees trap 75–95% of snowfall in shade, delaying melt 2–10 days compared with bare ground — critical for sustained stream flow
 3. **Sublimation loss**: On bare uplands, winter snow either blows away or sublimates without producing groundwater — trees prevent both losses
 4. **Systemic thinking**: No single action (deforestation) can be evaluated in isolation from its downstream consequences
-5. **Cultural impact**: Environmental destruction always carries human costs, often borne by indigenous peoples who had no role in the destructive decisions
+5. **[[pf-tek-global-spread-and-cultural-impact]]**: Environmental destruction always carries human costs, often borne by indigenous peoples who had no role in the destructive decisions
 6. **Design imperative**: Mollison's response is clear — save all remaining forest and plant trees for increased condensation on sea-facing hills
 
 ## Modern Status
@@ -57,19 +57,19 @@ Pyramid Lake still exists but at greatly reduced levels. Conservation efforts in
 
 ## Source Reference
 
-Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Section 6.5 (Trees and Precipitation), subsection on Effects on Snow and Meltwater.
+Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Section 6.5 ([[trees-and-precipitation]]), subsection on Effects on Snow and Meltwater.
 
 ## Practical Applications
 
 Pyramid Lake Nevada finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
+from agricultural systems to [[mycorrhizal-fungi-ecological-restoration]] projects.
 Practitioners integrate this knowledge into holistic design frameworks,
 optimizing outcomes through systematic observation and adaptive management.
 
 ## Ecological Context
 
 Understanding pyramid lake nevada within broader ecosystem dynamics reveals
-interconnections with nutrient cycling, energy flow, and species interactions.
+interconnections with [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], energy flow, and species interactions.
 These relationships inform regenerative design strategies that work with
 natural processes rather than against them.
 

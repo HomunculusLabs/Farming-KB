@@ -6,9 +6,9 @@ tags: [herbal-plants, medicinal-plants, Lamiaceae, essential-oil, pennyroyal, ab
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/medical-botany-heywood.md
-  - /Users/t3rpz/wiki/raw/papers/medicinal-plants-of-the-world-vol2.md
-  - /Users/t3rpz/wiki/raw/papers/essential-oil-safety-tisserand.md
+  - "raw/papers/medical-botany-heywood.md"
+  - "raw/papers/medicinal-plants-of-the-world-vol2.md"
+  - "raw/papers/essential-oil-safety-tisserand.md"
 ---
 # Mentha pulegium
 

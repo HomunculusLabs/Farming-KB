@@ -1,8 +1,8 @@
 ---
-title: Turner Ketamine
+title: Turner Ketamine Realms Dissociative Consciousness
 created: 2026-04-26
 author: D.M. Turner
-sources: The turner-essential-psychedelics-5-meo-dmt-void-experience Guide (1994)
+sources: The [[turner-essential-psychedelics-5-meo-dmt-void-experience]] Guide (1994)
 type: concept
 tags: [psychedelics, ketamine, dissociative, anesthetic, K-hole, therapeutic, addiction]
 updated: 2026-04-26

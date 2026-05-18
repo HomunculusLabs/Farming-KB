@@ -21,7 +21,7 @@ sources:
 
 **Cyathea cooperi**, commonly known as **Australian tree fern**, **cooper tree fern**, or **straw tree fern**, is a fast-growing tree fern in the family Cyatheaceae. Endemic to eastern Australia, it is one of the most commonly cultivated tree ferns in tropical and subtropical gardens worldwide.
 
-The species produces a tall, slender trunk up to 15 m high, crowned with a spreading rosette of large, tripinnate fronds reaching 4–6 m long. Its rapid growth rate of up to 30 cm per year in ideal conditions makes it one of the fastest-growing tree fern species.
+The species produces a tall, slender trunk up to 15 m high, crowned with a spreading rosette of large, tripinnate fronds reaching 4–6 m long. Its rapid [[soil-temperature-plant-growth-rate-doubling-rule]] of up to 30 cm per year in ideal conditions makes it one of the fastest-growing tree fern species.
 
 It has become a problematic invasive species in several regions outside its native range. In Hawaii, La Réunion, and parts of New Zealand, it displaces native vegetation in wet forests.
 
@@ -70,7 +70,7 @@ In Australia, it is common along road cuttings in the Blue Mountains and Dorrigo
 
 Australian tree fern is widely cultivated in tropical and subtropical gardens for its dramatic architectural form. It requires consistent moisture, humidity, and protection from strong winds.
 
-It grows best in partial shade but tolerates full sun in humid climates. In cooler regions it can be grown in containers and moved to shelter during winter.
+It grows best in partial shade but tolerates full sun in [[berry-fruit-production-cool-humid-climates]]. In cooler regions it can be grown in containers and moved to shelter during winter.
 
 Propagation is exclusively from spores, as the species does not produce offsets. [[organic-nutrients-vs-synthetic-nutrients]].
 

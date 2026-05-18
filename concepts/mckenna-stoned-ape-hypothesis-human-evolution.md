@@ -5,7 +5,7 @@ tags: [evolution, psilocybin, consciousness, mckenna, mycology, anthropology]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md
+  - "raw/papers/mckenna_t-food_of_the_gods.md"
 type: concept
 ---
 

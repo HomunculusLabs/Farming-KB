@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-Updated: 2026-04-18 Source: Permaculture Plants: A Selection (Nugent & Boniface, 2nd ed 2004) ## Overview - Family: Passifloraceae - 40+ edible species; mostly tropical to subtropical woody fruiting vines - Climb by tendrils; will climb trellis or trees - Can inhibit supporting tree growth by reducing sunlight — provide clump of trees so vine can spread - Fruit falls to ground when ripe - Named by Spanish who thought flowers resembled the passion of Christ ## Key Species ### Passiflora edulis (Purple Passionfruit / Granadilla) - Most widely known; native Brazil - Subtropical, fairly dense, evergreen vine; also red and black variations - Prefers moist, well-drained, fertile, neutral to slightly alkaline soil - Withstands occasional light frosts; long fruiting season; often two crops/year - Ripe aromatic fruits: raw, juiced, bottled, sauces, cakes, jellies; edible oil from seeds (comparable to sunflower/soybean) - Medicinal: juice used as digestive stimulant; treatment for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] Common pests include [[permaculture-beekeeping]]
+Updated: 2026-04-18 Source: Permaculture Plants: A Selection (Nugent & Boniface, 2nd ed 2004) ## Overview - Family: Passifloraceae - 40+ edible species; mostly tropical to subtropical woody [[query-how-do-i-train-and-trellis-fruiting-vines-and-climbing-plants]] - Climb by tendrils; will climb trellis or trees - Can inhibit supporting tree growth by reducing sunlight — provide clump of trees so vine can spread - Fruit falls to ground when ripe - Named by Spanish who thought flowers resembled the passion of Christ ## Key Species ### [[passiflora-edulis]] (Purple Passionfruit / Granadilla) - Most widely known; native Brazil - Subtropical, fairly dense, evergreen vine; also red and black variations - Prefers moist, well-drained, fertile, neutral to slightly alkaline soil - Withstands occasional light frosts; long fruiting season; often two crops/year - Ripe aromatic fruits: raw, juiced, bottled, sauces, cakes, jellies; edible oil from seeds (comparable to sunflower/soybean) - Medicinal: juice used as digestive stimulant; treatment for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] Common pests include [[permaculture-beekeeping]]
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[soft-fruit-growing-organic]]
 
@@ -14,7 +14,7 @@ Updated: 2026-04-18 Source: Permaculture Plants: A Selection (Nugent & Boniface,
 
 ### Site Selection and Climate
 Passionfruit thrives in frost-free subtropical and tropical
-environments but can be grown in temperate regions with careful
+environments but can be grown in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] with careful
 site selection and seasonal protection:
 - Full sun exposure is essential for maximum flower production
   and fruit development; partial shade significantly reduces yield
@@ -23,11 +23,11 @@ site selection and seasonal protection:
   by desiccating winds during the critical pollination period
 - Ideal temperatures range from 18-30°C; growth slows below 15°C
   and most species suffer tissue damage at temperatures below 0°C
-- In marginal climates, planting against a warm south-facing wall
+- In [[holzer-fruit-growing-marginal-climates]], planting against a warm south-facing wall
   with overhead protection can extend the viable growing season by
   several weeks in both spring and autumn
 - Good air circulation around the trellis reduces disease pressure
-  from fungal pathogens that thrive in humid, stagnant conditions
+  from [[bloomfield-fungal-pathogens-and-parasites]] that thrive in humid, stagnant conditions
 
 ### Trellising and Support Structures
 Passionfruit vines are vigorous climbers that require sturdy
@@ -67,7 +67,7 @@ each method offering distinct advantages for different purposes:
 
 ### Nutrition and Irrigation
 Regular nutrition and consistent moisture are critical for
-sustained fruit production throughout the long growing season:
+sustained [[berry-fruit-production-cool-humid-climates]] throughout the long growing season:
 - Young vines benefit from high nitrogen fertilization to
   establish the vegetative framework during the first year
 - Mature bearing vines require balanced NPK with emphasis on

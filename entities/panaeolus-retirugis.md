@@ -7,7 +7,7 @@ tags: [fungi, basidiomycota, agaricales, panaeolaceae, panaeolus,
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
-  - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
+  - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 # Panaeolus retirugis
 

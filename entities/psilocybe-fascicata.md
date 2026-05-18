@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - /Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
 
 # Psilocybe fascicata

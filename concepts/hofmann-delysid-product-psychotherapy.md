@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md
+  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 type: concept
 ---
 

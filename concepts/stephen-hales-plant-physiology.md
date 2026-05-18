@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-exploring-the-rich-history-of-plant-scienc.md
+  - "raw/papers/unknown-exploring-the-rich-history-of-plant-scienc.md"
 type: concept
 ---
 

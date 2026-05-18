@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Dennstaedtia." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2. Oxford University Press.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern field-guide-psilocybin-bluing-reaction-identification to Ferns and Their Related Families. Houghton Mifflin.
-  - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
+  - Moran, R.C. (2004). "A [[stropharia-cubensis-identification-and-natural-history]] of Ferns." Timber Press.
 ---
 
 ## Overview
@@ -42,7 +42,7 @@ No significant medicinal applications are documented for this species. It is not
 ## Overview
 
 Dennstaedtia Punctilobula represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -63,7 +63,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Dennstaedtia Punctilobula finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -71,13 +71,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for dennstaedtia punctilobula. Climate adaptation
+opportunities for dennstaedtia punctilobula. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -92,7 +92,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 dennstaedtia punctilobula and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

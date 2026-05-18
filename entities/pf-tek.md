@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-The PF TEK (Psilocybe Fanaticus Technique) is a revolutionary mushroom cultivation method developed by Psylocybe Fanaticus (Robert McPherson) in the early 1990s. It enables home cultivation of *Psilocybe cubensis* using common kitchen utensils and readily available supplies — small jars, [[brown-rice-flour]], vermiculite, and an aquarium. The technique was first published in 1992 after initially being distributed as a kit through classified advertisements in *High Times* magazine beginning in September 1991.
+The PF TEK (Psilocybe Fanaticus Technique) is a revolutionary [[boil-a-bag-mushroom-cultivation-method]] developed by [[psylocybe-fanaticus]] (Robert McPherson) in the early 1990s. It enables home cultivation of *Psilocybe cubensis* using common kitchen utensils and readily available supplies — small jars, [[brown-rice-flour]], vermiculite, and an aquarium. The technique was first published in 1992 after initially being distributed as a kit through classified advertisements in *High Times* magazine beginning in September 1991.
 
 ## Classification
 
@@ -22,15 +22,15 @@ The PF TEK (Psilocybe Fanaticus Technique) is a revolutionary mushroom cultivati
 - The PF TEK uses a substrate composed of brown rice powder, horticultural vermiculite (medium grade), and water, loaded into 1/2 pint (250 ml) tapered jars.
 - A critical innovation is the **dry vermiculite contamination barrier** — a 1/2 to 3/4 inch layer of dry vermiculite on top of the wet substrate that protects against airborne contaminants. This was an original discovery by Psylocybe Fanaticus.
 - Jars are steam sterilized (not pressure cooked) at a gentle boil for one hour in a tightly covered pot, making the method accessible without specialized equipment.
-- Instead of tissue culture cloning, the technique uses **mass spore inoculation** directly to the fruiting substrate, preserving the complete genotype and avoiding senescence (mutation and ceased fruiting).
+- Instead of [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]], the technique uses **mass spore inoculation** directly to the fruiting substrate, preserving the complete genotype and avoiding senescence (mutation and ceased fruiting).
 - The standard substrate formula per 1/2 pint jar: 1/8 cup brown rice powder, 1/2–2/3 cup vermiculite, 40–45 cc water. A maximum fruiting formula uses 1/4 cup brown rice powder, 1/2 cup vermiculite, and 60 cc water.
 - Inoculation uses approximately 1 cc of spore solution per jar, allowing one syringe to inoculate 10 jars.
 - Colonization occurs in 2–3 weeks at ~70°F; the full cycle from spore to fruit takes 4–6 weeks.
-- Fruiting takes place in a **dual chambered terrarium** (typically a 10-gallon aquarium) with 100% humidity maintained via a spray shield system.
+- Fruiting takes place in a **[[dual-chambered-terrarium-design]]** (typically a 10-gallon aquarium) with 100% humidity maintained via a spray shield system.
 
 ## Relevance to Cultivation
 
-The PF TEK is one of the most influential and widely copied mushroom cultivation methods in history. Its significance to mycology and cultivation includes:
+The PF TEK is one of the most influential and widely copied [[holzer-mushroom-cultivation-methods]] in history. Its significance to mycology and cultivation includes:
 
 - **Accessibility:** Eliminated the need for pressure cookers, laminar flow hoods, or agar culture, democratizing home mushroom cultivation.
 - **Worldwide adoption:** The method was copied by groups and businesses across Canada, the Netherlands (Amsterdam, Gouda, Wageningen), Finland, the United Kingdom, Italy, and the United States.
@@ -72,7 +72,7 @@ broader farming and gardening practice.
 
 ## Historical Significance
 
-The historical development of pf tek reflects broader trends
+The [[historical-development-of-mushroom-cultivation]] pf tek reflects broader trends
 in agricultural science and ecological thinking. Early observations
 and experiments laid groundwork that modern practitioners continue
 to build upon, connecting traditional knowledge with contemporary

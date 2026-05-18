@@ -1,5 +1,5 @@
 ---
-title: Snow and Ice in Cold Climate Design
+title: Snow and Ice in Cold Climate Design Strategies
 source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
@@ -13,14 +13,14 @@ Snow and ice are not merely challenges to be overcome in cold climate design —
 ## Classification
 
 - **Category**: Design element / Environmental resource
-- **Domain**: Cold climate permaculture
+- **Domain**: Cold [[tropical-humid-and-coastal-climate-permaculture-design]]
 - **Related concepts**: Albedo, ice lenses, snow insulation, frost heave, ice construction
 
 ## Key Facts
 
 ### Snow as a Heating Device
 
-Snow's high albedo (reflectivity) makes it an effective solar heating amplifier:
+Snow's high albedo (reflectivity) makes it an effective [[fao-solar-heating-pasteurization-mushroom-cultivation]] amplifier:
 
 - Fresh dry snow reflects close to 100% of incoming light
 - Muddy slush reflects about 20%
@@ -43,7 +43,7 @@ Snow's high albedo (reflectivity) makes it an effective solar heating amplifier:
 Ice can be moulded in any shape that water can be poured into:
 
 - **Ice lenses**: Water poured into moulds creates cheap solar energy concentrators; components of complex lenses can be glued with water
-- **Reinforced ice**: Bars or fibres can be added to moulds for structural strength
+- **Reinforced ice**: Bars or fibres can be added to moulds for [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
 - **Ice buggies**: Moulded ice around axles can be towed to summer storages
 - **Underground ice pits**: Uninsulated pits packed with winter snow and earthed over provided chilled storage before 1830
 - **Insulated ice**: Frozen inside insulated boxes in winter, stored insulated from ground, lasts through summer in shaded places
@@ -86,4 +86,4 @@ Cold climate water storage design must account for:
 
 ## Relevance to Cultivation
 
-Understanding snow and ice dynamics is essential for cold-climate [[permaculture-design]]. Rather than fighting cold, these techniques use it constructively — for solar concentration, food preservation, soil preparation, water storage, and microclimate modification. The key insight is that cold phenomena offer a complementary set of design opportunities to those available in warm climates, each exploited by appropriate techniques and timing.
+Understanding snow and ice dynamics is essential for cold-climate [[permaculture-design]]. Rather than fighting cold, these techniques use it constructively — for solar concentration, food preservation, soil preparation, water storage, [[tree-temperature-effects-and-microclimate-modification]]. The key insight is that cold phenomena offer a complementary set of design opportunities to those available in warm climates, each exploited by appropriate [[solomon-harvesting-techniques-and-timing]].

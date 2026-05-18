@@ -9,15 +9,15 @@ sources: []
 
 # Johns Hopkins Psychedelic Research
 
-The Johns Hopkins Center for Psychedelic and Consciousness Research, established in 2019, is one of the world's leading psychedelic research institutions. Building on two decades of groundbreaking studies, the Center has conducted landmark research on psilocybin for depression, anxiety, addiction, and [[psychedelic-safety-and-contra-indications]] for their safety protocols.
+The Johns Hopkins Center for Psychedelic and Consciousness Research, established in 2019, is one of the world's leading psychedelic [[mycological-research-institutions]]. Building on two decades of groundbreaking studies, the Center has conducted landmark research on psilocybin for depression, anxiety, addiction, and [[psychedelic-safety-and-contra-indications]] for their [[mushroom-edibility-testing-safety-protocols]].
 
 ## History
 
 Johns Hopkins University has been at the forefront of the modern psychedelic research renaissance:
 
-- **2000:** Roland Griffiths and colleagues received regulatory approval to restart psychedelic research at Johns Hopkins after a decades-long hiatus
+- **2000:** [[roland-griffiths]] and colleagues received regulatory approval to restart psychedelic research at Johns Hopkins after a decades-long hiatus
 - **2006:** Published the first double-blind study of psilocybin in healthy volunteers since the 1970s, demonstrating that psilocybin could produce mystical-type experiences with lasting positive effects
-- **2011:** Opened the Behavioral Pharmacology Research Unit for expanded psychedelic studies
+- **2011:** Opened the Behavioral Pharmacology Research Unit for expanded [[maps-multidisciplinary-association-for-psychedelic-studies]]
 - **2019:** Launched the Center for Psychedelic and Consciousness Research with $17 million in philanthropic funding, the first such center in the [[mushroom-cancer-clinical-trials-overview]] for various psychiatric conditions
 
 ## Roland Griffiths, PhD (1946-2023)
@@ -26,7 +26,7 @@ The founding director of the Center and the principal investigator behind most o
 
 - Professor in the Departments of Psychiatry and Neurosciences at Johns Hopkins University School of Medicine
 - Internationally recognized expert in the behavioral pharmacology of caffeine, sedative-hypnotics, and psychedelics
-- His 2006 psilocybin study, published in Psychopharmacology, was the first rigorous modern demonstration that psilocybin could produce meaningful mystical experiences in controlled settings
+- His 2006 psilocybin study, published in Psychopharmacology, was the first rigorous modern demonstration that psilocybin could produce meaningful [[psilocybin-mystical-experiences-personality-change]] in controlled settings
 - Advocated for careful, respectful engagement with psychedelic experiences
 - Passed away in October 2023
 

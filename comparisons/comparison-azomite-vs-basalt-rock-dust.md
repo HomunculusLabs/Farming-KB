@@ -10,9 +10,9 @@ sources: []
 
 ## Overview
 
-Azomite and basalt rock dust are two of the most popular mineral amendments
+Azomite and basalt rock dust are two of the most popular [[cervantes-organic-mineral-amendments]]
 used in organic agriculture and permaculture for soil remineralization. Both
-provide broad-spectrum trace minerals, but they differ significantly in
+provide broad-spectrum [[dynamic-accumulator-plants-trace-minerals]], but they differ significantly in
 geological origin, mineral composition, sodium content, weathering rate,
 and ideal use cases. Understanding these differences helps growers choose
 the right amendment for their specific soil conditions and crop needs.
@@ -66,7 +66,7 @@ Azomite product, especially for broad-acre applications.
 Azomite excels when the goal is maximum trace mineral diversity in a
 single application. Its rare earth element content is unique among
 agricultural amendments, and its 70+ mineral spectrum makes it ideal for
-soils that have been heavily depleted through intensive cropping. If a
+soils that have been heavily depleted through [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]]. If a
 soil test reveals broad trace mineral deficiencies rather than specific
 macronutrient shortages, Azomite's wide-spectrum approach fills many
 gaps simultaneously. It is particularly popular among organic cannabis
@@ -84,12 +84,12 @@ are specifically needed, or when cost-effective broad-acre remineralization
 is the priority. Its higher silica content supports strong plant cell
 walls and pest resistance, while the significant magnesium content
 addresses one of the most common mineral deficiencies in leached or
-weathered soils. For permaculture designers and regenerative agriculture
+weathered soils. For [[bill-mollison-permaculture-designers-manual]] and [[biochar-in-regenerative-agriculture]]
 practitioners, basalt's carbon sequestration potential through enhanced
 rock weathering adds a climate-benefit dimension absent from Azomite.
 
 Basalt is also preferable in sodium-sensitive situations — arid-climate
-soils, container growing, and hydroponic systems where sodium
+soils, [[container-growing-vegetables-herbs]], and hydroponic systems where sodium
 accumulation is a concern. Its commodity pricing and local availability
 make it practical for farm-scale applications where Azomite's cost would
 be prohibitive.

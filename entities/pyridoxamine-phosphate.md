@@ -15,7 +15,7 @@ inchi_key: ZMJGSOSNSPKHNH-UHFFFAOYSA-N
 created: 2026-05-02
 updated: 2026-05-02
 related_concepts:
-  - pyridoxal-phosphate-coenzyme-chemistry
+  - [[pyridoxal-phosphate-coenzyme-chemistry]]
 sources:
   - https://pubchem.ncbi.nlm.nih.gov/compound/1053
   - https://en.wikipedia.org/wiki/Pyridoxamine
@@ -45,7 +45,7 @@ The phosphate group keeps PMP strongly polar and supports tight binding in enzym
 The ring system still provides conjugation and acid-base behavior relevant to catalysis.
 Compared with PLP, PMP is less electrophilic because it lacks the aldehyde carbonyl.
 That difference explains why PMP is a donor form in transamination rather than the initial imine-forming acceptor.
-In enzyme-bound form, PMP sits in the same cofactor pocket used by PLP.
+In enzyme-bound form, PMP sits in the same [[cofactor]] pocket used by PLP.
 The surrounding protein controls when PMP releases its amino group to a keto acid substrate.
 
 ## Relationship to PLP
@@ -71,7 +71,7 @@ No net oxidation or reduction is required in the basic aminotransferase cycle.
 Instead, PMP functions as a temporary carrier of the amino group.
 The amino group is stored on the cofactor long enough for the first product to leave and the second substrate to enter.
 This makes PMP a chemically precise shuttle, not merely a passive intermediate.
-The reversibility of transamination makes PMP relevant to both [[cho-fish-amino-acid-preparation]] synthesis and amino acid degradation.
+The reversibility of transamination makes PMP relevant to both [[cho-fish-amino-acid-preparation]] synthesis and [[knf-fish-amino-acid]] degradation.
 
 ## Mechanistic Role
 

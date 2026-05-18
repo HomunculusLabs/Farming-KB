@@ -12,7 +12,7 @@ Straight-shanked onions (scallions/spring onions) are easier to grow than bulbin
 
 ### Soil Requirements
 
-All onions prefer open soils like loams or sands, and won't grow fast in compacted clay. If you garden on clay, prepare their beds with organic matter:
+All onions prefer open soils like loams or sands, and won't grow fast in compacted clay. If you garden on clay, prepare their beds with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]:
 
 - Dig in a two-inch-thick (5 cm) layer of [[compost]] or well-rotted manure in an effort to create a clayey onion bed
 - Scallions can't grow at all well if they can't make roots
@@ -20,7 +20,7 @@ All onions prefer open soils like loams or sands, and won't grow fast in compact
 
 ### Spacing
 
-Recommend 18-inch (45 cm) between-row spacing because it allows more air to flow around the plants. Although scallions could be grown on 12-inch (30 cm) spacing by their root systems alone, the wider spacing enhances air circulation and reduces disease pressure.
+Recommend 18-inch (45 cm) between-row spacing because it allows more air to flow around the plants. Although scallions could be grown on 12-inch (30 cm) spacing by their root systems alone, the wider spacing enhances [[stamets-growing-room-air-circulation-co2-management]] and reduces disease pressure.
 
 ### Planting and Harvesting
 
@@ -38,13 +38,13 @@ Recommend 18-inch (45 cm) between-row spacing because it allows more air to flow
 - Thin early, thoroughly, and progressively
 - After harvest, clean up all onion trash and compost it — this provides fewer overwintering havens for disease organisms
 - Once molds invade the vascular system, only systemic fungicides will save the crop
-- Frequent spraying (every few days) with mild external fungicides like lime sulphur or compost tea may prevent infection
+- Frequent spraying (every few days) with mild external fungicides like [[lime-sulphur-agricultural]] or [[actinomycetes-compost-tea]] may prevent infection
 
 **Leeks and garlic** have far higher resistance to these diseases than onions do.
 
 ### Varieties: *Allium fistulosum* vs. *A. cepa*
 
-Most seed companies sell only *Allium fistulosum* varieties (Welsh onions, non-bulbing perennial, much like a giant chive). However, Stokes still offers the Lisbon onion (*A. cepa*), which will cross with other bulbing onions.
+Most [[ethical-seed-companies-and-mail-order-sources]] sell only *Allium fistulosum* varieties (Welsh onions, non-bulbing perennial, much like a giant chive). However, Stokes still offers the Lisbon onion (*A. cepa*), which will cross with other bulbing onions.
 
 **Why prefer Lisbon?** Although smaller for the table, it is mild, tender, and sweet, while *A. fistulosum* is a bit hotter and tougher. Lisbons, however, are not a less-refined and usually easier to grow medium.
 
@@ -65,7 +65,7 @@ Potato onions are actually a type of shallot with medium-demand fertility requir
 
 ### Growing
 
-To grow potato onions, get one bulb (or a few) and plant it shallowly in spring (or in autumn in climates with mild winters). Snip the odd stalk as needed for scallions. Otherwise, treat it as though you were growing garlic.
+To grow potato onions, get one bulb (or a few) and plant it shallowly in spring (or in autumn in climates with mild winters). Snip the odd stalk as needed for scallions. Otherwise, treat it as though you were [[solomon-growing-garlic-onions-leeks]].
 
 This is an excellent alternative for someone having difficulty growing the usual bulbing onions.
 

@@ -9,7 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/concise-psilocybin-large-scale-production-synthesis-of-psilocin-powell-mayan-civilisation-and-psilocybin-psilocybin-psilocybin-mushroom-image-guide-habitat-clues-guide-spore-color-chart-guide-bruising-reactions-use-chemistry-psilocybin-shirota-hakamata-goda.md
+  - "raw/papers/concise-psilocybin-large-scale-production-synthesis-of-psilocin-powell-mayan-civilisation-and-psilocybin-psilocybin-psilocybin-mushroom-image-guide-habitat-clues-guide-spore-color-chart-guide-bruising-reactions-use-chemistry-psilocybin-shirota-hakamata-goda.md"
 type: concept
 ---
 

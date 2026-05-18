@@ -6,9 +6,9 @@ tags: [herbal-plants, medicinal-plants, alkaloid, lobeline, respiratory, smoking
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/medical-botany-heywood.md
-  - /Users/t3rpz/wiki/raw/papers/medicinal-plants-of-north-america-foster.md
-  - /Users/t3rpz/wiki/raw/papers/physicians-desk-reference-for-herbal-medicine.md
+  - "raw/papers/medical-botany-heywood.md"
+  - "raw/papers/medicinal-plants-of-north-america-foster.md"
+  - "raw/papers/physicians-desk-reference-for-herbal-medicine.md"
 ---
 
 # Lobelia inflata

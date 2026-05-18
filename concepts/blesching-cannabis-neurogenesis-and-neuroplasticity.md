@@ -13,7 +13,7 @@ tags: [cannabis, neurogenesis, neuroplasticity, ecs, brain-repair]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/uwe-blesching-cannabis-health-indexndex.md
+  - "raw/papers/uwe-blesching-cannabis-health-indexndex.md"
 ---
 
 # Cannabis, Neurogenesis, and Neuroplasticity

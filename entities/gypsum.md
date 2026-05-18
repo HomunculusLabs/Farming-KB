@@ -9,7 +9,7 @@ tags: [mineral, soil-amendment, calcium, sulfur, soil-structure]
 
 ## Description
 
-Gypsum (calcium sulfate dihydrate) is a soft sulfate mineral widely used in agriculture as a soil amendment to improve soil structure, supply calcium and sulfur, and treat specific soil problems without affecting pH. It is one of the evaporite minerals that precipitates from seawater after calcite and dolomite but before rock salt. In permaculture, gypsum is valued as a natural soil conditioner particularly useful for dispersive and high-sodium soils.
+Gypsum (calcium sulfate dihydrate) is a soft sulfate mineral widely used in agriculture as a soil amendment to [[query-how-do-fungi-improve-soil-structure]], supply calcium and sulfur, and treat specific soil problems without affecting pH. It is one of the evaporite minerals that precipitates from seawater after calcite and dolomite but before rock salt. In permaculture, gypsum is valued as a natural soil conditioner particularly useful for dispersive and high-sodium soils.
 
 ## Classification
 
@@ -25,9 +25,9 @@ Gypsum forms through evaporation of saline waters and is one of the most common 
 
 ## Key Facts
 
-- Unlike lime (calcium carbonate), gypsum does not raise [[crumb-structure]], only partly relieved by gypsum application
+- Unlike lime ([[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]), gypsum does not raise [[crumb-structure]], only partly relieved by gypsum application
 - Supplies sulfur, an essential secondary macronutrient for plant growth
-- Application rates typically 1-5 tonnes per hectare for soil structure improvement
+- [[compost-tea-application-rates]] typically 1-5 tonnes per hectare for soil structure improvement
 - When heated, gypsum loses water to become anhydrite (CaSO4)
 
 ## Properties
@@ -57,13 +57,13 @@ Gypsum forms through evaporation of saline waters and is one of the most common 
 ### Nutrient Supply
 - Supplies calcium (approximately 23% by weight) without affecting pH
 - Supplies sulfur (approximately 19% by weight), needed for protein synthesis
-- Sulfur deficiency is increasingly common in agricultural soils due to reduced atmospheric deposition
+- [[query-how-to-fix-sulfur-deficiency-in-cannabis]] is increasingly common in agricultural soils due to reduced atmospheric deposition
 - Particularly useful for brassica crops and other sulfur-demanding plants
 
 ### Permaculture Applications
 - Natural and widely available mineral that aligns with permaculture preference for local inputs
 - Can be sourced from quarry byproducts and industrial waste streams
-- Used in greywater treatment systems and constructed wetlands as a filtration medium
+- Used in [[mollison-designers-greywater-treatment-reedbeds]] systems and [[comparison-constructed-wetlands-vs-bioswales]] as a filtration medium
 - Helps establish productive soils on degraded or salt-affected sites
 - Part of the evaporite sequence connecting marine and terrestrial mineral cycles
 

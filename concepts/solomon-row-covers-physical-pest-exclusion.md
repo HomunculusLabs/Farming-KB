@@ -1,11 +1,11 @@
 # Row Covers and Physical Pest Exclusion Methods
-**Source:** Gardening When It Counts - [[steve-solomon]] gives particular attention to spun-fabric row covers as the most practical and versatile option for home gardeners, while also discussing cloches, hotcaps, and other traditional protective structures.
+**Source:** [[gardening-when-it-counts]] - [[steve-solomon]] gives particular attention to spun-fabric row covers as the most practical and versatile option for home gardeners, while also discussing cloches, hotcaps, and other traditional protective structures.
 
 ## Spun-Bonded Polyester Row Covers
 
 ### What They Are
 
-Spun-bonded row covers are lightweight, non-woven polyester fabrics that are draped directly over growing plants. The most well-known brand is Reemay, but many equivalent products exist under names like Agribon, GrowGuard, and others. They are manufactured by extruding fine polyester filaments and bonding them together in a random web pattern without weaving or knitting.
+Spun-bonded row covers are lightweight, non-woven polyester fabrics that are draped directly over growing plants. The most well-known brand is Reemay, but many equivalent products exist under names like [[agribon]], GrowGuard, and others. They are manufactured by extruding fine polyester filaments and bonding them together in a random web pattern without weaving or knitting.
 
 ### Physical Properties
 
@@ -20,10 +20,10 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[wasted-human-resources-and-traditional-knowledge]] combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 

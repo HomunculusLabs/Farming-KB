@@ -19,7 +19,7 @@ The Song of Deborah contains a barbed question aimed at the tribe of Issachar:
 name-phrase, *\*LI\_MASh\_BA(LA)\_ANTA\_TAB\_BA\_RI*, which he reads as "why are
 you resting (sh-b-kh) in the pasture?" The oracle is not a tribal insult but a
 double entendre — "resting" in the pasture evokes both the indolence of a
-sheepherder and the languid posture of the mushroom cult initiate reclining
+sheepherder and the languid posture of [[allegro-death-and-resurrection-in-the-mushroom-cult]] initiate reclining
 between the two barrier-walls of a sheepfold, itself a visual metaphor for the
 mushroom's flared cap.
 

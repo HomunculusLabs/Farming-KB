@@ -16,7 +16,7 @@ tags:
 
 ## Description
 
-Usnic acid is a dibenzofuran-derived secondary metabolite produced primarily by
+Usnic acid is a dibenzofuran-derived [[fungal-elicitors-enhanced-secondary-metabolite-production]] produced primarily by
 lichen-forming fungi, particularly in the genera *Usnea*, *Cladonia*, *Evernia*,
 and *Xanthoparmelia*. It is one of the most extensively studied lichen compounds
 and exhibits a broad spectrum of biological activities, including antibiotic,
@@ -32,7 +32,7 @@ other organisms.
 - **Appearance:** Yellow crystalline solid
 - **Solubility:** Poorly soluble in water; soluble in acetone, ethanol, and
   other organic solvents
-- **Optical Isomers:** Exists as both (+)-usnic acid and (-)-usnic acid
+- **[[optical-isomers-psychedelic-phenethylamines]]:** Exists as both (+)-usnic acid and (-)-usnic acid
 
 ## Key Facts
 
@@ -61,7 +61,7 @@ other organisms.
 
 - In boreal and temperate ecosystems, usnic acid-producing lichens (especially
   *Cladonia* spp.) can suppress the establishment and growth of tree seedlings
-  (pine, spruce) through allelopathic effects on mycorrhizal fungi and direct
+  (pine, spruce) through allelopathic [[faunal-grazing-effects-on-mycorrhizal-function]] fungi and direct
   inhibition of seed germination.
 - Brown and Mikola (1974) showed that *Cladonia* lichens reduced the growth
   and survival of Scots pine (*Pinus sylvestris*) and Norway spruce (*Picea
@@ -70,18 +70,18 @@ other organisms.
   vascular plant colonization, effectively maintaining open ground in heathland
   and tundra communities.
 - Usnic acid leaching from lichen thalli into soil can alter microbial community
-  composition and nutrient cycling processes.
+  composition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] processes.
 - Fisher (1979) found that lichen mulch of *Cladonia* species reduced both dry
   weight and phosphorus uptake in Jack pine and white spruce, with phosphorus
   content reduced to 77-85% of controls and nitrogen to 54-81% of controls.
 
 ## Relevance to Cultivation and Mycology
 
-- Usnic acid has been investigated for its antimicrobial properties and has a
+- Usnic acid has been investigated for its [[medicinal-mushroom-antimicrobial-properties]] and has a
   history of use in traditional medicine and commercial antiseptic preparations.
 - Its allelopathic properties are relevant to forestry, as lichen ground cover
   can reduce the success of tree seedling establishment in reforestation.
-- For mycologists, usnic acid exemplifies how fungal secondary metabolites can
+- For mycologists, usnic acid exemplifies how [[biodiversity-fungal-secondary-metabolites]] can
   structure ecological communities, suppressing competing fungi (including
   mycorrhizal partners) and altering plant community dynamics.
 - The compound is of interest in pharmaceutical research for its antibacterial,

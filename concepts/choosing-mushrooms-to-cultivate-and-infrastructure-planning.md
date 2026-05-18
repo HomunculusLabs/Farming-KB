@@ -6,7 +6,7 @@ type: concept
 
 # Choosing Mushrooms to Cultivate and Infrastructure Planning
 
-From [[tradd-cotter]]'s *Organic Mushroom Farming and Mycoremediation*, guidance on selecting mushroom species, matching them to available infrastructure, and planning cultivation operations.
+From [[tradd-cotter]]'s *[[organic-mushroom-farming-and-mycoremediation-overview]] and Mycoremediation*, guidance on selecting mushroom species, matching them to available infrastructure, and planning cultivation operations.
 
 ## Choosing a Mushroom Species
 
@@ -28,7 +28,7 @@ From [[tradd-cotter]]'s *Organic Mushroom Farming and Mycoremediation*, guidance
 |-----------|-----------------|
 | **Easy** | Oyster mushrooms (Pleurotus), king stropharia |
 | **Moderate** | Shiitake ([[lentinula-edodes]]) |
-| **Advanced** | Maitake (Grifola frondosa), lion's mane (Hericium) |
+| **Advanced** | Maitake ([[grifola-frondosa]]), lion's mane (Hericium) |
 | **Expert** | Morel (Morchella), chanterelle |
 
 ## Infrastructure Planning
@@ -58,13 +58,13 @@ From [[tradd-cotter]]'s *Organic Mushroom Farming and Mycoremediation*, guidance
 
 ### Tree Species Selection
 
-**Hardwoods** (preferred for most cultivated mushrooms):
+**Hardwoods** (preferred for most [[fungi-cultivated-mushrooms-pathogens-competitors]]):
 - Oak, maple, beech, birch, poplar, ironwood, hophornbeam, alder, sweetgum, cottonwood, elm
 
 **Conifers** (limited suitability):
-- Cauliflower mushroom (Sparassis crispa)
-- Tufted conifer lover (Hypholoma capnoides)
-- Some [[chicken-of-the-woods]] strains (Laetiporus conifericola)
+- [[cauliflower-mushroom-cultivation-sparassis]] (Sparassis crispa)
+- Tufted conifer lover ([[growing-gourmet-hypholoma-capnoides-cultivation]])
+- Some [[chicken-of-the-woods]] strains ([[laetiporus-conifericola]])
 
 **Caution**: "Some mushrooms grown on conifers can have a sap-like flavor and may cause gastric upset."
 

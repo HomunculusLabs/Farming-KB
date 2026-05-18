@@ -6,7 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 type: concept
 ---
 

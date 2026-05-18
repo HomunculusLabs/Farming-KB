@@ -117,3 +117,11 @@ The xylem and phloem are functionally linked. The high sugar concentration loade
 - The pressure flow mechanism—driven by source loading, osmotic water entry, and sink unloading—is the primary driver of phloem transport.
 - Phloem sap contains mRNA and proteins that serve long-distance signaling functions, coordinating defense, development, and stress responses.
 - Tree rings, formed by seasonal variation in xylem cell size, serve as historical records of climate conditions.
+
+## Practical Considerations
+
+Understanding the practical applications of this
+concept requires considering both theoretical frameworks
+and real-world implementation challenges. Practitioners
+must balance ideal approaches with available resources
+and site-specific conditions to achieve meaningful results.

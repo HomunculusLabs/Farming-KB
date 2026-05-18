@@ -5,7 +5,7 @@ tags: [pihkal, amphetamine, dom-analogue, antidepressant, classic-ladies]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+  - "raw/papers/shulgin-a-pihkal.md"
 type: concept
 ---
 

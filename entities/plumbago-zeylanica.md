@@ -24,7 +24,7 @@ sources:
 family Plumbaginaceae, valued across South and Southeast Asian traditional
 medicine systems for its digestive, anti-inflammatory, and antimicrobial
 properties. The species is distributed throughout tropical and subtropical
-regions from Africa to Southeast Asia and naturalized in many Pacific islands.
+regions from Africa to Southeast Asia and naturalized in many [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 Its primary bioactive constituent, plumbagin, is a naphthoquinone with
 well-documented cytotoxic, antibacterial, antifungal, and antiplasmodial
 activities. In Ayurveda, the [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]).
@@ -41,7 +41,7 @@ metabolites, with naphthoquinones being the most pharmacologically
 significant class:
 
 - **Plumbagin (5-hydroxy-2-methyl-1,4-naphthoquinone):** The principal
-  bioactive compound, comprising 0.5–1.5% of root dry weight. Potent
+  [[ganoderma-lucidum-triterpenoids-and-bioactive-compound-pharmacology]], comprising 0.5–1.5% of root dry weight. Potent
   redox-cycling quinone with broad biological activity.
 - **Zeylanone:** A related naphthoquinone derivative
 - **Plumbagic acid:** A quinoid glucoside
@@ -50,7 +50,7 @@ significant class:
 ## Overview
 
 Plumbago Zeylanica represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -79,13 +79,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for plumbago zeylanica. Climate adaptation
+opportunities for plumbago zeylanica. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -100,7 +100,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 plumbago zeylanica and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

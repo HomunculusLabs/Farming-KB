@@ -5,7 +5,7 @@ tags: [plant-biology, photoreception, light-signaling, phytochrome]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
+  - "raw/papers/grahamholmes-what-a-plant-knowsindd.md"
 type: concept
 ---
 

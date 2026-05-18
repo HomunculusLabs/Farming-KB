@@ -23,7 +23,7 @@ sources:
 
 # Crimson Clover (Trifolium incarnatum)
 
-**Trifolium incarnatum**, commonly known as **crimson clover**, **Italian clover**, or **carnation clover**, is an annual herbaceous legume in the family Fabaceae. Native to the Mediterranean region of southern Europe, it has become one of the most widely used cover crops [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], stunning crimson flower heads, and exceptional value as pollinator forage, crimson clover occupies a central role in sustainable and regenerative farming practices.
+**Trifolium incarnatum**, commonly known as **crimson clover**, **Italian clover**, or **carnation clover**, is an annual herbaceous legume in the family Fabaceae. Native to the Mediterranean region of southern Europe, it has become one of the most widely used [[biofumigation-and-brassica-cover-crops-for-pest-management]] [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], stunning crimson flower heads, and exceptional value as pollinator forage, crimson clover occupies a central role in sustainable and regenerative farming practices.
 
 The species epithet *incarnatum* (Latin for "flesh-colored" or "blood-red") refers to the intense crimson color of the flower heads, which create striking displays when planted in mass — a feature that has also made it popular as an ornamental.
 
@@ -38,12 +38,12 @@ The species epithet *incarnatum* (Latin for "flesh-colored" or "blood-red") refe
 - **Species:** T. incarnatum
 - **Chromosome number:** 2n = 14
 
-The genus *Trifolium* (true clovers) contains approximately 300 species distributed globally. *T. incarnatum* is one of the most commercially important species alongside red clover (*T. pratense*), white clover (*T. repens*), and alsike clover (*T. hybridum*).
+The genus *Trifolium* (true clovers) contains approximately 300 species distributed globally. *T. incarnatum* is one of the most commercially important species alongside red clover (*T. pratense*), [[fukuoka-white-clover-cover-crop-system]] (*T. repens*), and alsike clover (*T. hybridum*).
 
 ## Botanical Description
 
 ### Growth Habit
-Crimson clover is an upright, annual legume growing 20–50 cm tall (occasionally to 70 cm under optimal conditions). It has a bushy, branched growth form with multiple stems arising from a single crown. The plant is a winter annual in warm climates (planted fall, flowers spring) and a spring annual in cooler climates (planted early spring, flowers early summer).
+Crimson clover is an upright, annual legume growing 20–50 cm tall (occasionally to 70 cm under optimal conditions). It has a bushy, branched growth form with multiple stems arising from a single crown. The plant is a winter annual in warm climates (planted fall, flowers spring) and a spring annual in cooler climates (planted [[coleman-overwintered-onions-and-early-spring-crops]], flowers early summer).
 
 ### Leaves and Stems
 Trifoliate leaves with obovate leaflets 1.5–3.5 cm, dark green, finely serrated, sometimes with a pale V-shaped watermark. Prominent reddish-tinted stipules. Stems are hollow, slightly hairy, branched from the base, upright (not trailing like white clover), green to reddish-green.
@@ -64,7 +64,7 @@ Taproot reaches 30–60 cm deep with extensive lateral roots in the top 20–30 
 ### Nitrogen Fixation Capacity
 Crimson clover is among the most efficient annual [[dighton-fungal-biomass-production-aquatic-ecosystems]] | 3–6 t/ha dry matter |
 | Carbon-to-nitrogen ratio (C:N) | 15:1 to 25:1 (low = rapid decomposition) |
-| Root zone nitrogen contribution | Significant; root nodules + root exudates add N to soil profile |
+| Root zone nitrogen contribution | Significant; root nodules + [[mycorrhiza-root-exudates]] add N to soil profile |
 
 The relatively low C:N ratio of crimson clover biomass means it decomposes rapidly when incorporated into soil, releasing nitrogen within 2–4 weeks — making it an excellent pre-plant nitrogen source for subsequent crops.
 
@@ -77,7 +77,7 @@ Native to southern Europe (Mediterranean basin — Italy, Spain, Greece, Balkans
 
 ## Ecological Functions
 
-Crimson clover is one of the most valuable early-season nectar and pollen sources for pollinators — honey bees produce a light, premium honey from its nectar (40–50% sugar concentration). Bumble bees, native bees, butterflies, hoverflies, and [[permplant-willows-salix-erosion-control-fodder]] on slopes, waterways, and disturbed sites. Dense growth provides cover for small mammals and ground-nesting birds; seeds are consumed by quail, dove, turkey, and songbirds.
+Crimson clover is one of the most valuable early-season nectar and pollen sources for pollinators — [[comparison-honey-bees-vs-native-solitary-bees]] produce a light, premium honey from its nectar (40–50% sugar concentration). Bumble bees, [[query-how-to-attract-native-bees-and-beneficial-insects]], butterflies, hoverflies, and [[permplant-willows-salix-erosion-control-fodder]] on slopes, waterways, and disturbed sites. Dense growth provides cover for small mammals and ground-nesting birds; seeds are consumed by quail, dove, turkey, and songbirds.
 
 ## Cultivation
 

@@ -8,13 +8,13 @@ tags: [soil-biology, microbial-inoculants, compost-tea, effective-microorganisms
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
-  - /Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
-  - /Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
-  - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
-  - /Users/t3rpz/wiki/raw/papers/bahay-kubo-indigenous-microorganisms_.md
-  - /Users/t3rpz/wiki/raw/papers/nutrient-and-dynamic-accumulators.md
-  - /Users/t3rpz/wiki/raw/papers/teaming-with-microbes-lowenfels.md
+  - "raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+  - "raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md"
+  - "raw/papers/bahay-kubo-indigenous-microorganisms_.md"
+  - "raw/papers/nutrient-and-dynamic-accumulators.md"
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
 related_concepts:
   - "the-rhizosphere-ecology-and-plant-microbe-interactions"
   - "the-soil-food-web"

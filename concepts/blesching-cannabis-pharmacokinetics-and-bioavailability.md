@@ -5,7 +5,7 @@ tags: [cannabis, pharmacokinetics, bioavailability, adme, absorption]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---
 

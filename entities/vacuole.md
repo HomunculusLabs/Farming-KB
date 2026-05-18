@@ -9,7 +9,7 @@ tags: [organelle, plant-cell, storage, turgor, tonoplast, water-regulation]
 
 ## Description
 
-The vacuole is a large, single-membrane organelle in plant cells that serves as the primary storage compartment and pressure regulator. Filled with cell sap — a watery mixture of dissolved compounds — the vacuole can occupy up to 90 percent of a mature plant cell's volume. It plays critical roles in maintaining cell turgor (internal pressure), storing nutrients and waste products, regulating cytosolic pH, and providing structural support to the plant.
+The vacuole is a large, single-membrane organelle in plant cells that serves as the primary storage compartment and pressure regulator. Filled with cell sap — a watery mixture of dissolved compounds — the vacuole can occupy up to 90 percent of a mature plant cell's volume. It plays critical roles in maintaining cell turgor (internal pressure), storing nutrients and waste products, regulating cytosolic pH, and providing [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] to the plant.
 
 ## Classification
 
@@ -41,7 +41,7 @@ The vacuolar sap is a complex aqueous mixture containing:
 
 The vacuole is central to plant rigidity and support:
 
-- When the vacuole fills with water, it increases turgor pressure within the cell
+- When the vacuole fills with water, it increases [[bloomfield-turgor-pressure-and-hyphal-invasion]] within the cell
 - A full vacuole is one reason plant stems can support heavy fruits and store water
 - When the vacuole shrinks due to water shortage, the plasmalemma pulls away from the cell wall
 - This collective withdrawal is called plasmolysis, which manifests as wilting
@@ -52,9 +52,9 @@ The vacuole is central to plant rigidity and support:
 The tonoplast plays a key role in cytosolic pH homeostasis:
 
 - The cytosol pH must be maintained near neutral (pH 7)
-- Specialized transport proteins in the tonoplast pump hydrogen ions (H+) into the vacuole
+- Specialized [[membrane-transport-proteins-in-plants]] the tonoplast pump hydrogen ions (H+) into the vacuole
 - This increases H+ concentration inside the vacuole and lowers its pH
-- By sequestering excess hydrogen ions, the tonoplast keeps the cytosol at the proper pH for enzyme function and metabolic activity
+- By sequestering excess hydrogen ions, the tonoplast keeps the cytosol at the proper pH for enzyme function and [[arbuscule-isolation-metabolic-activity-assays]]
 
 ## The Tonoplast
 
@@ -77,7 +77,7 @@ The tonoplast is the specialized membrane surrounding the vacuole:
 ## Relevance to Cultivation and Mycology
 
 - Turgor pressure maintained by vacuoles determines plant rigidity — drought stress directly impacts vacuolar water content, causing wilting and reduced growth
-- Nutrient storage in vacuoles provides a buffer against fluctuating nutrient availability in the soil
+- Nutrient storage in vacuoles provides a buffer against fluctuating [[chelation-and-nutrient-availability]] in the soil
 - Pigment storage in vacuoles affects flower color, fruit quality, and visual appeal of cultivated plants
 - In fungi, vacuoles serve similar storage and pH regulatory roles and are important for storing polyphosphate reserves
 - Understanding vacuole function helps explain why over-fertilization can damage cells — excess ions must be sequestered in vacuoles, and when capacity is exceeded, cellular toxicity results
@@ -85,7 +85,7 @@ The tonoplast is the specialized membrane surrounding the vacuole:
 
 ## References
 
-- Lowenfels, Jeff. *Teaming with Nutrients: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
+- Lowenfels, Jeff. *[[teaming-with-nutrients-availability-factors]]: The Organic Gardener's Guide to Optimizing Plant Nutrition*. Chapter 1: Plant Cells.
 
 ## See Also
 

@@ -45,8 +45,8 @@ All Psilocybe species share these features:
 - **Gill attachment:** Adnate to adnexed (rarely sinuate or subdecurrent)
 - **Pileipellis (cap surface):** Cutis or ixocutis (smooth to slightly viscid)
 - **Stipe:** Central, typically thin and fragile in small species
-- **Partial veil:** Present or absent; when present, forms a fibrillose or membranous annulus
-- **Blueing reaction:** Most (but not all) species develop blue-green bruises when damaged, caused by oxidation of psilocin and related compounds
+- **Partial veil:** Present or absent; when present, forms a fibrillose or [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]
+- **Blueing reaction:** Most (but not all) species develop blue-green bruises when damaged, caused by oxidation of psilocin and [[lsd-structure-activity-relationships-related-compounds]]
 - **Habitat:** Extremely diverse — dung, soil, wood, leaf litter, moss, sand, and more
 
 ## Guzman's Section Classification
@@ -99,7 +99,7 @@ The most widely distributed group; found wherever large herbivores are present:
 |---|---|---|
 | P. cubensis | Pantropical | Moderate (0.5-1.0%) |
 | P. subcubensis | Central/South America | Low-moderate |
-| P. tampanensis | Florida, Central America | Low-moderate |
+| P. tampanensis | Florida, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] | Low-moderate |
 | P. colimensis | Mexico | Moderate |
 
 ### Wood-Inhabiting Species (Lignicolous)
@@ -136,14 +136,14 @@ Found on decaying wood, wood chips, and woody debris:
 
 ## Related Psychoactive Genera
 
-Several other mushroom genera contain psilocybin and related tryptamines, with independent evolutionary origins:
+Several other mushroom genera contain psilocybin and related tryptamines, with independent [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]]:
 
 ### Panaeolus (Fr.) Quél.
 
 - **Distinguishing features:** Black spore print; mottled gills (spots of different colors due to simultaneous spore maturation); thin, fragile stems; grows on dung
 - **Psychoactive species:**
-  - P. cyanescens (syn. Copelandia cyanescens) — very potent, pantropical, strong bluing
-  - P. subbalteatus — moderate potency, widespread in temperate regions
+  - P. cyanescens (syn. [[copelandia-cyanescens]]) — very potent, pantropical, strong bluing
+  - P. subbalteatus — moderate potency, widespread in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
   - P. tropicalis — tropical, high potency
   - P. bisporus — 2-spored species, Caribbean
   - P. cambodginiensis — Southeast Asia

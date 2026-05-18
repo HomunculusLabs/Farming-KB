@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [fungal-ecology, mycology]
-sources: []
+sources:
+  - "raw/papers/symbiotic-fungi.md"
 ---
 ---
 title: Fungal Endophytes in Grassland Ecology

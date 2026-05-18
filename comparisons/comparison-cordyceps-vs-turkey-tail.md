@@ -10,12 +10,12 @@ sources: []
 
 ## Overview
 
-Cordyceps militaris and turkey tail (Trametes versicolor) are two of the
-most researched medicinal mushrooms, yet they occupy very different
+[[cordyceps-militaris]] and turkey tail ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]) are two of the
+most researched [[anti-cancer-polysaccharides-from-medicinal-mushrooms]], yet they occupy very different
 ecological niches and serve distinct health purposes. Cordyceps is prized
 for energy, stamina, and adaptogenic support, while turkey tail is the
 gold standard for immune modulation and cancer adjunct therapy. This
-comparison examines their bioactive compounds, cultivation requirements,
+comparison examines their [[cordyceps-cancer-bioactive-compounds]], [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]],
 medicinal applications, and practical considerations for growers and
 consumers choosing between them.
 
@@ -38,7 +38,7 @@ typically adding 5-15% improvement in five-year survival. Turkey tail is
 also a potent broad-spectrum immunomodulator, activating macrophages,
 natural killer cells, and T-cells while acting as a prebiotic that
 supports gut-immune health. Cultivation is relatively straightforward
-on hardwood sawdust or log substrates, though most commercial supply
+on [[hardwood-sawdust-substrate]] or log substrates, though most commercial supply
 comes from wild foraging and large-scale extraction operations.
 
 ## Key Differences

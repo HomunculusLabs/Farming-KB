@@ -1,5 +1,5 @@
 ---
-title: "Cordyceps vs Oyster Mushroom Cultivation"
+title: "Cordyceps vs Comparison Reishi Vs Oyster Mushroom Cultivation"
 tags: [comparison, cordyceps, oyster, mushroom-cultivation, medicinal-mushrooms]
 date: 2026-05-11
 updated: 2026-05-11
@@ -19,7 +19,7 @@ Despite their differences, both offer compelling reasons for cultivation.
 Oysters provide reliable, high-volume food production from waste streams.
 Cordyceps commands premium prices for its medicinal compounds, especially
 cordycepin (3'-deoxyadenosine), which has attracted significant research
-attention for anti-cancer and adaptogenic properties.
+attention for anti-cancer [[ashwagandha-cultivation-uses-and-adaptogenic-properties]].
 ## Cordyceps Cultivation
 
 [[growing-gourmet-oyster-cultivation]]
@@ -31,12 +31,12 @@ expensive to grow." Global production surged from 169,000 metric tons in
 
 ### Substrate Versatility
 
-Oysters grow on nearly anything: wheat straw, hardwood sawdust, coffee
+Oysters grow on nearly anything: wheat straw, [[hardwood-sawdust-substrate]], coffee
 grounds, corn cobs, sugarcane bagasse, cottonseed hulls, paper, and
 cardboard. Substrates need only pasteurization (not full sterilization),
 which can be achieved with hot water baths at 160-170F for 1-2 hours.
 This dramatically simplifies infrastructure requirements compared to the
-pressure sterilization Cordyceps demands.
+[[boil-a-bag-pressure-sterilization-technique]] Cordyceps demands.
 
 ### Environmental Parameters
 
@@ -46,7 +46,7 @@ pressure sterilization Cordyceps demands.
 
 ### Yields and Efficiency
 
-Oysters routinely achieve biological efficiency exceeding 100%, meaning
+Oysters routinely achieve [[biological-efficiency]] exceeding 100%, meaning
 the wet weight of mushrooms harvested exceeds the dry weight of substrate
 used. Two flushes are typical over a 3-4 week cropping cycle. Protein
 content reaches 15-35% of dry weight, with notable vitamin C and B
@@ -84,7 +84,7 @@ endurance, immune modulation, and anti-fatigue applications.
 
 ## When to Choose Oyster
 
-Grow Oyster mushrooms for reliable food production, waste recycling, or
+[[query-how-to-grow-oyster-mushrooms-at-home]] for reliable food production, waste recycling, or
 as a first cultivation project. Their tolerance for imperfect technique
 makes them the ideal teaching species. Small-scale growers can start with
 bucket cultivation using straw and hot-water pasteurization costing under

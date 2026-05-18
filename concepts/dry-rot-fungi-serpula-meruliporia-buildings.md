@@ -1,5 +1,5 @@
 ---
-title: Dry Rot Fungi — Serpula lacrymans and Meruliporia in Buildings
+title: Dry Rot Fungi — Serpula Lacrymans and Meruliporia in Buildings
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Dry rot is the most feared form of wood decay in buildings, caused primarily by *Serpula lacrymans* in Europe and *Meruliporia incrassata* (also known as *Poria incrassata*) in North America. These basidiomycete fungi can cause catastrophic structural damage by decomposing timber while transporting water over considerable distances through specialized mycelial cords and rhizomorphs. The economic impact is enormous, and dry rot has a long cultural history including references in ancient texts and centuries of legal disputes over insurance coverage.
+Dry rot is the most feared form of wood decay in buildings, caused primarily by *Serpula lacrymans* in Europe and *[[meruliporia-incrassata]]* (also known as *Poria incrassata*) in North America. These basidiomycete fungi can cause catastrophic structural damage by decomposing timber while transporting water over considerable distances through specialized mycelial cords and rhizomorphs. The economic impact is enormous, and dry rot has a long cultural history including references in ancient texts and centuries of legal disputes over insurance coverage.
 
 ## Mycelial Strands and Rhizomorphs
 
@@ -25,7 +25,7 @@ Both *Serpula* and *Meruliporia* form elaborate mycelial strands — linear aggr
 
 - **Exploration**: Strands are sent out from the colony in search of new food sources.
 - **Water transport**: Rhizomorphs (larger than strands) have waterproofed surfaces and enclose a central pipe for water transmission.
-- **Nutrient translocation**: Strands transport nutrients across barren terrain between food sources.
+- **[[dighton-fungal-nutrient-translocation-element-redistribution]]**: Strands transport nutrients across barren terrain between food sources.
 - **Disassembly**: As soon as a scouting strand reaches nutrients, hyphae fan out to form new mycelia and the strand disassembles.
 
 ### Trigger
@@ -74,7 +74,7 @@ A landmark legal case (Joseph Glaviano et al. v. Allstate Insurance Co., No. 00-
 
 ## Health Concerns
 
-Although *Meruliporia* and *Serpula* can collapse homes, they **do not raise the health concerns** associated with indoor moulds. Their spores are not considered significant allergens or toxins compared with species like *Stachybotrys chartarum*.
+Although *Meruliporia* and *Serpula* can collapse homes, they **do not raise the health concerns** associated with indoor moulds. Their spores are not considered significant allergens or toxins compared with species like *[[stachybotrys-chartarum]]*.
 
 ## *Stachybotrys* and the Dry Rot Distinction
 
@@ -90,6 +90,6 @@ Although *Meruliporia* and *Serpula* can collapse homes, they **do not raise the
 
 ## See Also
 
-- [[fungal-bioweathering-rocks-minerals]] — Fungal degradation of building materials
-- [[mycogenic-mineral-precipitation]] — Mineral transformations by fungi
+- [[fungal-bioweathering-rocks-minerals]] — [[fungal-degradation-of-pcbs-by-white-rot-fungi]] building materials
+- [[mycogenic-mineral-precipitation]] — [[fungal-biogeochemical-mineral-transformations]] by fungi
 - [[fungal-network-resilience-evolution]] — [[mycelial-network-biology]]

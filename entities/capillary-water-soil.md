@@ -14,7 +14,7 @@ Capillary water is the water held in small soil pore spaces by forces of adhesio
 - **Domain**: Soil physics / Hydrology
 - **Category**: Soil water type
 - **Distinguished from**: Gravitational water (drains through), Hygroscopic water (too tightly bound for root uptake)
-- **Retention force**: Surface tension from adhesion and cohesion
+- **Retention force**: [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] from adhesion and cohesion
 
 ## Types of Soil Water
 
@@ -47,14 +47,14 @@ Capillary water is the water held in small soil pore spaces by forces of adhesio
 - Capillary water availability depends on soil texture: clay has the most capillary water (many small pores), sand the least (few small pores), silt intermediate.
 - Loam soil provides the ideal balance of gravitational drainage (from sand) and capillary retention (from silt and clay).
 - The presence of carbon dioxide in soil air is a good indicator that soil life is metabolically active and healthy.
-- Poor soil porosity leads to anaerobic conditions: all oxygen is consumed by aerobic organisms, and anaerobic organisms take over, producing alcohols and other substances toxic to plant roots.
+- Poor soil porosity leads to [[aact-ph-and-anaerobic-conditions]]: all oxygen is consumed by aerobic organisms, and [[anaerobic-organisms-compost]] take over, producing alcohols and other substances toxic to plant roots.
 
 ## Relevance to Cultivation and Mycology
 
 - Understanding capillary water dynamics explains why soil texture matters for both plant growth and fungal colonization: fungi require consistent moisture but also adequate oxygen.
 - Overwatering fills all pore spaces with gravitational water, displacing air and creating anaerobic conditions that kill beneficial aerobic fungi and bacteria.
-- Mulch and organic matter dramatically increase capillary water retention by adding humus particles with enormous surface area and creating additional micro-pores.
-- In mushroom cultivation, substrate moisture content must be carefully managed to maintain capillary water while preserving air spaces — the same balance as in healthy soil.
+- Mulch [[hamilton-composting-and-organic-matter-management]] dramatically increase capillary water retention by adding humus particles with enormous surface area and creating additional micro-pores.
+- [[contamination-prevention-in-mushroom-cultivation]], substrate moisture content must be carefully managed to maintain capillary water while preserving air spaces — the same balance as in healthy soil.
 - Mycorrhizal fungal hyphae effectively extend the plant's capillary water access by transporting water from distant pore spaces back to the root.
 - Compost improves both water-holding capacity (more capillary water) and drainage (better aggregate structure for gravitational water movement), achieving the ideal dual function.
 - No-till practices preserve the pore structure that holds capillary water; tilling destroys soil aggregates and initially increases drainage at the expense of long-term water retention.
@@ -78,4 +78,4 @@ and horticulture. Understanding soil structure dynamics helps growers
 optimize tillage practices, amendment applications, and planting schedules.
 Biological soil management focuses on feeding soil organisms rather than
 directly supplying nutrients to plants, creating self-sustaining fertility.
-Regular soil food web assessments guide adaptive management strategies.
+Regular soil food web assessments guide adaptive [[forest-management-strategies]].

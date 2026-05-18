@@ -1,5 +1,5 @@
 ---
-title: Bloomfield History Of Mycology Pioneers
+title: Bloomfield History Of Mycology Scientific Discipline Mycology Pioneers
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -35,7 +35,7 @@ He crossed the Atlantic sixty-five times, using ocean voyages for writing. His
 mentor Frank Harold's desk bore the quote: "For God's sake stop doing experiments
 and think!" He wore a moth-eaten raccoon coat on forays and dressed in a
 four-button black jacket and striped pants cut in Birmingham. A photograph from
-the first meeting of the Mycological Society of America in 1932 shows him with
+the first meeting of the [[british-mycological-society]] of America in 1932 shows him with
 one white sock and one dark. He retired in 1936 but the comptroller turned him
 out of his office. He died in 1944.
 
@@ -72,7 +72,7 @@ of a [[bloomfield-buller-experimental-mycology]]
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -83,15 +83,15 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
 
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
+these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 

@@ -38,11 +38,11 @@ Nitrogen fixation in woody plants occurs through two distinct symbiotic pathways
 - Form visible nodules where N₂ is converted to NH₃ (ammonia)
 - Plant supplies carbon (photosynthate) to bacteria; bacteria supply fixed nitrogen
 - Nodules appear as small pinkish bumps on roots (pink = leghemoglobin = active fixation)
-- Occurs in all leguminous trees and shrubs
+- Occurs in all leguminous [[nitrogen-fixing-trees-and-shrubs]]
 
 **Actinorhizal Nodulation (Actinomycetes)**
 - Frankia bacteria form nodules on non-legume hosts
-- Found in Betulaceae (alder), Casuarinaceae (she-oak), Elaeagnaceae (autumn olive, sea buckthorn), Coriariaceae, and others
+- Found in Betulaceae (alder), Casuarinaceae (she-oak), Elaeagnaceae ([[permaculture-autumn-olive]], [[comparison-aronia-vs-goji-vs-sea-buckthorn]]), Coriariaceae, and others
 - Functionally similar to rhizobial fixation but evolved independently
 - Often more tolerant of acidic or nutrient-poor soils than legume-rhizobia systems
 
@@ -52,8 +52,8 @@ Nitrogen fixation rates vary enormously by species, climate, soil conditions, an
 
 | Category | Annual N Fixation (kg/ha/yr) | Notes |
 |---|---|---|
-| Highly productive legumes | 100–300+ | Pigeon pea, leucaena, gliricidia under optimal conditions |
-| Temperate N-fixing trees | 40–160 | Black locust, alder, autumn olive |
+| Highly productive legumes | 100–300+ | [[comparison-pigeon-pea-vs-cowpea]], leucaena, gliricidia under optimal conditions |
+| Temperate N-fixing trees | 40–160 | [[black-locust-entity]], alder, autumn olive |
 | Tropical/subtropical N-fixers | 80–250 | Calliandra, sesbania, inga |
 | Actinorhizal shrubs | 30–100 | Sea buckthorn, buffaloberry, ceanothus |
 | Established mature trees | 20–80 | Fixation slows as trees mature |
@@ -83,7 +83,7 @@ A single mature black locust can fix 50–100 kg N/yr, equivalent to roughly 100
 - **Growth rate**: Fast (1–2m/yr)
 - **Management**: Tolerates wet, anaerobic soils; coppices well; short-lived (30–60 years)
 - **Design role**: Pioneer on wet/acidic sites, riparian restoration, nurse crop
-- **Notes**: Red alder (*A. rubra*) is a [[hemenway-backyard-wildlife-habitat]], erosion control
+- **Notes**: Red alder (*A. rubra*) is a [[hemenway-backyard-wildlife-habitat]], [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
 - **Growth rate**: Very fast, drought-tolerant
 - **Cautions**: *E. umbellata* is invasive in [[plants-tolerant-of-alkaline-soils]]; can be coppiced
 - **Design role**: Cold-climate nitrogen fixer, poultry fodder, windbreak component
