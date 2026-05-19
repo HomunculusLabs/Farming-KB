@@ -70,11 +70,11 @@ Premenstrual syndrome encompasses physical and emotional symptoms occurring in t
 
 Vitex is the first-line herb for PMS, particularly for progesterone deficiency or estrogen dominance. Its hormone-normalizing effects address breast tenderness, mood changes, and cycle irregularity.
 
-St. John's Wort is specifically effective for mood-related PMS symptoms. Clinical trials have demonstrated its efficacy for premenstrual depression and irritability.
+St. John's Wort is specifically effective for mood-related PMS symptoms. Clinical trials have demonstrated its efficacy for premenstrual depression and irritability. See [[st-johns-wort-cultivation-and-medicinal-uses]] for cultivation details.
 
 St. John's Wort should not be combined with oral contraceptives or SSRIs due to drug interactions. It induces cytochrome P450 enzymes, accelerating metabolism of many pharmaceuticals.
 
-Dandelion root supports liver function and hormone metabolism. The liver breaks down and eliminates excess hormones, and sluggish function contributes to PMS symptoms.
+Dandelion root supports liver function and hormone metabolism. The liver breaks down and eliminates excess hormones, and sluggish function contributes to PMS symptoms. See [[dandelion]] for identification and [[stinging-nettle]] for mineral-rich alternatives.
 
 Dandelion root as a decoction or tincture supports hormone detoxification. It is particularly useful for PMS characterized by bloating, breast tenderness, and irritability.
 
@@ -84,7 +84,7 @@ Herbal fertility support focuses on optimizing the hormonal environment for conc
 
 Raspberry leaf is a classic fertility tonic that tones the uterine musculature. Rich in fragarine, an alkaloid that strengthens pelvic muscles, it is traditionally consumed as daily tea for months before conception.
 
-Red clover contains isoflavones that may support fertility by improving cervical mucus quality and promoting hormonal balance. Red clover infusion taken daily is a traditional fertility remedy.
+Red clover contains isoflavones that may support fertility by improving cervical mucus quality and promoting hormonal balance. Red clover infusion taken daily is a traditional fertility remedy. See [[red-clover]] for cultivation and phytoestrogen details.
 
 Dong quai is called the "female ginseng" in TCM. It tonifies the blood and regulates the menstrual cycle, useful for fertility issues related to irregular or absent menstruation.
 
@@ -102,7 +102,7 @@ Ginger is well-established as safe and effective for morning sickness. Clinical 
 
 Nettle leaf provides iron and other minerals that support blood volume expansion during pregnancy. Many midwives recommend nettle infusion as a pregnancy tonic.
 
-Postpartum herbal care includes wound-healing sitz baths with calendula, yarrow, and plantain. Motherwort tincture supports uterine involution and emotional balance.
+Postpartum herbal care includes wound-healing sitz baths with [[calendula-officinalis]], [[yarrow-achillea-millefolium]], and [[plantain-weed]]. Motherwort tincture supports uterine involution and emotional balance.
 
 Nursing mothers may benefit from galactagogue herbs like fenugreek and blessed thistle. These herbs have traditional and some clinical support for increasing milk production.
 
@@ -136,7 +136,7 @@ Both herbs can be grown in the home garden. Red clover is extremely easy to cult
 
 ## Cannabis and the Endocannabinoid System
 
-The endocannabinoid system plays a significant role in female reproductive health. CB1 and CB2 receptors are expressed throughout the reproductive tract including the hypothalamus, pituitary, ovaries, and uterus.
+The endocannabinoid system plays a significant role in female reproductive health. CB1 and CB2 receptors are expressed throughout the reproductive tract including the hypothalamus, pituitary, ovaries, and uterus. See [[endocannabinoid-system-overview]] for background.
 
 Anandamide fluctuates with the menstrual cycle, suggesting a regulatory role. Cannabis phytocannabinoids THC and CBD interact with this endogenous system.
 
