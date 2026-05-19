@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Fall and Winter Sowing Schedules
+## Fall and Winter Sowing Schedules
 
 Successful winter harvesting begins with precise succession sowing across multiple protected environments. [[eliot-coleman]]'s system at [[four-season-farm]] uses four distinct planting sites, each providing progressively more protection, to extend the harvest season from fall through the depths of winter.
 

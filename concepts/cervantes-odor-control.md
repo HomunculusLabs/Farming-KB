@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
-# Odor Control in Cannabis Gardens
+## Odor Control in Cannabis Gardens
 A good exhaust fan, vented outdoors, is the first step
 in [[cervantes-ozone-generators-negative-ion-odor]], activated charcoal filters,
 or a combination of two or more of these solutions.

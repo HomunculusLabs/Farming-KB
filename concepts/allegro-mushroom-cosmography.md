@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Mushroom Cosmography — The Universe as Fungus
+## Mushroom Cosmography — The Universe as Fungus
 
 Allegro reveals that [[allegro-dead-sea-scrolls-and-early-christian-sects]] basin, the bowels of the earth.
 

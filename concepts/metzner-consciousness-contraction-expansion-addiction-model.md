@@ -7,7 +7,7 @@ topics: [addiction, consciousness-expansion, consciousness-contraction, narcotic
 type: concept
 ---
 
-# Consciousness Contraction and Expansion Model of Addiction
+## Consciousness Contraction and Expansion Model of Addiction
 
 ## Overview
 

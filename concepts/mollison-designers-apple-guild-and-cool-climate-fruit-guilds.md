@@ -14,7 +14,7 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
-# Apple Guild and Cool Climate Fruit Guilds
+## Apple Guild and Cool Climate Fruit Guilds
 The concept of the food guild is central to Mollison's approach to perennial
 polyculture. A guild is a functional assembly of species deliberately placed
 together to support a central element, typically a food-producing tree, through

@@ -10,7 +10,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Indoor Growing Environment
+## Indoor Growing Environment
 [[fukuoka-textdoc-energy-efficiency-agricultural-labor]].
 ## The Growing Room Complex
 The growing room complex houses all non-laboratory activities within one building. Each room has different requirements according to function. Growers in humid tropical climates face a set of problems uniquely different from growers in cold, temperate climates. Ancillary storage and shop maintenance buildings are separate.

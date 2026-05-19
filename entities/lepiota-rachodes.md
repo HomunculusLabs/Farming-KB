@@ -5,9 +5,9 @@ type: species
 tags: [mycology, identification, gourmet-mushrooms, lepiota]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Lepiota rachodes Lepiota rachodes, commonly known as the Shaggy Parasol, is a large, edible mushroom closely related to [[lepiota-procera]], and the two species can sometimes be found growing near each other.
+## Lepiota rachodes Lepiota rachodes, commonly known as the Shaggy Parasol, is a large, edible mushroom closely related to [[lepiota-procera]], and the two species can sometimes be found growing near each other.
 - **Seasonality:** Late summer through autumn, typically August through November in the Northern Hemisphere. Most abundant during warm, humid periods following rain.
 - **Growth pattern:** Usually found singly or in small groups, occasionally in [[lepiota-procera]]
 - **Lepiota naucina** — Smooth Parasol, another edible Lepiota; see lepiota-naucina

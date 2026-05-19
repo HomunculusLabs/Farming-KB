@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Vegetable Growing Detailed
+## Fukuoka Vegetable Growing Detailed
 
 updated: 2026-04-18
 

@@ -1,4 +1,8 @@
-# Northern and Southern Hemisphere Mycobiota Convergence in Mexico
+---
+title: "Northern and Southern Hemisphere Mycobiota Convergence in Mexico"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
 - [[doc]]
 - [[psilocybe-zapotecorum]]
-- [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]

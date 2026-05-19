@@ -5,7 +5,7 @@ extracted: 2026-05-10
 tags: [cannabis, horticulture, cervantes, water-quality, reverse-osmosis, filtration, ph, nutrients]
 ---
 
-# Water Quality and Filtration for Cannabis Cultivation
+## Water Quality and Filtration for Cannabis Cultivation
 
 ## Overview
 

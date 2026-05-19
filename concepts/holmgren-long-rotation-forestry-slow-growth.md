@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Long-Rotation Forestry and Slow-Growth Strategies
+## Long-Rotation Forestry and Slow-Growth Strategies
 
 [[pinus-radiata]],
 a conifer from Monterey, California. Its very fast growth made it the focus of

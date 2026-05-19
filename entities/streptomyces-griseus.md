@@ -5,10 +5,10 @@ type: species
 tags: [actinomycetes, antibiotic-production, soil-bacteria, streptomycin, bioactive-compounds]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
+sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 ---
 
-# Streptomyces griseus
+## Streptomyces griseus
 
 *Streptomyces griseus* is a filamentous, Gram-positive bacterium belonging to the phylum Actinomycetota (formerly Actinobacteria) and the family *Streptomycetaceae*. It is one of the most historically significant microorganisms in the history of medicine and biotechnology, having been the original source of streptomycin—the first antibiotic effective against *Mycobacterium tuberculosis* (the causative agent of tuberculosis). Discovered in 1943 by Selman Waksman and Albert Schatz at Rutgers University, this discovery earned Waksman the 1952 Nobel Prize in Physiology or Medicine.
 

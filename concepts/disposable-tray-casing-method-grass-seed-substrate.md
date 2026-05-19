@@ -1,5 +1,10 @@
+---
+title: "Disposable Tray Casing Method Grass Seed Substrate"
+tags:
+  - concept
+---
 
-# Disposable Tray Casing Method for [[grass-seed-substrate-for-mushroom-cultivation]] into a fruiting-ready
+## Disposable Tray Casing Method for [[grass-seed-substrate-for-mushroom-cultivation]] into a fruiting-ready
 configuration. Popular among home cultivators of **[[fruiting-chamber]]. Trays are disposable,
 eliminating sterilisation of fruiting containers between runs.
 

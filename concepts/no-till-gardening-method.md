@@ -7,7 +7,7 @@ tags: [no-till, living-soil, regenerative, soil, microbes, gardening, compost, p
 sources: []
 ---
 
-# No-Till Gardening Method
+## No-Till Gardening Method
 
 No-till gardening is a cultivation approach that avoids turning, plowing, or inverting the soil. Instead of disturbing the soil profile, organic matter is added to the surface as mulch, and soil biology is relied upon to incorporate nutrients downward. This method preserves soil structure, protects microbial networks, builds organic matter, and reduces weed pressure over time.
 

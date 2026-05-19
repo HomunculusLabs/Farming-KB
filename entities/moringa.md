@@ -17,7 +17,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Moringa
+## Moringa
 
 **Type:** Species (Plant)
 **Category:** Multipurpose food and medicinal tree

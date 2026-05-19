@@ -15,7 +15,7 @@ sources:
   - Lipp FJ (1989). "Methods of Ethnobotanical Research." Advances in Economic Botany.
 ---
 
-# Plumeria rubra
+## Plumeria rubra
 
 ## Overview
 

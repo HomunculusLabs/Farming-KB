@@ -7,7 +7,7 @@ tags: [gardening, organic-gardening]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Home Garden Seed Saving
+## Home Garden Seed Saving
 
 Saving seed from your own garden is one of the most rewarding aspects of [[synthetic-log-cultivation-methods-guide]]
 - **Biodiversity**: By growing and saving seed from diverse varieties, you help preserve genetic diversity

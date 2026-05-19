@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Wasson and the Rediscovery of the Mexican Mushroom Cult
+## Wasson and the Rediscovery of the Mexican Mushroom Cult
 
 ## Overview
 

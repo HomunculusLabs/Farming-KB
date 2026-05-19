@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Cashinahua Ayahuasca Practices
+## Cashinahua Ayahuasca Practices
 
 ## Overview
 

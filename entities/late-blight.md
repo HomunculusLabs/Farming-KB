@@ -5,7 +5,7 @@ type: entity
 tags: [oomycete, pathogen, plant-disease, potato, tomato, phytophthora]
 ---
 
-# Late Blight
+## Late Blight
 
 ## Description
 Late blight is a devastating plant disease caused by the oomycete pathogen *Phytophthora infestans*, infamous for causing the Irish Potato Famine (1845-1852). It affects primarily potatoes and tomatoes but can infect other members of the Solanaceae family. The disease spreads rapidly in cool, moist conditions and can destroy entire crops within days. Elaine Ingham reports extensive experience managing late blight using compost tea approaches, noting significant success when adequate fungal biomass is maintained on leaf surfaces.

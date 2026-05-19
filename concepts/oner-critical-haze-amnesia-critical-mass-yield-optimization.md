@@ -4,7 +4,7 @@ source: Oner, S.T. & The Rev (2014). Cannabis Sativa Vol. 3. Green Candy Press.
 tags: [critical-haze, cannabis-genetics, amnesia-haze, critical-mass, strain-profile, breeding, yield, oner]
 ---
 
-# Critical Haze — Amnesia × Critical Mass Hybrid for Yield Optimization
+## Critical Haze — Amnesia × Critical Mass Hybrid for Yield Optimization
 
 ## Overview
 

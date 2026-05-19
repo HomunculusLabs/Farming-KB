@@ -24,7 +24,7 @@ sources:
 - raw/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Bill Mollison
+## Bill Mollison
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 

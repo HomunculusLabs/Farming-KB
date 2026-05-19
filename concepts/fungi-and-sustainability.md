@@ -22,7 +22,7 @@ sources:
 - raw/articles/fungi-and-sustainability-fungi-magazine.md
 ---
 
-# Fungi and Sustainability
+## Fungi and Sustainability
 
 The role of fungi in pursuing environmental sustainability — from waste recycling and poverty alleviation through mushroom cultivation, to the essential fungal networks that sustain terrestrial ecosystems (Spinosa, Fungi Magazine, 2008).
 

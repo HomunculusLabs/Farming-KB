@@ -14,7 +14,7 @@ sources: []
 type: comparison
 ---
 
-# White Rot vs Brown Rot Fungi in Bioremediation
+## White Rot vs Brown Rot Fungi in Bioremediation
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Skin Cancer (Non-Melanoma)
+## Cannabis and Skin Cancer (Non-Melanoma)
 
 ## Overview
 

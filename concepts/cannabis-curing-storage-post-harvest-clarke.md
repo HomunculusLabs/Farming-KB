@@ -4,12 +4,11 @@ created: 2026-04-28
 tags: [cannabis, harvesting, curing, storage, drying, post-harvest, clarke]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+sources: ["raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md"]
 type: concept
 ---
 
-# cannabis curing storage post harvest clarke
+## cannabis curing storage post harvest clarke
 
 The harvesting, drying, curing, and storage of Cannabis floral clusters are
 critical final steps that determine the appearance, taste, aroma, and
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[sphingomonas-wittichii-cannabis-microbiome]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+Proper curing techniques ultimately determine the final quality and market value of the harvested cannabis crop.

@@ -5,10 +5,10 @@ tags:
   mycelium, victorian-gardening, spawning]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md, "]
 type: concept
 ---
-# Steeped Spawn and Transplanting Working Spawn The [[french-flake-spawn-vs-brick-spawn]]: "This is produced by breaking up the brick
+## Steeped Spawn and Transplanting Working Spawn The [[french-flake-spawn-vs-brick-spawn]]: "This is produced by breaking up the brick
 spawn into pieces about two inches square and mixing them in
 a heap of manure that is fermenting gently. After lying in
 this heap about three weeks it will be found one mass of

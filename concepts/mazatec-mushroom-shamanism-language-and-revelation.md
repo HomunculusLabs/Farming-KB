@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Mushroom Shamanism — Language and Revelation
+## Mazatec Mushroom Shamanism — Language and Revelation
 
 ## Overview
 

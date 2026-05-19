@@ -4,7 +4,7 @@ source: "Elaine Ingham PhD — The Field Guide I for actively-aerated-compost-te
 tags: [aact, compost-tea, fungal-food, chitin, rock-dust, protozoa, nematodes, trichoderma, mycorrhizal, actinomycetes, beneficial-fungi, soil-foodweb]
 ---
 
-# AACT Fungal Foods — Chitin, Rock Dust, Protozoa, and Beneficial Nematodes
+## AACT Fungal Foods — Chitin, Rock Dust, Protozoa, and Beneficial Nematodes
 
 Achieving fungal dominance in [[ingham-aact-disease-suppression-through-food-competition]] competitive exclusion and direct antagonism of plant pathogens.
 

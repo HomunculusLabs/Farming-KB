@@ -5,7 +5,7 @@ tags: [dosage, pharmacology, effects, harm-reduction, hallucinogens]
 created: 2026-05-09
 ---
 
-# Hallucinogenic Mushroom Dosage and Effects
+## Hallucinogenic Mushroom Dosage and Effects
 
 The effects of psilocybin-containing mushrooms depend on dose, individual
 sensitivity, previous experience, set (mindset), and setting (environment).

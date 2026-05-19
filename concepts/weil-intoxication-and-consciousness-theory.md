@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [toxic]
 ---
-# Weil — Intoxication and Consciousness Theory
+## Weil — Intoxication and Consciousness Theory
 
 ## Overview
 

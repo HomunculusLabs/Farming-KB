@@ -23,7 +23,7 @@ sources:
 - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
 
-# Fungal Decomposition
+## Fungal Decomposition
 
 Fungi are the primary decomposers of lignocellulosic material in terrestrial ecosystems. Their ability to break down the structural polymers of wood — cellulose, hemicellulose, and lignin — underpins nutrient cycling, soil formation, and carbon sequestration worldwide.
 

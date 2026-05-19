@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
+sources: ["raw/papers/a-selection-permaculture-plants.md"]
 ---
-# Ant and Termite Fungal Symbiosis
+## Ant and Termite Fungal Symbiosis
 
 ## Overview
 

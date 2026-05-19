@@ -2,7 +2,7 @@
 title: 4-Fluoroamphetamine
 ---
 
-# 4-Fluoroamphetamine
+## 4-Fluoroamphetamine
 
 ## Overview
 

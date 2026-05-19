@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in
 type: concept
 ---
 
-# Mycelial Foraging Strategies in Heterogeneous Environments
+## Mycelial Foraging Strategies in Heterogeneous Environments
 
 Cord-forming saprotrophic basidiomycetes grow as [[fungal-mycelial-competition-and-combat-outcomes]] foraging heterogeneous environments and fungal mycelial foraging heterogeneous environments.
 

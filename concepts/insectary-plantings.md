@@ -7,7 +7,7 @@ tags: [companion-planting, insects, plants, agriculture, gardening, pest-managem
 sources: []
 ---
 
-# Insectary Plantings
+## Insectary Plantings
 
 Insectary plantings are dedicated areas of flowering plants grown specifically to attract, feed, and shelter beneficial insects — predators, parasitoids, and pollinators. By providing nectar, pollen, and habitat, insectary plantings increase the population of insects that control pests and pollinate crops, reducing the need for chemical interventions.
 

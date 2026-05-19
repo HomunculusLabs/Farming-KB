@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Ayahuasca Healing Ceremonies in Iquitos
+## Ayahuasca Healing Ceremonies in Iquitos
 
 ## Overview
 

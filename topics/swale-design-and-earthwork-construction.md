@@ -23,7 +23,7 @@ related_concepts:
   - pond-design-and-construction
 ---
 
-# [[permaculture-water-harvesting|water]] management. These deliberately shaped land features capture,
+## [[permaculture-water-harvesting|water]] management. These deliberately shaped land features capture,
 slow, spread, and infiltrate surface water, transforming destructive runoff
 into productive soil moisture. From the simple contour ditch to the
 sophisticated keyline irrigation system, earthworks form the foundation upon

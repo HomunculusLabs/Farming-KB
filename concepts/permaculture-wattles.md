@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
+sources: ["raw/papers/a-selection-permaculture-plants.md"]
 ---
 Updated: 2026-04-18 Source: Permaculture Plants: A Selection (Nugent & Boniface, 2nd ed 2004) A large genus of ~850 species native to Australia. Family: Mimosaceae. Key [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is possible for larger-scale plantings but requires careful site preparation and [[coleman-leek-deep-planting-technique]] tubes (supertubes) that encourage downward root growth are recommended over shallow containers. Mulching at planting reduces competition from weeds and conserves soil moisture during the critical establishment period. Most wattles grow rapidly once established, with many species reaching 1-2 metres in their first year under favorable conditions. See [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], this nitrogen-fixing capacity is a benefit when wattles are used as nurse trees or [[permaculture-difficult-sites-plant-guide]] and [[falconer-fire-fang-manure-preparation]] for using acacia wood in [[nitrogen-fixing-trees-and-shrubs]]
 - [[permaculture-nitrogen-fixing-trees]]

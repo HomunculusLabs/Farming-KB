@@ -6,7 +6,7 @@ tags: [language, three-dimensional-language, tryptamine, mckenna, linguistic-evo
 aliases: [Visible 3D Language Tryptamine McKenna, Hyperspatial Language Cultural Evolution]
 ---
 
-# Three-Dimensional Visible Language as Future Human Capacity: McKenna's Tryptamine Hypothesis of Linguistic Evolution
+## Three-Dimensional Visible Language as Future Human Capacity: McKenna's Tryptamine Hypothesis of Linguistic Evolution
 
 Among the most consequential speculative claims in McKenna's 1983 Esalen lecture
 is his hypothesis that the [[tryptamine]] experience reveals a latent human capacity

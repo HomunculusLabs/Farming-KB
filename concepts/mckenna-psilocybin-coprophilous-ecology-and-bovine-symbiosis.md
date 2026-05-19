@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Mushroom Coprophilous Ecology and Bovine Symbiosis
+## Psilocybin Mushroom Coprophilous Ecology and Bovine Symbiosis
 
 ## Overview
 

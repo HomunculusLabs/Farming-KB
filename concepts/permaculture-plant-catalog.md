@@ -22,7 +22,7 @@ sources:
 - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Plant Catalog
+## Permaculture Plant Catalog
 
 Reference table of plants organised by function. Sourced primarily from "Permaculture Plants: A Selection" with additions from Mollison's Designer's Manual. See permaculture plant catalog companion pages: [[dynamic-accumulators]], [[cover-cropping-guide]], [[food-forest-layers-and-species]], [[companion-planting-reference]].
 

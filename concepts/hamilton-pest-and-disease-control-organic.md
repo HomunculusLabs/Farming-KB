@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
-# Hamilton Pest and Disease Control Organic
+## Hamilton Pest and Disease Control Organic
 
 ## Overview
 

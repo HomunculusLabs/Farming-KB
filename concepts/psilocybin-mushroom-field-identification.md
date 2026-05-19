@@ -4,7 +4,7 @@ source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---
 
-# Psilocybin Mushroom Field Identification Guide
+## Psilocybin Mushroom Field Identification Guide
 
 This guide covers the identification of psilocybin-containing mushrooms common to the southern United States, based on F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom*. Three species are described in detail: *Psilocybe cubensis*, *Panaeolus subbalteatus*, and *Psilocybe caerulescens*.
 

@@ -8,7 +8,7 @@ sources: [papers/chos-global-natural-farming.md]
 type: comparison
 ---
 
-# Natural Farming vs Permaculture
+## Natural Farming vs Permaculture
 
 ## Overview
 Natural farming, as articulated by [[permaculture-design]]

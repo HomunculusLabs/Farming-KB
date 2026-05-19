@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF FMC Floor and Temperature Control
+## KNF FMC Floor and Temperature Control
 
 [[knf-input-storage-guidelines]].
 

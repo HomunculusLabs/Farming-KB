@@ -25,7 +25,7 @@ sources:
   - Mabberley, D.J. (2017). Mabberley's Plant-Book (4th ed.). Cambridge University Press.
 ---
 
-# Chenopodium album
+## Chenopodium album
 
 **Chenopodium album** L. (1753), commonly known as **lamb's quarters**, **pigweed**, **fat-hen**, **goosefoot**, **melde**, or **wild spinach**, is an annual herbaceous plant in the family Amaranthaceae (formerly Chenopodiaceae). One of the most widely distributed and successful weed species on Earth, it is found on every continent except Antarctica and has been a food plant for humans since prehistoric times. Despite its reputation as an agricultural pest, *C. album* is a highly nutritious edible green, a dynamic mineral accumulator, and a valuable species in permaculture and [[growing-gourmet-north-american-reishi-species]]). The genus contains ~150 species, including cultivated quinoa (*C. quinoa*) and huauzontle (*C. nuttalliae*).
 

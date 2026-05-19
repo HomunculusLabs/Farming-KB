@@ -6,7 +6,7 @@ tags: [mycology, mycorrhiza, matsutake, chanterelle, truffle, mushroom-cultivati
 created: 2026-05-09
 ---
 
-# Mycorrhizal Mushrooms
+## Mycorrhizal Mushrooms
 
 Mycorrhizal mushrooms form mutually dependent, beneficial relationships with
 the roots of host plants, ranging from trees to grasses. "Myco" means

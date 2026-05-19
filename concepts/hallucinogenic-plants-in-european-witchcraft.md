@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Hallucinogenic Plants in European Witchcraft
+## Hallucinogenic Plants in European Witchcraft
 
 ## Overview
 

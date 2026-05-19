@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Barley and Clover Cultivation
+## Fukuoka Barley and Clover Cultivation
 
 Masanobu Fukuoka's system of growing barley (and rye) in succession with rice, using white clover as a permanent living ground cover, is one of the most productive and elegant examples of [[cannabis-harvest-timing-visual-cues]]**: Barley and rye mature in May, before Japan's rainy season (June-July), making them safe and reliable. American wheat varieties matured during the rains and frequently rotted in the field.
 2. **Adaptation**: Traditional varieties had been grown in Japan for centuries and were well-adapted to local conditions, soils, and climate.

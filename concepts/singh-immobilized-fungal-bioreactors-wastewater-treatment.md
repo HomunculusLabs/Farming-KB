@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Immobilized Fungal Bioreactors for Wastewater Treatment
+## Immobilized Fungal Bioreactors for Wastewater Treatment
 
 Immobilization of fungal cells or enzymes in solid supports is a key
 strategy for enhancing the efficiency and stability of bioremediation

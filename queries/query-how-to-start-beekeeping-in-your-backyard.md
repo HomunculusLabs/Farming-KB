@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Start Beekeeping in Your Backyard?
+## How to Start Beekeeping in Your Backyard?
 
 ## Short Answer
 Starting backyard beekeeping requires learning basic bee biology, selecting appropriate equipment, obtaining bees, and committing to regular hive inspections throughout the season.

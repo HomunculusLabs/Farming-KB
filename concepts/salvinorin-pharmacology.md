@@ -8,7 +8,7 @@ type: concept
 tags: [pharmacology]
 ---
 
-# Salvinorin Pharmacology
+## Salvinorin Pharmacology
 
 Salvinorin A is the principal psychoactive compound of
 [[hofmann-salvia-divinorum-discovery]] were first brought to

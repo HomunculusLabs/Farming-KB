@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# GABA, Glutamate, and the Endocannabinoid System
+## GABA, Glutamate, and the Endocannabinoid System
 
 Gamma-aminobutyric acid (GABA) and glutamate are the brain's primary
 inhibitory and excitatory neurotransmitters, respectively. Their balance is

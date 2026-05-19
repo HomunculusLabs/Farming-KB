@@ -4,9 +4,9 @@ created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Decomposition and Wood Decay by Fungi Fungi have fundamental importance as [[fungal-decomposition-ecology]] is the most abundant organic polymer on Earth and the primary structural component of plant cell walls. Its decomposition requires a complex suite of fungal enzymes:
+## Decomposition and Wood Decay by Fungi Fungi have fundamental importance as [[fungal-decomposition-ecology]] is the most abundant organic polymer on Earth and the primary structural component of plant cell walls. Its decomposition requires a complex suite of fungal enzymes:
 
 - **Cellulases**: Break down cellulose into glucose units
 - **Hemicellulases**: Degrade hemicellulose polymers

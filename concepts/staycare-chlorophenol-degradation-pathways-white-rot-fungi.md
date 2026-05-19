@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Chlorophenol Degradation Pathways by White Rot Fungi
+## Chlorophenol Degradation Pathways by White Rot Fungi
 
 Chlorophenols represent a major class of environmental pollutants
 generated through [[fungal-melanin-environmental-protection-stress-resistance-gadd]] Agency. White rot fungi have demonstrated

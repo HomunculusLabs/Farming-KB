@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 related: [rye-grain-substrate-preparation, sclerotia-formation-psilocybe-species, mushroom-casing-soil-recipes]
 ---
 
-# Grass Seed as Mushroom Substrate
+## Grass Seed as Mushroom Substrate
 
 Grass seed is a highly effective substrate for the cultivation of various
 Psilocybe species and other mushrooms. Its small kernel size provides a high

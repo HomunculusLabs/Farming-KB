@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Trophic Pyramids, Food Webs, and Energy Cycling
+## Trophic Pyramids, Food Webs, and Energy Cycling
 
 In the Designers' Manual, Mollison critically examines the
 conventional trophic pyramid model of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in permaculture

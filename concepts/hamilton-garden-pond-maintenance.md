@@ -7,7 +7,7 @@ tags: [organic-gardening, plants]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Garden Pond Maintenance Throughout the Year
+## Garden Pond Maintenance Throughout the Year
 
 updated: 2026-04-18
 

@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Ashwagandha vs Echinacea
+## Ashwagandha vs Echinacea
 
 ## Overview
 

@@ -23,7 +23,7 @@ sources:
 - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 ---
 
-# The One-Straw Revolution — Book Guide
+## The One-Straw Revolution — Book Guide
 
 *The One-Straw Revolution* (1975, 1978 English) by Masanobu Fukuoka is the foundational text of natural farming. Originally published in Japanese as *Ichi-mugi no Kakumei*, it was translated into 25+ languages and became one of the most influential books on sustainable agriculture. It is part philosophy, part memoir, part farming manual — structured as five "books" told through conversations with visitors at his hilltop orchard.
 

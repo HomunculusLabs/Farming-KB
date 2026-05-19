@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Lactarius rufus
+## Lactarius rufus
 
 **Lactarius rufus** is an ectomycorrhizal basidiomycete fungus in the family Russulaceae, commonly known as the rufous milkcap. It is a common ectomycorrhizal associate of coniferous trees, particularly pines, and plays a significant role in soil food webs as a food resource for fungivorous soil animals. The species is notable for being the premier food source for fungivorous nematodes among [[ectomycorrhizal-fungi]] studied.
 

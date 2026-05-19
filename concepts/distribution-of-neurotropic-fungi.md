@@ -1,13 +1,13 @@
 ---
-title: global-distribution-of-neurotropic-fungi Fungi
+title: "Distribution Of Neurotropic Fungi"
 created: 2026-04-28
 tags: [mycology, biogeography, psilocybin, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 type: concept
 ---
-# Distribution of Neurotropic Fungi The global distribution of neurotropic fungi reveals striking patterns that reflect evolutionary history, climate, and the ecology of their preferred substrates. The most comprehensive analysis, by Guzmán, Allen, and Gartz (1998), documented 216 species across all continents except Antarctica, with concentrations strongly correlated with subtropical and tropical humid forests. ## Continental Overview ### Mexico Mexico is the world epicenter of neurotropic fungal diversity, hosting **76 species** of which 44 belong to the genus Psilocybe — representing 39% of all known Psilocybe species worldwide. This extraordinary concentration is attributed to Mexico's varied topography, tropical and subtropical climates, and the extensive history of indigenous mushroom use that has driven mycological exploration. The states of Oaxaca, Puebla, and Veracruz are particularly rich. See [[psilocybe-southeast-asia-pacific]] (Thailand,
+## Distribution of Neurotropic Fungi The global distribution of neurotropic fungi reveals striking patterns that reflect evolutionary history, climate, and the ecology of their preferred substrates. The most comprehensive analysis, by Guzmán, Allen, and Gartz (1998), documented 216 species across all continents except Antarctica, with concentrations strongly correlated with subtropical and tropical humid forests. ## Continental Overview ### Mexico Mexico is the world epicenter of neurotropic fungal diversity, hosting **76 species** of which 44 belong to the genus Psilocybe — representing 39% of all known Psilocybe species worldwide. This extraordinary concentration is attributed to Mexico's varied topography, tropical and subtropical climates, and the extensive history of indigenous mushroom use that has driven mycological exploration. The states of Oaxaca, Puebla, and Veracruz are particularly rich. See [[psilocybe-southeast-asia-pacific]] (Thailand,
 Cambodia, Vietnam, Indonesia, the Philippines) contains significant
 populations of [[psilocybe-cubensis-potency-variation-by-flush]],
 psilocybe-australiana, and several

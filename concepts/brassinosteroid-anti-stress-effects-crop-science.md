@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Brassinosteroid Anti-Stress Effects in Crop Science and Agriculture
+## Brassinosteroid Anti-Stress Effects in Crop Science and Agriculture
 
 Beyond their growth-promoting properties, brassinosteroids have
 demonstrated significant anti-stress effects in agricultural

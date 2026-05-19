@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Social Hierarchy Patterns and Tribal Art in Service of Life
+## Social Hierarchy Patterns and Tribal Art in Service of Life
 
 ## Universal World Beliefs and Their Degradation
 

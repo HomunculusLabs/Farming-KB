@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Soil Humus as Carbon Storage and Rebuilding Natural Capital
+## Soil Humus as Carbon Storage and Rebuilding Natural Capital
 
 [[query-how-to-grow-and-use-oca-in-temperate-climates]]. Humus
 increases the capacity of soils to store mineral nutrients, water, and carbon.

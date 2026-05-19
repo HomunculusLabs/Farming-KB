@@ -17,7 +17,7 @@ sources:
   - GRIN Taxonomy
 ---
 
-# Centaurea montana
+## Centaurea montana
 
 ## Overview
 

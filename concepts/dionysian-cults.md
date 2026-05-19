@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# Dionysian Cults
+## Dionysian Cults
 
 The Dionysian Mysteries were secret religious practices in ancient Greece centered on Dionysus (Bacchus to the Romans), the god of wine, ecstasy, fertility, and theater. These cults represented one of the most important mystery traditions of the classical world, emphasizing direct religious experience over dogma.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [fertilizer]
 ---
 
-# Fertilizer Selection and Application Rates
+## Fertilizer Selection and Application Rates
 
 ## The Complete Organic Fertilizer (COF) Recipe
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Genetic Bottleneck and Diversity Loss in Cannabis
+## Genetic Bottleneck and Diversity Loss in Cannabis
 
 Genetic diversity is the foundation upon which all [[cannabis-gene-pool-preservation-acclimatization-clarke]] available to breeders and threatening the
 long-term viability of the species.

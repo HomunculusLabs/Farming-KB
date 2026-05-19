@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The European Culture of Food
+## The European Culture of Food
 
 During his tour of the European countryside, [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]] is all about, but found it
 totally incomprehensible. His observations reveal a

@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Natural Pesticide — Ultra-Low-Cost Pest Control System
+## JADAM Natural Pesticide — Ultra-Low-Cost Pest Control System
 
 ## Overview
 

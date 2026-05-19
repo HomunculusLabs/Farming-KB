@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Elaphomyces granulatus
+## Elaphomyces granulatus
 
 **Elaphomyces granulatus** is a hypogeous (underground) ectomycorrhizal
 ascomycete fungus in the family Elaphomycetaceae, commonly known as the

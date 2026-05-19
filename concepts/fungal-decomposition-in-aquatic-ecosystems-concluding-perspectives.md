@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Decomposition in Aquatic Ecosystems — Concluding Perspectives
+## Fungal Decomposition in Aquatic Ecosystems — Concluding Perspectives
 
 ## Overview
 

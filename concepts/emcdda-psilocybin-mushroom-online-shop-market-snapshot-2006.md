@@ -6,7 +6,7 @@ type: concept
 tags: [emcdda, online-shops, internet, mushroom-market, smartshop, e-commerce, europe, netherlands, psilocybe-cubensis]
 ---
 
-# EMCDDA Psilocybin Mushroom Online Shop Market Snapshot 2006
+## EMCDDA Psilocybin Mushroom Online Shop Market Snapshot 2006
 
 ## Overview
 

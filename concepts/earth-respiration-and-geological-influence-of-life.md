@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earth Respiration and the Geological Influence of Life
+## Earth Respiration and the Geological Influence of Life
 
 The concept of earth respiration describes the continuous exchange of gases, fluids, and dissolved materials between the soil, atmosphere, and hydrosphere. This is not a metaphor — it is a literal, measurable process driven by biological activity, weather patterns, tidal forces, and geological processes. Understanding earth respiration provides a framework for comprehending how soil health, [[earthworms]] to prairie dogs, continuously move material from deeper layers to the surface and vice versa.
 

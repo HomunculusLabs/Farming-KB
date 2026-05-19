@@ -7,7 +7,7 @@ sources:
   - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 
-# Cordyceps vs Oyster Mushroom Cultivation
+## Cordyceps vs Oyster Mushroom Cultivation
 ## Overview
 
 Cordyceps and Oyster mushrooms represent two extremes of mushroom

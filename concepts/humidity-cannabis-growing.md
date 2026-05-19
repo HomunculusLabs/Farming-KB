@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Humidity in Cannabis Growing
+## Humidity in Cannabis Growing
 
 [[query-how-does-no-till-cannabis-cultivation-work]] that directly affects plant growth, pest pressure, and disease incidence. Relative humidity (RH) is the ratio between the amount of moisture in the air and the greatest amount of moisture the air could hold at the same temperature.
 

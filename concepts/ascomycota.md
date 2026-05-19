@@ -6,7 +6,7 @@ tags: [mycology, ascomycota, taxonomy, fungi, phylogeny, yeast, penicillium]
 created: 2026-05-09
 ---
 
-# Ascomycota
+## Ascomycota
 
 The Ascomycota is the largest phylum of the [[bloomfield-truffle-evolution-cup-fungi-hypogeous]] and truffles, from plant pathogens to the organisms that
 give us penicillin and brewer's yeast. Some of the most economically and

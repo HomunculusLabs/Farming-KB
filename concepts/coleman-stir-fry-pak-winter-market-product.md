@@ -15,7 +15,7 @@ sources:
   - eliot-coleman-winter-harvest-handbook.md
 ---
 
-# Stir-Fry Pak — Winter Market Value-Added Product
+## Stir-Fry Pak — Winter Market Value-Added Product
 
 ## Overview
 

@@ -5,7 +5,7 @@ author: Terence McKenna
 topics: [cultural-philosophy, dominator-culture, sugar, addiction, environmental-ethics, cartesian-rationalism]
 ---
 
-# Sugar and the Dominator Culture: Nature Mute and Cultural Psychosis
+## Sugar and the Dominator Culture: Nature Mute and Cultural Psychosis
 
 [[terence-mckenna]] argued that sugar was not merely an addictive substance
 but a catalyst for a deeper cultural transformation — the entrenchment

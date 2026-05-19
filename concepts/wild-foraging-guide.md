@@ -7,7 +7,7 @@ tags: [foraging, plants, species, ecology, environment, homesteading, sustainabi
 sources: []
 ---
 
-# Wild Foraging Guide
+## Wild Foraging Guide
 
 Wild foraging connects the homesteader to the land's [[gadd-saprotrophic-fungi-15n-13c-natural-abundance-isotopes]]. With knowledge of seasonal cycles, plant identification, and ethical harvesting, wild plants supplement the diet with nutrient-dense foods unavailable from cultivated sources.
 

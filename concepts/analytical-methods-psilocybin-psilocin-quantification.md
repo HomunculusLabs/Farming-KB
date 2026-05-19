@@ -6,7 +6,7 @@ related: ["variation-of-psilocybin-and-psilocin-levels-bigwood-beug", "street-sa
 created: 2026-05-09
 ---
 
-# Analytical Methods for Psilocybin and Psilocin Quantification
+## Analytical Methods for Psilocybin and Psilocin Quantification
 
 ## Introduction
 

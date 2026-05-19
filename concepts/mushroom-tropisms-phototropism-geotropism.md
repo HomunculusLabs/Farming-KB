@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms, cultivation]
 sources: [papers/tropisms-in-the-mushroom-psilocybe-cubensis.md]
 ---
-# Mushroom Tropisms: Phototropism and Geotropism Mushroom fruitbody development involves directed growth responses (tropisms) to environmental stimuli. Badham (1982) studied these tropisms in [[aquatic-fungi-spore-dispersal-ingold]] by orienting toward airflow
+## Mushroom Tropisms: Phototropism and Geotropism Mushroom fruitbody development involves directed growth responses (tropisms) to environmental stimuli. Badham (1982) studied these tropisms in [[aquatic-fungi-spore-dispersal-ingold]] by orienting toward airflow
 - **Directed growth toward evaporative demand** increases spacing between stipes of cespitose (clustered) fruitbodies
 - **[[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]** ensures a horizontal pileus for effective spore release, critical for coprophilous species in unstable habitats
 

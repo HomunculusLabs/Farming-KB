@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Pesticides Biosystem Ripple Effects and Fungal Mutation
+## Fukuoka Pesticides Biosystem Ripple Effects and Fungal Mutation
 
 [[comparison-parasitoid-wasps-vs-chemical-pesticides]]—set off
 cascading chain reactions through interconnected biological systems. His

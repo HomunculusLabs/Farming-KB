@@ -4,7 +4,7 @@ source: comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stame
 tags: [mycology, mushroom-cultivation, container-design, tray-culture, bag-culture, bottle-culture, column-culture, growing-systems]
 ---
 
-# Mushroom Cropping Container Systems — Design and Comparison
+## Mushroom Cropping Container Systems — Design and Comparison
 
 ## Overview
 

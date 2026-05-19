@@ -6,7 +6,7 @@ topics: [cannabis, breeding, spain, european-cannabis, seed-companies, sativa]
 created: 2026-05-09
 ---
 
-# Spanish Cannabis Breeding Scene
+## Spanish Cannabis Breeding Scene
 
 ## Europe's Cannabis Hotbed
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Marine Aquaculture and Seaweed Estuary Systems
+## Marine Aquaculture and Seaweed Estuary Systems
 
 Marine aquaculture represents one of the most productive and underutilized edges [[ecological-succession-in-permaculture-design]]. The intertidal zone—the boundary between land and sea—offers extraordinary opportunities for food production, material harvesting, and ecosystem management. Bill Mollison observed that traditional coastal communities worldwide had developed sophisticated systems for working with these edges, from Irish kelp harvesting to Hawaiian reef gardening.
 

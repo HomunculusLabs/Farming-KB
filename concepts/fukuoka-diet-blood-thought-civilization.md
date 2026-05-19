@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Diet, Blood, Thought, and Civilization
+## Fukuoka Diet, Blood, Thought, and Civilization
 
 [[fukuoka-westerners-zen-diet-dedication]]
 - [[natural-diet]]

@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 type: concept
 ---
 
-# McKenna's Stoned Ape Hypothesis — Psilocybin and Human Evolution
+## McKenna's Stoned Ape Hypothesis — Psilocybin and Human Evolution
 
 [[terence-mckenna]]'s "stoned ape" hypothesis, presented in *Food of the Gods* (1992), proposes that psychoactive mushrooms — specifically psilocybin-containing *Psilocybe* species growing in the dung of ungulates on the African grasslands — played a decisive catalytic role in the rapid expansion of the human brain and the emergence of language, religion, and self-reflective consciousness during the Pliocene and Pleistocene epochs.
 

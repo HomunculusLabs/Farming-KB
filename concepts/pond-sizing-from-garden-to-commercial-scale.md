@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Sizing from Garden to Commercial Scale
+## Pond Sizing from Garden to Commercial Scale
 
 ## Overview
 

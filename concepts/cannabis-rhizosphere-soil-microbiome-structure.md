@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Cannabis Rhizosphere and Soil Microbiome Structure
+## Cannabis Rhizosphere and Soil Microbiome Structure
 
 > Source: Winston et al. 2014, PLoS ONE 9(6):e99641 — Experiment 2 and pooled analyses.
 

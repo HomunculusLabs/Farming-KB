@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, pf-tek]
 created: 2026-05-09
 ---
 
-# PF Substrate Formula
+## PF Substrate Formula
 
 The PF [[holzer-mushroom-cultivation-methods]] ever developed. Created by [[brown-rice-flour-substrate]] powder, vermiculite, and
 water — into a nutritious, airy medium that supports robust [[jar-preparation-and-sterilization]] technique.

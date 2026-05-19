@@ -1,12 +1,12 @@
 ---
-title: Zone 1 comparison-zone-1-intensive-garden-vs-zone-5-wilderness
+title: "Zone 1 Intensive Garden"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [gardening, organic-gardening]
 sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Zone 1 Intensive Garden
+## Zone 1 Intensive Garden
 
 Zone 1 is the most intensively managed area in a [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], a patio, and other daily-use elements. This is where the gardener's energy and attention are concentrated for maximum return.
 

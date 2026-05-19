@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Jergón sacha (Dracontium loretense)
+## Jergón sacha (Dracontium loretense)
 
 ## Description
 Jergón sacha is a medicinal plant widely used in Amazonian traditional medicine, particularly valued for treating snakebites. Its name comes from its resemblance to the jergón snake (*Bothrops* species), and it exemplifies the Amazonian doctrine of signatures where a plant's appearance signals its medicinal use. In Amaringo's visions, it appears alongside a jergón snake coiled within it.

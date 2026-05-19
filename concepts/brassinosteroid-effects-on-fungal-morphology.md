@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, brassinosteroid, fungal-morphology, developmental-biology, phytohormones]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: ["raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"]
 type: concept
 ---
-# Brassinosteroid Effects on Fungal Morphology The 1990 study by Gartz, Adam, and Vorbrodt documented not only growth promotion but also a striking morphological alteration in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development
+## Brassinosteroid Effects on Fungal Morphology The 1990 study by Gartz, Adam, and Vorbrodt documented not only growth promotion but also a striking morphological alteration in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development
 in [[gadd-fungal-cell-structure]] membranes and alter membrane fluidity or
 receptor function, indirectly affecting morphogenetic signaling cascades
 that operate through membrane-localized components.

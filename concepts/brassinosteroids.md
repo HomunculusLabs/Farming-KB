@@ -7,7 +7,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 tags: [phytohormones, plant-growth-regulators, steroids, brassinosteroids]
 ---
 
-# Brassinosteroids
+## Brassinosteroids
 
 Brassinosteroids (BRs) are a class of polyhydroxylated steroidal plant growth
 regulators recognized as a distinct group of phytohormones. First isolated from

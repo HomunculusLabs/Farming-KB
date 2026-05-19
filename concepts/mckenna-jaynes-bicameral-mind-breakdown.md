@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Julian Jaynes Bicameral Mind Theory and Hallucination
+## Julian Jaynes Bicameral Mind Theory and Hallucination
 
 ## Overview
 

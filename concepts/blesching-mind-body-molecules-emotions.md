@@ -6,7 +6,7 @@ published: 2015
 tags: [cannabis, mind-body-medicine, endocannabinoid-system, neurotransmitters, emotions]
 ---
 
-# Cannabis Mind-Body Molecules and Emotions Biology
+## Cannabis Mind-Body Molecules and Emotions Biology
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 ---
-# Spawn Production Techniques
+## Spawn Production Techniques
 
 Spawn is the living [[comparison-grain-spawn-vs-sawdust-spawn]] blocks -> 100-200 fruiting blocks
 

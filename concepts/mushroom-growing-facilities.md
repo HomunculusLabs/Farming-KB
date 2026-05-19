@@ -5,7 +5,7 @@ type: concept
 tags: [mushroom, facilities, caves, champignoniere, mushroom-house, cellar, cultivation-infrastructure, temperature-control]
 ---
 
-# Mushroom Growing Facilities and Cave Cultivation
+## Mushroom Growing Facilities and Cave Cultivation
 
 The selection and construction of appropriate growing facilities is one of the most critical decisions in mushroom cultivation. The main environmental factors requiring regulation—temperature and moisture—can be controlled in a variety of situations, from natural caves to purpose-built structures. The choice of facility type has historically depended on available resources, local climate, and the scale of production intended.
 

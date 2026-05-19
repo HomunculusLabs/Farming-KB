@@ -17,7 +17,7 @@ sources:
   - Tutin, T.G. et al. (1976). "Flora Europaea, Volume 4." Cambridge University Press.
 ---
 
-# Solidago virgaurea
+## Solidago virgaurea
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [composting, soil-building, soil-health, gardening]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Sheet Composting
+## Sheet Composting
 
 Sheet composting (also called in-situ composting or composting in place) decomposes organic materials directly on the garden bed where they will be used, rather than in a separate pile. This saves labor, retains nutrients on-site, and builds soil structure without transport.
 

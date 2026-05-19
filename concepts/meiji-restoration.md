@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Meiji Restoration
+## Meiji Restoration
 
 ## Overview
 The Meiji Restoration was the political and social transformation that began in japan in 1868.

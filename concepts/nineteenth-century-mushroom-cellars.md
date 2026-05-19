@@ -5,7 +5,7 @@ source: william-falconer, Mushrooms: How to Grow Them (1891)
 tags: [mushroom-cellar, greenhouse, historical-agriculture, long-island, mushroom-house, growing-structure, market-gardening]
 ---
 
-# Nineteenth Century [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Structures
+## Nineteenth Century [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Structures
 
 ## The Need for Protected Growing Spaces
 

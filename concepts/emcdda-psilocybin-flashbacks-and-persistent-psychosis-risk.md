@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin, flashbacks, psychosis, mental-health, emcdda, hppd]
 ---
 
-# Psilocybin Flashbacks and Persistent Psychosis Risk
+## Psilocybin Flashbacks and Persistent Psychosis Risk
 
 The EMCDDA's 2006 thematic paper on [[hallucinogenic-mushroom-mental-health-risks]] as the most significant category of harm associated
 with psilocybin-containing fungi. While acute toxicity is low and no

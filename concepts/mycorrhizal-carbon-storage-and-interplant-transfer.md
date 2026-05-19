@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Carbon Storage and Interplant Carbon Transfer
+## Mycorrhizal Carbon Storage and Interplant Carbon Transfer
 
 ## Overview
 

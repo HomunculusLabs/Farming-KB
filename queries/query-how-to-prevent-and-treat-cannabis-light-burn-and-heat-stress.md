@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Prevent and Treat Cannabis Light Burn and Heat Stress?
+## How to Prevent and Treat Cannabis Light Burn and Heat Stress?
 
 ## Short Answer
 

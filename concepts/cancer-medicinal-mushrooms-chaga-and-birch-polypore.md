@@ -8,7 +8,7 @@ type: concept
 tags: [chaga, medicine, mushroom-cultivation, mushrooms]
 ---
 
-# Chaga (Inonotus obliquus) and Birch Polypore (Piptoporus betulinus)
+## Chaga (Inonotus obliquus) and Birch Polypore (Piptoporus betulinus)
 
 ## Overview
 

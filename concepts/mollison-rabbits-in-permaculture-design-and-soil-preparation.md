@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Rabbits in [[ozier-pdc-composting-and-nutrient-cycles]].
+## Rabbits in [[ozier-pdc-composting-and-nutrient-cycles]].
 The principle of "everything gardens" applies directly to rabbits,
 whose burrowing, defecation, and browsing habits fundamentally alter
 the ecosystems they inhabit.

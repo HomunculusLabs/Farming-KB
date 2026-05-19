@@ -10,7 +10,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Harvesting and Storage
+## Harvesting and Storage
 
 Harvesting, storing, and packaging mushrooms properly is essential for maximizing marketability and minimizing spoilage. [[growing-gourmet-black-poplar-agrocybe-cultivation]] Mushroom ([[growing-gourmet-indoor-growing-environment]]
 ## Background and Context

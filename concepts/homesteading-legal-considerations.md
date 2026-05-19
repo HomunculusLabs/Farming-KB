@@ -23,7 +23,7 @@ sources:
 note: Composed from model knowledge — web tools were unavailable. Mark for user review.
 ---
 
-# Homesteading Legal Considerations
+## Homesteading Legal Considerations
 
 > Legal framework for homesteading in the United States. This page covers zoning, livestock,
 > water rights, and building permits. See [[selling-farm-products-and-business]] for cottage

@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Rice as the Spiritual Soul of the Yamato People
+## Rice as the Spiritual Soul of the Yamato People
 
 ## The Sacred Meaning of Rice in Japanese Agriculture
 

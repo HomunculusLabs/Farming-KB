@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, taxonomy, oyster-mushrooms, species]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Pleurotus Species ## Overview The genus pleurotus-ostreatus|Pleurotus contains approximately 30-40 recognized species of gilled [[fungi-cultivated-mushrooms-pathogens-competitors]] globally, valued for their
+## Pleurotus Species ## Overview The genus pleurotus-ostreatus|Pleurotus contains approximately 30-40 recognized species of gilled [[fungi-cultivated-mushrooms-pathogens-competitors]] globally, valued for their
 culinary quality, medicinal properties, and ease of cultivation on diverse
 [[fungal-taxonomy]]
 has reorganized the genus several times, with some former Pleurotus species

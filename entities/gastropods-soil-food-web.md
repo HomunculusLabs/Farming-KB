@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Gastropods (Soil Food Web)
+## Gastropods (Soil Food Web)
 
 ## Description
 

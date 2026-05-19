@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Cultivation in Kenya
+## Mushroom Cultivation in Kenya
 
 Kenya is a medium-sized East African tropical country (582,646 sq km) with a
 population of 30 million. The equator divides the country, creating a diverse

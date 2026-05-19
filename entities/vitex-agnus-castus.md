@@ -12,7 +12,7 @@ sources:
   - "Royal Botanic Gardens, Kew. Plants of the World Online. kew.org."
 ---
 
-# Vitex agnus-castus
+## Vitex agnus-castus
 
 Vitex agnus-castus, commonly known as chaste tree, chasteberry, Abraham's balm, or monk's pepper, is a deciduous shrub or small tree in the mint family (Lamiaceae), native to the Mediterranean basin and parts of western Asia. One of the most extensively researched medicinal plants in modern phytotherapy, chaste tree has been used for over 2,500 years to address women's health concerns, particularly menstrual irregularities, premenstrual syndrome (PMS), and infertility. The species name *agnus-castus* derives from the Latin *castus* (chaste) and *agnus* (lamb), a reference to the historical belief that the plant suppressed sexual desire — a belief that gave rise to its use by monks in medieval monasteries and the common name "monk's pepper." Modern pharmacological research has validated several of its traditional uses, particularly through the dopaminergic activity of its diterpene compounds on the pituitary gland.
 

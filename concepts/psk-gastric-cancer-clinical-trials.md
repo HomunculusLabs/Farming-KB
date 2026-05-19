@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
-# PSK Gastric Cancer Clinical Trials
+## PSK Gastric Cancer Clinical Trials
 
 ## Overview
 

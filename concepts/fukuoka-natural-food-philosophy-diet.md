@@ -4,7 +4,7 @@ source: masanobu-fukuoka-fukuoka.md
 type: concept
 ---
 
-# Fukuoka's Natural Food Philosophy and Diet
+## Fukuoka's Natural Food Philosophy and Diet
 
 [[masanobu-fukuoka]] extends his [[natural-farming-philosophy]] into a comprehensive food philosophy, arguing that food and farming are "the front and back of one body." His dietary teachings emphasize local, [[fukuoka-natural-diet-tasty-rice-seasonal-eating]], the unity of food and spirit, and the limitations of both Western [[fukuoka-critique-western-dietetics-nutritional-science]] and Eastern yin-yang philosophy.
 

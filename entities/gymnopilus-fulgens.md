@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=194849"
 ---
-# Gymnopilus fulgens
+## Gymnopilus fulgens
 Gymnopilus fulgens is a species of agaric fungus in the family
 Hymenogastraceae (formerly Cortinariaceae), recognized as one of
 approximately 14 psychoactive species within the genus Gymnopilus.

@@ -5,7 +5,7 @@ type: entity
 tags: [water-management, appropriate-technology, hydraulic-engineering, permaculture]
 ---
 
-# Ram Pump
+## Ram Pump
 
 ## Description
 

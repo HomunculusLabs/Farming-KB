@@ -1,5 +1,10 @@
+---
+title: "Guzman Neurotropic Fungi Genus Diversity Overview"
+tags:
+  - concept
+---
 
-# Neurotropic Fungi — Genus Diversity and Taxonomic Overview
+## Neurotropic Fungi — Genus Diversity and Taxonomic Overview
 
 ## Overview
 

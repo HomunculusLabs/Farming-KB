@@ -5,10 +5,10 @@ tags:
   composting, victorian-gardening, fermentation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md, "]
 type: concept
 ---
-# Fire-Fang and Manure Preparation Techniques Get as good a quality of fresh horse falconer-preparation-of-the-manure - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
+## Fire-Fang and Manure Preparation Techniques Get as good a quality of fresh horse falconer-preparation-of-the-manure - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 ## Background and Context
 
 Falconer Fire-Fang and Manure Preparation is an important subject that has garnered significant attention

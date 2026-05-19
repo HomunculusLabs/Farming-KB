@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# HEX-1 Protein and Woronin Body Assembly
+## HEX-1 Protein and Woronin Body Assembly
 
 ## Overview
 

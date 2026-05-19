@@ -6,7 +6,7 @@ sources:
   - tropisms-in-the-mushroom-psilocybe-cubensis.md
 ---
 
-# Sporulation-Linked Geotropism in *Psilocybe cubensis*
+## Sporulation-Linked Geotropism in *Psilocybe cubensis*
 
 ## Overview
 

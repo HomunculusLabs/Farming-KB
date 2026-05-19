@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Dalbergia sissoo (Sissoo) — A Multipurpose Timber Tree
+## Dalbergia sissoo (Sissoo) — A Multipurpose Timber Tree
 
 Dalbergia sissoo, commonly known as sissoo or Indian rosewood, is one of the most valuable multipurpose trees in tropical and subtropical permaculture systems. A fast-growing leguminous tree in the Fabaceae family, it provides premium timber, excellent firewood, erosion control, nitrogen fixation, and fodder — making it an outstanding example of a high-yield permaculture tree that performs multiple functions simultaneously.
 

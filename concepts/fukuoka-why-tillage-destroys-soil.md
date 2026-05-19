@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Why Tillage Destroys Soil
+## Why Tillage Destroys Soil
 
 Masanobu Fukuoka's first principle of [[fukuoka-straw-soil-building]] that nature has developed over millennia are undone in a single pass of the plow.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# Phenethylamine Chain Length Effects
+## Phenethylamine Chain Length Effects
 
 **Updated:** 2026-04-18
 

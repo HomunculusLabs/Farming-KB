@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
-# Bioremediation of Pesticide-Contaminated Environments
+## Bioremediation of Pesticide-Contaminated Environments
 
 Pesticide contamination of soil, water, and sediment is a widespread environmental problem resulting from agricultural application, manufacturing, storage, and improper disposal of pest control chemicals.
 

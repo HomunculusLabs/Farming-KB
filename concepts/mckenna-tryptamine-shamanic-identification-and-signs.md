@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Tryptamine Shamanic Identification and Signs
+## Tryptamine Shamanic Identification and Signs
 
 [[mckenna-shamanic-identification-signs-and-training-methods]]
 

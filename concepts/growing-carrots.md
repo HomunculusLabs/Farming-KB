@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Carrots
+## Growing Carrots
 
 The carrot exemplifies the survival strategy of all biennial root crops: sneak a deep taproot through the opposition; then begin drawing on moisture and nutrition located deeper than its neighbors can reach. A supply of raw materials assured, it fills a storage chamber with surplus food, rests over the winter, and in spring starts with a huge nutritional storehouse that it uses to rapidly overtop its neighbors and shade them out, then begins making seeds.
 

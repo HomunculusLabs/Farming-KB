@@ -4,7 +4,7 @@ source: Bigwood & Beug, Journal of Ethnopharmacology 5 (1982) 287-291
 tags: [hplc, psilocybin, psilocin, analytical-chemistry, quantification, tlc, bigwood-beug, methodology]
 ---
 
-# HPLC Quantification of Psilocybin and Psilocin
+## HPLC Quantification of Psilocybin and Psilocin
 
 ## Overview
 

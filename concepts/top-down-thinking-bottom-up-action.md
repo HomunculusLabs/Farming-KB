@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Top-Down Thinking and Bottom-Up Action
+## Top-Down Thinking and Bottom-Up Action
 
 Top-down thinking and bottom-up action represents a restatement of the environmentalist slogan "thinking globally, acting locally," but with a deeper analysis of how power actually functions in complex systems. The concept reveals how both global elites and grassroots movements have learned to operate through invisible, informal, and collaborative modes rather than evident, formal, and managerial exercises of power.
 

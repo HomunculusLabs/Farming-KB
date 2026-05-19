@@ -8,7 +8,7 @@ sources: [masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 type: concept
 ---
 
-# Cover Cropping in Natural Farming
+## Cover Cropping in Natural Farming
 
 Cover cropping is an essential practice in natural farming
 systems, serving simultaneously as soil protection, weed

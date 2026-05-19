@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, africa, asia, subterranean-[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with|fungi]]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
-# Terfas of Africa and the Orient
+## Terfas of Africa and the Orient
 
 The subterranean fungi properly known as terfas or kames, sometimes
 also called false truffles, are almost wholly the product of arid

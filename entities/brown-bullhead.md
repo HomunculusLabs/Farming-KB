@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, permaculture, pond-culture, population-control]
 ---
 
-# Brown Bullhead (Ameiurus nebulosus)
+## Brown Bullhead (Ameiurus nebulosus)
 
 ## Description
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mycological Bibliography and Edibility Classification Key
+## Mycological Bibliography and Edibility Classification Key
 
 ## The Mycological Literature of the 19th Century
 

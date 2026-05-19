@@ -5,7 +5,7 @@ type: entity
 tags: [person, mycologist, author, boston, historian]
 ---
 
-# Julius A. Palmer
+## Julius A. Palmer
 
 ## Description
 

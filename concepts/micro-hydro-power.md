@@ -7,7 +7,7 @@ tags: [energy, off-grid, homesteading, sustainability, water, engineering]
 sources: []
 ---
 
-# Micro Hydro Power
+## Micro Hydro Power
 
 Micro hydro power generates electricity from flowing water on a small scale (typically under 100 kW). For homesteads with access to a stream or creek, micro hydro is often the most cost-effective and reliable renewable energy source. Unlike solar and wind, which fluctuate with weather and time of day, a properly designed micro hydro system produces power 24 hours a day, 365 days a year.
 

@@ -7,7 +7,7 @@ tags: [analytical-chemistry, hplc, psilocybin, psilocin, mushroom-analysis, chro
 wikilinks: [psilocybin-psilocin-variation-across-flushes, alkaloid-distribution-mushroom-caps-stems]
 ---
 
-# HPLC Analysis of Psychedelic Mushroom Alkaloids
+## HPLC Analysis of Psychedelic Mushroom Alkaloids
 
 High-performance liquid chromatography (HPLC) is the gold standard analytical technique for quantifying [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]. Bigwood and Beug (1982) established an early but rigorous HPLC protocol for these compounds, using reversed-phase chromatography with NIDA-certified standards and TLC confirmation. Their methodology set benchmarks for accuracy and reliability in psychedelic mushroom analysis.
 

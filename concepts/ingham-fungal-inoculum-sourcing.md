@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Ingham — Fungal Inoculum Sourcing and Identification
+## Ingham — Fungal Inoculum Sourcing and Identification
 
 Updated: 2026-04-18
 

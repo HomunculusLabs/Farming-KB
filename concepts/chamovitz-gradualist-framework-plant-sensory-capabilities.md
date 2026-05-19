@@ -5,7 +5,7 @@ source: [grahamholmes-what-a-plant-knowsindd]
 created: 2026-05-10
 ---
 
-# Chamovitz Gradualist Framework for Plant Sensory Capabilities
+## Chamovitz Gradualist Framework for Plant Sensory Capabilities
 
 ## Overview
 

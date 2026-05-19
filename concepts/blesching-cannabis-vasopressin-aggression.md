@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis, Vasopressin, and the Endocannabinoid System
+## Cannabis, Vasopressin, and the Endocannabinoid System
 
 Vasopressin, also known as antidiuretic hormone (ADH), is a neuropeptide produced by the hypothalamus and stored and released by the pituitary gland. Both the hypothalamus and pituitary contain CB1 cannabinoid receptors, positioning the [[blesching-cannabis-cortisol-stress-endocannabinoid-system]], making it a key player in the body's response to both acute and chronic stressors.
 

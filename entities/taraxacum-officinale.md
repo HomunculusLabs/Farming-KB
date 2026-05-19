@@ -9,7 +9,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Taraxacum officinale
+## Taraxacum officinale
 
 The common [[cervantes-seed-production-storage]]). Many 'T.
 officinale' populations are actually microspecies within section

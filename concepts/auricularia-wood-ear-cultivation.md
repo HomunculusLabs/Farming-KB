@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Auricularia (Wood Ear / Tree Ear) Cultivation
+## Auricularia (Wood Ear / Tree Ear) Cultivation
 
 ## Overview
 

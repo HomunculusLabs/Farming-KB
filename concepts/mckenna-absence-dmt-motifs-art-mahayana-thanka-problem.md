@@ -1,4 +1,8 @@
-# Absence of DMT Motifs in Art History and the Mahayana Thanka Problem
+---
+title: "Absence of DMT Motifs in Art History and the Mahayana Thanka Problem"
+tags:
+  - concept
+---
 
 ## Overview
 One of the most puzzling observations Terence McKenna raises in his 1983 Esalen

@@ -7,7 +7,7 @@ tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading
 sources: []
 ---
 
-# Pastured Pork Production
+## Pastured Pork Production
 
 Pasture-raised pork comes from pigs raised outdoors with access to living vegetation, fresh air, and space to root and forage. Unlike confinement operations, pastured pigs produce well-marbled, flavorful meat with superior nutritional profiles and strong market appeal.
 

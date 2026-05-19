@@ -6,7 +6,7 @@ tags: [mycology, biogeography, africa, psilocybe, neurotropic-fungi, panaeolus, 
 created: 2026-05-10
 ---
 
-# Neurotropic Fungi in Africa: Underexplored Diversity
+## Neurotropic Fungi in Africa: Underexplored Diversity
 
 ## Overview
 

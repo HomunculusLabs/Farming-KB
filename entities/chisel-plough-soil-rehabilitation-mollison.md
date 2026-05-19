@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Chisel Plough Soil Rehabilitation
+## Chisel Plough Soil Rehabilitation
 
 ## Description
 

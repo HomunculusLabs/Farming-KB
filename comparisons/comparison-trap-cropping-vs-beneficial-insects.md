@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Trap Cropping vs Beneficial Insects
+## Trap Cropping vs Beneficial Insects
 
 ## Overview
 

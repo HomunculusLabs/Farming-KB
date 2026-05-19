@@ -4,7 +4,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 topics: [phosphorus, mineral nutrition, brassinosteroid, substrate chemistry, fungal growth]
 ---
 
-# KH₂PO₄ Phosphate Supplementation and Brassinosteroid Synergy in Psilocybe cubensis
+## KH₂PO₄ Phosphate Supplementation and Brassinosteroid Synergy in Psilocybe cubensis
 
 ## Overview
 

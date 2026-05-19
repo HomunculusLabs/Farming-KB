@@ -8,7 +8,7 @@ sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 
-# Kava Kava Ethnobotany and Chemistry
+## Kava Kava Ethnobotany and Chemistry
 
 ## Overview
 

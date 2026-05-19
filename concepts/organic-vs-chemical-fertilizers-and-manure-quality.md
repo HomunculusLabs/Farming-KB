@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Organic vs Chemical Fertilizers and Manure Quality
+## Organic vs Chemical Fertilizers and Manure Quality
 
 Steve Solomon's *[[gardening-when-it-counts]]* provides a detailed comparison of organic and chemical fertilizers, explaining why organic approaches produce more nutritious food. The book also offers important cautions about manure quality — one of the most misunderstood aspects of organic gardening.
 

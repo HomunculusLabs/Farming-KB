@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, taxonomy, classification, methodology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Fungal Taxonomy Challenges [[fungal-discovery-methods]] increasingly relies on integrative approaches that
+## Fungal Taxonomy Challenges [[fungal-discovery-methods]] increasingly relies on integrative approaches that
 combine DNA sequence data with morphological, ecological, and chemical
 information. Multi-gene phylogenies have revolutionized our understanding of
 fungal evolutionary relationships, leading to major reclassifications. [[cryptic-fungal-species]]

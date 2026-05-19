@@ -20,7 +20,7 @@ synthesized_from:
   - cannabis-breeding-techniques-acclimatization-trait-fixing-clarke
 ---
 
-# Cannabis Breeding and Genetics
+## Cannabis Breeding and Genetics
 
 Cannabis breeding is the deliberate crossing of plants to combine desirable
 traits into new varieties. It sits at the intersection of classical Mendelian

@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis Forms and Preparations
+## Cannabis Forms and Preparations
 
 Cannabis medicine can be prepared and administered in numerous forms, each
 offering distinct pharmacokinetic profiles, onset times, durations of effect,

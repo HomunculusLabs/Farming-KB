@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Transplanting Technique
+## Transplanting Technique
 
 Proper transplanting technique can make the difference between seedlings that stall for weeks and seedlings that take off immediately. The key is creating a seamless connection between the seedling's root ball and the surrounding garden soil, eliminating the [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] that sets most garden center purchases back by days or even weeks.
 

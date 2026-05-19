@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Selfing and Single Seed Descent
+## Selfing and Single Seed Descent
 
 Selfing is the process of creating seed by fertilizing a plant with
 pollen obtained from itself. The result of a self-cross is a population

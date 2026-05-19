@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Tempeh vs Miso Making
+## Tempeh vs Miso Making
 
 ## Overview
 

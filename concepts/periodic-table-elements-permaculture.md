@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Periodic Table Elements in Permaculture
+## Periodic Table Elements in Permaculture
 
 Elements from the periodic table play critical roles in soil health, plant nutrition, and
 [[fukuoka-bushman-world-ecological-balance]]. Understanding these elements through a permaculture lens — their

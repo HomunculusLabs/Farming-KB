@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, ergot, cordyceps, alkaloids, neurotropic]
 sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
-# Ergot Fungi and Cordyceps Ergot fungi (genus *Claviceps*) and their relatives in the genus *Cordyceps* represent a distinct category [[lsd-synthesis-history]]. See also
+## Ergot Fungi and Cordyceps Ergot fungi (genus *Claviceps*) and their relatives in the genus *Cordyceps* represent a distinct category [[lsd-synthesis-history]]. See also
 [[claviceps-paspali]]*** — primarily tropical, parasitizing *Paspalum*
   grasses
 - ***Claviceps rolfesii*** — African species

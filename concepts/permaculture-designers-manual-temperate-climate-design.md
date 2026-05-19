@@ -7,7 +7,7 @@ tags: [regenerative, plant-systems]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Temperate Climate Design Strategies
+## Temperate Climate Design Strategies
 
 > Source: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapters 10 and 12
 

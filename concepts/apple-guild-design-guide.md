@@ -8,7 +8,7 @@ sources:
   - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 ---
 
-# Apple Guild Design
+## Apple Guild Design
 
 **Updated:** 2026-04-18
 

@@ -8,7 +8,7 @@ sources: [raw/papers/master-cho-knf-recipe-book.md]
 type: concept
 ---
 
-# KNF Fermented Seawater Preparation
+## KNF Fermented Seawater Preparation
 
 Fermented seawater is a key Korean [[hamilton-composting-and-organic-matter-management]]. Developed by Master Han-Kyu Cho, fermented
 seawater leverages the concept of the brackish zone where freshwater meets

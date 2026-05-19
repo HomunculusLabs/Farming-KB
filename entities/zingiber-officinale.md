@@ -23,7 +23,7 @@ sources:
   - Chrubasik, S. et al. (2005). "Ginger for osteoarthritis." Arthritis & Rheumatism.
   - Phongpaichit, S. et al. (2005). "Antimicrobial activities of extracts from family Zingiberaceae." Songklanakarin J. Sci. Technol.
 ---
-# Zingiber officinale
+## Zingiber officinale
 
 **Zingiber officinale** Roscoe (1807), commonly known as **ginger**, is a flowering plant in the family Zingiberaceae, cultivated worldwide for its rhizome, which is used universally as a spice, flavoring agent, and [[ingham-tannins-terpenes-phenolic-compounds]] responsible for its characteristic aroma, flavor, and diverse pharmacological activities.
 

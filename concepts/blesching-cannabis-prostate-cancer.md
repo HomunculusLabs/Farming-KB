@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Prostate Cancer
+## Cannabis and Prostate Cancer
 
 ## Overview
 

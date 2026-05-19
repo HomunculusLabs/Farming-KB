@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Coastal Permaculture Plants
+## Coastal Permaculture Plants
 
 Coastal environments present some of the harshest growing conditions for plants: salt spray, strong winds, sandy nutrient-poor soils, and exposure to [[windbreak-effects-on-soil-moisture-and-extreme-weather]]. Despite these challenges, a diverse array of plant species have adapted to thrive right at the ocean's edge. These coastal plants are invaluable in [[natural-farming-guide-permaculture-design-for-small-holdings]] stabilizing dunes, providing windbreaks, producing food, and creating resilient ecosystems in maritime zones.
 

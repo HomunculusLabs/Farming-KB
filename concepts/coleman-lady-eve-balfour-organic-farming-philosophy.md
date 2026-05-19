@@ -15,7 +15,7 @@ sources:
   - eliot-coleman-winter-harvest-handbook.md
 ---
 
-# Lady Eve Balfour and the Scientific Basis of Organic Farming
+## Lady Eve Balfour and the Scientific Basis of Organic Farming
 
 ## Overview
 

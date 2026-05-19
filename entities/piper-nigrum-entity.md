@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "general botanical and pharmacological knowledge"
 ---
-# Piper nigrum
+## Piper nigrum
 Piper nigrum, the [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] is cultivated extensively across [[agroforestry]] systems.
 ## Taxonomy and Naming
 - **Kingdom:** Plantae

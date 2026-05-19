@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
-# Hamilton Seasonal Gardening Calendar
+## Hamilton Seasonal Gardening Calendar
 
 ## Overview
 

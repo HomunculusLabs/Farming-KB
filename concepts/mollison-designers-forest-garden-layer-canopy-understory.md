@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Forest Garden Layer Canopy and Understory
+## Forest Garden Layer Canopy and Understory
 
 The forest garden is the most complex and productive polyculture system
 in [[dynamic-accumulators]].

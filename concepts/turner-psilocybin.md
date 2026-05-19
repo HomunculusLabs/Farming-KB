@@ -8,7 +8,7 @@ tags: [psychedelics, psilocybin, mushrooms, tryptamine, dosage, identification]
 updated: 2026-04-26
 ---
 
-# Psilocybin Mushrooms - The Extraterrestrial Infiltration of Earth?
+## Psilocybin Mushrooms - The Extraterrestrial Infiltration of Earth?
 
 > Intensity: 3 to 7 for most experiences.
 

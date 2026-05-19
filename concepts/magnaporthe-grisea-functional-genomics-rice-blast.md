@@ -7,7 +7,7 @@ tags: [mycology, fungi, genomics, plant-pathogen]
 sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
-# Magnaporthe grisea Functional Genomics and Rice Blast
+## Magnaporthe grisea Functional Genomics and Rice Blast
 
 ## Overview
 

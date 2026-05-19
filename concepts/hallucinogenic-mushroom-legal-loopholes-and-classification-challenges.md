@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Legal Loopholes and Classification Challenges
+## Hallucinogenic Mushroom Legal Loopholes and Classification Challenges
 
 ## Overview
 

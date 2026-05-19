@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Economic Viability of Water Retention Landscapes
+## Economic Viability of Water Retention Landscapes
 
 ## Overview
 

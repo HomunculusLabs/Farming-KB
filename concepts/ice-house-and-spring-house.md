@@ -7,7 +7,7 @@ tags: [homesteading, off-grid, storage, preservation, construction, water, histo
 sources: []
 ---
 
-# Ice House and Spring House
+## Ice House and Spring House
 
 Before mechanical refrigeration, ice houses and spring houses were the
 primary methods of keeping food cold. Ice houses stored winter-harvested

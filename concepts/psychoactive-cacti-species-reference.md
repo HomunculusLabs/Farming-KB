@@ -7,7 +7,7 @@ tags: [cacti, ethnobotany, psychopharmacology, culture, plants, fungi]
 sources: [raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md]
 ---
 
-# Psychoactive Cacti Species Reference
+## Psychoactive Cacti Species Reference
 
 Comprehensive reference to psychoactive cacti species, their alkaloid profiles, identification, and traditional use. Based on Adam Gottlieb's 1977 guide.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Sugar as Addiction and the Engine of Slavery
+## Sugar as Addiction and the Engine of Slavery
 
 ## The World's Least Discussed Addiction
 

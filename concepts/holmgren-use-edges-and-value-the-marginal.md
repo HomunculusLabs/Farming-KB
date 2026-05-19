@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [permaculture, holmgren, edges, ecotone, marginal, landscape-design, agroforestry, biodiversity]
 ---
 
-# Holmgren Use Edges and Value the Marginal
+## Holmgren Use Edges and Value the Marginal
 
 ## The Principle of Edge
 

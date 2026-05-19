@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Sea Mineral Fertilizer and Simplified Soil Management
+## JADAM Sea Mineral Fertilizer and Simplified Soil Management
 
 ## Overview
 

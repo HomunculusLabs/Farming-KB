@@ -5,7 +5,7 @@ tags: [mushroom, cultivation, fungi, biology, life-cycle, mycology]
 created: 2026-05-11
 ---
 
-# Mushroom Biology and Life Cycle
+## Mushroom Biology and Life Cycle
 
 ## What Are Mushrooms?
 

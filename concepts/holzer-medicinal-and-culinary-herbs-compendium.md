@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Traditional Farm Medicine and Medicinal Herbs
+## Holzer Traditional Farm Medicine and Medicinal Herbs
 
 Sepp Holzer's farm at the Krameterhof has always functioned as both a food source and a pharmacy. His knowledge of medicinal and holzer medicinal and culinary herbs compendium draws on [[holzer-problem-plant-regulation-with-livestock]] and medicinal/culinary herbs:
 - Hound's-tongue -- decoy for voles, medicinal

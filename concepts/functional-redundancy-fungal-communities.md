@@ -8,7 +8,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Functional Redundancy and Diversity in Fungal Communities
+## Functional Redundancy and Diversity in Fungal Communities
 
 Updated: 2026-04-18
 

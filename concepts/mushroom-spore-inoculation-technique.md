@@ -5,7 +5,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 created: 2026-05-09
 ---
 
-# Mushroom Spore Inoculation Technique
+## Mushroom Spore Inoculation Technique
 
 ## Overview
 

@@ -16,7 +16,7 @@ related_concepts:
   - echinacea-tennesseensis
 ---
 
-# Echinacea Cultivation and Medicinal Uses
+## Echinacea Cultivation and Medicinal Uses
 
 Echinacea, the purple coneflower, stands as one of the most commercially
 significant medicinal herbs in the Western pharmacopoeia. Native to the

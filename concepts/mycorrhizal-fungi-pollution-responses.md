@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Fungi Responses to Pollution
+## Mycorrhizal Fungi Responses to Pollution
 
 Mycorrhizal fungi are among the most sensitive components of forest ecosystems to anthropogenic pollution. Their responses to air pollution, heavy metals, acid deposition, and nutrient enrichment have been extensively documented across European and North American forests, providing critical insights into the health and resilience of belowground fungal communities.
 

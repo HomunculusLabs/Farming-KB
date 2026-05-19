@@ -19,7 +19,7 @@ sources:
   - "Buyck, B. et al. (2013). \"The genus Ramaria in Europe.\" Scripta Botanica Belgica, 51, 1-240."
 ---
 
-# Ramaria stricta (*Ramaria stricta* (Pers.) Quél.)
+## Ramaria stricta (*Ramaria stricta* (Pers.) Quél.)
 
 ## Overview
 

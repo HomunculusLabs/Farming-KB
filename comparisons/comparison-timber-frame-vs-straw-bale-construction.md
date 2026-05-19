@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Timber Frame vs Straw Bale Construction
+## Timber Frame vs Straw Bale Construction
 
 ## Overview
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, inoculation, spawn, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mycelium Inoculation Techniques
+## Mycelium Inoculation Techniques
 
 Inoculation is the process of introducing mushroom [[accessible-mushroom-cultivation-for-disabilities]]
 because the substrate, now rich in nutrients and moisture, is highly vulnerable

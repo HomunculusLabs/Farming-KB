@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Tupa (Lobelia tupa)
+## Tupa (Lobelia tupa)
 
 Tupa, known scientifically as Lobelia tupa, is a tall, variable plant of
 the high Andes, also called tabaco del diablo ("devil's tobacco") in

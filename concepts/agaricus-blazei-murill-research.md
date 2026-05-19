@@ -4,9 +4,9 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
-# Agaricus Blazei Murill Research
+## Agaricus Blazei Murill Research
 
 Agaricus blazei Murill, known in Japan as **Himematsutake** and sometimes called the **Almond Portobella**, was first discovered in the USA in the 1940s. Its main commercial cultivation now occurs in Japan and Brazil, and it is one of the most expensive [[cervantes-viral-diseases-cannabis]], and bacterial diseases
 - Disproportionately high number of people enjoying **longevity**

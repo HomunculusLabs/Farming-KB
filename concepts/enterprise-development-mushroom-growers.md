@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Enterprise Development for Mushroom Growers
+## Enterprise Development for Mushroom Growers
 
 Starting and managing a successful [[rehabilitation-through-mushroom-cultivation]]
 - [[doc]]

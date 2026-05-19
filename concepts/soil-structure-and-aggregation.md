@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Structure and Aggregation
+## Soil Structure and Aggregation
 
 Soil structure is one of the most important — yet most overlooked — properties of healthy soil. While soil **texture** refers to the relative proportions of sand, silt, and clay particles (something you cannot easily change), soil **structure** refers to how those particles are arranged into larger groupings called **aggregates** or **peds**. Structure can be improved or degraded by management practices, and it is intimately tied to the living biology in your soil.
 

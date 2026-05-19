@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Contamination Vectors
+## Mushroom Contamination Vectors
 
 Contamination is the primary adversary of every [[mazatec-mushroom-culture-and-velada]], but if you are growing Shiitake and nearby Oyster
 mushrooms generate spores that infiltrate your lab, then the Oyster

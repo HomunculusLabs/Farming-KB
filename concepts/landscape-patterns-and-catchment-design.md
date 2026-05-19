@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Landscape Patterns and Catchment Design
+## Landscape Patterns and Catchment Design
 
 While site design has been central to [[permaculture]] practice, it has inherent limitations. The question of whether a site is suited to its intended use is often ignored. Whole farm planning, eco-village development, and bioregional design require a landscape-based approach that builds on the underlying patterns of the land rather than the details of particular sites.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Classic Soil Science
+## Teaming with Microbes — Classic Soil Science
 
 In *Teaming with Microbes*, Lowenfels and Lewis present the physical and chemical foundations of soil science as essential background for understanding the [[hamilton-composting-and-organic-matter-management]] dramatically increases CEC.
 

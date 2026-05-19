@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
-# Mescaline: Peyote and San Pedro Cactus
+## Mescaline: Peyote and San Pedro Cactus
 
 Mescaline is described by D.M. Turner as the favorite of the traditional psychedelics. Intensity ranges from 3 to 8 for most experiences.
 

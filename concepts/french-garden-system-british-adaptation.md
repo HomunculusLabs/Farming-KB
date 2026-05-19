@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# French Garden System and Its British Adaptation
+## French Garden System and Its British Adaptation
 
 The French intensive garden system, practiced in and around Paris from the 19th century through the mid-20th century, represents one of the most productive and sophisticated small-scale horticultural methods ever developed. [[eliot-coleman]] documents this system extensively in *The Winter Harvest Handbook*, drawing on both historical sources and his own firsthand observations, particularly of [[louis-savier]]'s garden.
 

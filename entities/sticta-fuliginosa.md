@@ -16,7 +16,7 @@ sources:
   - "James, P.W. et al. (2006). \"Sticta.\" In: The Lichen Flora of Great Britain and Ireland, 2nd supp. British Lichen Society."
 ---
 
-# Sticta fuliginosa (Sooty Tree Lungwort)
+## Sticta fuliginosa (Sooty Tree Lungwort)
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Toadstool Families Identification and Boletus Safety
+## Toadstool Families Identification and Boletus Safety
 
 An encyclopedic overview of major fungal families relevant to foraging
 safety, drawn from [[julius-auboineau-palmer]]'s *About Mushrooms*. Covers

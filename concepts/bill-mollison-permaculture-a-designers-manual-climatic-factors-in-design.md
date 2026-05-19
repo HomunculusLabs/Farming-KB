@@ -7,7 +7,7 @@ tags: [climate, weather, microclimate, solar-radiation, wind, precipitation, tem
 mined: 2026-05-10
 ---
 
-# Climatic Factors in Permaculture Design
+## Climatic Factors in Permaculture Design
 
 ## Overview
 

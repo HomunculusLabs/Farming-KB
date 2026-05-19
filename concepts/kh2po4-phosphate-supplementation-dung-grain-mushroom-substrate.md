@@ -5,7 +5,7 @@ created: 2026-05-09
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 ---
 
-# KH₂PO₄ Phosphate Supplementation in Dung-Grain Mushroom Substrate
+## KH₂PO₄ Phosphate Supplementation in Dung-Grain Mushroom Substrate
 
 ## Overview
 

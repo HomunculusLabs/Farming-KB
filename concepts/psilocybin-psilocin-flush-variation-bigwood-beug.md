@@ -5,7 +5,7 @@ tags: [mycology, psilocybin, psilocin, cultivation, alkaloid-variation, flushes,
 created: 2026-05-11
 ---
 
-# Psilocybin and Psilocin Variation Across Flushes in Psilocybe cubensis
+## Psilocybin and Psilocin Variation Across Flushes in Psilocybe cubensis
 
 ## Overview
 

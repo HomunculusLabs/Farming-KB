@@ -30,7 +30,7 @@ sources:
 - https://www.johnnyseeds.com/tools-and-resources/greenhouse-and-high-tunnel.html
 ---
 
-# Greenhouse Design for Homestead Scale
+## Greenhouse Design for Homestead Scale
 
 A greenhouse extends the growing season, protects crops from weather, and enables year-round production. For homestead scale (500-2000 sq ft), design choices balance cost, durability, and passive climate management.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Cooperative Food Distribution and Marketing Systems
+## Cooperative Food Distribution and Marketing Systems
 
 [[permaculture]] communities require robust systems for distributing food and other products that bypass conventional supply chains, reduce costs for both producers and consumers, and strengthen local economic resilience. [[bill-mollison]] documented numerous cooperative marketing models ranging from informal neighborhood exchanges to sophisticated multi-farm networks, demonstrating that effective food distribution is as much a design problem as food production.
 

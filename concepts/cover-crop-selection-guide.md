@@ -8,7 +8,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Cover Crop Selection Guide
+## Cover Crop Selection Guide
 
 ## Why Cover Crops
 

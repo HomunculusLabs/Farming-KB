@@ -9,7 +9,7 @@ topics:
   - agroecology
 ---
 
-# [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (AMF), play a central role in building and
+## [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (AMF), play a central role in building and
 maintaining soil aggregates through physical entanglement and
 biochemical binding agents, most notably glomalin-related soil
 protein (GRSP).

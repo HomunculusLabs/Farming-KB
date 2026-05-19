@@ -7,7 +7,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Topological Insulators
+## Topological Insulators
 
 ## Overview
 Topological insulators are materials that behave as electrical insulators in their bulk interior.

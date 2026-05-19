@@ -21,7 +21,7 @@ tags: [`tryptamine`, `entheogen`]
 sources:
   - raw/papers/shulgin-a-tihkal.md
 
-# NET
+## NET
 
 N-Ethyltryptamine
 

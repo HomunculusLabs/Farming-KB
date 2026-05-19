@@ -23,7 +23,7 @@ tags: [profile]
 sources: []
 ---
 
-# Amanita bisporigera
+## Amanita bisporigera
 
 *[[amanita]] bisporigera* is a deadly [[amanita-verna]]* var. *bisporigera* before
 elevation to full species rank. Molecular phylogenetics (ITS, LSU, RPB2,

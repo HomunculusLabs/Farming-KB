@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Fungal Foraging Strategies in Heterogeneous Environments
+## Fungal Foraging Strategies in Heterogeneous Environments
 
 ## Overview
 

@@ -5,11 +5,11 @@ tags: [hallucinogenic-plants, salvia-divinorum, salvia, labiatae, mazatec,
   divination, oaxaca, hojas-de-la-pastora, pipilzintzintli, mint-family]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+sources: ["raw/papers/a-golden-guide-to-hallucinogenic-plants.md"]
 type: concept
 ---
 
-# Salvia Divinorum (Hojas de la Pastora)
+## Salvia Divinorum (Hojas de la Pastora)
 
 Salvia divinorum, of Mexico, is the only one of 700 species of Salvia known
 to be used as a hallucinogen. Mazatec Indians of Oaxaca employ the leaves as

@@ -5,10 +5,10 @@ type: species
 tags: [apocynaceae, medicinal-plant, vinca-alkaloids, anticancer, madagascar]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+sources: ["raw/papers/a-golden-guide-to-hallucinogenic-plants.md"]
 ---
 
-# Catharanthus roseus
+## Catharanthus roseus
 
 **Catharanthus roseus** (syn. *Vinca rosea*), commonly known as **Madagascar periwinkle**, **rosy periwinkle**, or **Cape periwinkle**, is a species of flowering plant in the family Apocynaceae, native to Madagascar. Despite being a popular ornamental garden plant, it is one of the most pharmacologically important plants in modern medicine, as the source of two critical anticancer drugs: **vinblastine** and **vincristine**.
 

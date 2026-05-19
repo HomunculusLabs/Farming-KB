@@ -7,7 +7,7 @@ tags: [cannabis, health, neuroscience, pharmacology]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis and the Endocannabinoid System
+## Cannabis and the Endocannabinoid System
 
 The endocannabinoid system (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine.
 

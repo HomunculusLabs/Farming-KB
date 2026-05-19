@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Fungicolous Fungi
+## Fungicolous Fungi
 
 Fungicolous fungi are fungi that are associated with other fungi — as parasites, hyperparasites, commensals, or saprotrophs on fungal tissue. They represent a fascinating but often overlooked component of fungal biodiversity, with implications for biocontrol, fungal ecology, and plant pathology.
 

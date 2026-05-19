@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Problem-Solving and Cultivation Troubleshooting
+## Maitake Problem-Solving and Cultivation Troubleshooting
 
 A practical troubleshooting reference for *Grifola frondosa* synthetic-log cultivation, covering the ten most critical problem areas growers encounter and their solutions.
 

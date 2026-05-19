@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Pest and Disease Prevention
+## Pest and Disease Prevention
 
 [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] devotes Chapter 12 to predators and
 pests, with additional disease and problem-solving guidance in Chapter

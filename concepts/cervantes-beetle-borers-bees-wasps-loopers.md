@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Beetle Borers, Bees, Wasps, and Loopers on Cannabis
+## Beetle Borers, Bees, Wasps, and Loopers on Cannabis
 
 ## Beetle Borers
 

@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Bwiti Iboga Ceremonies: Ancestor Communication and Addiction Treatment
+## Bwiti Iboga Ceremonies: Ancestor Communication and Addiction Treatment
 
 [[ralph-metzner]]'s 1998 comparative framework identifies the Bwiti cult among
 the Fang people of Gabon and Zaire as a significant example of entheogenic

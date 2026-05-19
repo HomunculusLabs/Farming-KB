@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Sprinkler Irrigation Methods
+## Sprinkler Irrigation Methods
 
 For gardens that depend on regular irrigation — whether intensively planted beds or emergency watering during dry spells — a systematic approach to sprinkler irrigation prevents both overwatering and underwatering. Both extremes cause serious reductions in vegetable quality and yield, often without obvious signs until it is too late.
 

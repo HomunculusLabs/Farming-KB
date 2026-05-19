@@ -8,7 +8,7 @@ sources:
 - raw/papers/urban-permaculture-guerilla-gardening.md
 ---
 
-# Urban Guerrilla Gardening
+## Urban Guerrilla Gardening
 
 ## Overview
 

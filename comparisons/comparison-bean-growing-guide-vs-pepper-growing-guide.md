@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Bean Growing Guide vs Pepper Growing Guide
+## Bean Growing Guide vs Pepper Growing Guide
 
 ## Overview
 

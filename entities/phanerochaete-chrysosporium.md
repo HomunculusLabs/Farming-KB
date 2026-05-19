@@ -1,14 +1,14 @@
 ---
-title: staycare-phanerochaete-chrysosporium-in-bioremediation
+title: "Phanerochaete Chrysosporium"
 created: 2026-04-28
 type: species
 tags: [basidiomycete, white-rot, bioremediation, lignin-degradation, biocontrol]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Phanerochaete chrysosporium
+## Phanerochaete chrysosporium
 
 **Type:** Species (Basidiomycete)
 **Category:** White-Rot Fungus / Bioremediation Agent

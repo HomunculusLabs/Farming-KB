@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Azomite vs Basalt Rock Dust
+## Azomite vs Basalt Rock Dust
 
 ## Overview
 

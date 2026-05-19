@@ -8,7 +8,7 @@ sources: [raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# Enzyme Harvesting from Mycorrhizal and Fungal Systems
+## Enzyme Harvesting from Mycorrhizal and Fungal Systems
 
 Fungi function as enzymatic factories, producing a wide array of
 primary, secondary, and tertiary metabolites. Critically, fungi

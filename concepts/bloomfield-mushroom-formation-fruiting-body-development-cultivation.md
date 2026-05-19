@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Formation, Fruiting Body Development, and Cultivation
+## Mushroom Formation, Fruiting Body Development, and Cultivation
 
 Mycologists have been bewildered by mushroom formation for decades,
 which explains why most have chosen to ignore it as a research subject.

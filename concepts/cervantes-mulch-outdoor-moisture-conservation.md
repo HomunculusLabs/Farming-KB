@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Mulch for Outdoor Cannabis Growing
+## Mulch for Outdoor Cannabis Growing
 
 Mulch attracts and retains soil moisture and suppresses weeds. Mulch
 is a layer of decomposing foliage, straw, grass clippings, weeds, and

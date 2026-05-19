@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Entheogen Terminology and Worldview Paradigms
+## Entheogen Terminology and Worldview Paradigms
 
 [[stanislav-grof]]'s discovery of [[entheogen-etymology-and-terminology]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

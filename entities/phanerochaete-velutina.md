@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycete, cord-forming, wood-decay, mycelial-networks, saprotroph]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Phanerochaete velutina
+## Phanerochaete velutina
 
 Phanerochaete velutina is a cord-forming basidiomycete fungus and a
 significant wood decomposer in forest ecosystems. It has been

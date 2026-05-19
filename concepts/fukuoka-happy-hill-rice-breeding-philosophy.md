@@ -6,7 +6,7 @@ tags: [fukuoka, rice-breeding, happy-hill, wild-rice, genetics, seed-sovereignty
 created: 2026-05-11
 ---
 
-# Fukuoka's Happy Hill Rice Breeding Philosophy
+## Fukuoka's Happy Hill Rice Breeding Philosophy
 
 Among the many innovations attributed to Masanobu Fukuoka, the creation of "Happy Hill" rice represents a fascinating paradox: the prophet of "do-nothing farming" engaging in deliberate plant breeding. Yet Happy Hill was no ordinary breeding program. It embodied Fukuoka's conviction that the wild gene pool holds answers that human [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
 

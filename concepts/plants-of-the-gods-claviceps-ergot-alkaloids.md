@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Claviceps purpurea: Ergot Alkaloids and Phytochemistry
+## Claviceps purpurea: Ergot Alkaloids and Phytochemistry
 
 ## The Fungus and Its Biology
 

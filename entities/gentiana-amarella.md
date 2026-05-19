@@ -15,7 +15,7 @@ sources:
   - Rich, T.C.G., & Jermy, A.C. (1998). "Plant Crib." Botanical Society of the British Isles.
 ---
 
-# Gentiana amarella
+## Gentiana amarella
 
 ## Overview
 

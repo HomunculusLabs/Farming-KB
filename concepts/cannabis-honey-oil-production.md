@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-# Cannabis Honey Oil Production
+## Cannabis Honey Oil Production
 
 Honey oil is a highly refined cannabis extract characterized by its translucent amber color and thick, honey-like consistency. It represents one of the most potent forms of cannabis preparation achievable through relatively simple chemical techniques. The term "honey oil" refers specifically to the visual appearance of the finished product rather than any actual honey content, though its viscous, sticky texture is remarkably similar.
 

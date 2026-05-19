@@ -6,7 +6,7 @@ type: concept
 tags: permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Oil Seeds updated: 2026-04-18 From: permaculture-designers-manual-cover-crops-detailed - oil-producing tree species - permaculture-designers-manual-energy-systems - oil as fuel - permaculture-designers-manual-tropical-climates - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
+## Oil Seeds updated: 2026-04-18 From: permaculture-designers-manual-cover-crops-detailed - oil-producing tree species - permaculture-designers-manual-energy-systems - oil as fuel - permaculture-designers-manual-tropical-climates - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

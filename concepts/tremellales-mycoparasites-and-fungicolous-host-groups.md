@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Tremellales Mycoparasites and Fungicolous Host Groups
+## Tremellales Mycoparasites and Fungicolous Host Groups
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wet-[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates|query-what-is-the-difference-between-wet-trimming-and-dry-trimming-cannabis|dry-tropics-climate-and-design|Dry]] and Monsoon Tropical Climates
+## Wet-[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates|query-what-is-the-difference-between-wet-trimming-and-dry-trimming-cannabis|dry-tropics-climate-and-design|Dry]] and Monsoon Tropical Climates
 
 ## Overview
 

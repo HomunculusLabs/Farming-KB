@@ -7,7 +7,7 @@ tags: [cultivation, mycology, technique]
 sources:
   - "Indoor duggar-mushroom-growing-history-and-methods Technique for the Boil-A-Bag by D H Jarrold"
 ---
-# Jarrold Boil-a-Bag [[spore-print]] to harvest.
+## Jarrold Boil-a-Bag [[spore-print]] to harvest.
 
 ## Equipment Required
 

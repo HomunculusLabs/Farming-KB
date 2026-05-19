@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Stable Carbon Isotope Labelling and Fatty Acid Signatures in [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]
+## Stable Carbon Isotope Labelling and Fatty Acid Signatures in [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]
 - [[isotopic-tracers-mycorrhizal-research]] is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights

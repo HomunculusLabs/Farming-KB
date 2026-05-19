@@ -9,7 +9,7 @@ sources:
   - "raw/papers/laminar-flow-hood-construction-1.md"
 type: query
 ---
-# How Do I Grow King Oyster Mushrooms?
+## How Do I Grow King Oyster Mushrooms?
 ## Short Answer
 King oyster mushrooms (Pleurotus eryngii) are grown by inoculating a supplemented hardwood sawdust substrate with grain spawn, allowing full colonization at 20 to 25 degrees Celsius, then inducing fruiting with cool temperatures and high humidity.
 They are prized for their thick, meaty stems and mild flavor, but require more precise [[king-oyster-cultivation]] process is more involved than growing other oyster species but rewards the patient grower with a premium product.

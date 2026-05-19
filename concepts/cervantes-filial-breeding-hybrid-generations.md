@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Filial Breeding and Hybrid Generations in Cannabis
+## Filial Breeding and Hybrid Generations in Cannabis
 
 Filial breeding is a system where siblings of the same progeny lot and
 generation are inter-mated to produce new generations. The progression

@@ -10,7 +10,7 @@ topics:
   - gardening-methods
 ---
 
-# Low-Grade Compost Making Methods
+## Low-Grade Compost Making Methods
 
 ## Overview
 

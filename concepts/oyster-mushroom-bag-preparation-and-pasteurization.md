@@ -10,7 +10,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Oyster Mushroom Bag Preparation and Pasteurization
+## Oyster Mushroom Bag Preparation and Pasteurization
 
 Bag cultivation is the most widely practiced method for oyster mushroom (Pleurotus spp.) production worldwide, particularly in tropical and subtropical regions. The Mushroom Growers' Handbook 1: *Oyster [[query-how-to-grow-oyster-mushrooms-at-home]] are primary decomposers that grow on raw lignocellulosic materials without composting, unlike button or straw mushrooms
 - **Low capital investment**: Requires minimal infrastructure compared to shelf or tray systems

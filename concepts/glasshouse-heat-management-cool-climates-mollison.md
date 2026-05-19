@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Glasshouse Heat Management in Cool Climates
+## Glasshouse Heat Management in Cool Climates
 
 The [[glasshouse-growing-cool-temperate-climates]] are those places where greenhouses are most
 commonly used for speciality crop or aquatic species production, for house

@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# PF Tek Mushroom Potency and Age Relationship
+## PF Tek Mushroom Potency and Age Relationship
 
 ## Overview
 

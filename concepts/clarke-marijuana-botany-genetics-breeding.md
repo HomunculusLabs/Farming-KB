@@ -8,7 +8,7 @@ sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 type: concept
 ---
 
-# [[cannabis-chromosomes-and-mendelian-inheritance]] patterns. This page covers
+## [[cannabis-chromosomes-and-mendelian-inheritance]] patterns. This page covers
 the fundamental genetic principles that govern [[cytokinin-plant-growth-and-development]]. Pollen and
 ovules are known as gametes, each carrying one set of genes (haploid,
 n=10). Upon fertilization, one set from each parent combines to form

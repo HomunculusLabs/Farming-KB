@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# María Sabina
+## María Sabina
 
 **María Sabina Magdalena García** (c. 1894 – November 22, 1985) was a Mazatec curandera (traditional healer) and shaman from Huautla de Jiménez, Oaxaca, Mexico. She is the most widely known practitioner of indigenous mushroom [[ayahuasca-healing-ceremonies-iquitos]] and is credited with introducing the ritual use of [[australian-magic-mushroom-common-names]]." The article, illustrated with striking photographs by Allan Richardson, brought the existence of psychoactive [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] among Westerners.
 

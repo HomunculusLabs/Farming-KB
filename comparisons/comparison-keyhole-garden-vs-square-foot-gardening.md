@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Keyhole Garden vs Square Foot Gardening
+## Keyhole Garden vs Square Foot Gardening
 
 ## Overview
 Keyhole gardens and square foot gardening are both intensive raised-bed methods designed to

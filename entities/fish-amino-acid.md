@@ -5,10 +5,10 @@ type: chemical
 tags: [knf, faa, natural-farming-acid, fermentation, cho-global]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
 
-# Fish Amino Acid
+## Fish Amino Acid
 
 **Fish Amino Acid (FAA)** is a [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], sawdust, straw) that have low nitrogen content
 

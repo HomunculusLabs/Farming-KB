@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Sheet Mulching for [[sheet-mulching]] is a layered garden [[query-how-do-cover-crops-suppress-weeds]], and establish gardens on almost any soil type. The
+## Sheet Mulching for [[sheet-mulching]] is a layered garden [[query-how-do-cover-crops-suppress-weeds]], and establish gardens on almost any soil type. The
 technique is central to and
 [[query-how-do-you-grow-and-process-tea-at-home]]
 

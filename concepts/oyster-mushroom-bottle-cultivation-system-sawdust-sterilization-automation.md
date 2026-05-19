@@ -14,7 +14,7 @@ tags:
   - controlled-environment
 ---
 
-# Oyster Mushroom Bottle Cultivation System
+## Oyster Mushroom Bottle Cultivation System
 
 ## Overview
 

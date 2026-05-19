@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Nature, God, and the Transcendent World
+## Nature, God, and the Transcendent World
 
 [[fukuoka-heart-sutra-and-illusion-of-life-death]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

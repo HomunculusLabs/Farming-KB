@@ -9,7 +9,7 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
-# Cover Crops and Soil Health
+## Cover Crops and Soil Health
 
 Updated: 2026-04-18
 

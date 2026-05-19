@@ -5,7 +5,7 @@ tags: [winter-harvest, cut-and-come-again, eliot-coleman, greenhouse, cold-hardy
 created: 2026-05-10
 ---
 
-# Winter Harvest Techniques and Cut-and-Come-Again Methods
+## Winter Harvest Techniques and Cut-and-Come-Again Methods
 
 ## Overview
 

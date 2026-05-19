@@ -10,7 +10,7 @@ sources:
 - raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
 ---
 
-# Cannabis Prohibition History
+## Cannabis Prohibition History
 
 From ancient use to modern legalization: the political, legal, and cultural forces
 that criminalized and are now re-legalizing cannabis.

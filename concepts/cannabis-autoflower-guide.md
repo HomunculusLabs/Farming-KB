@@ -7,7 +7,7 @@ tags: [cannabis, beginner, plants, species-profiles, genetics, cultivation, time
 sources: []
 ---
 
-# Cannabis Autoflower Guide
+## Cannabis Autoflower Guide
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [insects, pest-management, gardening, agriculture, ecology, companion-plan
 sources: []
 ---
 
-# Beneficial Insects Guide
+## Beneficial Insects Guide
 
 Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They control pest populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of integrated pest management (IPM) and organic growing.
 

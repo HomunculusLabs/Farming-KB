@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Boundary Conditions and the Edge Effect
+## Boundary Conditions and the Edge Effect
 
 ## Overview
 

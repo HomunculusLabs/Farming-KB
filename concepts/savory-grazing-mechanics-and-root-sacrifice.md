@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Grazing Mechanics and Root Sacrifice
+## Grazing Mechanics and Root Sacrifice
 
 The mechanism by which overgrazing kills perennial grasses is one of the
 most important concepts in [[savory-stock-density-vs-stocking-rate]] calculations

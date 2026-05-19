@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Run a Perpetual Cannabis Harvest Cycle
+## How to Run a Perpetual Cannabis Harvest Cycle
 
 ## Short Answer
 A [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] every 2 to 4 weeks

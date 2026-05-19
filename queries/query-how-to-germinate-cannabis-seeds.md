@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Germinate Cannabis Seeds Successfully?
+## How to Germinate Cannabis Seeds Successfully?
 
 ## Short Answer
 Cannabis seeds can be germinated using the paper towel method (moist paper towel in a

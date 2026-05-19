@@ -29,7 +29,7 @@ sources:
 - concepts/homestead-water-systems.md
 ---
 
-# Permaculture Water Systems Comparison
+## Permaculture Water Systems Comparison
 
 Water management is the foundation of regenerative land design. On a homestead, water systems work together as an integrated strategy: rain is captured and stored, runoff is slowed and infiltrated, graywater is recycled, and distribution is optimized for plant growth. This comparison covers nine major water management approaches synthesized from [[swale-design-construction]], [[graywater-systems]], [[rainwater-harvesting-systems]], [[keyline-design]], [[drip-irrigation]], and [[homestead-water-systems]].
 

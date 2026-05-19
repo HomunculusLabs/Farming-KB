@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Vegetable Domestication and Gardening Basics
+## Vegetable Domestication and Gardening Basics
 
 Understanding what a vegetable actually is — and how it differs from its wild ancestors — is fundamental to successful gardening. Steve Solomon's *[[gardening-when-it-counts]]* begins with these basics because few modern people have grown up on farms, and new vegetable gardeners must catch up on fundamental knowledge that was once common.
 

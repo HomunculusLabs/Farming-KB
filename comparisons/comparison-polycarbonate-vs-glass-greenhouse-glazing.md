@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Polycarbonate vs Glass Greenhouse Glazing
+## Polycarbonate vs Glass Greenhouse Glazing
 
 Choosing the right glazing is one of the most important decisions in greenhouse construction. Polycarbonate and glass are the two most common options, each with distinct tradeoffs in light quality, insulation, durability, and cost. This comparison helps growers select the best material for their [[comparison-cold-frame-gardening-vs-container-gardening-guide]] and hoop-house upgrades
 - Homestead and backyard greenhouses in cold climates

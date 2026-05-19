@@ -16,7 +16,7 @@ sources: []
 type: query
 ---
 
-# How to Start a Syntropic Farm
+## How to Start a Syntropic Farm
 
 ## What is [[query-what-is-syntropic-agriculture-and-how-do-i-start]] is a regenerative farming method developed by Ernst Götsch that mimics natural forest succession to produce food while regenerating soil and ecosystem health. It works best on land where you want to establish long-term productive agroforestry. It suits tropical and subtropical climates best, though temperate adaptations are emerging. If you have even a small plot (100 sqm or more), access to diverse plant species, and willingness to learn through observation, syntropic farming can work for you. It is particularly effective on degraded or eroded land.
 

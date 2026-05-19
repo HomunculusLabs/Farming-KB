@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gangamma's Mandala [[bill-mollison]] using permaculture
+## Gangamma's Mandala [[bill-mollison]] using permaculture
 "least-path" layout principles to minimize walking distance and maximise productive
 access to every planted zone.
 

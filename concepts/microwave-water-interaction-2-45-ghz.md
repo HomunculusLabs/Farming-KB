@@ -7,7 +7,7 @@ tags: [physics, electromagnetism, microwaves, dielectric-heating, water-absorpti
 sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 ---
 
-# Microwave Water Interaction at 2.45 GHz
+## Microwave Water Interaction at 2.45 GHz
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Psilocybe cubensis Profile
+## Psilocybe cubensis Profile
 
 ## Overview
 

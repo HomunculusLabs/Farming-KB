@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal]
 sources: []
 ---
-# 4-D
+## 4-D
 
 4-D (3,5-dimethoxy-4-trideuteromethoxy-phenethylamine) is a deuterium-substituted analogue of mescaline described in [[2c-b]].
 

@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Mushroom Cultivation Environmental Control
+## Mushroom Cultivation Environmental Control
 
 Successful mushroom cultivation depends on precise management of four [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]) | 28 to 38 | Summer, rainy |
 | Button ([[stamets-reishi-ganoderma-lucidum-cultivation]]) | 24 to 37 | Summer, rainy |

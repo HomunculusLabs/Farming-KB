@@ -5,9 +5,9 @@ type: chemical
 tags: [knf, ohn, herbal-extract, fernatural-farmingitional-medicine]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
-# Oriental Herbal Nutrient
+## Oriental Herbal Nutrient
 **[[chos-global-natural-farming-input-reduction-methods]] system, OHN functions as a [[mycelial-network-nutrient-transport-imaging-gadd]] within plant tissues
 * **Plant part used:** Dried roots
 ### 2. Cinnamon (Cinnamomum cassia / 계피)

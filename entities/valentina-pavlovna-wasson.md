@@ -6,7 +6,7 @@ type: entity
 tags: [history, research]
 sources: []
 ---
-# Valentina Pavlovna Wasson
+## Valentina Pavlovna Wasson
 
 Valentina Pavlovna Guercken Wasson (1901-1958) was a Russian-born paediatrician and
 ethnomycologist who, together with her husband [[amanita-muscaria-fly-agaric-history-and-pharmacology]].

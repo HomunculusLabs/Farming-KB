@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Seborrhea
+## Cannabis and Seborrhea
 
 Seborrhea (seborrheic dermatitis) is a common, chronic inflammatory skin
 condition that primarily affects areas of the body where sebaceous (oil)

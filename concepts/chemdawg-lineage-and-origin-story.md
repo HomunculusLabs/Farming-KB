@@ -6,7 +6,7 @@ topics: [cannabis, genetics, strain-history, chemdawg, breeding]
 created: 2026-05-09
 ---
 
-# Chemdawg Lineage and Origin Story
+## Chemdawg Lineage and Origin Story
 
 ## The Legend
 

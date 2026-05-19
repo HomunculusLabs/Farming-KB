@@ -30,7 +30,7 @@ related_concepts:
   - permaculture-plants-herbaceous-perennials
 ---
 
-# Food Forest Design and Plant Selection Guide
+## Food Forest Design and Plant Selection Guide
 
 Designing a food forest is among the most ambitious and rewarding projects a
 permaculture practitioner can undertake. Unlike a vegetable garden that reaches

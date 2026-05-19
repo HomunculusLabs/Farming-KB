@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Case Study: Energy-Efficient Organic Sea of Green
+## Case Study: Energy-Efficient Organic Sea of Green
 
 This case study from [[cannabis-grow-room-setup]].
 They built two benches (16'6" x 4' each), lined walls with white

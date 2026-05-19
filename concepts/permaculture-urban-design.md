@@ -7,7 +7,7 @@ tags: [permaculture, urban, design, gardening, water-management, community, ecol
 sources: []
 ---
 
-# Permaculture Urban Design
+## Permaculture Urban Design
 
 Urban permaculture applies ecological design principles to cities, towns, and densely populated areas. Despite limited space, urban environments offer unique opportunities: high population density means many potential collaborators within walking distance, vertical surfaces add growing area, and the urban heat island extends the growing season. The challenge is to maximize productivity, biodiversity, and community connection within constrained spaces.
 

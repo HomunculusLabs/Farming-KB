@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Water Quality
+## Aquaculture Water Quality
 
 Water quality is the single most critical factor in aquaculture success, affecting every aspect of fish health, growth, reproduction, and survival. The key parameters include dissolved oxygen, temperature, pH, salinity, flow, and nutrient levels—each interacting with the others in complex ways.
 

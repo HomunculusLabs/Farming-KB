@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2-TOM (5-Methoxy-4-methyl-2-methylthioamphetamine)
+## 2-TOM (5-Methoxy-4-methyl-2-methylthioamphetamine)
 
 2-TOM is a methylthio-substituted amphetamine and the sulfur analogue of [[dom]] (STP, 2,5-dimethoxy-4-methylamphetamine) is one of the most potent psychedelic amphetamines, active at 3-10 mg.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [compost-tea, manure, anaerobic, pathogen-risk, historical]
 ---
 
-# Manure Tea (Anaerobic)
+## Manure Tea (Anaerobic)
 
 ## Description
 

@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Biogas Digesters vs Composting Toilets
+## Biogas Digesters vs Composting Toilets
 
 ## Overview
 

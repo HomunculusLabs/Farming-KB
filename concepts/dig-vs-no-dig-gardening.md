@@ -7,7 +7,7 @@ tags: [gardening, organic-gardening]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Dig vs No-Dig Gardening
+## Dig vs No-Dig Gardening
 
 The question of whether to dig the soil or adopt a no-dig approach is one of the great debates in gardening. Both methods have their advocates, and the choice depends on your soil type, the crops you want to grow, and your personal preferences. The [[garden-bed-preparation]] — detailed [[crop-rotation-benefits]] — planning cultivation across the garden
 - [[solomon-crop-rotation-and-garden-planning]]

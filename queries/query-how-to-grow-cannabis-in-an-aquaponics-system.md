@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Cannabis in an Aquaponics System
+## How to Grow Cannabis in an Aquaponics System
 
 ## Short Answer
 Aquaponics combines [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]. Fish

@@ -16,7 +16,7 @@ sources:
   - Zander, R.H. (1993). Genera of the Pottiaceae. Bulletin of the Buffalo Society of Natural Sciences, 32.
 ---
 
-# Tortula ruralis
+## Tortula ruralis
 
 ## Overview
 

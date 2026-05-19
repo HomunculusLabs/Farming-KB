@@ -22,7 +22,7 @@ sources:
   - Ulbricht C, et al. An evidence-based systematic review of chamomile. Journal of Herbal Pharmacotherapy. 2005;5(2):47-77.
 ---
 
-# What Are the Best Anxiolytic Herbs to Grow at Home?
+## What Are the Best Anxiolytic Herbs to Grow at Home?
 
 ## Quick Reference: Top Anxiolytic Herbs by Growing Zone
 

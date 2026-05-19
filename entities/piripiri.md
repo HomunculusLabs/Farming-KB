@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Piripiri (Cyperus sp.)
+## Piripiri (Cyperus sp.)
 
 ## Description
 

@@ -1,5 +1,5 @@
 ---
-title: Direct-Seeded No-Tillage Rice/direct-seeded-no-tillage-rice-barley-succession-in-clover Cropping
+title: "Direct Seeded No Tillage Rice Barley Succession"
 created: 2026-05-06
 tags:
   - natural-farming
@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Direct-Seeded No-Tillage Rice/Barley Succession Cropping
+## Direct-Seeded No-Tillage Rice/Barley Succession Cropping
 
 Direct-seeded no-tillage rice/barley succession cropping is the core practical technique developed by [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-crop-rotation-natural-farming]]

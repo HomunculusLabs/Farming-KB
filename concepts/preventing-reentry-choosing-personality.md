@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Preventing Re-Entry and Choosing the Post-Session Personality
+## Preventing Re-Entry and Choosing the Post-Session Personality
 
 This concept covers the critical transitional phases described in the [[bardo-thodol]] as adapted by Leary, Metzner, and Alpert in *The [[leary-psychedelic-experience-bardo-mapping]]*. It addresses two key concerns: (1) how to prevent premature re-entry into ego-consciousness during a [[psychedelic-session-instructions]], and (2) how to consciously choose one's post-session personality upon returning. Together these teachings form the culmination of [[the-second-bardo-and-hallucinatory-visions]] instructions and the general conclusion of the manual.
 

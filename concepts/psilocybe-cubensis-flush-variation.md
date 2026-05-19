@@ -13,7 +13,7 @@ tags:
   - hplc
 ---
 
-# [[mycelium]] may rest before producing another flush. Bigwood & Beug
+## [[mycelium]] may rest before producing another flush. Bigwood & Beug
 studied up to six flushes from three independent minicultures of the **Amazon
 strain** of *[[psilocybe-cubensis]]* (originally collected in Pucallpa, Peru).
 

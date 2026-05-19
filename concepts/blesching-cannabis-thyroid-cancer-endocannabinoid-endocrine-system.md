@@ -5,7 +5,7 @@ source_author: "uwe-blesching, PhD"
 tags: [cannabis, thyroid-cancer, endocannabinoid, CB1, CB2, endocrine, iodine, apoptosis, mind-body, radiation]
 ---
 
-# Thyroid Cancer and the Endocannabinoid System
+## Thyroid Cancer and the Endocannabinoid System
 
 ## Thyroid Gland Anatomy and Function
 

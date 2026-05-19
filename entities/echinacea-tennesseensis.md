@@ -16,7 +16,7 @@ sources:
   - "McGregor, R.L. (1968). \"The taxonomy of the genus Echinacea.\" University of Kansas Science Bulletin, 48(4), 113-142."
 ---
 
-# Echinacea tennesseensis (Tennessee Coneflower)
+## Echinacea tennesseensis (Tennessee Coneflower)
 
 ## Overview
 

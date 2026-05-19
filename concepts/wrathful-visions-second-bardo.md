@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Wrathful Visions of the Second Bardo and Transition to the Third Bardo
+## Wrathful Visions of the Second Bardo and Transition to the Third Bardo
 
 ## Overview
 
@@ -67,7 +67,7 @@ The teaching remains the same: recognize the hell visions as your own thought-fo
 
 ---
 
-# The Third Bardo: The Period of Re-Entry (Sidpa Bardo)
+## The Third Bardo: The Period of Re-Entry (Sidpa Bardo)
 
 ## Introduction
 

@@ -11,7 +11,7 @@ sources: [papers/staycare-mngmt-fungi-in-bioremediation.md]
 updated: 2026-04-26
 ---
 
-# Solid-State Fermentation for Bioremediation
+## Solid-State Fermentation for Bioremediation
 
 ## Overview
 

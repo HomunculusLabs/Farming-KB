@@ -1,4 +1,8 @@
-# Psilocybe Genus: Global Biodiversity and Distribution
+---
+title: "Psilocybe Genus: Global Biodiversity and Distribution"
+tags:
+  - concept
+---
 
 ## Overview
 

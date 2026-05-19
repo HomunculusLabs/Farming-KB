@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Role of Endophytic Fungi in Plant Health?
+## What Is the Role of Endophytic Fungi in Plant Health?
 
 ## Short Answer
 

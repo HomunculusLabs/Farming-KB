@@ -20,7 +20,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# KNF Seawater and Fermented Seawater
+## KNF Seawater and Fermented Seawater
 
 Seawater is KNF's full-spectrum mineral supplement. Surface seawater (top 3 cm) swarms with microbes and contains all essential trace minerals in balanced, bioavailable form. Fermented seawater combines seawater minerals with land-based microbes and organic matter, creating a potent biological-mineral input.
 

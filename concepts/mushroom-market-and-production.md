@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, economics, agriculture, market, trade]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
-# Mushroom Market and Production *[[agaricus-campestris]]
+## Mushroom Market and Production *[[agaricus-campestris]]
 - [[duggar-mushroom-growing-history-and-methods]]. Macmillan, 1915.
 - Duggar, B.M. "The Principles of [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

@@ -8,7 +8,7 @@ sources: [robert-c-clarke-marijuana-botany-an-advanced-study.md]
 type: concept
 ---
 
-# Cannabis Sex Determination and Reproductive Biology
+## Cannabis Sex Determination and Reproductive Biology
 
 Cannabis is fundamentally a dioecious plant, meaning that male and female
 flowers develop on separate plants, although monoecious examples with

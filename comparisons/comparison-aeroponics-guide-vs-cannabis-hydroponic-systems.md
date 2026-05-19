@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Aeroponics vs Hydroponics
+## Aeroponics vs Hydroponics
 
 ## Overview
 [[mushroom-growing-methods-comparison]] that deliver

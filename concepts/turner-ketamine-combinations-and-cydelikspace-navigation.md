@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
-# Turner [[ketamine]] combinations, particularly with 2C-B and LSD.
+## Turner [[ketamine]] combinations, particularly with 2C-B and LSD.
 
 ## The Ketamine Challenge
 

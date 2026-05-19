@@ -19,7 +19,7 @@ sources:
   - "Buscot, F. (1989). \"Field and Laboratory Synthesis of Morchella mycorrhizae." Mycologia."
 ---
 
-# Morchella elata (Black Morel)
+## Morchella elata (Black Morel)
 
 ## Overview
 

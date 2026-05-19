@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Compost Feedstock Selection
+## Compost Feedstock Selection
 
 [[elaine-ingham]]'s field guide provides detailed guidance on selecting and managing compost feedstocks, comparing thermal composting with vermicomposting and addressing specific materials including paper, wood chips, and [[mushroom-compost]].
 

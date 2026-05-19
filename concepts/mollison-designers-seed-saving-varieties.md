@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Seed Saving and Open-Pollinated Varieties
+## Seed Saving and Open-Pollinated Varieties
 
 Seed saving is one of the most fundamental skills in [[fukuoka-second-genesis-theory-global-seed-scattering]] supply into the hands of a few corporations
 producing hybrid and genetically modified varieties represents, in Mollison's

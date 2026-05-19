@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Black Soldier Fly Composting vs Bokashi
+## Black Soldier Fly Composting vs Bokashi
 
 Black soldier fly (*Hermetia illucens*) composting and bokashi fermentation are two radically different approaches to organic waste processing. One leverages insect larvae to rapidly consume and bioconvert food scraps into protein-rich animal feed and frass, while the other uses a community of [[hamilton-composting-and-organic-matter-management]] more effectively per unit of input. Studies show bokashi-treated waste retains 80–90% of its initial carbon, compared to 40–60% loss during [[psilocybe-southeast-asia-pacific]] and Europe process tonnes of organic waste per day using climate-controlled bioreactors. The larvae themselves reproduce prolifically — a healthy colony is largely self-sustaining once established.
 

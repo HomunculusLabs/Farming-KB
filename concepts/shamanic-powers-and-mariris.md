@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Shamanic Powers and Mariris
+## Shamanic Powers and Mariris
 
 The acquisition and exercise of shamanic power in Amazonian vegetalismo is a complex system involving initiation rites, magical phlegm (mariris), guardian spirits, and sacred objects. As described by [[amaringo-ayahuasca-visions-shipibo-iconography]], the path to becoming a vegetalista involves direct contact with plant spirits, animal allies, and cosmic beings who confer specialized abilities.
 

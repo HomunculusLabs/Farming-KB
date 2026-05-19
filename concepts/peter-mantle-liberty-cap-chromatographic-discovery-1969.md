@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Peter Mantle and the Liberty Cap Chromatographic Discovery (1969)
+## Peter Mantle and the Liberty Cap Chromatographic Discovery (1969)
 
 ## The British Biochemist Who Confirmed Psilocybin in the Liberty Cap
 

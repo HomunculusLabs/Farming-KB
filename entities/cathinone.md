@@ -18,7 +18,7 @@ sources:
   - EMCDDA (2022). "Khat Drug Profile." European Monitoring Centre for Drugs and Drug Addiction.
 ---
 
-# Cathinone
+## Cathinone
 
 ## Overview
 

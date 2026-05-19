@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, history, [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation|cultivation], legal, pioneer]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
+sources: ["raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"]
 type: concept
 ---
-# Psilocybe Fanaticus **Psilocybe Fanaticus** was the pseudonym of Robert McPherson, a pioneering figure in the amateur mycology community best known for developing the [[spore-syringe]] s in the mid-1990s through his
+## Psilocybe Fanaticus **Psilocybe Fanaticus** was the pseudonym of Robert McPherson, a pioneering figure in the amateur mycology community best known for developing the [[spore-syringe]] s in the mid-1990s through his
 website, fanaticus.com, under the business name [[psylocybe-fanaticus]] (often
 abbreviated PF). His business model was straightforward: he sold pre-made spore
 syringes of [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison|mushroom]] cultivation, particularly the work of R. Gordon Wasson,

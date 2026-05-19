@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Cucurbit Pests
+## Cucurbit Pests
 
 The [[solomon-cucurbit-family-growing-squash-melons-cucumbers]] — cucumbers, melons, squash, pumpkins, and related species — faces a distinctive set of insect pests across [[guzman-psilocybin-mushrooms-north-america]]. From cucumber beetles to squash borers, these insects can devastate crops, but smart strategies exist to minimize losses without resorting to heavy chemical use.
 

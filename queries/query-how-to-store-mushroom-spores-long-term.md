@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Store Mushroom Spores Long Term
+## How to Store Mushroom Spores Long Term
 
 ## Short Answer
 Mushroom spores are best stored long-term by keeping them dry, cool, and dark.

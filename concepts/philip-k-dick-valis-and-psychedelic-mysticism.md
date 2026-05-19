@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Philip K. Dick, VALIS, and Psychedelic Mysticism
+## Philip K. Dick, VALIS, and Psychedelic Mysticism
 
 Philip K. Dick (1928-1982) is best known through the films Blade Runner and Total Recall, which were based on his writings.
 

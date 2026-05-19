@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Regenerative vs Biodynamic Agriculture
+## Regenerative vs Biodynamic Agriculture
 
 ## Overview
 [[biochar-in-regenerative-agriculture]] and [[coleman-deep-organic-farming-philosophy]]. Regenerative agriculture,

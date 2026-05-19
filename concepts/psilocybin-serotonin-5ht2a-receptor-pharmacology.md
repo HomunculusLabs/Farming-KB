@@ -8,7 +8,7 @@ type: concept
 tags: [pharmacology, psilocybin, serotonin]
 ---
 
-# [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] enter the diet, and the new chemicals subsequently operating within the brain alter awareness so that consensual serotonergic reality shifts to a rare psilocybinetic reality.
+## [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] enter the diet, and the new chemicals subsequently operating within the brain alter awareness so that consensual serotonergic reality shifts to a rare psilocybinetic reality.
 
 This environmental embeddedness of [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]] has profound implications. The various compounds employed by brains in order to process information have evolved over millions of years and they are determined by the chemicals available in the environment, in particular from the raw materials available in food. Serotonin has emerged as a key neurotransmitter because it can be produced from these raw materials. You cannot just have any old chemical compound acting as a neurotransmitter; it has to have arisen through evolution under the deterministic constraints set by the laws of chemistry and the further constraints set by food/raw material availability.
 

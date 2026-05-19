@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Zone Two: Orchard and Animal Systems
+## Permaculture Zone Two: Orchard and Animal Systems
 
 Zone Two in [[permaculture-design]] represents the second concentric ring outward from the dwelling (Zone One). It is the area of less frequent but still significant management, typically visited once every few days rather than daily. Zone Two is where the primary productive systems of a [[permaculture]] site are concentrated — orchards, main crop gardens, and domestic animals that form the backbone of food production [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 

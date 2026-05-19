@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Pleurotus tuber-regium - The African Sclerotial Oyster Mushroom
+## Pleurotus tuber-regium - The African Sclerotial Oyster Mushroom
 
 ## Overview
 

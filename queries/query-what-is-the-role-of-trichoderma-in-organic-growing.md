@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Role of Trichoderma in Organic Growing?
+## What Is the Role of Trichoderma in Organic Growing?
 
 ## Short Answer
 Trichoderma is a genus of beneficial fungi that acts as a natural biocontrol

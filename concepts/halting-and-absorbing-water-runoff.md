@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Halting and Absorbing Water Runoff
+## Halting and Absorbing Water Runoff
 
 Converting destructive overland water flow into productive soil moisture is a central goal of [[water-runoff-factors-and-estimation]]
 - Infiltration and slope stabilisation

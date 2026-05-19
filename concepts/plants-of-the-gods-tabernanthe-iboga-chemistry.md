@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Tabernanthe iboga: Chemistry and Pharmacology
+## Tabernanthe iboga: Chemistry and Pharmacology
 
 ## Botanical Description
 

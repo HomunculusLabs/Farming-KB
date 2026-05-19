@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Straw Pasteurization Methods
+## Straw Pasteurization Methods
 
 Straw is one of the most productive and accessible bulk substrates for [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], and [[gourmet-medicinal-mushroom-substrate-preparation]].
 

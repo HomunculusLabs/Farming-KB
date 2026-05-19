@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Tetrapteris methystica
+## Tetrapteris methystica
 
 Tetrapteris methystica is a woody vine in the family
 Malpighiaceae native to the Amazon basin, noted for its

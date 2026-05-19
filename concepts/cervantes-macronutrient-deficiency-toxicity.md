@@ -13,7 +13,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
-# Macronutrient Deficiency and Toxicity in Cannabis
+## Macronutrient Deficiency and Toxicity in Cannabis
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
 -- [[query-how-to-fix-zinc-deficiency-in-cannabis]] is most
 common. May take several weeks to surface, especially if buffered by a

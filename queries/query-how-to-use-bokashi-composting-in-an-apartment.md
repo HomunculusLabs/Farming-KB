@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Use Bokashi Composting in an Apartment
+## How to Use Bokashi Composting in an Apartment
 
 ## Short Answer
 

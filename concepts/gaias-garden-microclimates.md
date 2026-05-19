@@ -9,7 +9,7 @@ type: concept
 tags: [climate, gardening, microclimate]
 ---
 
-# Garden Microclimates
+## Garden Microclimates
 
 Whether perennial-vegetables|perennial or annual, a plant will thrive only under the right growth conditions. A drought-loving rosemary that will drown too close to a downspout will perk up in a hot, sunny corner. A sweet woodruff that is withering in the sunny site will sigh in relief when shaded by some nurturing shrub. Each plant requires a certain range of soil type, acidity, temperature, light, moisture, and other factors. Microclimate gardening is the practice of identifying, creating, and managing these conditions to support the plants we want.
 

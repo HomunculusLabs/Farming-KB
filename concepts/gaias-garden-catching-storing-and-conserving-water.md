@@ -9,7 +9,7 @@ type: concept
 tags: [gardening, water]
 ---
 
-# Catching, Storing, and Conserving Water
+## Catching, Storing, and Conserving Water
 
 In conventional garden design, water appears only by fortunate rainfall or by the gardener's intervention through hoses and sprinklers fed by distant wells and pumps. In an ecologically based design, water is not an externally caused event -- it is designed in, naturally present, naturally abundant. The well-designed garden spontaneously cycles toward lush growth even when the gardener is absent and skies are cloudless.
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Biochar vs Composting for Soil Amendment
+## Biochar vs Composting for Soil Amendment
 
 ## Overview
 

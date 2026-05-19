@@ -17,7 +17,7 @@ source:
   - Innovators: James E. Atwater, Neil D. Streech, Frank C. Garmon
 ---
 
-# Pseudomonas cepacia in Microwave Surface Decontamination Kinetics
+## Pseudomonas cepacia in Microwave Surface Decontamination Kinetics
 
 ## Overview
 

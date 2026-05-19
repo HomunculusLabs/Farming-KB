@@ -5,7 +5,7 @@ type: entity
 tags: [text, chinese, philosophy, taoism, consciousness]
 ---
 
-# Tao Te Ching
+## Tao Te Ching
 
 ## Description
 The Tao Te Ching (Chinese: 道德經, "The Book of the Way and Virtue") is a foundational text of Taoism, traditionally attributed to Lao Tzu (6th century BCE). In *The Psychedelic Experience*, [[carl-jung]] is described as having reacted to the Tao Te Ching as "that great Rorschach inkblot" — a projective text whose meaning unfolds differently for each reader depending on their level of consciousness.

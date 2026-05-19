@@ -6,7 +6,7 @@ tags: [disease-suppression, biocontrol, competitive-exclusion, soil-microbes, pl
 created: 2026-05-08
 ---
 
-# Microbial Disease Suppression in Soil
+## Microbial Disease Suppression in Soil
 
 Soil-borne plant diseases represent some of the most persistent and
 damaging challenges in agriculture worldwide. Dr. Ingham's research

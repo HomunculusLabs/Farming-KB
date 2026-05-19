@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Ephedra sinica
+## Ephedra sinica
 
 **Ephedra sinica**, known as **Ma Huang** (麻黄) in traditional Chinese medicine, is a gymnosperm shrub in the family Ephedraceae. It is the principal natural source of ephedrine and pseudoephedrine — alkaloid sympathomimetic amines that have been used medicinally for over 5,000 years and remain important in modern pharmacology. Native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 

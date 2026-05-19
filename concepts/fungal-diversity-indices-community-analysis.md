@@ -4,9 +4,9 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: mycology, ecology, biodiversity, statistics]
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
-# Fungal Diversity Indices and Community Analysis
+## Fungal Diversity Indices and Community Analysis
 
 Quantifying fungal diversity requires appropriate
 ecological indices that account for both the number of

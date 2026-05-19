@@ -1,4 +1,8 @@
-# Human Fungal Diseases (Mycoses) Overview
+---
+title: "Human Fungal Diseases (Mycoses) Overview"
+tags:
+  - concept
+---
 
 [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]], targets
 individuals with weakened immune systems and has become increasingly

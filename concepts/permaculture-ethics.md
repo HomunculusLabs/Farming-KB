@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[permaculture]] were developed through research into community ethics as adopted by older religious and cooperative groups. Although many such guidelines contained as many as 18 [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] found that most could be distilled into three foundational ethics — and even the second and third arise from the first:
+## [[permaculture]] were developed through research into community ethics as adopted by older religious and cooperative groups. Although many such guidelines contained as many as 18 [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] found that most could be distilled into three foundational ethics — and even the second and third arise from the first:
 
 ### The Three Ethics of Permaculture
 

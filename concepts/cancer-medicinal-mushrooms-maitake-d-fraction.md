@@ -8,7 +8,7 @@ type: concept
 tags: [maitake, medicine, mushroom-cultivation, mushrooms]
 ---
 
-# Maitake (Grifola frondosa) and D-Fraction Research
+## Maitake (Grifola frondosa) and D-Fraction Research
 
 ## Overview
 

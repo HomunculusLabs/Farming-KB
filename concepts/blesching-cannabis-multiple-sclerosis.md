@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Multiple Sclerosis Spasticity
+## Cannabis for Multiple Sclerosis Spasticity
 
 ## Overview of Multiple Sclerosis
 

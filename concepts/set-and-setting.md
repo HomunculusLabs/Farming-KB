@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [psychology, psychedelics, therapy, consciousness]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+sources: ["raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"]
 type: concept
 ---
 
-# Set and Setting
+## Set and Setting
 
 Set and setting is a foundational concept in [[leary-psychedelic-experience-bardo-mapping]] profoundly shapes its content, quality, and outcomes.
 First articulated by [[entheogen-culture]]

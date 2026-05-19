@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Grafting Techniques and Sowing a Fruit Forest
+## Grafting Techniques and Sowing a Fruit Forest
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 

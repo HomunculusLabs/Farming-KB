@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Crop Categories and Cold Season Management
+## Winter Harvest Crop Categories and Cold Season Management
 
 ## Overview
 

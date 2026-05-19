@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Forest Management Strategies
+## Forest Management Strategies
 
 Effective forest [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]] requires a multi-layered approach that values standing biomass, diversifies products, and maintains ecological function. Rather than single-purpose extraction, [[permaculture-forestry-systems]] aims to maximize the value derived from every acre while preserving the forest's capacity for regeneration, [[water-management]], and [[hemenway-backyard-wildlife-habitat]].
 

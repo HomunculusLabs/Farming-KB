@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Outdoor Wood Chip Bed Preparation for Wood-Loving Mushrooms
+## Outdoor Wood Chip Bed Preparation for Wood-Loving Mushrooms
 
 Outdoor [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] method
 well-suited to home cultivators seeking [[seasonal-mushroom-fruiting-calendar-companion-cultivation]] harvests. For

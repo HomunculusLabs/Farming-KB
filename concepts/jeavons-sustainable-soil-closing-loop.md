@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Sustainable Soil and Closing the Loop
+## Sustainable Soil and Closing the Loop
 
 The concept of sustainability is central to the [[hamilton-organic-fertilizers-and-plant-nutrition]] must be imported to maintain
 nutrient levels and balance. For the future, Ecology Action is exploring ways

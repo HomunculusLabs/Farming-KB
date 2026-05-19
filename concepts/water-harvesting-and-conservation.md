@@ -5,7 +5,7 @@ tags: [permaculture, gardening, water, conservation, swales, greywater]
 created: 2026-05-11
 ---
 
-# Water Harvesting and Conservation
+## Water Harvesting and Conservation
 
 ## The Fivefold Path to Water Wisdom
 

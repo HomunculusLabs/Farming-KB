@@ -20,7 +20,7 @@ sources:
 - raw/papers/shulgin-a-future-drugs.md
 ---
 
-# Shulgin Designer Drugs Analysis
+## Shulgin Designer Drugs Analysis
 
 [[alexander-shulgin]]'s 1975 paper "Drugs of Abuse in the Future" (Clin. Toxicol. 8(4), 405-456) is the foundational analysis of designer drug potential. Written before the term "designer drug" existed, it systematically predicted how prohibition would drive chemical innovation.
 

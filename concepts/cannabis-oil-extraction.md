@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Oil Extraction
+## Cannabis Oil Extraction
 
 ## Overview
 

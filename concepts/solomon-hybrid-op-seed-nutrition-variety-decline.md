@@ -1,4 +1,8 @@
-# Hybrid vs Open-Pollinated Seed Nutrition and Variety Decline
+---
+title: "Hybrid vs Open-Pollinated Seed Nutrition and Variety Decline"
+tags:
+  - concept
+---
 
 **Source:** [[gardening-when-it-counts]] — [[steve-solomon]] (2005)
 

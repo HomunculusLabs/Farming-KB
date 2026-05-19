@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogen Terminology and Chemical Classification
+## Hallucinogen Terminology and Chemical Classification
 
 The language used to describe [[fukuoka-fallacies-scientific-understanding]],
 and cultural contexts. The terminology is not merely semantic; each label carries

@@ -23,7 +23,7 @@ sources:
 - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Endophytic Fungi
+## Endophytic Fungi
 
 Endophytic fungi live within plant tissues (leaves, stems, roots) without causing visible disease symptoms. They are found in virtually every plant species examined, representing one of the most diverse and underexplored groups of microorganisms. Endophytes blur the line between mutualism, commensalism, and parasitism — the outcome depends on environmental conditions, host health, and fungal genotype.
 

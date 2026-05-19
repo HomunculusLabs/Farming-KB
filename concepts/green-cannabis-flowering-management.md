@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [cannabis]
 ---
-# Cannabis Flowering Management
+## Cannabis Flowering Management
 From [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]
 
 ## Key Principles and Mechanisms

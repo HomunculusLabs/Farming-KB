@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# PEA
+## PEA
 
 PEA (Phenethylamine) is the simplest member of the phenethylamine family and serves as the structural parent of all compounds discussed in PiHKAL.
 

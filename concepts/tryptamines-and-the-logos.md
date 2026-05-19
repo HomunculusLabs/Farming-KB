@@ -7,7 +7,7 @@ sources:
 created: 2026-05-08
 ---
 
-# [[ayahuasca]] — have a unique capacity to invoke what he called "the Logos,"
+## [[ayahuasca]] — have a unique capacity to invoke what he called "the Logos,"
 a concept drawn from Greek philosophy, Christian theology, and the Kabbalistic
 tradition. Unlike other classes of psychedelics, McKenna argued that
 tryptamines work directly on the language centers of the brain, producing an

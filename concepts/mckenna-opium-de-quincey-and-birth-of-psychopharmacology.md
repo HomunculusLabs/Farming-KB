@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Opium, De Quincey, and the Birth of Psychopharmacology
+## Opium, De Quincey, and the Birth of Psychopharmacology
 
 ## Opium and Cultural Style
 

@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: ["domain-knowledge"]
 ---
 
-# Maclura pomifera
+## Maclura pomifera
 
 ## Overview
 

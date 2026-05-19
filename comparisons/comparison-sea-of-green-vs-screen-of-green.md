@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Sea of Green vs Screen of Green
+## Sea of Green vs Screen of Green
 ## Overview
 Sea of Green (SOG) and Screen of Green (SCROG) are two canopy-management strategies
 that maximize [[green-cannabis-grow-bible-vegetative-phase-management]], branches are trained through the screen until it is approximately

@@ -5,7 +5,7 @@ type: entity
 tags: [mulch, bacteria, soil-food-web, annual-gardening]
 ---
 
-# Green Mulch
+## Green Mulch
 
 ## Description
 

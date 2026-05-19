@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, autoflower, strain-profile, ogre, joint-doctor, secret-garden-seeds, durban-skunk]
 ---
 
-# OGRE Strain Profile (Joint Doctor × Secret Garden Seeds)
+## OGRE Strain Profile (Joint Doctor × Secret Garden Seeds)
 
 ## Overview
 

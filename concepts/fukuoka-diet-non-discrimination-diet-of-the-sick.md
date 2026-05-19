@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Diet of Non-Discrimination and the Diet of the Sick
+## The Diet of Non-Discrimination and the Diet of the Sick
 
 In the concluding section of Chapter 5 in [[comparison-natural-farming-vs-permaculture]], [[cho-brown-rice-vinegar-preparation]] as a staple and advocated eating foods grown in one's immediate region. However, Fukuoka diverged significantly from macrobiotics in important ways.
 

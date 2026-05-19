@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis in Palliative Care
+## Cannabis in Palliative Care
 
 ## Overview
 

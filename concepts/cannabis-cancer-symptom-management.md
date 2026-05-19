@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/blesching-cannabis-pain-management.md"
 ---
-# Cannabis for Cancer Symptom Management
+## Cannabis for Cancer Symptom Management
 
 The [[cannabis-chronic-pain-management]] for detailed [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] -- CBD inhibits FAAH (the enzyme that breaks down anandamide), potentially supporting appetite through this indirect pathway.
 

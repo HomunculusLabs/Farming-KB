@@ -18,7 +18,7 @@ source:
   - "indoor mushroom growing technique: boil a bag (jarrold)"
 ---
 
-# Vermiculit [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] ge
+## Vermiculit [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] ge
 
 ## Overview
 

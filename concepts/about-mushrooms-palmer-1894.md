@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# About Mushrooms — Julius Auboineau Palmer (1894)
+## About Mushrooms — Julius Auboineau Palmer (1894)
 
 ## Overview
 

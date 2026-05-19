@@ -5,7 +5,7 @@ tags: [cultivation, pf-tek, inoculation, incubation, fruiting, terrarium]
 created: 2026-05-09
 ---
 
-# PF TEK Inoculation, Incubation, and Fruiting Techniques
+## PF TEK Inoculation, Incubation, and Fruiting Techniques
 
 ## Overview
 

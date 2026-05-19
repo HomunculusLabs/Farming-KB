@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# How Do I Grow Lavender and What Are Its Uses?
+## How Do I Grow Lavender and What Are Its Uses?
 
 ## Short Answer
 

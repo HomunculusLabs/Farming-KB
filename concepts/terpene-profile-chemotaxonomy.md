@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Terpene Profile Chemotaxonomy
+## Terpene Profile Chemotaxonomy
 
 Chemotaxonomy uses chemical composition profiles to classify organisms and
 establish evolutionary relationships. In [[cannabis-terpene-profiles-sativa]].

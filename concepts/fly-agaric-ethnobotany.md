@@ -8,7 +8,7 @@ type: concept
 tags: [agar, ethnobotany]
 ---
 
-# Fly Agaric Ethnobotany in Plants of the Gods
+## Fly Agaric Ethnobotany in Plants of the Gods
 
 The fly agaric ([[growing-gourmet-north-american-reishi-species]] indigenous practice.
 

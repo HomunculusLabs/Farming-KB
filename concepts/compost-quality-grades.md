@@ -15,7 +15,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Compost Quality Grades
+## Compost Quality Grades
 
 ## Overview
 

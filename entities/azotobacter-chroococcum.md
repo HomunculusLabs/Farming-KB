@@ -5,10 +5,10 @@ type: species
 tags: [nitrogen-fixation, free-living-bacteria, biofertilizer, soil-microbiology, indigenous-microorganisms]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
+sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
 
-# Azotobacter chroococcum
+## Azotobacter chroococcum
 
 *Azotobacter chroococcum* is a large, obligately aerobic, free-living nitrogen-fixing bacterium belonging to the family *Pseudomonadaceae* (order *Pseudomonadales*). It is the most commonly isolated species of the genus *Azotobacter* and is widely distributed in neutral to alkaline soils worldwide. The organism is distinguished by its ability to fix atmospheric nitrogen under aerobic conditions—a remarkable feat that requires sophisticated biochemical protection mechanisms to prevent oxygen from inactivating the oxygen-sensitive nitrogenase enzyme.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Kaposi's Sarcoma
+## Cannabis and Kaposi's Sarcoma
 
 ## Overview
 

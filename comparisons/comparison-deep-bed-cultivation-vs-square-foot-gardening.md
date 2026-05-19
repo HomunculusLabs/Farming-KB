@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Deep Bed Cultivation vs Square Foot Gardening
+## Deep Bed Cultivation vs Square Foot Gardening
 
 ## Overview
 Deep bed cultivation and square foot gardening are both intensive, space-

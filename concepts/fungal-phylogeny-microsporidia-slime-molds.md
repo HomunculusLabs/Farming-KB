@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Phylogeny: Microsporidia and Slime Molds
+## Fungal Phylogeny: Microsporidia and Slime Molds
 
 Molecular phylogenetics has revolutionized understanding of fungal
 evolutionary relationships, revealing surprising connections and

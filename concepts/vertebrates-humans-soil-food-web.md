@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Vertebrates and Humans in the Soil Food Web
+## Vertebrates and Humans in the Soil Food Web
 
 While microorganisms and invertebrates form the foundation of soil food webs, larger animals—reptiles, mammals, and birds—also play significant roles. Humans, as the most influential actors in managed landscapes, have an outsized impact that can either support or undermine [[soil-food-web]] function.
 

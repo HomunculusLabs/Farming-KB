@@ -16,7 +16,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Psilocybe azurescens
+## Psilocybe azurescens
 
 ## Overview
 

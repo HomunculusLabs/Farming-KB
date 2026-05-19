@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: Green Gulch Zen Center Desert Reclamation
+## Fukuoka: Green Gulch Zen Center Desert Reclamation
 
 ## The Green Gulch Request
 

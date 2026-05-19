@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] Strategy
+## [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] Strategy
 
 ## The Arid Landscape Profile
 

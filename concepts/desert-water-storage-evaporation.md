@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Water Storage and Evaporation Reduction
+## Desert Water Storage and Evaporation Reduction
 
 Water is the most critical limiting resource in arid and desert environments. In regions where annual evaporation can reach 180 cm against a rainfall of only 30 cm, every litre of stored water must be protected from evaporative loss. [[desert-housing-design]] — desert house cooling and heating strategies
 - [[swale]] — water harvesting and infiltration in arid landscapes

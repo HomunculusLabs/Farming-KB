@@ -17,7 +17,7 @@ sources:
   - Hayder, N. et al. (2005). "Anti-inflammatory and antioxidant activities of Myrtus communis extracts." Journal of Ethnopharmacology, 97(1), 67-72.
 ---
 
-# Myrtus communis
+## Myrtus communis
 
 ## Overview
 

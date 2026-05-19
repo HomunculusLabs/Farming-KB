@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, potato, growing-technique, mulch, zone-one]
 ---
 
-# Straw Box Potato System (Permaculture)
+## Straw Box Potato System (Permaculture)
 
 ## Description
 

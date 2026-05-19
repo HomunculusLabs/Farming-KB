@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Spore Dispersal Mechanisms
+## Fungal Spore Dispersal Mechanisms
 
 Spore dispersal is fundamental to [[marine-estuarine-fungi]], water currents are the
 primary dispersal vector.

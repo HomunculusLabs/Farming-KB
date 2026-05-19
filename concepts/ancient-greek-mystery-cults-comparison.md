@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Ancient Greek Mystery Cults — Comparison
+## Ancient Greek Mystery Cults — Comparison
 
 A comparative overview of the major mystery cults of the ancient Greek and Greco-Roman world, their shared features, and their distinctive characteristics in relation to the [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]] proposes that this vision was pharmacologically induced.
 

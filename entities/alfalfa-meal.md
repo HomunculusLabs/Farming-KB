@@ -5,7 +5,7 @@ type: entity
 tags: [amendment, fertilizer, organic-growing, soil-fertility]
 ---
 
-# Alfalfa Meal
+## Alfalfa Meal
 
 ## Description
 

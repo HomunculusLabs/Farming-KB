@@ -5,7 +5,7 @@ type: entity
 tags: [alkaloid, poison, amanita, mycology, toxicology]
 ---
 
-# Amanitine
+## Amanitine
 
 ## Description
 

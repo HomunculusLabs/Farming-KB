@@ -1,5 +1,5 @@
 ---
-title: bloomfield-ingoldian-aquatic-fungi-spore-dispersal Fungi
+title: "Ingoldian Aquatic Fungi"
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Ingoldian Aquatic Fungi
+## Ingoldian Aquatic Fungi
 
 Ingoldian fungi (also called [[terence-ingold-mycologist]],
 who first described them in foam collected from a brook near his home in

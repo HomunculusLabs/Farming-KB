@@ -1,5 +1,5 @@
 ---
-title: comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis - query-how-to-use-neem-oil-for-cannabis-pest-control Control
+title: "Diatomaceous Earth Cannabis"
 created: 2026-04-26
 updated: 2026-04-23
 sources: []
@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Diatomaceous Earth (DE) for Cannabis
+## Diatomaceous Earth (DE) for Cannabis
 
 Diatomaceous earth is a naturally occurring, non-toxic insecticide and soil amendment used in [[spider-mites-cannabis]] -- microscopic mites are damaged by the sharp particles
 - Ants, cockroaches, and other crawling insects

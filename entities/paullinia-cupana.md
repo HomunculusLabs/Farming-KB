@@ -9,7 +9,7 @@ sources:
   - "Domain knowledge — botanical and pharmacological literature"
 ---
 
-# Paullinia cupana
+## Paullinia cupana
 
 Paullinia cupana, commonly known as guaraná, is a climbing shrub in the
 family Sapindaceae, native to the Amazon basin of Brazil. It is renowned

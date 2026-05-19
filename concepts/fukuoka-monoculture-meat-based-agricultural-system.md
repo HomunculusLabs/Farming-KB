@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka on Monoculture and the Meat-Based Agricultural System
+## Fukuoka on Monoculture and the Meat-Based Agricultural System
 
 In *The Road Back to Nature*, Masanobu Fukuoka extended his [[edaphic-factors-microbial-community-structure]] becomes
 unbalanced. Fewer species of microbes survive in soil that receives only one

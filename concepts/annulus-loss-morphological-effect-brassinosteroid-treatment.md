@@ -6,7 +6,7 @@ tags: [brassinosteroid, annulus, morphology, psilocybe-cubensis, fruiting-body, 
 created: 2026-05-08
 ---
 
-# Annulus Loss as a Morphological Effect of Brassinosteroid Treatment in Psilocybe Cubensis
+## Annulus Loss as a Morphological Effect of Brassinosteroid Treatment in Psilocybe Cubensis
 
 ## Overview
 

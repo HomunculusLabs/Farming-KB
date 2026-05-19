@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# Molecular Tools in Bioremediation
+## Molecular Tools in Bioremediation
 
 Molecular tools have revolutionized the study and application of bioremediation by enabling direct detection, identification, and quantification of microorganisms and their functional genes in environmental samples without the need for laboratory cultivation.
 

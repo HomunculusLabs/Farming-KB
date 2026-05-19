@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Permaculture Urban Design: Apartments and Balconies
+## Permaculture Urban Design: Apartments and Balconies
 
 ## Overview
 [[permaculture]] is often associated with large rural properties, but its

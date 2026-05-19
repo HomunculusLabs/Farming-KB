@@ -7,7 +7,7 @@ tags: [mycology, ecology, plant-growth, fungi]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Endophytic Fungi and Plant Interactions
+## Endophytic Fungi and Plant Interactions
 
 [[endophytic-fungi]] live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
 

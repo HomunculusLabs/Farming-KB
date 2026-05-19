@@ -1,5 +1,10 @@
+---
+title: "Hallucinogenic Mushroom Prevalence Use Patterns Europe"
+tags:
+  - concept
+---
 
-# Hallucinogenic Mushroom Prevalence and Use Patterns in Europe
+## Hallucinogenic Mushroom Prevalence and Use Patterns in Europe
 
 ## Data Landscape
 
@@ -143,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mdma]]
 - [[lsd]]
 - [[hallucinogenic-mushroom-prevalence-in-europe]]
-- [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
-- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Three Ways of Farming Compared
+## The Three Ways of Farming Compared
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 

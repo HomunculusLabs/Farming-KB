@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Permaculture Education, Training and the PDC
+## Permaculture Education, Training and the PDC
 
 [[phosphate-accumulators-sustainable-agriculture]]. Some university teachers
 use Permaculture texts and resources.

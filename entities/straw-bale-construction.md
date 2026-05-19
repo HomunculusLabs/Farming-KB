@@ -5,7 +5,7 @@ type: entity
 tags: [technique, building, natural-building, permaculture, insulation]
 ---
 
-# Straw Bale Construction
+## Straw Bale Construction
 
 ## Description
 

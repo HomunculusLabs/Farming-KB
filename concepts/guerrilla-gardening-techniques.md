@@ -8,7 +8,7 @@ sources: [urban-permaculture-guerilla-gardening.md]
 type: concept
 ---
 
-# Guerrilla Gardening Techniques
+## Guerrilla Gardening Techniques
 
 Guerrilla gardening is the practice of cultivating plants
 on land that the gardener does not legally own, typically

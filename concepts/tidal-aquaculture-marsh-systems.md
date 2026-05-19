@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Tidal Aquaculture and Marsh Systems
+## Tidal Aquaculture and Marsh Systems
 
 [[permaculture-design]] extends beyond the shoreline into intertidal zones, salt marshes, and shallow coastal waters. These edge environments are among the most productive on Earth, offering opportunities for polyculture aquaculture, forage production, and mineral harvesting that require minimal external inputs once established.
 

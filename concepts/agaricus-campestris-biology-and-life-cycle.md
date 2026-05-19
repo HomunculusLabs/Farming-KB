@@ -1,4 +1,8 @@
-# Agaricus Campestris Biology and Life Cycle
+---
+title: "Agaricus Campestris Biology and Life Cycle"
+tags:
+  - concept
+---
 
 [[contamination-prevention-in-mushroom-cultivation]], as
 every stage of the growing process — from [[fukuoka-citrus-orchard-natural-development]] of this remarkable fungus. The

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Amanita Alkaloid — Therapeutic Uses and Pharmacology
+## Amanita Alkaloid — Therapeutic Uses and Pharmacology
 
 ## Overview
 

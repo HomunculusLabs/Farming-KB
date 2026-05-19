@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Fukuoka One Straw Revolution Impact
+## Fukuoka One Straw Revolution Impact
 
 "The One Straw Revolution," published in 1975, became one of the most influential books in the global alternative agriculture movement, translated into numerous languages and inspiring generations of farmers, gardeners, and environmental activists worldwide.
 

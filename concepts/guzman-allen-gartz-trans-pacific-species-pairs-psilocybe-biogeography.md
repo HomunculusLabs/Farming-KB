@@ -1,4 +1,8 @@
-# Trans-Pacific Species Pairs in Psilocybe: Southern Hemisphere Biogeographic Connections
+---
+title: "Trans-Pacific Species Pairs in Psilocybe: Southern Hemisphere Biogeographic Connections"
+tags:
+  - concept
+---
 
 ## Overview
 

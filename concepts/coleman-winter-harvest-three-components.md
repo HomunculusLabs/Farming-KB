@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Coleman's Winter Harvest Three Components
+## Coleman's Winter Harvest Three Components
 
 [[cold-house-winter-harvest-system]] at Four Season Farm in Harborside,
 Maine (USDA Zone 5) rests on three foundational components that work

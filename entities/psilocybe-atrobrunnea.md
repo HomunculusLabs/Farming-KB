@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe atrobrunnea
+## Psilocybe atrobrunnea
 
 **Type:** Species (Fungus)
 **Category:** Psilocybin-containing mushroom

@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: material
 ---
 
-# Brown Rice Powder
+## Brown Rice Powder
 
 ## Description
 

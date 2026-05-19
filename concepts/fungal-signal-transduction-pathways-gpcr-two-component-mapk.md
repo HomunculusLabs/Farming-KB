@@ -6,7 +6,7 @@ sources:
   - geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungal Signal Transduction Pathways
+## Fungal Signal Transduction Pathways
 
 ## Overview
 

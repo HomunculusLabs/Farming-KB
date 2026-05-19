@@ -7,7 +7,7 @@ tags: [homesteading, off-grid, sustainability, livestock, water, energy, prepara
 sources: []
 ---
 
-# Homestead Winter Preparations
+## Homestead Winter Preparations
 
 Winter preparation is a critical annual cycle for any homestead. [[query-how-do-i-grow-figs-in-cold-climates]], inadequate preparation means frozen pipes, hungry livestock, cold buildings, and unnecessary hardship. A systematic approach beginning in late summer ensures that buildings, animals, water systems, food stores, and energy supplies are ready for months of cold, snow, and short days.
 

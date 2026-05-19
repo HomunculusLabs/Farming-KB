@@ -4,10 +4,10 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [psychedelics, ethnobotany]
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 ---
 
-# Symbiosis and Human-Plant Relationships
+## Symbiosis and Human-Plant Relationships
 
 ## The Symbiotic Paradigm
 

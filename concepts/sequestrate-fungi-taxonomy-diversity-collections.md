@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Sequestrate Fungi — Taxonomy, Diversity, Herbarium Collections, and Species Richness
+## Sequestrate Fungi — Taxonomy, Diversity, Herbarium Collections, and Species Richness
 
 [[sequestrate-fungi]] are a polyphyletic assemblage characterized by enclosed, hypogeous or semi-hypogeous fruiting bodies that do not actively discharge spores. They rely on animal vectors for dispersal and are predominantly ectomycorrhizal.
 

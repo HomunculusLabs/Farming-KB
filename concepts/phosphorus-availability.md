@@ -9,7 +9,7 @@ sources:
   - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-# Phosphorus Availability
+## Phosphorus Availability
 
 ## Overview
 

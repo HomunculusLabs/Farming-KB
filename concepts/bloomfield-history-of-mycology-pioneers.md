@@ -8,7 +8,7 @@ type: concept
 tags: [history, mycology]
 ---
 
-# History of Mycology Pioneers
+## History of Mycology Pioneers
 
 The history of mycology is populated by brilliant, often eccentric figures who
 transformed fungi from a "singular and despised family" (as M.C. Cooke wrote in

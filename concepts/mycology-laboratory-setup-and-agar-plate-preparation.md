@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycology Laboratory Setup and Agar Plate Preparation
+## Mycology Laboratory Setup and Agar Plate Preparation
 
 A milestone in any mushroom grower's development is the construction and maintenance of a sterile culture laboratory capable of producing spawn of many different species for personal use or small-scale commercial production. While hobby growers may prefer ordering spawn from supply companies, growers who consistently cultivate several species may be ready to upgrade to a home laboratory. The primary benefits are cost savings and having a consistent, fresh supply of spawn made in small batches as needed.
 

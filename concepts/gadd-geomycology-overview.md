@@ -6,7 +6,7 @@ tags: [geomycology, biogeochemistry, mineral-cycling, fungi, geology, soil-scien
 created: 2026-05-11
 ---
 
-# Geomycology — Fungi in Geological Processes
+## Geomycology — Fungi in Geological Processes
 
 Geomycology is the study of the roles fungi play in fundamental geological
 processes, including mineral transformations, metal cycling, rock weathering,

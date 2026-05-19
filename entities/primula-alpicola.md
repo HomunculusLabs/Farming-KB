@@ -14,7 +14,7 @@ sources:
   - Chen, Y. et al. (2018). Phylogeny and biogeography of Primula (Primulaceae). Molecular Phylogenetics and Evolution, 126, 50-62.
 ---
 
-# Primula alpicola
+## Primula alpicola
 
 ## Overview
 

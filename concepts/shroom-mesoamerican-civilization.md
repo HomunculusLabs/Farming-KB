@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
-# Magic Mushrooms in Ancient Mesoamerican Civilization
+## Magic Mushrooms in Ancient Mesoamerican Civilization
 
 updated: 2026-04-24
 

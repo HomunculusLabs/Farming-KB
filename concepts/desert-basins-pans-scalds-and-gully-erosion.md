@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Basins, Pans, Scalds, and Gully Erosion
+## Desert Basins, Pans, Scalds, and Gully Erosion
 
 The flat depressions, claypans, scalds, and eroded gullies of arid landscapes represent both the most degraded desert environments and some of the most responsive to [[gypsum]] to **decrease** their capacity to infiltrate water (useful for directing run-off to storage). Alternatively, they can be treated with sodium carbonate or [[bentonite]] to **seal** them where they are to be used for water storage.
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Fungal to Bacterial Biomass Ratio (F:B Ratio)
+## Fungal to Bacterial Biomass Ratio (F:B Ratio)
 
 ## Description
 

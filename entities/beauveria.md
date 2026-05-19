@@ -15,7 +15,7 @@ updated: 2026-05-02
 sources: []
 ---
 
-# Beauveria
+## Beauveria
 
 **Beauveria** is a genus of [[powdery-mildews-erysiphaceae-diversity-host-range]]. The genus was erected by Vuillemin in 1912 and
 named in honor of the French physician and naturalist Jean Beauverie. The type

@@ -17,7 +17,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Exotic Mushroom Cultivation on Sterilised Grass Seed
+## Exotic Mushroom Cultivation on Sterilised Grass Seed
 
 ## Summary
 

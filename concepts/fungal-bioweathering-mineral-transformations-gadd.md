@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [bioweathering, fungi, minerals, geomycology, biogeochemical, rock decomposition, metal mobilization]
 ---
 
-# Fungal Bioweathering and Mineral Transformations
+## Fungal Bioweathering and Mineral Transformations
 
 ## Overview
 

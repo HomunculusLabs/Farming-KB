@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Species Richness and Diversity Indices
+## Fungal Species Richness and Diversity Indices
 Assessing patterns of [[macrofungal-sampling-design-plots-transects]] that account for
 effects of scale on patterns of biodiversity. The parameters that define
 a community and that are important for assessing biodiversity include

@@ -5,7 +5,7 @@ tags: [trichocereus, mescaline, san-pedro, peruvian-torch, cacti, psychotropic-p
 created: 2026-05-08
 ---
 
-# Trichocereus Mescaline Cacti: San Pedro and Peruvian Torch
+## Trichocereus Mescaline Cacti: San Pedro and Peruvian Torch
 
 ## Overview
 

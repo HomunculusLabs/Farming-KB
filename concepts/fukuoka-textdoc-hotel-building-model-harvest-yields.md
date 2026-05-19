@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# The Hotel Building Model of Harvest Yields
+## The Hotel Building Model of Harvest Yields
 
 ## Overview
 

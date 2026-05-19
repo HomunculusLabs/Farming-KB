@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Introduction and Definition
+## Permaculture Introduction and Definition
 
 ## What is Permaculture?
 

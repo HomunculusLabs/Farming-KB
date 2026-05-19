@@ -8,7 +8,7 @@ type: concept
 tags: [culture, design, permaculture, principles]
 ---
 
-# Urban Permaculture Design Principles
+## Urban Permaculture Design Principles
 
 The history of urban design -- from LeCorbusier's skyscraper city centers to Levittown's suburban sprawl -- created a resource hyper-consumptive system reliant on the automobile that destroyed both food security and local ecologies. Working together, the International Style of architecture, LeCorbusier-inspired city centers, and the Levittown model of suburban expansion created a system that destroyed local food resources, chewed up ecosystems that ringed the cities, and caused a cultural degeneration. Permaculture Design offers principles to retrofit and redesign urban environments toward ecological health.
 

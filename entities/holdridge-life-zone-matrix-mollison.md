@@ -5,7 +5,7 @@ type: entity
 tags: [climate-classification, system, botany, permaculture, life-zone]
 ---
 
-# Holdridge Life Zone Matrix
+## Holdridge Life Zone Matrix
 
 ## Description
 

@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Medicinally Important Mushroom Species Overview
+## Medicinally Important Mushroom Species Overview
 
 At least 270 species of mushroom are known to have various therapeutic properties. This concept provides a cross-indexed overview of the major medicinally important Basidiomycete mushrooms, their historical usage, and their documented pharmacological activities.
 

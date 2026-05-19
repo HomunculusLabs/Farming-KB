@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Asian Truffle Species
+## Asian Truffle Species
 
 Asia is home to a remarkable diversity of truffle-forming fungi, including species in the genera Tuber, Terfezia, Melanogaster, and several endemic genera found only in East and Southeast Asian forests. While Asian truffles have been gathered for centuries, many species remain poorly known scientifically, and the region's truffle diversity is only beginning to be fully documented.
 

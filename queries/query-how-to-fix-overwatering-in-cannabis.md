@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Fix Overwatering in Cannabis
+## How to Fix Overwatering in Cannabis
 
 ## Short Answer
 Overwatering is the most common mistake in [[stamets-growing-room-air-circulation-co2-management]],

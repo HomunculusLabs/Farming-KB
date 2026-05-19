@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Loess Powder in Natural Farming
+## Loess Powder in Natural Farming
 
 Loess powder, also called silica soil or ant hill mud, is a natural soil
 amendment in [[cervantes-pest-disease-prevention-overview]]** — Used as a drench to prevent fungal

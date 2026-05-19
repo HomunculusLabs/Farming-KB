@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Vegetation Patterns and Biomass as Fertility Indicators
+## Vegetation Patterns and Biomass as Fertility Indicators
 
 [[holmgren-mineral-balance-soil-fertility]], and ecological
 potential. Understanding these patterns allows [[phosphate-accumulators-sustainable-agriculture]],

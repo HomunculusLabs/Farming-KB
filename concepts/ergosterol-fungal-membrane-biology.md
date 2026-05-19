@@ -1,4 +1,8 @@
-# [[hemenway-mulch-makers-and-plant-functional-roles]] in fungal membranes:
+---
+title: "hemenway mulch makers and plant functional roles in fungal membranes:"
+tags:
+  - concept
+---
 
 ### Membrane Fluidity and Permeability
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Element Analysis and Synergistic Design
+## Permaculture Element Analysis and Synergistic Design
 
 A central tenet of [[permaculture]] is that when elements are placed in harmonious conjunction, they generate beneficial effects far beyond what was designed. Understanding the properties, behaviors, and yields of every element — whether a tree, animal, building, road, or person — is the foundation upon which effective design is built.
 

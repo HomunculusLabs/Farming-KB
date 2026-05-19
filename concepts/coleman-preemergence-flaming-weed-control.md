@@ -15,7 +15,7 @@ sources:
   - eliot-coleman-winter-harvest-handbook.md
 ---
 
-# Preemergence Flaming for Weed Control
+## Preemergence Flaming for Weed Control
 
 ## Overview
 

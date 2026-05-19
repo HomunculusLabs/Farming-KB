@@ -9,7 +9,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Equisetum_arvense"
   - "https://pfaf.org/user/Plant.aspx?LatinName=Equisetum+arvense"
 ---
-# Equisetum arvense
+## Equisetum arvense
 **Common Horsetail / Field Horsetail**
 ## Overview / Summary
 Equisetum arvense is a perennial herbaceous plant belonging to the family Equisetaceae.

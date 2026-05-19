@@ -5,7 +5,7 @@ tags: [mycology, antimicrobial, antiviral, medicinal-mushrooms, mycelium, antibi
 created: 2026-05-09
 ---
 
-# Antimicrobial Compounds from Mushroom Mycelium
+## Antimicrobial Compounds from Mushroom Mycelium
 
 ## Mycelial Exudates
 

@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Gobekli Tepe
+## Gobekli Tepe
 
 ## Overview
 Gobekli Tepe is a Neolithic archaeological site in southeastern Turkey near the modern city of Sanliurfa.

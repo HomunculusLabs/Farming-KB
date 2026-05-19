@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Shamanic Fights and Protective Arkanas
+## Shamanic Fights and Protective Arkanas
 
 ## Overview
 

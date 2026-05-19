@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[oner-cannabis-breeding-fundamentals]]. Many desirable traits -- flavour, potency, flowering characteristics -- can only be evaluated in female plants because male plants do not produce female flowers.
+## [[oner-cannabis-breeding-fundamentals]]. Many desirable traits -- flavour, potency, flowering characteristics -- can only be evaluated in female plants because male plants do not produce female flowers.
 
 This forces half-sib breeding where males contribute genes randomly, and the impact is quantified throughout the text. The difference between full-sib and half-sib outcomes at the F5 generation (96% vs 87% phenotypic uniformity for dominant traits) represents a significant loss of efficiency.
 

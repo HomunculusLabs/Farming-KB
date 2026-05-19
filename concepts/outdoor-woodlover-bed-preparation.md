@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
 ---
-# Outdoor Woodlover Bed Preparation
+## Outdoor Woodlover Bed Preparation
 
 Outdoor woodlover beds are one of the most low-maintenance approaches to cultivating wood-decomposing [[azurescens-spawn-preparation-grain-to-wood]]
 - **Bed substrate**: Use larger/coarser chips for the outdoor bed

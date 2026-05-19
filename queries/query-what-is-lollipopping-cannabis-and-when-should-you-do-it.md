@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Lollipopping Cannabis and When Should You Do It?
+## What Is Lollipopping Cannabis and When Should You Do It?
 
 ## Short Answer
 Lollipopping is a pruning technique where you remove the lower branches, foliage, and

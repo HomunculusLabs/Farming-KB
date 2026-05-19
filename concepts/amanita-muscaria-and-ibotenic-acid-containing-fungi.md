@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [amanita, muscaria, ibotenic-acid, muscimol, neuropharmacology, toxicology]
 ---
 
-# Amanita Muscaria and Ibotenic Acid-Containing Fungi
+## Amanita Muscaria and Ibotenic Acid-Containing Fungi
 
 ## Overview
 

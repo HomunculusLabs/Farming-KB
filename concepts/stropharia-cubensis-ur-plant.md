@@ -16,7 +16,7 @@ tags:
 source: McKenna, T. (1992). *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books.
 ---
 
-# Stropharia Cubensis as the Ur Plant
+## Stropharia Cubensis as the Ur Plant
 
 ## Overview
 

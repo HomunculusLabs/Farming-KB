@@ -7,7 +7,7 @@ journal: Mycologia
 tags: [mycology, tropism, mushroom-biology, basidiomycete, evaporative-demand, stipe-elongation, anemotropism, phototropism]
 ---
 
-# Evaporative Demand Gradient and Stipe Elongation Mechanism in Basidiomycetes
+## Evaporative Demand Gradient and Stipe Elongation Mechanism in Basidiomycetes
 
 ## Overview
 

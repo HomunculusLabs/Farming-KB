@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, mr-nice-seedbank, haze-genetics, mango, resinous, indoor-growing]
 ---
 
-# Mango Haze
+## Mango Haze
 
 **Breeder:** Mr. Nice Seedbank (Holland)
 **Genetics:** [[northern-lights-cannabis]] #5, making its family tree among the most

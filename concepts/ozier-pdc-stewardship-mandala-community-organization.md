@@ -5,7 +5,7 @@ author: William WR Ozier
 topics: community, organization, governance, permaculture, intentional-community
 ---
 
-# Stewardship Mandala: A Non-Hierarchical Community Organization Model
+## Stewardship Mandala: A Non-Hierarchical Community Organization Model
 
 The Stewardship Mandala is a non-hierarchical organizational and decision-making
 structure developed by [[natural-building]]

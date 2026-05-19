@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# High Pressure Sodium Lighting
+## High Pressure Sodium Lighting
 
 High Pressure Sodium (HPS) lamps are the most efficient HID lamps
 available for indoor [[cervantes-metal-halide-lighting-systems]],

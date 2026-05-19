@@ -1,4 +1,8 @@
-# Brazilian Ayahuasca Churches: Structural Comparison of Santo Daime, UDV, and Barquinha
+---
+title: "Brazilian Ayahuasca Churches: Structural Comparison of Santo Daime, UDV, and Barquinha"
+tags:
+  - concept
+---
 
 ## Overview
 In his 1998 comparative study, [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] and significant differences in ceremonial form,
@@ -144,6 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
-## See Also

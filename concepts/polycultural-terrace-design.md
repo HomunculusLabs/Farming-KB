@@ -5,7 +5,7 @@ type: concept
 chunk_id: 171
 ---
 
-# Polycultural Terrace Design
+## Polycultural Terrace Design
 
 Polycultural terrace design is a foundational land-management technique in permaculture that transforms sloped terrain into productive, stable, and biodiverse growing systems. By converting hillsides into a series of level or gently graded platforms, terraces enable controlled cultivation on land that would otherwise be prone to erosion, nutrient runoff, and difficult access. When combined with polycultural planting strategies — integrating trees, annual crops, water systems, and perennial vegetation — terraces become resilient, multi-yield ecosystems that increase overall productivity while conserving soil and water resources.
 

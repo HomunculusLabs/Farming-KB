@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Start a Hugelkultur Bed?
+## How Do I Start a Hugelkultur Bed?
 
 ## Short Answer
 

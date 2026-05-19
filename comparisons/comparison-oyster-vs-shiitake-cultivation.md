@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Oyster vs Shiitake Cultivation
+## Oyster vs Shiitake Cultivation
 
 ## Overview
 

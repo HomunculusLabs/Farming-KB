@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook
 topics: greenhouse-design, winter-production, microclimate, wind-protection, season-extension
 ---
 
-# Wind Protection: The Primary Mechanism of Cold Houses
+## Wind Protection: The Primary Mechanism of Cold Houses
 
 ## The Counterintuitive Discovery
 

@@ -17,7 +17,7 @@ sources:
   - "Nichols, D.E. (2016). \"Psychedelics.\" Pharmacological Reviews, 68(2), 264-355."
 ---
 
-# 1cP-LSD
+## 1cP-LSD
 
 ## Overview
 

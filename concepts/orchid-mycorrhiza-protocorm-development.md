@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Orchid Mycorrhiza and Protocorm Development
+## Orchid Mycorrhiza and Protocorm Development
 
 Orchid mycorrhizae represent one of the most specialized and obligate forms of plant-fungal symbiosis. Unlike most mycorrhizal associations that primarily enhance nutrient uptake, orchid mycorrhizae are absolutely essential for orchid seed germination and early seedling development, making the relationship functionally obligate at the earliest life stages.
 

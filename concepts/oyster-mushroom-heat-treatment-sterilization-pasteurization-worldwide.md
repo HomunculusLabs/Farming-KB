@@ -5,7 +5,7 @@ topic: mushroom-cultivation
 tags: [oyster-mushroom, sterilization, pasteurization, heat-treatment, substrate, worldwide]
 ---
 
-# Oyster Mushroom Heat Treatment Methods: Worldwide Comparison
+## Oyster Mushroom Heat Treatment Methods: Worldwide Comparison
 
 ## Overview
 

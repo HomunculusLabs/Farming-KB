@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Climate Zones and Growing Seasons
+## Climate Zones and Growing Seasons
 
 Steve Solomon divides the English-speaking gardening world into four
 broad [[cervantes-garden-calendar-checklist]] effectively.

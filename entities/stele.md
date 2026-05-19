@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, roots, vascular-tissue, botany, anatomy]
 ---
 
-# Stele
+## Stele
 
 ## Description
 

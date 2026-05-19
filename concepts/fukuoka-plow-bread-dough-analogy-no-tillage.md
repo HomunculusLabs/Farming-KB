@@ -5,7 +5,7 @@ source_id: fukuoka-textdoc
 topics: [tillage, soil-compaction, no-till-farming, soil-structure, natural-farming, agricultural-mechanization]
 ---
 
-# Fukuoka's Plow and the Bread Dough Analogy
+## Fukuoka's Plow and the Bread Dough Analogy
 
 ## The Paradox of Tillage
 

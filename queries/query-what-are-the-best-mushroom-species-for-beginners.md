@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Are the Best Mushroom Species for Beginners to Grow?
+## What Are the Best Mushroom Species for Beginners to Grow?
 
 ## Short Answer
 The best mushroom species for beginners are [[accessible-mushroom-cultivation-for-disabilities]] hobby can feel overwhelming with the many

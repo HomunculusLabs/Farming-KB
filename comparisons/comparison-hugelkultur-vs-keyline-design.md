@@ -21,7 +21,7 @@ sources:
 type: comparison
 ---
 
-# Hugelkultur vs Keyline Design
+## Hugelkultur vs Keyline Design
 
 ## Overview
 

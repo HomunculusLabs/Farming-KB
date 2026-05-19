@@ -25,7 +25,7 @@ related_concepts:
   - biological-efficiency
 ---
 
-# Mushroom Spawn Production and Laboratory Techniques
+## Mushroom Spawn Production and Laboratory Techniques
 
 Mushroom spawn is the living fungal culture that serves as the seed stock
 for all mushroom cultivation. Unlike plants, which grow from seeds that

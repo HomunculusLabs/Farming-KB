@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [endocannabinoid, stress, cortisol, hpa-axis, homeostasis, cannabis, neurobiology, blesching, fight-or-flight, relaxation]
 ---
 
-# Endocannabinoid System and Stress Hormone Reduction Mechanisms
+## Endocannabinoid System and Stress Hormone Reduction Mechanisms
 
 ## Overview
 

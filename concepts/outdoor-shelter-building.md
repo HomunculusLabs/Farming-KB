@@ -7,7 +7,7 @@ tags: [homesteading, construction, safety, design, beginner]
 sources: []
 ---
 
-# Outdoor Shelter Building
+## Outdoor Shelter Building
 
 The ability to build a shelter from natural and salvaged materials is a fundamental homesteading skill. Whether you need emergency protection in the backcountry, a temporary structure during a building project, a seasonal shelter for livestock, or a hunting camp, knowing how to construct effective shelters with minimal tools is invaluable. This guide covers the most practical shelter types for both survival and homesteading contexts.
 

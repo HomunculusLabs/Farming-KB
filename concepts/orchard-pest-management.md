@@ -23,7 +23,7 @@ sources:
 - raw/greg-green-the-cannabis-grow-bible.md
 ---
 
-# Orchard Pest Management
+## Orchard Pest Management
 
 Detailed IPM guidance for fruit tree pests and diseases in zone 7-8 homestead orchards. See [[orchard-management]] for site selection, planting, pruning, and seasonal care.
 

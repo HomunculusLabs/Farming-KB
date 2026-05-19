@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizae and Nematode Suppression
+## Arbuscular Mycorrhizae and Nematode Suppression
 
 Arbuscular mycorrhizal (AM) fungi form symbiotic associations with the roots of most terrestrial plants and play a well-documented role in suppressing plant-parasitic nematode populations. This protective function is mediated through multiple, often interacting mechanisms that operate at both the physiological and ecological levels. The relationship between AM fungi and nematode suppression has significant implications [[mushroom-cultivation-for-sustainable-agriculture]] and for understanding belowground plant–microbe interactions more broadly.
 

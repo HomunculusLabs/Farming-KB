@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Quackgrass (Lawn Indicator Weed)
+## Quackgrass (Lawn Indicator Weed)
 
 ## Description
 

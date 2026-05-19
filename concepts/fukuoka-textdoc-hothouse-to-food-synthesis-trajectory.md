@@ -9,7 +9,7 @@ type: concept
 tags: [natural-farming, philosophy, ecology, food-quality, agriculture]
 ---
 
-# Hothouse to Food Synthesis Trajectory
+## Hothouse to Food Synthesis Trajectory
 
 [[fukuoka-textdoc-civilizational-collapse-centrifugal-centripetal-cycle]] disguised as technological achievement.
 

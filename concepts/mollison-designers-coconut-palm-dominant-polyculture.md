@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Coconut Palm Dominant Polyculture
+## Coconut Palm Dominant Polyculture
 
 Coconut ([[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]. Mollison
 devotes an entire section (10.10) to the planning of coconut or

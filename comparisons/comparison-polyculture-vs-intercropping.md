@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Polyculture vs Intercropping
+## Polyculture vs Intercropping
 
 ## Overview
 Polyculture and intercropping both grow multiple species together, but they

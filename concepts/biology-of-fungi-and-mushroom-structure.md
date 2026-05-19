@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Biology of Fungi and Mushroom Structure
+## Biology of Fungi and Mushroom Structure
 
 Understanding the fundamental biology of fungi is essential for appreciating both their ecological importance and their medicinal potential. Fungi represent one of the five kingdoms of life, distinct from plants, animals, bacteria, and protists, with an estimated 1.5 million or more species.
 

@@ -7,7 +7,7 @@ tags: [homesteading, equipment, engineering, design, construction]
 sources: []
 ---
 
-# Rocket Stove Design
+## Rocket Stove Design
 
 A [[rocket-stove]] is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On a homestead, rocket stoves serve as primary or backup cooking, water heating, and space heating systems.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Deep Relaxation and Mind-Body Healing
+## Deep Relaxation and Mind-Body Healing
 
 updated: 2026-04-18
 

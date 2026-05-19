@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Day Length and Flowering Response in Permaculture
+## Day Length and Flowering Response in Permaculture
 
 Day length (in fact, night length) varies over latitudes, and
 flowering plants are adapted to bloom and set seed in response to

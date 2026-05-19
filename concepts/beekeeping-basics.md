@@ -8,7 +8,7 @@ sources:
   - "raw/papers/dave-jacke-forest-garden.md"
 ---
 
-# Beekeeping Basics
+## Beekeeping Basics
 
 Beekeeping (apiculture) is the maintenance of honey bee colonies for [[faires-beekeeping-and-honey-production]], pollination services, and wax harvesting. Honey bees (Apis mellifera) are essential pollinators for many food crops, and a single hive can significantly improve fruit set and yields in your garden and orchard. This page covers the fundamentals for beginning beekeepers.
 

@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Principles and Ethical Foundations
+## Permaculture Principles and Ethical Foundations
 
 Permaculture, co-originated by [[david-holmgren]] and Bill Mollison in the late 1970s, is a holistic design framework for creating sustainable human settlements and agricultural systems. Holmgren's book *Permaculture: Principles & Pathways Beyond Sustainability* (2002) represents the most systematic articulation of permaculture's underlying design principles, drawing on 25 years of practical application, teaching, and reflection. Permaculture is much more than organic gardening — it encompasses ethics, design principles, and systems thinking applicable to land use, building, economics, community, and personal behavior.
 

@@ -7,7 +7,7 @@ tags: [fungi, biology, academia, microbes, ecology]
 sources: []
 ---
 
-# Yeast Biology
+## Yeast Biology
 
 Yeasts are single-celled fungi that reproduce primarily by budding (or fission). Though they represent only a small fraction of fungal diversity, yeasts have an outsized impact on human civilization through fermentation, food production, biotechnology, and medicine.
 

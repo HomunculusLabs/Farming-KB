@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [pf-tek, mushroom-cultivation, history, internet, culture, psilocybe-fanaticus]
 ---
-# [[psilocybin-containing-mushrooms-in-us]].
+## [[psilocybin-containing-mushrooms-in-us]].
 
 ## Origins in High Times
 

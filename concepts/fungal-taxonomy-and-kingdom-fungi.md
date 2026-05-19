@@ -1,4 +1,8 @@
-# Fungal Taxonomy and the Kingdom Fungi
+---
+title: "Fungal Taxonomy and the Kingdom Fungi"
+tags:
+  - concept
+---
 
 ## Overview
 Fungal taxonomy has undergone revolutionary changes in recent decades as

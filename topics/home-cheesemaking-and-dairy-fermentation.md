@@ -34,7 +34,7 @@ related_concepts:
   - mollison-designers-goat-dairy-and-cheese-production
   - small-scale-dairy-guide
 ---
-# Home Cheesemaking and Dairy Fermentation
+## Home Cheesemaking and Dairy Fermentation
 Home cheesemaking and dairy fermentation are household-scale practices that
 convert fresh milk into cheese, yogurt, kefir, butter, cultured cream, and
 other preserved foods. The field joins animal husbandry, microbiology, kitchen

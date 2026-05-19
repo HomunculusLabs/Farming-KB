@@ -5,7 +5,7 @@ type: entity
 tags: [lichen, cyanolichen, tropical-ecology, gelatinous-lichen]
 ---
 
-# Leptogium
+## Leptogium
 
 ## Description
 

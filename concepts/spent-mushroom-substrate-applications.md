@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [cotter-organic-mushroom-farming-mycoremediation.md, unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-# Spent Mushroom Substrate Applications ## Overview Spent mushroom substrate (SMS) is the residual organic material remaining after [[oyster-mushroom-spent-substrate-recycling]] rapidly, converting it into nutrient-dense worm castings
+## Spent Mushroom Substrate Applications ## Overview Spent mushroom substrate (SMS) is the residual organic material remaining after [[oyster-mushroom-spent-substrate-recycling]] rapidly, converting it into nutrient-dense worm castings
 that serve as a premium [[ph-and-nutrient-availability-garden-soils]] and produces a high-quality soil
 amendment suitable for [[accessible-mushroom-cultivation-for-disabilities]] retains biological activity that can
 be harnessed for mycoremediation strategies using edible fungi. Residual

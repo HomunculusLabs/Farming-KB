@@ -8,7 +8,7 @@ type: concept
 tags: [archaic-revival, partnership-culture, dominator-culture, riane-eisler, patriarchy, shamanism, goddess-worship, cultural-history, mckenna]
 ---
 
-# Archaic Revival — Partnership vs Dominator Cultures
+## Archaic Revival — Partnership vs Dominator Cultures
 
 ## Overview
 

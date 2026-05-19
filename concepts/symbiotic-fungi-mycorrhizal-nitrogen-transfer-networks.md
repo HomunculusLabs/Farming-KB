@@ -15,7 +15,7 @@ tags: [nitrogen, mycorrhizal, transfer, networks, CMN, isotopes, ecology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Mycorrhizal Nitrogen Transfer Networks
+## Mycorrhizal Nitrogen Transfer Networks
 
 Source: [[dighton-mycorrhizal-networks-carbon-transfer]]
 examines the parallel role of [[nitrogen-transfer-through-common-mycorrhizal-networks]] CMNs is not restricted to mass flow and diffusion through

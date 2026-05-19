@@ -6,7 +6,7 @@ chapter: 5 - Habit as Culture and Religion
 tags: [mckenna, shamanism, culture, religion, ecstasy, monotheism, dominator]
 ---
 
-# Habit as Culture and Religion
+## Habit as Culture and Religion
 
 In Chapter 5 of *Food of the Gods*, [[terence-mckenna]] explores the
 relationship between habitual psychoactive plant use, the formation

@@ -6,7 +6,7 @@ type: concept
 tags: permaculture, site-design, community-finance]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Village Design
+## Village Design
 
 **Source:** Permaculture: A Designers' Manual, [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]

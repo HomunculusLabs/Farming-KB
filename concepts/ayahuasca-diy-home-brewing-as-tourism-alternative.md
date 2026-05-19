@@ -14,7 +14,7 @@ tags:
   - harm-reduction
 ---
 
-# Ayahuasca DIY Home Brewing as Tourism Alternative
+## Ayahuasca DIY Home Brewing as Tourism Alternative
 
 R. Stuart's 2002 account of [[guzman-psilocybin-mushrooms-south-america]], interested individuals could
 brew ayahuasca at home using ingredients ordered from

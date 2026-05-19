@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Chemical Structures of Hallucinogens
+## Chemical Structures of Hallucinogens
 
 ## Overview
 

@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md]
+sources: ["raw/papers/harner-j-hallucinogens-and-shamanism.md"]
 ---
-# Hallucinogens and Shamanism — Harner Anthology
+## Hallucinogens and Shamanism — Harner Anthology
 
 The 1973 Oxford University Press anthology edited by Michael J. Harner, which brought together groundbreaking ethnographic research on the role of psychoactive plants in [[harner-european-witchcraft-hallucinogens]], common themes in [[amazonian-plant-teachers-doctores]] is central to Amazonian vegetalismo traditions, where different plants are understood to teach different things: some teach healing, others teach singing, and still others teach about the [[psychedelic-therapy-mechanisms]] and shamanic [[psychedelic-therapy-shamanism-comparison]], [[shamanic-use-of-psychedelics]], [[ayahuasca-preparation-and-ceremony]] [[beta-carboline-chemistry]] [[mckenna-food-of-the-gods-thesis]] The tobacco of the Classical Maya and Amazonian peoples was Nicotiana rustica, which is still in use among aboriginal populations in South America today.
 ## Merged: Amazonian Medicinal Plant Pharmacology

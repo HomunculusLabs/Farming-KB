@@ -1,4 +1,8 @@
-# Two-Component Signalling in Filamentous Fungi
+---
+title: "Two-Component Signalling in Filamentous Fungi"
+tags:
+  - concept
+---
 
 **Source:** Gadd, Watkinson & Dyer, *Fungi in the Environment*, Chapter 3
 **Domain:** Mycology → Cell Biology → [[environmental-sensing-filamentous-fungi-read]]

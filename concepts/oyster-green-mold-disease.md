@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [disease, contamination, trichoderma, green-mold]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Green Mold Disease in Oyster Mushrooms
+## Green Mold Disease in Oyster Mushrooms
 
 Green mold disease is one of the most serious threats to oyster mushroom
 cultivation worldwide. Caused primarily by Trichoderma species and related

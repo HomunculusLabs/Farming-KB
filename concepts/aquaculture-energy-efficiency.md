@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Energy Efficiency
+## Aquaculture Energy Efficiency
 
 The economic viability and long-term sustainability of any aquaculture system depends fundamentally on its energy accounting. Design strategies must hinge on energy costs—the system's sustainability in terms of both present and future resource inputs. Understanding and minimising these costs is what separates resilient polyculture systems from fragile industrial operations.
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ME
+## ME
 
 [[2c-b-pihkal-entry-20]] #119. METAESCALINE; 3,4-DIMETHOXY-5-ETHOXYPHENETHYLAMINE.
 

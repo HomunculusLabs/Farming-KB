@@ -8,7 +8,7 @@ sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
 
-# Permaculture Zone Design System
+## Permaculture Zone Design System
 
 The zone design system is the foundational organizing principle of
 permaculture [[hemenway-garden-design-process-observation-and-visioning]] is by dividing the land into

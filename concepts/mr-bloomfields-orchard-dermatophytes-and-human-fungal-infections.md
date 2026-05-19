@@ -21,7 +21,7 @@ tags:
 Fungi that infect humans occupy a special place in mycology — they are intimate,
 persistent, and often deeply misunderstood.
 
-# Dermatophytes and Human Fungal Infections
+## Dermatophytes and Human Fungal Infections
 
 Fungi are rarely contagious between humans, making dermatophytes — the fungi
 responsible for ringworm (tinea) infections — a notable and unsettling

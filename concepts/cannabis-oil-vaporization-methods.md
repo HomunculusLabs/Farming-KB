@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Oil Vaporization Methods
+## Cannabis Oil Vaporization Methods
 
 The direct vaporization of cannabis oil for inhalation represents one of the most efficient methods of cannabis consumption, delivering high concentrations of cannabinoids directly to the lungs for rapid absorption into the bloodstream. Unlike smoking plant material, where much of the active material is destroyed by combustion or lost in sidestream smoke, oil vaporization targets precise temperatures that volatilize cannabinoids without burning them.
 

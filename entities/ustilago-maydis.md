@@ -5,10 +5,10 @@ type: species
 tags: [plant-pathogen, basidiomycete, smut-fungus, genomics, model-organism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Ustilago maydis
+## Ustilago maydis
 
 Ustilago maydis is a basidiomycete fungus that causes corn smut
 disease in maize (Zea mays). It is one of the most thoroughly studied

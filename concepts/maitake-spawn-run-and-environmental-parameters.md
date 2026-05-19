@@ -4,7 +4,7 @@ source: "unknown-a-practical-guide-to-synthetic-log-cultiva.md"
 type: concept
 ---
 
-# Maitake Spawn Run and Environmental Parameters
+## Maitake Spawn Run and Environmental Parameters
 
 ## Overview
 

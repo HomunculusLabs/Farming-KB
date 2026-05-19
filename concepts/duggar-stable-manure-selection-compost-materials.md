@@ -1,4 +1,8 @@
-# Stable Manure Selection and Compost Materials for Mushroom Growing
+---
+title: "Stable Manure Selection and Compost Materials for Mushroom Growing"
+tags:
+  - concept
+---
 ## B.M. Duggar (1915) — Compost Raw Materials, Quality Criteria, and Substitutes
 
 Duggar's 1915 USDA bulletin establishes stable manure as the irreplaceable foundation of

@@ -5,7 +5,7 @@ tags: [ayahuasca, dosage, tourism, shaman, ceremony, safety, harm-reduction]
 created: 2026-05-08
 ---
 
-# Ayahuasca Tourist Dosage Considerations and Shamanic Caution
+## Ayahuasca Tourist Dosage Considerations and Shamanic Caution
 
 ## Overview
 

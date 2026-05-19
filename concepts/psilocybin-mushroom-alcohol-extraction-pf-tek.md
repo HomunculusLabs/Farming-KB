@@ -8,7 +8,7 @@ type: concept
 tags: [extraction, psilocybin, alcohol, ethyl-alcohol, preparation, pf-tek, consumption, dosage]
 ---
 
-# Psilocybin Mushroom Alcohol Extraction (PF TEK Method)
+## Psilocybin Mushroom Alcohol Extraction (PF TEK Method)
 
 ## Overview
 

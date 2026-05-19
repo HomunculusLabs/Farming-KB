@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Outdoor Beds
+## Mushroom Outdoor Beds
 
 [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
 before specialised mushroom-spawn

@@ -9,7 +9,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis Methods of Administration
+## Cannabis Methods of Administration
 
 Cannabis may be eaten raw, cooked into foods, drunk as juice, inhaled
 after vaporization, smoked in a pipe, wrapped in paper and smoked, or

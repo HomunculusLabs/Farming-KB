@@ -7,7 +7,7 @@ type: concept
 tags: [soil-science, microbiology, growth-regulators, humus, decomposition, fungi, AACT, hormones]
 ---
 
-# Natural Growth Regulators and the Bacteria-Fungi Humus Cycle in AACT
+## Natural Growth Regulators and the Bacteria-Fungi Humus Cycle in AACT
 
 ## Overview
 

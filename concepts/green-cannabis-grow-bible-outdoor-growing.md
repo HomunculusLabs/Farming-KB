@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Outdoor Cannabis Growing
+## Outdoor Cannabis Growing
 
 Many experienced smokers consider outdoor-grown cannabis the finest
 available, speaking to the power of natural sunlight. If you live in a

@@ -5,7 +5,7 @@ type: entity
 tags: [chicken-breed, poultry, permaculture, livestock]
 ---
 
-# Rhode Island Red
+## Rhode Island Red
 
 ## Description
 

@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, substrate, growing-medium, bag-culture]
 ---
 
-# Mushroom Substrate Bags
+## Mushroom Substrate Bags
 
 ## Description
 

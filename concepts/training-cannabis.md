@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Training (Cannabis)
+## Training (Cannabis)
 
 [[low-stress-training]] for full coverage. Cervantes describes bending as "much easier on plants than pruning" and notes that "it is easy to prune too much, but it is hard to over bend." Key techniques include:
 

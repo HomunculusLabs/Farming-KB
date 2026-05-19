@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mescalero Apache Shaman Personality and Psychopathology
+## Mescalero Apache Shaman Personality and Psychopathology
 
 ## Overview
 

@@ -18,7 +18,7 @@ sources:
   - "Kang, K. et al. (2019). \"Anti-diabetic effects of Rehmannia glutinosa in streptozotocin-induced diabetic rats.\" Journal of Medicinal Food, 22(6), 567-576."
 ---
 
-# Rehmannia glutinosa (*Di Huang*)
+## Rehmannia glutinosa (*Di Huang*)
 
 ## Overview
 

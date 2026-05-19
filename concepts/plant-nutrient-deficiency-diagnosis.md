@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Plant Nutrient Deficiency Symptoms and Diagnosis
+## Plant Nutrient Deficiency Symptoms and Diagnosis
 
 Updated: 2026-04-18
 

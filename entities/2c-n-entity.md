@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-N — 2,5-Dimethoxy-4-nitrophenethylamine
+## 2C-N — 2,5-Dimethoxy-4-nitrophenethylamine
 
 [[2c-b|2C-B]] the end product was a total winner; with 2C-N the end product is something less, and there is no way to modify it.
 

@@ -1,4 +1,8 @@
-# Spore Syringe Preparation
+---
+title: "Spore Syringe Preparation"
+tags:
+  - concept
+---
 
 **Source:** PF TEK - [[mushroom-spore-syringes]] are the primary [[brassinosteroid-growth-promotion-psilocybe-cubensis]]* spores suspended in sterile water, drawn into a hypodermic syringe for delivery into substrate jars. The syringe method allows precise, controlled inoculation of multiple jars from a [[macrofungal-documentation-photography-spore-prints]] completes the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for syringe preparation. It is made by placing a mature mushroom cap gill-side down on a clean surface and allowing the spores to drop and collect.
 

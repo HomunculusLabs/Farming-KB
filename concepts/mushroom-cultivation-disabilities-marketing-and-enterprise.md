@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
 
-# Mushroom Cultivation for Disabilities - Marketing and Enterprise
+## Mushroom Cultivation for Disabilities - Marketing and Enterprise
 
 The FAO [[enterprise-development-mushroom-growers]] as core components of the training programme, recognizing that technical cultivation skills alone are insufficient for sustainable livelihoods. Trainees learn to operate mushroom production as a profitable business, with income generation being the ultimate objective of the training.
 

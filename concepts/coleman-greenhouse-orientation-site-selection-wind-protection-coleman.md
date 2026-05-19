@@ -1,4 +1,8 @@
-# Greenhouse Orientation and Site Selection for Winter Harvest
+---
+title: "Greenhouse Orientation and Site Selection for Winter Harvest"
+tags:
+  - concept
+---
 
 **Source:** [[coleman-french-historical-winter-vegetable-production]] requires Mediterranean climates. His farm in Harborside, Maine, sits on the 44th parallel of latitude—the same parallel as Avignon, France, and Genoa, Italy. Portland, Maine, shares its latitude with St. Tropez on the French Riviera. New York City aligns with Naples, Italy, and Washington, D.C., with Majorca and Corfu.
 

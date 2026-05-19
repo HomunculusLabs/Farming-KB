@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Furniture and Structures
+## Pond Furniture and Structures
 
 Any wetland habitat can be increased in yield and utility by
 adding basic facilities that provide specialized habitat.

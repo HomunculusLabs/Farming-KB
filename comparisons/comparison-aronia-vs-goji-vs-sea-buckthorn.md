@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Aronia vs Goji Berry vs Sea Buckthorn — Superfood Berry Comparison
+## Aronia vs Goji Berry vs Sea Buckthorn — Superfood Berry Comparison
 
 Three of the most [[coleman-cold-hardiness-testing-ratings]]** | Excellent (to −40°F / −40°C) | Good (to −15°F / −26°C) | Excellent (to −40°F / −40°C) |
 | **Heat Tolerance** | Moderate (struggles above 95°F) | Good (tolerates 100°F+) | Moderate (prefers cool-temperate) |

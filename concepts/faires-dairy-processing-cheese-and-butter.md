@@ -8,7 +8,7 @@ sources:
   - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
 ---
 
-# faires dairy processing cheese and butter
+## faires dairy processing cheese and butter
 
 Dairy processing on [[psilocybin-shelf-life-stability]]
 9. Add salt if desired (about 1/4 teaspoon per pound of butter)

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, contamination, mold, bacteria, biosecurity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Mushroom Cultivation Contamination Contamination is the most common cause of failure in mushroom cultivation. Competing organisms, primarily molds and bacteria, outcompete mushroom mycelium for substrate resources or directly attack fruiting bodies. ## Common Contaminant Molds ### Trichoderma (Green Mold) The most devastating contaminant. Trichoderma species are aggressive saprophytes producing dense green spore masses. They are thermotolerant, surviving pasteurization temperatures. They produce antifungal compounds that kill mushroom mycelium. Contaminated substrate should be discarded far from growing areas. Spores persist in the environment for months. Trichoderma is the primary reason supplemented substrates require full [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Survives
+## Mushroom Cultivation Contamination Contamination is the most common cause of failure in mushroom cultivation. Competing organisms, primarily molds and bacteria, outcompete mushroom mycelium for substrate resources or directly attack fruiting bodies. ## Common Contaminant Molds ### Trichoderma (Green Mold) The most devastating contaminant. Trichoderma species are aggressive saprophytes producing dense green spore masses. They are thermotolerant, surviving pasteurization temperatures. They produce antifungal compounds that kill mushroom mycelium. Contaminated substrate should be discarded far from growing areas. Spores persist in the environment for months. Trichoderma is the primary reason supplemented substrates require full [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Survives
 pasteurization and brief sterilization exposure. Immediate removal and
 isolation of affected blocks is critical.
 

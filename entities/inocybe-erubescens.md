@@ -21,7 +21,7 @@ sources:
   - https://link.springer.com/article/10.1007/s004360050084
 ---
 
-# Inocybe erubescens
+## Inocybe erubescens
 
 ## Overview
 

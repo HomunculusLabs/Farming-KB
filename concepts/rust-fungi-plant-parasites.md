@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Rust Fungi as Plant Parasites
+## Rust Fungi as Plant Parasites
 
 ## Overview
 

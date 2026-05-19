@@ -1,5 +1,5 @@
 ---
-title: McKenna on the mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained
+title: "Mckenna Archaic Revival"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany]
 sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 ---
 
-# The Archaic Revival
+## The Archaic Revival
 
 ## We Are the Archaic
 

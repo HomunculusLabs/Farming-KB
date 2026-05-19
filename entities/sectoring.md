@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Sectoring (Culture Sectoring)
+## Sectoring (Culture Sectoring)
 
 ## Description
 Sectoring is the technique of selecting and isolating individual strains of mushroom [[mycelium]] from a mixed culture on an agar plate. When multiple genetically distinct strains of the same species grow on a single plate, they form visible islands of mycelium with distinct morphologies and growth rates. Sectoring allows cultivators to isolate the most vigorous strains.

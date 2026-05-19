@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# What Is Azolla and Why Is It Called a Superplant?
+## What Is Azolla and Why Is It Called a Superplant?
 
 ## Short Answer
 

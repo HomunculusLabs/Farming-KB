@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Farming for a New Age
+## Natural Farming for a New Age
 
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 4 of "The [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] blindly traces spiraling cycles in the tracks of science. Today's new technology will become the dated technology of tomorrow. Man today tries to leap outside of nature and truth altogether. The danger has now arrived at the doorstep of science. Scientific farming has no future.
 

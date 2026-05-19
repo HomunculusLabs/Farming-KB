@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Powdery Mildew on Cannabis
+## Powdery Mildew on Cannabis
 
 Powdery mildew is one of the most common [[duggar-mushroom-insect-pests-and-fungal-diseases]] affecting cannabis. Plants are typically infected for weeks before showing the first visible symptoms, making early prevention critical. Unlike many other fungi, powdery mildew does not require free-standing water on leaf surfaces to germinate — it can infect in relatively dry conditions as long as ambient humidity is adequate.
 

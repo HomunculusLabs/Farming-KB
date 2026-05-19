@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Soil Microorganisms and Natural Fertility
+## Soil Microorganisms and Natural Fertility
 
 Soil microorganisms are the foundation of [[fukuoka-natural-soil-fertility]]. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 

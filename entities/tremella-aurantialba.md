@@ -23,7 +23,7 @@ sources:
   - Bandoni, R.J. & Roberts, M.L. (2014). "Tremellomycetes." The Mycota VII, Springer, 387-404.
 ---
 
-# Tremella aurantialba
+## Tremella aurantialba
 
 ## Common Names
 - English: golden jelly fungus, golden ear mushroom

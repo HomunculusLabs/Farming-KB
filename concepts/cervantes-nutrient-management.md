@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Cannabis Nutrient Management and Deficiency Symptoms
+## Cannabis Nutrient Management and Deficiency Symptoms
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
 

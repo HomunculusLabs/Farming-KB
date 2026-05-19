@@ -5,7 +5,7 @@ type: entity
 tags: [historical, market-gardening, intensive-cropping, french-agriculture]
 ---
 
-# Parisian Maraicher
+## Parisian Maraicher
 
 ## Description
 The Parisian maraicher (market gardener) was an intensive vegetable producer operating on one- to two-acre holdings in and around Paris during the 18th and 19th centuries. These growers developed extraordinary techniques for maximizing food production from very small land areas, using hotbeds (heated by horse manure), close spacing, succession planting, and sophisticated crop rotation. Eliot Coleman considers them the historical masters of intensive year-round production and draws heavily on their techniques and philosophy for his own winter harvest system.

@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: []
 ---
 
-# What Is Mycofiltration and How Do Mushrooms Filter Water?
+## What Is Mycofiltration and How Do Mushrooms Filter Water?
 
 ## Short Answer
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fertilizer, nitrogen, phosphorus, organic, natural-amendment, fish-product]
 ---
 
-# Fish Meal
+## Fish Meal
 
 ## Description
 Fish meal is a dry natural fertilizer made from ground fish parts that have been heated and dried. It carries an N-P-K ratio of approximately 10-6-2 and is notable for being one of the best natural sources of **phosphorus** among fish-based fertilizers, while also providing substantial nitrogen. Unlike fish emulsion, fish meal is not readily soluble and acts as a moderate-release fertilizer, with nutrients available for 1 to 4 months. It serves as an important phosphorus source [[query-what-is-the-role-of-trichoderma-in-organic-growing]] systems where rock phosphate and bone meal are the primary alternatives.

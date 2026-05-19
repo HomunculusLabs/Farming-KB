@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Leaf Mold vs Biochar
+## Leaf Mold vs Biochar
 
 ## Overview
 

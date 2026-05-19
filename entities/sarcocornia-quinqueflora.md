@@ -5,7 +5,7 @@ type: entity
 tags: [succulent, coastal, edible, saline-tolerant, ground-cover, australia, glasswort]
 ---
 
-# Sarcocornia quinqueflora (Beaded Glasswort, Chicken Claws)
+## Sarcocornia quinqueflora (Beaded Glasswort, Chicken Claws)
 
 ## Description
 

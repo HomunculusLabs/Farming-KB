@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Xylem and Phloem Nutrient Transport
+## Xylem and Phloem Nutrient Transport
 
 Plants move water, nutrients, sugars, proteins, and signaling molecules through two
 specialized vascular systems: the **[[xylem]]** and the **[[phloem]]**. Together they form a

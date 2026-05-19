@@ -9,7 +9,7 @@ type: concept
 tags: [farming, natural-farming, agriculture, philosophy, fukuoka, permaculture]
 ---
 
-# Natural Farming — The Do-Nothing Philosophy
+## Natural Farming — The Do-Nothing Philosophy
 
 [[fukuoka-critique-modern-agriculture]]. First, no tillage: the soil is never
 plowed or turned. Fukuoka observed that plowing kills the soil microbiome, destroys

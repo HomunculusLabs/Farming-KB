@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# DOx Family — Amphetamine Psychedelics from PIHKAL
+## DOx Family — Amphetamine Psychedelics from PIHKAL
 
 The DOx family represents a critically important class of psychedelic
 amphetamines documented extensively by [[phenethylamine-chemistry-basics]].

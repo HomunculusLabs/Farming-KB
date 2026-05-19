@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# PGPR and Mycorrhizal Inoculants for Microplant Establishment
+## PGPR and Mycorrhizal Inoculants for Microplant Establishment
 
 [[pseudomonas]] and Bacillus species, promote plant growth through multiple mechanisms: production of iron-chelating siderophores that sequester iron from pathogens, synthesis of antibiotics that suppress pathogens, production of plant growth regulators (auxins, cytokinins, gibberellins), reduction of inhibitory ethylene levels through ACC deaminase activity, and induction of systemic resistance (ISR). PGPR are generally less sensitive to substrate phosphate concentration than AMF and show less host specificity, making them more flexible inoculants for diverse micropropagation systems.
 

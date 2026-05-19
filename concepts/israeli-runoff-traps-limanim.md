@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Israeli Runoff Traps and Aquifer Intake Areas
+## Israeli Runoff Traps and Aquifer Intake Areas
 
 This concept covers passive water harvesting and groundwater recharge techniques from arid and semi-arid landscapes, as detailed in [[permaculture]]: A Designers' Manual*. The methods described — Israeli runoff traps ([[water-management]] wisdom applicable to dryland [[permaculture-design]] worldwide.
 

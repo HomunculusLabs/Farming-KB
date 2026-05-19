@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health]
 sources: []
 ---
 
-# Rabbit Husbandry
+## Rabbit Husbandry
 
 Rabbits are the most space-efficient meat animal for the homestead. A single
 breeding trio (1 buck, 2 does) can produce 80-100+ lbs of meat per year in

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Myxomycetes (Slime Molds) — Biology, Taxonomy, and Sampling
+## Myxomycetes (Slime Molds) — Biology, Taxonomy, and Sampling
 
 ## Taxonomic Status
 

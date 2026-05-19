@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka's Natural Predator Protection in the Orchard
+## Fukuoka's Natural Predator Protection in the Orchard
 
 **Source:** [[fukuoka-ecological-balance-principles]]
 - [[fukuoka-bushman-world-ecological-balance]]

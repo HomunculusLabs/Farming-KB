@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Species Abundance Distributions in Fungal Communities
+## Species Abundance Distributions in Fungal Communities
 
 Species abundance distributions (SADs) describe how individuals are partitioned among species within a fungal community. They are fundamental to understanding [[fungal-biodiversity]], [[acidifying-pollutants-mycorrhizal-community-structure]], and the ecological processes shaping assemblages across habitats ranging from forest soils to leaf surfaces.
 

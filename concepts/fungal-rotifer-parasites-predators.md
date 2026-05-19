@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[bloomfield-fungal-pathogens-and-parasites]]
+## [[bloomfield-fungal-pathogens-and-parasites]]
 
 ## See Also
 

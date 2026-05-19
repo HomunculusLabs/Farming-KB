@@ -5,7 +5,7 @@ type: entity
 tags: [water-quality, reverse-osmosis, compost-tea, brewing, chlorine-removal]
 ---
 
-# Reverse Osmosis Water for Compost Tea
+## Reverse Osmosis Water for Compost Tea
 
 ## Description
 

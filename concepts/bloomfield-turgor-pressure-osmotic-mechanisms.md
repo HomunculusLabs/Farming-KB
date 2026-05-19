@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cell-biology, osmosis, fungal-growth]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mr-nicholas-moneychard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
+sources: ["raw/papers/mr-nicholas-moneychard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"]
 type: concept
 ---
-# Turgor Pressure and Fungal Water Mechanics
+## Turgor Pressure and Fungal Water Mechanics
 
 Water is the unsung engine of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 expansion, and [[bloomfield-turgor-pressure-and-hyphal-invasion]] for discussion of [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]].

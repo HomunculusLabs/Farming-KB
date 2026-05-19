@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, extraction, solvent, BHO, hash-oil]
 ---
 
-# Volatile Solvent Extraction and Hash Oil
+## Volatile Solvent Extraction and Hash Oil
 
 Volatile solvent extraction uses chemical solvents to dissolve
 cannabinoids and terpenes from cannabis plant material. While

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, biogeochemistry, metal-transformation]
 sources: []
 ---
-# Fungal Oxalate Production and Metal Transformation
+## Fungal Oxalate Production and Metal Transformation
 
 Oxalic acid is one of the most commonly produced organic
 acids by fungi and plays a central role in fungal

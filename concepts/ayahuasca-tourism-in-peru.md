@@ -5,7 +5,7 @@ tags: [ayahuasca, tourism, peru, entheogen, shamanism, amazon]
 created: 2026-05-09
 ---
 
-# Ayahuasca Tourism in Peru
+## Ayahuasca Tourism in Peru
 
 Ayahuasca tourism refers to the practice of traveling to the Amazon basin,
 primarily in Peru, to participate in traditional [[ayahuasca-tourism-western-seekers-and-integration]] have increasingly looked to

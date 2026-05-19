@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
-# Psilocybin Crystalline Product from Catalytic Hydrogenolysis
+## Psilocybin Crystalline Product from Catalytic Hydrogenolysis
 
 The final step in the Shirota, Hakamata, and Goda (2003) synthesis of
 [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]]

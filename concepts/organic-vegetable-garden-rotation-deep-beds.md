@@ -8,7 +8,7 @@ sources:
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 
-# Organic Vegetable Garden: Crop Rotation and Deep Beds
+## Organic Vegetable Garden: Crop Rotation and Deep Beds
 
 Updated: 2026-04-18
 

@@ -24,7 +24,7 @@ related_concepts:
   - mycelium-networks-and-fungal-ecology
 ---
 
-# Ethnomycology
+## Ethnomycology
 
 Ethnomycology is the study of the role of mushrooms and other fungi in the
 cultural, religious, and practical lives of human societies. Coined by the

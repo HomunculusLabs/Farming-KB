@@ -28,7 +28,7 @@ related_concepts:
   - mushroom-taxonomy-history
 ---
 
-# Fungal Identification and Biodiversity Assessment
+## Fungal Identification and Biodiversity Assessment
 
 *From traditional mushroom taxonomy to DNA barcoding and the hidden diversity of
 the fungal kingdom*

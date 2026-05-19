@@ -8,7 +8,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Detailed Goat Husbandry Guide
+## Detailed Goat Husbandry Guide
 
 Goats are exceptionally good at clearing pasture and can effectively clear the toughest brambles and unwanted vegetation. They can be temporarily used for this purpose by penning them or tying them with a halter and moving them from place to place. More than one goat per person in a family is unnecessary.
 

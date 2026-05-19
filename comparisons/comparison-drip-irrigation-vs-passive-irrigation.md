@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Drip Irrigation vs Passive Irrigation
+## Drip Irrigation vs Passive Irrigation
 
 A comparison of active pressurized irrigation and gravity-based passive watering methods.
 

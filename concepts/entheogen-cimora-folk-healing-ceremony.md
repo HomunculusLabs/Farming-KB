@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md, ~/wiki/r
 type: concept
 ---
 
-# Cimora Folk Healing Ceremony
+## Cimora Folk Healing Ceremony
 
 Cimora is the name given to the intoxicating beverage prepared from the
 San [[ayahuasca-botany-and-preparation]].

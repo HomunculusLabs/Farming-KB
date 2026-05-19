@@ -5,7 +5,7 @@ type: entity
 tags: [bacteria, nitrogen-fixer, soil-microorganism, legume, symbiosis]
 ---
 
-# [[rhizobia-legume-nodule-formation|legume]]-rhizobia partnership
+## [[rhizobia-legume-nodule-formation|legume]]-rhizobia partnership
 - After leguminous plants are cut, the root zone continues releasing nitrogen for up to 6 years
 - Essential for establishing nitrogen-fixing pioneer species in permaculture designs
 - [[biological-nitrogen-fixation-agriculture]] occurs in a series of zones extending from the roots into the surrounding soil

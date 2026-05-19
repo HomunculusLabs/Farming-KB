@@ -6,7 +6,7 @@ tags: [microbiology, cannabis, alpha-diversity, microbiome, plant-microbiome]
 created: 2026-05-09
 ---
 
-# Alpha-Diversity Gradient from Bulk Soil to Cannabis Endorhiza
+## Alpha-Diversity Gradient from Bulk Soil to Cannabis Endorhiza
 
 ## Overview
 

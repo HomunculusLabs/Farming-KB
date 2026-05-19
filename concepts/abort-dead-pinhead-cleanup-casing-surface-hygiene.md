@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Abort and Dead Pinhead Cleanup on Casing Surfaces
+## Abort and Dead Pinhead Cleanup on Casing Surfaces
 
 ## Overview
 

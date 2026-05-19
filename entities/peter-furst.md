@@ -5,7 +5,7 @@ type: entity
 tags: [person, anthropologist, editor, hallucinogens, ritual, ethnography]
 ---
 
-# Peter T. Furst
+## Peter T. Furst
 
 ## Description
 

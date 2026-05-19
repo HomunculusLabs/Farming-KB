@@ -4,7 +4,7 @@ created: 2026-05-10
 tags: [mycology, spore-production, geotropism, psilocybe-cubensis, badham-1982, sterile-mutant]
 ---
 
-# Spore Formation and Geotropic Response in P. cubensis
+## Spore Formation and Geotropic Response in P. cubensis
 
 ## Overview
 

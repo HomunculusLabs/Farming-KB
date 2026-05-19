@@ -24,7 +24,7 @@ sources:
 - raw/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
 ---
 
-# Orchard Management
+## Orchard Management
 
 Establishing and maintaining a productive orchard is a cornerstone of [[regenerative-agriculture-history]] and [[food-forest-design]]. This guide covers site selection through harvest for homestead-scale orchards in zones 7-8. For detailed variety recommendations, rootstock selection, and chill hours, see [[fruit-tree-varieties]].
 

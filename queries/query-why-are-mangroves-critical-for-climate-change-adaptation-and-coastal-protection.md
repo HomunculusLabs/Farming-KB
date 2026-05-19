@@ -22,7 +22,7 @@ sources:
 type: query
 ---
 
-# Why Are Mangroves Critical for Climate Change Adaptation and Coastal Protection?
+## Why Are Mangroves Critical for Climate Change Adaptation and Coastal Protection?
 
 ## How much carbon do mangroves store compared to terrestrial forests?
 

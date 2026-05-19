@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Fistulina hepatica
+## Fistulina hepatica
 
 **Fistulina hepatica**, commonly known as the beefsteak fungus, is a basidiomycete wood-decay fungus and weak parasite of oak trees (*Quercus* spp.).
 

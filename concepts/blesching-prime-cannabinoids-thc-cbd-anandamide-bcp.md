@@ -6,7 +6,7 @@ published: 2015
 tags: [cannabis, THC, CBD, anandamide, beta-caryophyllene, CB1, CB2, pharmacology, cannabinoids, FAAH]
 ---
 
-# Prime Cannabinoids: THC, CBD, Anandamide, and Beta-Caryophyllene
+## Prime Cannabinoids: THC, CBD, Anandamide, and Beta-Caryophyllene
 
 ## Overview
 

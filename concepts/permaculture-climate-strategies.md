@@ -21,7 +21,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide.md
 ---
 
-# Permaculture Climate-Specific Design Strategies
+## Permaculture Climate-Specific Design Strategies
 
 Climate-specific design from Mollison's Permaculture Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
 

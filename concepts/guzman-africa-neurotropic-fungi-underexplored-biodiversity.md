@@ -5,7 +5,7 @@ authors: Gastón Guzmán, John W. Allen, Jochen Gartz
 year: 1998
 topics: neurotropic fungi, Africa, psilocybe, mycology, biodiversity, biogeography, distribution
 ---
-# Africa's Underexplored southern-hemisphere-origin-of-neurotropic-fungi. Guzmán, Allen, and
+## Africa's Underexplored southern-hemisphere-origin-of-neurotropic-fungi. Guzmán, Allen, and
 Gartz's landmark 1998/2000 survey, *"A Worldwide Geographical Distribution of
 the Neurotropic Fungi,"* documents only **6–8 known neurotropic species** of
 *Psilocybe* across the entire continent — a strikingly low figure given Africa's

@@ -7,7 +7,7 @@ tags: [permaculture, design, patterns, ecological-design, water-management, prin
 sources: []
 ---
 
-# Permaculture Zones and Sectors
+## Permaculture Zones and Sectors
 
 [[permaculture-zones]] and sectors are the foundational spatial planning tools of permaculture design. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
 

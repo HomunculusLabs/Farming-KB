@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Interceptor Banks & Soil Rehabilitation
+## Interceptor Banks & Soil Rehabilitation
 
 [[soil-collapse]],
 desertification, and [[dryland-salting-mollison]] in agricultural landscapes. Pioneered by the WISALT group on

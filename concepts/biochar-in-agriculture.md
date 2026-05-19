@@ -7,7 +7,7 @@ tags: [soil-amendment, soil, regenerative, agriculture, carbon-sequestration, fe
 sources: []
 ---
 
-# Biochar in Agriculture
+## Biochar in Agriculture
 
 Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient holding capacity, microbial habitat, and long-term carbon storage. Biochar has been used for centuries — most notably in Amazonian Terra Preta soils — and is gaining renewed attention in regenerative agriculture.
 

@@ -1,6 +1,6 @@
 ---
 
-# Amanita Muscaria in Norse Mythology: Odin and the Berserkers
+## Amanita Muscaria in Norse Mythology: Odin and the Berserkers
 
 In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter dedicates Chapter 23 ("Odin; God of Wisdom") to the argument that the Norse god Odin and the berserker warriors are connected to the same Indo-European amanita-muscaria-drying-and-preparation that underlies the [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]] -- a motif that, in Teeter's reading, parallels the Soma ceremony's theme of a god who undergoes death and transformation to acquire divine wisdom.
 

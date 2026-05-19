@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Calcium Signalling
+## Fungal Calcium Signalling
 
 Calcium (Ca2+) is a critical second messenger in filamentous fungi, regulating
 numerous cellular processes including [[gadd-hyphal-tip-growth-and-branching-mechanisms]] growth and

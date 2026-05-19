@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Regional Seed Selection and Climate Zones
+## Regional Seed Selection and Climate Zones
 
 It would be profitable if one variety of each vegetable could be sold to gardeners everywhere, but that is not possible. A variety that excels in a short-season northern climate may fail utterly in a hot, humid southern garden, and vice versa. Understanding your climate zone and selecting varieties adapted to it is one of the most important decisions a gardener can make.
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Liquid Culture Propagation Methods
+## Liquid Culture Propagation Methods
 
 Liquid [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. By suspending fragmented mushroom mycelia in
 sterile water, a single [[stamets-slant-culture-strain-preservation]] remain the standard. [[liquid-culture]] is best used as an

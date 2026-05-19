@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# AACT Definitions and Types (Ingham)
+## AACT Definitions and Types (Ingham)
 
 Updated: 2026-04-18
 

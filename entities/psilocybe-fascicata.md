@@ -10,7 +10,7 @@ sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
 
-# Psilocybe fascicata
+## Psilocybe fascicata
 
 *Psilocybe fascicata* is a bluing psilocybin-containing mushroom species in the family Hymenogastraceae.
 It was originally described from Mexico and is one of the less commonly encountered psychoactive Psilocybe species, known primarily from subtropical and tropical regions of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].

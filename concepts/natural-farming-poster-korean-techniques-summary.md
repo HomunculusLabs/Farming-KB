@@ -7,7 +7,7 @@ tags: [farming, cultivation, organic, knf]
 sources:
   - "natural-farming-poster-input-free-farming - Modern Natural Farming Tech (MNFT) for Cannabis"
 ---
-# [[edaphic-factors-microbial-community-structure]]
+## [[edaphic-factors-microbial-community-structure]]
 - Create a [[integrated-pest-management]]) tool by keeping plants healthy and resistant
 - **Aging**: Improves with age, described as "aging like fine whiskey"
 

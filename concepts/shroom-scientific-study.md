@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Mycology and the Scientific Study of Psilocybin Mushrooms
+## Mycology and the Scientific Study of Psilocybin Mushrooms
 
 updated: 2026-04-24
 

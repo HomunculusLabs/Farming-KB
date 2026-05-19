@@ -4,12 +4,11 @@ created: 2026-04-28
 tags: [cannabis, pollen, breeding, pollination, seed-production, clarke]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+sources: ["raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md"]
 type: concept
 ---
 
-# [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]], detailing methods for collecting,
+## [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]], detailing methods for collecting,
 storing, and applying pollen with precision to produce seeds of known
 parentage. The quality of breeding records depends directly on the
 care taken during pollination.
@@ -118,3 +117,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[cervantes-pollen-collection-storage]] and [[cannabis-pollen-collection]] for related information.
+
+Effective pollen preservation enables breeders to maintain genetic diversity and execute controlled crosses across growing seasons.

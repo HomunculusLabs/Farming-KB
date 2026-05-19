@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# (E)-beta-Caryophyllene (BCP)
+## (E)-beta-Caryophyllene (BCP)
 
 **Type:** Chemical / [[beta-caryophyllene-dietary-cannabinoid]] / Sesquiterpene
 **Category:** CB2-selective cannabinoid agonist

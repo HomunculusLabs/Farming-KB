@@ -15,7 +15,7 @@ sources:
   - "Faegri, K. & erik-van-der-werf Pijl, L. (1979). The Principles of Pollination Ecology. Pergamon Press."
   - "Brett, R. (1956). \"The dmt-containing-plants-united-states-halpern National Herbarium, 26, 289-376."---
 
-# Zinnia elegans (*Zinnia elegans*)
+## Zinnia elegans (*Zinnia elegans*)
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# BOHD
+## BOHD
 
 PIHKAL entry #16. 2,5-Dimethoxy-beta-hydroxy-4-methyl-PEA.
 

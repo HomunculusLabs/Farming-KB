@@ -16,7 +16,7 @@ sources:
   - "raw/papers/ross-mars-permaculture-garden.md"
 ---
 
-# Walter Pahnke
+## Walter Pahnke
 
 **Walter Norman Pahnke** (1931 -- 10 July 1971) was an American physician,
 psychiatrist, and theologian whose pioneering research on the relationship

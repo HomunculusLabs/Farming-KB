@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture in Humid Landscapes: Keypoint and Keyline Design
+## Permaculture in Humid Landscapes: Keypoint and Keyline Design
 
 In Pamphlet II of the [[permaculture-design]] Course, [[bill-mollison]] turns from the global environmental crisis to practical landscape design, beginning with humid landscapes — those receiving more than 30 inches of annual rainfall. The central thesis is deceptively simple: the storage of water on the landscape. The critical observation is that modern civilization, particularly in America, is failing to do this. Mollison's approach, building on P.A. Yeomans' keyline concepts, provides a systematic method for capturing, storing, and distributing water across agricultural and forested land using the land's own topography.
 

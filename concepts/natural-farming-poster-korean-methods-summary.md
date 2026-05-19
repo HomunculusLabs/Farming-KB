@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [farming, knf, korean-natural-farming, fermented-extracts, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-natural-farming-poster.md]
+sources: ["raw/papers/unknown-natural-farming-poster.md"]
 type: concept
 ---
 
-# Natural Farming Poster: [[oss-oeric-terrarium-design-and-humidity]] for [[plant-science-exploring-rich-history]] for plant science context
+## Natural Farming Poster: [[oss-oeric-terrarium-design-and-humidity]] for [[plant-science-exploring-rich-history]] for plant science context
 ## Background and Context
 
 Natural Farming Poster: [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

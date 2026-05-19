@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Psychedelic Session Instructions (Part IV)
+## Psychedelic Session Instructions (Part IV)
 
 Part IV of *The [[leary-psychedelic-experience-bardo-mapping]]* by Timothy Leary, Ralph Metzner, and [[richard-alpert]] contains the actual instructions read aloud to a person during a psychedelic session. These instructions are adapted from the *Bardo Thodol* ([[jung-and-the-tibetan-book-of-the-dead]] the Dead) and organized according to the three bardos — stages of consciousness encountered after ego dissolution.
 

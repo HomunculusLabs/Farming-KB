@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# How Do I Build With Earthbags?
+## How Do I Build With Earthbags?
 
 ## Short Answer
 

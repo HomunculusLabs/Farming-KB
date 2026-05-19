@@ -5,7 +5,7 @@ source_author: "steve-solomon"
 tags: [gardening, seedlings, transplants, garden-center, hardening-off, pot-bound, mislabeled, vegetable-gardening, solomon]
 ---
 
-# Garden Center Seedling Traps and Transplant Buyer Awareness
+## Garden Center Seedling Traps and Transplant Buyer Awareness
 
 ## Overview
 

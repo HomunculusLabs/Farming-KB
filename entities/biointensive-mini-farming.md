@@ -4,7 +4,7 @@ source: bahay-kubo-indigenous-microorganisms_.md
 type: entity
 ---
 
-# Biointensive Mini-Farming
+## Biointensive Mini-Farming
 
 ## Description
 

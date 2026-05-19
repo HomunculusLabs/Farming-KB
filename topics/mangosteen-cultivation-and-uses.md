@@ -21,7 +21,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435915/
 ---
 
-# Mangosteen Cultivation, Nutrition, and Uses
+## Mangosteen Cultivation, Nutrition, and Uses
 
 ## Overview
 

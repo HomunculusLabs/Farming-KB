@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Keypoint and Keyline in Humid Landscapes
+## Keypoint and Keyline in Humid Landscapes
 
 In [[permaculture-design]] for humid landscapes (receiving more than 30 inches of rainfall annually), the concept of the **keypoint** and the associated **keyline** system represent the fundamental strategy for water storage and distribution across the landscape. Developed from the work of P.A. Yeomans and adapted by [[bill-mollison]], this approach treats the entire landscape as a unified water harvesting and distribution system — conceptually, "a roof and a tank."
 

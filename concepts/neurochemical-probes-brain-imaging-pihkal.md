@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# Neurochemical Probes and Brain Imaging from PiHKAL Compounds
+## Neurochemical Probes and Brain Imaging from PiHKAL Compounds
 
 **Updated:** 2026-04-18
 

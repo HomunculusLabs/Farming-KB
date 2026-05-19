@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# G-5
+## G-5
 
 G-5 (3,6-dimethoxy-4-(2-aminopropyl)benzonorbornane) is a psychedelic amphetamine and the most structurally elaborate member of the Ganesha family, described in [[shipibo-san-francisco-ceremonial-center-ucayali]].
 

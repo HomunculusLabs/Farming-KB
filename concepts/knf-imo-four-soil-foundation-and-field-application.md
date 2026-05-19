@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# KNF IMO #4 Soil Foundation and Field Application
+## KNF IMO #4 Soil Foundation and Field Application
 
 IMO #4 is the final, field-ready form of [[comparison-natural-farming-vs-permaculture]]. It represents the transition from laboratory
 cultivation to active soil inoculation, combining cultured IMOs with

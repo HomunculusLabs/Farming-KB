@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycete, edible, saprotrophic, radionuclide, enoki]
 ---
 
-# Flammulina velutipes
+## Flammulina velutipes
 
 ## Description
 

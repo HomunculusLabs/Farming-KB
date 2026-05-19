@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# How Do I Grow and Use Rosemary in My Garden?
+## How Do I Grow and Use Rosemary in My Garden?
 
 ## Short Answer
 

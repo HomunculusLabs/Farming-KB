@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Peter Oei
+## Peter Oei
 
 Peter Oei is a Dutch mycologist and mushroom cultivation expert, author of *Manual on Mushroom Cultivation: Techniques, Species and Opportunities for Commercial Application* (1991, Tool Publications, Amsterdam) and *Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries* (1996). His work has been instrumental in promoting mushroom cultivation in tropical and subtropical regions.
 

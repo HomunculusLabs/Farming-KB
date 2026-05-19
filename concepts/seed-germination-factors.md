@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Seed Germination Factors
+## Seed Germination Factors
 
 Seed germination is governed by a complex interplay of [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including soil temperature, light exposure, cold stratification, and even passage through digestive systems. Understanding these factors is essential for successful [[plant-propagation]] in [[permaculture]] systems, where [[jadam-pesticide-spray-timing-and-technique]] can mean the difference between abundant establishment and total failure.
 

@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Bioremediation Formulation and Delivery
+## Fungal Bioremediation Formulation and Delivery
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
-# Mycoremediation of Oil and Petroleum Hydrocarbons
+## Mycoremediation of Oil and Petroleum Hydrocarbons
 
 Oil spills and petroleum contamination represent some of the most
 widespread environmental pollution challenges globally. While bacterial

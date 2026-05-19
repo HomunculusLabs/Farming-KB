@@ -16,7 +16,7 @@ sources:
   - Stephens WB (1928). "Varietal forms of Sarracenia flava." Journal of the Elisha Mitchell Scientific Society 44: 77–85.
 ---
 
-# Sarracenia flava
+## Sarracenia flava
 
 ## Overview
 

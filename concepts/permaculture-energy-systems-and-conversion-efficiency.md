@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Energy Systems and Conversion Efficiency
+## Permaculture Energy Systems and Conversion Efficiency
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, dark-septate-endophyte, ascomycota, mycorrhizal]
 ---
 
-# Phialocephala fortinii
+## Phialocephala fortinii
 
 ## Description
 

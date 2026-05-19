@@ -5,7 +5,7 @@ type: entity
 tags: [person, psychologist, philosopher, consciousness-studies]
 ---
 
-# William James
+## William James
 
 ## Description
 William James (1842–1910) was an American philosopher and psychologist, widely regarded as one of the founding figures of modern psychology. He is identified by Timothy Leary in *The Psychedelic Experience* as one of the two greatest psychologists of the 20th century (alongside Carl Jung), recognized for preserving experience and consciousness as legitimate domains of scientific inquiry.

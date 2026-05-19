@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# King Stropharia (Stropharia rugoso-annulata) Permaculture and Mycofiltration #mycoremediation #mushroom-cultivation #mycofiltration #permaculture #outdoor-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Chapters 5, 21, 22 ## Overview Stropharia rugoso-annulata, the Wine Cap or Garden Giant, is a large, robust mushroom central to Stamets' permaculture vision. It grows to 5+ lbs per specimen under optimal conditions. This species is the primary organism recommended for king-stropharia-wine-cap-cultivation, [[psilocybin-north-america-pacific-northwest]] wrote to explain they had been long mystified by bees' attraction to sawdust piles -- the bees were seeking the underlying sweet mushroom mycelium.
+## King Stropharia (Stropharia rugoso-annulata) Permaculture and Mycofiltration #mycoremediation #mushroom-cultivation #mycofiltration #permaculture #outdoor-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Chapters 5, 21, 22 ## Overview Stropharia rugoso-annulata, the Wine Cap or Garden Giant, is a large, robust mushroom central to Stamets' permaculture vision. It grows to 5+ lbs per specimen under optimal conditions. This species is the primary organism recommended for king-stropharia-wine-cap-cultivation, [[psilocybin-north-america-pacific-northwest]] wrote to explain they had been long mystified by bees' attraction to sawdust piles -- the bees were seeking the underlying sweet mushroom mycelium.
 
 ### Fish Food Generation
 

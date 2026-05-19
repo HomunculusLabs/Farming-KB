@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Companion Planting vs Intercropping
+## Companion Planting vs Intercropping
 Both companion planting and intercropping involve growing multiple species together for mutual benefit, but they differ significantly in scale, scientific rigor, and primary objectives. Understanding these distinctions helps growers [[intercropping-systems]]
 Growing two or more crop species simultaneously in the same field or bed to increase total yield, reduce pests, and improve soil health through [[williams-pdc-ecological-design-principles]] projects
 - Small-scale diversified beds where aesthetics matter alongside yield

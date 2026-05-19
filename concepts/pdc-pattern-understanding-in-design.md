@@ -8,7 +8,7 @@ type: concept
 tags: [design]
 ---
 
-# Pattern Understanding in Design
+## Pattern Understanding in Design
 
 As Permaculture Principle #4 says, [[holmgren-observe-and-interact-detailed]] -- both parts are necessary to properly read patterns. Observation allows you to see the pattern, and interaction allows you to understand how the pattern changes in response to external stimulus. If you do X to the existing patterns, what new patterns emerge on the site? What happens to the energy of the old patterns?
 

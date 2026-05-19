@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-T-17
+## 2C-T-17
 
 2C-T-17 (2,5-dimethoxy-4-(s)-butylthiophenethylamine), also known as NIMITZ, is a psychedelic phenethylamine and a member of the 2C-T family described in [[2c-p-pihkal-entry-36]]
 - [[comparison-mandala-garden-design-vs-keyhole-garden-design]]

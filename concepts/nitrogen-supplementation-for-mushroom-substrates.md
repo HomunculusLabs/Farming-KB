@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Nitrogen Supplementation for Mushroom Substrates
+## Nitrogen Supplementation for Mushroom Substrates
 
 Nitrogen supplementation is the practice of adding protein-rich materials to
 base substrates to increase mushroom yields. Most raw materials used for

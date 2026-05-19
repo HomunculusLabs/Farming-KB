@@ -9,7 +9,7 @@ sources:
   - "general botanical and childrens-herbal-medicine knowledge"
 ---
 
-# Ocimum basilicum
+## Ocimum basilicum
 
 Ocimum basilicum, commonly known as sweet basil, is an aromatic annual herb
 in the mint family (Lamiaceae). Native to tropical South and [[holzer-medicinal-and-culinary-herbs-compendium]] worldwide. The species is central to Mediterranean,

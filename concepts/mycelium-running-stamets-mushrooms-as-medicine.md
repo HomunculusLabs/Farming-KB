@@ -9,7 +9,7 @@ type: concept
 tags: [medicine, mushroom-cultivation, mushrooms, mycelium]
 ---
 
-# Mushrooms as Medicine — Mycelium Running
+## Mushrooms as Medicine — Mycelium Running
 
 In "Mycelium Running," Paul Stamets presents medicinal mushrooms as a largely untapped pharmacological frontier. He documents antibiotic, antiviral, anticancer, and immunomodulatory properties across numerous species, arguing that old-growth forests harbor undiscovered medicines critical to human health and national defense. He frames mushrooms as organisms that can simultaneously address the causes of disease while bolstering the food web.
 

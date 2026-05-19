@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Prevent and Treat Powdery Mildew on Cannabis
+## How to Prevent and Treat Powdery Mildew on Cannabis
 
 ## Short Answer
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pattern Understanding and Implicate Order
+## Pattern Understanding and Implicate Order
 
 ## Overview
 

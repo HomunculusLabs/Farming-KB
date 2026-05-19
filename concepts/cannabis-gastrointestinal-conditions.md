@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Gastrointestinal Conditions
+## Cannabis Gastrointestinal Conditions
 
 Cannabis interacts with the gastrointestinal (GI) system through the enteric nervous system and the endocannabinoid system (ECS), which is densely distributed throughout the gut. Serotonin, a neurotransmitter especially abundant in the gastrointestinal tract, assists [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) covers inflammatory bowel disease under its gastrointestinal conditions section.
 

@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# MIPT (N-Isopropyl-N-Methyltryptamine)
+## MIPT (N-Isopropyl-N-Methyltryptamine)
 
 TIHKAL entry #47. The simplest tryptamine with the "magical" methyl-isopropyl nitrogen substitution pattern that allows [[leary-psychedelic-experience-bardo-mapping]] with minimal visual effects.
 

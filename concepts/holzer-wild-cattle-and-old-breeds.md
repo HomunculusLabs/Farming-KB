@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Wild Cattle and Old Domestic Cattle Breeds
+## Holzer Wild Cattle and Old Domestic Cattle Breeds
 
 natural-farm-permaculture-ethics-principles that emphasise the integration of livestock into productive landscapes.
 

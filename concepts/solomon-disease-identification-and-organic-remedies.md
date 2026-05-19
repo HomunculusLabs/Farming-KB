@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Solomon Disease Identification and Organic Remedies
+## Solomon Disease Identification and Organic Remedies
 
 In "Gardening When It Counts," [[solomon-thinning-spacing-and-direct-seeding]]), and
 grown on healthy soil have strong cell walls, vigorous immune responses,

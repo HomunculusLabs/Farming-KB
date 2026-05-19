@@ -15,7 +15,7 @@ sources:
 created: 2026-04-28
 type: concept
 ---
-# [[oyster-mushrooms]] with superior texture and appearance compared to bag or bottle cultivation. The fermentation process converts raw agricultural materials into a selectively nutritious medium through the orchestrated activity of successive microbial communities, culminating in the appearance of white actinomycetes that signal substrate readiness.
+## [[oyster-mushrooms]] with superior texture and appearance compared to bag or bottle cultivation. The fermentation process converts raw agricultural materials into a selectively nutritious medium through the orchestrated activity of successive microbial communities, culminating in the appearance of white actinomycetes that signal substrate readiness.
 
 ## Overview of Shelf Cultivation
 

@@ -5,7 +5,7 @@ tags: [mushroom, cultivation, fungi, substrate, pasteurization, sterilization]
 created: 2026-05-11
 ---
 
-# Mushroom Substrate Preparation
+## Mushroom Substrate Preparation
 
 ## Substrate Fundamentals
 

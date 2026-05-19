@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Prevent Transplant Shock When Moving Cannabis Plants
+## How to Prevent Transplant Shock When Moving Cannabis Plants
 
 ## Short Answer
 Transplant shock occurs when a cannabis plant's root system is disturbed during

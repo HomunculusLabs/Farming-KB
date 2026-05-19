@@ -22,7 +22,7 @@ sources:
   - "Arora, D. (1986). Mushrooms Demystified. 2nd ed. Ten Speed Press."
 ---
 
-# Turbinellus floccosus (*Gomphus floccosus*)
+## Turbinellus floccosus (*Gomphus floccosus*)
 
 ## Overview
 

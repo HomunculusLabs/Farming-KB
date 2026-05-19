@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Ultra-Low-Cost Tools and Equipment
+## Ultra-Low-Cost Tools and Equipment
 
 ## Eliminating Machinery Dependency
 

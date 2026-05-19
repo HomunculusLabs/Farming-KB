@@ -6,7 +6,7 @@ tags: [mycorrhiza, carbon-cycle, carbon-sequestration, terrestrial-ecosystems, p
 created: 2026-05-08
 ---
 
-# Mycorrhizal Carbon Sequestration
+## Mycorrhizal Carbon Sequestration
 
 ## Overview
 

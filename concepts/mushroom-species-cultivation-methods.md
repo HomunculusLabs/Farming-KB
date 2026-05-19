@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Species and Cultivation Methods
+## Mushroom Species and Cultivation Methods
 
 [[fungi-around-the-world-species-distribution]]. Given the
 proper environment, mushrooms grow and offer a good source of natural

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
-# Leary at Harvard and the Psilocybin Project
+## Leary at Harvard and the Psilocybin Project
 
 Terence McKenna's account of Timothy Leary's work at Harvard and the subsequent psychedelic movement of the 1960s forms a pivotal section of Food of the Gods, bridging the historical analysis of plant-drug relationships with the modern era of psychopharmacology and cultural upheaval.
 

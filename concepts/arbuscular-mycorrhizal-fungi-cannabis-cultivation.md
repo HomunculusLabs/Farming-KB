@@ -1,4 +1,8 @@
-# [[glomus-intraradices]] ice  tter
+---
+title: "glomus intraradices ice  tter"
+tags:
+  - concept
+---
 - **Ammonium transport**: AMF hyphae absorb ammonium (NH₄⁺) and transport it to the plant, though the contribution is generally smaller than for phosphorus
 - **Facilitation of nitrification**: By creating oxidized microsites around hyphae, AMF can indirectly promote nitrification, making nitrogen more available to cannabis roots
 

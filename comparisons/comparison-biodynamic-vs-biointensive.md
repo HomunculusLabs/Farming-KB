@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Biodynamic vs Biointensive Agriculture
+## Biodynamic vs Biointensive Agriculture
 
 ## Overview
 

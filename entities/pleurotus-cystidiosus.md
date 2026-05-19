@@ -15,7 +15,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Pleurotus cystidiosus
+## Pleurotus cystidiosus
 
 **Abalone Mushroom**
 

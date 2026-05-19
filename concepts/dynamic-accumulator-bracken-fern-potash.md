@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Bracken Fern as a Historical Potash Source
+## Bracken Fern as a Historical Potash Source
 
 The common bracken fern ([[permaculture-plants-root-crops-and-tubers]], following
   Chadwick's method.

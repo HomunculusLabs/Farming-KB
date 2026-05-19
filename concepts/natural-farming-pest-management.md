@@ -7,7 +7,7 @@ tags: [pests, gardening, plants, companion-planting]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 
-# Natural Farming Pest Management
+## Natural Farming Pest Management
 
 Organic pest management works by building healthy ecosystems where pests are naturally controlled by predators, using cultural practices that reduce pest pressure, and applying targeted organic treatments only when necessary.
 

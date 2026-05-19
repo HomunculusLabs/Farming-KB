@@ -7,7 +7,7 @@ tags: nut-tree, permaculture, tree-crop, orchard, drought-tolerant
 type: concept
 ---
 
-# Pistachio Growing Guide
+## Pistachio Growing Guide
 
 ## Botanical Details
 

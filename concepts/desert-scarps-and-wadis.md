@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Scarps and Wadis
+## Desert Scarps and Wadis
 
 Scarps and wadis are among the most significant and productive landscape features in arid environments. Understanding their formation, hydrology, and potential for human settlement is essential for [[wadi]] sides, secondary valleys leave again at near right-angles to the main valley, following the pattern of parallel fault weakness and compensating joints in the rock.
 

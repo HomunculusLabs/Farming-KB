@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Manganese Peroxidase in Bioremediation
+## Fungal Manganese Peroxidase in Bioremediation
 
 ## Overview
 

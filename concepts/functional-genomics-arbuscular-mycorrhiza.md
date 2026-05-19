@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Functional Genomics of Arbuscular Mycorrhizal Symbiosis
+## Functional Genomics of Arbuscular Mycorrhizal Symbiosis
 Functional genomics of arbuscular mycorrhizal (AM) symbiosis encompasses transcriptomic, proteomic, and metabolomic approaches to understanding the molecular basis of the AMF-plant interaction. Using model systems like Medicago truncatula and Glomus spp., researchers have identified hundreds of genes and proteins whose expression changes during symbiosis, revealing the complex regulatory networks underlying this ancient mutualism.
 ## Model Systems
 ### Medicago truncatula

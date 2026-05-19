@@ -9,7 +9,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Kwashi and Galanga: Minor Psychoactive Plants
+## Kwashi and Galanga: Minor Psychoactive Plants
 
 [[alpinia-galanga]]) or lesser galangal ([[entheogen-culture]]
 ## Background and Context

@@ -1,4 +1,8 @@
-# Sheet Mulching and Composting in Place (Gaia's Garden)
+---
+title: "Sheet Mulching and Composting in Place (Gaia's Garden)"
+tags:
+  - concept
+---
 
 **Source:** Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture* (2001)
 

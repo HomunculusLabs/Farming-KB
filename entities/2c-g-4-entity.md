@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-G-4
+## 2C-G-4
 
 **[[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]
 (TLC: ether product Rf 0.5, phenol Rf 0.1). After chromatography and

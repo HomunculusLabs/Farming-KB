@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MMDA-3b
+## MMDA-3b
 
 [[mda]]; quantitatively perhaps less.
 >

@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Marketing and Economics of Winter Produce
+## Marketing and Economics of Winter Produce
 
 [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] competition. A day later, Coleman's had all sold while
 the competition remained. Chefs immediately recognized both the

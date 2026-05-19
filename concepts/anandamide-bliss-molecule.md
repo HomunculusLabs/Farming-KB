@@ -6,7 +6,7 @@ source: uwe blesching the cannabis health index
 created: 2026-05-11
 ---
 
-# Anandamide - The Bliss Molecule
+## Anandamide - The Bliss Molecule
 
 Anandamide (N-arachidonoylethanolamine, abbreviated AEA) is an endogenous cannabinoid — a lipid-based signaling molecule produced naturally by the human body. Discovered in the 1990s, anandamide was the first endocannabinoid identified and is often called the "bliss molecule" for its role in promoting feelings of happiness, well-being, and contentment. The name derives from the Sanskrit word *ananda*, meaning "joy" or "bliss," reflecting its profound influence on mood and emotional states.
 

@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# LSD Structure-Activity Relationships and Related Lysergic Acid Compounds
+## LSD Structure-Activity Relationships and Related Lysergic Acid Compounds
 
 ## Overview
 

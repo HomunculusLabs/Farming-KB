@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# Rigveda
+## Rigveda
 
 The Rigveda (Sanskrit: "Knowledge of Verses") is the oldest of the four Vedas and one of the oldest extant texts in any Indo-European language, composed circa 1500-1200 BCE in the Punjab region of ancient India. It consists of 1,028 hymns (suktas) organized into ten books (mandalas), containing over 10,000 verses.
 

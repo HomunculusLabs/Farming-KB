@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Observation-Based Design in Permaculture
+## Observation-Based Design in Permaculture
 
 Observation-based design is one of the foundational methodologies in [[bill-mollison]] as an approach that begins directly on and around a site rather than at a desk with [[water-management]]**: Direct observation of runoff patterns, absorption rates, and seasonal flow informs swale, dam, and drainage placement
 - **Plant succession**: Watching how pioneer species colonize disturbed areas guides [[succession-planting]] strategies

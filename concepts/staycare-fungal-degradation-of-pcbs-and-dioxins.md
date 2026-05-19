@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Degradation of PCBs and Dioxins
+## Fungal Degradation of PCBs and Dioxins
 
 Polychlorinated biphenyls (PCBs) and dioxins are among the most
 persistent and toxic environmental contaminants. PCBs were widely used in

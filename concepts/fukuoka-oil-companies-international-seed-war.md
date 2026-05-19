@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Oil Companies and the International Seed War
+## Oil Companies and the International Seed War
 
 Fukuoka exposes the geopolitical struggle over control of the world's
 seed supply, warning that five American oil companies have moved into

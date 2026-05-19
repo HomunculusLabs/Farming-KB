@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Fruiting Body Development Stages
+## Maitake Fruiting Body Development Stages
 
 *Grifola frondosa* (maitake) undergoes a remarkable series of morphological transformations during fruiting body development. The growth sequence from primordia to mature cluster flower passes through several visually distinct stages, each requiring specific environmental conditions. Understanding these stages is essential for successful cultivation and timely harvest.
 

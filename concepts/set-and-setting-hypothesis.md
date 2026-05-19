@@ -1,12 +1,12 @@
 ---
-title: Set and metzner-set-and-setting-hypothesis-origins-and-extensions
+title: "Set And Setting Hypothesis"
 concept_type: concept
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [set, setting, psychedelic, Leary, Metzner, determinants, context, intention]
 created: 2026-05-08
 ---
 
-# Set and Setting Hypothesis
+## Set and Setting Hypothesis
 
 ## Overview
 

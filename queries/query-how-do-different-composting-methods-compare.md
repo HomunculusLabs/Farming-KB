@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do Different Composting Methods Compare
+## How Do Different Composting Methods Compare
 
 ## Short Answer
 

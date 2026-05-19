@@ -5,7 +5,7 @@ type: entity
 tags: [crustacean, aquaculture, permaculture, pond-culture, live-food]
 ---
 
-# Artemia (Brine Shrimp)
+## Artemia (Brine Shrimp)
 
 ## Description
 

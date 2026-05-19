@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Pest Management (Organic)
+## Pest Management (Organic)
 
 Source: Steve Solomon, "Gardening When It Counts" (2005)
 

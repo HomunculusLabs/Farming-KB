@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Community Interactions and Keystone Species
+## Fungal Community Interactions and Keystone Species
 
 ## Overview
 

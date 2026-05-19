@@ -22,7 +22,7 @@ sources:
   - Schnittler, M. & Stephenson, S.L. (2002). "Phylogenetic relationships of the genus Physarum." Mycologia, 94(3), 536–544.
 ---
 
-# Slime Molds — Biology, Ecology, and Significance
+## Slime Molds — Biology, Ecology, and Significance
 
 Slime molds are a diverse group of protists that occupy a fascinating niche at the intersection of the animal, fungal, and plant kingdoms. Once classified as fungi due to their spore-producing fruiting bodies, modern molecular systematics has firmly placed them within the supergroup **Amoebozoa**. They are among the most ecologically important yet underappreciated organisms in terrestrial ecosystems, playing critical roles in decomposition, [[hamilton-composting-and-organic-matter-management]] became available.
 

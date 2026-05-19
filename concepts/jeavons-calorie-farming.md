@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Calorie Farming and Calorie Crops
+## Calorie Farming and Calorie Crops
 
 One of the eight features of [[permaculture-plants-root-crops-and-tubers]] that produce large amounts of calories per unit of area.
 

@@ -9,7 +9,7 @@ sources:
   - raw/papers/chos-global-natural-farming.md
 ---
 
-# KNF Indigenous Microorganism Culture (IMO)
+## KNF Indigenous Microorganism Culture (IMO)
 
 [[beneficial-indigenous-microorganisms]] (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, compost making, and plant health. [[cho-loess-powder-in-natural-farming]], IMOs are the primary tool for building fertile, healthy soil.
 

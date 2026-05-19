@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Mike Madelin and The Rotten World About Us
+## Mike Madelin and The Rotten World About Us
 
 Among the mycologists who shaped [[bloomfield-fungal-biology-and-hyphal-growth]].
 

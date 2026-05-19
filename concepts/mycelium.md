@@ -4,9 +4,9 @@ created: 2026-04-28
 tags: [mycology, biology, fungi, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md] type: concept ---
+sources: ["raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md"] type: concept ---
 ---
-# Mycelium
+## Mycelium
 
 Mycelium is the vegetative body of a fungus, consisting of a mass of branching,
 thread-like hyphae that form an extensive network through soil, wood, and other

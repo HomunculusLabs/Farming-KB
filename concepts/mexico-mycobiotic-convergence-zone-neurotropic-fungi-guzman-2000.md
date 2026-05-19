@@ -13,7 +13,7 @@ sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 ---
 
-# Mexico as Mycobiotic Convergence Zone
+## Mexico as Mycobiotic Convergence Zone
 
 Mexico occupies a unique biogeographic position as a zone where northern (Nearctic) and southern (Neotropical) mycobiotas converge, producing an extraordinary concentration of neurotropic fungal species that exceeds any other country on Earth. This convergence pattern was documented systematically by Guzmán (1973, 1983) and expanded upon in the global distribution survey by Guzmán, Allen & Gartz (2000).
 

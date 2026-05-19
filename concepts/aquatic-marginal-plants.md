@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquatic Marginal Plants
+## Aquatic Marginal Plants
 
 Marginal plants—the species growing at the interface between water bodies and dry land—are among the most underappreciated yet functionally critical components of aquacultural and permacultural systems. They serve as the primary nutrient bridge between terrestrial and aquatic ecosystems, providing food, shelter, water quality regulation, and erosion control simultaneously.
 

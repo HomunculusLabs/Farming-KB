@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Minoan Crete and the Eleusinian Mysteries
+## Minoan Crete and the Eleusinian Mysteries
 
 Minoan Crete represents the last great flowering of the [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]] was one of realism, a sense of the vitality of
 bios, and sensual celebration.

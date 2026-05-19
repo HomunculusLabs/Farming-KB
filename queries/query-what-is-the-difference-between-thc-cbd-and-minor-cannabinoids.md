@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# What Is the Difference Between THC, CBD, and Minor Cannabinoids?
+## What Is the Difference Between THC, CBD, and Minor Cannabinoids?
 
 ## Short Answer
 

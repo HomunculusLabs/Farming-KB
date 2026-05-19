@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do White-Rot Fungi Break Down Lignin and What Are Their Applications?
+## How Do White-Rot Fungi Break Down Lignin and What Are Their Applications?
 
 ## Short Answer
 White-rot fungi are the only organisms in nature capable of completely decomposing lignin.

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizal Fungi, Rock Penetration, and Soil Formation
+## Mycorrhizal Fungi, Rock Penetration, and Soil Formation
 
 ## Overview
 

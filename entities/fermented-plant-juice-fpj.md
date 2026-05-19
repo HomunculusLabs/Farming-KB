@@ -1,14 +1,14 @@
 ---
-title: bionutrients-lab-fermented-plant-juice-fpj (FPJ)
+title: "Fermented Plant Juice Fpj"
 created: 2026-04-28
 type: species
 tags: [korean-natural-farming, fermentation, plant-nutrition, foliar-spray, cho-han-kyu]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
 
-# Fermented Plant Juice (FPJ)
+## Fermented Plant Juice (FPJ)
 
 **[[fermented-plant-juice]] (FPJ)** is a core input in **Korean [[jadam-liquid-fertilizer-nutritional-perspective]] and biostimulant produced by extracting and fermenting the sap and cell contents of fast-growing plant shoots using brown sugar as a solvent and preservative. The preparation captures the plant's growth hormones, amino acids, enzymes, minerals, and organic acids in a bioavailable form that can be applied to crops as a foliar spray or soil drench.
 

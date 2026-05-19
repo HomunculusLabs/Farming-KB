@@ -10,7 +10,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Leaf Curl Disease Control with Actively Aerated Compost Tea
+## Leaf Curl Disease Control with Actively Aerated Compost Tea
 
 ## Overview
 

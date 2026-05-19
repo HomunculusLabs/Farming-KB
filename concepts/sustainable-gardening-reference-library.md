@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Sustainable Gardening Reference Library
+## Sustainable Gardening Reference Library
 
 ## Overview
 

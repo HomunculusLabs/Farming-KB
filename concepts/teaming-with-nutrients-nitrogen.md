@@ -7,7 +7,7 @@ tags: [nitrogen, plant-nutrition, soil-science, soil-food-web, fertilizer, ferti
 sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 ---
 
-# Nitrogen as a Plant Nutrient
+## Nitrogen as a Plant Nutrient
 
 updated: 2026-04-21
 
@@ -39,7 +39,7 @@ Source: Teaming with Nutrients (Lowenfels), Chapter 4
 
 ## Merged: Teaming With Nutrients Phosphorus
 
-# Phosphorus as a Plant Nutrient
+## Phosphorus as a Plant Nutrient
 
 updated: 2026-04-21
 

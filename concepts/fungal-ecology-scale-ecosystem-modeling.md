@@ -4,7 +4,7 @@ source: 'john-dighton-fungi-in-ecosystem-processes.md'
 type: concept
 ---
 
-# Scale and Modeling in Fungal Ecology
+## Scale and Modeling in Fungal Ecology
 
 > A [[holmgren-permaculture-flower-conceptual-framework]] for understanding how fungal processes at the hyphal scale translate to
 > ecosystem- and landscape-level outcomes, and the modeling approaches that bridge these gaps.

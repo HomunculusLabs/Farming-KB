@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Mikania (Mile-a-Minute)
+## Mikania (Mile-a-Minute)
 
 ## Description
 

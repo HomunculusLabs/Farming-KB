@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Nitrogen (N)
+## Cannabis Nitrogen (N)
 
 ## Overview
 

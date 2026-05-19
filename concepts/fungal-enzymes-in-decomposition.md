@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Fungal Enzymes in Decomposition
+## Fungal Enzymes in Decomposition
 
 Fungi produce a remarkable arsenal of extracellular enzymes that enable them
 to decompose complex plant polymers, including cellulose, hemicellulose, and

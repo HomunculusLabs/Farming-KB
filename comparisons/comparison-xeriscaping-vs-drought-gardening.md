@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Xeriscaping vs Drought Gardening
+## Xeriscaping vs Drought Gardening
 
 ## Overview
 

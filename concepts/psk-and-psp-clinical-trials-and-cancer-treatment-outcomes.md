@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# PSK and PSP Clinical Trials and Cancer Treatment Outcomes
+## PSK and PSP Clinical Trials and Cancer Treatment Outcomes
 
 PSK and PSP, both derived from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], represent the most clinically validated mushroom-derived cancer therapeutics. PSK has been used for decades in Japan while PSP has been developed primarily in China. This concept reviews their clinical trial evidence across multiple cancer types.
 

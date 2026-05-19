@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Prevent Hermaphrodite Cannabis Plants
+## How to Prevent Hermaphrodite Cannabis Plants
 
 ## Short Answer
 Hermaphrodite cannabis plants develop both male and female sex organs,

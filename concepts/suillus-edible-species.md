@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Suillus Edible Species
+## Suillus Edible Species
 
 Suillus is a large genus of ectomycorrhizal bolete mushrooms characterized by their association with conifer trees, particularly pines. Many Suillus species are edible and some are among the most commonly collected wild mushrooms in pine forests worldwide, though their culinary reputation varies considerably among species.
 

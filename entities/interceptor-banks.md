@@ -5,7 +5,7 @@ type: entity
 tags: [technique, earthworks, dryland, salinity, soil-conservation, permaculture]
 ---
 
-# Interceptor Banks
+## Interceptor Banks
 
 ## Description
 

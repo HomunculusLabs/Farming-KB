@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Grain Spawn vs Grain-to-Grain Transfer
+## Grain Spawn vs Grain-to-Grain Transfer
 ## Overview
 Grain [[accessible-mushroom-cultivation-for-disabilities]] process. Grain spawn serves as the foundational inoculum that
 introduces mycelium into bulk substrates, where each individual grain kernel acts as a

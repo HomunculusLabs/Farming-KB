@@ -1,4 +1,8 @@
-# Foliar Feeding with Fish Emulsion and Liquid Kelp
+---
+title: "Foliar Feeding with Fish Emulsion and Liquid Kelp"
+tags:
+  - concept
+---
 **Source:** Gardening When It Counts - Steve Solomon (2005)
 
 ## Overview

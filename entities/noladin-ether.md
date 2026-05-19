@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Noladin Ether
+## Noladin Ether
 
 **Type:** Chemical Compound (Endocannabinoid)
 **Category:** Endogenous Cannabinoid

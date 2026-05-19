@@ -10,7 +10,7 @@ topics:
   - computational-biology
 ---
 
-# Mathematical Modelling of Fungal Mycelia
+## Mathematical Modelling of Fungal Mycelia
 
 ## Overview
 

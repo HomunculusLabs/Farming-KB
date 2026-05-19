@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Cannabis Strains — Genetics, Types, and Potency
+## Cannabis Strains — Genetics, Types, and Potency
 
 ## Overview
 

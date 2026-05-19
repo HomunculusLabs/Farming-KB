@@ -11,7 +11,7 @@ sources:
   - https://www.wikileaf.com/strain/gmo-cookies/
 ---
 
-# GMO (Garlic Cookies)
+## GMO (Garlic Cookies)
 
 **GMO**, also known as **Garlic Cookies**, is a potent indica-dominant hybrid cannabis strain created by crossing **[[vic-high-cannabis-genetics-mendelian-inheritance]].
 

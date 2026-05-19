@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Cosubstrate-Enhanced Bioremediation The use of cosubstrates in fungal bioremediation is a critical strategy for enhancing the degradation of persistent environmental pollutants. Cosubstrates provide carbon and energy sources that support fungal growth and induce the production of degradative enzymes, particularly [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) by white-rot fungi depends on an ample supply of a suitable carbon cosubstrate.
+## Fungal Cosubstrate-Enhanced Bioremediation The use of cosubstrates in fungal bioremediation is a critical strategy for enhancing the degradation of persistent environmental pollutants. Cosubstrates provide carbon and energy sources that support fungal growth and induce the production of degradative enzymes, particularly [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) by white-rot fungi depends on an ample supply of a suitable carbon cosubstrate.
 
 The cosubstrate serves multiple functions: it supports fungal biomass production, induces ligninolytic enzyme synthesis (which is often subject to catabolite repression by readily metabolizable carbon sources), and may modify the bioavailability of target pollutants through surfactant-like effects or solubilization.
 

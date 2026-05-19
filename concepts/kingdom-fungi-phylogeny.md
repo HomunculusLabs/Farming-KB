@@ -6,7 +6,7 @@ tags: [mycology, phylogeny, taxonomy, kingdom-fungi, ascomycota, basidiomycota]
 created: 2026-05-09
 ---
 
-# Kingdom Fungi Phylogeny
+## Kingdom Fungi Phylogeny
 
 The Kingdom Fungi comprises a monophyletic group of eukaryotic organisms that
 are distinct from plants, animals, and protists. Modern molecular phylogenetic

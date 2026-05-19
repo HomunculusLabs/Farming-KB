@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# Capuli Cherry (*Prunus salicifolia*)
+## Capuli Cherry (*Prunus salicifolia*)
 
 ## Overview
 

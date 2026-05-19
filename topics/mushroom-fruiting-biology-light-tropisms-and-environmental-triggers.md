@@ -28,7 +28,7 @@ related_concepts:
   - working-with-agar-guide
 ---
 
-# Mushroom Fruiting Biology: Light, Tropisms, and Environmental Triggers
+## Mushroom Fruiting Biology: Light, Tropisms, and Environmental Triggers
 
 ## Introduction
 

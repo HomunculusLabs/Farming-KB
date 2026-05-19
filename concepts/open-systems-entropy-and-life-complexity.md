@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Open Systems, Entropy, and Life Complexity
+## Open Systems, Entropy, and Life Complexity
 
 ## Thermodynamics and Living Systems
 

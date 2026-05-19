@@ -6,7 +6,7 @@ created: 2026-05-09
 source: Gardening When It Counts (Steve Solomon)
 ---
 
-# Intensive Vegetable Spacing Systems
+## Intensive Vegetable Spacing Systems
 
 Intensive vegetable spacing refers to methods of arranging plants closer together than traditional row-based gardening. Steve Solomon's *Gardening When It Counts* critically examines various spacing philosophies, arguing that closer spacing demands proportionally higher soil fertility and water availability — resources that may be scarce during hard times.
 

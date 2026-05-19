@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Toadstool Eating and Mushroom Identification History
+## Toadstool Eating and Mushroom Identification History
 
 The history of [[mushroom-identification]] and the cultural fear of "toadstools" in
 19th-century America represents a fascinating intersection of folk belief,

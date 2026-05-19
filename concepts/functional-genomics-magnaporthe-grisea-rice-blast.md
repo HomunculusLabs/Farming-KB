@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Functional Genomics of *Magnaporthe grisea* — Rice Blast Fungus
+## Functional Genomics of *Magnaporthe grisea* — Rice Blast Fungus
 
 ## Overview
 

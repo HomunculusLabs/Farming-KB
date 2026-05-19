@@ -7,7 +7,7 @@ tags: [plants, medicine, health, neuroscience, pharmacology, preparation, specie
 sources: []
 ---
 
-# Nootropic Herbs Guide
+## Nootropic Herbs Guide
 
 ## Overview
 

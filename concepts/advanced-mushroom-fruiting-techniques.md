@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Advanced Mushroom Fruiting Techniques
+## Advanced Mushroom Fruiting Techniques
 
 Beyond standard [[mushroom-species-cultivation-parameters]], several advanced techniques can significantly enhance mushroom fruiting yields, control the timing and placement of fruiting, and even elicit novel metabolites from fungal biomass. These methods range from microbial [[casing-soil]] amendments to [[electrical-stimulation-mushroom-cultivation]] and hormonal extracts.
 

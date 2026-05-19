@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Cell Membrane Transport Proteins: Channels, Carriers, and Pumps
+## Plant Cell Membrane Transport Proteins: Channels, Carriers, and Pumps
 
 Every nutrient that enters or leaves a plant cell must cross at least one membrane. The plasmalemma (outer membrane) and tonoplast (vacuolar membrane) are studded with transport proteins -- each designed for specific ions or molecules. Plants dedicate enormous amounts of DNA to producing these proteins, reflecting their critical importance.
 

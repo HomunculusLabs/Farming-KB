@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Aquatic Plant Systems in Permaculture
+## Aquatic Plant Systems in Permaculture
 
 [[aquatic-plant-systems]] are among the most productive and underutilized elements in [[permaculture-design]]. Bill Mollison emphasized that plant aquaculture has been neglected compared to fish aquaculture, yet aquatic plants can yield extraordinary biomass, filter water, cycle nutrients, and provide food, fodder, and construction materials. Ponds and water systems designed as integrated polycultures become multi-functional engines of productivity within a permaculture landscape.
 

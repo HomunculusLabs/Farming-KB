@@ -16,7 +16,7 @@ sources:
   - Pereira, L. (2016). "Edible Seaweeds of the World." CRC Press.
   - Marinho-Soriano, E. et al. (2006). "chemical-composition-of-hallucinogens and physiological response of the seaweed." Journal of Applied Phycology, 18(3–5), 415–420.---
 
-# Laminaria digitata
+## Laminaria digitata
 
 ## Overview
 

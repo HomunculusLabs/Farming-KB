@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Biomass as Biosorbent Material for Metal Removal
+## Fungal Biomass as Biosorbent Material for Metal Removal
 
 [[diffusion-osmosis-and-active-transport-in-plants]] of metals into the cell interior. In most filamentous
 fungi, metabolism-dependent uptake is small or negligible compared to

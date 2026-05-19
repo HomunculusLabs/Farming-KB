@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Difficult Soils — Concretions, Pans, and Non-Wetting Sands
+## Difficult Soils — Concretions, Pans, and Non-Wetting Sands
 
 ## Overview
 

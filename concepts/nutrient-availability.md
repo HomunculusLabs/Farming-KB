@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Nutrient Availability in Plants
+## Nutrient Availability in Plants
 
 Nutrient availability refers to the proportion of nutrients present in the soil that are actually accessible for plant uptake. A nutrient may be abundant in the soil yet entirely unavailable to plants if chemical, physical, or biological conditions prevent its absorption. Understanding what makes nutrients available — and what limits their availability — is central to successful organic gardening.
 

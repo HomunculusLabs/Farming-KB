@@ -14,7 +14,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Rhizopogon vinicolor
+## Rhizopogon vinicolor
 
 ## Taxonomy
 

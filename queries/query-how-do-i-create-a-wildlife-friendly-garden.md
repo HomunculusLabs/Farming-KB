@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# How Do I Create a Wildlife-Friendly Garden?
+## How Do I Create a Wildlife-Friendly Garden?
 
 ## Short Answer
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Psilocybe Woodlovers Species and Cultivation Guide
+## Psilocybe Woodlovers Species and Cultivation Guide
 
 Wood-loving (lignicolous) Psilocybe species are among the most potent psilocybin-containing mushrooms, naturally found growing on decaying wood debris in temperate and subtropical regions. Their cultivation outdoors on wood chip beds is one of the lowest-maintenance approaches to [[psilocybin-north-america-pacific-northwest]] but now widely distributed through human activity. One of the most potent [[polypore-fungi-eastern-north-america]] American species found on wood chips near streams
 

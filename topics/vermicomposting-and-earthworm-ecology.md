@@ -18,7 +18,7 @@ related_concepts:
   - ingham-thermal-compost-versus-worm-compost
 ---
 
-# Vermicomposting and Earthworm Ecology
+## Vermicomposting and Earthworm Ecology
 
 Vermicomposting is the process of using earthworms to transform organic
 waste into vermicast, one of the finest soil amendments available to

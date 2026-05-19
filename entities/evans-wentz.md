@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: entity
 ---
 
-# W. Y. Evans-Wentz
+## W. Y. Evans-Wentz
 
 ## Description
 

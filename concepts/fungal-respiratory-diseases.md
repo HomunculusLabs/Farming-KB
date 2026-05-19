@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
-# Fungal Respiratory Diseases Fungal diseases of the respiratory system range from benign allergic reactions to life-threatening invasive infections. As documented in [[aspergillus-fumigatus]]* and related species, is the most common invasive mold infection worldwide. *A. fumigatus* produces vast quantities of airborne conidia (2-10 billion per day from a single colony) that are small enough (2-3 micrometers) to reach the deep lung. In immunocompetent individuals, these spores are efficiently cleared by alveolar macrophages. In immunocompromised patients — particularly those with neutropenia from chemotherapy or organ transplant immunosuppression — the fungus can establish invasive disease with mortality rates exceeding 50%.
+## Fungal Respiratory Diseases Fungal diseases of the respiratory system range from benign allergic reactions to life-threatening invasive infections. As documented in [[aspergillus-fumigatus]]* and related species, is the most common invasive mold infection worldwide. *A. fumigatus* produces vast quantities of airborne conidia (2-10 billion per day from a single colony) that are small enough (2-3 micrometers) to reach the deep lung. In immunocompetent individuals, these spores are efficiently cleared by alveolar macrophages. In immunocompromised patients — particularly those with neutropenia from chemotherapy or organ transplant immunosuppression — the fungus can establish invasive disease with mortality rates exceeding 50%.
 
 The fungus grows as branching hyphae within lung tissue, invading blood vessels and causing hemorrhagic infarction. Treatment relies on azole antifungals (voriconazole, posaconazole) or amphotericin B.
 

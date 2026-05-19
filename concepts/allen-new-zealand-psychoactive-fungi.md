@@ -5,11 +5,11 @@ tags: [new-zealand, psilocybin, psychoactive-fungi, distribution,
   copelandia, psilocybe, auckland, indigenous, allen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 type: concept
 ---
 
-# New Zealand Psychoactive Fungi: Species and Distribution
+## New Zealand Psychoactive Fungi: Species and Distribution
 
 New Zealand shares many [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] and different
 [[horse-dung-rice-grain-substrate-preparation]] in pastures.

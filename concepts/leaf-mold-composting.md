@@ -7,7 +7,7 @@ tags: [composting, compost, soil-building, methods, soil, decomposition, regener
 sources: []
 ---
 
-# Leaf Mold Composting
+## Leaf Mold Composting
 
 Leaf mold is the product of decomposed leaves, broken down primarily by fungi rather than the bacteria that dominate traditional composting. The result is a dark, crumbly, earthy-smelling material that is an exceptional soil conditioner. While not as nutrient-rich as finished compost, leaf mold excels at improving soil structure, water retention, and microbial habitat. It is one of the simplest and most rewarding composting methods available, requiring minimal effort and no purchased inputs.
 

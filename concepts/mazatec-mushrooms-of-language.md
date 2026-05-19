@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms]
 sources: ["raw/papers/harner-j-hallucinogens-and-shamanism.md"]
 ---
-# Mazatec Mushrooms of Language Henry Munn's essay "The Mushrooms of Language," published in [[worldwide-distribution-psilocybin-mushrooms]]
+## Mazatec Mushrooms of Language Henry Munn's essay "The Mushrooms of Language," published in [[worldwide-distribution-psilocybin-mushrooms]]
 - [[tryptamine-logos-language]]
 - [[tryptamine-glossolalia-and-language]]
 

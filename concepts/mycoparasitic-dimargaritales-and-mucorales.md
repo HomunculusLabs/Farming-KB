@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Mycoparasitic Dimargaritales and Mucorales
+## Mycoparasitic Dimargaritales and Mucorales
 
 Mycoparasitism — the parasitism of one fungus by another — is a widespread ecological strategy within the basal fungal lineages. Within the Zygomycota (or subphylum Mucoromycotina), two orders stand out for their diverse array of mycoparasitic taxa: the **Dimargaritales** and the **Mucorales**. These fungi range from obligate biotrophs to facultative parasites and saprotrophs, employing a variety of specialized morphological structures (haustoria, capturing hyphae, appressoria) to exploit host fungi. Their nutritional demands are often highly specific, reflecting tight co-evolutionary relationships with their hosts and constraints imposed by their biotrophic lifestyles.
 

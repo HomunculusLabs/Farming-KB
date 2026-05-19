@@ -9,7 +9,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
-# Fukuoka Desert Greening Techniques Detailed
+## Fukuoka Desert Greening Techniques Detailed
 
 Fukuoka's desert greening methods center on his core [[coleman-first-rule-nature-makes-sense]] some adjustments. The third year, one can plan.
 

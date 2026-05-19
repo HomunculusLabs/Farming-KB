@@ -6,7 +6,7 @@ tags: [cannabis, pharmacokinetics, administration, vaporization, edibles, tinctu
 created: 2026-05-08
 ---
 
-# Cannabis Modes of Administration and Pharmacokinetics
+## Cannabis Modes of Administration and Pharmacokinetics
 
 Cannabis is used medicinally in a wide variety of forms, each with distinct pharmacokinetic profiles that affect onset time, duration of effect, bioavailability, and therapeutic appropriateness for different conditions. Understanding these differences is essential for patients seeking to optimize their therapeutic outcomes while minimizing [[cannabis-drying-and-curing]]. It can be consumed via inhalation (smoking or vaporization) or processed into extracts. The THC content of dried flower varies significantly by strain, [[eclss-environmental-control-life-support]] but may produce flower with a narrower spectrum of [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]. Hashish is heated and pressed kief. These concentrated forms provide higher cannabinoid density per unit weight, requiring smaller quantities for therapeutic effect. The concentration process also enriches terpene content proportionally, potentially enhancing therapeutic outcomes through the entourage effect.
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Soil Food Web vs Biochar
+## Soil Food Web vs Biochar
 
 ## Overview
 

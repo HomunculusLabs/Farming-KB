@@ -12,7 +12,7 @@ related_concepts:
   - integrated-pest-management
 ---
 
-# Plant Viral and Bacterial Diseases
+## Plant Viral and Bacterial Diseases
 
 Plant diseases caused by viruses and bacteria represent some of the most
 challenging threats to global agriculture. Unlike [[cannabis-disease-pest-resistance-breeding-clarke]], and vector control.

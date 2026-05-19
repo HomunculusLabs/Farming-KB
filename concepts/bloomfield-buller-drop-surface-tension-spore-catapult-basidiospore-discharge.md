@@ -1,5 +1,10 @@
+---
+title: "Bloomfield Buller Drop Surface Tension Spore Catapult Basidiospore Discharge"
+tags:
+  - concept
+---
 
-# Buller's Drop and the Surface Tension Spore Catapult
+## Buller's Drop and the Surface Tension Spore Catapult
 
 ## Overview
 
@@ -143,6 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[bloomfield-amatoxin-poisoning-mechanism]]
 - [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
-- [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]
-- [[bloomfield-cordyceps-insect-pathogens-behavior]]
-- [[bloomfield-ergot-claviceps-purpurea-ergotism]]

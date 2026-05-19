@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Extending the Growing Season
+## Extending the Growing Season
 
 Extending the growing season allows the organic gardener to start crops earlier in spring and continue harvesting later into autumn and winter. A range of protective structures — from simple cloches to heated greenhouse-growing|greenhouses — can add weeks or even months to the productive gardening year.
 

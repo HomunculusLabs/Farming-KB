@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Nutrient Deficiency Guide
+## Cannabis Nutrient Deficiency Guide
 
 ## Overview
 

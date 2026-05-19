@@ -17,7 +17,7 @@ sources:
   - FAO (2023). "FAOSTAT: Lettuce and chicory production data."
 ---
 
-# Lactuca sativa
+## Lactuca sativa
 
 ## Overview
 

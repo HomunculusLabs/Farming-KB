@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [therapy, psilocybin, mental-health, psychiatry, clinical-research]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-psilocybin-mushroom-image-guide.md]
+sources: ["raw/papers/unknown-psilocybin-mushroom-image-guide.md"]
 type: concept
 ---
-# Psilocybin Assisted Therapy
+## Psilocybin Assisted Therapy
 Psilocybin assisted therapy (PAT) is a treatment modality in which
 psilocybin is administered in a controlled clinical setting alongside
 psychotherapeutic support. Unlike conventional pharmacotherapy, which involves

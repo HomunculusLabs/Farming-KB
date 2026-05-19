@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# AACT Brewing Ingredients (Ingham)
+## AACT Brewing Ingredients (Ingham)
 
 Updated: 2026-04-18
 

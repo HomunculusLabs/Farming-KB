@@ -1,4 +1,8 @@
-# Mushroom Poison Myths Debunked
+---
+title: "Mushroom Poison Myths Debunked"
+tags:
+  - concept
+---
 
 ## Overview
 

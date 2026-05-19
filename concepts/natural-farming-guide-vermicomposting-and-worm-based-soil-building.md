@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainabl
 type: concept
 ---
 
-# Vermicomposting and Worm-Based Soil Building
+## Vermicomposting and Worm-Based Soil Building
 
 Raising worms is no more difficult than [[sheet-mulching]]
 

@@ -5,7 +5,7 @@ tags: [ayahuasca, peru, government, tourism, culture, ceremony, festival]
 created: 2026-05-08
 ---
 
-# Peruvian Government Ayahuasca Festivals and Presidential Ceremony Participation
+## Peruvian Government Ayahuasca Festivals and Presidential Ceremony Participation
 
 ## Overview
 

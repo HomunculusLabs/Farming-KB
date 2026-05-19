@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Hot Springs and Geothermal Environments Hot springs and geothermal environments harbor specialized thermophilic and thermotolerant fungi capable of growth at temperatures lethal to most organisms. These extreme environments are windows into the upper temperature limits of fungal life. fungi-in-extreme-acidic-environments [[fungal-sampling-methods]] fungal-functional-diversity [[fungal-sampling-methods]]
+## Fungal Diversity in Hot Springs and Geothermal Environments Hot springs and geothermal environments harbor specialized thermophilic and thermotolerant fungi capable of growth at temperatures lethal to most organisms. These extreme environments are windows into the upper temperature limits of fungal life. fungi-in-extreme-acidic-environments [[fungal-sampling-methods]] fungal-functional-diversity [[fungal-sampling-methods]]
 
 ## Taxonomic and Functional Diversity
 

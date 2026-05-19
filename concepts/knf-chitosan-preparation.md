@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/master-cho-knf-recipe-book.md,
 type: concept
 ---
 
-# KNF Chitosan Preparation
+## KNF Chitosan Preparation
 
 Chitosan is a natural bioactive compound derived from the exoskeletons of
 crustaceans such as crabs and shrimp. In [[comparison-natural-farming-vs-permaculture]]

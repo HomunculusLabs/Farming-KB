@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Carbon Filter Cannabis
+## Carbon Filter Cannabis
 
 Activated carbon (charcoal) filters are the primary tool for controlling [[cannabis-indoor-grow-lighting-systems]] operations. They work by absorbing odor molecules and other airborne
 pollutants as air passes through a bed of activated carbon. When properly set up, a

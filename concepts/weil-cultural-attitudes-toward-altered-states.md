@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [reference]
 ---
-# Weil — Cultural Attitudes Toward Altered States
+## Weil — Cultural Attitudes Toward Altered States
 
 ## The Central Observation
 

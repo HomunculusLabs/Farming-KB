@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: mycology, taxonomy, psilocybin, chemistry, classification
 ---
 
-# Psilocybe Genus Taxonomy and Chemistry
+## Psilocybe Genus Taxonomy and Chemistry
 
 The genus Psilocybe is the largest and most taxonomically complex group
 of [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]] elong to the following sections:

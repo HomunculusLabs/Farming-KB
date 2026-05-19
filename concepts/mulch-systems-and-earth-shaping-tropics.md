@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mulch Systems and Earth-Shaping in the Tropics
+## Mulch Systems and Earth-Shaping in the Tropics
 
 > Chapter 10 — *Permaculture: A Designers' Manual*, [[bill-mollison]]
 

@@ -1,4 +1,8 @@
-# Indigenous Use of Sacred Mushrooms
+---
+title: "Indigenous Use of Sacred Mushrooms"
+tags:
+  - concept
+---
 
 **Tags:** ethnobotany, sacred-mushrooms, mexico, new-guinea, indigenous-culture, entheogen
 
@@ -144,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[psilocybin]]
-- [[det]]
-- [[roger-heim]]

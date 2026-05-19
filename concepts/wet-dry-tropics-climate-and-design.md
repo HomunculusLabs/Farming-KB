@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wet-Dry Tropics Climate and Design
+## Wet-Dry Tropics Climate and Design
 
 ## Overview
 

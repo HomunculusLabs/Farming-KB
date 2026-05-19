@@ -15,7 +15,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Oyster Mushroom Sunflower Seed Hull Substrate
+## Oyster Mushroom Sunflower Seed Hull Substrate
 
 Sunflower seed hulls (SSH) represent an abundant, low-cost, and largely underutilized agricultural residue with significant potential as a [[pleurotus-ostreatus]] cultivation without additional [[biological-efficiency]] rates. This finding is particularly significant because SSH is typically considered a waste product of the edible oil industry with little economic value.
 

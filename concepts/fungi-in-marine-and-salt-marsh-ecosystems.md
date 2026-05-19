@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi in Marine and Salt Marsh Ecosystems
+## Fungi in Marine and Salt Marsh Ecosystems
 
 Marine and coastal ecosystems harbor diverse fungal communities that play critical roles in [[fungal-decomposition|decomposition]], [[nutrient-mineralization-fungi|nutrient cycling]], and food web dynamics. Fungi in these environments occupy niches ranging from submerged wood and salt marsh grasses to mangrove detritus, often functioning under extreme conditions of salinity, fluctuating oxygen availability, and tidal immersion. This page synthesizes current understanding of fungal ecology across five key coastal habitat types and processes.
 

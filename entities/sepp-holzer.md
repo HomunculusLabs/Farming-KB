@@ -25,7 +25,7 @@ sources:
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 ---
 
-# Sepp Holzer
+## Sepp Holzer
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 

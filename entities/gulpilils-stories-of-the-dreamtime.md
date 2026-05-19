@@ -5,7 +5,7 @@ type: entity
 categories: [books, indigenous, culture, australia]
 ---
 
-# Gulpilil's Stories of the Dreamtime
+## Gulpilil's Stories of the Dreamtime
 
 ## Description
 

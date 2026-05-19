@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Plant Pathogen Biocontrol
+## Mycorrhizal Plant Pathogen Biocontrol
 
 [[mycorrhizal-fungi]] — symbiotic associates of plant root systems — defend host
 plants against soil-borne pathogens through physical barriers, chemical

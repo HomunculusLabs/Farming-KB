@@ -15,7 +15,7 @@ topics:
 - mycology
 ---
 
-# Phosphate Supplementation in Psilocybe Cubensis Substrate Design
+## Phosphate Supplementation in Psilocybe Cubensis Substrate Design
 
 ## Overview
 

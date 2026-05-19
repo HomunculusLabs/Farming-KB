@@ -4,7 +4,7 @@ source: [[cotter-casing-soils-microbial-triggers|cotter]]-organic-mushroom-farmi
 type: concept
 ---
 
-# Casing Soils and Microbial Slurries
+## Casing Soils and Microbial Slurries
 
 Casing soils are non-nutritive (or minimally nutritive) layers applied to the surface of fully colonized substrates to create a microenvironment that stimulates fruiting in certain mushroom species. For many species, particularly those that grow on composted manure, grasses, and agricultural wastes in the wild, casing is not merely beneficial but essential — the interaction between [[mycelium]] and specific [[cannabis-rhizosphere-microbial-communities]] in the casing layer is the trigger that initiates fruitbody formation.
 

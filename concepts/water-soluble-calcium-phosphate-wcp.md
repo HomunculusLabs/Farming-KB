@@ -22,7 +22,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# Water-Soluble Calcium Phosphate (WS-CaPo)
+## Water-Soluble Calcium Phosphate (WS-CaPo)
 
 Water-Soluble Calcium Phosphate is a KNF input made by extracting calcium and phosphorus from animal bones using brown rice vinegar (BRV). It is the primary input for the **changeover period** — the critical transition from vegetative to reproductive growth. Calcium phosphate provides the phosphoric acid compounds that plants need to shift their metabolism from leaf production to flower/fruit production.
 

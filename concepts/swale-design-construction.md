@@ -7,7 +7,7 @@ tags: [swales, permaculture, water-management, earthworks, erosion, regenerative
 sources: []
 ---
 
-# Swale Design and Construction
+## Swale Design and Construction
 
 Swales are shallow, level-bottomed ditches excavated on contour — lines of equal elevation across a slope. They capture surface water runoff, slow its movement, and allow it to infiltrate into the soil. Swales are one of the most effective tools in the permaculture toolkit for rehydrating landscapes, preventing erosion, and establishing trees and perennial plantings on slopes.
 

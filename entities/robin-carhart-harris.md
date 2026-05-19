@@ -9,7 +9,7 @@ occupation: [neuroscientist, psychologist, professor, researcher]
 known_for: [psychedelic brain imaging, default mode network research, psilocybin depression trials, neurobiological model of psychedelic action]
 ---
 
-# Robin Carhart-Harris
+## Robin Carhart-Harris
 
 Robin Carhart-Harris (born 1977) is a British neuroscientist and
 professor at the University of California, San Francisco. He

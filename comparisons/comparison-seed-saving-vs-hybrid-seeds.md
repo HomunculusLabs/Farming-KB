@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Seed Saving vs Hybrid Seeds
+## Seed Saving vs Hybrid Seeds
 
 ## Overview
 Seed saving and hybrid seeds represent fundamentally different

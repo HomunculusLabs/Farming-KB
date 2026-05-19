@@ -20,7 +20,7 @@ sources:
   - "Oh, I. et al. (2015). \"Anti-inflammatory effects of Agastache rugosa Kuntze extract.\" BioMed Research International, 2015, 475683."
 ---
 
-# Korean Mint (*Agastache rugosa* (Fisch. & C.A.Mey.) Kuntze)
+## Korean Mint (*Agastache rugosa* (Fisch. & C.A.Mey.) Kuntze)
 
 ## Overview
 

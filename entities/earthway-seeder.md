@@ -5,7 +5,7 @@ type: entity
 tags: [tool, seeding, precision-seeding, field-equipment]
 ---
 
-# EarthWay Seeder
+## EarthWay Seeder
 
 ## Description
 

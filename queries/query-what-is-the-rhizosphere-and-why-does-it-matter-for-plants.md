@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# What Is the Rhizosphere and Why Does It Matter for Plants?
+## What Is the Rhizosphere and Why Does It Matter for Plants?
 
 ## Short Answer
 

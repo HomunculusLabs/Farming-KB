@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# A Modest Proposal for Drug Policy Reform
+## A Modest Proposal for Drug Policy Reform
 
 In the closing chapters of Food of the Gods, McKenna moves from historical analysis to political prescription. His nine-point proposal for drug policy reform represents his most concrete attempt to translate the [[dmt-containing-plants-united-states-halpern]], the federal government's zeal to appear to wish to eradicate drugs is directly linked to the degree to which the government has been co-opted by the values of [[shamanism]] that heralds the abandonment of the monkey body and tribal group that has always been our context. The age of the imagination is dawning.
 

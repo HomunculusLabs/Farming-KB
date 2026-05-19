@@ -1,4 +1,8 @@
-# Row Gardening vs. Intensive Methods (Solomon)
+---
+title: "Row Gardening vs. Intensive Methods (Solomon)"
+tags:
+  - concept
+---
 
 ## Overview
 

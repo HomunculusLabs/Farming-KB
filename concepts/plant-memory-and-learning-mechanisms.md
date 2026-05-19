@@ -4,7 +4,7 @@ mined: 2026-05-08
 tags: [botany, plant-memory, epigenetics, priming, tropisms, learning]
 ---
 
-# [[coleman-winter-day-length-and-persephone-months]] — is a
+## [[coleman-winter-day-length-and-persephone-months]] — is a
 classic example. Plants must "remember" the duration of each dark period
 across multiple consecutive days to determine the correct time for
 flowering. This involves the gradual accumulation of specific proteins.

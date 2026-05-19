@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Phosphorus Solubilization
+## Fungal Phosphorus Solubilization
 
 Fungal phosphorus solubilization is the process by which fungi convert
 insoluble forms of phosphorus in soil into soluble forms that are

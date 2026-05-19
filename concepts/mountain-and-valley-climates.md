@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mountain and Valley Climates
+## Mountain and Valley Climates
 
 Mountain and valley systems create some of the most dynamic and varied microclimates on Earth. Understanding these climate patterns is essential for [[bill-mollison]]'s *Permaculture: [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]*, and translated into practical design guidance.
 

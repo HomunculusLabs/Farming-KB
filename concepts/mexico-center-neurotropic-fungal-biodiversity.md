@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mexico as Center of Neurotropic Fungal Biodiversity
+## Mexico as Center of Neurotropic Fungal Biodiversity
 
 ## Overview
 

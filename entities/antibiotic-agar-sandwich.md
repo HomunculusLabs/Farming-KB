@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Description
+## Description
 
 The antibiotic agar sandwich is a laboratory technique for purifying mushroom [[mycelium]]
 cultures that have been contaminated with bacteria. The method exploits the ability of
@@ -23,13 +23,13 @@ help metabolize waste products, functioning much like a biological septic system
 symbiotic bacteria are difficult to remove from wild isolates without specialized
 techniques like the antibiotic agar sandwich.
 
-# Classification
+## Classification
 
 Category: Laboratory technique and culture purification. Domain: [[mycology]], aseptic
 technique. Related techniques: streak testing, still-air transfer, sectoring, culture
 rescue.
 
-# Key Facts
+## Key Facts
 
 The antibiotic agar formula was recommended by Dr. Bob Blanchette from the University of
 Minnesota for screening cultures through one or two transfers before switching them back
@@ -50,7 +50,7 @@ contaminants without harming the target mushroom mycelium. Lactic acid adjusts t
 favor fungal growth over bacterial growth. Yeast extract provides B-vitamins and growth
 factors supporting mycelial recovery.
 
-# Procedure
+## Procedure
 
 Pour antibiotic-supplemented agar plates using the formula above. Place the bacteria-
 contaminated mycelium on one side of the plate. Cut a large wedge of antibiotic agar and
@@ -66,7 +66,7 @@ antibiotic-free medium, as extended use of antibiotics may stress the mycelium. 
 technique specifically targets bacterial contamination and does not address mold
 contamination, which requires still-air transfer rescue instead.
 
-# Relevance to Cultivation
+## Relevance to Cultivation
 
 Wild-collected fungal specimens frequently harbor bacteria that contaminate tissue
 cultures and spore germination plates. The antibiotic agar sandwich provides a reliable

@@ -5,10 +5,10 @@ type: species
 tags: [psilocybe, neurotropic, mexico, agaricales, strophariaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe muliercula
+## Psilocybe muliercula
 
 **Psilocybe muliercula** is a species of neurotropic mushroom in the family Strophariaceae, originally described from Mexico. It is one of the lesser-known psilocybin-containing fungi documented in the comprehensive [[biodiversity-fungal-biodiversity-estimation-methods]] of Mexico, which possesses the highest diversity of neurotropic fungi of any country on Earth.
 

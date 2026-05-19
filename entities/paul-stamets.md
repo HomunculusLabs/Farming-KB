@@ -10,7 +10,7 @@ sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
-# Paul Stamets
+## Paul Stamets
 
 American mycologist, author, and entrepreneur. Founder of Fungi Perfecti, a company specializing in gourmet and medicinal mushroom products. Based in the Pacific Northwest (Olympic Peninsula, Washington). One of the most influential figures in popular mycology, known for bridging academic research with practical cultivation.
 

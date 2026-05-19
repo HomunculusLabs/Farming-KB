@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungal Enzymatic Capabilities
+## Fungal Enzymatic Capabilities
 
 Extracellular enzyme systems of fungi: lignin degradation, cellulose decomposition, chitinases, phosphatases, proteases, and applications in bioremediation and biotechnology. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-enzyme-systems-bioremediation]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-ecology-decomposition-cycles]], and [[mycoremediation-basics]].
 

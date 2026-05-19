@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-secret-life-of-plants-peter-tompkins-christop.md"
 ---
 
-# Jagadis Chandra Bose
+## Jagadis Chandra Bose
 
 Sir jagadis chandra bose Bose (1858–1937) was a Bengali polymath and pioneering
 scientist who made foundational contributions to both physics and [[plant-electrophysiology]], and his philosophical position —

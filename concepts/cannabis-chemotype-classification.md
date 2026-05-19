@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis-chemotype-classification-cannabinoid-breeding
+title: "Cannabis Chemotype Classification"
 created: 2026-04-28
 tags:
   - cannabis
@@ -12,7 +12,7 @@ sources:
   - "raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md"
 type: concept
 ---
-# Cannabis Chemotype Classification
+## Cannabis Chemotype Classification
 Cannabis chemotype classification organizes the species by its chemical
 constituents rather than morphological traits or folk taxonomy. This
 approach, pioneered by Ernest Small in the 1970s and refined by modern

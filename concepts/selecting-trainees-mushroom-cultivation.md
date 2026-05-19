@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Selecting Trainees for [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
+## Selecting Trainees for [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
 
 Selection of trainees is a critical component in ensuring sustainability
 and replicability of mushroom farms on a private [[query-how-do-you-grow-and-process-tea-at-home]] must

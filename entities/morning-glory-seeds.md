@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: entity
 ---
 
-# Morning Glory Seeds
+## Morning Glory Seeds
 
 ## Description
 

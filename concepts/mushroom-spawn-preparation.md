@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, spawn, grain-spawn]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Mushroom Spawn Preparation Spawn is the living fungal inoculum used to start agar-to-grain transfer) or injected directly into substrate bags. Advantages include rapid colonization and precise dosing. Disadvantages include shorter shelf life (1--4 weeks) and less tolerance of rough handling. ## Spawn Production Workflow ### 1. Culture Maintenance The process begins with a pure culture on [[comparison-laminar-flow-hood-vs-fruiting-chamber]] (laminar flow cabinet)**: Gold standard. HEPA-filtered air
+## Mushroom Spawn Preparation Spawn is the living fungal inoculum used to start agar-to-grain transfer) or injected directly into substrate bags. Advantages include rapid colonization and precise dosing. Disadvantages include shorter shelf life (1--4 weeks) and less tolerance of rough handling. ## Spawn Production Workflow ### 1. Culture Maintenance The process begins with a pure culture on [[comparison-laminar-flow-hood-vs-fruiting-chamber]] (laminar flow cabinet)**: Gold standard. HEPA-filtered air
   creates a sterile workspace.
 - **Still [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] under sterile conditions. The jar is shaken to
 distribute the inoculum throughout the grain, then incubated.

@@ -1,5 +1,5 @@
 ---
-title: bionutrients-lab-fermented-plant-juice-fpj (FPJ)
+title: "Fermented Plant Juice Fpj"
 source: chos-global-natural-farming.md
 tags:
   - natural-farming
@@ -8,7 +8,7 @@ tags:
   - plant-growth
   - cho-han-kyu
 ---
-# Fermented Plant Juice (FPJ)
+## Fermented Plant Juice (FPJ)
 
 Fermented Plant Juice (FPJ) is a core [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] while preserving their biological activity. The result is a dark amber liquid that contains:
 

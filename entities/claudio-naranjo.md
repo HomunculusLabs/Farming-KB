@@ -5,7 +5,7 @@ type: entity
 tags: [person, psychiatrist, ayahuasca, yage, hallucinogen-research]
 ---
 
-# Claudio Naranjo
+## Claudio Naranjo
 
 ## Description
 

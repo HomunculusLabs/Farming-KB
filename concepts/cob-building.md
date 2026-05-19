@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Cob Building
+## Cob Building
 
 Cob is an ancient building technique using a mixture of clay, sand, water, and straw to create monolithic sculpted walls. Unlike adobe (which uses pre-formed bricks), cob is built up as wet masses directly on the wall, allowing great design freedom and organic shapes. Cob has been used worldwide for thousands of years and remains one of the most accessible [[comparison-cob-construction-vs-straw-bale-construction]], [[homesteading-infrastructure]].
 

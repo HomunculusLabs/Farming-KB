@@ -24,7 +24,7 @@ sources:
   - Pfaffenrath, V. et al. (2002). "Migraine prevention with feverfew." Cephalalgia 22(7): 522–530.
 ---
 
-# Tanacetum parthenium
+## Tanacetum parthenium
 
 ## Overview
 

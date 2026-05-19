@@ -15,7 +15,7 @@ tags:
   - japan
 ---
 
-# No-Till Rice-Barley-Clover Succession
+## No-Till Rice-Barley-Clover Succession
 
 The **direct-seeded, no-tillage, winter grain/rice succession in a clover cover** is the core agricultural method developed by Masanobu Fukuoka on his farm in Ehime Prefecture, Japan. This method produces roughly 22 bushels of rice and 22 bushels of winter grain (barley or wheat) per quarter-acre annually, without plowing, [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. This careful balance — suppressing the clover without killing it — is characteristic of Fukuoka's approach: work with natural processes, don't destroy them.
 

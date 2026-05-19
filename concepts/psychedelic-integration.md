@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Psychedelic Integration
+## Psychedelic Integration
 
 ## Overview
 

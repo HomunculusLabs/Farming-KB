@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I keep goats on a permaculture homestead?
+## How do I keep goats on a permaculture homestead?
 
 ## Short Answer
 Keep goats only if you can provide excellent fencing, dry shelter, daily observation, and a clear job for them in the farm system.

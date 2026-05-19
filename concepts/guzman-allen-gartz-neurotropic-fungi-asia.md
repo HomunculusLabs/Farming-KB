@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi of Asia: Distribution, Taxonomy, and Ethnobotany
+## Neurotropic Fungi of Asia: Distribution, Taxonomy, and Ethnobotany
 
 Asia represents one of the most complex and understudied regions for neurotropic fungi diversity. While Mexico and South America host the greatest number of described species, Asia's vast territory spanning boreal, temperate, subtropical, and tropical zones harbors significant mycological diversity that remains poorly documented. The Asian neurotropic mycota includes representatives from nearly every genus known to contain psychoactive compounds, from temperate-zone Amanita species to tropical Copelandia and Psilocybe.
 

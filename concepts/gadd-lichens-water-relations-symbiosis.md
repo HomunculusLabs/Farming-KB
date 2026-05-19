@@ -6,7 +6,7 @@ tags: [mycology, lichenology, symbiosis, water-relations, poikilohydry, cryptoen
 created: 2026-05-09
 ---
 
-# Water Relations in Lichens: Symbiotic Adaptation to Environmental Extremes
+## Water Relations in Lichens: Symbiotic Adaptation to Environmental Extremes
 
 ## Overview
 

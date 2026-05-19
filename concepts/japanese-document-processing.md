@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [japanese, typography, text-processing, internationalization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Japanese Document Processing
+## Japanese Document Processing
 
 Japanese document processing encompasses the technical challenges and
 solutions involved in creating, editing, rendering, and managing documents

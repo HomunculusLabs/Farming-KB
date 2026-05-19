@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Manure Quality Variability and Fertilizer Value
+## Manure Quality Variability and Fertilizer Value
 
 [[spawn-storage-conditions]]. This variability makes manure an unpredictable fertilizer that can actively harm gardens if relied upon uncritically.
 

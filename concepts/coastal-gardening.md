@@ -7,7 +7,7 @@ tags: [gardening, coastal, climate, plants, water-management, conservation, ecol
 sources: []
 ---
 
-# Coastal Gardening
+## Coastal Gardening
 
 ## Overview
 

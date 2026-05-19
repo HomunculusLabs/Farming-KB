@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Castor (Ricinus communis)
+## Castor (Ricinus communis)
 
 The castor oil plant ([[chamovitz-photoperiodism-agricultural-applications]].
 

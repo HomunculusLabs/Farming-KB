@@ -6,7 +6,7 @@ tags: [gardening, crop-rotation, ley-farming, soil-health, sustainable-agricultu
 created: 2026-05-08
 ---
 
-# Crop Rotation and Ley Farming
+## Crop Rotation and Ley Farming
 
 ## Overview
 

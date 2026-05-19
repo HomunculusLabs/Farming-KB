@@ -12,7 +12,7 @@ sources:
 type: concept
 ---
 
-# Gigantism, Intermediate Technology and Small Scale
+## Gigantism, Intermediate Technology and Small Scale
 
 holmgren-small-slow-solutions-detailed,
 holmgren-permaculture-change-principle,

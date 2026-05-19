@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Radiation and Heat Storage in Design
+## Radiation and Heat Storage in Design
 
 Radiation — the transfer of heat through electromagnetic waves — is one of the most powerful forces shaping site design in [[permaculture-design]] is that radiation is not a problem to be solved but a force to be directed. Every element on a site — buildings, trees, water bodies, rocks, and even the ground itself — either absorbs, reflects, stores, or transmits radiation. By arranging these elements thoughtfully, the designer can create self-regulating systems where:
 

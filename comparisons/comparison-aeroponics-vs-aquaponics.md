@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Aeroponics vs Aquaponics
+## Aeroponics vs Aquaponics
 ## Overview
 Aeroponics and aquaponics are two advanced soilless growing systems that eliminate
 traditional growing media in favor of recirculating nutrient solutions. Aeroponics

@@ -7,7 +7,7 @@ tags: [gardening, pest-control, pest-management, insects, troubleshooting, veget
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Garden Insect Identification
+## Garden Insect Identification
 
 Common garden insect pests as described in [[steve-solomon]]'s *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
 

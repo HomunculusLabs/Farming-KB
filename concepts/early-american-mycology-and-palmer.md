@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Early American Mycology and Julius Palmer
+## Early American Mycology and Julius Palmer
 
 ## The State of American Mycology in the Late 19th Century
 

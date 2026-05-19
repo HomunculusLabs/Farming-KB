@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Quarter-Acre Farming and Self-Sufficiency
+## Quarter-Acre Farming and Self-Sufficiency
 One of [[fukuoka-textdoc-production-costs-not-coming-down]] are zero.
 If all farmers thought along these lines, crop prices everywhere would
 settle to the same level and would no longer be needed. Prices are a

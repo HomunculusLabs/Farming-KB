@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Mullein vs Tulsi
+## Mullein vs Tulsi
 
 ## Overview
 

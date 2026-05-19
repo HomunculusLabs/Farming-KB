@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Animal Days and Forage Measurement
+## Animal Days and Forage Measurement
 
 In [[savory-holistic-management-overview]] require a thorough understanding
 of ADA and how to use them. Since Andre Voisin first developed the concept

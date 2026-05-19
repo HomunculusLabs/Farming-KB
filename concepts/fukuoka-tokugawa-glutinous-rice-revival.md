@@ -6,7 +6,7 @@ tags: [fukuoka, rice, heirloom-varieties, natural-farming, no-till, seed-breedin
 created: 2026-05-08
 ---
 
-# Tokugawa-Era Glutinous Rice Revival
+## Tokugawa-Era Glutinous Rice Revival
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Emerging Trend Analysis
+## EMCDDA Hallucinogenic Mushroom Emerging Trend Analysis
 
 ## Overview
 

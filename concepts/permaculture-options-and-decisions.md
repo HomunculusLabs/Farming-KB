@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Design Options and Decisions
+## Permaculture Design Options and Decisions
 
 Design as a selection of options and pathways based on decisions is the method that most directly addresses the real-world constraints faced by any landholder. For a specific site and specific occupants, a design is a sequence of options shaped by products, crops, social investment, available skills, processing opportunities, market access, and management capacity. This approach acknowledges that any design has many potential outcomes, and that it is above all the stated aims, lifestyle, and resources of the clients that determine which options are pursued.
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Fungal Culture Storage and Preservation
+## Fungal Culture Storage and Preservation
 
 Maintaining viable fungal cultures over time is critical for any [[mycology]] operation. A single contamination event, equipment failure, or natural disaster can wipe out years of selective breeding work. A robust preservation strategy uses multiple methods across multiple locations to minimize risk of total culture loss.
 

@@ -7,7 +7,7 @@ tags: [homesteading, ecology, permaculture, conservation, wildlife]
 sources: []
 ---
 
-# Wildlife Habitat Creation
+## Wildlife Habitat Creation
 
 Creating wildlife habitat on the homestead supports biodiversity, natural pest control, pollination, soil health, and the ecological resilience of the land. A homestead designed with wildlife in mind functions as an integrated ecosystem rather than a monoculture, with each species playing a role in the food web. Habitat creation involves providing food, water, shelter, and space -- the four fundamental needs of wildlife.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for PTSD and Anxiety Disorders
+## Cannabis for PTSD and Anxiety Disorders
 
 ## Post-Traumatic Stress Disorder (PTSD)
 

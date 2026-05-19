@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, substrate, nutrition, cultivation, pf-tek]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
+sources: ["raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"]
 type: concept
 ---
-# Brown Rice Flour Substrate **Brown rice flour (BRF) substrate** is the foundational growing medium used in the [[sterilization]].
+## Brown Rice Flour Substrate **Brown rice flour (BRF) substrate** is the foundational growing medium used in the [[sterilization]].
 
 ## The Dry Vermiculite Barrier
 

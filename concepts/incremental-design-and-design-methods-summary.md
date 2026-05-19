@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Incremental Design and Design Methods Summary
+## Incremental Design and Design Methods Summary
 
 [[permaculture]] aims to create. This concept synthesizes the design methods presented in Mollison's framework and examines the role of incremental design within the broader methodology.
 

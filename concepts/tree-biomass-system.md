@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tree Biomass System
+## Tree Biomass System
 
 ## The Tree as a Total Entity
 

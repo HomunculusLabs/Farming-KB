@@ -18,7 +18,7 @@ sources:
   - "Frank, B.S. et al. (1995). \"Isolation and structure of cicutoxin from Cicuta maculata.\" Journal of Natural Products, 58(7), 1091–1093."
 ---
 
-# Spotted Water Hemlock (*Cicuta maculata*)
+## Spotted Water Hemlock (*Cicuta maculata*)
 
 ## Overview
 

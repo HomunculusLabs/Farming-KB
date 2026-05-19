@@ -5,7 +5,7 @@ type: entity
 tags: [person, botanist, history, france, mycology]
 ---
 
-# Tournefort
+## Tournefort
 
 ## Description
 

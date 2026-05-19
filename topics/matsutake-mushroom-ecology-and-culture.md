@@ -23,7 +23,7 @@ sources:
   - https://www.jstage.jst.go.jp/article/mycosci/52/3/52_ms12003/_article
 ---
 
-# Matsutake Mushroom Ecology and Culture
+## Matsutake Mushroom Ecology and Culture
 
 ## Overview
 

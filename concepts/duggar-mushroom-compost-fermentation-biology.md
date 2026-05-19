@@ -1,4 +1,8 @@
-# Mushroom Compost Fermentation Biology
+---
+title: "Mushroom Compost Fermentation Biology"
+tags:
+  - concept
+---
 ## Duggar (1915) — Scientific Principles of Manure Preparation
 
 The preparation of compost [[agaricus-cultivation-and-species-guide]], and

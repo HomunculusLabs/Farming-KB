@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Canaanite Religion and the Mushroom
+## Canaanite Religion and the Mushroom
 
 Allegro argues that the religion of Canaan — so vigorously condemned by the Hebrew prophets — was the direct descendant of the Sumerian mushroom fertility cult. The Canaanite pantheon, with its emphasis on sexual fertility and cosmic renewal, preserves the mushroom theology in a form that the biblical writers deliberately obscured.
 

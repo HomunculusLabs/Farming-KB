@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Is the Soil Food Web and Why Does It Matter?
+## What Is the Soil Food Web and Why Does It Matter?
 
 ## Short Answer
 The soil food web is the complex community of organisms living in soil, from bacteria and fungi to nematodes, protozoa, earthworms, and arthropods, all connected through predator-prey relationships and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of soil, measuring NPK (nitrogen, phosphorus, potassium) levels and adding synthetic fertilizers to correct perceived deficiencies. This approach treats soil as an inert growing medium rather than a living ecosystem, which is why it requires increasing fertilizer inputs over time as soil biological activity declines. The [[hamilton-composting-and-organic-matter-management]], cycle nutrients, and create the physical and chemical conditions that plants need to thrive. First popularized by Dr. Elaine Ingham, the concept revolutionized how growers understand soil fertility by shifting focus from chemical NPK analysis to biological activity. The [[cervantes-compost-tea-organic-brewing]], and biological amendments are tools to shift soil biology in desired directions. A bacterial-dominant tea might be right for establishing a [[soil-food-web-structure]] research demonstrates that restoring biological activity to degraded soils can rebuild structure within one to three growing seasons, depending on the extent of degradation and the management practices applied.

@@ -7,7 +7,7 @@ tags: [entheogen, indoor, cultivation, cacti, species, plants, beginner, environ
 sources: []
 ---
 
-# Psychedelic Plants Indoor Growing
+## Psychedelic Plants Indoor Growing
 
 ## Overview
 

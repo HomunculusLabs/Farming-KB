@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Sumerian Civilization and the Cuneiform Writing System
+## Sumerian Civilization and the Cuneiform Writing System
 
 ## The Cradle of Civilization
 

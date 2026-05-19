@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Reversed-Phase HPLC Methodology for Tryptamine Alkaloid Quantification in Mushroom Tissue
+## Reversed-Phase HPLC Methodology for Tryptamine Alkaloid Quantification in Mushroom Tissue
 
 Bigwood and Beug's 1982 study of [[psilocybin-variation-across-flushes]]
 employed reversed-phase high performance liquid chromatography (HPLC) as the

@@ -11,7 +11,7 @@ sources:
   - Clarholm, M. (1985). Interactions of bacteria, protozoa and plants leading to mineralization of soil nitrogen. Soil Biology and Biochemistry, 17(2), 181-187.
 ---
 
-# Protozoa and Soil Ecology
+## Protozoa and Soil Ecology
 
 Protozoa are single-celled eukaryotic organisms that play an essential and often underappreciated role in soil ecosystems. As voracious predators of bacteria, fungi, and other microorganisms, they drive nutrient cycling, regulate microbial populations, and contribute significantly to plant-available nitrogen and other essential nutrients. Understanding protozoa is fundamental to grasping the soil food web and building healthy, living soils for agriculture, horticulture, and ecological restoration.
 

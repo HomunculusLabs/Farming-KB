@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Wattle and Daub vs Rammed Earth
+## Wattle and Daub vs Rammed Earth
 
 ## Overview
 

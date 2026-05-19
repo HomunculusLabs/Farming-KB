@@ -1,4 +1,8 @@
-# Psilocybe Sclerotia-Producing Species: Comparison and Cultivation
+---
+title: "Psilocybe Sclerotia-Producing Species: Comparison and Cultivation"
+tags:
+  - concept
+---
 
 ## Overview
 

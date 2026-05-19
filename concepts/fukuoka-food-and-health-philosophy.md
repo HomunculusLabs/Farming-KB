@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Food and Health Philosophy
+## Fukuoka Food and Health Philosophy
 
 updated: 2026-04-18
 

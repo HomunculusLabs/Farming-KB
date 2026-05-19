@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Are the Best Ways to Increase Soil Organic Matter Quickly
+## What Are the Best Ways to Increase Soil Organic Matter Quickly
 
 ## Short Answer
 The fastest ways to increase soil organic matter are applying finished

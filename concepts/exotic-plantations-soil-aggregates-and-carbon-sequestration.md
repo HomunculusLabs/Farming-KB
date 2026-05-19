@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Exotic Plantations, Soil Aggregates, and Carbon Sequestration
+## Exotic Plantations, Soil Aggregates, and Carbon Sequestration
 
 ## Overview
 

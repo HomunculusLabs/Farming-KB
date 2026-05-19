@@ -7,7 +7,7 @@ tags: [permaculture, building, natural-building, design, energy, shelter, microc
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Building Design
+## Permaculture Building Design
 
 Permaculture building design treats the house as a living system interacting with its environment. Mollison emphasises that good house design is integral to [[permaculture-zone-0-house-design]] and must be planned in conjunction with the landscape, not imposed upon it.
 

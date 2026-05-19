@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# Fomes
+## Fomes
 
 *Fomes* is a genus of bracket fungi (polypores) in the family Polyporaceae, order Polyporales. The genus contains several species of wood-decay fungi that are ecologically significant as decomposers of dead and dying hardwood and conifer trees. The most well-known species is *[[fungal-mycelial-networks-nutrient-translocation]] they establish within wood contribute significantly to carbon flow through forest ecosystems.
 

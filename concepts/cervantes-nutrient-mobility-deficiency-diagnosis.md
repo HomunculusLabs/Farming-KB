@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Nutrient Mobility and Deficiency Diagnosis
+## Nutrient Mobility and Deficiency Diagnosis
 
 Understanding nutrient mobility is essential for
 diagnosing plant health problems accurately. Jorge

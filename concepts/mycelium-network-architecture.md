@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology], fungal-biology, networks, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# [[fungal-mycelial-networks-nutrient-translocation]]
+## [[fungal-mycelial-networks-nutrient-translocation]]
 maintain connectivity while maximizing resource capture through a combination
 of [[fungal-mycelial-networks-nutrient-translocation]] move resources through two primary mechanisms:
 

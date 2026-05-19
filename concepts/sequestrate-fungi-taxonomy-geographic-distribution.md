@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sequestrate Fungi Taxonomy and Geographic Distribution
+## Sequestrate Fungi Taxonomy and Geographic Distribution
 
 The [[sequestrate-fungi]] occur in three major groups:
 

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Mineralogical Controls on Fungal Community Structure
+## Mineralogical Controls on Fungal Community Structure
 
 ## Overview
 

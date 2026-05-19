@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Fix Zinc Deficiency in Cannabis
+## How to Fix Zinc Deficiency in Cannabis
 
 ## Short Answer
 Zinc deficiency in cannabis causes interveinal chlorosis on newer leaves, shortened

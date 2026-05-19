@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Shamanic Visions as Universal Experience — Naranjo's Synthesis
+## Shamanic Visions as Universal Experience — Naranjo's Synthesis
 
 ## Overview
 

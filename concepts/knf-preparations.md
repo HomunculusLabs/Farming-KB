@@ -25,7 +25,7 @@ sources:
 - raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md
 ---
 
-# KNF Preparations — Complete Input Guide
+## KNF Preparations — Complete Input Guide
 
 [[korean-natural-farming]] (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
 

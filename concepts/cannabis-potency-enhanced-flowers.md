@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Potency-Enhanced Flowers
+## Cannabis Potency-Enhanced Flowers
 
 The process of enhancing the potency of intact cannabis flowers through oil impregnation represents a unique approach in [[cannabis-potency-enhancement-intact-flowers]] of intact flowers combines the best of both approaches: the familiar format of natural cannabis with the dramatically increased potency achievable through chemical extraction and refinement.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# The Medfly Quarantine
+## The Medfly Quarantine
 
 In *The Road Back to Nature*, [[fukuoka-natural-farming-philosophy-of-mu]], it would not be so vulnerable to pest outbreaks
 - Healthy ecosystems have natural defenses that degraded agricultural systems lack

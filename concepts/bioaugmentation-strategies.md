@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
+sources: ["raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"]
 ---
-# Bioaugmentation Strategies
+## Bioaugmentation Strategies
 
 Bioaugmentation is a bioremediation strategy that involves the controlled addition of specific microorganisms to contaminated environments to enhance the degradation, transformation, or immobilization of pollutants. The introduced organisms augment (supplement) the metabolic capabilities of the indigenous [[fungal-bioaugmentation-inoculation]] for more on formulation and [[cervantes-organic-amendments-chart]]. The composting environment provides elevated temperatures (40 to 65 degrees Celsius), adequate moisture, and nutrient-rich conditions that support vigorous microbial activity.
 

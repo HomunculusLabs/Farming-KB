@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Manage Humidity in a Cannabis Grow Room
+## How to Manage Humidity in a Cannabis Grow Room
 
 ## Short Answer
 Proper [[query-how-to-manage-ph-for-healthy-cannabis-plants]] growth and

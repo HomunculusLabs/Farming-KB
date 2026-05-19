@@ -23,7 +23,7 @@ sources:
 - raw/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
 ---
 
-# Pond and Aquaculture
+## Pond and Aquaculture
 
 A farm pond is one of the highest-leverage infrastructure investments on a regenerative homestead — providing fish protein, irrigation water, duck habitat, wildlife refuge, fire protection, and nutrient cycling. In [[regenerative-agriculture-history]], ponds serve as the keystone water element that connects [[duck-keeping]], gardens, and pasture systems. For water quality management, feeding, harvest, winter care, and troubleshooting, see [[pond-maintenance-and-troubleshooting]].
 

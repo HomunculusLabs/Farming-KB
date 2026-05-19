@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Hypomyces aurantius
+## Hypomyces aurantius
 
 Hypomyces aurantius is a mycoparasitic ascomycete fungus that attacks the sporocarps of other fungi, particularly aphyllophorales (crust and bracket fungi) and jelly fungi. It is notable for its production of toxic metabolites, its disruptive effects on host cytoplasm, and its role as one of the more destructive mycoparasites documented on wood-inhabiting basidiomycetes. The species belongs to a genus that is among the most important groups of fungicolous ascomycetes worldwide.
 

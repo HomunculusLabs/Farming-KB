@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Kanna (Sceletium tortuosum): South African Narcotic Plant
+## Kanna (Sceletium tortuosum): South African Narcotic Plant
 
 Kanna is the common name for several species of Mesembryanthemum (or Sceletium) from South Africa that were reportedly used by the Khoikhoi (Hottentots) as vision-inducing narcotics. One of the most ancient documented psychoactive plant traditions in Africa, kanna has recently attracted renewed scientific and commercial interest as a potential antidepressant and anxiolytic.
 

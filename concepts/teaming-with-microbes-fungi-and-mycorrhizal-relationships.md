@@ -9,7 +9,7 @@ type: concept
 tags: [fungi, mycology, mycorrhizal]
 ---
 
-# Fungi and Mycorrhizal Relationships
+## Fungi and Mycorrhizal Relationships
 
 Fungi, like bacteria, play crucial roles in the soil food web as decomposers,
 nutrient cyclers, soil structure builders, and beneficial symbionts. A single

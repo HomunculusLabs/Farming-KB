@@ -5,7 +5,7 @@ type: entity
 tags: [plant, convolvulaceae, morning-glory, entheogen, aztec, mexican, lysergic-acid]
 ---
 
-# Ololiuhqui
+## Ololiuhqui
 
 ## Description
 

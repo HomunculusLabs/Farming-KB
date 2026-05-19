@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Use Wood Chips to Grow Mushrooms in My Garden
+## How Do I Use Wood Chips to Grow Mushrooms in My Garden
 
 ## Short Answer
 [[accessible-mushroom-cultivation-for-disabilities]].

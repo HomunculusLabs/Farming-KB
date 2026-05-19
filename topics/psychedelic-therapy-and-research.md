@@ -45,7 +45,7 @@ related_concepts:
   - controlled-substances-act-and-psychedelic-research
 ---
 
-# Psychedelic Therapy and Research
+## Psychedelic Therapy and Research
 
 Psychedelic therapy represents one of the most remarkable stories in the history
 of medicine — a field that showed extraordinary promise in the 1950s and 1960s,

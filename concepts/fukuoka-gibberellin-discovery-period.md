@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Gibberellin Discovery Period in Fukuoka's Life
+## Gibberellin Discovery Period in Fukuoka's Life
 
 The years Masanobu Fukuoka spent at the Yokohama Customs Bureau Plant
 Inspection Division, working under Professor Eiichi Kurosawa, represent a

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Boletus Edulis and Pore Fungi (Polyporaceae)
+## Boletus Edulis and Pore Fungi (Polyporaceae)
 
 ## Overview
 

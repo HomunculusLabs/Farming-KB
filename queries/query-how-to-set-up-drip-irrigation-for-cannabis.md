@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Set Up Drip Irrigation for Cannabis?
+## How to Set Up Drip Irrigation for Cannabis?
 
 ## Short Answer
 

@@ -1,4 +1,8 @@
-# Natural Farming / Do-Nothing Agriculture
+---
+title: "Natural Farming / Do-Nothing Agriculture"
+tags:
+  - concept
+---
 
 ## Overview
 

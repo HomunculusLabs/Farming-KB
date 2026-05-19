@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Fish Aminos vs Vermicompost Tea
+## Fish Aminos vs Vermicompost Tea
 
 ## Overview
 

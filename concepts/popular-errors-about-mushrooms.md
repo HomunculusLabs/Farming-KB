@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Popular Errors About Mushrooms
+## Popular Errors About Mushrooms
 
 ## Overview
 

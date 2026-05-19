@@ -5,7 +5,7 @@ tags: [cannabis, sativa, indoor-growing, cultivation, challenges]
 created: 2026-05-08
 ---
 
-# Cannabis Sativa Indoor Cultivation Challenges
+## Cannabis Sativa Indoor Cultivation Challenges
 
 Growing [[oner-sativa-renaissance-rise-of-the-second-child]] of the
 cannabis family for the last couple of decades. Since the advent of

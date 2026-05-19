@@ -11,7 +11,7 @@ type: concept
 tags: [shiitake]
 ---
 
-# Shiitake (Lentinus edodes) Lentinan Cancer Therapy
+## Shiitake (Lentinus edodes) Lentinan Cancer Therapy
 
 ## Overview
 

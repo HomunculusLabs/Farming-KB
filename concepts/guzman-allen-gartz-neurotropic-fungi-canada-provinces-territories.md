@@ -5,7 +5,7 @@ tags: [guzman, canada, neurotropic-fungi, distribution, psilocybe, amanita, brit
 created: 2026-05-11
 ---
 
-# Guzmán-Allen-Gartz Neurotropic Fungi of Canada by Province and Territory
+## Guzmán-Allen-Gartz Neurotropic Fungi of Canada by Province and Territory
 
 ## Overview
 

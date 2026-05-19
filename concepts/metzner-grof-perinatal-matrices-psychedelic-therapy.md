@@ -4,7 +4,7 @@ aliases: ["metzner-psychedelic-psychotherapy-clinical-history"]
 tags: [psychedelic-therapy, lsd, psychotherapy, perinatal, grof, metzner]
 ---
 
-# Grof's Perinatal Matrices in Psychedelic Therapy
+## Grof's Perinatal Matrices in Psychedelic Therapy
 
 ## Overview
 

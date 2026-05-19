@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Molecular Identification and DNA Barcoding
+## Fungal Molecular Identification and DNA Barcoding
 
 Molecular methods have revolutionized the discrimination of fungal taxa,
 monitoring of species, and [[biodiversity-of-fungi-endophytic-fungi]] that may be present at very low biomass within host

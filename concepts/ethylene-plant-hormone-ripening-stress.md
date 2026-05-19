@@ -6,7 +6,7 @@ created: 2026-05-10
 source: general-knowledge
 ---
 
-# Ethylene: The Ripening and Stress Response Hormone
+## Ethylene: The Ripening and Stress Response Hormone
 
 Ethylene (C₂H₄) is the simplest naturally occurring plant hormone — a gaseous hydrocarbon at [[s-adenosylmethionine]] (SAM)**: Catalyzed by SAM synthetase
 2. **SAM → 1-Aminocyclopropane-1-Carboxylic Acid (ACC)**: Catalyzed by ACC synthase (ACS), the rate-limiting step

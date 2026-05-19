@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Passive and Wick Hydroponic Systems for Cannabis
+## Passive and Wick Hydroponic Systems for Cannabis
 
 Passive hydroponic systems rely on capillary action rather
 than pumps to transfer [[cervantes-growing-medium]] draws moisture

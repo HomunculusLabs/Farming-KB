@@ -7,7 +7,7 @@ tags: [homesteading, pest-control, pest-management, permaculture, plants]
 sources: []
 ---
 
-# Deer Fencing and Deterrents
+## Deer Fencing and Deterrents
 
 Deer are among the most persistent challenges for homesteaders. A single deer can devastate a garden overnight, and once they establish a feeding pattern on your property, breaking that habit requires a multi-layered approach. This page covers fencing options, repellents, deer-resistant plant strategies, and seasonal pressure management.
 

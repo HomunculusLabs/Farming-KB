@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
 type: concept
 ---
 
-# [[cover-crops]] soften up the compacted soil layer, reduce
+## [[cover-crops]] soften up the compacted soil layer, reduce
    salinity and boost microbial activity which suppresses diseases and nematodes.
 
 3. **[[cannabis-organic-fertilizers]]. These are leftovers (peel) after

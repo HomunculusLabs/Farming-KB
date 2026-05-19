@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# Permaculture Bamboo Varieties and Uses
+## Permaculture Bamboo Varieties and Uses
 
 Bamboos are among the most versatile multi-purpose plants in permaculture. They provide timber, edible shoots, [[savory-livestock-grazing-planning]]) but offer rapid establishment and screening.
 

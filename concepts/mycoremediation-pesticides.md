@@ -7,7 +7,7 @@ tags: [mycoremediation, mycorestoration, remediation, pesticides, pcb, dioxin, f
 sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
-# Mycoremediation of Pesticides and Persistent Organic Pollutants
+## Mycoremediation of Pesticides and Persistent Organic Pollutants
 
 Fungi can degrade a wide range of synthetic organic compounds including pesticides, polychlorinated biphenyls (PCBs), and dioxins -- some of the most persistent and toxic environmental contaminants ever created.
 

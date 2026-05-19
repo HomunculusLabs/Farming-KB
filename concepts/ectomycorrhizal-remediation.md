@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Ectomycorrhizal Remediation of Contaminated Soils
+## Ectomycorrhizal Remediation of Contaminated Soils
 
 Ectomycorrhizal (ECM) fungi form symbiotic associations with roots of forest trees (primarily Pinaceae, Fagaceae, and Betulaceae) and represent a powerful but underutilized tool for long-term soil remediation. More than 6000 ECM fungal species from over 540 genera are known worldwide, many of which naturally colonize contaminated sites.
 

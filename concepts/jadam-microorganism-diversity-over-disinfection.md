@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# JADAM Microorganism Diversity Over Disinfection
+## JADAM Microorganism Diversity Over Disinfection
 
 JADAM [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 (JMS) whenever crops are watered. This is a complete paradigm shift from

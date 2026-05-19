@@ -1,4 +1,8 @@
-# Human Fungal Pathogens
+---
+title: "Human Fungal Pathogens"
+tags:
+  - concept
+---
 
 Fungal pathogens are fungi that cause disease in humans, ranging from superficial
 skin infections to life-threatening systemic mycoses. While most fungi are
@@ -143,8 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[human-eye-photoreceptor-analogy-plant-light-perception]]
-- [[human-vs-plant-photoreception-comparison]]
-- [[indole-hallucinogens-and-human-evolution]]
-- [[mckenna-diet-symbiosis-human-evolution]]

@@ -1,4 +1,8 @@
-# Fall Bed Preparation for Early Outdoor Planting
+---
+title: "Fall Bed Preparation for Early Outdoor Planting"
+tags:
+  - concept
+---
 
 **Aliases:** fall soil preparation, autumn bed prep, pre-winter bed formation,
 previous-fall tillage, autumn field preparation

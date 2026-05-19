@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DMCPA
+## DMCPA
 
 [[2c-b-pihkal-entry-20]] #56. 2-(2,5-DIMETHOXY-4-METHYLPHENYL)CYCLOPROPYLAMINE.
 

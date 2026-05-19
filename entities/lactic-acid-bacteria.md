@@ -5,10 +5,10 @@ type: species
 tags: [knf, lactic-acid-bacteria, lab, fermentation, indigenous-microorganism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
 
-# Lactinatural-farming
+## Lactinatural-farming
 
 **Lactic acid bacteria (LAB)** are a diverse group of Gram-positive, acid-tolerant, generally non-sporulating bacteria that produce lactic acid as the major metabolic end-product of carbohydrate fermentation. In [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] support:** By suppressing nitrifying bacteria through acidification, LAB can help retain ammonium nitrogen in soil, reducing leaching losses in acidic or [[beneficial-indigenous-microorganisms-bim]]) preparations, LAB helps create a balanced microbial succession from acidophilic to neutrophilic decomposer communities
 * LAB-treated compost typically matures 20–30% faster than untreated controls, with higher concentrations of available nitrogen and phosphorus

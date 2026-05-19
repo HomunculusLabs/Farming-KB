@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Garden Design Process: Observation and Visioning
+## Garden Design Process: Observation and Visioning
 
 [[soil-building-ecological-garden]]: observation, visioning, planning,
 development, and implementation. This process draws from

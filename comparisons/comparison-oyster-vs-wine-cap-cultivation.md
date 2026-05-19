@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Oyster vs Wine Cap Cultivation
+## Oyster vs Wine Cap Cultivation
 
 ## Overview
 [[wine-cap-mushroom-cultivation]]

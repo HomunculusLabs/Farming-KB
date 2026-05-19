@@ -8,7 +8,7 @@ sources: greg-green-sinsemilla-and-pollination-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-# Cannabis Photoperiod and 12/12 Flowering Cycle
+## Cannabis Photoperiod and 12/12 Flowering Cycle
 
 ## Overview
 

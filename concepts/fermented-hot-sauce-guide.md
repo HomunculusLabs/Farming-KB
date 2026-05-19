@@ -7,7 +7,7 @@ tags: [fermentation, food, recipe, safety, homesteading, cooking, preservation]
 sources: []
 ---
 
-# Fermented Hot Sauce Guide
+## Fermented Hot Sauce Guide
 
 Lacto-fermented hot sauce develops complex flavor through controlled bacterial fermentation. Unlike vinegar-based hot sauces, fermented sauces use salt and time to encourage Lactobacillus growth, producing lactic acid that preserves and flavors the peppers.
 

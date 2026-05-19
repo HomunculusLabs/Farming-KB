@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Termite and Ant Mounds as Niche Garden Sites in the Tropics
+## Termite and Ant Mounds as Niche Garden Sites in the Tropics
 
 In the tropics and sub-tropics, termites and ants are among the
 most significant soil organisms, playing roles analogous to

@@ -8,7 +8,7 @@ sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Casing Moisture Management
+## Casing Moisture Management
 
 ## Overview
 

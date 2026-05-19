@@ -24,7 +24,7 @@ sources:
     Drugs 10(1): 3-4.
 ---
 
-# Giorgio Samorini
+## Giorgio Samorini
 
 ## Overview
 

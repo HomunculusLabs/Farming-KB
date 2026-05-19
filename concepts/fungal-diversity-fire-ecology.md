@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity and Fire Ecology Fire plays a profound role in shaping fungal communities. Phoenicoid fungi are a specialized group that fruit exclusively on heat-treated substrata, and fire-mediated changes in soil chemistry, vegetation, and microclimate dramatically alter fungal assemblages. [[prairie-ecology|prairie ecosystems]], pyrenomycetes are the characteristic post-fire fungi.
+## Fungal Diversity and Fire Ecology Fire plays a profound role in shaping fungal communities. Phoenicoid fungi are a specialized group that fruit exclusively on heat-treated substrata, and fire-mediated changes in soil chemistry, vegetation, and microclimate dramatically alter fungal assemblages. [[prairie-ecology|prairie ecosystems]], pyrenomycetes are the characteristic post-fire fungi.
 
 fungal fungal diversity fire ecology ecology Neurospora
 

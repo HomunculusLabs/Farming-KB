@@ -8,7 +8,7 @@ sources:
   - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-# Mycorrhizal Pathogen Resistance Mechanisms
+## Mycorrhizal Pathogen Resistance Mechanisms
 
 Mycorrhizal colonization provides plants with a multi-layered defense system against a wide range of pathogens and pests. The protective effects operate through physical, chemical, and ecological mechanisms that collectively strengthen plant resilience and reduce susceptibility to disease.
 

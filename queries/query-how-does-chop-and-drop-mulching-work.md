@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Chop and Drop Mulching Work?
+## How Does Chop and Drop Mulching Work?
 
 ## Short Answer
 Chop and drop mulching is a permaculture technique where you cut annual

@@ -5,7 +5,7 @@ mined: 2026-05-08
 tags: [contamination, cultivation, sterile-technique, mycology, mold, bacteria]
 ---
 
-# Contamination Identification and Prevention in Mushroom Cultivation
+## Contamination Identification and Prevention in Mushroom Cultivation
 
 ## Overview
 

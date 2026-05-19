@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [toxicity-assessment, bioremediation-monitoring, microtox, bioassays, environmental-risk]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Ecotoxicological Assessment of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of parent compound concentration
+## Ecotoxicological Assessment of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of parent compound concentration
 alone is insufficient to assess treatment effectiveness.
 
 ## Toxicity Assessment Methods

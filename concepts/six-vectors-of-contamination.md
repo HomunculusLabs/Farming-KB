@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
-# Six Vectors of Contamination in Mushroom Cultivation
+## Six Vectors of Contamination in Mushroom Cultivation
 
 Cultivating mushroom mycelium in a laboratory is tantamount to not cultivating contaminants. Diagnosing the source of contamination, and the vector or pathway through which contaminants travel, is the key to successful [[oyster-mushroom-supplemented-sawdust-blocks]]: 4+ hours at 19 psi (Badham 1988 found 4 hours at 19 psi equivalent to 14 hours at atmospheric pasteurization)
 - [[query-how-to-grow-oyster-mushrooms-at-home]]:** Thorn and Barron (1984) first noted that Pleurotus ostreatus exudes a metabolite toxic to nematodes. As the nematode lies stunned, mycelium invades through its orifices. This explains why nematodes have never been reported as a pathogen in [[growing-gourmet-button-mushroom-agaricus-cultivation]] (Agaricus brunnescens) cultivation.

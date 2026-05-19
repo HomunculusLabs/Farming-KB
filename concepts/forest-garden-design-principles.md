@@ -9,7 +9,7 @@ sources:
   - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 ---
 
-# Forest Garden Design Principles
+## Forest Garden Design Principles
 
 Updated: 2026-04-18
 

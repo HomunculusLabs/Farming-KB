@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Plant Circadian Rhythms
+## Plant Circadian Rhythms
 
 Circadian rhythms are approximately 24-hour oscillations in physiological
 processes that persist even [[allegro-colour-and-consistency-of-the-amanita-muscaria]] oscillator to match the external day-night cycle.

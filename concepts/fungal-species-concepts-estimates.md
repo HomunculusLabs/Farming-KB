@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# [[fungal-endemism-host-specificity]] can define species boundaries in plant pathogens
+## [[fungal-endemism-host-specificity]] can define species boundaries in plant pathogens
 - Physiological differences may reflect species-level divergence
 
 ### Practical Considerations

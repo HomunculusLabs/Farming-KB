@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Fungal Heavy Metal Biosorption and Detoxification
+## Fungal Heavy Metal Biosorption and Detoxification
 
 Fungi possess remarkable abilities to accumulate, tolerate, and detoxify heavy
 metals through biosorption, bioaccumulation, intracellular sequestration, and

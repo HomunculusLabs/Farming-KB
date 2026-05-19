@@ -5,7 +5,7 @@ type: entity
 tags: [company, manufacturer, isomerizer, cannabis-device, 1970s]
 ---
 
-# Thai Power (Company)
+## Thai Power (Company)
 
 ## Description
 

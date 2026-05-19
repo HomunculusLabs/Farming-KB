@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycota, ectomycorrhizal, cortinariaceae, forest-fungi, mycena-zone]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
+sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 ---
 
-# Cortinarius cinnamomeus
+## Cortinarius cinnamomeus
 
 *Cortinarius cinnamomeus* is a basidiomycete mushroom in the family *Cortinariaceae* and one of the most characteristic ectomycorrhizal fungi of boreal and temperate coniferous forests. The species is named for its distinctive cinnamon-colored fruiting bodies and belongs to the section *Dermocybe* (or subgenus *Dermocybe*), a group of *Cortinarius* species noted for their often vivid colors and the presence of anthraquinone pigments. It is a common component of the fungal community in pine and spruce forests across the Northern Hemisphere.
 

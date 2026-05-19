@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Desertification
+## Desertification
 
 Desertification is the process by which fertile land gradually transforms into
 desert due to climate variations and human activities. It represents one of

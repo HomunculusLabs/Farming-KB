@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Nameko Cultivation
+## Nameko Cultivation
 
 ## Overview
 

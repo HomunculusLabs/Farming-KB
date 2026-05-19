@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Versatile Peroxidase (VP): Multifunctional Enzyme
+## Versatile Peroxidase (VP): Multifunctional Enzyme
 
 Versatile peroxidase (VP; EC 1.11.1.16) is a unique ligninolytic
 peroxidase that combines the catalytic properties of both lignin

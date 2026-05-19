@@ -5,7 +5,7 @@ source: William Falconer, Mushrooms: How to Grow Them (1891)
 tags: [horse-manure, mushroom-compost, historical-agriculture, mule-manure, cellar-manure, stable-manure, manure-selection]
 ---
 
-# Historical Mushroom Manure Sources and Selection
+## Historical Mushroom Manure Sources and Selection
 
 ## The Primacy of Horse Manure
 

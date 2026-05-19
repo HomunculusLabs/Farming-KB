@@ -8,7 +8,7 @@ type: concept
 tags: [mycology, biogeography, psilocybe, neurotropic-fungi, southern-hemisphere, evolution, distribution]
 ---
 
-# Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+## Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
 
 The worldwide geographical distribution analysis by Guzmán, Allen & Gartz (1998) presents compelling biogeographical evidence that neurotropic fungi, particularly the genus Psilocybe, may have originated in the southern hemisphere. This hypothesis is grounded in species diversity patterns, habitat preferences, and the distribution of indigenous ethnomycological traditions across the globe.
 

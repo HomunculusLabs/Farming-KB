@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Conocybe: Psychoactive Mushrooms of Mexico
+## Conocybe: Psychoactive Mushrooms of Mexico
 
 ## Taxonomy and Distribution
 

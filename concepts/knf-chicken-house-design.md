@@ -9,7 +9,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# KNF Chicken House Design
+## KNF Chicken House Design
 
 updated: 2026-04-18
 

@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# Bioremediation of Textile Dyes
+## Bioremediation of Textile Dyes
 
 Textile dye contamination of water resources is a major environmental concern, particularly in developing countries with significant textile manufacturing activity.
 

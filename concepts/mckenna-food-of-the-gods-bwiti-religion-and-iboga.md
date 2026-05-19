@@ -9,7 +9,7 @@ tags: [iboga, bwiti, tabernanthe-iboga, hallucinogen, africa, gabon,
   indole-alkaloid, ibogaine, psychedelics, addiction-treatment]
 ---
 
-# Bwiti Religion and Iboga
+## Bwiti Religion and Iboga
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# RAPD and Molecular Marker Techniques for Fungi
+## RAPD and Molecular Marker Techniques for Fungi
 Random Amplified Polymorphic DNA (RAPD) and related molecular marker techniques
 provide powerful tools for [[aspergillus-fumigatus-population-genetics]], and diversity
 assessment. These PCR-based methods require no prior knowledge of DNA sequence

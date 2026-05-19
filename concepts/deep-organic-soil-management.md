@@ -6,7 +6,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 created: 2026-05-11
 ---
 
-# Deep-Organic Soil Management for Intensive Vegetable Production
+## Deep-Organic Soil Management for Intensive Vegetable Production
 
 ## Overview
 

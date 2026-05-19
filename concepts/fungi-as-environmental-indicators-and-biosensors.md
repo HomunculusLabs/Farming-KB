@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungi as Environmental Indicators and Biosensors Updated: 2026-04-18 Fungi are increasingly recognized as valuable bioindicators in environmental pollution surveys. Their sensitivity to various pollutants, their ability to accumulate contaminants, and the development of molecular detection methods make them useful tools for environmental monitoring. The use of fungi as bioindicators draws on [[allegro-amanita-muscaria-properties-and-pharmacology]] and Boletus edulis are among the most effective metal accumulators, with some species concentrating cadmium, mercury, and lead to levels 100-1000 times higher than surrounding soil.
+## Fungi as Environmental Indicators and Biosensors Updated: 2026-04-18 Fungi are increasingly recognized as valuable bioindicators in environmental pollution surveys. Their sensitivity to various pollutants, their ability to accumulate contaminants, and the development of molecular detection methods make them useful tools for environmental monitoring. The use of fungi as bioindicators draws on [[allegro-amanita-muscaria-properties-and-pharmacology]] and Boletus edulis are among the most effective metal accumulators, with some species concentrating cadmium, mercury, and lead to levels 100-1000 times higher than surrounding soil.
 
 ## Lichen Communities as Pollution Indicators
 

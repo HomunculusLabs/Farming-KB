@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Lignin Peroxidase Mechanism
+## Lignin Peroxidase Mechanism
 
 Lignin peroxidase (LiP; EC 1.11.1.14) is a heme-containing glycoprotein that serves as one of the principal white-rot-fungi-effluent-decolorization. First purified from the lignin-degrading white-rot-fungi-effluent-decolorization species including [[staycare-phanerochaete-sordida-in-bioremediation]]. LiP plays a central role in white-rot-fungi-effluent-decolorization secreting at least five isozymes and [[fungal-elicitors-enhanced-secondary-metabolite-production]] produced by [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, and various [[manganese-peroxidase-mechanism]] are the two principal ligninolytic peroxidases produced by white-rot fungi, and they function cooperatively in lignin degradation. While LiP directly oxidizes nonphenolic aromatic substrates through its high-redox-potential heme center, MnP oxidizes Mn(II) to Mn(III), which then acts as a diffusible oxidant that primarily attacks phenolic structures.
 

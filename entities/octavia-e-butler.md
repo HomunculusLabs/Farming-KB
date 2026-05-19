@@ -18,7 +18,7 @@ sources:
 status: complete
 ---
 
-# Octavia E. Butler
+## Octavia E. Butler
 
 ## Overview
 

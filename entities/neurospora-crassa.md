@@ -5,10 +5,10 @@ type: species
 tags: [model-organism, ascomycete, genetics, filamentous-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Neurospora crassa
+## Neurospora crassa
 
 Neurospora crassa is a filamentous ascomycete fungus and one of the most important model organisms in [[gadd-aspergillus-fumigatus-glucan-virulence]] atus.
 

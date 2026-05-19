@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook
 topics: greenhouse-design, winter-production, season-extension, protected-cultivation
 ---
 
-# Double Cover Plastic Inflation: Trial Results
+## Double Cover Plastic Inflation: Trial Results
 
 ## The Experimental Setup
 

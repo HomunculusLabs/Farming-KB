@@ -6,7 +6,7 @@ topics: [permaculture, design-principles, holmgren, sustainability, systems-thin
 created: 2026-05-10
 ---
 
-# Permaculture's Twelve Design Principles
+## Permaculture's Twelve Design Principles
 
 [[david-holmgren]]'s *Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]]*
 (2002) presents the most comprehensive articulation of [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]:

@@ -7,7 +7,7 @@ tags: [permaculture, farming, no-till, organic, philosophy, methods, theory]
 sources: [raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 ---
 
-# Fukuoka Natural Farming Method
+## Fukuoka Natural Farming Method
 
 Masanobu Fukuoka (1913-2008) developed natural farming over fifty years on his farm in Ehime Prefecture, Japan. Natural farming is based on a nature free of human meddling and intervention, striving to restore nature from the destruction wrought by human knowledge and action.
 

@@ -8,7 +8,7 @@ sources: [raw/papers/chos-global-natural-farming.md]
 type: concept
 ---
 
-# Water-Soluble Phosphoric Acid (WS-PA)
+## Water-Soluble Phosphoric Acid (WS-PA)
 
 Water-Soluble Phosphoric Acid (WS-PA) is a [[knf-reproductive-growth-stage]]. This period, also
 called "[[cho-plant-growth-stage-treatment-protocols]] of the crop

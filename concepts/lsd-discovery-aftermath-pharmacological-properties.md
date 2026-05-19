@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# LSD Discovery Aftermath — Pharmacological Properties and Initial Reactions
+## LSD Discovery Aftermath — Pharmacological Properties and Initial Reactions
 
 ## Overview
 

@@ -21,7 +21,7 @@ sources:
 - raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
 ---
 
-# Aquatic Fungi and Ingoldian Spores
+## Aquatic Fungi and Ingoldian Spores
 
 Aquatic fungi are a diverse group of decomposer organisms that live and reproduce in freshwater habitats. The most famous are the Ingoldian hyphomycetes, whose spectacularly shaped spores were discovered by C.T. Ingold in 1938 and revolutionized understanding of fungal diversity in water ecosystems.
 

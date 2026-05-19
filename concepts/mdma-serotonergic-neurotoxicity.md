@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# MDMA Serotonergic Neurotoxicity
+## MDMA Serotonergic Neurotoxicity
 
 3,4-Methylenedioxymethamphetamine ([[mdma]]) is a synthetic amphetamine derivative
 known for its empathogenic and stimulant effects. A significant body of

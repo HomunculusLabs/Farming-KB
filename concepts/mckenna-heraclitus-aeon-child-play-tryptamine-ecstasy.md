@@ -6,7 +6,7 @@ tags: [heraclitus, tryptamine, phenomenology, mysticism, philosophy, dmt, eterni
 created: 2026-05-08
 ---
 
-# Heraclitus Aeon Child at Play and the Tryptamine Ecstasy
+## Heraclitus Aeon Child at Play and the Tryptamine Ecstasy
 
 ## Overview
 

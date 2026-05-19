@@ -6,7 +6,7 @@ tags: [mycology, tropism, psilocybe-cubensis, basidiocarp, anemotropism, geotrop
 created: 2026-05-09
 ---
 
-# Two-Phase Directed Growth in Psilocybe cubensis Basidiocarp Development
+## Two-Phase Directed Growth in Psilocybe cubensis Basidiocarp Development
 
 ## Overview
 

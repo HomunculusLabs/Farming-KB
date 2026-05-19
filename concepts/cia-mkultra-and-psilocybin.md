@@ -6,7 +6,7 @@ type: concept
 sources: the-psilocybin-solution-by-simon-g-powell.md
 tags: [reference]
 ---
-# CIA MKULTRA and Psilocybin
+## CIA MKULTRA and Psilocybin
 
 The involvement of the United States Central Intelligence Agency with psilocybin represents one of the most unsettling episodes in the history of [[powell-psilocybin-solution-ecological-cognition-theory]]," the CIA's covert interest in sacred mushrooms emerged almost simultaneously with legitimate scientific investigation, creating a counter-current to psilocybin's spiritual mystique that would ultimately contribute to the substance's prohibition.
 

@@ -10,7 +10,7 @@ tags:
   - cotton-substitute
 ---
 
-# New Zealand Flax (*Phormium tenax*)
+## New Zealand Flax (*Phormium tenax*)
 
 ## Description
 

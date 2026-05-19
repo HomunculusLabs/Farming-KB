@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# Genista monspessulana (Cape Broom)
+## Genista monspessulana (Cape Broom)
 
 ## Description
 

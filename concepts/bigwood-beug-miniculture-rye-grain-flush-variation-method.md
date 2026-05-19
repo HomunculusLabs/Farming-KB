@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Bigwood and Beug Miniculture Method for Flush Variation in Psilocybe cubensis
+## Bigwood and Beug Miniculture Method for Flush Variation in Psilocybe cubensis
 
 ## Overview
 

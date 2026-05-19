@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Pinning and Primordia Formation Strategies
+## Mushroom Pinning and Primordia Formation Strategies
 
 Chapter IX of [[agaricus-cultivation-and-species-guide]]. The four-stage
 process manages [[chen-maitake-primordia-initiation-fruiting]] to pinhead

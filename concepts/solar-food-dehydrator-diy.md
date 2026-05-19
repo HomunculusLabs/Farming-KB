@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Solar Food Dehydrator DIY
+## Solar Food Dehydrator DIY
 
 A solar food dehydrator uses the greenhouse effect and natural convection to preserve fruits, vegetables, herbs, and meats without electricity. Solar dehydrators can reach temperatures of 110-160°F — ideal for food drying — using only sunlight and passive airflow. Building your own is straightforward and costs far less than commercial electric dehydrators.
 

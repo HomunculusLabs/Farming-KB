@@ -20,7 +20,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Mushroom Natural Habitats
+## Mushroom Natural Habitats
 
 From Chapter 3 of *Mycelium Running* by [[paul-stamets]]. Understanding where mushrooms grow in nature is the foundation for successful cultivation and [[mycorestoration]].
 

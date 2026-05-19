@@ -7,7 +7,7 @@ sources: linda-chalker-scott-the-informed-gardener
 tags: [garden-myths, soil, compost, horticulture, debunking]
 ---
 
-# Garden Myths About Soil and Amendments
+## Garden Myths About Soil and Amendments
 
 Horticultural myths about soil management are among the most pervasive and persistent in gardening. Many practices handed down through generations or popularized in gardening media lack scientific support and can sometimes harm plants, soil biology, or the environment. Evidence-based horticulture provides a corrective lens for evaluating these claims.
 

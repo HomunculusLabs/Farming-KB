@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Climatic Orientation
+## Pond Climatic Orientation
 
 The orientation and positioning of ponds relative to climate, sun, wind, and terrain is a critical but often overlooked factor in aquaculture design. Just as house orientation determines comfort [[aquaculture-design-principles-and-energy-efficiency]], pond orientation determines water temperature, oxygenation, and ultimately the productivity of the aquatic system. The criteria for pond orientation parallel those governing [[mollison-designers-passive-solar-building]] design.
 

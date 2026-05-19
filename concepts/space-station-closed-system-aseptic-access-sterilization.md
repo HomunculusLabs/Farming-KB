@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Space Station Closed System Aseptic Access and Sterilization
+## Space Station Closed System Aseptic Access and Sterilization
 
 NASA's [[microwave-surface-sterilization-technology]] (MSC-22484) was conceived and
 developed within a very specific engineering context: the need to aseptically

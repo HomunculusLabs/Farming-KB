@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# AMF Spore Strain Variability and Effectiveness
+## AMF Spore Strain Variability and Effectiveness
 
 ## Overview
 

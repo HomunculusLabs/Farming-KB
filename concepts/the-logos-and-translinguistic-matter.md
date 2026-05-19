@@ -5,11 +5,11 @@ tags: [logos, translinguistic-matter, tryptamines, language,
       consciousness, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+sources: ["raw/papers/mckenna_t-tryptamines_consciousness.md"]
 type: concept
 ---
 
-# The Logos and Translinguistic Matter
+## The Logos and Translinguistic Matter
 
 Central to [[mckenna-tryptamine-hallucinogens-and-consciousness]].
 

@@ -14,7 +14,7 @@ sources:
   - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-# Psilocybin Potency Factors in Cultivated and Wild Mushrooms
+## Psilocybin Potency Factors in Cultivated and Wild Mushrooms
 
 The potency of hallucinogenic mushrooms — measured by their psilocybin and psilocin content — varies enormously depending on species, growing conditions, maturity at harvest, substrate composition, and post-harvest handling. Research by Jochen Gartz, combined with practical observations from cultivators like Psilocybe Fanaticus, has identified specific factors that maximize or minimize alkaloid production. Understanding these factors allows cultivators to make informed decisions about harvest timing, substrate selection, and preservation methods.
 

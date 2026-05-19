@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
   - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
-# Copelandia Genus Species Guide
+## Copelandia Genus Species Guide
 
 Copelandia is a genus of psychoactive mushrooms found primarily in tropical and subtropical regions worldwide. The genus is closely related to Panaeolus and contains several species that are among the most potent naturally occurring [[panaeolus-cyanescens-bali-omelette]] and [[query-what-is-the-difference-between-psilocybin-and-psilocin]] as primary active compounds. The genus is notable for:
 

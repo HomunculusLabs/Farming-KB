@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Kratky Method for Growing Cannabis
+## What Is the Kratky Method for Growing Cannabis
 
 ## Short Answer
 The Kratky method is a passive hydroponic technique that grows plants in a 

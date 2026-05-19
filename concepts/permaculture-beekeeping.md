@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Permaculture Beekeeping updated: 2026-04-18 Bees are essential producers in any [[pollinator-habitat]]
+## Permaculture Beekeeping updated: 2026-04-18 Bees are essential producers in any [[pollinator-habitat]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]
 ## Background and Context
 

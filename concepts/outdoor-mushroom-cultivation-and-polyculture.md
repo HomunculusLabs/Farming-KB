@@ -1,4 +1,8 @@
-# Outdoor Mushroom Cultivation and Polyculture
+---
+title: "Outdoor Mushroom Cultivation and Polyculture"
+tags:
+  - concept
+---
 
 ## Overview
 Outdoor mushroom cultivation offers an accessible, low-tech
@@ -144,7 +148,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

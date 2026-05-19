@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Edge Effect in Permaculture
+## Edge Effect in Permaculture
 
 ## Overview
 

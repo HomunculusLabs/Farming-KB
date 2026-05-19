@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Tremellales: Mycoparasitic Jelly Fungi and Host Interactions
+## Tremellales: Mycoparasitic Jelly Fungi and Host Interactions
 
 The Tremellales ([[basidiomycota]], Hymenomycetes, Tremellomycetidae) represent a major lineage in which mycoparasitism is particularly widespread. The order includes genera such as Tremella, Holtermannia, Sirotrema, Trimorphomyces, Xenolachne, Bulleromyces, and probably Itersonilia, many of which contain numerous mycoparasitic species. Most or all species of the Tremellales are reported to be mycoparasites, reflecting the fundamentally parasitic nature of this group.
 

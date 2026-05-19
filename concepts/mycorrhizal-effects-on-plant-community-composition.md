@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis, ecology]
 sources: []
 ---
-# Mycorrhizal Effects on Plant Community Composition
+## Mycorrhizal Effects on Plant Community Composition
 
 ## Overview
 

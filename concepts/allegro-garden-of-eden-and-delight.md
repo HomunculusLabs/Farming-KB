@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# The Garden of Eden — Mushroom Paradise
+## The Garden of Eden — Mushroom Paradise
 
 Allegro argues that the biblical Garden of Eden narrative, far from being a unique Hebrew creation myth, is a reinterpretation of ancient Sumerian fertility-cult stories about the [[allegro-amanita-muscaria-properties-and-pharmacology]] gives both life (regeneration, immortality through ecstatic experience) and knowledge (the visionary insights of the [[sacred-mushroom-names-cross-cultural-synonyms]] comprehensible.
 

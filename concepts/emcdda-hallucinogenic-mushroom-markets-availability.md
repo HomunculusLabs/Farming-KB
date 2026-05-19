@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Markets and Availability
+## EMCDDA Hallucinogenic Mushroom Markets and Availability
 
 ## Brand Names and User Terminology
 

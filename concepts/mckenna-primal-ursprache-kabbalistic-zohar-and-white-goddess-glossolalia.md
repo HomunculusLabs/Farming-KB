@@ -18,7 +18,7 @@ tags:
   - finnegans-wake
 ---
 
-# The Primal Language (Ursprache)
+## The Primal Language (Ursprache)
 
 ## Overview
 

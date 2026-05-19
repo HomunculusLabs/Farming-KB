@@ -8,7 +8,7 @@ type: concept
 tags: [fungi, mycology, mycorrhizal]
 ---
 
-# Symbiotic Fungi — Ectomycorrhizal Network Carbon Trading
+## Symbiotic Fungi — Ectomycorrhizal Network Carbon Trading
 
 Ectomycorrhizal (ECM) and [[dighton-mycorrhizal-networks-carbon-transfer]] (CMNs) represent one of the most significant but cryptic components of terrestrial ecosystem functioning, mediating resource exchange that shapes plant communities and [[arbuscular-mycorrhizal-fungi]], but the same carbon-for-nutrients exchange principle applies to [[mycelial-network-structure]] parameters include:
 - **Hyphal density:** 2.9-6.8 mm per mm squared (varies by host plant)

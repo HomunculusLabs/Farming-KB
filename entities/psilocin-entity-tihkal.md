@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# Psilocin & Psilocybin (4-HO-DMT)
+## Psilocin & Psilocybin (4-HO-DMT)
 
 TIHKAL entry #18. The classic psychedelic tryptamines found in "magic mushrooms" (Psilocybe, Stropharia, Panaeolus, Inocybe species). Psilocybin is the 4-phosphate ester of psilocin (4-HO-DMT); the two are pharmacologically equivalent as the phosphate ester is readily hydrolyzed in vivo. First isolated by gordon-wasson in 1958.
 

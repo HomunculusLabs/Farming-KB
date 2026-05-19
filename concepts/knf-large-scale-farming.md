@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# KNF Large-Scale Farming
+## KNF Large-Scale Farming
 
 updated: 2026-04-18
 

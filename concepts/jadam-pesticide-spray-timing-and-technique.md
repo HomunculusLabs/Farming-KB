@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Pesticide Spray Timing and Technique
+## JADAM Pesticide Spray Timing and Technique
 
 The effectiveness of JADAM [[hamilton-beneficial-insects-and-biological-pest-control]] while minimizing cost and
 risk to crops.

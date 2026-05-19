@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, history, mushroom-cultivation]
 ---
 
-# Cuthill and 19th-Century [[falconer-growing-mushrooms-in-sheds]] through summer by covering beds with
+## Cuthill and 19th-Century [[falconer-growing-mushrooms-in-sheds]] through summer by covering beds with
   straw and watering nightly to keep the surface cool, preventing
   maggot infestation.
 - A technique of spawning beds while heat was still at 100 degrees

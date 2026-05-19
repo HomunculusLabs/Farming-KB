@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms]
 sources: [papers/unknown-mushroom-culture-patent-2761246.md]
 ---
-# Gourmet Mushroom Natural Culture and Outdoor Cultivation Natural culture is the practice of establishing mushroom colonies in outdoor environments using either commercial [[gadd-mycelial-network-dynamics]] with sufficient mass to survive winter
+## Gourmet Mushroom Natural Culture and Outdoor Cultivation Natural culture is the practice of establishing mushroom colonies in outdoor environments using either commercial [[gadd-mycelial-network-dynamics]] with sufficient mass to survive winter
 
 ## Stump Cultivation
 

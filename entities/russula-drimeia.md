@@ -5,7 +5,7 @@ type: entity
 taxonomy: fungi
 ---
 
-# Russula drimeia (Pungent Russula)
+## Russula drimeia (Pungent Russula)
 
 ## Description
 

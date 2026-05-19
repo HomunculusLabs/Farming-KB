@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Biological [[natural-farming-guide-biological-pest-control-predators]]
+## Biological [[natural-farming-guide-biological-pest-control-predators]]
 
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]] guideline - Testing whether controls address
   causes or symptoms

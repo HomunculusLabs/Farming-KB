@@ -7,7 +7,7 @@ tags: [gardening, plants, construction, tools]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Cold Frame Construction
+## Cold Frame Construction
 
 A cold frame is a bottomless box with a transparent lid, used to extend the growing season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through.
 

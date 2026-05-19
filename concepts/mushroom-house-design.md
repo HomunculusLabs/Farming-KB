@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, architecture, cultivation, infrastructure, design]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
 
-# Mushroom House Design
+## Mushroom House Design
 
 The [[duggar-mushroom-growing-history-and-methods]]
 facilities is a critical factor in commercial success.

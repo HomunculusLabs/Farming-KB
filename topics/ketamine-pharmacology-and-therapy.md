@@ -20,7 +20,7 @@ related_concepts:
   - turner-essential-psychedelics-ketamine-anaesthetic-realm
 ---
 
-# Ketamine Pharmacology and Therapy
+## Ketamine Pharmacology and Therapy
 
 Ketamine is a dissociative anesthetic compound (C13H16ClNO, molecular weight
 237.73) belonging to the arylcyclohexylamine class of drugs. Developed in

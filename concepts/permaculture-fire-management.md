@@ -7,7 +7,7 @@ tags: [permaculture, fire, landscape-analysis, site-design, windbreak, resilienc
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Fire Management
+## Permaculture Fire Management
 
 Fire is treated by Mollison as a predictable, periodic event in many landscapes that designers must plan for rather than ignore. Wildfire occurs on regular schedules: approximately 30 years in wet sclerophyll forest, 8-10 years in dry savannah, and annually in unbrowsed grassland. The period from 3-5 years after clearing until forest establishment carries the highest fire risk.
 

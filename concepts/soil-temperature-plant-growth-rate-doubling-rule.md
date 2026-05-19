@@ -6,7 +6,7 @@ sources:
   - gardening-when-it-counts-steve-solomon.md
 ---
 
-# Soil Temperature and Plant Growth Rate
+## Soil Temperature and Plant Growth Rate
 
 ## Overview
 

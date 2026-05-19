@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Ecstasy as Social Catalyst in Shamanic Mushroom Rituals
+## Ecstasy as Social Catalyst in Shamanic Mushroom Rituals
 
 ## Overview
 

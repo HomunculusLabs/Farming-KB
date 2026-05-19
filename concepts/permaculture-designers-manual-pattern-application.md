@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design, patterns, principles]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Pattern Application in Permaculture Design
+## Pattern Application in Permaculture Design
 
 Source: Bill Mollison, Permaculture: A Designers' Manual (1988), Chapter 4
 Updated: 2026-05-09

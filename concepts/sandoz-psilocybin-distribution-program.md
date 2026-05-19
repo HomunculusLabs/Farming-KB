@@ -16,7 +16,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# The Sandoz Psilocybin Distribution Program
+## The Sandoz Psilocybin Distribution Program
 
 Following gordon-wasson's synthesis of [psilocybin in 1958, the Swiss pharmaceutical company Sandoz (now Novartis) undertook an unprecedented program of manufacturing and distributing the compound to qualified researchers worldwide. This program, which produced approximately 2 kg of pure psilocybin, represented the most extensive legal distribution of a psychedelic substance in history and laid the groundwork for the modern resurgence of clinical [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] (Germany, Switzerland, UK, France, Czechoslovakia, and others)
 - North America (United States, Canada)

@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, entomopathogen, mycoparasite, biocontrol-agent]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Verticillium lecanii
+## Verticillium lecanii
 
 **Type:** Species (Fungus)
 **Category:** Entomopathogenic and Mycoparasitic Hyphomycete

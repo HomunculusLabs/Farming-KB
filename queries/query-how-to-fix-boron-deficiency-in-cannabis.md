@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Fix Boron Deficiency in Cannabis
+## How to Fix Boron Deficiency in Cannabis
 
 ## Short Answer
 Boron deficiency in cannabis causes abnormal or stunted new growth, brittle or

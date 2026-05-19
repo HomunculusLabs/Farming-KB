@@ -1,5 +1,5 @@
 ---
-title: query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing Growing
+title: "Greenhouse Cannabis Growing"
 created: 2026-04-26
 updated: 2026-04-23
 sources: []
@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Greenhouse Cannabis Growing
+## Greenhouse Cannabis Growing
 
 Greenhouses offer a middle ground between [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season and enable techniques like [[ventilation-cannabis]] and most also need cooling. Calculate fan
 capacity by multiplying the square footage of the greenhouse by the desired air exchange

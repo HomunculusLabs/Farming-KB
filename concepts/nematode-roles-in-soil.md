@@ -9,7 +9,7 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
-# Nematode Roles in Soil
+## Nematode Roles in Soil
 
 Updated: 2026-04-18
 

@@ -5,7 +5,7 @@ author: Robert "Psylocybe Fanaticus" McPherson
 tags: [pf-tek, substrate, vermiculite, brown-rice-flour, formula, cultivation]
 ---
 
-# PF Tek Substrate Formula Details
+## PF Tek Substrate Formula Details
 
 The Psylocybe Fanaticus Tek (PF TEK) revolutionized amateur mushroom
 cultivation with its simple, reliable substrate formula. This page

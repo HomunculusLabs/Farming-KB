@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: ["papers/bill-mollison-permaculture-two-practical-design-for-to.md"]
 ---
-# Permaculture Two Species Compendium updated: 2026-04-18 A comprehensive index of species mentioned in Permaculture Two (1979) with their roles and characteristics. This compendium supports [[permaculture-earthworks-and-water-harvesting]]
+## Permaculture Two Species Compendium updated: 2026-04-18 A comprehensive index of species mentioned in Permaculture Two (1979) with their roles and characteristics. This compendium supports [[permaculture-earthworks-and-water-harvesting]]
 - permaculture-designers-manual-windbreak-species
 - mollison-native-seed-forage-systems-and-arid-species-lists
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

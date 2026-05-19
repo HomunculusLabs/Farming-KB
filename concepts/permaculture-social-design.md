@@ -7,7 +7,7 @@ tags: [permaculture, design, community, economics, activism, law, ethics, princi
 sources: []
 ---
 
-# Permaculture Social Design
+## Permaculture Social Design
 
 Permaculture social design extends ecological design principles to human social structures — governance, economics, legal frameworks, and community organization. The three ethics of earth care, people care, and fair share require not just ecological systems thinking but also social systems thinking. A permaculture farm with an exploitative labor practice, unjust land tenure, or extractive economic model fails the core ethics.
 

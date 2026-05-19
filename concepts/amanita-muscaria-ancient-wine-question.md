@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria and the Ancient Wine Question
+## Amanita Muscaria and the Ancient Wine Question
 
 One of the most provocative arguments in "Amanita Muscaria: [[amanita-muscaria-ambrosia-preparation]] of [[amanita-muscaria-resurrection-experiments]] (grape juice, boiled barley water, honey water) are identical to the food source liquids used for yeast cultivation, yielding wine, beer, and mead respectively. This raises a provocative possibility: were the discoverers of fermentation using Amanita muscaria extract as their template?
 

@@ -5,7 +5,7 @@ tags: [mycology, psilocybe, biogeography, africa, southern-hemisphere, neurotrop
 created: 2026-05-09
 ---
 
-# Neurotropic Fungi of Africa and the Underexplored Southern Hemisphere
+## Neurotropic Fungi of Africa and the Underexplored Southern Hemisphere
 
 The worldwide [[biogeography-austral-hemisphere-fungi]]**: 59 species documented across
   South America and Mexico, with the highest concentrations in

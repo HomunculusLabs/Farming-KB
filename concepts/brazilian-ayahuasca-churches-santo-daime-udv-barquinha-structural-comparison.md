@@ -5,7 +5,7 @@ tags: [ayahuasca, santo-daime, udv, barquinha, brazil, syncretic, entheogenic-ch
 created: 2026-05-10
 ---
 
-# Brazilian Ayahuasca Churches: Santo Daime, UDV, and Barquinha
+## Brazilian Ayahuasca Churches: Santo Daime, UDV, and Barquinha
 
 ## Overview
 

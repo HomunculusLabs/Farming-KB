@@ -11,12 +11,12 @@ tags: [chemical, semiconductor, iii-v-semiconductor, optoelectronics, compound-s
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/semiconductor-band-structure.md
+  - raw/concepts/semiconductor-band-structure.md
   - https://en.wikipedia.org/wiki/Gallium_arsenide
   - https://en.wikipedia.org/api/rest_v1/page/summary/Gallium_arsenide
 ---
 
-# Gallium Arsenide
+## Gallium Arsenide
 
 ## Overview
 Gallium arsenide is a binary III-V compound semiconductor with the formula GaAs.

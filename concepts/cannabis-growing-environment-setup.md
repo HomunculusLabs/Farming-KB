@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 ---
-# Cannabis Growing Environment Setup
+## Cannabis Growing Environment Setup
 
 Creating the right indoor environment is the foundation of successful [[cannabis-grow-room-setup]] must provide optimal conditions for every stage of the plant's [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] cultivation. Greg Green's Can
 

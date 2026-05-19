@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, boletes, appalachian, ecology, taxonomy]
 date: 2026-04-28
 updated: 2026-05-09
-sources: [/Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md]
+sources: ["raw/papers/carolina-mushrooms_08qxp.md"]
 type: concept
 ---
-# Bolete Fungi of the Appalachian Region
+## Bolete Fungi of the Appalachian Region
 
 Boletes are a diverse group characterized by a cap with a spongy, pore-bearing
 surface instead of gills. The Appalachian region, spanning from northern Alabama

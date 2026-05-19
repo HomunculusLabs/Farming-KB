@@ -5,7 +5,7 @@ type: entity
 tags: [concept, tibetan-buddhism, consciousness, bardo, psychedelic-phase, rebirth]
 ---
 
-# Sidpa Bardo
+## Sidpa Bardo
 
 ## Description
 

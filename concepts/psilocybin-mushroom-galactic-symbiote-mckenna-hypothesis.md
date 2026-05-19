@@ -8,7 +8,7 @@ related:
 created: 2026-05-09
 ---
 
-# Psilocybin Mushroom as Galactic Symbiote
+## Psilocybin Mushroom as Galactic Symbiote
 
 ## Overview
 

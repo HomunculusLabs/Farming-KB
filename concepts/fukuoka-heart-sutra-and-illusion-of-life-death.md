@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: The Heart Sutra and the Illusion of Life and Death
+## Fukuoka: The Heart Sutra and the Illusion of Life and Death
 
 Source: [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]], lying within the earth and sending out shoots in spring, its leaves and stems withering in the fall, still holds within its tiny core the full joy of life. The joy of life does not depart in death. Death is no more than a momentary passing.
 

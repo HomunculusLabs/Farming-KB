@@ -1,10 +1,10 @@
 ---
-title: coppice-and-pollard-systems Systems Guide
+title: "Coppice And Pollard Systems"
 created: 2025-05-08
 tags: [agroforestry, woodlot-management, sustainable-forestry, fuelwood, permaculture]
 ---
 
-# Coppice and Pollard Systems Guide
+## Coppice and Pollard Systems Guide
 
 ## Overview
 

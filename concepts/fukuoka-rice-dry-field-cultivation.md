@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: Rice Grown in Dry Fields
+## Fukuoka: Rice Grown in Dry Fields
 
 Source: [[fukuoka-straw-mulch-philosophy]], making it possible to grow rice in a dry field.
 

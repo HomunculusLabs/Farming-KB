@@ -20,7 +20,7 @@ sources:
   - https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003383.pub2/full
 ---
 
-# Kavalactones
+## Kavalactones
 
 ## Overview
 

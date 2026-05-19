@@ -7,7 +7,7 @@ tags: [mycelium, materials, composites, biomaterials, packaging, building-materi
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 
-# Mycelium Composites and Materials
+## Mycelium Composites and Materials
 
 Mycelium composites are materials produced by growing fungal mycelium through agricultural waste substrates, creating dense, structural materials that can replace traditional products like styrofoam packaging, building insulation, and even leather.
 

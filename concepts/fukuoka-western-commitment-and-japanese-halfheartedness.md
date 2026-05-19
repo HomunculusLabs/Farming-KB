@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Western Commitment Versus Japanese Halfheartedness in Natural Farming
+## Western Commitment Versus Japanese Halfheartedness in Natural Farming
 
 ## Overview
 

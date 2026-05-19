@@ -6,7 +6,7 @@ source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamat
 created: 2026-05-09
 ---
 
-# Psilocin Synthesis from 4-Hydroxyindole
+## Psilocin Synthesis from 4-Hydroxyindole
 
 Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at Japan's National Institute of
 Health Sciences developed a concise, large-scale synthesis of psilocin (1) and

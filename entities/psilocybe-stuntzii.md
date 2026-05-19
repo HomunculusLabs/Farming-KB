@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe stuntzii
+## Psilocybe stuntzii
 
 **Psilocybe stuntzii** Guzmán & Ott (syn. *Psilocybe pugetensis* Harris) is a
 psilocybin-containing mushroom in the family Hymenogastraceae. It is commonly

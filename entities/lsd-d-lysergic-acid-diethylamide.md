@@ -5,10 +5,10 @@ type: chemical
 tags: [psychedelic, ergoline, serotonergic, tryptamine-derivative, controlled-substance]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+sources: ["raw/papers/hofmann-a-lsd-my-problem-child.md"]
 ---
 
-# LSD (D-lysergic acid diethylamide)
+## LSD (D-lysergic acid diethylamide)
 
 **D-lysergic acid diethylamide** (LSD), also known as **lysergide** and colloquially as **acid**, is a semi-synthetic psychedelic drug of the ergoline family. It is one of the most potent psychoactive substances known, active at doses as low as 20–30 micrograms. LSD was first synthesized by **Albert Hofmann** at Sandoz Pharmaceuticals in 1938 and its psychoactive effects were discovered in 1943, making it the first deliberately synthesized psychedelic compound.
 

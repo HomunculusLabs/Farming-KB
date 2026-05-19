@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Cordyceps Research in Cancer
+## Cordyceps Research in Cancer
 
 Cordyceps species occupy a unique position in [[singh-entomopathogenic-fungi-biocontrol-agents]] -- parasites of insect larvae. The most valued species, Cordyceps sinensis (now Ophiocordyceps sinensis), has been used in Chinese medicine for centuries. Modern research has identified several [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], making it a key differentiator in research.
 - **CS-F30** -- a polysaccharide composed of galactose, glucose, and mannose with demonstrated effects on cholesterol, triglycerides, and blood sugar

@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-# Potato Growing Guide
+## Potato Growing Guide
 
 Potatoes (Solanum tuberosum) are a high-yielding, calorie-dense staple crop well-suited to home gardens. This guide covers seed potato selection, hilling methods, container growing, harvest timing, storage, and popular varieties.
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Creating a Rice Paddy by Natural Methods
+## Creating a Rice Paddy by Natural Methods
 
 In the practical section of *The Natural Way of Farming*, Fukuoka contrasts modern
 mechanized [[coleman-sunlight-and-winter-crop-growth-rates]].

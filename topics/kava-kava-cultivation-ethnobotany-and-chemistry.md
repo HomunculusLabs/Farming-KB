@@ -21,7 +21,7 @@ sources:
   - WHO. Kava: A review of the safety of traditional and complementary/alternative medicine. WHO, 2007.
 ---
 
-# Kava Kava — Cultivation, Ethnobotany, and Chemistry
+## Kava Kava — Cultivation, Ethnobotany, and Chemistry
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Lentinus tigrinus (Tiger Sawgill)
+## Lentinus tigrinus (Tiger Sawgill)
 
 ## Description
 

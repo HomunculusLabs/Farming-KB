@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 ---
-# Microscope Identification of Soil Organisms
+## Microscope Identification of Soil Organisms
 
 Updated: 2026-04-18
 

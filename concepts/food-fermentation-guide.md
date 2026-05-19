@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Food Fermentation Guide
+## Food Fermentation Guide
 
 Lacto-fermentation is the process of preserving food through the action of lactic acid bacteria (LAB), primarily Lactobacillus species. These bacteria convert sugars into lactic acid, lowering pH below 4.6, which inhibits pathogenic organisms and preserves the food. Fermentation is one of the oldest food preservation methods and is central to homestead food security and nutrition.
 

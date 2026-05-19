@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Eleusinian Initiation Ritual Sequence and Comparative Mysteries
+## Eleusinian Initiation Ritual Sequence and Comparative Mysteries
 
 The [[ancient-greek-mystery-cults-comparison]] initiate's life. Months of learning and rituals preceded the culminating revelation night. The entire sequence was a reenactment of sacred drama in which initiates experienced, as actors, the ineffable -- all senses and emotions shot through with what would thereafter be the unspeakable.
 

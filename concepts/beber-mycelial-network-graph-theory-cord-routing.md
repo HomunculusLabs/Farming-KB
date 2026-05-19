@@ -7,7 +7,7 @@ published: 2007
 tags: [mycelial-network, graph-theory, fungal-cords, network-analysis, nutrient-transport, phanerochaete-velutina, foraging, resource-allocation]
 ---
 
-# Mycelial Network Graph Theory and Cord Transport Routing
+## Mycelial Network Graph Theory and Cord Transport Routing
 
 ## Overview
 

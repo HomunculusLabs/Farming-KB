@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Cubensis Strains, Names and Marketing
+## Psilocybe Cubensis Strains, Names and Marketing
 
 ## The Commercial Fiction of Mushroom Strain Varieties
 

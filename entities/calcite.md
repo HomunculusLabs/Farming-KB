@@ -5,7 +5,7 @@ type: entity
 tags: [mineral, carbonate, calcium, soil-amendment, evaporite]
 ---
 
-# Calcite
+## Calcite
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Lignin Peroxidase and Veratryl Alcohol Mediation
+## Fungal Lignin Peroxidase and Veratryl Alcohol Mediation
 
 ## Overview
 

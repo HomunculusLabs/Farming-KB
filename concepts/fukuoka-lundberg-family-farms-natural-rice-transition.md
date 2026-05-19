@@ -15,7 +15,7 @@ sources:
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
-# Lundberg Family Farms Natural Rice Transition
+## Lundberg Family Farms Natural Rice Transition
 
 ## Overview
 

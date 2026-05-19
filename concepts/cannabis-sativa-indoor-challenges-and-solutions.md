@@ -1,4 +1,8 @@
-# Cannabis Sativa Indoor Cultivation Challenges and Solutions
+---
+title: "Cannabis Sativa Indoor Cultivation Challenges and Solutions"
+tags:
+  - concept
+---
 
 ## Overview
 

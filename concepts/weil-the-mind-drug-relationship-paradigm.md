@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [reference]
 ---
-# Weil — The Mind-Drug Relationship Paradigm
+## Weil — The Mind-Drug Relationship Paradigm
 
 ## The Standard Paradigm
 

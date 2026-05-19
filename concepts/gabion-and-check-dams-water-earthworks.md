@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gabion and Check Dams
+## Gabion and Check Dams
 
 [[sealing-leaky-dams]] — methods for waterproofing dam structures
 - [[mollison-designers-diversion-drains-and-interceptor-banks]] — complementary earthworks for water distribution

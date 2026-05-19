@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Use Beneficial Nematodes for Soil Pest Control
+## How to Use Beneficial Nematodes for Soil Pest Control
 
 ## What Are Beneficial Nematodes?
 

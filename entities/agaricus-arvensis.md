@@ -5,9 +5,9 @@ type: species
 tags: [mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Agaricus arvensis Agaricus arvensis, commonly known as the Horse Mushroom, is a large and highly prized edible mushroom found in grasslands, pastures, and open areas throughout temperate regions of the world. Larger and more robust than the common Meadow Mushroom ([[agaricus-campestris]] but typically in richer, more manured soils.
+## Agaricus arvensis Agaricus arvensis, commonly known as the Horse Mushroom, is a large and highly prized edible mushroom found in grasslands, pastures, and open areas throughout temperate regions of the world. Larger and more robust than the common Meadow Mushroom ([[agaricus-campestris]] but typically in richer, more manured soils.
 - **Seasonality:** Late summer through autumn, often appearing in abundance after warm rains.
 - **Growth pattern:** Can form [[agaricus-campestris]] in the seasonal succession. It may continue fruiting into November during mild autumns. Individual fruitings last 2-3 weeks, with repeated flushes possible from the same mycelium if conditions remain favorable.
 

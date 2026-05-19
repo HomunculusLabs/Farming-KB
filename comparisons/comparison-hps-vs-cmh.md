@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# HPS vs CMH [[hps-grow-lights]]
+## HPS vs CMH [[hps-grow-lights]]
 
 HPS (High [[cervantes-high-pressure-sodium-lighting]]) lamps are HID lights widely regarded as the most
 efficient lighting for flowering cannabis. They produce yellow/orange/red

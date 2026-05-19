@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# pyr-T (Pyrrolidyltryptamine) — TIHKAL #52
+## pyr-T (Pyrrolidyltryptamine) — TIHKAL #52
 
 ## Compound Identity
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Citrus Orchard Establishment from Bare Hillside
+## Citrus Orchard Establishment from Bare Hillside
 
 Masanobu Fukuoka described in detail how he established his citrus
 orchards from bare hillside land, providing a practical model for

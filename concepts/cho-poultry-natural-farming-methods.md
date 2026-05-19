@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cho's Poultry Natural Farming Methods
+## Cho's Poultry Natural Farming Methods
 
 Dr. Cho's [[knf-piggery-without-smell]]
 -   [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

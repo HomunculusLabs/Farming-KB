@@ -5,7 +5,7 @@ tags: [mckenna, psychedelics, addiction, culture, habit, society, consciousness,
 created: 2026-05-11
 ---
 
-# The Habit-Obsession-Addiction Spectrum and Cultural Formation
+## The Habit-Obsession-Addiction Spectrum and Cultural Formation
 
 ## The Spectrum of Diminishing Free Will
 

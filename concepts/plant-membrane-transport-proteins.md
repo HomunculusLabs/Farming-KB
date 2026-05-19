@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Plant Membrane Transport Proteins
+## Plant Membrane Transport Proteins
 
 Plant cells rely on specialized membrane proteins to move nutrients, ions, and water across their membranes. Because cell membranes are selectively permeable lipid bilayers, most dissolved nutrients cannot diffuse through them on their own. Transport proteins embedded in these membranes act as gatekeepers and movers, controlling what enters and exits each cellular compartment. Without these proteins, nutrient uptake from the soil would be impossible and intracellular homeostasis could not be maintained.
 

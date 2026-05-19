@@ -6,7 +6,7 @@ tags: [psychedelic, psychotherapy, shamanism, paradigm, Metzner, entheogen, cere
 created: 2026-05-08
 ---
 
-# Four Paradigms of Psychedelic Use
+## Four Paradigms of Psychedelic Use
 
 ## Overview
 

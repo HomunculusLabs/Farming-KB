@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Kraft Pulp Bleach Effluent Fungal Decolorization
+## Kraft Pulp Bleach Effluent Fungal Decolorization
 
 The pulp and paper industry releases large volumes of intensely coloured
 wastewater, with bleach plant effluents (BPEs) being among the most

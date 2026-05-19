@@ -7,7 +7,7 @@ type: concept
 tags: [reference]
 ---
 
-# Eleusinian Mysteries
+## Eleusinian Mysteries
 
 [[ancient-greek-mystery-cults-comparison]] world, celebrated annually for nearly two millennia at the
 sanctuary of [[coleman-louis-savier-twentieth-century-maraicher]], no one knew what justified utterances such as

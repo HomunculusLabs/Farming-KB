@@ -8,7 +8,7 @@ tags: [gardening, harvest, cole-crops, storage, organic-gardening]
 sources:
   - "raw/papers/purdue-home-gardeners-guide.md"
 ---
-# Cole Crop Harvest and Storage
+## Cole Crop Harvest and Storage
 
 Detailed [[cool-climate-home-garden-mollison]], based on Purdue Extension guidelines.
 Cole crops store best under cold, moist conditions (32 to 40 degrees

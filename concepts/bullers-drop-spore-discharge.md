@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
-# Buller's Drop and Spore Discharge Mechanism
+## Buller's Drop and Spore Discharge Mechanism
 
 Buller's drop is the fluid droplet mechanism that powers spore discharge ([[bloomfield-john-webster-ballistospore-discharge-discovery]])
 in [[gasteromycete-fungi]] have lost this mechanism. Their spores lack

@@ -9,7 +9,7 @@ type: concept
 tags: [cultivation, holzer, mushroom-cultivation]
 ---
 
-# Holzer Mushroom Cultivation (Outdoor Methods)
+## Holzer Mushroom Cultivation (Outdoor Methods)
 
 Mushroom cultivation is a significant component of [[mycelium-running-symbiotic-fungi-relationships]] in the soil are lost, and replanted trees at different altitudes will not have the fungi they need.
 

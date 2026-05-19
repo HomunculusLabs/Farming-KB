@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Time Stacking and Succession
+## Permaculture Time Stacking and Succession
 
 Time stacking and succession are among the most powerful design tools in
 [[permaculture]]. They compress productive cycles, increase yields per unit area,

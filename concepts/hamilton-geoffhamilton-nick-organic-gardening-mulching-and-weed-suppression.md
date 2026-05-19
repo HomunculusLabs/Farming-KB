@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# Mulching and Weed Suppression
+## Mulching and Weed Suppression
 
 Mulching is one of the most important and versatile techniques available
 to the organic gardener. It involves spreading a layer of [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]] and will

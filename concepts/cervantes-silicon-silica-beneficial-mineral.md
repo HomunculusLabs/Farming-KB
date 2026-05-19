@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Silicon and Silica Benefits for Cannabis
+## Silicon and Silica Benefits for Cannabis
 
 Silicon is a beneficial mineral element that, while not classified as
 essential for all plants, provides significant advantages for cannabis

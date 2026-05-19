@@ -5,7 +5,7 @@ type: entity
 tags: [ascomycete, mycoparasite, fungicolous, toxin-producer, biocontrol]
 ---
 
-# Sesquicillium microsporum
+## Sesquicillium microsporum
 
 ## Description
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycete, edible, saprotrophic, oyster-mushroom, bioremediation]
 ---
 
-# Pleurotus ostreatus
+## Pleurotus ostreatus
 
 ## Description
 

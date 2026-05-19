@@ -1,4 +1,8 @@
-# Protozoa and Nematode [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by consuming bacteria and fungi and releasing
+---
+title: "Protozoa and Nematode comparison nutrient cycling vs nutrient dense gardening by consuming bacteria and fungi and releasing"
+tags:
+  - concept
+---
 plant-available nutrients, primarily ammonium. Without these micro-predators,
 nutrients remain locked in microbial biomass and are unavailable to plants. Dr.
 [[mycorrhizal-fungi]].
@@ -122,5 +126,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]
 - [[protozoa-in-soil]]
 - [[soil-protozoa-nutrient-cycling-and-mineralization]]
-- [[soil-protozoa-nutrient-cycling-mineralization]]
+- [[soil-protozoa-nutrient-cycling-and-mineralization]]
 - [[teaming-with-microbes-protozoa-and-nematodes]]

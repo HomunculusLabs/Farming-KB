@@ -10,7 +10,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Planned Grazing and Livestock Management
+## Planned Grazing and Livestock Management
 
 Planned grazing is the centerpiece of [[dighton-selective-grazing-fungal-community-shifts]] by concentrating animals so they consume all available forage
 

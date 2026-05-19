@@ -7,7 +7,7 @@ tags: [fertilizer, organic]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Hamilton Concentrated [[hamilton-organic-fertilizers-and-plant-nutrition]]
+## Hamilton Concentrated [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]
 ## Background and Context
 

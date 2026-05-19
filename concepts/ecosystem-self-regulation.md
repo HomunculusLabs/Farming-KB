@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ecology, biodiversity, food-webs, balance, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Ecosystem Self-Regulation
+## Ecosystem Self-Regulation
 
 Ecosystem self-regulation is the capacity of natural systems to maintain
 balance among populations of organisms without external management or human

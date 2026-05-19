@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Shiitake Log vs Sawdust Cultivation Comparison
+## Shiitake Log vs Sawdust Cultivation Comparison
 Shiitake (Lentinula edodes) can be cultivated by two fundamentally different methods: traditional log culture and modern indoor sawdust-based culture. Each approach has distinct advantages, limitations, and economics that make them suitable for different scales and goals of production. The choice between them significantly affects startup cost, time to first harvest, total yield, and profitability. See [[permaculture-farm-design-principles]] systems
 - Mushrooms are considered by many connoisseurs to have superior flavor and texture
 - Provides modest supplementary income for woodlot owners

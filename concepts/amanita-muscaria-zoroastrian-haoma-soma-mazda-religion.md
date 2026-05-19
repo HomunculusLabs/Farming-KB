@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Zoroastrian Mazda Religion, Haoma/Soma, and Christian Influence
+## Zoroastrian Mazda Religion, Haoma/Soma, and Christian Influence
 
 ## Zoroastrian Religion Overview
 

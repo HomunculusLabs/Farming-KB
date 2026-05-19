@@ -4,7 +4,7 @@ source: Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-
 tags: [mycology, mushroom-cultivation, stropharia-rugoso-annulata, mycofiltration, permaculture, biological-filtration, soil-building]
 ---
 
-# King Stropharia (Stropharia rugoso-annulata) Cultivation and Mycofiltration
+## King Stropharia (Stropharia rugoso-annulata) Cultivation and Mycofiltration
 
 ## Overview
 

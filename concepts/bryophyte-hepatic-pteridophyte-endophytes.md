@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Endophytic Fungi of Bryophytes, Hepatics, and Pteridophytes
+## Endophytic Fungi of Bryophytes, Hepatics, and Pteridophytes
 
 The association of [[pteridium-aquilinum]] (bracken fern) are colonized by a variety
 of fungi, including:

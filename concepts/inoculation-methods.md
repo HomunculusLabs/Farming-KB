@@ -19,7 +19,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Mushroom Inoculation Methods
+## Mushroom Inoculation Methods
 
 From Chapter 9 of *Mycelium Running* by [[paul-stamets]]. This chapter covers the practical methods for starting and expanding mycelium, from the simplest spore techniques to advanced spawn multiplication.
 

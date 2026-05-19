@@ -9,7 +9,7 @@ tags:
   - ascomycota
 ---
 
-# Ophiognomonia cryptica
+## Ophiognomonia cryptica
 
 ## Description
 

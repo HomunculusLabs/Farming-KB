@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Cannabis Indoor Ventilation and Airflow Setup
+## Cannabis Indoor Ventilation and Airflow Setup
 
 Proper ventilation and airflow are essential components of any successful [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]], excess humidity, CO2 depletion, and stagnant air conditions that promote mold and pest problems.
 

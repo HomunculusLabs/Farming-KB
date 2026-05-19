@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Species Families Overview
+## Hallucinogenic Mushroom Species Families Overview
 
 More than 100 species [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]) is the most
 commonly cultivated and marketed species. Numerous named varieties exist,

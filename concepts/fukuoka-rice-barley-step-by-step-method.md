@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Rice Barley Step-by-Step Method
+## Fukuoka Rice Barley Step-by-Step Method
 
 Updated: 2026-04-19
 

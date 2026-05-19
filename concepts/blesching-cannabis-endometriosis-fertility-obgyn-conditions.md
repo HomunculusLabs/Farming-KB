@@ -4,7 +4,7 @@ source: The uwe-blesching, PhD, 2015)
 tags: [cannabis, endometriosis, fertility, pregnancy, childbirth, menstrual, obgyn, endocannabinoid, blesching, chi-score]
 ---
 
-# Cannabis and OBGYN Conditions
+## Cannabis and OBGYN Conditions
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gangamma's Mandala and Tropical Sustenance [[gangammas-mandala-garden-design|garden|Garden]]
+## Gangamma's Mandala and Tropical Sustenance [[gangammas-mandala-garden-design|garden|Garden]]
 
 ## Overview
 

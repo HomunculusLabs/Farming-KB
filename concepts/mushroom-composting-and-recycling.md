@@ -24,7 +24,7 @@ sources:
 - raw/papers/fungi-and-sustainability-fungi-magazine.md
 ---
 
-# Mushroom Composting and Recycling
+## Mushroom Composting and Recycling
 
 Spent mushroom substrate (SMS) is the material remaining after mushroom fruiting is complete. Far from being waste, SMS is a valuable resource for soil building, composting, vermicomposting, and even animal feed. Integrating mushroom cultivation into a [[regenerative-agriculture-history]] system closes the nutrient loop and maximizes the return on substrate inputs.
 

@@ -8,7 +8,7 @@ tags: [cannabis, plant-growth]
 updated: 2026-04-26
 ---
 
-# Seed Production and Storage
+## Seed Production and Storage
 
 Seed production requires careful planning, selection of parent plants, and
 proper pollination techniques. Understanding the genetics of [[vegetative-propagation-methods-mollison]] see

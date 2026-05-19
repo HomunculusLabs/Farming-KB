@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Asthma Research
+## Cannabis and Asthma Research
 
 **Updated:** 2026-04-18
 

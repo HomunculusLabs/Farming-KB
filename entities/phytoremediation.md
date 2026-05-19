@@ -5,7 +5,7 @@ type: entity
 tags: [technique, bioremediation, heavy-metals, environmental-science, mycorrhizae]
 ---
 
-# Phytoremediation
+## Phytoremediation
 
 ## Description
 

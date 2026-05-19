@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, medicinal-mushrooms, beta-glucans, bioactive-compounds]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Medicinal Mushroom Bioactive Compounds
+## Medicinal Mushroom Bioactive Compounds
 
 Medicinal mushrooms produce a diverse array of bioactive compounds that have
 been used in traditional medicine for centuries and are increasingly validated

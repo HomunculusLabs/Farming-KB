@@ -8,7 +8,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 created: 2026-05-10
 ---
 
-# Mushroom Hormones and Gill-Directed Tropic Responses
+## Mushroom Hormones and Gill-Directed Tropic Responses
 
 ## Overview
 

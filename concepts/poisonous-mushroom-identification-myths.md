@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Poisonous Mushroom Identification Myths
+## Poisonous Mushroom Identification Myths
 
 ## Overview
 

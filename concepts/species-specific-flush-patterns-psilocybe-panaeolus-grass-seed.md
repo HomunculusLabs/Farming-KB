@@ -6,7 +6,7 @@ created: 2026-05-08
 source: guid-mhtml-file-exotic-cultivation-grass-seed.md
 ---
 
-# Species-Specific Flush Patterns in Psilocybe and Panaeolus Cultivation
+## Species-Specific Flush Patterns in Psilocybe and Panaeolus Cultivation
 
 ## Overview
 

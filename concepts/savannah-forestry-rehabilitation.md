@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Savannah Forestry Rehabilitation
+## Savannah Forestry Rehabilitation
 
 Savannah forestry is the systematic restoration of degraded tropical grasslands—often caused by overgrazing, fire, and slash-and-burn practices—back into productive forest systems. Wherever native forests have been ruined, particularly in the wet-dry tropics, closed grassland species of fire-prone and tough grasses develop, closing out tree seedbeds and preventing good management practices. Further degradation can result in depauperate grasslands with low stock carrying capacity, bare and eroded acidic soils (pH 4–4.5), and persistent barriers to reforestation.
 

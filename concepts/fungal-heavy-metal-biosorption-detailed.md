@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Heavy Metal Biosorption — Detailed ## Overview Fungal biosorption of heavy metals is a metabolism-independent process where metal ions bind to cell wall functional groups. It differs from bioaccumulation, which is energy-dependent and involves intracellular transport. For a foundational comparison, see [[bioremediation-fungal-biomass-biosorbent-material]] can be immobilized in:
+## Fungal Heavy Metal Biosorption — Detailed ## Overview Fungal biosorption of heavy metals is a metabolism-independent process where metal ions bind to cell wall functional groups. It differs from bioaccumulation, which is energy-dependent and involves intracellular transport. For a foundational comparison, see [[bioremediation-fungal-biomass-biosorbent-material]] can be immobilized in:
 - **Alginate and carrageenan beads**: Natural polymers producing porous biosorbents
 - **Polyvinyl alcohol (PVA) matrices**: Synthetic polymers with good stability
 - **Polyacrylamide and polysulfone gels**: High mechanical strength

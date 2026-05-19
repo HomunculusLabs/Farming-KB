@@ -18,7 +18,7 @@ sources:
   - Arnolds, E. (2010). "The Fungi of the Netherlands." CBS-KNAW.
 ---
 
-# Imleria badia
+## Imleria badia
 
 ## Overview
 

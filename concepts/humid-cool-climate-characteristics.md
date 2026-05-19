@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Humid Cool Climate Characteristics
+## Humid Cool Climate Characteristics
 
 Humid cool (mesothermal) climates encompass some of the most productive agricultural regions on Earth, spanning much of Europe, China, Japan, North America (both Pacific Northwest and Northeast), Canada, southern South America, southeastern and southwestern Australia, the Andean slopes, and the outer slopes of the Himalayas. These climates are defined by a coldest month averaging below 0°C and a warmest month above 10°C, with plant growth concentrated in spring and summer and a less marked autumn growth period before winter dormancy.
 

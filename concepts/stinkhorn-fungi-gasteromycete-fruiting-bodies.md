@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Stinkhorn Fungi and Gasteromycete Fruiting Bodies
+## Stinkhorn Fungi and Gasteromycete Fruiting Bodies
 
 ## Overview
 

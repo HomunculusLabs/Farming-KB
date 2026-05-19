@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Natural Fertilizer Sources and Application Guide
+## Natural Fertilizer Sources and Application Guide
 
 Natural fertilizers should be selected based on soil test results. No two gardens are alike, so fertilizer choice must be individual.
 

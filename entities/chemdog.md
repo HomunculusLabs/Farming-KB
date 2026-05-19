@@ -23,7 +23,7 @@ sources:
   - https://www.wikileaf.com/strain/chemdog/
 ---
 
-# Chemdog
+## Chemdog
 
 Chemdog (also written Chem Dog) is a legendary [[girl-scout-cookies]]. Originating from a chance
 encounter at a [[vic-high-cannabis-genetics-mendelian-inheritance]].

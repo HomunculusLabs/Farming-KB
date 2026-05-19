@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Succession During Resource Decomposition
+## Fungal Succession During Resource Decomposition
 
 The decomposition of organic resources by fungi is not a static process
 but a dynamic succession of species adapted to different stages of

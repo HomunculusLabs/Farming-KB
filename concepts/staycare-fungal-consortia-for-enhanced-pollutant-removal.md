@@ -13,7 +13,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Fungal Consortia for Enhanced Pollutant Removal
+## Fungal Consortia for Enhanced Pollutant Removal
 
 ## Overview
 

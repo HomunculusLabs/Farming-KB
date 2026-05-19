@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Soil [[holmgren-soil-humus-carbon-storage-rebuilding|Carbon Stores]] Under Climate Change
+## Soil [[holmgren-soil-humus-carbon-storage-rebuilding|Carbon Stores]] Under Climate Change
 
 Roots and their mycorrhizal fungal associates represent a critically important but frequently overlooked component of terrestrial carbon storage. As atmospheric CO₂ concentrations and temperatures continue to rise, understanding how below-ground carbon dynamics respond is essential for predicting ecosystem-level feedbacks to climate change.
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-# [[hemenway-backyard-wildlife-habitat]], firewood production, privacy screening,
+## [[hemenway-backyard-wildlife-habitat]], firewood production, privacy screening,
 and [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] at the expense of fruit and leaf production. Livestock in
 windy conditions consume more feed to maintain body temperature while
 gaining less weight. Windbreaks that reduce wind speed by even 50 percent

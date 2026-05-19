@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: entity
 ---
 
-# Ethanol (Ethyl Alcohol)
+## Ethanol (Ethyl Alcohol)
 
 ## Description
 

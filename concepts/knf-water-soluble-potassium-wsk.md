@@ -8,7 +8,7 @@ sources: [raw/papers/chos-global-natural-farming.md]
 type: concept
 ---
 
-# Water-Soluble Potassium (WS-K)
+## Water-Soluble Potassium (WS-K)
 
 Water-Soluble Potassium (WS-K) is a Korean [[fukuoka-hotel-analogy-crop-yield-model]] and quality. In KNF, WS-K is extracted
 through a simple water-percolation method using dried tobacco stems,

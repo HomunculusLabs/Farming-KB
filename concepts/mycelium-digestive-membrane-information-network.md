@@ -10,7 +10,7 @@ topics:
   - substrate decomposition
 ---
 
-# Mycelium as Digestive Membrane and Information Network
+## Mycelium as Digestive Membrane and Information Network
 
 ## Overview
 

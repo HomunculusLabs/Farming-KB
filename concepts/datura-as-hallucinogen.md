@@ -1,5 +1,10 @@
+---
+title: "Datura As Hallucinogen"
+tags:
+  - concept
+---
 
-# Datura as Hallucinogen
+## Datura as Hallucinogen
 
 Datura species contain potent tropane alkaloids — primarily scopolamine, hyoscyamine, and atropine — that produce a distinctive deliriant state rather than classic psychedelic effects. Schultes's "[[datura-stramonium]]* (jimsonweed), *D. inoxia* (downy thornapple), *D. metel* (Hindu datura), *D. candida* (angel's trumpet), *D. aurea* (golden angel's trumpet).
 
@@ -143,8 +148,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[datura-ceratocaula]]
-- [[datura-innoxia]]

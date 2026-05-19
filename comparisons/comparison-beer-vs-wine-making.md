@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Beer Brewing vs Wine Making
+## Beer Brewing vs Wine Making
 
 ## Overview
 

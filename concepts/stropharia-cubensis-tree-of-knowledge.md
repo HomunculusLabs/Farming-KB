@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Stropharia Cubensis as the Original Tree of Knowledge
+## Stropharia Cubensis as the Original Tree of Knowledge
 
 ## Overview
 

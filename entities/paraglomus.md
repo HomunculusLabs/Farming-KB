@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, glomales, arbuscular-mycorrhizae, amf, genus, ancient-lineage]
 ---
 
-# Paraglomus
+## Paraglomus
 
 ## Description
 

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Gardening When It Counts — Introduction and Philosophy
+## Gardening When It Counts — Introduction and Philosophy
 
 ## Overview
 

@@ -17,7 +17,7 @@ sources:
   - Binder M, Hibbett DS (2006). "Molecular systematics and biological diversification of Boletales." Mycologia 98(6): 971–981.
 ---
 
-# Suillus tomentosus
+## Suillus tomentosus
 
 ## Overview
 

@@ -13,7 +13,7 @@ tags:
 created: 2026-05-10
 ---
 
-# Anemotropism in Fungi
+## Anemotropism in Fungi
 
 Anemotropism is the directional growth response of organisms to wind or air flow.
 It is one of several tropisms documented in [[phototropism]] or [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] tied to air movement rather than light or gravity.

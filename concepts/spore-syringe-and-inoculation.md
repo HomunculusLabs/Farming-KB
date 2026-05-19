@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, inoculation, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Spore Syringe and Inoculation ## Overview Inoculation is the process of introducing fungal genetic material into a sterile substrate to initiate [[query-how-to-store-mushroom-spores-long-term]] are single-celled reproductive units produced by the gills,
+## Spore Syringe and Inoculation ## Overview Inoculation is the process of introducing fungal genetic material into a sterile substrate to initiate [[query-how-to-store-mushroom-spores-long-term]] are single-celled reproductive units produced by the gills,
 pores, teeth, or other spore-bearing surfaces of the [[bloomfield-basidiomycete-mating-systems-tetrapolar-incompatibility-dikaryon-genetics]]
 systems are typically tetrapolar (controlled by two unlinked mating-type loci,
 A and B), meaning that only about 25% of random pairings between spores from

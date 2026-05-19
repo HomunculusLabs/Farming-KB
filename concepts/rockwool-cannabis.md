@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Rockwool for Cannabis
+## Rockwool for Cannabis
 
 Rockwool is an exceptional [[cannabis-grow-hydroponic-growing-systems]] medium in the world and is widely used across all types of [[cannabis-nutrient-solution-preparation]] within their fiber, and are clean and easy to use.
 - **Rockwool blocks**: Larger blocks (3 to 4 inches or more) that small starter cubes are transplanted into. Used for [[deep-water-culture]] and banisteriopsis caapi systems. The rockwool supports the young plant while roots grow through the net pot into the nutrient solution or misting chamber.

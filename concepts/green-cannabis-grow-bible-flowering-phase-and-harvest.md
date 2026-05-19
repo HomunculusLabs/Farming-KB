@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, harvesting]
 ---
 
-# Flowering Phase and Harvest
+## Flowering Phase and Harvest
 
 Greg Green's Cannabis Grow Bible provides comprehensive guidance on the
 [[cannabis-harvesting-and-curing-techniques]] techniques.

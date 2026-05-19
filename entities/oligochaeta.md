@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Oligochaeta (Segmented Worms)
+## Oligochaeta (Segmented Worms)
 
 ## Description
 

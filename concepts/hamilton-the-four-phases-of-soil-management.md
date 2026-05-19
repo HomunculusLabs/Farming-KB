@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# The Four Phases of Soil Management
+## The Four Phases of Soil Management
 
 Geoff Hamilton divides soil management into four sequential phases that
 provide a systematic framework for building and maintaining fertile soil in

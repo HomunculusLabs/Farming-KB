@@ -5,7 +5,7 @@ tags: [aact, compost-tea, fish-hydrolysate, marine-minerals, brewing-ingredients
 created: 2026-05-10
 ---
 
-# Fish Hydrolysate and Marine-Based Ingredients in AACT Brewing
+## Fish Hydrolysate and Marine-Based Ingredients in AACT Brewing
 
 ## Overview
 

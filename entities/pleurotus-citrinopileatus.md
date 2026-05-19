@@ -11,7 +11,7 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/pleurotus
 ---
 
-# Pleurotus citrinopileatus
+## Pleurotus citrinopileatus
 
 **Pleurotus citrinopileatus**, commonly known as the golden oyster mushroom or yellow oyster mushroom, is an edible gilled fungus in the family Pleurotaceae. Native to subtropical hardwood forests of East and Southeast Asia, it is prized for its striking golden-yellow coloration, delicate texture, and rich cashew- or almond-like aroma. Among the most visually distinctive of all [[pleurotus-cornucopiae]]* (P. cornucopiae var. citrinopileatus), but molecular phylogenetic studies have confirmed its status as a distinct species within the *Pleurotus* genus. It is closely related to *P. cornucopiae*, *P. ostreatus*, and *P. eryngii*.
 

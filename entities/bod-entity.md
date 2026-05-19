@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# BOD
+## BOD
 
 BOD (beta-methoxy-2C-D; 4-methyl-2,5,beta-trimethoxyphenethylamine) is a psychedelic phenethylamine and the founding member of the BOX series, described in [[bob-entity]] analogue would have been named "BOMB," but the shorter naming convention was retained.
 

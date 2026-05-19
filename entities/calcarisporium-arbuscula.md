@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Calcarisporium arbuscula
+## Calcarisporium arbuscula
 
 Calcarisporium arbuscula is a common fungicolous hyphomycete that grows on the sporocarps of many agaric mushrooms and bracket fungi. It is one of the most frequently encountered mycoparasitic fungi on [[piptoporus-betulinus]]. On decaying polypore sporocarps, it forms part of a characteristic community alongside rhinotrichella-globulifera, [[fungi-cultivated-mushrooms-pathogens-competitors]] (Gandy 1979). acremonium-strictum also parasitizes M. perniciosa and can inhibit its growth, representing a complex web of mycoparasitic interactions among mushroom pathogens and their parasites. This trophic cascade, where a mycoparasite is itself parasitized by another fungus, illustrates the complex food web relationships that exist among fungicolous organisms.
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Hash and Cannabis Oil Production
+## Hash and Cannabis Oil Production
 
 Hash oil and cannabis oil are concentrated forms of [[jorge-cervantes]] covers these
 concentrates in Chapter Fifteen of the Marijuana Horticulture guide,

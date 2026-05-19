@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Root Crops: Growing Guide
+## Root Crops: Growing Guide
 
 Source: [[holmgren-catch-and-store-energy-four-landscape-storages]] in year one, then flower and set seed in year two.
 

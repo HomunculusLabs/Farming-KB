@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Gonorrhea
+## Cannabis and Gonorrhea
 
 ## Overview
 

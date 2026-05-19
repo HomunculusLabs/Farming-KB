@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Mulch vs Cover Crops
+## Mulch vs Cover Crops
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka's Critique of Scientific Farming and Energy Efficiency
+## Fukuoka's Critique of Scientific Farming and Energy Efficiency
 
 Masanobu Fukuoka's *The One-Straw Revolution* presents a radical critique of modern scientific farming, arguing that humanity's departure from natural agricultural methods has produced an unsustainable, energy-wasteful system that degrades both the land and the spirit. His [[four-principles-of-natural-farming]]:
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Ultra-Low-Cost Farming Overview
+## Ultra-Low-Cost Farming Overview
 
 ## Core Philosophy
 

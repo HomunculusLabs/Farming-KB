@@ -5,7 +5,7 @@ source_author: alexander-shulgin
 topics: [phenethylamine, 2c-family, psychedelic, research-chemical, pihkal, shulgin]
 ---
 
-# 2C-I (2,5-Dimethoxy-4-Iodophenethylamine)
+## 2C-I (2,5-Dimethoxy-4-Iodophenethylamine)
 
 ## Chemical Identity
 

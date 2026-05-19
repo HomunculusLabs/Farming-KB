@@ -9,7 +9,7 @@ sources:
   - "general mycological knowledge"
 ---
 
-# Kuehneromyces mutabilis
+## Kuehneromyces mutabilis
 
 Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or brown birch bolete, is a saprotrophic agaric mushroom in the family Strophariaceae. It is widely distributed across temperate and [[fagus-sylvatica]]), oak (Quercus spp.), alder (Alnus spp.), and elm (Ulmus spp.). Occasionally found on conifer stumps.
 - **Substrate:** Dead trunks, stumps, branches, and fallen logs; prefers well-decayed wood

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Diffusion, Osmosis, and Active Transport in Plants
+## Diffusion, Osmosis, and Active Transport in Plants
 
 Understanding how molecules move into, through, and within plants is fundamental to understanding plant nutrition. Three mechanisms govern this movement: diffusion (passive), osmosis (a special case of diffusion involving water), and active transport (energy-requiring).
 

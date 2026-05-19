@@ -4,10 +4,10 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Cordyceps Cancer Research and Bioactive Compounds
+## Cordyceps Cancer Research and Bioactive Compounds
 
 Cordyceps sinensis (caterpillar fungus, Tochukaso) is a parasitic fungus that grows on Lepidoptera larvae. It has been highly regarded in Chinese medicine for centuries and produces several bioactive compounds with anti-cancer potential.
 

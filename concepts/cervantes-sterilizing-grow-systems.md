@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Sterilizing Grow Systems and Mediums
+## Sterilizing Grow Systems and Mediums
 
 Sterilizing used [[hamilton-pest-and-disease-control-organic]] carryover. [[cervantes-green-algae-growing-medium]], it must be sterilized to remove destructive
 [[cannabis-growing-mediums]]** that do not lose

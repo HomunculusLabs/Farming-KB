@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# Pest Control Methods
+## Pest Control Methods
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Nematodes
+## Teaming with Microbes — Nematodes
 
 In *Teaming with Microbes*, Lowenfels and Lewis present nematodes as essential players in the [[teaming-with-microbes-overview]], nematodes mineralize nutrients:
 - They consume bacteria and fungi that contain immobilized nitrogen

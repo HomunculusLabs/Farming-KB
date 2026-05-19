@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, photobiology, fruiting-research, basidiocarp, psilocybe]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md]
+sources: ["raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md"]
 type: concept
 ---
 
-# Light and Basidiocarp Initiation in Psilocybe Cubensis
+## Light and Basidiocarp Initiation in Psilocybe Cubensis
 
 E.R. Badham's 1980 paper in Mycologia (Vol. 72, No. 1, pp. 136-142) provides
 the first systematic determination of an action spectrum for basidiocarp

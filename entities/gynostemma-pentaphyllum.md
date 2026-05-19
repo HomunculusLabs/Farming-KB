@@ -19,7 +19,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4308029/
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8217037/
 ---
-# Jiaogulan (Gynostemma pentaphyllum)
+## Jiaogulan (Gynostemma pentaphyllum)
 
 ## Overview
 - **Scientific name:** Gynostemma pentaphyllum (Thunb.) Makino

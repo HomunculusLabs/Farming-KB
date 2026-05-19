@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis Decarboxylation and Raw Cannabis Use
+## Cannabis Decarboxylation and Raw Cannabis Use
 
 Decarboxylation is the chemical process by which the acidic precursors of
 cannabinoids in fresh cannabis are converted into their active forms through

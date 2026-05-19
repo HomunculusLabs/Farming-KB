@@ -28,7 +28,7 @@ sources:
   - Kuo, M. et al. (2012). Mycologia 104(5): 1161-1172.
 ---
 
-# Suillus americanus
+## Suillus americanus
 
 **American Slipper Jack** | *Boletus americanus* Peck
 

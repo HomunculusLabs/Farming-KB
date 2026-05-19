@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Estimating Fungal Biodiversity on Living Plants
+## Estimating Fungal Biodiversity on Living Plants
 
 ## Overview
 

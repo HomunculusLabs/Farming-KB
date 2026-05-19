@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hyperspace, the Law, and the Remarkable Overmind
+## Hyperspace, the Law, and the Remarkable Overmind
 
 In the closing chapters of Food of the Gods, McKenna brings together several strands of his argument: the legal suppression of psychedelic compounds,
 the phenomenology of the [[mckenna-tryptamine-hallucinogens-and-consciousness]], and the question of what humanity must recover from its archaic past

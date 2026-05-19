@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Soil Preparation and Bed Preparation
+## Soil Preparation and Bed Preparation
 
 Source: [[home-vegetable-garden-planning]], at its core, consists of: bare and loosen the soil surface so seeds can sprout; eliminate competing wild plants; space plants so they are not overly competing with each other; and make the soil more fertile and moist than nature provides. These few practices are almost all there is to successful [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] your feet. Solomon recommends digging a test hole at least 36 inches (90 cm) deep. Observe:
 

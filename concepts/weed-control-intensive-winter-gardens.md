@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Weed Control in Intensive Winter Gardens
+## Weed Control in Intensive Winter Gardens
 
 [[fukuoka-natural-weed-management]] in intensive winter growing systems demands a proactive, multi-layered approach. Because crops are planted at very close spacings to maximize yield per square foot, weeds that go unchecked can dramatically slow harvest and reduce crop quality. The strategy outlined here prioritizes prevention first, then preemergence flaming, followed by precision cultivating — a hierarchy that aligns with the economics of small-scale, high-value [[coleman-beet-greens-cold-house-winter-production]].
 

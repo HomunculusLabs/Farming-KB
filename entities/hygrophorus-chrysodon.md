@@ -39,7 +39,7 @@ It is an ectomycorrhizal associate of both coniferous and deciduous trees, found
 
 ## Merged: "Hygrophorus agathosmus"
 
-# Hygrophorus agathosmus
+## Hygrophorus agathosmus
 
 ## Overview
 

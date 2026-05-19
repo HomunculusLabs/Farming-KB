@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Alpha-1,3 Glucan in Fungal Cell Walls of Human Pathogens
+## Alpha-1,3 Glucan in Fungal Cell Walls of Human Pathogens
 
 ## Overview
 

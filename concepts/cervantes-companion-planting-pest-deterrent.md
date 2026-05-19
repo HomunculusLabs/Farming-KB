@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Companion Planting for Cannabis Pest Deterrence
+## Companion Planting for Cannabis Pest Deterrence
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
 -- [[mollison-pdc-trellis-systems-climate-control]],

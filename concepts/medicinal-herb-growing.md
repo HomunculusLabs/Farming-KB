@@ -7,7 +7,7 @@ tags: [homesteading, cultivation, medicine, plants, gardening, drying, harvestin
 sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
 
-# Medicinal Herb Growing
+## Medicinal Herb Growing
 
 Growing your own medicinal herbs ensures quality, potency, and a ready supply of remedies. Many medicinal herbs are easy to grow, perennial, and thrive in a variety of conditions. This guide covers 15 essential medicinal herbs for the homestead garden.
 

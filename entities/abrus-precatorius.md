@@ -16,7 +16,7 @@ sources:
   - " USDA, NRCS. (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC."
 ---
 
-# Abrus precatorius
+## Abrus precatorius
 
 **Abrus precatorius** (rosary pea, jequirity bean, precatory bean) is a perennial climbing vine in the family Fabaceae. It is native to tropical and subtropical regions of the Old World and is now pantropical in distribution.
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook
 topics: season-extension, hotbeds, manure, compost-heat, french-agriculture, protected-cultivation
 ---
 
-# French Hotbed Manure-Heat System
+## French Hotbed Manure-Heat System
 
 ## The Foundation of Winter Vegetable Production
 

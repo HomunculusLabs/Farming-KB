@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Amanita Ibotenic Acid Fungi and Their Cultural Significance
+## Amanita Ibotenic Acid Fungi and Their Cultural Significance
 
 The second major group [[guzman-magic-mushrooms-ethnomycological-traditions]] in the
 world.

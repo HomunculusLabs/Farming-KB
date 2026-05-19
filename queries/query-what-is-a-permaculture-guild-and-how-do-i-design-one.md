@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is a Permaculture Guild and How Do I Design One
+## What Is a Permaculture Guild and How Do I Design One
 
 ## Short Answer
 A permaculture guild is a group of plants, animals, and fungi intentionally

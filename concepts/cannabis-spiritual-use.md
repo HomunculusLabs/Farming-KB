@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Spiritual Use
+## Cannabis Spiritual Use
 
 Cannabis has served as a sacrament in spiritual and religious practices across
 many cultures throughout human history. In the context of pagan and wiccan

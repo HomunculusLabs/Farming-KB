@@ -8,7 +8,7 @@ sources: ["Dioscorides De Materia Medica ~70 AD", "Stamets woodlovers-mycelium-r
 aliases: [Agarikon, agaric, Fomitopsis officinalis, Fomes officinalis, larch bracket, quinine conk]
 ---
 
-# Laricifomes officinalis (Vill.) Overh.
+## Laricifomes officinalis (Vill.) Overh.
 
 **Type:** Species (Fungus — Basidiomycete, Polypore)
 

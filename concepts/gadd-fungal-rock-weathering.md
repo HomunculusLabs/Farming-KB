@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-# Fungal Rock Weathering and Mineral Cycling
+## Fungal Rock Weathering and Mineral Cycling
 
 ## Definition and Scope
 

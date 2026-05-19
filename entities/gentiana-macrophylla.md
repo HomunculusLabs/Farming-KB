@@ -15,7 +15,7 @@ sources:
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. 1.
 ---
 
-# Gentiana macrophylla
+## Gentiana macrophylla
 
 ## Overview
 

@@ -22,7 +22,7 @@ sources:
   - "Wang, R. et al. (2021). \"Anti-diabetic effects of Cinnamomum cassia: a systematic review and meta-analysis.\" Journal of Ethnopharmacology, 277, 114253."
 ---
 
-# Cinnamomum cassia
+## Cinnamomum cassia
 
 ## Overview
 

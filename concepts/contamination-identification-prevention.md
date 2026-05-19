@@ -9,7 +9,7 @@ sources:
   - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 
-# Contamination Identification and Prevention
+## Contamination Identification and Prevention
 
 Contamination is the single greatest cause of failure in [[antimicrobial-compounds-mushroom-mycelium]]. The window between under-sterilization and over-sterilization must be found for each system.
 

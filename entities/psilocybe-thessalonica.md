@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, mediterranean-fungi, psychotropic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe thessalonica
+## Psilocybe thessalonica
 
 **Psilocybe thessalonica** is a bluing, psilocybin-containing mushroom species in the family strophariaceae, described from Thessaloniki in northern Greece. The species was formally named by Gastón Guzmán, a leading authority on psilocybian fungi, and contributes to the documented diversity of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] psilocybe-sect.-psilocybe.
 Molecular phylogenetic studies have since confirmed its placement among European and Mediterranean bluing Psilocybe species, with closest affinities to [[baeocystin]] is also likely present, as it commonly co-occurs with psilocybin in section Psilocybe species, though specific quantitative data are limited.

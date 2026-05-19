@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Catha edulis
+## Catha edulis
 
 **Catha edulis** (Vahl) Forssk. ex Endl. is an evergreen shrub or small tree in the family Celastraceae, native to the highlands of East Africa and the Arabian Peninsula. It is commonly known as **khat**, **qat**, **chat**, **miraa**, **jaad**, and **murungu**, depending on the region and language. The fresh leaves and young shoots of the plant contain the alkaloid **cathinone**, a potent central nervous system stimulant structurally related to amphetamine and methamphetamine. Khat chewing is a deeply entrenched social practice with centuries of history across the Horn of Africa and the Arabian Peninsula.
 

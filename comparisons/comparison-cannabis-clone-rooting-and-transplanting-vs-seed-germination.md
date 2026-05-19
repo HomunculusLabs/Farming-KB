@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Cannabis Clone Rooting vs Seed Germination
+## Cannabis Clone Rooting vs Seed Germination
 
 ## Overview
 

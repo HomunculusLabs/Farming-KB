@@ -22,7 +22,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# KNF Leaf Mold Humus
+## KNF Leaf Mold Humus
 
 Leaf mold is the partially decomposed organic matter found on forest floors beneath deciduous trees. In KNF, leaf mold serves multiple roles: as a collection site for IMO, as a compost ingredient, as a moisture-retaining mulch, and as a source of beneficial fungi and microorganisms. Leaf mold represents the natural end-point of forest nutrient cycling.
 

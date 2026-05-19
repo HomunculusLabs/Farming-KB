@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [mycology, sterilization, pressure-cooker, mushroom-cultivation, contamination-control]
 ---
 
-# Pressure Cooker Sterilization of Mushroom Substrate
+## Pressure Cooker Sterilization of Mushroom Substrate
 
 ## Overview
 

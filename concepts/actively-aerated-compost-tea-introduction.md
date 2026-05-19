@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Actively Aerated Compost Tea (AACT) Introduction
+## Actively Aerated Compost Tea (AACT) Introduction
 
 Actively Aerated Compost Tea (AACT) is a liquid extract produced by aerating high-quality compost in water, typically for 24 hours, to multiply and extract beneficial microorganisms. Developed and refined by Dr. Elaine R. Ingham over decades of soil microbiology research, AACT represents a practical method for restoring and maintaining the soil foodweb — the complex community of bacteria, fungi, protozoa, nematodes, and microarthropods that drives soil health, plant nutrition, and disease suppression.
 

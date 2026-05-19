@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# TB (4-Thiobuscaline; 3,5-Dimethoxy-4-(n)-butylthiophenethylamine)
+## TB (4-Thiobuscaline; 3,5-Dimethoxy-4-(n)-butylthiophenethylamine)
 
 TB is a sulfur-substituted phenethylamine and the n-butylthio analogue of [[buscaline-entity]]
 

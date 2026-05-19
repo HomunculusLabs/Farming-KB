@@ -8,7 +8,7 @@ sources:
   - ""raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 type: concept
 ---
-# Electricity in Permaculture
+## Electricity in Permaculture
 While electricity exists abundantly in nature, electrical systems as humans
 use them are not natural. We use machinery to convert other forms of
 energy into electricity, then convert that electricity into radical heat

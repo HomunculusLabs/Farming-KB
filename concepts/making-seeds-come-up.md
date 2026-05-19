@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Making Seeds Come Up
+## Making Seeds Come Up
 
 Reliable seed germination outdoors should not be difficult. The only conditions in which it should be hard to sprout seeds are the still-chilled soils of early spring and the high heat of midsummer when the earth can dry out rapidly. Even these stressful conditions can be surmounted with the right techniques. The key is understanding what seeds need and creating conditions that match those needs as closely as possible.
 

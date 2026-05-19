@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, climate, season-extension, earth-building]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Cold Climate Design Strategies
+## Cold Climate Design Strategies
 **Source:** [[query-how-do-i-grow-figs-in-cold-climates]], the primary design challenges are heat retention, frost
 protection, food storage through winter, and managing snow and ice.
 Primarily carnivorous diets have a valid place in special ecologies such as

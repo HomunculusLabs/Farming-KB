@@ -5,7 +5,7 @@ type: entity
 tags: [mushroom, species, polypore, medicinal, cultivation]
 ---
 
-# Laetiporus conifericola
+## Laetiporus conifericola
 
 ## Description
 

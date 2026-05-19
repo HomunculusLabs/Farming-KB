@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, plant-growth]
 ---
 
-# Cloning and Seed Propagation
+## Cloning and Seed Propagation
 
 Greg Green's Cannabis Grow Bible covers both seed-based propagation
 and cloning techniques for maintaining desirable [[maitake-fruiting-body-success-rate-management]]:

@@ -11,7 +11,7 @@ tags:
 extracted_date: 2026-05-11
 ---
 
-# Autoflowering Cannabis Genetics and Ruderalis Hybridization
+## Autoflowering Cannabis Genetics and Ruderalis Hybridization
 
 ## Cannabis Ruderalis Origins
 

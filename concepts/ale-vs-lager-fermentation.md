@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [preservation, food]
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 ---
-# Ale vs Lager Fermentation
+## Ale vs Lager Fermentation
 
 The fundamental division in the beer world is between ales and lagers. This distinction is not about ingredients or color but about the yeast and fermentation process. Understanding the differences between ale and lager fermentation is essential for any brewer and illuminates how a single category of beverage can produce such an enormous range of flavors and styles.
 

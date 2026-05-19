@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Wasson's Mexico Expeditions
+## Wasson's Mexico Expeditions
 
 Between 1953 and the mid-1960s, [Robert Gordon Wasson made ten
 successive trips to Mexico in pursuit of indigenous psychoactive mushroom use. These

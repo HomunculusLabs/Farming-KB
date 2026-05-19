@@ -5,7 +5,7 @@ type: entity
 tags: [phenomenon, ocean-atmosphere, climate-cycle, permaculture, ENSO]
 ---
 
-# El Niño
+## El Niño
 
 ## Description
 

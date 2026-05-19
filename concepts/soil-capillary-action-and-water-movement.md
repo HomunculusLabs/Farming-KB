@@ -6,7 +6,7 @@ tags: [soil-science, water-management, physics, capillarity, gardening, irrigati
 created: 2026-05-11
 ---
 
-# Soil Capillary Action and Water Movement
+## Soil Capillary Action and Water Movement
 
 Capillary action is one of the most important yet least understood physical
 phenomena in gardening. It governs how water moves through soil, how seeds

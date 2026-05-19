@@ -12,7 +12,7 @@ type: comparison
 created: 2026-05-07
 ---
 
-# Scented Geraniums vs Edible Flowers
+## Scented Geraniums vs Edible Flowers
 
 Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, flavor, and pollinator value to the garden—but they serve distinctly different roles. This comparison helps growers choose when to prioritize one over the other, or how to combine both for maximum garden impact.
 

@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and ALS (Lou Gehrig's Disease) Research
+## Cannabis and ALS (Lou Gehrig's Disease) Research
 
 **Source:** Uwe Blesching, The [[blesching-cannabis-spinal-cord-injuries]]. ~2 in 100,000 die of ALS in US. Most die within 3-5 years of onset. Mind remains mostly unaffected while body descends into total paralysis. Primary cause of death: respiratory failure.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Bacterial and Oomycete Disease Case Studies - AACT Treatments
+## Bacterial and Oomycete Disease Case Studies - AACT Treatments
 
 Extracted from Elaine Ingham's AACT Field Guide, covering diseases caused
 by bacteria, oomycetes, and fungal wilts treated with [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] makers preventing late

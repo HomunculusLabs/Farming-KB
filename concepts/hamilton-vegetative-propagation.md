@@ -7,7 +7,7 @@ tags: [gardening]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Hamilton: Vegetative Propagation — Cuttings, Division, and Layering
+## Hamilton: Vegetative Propagation — Cuttings, Division, and Layering
 
 **Source:** Geoff Hamilton, *[[geoff-hamilton-organic-techniques]] regarded vegetative propagation as one of the most satisfying aspects of organic gardening, allowing gardeners to multiply their best plants without relying on commercial nurseries that may use chemical treatments.
 

@@ -17,7 +17,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Trametes pubescens
+## Trametes pubescens
 
 ## Overview
 

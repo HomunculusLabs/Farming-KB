@@ -10,7 +10,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/books/NBK560534/
   - https://www.frontiersin.org/articles/10.3389/fphar.2021.647481/full
 ---
-# Ashwagandha Cultivation, Uses, and Adaptogenic Properties
+## Ashwagandha Cultivation, Uses, and Adaptogenic Properties
 
 ## Overview
 

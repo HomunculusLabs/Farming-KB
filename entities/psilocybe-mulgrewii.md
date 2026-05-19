@@ -10,7 +10,7 @@ sources:
   - ""raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
-# Psilocybe mulgrewii
+## Psilocybe mulgrewii
 
 Psilocybe mulgrewii is a rare bluing Psilocybe species in section Cyanescens, first described from the Pacific Northwest of [[psilocybe-cyanofibrillosa]], sharing their preference for coastal dune grass habitats and potent [[stamets-psi-psilocybe-azurescens-species-guide]], [[psilocin]] content. In young specimens, the cap may have a slight umbo, though this is less pronounced than in [[comparison-spore-print-collection-vs-spore-syringe-production]] is dark purplish brown to nearly black. Cheilocystidia are ventricose to lageniform with narrow necks, sometimes with a subcapitate apex, measuring 20 to 35 × 5 to 10 μm. Pleurocystidia are similar but less frequent. Basidia are four-spored, clavate. The pileipellis is an ixocutis of narrow, gelatinized hyphae.
 

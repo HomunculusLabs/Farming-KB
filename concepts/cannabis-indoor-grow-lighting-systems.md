@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Indoor Grow Lighting Systems
+## Cannabis Indoor Grow Lighting Systems
 
 Lighting is the single most critical environmental factor in [[green-cannabis-grow-bible-strain-selection-genetics]].
 

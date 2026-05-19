@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Guinea Pig Integration in Permaculture Gardens
+## Guinea Pig Integration in Permaculture Gardens
 
 In *Permaculture: A Designers' Manual*, Bill Mollison identifies the
 guinea pig (Cavia porcellus) as a uniquely valuable small domestic

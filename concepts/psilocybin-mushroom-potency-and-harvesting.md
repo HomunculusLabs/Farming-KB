@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# Psilocybin Mushroom Potency and Harvesting
+## Psilocybin Mushroom Potency and Harvesting
 
 The potency of psilocybin mushrooms is not static — it changes dramatically over the mushroom's lifecycle, and the timing of harvest is one of the most critical factors determining the quality and strength of the final product. Understanding the relationship between mushroom maturity, sporulation, and alkaloid content is essential for anyone cultivating or foraging psilocybin-containing fungi.
 

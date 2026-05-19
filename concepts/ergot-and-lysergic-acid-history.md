@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Ergot and Lysergic Acid History
+## Ergot and Lysergic Acid History
 
 The story of ergot and lysergic acid ([[eleusinian-mysteries-history-and-structure]] may signify these distinctive purple sclerotia. This connection is central to the Wasson-Hofmann theory that Eleusis celebrated with ergotized barley beer. The relationship between grain, ergot, and visionary experience is ancient: Demeter was goddess of both grain and poppies, and the confusion between the two in classical iconography reveals how closely intertwined food plants and psychoactive plants were in ancient consciousness.
 

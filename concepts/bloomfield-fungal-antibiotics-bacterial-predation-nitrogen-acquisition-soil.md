@@ -1,4 +1,8 @@
-# Fungal Antibiotics, Bacterial Predation, and Nitrogen Acquisition in Soil
+---
+title: "Fungal Antibiotics, Bacterial Predation, and Nitrogen Acquisition in Soil"
+tags:
+  - concept
+---
 
 ## Overview
 Fungi face a fundamental nutritional challenge when feeding on plant tissues: while
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 - [[bloomfield-amatoxin-poisoning-mechanism]]
 - [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
-- [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]

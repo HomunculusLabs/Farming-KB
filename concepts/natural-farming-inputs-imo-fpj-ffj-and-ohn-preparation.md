@@ -4,7 +4,7 @@ source: chos-global-natural-farming.md
 type: concept
 ---
 
-# Natural Farming Inputs: IMO, FPJ, FFJ, and OHN Preparation
+## Natural Farming Inputs: IMO, FPJ, FFJ, and OHN Preparation
 
 This concept covers the practical preparation methods for Dr. Cho's core Natural Farming inputs: [[beneficial-indigenous-microorganisms]] (IMO) at multiple stages, [[fermented-plant-juice]] (FPJ), Fermented Fruit Juice (FFJ), and [[oriental-herbal-nutrient]] (OHN). These inputs form the backbone of the NF system, replacing all [[cannabis-chemical-fertilizers]] and pesticides.
 

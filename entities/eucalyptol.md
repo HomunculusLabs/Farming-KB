@@ -24,7 +24,7 @@ sources:
     eucalyptol against clinical strains.\" Planta Medica, 74(2), 181."
 ---
 
-# Eucalyptol
+## Eucalyptol
 
 ## Overview
 

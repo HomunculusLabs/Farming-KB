@@ -21,7 +21,7 @@ tags:
   - mycelium
 ---
 
-# CO2 Retention and Gas Exchange Through Loose Jar Lids
+## CO2 Retention and Gas Exchange Through Loose Jar Lids
 
 ## Overview
 

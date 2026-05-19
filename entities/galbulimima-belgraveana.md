@@ -1,5 +1,5 @@
 ---
-title: agara-galbulimima-belgraveana-new-guinea-tree
+title: "Galbulimima Belgraveana"
 type: entity
 subtype: plant
 created: 2026-05-02
@@ -30,7 +30,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Galbulimima belgraveana
+## Galbulimima belgraveana
 
 **Galbulimima belgraveana** (agara, pink silkwood) is a large evergreen rainforest tree in the family Himantandraceae, native to Papua New Guinea, northeastern Australia, and possibly Borneo. It is renowned in ethnopharmacology for its use by indigenous peoples of Papua New Guinea, who prepare a psychoactive drink from its bark and leaves, combined with an admixture plant (*Homalomena* spp., called "ereriba"), producing violent intoxication followed by deep visionary sleep. Over 30 alkaloids have been isolated from the tree, including the hexacyclic lactone himbacine, a selective M2 muscarinic receptor antagonist investigated for Alzheimer's disease, yet the specific psychoactive principle responsible for the traditional visionary effects remains unidentified, making it one of the most significant unresolved questions in ethnopharmacology.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka God Nature and the Transcendent World
+## Fukuoka God Nature and the Transcendent World
 
 In the closing chapters of "The Road Back to Nature," Masanobu Fukuoka explores the relationship between God, nature, and human understanding. His philosophical position is radical: God and nature are one and the same, yet this truth cannot be grasped through thought or language.
 

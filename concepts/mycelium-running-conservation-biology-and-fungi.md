@@ -7,7 +7,7 @@ type: concept
 tags: [fungi, mycelium]
 ---
 
-# Conservation Biology and Fungi
+## Conservation Biology and Fungi
 
 [[medicinal-mushrooms]] -- medicinal conservation
 - [[forest-ecology-basics]] -- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] science

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Tools and Equipment
+## Winter Harvest Tools and Equipment
 
 The [[winter-harvest-system]] requires a specific toolkit optimized for [[intensive-planting-spacing]], efficient weed control, precise seeding, and careful harvesting in cold conditions. [[eliot-coleman]] has spent decades testing, designing, and refining tools for the year-round market garden, and his recommendations reflect both historical precedent and practical innovation.
 

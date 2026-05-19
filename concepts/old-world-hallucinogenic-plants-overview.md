@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
-# Old World Hallucinogenic Plants: Overview and Cultural Significance
+## Old World Hallucinogenic Plants: Overview and Cultural Significance
 
 Existing evidence indicates that man in the Old World — Europe, Asia, Africa, and Australia — has made less use of native plants and shrubs for their hallucinogenic properties than has man in the New World. This disparity is one of the most puzzling questions in ethnopharmacology, and its causes remain debated among scholars of [[belladonna-atropa-belladonna-ethnobotany]], and [[allegro-colour-and-consistency-of-the-amanita-muscaria]] (the fly agaric mushroom) may be one of man's oldest hallucinogens. Its strange effects may have contributed to early ideas of deity, and recent studies suggest it was the mysterious God-narcotic soma of ancient India. The mushroom grows in the north temperate regions of both hemispheres, though the Eurasian type possesses stronger hallucinogenic effects than its [[allegro-amanita-muscaria-properties-and-pharmacology]] served as an orgiastic and shamanistic inebriant. The use was discovered in 1730 and subsequently documented among several isolated groups including the Ostyak and Vogul (Finno-Ugrian peoples) in western Siberia, and the Chuckchee, Koryak, and Kamchadal tribes in northeastern Siberia. These tribes had no other intoxicant until they learned of alcohol relatively recently.
 

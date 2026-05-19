@@ -5,7 +5,7 @@ tags: [mushroom-cultivation, spore-print, sterile-technique, jarrold, spore-coll
 created: 2026-05-09
 ---
 
-# Sterile Spore Print Collection Using Glass Jar Technique
+## Sterile Spore Print Collection Using Glass Jar Technique
 
 Collecting [[spore-syringe-preparation-jarrold-method]] uses a sterile glass jar technique that
 produces clean, contaminant-free [[macrofungal-documentation-spore-deposits-taxonomic-resources]].

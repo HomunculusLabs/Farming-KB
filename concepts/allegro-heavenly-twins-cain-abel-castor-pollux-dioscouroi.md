@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# The Heavenly Twins: Cain and Abel, Castor and Pollux, and the Dioscouroi
+## The Heavenly Twins: Cain and Abel, Castor and Pollux, and the Dioscouroi
 
 In John Allegro's interpretation, the recurring mythological motif of the "Heavenly Twins" — appearing in Genesis as Cain and Abel, in Greek myth as Castor and Pollux, and in the New Testament as the sons of Zebedee — derives ultimately from the physical appearance of the Amanita muscaria mushroom, whose volva splits into two halves at maturity. Each twin represents one sexual aspect of the androgynous fungus: the womb and the phallus. The motif recurs across cultures because the mushroom itself was a cult object of extraordinary importance throughout the ancient Near East and Mediterranean.
 

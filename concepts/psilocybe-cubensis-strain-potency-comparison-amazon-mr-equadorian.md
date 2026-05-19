@@ -16,7 +16,7 @@ date: 2026-04-28 updated: 2026-04-28 sources:
   Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
 type: concept ---
 
-# Psilocybe Cubensis Strain Potency Comparison: Amazon, M.R., and Equadorian
+## Psilocybe Cubensis Strain Potency Comparison: Amazon, M.R., and Equadorian
 
 ## Overview
 

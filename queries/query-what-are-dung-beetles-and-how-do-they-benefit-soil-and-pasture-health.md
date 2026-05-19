@@ -13,7 +13,7 @@ type: query
 created: 2026-04-28
 ---
 
-# What Are Dung Beetles and How Do They Benefit Soil and Pasture Health?
+## What Are Dung Beetles and How Do They Benefit Soil and Pasture Health?
 
 ## What are dung beetles?
 

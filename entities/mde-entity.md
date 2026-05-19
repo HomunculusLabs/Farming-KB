@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MDE (EVE, MDEA)
+## MDE (EVE, MDEA)
 
 **Chemical name:** 3,4-Methylenedioxy-N-ethylamphetamine
 

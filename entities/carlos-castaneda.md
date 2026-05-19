@@ -5,7 +5,7 @@ type: entity
 tags: [person, anthropologist, author, yaqui, shamanism, don-juan, ethnography]
 ---
 
-# Carlos Castaneda
+## Carlos Castaneda
 
 ## Description
 

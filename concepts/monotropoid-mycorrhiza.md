@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: [raw/papers/forest-gardening-robert-hart.md]
 ---
-# Monotropoid Mycorrhiza
+## Monotropoid Mycorrhiza
 
 Monotropoid mycorrhiza is a specialized mycorrhizal association formed by non-photosynthetic (achlorophyllous) plants in the Monotropoideae subfamily (Ericaceae) with [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]].
 

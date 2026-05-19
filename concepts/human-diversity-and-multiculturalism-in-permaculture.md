@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Human Diversity and Multiculturalism in Permaculture
+## Human Diversity and Multiculturalism in Permaculture
 
 Human biological and cultural diversity represents one of the most complex applications of [[permaculture]]'s diversity principle. The diversity we see in human populations — at racial, ethnic, and individual levels — has been used throughout history to include and exclude people from social groups. Understanding how this diversity arises, and how it relates to ecological systems thinking, is essential for applying [[permaculture-ethics]] to the human domain.
 

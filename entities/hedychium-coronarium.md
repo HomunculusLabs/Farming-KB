@@ -16,7 +16,7 @@ sources:
   - "Kumar, S. et al. (2013). \"Phytochemical and pharmacological profile of Hedychium coronarium: A review.\" International Journal of Pharmaceutical Sciences and Research, 4(5), 1746-1752."
 ---
 
-# Hedychium coronarium (White Ginger Lily)
+## Hedychium coronarium (White Ginger Lily)
 
 ## Overview
 

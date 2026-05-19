@@ -16,7 +16,7 @@ sources:
   - Rätzel, S. & von Mering, S. (2009). "Revision of Campanula sect. Campanula in the Caucasus." Willdenowia, 39(2): 245–262.
 ---
 
-# Campanula mirabilis
+## Campanula mirabilis
 
 ## Overview
 

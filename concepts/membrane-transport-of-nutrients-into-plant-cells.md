@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Membrane Transport of Nutrients into Plant Cells
+## Membrane Transport of Nutrients into Plant Cells
 
 Once nutrients reach the root surface, they must cross the plasma membrane ([[plasmalemma]]) to enter the cell. This barrier is the fundamental gatekeeper of plant nutrition—every nutrient ion must pass through it, and the cell exerts precise control over what enters, what exits, and at what rate. Understanding membrane transport requires understanding the three categories of [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] embedded in these lipid bilayers.
 

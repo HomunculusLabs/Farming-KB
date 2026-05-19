@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, nematophagous-fungi, fungal-predators, soil-fungi, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Nematophagous and Predatory Fungi Nematophagous and predatory fungi constitute a diverse guild of fungal species that obtain part or all of their nutrition by attacking and consuming living microscopic invertebrates, primarily nematodes and rotifers. The existence of fungi using this nutritional mode was first revealed through the detailed studies of Charles Drechsler (1933, 1941). More than 300 recognized species belonging to the Ascomycota, Basidiomycota, Chytridiomycota, Zygomycota, and the fungus-like Phylum Oomycota are now recognized as parasites or predators of microfauna. ## Modes of Existence [[nematophagous-fungi]] attacks nematode eggs and
+## Nematophagous and Predatory Fungi Nematophagous and predatory fungi constitute a diverse guild of fungal species that obtain part or all of their nutrition by attacking and consuming living microscopic invertebrates, primarily nematodes and rotifers. The existence of fungi using this nutritional mode was first revealed through the detailed studies of Charles Drechsler (1933, 1941). More than 300 recognized species belonging to the Ascomycota, Basidiomycota, Chytridiomycota, Zygomycota, and the fungus-like Phylum Oomycota are now recognized as parasites or predators of microfauna. ## Modes of Existence [[nematophagous-fungi]] attacks nematode eggs and
 cysts rather than adult animals. These fungi are particularly
 important in agricultural systems where plant-parasitic nematodes
 cause significant crop damage. Species of Paecilomyces lilacinus and

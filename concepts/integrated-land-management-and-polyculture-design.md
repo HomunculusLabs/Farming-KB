@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Land [[polyculture-design-evolution]]
+## Integrated Land [[polyculture-design-evolution]]
 - [[permaculture-food-forest-design-principles]]
 
 ## Overview

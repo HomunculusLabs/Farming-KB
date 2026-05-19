@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [remediation, environment]
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 ---
 
 updated: 2026-04-18

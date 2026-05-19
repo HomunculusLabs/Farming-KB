@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Types of Earthworks — Banks, Benches, and Terraces
+## Types of Earthworks — Banks, Benches, and Terraces
 
 ## Overview
 

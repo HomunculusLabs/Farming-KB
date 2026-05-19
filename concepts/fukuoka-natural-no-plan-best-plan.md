@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# No Plan Is the Best Plan
+## No Plan Is the Best Plan
 
 If nature is perfect, then man should have no need to do anything. But
 nature, to man, appears imperfect and riddled with contradiction. Left to

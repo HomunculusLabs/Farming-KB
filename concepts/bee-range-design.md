@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bee Range Design
+## Bee Range Design
 
 Bee range design is the deliberate planning and management of forage, shelter, and hive placement to support healthy, productive honeybee colonies. Drawing from [[permaculture]]: A Designer's Manual*, this concept integrates bee ecology with landscape design to maximise both hive products and pollination services.
 

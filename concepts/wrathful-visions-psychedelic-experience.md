@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Wrathful Visions and the Conclusion of the Second Bardo
+## Wrathful Visions and the Conclusion of the Second Bardo
 
 ## Overview
 

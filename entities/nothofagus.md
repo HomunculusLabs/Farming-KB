@@ -5,7 +5,7 @@ type: entity
 tags: [genus, plant, tree, southern-beech, forest, nutrient-cycling]
 ---
 
-# Nothofagus (Southern Beech)
+## Nothofagus (Southern Beech)
 
 ## Description
 

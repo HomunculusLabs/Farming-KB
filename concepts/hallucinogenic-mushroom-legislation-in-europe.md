@@ -10,7 +10,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Hallucinogenic Mushroom Legislation in Europe
+## Hallucinogenic Mushroom Legislation in Europe
 
 ## Overview
 

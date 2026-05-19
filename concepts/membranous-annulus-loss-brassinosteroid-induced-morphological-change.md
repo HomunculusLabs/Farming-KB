@@ -5,7 +5,7 @@ topic: mycology fungal morphology brassinosteroid effect
 created: 2026-05-08
 ---
 
-# Membranous Annulus Loss Induced by Brassinosteroid Treatment in Psilocybe cubensis
+## Membranous Annulus Loss Induced by Brassinosteroid Treatment in Psilocybe cubensis
 
 ## Overview
 

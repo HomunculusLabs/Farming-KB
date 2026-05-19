@@ -4,7 +4,7 @@ source_type: general_knowledge
 mined_date: 2026-05-08
 tags: [kambo, phyllomedusa-bicolor, frog-medicine, peptides, amazonian-ethnobotany, cleansing-ceremony, indigenous-healing]
 ---
-# Kambo — Phyllomedusa bicolor Frog Medicine
+## Kambo — Phyllomedusa bicolor Frog Medicine
 
 ## Overview
 

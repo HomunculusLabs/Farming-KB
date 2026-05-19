@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: entity
 ---
 
-# Cyclohexane
+## Cyclohexane
 
 ## Description
 

@@ -8,7 +8,7 @@ created: 2026-04-28
 type: query
 ---
 
-# How Do I Choose a Natural Building Method for My Climate?
+## How Do I Choose a Natural Building Method for My Climate?
 
 ## Short Answer
 

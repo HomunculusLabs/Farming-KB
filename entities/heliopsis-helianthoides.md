@@ -17,7 +17,7 @@ sources:
   - "Pringle, J.S. (1973). \"The taxonomy of Heliopsis (Compositae-Heliantheae).\" Rhodora, 75, 145-175."
 ---
 
-# Heliopsis helianthoides (*Heliopsis helianthoides*)
+## Heliopsis helianthoides (*Heliopsis helianthoides*)
 
 ## Overview
 

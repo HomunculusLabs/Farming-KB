@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Spreading and Infiltration Techniques
+## Water Spreading and Infiltration Techniques
 
 ## Overview
 

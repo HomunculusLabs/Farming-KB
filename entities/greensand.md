@@ -5,7 +5,7 @@ type: entity
 tags: [soil-amendments, minerals, organic-farming, fertility]
 ---
 
-# Greensand
+## Greensand
 
 ## Description
 

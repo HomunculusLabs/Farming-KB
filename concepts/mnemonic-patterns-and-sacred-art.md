@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mnemonic Patterns and Sacred Art
+## Mnemonic Patterns and Sacred Art
 
 ## Overview
 

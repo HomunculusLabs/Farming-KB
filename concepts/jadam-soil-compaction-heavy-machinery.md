@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# JADAM on Soil Compaction from Heavy Machinery
+## JADAM on Soil Compaction from Heavy Machinery
 
 Soil compaction is the primary cause of farming difficulty worldwide. According
 to JADAM [[plow-pan-formation-and-remediation]]) at approximately 15 centimeters (6 inches) below the soil

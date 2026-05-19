@@ -10,7 +10,7 @@ tags:
   - oomycete
 ---
 
-# Nematophthora gynophial
+## Nematophthora gynophial
 
 ## Description
 

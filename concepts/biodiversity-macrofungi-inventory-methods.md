@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Macrofungi Inventory Methods
+## Macrofungi Inventory Methods
 
 Inventories of macrofungi aim to document species diversity, habitat
 preferences, and geographic distributions of conspicuous fungi at study

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Cover Cropping Benefit Soil and When Should I Plant Them?
+## How Does Cover Cropping Benefit Soil and When Should I Plant Them?
 
 ## Short Answer
 Cover crops are non-cash crops grown primarily to benefit the soil rather than

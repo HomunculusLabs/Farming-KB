@@ -9,7 +9,7 @@ sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Compost Pile Management: Turning and Temperature
+## Compost Pile Management: Turning and Temperature
 
 Successful [[decomposition]], relying purely on
 microbial action to promote actinomycetes and eliminate ammonia.

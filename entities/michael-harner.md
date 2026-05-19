@@ -23,7 +23,7 @@ sources:
 - raw/papers/harner-j-hallucinogens-and-shamanism.md
 ---
 
-# Michael Harner
+## Michael Harner
 
 American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973).
 

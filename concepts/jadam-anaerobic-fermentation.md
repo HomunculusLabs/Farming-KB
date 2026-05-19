@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam-anaerobic-fermentation-principles
+title: "Jadam Anaerobic Fermentation"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Anaerobic Fermentation
+## JADAM Anaerobic Fermentation
 
 ## Overview
 

@@ -18,7 +18,7 @@ sources:
   - "Mills, S. & Bone, K. (2005). The Essential Guide to Herbal Safety. Elsevier."
 ---
 
-# Ashwagandha (*Withania somnifera*)
+## Ashwagandha (*Withania somnifera*)
 
 ## Overview
 

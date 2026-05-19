@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Internet Shop Market Snapshot 2006
+## EMCDDA Hallucinogenic Mushroom Internet Shop Market Snapshot 2006
 In January 2006, the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)
 conducted a systematic snapshot survey of online shops selling hallucinogenic
 [[emcdda-smartshop-trade-online-distribution-mushrooms]].

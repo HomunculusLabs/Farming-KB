@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earthmoving Machinery
+## Earthmoving Machinery
 
 Moving earth is fundamental to [[permaculture-zones]] system.
 

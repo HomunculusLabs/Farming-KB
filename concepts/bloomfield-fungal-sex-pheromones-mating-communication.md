@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Sex — Pheromones and Mating Communication
+## Fungal Sex — Pheromones and Mating Communication
 
 Fungi have evolved an astonishing diversity of mating strategies, many
 mediated by [[mycelium]] secretes a steroid hormone

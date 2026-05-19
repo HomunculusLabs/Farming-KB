@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
-# European-Bred Sativa Strains
+## European-Bred Sativa Strains
 
 European breeders have played a crucial role in adapting wild
 sativa genetics for controlled [[spanish-cannabis-seed-companies]] have

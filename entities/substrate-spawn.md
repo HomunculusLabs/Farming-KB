@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Substrate Spawn
+## Substrate Spawn
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Make Sourdough Bread at Home
+## How to Make Sourdough Bread at Home
 
 ## Short Answer
 Sourdough bread is made using a naturally fermented dough starter (levain) instead

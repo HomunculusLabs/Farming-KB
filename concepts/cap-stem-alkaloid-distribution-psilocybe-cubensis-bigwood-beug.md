@@ -5,7 +5,7 @@ tags: [mycology, psilocybin, psilocin, alkaloid-distribution, cap-stem, psilocyb
 created: 2026-05-11
 ---
 
-# Cap vs Stem Distribution of Tryptamine Alkaloids in Psilocybe cubensis
+## Cap vs Stem Distribution of Tryptamine Alkaloids in Psilocybe cubensis
 
 ## Overview
 

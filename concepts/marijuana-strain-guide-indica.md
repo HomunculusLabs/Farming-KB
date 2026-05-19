@@ -7,7 +7,7 @@ tags: [cannabis, beginner, plants, species-profiles, ethnobotany, psychopharmaco
 sources: []
 ---
 
-# Marijuana Strain Guide — Indica
+## Marijuana Strain Guide — Indica
 
 ## Overview
 

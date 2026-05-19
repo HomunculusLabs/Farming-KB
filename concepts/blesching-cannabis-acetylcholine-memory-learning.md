@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis, Acetylcholine, Memory, and Learning
+## Cannabis, Acetylcholine, Memory, and Learning
 
 The relationship between cannabis, acetylcholine, memory, and learning
 represents a fascinating intersection of neuroscience and cannabinoid

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Open-Air Mushroom Culture and Compost Selection
+## Open-Air Mushroom Culture and Compost Selection
 
 ## Overview
 

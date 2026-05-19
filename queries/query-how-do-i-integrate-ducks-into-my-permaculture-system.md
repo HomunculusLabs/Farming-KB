@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Integrate Ducks Into My Permaculture System?
+## How Do I Integrate Ducks Into My Permaculture System?
 
 ## Short Answer
 Ducks are among the most useful animals to integrate into a permaculture system because they provide pest control, fertilizer, egg production, and meat while requiring relatively simple housing and management.

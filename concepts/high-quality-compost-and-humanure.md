@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# High Quality Compost and Humanure
+## High Quality Compost and Humanure
 
 Making the highest-quality compost is an aspiration that most home gardeners cannot realistically achieve. The requirements — large quantities of the freshest, most potent manure processed before any nitrate losses occur — demand a scale of livestock operation and waste management that puts it beyond the reach of most homesteaders. However, for those interested in maximum self-sufficiency, understanding what it takes and what alternatives exist is valuable.
 

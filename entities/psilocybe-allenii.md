@@ -27,7 +27,7 @@ sources:
   - https://www.first-nature.com/fungi/psilocybe-allenii.php
 ---
 
-# Psilocybe allenii
+## Psilocybe allenii
 
 ## Overview
 

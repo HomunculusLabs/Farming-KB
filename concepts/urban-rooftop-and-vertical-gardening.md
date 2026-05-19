@@ -8,7 +8,7 @@ sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md,
 type: concept
 ---
 
-# Urban Rooftop and Vertical Gardening
+## Urban Rooftop and Vertical Gardening
 
 Urban permaculture must make creative use of limited space, and two of the
 most productive strategies are rooftop gardening and vertical growing

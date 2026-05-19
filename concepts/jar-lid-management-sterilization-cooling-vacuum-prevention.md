@@ -5,7 +5,7 @@ created: 2026-05-09
 source: guid-mhtml_file___e___textos__mycology__exotic_
 ---
 
-# Jar Lid Management During Sterilization Cooling and Vacuum Prevention
+## Jar Lid Management During Sterilization Cooling and Vacuum Prevention
 
 ## Overview
 

@@ -25,7 +25,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-gartz.md
 ---
 
-# Jonathan Ott
+## Jonathan Ott
 
 Mexican-based ethnobotanist, pharmacognosist, and author. Coined the term "entheogen" in 1979 alongside [[r-gordon-wasson]], Carl Ruck, and others to replace the terms "hallucinogen" and "psychedelic" when discussing sacred plant use. Based in Xalapa, Mexico, Ott is regarded as part of the "second generation" of ethnomycologists, following the pioneering work of Wasson and his colleagues.
 

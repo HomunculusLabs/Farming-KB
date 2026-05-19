@@ -5,7 +5,7 @@ topics: [microbiome, cannabis, cannabinoids, edaphic-factors, confounding, corre
 created: 2026-05-09
 ---
 
-# Cannabinoid-Microbiome Correlation Confounded by Edaphic Factors in Cannabis
+## Cannabinoid-Microbiome Correlation Confounded by Edaphic Factors in Cannabis
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [homesteading, fermentation, food, recipe, grain]
 sources: []
 ---
 
-# Sourdough Bread Guide
+## Sourdough Bread Guide
 
 Sourdough bread is made using a wild yeast and [[lactic-acid-bacteria]] culture (a sourdough starter) rather than commercial baker's yeast. The result is a bread with complex flavor, a chewy crumb, a crisp crust, and improved digestibility due to the pre-fermentation of gluten and phytic acid breakdown.
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Perceiving Nature Without Relativism
+## Perceiving Nature Without Relativism
 
 In [[coleman-sunlight-and-winter-crop-growth-rates]], fast and
 slow, life and death, health and disease, large and small yields, major and

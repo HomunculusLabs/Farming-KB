@@ -6,7 +6,7 @@ created: 2026-05-10
 source: ["uwe-blesching-the-cannabis-health-index.md"]
 ---
 
-# Anandamide and Emotional Regulation
+## Anandamide and Emotional Regulation
 
 Anandamide (N-arachidonoylethanolamine, abbreviated AEA) is an endogenous cannabinoid neurotransmitter first isolated in 1992 by Raphael Mechoulam's research group. Often called the "bliss molecule" — from the Sanskrit word *ananda* meaning "joy" or "bliss" — anandamide plays a central role in the [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]] that functions as a partial agonist at both CB1 and CB2 [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]] are predominantly mediated through CB1 in the central nervous system
 - **Transport**: Moves across cell membranes via a putative anandamide transporter, though the existence of a specific transport protein remains debated

@@ -9,7 +9,7 @@ type: concept
 tags: [holzer, water]
 ---
 
-# Holzer Water Management (Ponds and Springs)
+## Holzer Water Management (Ponds and Springs)
 
 Water management is a foundational principle of [[comparison-natural-swimming-pool-vs-conventional-pool]] pools
 

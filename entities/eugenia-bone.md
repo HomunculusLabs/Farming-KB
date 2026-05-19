@@ -8,7 +8,7 @@ sources:
   - raw/papers/mr-bloomfields-orchard-the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 ---
 
-# Eugenia Bone
+## Eugenia Bone
 
 American food and science writer known for "Mycophilia: Revelations from the Weird World of Mushrooms" (2011) and her work bridging culinary mycology and popular science. A distinct author from [[nicholas-money]], who wrote "Mr. Bloomfield's Orchard."
 

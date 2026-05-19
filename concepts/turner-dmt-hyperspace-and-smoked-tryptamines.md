@@ -8,7 +8,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 type: concept
 ---
 
-# DMT Hyperspace and Smoked Tryptamines
+## DMT Hyperspace and Smoked Tryptamines
 
 ## Introduction
 

@@ -6,7 +6,7 @@ tags: [mushroom-cultivation, spore-prints, mycology, sterile-technique, inoculat
 created: 2026-05-08
 ---
 
-# Mushroom Spore Print Collection Technique
+## Mushroom Spore Print Collection Technique
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Fairy Ring (Lawn Disease)
+## Fairy Ring (Lawn Disease)
 
 ## Description
 

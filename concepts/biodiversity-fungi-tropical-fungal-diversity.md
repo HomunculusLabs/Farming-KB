@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Tropical Fungal Diversity
+## Tropical Fungal Diversity
 
 Tropical regions harbor some of the most diverse [[fungal-endemism-and-biogeography]] that face accelerating habitat loss.
 

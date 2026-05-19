@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# What are leaf spot diseases and how do I manage them?
+## What are leaf spot diseases and how do I manage them?
 
 ## Short Answer
 

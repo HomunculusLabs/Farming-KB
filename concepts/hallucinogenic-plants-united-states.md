@@ -1,5 +1,5 @@
 ---
-title: sacramental-religious-use-hallucinogenic-plants-united-states States
+title: "Hallucinogenic Plants United States"
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Hallucinogenic Plants Growing in the United States
+## Hallucinogenic Plants Growing in the United States
 
 A wide variety of psychoactive plants and fungi grow naturally, in gardens, or as ornamentals throughout the United States. Many of these contain powerful hallucinogenic or dissociative compounds that can be located and prepared by a determined individual. This overview covers the major categories of naturally occurring psychoactive botanicals found within US borders.
 

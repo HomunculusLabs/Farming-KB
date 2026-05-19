@@ -5,7 +5,7 @@ author: Blesching
 tags: [cannabis, sickle-cell, pain-management, inflammation, hemoglobin, CBD, THC, vaso-occlusive]
 ---
 
-# Cannabis and Sickle Cell Disease
+## Cannabis and Sickle Cell Disease
 
 ## Pain and Inflammation Management
 

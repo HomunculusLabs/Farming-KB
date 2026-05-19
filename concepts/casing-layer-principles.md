@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-flush-management-watering|mushroom-cultivator-stamets.md"
 ---
-# Casing Layer Principles and Techniques
+## Casing Layer Principles and Techniques
 
 The casing layer is a non-nutritious covering applied to fully colonized substrate that provides the microenvironment necessary for mushroom pinhead initiation and fruitbody development. paul stamets provides comprehensive guidance on casing preparation and management in The Mushroom Cultivator.
 

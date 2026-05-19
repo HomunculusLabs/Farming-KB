@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungicolous Fungi on Sporocarps: Classification by Host Group
+## Fungicolous Fungi on Sporocarps: Classification by Host Group
 
 Fungi that live on the sporocarps (fruiting bodies) of other fungi — termed sporocarp-colonizing fungi (SCIF) — represent one of the most diverse and ecologically significant groups of mycoparasites. They colonize fresh or decaying sporocarps of nonlichenized fungi, including macromycete sporocarps, anamorphs, conidiomata, conidiophores, and conidia. The SCIF include ascomycetes, their anamorphs, some Zygomycota, and many Basidiomycota — particularly Tremellales and some Agaricales.
 

@@ -6,7 +6,7 @@ topics: ["mycology", "toxicology", "amanita", "amatoxin", "mushroom-poisoning"]
 created: 2026-05-09
 ---
 
-# Destroying Angel, Death Cap, and Amatoxin Poisoning
+## Destroying Angel, Death Cap, and Amatoxin Poisoning
 
 ## Overview
 

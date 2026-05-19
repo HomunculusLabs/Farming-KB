@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Macadamia Nut in Tropical Polyculture
+## Macadamia Nut in Tropical Polyculture
 
 The macadamia nut (Macadamia spp., especially M. integrifolia) is
 presented in the Permaculture [[query-can-fungi-break-down-plastic-pollution]] gradually, feeding the developing tree while

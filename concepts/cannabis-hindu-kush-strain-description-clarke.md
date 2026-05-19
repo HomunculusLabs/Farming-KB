@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# Hindu Kush Cannabis Strain Description (Clarke)
+## Hindu Kush Cannabis Strain Description (Clarke)
 
 ## Geographic Origin
 

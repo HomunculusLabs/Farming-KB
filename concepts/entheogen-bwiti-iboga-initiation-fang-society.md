@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Bwiti Iboga Initiation and Fang Society
+## Bwiti Iboga Initiation and Fang Society
 
 The Bwiti religion of West and Central Africa represents one of the
 most complex and enduring entheogenic traditions in the world. Centered

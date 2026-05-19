@@ -8,7 +8,7 @@ type: concept
 tags: [culture, mulch, permaculture, plants]
 ---
 
-# Permaculture Ground Covers and Living Mulches
+## Permaculture Ground Covers and Living Mulches
 
 Ground covers are essential elements in tagasaste as Living Mulch
 Tagasaste can be managed as a low hedge providing both [[mushroom-compost]] is particularly high-yielding

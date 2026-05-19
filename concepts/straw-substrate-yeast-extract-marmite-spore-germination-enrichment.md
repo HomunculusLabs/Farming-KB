@@ -6,7 +6,7 @@ source: [jarrold-indoor-mushroom-growing-technique-boil-a-bag]
 created: 2026-05-10
 ---
 
-# Straw Substrate Yeast Extract (Marmite) Enrichment for Mushroom Cultivation
+## Straw Substrate Yeast Extract (Marmite) Enrichment for Mushroom Cultivation
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# CO2 Enrichment Cannabis
+## CO2 Enrichment Cannabis
 
 [[greenhouse-cannabis-growing]] for more than 35 years.
 

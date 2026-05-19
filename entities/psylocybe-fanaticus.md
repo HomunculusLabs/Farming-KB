@@ -25,7 +25,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Psylocybe Fanaticus (PF)
+## Psylocybe Fanaticus (PF)
 
 Pseudonymous cultivator who created the PF TEK (Psilocybe Fanaticus Technique) in 1991-1992, revolutionizing home mushroom cultivation. Operated from Seattle, Washington.
 

@@ -24,7 +24,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# William Falconer
+## William Falconer
 
 19th-century American author of "Mushrooms: How to Grow Them — A Practical Treatise on Mushroom Culture for Pleasure and Profit" (1891), published by Orange Judd Company, New York. Illustrated with detailed engravings of mushroom houses, cellars, beds, and cultivation techniques. One of the earliest and most comprehensive American manuals on mushroom cultivation.
 

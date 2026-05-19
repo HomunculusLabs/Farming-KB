@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [soil, gardening, agriculture, microbiology, nutrients]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/purdue-home-gardeners-guide.md]
+sources: ["raw/papers/purdue-home-gardeners-guide.md"]
 type: concept
 ---
 
-# Soil Health and Management
+## Soil Health and Management
 
 Soil health refers to the capacity of soil to function as a living ecosystem
 that sustains plants, animals, and humans. Healthy soil supports plant growth,

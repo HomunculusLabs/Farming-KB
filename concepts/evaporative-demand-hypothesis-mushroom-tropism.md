@@ -7,7 +7,7 @@ tags: [mycology, mushroom-physiology, tropism, fungal-biology]
 sources: [raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md]
 ---
 
-# Evaporative Demand Hypothesis for Mushroom Tropism
+## Evaporative Demand Hypothesis for Mushroom Tropism
 
 The evaporative demand hypothesis proposes that differential water loss across the stipe surface drives directed growth (tropisms) in mushrooms. First articulated by Badham (1982) based on wind tunnel experiments with [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that influence the magnitude and direction of evaporative demand on the stipe surface. These factors interact in complex ways, and their relative importance determines which tropic response dominates in any given situation:
 

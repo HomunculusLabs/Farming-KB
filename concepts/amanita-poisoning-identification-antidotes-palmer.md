@@ -7,7 +7,7 @@ tags: [deadly-mushrooms, lookalikes, toxic, harm-reduction]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
-# Amanita Poisoning — Identification, Symptoms, and Antidotes (Palmer)
+## Amanita Poisoning — Identification, Symptoms, and Antidotes (Palmer)
 
 Updated: 2026-04-18
 

@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Phytochelatins and Intracellular Metal Detoxification in Fungi
+## Phytochelatins and Intracellular Metal Detoxification in Fungi
 
 ## Overview
 

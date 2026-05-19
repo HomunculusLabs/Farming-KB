@@ -4,9 +4,9 @@ created: 2026-04-28
 tags: [mycology, cultivation, fungi, substrate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md] type: concept ---
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"] type: concept ---
 ---
-# Mushroom Growing Substrates
+## Mushroom Growing Substrates
 
 A substrate is the material on which [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. Selecting and preparing the right
 substrate is one of the most important factors in successful mushroom

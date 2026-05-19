@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Critique of Scientific Agriculture and Civilization
+## Critique of Scientific Agriculture and Civilization
 
 Masanobu Fukuoka's critique extends far beyond [[fukuoka-machine-culture-doomed-agricultural-decline-america-europe]] it spawned have
 destroyed nature across the globe, turning fertile lands into deserts and

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Support Species and Wetland Plants
+## Permaculture Support Species and Wetland Plants
 
 Support species and wetland plants form the backbone of functional permaculture systems. Bill Mollison's *Permaculture: A Designer's Manual* catalogues dozens of these species across common names S through Y and the species index (A–), illustrating their roles in nitrogen fixation, water management, erosion control, food production, and guild design.
 

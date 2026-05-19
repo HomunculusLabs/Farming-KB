@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Prevent and Treat Damping Off in Seedlings?
+## How Do I Prevent and Treat Damping Off in Seedlings?
 
 ## Short Answer
 

@@ -15,7 +15,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 ---
 
-# Magic Mushroom History Timeline
+## Magic Mushroom History Timeline
 
 A chronological overview of key events in the cultural and scientific history of psychoactive mushrooms.
 

@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Straw Bale vs Cordwood Construction
+## Straw Bale vs Cordwood Construction
 
 ## Overview
 

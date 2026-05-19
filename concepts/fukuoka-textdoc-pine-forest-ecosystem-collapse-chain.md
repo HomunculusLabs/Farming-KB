@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Pine Forest Ecosystem Collapse Chain
+## Pine Forest Ecosystem Collapse Chain
 
 ## Overview
 

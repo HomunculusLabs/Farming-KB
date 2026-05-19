@@ -11,7 +11,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Fruiting Parameters
+## Fruiting Parameters
 
 Optimization of yields is realized only if the grower becomes keenly sensitive to, and satisfies, the unique needs of each mushroom strain. Stamets organizes the cultivation cycle into three distinct phases, each with different ideal environments: [[mushroom-cultivator-bulk-substrate]]. The key [[growing-gourmet-primordia-formation-pinning]]. Internal temperatures should not exceed 95F (35C) or black pin molds and other thermophilic competitors will awaken, especially under the rich CO2 conditions created during spawn running.
 

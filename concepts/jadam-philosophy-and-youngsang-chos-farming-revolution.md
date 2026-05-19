@@ -7,7 +7,7 @@ tags: [jadam]
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 ---
 
-# JADAM Philosophy and Youngsang Cho's Farming Revolution
+## JADAM Philosophy and Youngsang Cho's Farming Revolution
 
 ## Overview
 

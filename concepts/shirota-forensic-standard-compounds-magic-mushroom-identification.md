@@ -1,4 +1,8 @@
-# Forensic Standard Compounds and Chromatographic Identification of Magic Mushrooms
+---
+title: "Forensic Standard Compounds and Chromatographic Identification of Magic Mushrooms"
+tags:
+  - concept
+---
 
 ## Overview
 The 2003 synthesis paper by Shirota, Hakamata, and Goda was motivated in part by

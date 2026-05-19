@@ -5,11 +5,11 @@ tags: [biointensive, crop-rotation, nitrogen-fixation, soil-fertility,
   agricultural-recycling, heavy-feeder, legumes]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+sources: ["raw/papers/jeavons-john-how-to-grow-more-vegetables.md"]
 type: concept
 ---
 
-# Crop Rotation System: Feeders, Givers, and Light Feeders
+## Crop Rotation System: Feeders, Givers, and Light Feeders
 
 Crop rotation is a form of [[jeavons-grow-biointensive-method-overview]], the rotation follows a specific three-phase
 cycle: heavy feeders, then heavy givers, then light feeders.

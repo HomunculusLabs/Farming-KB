@@ -6,7 +6,7 @@ tags: [fukuoka, cover-crops, clover, weed-succession, soil-building, orchard-man
 created: 2026-05-08
 ---
 
-# Cover Crop Lifespan, Clover Decline, and Weed Reemergence
+## Cover Crop Lifespan, Clover Decline, and Weed Reemergence
 
 ## Overview
 

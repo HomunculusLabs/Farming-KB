@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Informal and Formal Community Economies
+## Informal and Formal Community Economies
 
 [[permaculture]] economics operates at two complementary levels: the **[[informal-economy-and-community-currencies]]** of barter, labor exchange, gift systems, and community currency, and the **formal economy** of legally structured cooperatives, savings and loans, and investment funds. [[bill-mollison]] treats both as essential components of community self-reliance, arguing that robust local economies need both the flexibility of informal exchange and the accountability of formal financial structures. Together, they create a financial ecosystem that retains wealth within communities, provides meaningful work regardless of external economic conditions, and aligns economic activity with [[permaculture-ethics]].
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [plants, phytoremediation, ecology, heavy-metals]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-nutrient-and-dynamic-accumulators.md]
+sources: ["raw/papers/unknown-nutrient-and-dynamic-accumulators.md"]
 type: concept
 ---
 
-# Hyperaccumulator Plants
+## Hyperaccumulator Plants
 
 Hyperaccumulator plants are species capable of growing in soil with very high
 concentrations of [[roger-heim-scientific-study-psilocybin]] of hyperaccumulation began in the 1970s with Robert

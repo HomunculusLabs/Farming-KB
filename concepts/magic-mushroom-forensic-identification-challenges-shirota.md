@@ -14,7 +14,7 @@ topics:
 - japan
 ---
 
-# Magic Mushroom Forensic Identification Challenges
+## Magic Mushroom Forensic Identification Challenges
 
 ## Overview
 

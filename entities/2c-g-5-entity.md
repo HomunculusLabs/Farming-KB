@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-G-5
+## 2C-G-5
 
 **[[psychedelic-compounds-reference]] (along with 2c-f-entity|2C-T-17) to have a potential optically active center on the side of the ring away from the nitrogen atom.
 

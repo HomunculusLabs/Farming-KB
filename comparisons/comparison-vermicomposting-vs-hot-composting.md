@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Vermicomposting vs Hot Composting
+## Vermicomposting vs Hot Composting
 
 ## Overview
 

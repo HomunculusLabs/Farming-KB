@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Ancient History of Psychedelic Use
+## Ancient History of Psychedelic Use
 
 ## Overview
 

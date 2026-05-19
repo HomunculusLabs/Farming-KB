@@ -9,7 +9,7 @@ topics:
   - forest ecology
 ---
 
-# Fungal Decomposition of Lignin and Cellulose
+## Fungal Decomposition of Lignin and Cellulose
 
 ## Overview
 

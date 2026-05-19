@@ -5,7 +5,7 @@ type: entity
 tags: [species, plant, mangrove, tropical, marine, decomposition]
 ---
 
-# Rhizophora mangle (Red Mangrove)
+## Rhizophora mangle (Red Mangrove)
 
 ## Description
 

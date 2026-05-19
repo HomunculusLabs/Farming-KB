@@ -5,10 +5,10 @@ type: species
 tags: [medicinal-mushroom, tremellaceae, jelly-fungus, polysaccharide, antioxidant]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Tremella mesenterica
+## Tremella mesenterica
 
 **Tremella mesenterica**, commonly known as the yellow brain fungus or golden jelly fungus, is a species of jelly fungus in the family Tremellaceae. While primarily known for its striking visual appearance, it has attracted scientific interest for its bioactive polysaccharide content and antioxidant properties. It is related to the commercially cultivated [[magic-mushroom-global-distribution]] and is found on every continent except Antarctica. It is particularly common in temperate regions:
 

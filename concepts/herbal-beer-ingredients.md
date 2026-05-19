@@ -9,7 +9,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
-# Herbal Beer Ingredients
+## Herbal Beer Ingredients
 
 Before hops became the nearly universal beer flavoring agent, brewers [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] compounds with anti-inflammatory properties.
 

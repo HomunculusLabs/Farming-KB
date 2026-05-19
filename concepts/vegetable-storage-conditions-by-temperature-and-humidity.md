@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Vegetable Storage Conditions by Temperature and Humidity
+## Vegetable Storage Conditions by Temperature and Humidity
 
 Proper storage after [[vegetable-garden-harvest]] for harvesting guidance
 - [[spawn-storage-conditions]]

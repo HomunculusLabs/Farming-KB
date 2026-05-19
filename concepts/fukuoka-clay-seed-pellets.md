@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Clay Seed Pellets
+## Fukuoka's Clay Seed Pellets
 
 Clay seed pellets (sometimes called seed balls or earth pellets) represent one of Masanobu Fukuoka's most practical and far-reaching innovations. Originally developed as a solution to the problem of direct-seeding rice without plowing, the technique evolved into a visionary proposal for revegetating the world's deserts and degraded lands. The method encapsulates Fukuoka's philosophy of working with nature rather than against it: by enclosing seeds in protective clay, the farmer replicates the natural conditions under which seeds germinate, eliminating the need for nursery beds, transplanting, and most conventional [[comparison-natural-farming-vs-permaculture]] began with the insight that all plants in nature seed directly. Transplanting rice seedlings, the standard practice in [[ingham-natural-growth-regulators-soil-microbes]] pattern. When Fukuoka first attempted to sow rice seed directly in the autumn, the seeds did not survive the winter. Birds and rodents consumed them, diseases destroyed others, and the vast majority succumbed to the elements. In nature, rice shattered easily, with grains falling in a certain order from top to bottom of the panicle. The chances of any single seed surviving until spring were less than one in a million.
 

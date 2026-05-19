@@ -6,7 +6,7 @@ tags: [laboratory, mushroom-cultivation, sterile-technique, laminar-flow-hood, H
 aliases: [Home Mycology Lab, Fungal Culture Laboratory, Mushroom Lab Construction]
 ---
 
-# Mushroom Laboratory Setup and Equipment Design
+## Mushroom Laboratory Setup and Equipment Design
 
 A [[allen-australian-psilocybe-species-comprehensive-guide]] to constructing and equipping a sterile culture laboratory for
 [[mushroom-spawn]] production, tissue culture, and mycological research, from basic home

@@ -5,7 +5,7 @@ tags: [mckenna, eschatology, time, acceleration, consciousness, philosophy]
 created: 2026-05-08
 ---
 
-# History as the Shockwave of Eschatology
+## History as the Shockwave of Eschatology
 
 ## Overview
 

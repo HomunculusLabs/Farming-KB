@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Weed Control
+## Weed Control
 
 [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] the principle that
 prevention is always better than confrontation. Given the intensive

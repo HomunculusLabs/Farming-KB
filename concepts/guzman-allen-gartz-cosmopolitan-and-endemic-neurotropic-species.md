@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cosmopolitan and Endemic Neurotropic Species
+## Cosmopolitan and Endemic Neurotropic Species
 
 The [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] and almost all Panaeolus species are cosmopolitan.
 P. foenisecii is common worldwide but poorly documented in some regions; it

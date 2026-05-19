@@ -24,7 +24,7 @@ sources:
 - raw/papers/the-road-to-eleusis.md
 ---
 
-# Albert Hofmann
+## Albert Hofmann
 
 Albert Hofmann (1906-2008) was a Swiss chemist best known for discovering LSD-25 (lysergic acid diethylamide) in 1943 and isolating psilocybin from Psilocybe mushrooms in 1958. He worked at Sandoz Pharmaceuticals in Basel for his entire career, producing over 100 scientific publications. His discovery of both LSD and psilocybin makes him arguably the most influential figure in modern psychedelic chemistry.
 

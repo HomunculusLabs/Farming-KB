@@ -5,7 +5,7 @@ type: entity
 tags: [person, franciscan, chronicler, ethnographer, aztec, colonial, mexico, historian]
 ---
 
-# Bernardino de Sahagun
+## Bernardino de Sahagun
 
 ## Description
 

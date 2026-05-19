@@ -13,7 +13,7 @@ sources: []
 type: comparison
 ---
 
-# Nutrient Cycling vs Nutrient-Dense Gardening
+## Nutrient Cycling vs Nutrient-Dense Gardening
 
 [[coleman-winter-greens-nutritional-quality-cold-sweetening]] |
 

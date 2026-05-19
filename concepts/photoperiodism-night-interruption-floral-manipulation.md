@@ -5,7 +5,7 @@ tags: [photoperiodism, flowering, night-interruption, agriculture, greenhouse, s
 created: 2026-05-10
 ---
 
-# Photoperiodism Night Interruption Technique for Floral Manipulation
+## Photoperiodism Night Interruption Technique for Floral Manipulation
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Forcing Techniques
+## Mushroom Forcing Techniques
 
 Mushroom forcing refers to techniques for accelerating growth
 and extending the season beyond natural limits. [[victorian-mushroom-cultivation]]

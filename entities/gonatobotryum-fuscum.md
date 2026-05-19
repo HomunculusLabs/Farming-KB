@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Gonatobotryum fuscum
+## Gonatobotryum fuscum
 
 Gonatobotryum fuscum is a biotrophic contact mycoparasite that grows on a variety of fungal hosts, particularly polypores and other wood-inhabiting fungi. It belongs to a group of well-studied anamorphic mycoparasites that require fungal extracts or living fungal tissue for axenic growth, representing an important model system for understanding the nutritional physiology and host specificity of biotrophic [[coprophilous-fungi-taxonomic-groups-distribution]] and ecological categories:
 

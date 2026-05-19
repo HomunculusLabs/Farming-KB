@@ -21,7 +21,7 @@ source: "Bebber et al., Ch. 1 in Gadd, Watkinson & Dyer (eds.), Fungi in the Env
 created: 2026-05-13
 ---
 
-# Mycelial Nutrient Dynamics and Translocation
+## Mycelial Nutrient Dynamics and Translocation
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Compost Tea Disease Suppression
+## Compost Tea Disease Suppression
 
 [[actively-aerated-compost-tea]] tea (AACT) provides [[ingham-aact-disease-suppression-through-food-competition]] multiple, interrelated biological mechanisms. Rather than acting as a chemical fungicide or bactericide, compost tea works by establishing a robust and diverse microbial community that prevents pathogens from gaining a foothold on plant surfaces and in the root zone. Understanding these mechanisms is essential for applying tea effectively and setting realistic expectations.
 

@@ -9,7 +9,7 @@ tags:
   - hypogeous
 ---
 
-# Rhizopogon luteolus
+## Rhizopogon luteolus
 
 ## Description
 

@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Make and Use JADAM Microorganism Solution (JMS)?
+## How Do I Make and Use JADAM Microorganism Solution (JMS)?
 
 ## Short Answer
 

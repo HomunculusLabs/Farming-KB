@@ -11,7 +11,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Beekeeping vs Top Bar Hives
+## Beekeeping vs Top Bar Hives
 
 ## Overview
 Top bar hives represent one of several hive system options within the

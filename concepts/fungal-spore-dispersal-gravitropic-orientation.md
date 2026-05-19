@@ -7,7 +7,7 @@ tags: [mycology, spore-dispersal, gravitropism, fungal-ecology, mushroom-biology
 wikilinks: [mushroom-tropisms, psilocybe-cubensis-development-stages, evaporative-demand-mechanism-fungi]
 ---
 
-# Fungal Spore Dispersal and Gravitropic Orientation
+## Fungal Spore Dispersal and Gravitropic Orientation
 
 The orientation of the mushroom cap relative to gravity is one of the most critical determinants of spore dispersal success. [[stinkhorn-fungi-biology-and-spore-dispersal]] in fungi.
 

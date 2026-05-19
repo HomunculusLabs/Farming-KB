@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# THC Acetate Synthesis and Properties
+## THC Acetate Synthesis and Properties
 
 Chapter 3 of *[[thc-acetate-and-isomerization]] the elaborate safety precautions necessary for its
 synthesis using [[cottonseed-oil]] for the oil bath

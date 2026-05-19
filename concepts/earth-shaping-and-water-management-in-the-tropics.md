@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earth-Shaping and Water Management in the Tropics
+## Earth-Shaping and Water Management in the Tropics
 
 Earth-shaping (earthworks) is a fundamental component of permaculture design in tropical environments, where the relationship between water, soil, and slope determines the success or failure of agricultural systems. The intense rainfall characteristic of humid and monsoon tropics creates both tremendous opportunities for water harvesting and significant risks of erosion and nutrient loss. Properly designed earthworks capture, store, and distribute water while building soil and preventing degradation.
 

@@ -15,7 +15,7 @@ sources:
   - Haddock M.J. (2015). Wildflowers and Grasses of Kansas. University Press of Kansas.
 ---
 
-# Ratibida pinnata
+## Ratibida pinnata
 
 ## Overview
 

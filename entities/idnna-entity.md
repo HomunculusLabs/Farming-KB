@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# IDNNA (2,5-Dimethoxy-N,N-dimethyl-4-iodoamphetamine)
+## IDNNA (2,5-Dimethoxy-N,N-dimethyl-4-iodoamphetamine)
 
 IDNNA is a substituted amphetamine compound developed as a potential [[doi-entity]].
 

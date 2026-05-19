@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria Ambrosia Preparation
+## Amanita Muscaria Ambrosia Preparation
 
 Ambrosia -- the "elixir of life" -- is a cold-water extraction of dried [[amanita-muscaria-ancient-wine-question]]), where [[amanita-muscaria-eucharist-wafer-preparation]] preparation), honey drops can be prepared by combining the herb flour with honey. This creates a sweet, portable sacrament that is easy to dose and share.
 

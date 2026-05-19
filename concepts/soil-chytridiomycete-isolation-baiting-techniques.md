@@ -7,7 +7,7 @@ tags: [soil, agriculture]
 sources: []
 ---
 
-# Soil Chytridiomycete Isolation — Baiting Techniques and Bait Types
+## Soil Chytridiomycete Isolation — Baiting Techniques and Bait Types
 
 Chytridiomycetes (chytrids) are early-diverging fungi that reproduce by motile zoospores requiring water for dispersal. Because most chytrids do not grow by [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]
 - Cannot be isolated using strategies for saprobic hyphal fungi

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
-# Growing by Chunking: Implementing Permaculture Gradually
+## Growing by Chunking: Implementing Permaculture Gradually
 
 **Updated:** 2026-04-18
 

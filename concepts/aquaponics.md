@@ -7,7 +7,7 @@ tags: [permaculture, design, water, ecology, biology, methods, plant-growth, tro
 sources: []
 ---
 
-# Aquaponics
+## Aquaponics
 
 Aquaponics is an integrated food production system that combines aquaculture (fish farming) with hydroponics (soilless plant growing) in a recirculating ecosystem. Fish waste provides nutrients for plants, and plants filter the water for fish. This creates a closed-loop system that uses approximately 90% less water than traditional agriculture while producing both protein and vegetables. Aquaponics fits naturally into [[permaculture-design]] as a Zone 1 intensive production system.
 

@@ -1,4 +1,8 @@
-# Fukuoka's Direct-Seeded No-Tillage Rice/Barley Succession in Clover Cover
+---
+title: "Fukuoka's Direct-Seeded No-Tillage Rice/Barley Succession in Clover Cover"
+tags:
+  - concept
+---
 
 ## Overview
 

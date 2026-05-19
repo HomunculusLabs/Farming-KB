@@ -6,14 +6,14 @@ tags: [photonic-crystals, structural-color, optics, materials-science, faq]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/photonic-crystals.md
+  - raw/concepts/photonic-crystals.md
 related_concepts:
   - photonic-crystals
   - wavelet-transform
   - stress-strain-and-elasticity
 type: query
 ---
-# How do [[sajeev-john]]
+## How do [[sajeev-john]]
 
 ## See Also
 

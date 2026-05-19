@@ -5,7 +5,7 @@ type: entity
 tags: [genus, basidiomycete, saprotroph, litter-decomposer, forest-floor]
 ---
 
-# Mycena
+## Mycena
 
 ## Description
 

@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# What Are Biofertilizers and How Do I Use Them?
+## What Are Biofertilizers and How Do I Use Them?
 
 ## Short Answer
 

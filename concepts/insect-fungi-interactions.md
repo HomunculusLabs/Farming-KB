@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Insect-Fungi Interactions
+## Insect-Fungi Interactions
 
 Insects and fungi have interacted with one another for 400 million years
 or more, forming relationships that range from mutually beneficial

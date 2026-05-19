@@ -6,7 +6,7 @@ tags: [photoreception, retina, rods, cones, rhodopsin, photopsin, plant-vision, 
 aliases: [Human Eye Photoreceptors vs Plant Vision, Rods Cones Comparison Plant Photoreception]
 ---
 
-# Human Retina Photoreceptors and the Comparison to Plant Light Perception
+## Human Retina Photoreceptors and the Comparison to Plant Light Perception
 
 Daniel Chamovitz's "What a Plant Knows" opens with a detailed comparison between human
 visual photoreception and plant light sensing, establishing that both systems rely on

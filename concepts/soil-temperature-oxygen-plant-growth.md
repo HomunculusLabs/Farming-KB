@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Soil Temperature and Oxygen for Plant Growth
+## Soil Temperature and Oxygen for Plant Growth
 
 Two often-overlooked factors profoundly influence plant growth: **[[soil-temperature]]** and **soil oxygen**. [[steve-solomon]] emphasizes that these physical properties of soil can matter as much as or more than [[chelation-and-nutrient-availability]] in determining how well vegetables grow.
 

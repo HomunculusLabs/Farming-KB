@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Water Courses in Permaculture Design
+## Water Courses in Permaculture Design
 
 Water courses include any naturally occurring or designed bodies of flowing or standing water on a site, such as rivers, streams, ponds, and lakes. Dealing with water courses from a permaculture standpoint requires careful judgment, as many naturally occurring water bodies can and should be left alone. The designer must distinguish between healthy natural waterways and degraded ones that have been damaged by previous human activity or that will be affected by the new design.
 

@@ -1,4 +1,8 @@
-# Fukuoka on Food as Strategic Weapon: Geopolitics of Seeds and Agricultural Dependency
+---
+title: "Fukuoka on Food as Strategic Weapon: Geopolitics of Seeds and Agricultural Dependency"
+tags:
+  - concept
+---
 
 ## Overview
 

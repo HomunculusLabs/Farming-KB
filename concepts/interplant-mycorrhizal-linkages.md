@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Interplant Mycorrhizal Linkages
+## Interplant Mycorrhizal Linkages
 
 Interplant mycorrhizal linkages are physical connections formed by shared mycorrhizal fungal networks that enable the transfer of carbon, nitrogen, phosphorus, and other nutrients between individual plants. These "mycorrhizal bridges" or "[[common-mycorrhizal-networks]]" (CMNs) represent a significant but historically underappreciated mechanism of belowground resource sharing, with profound implications for plant community structure, ecosystem stability, and our understanding of plant–plant interactions.
 

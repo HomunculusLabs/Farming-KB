@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, tincture, alcohol, extraction, medicine]
 ---
 
-# Cannabis Tinctures
+## Cannabis Tinctures
 
 Cannabis tinctures use liquor as a solvent to dissolve resin
 glands into a potent liquid extract. You can use any liquor,

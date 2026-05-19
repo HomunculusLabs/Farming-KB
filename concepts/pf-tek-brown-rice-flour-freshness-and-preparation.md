@@ -13,7 +13,7 @@ sources:
   - fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-# PF TEK Brown Rice Flour Freshness and Preparation
+## PF TEK Brown Rice Flour Freshness and Preparation
 
 Brown rice flour (BRF) is the primary nutritional component of the PF TEK
 [[pf-tek-substrate-formula-and-jar-preparation-method]] directly

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Phosphorus, Potassium, and Secondary Nutrients
+## Phosphorus, Potassium, and Secondary Nutrients
 
 While nitrogen often dominates garden fertility discussions, Steve Solomon
 emphasizes that vegetables also need large amounts of phosphorus and

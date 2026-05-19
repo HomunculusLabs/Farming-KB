@@ -5,7 +5,7 @@ type: entity
 tags: [deity, sumerian, mythology, control-systems]
 ---
 
-# Enlil
+## Enlil
 
 ## Description
 

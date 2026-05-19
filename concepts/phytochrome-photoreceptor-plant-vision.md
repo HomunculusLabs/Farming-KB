@@ -10,7 +10,7 @@ tags:
 created: 2026-05-09
 ---
 
-# Phytochrome Photoreceptor and Plant Vision
+## Phytochrome Photoreceptor and Plant Vision
 
 ## Overview of Plant Photoreception
 

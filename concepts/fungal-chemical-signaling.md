@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Chemical Signaling
+## Fungal Chemical Signaling
 
 Fungi communicate with one another and with other organisms through an
 elaborate system of [[bloomfield-pythium-oomycete-water-molds]] produce some of the best-characterized fungal

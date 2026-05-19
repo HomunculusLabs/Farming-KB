@@ -14,7 +14,7 @@ sources:
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
-# Money-Sucking Octopus Economy
+## Money-Sucking Octopus Economy
 
 ## Overview
 

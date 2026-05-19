@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# AK-47
+## AK-47
 
 AK-47 is a sativa-dominant cannabis hybrid that has achieved legendary status
 in the cannabis community since its creation by Serious Seeds in the 1990s.

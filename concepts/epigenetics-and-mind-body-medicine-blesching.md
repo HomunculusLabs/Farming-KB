@@ -4,7 +4,7 @@ source: blesching-cannabis-health-index-cannabinoid-terpene-synergy (2015)
 tags: [epigenetics, mind-body-medicine, cannabis, endocannabinoid-system, gene-expression, emotions, health]
 ---
 
-# Epigenetics and Mind-Body Medicine
+## Epigenetics and Mind-Body Medicine
 
 ## Overview
 

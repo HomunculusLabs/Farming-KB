@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Structural Forests in Permaculture
+## Structural Forests in Permaculture
 
 Structural forests are a cornerstone of [[permaculture-design]], providing timber, fencing, [[gadd-fungal-biodegradation-concrete-building-materials]], and forage through carefully selected pioneer and edge species. Unlike conventional forestry focused on saw logs, [[permaculture]] emphasizes round pole timber and coppice systems that yield continuous, diversified products while [[building-soil]] and supporting livestock.
 

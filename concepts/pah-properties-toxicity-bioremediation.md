@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
-# Polycyclic Aromatic Hydrocarbons -- Properties and Toxicity
+## Polycyclic Aromatic Hydrocarbons -- Properties and Toxicity
 
 . Understanding their chemical properties, environmental behavior, and toxicological significance is essential for developing effective remediation strategies.
 

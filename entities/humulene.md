@@ -5,10 +5,10 @@ updated: 2026-05-06
 type: chemical
 tags: [terpene, cannabis, anti-inflammatory, sesquiterpene, appetite-suppressant]
 date: 2cannabis-sativaed: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
+sources: ["raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"]
 ---
 
-# Humulene
+## Humulene
 
 Humulene (α-caryophyllene), also known as α-humulene, is a sesquiterpene (C15) found abundantly in cannabis (*[[cannabis-terpene-entourage-effect-profiles]] in pain management.
 

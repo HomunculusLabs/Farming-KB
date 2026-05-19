@@ -8,7 +8,7 @@ tags: [cannabis]
 updated: 2026-04-26
 ---
 
-# Hash Making and Cannabis Extracts
+## Hash Making and Cannabis Extracts
 
 Hashish and cannabis extracts concentrate the resin glands (trichomes) that contain THC and other cannabinoids, terpenes, and flavonoids. These concentrated products offer higher potency and different consumption methods compared to dried flower. The art of making hash dates back thousands of years.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
-# Fukuoka Green Manure Clover Revolution
+## Fukuoka Green Manure Clover Revolution
 
 Updated: 2026-04-19
 

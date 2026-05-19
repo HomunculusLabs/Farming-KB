@@ -9,7 +9,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# mushroom-cultivation-for-people-with-disabilities: A Training Manual* (2001) presents a comprehensive framework for designing mushroom cultivation training programs specifically adapted for people with disabilities. Written by Johanne Hanko for the FAO Regional Office for Asia and the Pacific, the manual establishes a "three-in-one" training approach that integrates rehabilitation, vocational skills, and enterprise development.
+## mushroom-cultivation-for-people-with-disabilities: A Training Manual* (2001) presents a comprehensive framework for designing mushroom cultivation training programs specifically adapted for people with disabilities. Written by Johanne Hanko for the FAO Regional Office for Asia and the Pacific, the manual establishes a "three-in-one" training approach that integrates rehabilitation, vocational skills, and enterprise development.
 
 ## The Three-in-One Training Philosophy
 

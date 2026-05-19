@@ -5,7 +5,7 @@ type: entity
 tags: [legume, grain, industrial-agriculture, permaculture, monoculture, deforestation]
 ---
 
-# Soya Bean (*Glycine max*)
+## Soya Bean (*Glycine max*)
 
 ## Description
 

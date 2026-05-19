@@ -5,7 +5,7 @@ type: entity
 tags: [geography, water-cycle, deforestation, nevada, case-study]
 ---
 
-# Lake Winnemucca
+## Lake Winnemucca
 
 ## Description
 

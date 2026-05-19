@@ -22,7 +22,7 @@ sources:
   - "Wink, M. (2013). Evolution of antifungal-secondary-metabolites-coprophilous-fungi in legumes. Journal of Experimental Botany, 64, 601–616."
 ---
 
-# Lupin Cultivation, Ecology, and Uses
+## Lupin Cultivation, Ecology, and Uses
 
 ## Overview
 

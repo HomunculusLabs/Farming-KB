@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Pellet Stove Heating vs Charcoal Production for Cooking
+## Pellet Stove Heating vs Charcoal Production for Cooking
 
 ## Overview
 

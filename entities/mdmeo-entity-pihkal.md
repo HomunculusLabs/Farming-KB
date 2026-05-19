@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDMEO
+## MDMEO
 
 PIHKAL entry #111. N-METHOXY-MDA; 3,4-METHYLENEDIOXY-N-METHYOXYAMPHETAMINE.
 

@@ -23,7 +23,7 @@ related_concepts:
   - endophytic-fungi-hidden-symbionts-within-plants
 ---
 
-# Fungal Decomposition and the Global Carbon Cycle
+## Fungal Decomposition and the Global Carbon Cycle
 
 Fungi are among the most consequential organisms on Earth, yet their
 contributions to ecosystem function are frequently underappreciated. As the

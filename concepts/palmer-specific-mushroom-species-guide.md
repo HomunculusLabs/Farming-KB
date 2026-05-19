@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Palmer on Specific Edible Mushroom Species
+## Palmer on Specific Edible Mushroom Species
 
 ## Palmer's Personal Experience
 

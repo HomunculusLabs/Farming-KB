@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Photon-Counting Scintillation Imaging (PCSI) of Fungi
+## Photon-Counting Scintillation Imaging (PCSI) of Fungi
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Organic Winter Farming Systems and Infrastructure
+## Organic Winter Farming Systems and Infrastructure
 
 ## Overview
 

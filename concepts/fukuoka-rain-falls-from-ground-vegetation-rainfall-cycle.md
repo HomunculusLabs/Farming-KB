@@ -17,7 +17,7 @@ created: 2026-05-08
 status: draft
 ---
 
-# Rain Falls from the Ground, Not the Sky
+## Rain Falls from the Ground, Not the Sky
 
 ## The Revelation in the Desert
 

@@ -5,10 +5,10 @@ type: species
 tags: [lamiaceae, psychoactive-plant, ornamental, ethnobotany, mild-intoxicant]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 ---
 
-# Coleus blumei
+## Coleus blumei
 
 *Coleus blumei* (syn. *Plectranthus scutellarioides*), commonly known as painted nettle or simply coleus, is a species of flowering plant in the family Lamiaceae. While primarily cultivated as an ornamental plant for its strikingly colorful foliage, it has been occasionally reported as a mild psychoactive plant in the ethnobotanical literature, earning it a minor but notable place in discussions of psychoactive flora.
 

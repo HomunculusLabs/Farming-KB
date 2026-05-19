@@ -5,7 +5,7 @@ source_author: S.T. Oner
 topics: bruce banner, cannabis strain, sativa-dominant, hybrid, strawberry diesel, ghost OG, phenotypes
 ---
 
-# Bruce Banner Cannabis Strain - Genetics and Cultivation
+## Bruce Banner Cannabis Strain - Genetics and Cultivation
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Carrot Enzyme Soil Preparation
+## Carrot Enzyme Soil Preparation
 
 **Source:** [[knf-indigenous-microorganism-culture]] application, [[ultra-low-cost-foliar-application-methods]] on seedlings, a more dilute solution of 1:1000 is recommended to avoid leaf burn. The timing of application is also important: apply during the early morning or late evening when temperatures are moderate and the enzyme solution will not evaporate quickly.
 

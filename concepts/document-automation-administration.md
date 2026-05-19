@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [office-administration, document-management, workflow, automation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Document Automation and Administration
+## Document Automation and Administration
 
 Document automation refers to the use of technology to streamline the
 creation, management, and distribution of documents within organizations.

@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Nutrient Uptake and Membrane Transport in Plants
+## Nutrient Uptake and Membrane Transport in Plants
 
 The process by which plants absorb and utilize mineral nutrients from soil is fundamentally a story of chemistry, physics, and biology working in concert. Nutrient ions must travel from soil particles to root surfaces, cross cellular membranes against energy gradients, and then be distributed throughout the plant via vascular tissues. Understanding this process is essential to understanding plant nutrition at every level.
 

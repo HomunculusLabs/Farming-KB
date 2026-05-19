@@ -5,7 +5,7 @@ type: entity
 tags: [plant-tissue, cell-division, growth, differentiation, meristem, botany]
 ---
 
-# Meristematic Tissue
+## Meristematic Tissue
 
 ## Description
 

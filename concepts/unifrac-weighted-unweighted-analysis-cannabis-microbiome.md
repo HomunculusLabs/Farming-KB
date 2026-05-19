@@ -15,7 +15,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# UniFrac Weighted vs Unweighted Analysis in Cannabis Microbiome
+## UniFrac Weighted vs Unweighted Analysis in Cannabis Microbiome
 
 The application of both weighted and unweighted UniFrac distance metrics in
 Winston et al. (2014) revealed fundamentally different patterns in the Cannabis

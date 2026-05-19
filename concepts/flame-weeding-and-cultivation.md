@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Flame Weeding and Cultivation for Weed Control
+## Flame Weeding and Cultivation for Weed Control
 
 Weed management is a critical challenge in intensive vegetable production, particularly in greenhouse systems where crops are planted at close spacing on fertile soils. The high fertility and intensive planting that drive exceptional yields also create ideal conditions for weed germination and growth. Eliot Coleman's approach to weed control emphasizes prevention first, followed by targeted mechanical and thermal intervention, with a philosophy of working early, often, and shallow.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# General Pattern Model of Events
+## General Pattern Model of Events
 
 The general pattern model of events is [[permaculture-design]].
 

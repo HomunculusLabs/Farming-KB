@@ -4,7 +4,7 @@ source: Permaculture: Principles and Pathways holmgren-beyond-sustainability (Ho
 tags: [permaculture, design, agriculture, systems-thinking, problem-solving]
 ---
 
-# Front-End Design Versus Back-End Problem Solving in Permaculture
+## Front-End Design Versus Back-End Problem Solving in Permaculture
 
 ## Overview
 

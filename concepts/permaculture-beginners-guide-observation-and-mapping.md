@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, observation, mapping, patterns, design, burnett, ecology]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-# Permaculture Beginners Guide — Observation and Mapping [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
+## Permaculture Beginners Guide — Observation and Mapping [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
 
 ## Learning to See Patterns
 

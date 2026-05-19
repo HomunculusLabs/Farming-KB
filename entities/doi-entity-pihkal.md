@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DOI
+## DOI
 
 mollison-designers-cycles-niches-and-time seemed to move quite
 > slowly. Then a generic sadness came over me, as I reminisced about

@@ -5,7 +5,7 @@ type: entity
 tags: [extract, binder, cannabis-processing, lactuca, hash-production]
 ---
 
-# Lettuce Opium
+## Lettuce Opium
 
 ## Description
 

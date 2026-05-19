@@ -34,7 +34,7 @@ sources:
 - raw/papers/amanita-muscaria-herb-of-immortality.md
 ---
 
-# Entheogen Culture
+## Entheogen Culture
 
 "Entheogen" (Greek: "generating the divine within") refers to psychoactive substances used in religious, spiritual, or shamanic contexts. The term was coined in 1979 by a group including Carl Ruck, R. Gordon Wasson, and Jonathan Ott to replace loaded terms like "hallucinogen" or "psychedelic" when discussing sacred plant use.
 

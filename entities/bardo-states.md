@@ -5,7 +5,7 @@ type: entity
 tags: [buddhism, tibetan, consciousness, psychedelic-framework, ego-loss, afterlife]
 ---
 
-# Bardo States
+## Bardo States
 
 ## Description
 The Bardo States are the intermediate states of consciousness described in the Tibetan Book of the Dead (*Bardo Thodol*). The term "bardo" (Tibetan: བར་དོ, "in-between state") refers to transitional phases between one state of consciousness and another. In *The Psychedelic Experience*, Leary reinterprets the three primary Bardo states as phases of the psychedelic journey: the First Bardo (Chikhai — ego-loss and non-game ecstasy), the Second Bardo (Chonyid — hallucinatory visions), and the Third Bardo (Sidpa — the return to ordinary consciousness and "rebirth"). The Fourth Bardo (re-entry into game reality) is also described.

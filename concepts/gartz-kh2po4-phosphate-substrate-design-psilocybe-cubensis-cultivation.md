@@ -7,7 +7,7 @@ topics: [kh2po4, phosphate, substrate, cultivation, psilocybe-cubensis, dung, ri
 type: concept
 ---
 
-# KH2PO4 Phosphate Supplementation and Substrate Design in Psilocybe cubensis Cultivation
+## KH2PO4 Phosphate Supplementation and Substrate Design in Psilocybe cubensis Cultivation
 
 ## Overview
 

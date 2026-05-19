@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Rice Water Weevil Surface Spreading Agent (JADAM Recipe #2)
+## Rice Water Weevil Surface Spreading Agent (JADAM Recipe #2)
 
 ## Overview
 

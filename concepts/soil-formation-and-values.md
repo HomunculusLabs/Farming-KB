@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Formation and Values
+## Soil Formation and Values
 
 ## Overview
 

@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Ebb and Flow (Flood and Drain) for Cannabis
+## Ebb and Flow (Flood and Drain) for Cannabis
 
 Ebb and flow, also known as flood and drain, is one of the most popular and proven active recovery hydroponic systems for [[cannabis-nutrient-solution-preparation]]. A pump floods the table by pumping nutrient solution from a reservoir into the growing bed. The containers or rockwool blocks are flooded from the bottom, which pushes oxygen-poor air out of the growing medium.
 

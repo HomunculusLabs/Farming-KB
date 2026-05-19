@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis, plant-growth]
 ---
 
-# Cannabis Feminized Seeds
+## Cannabis Feminized Seeds
 
 Feminized seeds are [[cervantes-seed-production-storage]], including the role of
 sex chromosomes, ethylene, and hormone treatments.

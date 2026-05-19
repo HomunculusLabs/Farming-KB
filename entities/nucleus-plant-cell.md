@@ -5,7 +5,7 @@ type: entity
 tags: [organelle, dna, genetics, cell-biology, plant-cell, rna]
 ---
 
-# Nucleus (Plant Cell)
+## Nucleus (Plant Cell)
 
 ## Description
 

@@ -1,14 +1,14 @@
 ---
-title: Medicinal medicinal-mushroom-extraction-bioactive-compounds
+title: "Medicinal Mushroom Extraction"
 created: 2026-04-28
 tags: mycology, extraction, medicinal-mushrooms, bioactive-compounds]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Medicinal Mushroom Extraction
+## Medicinal Mushroom Extraction
 
 [[comparison-cannabis-extraction-basics-vs-extraction-methods]] are essential to access these
 bioactive constituents, as many are bound within the tough chitinous alpha [[ganoderic-acids]] in reishi (*[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]

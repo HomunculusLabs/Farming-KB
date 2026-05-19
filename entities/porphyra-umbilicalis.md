@@ -17,7 +17,7 @@ sources:
   - Niwa, K. (2010). "Taxonomy and phylogeny of Porphyra." Journal of Applied Phycology, 22(6), 861–871.
 ---
 
-# Porphyra umbilicalis
+## Porphyra umbilicalis
 
 ## Overview
 

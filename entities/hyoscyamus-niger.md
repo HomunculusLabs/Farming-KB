@@ -9,7 +9,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Hyoscyamus niger
+## Hyoscyamus niger
 
 **Henbane** is a biennial or annual plant in the nightshade family (Solanaceae),
 native to Europe, northern Africa, and western and central Asia. It is one of

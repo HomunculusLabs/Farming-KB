@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-# Mycelium Running — Techniques & Spawn Preparation
+## Mycelium Running — Techniques & Spawn Preparation
 
 Practical cultivation methods from *Mycelium Running* by [[paul-stamets]]. Covers inoculation, spawn preparation, and deployment for both food production and mycorestoration.
 

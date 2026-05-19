@@ -9,7 +9,7 @@ sources:
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
-# [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] or bubble hash production) is a
+## [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] or bubble hash production) is a
 solventless method of separating [[snow-mold-fungi-cold-temperature-plant-pathogens]]**: Freezing temperatures make trichome heads brittle and cause
    them to detach easily from plant material. The ice also keeps water viscous enough
    that plant matter floats while dense trichome heads sink.

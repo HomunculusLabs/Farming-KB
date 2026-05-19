@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Charcoal Production vs Solar Cooking
+## Charcoal Production vs Solar Cooking
 
 ## Overview
 

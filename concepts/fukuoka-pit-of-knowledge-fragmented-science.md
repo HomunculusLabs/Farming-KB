@@ -11,7 +11,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# The Pit of Knowledge: Fukuoka's Critique of Fragmented Science
+## The Pit of Knowledge: Fukuoka's Critique of Fragmented Science
 
 [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] from which genuine understanding becomes
 impossible.

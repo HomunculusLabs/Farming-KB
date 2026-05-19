@@ -1,4 +1,8 @@
-# Plant Sensory Biology: Smell, Touch and Hearing
+---
+title: "Plant Sensory Biology: Smell, Touch and Hearing"
+tags:
+  - concept
+---
 
 ## Overview
 Beyond [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (analogous to smell), respond to mechanical
@@ -144,6 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[electromagnetic-spectrum-plant-light-perception]]
 - [[lowenfels-rhizosphere-bacteria-plant-interaction]]
-- [[phytochrome-and-plant-photoperiodism]]
-- [[plant-fungal-signaling-mycorrhiza]]
-- [[plant-life-rhythms-pulsatory-growth]]

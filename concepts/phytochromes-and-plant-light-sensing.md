@@ -5,7 +5,7 @@ tags: [botany, phytochromes, photomorphogenesis, red-light, far-red-light, plant
 created: 2026-05-09
 ---
 
-# Phytochromes and Plant Light Sensing
+## Phytochromes and Plant Light Sensing
 
 ## Overview
 

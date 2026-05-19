@@ -5,7 +5,7 @@ type: entity
 tags: [person, chemist, laboratory-assistant, sandoz, psilocybin, ololiuhqui]
 ---
 
-# Hans Tscherter
+## Hans Tscherter
 
 ## Description
 

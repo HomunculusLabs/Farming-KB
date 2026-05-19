@@ -4,7 +4,7 @@ source: magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
 type: concept
 ---
 
-# Psychoactive Mushrooms of Australia and New Zealand
+## Psychoactive Mushrooms of Australia and New Zealand
 
 Australia and New Zealand host more than a dozen species of psychoactive (psilocybin-containing) mushrooms. The region's psychotropic mycoflora includes both native species and introduced dung-inhabiting fungi that arrived with livestock. John W. Allen's field guide documents the history, identification, distribution, and usage of these species across the Australasian region.
 

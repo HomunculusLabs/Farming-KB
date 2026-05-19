@@ -8,7 +8,7 @@ type: concept
 tags: [knf, nutrients]
 ---
 
-# Master Cho's OHN ([[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) is made from herbs full of energy that increase [[phytochrome-red-far-red-ratio-shade-detection-plants]] warm. OHN revitalizes crops and activates their growth. It is one of the most frequently used [[comparison-natural-farming-vs-permaculture]].
+## Master Cho's OHN ([[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) is made from herbs full of energy that increase [[phytochrome-red-far-red-ratio-shade-detection-plants]] warm. OHN revitalizes crops and activates their growth. It is one of the most frequently used [[comparison-natural-farming-vs-permaculture]].
 
 ## [[cho-natural-farming-inputs-overview]]
 

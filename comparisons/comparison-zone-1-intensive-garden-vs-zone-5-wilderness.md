@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Zone 1 Intensive Garden vs Zone 5 Wilderness
+## Zone 1 Intensive Garden vs Zone 5 Wilderness
 
 ## Overview
 

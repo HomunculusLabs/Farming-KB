@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, strain-identification, taxonomy, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+sources: ["raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md"]
 type: concept
 ---
 
-# Oss & Oeric: Psilocybe Cubensis Strain Guide
+## Oss & Oeric: Psilocybe Cubensis Strain Guide
 
 The 1976 guide focused exclusively on [[psilocybin-north-america-pacific-northwest]]. Key identifying features include:
 

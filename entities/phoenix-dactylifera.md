@@ -16,7 +16,7 @@ sources:
   - Barreveld, W.H. (1993). "Date Palm Products." FAO Agricultural Services Bulletin No. 101.
 ---
 
-# Phoenix dactylifera
+## Phoenix dactylifera
 
 ## Overview
 

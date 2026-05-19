@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"
 ---
-# Bokashi Compost Method
+## Bokashi Compost Method
 
 Bokashi is a naturally fortified compost enriched with macro and micro nutrients, bionutrients, and biodiversed beneficial [[fukuoka-natural-farming-philosophy-of-mu]] and sustainable soil management worldwide. In the Carandang method, bokashi is referred to as "Designer Compost" because its formulation can be precisely tailored to the nutritional needs of specific crops or soil conditions.
 

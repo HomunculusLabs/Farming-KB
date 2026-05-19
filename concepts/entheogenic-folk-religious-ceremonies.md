@@ -8,7 +8,7 @@ type: concept
 tags: [peyote, ayahuasca-churches, native-american-church, bwiti, iboga, syncretism]
 ---
 
-# Entheogenic Folk Religious Ceremonies
+## Entheogenic Folk Religious Ceremonies
 
 ## Overview
 

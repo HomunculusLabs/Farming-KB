@@ -4,7 +4,7 @@ source: cotter-oyster-mushroom-cultivation (MushWorld, 2004)
 tags: [mycology, oyster-mushroom, mushroom-cultivation, poverty-alleviation, agricultural-waste, tropical, sustainability]
 ---
 
-# Tropical Mushroom Cultivation on Agricultural Waste for Poverty Alleviation
+## Tropical Mushroom Cultivation on Agricultural Waste for Poverty Alleviation
 
 ## Mushroom Growing as a Tool for Poverty Alleviation
 

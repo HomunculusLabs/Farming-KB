@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# METHYL-J (MBDB; EDEN; 2-Methylamino-1-(3,4-methylenedioxyphenyl)butane)
+## METHYL-J (MBDB; EDEN; 2-Methylamino-1-(3,4-methylenedioxyphenyl)butane)
 
 METHYL-J, also known as MBDB or EDEN, is the N-methyl derivative of J (BDB) and the alpha-ethyl analogue of mdma.
 

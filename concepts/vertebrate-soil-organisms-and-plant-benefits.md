@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Vertebrate Soil Organisms and Plant Benefits of the Soil Food Web
+## Vertebrate Soil Organisms and Plant Benefits of the Soil Food Web
 
 ## Overview
 

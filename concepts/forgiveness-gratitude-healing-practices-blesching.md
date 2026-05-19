@@ -5,7 +5,7 @@ tags: [psychology, forgiveness, gratitude, mind-body-medicine, psychoneuroendocr
 source: "uwe-blesching-the-cannabis-health-index"
 ---
 
-# Forgiveness and Gratitude as Healing Practices
+## Forgiveness and Gratitude as Healing Practices
 
 ## Overview
 

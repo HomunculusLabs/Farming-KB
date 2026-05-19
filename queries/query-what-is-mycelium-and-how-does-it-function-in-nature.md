@@ -18,7 +18,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
 ---
 
-# What Is Mycelium and How Does It Function in Nature?
+## What Is Mycelium and How Does It Function in Nature?
 
 ## Short Answer
 Mycelium is the vegetative body of a fungus, consisting of a vast network of

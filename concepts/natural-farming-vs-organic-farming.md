@@ -5,7 +5,7 @@ tags: [farming, natural-farming, organic-farming, agriculture, philosophy]
 created: 2026-05-08
 ---
 
-# Natural Farming vs Organic Farming
+## Natural Farming vs Organic Farming
 
 The distinction between [[cervantes-organic-amendments-chart]]), still manage pests (through organic pesticides or
 biological controls), and still select crop varieties based on yield and

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Platen (Calcareous Island Hardpan)
+## Platen (Calcareous Island Hardpan)
 
 ## Description
 

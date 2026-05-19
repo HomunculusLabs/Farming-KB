@@ -10,7 +10,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Beta-Caryophyllene as a Dietary CB2 Cannabinoid
+## Beta-Caryophyllene as a Dietary CB2 Cannabinoid
 
 ## Overview
 

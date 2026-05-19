@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Osmotic Shock (Chemical Fertilizer Damage)
+## Osmotic Shock (Chemical Fertilizer Damage)
 
 ## Description
 

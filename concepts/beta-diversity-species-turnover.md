@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Beta Diversity and Species Turnover Metrics
+## Beta Diversity and Species Turnover Metrics
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [plant, solanaceae, amazonian-medicine, ayahuasca-admixture, deliriant, ethnobotany]
 ---
 
-# Datura suaveolens
+## Datura suaveolens
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Causes Cannabis Plants to Stretch and How to Control It?
+## What Causes Cannabis Plants to Stretch and How to Control It?
 
 ## Short Answer
 

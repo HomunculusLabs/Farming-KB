@@ -7,7 +7,7 @@ tags: permaculture, tree-crop, desert, drought-tolerant
 type: concept
 ---
 
-# Date Palm Guide
+## Date Palm Guide
 
 ## Botanical Details
 

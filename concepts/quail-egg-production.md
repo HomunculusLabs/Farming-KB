@@ -7,7 +7,7 @@ tags: [animal-husbandry, livestock, homesteading, nutrition, economics, beginner
 sources: []
 ---
 
-# Quail Egg Production
+## Quail Egg Production
 
 Coturnix quail (Coturnix japonica) are the most productive small-scale egg producers. They reach laying age at 6-8 weeks, produce 250-320 eggs per year per hen, and require minimal space compared to chickens. Quail egg production is increasingly popular on homesteads and urban farms due to low startup costs, fast return on investment, and growing market demand.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis, biocontrol, plant-pathology]
 sources: []
 ---
-# Mycorrhizal Biocontrol
+## Mycorrhizal Biocontrol
 
 Mycorrhizal biocontrol refers to the ability of [[plant-signaling-pathways]]
 - Enhanced production of pathogenesis-related (PR) proteins

@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Calcium Phosphate Liquid Fertilizer
+## JADAM Calcium Phosphate Liquid Fertilizer
 
 Animal bones consist of approximately 20% phosphate (P) and 20% calcium (Ca).
 Bone meal JLF provides both elements simultaneously, making it an excellent

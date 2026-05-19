@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Shape and Edge Effects in Aquaculture Design
+## Pond Shape and Edge Effects in Aquaculture Design
 
 ## The Edge Principle
 

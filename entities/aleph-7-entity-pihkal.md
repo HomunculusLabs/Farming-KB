@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# [[2c-b-pihkal-entry-20]] #7. 4-Propylthio-2,5-dimethoxy-A.
+## [[2c-b-pihkal-entry-20]] #7. 4-Propylthio-2,5-dimethoxy-A.
 
 ## Dosage and Duration
 

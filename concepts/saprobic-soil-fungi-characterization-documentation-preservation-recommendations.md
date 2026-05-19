@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Saprobic Soil Fungi — Characterization, Documentation, Preservation, and Inventory Recommendations
+## Saprobic Soil Fungi — Characterization, Documentation, Preservation, and Inventory Recommendations
 
 ## Overview
 

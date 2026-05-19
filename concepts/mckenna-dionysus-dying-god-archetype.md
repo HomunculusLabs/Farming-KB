@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Dionysus and the Dying God Archetype
+## Dionysus and the Dying God Archetype
 
 Dionysus, son of Zeus and the mortal Semele, twice born, god of intoxication who
 brings madness to women, has never been a comfortable figure in the Greek

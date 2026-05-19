@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, biochemistry, enzymes, decomposition, lignocellulose]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# lignocellulose degradation by fungi Lignocellulose is the primary structural component of plant cell walls and the most abundant organic polymer on Earth. It consists of three major fractions: cellulose (35-50%), hemicellulose (20-35%), and lignin (15-30%). White-rot fungi, including [[cervantes-hydrogen-peroxide-sterilization]] + iron) to generate hydroxyl radicals that cleave
+## lignocellulose degradation by fungi Lignocellulose is the primary structural component of plant cell walls and the most abundant organic polymer on Earth. It consists of three major fractions: cellulose (35-50%), hemicellulose (20-35%), and lignin (15-30%). White-rot fungi, including [[cervantes-hydrogen-peroxide-sterilization]] + iron) to generate hydroxyl radicals that cleave
 cellulose chains. The remaining brown, lignin-rich residue gives this group its
 name. Brown-rot fungi include *[[fungal-manganese-peroxidase-remediation]] (MnP):** The most commonly produced ligninolytic
   enzyme in *Pleurotus* species. MnP oxidizes Mn(II) to Mn(III), which in

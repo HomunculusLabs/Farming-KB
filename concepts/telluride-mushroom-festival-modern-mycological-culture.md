@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# The Telluride Mushroom Festival and Modern Mycological Culture
+## The Telluride Mushroom Festival and Modern Mycological Culture
 
 The Telluride Mushroom Festival, held annually for twenty-five years
 in the small ski town of Telluride, high in the Rocky Mountains of

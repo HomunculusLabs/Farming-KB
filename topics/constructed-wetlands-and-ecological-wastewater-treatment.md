@@ -37,7 +37,7 @@ related_concepts:
   - permaculture-designers-manual-wetland-treatment
 ---
 
-# Constructed Wetlands and Ecological Wastewater Treatment
+## Constructed Wetlands and Ecological Wastewater Treatment
 
 Constructed wetlands are engineered ecosystems that replicate the water
 purification processes found in natural marshes, swamps, and bogs to treat

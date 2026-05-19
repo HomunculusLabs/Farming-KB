@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Home Cultivation Movement of the 1970s in Food of the Gods
+## Psilocybin Home Cultivation Movement of the 1970s in Food of the Gods
 
 In *Food of the Gods*, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], beginning
 in late 1975.

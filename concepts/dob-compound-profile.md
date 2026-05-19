@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, amphetamine, dosag
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# DOB and DOI Compound Profile
+## DOB and DOI Compound Profile
 
 ## The DO Series
 

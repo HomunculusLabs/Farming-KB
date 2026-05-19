@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# ARIADNE
+## ARIADNE
 
 ARIADNE (4-Methyl-2,5-dimethoxymethamphetamine; DMMDMA) is a psychedelic amphetamine that is the N-methyl homologue of dom-entity|DOM.
 

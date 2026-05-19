@@ -9,7 +9,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Natural Farming Philosophy and Principles
+## Natural Farming Philosophy and Principles
 
 [[building-with-natural-materials]] and products. It is based on the principle of interdependence among all living things, aiming to have a nurturing impact on the environment, in sharp contrast to the disadvantageous effects of modernized and commercialized agriculture.
 

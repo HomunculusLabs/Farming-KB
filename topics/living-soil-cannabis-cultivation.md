@@ -35,7 +35,7 @@ related_concepts:
   - cervantes-organic-amendments-chart
 ---
 
-# Living Soil Cannabis Cultivation
+## Living Soil Cannabis Cultivation
 
 Living soil cannabis cultivation is a biological growing methodology that centers on
 building and maintaining a diverse soil ecosystem to supply plant nutrition, rather

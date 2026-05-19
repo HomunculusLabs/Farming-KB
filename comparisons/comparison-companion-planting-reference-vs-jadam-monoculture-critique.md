@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Companion Planting vs Monoculture
+## Companion Planting vs Monoculture
 ## Overview
 Companion planting and monoculture represent opposite ends of the biodiversity
 spectrum in food production. Companion planting arranges different species

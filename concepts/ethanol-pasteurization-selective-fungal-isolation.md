@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Ethanol Pasteurization for Selective Fungal Isolation
+## Ethanol Pasteurization for Selective Fungal Isolation
 
 Ethanol pasteurization is a selective technique that preferentially isolates fungi with resistant propagules — particularly ascomycetes and basidiomycetes with thick-walled spores, sclerotia, or chlamydospores — from soil. It shifts the isolated population away from rapidly growing [[agar-culture-media]].
 

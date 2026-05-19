@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Banco (Shaman)
+## Banco (Shaman)
 
 ## Description
 

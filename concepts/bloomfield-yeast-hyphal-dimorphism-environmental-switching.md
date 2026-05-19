@@ -5,7 +5,7 @@ author: Nicholas P. Money
 topics: [mycology, fungal-biology, dimorphism, yeast, hyphae, cell-differentiation]
 ---
 
-# Yeast-Hyphal Dimorphism and Environmental Switching
+## Yeast-Hyphal Dimorphism and Environmental Switching
 
 Many fungi possess the remarkable ability to alternate between two
 fundamentally different growth forms: the single-celled yeast form and

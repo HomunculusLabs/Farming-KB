@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# W. J. C. Lawrence
+## W. J. C. Lawrence
 
 ## Description
 

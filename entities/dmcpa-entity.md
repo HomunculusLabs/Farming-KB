@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DMCPA (2-(2,5-Dimethoxy-4-methylphenyl)cyclopropylamine)
+## DMCPA (2-(2,5-Dimethoxy-4-methylphenyl)cyclopropylamine)
 
 DMCPA is a cyclopropylamine compound modeled after the structure of [[dom]].
 

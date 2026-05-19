@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Invertebrate Fungivory and Feeding Preferences
+## Invertebrate Fungivory and Feeding Preferences
 
 Invertebrate fungivory — the consumption of fungi by invertebrate animals — is a fundamental trophic interaction in soil and litter ecosystems. Soil microarthropods, nematodes, and insect larvae depend on fungi as primary or supplementary food sources, and their selective grazing profoundly shapes fungal community composition, competitive dynamics, and ecosystem-level processes such as decomposition and [[nutrient-mineralization]].
 

@@ -16,7 +16,7 @@ sources:
   - Vizzotto, G. et al. (2014). "Phenolic Compounds in Peach (Prunus persica L. Batsch)." In: Bioactive Foods in Promoting Health, Academic Press.
 ---
 
-# Prunus persica
+## Prunus persica
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-G-5
+## 2C-G-5
 
 [[optical-isomers-psychedelic-phenethylamines]]. But I suspect that it might be quite difficult.
 

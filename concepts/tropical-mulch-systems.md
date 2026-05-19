@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Mulch Systems
+## Tropical Mulch Systems
 
 Tropical mulch systems are foundational to [[permaculture-design]] in humid and sub-humid tropics, where rapid decomposition, leaching rains, and often nutrient-poor soils demand constant organic matter replenishment. [[bill-mollison]]'s *Permaculture: A Designers' Manual* presents mulching not as a simple soil covering technique, but as an integrated system for building humus, modifying soil chemistry, suppressing weeds, and establishing productive food forests on degraded land.
 

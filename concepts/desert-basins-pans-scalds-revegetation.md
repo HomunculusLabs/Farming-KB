@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Basins, Pans, Scalds, and Revegetation
+## Desert Basins, Pans, Scalds, and Revegetation
 
 The flat and depressed areas of desert landscapes—basins, pans, and scalds—present unique challenges and opportunities for [[gypsum]]**: Decreases clay capacity to infiltrate water (useful where run-off collection is desired)
 - **Sodium carbonate or [[water-conservation]] begins on foothill slopes and forests are generated downstream.

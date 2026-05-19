@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 tags: [icaros, ayahuasca, amazon, music, healing, shamanism, vegetalista]
 ---
 
-# Icaros — Power Songs of the Amazon
+## Icaros — Power Songs of the Amazon
 
 Icaros are sacred melodic songs used by Amazonian vegetalistas and
 curanderos as primary tools for healing, protection, and spiritual

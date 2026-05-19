@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Heavy Metal Biosorption
+## Heavy Metal Biosorption
 
 Biosorption is the passive uptake of metal ions from aqueous solutions by biological materials, including living or dead microbial biomass, plant materials, and biopolymers. It is a physicochemical process driven by interactions between metal ions and functional groups on the surface of biological materials, including carboxyl, hydroxyl, amino, sulfhydryl, phosphate, and imidazole groups.
 

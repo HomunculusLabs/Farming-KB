@@ -11,7 +11,7 @@ sources:
   - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 
-# Psilocybe aucklandii
+## Psilocybe aucklandii
 
 **Psilocybe aucklandii** Guzmán, C.C. King & Bandala, commonly known as
 the Auckland Psilocybe or King's Psilocybe, is a [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]] of the

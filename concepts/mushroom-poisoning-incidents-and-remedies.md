@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom Poisoning Incidents and Remedies
+## Mushroom Poisoning Incidents and Remedies
 
 Julius A. Palmer's writings provide some of the earliest documented accounts
 of mushroom poisoning in America, along with practical remedies derived from

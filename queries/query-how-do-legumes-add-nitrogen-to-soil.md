@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How do legumes add nitrogen to soil?
+## How do legumes add nitrogen to soil?
 
 ## Short Answer
 

@@ -8,7 +8,7 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# [[comparison-raised-beds-vs-hugelkultur]] with vegetables planted
+## [[comparison-raised-beds-vs-hugelkultur]] with vegetables planted
 in precise hexagonal patterns. He states flatly that claims of much higher
 yields and less water use per unit of production from intensive beds "are not
 true." He has used those difficult [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]:** Raised beds remind people to stay off the growing areas.

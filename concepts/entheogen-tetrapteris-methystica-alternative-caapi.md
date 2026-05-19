@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md, ~/wiki/r
 type: concept
 ---
 
-# Tetrapteris methystica Alternative Caapi Vine
+## Tetrapteris methystica Alternative Caapi Vine
 
 Tetrapteris methystica is a forest vine of the family Malpighiaceae
 that serves as an alternative source of entheogenic beverage among

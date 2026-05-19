@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, religion]
 ---
 
-# [[marijuana-magick-scrying-and-divination-cannabis]]," sacred space functions as a prerequisite for effective ritual. The guide describes multiple methods for creating, configuring, and closing ritual spaces, each adapted to the specific working being performed. Cannabis plays a dual role in spatial preparation: it is both prepared within the sacred space and consumed to deepen the practitioner's connection to the consecrated environment.
+## [[marijuana-magick-scrying-and-divination-cannabis]]," sacred space functions as a prerequisite for effective ritual. The guide describes multiple methods for creating, configuring, and closing ritual spaces, each adapted to the specific working being performed. Cannabis plays a dual role in spatial preparation: it is both prepared within the sacred space and consumed to deepen the practitioner's connection to the consecrated environment.
 
 ## Drawing the Circle
 

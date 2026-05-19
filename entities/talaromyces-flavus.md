@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, mycoparasite, biocontrol, sclerotial-parasite, soil-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Talaromyces flavus
+## Talaromyces flavus
 
 **Type:** Species (Ascomycete)
 **Category:** Sclerotial Mycoparasite / Biocontrol Agent

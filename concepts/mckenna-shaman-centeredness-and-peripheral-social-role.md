@@ -7,7 +7,7 @@ tags: [shamanism, anthropology, mckenna, consciousness, plant-teachers, indigeno
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# Shamanic Centeredness and Peripheral Social Role
+## Shamanic Centeredness and Peripheral Social Role
 
 In his 1983 Esalen lecture, [[mckenna-food-gods-designer-states-of-consciousness]] that
 have been refined over millennia. These techniques make it possible, "though

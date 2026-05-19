@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDBZ
+## MDBZ
 
 [[query-how-to-make-your-own-organic-fertilizer-at-home]] chemist, in that it can be easily
 removed by catalytic hydrogenation. This is a trick often used to

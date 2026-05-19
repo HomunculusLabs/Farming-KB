@@ -22,7 +22,7 @@ sources:
   - https://www.organicagcentre.ca/PracticalFiles/Biofumigation.pdf (OACC Biofumigation Factsheet)
 ---
 
-# Biofumigation and Brassica Cover Crops for Soil-Borne Pest Management
+## Biofumigation and Brassica Cover Crops for Soil-Borne Pest Management
 
 ## Overview
 

@@ -33,7 +33,7 @@ related_concepts:
   - nitrogen-fixing-bacteria-and-biological-nitrogen-fixation
 ---
 
-# Permaculture Plant Guilds
+## Permaculture Plant Guilds
 
 A permaculture plant guild is a deliberately assembled community of plants,
 animals, fungi, and other organisms that work together synergistically,

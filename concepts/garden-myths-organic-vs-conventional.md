@@ -7,7 +7,7 @@ sources: linda-chalker-scott-the-informed-gardener
 tags: [garden-myths, organic, horticulture, pesticides, debunking]
 ---
 
-# Garden Myths About Organic vs Conventional Horticulture
+## Garden Myths About Organic vs Conventional Horticulture
 
 The divide between organic and conventional horticulture is often presented as a stark moral and ecological choice. While the organic movement has made vital contributions to sustainable land management, several myths have developed around the claimed superiority of organic methods. Evidence-based horticulture seeks to evaluate practices on their actual merits rather than their ideological alignment.
 

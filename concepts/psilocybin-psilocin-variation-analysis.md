@@ -9,7 +9,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# [[mycelium]] evenly.
+## [[mycelium]] evenly.
 Grain was then cased with a mixture of peat, calcium carbonate, and
 perlite/vermiculite. Mushrooms were watered with sterile water every two days.
 The first flush occurred four to five weeks after inoculation. Sporocarps were

@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Seed Balls vs Direct Seeding
+## Seed Balls vs Direct Seeding
 
 ## Overview
 

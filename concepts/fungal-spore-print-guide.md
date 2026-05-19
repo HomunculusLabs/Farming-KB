@@ -7,7 +7,7 @@ tags: [fungi, mycology, foraging, species, methods, lab-technique, mushrooms, ta
 sources: []
 ---
 
-# Fungal Spore Print Guide
+## Fungal Spore Print Guide
 
 ## Overview
 

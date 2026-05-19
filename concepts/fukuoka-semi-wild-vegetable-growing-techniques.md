@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Semi-Wild Vegetable Growing Techniques
+## Semi-Wild Vegetable Growing Techniques
 
 In Chapter 4 of [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]."
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 
-# Polyculture Design Principles
+## Polyculture Design Principles
 
 **Updated:** 2026-04-18
 

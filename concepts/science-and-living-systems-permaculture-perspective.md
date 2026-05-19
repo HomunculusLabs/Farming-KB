@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Science and Living Systems — A Permaculture Perspective
+## Science and Living Systems — A Permaculture Perspective
 
 ## Overview
 

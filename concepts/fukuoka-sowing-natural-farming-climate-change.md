@@ -8,7 +8,7 @@ type: concept
 tags: [climate, fukuoka, natural-farming]
 ---
 
-# Natural Farming and Climate Change — Fukuoka's Analysis
+## Natural Farming and Climate Change — Fukuoka's Analysis
 
 *Fukuoka's analysis of desertification, climate change, and environmental
 degradation, and [[natural-farming-methods-comparison]] were swallowed by

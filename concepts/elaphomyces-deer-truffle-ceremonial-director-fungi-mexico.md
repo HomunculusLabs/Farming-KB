@@ -5,7 +5,7 @@ source_authors: Guzmán, Allen & Gartz (2000)
 topic: ethnomycology
 ---
 
-# Elaphomyces Deer Truffles as Ceremonial Director Fungi
+## Elaphomyces Deer Truffles as Ceremonial Director Fungi
 
 ## Overview
 

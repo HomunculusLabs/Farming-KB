@@ -17,7 +17,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Sanghuang (Sanghuangporus baumii)
+## Sanghuang (Sanghuangporus baumii)
 
 ## Overview
 

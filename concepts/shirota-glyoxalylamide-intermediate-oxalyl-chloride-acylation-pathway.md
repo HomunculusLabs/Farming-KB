@@ -1,4 +1,8 @@
-# Shirota Glyoxalylamide Intermediate and Oxalyl Chloride Crystallization Pathway
+---
+title: "Shirota Glyoxalylamide Intermediate and Oxalyl Chloride Crystallization Pathway"
+tags:
+  - concept
+---
 
 ## Overview
 In the 2003 paper by Shirota, Hakamata, and Goda describing the concise

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungal Biodiversity Inventory
+## Fungal Biodiversity Inventory
 
 Fungal biodiversity inventory encompasses the systematic effort to detect, identify, document, and monitor fungal species across habitats and landscapes. It represents a fundamental scientific undertaking with direct applications in conservation, land management, ecosystem health assessment, and pure biodiversity research.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Bipolar Disorder
+## Cannabis and Bipolar Disorder
 
 ## Overview
 

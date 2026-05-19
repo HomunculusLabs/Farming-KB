@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Turkey Tail Research - PSK and PSP
+## Turkey Tail Research - PSK and PSP
 
 [[gourmet-medicinal-mushroom-casing-layer-techniques]] in clinical oncology. Two protein-bound polysaccharides isolated from this fungus -- PSK (Krestin) and PSP -- have undergone decades of clinical trials and have become standard adjunct cancer therapies in Asia. PSK once accounted for more than 25% of total national expenditure for anti-cancer agents in Japan.
 

@@ -4,7 +4,7 @@ source: masanobu-fukuoka-sowing-seeds-in-the-desert.md
 type: concept
 ---
 
-# Fukuoka's Desert Revegetation and Clay Seed Pellet Method
+## Fukuoka's Desert Revegetation and Clay Seed Pellet Method
 
 [[masanobu-fukuoka]]'s "Sowing Seeds in the Desert" (originally published in Japanese as "The Ultimatum of God Nature," 1996) presents his plan for global [[desert-revegetation]] using [[natural-farming-principles]]. After visiting India, Africa, Europe, and the United States, Fukuoka concluded that most of the world's deserts were created by human activity and could be revegetated by broad-scale seeding of diverse plant and microorganism species.
 

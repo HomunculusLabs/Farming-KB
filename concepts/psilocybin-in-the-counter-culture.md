@@ -15,7 +15,7 @@ sources:
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 
-# Psilocybin in the Counter-Culture
+## Psilocybin in the Counter-Culture
 
 The role of psilocybin mushrooms in the 1960s counterculture, from Harvard research to the hippie movement.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [solvent, chemical, extraction, alcohol]
 ---
 
-# Isopropyl Alcohol
+## Isopropyl Alcohol
 
 ## Description
 

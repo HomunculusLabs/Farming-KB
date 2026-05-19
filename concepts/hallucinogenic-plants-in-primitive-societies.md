@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Hallucinogenic plants|Plants in Primitive Societies
+## Hallucinogenic plants|Plants in Primitive Societies
 
 > Hallucinogens permeate nearly every aspect of life in primitive societies.
 > — R.E. Schultes, *A [[golden-guide-amanita-muscaria-and-soma]] to [[blesching-cannabis-healing-practices-setting-intention-affirmations]] and disease

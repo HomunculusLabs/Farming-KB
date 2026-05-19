@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria: Medicinal Properties — Heart, Anxiety, Pain, and Dreams
+## Amanita Muscaria: Medicinal Properties — Heart, Anxiety, Pain, and Dreams
 
 [[amanita-muscaria]] (AM) possesses a remarkable breadth of medicinal properties that span
 cardiovascular health, anxiety relief, pain management, and dream induction. Its

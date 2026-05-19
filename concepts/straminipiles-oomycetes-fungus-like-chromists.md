@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Straminipiles and Oomycetes — Fungus-Like Chromists
+## Straminipiles and Oomycetes — Fungus-Like Chromists
 
 Oomycetes and other straminipiles were long classified as fungi due to their filamentous growth and absorptive nutrition. Molecular evidence now places them firmly within the Kingdom Chromista (Straminipila), related to diatoms and brown algae. This reclassification has profound implications for understanding their biology and management.
 

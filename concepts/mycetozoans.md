@@ -15,7 +15,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Mycetozoans
+## Mycetozoans
 
 Mycetozoans (slime molds) are a polyphyletic group of fungus-like protists that produce fruiting bodies and feed as predators on bacteria and other microorganisms. They comprise several distinct lineages within the Eumycetozoa and related groups.
 

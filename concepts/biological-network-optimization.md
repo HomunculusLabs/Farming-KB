@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [network-theory, biology, optimization, bio-inspired-computing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Biological Network Optimization
+## Biological Network Optimization
 
 Biological network optimization refers to the principles and processes by
 which [[mycelial-network-architecture]]

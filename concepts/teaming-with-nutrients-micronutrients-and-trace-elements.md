@@ -13,7 +13,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Micronutrients and Trace Elements
+## Micronutrients and Trace Elements
 
 Although plants require only trace amounts of micronutrients, these eight elements are every bit as essential as the macronutrients. Per Von Liebig's Law of the Minimum, if even the least-used nutrient is absent, no amount of the others will compensate. The micronutrients are boron (B), chlorine (Cl), copper (Cu), iron (Fe), manganese (Mn), zinc (Zn), molybdenum (Mo), and nickel (Ni).
 

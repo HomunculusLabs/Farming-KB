@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, forage, poultry-feed, tree-crop, mulberry, morus]
 ---
 
-# White Mulberry (Morus alba)
+## White Mulberry (Morus alba)
 
 ## Description
 

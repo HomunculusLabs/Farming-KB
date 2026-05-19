@@ -4,7 +4,7 @@ created: 2026-05-10
 tags: [psilocybin, storage, stability, freeze-drying, degradation, bigwood-beug-1982]
 ---
 
-# Psilocybin Storage Stability and Post-Harvest Degradation
+## Psilocybin Storage Stability and Post-Harvest Degradation
 
 ## Overview
 

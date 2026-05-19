@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Spawning Techniques and Casing
+## Mushroom Spawning Techniques and Casing
 
 ## Overview
 

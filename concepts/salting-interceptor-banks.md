@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Salting and Interceptor Banks
+## Salting and Interceptor Banks
 
 Dryland salinity is one of the most devastating forms of land degradation in agricultural regions, particularly in Western Australia. It results from the clearing of deep-rooted native vegetation and its replacement with shallow-rooted annual crops and pastures. This causes groundwater tables to rise, mobilizing ancient salt stores in the subsoil and bringing them to the surface. The result is [[interceptor-banks]] are earthworks designed to intercept both surface runoff and subsurface throughflow, directing salty water away from productive soil blocks and into natural drainage lines or designated discharge areas. They are a primary tool in halting the downhill "cascade" effect of saline overland flow and throughflow.
 

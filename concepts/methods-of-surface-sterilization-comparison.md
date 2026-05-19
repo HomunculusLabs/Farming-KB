@@ -7,7 +7,7 @@ tags: [sterilization, decontamination, autoclave, gamma-irradiation, UV, chemica
 sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 ---
 
-# Methods of Surface Sterilization Comparison
+## Methods of Surface Sterilization Comparison
 
 ## Overview
 

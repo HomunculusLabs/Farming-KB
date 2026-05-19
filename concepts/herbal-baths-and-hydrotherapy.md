@@ -16,7 +16,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Herbal Baths and Hydrotherapy
+## Herbal Baths and Hydrotherapy
 
 Herbal baths combine the therapeutic properties of water immersion with the medicinal qualities of botanical preparations. This modality is one of the oldest and most accessible forms of herbal medicine, using the skin — the body's largest organ — as a route of absorption for herbal constituents. Hydrotherapy with herbs addresses conditions ranging from skin complaints and muscle tension to stress and insomnia, and has been practiced across cultures from Roman thermae to Japanese onsen to [[permaculture-designers-manual-essential-oil-plants]] or infused flowers addresses muscle soreness, tension headaches, and sleep difficulties. Epsom salt provides magnesium transdermally while lavender's linalool content produces measurable anxiolytic effects. This is the most commonly recommended herbal bath for stress and sleep.
 - **Oatmeal baths:** Colloidal oatmeal (Avena sativa) is the primary herbal dermatological treatment for eczema, poison ivy, chickenpox, and generalized itch. The avenanthramides in oats have documented anti-inflammatory and antipruritic properties. Finely ground oatmeal is dispersed in warm (not hot) bathwater until the water turns milky.

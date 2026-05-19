@@ -4,7 +4,7 @@ source: "S.T. Oner — The Rev: blesching-cannabis-sativa-indica-classification 
 tags: [cannabis, sativa, strain-profile, jack-herer, space-queen, tga-subcool, thcv, parkinsons, high-thc, medical-sativa]
 ---
 
-# Jack the Ripper — Jack's Cleaner × Space Queen (TGA Subcool)
+## Jack the Ripper — Jack's Cleaner × Space Queen (TGA Subcool)
 
 Jack the Ripper is a potent [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
 genetics. With a tested THC content of 26.6%, Jack the Ripper ranks among

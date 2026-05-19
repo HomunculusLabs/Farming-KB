@@ -5,7 +5,7 @@ type: entity
 tags: [zooplankton, rotifer, sewage-treatment, water-purification, permaculture]
 ---
 
-# Brachionus
+## Brachionus
 
 ## Description
 

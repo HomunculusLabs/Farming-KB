@@ -7,7 +7,7 @@ tags: [plants, gardening]
 sources:
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
-# Pruning Fruit Trees and Bushes
+## Pruning Fruit Trees and Bushes
 
 Pruning is essential for maintaining healthy, productive fruit trees and bushes. The timing and method differ significantly between fruit types, and getting it wrong can introduce disease. In [[stamets-growing-room-air-circulation-co2-management]] and light penetration
 - Never prune more than necessary -- each cut is a wound that must heal

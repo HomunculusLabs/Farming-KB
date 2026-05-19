@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MMDA — 3-Methoxy-4,5-methylenedioxyamphetamine
+## MMDA — 3-Methoxy-4,5-methylenedioxyamphetamine
 
 [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]: tetraoxygenated amphetamine, one of the Essential Amphetamines alongside [[permaculture-designers-manual-essential-oil-plants]] from nutmeg is myristicin, the easiest source of MMDA. Passage of this oil through a rabbit's liver has been reported to generate MMDA. Structurally, myristicin plus ammonia yields MMDA.
 

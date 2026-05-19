@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Food Preservation [[natural-farming-sustainable-living-principles]] [[natural-farm-composting-vermicomposting]]
+## Food Preservation [[natural-farming-sustainable-living-principles]] [[natural-farm-composting-vermicomposting]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]] and Context
 
 Food Preservation Methods is an [[query-how-to-build-a-compost-pile-that-works]]s on centuries of

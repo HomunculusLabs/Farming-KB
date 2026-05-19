@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Cardiovascular Health
+## Cannabis for Cardiovascular Health
 
 ## Evidence-Based Confidence Level and Therapeutic Potential
 

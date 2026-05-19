@@ -13,7 +13,7 @@ sources:
   - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-# Perlite Humidification Technique for Mushroom Fruiting
+## Perlite Humidification Technique for Mushroom Fruiting
 
 The perlite humidification technique is a passive, low-tech method for maintaining high humidity in [[pf-tek-psilocybe-fanaticus]]'s [[pf-tek]] documentation, this method uses the physical properties of expanded perlite to create sustained humidity without electric humidifiers or automated systems. It became one of the most widely adopted humidification approaches for home [[crystal-structure-and-crystal-defects]]. It retains moisture but releases it slowly through evaporation from internal surfaces
 - **Perlite**: Does not absorb water into its structure. Instead, water clings to the extensive external surface area of its porous granules through capillary action and [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]. This external water is readily available for evaporation

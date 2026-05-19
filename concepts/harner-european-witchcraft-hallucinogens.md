@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# European Witchcraft and Solanaceous Hallucinogens
+## European Witchcraft and Solanaceous Hallucinogens
 
 ## The Overlooked Role of Hallucinogenic Plants
 

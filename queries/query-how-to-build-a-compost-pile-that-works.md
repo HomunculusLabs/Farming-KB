@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Build a Compost Pile That Works
+## How to Build a Compost Pile That Works
 
 ## Short Answer
 A successful compost pile needs four ingredients in the right balance: carbon-rich browns like dry leaves and straw, nitrogen-rich greens like kitchen scraps and grass clippings, adequate moisture, and sufficient oxygen. Build the pile in layers, keep it as moist as a wrung-out sponge, turn it every few weeks to introduce air, and finished compost will be ready in two to six months depending on conditions and management intensity.

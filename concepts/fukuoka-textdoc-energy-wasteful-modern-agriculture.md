@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Energy-Wasteful Modern Agriculture
+## Energy-Wasteful Modern Agriculture
 
 Fukuoka presents a detailed critique of the [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s claimed high productivity
 is an illusion when energy inputs are properly accounted for. This analysis

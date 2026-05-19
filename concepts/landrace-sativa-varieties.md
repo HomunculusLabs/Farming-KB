@@ -5,7 +5,7 @@ tags: [cannabis, landrace, sativa, genetics, southeast-asia, africa, colombia]
 created: 2026-05-10
 ---
 
-# Landrace Sativa Varieties
+## Landrace Sativa Varieties
 
 [[cannabis-landrace-sativa-growing-challenges]]. Unlike modern hybrid strains created through intentional
 breeding programs, landraces represent the genetic foundation from which all

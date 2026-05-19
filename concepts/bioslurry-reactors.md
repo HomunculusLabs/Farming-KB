@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Bioslurry Reactors
+## Bioslurry Reactors
 
 Bioslurry reactors are intensive ex situ bioremediation systems that treat contaminated soil, sediment, or sludge in aqueous suspension with continuous mixing and aeration. By maintaining contaminated solids in a liquid medium, bioslurry reactors maximize contact between contaminants and degrading microorganisms, significantly enhancing treatment rates compared to solid-phase systems such as landfarming and biopiles. These systems offer the highest degree of process control among biological treatment technologies.
 

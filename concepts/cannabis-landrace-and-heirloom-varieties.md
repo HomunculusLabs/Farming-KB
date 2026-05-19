@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Landrace and Heirloom Varieties
+## Cannabis Landrace and Heirloom Varieties
 
 Landrace cannabis varieties are locally adapted populations that evolved in specific geographic regions over centuries of natural and human selection. They represent the genetic foundation of all modern cannabis strains and are invaluable for breeding programs seeking unique cannabinoid profiles, disease resistance, and regional adaptation.
 

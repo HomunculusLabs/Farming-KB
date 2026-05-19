@@ -6,7 +6,7 @@ created: 2026-05-09
 source: Fungi in the Environment (Gadd, Watkinson, Dyer)
 ---
 
-# Saprotrophic Fungal Ecology
+## Saprotrophic Fungal Ecology
 
 [[fungal-decomposition-resource-quality-determinants]] gradients:** Mycelia can sense and respond to gradients of nutrient concentration, moisture, pH, and other environmental variables, directing growth toward more favorable conditions.
 

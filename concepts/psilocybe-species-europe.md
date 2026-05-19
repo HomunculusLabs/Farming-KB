@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Species of Europe
+## Psilocybe Species of Europe
 
 ## European Neurotropic Mycoflora Overview
 

@@ -7,7 +7,7 @@ sources:
   - "raw/papers/ingham-soil-food-web.md"
 ---
 
-# Compost Extract vs Compost Leachate
+## Compost Extract vs Compost Leachate
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [concept, psychotherapy, healing-mechanism, ayahuasca-healing, therapeutic-model]
 ---
 
-# Doctrinal Compliance
+## Doctrinal Compliance
 
 ## Description
 

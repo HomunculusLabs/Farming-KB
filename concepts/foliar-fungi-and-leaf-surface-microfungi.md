@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Foliar Fungi and Leaf Surface Microfungi
+## Foliar Fungi and Leaf Surface Microfungi
 
 ## Overview
 

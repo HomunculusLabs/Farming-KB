@@ -8,11 +8,11 @@ synonyms:
   - in situ mycoremediation challenges
 type: concept
 tags: [fungi, pollution]
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 updated: 2026-04-26
 ---
 
-# Scale-Up Challenges in [[biochemistry-of-ligninolytic-fungi-bioremediation]] are obligate aerobes; ensuring adequate oxygen in soil systems
+## Scale-Up Challenges in [[biochemistry-of-ligninolytic-fungi-bioremediation]] are obligate aerobes; ensuring adequate oxygen in soil systems
 
 ### 3. Nutrient Management
 

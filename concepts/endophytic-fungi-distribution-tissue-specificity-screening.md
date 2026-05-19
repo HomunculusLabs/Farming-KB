@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Endophytic Fungi — Distribution Patterns, Tissue Specificity, and Screening Methods
+## Endophytic Fungi — Distribution Patterns, Tissue Specificity, and Screening Methods
 
 [[endophytic-fungi]] inhabit healthy plant tissues without causing apparent disease symptoms. Their
 distribution, tissue specificity, and screening methods are fundamental topics in [[fungal-ecology]].

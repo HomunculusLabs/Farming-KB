@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [permaculture, appropriate-technology, sustainability, design, DIY]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
-# [[comparison-passive-solar-vs-earth-sheltered]] power plays a greater role in AT than photovoltaics.
+## [[comparison-passive-solar-vs-earth-sheltered]] power plays a greater role in AT than photovoltaics.
 Passive solar uses the ambient heat energy in sunlight to accomplish
 tasks without creating electricity. The most ubiquitous use is for
 heating, such as solar cookers that channel the sun's rays into an

@@ -6,7 +6,7 @@ type: concept
 tags: permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Soil Rehabilitation updated: 2026-04-18 From: [[building-soil]]
+## Soil Rehabilitation updated: 2026-04-18 From: [[building-soil]]
 - permaculture-designers-manual-[[swale-design]]-detailed - [[permaculture-designers-manual-fibre-plants]]
 ## Background and Context
 

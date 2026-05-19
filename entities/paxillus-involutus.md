@@ -9,7 +9,7 @@ sources: [john-dighton-fungi-in-ecosystem-processes.md,
 type: entity
 ---
 
-# Paxillus involutus
+## Paxillus involutus
 
 **Type:** Species (Fungus)
 **Category:** Ectomycorrhizal Basidiomycete

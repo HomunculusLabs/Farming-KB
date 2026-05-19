@@ -7,7 +7,7 @@ tags: [fungi, mycology, genomics, lab-technique, taxonomy, species, biology, eco
 sources: []
 ---
 
-# Fungal DNA Barcoding
+## Fungal DNA Barcoding
 
 ## Overview
 

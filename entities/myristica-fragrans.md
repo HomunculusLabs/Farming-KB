@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Myristica fragrans
+## Myristica fragrans
 
 **Myristica fragrans** is an evergreen tropical tree in the family Myristicaceae, native to the Maluku Islands (the Spice Islands) of Indonesia. It is the sole source of two commercially important spices: **nutmeg** (from the seed kernel) and **mace** (from the bright red aril covering the seed). The plant is also notable for its psychoactive properties when consumed in large quantities, producing deliriant and mildly hallucinogenic effects attributed primarily to the compound myristicin.
 

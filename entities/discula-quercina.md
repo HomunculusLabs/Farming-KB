@@ -9,7 +9,7 @@ tags:
   - horizontal-transmission
 ---
 
-# Discula quercina
+## Discula quercina
 
 ## Description
 

@@ -8,7 +8,7 @@ type: concept
 tags: [microwave, microbiology, sterilization, spores, microbial-kill, physics]
 ---
 
-# Microwave Interaction with Microbial Cells
+## Microwave Interaction with Microbial Cells
 
 Understanding how microwave radiation destroys microorganisms requires
 examining the interaction between electromagnetic energy at 2.45 GHz and

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Ultra-Low-Cost Food Preservation
+## Ultra-Low-Cost Food Preservation
 
 ## Traditional Preservation as Self-Sufficiency
 

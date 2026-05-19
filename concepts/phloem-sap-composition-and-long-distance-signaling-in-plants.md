@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Phloem Sap Composition and Long-Distance Signaling in Plants
+## Phloem Sap Composition and Long-Distance Signaling in Plants
 
 Phloem sap is far more than sugar water. Modern analytical techniques have revealed it to be a complex information-carrying fluid containing sugars, amino acids, hormones, organic acids, messenger RNA, proteins, and even viruses. The phloem serves as both a [[savory-dung-behavior-and-nutrient-distribution]] system and a long-distance signaling network.
 

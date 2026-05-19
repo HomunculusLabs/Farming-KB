@@ -7,7 +7,7 @@ tags: [mycology, mushroom-chemistry, psilocybin, psilocin, alkaloid-distribution
 wikilinks: [psilocybin-psilocin-variation-across-flushes, psilocybe-cubensis-miniculture-technique]
 ---
 
-# Alkaloid Distribution in Mushroom Caps vs Stems
+## Alkaloid Distribution in Mushroom Caps vs Stems
 
 The distribution of psychoactive alkaloids between the cap (pileus) and stem (stipe) of mushrooms is not uniform. Bigwood and Beug (1982) provided some of the earliest quantitative data on [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]], revealing significant and sometimes surprising differences between these two mushroom parts.
 

@@ -5,7 +5,7 @@ type: entity
 categories: [organizations, education, permaculture]
 ---
 
-# Permaculture Institute
+## Permaculture Institute
 
 ## Description
 

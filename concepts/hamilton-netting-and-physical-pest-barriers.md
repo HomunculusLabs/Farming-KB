@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Netting and Physical Pest Barriers
+## Netting and Physical Pest Barriers
 
 The most destructive garden pests are often the larger ones: birds, deer,
 rabbits, moles, and mice. There is no doubt that the most effective

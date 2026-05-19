@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Saprobic Soil Fungi -- Ecology, Biomass, and Survey Methods
+## Saprobic Soil Fungi -- Ecology, Biomass, and Survey Methods
 Fungi are among the most abundant organisms in soil, comprising an estimated
 78-90% of total decomposer biomass in grassland soils and approximately 89%
 of total living [[maintaining-organic-matter-in-vegetable-gardens]] various stages of decay

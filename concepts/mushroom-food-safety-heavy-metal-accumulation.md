@@ -8,7 +8,7 @@ sources: []
 type: concept
 ---
 
-# Mushroom Food Safety and Heavy Metal Accumulation
+## Mushroom Food Safety and Heavy Metal Accumulation
 
 Mushrooms used in mycoremediation projects can bioaccumulate heavy
 metals and other toxic compounds from [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] such as lead, cadmium, mercury, arsenic, and

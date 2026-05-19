@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Metal Transformation and Methylation Processes
+## Fungal Metal Transformation and Methylation Processes
 
 Fungi do not merely accumulate heavy metals passively; they actively
 transform the chemical state of metals through enzymatic and

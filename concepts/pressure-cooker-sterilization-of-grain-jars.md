@@ -2,7 +2,7 @@
 title: "Pressure pressure-cooker-sterilization-mushroom-substrate Of Grain Jars"
 ---
 
-# Pressure Cooker Sterilization of Grain Jars
+## Pressure Cooker Sterilization of Grain Jars
 
 Pressure cooker sterilization is essential for fungal-spores.
 

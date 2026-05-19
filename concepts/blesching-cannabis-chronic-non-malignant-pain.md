@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Chronic Non-Malignant Pain
+## Cannabis and Chronic Non-Malignant Pain
 
 ## Overview
 

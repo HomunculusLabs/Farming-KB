@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom Cultivation Laboratory Setup
+## Mushroom Cultivation Laboratory Setup
 
 ## Why Build a Home Lab
 

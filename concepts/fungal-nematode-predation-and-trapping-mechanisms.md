@@ -1,4 +1,8 @@
-# Fungal–Nematode Predation and Trapping Mechanisms
+---
+title: "Fungal–Nematode Predation and Trapping Mechanisms"
+tags:
+  - concept
+---
 
 nematophagous fungi are a diverse group of fungi that capture, kill, and digest
 nematodes. They occupy a critical position in the soil food web and have attracted

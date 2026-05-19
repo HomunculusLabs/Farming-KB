@@ -5,7 +5,7 @@ tags: [compost-tea, ingredients, recipes, molasses, kelp, organic-farming]
 created: 2026-05-10
 ---
 
-# Compost Tea Ingredients and Recipes
+## Compost Tea Ingredients and Recipes
 
 The effectiveness of [[ingham-field-guide-compost-tea-ingredients-and-recipes]] used and the food sources added to support microbial growth during brewing.
 Understanding the function of each ingredient allows the brewer to tailor the tea for

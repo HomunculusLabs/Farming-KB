@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Indoor Morel Cultivation Protocol
+## Indoor Morel Cultivation Protocol
 
 Indoor morel cultivation remains one of the most challenging frontiers in mycology. While outdoor methods benefit from native [[endorhiza-rhizosphere-bulk-soil-microbial-communities]], indoor cultivation requires deliberate re-creation of the complex environmental and biological triggers that morels need to complete their life cycle. This protocol, based on published patents, laboratory observations, and cultivation principles, represents an experimental framework for those pursuing year-round indoor production.
 

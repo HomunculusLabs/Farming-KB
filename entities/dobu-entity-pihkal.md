@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DOBU
+## DOBU
 
 PIHKAL entry #63. 2,5-DIMETHOXY-4-(n)-BUTYLAMPHETAMINE.
 

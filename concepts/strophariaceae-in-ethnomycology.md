@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Strophariaceae Family in Ethnomycology
+## Strophariaceae Family in Ethnomycology
 
 The Strophariaceae family occupies a central position in ethnomycology — the
 study of the relationship between fungi and human cultures. Within this family,

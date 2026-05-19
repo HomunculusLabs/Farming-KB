@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, plant-growth, harvesting, beginner]
 sources: []
 ---
 
-# Pepper Growing Guide
+## Pepper Growing Guide
 
 Peppers (Capsicum species) are warm-season crops that thrive in heat and full sun. This guide covers sweet and hot pepper varieties, indoor seed starting, transplanting, nutrient management, and harvesting for optimal yield and flavor.
 

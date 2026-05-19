@@ -7,7 +7,7 @@ tags: [regenerative, no-till, soil-building, gardening, vegetables, water-manage
 sources: []
 ---
 
-# Mulching Guide
+## Mulching Guide
 
 Mulch is any material spread over the soil surface to conserve moisture, suppress weeds, regulate temperature, and feed soil biology. Proper mulching is one of the highest-impact, lowest-cost practices in a regenerative garden.
 

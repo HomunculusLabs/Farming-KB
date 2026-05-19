@@ -13,7 +13,7 @@ sources:
   - fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-# PF TEK Substrate Moisture Diagnosis and Correction
+## PF TEK Substrate Moisture Diagnosis and Correction
 
 [[pf-tek-measurement-calibration-and-substrate-formula-precision]].
 

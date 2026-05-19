@@ -7,7 +7,7 @@ tags: [fungi]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Fungal Communities in Salt Marsh Ecosystems
+## Fungal Communities in Salt Marsh Ecosystems
 
 **Source:** Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006), Chapter 18 (Newell et al.)
 

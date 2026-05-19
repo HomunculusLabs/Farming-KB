@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Life Cycles
+## Fungal Life Cycles
 
 Fungal life cycles exhibit extraordinary diversity, ranging from simple
 reproduction by asexual spores to elaborate multi-stage processes

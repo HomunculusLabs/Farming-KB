@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Swale vs Contour Line Water Management
+## Swale vs Contour Line Water Management
 
 ## Overview
 Swales and contour line water management are both permaculture earthworking techniques that use

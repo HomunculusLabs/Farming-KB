@@ -1,4 +1,8 @@
-# Serotonin, the Gut-Brain Axis, and Cannabinoid Modulation
+---
+title: "Serotonin, the Gut-Brain Axis, and Cannabinoid Modulation"
+tags:
+  - concept
+---
 
 **Source:** The [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] and bowel movement. To a lesser
 degree it is present in the central nervous system, affecting mood, sleep, and

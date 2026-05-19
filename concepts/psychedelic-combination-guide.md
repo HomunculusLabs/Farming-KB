@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# Psychedelic Combination Guide
+## Psychedelic Combination Guide
 
 turner-lsd|Turner documents multiple psychedelic combinations and their effects, with important warnings about what works and what doesn't. See also [[beta-carboline-chemistry]] (normally inactive when eaten). N,N-DMT is significantly intensified by Harmala — smoking 15–20 mg while on Harmala produces a much stronger experience. Harmala extends the N,N-DMT experience.
 

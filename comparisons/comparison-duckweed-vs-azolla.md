@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Duckweed vs Azolla
+## Duckweed vs Azolla
 
 Duckweed (*Lemna*, *Spirodela*, *Wolffia*) and Azolla (*Azolla caroliniana*, *A. filiculoides*, *A. pinnata*) are two of the fastest-growing plants on Earth. Both float on still or slow-moving water, double their biomass in days under ideal conditions, and serve overlapping roles in sustainable agriculture — yet their biology, cultivation, and applications diverge significantly. Understanding these differences is essential for selecting the right species for animal feed, biofertilizer, bioremediation, or [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is the primary goal — particularly in rice-based systems where it serves simultaneously as biofertilizer, mulch, and animal feed. Azolla excels in integrated rice-duck-fish polycultures, in regions where purchased nitrogen fertilizer is expensive or unavailable, and when its antimicrobial and antiprotozoal properties offer additional livestock health benefits.
 

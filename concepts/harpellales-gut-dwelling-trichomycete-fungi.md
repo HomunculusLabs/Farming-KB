@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Harpellales: Gut-Dwelling Trichomycete Fungi
+## Harpellales: Gut-Dwelling Trichomycete Fungi
 
 The Harpellales is an order of fungi within the class
 Trichomycetes that live as obligate commensals or mutualists

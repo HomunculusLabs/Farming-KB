@@ -9,7 +9,7 @@ sources:
   - "General botanical and pharmacological knowledge"
 ---
 
-# Eleutherococcus senticosus
+## Eleutherococcus senticosus
 
 Eleutherococcus senticosus, commonly known as [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] called eleutherosides.
 It is one of the most extensively studied [[psilocybin-clinical-research-history]] spanning over 60 years since Soviet-era investigations

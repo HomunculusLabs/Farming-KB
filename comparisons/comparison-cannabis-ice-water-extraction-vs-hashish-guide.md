@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Cannabis Ice Water Extraction vs Hashish Guide
+## Cannabis Ice Water Extraction vs Hashish Guide
 ## Overview
 Ice water extraction and traditional hashish production represent two interconnected but
 distinct approaches to separating cannabis resin from plant material. Ice water extraction

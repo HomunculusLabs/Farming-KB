@@ -1,4 +1,8 @@
-# Zone and Sector Analysis in Garden Design (Gaia's Garden)
+---
+title: "Zone and Sector Analysis in Garden Design (Gaia's Garden)"
+tags:
+  - concept
+---
 
 **Source:** [[ecological-garden-design]], one that transforms how we think about
 our relationship to the land.
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
 - [[gaias-garden-methods]]
 - [[gaias-garden-plants-for-many-purposes]]
-- [[gaias-garden-soil-food-web-ecology]]

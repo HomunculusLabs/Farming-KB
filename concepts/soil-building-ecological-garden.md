@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
-# Soil Building in Ecological Gardens
+## Soil Building in Ecological Gardens
 
 **Updated:** 2026-04-18
 

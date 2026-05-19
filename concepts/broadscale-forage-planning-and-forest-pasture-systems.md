@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Broadscale Forage Planning and Forest-Pasture Systems
+## Broadscale Forage Planning and Forest-Pasture Systems
 
 Even forage distribution throughout the year eliminates the "feast and famine" regime that plagues pasture-only farming. By integrating tree crops with pasture, farmers can level out seasonal productivity, reduce animal stress, diversify income, and double yields on the same land area.
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/permaculture-beginners-guide.md
 ---
 
-# Graham Burnett
+## Graham Burnett
 
 British permaculture teacher, designer, and author of "Permaculture: A Beginner's Guide." Based in Essex, UK, Burnett has been teaching permaculture design courses since the late 1990s and is known for his ability to communicate complex ecological design concepts through clear, illustrated explanations. See [[permaculture-principles]] and [[permaculture-design-methods]] for the core frameworks he teaches.
 

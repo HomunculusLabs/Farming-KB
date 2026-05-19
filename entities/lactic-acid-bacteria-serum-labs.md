@@ -5,10 +5,10 @@ type: species
 tags: [korean-natural-farming, lactic-acid-bacteria, fermentation, soil-amendment, biological-control]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
 
-# Lactic Acid Bacteria Serum (LABS)
+## Lactic Acid Bacteria Serum (LABS)
 
 **Lactic Acid Bacteria Serum (LABS)** is a key biological input in **Korean [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: LAB solubilize minerals and break down organic matter, making nutrients more available to plants
 3. **Compost acceleration**: Inoculation with LABS speeds up decomposition of organic materials and reduces composting odors

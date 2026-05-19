@@ -6,7 +6,7 @@ tags: [glomalin, mycorrhizae, soil-aggregation, carbon-sequestration, soil-struc
 created: 2026-05-08
 ---
 
-# Glomalin and Mycorrhizal Soil Health
+## Glomalin and Mycorrhizal Soil Health
 
  ungi
 as a structural component of their cell walls and hyphal coatings.

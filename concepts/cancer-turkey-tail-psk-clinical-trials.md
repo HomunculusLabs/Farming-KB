@@ -11,7 +11,7 @@ type: concept
 tags: [turkey-tail]
 ---
 
-# Turkey Tail (Trametes versicolor) PSK and PSP Clinical Trials
+## Turkey Tail (Trametes versicolor) PSK and PSP Clinical Trials
 
 ## Overview
 

@@ -6,7 +6,7 @@ tags: [fukuoka, natural-farming, spiritual-renewal, gardening-therapy, holland, 
 created: 2026-05-08
 ---
 
-# Dutch Priest's Spiritual Renewal Through Vegetable Gardening
+## Dutch Priest's Spiritual Renewal Through Vegetable Gardening
 
 ## Overview
 

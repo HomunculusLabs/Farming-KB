@@ -8,7 +8,7 @@ sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
 
-# Pluteus salicinus
+## Pluteus salicinus
 
 Pluteus salicinus is a little-known wood-inhabiting psychoactive mushroom species
 belonging to the Pluteaceae family. It represents one of the less commonly

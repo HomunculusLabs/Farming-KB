@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mushrooms, sterilization, cultivation, mycology, contamination]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Sterilization Techniques for Mushroom Cultivation
+## Sterilization Techniques for Mushroom Cultivation
 
 Sterilization is the single most critical step in mushroom cultivation.
 Without it, competing organisms overrun substrates before the intended

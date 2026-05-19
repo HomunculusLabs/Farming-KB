@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Psilocybe quebecensis Profile
+## Psilocybe quebecensis Profile
 
 ## Taxonomy and Discovery
 

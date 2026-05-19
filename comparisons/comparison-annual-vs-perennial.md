@@ -15,7 +15,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Annual vs Perennial
+## Annual vs Perennial
 
 ## Overview
 

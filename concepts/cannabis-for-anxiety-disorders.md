@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, psychology]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis for Anxiety Disorders
+## Cannabis for Anxiety Disorders
 
 The relationship between [[cannabis-and-anxiety-research]] is complex and dose-dependent. Low doses of THC and CBD can reduce anxiety, while high doses of THC can paradoxically increase it. This biphasic response is one of the most important concepts in therapeutic cannabis use.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybin-north-america-pacific-northwest]] until the year after the Yellowstone fires.
+## [[psilocybin-north-america-pacific-northwest]] until the year after the Yellowstone fires.
 
 The Yellow or White Morels include M. esculenta, M. deliciosa, and
 M. crassipes. The Half-free Morel, M. semilibera, stands apart

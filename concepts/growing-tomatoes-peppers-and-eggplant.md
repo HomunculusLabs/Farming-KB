@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-[[solomon-growing-peppers-eggplant|solomo
 type: concept
 ---
 
-# Growing Tomatoes, Peppers, and Eggplant
+## Growing Tomatoes, Peppers, and Eggplant
 
 Tomatoes, peppers, and eggplant are close relatives in the nightshade family ([[solanaceae]]). Many varieties can be perennial where there is no frost. All are aggressive growers in suitable weather, responding to fertilization by expanding to the limit of their moisture supply and rooting room. Tomatoes are the most demanding to grow well; once mastered, peppers and eggplants seem easier by comparison.
 

@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Climate Classification
+## Permaculture Climate Classification
 
 Chapter 5 of the Designers' Manual covers [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]], providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in permaculture design, as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
 

@@ -5,7 +5,7 @@ author: [[terence-mckenna]]
 topics: [history, sugar, slavery, colonialism, Madeira, Atlantic-trade, plantation-economy]
 ---
 
-# Madeira and the Origin of Commercial Sugar Slavery
+## Madeira and the Origin of Commercial Sugar Slavery
 
 The commercial sugar plantation — the institution that would eventually
 drive the transatlantic slave trade and reshape the economies of three

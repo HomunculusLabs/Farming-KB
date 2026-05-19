@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# shiitake strain classification and substrate formulas
+## shiitake strain classification and substrate formulas
 
 Updated: 2026-04-18
 

@@ -8,7 +8,7 @@ sources: [https://en.wikipedia.org/wiki/Parasitoid_wasp, https://www.ncbi.nlm.ni
 type: query
 ---
 
-# How Do Parasitoid Wasps Control Pest Populations?
+## How Do Parasitoid Wasps Control Pest Populations?
 
 ## TL;DR
 

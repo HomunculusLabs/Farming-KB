@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Road to Natural Farming
+## The Road to Natural Farming
 
 Masanobu Fukuoka's journey to natural farming was not a sudden revelation but a gradual awakening over many years. His [[fukuoka-citrus-orchard-establishment-bare-hillside]] on a hillside, and he set out to farm using no chemicals, no tillage, and no pruning.
 

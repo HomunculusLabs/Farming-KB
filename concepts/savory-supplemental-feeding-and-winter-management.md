@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Supplemental Feeding and Winter Management
+## Supplemental Feeding and Winter Management
 
 Supplemental feeding in [[savory-livestock-grazing-planning]]. The
 default assumption should be that supplementation indicates a failure of

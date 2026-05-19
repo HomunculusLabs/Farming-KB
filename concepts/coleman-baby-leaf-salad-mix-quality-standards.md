@@ -5,7 +5,7 @@ tags: [coleman, winter-harvest, salad-mix, mesclun, baby-leaf, quality-standards
 created: 2026-05-08
 ---
 
-# Baby Leaf Salad Mix Composition and Quality Standards
+## Baby Leaf Salad Mix Composition and Quality Standards
 
 ## Overview
 

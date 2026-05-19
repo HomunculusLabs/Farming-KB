@@ -6,7 +6,7 @@ published: 2005
 tags: [vegetable-gardening, sod-removal, clay-soil, rototiller, garden-startup, soil-preparation, tillage, hand-digging]
 ---
 
-# Starting a New Garden: Sod Killing and Clay Soil Management
+## Starting a New Garden: Sod Killing and Clay Soil Management
 
 ## Overview
 

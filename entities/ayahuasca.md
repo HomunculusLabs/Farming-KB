@@ -42,7 +42,7 @@ The classical ayahuasca brew contains two essential components:
 
 ## Merged: Amazonian Mythological Beings in Pablo Amaringo's Visionary World
 
-# Amazonian Mythological Beings in Pablo Amaringo's Visionary World
+## Amazonian Mythological Beings in Pablo Amaringo's Visionary World
 
 Pablo Amaringo (1938–2009) was a Peruvian **vegetalista** and painter whose
 visionary art documents the spirit beings encountered during **ayahuasca**

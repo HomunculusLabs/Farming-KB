@@ -5,7 +5,7 @@ type: entity
 tags: [chicken-breed, poultry, permaculture, livestock]
 ---
 
-# Leghorn
+## Leghorn
 
 ## Description
 

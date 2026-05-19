@@ -8,7 +8,7 @@ created: 2026-05-07
 type: query
 ---
 
-# What Are the Best Nitrogen-Fixing Trees for Permaculture?
+## What Are the Best Nitrogen-Fixing Trees for Permaculture?
 
 [[mycorrhizal-root-exudates-pathogen-interactions]], and decomposing nodules — not just when the tree is chopped.
 

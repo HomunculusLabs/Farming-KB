@@ -8,7 +8,7 @@ sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 
-# Fungal Heterotrophic Leaching and Metal Biosorption
+## Fungal Heterotrophic Leaching and Metal Biosorption
 
 ## Heterotrophic Leaching
 

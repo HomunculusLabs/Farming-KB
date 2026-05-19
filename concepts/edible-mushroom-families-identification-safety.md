@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Identification and Safety of Edible Mushroom Families
+## Identification and Safety of Edible Mushroom Families
 
 ## The Problem of Mushroom Poisoning
 

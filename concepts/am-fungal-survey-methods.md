@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# AM Fungal Survey Methods — Trap Cultures and Spore Analysis
+## AM Fungal Survey Methods — Trap Cultures and Spore Analysis
 
 Surveying [[hamilton-composting-and-organic-matter-management]]): low spore numbers but high species richness; need >200 cm3
 - Low-organic-matter sand dunes: high spore numbers; 50-100 cm3 sufficient

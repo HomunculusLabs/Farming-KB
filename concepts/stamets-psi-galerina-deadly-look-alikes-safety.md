@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Galerina Deadly Look-alikes and Mushroom Safety
+## Galerina Deadly Look-alikes and Mushroom Safety
 
 ## Overview
 

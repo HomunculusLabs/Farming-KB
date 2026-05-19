@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycota, agaricomycetes, agaricales, psathyrellaceae, coprinus, inky-cap]
 ---
 
-# Coprinus deliquescens
+## Coprinus deliquescens
 
 ## Description
 

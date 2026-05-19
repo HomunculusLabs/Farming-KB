@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Resource Categories and Management
+## Resource Categories and Management
 
 In [[desertification]], land salting, concreted highways, and city sprawl take more good land permanently out of life production than the loss of territory to a conqueror. This immorality is termed "progress" and "growth" to confuse the ignorant and supplant local self-reliance for the temporary ends of centralized power.
 

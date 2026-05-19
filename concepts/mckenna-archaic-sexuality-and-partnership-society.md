@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
 ---
-# Archaic Sexuality and the Partnership Society
+## Archaic Sexuality and the Partnership Society
 In *Food of the Gods*, Terence McKenna develops a detailed contrast between the sexual politics of the archaic partnership society and the dominator society that replaced it.
 Drawing on ethnographic evidence from the Bwiti cults of West Africa, archaeological evidence from Neolithic goddess cultures, and the theoretical frameworks of Riane Eisler and Jean Baker Miller, McKenna argues that the shift from partnership to dominator models fundamentally transformed human sexuality, [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] religion.
 Group sexual activity without the dissolution of the dominator ego would help the most ego-obsessed males gain power and rise in the social hierarchy. Since domination of others ultimately includes sexual domination as well, this would explain the persistence of orgies and group sexual activities in many of the mystery religions, at the festivals of Dionysus and the Roman Saturnalia.

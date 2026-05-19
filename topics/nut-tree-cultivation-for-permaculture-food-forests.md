@@ -20,7 +20,7 @@ sources:
   - Eric Toensmeier, "comparison-perennial-vegetables-vs-cover-crops" and "The Carbon Farming Solution" (2016)
 ---
 
-# Nut Tree Cultivation for Permaculture Food Forests
+## Nut Tree Cultivation for Permaculture Food Forests
 
 Nut trees are among the highest-yielding perennial staple crops available to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] from subsoil layers unavailable to annual crops.
 

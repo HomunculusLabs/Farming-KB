@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Morishima Acacia Orchard Integration
+## Morishima Acacia Orchard Integration
 
 The Morishima acacia (a fast-growing Australian native) plays a central role
 in Masanobu Fukuoka's [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation.

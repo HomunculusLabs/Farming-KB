@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, spawn, grain, inoculation, tissue-culture
 created: 2026-05-11
 ---
 
-# Mushroom Spawn Production: From Grain to Bulk Substrate
+## Mushroom Spawn Production: From Grain to Bulk Substrate
 
 ## Overview
 

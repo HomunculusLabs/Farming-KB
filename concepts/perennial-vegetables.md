@@ -7,7 +7,7 @@ tags: [vegetables, gardening, permaculture, cultivation, food-forest]
 sources: []
 ---
 
-# Perennial Vegetables
+## Perennial Vegetables
 
 Perennial vegetables produce harvests year after year without replanting. They reduce soil disturbance, build [[fukuoka-soil-building-method]] organic matter over time, and are central to [[food-forest-design]] and [[permaculture-design]] systems. Once established, they provide reliable yields with minimal annual labor.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Pennisetum purpureum (Napier Grass / Elephant Grass)
+## Pennisetum purpureum (Napier Grass / Elephant Grass)
 
 ## Description
 

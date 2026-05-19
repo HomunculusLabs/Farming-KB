@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Woronin Body Biogenesis and Apical Gene Expression
+## Woronin Body Biogenesis and Apical Gene Expression
 
 ## Overview
 

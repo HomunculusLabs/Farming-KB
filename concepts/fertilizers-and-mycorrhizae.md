@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Fertilizers and Mycorrhizae
+## Fertilizers and Mycorrhizae
 
 The relationship between fertilizers and [[hamilton-organic-fertilizers-and-plant-nutrition]] are generally compatible with mycorrhizae, whereas phosphorus-rich [[mycorrhizal-agricultural-practices]] for more on managing these interactions.
 
@@ -19,7 +19,7 @@ Timing and rate of application of fungicides determine whether chemicals will af
 
 ## Merged: Hamilton Bone Meal Blood Meal And Fish Products
 
-# Hamilton Bone Meal, Blood Meal, and Fish Products
+## Hamilton Bone Meal, Blood Meal, and Fish Products
 
 The [[mycorrhizae]]
 - [[spore]]

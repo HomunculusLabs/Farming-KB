@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MMDA
+## MMDA
 
 [[lsd]]. There was some dilation, and in the
 > evening I was a little restless and slightly tired. I slept well, and

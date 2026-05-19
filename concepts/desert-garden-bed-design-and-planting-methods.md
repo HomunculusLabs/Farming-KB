@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Garden Bed Design and Planting Methods
+## Desert Garden Bed Design and Planting Methods
 
 [[desert-home-gardens]] in drylands return so much in health, cash, and quality of life that they deserve intensive, bed-by-bed planning. In this approach, companion plants, [[mushroom-seasonal-succession-perennial-spawn]], bed soil treatments, and a permanent watering method are all designed together as an integrated system.
 

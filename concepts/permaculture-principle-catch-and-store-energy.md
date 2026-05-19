@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 2 — Catch and Store Energy
+## Permaculture Principle 2 — Catch and Store Energy
 
 The second of David Holmgren's twelve permaculture design principles. In the context of energy descent, we need to rebuild natural capital — the storages that support human and ecological systems. This principle directs us to identify and capture energy flows (solar, water, wind, biological) and store them in forms we can use through lean times.
 

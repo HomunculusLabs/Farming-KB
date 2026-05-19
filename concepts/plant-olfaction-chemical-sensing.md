@@ -10,7 +10,7 @@ tags:
 created: 2026-05-09
 ---
 
-# Plant Olfaction and Chemical Sensing
+## Plant Olfaction and Chemical Sensing
 
 ## Overview
 

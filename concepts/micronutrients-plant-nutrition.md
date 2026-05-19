@@ -9,7 +9,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Micronutrients in Plant Nutrition — Boron, Iron, Manganese, Zinc, Copper
+## Micronutrients in Plant Nutrition — Boron, Iron, Manganese, Zinc, Copper
 
 While plants require macronutrients (N, P, K) in large quantities, micronutrients are needed only in trace amounts — yet they are equally essential for plant health. Deficiencies of micronutrients can cause severe growth problems even when macronutrients are abundant.
 

@@ -1,4 +1,8 @@
-# Eleusinian Mysteries and Psychoactive Fungi in Western Civilization
+---
+title: "Eleusinian Mysteries and Psychoactive Fungi in Western Civilization"
+tags:
+  - concept
+---
 
 ## Overview
 

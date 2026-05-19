@@ -18,7 +18,7 @@ sources:
 type: query
 ---
 
-# How to Design a Food Forest for a Tropical Climate
+## How to Design a Food Forest for a Tropical Climate
 
 ## What is a tropical food forest?
 

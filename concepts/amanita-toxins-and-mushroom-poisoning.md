@@ -1,4 +1,8 @@
-# Amanita Toxins and Mushroom Poisoning
+---
+title: "Amanita Toxins and Mushroom Poisoning"
+tags:
+  - concept
+---
 
 Among the many thousands of mushroom species on Earth, a small number
 produce toxins of extraordinary potency. The most dangerous of these are

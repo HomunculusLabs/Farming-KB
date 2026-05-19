@@ -6,7 +6,7 @@ type: entity
 tags: [research, psychedelics]
 sources: []
 ---
-# MAPS (Multidisciplinary Association for Psychedelic Studies)
+## MAPS (Multidisciplinary Association for Psychedelic Studies)
 
 MAPS is a nonprofit research and educational organization founded in 1986 by Rick Doblin, dedicated to developing medical, legal, and cultural contexts for people to benefit from the careful uses of psychedelics and marijuana. It is the leading organization funding and conducting [[psychedelic-therapy-set-and-setting]] for the [[psychedelic-therapeutic-frameworks]] it employs.
 

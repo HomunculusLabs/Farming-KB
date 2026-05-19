@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, species, oyster-mushrooms, cultivation-guide]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Oyster Mushroom Species Comparison
+## Oyster Mushroom Species Comparison
 
 The genus *Pleurotus* contains over 30 described species, several of which are
 cultivated commercially worldwide. Each species has distinct [[oyster-mushroom-supplemented-sawdust-blocks]], biological

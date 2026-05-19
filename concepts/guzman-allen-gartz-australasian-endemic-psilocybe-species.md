@@ -22,7 +22,7 @@ sources:
 type: concept
 ---
 
-# Australasian Endemic Psilocybe Species — Australia and New Zealand
+## Australasian Endemic Psilocybe Species — Australia and New Zealand
 
 The Australasian region (Australia, Tasmania, and New Zealand) harbors several endemic Psilocybe species found nowhere else in the world. These species have evolved in isolation on the ancient Australian continent and the more recently formed islands of New Zealand, adapting to the unique ecosystems of the [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] and [[permaculture-designers-manual-temperate-climate-design]] and extensive rainforests. The species' presence in both Tasmania and New Zealand suggests a Gondwanan distribution pattern, possibly reflecting ancient dispersal before the separation of these landmasses.
 

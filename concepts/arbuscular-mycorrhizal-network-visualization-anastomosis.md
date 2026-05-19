@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Arbuscular Mycorrhizal Network Visualization and Anastomosis
+## Arbuscular Mycorrhizal Network Visualization and Anastomosis
 
 Arbuscular mycorrhizal (AM) fungi develop extensive extraradical mycelium (ERM) that spreads from colonized roots into the surrounding soil, forming networks capable of interconnecting different plants. In vivo model systems have been developed to visualize, quantify, and experimentally study these intact [[plant-nutrient-uptake-mechanisms]] from soil and transfer to host plants. Two-dimensional experimental systems have shown that AM [[arbuscular-mycorrhizal-networks]]
 

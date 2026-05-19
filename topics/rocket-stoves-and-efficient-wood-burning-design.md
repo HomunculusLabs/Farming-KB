@@ -11,7 +11,7 @@ sources:
   - Ernie & Erica Wisner, rocket stove workshops and builder manuals
 ---
 
-# Rocket Stoves and Efficient Wood-Burning Design
+## Rocket Stoves and Efficient Wood-Burning Design
 
 ## Introduction
 

@@ -29,7 +29,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Cinnamomum camphora
+## Cinnamomum camphora
 
 ## Overview
 

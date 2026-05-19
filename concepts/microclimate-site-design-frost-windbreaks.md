@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Microclimate Site Design for Frost and Wind Protection
+## Microclimate Site Design for Frost and Wind Protection
 
 ## Altitude and Latitude Equivalence
 

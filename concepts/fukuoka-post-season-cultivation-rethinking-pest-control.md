@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Post-Season Cultivation and Rethinking Pest Control
+## Fukuoka Post-Season Cultivation and Rethinking Pest Control
 
 [[masanobu-fukuoka]]'s experience directing agricultural policy in Kochi Prefecture became a
 pivotal turning point in his thinking about pest control, [[fukuoka-kochi-rice-borer-eradication-debacle]] program

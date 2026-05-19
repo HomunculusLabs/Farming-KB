@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Disappearance of a Natural Diet
+## Disappearance of a Natural Diet
 
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 3 of "Ailing Agriculture in an Ailing Age."
 

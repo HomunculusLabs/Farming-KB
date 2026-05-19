@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fish Yield Factors and Polyculture
+## Fish Yield Factors and Polyculture
 
 The productivity of aquaculture systems depends on several key factors that determine how much fish protein can be harvested per unit area. Understanding these factors allows designers to maximize yields through species selection, polyculture design, and proper stocking strategies. This page covers the fundamental principles of fish yield optimization in pond-based systems.
 

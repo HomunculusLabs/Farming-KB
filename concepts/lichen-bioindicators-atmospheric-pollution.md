@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Lichen Bioindicators and Fungal Heavy Metal Interactions
+## Lichen Bioindicators and Fungal Heavy Metal Interactions
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md, Chunk 23, Lines 4601-4800
 type: concept
 ---
 
-# Time Stacking and Successional Design
+## Time Stacking and Successional Design
 
 Time stacking and successional design are core [[dryland-permaculture-strategies]] that maximize
 yield by overlapping crops in time and space, mimicking natural [[ecological-succession]]

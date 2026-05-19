@@ -6,7 +6,7 @@ source: mckenna_t-tryptamines_consciousness.md
 created: 2026-05-09
 ---
 
-# Self-Transforming Machine Elves and DMT Entities
+## Self-Transforming Machine Elves and DMT Entities
 
 The [[dmt-experience-phenomenology-hyperspace]]. [[dennis-mckenna]], where he described
 them as "self-transforming machine elves." This description has since become one of

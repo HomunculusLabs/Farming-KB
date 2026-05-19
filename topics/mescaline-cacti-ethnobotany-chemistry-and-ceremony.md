@@ -25,7 +25,7 @@ related_concepts:
   - harner-american-indian-peyote-rituals
 ---
 
-# Mescaline Cacti: Ethnobotany, Chemistry, and Ceremonial Use
+## Mescaline Cacti: Ethnobotany, Chemistry, and Ceremonial Use
 
 Mescaline is the prototypical natural phenethylamine psychedelic, a
 compound that has shaped spiritual practices across the Americas for at

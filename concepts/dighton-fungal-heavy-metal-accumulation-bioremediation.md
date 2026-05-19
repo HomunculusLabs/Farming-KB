@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Heavy Metal Accumulation and Bioremediation
+## Fungal Heavy Metal Accumulation and Bioremediation
 
 Fungi occupy a central position in controlling heavy metal pollutants in
 terrestrial ecosystems. They can immobilize metals within their biomass,

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungicolous Fungi Taxonomic Groups
+## Fungicolous Fungi Taxonomic Groups
 
 Fungicolous fungi—species that consistently associate with other fungi, including lichenicolous fungi that grow on lichens—are distributed across nearly all major fungal lineages. This page details the taxonomic distribution of mycoparasitic and fungicolous species across the lower fungi (Oomycota through Zygomycota), based on Chapter 17 of the fungal biodiversity compendium by Gams, Diederich, and Põldmaa. An estimated 2,175+ species of fungicolous fungi have been described, distributed across five major ecological categories: sporocarp-inhabiting, lichenicolous, biotrophic plant parasite mycoparasites, hyphal parasites, and aquatic fungicolous species.
 

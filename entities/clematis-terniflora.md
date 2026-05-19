@@ -15,7 +15,7 @@ sources:
   - Wang, L. et al. (2018). "Phytochemistry of Clematis species." Journal of Ethnopharmacology 224: 143-156.
 ---
 
-# Clematis terniflora
+## Clematis terniflora
 
 ## Overview
 

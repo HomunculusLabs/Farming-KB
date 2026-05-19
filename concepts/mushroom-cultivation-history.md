@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, agriculture, history, fungi, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
-# Mushroom [[shroom-cultural-history-mushroom-in-ancient-civilizations]] cultivation has a long and fascinating history, stretching from ancient Mediterranean civilizations to the modern commercial industry. The cultivation of the common edible mushroom (*[[mushroom-compost-preparation]]
+## Mushroom [[shroom-cultural-history-mushroom-in-ancient-civilizations]] cultivation has a long and fascinating history, stretching from ancient Mediterranean civilizations to the modern commercial industry. The cultivation of the common edible mushroom (*[[mushroom-compost-preparation]]
 - [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, arbuscular-mycorrhiza, glomeromycota, soil-ecology]
 ---
 
-# Acaulospora denticulata
+## Acaulospora denticulata
 
 ## Description
 

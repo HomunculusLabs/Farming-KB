@@ -4,7 +4,7 @@ source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamat
 tags: [shirota, psilocybin, crystal, spectral-data, NMR, UV, IR, mass-spec, analytical-chemistry, forensic]
 ---
 
-# Psilocybin Crystallization: Spectral Characterization
+## Psilocybin Crystallization: Spectral Characterization
 
 ## Overview of the Shirota Synthesis Product
 

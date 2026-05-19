@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-# Mycelium and Soil Building
+## Mycelium and Soil Building
 Mycelium is the primary architect of healthy soils, functioning as a
 cellular net that catches particles, digests [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 

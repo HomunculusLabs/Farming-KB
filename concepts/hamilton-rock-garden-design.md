@@ -7,7 +7,7 @@ tags: [organic-gardening, plants]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Rock Garden Design and Alpine Plants
+## Rock Garden Design and Alpine Plants
 
 updated: 2026-04-18
 

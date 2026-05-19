@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Drugs in Psychotherapy and Shamanism
+## Hallucinogenic Drugs in Psychotherapy and Shamanism
 
 ## Overview
 

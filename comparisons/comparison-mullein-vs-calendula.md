@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Mullein vs Calendula
+## Mullein vs Calendula
 
 ## Overview
 

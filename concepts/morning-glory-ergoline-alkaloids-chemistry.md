@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants
 type: concept
 ---
 
-# Ergoline Alkaloids in Morning Glories
+## Ergoline Alkaloids in Morning Glories
 
 ## Overview
 

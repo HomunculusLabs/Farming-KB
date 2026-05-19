@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin, tryptamine]
 ---
 
-# Psilocybin, Consciousness, and Evolution
+## Psilocybin, Consciousness, and Evolution
 
 McKenna's discussion of psilocybin in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) positions the psilocybin mushroom as both a phenomenological portal and a potential agent of human cognitive and cultural evolution. He argues that psilocybin and DMT are distinct from LSD and mescaline -- each is "a phenomenologically defined universe unto itself" -- yet the law and public opinion lump them together indiscriminately, preventing meaningful investigation of their unique properties. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute, placing McKenna's experiential account alongside discussions of quantum mechanics and the nature of consciousness.
 

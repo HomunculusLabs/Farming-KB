@@ -7,7 +7,7 @@ type: concept
 tags: [reference]
 ---
 
-# The Kykeon Potion and Ergot Theory
+## The Kykeon Potion and Ergot Theory
 
 The kykeon was the sacred potion drunk by initiates of the [[bloomfield-ergot-claviceps-purpurea-ergotism]]), a fungal parasite that infests grain crops
 including barley.

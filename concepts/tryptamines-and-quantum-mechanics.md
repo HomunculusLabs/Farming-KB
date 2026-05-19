@@ -5,11 +5,11 @@ tags: [quantum-mechanics, tryptamines, consciousness,
       hallucinogenesis, psychophysics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+sources: ["raw/papers/mckenna_t-tryptamines_consciousness.md"]
 type: concept
 ---
 
-# Tryptamines and Quantum Mechanics
+## Tryptamines and Quantum Mechanics
 
 In his 1983 Esalen lecture on [[terence-mckenna]] proposed a provocative link between the phenomenology of
 tryptamine experiences and [[quantum-mechanical-correlates-hallucinogenesis-smythies-shulgin]] to

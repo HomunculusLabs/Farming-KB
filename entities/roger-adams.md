@@ -5,7 +5,7 @@ type: entity
 tags: [person, chemist, researcher, cannabinoid, history]
 ---
 
-# Roger Adams
+## Roger Adams
 
 ## Description
 

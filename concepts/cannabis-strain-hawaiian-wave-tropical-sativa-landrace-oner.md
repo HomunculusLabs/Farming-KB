@@ -9,7 +9,7 @@ tags:
   - strain-profile
 ---
 
-# Hawaiian Wave: Tropical Sativa Landrace Strain
+## Hawaiian Wave: Tropical Sativa Landrace Strain
 
 ## Origins and Breeding Stock
 

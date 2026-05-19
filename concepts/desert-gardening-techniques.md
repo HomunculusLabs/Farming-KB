@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Desert Gardening Techniques
+## Desert Gardening Techniques
 
 [[desert-gardening]], as presented in [[bill-mollison]]'s [[permaculture-design]] Course, encompasses a broad set of strategies for establishing productive systems in arid environments. These techniques draw on both modern [[permaculture-design-principles]] and traditional practices adapted from indigenous peoples, particularly Aboriginal Australians.
 

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Molecular Methods for Assessing Fungal Genetic Diversity
+## Molecular Methods for Assessing Fungal Genetic Diversity
 
 Molecular methods have revolutionized the study of fungal genetic diversity, enabling researchers to discriminate between species, populations, and even individual organisms with a level of precision that was previously unattainable through morphological or ecological observation alone. Central to this revolution are PCR-based techniques that exploit differences in fungal DNA — both nuclear and mitochondrial — to generate diagnostic markers, genetic fingerprints, and species-specific assays. These approaches have proven especially valuable for studying groups such as the Basidiomycota, where [[cryptic-species]] and clonal population structures complicate traditional taxonomy.
 

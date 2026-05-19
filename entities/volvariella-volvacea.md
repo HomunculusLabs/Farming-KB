@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycota, saprotrophic, edible-mushroom, pluteaceae, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
+sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 ---
 
-# Volvariella volvacea
+## Volvariella volvacea
 
 *Volvariella volvacea*, commonly known as the [[spore-print]] is pink (salmon-colored), which immediately distinguishes it from the white-spored *Amanita* species. Spores are ellipsoid, smooth, measuring 6–9 × 4–6 μm.
 

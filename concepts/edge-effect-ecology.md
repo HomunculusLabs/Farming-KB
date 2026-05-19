@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-# Edge Effect Ecology Edge effect refers to the increased biodiversity, productivity, and ecological complexity that occurs at the boundaries between two different ecosystems or habitat types. [[zone-and-sector-analysis]]
+## Edge Effect Ecology Edge effect refers to the increased biodiversity, productivity, and ecological complexity that occurs at the boundaries between two different ecosystems or habitat types. [[zone-and-sector-analysis]]
 - [[turner-ketamine-lsd-dmt-interactions-recovery-effects]].
 
 ## Practical Applications

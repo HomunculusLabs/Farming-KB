@@ -7,7 +7,7 @@ tags: [cannabis, living-soil, no-till, microbes, compost, soil, biology, organic
 sources: []
 ---
 
-# Cannabis Living Soil Guide
+## Cannabis Living Soil Guide
 
 ## Overview
 

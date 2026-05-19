@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Lentinan Clinical Research
+## Lentinan Clinical Research
 
 Lentinan is a purified β-(1→3)-D-glucan with β-(1→6) branches extracted from the [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and mycelium of [[psk-psp-polysaccharide-peptides]] — similar compounds from [[shiitake-cultivation-guide]] — practical [[sarcoma-180-antitumour-assay]]
 - [[cancer-agaricus-blazei]]

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Metal Ion Resistance in Fungi
+## Metal Ion Resistance in Fungi
 
 Some fungi possess the ability to survive in environments containing
 excessive concentrations of metal ions, developing metal resistance

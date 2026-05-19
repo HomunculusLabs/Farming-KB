@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Treatment of Amanita Poisoning
+## Treatment of Amanita Poisoning
 
 ## Overview
 

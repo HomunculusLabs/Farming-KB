@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Design Principle Integration in Permaculture
+## Design Principle Integration in Permaculture
 
 Holmgren's eighth design principle -- "[[permaculture-farm-design-principles]], and guild-design-methodology are practical expressions of this principle -- placing plants and animals together so they support each other's needs and reduce competition.
 

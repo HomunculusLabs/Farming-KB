@@ -5,7 +5,7 @@ type: entity
 tags: [place, island, fog-precipitation, permaculture, hawaii, water-harvesting, pacific]
 ---
 
-# Lanai (Hawaii)
+## Lanai (Hawaii)
 
 ## Description
 

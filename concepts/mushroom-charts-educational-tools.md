@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom Charts as Educational Tools
+## Mushroom Charts as Educational Tools
 
 ## Overview
 

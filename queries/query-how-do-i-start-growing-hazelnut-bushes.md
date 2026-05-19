@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [https://www.extension.oregonstate.edu, https://www.sare.org, https://www.rhs.org.uk, https://www.fao.org, https://www.usda.gov]
 type: query
 ---
-# How Do  Growing Hazelnut Bushes?
+## How Do  Growing Hazelnut Bushes?
 
 Hazelnuts (also called filquery-what-are-the-best- o-i-make-koji-at-home-for-beginners-to-groware one of the easiest nut-producing plants to grow. They are cold-hardy, adaptable to a wide range of soils, and begin producing nuts within 3–5 years. With just two compatible bushes, proper spacing, and basic care, you can harvest your own nuts for decades with minimal effort.
 

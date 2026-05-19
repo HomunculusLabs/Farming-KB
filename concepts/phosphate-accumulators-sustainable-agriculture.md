@@ -1,4 +1,8 @@
-# Phosphate Accumulators in Sustainable Agriculture
+---
+title: "Phosphate Accumulators in Sustainable Agriculture"
+tags:
+  - concept
+---
 
 Phosphorus is one of the three primary macronutrients required by plants, alongside nitrogen and potassium.
 

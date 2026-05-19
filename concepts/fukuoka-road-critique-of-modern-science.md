@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Critique of Modern Science and Reductionism
+## Fukuoka's Critique of Modern Science and Reductionism
 
 In [[fukuoka-world-travels-global-influence]] and decades of farming, distinguishes his [[fukuoka-road-spiritual-aspects-farming]] worldview.
 

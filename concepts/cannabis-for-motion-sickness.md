@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Motion Sickness
+## Cannabis for Motion Sickness
 
 updated: 2026-04-18
 

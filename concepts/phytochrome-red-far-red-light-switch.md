@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Phytochrome: The Red/Far-Red Light Switch
+## Phytochrome: The Red/Far-Red Light Switch
 
 ## Overview
 

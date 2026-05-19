@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Epilogue and the Barley Philosophy
+## Fukuoka's Epilogue and the Barley Philosophy
 
 The epilogue of *The Natural Way of Farming* is Fukuoka's most personal and philosophical passage, revealing his reflections on a lifetime of work and his relationship with the scientific establishment.
 

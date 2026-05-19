@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Clay Soil Gardening
+## Clay Soil Gardening
 
 ## Overview
 

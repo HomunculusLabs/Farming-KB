@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Session Planning, Dosages, Preparation, and the Guide Role
+## Session Planning, Dosages, Preparation, and the Guide Role
 
 ## Overview
 

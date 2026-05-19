@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Amazonian Vegetalista Shamanism Degrees and Hierarchy
+## Amazonian Vegetalista Shamanism Degrees and Hierarchy
 
 The Amazonian vegetalista tradition recognizes three highest degrees of mastery in plant medicine, each representing progressively deeper levels of knowledge, spiritual power, and connection to the plant world. Becoming a true vegetalista requires years of disciplined dieting and fasting, after which one gains knowledge of the science of the muraya, the sumi, and the banco.
 

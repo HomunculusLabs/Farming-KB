@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, decomposition, enzymes, ecology]
 sources: []
 ---
-# Fungal Saprotrophic Enzymatic Strategies
+## Fungal Saprotrophic Enzymatic Strategies
 
 Saprotrophic fungi employ a diverse array of enzymatic strategies to decompose
 the complex organic polymers found in dead plant and animal material. These

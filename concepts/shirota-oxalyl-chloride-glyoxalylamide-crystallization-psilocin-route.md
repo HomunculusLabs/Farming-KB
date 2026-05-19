@@ -7,7 +7,7 @@ source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamat
 created: 2026-05-08
 ---
 
-# Oxalyl Chloride Glyoxalylamide Crystallization in Psilocin Synthesis
+## Oxalyl Chloride Glyoxalylamide Crystallization in Psilocin Synthesis
 
 ## Overview
 

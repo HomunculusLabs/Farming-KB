@@ -19,7 +19,7 @@ sources:
 type: comparison
 ---
 
-# Central Leader vs Open Center Fruit Tree Training
+## Central Leader vs Open Center Fruit Tree Training
 
 ## Quick Answer
 

@@ -21,7 +21,7 @@ sources:
   - https://www.leafly.com/strains/animal-mints
 ---
 
-# Animal Face
+## Animal Face
 
 ## Overview
 

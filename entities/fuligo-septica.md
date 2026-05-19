@@ -18,7 +18,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Fuligo septica
+## Fuligo septica
 
 **Fuligo septica** is a species of plasmodial [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]] worldwide, conspicuous for its bright yellow, frothy plasmodial stage that resembles canine vomit — earning it the common names **dog vomit slime mold**, **scrambled egg slime mold**, and **flowers of tan**. Despite its unappealing names, *F. septica* is a harmless saprotroph that plays an ecologically significant role in decomposing [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], bounded only by a thin plasma membrane. The plasmodium contains thousands of nuclei sharing a common cytoplasm
 

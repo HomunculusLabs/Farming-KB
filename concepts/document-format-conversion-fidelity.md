@@ -5,11 +5,11 @@ tags: [document-processing, format-migration, quality-assessment,
       file-formats, interoperability]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Document Format Conversion Fidelity
+## Document Format Conversion Fidelity
 
 ## Overview
 

@@ -5,7 +5,7 @@ author: Robert "Psylocybe Fanaticus" McPherson
 tags: [potency, harvest, aborts, primordia, veil, timing, cultivation]
 ---
 
-# Mushroom Potency and Harvest Age
+## Mushroom Potency and Harvest Age
 
 The relationship between [[psilocin]] per mushroom is fixed early in development. As the
    mushroom grows, alkaloids are diluted by increased water and

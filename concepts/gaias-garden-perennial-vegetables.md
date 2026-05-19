@@ -8,7 +8,7 @@ type: concept
 tags: [gardening, vegetables]
 ---
 
-# Perennial Vegetables in the Ecological Garden
+## Perennial Vegetables in the Ecological Garden
 
 The gaias-garden-succession-planting and reduced maintenance. By shifting the balance from annual vegetables to perennial food plants, gardeners create landscapes that are more productive, more resilient, and far less work to maintain.
 

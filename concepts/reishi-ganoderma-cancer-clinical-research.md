@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Reishi (Ganoderma Lucidum) Cancer Clinical Research
+## Reishi (Ganoderma Lucidum) Cancer Clinical Research
 
 Ganoderma lucidum (Reishi/Ling Zhi) has the longest historical usage of any [[psilocybin-clinical-trial-landscape-2020-2025]] data remains limited.
 

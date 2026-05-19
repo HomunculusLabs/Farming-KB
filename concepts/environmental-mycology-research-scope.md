@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Research Scope in Environmental Mycology
+## Research Scope in Environmental Mycology
 
 Environmental mycology as a discipline encompasses a broad range of research areas unified by the study of fungal roles in natural and engineered ecosystems. The field has undergone significant transformation with the advent of molecular tools, genomic approaches, and advanced imaging techniques, which have revealed previously hidden dimensions of fungal ecology, physiology, and evolution. This overview synthesizes the major research frontiers that define modern environmental mycology.
 

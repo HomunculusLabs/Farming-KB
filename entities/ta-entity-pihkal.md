@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TA
+## TA
 
 [[essential-amphetamines-and-natural-precursors]] so-called Ten and natural precursors.
 

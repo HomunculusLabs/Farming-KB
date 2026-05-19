@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka]
 ---
 
-# Pest Control by Natural Balance (No Pesticides)
+## Pest Control by Natural Balance (No Pesticides)
 
 ## The Natural Balance of Insects
 

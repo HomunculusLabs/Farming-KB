@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Compost Tea Brewing Equipment (Ingham)
+## Compost Tea Brewing Equipment (Ingham)
 
 Updated: 2026-04-18
 

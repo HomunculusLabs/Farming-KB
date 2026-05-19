@@ -5,7 +5,7 @@ author: "Masanobu Fukuoka"
 tags: [fukuoka, energy, productivity, mechanization, natural-farming, efficiency, agriculture]
 ---
 
-# Natural Farming Energy Productivity: The Efficiency Case Against Mechanization
+## Natural Farming Energy Productivity: The Efficiency Case Against Mechanization
 
 Masanobu Fukuoka's most compelling argument [[fukuoka-textdoc-energy-efficiency-natural-farming]] efficiency.
 When measured in calories of food produced per calorie of human labor invested,

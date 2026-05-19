@@ -7,7 +7,7 @@ tags: [mycology, cultivation, mushrooms]
 sources: - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 
-# Oyster Mushroom Brown Blotch Disease
+## Oyster Mushroom Brown Blotch Disease
 
 Brown blotch disease causes significant crop loss in [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]*
 - **Secondary reported agent:** *Pseudomonas agarici* (importance as a pathogen of brown blotch disease is questionable)

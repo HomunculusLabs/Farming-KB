@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden
 type: entity
 ---
 
-# Turgidity
+## Turgidity
 
 **Type:** Cellular State / Plant Physiology Concept
 **Definition:** The condition of a plant cell when fully inflated with water

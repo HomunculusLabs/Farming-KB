@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Aerobic Compost Tea and Fermented Plant Extracts
+## What Is the Difference Between Aerobic Compost Tea and Fermented Plant Extracts
 
 ## Short Answer
 [[aact-brewing-ingredients-ingham|AACT brewing ingredients]] may include supplemental foods like molasses (for

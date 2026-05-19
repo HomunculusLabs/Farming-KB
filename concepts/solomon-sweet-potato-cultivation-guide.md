@@ -1,4 +1,8 @@
-# Sweet Potato Cultivation Guide
+---
+title: "Sweet Potato Cultivation Guide"
+tags:
+  - concept
+---
 
 **Source:** Gardening When It Counts — Steve Solomon (2005)
 

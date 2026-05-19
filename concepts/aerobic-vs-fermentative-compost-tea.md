@@ -6,7 +6,7 @@ created: 2026-05-09
 source: The Field Guide for Actively Aerated Compost Tea (Elaine Ingham)
 ---
 
-# Aerobic vs Fermentative Compost Tea
+## Aerobic vs Fermentative Compost Tea
 
 The distinction between aerobic (actively aerated) and fermentative (non-aerated) compost tea preparations is one of the most important and frequently misunderstood topics in biological agriculture. Dr. Elaine Ingham's field guide provides clear definitions and explains why the brewing method fundamentally determines the biological character and agricultural utility of the finished tea.
 

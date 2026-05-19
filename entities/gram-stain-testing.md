@@ -5,7 +5,7 @@ type: entity
 tags: [technique, testing, microbiology, bacteria, mycoremediation]
 ---
 
-# Gram Stain Testing
+## Gram Stain Testing
 
 ## Description
 

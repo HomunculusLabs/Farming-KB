@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MEM (2,5-Dimethoxy-4-ethoxyamphetamine)
+## MEM (2,5-Dimethoxy-4-ethoxyamphetamine)
 
 MEM is a substituted amphetamine compound and one of the [[2c-b-pihkal-entry-20]] #122.
 

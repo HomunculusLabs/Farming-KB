@@ -7,7 +7,7 @@ tags: [psychopharmacology, dosage, safety, research, methods, psychedelics, harm
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Shulgin Dosage Guidelines
+## Shulgin Dosage Guidelines
 
 Alexander Shulgin developed a systematic approach to dosage documentation that became a standard reference in psychopharmacology. His dosage scale, used throughout the 179 compound entries in PIHKAL Book II, provides a consistent framework for comparing potencies across different compounds.
 

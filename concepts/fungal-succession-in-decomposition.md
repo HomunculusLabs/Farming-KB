@@ -7,7 +7,7 @@ tags: [mycology, decomposition, ecology, soil-biology]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Fungal Succession in Decomposition
+## Fungal Succession in Decomposition
 
 When a tree falls or organic matter is deposited on soil, a predictable sequence of fungal species colonizes the substrate over time. This process — fungal succession — determines how quickly nutrients are released, what type of decomposition dominates, and what organisms follow. Understanding succession is key to managing compost, forest health, and soil building.
 

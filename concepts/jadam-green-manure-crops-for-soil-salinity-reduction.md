@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM [[fukuoka-clover-cover-cropping-soil-ecology]] in most climates. Its total [[hamilton-composting-and-organic-matter-management]] that
+## JADAM [[fukuoka-clover-cover-cropping-soil-ecology]] in most climates. Its total [[hamilton-composting-and-organic-matter-management]] that
 further improves soil structure and water infiltration. As soil structure
 improves, water can drain deeper instead of stagnating and evaporating.
 

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Grow Cannabis in a Greenhouse?
+## How Do I Grow Cannabis in a Greenhouse?
 
 ## Short Answer
 Growing cannabis in a greenhouse combines the best of indoor and outdoor

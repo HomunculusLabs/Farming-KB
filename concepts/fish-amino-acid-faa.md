@@ -24,7 +24,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Fish Amino Acid (FAA)
+## Fish Amino Acid (FAA)
 
 Fish Amino Acid is a nitrogen-rich KNF input made by fermenting fish parts with brown sugar. It provides bioavailable amino acids, peptides, and nitrogen compounds that plants can absorb directly through foliage and roots. It is especially important during early vegetative growth and for recovering stressed or weakened plants.
 

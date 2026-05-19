@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, bioremediation, textile-dyes, pollution]
 sources: []
 ---
-# Fungal Degradation of Textile Dyes
+## Fungal Degradation of Textile Dyes
 
 The textile industry generates vast quantities of colored wastewater containing
 synthetic dyes that are environmentally persistent and potentially toxic. Fungal

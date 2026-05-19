@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Particle Filtration and Dilution Plating for Microfungal Isolation
+## Particle Filtration and Dilution Plating for Microfungal Isolation
 
 Particle filtration and dilution plating are fundamental techniques for isolating microfungi from complex substrata such as soil, [[agar-culture-media]] where they can grow and be identified.
 

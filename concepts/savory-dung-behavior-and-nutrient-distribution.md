@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Dung Behavior and Nutrient Distribution
+## Dung Behavior and Nutrient Distribution
 
 The way grazing animals distribute dung and urine across the landscape
 has profound implications for mineral [[savory-fencing-economics-and-stock-density-curve]] -- all

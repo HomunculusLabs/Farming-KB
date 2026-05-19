@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Biochar vs Mycoremediation
+## Biochar vs Mycoremediation
 
 ## Overview
 

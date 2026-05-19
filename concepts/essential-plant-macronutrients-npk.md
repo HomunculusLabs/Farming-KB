@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Essential Plant Macronutrients: Nitrogen, Phosphorus, and Potassium
+## Essential Plant Macronutrients: Nitrogen, Phosphorus, and Potassium
 
 ## Overview
 

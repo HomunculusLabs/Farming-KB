@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Actively Aerated Compost Tea Basics
+## Actively Aerated Compost Tea Basics
 
 ## Overview
 

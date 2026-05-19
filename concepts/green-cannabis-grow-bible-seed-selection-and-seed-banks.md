@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Seed Selection and Seed Banks
+## Cannabis Seed Selection and Seed Banks
 
 Greg Green's [[solomon-choosing-seeds-and-catalogs]] and selecting a reputable seed bank. Selecting the
 right seeds is one of the most important decisions a grower makes, as

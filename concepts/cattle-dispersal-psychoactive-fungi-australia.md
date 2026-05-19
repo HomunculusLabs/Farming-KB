@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cattle as Dispersal Mechanism for Psychoactive Fungi
+## Cattle as Dispersal Mechanism for Psychoactive Fungi
 
 ## Introduction
 

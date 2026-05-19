@@ -1,5 +1,5 @@
 ---
-title: "Natural natural-farming-principles-fukuoka"
+title: "Natural Farming Principles"
 type: concept
 tags:
   - natural-farming
@@ -22,7 +22,7 @@ related_concepts:
   - cover-crops-and-green-manures
 ---
 
-# Natural Farming Principles
+## Natural Farming Principles
 
 Natural farming is an agricultural philosophy developed by Japanese farmer
 and philosopher [[fukuoka-critique-laws-agricultural-science]]'s premise that nature must be controlled

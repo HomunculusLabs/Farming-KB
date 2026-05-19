@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# Permaculture Herbaceous Perennials
+## Permaculture Herbaceous Perennials
 
 Herbaceous perennials provide persistent ground-level productivity in permaculture systems. Unlike annual crops, they require less soil disturbance, establish deeper root systems, and contribute to long-term soil building and ecosystem stability.
 

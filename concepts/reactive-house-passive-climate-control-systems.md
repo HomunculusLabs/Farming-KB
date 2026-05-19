@@ -4,7 +4,7 @@ source: bill-[[mollison-pdc-trellis-systems-climate-control|mollison]]-permacult
 type: concept
 ---
 
-# Reactive House Passive Climate Control Systems
+## Reactive House Passive Climate Control Systems
 
 The reactive house eliminates or reduces the need for external energy input for climate control through passive [[aact-brewer-design-principles-aeration-systems-ingham]]. Mollison emphasizes that the whole thrust is to use structural control of heat and cold, storing solar heat in thermal masses and excluding draughts so that body warmth, cooking, and perhaps a small stove provide all needed heating.
 

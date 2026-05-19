@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Harvesting and Curing Techniques
+## Cannabis Harvesting and Curing Techniques
 
 Harvesting is the culmination of the growing cycle and the moment when
 cultivators reap the rewards of their labor. However, the quality of the final

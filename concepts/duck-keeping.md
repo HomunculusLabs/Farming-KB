@@ -7,7 +7,7 @@ tags: [ducks, animal-husbandry, homesteading, livestock, byproducts, livestock-h
 sources: []
 ---
 
-# Duck Keeping
+## Duck Keeping
 
 Ducks are among the most practical and enjoyable poultry for the homestead.
 They lay large, rich eggs, provide excellent meat, [[query-how-to-control-pests-without-chemicals]], and

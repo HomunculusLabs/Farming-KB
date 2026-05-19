@@ -12,7 +12,7 @@ sources:
   - "Ira Wallace, The Timber Press Guide to [[home-vegetable-garden-planning]] in the Southeast (Timber Press, 2013)"
 type: comparison---
 
-# Hardneck Garlic vs Softneck Garlic
+## Hardneck Garlic vs Softneck Garlic
 
 All garlic falls into two broad categories: **hardneck** (*[[organic-pest-and-disease-management]]
 

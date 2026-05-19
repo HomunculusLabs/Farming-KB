@@ -18,7 +18,7 @@ sources:
   - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Biological Psychiatry, 79(7), 613-619."
   - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from cultivar to chemovar.\" Drug soil-testing-and-analysis, 4(7-8), 660-667."---
 
-# White Widow
+## White Widow
 
 ## Overview
 

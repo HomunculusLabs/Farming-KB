@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [reference]
 ---
-# Memristor
+## Memristor
 ## Overview
 A memristor is an electrical circuit element whose resistance depends on the history of current or voltage that has passed through it.
 The name combines [[phase-change-materials-thermal-energy-storage]], redox reactions, ferroelectric polarization, or spintronic effects.

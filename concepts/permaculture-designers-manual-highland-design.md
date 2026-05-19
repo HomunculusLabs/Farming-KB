@@ -7,7 +7,7 @@ tags: [regenerative, plant-systems]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Highland and Mountain Climate Design
+## Highland and Mountain Climate Design
 
 > Source: [[permaculture]]: A Designers' Manual* (1988), Chapters 5, 10, and 12
 

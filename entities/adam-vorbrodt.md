@@ -13,7 +13,7 @@ sources:
   - "raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"
 ---
 
-# Adam Vorbrodt
+## Adam Vorbrodt
 
 Adam Vorbrodt is a researcher known for collaborative work with
 [[ingham-natural-growth-regulators-soil-microbes]] can influence

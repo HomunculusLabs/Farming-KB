@@ -5,7 +5,7 @@ type: entity
 tags: [ceremony, ritual, mazatec, mushroom-ceremony, velada, healing, traditional-practice]
 ---
 
-# Mazatec Mushroom Velada
+## Mazatec Mushroom Velada
 
 ## Description
 

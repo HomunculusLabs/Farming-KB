@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, tissue-culture, laminar-flow-hood]
 ---
 
-# D. W. Burger
+## D. W. Burger
 
 ## Description
 

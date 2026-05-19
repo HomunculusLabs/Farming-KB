@@ -21,7 +21,7 @@ sources:
   - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 ---
 
-# Organic Soil Management
+## Organic Soil Management
 
 Comprehensive approach to building and maintaining healthy soil without synthetic chemicals. Based on Geoff Hamilton's organic gardening methods. See [[geoff-hamilton-organic-techniques]] for the full organic system and [[no-till-gardening-method]] for minimum-disturbance approaches.
 

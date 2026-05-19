@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi of Europe
+## Neurotropic Fungi of Europe
 
 Europe presents a distinctive profile in the [[psilocybe-semilanceata]] is the most widespread
 and extensively studied species, documented from nearly every

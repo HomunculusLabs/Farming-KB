@@ -5,7 +5,7 @@ tags: [natural-farming, philosophy, ecology, fukuoka, nature-study]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Nature's Fundamental Perfection
+## Nature's Fundamental Perfection
 
 [[fukuoka-road-critique-of-modern-science]]. Knowledge that treats self and object as a
 unified whole is "non-discriminating knowledge" — the highest wisdom.

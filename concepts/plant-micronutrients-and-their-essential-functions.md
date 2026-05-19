@@ -7,7 +7,7 @@ tags: [reference]
 sources: ["raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"]
 ---
 
-# Plant Micronutrients and Their Essential Functions
+## Plant Micronutrients and Their Essential Functions
 
 Micronutrients ([[von-liebig-law-of-the-minimum-and-fertilizer-history]]'s Law of the Minimum, if even the least-used nutrient is absent, the plant cannot grow and reproduce. The eight recognized micronutrients are boron, chlorine, copper, iron, manganese, zinc, molybdenum, and nickel.
 

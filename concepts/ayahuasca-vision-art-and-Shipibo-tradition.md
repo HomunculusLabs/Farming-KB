@@ -8,7 +8,7 @@ sources:
   - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
 
-# Ayahuasca Vision Art and Shipibo Tradition
+## Ayahuasca Vision Art and Shipibo Tradition
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# The Psychedelic Experience — Tibetan Bardo Framework
+## The Psychedelic Experience — Tibetan Bardo Framework
 
 ## Overview
 

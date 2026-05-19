@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and the Language of Story: Weaving, Cordage, and Narrative
+## Cannabis and the Language of Story: Weaving, Cordage, and Narrative
 
 One of psilocybin-mushrooms-central-south-america-distribution of the older partnership cultures of the [[mckenna-dominator-vs-partnership-society-model]].
 

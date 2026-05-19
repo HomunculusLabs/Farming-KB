@@ -25,7 +25,7 @@ sources:
   - USDA NRCS. "Galium aparine L." PLANTS Database. plants.usda.gov.
 ---
 
-# Galium aparine
+## Galium aparine
 
 ## Overview
 

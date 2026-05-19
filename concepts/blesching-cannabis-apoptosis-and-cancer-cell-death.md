@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis, Apoptosis, and Cancer Cell Death
+## Cannabis, Apoptosis, and Cancer Cell Death
 
 Apoptosis, or programmed cell death, is one of the most significant mechanisms
 by which cannabinoids demonstrate anti-cancer properties. Throughout *The

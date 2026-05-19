@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Growing — Success, Failure, and Economics
+## Mushroom Growing — Success, Failure, and Economics
 
 ## Overview
 

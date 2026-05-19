@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Purdue Nitrogen Side-Dressing Schedule
+## Purdue Nitrogen Side-Dressing Schedule
 
 A crop-specific reference for nitrogen side-dressing in home vegetable gardens, based on Purdue University Cooperative Extension Service recommendations. Side-dressing supplies supplemental nitrogen after plants have made considerable growth or begun fruiting, when demand often exceeds what [[savory-growing-season-and-non-growing-season-management]]
 

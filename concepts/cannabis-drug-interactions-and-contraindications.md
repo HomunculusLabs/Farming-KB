@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Drug Interactions and Contraindications
+## Cannabis Drug Interactions and Contraindications
 
 Understanding how cannabis interacts with pharmaceutical medications and when it should be avoided is essential for safe therapeutic use. The [[blesching-cannabis-health-index-autoimmune-conditions]] introduces the concept of the "subjective therapeutic window" -- the dose range at which [[adverse-effects-and-harm-reduction-psilocybin]]. This window is:
 - **Highly individual**: What works for one person may be too much or too little for another

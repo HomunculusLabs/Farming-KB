@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, tissue-culture, laboratory, spawn-production]
 ---
 
-# Mushroom Tissue Culture
+## Mushroom Tissue Culture
 
 ## Description
 

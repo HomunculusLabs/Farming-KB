@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Grass Seed Cultivation of Psilocybe Species
+## Grass Seed Cultivation of Psilocybe Species
 
 ## Overview
 

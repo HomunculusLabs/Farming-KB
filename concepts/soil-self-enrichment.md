@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Soil Self-Enrichment
+## Soil Self-Enrichment
 
 Soil self-enrichment is the principle that soil naturally improves its own
 fertility, structure, and biological activity without human intervention.

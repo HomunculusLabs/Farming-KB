@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Coprinus Ink Caps: Deliquescence, Coprine Toxicity, and Mating Systems
+## Coprinus Ink Caps: Deliquescence, Coprine Toxicity, and Mating Systems
 
 ## Overview
 

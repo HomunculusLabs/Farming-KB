@@ -6,7 +6,7 @@ type: concept
 tags: [remediation, environment]
 sources: []
 ---
-# Microbial Fuel Cells for Remediation
+## Microbial Fuel Cells for Remediation
 
 Microbial fuel cells (MFCs) are bioelectrochemical systems that harness the [[fungal-volatile-organic-compounds-communication]] directly into electrical energy. When applied to contaminated environments, MFCs can simultaneously generate electricity while degrading organic pollutants, oxidizing reduced compounds, or immobilizing metals, making them a dual-purpose technology for remediation and energy recovery.
 

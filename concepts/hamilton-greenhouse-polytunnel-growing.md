@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Greenhouse and Polytunnel Growing
+## Greenhouse and Polytunnel Growing
 
 Growing under glass extends the [[hamilton-greenhouse-management-organic]] using
 organic principles.

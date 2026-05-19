@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Choose Between Indoor, Outdoor, and Greenhouse Cannabis Growing?
+## How Do I Choose Between Indoor, Outdoor, and Greenhouse Cannabis Growing?
 
 ## Short Answer
 The best [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] offers maximum [[cannabis-outdoor-growing]], and

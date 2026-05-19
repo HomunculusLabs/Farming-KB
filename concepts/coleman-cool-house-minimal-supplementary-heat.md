@@ -5,7 +5,7 @@ tags: [winter-harvest, greenhouse-heating, cool-house, eliot-coleman, supplement
 created: 2026-05-09
 ---
 
-# Coleman Cool House and Minimal Supplementary Heat
+## Coleman Cool House and Minimal Supplementary Heat
 
 [[coleman-winter-harvest-washing-and-packing]] harvested vegetables.
 

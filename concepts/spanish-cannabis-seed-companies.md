@@ -14,7 +14,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Spanish Cannabis Seed Companies
+## Spanish Cannabis Seed Companies
 Spain has emerged as one of the world's most important centers of [[fungi-around-the-world-species-distribution]] and fostered a thriving domestic
 breeding scene. Spanish seed companies are now recognized globally for their innovative genetics,
 commitment to quality, and unique access to Latin American and tropical genetic stock.

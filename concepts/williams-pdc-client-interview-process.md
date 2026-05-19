@@ -5,11 +5,10 @@ tags: [permaculture, client-interview, design-process, communication,
   site-analysis]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
-# Client Interview Process in Permaculture Design
+## Client Interview Process in Permaculture Design
 [[gaias-garden-design-process]], establishing the foundation upon
 which all subsequent design decisions are built.
 

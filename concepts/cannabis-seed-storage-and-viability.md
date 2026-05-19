@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Cannabis Seed Storage and Viability
+## Cannabis Seed Storage and Viability
 
 Proper seed storage is essential for preserving the genetic potential of [[cervantes-breeding-program-design-goal-setting]], or simply storing purchased seeds for future grows, understanding the factors that affect seed viability allows growers to maintain high germination rates for months or years.
 

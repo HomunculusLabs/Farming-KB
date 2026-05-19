@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# mushroom-cultivation-patent-history cycle and the point at which
+## mushroom-cultivation-patent-history cycle and the point at which
 farmers realize the value of their investment of time and resources. The FAO [[psilocybin-shelf-life-stability]],
 and market price. People with various disabilities can successfully harvest mushrooms with
 appropriate adaptations.

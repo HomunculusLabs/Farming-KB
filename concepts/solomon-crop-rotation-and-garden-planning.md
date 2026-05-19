@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Crop Rotation and Garden Planning
+## Solomon on Crop Rotation and Garden Planning
 
 From [[intensive-gardening-critique-solomon]]
 - [[intensive-gardening-critique-solomon]]

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Smile
+## Smile
 
 Smile is a sativa-dominant hybrid [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - ak-47-strain - The legendary AK-47 [[oner-cannabis-breeding-fundamentals]] in Spain

@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Root Rot on Cannabis
+## Root Rot on Cannabis
 
 Root rot is a fungal condition that attacks the root system of cannabis plants, progressively destroying the plant's ability to absorb water and nutrients. It is most common in hydroponic systems and overwatered soil gardens where roots are deprived of oxygen. Root rot is particularly insidious because the damage is hidden below the growing medium surface, and above-ground symptoms often do not appear until the infection is well advanced. By the time foliage symptoms are noticeable, root damage is often severe.
 

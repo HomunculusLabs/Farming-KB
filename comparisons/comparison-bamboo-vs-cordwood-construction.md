@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Bamboo vs Cordwood Construction
+## Bamboo vs Cordwood Construction
 
 ## Overview
 

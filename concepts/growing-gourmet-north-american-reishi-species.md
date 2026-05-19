@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# North American Reishi Species Complex
+## North American Reishi Species Complex
 
 While [[dmt-containing-plants-united-states-halpern]], G.
 curtisii is closely related to G. lucidum but can be distinguished

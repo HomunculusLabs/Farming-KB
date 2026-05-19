@@ -1,4 +1,8 @@
-# Five Historical Periods of Neurotropic Fungi Discovery and Use
+---
+title: "Five Historical Periods of Neurotropic Fungi Discovery and Use"
+tags:
+  - concept
+---
 
 The history of human interaction with neurotropic (hallucinogenic) fungi spans millennia, from ancient indigenous use to modern scientific investigation and recreational drug culture. Drawing on the framework originally proposed by Stamets (1978, 1996) and expanded by Guzmán, Allen, and Gartz (1998), the history can be divided into five distinct periods, each characterized by different patterns of use, understanding, and cultural significance.
 

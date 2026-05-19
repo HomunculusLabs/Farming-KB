@@ -1,4 +1,8 @@
-# Hallucinogenic Mushroom Use in the EU: Adolescent Prevalence and School Survey Data
+---
+title: "Hallucinogenic Mushroom Use in the EU: Adolescent Prevalence and School Survey Data"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

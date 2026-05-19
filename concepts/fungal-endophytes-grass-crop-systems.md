@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Endophytes in Grass and Crop Systems
+## Fungal Endophytes in Grass and Crop Systems
 Fungal endophytes of grasses and crop plants represent one of the
 most important plant-fungal interactions in both natural and
 [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].

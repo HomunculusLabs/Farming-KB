@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JADAM Soil Management -- No-Till and Weed Control
+## JADAM Soil Management -- No-Till and Weed Control
 
 ## Overview
 

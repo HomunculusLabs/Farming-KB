@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Fungal Biodiversity Herbarium Collections
+## Fungal Biodiversity Herbarium Collections
 Updated: 2026-04-18
 Herbarium collections of fungi are irreplaceable scientific resources
 that serve multiple critical functions in fungal biodiversity

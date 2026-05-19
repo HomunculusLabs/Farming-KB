@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany, history]
 sources: [raw/papers/mckenna_t-food_of_the_gods.md]
 ---
 
-# The Rediscovery of the New World Mushroom
+## The Rediscovery of the New World Mushroom
 
 In *Food of the Gods*, Terence McKenna traces the chain of events by which psychoactive mushrooms — suppressed in Europe for millennia and surviving only in remote Mesoamerican communities — were rediscovered by Western science in the [[powell-paradigm-shifting-and-the-psychedelic-revolution]] of the 1960s. McKenna frames this history as the latest chapter in humanity's long relationship with what he calls the "mushroom cult."
 

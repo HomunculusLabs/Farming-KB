@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, pharmacology]
 ---
 
-# Cannabinoid Pharmacology - THC and CBD Mechanisms
+## Cannabinoid Pharmacology - THC and CBD Mechanisms
 
 ## Tetrahydrocannabinol (THC)
 

@@ -4,7 +4,7 @@ source: bill-[[mollison-salicornia-flats-and-estuarine-aquaculture|mollison]]-pe
 type: concept
 ---
 
-# Tidal Fisheries and Salicornia Flat Aquaculture
+## Tidal Fisheries and Salicornia Flat Aquaculture
 
 The intergrade between estuary and land—often over [[salicornia]] (salt marsh) flats—represents a vast, underutilized resource for food production. Mollison provides detailed designs for converting barren mud-flats and intertidal sands into productive polycultural systems.
 

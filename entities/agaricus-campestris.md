@@ -5,9 +5,9 @@ type: species
 tags: [mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Agaricus campestris Agaricus campestris, commonly known as the Meadow Mushroom or Field Mushroom, is one of the most widely recognized edible mushrooms in the world. Found in lawns, pastures, and grasslands across temperate regions, this species is the wild ancestor of the commercially cultivated button mushroom ([[marasmius-oreades]].
+## Agaricus campestris Agaricus campestris, commonly known as the Meadow Mushroom or Field Mushroom, is one of the most widely recognized edible mushrooms in the world. Found in lawns, pastures, and grasslands across temperate regions, this species is the wild ancestor of the commercially cultivated button mushroom ([[marasmius-oreades]].
 - **Seasonality:** Late summer through fall, often appearing after rain.
 - **Ecological role:** A secondary decomposer that fruits from well-decomposed organic matter in grassy soils. Requires the action of primary and secondary decomposing microorganisms to prepare its substrate.
 

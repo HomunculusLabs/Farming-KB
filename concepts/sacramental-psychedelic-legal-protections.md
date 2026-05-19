@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
 ---
 
-# Sacramental Psychedelic Use Legal Protections
+## Sacramental Psychedelic Use Legal Protections
 
 The legal status of psychedelic substances used in religious ceremonies in the United States involves a complex intersection of drug [[peyote-ceremony]]
 

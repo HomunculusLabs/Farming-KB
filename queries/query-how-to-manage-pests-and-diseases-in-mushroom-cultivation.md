@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 type: query
 ---
-# How to Manage Pests and Diseases in Mushroom Cultivation
+## How to Manage Pests and Diseases in Mushroom Cultivation
 
 Managing pests and diseases is one of the most critical skills in mushroom
 cultivation. A single contamination event can destroy weeks of work, making

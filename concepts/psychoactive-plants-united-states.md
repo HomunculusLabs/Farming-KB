@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Psychoactive Plants Growing Wild in the United States
+## Psychoactive Plants Growing Wild in the United States
 
 Many potent hallucinogenic and dissociative agents occur naturally in plants and fungi growing wild or cultivated in gardens throughout the United States. These organisms contain a range of psychoactive compounds including tryptamines, phenethylamines, diterpenes, ergolines, anticholinergics, and ibotenic acid derivatives. This concept page catalogs the major naturally occurring psychoactive species found within the US, their active constituents, preparation methods, pharmacology, and associated risks.
 

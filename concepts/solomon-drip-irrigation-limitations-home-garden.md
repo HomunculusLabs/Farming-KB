@@ -16,7 +16,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Drip Irrigation Limitations for the Home Garden
+## Drip Irrigation Limitations for the Home Garden
 
 [[cervantes-drip-irrigation-systems]] for home [[query-how-do-i-choose-the-right-irrigation-method-for-my-vegetable-garden]] gardens that are regularly direct-seeded.
 

@@ -4,7 +4,7 @@ source: Variation of hplc-analysis-of-psilocybin-and-psilocin Levels (Bigwood & 
 tags: [psilocybe-cubensis, strain, potency, variability, alkaloid, bigwood-beug, controlled-culture, street-sample]
 ---
 
-# Strain Potency Variability in Psilocybe cubensis
+## Strain Potency Variability in Psilocybe cubensis
 
 ## Overview
 

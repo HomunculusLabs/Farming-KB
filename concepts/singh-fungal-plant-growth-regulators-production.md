@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Production of Plant Growth Regulators
+## Fungal Production of Plant Growth Regulators
 
 Fungi synthesize a diverse array of plant growth-regulating substances
 including gibberellins, auxins, cytokinins, abscisic acid, and ethylene

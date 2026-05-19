@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/higa-effective-microorganisms.md"
 ---
-# Cannabis LAB Serum Cultivation
+## Cannabis LAB Serum Cultivation
 
 Lactic acid bacteria (LAB) serum represents a practical, low-cost biological amendment that cannabis cultivators can produce at home to potentially enhance plant health, terpene production, and [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM) and Korean Natural Farming, LAB serum involves fermenting a simple mixture of rice, milk, and molasses to produce a probiotic culture rich in beneficial lactic acid bacteria.
 

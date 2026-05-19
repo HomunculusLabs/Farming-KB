@@ -4,7 +4,7 @@ source: stuart-r-ayahuasca-tourism.md
 topics: [ayahuasca, tourism, economics, peru, pricing, commodification]
 ---
 
-# Ayahuasca Ceremonial Economics and Price Disparity in Peru
+## Ayahuasca Ceremonial Economics and Price Disparity in Peru
 
 ## Overview
 

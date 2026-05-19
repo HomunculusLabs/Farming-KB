@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Solar Dollars and Wealth Classification
+## Solar Dollars and Wealth Classification
 
 [[savory-holistic-goal-definition]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Wild Grass Management
+## JADAM Wild Grass Management
 
 It is high time to seek a symbiosis [[weed-management-strategies]]
 - [[jadam-cover-crop-soil-temperature-management]]

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I prune fruit trees naturally?
+## How do I prune fruit trees naturally?
 
 ## Short Answer
 [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]] means cutting enough to guide structure, light, airflow, and harvest access while avoiding unnecessary annual correction.

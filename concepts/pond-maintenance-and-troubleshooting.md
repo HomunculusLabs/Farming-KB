@@ -23,7 +23,7 @@ sources:
 - raw/greg-green-the-cannabis-grow-bible.md
 ---
 
-# Pond Maintenance and Troubleshooting
+## Pond Maintenance and Troubleshooting
 
 Operational guidance for farm ponds — water quality management, feeding strategies, fish harvest, winter care, predator control, and regenerative integration. See [[pond-and-aquaculture]] for pond design, site selection, fish species, and duck integration.
 

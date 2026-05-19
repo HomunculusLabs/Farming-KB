@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Rhodiola vs Tulsi
+## Rhodiola vs Tulsi
 
 ## Overview
 

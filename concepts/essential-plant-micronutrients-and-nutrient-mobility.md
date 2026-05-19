@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Essential Plant Micronutrients and Nutrient Mobility
+## Essential Plant Micronutrients and Nutrient Mobility
 
 Micronutrients are required by plants in very small quantities but are no less critical than macronutrients for healthy [[cytokinin-plant-growth-and-development]]. Though needed in trace amounts (typically measured in parts per million), deficiencies can cause severe and distinctive symptoms that impair plant function and yield.
 

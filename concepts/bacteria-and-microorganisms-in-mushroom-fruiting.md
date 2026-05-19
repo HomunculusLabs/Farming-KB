@@ -7,7 +7,7 @@ tags: [mycology, mushrooms]
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Bacteria and Microorganisms in Mushroom Fruiting The relationship between mushroom mycelium and select bacteria is one of the most fascinating and underutilized aspects of casing-layer-preparation and mushroom mycelium, with specific bacteria directly stimulating primordia formation and increasing yields. This field of study is documented in Appendix III of Paul Stamets' The Mushroom Cultivator and has significant practical implications for [[gourmet-medicinal-mushroom-casing-layer-techniques]] thus creates favorable conditions for Pseudomonas putida proliferation.
+## Bacteria and Microorganisms in Mushroom Fruiting The relationship between mushroom mycelium and select bacteria is one of the most fascinating and underutilized aspects of casing-layer-preparation and mushroom mycelium, with specific bacteria directly stimulating primordia formation and increasing yields. This field of study is documented in Appendix III of Paul Stamets' The Mushroom Cultivator and has significant practical implications for [[gourmet-medicinal-mushroom-casing-layer-techniques]] thus creates favorable conditions for Pseudomonas putida proliferation.
 
 Hayes and Nair (1974) found that more bacteria flourish in wet casings placed on compost than in wet casing alone, with peak activity occurring ten days after application. Adding 5% spawned compost into the casing layer resulted in the largest increase in P. putida populations, the most pinheads, and the greatest overall yields.
 

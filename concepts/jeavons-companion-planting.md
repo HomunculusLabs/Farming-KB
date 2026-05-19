@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Companion Planting and Intercropping
+## Companion Planting and Intercropping
 
 Like people in relationships, certain plants like and dislike each other. Companion planting is the constructive use of plant relationships by gardeners, horticulturists, and farmers.
 

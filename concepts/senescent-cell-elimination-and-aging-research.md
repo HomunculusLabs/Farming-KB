@@ -1,4 +1,8 @@
-# Senescent Cell Elimination and Aging Research
+---
+title: "Senescent Cell Elimination and Aging Research"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[fungal-cell-wall-composition-and-structural-organization]]
-- [[plant-cell-membrane-transport-proteins]]
-- [[plant-cell-structure-and-organelles]]
-- [[savory-land-planning-and-grazing-cell-design]]
-- [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]

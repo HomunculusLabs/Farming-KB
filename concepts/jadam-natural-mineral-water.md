@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Natural Mineral Water
+## JADAM Natural Mineral Water
 
 ## Overview
 

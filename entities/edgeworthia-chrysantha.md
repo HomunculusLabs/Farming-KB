@@ -15,7 +15,7 @@ sources:
   - Tanaka, T. (1976). "Tanaka's Cyclopedia of Edible Plants of the World." Keigaku Publishing.
 ---
 
-# Edgeworthia chrysantha
+## Edgeworthia chrysantha
 
 ## Overview
 

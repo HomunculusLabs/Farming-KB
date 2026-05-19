@@ -24,7 +24,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Permaculture Zones in Practice
+## Permaculture Zones in Practice
 
 Practical application of permaculture zones 0-5 for a regenerative homestead with ducks, goats, cannabis, food forests, and integrated systems. See [[permaculture-principles]] for the ethical framework and [[permaculture-design]] for zone/sector analysis methodology. See [[integrated-homestead-design]] for the full system integration map.
 

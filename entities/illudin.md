@@ -17,7 +17,7 @@ sources:
   - "Kellogg, G.E. et al. (2004). "Mechanism of action of illudins: alkylation of DNA and thiols." Chemical Research in Toxicology, 17(2), 175-181."
 ---
 
-# Illudin
+## Illudin
 
 ## Overview
 

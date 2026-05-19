@@ -5,7 +5,7 @@ mined: 2026-05-10
 tags: [mycology, psilocybe, market, europe, smartshop, emcdda, varieties, cultivation]
 ---
 
-# European Magic Mushroom Varieties and Market Products
+## European Magic Mushroom Varieties and Market Products
 
 ## Overview
 

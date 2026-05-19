@@ -7,7 +7,7 @@ tags: [compost, soil, fertilizer, gardening, methods, microbes, composting, soil
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Compost Building Guide
+## Compost Building Guide
 
 Comprehensive guide to building high-quality compost, distilled from Steve Solomon's "Gardening When It Counts." Producing compost that will effectively grow vegetables is a highly skilled activity requiring hard work, close attention, and a desire to observe what is happening inside the heap.
 

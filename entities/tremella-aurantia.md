@@ -5,9 +5,9 @@ type: species
 tags: [medicinal-mushroom, tremellaceae, jelly-fungus, mycoparasite, antioxidant]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
-# Tremella aurantia
+## Tremella aurantia
 
 **Tremella aurantia**, commonly known as the golden ear fungus or orange jelly fungus, is a parasitic jelly fungus in the family Tremellaceae. It is notable for its striking orange-golden appearance and its obligate parasitic relationship with the [[medicinal-mushroom-guide-oyster]] [[tremella-fuciformis]] but similar to [[trametes-hirsuta]] an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[tremella-fuciformis]]
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Why No-Fertilizer Tests Are Absent from Agricultural Science
+## Why No-Fertilizer Tests Are Absent from Agricultural Science
 
 Strange as it may seem, scientists hardly ever run experiments on
 no-fertilizer cultivation. [[sepp-holzer-soil-fertility-and-green-manure]], and the direct

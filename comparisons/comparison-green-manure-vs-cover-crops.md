@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Green Manure vs Cover Crops
+## Green Manure vs Cover Crops
 
 ## Overview
 Green manures and cover crops are closely related soil-building practices that are

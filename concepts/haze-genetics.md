@@ -6,7 +6,7 @@ source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 created: 2026-05-10
 ---
 
-# Haze Genetics
+## Haze Genetics
 
 Haze is arguably the most influential cannabis sativa lineage [[cervantes-breeding-program-design-goal-setting]] involved crossing several landrace sativas:
 

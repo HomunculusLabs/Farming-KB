@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Termites and Ants in Tropical Soil Ecology
+## Termites and Ants in Tropical Soil Ecology
 
 ## Overview
 

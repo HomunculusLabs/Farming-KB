@@ -8,7 +8,7 @@ categories:
   - sustainability
 ---
 
-# Carmenza Jaramillo López
+## Carmenza Jaramillo López
 
 ## Description
 

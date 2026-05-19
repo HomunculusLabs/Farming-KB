@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# Korean Natural Farming Pest Control and Soap Water
+## Korean Natural Farming Pest Control and Soap Water
 
 Korean Natural Farming takes a holistic approach to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. When intervention is needed, KNF uses non-toxic methods that don't harm beneficial organisms.
 

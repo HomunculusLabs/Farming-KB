@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TMA-3
+## TMA-3
 
 [[phytochrome-red-far-red-ratio-shade-detection-plants]]n
 

@@ -22,7 +22,7 @@ related_concepts:
   - hamilton-mulching-materials-and-techniques
 ---
 
-# Geoff Hamilton — The Organic Gardening Companion
+## Geoff Hamilton — The Organic Gardening Companion
 
 [[geoff-hamilton]] (1936–1996) was one of Britain's most beloved gardening
 broadcasters and the presenter of BBC Television's *Gardeners' World*

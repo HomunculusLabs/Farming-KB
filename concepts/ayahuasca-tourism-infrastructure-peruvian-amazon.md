@@ -4,11 +4,11 @@ created: 2026-05-06
 tags: [ayahuasca, tourism, peru, ucayali, iquitos, shipibo, economics, commodification, retreat, shamanism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/stuart-r-ayahuasca-tourism.md]
+sources: ["raw/papers/stuart-r-ayahuasca-tourism.md"]
 type: concept
 ---
 
-# Ayahuasca Tourism Infrastructure and Economics in the Peruvian Amazon
+## Ayahuasca Tourism Infrastructure and Economics in the Peruvian Amazon
 
 Ayahuasca [[western-spiritual-tourism-chronology]] seeking.
 The infrastructure supporting this tourism has developed organically across

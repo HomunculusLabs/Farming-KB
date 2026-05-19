@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Natural Livestock Farming: Open Grazing vs Factory Methods
+## Natural Livestock Farming: Open Grazing vs Factory Methods
 
 Fukuoka extends his [[comparison-natural-farming-vs-permaculture]] as inefficient. Is grazing, which allows one
 person to raise hundreds of head without doing anything, really inefficient? Is it not,

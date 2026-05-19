@@ -5,10 +5,10 @@ type: species
 tags: [cellulolytic, ascomycete, industrial-biotechnology, cell-wall, proteomics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Trichoderma reesei
+## Trichoderma reesei
 
 Trichoderma reesei is a filamentous ascomycete fungus renowned for its
 exceptional cellulolytic [[mushroom-strain-improvement-and-breeding-methods]]

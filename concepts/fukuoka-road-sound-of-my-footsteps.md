@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Sound of My Footsteps: Walking Through Europe
+## The Sound of My Footsteps: Walking Through Europe
 
 Walking through Europe in geta (Japanese wooden clogs),
 masanobu-fukuoka [[fukuoka-road-roots-of-clothing]].

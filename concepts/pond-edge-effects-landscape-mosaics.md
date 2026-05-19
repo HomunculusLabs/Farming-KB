@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Edge Effects and Landscape Mosaics
+## Pond Edge Effects and Landscape Mosaics
 
 The configuration of pond shorelines and their integration into the broader landscape determines productivity far more than volume alone. Maximizing edge effects — the interface between water, land, and atmosphere — and composing ponds within a mosaic of forest, marsh, and meadow creates systems of far greater biological yield and ecological resilience than isolated, uniform water bodies.
 

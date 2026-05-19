@@ -7,7 +7,7 @@ tags: [mycology, fungi, enzymes, biochemistry, decomposition]
 sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
-# Fungal Enzyme Induction and Regulation
+## Fungal Enzyme Induction and Regulation
 
 [[fungal-manganese-peroxidase-remediation]], glucose
   oxidase, cellobiose oxidase, arylalcohol oxidase, glyoxaloxidase, and

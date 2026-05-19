@@ -6,7 +6,7 @@ type: concept
 tags: [food-forest, orchard]
 sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
-# Fruiting Conditions in The Mushroom Cultivator
+## Fruiting Conditions in The Mushroom Cultivator
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters IX-X
 Updated: 2026-04-18

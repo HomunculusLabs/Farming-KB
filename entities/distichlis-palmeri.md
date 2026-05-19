@@ -5,7 +5,7 @@ type: entity
 tags: [grass, grain, saline-tolerant, coastal, perennial, native-american, fodder]
 ---
 
-# Distichlis palmeri (Palmer Saltgrass)
+## Distichlis palmeri (Palmer Saltgrass)
 
 ## Description
 

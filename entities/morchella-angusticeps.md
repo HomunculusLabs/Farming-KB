@@ -8,7 +8,7 @@ sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: entity
 ---
 
-# Morchella angusticeps
+## Morchella angusticeps
 
 **Type:** Species
 **Category:** Ascomycete

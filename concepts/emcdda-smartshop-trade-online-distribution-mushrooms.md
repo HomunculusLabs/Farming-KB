@@ -22,7 +22,7 @@ updated: 2026-04-28
 sources:
   - carolina-mushrooms_08qxp.md
 ---
-# European Smartshop Trade and Online Distribution of Hallucinogenic Mushrooms
+## European Smartshop Trade and Online Distribution of Hallucinogenic Mushrooms
 The EMCDDA 2006 case study documents the emergence and rapid expansion of a
 commercial market for hallucinogenic mushrooms in Europe during the late 1990s
 and early 2000s, centered on Dutch smartshops and later expanding through

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi and Climate Change Effects on Primary Production
+## Fungi and Climate Change Effects on Primary Production
 
 Climate change — driven by rising atmospheric CO₂ concentrations and associated temperature increases — profoundly affects fungal communities and their [[fungi-in-the-environment-symbiotic-relationships]] with plants. Understanding these interactions is critical because fungi mediate nutrient cycling, decomposition, and carbon storage processes that determine ecosystem responses to global change.
 

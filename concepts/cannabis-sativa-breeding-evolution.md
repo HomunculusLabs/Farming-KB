@@ -8,7 +8,7 @@ sources:
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Cannabis Sativa Breeding Evolution
+## Cannabis Sativa Breeding Evolution
 
 The breeding of cannabis sativa has undergone a dramatic transformation from the era of pure landrace preservation to the sophisticated creation of multi-generational hybrids that combine the best traits of geographically diverse genetics. This evolution reflects decades of grower ingenuity, shifting market demands, and the ongoing tension between preserving heritage genetics and adapting plants for modern cultivation environments.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Tropical Humid and Coastal Climate Permaculture Design
+## Tropical Humid and Coastal Climate Permaculture Design
 
 Tropical humid and coastal climates share many design challenges with arid lands—wind, salt, and exposure—while having unique advantages including year-round production, a vast range of useful fruits, and greater frequency of night dews and mists.
 

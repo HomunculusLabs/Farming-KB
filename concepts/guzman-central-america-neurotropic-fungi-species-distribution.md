@@ -7,7 +7,7 @@ created: 2026-05-09
 tags: [neurotropic-fungi, central-america, biogeography, guzman, species-checklist, psilocybe, copelandia, amanita, claviceps]
 ---
 
-# Central America Neurotropic Fungi Species Distribution
+## Central America Neurotropic Fungi Species Distribution
 
 ## Overview
 

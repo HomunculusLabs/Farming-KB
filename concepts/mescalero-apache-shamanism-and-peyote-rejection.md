@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mescalero Apache Shamanism and Peyote Rejection
+## Mescalero Apache Shamanism and Peyote Rejection
 
 ## Overview
 

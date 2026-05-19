@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Peyote Legal Status and Conservation
+## Peyote Legal Status and Conservation
 
 ## Federal Law in the United States
 

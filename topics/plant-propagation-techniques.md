@@ -40,7 +40,7 @@ related_concepts:
   - seed-starting-reference
 ---
 
-# Plant Propagation Techniques
+## Plant Propagation Techniques
 
 Plant propagation is the deliberate creation of new plants from existing
 parent stock, encompassing both [[cannabis-sexual-propagation-genetics]]

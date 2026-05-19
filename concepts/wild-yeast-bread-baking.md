@@ -7,7 +7,7 @@ tags: [fermentation, food, recipe, homesteading, grain, cooking, seeds]
 sources: []
 ---
 
-# Wild Yeast Bread Baking
+## Wild Yeast Bread Baking
 
 Wild yeast bread baking uses naturally occurring yeast and bacteria to leaven bread, producing superior flavor, texture, and keeping quality compared to commercial yeast. The sourdough tradition connects modern bakers to thousands of years of bread-making.
 

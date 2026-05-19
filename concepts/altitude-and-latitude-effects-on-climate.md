@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Altitude and Latitude Effects on Climate
+## Altitude and Latitude Effects on Climate
 
 The interaction of altitude and latitude creates the fundamental framework for understanding climatic variation. These two factors, combined with continentality (distance from the sea), determine the range of conditions a permaculture designer must work with on any site.
 

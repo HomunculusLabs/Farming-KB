@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
-# Virola Snuff: Amazonian Preparation, Ceremony, and Pharmacology
+## Virola Snuff: Amazonian Preparation, Ceremony, and Pharmacology
 
 Virola is a genus of trees in the nutmeg family (Myristicaceae) whose resinous bark provides one of the most potent hallucinogenic snuffs known to ethnopharmacology. Used by numerous indigenous peoples of the Amazon basin, particularly the Waika (Yanomamo) Indians of the Brazil-Venezuela frontier, Virola snuff represents a sophisticated tradition of psychoactive plant preparation and ceremonial use.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Oryzopsis (Rice-Grass)
+## Oryzopsis (Rice-Grass)
 
 ## Description
 

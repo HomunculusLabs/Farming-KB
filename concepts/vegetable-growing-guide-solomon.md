@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Vegetable Growing Guide (Solomon)
+## Vegetable Growing Guide (Solomon)
 
 Updated: 2026-04-18
 

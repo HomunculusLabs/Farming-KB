@@ -4,9 +4,9 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Arbuscular Mycorrhizal Fungi in Tropical Forest Restoration
+## Arbuscular Mycorrhizal Fungi in Tropical Forest Restoration
 Arbuscular mycorrhizal fungi (AMF) play critical roles in tropical
 rain forest restoration by facilitating plant establishment,
 improving soil structure, and enabling nutrient cycling.

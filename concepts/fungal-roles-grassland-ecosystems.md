@@ -7,7 +7,7 @@ tags: [mycology, fungi, grassland, ecology, soil-biology]
 sources: []
 ---
 
-# [[mycorrhizal-nutrient-transport]] associations, and [[biodiversity-fungi-soil-fungal-communities]]
+## [[mycorrhizal-nutrient-transport]] associations, and [[biodiversity-fungi-soil-fungal-communities]]
 [[fungal-ecology-forest-ecosystems]] soils.
 
 The absence of a thick surface litter layer means that decomposition

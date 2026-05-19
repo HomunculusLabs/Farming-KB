@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Bamboo in Permaculture Design
+## Bamboo in Permaculture Design
 
 Bamboo is one of the most versatile multi-function plants in permaculture systems. Throughout Mollison's Designers' Manual, bamboo appears as a windbreak species, construction material, craft resource, mulch producer, water conduit, and structural element in tropical and subtropical designs.
 

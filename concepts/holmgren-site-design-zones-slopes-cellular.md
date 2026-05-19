@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Permaculture Site Design: Zones, Slopes, and Cellular Patterns
+## Permaculture Site Design: Zones, Slopes, and Cellular Patterns
 
 [[permaculture-design]] principle by providing
 structured ways to process observations into design decisions. Systems

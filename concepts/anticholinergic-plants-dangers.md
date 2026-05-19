@@ -4,10 +4,10 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 ---
 
-# Anticholinergic Plant Poisons Dangers
+## Anticholinergic Plant Poisons Dangers
 
 Anticholinergic plants containing atropine and scopolamine are among the most dangerous psychoactive botanicals available. Found growing wild throughout much of the [[solanaceous-hallucinogens-pharmacology]]
 

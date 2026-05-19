@@ -5,11 +5,11 @@ tags: [hallucinogenic-plants, syrian-rue, maoi, harmala, harmine, harmaline,
   peganum, zygophyllaceae, beta-carbolines, ethnobotany, ayahuasca]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+sources: ["raw/papers/a-golden-guide-to-hallucinogenic-plants.md"]
 type: concept
 ---
 
-# Syrian Rue (*Peganum harmala*) and MAOI-Containing Plants
+## Syrian Rue (*Peganum harmala*) and MAOI-Containing Plants
 
 Syrian Rue (*[[guzman-psilocybin-mushrooms-south-america]], where *[[panax-ginseng]]. The plant's widespread use in folk medicine across
 such a vast geographical area suggests that its pharmacologically active

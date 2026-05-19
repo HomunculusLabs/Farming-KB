@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Wasson's Scholarly Critique and Legacy
+## Wasson's Scholarly Critique and Legacy
 
 The career and reputation of [Robert [[archaeology-of-psychedelic-mushrooms]] in Mesoamerica, a
 balanced assessment reveals serious shortcomings in his scholarly methods,

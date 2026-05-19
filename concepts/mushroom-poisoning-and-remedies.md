@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom Poisoning and Remedies
+## Mushroom Poisoning and Remedies
 
 Julius A. Palmer's personal experiences with mushroom poisoning, combined with
 his systematic study of fungal toxicology, led him to several important

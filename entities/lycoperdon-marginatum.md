@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Lycoperdon marginatum
+## Lycoperdon marginatum
 
 **Lycoperdon marginatum** Vitt., commonly known as a puffball fungus, is one of two species of Lycoperdon used traditionally in Mexico for their psychoactive properties. Along with [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] through which spores are released in response to physical disturbance or wind pressure.
 

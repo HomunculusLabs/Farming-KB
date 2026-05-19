@@ -33,7 +33,7 @@ type: query
 created: 2026-05-03
 ---
 
-# Best Mediterranean Herbs for a Beginner [[fukuoka-citrus-orchard-ground-cover-cultivation]] or container specimen. Common thyme is the most versatile for cooking. Handles poor soil and full sun with ease.
+## Best Mediterranean Herbs for a Beginner [[fukuoka-citrus-orchard-ground-cover-cultivation]] or container specimen. Common thyme is the most versatile for cooking. Handles poor soil and full sun with ease.
 
 ### 3. Oregano (*Origanum vulgare*)
 Fast-growing and prolific — you'll have more than you need within months. Greek oregano offers the strongest flavor. Nearly indestructible once rooted; bounces back from over-harvesting.

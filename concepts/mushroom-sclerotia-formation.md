@@ -1,4 +1,8 @@
-# Mushroom Sclerotia Formation
+---
+title: "Mushroom Sclerotia Formation"
+tags:
+  - concept
+---
 
 Sclerotia (singular: sclerotium) are compact, hardened masses of mycelium that
 serve as survival structures for certain fungi. In cultivation, they are
@@ -144,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[classic-mushroom-recipes-traditional-preparations]]
-- [[emcdda-european-mushroom-varieties-and-market-products]]
-- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-- [[mushroom-hormones-gill-directed-tropism-basidiomycete-development]]
-- [[mushroom-spawn]]

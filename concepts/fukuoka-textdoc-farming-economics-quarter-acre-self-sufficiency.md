@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Farming Economics and the Quarter-Acre Self-Sufficiency Model
+## Farming Economics and the Quarter-Acre Self-Sufficiency Model
 
 ## Overview
 

@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, harlequin, high-cbd, medical-cannabis, cbd, green-haven-genetics, landrace]
 ---
 
-# Harlequin — High-CBD Medical Sativa Strain
+## Harlequin — High-CBD Medical Sativa Strain
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT pH and Anaerobic Conditions
+## AACT pH and Anaerobic Conditions
 
 Managing pH and preventing anaerobic conditions are two of the most critical aspects of successful [[actively-aerated-compost-tea]] (AACT) brewing. Both parameters directly influence which organisms thrive and whether the final product benefits or harms plants.
 

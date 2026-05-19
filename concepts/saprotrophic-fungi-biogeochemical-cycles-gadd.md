@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [saprotrophic, decomposition, biogeochemical, nutrient cycling, wood decay, basidiomycetes]
 ---
 
-# Saprotrophic Fungi in Biogeochemical Cycles
+## Saprotrophic Fungi in Biogeochemical Cycles
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [technique, water-treatment, wetland, permaculture, greywater]
 ---
 
-# Reed Bed Filtration
+## Reed Bed Filtration
 
 ## Description
 

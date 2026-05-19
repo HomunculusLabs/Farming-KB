@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biochemistry, mycology, enzymes, bioremediation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Ligninolytic Enzymes
+## Ligninolytic Enzymes
 
 Ligninolytic enzymes are a group of extracellular oxidative enzymes produced
 by white-rot fungi, including *Pleurotus* species, that degrade lignin and

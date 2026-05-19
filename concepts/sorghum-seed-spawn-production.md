@@ -9,7 +9,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Sorghum Seed Spawn Production
+## Sorghum Seed Spawn Production
 
 Sorghum seed spawn production is a [[san-antonio-cased-grain-spawn-method-origin-modern-miniculture-bigwood-beug-1982]] documented in the FAO [[mushroom-cultivation-disabilities-training-manual-overview]] *grain-spawn-production is Step 4 in the FAO training sequence, following [[cervantes-tissue-culture-micropropagation]] selection on PDA medium (Step 3) and preceding [[mushroom-cultivation-disabilities-substrate-bag-production]] (Step 5). The purpose is to multiply a small amount of mycelium from a PDA plate into a much larger quantity of inoculum that can colonize substrate bags efficiently.
 

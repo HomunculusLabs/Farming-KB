@@ -8,7 +8,7 @@ sources:
   - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 ---
 
-# John Dighton
+## John Dighton
 
 John Dighton is an American mycologist and ecologist at the Institute of Marine and Coastal Sciences, Cook College, and Rutgers Pinelands Field Station in New Lisbon, New Jersey. He is the author of *Fungi in Ecosystem Processes* (2003, Marcel Dekker), a comprehensive reference on the ecological roles of fungi in terrestrial ecosystems.
 

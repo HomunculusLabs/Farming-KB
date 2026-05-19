@@ -4,7 +4,7 @@ aliases: ["CIA LSD MKUltra", "military psychedelics weapon", "LSD psychotomimeti
 tags: [lsd, military, mkultra, history, psychedelic-therapy, metzner]
 ---
 
-# Military and Intelligence Agency LSD Research: Psychotomimetic Weapon Programs
+## Military and Intelligence Agency LSD Research: Psychotomimetic Weapon Programs
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
-# Ectomycorrhizal Fungal Ecology
+## Ectomycorrhizal Fungal Ecology
 
 ## Overview
 

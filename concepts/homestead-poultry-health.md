@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Homestead Poultry Health
+## Homestead Poultry Health
 
 Maintaining healthy poultry on the homestead requires proactive management,
 biosecurity protocols, and the ability to recognize disease early. Poultry

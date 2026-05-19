@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-# Swales and Earthworks Design Swales are one of the most versatile and important earthworks in [[mollison-course-aquatic-plant-systems-ponds]] for pond and wetland
+## Swales and Earthworks Design Swales are one of the most versatile and important earthworks in [[mollison-course-aquatic-plant-systems-ponds]] for pond and wetland
   design connected to swale systems
 - pdc-earthworks-and-swales for another perspective
   on swale [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

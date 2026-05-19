@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Cho Han-Kyu: Life, Philosophy, and the Foundation of Korean Natural Farming
+## Cho Han-Kyu: Life, Philosophy, and the Foundation of Korean Natural Farming
 
 **Updated:** 2026-04-18
 

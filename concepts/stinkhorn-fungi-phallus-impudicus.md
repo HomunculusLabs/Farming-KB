@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Stinkhorn Fungi (Phallus impudicus)
+## Stinkhorn Fungi (Phallus impudicus)
 
 Phallus impudicus, commonly known as the common stinkhorn, is a conspicuous member
 of the order Phallales within the phylum [[bloomfield-fungal-biology-and-hyphal-growth]].

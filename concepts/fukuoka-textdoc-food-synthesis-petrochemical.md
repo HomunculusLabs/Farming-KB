@@ -14,7 +14,7 @@ sources:
   - microdosing-theory-and-practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
-# Fukuoka's Critique of Petrochemical Food Synthesis
+## Fukuoka's Critique of Petrochemical Food Synthesis
 
 Masanobu Fukuoka identified the progressive replacement of natural food with petroleum-derived and chemically synthesized products as the most dangerous trajectory in [[cervantes-chemical-fertilizers-guide]] are manufactured from natural gas and petroleum feedstocks.
 

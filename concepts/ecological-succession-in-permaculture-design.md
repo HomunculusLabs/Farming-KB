@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Ecological Succession in Permaculture Design
+## Ecological Succession in Permaculture Design
 
 [[permaculture]] designers harness and accelerate. Rather than waiting decades for natural succession to unfold, permaculture compresses the entire sequence into a single planting event, achieving mature-system yields within years rather than centuries.
 

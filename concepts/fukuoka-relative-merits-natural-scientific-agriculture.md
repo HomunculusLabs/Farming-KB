@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# The Relative Merits of Natural Farming and Scientific Agriculture
+## The Relative Merits of Natural Farming and Scientific Agriculture
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 

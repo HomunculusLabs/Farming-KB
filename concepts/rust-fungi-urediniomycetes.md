@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Rust Fungi (Urediniomycetes)
+## Rust Fungi (Urediniomycetes)
 
 ## Overview
 

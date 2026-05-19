@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Iboga Plant
+## Iboga Plant
 
 [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with hallucinogenic and
 stimulant properties. Iboga is the central sacrament of the Bwiti

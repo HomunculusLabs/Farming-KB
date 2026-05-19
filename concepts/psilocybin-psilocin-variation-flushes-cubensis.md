@@ -7,7 +7,7 @@ tags: [psilocybin, psilocin, psilocybe-cubensis, cultivation, flushes, potency, 
 sources: [raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md]
 ---
 
-# Psilocybin and Psilocin Variation Across Flushes in Psilocybe Cubensis
+## Psilocybin and Psilocin Variation Across Flushes in Psilocybe Cubensis
 
 ## Overview
 

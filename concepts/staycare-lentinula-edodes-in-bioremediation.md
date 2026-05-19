@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycoremediation, white-rot-fungi, pentachlorophenol, mushroom-cultivation, low-temperature]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Lentinula edodes in Bioremediation
+## Lentinula edodes in Bioremediation
 
 Lentinula edodes, commonly known as the shiitake mushroom, is an edible
 white rot basidiomycete that has demonstrated significant potential as a

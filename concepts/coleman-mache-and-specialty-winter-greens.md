@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mache and Specialty Winter Greens
+## Mache and Specialty Winter Greens
 
 Mache (Valerianella locusta), also known as lamb's lettuce or corn
 salad, is one of the most cold-tolerant and reliable winter greens.

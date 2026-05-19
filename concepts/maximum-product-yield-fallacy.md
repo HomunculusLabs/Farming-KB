@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Maximum Product Yield Fallacy
+## Maximum Product Yield Fallacy
 
 The "Big Pumpkin" fallacy is a foundational critique in [[permaculture]] favors crops that hold constant value as subsistence staples (potato, taro, arrowroot), possess special value (vanilla, [[facial-eczema]] and [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]]
 - [[emcdda-herbal-highs-market-product-substitution-bans]]

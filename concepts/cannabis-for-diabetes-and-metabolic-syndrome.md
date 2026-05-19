@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Diabetes and Metabolic Syndrome
+## Cannabis for Diabetes and Metabolic Syndrome
 
 Diabetes mellitus is one of the major public-health concerns of the twenty-first century. Between 1958 and 1993, the number of diabetic patients in the United States increased five-fold, and the disease continues to grow globally. Emerging research suggests that cannabinoids, particularly CBD, may offer novel therapeutic approaches for diabetes management and the prevention of diabetic complications.
 
@@ -54,7 +54,7 @@ Pacher, P. & Kunos, G. "Modulating the Endocannabinoid System in Human Health an
 
 ## Merged: Cannabis For Pancreatitis
 
-# Cannabis for Pancreatitis
+## Cannabis for Pancreatitis
 
 ## Practical Applications
 

@@ -51,7 +51,7 @@ related_concepts:
   - coleman-mache-and-specialty-winter-greens
 ---
 
-# Cold Climate Farming and Season Extension
+## Cold Climate Farming and Season Extension
 
 Cold climate farming encompasses the suite of strategies, structures, and
 biological knowledge that enables food production in regions where freezing

@@ -9,7 +9,7 @@ tags: [mushroom, varieties, Agaricus, species, cultivation, taxonomy, duggar]
 updated: 2026-04-26
 ---
 
-# Common Cultivated Mushroom Varieties
+## Common Cultivated Mushroom Varieties
 
 It is generally maintained that the only species of mushroom in cultivation is [[dmt-containing-plants-united-states-halpern]].
 

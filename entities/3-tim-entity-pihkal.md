@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 3-TIM
+## 3-TIM
 
 [[coleman-first-rule-nature-makes-sense]]!
 

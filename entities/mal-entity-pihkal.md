@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MAL
+## MAL
 
 [[ethyl-j-entity-pihkal]]
 - [[g-3-entity-pihkal]]

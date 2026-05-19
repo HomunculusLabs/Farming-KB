@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Ipomoea violacea L.
+## Ipomoea violacea L.
 
 ## Common Names
 

@@ -7,7 +7,7 @@ tags: [2c-b, phenethylamine, psychedelic, shulgin, dosage, synthesis, pharmacolo
 mined: 2026-05-10
 ---
 
-# 2C-B (4-Bromo-2,5-Dimethoxyphenethylamine)
+## 2C-B (4-Bromo-2,5-Dimethoxyphenethylamine)
 
 ## Overview
 

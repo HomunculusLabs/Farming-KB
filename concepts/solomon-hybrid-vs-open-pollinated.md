@@ -7,7 +7,7 @@ tags: plant-breeding, seed-saving
 type: concept
 ---
 
-# Solomon Hybrid vs Open Pollinated Varieties
+## Solomon Hybrid vs Open Pollinated Varieties
 
 ## The Anti-Hybrid Movement
 

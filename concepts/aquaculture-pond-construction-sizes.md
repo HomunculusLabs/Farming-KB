@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Pond Construction and Size Classes
+## Aquaculture Pond Construction and Size Classes
 
 Fish ponds range from tiny garden containers of a few square metres to commercial impoundments of hundreds of hectares. Each size class has distinct applications, construction requirements, and management considerations that make it suited to particular roles in a permaculture system.
 

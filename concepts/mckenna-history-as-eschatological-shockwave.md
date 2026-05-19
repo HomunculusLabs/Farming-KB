@@ -5,7 +5,7 @@ type: concept
 tags: [mckenna, eschatology, time, acceleration, novelty, history, teleology, consciousness-evolution]
 ---
 
-# McKenna on History as Eschatological Shockwave
+## McKenna on History as Eschatological Shockwave
 
 ## Overview
 

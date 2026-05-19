@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Doubtful and Disputed Neurotropic Species
+## Doubtful and Disputed Neurotropic Species
 
 The study of [[neurotropic-fungi-taxonomic-confusion-and-identification]],
 misidentification, and contradictory [[chemical-analysis-psilocybin-mushrooms]] reviews the

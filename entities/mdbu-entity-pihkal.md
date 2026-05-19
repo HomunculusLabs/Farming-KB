@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDBU
+## MDBU
 
 [[mdma]] for its preparation). To this there was added 50%
 NaOH dropwise until the pH was at about 6 as determined by the use of

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Sealing Leaky Dams
+## Sealing Leaky Dams
 
 Sealing leaky dams is a critical skill in [[permaculture]] [[water-conservation]].
 

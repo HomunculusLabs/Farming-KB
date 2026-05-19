@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, ectomycorrhizal, basidiomycota, agaricales]
 ---
 
-# Laccaria proxima
+## Laccaria proxima
 
 ## Description
 

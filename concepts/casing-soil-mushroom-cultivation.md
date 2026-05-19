@@ -1,4 +1,8 @@
-# [[accessible-mushroom-cultivation-for-disabilities]] and works well for most dung-loving species:
+---
+title: "accessible mushroom cultivation for disabilities and works well for most dung-loving species:"
+tags:
+  - concept
+---
 
 | Ingredient | Parts (by volume) | Function |
 While some growers use raw or pasteurized casing soil, the referenced source recommends full sterilization:

@@ -8,7 +8,7 @@ type: concept
 tags: [amanita-muscaria, tree-crop]
 ---
 
-# The Christmas Tree and Amanita Muscaria Connection
+## The Christmas Tree and Amanita Muscaria Connection
 
 ## The Hidden Meanings of Christmas
 

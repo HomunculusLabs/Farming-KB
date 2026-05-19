@@ -9,7 +9,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis and Post-Traumatic Stress Disorder
+## Cannabis and Post-Traumatic Stress Disorder
 
 Post-traumatic stress disorder (PTSD) arises following exposure to
 extremely painful or traumatic events and can persist for decades.

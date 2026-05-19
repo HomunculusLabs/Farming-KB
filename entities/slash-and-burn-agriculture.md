@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# Slash-and-Burn Agriculture (Swidden)
+## Slash-and-Burn Agriculture (Swidden)
 
 ## Description
 

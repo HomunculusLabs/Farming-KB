@@ -10,7 +10,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Causes of Desertification
+## Causes of Desertification
 
 Desertification is the deterioration of land, water, and biological resources. Most people recognize it only by its terminal symptom—blowing sand—but the same syndrome of declining health and productivity occurs wherever the four  blocks are failing, regardless of whether sand dunes ever appear.
 

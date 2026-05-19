@@ -8,7 +8,7 @@ type: concept
 tags: [medicine, mushroom-cultivation, mushrooms, shiitake]
 ---
 
-# Shiitake (Lentinus edodes) and Lentinan Clinical Trials
+## Shiitake (Lentinus edodes) and Lentinan Clinical Trials
 
 ## Overview
 

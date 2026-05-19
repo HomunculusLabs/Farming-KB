@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Foliar Epiphytic Fungi — Sooty Molds, Black Mildews, Downy Mildews
+## Foliar Epiphytic Fungi — Sooty Molds, Black Mildews, Downy Mildews
 The surfaces of living plant leaves, stems, and fruits support
 diverse communities of fungi that fruit on but do not necessarily
 penetrate living tissues. These epiphytic and obligately biotrophic

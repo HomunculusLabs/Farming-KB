@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Philological Methodology — Decoding Sumerian Cryptograms
+## Philological Methodology — Decoding Sumerian Cryptograms
 
 Allegro's central methodological claim is that the biblical writers used Sumerian as a secret sacred language, encoding mushroom-cult names and stories into what appears to be Hebrew or Aramaic narrative. This page outlines his philological approach, evidence, and examples.
 

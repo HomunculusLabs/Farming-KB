@@ -8,7 +8,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Weed Suppression Strategies
+## Weed Suppression Strategies
 
 ## Understanding Weeds Ecologically
 

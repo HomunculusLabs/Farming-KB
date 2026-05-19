@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Winterization and Filtration
+## Cannabis Winterization and Filtration
 
 Winterization is a purification process used in [[lemon-cannabis-alchemy-advanced-refinement-techniques]] involves dissolving the [[cannabis-honey-oil-production]] from [[cannabis-oil-purification-techniques]] for broader purification methods
 - [[cannabis-hash-making-from-extracted-oil]] for products that may skip winterization

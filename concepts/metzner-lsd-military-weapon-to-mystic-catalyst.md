@@ -8,7 +8,7 @@ sources:
   - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# LSD from Military Weapon to Mystic Catalyst in Postwar Research
+## LSD from Military Weapon to Mystic Catalyst in Postwar Research
 
 ## Overview
 

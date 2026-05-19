@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Guttation, Root Pressure, and Maple Sap Physiology
+## Guttation, Root Pressure, and Maple Sap Physiology
 
 When transpiration slows or stops, plants still need to move water and nutrients. Root pressure and related phenomena -- including guttation and the production of [[coleman-overwintered-onions-and-early-spring-crops]] before leaves emerge (no transpiration possible)
 - In high-humidity environments where evaporation is minimal

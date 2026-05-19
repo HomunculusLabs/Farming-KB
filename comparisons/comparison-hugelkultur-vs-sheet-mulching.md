@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Hugelkultur vs Sheet Mulching
+## Hugelkultur vs Sheet Mulching
 
 ## Overview
 Hugelkultur and [[sheet-mulching]] are both no-till bed creation techniques that layer

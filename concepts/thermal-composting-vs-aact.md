@@ -7,7 +7,7 @@ tags: [composting, soil-biology, soil-health, microbes]
 sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
 ---
 
-# Thermal Composting vs Actively Aerated Compost Tea
+## Thermal Composting vs Actively Aerated Compost Tea
 
 Two approaches to building soil biology: thermal composting creates a concentrated biological inoculant in solid form, while actively aerated compost tea (AAct) multiplies that biology into a liquid form that can be applied to large areas at low cost.
 

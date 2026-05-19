@@ -5,7 +5,7 @@ tags: [mycology, geomicrobiology, bioweathering, mineralogy, fungal-ecology]
 created: 2026-05-09
 ---
 
-# Fungal Bioweathering and Rock-Mineral Interactions
+## Fungal Bioweathering and Rock-Mineral Interactions
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
-# Seed Starting vs Direct Seeding
+## Seed Starting vs Direct Seeding
 Two fundamental approaches to getting vegetables growing, each with distinct trade-offs in
 vigor, [[direct-seeding-techniques]]
 Sowing seeds directly in the garden where they will grow to maturity. Solomon argues

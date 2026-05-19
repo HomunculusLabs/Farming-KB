@@ -16,7 +16,7 @@ sources:
   - "USDA NRCS. \"Verbesina alternifolia (L.) Britt.\" PLANTS Database."
 ---
 
-# Verbesina alternifolia (Wingstem)
+## Verbesina alternifolia (Wingstem)
 
 ## Overview
 

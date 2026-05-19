@@ -5,7 +5,7 @@ type: entity
 tags: [root-crop, staple-food, permaculture, tropical-agriculture, aroid]
 ---
 
-# Taro (*Colocasia esculenta*)
+## Taro (*Colocasia esculenta*)
 
 ## Description
 

@@ -15,7 +15,7 @@ synthesized_from:
   - sepp-holzer-cattle-and-poultry-management
 ---
 
-# Cattle Husbandry and Permaculture Integration
+## Cattle Husbandry and Permaculture Integration
 
 Cattle are among the most productive and versatile [[holzer-livestock-integration]] available to
 homesteaders, small farmers, and [[bill-mollison-permaculture-designers-manual]]. They convert

@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Clinical Trials of Mushroom Polysaccharides in Cancer Treatment
+## Clinical Trials of Mushroom Polysaccharides in Cancer Treatment
 
 Mushroom-derived polysaccharides have undergone extensive clinical testing, with several achieving regulatory approval as cancer therapeutics, particularly in Japan. This concept reviews the clinical trial evidence for the major mushroom polysaccharides.
 

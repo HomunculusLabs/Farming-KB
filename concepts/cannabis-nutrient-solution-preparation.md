@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Nutrient Solution Preparation
+## Cannabis Nutrient Solution Preparation
 
 ## Overview
 

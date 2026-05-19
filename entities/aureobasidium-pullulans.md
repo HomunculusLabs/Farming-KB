@@ -14,7 +14,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Taxonomy
+## Taxonomy
 
 Aureobasidium pullulans (de Bary) G. Arnaud is a yeast-like
 fungus
@@ -39,7 +39,7 @@ the capacity of this species to bridge aboveground and
 belowground
 fungal networks.
 
-# Pollution and Radiation Tolerance
+## Pollution and Radiation Tolerance
 
 One of the most striking characteristics of Aureobasidium
 pullulans

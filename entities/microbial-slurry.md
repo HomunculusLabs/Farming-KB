@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Microbial Slurry
+## Microbial Slurry
 
 ## Description
 A microbial slurry is a liquid suspension of beneficial soil microbes prepared for application to [[casing-soil]] in order to induce or enhance fruitbody formation in mushroom species that require microbial partnerships. The slurry is typically derived from soil samples collected at the stem base of wild or cultivated mushrooms.

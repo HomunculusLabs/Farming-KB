@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Biological Pest Control - Predators and Parasites
+## Biological Pest Control - Predators and Parasites
 
 Biological controls use [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management (IPM), emphasizing that
 predators work best as preventative control but are slower to stop an active

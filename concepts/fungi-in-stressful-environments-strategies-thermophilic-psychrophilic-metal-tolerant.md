@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungi in Stressful Environments
+## Fungi in Stressful Environments
 
 ## Chapter 14 Introduction — Ecological Strategies
 

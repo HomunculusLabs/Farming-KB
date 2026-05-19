@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# How Does Soil Naturally Transition from Bacterial to Fungal Dominance?
+## How Does Soil Naturally Transition from Bacterial to Fungal Dominance?
 
 ## Short Answer
 

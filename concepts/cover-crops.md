@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cover Crops
+## Cover Crops
 
 Cover crops, also called [[decomposition]] and avoid nitrogen tie-up from immature material.
 

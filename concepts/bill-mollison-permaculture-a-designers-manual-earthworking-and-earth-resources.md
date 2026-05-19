@@ -7,7 +7,7 @@ tags: [permaculture, earthworks, swales, dams, terraces, keyline, soil, water co
 created: 2026-05-11
 ---
 
-# Earthworking and Earth Resources in Permaculture
+## Earthworking and Earth Resources in Permaculture
 
 ## Overview
 

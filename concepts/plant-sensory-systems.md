@@ -14,7 +14,7 @@ created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Plant Sensory Systems
+## Plant Sensory Systems
 
 Plants possess a remarkable array of [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] radiation. Their light-sensing capabilities enable phototropism (growing toward light), shade avoidance, photoperiodic flowering, seed germination decisions, and circadian rhythm entrainment.
 

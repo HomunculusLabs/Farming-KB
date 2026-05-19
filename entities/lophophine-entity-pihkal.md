@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# LOPHOPHINE
+## LOPHOPHINE
 
 [[mescaline]], but
 > without any visual distortion. Mild enhancement of color perception,

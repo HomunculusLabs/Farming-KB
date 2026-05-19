@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungal Phylogeny and Classification
+## Fungal Phylogeny and Classification
 
 The classification of fungi has undergone revolutionary changes driven by molecular phylogenetics. A key finding of the past three decades is that "fungi" as traditionally conceived are **polyphyletic** — their morphological similarities are the result of convergent evolution from multiple independent eukaryotic lineages. True fungi form a well-supported monophyletic group most closely related to animals, not plants.
 

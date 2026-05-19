@@ -5,7 +5,7 @@ type: entity
 tags: [person, mycologist, basidiomycete, decomposition, ecology, researcher]
 ---
 
-# Lynne Boddy
+## Lynne Boddy
 
 ## Description
 

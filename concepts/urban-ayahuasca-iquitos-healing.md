@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
 ---
-# Urban Ayahuasca Healing in Iquitos
+## Urban Ayahuasca Healing in Iquitos
 
 Marlene Dobkin de Rios documented the practice of urban ayahuasca curing in the eastern Peruvian city of Iquitos, focusing on the slum district of Belén. Her work, published in [[ayahuasca-preparation-and-ceremony]]
 [[mazatec-mushroom-culture-and-velada]]
@@ -29,7 +29,7 @@ Beyer, S. V. (2010). Singing to the Plants: A Guide to Mestizo Shamanism in the 
 
 ## Merged: Transcendent Other
 
-# Transcendent Other
+## Transcendent Other
 
 The "Transcendent Other" is Terence McKenna's term for the ontologically autonomous, seemingly intelligent presence encountered during high-dose [[hofmann-lsd-clinical-research-early-studies]].
 

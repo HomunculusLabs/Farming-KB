@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Ginseng vs Ashwagandha
+## Ginseng vs Ashwagandha
 
 ## Overview
 

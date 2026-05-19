@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Chlorinated Aromatic Compound Degradation
+## Fungal Chlorinated Aromatic Compound Degradation
 
 ## Overview
 

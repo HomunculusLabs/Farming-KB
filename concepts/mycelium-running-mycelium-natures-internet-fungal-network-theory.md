@@ -4,7 +4,7 @@ source: woodlovers-mycelium-running-pathway-technique (Stamets, 2005)
 tags: [mycology, mycorestoration, fungal-networks, gaia-hypothesis, evolution, mycelium]
 ---
 
-# Mycelium as Nature's Internet
+## Mycelium as Nature's Internet
 
 ## Overview
 

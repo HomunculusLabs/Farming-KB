@@ -24,7 +24,7 @@ updated: 2026-05-02
 tags: [profile]
 ---
 
-# L-Ornithine
+## L-Ornithine
 
 ## Overview
 

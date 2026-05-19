@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Cannabis Pest and Disease Identification
+## Cannabis Pest and Disease Identification
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[stamets-growing-room-air-circulation-co2-management]] and ventilation
 - Keep [[cervantes-spider-mites-identification-control]] find it difficult to live in an environment constantly bombarded by air currents.

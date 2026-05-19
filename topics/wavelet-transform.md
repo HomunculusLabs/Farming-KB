@@ -5,7 +5,7 @@ tags: [signal-processing, mathematics, data-analysis, compression, time-frequenc
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/wavelet-transform.md
+  - raw/concepts/wavelet-transform.md
 related_concepts:
   - wavelet-transform
   - kalman-filter
@@ -13,7 +13,7 @@ related_concepts:
   - signal-processing
   - multiresolution-analysis
 ---
-# Wavelet Transform
+## Wavelet Transform
 The wavelet transform is a family of mathematical techniques for representing data at multiple scales.
 It analyzes a signal by comparing it with short oscillatory functions known as wavelets.
 Each wavelet is shifted across the signal and stretched or compressed to examine different levels of detail.

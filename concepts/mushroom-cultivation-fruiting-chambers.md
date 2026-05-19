@@ -7,7 +7,7 @@ tags: [mushroom-cultivation, fruiting-chamber, humidity, temperature, fungi, myc
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
-# Mushroom Cultivation - Fruiting Chambers
+## Mushroom Cultivation - Fruiting Chambers
 
 A fruiting chamber (growing room) is a controlled environment designed to provide the specific conditions mushrooms need to initiate and develop fruitbodies. The three critical environmental parameters are humidity, fresh air exchange, and temperature.
 

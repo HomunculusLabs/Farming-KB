@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Fertilisation and Shelter
+## Pond Fertilisation and Shelter
 
 Fertilisation and the provision of shelter are two of the most powerful levers available to the pond manager for increasing yields. Modest fertiliser inputs can multiply production by factors of 2 to 10, while well-designed refuges reduce predation losses of young fish and crustaceans by 10–100%. Together, these strategies transform basic pond systems into highly productive polycultures.
 

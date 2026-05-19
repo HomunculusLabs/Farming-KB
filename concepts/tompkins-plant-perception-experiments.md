@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Plant Perception Experiments
+## Plant Perception Experiments
 
 ## The Backster Effect
 

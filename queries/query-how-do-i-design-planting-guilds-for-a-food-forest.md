@@ -21,7 +21,7 @@ sources:
 type: query
 ---
 
-# How Do I Design Planting Guilds for a [[dynamic-accumulators]]**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
+## How Do I Design Planting Guilds for a [[dynamic-accumulators]]**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
 - **Insectary plants**: Flowers that attract pollinators and predatory insects
 - **[[permaculture-plants-root-crops-and-tubers]]**: Plants that occupy different soil horizons to reduce competition
 - **Mulch producers**: Plants that generate biomass for [[caragana-arborescens]]

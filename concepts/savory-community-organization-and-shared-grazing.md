@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Community Organization and Shared Grazing
+## Community Organization and Shared Grazing
 
 The application of [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 

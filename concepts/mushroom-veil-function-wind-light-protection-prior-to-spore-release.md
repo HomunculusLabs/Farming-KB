@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Mushroom Veil Function as Wind and Light Protection Before Spore Release
+## Mushroom Veil Function as Wind and Light Protection Before Spore Release
 
 ## Overview
 

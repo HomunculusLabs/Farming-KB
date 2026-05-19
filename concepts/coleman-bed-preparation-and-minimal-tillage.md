@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Bed Preparation and Minimal Tillage
+## Bed Preparation and Minimal Tillage
 
 [[cannabis-rhizosphere-microbial-communities]]. The
 broadfork is used to aerate soil between succession crops, maintaining

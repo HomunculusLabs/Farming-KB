@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Dollar Spot (Lawn Disease)
+## Dollar Spot (Lawn Disease)
 
 ## Description
 

@@ -14,7 +14,7 @@ tags:
 created: 2026-05-11
 ---
 
-# Nitrogen as the Strongest Edaphic Factor Structuring Cannabis Microbial Communities
+## Nitrogen as the Strongest Edaphic Factor Structuring Cannabis Microbial Communities
 
 ## Overview
 

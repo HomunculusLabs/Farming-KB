@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, ectomycorrhizal, basidiomycota, mycorrhizae]
 ---
 
-# Hebeloma spoliatum
+## Hebeloma spoliatum
 
 ## Description
 

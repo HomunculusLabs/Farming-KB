@@ -7,7 +7,7 @@ tags: [cultivation, mycology]
 sources:
   - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
-# Deep Bed Cultivation
+## Deep Bed Cultivation
 
 Deep bed cultivation is a core technique in [[comparison-crop-rotation-vs-cover-cropping]] is still practiced across the garden as a whole, individual beds can be managed intensively.
 

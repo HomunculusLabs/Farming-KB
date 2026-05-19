@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Canary Island Tree Lucerne (Chamaecytisus proliferus)
+## Canary Island Tree Lucerne (Chamaecytisus proliferus)
 
 ## Description
 

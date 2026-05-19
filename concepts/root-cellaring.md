@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Root Cellaring
+## Root Cellaring
 
 Root cellaring is the practice of storing fresh vegetables and fruit in living condition for many months without any processing or energy input beyond what the earth provides. In cold-winter climates, it's possible to have the makings for a fresh salad in the cellar throughout the winter — eating bins of [[growing-root-vegetables-guide]], your own cabbage, Brussels sprouts still on the stalk in midwinter, or sprouting your own Belgian endive (an expensive delicacy).
 

@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Debris Fields and Ecological Succession
+## Mushroom Debris Fields and Ecological Succession
 
 Debris fields are landscapes created by catastrophic events such as forest
 clear-cutting, storms, fires, landslides, or human construction activity.

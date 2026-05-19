@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Alzheimer's Disease
+## Cannabis and Alzheimer's Disease
 
 ## Overview
 

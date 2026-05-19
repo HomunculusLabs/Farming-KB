@@ -5,7 +5,7 @@ author: nicholas-money
 topics: [fungal-antibiotics, nitrogen-acquisition, mycology, ecological-competition, bacterial-predation]
 ---
 
-# Fungal Antibiotics as Territorial Warfare and Nitrogen Acquisition
+## Fungal Antibiotics as Territorial Warfare and Nitrogen Acquisition
 
 The conventional view of fungal antibiotics as fortuitous compounds
 discovered for human medicine obscures their true [[gadd-fungal-nutrition-metabolism]]

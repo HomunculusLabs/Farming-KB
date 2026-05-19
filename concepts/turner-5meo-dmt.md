@@ -8,7 +8,7 @@ tags: [psychedelics, 5-MeO-DMT, tryptamine, MAO-inhibitor, dosage, endogenous]
 updated: 2026-04-26
 ---
 
-# 5-MeO-DMT
+## 5-MeO-DMT
 
 > Derived from the DMT chapter of The Essential Psychedelics Guide. Intensity: 9 to 10.
 

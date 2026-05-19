@@ -5,7 +5,7 @@ tags: [food-philosophy, natural-diet, agriculture, health, geopolitics]
 created: 2026-05-11
 ---
 
-# Fukuoka's Natural Diet and Food Philosophy
+## Fukuoka's Natural Diet and Food Philosophy
 
 ## Overview
 

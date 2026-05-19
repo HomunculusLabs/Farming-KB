@@ -33,7 +33,7 @@ related_concepts:
   - solomon-soil-mineral-depletion
 ---
 
-# Soil Testing and Fertility Planning
+## Soil Testing and Fertility Planning
 
 Soil testing is the practice of translating a living, mineral, and
 chemical system into numbers that can guide fertility decisions. A

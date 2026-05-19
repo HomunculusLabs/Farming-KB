@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Heavy Metals and Fungi in Aquatic, Marine, and Lichen Communities
+## Heavy Metals and Fungi in Aquatic, Marine, and Lichen Communities
 
 ## Overview
 

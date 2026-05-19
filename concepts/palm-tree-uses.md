@@ -7,7 +7,7 @@ tags: [trees, permaculture, plant-catalog, species, plants, multi-function, fora
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-# Palm Tree Uses
+## Palm Tree Uses
 
 A comprehensive catalog of palms with utility to humans, from the family Arecaceae (Palmaeae). Most palms are fire tolerant and useful in bee forage systems. This list covers edible fruits, oils, saps for sugar and wine, building materials, thatch, fibres, and other products.
 

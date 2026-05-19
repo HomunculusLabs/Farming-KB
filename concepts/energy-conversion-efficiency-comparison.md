@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Energy Conversion Efficiency Comparison
+## Energy Conversion Efficiency Comparison
 
 Understanding the conversion efficiency of various energy devices and systems is essential for making informed decisions about village-scale energy production. Mollison compiled comparative data from multiple sources to help [[permaculture]] designers evaluate technologies not just by their mechanical efficiency, but by their appropriateness, pollution profile, social acceptability, and local maintainability.
 

@@ -5,7 +5,7 @@ source: Winston et al. (2014) "Understanding Cultivar-Specificity and Soil Deter
 tags: [microbiology, cannabis, cannabinoids, endorhiza, plant-secondary-metabolites]
 ---
 
-# Cannabinoid-Microbiome Interactions
+## Cannabinoid-Microbiome Interactions
 
 Cannabinoid-microbiome interactions refer to the bidirectional relationships between the cannabinoid compounds produced by Cannabis plants and the bacterial communities inhabiting their root systems. Research by Winston et al. (2014) provided the first evidence that cannabinoid profiles are significantly correlated with the structure of Cannabis [[antifungal-secondary-metabolites-coprophilous-fungi]] shape and are shaped by the root microbiome.
 

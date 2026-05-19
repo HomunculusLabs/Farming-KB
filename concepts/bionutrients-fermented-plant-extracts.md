@@ -4,7 +4,7 @@ source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---
 
-# Bionutrients and [[korean-natural-farming]] (KNF) and Philippine natural farming traditions.
+## Bionutrients and [[korean-natural-farming]] (KNF) and Philippine natural farming traditions.
 
 ## Fermentation vs. Simple Extraction
 

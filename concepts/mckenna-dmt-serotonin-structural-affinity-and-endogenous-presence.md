@@ -6,7 +6,7 @@ tags: [psychedelics, dmt, serotonin, neurochemistry, endogenous, mckenna, trypta
 created: 2026-05-09
 ---
 
-# DMT-Serotonin Structural Affinity and the Endogenous Hallucinogen Hypothesis
+## DMT-Serotonin Structural Affinity and the Endogenous Hallucinogen Hypothesis
 
 ## Overview
 

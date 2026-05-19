@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Mexico as Northern-Southern Mycobiotic Convergence Zone
+## Mexico as Northern-Southern Mycobiotic Convergence Zone
 
 ## Overview
 

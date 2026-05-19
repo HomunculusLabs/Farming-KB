@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Ventilation Fan Setup and Carbon Filters
+## Ventilation Fan Setup and Carbon Filters
 
 Proper [[cervantes-vegetative-phase]]
 rooms.

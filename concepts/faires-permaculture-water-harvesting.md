@@ -8,7 +8,7 @@ type: concept
 tags: [culture, harvesting, permaculture, water]
 ---
 
-# Permaculture Water Harvesting Strategies
+## Permaculture Water Harvesting Strategies
 
 Permaculture water harvesting captures, stores, and directs water across a property using gravity, terrain, and [[cervantes-green-algae-growing-medium]] will grow on tank sides — this is beneficial as it helps clean the water. The outlet pipe should be 3 inches above the bottom so algae remain undisturbed.
 

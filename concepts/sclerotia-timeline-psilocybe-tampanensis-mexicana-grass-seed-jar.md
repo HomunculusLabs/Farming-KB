@@ -1,5 +1,10 @@
+---
+title: "Sclerotia Timeline Psilocybe Tampanensis Mexicana Grass Seed Jar"
+tags:
+  - concept
+---
 
-# Sclerotia Production Timeline for *Psilocybe tampanensis* and *P. mexicana* on Grass Seed Jars
+## Sclerotia Production Timeline for *Psilocybe tampanensis* and *P. mexicana* on Grass Seed Jars
 
 ## Overview
 
@@ -143,4 +148,3 @@ resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
 conditions. Integration with other system elements enhances
 overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.

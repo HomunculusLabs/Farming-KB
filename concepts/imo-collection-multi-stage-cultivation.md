@@ -8,7 +8,7 @@ sources: [master-cho-knf-recipe-book.md]
 type: concept
 ---
 
-# IMO Collection and Multi-Stage Cultivation
+## IMO Collection and Multi-Stage Cultivation
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainabl
 type: concept
 ---
 
-# Hugelkultur Mounded Garden Beds
+## Hugelkultur Mounded Garden Beds
 
 Hugelkultur is a method of burying old wood in the ground under a garden bed. It
 is a very old strategy that patterns the exact processes of the forest and lends

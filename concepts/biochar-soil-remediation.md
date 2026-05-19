@@ -6,7 +6,7 @@ type: concept
 tags: [remediation, environment]
 sources: []
 ---
-# Biochar for Soil Remediation
+## Biochar for Soil Remediation
 
 Biochar is a carbon-rich, porous material produced through the pyrolysis (thermal decomposition in limited oxygen) of biomass including wood, crop residues, manure, and other organic feedstocks. When applied to contaminated soil, biochar can immobilize heavy metals, degrade organic pollutants, improve soil quality, and support plant growth, making it a valuable amendment for soil remediation.
 

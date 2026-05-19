@@ -8,7 +8,7 @@ type: concept
 tags: [gardening, natural-farming]
 ---
 
-# Raised Bed and Intensive Gardening
+## Raised Bed and Intensive Gardening
 
 [[natural-farming-guide-composting-methods-and-techniques]]
 

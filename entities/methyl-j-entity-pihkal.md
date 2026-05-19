@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# METHYL-J
+## METHYL-J
 
 [[qualitative-comments-methodology-pihkal]]
 - [[pihkal-qualitative-effects-themes]]

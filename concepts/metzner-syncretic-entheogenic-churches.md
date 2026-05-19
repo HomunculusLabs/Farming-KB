@@ -6,7 +6,7 @@ source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 created: 2026-05-09
 ---
 
-# Syncretic Entheogenic Churches
+## Syncretic Entheogenic Churches
 
 [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] ceremonies as a third paradigm
 for entheogenic use, distinct from both Western psychotherapy and classical

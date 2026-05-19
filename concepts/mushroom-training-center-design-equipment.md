@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Training Center Design and Equipment
+## Mushroom Training Center Design and Equipment
 
 A mushroom cultivation training center requires careful physical planning to support both
 hands-on training and commercial production. This page covers the layout, buildings,

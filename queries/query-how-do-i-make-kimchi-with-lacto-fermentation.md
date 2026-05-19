@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How do I make kimchi with lacto-fermentation?
+## How do I make kimchi with lacto-fermentation?
 
 ## Short Answer
 

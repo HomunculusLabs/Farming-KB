@@ -5,7 +5,7 @@ tags: [fukuoka, natural-farming, pesticides, spiders, fireflies, dragonflies, ri
 created: 2026-05-11
 ---
 
-# Pesticide Carnage: The Destruction of Spiders, Fireflies, and Beneficial Insects in Rice Fields
+## Pesticide Carnage: The Destruction of Spiders, Fireflies, and Beneficial Insects in Rice Fields
 
 Fukuoka offers one of the most vivid and damning accounts of pesticide
 application ever written in agricultural literature. His description of what

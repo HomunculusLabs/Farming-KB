@@ -5,10 +5,10 @@ type: species
 tags: permaculture, food-forest, drought-tolerant, leguminous, mediterranean]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
+sources: ["raw/papers/a-selection-permaculture-plants.md"]
 ---
 
-# Ceratonia siliqua
+## Ceratonia siliqua
 
 Ceratonia siliqua, commonly known as the [[blesching-cannabis-safety-adverse-effects-evidence]]. In times of scarcity,
 carob pods have served as a famine food for human populations, as they store well for

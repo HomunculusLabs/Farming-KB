@@ -7,7 +7,7 @@ tags: [reference]
 sources: ["raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md", "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Acid Mine Drainage Passive Treatment
+## Acid Mine Drainage Passive Treatment
 
 Acid mine drainage (AMD) is acidic, metal-rich water generated when sulfide minerals, primarily pyrite (FeS2), are exposed to oxygen and water during mining operations.
 

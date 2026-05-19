@@ -21,7 +21,7 @@ summary: >
   without cultivation, fertilizer, or pesticides.
 ---
 
-# Fukuoka's Natural Garden and Backyard Food Production
+## Fukuoka's Natural Garden and Backyard Food Production
 
 ## The Natural Home Garden
 

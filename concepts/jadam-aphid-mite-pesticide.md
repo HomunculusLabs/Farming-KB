@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Aphid and Mite Pesticide (JADAM Recipe #6)
+## Aphid and Mite Pesticide (JADAM Recipe #6)
 
 **Updated:** 2026-04-18
 **Source:** JADAM [[jadam-herb-solution-jhs]]. This is a versatile recipe with multiple herb substitution options and the ability to add [[comparison-jerusalem-artichoke-vs-potato]] [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]

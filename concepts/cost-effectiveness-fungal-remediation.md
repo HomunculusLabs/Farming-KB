@@ -6,7 +6,7 @@ type: concept
 tags: [remediation, environment]
 sources: []
 ---
-# Cost-Effectiveness of Fungal Remediation Technologies
+## Cost-Effectiveness of Fungal Remediation Technologies
 
 The economic viability of fungal bioremediation relative to conventional treatment technologies is a critical factor determining its adoption for environmental cleanup. While laboratory results demonstrate impressive pollutant degradation capabilities, the economic analysis must account for the full costs of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of contaminant concentrations, and enzyme activity monitoring are necessary for process control and regulatory compliance.
 

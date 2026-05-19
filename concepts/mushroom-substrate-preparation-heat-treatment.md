@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, substrate, pasteurization, sterilization]
 created: 2026-05-11
 ---
 
-# Mushroom Substrate Preparation and Heat Treatment
+## Mushroom Substrate Preparation and Heat Treatment
 
 ## Overview
 

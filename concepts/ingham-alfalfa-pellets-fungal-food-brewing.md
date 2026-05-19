@@ -1,35 +1,35 @@
-     1|---
-     2|source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
-     3|source_type: paper
-     4|topics: [aact, brewing, fungal-food, alfalfa, molasses, nutrients,
-     5|  triacontanol, C:N-ratio, protein-meal]
-     6|---
-     7|
-     8|# Alfalfa Pellets as Fungal Food in AACT Brewing
-     9|
-    10|## Summary
-    11|
-    12|Alfalfa pellets and flaked alfalfa meal serve as versatile food resources
-    13|in [[cannabis-cultivar-microbial-community-effects]] in the brew. (see [[ingham-molasses-types-brewing-effects]]).
-    28|
-    29|The C:N ratio of alfalfa pellets is approximately 12:1 to 20:1 depending
-    30|on the source and processing method. This places it in a range that
-    31|supports robust bacterial activity while also providing substrates that
-    32|select for certain fungal species. This moderate C:N ratio makes it a
-    33|useful intermediate food resource when you want both [[ingham-carbon-nitrogen-ratios-compost-tea]]).
-    51|
-    52|In different conditions, the relative selection pressure may differ. (see [[biodiversity-fungi-soil-fungal-communities]].
-    63|
-    64|If your goal is to maximize fungal biomass for a perennial crop or a
-    65|disease-susceptible plant, you would want to supplement alfalfa with
-    66|stronger fungal foods like humic acids or fish hydrolysate. Ingham notes
-    67|that protein meals including corn, oat, soy, and barley "work well" as
-    68|fungal foods in the brew, and that these can be combined with alfalfa
-    69|for complementary effects.
-    70|
-    71|## Triacontanol and [[fungal-elicitors-enhanced-secondary-metabolite-production]] profile found in alfalfa. Cottonseed meal,
-    89|while sometimes more effective for fungal selection, also does not
-    90|contain the same growth-regulating compounds.
+---
+source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+source_type: paper
+topics: [aact, brewing, fungal-food, alfalfa, molasses, nutrients,
+  triacontanol, C:N-ratio, protein-meal]
+---
+
+## Alfalfa Pellets as Fungal Food in AACT Brewing
+
+## Summary
+
+Alfalfa pellets and flaked alfalfa meal serve as versatile food resources
+in [[cannabis-cultivar-microbial-community-effects]] in the brew. (see [[ingham-molasses-types-brewing-effects]]).
+
+The C:N ratio of alfalfa pellets is approximately 12:1 to 20:1 depending
+on the source and processing method. This places it in a range that
+supports robust bacterial activity while also providing substrates that
+select for certain fungal species. This moderate C:N ratio makes it a
+useful intermediate food resource when you want both [[ingham-carbon-nitrogen-ratios-compost-tea]]).
+
+In different conditions, the relative selection pressure may differ. (see [[biodiversity-fungi-soil-fungal-communities]].
+
+If your goal is to maximize fungal biomass for a perennial crop or a
+disease-susceptible plant, you would want to supplement alfalfa with
+stronger fungal foods like humic acids or fish hydrolysate. Ingham notes
+that protein meals including corn, oat, soy, and barley "work well" as
+fungal foods in the brew, and that these can be combined with alfalfa
+for complementary effects.
+
+## Triacontanol and [[fungal-elicitors-enhanced-secondary-metabolite-production]] profile found in alfalfa. Cottonseed meal,
+while sometimes more effective for fungal selection, also does not
+contain the same growth-regulating compounds.
 
 ## Practical Applications
 

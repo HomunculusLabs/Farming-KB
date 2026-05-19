@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Soul Retrieval — The Mechanism of Fright and Recovery
+## Mazatec Soul Retrieval — The Mechanism of Fright and Recovery
 
 ## Overview
 

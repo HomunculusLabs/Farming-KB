@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/shulgin-a-tihkal.md"
 ---
 
-# Safrole
+## Safrole
 
 Safrole (4-allyl-1,2-methylenedioxybenzene) is a naturally occurring
 phenylpropanoid compound and the principal component of sassafras oil.

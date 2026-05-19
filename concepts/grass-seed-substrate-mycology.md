@@ -9,7 +9,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_
 created: 2026-05-10
 ---
 
-# Grass Seed Substrate for Fungal Cultivation
+## Grass Seed Substrate for Fungal Cultivation
 
 ## Overview
 

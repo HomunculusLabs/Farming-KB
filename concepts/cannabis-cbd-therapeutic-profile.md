@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, pharmacology]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# CBD Therapeutic Profile
+## CBD Therapeutic Profile
 
 Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has emerged as a therapeutic agent distinct from THC. Unlike THC, CBD is non-psychoactive, non-addictive, and has an excellent safety profile.
 

@@ -22,7 +22,7 @@ sources:
 - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Toby Hemenway
+## Toby Hemenway
 
 American permaculture designer, teacher, and author of Gaia's Garden: A Guide to Home-Scale Permaculture (2001, 2nd ed. 2009), the best-selling permaculture book in North America. Hemenway made permaculture accessible to suburban and urban gardeners, translating the often rural and broadscale focus of Mollison and Holmgren into practical home-garden design.
 

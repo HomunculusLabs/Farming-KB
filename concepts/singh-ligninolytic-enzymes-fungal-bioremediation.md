@@ -7,7 +7,7 @@ tags: [mycoremediation, biology, pollution, microbes]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh Ligninolytic Enzymes in Fungal Bioremediation
+## Singh Ligninolytic Enzymes in Fungal Bioremediation
 #mycoremediation #enzymology #white-rot-fungi #biodegradation #lignin
 
 Updated: 2026-04-18

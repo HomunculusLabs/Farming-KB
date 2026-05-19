@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Psilocybin Mushrooms in Mesoamerican Civilization
+## Psilocybin Mushrooms in Mesoamerican Civilization
 
 The psilocybin mushroom complex of Mesoamerica represents one of the longest continuous traditions of human hallucinogen use, with shamanic practices dating back at least three millennia. In *Food of the Gods*, McKenna argues that these mushrooms "almost certainly played a major role in the religion of the Mayan and Toltec civilizations" and that their discovery and characterization in the 20th century triggered the modern psychedelic era.
 

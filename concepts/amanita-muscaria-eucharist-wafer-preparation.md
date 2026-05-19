@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria Eucharist Wafer Preparation
+## Amanita Muscaria Eucharist Wafer Preparation
 
 The Eucharist wafer preparation is a method of creating shelf-stable, portable sacrament from dried [[amanita-muscaria-ambrosia-preparation]] or [[muscimol-and-amanita-muscaria]] throughout its structure.
 

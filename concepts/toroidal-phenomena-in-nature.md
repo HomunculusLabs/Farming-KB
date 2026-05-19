@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Toroidal Phenomena in Nature
+## Toroidal Phenomena in Nature
 
 ## Overview
 

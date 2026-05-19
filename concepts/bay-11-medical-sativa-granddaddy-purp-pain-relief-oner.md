@@ -1,4 +1,8 @@
-# Bay 11 — Award-Winning Medical Sativa from Granddaddy Purp Genetics
+---
+title: "Bay 11 — Award-Winning Medical Sativa from Granddaddy Purp Genetics"
+tags:
+  - concept
+---
 
 **Source:** S.T. Oner, *[[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] from the [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] can match. These yields explain why Oner describes the figures as bringing him "out in a sweat."
 

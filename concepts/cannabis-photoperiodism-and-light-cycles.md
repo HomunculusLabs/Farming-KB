@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Photoperiodism and Light Cycles
+## Cannabis Photoperiodism and Light Cycles
 
 Photoperiodism is the physiological response of cannabis plants to the duration of light and dark periods in each 24-hour cycle. This response is the primary mechanism controlling the transition from vegetative growth to flowering in photoperiod-sensitive cannabis varieties, and understanding it is essential for successful cultivation.
 

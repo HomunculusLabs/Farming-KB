@@ -13,7 +13,7 @@ related_concepts:
   - carbon-farming-and-climate-resilient-agriculture
 ---
 
-# Uncommon and Specialty Fruit Crops for Permaculture
+## Uncommon and Specialty Fruit Crops for Permaculture
 
 Most fruit growers concentrate on apples, peaches, plums, and berries from the
 supermarket aisle. Permaculture systems, however, thrive on diversity. The

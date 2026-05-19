@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Climate Adaptation and Growing Seasons
+## Climate Adaptation and Growing Seasons
 
 The [[jeavons-shade-netting-mini-greenhouses]];
   cold periods need [[hamilton-cold-frames-and-hardening-off]] and mini-

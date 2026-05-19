@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# No-Till Grain Growing Methods
+## No-Till Grain Growing Methods
 
 The Fukuoka no-till grain system grows grain and legumes together continuously without plowing, fertilizing, or weeding. A farmer eating a 2,000-calorie diet can produce 1,300 pounds (590 kg) of rice (22 bushels) on a [[soil-conditioning-chisel-plow-biological-methods]] the first year if soil is extremely compacted
 3. Spread lime or dolomite and thin layer of chicken manure, water in

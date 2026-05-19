@@ -7,7 +7,7 @@ type: concept
 tags: [aact, disease-suppression, fusarium, rhizoctonia, anthracnose, soil-food-web, fungal-pathogens, compost-tea, ingham]
 ---
 
-# AACT Fungal Disease Suppression — Fusarium, Rhizoctonia, and Anthracnose
+## AACT Fungal Disease Suppression — Fusarium, Rhizoctonia, and Anthracnose
 
 ## Overview
 

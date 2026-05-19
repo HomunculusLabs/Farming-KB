@@ -7,7 +7,7 @@ tags: [permaculture, earthworks, water-management, swales, design, ecological-de
 sources: []
 ---
 
-# Permaculture Earthworks
+## Permaculture Earthworks
 
 Earthworks are the physical reshaping of land to manage water, control erosion, create growing space, and passively irrigate landscapes. In permaculture design, earthworks are typically the first major physical intervention on a site because they establish the water infrastructure that everything else depends on. Well-designed earthworks can transform degraded land into productive, resilient systems.
 

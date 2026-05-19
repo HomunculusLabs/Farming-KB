@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, mulch]
 ---
 
-# Winter Grain Growing in Straw Mulch
+## Winter Grain Growing in Straw Mulch
 
 ## The Rice/Barley Cropping Tradition
 

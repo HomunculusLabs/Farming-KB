@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Farming Invertebrates for Fish Food
+## Farming Invertebrates for Fish Food
 
 The cost of fish food is the dominant ongoing expense in aquaculture, typically accounting for 60–70% of total production costs in intensive systems. By cultivating invertebrate protein sources on-site or collecting them from adjacent land systems, fish farmers can achieve dramatic cost savings while producing higher-quality fish. The concept of the **food quotient (FQ)**—the weight of food given divided by the weight of fish gained—reveals why insect-based feeds are so valuable: insect larvae have an FQ of 1.8, compared with 48 for guinea grass, meaning insects convert to fish flesh roughly 27 times more efficiently than fibrous plant material.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Health Risks
+## Hallucinogenic Mushroom Health Risks
 
 ## Overview
 

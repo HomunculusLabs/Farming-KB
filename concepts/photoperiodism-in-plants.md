@@ -5,7 +5,7 @@ source: Chamovitz (2012) "What a Plant Knows"; Garner & Allard (1920)
 tags: [botany, photoperiodism, phytochrome, plant-physiology, flowering]
 ---
 
-# Photoperiodism in Plants
+## Photoperiodism in Plants
 
 Photoperiodism is the physiological response of plants to the relative lengths of light and dark periods. It is one of the most important environmental cues governing plant development, particularly the transition from vegetative growth to flowering. The [[mollison-designers-day-length-and-flowering-response]] to day length:
 

@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, processing, methods, troubleshooting]
 sources: []
 ---
 
-# Mushroom Drying and Storage
+## Mushroom Drying and Storage
 
 Proper drying and storage are essential for preserving mushroom potency, flavor, and [[cotter-mushroom-nutrition-medicinal-compounds]]. Fresh mushrooms degrade rapidly — enzymes continue to metabolize active compounds within hours of harvest. Dehydration halts this process and enables long-term storage.
 

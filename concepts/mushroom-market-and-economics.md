@@ -14,7 +14,7 @@ sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
-# Mushroom Market and Economics
+## Mushroom Market and Economics
 
 ## Overview
 

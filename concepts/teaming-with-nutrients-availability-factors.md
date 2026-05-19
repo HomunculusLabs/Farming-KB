@@ -7,7 +7,7 @@ tags: [soil, nutrients, ph, biology]
 sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 ---
 
-# Factors Influencing Nutrient Availability
+## Factors Influencing Nutrient Availability
 
 updated: 2026-04-18
 

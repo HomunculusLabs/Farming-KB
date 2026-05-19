@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Köppen Climate Classification and Global Atmospheric Circulation
+## Köppen Climate Classification and Global Atmospheric Circulation
 
 The **Köppen climate classification** is the most widely used system for categorizing the world's climates based on temperature and [[desert-precipitation-patterns-and-opportunistic-ecology]]. Developed by Wladimir Köppen, it provides a foundational framework for understanding global climate zones — essential for [[water-management]] strategies, building design, and settlement planning. Different crops and trees thrive only within specific climate envelopes, precipitation patterns dictate storage requirements, and thermal performance of structures depends on zone characteristics.
 

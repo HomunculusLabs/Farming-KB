@@ -8,7 +8,7 @@ sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: entity
 ---
 
-# Pholiota nameko
+## Pholiota nameko
 
 **Type:** Species
 **Category:** Basidiomycete

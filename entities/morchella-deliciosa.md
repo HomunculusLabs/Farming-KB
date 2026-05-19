@@ -17,7 +17,7 @@ sources:
   - Richard F, et al. "Morchella taxonomy and phylogeny." Fungal Biology Reviews, 2015.
 ---
 
-# Morchella deliciosa
+## Morchella deliciosa
 
 *Morchella deliciosa* is a species of **morel mushroom** in the family Morchellaceae, prized by foragers for its culinary value. It is one of several species within the *[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and [[liriodendron-tulipifera]]*)
 - **Oak** (*Quercus* spp.)

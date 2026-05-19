@@ -7,7 +7,7 @@ tags: [soil-amendment, organic, gardening, soil, compost, nutrients, npk]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Soil Conditioners Guide
+## Soil Conditioners Guide
 
 ## Overview
 

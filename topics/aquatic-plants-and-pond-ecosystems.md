@@ -38,7 +38,7 @@ related_concepts:
   - holzer-aquaculture-pond-construction
   - permaculture-duckweed
 ---
-# Aquatic Plants and Pond Ecosystems
+## Aquatic Plants and Pond Ecosystems
 Aquatic plants and pond ecosystems are freshwater systems in which water,
 sediments, plants, microbes, invertebrates, fish, waterfowl, and surrounding
 land vegetation form a single ecological unit. In gardens and farms, the same
@@ -87,4 +87,4 @@ plant growth, while full hot exposure can raise water temperature and lower
 - Duckweed. LLM Wiki concept page, 2026.
 ## Water Plant Guide
 
-# Water Plant Guide Water plants provide direct food for humans and aquatic animals, and oxygenate water. No aquatic system is complete without a range of plants. They fall into four broad groups: 1. **Submerged Plants**: Roots act only as anchors; nutrients, CO2, and oxygen transfer over the entire plant surface. Oxygen released during photosynthesis goes directly into the water, benefiting fish and aerobic bacteria. ...
+## Water Plant Guide Water plants provide direct food for humans and aquatic animals, and oxygenate water. No aquatic system is complete without a range of plants. They fall into four broad groups: 1. **Submerged Plants**: Roots act only as anchors; nutrients, CO2, and oxygen transfer over the entire plant surface. Oxygen released during photosynthesis goes directly into the water, benefiting fish and aerobic bacteria. ...

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Hedgerow and Windbreak Systems
+## Tropical Hedgerow and Windbreak Systems
 
 Tropical hedgerow and windbreak systems are deliberately designed multi-species boundary plantings that provide wind protection, soil stabilisation, forage production, [[hemenway-backyard-wildlife-habitat]], and structural materials. While hedgerow design has been a preoccupation of temperate zones since the enclosures of common lands, the rapid degradation of tropical landscapes has made pioneer hedgerow establishment a priority for tropical coasts and hill country.
 

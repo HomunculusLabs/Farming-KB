@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Endophytic Fungi — Taxonomic Status, Diversity, and Distribution Across Host Groups
+## Endophytic Fungi — Taxonomic Status, Diversity, and Distribution Across Host Groups
 
 ## Overview
 

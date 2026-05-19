@@ -4,7 +4,7 @@ source: "Food of the Gods - Terence McKenna"
 topics: [mycology, mythology, minoan-civilization, psilocybin, mushroom-symbolism, greek-mythology]
 ---
 
-# The Glaukos Myth: Blue Staining, Honey Preservation, and Mushroom Symbolism
+## The Glaukos Myth: Blue Staining, Honey Preservation, and Mushroom Symbolism
 
 ## The Myth of Glaukos
 

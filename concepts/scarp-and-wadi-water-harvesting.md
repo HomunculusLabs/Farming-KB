@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Scarp and Wadi Water Harvesting
+## Scarp and Wadi Water Harvesting
 
 ## Overview
 

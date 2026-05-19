@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: []
 type: concept
 ---
-# mushroom crop sustaining flushing watering harvesting, Flushing, Watering, and Harvesting Chapter X of The [[mushroom-growing-room-environmental-control]] — humidifiers, steam
+## mushroom crop sustaining flushing watering harvesting, Flushing, Watering, and Harvesting Chapter X of The [[mushroom-growing-room-environmental-control]] — humidifiers, steam
 injection, or evaporative pad systems, combined with proper air circulation.
 
 ## Air Movement During Cropping

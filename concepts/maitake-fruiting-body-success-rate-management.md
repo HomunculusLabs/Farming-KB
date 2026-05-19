@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Maitake Fruiting Body Success Rate and Environmental Management
+## Maitake Fruiting Body Success Rate and Environmental Management
 
 ## Overview
 

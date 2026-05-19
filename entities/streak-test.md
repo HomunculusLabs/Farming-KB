@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Streak Test
+## Streak Test
 
 ## Description
 The streak test is a diagnostic technique used to screen liquid cultures and spawn slurries for contamination by dragging a sample across a fresh agar plate and observing the resulting growth patterns.

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Legume Nitrogen Fixation Mechanism
+## Legume Nitrogen Fixation Mechanism
 
 Leguminous plants, members of the bean and pea family (Fabaceae), possess
 a remarkable ability to gather nitrogen gas from the atmosphere and

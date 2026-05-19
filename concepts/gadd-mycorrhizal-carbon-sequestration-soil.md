@@ -5,7 +5,7 @@ source_path: ~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi
 topics: mycology, mycorrhiza, carbon sequestration, soil organic matter, glomalin, fungal biomass, climate
 ---
 
-# Mycorrhizal Fungi and Soil Carbon Sequestration
+## Mycorrhizal Fungi and Soil Carbon Sequestration
 
 ## The Scale of Mycorrhizal Carbon Flow
 

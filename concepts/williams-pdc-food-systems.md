@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Food Systems in [[fukuoka-agricultural-production-net-energy-deduction]], while about forty thousand square miles are used
+## Food Systems in [[fukuoka-agricultural-production-net-energy-deduction]], while about forty thousand square miles are used
 for lawns and ornamental landscaping. Ornamental landscaping and edible
 food production can and should be one and the same. Municipal
 landscaping could be filled with fruit trees, berry bushes, and edible

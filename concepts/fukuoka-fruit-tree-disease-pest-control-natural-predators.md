@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Fruit Tree Disease and Pest Control with Natural Predators
+## Fukuoka Fruit Tree Disease and Pest Control with Natural Predators
 
 [[cho-natural-farming-philosophy]] extends directly into his approach to
 disease and pest control in fruit trees. Rather than relying on [[fukuoka-natural-orchard-development]], [[jadam-combined-pesticide-programs-jwa-js-jhs]] destroy

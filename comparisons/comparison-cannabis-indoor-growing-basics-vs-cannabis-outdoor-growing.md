@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Indoor Growing vs Outdoor Growing
+## Indoor Growing vs Outdoor Growing
 
 ## Overview
 Indoor and outdoor [[eclss-environmental-control-life-support]] and year-round production cycles, while outdoor

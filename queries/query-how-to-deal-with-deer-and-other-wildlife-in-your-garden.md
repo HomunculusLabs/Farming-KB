@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Deal with Deer and Other Wildlife in Your Garden
+## How to Deal with Deer and Other Wildlife in Your Garden
 
 ## Short Answer
 Managing deer and wildlife in the garden requires a layered approach combining

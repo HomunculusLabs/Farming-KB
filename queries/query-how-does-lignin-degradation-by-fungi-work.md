@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Lignin Degradation by Fungi Work?
+## How Does Lignin Degradation by Fungi Work?
 
 ## Short Answer
 

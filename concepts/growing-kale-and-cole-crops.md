@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Kale and Cole Crops
+## Growing Kale and Cole Crops
 
 Kale is the most vigorous and most cold-hardy of all garden brassicas — it will produce when other coles fail. Along with collards and giant kohlrabi, kale belongs to the "easy to grow" tier of brassicas. Understanding the spectrum of brassica refinement — from tough, wild kale to delicate cauliflower — is key to choosing the right cole crops for your garden and skill level.
 

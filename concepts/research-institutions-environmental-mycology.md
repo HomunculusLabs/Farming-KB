@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Research Institutions in Environmental Mycology
+## Research Institutions in Environmental Mycology
 
 The study of fungi in the environment draws on expertise from a global network of research institutions.
 The field of environmental mycology, as represented by the British Mycological Society and its 2004 symposium on "Fungi in the Environment," involves researchers spanning universities and research centers across Europe, North America, and Australasia.

@@ -17,7 +17,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 ---
 
-# Amanita Muscaria Ethnobotany
+## Amanita Muscaria Ethnobotany
 
 The ethnobotanical history of the [[fly-agaric]] mushroom (*[[amanita-muscaria]]*), from Siberian shamanism to its role in psychedelic theories about ancient religion.
 

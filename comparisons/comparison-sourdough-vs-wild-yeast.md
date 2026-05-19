@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Sourdough vs Wild Yeast Baking
+## Sourdough vs Wild Yeast Baking
 
 ## Overview
 

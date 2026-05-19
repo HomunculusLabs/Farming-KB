@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Polypore
+## Polypore
 
 ## Description
 Polypores (also known as bracket fungi or shelf fungi) are a morphological group of wood-decomposing fungi that produce fruiting bodies with a pore surface on the underside rather than gills. They are ecologically important as primary decomposers of dead wood in forest ecosystems and include many species of medicinal and commercial interest. Polypores present unique challenges for tissue culturing compared to gilled mushrooms.

@@ -5,7 +5,7 @@ sources: [guzman-allen-gartz-world-wide-distribution]
 created: 2026-05-11
 ---
 
-# Ganoderma lobatum and the Mushroom Cult of Chignahuapan
+## Ganoderma lobatum and the Mushroom Cult of Chignahuapan
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Viral Infections (General)
+## Cannabis and Viral Infections (General)
 
 ## Overview
 

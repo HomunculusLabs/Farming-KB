@@ -15,7 +15,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Haze Lineage and History
+## Haze Lineage and History
 
 The Haze family is perhaps the most celebrated and influential lineage in [[cervantes-hybrid-varieties-types]]. From coffee
 shop menus to medical dispensaries, the Haze name carries an almost mythic weight in cannabis

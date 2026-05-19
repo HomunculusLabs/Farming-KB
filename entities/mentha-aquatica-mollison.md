@@ -5,7 +5,7 @@ type: entity
 tags: [plant, aquatic, water-purification, pathogen-removal, permaculture, herb]
 ---
 
-# Mentha aquatica
+## Mentha aquatica
 
 ## Description
 

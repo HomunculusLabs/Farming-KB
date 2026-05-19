@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Is Seed Starting and When Should I Start Seeds Indoors?
+## What Is Seed Starting and When Should I Start Seeds Indoors?
 
 ## Short Answer
 Seed starting is the process of germinating seeds in a controlled

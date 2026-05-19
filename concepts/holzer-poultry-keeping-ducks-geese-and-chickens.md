@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Poultry Keeping: Ducks, Geese and Chickens
+## Holzer Poultry Keeping: Ducks, Geese and Chickens
 
 [[holzer-permaculture-landscape-design]] provides cavity nesters with hollow old trees
 - Varied nest box sizes and entrance holes prevent dominance by competitive species like great tits

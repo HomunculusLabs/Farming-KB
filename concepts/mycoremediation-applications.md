@@ -7,7 +7,7 @@ tags: [mycoforestry, mycofiltration, ecosystem, forest-restoration]
 sources: [raw/papers/fungi-magazine-fungi-and-sustainability.md]
 ---
 
-# Mycoremediation Applications and Techniques
+## Mycoremediation Applications and Techniques
 
 ## Overview
 

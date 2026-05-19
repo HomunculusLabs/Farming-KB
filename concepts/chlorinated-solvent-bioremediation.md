@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# Bioremediation of Chlorinated Solvents
+## Bioremediation of Chlorinated Solvents
 
 Chlorinated solvents are synthetic [[biostimulation-techniques]] and [[combined-biological-remediation-approaches]]
 - [[doc]]

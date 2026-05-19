@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 4 — Apply Self-Regulation and Accept Feedback
+## Permaculture Principle 4 — Apply Self-Regulation and Accept Feedback
 
 The fourth of David Holmgren's twelve permaculture design principles. This principle teaches us to discourage inappropriate activity to ensure that systems can continue to function well. Negative feedback is essential for self-regulation, while positive feedback can drive systems to destructive extremes.
 

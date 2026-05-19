@@ -7,7 +7,7 @@ tags: [korean-natural-farming, KNF, indigenous-microorganisms, IMO, fermented-pl
 aliases: [KNF-methods, cho-natural-farming, IMO-fermentation, Korean-farming-techniques]
 ---
 
-# Korean Natural Farming: IMO Collection and Fermented Plant Extracts
+## Korean Natural Farming: IMO Collection and Fermented Plant Extracts
 
 ## Overview
 

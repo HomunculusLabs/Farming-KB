@@ -7,7 +7,7 @@ tags: [mycology, medicine, mushrooms]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
-# Medicinal Mushroom Antimicrobial Properties Medicinal mushroom extracts demonstrate broad-spectrum antimicrobial activity through two complementary mechanisms: direct antibiotic action of specific secondary metabolites, and indirect immune-mediated antimicrobial effects through [[medicinal-mushroom-guide-cordyceps]] D-fraction with DMSO** — showed success in treating AIDS-associated Kaposi sarcoma
+## Medicinal Mushroom Antimicrobial Properties Medicinal mushroom extracts demonstrate broad-spectrum antimicrobial activity through two complementary mechanisms: direct antibiotic action of specific secondary metabolites, and indirect immune-mediated antimicrobial effects through [[medicinal-mushroom-guide-cordyceps]] D-fraction with DMSO** — showed success in treating AIDS-associated Kaposi sarcoma
 - **AHCC arabinoxylane derivative** — increased human NK activity 5-fold over 2 months (Ghoneum, 1998)
 - **[[medicinal-mushroom-guide-cordyceps]] extracts** — good results in treating hepatitis, particularly without severe liver impairment
 

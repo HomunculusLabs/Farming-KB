@@ -8,7 +8,7 @@ sources: ["symbiotic-fungi.md"]
 type: concept
 ---
 
-# Orchid Mycorrhiza
+## Orchid Mycorrhiza
 
 ## Definition and Overview
 

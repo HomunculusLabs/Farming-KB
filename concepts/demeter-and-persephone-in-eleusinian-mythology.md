@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
-# Demeter and Persephone in Eleusinian Mythology
+## Demeter and Persephone in Eleusinian Mythology
 
 The myth of Demeter and Persephone, narrated in full in the [[sacred-marriage-hieros-gamos-in-greek-religion]] ([[allegro-colour-and-consistency-of-the-amanita-muscaria]] associations woven into the myth. Archaeological remains from the Minoan-Mycenaean period frequently depict visionary experience encountered by women engaged in rituals involving flowers, with priestesses or goddesses appearing as idols decorated with vegetative motifs, accompanied by their serpent consort or crowned with a diadem of opium capsules.
 

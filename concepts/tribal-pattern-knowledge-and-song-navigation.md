@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Pattern Knowledge and Song Navigation
+## Tribal Pattern Knowledge and Song Navigation
 
 Indigenous peoples worldwide have developed sophisticated systems of encoding vast quantities of practical knowledge into patterns—songs, dances, visual designs, and oral traditions—that function as living encyclopedias of ecological and navigational information. These systems represent a fundamentally different epistemology from Western alphabetical and numerical recording, one based on pattern understanding rather than abstract symbols.
 

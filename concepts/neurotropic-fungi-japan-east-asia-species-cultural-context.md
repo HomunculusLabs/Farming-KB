@@ -19,7 +19,7 @@ sources:
     14: 189-280
 type: concept---
 
-# Neurotropic Fungi of Japan and East Asia Species and Cultural Context
+## Neurotropic Fungi of Japan and East Asia Species and Cultural Context
 Japan and East Asia represent a significant yet often overlooked center
 of [[cattle-dispersal-psychoactive-fungi-australia]]. Japan in particular has a remarkably rich
 neurotropic mycoflora that spans multiple genera.

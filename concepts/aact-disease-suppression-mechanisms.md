@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Disease Suppression Mechanisms
+## AACT Disease Suppression Mechanisms
 
 [[actively-aerated-compost-tea-introduction]] tea (AACT) suppresses plant disease through
 entirely **non-toxic** biological mechanisms. Unlike chemical pesticides,

@@ -20,7 +20,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Log Cultivation Methods
+## Log Cultivation Methods
 
 From Chapter 11 of *Mycelium Running* by [[paul-stamets]]. Growing mushrooms on logs and stumps is the most traditional and long-lasting cultivation method, producing for years or even decades.
 

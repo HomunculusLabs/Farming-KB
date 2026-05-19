@@ -8,7 +8,7 @@ type: concept
 tags: [mazatec, mushroom-cultivation]
 ---
 
-# Mazatec Mushroom Tradition
+## Mazatec Mushroom Tradition
 
 The Mazatec Indians of the Sierra Mazateca in Oaxaca, Mexico, maintain a
 living tradition of using psychoactive mushrooms for divination, healing, and

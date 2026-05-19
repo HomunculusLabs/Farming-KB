@@ -1,4 +1,8 @@
-# Plant Awareness, Consciousness, and the Neurobiology Debate
+---
+title: "Plant Awareness, Consciousness, and the Neurobiology Debate"
+tags:
+  - concept
+---
 
 ## Overview
 

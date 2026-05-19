@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# [[plantation-monoculture-reform|Plantation]] Forestry [[solomon-carbon-nitrogen-ratio-soil-humus-dynamics|Carbon]] Dynamics
+## [[plantation-monoculture-reform|Plantation]] Forestry [[solomon-carbon-nitrogen-ratio-soil-humus-dynamics|Carbon]] Dynamics
 
 Plantation forestry is frequently promoted as a strategy for atmospheric carbon sequestration, but the actual carbon balance of forest plantations is far more complex than simple tree-planting calculations suggest. The below-ground impacts — particularly involving mycorrhizal fungal communities, soil carbon pools, and land-use change effects — can fundamentally alter or even reverse expected carbon gains.
 

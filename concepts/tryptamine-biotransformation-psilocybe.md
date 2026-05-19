@@ -4,7 +4,7 @@ source: tryptamine-cubensis-gartz.md
 type: concept
 ---
 
-# Tryptamine Biotransformation in *Psilocybe cubensis*
+## Tryptamine Biotransformation in *Psilocybe cubensis*
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 
-# HPLC Analysis of Psilocybin and Psilocin
+## HPLC Analysis of Psilocybin and Psilocin
 
 High-performance liquid chromatography (HPLC) is the primary
 analytical method for quantifying psilocybin and psilocin levels in

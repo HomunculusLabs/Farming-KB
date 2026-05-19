@@ -21,7 +21,7 @@ sources:
 type: concept
 ---
 
-# New Guinea Sacred Fungi — Boletus, Heimiella and Russula Neurotropic Controversy
+## New Guinea Sacred Fungi — Boletus, Heimiella and Russula Neurotropic Controversy
 
 New Guinea (shared between Papua New Guinea and the Indonesian provinces of Papua) harbors one of the most unusual and controversial assemblages of [[guzman-allen-gartz-australasian-endemic-psilocybe-species]] and Copelandia species. [[neurotropic-fungi-of-mexico]] New Guinea were first brought to scientific attention through the collaborative expeditions of French mycologist **Roger Heim** and banker-ethnomycologist **R. Gordon Wasson** in the late 1950s and 1960s. Their work, published in a series of papers between 1958 and 1965, documented the use of several mushroom species by indigenous New Guinea peoples. These findings were particularly significant because they expanded the known range of [[chemical-analysis-psilocybin-mushrooms]] of these species proved problematic, and subsequent reassessments by Jonathan Ott (1993) and others have questioned the neurotropic status of several species originally reported as psychoactive.
 

@@ -9,7 +9,7 @@ type: concept
 tags: [nutrients]
 ---
 
-# Solomon Manure Types and Nutrient Values
+## Solomon Manure Types and Nutrient Values
 
 In "Gardening When It Counts," [[falconer-horse-manure-varieties]] ranges from 0.5% nitrogen upward; poultry can reach 2% but
 may be as poor as 0.5%. The same wide spread occurs for phosphorus and

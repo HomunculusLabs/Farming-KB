@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Plant Mechanosensing and Thigmomorphogenesis
+## Plant Mechanosensing and Thigmomorphogenesis
 
 Plants are intimately attuned to the mechanical forces in their environment.
 Far from being passive organisms, plants continuously sense touch, wind,

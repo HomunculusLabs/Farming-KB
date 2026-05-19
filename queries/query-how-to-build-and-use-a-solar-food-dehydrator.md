@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Build and Use a Solar Food Dehydrator
+## How to Build and Use a Solar Food Dehydrator
 
 ## Short Answer
 

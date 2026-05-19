@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ASB
+## ASB
 
 [[lsd]]. Some negative side seemed to be present.
 >

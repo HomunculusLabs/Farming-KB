@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms]
 sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
-# Psilocybin Mushroom Evolution
+## Psilocybin Mushroom Evolution
 
 The evolutionary questions surrounding the production of psilocybin across unrelated mushroom genera, including hypotheses about its biological function, patterns of dispersal, and the taxonomic implications of its widespread occurrence.
 

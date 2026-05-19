@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Root Disease Treatment - AACT Protocols
+## Root Disease Treatment - AACT Protocols
 
 Extracted from Elaine Ingham's AACT Field Guide, covering root disease
 suppression using [[bioremediation-fungal-biomass-biosorbent-material]] in compost

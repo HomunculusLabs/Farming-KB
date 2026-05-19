@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Proteomics of Early AM Symbiosis Stages
+## Proteomics of Early AM Symbiosis Stages
 
 ## Overview
 

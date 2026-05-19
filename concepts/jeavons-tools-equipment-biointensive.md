@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Tools and Equipment for Biointensive Gardening
+## Tools and Equipment for Biointensive Gardening
 
 The [[jeavons-double-digging-bed-preparation]], [[jeavons-seed-propagation-techniques]]
 ## Practical Applications

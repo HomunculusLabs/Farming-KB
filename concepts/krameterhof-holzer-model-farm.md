@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Krameterhof - Sepp Holzer's Model Farm
+## Krameterhof - Sepp Holzer's Model Farm
 
 updated: 2026-04-18
 

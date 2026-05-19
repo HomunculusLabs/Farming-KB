@@ -17,7 +17,7 @@ sources:
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 
-# Psychedelic Harm Reduction
+## Psychedelic Harm Reduction
 
 Evidence-based safety practices for psychedelic use, including substance testing, dosage guidelines, contraindications, SSRI interactions, and trip sitting principles.
 

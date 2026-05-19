@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [psilocybin, mushrooms]
 ---
 
-# Psilocybin Mushroom Legal Status Worldwide
+## Psilocybin Mushroom Legal Status Worldwide
 
 The legal status of [[psilocybe-semilanceata]] in Italy began in about 1980/1981 and had been rising steadily. At the same time, there had been no clinically relevant cases, nor any legislative action on the matter.
 

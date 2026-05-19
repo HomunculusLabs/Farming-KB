@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [law, legislation, europe, criminalization, scheduling, emcdda, drug-policy]
 ---
 
-# Legal Responses to Hallucinogenic Mushrooms in the European Union
+## Legal Responses to Hallucinogenic Mushrooms in the European Union
 
 ## Overview
 

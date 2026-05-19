@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Cob vs Adobe Construction
+## Cob vs Adobe Construction
 
 ## Overview
 Cob and adobe are two of the oldest and most accessible earth-building techniques, both using

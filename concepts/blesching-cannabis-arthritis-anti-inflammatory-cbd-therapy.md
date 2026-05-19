@@ -5,7 +5,7 @@ tags: [cannabis, cbd, anti-inflammatory, arthritis, atherosclerosis, ibd, endoca
 related: [blesching-cannabis-cardiovascular-health, anandamide-and-the-endocannabinoid-system, beta-caryophyllene-dietary-cannabinoid]
 ---
 
-# CBD Anti-Inflammatory Therapy
+## CBD Anti-Inflammatory Therapy
 
 Cannabidiol (CBD) has emerged as one of the most promising non-psychoactive
 cannabinoids for treating chronic inflammatory conditions. Sourced from

@@ -5,7 +5,7 @@ type: entity
 tags: [technique, aquaculture, agriculture, permaculture, traditional-farming]
 ---
 
-# Chinampa (Floating Garden System)
+## Chinampa (Floating Garden System)
 
 ## Description
 A chinampa is a traditional Mesoamerican agricultural system consisting of artificial islands or raised beds built on shallow lake beds, used for intensive, year-round cultivation. In [[permaculture]] literature, [[chinampas]] are cited as an exemplary model of edge-maximising design that integrates aquaculture and agriculture in a highly productive, sustainable system. The chinampa represents one of the most productive agricultural systems ever devised by humans.

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Natural Farming: The Five Principles of Masanobu Fukuoka
+## Natural Farming: The Five Principles of Masanobu Fukuoka
 
 ## Overview
 

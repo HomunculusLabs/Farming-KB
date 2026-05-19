@@ -5,7 +5,7 @@ tags: [mycology, wood-decay, white-rot, brown-rot, soft-rot, lignin, cellulose, 
 type: topic
 ---
 
-# Wood-Rot Fungi — White Rot, Brown Rot, and Decay Mechanisms
+## Wood-Rot Fungi — White Rot, Brown Rot, and Decay Mechanisms
 
 Wood-rot fungi are the primary biological agents responsible for
 decomposing woody biomass in terrestrial ecosystems. These filamentous

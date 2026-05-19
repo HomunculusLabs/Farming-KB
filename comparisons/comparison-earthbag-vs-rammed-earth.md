@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Earthbag Construction vs Rammed Earth
+## Earthbag Construction vs Rammed Earth
 
 ## Overview
 

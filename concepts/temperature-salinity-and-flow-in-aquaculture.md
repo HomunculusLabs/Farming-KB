@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Temperature, Salinity, and Flow in Aquaculture
+## Temperature, Salinity, and Flow in Aquaculture
 
 ## Overview
 

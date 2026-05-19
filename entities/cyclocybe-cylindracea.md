@@ -18,7 +18,7 @@ sources:
   - Index Fungorum. "Agrocybe cylindracea (DC.) Maire." www.indexfungorum.org.
 ---
 
-# Cyclocybe cylindracea (*Agrocybe cylindracea*)
+## Cyclocybe cylindracea (*Agrocybe cylindracea*)
 
 ## Overview
 

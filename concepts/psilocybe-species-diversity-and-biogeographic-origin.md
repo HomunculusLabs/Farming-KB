@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Species Diversity and Biogeographic Origin
+## Psilocybe Species Diversity and Biogeographic Origin
 
 ## Overview
 

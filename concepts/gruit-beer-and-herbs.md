@@ -7,7 +7,7 @@ tags: [herbalism, herbs]
 sources:
   - "raw/papers/ross-mars-permaculture-garden.md"
 ---
-# Gruit Beer and Herbs
+## Gruit Beer and Herbs
 
 Gruit (also grut) is the historical term for the mixture of herbs used to flavor and preserve beer before the widespread adoption of hops. For thousands of years before hops became dominant, European beers were flavored with complex blends of bitter, aromatic, and often [[psilocybin-north-america-pacific-northwest]]. It has been used in brewing for thousands of years and provides both bittering and flavoring. Yarrow contains a complex mixture of bitter principles, flavonoids, and [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]. It is astringent, diaphoretic, and anti-inflammatory. The name Achillea comes from the Greek hero Achilles, who was said to have used yarrow to treat wounds. In gruit mixtures, yarrow contributed not only flavor but also medicinal properties that would have been valued in a daily beverage.
 

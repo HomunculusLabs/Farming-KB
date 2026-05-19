@@ -7,7 +7,7 @@ tags: [herbalism, herbs, medicine]
 sources:
   - raw/papers/farmers-of-forty-centuries-f-h-king.md
 ---
-# Herbal Tincture Making
+## Herbal Tincture Making
 
 Tinctures are concentrated liquid herbal extracts made by soaking plant material in a solvent (typically alcohol and water) to extract the active constituents. They are one of the most practical, potent, and long-lasting forms of herbal medicine, offering advantages in shelf stability, dosing precision, rapid absorption, and convenience over teas and other water-based preparations.
 

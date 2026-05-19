@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Functional Foods and Dietary Supplements from Medicinal Mushrooms
+## Functional Foods and Dietary Supplements from Medicinal Mushrooms
 
 The intersection of nutrition science, traditional medicine, and modern pharmacology has positioned [[medicinal-mushrooms]] as both functional foods and sources of pharmaceutical-grade bioactive compounds. This concept explores the scientific framework, key species, and bioactive chemistry that underpins their therapeutic potential.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Plant Guilds in Permaculture
+## Plant Guilds in Permaculture
 
 A **guild** in [[acacia]]* species, tamarisk, Compositae (daisy family), and Umbelliferae (dill, fennel, carrot, coriander) — host robber-flies and predatory wasps.
 

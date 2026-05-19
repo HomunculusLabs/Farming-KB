@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Vertical Gardening vs Container Gardening
+## Vertical Gardening vs Container Gardening
 
 ## Overview
 Vertical gardening and container gardening are the two primary strategies for

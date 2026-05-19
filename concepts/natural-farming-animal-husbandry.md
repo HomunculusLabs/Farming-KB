@@ -7,7 +7,7 @@ sources: [papers/chos-global-natural-farming.md]
 updated: 2026-04-26
 ---
 
-# Natural Farming Animal Husbandry Applications
+## Natural Farming Animal Husbandry Applications
 
 [[grain-cultivation-small-scale]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

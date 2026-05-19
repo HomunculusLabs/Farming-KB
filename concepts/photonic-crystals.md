@@ -7,7 +7,7 @@ type: concept
 tags: [reference]
 ---
 
-# Photonic Crystals
+## Photonic Crystals
 
 ## Overview
 Photonic crystals are materials whose refractive index varies periodically on the scale of optical wavelengths.

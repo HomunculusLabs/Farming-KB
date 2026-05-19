@@ -17,7 +17,7 @@ related_concepts:
   - soil-food-web
 ---
 
-# Mycorrhizal Fungi
+## Mycorrhizal Fungi
 
 Mycorrhizal fungi are a diverse group of fungi that form intimate symbiotic 
 associations with the roots of most terrestrial plants. The term "mycorrhiza" 

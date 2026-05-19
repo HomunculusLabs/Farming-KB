@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Stony (Gibber) Desert Rehabilitation
+## Stony (Gibber) Desert Rehabilitation
 
 ## Overview
 

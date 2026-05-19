@@ -18,7 +18,7 @@ sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 8, pp. 157-167
 type: concept
 ---
-# Fungal Allergens, Indoor Mold, and Respiratory Health
+## Fungal Allergens, Indoor Mold, and Respiratory Health
 
 Human exposure to fungal spores is constant, inescapable, and largely invisible. Every breath drawn from infancy to old age contains [[mollison-designers-home-energy-conservation-and-solar-heating]], and [[growing-gourmet-growing-room-ventilation-air-exchange]] through gaps, cracks, and poorly fitted windows prevents moisture accumulation and limits fungal colonization.
 

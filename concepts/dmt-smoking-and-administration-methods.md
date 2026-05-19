@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# DMT Smoking and Administration Methods
+## DMT Smoking and Administration Methods
 
 DMT can be administered through several routes, each with distinct techniques and considerations. See [[mao-inhibitors-and-psychedelics]]). This combination:
 - Allows DMT to be active orally — the MAO inhibitors prevent the normal breakdown of DMT in the digestive tract

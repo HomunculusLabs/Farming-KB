@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# What Are the Seven Layers of a Forest Garden?
+## What Are the Seven Layers of a Forest Garden?
 
 ## Short Answer
 

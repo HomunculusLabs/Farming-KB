@@ -5,7 +5,7 @@ type: concept
 tags: [cannabis, chemotherapy, antiemetic, nausea, THC, CBD, evidence-based, oncology]
 ---
 
-# Cannabis as an Antiemetic for Chemotherapy-Induced Nausea
+## Cannabis as an Antiemetic for Chemotherapy-Induced Nausea
 
 ## Overview
 

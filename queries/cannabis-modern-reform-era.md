@@ -10,7 +10,7 @@ sources:
 - raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
 ---
 
-# Cannabis Modern Reform Era (1970–Present)
+## Cannabis Modern Reform Era (1970–Present)
 
 Continuation of [[cannabis-prohibition-history]]. Covers the War on Drugs, medical marijuana movement, and modern legalization.
 

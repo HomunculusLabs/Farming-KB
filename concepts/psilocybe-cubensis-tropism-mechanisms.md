@@ -4,7 +4,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Psilocybe Cubensis Tropism Mechanisms
+## Psilocybe Cubensis Tropism Mechanisms
 
 ## Overview
 

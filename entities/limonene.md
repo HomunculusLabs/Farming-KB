@@ -5,10 +5,10 @@ type: chemical
 tags: [terpene, cannabis, citrus, anti-inflammatory, mood-elevation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
+sources: ["raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"]
 ---
 
-# Limonene
+## Limonene
 
 Limonene (1-methyl-4-(1-methylethenyl)cyclohexene) is a cyclic monoterpene and one of the most common terpenes in nature, widely recognized for its characteristic citrus aroma. In cannabis (*[[vegetable-storage-conditions-by-temperature-and-humidity]]. The compound is classified as a monoterpene, being composed of two isoprene units.
 

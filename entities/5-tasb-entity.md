@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 5-TASB (5-Thioasymbescaline; 3,5-Dimethoxy-4-(n)-butylthiophenethylamine)
+## 5-TASB (5-Thioasymbescaline; 3,5-Dimethoxy-4-(n)-butylthiophenethylamine)
 
 5-TASB is a sulfur-substituted phenethylamine and the butylthio analogue of [[2c-b-pihkal-entry-20]] #148.
 

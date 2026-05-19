@@ -12,7 +12,7 @@ sources:
 type: concept
 ---
 
-# Natural Farming vs Scientific Agriculture
+## Natural Farming vs Scientific Agriculture
 
 The contrast between [[clay-pellet-seed-broadcasting]]
 - [[masanobu-fukuoka]]

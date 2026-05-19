@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Greenhouse Soil Preparation and Fertility
+## Greenhouse Soil Preparation and Fertility
 
 ## Overview
 

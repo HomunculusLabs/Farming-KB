@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Grow Moringa and What Are Its Benefits
+## How to Grow Moringa and What Are Its Benefits
 
 ## Short Answer
 

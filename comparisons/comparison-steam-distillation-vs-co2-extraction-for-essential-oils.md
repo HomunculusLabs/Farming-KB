@@ -24,7 +24,7 @@ sources:
   - Reverchon E., Marco I.D. (2006) — Supercritical fluid extraction of essential oils
 ---
 
-# Steam Distillation vs CO₂ Extraction for Essential Oils
+## Steam Distillation vs CO₂ Extraction for Essential Oils
 
 ## At a Glance
 

@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Opal / Paiderōs "The Beloved"
+## Opal / Paiderōs "The Beloved"
 
 The Greek name for opal was **Paiderōs** (παιδερός). Pliny the Elder describes
 the opal's dominant colour as "a mixture of sky-blue and purple" and notes that
@@ -35,7 +35,7 @@ thyrsus" — the thyrsus being the phallic wand of Dionysus. Paiderōs further
 denoted a **purple vegetable dye**, connecting the stone to the broader
 chromatic vocabulary of ritual colouring.
 
-# The Scabby Mushroom
+## The Scabby Mushroom
 
 In Arabic the mushroom is called **"the scabby one"** (al-faqr). This epithet
 recurs in the Hebrew Bible. Isaiah 3:17 declares: "The Lord will make your
@@ -85,7 +85,7 @@ It is cognate with **Jasper** (*iaspis* / Hebrew *yāshepheh*), from
 Barnabas the Levite, called Joseph, bears both names: the penis-stone and the
 spotted skin.
 
-# Joseph's Coat of Many Colours
+## Joseph's Coat of Many Colours
 
 Genesis 37:3 describes Joseph's famous garment with the Hebrew word **passim**.
 The translation history reveals a scholarly dispute:

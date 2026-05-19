@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Stropharia Cubensis as the Ur Plant
+## Stropharia Cubensis as the Ur Plant
 
 The search for the original hallucinogenic plant that catalyzed the
 emergence of human self-reflection requires a careful process of

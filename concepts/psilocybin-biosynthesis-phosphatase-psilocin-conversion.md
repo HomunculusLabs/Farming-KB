@@ -7,7 +7,7 @@ tags: [psilocybin, psilocin, biosynthesis, phosphatase, tryptamine, enzymology, 
 sources: [raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md]
 ---
 
-# Psilocybin Biosynthesis and Phosphatase Conversion to Psilocin
+## Psilocybin Biosynthesis and Phosphatase Conversion to Psilocin
 
 ## Overview
 

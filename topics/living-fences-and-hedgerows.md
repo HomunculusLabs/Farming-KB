@@ -22,7 +22,7 @@ sources:
   - Barr, C. & Gillespie, M. "Hedgerows of the World: Their Ecological Functions in Different Landscapes." IALE, 2000.
 ---
 
-# Living Fences and Hedgerows
+## Living Fences and Hedgerows
 
 Living fences and hedgerows are linear plantings of trees, shrubs, and sometimes herbaceous perennials that serve as functional boundaries, barriers, windbreaks, and wildlife corridors. They represent one of the oldest forms of land management, with hedgerow traditions spanning thousands of years across Europe, Asia, Africa, and the Americas. In permaculture and regenerative agriculture, living fences are valued as multi-functional elements that produce food, fodder, fuel, and medicine while providing ecological services.
 

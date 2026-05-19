@@ -1,4 +1,8 @@
-# DMT Onset Phenomenology and the Mode Shift Experience
+---
+title: "DMT Onset Phenomenology and the Mode Shift Experience"
+tags:
+  - concept
+---
 
 ## Overview
 

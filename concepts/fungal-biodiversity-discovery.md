@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungal Biodiversity Discovery
+## Fungal Biodiversity Discovery
 
 The scale of undiscovered fungal diversity represents one of the most significant gaps in our understanding of life on Earth. Current estimates suggest that only 5–10% of extant fungal species have been discovered and formally described, making fungi among the least documented major groups of organisms.
 

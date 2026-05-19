@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biology, fungi, reproduction, spore]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+sources: ["raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"]
 type: concept
 ---
 
-# Spore
+## Spore
 
 A spore is a reproductive unit produced by fungi, plants, bacteria, and some
 protists. In mycology, spores serve as the primary mechanism for dispersal,

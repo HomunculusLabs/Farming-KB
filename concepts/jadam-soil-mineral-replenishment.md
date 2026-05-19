@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# JADAM Soil Mineral Replenishment
+## JADAM Soil Mineral Replenishment
 
 JADAM's mineral replenishment strategy addresses one of the most overlooked
 problems in modern agriculture: the progressive depletion of soil minerals

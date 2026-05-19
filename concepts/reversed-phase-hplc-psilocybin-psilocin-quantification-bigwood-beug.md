@@ -20,7 +20,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Reversed Phase HPLC Quantification of Psilocybin and Psilocin
+## Reversed Phase HPLC Quantification of Psilocybin and Psilocin
 
 ## Overview
 

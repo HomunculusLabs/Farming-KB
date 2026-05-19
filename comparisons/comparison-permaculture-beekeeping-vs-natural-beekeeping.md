@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Permaculture Beekeeping vs Natural Beekeeping
+## Permaculture Beekeeping vs Natural Beekeeping
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycofiltration of Water and Runoff
+## Mycofiltration of Water and Runoff
 
 Mycofiltration uses fungal mycelium as a biological filter medium to
 remove contaminants from water, including stormwater runoff, agricultural

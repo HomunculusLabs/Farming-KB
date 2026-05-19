@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Exopolysaccharides and Extracellular Polymers
+## Fungal Exopolysaccharides and Extracellular Polymers
 
 Fungal exopolysaccharides (EPS) and extracellular polymeric substances represent
 a diverse group of high-molecular-weight compounds secreted by fungal hyphae

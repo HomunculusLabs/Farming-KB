@@ -7,7 +7,7 @@ tags: [germination, cultivation, gardening, vegetables, indoor, plant-growth, be
 sources: []
 ---
 
-# Seed Starting Reference
+## Seed Starting Reference
 
 Starting seeds indoors extends the growing season, provides stronger transplants, and offers access to varieties unavailable as starts. This reference covers germination conditions, lighting, soil blocks, and hardening off.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wildfire and Firestorm Mechanics
+## Wildfire and Firestorm Mechanics
 
 [[wildfire]] is one of the most powerful and destructive natural forces affecting landscapes, particularly in arid and semi-arid regions. Understanding the mechanics of [[wildfire-spread-factors-and-firestorm-conditions]] and [[firestorm]] development is essential for [[permaculture]] designers working in fire-prone areas.
 

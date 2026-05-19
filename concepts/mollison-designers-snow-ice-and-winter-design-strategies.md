@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Snow, Ice, and Winter Design Strategies in Cool Climates
+## Snow, Ice, and Winter Design Strategies in Cool Climates
 
 In the [[water-storage-techniques]] for water storage.
 

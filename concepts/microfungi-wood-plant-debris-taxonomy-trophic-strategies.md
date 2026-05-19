@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Chapter 11: Microfungi on Wood and Plant Debris (Cannon and Sutton)
+## Chapter 11: Microfungi on Wood and Plant Debris (Cannon and Sutton)
 
 ## Definition and Taxonomic Scope
 

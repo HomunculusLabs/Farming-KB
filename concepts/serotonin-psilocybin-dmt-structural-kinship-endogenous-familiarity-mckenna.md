@@ -6,7 +6,7 @@ tags: [serotonin, psilocybin, dmt, tryptamine, structural-kinship, endogenous, n
 aliases: [Tryptamine Structural Family Serotonin Psilocybin DMT, 5-Hydroxytryptamine 4-Phosphoryloxy-DMT Comparison]
 ---
 
-# Serotonin, Psilocybin, and DMT Structural Kinship as Argument for Endogenous Brain Familiarity
+## Serotonin, Psilocybin, and DMT Structural Kinship as Argument for Endogenous Brain Familiarity
 
 In his 1983 Esalen lecture on [[tryptamine-hallucinogens-and-consciousness]], Terence
 McKenna advanced a specific biochemical argument for why DMT produces its

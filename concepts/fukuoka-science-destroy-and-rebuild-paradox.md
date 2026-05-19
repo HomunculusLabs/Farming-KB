@@ -9,7 +9,7 @@ sources: [administrator-microsoft-word-fukuoka-textdoc.md]
 type: concept
 ---
 
-# Science Destroy and Rebuild Paradox
+## Science Destroy and Rebuild Paradox
 
 Masanobu Fukuoka identified a fundamental structural paradox at the heart of 
 the scientific approach to agriculture and, by extension, to human interaction 

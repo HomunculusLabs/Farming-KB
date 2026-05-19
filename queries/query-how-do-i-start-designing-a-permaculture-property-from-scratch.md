@@ -10,7 +10,7 @@ created: 2026-04-28
 type: query
 ---
 
-# How Do I Start Designing a Permaculture Property from Scratch?
+## How Do I Start Designing a Permaculture Property from Scratch?
 
 ## Short Answer
 

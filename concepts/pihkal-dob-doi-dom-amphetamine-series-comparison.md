@@ -7,7 +7,7 @@ source: shulgin-a-pihkal.md
 tags: [pihkal, phenethylamine, amphetamine, psychedelic, DOB, DOI, DOM, STP, SAR]
 ---
 
-# PiHKAL DOB/DOI/DOM Amphetamine Psychedelic Series Comparison
+## PiHKAL DOB/DOI/DOM Amphetamine Psychedelic Series Comparison
 
 ## Overview
 

@@ -21,7 +21,7 @@ related_concepts:
   - coleman-compost-and-organic-fertility-management
   - coleman-cover-crop-rotation-and-soil-health
 ---
-# Eliot Coleman's Deep Organic Farming and Winter Harvest System
+## Eliot Coleman's Deep Organic Farming and Winter Harvest System
 
 [[eliot-coleman]] is among the most influential organic farmers and writers of
 the past half century. Since purchasing a portion of Scott and Helen

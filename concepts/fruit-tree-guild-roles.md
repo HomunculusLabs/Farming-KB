@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Fruit Tree Guild Roles
+## Fruit Tree Guild Roles
 
 A guild is a harmoniously interwoven group of plants and animals, often centered around one major species, that benefits humans while creating habitat. In a fruit tree guild, each member performs specific ecological roles that together create a self-maintaining, productive plant community. Understanding these roles allows gardeners to design guilds that let nature perform the tasks of fertilizing, [[backyard-food-forest-design]] -- how guilds combine into a larger food forest
 - [[dynamic-accumulators]] -- plants that mine nutrients from deep soil
@@ -15,7 +15,7 @@ A guild is a harmoniously interwoven group of plants and animals, often centered
 
 ## Merged: Sapodilla (Manilkara zapota)
 
-# Sapodilla (Manilkara zapota)
+## Sapodilla (Manilkara zapota)
 
 updated: 2026-04-18
 

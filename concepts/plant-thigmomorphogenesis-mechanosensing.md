@@ -6,7 +6,7 @@ tags: [plant-biology, thigmomorphogenesis, mechanosensing, touch-response, calmo
 created: 2026-05-09
 ---
 
-# Plant Thigmomorphogenesis and Mechanosensing
+## Plant Thigmomorphogenesis and Mechanosensing
 
 Plants constantly sense and respond to mechanical stimuli in their environment. Wind, rain, physical contact with neighboring plants, herbivore attack, and even human touch trigger a suite of developmental and physiological responses collectively known as thigmomorphogenesis. Far from being passive organisms, plants actively monitor mechanical forces and adjust their growth accordingly.
 

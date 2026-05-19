@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Eleusinian Profanes Scandal of 415 BCE
+## Eleusinian Profanes Scandal of 415 BCE
 
 **Source:** The [[eleusinian-telesterion-architecture-and-ritual]] ceremonies in a domestic setting
 

@@ -5,7 +5,7 @@ tags: [organic-farming, philosophy, soil-health, coleman, winter-harvest]
 source: eliot-coleman-winter-harvest-handbook.md
 ---
 
-# Deep-Organic vs. Shallow-Organic Farming
+## Deep-Organic vs. Shallow-Organic Farming
 
 Eliot Coleman draws a critical distinction between two fundamentally
 different approaches to organic agriculture in "The [[jeavons-green-manures-cover-crops]], and composts to correct the

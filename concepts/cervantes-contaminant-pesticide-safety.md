@@ -20,7 +20,7 @@ synonyms:
 type: concept
 ---
 
-# Contaminant and Pesticide Safety in Cannabis
+## Contaminant and Pesticide Safety in Cannabis
 
 Cervantes and Dr. John McPartland emphasize that the most common
 contaminants of marijuana are molds and pesticides. For medical cannabis

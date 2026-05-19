@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# The [[mckenna-dominator-culture-and-suppression-of-ecstasy]] and its propaganda organs" to prevent the reemergence of the partnership values that psychedelics naturally promote.
+## The [[mckenna-dominator-culture-and-suppression-of-ecstasy]] and its propaganda organs" to prevent the reemergence of the partnership values that psychedelics naturally promote.
 
 ## The Epistemological Revolution
 

@@ -6,7 +6,7 @@ sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
 ---
 
-# Polyethylene Sheeting Fruiting Chamber
+## Polyethylene Sheeting Fruiting Chamber
 
 ## Overview
 

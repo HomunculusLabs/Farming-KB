@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Caragana (Siberian Pea Shrub)
+## Caragana (Siberian Pea Shrub)
 
 ## Description
 

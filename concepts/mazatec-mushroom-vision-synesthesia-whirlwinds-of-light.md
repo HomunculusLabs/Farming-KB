@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Mushroom Vision — Synesthesia and Whirlwinds of Light
+## Mazatec Mushroom Vision — Synesthesia and Whirlwinds of Light
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Season Extension Timeline and Frost Protection
+## Season Extension Timeline and Frost Protection
 
 [[dry-gardening-unirrigated-vegetable-production-solomon]] can continue through winter
 in any part of the continental [[coleman-double-layer-protection-greenhouse-row-cover]] inside the greenhouse shifts the

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Saprobic Soil Fungi — Introduction, Taxonomy, Diversity, and Distribution
+## Saprobic Soil Fungi — Introduction, Taxonomy, Diversity, and Distribution
 
 ## Introduction — Soil as Ecosystem
 

@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Tetrahydrocannabinolic Acid (THCA)
+## Tetrahydrocannabinolic Acid (THCA)
 
 **Type:** Chemical Compound (Cannabinoid Acid Precursor)
 **Category:** Phytocannabinoid

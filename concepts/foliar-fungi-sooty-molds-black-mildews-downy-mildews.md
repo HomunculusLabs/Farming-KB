@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Foliar Fungi — Sooty Molds, Black Mildews, Downy Mildews, and Leaf Colonizers
+## Foliar Fungi — Sooty Molds, Black Mildews, Downy Mildews, and Leaf Colonizers
 
 Living plant leaves are colonized by a large and diverse group of fungi, distributed widely across a range of plants in different climates. These include both parasitic and saprobic species, from obligate biotrophs to opportunistic colonizers that wait for leaf senescence.
 

@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 tags: [fukuoka, philosophy-of-science, reductionism, nature, scientific-method, holistic-thinking]
 ---
 
-# The Scalpel and the Beautiful Woman — Science Dissecting Nature
+## The Scalpel and the Beautiful Woman — Science Dissecting Nature
 
 ## Overview
 

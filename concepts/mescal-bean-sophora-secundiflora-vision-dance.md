@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
-# Mescal Bean (Sophora secundiflora): Vision Dance and Texas Narcotic
+## Mescal Bean (Sophora secundiflora): Vision Dance and Texas Narcotic
 
 Mescal bean or Texas mountain laurel (Sophora secundiflora, also known as Calia secundiflora) is a shrub or small tree native to Texas and northern Mexico whose bright red seeds were once among the most important hallucinogenic plants of [[growing-gourmet-north-american-reishi-species]] Indians. The bright red beans were employed ritually for centuries, and they have been found in archaeological sites dating back thousands of years. Their use was once so widespread that the mescal bean "vision dance" represented one of the major ceremonial traditions of Native North America.
 

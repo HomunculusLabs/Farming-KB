@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Verticillium Dry Bubble Disease in Mushroom Crops
+## Verticillium Dry Bubble Disease in Mushroom Crops
 
 Verticillium is the most common [[stamets-growing-room-air-circulation-co2-management]]. The fungus grows within a
 broad [[cannabis-growing-environment-setup]] via the casing layer materials.

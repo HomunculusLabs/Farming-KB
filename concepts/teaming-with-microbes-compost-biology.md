@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Compost Biology and the Soil Food Web
+## Compost Biology and the Soil Food Web
 
 Compost is a concentrated universe of [[teaming-with-microbes-overview]]) along with additional fungi.
 

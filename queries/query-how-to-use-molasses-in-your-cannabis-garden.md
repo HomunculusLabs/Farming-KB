@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Use Molasses in Your Cannabis Garden
+## How to Use Molasses in Your Cannabis Garden
 
 ## Short Answer
 Molasses is a carbohydrate-rich byproduct of sugar refining that feeds 

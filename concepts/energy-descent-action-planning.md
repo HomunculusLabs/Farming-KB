@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Energy Descent Action Planning
+## Energy Descent Action Planning
 
 Energy descent action planning is the permaculture-informed approach to preparing communities and households for the inevitable transition from fossil-fuel-based energy systems to lower-energy futures. Developed primarily through the work of david holmgren, this framework moves beyond sustainability concepts to address the practical reality of declining energy availability.
 

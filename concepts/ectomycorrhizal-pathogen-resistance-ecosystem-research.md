@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Resistance to Pathogens and Ecosystem Research Advances
+## Ectomycorrhizal Resistance to Pathogens and Ecosystem Research Advances
 
 ## Overview
 

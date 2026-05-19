@@ -8,7 +8,7 @@ sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
 
-# Swale Design and Water Management
+## Swale Design and Water Management
 
 [[mollison-designers-diversion-drains-and-interceptor-banks]], and rainwater collection,
 swales form the backbone of a natural water management system that can

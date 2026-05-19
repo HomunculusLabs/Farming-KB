@@ -5,7 +5,7 @@ type: entity
 tags: [plant-family, silicon, horsetail, pioneer-plants, botany]
 ---
 
-# Equisetaceae
+## Equisetaceae
 
 ## Description
 

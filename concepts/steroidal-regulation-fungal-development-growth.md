@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Steroidal Regulation of Fungal Development and Growth
+## Steroidal Regulation of Fungal Development and Growth
 
 The demonstration by Gartz, Adam and Vorbrodt (1990) that a plant
 steroidal hormone, 22S,23S-[[homobrassinolide]], profoundly affects the

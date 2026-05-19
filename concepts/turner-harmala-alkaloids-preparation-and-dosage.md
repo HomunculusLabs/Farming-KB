@@ -15,7 +15,7 @@ type: concept
 tags: [psychedelics, harmala-alkaloids, syrian-rue, mao-inhibitors, preparation, dosage]
 ---
 
-# Harmala Alkaloids Preparation and Dosage
+## Harmala Alkaloids Preparation and Dosage
 
 ## Overview
 

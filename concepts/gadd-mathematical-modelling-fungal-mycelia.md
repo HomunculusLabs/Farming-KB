@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mathematical Modelling of Fungal Mycelial Form and Function
+## Mathematical Modelling of Fungal Mycelial Form and Function
 
 Mathematical modelling of [[bioremediation-fungal-biomass-biosorbent-material]] and a growth-limiting
 substrate. This approach is ideal for modelling dense mycelia growing on

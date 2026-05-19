@@ -7,7 +7,7 @@ type: concept
 created: 2026-05-09
 ---
 
-# HPLC Detection Limits and Calibration — Psilocybin & Psilocin Quantification
+## HPLC Detection Limits and Calibration — Psilocybin & Psilocin Quantification
 
 ## Overview
 

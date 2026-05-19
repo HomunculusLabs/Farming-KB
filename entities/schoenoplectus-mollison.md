@@ -5,7 +5,7 @@ type: entity
 tags: [macrophyte, sewage-treatment, heavy-metals, wetland, bioremediation]
 ---
 
-# Schoenoplectus
+## Schoenoplectus
 
 ## Description
 

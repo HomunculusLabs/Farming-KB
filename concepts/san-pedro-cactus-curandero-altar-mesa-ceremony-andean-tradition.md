@@ -5,7 +5,7 @@ tags: [san-pedro, curandero, andes, peru, entheogenic-ceremony, altar, mescaline
 created: 2026-05-10
 ---
 
-# San Pedro Cactus Curandero Altar Ceremonies in the Andes
+## San Pedro Cactus Curandero Altar Ceremonies in the Andes
 
 ## Overview
 

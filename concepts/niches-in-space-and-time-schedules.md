@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Niches in Space and Time — Schedules
+## Niches in Space and Time — Schedules
 
 A **niche** is a place to be, to fit in, and find food, shelter, and room to operate. Many niches are unfilled due to chance factors; many are wiped out by agriculture or urban sprawl; and many can be created by design. [[maps]].
 

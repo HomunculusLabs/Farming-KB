@@ -14,7 +14,7 @@ sources:
   - eliot-coleman (2009). "The cold-house-winter-harvest-system Handbook." Chelsea Green.
 ---
 
-# Soil Health in the Winter Harvest Greenhouse
+## Soil Health in the Winter Harvest Greenhouse
 
 Soil management in the winter harvest greenhouse follows the same organic
 principles that govern all of the growing at Four Season Farm, but the

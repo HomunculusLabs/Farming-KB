@@ -5,7 +5,7 @@ type: entity
 tags: [community, land-access, permaculture, cooperative, livelihood, trust]
 ---
 
-# Commonwork
+## Commonwork
 
 ## Description
 

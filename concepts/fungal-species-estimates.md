@@ -4,10 +4,10 @@ created: 2026-04-28
 updated: 2026-05-09
 type: concept
 tags: [mycology, biodiversity, estimation, taxonomy]
-sources: [/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Fungal Species Estimates
+## Fungal Species Estimates
 
 ## Overview
 

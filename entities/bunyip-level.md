@@ -5,7 +5,7 @@ type: entity
 tags: [surveying, tool, earthworks, permaculture, water-management]
 ---
 
-# Bunyip Level (Hose Level)
+## Bunyip Level (Hose Level)
 
 ## Description
 

@@ -10,7 +10,7 @@ sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in Europe during the 1980s. Unlike other
+## [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in Europe during the 1980s. Unlike other
 psilocybin-containing species, Inocybe aeruginascens requires a symbiosis with
 certain types of trees in order to fruit. Its discovery and expansion across
 Central Europe represents one of the most fascinating chapters in European

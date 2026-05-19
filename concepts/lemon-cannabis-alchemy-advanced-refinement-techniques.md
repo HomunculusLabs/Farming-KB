@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Advanced Refinement Techniques
+## Advanced Refinement Techniques
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Magic Mushroom Prohibition and UK Drug Policy
+## Magic Mushroom Prohibition and UK Drug Policy
 
 The story [[hplc-analysis-of-psilocybin-and-psilocin]] had been classified as [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] a criminal offence punishable by fine or
 imprisonment. But the fact that all mushrooms were illegal did little

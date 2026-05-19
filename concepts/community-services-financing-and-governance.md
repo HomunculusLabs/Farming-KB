@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Community Services Financing and Governance
+## Community Services Financing and Governance
 
 A [[permaculture]] village requires robust financial and governance systems to fund and manage public services, infrastructure, and community assets. Mollison outlines how the trust-based land ownership model generates sustainable revenue streams and how a Community Services Council provides democratic governance of shared resources.
 

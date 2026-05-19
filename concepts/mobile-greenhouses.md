@@ -5,7 +5,7 @@ tags: [greenhouse, mobile-greenhouse, season-extension, coleman, four-season-far
 created: 2026-05-10
 ---
 
-# Mobile Greenhouses
+## Mobile Greenhouses
 
 The mobile greenhouse is a key innovation in Eliot Coleman's [[coleman-mobile-greenhouse-crop-rotation-soil-health]] greenhouse can be moved
 between two (or more) sites, allowing the same structure to serve different purposes

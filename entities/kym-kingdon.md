@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# Kym Kingdon
+## Kym Kingdon
 
 ## Description
 

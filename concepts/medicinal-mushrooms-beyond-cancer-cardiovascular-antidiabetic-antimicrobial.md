@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Medicinal Mushrooms: Beyond Cancer — Cardiovascular, Antidiabetic, and Antimicrobial Effects
+## Medicinal Mushrooms: Beyond Cancer — Cardiovascular, Antidiabetic, and Antimicrobial Effects
 
 While [[medicinal-mushrooms]] are best known for their anticancer properties, their therapeutic applications extend far beyond oncology. This concept covers the cardiovascular, antidiabetic, antimicrobial, and antioxidant properties of [[medicinal-mushroom-compounds]].
 

@@ -14,7 +14,7 @@ tags:
 created: 2026-05-10
 ---
 
-# Flush-Dependent Alkaloid Variation in Psilocybe
+## Flush-Dependent Alkaloid Variation in Psilocybe
 
 ## Overview
 

@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [mycology, identification, spore-print, taxonomy, foraging, mushroom]
 ---
 
-# Mushroom Spore Print Colors for Visual Identification
+## Mushroom Spore Print Colors for Visual Identification
 
 ## Overview
 

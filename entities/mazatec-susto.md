@@ -5,7 +5,7 @@ type: entity
 tags: [illness, concept, mazatec, shamanism, trauma, traditional-medicine, spirit-loss]
 ---
 
-# Susto (Mazatec Fright Illness)
+## Susto (Mazatec Fright Illness)
 
 ## Description
 

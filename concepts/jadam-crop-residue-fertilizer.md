@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Crop Residue as Fertilizer
+## JADAM Crop Residue as Fertilizer
 
 ## Overview
 
@@ -64,7 +64,7 @@ When leaves fall from persimmon trees, the best nutrient for persimmons is its o
 
 ## Merged: JADAM Mineral Leaching in Agriculture
 
-# JADAM Mineral Leaching in Agriculture
+## JADAM Mineral Leaching in Agriculture
 
 ## Overview
 

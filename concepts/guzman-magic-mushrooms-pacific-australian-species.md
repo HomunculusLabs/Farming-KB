@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, australian-fungi, pacific-islands, psilocybin-mushrooms, new-zealand]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 type: concept
 ---
-# Pacific and Australian Neurotropic Mushroom Species
+## Pacific and Australian Neurotropic Mushroom Species
 
 ## Overview
 

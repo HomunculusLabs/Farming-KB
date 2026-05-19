@@ -16,7 +16,7 @@ sources:
   - Adhvaryu, M.R. et al. (2008). "Diuretic, hypotensive and hypocholesterolemic effect of Boerhavia diffusa." Indian Journal of Experimental Biology, 46(12), 862-866.
 ---
 
-# Boerhavia diffusa
+## Boerhavia diffusa
 
 ## Overview
 

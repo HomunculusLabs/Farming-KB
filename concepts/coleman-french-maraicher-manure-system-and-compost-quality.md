@@ -8,7 +8,7 @@ sources:
   - "eliot-coleman - The cold-house-winter-harvest-system Handbook"
 ---
 
-# French Maraîcher Manure System and Compost Quality
+## French Maraîcher Manure System and Compost Quality
 
 The 19th-century Parisian maraîchers (market gardeners) built the
 world's most productive [[water-harvesting-techniques-comparison]].

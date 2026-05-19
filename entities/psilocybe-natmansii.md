@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, europe, grassland]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md]
+sources: ["raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"]
 ---
 
-# Psilocybe natmansii
+## Psilocybe natmansii
 
 **Psilocybe natmansii** is a rare psilocybin-containing mushroom species in the family Hymenogastraceae, known primarily from grassland habitats in northwestern Europe. It was described by the Dutch mycologist Gerrit J. Keizer and represents one of the less frequently encountered psychoactive members of [[comparison-spore-print-collection-vs-spore-syringe-production]] dark purplish-brown
 

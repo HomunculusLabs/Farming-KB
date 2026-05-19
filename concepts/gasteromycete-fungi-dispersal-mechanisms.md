@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Gasteromycete Fungi and Dispersal Mechanisms
+## Gasteromycete Fungi and Dispersal Mechanisms
 
 ## Overview
 

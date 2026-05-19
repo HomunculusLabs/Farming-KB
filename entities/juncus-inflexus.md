@@ -17,7 +17,7 @@ sources:
   - Zuloaga, F.O. & Morrone, O. (1996). Catálogo de las Plantas Vasculares de la República Argentina II. Missouri Botanical Garden.
 ---
 
-# Juncus inflexus
+## Juncus inflexus
 
 ## Overview
 

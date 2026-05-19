@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Parkinson's Disease
+## Cannabis for Parkinson's Disease
 
 Parkinson's disease is a chronic degenerative brain/nervous system disorder affecting approximately 50,000 new patients annually in the U.S. alone. It results from the loss of specific nerve cells that produce dopamine, causing tremors, stiffness, loss of balance, shuffling gait, difficulty swallowing, insomnia, and emotional disturbances.
 

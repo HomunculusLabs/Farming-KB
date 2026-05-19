@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Manganese Peroxidase in [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi in bioremediation systems.
+## Manganese Peroxidase in [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi in bioremediation systems.
 
 ## See Also
 

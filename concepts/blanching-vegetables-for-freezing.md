@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Blanching Vegetables for Freezing
+## Blanching Vegetables for Freezing
 
 Updated: 2026-04-18
 

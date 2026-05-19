@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Neem Oil for Organic Cannabis Pest Control
+## Neem Oil for Organic Cannabis Pest Control
 
 Neem oil is one of the most versatile and widely used [[query-how-does-no-till-cannabis-cultivation-work]]. Derived from the seeds of the
 neem tree ([[arbuscular-mycorrhizal-fungi-cannabis-cultivation]])

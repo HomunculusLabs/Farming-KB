@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Make Cannabis Tinctures at Home
+## How to Make Cannabis Tinctures at Home
 
 ## Short Answer
 Cannabis tinctures are liquid extracts made by soaking decarboxylated [[cannabis-tincture-preparation]]

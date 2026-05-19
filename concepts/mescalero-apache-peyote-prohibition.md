@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mescalero Apache Peyote Prohibition
+## Mescalero Apache Peyote Prohibition
 
 ## Overview
 

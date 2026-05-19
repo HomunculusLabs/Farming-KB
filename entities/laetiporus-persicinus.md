@@ -5,7 +5,7 @@ type: entity
 tags: [mushroom, species, polypore, medicinal, cultivation]
 ---
 
-# Laetiporus persicinus
+## Laetiporus persicinus
 
 ## Description
 

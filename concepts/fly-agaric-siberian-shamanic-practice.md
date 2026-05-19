@@ -8,7 +8,7 @@ sources:
   - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
   - "raw/papers/amanita-muscaria-herb-of-immortality.md"
 ---
-# Fly-Agaric in fly agaric siberian shamanic practice
+## Fly-Agaric in fly agaric siberian shamanic practice
 
 The use of the [[christmas-mushroom-symbolism]]).
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Cover Crop and Soil Temperature Management
+## JADAM Cover Crop and Soil Temperature Management
 
 Youngsang Cho identifies soil temperature management as the single most important factor for successful summer farming. The [[jadam-nature-as-teacher-philosophy]] for the philosophical foundation.
 

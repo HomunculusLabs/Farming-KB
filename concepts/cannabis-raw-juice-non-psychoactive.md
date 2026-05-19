@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# Cannabis Raw Juice and Non-Psychoactive Therapies
+## Cannabis Raw Juice and Non-Psychoactive Therapies
 
 One of the most significant insights from The [[solomon-leafy-greens-growing]]
 - **Non-psychoactive delivery**: Fresh cannabis juice delivers high concentrations of cannabinoids without any psychoactive effect

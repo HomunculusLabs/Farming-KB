@@ -9,7 +9,7 @@ type: concept
 tags: [design]
 ---
 
-# Holmgren Wholistic Design Thinking
+## Holmgren Wholistic Design Thinking
 
 Wholistic design thinking is the foundational cognitive framework underlying David Holmgren's [[holmgren-pattern-thinking-and-pattern-language]].
 

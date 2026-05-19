@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Fungi in Stressful and Specialized Habitats
+## Mycorrhizal Fungi in Stressful and Specialized Habitats
 
 ## Overview
 

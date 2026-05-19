@@ -7,7 +7,7 @@ tags: [composting, soil]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# Biointensive Composting
+## Biointensive Composting
 
 Composting is central to the [[biointensive-carbon-farming]] that produce both carbon material for composting and food. This is the largest single allocation in the GB design, reflecting the primacy of soil building.
 

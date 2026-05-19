@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, permaculture, pond-culture, predator]
 ---
 
-# Largemouth Bass (Micropterus salmoides)
+## Largemouth Bass (Micropterus salmoides)
 
 ## Description
 

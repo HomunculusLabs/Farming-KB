@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Rabbit Husbandry Basics
+## Rabbit Husbandry Basics
 
 Rabbits are among the most efficient homestead livestock: high feed
 conversion (3-4 lb feed per lb gain), minimal space, excellent garden

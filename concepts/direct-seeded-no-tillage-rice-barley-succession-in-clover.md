@@ -12,7 +12,7 @@ sources:
 type: concept
 ---
 
-# Direct-Seeded No-Tillage Rice Barley Succession in Clover
+## Direct-Seeded No-Tillage Rice Barley Succession in Clover
 
 The direct-seeded, no-tillage rice-barley succession in a clover cover is the core practical technique of [[savory-growing-season-and-non-growing-season-management]], water may be passed briefly over the field once every week to ten days. A soil moisture level of approximately 80% is adequate
 3. **Heading stage**: Continue intermittent irrigation during heading, but avoid holding water for more than five consecutive days

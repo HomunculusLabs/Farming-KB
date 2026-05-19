@@ -14,7 +14,7 @@ sources:
   - "raw/papers/field-guide-to-the-psilocybin-mushroom.md"
 ---
 
-# Psilocybe tibeticensis
+## Psilocybe tibeticensis
 
 **psilocybe tibeticensis** is a [[psilocin]] as the primary psychoactive alkaloids. The blue bruising reaction is typically strong and readily observable, suggesting substantial alkaloid content. No quantitative analytical data has been published for this species.
 

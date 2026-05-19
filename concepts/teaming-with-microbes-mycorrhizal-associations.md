@@ -7,7 +7,7 @@ tags: [mycorrhizae, fungi, symbiosis, plant-nutrition]
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
-# Mycorrhizal Associations
+## Mycorrhizal Associations
 
 Mycorrhizae (from the Greek for "fungus-root") are symbiotic associations between plant roots and fungi where both organisms depend on each other for survival. At least 90% of all plants form mycorrhizae — the percentage is probably 95% or higher. These relationships began some 450 million years ago with terrestrial plant evolution: plants started growing on land only after fungi entered into relationships with aquatic plants.
 

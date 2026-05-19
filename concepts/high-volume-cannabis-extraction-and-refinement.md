@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# High-Volume Cannabis Extraction and Advanced Refinement
+## High-Volume Cannabis Extraction and Advanced Refinement
 
 ## Overview
 

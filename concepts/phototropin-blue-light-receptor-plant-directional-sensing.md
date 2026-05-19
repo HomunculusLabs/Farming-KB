@@ -6,7 +6,7 @@ type: concept
 tags: [phototropin, phototropism, blue-light, photoreceptor, auxin, plant-vision, pk, lov-domain]
 ---
 
-# Phototropin Blue Light Receptor - Molecular Basis of Plant Directional Light Sensing
+## Phototropin Blue Light Receptor - Molecular Basis of Plant Directional Light Sensing
 
 ## Overview
 

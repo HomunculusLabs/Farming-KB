@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Swales and Urban Water Management
+## Swales and Urban Water Management
 
 Swales are among the most critical technologies in [[permaculture]] for water harvesting, soil hydration, and landscape regeneration. [[bill-mollison]] positions them as foundational infrastructure — especially for winter-wet climates — and extends their application into urban design, forest systems, pond construction, and integrated slope management.
 

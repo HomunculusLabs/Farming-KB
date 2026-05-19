@@ -15,7 +15,7 @@ sources:
   - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
-# Psilocybin Psychological Mechanisms
+## Psilocybin Psychological Mechanisms
 
 The neuroscience of how psilocybin produces its [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], including [[default-mode-network-and-ego-dissolution]] suppression, [[serotonin-receptor-interference-psychedelic-mechanism]] activity, and neuroplasticity.
 

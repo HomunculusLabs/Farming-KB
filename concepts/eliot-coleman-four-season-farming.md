@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Eliot Coleman and Four Season Farming
+## Eliot Coleman and Four Season Farming
 
 [[eliot-coleman]] is one of the most influential figures in modern organic agriculture. His pioneering work in year-round vegetable production has demonstrated that fresh, organic produce can be grown and marketed profitably even in the coldest climates [[huckleberries-and-wild-berries-of-north-america]], without reliance on fossil-fuel-intensive heating systems.
 

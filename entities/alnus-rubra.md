@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Alnus rubra
+## Alnus rubra
 
 **Type:** Species (Tree)
 **Category:** Nitrogen-fixing timber tree

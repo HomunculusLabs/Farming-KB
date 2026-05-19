@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [permaculture, mollison, designers-manual, island, tropical, coral, low-island, coastal]
 ---
 
-# Low Island and Coral Cay Strategies in Permaculture Design
+## Low Island and Coral Cay Strategies in Permaculture Design
 
 ## Overview
 

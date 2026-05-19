@@ -9,7 +9,7 @@ sources:
   - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# KNF Oriental Herbal Adjust (OHA)
+## KNF Oriental Herbal Adjust (OHA)
 
 The Oriental Herbal Adjust (OHA), more commonly referred to as Oriental Herbal Nutrient (OHN), is a very important input in Natural Farming. It is made from herbs which are full of energy and function to increase plant robustness, to sterilize and keep plants warm. OHN revitalizes crops and activates their growth.
 

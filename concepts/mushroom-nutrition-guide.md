@@ -7,7 +7,7 @@ tags: [mushrooms, nutrients, food, health, fungi, species-profiles, medicine, nu
 sources: []
 ---
 
-# Mushroom Nutrition Guide
+## Mushroom Nutrition Guide
 
 ## Overview
 

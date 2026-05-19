@@ -4,7 +4,7 @@ source: bahay-kubo-indigenous-microorganisms_.md
 type: entity
 ---
 
-# Beneficial Indigenous Microorganisms (BIM)
+## Beneficial Indigenous Microorganisms (BIM)
 
 ## Description
 

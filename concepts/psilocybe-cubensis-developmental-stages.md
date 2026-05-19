@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybe-cubensis, mushroom-development, basidiocarp, primordia, mycology]
 ---
 
-# Psilocybe Cubensis Developmental Stages
+## Psilocybe Cubensis Developmental Stages
 
 The development of *Psilocybe cubensis* basidiocarps (fruiting bodies)
 proceeds through four distinct morphological stages, each characterized

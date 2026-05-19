@@ -10,7 +10,7 @@ related:
 tags: [microwave, physics, sterilization, water-dipole, rotational-transition, electromagnetic-spectrum]
 ---
 
-# Rotational Transition Water Dipole Microwave Sterilization Physics
+## Rotational Transition Water Dipole Microwave Sterilization Physics
 
 ## Overview
 

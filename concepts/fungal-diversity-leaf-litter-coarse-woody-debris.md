@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Biodiversity in Leaf Litter and Coarse Woody Debris
+## Fungal Biodiversity in Leaf Litter and Coarse Woody Debris
 
 Leaf litter and coarse woody debris (CWD) constitute two of the most significant
 substrata for fungal decomposer communities in [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], carbon

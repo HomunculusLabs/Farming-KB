@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Cropping Containers and Growing Systems
+## Cropping Containers and Growing Systems
 
 Choosing the best type of cropping container depends on several
 variables: the mushroom species being cultivated, the cultivator's

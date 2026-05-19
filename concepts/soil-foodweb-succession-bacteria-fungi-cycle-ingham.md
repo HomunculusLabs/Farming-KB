@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Soil Foodweb Succession: Bacteria Then Fungi Cycle
+## Soil Foodweb Succession: Bacteria Then Fungi Cycle
 
 In the [[compost-tea-aact|compost tea]] is recommended for annual crops, vegetables, and early successional plant communities that evolved in bacterial soils.
 

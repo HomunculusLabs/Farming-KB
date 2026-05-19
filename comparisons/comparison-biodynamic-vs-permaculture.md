@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Biodynamic Agriculture vs Permaculture
+## Biodynamic Agriculture vs Permaculture
 
 ## Overview
 Biodynamic agriculture and permaculture are two of the most influential holistic

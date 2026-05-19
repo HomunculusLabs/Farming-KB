@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psychrotolerant and [[singh-mycelial-mats-and-biological-soil-crusts]] are located in
+## Psychrotolerant and [[singh-mycelial-mats-and-biological-soil-crusts]] are located in
 association with damaged plants soon after snow melts. Snow molds also
 may damage fruits and crops stored at low temperatures.
 

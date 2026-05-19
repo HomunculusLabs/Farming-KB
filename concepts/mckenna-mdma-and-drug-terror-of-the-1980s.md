@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the-gods.md]
 type: concept
 ---
 
-# MDMA and the Drug Terror Decade of the 1980s
+## MDMA and the Drug Terror Decade of the 1980s
 
 In the concluding passages of Food of the Gods, McKenna surveys the
 psychedelic landscape of the 1980s, describing an era "unusually empty

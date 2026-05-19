@@ -9,7 +9,7 @@ tags:
 type: comparison
 ---
 
-# Rotational Grazing vs Set Stocking
+## Rotational Grazing vs Set Stocking
 
 > A comparative analysis of two foundational [[regenerative-agriculture]].
 

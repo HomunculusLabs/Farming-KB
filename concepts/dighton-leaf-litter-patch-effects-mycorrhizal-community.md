@@ -1,3 +1,8 @@
+---
+title: "Dighton Leaf Litter Patch Effects Mycorrhizal Community"
+tags:
+  - concept
+---
 Source: [[fungal-ecology-forest-floor]] create spatially heterogeneous resource
 environments that significantly influence [[fungal-succession-leaf-litter]] resources exist on the [[mycorrhizae]] and the response
 of the mycorrhizal community to optimize nutrient retention and stability within
@@ -143,7 +148,3 @@ current understanding and implementation strategies.
 
 Successful integration of dighton leaf litter patch effects mycorrhizal community into broader
 systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

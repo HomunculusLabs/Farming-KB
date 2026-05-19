@@ -1,4 +1,8 @@
-# Brassinosteroid Experimental Methodology — Gartz 1990
+---
+title: "Brassinosteroid Experimental Methodology — Gartz 1990"
+tags:
+  - concept
+---
 
 The 1990 study by Gartz, Adam, and Vorbrodt on brassinosteroid
 growth-promoting effects [[brassinosteroid-effects-on-fungal-morphology]] across two

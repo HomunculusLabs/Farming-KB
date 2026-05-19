@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Nutrient Uptake Mechanisms
+## Mycorrhizal Nutrient Uptake Mechanisms
 
 [[mycorrhizal-fungi]] serve a fundamental role in assisting host plants with the acquisition
 of mineral nutrients from soil. This function is among the most widely studied and

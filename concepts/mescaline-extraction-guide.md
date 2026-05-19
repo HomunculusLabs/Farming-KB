@@ -7,7 +7,7 @@ tags: [entheogen, chemistry, preparation, lab-technique, cacti, psychopharmacolo
 sources: []
 ---
 
-# Mescaline Extraction Guide
+## Mescaline Extraction Guide
 
 ## Overview
 

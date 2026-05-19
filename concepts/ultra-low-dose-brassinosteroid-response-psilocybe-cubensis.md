@@ -6,7 +6,7 @@ created: 2026-05-08
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 ---
 
-# Ultra-Low Dose Brassinosteroid Response in Psilocybe cubensis
+## Ultra-Low Dose Brassinosteroid Response in Psilocybe cubensis
 
 ## Overview
 

@@ -8,7 +8,7 @@ categories:
   - medicine
 ---
 
-# Lumbrokinase
+## Lumbrokinase
 
 ## Description
 

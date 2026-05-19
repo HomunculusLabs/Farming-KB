@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Manure Quality and Soil Amendment Variability
+## Manure Quality and Soil Amendment Variability
 
 ## Overview
 

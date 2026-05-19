@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Cancer-Related Symptoms
+## Cannabis for Cancer-Related Symptoms
 
 ## Cancer Overview
 

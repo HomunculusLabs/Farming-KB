@@ -4,7 +4,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, thigmomorphogenesis, touch-response, mechanoperception, chamovitz]
 ---
 
-# Thigmomorphogenesis — How Plants Respond to Touch
+## Thigmomorphogenesis — How Plants Respond to Touch
 
 Plants are exquisitely sensitive to mechanical stimulation. In Chapter 3 of
 "What a Plant Knows," [[plant-sensory-perception]].

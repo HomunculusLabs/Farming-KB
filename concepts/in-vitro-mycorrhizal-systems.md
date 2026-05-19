@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# In Vitro Mycorrhizal Systems
+## In Vitro Mycorrhizal Systems
 
 In vitro mycorrhizal systems are experimental setups that allow the study and application of [[arbuscular-mycorrhizal-inoculum-production-best-practices]]**: Clean, pathogen-free mycorrhizal inoculum for commercial use
 - **Co-culture biotechnology**: Combined plant cell-fungal cultures for enhanced [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi are obligate biotrophs that cannot be grown without a host. Monoxenic (two-organism) cultures involve:

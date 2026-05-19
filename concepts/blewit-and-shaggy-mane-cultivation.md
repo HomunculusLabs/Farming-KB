@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycovermediation.md
 type: concept
 ---
 
-# Blewit and Shaggy Mane Cultivation
+## Blewit and Shaggy Mane Cultivation
 
 An overview of two cold-weather, compost-loving genera: **Clitocybe nuda**
 (blewit) and **Coprinus comatus** (shaggy mane / inky cap). Both are secondary

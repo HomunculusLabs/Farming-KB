@@ -8,7 +8,7 @@ type: concept
 tags: [grain-spawn, mushroom-cultivation]
 ---
 
-# Cuthill on Historical Mushroom [[french-flake-spawn-vs-brick-spawn]] was the standard product available to gardeners:
+## Cuthill on Historical Mushroom [[french-flake-spawn-vs-brick-spawn]] was the standard product available to gardeners:
 
 - A London brick was seven inches square and two inches thick, "like a
   small paving tile."

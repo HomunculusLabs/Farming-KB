@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Perlite vs Vermiculite
+## Perlite vs Vermiculite
 
 ## Overview
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [lignin-peroxidase, redox-mediator, white-rot-fungi, enzyme-mechanism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Veratryl Alcohol as Lignin Peroxidase Mediator
+## Veratryl Alcohol as Lignin Peroxidase Mediator
 
 Veratryl alcohol (VA; 3,4-dimethoxybenzyl alcohol) is a secondary
 metabolite produced naturally by [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]], enabling LiP to

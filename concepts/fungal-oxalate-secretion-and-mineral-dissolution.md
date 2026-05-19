@@ -6,7 +6,7 @@ tags: [oxalic-acid, oxalate, mineral-dissolution, bioweathering, calcium-oxalate
 created: 2026-05-11
 ---
 
-# Fungal Oxalate Secretion and Mineral Dissolution
+## Fungal Oxalate Secretion and Mineral Dissolution
 
 Oxalic acid (ethanedioic acid) is one of the most important organic acids
 produced by fungi. Its secretion into the environment drives mineral

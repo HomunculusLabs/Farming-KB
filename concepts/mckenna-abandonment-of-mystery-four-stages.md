@@ -4,7 +4,7 @@ source: "mckenna_t-food_of_the_gods.md"
 tags: [mckenna, food-of-the-gods, mystery-cults, religious-history, dominator-culture, eleusinian, soma, cultural-evolution]
 ---
 
-# Abandonment of the Mystery: Four Stages of Profanation
+## Abandonment of the Mystery: Four Stages of Profanation
 
 ## Overview
 

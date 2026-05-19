@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Fungal Biology and Hyphal Growth
+## Fungal Biology and Hyphal Growth
 
 ## Overview
 

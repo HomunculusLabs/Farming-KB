@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-O-4
+## 2C-O-4
 
 [[scythian-cannabis-steam-bath-ritual]] for 3.5 h. White crystals of KI appeared
 at the end of the first h. The mixture was poured into 800 mL H2O (it

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# IDNNA
+## IDNNA
 
 [[tryptamine]] research varies by jurisdiction.
 

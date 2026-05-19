@@ -7,7 +7,7 @@ source: "exotic-mushroom-cultivation-guide guide — grass seed method"
 aliases: [plastic bin fruiting chamber, simple mushroom grow chamber, cheap fruiting setup]
 ---
 
-# Simple Polyethylene Bin Fruiting Chamber for Psilocybe Mushroom Cultivation
+## Simple Polyethylene Bin Fruiting Chamber for Psilocybe Mushroom Cultivation
 
 ## Overview
 

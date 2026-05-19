@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Conventional and Organic Pesticide Integration
+## JADAM Conventional and Organic Pesticide Integration
 
 JADAM [[coleman-deep-organic-farming-philosophy]].
 Even farmers practicing conventional agriculture can use [[hamilton-pest-and-disease-control-organic]]: effective against most fungal

@@ -20,7 +20,7 @@ sources:
   - wiki/raw/papers/ (ethnobotanical and cultivation references)
 ---
 
-# Piper guineense
+## Piper guineense
 
 **Piper guineense**, known as **West African [[fungal-biodiversity-tropical-forests]] of West and Central Africa and is widely used as a spice and medicinal plant across the region. Despite the common name, it is not closely related to true black pepper (*[[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] belt of West and Central Africa, from Senegal eastward through Nigeria, Cameroon, Gabon, Congo, and into the Democratic Republic of Congo and northern Angola. It grows naturally in the understory of lowland and premontane moist forests, typically at elevations of 0–1,500 meters. It prefers humid, shaded conditions with well-drained, loamy soils rich in [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 

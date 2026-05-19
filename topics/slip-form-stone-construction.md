@@ -5,7 +5,7 @@ tags: [natural-building, stone-masonry, slipform, homesteading, thermal-mass, ow
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/slip-form-stone-construction.md
+  - raw/concepts/slip-form-stone-construction.md
 related_concepts:
   - slip-form-stone-construction
   - cordwood-construction
@@ -13,7 +13,7 @@ related_concepts:
   - cob-building
   - natural-building-overview
 ---
-# Slip Form Stone Construction
+## Slip Form Stone Construction
 Slip form stone construction, also called slipform masonry, is a building technique in which stone and concrete are cast together inside temporary wooden forms.
 The method creates thick load-bearing walls with an exposed stone face and a concrete or mortar core.
 It is popular among owner-builders because it can use irregular local stone without requiring the precision of traditional dressed masonry.

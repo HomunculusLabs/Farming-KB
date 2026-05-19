@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Erosion Processes and Control
+## Soil Erosion Processes and Control
 
 Soil erosion and degradation represent one of the most critical threats to agricultural productivity and ecological stability. In [[green-manure]], grass leys in rotation, hedgerows, and minimal cultivation are not merely beneficial practices — they are imperative for long-term soil survival.
 

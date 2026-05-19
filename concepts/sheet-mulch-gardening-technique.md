@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Sheet Mulch Gardening Technique
+## Sheet Mulch Gardening Technique
 
 [[sheet-mulching]] is the foundational technique for creating productive garden beds without digging, tilling, or weeding. It converts compacted, damaged, or weed-infested ground into rich, living soil by layering organic materials over existing ground. Mollison describes it as saving "a great deal of labour, and a great deal of water, while dispensing with material that normally goes into landfill."
 

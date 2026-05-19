@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Yarrow vs Lemon Balm
+## Yarrow vs Lemon Balm
 ## Overview
 
 Yarrow ([[yarrow-achillea-millefolium]]) and lemon balm

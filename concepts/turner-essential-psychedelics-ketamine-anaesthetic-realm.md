@@ -8,7 +8,7 @@ type: concept
 tags: [psychedelics]
 ---
 
-# Ketamine Anaesthetic Realm
+## Ketamine Anaesthetic Realm
 
 Turner dedicates a full chapter to [[ketamine-ultimate-psychedelic-journey]]
 Journey," rating its intensity at "10 -- Infinity." He calls it "the most

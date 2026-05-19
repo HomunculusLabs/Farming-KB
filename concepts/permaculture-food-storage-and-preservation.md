@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Permaculture Food Storage and Preservation
+## Permaculture Food Storage and Preservation
 
 Permaculture food storage and preservation aims to extend harvest abundance
 through the lean seasons using methods that minimize energy inputs and

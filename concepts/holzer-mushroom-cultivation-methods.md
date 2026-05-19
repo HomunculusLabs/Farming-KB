@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Cultivating Mushrooms
+## Cultivating Mushrooms
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 

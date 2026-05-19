@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Bigwood and Beug Psilocybe cubensis Cultivation Methodology
+## Bigwood and Beug Psilocybe cubensis Cultivation Methodology
 
 ## Overview
 

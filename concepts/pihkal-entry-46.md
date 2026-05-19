@@ -1,3 +1,8 @@
+---
+title: "Pihkal Entry 46"
+tags:
+  - concept
+---
      1|     1|---
      2|     2|source: shulgin-a-pihkal.md
      3|     3|source_path: ~/wiki/raw/papers/shulgin-a-pihkal.md

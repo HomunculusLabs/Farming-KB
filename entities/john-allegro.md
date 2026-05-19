@@ -22,7 +22,7 @@ sources:
 - raw/papers/allegro-j-the-sacred-mushroomcross.md
 ---
 
-# John Allegro
+## John Allegro
 
 John Marco Allegro (1923-1988) was an English philologist, Dead Sea Scrolls scholar, and controversial author best known for *The Sacred Mushroom and the Cross* (1970), which argued that Christianity originated in an ancient fertility cult centered on the use of Amanita muscaria mushrooms.
 

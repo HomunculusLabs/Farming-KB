@@ -5,7 +5,7 @@ type: entity
 categories: [organizations, publishing, permaculture]
 ---
 
-# Tagari Publications
+## Tagari Publications
 
 ## Description
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Climatic Factors in Permaculture Design
+## Climatic Factors in Permaculture Design
 
 Climate is the primary determinant of plant, animal, and structural assemblies in any
 [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|what]] structures are appropriate,

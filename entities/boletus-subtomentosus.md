@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycota, agaricomycetes, boletales, boletaceae, boletus, xerocomus, edible-caution]
 ---
 
-# Boletus subtomentosus
+## Boletus subtomentosus
 
 ## Description
 

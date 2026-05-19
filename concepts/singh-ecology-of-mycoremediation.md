@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ecology of Mycoremediation
+## Ecology of Mycoremediation
 
 The ecology of mycoremediation encompasses the complex interactions between
 fungi and their environments during the biodegradation of hazardous and

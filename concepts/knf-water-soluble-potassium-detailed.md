@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# Water-Soluble Potassium (WP)
+## Water-Soluble Potassium (WP)
 
 **Updated:** 2026-04-18
 

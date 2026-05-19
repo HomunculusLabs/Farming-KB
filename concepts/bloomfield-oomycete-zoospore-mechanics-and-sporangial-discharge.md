@@ -13,7 +13,7 @@ sources:
   - unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
 ---
 
-# Oomycete Zoospore Discharge Mechanics and Sporulation
+## Oomycete Zoospore Discharge Mechanics and Sporulation
 
 [[marine-oomycete-zoospore-biology-encystment]] with paired flagella,
 and the process by which these spores are produced and expelled from the

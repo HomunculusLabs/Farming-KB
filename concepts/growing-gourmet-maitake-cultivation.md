@@ -10,7 +10,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Maitake Cultivation
+## Maitake Cultivation
 
 Maitake ([[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]], a superficially similar species. Grifola frondosa belongs to the family Meripilaceae and is a polypore, producing spores from pores on the underside of the caps rather than from gills. The pore surface is white, staining brownish with age or handling.
 

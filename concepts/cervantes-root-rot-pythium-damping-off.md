@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Root Rot, Pythium, and Damping-Off
+## Root Rot, Pythium, and Damping-Off
 
 Root rot and damping-off are among the most destructive fungal
 diseases affecting cannabis at all growth stages. Jorge Cervantes

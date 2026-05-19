@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Acidifying Pollutants and Mycorrhizal Fungi
+## Acidifying Pollutants and Mycorrhizal Fungi
 
 The effects of acidifying pollutants on [[mycorrhizal-fungi]] represent one of the most thoroughly studied aspects of anthropogenic impacts on belowground fungal communities. Research emerging from the *Waldsterben* (forest dieback) phenomenon in central European forests during the 1970s and 1980s established that acidifying pollutants damage both root systems and their associated mycorrhizal symbionts through multiple interacting mechanisms. These findings have profound implications for forest health, nutrient cycling, [[fungal-rhizosphere-and-ecosystem-resilience]].
 

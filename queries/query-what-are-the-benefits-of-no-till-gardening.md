@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Are the Benefits of No-Till Gardening?
+## What Are the Benefits of No-Till Gardening?
 
 ## Short Answer
 No-till gardening preserves soil structure, protects beneficial fungal networks and

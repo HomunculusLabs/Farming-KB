@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Your Own Seed
+## Growing Your Own Seed
 
 Saving your own seed is the ultimate step toward garden self-sufficiency. It reduces costs, preserves varieties adapted to your specific conditions, and provides a deeper understanding of plant biology. However, [[biointensive-seed-saving]] ranges from simple (for self-pollinating species) to extremely challenging (for outcrossing species), and understanding the difference is essential before attempting it.
 

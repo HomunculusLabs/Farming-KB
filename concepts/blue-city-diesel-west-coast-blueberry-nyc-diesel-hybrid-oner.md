@@ -1,4 +1,8 @@
-# Blue City Diesel — West Coast Blueberry Meets New York City Diesel
+---
+title: "Blue City Diesel — West Coast Blueberry Meets New York City Diesel"
+tags:
+  - concept
+---
 
 **Source:** S.T. Oner, *[[berry-growing]]:
 

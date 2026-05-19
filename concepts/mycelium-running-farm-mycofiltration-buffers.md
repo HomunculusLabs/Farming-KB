@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-# Farm Mycofiltration Buffers
+## Farm Mycofiltration Buffers
 
 Mycofiltration around farms addresses one of the most pressing environmental
 challenges of modern agriculture: the contamination of watersheds by animal

@@ -1,4 +1,8 @@
-# Peganum Harmala as Soma Substitute and Psilocybin Synergy
+---
+title: "Peganum Harmala as Soma Substitute and Psilocybin Synergy"
+tags:
+  - concept
+---
 
 ## Overview
 [[psilocybin-mushroom]]**,

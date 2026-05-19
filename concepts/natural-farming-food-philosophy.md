@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Natural Farming Food Philosophy
+## Natural Farming Food Philosophy
 
 [[masanobu-fukuoka]]'s food philosophy is inseparable from his [[fukuoka-seed-selection-methods]] -- selecting the right varieties
 - [[fukuoka-natural-diet-food-philosophy]]

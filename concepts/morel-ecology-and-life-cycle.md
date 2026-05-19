@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Morel Ecology and Life Cycle
+## Morel Ecology and Life Cycle
 
 Morels (*Morchella* spp.) are among the most coveted mushrooms on the planet, yet they remain extremely difficult to cultivate due to their complex ecology and variable life cycle. Understanding their biology is essential for any cultivation effort, whether indoor or outdoor.
 

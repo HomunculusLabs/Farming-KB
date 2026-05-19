@@ -4,9 +4,9 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md]
+sources: ["raw/papers/symbiotic-fungi.md"]
 ---
-# Lichenized Fungi — Biology, Ecology, and Diversity
+## Lichenized Fungi — Biology, Ecology, and Diversity
 Lichens are composite organisms consisting of a fungal partner (mycobiont)
 and a photosynthetic partner (photobiont) that grow symbiotically to form a
 coherent structure (thallus). With >13,500 species — about 20% of all

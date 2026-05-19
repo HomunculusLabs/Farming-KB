@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ergot, [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
+## Ergot, [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

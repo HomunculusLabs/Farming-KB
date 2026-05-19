@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-future-drugs.md"
 ---
-# gamma-2C-T-4 (2,6-Dimethoxy-4-isopropylthiophenethylamine)
+## gamma-2C-T-4 (2,6-Dimethoxy-4-isopropylthiophenethylamine)
 
 gamma-2C-T-4 is a phenethylamine compound and a member of the 2C-T family of psychedelic substances. It is notable as a "pseudo-psychedelic," representing the 2,4,6-trisubstitution pattern rather than the classic 2,4,5 pattern. The compound is listed as [[savory-short-duration-grazing-and-cell-systems]].
 

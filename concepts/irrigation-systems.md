@@ -29,7 +29,7 @@ sources:
 - https://www.irrigationtutorials.com/drip-irrigation-design-guide
 ---
 
-# Irrigation Systems
+## Irrigation Systems
 
 Comprehensive guide to irrigation methods for a regenerative homestead. Covers drip, sprinklers, flood/furrow, olla pots, wicking beds, automation, rainwater integration, winterization, and troubleshooting. See [[homestead-water-systems]] for sourcing and [[water-management]] for earthworks.
 

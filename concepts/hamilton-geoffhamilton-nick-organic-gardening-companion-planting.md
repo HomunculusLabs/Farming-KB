@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# Companion Planting
+## Companion Planting
 
 Companion planting is a technique practiced by many organic gardeners
 based on the idea that plants have specific likes and dislikes concerning

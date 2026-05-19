@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Photoperiod Cannabis
+## Photoperiod Cannabis
 
 The photoperiod is the relationship between the duration of the light period and dark
 period in a 24-hour cycle. Cannabis is a photoperiodic-reactive plant: the length of

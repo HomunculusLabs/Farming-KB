@@ -14,7 +14,7 @@ sources:
   - Kossuth, S.V. & Michael, J.L. (2000). "A Guide to the Silviculture of Loblolly, Slash, and Shortleaf Pines in the Southeast." USDA Forest Service General Technical Report SRS-42.
 ---
 
-# Pinus echinata
+## Pinus echinata
 
 ## Overview
 

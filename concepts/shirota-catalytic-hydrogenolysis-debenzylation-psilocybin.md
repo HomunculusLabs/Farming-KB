@@ -4,7 +4,7 @@ aliases: ["hydrogenolysis acetyl-protection-route-psilocin-psilocybin-synthesis"
 tags: [synthesis, psilocybin, catalysis, hydrogenolysis, palladium, shirota]
 ---
 
-# Catalytic Hydrogenolysis in Psilocybin Synthesis
+## Catalytic Hydrogenolysis in Psilocybin Synthesis
 
 ## Overview
 

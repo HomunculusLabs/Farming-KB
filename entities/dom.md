@@ -14,7 +14,7 @@ sources:
   - "raw/papers/shulgin-a-2c-t-7-pihkal-43.md"
 ---
 
-# DOM (4-Methyl-2,5-dimethoxyamphetamine)
+## DOM (4-Methyl-2,5-dimethoxyamphetamine)
 
 DOM is a potent psychedelic amphetamine and the prototype of the DOx series — compounds that combine the psychedelic
 2,5-dimethoxy-4-substituted phenethylamine pharmacophore with the alpha-methyl group characteristic of amphetamines.

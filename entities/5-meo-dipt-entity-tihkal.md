@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 5-MeO-DIPT (Foxy Methoxy)
+## 5-MeO-DIPT (Foxy Methoxy)
 
 TIHKAL entry #37. An orally active psychedelic tryptamine with pronounced erotic enhancement properties. Known colloquially as "Foxy" or "Foxy Methoxy." Notable for producing a fast-acting, relatively short [[leary-psychedelic-experience-bardo-mapping]] with minimal visual effects but strong sensory and sexual enhancement. Originally co-published with Michael Carter in 1981.
 

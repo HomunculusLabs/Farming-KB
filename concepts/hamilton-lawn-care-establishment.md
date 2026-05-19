@@ -7,7 +7,7 @@ tags: [gardening]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Hamilton: Lawn Care and Establishment
+## Hamilton: Lawn Care and Establishment
 
 **Source:** Geoff Hamilton, *[[disposable-tray-casing-method-grass-seed-substrate]] at 1-1.5 oz (25-35g) per square yard/meter (about two handfuls). If sowing along paving edges, raise the lawn level slightly above the paving for easier mowing.
 

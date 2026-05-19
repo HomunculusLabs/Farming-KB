@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Animal Systems in Arid Areas
+## Animal Systems in Arid Areas
 
 Small livestock systems are remarkably productive in desert environments when properly designed. The key is working with the natural behaviour and ecology of animals rather than against it, and recognising that deserts support a far wider diversity of edible species than conventional agriculture acknowledges.
 

@@ -23,7 +23,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Concise Large-Scale Synthesis of Psilocin and Psilocybin
+## Concise Large-Scale Synthesis of Psilocin and Psilocybin
 
 ## Overview
 

@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# What Is Trap Cropping and How Does It Work?
+## What Is Trap Cropping and How Does It Work?
 Trap cropping is a targeted [[insectary-plants-guide]] and [[singh-entomopathogenic-fungi-biocontrol-agents]] such as
   [[trap-cropping]] reference page.
 ## Key Takeaways

@@ -21,7 +21,7 @@ sources:
   - "Mark, S.E. (2009). Jujube: An ancient fruit for modern times. *Fruit Gardener*, 11(6), 12–17."
 ---
 
-# Jujube (Ziziphus jujuba) — Cultivation, Varieties, and Uses
+## Jujube (Ziziphus jujuba) — Cultivation, Varieties, and Uses
 
 The jujube (*Ziziphus jujuba* Mill.), also known as the Chinese date, red date, or tsao, is a deciduous fruit tree in the buckthorn family (Rhamnaceae). Native to China, it has been cultivated for over 4,000 years and ranks among the most important fruit crops in East and South Asia. Valued for its exceptional [[food-forest]] species for arid and semi-arid climates. The fruit can be eaten fresh, dried, candied, or processed into vinegar, wine, and tea, while the leaves, seeds, and bark have documented uses in traditional medicine.
 

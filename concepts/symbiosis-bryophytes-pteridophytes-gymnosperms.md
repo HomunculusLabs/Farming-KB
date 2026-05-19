@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Symbiosis in Bryophytes, Pteridophytes, and Gymnosperms
+## Symbiosis in Bryophytes, Pteridophytes, and Gymnosperms
 
 ## Bryophyte Symbiosis (Liverworts)
 

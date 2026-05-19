@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Surface Sterilization Comparison: Microwave vs Conventional Methods
+## Surface Sterilization Comparison: Microwave vs Conventional Methods
 
 The NASA Technical Support Package MSC-22484 frames [[conventional-surface-sterilization-methods-limitations-comparison]]. The document identifies five major
 conventional approaches and catalogs their specific drawbacks when applied

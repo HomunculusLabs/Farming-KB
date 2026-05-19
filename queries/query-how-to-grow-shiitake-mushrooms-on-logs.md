@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Grow Shiitake Mushrooms on Logs
+## How to Grow Shiitake Mushrooms on Logs
 
 ## Short Answer
 

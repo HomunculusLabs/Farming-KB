@@ -16,7 +16,7 @@ tags:
   - natural-history
 ---
 
-# Stinkhorn Fungi and Spore Dispersal
+## Stinkhorn Fungi and Spore Dispersal
 
 From Nicholas P. Money's *Mr. Bloomfield's Orchard* (2002), Chapter 1:
 "Offensive Phalli and Frigid Caps" — an exploration of the bizarre and

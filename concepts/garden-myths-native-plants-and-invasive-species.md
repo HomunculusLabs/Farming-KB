@@ -6,7 +6,7 @@ type: concept
 sources: linda-chalker-scott-the-informed-gardener
 tags: [garden-myths, ecology, horticulture, debunking]
 ---
-# Garden Myths About Native Plants and Invasive Species
+## Garden Myths About Native Plants and Invasive Species
 The native plant movement has generated tremendous benefits for ecological landscaping, but it has also produced its own set of myths and oversimplifications. Similarly, the management of invasive species is surrounded by misconceptions that can lead to poor management decisions. Evidence-based horticulture seeks a balanced, nuanced understanding of these complex topics.
 ## Myth: Native Plants Are Always Easier to Grow
 The claim that native plants require less maintenance, water, and pest management because they are "adapted to local conditions" is an oversimplification that fails to account for the realities of garden environments.

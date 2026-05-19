@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# BEATRICE
+## BEATRICE
 
 [[scythian-cannabis-steam-bath-ritual]] for several h. Removal
 of the solvent gave 5.5 g of a white solid, which could be

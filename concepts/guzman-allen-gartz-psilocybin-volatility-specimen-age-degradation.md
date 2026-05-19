@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Volatility, Specimen Age, and Degradation
+## Psilocybin Volatility, Specimen Age, and Degradation
 
 ## The Critical Variable of Specimen Age
 

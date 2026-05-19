@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Natural Orchard Ground Cover System
+## Natural Orchard Ground Cover System
 
 Fukuoka's [[permaculture-plants-food-forest-ground-covers-bamboos]] of legumes with fertilizer trees to create
 a self-sustaining ecosystem. This system eliminates the need for chemical

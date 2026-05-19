@@ -5,7 +5,7 @@ type: entity
 tags: [technique, product, salad-mix, french, market-gardening, winter-crop]
 ---
 
-# Mesclun
+## Mesclun
 
 ## Description
 

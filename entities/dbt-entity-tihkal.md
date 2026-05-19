@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# DBT (N,N-Dibutyltryptamine)
+## DBT (N,N-Dibutyltryptamine)
 
 TIHKAL entry #2. N,N-dibutyltryptamine is a synthetic tryptamine carrying two butyl groups on the terminal nitrogen atom. It represents the high end of the dialkyl tryptamine chain-length series explored by Shulgin, and serves primarily as a structure-activity relationship reference point rather than a pharmacologically active compound of interest.
 

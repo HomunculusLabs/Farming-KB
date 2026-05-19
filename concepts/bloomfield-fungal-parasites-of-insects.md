@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-# Fungal bloomfield fungal parasites of insects
+## Fungal bloomfield fungal parasites of insects
 
 Fungi are among the most devastating parasites of insects, capable of
 commandeering the behavior of their hosts, liquefying their internal organs,

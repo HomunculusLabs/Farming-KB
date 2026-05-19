@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Dehydration Methods and Equipment
+## Mushroom Dehydration Methods and Equipment
 
 ## Overview
 

@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, plant-pathogen, sclerotium-forming, necrotroph]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Sclerotinia sclerotiorum
+## Sclerotinia sclerotiorum
 
 **Type:** Species (Fungus)
 **Category:** Necrotrophic Filamentous Ascomycete

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycoparasite-Host Interface Types and Interaction Mechanisms
+## Mycoparasite-Host Interface Types and Interaction Mechanisms
 
 The hyphae of a mycoparasite generally contact a host by hyphal
 apposition, by coiling around the hyphae, or by growth of short hyphal

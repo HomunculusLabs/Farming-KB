@@ -19,7 +19,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Permaculture Plant Selection and Useful Species Categories
+## Permaculture Plant Selection and Useful Species Categories
 
 Permaculture plant selection is the art and science of choosing species that fulfill multiple ecological, productive, and regenerative functions within a designed system. As documented in *Permaculture Plants: A Selection* by Jeff Nugent and Julia Boniface, approximately 15,000 edible plant species have been recorded worldwide, and many more remain undocumented or poorly studied. This extraordinary diversity stands in stark contrast to the narrow handful of crops that dominate global agriculture, and it represents a vast reservoir of resilience, nutrition, and ecological function that permaculture designers seek to harness.
 

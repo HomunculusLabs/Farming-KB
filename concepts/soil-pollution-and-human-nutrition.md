@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Pollution and Human Nutrition
+## Soil Pollution and Human Nutrition
 
 The integrity of soils and waters is foundational to human health. In [[bill-mollison]]'s *Permaculture: A Designers' Manual*.
 

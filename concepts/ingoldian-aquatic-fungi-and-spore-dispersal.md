@@ -1,4 +1,8 @@
-# Ingoldian Aquatic Fungi and Spore Dispersal
+---
+title: "Ingoldian Aquatic Fungi and Spore Dispersal"
+tags:
+  - concept
+---
 
 In 1938, the British mycologist C.T. Ingold made a discovery that
 transformed our understanding of [[aquatic-hyphomycetes-and-ingoldian-spores]], a group of fungi that has since come to be

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Plant Additives and Growth Supplements
+## Plant Additives and Growth Supplements
 
 Numerous additives and growth supplements have entered the cannabis
 growing market. Generally, additives contain a cocktail of beneficial

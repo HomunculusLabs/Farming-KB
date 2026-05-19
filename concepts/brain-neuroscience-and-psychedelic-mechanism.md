@@ -6,7 +6,7 @@ type: concept
 sources: the-psilocybin-solution-by-simon-g-powell.md
 tags: [reference]
 ---
-# Brain Neuroscience and Psychedelic Mechanism
+## Brain Neuroscience and Psychedelic Mechanism
 
 Simon G. Powell dedicates Chapter 5 of "The [[leary-psychedelic-experience-bardo-mapping]]. Titled "The Mushroom and the Synapse," the chapter investigates the neuronal architecture of the brain to comprehend the nature and potential dynamics of consciousness, examining how psilocybin and related compounds interact with the brain's information-processing systems.
 

@@ -15,7 +15,7 @@ sources:
   - Swanson, R.E. (1994). "A Field Guide to the Trees and Shrubs of the Southern Appalachians." dighton-mycorrhizal-diversity-ecosystem-function." Plant and Soil.
 ---
 
-# Comptonia peregrina
+## Comptonia peregrina
 
 ## Overview
 

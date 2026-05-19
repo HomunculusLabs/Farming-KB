@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Building and Settlements
+## Dryland Building and Settlements
 
 Dryland environments present unique challenges for human settlement, including extreme temperature fluctuations, water scarcity, high evaporation rates, and often poor or saline soils. Permaculture approaches to [[passive-solar-design]] and earth-sheltered construction.
 

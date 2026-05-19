@@ -6,7 +6,7 @@ date: 2026-05-09
 aliases: [Plant Light Receptors, Phytochrome, Cryptochrome, Phototropin, UVR8]
 ---
 
-# Plant Photoreceptors: Phytochromes, Cryptochromes, and Beyond
+## Plant Photoreceptors: Phytochromes, Cryptochromes, and Beyond
 
 Plants detect and respond to light through a sophisticated array of photoreceptor
 proteins, each tuned to specific wavelength ranges and mediating distinct physiological

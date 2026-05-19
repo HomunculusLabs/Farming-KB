@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal]
 sources: []
 ---
-# 4-TASB
+## 4-TASB
 
 4-TASB (4-thioasymbescaline; 3-ethoxy-4-ethylthio-5-methoxyphenethylamine) is a phenethylamine described in [[four-hydroxyindole-psilocin-synthesis-route-shirota]] passed through 3-ethoxy-2-(ethylthio)anisole, bromination, benzyne-mediated cyanation with acetonitrile, and final reduction with lithium aluminum hydride.
 

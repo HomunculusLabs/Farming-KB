@@ -16,7 +16,7 @@ sources:
   - Hughes, C.E. (1998). "Monograph of Enterolobium (Leguminosae: Mimosoideae)." Systematic Botany Monographs.
 ---
 
-# Enterolobium cyclocarpum
+## Enterolobium cyclocarpum
 
 **Enterolobium cyclocarpum** (Jacq.) Griseb., commonly known as the **ear pod tree**, **guanacaste**, or **parota**, is a large deciduous tree in the family Fabaceae. It is the national tree of Costa Rica, where it lends its name to the Guanacaste Province.
 

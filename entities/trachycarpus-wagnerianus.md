@@ -16,7 +16,7 @@ sources:
   - Kew Royal Botanic Gardens (2024). "Plants of the World Online: Trachycarpus wagnerianus."
 ---
 
-# Trachycarpus wagnerianus
+## Trachycarpus wagnerianus
 
 ## Overview
 

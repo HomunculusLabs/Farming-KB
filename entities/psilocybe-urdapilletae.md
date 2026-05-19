@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, mexico, psilocybe, section-aztecorum, hallucinogenic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: ["raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md"]
 ---
 
-# Psilocybe urdapilletae
+## Psilocybe urdapilletae
 
 **Psilocybe urdapilletae** is a rare [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]], sharing morphological and ecological characteristics with [[field-guide-psilocybin-bluing-reaction-identification]] is described as moderate to strong, comparable to [[psilocin]], which oxidizes to blue pigments upon tissue damage. Baeocystin has been tentatively identified but not quantified. No detailed quantitative analysis of the tryptamine profile has been published for this species. Based on comparisons with better-studied section Aztecorum members, total psilocybin content is estimated at approximately 0.3–0.6% of dried weight, placing psilocybe urdapilletae in the moderate potency range. The chemical profile and observed bluing intensity suggest that psilocin accounts for a significant proportion of the total tryptamine content, consistent with the prominent blue staining characteristic of fresh collections.
 

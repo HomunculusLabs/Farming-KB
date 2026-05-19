@@ -7,7 +7,7 @@ tags: [gardening, climate, plants, cultivation, water-management, ecology, biodi
 sources: []
 ---
 
-# Tropical Gardening
+## Tropical Gardening
 
 ## Overview
 

@@ -21,7 +21,7 @@ related:
 type: concept
 ---
 
-# Disease Suppression Through Food Competition and Niche Exclusion
+## Disease Suppression Through Food Competition and Niche Exclusion
 
 Elaine Ingham's Field Guide for Actively [[cervantes-chemical-fungicides-insecticides]] and bactericides work by poisoning the target organism, but they often harm beneficial organisms simultaneously, creating a biological vacuum that pathogens can re-colonize rapidly. AACT, by contrast, fills every available niche with beneficial life, making it extremely difficult for pathogenic organisms to gain a foothold.
 

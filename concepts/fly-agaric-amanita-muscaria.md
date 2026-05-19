@@ -7,7 +7,7 @@ tags: [entheogen, species, ethnobotany, psychopharmacology, preparation, safety,
 sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md"]
 ---
 
-# Fly Agaric — Amanita muscaria
+## Fly Agaric — Amanita muscaria
 
 ## Overview
 

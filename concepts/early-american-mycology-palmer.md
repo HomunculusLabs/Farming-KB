@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Early American Mycology and Julius A. Palmer
+## Early American Mycology and Julius A. Palmer
 
 [[julius-auboineau-palmer]] Jr. was one of the earliest and most determined American
 pioneers in the practical study of [[classification-of-edible-and-poisonous-mushroom-families]] fungi. His book *About

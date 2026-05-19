@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Psychotria viridis
+## Psychotria viridis
 
 **Psychotria viridis** is a perennial shrub of the coffee family (Rubiaceae) native to the Amazon basin and other tropical regions of the Americas. It is best known as the principal **DMT-containing admixture plant** in the ayahuasca brew, where its leaves are combined with *Banisteriopsis caapi* vine to produce the entheogenic preparation used in indigenous and contemporary shamanic ceremonies. Without P. viridis (or an equivalent DMT source), the ayahuasca vine alone produces only mild psychoactive effects from its beta-carboline alkaloids. P. viridis thus provides the visionary and perceptual dimension of the ayahuasca experience, complementing the purgative and grounding qualities of the caapi vine.
 

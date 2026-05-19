@@ -19,7 +19,7 @@ sources:
   - "Gurwick, N. P., Moore, L. A., Kelly, C., & Elias, P. (2013). A systematic review of biochar research, with a focus on its stability in situ and predictions of its maximum potential to mitigate climate change. *Environmental Science & Technology*, 47(20), 11572–11582."
 ---
 
-# Hugelkultur vs Biochar for Soil Building and Carbon Sequestration
+## Hugelkultur vs Biochar for Soil Building and Carbon Sequestration
 
 ## Introduction
 

@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Synthetic Log Growth Parameters
+## Maitake Synthetic Log Growth Parameters
 
 **Grifola frondosa** (maitake / hen of the woods) is a polypore mushroom prized for its culinary value and studied extensively for medicinal properties. Cultivating maitake on synthetic logs requires careful management of temperature, humidity, CO₂, and light across three distinct growth phases. The entire production cycle from inoculation to harvest takes approximately **3.5 months** (Stamets, 1993; Royse & Guardino, 1997).
 

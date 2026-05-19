@@ -7,7 +7,7 @@ tags: [homesteading, equipment, homestead-crafts, design]
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
-# Mud Oven Construction
+## Mud Oven Construction
 
 A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baking oven built from natural materials -- clay, sand, straw, and stone. It costs very little to build, reaches high temperatures for bread and pizza, and retains heat for hours of baking or slow cooking. Drawn from [[nicole-faires]]' comprehensive manual.
 

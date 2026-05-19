@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Garden Irrigation Systems
+## Dryland Garden Irrigation Systems
 
 Dryland garden irrigation represents one of the most critical design considerations in [[humus]] pit waters a circle of vegetables, exploiting the porous earthenware to seep water slowly to surrounding soil.
 

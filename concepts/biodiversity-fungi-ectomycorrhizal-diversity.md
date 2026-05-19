@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ectomycorrhizal Fungal Diversity
+## Ectomycorrhizal Fungal Diversity
 
 Ectomycorrhizal (ECM) fungi form symbiotic associations with the fine
 roots of trees and shrubs, playing essential roles in forest nutrient

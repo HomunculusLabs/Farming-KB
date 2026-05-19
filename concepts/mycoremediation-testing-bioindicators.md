@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycoremediation Testing with Bioindicators
+## Mycoremediation Testing with Bioindicators
 
 ## Overview
 

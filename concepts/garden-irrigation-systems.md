@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Garden Irrigation Systems
+## Garden Irrigation Systems
 
 Garden irrigation in [[water-conservation]]** as the highest priority. Unguarded or unsheltered plots can waste up to 10% more water through edge evaporation alone. The most effective dryland garden watering methods are **trickle, drip, or seepage irrigation**, applied at whatever level of technology is appropriate for the context.
 

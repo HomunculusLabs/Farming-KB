@@ -7,7 +7,7 @@ tags: [ralph-metzner, alexander-shulgin, mdma, mda, empathogen,
 created: 2026-05-08
 ---
 
-# Empathogen Discovery: MDMA Psychotherapy and Emotional Opening
+## Empathogen Discovery: MDMA Psychotherapy and Emotional Opening
 
 [[ann-shulgin]], 1991), opened a new frontier in
 [[mckenna-food-gods-designer-states-of-consciousness]] that transcend ordinary reality.

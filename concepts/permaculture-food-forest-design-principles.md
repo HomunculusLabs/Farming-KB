@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
-# Permaculture Food Forest Design Principles
+## Permaculture Food Forest Design Principles
 
 A food forest (forest garden) is a perennial polyculture system modeled on the structure and function of a natural forest, but designed to produce food, fuel, fiber, and medicine. Mollison's Designer's Manual and Hemenway's Gaia's Garden both provide extensive guidance on food forest design.
 

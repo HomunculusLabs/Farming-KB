@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# N-Methyl-PEA
+## N-Methyl-PEA
 
 N-Methyl-PEA (N-Methylphenethylamine) is a substituted phenethylamine that occurs both endogenously in the human body and as a minor component of some dietary sources.
 

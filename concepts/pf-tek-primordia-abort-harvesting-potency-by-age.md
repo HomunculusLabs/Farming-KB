@@ -5,7 +5,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 created: 2026-05-11
 ---
 
-# PF TEK Primordia Development, Abort Harvesting, and Potency by Age
+## PF TEK Primordia Development, Abort Harvesting, and Potency by Age
 
 ## Overview
 

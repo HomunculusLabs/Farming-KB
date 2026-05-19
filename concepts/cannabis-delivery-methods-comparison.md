@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Delivery Methods Comparison
+## Cannabis Delivery Methods Comparison
 
 Cannabis may be administered through multiple routes, each with distinct pharmacokinetic profiles affecting onset time, duration, bioavailability, and therapeutic character. Selecting the appropriate delivery method is a critical component of effective medical cannabis therapy, often as important as strain and dose selection.
 

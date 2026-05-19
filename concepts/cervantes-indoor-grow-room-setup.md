@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# [[jorge-cervantes]]
+## [[jorge-cervantes]]
 
 ## Grow Room Design Fundamentals
 

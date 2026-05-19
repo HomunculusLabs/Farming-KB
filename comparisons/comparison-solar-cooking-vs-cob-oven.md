@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Solar Cooking vs Cob Oven
+## Solar Cooking vs Cob Oven
 
 ## Overview
 Solar cookers and cob ovens represent two fuel-conscious approaches to

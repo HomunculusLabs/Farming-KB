@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Fungal Metal Redox Transformations Beyond passive biosorption, fungi actively
+## Fungal Metal Redox Transformations Beyond passive biosorption, fungi actively
 transform metals through oxidation-reduction reactions,
 methylation-demethylation, precipitation, and organic acid-mediated dissolution.
 These biogeochemical transformations alter metal mobility, toxicity, and

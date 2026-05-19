@@ -10,7 +10,7 @@ tags:
 created: 2026-05-09
 ---
 
-# Plant Gravitropism and Spatial Awareness
+## Plant Gravitropism and Spatial Awareness
 
 ## Overview
 

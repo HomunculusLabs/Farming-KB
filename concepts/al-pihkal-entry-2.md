@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# AL (4-Allyloxy-3,5-dimethoxyphenethylamine)
+## AL (4-Allyloxy-3,5-dimethoxyphenethylamine)
 
 **[[bod-pihkal-entry-14]]
 - [[det]]

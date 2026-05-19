@@ -6,7 +6,7 @@ tags: [botany, plant-physiology, phytochrome, photoreceptor, red-light, far-red-
 created: 2026-05-09
 ---
 
-# Phytochromes and Plant Light Perception
+## Phytochromes and Plant Light Perception
 
 Phytochromes are a family of photoreceptor proteins that enable plants to
 detect and respond to red and far-red light. They are arguably the most

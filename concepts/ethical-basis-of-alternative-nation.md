@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Ethical Basis of an Alternative Nation
+## Ethical Basis of an Alternative Nation
 
 ## Overview
 

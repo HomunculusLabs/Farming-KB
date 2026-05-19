@@ -35,7 +35,7 @@ related_concepts:
   - cancer-medicinal-mushrooms-immune-modulation-beta-glucans
 ---
 
-# Herbal and Mushroom Immune Modulators
+## Herbal and Mushroom Immune Modulators
 
 ## Introduction
 

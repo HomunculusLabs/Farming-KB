@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungi in Desert and Arid Ecosystems
+## Fungi in Desert and Arid Ecosystems
 
 ## Overview
 

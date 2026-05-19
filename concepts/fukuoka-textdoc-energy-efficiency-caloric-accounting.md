@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [fukuoka, agriculture, energy, food-systems]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Energy Efficiency and Caloric Accounting in Agriculture
+## Energy Efficiency and Caloric Accounting in Agriculture
 
 Fukuoka's analysis of energy flows through agricultural systems reveals that
 modern farming is not merely less efficient than [[fukuoka-critique-modern-agriculture]] is not toward abundance but toward collapse.

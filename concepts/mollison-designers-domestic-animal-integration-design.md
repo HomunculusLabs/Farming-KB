@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Domestic Animal Integration Design
+## Domestic Animal Integration Design
 
 [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] devotes considerable
 attention to the integration of domestic animals into designed

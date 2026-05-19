@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Phenotype and Genotype Guide
+## Cannabis Phenotype and Genotype Guide
 
 Understanding [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]" provides the foundational text on cannabis genetics, breeding, and chemotaxonomy.
 

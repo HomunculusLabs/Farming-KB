@@ -6,7 +6,7 @@ type: concept
 tags: [guzman-1998, africa, neurotropic-fungi, psilocybe, panaeolus, biodiversity, distribution, mycology, underexplored, species-inventory]
 ---
 
-# African Neurotropic Fungi Distribution and Underexplored Biodiversity (Guzmán 1998)
+## African Neurotropic Fungi Distribution and Underexplored Biodiversity (Guzmán 1998)
 
 ## Overview
 

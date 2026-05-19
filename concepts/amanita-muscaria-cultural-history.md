@@ -1,6 +1,6 @@
 ---
 ---
-# Amanita Muscaria: Cultural History and Pharmacology
+## Amanita Muscaria: Cultural History and Pharmacology
 
 The fly-agaric (Amanita muscaria) is one of the most recognizable organisms on Earth and arguably the most culturally significant mushroom in human history. Andy Letcher devotes an entire chapter to it in Shroom: A Cultural History of the Magic Mushroom, while paul stamets provides cultivation context in The Mushroom Cultivator.
 

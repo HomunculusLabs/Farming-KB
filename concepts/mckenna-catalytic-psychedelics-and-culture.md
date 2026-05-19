@@ -8,7 +8,7 @@ type: concept
 tags: [culture, psychedelics]
 ---
 
-# McKenna on Catalytic Psychedelics and Culture
+## McKenna on Catalytic Psychedelics and Culture
 
 The concept of psychedelics as cultural catalysts is the unifying theoretical
 framework of [[mckenna-transcendent-other-and-exopheromones]]

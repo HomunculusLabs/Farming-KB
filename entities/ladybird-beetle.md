@@ -5,7 +5,7 @@ type: entity
 tags: [beneficial-insect, predator, soil-food-web, biological-control]
 ---
 
-# Ladybird Beetle (Coccinellidae)
+## Ladybird Beetle (Coccinellidae)
 
 ## Description
 

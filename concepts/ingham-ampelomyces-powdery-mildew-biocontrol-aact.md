@@ -5,7 +5,7 @@ source_author: Elaine Ingham Ph.D.
 topics: biocontrol, ampelomyces, aact-banana-cultivation-tropical-crop-disease-suppression-ingham
 ---
 
-# Ampelomyces quisqualis as Biocontrol Agent in AACT
+## Ampelomyces quisqualis as Biocontrol Agent in AACT
 
 ## Overview
 

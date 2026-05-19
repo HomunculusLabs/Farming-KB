@@ -9,7 +9,7 @@ type: concept
 tags: [medicine, mushroom-cultivation]
 ---
 
-# Gourmet and Medicinal Mushroom Casing Layer Techniques
+## Gourmet and Medicinal Mushroom Casing Layer Techniques
 
 A casing layer is a non-nutritious layer of material applied to the surface of a fully colonized substrate to stimulate fruiting. Unlike the substrate itself, casing provides microclimatic conditions that trigger the shift from vegetative mycelial growth to reproductive fruitbody formation. However, its application in gourmet [[mollison-designers-microclimate-creation-frost-protection]]**: Provides the specific environmental conditions that signal the mycelium to form mushrooms
 - **Physical support**: Gives structure for developing pins and fruitbodies

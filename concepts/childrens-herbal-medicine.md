@@ -7,7 +7,7 @@ tags: [herbalism, herbs]
 sources: []
 ---
 
-# Children's Herbal Medicine
+## Children's Herbal Medicine
 
 Children respond well to herbal medicine due to their vital constitution and rapid metabolism, but they also require special considerations in dosing, preparation selection, and herb safety. Children are not simply small adults; their developing organ systems, faster metabolic rates, lower body weight, and different sensitivity profiles require age-appropriate herbal approaches.
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Heterobasidion annosum
+## Heterobasidion annosum
 
 Heterobasidion annosum is one of the most economically important forest pathogens in the temperate and boreal zones of the Northern Hemisphere. It causes annosum root rot and butt rot in coniferous trees, resulting in significant timber losses, increased tree mortality, and reduced [[psilocybin-north-america-pacific-northwest]], and Asia.
 

@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Glaucoma Research
+## Cannabis and Glaucoma Research
 
 **Updated:** 2026-04-18
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: [papers/nutrient-and-dynamic-accumulators.md]
 ---
-# Nutrient Dynamic Accumulator Reference
+## Nutrient Dynamic Accumulator Reference
 
 [[query-how-to-fix-zinc-deficiency-in-cannabis]] was corrected by letting zinc-accumulating weeds flourish during fallow years, then tilling them in.
 

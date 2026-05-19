@@ -6,7 +6,7 @@ tags: [cannabis, microbiome, rhizosphere, endorhiza, soil-science, plant-microbe
 aliases: [Cannabis Root Zone Microbiome, Rhizosphere Zonation Cannabis]
 ---
 
-# Cannabis Rhizosphere Microbiome Zonation
+## Cannabis Rhizosphere Microbiome Zonation
 
 The rhizosphere — the narrow zone of soil immediately influenced by root secretions and
 associated soil microorganisms — is one of the most biologically active environments on

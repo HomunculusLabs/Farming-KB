@@ -1,4 +1,8 @@
-# MME
+---
+title: "MME"
+tags:
+  - entitie
+---
 
 [[phenethylamine-receptor-pharmacology|phenethylamine]] derivative with ethoxy substitution at the 5-position.
 
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of mme entity pihkal into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Garden Earthshaping and Bed Systems
+## Desert Garden Earthshaping and Bed Systems
 
 Home gardens return so much in health, cash, and quality of life that they deserve intensive, bed-by-bed planning, in which companion plants, seasonal succession, bed soil treatments, and a permanent watering method are all designed together. In desert environments, the physical shaping of garden beds and the method of planting into them are critical determinants of success.
 

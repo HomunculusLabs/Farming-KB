@@ -12,7 +12,7 @@ tags:
   - mantel-test
 ---
 
-# Cannabis Cannabinoid-Endophyte Community Correlation
+## Cannabis Cannabinoid-Endophyte Community Correlation
 
 ## Overview
 

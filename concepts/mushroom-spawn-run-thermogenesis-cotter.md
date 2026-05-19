@@ -8,7 +8,7 @@ sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
 
-# Mushroom Spawn Run Thermogenesis and Temperature Management
+## Mushroom Spawn Run Thermogenesis and Temperature Management
 
 During the spawn run, inoculated mycelium colonizes the [[contamination-identification-prevention]]
 - [[oyster-mushroom-pinning-induction-fruiting-conditions]]

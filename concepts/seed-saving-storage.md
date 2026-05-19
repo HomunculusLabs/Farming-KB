@@ -9,7 +9,7 @@ sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 type: concept
 ---
 
-# Seed Saving and Storage
+## Seed Saving and Storage
 
 Seed can be expensive to buy, so it is wise to save it from
 season to season. It is possible to harvest your own seeds

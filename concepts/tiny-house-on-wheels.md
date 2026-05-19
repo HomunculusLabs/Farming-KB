@@ -7,7 +7,7 @@ tags: [construction, [[homesteading]], off-grid, design, sustainability, enginee
 sources: []
 ---
 
-# Tiny House on Wheels
+## Tiny House on Wheels
 
 A Tiny House on Wheels (THOW) is a dwelling built on a trailer chassis, typically 8.5 feet wide and 13.5-22 feet long, designed to be mobile yet function as a permanent home. THOWs are a popular entry point for homesteaders seeking affordable, self-built housing with the flexibility to relocate. Building codes generally exempt structures on wheels, giving builders freedom in design.
 

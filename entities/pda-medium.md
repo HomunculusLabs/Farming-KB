@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, tissue-culture, laboratory]
 ---
 
-# PDA Medium (Potato Dextrose Agar)
+## PDA Medium (Potato Dextrose Agar)
 
 ## Description
 

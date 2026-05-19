@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-T-4 — 2,5-Dimethoxy-4-(i)-propylthiophenethylamine
+## 2C-T-4 — 2,5-Dimethoxy-4-(i)-propylthiophenethylamine
 
 [[2c-t-2]] — the ethylthio analogue in the 2C-T series
 - [[shulgin-dosage-guidelines]] — general guidance on Shulgin's dosage scale

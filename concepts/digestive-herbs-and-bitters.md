@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Digestive Herbs and Bitters
+## Digestive Herbs and Bitters
 
 Digestive herbs form one of the largest and most clinically validated categories of herbal medicine. They address a wide range of gastrointestinal complaints including indigestion, bloating, gas, nausea, poor appetite, acid reflux, and sluggish digestion. The digestive system is the primary interface between the body and the external environment, and herbalists have traditionally considered digestive function central to overall health.
 

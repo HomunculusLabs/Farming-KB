@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Psilocybin vs Mescaline
+## Psilocybin vs Mescaline
 
 A comparative overview of two of the most historically significant natural psychedelics: psilocybin-containing mushrooms and mescaline-containing cacti. Despite their shared classification as classic psychedelics, they belong to different chemical families and produce distinctly different experiential profiles. Understanding these differences is essential for anyone choosing between them or seeking to appreciate their unique contributions to the psychedelic landscape.
 

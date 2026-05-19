@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, medicinal-mushrooms, health, biochemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Medicinal Properties of Cultivated Mushrooms [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
+## Medicinal Properties of Cultivated Mushrooms [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
 ## Practical Applications
 
 Medicinal Properties of Cultivated Mushrooms has a range of practical applications that make it relevant to

@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-# Mycoremediation Case Studies
+## Mycoremediation Case Studies
 
 Field-verified remediation projects demonstrating fungal cleanup of contaminated environments. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-heavy-metals]], and [[mycorestoration-framework]].
 

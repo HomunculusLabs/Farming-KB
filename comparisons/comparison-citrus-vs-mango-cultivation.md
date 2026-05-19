@@ -18,7 +18,7 @@ sources:
 type: comparison
 ---
 
-# Citrus vs Mango Cultivation
+## Citrus vs Mango Cultivation
 
 Citrus (*Citrus* spp., Rutaceae) and mango (*Mangifera indica*, Anacardiaceae) are two of the most important subtropical and tropical uncommon specialty fruit crops for permaculture. While both thrive in warm climates, they differ significantly in growth habits, climate tolerances, management requirements, and production cycles.
 

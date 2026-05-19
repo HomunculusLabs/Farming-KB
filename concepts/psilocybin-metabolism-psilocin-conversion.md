@@ -5,7 +5,7 @@ author: Hillebrand, Olszewski, Sedefov (EMCDDA)
 tags: [psilocybin, psilocin, metabolism, 5-ht2a, tryptamine, pharmacology]
 ---
 
-# Psilocybin Metabolism and Psilocin Conversion
+## Psilocybin Metabolism and Psilocin Conversion
 
 [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. Understanding their pharmacokinetics —
 how they are absorbed, metabolized, and act on the nervous system

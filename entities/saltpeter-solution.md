@@ -5,7 +5,7 @@ type: entity
 tags: [treatment, fertilizer, bed-revival, inorganic-compound]
 ---
 
-# Saltpeter Solution
+## Saltpeter Solution
 
 ## Description
 

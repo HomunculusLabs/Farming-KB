@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Glasshouse Growing in Cool Temperate Climates
+## Glasshouse Growing in Cool Temperate Climates
 
 The cool temperate climates are the regions where greenhouses are most commonly used for specialty crop or aquatic species production, for house heating, and for the winter production of vegetable and fruit crops. Modern glasshouses are becoming very sophisticated with respect to heat energy conservation and heat absorption, as 70–90% of the cost of crop can be that of artificial heating.
 

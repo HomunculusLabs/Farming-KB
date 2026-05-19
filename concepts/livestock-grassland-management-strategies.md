@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Livestock Grassland Management Strategies
+## Livestock Grassland Management Strategies
 
 Livestock management on grasslands and rangelands is one of the most critical interfaces between human agriculture and the natural world. Bill Mollison's *Permaculture: A Designer's Manual* presents a
 thorough critique of conventional grassland management and offers a comprehensive spectrum of regenerative alternatives rooted in ecological principles and systems thinking. The strategies outlined

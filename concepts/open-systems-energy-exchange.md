@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Open Systems and Energy Exchange
+## Open Systems and Energy Exchange
 
 Open systems are the foundational framework through which permaculture understands and designs living landscapes. Unlike the closed thermodynamic systems studied in classical physics, the living systems with which permaculture concerns itself are open, dynamic, and constantly exchanging energy and materials with their surroundings. Understanding the nature of these exchanges is essential to effective design.
 

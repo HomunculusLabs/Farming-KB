@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Causes Cannabis Plants to Wilt and How Do I Fix It?
+## What Causes Cannabis Plants to Wilt and How Do I Fix It?
 
 ## Short Answer
 Cannabis wilting is almost always a water-related issue, either from

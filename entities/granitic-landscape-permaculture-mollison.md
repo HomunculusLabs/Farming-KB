@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Granitic Landscape Permaculture
+## Granitic Landscape Permaculture
 
 ## Description
 

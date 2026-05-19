@@ -7,7 +7,7 @@ tags: [gardening, vegetables, planting, beginner, crops, growing-guide]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Vegetable Growing Guide
+## Vegetable Growing Guide
 
 General principles for growing vegetables, from Steve Solomon's *Gardening When It Counts* Chapter 9, "What to Grow... and How to Grow It."
 

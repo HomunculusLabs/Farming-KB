@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, timeline, pollinators, beginner]
 sources: []
 ---
 
-# Beekeeping Seasonal Calendar
+## Beekeeping Seasonal Calendar
 
 Successful beekeeping requires aligning management tasks with the natural
 annual cycle of the colony. This calendar provides month-by-month guidance

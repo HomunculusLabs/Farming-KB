@@ -6,7 +6,7 @@ type: concept
 tags: [herbalism, herbs]
 sources: []
 ---
-# Nervine Herbs and Anxiety Relief
+## Nervine Herbs and Anxiety Relief
 
 Nervines act on the nervous system for stress, anxiety, insomnia, and
 tension. Unlike adaptogens (long-term HPA axis support, see

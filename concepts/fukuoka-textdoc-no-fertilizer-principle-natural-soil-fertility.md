@@ -10,7 +10,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# mollison-sewage-treatment-natural-processes need to apply them when farming in
+## mollison-sewage-treatment-natural-processes need to apply them when farming in
 accordance with nat [[fukuoka-black-wattle-fertilizer-tree-method]] is planted among cedar or cypress, these latter thrive with
 the help of the microbes present on the roots of the black wattle. If the forest
 is left to itself, the action of the wind and snow over the years weathers the

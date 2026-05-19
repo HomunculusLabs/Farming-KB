@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Complexity and Connections in Permaculture
+## Complexity and Connections in Permaculture
 
 **Complexity** in ecological systems refers not to mere diversity of species but to the number and quality of functional connections between elements. Bill Mollison argues that the nature and value of connections — not the number of elements alone — determines whether a system is productive, stable, and sustainable.
 

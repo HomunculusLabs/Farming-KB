@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Photoperiod and Autoflowering Cannabis?
+## What Is the Difference Between Photoperiod and Autoflowering Cannabis?
 
 ## Short Answer
 Photoperiod cannabis strains require a change in light cycle, typically from 18 hours of light to 12 hours, to trigger flowering. Autoflowering cannabis strains flower automatically based on age, regardless of light schedule, due to [[autoflowering-cannabis]] strains contain Cannabis ruderalis heritage, a subspecies native to Central and Eastern Europe that evolved to flower based on age rather than day length. This adaptation allowed ruderalis to survive in regions with short summers where waiting for specific photoperiods would mean failing to reproduce before winter.

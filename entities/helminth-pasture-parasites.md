@@ -5,7 +5,7 @@ type: entity
 tags: [parasite, livestock, pasture-management, cold-climate]
 ---
 
-# Helminth (Pasture Parasites)
+## Helminth (Pasture Parasites)
 
 ## Description
 

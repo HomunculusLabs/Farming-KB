@@ -10,7 +10,7 @@ sources:
   - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
 
-# Mycoremediation Basics
+## Mycoremediation Basics
 
 Mycoremediation is the use of fungal mycelium to break down or sequester toxic contaminants in soil and water. Part of the [[mycorestoration]] framework developed by [[paul-stamets]]. The term was popularized by Singh (2006) in the encyclopedic reference "Mycoremediation: Fungal Bioremediation."
 

@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: []
 type: comparison
 ---
-# Kratky vs DWC (Deep Water Culture)
+## Kratky vs DWC (Deep Water Culture)
 Both Kratky and DWC (Deep Water Culture) are hydroponic methods where plant roots grow directly in [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] (DO) levels high enough to prevent root rot.
 5. Monitor and top off nutrient solution as plants consume water; replace entirely every 1–2 weeks.
 ### Kratky Setup

@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Chemical Composition of Hallucinogens
+## Chemical Composition of Hallucinogens
 
 Hallucinogenic plants owe their psychoactive effects to a relatively small number of chemical compound classes. All are organic compounds — they contain carbon as an essential structural element and were formed in the metabolic processes of plants. No inorganic plant constituents (minerals, metals) are known to produce hallucinogenic effects. These compounds can be divided into two broad categories: nitrogen-containing and non-nitrogen-containing.
 

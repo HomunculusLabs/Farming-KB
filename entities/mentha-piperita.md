@@ -19,7 +19,7 @@ sources:
   - "Mimica-Dukic, N. & Bozin, B. (2008). comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap. In: Medicinal and Aromatic Plants."
 ---
 
-# Mentha piperita
+## Mentha piperita
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Incremental Design and Permaculture Ethics
+## Incremental Design and Permaculture Ethics
 
 Incremental design and the ethical framework of [[permaculture-design]]** is stimulated by a perceived social problem, subject to values of energy conservation, self-reliance, and harmonious human occupancy. It is mediated by consideration of long-term biosocial factors, achieved through research and consultation with clients, and refined by allowing space, finance, and feedback to adjust activity. It leads to a dynamic, healthy area inhabited by people with the power and understanding to make necessary changes — the stability of dynamic local adjustment.
 

@@ -10,7 +10,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 
-# EMM
+## EMM
 
 [[2c-b-pihkal-entry-20]] #76. 4,5-DIMETHOXY-2-ETHOXYAMPHETAMINE.
 

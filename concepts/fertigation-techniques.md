@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Fertigation Techniques
+## Fertigation Techniques
 
 Fertigation — the practice of applying liquid fertilizer through irrigation water — is one of the most efficient ways to deliver both moisture and nutrition to vegetable plants. Rather than broadcasting dry fertilizer on the surface and hoping rain carries it to the root zone, fertigation places water and dissolved nutrients exactly where the plant needs them: below the growing plant in the subsoil.
 

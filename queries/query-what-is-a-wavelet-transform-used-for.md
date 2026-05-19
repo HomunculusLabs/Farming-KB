@@ -6,14 +6,14 @@ tags: [query, wavelet-transform, signal-processing, data-analysis, denoising]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/wavelet-transform.md
+  - raw/concepts/wavelet-transform.md
 related_concepts:
   - wavelet-transform
   - kalman-filter
   - signal-processing
 type: query
 ---
-# What Is a Wavelet Transform Used For?
+## What Is a Wavelet Transform Used For?
 A [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
 
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

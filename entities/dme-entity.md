@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DME (3,4-Dimethoxy-beta-hydroxyphenethylamine)
+## DME (3,4-Dimethoxy-beta-hydroxyphenethylamine)
 
 DME is a phenethylamine compound and a beta-hydroxylated derivative of the phenethylamine skeleton. It is the beta-hydroxy analogue of [[dmpea-entity]]
 

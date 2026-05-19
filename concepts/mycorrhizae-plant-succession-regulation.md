@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizae in Plant Succession and Community Regulation
+## Mycorrhizae in Plant Succession and Community Regulation
 
 ## Overview
 

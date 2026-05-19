@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Build a Raised Bed Garden
+## How to Build a Raised Bed Garden
 
 ## Short Answer
 A raised bed garden is an elevated frame filled with quality soil that improves drainage, reduces compaction, and extends your [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]]

@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 5-MeO-MIPT (Moxy)
+## 5-MeO-MIPT (Moxy)
 
 TIHKAL entry #40. A potent, orally active psychedelic tryptamine with the N-methyl-N-isopropyl substitution pattern. Known colloquially as "Moxy." Unique among 5-methoxy tryptamines for being several times more potent orally than when smoked -- the opposite of [[5-meo-dmt-entity-tihkal]].
 

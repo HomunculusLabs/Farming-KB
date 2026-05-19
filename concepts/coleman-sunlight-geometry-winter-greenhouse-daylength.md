@@ -9,7 +9,7 @@ tags:
   - cold-climate-farming
 ---
 
-# Sunlight Geometry and Day Length for Winter Greenhouse Production
+## Sunlight Geometry and Day Length for Winter Greenhouse Production
 
 ## Latitude Comparisons: A Paradox of Climate
 

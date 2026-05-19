@@ -7,7 +7,7 @@ tags: [mycology, psychedelics, psychology, consciousness, therapy, safety, enthe
 sources: []
 ---
 
-# Psychedelic Mushroom Set and Setting
+## Psychedelic Mushroom Set and Setting
 
 ## Overview
 

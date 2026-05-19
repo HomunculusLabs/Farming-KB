@@ -7,7 +7,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
-# What Are the Best Soil Amendments for Organic Gardening?
+## What Are the Best Soil Amendments for Organic Gardening?
 
 ## Short Answer
 

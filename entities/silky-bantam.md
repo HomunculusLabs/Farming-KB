@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Silky Bantam
+## Silky Bantam
 
 ## Description
 

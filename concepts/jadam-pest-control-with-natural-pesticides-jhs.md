@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
 
-# JADAM Pest Control with Natural Pesticides (JHS)
+## JADAM Pest Control with Natural Pesticides (JHS)
 
 ## Overview
 

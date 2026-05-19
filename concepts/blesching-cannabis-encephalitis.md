@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Encephalitis
+## Cannabis and Encephalitis
 
 ## Overview
 

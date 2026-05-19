@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: entity
 ---
 
-# Charas (Hand-Rubbed Hashish)
+## Charas (Hand-Rubbed Hashish)
 
 ## Description
 

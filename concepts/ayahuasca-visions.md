@@ -7,7 +7,7 @@ tags: [ethnobotany, consciousness, medicine, culture, religion, ecology, plants]
 sources: [raw/papers/amaringo-p-ayahuasca-visions.md]
 ---
 
-# Ayahuasca Visions and Amazonian Plant Spirit Tradition
+## Ayahuasca Visions and Amazonian Plant Spirit Tradition
 
 Ayahuasca is a psychoactive brew from the Amazon basin, traditionally prepared from Banisteriopsis caapi (ayahuasca vine) and Psychotria viridis (chacruna). The brew contains DMT (from chacruna) made orally active by harmine/harmaline MAO inhibitors (from the vine). Used for millennia by indigenous peoples for healing, divination, and communal ceremony. See [[ayahuasca-preparation]] for additional preparation details and [[amazonian-plant-teachers-doctores]] for the broader plant teacher tradition.
 

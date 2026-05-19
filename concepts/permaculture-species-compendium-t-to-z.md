@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Species Compendium T–Z
+## Permaculture Species Compendium T–Z
 
 This compendium covers a selection of plant species catalogued in [[bill-mollison]]'s *Permaculture: A Designers' Manual*, spanning the taxonomic range from **Tamarix** through **Zostera**. These species represent a cross-section of functional roles within permaculture systems — from nitrogen-fixing legumes and multi-purpose trees to water-purifying reeds and staple food crops.
 

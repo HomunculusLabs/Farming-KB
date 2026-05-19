@@ -7,7 +7,7 @@ tags: [greenhouse, winter-harvest, heating, coleman, four-season-farm, propane, 
 created: 2026-05-09
 ---
 
-# Greenhouse Heating Options for Winter Vegetable Production
+## Greenhouse Heating Options for Winter Vegetable Production
 
 ## Overview
 

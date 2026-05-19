@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Entanglement of Natural and Scientific Farming
+## The Entanglement of Natural and Scientific Farming
 
 Fukuoka argues that [[comparison-natural-farming-vs-permaculture]] spread widely. Growers began throwing branches of
 mulberry leaves onto the silkworms rather than picking and chopping leaves.

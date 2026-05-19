@@ -4,7 +4,7 @@ source: "The uwe-blesching)"
 topics: [cannabis, dosing, therapeutic-window, endocannabinoid-system, patient-safety, inhalation, ingestion]
 ---
 
-# Cannabis Subjective Therapeutic Window
+## Cannabis Subjective Therapeutic Window
 
 ## Overview
 

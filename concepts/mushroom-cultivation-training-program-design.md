@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Cultivation Training Program Design
+## Mushroom Cultivation Training Program Design
 
 A structured training program [[pf-tek-spore-syringe-preparation-and-inoculation]], for example, require precise sterile technique that some trainees may find difficult or unnecessary for their personal goals. The program accommodates multiple skill tiers and ambitions:
 

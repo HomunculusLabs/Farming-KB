@@ -5,7 +5,7 @@ source_author: Uwe Blesching
 tags: [cannabinoids, beta-caryophyllene, spices, CB2, dietary, inflammation, endocannabinoid]
 ---
 
-# Beta-Caryophyllene: A Dietary Cannabinoid from Spices
+## Beta-Caryophyllene: A Dietary Cannabinoid from Spices
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [psychopharmacology, psychedelics, chemistry, history, research, lab-techn
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# PIHKAL Introduction and Methodology
+## PIHKAL Introduction and Methodology
 
 PIHKAL (Phenethylamines I Have Known and Loved: A Chemical Love Story) by Alexander and Ann Shulgin, published by Transform Press, is divided into two books. Book I, "The Love Story," is an autobiographical novel about the Shulgins' relationship and their exploration of psychedelic compounds. Book II, "The Chemical Story," is the compilation of thirty years of Alexander Shulgin's laboratory notes on 179 phenethylamine compounds.
 

@@ -1,5 +1,5 @@
 ---
-title: singh-fungal-biosorption-isotherms-equilibrium-models and Equilibrium Modeling
+title: "Biosorption Isotherms"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Biosorption Isotherms and Equilibrium Modeling
+## Biosorption Isotherms and Equilibrium Modeling
 
 Biosorption isotherms are mathematical models that describe the distribution of adsorbed contaminants between a biosorbent surface and the surrounding solution at equilibrium.
 

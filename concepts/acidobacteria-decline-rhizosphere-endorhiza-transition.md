@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Acidobacteria Decline in the Rhizosphere to Endorhiza Transition
+## Acidobacteria Decline in the Rhizosphere to Endorhiza Transition
 
 ## Overview
 

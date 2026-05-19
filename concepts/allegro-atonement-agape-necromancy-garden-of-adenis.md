@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Atonement Sacrifice, Agape, Necromancy, and the Garden of Adonis
+## Atonement Sacrifice, Agape, Necromancy, and the Garden of Adonis
 
 ## Substitution and Atonement
 

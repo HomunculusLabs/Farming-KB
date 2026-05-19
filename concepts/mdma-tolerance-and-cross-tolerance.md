@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# MDMA Tolerance and Cross-Tolerance Patterns
+## MDMA Tolerance and Cross-Tolerance Patterns
 
 **Updated:** 2026-04-18
 

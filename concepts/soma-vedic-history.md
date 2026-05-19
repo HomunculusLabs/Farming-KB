@@ -8,7 +8,7 @@ type: concept
 tags: [history]
 ---
 
-# Soma Vedic History in Plants of the Gods
+## Soma Vedic History in Plants of the Gods
 
 Schultes and Hofmann present Soma as the god-narcotic of ancient India, one
 of the great enigmas of ethnobotany, and make the case that it was the fly

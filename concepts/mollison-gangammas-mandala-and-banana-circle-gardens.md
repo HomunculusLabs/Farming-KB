@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Gangamma's Mandala and Banana Circle Gardens
+## Gangamma's Mandala and Banana Circle Gardens
 
 In Taiwan and the Philippines, small intensively-planted home
 gardens have long been planned to feed a family of five all

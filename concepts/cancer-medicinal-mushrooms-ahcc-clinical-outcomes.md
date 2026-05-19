@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# AHCC Active Hexose Correlated Compound Cancer Outcomes
+## AHCC Active Hexose Correlated Compound Cancer Outcomes
 
 Active Hexose Correlated Compound (AHCC) is a proprietary extract
 prepared from the co-cultivation of several [[lentinus-edodes-entity-the-mushroom-cultivator]], [[schizophyllum-commune]]

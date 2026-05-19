@@ -8,7 +8,7 @@ sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 type: concept
 ---
 
-# Two-Tier Selection Model for Cannabis Root Microbiome
+## Two-Tier Selection Model for Cannabis Root Microbiome
 
 ## Overview
 

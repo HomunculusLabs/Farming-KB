@@ -6,7 +6,7 @@ created: 2026-05-08
 source: uwe-blesching-the-cannabis-health-index.md
 ---
 
-# Endocannabinoid System and Mind-Body Medicine
+## Endocannabinoid System and Mind-Body Medicine
 
 The endocannabinoid system (ECS) serves as a biological bridge between the mind and the body, providing a neurochemical mechanism through which emotions, thoughts, and conscious interventions can directly influence physical health and immune function. This understanding, explored extensively in [[blesching-cannabis-health-index-autoimmune-conditions]] ndex*, represents a convergence of neuroscience, psychoneuroimmunology, and traditional mind-body healing practices.
 

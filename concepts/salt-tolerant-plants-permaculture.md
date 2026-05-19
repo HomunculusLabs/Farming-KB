@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Salt-Tolerant Plants in Permaculture
+## Salt-Tolerant Plants in Permaculture
 
 Salt-tolerant (halophytic) plants are essential for permaculture systems in coastal areas, saline soils, and arid regions where salt accumulation is a problem. These plants enable productive land use where conventional crops would fail, and many serve additional functions including forage, timber, honey production, [[atriplex-halimus]]* — tree saltbush
 - *Atriplex rhagodioides*

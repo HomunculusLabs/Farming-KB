@@ -5,10 +5,10 @@ tags: [mycology, taxonomy, agaricaceae, edible-fungi, identification]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+  - [raw/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
 type: concept
 ---
-# Edible Agarics
+## Edible Agarics
 The Agaricaceae constitute the majority of conspicuous fleshy fungi,
 with more than five thousand species described. They are characterized
 by gills on the underside of the pileus, which constitute the

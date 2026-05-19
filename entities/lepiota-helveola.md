@@ -5,7 +5,7 @@ type: entity
 taxonomy: fungi
 ---
 
-# Lepiota helveola (Poisonous Lepiota)
+## Lepiota helveola (Poisonous Lepiota)
 
 ## Description
 

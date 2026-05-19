@@ -5,7 +5,7 @@ type: entity
 tags: [species, genus, myrtaceae, tea-tree, wetland, salt-sensitive, australia, permaculture]
 ---
 
-# Leptospermum
+## Leptospermum
 
 ## Description
 

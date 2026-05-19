@@ -1,4 +1,8 @@
-# Syncretic Entheogenic Churches
+---
+title: "Syncretic Entheogenic Churches"
+tags:
+  - concept
+---
 
 > Based on [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]], by contrast, are collective
 experiences led by priests or officiants rather than shamans. They

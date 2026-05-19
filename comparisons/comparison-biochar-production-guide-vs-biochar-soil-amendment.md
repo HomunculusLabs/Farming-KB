@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Biochar Production Guide vs Biochar Soil Amendment
+## Biochar Production Guide vs Biochar Soil Amendment
 
 ## Overview
 

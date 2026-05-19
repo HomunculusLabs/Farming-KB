@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Endophytic Fungi — Field Screening, Isolation Procedures, and Taxonomic Diversity
+## Endophytic Fungi — Field Screening, Isolation Procedures, and Taxonomic Diversity
 
 ## Overview
 

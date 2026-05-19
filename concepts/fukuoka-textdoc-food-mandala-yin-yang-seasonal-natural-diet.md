@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Food Mandala and Seasonal Natural Diet
+## Food Mandala and Seasonal Natural Diet
 
 ## Overview
 

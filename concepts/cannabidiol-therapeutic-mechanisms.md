@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Cannabidiol Therapeutic Mechanisms
+## Cannabidiol Therapeutic Mechanisms
 
 ## Overview
 

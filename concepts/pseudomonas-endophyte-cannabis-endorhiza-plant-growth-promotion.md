@@ -17,7 +17,7 @@ source:
   - "understanding cultivar specificity & soil determinants of the cannabis microbiome (winston et al., 2014)"
 ---
 
-# Pseudomonas as Core Endophyt [[methylophilus-cannabis-endorhiza]] za
+## Pseudomonas as Core Endophyt [[methylophilus-cannabis-endorhiza]] za
 
 ## Overvi [[chicken-of-the-woods]] he Cannabis microbiome, **Pseudomonas** was identifie [[pseudomonas-core-endorhiza-cannabis]] za community—present across all five cultivars tested (Burmese, Bookoo Kush, Sour Diesel, White Widow, and Maui Wowie) and in both soil types. Its ubiquity and the well-characterized functional repertoire of this genus make it one of the most significant bacterial associates of Cannabis roots. As one of the most well-studied genera of plant-associated bacteria, Pseudomonas plays central roles in plant growth promotion, disease suppression, and nutrient cycling within the Cannabis root zone.
 

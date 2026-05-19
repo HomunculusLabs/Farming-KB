@@ -1,4 +1,8 @@
-# Fukuoka's Do-Nothing Philosophy and the Way of Mu
+---
+title: "Fukuoka's Do-Nothing Philosophy and the Way of Mu"
+tags:
+  - concept
+---
 
 ## Overview
 

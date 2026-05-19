@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Stinging Nettle vs Yarrow
+## Stinging Nettle vs Yarrow
 
 ## Overview
 

@@ -25,7 +25,7 @@ sources:
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/nepeta_cataria.shtml
 ---
 
-# Nepeta cataria (Catnip)
+## Nepeta cataria (Catnip)
 
 ## Overview
 

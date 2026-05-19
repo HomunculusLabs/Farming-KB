@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are Endophytic Fungi and Why Do They Matter?
+## What Are Endophytic Fungi and Why Do They Matter?
 
 ## Short Answer
 Endophytic fungi are microorganisms that live inside plant tissues, including leaves, stems, and roots, without causing disease symptoms.

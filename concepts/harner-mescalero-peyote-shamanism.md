@@ -11,7 +11,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Mescalero Apache Peyote Shamanism
+## Mescalero Apache Peyote Shamanism
 
 A unique case where experiences with a hallucinogenic cactus in shamanistic rituals resulted in serious conflict and, ultimately, proscription of its ceremonial use.
 

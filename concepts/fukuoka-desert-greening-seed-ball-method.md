@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [desert-greening, seed-balls, reforestation, fukuoka, africa]
 ---
 
-# Desert Greening and the Seed Ball Method
+## Desert Greening and the Seed Ball Method
 
 ## Fukuoka's Vision for Reclaiming Arid Lands
 

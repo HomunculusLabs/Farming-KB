@@ -7,7 +7,7 @@ tags: [mushrooms, mycology, cultivation, seeds]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
 
-# Oyster Mushroom Spawn Production
+## Oyster Mushroom Spawn Production
 
 Spawn is the mycelium-rich material used to inoculate bulk substrates [[grass-seed-substrate-for-mushroom-cultivation]]. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
 

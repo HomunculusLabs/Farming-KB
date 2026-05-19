@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Choose the Right Pot Size for Cannabis?
+## How to Choose the Right Pot Size for Cannabis?
 
 ## Short Answer
 

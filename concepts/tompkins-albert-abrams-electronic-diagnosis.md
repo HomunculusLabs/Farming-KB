@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Albert Abrams and Electronic Diagnosis of Disease
+## Albert Abrams and Electronic Diagnosis of Disease
 
 Dr. Albert Abrams (1863-1924), a [[cannabis-for-cancer-patients]] these fibers were in a state of
 permanent contraction except when the patient was oriented north-south.

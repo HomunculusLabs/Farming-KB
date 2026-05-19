@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# One-Straw Revolution Philosophy
+## One-Straw Revolution Philosophy
 
 The One-Straw Revolution (1978) is Masanobu Fukuoka's manifesto of [[comparison-natural-farming-vs-permaculture]]** -- a careful, decades-long process of learning what the natural pattern is and then working within it, eliminating unnecessary human interventions one by one. His approach was the opposite of normal agricultural development. Where others asked "How about trying this?", he asked "How about not doing this? How about not doing that?"
 

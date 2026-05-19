@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Mu Economics
+## Fukuoka Mu Economics
 
 In "The Road Back to Nature," Masanobu Fukuoka extends his critique of human knowledge into the realm of economics, proposing a radical "Mu economics" (economics of nothingness/non-value) as an alternative to both capitalist and Marxist frameworks. This proposal emerged from his conversation with Professor Keiichi Sakamoto of Kyoto University.
 

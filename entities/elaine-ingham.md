@@ -23,7 +23,7 @@ sources:
 - raw/mushrooms-fungi-from-around-the-world.md
 ---
 
-# Elaine Ingham
+## Elaine Ingham
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 

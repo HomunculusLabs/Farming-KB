@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 tags: [mycology], microscopy, mounting-media, lactophenol, fungal-identification, slide-preparation]
 ---
 
-# Fungal Microscopic Examination and Mounting Media
+## Fungal Microscopic Examination and Mounting Media
 
 Microscopic examination is fundamental to [[growing-gourmet-spore-germination-strain-isolation]].
 

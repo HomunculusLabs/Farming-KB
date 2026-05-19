@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Shade Netting and Mini-Greenhouses
+## Shade Netting and Mini-Greenhouses
 
 Shade netting and mini-greenhouses are important tools in the [[savory-growing-season-and-non-growing-season-management]], and managing
 the garden microclimate. Both structures are simple to build and use standard

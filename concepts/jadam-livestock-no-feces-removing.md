@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Livestock Farming Without Feces Removal
+## JADAM Livestock Farming Without Feces Removal
 
 JADAM's revolutionary [[stamets-growing-room-air-circulation-co2-management]] dry the manure
 4. After fermentation, animals eat it again

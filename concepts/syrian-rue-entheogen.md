@@ -8,7 +8,7 @@ type: concept
 tags: [entheogen]
 ---
 
-# Syrian Rue Entheogen
+## Syrian Rue Entheogen
 
 Syrian Rue ([[dmt-containing-plants-united-states-halpern]] and Australia.
 

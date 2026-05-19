@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/ross-mars-permaculture-garden.md"
 ---
-# Marine Fungal Diversity
+## Marine Fungal Diversity
 
 Marine and estuarine fungi represent one of the least explored domains of [[fungal-communities-extreme-environments]] [[xerophilic-xerotolerant-fungi]]
 

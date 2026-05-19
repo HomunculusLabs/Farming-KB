@@ -18,7 +18,7 @@ source:
   publisher: "Soil Foodweb, Inc."
 ---
 
-# Humic Acids: Extraction, Function, and Soil Application
+## Humic Acids: Extraction, Function, and Soil Application
 
 ## Overview
 

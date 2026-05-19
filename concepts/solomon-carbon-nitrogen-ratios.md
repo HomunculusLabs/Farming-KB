@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Carbon-Nitrogen Ratios and Soil Organic Matter
+## Carbon-Nitrogen Ratios and Soil Organic Matter
 
 Understanding carbon-to-nitrogen (C/N) ratios is fundamental to managing
 soil organic matter effectively. Solomon provides one of the clearest

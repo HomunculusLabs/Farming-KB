@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Cellular Perspective on Plant Nutrition
+## Cellular Perspective on Plant Nutrition
 
 ## The Cell Theory of Life
 

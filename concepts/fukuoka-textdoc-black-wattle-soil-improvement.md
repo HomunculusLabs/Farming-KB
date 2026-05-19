@@ -12,7 +12,7 @@ tags:
   - cover-crops
 ---
 
-# Black Wattle (Acacia) for Soil Improvement and Biological Pest Control
+## Black Wattle (Acacia) for Soil Improvement and Biological Pest Control
 
 Masanobu Fukuoka regarded the black wattle (*Acacia mearnsii*) as one of the most
 valuable companion trees for orchard rehabilitation and long-term soil fertility.

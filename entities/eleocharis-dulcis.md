@@ -5,7 +5,7 @@ type: entity
 tags: [plant, aquatic, food-crop, permaculture, pond-culture]
 ---
 
-# Eleocharis dulcis (Chinese Water Chestnut)
+## Eleocharis dulcis (Chinese Water Chestnut)
 
 ## Description
 

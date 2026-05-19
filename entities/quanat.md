@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Quanat (Qanat / Kariz)
+## Quanat (Qanat / Kariz)
 
 ## Description
 

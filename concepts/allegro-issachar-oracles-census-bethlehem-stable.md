@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Allegro on the Issachar Oracles, Census, and the Bethlehem Stable
+## Allegro on the Issachar Oracles, Census, and the Bethlehem Stable
 
 [[amanita-muscaria]] mushroom — its shape,
 names, and ritual use — woven into the fabric of Hebrew Scripture and the New

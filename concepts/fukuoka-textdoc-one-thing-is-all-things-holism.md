@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# One Thing Is All Things
+## One Thing Is All Things
 
 ## Core Principle
 

@@ -7,7 +7,7 @@ tags: [seed-business, seed-quality, mail-order-seeds, gardening, food-security, 
 aliases: [solomon-seed-business, ethical-seed-company, seed-supplier-evaluation, mail-order-seeds-guide]
 ---
 
-# The Ethical Mail-Order Seed Business — Evaluating Quality and Integrit [[seed-quality-and-selection-solomon]] is not a casual concern [[seed-company-supplier-reference]] any and author of *Gardeni [[cannabis-testing-and-quality]] ity of mail-ord [[seed-quality-and-selection-solomon]] seeds by mail.
+## The Ethical Mail-Order Seed Business — Evaluating Quality and Integrit [[seed-quality-and-selection-solomon]] is not a casual concern [[seed-company-supplier-reference]] any and author of *Gardeni [[cannabis-testing-and-quality]] ity of mail-ord [[seed-quality-and-selection-solomon]] seeds by mail.
 
 Poor seeds represent a particularly insidious failure for food gardeners. Unlike ornamental gardening where a disappointing plant is merely aesthetic, a failed vegetable [[vegetable-seed-saving-and-germination]] crop means lost food production, wasted growing season, and potentially inadequate nutrition. The cost of seed is trivial compared to the cost of the land, labor, water, and time invested in growing a crop — making seed quality the single most impactful variable in garden productivity.
 

@@ -5,7 +5,7 @@ topic: mushroom-cultivation
 tags: [oyster-mushroom, bagging, cultivation, substrate, worldwide, packaging]
 ---
 
-# Oyster Mushroom Bagging Methods: Worldwide Comparison
+## Oyster Mushroom Bagging Methods: Worldwide Comparison
 
 ## Overview
 

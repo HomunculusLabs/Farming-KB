@@ -8,7 +8,7 @@ sources:
   - ""raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Zygomycota Diversity and Phylogeny
+## Zygomycota Diversity and Phylogeny
 
 The Zygomycota is a phylum of fungi comprising more than 1,000
 described species, including many ecologically important organisms.

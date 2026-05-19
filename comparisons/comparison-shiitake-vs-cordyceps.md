@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Shiitake vs Cordyceps
+## Shiitake vs Cordyceps
 
 ## Overview
 

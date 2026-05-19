@@ -3,7 +3,7 @@ title: arbuscular-mycorrhizal-fungal-diversity-patterns-distribution Estimates
 created: 2026-04-28
 ---
 
-# Fungal Diversity Estimates
+## Fungal Diversity Estimates
 
 Fungal diversity remains one of the largest unknowns in biology. Only a
 fraction of the estimated total species have been formally described.

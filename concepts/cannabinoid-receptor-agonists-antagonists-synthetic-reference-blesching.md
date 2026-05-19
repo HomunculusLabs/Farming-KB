@@ -5,7 +5,7 @@ tags: [cannabinoid, receptor, agonist, antagonist, CB1, CB2, synthetic, pharmace
 created: 2026-05-08
 ---
 
-# Cannabinoid Receptor Agonists and Antagonists: Synthetic Reference (Blesching)
+## Cannabinoid Receptor Agonists and Antagonists: Synthetic Reference (Blesching)
 
 ## Overview
 

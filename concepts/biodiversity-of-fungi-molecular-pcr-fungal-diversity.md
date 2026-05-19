@@ -1,4 +1,8 @@
-# Molecular PCR Methods for Assessing Fungal Diversity
+---
+title: "Molecular PCR Methods for Assessing Fungal Diversity"
+tags:
+  - concept
+---
 
 **Source:** [[biodiversity-fungal-genetic-diversity]], species monitoring
 

@@ -13,7 +13,7 @@ sources: []
 type: comparison
 ---
 
-# Adobe vs Bamboo Construction
+## Adobe vs Bamboo Construction
 
 A comparative guide to two of the world's most accessible and sustainable building systems. [[pdc-earthen-construction-techniques]] techniques are used by an estimated 30-50% of the world's population, making it arguably the most widely used building system globally.
 

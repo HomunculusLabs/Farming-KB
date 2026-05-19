@@ -5,11 +5,11 @@ tags: [hunting, identification, subtropical, australia, techniques,
   field-guide, safety, habitats, allen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 type: concept
 ---
 
-# Subtropical Australia: Mushroom Hunting Techniques
+## Subtropical Australia: Mushroom Hunting Techniques
 
 The subtropical regions of Australia, particularly coastal Queensland and
 northern New South Wales, offer some of the most productive mushroom hunting

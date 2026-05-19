@@ -22,7 +22,7 @@ sources:
 - raw/papers/benjamin-minge-duggar-mushroom-growing.md
 ---
 
-# Historical Mushroom Cultivation
+## Historical Mushroom Cultivation
 
 The cultivation of mushrooms has evolved over millennia from accidental discovery to systematic agriculture. Understanding this history illuminates how modern techniques developed.
 

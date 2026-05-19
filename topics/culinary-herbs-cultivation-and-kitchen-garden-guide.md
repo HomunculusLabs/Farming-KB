@@ -17,7 +17,7 @@ related_concepts:
   - permaculture-plant-guilds
 ---
 
-# Culinary Herbs Cultivation and Kitchen Garden Guide
+## Culinary Herbs Cultivation and Kitchen Garden Guide
 
 Culinary herbs are the aromatic leaves, stems, flowers, and sometimes roots of
 plants used to flavor, garnish, and preserve food. They form the backbone of

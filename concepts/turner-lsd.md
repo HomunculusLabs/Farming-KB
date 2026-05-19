@@ -8,7 +8,7 @@ tags: [psychedelics, LSD, ergoline, tryptamine, dosage, set-and-setting]
 updated: 2026-04-26
 ---
 
-# LSD - Molecule of Perfection
+## LSD - Molecule of Perfection
 
 > Intensity: 3 to 7 for most experiences.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# The Cannabis Health Index Score Methodology
+## The Cannabis Health Index Score Methodology
 
 The Cannabis Health Index (CHI) score is an evidence-based rating system developed by [[blesching-cannabis-chi-scoring-evidence-based-medicine]] system assigns values to research studies based on the intrinsic strength of evidence associated with each study type, following the established hierarchy of evidence in medical research:
 

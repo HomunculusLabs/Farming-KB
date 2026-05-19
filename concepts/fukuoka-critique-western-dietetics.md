@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka-critique-western-dietetics-nutritional-science Dietetics
+title: "Fukuoka Critique Western Dietetics"
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Critique Western Dietetics
+## Fukuoka Critique Western Dietetics
 
 Updated: 2026-04-19
 

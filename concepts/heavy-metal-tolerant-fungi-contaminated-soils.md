@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Heavy-Metal Tolerant Fungi
+## Heavy-Metal Tolerant Fungi
 
 Heavy-metal tolerance in fungi represents an important aspect
 of [[hamilton-composting-and-organic-matter-management]]: Contaminated sites often have reduced

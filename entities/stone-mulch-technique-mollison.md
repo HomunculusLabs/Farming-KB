@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Stone Mulch Technique
+## Stone Mulch Technique
 
 ## Description
 

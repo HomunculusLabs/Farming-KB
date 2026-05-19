@@ -22,7 +22,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# Water-Soluble Calcium (WS-Ca)
+## Water-Soluble Calcium (WS-Ca)
 
 Water-Soluble Calcium is a KNF input made by extracting calcium from eggshells using brown rice vinegar (BRV). Calcium is essential for cell wall strength, disease resistance, fruit quality, and the transition from vegetative to reproductive growth. WS-Ca provides calcium in a form that plants can absorb directly through leaves and roots.
 

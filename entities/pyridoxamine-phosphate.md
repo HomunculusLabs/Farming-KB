@@ -22,7 +22,7 @@ sources:
 tags: [profile]
 ---
 
-# Pyridoxamine Phosphate
+## Pyridoxamine Phosphate
 
 Pyridoxamine phosphate is the aminated phosphate form of vitamin B6.
 It is usually abbreviated PMP in enzyme-mechanism literature.

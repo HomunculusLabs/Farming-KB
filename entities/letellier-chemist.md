@@ -5,7 +5,7 @@ type: person
 tags: [chemist, france, amanitine, amanita, 19th-century]
 ---
 
-# Dr. Letellier
+## Dr. Letellier
 
 ## Description
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Mexican Indigenous Nomenclature for Sacred Mushrooms
+## Mexican Indigenous Nomenclature for Sacred Mushrooms
 
 The indigenous peoples of Mexico developed a rich system of naming for
 [[richard-evans-schultes-updated]] (1939), the

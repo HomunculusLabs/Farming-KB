@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Earthbag Construction vs Cob Construction
+## Earthbag Construction vs Cob Construction
 
 Both [[comparison-hempcrete-vs-straw-bale-construction]], [[mollison-designers-earth-building-cob-adobe-rammed-earth]] methods for sculptural expression. Because the material is applied as a wet plastic mass, builders can create curves, niches, built-in furniture, shelves, bread ovens, rounded corners, relief carvings, and organic forms directly in the wall structure. This makes cob buildings among the most visually distinctive and personally expressive of all [[natural-building]]
 - [[passive-solar-design]]

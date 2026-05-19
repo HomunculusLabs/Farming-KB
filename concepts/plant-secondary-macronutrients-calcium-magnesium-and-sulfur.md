@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Secondary Macronutrients: Calcium, Magnesium, and Sulfur
+## Plant Secondary Macronutrients: Calcium, Magnesium, and Sulfur
 
 While nitrogen, phosphorus, and potassium receive the most attention, three other macronutrients -- calcium, magnesium, and sulfur -- are equally essential. These secondary macronutrients are used in large quantities and deficiency of any one will severely limit plant growth.
 

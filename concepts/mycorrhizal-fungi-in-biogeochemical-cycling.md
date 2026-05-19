@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Mycorrhizal Fungi in Biogeochemical Cycling
+## Mycorrhizal Fungi in Biogeochemical Cycling
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
-# Hamilton Crop Rotation and Vegetable Planning
+## Hamilton Crop Rotation and Vegetable Planning
 
 ## Overview
 

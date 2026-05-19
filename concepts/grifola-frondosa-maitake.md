@@ -3,7 +3,7 @@ title: maitake-grifola-frondosa-comprehensive-profile (Maitake / Hen of the Wood
 source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 tags: [maitake, grifola-frondosa, mushroom-cultivation, medicinal-mushrooms, polyporaceae]
 ---
-# Grifola frondosa (Maitake / Hen of the Woods)
+## Grifola frondosa (Maitake / Hen of the Woods)
 
 *Grifola frondosa* (Dicks.:Fr.) S.F. Gray, commonly known as maitake
 (Japanese for "dancing mushroom") or hen of the woods, is a polypore

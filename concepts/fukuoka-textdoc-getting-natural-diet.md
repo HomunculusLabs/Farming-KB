@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Getting a Natural Diet
+## Getting a Natural Diet
 
 ## Overview
 

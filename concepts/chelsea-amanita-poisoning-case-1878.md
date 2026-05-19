@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Chelsea Amanita Poisoning Case of 1878
+## Chelsea Amanita Poisoning Case of 1878
 
 ## Overview
 

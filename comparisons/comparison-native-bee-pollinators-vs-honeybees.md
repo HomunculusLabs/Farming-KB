@@ -9,7 +9,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Native Bee Pollinators vs Honeybees
+## Native Bee Pollinators vs Honeybees
 
 ## Overview
 

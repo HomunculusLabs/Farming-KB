@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Sugar as Addiction and Drug of the Dominator
+## Sugar as Addiction and Drug of the Dominator
 
 McKenna's analysis of sugar in Food of the Gods represents one of his most provocative and underappreciated arguments.
 

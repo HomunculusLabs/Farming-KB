@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture in Urban Areas
+## Permaculture in Urban Areas
 
 Urban [[permaculture]] applies the same fundamental [[aact-brewer-design-principles-aeration-systems-ingham]] used on broadacre properties to the confined spaces of cities and towns. While the scale changes dramatically, the core approach—maximizing [[component-analysis-and-functional-connections]] between elements, working with natural forces, and creating productive yields from every available niche—remains constant. [[comparison-backyard-food-forest-vs-urban-permaculture]] demands perhaps even more design skill than rural work, because the constraints are tighter and every square foot matters.
 

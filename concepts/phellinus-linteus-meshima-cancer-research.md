@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Phellinus Linteus and Meshima Cancer Research
+## Phellinus Linteus and Meshima Cancer Research
 
 [[phellinus-linteus]] is a [[mushroom-polysaccharide-chemistry]] extracts, tumour responses and symptomatic improvement (enhanced quality of life) have mainly been reported in combination with conventional chemotherapy in adjuvant or neo-adjuvant settings.
 

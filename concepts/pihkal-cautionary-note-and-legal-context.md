@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# PiHKAL Cautionary Note and Legal Context
+## PiHKAL Cautionary Note and Legal Context
 
 **Source:** PiHKAL, Cautionary Note (front matter)
 

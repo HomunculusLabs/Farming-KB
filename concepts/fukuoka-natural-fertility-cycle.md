@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Natural Fertility Cycle
+## Natural Fertility Cycle
 
 ## Fertility Without Inputs
 

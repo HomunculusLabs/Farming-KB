@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "General botanical and agricultural knowledge"
 ---
-# Helianthus annuus
+## Helianthus annuus
 ## Common Sunflower
 Annual herbaceous plant in the Asteraceae family, native to [[nutrient-dynamic-accumulator-reference]] in [[fukuoka-weed-management-and-green-manure]] but must be considered in companion
 planting design.

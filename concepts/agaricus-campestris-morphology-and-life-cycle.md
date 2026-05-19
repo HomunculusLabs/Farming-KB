@@ -1,5 +1,10 @@
+---
+title: "Agaricus Campestris Morphology And Life Cycle"
+tags:
+  - concept
+---
 
-# [[spore-print]]
+## [[spore-print]]
 — a brownish-black powder deposit reproducing the gill pattern.
 
 ### Spore Structure

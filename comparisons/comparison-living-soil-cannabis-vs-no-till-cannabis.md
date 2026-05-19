@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Living Soil Cannabis vs No-Till Cannabis
+## Living Soil Cannabis vs No-Till Cannabis
 
 ## Overview
 Living soil [[no-till-cannabis]]

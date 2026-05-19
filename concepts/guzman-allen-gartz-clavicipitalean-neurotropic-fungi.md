@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Clavicipitalean [[guzman-global-distribution-patterns-neurotropic-fungi]] documented by Guzmán, Allen, and Gartz:**
+## Clavicipitalean [[guzman-global-distribution-patterns-neurotropic-fungi]] documented by Guzmán, Allen, and Gartz:**
 
 - **[[dmt-containing-plants-united-states-halpern]] (widespread from Iowa and Nebraska to coastal regions), Mexico
 - **Central America**: Costa Rica, El Salvador

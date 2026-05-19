@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Shamanic Initiation Through Illness
+## Shamanic Initiation Through Illness
 
 ## Overview
 

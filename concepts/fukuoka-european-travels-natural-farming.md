@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka European Travels and Natural Farming Spread
+## Fukuoka European Travels and Natural Farming Spread
 
 Fukuoka's travels through Europe in the 1980s, documented extensively in [[fukuoka-natural-diet-as-foundation]] and [[fukuoka-european-natural-farming]] farming community
 - Dutch government research on vegetation for coastal protection -- Fukuoka observed that wild vines and shrubs on sandy beaches were healthier than transplanted saplings

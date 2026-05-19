@@ -27,7 +27,7 @@ sources:
     url: "https://www.chelseagreen.com/product/gaias-garden-second-edition"
 ---
 
-# Dynamic Accumulators
+## Dynamic Accumulators
 
 Dynamic accumulators are plants whose roots mine nutrients from deep subsoil layers and
 concentrate them in their leaves, stems, and root zones. Through leaf fall, root exudates,

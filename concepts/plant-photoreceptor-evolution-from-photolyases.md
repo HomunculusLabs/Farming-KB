@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Plant Photoreceptor Evolution from Photolyases
+## Plant Photoreceptor Evolution from Photolyases
 
 ## Overview
 

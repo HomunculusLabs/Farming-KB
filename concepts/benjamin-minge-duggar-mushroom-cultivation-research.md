@@ -5,11 +5,11 @@ tags: mycology, mushroom-cultivation, history-of-science,
       agricultural-research, antibiotics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
 
-# Benjamin Minge Duggar Mushroom Cultivation Research
+## Benjamin Minge Duggar Mushroom Cultivation Research
 
 ## Overview
 

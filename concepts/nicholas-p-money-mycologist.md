@@ -6,7 +6,7 @@ created: 2026-05-10
 tags: [biography, mycology, science, fungi, author]
 ---
 
-# Nicholas P. Money
+## Nicholas P. Money
 
 ## Overview
 

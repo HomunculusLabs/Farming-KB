@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Damping-Off and Seedling Disease Prevention
+## Damping-Off and Seedling Disease Prevention
 
 Damping-off is a fatal fungal condition that attacks cannabis
 seedlings and cervantes-cloning|clones at the soil line,

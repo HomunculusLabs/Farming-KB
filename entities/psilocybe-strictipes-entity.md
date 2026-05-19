@@ -8,7 +8,7 @@ sources: []
 type: entity
 ---
 
-# Psilocybe strictipes
+## Psilocybe strictipes
 
 **Type:** Species (Fungi, Basidiomycota, Agaricales)
 **Category:** [[partial-veil-tropism-protection-before-spore-release]]:** Thinly cortinate, fragile, rarely leaving an annular

@@ -7,7 +7,7 @@ tags: [fungi, mycology, taxonomy, species-profiles, ecology, decomposition, biol
 sources: []
 ---
 
-# Basidiomycete Phylum Guide
+## Basidiomycete Phylum Guide
 
 Basidiomycota is the second-largest phylum of fungi and contains most of the familiar mushroom-forming species. Members produce spores on specialized cells called basidia, typically externally on sterigmata (four spores per basidium). The phylum includes over 30,000 described species, ranging from edible mushrooms to deadly toxins to plant pathogens.
 

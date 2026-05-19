@@ -8,7 +8,7 @@ sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 type: comparison
 ---
 
-# Reishi vs Turkey Tail: Medicinal Mushroom Comparison
+## Reishi vs Turkey Tail: Medicinal Mushroom Comparison
 
 [[staycare-trametes-versicolor-bioremediation-applications]]*) are the two most clinically researched medicinal mushrooms in the world. Both are inedible polypores that require extraction for consumption, both have billion-dollar markets, and both are used as cancer adjuvant therapies in Asia. Despite these similarities, they differ markedly in biochemistry, cultivation, traditional use, and therapeutic emphasis.
 

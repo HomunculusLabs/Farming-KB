@@ -5,10 +5,10 @@ type: chemical
 tags: [phytosterol, steroid, precursor, plant-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md]
+sources: ["raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"]
 ---
 
-# Stigmasterol
+## Stigmasterol
 
 Stigmasterol is a phytosterol (plant-derived steroid alcohol) widely distributed across the plant kingdom. It serves as the chemical precursor for the synthesis of [[brassinosteroid]] precursor. It has been shown to:
 

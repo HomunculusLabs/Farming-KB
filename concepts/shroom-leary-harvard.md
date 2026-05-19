@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# [[wasson-rediscovery-of-psilocybin]] -- Wasson's discovery
+## [[wasson-rediscovery-of-psilocybin]] -- Wasson's discovery
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]].
 HarperCollins, 2006. Lines 8760-9060.
 ## Background and Context

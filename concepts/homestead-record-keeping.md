@@ -7,7 +7,7 @@ tags: [homesteading, workflow, annual-calendar, reference, economics]
 sources: []
 ---
 
-# Homestead Record Keeping
+## Homestead Record Keeping
 
 Systematic record keeping transforms a homestead from a collection of guesswork into a data-driven operation. Tracking your activities lets you identify what works, what does not, and where your resources go. After 2-3 years of good records, you can make informed decisions that save money, increase yields, and reduce failures.
 

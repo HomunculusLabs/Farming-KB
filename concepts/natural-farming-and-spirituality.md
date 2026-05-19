@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Natural Farming and Spirituality
+## Natural Farming and Spirituality
 
 [[masanobu-fukuoka]]'s [[fukuoka-view-of-nature-and-human-hubris]] -- epistemology and limits of knowledge
 - [[fukuoka-western-eastern-philosophy-agriculture]]

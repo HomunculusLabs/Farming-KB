@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Patterns in Nature
+## Permaculture Patterns in Nature
 
 Chapter 4 of the Designers' Manual is devoted to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
 

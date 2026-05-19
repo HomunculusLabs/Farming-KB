@@ -17,7 +17,7 @@ sources:
   - "Mori et al. (2009). Phytotherapy Research 23(3): 367-72."
 ---
 
-# Lion's Mane Mushroom (*Hericium erinaceus*)
+## Lion's Mane Mushroom (*Hericium erinaceus*)
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Beverage Plants updated: 2026-04-18 From: permaculture-designers-manual-biogas-digester) ## Design Integration Beverage plants integrate with other permaculture elements: - Coffee and cacao as understory crops in food forests - Tea shrubs in hedgerow systems - Herbs in kitchen garden Zone 1 - Palms in mixed tropical polycultures - Grape vines on house trellises for cooling - Bee forage plants supporting honey production as a sweetener ## Related Topics - permaculture-designers-manual-herbaceous-plants - herb tea species - [[permaculture-designers-manual-temperate-climate-design]]
+## Beverage Plants updated: 2026-04-18 From: permaculture-designers-manual-biogas-digester) ## Design Integration Beverage plants integrate with other permaculture elements: - Coffee and cacao as understory crops in food forests - Tea shrubs in hedgerow systems - Herbs in kitchen garden Zone 1 - Palms in mixed tropical polycultures - Grape vines on house trellises for cooling - Bee forage plants supporting honey production as a sweetener ## Related Topics - permaculture-designers-manual-herbaceous-plants - herb tea species - [[permaculture-designers-manual-temperate-climate-design]]
 ## Practical Applications
 
 Beverage Plants has a range of practical applications that make it relevant to

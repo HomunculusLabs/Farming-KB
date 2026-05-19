@@ -5,7 +5,7 @@ type: entity
 tags: [person, curandera, mazatec, salvia-divinorum, shamanism, healer, mexico]
 ---
 
-# Consuela Garcia
+## Consuela Garcia
 
 ## Description
 

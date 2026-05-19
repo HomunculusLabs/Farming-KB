@@ -9,7 +9,7 @@ sources:
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 
-# Gaia's Garden Hugelkultur
+## Gaia's Garden Hugelkultur
 
 Toby Hemenway's treatment of hugelkultur (mound culture) as a technique for building soil, retaining moisture, and extending the [[fungal-succession-woody-debris-ecology]] — branches, brush, logs — as the core of raised planting mounds. The woody material acts as a sponge, absorbing and holding moisture while slowly decomposing to release nutrients.
 

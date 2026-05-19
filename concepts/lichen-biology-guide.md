@@ -7,7 +7,7 @@ tags: [fungi, mycology, ecology, biology, symbiosis, foraging, species-profiles]
 sources: []
 ---
 
-# Lichen Biology Guide
+## Lichen Biology Guide
 
 Lichens are composite organisms arising from a symbiotic relationship between a fungus (the mycobiont, usually an [[ascomycete-phylum-guide|ascomycete]]) and a photosynthetic partner (the photobiont, either a green alga or a cyanobacterium). Approximately 98% of lichen-forming fungi are ascomycetes, with the remaining 2% being basidiomycetes. Lichens are found on every continent, including Antarctica, and are among the oldest living organisms on Earth.
 

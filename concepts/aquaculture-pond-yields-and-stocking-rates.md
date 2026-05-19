@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Pond Yields and Stocking Rates
+## Aquaculture Pond Yields and Stocking Rates
 
 ## Overview
 

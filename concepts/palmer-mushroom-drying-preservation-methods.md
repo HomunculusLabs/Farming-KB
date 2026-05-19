@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Palmer on Mushroom Drying and Preservation Methods
+## Palmer on Mushroom Drying and Preservation Methods
 
 ## The Need for Preservation
 

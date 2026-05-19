@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Ayahuasca and Amazonian Shamanism
+## Ayahuasca and Amazonian Shamanism
 
 ## The New World Richness in Hallucinogens
 

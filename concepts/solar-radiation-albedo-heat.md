@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Solar Radiation, Albedo, and Heat
+## Solar Radiation, Albedo, and Heat
 
 ## Overview
 

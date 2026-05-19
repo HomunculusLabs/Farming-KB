@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
 type: concept
 ---
-# Salt Tolerant Fodder Plants ## Overview Salt tolerant fodder plants are essential components of [[permplant-willows-salix-erosion-control-fodder]], and
+## Salt Tolerant Fodder Plants ## Overview Salt tolerant fodder plants are essential components of [[permplant-willows-salix-erosion-control-fodder]], and
 windbreak protection. Many salt-tolerant species are also [[atriplex-halimus]] for a detailed
 species profile. Yields can exceed 10 tonnes per hectare per year
 year for some species, though better growth rates are experienced in

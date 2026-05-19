@@ -9,7 +9,7 @@ type: concept
 tags: [jadam, vinegar]
 ---
 
-# JADAM Position on Brown Rice Vinegar and Vinegar-Based Inputs
+## JADAM Position on Brown Rice Vinegar and Vinegar-Based Inputs
 
 Brown rice vinegar (BRV) is a prominent input in Cho Glossary where it serves as a solvent for extracting
 plant nutrients and as a pest control agent. JADAM, while sharing

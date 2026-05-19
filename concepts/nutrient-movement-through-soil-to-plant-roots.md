@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Nutrient Movement Through Soil to Plant Roots
+## Nutrient Movement Through Soil to Plant Roots
 
 Before nutrients can enter a plant, they must first travel through the soil to reach the root surface. Three primary mechanisms accomplish this: root interception, mass flow, and diffusion. Each mechanism moves different nutrients, and understanding them is key to managing plant nutrition.
 

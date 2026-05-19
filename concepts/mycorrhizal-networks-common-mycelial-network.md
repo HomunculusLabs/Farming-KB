@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, ecology, fungi]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Mycorrhizal Networks (Common Mycelial Network)
+## Mycorrhizal Networks (Common Mycelial Network)
 
 The "Wood Wide Web" — mycorrhizal networks connect individual plants into an [[teaming-with-microbes-fungi-the-underground-network]] through shared fungal hyphae. Through these networks, plants can transfer carbon, nutrients, water, and chemical signals between individuals, including between different species. This is one of the most significant ecological discoveries of recent decades.
 

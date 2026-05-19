@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Microwave Exposure System Architecture for Surface Sterilization
+## Microwave Exposure System Architecture for Surface Sterilization
 
 NASA Technical Brief MSC-22484 documents not only the biological efficacy of
 [[bacillus-pumilus-radiation-resistance-surface-decontamination]], and understanding its

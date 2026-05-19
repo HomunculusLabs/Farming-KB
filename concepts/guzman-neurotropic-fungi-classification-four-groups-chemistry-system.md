@@ -6,7 +6,7 @@ type: concept
 tags: [neurotropic-fungi, classification, taxonomy, chemistry, psilocybin, ibotenic-acid, ergot-alkaloids, sacred-fungi, guzman]
 ---
 
-# Neurotropic Fungi Classification: Four Groups System
+## Neurotropic Fungi Classification: Four Groups System
 
 ## Overview
 

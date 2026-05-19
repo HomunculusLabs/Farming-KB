@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Brown Rot Fungi in Bioremediation
+## Brown Rot Fungi in Bioremediation
 
 Brown rot fungi are a physiological group of basidiomycetes that
 primarily degrade cellulose and hemicellulose while modifying lignin

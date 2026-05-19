@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, history]
 ---
 
-# Cannabis Ancient History in Plants of the Gods
+## Cannabis Ancient History in Plants of the Gods
 
 Schultes and Hofmann document cannabis as one of humanity's oldest cultivars,
 with a partnership between Cannabis and man existing for approximately ten

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Migraine and Headache
+## Cannabis for Migraine and Headache
 
 updated: 2026-04-18
 

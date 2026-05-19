@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Deep-Organic History and Philosophy
+## Deep-Organic History and Philosophy
 
 The story of [[coleman-deep-organic-farming]],
 

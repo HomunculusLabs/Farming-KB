@@ -7,7 +7,7 @@ wikilinks: haze-[[oner-brazilian-white-sativa-early-finishing-equatorial-genetic
 created: 2026-05-10
 ---
 
-# Southeast Asian Sativa Heritage
+## Southeast Asian Sativa Heritage
 
 ## Overview
 

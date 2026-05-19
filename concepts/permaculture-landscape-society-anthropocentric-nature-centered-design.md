@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture in Landscape and Society: Anthropocentric and Nature-Centered Design
+## Permaculture in Landscape and Society: Anthropocentric and Nature-Centered Design
 
 ## Permaculture as Beneficial Design
 

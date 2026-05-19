@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Settlement Strategies
+## Desert Settlement Strategies
 
 ## Overview
 

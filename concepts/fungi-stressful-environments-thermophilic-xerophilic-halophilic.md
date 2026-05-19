@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungi in Stressful Environments
+## Fungi in Stressful Environments
 Thermophilic, Psychrotropic, Xerophilic, and Halophilic
 Fungi colonize virtually every environment on Earth, including
 extremes of temperature, water availability, pH, and chemical

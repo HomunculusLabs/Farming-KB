@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# The Shamanic Meme
+## The Shamanic Meme
 
 In *Food of the Gods*, [[archaic-revival-partnership-vs-dominator-cultures]] force their aboriginal people."
 

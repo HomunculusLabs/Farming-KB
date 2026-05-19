@@ -7,7 +7,7 @@ tags: [permaculture, design]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (0.1 hectare) per goat
+## [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (0.1 hectare) per goat
 - Wrap trees with chicken wire to prevent bark stripping
 - No gaps wider than 8 inches (20 cm); if goats can't see through, they won't try to escape
 - Goats can unlock standard latches with their tongue -- padlocks may be necessary

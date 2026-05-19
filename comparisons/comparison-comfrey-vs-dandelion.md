@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Comfrey vs Dandelion
+## Comfrey vs Dandelion
 
 ## Overview
 

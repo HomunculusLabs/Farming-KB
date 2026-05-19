@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Plant Tissues, Dermal and Ground Systems, and Root Structure
+## Plant Tissues, Dermal and Ground Systems, and Root Structure
 
 Plants are composed of three major tissue systems — dermal, ground, and vascular — each with specialized cell types that work in concert. Understanding these tissues and how roots are organized provides the foundation for understanding nutrient uptake.
 

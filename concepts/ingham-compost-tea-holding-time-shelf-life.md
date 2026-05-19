@@ -1,4 +1,8 @@
-# Compost Tea Holding Time, Shelf Life, and Quality Preservation
+---
+title: "Compost Tea Holding Time, Shelf Life, and Quality Preservation"
+tags:
+  - concept
+---
 **Source:** The [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) is how long it can be stored before application. Elaine Ingham provides clear but nuanced guidance: compost tea should ideally be applied immediately after brewing, but can be held for up to 5 days under carefully maintained aerobic conditions. However, holding time comes with a significant biological cost — the diversity of organisms in the tea declines steadily from the moment brewing stops.
 
 ## The Biology of Holding Time

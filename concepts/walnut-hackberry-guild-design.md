@@ -8,7 +8,7 @@ sources:
   - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
 
-# Walnut Hackberry Guild Design
+## Walnut Hackberry Guild Design
 
 Updated: 2026-04-18
 

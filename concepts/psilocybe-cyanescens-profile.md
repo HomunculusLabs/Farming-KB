@@ -9,7 +9,7 @@ sources:
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Psilocybe cyanescens Profile
+## Psilocybe cyanescens Profile
 
 ## Overview
 

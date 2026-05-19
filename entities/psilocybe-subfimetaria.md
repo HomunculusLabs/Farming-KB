@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe subfimetaria
+## Psilocybe subfimetaria
 
 **Psilocybe subfimetaria** is a psilocybin-containing mushroom species originally described from Australia. As the specific epithet suggests, it is closely related to and morphologically similar to *Psilocybe fimetaria*, a species first described from Europe. The species is part of a group of coprophilous and coprophilous-associated *Psilocybe* mushrooms found in temperate and subtropical regions of the [[psilocin]] as its principal psychoactive alkaloids. The blue bruising reaction, while sometimes modest, confirms the presence of these compounds. Analytical data on exact alkaloid concentrations are limited due to the relative rarity of collections, but the species is considered to be moderately psychoactive.
 

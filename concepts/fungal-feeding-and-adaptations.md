@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Fungal Feeding and Adaptations
+## Fungal Feeding and Adaptations
 
 Fungi are among the most remarkable organisms in the soil food web. They serve as primary decay agents, nutrient mobilizers, and even active predators. Understanding how fungi feed and adapt gives gardeners and farmers critical insight into building healthy, living soil.
 

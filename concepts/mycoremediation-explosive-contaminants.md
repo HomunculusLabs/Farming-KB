@@ -7,7 +7,7 @@ tags: [contamination, mycology, pollution]
 sources: ["papers/mycelium-running-stamets.md"]
 ---
 
-# Mycoremediation of Explosive Contaminants
+## Mycoremediation of Explosive Contaminants
 
 Fungi play important roles in the biodegradation of explosive contaminants, particularly nitroaromatic compounds such as 2,4,6-trinitrotoluene (TNT) and hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX). These munitions constituents contaminate soil and groundwater at military installations, manufacturing facilities, and testing ranges worldwide.
 

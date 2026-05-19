@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Soil Depth Profiles and Vertical Distribution Fungal communities vary significantly with soil depth, reflecting gradients in organic matter availability, oxygen concentration, moisture, temperature, and root density. Understanding vertical distribution patterns is essential for accurate assessment of soil fungal diversity. [[saprobic-soil-fungi]] fungal-environmental-sensing [[mycorrhizal-fungi]]
+## Fungal Soil Depth Profiles and Vertical Distribution Fungal communities vary significantly with soil depth, reflecting gradients in organic matter availability, oxygen concentration, moisture, temperature, and root density. Understanding vertical distribution patterns is essential for accurate assessment of soil fungal diversity. [[saprobic-soil-fungi]] fungal-environmental-sensing [[mycorrhizal-fungi]]
 
 ## Disturbance Effects on Soil Profile
 

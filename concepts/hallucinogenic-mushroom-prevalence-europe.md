@@ -6,7 +6,7 @@ tags: [epidemiology, prevalence, europe, hallucinogenic-mushrooms, drug-survey, 
 aliases: [[european-prevalence-and-patterns-of-magic-mushroom-use]] europe, psilocybin prevalence EU, hallucinogenic mushroom statistics]
 ---
 
-# Hallucinogenic Mushroom Prevalence in Europe
+## Hallucinogenic Mushroom Prevalence in Europe
 
 The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) published a comprehensive case study in 2006 examining the emerging trend of [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]]. This study, authored by Hillebrand, Olszewski, and Sedefov, drew on data from multiple national drug surveys, school-based studies, club-setting surveys, and early warning systems to characterize the prevalence and patterns of mushroom use in Europe.
 

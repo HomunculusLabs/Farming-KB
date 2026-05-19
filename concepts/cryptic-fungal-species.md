@@ -7,7 +7,7 @@ tags: [mycology, taxonomy, cryptic-species, fungal-diversity]
 sources: []
 ---
 
-# Cryptic Fungal Species
+## Cryptic Fungal Species
 
 Cryptic fungal species are two or more distinct species that are
 morphologically identical or nearly indistinguishable but are

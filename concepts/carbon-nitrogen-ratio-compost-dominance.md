@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Carbon-to-Nitrogen Ratio and Compost Microbial Dominance
+## Carbon-to-Nitrogen Ratio and Compost Microbial Dominance
 
 The carbon-to-nitrogen (C:N) ratio is the single most important factor determining whether a [[compost]] pile will support fungal or bacterial dominance in its finished product. By manipulating the types and proportions of materials fed to a compost pile, a gardener can produce compost specifically tailored to the needs of different plant types — fungal compost for trees and perennials, or [[bacterial-compost]] for vegetables and annual flowers.
 

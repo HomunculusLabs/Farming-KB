@@ -9,7 +9,7 @@ tags:
   - strain-review
 ---
 
-# South Indian — Landrace Preserved by AutoFem Seeds
+## South Indian — Landrace Preserved by AutoFem Seeds
 
 ## Origins and Breeding Background
 

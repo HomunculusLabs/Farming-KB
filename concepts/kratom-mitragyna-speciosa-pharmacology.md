@@ -4,7 +4,7 @@ source_type: general_knowledge
 mined_date: 2026-05-08
 tags: [kratom, mitragyna-speciosa, mitragynine, opioid-receptor, ethnobotany, southeast-asia, pharmacology]
 ---
-# Kratom (Mitragyna speciosa) Pharmacology
+## Kratom (Mitragyna speciosa) Pharmacology
 
 ## Overview
 

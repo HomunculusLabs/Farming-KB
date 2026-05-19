@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# The Only Future for Man: Three Stages of Collapse and the Necessity of Natural Farming
+## The Only Future for Man: Three Stages of Collapse and the Necessity of Natural Farming
 
 [[critique-of-scientific-agriculture]] civilization and its trajectory toward self-destruction. His argument is not merely agricultural but cosmological: humanity's departure from nature follows a predictable pattern of expansion, rupture, and collapse, and the only viable path forward is a return [[fukuoka-microbes-soil-health-discriminating-knowledge]]" — the fragmented, analytical intellect that separates subject from object, man from nature. Because humanity has no way of recognizing that its accumulated knowledge is fundamentally unknowable and mistaken, it founders ever deeper:
 

@@ -8,7 +8,7 @@ sources:
 type: concept
 ---
 
-# Street Sample Alkaloid Variability in Psilocybe cubensis
+## Street Sample Alkaloid Variability in Psilocybe cubensis
 
 ## Overview
 

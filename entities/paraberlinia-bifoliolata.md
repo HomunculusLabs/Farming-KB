@@ -10,7 +10,7 @@ tags:
   - cameroon
 ---
 
-# Paraberlinia bifoliolata
+## Paraberlinia bifoliolata
 
 ## Description
 

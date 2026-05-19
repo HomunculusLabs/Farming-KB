@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Seed Saving Methods for Home Gardeners
+## Seed Saving Methods for Home Gardeners
 
 Updated: 2026-04-18
 

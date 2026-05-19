@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, design, patterns, zones, sectors, holmgren]
 ---
 
-# Design from Patterns to Details
+## Design from Patterns to Details
 
 ## Permaculture Design Principle #7 — "Can't See the Wood for the Trees"
 

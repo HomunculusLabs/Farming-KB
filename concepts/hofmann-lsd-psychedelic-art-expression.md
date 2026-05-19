@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# LSD Psychedelic Art and Artistic Expression
+## LSD Psychedelic Art and Artistic Expression
 
 ## Artists as Early Experimenters
 

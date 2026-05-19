@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Prevent and Fix Salt Buildup in Cannabis Soil?
+## How Do I Prevent and Fix Salt Buildup in Cannabis Soil?
 
 ## Short Answer
 Salt buildup occurs when excess mineral nutrients accumulate in the

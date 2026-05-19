@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# DMT (Dimethyltryptamine) Experience Guide
+## DMT (Dimethyltryptamine) Experience Guide
 
 DMT is one of the most powerful psychedelics known, rated intensity 9-10 by Turner. It exists as N,N-DMT and 5-MeO-DMT, both naturally occurring and found in the human brain. Turner summarizes: "5-MeO-DMT feels like sheer force, whereas N,N-DMT feels like sheer perfection."
 

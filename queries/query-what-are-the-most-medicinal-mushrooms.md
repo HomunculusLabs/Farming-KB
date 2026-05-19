@@ -8,7 +8,7 @@ sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 type: query
 ---
 
-# What Are the Most Medicinal Mushrooms and What Do They Do?
+## What Are the Most Medicinal Mushrooms and What Do They Do?
 
 ## Short Answer
 

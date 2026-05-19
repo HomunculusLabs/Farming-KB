@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Neuroprotection
+## Cannabis Neuroprotection
 
 The neuroprotective properties of cannabinoids represent one of the most significant and well-documented aspects of the [[cannabis-for-neurological-conditions]]
 - [[blesching-cannabis-glaucoma]]

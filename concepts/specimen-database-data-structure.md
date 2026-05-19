@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Specimen Database Core Data Structure
+## Specimen Database Core Data Structure
 
 The core data structure for a mycological specimen database defines a standardized set of fields that capture every essential piece of information associated with a fungal specimen. This structure is designed to support biodiversity research, taxonomic revision, specimen tracking, and data exchange across herbaria and research institutions worldwide. The fields are organized into logical groups reflecting the stages of a specimen's lifecycle — from collection and identification to curation and storage.
 

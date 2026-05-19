@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Root Cellaring and No-Energy Food Storage
+## Root Cellaring and No-Energy Food Storage
 
 Updated: 2026-04-18
 

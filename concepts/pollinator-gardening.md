@@ -7,7 +7,7 @@ tags: [plants, gardening, ecology, insects, permaculture, plant-systems, cultiva
 sources: []
 ---
 
-# Pollinator Gardening
+## Pollinator Gardening
 
 Pollinators are essential for the reproduction of over 80% of flowering plants and approximately one-third of human food crops. Creating habitat for pollinators supports both wild ecosystems and agricultural productivity. A pollinator garden provides food (nectar and pollen), nesting sites, and shelter for bees, butterflies, hummingbirds, moths, flies, and beetles.
 

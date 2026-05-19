@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Purdue Garden Planning and Layout
+## Purdue Garden Planning and Layout
 
 A guide to planning and laying out a home [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], and environmental hazards such as juglone toxicity from walnut trees. Based on Purdue University Cooperative Extension Service guidelines (HO-32-W).
 

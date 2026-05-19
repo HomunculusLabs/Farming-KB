@@ -7,7 +7,7 @@ journal: Mycologia
 tags: [mycology, tropism, geotropism, spore-production, basidiomycete, mushroom-development, psilocybe-cubensis, badham]
 ---
 
-# Spore Production and Geotropic Sensitivity Coupling in Basidiomycete Mushrooms
+## Spore Production and Geotropic Sensitivity Coupling in Basidiomycete Mushrooms
 
 ## Overview
 

@@ -43,7 +43,7 @@ related_concepts:
   - homestead-dairy-equipment
 ---
 
-# Home Dairy and Cheesemaking
+## Home Dairy and Cheesemaking
 
 Home dairy and cheesemaking comprise the household-scale production,
 handling, and preservation of milk from goats, cows, sheep, and other dairy

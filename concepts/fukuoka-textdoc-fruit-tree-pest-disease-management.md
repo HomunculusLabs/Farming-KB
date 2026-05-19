@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [fukuoka, pest-control, fruit-trees, orchards]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Natural Fruit Tree Pest and Disease Management
+## Natural Fruit Tree Pest and Disease Management
 
 Fukuoka's approach to managing [[fukuoka-ecological-balance-principles]] maintains tree health
 without human intervention — and how pesticide use destroys that balance.

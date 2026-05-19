@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom Toxicity and Safe Foraging Practices
+## Mushroom Toxicity and Safe Foraging Practices
 
 Julius A. Palmer's personal experiences with [[mushroom-poisoning-and-remedies]] his systematic
 approach to testing new species provide a window into 19th-century understanding

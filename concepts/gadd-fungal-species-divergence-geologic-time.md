@@ -5,7 +5,7 @@ author: Gadd
 tags: [fungi, speciation, divergence-time, molecular-clock, evolution, phylogenetics, cryptic-species, geologic-time]
 ---
 
-# Fungal Species Divergence and Geologic Time
+## Fungal Species Divergence and Geologic Time
 
 ## Molecular Clocks and the Evolutionary History of Fungi
 

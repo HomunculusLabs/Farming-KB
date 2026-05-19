@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# The Paean, Halleluia, the Lord's Prayer, and Abracadabra as Mushroom Codes
+## The Paean, Halleluia, the Lord's Prayer, and Abracadabra as Mushroom Codes
 
 John M. Allegro argues that many of the most familiar invocations and prayers in the
 Christian tradition—including the Bacchic paean cry, Halleluia, the Lord's Prayer, and the

@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Soil and Nutrient Requirements
+## Cannabis Soil and Nutrient Requirements
 
 Cannabis is a heavy feeder with specific nutritional demands that change throughout its life cycle. Understanding soil composition, [[forest-and-bamboo-beneficial-microorganisms]] that cycle nutrients.
 - Ideal pH: 6.0-6.8.

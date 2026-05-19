@@ -8,7 +8,7 @@ sources:
   - raw/papers/masanobu-fukuoka-fukuoka.md
 ---
 
-# The Four Principles of Natural Farming
+## The Four Principles of Natural Farming
 
 The four principles of [[white-clover-ground-cover|leguminous cover of white clover]], returns the threshed straw to the fields, and adds a little poultry manure.
 People interfere with nature and cannot heal the resulting wounds. Their careless

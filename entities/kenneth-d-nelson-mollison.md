@@ -5,7 +5,7 @@ type: entity
 tags: [people, engineering, dam-construction, water-management, author]
 ---
 
-# Kenneth D. Nelson
+## Kenneth D. Nelson
 
 ## Description
 

@@ -6,7 +6,7 @@ date: 2026-05-09
 aliases: [Plant Vision, Phototropism, chamovitz-darwin-phototropism-experiment-canary-grass
 ---
 
-# Plant Photoreception and Phototropism
+## Plant Photoreception and Phototropism
 
 Plants possess sophisticated light-sensing capabilities that, while fundamentally
 different from animal vision, qualify as a form of [[electromagnetic-spectrum-visible-light-plant-perception]] (400-700nm):** The spectrum humans see — blue through red. Plants

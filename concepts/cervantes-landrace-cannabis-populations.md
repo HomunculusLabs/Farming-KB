@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Landrace Cannabis Populations
+## Landrace Cannabis Populations
 
 Landrace cannabis varieties are wild or traditionally cultivated
 populations that have not been improved by modern human breeding

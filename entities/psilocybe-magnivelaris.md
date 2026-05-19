@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe magnivelaris
+## Psilocybe magnivelaris
 
 **Type:** Species (Fungus)
 **Category:** [[basidiomycota]], [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] is a distinctive

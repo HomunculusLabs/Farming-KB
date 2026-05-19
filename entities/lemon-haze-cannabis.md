@@ -12,7 +12,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Lemon Haze (Cannabis Strain)
+## Lemon Haze (Cannabis Strain)
 
 ## Overview
 

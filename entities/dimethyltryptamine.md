@@ -5,10 +5,10 @@ type: chemical
 tags: [psychedelic, tryptamine, entheogen, endogenous-compound, pharmacology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
+sources: ["raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"]
 ---
 
-# Dimethyltryptamine
+## Dimethyltryptamine
 
 **N,N-Dimethyltryptamine** (DMT) is a potent psychedelic tryptamine compound found naturally in numerous plant species, animals, and in the human body. Often described as one of the most powerful psychoactive substances known, DMT produces intense visionary experiences characterized by geometric visual patterns, encounters with apparently autonomous entities, and profound alterations in the sense of self, space, and time. Its presence in the human brain — where it may function as an endogenous neurotransmitter or neuromodulator — makes it a compound of extraordinary scientific and philosophical interest.
 

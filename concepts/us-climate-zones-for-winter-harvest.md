@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# US Climate Zones for Winter Harvest
+## US Climate Zones for Winter Harvest
 
 ## Overview
 

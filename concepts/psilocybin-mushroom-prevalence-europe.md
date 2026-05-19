@@ -5,7 +5,7 @@ tags: [epidemiology, europe, prevalence, psilocybin, drug-use-surveys, emcdda]
 created: 2026-05-09
 ---
 
-# Psilocybin Mushroom Prevalence in Europe
+## Psilocybin Mushroom Prevalence in Europe
 
 ## Overview
 

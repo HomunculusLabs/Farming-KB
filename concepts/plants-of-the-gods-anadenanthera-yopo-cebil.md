@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Anadenanthera: Yopo and Cebil
+## Anadenanthera: Yopo and Cebil
 
 ## Overview
 

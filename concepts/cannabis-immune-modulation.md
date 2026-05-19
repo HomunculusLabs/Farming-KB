@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Immune Modulation
+## Cannabis Immune Modulation
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Preparation of Cannabis Oil Capsules
+## Preparation of Cannabis Oil Capsules
 
 Chapter 6 of *[[ben-lemon]] describes the preparation
 of cannabis oil capsules for oral ingestion, sometimes called "pot pills."

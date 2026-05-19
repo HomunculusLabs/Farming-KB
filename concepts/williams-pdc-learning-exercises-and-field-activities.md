@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [permaculture, learning-exercises, field-activities, PDC, hands-on-learning]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
-# Learning Exercises and Field Activities from the PDC William Ozier's [[permaculture-design-from-patterns-to-details]] principle.
+## Learning Exercises and Field Activities from the PDC William Ozier's [[permaculture-design-from-patterns-to-details]] principle.
 
 ## Site Analysis Exercise
 

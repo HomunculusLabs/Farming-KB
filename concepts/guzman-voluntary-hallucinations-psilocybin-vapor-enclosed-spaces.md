@@ -21,7 +21,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Voluntary Hallucinations from Psilocybin Vapor in Enclosed Spaces
+## Voluntary Hallucinations from Psilocybin Vapor in Enclosed Spaces
 
 ## Overview
 

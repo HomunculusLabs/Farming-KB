@@ -7,7 +7,7 @@ tags: [succession, ecology, soil-building, pioneers, climax, permaculture-design
 mined: 2026-05-10
 ---
 
-# Succession and Ecological Evolution in Permaculture
+## Succession and Ecological Evolution in Permaculture
 
 ## Overview
 

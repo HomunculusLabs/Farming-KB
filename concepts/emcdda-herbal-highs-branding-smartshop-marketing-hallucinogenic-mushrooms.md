@@ -1,4 +1,8 @@
-# Herbal Highs Branding and Smartshop Marketing of Hallucinogenic Mushrooms
+---
+title: "Herbal Highs Branding and Smartshop Marketing of Hallucinogenic Mushrooms"
+tags:
+  - concept
+---
 
 ## Source
 *EMCDDA (2006) — Hallucinogenic Mushrooms: An [[golden-guide-salvia-divinorum-and-diviner-sage]], guarana, and ephedra-based stimulants marketed as

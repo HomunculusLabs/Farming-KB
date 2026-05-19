@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, harvesting]
 ---
 
-# [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]] Bible* (4th ed.), Chapters 14 and 17.
+## [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]] Bible* (4th ed.), Chapters 14 and 17.
 
 ## When to Harvest
 

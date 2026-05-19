@@ -21,7 +21,7 @@ sources:
 type: concept
 ---
 
-# Peganum Harmala as Soma — Syrian Rue and Harmaline
+## Peganum Harmala as Soma — Syrian Rue and Harmaline
 
 ## Overview
 

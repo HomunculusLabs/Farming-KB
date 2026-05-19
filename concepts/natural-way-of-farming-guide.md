@@ -26,7 +26,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# The Natural Way of Farming — Book Guide
+## The Natural Way of Farming — Book Guide
 
 *The Natural Way of Farming: The Theory and Practice of Green Philosophy* (1985, 1987 English) by Masanobu Fukuoka is the technical and philosophical companion to *The One-Straw Revolution*. While the first book was conversational and narrative, this is structured as a systematic treatise on natural farming theory, with detailed practical instructions for rice/barley, orchard, and vegetable production.
 

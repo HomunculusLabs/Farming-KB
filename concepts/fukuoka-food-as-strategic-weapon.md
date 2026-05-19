@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Food as Strategic Weapon and the Seed War
+## Fukuoka Food as Strategic Weapon and the Seed War
 
 In "The Road Back to Nature," Fukuoka delivers a sharp critique of how food has become a tool of geopolitical power, particularly focusing on America's use of food exports as leverage over other nations and the emerging "seed war" in rice genetics.
 

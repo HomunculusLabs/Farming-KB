@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fungus Gnats in Cannabis Gardens
+## Fungus Gnats in Cannabis Gardens
 
 Fungus gnats are a common pest in cannabis gardens,
 particularly in soil and soilless [[cervantes-fusarium-vascular-wilt-diseases]]

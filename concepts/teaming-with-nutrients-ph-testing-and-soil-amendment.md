@@ -13,7 +13,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# pH Testing and Soil Amendment
+## pH Testing and Soil Amendment
 Soil pH is arguably the single most important factor influencing nutrient
 availability. It determines whether nutrients exist in forms that plants can
 absorb or are locked away in insoluble compounds. Understanding pH -- what it

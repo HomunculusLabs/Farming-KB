@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JADAM Rice Cultivation Methods
+## JADAM Rice Cultivation Methods
 
 ## Overview
 

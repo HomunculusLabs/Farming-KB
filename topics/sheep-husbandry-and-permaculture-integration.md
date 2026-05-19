@@ -16,7 +16,7 @@ sources:
   - ~/wiki/concepts/sheep-health-and-production.md
 ---
 
-# Sheep Husbandry and Permaculture Integration
+## Sheep Husbandry and Permaculture Integration
 
 Sheep (Ovis aries) are among the most versatile and manageable livestock for
 small-scale farms and permaculture systems. Domesticated over 10,000 years ago

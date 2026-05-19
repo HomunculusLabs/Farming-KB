@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, pf-tek]
 created: 2026-05-09
 ---
 
-# Steam Sterilization Techniques
+## Steam Sterilization Techniques
 
 One of the defining advantages of the [[pressure-cooker-sterilisation-fungal-substrate]] or autoclave. Steam sterilization using ordinary kitchen
 cookware is sufficient because the [[pf-substrate]] contains no whole grain to

@@ -7,11 +7,11 @@ synonyms:
   - white rot model organism
 type: concept
 tags: [pollution]
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 updated: 2026-04-26
 ---
 
-# Phanerochaete chrysosporium in Bioremediation
+## Phanerochaete chrysosporium in Bioremediation
 
 ## Overview
 

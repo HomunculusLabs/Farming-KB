@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wildfire Spread Factors and Firestorm Conditions
+## Wildfire Spread Factors and Firestorm Conditions
 
 ## Overview
 

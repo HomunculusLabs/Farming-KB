@@ -1,4 +1,8 @@
-# Fukuoka's Five Principles of Natural Farming
+---
+title: "Fukuoka's Five Principles of Natural Farming"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of fukuoka five principles natural farming no tillage no fertilizer into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.

@@ -15,7 +15,7 @@ sources:
   - Wasser, S.P. (2010). "cancer-medicinal-mushrooms-extraction-bioavailability 12(1): 1-16.
 ---
 
-# Volvariella bombycina
+## Volvariella bombycina
 
 ## Overview
 

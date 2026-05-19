@@ -17,7 +17,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Mushroom Nutritional Categories and Fungal Habitat Roles
+## Mushroom Nutritional Categories and Fungal Habitat Roles
 
 Fungi occupy virtually every ecological niche on Earth, and their nutritional strategies
 define how they interact with the living and nonliving world. Paul Stamets, in *Mycelium

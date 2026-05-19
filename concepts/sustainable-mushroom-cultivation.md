@@ -7,7 +7,7 @@ tags: [mushroom-cultivation, regenerative, food-security, mycoforestry]
 sources: [raw/papers/fungi-magazine-fungi-and-sustainability.md]
 ---
 
-# Sustainable Mushroom Cultivation for Development
+## Sustainable Mushroom Cultivation for Development
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Echinopsis pachanoi
+## Echinopsis pachanoi
 
 **Echinopsis pachanoi**, commonly known as **San Pedro**, is a fast-growing columnar cactus native to the Andes mountains of Ecuador, Peru, Bolivia, and northern Chile. It has been used as a sacramental entheogen for at least 3,000 years in Andean traditional medicine and shamanic practice. The cactus contains a complex profile of phenethylamine alkaloids, with **mescaline** as the primary psychoactive compound. San Pedro is one of the most culturally significant psychoactive plants in the Americas, with a living tradition of ceremonial use that predates the Inca Empire and continues unbroken to the present day.
 

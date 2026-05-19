@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Winter Succession Planting
+## Winter Succession Planting
 
 Winter succession planting is the practice of scheduling repeated sowings of
 cold-hardy crops from early August through late fall to maintain continuous

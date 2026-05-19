@@ -9,7 +9,7 @@ type: concept
 tags: [fungi, mycelium, water]
 ---
 
-# Filtering Water with Fungi
+## Filtering Water with Fungi
 
 [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]**: Zinc, copper, and other metals from agricultural
   runoff

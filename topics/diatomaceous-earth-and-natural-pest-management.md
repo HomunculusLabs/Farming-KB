@@ -14,7 +14,7 @@ sources:
   - Permaculture and coleman-deep-organic-farming literature
   - Extension service comparison-beneficial-insects-guide-vs-integrated-pest-management guides---
 
-# Diatomaceous Earth and Natural Pest Management
+## Diatomaceous Earth and Natural Pest Management
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Handbook Index M-W: Comprehensive Topic Reference
+## Winter Harvest Handbook Index M-W: Comprehensive Topic Reference
 
 This page expands the M–W index entries of *The Winter Harvest Handbook* into a structured topical reference for winter vegetable production systems.
 

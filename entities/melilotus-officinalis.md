@@ -24,7 +24,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3495977/
 ---
 
-# Melilotus officinalis
+## Melilotus officinalis
 
 *Melilotus officinalis*, commonly known as yellow sweet clover, is a biennial legume in the family Fabaceae native to
 Eurasia but now naturalized across [[dighton-fungal-drought-tolerance-plant-water-relations]]

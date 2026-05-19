@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Brain Cancer (Glioblastoma)
+## Cannabis and Brain Cancer (Glioblastoma)
 
 ## Overview
 

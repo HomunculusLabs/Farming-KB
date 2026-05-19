@@ -7,7 +7,7 @@ tags: [shiitake, mushroom-cultivation, log-cultivation, fungi, mycology, lentinu
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 
-# Shiitake Cultivation - Log Method
+## Shiitake Cultivation - Log Method
 
 Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
 

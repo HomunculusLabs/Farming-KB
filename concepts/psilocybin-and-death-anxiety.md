@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms]
 sources:
   - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
-# Psilocybin and Death Anxiety
+## Psilocybin and Death Anxiety
 
 The confrontation with mortality is a recurring theme in Powell's "The [[reishi-mushroom-medicinal-properties]] (Ling Zhi) in Chinese tradition literally means "Mushroom of Immortality," and Wasson proposed that the sacred Soma of the ancient Indo-Europeans was a psychoactive mushroom. Across cultures, visionary mushrooms have been associated with transcending death -- not literally, but through providing experiential access to realities that make death less threatening.
 

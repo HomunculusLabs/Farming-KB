@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Are the Best Companion Plants for Cannabis
+## What Are the Best Companion Plants for Cannabis
 
 ## Short Answer
 

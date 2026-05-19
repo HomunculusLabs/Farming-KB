@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# B (Buscaline)
+## B (Buscaline)
 
 **[[serotonin]] binding studies suggested it would be less active than
 mescaline. The physical discomfort at 150 mg (arrhythmia,

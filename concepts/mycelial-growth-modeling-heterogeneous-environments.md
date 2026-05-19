@@ -6,7 +6,7 @@ sources:
   - geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Mycelial Growth Modeling in Heterogeneous Environments
+## Mycelial Growth Modeling in Heterogeneous Environments
 
 ## Overview
 

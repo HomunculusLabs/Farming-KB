@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
-# AACT Compost Organism Levels
+## AACT Compost Organism Levels
 
 Elaine Ingham and Soil Foodweb Inc. (SFI) established specific organism biomass thresholds for compost used in AACT production. These levels ensure that compost tea will contain adequate beneficial organisms for [[bacterial-vs-fungal-compost-teas]]) to 300+ µg (bacterial compost) per g dry weight |
 

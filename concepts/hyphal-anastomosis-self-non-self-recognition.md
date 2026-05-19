@@ -6,7 +6,7 @@ related: ["amf-hyphal-anastomosis-self-recognition", "bacterial-endophytes-plant
 created: 2026-05-09
 ---
 
-# Hyphal Anastomosis and Fungal Self-Non-Self Recognition
+## Hyphal Anastomosis and Fungal Self-Non-Self Recognition
 
 ## Introduction
 

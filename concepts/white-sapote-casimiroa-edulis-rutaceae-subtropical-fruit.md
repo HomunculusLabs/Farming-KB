@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# White Sapote (*Casimiroa edulis*)
+## White Sapote (*Casimiroa edulis*)
 
 ## Overview
 

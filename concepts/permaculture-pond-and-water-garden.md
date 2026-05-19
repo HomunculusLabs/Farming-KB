@@ -14,7 +14,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Permaculture Pond and Water Garden
+## Permaculture Pond and Water Garden
 
 Ponds and water features are among the most productive and ecologically valuable elements in a permaculture design. Toby Hemenway dedicates significant attention to backyard ponds in Gaia's Garden, describing them as multi-functional systems that provide food, habitat, water storage, and aesthetic value.
 

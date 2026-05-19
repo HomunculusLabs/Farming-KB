@@ -5,7 +5,7 @@ type: entity
 tags: [person, soil-science, permaculture, ghana, agriculture]
 ---
 
-# Erik van der Werf
+## Erik van der Werf
 
 ## Description
 

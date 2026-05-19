@@ -7,7 +7,7 @@ tags: [plants, species, permaculture, plant-catalog, ph, gardening, difficult-si
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-# Alkaline Soil Plants
+## Alkaline Soil Plants
 
 A comprehensive list of plant species tolerant of alkaline soils, sourced from permaculture plant selections. These species are suited to sites with high pH, calcareous soils, or areas with salt spray and coastal exposure. Many are also drought-hardy and fire-resistant.
 

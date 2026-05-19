@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Society and Culture Guideline
+## Society and Culture Guideline
 
 The society and culture guideline tests all actions and their associated tools for how
 they serve the [[savory-holistic-management-overview]] in its broadest sense. Will an

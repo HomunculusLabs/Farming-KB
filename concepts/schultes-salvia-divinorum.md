@@ -9,14 +9,12 @@ tags:
   - entheogens
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md",
-  ]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md",
+  "]
 type: concept
 ---
 
-# Salvia Divinorum
+## Salvia Divinorum
 
 *[[entheogen-tetrapteris-methystica-alternative-caapi]]. R. Gordon r-gordon-wasson|Wasson was the
 first outsider to witness [[ceremonial-shamanic-use-psychoactive-mushrooms]]. The famous Mazatec

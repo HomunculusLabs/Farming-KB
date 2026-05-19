@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Metal Halide Lighting Systems
+## Metal Halide Lighting Systems
 
 Metal halide (MH) lamps are a type of High Intensity Discharge (HID)
 light that produce a broad, blue-heavy spectrum ideal for vegetative

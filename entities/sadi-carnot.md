@@ -36,7 +36,7 @@ created: 2026-05-02
 updated: 2026-05-02
 ---
 
-# Nicolas Léonard Sadi Carnot
+## Nicolas Léonard Sadi Carnot
 
 ## Overview
 - Nicolas Léonard Sadi Carnot was a French engineer and physicist.

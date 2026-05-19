@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycelial Morphology Classification on Agar Media
+## Mycelial Morphology Classification on Agar Media
 
 ## Overview
 

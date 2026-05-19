@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Winter Grain/Rice Rotation
+## Fukuoka Winter Grain/Rice Rotation
 
 The winter grain/rice rotation is Masanobu Fukuoka's signature agricultural system -- a "[[fukuoka-agriculture-tomorrow-quarter-acre-vision]] for each crop match or exceed Japanese national averages.
 

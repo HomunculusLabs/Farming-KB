@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Nehemiah Grew and the Birth of fungal-sexual-reproduction-strategies**: He proposed that stamens function as the
+## Nehemiah Grew and the Birth of fungal-sexual-reproduction-strategies**: He proposed that stamens function as the
   male reproductive organs of flowers, a hypothesis that was
   revolutionary for its time and anticipated the work of later botanists
   such as Rudolf Jakob Camerarius and Joseph Gottlieb Kölreuter in

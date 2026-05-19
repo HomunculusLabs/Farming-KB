@@ -8,7 +8,7 @@ related:
 created: 2026-05-09
 ---
 
-# Set and Setting as Universal Framework for Altered States
+## Set and Setting as Universal Framework for Altered States
 
 ## Overview
 

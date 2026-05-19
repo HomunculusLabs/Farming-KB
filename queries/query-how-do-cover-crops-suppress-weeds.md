@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How do cover crops suppress weeds?
+## How do cover crops suppress weeds?
 
 ## Short Answer
 

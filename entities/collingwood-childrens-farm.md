@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# Collingwood Children's Farm
+## Collingwood Children's Farm
 
 ## Description
 

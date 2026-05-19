@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Streptomycete Mycorrhization Helper Bacteria
+## Streptomycete Mycorrhization Helper Bacteria
 
 Mycorrhization helper bacteria (MHB) are a functional group of soil bacteria
 that promote the establishment and functioning of mycorrhizal symbioses. Among

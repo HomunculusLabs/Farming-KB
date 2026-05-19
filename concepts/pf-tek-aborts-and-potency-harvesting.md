@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Aborts and Potency Harvesting
+## PF TEK Aborts and Potency Harvesting
 
 The PF TEK emphasizes that the potency of psilocybe-fanaticus
 advocated harvesting mushrooms at a young, immature stage and collecting

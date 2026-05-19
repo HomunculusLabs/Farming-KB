@@ -5,10 +5,10 @@ type: species
 tags: [amanitaceae, mycorrhizal, psychoactive, ibotenic-acid, muscimol]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Amanita gemmata
+## Amanita gemmata
 
 *Amanita gemmata*, commonly known as the gemmed amanita or jeweled deathcap, is a species of basidiomycete fungus in the family Amanitaceae. It is closely related to the iconic fly agaric (*[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol. While its reputation and bioactive profile are less extensively documented than those of *A. muscaria*, *A. gemmata* represents an important member of the psychoactive Amanita group and has been the subject of increasing phytochemical and pharmacological interest.
 

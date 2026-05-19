@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [mycology, extraction, psilocybin, ethyl-alcohol, pf-tek, tincture, concentration]
 ---
 
-# PF TEK Ethyl Alcohol Psilocybin Extraction and Liqueur Concentration
+## PF TEK Ethyl Alcohol Psilocybin Extraction and Liqueur Concentration
 
 ## Overview
 

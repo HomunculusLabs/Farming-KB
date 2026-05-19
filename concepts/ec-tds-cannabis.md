@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# EC TDS Cannabis
+## EC TDS Cannabis
 
 Electrical Conductivity (EC) and Total Dissolved Solids (TDS) are measurements used to
 determine the concentration of nutrients (fertilizer salts) in a hydroponic solution or

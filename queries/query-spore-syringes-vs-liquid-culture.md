@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Spore Syringes and Liquid Culture?
+## What Is the Difference Between Spore Syringes and Liquid Culture?
 
 ## Short Answer
 Spore syringes contain suspended [[gadd-mycelial-network-dynamics]] that actually colonizes substrate

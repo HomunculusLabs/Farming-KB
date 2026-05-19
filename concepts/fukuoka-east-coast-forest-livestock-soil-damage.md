@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-road-back-to-nature
 topics: forestry, soil-degradation, livestock, united-states, ecology, reforestation
 ---
 
-# Fukuoka's East Coast Forest Observations
+## Fukuoka's East Coast Forest Observations
 
 ## A Sea of Trees That Fooled the Eye
 

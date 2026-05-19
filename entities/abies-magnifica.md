@@ -17,7 +17,7 @@ sources:
   - Barbour, M.G., et al. (2007). "Terrestrial Vegetation of California." University of California Press, 3rd edition.
 ---
 
-# Abies magnifica
+## Abies magnifica
 
 ## Overview
 

@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [mushroom-cultivation, life-cycle, spore-germination, mycelium, fruiting, genetics, stamets]
 ---
 
-# Mushroom Life Cycle and Spore Germination
+## Mushroom Life Cycle and Spore Germination
 
 ## The Mushroom as Fruitbody
 

@@ -8,7 +8,7 @@ sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Spawn Generation Limits and Transfer Logistics
+## Spawn Generation Limits and Transfer Logistics
 
 ## Overview
 

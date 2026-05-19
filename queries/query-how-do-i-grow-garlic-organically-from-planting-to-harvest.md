@@ -7,7 +7,7 @@ sources:
   - "raw/papers/solomon-gardening-west.md"
 ---
 
-# How Do I Grow Garlic Organically from Planting to Harvest?
+## How Do I Grow Garlic Organically from Planting to Harvest?
 
 ## Short Answer
 

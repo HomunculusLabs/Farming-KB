@@ -5,7 +5,7 @@ type: concept
 tags: [soil-food-web, plant-nutrition, cell-biology, organic-gardening, philosophy, summary]
 ---
 
-# Soil Food Web Key Points and the Cell-Universe Analogy
+## Soil Food Web Key Points and the Cell-Universe Analogy
 
 ## Overview
 

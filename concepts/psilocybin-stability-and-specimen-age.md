@@ -5,7 +5,7 @@ tags: [mycology, psilocybin, stability, degradation, potency, chemistry]
 created: 2026-05-09
 ---
 
-# Psilocybin Stability and Specimen Age Effects
+## Psilocybin Stability and Specimen Age Effects
 
 ## Overview
 

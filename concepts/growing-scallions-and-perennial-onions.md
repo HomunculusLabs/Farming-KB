@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Scallions and Perennial Onions
+## Growing Scallions and Perennial Onions
 
 Straight-shanked onions (scallions/spring onions) are easier to grow than bulbing sorts. There is no need to push them into rapid growth because scallions continue growing steadily until they either freeze out in winter or make seed the following spring.
 

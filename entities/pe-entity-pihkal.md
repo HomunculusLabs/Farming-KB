@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# PE
+## PE
 
 [[psilocybin-mushroom-dosage-and-acute-effects]] Du[[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] commentary on. This response is called a "threshhold"
 effect, and cannot be used to predict with any confidence just what

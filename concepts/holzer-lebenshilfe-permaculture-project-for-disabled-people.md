@@ -7,7 +7,7 @@ tags: [holzer, permaculture, homesteading]
 sources: ["papers/sepp-holzer-practical-guide.md"]
 ---
 
-# Holzer Lebenshilfe Permaculture Project for Disabled People
+## Holzer Lebenshilfe Permaculture Project for Disabled People
 
 A unique permaculture project undertaken in the area of Bad Aussee in Styria, Austria, designed to make it possible for disabled people to integrate in a special way with the help of [[natural-building-materials-guide]] bring pleasure to visitors' senses:
 

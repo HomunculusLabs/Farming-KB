@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Cation Exchange and Nutrient Mobility in Soil
+## Cation Exchange and Nutrient Mobility in Soil
 
 The availability of nutrients to plants depends critically on their chemical form and how they interact with soil particles. Understanding **ionic forms**, **[[cation-exchange-capacity]] (CEC)**, and **nutrient mobility** in soil is essential for effective fertilization and plant nutrition management.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Kurgan Waves and the Indo-European Collapse of Partnership Society
+## Kurgan Waves and the Indo-European Collapse of Partnership Society
 
 [[artillery-fungus-and-built-environment-fungi]] rather than fortifications or military installations.
 

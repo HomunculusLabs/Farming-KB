@@ -30,7 +30,7 @@ sources:
 - https://ipm.ucanr.edu/
 ---
 
-# Insect Allies
+## Insect Allies
 
 Beneficial insects are the backbone of any ecological pest management strategy. Rather than eradicating all insects, the goal is to build balanced predator-prey populations where pests stay below economic damage thresholds. See [[cannabis-pest-management]] for crop-specific IPM protocols.
 

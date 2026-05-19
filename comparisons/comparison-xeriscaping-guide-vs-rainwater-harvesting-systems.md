@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Xeriscaping vs Rainwater Harvesting
+## Xeriscaping vs Rainwater Harvesting
 
 ## Overview
 

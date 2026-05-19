@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do You Make Effective Microorganisms (EM) for Agriculture
+## How Do You Make Effective Microorganisms (EM) for Agriculture
 
 ## Short Answer
 [[comparison-natural-farming-vs-permaculture]] or

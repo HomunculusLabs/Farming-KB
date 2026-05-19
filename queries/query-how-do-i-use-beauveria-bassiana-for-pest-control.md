@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# How Do I Use [[beauveria-bassiana]] is a naturally occurring soil fungus that infects and kills over 700 species of insects.
+## How Do I Use [[beauveria-bassiana]] is a naturally occurring soil fungus that infects and kills over 700 species of insects.
 
 It works by landing on an insect's cuticle, germinating, and penetrating the body where it multiplies and eventually kills the host.
 

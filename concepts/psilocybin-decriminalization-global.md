@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [policy, law, decriminalization, psilocybin, drug-reform, regulation]
 ---
 
-# Global Psilocybin Decriminalization and Drug Policy Reform
+## Global Psilocybin Decriminalization and Drug Policy Reform
 
 ## Overview
 

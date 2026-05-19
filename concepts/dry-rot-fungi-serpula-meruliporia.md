@@ -13,7 +13,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Dry Rot Fungi — Serpula, Meruliporia, and Building Destruction
+## Dry Rot Fungi — Serpula, Meruliporia, and Building Destruction
 
 Dry rot is one of the most destructive forces acting on wooden buildings worldwide. Two [[psilocybin-north-america-pacific-northwest]] and Serpula lacrymans in Europe, Asia, and Australia. Despite the common name "dry rot," these fungi require moisture to thrive — the name refers to their ability to destroy wood in buildings that appear dry, not to a preference for arid conditions.
 

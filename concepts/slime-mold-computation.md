@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, computational-biology, emergent-behavior, protistology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Slime Mold Computation and Biological Problem Solving Slime molds, particularly the plasmodial slime mold [[biological-slime-mold-computing]]
+## Slime Mold Computation and Biological Problem Solving Slime molds, particularly the plasmodial slime mold [[biological-slime-mold-computing]]
 - oyster-mushroom-green-mold-disease
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, endophyte, grass, clavicipitales, sexual-stage, stroma, alkaloids]
 ---
 
-# Epichloe
+## Epichloe
 
 ## Description
 

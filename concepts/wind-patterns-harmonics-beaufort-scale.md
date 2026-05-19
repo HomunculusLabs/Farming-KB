@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wind Patterns, Harmonics, and the Beaufort Scale
+## Wind Patterns, Harmonics, and the Beaufort Scale
 
 ## Overview
 

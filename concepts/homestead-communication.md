@@ -7,7 +7,7 @@ tags: [homesteading, equipment, engineering, safety, community]
 sources: []
 ---
 
-# Homestead Communication
+## Homestead Communication
 
 Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, internet options for rural areas, satellite communication, and emergency communication planning.
 

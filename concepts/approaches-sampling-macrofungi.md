@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Approaches to Sampling Macrofungi
+## Approaches to Sampling Macrofungi
 
 Sampling macrofungi presents unique methodological challenges compared to sampling plants or animals. This concept page covers the major approaches, their strengths and limitations, and key considerations for designing robust fungal surveys.
 

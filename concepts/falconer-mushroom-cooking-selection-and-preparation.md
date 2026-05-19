@@ -4,11 +4,10 @@ created: 2026-04-28
 tags: mushroom-identification, kitchen-skills]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md"]
 type: concept
 ---
-# Selecting and Preparing Mushrooms for Cooking
+## Selecting and Preparing Mushrooms for Cooking
 
 Fresh mushrooms, well cooked and well served, are one of the most
 delicious of all vegetables. If we grow our own mushrooms we can gather

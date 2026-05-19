@@ -9,7 +9,7 @@ sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 ---
-# The Other and Sentient Presence
+## The Other and Sentient Presence
 
 Central to Simon G. Powell's thesis is the concept of the "Other," a
 transcendental sentient presence that is perceived during entheogenic

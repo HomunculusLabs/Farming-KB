@@ -9,7 +9,7 @@ tags: [psilocybin]
 updated: 2026-04-26
 ---
 
-# Psilocybin, Set, and Setting
+## Psilocybin, Set, and Setting
 
 The importance of [[leary-harvard-psilocybin-project]] Project placed "experimental emphasis upon providing
 a relaxed and supportive setting." He writes that "this important notion of [[leary-psychedelic-experience-bardo-mapping]]."

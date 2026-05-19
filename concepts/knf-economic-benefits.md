@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# KNF Economic Benefits
+## KNF Economic Benefits
 
 updated: 2026-04-18
 

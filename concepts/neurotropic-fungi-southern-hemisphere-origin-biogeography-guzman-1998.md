@@ -6,7 +6,7 @@ tags: [mycology, biogeography, psilocybe, neurotropic-fungi, evolution, southern
 created: 2026-05-10
 ---
 
-# Neurotropic Fungi: Southern Hemisphere Origin Hypothesis
+## Neurotropic Fungi: Southern Hemisphere Origin Hypothesis
 
 ## Overview
 

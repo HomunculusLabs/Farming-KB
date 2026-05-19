@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# Thai Cannabis Strain Description (Clarke)
+## Thai Cannabis Strain Description (Clarke)
 
 ## Geographic Origin
 

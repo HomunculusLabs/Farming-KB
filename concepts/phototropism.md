@@ -6,7 +6,7 @@ tags: [botany, plant-physiology, phototropism, darwin, plant-senses, auxin, phot
 created: 2026-05-09
 ---
 
-# Phototropism
+## Phototropism
 
 Phototropism is the directional growth response of a plant in which it bends
 or turns toward a source of light. It is one of the most fundamental and

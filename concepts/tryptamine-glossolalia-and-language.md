@@ -5,7 +5,7 @@ tags: [psychedelics, dmt, language, glossolalia, consciousness, tryptamines]
 created: 2026-05-08
 ---
 
-# Tryptamine Glossolalia and Language
+## Tryptamine Glossolalia and Language
 
 ## Overview
 

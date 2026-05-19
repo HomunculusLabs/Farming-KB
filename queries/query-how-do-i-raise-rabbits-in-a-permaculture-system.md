@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Raise Rabbits in a Permaculture System?
+## How Do I Raise Rabbits in a Permaculture System?
 
 ## Short Answer
 Rabbits are exceptionally well-suited to permaculture systems because they are quiet, space-efficient, and produce both high-quality meat and nutrient-dense manure that can be directly applied to gardens.

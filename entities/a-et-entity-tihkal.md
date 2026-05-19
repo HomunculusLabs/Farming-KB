@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# alpha-ET (Alpha-Ethyltryptamine)
+## alpha-ET (Alpha-Ethyltryptamine)
 
 TIHKAL entry #11. Alpha-ethyltryptamine, also known by the trade name Monase, is a synthetic tryptamine that was briefly marketed as an antidepressant in the 1960s before being withdrawn due to an unacceptable incidence of agranulocytosis. It produces euphoric, stimulant-like effects with mild psychedelic qualities at moderate doses. Anecdotally reported useful for opioid withdrawal management.
 

@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Plant Name Identification Problems
+## Plant Name Identification Problems
 
 The identification of ancient plant names poses formidable difficulties that have plagued botanists since antiquity.
 
@@ -16,7 +16,7 @@ The classical pharmacological tradition illustrates the scale of this problem vi
 
 This culture of concealment ensured that genuine botanical understanding remained fragmented and esoteric, passed only from master to apprentice within closed professional or cultic circles.
 
-# Sumerian Philological Advantage
+## Sumerian Philological Advantage
 
 Despite these obstacles, John Allegro argued that Sumerian philology offers a unique pathway through the maze of ancient plant names.
 
@@ -34,7 +34,7 @@ Yet Allegro contended that the original meaning remains recoverable through phil
 
 The paeony provides a compelling example. The Sumerian name *BAR_IA_U_NA can be parsed as "capsule of fecundity" or "womb," which Allegro argues identifies the original referent not as the flower we now call paeony, but rather as *[[allegro-cross-and-mushroom-symbolism]], not in any property of the succulent plant that now bears the name.
 
-# Vegetation Mythology
+## Vegetation Mythology
 
 Allegro identified numerous biblical narratives as disguised mushroom mythology, their original botanical significance obscured by centuries of transmission and translation.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Soma Haoma Hypothesis
+## Soma Haoma Hypothesis
 
 The Soma-Haoma hypothesis concerns the identification of the sacred plants Soma
 (of Vedic India) and Haoma (of Zoroastrian Persia) with [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom. Proposed most influentially by R. [[gordon-wasson]] in 1968,

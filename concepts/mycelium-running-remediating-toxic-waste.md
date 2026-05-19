@@ -7,7 +7,7 @@ type: concept
 tags: [mycelium, pollution, toxic]
 ---
 
-# Remediating Toxic Waste with Fungi
+## Remediating Toxic Waste with Fungi
 
 [[staycare-composting-as-a-fungal-bioremediation-strategy]].
 

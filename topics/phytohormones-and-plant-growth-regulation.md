@@ -25,7 +25,7 @@ sources:
   - Ruyter-Spira, C. et al. (2013). "Phytohormone Interactions in Root Development." Plant Molecular Biology, 82(6), 533-548.
 ---
 
-# Phytohormones and Plant Growth Regulation
+## Phytohormones and Plant Growth Regulation
 
 Phytohormones (plant hormones) are naturally occurring [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]], development, and responses to environmental stimuli at extremely low concentrations. Unlike animal hormones, which are typically produced in specialized glands, phytohormones can be synthesized in virtually any plant cell and often act locally or are transported to distant sites. Understanding phytohormone biology is fundamental to improving crop yields, managing plant stress, and developing sustainable growing practices.
 

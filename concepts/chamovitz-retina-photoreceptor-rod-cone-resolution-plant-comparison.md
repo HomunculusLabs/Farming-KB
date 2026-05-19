@@ -4,7 +4,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 tags: [photoreceptor, retina, rod, cone, rhodopsin, photopsin, plant-perception, Chamovitz, vision, botany]
 ---
 
-# Retinal Photoreceptors — Rods, Cones, and Resolution Compared to Plant Light Perception
+## Retinal Photoreceptors — Rods, Cones, and Resolution Compared to Plant Light Perception
 
 [[electromagnetic-spectrum-visible-light-plant-perception]]** — they do not discriminate by wavelength
 - **Enable night and low-light vision** — rods are the reason humans can see in dim conditions

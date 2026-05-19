@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Water-Soluble Calcium Phosphate (WCP)
+## Water-Soluble Calcium Phosphate (WCP)
 
 **Updated:** 2026-04-18
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# BEATRICE (N-Methyl-DOM)
+## BEATRICE (N-Methyl-DOM)
 
 **[[beatrice-entity-pihkal]]
 - [[dom]]

@@ -7,7 +7,7 @@ tags: [gardening]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Hamilton: Ornamental Trees — Selection, Planting, and Care
+## Hamilton: Ornamental Trees — Selection, Planting, and Care
 
 **Source:** Geoff Hamilton, *[[hamilton-organic-lawn-care]], they form the framework of the garden and can be planted as windbreaks. Most importantly for the organic gardener, they attract wildlife—birds use them for perching, nesting, and food (especially berrying and fruiting trees), and trees with deeply furrowed or flaking bark (such as birches, Betula sp.) provide homes for insects that in turn feed birds. Flowering trees attract pollinating insects, essential for fruit production.
 

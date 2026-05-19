@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wind Flagging Index and Temperature Effects of Trees
+## Wind Flagging Index and Temperature Effects of Trees
 
 ## The Griggs and Putnam Wind Index
 

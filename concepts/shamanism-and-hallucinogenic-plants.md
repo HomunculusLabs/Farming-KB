@@ -9,7 +9,7 @@ type: concept
 tags: [shamanism, hallucinogens, healing, divination, indigenous, psychedelics]
 ---
 
-# Shamanism and Hallucinogenic Plants
+## Shamanism and Hallucinogenic Plants
 
 ## Overview
 

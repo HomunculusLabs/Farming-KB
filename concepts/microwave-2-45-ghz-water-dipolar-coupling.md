@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Microwave 2.45 GHz Water Dipolar Coupling Mechanism
+## Microwave 2.45 GHz Water Dipolar Coupling Mechanism
 
 The effectiveness of [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] concept.
 

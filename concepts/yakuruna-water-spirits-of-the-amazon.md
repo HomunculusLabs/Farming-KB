@@ -7,7 +7,7 @@ tags: [water, conservation]
 sources: []
 ---
 
-# Yakuruna: Water Spirits of the Amazon
+## Yakuruna: Water Spirits of the Amazon
 
 The yakuruna are aquatic [[amaringo-ayahuasca-visions-shipibo-iconography]] as humanoid figures, sometimes with green hair, who rest in serpent-hammocks among groves of golden trees. They are allies of the [[muraya]] (high-degree shamans) and serve as teachers, guides, and protectors.
 

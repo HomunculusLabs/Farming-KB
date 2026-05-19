@@ -10,7 +10,7 @@ tags: [fukuoka, natural-farming, vegetables, semi-wild, no-till, direct-seeding,
 aliases: [semi-wild vegetables, fukuoka-vegetable-disease-insect-resistance method]
 ---
 
-# Semi-Wild Vegetable Growing
+## Semi-Wild Vegetable Growing
 
 ## Overview
 

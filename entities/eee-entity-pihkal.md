@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# EEE
+## EEE
 
 PIHKAL entry #73. 2,4,5-TRIETHOXYAMPHETAMINE.
 

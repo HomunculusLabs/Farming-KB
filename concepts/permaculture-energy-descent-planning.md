@@ -14,7 +14,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Energy Descent Planning
+## Permaculture Energy Descent Planning
 
 Energy descent planning is David Holmgren's framework for preparing for a future of declining fossil fuel availability and the resulting economic and social transitions. Developed in "Permaculture: Principles and Pathways Beyond Sustainability," it represents a fundamental rethinking of how societies should plan for the post-carbon era.
 

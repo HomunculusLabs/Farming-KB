@@ -8,7 +8,7 @@ sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
 
-# Invisible Structures
+## Invisible Structures
 
 Invisible structures are the non-physical forces that shape our world and govern our lives. While physical structures like landforms, trees, water flows, buildings, and streets are visible and tangible, invisible structures operate behind the scenes, manifesting themselves through the physical world. Understanding and designing invisible structures is essential to effective permaculture design.
 

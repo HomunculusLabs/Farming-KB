@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizal Phosphorus Uptake and Biogeochemical Cycling
+## Arbuscular Mycorrhizal Phosphorus Uptake and Biogeochemical Cycling
 
 ## Overview
 

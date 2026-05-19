@@ -1,4 +1,8 @@
-# Hydroponic Nutrient Management
+---
+title: "Hydroponic Nutrient Management"
+tags:
+  - concept
+---
 
 Hydroponic nutrient management is the practice of formulating, delivering, and
 monitoring mineral nutrient solutions to plants grown without soil. In hydroponic
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-aquaponics-vs-cannabis-hydroponic-systems]]
 - [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]]
 - [[comparison-living-soil-vs-hydroponic]]
-- [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]

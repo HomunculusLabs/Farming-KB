@@ -1,4 +1,8 @@
-# Cannabis Forms, Preparations, and Resin Products
+---
+title: "Cannabis Forms, Preparations, and Resin Products"
+tags:
+  - concept
+---
 
 ## Source
 - **Book:** The [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases

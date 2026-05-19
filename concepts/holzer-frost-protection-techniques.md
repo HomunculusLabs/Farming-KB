@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Holzer Frost Protection Techniques
+## Holzer Frost Protection Techniques
 
 The creation of various microclimates is a core principle in Holzer's
 Permaculture. It gives plants a chance to grow and thrive in areas where

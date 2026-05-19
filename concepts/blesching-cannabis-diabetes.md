@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[cervantes-hash-cannabis-oil-production]] has been used historically in the treatment of diabetes,
+## [[cervantes-hash-cannabis-oil-production]] has been used historically in the treatment of diabetes,
 and many diabetic patients claim that cannabis lowers high blood sugar levels
 and stabilizes mood changes, no human studies have been conducted to examine
 the general effects of cannabinoids on diabetic patients. However, the known

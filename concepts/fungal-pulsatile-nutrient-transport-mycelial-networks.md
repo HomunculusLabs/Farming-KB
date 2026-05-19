@@ -1,11 +1,11 @@
 ---
 title: Fungal Pulsatile Nutrient Transport Mycelial Networks
 source: Fungi in the Environment (Gadd, Watkinson & Dyer, 2007)
-source_path: /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+source_path: raw/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 tags: [fungi, mycelium, nutrient-transport, pulsatile-flow, scintillation-imaging, foraging, cord-networks, basidiomycete, phanerochaete-velutina]
 ---
 
-# Pulsatile Nutrient Transport in Fungal Mycelial Networks
+## Pulsatile Nutrient Transport in Fungal Mycelial Networks
 
 ## Overview
 

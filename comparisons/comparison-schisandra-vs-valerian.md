@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation|Schisandra]] vs Valerian
+## [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation|Schisandra]] vs Valerian
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, plant-pathogen, cercosporin, photosensitizer, secondary-metabolites]
 ---
 
-# Cercospora
+## Cercospora
 
 ## Description
 

@@ -5,7 +5,7 @@ author: Osamu Shirota, Wataru Hakamata, Yukihiro Goda
 topics: [synthesis, psilocin, psilocybin, chemistry, protection-strategy, forensic-analysis]
 ---
 
-# Acetyl Protection Versus Benzyl Ether in Psilocin Synthesis: Stability, Crystallization, and the Forensic Standard Compound Problem
+## Acetyl Protection Versus Benzyl Ether in Psilocin Synthesis: Stability, Crystallization, and the Forensic Standard Compound Problem
 
 ## The Starting Material: 4-Hydroxyindole
 

@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Microbial Terpene Enhancement
+## Cannabis Microbial Terpene Enhancement
 
 The enhancement of terpene production in cannabis through microbial interventions represents an emerging area of cultivation science that connects soil microbiology, plant biochemistry, and [[antifungal-secondary-metabolites-coprophilous-fungi]] and are responsible for the distinctive aromas of different cannabis cultivars. In cannabis, terpenes are synthesized primarily in glandular trichomes through two pathways: the mevalonate pathway (MVA), which operates in the cytosol, and the methylerythritol phosphate pathway (MEP), which operates in the plastids.
 

@@ -16,7 +16,7 @@ sources:
   - Hanbury, C.D. et al. (2000). "A review of Lathyrus sativus." Experimental Agriculture.
 ---
 
-# Lathyrus sativus
+## Lathyrus sativus
 
 ## Overview
 

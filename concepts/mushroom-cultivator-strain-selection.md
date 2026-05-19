@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Strain Selection and Development in The Mushroom Cultivator
+## Strain Selection and Development in The Mushroom Cultivator
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter II
 Updated: 2026-04-18

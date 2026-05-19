@@ -8,7 +8,7 @@ type: concept
 tags: [gasteromycetes, puffball, earthstar, birds-nest-fungus, sphaerobolus, spore-dispersal, basidiomycota]
 ---
 
-# Gasteromycete Fungi — Puffballs, Earthstars, and Bird's Nest Fungi
+## Gasteromycete Fungi — Puffballs, Earthstars, and Bird's Nest Fungi
 
 The gasteromycetes are a section of the [[stinkhorn-fungi-and-insect-spore-dispersal]], the gasteromycetes
 represent the pinnacle of fungal reproductive engineering.

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Fungal Spore Discharge and Dispersal
+## Fungal Spore Discharge and Dispersal
 
 ## Overview
 

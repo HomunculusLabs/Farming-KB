@@ -7,7 +7,7 @@ tags: [cannabis, pharmacology, cb1-receptor, cb2-receptor, gpcr, endocannabinoid
 wikilinks: [endocannabinoid-system-overview, thc-cbd-therapeutic-profiles, cannabis-sativa-indica-classification]
 ---
 
-# Cannabinoid Receptor Pharmacology
+## Cannabinoid Receptor Pharmacology
 
 [[blesching-cannabis-synthetic-cannabinoids]] produces a remarkably wide range of physiological and [[blesching-cannabis-spinal-cord-injuries]] dorsal horn.
 - **Brain regions and associated functions**:

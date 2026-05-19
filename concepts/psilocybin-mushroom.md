@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, psychedelics, pharmacology, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+sources: ["raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md"]
 type: concept
 ---
 
-# Psilocybin Mushroom
+## Psilocybin Mushroom
 
 [[psilocybin-pharmacology]] for detailed receptor pharmacology.
 

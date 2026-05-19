@@ -4,7 +4,7 @@ source: Gardening When It Counts (steve-solomon, 2005)
 tags: [garden-preparation, autumn-digging, sod-removal, soil-preparation, solomon, rototiller, hand-digging, raised-beds]
 ---
 
-# Autumn Digging and New Garden Bed Preparation
+## Autumn Digging and New Garden Bed Preparation
 
 ## Overview
 

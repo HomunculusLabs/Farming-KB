@@ -11,7 +11,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Common Themes in South American Yage Experiences
+## Common Themes in South American Yage Experiences
 
 Michael J. Harner's cross-cultural survey of South [[amaringo-ayahuasca-visions-shipibo-iconography]].
 - **Spiritual adversaries**: The Jivaro and other Amazonian groups report encounters with hostile supernatural beings during yage experiences, including sorcerers (bewitchers) who send harmful darts or projectiles. The shaman's ability to perceive and counteract these attacks during visionary states is central to their role as protector of the community.

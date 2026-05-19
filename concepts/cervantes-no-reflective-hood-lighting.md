@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# No Reflective Hood Lighting (Bare Bulb)
+## No Reflective Hood Lighting (Bare Bulb)
 
 One option for [[jorge-cervantes]] explores in Chapter 9
 of *Marijuana Horticulture*.

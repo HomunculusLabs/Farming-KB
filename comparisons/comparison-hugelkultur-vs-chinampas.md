@@ -14,7 +14,7 @@ sources:
 type: comparison
 ---
 
-# Hugelkultur vs Chinampas
+## Hugelkultur vs Chinampas
 
 ## Overview
 

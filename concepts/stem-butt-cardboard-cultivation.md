@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-# Stem Butt and Cardboard Cultivation
+## Stem Butt and Cardboard Cultivation
 
 Low-tech methods for expanding mycelium without laboratory equipment. From [[paul-stamets]]' *Mycelium Running* (2005). See also [[inoculation-methods]] and [[mycelium-running-techniques]].
 

@@ -9,7 +9,7 @@ type: concept
 tags: [cultivation, mushroom-cultivation, oyster-mushroom]
 ---
 
-# Oyster Mushroom Pasteurized Straw Cultivation
+## Oyster Mushroom Pasteurized Straw Cultivation
 
 Pasteurized straw cultivation is the most accessible and widely practiced [[cultivation-of-oyster-mushrooms]] worldwide. It requires minimal equipment, uses inexpensive and abundant [[oyster-mushroom-supplemented-sawdust-blocks]] substrates, straw does not require full sterilization. Pasteurization (heating to 160 degrees F / 71 degrees C) selectively kills temperature-sensitive competitor microorganisms while leaving a population of beneficial organisms that provide some biological protection for the [[biological-efficiency]] with P. sajor-caju.
 

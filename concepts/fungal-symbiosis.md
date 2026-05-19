@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Symbiosis
+## Fungal Symbiosis
 
 Symbiosis — literally "living together" — is the norm rather than the
 exception in the fungal kingdom. Fungi form intimate, often essential

@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Partnership Society vs Dominator Culture
+## Partnership Society vs Dominator Culture
 
 The partnership/dominator dichotomy is the central analytical framework of *Food of the Gods*. Drawing on and extending Riane Eisler's *The Chalice and the Blade* (1987), McKenna argues that human history is defined by the conflict between two fundamentally different models of social organization — one based on partnership, egalitarianism, and reverence for nature (linked to Goddess worship and mushroom ecstasy), and the other based on domination, hierarchy, and the suppression of both nature and the feminine (linked to male sky-god religion and intoxicating drugs like alcohol).
 

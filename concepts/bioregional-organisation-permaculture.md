@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bioregional Organisation in Permaculture
+## Bioregional Organisation in Permaculture
 
 [[bioregional-organisation]] is a foundational [[new-united-nations-permaculture-social-strategy]] in [[permaculture-design]] that structures communities around natural ecological boundaries rather than political or administrative borders. A bioregional association is defined as an association of the residents of a natural and identifiable region.
 

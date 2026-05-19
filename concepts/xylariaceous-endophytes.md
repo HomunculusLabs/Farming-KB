@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Xylariaceous Endophytes
+## Xylariaceous Endophytes
 
 The Xylariaceae (order Xylariales, class Sordariomycetes) represent one of the most important families of [[antifungal-secondary-metabolites-coprophilous-fungi]] with diverse biological activities:
 - Antimicrobial compounds that may suppress competing microorganisms

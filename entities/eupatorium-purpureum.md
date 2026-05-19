@@ -17,7 +17,7 @@ sources:
   - Cullina, W. (2000). The New England Wild Flower Society Guide to Growing and Propagating Wildflowers. Houghton Mifflin.
 ---
 
-# Eupatorium purpureum
+## Eupatorium purpureum
 
 ## Overview
 

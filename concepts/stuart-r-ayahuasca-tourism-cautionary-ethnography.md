@@ -7,7 +7,7 @@ tags: [ayahuasca, ethnography, peru, tourism, shamanism]
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Ayahuasca Tourism in Peru — Stuart R. Cautionary Ethnography
+## Ayahuasca Tourism in Peru — Stuart R. Cautionary Ethnography
 
 R. Stuart's 2002 article "Ayahuasca Tourism: A Cautionary Tale," published in MAPS (volume XII, number 2), is a firsthand ethnographic account of ayahuasca tourism in the Ucayali region of Peru. Written from the perspective of a researcher visiting during a cactus identification project supported by a grant from Bob Wallace to MAPS, the article provides a grounded, skeptical view of the commercialization of indigenous spiritual practice and offers practical advice for prospective ayahuasca tourists.
 

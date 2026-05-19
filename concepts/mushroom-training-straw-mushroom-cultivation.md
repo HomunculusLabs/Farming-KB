@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# volvariella-volvacea-cultivation-guide), known as "Hed Fang" in Thailand, are among the
+## volvariella-volvacea-cultivation-guide), known as "Hed Fang" in Thailand, are among the
 fastest-growing [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and rainy |
 | [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] (Taiwan) | Hed Fang Taiwan | 28 to 38 C | Summer and rainy |
 | mushroom-spawn

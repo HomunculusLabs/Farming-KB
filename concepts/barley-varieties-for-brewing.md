@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Barley Varieties for Brewing
+## Barley Varieties for Brewing
 
 Barley ([[mushroom-cultivator-grain-selection-moisture]] and helps growers [[growing-gourmet-north-american-reishi-species]] climate and has higher enzyme content.
 

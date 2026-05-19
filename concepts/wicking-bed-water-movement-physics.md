@@ -1,4 +1,8 @@
-# Wicking Bed Water Movement Physics
+---
+title: "Wicking Bed Water Movement Physics"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[comparison-wicking-bed-vs-container-gardening]]
-- [[comparison-wicking-bed-vs-raised-bed]]
-- [[query-how-do-i-build-a-wicking-bed-for-my-garden]]
-- [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
-- [[wicking-bed-crop-selection-seasonal-management]]

@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Establishing a Healthy Soil Foodweb
+## Establishing a Healthy Soil Foodweb
 
 A healthy soil foodweb is the foundation of sustainable growing. By restoring the full community of bacteria, fungi, protozoa, nematodes, microarthropods, and earthworms, growers can shift away from chemical inputs and let biology do the work of nutrient cycling, disease suppression, and soil structure building. This page covers the benefits of a living soil system, the step-by-step process for assessing and balancing soil biology, and practical methods for inoculating and maintaining a thriving foodweb.
 

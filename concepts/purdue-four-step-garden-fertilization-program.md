@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Purdue Four-Step Garden Fertilization Program
+## Purdue Four-Step Garden Fertilization Program
 
 A systematic approach to [[savory-growing-season-and-non-growing-season-management]].
 

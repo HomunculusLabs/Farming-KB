@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# KNF Fish Farming Integration
+## KNF Fish Farming Integration
 
 updated: 2026-04-18
 

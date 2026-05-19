@@ -7,7 +7,7 @@ tags: [regenerative, permaculture, companion-planting, plant-systems, gardening,
 sources: []
 ---
 
-# Companion Planting Reference
+## Companion Planting Reference
 
 Companion planting leverages synergistic relationships between plants to improve growth, repel pests, attract [[beneficial-insects-and-biological-pest-control]], and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
 

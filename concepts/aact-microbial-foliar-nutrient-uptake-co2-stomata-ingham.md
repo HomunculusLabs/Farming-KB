@@ -5,7 +5,7 @@ source_path: "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerat
 topics: [aact, foliar-spray, stomata, nutrient-uptake, co2, leaf-surface-microbiology, foliar-feeding, plant-physiology]
 ---
 
-# Microbial Foliar Nutrient Uptake Enhancement via Compost Tea
+## Microbial Foliar Nutrient Uptake Enhancement via Compost Tea
 
 ## Overview
 

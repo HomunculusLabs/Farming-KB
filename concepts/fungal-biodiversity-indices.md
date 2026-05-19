@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungal Biodiversity Indices
+## Fungal Biodiversity Indices
 
 Quantifying fungal biodiversity requires robust indices that capture different dimensions of community structure. This page covers the major richness, diversity, and evenness indices used in fungal ecology, their mathematical foundations, and practical considerations for their application.
 

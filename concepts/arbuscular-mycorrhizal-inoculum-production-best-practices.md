@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Arbuscular Mycorrhizal Inoculum Production Best Practices
+## Arbuscular Mycorrhizal Inoculum Production Best Practices
 
 The production of high-quality [[mycorrhizal-carbon-allocation]] to the fungus. Following this alarm phase, the plant may overcompensate, resulting in net growth benefit. In inoculum production, conditions are deliberately managed to force host plants to allocate maximum carbohydrate to the fungus while balancing the symbiosis through nutrient and irrigation management to favor [[vermicomposting]]|compost. The carrier should be free of oomycetes, weed seeds, and fertilizers. The AMF inoculum typically represents a maximum of 0.5% of the final pot volume, making carrier compatibility with standard horticultural practices essential.
 

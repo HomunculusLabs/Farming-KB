@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Microclimate Effects on Mite and Scale Populations in Orchards
+## Microclimate Effects on Mite and Scale Populations in Orchards
 
 ## Overview
 

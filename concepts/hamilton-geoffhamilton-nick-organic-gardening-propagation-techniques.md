@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# Propagation Techniques
+## Propagation Techniques
 
 The modern trend is toward "convenience gardening," and a whole industry
 has developed to service this market. Instead of raising plants from seed

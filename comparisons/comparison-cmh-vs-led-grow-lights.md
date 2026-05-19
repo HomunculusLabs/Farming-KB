@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# CMH vs LED Grow Lights
+## CMH vs LED Grow Lights
 ## Overview
 Ceramic Metal Halide and LED are two leading grow light technologies
 for indoor [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], and total cost of ownership. CMH

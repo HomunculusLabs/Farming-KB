@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Siderophore Production for Iron Acquisition in [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi** produce ferricrocin or fusigen as their main
+## Siderophore Production for Iron Acquisition in [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi** produce ferricrocin or fusigen as their main
 siderophores. These ascomycetes associate with plants in the Ericaceae family
 growing in acidic, nutrient-poor soils where iron chemistry is particularly
 challenging.

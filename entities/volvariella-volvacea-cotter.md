@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Volvariella volvacea (Paddy Straw Mushroom)
+## Volvariella volvacea (Paddy Straw Mushroom)
 
 ## Description
 

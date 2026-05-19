@@ -18,7 +18,7 @@ related_concepts:
   - plant-sensory-biology-and-intelligence
 ---
 
-# Endophytic Fungi: The Hidden Symbionts Living Within Plant Tissues
+## Endophytic Fungi: The Hidden Symbionts Living Within Plant Tissues
 
 Every leaf in every forest, every blade of grass in every meadow, and every root
 in every agricultural field harbors an invisible world of fungal inhabitants.

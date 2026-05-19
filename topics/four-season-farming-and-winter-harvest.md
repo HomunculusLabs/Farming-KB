@@ -51,7 +51,7 @@ related_concepts:
   - coleman-compost-and-organic-fertility-management
 ---
 
-# Four-Season Farming and Winter Harvest
+## Four-Season Farming and Winter Harvest
 
 Four-season farming, as developed by Eliot Coleman at Four Season Farm in
 Harborside, Maine (44.33 degrees N), is a comprehensive system for

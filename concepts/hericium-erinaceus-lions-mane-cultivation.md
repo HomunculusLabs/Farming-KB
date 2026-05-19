@@ -8,7 +8,7 @@ sources:
 type: concept
 created: 2026-04-28
 ---
-# [[inoculation-methods]] common to many [[growing-gourmet-sawdust-spawn-production-use]] or plug spawn. This species is notable
+## [[inoculation-methods]] common to many [[growing-gourmet-sawdust-spawn-production-use]] or plug spawn. This species is notable
 for being one of the few mushrooms that produces well on walnut logs, making
 it an excellent choice for growers with access to walnut wood. Other suitable
 hardwood species include oaks, beech, elm, and various other hardwoods.

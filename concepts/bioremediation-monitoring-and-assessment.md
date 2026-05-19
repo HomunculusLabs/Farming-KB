@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
-# Bioremediation Monitoring and Assessment
+## Bioremediation Monitoring and Assessment
 
 Effective bioremediation requires systematic monitoring to verify that contaminant degradation is occurring at acceptable rates and to determine when cleanup objectives have been achieved. Monitoring programs must track chemical, biological, and physical parameters that collectively demonstrate the progress and effectiveness of biological treatment. A well-designed monitoring plan is essential for regulatory compliance, process optimization, and quality assurance.
 

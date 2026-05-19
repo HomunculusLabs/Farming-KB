@@ -14,7 +14,7 @@ sources:
 type: comparison
 ---
 
-# Wild Fermentation vs. Commercial Starter Culture Fermentation
+## Wild Fermentation vs. Commercial Starter Culture Fermentation
 
 ## Overview
 

@@ -15,7 +15,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Sphaerotheca fuliginea
+## Sphaerotheca fuliginea
 
 Sphaerotheca fuliginea is a major [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] by mycoparasitic fungi, providing fundamental insights into fungal-fungal interactions and the development of biocontrol strategies for plant diseases.
 

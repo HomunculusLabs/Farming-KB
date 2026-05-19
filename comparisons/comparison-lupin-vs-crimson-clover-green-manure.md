@@ -24,7 +24,7 @@ created: 2026-04-28
 type: comparison
 ---
 
-# Lupin vs Crimson Clover as Green Manure
+## Lupin vs Crimson Clover as Green Manure
 
 Both [[comparison-dynamic-accumulators-vs-cover-crops]] for further detail on
 nutrient-scavenging roles in [[permplant-willows-salix-erosion-control-fodder]] on sloping ground and

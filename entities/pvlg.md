@@ -5,7 +5,7 @@ type: entity
 tags: [reagent, microscopy, mycology, mountant]
 ---
 
-# PVLG (Polyvinyl Alcohol–Lactic Acid–Glycerol)
+## PVLG (Polyvinyl Alcohol–Lactic Acid–Glycerol)
 
 ## Description
 

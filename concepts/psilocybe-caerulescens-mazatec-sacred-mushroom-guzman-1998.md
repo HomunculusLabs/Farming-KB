@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybe, neurotropic-fungi, mazatec, sacred-mushroom, mexico, derrumbes, ethnobotany]
 ---
 
-# Psilocybe caerulescens
+## Psilocybe caerulescens
 
 ## Overview
 

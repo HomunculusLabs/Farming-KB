@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I graft fruit trees in a home orchard?
+## How do I graft fruit trees in a home orchard?
 
 ## Short Answer
 

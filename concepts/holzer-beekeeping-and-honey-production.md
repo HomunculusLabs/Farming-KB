@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Beekeeping and Honey Production
+## Holzer Beekeeping and Honey Production
 
 [[holzer-grafting-fruit-forest]]), vegetables, herbs, and wild plants
 - Indicator of environmental health -- bee colonies reflect the overall [[holzer-urban-farming]], herbs, and [[sepp-holzer-terrace-systems-and-raised-beds]] structures

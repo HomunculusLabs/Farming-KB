@@ -1,4 +1,8 @@
-# Conocybe siligineoides Lost Sacred Mushroom of Oaxaca Never Recollected
+---
+title: "Conocybe siligineoides Lost Sacred Mushroom of Oaxaca Never Recollected"
+tags:
+  - concept
+---
 
 ## Source
 *Guzmán, Allen & Gartz (2000) — A Worldwide [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]*

@@ -1,4 +1,8 @@
-# European Legal Responses and Smartshop Regulation of Hallucinogenic Mushrooms
+---
+title: "European Legal Responses and Smartshop Regulation of Hallucinogenic Mushrooms"
+tags:
+  - concept
+---
 
 The legal status of hallucinogenic mushrooms in Europe has been one of the most contentious and evolving aspects of drug policy in the 21st century. A unique feature of mushroom legislation is the confusion created by the fact that [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species grow naturally in the wild across Europe.
 

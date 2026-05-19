@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Vomiting and Nausea (CINV)
+## Cannabis for Vomiting and Nausea (CINV)
 
 updated: 2026-04-18
 

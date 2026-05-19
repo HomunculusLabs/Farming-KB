@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Allegro's Main Thesis: Christianity and Amanita muscaria
+## Allegro's Main Thesis: Christianity and Amanita muscaria
 
 John Marco Allegro (1923-1988) was a British philologist and one of the original
 one of the original international team entrusted with editing and publishing the [[allegro-sumerian-akkadian-vocabulary]], the oldest written language known,

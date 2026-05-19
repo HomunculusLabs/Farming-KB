@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Water Softener (JWS)
+## JADAM Water Softener (JWS)
 
 Hard water containing calcium (Ca), magnesium (Mg), and iron (Fe) is the single biggest enemy of [[jadam-natural-pesticide-jnp]] -- the complete pesticide system that depends on soft water
 - jadam [[jadam-pesticide-research-cup-method]]

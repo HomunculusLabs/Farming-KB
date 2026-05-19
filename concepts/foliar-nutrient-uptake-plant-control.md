@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Foliar Nutrient Uptake and Plant Control
+## Foliar Nutrient Uptake and Plant Control
 
 ## Overview
 

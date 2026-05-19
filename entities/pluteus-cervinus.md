@@ -5,9 +5,9 @@ type: species
 tags: [mycology, identification, gourmet-mushrooms, pluteus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Pluteus cervinus Pluteus cervinus, commonly known as the Deer Mushroom or Fawn Pluteus, is a widespread saprotrophic mushroom found on decaying wood throughout temperate regions of the world. While not widely sought as a culinary species, it is a good edible and is particularly notable for its ecological role as a primary wood decomposer and as a species that appears on wood chips in landscaped areas. See [[psilocybin-north-america-pacific-northwest]], Europe, Asia, and Australia. One of the most common wood-inhabiting mushrooms worldwide.
+## Pluteus cervinus Pluteus cervinus, commonly known as the Deer Mushroom or Fawn Pluteus, is a widespread saprotrophic mushroom found on decaying wood throughout temperate regions of the world. While not widely sought as a culinary species, it is a good edible and is particularly notable for its ecological role as a primary wood decomposer and as a species that appears on wood chips in landscaped areas. See [[psilocybin-north-america-pacific-northwest]], Europe, Asia, and Australia. One of the most common wood-inhabiting mushrooms worldwide.
 - **Habitat:** Exclusively saprotrophic on wood. Found on stumps, fallen logs, branches, and wood chips of both hardwoods and conifers. Commonly appears in landscaped areas with wood chip mulch, similar to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:
 
 - Breaks down cellulose and lignin in dead wood

@@ -5,7 +5,7 @@ source_id: bloomfield-orchard
 topics: [fungal-pathogenesis, mycetoma, madurella, tropical-medicine, subcutaneous-mycoses, medical-mycology]
 ---
 
-# Mycetoma and Madurella - The Fungal Disease of the Foot
+## Mycetoma and Madurella - The Fungal Disease of the Foot
 
 ## Introduction to Mycetoma
 

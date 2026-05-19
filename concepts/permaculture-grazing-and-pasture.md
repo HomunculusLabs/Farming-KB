@@ -7,7 +7,7 @@ tags: [permaculture, forage, pasture, livestock, animal-husbandry, plant-systems
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Grazing and Pasture
+## Permaculture Grazing and Pasture
 
 Mollison approaches grazing and pasture as components of integrated farm systems rather than standalone enterprises. The emphasis is on diverse forage systems, rotational management, and the integration of trees with pasture to create resilient, productive landscapes.
 

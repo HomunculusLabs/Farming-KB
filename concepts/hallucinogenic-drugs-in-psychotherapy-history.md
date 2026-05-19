@@ -9,7 +9,7 @@ sources:
   - raw/papers/hofmann-a-lsd-my-problem-child.md
 ---
 
-# Hallucinogenic Drugs in Psychotherapy History
+## Hallucinogenic Drugs in Psychotherapy History
 
 ## Overview
 

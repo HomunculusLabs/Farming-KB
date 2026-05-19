@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, plant-growth]
 ---
 
-# [[clay-seed-pellet-composition-and-aerial-seeding-method]] from aircraft.*
+## [[clay-seed-pellet-composition-and-aerial-seeding-method]] from aircraft.*
 
 ## Origins and Evolution
 

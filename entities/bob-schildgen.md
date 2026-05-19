@@ -5,7 +5,7 @@ type: entity
 tags: [person, writer, lawn-critique, environmentalism]
 ---
 
-# Bob Schildgen
+## Bob Schildgen
 
 ## Description
 

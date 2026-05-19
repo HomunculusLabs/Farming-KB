@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Electricity and Plant Life: Historical Discoveries
+## Electricity and Plant Life: Historical Discoveries
 
 ## Overview
 

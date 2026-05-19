@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Endorhiza Microbiome Structure
+## Cannabis Endorhiza Microbiome Structure
 
 ## Overview
 

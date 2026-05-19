@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [mycology, psilocin, biosynthesis, flush, accumulation, delay, psilocybe-cubensis, bigwood-beug, dephosphorylation]
 ---
 
-# Psilocin Biosynthetic Delay and Accumulation Across Successive Flushes
+## Psilocin Biosynthetic Delay and Accumulation Across Successive Flushes
 
 ## Overview
 

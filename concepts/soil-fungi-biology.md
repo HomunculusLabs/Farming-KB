@@ -5,7 +5,7 @@ type: concept
 tags: [fungi, soil-biology, decomposition, mycelium, hyphae, microbial-ecology]
 ---
 
-# Soil Fungi Biology
+## Soil Fungi Biology
 
 Fungi are a cornerstone of [[the-soil-food-web]], serving as primary decay agents capable of decomposing the toughest organic materials. With an estimated 100,000 known species and potentially a million more undiscovered, fungi occupy their own kingdom (Eukarya) and play roles that bacteria cannot replicate.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Patterns in Society and Applied Pattern [[patterns-of-society-and-social-stratification|stratification]] — though the apex (Level 4) partially
+## Patterns in Society and Applied Pattern [[patterns-of-society-and-social-stratification|stratification]] — though the apex (Level 4) partially
 resists this through lateral marriage.
 
 ---

@@ -9,7 +9,7 @@ related:
 created: 2026-05-09
 ---
 
-# DMT Onset Phenomenology and the Merry Go Raum
+## DMT Onset Phenomenology and the Merry Go Raum
 
 ## Overview
 

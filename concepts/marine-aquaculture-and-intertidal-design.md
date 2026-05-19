@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Marine Aquaculture and Intertidal Design
+## Marine Aquaculture and Intertidal Design
 
 Marine aquaculture and intertidal zone management represent some of the most productive yet underutilized design opportunities in permaculture. The intertidal zone—the area between high and low tide—offers extraordinary potential for food production, material harvesting, and ecosystem engineering when approached with careful observation and design.
 

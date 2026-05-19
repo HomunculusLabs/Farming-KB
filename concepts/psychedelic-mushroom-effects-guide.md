@@ -7,7 +7,7 @@ tags: [mycology, psychopharmacology, psychedelics, consciousness, psychology, en
 sources: []
 ---
 
-# Psychedelic Mushroom Effects Guide
+## Psychedelic Mushroom Effects Guide
 
 ## Overview
 

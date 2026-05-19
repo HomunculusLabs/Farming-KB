@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Sewage Treatment Systems
+## Biological Sewage Treatment Systems
 
 Biological sewage treatment uses living organisms — bacteria, algae, aquatic plants,
 and constructed wetlands — to purify wastewater. Unlike chemical treatment, these

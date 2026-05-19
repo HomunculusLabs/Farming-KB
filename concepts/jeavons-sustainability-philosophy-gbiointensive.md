@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Sustainability Philosophy of GROW BIOINTENSIVE
+## Sustainability Philosophy of GROW BIOINTENSIVE
 
 Sustainability means living so there are enough resources to live
 well in an alive, diverse, thriving environment—indefinitely. The

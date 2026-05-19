@@ -3,7 +3,7 @@ title: Psilocybe Genus Biogeography Tropical Temperate
 source: Guzmán, Allen & Gartz "Worldwide Geographical Distribution of the Neurotropic Fungi" (1998)
 ---
 
-# Psilocybe Genus Biogeography: Tropical and Temperate Distribution
+## Psilocybe Genus Biogeography: Tropical and Temperate Distribution
 
 ## Overview
 

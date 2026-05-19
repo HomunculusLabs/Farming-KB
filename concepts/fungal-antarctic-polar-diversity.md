@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Antarctic and Polar Ecosystems Polar ecosystems, particularly Antarctica, represent extreme environments for fungal life characterized by low temperatures, freeze-thaw cycles, limited liquid water availability, and extended periods of darkness. Despite these challenges, diverse fungal communities persist. [[fungal-diversity-boreal-forests-taiga]] [[psychrophilic-fungi]] [[rock-penetrating-fungi]] [[lichenized-fungi-bioindicators]]
+## Fungal Diversity in Antarctic and Polar Ecosystems Polar ecosystems, particularly Antarctica, represent extreme environments for fungal life characterized by low temperatures, freeze-thaw cycles, limited liquid water availability, and extended periods of darkness. Despite these challenges, diverse fungal communities persist. [[fungal-diversity-boreal-forests-taiga]] [[psychrophilic-fungi]] [[rock-penetrating-fungi]] [[lichenized-fungi-bioindicators]]
 
 ## Comparison of Arctic and Antarctic
 

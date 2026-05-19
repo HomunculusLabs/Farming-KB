@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Mycological Research Institutions
+## Mycological Research Institutions
 
 The study of fungal biodiversity is conducted by a globally distributed network of research institutions, universities, government agencies, and herbaria. The breadth of institutions involved in mycological research reflects the ecological and economic importance of fungi across virtually every discipline of biology.
 

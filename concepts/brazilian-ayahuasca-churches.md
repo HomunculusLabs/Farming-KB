@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Brazilian Ayahuasca Churches
+## Brazilian Ayahuasca Churches
 
 Ralph Metzner identified three organized religious churches in Brazil that use
 [[entheogenic-ceremony]] visions. The ceremonies

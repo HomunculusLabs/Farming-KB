@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Linguistic Evidence for Mushroom Encoded in Biblical Texts
+## Linguistic Evidence for Mushroom Encoded in Biblical Texts
 
 The heart of Allegro's argument in *The [[amanita-muscaria-cultural-history]]: the fir
 (denizen of conifer forests), the carob (a "pod" name shared with the

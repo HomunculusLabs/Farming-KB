@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MDBU (N-Butyl-MDA; 3,4-Methylenedioxy-N-butylamphetamine)
+## MDBU (N-Butyl-MDA; 3,4-Methylenedioxy-N-butylamphetamine)
 
 MDBU is a substituted amphetamine compound and the N-butyl derivative of [[phenethylamine-chain-length-effects]] on the MDA scaffold.
 

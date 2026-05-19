@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizal Fungi and Plant Symbiosis
+## Arbuscular Mycorrhizal Fungi and Plant Symbiosis
 
 Arbuscular mycorrhizal (AM) fungi form the most widespread type of [[mycorrhizal-symbiosis]] on Earth, involving a mutualistic relationship between fungi in the order Glomales (phylum Zygomycota) and the roots of the vast majority of terrestrial plants. This association has existed for approximately 400 million years (Simon et al. 1993; Taylor et al. 1995) and plays fundamental roles in plant nutrition, ecosystem dynamics, and the maintenance of plant community diversity.
 

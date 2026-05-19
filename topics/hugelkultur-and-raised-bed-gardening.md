@@ -29,7 +29,7 @@ related_concepts:
   - cervantes-raised-beds-mound-planting
 ---
 
-# Hugelkultur and Raised Bed Gardening
+## Hugelkultur and Raised Bed Gardening
 
 Hugelkultur, German for "mound culture," is a deceptively simple technique
 that has transformed the way thousands of permaculture practitioners and home

@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 ---
 
-# Psilocybin Dosage Reference from PF TEK Literature
+## Psilocybin Dosage Reference from PF TEK Literature
 
 ## Overview
 

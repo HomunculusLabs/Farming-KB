@@ -5,7 +5,7 @@ tags: [icaros, ayahuasca, shamanism, Shipibo, music, entheogen]
 created: 2026-05-09
 ---
 
-# Icaros in Ayahuasca Ceremony
+## Icaros in Ayahuasca Ceremony
 
 Icaros are sacred songs sung by ayahuasqueros ([[amazonian-shamanic-battles-and-defensive-powers]] practice,
 particularly among the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]]. Icaros serve

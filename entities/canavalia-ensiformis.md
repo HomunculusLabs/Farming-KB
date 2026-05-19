@@ -18,7 +18,7 @@ sources:
   - "Ezeagu, I.E. et al. (1998). \"Nutritional assessment of Canavalia ensiformis seeds.\" Plant Foods for Human Nutrition, 52(1), 35-45."
 ---
 
-# Canavalia ensiformis
+## Canavalia ensiformis
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe fimetaria
+## Psilocybe fimetaria
 
 **Type:** Species (Fungus)
 **Category:** Basidiomycota, [[falconer-horse-manure-varieties]] and rich grassland soils. Named for its dung

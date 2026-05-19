@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Design Principles: Energy, Diversity, and Yield
+## Permaculture Design Principles: Energy, Diversity, and Yield
 
 The theoretical foundation of [[permaculture]] rests on a set of principles, directives, and observations derived from the study of natural systems. In his 1981 Design Course, [[bill-mollison]] laid out these principles systematically, distinguishing between axioms (established, self-evident truths), principles (basic truths or rules of conduct), laws (statements backed by verified hypotheses), and directives (practical guidance for proceeding). Together, these form the intellectual framework that distinguishes [[permaculture-design]] from both conventional agriculture and ad hoc gardening.
 

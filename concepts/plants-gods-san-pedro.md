@@ -4,15 +4,15 @@ created: 2026-04-28
 tags: [ethnobotany, psychoactive-plants, traditional-use, entheogen, plants-of-the-gods]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md"]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md""]
 type: concept
 ---
 
-# San Pedro Cactus
+## San Pedro Cactus
 
 ## Overview
 
-The San Pedro cactus ([[plants-gods-ayahuasca]] for another [[plants-gods-ololiuqui]] for comparison with other New World
+The San Pedro cactus ([[ayahuasca-and-banisteriopsis-caapi]] for another [[plants-gods-ololiuqui]] for comparison with other New World
   hallucinogenic plants
 ## Practical Applications
 

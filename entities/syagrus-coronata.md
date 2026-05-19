@@ -17,7 +17,7 @@ sources:
   - Guedes N.M.R. et al. (2012). "The Endangered Spix's Macaw and the Licuri Palm." Ararajuba.
 ---
 
-# Syagrus coronata
+## Syagrus coronata
 
 ## Overview
 

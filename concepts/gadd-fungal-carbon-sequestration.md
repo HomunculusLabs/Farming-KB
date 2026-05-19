@@ -7,7 +7,7 @@ tags: [fungi]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Fungal Roles in Carbon Sequestration
+## Fungal Roles in Carbon Sequestration
 
 **Source:** Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006), Chapter 8 (J.R. Leake)
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Microsoft Word
+## Microsoft Word
 
 Microsoft Word is a commercial word processing application developed by
 Microsoft, first released in 1983 under the name "Multi-Tool Word" for Xenix

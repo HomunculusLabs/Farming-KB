@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Type Specimens and Taxonomic Reference Material
+## Fungal Type Specimens and Taxonomic Reference Material
 Type specimens are the physical reference material on which the scientific
 name of a fungal species is based. They serve as the ultimate standard for
 taxonomic identification and nomenclatural stability, anchoring [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] (producing both sexual teleomorph and

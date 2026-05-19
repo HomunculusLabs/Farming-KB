@@ -5,7 +5,7 @@ tags: [thc, cannabis, cultivation, indoor, outdoor, degradation, freshness, deca
 created: 2026-05-08
 ---
 
-# THC Content Factors: Cultivation Environment, Freshness, and Storage Degradation (Blesching)
+## THC Content Factors: Cultivation Environment, Freshness, and Storage Degradation (Blesching)
 
 ## Overview
 

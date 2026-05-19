@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Cannabis Indoor Growing — Environmental Control Fundamentals
+## Cannabis Indoor Growing — Environmental Control Fundamentals
 
 ## Overview
 

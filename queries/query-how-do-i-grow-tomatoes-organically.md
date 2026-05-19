@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How do I grow tomatoes organically?
+## How do I grow tomatoes organically?
 
 ## Short Answer
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Spinifex (Triodia spp.)
+## Spinifex (Triodia spp.)
 
 ## Description
 

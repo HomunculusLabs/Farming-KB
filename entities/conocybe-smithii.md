@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Conocybe smithii
+## Conocybe smithii
 
 **Conocybe smithii** is a small, fragile, psilocybin-containing mushroom in the family Bolbitiaceae. It is one of the lesser-known psychoactive *Conocybe* species, found in grasslands and disturbed soils in [[amanita-phalloides]]*); can cause fatal liver and kidney failure
 - **Conocybe apala:** Common lawn species; non-psychoactive but not dangerous

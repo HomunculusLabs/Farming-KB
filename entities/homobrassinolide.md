@@ -5,10 +5,10 @@ type: chemical
 tags: [brassinosteroid, phytohormone, plant-growth-regulator, steroid]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md]
+sources: ["raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"]
 ---
 
-# Homobrassinolide
+## Homobrassinolide
 
 Homobrassinolide, specifically the 22S,23S-epimer, is a synthetic [[tihkal-receptor-binding-serotonin]] affinity and biological activity relative to brassinolide itself. The stereochemistry at positions 22 and 23 is critical for biological activity: the 22S,23S configuration used in the Gartz et al. study is the naturally occurring enantiomer found in active brassinosteroids, while the 22R,23R enantiomer shows significantly reduced activity.
 

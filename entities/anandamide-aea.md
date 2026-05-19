@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Anandamide (AEA)
+## Anandamide (AEA)
 
 **Type:** Chemical / Endocannabinoid
 **Category:** Endogenous cannabinoid (produced by the human body)

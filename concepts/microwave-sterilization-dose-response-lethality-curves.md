@@ -5,7 +5,7 @@ created: 2026-05-09
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Microwave Surface Sterilization Dose-Response Relationship and Lethality Curves
+## Microwave Surface Sterilization Dose-Response Relationship and Lethality Curves
 
 ## Overview
 

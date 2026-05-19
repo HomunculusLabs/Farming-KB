@@ -20,7 +20,7 @@ sources:
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Thomas.
 created: 2026-05-07---
 
-# Hindu Kush
+## Hindu Kush
 
 ## Overview
 

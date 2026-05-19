@@ -5,7 +5,7 @@ source_file: "gardening-when-it-counts-steve-solomon.md"
 topics: [potato, calorie-crop, food-self-sufficiency, vegetable-gardening, staple-crop, hard-times-gardening, solanum-tuberosum]
 ---
 
-# Potato as the Foundation Calorie Crop
+## Potato as the Foundation Calorie Crop
 
 ## Overview
 

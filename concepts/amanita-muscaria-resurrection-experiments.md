@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria Resurrection Experiments
+## Amanita Muscaria Resurrection Experiments
 
 The resurrection of [[amanita-muscaria-drying-and-preparation]] -- Essential pre-processing
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

@@ -6,7 +6,7 @@ type: concept
 tags: mycology, databases, biodiversity-informatics, taxonomy]
 sources: []
 ---
-# Fungal Electronic Specimen Catalogues and Databases
+## Fungal Electronic Specimen Catalogues and Databases
 
 Electronic specimen catalogues have transformed how
 herbarium data are managed, shared, and used in

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Debunking Mushroom Identification Myths
+## Debunking Mushroom Identification Myths
 
 **Article:** "Toadstool-Eating," *Popular Science Monthly*, May 1877
 **Author:** Julius Auboineau Palmer

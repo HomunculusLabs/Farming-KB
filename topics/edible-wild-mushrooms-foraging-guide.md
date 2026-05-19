@@ -1,5 +1,10 @@
+---
+title: "Edible Wild Mushrooms Foraging Guide"
+tags:
+  - topic
+---
 
-# Edible Wild Mushrooms: A Foraging Guide
+## Edible Wild Mushrooms: A Foraging Guide
 
 Wild mushroom foraging is the practice of finding, identifying, and harvesting
 edible fungi from their natural habitats. It is an ancient human activity that

@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Woody Mulch Systems
+## Permaculture Woody Mulch Systems
 
 Mulch is central to permaculture soil management. In the humid tropics (Chapter 10), Mollison identifies mulch sources as one of the special topics requiring considerable emphasis, as humus is an essential soil fraction [[tropical-mulch-systems-and-humus-creation]] is a prerequisite to sustainability.
 

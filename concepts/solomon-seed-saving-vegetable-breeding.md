@@ -8,7 +8,7 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# [[solomon-row-covers-and-season-extension]] for [[hybrid-to-op-variety-conversion-breeding-solomon]]
+## [[solomon-row-covers-and-season-extension]] for [[hybrid-to-op-variety-conversion-breeding-solomon]]
 
 - [[biointensive-seed-saving]] and Vegetable Breeding is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic

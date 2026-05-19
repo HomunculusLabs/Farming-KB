@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Farm Forestry Design (Mollison)
+## Farm Forestry Design (Mollison)
 
 Source: Permaculture: A Designers' Manual, [[gadd-fungal-biodegradation-concrete-building-materials]] due to overclearing
 of forests has forced farmers to grow their own timber and fuel. Concern for

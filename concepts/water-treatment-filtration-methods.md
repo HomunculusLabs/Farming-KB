@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Treatment and Filtration Methods
+## Water Treatment and Filtration Methods
 
 Water treatment in [[natural-sewage-treatment-systems]] over conventional mechanical plants, highlighting their lower energy requirements, lower cost, and ecological benefits.
 

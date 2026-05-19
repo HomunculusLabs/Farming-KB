@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mescaline Analogs — Phenethylamine Psychedelics from PIHKAL
+## Mescaline Analogs — Phenethylamine Psychedelics from PIHKAL
 
 Mescaline (3,4,5-trimethoxyphenethylamine) is the prototype
 [[tihkal-shulgin-rating-scale]]:** +++

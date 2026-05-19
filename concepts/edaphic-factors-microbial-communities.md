@@ -5,7 +5,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [edaphic-factors, soil-chemistry, microbiome, nitrogen, salinity, pH]
 ---
 
-# Edaphic Factors and Microbial Community Structure
+## Edaphic Factors and Microbial Community Structure
 
 ## Overview
 

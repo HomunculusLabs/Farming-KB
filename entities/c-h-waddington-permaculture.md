@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# C. H. Waddington
+## C. H. Waddington
 
 ## Description
 

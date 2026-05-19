@@ -16,7 +16,7 @@ sources:
   - "Fenster, C.B. et al. (2004). Pollination ecology of Echium vulgare. Functional Ecology, 18(6), 851-860."
 ---
 
-# Echium vulgare (Viper's Bugloss)
+## Echium vulgare (Viper's Bugloss)
 
 ## Overview
 

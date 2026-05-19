@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Orchard Ground Cover: Ladino Clover, Alfalfa, and Black Wattle
+## Fukuoka Orchard Ground Cover: Ladino Clover, Alfalfa, and Black Wattle
 
 [[biological-nitrogen-fixation-agriculture]].
 

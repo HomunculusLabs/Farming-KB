@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# The Eleusinian Mystery and the Psychedelic Sacrament
+## The Eleusinian Mystery and the Psychedelic Sacrament
 
 The [[terence-mckenna]] argues in *Food of the
 Gods*, these mysteries likely involved the consumption of a psychoactive sacrament, making them one of the

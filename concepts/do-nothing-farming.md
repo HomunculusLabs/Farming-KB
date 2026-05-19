@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Do Nothing Farming
+## Do Nothing Farming
 
 Do-nothing farming is an agricultural philosophy and methodology developed by
 [[fukuoka-do-nothing-farming-and-spiritual-life]]

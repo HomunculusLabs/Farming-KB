@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 ---
 
-# Vermiculite Grading and Water Retention in PF TEK Substrate
+## Vermiculite Grading and Water Retention in PF TEK Substrate
 
 ## Overview
 

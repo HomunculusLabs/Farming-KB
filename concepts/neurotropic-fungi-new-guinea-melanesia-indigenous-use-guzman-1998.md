@@ -6,7 +6,7 @@ tags: [mycology, ethnobotany, new-guinea, melanesia, psilocybe, neurotropic-fung
 created: 2026-05-10
 ---
 
-# Neurotropic Fungi of New Guinea and Melanesia
+## Neurotropic Fungi of New Guinea and Melanesia
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Stroke
+## Cannabis and Stroke
 
 ## Overview
 

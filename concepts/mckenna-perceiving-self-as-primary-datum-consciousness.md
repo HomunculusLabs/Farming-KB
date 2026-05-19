@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
-# The Perceiving Self as Primary Datum in McKenna's Philosophy of Consciousness
+## The Perceiving Self as Primary Datum in McKenna's Philosophy of Consciousness
 
 ## Overview
 

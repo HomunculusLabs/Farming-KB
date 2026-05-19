@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 related: [mushroom-casing-soil-recipes, grass-seed-as-mushroom-substrate, exotic-cultivation-flush-management-and-casing-hygiene]
 ---
 
-# [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]] [[growing-gourmet-growing-room-ventilation-air-exchange]], appropriate temperature, and light. While elaborate
+## [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]] [[growing-gourmet-growing-room-ventilation-air-exchange]], appropriate temperature, and light. While elaborate
 setups with humidifiers, cool-mist devices, and automated controllers exist,
 effective fruiting can be achieved with remarkably simple and inexpensive
 equipment. This page describes a straightforward approach using clear plastic

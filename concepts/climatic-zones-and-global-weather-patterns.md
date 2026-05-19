@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Climatic Zones and Global Weather Patterns
+## Climatic Zones and Global Weather Patterns
 
 ## Overview
 

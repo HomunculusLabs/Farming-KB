@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Precipitation and Opportunistic Ecology
+## Dryland Precipitation and Opportunistic Ecology
 
 Dryland and desert environments are defined not merely by their scarcity of water but by the extraordinary variability and unpredictability of that water's arrival. Understanding the patterns of precipitation, the mechanisms of moisture capture, and the opportunistic strategies that desert life has evolved in response is foundational to any [[permaculture-design-philosophy]]. The designer's task is to read the landscape, understand the timing and patterns of resource flows, and position systems to capture and benefit from every drop of water and every pulse of productivity that the desert provides.
 

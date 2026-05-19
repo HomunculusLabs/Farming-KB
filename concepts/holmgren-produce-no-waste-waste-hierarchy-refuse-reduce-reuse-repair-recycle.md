@@ -4,7 +4,7 @@ source: Permaculture: Principles and Pathways holmgren-beyond-sustainability (Ho
 tags: [permaculture, waste, recycling, reuse, sustainability, zero-waste]
 ---
 
-# Produce No Waste: The Waste Hierarchy in Permaculture Design
+## Produce No Waste: The Waste Hierarchy in Permaculture Design
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
-# Dark Septate Endophytes in Stressed Environments
+## Dark Septate Endophytes in Stressed Environments
 
 Dark septate endophytes (DSE) are a diverse group of conidial and sterile fungi characterized by melanized hyphae that colonize plant roots without forming typical mycorrhizal structures. Found in some of the most extreme environments on Earth -- from arctic tundra to desert soils, from metal-contaminated sites to alpine meadows -- DSE represent a functionally important but understudied component of root-associated fungal communities.
 

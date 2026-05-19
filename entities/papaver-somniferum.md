@@ -18,7 +18,7 @@ sources:
   - UNODC World Drug Report 2025
 ---
 
-# Papaver somniferum (Opium Poppy)
+## Papaver somniferum (Opium Poppy)
 
 ## Overview
 

@@ -7,7 +7,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Lichen Stress Tolerance and Poikilohydry ## Overview Lichens dominate
+## Fungal Lichen Stress Tolerance and Poikilohydry ## Overview Lichens dominate
 approximately 10% of terrestrial ecosystems, including regions where higher
 plants operate at their physiological limits: polar, alpine, and desert
 ecosystems. Their success in these extreme environments stems from the fungal

@@ -18,7 +18,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Natural Pesticide (JNP)
+## JADAM Natural Pesticide (JNP)
 
 JNP is the combined pesticide system of [[jadam-methods]]. It is built from four ingredients -- [[jadam-wetting-agent-jwa]], [[jadam-sulfur-js]], [[jadam-herb-solution-jhs]], and [[jadam-microorganism-solution-jms]] -- mixed in different proportions for different targets. One pesticide system replaces hundreds of commercial products. Costs ~$7-9 per acre per year (vs ~$350 for chemical pesticides).
 

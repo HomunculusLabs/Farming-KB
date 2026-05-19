@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Mycologists Through History
+## Mycologists Through History
 
 The study of fungi has attracted a remarkable cast of characters — from
 gentleman naturalists and eccentric collectors to revolutionary biochemists

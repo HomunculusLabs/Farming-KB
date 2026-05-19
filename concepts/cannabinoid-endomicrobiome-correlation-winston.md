@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cannabinoids, microbiome, endorhiza, thc, cbd, correlation, secondary-metabolites]
 ---
 
-# Cannabinoid Profile and Endorhiza Microbiome Correlation
+## Cannabinoid Profile and Endorhiza Microbiome Correlation
 
 ## Overview
 

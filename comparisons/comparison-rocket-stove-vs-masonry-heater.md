@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Rocket Stove vs Masonry Heater
+## Rocket Stove vs Masonry Heater
 
 ## Overview
 Rocket stoves and masonry heaters both represent the high-efficiency end of wood-burning

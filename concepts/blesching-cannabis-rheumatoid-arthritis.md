@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Rheumatoid Arthritis
+## Cannabis and Rheumatoid Arthritis
 
 ## Overview
 

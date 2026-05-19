@@ -4,9 +4,9 @@ created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [mushroom-cultivation, casing, peat, vermiculite, fruiting, pinning]
-sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
+sources: ["raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md"]
 ---
-# Casing Soil Preparation for Mushroom Cultivation A casing layer is a non-nutritive material applied to the surface of fully colonized substrate to create the microclimate necessary for mushroom formation (pinning). The casing soil recipe and preparation method described here has been proven effective for psilocybe-tampanensis-cultivation, and [[mollison-designers-microclimate-creation-frost-protection]]**: Provides a gradient of moisture, CO₂
+## Casing Soil Preparation for Mushroom Cultivation A casing layer is a non-nutritive material applied to the surface of fully colonized substrate to create the microclimate necessary for mushroom formation (pinning). The casing soil recipe and preparation method described here has been proven effective for psilocybe-tampanensis-cultivation, and [[mollison-designers-microclimate-creation-frost-protection]]**: Provides a gradient of moisture, CO₂
   concentration, and humidity that triggers the shift from vegetative mycelial
   growth to reproductive fruiting.
 - **Physical support**: Gives developing mushrooms a stable matrix to anchor

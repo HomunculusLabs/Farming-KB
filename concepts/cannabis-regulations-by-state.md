@@ -7,7 +7,7 @@ tags: [cannabis, law, reform, regulation, health, safety, economics]
 sources: []
 ---
 
-# Cannabis Regulations by State
+## Cannabis Regulations by State
 
 ## Overview
 

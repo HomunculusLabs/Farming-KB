@@ -11,14 +11,12 @@ tags:
   ]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md,
+  "]
 type: concept
 ---
 
-# Growing Mushrooms in Sheds
+## Growing Mushrooms in Sheds
 
 Any one who has a snug, warm shed, may have a good
 [[falconer-dwelling-house-mushroom-growing]]

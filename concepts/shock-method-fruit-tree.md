@@ -7,7 +7,7 @@ tags: [permaculture, fruit-tree, orchard, trees, cultivation, techniques, homest
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Shock Method for Fruit Tree Establishment
+## Shock Method for Fruit Tree Establishment
 
 Sepp Holzer's "shock method" is an emergency technique that allows badly rooted trees without root balls to be replanted even when they are already fully in leaf, in flower, or bearing fruit. It originated from a childhood experience.
 

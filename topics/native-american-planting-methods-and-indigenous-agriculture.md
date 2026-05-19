@@ -14,7 +14,7 @@ sources:
   - "White, R. (2023). 'Raised field agriculture at Lake Titicaca: ancient technology for modern food security.' Agriculture and Human Values, 40(2), 311-328."
 ---
 
-# Native American Planting Methods and Indigenous Agriculture
+## Native American Planting Methods and Indigenous Agriculture
 
 Indigenous peoples of the Americas developed sophisticated agricultural systems over thousands of years, long before European contact. These methods were not primitive precursors to modern agriculture — they were complex, place-based food production systems refined through millennia of observation, experimentation, and ecological knowledge. Many of these techniques align closely with modern [[syntropic-agriculture-design-and-practice]], and they offer valuable strategies for sustainable food production today.
 

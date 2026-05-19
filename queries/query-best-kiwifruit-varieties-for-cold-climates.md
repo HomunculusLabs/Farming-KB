@@ -21,7 +21,7 @@ sources:
 type: query
 created: 2026-05-03---
 
-# What Are the Best Kiwifruit Varieties for Cold Climates?
+## What Are the Best Kiwifruit Varieties for Cold Climates?
 
 **Short answer:** For Zones 3–5, the top choices are **[[cotter-mushroom-products-and-value-added-applications]] products (jams, wine). Ornamental as well as productive.
 

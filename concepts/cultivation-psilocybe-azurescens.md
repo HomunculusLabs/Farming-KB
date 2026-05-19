@@ -4,7 +4,7 @@ source: growing-psilocybe-azurescens.md
 type: concept
 ---
 
-# Cultivation of *Psilocybe azurescens* — The World's Most Potent Psilocybin Mushroom
+## Cultivation of *Psilocybe azurescens* — The World's Most Potent Psilocybin Mushroom
 
 ## Overview
 

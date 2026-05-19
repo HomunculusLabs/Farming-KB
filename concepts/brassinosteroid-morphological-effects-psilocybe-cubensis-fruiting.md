@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Brassinosteroid Morphological Effects on psilocybe cubensis Fruiting
+## Brassinosteroid Morphological Effects on psilocybe cubensis Fruiting
 
 The 1990 study by Gartz, Adam, and Vorbrodt demonstrated that the brassinosteroid 22S,23S-homobrassinolide, when applied at 0.01 ppm to cultures of Psilocybe cubensis, produced not only accelerated growth and increased yield but also unexpected [[phytohormone-activity-on-fungi-literature-gap-brassinosteroid]], extending the known biological activity of these steroidal phytohormones beyond the plant kingdom into the fungal domain.
 

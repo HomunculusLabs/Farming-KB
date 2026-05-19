@@ -17,7 +17,7 @@ sources:
   - Petterson, D.S. (1998). "Composition and food uses of lupins." In Proc. 9th Intl Lupin Conf. Kluwer.
 ---
 
-# Lupinus angustifolius
+## Lupinus angustifolius
 
 *Lupinus angustifolius*, commonly known as narrow-leafed lupin or blue lupin, is an annual legume in the family Fabaceae. It is native to the Mediterranean basin and is now widely cultivated as a grain crop, green manure, and forage plant.
 

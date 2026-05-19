@@ -9,7 +9,7 @@ sources: []
 type: concept
 ---
 
-# Cannabis: Historical Use, Chemistry, and Effects
+## Cannabis: Historical Use, Chemistry, and Effects
 
 Cannabis, undoubtedly the most widespread of all the hallucinogens, is one of
 the oldest cultivated plants. It is also one of the most widely spread weeds,

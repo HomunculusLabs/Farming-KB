@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Vision: Four Aims and the Farming Expert
+## JADAM Vision: Four Aims and the Farming Expert
 
 The opening chapter of JADAM [[jadam-pesticide-research-cup-method]] which trains farmers to develop their own crop-specific pesticide solutions.
 

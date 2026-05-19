@@ -4,7 +4,7 @@ source: Permaculture Plants - A Selection (Nugent & Boniface)
 topics: fruit trees, evergreen orchard trees, Mediterranean climate, windbreak plants, multipurpose trees
 ---
 
-# Loquat (Eriobotrya japonica)
+## Loquat (Eriobotrya japonica)
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Sensible Land Division Patterns
+## Sensible Land Division Patterns
 
 The way human societies divide and pattern land has profound implications for ecological function, resource availability, and social stability. A bird's-eye view of centralized and disempowered societies reveals strictly rectilinear networks of streets, farms, and property boundaries — patterns that serve survey instruments rather than human or environmental needs.
 

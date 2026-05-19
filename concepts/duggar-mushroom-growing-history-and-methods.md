@@ -8,7 +8,7 @@ type: concept
 tags: [history, mushroom-cultivation]
 ---
 
-# Duggar Mushroom Growing - History and Methods
+## Duggar Mushroom Growing - History and Methods
 
 Benjamin Minge Duggar's "Mushroom Growing" (1915), published by Orange
 Judd Company, was a landmark American text that consolidated decades

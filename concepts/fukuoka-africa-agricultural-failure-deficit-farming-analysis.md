@@ -20,7 +20,7 @@ summary: >
   with tropical and subtropical ecosystems.
 ---
 
-# Fukuoka's Analysis of Africa's Agricultural Failure
+## Fukuoka's Analysis of Africa's Agricultural Failure
 
 ## Overview
 

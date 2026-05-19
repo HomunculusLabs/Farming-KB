@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is the Strongest Psilocybin Mushroom Species?
+## What Is the Strongest Psilocybin Mushroom Species?
 
 ## Short Answer
 [[psilocybe-bohemica]] at approximately 1% each, [[psilocybe-cyanescens]], known as "Wavy Caps" for the distinctive wavy margin

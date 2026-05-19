@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# What Is This "Lawn Culture"?
+## What Is This "Lawn Culture"?
 
 Fukuoka's critique of the American lawn is one of his most
 incisive observations about the gap between the appearance

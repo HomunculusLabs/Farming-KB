@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[norbaeocystin]], could also be present but are thought to be less active
+## [[norbaeocystin]], could also be present but are thought to be less active
 than the former two.
 
 Psilocybin and psilocin are chemically classified as indolealkylamines

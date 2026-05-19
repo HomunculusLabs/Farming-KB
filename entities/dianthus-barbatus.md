@@ -16,7 +16,7 @@ sources:
   - "Jäger, E.J. et al. (2008). Rothmaler Exkursionsflora. Spektrum."
 ---
 
-# Dianthus barbatus (Sweet William)
+## Dianthus barbatus (Sweet William)
 
 ## Overview
 

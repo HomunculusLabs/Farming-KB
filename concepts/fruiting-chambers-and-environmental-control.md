@@ -1,5 +1,10 @@
+---
+title: "Fruiting Chambers And Environmental Control"
+tags:
+  - concept
+---
 
-# Fruiting Chambers and Environmental Control
+## Fruiting Chambers and Environmental Control
 
 A fruiting chamber is an enclosed space designed to maintain the environmental
 conditions necessary for [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]. The goal is a
@@ -143,8 +148,3 @@ current understanding and implementation strategies.
 Successful integration of fruiting chambers and environmental control into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

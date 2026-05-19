@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Water Garden Features
+## Water Garden Features
 
 updated: 2026-04-18
 

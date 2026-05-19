@@ -7,7 +7,7 @@ tags: [medicinal-mushrooms, fungi, mycology, health, immunology, beta-glucans, r
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 
-# Medicinal Mushroom Health Benefits
+## Medicinal Mushroom Health Benefits
 
 Medicinal mushrooms have been used for thousands of years in Traditional Chinese Medicine and are now the subject of intensive biomedical research. Their health benefits derive primarily from polysaccharides (especially beta-glucans), triterpenes, and other bioactive compounds.
 

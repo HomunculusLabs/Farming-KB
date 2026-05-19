@@ -1,4 +1,8 @@
-# Fukuoka's Hotel Model of Harvest Yields
+---
+title: "Fukuoka's Hotel Model of Harvest Yields"
+tags:
+  - concept
+---
 
 ## Source
 *[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s

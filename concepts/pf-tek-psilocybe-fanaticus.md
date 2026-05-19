@@ -1,5 +1,5 @@
 ---
-title: PF Tek and pf pf-tek-psilocybe-fanaticus-cultivation-method fanaticus (Robert McPherson)
+title: "Pf Tek Psilocybe Fanaticus"
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [pf-tek, psilocybin]
 ---
 
-# PF Tek and Psilocybe Fanaticus (Robert McPherson)
+## PF Tek and Psilocybe Fanaticus (Robert McPherson)
 
 ## Robert McPherson
 

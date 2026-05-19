@@ -5,7 +5,7 @@ type: entity
 tags: [device, filter, gas-exchange, cultivation, amateur, diy, low-cost, vermiculite]
 ---
 
-# Filter Can (Mushroom Cultivation)
+## Filter Can (Mushroom Cultivation)
 
 ## Description
 

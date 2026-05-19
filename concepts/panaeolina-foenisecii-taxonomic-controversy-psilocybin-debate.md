@@ -3,7 +3,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-gartz.md
 tags: [neurotropic-fungi, taxonomy, panaeolina, controversy, chemical-analysis]
 ---
 
-# Panaeolina foenisecii: Taxonomic Controversy and Psilocybin Content Debate
+## Panaeolina foenisecii: Taxonomic Controversy and Psilocybin Content Debate
 
 ## Overview
 

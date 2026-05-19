@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2,4-DMA
+## 2,4-DMA
 
 PIHKAL entry #53. 2,4-DIMETHOXYAMPHETAMINE.
 

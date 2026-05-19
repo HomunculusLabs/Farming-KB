@@ -23,7 +23,7 @@ sources:
 - raw/unknown-a-practical-guide-to-synthetic-log-cultiva.md
 ---
 
-# Think Grow Model H Plus 4-Channel LED
+## Think Grow Model H Plus 4-Channel LED
 
 The Think Grow Model H Plus is a 4-channel LED grow light used for indoor cannabis cultivation. It features independently controllable spectrum channels, allowing growers to tailor light output for vegetative and flowering stages.
 

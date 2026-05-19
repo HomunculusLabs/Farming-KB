@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, fruiting, environment-control, climate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# fruiting environment parameters The shift from vegetative mycelial growth to
+## fruiting environment parameters The shift from vegetative mycelial growth to
 fruiting body production is triggered by specific environmental cues. Managing
 these parameters precisely is the key to reliable, high-quality mushroom
 production. Oyster mushrooms (*Pleurotus* spp.) are particularly responsive to

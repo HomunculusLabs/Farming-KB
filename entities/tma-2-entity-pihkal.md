@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TMA-2
+## TMA-2
 [[qualitative-comments-methodology-pihkal]]
 - [[pihkal-qualitative-effects-themes]]
 ## Practical Considerations

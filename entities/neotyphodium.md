@@ -12,7 +12,7 @@ tags:
   - biocontrol
 ---
 
-# Neotyphodium
+## Neotyphodium
 
 ## Description
 

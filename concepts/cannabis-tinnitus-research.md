@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Tinnitus Research
+## Cannabis and Tinnitus Research
 
 **Source:** The [[cannabis-for-mental-health]] implications are significant for tinnitus patients. The psychological impact of tinnitus -- anxiety, depression, sleep disruption, and reduced quality of life -- is often more debilitating than the tinnitus itself. By addressing these secondary effects, CBD may substantially improve tinnitus-related quality of life even if it does not directly reduce the perceived sound.
 

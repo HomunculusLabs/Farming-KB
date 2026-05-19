@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Hawthorn vs Ashwagandha
+## Hawthorn vs Ashwagandha
 
 ## Overview
 

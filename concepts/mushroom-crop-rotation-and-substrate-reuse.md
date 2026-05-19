@@ -12,7 +12,7 @@ sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
-# Mushroom Crop Rotation and Substrate Reuse
+## Mushroom Crop Rotation and Substrate Reuse
 
 ## Overview
 

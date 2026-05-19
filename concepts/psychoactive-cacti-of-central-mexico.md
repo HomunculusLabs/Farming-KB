@@ -13,7 +13,7 @@ sources:
   - raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
 ---
 
-# Psychoactive Cacti of Central Mexico
+## Psychoactive Cacti of Central Mexico
 
 Central Mexico is home to a remarkable diversity of cacti used by indigenous peoples as ethnomycology substitutes in ceremonial and healing contexts. The [[dmt-containing-plants-united-states-halpern]]. It is believed to be more potent than peyote and is consumed in the same manner or prepared as an intoxicating drink. Among some tribes it is known as Chaute (a generic term for *Ariocarpus* species), living rock, or dry whiskey.
 

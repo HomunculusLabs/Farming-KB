@@ -8,7 +8,7 @@ type: concept
 tags: [biology, fungi, soil]
 ---
 
-# Soil [[biodiversity-fungi-soil-fungal-communities]]
+## Soil [[biodiversity-fungi-soil-fungal-communities]]
 - [[det]]
 - [[decomposition]]
 - [[dighton-fungal-role-soil-aggregation]]

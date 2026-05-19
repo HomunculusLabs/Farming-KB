@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Farris Family Amanita Poisoning, Shenandoah, 1885
+## Farris Family Amanita Poisoning, Shenandoah, 1885
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Ginger Growing Guide (Zingiber officinale)
+## Ginger Growing Guide (Zingiber officinale)
 
 ## Overview
 

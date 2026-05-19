@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Tree and Vine Crops for Arid and Tropical Permaculture
+## Tree and Vine Crops for Arid and Tropical Permaculture
 
 updated: 2026-04-18
 

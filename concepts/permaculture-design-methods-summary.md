@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Summary of Permaculture Design Methods
+## Summary of Permaculture Design Methods
 
 [[permaculture]] design, according to Mollison, must include:
 

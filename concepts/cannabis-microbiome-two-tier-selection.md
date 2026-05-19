@@ -1,11 +1,11 @@
 ---
-title: cultivar-cannabis-microbiome-two-tier-selection-model Two-Tier two-tier-selection-model-plant-microbiome
+title: "Cannabis Microbiome Two Tier Selection"
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiome, cannabis, rhizosphere, endorhiza, plant-microbe-interactions]
 created: 2026-05-09
 ---
 
-# Cannabis Microbiome Two-Tier Selection Model
+## Cannabis Microbiome Two-Tier Selection Model
 
 The two-tier selection model describes how plant-associated microbial
 communities are assembled through two sequential filtering steps: first

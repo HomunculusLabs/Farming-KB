@@ -9,7 +9,7 @@ sources:
 created: 2026-05-08
 ---
 
-# Ayahuasca Tourism Risks and Ethics
+## Ayahuasca Tourism Risks and Ethics
 
 [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of
 Peru provide one of the earliest cautionary accounts of these dangers,

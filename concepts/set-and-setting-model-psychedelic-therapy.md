@@ -8,7 +8,7 @@ type: concept
 tags: [set-and-setting, psychedelic-therapy, psycholytic, psychedelic-model, leary]
 ---
 
-# Set and Setting Model in Psychedelic Therapy
+## Set and Setting Model in Psychedelic Therapy
 
 ## Overview
 

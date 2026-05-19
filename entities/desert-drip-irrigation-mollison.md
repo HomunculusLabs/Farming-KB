@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Desert Drip Irrigation
+## Desert Drip Irrigation
 
 ## Description
 

@@ -1,4 +1,8 @@
-# Oomycete Water Mold Zoospore Discharge — Saprolegnia Sporulation
+---
+title: "Oomycete Water Mold Zoospore Discharge — Saprolegnia Sporulation"
+tags:
+  - concept
+---
 
 ## Source
 *Nicholas P. Money — Mr. Bloomfield's Orchard (2002)*

@@ -7,7 +7,7 @@ tags: [energy, off-grid, homesteading, sustainability, engineering]
 sources: []
 ---
 
-# Wind Power Basics
+## Wind Power Basics
 
 Small-scale wind turbines convert kinetic energy from wind into electricity for homestead power systems. Wind complements solar power effectively because wind often blows when the sun is not shining (night, winter storms, overcast days). A properly sited and maintained small wind turbine can generate 200-10,000+ kWh per year for an off-grid or grid-tied homestead.
 

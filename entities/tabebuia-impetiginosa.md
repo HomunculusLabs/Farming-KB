@@ -17,7 +17,7 @@ sources:
     in Tabebuia." Systematic Botany, 32(3), 660–670.
 ---
 
-# Tabebuia impetiginosa
+## Tabebuia impetiginosa
 
 **Tabebuia impetiginosa** (syn. *Handroanthus impetiginosus*),
 pau d'arco, or pink trumpet tree, is a large deciduous tree

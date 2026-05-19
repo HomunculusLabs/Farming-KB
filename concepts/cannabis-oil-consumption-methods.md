@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# Cannabis Oil Consumption Methods
+## Cannabis Oil Consumption Methods
 
 Once cannabis oil has been extracted and purified through the alchemical processes
 described in earlier chapters, the practitioner must choose how best to consume

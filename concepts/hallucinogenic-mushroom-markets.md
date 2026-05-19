@@ -5,7 +5,7 @@ source: carolina-mushrooms_08qxp.md
 tags: [markets, legality, policy, trends, psilocybin, smartshops]
 ---
 
-# Hallucinogenic Mushroom Markets and Legal Status
+## Hallucinogenic Mushroom Markets and Legal Status
 
 ## Overview
 

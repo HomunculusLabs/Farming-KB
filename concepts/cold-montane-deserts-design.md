@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cold and Montane Desert Design
+## Cold and Montane Desert Design
 
 Cold and montane deserts represent some of the most challenging environments for human habitation and agricultural design on Earth. Found in arid plateau interiors and high mountain valleys across every continent, these regions demand specialized strategies that address extreme temperature fluctuations, abbreviated growing seasons, and the physical limitations imposed by the combination of altitude and aridity.
 

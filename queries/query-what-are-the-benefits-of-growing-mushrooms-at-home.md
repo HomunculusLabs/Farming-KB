@@ -8,7 +8,7 @@ sources: [papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: query
 ---
 
-# What Are the Benefits of Growing Mushrooms at Home?
+## What Are the Benefits of Growing Mushrooms at Home?
 
 ## Short Answer
 Growing mushrooms at home provides fresh gourmet and [[cultivator-sterile-technique-and-agar-culture]], and produces nutrient-dense food rich in protein, B vitamins, and [[accessible-mushroom-cultivation-for-disabilities]] has experienced a remarkable surge in popularity as more people discover how accessible and rewarding it can be. Unlike many gardening pursuits that require outdoor space, full sun, and long growing seasons, mushrooms can be grown indoors in small spaces, closets, or even under kitchen sinks.

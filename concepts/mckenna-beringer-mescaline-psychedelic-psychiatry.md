@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of-the-gods.md
 type: concept
 ---
-# Kurt Beringer, Mescaline, and the Birth of Psychedelic Psychiatry
+## Kurt Beringer, Mescaline, and the Birth of Psychedelic Psychiatry
 
 In *Food of the Gods*, [[banisteriopsis-caapi]]*, the woody liana
 encountered by Richard Spruce in the Amazon nearly eighty years before. Lewin's last

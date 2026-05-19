@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [knowledge]
 ---
 
-# Seaberry (Hippophae rhamnoides)
+## Seaberry (Hippophae rhamnoides)
 
 ## Overview
 

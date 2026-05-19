@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
-# PsiM (Norbaeocystin N-Methyltransferase)
+## PsiM (Norbaeocystin N-Methyltransferase)
 
 **PsiM** is an S-adenosyl-L-methionine (SAM)-dependent N-methyltransferase and the final enzyme in the [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]: how the pathway generates three
 distinct alkaloids (norbaeocystin, baeocystin, and psilocybin) from a

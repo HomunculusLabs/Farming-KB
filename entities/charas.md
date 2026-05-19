@@ -5,7 +5,7 @@ type: entity
 tags: [hashish, cannabis-product, traditional, nepal, india]
 ---
 
-# Charas
+## Charas
 
 ## Description
 

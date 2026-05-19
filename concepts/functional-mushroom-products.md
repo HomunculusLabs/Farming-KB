@@ -7,7 +7,7 @@ tags: [mycology, processing, preparation, mushrooms, fungi, health, medicine, me
 sources: []
 ---
 
-# Functional Mushroom Products
+## Functional Mushroom Products
 
 ## Overview
 

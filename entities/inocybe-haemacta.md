@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/field-guide-to-the-psilocybin-mushroom.md"
 ---
-# Inocybe haemacta
+## Inocybe haemacta
 **Inocybe haemacta** is a [[psilocybin]], placing it among the
 minority of Inocybe species known to be psychoactive. This is significant
 because the genus is predominantly associated with toxic compounds, particularly

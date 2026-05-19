@@ -7,7 +7,7 @@ tags: [mushrooms, cultivation, recipe, methods, equipment]
 sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-# Mushroom Pasteurization
+## Mushroom Pasteurization
 
 Pasteurization is the critical step between substrate bag production and inoculation. Improper pasteurization leads to contamination, poor growth, or complete spoilage of bags. This page covers the country-style method from the FAO training manual.
 

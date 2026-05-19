@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-# Fungal Multilocus Sequence Typing Multilocus sequence typing (MLST) and multilocus microsatellite typing (MLMT) have become essential tools for characterizing genetic variation in fungal populations. Originally developed by the bacterial research community for molecular epidemiology, these approaches have been adapted for fungi and revolutionized our understanding of fungal species boundaries, population structure, biogeography, and the evolution of pathogenicity. By providing portable, reproducible, and web-accessible genotype data, MLST and MLMT address many of the limitations of earlier fingerprinting techniques and complement the phylogenetic approaches described in [[biodiversity-fungal-genetic-diversity]].
+## Fungal Multilocus Sequence Typing Multilocus sequence typing (MLST) and multilocus microsatellite typing (MLMT) have become essential tools for characterizing genetic variation in fungal populations. Originally developed by the bacterial research community for molecular epidemiology, these approaches have been adapted for fungi and revolutionized our understanding of fungal species boundaries, population structure, biogeography, and the evolution of pathogenicity. By providing portable, reproducible, and web-accessible genotype data, MLST and MLMT address many of the limitations of earlier fingerprinting techniques and complement the phylogenetic approaches described in [[biodiversity-fungal-genetic-diversity]].
 
 MLMT typing is analogous to MLST: a fragment spanning a microsatellite is
 PCR-amplified, but instead of sequencing, alleles are scored by size using

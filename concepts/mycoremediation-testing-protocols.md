@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md (Chunk 44, Lines 8801
 type: concept
 ---
 
-# Mycoremediation Testing Protocols
+## Mycoremediation Testing Protocols
 
 Mycoremediation testing protocols are low-cost, accessible methods for evaluating the effectiveness of fungal biomass in degrading, sequestering, or filtering biological and chemical contaminants. These protocols enable growers and remediation practitioners to assess mycofiltration system efficiency without reliance on expensive laboratory instrumentation. Together, they form a practical toolkit for field-level verification that [[fungal-mycelial-networks-nutrient-translocation]] are actively processing target pollutants.
 

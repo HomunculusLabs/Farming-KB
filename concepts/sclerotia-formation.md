@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 tags: [mycology, sclerotia, cultivation, Psilocybe, survival-structures]
 ---
 
-# Sclerotia Formation
+## Sclerotia Formation
 
 Sclerotia (singular: sclerotium) are compact, hardened masses of mycelium
 that serve as survival structures for certain fungi. In some *Psilocybe*

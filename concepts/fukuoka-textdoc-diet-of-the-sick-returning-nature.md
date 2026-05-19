@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Diet of the Sick and the Return to Nature
+## Diet of the Sick and the Return to Nature
 
 ## Illness as Estrangement from Nature
 

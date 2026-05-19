@@ -11,7 +11,7 @@ sources:
   - "raw/papers/medicinal-plants-of-the-world-vol3.md"
 ---
 
-# Artemisia absinthium
+## Artemisia absinthium
 
 **Artemisia absinthium**, commonly known as **wormwood**, **absinthe wormwood**, or **grand wormwood**, is a herbaceous perennial plant in the family Asteraceae. Native to temperate regions of Eurasia and Northern Africa, it is best known as the primary flavoring ingredient of the legendary spirit absinthe and as a traditional medicinal herb with a long history of use across European, Middle Eastern, and Asian herbal traditions. The plant contains the neuroactive monoterpene **thujone**, which is responsible for both its medicinal properties and its [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is greenish-gray and sparsely hairy, while the lower surface is densely white-tomentose with sessile glandular trichomes that produce the plant's [[psilocybin-north-america-pacific-northwest]], South America, southern Africa, Australia, and New Zealand.
 The plant thrives in dry, open, well-drained habitats including roadsides, waste ground, abandoned fields, rocky slopes, and disturbed sites. It prefers calcareous or sandy soils and is tolerant of poor, nutrient-deficient substrates. *A. absinthium* is considered an indicator species of nitrogen-rich disturbed ground and is often among the first colonizers of degraded [[nutrient-dynamic-accumulator-reference]], its deep root system mines minerals from subsoil layers and deposits them in surface leaf litter. The plant's strong aromatic oils act as a natural pest deterrent, and it has been used  dracunculus** (tarragon): A culinary herb with a milder, anise-like flavor profile and minimal thujone content. Widely used in French and Middle Eastern cuisine.

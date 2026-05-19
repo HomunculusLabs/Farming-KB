@@ -7,7 +7,7 @@ tags: [earthworks, water-management, permaculture, erosion, regenerative, agricu
 sources: []
 ---
 
-# Earthworks for Water Management
+## Earthworks for Water Management
 
 Earthworks are deliberate modifications to the land surface to control, direct, store, and infiltrate water. They are foundational infrastructure in [[regenerative-agriculture]], permaculture design, and homesteading. Well-designed earthworks transform how water moves through a landscape, turning erosion problems into hydration opportunities and creating the foundation for productive land.
 

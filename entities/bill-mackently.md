@@ -5,7 +5,7 @@ type: entity
 tags: [person, innovator, harvesting, wildlife-integration, permaculture]
 ---
 
-# Bill Mackently
+## Bill Mackently
 
 ## Description
 

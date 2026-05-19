@@ -4,7 +4,7 @@ source: leary-t-the-psychedic-experience.md
 type: entity
 ---
 
-# LSD-25 (Lysergic Acid Diethylamide)
+## LSD-25 (Lysergic Acid Diethylamide)
 
 ## Description
 

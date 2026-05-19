@@ -1,5 +1,5 @@
 ---
-title: urban-broadscale-restoration-watershed-repair and Watershed Repair
+title: "Broadscale Restoration Watershed Repair"
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [forest-restoration, water]
 ---
-# Broadscale Restoration and Watershed Repair
+## Broadscale Restoration and Watershed Repair
 Broadscale restoration is the large-scale repair of degraded landscapes through
 simple, low-cost interventions that slow water flow, rebuild [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] to damaged watersheds. This approach is central to
 [[building-with-natural-materials]] that blend with the landscape

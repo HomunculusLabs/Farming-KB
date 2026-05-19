@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycovermediation.md
 type: concept
 ---
 
-# Agaricus Substrates, Cultivation, Marketing, and Nutrition
+## Agaricus Substrates, Cultivation, Marketing, and Nutrition
 
 ## Overview
 Agaricus species are among the most commercially significant cultivated mushrooms worldwide. This page covers [[substrate-preparation]], cultivation methods (indoor and outdoor), [[grain-harvesting-and-storage]], market pricing, nutritional profiles, medicinal properties, and [[mycoremediation-applications]], plus a brief introduction to the related Agrocybe genus.

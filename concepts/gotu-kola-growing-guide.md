@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Gotu Kola Growing Guide (Centella asiatica)
+## Gotu Kola Growing Guide (Centella asiatica)
 
 ## Overview
 

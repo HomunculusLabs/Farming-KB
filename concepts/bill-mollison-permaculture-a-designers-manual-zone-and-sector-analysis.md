@@ -7,7 +7,7 @@ tags: [permaculture, zones, sectors, design, site-analysis, placement, energy-fl
 created: 2026-05-11
 ---
 
-# Zone and Sector Analysis in Permaculture Design
+## Zone and Sector Analysis in Permaculture Design
 
 ## Overview
 

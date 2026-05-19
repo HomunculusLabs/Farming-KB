@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Pinoline, the Pineal Gland, and Endogenous DMT
+## Pinoline, the Pineal Gland, and Endogenous DMT
 
 ## Overview
 

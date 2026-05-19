@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Mineral Balance and Soil Fertility in Permaculture
+## Mineral Balance and Soil Fertility in Permaculture
 
 [[phosphate-accumulators-sustainable-agriculture]]. While Permaculture has emphasised biological solutions,
 Holmgren argues that understanding and correcting mineral imbalances is essential

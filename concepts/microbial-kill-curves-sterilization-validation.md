@@ -1,4 +1,8 @@
-# Microbial Kill Curves and Sterilization Validation
+---
+title: "Microbial Kill Curves and Sterilization Validation"
+tags:
+  - concept
+---
 
 Microbial kill curves are graphical representations of the
 relationship between the intensity or duration of a sterilizing

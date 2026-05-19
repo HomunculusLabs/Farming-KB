@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Deserts and Arid Lands Desert and arid land fungi represent remarkable adaptations to extreme conditions including intense desiccation, high UV radiation, temperature extremes, and nutrient scarcity. These environments harbor specialized fungal communities often overlooked in biodiversity surveys. [[fungal-conservation-endangered-species]] [[rock-penetrating-fungi]] [[fungal-adaptations-environmental-gradients]] [[fungal-biodiversity]] [[fungal-endemism-and-biogeography]] [[african-truffle-species]]
+## Fungal Diversity in Deserts and Arid Lands Desert and arid land fungi represent remarkable adaptations to extreme conditions including intense desiccation, high UV radiation, temperature extremes, and nutrient scarcity. These environments harbor specialized fungal communities often overlooked in biodiversity surveys. [[fungal-conservation-endangered-species]] [[rock-penetrating-fungi]] [[fungal-adaptations-environmental-gradients]] [[fungal-biodiversity]] [[fungal-endemism-and-biogeography]] [[african-truffle-species]]
 ## Background and Context
 
 Fungal Diversity in Deserts and Arid Lands is an important subject that has garnered significant attention

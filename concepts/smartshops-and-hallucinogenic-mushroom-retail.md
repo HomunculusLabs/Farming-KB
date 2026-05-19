@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Smartshops and Hallucinogenic Mushroom Retail
+## Smartshops and Hallucinogenic Mushroom Retail
 
 The commercialization of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] use as a widespread drug trend
 in Europe during the late 1990s and early 2000s. Smartshops in the Netherlands played a particularly

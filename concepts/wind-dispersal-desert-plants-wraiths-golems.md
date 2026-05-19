@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wind-Dispersal Desert Plants: Wraiths and Golems
+## Wind-Dispersal Desert Plants: Wraiths and Golems
 
 Whole plants, seed-heads, leaves, dried manurial pellets, seed pods, and dust blow with the wind across desert plains, becoming trapped in depressions, pits, swales, and against fences and tree-lines. A distinctive category of desert plants depends entirely on wind for dispersal, appearing as either substantial **rolling balls** (golems) or dry, light, airy panicles (wraiths).
 

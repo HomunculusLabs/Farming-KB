@@ -12,7 +12,7 @@ sources: []
 type: comparison
 ---
 
-# Morel vs Chanterelle
+## Morel vs Chanterelle
 
 ## Overview
 

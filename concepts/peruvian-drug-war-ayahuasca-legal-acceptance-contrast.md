@@ -5,7 +5,7 @@ tags: [ayahuasca, peru, drug-policy, legal, tourism, ucayali]
 created: 2026-05-08
 ---
 
-# Peruvian Drug War Context and [[ayahuasca-tourism]]
+## Peruvian Drug War Context and [[ayahuasca-tourism]]
 
 The drug war context created both risks and protections for ayahuasca
 tourists in early-2000s Peru. On one hand, the presence of narcotraffickers

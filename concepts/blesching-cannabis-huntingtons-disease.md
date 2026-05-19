@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Huntington's Disease
+## Cannabis and Huntington's Disease
 
 ## Overview
 

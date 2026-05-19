@@ -15,7 +15,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Sacred Mushroom Hypothesis
+## Sacred Mushroom Hypothesis
 
 John Marco Allegro's controversial 1970 theory that Christianity originated from a fertility cult centered on the psychoactive *[[amanita-muscaria]]* mushroom.
 

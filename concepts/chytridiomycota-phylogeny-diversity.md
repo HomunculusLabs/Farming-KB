@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Chytridiomycota Phylogeny and Diversity
+## Chytridiomycota Phylogeny and Diversity
 
 The Chytridiomycota represents the most basal lineage of the
 Kingdom [[anaerobic-gut-fungi]]

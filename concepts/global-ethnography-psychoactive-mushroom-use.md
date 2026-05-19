@@ -4,7 +4,7 @@ source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
 
-# Global Ethnography of Psychoactive Mushroom Use
+## Global Ethnography of Psychoactive Mushroom Use
 
 Psychoactive mushroom use extends far beyond the well-known Mexican mushroom cults. From ancient Saharan rock art dating to 7,000 B.C. to modern tourist mushroom omelettes in Bali, psilocybin-containing mushrooms have been discovered, used, and incorporated into cultural practices on every inhabited continent. This page documents the global spread of psychoactive mushroom knowledge and usage patterns as compiled by [[jochen-gartz]] from ethnographic, mycological, and medical literature.
 

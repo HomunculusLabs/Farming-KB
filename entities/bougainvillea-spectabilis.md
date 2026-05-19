@@ -13,7 +13,7 @@ sources:
   - "Naik, R.R. et al. (2012). \"Phytochemical and pharmacological review of Bougainvillea spectabilis.\" Int. J. PharmTech Res., 4(4), 1723–1728."
 ---
 
-# Bougainvillea spectabilis (Great Bougainvillea)
+## Bougainvillea spectabilis (Great Bougainvillea)
 
 ## Overview
 

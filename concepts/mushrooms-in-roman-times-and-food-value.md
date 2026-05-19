@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushrooms in Roman Times and Food Value
+## Mushrooms in Roman Times and Food Value
 
 ## Overview
 

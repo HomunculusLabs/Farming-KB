@@ -20,7 +20,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Victorian Mycology and the Discovery of Psilocybin Mushrooms
+## Victorian Mycology and the Discovery of Psilocybin Mushrooms
 
 The Victorian era (1837-1901) was a pivotal period in the history of mycology. The systematic study of fungi as distinct species, the founding of mycological societies, and the first encounters with psychoactive mushroom effects all occurred during this period, as documented extensively by Andy Letcher in "Shroom" (2006).
 

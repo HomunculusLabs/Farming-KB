@@ -7,7 +7,7 @@ tags: [fungi, biology, ecology, health, academia, plants, troubleshooting]
 sources: []
 ---
 
-# Fungal Parasites and Pathogens
+## Fungal Parasites and Pathogens
 
 Fungal parasites are fungi that obtain nutrients from living hosts, causing disease. They represent some of the most devastating organisms on Earth — fungal pathogens of crops cause billions of dollars in annual losses, and human fungal infections kill more people each year than malaria or tuberculosis.
 

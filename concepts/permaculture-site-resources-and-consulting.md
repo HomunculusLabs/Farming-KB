@@ -4,7 +4,7 @@ source: "bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
-# Permaculture Site Resources and Consulting
+## Permaculture Site Resources and Consulting
 
 [[permaculture]] site design begins with a thorough inventory of available resources—both
 intrinsic to the land and extrinsic to the surrounding district. As a consultant, your

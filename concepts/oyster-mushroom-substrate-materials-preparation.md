@@ -4,7 +4,7 @@ source: unknown-oyster-mushroom-cultivation.md
 topics: [oyster-mushroom, substrate, straw, sawdust, bagasse, cultivation, pleurotus]
 ---
 
-# Oyster Mushroom Substrate Materials and Preparation
+## Oyster Mushroom Substrate Materials and Preparation
 
 ## From the Mushroom Growers' Handbook 1
 

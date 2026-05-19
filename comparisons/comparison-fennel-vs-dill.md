@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Fennel vs Dill
+## Fennel vs Dill
 
 Both fennel (*Foeniculum vulgare*) and dill (*Anethum graveolens*) belong to the Apiaceae (umbellifer) family, share feathery foliage, and produce umbrella-shaped flower clusters. Despite their visual similarities, they differ markedly in flavor chemistry, growth habit, [[limonene]]. Dill weed (fresh foliage) pairs with fish, potatoes, and pickles. Dill seed is warmer and more camphoraceous than the foliage, essential in pickling brines, rye breads, and some curry blends.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Lewis Lewin, Peyote, and the Birth of Psychopharmacology
+## Lewis Lewin, Peyote, and the Birth of Psychopharmacology
 
 The modern era of psychopharmacology's interest in the aboriginal use of hallucinogenic plants dates to only a century before McKenna wrote, beginning
 with the work of German pharmacologist Lewis

@@ -8,7 +8,7 @@ tags: [psychedelics, psychotherapy, history, clinical-research]
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Psychedelic Psychotherapy Clinical History
+## Psychedelic Psychotherapy Clinical History
 
 The clinical use of psychedelic [[stanislav-grof]], working within this model, made the startling discovery that in such a
 series involving increasing doses there could be an even deeper psychic opening -- to

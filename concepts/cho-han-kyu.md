@@ -11,7 +11,7 @@ tags:
   - permaculture
 ---
 
-# Dr. Cho Han Kyu
+## Dr. Cho Han Kyu
 
 Dr. Cho Han Kyu (also known as Cho Han-kyu) was a South Korean agricultural scientist and the founder of **Global [[fukuoka-do-nothing-farming-philosophy-and-practice]] and practice.
 

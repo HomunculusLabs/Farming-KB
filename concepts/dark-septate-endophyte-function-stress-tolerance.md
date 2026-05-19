@@ -15,7 +15,7 @@ sources:
   - Addy HD, Piercey MM, Currah RS (2005). "Microfungal endophytes in roots." Canadian Journal of Botany, 83(1), 1-13.
   - Knapp DG, Pintado A, Santos PM (2018). "Dual colonization of plants by arbuscular-mycorrhizal-fungi and dark septate endophytes." In Mycorrhizal Fungi, Springer.---
 
-# Dark Septate Endophyte Function in Plant Stress Tolerance
+## Dark Septate Endophyte Function in Plant Stress Tolerance
 
 Dark septate endophytes (DSE) are a polyphyletic group of melanized fungi that colonize plant roots asymptomatically. They are found in over 600 plant species across ecosystems ranging from arctic tundra to tropical forests, and from semiarid grasslands to heavy-metal-contaminated soils.
 

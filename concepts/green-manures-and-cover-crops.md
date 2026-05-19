@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Green Manures and Cover Crops
+## Green Manures and Cover Crops
 
 Green manures and [[cover-crops]] are interchangeable terms for growing something whose sole purpose is enriching the soil. A well-managed cover crop program is perhaps the strongest proof of a skilled gardener — even more so than large, healthy vegetable plants. However, cover cropping can be tricky and even hazardous if not done correctly.
 

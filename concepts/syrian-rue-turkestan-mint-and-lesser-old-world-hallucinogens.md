@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Syrian Rue, Turkestan Mint, and Lesser Old World Hallucinogens
+## Syrian Rue, Turkestan Mint, and Lesser Old World Hallucinogens
 
 Beyond the well-known fly agaric, cannabis, and [[lycanthropy-solanaceous-hallucinogens]], the Old World harbors several lesser-known psychoactive plants that have played important roles in traditional medicine and indigenous practices. This page covers Syrian rue, Turkestan mint, kanna, agara, kwashi, and galanga — minor Old World hallucinogens documented in the ethnobotanical literature.
 

@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [epidemiology, prevalence, europe, hallucinogenic-mushrooms, emcdda, drug-use]
 ---
 
-# European Prevalence and Patterns of Magic Mushroom Use
+## European Prevalence and Patterns of Magic Mushroom Use
 
 ## Overview
 

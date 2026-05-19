@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Factory Livestock Farming Abuses and the Case for Natural Grazing
+## Factory Livestock Farming Abuses and the Case for Natural Grazing
 
 ## Overview
 

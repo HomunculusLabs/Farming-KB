@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Poultry Forage Species Compendium
+## Poultry Forage Species Compendium
 
 This compendium completes the annotated species list of plants known to be useful as poultry forage, organized by functional category. It represents one of the most comprehensive poultry forage references in permaculture literature.
 

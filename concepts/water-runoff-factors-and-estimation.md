@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Runoff Factors and Estimation
+## Water Runoff Factors and Estimation
 
 Water runoff is a critical factor in landscape design, particularly in arid and semi-arid regions where the balance between water capture and erosion determines the viability of agricultural and ecological systems. Understanding the factors that influence runoff allows designers to estimate water availability, plan storage systems, and implement strategies that convert destructive overland flow into productive infiltration.
 

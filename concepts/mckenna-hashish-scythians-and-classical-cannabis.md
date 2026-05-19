@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hashish, the Scythians, and Classical Cannabis
+## Hashish, the Scythians, and Classical Cannabis
 
 ## The Nature of Hashish
 

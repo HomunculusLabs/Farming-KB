@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Rivea corymbosa
+## Rivea corymbosa
 
 **Rivea corymbosa**, commonly known as **Ololiuqui**, is a woody climbing vine in the [[turbina-corymbosa]] for additional information under that name.
 

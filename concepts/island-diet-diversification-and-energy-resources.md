@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Island Diet Diversification and Energy Resources
+## Island Diet Diversification and Energy Resources
 
 Small island systems present some of the most constrained and therefore most instructive challenges for [[ebb-and-flow]] of the tide. Both conventional propeller-type designs and vertical-axis "egg-beater" catenary-curve turbines can be anchored using local coral aggregate and cement at strategic reef channels where flow is concentrated.
 

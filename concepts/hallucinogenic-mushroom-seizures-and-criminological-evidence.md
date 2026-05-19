@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Seizures and Criminological Evidence in Europe
+## Hallucinogenic Mushroom Seizures and Criminological Evidence in Europe
 
 ## Overview
 

@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Fungal Culture Media
+## Fungal Culture Media
 
 Fungal culture media are formulated substrates used to isolate, cultivate, maintain, and study fungi in the laboratory. Media selection is critical for successful isolation and depends on the nutritional requirements and ecological characteristics of the target fungi. This reference covers the major media types and their applications.
 

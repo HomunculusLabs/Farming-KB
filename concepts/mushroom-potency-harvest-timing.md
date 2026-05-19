@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Potency and Harvest Timing
+## Mushroom Potency and Harvest Timing
 
 ## Overview
 

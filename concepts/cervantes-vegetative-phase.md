@@ -8,7 +8,7 @@ tags: [cannabis]
 updated: 2026-04-26
 ---
 
-# Vegetative Growth Phase
+## Vegetative Growth Phase
 
 The vegetative growth stage is the foundational period of [[green-cannabis-grow-bible-vegetative-phase-management]]. A plant stunted now could take weeks to resume normal growth. A strong, unrestricted root system is essential to supply the much-needed water and nutrients. The larger a plant gets and the bigger the root system, the faster the soil will dry out.
 

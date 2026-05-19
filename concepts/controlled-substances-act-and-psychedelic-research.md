@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# Controlled Substances Act and Psychedelic Research
+## Controlled Substances Act and Psychedelic Research
 
 **Source:** PiHKAL [[dmt-containing-plants-united-states-halpern]] to this day. By placing most classical psychedelics in Schedule I, the CSA effectively ended legitimate human research for nearly three decades and created the legal environment described in the [[psychedelic-research-timeline]] shows a dramatic gap in published studies from the early 1970s through the late 1990s.
 

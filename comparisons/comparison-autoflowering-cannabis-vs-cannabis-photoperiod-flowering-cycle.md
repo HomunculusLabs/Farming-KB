@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Autoflowering Cannabis vs Photoperiod Flowering
+## Autoflowering Cannabis vs Photoperiod Flowering
 
 ## Overview
 The two primary flowering strategies in cannabis are autoflowering (age-

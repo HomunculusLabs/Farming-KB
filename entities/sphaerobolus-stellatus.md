@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Sphaerobolus stellatus
+## Sphaerobolus stellatus
 
 **Sphaerobolus stellatus**, commonly known as the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 

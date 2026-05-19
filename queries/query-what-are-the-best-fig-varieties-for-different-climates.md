@@ -14,7 +14,7 @@ sources:
 type: query
 ---
 
-# What Are the Best Fig Varieties for Different Climates?
+## What Are the Best Fig Varieties for Different Climates?
 
 Figs (Ficus carica) are among the easiest fruit trees to grow once you match the right variety to your climate. This FAQ covers the best varieties for each major climate zone, key selection factors, and practical growing tips.
 

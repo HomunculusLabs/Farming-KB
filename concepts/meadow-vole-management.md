@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Meadow Vole Management
+## Meadow Vole Management
 
 Meadow voles (*Microtus pennsylvanicus*) are the single most significant winter pest in unheated greenhouses. [[eliot-coleman]] identifies them as "chubby, extra-furry mice" that can cause serious damage to winter crops and greenhouse infrastructure when left unchecked. They represent a persistent challenge in any system that moves greenhouses onto field sites, as the voles are often already established in the soil before the structure arrives.
 

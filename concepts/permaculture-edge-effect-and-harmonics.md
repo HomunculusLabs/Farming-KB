@@ -4,7 +4,7 @@ source: "bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
-# Permaculture Edge Effect and Harmonics
+## Permaculture Edge Effect and Harmonics
 
 The [[edge-effect]] is one of the most powerful principles in [[permaculture-design]]. It describes the phenomenon where the interface between two distinct ecosystems, media, or conditions produces conditions of heightened productivity, diversity, and energy exchange. Understanding and deliberately designing for edge is a hallmark of mature permaculture practice.
 

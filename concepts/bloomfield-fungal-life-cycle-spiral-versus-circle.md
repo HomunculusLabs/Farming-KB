@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Fungal Life Cycles as Spirals Rather Than Circles
+## Fungal Life Cycles as Spirals Rather Than Circles
 
 The conventional representation of life cycles as circular diagrams
 is deeply ingrained in biology education, but [[biodiversity-rust-fungi-urediniomycetes]] and other organisms with

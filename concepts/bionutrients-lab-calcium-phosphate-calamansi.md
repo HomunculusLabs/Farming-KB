@@ -6,7 +6,7 @@ type: concept
 tags: [knf, natural-farming, bionutrients, calcium-phosphate, nutriotperiodism, changeover, flowering]
 sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
-# Bionutrients Lab — Calcium Phosphate
+## Bionutrients Lab — Calcium Phosphate
 
 **Updated:** 2026-04-24
 

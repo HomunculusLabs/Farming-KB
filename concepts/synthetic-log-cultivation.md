@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [synthetic-data, reasoning-traces, llm-training, self-improvement]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
+sources: ["raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"]
 type: concept
 ---
 
-# Synthetic [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]] is the systematic practice of generating, curating,
+## Synthetic [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]] is the systematic practice of generating, curating,
 and repurposing model reasoning traces as training data. Rather than training
 on input-output pairs alone, the model learns from the full chain of thought
 that produced the answer. The term "cultivation" emphasizes that these logs are

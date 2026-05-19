@@ -5,7 +5,7 @@ type: entity
 tags: [yeast, basidiomycete, lignin-degrader, forest-soil, bioremediation]
 ---
 
-# Rhodosporidium lusitaniae
+## Rhodosporidium lusitaniae
 
 ## Description
 

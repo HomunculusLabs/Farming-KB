@@ -7,7 +7,7 @@ tags: [cannabis, lungs, pulmonary, smoking, vaporizer, COPD, cannabis-cancer, re
 aliases: [cannabis-lung-health, cannabis-smoking-effects, cannabis-respiratory]
 ---
 
-# Cannabis Smoking and Pulmonary Health — Evidence Review
+## Cannabis Smoking and Pulmonary Health — Evidence Review
 
 The question of whether cannabis [[cannabis-sativa-vs-indica-therapeutic-differences]] smoking and lung function over an extended period. The study found that cannabis-only smoking was not associated with the development of chronic obstructive pulmonary disease (COPD), emphysema, or lung cancer. Remarkably, the researchers observed that moderate cannabis-only smokers showed evidence of **mildly improved lung function** compared to non-smokers, a finding consistent with the bronchodilatory properties of THC.
 

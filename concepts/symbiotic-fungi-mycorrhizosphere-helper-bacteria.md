@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
 
-# Mycorrhizosphere Bacteria and Mycorrhiza Helper Bacteria
+## Mycorrhizosphere Bacteria and Mycorrhiza Helper Bacteria
 
 The mycorrhizosphere is the soil volume influenced by mycorrhizal fungal
 hyphae, analogous to the rhizosphere around plant roots. Because

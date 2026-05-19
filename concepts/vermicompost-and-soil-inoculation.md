@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Vermicompost and Soil Inoculation
+## Vermicompost and Soil Inoculation
 
 Vermicompost is organic material that has been processed through earthworms, producing castings rich in bacteria and plant-available nutrients. Unlike [[thermophilic-composting]], vermicomposting occurs at ambient temperatures (since heat would kill the worms), relying on the digestive systems of earthworms and their associated bacteria to transform organic waste into a biologically active soil amendment. Along with traditional compost, vermicompost serves as a primary tool for inoculating soils with beneficial [[soil-food-web]] organisms.
 

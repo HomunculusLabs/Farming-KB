@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Yield Extension and Storage Strategies
+## Yield Extension and Storage Strategies
 
 In conventional agriculture, yield is concentrated into short harvest windows — a "feast and famine" regime that creates market gluts, storage crises, and periods of scarcity. [[ecological-niche]] they occupied is filled by less desirable species. Pigeons forage streets, gulls defecate in city reservoirs, rats proliferate in garbage, and pest species multiply without competition. The refusal to integrate productive animals into human settlements is a cultural impediment that reduces both food security and ecological health.
 

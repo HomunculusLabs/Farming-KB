@@ -1,4 +1,8 @@
-# Suppressed Incomplete Fruit Body Formation by Brassinosteroid Treatment
+---
+title: "Suppressed Incomplete Fruit Body Formation by Brassinosteroid Treatment"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]]
 - [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
 - [[incomplete-fruit-body-suppression-brassinosteroid-cultivation]]
-- [[incomplete-fruit-body-suppression-brassinosteroid-mushroom-cultivation]]

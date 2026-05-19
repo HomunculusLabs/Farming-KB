@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Growing Chicories - Endive Escarole and Radicchio
+## Growing Chicories - Endive Escarole and Radicchio
 
 Updated: 2026-04-18
 

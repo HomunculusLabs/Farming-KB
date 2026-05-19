@@ -1,4 +1,8 @@
-# Pioneer Species in Permaculture Design
+---
+title: "Pioneer Species in Permaculture Design"
+tags:
+  - concept
+---
 
 Pioneer species are the first plants to colonize disturbed, degraded, or bare land in
 nature's process of [[permaculture-design]], designers

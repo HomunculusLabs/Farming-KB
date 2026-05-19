@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# LSD (Lysergic Acid Diethylamide)
+## LSD (Lysergic Acid Diethylamide)
 
 ## Overview
 

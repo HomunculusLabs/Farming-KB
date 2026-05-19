@@ -4,7 +4,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Fungal Tropic Responses
+## Fungal Tropic Responses
 
 Fungal tropic responses are directional growth movements by which mushrooms and other
 fungi orient their structures in response to environmental stimuli. These responses are

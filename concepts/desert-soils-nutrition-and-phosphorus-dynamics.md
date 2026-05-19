@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert [[calcium-phosphate]] compounds |
+## Desert [[calcium-phosphate]] compounds |
 | **General arid soils** | Deficient except in humus, forests, and pond silt |
 
 ### Phosphorus Availability Strategies

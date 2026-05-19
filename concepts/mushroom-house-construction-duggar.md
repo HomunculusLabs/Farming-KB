@@ -6,7 +6,7 @@ type: concept
 tags: [mushroom-cultivation, fruiting-chamber, equipment, construction]
 sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 ---
-# Mushroom House Construction — Double Walls, Beds, and Ventilation (Duggar)
+## Mushroom House Construction — Double Walls, Beds, and Ventilation (Duggar)
 Updated: 2026-04-18
 Source: [[duggar-mushroom-growing-history-and-methods]]* (1915), Chapters on
 mushroom house construction.

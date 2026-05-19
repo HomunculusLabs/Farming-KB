@@ -5,7 +5,7 @@ type: entity
 tags: [person, psychologist, philosopher, sex-politics]
 ---
 
-# Wilhelm Reich
+## Wilhelm Reich
 
 ## Description
 

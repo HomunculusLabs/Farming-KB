@@ -7,7 +7,7 @@ tags: [homesteading, sustainability, engineering, construction, beginner]
 sources: []
 ---
 
-# Homestead Energy Conservation
+## Homestead Energy Conservation
 
 Energy conservation is the practice of reducing energy consumption through design, efficiency improvements, and behavioral changes. For off-grid or grid-tied homesteaders, conservation is the first and most cost-effective strategy — every watt saved is a watt that doesn't need to be generated, stored, or purchased. The cheapest energy is the energy you never use.
 

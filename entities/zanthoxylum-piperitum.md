@@ -16,7 +16,7 @@ sources:
   - Kashiwada, Y. et al. (1997). "Antioxidants from the pericarp of Zanthoxylum piperitum." Phytochemistry, 44(6), 1125–1127.
 ---
 
-# Zanthoxylum piperitum
+## Zanthoxylum piperitum
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Food and Human Health
+## Food and Human Health
 
 For Masanobu Fukuoka, the connection between farming practices and human health was not abstract but immediate and direct. His [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. They retain the full spectrum of compounds that nature intended.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Time, Yield, and Ecological Succession
+## Time, Yield, and Ecological Succession
 
 ## Overview
 

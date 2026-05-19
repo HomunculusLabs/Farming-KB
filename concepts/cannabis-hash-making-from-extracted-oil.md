@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Hash Making from Extracted Oil
+## Cannabis Hash Making from Extracted Oil
 
 "[[cervantes-hash-cannabis-oil-production]] into hashish of varying quality. These methods go beyond traditional [[cannabis-hashish-guide]]
 

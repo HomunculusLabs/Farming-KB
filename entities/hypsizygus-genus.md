@@ -5,7 +5,7 @@ type: entity
 tags: [mushroom, genus, cultivation, medicinal, brown-rot]
 ---
 
-# Hypsizygus (Genus)
+## Hypsizygus (Genus)
 
 ## Description
 

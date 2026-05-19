@@ -7,7 +7,7 @@ tags: [energy, construction, homesteading, off-grid, safety, sustainability]
 sources: []
 ---
 
-# Rocket Mass Heater Design
+## Rocket Mass Heater Design
 
 A rocket mass heater (RMH) is a highly efficient wood-burning heating system that uses a J-shaped combustion chamber to achieve near-complete combustion of wood, followed by a thermal mass bench that absorbs and slowly radiates heat for many hours. RMHs typically use 75-90% less wood than conventional wood stoves while producing far less smoke and pollution.
 

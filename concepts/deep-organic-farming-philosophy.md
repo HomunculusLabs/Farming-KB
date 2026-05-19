@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Deep-Organic Farming Philosophy
+## Deep-Organic Farming Philosophy
 
 ## Overview
 

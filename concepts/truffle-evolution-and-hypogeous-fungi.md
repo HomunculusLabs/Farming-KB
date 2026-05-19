@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
-# Truffle Evolution and Hypogeous Fungi Truffles and other hypogeous (underground) fungi represent one of the most remarkable evolutionary transitions in the fungal kingdom — the shift from above-ground, wind-dispersed spore release to below-ground fruiting with animal-mediated spore dispersal. As discussed in Nicholas Money's Mr. Bloomfield's Orchard, this transition occurred independently multiple times and is intimately linked to the evolution of mycorrhizal-symbiosis with forest trees. See also [[psilocybin-north-america-pacific-northwest]] and are important food sources for forest mammals. The repeated evolution of the truffle form underscores the strong selective advantage of animal-mediated dispersal in forest ecosystems.
+## Truffle Evolution and Hypogeous Fungi Truffles and other hypogeous (underground) fungi represent one of the most remarkable evolutionary transitions in the fungal kingdom — the shift from above-ground, wind-dispersed spore release to below-ground fruiting with animal-mediated spore dispersal. As discussed in Nicholas Money's Mr. Bloomfield's Orchard, this transition occurred independently multiple times and is intimately linked to the evolution of mycorrhizal-symbiosis with forest trees. See also [[psilocybin-north-america-pacific-northwest]] and are important food sources for forest mammals. The repeated evolution of the truffle form underscores the strong selective advantage of animal-mediated dispersal in forest ecosystems.
 
 ## Ascobolus and Evolutionary Insights
 

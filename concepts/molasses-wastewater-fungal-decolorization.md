@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Molasses Wastewater Fungal Decolorization
+## Molasses Wastewater Fungal Decolorization
 
 Molasses, a waste product from sugar refining, is widely used as a
 fermentation feedstock for the production of yeast, alcohol, and other

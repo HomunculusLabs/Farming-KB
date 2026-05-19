@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Cider vs Mead Making
+## Cider vs Mead Making
 
 Cider and mead are two of the oldest and most accessible fermented beverages a homesteader can produce. Both are simpler than [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] project for your season, available inputs, and patience level.
 

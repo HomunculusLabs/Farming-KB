@@ -9,7 +9,7 @@ type: concept
 tags: [composting]
 ---
 
-# Compost Tea Ingredients and Recipes (Ingham Field Guide)
+## Compost Tea Ingredients and Recipes (Ingham Field Guide)
 
 The Ingham Field Guide provides extensive guidance on selecting ingredients for AACT, emphasizing that the choice of foods determines whether the brew will be bacterial-dominated, fungal-dominated, or balanced.
 

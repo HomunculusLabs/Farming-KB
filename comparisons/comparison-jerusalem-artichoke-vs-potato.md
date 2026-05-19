@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
-# Jerusalem Artichoke vs Potato
+## Jerusalem Artichoke vs Potato
 
 ## Overview
 

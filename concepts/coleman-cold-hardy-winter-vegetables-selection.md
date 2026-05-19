@@ -7,7 +7,7 @@ type: concept
 tags: [winter-farming, cold-hardy-vegetables, winter-crops, coleman, season-extension, vegetable-selection]
 ---
 
-# Coleman Cold-Hardy Winter Vegetables Selection and Characteristics
+## Coleman Cold-Hardy Winter Vegetables Selection and Characteristics
 
 ## Overview
 

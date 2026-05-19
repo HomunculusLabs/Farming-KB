@@ -6,7 +6,7 @@ topics: compost tea, AACT, seaweed, kelp, aact-brewing-ingredients-ingham, kelp,
 created: 2026-05-10
 ---
 
-# Fresh Seaweed and Kelp as AACT Brewing Ingredients
+## Fresh Seaweed and Kelp as AACT Brewing Ingredients
 
 ## Overview
 

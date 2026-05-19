@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and GERD (Gastro-Esophageal Reflux Disease)
+## Cannabis and GERD (Gastro-Esophageal Reflux Disease)
 
 **Source:** [[blesching-cannabis-health-index-autoimmune-conditions]]
 

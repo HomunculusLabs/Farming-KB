@@ -20,7 +20,7 @@ sources:
 created: 2026-05-07
 ---
 
-# William James and the Multiple Forms of Consciousness
+## William James and the Multiple Forms of Consciousness
 
 ## The Foundational Quote
 

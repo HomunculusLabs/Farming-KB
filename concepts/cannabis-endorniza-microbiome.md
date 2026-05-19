@@ -6,7 +6,7 @@ tags: [cannabis, microbiome, endophytes, endorhiza, root-bacteria]
 aliases: endorhiza-endophytic-bacteria
 ---
 
-# Cannabis Endorhiza Microbiome
+## Cannabis Endorhiza Microbiome
 
 ## Overview
 

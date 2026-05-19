@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Vilca, Sebil, Genista, and Minor New World Narcotic Plants
+## Vilca, Sebil, Genista, and Minor New World Narcotic Plants
 
 Beyond the major [[new-world-hallucinogens-overview-and-ethnobotanical-context]] — peyote, mushrooms, ayahuasca, and San Pedro — a number of lesser-known plants have been used for their psychoactive properties by indigenous peoples. Many of these plants remain poorly characterized chemically, and in some cases their hallucinogenic status is inferred from ethnographic accounts rather than confirmed by modern pharmacology. This page covers vilca, sebil, genista, and several other minor New World narcotic plants.
 

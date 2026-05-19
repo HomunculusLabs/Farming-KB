@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Potassium in Plant Nutrition — The Quality Nutrient
+## Potassium in Plant Nutrition — The Quality Nutrient
 
 Potassium (K) is the third major plant nutrient in the N-P-K trio. Unlike nitrogen and phosphorus, potassium is not incorporated into any organic molecules in the plant — it remains as a soluble ion. Despite this, it is essential for numerous physiological processes that determine crop quality and stress resistance.
 

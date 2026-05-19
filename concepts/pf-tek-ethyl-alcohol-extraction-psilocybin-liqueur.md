@@ -1,4 +1,8 @@
-# PF TEK Ethyl Alcohol Extraction and Psilocybin Liqueur
+---
+title: "PF TEK Ethyl Alcohol Extraction and Psilocybin Liqueur"
+tags:
+  - concept
+---
 
 ## Overview
 

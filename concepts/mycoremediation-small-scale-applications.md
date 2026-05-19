@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycoremediation: Small-Scale Applications
+## Mycoremediation: Small-Scale Applications
 
 Mycoremediation—the use of fungi to break down environmental and industrial pollutants—encompasses approaches ranging from industrial cleanup of PCBs and oil spills to simple home-scale projects that anyone can implement. This concept covers the fundamental mechanisms of mycoremediation and practical small-scale applications for managing pet waste, poultry operations, and residential runoff.
 

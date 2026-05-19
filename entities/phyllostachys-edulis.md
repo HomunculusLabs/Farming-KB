@@ -25,7 +25,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Phyllostachys edulis
+## Phyllostachys edulis
 
 **Moso bamboo**, **Mao bamboo**, **Chinese timber bamboo**
 

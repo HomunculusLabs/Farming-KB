@@ -7,7 +7,7 @@ tags: [psychopharmacology, psychedelics, neuroscience, consciousness, effects]
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# The Tryptamine Logos
+## The Tryptamine Logos
 
 ## Overview
 

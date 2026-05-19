@@ -5,7 +5,7 @@ type: entity
 tags: [concept, aquaculture, water-chemistry, temperature, permaculture]
 ---
 
-# Thermocline (Aquatic Temperature Gradient)
+## Thermocline (Aquatic Temperature Gradient)
 
 ## Description
 A thermocline is a thin but distinct layer in a body of water where temperature changes more rapidly with depth than in the layers above or below it. In [[permaculture]] aquaculture, thermoclines are important features that influence fish behaviour, species distribution, and pond design. Understanding thermoclines enables designers to create refuges and optimise conditions for target species within pond systems.

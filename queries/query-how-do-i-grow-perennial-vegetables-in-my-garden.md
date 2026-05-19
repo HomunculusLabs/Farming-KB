@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How do I grow perennial vegetables in my garden?
+## How do I grow perennial vegetables in my garden?
 
 ## Short Answer
 

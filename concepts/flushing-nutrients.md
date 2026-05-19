@@ -8,7 +8,7 @@ type: concept
 tags: [nutrients]
 ---
 
-# Flushing Nutrients
+## Flushing Nutrients
 
 Flushing (also called leaching) is the practice of running plain water or a mild
 clearing solution through the growing medium to remove excess fertilizer salts and

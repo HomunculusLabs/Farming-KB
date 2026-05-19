@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, inflammation]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis for Inflammatory Conditions
+## Cannabis for Inflammatory Conditions
 
 Cannabis has significant anti-inflammatory properties mediated primarily through CB2 receptor activation and modulation of the immune system. Both THC and CBD contribute, along with terpenes like beta-caryophyllene (a natural CB2 agonist).
 

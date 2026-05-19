@@ -14,7 +14,7 @@ sources:
   - "raw/papers/mushrooms-poisionous-fungi-by-john-ramsbottom-1945.md"
 ---
 
-# Amanita verna
+## Amanita verna
 
 **Amanita verna** (Bull.) Lam., commonly known as the **fool's mushroom** or **spring
 [[palmer-poisonous-mushrooms-deadly-species]] in the world. It is a member

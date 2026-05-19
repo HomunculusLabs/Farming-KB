@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Pest Management Without Chemicals
+## Pest Management Without Chemicals
 
 ## Gardening Aikido
 

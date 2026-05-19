@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pattern Applications in Permaculture Design
+## Pattern Applications in Permaculture Design
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Citizen Science and Fungal Biodiversity Discovery
+## Citizen Science and Fungal Biodiversity Discovery
 
 The vast majority of described fungal species have been documented by
 professional mycologists, yet the scale of [[psilocybe-global-biodiversity-hotspots]] Information Facility (GBIF)

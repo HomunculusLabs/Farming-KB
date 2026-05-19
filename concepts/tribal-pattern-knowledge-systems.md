@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Pattern Knowledge Systems
+## Tribal Pattern Knowledge Systems
 
 Tribal peoples worldwide have developed extraordinarily sophisticated pattern-based knowledge systems that encode vast quantities of information in apparently simple forms — tattoos, carvings, sand drawings, songs, dances, and woven textiles. These systems constitute valid literatures and accurate recording methods that Western cultures have largely dismissed.
 

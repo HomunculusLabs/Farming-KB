@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/shulgin-a-tihkal.md"
 ---
 
-# Ephedrine
+## Ephedrine
 
 Ephedrine is a naturally occurring alkaloid and sympathomimetic amine
 found primarily in plants of the Ephedra genus (Ephedraceae). It has

@@ -5,7 +5,7 @@ tags: [mycology, melanin, UV-protection, stress-resistance, rock-inhabiting-fung
 source: "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
 ---
 
-# [[enzymatic-degradation-in-mycoremediation]], and predation. It
+## [[enzymatic-degradation-in-mycoremediation]], and predation. It
 is one of the most important adaptations that allows fungi to colonize
 some of the harshest environments on Earth, from exposed rock surfaces
 to the interiors of living hosts.

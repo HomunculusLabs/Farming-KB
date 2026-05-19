@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 type: query
 ---
-# How Do I Use Comfrey in the Garden?
+## How Do I Use Comfrey in the Garden?
 ## Short Answer
 Comfrey (Symphytum officinale and S. x uplandicum) is a powerhouse permaculture plant used as a [[jadam-liquid-fertilizer-nutritional-perspective]] tea, and as a compost accelerator.
 Its deep taproot draws potassium, phosphorus, calcium, and other minerals from subsoil layers into its leaves, which can contain up to 3 times more potassium than farmyard manure.

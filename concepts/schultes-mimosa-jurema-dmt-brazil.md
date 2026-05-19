@@ -5,12 +5,11 @@ tags: [jurema, dmt, mimosa-hostilis, brazil, ayahuasca-analog,
   vinho-de-jurema, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
-# Mimosa Jurema: DMT Tree of Northeastern Brazil
+## Mimosa Jurema: DMT Tree of Northeastern Brazil
 
 ## Overview
 

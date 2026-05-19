@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Rhizosphere Fungal Community Analysis Using rRNA and rDNA
+## Rhizosphere Fungal Community Analysis Using rRNA and rDNA
 
 ## Overview
 

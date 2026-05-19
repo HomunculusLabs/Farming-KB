@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Potassium (K)
+## Cannabis Potassium (K)
 
 ## Overview
 

@@ -1,23 +1,23 @@
 ---
-title: "Salvia salvia-divinorum-and-salvinorin-a"
+title: "Salvia Divinorum And Salvinorin"
 subtitle: ""The Mazatec diviner sage, its unusual diterpene chemistry, and modern ""
 tags: [salvia, ethnobotany, psychedelics, pharmacology, mazatec, harm-reduction, botany]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/concepts/salvia-divinorum.md
-  - /Users/t3rpz/wiki/concepts/salvia-divinorum-profile.md
-  - /Users/t3rpz/wiki/concepts/salvia-divinorum-and-salvinorin-a.md
-  - /Users/t3rpz/wiki/concepts/salvinorin-pharmacology.md
-  - /Users/t3rpz/wiki/concepts/salvinorin-reference.md
-  - /Users/t3rpz/wiki/concepts/plants-of-the-gods-salvia-divinorum-diviners-sage.md
-  - /Users/t3rpz/wiki/concepts/schultes-salvia-divinorum.md
-  - /Users/t3rpz/wiki/concepts/schultes-salvia-diviners-sage.md
-  - /Users/t3rpz/wiki/concepts/hofmann-salvia-divinorum-discovery.md
-  - /Users/t3rpz/wiki/concepts/golden-guide-salvia-divinorum-and-diviner-sage.md
-  - /Users/t3rpz/wiki/concepts/mazatec-mushroom-tradition.md
-  - /Users/t3rpz/wiki/concepts/mazatec-mushroom-culture-and-velada.md
-  - /Users/t3rpz/wiki/concepts/maria-sabina-velada-songs-and-mazatec-healing.md
+  - raw/concepts/salvia-divinorum.md
+  - raw/concepts/salvia-divinorum-profile.md
+  - raw/concepts/salvia-divinorum-and-salvinorin-a.md
+  - raw/concepts/salvinorin-pharmacology.md
+  - raw/concepts/salvinorin-reference.md
+  - raw/concepts/plants-of-the-gods-salvia-divinorum-diviners-sage.md
+  - raw/concepts/schultes-salvia-divinorum.md
+  - raw/concepts/schultes-salvia-diviners-sage.md
+  - raw/concepts/hofmann-salvia-divinorum-discovery.md
+  - raw/concepts/golden-guide-salvia-divinorum-and-diviner-sage.md
+  - raw/concepts/mazatec-mushroom-tradition.md
+  - raw/concepts/mazatec-mushroom-culture-and-velada.md
+  - raw/concepts/maria-sabina-velada-songs-and-mazatec-healing.md
 related_concepts:
   - salvia-divinorum
   - salvia-divinorum-profile

@@ -7,7 +7,7 @@ tags: [wildfire, firebreak, fire-design, sector-analysis, radiation-shield, fuel
 created: 2026-05-11
 ---
 
-# Wildfire Management in Permaculture
+## Wildfire Management in Permaculture
 
 ## Fire as a Sector
 

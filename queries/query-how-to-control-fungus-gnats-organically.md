@@ -14,7 +14,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
-# How to Control Fungus Gnats Organically
+## How to Control Fungus Gnats Organically
 ## Comprehensive Guide for Indoor Gardens and Mushroom Grows
 Fungus gnats are one of the most common and frustrating pests in indoor
 gardens, greenhouses, and [[integrated-pest-management]]

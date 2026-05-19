@@ -6,7 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"] type: concept ---
 ---
-# Overlay Problems and Solutions
+## Overlay Problems and Solutions
 
 ## Overview
 

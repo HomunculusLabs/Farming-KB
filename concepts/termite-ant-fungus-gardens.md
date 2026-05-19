@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Termite and Ant Fungus Gardens — Symbiotic Cultivation
+## Termite and Ant Fungus Gardens — Symbiotic Cultivation
 
 Among the most remarkable examples of insect-fungus mutualism are the fungus gardens cultivated by termites and leaf-cutter ants. These ancient symbioses represent sophisticated agricultural systems that have evolved independently in two major insect lineages.
 

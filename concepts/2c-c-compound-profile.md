@@ -6,7 +6,7 @@ type: concept
 tags: [chemistry, 2c-family]
 sources: ["raw/papers/shulgin-a-pihkal.md"]
 ---
-# 2C-C — 2,5-Dimethoxy-4-Chlorophenethylamine
+## 2C-C — 2,5-Dimethoxy-4-Chlorophenethylamine
 
 ## Overview
 

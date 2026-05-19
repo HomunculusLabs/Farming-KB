@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka on Food Quality Decline and Petroleum Agriculture
+## Fukuoka on Food Quality Decline and Petroleum Agriculture
 
 > From "The Natural Way of Farming" by [[masanobu-fukuoka]] — the "Disappearance of a [[natural-diet]]" section.
 

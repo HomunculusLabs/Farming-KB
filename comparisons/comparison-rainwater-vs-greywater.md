@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Rainwater Harvesting vs Greywater Systems
+## Rainwater Harvesting vs Greywater Systems
 
 ## Overview
 

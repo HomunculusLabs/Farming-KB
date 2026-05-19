@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Entomopathogenic Fungi and Insect Pathogens
+## Entomopathogenic Fungi and Insect Pathogens
 
 A diverse guild of fungi obtain part or all of their nutrition by
 attacking living insects and other arthropods. These entomopathogenic

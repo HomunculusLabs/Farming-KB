@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# The Green Park Incident of 1799: First Documented Psilocybin Intoxication in Europe
+## The Green Park Incident of 1799: First Documented Psilocybin Intoxication in Europe
 
 On October 3, 1799, in London's St. James's Green Park, an impoverished family inadvertently consumed [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] ingestion alone. The fact that an eight-year-old child who ate a "large proportion" of the mushrooms recovered without lasting harm is particularly noteworthy.
 

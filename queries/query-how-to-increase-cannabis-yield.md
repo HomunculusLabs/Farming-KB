@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Increase Cannabis Yield
+## How to Increase Cannabis Yield
 
 ## Short Answer
 Increasing cannabis yield requires optimizing light intensity and coverage, training

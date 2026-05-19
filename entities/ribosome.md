@@ -5,7 +5,7 @@ type: entity
 tags: [organelle, protein-synthesis, rna, translation, plant-cell]
 ---
 
-# Ribosome
+## Ribosome
 
 ## Description
 

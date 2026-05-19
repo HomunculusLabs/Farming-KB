@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe hochetschii
+## Psilocybe hochetschii
 
 **Psilocybe hochetschii** is a rare psilocybin-containing mushroom species in the family Hymenogastraceae. It is a little-known member of the Psilocybe genus with limited documentation in the mycological literature.
 

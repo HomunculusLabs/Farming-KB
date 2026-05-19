@@ -6,7 +6,7 @@ tags: [chemistry, psilocybin, psilocin, tryptamine, alkaloid, pharmacology, myco
 aliases: [psilocybin biosynthesis, mushroom alkaloids, tryptamine chemistry in fungi, magic mushroom chemistry]
 ---
 
-# Psilocybin Chemistry in Fungi
+## Psilocybin Chemistry in Fungi
 
 The psychoactive properties of neurotropic fungi derive from several distinct classes of chemical compounds. The most significant are the **tryptamine-based indole alkaloids** ([[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]], and the **isoxazole derivatives** (ibotenic acid and muscimol), found exclusively in *Amanita* species. Understanding the chemistry of these compounds is essential for both pharmacological research and the identification of neurotropic fungal species.
 

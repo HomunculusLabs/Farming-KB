@@ -5,7 +5,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 created: 2026-05-11
 ---
 
-# PF TEK Contaminant Identification and Non-Germination Troubleshooting
+## PF TEK Contaminant Identification and Non-Germination Troubleshooting
 
 ## Overview
 

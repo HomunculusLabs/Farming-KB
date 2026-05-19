@@ -1,4 +1,8 @@
-# Ten Strategies to Reduce Fear and Anxiety [[blesching-cortisol-shame-guilt-self-worth-stress-hormone-connection|Blesching]], U. — *The [[blesching-cannabis-therapeutic-window-dosing]] concept for cannabis use.
+---
+title: "Ten Strategies to Reduce Fear and Anxiety Blesching, U. — *The blesching cannabis therapeutic window dosing concept for cannabis use."
+tags:
+  - concept
+---
 
 ---
 

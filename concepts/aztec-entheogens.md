@@ -8,7 +8,7 @@ type: concept
 tags: [entheogen]
 ---
 
-# Aztec Entheogens in Plants of the Gods
+## Aztec Entheogens in Plants of the Gods
 
 Schultes and Hofmann document the rich pharmacopoeia of psychoactive plants
 employed by the Aztec civilization of pre-Columbian Mexico. The Aztecs

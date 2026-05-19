@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Shade Systems and Canopy Architecture in Design
+## Shade Systems and Canopy Architecture in Design
 
 Mollison addresses shade as a critical design factor that affects plant
 productivity, animal comfort, building efficiency, and microclimate

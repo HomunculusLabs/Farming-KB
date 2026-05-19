@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Duboisia hopwoodii F. v. Muell.
+## Duboisia hopwoodii F. v. Muell.
 
 ## Common Names
 

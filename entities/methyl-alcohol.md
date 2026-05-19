@@ -4,7 +4,7 @@ source: field-guide-to-the-psilocybin-mushroom.md
 type: entity
 ---
 
-# Methyl Alcohol (Methanol)
+## Methyl Alcohol (Methanol)
 
 ## Description
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Invasive Species and Exotic Pathogens
+## Fungal Invasive Species and Exotic Pathogens
 
 The global movement of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and
 ecosystem structure.

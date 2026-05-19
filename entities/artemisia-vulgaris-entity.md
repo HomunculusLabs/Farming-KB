@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/a-selection-permaculture-plants.md"
 ---
 
-# Artemisia vulgaris
+## Artemisia vulgaris
 
 Artemisia vulgaris (common mugwort) is a vigorous perennial herb in the family Asteraceae, native to Europe, Asia, and North Africa. One of the most widely distributed and culturally significant medicinal plants in the Northern Hemisphere, mugwort has been used for millennia in traditional medicine, culinary applications, spiritual practices, and textile dyeing. Its allelopathic properties, rapid growth, and ability to colonize disturbed ground make it both a valuable permaculture species for dynamic accumulation and, in some contexts, an aggressive weed. The species contains thujone, a bioactive ketone with stimulant and emmenagogue properties, and a complex [[medicinal-herb-growing]] 0.5–2.5 m tall. Forms dense colonies through extensive creeping rhizomes that spread several meters from the parent plant. Stems are erect, angular, grooved, often with a distinct purplish tinge at the base. The vigorous growth habit allows quick colonization of disturbed ground, waste places, and garden margins. In permaculture systems, this growth is valued for dynamic nutrient-accumulating properties.
 

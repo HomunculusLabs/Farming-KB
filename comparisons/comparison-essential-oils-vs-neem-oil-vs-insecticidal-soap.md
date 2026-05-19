@@ -13,7 +13,7 @@ created: 2026-05-03
 type: comparison
 ---
 
-# Essential Oils vs Neem Oil vs Insecticidal Soap
+## Essential Oils vs Neem Oil vs Insecticidal Soap
 
 ## Introduction
 

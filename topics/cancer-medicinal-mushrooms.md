@@ -27,7 +27,7 @@ related_concepts:
   - cancer-medicinal-mushrooms-extraction-bioavailability
 ---
 
-# Medicinal Mushrooms in Cancer Treatment
+## Medicinal Mushrooms in Cancer Treatment
 
 [[medicinal-mushrooms]] represent one of the most clinically validated
 frontiers in complementary oncology. Unlike the speculative hype that

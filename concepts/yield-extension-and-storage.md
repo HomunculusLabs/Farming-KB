@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Yield Extension and Storage
+## Yield Extension and Storage
 
 In conventional agriculture, yields are concentrated into short harvest periods — a fiscal strategy, not an environmental or subsistence one. This "feast and famine" regime results in market gluts, field waste, and high storage costs. [[ecological-niche]] is filled by less desirable species: pigeons foraging the streets, thousands of gulls defecating in New York City reservoirs, gigantic garbage bins tipped over by large flea-ridden dogs in Los Angeles, and rats half the size of dogs tunneling under bus stops by the millions in Washington, D.C.
 

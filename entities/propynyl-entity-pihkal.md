@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# PROPYNYL
+## PROPYNYL
 
 [[scythian-cannabis-steam-bath-ritual]] for 12 h,
 after which the solvent was removed under vacuum. The residues were

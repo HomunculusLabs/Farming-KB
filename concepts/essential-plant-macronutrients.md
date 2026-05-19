@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Essential Plant Macronutrients
+## Essential Plant Macronutrients
 
 Plants require **seventeen essential elements** to complete their life cycle. These are divided into
 **macronutrients** (needed in larger quantities) and **micronutrients** (needed in trace amounts).

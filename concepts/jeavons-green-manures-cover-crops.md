@@ -5,11 +5,11 @@ tags: [biointensive, green-manures, cover-crops, nitrogen-fixation,
   soil-fertility, legumes, compost-crops]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+sources: ["raw/papers/jeavons-john-how-to-grow-more-vegetables.md"]
 type: concept
 ---
 
-# Green Manures and Cover Crops
+## Green Manures and Cover Crops
 
 Green manures are cover crops grown specifically to improve soil
 fertility. In conventional [[jeavons-grow-biointensive-method-overview]] method, green manure crops serve a

@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# Soil Types and Management
+## Soil Types and Management
 
 The soil is the basic raw material of the gardener's art. It should never
 be dismissed as a mere collection of mineral particles used to anchor

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Survey and Inventory Methodology
+## Fungal Survey and Inventory Methodology
 
 Fungal surveys and inventories are systematic efforts to document
 the species composition, abundance, and distribution of fungi in

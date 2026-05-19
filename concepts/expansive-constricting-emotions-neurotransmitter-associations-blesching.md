@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [neuroscience, emotions, neurotransmitters, endocannabinoid, psychology, mind-body, blesching, serotonin, dopamine, cortisol, oxytocin, gaba]
 ---
 
-# Expansive and Constricting Emotions - Neurotransmitter Associations
+## Expansive and Constricting Emotions - Neurotransmitter Associations
 
 ## Overview
 

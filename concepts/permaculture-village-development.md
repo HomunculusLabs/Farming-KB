@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Village Development
+## Permaculture Village Development
 
 [[permaculture]] village development joins the idea of client design work with earth repair and real estate development. Finance managers join forces with good design groups to purchase lands, capitalize them, and organize them as complexes of lake, forest, and village settlement. The world needs well-designed villages more than any other enterprise: villages to re-locate refugees from sea-level rise, villages to house people from urban slums, and villages where people of like mind can find community.
 

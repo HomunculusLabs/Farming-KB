@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, oyster-mushrooms, species, strain-selection, genetics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Oyster Mushroom Species and Strain Selection
+## Oyster Mushroom Species and Strain Selection
 
 The genus *Pleurotus* encompasses over 30 described species, many of which are
 cultivated commercially worldwide. Selecting the appropriate species and strain

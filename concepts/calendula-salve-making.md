@@ -7,7 +7,7 @@ tags: [permaculture, herbs, medicine, herbalism, calendula, thyme, natural-remed
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Calendula Salve and Herbal Remedies
+## Calendula Salve and Herbal Remedies
 
 These traditional herbal remedies were once found in almost every "home pharmacy." Because the potency of medicinal plants can vary from place to place, the recipes should be adapted. With a little experience the correct strength can easily be determined.
 

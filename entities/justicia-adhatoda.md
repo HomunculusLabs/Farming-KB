@@ -21,7 +21,7 @@ sources:
   - "Sharma, P.C. et al. (1992). \"Database on medicinal plants used in Ayurveda.\" CCRAS, New Delhi."
 ---
 
-# Justicia adhatoda
+## Justicia adhatoda
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Dowsing Plants for Health and Vitality
+## Dowsing Plants for Health and Vitality
 
 ## Overview
 

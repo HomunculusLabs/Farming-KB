@@ -4,7 +4,7 @@ source: "cotter-organic-mushroom-farming-mycoremediation.md (Chunk 47, Lines 940
 type: concept
 ---
 
-# Wood Ear and Blewit Cultivation
+## Wood Ear and Blewit Cultivation
 
 This page covers three genera of specialty mushrooms — **Agrocybe**, **Auricularia** (wood ear / tree ear), and **Clitocybe** (blewit) — with emphasis on their nutritional and medicinal properties, cultivation techniques, and mycoremediation potential.
 

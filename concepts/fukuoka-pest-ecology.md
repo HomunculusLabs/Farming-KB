@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Pest Ecology in Natural Farming
+## Pest Ecology in Natural Farming
 
 ## Insect Pests Do Not Exist
 

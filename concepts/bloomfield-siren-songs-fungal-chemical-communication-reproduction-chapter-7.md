@@ -1,4 +1,8 @@
-# Bloomfield Chapter 7: Siren Songs — Fungal Chemical Communication and the Biology of Reproduction
+---
+title: "Bloomfield Chapter 7: Siren Songs — Fungal Chemical Communication and the Biology of Reproduction"
+tags:
+  - concept
+---
 
 ## Overview
 

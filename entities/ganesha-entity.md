@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# GANESHA
+## GANESHA
 
 **[[leary-psychedelic-experience-bardo-mapping]]:
 

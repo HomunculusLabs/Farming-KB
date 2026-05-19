@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [permaculture, design-thinking, holmgren, problem-is-solution, observation, minimal-intervention, systems-thinking]
 ---
 
-# Holmgren Design Thinking Guidelines
+## Holmgren Design Thinking Guidelines
 
 ## The Two-Way Process of Observation
 

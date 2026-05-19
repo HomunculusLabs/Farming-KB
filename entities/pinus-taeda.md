@@ -15,7 +15,7 @@ sources:
   - Will, R.E. et al. (2015). "Loblolly Pine Growth and Yield." Genetics and Silviculture of Loblolly Pine. Springer.
 ---
 
-# Pinus taeda
+## Pinus taeda
 
 ## Overview
 

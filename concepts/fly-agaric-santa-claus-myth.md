@@ -8,7 +8,7 @@ type: concept
 tags: [agar]
 ---
 
-# Fly-Agaric Santa Claus Myth and Siberian Shamanism
+## Fly-Agaric Santa Claus Myth and Siberian Shamanism
 
 ## The Popular Myth
 

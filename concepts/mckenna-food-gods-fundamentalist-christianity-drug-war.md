@@ -1,5 +1,10 @@
+---
+title: "Mckenna Food Gods Fundamentalist Christianity Drug War"
+tags:
+  - concept
+---
 
-# Fundamentalist Christianity and the Drug War
+## Fundamentalist Christianity and the Drug War
 
 ## Core Argument
 

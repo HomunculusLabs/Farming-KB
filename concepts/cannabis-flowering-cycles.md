@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis [[cannabis-plant-anatomy]] for detailed morphology of cannabis
+## Cannabis [[cannabis-plant-anatomy]] for detailed morphology of cannabis
   structures
 - cannabis [[greg-green-thc-and-cannabinoid-science]] production
 - plant stress responses for how [[green-cannabis-flowering-management]]

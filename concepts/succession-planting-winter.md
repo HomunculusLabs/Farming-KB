@@ -6,7 +6,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 created: 2026-05-10
 ---
 
-# Succession Planting for Winter Harvest
+## Succession Planting for Winter Harvest
 
 Succession planting for winter harvest is the practice of sowing vegetables at staggered intervals
 from late summer through fall (and continuing through winter into spring) to maintain a continuous

@@ -6,7 +6,7 @@ tags: [cognitive-dissonance, translinguistic, dmt, language, wonder, glossolalia
 created: 2026-05-08
 ---
 
-# Cognitive Dissonance and the Translinguistic Object in DMT Experience
+## Cognitive Dissonance and the Translinguistic Object in DMT Experience
 
 ## Overview
 

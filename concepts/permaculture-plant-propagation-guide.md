@@ -4,9 +4,9 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [permaculture, design]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
-# Permaculture Plant Propagation Guide Propagation is the foundation of establishing [[cervantes-rooting-hormones-cloning]] that surpass commercial rooting powders:
+## Permaculture Plant Propagation Guide Propagation is the foundation of establishing [[cervantes-rooting-hormones-cloning]] that surpass commercial rooting powders:
 1. Place willow cuttings in a bucket of water
 2. After ~1 week, roots develop and hormones leach into water
 3. Soak cuttings from other plants in this water overnight

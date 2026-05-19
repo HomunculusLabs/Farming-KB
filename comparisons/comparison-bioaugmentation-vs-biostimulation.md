@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Bioaugmentation vs Biostimulation
+## Bioaugmentation vs Biostimulation
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# Psychedelic Experience Preparation
+## Psychedelic Experience Preparation
 
 Proper preparation is the single most important factor in determining the quality and safety of a psychedelic experience. Turner emphasizes that the main reason for negative experiences is lack of preparation, rather than anything inherent in the person or in the substance. One's chances of having a [[psychedelic-safety-and-harm-reduction]] — comprehensive safety guide
 - [[mao-inhibitors-and-psychedelics]] — MAOI safety

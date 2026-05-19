@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Tulsi vs Lemon Balm
+## Tulsi vs Lemon Balm
 
 ## Overview
 

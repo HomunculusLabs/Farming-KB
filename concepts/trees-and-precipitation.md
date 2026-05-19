@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Trees and Precipitation
+## Trees and Precipitation
 
 Trees have helped create both our soils and our atmosphere — soils through mechanical (root pressure) and chemical (humic acid) breakdown of rock, combined with life processes as humus and myriad decomposers; atmosphere through gaseous exchange, establishing and maintaining an oxygenated atmosphere and an active water-vapour cycle essential to life. Forests may be doing approximately **80%** of the work of atmospheric maintenance, with the rest due to oceanic or aquatic exchange.
 

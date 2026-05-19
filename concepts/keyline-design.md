@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Keyline Design
+## Keyline Design
 
 Keyline design is a landscape management system developed by Australian farmer P.A. Yeomans in the 1950s. It uses the natural topography of land to optimize water distribution, increase soil fertility, and prevent erosion. Keyline pattern cultivation is a specific technique that spreads water from wet valleys to dry ridges using the contour of the land.
 

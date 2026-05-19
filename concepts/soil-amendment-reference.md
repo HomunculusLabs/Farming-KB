@@ -7,7 +7,7 @@ tags: [soil, fertilizer, minerals, calcium, phosphorus, npk, ph, soil-amendment,
 sources: []
 ---
 
-# Soil Amendment Reference
+## Soil Amendment Reference
 
 This reference covers common [[jeavons-fertilization-organic-soil-amendments]], their nutrient profiles, application rates, and best use cases. Always base amendments on [[interpreting-soil-test-results]] rather than routine application.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Chaetomium globosum
+## Chaetomium globosum
 
 **Chaetomium globosum** is a saprotrophic ascomycete fungus in the order
 Sordariales, family Chaetomiaceae. It is a common soil fungus and

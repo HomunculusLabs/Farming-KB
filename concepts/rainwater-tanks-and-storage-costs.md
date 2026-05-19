@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Rainwater Tanks and Water Storage Costs
+## Rainwater Tanks and Water Storage Costs
 
 [[rainwater-harvesting-and-graywater-recycling]] water storage are foundational elements of [[rainwater-tanks-and-water-quality]]
 management, and the role of swales in landscape-scale water retention.

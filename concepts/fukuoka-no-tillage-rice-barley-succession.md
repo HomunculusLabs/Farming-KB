@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's No-Tillage Rice-Barley Succession Cropping
+## Fukuoka's No-Tillage Rice-Barley Succession Cropping
 
 The direct-seeded, no-tillage winter grain and rice succession in a clover cover is Masanobu Fukuoka's core agricultural technique and the practical embodiment of his natural [[cervantes-chemical-fertilizers-guide]], prepared compost, and pesticides from rice and winter grain production while maintaining yields of 22 or more bushels per quarter-acre for each crop. Fukuoka referred to it as the "clover revolution" in rice and barley cropping.
 

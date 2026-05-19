@@ -7,7 +7,7 @@ tags: [safety, homesteading, climate, environment, water]
 sources: []
 ---
 
-# Hurricane Preparedness Guide
+## Hurricane Preparedness Guide
 
 Hurricanes are among the most powerful and destructive natural events, bringing sustained winds of 74+ mph, storm surge, torrential rainfall, tornadoes, and prolonged power outages. Homesteads in coastal regions from Texas to Maine face direct hurricane risk, while inland areas can receive devastating rainfall and flooding from hurricane remnants. This guide covers storm preparation, protection, evacuation, and recovery.
 

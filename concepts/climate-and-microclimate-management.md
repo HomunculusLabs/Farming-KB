@@ -10,7 +10,7 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
   - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
-# Climate and Microclimate Management
+## Climate and Microclimate Management
 
 Weather is one of the top complaints of all gardeners, but climate is not a problem — it is an asset to be used. Through permaculture-climatic-zones-design and 2 elements here
 - **Stone walls**: Dark stones absorb heat and radiate it at night

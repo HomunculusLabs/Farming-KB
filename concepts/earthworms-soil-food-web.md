@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Earthworms in the Soil Food Web
+## Earthworms in the Soil Food Web
 
 Earthworms are the most recognizable animals in [[the-soil-food-web]] and among the most important to gardening and soil health. These segmented worms (oligochaetes) include roughly 7,000 species worldwide, with the genera *Aporrectodea*, *Eisenia*, and *Lumbricus* being the most common in garden soils. They range from a few inches to a yard in length, and also include the smaller pot worm (*[[enchytraeus-doerjesi]]*), which succeeds earthworms in acidic forest soils where standard earthworms cannot survive.
 

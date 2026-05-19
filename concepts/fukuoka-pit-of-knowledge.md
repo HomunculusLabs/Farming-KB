@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka-pit-of-knowledge-fragmented-science
+title: "Fukuoka Pit Of Knowledge"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Pit of Knowledge
+## Fukuoka Pit of Knowledge
 
 In the culminating section of his 1975 [[fukuoka-direct-observation-method]] that underlies all of [[fukuoka-scientific-farming-paradoxes]], [[fukuoka-errors-human-intellect]], [[fukuoka-pit-of-knowledge-fragmented-science]]
 ## Practical Applications

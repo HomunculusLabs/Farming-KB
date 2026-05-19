@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Types and Associations
+## Mycorrhizal Types and Associations
 
 ## Overview
 

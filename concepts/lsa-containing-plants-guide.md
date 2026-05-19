@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# LSA-Containing Plants Guide
+## LSA-Containing Plants Guide
 
 [[hallucinogenic-plant-chemistry]]
 

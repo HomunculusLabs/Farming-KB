@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Calea Zacatechichi (Dream Herb)
+## Calea Zacatechichi (Dream Herb)
 
 Calea zacatechichi is an inconspicuous shrub ranging from Mexico to Costa
 Rica, recognized as a recently discovered hallucinogen employed almost

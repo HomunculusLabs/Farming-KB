@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [mycology, cultivation, pf-tek, spore-syringe, sterilization, storage]
 ---
 
-# PF TEK Spore Syringe Boiling Sterilization and Storage Lifecycle
+## PF TEK Spore Syringe Boiling Sterilization and Storage Lifecycle
 
 ## Overview
 

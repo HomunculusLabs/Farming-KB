@@ -8,7 +8,7 @@ type: concept
 tags: [knf]
 ---
 
-# Master Cho's IMO Collection Guide
+## Master Cho's IMO Collection Guide
 
 [[comparison-natural-farming-vs-permaculture]]. The optimal living environment for microbes and small animals must be provided. The goal [[hamilton-organic-fertilizers-and-plant-nutrition]]) into simpler compounds absorbable by plants.
 - **Catalysis of chemical processes**: Microorganisms produce numerous enzymes, antibiotics, organic acids, and complexes. Most chemical reactions in soil and plants rely on these enzyme catalysts.

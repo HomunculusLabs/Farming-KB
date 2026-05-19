@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF IMO Collection Methods
+## KNF IMO Collection Methods
 
 [[comparison-natural-farming-vs-permaculture]]. Each method targets
 different [[stamets-growing-room-air-circulation-co2-management]] is essential for aerobic microorganisms.

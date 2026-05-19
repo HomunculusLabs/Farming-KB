@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Palm Clump [[palm-planting-patterns-and-mulch-systems|Patterns]]
+## Palm Clump [[palm-planting-patterns-and-mulch-systems|Patterns]]
 
 Palm clump planting is a [[permaculture-design|permaculture design]] strategy that arranges palms (especially
 coconuts) in circular groups rather than traditional linear grid plantations. Drawn from

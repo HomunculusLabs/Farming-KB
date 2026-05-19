@@ -1,4 +1,8 @@
-# Water Bath Canning Guide
+---
+title: "Water Bath Canning Guide"
+tags:
+  - concept
+---
 
 ## Overview
 

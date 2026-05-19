@@ -8,7 +8,7 @@ type: concept
 tags: [grain-spawn, mushroom-cultivation]
 ---
 
-# Duggar Mushroom Spawn Preparation Techniques
+## Duggar Mushroom Spawn Preparation Techniques
 
 Duggar devoted an entire chapter to spawn-making, documenting both the
 historical empirical methods and his revolutionary pure culture

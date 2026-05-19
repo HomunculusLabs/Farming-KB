@@ -7,7 +7,7 @@ tags: [water-management, homesteading, construction, off-grid]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 
-# Homesteading Water Systems
+## Homesteading Water Systems
 
 A reliable water system is the foundation of any homestead. The goal is to capture, store, and distribute water using gravity where possible, minimizing dependence on pumped municipal or well water.
 

@@ -16,7 +16,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Mushroom Spawn Storage and Viability Management
+## Mushroom Spawn Storage and Viability Management
 
 ## Overview
 

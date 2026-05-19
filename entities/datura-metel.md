@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Datura metel L.
+## Datura metel L.
 
 **Common names:** Datura, Hindu Datura, Metel, Devil's Trumpet
 

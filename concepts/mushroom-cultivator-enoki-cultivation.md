@@ -6,7 +6,7 @@ type: concept
 tags: [gardening]
 sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
-# Enoki Cultivation in The Mushroom Cultivator
+## Enoki Cultivation in The Mushroom Cultivator
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter XI
 Updated: 2026-04-18

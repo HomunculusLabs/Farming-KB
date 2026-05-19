@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Aboveground Herbivory Effects on Mycorrhizal Communities
+## Aboveground Herbivory Effects on Mycorrhizal Communities
 
 Aboveground herbivory -- the consumption of plant foliage, shoots, or bark by
 animals -- can profoundly influence the belowground [[fungal-ecology]], herbivory represents a critical indirect pathway by which

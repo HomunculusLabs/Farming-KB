@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is the Edge Effect in Permaculture?
+## What Is the Edge Effect in Permaculture?
 
 ## Short Answer
 

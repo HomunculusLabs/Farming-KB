@@ -5,10 +5,10 @@ type: chemical
 tags: [tryptamine-alkaloid, psilocybin-metabolite, indole-derivative, mushroom-alkaloid, demethylated-derivative]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-production.md]
+sources: ["raw/papers/the-metabolic-pathway-of-psilocybin-production.md"]
 ---
 
-# Norpsilocin
+## Norpsilocin
 
 Norpsilocin is a naturally occurring **tryptamine alkaloid** found in psilocybin-containing mushrooms. It is the **N-desmethyl** analogue of psilocin, meaning it lacks one methyl group on the terminal amine of the ethylamine side chain. Its systematic chemical name is **4-hydroxy-N-methyltryptamine** (4-HO-NMT).
 

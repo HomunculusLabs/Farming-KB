@@ -19,7 +19,7 @@ sources:
   - Weedmaps (2024). "Super Boof Strain Review." Weedmaps.
   - Cookies Fam Genetics. Strain database entries.---
 
-# Super Boof
+## Super Boof
 
 ## Overview
 

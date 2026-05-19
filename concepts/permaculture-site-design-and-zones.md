@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Site Design and Zones
+## Permaculture Site Design and Zones
 
 Permaculture site design is the most common application of [[permaculture-design-principles]]. The "site" concept refers to a limited parcel of land, often focused on a central point that is generally a dwelling or other building. Site design uses the tools of zone, sector, and slope to organise information about the land into useful patterns and provide a starting point for an overall concept plan.
 

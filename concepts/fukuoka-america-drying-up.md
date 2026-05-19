@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# America Is Drying Up
+## America Is Drying Up
 
 In *The Road Back to Nature*, [[fukuoka-critique-soil-cultivation]] consuming and exhausting [[fertilizer-pollution-environmental-impact]] through irrigation gradually renders the land less and less productive, creating a vicious cycle where more irrigation is needed to compensate for declining fertility.
 

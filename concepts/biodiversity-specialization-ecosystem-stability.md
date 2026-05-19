@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Biodiversity, Specialization, and Ecosystem Stability
+## Biodiversity, Specialization, and Ecosystem Stability
 
 Biodiversity — the variety of life at all levels from genes to ecosystems — is one of the most important yet misunderstood concepts in both ecology and [[permaculture-design]]. Holmgren's [[permaculture]] Principle 10, "Use and Value Diversity," requires a nuanced understanding that goes beyond simply counting species. True diversity must be understood in dynamic balance with productivity, as a source of systemic resilience, and as a result of the interplay between specialization and generalization in nature.
 

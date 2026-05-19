@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ecology, microbiology, nutrient-cycling, carbon-cycle]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Decomposition
+## Decomposition
 
 Decomposition is the biological process by which [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in all ecosystems, returning carbon, nitrogen, phosphorus,
 and other elements to forms usable by primary producers. Without

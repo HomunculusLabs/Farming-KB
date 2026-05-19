@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Growing Situations and Cave Cultivation
+## Mushroom Growing Situations and Cave Cultivation
 
 ## Overview
 

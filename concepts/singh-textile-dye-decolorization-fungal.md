@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Textile Dye Decolorization by Fungi
+## Textile Dye Decolorization by Fungi
 
 The [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
 annually worldwide, with an estimated 10-15% of dye stuff released into

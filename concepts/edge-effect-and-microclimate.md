@@ -22,7 +22,7 @@ sources:
 - raw/papers/a-selection-permaculture-plants.md
 ---
 
-# Edge Effect and Microclimate
+## Edge Effect and Microclimate
 
 Edges are the interfaces between two systems or media, and they are where the most diversity, productivity, and exchange occur. Holmgren's Principle 11 ("Use Edges and Value the Marginal") and Mollison's pattern understanding both emphasise edge as a primary design tool. See [[permaculture-design-methods]] for how edge analysis fits the design process.
 

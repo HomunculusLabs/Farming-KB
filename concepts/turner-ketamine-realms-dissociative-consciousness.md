@@ -8,7 +8,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 type: concept
 ---
 
-# Ketamine Realms and Dissociative Consciousness
+## Ketamine Realms and Dissociative Consciousness
 
 ## Introduction
 

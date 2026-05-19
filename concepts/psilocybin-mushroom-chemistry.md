@@ -25,7 +25,7 @@ sources:
 - raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 ---
 
-# Psilocybin Mushroom Chemistry
+## Psilocybin Mushroom Chemistry
 
 Chemical composition, analysis methods, biosynthetic pathways, and alkaloid profiles of psilocybin-containing mushrooms. Based on [[jochen-gartz]]'s extensive HPLC analyses and the broader literature. See also psilocybin mushroom chemistry for pharmacology and [[psilocybe-genus-classification]] for taxonomy.
 

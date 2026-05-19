@@ -4,7 +4,7 @@ source: "Mr. Bloomfield's Orchard - nicholas-money"
 topics: [mycology, taxonomy, oomycetes, stramenopila, fungal-classification]
 ---
 
-# Stramenopila vs. True Fungi: The Oomycete Kingdom Distinction
+## Stramenopila vs. True Fungi: The Oomycete Kingdom Distinction
 
 ## The Taxonomic Revolution in Mycology
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Natural Form of Fruit Trees
+## Natural Form of Fruit Trees
 
 [[stone-fruit-tree-care]] without pruning.
 

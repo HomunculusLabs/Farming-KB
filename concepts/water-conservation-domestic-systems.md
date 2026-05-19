@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Conservation in Domestic Systems
+## Water Conservation in Domestic Systems
 
 [[permaculture-design]]. The typical household wastes enormous quantities of water, and much of this waste can be eliminated through thoughtful design of plumbing, appliance selection, and the reuse of greywater for productive purposes. In permaculture, the goal is not merely to reduce consumption but to transform "waste" water into a productive resource for gardens, orchards, and soil systems.
 

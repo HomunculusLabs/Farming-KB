@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Ecological Succession and Pulsing Ecosystems
+## Ecological Succession and Pulsing Ecosystems
 
 Ecological succession is the process by which biological communities of plants, animals, and microorganisms change in structure and species composition over time. In permaculture design, understanding succession is fundamental to working with natural systems rather than against them. David Holmgren's *Permaculture: Principles & Pathways Beyond Sustainability* extensively references succession as both an ecological model and a design framework for creating productive, resilient landscapes.
 

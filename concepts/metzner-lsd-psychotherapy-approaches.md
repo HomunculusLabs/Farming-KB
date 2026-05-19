@@ -7,7 +7,7 @@ tags: [lsd, psychotherapy, psycholytic, psychedelic, clinical]
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# LSD Psychotherapy Approaches
+## LSD Psychotherapy Approaches
 
 LSD ([[european-psycholytic-therapy-1960s-1970s]]:
 

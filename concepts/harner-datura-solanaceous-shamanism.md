@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Datura and Solanaceous Plants in Shamanism
+## Datura and Solanaceous Plants in Shamanism
 
 ## The Solanaceous Hallucinogen Family
 

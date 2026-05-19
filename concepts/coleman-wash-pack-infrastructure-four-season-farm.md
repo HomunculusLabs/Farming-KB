@@ -7,7 +7,7 @@ topics: [wash-pack, post-harvest, four-season-farm,
   market-preparation]
 ---
 
-# Wash and Pack Infrastructure a [[chicken-of-the-woods]] he farm'[[coleman-winter-harvest-washing-and-packing]] ng area,
+## Wash and Pack Infrastructure a [[chicken-of-the-woods]] he farm'[[coleman-winter-harvest-washing-and-packing]] ng area,
 alongside a walk-in cooler and seedling-starting space. The
 propane heater thermostat is set just above 32°F (0°C) primarily
 to prevent the washing system from freezing in winter. Baby-leaf

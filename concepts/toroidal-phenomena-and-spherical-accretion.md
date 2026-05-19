@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Toroidal Phenomena and Spherical Accretion
+## Toroidal Phenomena and Spherical Accretion
 
 Toroidal (doughnut-shaped) phenomena and spherical accretion-expulsion models represent two of the most fundamental [[permaculture]] designers with a deep understanding of how energy and matter organize themselves in three-dimensional space.
 

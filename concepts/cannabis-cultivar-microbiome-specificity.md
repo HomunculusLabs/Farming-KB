@@ -5,7 +5,7 @@ tags: [microbiome, cannabis, rhizosphere, soil-science]
 created: 2026-05-09
 ---
 
-# Cannabis Cultivar-Specific Microbiome Associations
+## Cannabis Cultivar-Specific Microbiome Associations
 
 Different Cannabis cultivars (strains) harbor distinct crimson clover
 in their root interiors, according to findings from Winston et al. (2014).

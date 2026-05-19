@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [amanita-muscaria, mycology]
-sources: [/Users/t3rpz/wiki/raw/papers/amanita-muscaria-herb-of-immortality.md]
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md"]
 ---
-# Amanita Muscaria -- Fly Agaric
+## Amanita Muscaria -- Fly Agaric
 
 The fly agaric (Amanita muscaria) is perhaps the most recognizable mushroom in the world, with its bright scarlet cap dotted with white warts. Despite its popular reputation as the most poisonous toadstool, it never causes death in healthy people. Its history of ritual use, psychoactive properties, and cultural prominence make it one of the most studied fungi in ethnobotany.
 

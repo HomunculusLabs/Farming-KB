@@ -9,7 +9,7 @@ occupation: [psychologist, researcher, author, lecturer]
 known_for: [psychedelic research, microdosing popularization, transpersonal psychology, creative problem-solving studies]
 ---
 
-# James Fadiman
+## James Fadiman
 
 James Fadiman (born 1939) is an American psychologist and author
 known for his psychedelic research and his role in popularizing

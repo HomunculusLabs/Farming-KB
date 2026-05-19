@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Loess Powder Preparation and Use
+## Loess Powder Preparation and Use
 
 **Updated:** 2026-04-18
 

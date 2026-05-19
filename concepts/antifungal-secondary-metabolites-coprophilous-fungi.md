@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Antifungal Secondary Metabolites from Coprophilous Fungi
+## Antifungal Secondary Metabolites from Coprophilous Fungi
 
 Coprophilous (dung-inhabiting) [[coprophilous-fungi-succession]] and
 other microorganisms. The rapid colonization and intense

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Decomposition of Wood and Litter ## Overview Wood and litter decomposition by fungi is a foundational ecological process that drives nutrient cycling, soil formation, and carbon flux in terrestrial ecosystems. The diversity of decomposer fungi and the complexity of their interactions with substrata make decomposition one of the most important and least understood aspects of [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] (primarily ascomycetes) cause a slower, less aggressive decay characterized by cavity formation within the secondary [[fungal-diversity-leaf-litter-coarse-woody-debris]] decomposition.
+## Fungal Decomposition of Wood and Litter ## Overview Wood and litter decomposition by fungi is a foundational ecological process that drives nutrient cycling, soil formation, and carbon flux in terrestrial ecosystems. The diversity of decomposer fungi and the complexity of their interactions with substrata make decomposition one of the most important and least understood aspects of [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] (primarily ascomycetes) cause a slower, less aggressive decay characterized by cavity formation within the secondary [[fungal-diversity-leaf-litter-coarse-woody-debris]] decomposition.
 
 ## Successional Patterns on Wood
 

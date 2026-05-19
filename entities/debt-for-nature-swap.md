@@ -5,7 +5,7 @@ type: entity
 tags: [economics, conservation, permaculture, investment, forest, environmental-finance]
 ---
 
-# Debt-for-Nature Swap
+## Debt-for-Nature Swap
 
 ## Description
 

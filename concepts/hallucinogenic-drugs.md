@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [pharmacology, psychedelics, consciousness, neuroscience]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+sources: ["raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"]
 type: concept
 ---
 
-# Hallucinogenic Drugs
+## Hallucinogenic Drugs
 
 Hallucinogenic drugs, also known as psychedelics or psychotomimetics, are a
 class of psychoactive substances that produce profound alterations in

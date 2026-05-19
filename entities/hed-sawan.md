@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, food-product, processing, thai-cuisine, value-addition]
 ---
 
-# Hed Sawan (Heavenly Mushroom)
+## Hed Sawan (Heavenly Mushroom)
 
 ## Description
 

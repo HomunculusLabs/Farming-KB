@@ -5,7 +5,7 @@ created: 2026-05-09
 source: guid-mhtml_file___e___textos__mycology__exotic_
 ---
 
-# Mycelial Metabolite Exudation as a Stress Indicator in Jar Incubation
+## Mycelial Metabolite Exudation as a Stress Indicator in Jar Incubation
 
 ## Overview
 

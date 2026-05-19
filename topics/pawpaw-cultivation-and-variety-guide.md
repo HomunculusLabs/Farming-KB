@@ -18,7 +18,7 @@ sources:
   - Layne, D. R. "Pawpaw comparison-biochar-production-guide-vs-biochar-soil-amendment." ASHS Press, 1996.
   - NFLS Pawpaw Trial Reports, 2010–2023.---
 
-# Pawpaw Cultivation and Variety Guide
+## Pawpaw Cultivation and Variety Guide
 
 ## Overview
 

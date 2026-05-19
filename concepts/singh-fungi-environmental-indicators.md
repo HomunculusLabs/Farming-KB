@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungi as Environmental Indicators
+## Fungi as Environmental Indicators
 
 Fungi serve as valuable bioindicators for assessing environmental quality in
 air, soil, and water systems. Their sensitivity to pollutants, ability to

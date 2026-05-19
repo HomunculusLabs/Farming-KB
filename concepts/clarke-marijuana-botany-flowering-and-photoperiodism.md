@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Cannabis Flowering and Photoperiodism: Clarke's Analysis
+## Cannabis Flowering and Photoperiodism: Clarke's Analysis
 
 Robert Connell Clarke's "[[cannabis-vegetative-growth-stage]] to reproductive development that determines the quality and timing of the harvest.
 

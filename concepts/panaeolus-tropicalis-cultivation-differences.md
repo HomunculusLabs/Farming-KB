@@ -7,7 +7,7 @@ tags: [cultivation, mycology, comparison]
 sources:
   - "Cultivation of Panaeolus cyanescens and Panaeolus tropicalis on sterilised substrate"
 ---
-# Panaeolus cyanescens vs P. tropicalis Cultivation Differences
+## Panaeolus cyanescens vs P. tropicalis Cultivation Differences
 
 Both [[comparison-grain-spawn-vs-grain-to-grain-transfer]] less densely than [[bloomfield-fungal-life-cycle-spiral-versus-circle]] in optimal warm conditions
 - Interesting for comparative studies between related species

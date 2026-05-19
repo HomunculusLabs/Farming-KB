@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Comprehensive Tree Species Guide for Mushroom Cultivation
+## Comprehensive Tree Species Guide for Mushroom Cultivation
 
 A vast variety of woods can be used for [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Generally speaking, the hardwoods are
 more useful than the softwoods. Several wood types may not

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Fungal Responses to Grazing and the Sit-and-Wait Strategy
+## Fungal Responses to Grazing and the Sit-and-Wait Strategy
 
 ## Overview
 

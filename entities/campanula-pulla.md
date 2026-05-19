@@ -15,7 +15,7 @@ sources:
   - Egger, K. (2002). "Alpine Bellflowers of the European Alps." Alpine Garden Society Bulletin, 70(2): 198-215.
 ---
 
-# Campanula pulla
+## Campanula pulla
 
 ## Overview
 

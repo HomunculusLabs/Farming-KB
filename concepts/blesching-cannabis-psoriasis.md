@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Psoriasis
+## Cannabis and Psoriasis
 
 ## Overview
 

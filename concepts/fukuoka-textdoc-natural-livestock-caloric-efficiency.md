@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Natural Livestock Caloric Efficiency: Bantam vs Leghorn
+## Natural Livestock Caloric Efficiency: Bantam vs Leghorn
 
 Fukuoka presents a devastating caloric accounting of [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of traditional free-range poultry with industrial
 caged systems. His comparison of the [[cervantes-case-study-energy-efficient-sea-of-green]] than artificially intensified production.

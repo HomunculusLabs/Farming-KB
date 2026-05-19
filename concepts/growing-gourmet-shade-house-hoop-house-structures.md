@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Shade House and Hoop House Structures for Mushroom Growing
+## Shade House and Hoop House Structures for Mushroom Growing
 
 By the third or fourth flush of indoor mushrooms, yields are
 in a state of precipitous decline. Rather than discarding

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Interplant Resource Transfer and Mycorrhizal Succession
+## Interplant Resource Transfer and Mycorrhizal Succession
 
 ## Overview
 

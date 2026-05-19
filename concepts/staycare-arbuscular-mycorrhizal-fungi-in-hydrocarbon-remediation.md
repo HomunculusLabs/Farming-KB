@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycorrhizae, hydrocarbons, petroleum, phytoremediation, soil-remediation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# [[dighton-fungal-roles-in-nutrient-cycling]] uptake, particularly phosphorus acquisition. In
+## [[dighton-fungal-roles-in-nutrient-cycling]] uptake, particularly phosphorus acquisition. In
 hydrocarbon-contaminated soils, AMF contribute to bioremediation
 primarily by enabling plant establishment and survival on polluted sites,
 thereby facilitating phytoremediation processes. Their role differs from

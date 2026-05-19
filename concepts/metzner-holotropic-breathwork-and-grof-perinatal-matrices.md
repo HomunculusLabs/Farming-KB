@@ -7,7 +7,7 @@ tags: [grof, perinatal, holotropic-breathwork, psycholytic, transpersonal, lsd, 
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Grof's Perinatal Matrices and Holotropic Breathwork
+## Grof's Perinatal Matrices and Holotropic Breathwork
 
 Ralph Metzner's 1998 review traces the development of [[leary-psychedelic-experience-bardo-mapping]] led Grof to develop **holotropic breathwork** as
 a non-drug method for accessing similar states. This technique involves

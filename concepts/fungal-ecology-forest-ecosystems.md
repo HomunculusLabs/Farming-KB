@@ -8,7 +8,7 @@ sources: [unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
 type: concept
 ---
 
-# [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]].
+## [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]].
 - **[[aquatic-fungi-spore-dispersal-ingold]].
 Stinkhorns, for example, produce spore masses embedded in slime containing
 volatile chemicals including hydrogen sulfide, formaldehyde, and

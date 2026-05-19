@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Community Seed Banks and Exchange in Permaculture
+## Community Seed Banks and Exchange in Permaculture
 
 The preservation and exchange of plant genetic resources is fundamental
 to permaculture practice. In the Permaculture [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] as a critical skill for self-reliant communities

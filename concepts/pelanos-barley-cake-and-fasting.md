@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Pelanos, Fasting, and the Eleusinian Preparation
+## Pelanos, Fasting, and the Eleusinian Preparation
 
 **Source:** The [[rarian-plain-sacred-grain-eleusis]]. These practices had direct parallels in [[query-can-fungi-break-down-plastic-pollution]], references emerged to "a collation served to the initiates when a large cake called the pelanos, made of [[psychedelic-dosage-titration-methodology]] was thus integrated with nutritional preparation.
 

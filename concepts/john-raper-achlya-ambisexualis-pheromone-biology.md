@@ -5,7 +5,7 @@ author: nicholas-money
 topics: [pheromone-biology, oomycetes, sexual-reproduction, mycology, endocrinology]
 ---
 
-# John Raper and the Pheromone Biology of Achlya ambisexualis
+## John Raper and the Pheromone Biology of Achlya ambisexualis
 
 John Raper, working at Harvard University in the mid-twentieth century,
 made one of the most significant contributions to the understanding of

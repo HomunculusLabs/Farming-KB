@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: The Four Types of Diet
+## Fukuoka: The Four Types of Diet
 
 Source: [[fukuoka-natural-diet-as-foundation]] cannot be reached through effort or will; it emerges spontaneously when the conditions are right.
 

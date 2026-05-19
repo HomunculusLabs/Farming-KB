@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Equatorial Photoperiod Early Flowering
+## Equatorial Photoperiod Early Flowering
 
 Equatorial photoperiod early flowering is a genetic trait found in certain
 cannabis [[query-how-to-grow-and-use-oca-in-temperate-climates]].

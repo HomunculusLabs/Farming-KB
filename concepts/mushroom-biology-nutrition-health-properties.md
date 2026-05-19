@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Biology, Nutrition, and Health Properties
+## Mushroom Biology, Nutrition, and Health Properties
 
 ## Nature of Mushrooms
 

@@ -9,7 +9,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Hugelkultur Bed Construction
+## Hugelkultur Bed Construction
 
 Hugelkultur (German for "mound culture") is a gardening technique from central Europe where woody debris is used as the core of raised beds. In the carefully tended forests of central Europe, no scrap of wood is ever wasted. Branches and brushy prunings are piled into mounds that become productive garden beds for years with minimal irrigation or fertilization.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [fungi, plants]
 ---
 
-# Symbiotic Fungi — Endophytic Fungi in Plants
+## Symbiotic Fungi — Endophytic Fungi in Plants
 
 [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with potential for exploitation in pharmaceutical and agricultural fields.
 

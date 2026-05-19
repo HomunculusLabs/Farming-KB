@@ -5,11 +5,11 @@ tags: mycology, mushroom-cultivation, composting, agricultural-science,
       fungal-physiology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
 
-# Mushroom Substrate Preparation and Composting
+## Mushroom Substrate Preparation and Composting
 
 ## Overview
 

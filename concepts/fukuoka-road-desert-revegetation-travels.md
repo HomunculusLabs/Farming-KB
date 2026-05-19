@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Desert Revegetation Travels and Projects
+## Fukuoka's Desert Revegetation Travels and Projects
 
 In [[fungi-around-the-world-species-distribution]] and his conviction that [[soil-food-web-nutrient-cycling]] argument: the biological "tilling" performed by plant roots and small animals works the soil more deeply than any machine. "When left alone, the soil deepens and enriches naturally." Mechanical tilling "only kills it."
 

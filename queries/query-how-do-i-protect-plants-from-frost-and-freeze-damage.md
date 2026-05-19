@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# How Do I Protect Plants from Frost and Freeze Damage?
+## How Do I Protect Plants from Frost and Freeze Damage?
 
 ## Short Answer
 

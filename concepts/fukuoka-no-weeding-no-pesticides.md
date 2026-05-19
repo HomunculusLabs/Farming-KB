@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Principles 3 and 4: No Weeding and No Pesticides
+## Principles 3 and 4: No Weeding and No Pesticides
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 

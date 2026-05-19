@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Papanek Seed Encapsulation
+## Papanek Seed Encapsulation
 
 ## Description
 

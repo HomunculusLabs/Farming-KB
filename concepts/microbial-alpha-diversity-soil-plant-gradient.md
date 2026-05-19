@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Microbial Alpha Diversity Across the Soil-Plant Gradient
+## Microbial Alpha Diversity Across the Soil-Plant Gradient
 
 ## Overview
 

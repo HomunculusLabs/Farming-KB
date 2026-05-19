@@ -5,7 +5,7 @@ tags: [psilocin, synthesis, 4-acetylindole, crystallization, NMR, organic-chemis
 created: 2026-05-10
 ---
 
-# Shirota 4-Acetylindole: Crystallization and NMR Characterization
+## Shirota 4-Acetylindole: Crystallization and NMR Characterization
 
 ## Overview
 

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: fungal-taxonomy, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# [[turner-harmala-alkaloids-preparation-and-dosage]] Preservation
+## [[turner-harmala-alkaloids-preparation-and-dosage]] Preservation
 
 Proper [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] nature of the study.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-mycelium-running.md"
 type: concept
 ---
-# Mycofiltration
+## Mycofiltration
 
 Mycofiltration is the use of fungal mycelium as a membrane for filtering
 microorganisms, pollutants, and silt from water. Developed and popularized by

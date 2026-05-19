@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Waterwise Vegetable Gardening — Tools and Techniques
+## Waterwise Vegetable Gardening — Tools and Techniques
 
 ## Overview
 

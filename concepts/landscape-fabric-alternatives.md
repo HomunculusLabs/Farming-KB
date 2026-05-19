@@ -7,7 +7,7 @@ tags: [gardening, permaculture, no-till, soil, compost, regenerative, plants]
 sources: []
 ---
 
-# Landscape Fabric Alternatives
+## Landscape Fabric Alternatives
 
 Landscape fabric (weed barrier cloth) is widely sold for weed suppression, but it has significant drawbacks in regenerative systems. It blocks water infiltration over time, degrades into plastic fragments that contaminate soil, prevents organic matter from reaching the soil surface, and creates anaerobic conditions that harm soil biology. Natural alternatives work with soil ecology rather than against it.
 

@@ -6,7 +6,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 created: 2026-05-11
 ---
 
-# Winter Harvest Scheduling for Year-Round Vegetable Production
+## Winter Harvest Scheduling for Year-Round Vegetable Production
 
 ## Overview
 

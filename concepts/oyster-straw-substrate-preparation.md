@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [substrate, straw, preparation, regional-methods]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Straw Substrate Preparation for Oyster Mushrooms
+## Straw Substrate Preparation for Oyster Mushrooms
 
 Straw has long been favored as a substrate for oyster [[non-sterilized-wheat-straw-oyster-cultivation]], rice straw, and [[amanita-muscaria-preparation-methods]] vary
 considerably by region, reflecting local traditions, available equipment, and

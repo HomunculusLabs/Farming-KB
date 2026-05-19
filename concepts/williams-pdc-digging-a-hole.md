@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Digging a Hole as Permaculture Practice
+## Digging a Hole as Permaculture Practice
 Digging a hole is presented in this [[holzer-lebenshilfe-permaculture-project-for-disabled-people]] is to start
 digging a hole. If you want to study permaculture, you might as well go out
 and buy your own shovel now. You will dig holes and you will move earth.

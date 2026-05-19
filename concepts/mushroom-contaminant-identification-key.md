@@ -7,7 +7,7 @@ tags: [mycology, mushroom-cultivation, contaminants, identification, stamets]
 sources: []
 ---
 
-# Mushroom Contaminant Identification Key
+## Mushroom Contaminant Identification Key
 
 Chapter XIII of [[mazatec-mushroom-culture-and-velada]].
 

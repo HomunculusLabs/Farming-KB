@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, environment, oyster-mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Oyster Mushroom Fruiting Conditions
+## Oyster Mushroom Fruiting Conditions
 The transition from vegetative mycelial growth to fruiting body production in
 oyster mushrooms is triggered by specific environmental cues. Understanding and
 controlling these parameters is essential for consistent, high-quality harvests

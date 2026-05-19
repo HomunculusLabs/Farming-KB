@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Graves Psilocybin at Eleusis Theory in Food of the Gods
+## Graves Psilocybin at Eleusis Theory in Food of the Gods
 
 In *Food of the Gods*, Terence McKenna presents the poet and classical
 scholar Robert Graves as a crucial but underappreciated figure in the

@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Organic Livestock Farming (No Feces-Removing System)
+## JADAM Organic Livestock Farming (No Feces-Removing System)
 
 JADAM has developed an organic livestock [[jadam-ultra-low-cost-agriculture]] philosophy of eliminating purchased inputs and reducing labor through biological processes, a core tenet of [[animal-manure-guide]] for compost application guidance
 - **Reduces water pollution**: No manure runoff into waterways

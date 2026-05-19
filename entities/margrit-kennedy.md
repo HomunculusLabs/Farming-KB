@@ -5,7 +5,7 @@ type: entity
 tags: [people, economics, permaculture, interest-free, ecological-economy, reform]
 ---
 
-# Margrit Kennedy
+## Margrit Kennedy
 
 ## Description
 

@@ -4,7 +4,7 @@ source: Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
 concepts: [mushroom-cuisine, harvesting, drying, shelf-life, culinary-species]
 ---
 
-# Mushroom Culinary Preparation
+## Mushroom Culinary Preparation
 
 Mushroom cuisine represents the final and most rewarding step in the grower's value chain — the bridge between cultivation and consumption. In Chapter 24 of *Growing Gourmet and Medicinal Mushrooms*, Paul Stamets emphasizes that understanding culinary preparation is essential for anyone serious about mushroom growing, because the end product's quality depends as much on harvest timing and post-harvest handling as it does on cultivation technique.
 

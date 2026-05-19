@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Brugmansia sanguinea
+## Brugmansia sanguinea
 
 **Brugmansia sanguinea** (Ruiz et Pavon) D. Don, commonly known as the **Blood-Red Angel's Trumpet**, is a striking arborescent plant in the family **Solanaceae** native to the Andes of shamanism and traditional medicine.
 

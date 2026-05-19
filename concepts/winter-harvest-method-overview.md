@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Method Overview
+## Winter Harvest Method Overview
 
 *The Winter Harvest Handbook* ([[chelsea-green-publishing]], ISBN 978-1-60358-081-6) by Eliot Coleman is a foundational text in the small-scale, year-round farming movement. Building on decades of experimentation at [[four-season-farm]] in Harborside, Maine, Coleman demonstrates that fresh vegetable production is possible throughout winter—even in USDA Hardiness Zones 3–5—without relying on fossil-fuel heating. The book synthesizes his painstaking research with more than 30 different crops into a practical, illustrated guide covering greenhouse construction, planting schedules, crop management, harvesting, and marketing.
 

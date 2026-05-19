@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Mycena chlorophos
+## Mycena chlorophos
 
 Mycena chlorophos is a bioluminescent mushroom in the family Mycenaceae,
 notable for emitting a pale green glow (chemiluminescence) from its gills,

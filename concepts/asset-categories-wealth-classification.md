@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Asset Categories and Wealth Classification
+## Asset Categories and Wealth Classification
 
 Asset categories and wealth classification form a foundational framework in [[permaculture]] economics for understanding how different types of capital affect the long-term health of a community and its environment. Drawing on the work of Turnbull (1975) and expanded by [[bill-mollison]], this system classifies assets according to their capacity to create, maintain, or destroy wealth over time. The framework provides a lens through which communities can evaluate expenditures, design financial institutions, and make decisions that either build or erode their resource base.
 

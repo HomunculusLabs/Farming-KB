@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: [ben-lemon-cannabis-alchemy.md]
 ---
 
-# Cannabis and Epilepsy Research
+## Cannabis and Epilepsy Research
 
 **Source:** The [[cannabis-cannabinoid-receptor-pharmacology]] sites (CB1) in the hippocampus, suggesting a role for endocannabinoid system dysregulation during epileptogenesis.
 

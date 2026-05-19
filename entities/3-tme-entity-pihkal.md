@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 3-TME
+## 3-TME
 
 [[mescaline]] is mescaline.
 That much is simple. All homologs are the first letter of the

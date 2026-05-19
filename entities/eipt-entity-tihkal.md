@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# EIPT — TIHKAL #10
+## EIPT — TIHKAL #10
 
 ## Compound Identity
 

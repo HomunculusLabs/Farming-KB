@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Faunal Grazing on Fungi and Decomposition Feedbacks
+## Faunal Grazing on Fungi and Decomposition Feedbacks
 
 The grazing of fungal mycelia and fruiting structures by soil fauna generates
 both positive and negative feedbacks on decomposition processes and nutrient

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Best Plants for a Hugelkultur Bed?
+## What Are the Best Plants for a Hugelkultur Bed?
 
 ## Short Answer
 

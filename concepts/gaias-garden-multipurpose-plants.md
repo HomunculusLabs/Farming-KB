@@ -9,7 +9,7 @@ type: concept
 tags: [gardening, plants]
 ---
 
-# Multipurpose Plants for the Ecological Garden
+## Multipurpose Plants for the Ecological Garden
 
 The concept of hemenway-ecological-garden-design. Nothing in nature has only one function. A shrub does not just cast shade; it feeds winter-starved birds with its berries, offers shelter, gaias-garden-backyard-ecosystem.
 

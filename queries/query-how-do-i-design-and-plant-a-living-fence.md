@@ -20,7 +20,7 @@ sources:
 type: query
 ---
 
-# How Do I Design and Plant a Living Fence?
+## How Do I Design and Plant a Living Fence?
 
 A living fence is a dense, functional barrier made from living woody plants. Whether you need to contain livestock, exclude deer, create privacy, or establish a productive boundary, this guide covers the full process from [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], [[comparison-sea-buckthorn-vs-aronia]].
 **Production** (10–20%): Rugosa rose, elderberry, blackberry.

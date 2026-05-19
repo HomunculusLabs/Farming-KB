@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
-# Hamilton Garden Planning and Site Assessment
+## Hamilton Garden Planning and Site Assessment
 
 ## Overview
 

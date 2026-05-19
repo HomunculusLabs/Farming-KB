@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 5-TOET
+## 5-TOET
 
 5-TOET (4-ethyl-2-methoxy-5-methylthioamphetamine) is a substituted amphetamine and a member of the TOM/TOET family of [[psychedelic-compounds-reference]] developed by [[5-tom-entity]] - the methylthio parent compound, active at similar dosages with a famous "freaky" experience
 

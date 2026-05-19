@@ -10,7 +10,7 @@ tags:
   - sterilization
 ---
 
-# Mushroom Agar Media Pouring and Sterilization Techniques
+## Mushroom Agar Media Pouring and Sterilization Techniques
 
 ## Overview
 

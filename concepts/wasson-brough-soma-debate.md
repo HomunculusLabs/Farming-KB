@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# The Wasson-Brough Soma Debate
+## The Wasson-Brough Soma Debate
 
 The question of whether the [[mckenna-vedic-soma-indo-european-mysteries]] was the [flyic mushroom ([[amanita-muscaria]]), as
 proposed by [[gordon-wasson]], remains one of the most contested

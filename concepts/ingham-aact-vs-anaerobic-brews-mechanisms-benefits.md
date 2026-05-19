@@ -10,7 +10,7 @@ topics:
   - nutrient-cycling
 ---
 
-# AACT vs Anaerobic Brews: Mechanisms and Benefits Compared
+## AACT vs Anaerobic Brews: Mechanisms and Benefits Compared
 
 ## Overview
 

@@ -1,5 +1,10 @@
+---
+title: "Microwave Sterilization"
+tags:
+  - concept
+---
 
-# Microwave Surface Sterilization
+## Microwave Surface Sterilization
 
 [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] Access Port (MSAP) consisted of three subsystems: an in-line valve port assembly, a portable [[microwave-reflective-transparent-materials-surface-sterilization]], in conjunction with control of radiation patterns and subsystem geometries for sufficient exposure of all desired surfaces.
 
@@ -143,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[microwave-interaction-with-microbial-cells]]
-- [[microwave-sterilization-mixed-contaminant-kill-kinetics]]
-- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
-- [[microwave-surface-sterilization-technology]]
-- [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]

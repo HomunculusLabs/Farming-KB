@@ -8,7 +8,7 @@ sources:
   - "raw/papers/symbiotic-fungi.md"
 ---
 
-# Stable Carbon Isotope Labelling in Signature Fatty Acids for Mycorrhizal Carbon Tracking
+## Stable Carbon Isotope Labelling in Signature Fatty Acids for Mycorrhizal Carbon Tracking
 
 ## Overview
 

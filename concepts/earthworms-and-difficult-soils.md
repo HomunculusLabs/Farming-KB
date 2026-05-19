@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earthworms and Difficult Soils
+## Earthworms and Difficult Soils
 
 ## Earthworms: Nature's Plough
 

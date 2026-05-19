@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Mulches and Drought Strategies
+## Desert Mulches and Drought Strategies
 
 Organic matter is as invaluable in deserts as it is elsewhere. Mulch is the single most important strategy for [[water-conservation]], soil temperature moderation, pH adjustment, nutrient retention, and the creation of [[avenue-cropping]]** between permanent windbreaks
 - **Forage or mulch harvesting** of bunch grasses in strips

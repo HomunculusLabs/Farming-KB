@@ -8,7 +8,7 @@ sources: [raw/papers/tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Plant Tropisms and Perception Mechanisms
+## Plant Tropisms and Perception Mechanisms
 
 ## Overview
 

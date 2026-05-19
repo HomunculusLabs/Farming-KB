@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Seed Establishment and Plant Recruitment
+## Seed Establishment and Plant Recruitment
 
 The establishment of new plants from seed is one of the most critical
 yet overlooked processes in [[rangeland-management]]. Savory's observations

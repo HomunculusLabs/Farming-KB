@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# Qualitative Comments Methodology in PiHKAL
+## Qualitative Comments Methodology in PiHKAL
 
 **Source:** PiHKAL (Part 2), various compound entries
 

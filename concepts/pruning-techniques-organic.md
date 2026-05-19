@@ -8,7 +8,7 @@ sources:
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 
-# Pruning Techniques Organic
+## Pruning Techniques Organic
 
 updated: 2026-04-18
 

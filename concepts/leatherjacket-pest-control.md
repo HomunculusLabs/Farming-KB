@@ -7,7 +7,7 @@ tags: [pest-control, organic, gardening, insects, troubleshooting]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Leatherjacket Pest Control
+## Leatherjacket Pest Control
 
 ## Identification
 

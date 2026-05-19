@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, mycoparasite, sclerotial-parasite, biocontrol, soil-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Sporidesmium sclerotivorum
+## Sporidesmium sclerotivorum
 
 **Type:** Species (Ascomycete)
 **Category:** Sclerotial Mycoparasite / Biocontrol Agent

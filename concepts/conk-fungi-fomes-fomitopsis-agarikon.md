@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Conk Fungi — Iceman Polypore and Agarikon
+## Conk Fungi — Iceman Polypore and Agarikon
 
 The genera *Fomes*, *Fomitopsis*, and *Laricifomes* encompass some of the most iconic and historically
 significant polypore mushrooms in the world. These woody, perennial conks include the iceman polypore

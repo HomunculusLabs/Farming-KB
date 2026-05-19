@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Pancreatitis Research
+## Cannabis and Pancreatitis Research
 
 **Source:** [[cannabis-health-index]] (2017)
 

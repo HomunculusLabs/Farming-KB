@@ -5,7 +5,7 @@ tags: [winter-harvest, greenhouse-design, eliot-coleman, protected-cultivation, 
 created: 2026-05-09
 ---
 
-# Coleman Greenhouse Interior Design and Management
+## Coleman Greenhouse Interior Design and Management
 
 [[cotter-growing-space-design-fruiting-rooms]] within it.
 

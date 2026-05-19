@@ -5,7 +5,7 @@ type: entity
 tags: [place, national-park, australia, fire-management, conservation, northern-territory]
 ---
 
-# Kakadu National Park
+## Kakadu National Park
 
 ## Description
 

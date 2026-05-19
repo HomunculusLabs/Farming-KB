@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Harvesting Techniques and Yield Comparison for Maitake Cultivation
+## Harvesting Techniques and Yield Comparison for Maitake Cultivation
 
 Timely harvest of [[maitake-hen-of-the-woods-cultivation]] and
 [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

@@ -8,7 +8,7 @@ sources:
   - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-# Mycorrhizal Drought and Temperature Tolerance
+## Mycorrhizal Drought and Temperature Tolerance
 
 Mycorrhizal associations, particularly those formed by [[dighton-fungal-drought-tolerance-plant-water-relations]] for detailed research on fungal contributions to plant water relations under drought conditions.
 

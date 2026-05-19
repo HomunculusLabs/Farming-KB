@@ -5,7 +5,7 @@ author: Blesching
 tags: [cannabis, diabetes, endocannabinoid, CBD, THC, insulin, neuropathy, metabolic-disease]
 ---
 
-# Cannabis and Diabetes Mellitus
+## Cannabis and Diabetes Mellitus
 
 ## Endocannabinoid System Connections to Metabolic Disease
 

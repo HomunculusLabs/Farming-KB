@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: [papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
-# Cannabis Two-Tier Microbiome Selection Model
+## Cannabis Two-Tier Microbiome Selection Model
 
 The two-tier selection model provides a theoretical framework for understanding how soil properties and plant genotype interact to determine the microbial communities associated with plant roots. Applied to cannabis, this model explains the hierarchical influence of soil type and cultivar on the rhizosphere and endorhiza microbiomes, as demonstrated in the research by Winston et al. (2014) on cultivar-specificity and soil determinants of the cannabis microbiome.
 

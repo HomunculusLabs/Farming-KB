@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, agar, tissue-culture, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Agar Culture Media Agar media serve as the foundation of mushroom mycology, providing a solid surface for isolating, maintaining, and propagating fungal cultures. The use of agar in mycology traces back to early plant pathology, and it remains the standard method for working with pure fungal cultures. Every cultivated mushroom begins its journey on an agar plate. ## What Is Agar Agar is a polysaccharide derived from red algae (primarily Gelidium and Gracilaria species). It forms a gel at temperatures below approximately 42°C and melts at temperatures above 85°C, creating a convenient solid growth medium that can be sterilized without decomposition. At concentrations of 1.5--2.0%, agar provides a firm, stable surface that retains moisture while allowing gas exchange. Importantly, most fungi cannot metabolize agar itself, making it an inert structural component. ## Standard Agar Formulations ### Malt Extract Agar (MEA) The most widely used general-purpose medium in [[marmite-yeast-extract-straw-substrate]]**: 2--4 g
+## Agar Culture Media Agar media serve as the foundation of mushroom mycology, providing a solid surface for isolating, maintaining, and propagating fungal cultures. The use of agar in mycology traces back to early plant pathology, and it remains the standard method for working with pure fungal cultures. Every cultivated mushroom begins its journey on an agar plate. ## What Is Agar Agar is a polysaccharide derived from red algae (primarily Gelidium and Gracilaria species). It forms a gel at temperatures below approximately 42°C and melts at temperatures above 85°C, creating a convenient solid growth medium that can be sterilized without decomposition. At concentrations of 1.5--2.0%, agar provides a firm, stable surface that retains moisture while allowing gas exchange. Importantly, most fungi cannot metabolize agar itself, making it an inert structural component. ## Standard Agar Formulations ### Malt Extract Agar (MEA) The most widely used general-purpose medium in [[marmite-yeast-extract-straw-substrate]]**: 2--4 g
 - **Agar**: 15--20 g
 - **Water**: 1000 mL
 

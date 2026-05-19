@@ -7,7 +7,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 related: [microwave-surface-sterilization-technology, sterilization-methods-comparison]
 ---
 
-# Microwave Microbial Kill Curves and Inactivation Kinetics
+## Microwave Microbial Kill Curves and Inactivation Kinetics
 
 [[coaxial-power-splitter-waveguide-microwave-sterilization]] research
 (MSC-22484) provide quantitative kill curves for mixed populations of

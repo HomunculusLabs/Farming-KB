@@ -7,7 +7,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# McKenna's Stropharia Hypothesis
+## McKenna's Stropharia Hypothesis
 
 In his 1983 Esalen lecture "[[spore]] Biology as Evidence
 

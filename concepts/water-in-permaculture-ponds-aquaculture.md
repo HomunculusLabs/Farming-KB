@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Water in Permaculture: Ponds and Aquaculture
+## Water in Permaculture: Ponds and Aquaculture
 
 Water is the primary determinant of what can be grown and how productive a permaculture system becomes. While only a tiny fraction of Earth's water moves through the active cycle, permaculture design focuses on maximizing surface storage, soil retention, and productive use of every available drop — particularly through integrated [[pond-and-aquaculture]] systems.
 

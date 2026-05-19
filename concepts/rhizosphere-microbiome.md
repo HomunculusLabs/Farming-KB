@@ -6,7 +6,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiology, botany, soil-science, plant-ecology]
 ---
 
-# Rhizosphere Microbiome
+## Rhizosphere Microbiome
 
 The rhizosphere microbiome refers to the diverse community of microorganisms
 including bacteria, fungi, archaea, and viruses that inhabit the narrow zone

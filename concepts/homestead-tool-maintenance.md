@@ -7,7 +7,7 @@ tags: [tools, homesteading, sustainability, equipment, gardening, farming]
 sources: []
 ---
 
-# Homestead Tool Maintenance
+## Homestead Tool Maintenance
 
 Well-maintained tools work better, last longer, and are safer to use. A [[homesteading|homestead]] relies heavily on hand tools — shovels, axes, saws, pruners, hoes, knives, and more. Regular maintenance including cleaning, sharpening, oiling, and proper storage extends tool life by years or decades and reduces replacement costs significantly.
 

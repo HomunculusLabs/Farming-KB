@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, sterilization, agriculture, hygiene]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Pasteurization in Mushroom Cultivation Pasteurization is a heat treatment process used in mushroom cultivation to eliminate or substantially reduce competing organisms from substrates while preserving beneficial microorganisms that aid the cultivation process. Unlike [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]. The substrate is sealed in clear or black polyethylene bags and
+## Pasteurization in Mushroom Cultivation Pasteurization is a heat treatment process used in mushroom cultivation to eliminate or substantially reduce competing organisms from substrates while preserving beneficial microorganisms that aid the cultivation process. Unlike [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]. The substrate is sealed in clear or black polyethylene bags and
 placed in direct sunlight. Internal temperatures can reach pasteurization
 thresholds for several hours. This method is low-cost and sustainable but
 dependent on weather conditions and less reliable than thermal methods.

@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Oak Species (*Quercus*) in Permaculture
+## Oak Species (*Quercus*) in Permaculture
 
 Oaks are among the most important tree genera in temperate and Mediterranean [[permaculture-design]]. As long-lived canopy trees, they form the structural backbone of food forests, [[silvopasture-systems]], and broad-scale agroforestry landscapes.
 

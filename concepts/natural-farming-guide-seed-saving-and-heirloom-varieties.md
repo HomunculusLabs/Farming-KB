@@ -9,7 +9,7 @@ type: concept
 tags: [natural-farming, plant-growth]
 ---
 
-# Seed Saving and Heirloom Varieties
+## Seed Saving and Heirloom Varieties
 
 Seed saving is a critical skill for self-reliant farming and a core practice in permaculture. It preserves [[biodiversity-fungal-genetic-diversity]], reduces dependence on commercial seed suppliers, and allows farmers to select for traits adapted to their specific conditions. Seed sharing is identified as one of the foundational activities of permaculture culture, alongside organic agriculture, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are more likely to be disease-resistant. Seed saving from hybrids is explicitly cautioned against: "You can save seed from your second crop of grain (unless you're using a hybrid)." [[cannabis-seed-selection-and-strain-types]] and storage:
 

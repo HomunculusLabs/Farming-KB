@@ -7,7 +7,7 @@ tags: [tillage, no-till, fungal-networks, soil-structure]
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
-# Tilling Damage to Fungal Networks
+## Tilling Damage to Fungal Networks
 
 Rototilling and excessive soil disturbance are identified in *Teaming with Microbes* as perhaps the most destructive traditional gardening practice. Rule #18 states explicitly: rototilling and excessive soil disturbance destroy or severely damage the [[teaming-with-microbes-overview]], [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]. With fewer fungi, soils become bacterially dominant — a boon to vegetables and row crops in the short term, but a long-term loss of soil health and [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]), where some initial soil disruption may be needed to shift the [[teaming-with-microbes-cover-crops-soil-health]] to maintain living roots and soil biology between plantings
 

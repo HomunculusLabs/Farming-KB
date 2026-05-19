@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pulsers, Biological Rhythms, and Growth
+## Pulsers, Biological Rhythms, and Growth
 
 ## Overview
 

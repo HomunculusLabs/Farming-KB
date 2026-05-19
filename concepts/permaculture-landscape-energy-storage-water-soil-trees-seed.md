@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Landscape Energy Storage: Water, Soil, Trees, and Seed
+## Permaculture Landscape Energy Storage: Water, Soil, Trees, and Seed
 
 This page covers how nature catches and stores energy in landscapes, and how [[permaculture]] applies these principles to rebuild natural capital in four key storages: water, living soil, trees, and seed. Understanding these processes is fundamental to creating sustainable human support systems.
 

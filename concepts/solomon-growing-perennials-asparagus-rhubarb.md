@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Asparagus, Rhubarb, and Perennial Herbs
+## Solomon on Asparagus, Rhubarb, and Perennial Herbs
 
 From [[complete-organic-fertilizer-recipes]]
 - [[solomon-root-systems-and-spacing-science]]

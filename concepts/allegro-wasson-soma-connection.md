@@ -7,7 +7,7 @@ tags: [history, allegro]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# Allegro and the Wasson Soma Connection
+## Allegro and the Wasson Soma Connection
 
 The relationship between [[john-allegro]]'s [The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross (1970) and [Gordon Wasson's SOMA: Divine Mushroom of
 Immortality (1968) is one of the most curious episodes in the history of

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Compost, Mulch, and Compost Tea
+## Teaming with Microbes — Compost, Mulch, and Compost Tea
 
 In *Teaming with Microbes*, Lowenfels and Lewis present three tools as the practical foundation for gardening with the [[teaming-with-microbes-compost-tea-brewing-guide]].
 

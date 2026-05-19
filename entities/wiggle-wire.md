@@ -5,7 +5,7 @@ type: entity
 tags: [infrastructure, greenhouse-hardware, fastening-system]
 ---
 
-# Wiggle Wire
+## Wiggle Wire
 
 ## Description
 

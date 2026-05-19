@@ -16,7 +16,7 @@ sources:
   - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press."
 ---
 
-# Pertusaria amara (Bitter Wart Lichen)
+## Pertusaria amara (Bitter Wart Lichen)
 
 ## Overview
 

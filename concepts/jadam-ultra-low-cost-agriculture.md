@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Ultra-Low-Cost Agriculture
+## JADAM Ultra-Low-Cost Agriculture
 
 JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean [[jadam-natural-nitrogen-fertilizer]] JLF
 - Natural [[beneficial-indigenous-microorganisms-bim]] | Complex collection process | Simplified leaf mold culture |

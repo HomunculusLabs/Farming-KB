@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook
 topics: history, intensive-gardening, french-agriculture, british-agriculture, kropotkin
 ---
 
-# Transport of the French Maraicher System to Britain
+## Transport of the French Maraicher System to Britain
 
 ## William Robinson and the First English Reports
 

@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.m
 type: concept
 ---
 
-# Cannabis Gene Pool Preservation and Acclimatization
+## Cannabis Gene Pool Preservation and Acclimatization
 
 All of the Cannabis grown in [[guzman-psilocybin-mushrooms-north-america]]. Original
 fiber strains have escaped and become acclimatized (adapted to the

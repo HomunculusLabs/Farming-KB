@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom Edibility Classification Key
+## Mushroom Edibility Classification Key
 
 Julius A. Palmer developed an original classification system for determining the
 edibility of large fleshy fungi, published as part of *About Mushrooms* (1894).

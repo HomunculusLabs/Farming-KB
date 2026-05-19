@@ -17,7 +17,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# Psychedelic Terror and Existential Authenticity in the Tryptamine Experience
+## Psychedelic Terror and Existential Authenticity in the Tryptamine Experience
 
 [[leary-psychedelic-experience-bardo-mapping]]
 serves as a marker of existential authenticity. This stance directly challenges the

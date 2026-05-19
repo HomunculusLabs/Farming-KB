@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# PF Substrate Formula and Jar Preparation
+## PF Substrate Formula and Jar Preparation
 
 ## Overview
 

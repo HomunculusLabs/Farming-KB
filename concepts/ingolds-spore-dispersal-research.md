@@ -6,7 +6,7 @@ created: 2026-05-10
 source: Nicholas P. Money - Mr. Bloomfield's Orchard
 ---
 
-# Ingold's Spore Dispersal Research
+## Ingold's Spore Dispersal Research
 
 C. T. Ingold (1905–2010) was a British mycologist whose work on fungal spore
 [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] holding them to the

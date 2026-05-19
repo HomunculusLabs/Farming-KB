@@ -7,7 +7,7 @@ tags: [herbalism, herbs]
 sources: []
 ---
 
-# Honey-Based Herbal Preparations
+## Honey-Based Herbal Preparations
 
 Honey-based herbal preparations combine the therapeutic properties of [[cervantes-hydrogen-peroxide-sterilization]] production make it an excellent preservative and a therapeutic agent in its own right.
 

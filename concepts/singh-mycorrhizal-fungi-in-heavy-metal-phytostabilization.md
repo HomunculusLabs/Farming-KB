@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[gadd-mycelial-network-dynamics]] in the surrounding soil. This hyphal
+## [[gadd-mycelial-network-dynamics]] in the surrounding soil. This hyphal
 network extends the effective depletion zone of plant roots by up to
 several centimeters, enhancing nutrient and water uptake. The symbiosis
 is obligate for the fungus and largely beneficial for the host plant,

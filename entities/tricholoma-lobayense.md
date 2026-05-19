@@ -5,10 +5,10 @@ type: species
 tags: [medicinal-mushroom, polyporaceae, tricholoma, immunomodulator, africa]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Tricholoma lobayense
+## Tricholoma lobayense
 
 **Tricholoma lobayense** is a tropical mushroom species belonging to the family Tricholomataceae. It is found in parts of West and Central Africa and has attracted attention for its immunomodulatory and potential anti-tumor properties. The species is among the lesser-known [[ganoderma-lucidum]].
 

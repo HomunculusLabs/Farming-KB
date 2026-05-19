@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How Do I Set Up a Monotub for Mushroom Cultivation?
+## How Do I Set Up a Monotub for Mushroom Cultivation?
 
 ## Short Answer
 

@@ -5,7 +5,7 @@ type: entity
 tags: [place, national-park, australia, western-australia, karri, landscape, coastal]
 ---
 
-# D'Entrecasteaux National Park
+## D'Entrecasteaux National Park
 
 ## Description
 

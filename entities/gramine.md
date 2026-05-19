@@ -5,10 +5,10 @@ type: chemical
 tags: [indole-alkaloid, natural-product, chemical-intermediate, toxic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
+sources: ["raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"]
 ---
 
-# Gramine
+## Gramine
 
 Gramine, also known as donaxine or 3-(dimethylaminomethyl)indole, is a naturally occurring [[psilocybin]] derivatives as a structural analog and potential chemical intermediate. Gramine contains an indole ring with a dimethylaminomethyl substituent at the 3-position, making it a close structural relative of [[dimethyltryptamine]] in the nature of the 3-position substituent: gramine bears a dimethylaminomethyl group, while DMT bears a 2-(dimethylamino)ethyl chain. This one-carbon difference is significant for [[dimethyltryptamine]] derivatives. The presence of gramine in these forage grasses is a concern for livestock toxicity.
 - **Lupinus species**: Certain lupine species accumulate gramine as a defensive alkaloid.

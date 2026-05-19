@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, mycology, ectomycorrhizal, oregon-state]
 ---
 
-# Jim Trappe (Mycorrhizal Researcher)
+## Jim Trappe (Mycorrhizal Researcher)
 
 ## Description
 

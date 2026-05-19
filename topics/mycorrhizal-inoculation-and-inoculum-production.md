@@ -24,7 +24,7 @@ related_concepts:
   - teaming-with-fungi-mycorrhizal-inoculation-techniques
 ---
 
-# Mycorrhizal Inoculation and Inoculum Production
+## Mycorrhizal Inoculation and Inoculum Production
 
 Mycorrhizal inoculation is the deliberate introduction of beneficial
 mycorrhizal fungi into soil or growing media to establish or restore

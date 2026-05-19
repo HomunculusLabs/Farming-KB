@@ -7,7 +7,7 @@ tags: [water, conservation]
 sources: []
 ---
 
-# Water Pathways Through Plants
+## Water Pathways Through Plants
 
 Water moves through plants along three different pathways simultaneously, which helps explain the tremendous volume of water that travels through a plant. Each pathway has distinct characteristics and plays a crucial role in [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], provides a modest but constant upward force, especially in fine-root xylem vessels.
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/pihkal-a-chemical-love-story.md"
 ---
-# Biointensive Close Plant Spacing
+## Biointensive Close Plant Spacing
 
 Close plant spacing is one of the eight principles of [[comparison-biointensive-vs-square-foot-gardening]] bed. Jeavons provides master charts with expected yields for each crop, including:
 

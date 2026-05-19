@@ -8,7 +8,7 @@ created: 2026-05-09
 source: grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Phytochrome Photoreceptor
+## Phytochrome Photoreceptor
 
 Phytochrome is a photoreceptor pigment protein found in plants that
 enables them to detect red and far-red light. Discovered through the

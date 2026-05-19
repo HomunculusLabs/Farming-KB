@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOI
+## DOI
 
 **Chemical name:** 2,5-Dimethoxy-4-iodoamphetamine
 

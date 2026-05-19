@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Clay Seed Pellet Production Method
+## Clay Seed Pellet Production Method
 
 Clay seed pellets are a core technology in Masanobu Fukuoka's approach to
 [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] of rice, barley, and vegetables in conjunction with the

@@ -1,5 +1,5 @@
 ---
-title: "Reishi (stamets-reishi-ganoderma-lucidum-cultivation)"
+title: "Reishi Ganoderma Lucidum"
 created: 2026-04-28
 type: species
 tags:
@@ -15,7 +15,7 @@ sources:
   - "Boh, B., Berovic, M., et al. (2007). growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press."
 ---
 
-# Reishi (*[[ganoderic-acids]])
+## Reishi (*[[ganoderic-acids]])
 - Over 150 **ganoderic acids** and related triterpenoids identified.
 - Key compounds: ganoderic acid A, B, C, D, F, H, K, lucidenic acid, ganoderiol B.
 - Responsible for the characteristic bitter taste.

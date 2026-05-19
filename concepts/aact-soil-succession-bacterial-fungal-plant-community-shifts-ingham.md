@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# Soil Succession and Bacterial-to-Fungal Community Shifts
+## Soil Succession and Bacterial-to-Fungal Community Shifts
 
 Soil succession describes the predictable progression of soil [[soil-food-web]]
 management and foundational to aact practice.

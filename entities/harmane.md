@@ -22,7 +22,7 @@ sources:
     β-carbolines." Pharmacol. Biochem. Behav. 66(2): 309-313.
 ---
 
-# Harmane
+## Harmane
 
 ## Overview
 

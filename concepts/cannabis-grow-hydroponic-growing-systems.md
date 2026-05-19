@@ -8,7 +8,7 @@ sources: [greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-# Cannabis Hydroponic Growing Systems
+## Cannabis Hydroponic Growing Systems
 
 Hydroponics is the technique of growing plants without soil, using beds
 of sand, gravel, or artificial mediums that are flooded with a nutrient

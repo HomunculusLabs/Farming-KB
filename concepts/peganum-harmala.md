@@ -8,7 +8,7 @@ type: concept
 tags: [harmala]
 ---
 
-# Peganum Harmala
+## Peganum Harmala
 
 Peganum harmala L., commonly known as Syrian Rue, is a perennial
 herbaceous plant of the Nitrariaceae (formerly Zygophyllaceae) family

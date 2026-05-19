@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 type: concept
 ---
 
-# Sandoz Crisis and Withdrawal of LSD from Distribution
+## Sandoz Crisis and Withdrawal of LSD from Distribution
 
 ## The Growing Problem
 

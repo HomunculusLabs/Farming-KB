@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Plant Photoreceptors and the Mechanism of Light Perception
+## Plant Photoreceptors and the Mechanism of Light Perception
 
 Plants perceive light through a sophisticated array of photoreceptor
 proteins that detect not only presence and absence but color, intensity,

@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: entity
 ---
 
-# Honey Oil (Translucent Cannabis Oil)
+## Honey Oil (Translucent Cannabis Oil)
 
 ## Description
 

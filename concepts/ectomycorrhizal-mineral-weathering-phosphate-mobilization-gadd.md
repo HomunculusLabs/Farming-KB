@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 tags: [mycology, mycorrhiza, mineral-weathering, biogeochemistry, phosphorus]
 ---
 
-# Ectomycorrhizal Mineral Weathering and Phosphate Mobilization
+## Ectomycorrhizal Mineral Weathering and Phosphate Mobilization
 
 Ectomycorrhizal (ECM) fungi form one of the most consequential symbioses in
 terrestrial ecosystems, directly linking the mineral world to plant nutrition

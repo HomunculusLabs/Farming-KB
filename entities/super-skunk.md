@@ -20,7 +20,7 @@ sources:
   - "Sensi Seeds. \"Super Skunk strain profile.\" sensiseeds.com."
 ---
 
-# Super Skunk
+## Super Skunk
 
 ## Overview
 

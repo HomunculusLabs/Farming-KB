@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# George Washington Carver's Plant Work
+## George Washington Carver's Plant Work
 
 George Washington Carver (1864-1943), the agricultural chemist heralded as
 the "Black Leonardo," transformed Southern agriculture through his intuitive

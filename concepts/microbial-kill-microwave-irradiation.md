@@ -1,4 +1,8 @@
-# Microbial Kill by Microwave Irradiation
+---
+title: "Microbial Kill by Microwave Irradiation"
+tags:
+  - concept
+---
 
 Microwave irradiation can destroy microorganisms through a
 combination of thermal and non-thermal mechanisms. The

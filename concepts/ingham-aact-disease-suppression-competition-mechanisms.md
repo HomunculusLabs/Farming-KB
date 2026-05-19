@@ -11,7 +11,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# AACT Disease Suppression Through Biological Competition
+## AACT Disease Suppression Through Biological Competition
 
 Dr. Elaine Ingham's research demonstrates that actively [[edaphic-factors-microbial-community-structure]].
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Bulk Substrate Spawning and Spawn Running in The Mushroom Cultivator
+## Bulk Substrate Spawning and Spawn Running in The Mushroom Cultivator
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter VII
 Updated: 2026-04-18

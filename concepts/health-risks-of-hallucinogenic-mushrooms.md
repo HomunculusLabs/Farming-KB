@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Health Risks of Hallucinogenic Mushrooms
+## Health Risks of Hallucinogenic Mushrooms
 
 While psilocybin-containing mushrooms are generally regarded as having low
 physiological toxicity and no established lethal dose in humans, their use

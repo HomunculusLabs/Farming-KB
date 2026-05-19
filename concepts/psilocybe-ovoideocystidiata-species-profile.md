@@ -8,7 +8,7 @@ sources: []
 type: concept
 ---
 
-# Psilocybe ovoideocystidiata Species Profile
+## Psilocybe ovoideocystidiata Species Profile
 
 ## Overview
 

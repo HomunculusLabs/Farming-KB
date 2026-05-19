@@ -18,7 +18,7 @@ sources:
 type: comparison
 ---
 
-# Lactic Acid Bacteria (LAB) Serum vs. Compost Tea
+## Lactic Acid Bacteria (LAB) Serum vs. Compost Tea
 
 Both LAB serum and compost tea are popular biological amendments for soil and [[query-spore-syringes-vs-liquid-culture]] of lactic acid bacteria produced through a three-stage fermentation process rooted in Korean Natural Farming (KNF):
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Moist Chamber Technique — Inducing Fungal Fruiting
+## Moist Chamber Technique — Inducing Fungal Fruiting
 
 The moist chamber technique is one of the most versatile and widely used methods in [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and spores from collected substrata. It is essential for studying microfungi, myxomycetes, and many other groups that cannot be identified in the field.
 

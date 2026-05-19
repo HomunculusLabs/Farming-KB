@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Coco Coir for Cannabis
+## Coco Coir for Cannabis
 
 Coconut coir (also called coco peat or coconut fiber) is an excellent [[query-how-does-no-till-cannabis-cultivation-work]]. It is a natural, renewable product derived from the fibrous husk of coconuts. Coco coir is versatile enough to be used in passive [[vermiculite-cannabis]] adds water retention and nutrient buffering.
 - **With soilless mix**: Blends coco peat with commercial soilless mixes for improved structure.

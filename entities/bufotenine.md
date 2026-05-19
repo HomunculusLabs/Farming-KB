@@ -5,10 +5,10 @@ type: chemical
 tags: [tryptamine, psychedelic, toxic, natural-product, bufotoxin]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
+sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 
-# Bufotenine
+## Bufotenine
 
 **Bufotenine** (5-hydroxy-N,N-[[dimethyltryptamine]], **5-OH-DMT**) is a naturally occurring [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] found in the secretions of several toad species, certain plant genera, and in trace amounts in mammalian tissues. It has a complex pharmacological history — simultaneously used as an entheogen in [[anadenanthera-peregrina]]* (yopo/cohoba seeds), *[[dmt-containing-plants-united-states-halpern]] has
 further complicated the legal landscape around bufotenine-containing

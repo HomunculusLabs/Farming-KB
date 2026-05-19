@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Food Web Gardening Rules
+## Soil Food Web Gardening Rules
 
 > The complete set of 19 rules from the Appendix of *Teaming with Microbes* by
 > Jeff Lowenfels & Wayne Lewis — practical guidelines distilled from soil food

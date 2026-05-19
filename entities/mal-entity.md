@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MAL (Methallylescaline; 3,5-Dimethoxy-4-methallyloxyphenethylamine)
+## MAL (Methallylescaline; 3,5-Dimethoxy-4-methallyloxyphenethylamine)
 
 MAL is an allyl-substituted phenethylamine derived from [[dom]].
 

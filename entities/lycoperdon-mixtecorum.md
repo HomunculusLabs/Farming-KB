@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Lycoperdon mixtecorum
+## Lycoperdon mixtecorum
 
 **Lycoperdon mixtecorum** Heim is a small puffball fungus known only from Oaxaca, Mexico, where it is used by the Mixtec people for its psychoactive properties. It is one of the more obscure [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] of the Mazatec people.
 

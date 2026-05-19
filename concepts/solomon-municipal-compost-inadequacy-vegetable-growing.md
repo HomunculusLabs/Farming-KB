@@ -1,4 +1,8 @@
-# Municipal Compost Inadequacy for Vegetable Growing
+---
+title: "Municipal Compost Inadequacy for Vegetable Growing"
+tags:
+  - concept
+---
 
 ## Source
 - **Book:** Gardening When It Counts: Growing Food in Hard Times

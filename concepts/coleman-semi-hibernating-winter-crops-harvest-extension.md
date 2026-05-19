@@ -5,7 +5,7 @@ source_author: Eliot Coleman
 topics: [winter-harvest, semi-hibernation, harvest-extension, plant-growth, day-length, cold-house]
 ---
 
-# Semi-Hibernating Winter Crops and Harvest Extension
+## Semi-Hibernating Winter Crops and Harvest Extension
 
 ## Overview
 

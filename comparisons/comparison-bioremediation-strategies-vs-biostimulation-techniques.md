@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Bioremediation Strategies vs Biostimulation Techniques
+## Bioremediation Strategies vs Biostimulation Techniques
 
 ## Overview
 

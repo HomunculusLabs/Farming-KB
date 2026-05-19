@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Cultivation in Thailand
+## Mushroom Cultivation in Thailand
 
 Thailand has ideal environmental conditions [[history-of-mushroom-cultivation]] growing. Thai people have long grown a variety of mushrooms,
 recognizing that mushroom growing requires low-cost materials and technologies

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Mu (Nothingness) Philosophy
+## Mu (Nothingness) Philosophy
 
 The philosophy of Mu -- nothingness, emptiness, the void -- is the deepest philosophical foundation of Masanobu Fukuoka's [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] and abandon the impulse to control nature, what remains is the reality of nature itself -- whole, complete, and self-sustaining.
 

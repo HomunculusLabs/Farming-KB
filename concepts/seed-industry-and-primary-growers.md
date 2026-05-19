@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# The [[query-how-do-i-create-a-seed-bank-and-start-seed-saving|Seed]] Industry and Primary Growers
+## The [[query-how-do-i-create-a-seed-bank-and-start-seed-saving|Seed]] Industry and Primary Growers
 
 Understanding how the garden seed industry actually works is essential for making informed purchasing decisions. The seed that ends up in a gardener's hands passes through multiple layers of distribution, each adding cost and each creating incentives to cut quality. The structure of the industry explains why garden center seed racks consistently underperform compared to seed from specialist suppliers.
 

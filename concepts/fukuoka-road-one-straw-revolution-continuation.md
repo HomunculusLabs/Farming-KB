@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's One-Straw Revolution Continuation
+## Fukuoka's One-Straw Revolution Continuation
 [[fukuoka-spiritual-philosophy-farming]].
 ## From Farm to World
 Drawing on [[fukuoka-american-agriculture-fields-of-death]]'s dependence on chemical inputs and mechanization with

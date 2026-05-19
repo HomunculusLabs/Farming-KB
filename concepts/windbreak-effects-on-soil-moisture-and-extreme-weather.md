@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Windbreak Effects on Soil Moisture and Extreme Weather
+## Windbreak Effects on Soil Moisture and Extreme Weather
 
 Windbreaks profoundly influence soil moisture dynamics, snow accumulation, water evaporation, and crop yields. Beyond these everyday benefits, understanding extreme wind events — hurricanes, tornadoes, and firestorms — is critical for [[soil-moisture-management-and-root-growth]]
 - [[soil-moisture-monitoring-irrigation-management]]

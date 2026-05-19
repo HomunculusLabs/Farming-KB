@@ -1,4 +1,8 @@
-# EMCDDA Clubbing Survey Prevalence Data and Polydrug Use Patterns with Mushrooms
+---
+title: "EMCDDA Clubbing Survey Prevalence Data and Polydrug Use Patterns with Mushrooms"
+tags:
+  - concept
+---
 
 ## Source
 *EMCDDA (2006) — [[emcdda-epod-project-emerging-trend-detection-methodology]] Case Study*

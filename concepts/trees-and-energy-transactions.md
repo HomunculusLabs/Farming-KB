@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Trees and Their Energy Transactions
+## Trees and Their Energy Transactions
 
 Trees perform far more energy transactions than are commonly recognized. Beyond their well-known roles in photosynthesis, carbon sequestration, and habitat provision, trees act as critical hydraulic engineers — intercepting atmospheric moisture, modifying runoff patterns, reducing erosion, and regulating stream flow. These mechanical and aerodynamic performances are often overlooked in conventional land management, yet they represent some of the most significant ecological services that forests provide to watersheds and human settlements alike.
 

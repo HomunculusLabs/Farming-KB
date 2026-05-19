@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Salting and Remediation Strategies
+## Dryland Salting and Remediation Strategies
 
 [[bill-mollison]]'s *Permaculture: A Designers' Manual* to present the mechanisms, diagnostics, and remediation strategies relevant to dryland salting.
 

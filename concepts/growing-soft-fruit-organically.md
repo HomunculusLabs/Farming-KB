@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
-# Growing Soft Fruit [[coleman-overwintered-onions-and-early-spring-crops]].
+## Growing Soft Fruit [[coleman-overwintered-onions-and-early-spring-crops]].
 **[[jadam-canker-leaf-spot-pesticide]].
 
 ## Black Currants (Ribes nigrum)

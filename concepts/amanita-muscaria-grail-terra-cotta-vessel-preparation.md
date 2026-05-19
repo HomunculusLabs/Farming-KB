@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# The Grail: A Terra Cotta Vessel for Cultivating Amanita Muscaria
+## The Grail: A Terra Cotta Vessel for Cultivating Amanita Muscaria
 
 ## The Grail Concept
 

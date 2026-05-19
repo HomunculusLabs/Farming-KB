@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mineral Deficiency Remedies for Gardens
+## Mineral Deficiency Remedies for Gardens
 
 ## General Principles
 

@@ -10,7 +10,7 @@ topics:
   - soil-foodweb
 ---
 
-# Brix as a Plant Health Indicator: Limitations and Interpretation
+## Brix as a Plant Health Indicator: Limitations and Interpretation
 
 ## Overview
 

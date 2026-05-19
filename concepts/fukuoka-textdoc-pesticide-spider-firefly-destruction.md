@@ -14,7 +14,7 @@ sources:
   - microdosing-theory-and-practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
-# Pesticides and the Destruction of Ecological Chains
+## Pesticides and the Destruction of Ecological Chains
 
 Masanobu Fukuoka provided a detailed account of how pesticide application in Japanese [[query-how-do-parasitoid-wasps-control-pest-populations]] in check.
 

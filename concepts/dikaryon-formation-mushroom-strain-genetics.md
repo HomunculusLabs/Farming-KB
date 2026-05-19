@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Dikaryon Formation and Mushroom Strain Genetics
+## Dikaryon Formation and Mushroom Strain Genetics
 
 The genetic architecture of mushrooms differs fundamentally from that of plants
 and animals. Understanding dikaryon formation, clamp connections, mating types,

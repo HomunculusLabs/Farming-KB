@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Composting and Lignocellulose Degradation
+## Mushroom Composting and Lignocellulose Degradation
 
 ## Overview
 

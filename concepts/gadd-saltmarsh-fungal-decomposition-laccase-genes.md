@@ -1,3 +1,8 @@
+---
+title: "Gadd Saltmarsh Fungal Decomposition Laccase Genes"
+tags:
+  - concept
+---
 Source: [[saltmarsh-fungal-ecology]] decomposition system
 of the southeastern US Atlantic coast, revealing how [[spartina-alterniflora]] through diverse
 [[saltmarsh-fungal-ecology]]es of the Georgia, USA, Atlantic coast form an expansive intertidal
@@ -143,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[gadd-intracellular-signal-transduction-filamentous-fungi]]
 - [[gadd-lichen-biogeochemistry-pioneer]]
 - [[gadd-mineral-transformations-biogeochemistry]]
-- [[lichen-biogeochemistry-pioneer-rock-colonization-gadd]]

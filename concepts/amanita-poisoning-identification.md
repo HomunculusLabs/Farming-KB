@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Amanita Poisoning Identification
+## Amanita Poisoning Identification
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [regenerative, permaculture, compost, soil, cultivation]
 sources: [raw/papers/gaias-garden-toby-hemenway.md]
 ---
 
-# Sheet Mulching — In-Place Composting
+## Sheet Mulching — In-Place Composting
 
 Sheet mulching (also called lasagna gardening or composting in place) is a no-till method of building fertile soil directly where you want to grow. It suppresses weeds, builds topsoil, and eliminates the need to transport compost. The definitive guide in Toby Hemenway's Gaia's Garden makes this the preferred method for establishing ecological gardens.
 

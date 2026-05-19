@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Psilocybin Mushroom Non-Addictive Profile and Tolerance Dynamics
+## EMCDDA Psilocybin Mushroom Non-Addictive Profile and Tolerance Dynamics
 
 ## Overview
 

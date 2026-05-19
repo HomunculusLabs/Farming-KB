@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Orchard Insects and the Pruning Connection
+## Orchard Insects and the Pruning Connection
 
 updated: 2026-04-18
 

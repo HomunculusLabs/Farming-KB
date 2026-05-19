@@ -7,7 +7,7 @@ tags: [reference]
 sources: [papers/shulgin-a-tihkal.md, papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md, papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
-# iboga and ibogaine profile
+## iboga and ibogaine profile
 
 Iboga ([[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] in the iboga family. Key properties:
 

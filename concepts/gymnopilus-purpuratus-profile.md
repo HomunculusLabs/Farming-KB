@@ -8,7 +8,7 @@ sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
 
-# Gymnopilus purpuratus
+## Gymnopilus purpuratus
 
 [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species originally native to
 [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] and pig manure. The compost heaps reached internal temperatures of

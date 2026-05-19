@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Grow and Use Stinging Nettle?
+## How Do I Grow and Use Stinging Nettle?
 
 ## Short Answer
 

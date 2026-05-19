@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Farm Strategies and Yield Extension in Permaculture
+## Farm Strategies and Yield Extension in Permaculture
 
 ## Water Storage Strategies (12-20% of Landscape)
 

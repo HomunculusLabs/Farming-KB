@@ -8,7 +8,7 @@ sources: [raw/papers/master-cho-knf-recipe-book.md]
 type: concept
 ---
 
-# KNF Oriental Herbal Nutrient Recipe
+## KNF Oriental Herbal Nutrient Recipe
 
 Oriental Herbal Nutrient (OHN) is a core Korean [[permaculture-plants-medicinal-herbs-healing]]. Developed by Master
 Han-Kyu Cho, OHN functions to increase plant robustness, sterilize against

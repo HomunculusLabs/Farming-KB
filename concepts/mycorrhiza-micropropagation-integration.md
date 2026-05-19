@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhiza Micropropagation Integration
+## Mycorrhiza Micropropagation Integration
 
 ## Overview
 

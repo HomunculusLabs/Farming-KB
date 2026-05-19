@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Protected Cultivation Double-Layer System
+## Protected Cultivation Double-Layer System
 
 ## Overview
 

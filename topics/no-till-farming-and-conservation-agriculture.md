@@ -25,7 +25,7 @@ related_concepts:
   - "living-soil-cannabis-cultivation"
 ---
 
-# No-Till Farming and Conservation Agriculture
+## No-Till Farming and Conservation Agriculture
 
 No-till farming is an agricultural system that avoids mechanically inverting
 or aggressively disturbing the soil profile, instead relying on biological

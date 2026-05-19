@@ -5,7 +5,7 @@ type: entity
 tags: [zygomycete, mycoparasite, gall-forming, horizontal-gene-transfer, mucorales]
 ---
 
-# Parasitella parasitica
+## Parasitella parasitica
 
 ## Description
 

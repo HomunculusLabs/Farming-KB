@@ -5,7 +5,7 @@ source_id: "coleman-winter-harvest-handbook"
 topics: [mobile-greenhouse, crop-rotation, winter-harvest, coleman, four-season-farming, season-extension]
 ---
 
-# Mobile Greenhouse Crop Rotation Design
+## Mobile Greenhouse Crop Rotation Design
 
 ## Overview
 

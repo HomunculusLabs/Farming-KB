@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Value of Marginal Systems in Permaculture
+## Value of Marginal Systems in Permaculture
 
 The permaculture principle "Use Edges and Value the Marginal" extends beyond physical landscape edges to encompass social, economic, and intellectual margins. Marginal systems — those elements that only peripherally contribute to a dominant function or that exist at the boundary between domains — often serve as wellsprings of innovation, resilience, and renewal. Discarding the negative connotations of "marginal" allows us to recognise the hidden value in these overlooked systems.
 

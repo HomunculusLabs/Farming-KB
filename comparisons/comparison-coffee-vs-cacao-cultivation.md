@@ -26,7 +26,7 @@ sources:
     url: "https://sca.coffee/research/standards"
 ---
 
-# Coffee vs Cacao Cultivation
+## Coffee vs Cacao Cultivation
 
 A practical comparison for growers choosing between these two major tropical perennial crops — or considering growing them together in agroforestry systems.
 

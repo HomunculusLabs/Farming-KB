@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi as Food for Secondary Producers
+## Fungi as Food for Secondary Producers
 
 Fungi occupy a pivotal position in terrestrial food webs, serving as a critical food source — or secondary production base — for a wide array of vertebrate and invertebrate animals. The consumption of fungi (mycophagy or fungivory) links the fungal decomposer and symbiotic communities to higher trophic levels, with significant consequences for ecosystem functioning, nutrient cycling, and population dynamics.
 

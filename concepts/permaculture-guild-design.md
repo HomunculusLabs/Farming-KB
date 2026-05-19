@@ -7,7 +7,7 @@ tags: [permaculture, guild, companion-planting, plant-systems, ecology, design, 
 sources: []
 ---
 
-# Permaculture Guild Design
+## Permaculture Guild Design
 
 A guild is a group of plants, animals, fungi, and other organisms that work together synergistically. Modeled after natural plant communities, guilds create mutual support networks that reduce maintenance, increase yields, and build ecosystem resilience. Guild design is a direct application of the permaculture principles of integration, diversity, and each element performing multiple functions.
 

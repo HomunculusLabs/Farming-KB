@@ -8,7 +8,7 @@ sources: [the-psilocybin-solution-by-simon-g-powell.md]
 type: concept
 ---
 
-# Psilocybin Neuronal Pharmacology and Synaptic Mechanisms
+## Psilocybin Neuronal Pharmacology and Synaptic Mechanisms
 
 Simon G. Powell's The [[leary-psychedelic-experience-bardo-mapping]]. The book
 provides an accessible yet detailed exploration of how psilocybin

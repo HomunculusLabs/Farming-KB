@@ -4,7 +4,7 @@ source: "Gardening When It Counts (Steve Solomon)"
 topics: [vegetable-gardening, soil-fertility, crop-nutrition, organic-fertilizer, plant-nutrients, COF]
 ---
 
-# Vegetable Nutrient Demand Classification
+## Vegetable Nutrient Demand Classification
 
 ## Overview
 

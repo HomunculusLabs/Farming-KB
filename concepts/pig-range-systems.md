@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pig Range Systems
+## Pig Range Systems
 
 **Pig range systems** are free-range management approaches for domestic pigs (*Sus scrofa domesticus*) within integrated permaculture designs. [[bill-mollison]] presents pigs as the third critical animal species — alongside bees and poultry — for domestic self-reliance, emphasising their role in land preparation, waste recycling, orchard cleanup, and high-quality meat production.
 

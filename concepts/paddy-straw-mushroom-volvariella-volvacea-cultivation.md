@@ -7,7 +7,7 @@ tags: [cultivation, mycology]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-# Paddy Straw Mushroom Cultivation (Volvariella volvacea)
+## Paddy Straw Mushroom Cultivation (Volvariella volvacea)
 
 Updated: 2026-04-18
 

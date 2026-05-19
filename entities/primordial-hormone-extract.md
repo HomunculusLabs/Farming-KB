@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Primordial Hormone Extract
+## Primordial Hormone Extract
 
 ## Description
 

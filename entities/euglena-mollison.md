@@ -5,7 +5,7 @@ type: entity
 tags: [algae, sewage-treatment, phytoplankton, wastewater, microorganism]
 ---
 
-# Euglena
+## Euglena
 
 ## Description
 

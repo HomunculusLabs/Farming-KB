@@ -9,7 +9,7 @@ sources:
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 
-# Ecology for Gardeners
+## Ecology for Gardeners
 
 [[fungi-in-garden-ecosystems]].
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Agar Medium Preparation and Techniques
+## Agar Medium Preparation and Techniques
 Agar medium preparation is one of the most fundamental skills in mushroom 
 cultivation. A properly prepared agar plate provides a sterile, nutritious 
 surface for [[bulk-substrate-preparation]] to 

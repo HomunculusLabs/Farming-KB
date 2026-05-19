@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Windbreak vs Thermal Mass
+## Windbreak vs Thermal Mass
 
 ## Overview
 

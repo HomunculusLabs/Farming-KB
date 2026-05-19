@@ -1,4 +1,8 @@
-# Shamanic Initiation: The Death and Resurrection Pattern in Ecstatic Traditions
+---
+title: "Shamanic Initiation: The Death and Resurrection Pattern in Ecstatic Traditions"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

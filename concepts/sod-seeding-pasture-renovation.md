@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Sod Seeding and Pasture Renovation
+## Sod Seeding and Pasture Renovation
 
 [[sod-seeding]] (also called direct drilling or no-till overseeding) is a technique for establishing new pasture species into existing grassland without full cultivation. It is a cornerstone of low-energy pasture improvement, avoiding the soil destruction, compaction, and weed invasion that typically follow ploughing.
 

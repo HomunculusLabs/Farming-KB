@@ -5,10 +5,10 @@ type: species
 tags: [acanthaceae, virola-admixture, ethnobotany, amazon, medicinal-plant]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 ---
 
-# Justicia pectoralis
+## Justicia pectoralis
 
 *Justicia pectoralis* is a species of flowering plant in the family Acanthaceae, native to tropical regions of the Americas. It is best known in ethnobotanical contexts as one of the admixture plants traditionally added to *Virola* snuff preparations by Indigenous peoples of the Amazon basin, where it may contribute to the pharmacological effects of the psychoactive snuff.
 

@@ -5,7 +5,7 @@ type: technique
 tags: [identification, spore-print, amanita, safety, technique]
 ---
 
-# Spore Print (Amanita Identification)
+## Spore Print (Amanita Identification)
 
 ## Description
 

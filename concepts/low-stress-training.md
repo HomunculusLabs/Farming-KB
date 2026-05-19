@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Low-Stress Training (LST)
+## Low-Stress Training (LST)
 
 Low-Stress Training (LST) is a [[cannabis-training-techniques-comparison]] including [[supercropping]], LST causes minimal stress to the plant. Cervantes states: "Bending is much easier on plants than pruning" and "it is easy to prune too much, but it is hard to over bend." This makes LST ideal for beginners and for strains that are sensitive to stress.
 

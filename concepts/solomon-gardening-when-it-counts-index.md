@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Gardening When It Counts - Steve Solomon (Mining Index)
+## Gardening When It Counts - Steve Solomon (Mining Index)
 
 Updated: 2026-04-18
 
@@ -33,7 +33,7 @@ This index tracks all wiki pages created from Steve Solomon's "Gardening When It
 - [[natural-farming-vs-organic-farming]] topics.
 ## Merged: Unirrigated Gardening
 
-# Unirrigated Gardening
+## Unirrigated Gardening
 
 Steve Solomon makes the case that gardening without irrigation is not only possible but often preferable. Drawing on the dry-farming wisdom of John Widstoe's 1911 work and William Albrecht's soil science, he shows how proper soil management and plant spacing can eliminate the need for supplemental watering.
 

@@ -7,7 +7,7 @@ tags: [gardening, seeds, propagation, techniques, vegetables, beginner]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Seed Starting Indoors
+## Seed Starting Indoors
 
 How to raise your own vegetable transplants indoors, from Steve Solomon's *[[gardening-when-it-counts]]*. Solomon prefers [[clay-seed-pellets-direct-seeding]] for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
 

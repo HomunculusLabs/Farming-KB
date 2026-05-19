@@ -8,7 +8,7 @@ sources: [the-way-to-ultra-low-cost-agriculture-untitled.md]
 type: concept
 ---
 
-# JADAM Water Softener Pesticide Integration
+## JADAM Water Softener Pesticide Integration
 
 ## Overview
 

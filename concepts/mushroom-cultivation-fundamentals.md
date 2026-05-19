@@ -1,4 +1,8 @@
-# Mushroom Cultivation Fundamentals
+---
+title: "Mushroom Cultivation Fundamentals"
+tags:
+  - concept
+---
 
 ## Overview
 Mushroom cultivation is the practice of growing fungi for food,
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[emcdda-european-mushroom-varieties-and-market-products]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[mushroom-hormones-gill-directed-tropism-basidiomycete-development]]
-- [[mushroom-spawn]]

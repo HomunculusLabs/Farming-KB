@@ -8,7 +8,7 @@ sources: [raw/papers/amaringo-p-ayahuasca-visions.md]
 type: concept
 ---
 
-# Amazonian Plant Teachers and Vegetalista Cosmology
+## Amazonian Plant Teachers and Vegetalista Cosmology
 
 ## Overview
 

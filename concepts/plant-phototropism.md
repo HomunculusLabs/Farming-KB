@@ -5,7 +5,7 @@ source: Chamovitz (2012) "What a Plant Knows"; Darwin (1880) "The darwin-power-o
 tags: [botany, phototropism, darwin, plant-senses, blue-light, auxin]
 ---
 
-# Plant Phototropism
+## Plant Phototropism
 
 Phototropism is the growth response of a plant toward or away from light. It is one of the most visible and easily demonstrated plant behaviors — the way houseplants lean toward windows, seedlings bend toward lamps, and field crops track the sun across the sky. The scientific study of phototropism, pioneered by Charles Darwin and his son Francis, revealed that plants possess a sophisticated ability to sense the direction, quality, and intensity of light.
 

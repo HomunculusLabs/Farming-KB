@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-# Food Forest Succession and Year-Round Eating [[harvest-window-cannabis]]. Diversity is all about stability and abundance -- the important stuff. If this was an industrial monocrop farm, the community would have to ship in tons of food or things would get really boring.
+## Food Forest Succession and Year-Round Eating [[harvest-window-cannabis]]. Diversity is all about stability and abundance -- the important stuff. If this was an industrial monocrop farm, the community would have to ship in tons of food or things would get really boring.
 
 ## Early, Mid, and Late Varieties
 

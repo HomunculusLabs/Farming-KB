@@ -1,4 +1,8 @@
-# Stinkhorn Fungi: Morphology and Ecology
+---
+title: "Stinkhorn Fungi: Morphology and Ecology"
+tags:
+  - concept
+---
 
 ## Overview
 

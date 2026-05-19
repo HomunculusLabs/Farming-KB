@@ -6,7 +6,7 @@ date: 2026-05-09
 aliases: [Spore Syringe Technique, mushroom-inoculation-hygiene-cotter
 ---
 
-# Mushroom Spore Syringe Inoculation
+## Mushroom Spore Syringe Inoculation
 
 [[spore-syringe-inoculation]] is the process of introducing fungal spores into a sterilized
 substrate to initiate [[pf-tek-psilocybe-fanaticus]], this step transforms a jar of inert substrate into a living fungal

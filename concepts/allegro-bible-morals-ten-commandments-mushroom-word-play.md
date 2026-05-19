@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Allegro Bible Morals and Ten Commandments as Mushroom Word-Play
+## Allegro Bible Morals and Ten Commandments as Mushroom Word-Play
 
 John Marco Allegro's controversial thesis in *[[allegro-fertility-philosophy-of-the-ancient-near-east]], the New Testament as deliberate cryptic communication, the Ten Commandments themselves as mushroom word-play, and a [[leary-psychedelic-experience-bardo-mapping]] — the kind of visual distortion well documented in the ethnographic literature on [[fly-agaric]] intoxication.
 

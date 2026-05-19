@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# Cannabis Trichome Types and Development
+## Cannabis Trichome Types and Development
 
 Trichomes are hair-like epidermal outgrowths found on the surface of cannabis plants. Several types of trichomes are present on cannabis, and the glandular (secretory) varieties are responsible for producing the cannabinoid-rich resin that gives cannabis its therapeutic and psychoactive properties. Understanding trichome types and their development is essential for both breeders selecting for potency and growers determining optimal [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] are divided into two broad categories: non-glandular and glandular. Non-glandular trichomes serve primarily structural and protective functions — they give the plant its characteristic fuzzy appearance and may help deter insect herbivory through physical barrier effects. These non-glandular hairs do not produce cannabinoids or significant amounts of terpenes.
 

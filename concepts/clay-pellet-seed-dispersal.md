@@ -13,7 +13,7 @@ tags:
   - restoration
 ---
 
-# Clay Pellet Seed Dispersal
+## Clay Pellet Seed Dispersal
 
 Clay pellet seed dispersal is a revegetation technique developed by
 **cho-natural-farming-philosophy at landscape scale.

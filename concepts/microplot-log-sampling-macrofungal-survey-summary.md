@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Microplot Sampling, Log Sampling Protocols, and Macrofungal Survey Summary
+## Microplot Sampling, Log Sampling Protocols, and Macrofungal Survey Summary
 
 ## Sampling Small Ascomycetes Using Microplots
 

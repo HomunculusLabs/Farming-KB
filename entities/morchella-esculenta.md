@@ -21,7 +21,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Morchella esculenta
+## Morchella esculenta
 
 **Morchella esculenta**, commonly known as the **yellow morel**, **common morel**, or **true morel**, is one of the most prized [[fungi-cultivated-mushrooms-pathogens-competitors]] which are Basidiomycota — morels are sought after by foragers and gourmet chefs for their complex, nutty, earthy flavor and distinctive honeycomb-like appearance. Despite intense demand and decades of research, reliable commercial cultivation has only recently become feasible, and [[fungi-multilocus-sequence-typing-molecular-epidemiology]] analysis (ITS, RPB1, RPB2, TEF1) have revealed that what was historically called *M. esculenta* represents a species complex. Richard et al. (2014) formally described the *Morchella esculenta* clade (yellow morels, Phylogenetic Section *Morchella*) as containing approximately 20 phylogenetic species across the Northern Hemisphere. True *M. esculenta* (sensu stricto) is native to Europe; [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] of *M. esculenta* is immediately recognizable:
 

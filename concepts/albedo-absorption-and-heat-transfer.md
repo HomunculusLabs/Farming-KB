@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Albedo, Absorption, and Heat Transfer
+## Albedo, Absorption, and Heat Transfer
 
 Understanding how energy is absorbed, reflected, stored, and transferred in landscapes is fundamental to [[albedo-heat-transfer-and-thermal-belts]]
 - [[solar-radiation-albedo-heat]]

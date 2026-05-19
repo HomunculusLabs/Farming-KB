@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
-# Arbuscular Mycorrhizal Fungi — Biology and Symbiosis
+## Arbuscular Mycorrhizal Fungi — Biology and Symbiosis
 Arbuscular mycorrhizal (AM) fungi are among the most ecologically important
 organisms on Earth, forming symbiotic associations with the vast majority of
 land plants. The association involves fungi in the order Glomales, phylum

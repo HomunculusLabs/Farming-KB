@@ -15,7 +15,7 @@ created: 2026-05-11
 source: mckenna_t-tryptamines_consciousness.md
 ---
 
-# DMT Phenomenology
+## DMT Phenomenology
 
 Dimethyltryptamine (DMT) is a powerful tryptamine hallucinogen that produces one of the most intense and unusual altered states of consciousness known to psychopharmacology. When smoked or vaporized, DMT induces an experience of extraordinary rapidity and immersive power, typically lasting 5-15 minutes but subjectively experienced as vastly longer. Its phenomenology is distinct from that of other classical psychedelics such as LSD or psilocybin, characterized by extreme intensity, consistent entity encounters, and a unique "breakthrough" quality.
 

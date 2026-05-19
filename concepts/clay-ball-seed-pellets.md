@@ -7,7 +7,7 @@ tags: [permaculture, seeds, techniques, no-till, farming, methods]
 sources: [raw/papers/one-straw-revolution-masanobu-fukuoka.md, raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 ---
 
-# Clay Ball Seed Pellets
+## Clay Ball Seed Pellets
 
 Clay ball seed pellets (also called clay pellets or seed balls) are a technique developed by Masanobu Fukuoka for direct-seeding without tillage. They protect seeds from birds, mice, and rot while allowing natural germination when conditions are right.
 

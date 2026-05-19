@@ -7,7 +7,7 @@ tags: [plants]
 sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 ---
 
-# Ololiuqui and Turbina corymbosa
+## Ololiuqui and Turbina corymbosa
 
 **Source:** Plants of the Gods (Schultes & Hofmann) | **Updated:** 2026-04-24
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Synthesis via Zwitterionic Phosphate Intermediate
+## Psilocybin Synthesis via Zwitterionic Phosphate Intermediate
 
 The 2003 paper by Shirota, Hakamata, and Goda at Japan's National Institute of Health Sciences achieved gram-scale syntheses of both [[grass-seed-cultivation-of-psilocybe-mushrooms]]. They closely resemble the n, and their hallucinogenic effect is probably caused by interference with normal brain serotonin actions. [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (TLC, GC, HPLC) used in [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]**: The acetyl-protected indole is treated with [[phosphorylation-methods-psilocybin-production-comparison]] were evaluated:
 

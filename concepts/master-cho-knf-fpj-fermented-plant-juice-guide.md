@@ -8,7 +8,7 @@ type: concept
 tags: [fermentation, fpe, knf, plants]
 ---
 
-# Master Cho's FPJ (Fermented Plant Juice) Guide
+## Master Cho's FPJ (Fermented Plant Juice) Guide
 
 Fermented Plant Juice (FPJ) is a fermented extract of plants that helps crops absorb nutrients directly for growing healthy and enabling their potentiality. FPJ is the fertilizer that helps plants enhance their own vitality and induce their potentials.
 

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Photon-Counting Scintillation Imaging (PCSI) for Mycelial Nutrient Transport
+## Photon-Counting Scintillation Imaging (PCSI) for Mycelial Nutrient Transport
 
 ## Overview
 

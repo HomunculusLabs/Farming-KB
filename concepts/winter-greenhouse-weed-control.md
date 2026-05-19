@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Greenhouse Weed Control
+## Winter Greenhouse Weed Control
 
 [[fukuoka-natural-weed-management]] in winter greenhouses demands a proactive, multi-layered approach. Eliot
 Coleman's system combines strict seed-bank prevention, pre-emergence flaming, and precise

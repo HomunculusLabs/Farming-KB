@@ -12,7 +12,7 @@ sources:
 type: query
 ---
 
-# How Do Plants Defend Themselves Chemically?
+## How Do Plants Defend Themselves Chemically?
 
 A practical FAQ for growers and gardeners on the invisible chemical arsenal
 that keeps plants alive — and how you can work with it.

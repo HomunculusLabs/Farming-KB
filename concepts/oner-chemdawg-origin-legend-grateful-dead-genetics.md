@@ -4,7 +4,7 @@ source: Oner, S.T. & The Rev (2014). Cannabis Sativa Vol. 3. Green Candy Press.
 tags: [chemdawg, cannabis-genetics, grateful-dead, strain-history, landrace, breeding, oner]
 ---
 
-# Chemdawg Origin Legend — Grateful Dead Genetics and the Chem Family
+## Chemdawg Origin Legend — Grateful Dead Genetics and the Chem Family
 
 ## Overview
 

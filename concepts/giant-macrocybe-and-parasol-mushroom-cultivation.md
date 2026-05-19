@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Giant Macrocybe and Parasol Mushroom Cultivation
+## Giant Macrocybe and Parasol Mushroom Cultivation
 
 ## Overview
 

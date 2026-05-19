@@ -5,7 +5,7 @@ type: entity
 tags: [bacteria, spoilage, fermentation, vinegar, contamination]
 ---
 
-# Acetobacter
+## Acetobacter
 
 ## Description
 

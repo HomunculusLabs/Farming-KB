@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# Organic Gardening Principles
+## Organic Gardening Principles
 
 Organic gardening is a way of working with nature rather than against it,
 recycling natural materials to maintain soil fertility, and encouraging

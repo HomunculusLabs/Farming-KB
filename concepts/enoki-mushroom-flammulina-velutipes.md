@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Enoki Mushroom (Flammulina velutipes)
+## Enoki Mushroom (Flammulina velutipes)
 
 The enoki mushroom, also known as velvet foot (*[[flammulina-velutipes]]*), is a widely cultivated edible
 mushroom prized for its crisp texture and mild flavor. It is one of the most commercially important

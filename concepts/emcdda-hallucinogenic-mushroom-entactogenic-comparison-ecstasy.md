@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Entactogenic Comparison of Magic Mushrooms and Ecstasy in Recreational Settings
+## Entactogenic Comparison of Magic Mushrooms and Ecstasy in Recreational Settings
 
 A recurring theme in the EMCDDA case study is the
 comparison between the subjective effects of

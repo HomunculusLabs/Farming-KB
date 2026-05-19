@@ -6,7 +6,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, photobiology, plant-physiology, plant-sensory-biology]
 ---
 
-# Phototropism in Plants
+## Phototropism in Plants
 
 [[phototropism]] is the directional growth response of a plant toward (positive
 phototropism) or away from (negative phototropism) a light source. It is one

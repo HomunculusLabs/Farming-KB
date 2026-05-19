@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Rainwater Harvesting and Storage
+## Rainwater Harvesting and Storage
 
 Every 1,000 square feet (92 square meters) of roof surface area will gather
 600 gallons (2,270 liters) of water per inch (2.5 cm) of rain. Every roof

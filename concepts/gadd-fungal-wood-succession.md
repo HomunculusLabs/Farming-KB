@@ -7,7 +7,7 @@ tags: [fungi]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Fungal Succession in Decomposing Wood
+## Fungal Succession in Decomposing Wood
 
 **Source:** Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006), Chapters 6-7 (Boddy & Jones; Taylor & Fransson)
 

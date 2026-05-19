@@ -18,7 +18,7 @@ sources:
   - "Smith, A.H. & Thiers, H.D. (1964). A Contribution toward a Monograph of growing-gourmet-north-american-reishi-species Species of Russula. University of Michigan Press."
 ---
 
-# Russula brevipes (*Short-Stalked Russula*)
+## Russula brevipes (*Short-Stalked Russula*)
 
 ## Overview
 

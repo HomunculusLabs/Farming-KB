@@ -6,7 +6,7 @@ tags: [cannabis, microbiome, cultivar, strain-specificity, endorhiza, pseudomona
 aliases: [Cannabis Strain Microbiome Comparison, Five Cannabis Strain Endorhiza Profiles]
 ---
 
-# Cannabis Cultivar Microbiome Profiles Across Five Strains
+## Cannabis Cultivar Microbiome Profiles Across Five Strains
 
 The Winston et al. (2014) study provided the first systematic comparison of bacterial
 communities across five distinct Cannabis cultivars, revealing how host genotype shapes

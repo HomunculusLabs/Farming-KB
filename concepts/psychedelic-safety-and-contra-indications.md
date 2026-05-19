@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: []
 ---
 
-# Psychedelic Safety and Contra-Indications
+## Psychedelic Safety and Contra-Indications
 
 This page provides a comprehensive safety reference for psychedelic use. It covers [[adverse-effects-and-harm-reduction-psilocybin]] practices. This information does not constitute medical advice — consult a healthcare professional for personalized guidance.
 

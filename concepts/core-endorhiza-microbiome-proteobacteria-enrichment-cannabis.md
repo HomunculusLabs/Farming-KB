@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Core Endorhiza Microbiome and Proteobacteria Enrichment in Cannabis
+## Core Endorhiza Microbiome and Proteobacteria Enrichment in Cannabis
 
 The root-associated [[two-tier-selection-model-plant-microbiome]] and reveals a conserved core endorhiza community shared
 across Cannabis cultivars.

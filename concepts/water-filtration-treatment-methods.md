@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Filtration and Treatment Methods
+## Water Filtration and Treatment Methods
 
 Water filtration and treatment in [[plant-nutrient-uptake]].
 

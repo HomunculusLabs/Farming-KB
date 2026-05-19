@@ -7,7 +7,7 @@ tags: [herbalism, herbs]
 sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
-# Container Growing for Vegetables and Herbs
+## Container Growing for Vegetables and Herbs
 
 Container growing allows you to cultivate vegetables and herbs in small spaces, on patios, balconies, or even windowsills. In the organic garden, containers are particularly valuable for tender plants that need winter protection and for crops that can be given ideal growing conditions.
 

@@ -21,7 +21,7 @@ sources:
 - raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
 ---
 
-# Gaston Guzman
+## Gaston Guzman
 
 Mexican mycologist, world authority on the genus Psilocybe, and author of the definitive monograph on hallucinogenic mushrooms.
 

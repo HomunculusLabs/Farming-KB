@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Community Dynamics and Ecosystem Stability
+## Fungal Community Dynamics and Ecosystem Stability
 
 ## Overview
 

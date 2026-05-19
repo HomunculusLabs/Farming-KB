@@ -21,7 +21,7 @@ sources:
   - Anderson, E.F. (2001). The Cactus Family. Timber Press.
 ---
 
-# Echinopsis bridgesii (Bolivian Torch)
+## Echinopsis bridgesii (Bolivian Torch)
 
 **Echinopsis bridgesii**, commonly known as the **Bolivian Torch cactus**, is a fast-growing columnar cactus species in the family Cactaceae, native to the Bolivian Andes. It is one of the principal "san pedro-type" mescaline-containing cacti, valued both as a traditional entheogen and as an ornamental succulent in cultivation. The species is closely related to *[[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]), and is often discussed alongside them in ethnobotanical literature, though it is genetically and morphologically distinct.
 

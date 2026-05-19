@@ -7,7 +7,7 @@ tags: [cultivation, mycology]
 sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
-# Cordyceps Cultivation
+## Cordyceps Cultivation
 
 Cordyceps species represent some of the most commercially valuable and biologically fascinating fungi in the world. The most famous, Cordyceps sinensis (now Ophiocordyceps sinensis), is a parasitic fungus that infects caterpillar larvae in the high Himalayas, commanding prices exceeding $20,000 per kilogram for wild-harvested specimens.
 

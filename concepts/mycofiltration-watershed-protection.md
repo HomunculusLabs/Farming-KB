@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-# Mycofiltration — Watershed Protection with Fungal Mats
+## Mycofiltration — Watershed Protection with Fungal Mats
 
 Using mycelial mats to filter water, remove pathogens, capture sediments, and protect watersheds. From [[paul-stamets]]' pioneering work in *Mycelium Running* (2005). See also [[mycofiltration-overview]].
 

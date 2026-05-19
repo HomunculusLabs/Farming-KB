@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Eliciting Novel Fungal Metabolites from Fungal Biomass
+## Eliciting Novel Fungal Metabolites from Fungal Biomass
 
 Fungi are enzymatic factories capable of producing an array of primary, secondary, and tertiary metabolites. Crucially, fungi can shift their gene expression to manufacture entirely different spectra of enzymes in response to different chemical and biological triggers. This metabolic plasticity makes them powerful platforms for discovering new antibiotics, antifungal compounds, industrial enzymes, and complex metabolic mixtures for mycoremediation.
 

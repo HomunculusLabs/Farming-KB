@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Net Pots and Growing Slabs in Hydroponics
+## Net Pots and Growing Slabs in Hydroponics
 
 Net pots and growing slabs are fundamental containers in hydroponic
 [[cannabis-deep-water-culture-guide]] to top-feed

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Vegetable Garden Polycultures
+## Holzer Vegetable Garden Polycultures
 
 Sepp Holzer's approach to [[holzer-polycultures-catch-crop-combinations]], minimal soil disturbance, and no artificial irrigation. His childhood garden (the Gachtl) at the Krameterhof, at 1,300 metres above sea level, served as the living laboratory for these methods.
 

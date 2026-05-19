@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Brugmansia: Angel's Trumpet
+## Brugmansia: Angel's Trumpet
 
 ## Overview
 

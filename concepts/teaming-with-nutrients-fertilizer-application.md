@@ -7,7 +7,7 @@ tags: [fertilizer, soil, nutrients, plant-growth]
 sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 ---
 
-# Fertilizer Application Methods
+## Fertilizer Application Methods
 
 updated: 2026-18-04
 

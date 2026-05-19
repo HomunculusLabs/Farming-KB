@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Terence Ingold (Mycologist)
+## Terence Ingold (Mycologist)
 
 Cecil Terence Ingold (1905-2010) was a British mycologist whose
 discovery of [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]] in 1938 opened an

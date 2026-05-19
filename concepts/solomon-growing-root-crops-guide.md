@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Growing Root Crops: Beets, Carrots, Turnips, and Radishes
+## Solomon on Growing Root Crops: Beets, Carrots, Turnips, and Radishes
 
 From [[solomon-gardening-when-it-counts-index]]
 - [[seed-saving-techniques]]

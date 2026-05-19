@@ -5,7 +5,7 @@ type: entity
 tags: [ritual-tool, amazonian-medicine, ayahuasca-ceremony, musical-instrument]
 ---
 
-# Schacapa Rattle
+## Schacapa Rattle
 
 ## Description
 

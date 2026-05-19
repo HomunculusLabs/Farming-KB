@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Natural Patterns in Permaculture Design
+## Natural Patterns in Permaculture Design
 
 Natural patterns are the fundamental geometries and processes observable in nature that
 serve as templates for permaculture design. [[permaculture-design]]

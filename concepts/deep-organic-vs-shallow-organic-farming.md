@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Deep-Organic vs Shallow-Organic Farming
+## Deep-Organic vs Shallow-Organic Farming
 
 ## The Living Soil as Foundation
 

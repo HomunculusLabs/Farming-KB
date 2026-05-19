@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Vermicomposting vs Leaf Mold
+## Vermicomposting vs Leaf Mold
 
 ## Overview
 

@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Multi-Crop Planting and Intercropping Patterns
+## Multi-Crop Planting and Intercropping Patterns
 
 Multi-crop [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], combining
 heavy feeders, heavy givers, and light feeders in a single bed to create a

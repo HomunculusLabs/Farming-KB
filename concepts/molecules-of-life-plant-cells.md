@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Molecules of Life in Plant Cells
+## Molecules of Life in Plant Cells
 
 Plants are autotrophic organisms—they manufacture every molecule they need from just seventeen essential nutrient elements, water, carbon dioxide, and sunlight. The nutrients absorbed by roots are used as raw materials to synthesize four fundamental classes of organic molecules known collectively as the **molecules of life**: carbohydrates, proteins, lipids, and nucleic acids. These four categories of compounds constitute approximately 20% of a plant cell's molecules (the remaining 80% being imported ions and water), yet they are responsible for all structure, energy storage, catalysis, signaling, and genetic inheritance.
 

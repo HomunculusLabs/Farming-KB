@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Scythian Cannabis Steam Bath Ritual
+## Scythian Cannabis Steam Bath Ritual
 
 The Scythians, a nomadic Indo-European people who dominated the Pontic-Caspian steppe from approximately the 7th to 3rd centuries B.C., practiced one of the earliest documented forms of cannabis inhalation. Their ritual use of cannabis in steam baths represents one of the most archaeologically verified instances of ancient psychoactive plant use anywhere in the world.
 

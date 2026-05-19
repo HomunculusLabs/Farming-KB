@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, gourmet-mushrooms, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Gourmet Mushroom Cultivation Gourmet mushroom cultivation is the practice of growing edible fungi for culinary markets. The most commonly cultivated species include **shiitake** (*Lentinula edodes*), **oyster mushrooms** (*Pleurotus* spp.), **king oyster** (*Pleurotus eryngii*), **enoki** (*[[cultivator-sterile-technique-and-agar-culture]]** — working in a laminar flow hood or still-air box to
+## Gourmet Mushroom Cultivation Gourmet mushroom cultivation is the practice of growing edible fungi for culinary markets. The most commonly cultivated species include **shiitake** (*Lentinula edodes*), **oyster mushrooms** (*Pleurotus* spp.), **king oyster** (*Pleurotus eryngii*), **enoki** (*[[cultivator-sterile-technique-and-agar-culture]]** — working in a laminar flow hood or still-air box to
   prevent contamination by bacteria, mold spores, or competing fungi
 - **Grain preparation** — soaking, boiling, and sterilizing grain in jars or
   bags at 15 PSI for 90-120 minutes; proper grain moisture (50-55%) is

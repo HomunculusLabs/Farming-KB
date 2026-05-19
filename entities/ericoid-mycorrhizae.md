@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, mycorrhizae, symbiosis, ericaceae, acid-soils]
 ---
 
-# Ericoid Mycorrhizae
+## Ericoid Mycorrhizae
 
 ## Description
 

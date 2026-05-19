@@ -5,7 +5,7 @@ tags: [pf-tek, desiccant, drying, preservation, drierite, silica-gel, cool-desic
 created: 2026-05-11
 ---
 
-# PF TEK Desiccant Types, Sourcing, and Cool Drying Technique
+## PF TEK Desiccant Types, Sourcing, and Cool Drying Technique
 
 ## Overview
 

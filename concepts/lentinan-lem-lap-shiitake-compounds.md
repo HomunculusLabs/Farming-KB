@@ -8,7 +8,7 @@ type: concept
 tags: [shiitake]
 ---
 
-# Lentinan, LEM, and LAP Shiitake Compounds
+## Lentinan, LEM, and LAP Shiitake Compounds
 
 Lentinus Edodes ([[lentinan-clinical-research]].
 

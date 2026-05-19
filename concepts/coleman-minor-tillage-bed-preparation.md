@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# Minor Tillage Bed Preparation
+## Minor Tillage Bed Preparation
 
 Eliot Coleman advocates for minimal soil disturbance in permanent bed
 systems. Rather than inverting the soil profile with power tillers,

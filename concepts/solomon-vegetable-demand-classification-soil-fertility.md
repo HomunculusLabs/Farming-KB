@@ -6,7 +6,7 @@ published: 2005
 tags: [vegetable-gardening, soil-fertility, low-demand, high-demand, complete-organic-fertilizer, COF, manure, compost, plant-nutrition]
 ---
 
-# Vegetable Demand Classification and Soil Fertility Gradient
+## Vegetable Demand Classification and Soil Fertility Gradient
 
 ## Overview
 

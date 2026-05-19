@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Direct-Seeded No-Tillage Rice and Winter Grain Succession
+## Direct-Seeded No-Tillage Rice and Winter Grain Succession
 
 Direct-seeded, no-tillage, winter grain and rice succession in a clover cover is the
 central practical method developed by [[mushroom-casing-moisture-management]] without the continuous flooding

@@ -16,7 +16,7 @@ sources:
   - Duke, J.A. & Ayensu, E.S. (1985). Medicinal Plants of China, Vols. 1-2. Reference Publications.
 ---
 
-# Phytolacca esculenta
+## Phytolacca esculenta
 
 ## Overview
 

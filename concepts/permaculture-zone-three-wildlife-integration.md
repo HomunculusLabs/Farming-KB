@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Zone Three: Wildlife Integration and Extrinsic Energy Management
+## Permaculture Zone Three: Wildlife Integration and Extrinsic Energy Management
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mead, Honey, and the Dionysian Connection in Food of the Gods
+## Mead, Honey, and the Dionysian Connection in Food of the Gods
 
 In *Food of the Gods*, Terence McKenna explores the complex relationship
 between honey, mead, and the religious traditions of the ancient

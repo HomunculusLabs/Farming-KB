@@ -1,4 +1,8 @@
-# Permaculture Design Principles and Ethics
+---
+title: "Permaculture Design Principles and Ethics"
+tags:
+  - concept
+---
 
 ## Overview
 

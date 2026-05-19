@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, ecology, fungal-habitat, psilocybin-mushrooms, mycology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 type: concept
 ---
-# Habitat and Ecology of Neurotropic Mushrooms ## Ecological Overview Neurotropic fungi occupy diverse ecological niches across the world, from arctic-alpine tundra to tropical rainforests. Understanding their habitat preferences is essential for both field identification and understanding their [[polypore-fungi-eastern-north-america]]
+## Habitat and Ecology of Neurotropic Mushrooms ## Ecological Overview Neurotropic fungi occupy diverse ecological niches across the world, from arctic-alpine tundra to tropical rainforests. Understanding their habitat preferences is essential for both field identification and understanding their [[polypore-fungi-eastern-north-america]]
 - **P. quebecensis**: Found in Quebec, Canada
 - **P. weilii**: Found in disturbed soils in Georgia, USA
 +- **P. tampanensis**: Known from sclerotia in sandy soils, Florida

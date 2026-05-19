@@ -8,7 +8,7 @@ categories:
   - mushroom-cultivation
 ---
 
-# ZERI (Zero Emissions Research and Initiatives)
+## ZERI (Zero Emissions Research and Initiatives)
 
 ## Description
 

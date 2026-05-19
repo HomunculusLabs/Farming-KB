@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Seed Starting Indoors vs Direct Seeding
+## Seed Starting Indoors vs Direct Seeding
 
 ## Overview
 

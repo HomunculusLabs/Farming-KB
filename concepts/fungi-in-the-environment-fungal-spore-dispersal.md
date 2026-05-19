@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
-# Fungal Spore Dispersal Fungal reproduction and dispersal represent remarkable adaptations to life as non-motile organisms. Fungi have evolved an extraordinary array of mechanisms for producing, launching, and distributing spores -- the primary units of dispersal and survival. [[ingoldian-hyphomycetes-spore-dispersal-in-water]] produce specialized spores (conidia) adapted for dispersal in flowing water. These tetraradiate or sigmoid spores are designed to attach to submerged substrates and are important decomposers in stream ecosystems.
+## Fungal Spore Dispersal Fungal reproduction and dispersal represent remarkable adaptations to life as non-motile organisms. Fungi have evolved an extraordinary array of mechanisms for producing, launching, and distributing spores -- the primary units of dispersal and survival. [[ingoldian-hyphomycetes-spore-dispersal-in-water]] produce specialized spores (conidia) adapted for dispersal in flowing water. These tetraradiate or sigmoid spores are designed to attach to submerged substrates and are important decomposers in stream ecosystems.
 
 ## Spore Germination and Establishment
 

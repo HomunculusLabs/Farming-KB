@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Transport Proteins and Ion Uptake in Plants
+## Transport Proteins and Ion Uptake in Plants
 
 The [[plasmalemma]] (plasma membrane) is not a passive barrier—it is a highly regulated, dynamic interface studded with thousands of specialized proteins that control exactly what enters and leaves every plant cell. These **transport proteins** are the molecular machinery that enables plants to selectively absorb nutrients, maintain internal chemistry, and respond to environmental signals. Understanding these proteins is essential to understanding how plants "eat."
 

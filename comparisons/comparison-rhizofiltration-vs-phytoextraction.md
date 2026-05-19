@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Rhizofiltration vs Phytoextraction
+## Rhizofiltration vs Phytoextraction
 
 ## Overview
 

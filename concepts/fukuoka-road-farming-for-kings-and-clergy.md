@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Farming for Kings and Clergy
+## Farming for Kings and Clergy
 
 One of masanobu-fukuoka|Fukuoka's most striking observations during his two
 months in Europe was that wherever he took a photograph of

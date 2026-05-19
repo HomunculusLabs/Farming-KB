@@ -5,7 +5,7 @@ type: entity
 tags: [person, biologist, author, conservation, british]
 ---
 
-# Colin Tudge
+## Colin Tudge
 
 ## Description
 

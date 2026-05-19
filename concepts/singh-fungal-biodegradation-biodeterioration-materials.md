@@ -7,7 +7,7 @@ tags: [mycoremediation, biology, pollution, ecology]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh fungal-bioremediation (2006), Chapter 1
+## Singh fungal-bioremediation (2006), Chapter 1
 
 ## Overview
 

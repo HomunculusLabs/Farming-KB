@@ -12,7 +12,7 @@ sources:
   - "University of Georgia Cooperative Extension — Home Olive Growing"
 ---
 
-# How to Start a Small Olive Grove and Produce Olive Oil at Home
+## How to Start a Small Olive Grove and Produce Olive Oil at Home
 
 ## Quick-Start Summary
 

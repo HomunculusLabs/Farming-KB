@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Solar Cooking vs Rocket Stove
+## Solar Cooking vs Rocket Stove
 
 ## Overview
 

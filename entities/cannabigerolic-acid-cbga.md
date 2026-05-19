@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Cannabigerolic Acid (CBGA)
+## Cannabigerolic Acid (CBGA)
 
 **Type:** Chemical Compound (Cannabinoid Acid Precursor)
 **Category:** Phytocannabinoid (Mother Cannabinoid)

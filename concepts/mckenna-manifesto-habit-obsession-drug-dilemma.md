@@ -1,4 +1,8 @@
-# McKenna's Manifesto — Habit, Obsession, and the Drug Dilemma
+---
+title: "McKenna's Manifesto — Habit, Obsession, and the Drug Dilemma"
+tags:
+  - concept
+---
 
 ## Source
 *[[cervantes-grow-room-security-law-enforcement]] problem but as a cultural and philosophical failure to understand the

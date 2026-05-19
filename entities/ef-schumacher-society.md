@@ -5,7 +5,7 @@ type: entity
 tags: [economics, community, permaculture, local-currency, advocacy, research]
 ---
 
-# E. F. Schumacher Society
+## E. F. Schumacher Society
 
 ## Description
 

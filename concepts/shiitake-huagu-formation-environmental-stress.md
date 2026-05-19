@@ -1,7 +1,7 @@
 ---
 title: "Shiitake Huagu Formation Through Ectomycorrhizal Community Environmental Stress"
 source: "unknown-oyster-mushroom-cultivation.md"
-source_path: "/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md"
+source_path: "raw/raw/papers/unknown-oyster-mushroom-cultivation.md"
 chunk_id: 52
 source_lines: "10401-10600"
 type: concept
@@ -14,7 +14,7 @@ tags:
 created: 2026-05-16
 ---
 
-# Shiitake Huagu Formation Through Environmental Stress
+## Shiitake Huagu Formation Through Environmental Stress
 
 ## Core idea
 Huagu shiitake formation depends on controlled stress during young mushroom

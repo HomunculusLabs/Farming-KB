@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Slow-Growth Strategies in Permaculture
+## Slow-Growth Strategies in Permaculture
 
 Slow-growth strategies are a foundational concept in [[permaculture-design]], rooted in the recognition that slowness, persistence, and long-term thinking produce more sustainable, resilient, and higher-quality outcomes than the fast, short-term approaches that dominate modern industrial systems. [[david-holmgren]] frames this as the principle that "slow is sane," drawing on the fable of the Tortoise and the Hare as a metaphor for the superiority of steady, deliberate action over hasty, flashy approaches.
 

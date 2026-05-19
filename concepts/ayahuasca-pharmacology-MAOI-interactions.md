@@ -7,7 +7,7 @@ tags: [ayahuasca, pharmacology, MAOI, harmala-alkaloids, DMT, serotonin-syndrome
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Ayahuasca Pharmacology and MAOI Interactions
+## Ayahuasca Pharmacology and MAOI Interactions
 
 ## Overview
 

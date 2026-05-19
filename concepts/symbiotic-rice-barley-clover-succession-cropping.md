@@ -9,7 +9,7 @@ type: concept
 tags: [fukuoka, natural-farming, rice, barley, clover, succession-cropping, no-till, direct-seeding]
 ---
 
-# Symbiotic Rice-Barley-Clover Succession Cropping
+## Symbiotic Rice-Barley-Clover Succession Cropping
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Interceptor Banks for Soil Reclamation
+## Interceptor Banks for Soil Reclamation
 
 ## Overview
 

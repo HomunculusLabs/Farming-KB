@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Plant Guilds in Permaculture Design
+## Plant Guilds in Permaculture Design
 
 A guild is a harmonious assembly of species clustered around a central element (plant or animal). This assembly acts to assist the health of the central element, aid human work in management, and buffer adverse environmental effects. Guild design is the primary methodology for creating productive polycultures in [[acacia]]* species, tamarisk, Compositae (daisy family), and Umbelliferae such as dill, fennel, carrot, and coriander—host robber-flies and predatory wasps.
 

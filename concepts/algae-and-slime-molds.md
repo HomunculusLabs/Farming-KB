@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Algae and Slime Molds
+## Algae and Slime Molds
 
 Algae and slime molds are often-overlooked members of the soil food web. Though
 neither fits neatly into the categories of "plant" or "animal," both play

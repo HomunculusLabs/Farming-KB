@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# alpha-O-DMS (5-Methoxy-alpha-Methyltryptamine)
+## alpha-O-DMS (5-Methoxy-alpha-Methyltryptamine)
 
 alpha-O-DMS, also known as 5-methoxy-alpha-methyltryptamine or alpha,O-dimethylserotonin, is a potent [[serotonin-receptor-interference-psychedelic-mechanism]] affinity [[dosage-unpredictability-psilocybin-subjective-experience]] is often dominated by physical discomfort rather than the rich psychedelic imagery associated with compounds like [[amt-entity-tihkal]] (alpha,N-dimethyltryptamine) - the N-methylated analogue.
 

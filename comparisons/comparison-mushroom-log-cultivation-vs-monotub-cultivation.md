@@ -8,7 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: comparison
 ---
 
-# Mushroom Log Cultivation vs Monotub Cultivation
+## Mushroom Log Cultivation vs Monotub Cultivation
 
 ## Overview
 Mushroom log cultivation grows fungi on freshly cut hardwood logs outdoors,

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Pod and Seed Vegetables - Organic Methods
+## Pod and Seed Vegetables - Organic Methods
 
 Pod and seed vegetables are among the most productive and rewarding
 crops in the organic garden. This group includes peas, broad beans,

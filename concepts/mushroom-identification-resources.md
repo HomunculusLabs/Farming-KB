@@ -25,7 +25,7 @@ the-mysterious-world-of-mushrooms-molds-and-mycologists.md
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Mushroom Identification Resources
+## Mushroom Identification Resources
 
 A guide to safely identifying wild mushrooms using morphological features, microscopy, DNA barcoding, and regional field guides. See also [[mushroom-identification]] for basic ID features and [[mushroom-species-guide]] for commonly cultivated species.
 

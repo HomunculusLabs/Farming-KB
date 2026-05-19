@@ -5,11 +5,11 @@ tags: [psilocybin, australia, psilocybe, identification, distribution,
   taxonomy, guzman, watling, subaeruginosa, cyanescens, cubensis, allen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 type: concept
 ---
 
-# Australian Psilocybe Species: Comprehensive Guide
+## Australian Psilocybe Species: Comprehensive Guide
 
 More than a dozen species of "[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and/or *P. subcubensis* (known locally as "gold caps"
 or "gold tops"), *[[copelandia-cyanescens]]*

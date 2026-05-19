@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# What Plowing Really Is
+## What Plowing Really Is
 
 Fukuoka challenges farmers to reconsider the most fundamental agricultural
 practice: plowing the soil. His critique goes beyond the practical

@@ -11,7 +11,7 @@ type: concept
 tags: [reishi]
 ---
 
-# Reishi (Ganoderma lucidum) Cancer Research
+## Reishi (Ganoderma lucidum) Cancer Research
 
 ## Overview
 

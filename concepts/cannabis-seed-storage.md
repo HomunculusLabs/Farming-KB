@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis, plant-growth]
 ---
 
-# Cannabis Seed Storage
+## Cannabis Seed Storage
 
 Proper seed storage is essential for maintaining cannabis seed viability
 over extended periods. Cervantes provides detailed guidance on optimal

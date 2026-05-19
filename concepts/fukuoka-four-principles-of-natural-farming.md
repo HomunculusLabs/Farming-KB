@@ -2,7 +2,7 @@
 title: "The four-principles-of-natural-farming"
 source: "permaculture
 ---
-# The Four Principles of Natural Farming
+## The Four Principles of Natural Farming
 
 The four principles of natural farming are the foundational precepts established by Japanese farmer and philosopher [[fukuoka-critique-scientific-agriculture-civilization]], which he argued creates dependencies by first upsetting the natural balance and then requiring increasingly complex interventions to correct the resulting problems.
 

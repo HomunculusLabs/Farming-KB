@@ -1,4 +1,8 @@
-# Mushroom Fruiting Chamber Setup
+---
+title: "Mushroom Fruiting Chamber Setup"
+tags:
+  - concept
+---
 
 A fruiting chamber (also called a fruiting tub, grow chamber, or Martha tent)
 provides the environmental conditions necessary for mushrooms to develop from

@@ -8,7 +8,7 @@ sources:
   - raw/papers/schultes-r-plants-of-the-gods.md
 ---
 
-# Peyote and Lophophora williamsii
+## Peyote and Lophophora williamsii
 
 ## Overview
 
@@ -35,7 +35,7 @@ The Wixárika (Huichol) Peyote pilgrimage to Wirikuta is among the most complex 
 ## See Also
 
 - [[mescaline-biosynthesis-and-precursor-enhancement]] — Cactus alkaloid biosynthesis
-- [[plants-gods-ololiuqui]] — [[plants-gods-ayahuasca]]
+- [[plants-gods-ololiuqui]] — [[ayahuasca-and-banisteriopsis-caapi]]
 ## Practical Considerations
 
 When working with Peyote and Lophophora williamsii, several practical factors should be

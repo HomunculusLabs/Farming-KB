@@ -18,7 +18,7 @@ sources:
   - "Nichols, D.E. (2016). \"Psychedelics: Pharmacology and implications for treatment.\" Pharmacological Reviews, 68(2), 264-335."
 ---
 
-# Lysergic Acid (*9,10-Didehydro-6-methylergoline-8β-carboxylic acid*)
+## Lysergic Acid (*9,10-Didehydro-6-methylergoline-8β-carboxylic acid*)
 
 ## Overview
 

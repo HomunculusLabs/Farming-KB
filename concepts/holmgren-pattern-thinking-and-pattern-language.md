@@ -9,7 +9,7 @@ type: concept
 tags: [reference]
 ---
 
-# Holmgren Pattern Thinking and Pattern Language
+## Holmgren Pattern Thinking and Pattern Language
 
 Pattern thinking is the ability to recognise, understand, and apply recurring spatial and temporal structures observable in nature and human systems. It is a central theme in Holmgren's permaculture framework, discussed most extensively within [[holmgren-obtain-a-yield-detailed]], this balance is actually one that achieves maximum power, but as energy availability and quality decline, our common sense and intuition about what is optimal design often fails us.
 

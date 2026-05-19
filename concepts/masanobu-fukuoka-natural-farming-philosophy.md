@@ -1,11 +1,11 @@
 ---
-title: masanobu-fukuoka-natural-farming-philosophy
+title: "Masanobu Fukuoka Natural Farming Philosophy"
 source: The One-Straw Revolution - Masanobu Fukuoka
 created: 2026-05-08
 tags: [farming, philosophy, natural-farming, fukuoka, mu, agriculture, ecology]
 ---
 
-# Masanobu [[comparison-natural-farming-vs-permaculture]]" that eliminates plowing, prepared fertilizers, chemical pesticides, and in the case of rice, even flooding. His philosophy emerged from a profound spiritual experience at age 25 and was validated through more than three decades of farming on his family's land on the island of Shikoku, Japan. Natural farming is not merely an agricultural technique but a comprehensive worldview that challenges the foundations of modern human thought, science, and civilization itself.
+## Masanobu [[comparison-natural-farming-vs-permaculture]]" that eliminates plowing, prepared fertilizers, chemical pesticides, and in the case of rice, even flooding. His philosophy emerged from a profound spiritual experience at age 25 and was validated through more than three decades of farming on his family's land on the island of Shikoku, Japan. Natural farming is not merely an agricultural technique but a comprehensive worldview that challenges the foundations of modern human thought, science, and civilization itself.
 
 ## The Revelation of Nothing
 

@@ -21,7 +21,7 @@ source_chunks:
     start_line: 1601
     end_line: 1800
 ---
-# Thailand Mushroom Cultivation Rural Development and Bag Systems
+## Thailand Mushroom Cultivation Rural Development and Bag Systems
 The MushWorld handbook presents Thailand as a mature tropical mushroom culture where cultivation is both a livelihood strategy and a rural-development tool.
 The case differs from narrower oyster-only guides because it describes a diversified mushroom economy: straw mushroom, oyster mushroom, abalone mushroom, yanagi, shiitake, reishi, lion’s mane, wood ear, and others.
 The source emphasizes that Thai mushroom growing depends on low-cost materials, fast returns, government support, and practical training for rural communities.

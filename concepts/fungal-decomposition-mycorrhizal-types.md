@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Decomposition and Mycorrhizal Types
+## Fungal Decomposition and Mycorrhizal Types
 
 Fungi are central to ecosystem functioning, driving decomposition, nutrient cycling,
 and plant-microbe symbioses across all major biomes. Their roles span from breaking

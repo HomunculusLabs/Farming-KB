@@ -16,7 +16,7 @@ tags: [mycorrhizal, grassland, endophyte, mycorrhizosphere, biocontrol, carbon]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Fungal Endophytes in Grassland Ecology
+## Fungal Endophytes in Grassland Ecology
 
 Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 1, 12, 16, 18
 

@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Biodiversity and the Power of Natural Regeneration
+## Biodiversity and the Power of Natural Regeneration
 
 ## Overview
 

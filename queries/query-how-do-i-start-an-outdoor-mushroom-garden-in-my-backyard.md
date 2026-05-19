@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: [raw/papers/sepp-holzer-practical-guide.md]
 ---
 
-# How Do I Start an Outdoor Mushroom Garden in My Backyard?
+## How Do I Start an Outdoor Mushroom Garden in My Backyard?
 
 ## Short Answer
 

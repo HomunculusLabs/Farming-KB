@@ -14,7 +14,7 @@ sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-# Permaculture Mapping and Base Maps
+## Permaculture Mapping and Base Maps
 
 Mapping is the foundational design tool in permaculture. William Ozier Williams provides detailed guidance on creating and using base maps in his PDC, describing the base map as the starting point from which all analysis and design decisions flow.
 

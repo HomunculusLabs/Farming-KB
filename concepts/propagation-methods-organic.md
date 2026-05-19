@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Propagation Methods Organic
+## Propagation Methods Organic
 
 updated: 2026-04-18
 

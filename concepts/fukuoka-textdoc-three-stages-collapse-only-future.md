@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Three Stages of Civilization Collapse and the Only Future for Man
+## Three Stages of Civilization Collapse and the Only Future for Man
 
 Fukuoka's most sweeping philosophical argument in *The Natural Way of Farming* is his
 prediction that human civilization, driven by ever-expanding [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], having no way of knowing

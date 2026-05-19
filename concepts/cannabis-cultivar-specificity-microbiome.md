@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Cannabis Cultivar-Specificity and Soil Determinants of the Microbiome
+## Cannabis Cultivar-Specificity and Soil Determinants of the Microbiome
 
 ## Overview
 

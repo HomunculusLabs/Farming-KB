@@ -5,7 +5,7 @@ author: Masanobu Fukuoka
 topics: natural farming, philosophy, mu, non-intervention
 ---
 
-# Laissez-Faire Versus Natural Farming
+## Laissez-Faire Versus Natural Farming
 
 There is a fundamental difference between nature and the doctrine of
 laissez-faire or non-intervention. Laissez-faire is the abandoning of

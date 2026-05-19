@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Mycoparasitism: Fungi That Infect Other Fungi
+## Mycoparasitism: Fungi That Infect Other Fungi
 
 Fungi do not limit their parasitic ambitions to plants, animals, and other organisms. A significant number of fungal species specialize in attacking other fungi — a phenomenon known as **mycoparasitism**. These fungus-on-fungus interactions range from visually spectacular fruiting-body-on-fruiting-body overgrowths to invisible soil warfare that shapes [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against crop diseases and [[trichoderma-harzianum|Trichoderma]] is a common soil microorganism that aggressively colonizes substrates and attacks other fungi.
 

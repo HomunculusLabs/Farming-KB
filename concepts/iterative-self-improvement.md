@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [self-improvement, training-loops, synthetic-data, distillation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
+sources: ["raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"]
 type: concept
 ---
 
-# Iterative Self-Improvement in Language Models
+## Iterative Self-Improvement in Language Models
 
 Iterative self-improvement is the process of using a model's own outputs to
 create training data that makes the model better, then repeating this cycle.

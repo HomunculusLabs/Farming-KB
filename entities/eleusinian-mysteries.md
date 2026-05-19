@@ -5,7 +5,7 @@ type: entity
 tags: [tradition, ancient, mystery-cult, consciousness, greece]
 ---
 
-# Eleusinian Mysteries
+## Eleusinian Mysteries
 
 ## Description
 The Eleusinian Mysteries were initiatory rites held annually in ancient Greece at Eleusis (near Athens), representing one of the most important and long-lasting mystery cults of the ancient world. In *The Psychedelic Experience*, Leary cites the Eleusinian Mysteries as one of the historical traditions that practiced "the consciousness-expansion experience — the pre-mortem death and rebirth rite," drawing a direct parallel between these ancient initiations and the psychedelic experience.

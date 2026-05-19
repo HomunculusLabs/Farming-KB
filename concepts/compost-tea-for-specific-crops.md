@@ -4,9 +4,9 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [composting, soil]
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 ---
-# Compost Tea for Specific Crops
+## Compost Tea for Specific Crops
 
 Updated: 2026-04-18
 

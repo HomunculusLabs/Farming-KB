@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# LSD Transition from Remedy to Inebriant
+## LSD Transition from Remedy to Inebriant
 
 ## Initial Expectations
 

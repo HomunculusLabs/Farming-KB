@@ -19,7 +19,7 @@ tags:
 source: McKenna, T. (1992). *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books.
 ---
 
-# Iboga and the Bwiti Religion
+## Iboga and the Bwiti Religion
 
 ## Overview
 

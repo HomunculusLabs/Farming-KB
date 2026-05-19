@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Sarcoma 180 Antitumour Assay
+## Sarcoma 180 Antitumour Assay
 
 The Sarcoma 180 (S-180) ascites tumour bioassay in ICR mice is the standard and most widely used method for assessing the antitumour activity of mushroom-derived polysaccharides and other natural products. Developed in Japan, it has been the primary screening tool responsible for identifying virtually all clinically relevant mushroom antitumour compounds.
 

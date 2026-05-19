@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Set, Setting, and Session Planning in Psychedelic Therapy
+## Set, Setting, and Session Planning in Psychedelic Therapy
 
 ## Overview
 

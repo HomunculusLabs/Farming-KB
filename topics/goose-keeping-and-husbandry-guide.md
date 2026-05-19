@@ -12,7 +12,7 @@ related_topics:
   - permaculture-design-principles
 ---
 
-# Goose Keeping and Husbandry Guide
+## Goose Keeping and Husbandry Guide
 
 Geese are among the most self-sufficient and productive livestock a
 homesteader or permaculturist can raise. They convert grass and weeds

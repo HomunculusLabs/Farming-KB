@@ -16,7 +16,7 @@ sources:
   - " USDA, NRCS. (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC."
 ---
 
-# Hemerocallis fulva
+## Hemerocallis fulva
 
 **Hemerocallis fulva** (tawny daylily, orange daylily, ditch lily) is a clump-forming perennial herb in the family Asphodelaceae. It is native to East Asia and has become widely naturalized across [[polypore-fungi-eastern-north-america]], it forms extensive roadside monocultures.
 

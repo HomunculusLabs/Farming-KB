@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# Psilocybin Mushroom History and Ethnobotany
+## Psilocybin Mushroom History and Ethnobotany
 
 ## Overview
 

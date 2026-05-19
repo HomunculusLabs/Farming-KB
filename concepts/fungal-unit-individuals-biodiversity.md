@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungal Unit and Community Characterization
+## Fungal Unit and Community Characterization
 
 ## Overview
 

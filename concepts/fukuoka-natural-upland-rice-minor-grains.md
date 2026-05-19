@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Upland Rice and Minor Grains in [[comparison-living-mulch-vs-cover-crops]] and ground cover that [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] system
+## Upland Rice and Minor Grains in [[comparison-living-mulch-vs-cover-crops]] and ground cover that [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] system
 integrates all of these elements, upland rice, minor grains, vegetables, and
 fruit trees, into a comprehensive [[growing-root-vegetables-guide]],
 minor grains break disease cycles, improve soil structure through their root

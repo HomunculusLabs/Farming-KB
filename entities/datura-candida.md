@@ -9,7 +9,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Datura candida
+## Datura candida
 **Datura candida** (white angel's trumpet) is a perennial shrub or small tree
 in the nightshade family (Solanaceae), native to the Andean regions of
 [[chiric-caspi-brunfelsia-south-american-hallucinogen]] cultures.

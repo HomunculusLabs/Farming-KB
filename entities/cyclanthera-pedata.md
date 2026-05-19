@@ -16,7 +16,7 @@ sources:
   - Gallo, J.E. et al. (2013). "Nutritional and functional properties of caigua." Revista Peruana de Medicina Integrativa, 16(2), pp. 87-93.
 ---
 
-# Cyclanthera pedata
+## Cyclanthera pedata
 
 ## Overview
 

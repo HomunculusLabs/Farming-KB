@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/pihkal-a-chemical-love-story.md"
 ---
-# Biointensive Seed Saving
+## Biointensive Seed Saving
 
 Seed saving is integral to the [[jeavons-carbon-and-calorie-crop-integration]] seeds, which are often harder to source than common vegetable seeds
 5. **Cost reduction**: Seeds are a recurring expense; saving eliminates this cost permanently

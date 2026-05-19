@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# cannabis healing ritual
+## cannabis healing ritual
 
 The Harnessing of the earth's Energy is a healing ritual from "[[practitioner-cannabis-ritual-use-and-sacrament]]
 - [[blesching-cannabis-bone-fracture-healing]]

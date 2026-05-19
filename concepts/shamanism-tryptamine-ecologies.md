@@ -6,7 +6,7 @@ tags: [shamanism, tryptamine, ayahuasca, ethnobotany,
 indigenous-knowledge, ecopsychology]
 ---
 
-# Shamanism and Tryptamine Ecologies
+## Shamanism and Tryptamine Ecologies
 
 ## Overview
 

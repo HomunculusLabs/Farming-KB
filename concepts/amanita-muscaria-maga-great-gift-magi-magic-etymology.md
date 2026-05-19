@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Maga — "The Great Gift": The Etymological Origin of Magic and the Magi
+## Maga — "The Great Gift": The Etymological Origin of Magic and the Magi
 
 ## Overview
 

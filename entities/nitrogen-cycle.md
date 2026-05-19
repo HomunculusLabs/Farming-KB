@@ -5,7 +5,7 @@ type: entity
 tags: [nutrient-cycling, nitrogen, soil-science, biogeochemistry, microbiology]
 ---
 
-# Nitrogen Cycle
+## Nitrogen Cycle
 
 ## Description
 

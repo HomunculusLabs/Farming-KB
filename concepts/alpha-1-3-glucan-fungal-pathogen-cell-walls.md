@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Alpha-1,3-Glucan in Fungal Pathogen Cell Walls
+## Alpha-1,3-Glucan in Fungal Pathogen Cell Walls
 
 ## Overview
 

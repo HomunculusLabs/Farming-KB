@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Scientific Farming Paradoxes
+## Fukuoka Scientific Farming Paradoxes
 
 In his 1975 speech on [[fukuoka-natural-farming-philosophy]], [[fukuoka-fertilizer-critique-detailed]], [[dom]]
 - [[scientific-farming-paradoxes-according-to-fukuoka]]

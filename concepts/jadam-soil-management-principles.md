@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Soil Management Principles
+## JADAM Soil Management Principles
 
 Conventional farming cannot solve the problem of soil compaction. You might be frustrated by this fact, but nothing can be clearer: continuing conventional agriculture and bringing back life to soil are not compatible. This is the starting premise of [[complete-organic-fertilizer-cof-recipe-solomon]]. It is always 100% self-sufficient. [[hamilton-composting-and-organic-matter-management]] has decomposed at [[jadam-liquid-fertilizer]] before the transplanting of crop plants and the sprouting or flowering of [[comparison-drip-irrigation-vs-passive-irrigation]] to apply a mixture of:
 - JMS (500 L per 1/4 acre to 8 acres)

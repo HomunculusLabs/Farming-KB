@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [mycology, psilocybin, chemistry, degradation, potency, tryptamine, baeocystin, indole]
 ---
 
-# Psilocybin Chemistry and Degradation in Fungal Specimens
+## Psilocybin Chemistry and Degradation in Fungal Specimens
 
 ## Overview
 

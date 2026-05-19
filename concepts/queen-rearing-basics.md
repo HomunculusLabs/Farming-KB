@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, beginner, pollinators, genetics]
 sources: []
 ---
 
-# Queen Rearing Basics
+## Queen Rearing Basics
 
 Queen rearing is the practice of raising new honey bee queens from existing
 colony stock. It enables beekeepers to replace failing queens, increase

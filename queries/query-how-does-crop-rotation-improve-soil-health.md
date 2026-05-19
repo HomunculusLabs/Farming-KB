@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Crop Rotation Improve Soil Health
+## How Does Crop Rotation Improve Soil Health
 
 ## Short Answer
 Crop rotation is the practice of growing different plant families in succession

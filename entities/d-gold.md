@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: entity
 ---
 
-# D. Gold
+## D. Gold
 
 ## Description
 

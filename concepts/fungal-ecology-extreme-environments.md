@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungal Ecology in Extreme Environments
+## Fungal Ecology in Extreme Environments
 
 How fungi survive and function in extreme habitats: deserts, polar regions, deep sea, acidic and alkaline environments, and heavy metal-contaminated sites. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-biodiversity]], [[fungal-nutrient-cycling-mineral-transformations]], and [[endophytic-fungi]].
 

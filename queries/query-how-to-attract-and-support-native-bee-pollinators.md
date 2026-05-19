@@ -8,7 +8,7 @@ updated: 2026-05-03
 sources: general web search
 ---
 
-# How to Attract and Support Native Bee Pollinators
+## How to Attract and Support Native Bee Pollinators
 
 ## Why Do Native Bees Matter?
 

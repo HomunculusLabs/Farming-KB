@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Curing and [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible" describes curing as essential for producing a finer
+## Curing and [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible" describes curing as essential for producing a finer
 product, with the "canning" method being the most common and effective
 home technique. Properly cured bud smokes significantly better than
 uncured material, making this stage a critical final step in the

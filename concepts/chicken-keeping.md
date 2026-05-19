@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, biology, methods, troubleshooting, ecolog
 sources: []
 ---
 
-# Chicken Keeping
+## Chicken Keeping
 
 Chickens are the most accessible and productive livestock for homesteads of any size. A small flock of 4-12 hens provides a steady supply of eggs, produces valuable manure for [[composting-systems]], controls insects, and processes food waste. They integrate naturally into [[permaculture-zones-in-practice]] as a Zone 2 element and contribute to the integrated homestead through nutrient cycling, pest control, and food production.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [plant, lamiaceae, tropical-tree, forestry]
 ---
 
-# Gmelina arborea
+## Gmelina arborea
 
 ## Description
 

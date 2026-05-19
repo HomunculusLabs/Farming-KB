@@ -11,7 +11,7 @@ sources:
   - "raw/papers/physicians-desk-reference-for-herbal-medicine.md"
 ---
 
-# Lobelia inflata
+## Lobelia inflata
 
 **Lobelia inflata**, commonly known as **Indian tobacco**, **pukeweed**, **gagroot**, or **asthma weed**, is an annual or biennial herbaceous plant in the family Campanulaceae. Native to [[cannabis-therapeutic-index-overview]] and the availability of safer alternatives.
 

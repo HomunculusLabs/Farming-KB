@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungi in Stressful Environments
+## Fungi in Stressful Environments
 ## Overview
 Fungi occupy virtually every habitat on Earth, including environments considered
 extreme by human standards. Stressful environments are those with abiotic

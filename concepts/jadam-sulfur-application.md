@@ -8,7 +8,7 @@ sources:
   - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Sulfur (JS)
+## JADAM Sulfur (JS)
 
 JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide developed by Youngsang Cho. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Windbreak Design and Configurations
+## Windbreak Design and Configurations
 
 Windbreaks are structures of trees and shrubs planted to reduce wind speed and modify microclimates for agricultural benefit. In [[permaculture-design]], windbreaks serve multiple functions: protecting crops from mechanical damage, reducing soil erosion, conserving water, trapping snow moisture, and significantly increasing crop yields.
 

@@ -6,7 +6,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 created: 2026-05-11
 ---
 
-# Bacillus pumilus as NASA Challenge Organism for Sterilization Validation
+## Bacillus pumilus as NASA Challenge Organism for Sterilization Validation
 
 ## Overview
 

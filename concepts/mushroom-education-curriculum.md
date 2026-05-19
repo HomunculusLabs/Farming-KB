@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom Education Curriculum
+## Mushroom Education Curriculum
 
 Mushroom education provides a powerful, hands-on vehicle for teaching biological and ecological concepts across age groups. From elementary school fruiting cup experiments to college-level mycoremediation research, fungi offer accessible entry points into microbiology, ecology, chemistry, and environmental science. Curriculum activities can be organized along several thematic tracks—[[fungal-ecology]], cultivation, recycling and composting, mycoremediation, and research/science projects—each scaled appropriately for the students' age and skill level.
 

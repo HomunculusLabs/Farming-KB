@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Doum Palm (Hyphaene thebaica)
+## Doum Palm (Hyphaene thebaica)
 
 ## Description
 

@@ -1,4 +1,8 @@
-# Smartshop Markets and Legal Status of Hallucinogenic Mushrooms in Europe
+---
+title: "Smartshop Markets and Legal Status of Hallucinogenic Mushrooms in Europe"
+tags:
+  - concept
+---
 
 **Tags:** legal, europe, smartshop, market, regulation, [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]] in the UK created
 organized market structures for psilocybin-containing mushrooms. This trend was

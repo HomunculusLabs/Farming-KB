@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Lichen Symbiosis Between Fungi and Algae
+## Lichen Symbiosis Between Fungi and Algae
 
 Lichens are composite organisms arising from symbiotic associations between
 fungi and photosynthetic partners, usually green algae or cyanobacteria. They

@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Fungal Sampling Methods
+## Fungal Sampling Methods
 
 Standardized methods for documenting [[fungal-biodiversity]] across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
 

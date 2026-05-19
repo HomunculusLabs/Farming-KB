@@ -1,5 +1,5 @@
 ---
-title: fukuoka-natural-livestock-farming Farming
+title: "Natural Livestock Farming"
 created: 2026-05-06
 tags:
 type: concept
@@ -15,7 +15,7 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# Natural Livestock Farming
+## Natural Livestock Farming
 
 Natural livestock farming, as described by [[comparison-natural-farming-vs-permaculture]] instead asks how the cow
 lives in open nature. By paying too much attention to what the cow feeds

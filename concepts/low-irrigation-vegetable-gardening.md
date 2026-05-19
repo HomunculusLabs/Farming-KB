@@ -7,7 +7,7 @@ sources:
 created: 2026-05-10
 ---
 
-# Low-Irrigation Vegetable Gardening
+## Low-Irrigation Vegetable Gardening
 
 ## Overview
 

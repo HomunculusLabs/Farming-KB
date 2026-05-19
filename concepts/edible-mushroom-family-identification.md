@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Identification of Major Edible Mushroom Families
+## Identification of Major Edible Mushroom Families
 
 Julius A. Palmer provided detailed descriptions of the principal edible mushroom
 families accessible to American foragers in the late 19th century. His approach

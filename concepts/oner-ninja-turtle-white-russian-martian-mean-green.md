@@ -6,7 +6,7 @@ topics: [cannabis, sativa, white-russian, martian-mean-green,
   christmas-tree-structure, energetic-high, narcotic-high]
 ---
 
-# Ninja Turtle [[fukuoka-god-nature-and-man-as-one]] [[psilocybin-logos-consciousness]] and the author
+## Ninja Turtle [[fukuoka-god-nature-and-man-as-one]] [[psilocybin-logos-consciousness]] and the author
 states that only if a certain type of bud came with free brownies
 and a bottle of rum would they be more desperate to buy it.
 

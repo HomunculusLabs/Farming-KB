@@ -21,7 +21,7 @@ sources:
   - "WikiLeaf (2023). \"White Runtz Strain Information.\" WikiLeaf.com."
 ---
 
-# White Runtz
+## White Runtz
 
 ## Overview
 

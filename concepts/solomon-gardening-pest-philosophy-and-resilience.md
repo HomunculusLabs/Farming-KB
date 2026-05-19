@@ -16,7 +16,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Gardening Pest Philosophy and Resilience
+## Gardening Pest Philosophy and Resilience
 
 Before reaching for any pesticide, natural or synthetic, Steve Solomon asks gardeners to reconsider their fundamental relationship with insect pests and plant diseases. His approach, which he calls "gardening aikido," treats pest problems as diagnostic information rather than enemies to be destroyed. This philosophical framework has practical implications for how much time, money, and emotional energy a gardener invests in pest control.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, saprotrophic, ascomycota, drought-tolerance]
 ---
 
-# Chaetomium bostrychoides
+## Chaetomium bostrychoides
 
 ## Description
 

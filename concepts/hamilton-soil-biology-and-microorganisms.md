@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Soil Biology and Microorganisms
+## Soil Biology and Microorganisms
 
 The health and productivity of any garden depends not on the mineral content
 of the soil alone, but on the vast community of [[hamilton-composting-and-organic-matter-management]] in various stages of decay, air, water, and millions

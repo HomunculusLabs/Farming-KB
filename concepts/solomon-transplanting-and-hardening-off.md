@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Solomon on Transplanting and Hardening Off
+## Solomon on Transplanting and Hardening Off
 
 From [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], losing days or weeks of growth
 - **Root disturbance**: Most vegetables have root systems that resent disturbance; cutting or circling roots from container growing permanently damages the plant

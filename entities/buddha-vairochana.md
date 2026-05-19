@@ -5,7 +5,7 @@ type: entity
 tags: [deity, buddhism, tibetan, bardo, dhyani-buddha]
 ---
 
-# Buddha Vairochana
+## Buddha Vairochana
 
 ## Description
 Buddha Vairochana is the Dhyani Buddha of the Center, known as the Manifester of Phenomena, and occupies the central position in the mandala of the Five Dhyani Buddhas. In *The Psychedelic Experience*, Leary identifies Vairochana as the first Peaceful Deity encountered in the Second Bardo's Chonyid state, representing the Source or Creator Vision — the undifferentiated creative energy from which all forms arise.

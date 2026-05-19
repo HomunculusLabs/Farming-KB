@@ -1,4 +1,8 @@
-# Mycelium, Mycopermaculture, and Ecological Landscaping
+---
+title: "Mycelium, Mycopermaculture, and Ecological Landscaping"
+tags:
+  - concept
+---
 
 Paul Stamets' concept of "mycopermaculture" represents a framework for
 integrating mushroom mycelium into permaculture design and ecological land
@@ -143,8 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[comparison-tomato-vs-pepper-growing]]
-- [[growing-gourmet-mushroom-harvesting-marketing-guide]]

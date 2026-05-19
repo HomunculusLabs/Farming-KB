@@ -6,16 +6,16 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - /Users/t3rpz/wiki/concepts/ganoderma-lucidum-reishi-comprehensive-profile.md
-  - /Users/t3rpz/wiki/concepts/reishi-mushroom-medicinal-properties.md
-  - /Users/t3rpz/wiki/concepts/reishi-cultivation-guide.md
-  - /Users/t3rpz/wiki/concepts/reishi-triterpenoids-pharmacology.md
-  - /Users/t3rpz/wiki/concepts/stamets-reishi-ganoderma-lucidum-cultivation.md
-  - /Users/t3rpz/wiki/concepts/cotter-reishi-ganoderma-cultivation.md
-  - /Users/t3rpz/wiki/concepts/reishi-cultivation-methods.md
-  - /Users/t3rpz/wiki/concepts/cancer-reishi-cancer-research.md
-  - /Users/t3rpz/wiki/concepts/growing-gourmet-north-american-reishi-species.md
-  - /Users/t3rpz/wiki/concepts/medicinal-mushroom-guide-reishi.md
+  - raw/concepts/ganoderma-lucidum-reishi-comprehensive-profile.md
+  - raw/concepts/reishi-mushroom-medicinal-properties.md
+  - raw/concepts/reishi-cultivation-guide.md
+  - raw/concepts/reishi-triterpenoids-pharmacology.md
+  - raw/concepts/stamets-reishi-ganoderma-lucidum-cultivation.md
+  - raw/concepts/cotter-reishi-ganoderma-cultivation.md
+  - raw/concepts/reishi-cultivation-methods.md
+  - raw/concepts/cancer-reishi-cancer-research.md
+  - raw/concepts/growing-gourmet-north-american-reishi-species.md
+  - raw/concepts/medicinal-mushroom-guide-reishi.md
 related_concepts:
   - ganoderma-lucidum-reishi-comprehensive-profile
   - reishi-mushroom-medicinal-properties

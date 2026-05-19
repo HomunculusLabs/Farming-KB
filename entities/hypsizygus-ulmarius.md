@@ -15,7 +15,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Hypsizygus ulmarius
+## Hypsizygus ulmarius
 
 **Elm [[paul-stamets]] ranks hypsizygus ulmarius above all other oyster-like
 mushrooms in terms of flavor and texture, making it one of the most desirable

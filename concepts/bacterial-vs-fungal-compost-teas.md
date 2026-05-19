@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Bacterial vs Fungal Compost Teas
+## Bacterial vs Fungal Compost Teas
 
 Elaine Ingham distinguishes between bacterial-dominant and fungal-dominant compost teas based on which organism group predominates. The choice between them depends on the plant being grown, the disease pressure present, and the current soil biology. It is always a question of dominance — even fungal tea contains bacteria, but fungi must reach a minimum threshold to achieve [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of simple sugars is needed
 

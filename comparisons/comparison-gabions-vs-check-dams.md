@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
-# Gabions vs Check Dams
+## Gabions vs Check Dams
 Gabions and check dams are both earthwork structures designed to slow water
 flow, capture sediment, and rehabilitate degraded landscapes. While they share
 overlapping functions, their design, application, and complexity differ

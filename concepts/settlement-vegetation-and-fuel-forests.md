@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Settlement Vegetation and Fuel Forests
+## Settlement Vegetation and Fuel Forests
 
 ## Overview
 

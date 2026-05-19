@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
-# How Do I Start Black Soldier Fly Farming for [[hemenway-chicken-tractor-and-poultry-integration|integrated homestead system]].
+## How Do I Start Black Soldier Fly Farming for [[hemenway-chicken-tractor-and-poultry-integration|integrated homestead system]].
 
 A small-scale operation can be started for under $50 and requires surprisingly little space.
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparison Chaga Vs Oyster Mushroom Postharvest Respiration Root Cellars And Cold Storage"
 source: "unknown-oyster-mushroom-cultivation.md"
-source_path: "/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md"
+source_path: "raw/raw/papers/unknown-oyster-mushroom-cultivation.md"
 chunk_id: 40
 source_lines: "8001-8200"
 type: concept
@@ -14,7 +14,7 @@ tags:
 created: 2026-05-16
 ---
 
-# Oyster Mushroom Postharvest Respiration and Cold Storage
+## Oyster Mushroom Postharvest Respiration and Cold Storage
 
 ## Core idea
 Fresh [[oyster-mushrooms]] remain biologically active after harvest.

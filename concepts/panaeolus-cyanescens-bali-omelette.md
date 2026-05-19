@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# [[field-guide-psilocybin-bluing-reaction-identification]]:** Strong blue bruising on cap, stem, and gills when handled
+## [[field-guide-psilocybin-bluing-reaction-identification]]:** Strong blue bruising on cap, stem, and gills when handled
 - **Spore print:** Black (typical of Panaeolus genus)
 - **Habitat:** Exclusively coprophilous -- grows on dung of herbivores (cattle, water buffalo, horses)
 - **Distribution:** Pantropical and subtropical

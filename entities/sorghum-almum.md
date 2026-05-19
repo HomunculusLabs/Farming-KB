@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Sorghum almum (Silk Sorghum / Columbus Grass)
+## Sorghum almum (Silk Sorghum / Columbus Grass)
 
 ## Description
 

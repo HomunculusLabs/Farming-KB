@@ -20,7 +20,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Nutritive Cycle Theory
+## Nutritive Cycle Theory
 
 Master Han-Kyu Cho's Nutritive Cycle Theory is the foundational framework that determines when and how to apply KNF inputs. It recognizes that plants have different nutritional needs at different growth stages, just as humans need different foods as infants, children, adults, and elderly.
 

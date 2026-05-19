@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 ---
-# Mycorrhizal Carbon and Nutrient Economics Mycorrhizal fungi form the largest biological interface between plants and soil, mediating massive fluxes of carbon, nitrogen, phosphorus, and other nutrients. The economics of these exchanges determine ecosystem productivity, soil carbon storage, and plant community composition. See [[fungal-diversity-boreal-forests-taiga]]
+## Mycorrhizal Carbon and Nutrient Economics Mycorrhizal fungi form the largest biological interface between plants and soil, mediating massive fluxes of carbon, nitrogen, phosphorus, and other nutrients. The economics of these exchanges determine ecosystem productivity, soil carbon storage, and plant community composition. See [[fungal-diversity-boreal-forests-taiga]]
 - EM mycelium has unusually high C:N ratios (18.5-21.9), making it a significant carbon sink
 - 14C analysis shows ECM sporocarps contain carbon photosynthetically fixed only 0-2 years previously
 - The "Gadgil effect": EM fungi suppress saprotrophic decomposition by competing for limiting nutrients, increasing C:N and C:P ratios of remaining residues

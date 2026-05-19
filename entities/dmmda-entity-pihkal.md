@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DMMDA
+## DMMDA
 
 [[permaculture-designers-manual-essential-oil-plants]] that corresponds to DMMDA is, of course, apiole from the Oil of Parsley, which again ties together the spice world and the amphetamine world. And there is isoapiole, also a natural thing. This pair represents the ring-substitution pattern of one of the ten [[cannabis-advanced-refinement-fractional-distillation]]. It is the fraction that boils at 165-167 deg C at 27 mm/Hg. A solution of 19.8 g apiole in a mixture of 43 g KOH and 60 mL hot EtOH was heated in the [[dmmda-2-entity-pihkal]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

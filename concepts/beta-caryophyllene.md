@@ -6,7 +6,7 @@ source: uwe blesching the cannabis health index
 created: 2026-05-10
 ---
 
-# Beta-Caryophyllene ((E)-β-Caryophyllene)
+## Beta-Caryophyllene ((E)-β-Caryophyllene)
 
 (E)-β-Caryophyllene (BCP) is a functional non-psychoactive CB2 receptor agonist found primarily in spice-producing plants. Discovered as a cannabinoid-active compound by an international group of researchers from Switzerland, Germany, Italy, and the United States (2008, 2012), it is considered by some researchers to be a food-based cannabinoid. While some chemists classify it as a terpene or sesquiterpene, this distinction has little practical value to patients who may benefit from its use.
 

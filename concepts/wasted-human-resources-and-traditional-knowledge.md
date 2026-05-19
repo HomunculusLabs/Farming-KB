@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Wasted Human Resources and Traditional Knowledge
+## Wasted Human Resources and Traditional Knowledge
 
 The ingenuity and skill of traditional, mostly rural people — predominantly in poorer countries — represents one of the most underutilised resources on the planet. [[david-holmgren]] argues that the global economy systematically devalues these skills, destroys people's capacity to apply knowledge productively, and at best treats them as uneducated factory fodder. This devaluation occurs at the precise historical moment when this knowledge base represents humanity's greatest asset in the transition to reduced energy availability.
 

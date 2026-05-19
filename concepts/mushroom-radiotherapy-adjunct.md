@@ -6,7 +6,7 @@ type: concept
 tags: mycology, mushrooms, cultivation]
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 ---
-# Mushroom Radiotherapy Adjunct Use
+## Mushroom Radiotherapy Adjunct Use
 
 ## Overview
 

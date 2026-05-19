@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Perpetual Harvest Cycle for Cannabis
+## Perpetual Harvest Cycle for Cannabis
 
 A perpetual harvest system maintains multiple growth stages simultaneously,
 enabling growers to [[cervantes-sex-determination-pre-flowering]], the next batch

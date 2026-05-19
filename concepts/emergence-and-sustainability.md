@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Emergence and Sustainability
+## Emergence and Sustainability
 
 Emergence is a key concept from systems theory describing how self-organisation within complex systems results in activity, structures, and behaviors that clearly arise from within the system but have the effect of either transforming it or producing something completely new. This concept bridges ecological evolution, technological disruption, and cultural transformation, with profound implications for how societies navigate sustainability during energy descent.
 

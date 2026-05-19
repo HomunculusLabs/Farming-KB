@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Clubbing Surveys and Prevalence
+## EMCDDA Hallucinogenic Mushroom Clubbing Surveys and Prevalence
 
 ## Overview
 

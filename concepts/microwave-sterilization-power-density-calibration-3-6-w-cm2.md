@@ -4,7 +4,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 topics: [power density, microwave, calibration, watt per square centimeter, sterilization parameters]
 ---
 
-# Microwave Sterilization Power Density Calibration at 3.6 W/cm²
+## Microwave Sterilization Power Density Calibration at 3.6 W/cm²
 
 ## Overview
 

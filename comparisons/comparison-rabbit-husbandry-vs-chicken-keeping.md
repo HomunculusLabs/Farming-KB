@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Rabbit Husbandry vs Chicken Keeping
+## Rabbit Husbandry vs Chicken Keeping
 
 ## Overview
 

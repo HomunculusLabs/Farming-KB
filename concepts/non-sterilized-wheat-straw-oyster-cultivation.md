@@ -9,7 +9,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Non-Sterilized Wheat Straw Oyster Mushroom Cultivation
+## Non-Sterilized Wheat Straw Oyster Mushroom Cultivation
 
 Traditional [[mushroom-spawn]] evenly across the substrate surface. Finally, spread yellow pulse powder uniformly over the spawned substrate as a nitrogen supplement.
 

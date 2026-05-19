@@ -5,7 +5,7 @@ type: concept
 created: 2026-05-14
 ---
 
-# Psychedelic Experience Bardo Framework
+## Psychedelic Experience Bardo Framework
 
 ## Overview
 

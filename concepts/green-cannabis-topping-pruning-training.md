@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Topping, Pruning and [[cannabis-vegetative-stage-management]] covers
+## Topping, Pruning and [[cannabis-vegetative-stage-management]] covers
 the optimal timing window. The procedure involves cutting the top of
 the plant just above the last branch formation, typically during the
 3rd or 4th week of [[low-stress-training]])

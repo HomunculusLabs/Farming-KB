@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [ethnobotany, dmt, maoi, ayahuasca, psychopharmacology, hallucinogens, plants]
 ---
 
-# DMT and Monoamine Oxidase Inhibitor Plants
+## DMT and Monoamine Oxidase Inhibitor Plants
 
 ## Overview
 

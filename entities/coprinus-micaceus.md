@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycota, agaricomycetes, agaricales, psathyrellaceae, coprinus, edible]
 ---
 
-# Coprinus micaceus
+## Coprinus micaceus
 
 ## Description
 

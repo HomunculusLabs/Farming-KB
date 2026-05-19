@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Coffee Shade Growing Systems in Permaculture
+## Coffee Shade Growing Systems in Permaculture
 
 Shade-grown coffee represents one of the most successful examples of
 permaculture mollison designers agroforestry and integrated tree crops in tropical and

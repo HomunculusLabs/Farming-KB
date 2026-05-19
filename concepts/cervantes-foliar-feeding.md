@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Foliar Feeding Cannabis
+## Foliar Feeding Cannabis
 
 Foliar feeding is the practice of misting fertilizer
 solution directly onto plant foliage, where nutrients

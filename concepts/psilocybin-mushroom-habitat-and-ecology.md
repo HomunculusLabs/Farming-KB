@@ -9,7 +9,7 @@ type: concept
 tags: [ecology, habitat, mushroom-cultivation, psilocybin]
 ---
 
-# Habitat and Ecology of Psilocybin Mushrooms
+## Habitat and Ecology of Psilocybin Mushrooms
 
 All psilocybin mushrooms are saprophytes -- they grow on dead plant material. Paul Stamets identifies six classic habitats in which Psilocybes and other psilocybin fungi flourish. These habitats can overlap and cross over into one another, especially in transitional environments where forestlands convert to grasslands.
 

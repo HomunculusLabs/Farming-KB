@@ -5,7 +5,7 @@ type: concept
 tags: [mckenna, tobacco, shamanism, nicotiana-rustica, nicotiana-tabacum, mao-inhibitors, beta-carbolines, drug-dilution, maya, entheogens]
 ---
 
-# Tobacco: From Shamanic Plant to Commercial Cigarette — The Dilution Process
+## Tobacco: From Shamanic Plant to Commercial Cigarette — The Dilution Process
 
 ## Overview
 

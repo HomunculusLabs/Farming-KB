@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Problem Plant Regulation with Livestock
+## Problem Plant Regulation with Livestock
 
 [[sepp-holzer-garden-helpers-and-pest-regulation]].
 

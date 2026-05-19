@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Bioremediation of Protein and Pharmaceutical Wastewaters
+## Fungal Bioremediation of Protein and Pharmaceutical Wastewaters
 
 Pharmaceutical and protein-containing wastewaters present unique treatment
 challenges due to their complex chemical composition, variable toxicity,

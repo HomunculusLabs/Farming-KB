@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [https://www.attra.ncat.org, https://www.fao.org/dairy-production-products/production/goat-milk/en/, https://www.sare.org/publications/goat-production, https://holzeragroecology.com, https://www.thegrassfedfarmer.com]
 ---
 
-# Goat Husbandry and Integration into Permaculture Systems
+## Goat Husbandry and Integration into Permaculture Systems
 
 ## Introduction
 

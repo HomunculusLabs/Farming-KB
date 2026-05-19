@@ -4,9 +4,9 @@ created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Lichen Biology Lichens represent one of the most successful [[fungal-lichen-stress-tolerance-and-poikilohydry]] is only beginning to be understood through genomic approaches.
+## Lichen Biology Lichens represent one of the most successful [[fungal-lichen-stress-tolerance-and-poikilohydry]] is only beginning to be understood through genomic approaches.
 
 ## Ecological Roles
 

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Hydnum Tooth Fungi and Clavaria Coral Fungi
+## Hydnum Tooth Fungi and Clavaria Coral Fungi
 
 ## Overview
 

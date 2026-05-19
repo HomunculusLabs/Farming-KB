@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# DOCX
+## DOCX
 
 DOCX is the default file format for [[office-open-xml]] standard (ISO/IEC 29500) for word
 processing documents. The format stores documents as ZIP archives containing

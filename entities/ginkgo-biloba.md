@@ -17,7 +17,7 @@ sources:
   - Chan PC, Xia Q, Fu PP. "Ginkgo biloba leave extract: Biological, medicinal, and toxicological effects." Journal of Environmental Science and Health. 2007.
 ---
 
-# Ginkgo biloba
+## Ginkgo biloba
 
 **Ginkgo biloba**, commonly known as the **ginkgo tree** or **maidenhair tree**, is the only living species in the division Ginkgophyta. It is one of the oldest extant tree species on Earth, with a fossil record dating back approximately 270 million years — predating dinosaurs and surviving multiple [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide:
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Word Document Formats
+## Word Document Formats
 
 [[microsoft-word]] has used several document formats throughout its history, each
 reflecting the technological constraints and design philosophies of its era. The

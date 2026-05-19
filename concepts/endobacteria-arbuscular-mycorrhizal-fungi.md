@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Endobacteria in Arbuscular Mycorrhizal Fungi
+## Endobacteria in Arbuscular Mycorrhizal Fungi
 
 ## Overview
 

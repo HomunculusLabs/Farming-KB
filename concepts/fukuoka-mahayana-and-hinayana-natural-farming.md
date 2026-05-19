@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka Mahayana and Hinayana Natural Farming
+## Fukuoka Mahayana and Hinayana Natural Farming
 
 Masanobu Fukuoka's [[mahayana-natural-farming]],
 Hinayana natural farming, and [[four-principles-of-natural-farming]].

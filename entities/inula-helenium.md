@@ -19,7 +19,7 @@ sources:
   - Van Wyk, B.E. & Wink, M. (2004). "Medicinal Plants of the
     World." 2nd ed. Timber Press.
 ---
-# Inula helenium
+## Inula helenium
 
 ## Overview
 

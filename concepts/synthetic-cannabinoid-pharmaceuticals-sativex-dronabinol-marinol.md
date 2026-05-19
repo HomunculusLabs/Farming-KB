@@ -5,7 +5,7 @@ source_author: Uwe Blesching
 tags: [cannabinoids, pharmaceutical, dronabinol, marinol, nabilone, sativex, FDA, synthetic, THC]
 ---
 
-# Synthetic Cannabinoid Pharmaceuticals
+## Synthetic Cannabinoid Pharmaceuticals
 
 ## Overview
 

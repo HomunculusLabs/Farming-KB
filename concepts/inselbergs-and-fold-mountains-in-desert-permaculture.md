@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Inselbergs and Fold Mountains in Desert Permaculture
+## Inselbergs and Fold Mountains in Desert Permaculture
 
 Inselbergs and fold mountains are two of the most significant large-scale landforms in desert landscapes. While less complex than [[humus]] and can support trees, yams, and other vegetation. Occasionally, steep and shaded clefts present sites for rock dams, but for the most part, partly sealed tanks and infiltration systems must suffice.
 

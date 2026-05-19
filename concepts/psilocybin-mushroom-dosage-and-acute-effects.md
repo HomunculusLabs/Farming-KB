@@ -8,7 +8,7 @@ sources: [raw/papers/carolina-mushrooms_08qxp.md]
 type: concept
 ---
 
-# psilocybin mushroom dosage and acute effects
+## psilocybin mushroom dosage and acute effects
 
 Psilocybin-containing mushrooms have been used for thousands of years
 for religious, spiritual, and healing purposes across many cultures.

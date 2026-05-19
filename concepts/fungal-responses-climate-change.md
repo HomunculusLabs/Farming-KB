@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Responses to Climate Change
+## Fungal Responses to Climate Change
 
 Fungal communities and their ecosystem functions are sensitive to climate change
 drivers including rising atmospheric CO2 concentrations, warming temperatures,

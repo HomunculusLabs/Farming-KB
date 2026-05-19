@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# AMF Hyphal Anastomosis and Self-Recognition
+## AMF Hyphal Anastomosis and Self-Recognition
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-title: Halotolerant and halotolerant-halophilic-fungi-saline-environments
+title: "Halotolerant Halophilic Fungi"
 created: 2026-04-26
 tags:
   - halophilic
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Halotolerant and Halophilic Fungi
+## Halotolerant and Halophilic Fungi
 
 Halotolerant and halophilic fungi are capable of growing in
 environments with elevated salt concentrations. These organisms

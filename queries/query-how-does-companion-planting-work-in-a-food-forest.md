@@ -8,7 +8,7 @@ sources:
 type: query
 ---
 
-# How Does Companion Planting Work in a Food Forest
+## How Does Companion Planting Work in a Food Forest
 
 ## Short Answer
 Companion planting in a [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest deterrence, nutrient accumulation,

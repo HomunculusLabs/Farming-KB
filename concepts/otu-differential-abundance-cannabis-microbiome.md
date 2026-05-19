@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# OTU Differential Abundance in Cannabis Microbiome
+## OTU Differential Abundance in Cannabis Microbiome
 
 ## Overview
 

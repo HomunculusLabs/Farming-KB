@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
-# Psilocybe Section Classification
+## Psilocybe Section Classification
 
 The genus [[neurotropic-fungi]]-world-checklist
 with 116 species recognized by Guzman, Allen & Gartz (1998), is divided into several taxonomic

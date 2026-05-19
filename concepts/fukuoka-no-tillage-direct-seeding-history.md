@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka No-Tillage Direct Seeding History
+## Fukuoka No-Tillage Direct Seeding History
 
 Updated: 2026-04-19
 

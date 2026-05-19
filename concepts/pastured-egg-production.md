@@ -7,7 +7,7 @@ tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading
 sources: []
 ---
 
-# Pastured Egg Production
+## Pastured Egg Production
 
 Pastured eggs come from hens raised on living pasture with access to fresh forage, insects, and sunlight. The resulting eggs have deep orange yolks, superior flavor, higher omega-3 content, and command premium prices ($5-9/dozen) compared to conventional eggs.
 

@@ -1,5 +1,10 @@
+---
+title: "Psilocybe Mexicana"
+tags:
+  - entitie
+---
 
-# Psilocybe mexicana
+## Psilocybe mexicana
 
 *Psilocybe mexicana* holds a unique and central place in the history of psychedelic science as the species from which
 [[growing-gourmet-sclerotia-formation-biology-mushrooms]] is an
@@ -143,8 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[grass-seed-cultivation-of-psilocybe-species]]

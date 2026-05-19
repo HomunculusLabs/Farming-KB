@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 
 ---
-# Entomopathogenic Nematodes
+## Entomopathogenic Nematodes
 
 Entomopathogenic nematodes (EPN) are microscopic, soil-dwelling roundworms that function as
 obligate [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]

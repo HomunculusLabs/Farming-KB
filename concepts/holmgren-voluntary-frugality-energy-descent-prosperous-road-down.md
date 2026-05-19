@@ -5,7 +5,7 @@ topic: permaculture
 tags: [permaculture, energy-descent, voluntary-frugality, holmgren, sustainability]
 ---
 
-# Voluntary Frugality and the Prosperous Road Down
+## Voluntary Frugality and the Prosperous Road Down
 
 ## Overview
 

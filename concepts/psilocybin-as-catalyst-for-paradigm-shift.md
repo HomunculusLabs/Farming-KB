@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [psilocybin, mushrooms]
 ---
 
-# Psilocybin as Catalyst for Paradigm Shift
+## Psilocybin as Catalyst for Paradigm Shift
 
 In his final chapter, Jochen Gartz argues that [[guzman-global-distribution-patterns-neurotropic-fungi]]:** Geographic distribution and migration patterns of most psilocybin-producing species have not been adequately investigated
 2. **Secondary compounds:** We have barely begun to identify secondary substances beyond psilocybin, psilocin, baeocystin, and norbaeocystin

@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Lignin Peroxidase and Pollutant Degradation
+## Lignin Peroxidase and Pollutant Degradation
 
 Lignin peroxidase (LiP) is a water-soluble, glycosylated extracellular
 enzyme secreted by [[brown-rot-and-white-rot-fungi-in-mycoremediation]]. Like [[cervantes-hydrogen-peroxide-sterilization]] for catalysis. LiP is unique among

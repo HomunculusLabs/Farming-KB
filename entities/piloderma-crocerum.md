@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, ectomycorrhizal, basidiomycota, atheliales]
 ---
 
-# Piloderma crocerum
+## Piloderma crocerum
 
 ## Description
 

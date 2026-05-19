@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Tryptamine Hallucinogens and Language
+## Tryptamine Hallucinogens and Language
 
 ## Overview
 

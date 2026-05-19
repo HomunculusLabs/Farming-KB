@@ -8,7 +8,7 @@ type: concept
 tags: [construction, fukuoka, soil]
 ---
 
-# Soil Building Without Compost or Fertilizer
+## Soil Building Without Compost or Fertilizer
 
 ## The Soil Works Itself
 

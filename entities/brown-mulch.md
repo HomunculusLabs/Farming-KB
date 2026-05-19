@@ -5,7 +5,7 @@ type: entity
 tags: [mulch, fungi, soil-food-web, tree-care]
 ---
 
-# Brown Mulch
+## Brown Mulch
 
 ## Description
 

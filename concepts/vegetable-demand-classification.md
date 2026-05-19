@@ -21,7 +21,7 @@ updated: 2026-05-11
 type: concept
 ---
 
-# Vegetable Demand Classification
+## Vegetable Demand Classification
 
 ## Purpose
 

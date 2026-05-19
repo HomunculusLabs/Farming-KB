@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fly-Agaric Isoxazole Chemistry and Variability
+## Fly-Agaric Isoxazole Chemistry and Variability
 
 ## The Biochemical Unpredictability of Amanita Muscaria
 

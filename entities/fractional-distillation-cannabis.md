@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: entity
 ---
 
-# Fractional Distillation (Cannabinoid Processing)
+## Fractional Distillation (Cannabinoid Processing)
 
 ## Description
 

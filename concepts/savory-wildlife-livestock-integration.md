@@ -9,7 +9,7 @@ sources: []
 updated: 2026-04-26
 ---
 
-# Wildlife and Livestock Integration
+## Wildlife and Livestock Integration
 
 [[fukuoka-natural-predator-protection]] populations, the manager must replicate the effects of predator pressure through planned grazing:
 

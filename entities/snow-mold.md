@@ -5,7 +5,7 @@ type: entity
 tags: [turf-disease, fungal-pathogen, typhula, microdochium, winter-disease, compost-tea]
 ---
 
-# Snow Mold
+## Snow Mold
 
 ## Description
 

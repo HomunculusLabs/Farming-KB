@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Turmeric Growing Guide (Curcuma longa)
+## Turmeric Growing Guide (Curcuma longa)
 
 ## Overview
 

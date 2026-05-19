@@ -21,7 +21,7 @@ sources:
 - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-# Richard Evans Schultes
+## Richard Evans Schultes
 
 ## Overview
 

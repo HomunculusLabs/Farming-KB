@@ -4,7 +4,7 @@ source: [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-
 type: concept
 ---
 
-# Permaculture Design Criteria and Implementation Priorities
+## Permaculture Design Criteria and Implementation Priorities
 
 [[permaculture-design]] criteria provide the framework for making placement decisions about every element in a landscape. Mollison insists that any design must satisfy these criteria or it fails as [[permaculture]], regardless of how aesthetically pleasing or commercially successful it may appear.
 

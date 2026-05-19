@@ -5,11 +5,11 @@ tags: [psilocybin, mushrooms, psilocin, hallucinogens, mycology,
        identification]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md]
+sources: ["raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"]
 type: concept
 ---
 
-# [[guzman-magic-mushrooms-african-species]]," contain the hallucinogenic compounds psilocybin
+## [[guzman-magic-mushrooms-african-species]]," contain the hallucinogenic compounds psilocybin
 (4-phosphoryloxy-N,N-dimethyltryptamine) and [[paul-stamets]] provide
 comprehensive identification resources.
 

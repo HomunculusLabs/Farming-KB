@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka No Weeding Principle — Weed Ecology and Utility
+## Fukuoka No Weeding Principle — Weed Ecology and Utility
 
 [[four-principles-of-natural-farming]] — no weeding — challenges one of the most deeply held assumptions of [[fukuoka-critique-modern-agriculture]]. Rather than viewing weeds as enemies to be eradicated, Fukuoka argues that they are essential partners in building and maintaining healthy soil ecosystems. This principle is not merely a technique for reducing labor; it is a fundamental rethinking of humanity's relationship with the plant communities that sustain agriculture.
 

@@ -8,7 +8,7 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# Compost and Organic Matter Management
+## Compost and Organic Matter Management
 
 ## Why Compost Quality Matters
 

@@ -7,7 +7,7 @@ tags: [mycorrhizal, nitrogen-cycling, agriculture, biology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Nitrogen-Fixing Symbioses and Their Agricultural Applications
+## Nitrogen-Fixing Symbioses and Their Agricultural Applications
 
 Updated: 2026-04-18
 

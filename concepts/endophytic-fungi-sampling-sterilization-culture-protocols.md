@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Endophytic Fungi — Sampling Methods, Surface Sterilization, Culture Protocols, and Selective Isolation
+## Endophytic Fungi — Sampling Methods, Surface Sterilization, Culture Protocols, and Selective Isolation
 
 ## Host Colonization Patterns — Systemic vs Limited Domains
 

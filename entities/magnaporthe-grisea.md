@@ -8,7 +8,7 @@ sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.m
 type: entity
 ---
 
-# Magnaporthe grisea
+## Magnaporthe grisea
 
 **Type:** Species (Fungus)
 **Category:** Plant Pathogenic Ascomycete

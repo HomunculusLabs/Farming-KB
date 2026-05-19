@@ -26,7 +26,7 @@ sources:
   - "https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=184956"
 ---
 
-# Lactarius sanguifluus (Red Pine Milky Cap)
+## Lactarius sanguifluus (Red Pine Milky Cap)
 
 **Lactarius sanguifluus** (Paulet) Fr., commonly known as the **red pine milky cap**, **bloody milk cap**, or **weeping milk mushroom**, is an edible ectomycorrhizal basidiomycete in the family **Russulaceae** (order Russulales). It is highly prized as an [[growing-gourmet-north-american-reishi-species]] populations may represent distinct species (*L. sanguifluus* sensu Berglund & Miller)
 

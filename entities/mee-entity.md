@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MEE (2,5-Dimethoxy-4-ethoxyamphetamine)
+## MEE (2,5-Dimethoxy-4-ethoxyamphetamine)
 
 MEE is a substituted amphetamine with ethoxy and dimethoxy substitution on the phenyl ring. It is the amphetamine homologue of [[2c-b-pihkal-entry-20]] #121.
 

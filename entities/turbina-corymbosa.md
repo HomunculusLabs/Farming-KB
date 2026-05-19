@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Turbina corymbosa (L.) Raf.
+## Turbina corymbosa (L.) Raf.
 
 ## Common Names
 

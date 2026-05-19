@@ -8,7 +8,7 @@ sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Super Spawning and Active Mycelium Techniques
+## Super Spawning and Active Mycelium Techniques
 
 ## Overview
 

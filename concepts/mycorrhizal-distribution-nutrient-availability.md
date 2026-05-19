@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Distribution in Relation to Nutrient Availability
+## Mycorrhizal Distribution in Relation to Nutrient Availability
 
 [[mycorrhizal-fungi]] form symbiotic associations with the vast majority of terrestrial plants,
 and their distribution across global ecosystems is closely tied to soil nutrient conditions.

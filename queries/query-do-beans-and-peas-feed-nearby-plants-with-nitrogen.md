@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# Do beans and peas feed nearby plants with nitrogen?
+## Do beans and peas feed nearby plants with nitrogen?
 
 ## Short Answer
 

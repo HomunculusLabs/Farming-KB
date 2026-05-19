@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Secret Societies and Mushroom Knowledge Suppression
+## Secret Societies and Mushroom Knowledge Suppression
 
 The knowledge of entheogenic mushrooms has been guarded, suppressed, and weaponized throughout history by networks of secret societies, religious institutions, and governmental powers. This suppression is identified as a primary mechanism of social control, operating through organized religion, state policy, and fraternal orders.
 

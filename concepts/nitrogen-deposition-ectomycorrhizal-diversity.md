@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Nitrogen Deposition and Ectomycorrhizal Community Diversity
+## Nitrogen Deposition and Ectomycorrhizal Community Diversity
 
 Atmospheric nitrogen deposition from fossil fuel combustion and agricultural activities represents one of the most significant anthropogenic drivers of change in ectomycorrhizal fungal communities. Unlike the direct toxic effects of acid rain, nitrogen deposition alters mycorrhizal communities primarily through changing soil nutrient availability, plant-fungal carbon economics, and competitive interactions among fungal species. The extensive research on this topic reveals complex, sometimes contradictory responses that challenge simple generalizations about pollutant effects.
 

@@ -1,4 +1,8 @@
-# Beta-Caryophyllene Entourage Effects in Cannabis
+---
+title: "Beta-Caryophyllene Entourage Effects in Cannabis"
+tags:
+  - concept
+---
 
 ## Overview
 

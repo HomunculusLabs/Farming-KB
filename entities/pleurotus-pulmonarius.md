@@ -5,10 +5,10 @@ type: species
 tags: [edible-mushroom, oyster-mushroom, tropical, mycoremediation, ligninolytic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
+sources: ["raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"]
 ---
 
-# Pleurotus pulmonarius
+## Pleurotus pulmonarius
 
 **Pleurotus pulmonarius**, commonly known as the phoenix mushroom, Indian oyster, or lung oyster, is a close relative of *P. ostreatus* distinguished by its preference for warmer temperatures, faster colonization speed, and superior performance on [[biological-efficiency]] on straw substrates ranges from 60–120%.
 * **Spent substrate utilization:** After mushroom harvest, the spent substrate is partially decomposed, enriched with fungal enzymes, and serves as excellent organic fertilizer, animal feed supplement, or vermicomposting feedstock.

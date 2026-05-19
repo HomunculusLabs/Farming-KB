@@ -9,7 +9,7 @@ sources:
  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Diet Theory
+## Natural Diet Theory
 
 Masanobu Fukuoka's [[natural-farming-methods-comparison]] have constantly had to adapt to changes in the human diet. Unless the diet is basically sound, agriculture too cannot be normal.
 

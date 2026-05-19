@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# The Garden of Adonis, Eden, and Paradise as Mushroom References
+## The Garden of Adonis, Eden, and Paradise as Mushroom References
 
 In [[john-allegro]]'s philological analysis, the biblical Garden of Eden, the Qur'anic "gardens of
 delight," and the ancient "Gardens of Adonis" ritual all share a common origin in Sumerian

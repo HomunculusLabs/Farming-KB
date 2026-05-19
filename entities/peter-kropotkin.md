@@ -5,7 +5,7 @@ type: entity
 tags: [person, russian, anarchist, agriculture-writer, french-market-gardening]
 ---
 
-# Prince Peter Kropotkin
+## Prince Peter Kropotkin
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [permaculture, livestock, animal-husbandry, agriculture, regenerative, hom
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Holzer Livestock Integration
+## Holzer Livestock Integration
 
 Livestock play a large role in Sepp Holzer's permaculture system. They provide high-quality produce and are also industrious and pleasant workers. Holzer breeds robust, hardy animals suited to the terrain — old domestic breeds as well as wild animals.
 

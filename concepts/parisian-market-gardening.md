@@ -6,7 +6,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 created: 2026-05-10
 ---
 
-# Parisian Market Gardening
+## Parisian Market Gardening
 
 Parisian market gardening (French: *culture maraîchère*) was a system of intensive vegetable
 production developed in and around Paris between approximately 1850 and 1900. It represented the

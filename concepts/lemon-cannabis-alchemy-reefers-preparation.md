@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Preparation of Reefers (Oil-Impregnated Cannabis Cigarettes)
+## Preparation of Reefers (Oil-Impregnated Cannabis Cigarettes)
 
 Chapter 9 of *[[ben-lemon]] describes the preparation
 of "reefers," a term used to describe marijuana cigarettes that have

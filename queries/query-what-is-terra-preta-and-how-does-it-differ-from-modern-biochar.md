@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# What Is Terra Preta and How Does It Differ from Modern Biochar?
+## What Is Terra Preta and How Does It Differ from Modern Biochar?
 
 ## Short Answer
 

@@ -1,12 +1,12 @@
 ---
-title: comparison-aeroponics-guide-vs-cannabis-hydroponic-systems Systems
+title: "Cannabis Hydroponic Systems"
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Hydroponic Systems
+## Cannabis Hydroponic Systems
 
 Hydroponics is the technique of growing cannabis plants without soil, instead using beds of sand, gravel, or artificial growing mediums that are flooded with a [[dighton-fungal-biomass-production-aquatic-ecosystems]]. The controlled environment also allows for precise pH and nutrient concentration management, which is difficult to achieve in soil. Many commercial growers prefer hydroponics for its predictability and scalability.
 

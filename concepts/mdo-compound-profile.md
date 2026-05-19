@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MDO (3,4-Methylenedioxyamphetamine) Overview
+## MDO (3,4-Methylenedioxyamphetamine) Overview
 
 ## Overview
 

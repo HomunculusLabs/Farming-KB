@@ -5,7 +5,7 @@ tags: [mycology, mycorrhizal, forest-ecology, mushroom-cultivation, matsutake, c
 created: 2026-05-11
 ---
 
-# Mycorrhizal Mushrooms: Ecology and Cultivation Challenges
+## Mycorrhizal Mushrooms: Ecology and Cultivation Challenges
 
 ## Overview
 

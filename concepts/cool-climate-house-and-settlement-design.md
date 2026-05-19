@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Climate House and Settlement Design
+## Cool Climate House and Settlement Design
 
 The greatest cost in house maintenance in temperate cold areas is that of space and water heating; together, these may make up 80% of all domestic energy costs. Both settlement design overall and house design in detail are critical conservation factors in human occupation of winter-cold areas, more so than in tropical areas or hot deserts. Not only housing, but barns, outbuildings, and livestock shelters must be solid, well-designed, and carefully assessed for thermal efficiency.
 

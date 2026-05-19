@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [deficit-farming, energy-crisis, soil-degradation, fukuoka, agriculture]
 ---
 
-# Deficit Farming and the Agricultural Energy Crisis
+## Deficit Farming and the Agricultural Energy Crisis
 
 ## Fukuoka's Analysis from The Road Back to Nature
 

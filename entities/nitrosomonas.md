@@ -5,7 +5,7 @@ type: entity
 tags: [bacteria, nitrifying, nitrogen-cycle, soil-microbiology]
 ---
 
-# Nitrosomonas
+## Nitrosomonas
 
 ## Description
 

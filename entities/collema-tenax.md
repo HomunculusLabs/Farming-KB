@@ -5,7 +5,7 @@ type: entity
 tags: [lichen, cyanolichen, soil-crust, desert-ecology, nitrogen-fixation]
 ---
 
-# Collema tenax
+## Collema tenax
 
 ## Description
 

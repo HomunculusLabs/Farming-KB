@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Fennel (Foeniculum vulgare) as Permaculture Resource
+## Fennel (Foeniculum vulgare) as Permaculture Resource
 
 ## Description
 

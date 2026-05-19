@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Plant Guilds and Polyculture Design In nature plants do not grow in isolated rows; they grow in clusters called plant communities. In a plant community various plants grow together in symbiotic and mutually beneficial relationships. In permaculture, designed plant communities appropriate for a specific site are called guilds. Creating plant guilds is also referred to as [[graywater-systems]], shade
+## Plant Guilds and Polyculture Design In nature plants do not grow in isolated rows; they grow in clusters called plant communities. In a plant community various plants grow together in symbiotic and mutually beneficial relationships. In permaculture, designed plant communities appropriate for a specific site are called guilds. Creating plant guilds is also referred to as [[graywater-systems]], shade
 screens, windbreaks, and engineered microclimates may all be part of a
 guild. Like all permaculture elements, [[hemenway-garden-design-process-observation-and-visioning]] limited only by the imagination and knowledge of the
 designer.

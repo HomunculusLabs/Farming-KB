@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earth Resources and Materials
+## Earth Resources and Materials
 
 Whenever earth is moved during construction of dams, ponds, terraces, or foundations, excavation invariably reveals materials already sorted by nature into specific and useful categories. To mix them indiscriminately is to set back the clock thousands of years. The supervising designer or property owner should follow every excavator and carefully set aside each material type, as the excavation may pay for itself on any one of the resources recovered.
 

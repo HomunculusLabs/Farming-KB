@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Enoki Cultivation
+## Enoki Cultivation
 
 ## Overview
 

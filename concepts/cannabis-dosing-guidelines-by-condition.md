@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Dosing Guidelines by Condition
+## Cannabis Dosing Guidelines by Condition
 
 Effective cannabis dosing is highly individualized. The [[cannabis-subjective-therapeutic-window-dosing]] window -- the dose range between the minimum effective dose and the maximum dose before [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] is narrow**: Too little is sub-optimal; too much can worsen symptoms
 3. **Dose dependency is critical**: A medium dose may be therapeutic while a high dose is counterproductive

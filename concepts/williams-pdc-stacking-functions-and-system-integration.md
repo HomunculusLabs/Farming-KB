@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Stacking Functions and System Integration in Permaculture The principle of Stacking of Functions is one of the most recited [[mollison-lawn-reform-and-alternatives-in-permaculture-design]].
+## Stacking Functions and System Integration in Permaculture The principle of Stacking of Functions is one of the most recited [[mollison-lawn-reform-and-alternatives-in-permaculture-design]].
 
 ## The Core Concept of Stacking Functions
 

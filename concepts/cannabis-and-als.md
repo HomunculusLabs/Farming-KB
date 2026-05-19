@@ -17,7 +17,7 @@ Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, is a pr
 
 ## Merged: Cannabis for ALS
 
-# Cannabis for ALS (Amyotrophic Lateral Sclerosis)
+## Cannabis for ALS (Amyotrophic Lateral Sclerosis)
 
 ALS, also known as Lou Gehrig's disease, is a chronic degenerative neurological illness involving the selective loss of motor neurons in the brain and [[cannabis-for-neurological-conditions]], with its pain-killing, muscle-relaxing, bronchodilating, saliva-reducing, appetite-stimulating, sleep-inducing, antioxidative and neuroprotective properties, may be a practical therapeutic agent in ALS management.
 

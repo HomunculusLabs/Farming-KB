@@ -5,7 +5,7 @@ type: entity
 tags: [ascomycete, mycoparasite, fusion-interface, hyphomycete, fungicolous]
 ---
 
-# Hansfordia parasitica
+## Hansfordia parasitica
 
 ## Description
 

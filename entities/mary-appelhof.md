@@ -8,7 +8,7 @@ categories:
   - sustainability
 ---
 
-# Mary Appelhof
+## Mary Appelhof
 
 ## Description
 

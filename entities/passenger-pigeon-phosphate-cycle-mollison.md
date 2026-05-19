@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Passenger Pigeon Phosphate Cycle
+## Passenger Pigeon Phosphate Cycle
 
 ## Description
 

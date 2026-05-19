@@ -16,7 +16,7 @@ sources:
   - "Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer."
 ---
 
-# Alectoria nigricans (Black Witch's Hair Lichen)
+## Alectoria nigricans (Black Witch's Hair Lichen)
 
 ## Overview
 

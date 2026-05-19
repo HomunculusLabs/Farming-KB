@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Indo-European Language Family and Ancient World View
+## Indo-European Language Family and Ancient World View
 
 ## The Discovery of the Indo-European Language Family
 

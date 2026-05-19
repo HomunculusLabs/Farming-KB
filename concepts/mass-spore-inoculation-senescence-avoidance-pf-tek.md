@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [pf-tek, spore-inoculation, senescence, multi-spore, genetics, spore-syringe, cloning, genotype, fruiting, mycelium]
 ---
 
-# Mass Spore Inoculation and Senescence Avoidance in PF Tek
+## Mass Spore Inoculation and Senescence Avoidance in PF Tek
 
 ## Overview
 

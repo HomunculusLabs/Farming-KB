@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Off-Grid Mushroom Cultivation
+## Off-Grid Mushroom Cultivation
 
 [[greg-green-temperature-and-humidity-control]], though [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] buildup using low-light plants, solar-powered LED lights, or
 passive ventilation.

@@ -6,7 +6,7 @@ type: concept
 tags: [mushroom-cultivation, contamination, troubleshooting, pest-management]
 sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 ---
-# Mushroom Pests, Diseases, and Fumigation Protocols (Duggar) Updated: 2026-04-18 Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: [[bloomfield-fungal-life-cycle-spiral-versus-circle]]**: Adults deposit eggs at the base of mushroom stems. Larvae (maggots) pass up the stem and ultimately riddle the cap.
+## Mushroom Pests, Diseases, and Fumigation Protocols (Duggar) Updated: 2026-04-18 Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: [[bloomfield-fungal-life-cycle-spiral-versus-circle]]**: Adults deposit eggs at the base of mushroom stems. Larvae (maggots) pass up the stem and ultimately riddle the cap.
 
 **Conditions favoring outbreaks**:
 - Temperature decline after [[pf-tek-steam-sterilization-pot-method-common-pottery]] of manure would kill all insects and fungi but does not simplify the overall problem (see [[dmt-containing-plants-united-states-halpern]]).

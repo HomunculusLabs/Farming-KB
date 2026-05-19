@@ -5,7 +5,7 @@ tags: [mycology, cultivation, substrate, psilocybe-cubensis, pf-tek]
 created: 2026-05-09
 ---
 
-# PF TEK Brown Rice Vermiculite Substrate
+## PF TEK Brown Rice Vermiculite Substrate
 
 ## Overview
 

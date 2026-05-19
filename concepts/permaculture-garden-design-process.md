@@ -13,7 +13,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Permaculture Garden Design Process
+## Permaculture Garden Design Process
 
 Toby Hemenway's garden design process, detailed in Gaia's Garden, provides a practical framework for transforming any yard into an ecological garden. The process emphasizes working with nature rather than against it, and progresses through distinct phases.
 

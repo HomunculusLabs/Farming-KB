@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Ground Cover Strategy
+## Fukuoka's Ground Cover Strategy
 
 Ground cover is the backbone of Masanobu Fukuoka's [[cotter-outdoor-mushroom-garden-mulch-beds]]
 

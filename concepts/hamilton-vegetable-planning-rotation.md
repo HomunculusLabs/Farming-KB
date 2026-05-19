@@ -8,7 +8,7 @@ type: concept
 tags: [vegetables]
 ---
 
-# Vegetable Garden Planning and Rotation
+## Vegetable Garden Planning and Rotation
 
 The [[maintaining-organic-matter-in-vegetable-gardens]] produce edible crops, the ornamental section
 attracts useful wildlife that helps keep them free from pests and

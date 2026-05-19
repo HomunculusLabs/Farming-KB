@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Slope Analysis and Landscape Planning
+## Slope Analysis and Landscape Planning
 
 Slope analysis extends the zone-and-sector framework by incorporating the three-dimensional realities of landform — elevation, gradient, aspect, and orientation — into [[permaculture-design]], these slopes remain firmly in forest cover, contributing to the watershed function without requiring human management.
 

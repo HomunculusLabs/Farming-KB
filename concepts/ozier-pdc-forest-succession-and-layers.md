@@ -1,4 +1,8 @@
-# Forest Succession and Layers (Ozier PDC)
+---
+title: "Forest Succession and Layers (Ozier PDC)"
+tags:
+  - concept
+---
 
 **Source:** William Ozier, *William's PDC: A [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and energy flow.
 Forests create and regulate the Earth's atmosphere, moderate climate, protect
@@ -144,7 +148,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[ozier-pdc-biomes-ecotones-edge-effect]]

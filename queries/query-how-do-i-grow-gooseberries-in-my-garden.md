@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Grow Gooseberries in My Garden?
+## How Do I Grow Gooseberries in My Garden?
 
 ## Short Answer
 

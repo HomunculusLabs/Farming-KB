@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Office Open XML
+## Office Open XML
 
 Office Open XML (OOXML) is a zipped, XML-based file format developed by
 Microsoft for representing spreadsheets, charts, presentations, and word

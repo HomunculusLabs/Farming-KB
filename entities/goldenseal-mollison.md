@@ -5,7 +5,7 @@ type: entity
 tags: [medicinal-plant, shade-plant, forest-farming, high-value, permaculture]
 ---
 
-# Goldenseal (Hydrastis canadensis)
+## Goldenseal (Hydrastis canadensis)
 
 ## Description
 

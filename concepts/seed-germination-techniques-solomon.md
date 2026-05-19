@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Seed Germination Techniques (Solomon)
+## Seed Germination Techniques (Solomon)
 
 Updated: 2026-04-18
 

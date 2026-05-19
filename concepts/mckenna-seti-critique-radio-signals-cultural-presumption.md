@@ -8,7 +8,7 @@ aliases: [SETI Critique, Radio Signal Extraterrestrial Search, Cultural Bias in
   Astrobiology]
 ---
 
-# McKenna's Critique of SETI — Radio Signals as Cultural Presumption
+## McKenna's Critique of SETI — Radio Signals as Cultural Presumption
 
 [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 consciousness, launched a pointed critique of the Search for Extraterrestrial

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# ASB (Asymbescaline)
+## ASB (Asymbescaline)
 
 **Chemical name:** 3,4-Diethoxy-5-methoxyphenethylamine
 **[[alexander-shulgin]]. The compound demonstrates how shifting the alkoxy substitution pattern on the phenethylamine ring affects psychoactive properties.
@@ -32,7 +32,7 @@ ASB illustrates Shulgin's systematic approach to exploring how increasing the si
 
 ## Merged: 3 tasb entity
 
-# 3-TASB (3-Thioasymbescaline; 4-Ethoxy-3-ethylthio-5-methoxyphenethylamine)
+## 3-TASB (3-Thioasymbescaline; 4-Ethoxy-3-ethylthio-5-methoxyphenethylamine)
 
 3-TASB is a sulfur-substituted phenethylamine and the thio-analogue of asb entity (asymbescaline). It combines ethoxy, ethylthio, and methoxy substituents on the phenyl ring, making it one of the more complex thio-substituted phenethylamines. The compound is listed as PIHKAL entry #146.
 

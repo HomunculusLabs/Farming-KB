@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
 
-# Drip Irrigation vs Backyard Water Harvesting
+## Drip Irrigation vs Backyard Water Harvesting
 
 ## Overview
 

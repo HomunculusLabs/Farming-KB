@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Culture of Clothing and Meat
+## The Culture of Clothing and Meat
 
 In *The Road Back to Nature*, [[fukuoka-change-come-over-westerners]], [[fukuoka-machine-culture-doomed]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-european-civilization-standstill]], [[fukuoka-descartes-western-philosophy-nature]]'s pact with God. [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-american-agriculture-observations]]
 ## Practical Applications

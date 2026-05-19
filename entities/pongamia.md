@@ -5,7 +5,7 @@ type: entity
 tags: [tree, legume, shelter, mulch, nitrogen-fixer, permaculture, oil-crop]
 ---
 
-# Pongamia
+## Pongamia
 
 ## Description
 

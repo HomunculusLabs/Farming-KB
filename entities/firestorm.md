@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Firestorm
+## Firestorm
 
 ## Description
 

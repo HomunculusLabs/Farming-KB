@@ -5,7 +5,7 @@ type: entity
 tags: [lichen, bioaccumulator, radionuclide-monitoring, air-quality]
 ---
 
-# Pseudovernia furfuracea
+## Pseudovernia furfuracea
 
 ## Description
 

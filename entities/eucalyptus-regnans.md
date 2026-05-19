@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: entity
 ---
 
-# Eucalyptus regnans
+## Eucalyptus regnans
 
 ## Description
 

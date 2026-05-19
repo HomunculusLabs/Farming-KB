@@ -6,7 +6,7 @@ tags: [two-tier-selection, microbiome-assembly, host-selection,
 soil-selection, root-microbiome]
 ---
 
-# Two-Tier Selection Model for Plant Microbiomes
+## Two-Tier Selection Model for Plant Microbiomes
 
 ## Overview
 

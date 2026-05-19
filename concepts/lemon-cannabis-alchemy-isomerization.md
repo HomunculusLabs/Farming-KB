@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Isomerization of Cannabis Oil
+## Isomerization of Cannabis Oil
 
 Chapter 2 of *[[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-tinctures-and-edibles]]

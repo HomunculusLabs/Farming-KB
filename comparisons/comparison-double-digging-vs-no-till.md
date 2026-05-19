@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Double Digging vs No-Till
+## Double Digging vs No-Till
 
 ## Overview
 

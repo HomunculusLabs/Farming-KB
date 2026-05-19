@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Orchard Plant Guilds (Mollison)
+## Orchard Plant Guilds (Mollison)
 
 Source: Permaculture: A Designers' Manual, [[mollison-geese-grass-control-and-integrated-poultry]].
 

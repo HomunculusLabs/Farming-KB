@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Firebreaks and Fuel Reduction Strategies
+## Firebreaks and Fuel Reduction Strategies
 
 [[wildfire]] is an inevitable recurring event in many landscapes, occurring on regular schedules depending on vegetation type — approximately every 30 years in wet sclerophyll forest, 8-10 years in dry savannah, and annually in unbrowsed grassland. The goal of [[permaculture-fire-management]] is not to eliminate fire entirely but to reduce its intensity and destructive potential through systematic fuel management and strategic firebreak placement.
 

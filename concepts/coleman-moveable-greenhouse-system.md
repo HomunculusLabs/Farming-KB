@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# Moveable Greenhouse System
+## Moveable Greenhouse System
 
 One of Eliot Coleman's most innovative contributions to small-scale
 farming is the moveable greenhouse system. Rather than keeping a

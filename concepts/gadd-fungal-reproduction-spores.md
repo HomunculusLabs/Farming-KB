@@ -8,7 +8,7 @@ tags: [fungi, mycology]
 updated: 2026-04-26
 ---
 
-# Fungal Reproduction and Spores
+## Fungal Reproduction and Spores
 
 ## Overview
 

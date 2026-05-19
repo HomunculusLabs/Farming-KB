@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Olive Mill Wastewater Treatment Olive mill wastewater (OMW) is one of the most problematic agricultural and industrial effluents in Mediterranean countries, where olives account for approximately 98% of global production. [[fukuoka-matsutake-culture-medium-appendix]] was eliminated up to 70%, as determined by a Microtox system. The fungus produces manganese-dependent peroxidase (MnP) and laccase, which are able to decolorize and reduce the aromatic compounds and toxicity simultaneously.
+## Fungal Olive Mill Wastewater Treatment Olive mill wastewater (OMW) is one of the most problematic agricultural and industrial effluents in Mediterranean countries, where olives account for approximately 98% of global production. [[fukuoka-matsutake-culture-medium-appendix]] was eliminated up to 70%, as determined by a Microtox system. The fungus produces manganese-dependent peroxidase (MnP) and laccase, which are able to decolorize and reduce the aromatic compounds and toxicity simultaneously.
 
 [[white-rot-fungi-bioremediation]] can oxidize phenolic compounds in OMW, reducing toxicity and color.
 

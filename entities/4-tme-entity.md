@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 4-TME (3-Thiometaescaline; 4,5-Dimethoxy-3-ethylthiophenethylamine)
+## 4-TME (3-Thiometaescaline; 4,5-Dimethoxy-3-ethylthiophenethylamine)
 
 4-TME is a sulfur-substituted phenethylamine and the ethylthio analogue of me (metaescaline). It replaces the 3-ethoxy group of metaescaline with a 3-ethylthio group, producing a compound with distinctive disinhibiting and creative effects. The compound is listed as [[pihkal-sulfur-substitution-potency-sar]].
 

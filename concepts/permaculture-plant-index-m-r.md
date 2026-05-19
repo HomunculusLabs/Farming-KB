@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Permaculture Plant Index M-R
+## Permaculture Plant Index M-R
 
 This index covers plants from the letter M through R as catalogued in *Permaculture Plants: A Selection*. Entries are organized by common or scientific name with their primary uses and page references.
 

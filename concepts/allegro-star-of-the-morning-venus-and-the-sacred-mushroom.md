@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Star of the Morning — Venus and the Sacred Mushroom
+## Star of the Morning — Venus and the Sacred Mushroom
 
 Allegro shows that the identification of the sacred mushroom with the morning star (Venus/Lucifer) pervades both biblical and classical mythology, connecting the fungus to the celestial bodies through shared nomenclature and the concept of dew as heavenly semen.
 

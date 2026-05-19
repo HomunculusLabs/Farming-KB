@@ -8,7 +8,7 @@ sources:
 - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
 
-# Ayahuasca Preparation
+## Ayahuasca Preparation
 
 ## Overview
 

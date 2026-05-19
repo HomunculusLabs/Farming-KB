@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Asthma
+## Cannabis for Asthma
 
 Asthma is typically a chronic medical problem, ranging from mild breathing difficulties to severe and life-threatening emergencies requiring rapid intervention. Asthma does not discriminate by demographics, though children and senior citizens are the most vulnerable. Some children outgrow their asthma while others do not.
 

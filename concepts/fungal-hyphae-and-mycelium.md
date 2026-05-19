@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Hyphae and Mycelium
+## Fungal Hyphae and Mycelium
 
 The hypha is the fundamental structural and functional unit of fungal
 [[stinkhorn-fungi-phallus-impudicus]] and [[dighton-mycorrhizal-networks-carbon-transfer]] are pervasive in forest ecosystems. A single tree

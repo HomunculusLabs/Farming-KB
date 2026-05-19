@@ -9,7 +9,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Organometallic Compound Dealkylation by Fungi
+## Organometallic Compound Dealkylation by Fungi
 
 Organometallic compounds — molecules containing direct metal-carbon
 bonds — represent a significant class of environmental pollutants.

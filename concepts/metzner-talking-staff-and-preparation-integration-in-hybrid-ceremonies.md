@@ -7,7 +7,7 @@ tags: ralph-metzner, talking-staff, council-practice, neoshamanic,
 created: 2026-05-08
 ---
 
-# Talking Staff and Preparation-Integration in Hybrid Ceremonies
+## Talking Staff and Preparation-Integration in Hybrid Ceremonies
 
 metzner-preparation-and-integration-practices-in-hybrid-ceremonies
 

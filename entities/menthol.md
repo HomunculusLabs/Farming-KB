@@ -18,7 +18,7 @@ sources:
   - Galeotti, N., et al. (2002). "Menthol: a natural analgesic compound." Life Sciences, 71(18), 2157-2164.
 ---
 
-# Menthol
+## Menthol
 
 Menthol is a cyclic monoterpene alcohol and the primary active component of peppermint oil (*Mentha × piperita*). It is widely recognized for its characteristic cooling sensation, produced through selective activation of the TRPM8 thermoreceptor channel.
 

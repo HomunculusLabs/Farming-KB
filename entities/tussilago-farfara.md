@@ -12,7 +12,7 @@ sources:
   - "Royal Botanic Gardens, Kew. Plants of the World Online. kew.org."
 ---
 
-# Tussilago farfara
+## Tussilago farfara
 
 Tussilago farfara, commonly known as coltsfoot, is a low-growing herbaceous perennial in the aster family (Asteraceae), native to Europe and parts of Asia. One of the earliest flowering plants in temperate regions, coltsfoot sends up dandelion-like yellow flowers in late winter and [[psilocybin-north-america-pacific-northwest]]:** Established in eastern Canada and the northeastern and midwestern [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]:** A persistent weed of arable fields, particularly on heavy clay soils
 

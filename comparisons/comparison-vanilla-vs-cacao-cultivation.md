@@ -1,5 +1,10 @@
+---
+title: "Comparison Vanilla Vs Cacao Cultivation"
+tags:
+  - comparison
+---
 
-# Vanilla vs Cacao Cultivation
+## Vanilla vs Cacao Cultivation
 
 A practical comparison for tropical growers evaluating these two high-value crops for permaculture systems.
 

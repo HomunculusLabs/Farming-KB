@@ -16,7 +16,7 @@ sources:
   - Buyck B, et al. (2010). "Proposal to conserve the name Russula delica." Taxon 59(4): 1311-1312.
 ---
 
-# Russula delica
+## Russula delica
 
 ## Overview
 

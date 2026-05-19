@@ -18,7 +18,7 @@ sources:
   - S.T. Oner, The Rev's Cannabis Sativa Vol. 3 (2015)
 ---
 
-# Black Domina
+## Black Domina
 
 **Black Domina** is a pure indica cannabis strain bred by Sensi Seeds of Amsterdam. Created by crossing four distinct indica parent lines — [[afghani-cannabis]], Ortega, and a [[myrcene]]** | Dominant; earthy, musky base with strong sedative properties |
 | **[[pinene]]** | Subtle pine accent; may counteract some sedative effects |

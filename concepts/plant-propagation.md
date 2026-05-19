@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Permaculture Plant Propagation
+## Permaculture Plant Propagation
 
 Permaculture plant propagation is the range of techniques used to multiply plants for permaculture systems, including seed saving, seed germination, cuttings, layering, division, grafting, and tissue culture. Plant propagation is a foundational skill for permaculture practitioners, enabling them to develop and expand their food forests, gardens, and restoration systems without depending on commercial nurseries. [[cervantes-rooting-hormones-cloning]], either synthetic auxins such as IBA (indole-3-butyric acid) or natural preparations such as willow water, improve rooting success. The cutting base is dipped in hormone powder or solution before insertion into the rooting medium. A well-drained rooting medium of sand, perlite, or a sand-peat mix provides the balance of moisture and aeration needed for root development.
 

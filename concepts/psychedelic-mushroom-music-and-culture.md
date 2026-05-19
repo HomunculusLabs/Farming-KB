@@ -8,7 +8,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Psychedelic Mushroom Music and Culture
+## Psychedelic Mushroom Music and Culture
 
 ## Overview
 

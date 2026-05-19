@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MDAL (N-Allyl-MDA; 3,4-Methylenedioxy-N-allylamphetamine)
+## MDAL (N-Allyl-MDA; 3,4-Methylenedioxy-N-allylamphetamine)
 
 MDAL is a substituted amphetamine compound and the N-allyl derivative of [[mdpr-entity]] at 180 mg was found to be a "rather fantastic enhancer of LSD action," functioning as an inactive compound that potentiates LSD effects.
 

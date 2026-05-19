@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Temperature Regimes and Soil Chemistry
+## Desert Temperature Regimes and Soil Chemistry
 
 Deserts present some of the most extreme environmental conditions on Earth, yet they support
 remarkable ecosystems when water is available. Understanding the interplay between temperature

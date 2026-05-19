@@ -7,7 +7,7 @@ tags: [mushrooms, cultivation, history, gardening]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
-# Nineteenth-Century Mushroom Cultivation
+## Nineteenth-Century Mushroom Cultivation
 
 Julius Auboineau Palmer's practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
 

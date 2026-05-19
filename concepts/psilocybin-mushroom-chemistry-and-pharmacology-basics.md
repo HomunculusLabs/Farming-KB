@@ -3,7 +3,7 @@ title: Psilocybin Mushroom Chemistry And Pharmacology Basics
 source: EMCDDA "Hallucinogenic Mushrooms: An Emerging Trend Case Study" (2006)
 ---
 
-# Psilocybin Mushroom Chemistry and Pharmacology Basics
+## Psilocybin Mushroom Chemistry and Pharmacology Basics
 
 ## Overview
 

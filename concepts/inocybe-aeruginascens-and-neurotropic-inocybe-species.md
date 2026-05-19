@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Inocybe Aeruginascens and Neurotropic Inocybe Species
+## Inocybe Aeruginascens and Neurotropic Inocybe Species
 The genus Inocybe represents one of the most surprising groups of
 neurotropic fungi. As members of the family Cortinariaceae, Inocybe
 species are not visually associated with the typical "magic mushroom"

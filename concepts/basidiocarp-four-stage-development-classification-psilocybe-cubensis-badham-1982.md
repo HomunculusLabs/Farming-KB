@@ -7,7 +7,7 @@ journal: Mycologia 74(2)
 topics: [mycology, mushroom-development, basidiocarp-morphogenesis, psilocybe-cubensis]
 ---
 
-# Basidiocarp Four-Stage Development Classification in Psilocybe Cubensis
+## Basidiocarp Four-Stage Development Classification in Psilocybe Cubensis
 
 ## Overview
 

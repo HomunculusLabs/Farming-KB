@@ -8,7 +8,7 @@ sources:
   - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 ---
 
-# soft fruit growing organic
+## soft fruit growing organic
 
 Updated: 2026-04-18
 

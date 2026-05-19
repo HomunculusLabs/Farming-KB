@@ -19,7 +19,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Herb Solution (JHS)
+## JADAM Herb Solution (JHS)
 
 JHS is a boiled herb extract that provides insecticidal and germicidal power to [[jadam-methods]] pesticides. Different herbs target different pests. The basic herb is [[comparison-jerusalem-artichoke-vs-potato]] (controls aphids, mites, moths). Stronger options include gingko (adds leafhopper/planthopper control) and Korean pasque flower root (strongest -- controls stinkbugs, thrips, and almost everything else). Always combined with [[jadam-wetting-agent-jwa]].
 

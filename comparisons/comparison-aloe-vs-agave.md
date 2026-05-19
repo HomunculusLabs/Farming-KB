@@ -8,7 +8,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Aloe vs Agave — Key Differences and Growing Guide
+## Aloe vs Agave — Key Differences and Growing Guide
 
 Aloe and Agave are two of the most widely recognized succulent genera, frequently confused by gardeners, foragers, and [[palmer-mushroom-hunting-field-identification]] feature:
 

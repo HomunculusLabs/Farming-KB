@@ -8,7 +8,7 @@ sources:
   - "papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Fungal Interactions with Radionuclides
+## Fungal Interactions with Radionuclides
 
 Fungi interact with radionuclides through the same biogeochemical mechanisms
 they employ for stable metals: biosorption, bioaccumulation, extracellular

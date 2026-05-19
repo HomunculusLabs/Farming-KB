@@ -1,6 +1,6 @@
 ---
 
-# How Do I Grow Dragon Fruit (Pitaya) at Home?
+## How Do I Grow Dragon Fruit (Pitaya) at Home?
 
 A practical FAQ for beginners who want to grow dragon fruit (pitaya) at home, whether in-ground, in containers, or indoors. See also comparison-dragon-fruit-vs-passion-fruit-cultivation for a side-by-side with another tropical vining fruit.
 

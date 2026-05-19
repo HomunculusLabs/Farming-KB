@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], with very broad host and geographic range
+## [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], with very broad host and geographic range
 - **Phialocephala dimorphospora** and **P. finlandia**: closely
   related species with similar ecology
 - **Mycelium radicis atrovirens** (MRA): a heterogeneous taxon

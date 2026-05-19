@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Sheet Mulching vs Chop and Drop Mulching
+## Sheet Mulching vs Chop and Drop Mulching
 
 ## Overview
 Sheet mulching and chop and drop mulching are two foundational no-till soil-building

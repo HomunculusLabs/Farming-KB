@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ericoid Mycorrhizae and Ericaceous Plant Ecology
+## Ericoid Mycorrhizae and Ericaceous Plant Ecology
 
 [[ericoid-mycorrhizae]] represent one of the most specialized mycorrhizal associations in nature, formed between members of the Ericaceae plant family and a limited group of ascomycete fungi, most notably *[[hymenoscyphus-ericae]]* (syn. *Rhizoscyphus ericae*). These symbioses are particularly important in nutrient-poor, acidic habitats where ericaceous plants dominate, such as heathlands, bogs, and boreal forest understories.
 

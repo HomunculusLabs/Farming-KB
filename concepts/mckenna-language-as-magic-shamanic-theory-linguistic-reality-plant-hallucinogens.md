@@ -1,4 +1,8 @@
-# McKenna: Language as Magic — The Shamanic Theory of Linguistic Reality
+---
+title: "McKenna: Language as Magic — The Shamanic Theory of Linguistic Reality"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -6,7 +6,7 @@ created: 2026-05-09
 source: Fungi in the Environment (Gadd, Watkinson, Dyer)
 ---
 
-# Fungal Decomposition and Biogeochemical Cycles
+## Fungal Decomposition and Biogeochemical Cycles
 
 Fungi play fundamental roles [[teaming-with-nutrients-micronutrients-and-trace-elements]]. While bacterial geomicrobiology has been studied extensively, the geomycological contributions of fungi — despite their often larger biomass in soil — have received less attention until recently.
 

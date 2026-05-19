@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: Nature That Transcends Human Knowledge
+## Fukuoka: Nature That Transcends Human Knowledge
 
 ## The Indefinability of Nature
 

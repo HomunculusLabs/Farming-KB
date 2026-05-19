@@ -8,7 +8,7 @@ sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
-# HEPA Filter Selection and Testing for Mushroom Cultivation
+## HEPA Filter Selection and Testing for Mushroom Cultivation
 
 HEPA (High Efficiency Particulate Air) filtration is the cornerstone of [[laminar-flow-hood-diy-construction]]. Typically 6 inches (15 cm) deep with aluminium or cardboard separators between pleats. Dimensions commonly available:
 - 24" x 30" x 6" (61 x 76 x 15 cm)

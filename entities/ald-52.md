@@ -25,7 +25,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/ (Brandt et al., 2016 — lysergamide characterization)
 ---
 
-# ALD-52
+## ALD-52
 
 **ALD-52** (1-acetyl-N,N-diethyllysergamide), also known as **1-acetyl-LSD** or **1A-LSD**, is a semisynthetic psychedelic substance of the lysergamide class. It is the 1-acetyl derivative of [[lsd-entity-tihkal|TIHKAL]] (Tryptamines I Have Known and Loved).
 

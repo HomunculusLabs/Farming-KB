@@ -10,7 +10,7 @@ type: concept
 tags: [fukuoka, plant-growth]
 ---
 
-# Fukuoka Seed Balls and Direct Seeding
+## Fukuoka Seed Balls and Direct Seeding
 
 Clay seed balls (sometimes called [[fukuoka-no-till-grain-production-method]] and his ambitious [[fukuoka-straw-mulch-philosophy]].
 

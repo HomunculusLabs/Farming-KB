@@ -1,4 +1,8 @@
-# PF TEK Desiccant Drying: Chemistry, Materials, and Cool Drying for Alkaloid Preservation
+---
+title: "PF TEK Desiccant Drying: Chemistry, Materials, and Cool Drying for Alkaloid Preservation"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[desiccant-drying-psilocybin-potency-preservation]]

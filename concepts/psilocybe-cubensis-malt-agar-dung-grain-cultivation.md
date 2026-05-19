@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [cultivation, psilocybe-cubensis, malt-agar, dung-grain-substrate, mycelial-growth, substrate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: ["raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"]
 type: concept
 ---
 
-# Psilocybe Cubensis Cultivation on Malt Agar and Dung Grain Substrate
+## Psilocybe Cubensis Cultivation on Malt Agar and Dung Grain Substrate
 
 The Gartz, Adam, and Vorbrodt (1990) study employed two distinct cultivation
 systems [[synthetic-log-cultivation-methods-guide]] represent established approaches

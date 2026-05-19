@@ -8,7 +8,7 @@ created: 2026-04-28
 type: comparison
 ---
 
-# Cob vs Hempcrete
+## Cob vs Hempcrete
 
 ## Overview
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Polypore Mushrooms: Cultivation Overview
+## Polypore Mushrooms: Cultivation Overview
 
 Polypores are premier wood decomposers and can produce annual or
 perennial fruitbodies. The polypore chapter in Growing Gourmet and

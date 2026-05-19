@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [nutrition, philosophy, health, food, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Natural Diet
+## Natural Diet
 
 Natural diet, as formulated by [[fukuoka-seasonal-eating-natural-food-calendar]] food — it demands becoming a "natural person"
 whose body and spirit are prepared to receive it.

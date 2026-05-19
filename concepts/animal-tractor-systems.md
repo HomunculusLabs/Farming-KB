@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[permaculture-integrated-animal-systems|permaculture|Animal]] Tractor Systems
+## [[permaculture-integrated-animal-systems|permaculture|Animal]] Tractor Systems
 
 Animal tractor systems are permaculture techniques that use confined livestock to clear ground cover, eliminate persistent weeds, fertilize soil, and prepare land for subsequent crop planting. Rather than relying on mechanical cultivation or herbicides, these systems harness the natural behaviors of animals — scratching, rooting, grazing, and manuring — to convert weedy or degraded land into productive garden and tree crop areas.
 

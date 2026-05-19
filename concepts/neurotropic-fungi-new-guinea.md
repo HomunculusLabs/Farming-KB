@@ -8,7 +8,7 @@ type: concept
 tags: [mycology, new-guinea, ethnomyology, neurotropic-fungi, distribution, melanesia, indigenous-use]
 ---
 
-# Neurotropic Fungi in New Guinea
+## Neurotropic Fungi in New Guinea
 
 ## Overview
 

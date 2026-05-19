@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Constructed Wetland Design for Contaminant Treatment
+## Constructed Wetland Design for Contaminant Treatment
 
 [[mollison-designers-wastewater-treatment-wetlands]] applications to complex, multi-functional ecosystems capable of treating a wide range of contaminants including organic pollutants, metals, nutrients, and pathogens.
 

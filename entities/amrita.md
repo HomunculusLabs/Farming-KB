@@ -5,7 +5,7 @@ type: entity
 tags: [hindu, buddhist, elixir, soma, ethnomycology, amanita-muscaria, ritual-substance, immortality]
 ---
 
-# Amrita (Amrta)
+## Amrita (Amrta)
 
 ## Description
 

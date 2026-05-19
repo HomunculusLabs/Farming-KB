@@ -7,7 +7,7 @@ tags: [permaculture, fruit-tree, pruning, orchard, philosophy, methods]
 sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md, raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 ---
 
-# No Pruning Fruit Trees
+## No Pruning Fruit Trees
 
 Masanobu Fukuoka challenged the conventional wisdom that fruit trees must be pruned for good production. His "no pruning" approach is one of the five core principles of [[fukuoka-natural-farming-method|natural farming]].
 

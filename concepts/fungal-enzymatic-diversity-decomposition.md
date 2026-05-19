@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Enzymatic Diversity in Decomposition
+## Fungal Enzymatic Diversity in Decomposition
 Fungi produce a remarkably diverse array of [[maintaining-organic-matter-in-vegetable-gardens]] terrestrial ecosystems,
 including lignin, cellulose, hemicellulose, cutin, suberin, chitin, and
 keratin.

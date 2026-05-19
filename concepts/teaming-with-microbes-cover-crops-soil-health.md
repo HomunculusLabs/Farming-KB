@@ -7,7 +7,7 @@ tags: [cover-crops, soil-health, succession, nitrogen-fixation]
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
-# Cover Crops and Soil Health
+## Cover Crops and Soil Health
 
 While Lowenfels and Lewis do not devote a standalone chapter to cover crops, the principles throughout *Teaming with Microbes* directly support the practice. Cover crops align with [[teaming-with-microbes-bacteria-the-smallest-workers]] and [[teaming-with-microbes-soil-ph-and-biology]] for good populations — a consideration when selecting legume cover crops for acidic soils.
 

@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Scale, Speed and Energetic Limits
+## Scale, Speed and Energetic Limits
 
 A central insight from [[permaculture]] Principle 9 ("Use [[small-and-slow-solutions]]") is that scale and speed are constrained by energetic limits. In a world of contracting energy availability, understanding these constraints is not merely philosophical — it is the practical foundation for designing systems that actually work.
 

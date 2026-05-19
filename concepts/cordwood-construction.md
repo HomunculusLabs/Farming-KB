@@ -7,7 +7,7 @@ tags: [construction, homesteading, sustainability, permaculture, design, enginee
 sources: []
 ---
 
-# Cordwood Construction
+## Cordwood Construction
 
 Cordwood construction (also called cordwood masonry or stackwall) is a building technique where short logs (cordwood) are laid in a bed of mortar, similar to bricks, to create walls. The log ends are visible on both the interior and exterior faces, creating a distinctive and beautiful pattern. This method combines the insulation of wood with the [[comparison-windbreak-vs-thermal-mass]] of masonry.
 

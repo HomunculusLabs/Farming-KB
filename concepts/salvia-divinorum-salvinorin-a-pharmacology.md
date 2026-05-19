@@ -4,7 +4,7 @@ tags: [salvia-divinorum, salvinorin-a, psychedelics, kappa-opioid, lamiaceae, et
 source: "Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the United States. Pharmacology & Therapeutics, 102, 131-138."
 ---
 
-# Salvia Divinorum and Salvinorin-A Pharmacology
+## Salvia Divinorum and Salvinorin-A Pharmacology
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Amanita muscaria Use in Australia and New Zealand
+## Amanita muscaria Use in Australia and New Zealand
 
 ## Overview
 

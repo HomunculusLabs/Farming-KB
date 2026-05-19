@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Stinkhorns, [[bloomfield-gasteromycetes-puffballs-earthstars]] fungi,
+## Stinkhorns, [[bloomfield-gasteromycetes-puffballs-earthstars]] fungi,
 producing phallic fruiting bodies that emerge from underground eggs and
 attract insects with fetid odors. The most notorious species is Phallus
 impudicus, Latin for "the shameless penis," which has captured human

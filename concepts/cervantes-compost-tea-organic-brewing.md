@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# [[bacterial-vs-fungal-compost-teas]] contain soluble [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. A quarter teaspoon of a well-made compost tea
+## [[bacterial-vs-fungal-compost-teas]] contain soluble [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. A quarter teaspoon of a well-made compost tea
 holds more than a billion bacteria and at least 15 feet of fungi strands.
 A good compost tea also contains thousands of different species of
 protozoa, nematodes, and [[geoff-hamilton-organic-techniques]]

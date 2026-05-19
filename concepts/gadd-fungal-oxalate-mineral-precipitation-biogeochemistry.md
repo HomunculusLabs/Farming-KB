@@ -5,7 +5,7 @@ source_author: "Gadd, Watkinson, Dyer (eds.)"
 tags: [fungi, oxalate, biogeochemistry, mineral-precipitation, calcium-oxalate, mycogenic-minerals, bioweathering, bioremediation, gadd]
 ---
 
-# Fungal Oxalate Mineral Precipitation and Biogeochemistry
+## Fungal Oxalate Mineral Precipitation and Biogeochemistry
 
 ## Overview
 

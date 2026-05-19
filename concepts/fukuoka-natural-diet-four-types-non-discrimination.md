@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Four Types of Natural Diet and Non-Discrimination
+## Fukuoka Four Types of Natural Diet and Non-Discrimination
 
 [[fukuoka-critique-western-dietetics]], particularly the
 four-group scoring method. "This appears to be eminently sensible and safe, but

@@ -5,7 +5,7 @@ type: entity
 tags: [species, tree, legume, nitrogen-fixation, agroforestry, africa]
 ---
 
-# Acacia albida (Faidherbia albida)
+## Acacia albida (Faidherbia albida)
 
 ## Description
 

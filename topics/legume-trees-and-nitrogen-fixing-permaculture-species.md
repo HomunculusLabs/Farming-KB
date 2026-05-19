@@ -1,6 +1,6 @@
 ---
 
-# Legume Trees and Nitrogen-Fixing Permaculture Species
+## Legume Trees and Nitrogen-Fixing Permaculture Species
 
 Legume trees (family Fabaceae, subfamily Faboideae and Mimosoideae) are among the most valuable plants in permaculture design. Through their symbiotic relationship with rhizobial bacteria, they convert atmospheric nitrogen (N₂) into biologically available forms (NH₄⁺), enriching soil fertility while producing food, fodder, timber, fuel, mulch, and nectar. This page provides a comprehensive guide to selecting, establishing, and managing nitrogen-fixing-bacteria-and-biological-nitrogen-fixation trees in permaculture systems.
 

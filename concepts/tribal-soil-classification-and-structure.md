@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Soil Classification and Structure
+## Tribal Soil Classification and Structure
 
 Indigenous and traditional societies have developed remarkably sophisticated systems for classifying soils, often far more practical for local agriculture than modern taxonomic approaches. [[soil-life]]
 - **Plant indicators** — specific plants signal acidity, drainage conditions, or fertility levels

@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria Dosage, Drying, and Preparation Variables
+## Amanita Muscaria Dosage, Drying, and Preparation Variables
 
 The pharmacological effects of *Amanita muscaria* are not determined solely by the quantity consumed. A complex interplay of biological variation, [[amanita-muscaria-preparation-methods]] shapes every experience. Understanding these variables is essential for safe and effective use.
 

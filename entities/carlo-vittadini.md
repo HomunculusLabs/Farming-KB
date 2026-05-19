@@ -5,7 +5,7 @@ type: person
 tags: [mycologist, italy, agaricus-campestris, 19th-century, taxonomy]
 ---
 
-# Carlo Vittadini
+## Carlo Vittadini
 
 ## Description
 

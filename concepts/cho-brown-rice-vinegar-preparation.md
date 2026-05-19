@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Cho's Brown Rice Vinegar Preparation
+## Cho's Brown Rice Vinegar Preparation
 
 Brown rice vinegar (BRV) is a versatile essential input in Dr. Cho's Korean
 [[cho-yeast-preparation-guide]].

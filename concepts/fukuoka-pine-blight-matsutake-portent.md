@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Pine Blight and Matsutake as Portent of Desertification
+## Pine Blight and Matsutake as Portent of Desertification
 
 In *The Road Back to Nature*, [[ectomycorrhizal-fungal-ecology]]
 - When the pines die, the matsutake disappears

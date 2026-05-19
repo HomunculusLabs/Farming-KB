@@ -20,7 +20,7 @@ sources:
   - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
   - Arnolds, E. (1986). "Ecology and coenology of macrofungi in grasslands and moist heathlands." Bibl. Mycol., 90.
 ---
-# Lactarius volemus
+## Lactarius volemus
 
 ## Overview
 

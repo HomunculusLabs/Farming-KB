@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Food Forest Design vs Backyard Orchard Design
+## Food Forest Design vs Backyard Orchard Design
 
 ## Overview
 Food forest design and backyard orchard design both produce food from perennial tree

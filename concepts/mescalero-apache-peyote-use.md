@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
 ---
-# Mescalero Apache Peyote Use and Rejection
+## Mescalero Apache Peyote Use and Rejection
 
 The Mescalero, Chiricahua, and Lipan Apache tribes of the [[mescalero-indian-reservation]] in New Mexico present an unusual case in the ethnographic literature: they adopted the hallucinogenic peyote cactus (Lophophora williamsii) for use in shamanistic ceremonies around 1870, but subsequently abandoned and proscribed its use after approximately forty years. This case was documented by L. Bryce Boyer, Ruth M. Boyer, and Harry W. Basehart in [[peyote-ceremony]]
 [[entheogen-culture]]

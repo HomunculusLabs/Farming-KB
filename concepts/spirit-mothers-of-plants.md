@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Spirit Mothers of Plants
+## Spirit Mothers of Plants
 
 In Amazonian vegetalismo, every plant possesses a spirit or "mother"
 (madre) -- a conscious being that guards, teaches, and sometimes

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi of the Caribbean and Central America
+## Neurotropic Fungi of the Caribbean and Central America
 
 The Caribbean and Central America form a critical biogeographic bridge between North and South America, and this region hosts a notable diversity of neurotropic fungi. The tropical climate, combined with the introduction of cattle during the colonial period, created ideal conditions for coprophilous (dung-inhabiting) psilocybian species. The region's [[mexico-center-neurotropic-fungal-biodiversity]] species, though the region has been less intensively studied than Mexico or South America.
 

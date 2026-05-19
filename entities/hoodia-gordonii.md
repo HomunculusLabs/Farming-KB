@@ -16,7 +16,7 @@ sources:
   - Lean MEJ, Noroozi M (2003). "Hoodia gordonii: The science and politics of a southern African plant." Journal of Internal Medicine 254(1).
 ---
 
-# Hoodia gordonii
+## Hoodia gordonii
 
 ## Overview
 

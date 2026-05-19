@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-# Cannabis Flowering Stage Management
+## Cannabis Flowering Stage Management
 
 Flowering is triggered by changing the [[cannabis-vegetative-growth-stage]].
 - Reduce overall yield and potency.

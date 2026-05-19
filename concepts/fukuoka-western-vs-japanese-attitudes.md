@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Western vs Japanese Attitudes Toward Natural Farming
+## Western vs Japanese Attitudes Toward Natural Farming
 
 One of the most striking observations in [[fukuoka-road-do-nothing-farming]] -- blank slates -- willing to set aside preconceptions. Fukuoka observed that Americans and Europeans who visited his farm or attended his lectures often grasped the spiritual dimension of [[fukuoka-road-do-nothing-farming]]
 

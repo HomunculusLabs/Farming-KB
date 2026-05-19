@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# McKenna on the Exteriorization of the Soul and Translinguistic Matter
+## McKenna on the Exteriorization of the Soul and Translinguistic Matter
 
 ## Overview
 

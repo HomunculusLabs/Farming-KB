@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]. The procedures described in early 20th century [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation]] Fumigation
+## [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]. The procedures described in early 20th century [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation]] Fumigation
 
 ### Timing
 

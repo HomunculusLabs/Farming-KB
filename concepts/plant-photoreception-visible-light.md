@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Plant Photoreception Across the Visible Spectrum
+## Plant Photoreception Across the Visible Spectrum
 
 ## Overview
 

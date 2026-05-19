@@ -1,4 +1,8 @@
-# Psilocybe subyungensis: South American Mesophytic Distribution and Biogeography
+---
+title: "Psilocybe subyungensis: South American Mesophytic Distribution and Biogeography"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

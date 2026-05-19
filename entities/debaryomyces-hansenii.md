@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, yeast, marine-fungi, salt-tolerance, food-science]
 ---
 
-# Debaryomyces hansenii
+## Debaryomyces hansenii
 
 ## Description
 

@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# MDPR
+## MDPR
 
 MDPR (N-Propyl-MDA; 3,4-Methylenedioxy-N-propylamphetamine) is an N-propyl substituted analogue of mda-entity|MDA that is notable primarily for its remarkable properties as a psychedelic primer.
 

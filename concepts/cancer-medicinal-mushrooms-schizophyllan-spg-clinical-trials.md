@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Schizophyllan SPG Clinical Cancer Trials
+## Schizophyllan SPG Clinical Cancer Trials
 
 Schizophyllan (also known as Sonifilan, Sizofiran, or SPG) is a
 polysaccharide derived from [[cancer-medicinal-mushrooms-maitake-d-fraction]]

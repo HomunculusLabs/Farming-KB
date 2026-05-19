@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [cbd, anandamide, faah, endocannabinoid, inhibition, neuroprotection, antipsychotic, anti-anxiety]
 ---
 
-# CBD FAAH Inhibition and Anandamide Preservation Mechanism
+## CBD FAAH Inhibition and Anandamide Preservation Mechanism
 
 ## Overview
 

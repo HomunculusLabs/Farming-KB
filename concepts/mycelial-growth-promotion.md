@@ -7,7 +7,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 tags: [mycology, fungal-growth, brassinosteroids, cultivation, growth-factors]
 ---
 
-# Mycelial Growth Promotion
+## Mycelial Growth Promotion
 
 Mycelial growth promotion refers to the enhancement of vegetative fungal
 growth — expansion of the filamentous mycelial network — through chemical,

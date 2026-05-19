@@ -7,7 +7,7 @@ created: 2026-05-10
 tags: [book, psychedelics, history, anthropology, ethnobotany, McKenna]
 ---
 
-# Food of the Gods (Book)
+## Food of the Gods (Book)
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MDE (MDEA, EVE) — 3,4-Methylenedioxy-N-Ethylamphetamine
+## MDE (MDEA, EVE) — 3,4-Methylenedioxy-N-Ethylamphetamine
 
 ## Overview
 

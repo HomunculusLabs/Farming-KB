@@ -7,7 +7,7 @@ tags: [comparison]
 sources: []
 ---
 
-# Spore Syringe vs Liquid Culture Comparison
+## Spore Syringe vs Liquid Culture Comparison
 
 Both spore syringes and liquid cultures (LC) are used to inoculate [[query-how-to-store-mushroom-spores-long-term]] collected from a spore print and suspended in sterile water. Spores are the reproductive cells of mushrooms, analogous to seeds in plants. Each spore is haploid, containing only half the genetic material needed to form a fertile organism. When spores germinate, they produce monokaryotic mycelium that must find and fuse with a compatible mate to form dikaryotic mycelium capable of producing fruitbodies.
 

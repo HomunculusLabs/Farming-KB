@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, pharmacology, medicinal-mushrooms, biochemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Medicinal Mushroom Compounds Medicinal mushrooms produce a diverse array of **bioactive compounds** with immunomodulatory, anti-inflammatory, anti-tumor, antioxidant, and neuroprotective properties. These compounds have been used in traditional medicine for millennia, particularly in East Asian practices, and are now the subject of extensive pharmacological research. ## [[stamets-reishi-ganoderma-lucidum-cultivation]]*).
+## Medicinal Mushroom Compounds Medicinal mushrooms produce a diverse array of **bioactive compounds** with immunomodulatory, anti-inflammatory, anti-tumor, antioxidant, and neuroprotective properties. These compounds have been used in traditional medicine for millennia, particularly in East Asian practices, and are now the subject of extensive pharmacological research. ## [[stamets-reishi-ganoderma-lucidum-cultivation]]*).
 
 ## Triterpenoids
 

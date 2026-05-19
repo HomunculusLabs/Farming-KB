@@ -1,5 +1,5 @@
 ---
-title: How to query-how-to-grow-shiitake-mushrooms-on-logs Mushrooms
+title: "Query How To Grow Shiitake Mushrooms"
 created: 2026-04-28
 tags:
   - shiitake

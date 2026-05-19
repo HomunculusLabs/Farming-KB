@@ -16,7 +16,7 @@ sources:
   - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 ---
 
-# Ibogaine Anti-Addiction Therapy
+## Ibogaine Anti-Addiction Therapy
 
 Ibogaine is an [[iboga-root-bark-preparation]] [[allegro-plants-and-drugs-in-the-ancient-world]]
 1960s by Howard Lotsof, a heroin-dependent young man who observed that a

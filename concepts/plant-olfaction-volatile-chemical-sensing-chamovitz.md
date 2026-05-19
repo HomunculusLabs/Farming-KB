@@ -7,7 +7,7 @@ type: concept
 tags: [plant-biology, olfaction, volatile-organic-compounds, plant-senses, ethylene, jasmonate, chemical-communication, chamovitz, plant-behavior]
 ---
 
-# Plant Olfaction — How Plants Detect and Respond to Volatile Chemicals
+## Plant Olfaction — How Plants Detect and Respond to Volatile Chemicals
 
 ## Overview
 

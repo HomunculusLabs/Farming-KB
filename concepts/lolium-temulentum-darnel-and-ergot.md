@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Lolium temulentum (Darnel) and Ergot
+## Lolium temulentum (Darnel) and Ergot
 
 **Source:** The [[demeter-ergot-symbiosis-eleusinian-symbolism]] between the dark sclerotia and the underworld was not lost on ancient observers. The purple-black color of ergot bodies — which contrasts sharply with the golden grain — may have contributed to their mythological identification with chthonic forces and the realm of the dead.
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 4-Br-3,5-DMA
+## 4-Br-3,5-DMA
 
 [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[2-br-4-5-mda-entity-pihkal]]
 - [[bom-entity-pihkal]] -- BOM (PIHKAL #17)

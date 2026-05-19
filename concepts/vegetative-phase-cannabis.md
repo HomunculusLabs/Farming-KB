@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Vegetative Phase Cannabis
+## Vegetative Phase Cannabis
 
 The vegetative phase is the [[cannabis-vegetative-growth-stage]] is the
 foundation of a heavy harvest. This stage is maintained by providing 16 or more hours

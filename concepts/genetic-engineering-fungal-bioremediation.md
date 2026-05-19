@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources:
   - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
-# Genetic Engineering for Fungal Bioremediation
+## Genetic Engineering for Fungal Bioremediation
 
 Genetic engineering approaches to enhance fungal bioremediation aim to improve the production and excretion of extracellular enzymes involved in pollutant transformation, increase tolerance to toxic contaminants, and expand the range of degradable compounds. While molecular techniques have rarely been applied to improve fungal inoculants for bioremediation in practice, fundamental research has demonstrated significant potential for creating fungi with enhanced remediation capabilities.
 

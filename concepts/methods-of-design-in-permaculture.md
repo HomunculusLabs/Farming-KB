@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Methods of Design in Permaculture
+## Methods of Design in Permaculture
 
 [[permaculture-ethics-and-principles]].
 

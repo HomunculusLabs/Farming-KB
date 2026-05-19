@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Sweet Chestnut and Nut Trees
+## Holzer Sweet Chestnut and Nut Trees
 
 Nut trees represent some of the most valuable long-term investments in a permaculture system. They produce calorie-dense, storable food, high-quality timber, and provide habitat for wildlife. Sepp Holzer has demonstrated that nut trees can be established even in marginal, high-altitude sites using creative planting techniques that leverage natural processes. The sweet chestnut (Castanea sativa) features prominently in Holzer's work, along with walnuts and other nut-producing species.
 

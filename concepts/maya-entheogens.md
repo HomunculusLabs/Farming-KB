@@ -8,7 +8,7 @@ type: concept
 tags: [entheogen]
 ---
 
-# Maya Entheogens in Plants of the Gods
+## Maya Entheogens in Plants of the Gods
 
 Schultes and Hofmann present evidence that the Maya civilization employed
 hallucinogenic plants in their ceremonial and religious practices, though the

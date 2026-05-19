@@ -5,7 +5,7 @@ tags: [fukuoka, natural-farming, japan, mechanization, postwar, agricultural-pol
 created: 2026-05-11
 ---
 
-# Japan's Postwar Mechanization: The Agricultural Transformation That Fueled Industrialization
+## Japan's Postwar Mechanization: The Agricultural Transformation That Fueled Industrialization
 
 [[masanobu-fukuoka]] provides a farmer's-eye view of Japan's postwar economic
 miracle—one that reveals the agricultural roots of industrialization and the

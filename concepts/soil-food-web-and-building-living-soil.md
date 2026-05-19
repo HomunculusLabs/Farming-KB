@@ -1,4 +1,8 @@
-# Soil Food Web and Building Living Soil
+---
+title: "Soil Food Web and Building Living Soil"
+tags:
+  - concept
+---
 
 The soil food web is the vast community of organisms living in soil — from bacteria and fungi to earthworms and beetles — that drives [[hamilton-composting-and-organic-matter-management]], and builds the fertile, structured soil that plants depend on.
 

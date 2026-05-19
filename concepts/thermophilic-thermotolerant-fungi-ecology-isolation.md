@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Thermophilic and Thermotolerant Fungi
+## Thermophilic and Thermotolerant Fungi
 
 Thermophilic and thermotolerant fungi represent a specialized
 ecological group capable of growth at elevated temperatures

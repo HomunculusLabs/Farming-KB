@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Best Soil Mix for Growing Cannabis?
+## What Is the Best Soil Mix for Growing Cannabis?
 
 ## Short Answer
 The best soil mix for cannabis depends on your growing style, but a high-quality

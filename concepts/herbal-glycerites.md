@@ -7,7 +7,7 @@ tags: [herbalism, herbs, medicine]
 sources: []
 ---
 
-# Herbal Glycerites
+## Herbal Glycerites
 
 Glycerites are herbal extracts made using vegetable glycerin as the primary solvent. They are alcohol-free alternatives to tinctures, making them suitable for children, individuals in recovery from alcohol addiction, those with liver conditions that contraindicate alcohol consumption, and anyone who prefers to avoid alcohol-based preparations. Glycerin is a sweet, syrupy liquid that is naturally derived from plant fats.
 

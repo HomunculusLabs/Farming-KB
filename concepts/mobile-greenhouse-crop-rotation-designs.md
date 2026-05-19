@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Mobile Greenhouse Crop Rotation Designs
+## Mobile Greenhouse Crop Rotation Designs
 
 ## Philosophy of Year-Round Multi-Crop Production
 

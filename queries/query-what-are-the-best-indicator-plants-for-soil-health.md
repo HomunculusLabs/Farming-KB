@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Best Indicator Plants for Soil Health
+## What Are the Best Indicator Plants for Soil Health
 
 ## Short Answer
 Indicator plants are wild or volunteer species that reveal specific soil

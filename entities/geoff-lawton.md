@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Geoff Lawton ## Overview Geoff Lawton is an Australian permaculture consultant, designer, teacher, and practitioner widely regarded as one of the most influential figures in the global permaculture movement. A former student of [[masanobu-fukuoka]] — [[sepp-holzer]] — Austrian permaculture practitioner with complementary approach to [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
+## Geoff Lawton ## Overview Geoff Lawton is an Australian permaculture consultant, designer, teacher, and practitioner widely regarded as one of the most influential figures in the global permaculture movement. A former student of [[masanobu-fukuoka]] — [[sepp-holzer]] — Austrian permaculture practitioner with complementary approach to [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
 ## Background and Context
 
 Geoff Lawton is an important subject that has garnered significant attention

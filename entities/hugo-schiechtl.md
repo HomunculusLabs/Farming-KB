@@ -5,7 +5,7 @@ type: entity
 tags: [person, bioengineering, land-reclamation, author, permaculture]
 ---
 
-# Hugo Schiechtl
+## Hugo Schiechtl
 
 ## Description
 

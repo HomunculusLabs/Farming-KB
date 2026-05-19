@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# What Is Supercropping Cannabis and How Does It Work?
+## What Is Supercropping Cannabis and How Does It Work?
 
 ## Short Answer
 

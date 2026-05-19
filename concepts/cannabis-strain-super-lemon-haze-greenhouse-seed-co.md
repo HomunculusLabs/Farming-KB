@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# Super Lemon Haze
+## Super Lemon Haze
 
 > *"A true modern classic."* — S.T. Oner, *Cannabis Sativa Vol 3*
 

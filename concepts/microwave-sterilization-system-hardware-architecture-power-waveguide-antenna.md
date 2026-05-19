@@ -1,4 +1,8 @@
-# [[microwave-surface-sterilization]] system (MSC-22484) consists
+---
+title: "microwave surface sterilization system (MSC-22484) consists"
+tags:
+  - concept
+---
 of several integrated hardware components that work together to deliver
 controlled 2.45 GHz microwave energy to contaminated surfaces. The system
 was designed to be modular and configurable, allowing adaptation to different

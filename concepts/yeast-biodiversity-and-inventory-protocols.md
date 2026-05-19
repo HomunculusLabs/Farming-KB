@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Yeast Biodiversity and Inventory Protocols
+## Yeast Biodiversity and Inventory Protocols
 
 Yeasts are a polyphyletic group of ascomycetous and basidiomycetous fungi characterized by a unicellular growth phase and sexual stages not enclosed in fruiting bodies. Approximately 100 genera comprising more than 700 described species are known (Kurtzman and Fell 1998), but current evidence suggests these represent less than 1% of the species that occur in nature. This page outlines the taxonomic framework, global distribution patterns, and standardized protocols for inventorying yeast biodiversity, based on the work of Cletus P. Kurtzman and Jack W. Fell.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual-soil-and-humus-management|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
 ---
 
-# Organic Lawn Care
+## Organic Lawn Care
 
 updated: 2026-04-18
 

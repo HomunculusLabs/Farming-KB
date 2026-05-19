@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bioregional Resource Index — Food Systems
+## Bioregional Resource Index — Food Systems
 
 The Bioregional Resource Index is a comprehensive inventory system developed by Bill Mollison and Maxine Cole for the Northern Rivers Bioregional Association of New South Wales, Australia. It provides a structured framework for cataloguing all practical resources essential to the functioning of a small region, organised to assist conservation of resources, regional cash flow, settlement survival, employment, and community security.
 

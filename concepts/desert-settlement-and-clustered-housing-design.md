@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Settlement and Clustered Housing Design
+## Desert Settlement and Clustered Housing Design
 
 The arrangement of buildings within desert settlements profoundly affects thermal comfort, energy consumption, and liveability. The characteristic "colony of swallows' nests" appearance of traditional arid-area settlements — from Asia and India to the Middle East, the Mediterranean, and the Americas — is not coincidental. This clustered morphology has independently arisen across desert cultures because it represents an optimal response to extreme heat, intense sun, and drying winds. Modern [[wadi]] (dry watercourse) site with adequate run-off
 - Flat sites in both hot and cold deserts can be very cold at night

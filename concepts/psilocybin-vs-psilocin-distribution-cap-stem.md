@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybin, psilocin, psilocybe-cubensis, cap, stem, tissue-distribution, alkaloid-localization]
 ---
 
-# Psilocybin vs Psilocin Distribution in Cap and Stem
+## Psilocybin vs Psilocin Distribution in Cap and Stem
 
 The distribution of [[psilocybe-cubensis]]* is not uniform.
 

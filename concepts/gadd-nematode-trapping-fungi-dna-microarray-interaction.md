@@ -6,7 +6,7 @@ tags: [mycology, nematology, dna-microarray, predatory-fungi, biocontrol, molecu
 created: 2026-05-09
 ---
 
-# Nematode-Trapping Fungi: DNA Microarray Analysis of Predator-Prey Interactions
+## Nematode-Trapping Fungi: DNA Microarray Analysis of Predator-Prey Interactions
 
 ## Overview
 

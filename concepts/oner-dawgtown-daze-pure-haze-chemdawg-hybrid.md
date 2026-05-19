@@ -5,7 +5,7 @@ source_id: "oner-cannabis-sativa-vol3"
 topics: [cannabis, sativa, strain-profile, haze, chemdawg, breeding, cannabis-genetics]
 ---
 
-# Dawgtown Daze: Pure Haze × ChemDawg Hybrid
+## Dawgtown Daze: Pure Haze × ChemDawg Hybrid
 
 ## Overview
 

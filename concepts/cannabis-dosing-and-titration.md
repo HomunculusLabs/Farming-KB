@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Dosing and Titration
+## Cannabis Dosing and Titration
 
 Cannabis dosing is fundamentally different from dosing conventional pharmaceuticals because of the plant's complexity, the variability between strains and batches, and the individual variability in endocannabinoid system function. Unlike most pharmaceuticals with established standard doses, cannabis medicine requires a personalized approach to finding the optimal therapeutic dose for each patient.
 

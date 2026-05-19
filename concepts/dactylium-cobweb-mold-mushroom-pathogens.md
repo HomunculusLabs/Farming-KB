@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Dactylium Cobweb Mold and Mushroom Pathogens
+## Dactylium Cobweb Mold and Mushroom Pathogens
 
 Chapter XIII of The Mushroom Cultivator by Paul Stamets profiles the most
 significant mold pathogens of [[mazatec-mushroom-culture-and-velada]] and often appears as a fine, wispy overlay that contrasts

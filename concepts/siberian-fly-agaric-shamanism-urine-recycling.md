@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Siberian Fly-Agaric Shamanism — Urine Recycling and the Western Imagination
+## Siberian Fly-Agaric Shamanism — Urine Recycling and the Western Imagination
 
 The fly-agaric ([[amanita-muscaria-preparation-methods]] demonstrate a sophisticated understanding of the mushroom's pharmacology developed through centuries of empirical experimentation.
 

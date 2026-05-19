@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Best Mushroom Substrates for Different Species?
+## What Are the Best Mushroom Substrates for Different Species?
 
 ## Short Answer
 Different mushroom species require different substrates based on

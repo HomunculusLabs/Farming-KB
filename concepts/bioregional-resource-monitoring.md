@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bioregional Resource Monitoring
+## Bioregional Resource Monitoring
 
 Bioregional resource monitoring is the systematic practice of tracking the health and productivity of natural systems within a defined bioregion. As outlined in [[permaculture-design-philosophy]], it is only through the increase in the variety, quantity, and health of natural systems that the health of any area can be meaningfully assessed. Where species disappear, trees or fish die, farmland and forest yields decline, and species lists simplify, a degenerative effect is operating and must be corrected.
 

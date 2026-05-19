@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Light Deprivation Cannabis Growing and How Does It Work?
+## What Is Light Deprivation Cannabis Growing and How Does It Work?
 
 ## Short Answer
 Light deprivation, commonly called "light dep," is a technique where

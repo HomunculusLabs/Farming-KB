@@ -9,7 +9,7 @@ sources:
   - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 
-# Psychedelic Mushroom Decriminalization
+## Psychedelic Mushroom Decriminalization
 
 ## Overview
 

@@ -6,7 +6,7 @@ tags: [mycology, phycomyces, anemotropism, tropism, psilocybe-cubensis, evaporat
 created: 2026-05-09
 ---
 
-# Phycomyces Anemotropism Comparison with Mushroom Tropism Mechanisms
+## Phycomyces Anemotropism Comparison with Mushroom Tropism Mechanisms
 
 ## Overview
 

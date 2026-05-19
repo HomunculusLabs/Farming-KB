@@ -5,7 +5,7 @@ source: "EMCDDA (2006) — emcdda-epod-project-emerging-trend-detection-methodol
 created: 2026-05-09
 ---
 
-# EMCDDA Brand Names, User Terms, and Smartshop Marketing of Magic Mushrooms
+## EMCDDA Brand Names, User Terms, and Smartshop Marketing of Magic Mushrooms
 
 ## Overview
 

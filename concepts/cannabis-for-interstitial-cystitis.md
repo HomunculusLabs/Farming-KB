@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Interstitial Cystitis
+## Cannabis for Interstitial Cystitis
 
 updated: 2026-04-18
 

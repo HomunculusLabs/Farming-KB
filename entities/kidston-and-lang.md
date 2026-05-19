@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Kidston and Lang (1921) — Rhynie Chert Fossil Plants
+## Kidston and Lang (1921) — Rhynie Chert Fossil Plants
 
 ## Description
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Crater Garden Design
+## Crater Garden Design
 
 The crater garden is a creative landscape design concept developed by Sepp
 Holzer that transforms flat or gently sloping land into a bowl-shaped

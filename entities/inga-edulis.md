@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Inga edulis
+## Inga edulis
 
 **Type:** Species
 **Category:** Evergreen nitrogen-fixing [[ice-cream-bean-entity]], joaquiniquil, guaba

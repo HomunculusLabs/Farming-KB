@@ -1,68 +1,68 @@
-     1|---
-     2|title: Cannabis and Women's Health
-     3|source: uwe-blesching-the-cannabis-health-index
-     4|source_author: Uwe Blesching
-     5|tags: [cannabis, fertility, pregnancy, menstrual, women-health, cannabinoid, THC, CBD, CHI]
-     6|---
-     7|
-     8|# Cannabis and Women's Health
-     9|
-    10|## Overview
-    11|
-    12|The endocannabinoid system plays a crucial role in female reproductive physiology, influencing fertility, pregnancy, menstrual function, and menopause. CB1 and CB2 receptors are expressed throughout the female reproductive tract, including the hypothalamus, pituitary gland, ovaries, fallopian tubes, uterus, and vagina. The endogenous cannabinoid anandamide (AEA) is present in reproductive tissues and fluctuates with the menstrual cycle, suggesting a regulatory role in reproductive processes. Cannabis, through its phytocannabinoids THC and CBD, interacts with this system and has been used historically and contemporarily to manage various women's health conditions.
-    13|
-    14|## Cannabis and Fertility
-    15|
-    16|The relationship between cannabis and fertility is complex and bidirectional, with evidence suggesting that the endocannabinoid system is essential for normal reproductive function:
-    17|
-    18|**The role of anandamide in implantation:**
-    19|
-    20|- Anandamide levels are tightly regulated in the female reproductive tract.
-    21|- Optimal levels of anandamide via CB1 receptors are necessary for successful embryo implantation in the uterine wall.
-    22|- Both excessively high and excessively low anandamide levels can impair implantation.
-    23|- FAAH (fatty acid amide hydrolase), the enzyme that degrades anandamide, shows highest activity at the implantation site, suggesting precise temporal regulation.
-    24|
-    25|**Effects of THC on fertility:**
-    26|
-    27|- THC binds to the same CB1 receptors as anandamide and may disrupt the delicate hormonal balance required for conception.
-    28|- Chronic THC exposure has been associated in some studies with disrupted ovulation, altered menstrual cycle regularity, and reduced fertility in animal models.
-    29|- THC may affect the hypothalamic-pituitary-gonadal (HPG) axis, potentially altering luteinizing hormone (LH) and follicle-stimulating hormone (FSH) secretion.
-    30|- However, the clinical significance of these findings in humans remains debated, as epidemiological data on cannabis use and time-to-pregnancy are inconsistent.
-    31|
-    32|**CBD and fertility:**
-    33|
-    34|- CBD does not bind directly to CB1 receptors but may modulate anandamide levels by inhibiting FAAH.
-    35|- The net effect of CBD on fertility is less well characterized than that of THC.
-    36|- Some researchers suggest CBD might support fertility by helping maintain optimal anandamide tone.
-    37|
-    38|## Cannabis and [[blesching-cannabis-morning-sickness]]
-    52|
-    53|An estimated 50% of all pregnant women develop some form of [[blesching-cannabis-synthetic-cannabinoids]] (dronabinol, nabilone) for chemotherapy-induced nausea and vomiting.
-    59|- The antiemetic effects of THC are among the best-documented [[ayahuasca-tourism-practitioners-and-safety-considerations]]:**
-    66|
-    67|The use of cannabis during pregnancy remains controversial and is generally discouraged by major medical organizations including ACOG (American College of Obstetricians and Gynecologists). Potential concerns include:
-    68|
-    69|- Possible effects on fetal brain development, as CB1 receptors play roles in neuronal migration and synaptogenesis.
-    70|- Some epidemiological studies have associated prenatal cannabis exposure with lower birth weight.
-    71|- The extent to which these findings reflect cannabis use specifically versus confounding factors (tobacco, alcohol, socioeconomic status) remains debated.
-    72|
-    73|Patients should discuss the risks and benefits with their healthcare providers and consider pharmaceutical antiemetics as first-line options.
-    74|
-    75|## Cannabis and Menopause
-    76|
-    77|The endocannabinoid system undergoes changes during menopause, and cannabis has been explored as a potential tool for managing menopausal symptoms:
-    78|
-    79|**Symptoms that may respond to cannabinoid therapy:**
-    80|
-    81|- **Hot flashes:** THC may help regulate thermoregulatory dysfunction through central CB1 receptor effects on the hypothalamus.
-    82|- **Sleep disturbances:** Both THC (sedative at higher doses) and CBD may help improve sleep quality.
-    83|- **Mood changes:** Anxiolytic and antidepressant properties of cannabinoids may help manage irritability, anxiety, and depression associated with menopausal transition.
-    84|- **Joint and muscle pain:** Anti-inflammatory and analgesic effects may address the musculoskeletal complaints common during menopause.
-    85|- **Vaginal dryness:** Local (topical) cannabinoid preparations have been explored for improving vaginal tissue health and lubrication.
-    86|
-    87|**Estrogen-cannabinoid interactions:**
-    88|
-    89|Estrogen influences [[2-ag-endocannabinoid-signaling-blesching]], potentially contributing to some menopausal symptoms. This interaction suggests a theoretical basis for cannabinoid supplementation during menopause, though [[ayahuasca]]
+---
+title: Cannabis and Women's Health
+source: uwe-blesching-the-cannabis-health-index
+source_author: Uwe Blesching
+tags: [cannabis, fertility, pregnancy, menstrual, women-health, cannabinoid, THC, CBD, CHI]
+---
+
+## Cannabis and Women's Health
+
+## Overview
+
+The endocannabinoid system plays a crucial role in female reproductive physiology, influencing fertility, pregnancy, menstrual function, and menopause. CB1 and CB2 receptors are expressed throughout the female reproductive tract, including the hypothalamus, pituitary gland, ovaries, fallopian tubes, uterus, and vagina. The endogenous cannabinoid anandamide (AEA) is present in reproductive tissues and fluctuates with the menstrual cycle, suggesting a regulatory role in reproductive processes. Cannabis, through its phytocannabinoids THC and CBD, interacts with this system and has been used historically and contemporarily to manage various women's health conditions.
+
+## Cannabis and Fertility
+
+The relationship between cannabis and fertility is complex and bidirectional, with evidence suggesting that the endocannabinoid system is essential for normal reproductive function:
+
+**The role of anandamide in implantation:**
+
+- Anandamide levels are tightly regulated in the female reproductive tract.
+- Optimal levels of anandamide via CB1 receptors are necessary for successful embryo implantation in the uterine wall.
+- Both excessively high and excessively low anandamide levels can impair implantation.
+- FAAH (fatty acid amide hydrolase), the enzyme that degrades anandamide, shows highest activity at the implantation site, suggesting precise temporal regulation.
+
+**Effects of THC on fertility:**
+
+- THC binds to the same CB1 receptors as anandamide and may disrupt the delicate hormonal balance required for conception.
+- Chronic THC exposure has been associated in some studies with disrupted ovulation, altered menstrual cycle regularity, and reduced fertility in animal models.
+- THC may affect the hypothalamic-pituitary-gonadal (HPG) axis, potentially altering luteinizing hormone (LH) and follicle-stimulating hormone (FSH) secretion.
+- However, the clinical significance of these findings in humans remains debated, as epidemiological data on cannabis use and time-to-pregnancy are inconsistent.
+
+**CBD and fertility:**
+
+- CBD does not bind directly to CB1 receptors but may modulate anandamide levels by inhibiting FAAH.
+- The net effect of CBD on fertility is less well characterized than that of THC.
+- Some researchers suggest CBD might support fertility by helping maintain optimal anandamide tone.
+
+## Cannabis and [[blesching-cannabis-morning-sickness]]
+
+An estimated 50% of all pregnant women develop some form of [[blesching-cannabis-synthetic-cannabinoids]] (dronabinol, nabilone) for chemotherapy-induced nausea and vomiting.
+- The antiemetic effects of THC are among the best-documented [[ayahuasca-tourism-practitioners-and-safety-considerations]]:**
+
+The use of cannabis during pregnancy remains controversial and is generally discouraged by major medical organizations including ACOG (American College of Obstetricians and Gynecologists). Potential concerns include:
+
+- Possible effects on fetal brain development, as CB1 receptors play roles in neuronal migration and synaptogenesis.
+- Some epidemiological studies have associated prenatal cannabis exposure with lower birth weight.
+- The extent to which these findings reflect cannabis use specifically versus confounding factors (tobacco, alcohol, socioeconomic status) remains debated.
+
+Patients should discuss the risks and benefits with their healthcare providers and consider pharmaceutical antiemetics as first-line options.
+
+## Cannabis and Menopause
+
+The endocannabinoid system undergoes changes during menopause, and cannabis has been explored as a potential tool for managing menopausal symptoms:
+
+**Symptoms that may respond to cannabinoid therapy:**
+
+- **Hot flashes:** THC may help regulate thermoregulatory dysfunction through central CB1 receptor effects on the hypothalamus.
+- **Sleep disturbances:** Both THC (sedative at higher doses) and CBD may help improve sleep quality.
+- **Mood changes:** Anxiolytic and antidepressant properties of cannabinoids may help manage irritability, anxiety, and depression associated with menopausal transition.
+- **Joint and muscle pain:** Anti-inflammatory and analgesic effects may address the musculoskeletal complaints common during menopause.
+- **Vaginal dryness:** Local (topical) cannabinoid preparations have been explored for improving vaginal tissue health and lubrication.
+
+**Estrogen-cannabinoid interactions:**
+
+Estrogen influences [[2-ag-endocannabinoid-signaling-blesching]], potentially contributing to some menopausal symptoms. This interaction suggests a theoretical basis for cannabinoid supplementation during menopause, though [[ayahuasca]]
 - [[uwe-blesching]]
 - [[dronabinol]]
 

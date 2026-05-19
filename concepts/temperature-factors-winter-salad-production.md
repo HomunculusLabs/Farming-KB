@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Temperature Factors for Winter Salad Production
+## Temperature Factors for Winter Salad Production
 
 Successful winter salad production in protected cultivation depends on understanding how temperature dynamics affect leafy crops. [[eliot-coleman]] identifies specific temperature thresholds and four critical temperature factors that determine crop quality, survival, and harvestability during the coldest months.
 

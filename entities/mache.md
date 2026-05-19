@@ -5,7 +5,7 @@ type: entity
 tags: [crop, cold-hardy, winter-vegetable, salad-green, valerianaceae]
 ---
 
-# Mâche (Valerianella locusta)
+## Mâche (Valerianella locusta)
 
 ## Description
 

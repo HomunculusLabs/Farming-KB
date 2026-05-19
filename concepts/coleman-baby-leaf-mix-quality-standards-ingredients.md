@@ -1,4 +1,8 @@
-# Baby Leaf Salad Mix Quality Standards
+---
+title: "Baby Leaf Salad Mix Quality Standards"
+tags:
+  - concept
+---
 
 **Source:** [[coleman-claytonia-winter-harvest-cultivation]] Handbook*
 **Domain:** [[cannabis-harvest-timing-visual-cues]], and presentation. The
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]
 - [[coleman-wire-wicket-row-covers-protective-cultivation]]
-- [[eliot-coleman]]

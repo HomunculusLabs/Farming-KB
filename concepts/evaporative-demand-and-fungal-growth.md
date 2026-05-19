@@ -6,7 +6,7 @@ source: tropisms in the mushroom psilocybe cubensis
 created: 2026-05-11
 ---
 
-# Evaporative Demand and Fungal Growth
+## Evaporative Demand and Fungal Growth
 
 Evaporative demand — the rate at which water evaporates from a surface into the surrounding air — is a fundamental driver of directional growth (tropism) in mushrooms. In *[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. This concept, proposed by Badham (1982), provides a unifying framework for understanding how multiple [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] dominated)
 

@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybin, mushrooms]
 sources: [papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
-# Psilocybin Mushroom Deadly Lookalikes
+## Psilocybin Mushroom Deadly Lookalikes
 
 The [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] states that if a gilled mushroom has purplish brown to black spores AND the flesh bruises bluish, it is very likely a psilocybin-producing species.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Mycorestoration Ecology
+## Mycorestoration Ecology
 
 Mycorestoration is the use of fungi to repair or restore the weakened immune systems of environments. Paul Stamets coined this umbrella term to encompass all applications of fungi for ecological recovery, including [[mycopesticides-stamets]]. Mycorestoration recognizes the primary role fungi play in determining the balance of biological populations.
 

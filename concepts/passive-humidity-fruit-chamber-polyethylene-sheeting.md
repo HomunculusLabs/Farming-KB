@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Passive Humidity Fruit Chamber with Polyethylene Sheeting
+## Passive Humidity Fruit Chamber with Polyethylene Sheeting
 A simple and effective approach to [[psilocybe-tampanensis-entity]], [[mushroom-humidity-chamber-design-operation]] demonstrates that high mushroom yields are achievable with
 a far simpler approach that relies on basic physics rather than mechanical intervention.
 The fundamental principle is that the evaporation of water from the moist casing soil

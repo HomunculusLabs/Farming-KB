@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Underground and Earth-Sheltered Desert Housing
+## Underground and Earth-Sheltered Desert Housing
 
 Underground and earth-sheltered housing represents one of the most effective and time-tested approaches to desert dwelling. From the ancient cave complexes of Coober Pedy in Australia to the courtyard pit houses of North Africa and the troglodyte dwellings of the Canary Islands, cultures across every desert continent have independently converged on subterranean living as the optimal strategy for thermal comfort. These structures maintain stable temperatures around 25°C with annual fluctuation of only 5°C, require minimal maintenance, and cost approximately 50% less than equivalent surface dwellings.
 

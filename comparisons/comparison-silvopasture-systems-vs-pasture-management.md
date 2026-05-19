@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Silvopasture vs [[comparison-rotational-grazing-vs-continuous-grazing]], paddock design, and forage
+## Silvopasture vs [[comparison-rotational-grazing-vs-continuous-grazing]], paddock design, and forage
 management. The foundational principle is rotational grazing: dividing
 pasture into multiple paddocks and moving livestock on a schedule that
 allows each paddock adequate rest and regrowth between grazing events.

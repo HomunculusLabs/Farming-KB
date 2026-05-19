@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# How Do Fungi Contribute to Carbon Sequestration?
+## How Do Fungi Contribute to Carbon Sequestration?
 
 ## Short Answer
 Fungi sequester carbon through multiple pathways including mycorrhizal

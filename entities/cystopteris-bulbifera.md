@@ -14,7 +14,7 @@ sources:
   - Haufler, C.H. et al. (2006). "Cystopteridaceae." In: Smith et al., "A classification for extant ferns." Taxon 55(3): 705–731.
 ---
 
-# Cystopteris bulbifera
+## Cystopteris bulbifera
 
 ## Overview
 

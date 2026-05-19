@@ -15,7 +15,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Chicken Keeping vs Duck Keeping
+## Chicken Keeping vs Duck Keeping
 
 ## Overview
 

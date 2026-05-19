@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Desertification Causes and Holzer's Ecological Critique
+## Desertification Causes and Holzer's Ecological Critique
 
 ## Overview
 

@@ -5,7 +5,7 @@ tags: [mycology, mycorestoration, bioremediation, mycoremediation, ecology]
 created: 2026-05-11
 ---
 
-# Mycoremediation: Fungal Biodegradation of Toxic Waste
+## Mycoremediation: Fungal Biodegradation of Toxic Waste
 
 ## Overview
 

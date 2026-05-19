@@ -5,12 +5,11 @@ tags: [ayahuasca, dmt, psychotria-viridis, amazon, shamanism,
   beta-carbolines, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
-# Psychotria Chacruna: The DMT Light in Ayahuasca
+## Psychotria Chacruna: The DMT Light in Ayahuasca
 
 ## Overview
 

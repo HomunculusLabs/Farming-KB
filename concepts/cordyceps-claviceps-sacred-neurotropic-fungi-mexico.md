@@ -1,4 +1,8 @@
-# Cordyceps and Claviceps as Sacred Neurotropic Fungi in Mexico
+---
+title: "Cordyceps and Claviceps as Sacred Neurotropic Fungi in Mexico"
+tags:
+  - concept
+---
 
 ## Overview
 

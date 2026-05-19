@@ -5,7 +5,7 @@ type: entity
 tags: [technique, garden-design, permaculture, edge, raised-bed]
 ---
 
-# Keyhole Garden Beds
+## Keyhole Garden Beds
 
 ## Description
 

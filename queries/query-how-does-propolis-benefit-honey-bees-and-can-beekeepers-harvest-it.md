@@ -20,7 +20,7 @@ sources:
 type: query
 ---
 
-# How Does Propolis Benefit Honey Bees and Can Beekeepers Harvest It?
+## How Does Propolis Benefit Honey Bees and Can Beekeepers Harvest It?
 
 ## Short Answer
 

@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Nitrate and Amino Sugars in Plant Nutrition and Compost Tea Application
+## Nitrate and Amino Sugars in Plant Nutrition and Compost Tea Application
 
 The forms in which nitrogen and carbon compounds are available to plants have profound implications for plant health, pest susceptibility, and reproductive success. [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that attract insect pests
 - **Amino acids incorporated into proteins** do not attract pests

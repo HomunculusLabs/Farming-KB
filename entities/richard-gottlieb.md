@@ -9,7 +9,7 @@ sources:
   - raw/papers/gottlieb-a-the-psilocybin-producers-guide.md
 ---
 
-# Richard Gottlieb
+## Richard Gottlieb
 
 Adam Gottlieb (published under "Richard Gottlieb" on peyote guide) is the author of two influential underground cultivation guides: *The Psilocybin Producer's Guide* (1976) and *A Guide to the Peyote and Other Psychoactive Cacti*. His works are known for practical, accessible instructions written for home cultivators with minimal equipment.
 

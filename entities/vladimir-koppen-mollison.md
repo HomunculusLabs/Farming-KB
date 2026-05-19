@@ -5,7 +5,7 @@ type: entity
 tags: [person, climatologist, climate-classification, permaculture]
 ---
 
-# Vladimir Köppen
+## Vladimir Köppen
 
 ## Description
 

@@ -1,4 +1,8 @@
-# 22S,23S-Homobrassinolide
+---
+title: "22S,23S-Homobrassinolide"
+tags:
+  - concept
+---
 
 22S,23S-Homobrassinolide is a synthetic brassinosteroid compound
 prepared from stigmasterol. It is a homolog of natural brassinolide

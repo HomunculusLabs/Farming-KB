@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# Pioppino vs Wine Cap (King Stropharia)
+## Pioppino vs Wine Cap (King Stropharia)
 
 ## Overview
 

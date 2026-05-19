@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Cubensis Miniculture on Rye Grain
+## Psilocybe Cubensis Miniculture on Rye Grain
 
 The miniculture technique developed by Bigwood and Beug (1982) is a
 compact, controlled method for cultivating [[growing-gourmet-button-mushroom-agaricus-cultivation]]. Oss and Oeric (1976) refined the rye-grain approach

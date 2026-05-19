@@ -13,7 +13,7 @@ sources: []
 type: comparison
 ---
 
-# Pasture Management vs Silvopasture Systems
+## Pasture Management vs Silvopasture Systems
 
 A detailed comparison of conventional [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]],
 livestock welfare, establishment requirements, and long-term productivity.

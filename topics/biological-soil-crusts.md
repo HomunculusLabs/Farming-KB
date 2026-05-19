@@ -22,7 +22,7 @@ sources:
   - Rodriguez-Caballero, E. et al. (2018). "Global cycling of nitrogen and carbon is driven by biological soil crusts." Nature Geoscience, 11, 708-712.
 ---
 
-# Biological Soil Crusts (Biocrusts)
+## Biological Soil Crusts (Biocrusts)
 
 ## Overview
 

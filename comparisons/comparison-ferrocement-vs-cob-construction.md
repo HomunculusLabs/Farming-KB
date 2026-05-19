@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Ferrocement vs Cob Construction
+## Ferrocement vs Cob Construction
 
 Both ferrocement and cob are affordable, low-tech [[coleman-first-rule-nature-makes-sense]] it ideal for curved forms—domes, vaults, cisterns, and boats—where it exploits its tensile capacity across large spans. A ferrocement dome can span several meters without internal support. Cob excels in compressive loads, making it natural for thick load-bearing walls in single-story structures, but it cannot span openings without timber or stone lintels.
 

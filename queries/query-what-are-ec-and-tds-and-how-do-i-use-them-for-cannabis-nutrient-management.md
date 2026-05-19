@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are EC and TDS and How Do I Use Them for Cannabis?
+## What Are EC and TDS and How Do I Use Them for Cannabis?
 
 ## Short Answer
 EC (electrical conductivity) and TDS (total dissolved solids) are

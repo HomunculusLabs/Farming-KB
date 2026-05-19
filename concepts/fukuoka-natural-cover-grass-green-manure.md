@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Cover Grass and Green Manure Cultivation
+## Cover Grass and Green Manure Cultivation
 
 The method of cover grass and green manure cultivation is central to the
 no-weeding principle in [[permaculture-plants-food-forest-ground-covers-bamboos]] to suppress

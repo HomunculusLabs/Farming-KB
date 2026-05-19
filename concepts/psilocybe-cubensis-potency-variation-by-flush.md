@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: [papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md]
 ---
-# [[psilocybin-potency-variation]]
+## [[psilocybin-potency-variation]]
 
 - turner-psilocybin-mushroom-experience-guide
 - [[stone-fruit-tree-care]]

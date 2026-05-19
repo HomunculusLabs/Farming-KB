@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Watering
+## Mushroom Watering
 
 Watering is one of the most critical aspects of mushroom
 cultivation. Too much water destroys [[mushroom-growing-houses]]. Even leafy plants need little

@@ -9,7 +9,7 @@ sources:
   - "General botanical and pharmacological knowledge"
 ---
 
-# Allium sativum
+## Allium sativum
 
 Allium sativum, commonly known as garlic, is a bulbous perennial plant in the family Amaryllidaceae (traditionally Alliaceae). Native to Central Asia, it has been cultivated for over 5,000 years and is now one of the most widely used culinary and medicinal plants globally. The bulb is composed of multiple cloves, each enclosed in a papery tunic, and contains a rich array of sulfur-containing organosulfur compounds — principally alliin, allicin, and their derivatives — responsible for garlic's characteristic pungency and most of its documented pharmacological activities. Garlic has demonstrated antimicrobial, cardiovascular-protective, antithrombotic, hypolipidemic, and potential anticancer properties in extensive preclinical and [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]; does not occur in the wild (domesticated species)
 - **Soil requirements:** Well-drained, fertile loam with pH 6.0–7.5; sensitive to waterlogging

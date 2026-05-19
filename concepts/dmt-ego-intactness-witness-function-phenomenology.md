@@ -5,7 +5,7 @@ tags: [dmt, ego, consciousness, tryptamines, phenomenology, psychedelic-experien
 created: 2026-05-08
 ---
 
-# Ego Intactness During DMT Experience
+## Ego Intactness During DMT Experience
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: ["Schweinitz 1822", "Tulasne & Tulasne 1865", "Rogerson & Samuels 1989"
 aliases: [Lobster mushroom, lobster fungus, Hypomyces lactifluorum]
 ---
 
-# Hypomyces lactifluorum
+## Hypomyces lactifluorum
 
 **Type:** Species (Fungus — Ascomycete)
 

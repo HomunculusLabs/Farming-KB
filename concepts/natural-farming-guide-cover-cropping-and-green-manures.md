@@ -8,7 +8,7 @@ type: concept
 tags: [natural-farming]
 ---
 
-# Cover Cropping and Green Manures
+## Cover Cropping and Green Manures
 
 Cover [[hamilton-composting-and-organic-matter-management]] when turned under or mulched. Any soil, not just bad soil, should be improved by planting cover and [[green-manure-crops]] or adding composted animal manure.
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/terence-mckenna-food-of-the-gods.md"
 ---
-# DMT and Ayahuasca History
+## DMT and Ayahuasca History
 
 [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] to modern psychopharmacology, revealing a pharmacological sophistication that Western science did not match until the 1950s.
 

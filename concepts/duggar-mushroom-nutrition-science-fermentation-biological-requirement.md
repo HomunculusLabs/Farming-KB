@@ -4,7 +4,7 @@ slug: duggar-mushroom-nutrition-science-fermentation-biological-requirement
 source: "Benjamin Minge Duggar - Mushroom Growing (1915)"
 source_slug: benjamin-minge-duggar-mushroom-growing
 ---
-# Mushroom Nutrition Science: Fermentation as a Biological Requirement
+## Mushroom Nutrition Science: Fermentation as a Biological Requirement
 
 ## Overview
 

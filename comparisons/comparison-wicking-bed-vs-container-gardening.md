@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Wicking Bed vs Container Gardening
+## Wicking Bed vs Container Gardening
 
 ## Overview
 

@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Defoliation (Cannabis)
+## Defoliation (Cannabis)
 
 Defoliation in [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and fungal diseases
 

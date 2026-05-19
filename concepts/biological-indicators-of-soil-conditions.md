@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Indicators of Soil and Site Conditions
+## Biological Indicators of Soil and Site Conditions
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Water-Soluble Potassium (WS-K) -- Ten Functions in Plant Nutrition
+## Water-Soluble Potassium (WS-K) -- Ten Functions in Plant Nutrition
 
 **Updated:** 2026-04-18
 

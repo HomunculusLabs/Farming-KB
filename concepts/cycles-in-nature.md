@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cycles in Nature
+## Cycles in Nature
 
 **Cycles** are recurring events or phenomena that represent an interruption in the straight-line progression towards entropy. It is the special provenance of life to cycle materials — so efficiently that in a tropical forest, almost all material nutrients exist in cycle within living forms. This cycling opens so many yield opportunities that thousands of species have evolved to exploit them.
 

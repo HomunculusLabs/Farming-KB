@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, mushroom-cultivation, fruiting, cold-shock, temperature]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
-# Cold Shocking Mushrooms Cold shocking is a cultivation technique used to initiate fruiting (pinning) in mushroom mycelium by exposing it to a sudden drop in temperature. The practice is most commonly associated with [[lentinula-edodes]]** (shiitake): [[bacteria-and-microorganisms-in-mushroom-fruiting]]
+## Cold Shocking Mushrooms Cold shocking is a cultivation technique used to initiate fruiting (pinning) in mushroom mycelium by exposing it to a sudden drop in temperature. The practice is most commonly associated with [[lentinula-edodes]]** (shiitake): [[bacteria-and-microorganisms-in-mushroom-fruiting]]
 - pinning mycology
 - [[growing-gourmet-growing-room-ventilation-air-exchange]]
 ## Practical Applications

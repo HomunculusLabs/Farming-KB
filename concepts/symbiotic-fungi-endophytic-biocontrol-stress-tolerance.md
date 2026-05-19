@@ -7,7 +7,7 @@ tags: [mycorrhizal, pathogen, pest-management, biology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Endophytic Fungi for Agriculture - Biocontrol, Stress Tolerance, and Growth Promotion
+## Endophytic Fungi for Agriculture - Biocontrol, Stress Tolerance, and Growth Promotion
 
 Updated: 2026-04-18
 

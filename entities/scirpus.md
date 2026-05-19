@@ -5,7 +5,7 @@ type: entity
 tags: [plant, aquatic, wetland, nitrogen-fixer, water-treatment, permaculture]
 ---
 
-# [[scirpus-cyperinus|Scirpus]] is a genus of grass-like wetland plants commonly known as bulrushes or club-rushes. Found worldwide in shallow water, marshes, and wetland environments, these plants play important ecological roles in water filtration, nutrient cycling, and habitat provision. In permaculture, Scirpus species are valued for their role in constructed wetlands, greywater treatment, riparian zone stabilization, and as components of aquaculture systems. Mollison mentions Scirpus specifically as a nitrogen-fixing water plant alongside Azolla.
+## [[scirpus-cyperinus|Scirpus]] is a genus of grass-like wetland plants commonly known as bulrushes or club-rushes. Found worldwide in shallow water, marshes, and wetland environments, these plants play important ecological roles in water filtration, nutrient cycling, and habitat provision. In permaculture, Scirpus species are valued for their role in constructed wetlands, greywater treatment, riparian zone stabilization, and as components of aquaculture systems. Mollison mentions Scirpus specifically as a nitrogen-fixing water plant alongside Azolla.
 
 ## Classification
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Description
+## Description
 
 Strain senescence is the progressive degradation of a [[biodiversity-fungal-culture-preservation]]'s genetic vigor,
 fruiting ability, and adaptive capacity that occurs as the organism undergoes repeated
@@ -26,13 +26,13 @@ as they divide and create long chains of cells far from their original spore ger
 This is why many cultivators vary media between transfers to keep the [[mycelium]] exercising
 its metabolic muscles.
 
-# Classification
+## Classification
 
 Category: Mycological concept and culture management. Domain: [[fungal-genetics]], mushroom
 cultivation. Also known as: culture degeneration, genetic drift in culture, strain
 degradation.
 
-# Key Facts
+## Key Facts
 
 The primary causes of senescence include repeated cell division introducing cumulative DNA
 copy errors, monoculture conditions with identical nutrients and conditions transfer after
@@ -47,7 +47,7 @@ Symptoms of senescence include lower fruiting yields, increased disease suscepti
 diminished cap color, loss of distinctive morphological features, weakened genetic
 expression, altered behavior, reduced adaptability, and slower colonization rates.
 
-# Prevention Strategies
+## Prevention Strategies
 
 Maintain the lowest possible generation numbers for production spawn. Track all cultures
 with generation codes and origin codes. Vary media between transfers to keep mycelium
@@ -61,7 +61,7 @@ The guiding principle is use them or lose them. Varying nutrients and conditions
 the mycelium to maintain a broad metabolic repertoire rather than becoming dependent on a
 narrow set of laboratory conditions.
 
-# Record Keeping to Combat Senescence
+## Record Keeping to Combat Senescence
 
 Every plate, jar, and bag should carry an origin code linking back to the original wild
 collection, a generation number where G0 is the original isolate incrementing with each
@@ -73,7 +73,7 @@ read than a string of numbers. For example, jar 2-B represents second generation
 batch. Bags expanded from that jar would be coded 3-B1, 3-B2, 3-B3, and so on. This system
 allows any culture to be traced back through its entire lineage to the original isolate.
 
-# Relevance to Cultivation
+## Relevance to Cultivation
 
 Strain senescence is one of the most significant long-term challenges in mushroom
 cultivation. Cultivators who fail to track generation numbers and maintain low-generation

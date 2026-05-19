@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# LSD Set and Setting Framework
+## LSD Set and Setting Framework
 
 The fundamental principle that the character and outcome of an [LSD experience are determined by two interacting factors: the internal psychological state of the person (set) and the external conditions of the environment (setting).
 

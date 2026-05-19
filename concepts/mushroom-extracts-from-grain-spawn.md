@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom Extracts from Grain Spawn
+## Mushroom Extracts from Grain Spawn
 
 Mushroom extracts prepared from [[grain-spawn]] offer a powerful and scalable approach to producing medicinal fungal products. Unlike traditional methods that rely on fresh or dried fruiting bodies, grain spawn extraction leverages the mycelial biomass produced during the spawn colonization phase. This technique is especially valuable for mushrooms that are difficult to fruit, slow to mature, or that produce their [[cotter-mushroom-nutrition-medicinal-compounds]] predominantly in the mycelial stage.
 

@@ -1,7 +1,7 @@
 ---
 
 ---
-# Holzer Stone Fruit Varieties and Growing
+## Holzer Stone Fruit Varieties and Growing
 
 Stone fruits -- including plums, damsons, cherries, apricots, and peaches -- represent some of the most valued fruit crops on the Krameterhof. While they are generally considered more demanding than apples or pears, Holzer has demonstrated that with proper variety selection and microclimate management, stone fruits can produce excellent yields even at high altitudes. At altitude, plums, pears, and apples develop a very intense flavour because of the slower ripening process in cooler temperatures.
 
@@ -14,7 +14,7 @@ Holzer provides specific variety recommendations for damsons and plums, all sele
 
 ## Merged: Best Stone Fruit Varieties for Different Climate Zones
 
-# Best Stone Fruit Varieties for Different Climate Zones
+## Best Stone Fruit Varieties for Different Climate Zones
 
 ## What Are Chill Hours and Why Do They Matter?
 

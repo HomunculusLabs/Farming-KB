@@ -1,4 +1,8 @@
-# Trichoderma Biocontrol Fungi in AACT
+---
+title: "Trichoderma Biocontrol Fungi in AACT"
+tags:
+  - concept
+---
 
 **Source:** Elaine Ingham, *The Field Guide for [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance in plants. Ingham's field guide devotes
 extensive coverage to Trichoderma biology, selection, preactivation

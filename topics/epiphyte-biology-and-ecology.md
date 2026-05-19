@@ -11,7 +11,7 @@ sources:
   - Laube, S. & Zotz, G. (2006). "Neither Host-Specific Nor Random: Vascular Epiphytes on Three Tree Species in a Panamanian Lowland Forest." Annals of Botany.
 ---
 
-# Epiphyte Biology and Ecology
+## Epiphyte Biology and Ecology
 
 ## Overview
 

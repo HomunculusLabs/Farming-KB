@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/holzer-desert-or-paradise.md]
 ---
 
-# Drought-Tolerant Planting Design
+## Drought-Tolerant Planting Design
 
 Drought-tolerant planting design reduces or eliminates irrigation needs by selecting adapted species, capturing rainfall on-site, and building soil water-holding capacity. It draws from xeriscaping principles and permaculture water management strategies. This integrates with [[hamilton-composting-and-organic-matter-management]] to increase water retention
 3. **Practical turf areas** -- limit lawn to functional areas; replace with drought-adapted plants

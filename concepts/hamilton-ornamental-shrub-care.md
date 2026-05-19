@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ornamental Shrub and Perennial Care
+## Ornamental Shrub and Perennial Care
 
 Geoff Hamilton provided detailed guidance on maintaining ornamental
 shrubs and perennials in the organic garden. Proper care including

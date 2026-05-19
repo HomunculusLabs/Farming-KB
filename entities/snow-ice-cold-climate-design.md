@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Snow and Ice in Cold Climate Design
+## Snow and Ice in Cold Climate Design
 
 ## Description
 

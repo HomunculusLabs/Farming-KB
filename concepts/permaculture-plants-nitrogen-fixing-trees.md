@@ -9,7 +9,7 @@ type: concept
 tags: [culture, permaculture, plants, tree-crop]
 ---
 
-# Permaculture Nitrogen-Fixing Trees
+## Permaculture Nitrogen-Fixing Trees
 
 Nitrogen-fixing pioneer trees form the foundation of permaculture [[pioneer-species-for-land-reclamation]] and [[mollison-designers-bee-forage-tree-planting]]. Seed is prolific [[tagasaste-nurse-crop-fodder-systems]] for fruit and [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
 

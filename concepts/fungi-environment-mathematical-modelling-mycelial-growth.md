@@ -1,4 +1,8 @@
-# Mathematical Modelling of Fungal Mycelial Growth
+---
+title: "Mathematical Modelling of Fungal Mycelial Growth"
+tags:
+  - concept
+---
 
 **Source:** Fungi in the Environment — Gadd, Watkinson & Dyer (2007), Ch. 4
 

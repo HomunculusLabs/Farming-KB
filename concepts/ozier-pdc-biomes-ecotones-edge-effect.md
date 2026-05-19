@@ -5,7 +5,7 @@ author: William WR Ozier
 topics: biomes, ecotones, edge-effect, climate, permaculture, ecology, biodiversity
 ---
 
-# Biomes, Ecotones, and the Edge Effect
+## Biomes, Ecotones, and the Edge Effect
 
 Understanding biomes, ecotones, and the edge effect is fundamental to
 [[permaculture-edge-effect-design]]

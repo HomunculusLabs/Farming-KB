@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# 4-Hydroxyindole as a Tryptamine Synthesis Building Block
+## 4-Hydroxyindole as a Tryptamine Synthesis Building Block
 
 ## Overview
 

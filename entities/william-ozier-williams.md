@@ -9,7 +9,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-design-course.md
 ---
 
-# William Ozier Williams
+## William Ozier Williams
 
 Permaculture practitioner and contributor to the [[permaculture-design-methods]] body of knowledge, associated with the lineage of [[bill-mollison]]'s original Permaculture Design Certificate (PDC) framework. His contributions sit within the broader movement of ecological design education that includes [[david-holmgren]]'s principles work and [[toby-hemenway]]'s North American adaptations.
 

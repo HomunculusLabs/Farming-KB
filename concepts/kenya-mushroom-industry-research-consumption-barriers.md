@@ -1,7 +1,7 @@
 ---
 title: "Kenya Mushroom Industry Research Mushroom Taste Route Of Administration And Consumption Barriers"
 source: "unknown-oyster-mushroom-cultivation.md"
-source_path: "/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md"
+source_path: "raw/raw/papers/unknown-oyster-mushroom-cultivation.md"
 chunk_id: 42
 source_lines: "8401-8600"
 type: concept
@@ -14,7 +14,7 @@ tags:
 created: 2026-05-16
 ---
 
-# Kenya Mushroom Industry Research and Consumption Barriers
+## Kenya Mushroom Industry Research and Consumption Barriers
 
 ## Core idea
 The MushWorld guide presents Kenya as a case where mushroom production is held

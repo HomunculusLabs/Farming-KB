@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Coprophilous Fungi as Biodiversity Indicators
+## Coprophilous Fungi as Biodiversity Indicators
 
 Coprophilous (dung-inhabiting) fungi occupy a unique ecological niche
 at the interface of fungal, plant, and animal communities. Their

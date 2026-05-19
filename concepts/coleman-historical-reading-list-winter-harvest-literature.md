@@ -6,7 +6,7 @@ tags: [winter-harvest, history, market-gardening, paris-maraichage, reading-list
 created: 2026-05-09
 ---
 
-# Historical Literature on Winter Harvest and Intensive Market Gardening
+## Historical Literature on Winter Harvest and Intensive Market Gardening
 
 ## Overview
 

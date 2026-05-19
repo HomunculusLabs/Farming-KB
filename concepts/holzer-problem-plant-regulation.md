@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer-problem-plant-regulation-with-livestock
+title: "Holzer Problem Plant Regulation"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Problem Plant Regulation
+## Holzer Problem Plant Regulation
 
 Sepp Holzer's approach to managing problem plants (weeds) through ecological understanding rather than [[fukuoka-citrus-orchard-ground-cover-cultivation]])
 - More watering needed

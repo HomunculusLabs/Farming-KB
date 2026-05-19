@@ -7,7 +7,7 @@ tags: [gardening, organic-gardening]
 sources:
   - "raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
 ---
-# GROW BIOINTENSIVE Sustainable Mini-Farming
+## GROW BIOINTENSIVE Sustainable Mini-Farming
 
 GROW BIOINTENSIVE (GB) is a small-scale agricultural system developed by John
 Jeavons at Ecology Action in Willits, California. It is a method of organic

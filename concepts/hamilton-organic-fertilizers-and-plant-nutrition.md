@@ -7,7 +7,7 @@ tags: [fertilizer, soil]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Hamilton Organic Fertilizers
+## Hamilton Organic Fertilizers
 
 Plants need a wide and varied range of nutrients to be present in the soil for normal healthy growth. The use of concentrated fertilizer is one of the most controversial areas [[hamilton-concentrated-organic-fertilizer-products]] as well as the organic material. Third, many gardeners wish to make much higher demands on their soil than even the hardest-working colony of bacteria and fungi could cope with.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cardiovascular Herbs
+## Cardiovascular Herbs
 
 Cardiovascular herbs support heart function, improve circulation, regulate blood pressure, modulate cholesterol levels, and strengthen blood vessels. Heart disease remains the leading cause of death globally, and herbal medicine offers a rich tradition of cardiovascular support that complements conventional cardiology. Many cardiovascular herbs have been used for centuries and are now supported by modern [[cannabis-drug-interactions-and-contraindications]] compared to conventional cardiovascular medications. The berries, leaves, and flowers all have medicinal value, with the berries being the most commonly used part.
 

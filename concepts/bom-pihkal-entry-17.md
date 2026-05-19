@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# BOM (beta-Methoxymescaline)
+## BOM (beta-Methoxymescaline)
 
 **[[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]],
   mp 198.5-199.5 °C

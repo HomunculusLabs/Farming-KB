@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Fodder Trees and Livestock Integration in Permaculture
+## Fodder Trees and Livestock Integration in Permaculture
 
 Integrating trees and livestock is a cornerstone of [[permaculture-design]], combining the productivity of animal systems with the resilience and ecological benefits of tree-based agriculture. Silvopasture—the deliberate integration of trees with [[savory-livestock-grazing-planning]]—provides fodder, shelter, soil improvement, and diversified [[homesteading-income-streams]] from a single parcel of land.
 

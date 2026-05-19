@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Maitake Morphogenetic Stages and Visual Observation Guide
+## Maitake Morphogenetic Stages and Visual Observation Guide
 
 ## Overview
 

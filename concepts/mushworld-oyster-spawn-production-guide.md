@@ -16,7 +16,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# MushWorld Oyster Spawn Production Guide
+## MushWorld Oyster Spawn Production Guide
 
 A [[allen-australian-psilocybe-species-comprehensive-guide]] to producing [[comparison-grain-spawn-vs-grain-to-grain-transfer]], as described in the MushWorld [[enterprise-development-mushroom-growers]]' Handbook 1. Spawn is to mushroom what seed is to crop, and its quality is one of the most decisive factors for successful cultivation.
 

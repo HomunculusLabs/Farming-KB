@@ -35,7 +35,7 @@ related_concepts:
   - fungal-enzymes-in-industry-and-biotechnology
 ---
 
-# Shiitake Mushroom Cultivation and Medicinal Properties
+## Shiitake Mushroom Cultivation and Medicinal Properties
 
 Shiitake (Lentinula edodes) is the second most cultivated mushroom in the
 world, trailing only the common button mushroom ([[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], most notably the polysaccharide lentinan, which has
@@ -105,4 +105,4 @@ techniques, learning to manage moisture, shade, and timing to improve yields.
   Data. Tokyo, Japan.
 ## Shiitake Cultivation (Growing Gourmet & Medicinal Mushrooms)
 
-# Shiitake Cultivation Shiitake (Lentinula edodes) is one of the most cultivated mushrooms in the world, with a history stretching back to the Sung Dynasty in China (960-1127 AD). Dr. Mimura's work in 1904 established modern shiitake cultivation techniques. Paul Stamets' treatment in Growing Gourmet and Medicinal Mushrooms focuses on indoor cultivation on supplemented sawdust, complementing traditional log-based methods. ## History and Significance Shiitake has been cultivated for over a thousand years, making it one of the oldest deliberately grown mushrooms. ...
+## Shiitake Cultivation Shiitake (Lentinula edodes) is one of the most cultivated mushrooms in the world, with a history stretching back to the Sung Dynasty in China (960-1127 AD). Dr. Mimura's work in 1904 established modern shiitake cultivation techniques. Paul Stamets' treatment in Growing Gourmet and Medicinal Mushrooms focuses on indoor cultivation on supplemented sawdust, complementing traditional log-based methods. ## History and Significance Shiitake has been cultivated for over a thousand years, making it one of the oldest deliberately grown mushrooms. ...

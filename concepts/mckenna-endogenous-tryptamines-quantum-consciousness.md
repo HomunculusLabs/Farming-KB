@@ -15,7 +15,7 @@ source: mckenna_t-tryptamines_consciousness.md
 created: 2026-05-09
 ---
 
-# Endogenous Tryptamines and Quantum Consciousness
+## Endogenous Tryptamines and Quantum Consciousness
 
 The hypothesis that endogenous tryptamine compounds—particularly N,N-
 dimethyltryptamine (DMT)—play a role in normal and altered states of

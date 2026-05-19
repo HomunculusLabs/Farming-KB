@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gaia Hypothesis and Open Systems in Permaculture
+## Gaia Hypothesis and Open Systems in Permaculture
 
 ## The Gaia Hypothesis
 

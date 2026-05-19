@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Tryptamine Pharmacology and the Case for Indoles in Food of the Gods
+## Tryptamine Pharmacology and the Case for Indoles in Food of the Gods
 
 In the closing sections of *Food of the Gods*, [[mckenna-food-gods-tryptamine-dimension]]
 

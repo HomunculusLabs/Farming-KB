@@ -1,5 +1,10 @@
+---
+title: "Fukuoka Textdoc Mahayana Hinayana Natural Farming Pursuit Of Nature"
+tags:
+  - concept
+---
 
-# Mahayana and Hinayana [[mollison-designers-domestic-animal-integration-design]] into the wild is not natural farming for livestock. The animal has been bred for millennia to depend on human care. Simply abandoning it is cruelty dressed up as freedom. True [[energy-efficient-house-design]] than modern large-scale agriculture, farming with animal power was even more efficient, and **no form of agriculture has better [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] or [[beneficial-insect-habitat]], soil and organism — are artifacts of human perception, not features of reality.
+## Mahayana and Hinayana [[mollison-designers-domestic-animal-integration-design]] into the wild is not natural farming for livestock. The animal has been bred for millennia to depend on human care. Simply abandoning it is cruelty dressed up as freedom. True [[energy-efficient-house-design]] than modern large-scale agriculture, farming with animal power was even more efficient, and **no form of agriculture has better [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] or [[beneficial-insect-habitat]], soil and organism — are artifacts of human perception, not features of reality.
 
 ## Significance for Modern Practice
 

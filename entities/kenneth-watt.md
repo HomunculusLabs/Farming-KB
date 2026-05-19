@@ -5,7 +5,7 @@ type: entity
 tags: [people, ecology, thermodynamics, systems-thinking]
 ---
 
-# Kenneth Watt
+## Kenneth Watt
 
 ## Description
 

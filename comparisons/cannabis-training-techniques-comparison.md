@@ -14,7 +14,7 @@ type: comparison
 tags: [cannabis, cultivation, comparison]
 sources: []
 ---
-# Cannabis Training Techniques Comparison
+## Cannabis Training Techniques Comparison
 
 Plant training manipulates cannabis canopy structure to increase light exposure, improve airflow, and maximize yield per plant or per [[cannabis-vegetative-growth-stage]]. For [[cannabis-plant-anatomy]].
 

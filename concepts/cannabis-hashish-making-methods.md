@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Hashish Making Methods
+## Cannabis Hashish Making Methods
 
 Hashish (hash) is a concentrated cannabis product made by separating and collecting the resinous trichomes from the plant material. Trichomes contain the highest concentrations of cannabinoids (thc, cbd) and terpenes. Hash has been produced for thousands of years — the earliest methods involved simply rubbing the plants with hands.
 

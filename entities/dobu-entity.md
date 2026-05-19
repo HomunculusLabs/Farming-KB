@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOBU
+## DOBU
 
 **Chemical name:** 2,5-Dimethoxy-4-(n)-butylamphetamine
 **[[doet-compound-profile]], with very slow onset, extremely long duration, and primarily stimulant-like effects at the doses tested.

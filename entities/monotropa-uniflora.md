@@ -11,7 +11,7 @@ sources:
   - "raw/papers/mycoheterotrophic-plants-leake.md"
 ---
 
-# Monotropa uniflora
+## Monotropa uniflora
 
 **Monotropa uniflora**, commonly known as **Indian pipe**, **ghost pipe**, **ghost plant**, or **corpse plant**, is an herbaceous perennial plant in the family Ericaceae (formerly placed in its own family, Monotropaceae). Unlike most plants, *M. uniflora* contains no chlorophyll and does not photosynthesize. Instead, it obtains all of its carbon and nutrients through a **mycoheterotrophic** relationship with fungi — specifically, ectomycorrhizal fungi in the Russulaceae and Boletaceae that are themselves symbiotic with forest trees. This tripartite ecological relationship (plant → fungus → tree) makes *M. uniflora* one of the most fascinating and ecologically specialized non-photosynthetic plants in temperate forests worldwide.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ayahuasca Tourism Economics and the Commodification of Ceremony
+## Ayahuasca Tourism Economics and the Commodification of Ceremony
 
 ## Overview
 

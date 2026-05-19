@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Make JADAM Natural Pesticide (JNP)?
+## How Do I Make JADAM Natural Pesticide (JNP)?
 
 ## Short Answer
 JADAM Natural Pesticide (JNP) is a low-cost [[jadam-microorganism-solution-culturing]] (JMS) combined with plant oils, typically canola or soybean oil.

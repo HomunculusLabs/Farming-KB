@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Magnesium (Mg)
+## Cannabis Magnesium (Mg)
 
 ## Overview
 

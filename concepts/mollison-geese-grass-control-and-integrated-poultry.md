@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Geese as Grass Control and Integrated Poultry in Permaculture
+## Geese as Grass Control and Integrated Poultry in Permaculture
 
 [[permaculture-domestic-animals]] for permaculture systems,
 particularly valued for their ability to control grasses in orchards,

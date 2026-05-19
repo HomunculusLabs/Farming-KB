@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Colon Cancer (Colorectal Cancer)
+## Cannabis and Colon Cancer (Colorectal Cancer)
 
 The [[metzner-ayahuasca-therapeutic-potential]] of cannabis across various
 conditions. [[blesching-cannabis-irritable-bowel-syndrome]]

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/savory-holistic-resource-management.md"
 ---
 
-# Herb Gardening Organic
+## Herb Gardening Organic
 
 Updated: 2026-04-18
 

@@ -25,7 +25,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3705345/
 ---
 
-# Plantago major
+## Plantago major
 
 ## Overview
 

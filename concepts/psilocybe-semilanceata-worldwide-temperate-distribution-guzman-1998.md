@@ -1,5 +1,10 @@
+---
+title: "Psilocybe Semilanceata Worldwide Temperate Distribution Guzman 1998"
+tags:
+  - concept
+---
 
-# Psilocybe semilanceata Worldwide Temperate Distribution
+## Psilocybe semilanceata Worldwide Temperate Distribution
 
 Psilocybe semilanceata, commonly known as the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] Diversity Hotspot, making its distribution pattern a biogeographic anomaly.
 

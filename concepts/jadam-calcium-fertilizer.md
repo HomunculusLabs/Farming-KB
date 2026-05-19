@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Calcium Liquid Fertilizer
+## JADAM Calcium Liquid Fertilizer
 
 Oyster shell powder and egg shell powder make excellent sources of calcium.
 Calcium JLF controls late-stage growth, increases storability, and improves

@@ -7,7 +7,7 @@ tags: [mycoremediation, biology, pollution, heavy-metals]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh Fungal Biosorption of Heavy Metals
+## Singh Fungal Biosorption of Heavy Metals
 #mycoremediation #heavy-metals #biosorption #bioaccumulation #wastewater-treatment
 
 Updated: 2026-04-18

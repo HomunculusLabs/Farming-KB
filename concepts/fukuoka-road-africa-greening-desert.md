@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
-# Fukuoka's Visit to Africa — Greening the Desert
+## Fukuoka's Visit to Africa — Greening the Desert
 
 In  devotes an entire chapter, "[[comparison-natural-farming-vs-permaculture]] methods to African refugees and explore the potential for [[fukuoka-road-seed-ball-experiments]], clay is the essential binding ingredient for [[mollison-arid-lands-aquatic-species]] by airplane, but "this was not understood in Somalia." The country lacked even a postal system, having developed a system of writing only about twelve years prior, making communications virtually impossible.
 

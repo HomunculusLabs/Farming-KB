@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# Stropharia Venenata: Japan's Misidentified Bluing Mushroom
+## Stropharia Venenata: Japan's Misidentified Bluing Mushroom
 
 Stropharia venenata (originally described as Stropharia caerulescens by S. Imai in 1932) is a [[growing-gourmet-poisonous-mushroom-lookalikes]]" due to a citation error, it represents an important case study in how taxonomic mistakes can have lasting consequences for both mycological science and public perception.
 

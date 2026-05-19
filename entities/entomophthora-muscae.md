@@ -15,7 +15,7 @@ sources:
   - "Roy, H.E. et al. (2006). \"Bizarre interactions and endgames: singh-entomopathogenic-fungi-biocontrol-agents and their arthropod hosts.\" Annual Review of Entomology, 51, 331-357."
 ---
 
-# Entomophthora muscae
+## Entomophthora muscae
 
 ## Overview
 

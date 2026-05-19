@@ -9,7 +9,7 @@ tags:
   - biodiversity
 ---
 
-# Fungicolous and Mycophilic Fungi: Mycoparasitism and Biodiversity
+## Fungicolous and Mycophilic Fungi: Mycoparasitism and Biodiversity
 
 ## Definition and Scope
 

@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Grow Onions from Seed, Sets, and Transplants?
+## How Do I Grow Onions from Seed, Sets, and Transplants?
 
 ## Short Answer
 

@@ -5,7 +5,7 @@ type: entity
 tags: [person, farmer, natural-farming, korea, pioneer, author, teacher]
 ---
 
-# Hankyu Cho
+## Hankyu Cho
 
 ## Description
 

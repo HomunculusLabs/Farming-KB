@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [encyclopedic knowledge base]
 ---
 
-# Willow Cultivation and Uses
+## Willow Cultivation and Uses
 
 ## Overview
 

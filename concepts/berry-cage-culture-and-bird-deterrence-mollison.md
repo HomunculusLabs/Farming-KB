@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Berry Cage Culture and Bird Deterrence
+## Berry Cage Culture and Bird Deterrence
 
 Mollison presents two main approaches to commercial and homestead berry
 production that address the critical problem of bird predation: intensive

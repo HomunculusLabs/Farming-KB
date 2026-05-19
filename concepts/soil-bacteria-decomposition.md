@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Bacteria and Decomposition
+## Soil Bacteria and Decomposition
 
 Bacteria are the **primary decomposers** in soil ecosystems. They are the first organisms to break down organic matter — everything from fallen leaves and dead plant roots to animal remains — converting complex biological materials into forms that other [[soil-life]] and plants can use. Understanding bacterial decomposition is essential for anyone who wants [[query-how-to-build-healthy-garden-soil]], living soil.
 

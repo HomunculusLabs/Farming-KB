@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhiza Induced Resistance Defense Priming
+## Mycorrhiza Induced Resistance Defense Priming
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Natural Livestock Farming and Open Grazing
+## Fukuoka Natural Livestock Farming and Open Grazing
 
 Masanobu Fukuoka extended his philosophy [[mulching-in-natural-farming]]. Nature is the one that raises and grows."
 

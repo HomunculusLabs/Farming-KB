@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# The Breakdown of Japanese Agriculture
+## The Breakdown of Japanese Agriculture
 
 [[masanobu-fukuoka]]'s second chapter presents a sweeping indictment of the forces that
 dismantled Japan's [[jadam-nutrient-cycling-traditional-farming-mineral-science]] culture and replaced it with an industrialized,

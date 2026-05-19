@@ -4,7 +4,7 @@ aliases: ["translinguistic objects DMT", "cognitive dissonance tryptamine hypers
 tags: [dmt, tryptamines, consciousness, language, phenomenology, mckenna]
 ---
 
-# Translinguistic Objects and Cognitive Dissonance in Tryptamine Experience
+## Translinguistic Objects and Cognitive Dissonance in Tryptamine Experience
 
 ## Overview
 

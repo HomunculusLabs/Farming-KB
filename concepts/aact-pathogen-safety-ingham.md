@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# AACT Pathogen Safety (Ingham)
+## AACT Pathogen Safety (Ingham)
 
 Updated: 2026-04-18
 

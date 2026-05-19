@@ -1,7 +1,7 @@
 ---
 
 ---
-# Psilocybin Mushrooms Beyond Psilocybe: Other Genera
+## Psilocybin Mushrooms Beyond Psilocybe: Other Genera
 
 ## The Wider World of Psychoactive Fungi
 

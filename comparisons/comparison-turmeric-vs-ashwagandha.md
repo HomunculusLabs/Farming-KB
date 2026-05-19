@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Turmeric vs Ashwagandha
+## Turmeric vs Ashwagandha
 
 ## Overview
 

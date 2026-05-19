@@ -8,7 +8,7 @@ sources:
   - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-# Bacterial vs Fungal Soil
+## Bacterial vs Fungal Soil
 
 ## Overview
 

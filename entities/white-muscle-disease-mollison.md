@@ -5,7 +5,7 @@ type: entity
 tags: [livestock-disease, selenium-deficiency, veterinary, permaculture, agriculture, nutritional-myopathy]
 ---
 
-# White Muscle Disease
+## White Muscle Disease
 
 ## Description
 

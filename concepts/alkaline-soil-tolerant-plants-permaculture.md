@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Alkaline Soil Tolerant Plants in Permaculture
+## Alkaline Soil Tolerant Plants in Permaculture
 
 [[salt-tolerant-plants-permaculture]] wattle, jila jila): Highly tolerant of saline and alkaline soils, native to northwestern Australia.
 - **Acacia aneura** (mulga): One of Australia's most iconic arid-zone trees, extremely drought-tolerant and adapted to calcareous soils.

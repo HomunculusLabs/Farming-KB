@@ -6,7 +6,7 @@ tags: [legislation, law, europe, regulation, drug-policy, EMCDDA, scheduling, sm
 aliases: [magic mushroom laws europe, psilocybin regulation EU, hallucinogenic mushroom criminalization]
 ---
 
-# Mushroom Legislation in Europe
+## Mushroom Legislation in Europe
 
 The legal status [[hplc-analysis-of-psilocybin-and-psilocin]]) were typically already controlled under existing drug scheduling, but the **fresh mushrooms themselves** often occupied a legal gray area. This gap arose because:
 

@@ -15,7 +15,7 @@ sources:
   - Turner IM. (1995). "A Catalogue of the Vascular Plants of Malaya." Gardens' Bulletin Singapore.
 ---
 
-# Alpinia kuhlii
+## Alpinia kuhlii
 
 ## Overview
 

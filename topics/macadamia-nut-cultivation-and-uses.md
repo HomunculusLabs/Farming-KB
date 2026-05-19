@@ -1,5 +1,10 @@
+---
+title: "Macadamia Nut Cultivation And Uses"
+tags:
+  - topic
+---
 
-# Macadamia Nut Cultivation and Uses
+## Macadamia Nut Cultivation and Uses
 
 Macadamia nuts are the edible seeds of trees in the genus *Macadamia* (family Proteaceae), native to the eastern coast of Australia. They are among the most valuable tree nut crops in global trade, prized for their high oil content, rich flavor, and crunchy texture. Commercial cultivation spans tropical and subtropical regions worldwide, with South Africa, Australia, Kenya, and China as the leading producers.
 

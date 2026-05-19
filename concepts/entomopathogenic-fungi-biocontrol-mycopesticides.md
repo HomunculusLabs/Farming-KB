@@ -5,7 +5,7 @@ tags: [mycology, mycopesticides, biocontrol, entomopathogenic-fungi, IPM]
 created: 2026-05-11
 ---
 
-# Entomopathogenic Fungi: Biocontrol and Mycopesticides
+## Entomopathogenic Fungi: Biocontrol and Mycopesticides
 
 ## Overview
 

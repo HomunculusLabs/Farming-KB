@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
-# Edible Aquatic Plants for Permaculture
+## Edible Aquatic Plants for Permaculture
 
 Water plants provide direct food for humans, fish, and other [[hugelkultur-bed-construction]].
 

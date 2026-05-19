@@ -4,7 +4,7 @@ source: Oner, S.T. & The Rev (2014). blesching-cannabis-sativa-indica-classifica
 tags: [chupacabra, cannabis-genetics, trainwreck, strawberry-fire, strain-profile, hybrid, oner]
 ---
 
-# Chupacabra — Trainwreck × Strawberry Fire Hybrid Strain Profile
+## Chupacabra — Trainwreck × Strawberry Fire Hybrid Strain Profile
 
 ## Overview
 

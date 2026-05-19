@@ -5,7 +5,7 @@ type: entity
 tags: [phenomenon, fungal-behavior, radiation, bioremediation, chernobyl]
 ---
 
-# Radiotropism
+## Radiotropism
 
 ## Description
 

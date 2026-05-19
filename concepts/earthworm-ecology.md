@@ -9,7 +9,7 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
-# Earthworm Ecology
+## Earthworm Ecology
 
 Updated: 2026-04-18
 

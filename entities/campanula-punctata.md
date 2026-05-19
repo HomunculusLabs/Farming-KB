@@ -12,7 +12,7 @@ sources:
   - Personal knowledge (botanical references)
 ---
 
-# Campanula punctata
+## Campanula punctata
 
 ## Overview
 

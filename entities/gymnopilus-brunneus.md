@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Gymnopilus brunneus
+## Gymnopilus brunneus
 
 **Gymnopilus brunneus** is a wood-inhabiting mushroom in the family Cortinariaceae
 and one of several Gymnopilus species reported to contain [[psilocybin]]. The distribution of psychoactive compounds within the genus does not

@@ -5,7 +5,7 @@ type: entity
 tags: [technique, livestock, soil-preparation, pig-management, permaculture-design]
 ---
 
-# Pig Tractor System
+## Pig Tractor System
 
 ## Description
 

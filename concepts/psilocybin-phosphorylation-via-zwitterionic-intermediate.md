@@ -7,7 +7,7 @@ tags: [chemistry, synthesis, psilocybin, pharmacology, psychedelics]
 sources: [raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
 
-# Psilocybin Phosphorylation via Zwitterionic Intermediate
+## Psilocybin Phosphorylation via Zwitterionic Intermediate
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Maintaining Organic Matter in Vegetable Gardens
+## Maintaining Organic Matter in Vegetable Gardens
 
 Two major factors contribute to the physical properties of your soil:
 the size of inorganic particles (sand, silt, or clay) and organic

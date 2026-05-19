@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Soil Life and Humus Sources
+## Tropical Soil Life and Humus Sources
 
 [[humus]] for building and maintaining tropical soils. Both topics are explored in depth in Chapter 10 of *[[permaculture]]: A Designers' Manual*.
 

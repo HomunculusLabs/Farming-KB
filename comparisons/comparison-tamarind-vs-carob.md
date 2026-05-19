@@ -20,7 +20,7 @@ type: comparison
 created: 2026-05-03
 ---
 
-# Tamarind vs Carob Cultivation
+## Tamarind vs Carob Cultivation
 
 Tamarind (*Tamarindus indica*) and carob (*Ceratonia siliqua*) are two remarkably similar multipurpose leguminous trees that have independently become culinary staples across the tropics and Mediterranean, respectively. Both produce long, pod-bearing fruit rich in natural sugars, both are exceptionally drought-tolerant, and both have served as survival foods during famine. Despite their convergent ecological roles, they differ significantly in botany, [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]** | 18–45 °C optimal | 12–38 °C optimal |
 | **Frost tolerance** | Brief frost to -3 °C (mature) | Tolerates -7 to -9 °C (dormant) |

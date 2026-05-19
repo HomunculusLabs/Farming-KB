@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Produce Marketing and Economics
+## Winter Produce Marketing and Economics
 
 Principles and practices for successfully marketing and pricing winter-harvested
 vegetables, drawn from [[eliot-coleman]]'s experience with [[four-season-farm]] in Maine.

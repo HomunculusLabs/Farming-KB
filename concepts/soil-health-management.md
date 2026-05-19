@@ -9,7 +9,7 @@ sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 type: concept
 ---
 
-# Soil Health Management
+## Soil Health Management
 
 A healthy, fertile soil is the basis of the organic approach
 to gardening. Soil management can be divided into four

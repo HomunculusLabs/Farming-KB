@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Jung's Interpretation of the Tibetan Book of the Dead
+## Jung's Interpretation of the Tibetan Book of the Dead
 
 ## Overview
 

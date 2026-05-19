@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Hugelkultur, Crater Gardens, and Raised Growing Systems
+## Hugelkultur, Crater Gardens, and Raised Growing Systems
 
 ## Overview
 

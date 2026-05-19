@@ -21,7 +21,7 @@ sources:
 - raw/papers/uwe-blesching-the-cannabis-health-index.md
 ---
 
-# Uwe Blesching
+## Uwe Blesching
 
 Uwe Blesching, Ph.D. (born 1958) is an American author and researcher who compiled one of the most comprehensive references on the therapeutic applications of cannabis. "The Cannabis Health Index" (2013, updated 2015) was published by North Atlantic Books of Berkeley, California, and cross-references health conditions with specific cannabinoid and terpene profiles, preparation methods, and evidence levels from clinical research.
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [plant-pathology, mycology, agriculture, orchards]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+sources: ["raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"]
 type: concept
 ---
 
-# Fungal Fruit Tree Diseases
+## Fungal Fruit Tree Diseases
 
 [[bloomfield-fungal-pathogens-and-parasites]] with complex life cycles
 and varied modes of infection. Managing fungal diseases in orchards requires

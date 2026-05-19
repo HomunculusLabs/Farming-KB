@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Complexity, Connections, and Order in Permaculture
+## Complexity, Connections, and Order in Permaculture
 
 [[bill-mollison]] devotes significant attention to these themes because a designer who misunderstands complexity and order will inevitably create systems that require constant energy input and still underperform.
 
@@ -97,7 +97,7 @@ This principle synthesizes the above themes:
 5. **Respect the limits of each element** — permitted functions are sustainable; forced functions invite collapse
 6. **Minimize disorder** — every element of your design that requires energy input to maintain, without producing useful yield, is a liability
 
-# See Also
+## See Also
 
 - [Yield and the System of Yields](yield-and-the-system-of-yields.md)
 - [[edge-effect]].md)

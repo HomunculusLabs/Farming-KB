@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Ecosystem Services Framework
+## Fungal Ecosystem Services Framework
 
 Fungi provide a wide range of ecosystem services that underpin the
 functioning of terrestrial, freshwater, and [[gadd-fungal-carbon-sequestration]]. The

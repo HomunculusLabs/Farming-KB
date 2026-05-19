@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Yage Visions of Felines, Reptiles, and Prehistoric Imagery
+## Yage Visions of Felines, Reptiles, and Prehistoric Imagery
 
 ## Overview
 

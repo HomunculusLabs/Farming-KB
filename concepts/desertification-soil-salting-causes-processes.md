@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desertification and Soil Salting
+## Desertification and Soil Salting
 
 Desertification is fundamentally a **land-use problem**, hence a political problem, reflecting the priorities of governments. While often attributed to long-term climatic change, the primary drivers are human activities that degrade soil and vegetation systems beyond their capacity for self-repair.
 

@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Banisteriopsis Ayahuasca — Cross-Cultural Visionary Experience Patterns
+## Banisteriopsis Ayahuasca — Cross-Cultural Visionary Experience Patterns
 
 ## Overview
 

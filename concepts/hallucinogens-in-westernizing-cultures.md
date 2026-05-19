@@ -4,7 +4,7 @@ source: "Harner, M. J. (1973). Hallucinogens and Shamanism. Oxford University Pr
 type: concept
 ---
 
-# Hallucinogens in Westernizing Cultures
+## Hallucinogens in Westernizing Cultures
 
 ## Overview
 

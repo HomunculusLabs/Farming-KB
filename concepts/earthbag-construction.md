@@ -1,5 +1,5 @@
 ---
-title: comparison-earthbag-construction-vs-cob-construction
+title: "Earthbag Construction"
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
@@ -7,7 +7,7 @@ tags: [reference]
 sources: [articles/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 
-# Earthbag Construction
+## Earthbag Construction
 
 Earthbag construction is a low-cost, extremely durable [[straw-bale-construction]] and [[natfarm-earthbag-construction-method]]
 

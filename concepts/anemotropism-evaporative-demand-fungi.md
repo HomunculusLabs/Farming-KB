@@ -4,7 +4,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Anemotropism and Evaporative Demand in Fungi
+## Anemotropism and Evaporative Demand in Fungi
 
 Anemotropism is the growth response of an organism to wind or air currents. In fungi, this tropism has been most thoroughly studied in the sporangiophores of *Phycomyces blakesleeanus* and the basidiocarps of *[[psilocybe-cubensis]]*. The prevailing mechanistic explanation involves differential evaporative demand across the fungal structure, driven by asymmetric boundary layer redistribution in the presence of airflow.
 

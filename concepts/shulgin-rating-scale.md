@@ -7,7 +7,7 @@ tags: [chemistry, psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# The Shulgin Rating Scale
+## The Shulgin Rating Scale
 
 **Source:** PiHKAL (Part 2), Shulgin Rating Scale
 
@@ -44,7 +44,7 @@ Despite these limitations, the scale remains the most widely recognized system f
 - [[psychedelic-experience-stages]]
 ## Merged: Shulgin Animal Models Psychopharmacology
 
-# Shulgin on Animal Models and Psychopharmacology
+## Shulgin on Animal Models and Psychopharmacology
 
 **Updated:** 2026-04-18
 

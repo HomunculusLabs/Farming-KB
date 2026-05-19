@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Television as the Dominator Drug Par Excellence
+## Television as the Dominator Drug Par Excellence
 
 ## Overview
 

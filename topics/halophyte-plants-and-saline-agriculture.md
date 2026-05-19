@@ -23,7 +23,7 @@ sources:
   - "Panta, S., Flowers, T., Lane, P., Doyle, R., Haros, G. & Shabala, S. (2014). Halophyte agriculture: success stories. Environmental and Experimental Botany, 107, 71-83."
 ---
 
-# Halophyte Plants and Saline Agriculture
+## Halophyte Plants and Saline Agriculture
 
 ## Introduction
 

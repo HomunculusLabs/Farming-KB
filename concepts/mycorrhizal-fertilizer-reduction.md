@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, symbiosis]
 sources: [papers/teaming-with-fungi-lowenfels.md]
 ---
 
-# Mycorrhizal Fertilizer Reduction
+## Mycorrhizal Fertilizer Reduction
 
 ## Overview
 

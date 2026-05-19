@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Banco, Sumiruna, and Muraya
+## Banco, Sumiruna, and Muraya
 
 The three highest degrees in traditional [[icaros-shamanic-power-songs]], each with distinct specialties,
 spiritual domains, and abilities. One can only reach these degrees

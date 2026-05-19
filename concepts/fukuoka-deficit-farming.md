@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Deficit Farming
+## Deficit Farming
 
 In *The Road Back to Nature*, [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] enriches the land:
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/symbiotic-fungi.md"
 ---
 
-# Agricultural Mycorrhizae
+## Agricultural Mycorrhizae
 
 ## Overview
 

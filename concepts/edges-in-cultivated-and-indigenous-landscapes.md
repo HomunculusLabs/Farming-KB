@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Edges in Cultivated and Indigenous Landscapes
+## Edges in Cultivated and Indigenous Landscapes
 
 The application of edge principles to designed and managed landscapes reveals a rich history of human societies intuitively maximising productive interfaces. From English hedgerows to Aboriginal [[firestick-farming]], traditional land management systems demonstrate sophisticated understanding of edge dynamics that modern [[permaculture]] draws upon and extends.
 

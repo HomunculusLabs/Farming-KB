@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Terpene Entourage Effect
+## Cannabis Terpene Entourage Effect
 
 ## Overview
 

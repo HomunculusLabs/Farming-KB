@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Farming in Tropical Climates
+## Natural Farming in Tropical Climates
 
 During his global travels, Masanobu Fukuoka observed agricultural conditions in tropical regions and developed ideas about how [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] through [[knf-vs-chemical-farming-comparison]] had often been most destructive. Cash crop plantations of cotton, coffee, cocoa, and sugar had replaced diverse food systems, creating dependency on global markets while degrading local ecosystems.
 

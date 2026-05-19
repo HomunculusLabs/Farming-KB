@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Fu Zheng Therapy and Oriental Immunomodulation
+## Fu Zheng Therapy and Oriental Immunomodulation
 
 Fu Zheng therapy represents the Oriental framework for understanding how [[medicinal-mushrooms]] and other natural compounds modulate the immune system. This concept explores the philosophical foundations, practical applications, and growing convergence between Eastern and Western approaches to immune-based cancer treatment.
 

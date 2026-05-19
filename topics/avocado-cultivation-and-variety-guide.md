@@ -19,7 +19,7 @@ sources:
   - Manson, R.J. "Avocado Cultivation in New Zealand." Ministry of Agriculture and Fisheries.
 ---
 
-# Avocado Cultivation and Variety Guide
+## Avocado Cultivation and Variety Guide
 
 ## Introduction
 

@@ -16,7 +16,7 @@ sources:
   - Royal Botanic Gardens Kew. "Gentiana dahurica." Plants of the World Online.
 ---
 
-# Gentiana dahurica
+## Gentiana dahurica
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Edge Effect Design
+## Pond Edge Effect Design
 
 Pond shape has a profound influence on productivity in aquaculture systems. The principle of [[edge-effect]]—the increased biological activity and [[fungal-habitat-diversity]] that occurs at boundaries between ecosystems—is central to [[permaculture]] pond design. By maximizing the ratio of shoreline to surface area, designers can dramatically increase the natural food available to fish and other aquatic organisms.
 

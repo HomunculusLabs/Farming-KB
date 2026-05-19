@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Underground Fungal Networks
+## Underground Fungal Networks
 
 Underground fungal networks, often called [[mycelium-as-natures-internet]]
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Banks, Benches, and Terracing
+## Banks, Benches, and Terracing
 
 Banks, benches, and terraces are three fundamental earthwork techniques used in [[green-manure-crops]] improve soil structure and infiltration while their roots bind the soil.
 

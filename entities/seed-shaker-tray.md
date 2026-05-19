@@ -5,7 +5,7 @@ type: entity
 tags: [tool, seed-collection, tree-establishment, forage-systems]
 ---
 
-# Seed Shaker Tray
+## Seed Shaker Tray
 
 ## Description
 

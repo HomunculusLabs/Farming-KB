@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Harm Reduction
+## Hallucinogenic Mushroom Harm Reduction
 
 ## Overview
 

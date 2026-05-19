@@ -6,7 +6,7 @@ tags: [microbiome, cultivar, host-genotype, plant-microbe, cannabis, endophytes]
 aliases: [cultivar specific microbiome, genotype-dependent microbiome, host specificity microbiome]
 ---
 
-# Cultivar Specificity in the Plant Microbiome
+## Cultivar Specificity in the Plant Microbiome
 
 ## Overview
 

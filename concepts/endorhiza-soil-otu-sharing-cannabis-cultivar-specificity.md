@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Endorhiza-Soil OTU Sharing Patterns in Cannabis Cultivar Specificity
+## Endorhiza-Soil OTU Sharing Patterns in Cannabis Cultivar Specificity
 
 ## Overview
 

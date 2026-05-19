@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Dermatophytes, Ringworm, and Human Skin Mycoses
+## Dermatophytes, Ringworm, and Human Skin Mycoses
 
 Dermatophytes are a specialized group of fungi that infect the keratinized tissues of
 humans and other animals, including skin, hair, and nails. These infections, collectively

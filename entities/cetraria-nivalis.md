@@ -16,7 +16,7 @@ sources:
   - Nash TH III. (2008). "lichenicolous-fungi of Alaska." Report from the Kevo Subarctic Research Station 11: 1–120.
 ---
 
-# Cetraria nivalis
+## Cetraria nivalis
 
 ## Overview
 

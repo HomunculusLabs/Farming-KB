@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Composting Methods
+## Composting Methods
 
 Source: [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] orthodoxy that "all compost is good compost." His core argument: most home-made compost is nutritionally inadequate for growing high-demand vegetables, and excessive [[geoff-hamilton]] movement (1940s) propagated the belief that any compost would grow great vegetables. This was propaganda to build a movement, not scientific truth. In reality, for compost to serve as the sole fertility source for most vegetable crops, it needs:
 - Nitrogen content exceeding 3 percent

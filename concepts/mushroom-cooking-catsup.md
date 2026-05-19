@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Cooking and Catsup
+## Mushroom Cooking and Catsup
 
 [[accessible-mushroom-cultivation-for-disabilities]], recognising that
 [[solar-cooking-methods]] and the commercial grower

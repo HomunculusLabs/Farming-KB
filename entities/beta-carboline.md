@@ -17,7 +17,7 @@ sources:
   - "Glennon, R.A. et al. (2000). \"β-Carbolines as agents of the central nervous system.\" Current Medicinal Chemistry, 7(2), 193-203."
 ---
 
-# Beta-Carboline (9H-Pyrido[3,4-b]indole)
+## Beta-Carboline (9H-Pyrido[3,4-b]indole)
 
 ## Overview
 

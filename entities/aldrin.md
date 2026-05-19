@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, pesticide, organochlorine, soil-pollutant, persistent]
 ---
 
-# Aldrin
+## Aldrin
 
 ## Description
 

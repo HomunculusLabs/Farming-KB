@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Cover Crop Method
+## JADAM Cover Crop Method
 
 Cover crop cultivation is one of the most important techniques in [[jadam-nutritional-balance-fertilizer]] for crops.
 

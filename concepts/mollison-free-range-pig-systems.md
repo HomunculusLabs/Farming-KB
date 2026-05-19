@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Free-Range Pig Systems in Permaculture Design
+## Free-Range Pig Systems in Permaculture Design
 
 Pigs on range are healthier, cheaper to feed, and have less
 saturated fats than pigs kept in sheds. The greatest expense is

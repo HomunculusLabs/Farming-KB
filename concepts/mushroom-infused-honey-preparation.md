@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom-Infused Honey Preparation and Medicinal Uses
+## Mushroom-Infused Honey Preparation and Medicinal Uses
 
 Mushroom honey is a value-added product that combines the natural antimicrobial
 properties of honey with the medicinal compounds of functional mushrooms. The

@@ -6,23 +6,23 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - /Users/t3rpz/wiki/concepts/irrigation-systems.md
-  - /Users/t3rpz/wiki/concepts/drip-irrigation-guide.md
-  - /Users/t3rpz/wiki/concepts/irrigation-watering-techniques.md
-  - /Users/t3rpz/wiki/concepts/solomon-irrigation-systems-sprinkler-design.md
-  - /Users/t3rpz/wiki/concepts/solomon-irrigation-water-management.md
-  - /Users/t3rpz/wiki/concepts/passive-irrigation-systems.md
-  - /Users/t3rpz/wiki/concepts/coleman-drip-irrigation-and-water-management.md
-  - /Users/t3rpz/wiki/concepts/jeavons-water-management-irrigation.md
-  - /Users/t3rpz/wiki/concepts/holzer-irrigation-principles.md
-  - /Users/t3rpz/wiki/concepts/solomon-irrigation-water-scarce.md
-  - /Users/t3rpz/wiki/concepts/contour-swale-irrigation-design.md
-  - /Users/t3rpz/wiki/concepts/fukuoka-irrigation-topsoil-erosion-salt-accumulation.md
-  - /Users/t3rpz/wiki/concepts/mollison-designers-traditional-irrigation-systems.md
-  - /Users/t3rpz/wiki/concepts/solomon-drip-irrigation-limitations-home-garden.md
-  - /Users/t3rpz/wiki/concepts/dry-gardening-unirrigated-vegetable-production-solomon.md
-  - /Users/t3rpz/wiki/concepts/cervantes-drip-irrigation-systems.md
-  - /Users/t3rpz/wiki/concepts/natural-farm-water-conservation-irrigation.md
+  - raw/concepts/irrigation-systems.md
+  - raw/concepts/drip-irrigation-guide.md
+  - raw/concepts/irrigation-watering-techniques.md
+  - raw/concepts/solomon-irrigation-systems-sprinkler-design.md
+  - raw/concepts/solomon-irrigation-water-management.md
+  - raw/concepts/passive-irrigation-systems.md
+  - raw/concepts/coleman-drip-irrigation-and-water-management.md
+  - raw/concepts/jeavons-water-management-irrigation.md
+  - raw/concepts/holzer-irrigation-principles.md
+  - raw/concepts/solomon-irrigation-water-scarce.md
+  - raw/concepts/contour-swale-irrigation-design.md
+  - raw/concepts/fukuoka-irrigation-topsoil-erosion-salt-accumulation.md
+  - raw/concepts/mollison-designers-traditional-irrigation-systems.md
+  - raw/concepts/solomon-drip-irrigation-limitations-home-garden.md
+  - raw/concepts/dry-gardening-unirrigated-vegetable-production-solomon.md
+  - raw/concepts/cervantes-drip-irrigation-systems.md
+  - raw/concepts/natural-farm-water-conservation-irrigation.md
 related_concepts:
   - irrigation-systems
   - drip-irrigation-guide
@@ -36,7 +36,7 @@ related_concepts:
   - water-wise-orchard-irrigation
 ---
 
-# Irrigation Design for Small Farms
+## Irrigation Design for Small Farms
 
 Irrigation design for small farms is the art and science of delivering the
 right amount of water to the right place at the right time, using systems

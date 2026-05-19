@@ -15,7 +15,7 @@ sources:
   - Wang, W. & Warnock, M.J. (2001). "Delphinium." In: Wu, Z.Y. & Raven, P.H. (eds.), Flora of China. Science Press.
 ---
 
-# Delphinium elatum
+## Delphinium elatum
 
 ## Overview
 

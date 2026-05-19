@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Edible Mushroom Families
+## Edible Mushroom Families
 
 > A survey of the major families of edible fungi as classified and tested by
 > Julius A. Palmer Jr. (1829–1900), the 19th-century Boston mycologist whose

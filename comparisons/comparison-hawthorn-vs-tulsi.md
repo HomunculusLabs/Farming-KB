@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# Hawthorn vs Tulsi
+## Hawthorn vs Tulsi
 
 ## Overview
 

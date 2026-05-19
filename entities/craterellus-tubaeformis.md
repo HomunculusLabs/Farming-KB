@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycota, ectomycorrhizal, edible-mushroom, cantharellaceae, forest-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Craterellus tubaeformis
+## Craterellus tubaeformis
 
 *Craterellus tubaeformis*, commonly known as the yellowfoot, funnel chanterelle, or winter chanterelle, is an edible basidiomycete mushroom in the family *Cantharellaceae*. It is one of the most commercially important wild-harvested mushrooms in Scandinavia, the Pacific Northwest of [[growing-gourmet-north-american-reishi-species]] populations, sometimes referred to as *Craterellus neotubaeformis*, may also represent a distinct taxon.
 

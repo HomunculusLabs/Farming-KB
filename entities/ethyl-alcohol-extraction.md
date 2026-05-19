@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: entity
 ---
 
-# Ethyl Alcohol Extraction
+## Ethyl Alcohol Extraction
 
 ## Description
 

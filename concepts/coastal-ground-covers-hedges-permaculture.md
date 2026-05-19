@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Coastal Ground Covers and Hedges in Permaculture
+## Coastal Ground Covers and Hedges in Permaculture
 
 Coastal environments present extreme challenges for plant growth: salt spray, sandy soils, strong winds, and occasional inundation by seawater. Selecting appropriate ground covers, hedge plants, and coastal trees is critical for establishing productive permaculture systems in these environments. Many coastal plants serve multiple functions including sand stabilisation, [[query-how-do-i-prune-brambles-for-maximum-fruit-production]], and honey forage.
 

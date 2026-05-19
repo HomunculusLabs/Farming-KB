@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Neem Oil and Neem Products for Cannabis
+## Neem Oil and Neem Products for Cannabis
 
 Neem has been used for medicine and pest control for more than four centuries in India and [[query-how-does-no-till-cannabis-cultivation-work]], each with distinct properties:
 

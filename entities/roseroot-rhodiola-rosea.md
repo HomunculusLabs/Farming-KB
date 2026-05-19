@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [knowledge]
 ---
 
-# Roseroot (Rhodiola rosea)
+## Roseroot (Rhodiola rosea)
 
 ## Overview
 

@@ -17,7 +17,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Brassinosteroid Growth Promotion in [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] bodies, which are commonly encountered in [[fungal-growth-dynamics]]
+## Brassinosteroid Growth Promotion in [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] bodies, which are commonly encountered in [[fungal-growth-dynamics]]
 ## Practical Applications
 
 Brassinosteroid Growth Promotion [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

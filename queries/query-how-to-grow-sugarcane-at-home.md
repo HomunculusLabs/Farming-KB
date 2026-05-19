@@ -16,7 +16,7 @@ sources:
   - https://www.sare.org/publications/building-soils-for-better-crops/
 type: query
 ---
-# How [[query-how-do-you-grow-and-process-tea-at-home]]
+## How [[query-how-do-you-grow-and-process-tea-at-home]]
 
 ## Short Answer
 

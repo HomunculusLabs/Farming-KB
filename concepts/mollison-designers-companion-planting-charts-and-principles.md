@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Companion Planting Charts and Principles
+## Companion Planting Charts and Principles
 
 Companion planting is the practice of placing plant species in proximity for
 mutual benefit, drawing on observed and researched interactions between plants

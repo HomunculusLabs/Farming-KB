@@ -5,7 +5,7 @@ type: entity
 tags: [buddhist, ritual-object, vajrayana, ethnomycology, amanita-muscaria, tibetan, symbol]
 ---
 
-# Vajra (Dorje)
+## Vajra (Dorje)
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: [papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: query
 ---
 
-# What Are the Best Beneficial Insects for Organic Gardening?
+## What Are the Best Beneficial Insects for Organic Gardening?
 
 ## Short Answer
 The most effective beneficial insects for organic gardens include ladybugs for aphid control, lacewings for soft-bodied pest predation, [[comparison-parasitoid-wasps-vs-chemical-pesticides]] for caterpillar control, and ground beetles for soil-dwelling pest suppression.

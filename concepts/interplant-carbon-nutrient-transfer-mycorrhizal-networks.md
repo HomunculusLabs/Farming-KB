@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Interplant Carbon and Nutrient Transfer via Mycorrhizal Networks
+## Interplant Carbon and Nutrient Transfer via Mycorrhizal Networks
 
 ## Overview
 

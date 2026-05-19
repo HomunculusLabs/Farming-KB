@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Psilocybin Mushroom Habitats and Ecology
+## Psilocybin Mushroom Habitats and Ecology
 
 Source: [[psilocybe-semilanceata]] (liberty cap) is the classic species, found in temperate grasslands worldwide. Other grassland species include P. strictipes, P. mexicana, and P. tampanensis. Cattle, horse, and sheep pastures are primary collection sites. The dung provides nutrient media analogous to cultivators' petri dishes.
 

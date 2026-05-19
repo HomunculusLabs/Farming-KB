@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cultivation, spawn, mycelium, propagation]
 ---
 
-# Mushroom Spawn
+## Mushroom Spawn
 
 ## Description
 

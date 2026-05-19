@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Vetiver Grass for Erosion Control and Mulch
+## Vetiver Grass for Erosion Control and Mulch
 
 Vetiver grass (Vetiveria zizanoides) is one of the most frequently cited
 species in the Permaculture [[mollison-wet-dry-tropical-design-strategies]], Mollison describes

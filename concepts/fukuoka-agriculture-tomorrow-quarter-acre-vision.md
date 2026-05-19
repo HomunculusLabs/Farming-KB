@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Agriculture for Tomorrow and the Quarter-Acre Vision
+## Agriculture for Tomorrow and the Quarter-Acre Vision
 
 Fukuoka's vision for the future of agriculture extends beyond farming
 methods to encompass a fundamental reorganization of human settlement,

@@ -5,8 +5,8 @@ tags: [query, natural-building, slipform, stone-masonry, homesteading, construct
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/slip-form-stone-construction.md
-  - /Users/t3rpz/wiki/concepts/cordwood-construction.md
+  - raw/concepts/slip-form-stone-construction.md
+  - raw/concepts/cordwood-construction.md
 related_concepts:
   - slip-form-stone-construction
   - natural-building-techniques
@@ -14,7 +14,7 @@ related_concepts:
   - earthbag-construction
 type: query
 ---
-# When should I use slip form stone construction instead of another natural building method?
+## When should I use slip form stone construction instead of another natural building method?
 Use slip form stone construction when you have abundant local stone, want durable heavy walls, and can accept slow physical work.
 It is best for projects where permanence, fire resistance, thermal mass, and a natural stone finish matter more than speed.
 It is not the best first choice when high insulation, lightweight construction, or avoiding cement are the main goals.

@@ -7,7 +7,7 @@ tags: [gardening, water, water-management, irrigation, techniques, vegetables]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Irrigation and Watering Techniques
+## Irrigation and Watering Techniques
 
 [[solomon-sprinkler-irrigation-system-design]] and fertigation methods from Steve Solomon's *[[gardening-when-it-counts]]*. Solomon provides a scientific framework for efficient garden irrigation.
 

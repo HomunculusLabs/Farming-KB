@@ -5,7 +5,7 @@ type: entity
 tags: [algae, green-algae, photosynthesis, soil-microbiology, chlorophyll]
 ---
 
-# Chlorophyta
+## Chlorophyta
 
 ## Description
 

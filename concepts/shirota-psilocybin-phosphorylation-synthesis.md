@@ -6,7 +6,7 @@ source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamat
 created: 2026-05-09
 ---
 
-# Psilocybin Phosphorylation and Synthesis
+## Psilocybin Phosphorylation and Synthesis
 
 The conversion of psilocin (1) to psilocybin (2) requires phosphorylation of the
 4-hydroxy group with a phosphate ester. Shirota, Hakamata, and Goda evaluated

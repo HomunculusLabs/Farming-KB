@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Smut Fungi: Taxonomy and Diversity
+## Smut Fungi: Taxonomy and Diversity
 
 ## Overview
 

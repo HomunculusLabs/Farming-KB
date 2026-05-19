@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, ethics, holmgren, sustainability, earth-care]
 ---
 
-# Permaculture Ethical Principles
+## Permaculture Ethical Principles
 
 ## Holmgren's Three Ethics from Principles & Pathways Beyond Sustainability
 

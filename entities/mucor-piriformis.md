@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Mucor piriformis
+## Mucor piriformis
 
 Mucor piriformis is a species of zygomycete fungus within the Mucorales, notable for its role as a post-harvest pathogen of fruits and for its distinctive zygospore germination requirements. It serves as an important model organism for understanding [[trichoderma-harzianum]]**: A necrotrophic mycoparasite that can attack a wide range of fungi including Mucorales
 

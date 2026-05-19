@@ -6,7 +6,7 @@ tags: [cannabis, cbd, bone-healing, fracture, osteoclast, bone-density, cb2-rece
 created: 2026-05-09
 ---
 
-# Cannabis and Fractured Bones — CBD-Enhanced Fracture Healing
+## Cannabis and Fractured Bones — CBD-Enhanced Fracture Healing
 
 ## Overview
 

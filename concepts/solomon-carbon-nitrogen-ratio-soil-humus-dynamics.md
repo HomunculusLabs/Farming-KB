@@ -4,7 +4,7 @@ source: Gardening When It Counts (steve-solomon, 2005)
 tags: [carbon-nitrogen, cn-ratio, humus, soil, compost, decomposition, microbiology, fertility, solomon]
 ---
 
-# Carbon-Nitrogen Ratio and Soil Humus Dynamics
+## Carbon-Nitrogen Ratio and Soil Humus Dynamics
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Indigenous Microorganism Cultivation
+## JADAM Indigenous Microorganism Cultivation
 
 ## Overview
 

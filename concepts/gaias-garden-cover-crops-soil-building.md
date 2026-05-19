@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
-# [[cover-crops]]
+## [[cover-crops]]
 - [[teaming-with-microbes-cover-crops-soil-health]]
 
 ## Notes for Further Development

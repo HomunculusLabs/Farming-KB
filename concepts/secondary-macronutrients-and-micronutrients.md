@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Secondary Macronutrients and Micronutrients
+## Secondary Macronutrients and Micronutrients
 
 ## Overview
 

@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
 ---
-# Hyperspace and Human Freedom
+## Hyperspace and Human Freedom
 The final chapters of *Food of the Gods* culminate in Terence McKenna's argument that the psychedelic dimension, which he calls "hyperspace," is not merely a subjective experience but a real domain accessible through [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]].
 ## The Fear Behind Prohibition
 What is most feared by those who advocate the unworkable Luddite solution of "Just say no" is a world in which all traditional community values have dissolved in the face of an endless search for self-gratification.

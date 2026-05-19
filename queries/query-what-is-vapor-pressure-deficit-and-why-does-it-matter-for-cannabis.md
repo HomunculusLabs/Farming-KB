@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Vapor Pressure Deficit and Why Does It Matter for Cannabis?
+## What Is Vapor Pressure Deficit and Why Does It Matter for Cannabis?
 
 ## Short Answer
 

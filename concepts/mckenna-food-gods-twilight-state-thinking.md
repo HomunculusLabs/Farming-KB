@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Twilight-State Thinking in Food of the Gods
+## Twilight-State Thinking in Food of the Gods
 
 In *Food of the Gods*, [[weil-the-natural-mind-altered-states-normalcy]] of consciousness were not merely
 incidental to prehistoric human culture but were essential to its

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
-# Dermatophyte Fungi and Human Disease
+## Dermatophyte Fungi and Human Disease
 
 Dermatophytes are a group of fungi that infect the keratinized tissues of humans
 and other animals, including skin, hair, and nails. They are among the most

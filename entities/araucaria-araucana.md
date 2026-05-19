@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Araucaria araucana
+## Araucaria araucana
 
 **Type:** Species (Tree)
 **Category:** Nut-bearing conifer

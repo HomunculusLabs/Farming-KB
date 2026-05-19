@@ -5,7 +5,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 created: 2026-05-08
 ---
 
-# Stigmasterol as Brassinosteroid Biosynthetic Precursor
+## Stigmasterol as Brassinosteroid Biosynthetic Precursor
 
 Stigmasterol is a phytosterol that serves as a key biosynthetic precursor in the
 production of brassinosteroids, a class of steroidal plant-growth regulators. The

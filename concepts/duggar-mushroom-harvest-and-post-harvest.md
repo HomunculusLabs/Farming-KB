@@ -9,7 +9,7 @@ tags: [mushroom, harvest, post-harvest, picking, packaging, storage, market, dug
 updated: 2026-04-26
 ---
 
-# Mushroom Harvest and Post
+## Mushroom Harvest and Post
 
 ## The Growing Period
 

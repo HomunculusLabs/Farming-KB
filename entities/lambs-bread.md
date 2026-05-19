@@ -19,7 +19,7 @@ sources:
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. C.C. Thomas.
 ---
 
-# Lambs Bread
+## Lambs Bread
 
 **Lambs Bread** (also spelled **Lamb's Bread**, and sometimes called **Lamb's Breath**) is a legendary sativa-dominant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the world, it is deeply intertwined with Rastafarian spiritual practice and Jamaican musical heritage. Bob Marley famously referenced it in his music, and it remains a touchstone strain for cannabis historians and landrace preservationists.
 

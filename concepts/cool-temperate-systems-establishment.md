@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Temperate Systems Establishment
+## Cool Temperate Systems Establishment
 
 Establishing productive permaculture systems in cool temperate climates requires specific strategies for dealing with frost, wind, weed competition, and short growing seasons. The approach emphasizes using pioneer and nurse species, protective structures, and intensive small-scale management to build resilient food-producing landscapes.
 

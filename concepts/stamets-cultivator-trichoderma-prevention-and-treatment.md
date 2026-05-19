@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Trichoderma Prevention and Treatment
+## Trichoderma Prevention and Treatment
 
 Trichoderma, known as Forest [[accessible-mushroom-cultivation-for-disabilities]].
 Classified under Fungi Imperfecti in the order Moniliales and family

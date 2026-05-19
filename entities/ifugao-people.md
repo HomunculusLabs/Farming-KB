@@ -5,7 +5,7 @@ type: entity
 tags: [people, culture, terrace-culture, rice, permaculture, traditional-knowledge]
 ---
 
-# Ifugao People
+## Ifugao People
 
 ## Description
 

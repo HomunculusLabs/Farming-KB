@@ -1,4 +1,8 @@
-# Eurotium-Aspergillus Pleomorphism — The Dual Identity Problem
+---
+title: "Eurotium-Aspergillus Pleomorphism — The Dual Identity Problem"
+tags:
+  - concept
+---
 
 ## Source
 *Nicholas P. Money — Mr. Bloomfield's Orchard (2002)*

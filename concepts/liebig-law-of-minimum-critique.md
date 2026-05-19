@@ -1,5 +1,5 @@
 ---
-title: Liebig Law of liebig-law-of-minimum-critique-natural-farming
+title: "Liebig Law Of Minimum Critique"
 created: 2026-04-28
 tags: [agriculture, science-critique, liebig, soil-nutrients, farming-theory, fukuoka]
 date: 2026-04-28
@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Liebig Law of Minimum Critique
+## Liebig Law of Minimum Critique
 
 Justus von Liebig's law of minimum is one of the foundational principles of
 modern [[masanobu-fukuoka]] subjected this law to a

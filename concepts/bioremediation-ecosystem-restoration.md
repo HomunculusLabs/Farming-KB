@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: [papers/cotter-organic-mushroom-farming-mycoremediation.md, papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md, papers/staycare-mngmt-fungi-in-bioremediation.md]
 ---
 
-# Bioremediation and Ecosystem Restoration
+## Bioremediation and Ecosystem Restoration
 
 Bioremediation and ecosystem restoration are increasingly recognized as complementary and interdependent approaches to recovering the function and value of degraded environments.
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Chop and Drop Mulching and Why Should I Use It?
+## What Is Chop and Drop Mulching and Why Should I Use It?
 
 ## Short Answer
 Chop and drop mulching is the practice of cutting plants in place and leaving the

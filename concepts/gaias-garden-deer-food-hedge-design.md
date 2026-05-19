@@ -17,7 +17,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Deer-Deflecting Food Hedge Design
+## Deer-Deflecting Food Hedge Design
 
 A deer-deflecting food hedge — sometimes called a "fedge" — is a multi-strata
 planting that serves simultaneously as a wildlife barrier, food production zone,

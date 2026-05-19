@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# María Pastora — Salvia Divinorum and Mazatec Healing Practices
+## María Pastora — Salvia Divinorum and Mazatec Healing Practices
 
 ## Overview
 

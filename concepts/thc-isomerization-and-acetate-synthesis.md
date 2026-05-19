@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# Cannabis Isomerization and THC Acetate Synthesis
+## Cannabis Isomerization and THC Acetate Synthesis
 
 > Based on Chapters Two and Three of *Cannabis Alchemy* by Ben Lemon.
 

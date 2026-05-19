@@ -5,7 +5,7 @@ type: entity
 tags: [hydrology, forest-ecology, water-cycle, tree-interaction]
 ---
 
-# Throughfall
+## Throughfall
 
 ## Description
 

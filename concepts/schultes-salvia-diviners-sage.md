@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-#  have attracted significant attention
+##  have attracted significant attention
 from the scientific community since the early 2000s. Researchers have
 investigated its potential as a treatment for depression, anxiety, and
 substance use disorders, given its unique [[salvinorin-a-kappa-opioid-receptor-pharmacology]]

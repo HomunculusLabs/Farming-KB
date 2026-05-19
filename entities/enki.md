@@ -5,7 +5,7 @@ type: entity
 tags: [deity, sumerian, mythology, entheogen]
 ---
 
-# Enki
+## Enki
 
 ## Description
 

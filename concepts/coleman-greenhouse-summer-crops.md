@@ -2,7 +2,7 @@
 title: Coleman Greenhouse Summer Crops
 created: 2026-05-08
 sources:
-  - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - path: raw/raw/papers/eliot-coleman-winter-harvest-handbook.md
     title: The coleman-claytonia-winter-harvest-cultivation Handbook - eliot-coleman
     author: Eliot Coleman
 updated: 2026-05-08
@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Greenhouse Summer Crops — Tomatoes, Cucumbers, Peppers
+## Greenhouse Summer Crops — Tomatoes, Cucumbers, Peppers
 
 ## The Summer Greenhouse Rotation
 

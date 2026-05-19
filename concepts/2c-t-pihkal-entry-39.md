@@ -7,7 +7,7 @@ tags: [psychedelics, pihkal, phenethylamine, 2c-family, synthesis]
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# 2C-T (PIHKAL Entry #39)
+## 2C-T (PIHKAL Entry #39)
 
 2,5-Dimethoxy-4-methylthiophenethylamine
 

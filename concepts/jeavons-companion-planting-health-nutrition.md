@@ -5,11 +5,11 @@ tags: [biointensive, companion-planting, plant-relationships, soil-health,
   nutrition, herbs]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+sources: ["raw/papers/jeavons-john-how-to-grow-more-vegetables.md"]
 type: concept
 ---
 
-# Companion Planting: Health and Nutrition Relationships
+## Companion Planting: Health and Nutrition Relationships
 
 Companion planting is the constructive use of plant relationships by
 gardeners, horticulturists, and farmers. Beyond the basic concept of

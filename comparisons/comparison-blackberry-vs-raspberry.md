@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Blackberry vs Raspberry
+## Blackberry vs Raspberry
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: [https://www.extension.oregonstate.edu, https://www.ucanr.edu, https://
 type: comparison
 ---
 
-# Hazelnut vs Almond vs Walnut Cultivation
+## Hazelnut vs Almond vs Walnut Cultivation
 
 Hazelnuts, almonds, and walnuts are three of the most commercially important nut crops in temperate and Mediterranean climates worldwide. Each has distinct growing requirements, strengths, and weaknesses that make it suited to different regions, scales, and management styles. This comparison covers the practical details growers need to decide which nut tree fits their land, climate, and goals.
 

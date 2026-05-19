@@ -7,7 +7,7 @@ tags: [hydroponics, cannabis, ebb-and-flow, NFT, aeroponics, drip, nutrients, so
 mined: 2026-05-10
 ---
 
-# Hydroponic Growing Systems for Cannabis
+## Hydroponic Growing Systems for Cannabis
 
 ## Overview
 

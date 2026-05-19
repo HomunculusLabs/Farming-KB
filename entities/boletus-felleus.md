@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycota, agaricomycetes, boletales, boletaceae, tylopilus, bitter-bolete, inedible]
 ---
 
-# Boletus felleus
+## Boletus felleus
 
 ## Description
 

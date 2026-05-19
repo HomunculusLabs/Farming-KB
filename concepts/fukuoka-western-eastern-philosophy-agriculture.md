@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka on Western and Eastern Philosophy in Agriculture
+## Fukuoka on Western and Eastern Philosophy in Agriculture
 
 Throughout his travels abroad, Masanobu Fukuoka developed a keen analysis of the philosophical differences between Western and Eastern approaches to nature, agriculture, and knowledge. He observed that Westerners were beginning to question their own philosophical foundations while Japanese people were blindly adopting Western materialism.
 

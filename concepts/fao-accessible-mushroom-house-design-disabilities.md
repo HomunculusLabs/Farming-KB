@@ -1,4 +1,8 @@
-# Accessible Mushroom House Design for People with Disabilities
+---
+title: "Accessible Mushroom House Design for People with Disabilities"
+tags:
+  - concept
+---
 ## FAO Training Manual (2001) — Building Adaptations and Universal Design
 
 The FAO's 2001 training manual [[accessible-mushroom-cultivation-for-disabilities]] can be made fully accessible with thoughtful design adaptations. The
@@ -144,7 +148,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

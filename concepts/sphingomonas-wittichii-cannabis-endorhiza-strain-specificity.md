@@ -14,7 +14,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Sphingomonas wittichii in Cannabis Endorhiza and Strain Specificity
+## Sphingomonas wittichii in Cannabis Endorhiza and Strain Specificity
 
 ## Overview
 

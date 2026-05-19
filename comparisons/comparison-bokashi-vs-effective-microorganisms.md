@@ -20,7 +20,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Bokashi vs Effective Microorganisms (EM)
+## Bokashi vs Effective Microorganisms (EM)
 
 ## Overview
 

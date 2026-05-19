@@ -5,7 +5,7 @@ type: concept
 tags: [mckenna, stropharia, extraterrestrial, panspermia, spore-dispersal, mycology, panspermia-fungal]
 ---
 
-# Stropharia cubensis Extraterrestrial Hypothesis and Spore Dispersal
+## Stropharia cubensis Extraterrestrial Hypothesis and Spore Dispersal
 
 ## Overview
 

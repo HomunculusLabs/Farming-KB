@@ -8,7 +8,7 @@ created: 2026-05-07
 type: query
 ---
 
-# How Do I Prevent and Manage Plant Diseases Organically?
+## How Do I Prevent and Manage Plant Diseases Organically?
 
 ## Short Answer
 

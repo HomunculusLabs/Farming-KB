@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Outdoor Soil Types for Cannabis
+## Outdoor Soil Types for Cannabis
 
 Understanding your native soil type is essential for
 successful outdoor [[psilocybin-north-america-pacific-northwest]], is common in coastal areas and is

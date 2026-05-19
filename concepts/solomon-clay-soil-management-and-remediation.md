@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Solomon Clay Soil Management and Remediation
+## Solomon Clay Soil Management and Remediation
 
 [[container-growing-vegetables-herbs]] in difficult soil conditions. Clay soils present specific challenges: poor drainage, compaction tendency, difficulty working, and slow warming in spring. However, clay also holds nutrients well and retains moisture during drought, making it potentially productive once properly managed.
 

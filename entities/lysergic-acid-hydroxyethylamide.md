@@ -30,7 +30,7 @@ sources:
   - Schultes, R.E. & Hofmann, A. (1979). "Plants of the Gods." McGraw-Hill.
 ---
 
-# Lysergic Acid Hydroxyethylamide (LSH)
+## Lysergic Acid Hydroxyethylamide (LSH)
 
 ## Overview
 

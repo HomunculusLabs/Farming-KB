@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe cubensis: Cattle Association and Probable African Origin
+## Psilocybe cubensis: Cattle Association and Probable African Origin
 
 ## Overview
 

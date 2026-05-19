@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, permaculture, pond-culture, polyculture]
 ---
 
-# Channel Catfish (Ictalurus punctatus)
+## Channel Catfish (Ictalurus punctatus)
 
 ## Description
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Designer States of Consciousness Critique in Food of the Gods
+## Designer States of Consciousness Critique in Food of the Gods
 
 One of the most provocative arguments in *Food of the Gods* is Terence
 McKenna's critique of what he calls "designer states of consciousness,"

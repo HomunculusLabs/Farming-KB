@@ -13,7 +13,7 @@ sources: []
 type: comparison
 ---
 
-# Black Soldier Fly Composting vs Earthworm Breeding
+## Black Soldier Fly Composting vs Earthworm Breeding
 
 ## Overview
 

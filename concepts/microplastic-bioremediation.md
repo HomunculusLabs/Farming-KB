@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Bioremediation of Microplastics
+## Bioremediation of Microplastics
 
 Microplastics are plastic particles smaller than 5 millimeters in diameter that have become ubiquitous contaminants in terrestrial and aquatic environments worldwide.
 

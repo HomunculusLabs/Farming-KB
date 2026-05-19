@@ -17,7 +17,7 @@ sources:
   - AllBud. "Apple Fritter blesching-cannabis-strain-selection-receptor-targeting." AllBud.com, 2024.
   - Weedmaps. "Apple Fritter: Strain Review." Weedmaps.com, 2025.---
 
-# Apple Fritter
+## Apple Fritter
 
 **Apple Fritter** is an indica-dominant [[animal-cookies]]**, this strain won first place at the 2016 High Times Northern California Cannabis Cup. It has since become one of the most sought-after dessert strains in the modern cannabis market.
 

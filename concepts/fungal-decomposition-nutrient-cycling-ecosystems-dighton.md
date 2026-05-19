@@ -7,7 +7,7 @@ tags: [fungal-ecology, soil, nitrogen-cycling, ecosystem]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Fungal Decomposition and Nutrient Cycling in Ecosystems (Dighton)
+## Fungal Decomposition and Nutrient Cycling in Ecosystems (Dighton)
 
 Updated: 2026-04-18
 

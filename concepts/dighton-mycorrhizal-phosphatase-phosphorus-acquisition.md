@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizal Phosphatase Enzyme Activity and Phosphorus Acquisition
+## Mycorrhizal Phosphatase Enzyme Activity and Phosphorus Acquisition
 
 Mycorrhizal fungi play a central role in phosphorus acquisition for host plants,
 particularly in soils where phosphorus is bound in organic or complex inorganic

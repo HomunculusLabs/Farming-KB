@@ -5,7 +5,7 @@ tags: [farming, natural-farming, rice, barley, no-till, rotation, fukuoka]
 created: 2026-05-08
 ---
 
-# Fukuoka Rice-Barley Succession
+## Fukuoka Rice-Barley Succession
 
 The [[fukuoka-critique-scientific-agriculture-civilization]], yet it produces
 yields that equal or exceed the top-producing farms in Japan. The system

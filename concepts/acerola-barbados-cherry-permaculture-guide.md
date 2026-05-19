@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# Acerola — Barbados Cherry (*Malpighia glabra*)
+## Acerola — Barbados Cherry (*Malpighia glabra*)
 
 ## Overview
 

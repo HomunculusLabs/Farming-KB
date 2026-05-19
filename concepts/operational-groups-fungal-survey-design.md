@@ -5,7 +5,7 @@ tags: [mycology, biodiversity, fungal-survey, ecology, methodology, sampling-des
 created: 2026-05-09
 ---
 
-# Operational Groups in [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]] surveys are organized along taxonomic lines.
+## Operational Groups in [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]] surveys are organized along taxonomic lines.
 For fungi, this approach breaks down. Fungal taxa span multiple
 kingdoms and are so ecologically diverse that taxonomic organization
 creates enormous duplication. An ascomycete on living leaves requires

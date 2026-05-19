@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Reflective Hoods and Light Distribution
+## Reflective Hoods and Light Distribution
 
 Reflective hoods are critical components of indoor [[cervantes-high-pressure-sodium-lighting]], and
 [[cervantes-light-movers]] can also improve distribution from

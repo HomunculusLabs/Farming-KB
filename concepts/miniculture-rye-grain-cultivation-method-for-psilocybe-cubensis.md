@@ -15,7 +15,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Miniculture Rye Grain Cultivation Method for Psilocybe cubensis
+## Miniculture Rye Grain Cultivation Method for Psilocybe cubensis
 
 The miniculture system developed by Bigwood and Beug (1982) is a scaled-down cultivation approach using half-pint jars of rye grain that enables controlled, reproducible fruiting of [[fungi-cultivated-mushrooms-pathogens-competitors]] fruit best near neutral pH.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/coleman-new-organic-grower.md"
 type: comparison
 ---
-# Root Cellaring vs Food Dehydration
+## Root Cellaring vs Food Dehydration
 
 ## Overview
 

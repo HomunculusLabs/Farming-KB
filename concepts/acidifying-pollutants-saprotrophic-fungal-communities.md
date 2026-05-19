@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Acidifying Pollutants and Saprotrophic Fungal Communities
+## Acidifying Pollutants and Saprotrophic Fungal Communities
 
 Saprotrophic fungi, which decompose dead organic matter and drive nutrient cycling in terrestrial ecosystems, are affected by acidifying pollutants through multiple mechanisms distinct from those affecting mycorrhizal fungi. The sulfur-containing pollutants that constitute acid rain produce toxic solubility products that directly inhibit fungal growth and decomposition, while nitrogen deposition indirectly alters competitive dynamics within fungal communities. Additionally, changes in saprotrophic fungal communities cascade through soil food webs, affecting faunal communities that depend on fungi as food resources.
 

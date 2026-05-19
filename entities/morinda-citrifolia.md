@@ -19,7 +19,7 @@ sources:
   - Nelson, S.C. & Elevitch, C.R. (2015). "Morinda citrifolia (Noni): Production, Processing, and Marketing." Permanent Agriculture Resources (PAR), Holualoa, Hawai'i.
 ---
 
-# Morinda citrifolia
+## Morinda citrifolia
 
 **Noni** is an evergreen shrub or small tree in the coffee family (Rubiaceae), native to [[food-forest]] Integration
 - Canopy mid-layer or understory tree depending on placement

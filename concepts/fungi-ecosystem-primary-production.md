@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi in Ecosystem Primary Production
+## Fungi in Ecosystem Primary Production
 
 Fungi play multifaceted and essential roles in moderating the rate of primary production by plants in terrestrial ecosystems. From their partnership in [[lichen-symbiosis]] to their intimate associations with vascular plant roots as mycorrhizae, fungi are integral to the flow of energy and nutrients that sustains ecosystem productivity. Understanding these roles is critical for predicting how ecosystems will respond to environmental change, land use alteration, and biodiversity loss.
 

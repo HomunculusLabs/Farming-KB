@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, hash, extraction, dry-sieve, kief]
 ---
 
-# Dry Sieve Hash and the Pollinator
+## Dry Sieve Hash and the Pollinator
 
 Dry sieving is one of the most accessible and widely used
 methods for making hash. Cervantes first saw sieved cannabis

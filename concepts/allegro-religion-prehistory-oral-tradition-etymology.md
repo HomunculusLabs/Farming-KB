@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Religion, Prehistory, Oral Tradition, and Etymology
+## Religion, Prehistory, Oral Tradition, and Etymology
 
 ## Religion from Dependency on Nature
 

@@ -5,7 +5,7 @@ type: entity
 tags: [soil-science, plant-health, nutrient-cycling, brix, sugar-content]
 ---
 
-# Brix (Soil Measurement)
+## Brix (Soil Measurement)
 
 ## Description
 

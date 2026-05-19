@@ -5,10 +5,10 @@ type: species
 tags: [arecaceae, betel-nut, stimulant, arecoline, traditional-use]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+sources: ["raw/papers/a-golden-guide-to-hallucinogenic-plants.md"]
 ---
 
-# Areca catechu
+## Areca catechu
 
 **Areca catechu**, the **areca palm** or **betel nut palm**, is a species of palm native to the Philippines, Malaysia, India, and other [[fukuoka-natural-farming-in-tropical-regions]] of South and [[cervantes-selfing-single-seed-descent]] (the betel nut) that is hard, fibrous, and reddish-brown to dark brown.
 

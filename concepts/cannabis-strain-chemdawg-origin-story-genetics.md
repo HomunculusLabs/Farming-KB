@@ -6,7 +6,7 @@ topics: ["cannabis", "strains", "sativa", "breeding-history", "legendary-strains
 aliases: ["Chemdawg strain", "Chemdog strain", "Chemdawg 91"]
 ---
 
-# Chemdawg: Origin Story, Genetics, and Legacy
+## Chemdawg: Origin Story, Genetics, and Legacy
 
 ## The Legend
 

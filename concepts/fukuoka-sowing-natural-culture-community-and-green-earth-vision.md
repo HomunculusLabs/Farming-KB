@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Natural Culture Community and the Vision of Green Earth
+## Natural Culture Community and the Vision of Green Earth
 
 In the closing philosophical chapters of *Sowing Seeds in the Desert*,
 Masanobu Fukuoka articulated his vision for an alternative civilization he

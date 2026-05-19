@@ -8,7 +8,7 @@ type: concept
 tags: [lsd]
 ---
 
-# Discovery of LSD-25 and Bicycle Day 1943
+## Discovery of LSD-25 and Bicycle Day 1943
 
 ## The Systematic Origins
 

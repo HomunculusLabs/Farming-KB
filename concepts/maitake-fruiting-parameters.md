@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Fruiting Parameters
+## Maitake Fruiting Parameters
 
 [[grifola-frondosa]] (maitake/hen-of-the-woods) requires precise environmental control during the fruiting phase. Successful cultivation demands careful management of temperature, humidity, ventilation, light, and substrate moisture — each parameter tightly interlinked with the others.
 

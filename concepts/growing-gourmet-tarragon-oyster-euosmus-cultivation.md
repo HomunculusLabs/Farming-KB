@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Tarragon Oyster Mushroom ([[agar-culture-techniques-detailed]].
+## Tarragon Oyster Mushroom ([[agar-culture-techniques-detailed]].
 
 ## Microscopic Features
 

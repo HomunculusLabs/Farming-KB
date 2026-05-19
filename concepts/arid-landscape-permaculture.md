@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Arid Landscape Permaculture
+## Arid Landscape Permaculture
 
 [[permaculture-design]] in arid landscapes is governed by one principle: **water is the
 limiting factor, not food.** Where water is available, deserts can be extraordinarily

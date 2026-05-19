@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Datura stramonium L.
+## Datura stramonium L.
 
 ## Common Names
 

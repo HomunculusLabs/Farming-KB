@@ -3,14 +3,14 @@ title: Fukuoka Schools Of Natural Farming
 created: 2026-05-08
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
+  - path: raw/raw/papers/masanobu-fukuoka-fukuoka.md
     title: The One-Straw Revolution - masanobu-fukuoka
     author: Masanobu Fukuoka
 updated: 2026-05-08
 type: concept
 tags: [reference]
 ---
-# Schools of Natural Farming — Mahayana and Hinayana
+## Schools of Natural Farming — Mahayana and Hinayana
 
 ## Two Kinds of Natural Farming
 

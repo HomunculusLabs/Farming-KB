@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Sachamama: The Mother of the Forest
+## Sachamama: The Mother of the Forest
 
 The Sachamama (from Quechua: sacha = forest, mama = mother) is one of the most powerful beings in Amazonian cosmology. She appears as an enormous serpent, so large that trees and weeds grow on her back. People can walk on her without realizing they are standing on this dangerous creature. She is associated with the element of earth and the land's power over the elements.
 

@@ -4,7 +4,7 @@ source: bill-[[mollison-designers-community-garden-design-urban-permaculture|mol
 type: concept
 ---
 
-# Urban Permaculture Design Strategies
+## Urban Permaculture Design Strategies
 
 Urban [[permaculture]] applies the same design principles used for broadacre systems to tiny spaces, but the constraints and opportunities shift dramatically. In urban areas, the main strategies revolve around maximizing vertical space, making optimal plant choices, leveraging social organization, and creating productive links between city and countryside.
 

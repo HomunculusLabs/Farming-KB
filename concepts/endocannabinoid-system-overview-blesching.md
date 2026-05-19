@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [endocannabinoid, ECS, CB1, CB2, homeostasis, neuroprotection]
 ---
 
-# Endocannabinoid System (ECS) Overview
+## Endocannabinoid System (ECS) Overview
 
 ## Overview
 

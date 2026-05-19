@@ -18,7 +18,7 @@ sources:
   - Yokoyama R, Honda D (2007). "Taxonomic rearrangement of the genus Schizochytrium." Mycoscience, 48, 215-224.
 ---
 
-# Schizochytrium limacinum
+## Schizochytrium limacinum
 
 ## Overview
 

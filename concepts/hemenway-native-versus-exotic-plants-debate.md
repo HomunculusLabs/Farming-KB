@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
 type: concept
 ---
-# Native Versus Exotic Plants Debate in Ecological Gardening [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. The ecological garden is the
+## Native Versus Exotic Plants Debate in Ecological Gardening [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. The ecological garden is the
 backyard expression of this philosophy.
 
 ## Practical Strategy

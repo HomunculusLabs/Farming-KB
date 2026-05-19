@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Coastal Trees and Salt-Tolerant Forage Plants
+## Coastal Trees and Salt-Tolerant Forage Plants
 
 Coastal and saline environments demand specially adapted tree species and forage plants capable of surviving salt spray, periodic inundation, and sandy or waterlogged soils. This page covers key tree species for coastal permaculture systems and salt-tolerant forage plants for livestock integration in challenging environments.
 

@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
-# [[oner-cannabis-co2-solvent-extraction]]
+## [[oner-cannabis-co2-solvent-extraction]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

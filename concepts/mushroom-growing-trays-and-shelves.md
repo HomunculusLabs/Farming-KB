@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms, cultivation]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
-# Mushroom Growing Trays and Shelves The physical infrastructure for holding substrate during colonization and fruiting is a defining feature of [[growing-gourmet-growing-room-ventilation-air-exchange]]. Shelves are typically tiered at 18-24 inch vertical intervals, with each tier serving as a growing bed.
+## Mushroom Growing Trays and Shelves The physical infrastructure for holding substrate during colonization and fruiting is a defining feature of [[growing-gourmet-growing-room-ventilation-air-exchange]]. Shelves are typically tiered at 18-24 inch vertical intervals, with each tier serving as a growing bed.
 
 The advantages of shelf systems include better space utilization (no gaps between trays), lower equipment costs (no trays to purchase or maintain), and more compost per square foot of growing room floor space. Shelves also eliminate the labor of moving trays between rooms.
 

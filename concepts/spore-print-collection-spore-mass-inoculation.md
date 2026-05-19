@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Spore Print Collection and Spore Mass Inoculation
+## Spore Print Collection and Spore Mass Inoculation
 
 ## Overview
 

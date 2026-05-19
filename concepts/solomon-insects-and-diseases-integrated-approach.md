@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Solomon on Insects and Diseases (Integrated Approach)
+## Solomon on Insects and Diseases (Integrated Approach)
 
 From [[permaculture-plant-stacking-vertical-guilds]]
 - [[solomon-gardening-when-it-counts-index]]

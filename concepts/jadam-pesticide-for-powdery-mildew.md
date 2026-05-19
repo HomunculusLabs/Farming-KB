@@ -19,7 +19,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Pesticide for Powdery Mildew
+## JADAM Pesticide for Powdery Mildew
 
 Powdery mildew and downy mildew are among the most common and destructive fungal diseases. JADAM controls them with [[jadam-sulfur-js]] combined with [[jadam-wetting-agent-jwa]]. Early intervention is critical -- JS is a germicide, not a cure for advanced infection.
 

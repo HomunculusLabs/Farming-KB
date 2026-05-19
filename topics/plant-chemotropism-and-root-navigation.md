@@ -24,7 +24,7 @@ sources:
   - Bais, H. P., et al. (2004). Allelopathy and exotic plant invasion: from molecules and genes to species interactions. *Science*, 305(5690), 1122-1126.
 ---
 
-# Plant Chemotropism and Root Navigation
+## Plant Chemotropism and Root Navigation
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [permaculture, food-forest, gardening, fruit-tree]
 sources: [raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-h.md]
 ---
 
-# Backyard Food Forest Design
+## Backyard Food Forest Design
 
 A food forest is a multi-layered edible garden modeled on forest ecosystems. Even a small backyard (1/8 to 1/4 acre) can support a productive food forest that provides fruit, nuts, vegetables, herbs, and medicinal plants year-round with minimal maintenance.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Seeds in the Dirt
+## Seeds in the Dirt
 
 ## The Philosophy of Scattering Seed
 

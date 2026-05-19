@@ -1,5 +1,5 @@
 ---
-title: mandrake-mandragora-officinarum-in-european-folklore
+title: "Mandragora Officinarum"
 created: 2026-04-28
 type: species
 tags: [solanaceae, tropane-alkaloids, hallucinogen, ethnobotany, folklore]
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Mandragora officinarum
+## Mandragora officinarum
 
 **Mandrake** is a perennial herbaceous plant in the nightshade family
 (Solanaceae), native to the Mediterranean region and extending eastward

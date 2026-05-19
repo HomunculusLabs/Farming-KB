@@ -5,7 +5,7 @@ type: entity
 tags: [vascular-tissue, water-transport, nutrient-transport, plant-anatomy, lignin]
 ---
 
-# Xylem
+## Xylem
 
 ## Description
 

@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Mazatec Mushroom Veladas: Darkness, Singing, and Christian Syncretism
+## Mazatec Mushroom Veladas: Darkness, Singing, and Christian Syncretism
 
 [[mazatec-mushroom-tradition]] was brought to international attention by
 R. gordon-wasson's 1957 article describing his experiences with Maria

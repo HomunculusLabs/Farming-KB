@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Petroleum Degradation by Fungi
+## Petroleum Degradation by Fungi
 
 [[petroleum-hydrocarbon-fungal-biodegradation]]
 by fungi, particularly white rot species, represents one of the most promising

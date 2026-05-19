@@ -5,7 +5,7 @@ type: entity
 tags: [vegetable, ground-cover, coastal, saline-tolerant, australia, new-zealand, edible]
 ---
 
-# Tetragonia tetragonioides (Warrigal Cabbage, New Zealand Spinach)
+## Tetragonia tetragonioides (Warrigal Cabbage, New Zealand Spinach)
 
 ## Description
 

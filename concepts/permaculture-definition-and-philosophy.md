@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Definition and Philosophy
+## Permaculture Definition and Philosophy
 
 ## The Preface and Movement History
 

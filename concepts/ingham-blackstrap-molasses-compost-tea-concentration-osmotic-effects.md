@@ -1,4 +1,8 @@
-# Blackstrap Molasses in Compost Tea: Selection, Concentration, and Osmotic Effects
+---
+title: "Blackstrap Molasses in Compost Tea: Selection, Concentration, and Osmotic Effects"
+tags:
+  - concept
+---
 **Source:** The Field Guide I for Actively [[edaphic-factors-microbial-community-structure]], and why dried cane sugar products are NOT equivalent substitutes. The key principle is that molasses concentration directly controls whether the tea grows primarily bacteria, primarily fungi, or a balanced mixture of both.
 
 ## Molasses Type: Why Unsulfured Blackstrap Is Essential

@@ -8,7 +8,7 @@ type: concept
 tags: [entheogen]
 ---
 
-# Morning Glory Entheogens
+## Morning Glory Entheogens
 
 The morning glory family (Convolvulaceae) includes several species
 whose seeds contain psychoactive ergoline alkaloids. The most

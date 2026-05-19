@@ -7,7 +7,7 @@ tags: [cannabis, indoor, equipment, lighting, beginner, cultivation, humidity, c
 sources: []
 ---
 
-# Cannabis Indoor Growing Basics
+## Cannabis Indoor Growing Basics
 
 ## Overview
 

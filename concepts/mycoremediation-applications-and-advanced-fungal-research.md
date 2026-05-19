@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycoremediation Applications and Advanced Fungal Research
+## Mycoremediation Applications and Advanced Fungal Research
 
 [[mycoremediation]] -- the use of fungi to degrade, sequester, or otherwise remove environmental contaminants -- represents one of the most promising applications of mycology in environmental science. This field spans from classroom demonstrations to college-level research and engineering, with fungi demonstrating remarkable abilities to break down pollutants, control erosion, filter water, and even contribute to biofuel production. Beyond remediation, advanced fungal research explores bacterial-fungal interactions, novel metabolite discovery, and the development of fungal-based consumer products.
 

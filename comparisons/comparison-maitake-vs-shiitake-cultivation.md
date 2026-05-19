@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Maitake vs Shiitake Cultivation
+## Maitake vs Shiitake Cultivation
 
 ## Overview
 

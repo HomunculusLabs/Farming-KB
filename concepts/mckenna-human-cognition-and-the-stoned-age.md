@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Human Cognition and the Stoned Age
+## Human Cognition and the Stoned Age
 
 ## The Stoned Ape Hypothesis Overview
 

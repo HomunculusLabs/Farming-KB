@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Salt-Tolerant Shrubs and Trees
+## Salt-Tolerant Shrubs and Trees
 
 Salt-tolerant plants are essential components of permaculture systems in arid, semi-arid, and coastal regions where soil salinity is a significant challenge. These plants have evolved mechanisms to survive and even thrive in saline conditions, making them invaluable for land rehabilitation, forage production, [[amphibian-habitat-creation]] on marginal lands.
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Maximize Terpene and Resin Production in Cannabis
+## How to Maximize Terpene and Resin Production in Cannabis
 
 ## Short Answer
 

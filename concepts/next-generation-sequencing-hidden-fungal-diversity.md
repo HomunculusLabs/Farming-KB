@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Next-Generation Sequencing and Hidden Fungal Diversity
+## Next-Generation Sequencing and Hidden Fungal Diversity
 
 Next-generation sequencing (NGS) technologies have revolutionized the
 documentation of [[mycetozoan-survey-methods-substratum-plating]].

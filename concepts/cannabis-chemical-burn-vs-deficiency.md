@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Chemical Burn Versus Nutrient Deficiency
+## Cannabis Chemical Burn Versus Nutrient Deficiency
 
 One of the most important diagnostic skills in cannabis cultivation is distinguishing between chemical burn (nutrient toxicity) and true nutrient deficiency. These two problems can produce similar visual symptoms but require opposite treatments. Applying more nutrients to a plant with chemical burn will worsen the problem, while flushing a plant with a genuine deficiency will delay its recovery.
 

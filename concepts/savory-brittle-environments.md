@@ -10,7 +10,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Brittle and Nonbrittle Environments
+## Brittle and Nonbrittle Environments
 
 The second of Savory's four missing keys is the recognition that environments can be classified on a continuum from brittle to nonbrittle according to their decay and successional processes. This distinction explains why management practices that heal one type of environment can destroy another—and why over half the earth's land surface is desertifying despite our best efforts.
 

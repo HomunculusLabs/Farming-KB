@@ -3,7 +3,7 @@ title: Fungal Conservation Challenges
 created: 2026-04-28
 ---
 
-# Fungal Conservation Challenges
+## Fungal Conservation Challenges
 
 Fungi are among the most threatened yet least protected groups of
 organisms on Earth. Despite their fundamental ecological roles as

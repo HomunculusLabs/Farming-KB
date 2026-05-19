@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis for Epilepsy and Seizure Disorders
+## Cannabis for Epilepsy and Seizure Disorders
 
 Epilepsy is a neurological disorder characterized by recurrent, unprovoked
 seizures resulting from excessive synchronous neuronal activity in the brain.

@@ -5,7 +5,7 @@ source: "accessible-mushroom-cultivation-for-disabilities"
 created: 2026-05-09
 ---
 
-# PF TEK Spore Syringe Sterilization and Preparation Technique
+## PF TEK Spore Syringe Sterilization and Preparation Technique
 
 ## Overview
 

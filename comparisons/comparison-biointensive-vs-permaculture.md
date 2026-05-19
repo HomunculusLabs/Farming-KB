@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Biointensive vs Permaculture
+## Biointensive vs Permaculture
 
 ## Overview
 GROW BIOINTENSIVE and permaculture represent two influential approaches to sustainable

@@ -8,7 +8,7 @@ sources: [raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# Fungal Filter Barnyard Waste Remediation
+## Fungal Filter Barnyard Waste Remediation
 
 Mycelial filters offer a practical, low-cost solution for managing
 fecal coliforms and nutrient runoff from barnyard and poultry

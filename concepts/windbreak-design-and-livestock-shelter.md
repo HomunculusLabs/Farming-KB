@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Windbreak Design and Livestock Shelter
+## Windbreak Design and Livestock Shelter
 
 Windbreaks (also called shelterbelts) are one of the most cost-effective and multi-functional elements in [[eucalyptus-camaldulensis]]
 

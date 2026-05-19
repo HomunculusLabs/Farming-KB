@@ -5,7 +5,7 @@ type: entity
 tags: [supplement, nutrition, compost-additive, organic-nutrient]
 ---
 
-# Cotton Seed Meal
+## Cotton Seed Meal
 
 ## Description
 

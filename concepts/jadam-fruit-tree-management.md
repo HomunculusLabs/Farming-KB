@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JADAM Fruit Tree Management
+## JADAM Fruit Tree Management
 
 ## Overview
 

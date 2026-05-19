@@ -5,7 +5,7 @@ type: entity
 tags: [species, vegetable, soil-rehabilitation, deep-rooting, green-manure, cover-crop]
 ---
 
-# Daikon Radish (Raphanus sativus var. longipinnatus)
+## Daikon Radish (Raphanus sativus var. longipinnatus)
 
 ## Description
 

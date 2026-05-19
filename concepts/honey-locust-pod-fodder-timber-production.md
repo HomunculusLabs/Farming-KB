@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-selection-permaculture-plants.md]
 type: concept
 ---
-# Honey Locust Pod Fodder and Timber Production
+## Honey Locust Pod Fodder and Timber Production
 
 Honey locust ([[polypore-fungi-eastern-north-america]]. It combines
 high-quality stock fodder from its pods with valuable timber, making it

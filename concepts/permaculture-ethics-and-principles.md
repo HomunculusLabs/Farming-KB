@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Permaculture Ethics and Principles
+## Permaculture Ethics and Principles
 
 Permaculture is a design system founded by Bill Mollison and David Holmgren in the 1970s, grounded in three core ethics and elaborated through a set of design principles that guide the creation of sustainable, self-maintaining human settlements and agricultural systems.
 

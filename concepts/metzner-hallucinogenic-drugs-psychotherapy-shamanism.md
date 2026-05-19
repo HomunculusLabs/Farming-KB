@@ -5,7 +5,7 @@ tags: [metzner, hallucinogenic, psychotherapy, shamanism, overview, cross-cultur
 created: 2026-05-08
 ---
 
-# Metzner on Hallucinogenic Drugs in Psychotherapy and [[psycholytic-vs-psychedelic-therapy-models]]
+## Metzner on Hallucinogenic Drugs in Psychotherapy and [[psycholytic-vs-psychedelic-therapy-models]]
 
 - [[metzner-psycholytic-psychedelic-therapy-models]] historical overview
 

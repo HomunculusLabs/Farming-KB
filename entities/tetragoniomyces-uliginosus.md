@@ -5,7 +5,7 @@ type: entity
 tags: [basidiomycete, mycoparasite, tremellales, micropore, haustorial]
 ---
 
-# Tetragoniomyces uliginosus
+## Tetragoniomyces uliginosus
 
 ## Description
 

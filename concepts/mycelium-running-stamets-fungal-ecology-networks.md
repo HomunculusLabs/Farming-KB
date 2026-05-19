@@ -9,7 +9,7 @@ type: concept
 tags: [ecology, fungi, mycelium]
 ---
 
-# Fungal Ecology Networks — Mycelium Running
+## Fungal Ecology Networks — Mycelium Running
 
 In "Mycelium Running," Paul Stamets develops the concept of mycelium as the Earth's biological Internet -- a vast, sentient, information-sharing network that underpins all terrestrial ecosystems. He argues that [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] is one of the most successful evolutionary strategies. Bebber et al. (2007) further explored how understanding information networks in their many forms will lead to a quantum leap in computational power.
 

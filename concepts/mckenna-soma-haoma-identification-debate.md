@@ -6,7 +6,7 @@ tags: [soma, haoma, vedic, zoroastrian, amanita, fly-agaric, peganum-harmala, wa
 created: 2026-05-11
 ---
 
-# The Soma and Haoma Identification Debate
+## The Soma and Haoma Identification Debate
 
 One of the most enduring mysteries in the history of religion and ethnobotany is the identity of **Soma**, the sacred plant deified in the Rig Veda as the giver of immortality, inspiration, and divine ecstasy. McKenna devotes a full chapter of *Food of the Gods* to this question, surveying the candidates and offering his own assessment. The debate touches on linguistics, archaeology, chemistry, comparative religion, and the fraught relationship between scholarship and personal experience.
 

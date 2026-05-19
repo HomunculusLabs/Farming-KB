@@ -1,4 +1,8 @@
-# Vipassana: Mindfulness and Stress Reduction for Healing
+---
+title: "Vipassana: Mindfulness and Stress Reduction for Healing"
+tags:
+  - concept
+---
 
 ## Overview
 

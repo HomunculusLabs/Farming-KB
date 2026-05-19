@@ -4,7 +4,7 @@ source: Gaia's Garden - A Guide to Home-Scale Permaculture (Toby Hemenway)
 topics: greywater, constructed-wetland-design
 ---
 
-# Greywater Wetland Plants for Backyard Treatment Systems
+## Greywater Wetland Plants for Backyard Treatment Systems
 
 ## Overview
 

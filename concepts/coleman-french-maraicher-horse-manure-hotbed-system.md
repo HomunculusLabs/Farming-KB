@@ -4,7 +4,7 @@ source: Coleman, E. (2009). The Winter Harvest Handbook. Chelsea Green Publishin
 tags: [french-maraicher, hotbed, horse-manure, season-extension, winter-growing, coleman, historical-agriculture]
 ---
 
-# French Maraîcher Horse Manure Hotbed System
+## French Maraîcher Horse Manure Hotbed System
 
 ## Overview
 

@@ -13,7 +13,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Challenge Microorganisms for Microwave Surface Sterilization
+## Challenge Microorganisms for Microwave Surface Sterilization
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# Food Forest Ground Covers, Bamboos and Support Plants (Nugent & Boniface)
+---
+title: "Food Forest Ground Covers, Bamboos and Support Plants (Nugent & Boniface)"
+tags:
+  - concept
+---
 
 **Source:** Jeff Nugent & Julia Boniface, *[[permplant-willows-salix-erosion-control-fodder]]
 - **Lampranthus spp**: [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[pdc-food-forest-design-and-forest-ecology]]-forests-multiple-canopy-systems
 - [[eucalyptus-permaculture]]
-- [[holzer-thailand-permaculture-project]]

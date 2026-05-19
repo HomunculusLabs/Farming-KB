@@ -12,7 +12,7 @@ sources:
 type: comparison
 ---
 
-# Horseradish vs Wasabi vs Mustard: Cultivation Comparison
+## Horseradish vs Wasabi vs Mustard: Cultivation Comparison
 
 Horseradish (*[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]], offsets, seed | Direct seed |
 | Yield | 1–2 kg/plant (root) | 100–300 g/plant (rhizome) | 500–1000 kg/ha (seed) |

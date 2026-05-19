@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JMS Pesticide (JADAM Recipe #11)
+## JMS Pesticide (JADAM Recipe #11)
 
 **Updated:** 2026-04-18
 **Source:** JADAM [[jadam-microorganism-solution-jms]] 20 L (5.3 gal)

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Creosote-Contaminated Soil Mycoremediation
+## Creosote-Contaminated Soil Mycoremediation
 
 Creosote is a complex mixture of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and
 phenolic compounds that has been used extensively as a wood preservative.

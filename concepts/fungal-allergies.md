@@ -7,7 +7,7 @@ tags: [mycology, fungi, health, medicine, biology, ecology, safety]
 sources: []
 ---
 
-# Fungal Allergies
+## Fungal Allergies
 
 ## Overview
 

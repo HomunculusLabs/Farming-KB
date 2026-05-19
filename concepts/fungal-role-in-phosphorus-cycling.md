@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, nutrients, ecology]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Fungal Role in Phosphorus Cycling
+## Fungal Role in Phosphorus Cycling
 
 Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi play a central role in making phosphorus available to plants through mineral weathering, organic matter decomposition, and mycorrhizal symbiosis. Without fungi, most soil phosphorus would remain locked in unavailable forms.
 

@@ -13,7 +13,7 @@ sources: [raw/papers/forest-gardening-robert-hart.md]
 related_concepts: "mycorrhizal-fungi, the-soil-food-web, mycelium-networks-and-fungal-ecology, composting-and-soil-biology, plant-sensory-biology-and-intelligence, living-soil-cannabis-cultivation, companion-planting-and-polycultures"
 ---
 
-# The Rhizosphere: Ecology and Plant-Microbe Interactions
+## The Rhizosphere: Ecology and Plant-Microbe Interactions
 
 ## Introduction
 

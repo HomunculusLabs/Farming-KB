@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Ganoderma resinaceum
+## Ganoderma resinaceum
 
 ## Description
 

@@ -5,7 +5,7 @@ source_path: "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerat
 topics: [aact, fungi, saprophytic, pathogenic, parasitic, mycorrhizal, fungal-ecology, disease-suppression, soil-food-web]
 ---
 
-# Saprophytic vs Pathogenic Fungi: Understanding the Spectrum
+## Saprophytic vs Pathogenic Fungi: Understanding the Spectrum
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Biomonitoring
+## Fungal Biomonitoring
 
 Fungi serve as powerful bioindicators of environmental quality and ecosystem
 health. Their sensitivity to environmental conditions, their [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]**: Natural abundance of 15N in host plants is

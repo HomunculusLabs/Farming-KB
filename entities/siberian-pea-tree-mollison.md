@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, nitrogen-fixer, forage, poultry-feed, tree-crop]
 ---
 
-# Siberian Pea Tree (Caragana arborescens)
+## Siberian Pea Tree (Caragana arborescens)
 
 ## Description
 

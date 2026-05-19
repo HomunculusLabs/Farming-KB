@@ -19,7 +19,7 @@ related_concepts:
   - pdc-sector-analysis-guide
 ---
 
-# Permaculture Zone and Sector Analysis
+## Permaculture Zone and Sector Analysis
 
 Zone and sector analysis are the foundational spatial planning tools of
 permaculture design, developed by Bill Mollison and David Holmgren in the

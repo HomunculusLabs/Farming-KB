@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Insect and Disease Management Philosophy
+## Insect and Disease Management Philosophy
 
 Sir [[albert-howard]], founder of the [[coleman-deep-organic-farming]] movement, believed that before a plant is attacked by insects or disease, it has already become unhealthy. The predator's purpose in nature's scheme is to restore balance — like a wolf pack bringing down a sick animal that has lived too long. A truly healthy plant will either be nearly unassailable or will outgrow insect damage and successfully resist disease.
 

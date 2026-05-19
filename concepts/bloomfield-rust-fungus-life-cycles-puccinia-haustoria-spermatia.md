@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Rust Fungus Life Cycles and the Complexity of Plant Pathology
+## Rust Fungus Life Cycles and the Complexity of Plant Pathology
 
 ## Overview
 

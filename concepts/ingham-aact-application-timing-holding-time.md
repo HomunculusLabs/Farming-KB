@@ -1,4 +1,8 @@
-# AACT Application Timing and Holding Time Guidelines
+---
+title: "AACT Application Timing and Holding Time Guidelines"
+tags:
+  - concept
+---
 
 **Source:** The Field Guide I for [[arbuscule-isolation-metabolic-activity-assays]]. The tea should remain aerobic
 (dissolved oxygen above 5.5 ppm) throughout this period.

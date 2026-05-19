@@ -7,7 +7,7 @@ tags: [permaculture, design, gardening, plant-growth, patterns, methods, ecology
 sources: []
 ---
 
-# Herb Spiral
+## Herb Spiral
 
 The herb spiral is a classic permaculture design element that creates a vertical, spiral-shaped garden bed for growing herbs and culinary plants. By building upward in a spiral, it creates multiple microclimates within a small footprint — from a dry, sunny, well-drained top to a moist, shaded, water-retentive bottom. A single herb spiral can replace a 20-30 foot row of conventional garden bed while providing ideal growing conditions for a diverse range of herbs.
 

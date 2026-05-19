@@ -7,7 +7,7 @@ published: 2007
 tags: [mycorrhiza, carbon-cycle, carbon-sequestration, ectomycorrhiza, arbuscular-mycorrhiza, soil-carbon, plant-community, global-carbon, mycorrhizal-network]
 ---
 
-# Mycorrhizal Fungi and the Terrestrial Carbon Cycle
+## Mycorrhizal Fungi and the Terrestrial Carbon Cycle
 
 ## Overview
 

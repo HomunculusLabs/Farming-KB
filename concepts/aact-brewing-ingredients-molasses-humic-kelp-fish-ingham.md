@@ -4,7 +4,7 @@ source: "Elaine Ingham PhD — The Field Guide I for actively-aerated-compost-te
 tags: [aact, compost-tea, brewing, ingredients, molasses, humic-acid, kelp, fish-hydrolysate, fungal-food, bacterial-food, soil-foodweb]
 ---
 
-# AACT Brewing Ingredients — Molasses, Humic Acids, Kelp, and Fish Products
+## AACT Brewing Ingredients — Molasses, Humic Acids, Kelp, and Fish Products
 
 [[forest-and-bamboo-beneficial-microorganisms]]. The primary inoculant is always **high-quality compost** or **vermicompost** that contains the full diversity of soil foodweb organisms — bacteria, fungi, protozoa, and [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] dominance
 

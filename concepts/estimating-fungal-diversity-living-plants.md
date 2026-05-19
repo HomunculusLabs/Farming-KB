@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Estimating Fungal Diversity on Living Plants
+## Estimating Fungal Diversity on Living Plants
 
 Estimating the total number of fungi associated with living plants is one of the most challenging problems in [[fungal-biodiversity]] science. Fungi colonize virtually every plant tissue and organ, acting as pathogens, endophytes, epiphytes, and commensals. Accurate estimation requires integrating knowledge of host plant diversity, fungal:host species ratios, geographic and ecological variation, and appropriate sampling methodologies.
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Research in Disturbed and Restored Ecosystems
+## Mycorrhizal Research in Disturbed and Restored Ecosystems
 
 ## Overview
 

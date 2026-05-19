@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Fungi and Environmental Change
+## Ectomycorrhizal Fungi and Environmental Change
 
 Ectomycorrhizal (ECM) fungi form mutualistic symbioses with the roots of many forest trees and are critically important mediators of ecosystem responses to environmental change. As key players in nutrient cycling, carbon allocation, and plant community dynamics, ECM fungi are both affected by and modulate the impacts of atmospheric pollution, climate change, elevated CO₂, nitrogen deposition, and other anthropogenic disturbances on forest ecosystems.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Biodegradation of Coal
+## Fungal Biodegradation of Coal
 
 Fungi play a significant role in the transformation and biodegradation of
 coal, particularly low-rank coal (LRC) such as lignite and brown coal.

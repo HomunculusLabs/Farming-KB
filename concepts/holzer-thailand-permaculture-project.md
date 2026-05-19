@@ -7,7 +7,7 @@ tags: [holzer, permaculture, homesteading]
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Holzer Thailand Permaculture Project
+## Holzer Thailand Permaculture Project
 
 A [[fungal-building-material-deterioration]]. Storage rooms and even houses could be built simply and very inexpensively using local clay.
 

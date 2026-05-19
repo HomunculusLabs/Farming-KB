@@ -7,7 +7,7 @@ tags: [cannabis, breeding, genetics, hybrid, inbreeding, backcrossing, selection
 mined: 2026-05-10
 ---
 
-# Cannabis Breeding and Genetics
+## Cannabis Breeding and Genetics
 
 ## Overview
 

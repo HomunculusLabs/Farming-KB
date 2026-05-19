@@ -6,7 +6,7 @@ tags: [dmt, endogenous, serotonin, brain, pharmacology, tryptamine, onset, neuro
 created: 2026-05-08
 ---
 
-# Endogenous DMT and Brain Familiarity in Tryptamine Pharmacology
+## Endogenous DMT and Brain Familiarity in Tryptamine Pharmacology
 
 ## Overview
 

@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-# Fungal Biodiversity Measurement Methods
+## Fungal Biodiversity Measurement Methods
 
 ## Overview
 

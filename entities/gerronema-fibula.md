@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Gerronema fibula
+## Gerronema fibula
 
 Gerronema fibula (syn. Galerina fibula) is a small, orange-brown mushroom in the
 family Hymenogastraceae. It has a disjunct distribution, found in South America,

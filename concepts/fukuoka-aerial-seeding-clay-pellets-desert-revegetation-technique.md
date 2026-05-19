@@ -10,7 +10,7 @@ tags: [fukuoka, clay-pellets, desert-revegetation, aerial-seeding, seed-balls, n
 aliases: [aerial fukuoka-desert-greening-plant-irrigation pellets, fukuoka aerial seeding]
 ---
 
-# Aerial Seeding Clay Pellets for Desert Revegetation
+## Aerial Seeding Clay Pellets for Desert Revegetation
 
 ## Overview
 

@@ -7,7 +7,7 @@ sources: [papers/chos-global-natural-farming.md]
 updated: 2026-04-26
 ---
 
-# Fish Amino Acid (FAA) Fertilizer
+## Fish Amino Acid (FAA) Fertilizer
 
 Fish Amino Acid (FAA) is a [[comparison-natural-farming-vs-permaculture]].
 

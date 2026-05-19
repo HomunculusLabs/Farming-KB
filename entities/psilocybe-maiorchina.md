@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe maiorchina
+## Psilocybe maiorchina
 
 **Psilocybe maiorchina** is a psilocybin-containing mushroom in the family Hymenogastraceae.
 The species epithet "maiorchina" refers to Mallorca (Majorca), one of the balearic islands

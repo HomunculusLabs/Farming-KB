@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Extending and Storing Yields in Permaculture
+## Extending and Storing Yields in Permaculture
 
 ## Overview
 

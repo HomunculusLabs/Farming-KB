@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Ethics and Permanent Agriculture
+## Permaculture Ethics and Permanent Agriculture
 
 ## Overview
 

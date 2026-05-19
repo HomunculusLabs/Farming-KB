@@ -7,7 +7,7 @@ tags: [grain, homesteading, cultivation, harvesting, processing, agriculture, pl
 sources: []
 ---
 
-# Small Scale Grain Growing
+## Small Scale Grain Growing
 
 Growing grains on a [[homestead-scale-assessment]] provides food security, animal feed, and a deep connection to the agricultural foundation of civilization. Even a small plot (1/4 acre) can produce meaningful quantities of grain for home use. This guide covers the main grains suitable for homestead-scale production.
 

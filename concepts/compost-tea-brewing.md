@@ -7,7 +7,7 @@ tags: [compost, microbes, biology, fertilizer, recipe, gardening, vegetables, re
 sources: []
 ---
 
-# Compost Tea Brewing Guide
+## Compost Tea Brewing Guide
 
 [[actively-aerated-compost-tea-aact-brewing]] (ACT) is a liquid extract of finished compost, brewed with oxygen to multiply [[forest-and-bamboo-beneficial-microorganisms]]. Applied as a soil drench or foliar spray, ACT introduces diverse bacteria, fungi, protozoa, and nematodes to the soil and plant surfaces, boosting nutrient cycling [[compost-tea-application-and-disease-suppression]].
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Solomon on Root Cellaring and Crop Storage
+## Solomon on Root Cellaring and Crop Storage
 
 From [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-gardening-when-it-counts-index]]

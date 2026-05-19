@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# ALEPH (DOT; PARA-DOT)
+## ALEPH (DOT; PARA-DOT)
 
 **Chemical name:** 2,5-Dimethoxy-4-methylthioamphetamine
 **[[dob-entity]]|DOB, [[adverse-effects-and-harm-reduction-psilocybin]] guidelines

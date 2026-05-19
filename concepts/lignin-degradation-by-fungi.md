@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Lignin Degradation by Fungi
+## Lignin Degradation by Fungi
 
 Lignin is one of the most abundant organic polymers on Earth, accounting for
 approximately 20 gigatonnes of the annual terrestrial production of plant cell

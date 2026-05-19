@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Urban Permaculture Systems
+## Urban Permaculture Systems
 
 Urban [[permaculture-principles]] to urban environments, cities can become net producers of food, clean water, and biological resources while reducing their ecological footprint.
 ## Overview

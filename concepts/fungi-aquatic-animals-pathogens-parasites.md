@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungi Associated with Aquatic Animals — Pathogens and Parasites
+## Fungi Associated with Aquatic Animals — Pathogens and Parasites
 More than 250 species of fungi, comprising 86 genera from all major taxonomic
 groups except Basidiomycotina, are recognized from aquatic animals worldwide.
 These include devastating pathogens of fish, crustaceans, mollusks, and other

@@ -7,7 +7,7 @@ tags: [IPM, pest-control, spider-mites, fungus-gnats, thrips, biological-control
 created: 2026-05-11
 ---
 
-# Pest Management and IPM for Cannabis
+## Pest Management and IPM for Cannabis
 
 ## The IPM Hierarchy
 

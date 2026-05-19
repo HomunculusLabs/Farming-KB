@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Cohoba Snuff
+## Cohoba Snuff
 
 Cohoba is the Taíno name for a psychoactive snuff prepared from the
 seeds of [[yopo-snuff]] for the [[kava-traditional-preparation-ceremonial-context]] of cohoba snuff involves a careful

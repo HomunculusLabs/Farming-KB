@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Survey Methodology and Data Limitations
+## EMCDDA Hallucinogenic Mushroom Survey Methodology and Data Limitations
 
 ## Overview
 

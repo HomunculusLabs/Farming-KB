@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [plant-nutrition, nitrogen, soil-chemistry]
 ---
-# Plant-Available Nitrogen: Ammonium and Nitrate
+## Plant-Available Nitrogen: Ammonium and Nitrate
 **Updated:** 2026-05-09
 
 ## Overview

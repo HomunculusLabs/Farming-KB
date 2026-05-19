@@ -17,7 +17,7 @@ sources:
 type: comparison
 ---
 
-# Syntropic Agriculture vs. Permaculture
+## Syntropic Agriculture vs. Permaculture
 
 ## Overview
 

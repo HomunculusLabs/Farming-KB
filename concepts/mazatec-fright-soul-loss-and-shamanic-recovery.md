@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Fright, Soul Loss, and Shamanic Recovery
+## Mazatec Fright, Soul Loss, and Shamanic Recovery
 
 Among the Mazatec Indians of Oaxaca, Mexico, one of the most important categories of illness is a condition they call *fright*—what Western psychiatry might term traumatism or a traumatic neurosis. The Mazatec understanding of fright involves the loss or alienation of the soul, and its treatment through [[psilocybin-mushroom]]-assisted shamanic healing represents a sophisticated psychotherapeutic system that predates and parallels many modern trauma therapies.
 

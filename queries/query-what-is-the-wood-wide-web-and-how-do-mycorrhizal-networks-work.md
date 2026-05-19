@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Wood Wide Web and How Do Mycorrhizal Networks Work?
+## What Is the Wood Wide Web and How Do Mycorrhizal Networks Work?
 
 ## Short Answer
 The "Wood Wide Web" is the popular term for the underground networks formed by

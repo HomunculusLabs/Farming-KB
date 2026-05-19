@@ -5,7 +5,7 @@ type: concept
 tags: [mycology, mushroom-poisoning, toxicology]
 ---
 
-# Cortinarius Webcap Orellanine Kidney Poisoning
+## Cortinarius Webcap Orellanine Kidney Poisoning
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# McKenna on Language and Reality
+## McKenna on Language and Reality
 
 ## Language as a Psychedelic Achievement
 

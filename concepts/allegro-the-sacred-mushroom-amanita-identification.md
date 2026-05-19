@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# The Sacred Mushroom — Amanita Muscaria Identification
+## The Sacred Mushroom — Amanita Muscaria Identification
 
 Allegro identifies the Amanita muscaria (fly agaric) as the specific fungus at the center of [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol, producing [[allegro-death-and-resurrection-in-the-mushroom-cult]]"
 

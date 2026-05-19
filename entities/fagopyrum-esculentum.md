@@ -14,7 +14,7 @@ sources:
   - "raw/papers/a-selection-permaculture-plants.md"
 ---
 
-# Fagopyrum esculentum (Buckwheat)
+## Fagopyrum esculentum (Buckwheat)
 
 ## Overview
 

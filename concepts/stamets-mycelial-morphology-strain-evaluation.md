@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Mycelial [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] cultivators who wish
+## Mycelial [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] cultivators who wish
 to select and develop high-performing strains. [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]].
 
 ## Types of Mycelial Growth

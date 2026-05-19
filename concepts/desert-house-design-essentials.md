@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert House Design Essentials
+## Desert House Design Essentials
 
 Desert housing must achieve the twin qualities of summer cooling and winter warmth while contending with extreme diurnal temperature swings, intense solar radiation, drying winds, water scarcity, and occasional heavy rains. Drawing on traditional architecture from Iran, Afghanistan, Rajasthan, the Mediterranean, and indigenous Australian cultures, [[compost]] on roof provides additional insulation and radiated heat
 

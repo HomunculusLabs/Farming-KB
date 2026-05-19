@@ -5,7 +5,7 @@ type: entity
 tags: [person, mycologist, french, alkaloid, historical]
 ---
 
-# Dr. Boudier
+## Dr. Boudier
 
 ## Description
 

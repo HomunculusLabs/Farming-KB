@@ -7,7 +7,7 @@ tags: [chemistry]
 sources: ["raw/papers/shulgin-a-tihkal.md", "raw/papers/shulgin-a-pihkal.md", "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"]
 ---
 
-# 5-MeO Compounds
+## 5-MeO Compounds
 
 The 5-methoxy substitution on the tryptamine indole ring produces a distinct pharmacological family characterized by high potency, rapid onset, and a characteristically "stoning" rather than visionary quality. The 5-methoxy position mirrors the 4-methoxy position in the [[tihkal-oral-activity-mao-inhibition]], the duration extends dramatically, producing what Shulgin describes as a uniquely extended experience.
 
@@ -40,7 +40,7 @@ The 5-methoxy family shares several [[psilocybin-ego-dissolution-mechanisms]] wi
 
 ## Merged: Structure Activity Relationships Of Tryptamines
 
-# Structure-Activity Relationships of Tryptamines
+## Structure-Activity Relationships of Tryptamines
 
 The structure-activity relationships (SAR) of tryptamines, systematically explored through the 55 entries of TIHKAL, reveal a complex pharmacological landscape where small molecular modifications produce dramatic changes in potency, duration, qualitative character, and route of administration. [[leary-psychedelic-experience-bardo-mapping]], beginning to show partial oral activity at higher doses (50-100 mg).
 

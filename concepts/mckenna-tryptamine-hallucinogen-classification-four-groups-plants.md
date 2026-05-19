@@ -5,7 +5,7 @@ type: concept
 tags: [ethnobotany, entheogens, consciousness, history]
 ---
 
-# Tryptamine Hallucinogen Classification: Four Major Groups of Plants
+## Tryptamine Hallucinogen Classification: Four Major Groups of Plants
 
 ## Overview
 

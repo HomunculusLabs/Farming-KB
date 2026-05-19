@@ -5,7 +5,7 @@ type: entity
 tags: [technique, hash-making, water-wash, cannabis-processing, extraction-refinement]
 ---
 
-# Pittsburgh Doublewash Method
+## Pittsburgh Doublewash Method
 
 ## Description
 

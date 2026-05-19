@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Regulatory Frameworks for Medicinal Mushroom Products Worldwide
+## Regulatory Frameworks for Medicinal Mushroom Products Worldwide
 
 The regulatory status of medicinal mushroom products varies dramatically across countries, from approved pharmaceutical drugs in Japan to [[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]] in the United States. This concept examines the regulatory landscape governing mushroom-derived therapeutics.
 

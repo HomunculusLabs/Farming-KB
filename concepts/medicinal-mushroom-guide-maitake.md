@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-# Maitake (Grifola frondosa)
+## Maitake (Grifola frondosa)
 
 ## Overview
 

@@ -6,7 +6,7 @@ topics: [permaculture, energy-theory, odum, emergy, systems-ecology, holmgren]
 created: 2026-05-10
 ---
 
-# Permaculture Energy Hierarchy and Odum's Influence
+## Permaculture Energy Hierarchy and Odum's Influence
 
 David Holmgren's permaculture framework is deeply informed by the energy
 systems theory of Howard T. Odum (1924–2002), to whom *Principles &

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
-# Turner CydelikSpace and Psychedelic Reality
+## Turner CydelikSpace and Psychedelic Reality
 
 Turner's metaphysical framework describing "CydelikSpace" — a universal state of consciousness accessible through deep psychedelic experiences.
 

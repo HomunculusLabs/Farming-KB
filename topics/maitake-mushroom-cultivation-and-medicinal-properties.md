@@ -5,17 +5,17 @@ tags: [maitake, grifola-frondosa, mushroom-cultivation, medicinal-mushrooms, bet
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/concepts/grifola-frondosa-maitake.md
-  - /Users/t3rpz/wiki/concepts/maitake-cultivation-guide.md
-  - /Users/t3rpz/wiki/concepts/maitake-d-fraction-research.md
-  - /Users/t3rpz/wiki/concepts/maitake-cancer-clinical-research.md
-  - /Users/t3rpz/wiki/concepts/maitake-fruiting-body-morphogenetic-stages.md
-  - /Users/t3rpz/wiki/concepts/maitake-growth-parameters.md
-  - /Users/t3rpz/wiki/concepts/maitake-problem-solving-troubleshooting.md
-  - /Users/t3rpz/wiki/concepts/maitake-soil-casing-technique.md
-  - /Users/t3rpz/wiki/concepts/maitake-spawn-types-and-suppliers.md
-  - /Users/t3rpz/wiki/concepts/maitake-substrate-formulation.md
-  - /Users/t3rpz/wiki/concepts/maitake-mushroom-research.md
+  - raw/concepts/grifola-frondosa-maitake.md
+  - raw/concepts/maitake-cultivation-guide.md
+  - raw/concepts/maitake-d-fraction-research.md
+  - raw/concepts/maitake-cancer-clinical-research.md
+  - raw/concepts/maitake-fruiting-body-morphogenetic-stages.md
+  - raw/concepts/maitake-growth-parameters.md
+  - raw/concepts/maitake-problem-solving-troubleshooting.md
+  - raw/concepts/maitake-soil-casing-technique.md
+  - raw/concepts/maitake-spawn-types-and-suppliers.md
+  - raw/concepts/maitake-substrate-formulation.md
+  - raw/concepts/maitake-mushroom-research.md
 related_concepts:
   - grifola-frondosa-maitake
   - maitake-cultivation-guide
@@ -29,7 +29,7 @@ related_concepts:
   - maitake-spawn-types-and-suppliers
 ---
 
-# Maitake Mushroom Cultivation and Medicinal Properties
+## Maitake Mushroom Cultivation and Medicinal Properties
 
 Grifola frondosa, known as maitake in Japan and "hen of the woods" in
 English-speaking countries, is one of the most significant culinary and

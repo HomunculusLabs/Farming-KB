@@ -10,7 +10,7 @@ tags:
 sources: none
 ---
 
-# Fukuoka Breitenbush Natural Garden
+## Fukuoka Breitenbush Natural Garden
 
 The Breitenbush natural garden in Oregon provides one of the most compelling demonstrations of Fukuoka's natural [[comparison-living-mulch-vs-cover-crops]] ground cover
 - The number of weeds was not as large as it had appeared from a distance

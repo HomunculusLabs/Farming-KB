@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# What Are the Different Fruit Tree Training Systems and Which Should I Use?
+## What Are the Different Fruit Tree Training Systems and Which Should I Use?
 
 ## Short Answer
 

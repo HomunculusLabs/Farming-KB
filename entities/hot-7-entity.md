@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# HOT-7
+## HOT-7
 
 HOT-7 is the N-hydroxy analogue of 2c-t-7-entity|2C-T-7, a psychedelic phenethylamine.
 

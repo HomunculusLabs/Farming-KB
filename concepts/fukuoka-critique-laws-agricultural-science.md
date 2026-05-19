@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# A Critique of the Laws of Agricultural Science
+## A Critique of the Laws of Agricultural Science
 
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 3 of "The [[liebig-law-of-minimum-critique-natural-farming]].
 

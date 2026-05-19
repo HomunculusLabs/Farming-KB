@@ -9,7 +9,7 @@ type: concept
 tags: amanita-muscaria, pharmacology]
 ---
 
-# Amanita Muscaria Properties and Pharmacology in Allegro's Framework
+## Amanita Muscaria Properties and Pharmacology in Allegro's Framework
 
 John Marco Allegro's "The [[amanita-muscaria-cultural-history]] lore across cultures.
 

@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
-# Cannabis Hexanoate and Cannabinoid Biosynthesis
+## Cannabis Hexanoate and Cannabinoid Biosynthesis
 
 The relationship between hexanoate (hexanoic acid) and cannabinoid biosynthesis represents a fascinating biochemical link between plant nutrition, microbial activity, and the production of THC, CBD, and other cannabinoids. Research into this pathway suggests that the short-chain fatty acid hexanoate, which can be delivered to cannabis plants through microbial fermentation products, may serve as a rate-limiting precursor for cannabinoid production in glandular trichomes.
 

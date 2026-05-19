@@ -9,7 +9,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Pancratium trianthum
+## Pancratium trianthum
 **Pancratium trianthum** is a bulbous perennial plant in the Amaryllis
 family (Amaryllidaceae), native to tropical and subtropical regions of
 Africa. It is one of several *Pancratium* species known to contain

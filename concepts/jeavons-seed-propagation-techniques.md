@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Seed Propagation Techniques
+## Seed Propagation Techniques
 
 Seed propagation in the [[comparison-living-mulch-vs-cover-crops]] that retards weed growth, retains soil moisture, and
 creates the miniclimate essential to balanced, uninterrupted growth.

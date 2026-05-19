@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Transpiration and Water Movement in Plants
+## Transpiration and Water Movement in Plants
 
 Water movement through plants is one of the most elegant systems in biology. Plants have evolved multiple redundant mechanisms to ensure adequate water supply, reflecting water's critical importance to virtually every cellular process. The movement of water through a plant—from soil uptake at the roots to evaporation at the leaves—drives not only hydration but also nutrient delivery and temperature regulation.
 

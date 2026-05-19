@@ -1,4 +1,8 @@
-# Psychedelic Plants and the Emergence of Language: McKenna's Hypothesis
+---
+title: "Psychedelic Plants and the Emergence of Language: McKenna's Hypothesis"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

@@ -7,7 +7,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
-# How Do I Grow Rice Using Fukuoka Natural Farming Methods?
+## How Do I Grow Rice Using Fukuoka Natural Farming Methods?
 
 ## Short Answer
 

@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# DMT and the Tryptamine Dimension
+## DMT and the Tryptamine Dimension
 
 DMT (N,N-dimethyltryptamine) occupies a unique and central place in McKenna's pharmacological cosmology. He called it "the most powerful of all hallucinogens" and argued that the shamanism and the human brain form one of the key pillars of McKenna's argument in *Food of the Gods*.
 

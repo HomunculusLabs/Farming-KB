@@ -3,7 +3,7 @@ title: Fruiting Conditions and Pinning
 created: 2026-04-28
 ---
 
-# Fruiting Conditions and Pinning
+## Fruiting Conditions and Pinning
 
 The transition from vegetative [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] is initiated when mycelium detects specific
 environmental changes signaling less favorable conditions for continued

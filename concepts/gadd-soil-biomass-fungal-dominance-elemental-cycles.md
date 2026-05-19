@@ -5,7 +5,7 @@ tags: [mycology, soil-ecology, fungal-biomass, carbon-cycle, nutrient-cycling, s
 created: 2026-05-09
 ---
 
-# Soil Fungal Biomass Dominance and Elemental Cycling
+## Soil Fungal Biomass Dominance and Elemental Cycling
 
 ## Overview
 

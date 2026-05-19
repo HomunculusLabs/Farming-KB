@@ -1,4 +1,8 @@
-# Supercritical CO2 Cannabis Extraction
+---
+title: "Supercritical CO2 Cannabis Extraction"
+tags:
+  - concept
+---
 
 Supercritical carbon dioxide extraction [[humanure-composting-methods-and-safety]]
 profile, and ability to produce clean, residue-free extracts without the use of
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of supercritical co2 cannabis extraction into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.

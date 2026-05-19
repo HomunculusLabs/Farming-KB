@@ -17,7 +17,7 @@ sources:
   - Ehrich, D. (2009). "The Mediterranean Stone Pine (*Pinus pinea* L.): Past, Present and Future." Genetic Resources and Crop Evolution, 56, 311–319.
 ---
 
-# Pinus pinea
+## Pinus pinea
 
 ## Overview
 

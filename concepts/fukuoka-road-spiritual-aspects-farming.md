@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka on Spiritual Aspects of Farming and Nature Connection
+## Fukuoka on Spiritual Aspects of Farming and Nature Connection
 
 In [[natural-farming]] is fundamentally a spiritual practice. The book is structured around the relationship between God, nature, and man — three entities Fukuoka insists were "originally one indivisible" but have been "recklessly split apart" by human intellectual activity.
 

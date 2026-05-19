@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Hypocreales Mycoparasites
+## Hypocreales Mycoparasites
 
 The order Hypocreales is one of the most important groups of [[fungicolous-fungi]], encompassing the families Hypocreaceae, Nectriaceae, Bionectriaceae, Clavicipitaceae, and Niessliaceae. A large proportion of hypocrealean fungi are mycoparasitic or mycosaprotrophic, a fact often underrecognized. They are extremely versatile in their abilities to exploit fungal substrata.
 

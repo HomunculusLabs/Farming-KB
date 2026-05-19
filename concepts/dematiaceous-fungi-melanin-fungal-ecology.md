@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Dematiaceous Fungi and Fungal Melanin
+## Dematiaceous Fungi and Fungal Melanin
 
 Dematiaceous fungi are a diverse ecological group characterized
 by dark pigmentation in their cell walls, hyphae, conidia, or

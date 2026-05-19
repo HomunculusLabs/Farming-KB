@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Organic Mineral Amendments
+## Organic Mineral Amendments
 
 Organic mineral amendments provide slow-release
 sources of [[ph-and-nutrient-availability-garden-soils]] if nutrient

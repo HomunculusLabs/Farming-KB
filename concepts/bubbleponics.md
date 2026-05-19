@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Bubbleponics for Cannabis
+## Bubbleponics for Cannabis
 
 Bubbleponics is a hybrid [[rockwool-cannabis]] starter cubes, or other inert media in the net pots.
 

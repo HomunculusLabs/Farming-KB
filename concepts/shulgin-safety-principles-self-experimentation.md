@@ -7,7 +7,7 @@ tags: [chemistry, psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# Shulgin Safety Principles for Self-Experimentation
+## Shulgin Safety Principles for Self-Experimentation
 
 **Source:** PiHKAL, [[psychedelic-harm-reduction-philosophy]] that emerged in the 1990s and continues to evolve today.
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Trichoderma and Beneficial Fungi for Cannabis
+## Trichoderma and Beneficial Fungi for Cannabis
 
 Trichoderma are beneficial fungi that colonize the root zone, crowding
 out negative fungi and microorganisms while stimulating root

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Biblical References to Mushrooms and Fungi
+## Biblical References to Mushrooms and Fungi
 
 While the Bible does not explicitly mention mushrooms by a name that modern readers would recognize, Allegro argues that mushrooms and fungi appear throughout the text under various names — some transparent, others encoded in the cryptographic system. This page catalogues the key biblical passages that Allegro identifies as mushroom references.
 

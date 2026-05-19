@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Growing Peppers and Eggplant
+## Growing Peppers and Eggplant
 
 Peppers (capsicum or chilli) and eggplant (aubergine) are close relatives
 of the tomato. Many varieties can be perennial where there is no frost. All

@@ -7,7 +7,7 @@ tags: intensive-gardening, raised-beds, plant-spacing
 type: concept
 ---
 
-# Solomon Intensive vs Extensive Spacing
+## Solomon Intensive vs Extensive Spacing
 
 ## The Core Argument
 

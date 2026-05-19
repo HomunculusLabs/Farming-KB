@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Clone Cannabis Plants Step by Step
+## How to Clone Cannabis Plants Step by Step
 
 ## Short Answer
 [[cannabis-cloning]] concept

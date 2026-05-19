@@ -4,7 +4,7 @@ aliases: ["I/Thou DMT encounters", "entity encounter ethics tryptamines", "McKen
 tags: [dmt, tryptamines, consciousness, entity-encounter, philosophy, mckenna]
 ---
 
-# DMT Entity Encounters and the I/Thou Relationship
+## DMT Entity Encounters and the I/Thou Relationship
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: ["papers/the-psilocybin-solution-by-simon-g-powell.md"]
 type: concept
 ---
 
-# Gaian Psychotherapy and Entheogenic Plants
+## Gaian Psychotherapy and Entheogenic Plants
 
 Simon G. Powell's "The [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], acting as mediators between human
 consciousness and the broader web of life.

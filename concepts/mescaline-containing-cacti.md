@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [ethnobotany, mescaline, cacti, peyote, hallucinogens, psychopharmacology, native-american]
 ---
 
-# Mescaline-Containing Cacti
+## Mescaline-Containing Cacti
 
 ## Overview
 

@@ -11,7 +11,7 @@ sources:
 type: query
 ---
 
-# How to Make Sauerkraut at Home
+## How to Make Sauerkraut at Home
 
 ## Short Answer
 Sauerkraut is a fermented cabbage dish made by shredding cabbage, massaging it with

@@ -5,7 +5,7 @@ type: entity
 tags: [concept, tibetan-buddhism, consciousness, bardo, psychedelic-phase, hallucinations]
 ---
 
-# Chonyid Bardo
+## Chonyid Bardo
 
 ## Description
 

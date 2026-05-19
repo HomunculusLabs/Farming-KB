@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fruiting Abnormalities and Malformations in Cultivated Mushrooms
+## Fruiting Abnormalities and Malformations in Cultivated Mushrooms
 
 ## Overview
 

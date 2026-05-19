@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Hofmann's Self-Experiment with Ergonovine
+## Hofmann's Self-Experiment with Ergonovine
 
 On April 1, 1976, Albert Hofmann conducted a self-experiment to test whether ergonovine (an [[golden-guide-morning-glory-and-ololiuqui]] used since ancient times) contained the same alkaloids found in ergot: lysergic acid amide, lysergic acid hydroxyethylamide, and ergonovine. If ololiuhqui was hallucinogenic, and it contained ergonovine, then ergonovine itself might be hallucinogenic.
 

@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Ingredient Ratios, Compost Volume, and Recipes
+## AACT Ingredient Ratios, Compost Volume, and Recipes
 
 Getting the right proportions of compost, food sources, and water is essential for producing effective [[actively-aerated-compost-tea-aact-brewing]] tea. The relationships between these ingredients are not always intuitive — more is not always better, and ratios are often non-linear.
 

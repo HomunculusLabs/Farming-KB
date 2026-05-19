@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# PSK Breast Cancer and Lung Cancer Clinical Trials
+## PSK Breast Cancer and Lung Cancer Clinical Trials
 
 PSK (Polysaccharide-K, Krestin) from [[maitake-cancer-clinical-research]]
 - fungal-immunology-overview

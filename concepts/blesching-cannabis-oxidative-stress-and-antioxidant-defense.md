@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis, Oxidative Stress, and Antioxidant Defense
+## Cannabis, Oxidative Stress, and Antioxidant Defense
 
 Oxidative stress is a central mechanism in both disease pathology and the
 body's natural defense systems. Throughout *The [[beta-caryophyllene-dietary-cannabinoid]]

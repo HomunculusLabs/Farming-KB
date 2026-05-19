@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Life and Underground Ecology
+## Soil Life and Underground Ecology
 
 The living soil is far more complex and dynamic than is commonly appreciated. Beneath the surface exists an entire ecology of burrowers, decomposers, nutrient cyclers, and root systems whose activities are as essential to landscape health as the more visible processes of photosynthesis and growth above ground. Understanding and working with underground life is fundamental to [[eucalyptus-globulus]]) can easily embrace 1.5 hectares underground. A forest is so complex and even intergrafted below ground that the canopy seems simple by comparison. Many desert plants lead long and sturdy underground lives while appearing thin, straggly, and ephemeral above ground. Some insects, like swift moths (Hepialidae), spend 7 to 8 years underground as large bardi grubs, with only a few days of nocturnal, foodless life in air — mating and laying eggs before disappearing again to the root sheaths and soil. The grubs open thousands of shafts to the air and cycle tons of nutrient underground.
 

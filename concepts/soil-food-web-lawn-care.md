@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Food Web Lawn Care
+## Soil Food Web Lawn Care
 
 Maintaining a healthy lawn through [[the-soil-food-web]] means shifting from
 chemical-dependent practices to biology-based management. Grass evolved in

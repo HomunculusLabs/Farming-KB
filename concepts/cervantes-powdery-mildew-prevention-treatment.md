@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Powdery Mildew on Cannabis
+## Powdery Mildew on Cannabis
 
 ## Overview
 

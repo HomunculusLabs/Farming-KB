@@ -5,7 +5,7 @@ type: entity
 tags: [places, oaxaca, mexico, mazatec, shamanism, sierra-mazateca, village]
 ---
 
-# San Lucas (Mazatec Village)
+## San Lucas (Mazatec Village)
 
 ## Description
 

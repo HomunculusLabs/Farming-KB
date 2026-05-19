@@ -9,7 +9,7 @@ type: concept
 tags: [composting]
 ---
 
-# Compost Tea Recipe Ratios and Ingredients
+## Compost Tea Recipe Ratios and Ingredients
 
 Actively aerated compost tea (AACT) requires careful selection of ingredients in the right proportions to grow the desired [[ingham-thermal-compost-versus-worm-compost]] with good aerobic worm castings, in roughly a 50-50 or 25-75 ratio. The compost must contain the full range of beneficial organisms (bacteria, fungi, protozoa, nematodes) to be extracted into the tea.
 

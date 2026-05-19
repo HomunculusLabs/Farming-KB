@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Intelligence
+## Natural Intelligence
 
 Natural Intelligence is the concept that a non-human, purposive intelligence pervades Nature and governs the ongoing formation of stable and enduring patterns of information throughout the fabric of reality.
 

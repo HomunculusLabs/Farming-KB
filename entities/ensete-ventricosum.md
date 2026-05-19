@@ -24,7 +24,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Ensete ventricosum
+## Ensete ventricosum
 
 **Enset**, **Ethopian banana**, **false banana**, **enset ventricosum**
 

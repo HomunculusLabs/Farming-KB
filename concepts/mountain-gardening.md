@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Mountain Gardening
+## Mountain Gardening
 
 ## Overview
 

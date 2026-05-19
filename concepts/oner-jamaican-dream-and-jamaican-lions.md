@@ -5,7 +5,7 @@ tags: [cannabis-sativa, strain-profile, jamaican, landrace, oner, eva-female-see
 created: 2026-05-09
 ---
 
-# Jamaican Dream and Jamaican Lions — Sativa Strain Profiles
+## Jamaican Dream and Jamaican Lions — Sativa Strain Profiles
 
 Two sativa-dominant strains with Jamaican heritage represent
 different approaches to working with Caribbean landrace

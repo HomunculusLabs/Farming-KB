@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Shaman
+## Shaman
 
 Shaman is a sativa-dominant hybrid [[oner-cannabis-breeding-fundamentals]], contributes its characteristic vigor, yield
 potential, and the pungent aroma that has made Skunk varieties famous since

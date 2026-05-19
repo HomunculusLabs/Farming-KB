@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Edge Effect and Ecotone Design The edge effect is one of the most productive concepts in permaculture design. Bill Mollison observed that the boundary between two ecological communities, called an ecotone, is typically more diverse and productive than either community alone. Where forest meets meadow, where land meets water, where shade meets sun, species from both communities coexist along with specialists adapted to the boundary conditions. Mollison elevated this ecological observation to a design principle, arguing that permaculture designers should deliberately increase edge in their designs to maximize diversity and productivity. The edge effect connects to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] principles of
+## Edge Effect and Ecotone Design The edge effect is one of the most productive concepts in permaculture design. Bill Mollison observed that the boundary between two ecological communities, called an ecotone, is typically more diverse and productive than either community alone. Where forest meets meadow, where land meets water, where shade meets sun, species from both communities coexist along with specialists adapted to the boundary conditions. Mollison elevated this ecological observation to a design principle, arguing that permaculture designers should deliberately increase edge in their designs to maximize diversity and productivity. The edge effect connects to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] principles of
 applying natural patterns to human designs.
 
 ## Types of Edges in Permaculture Design

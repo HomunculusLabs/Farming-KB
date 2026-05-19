@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
-# Clostridium — Anaerobic Nitrogen-Fixing Bacteria
+## Clostridium — Anaerobic Nitrogen-Fixing Bacteria
 
 *Clostridium* is a genus of Gram-positive, obligate anaerobic, endospore-forming bacteria and one of the earliest-known free-living nitrogen fixers. First demonstrated by Winogradsky in 1893 using *C. pasteurianum*, these organisms convert atmospheric dinitrogen (N₂) into ammonium under strictly anaerobic conditions. Unlike aerobic *Azotobacter* or symbiotic *Rhizobium*, clostridia occupy a niche defined by the absence of oxygen, making them critical agents of nitrogen input in flooded, waterlogged, and compacted soils.
 

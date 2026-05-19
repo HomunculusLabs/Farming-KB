@@ -8,7 +8,7 @@ type: concept
 tags: [psychedelics]
 ---
 
-# Cosmic Synergism and Psychedelic Combinations
+## Cosmic Synergism and Psychedelic Combinations
 
 Turner dedicates a full chapter to "[[turner-multiple-combinations-specific-reports]] typically exercise a high degree of caution, and
 that these combinations can be very heavy, both physically and mentally.

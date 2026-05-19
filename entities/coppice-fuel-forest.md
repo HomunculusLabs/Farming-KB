@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Coppice Fuel Forest
+## Coppice Fuel Forest
 
 ## Description
 

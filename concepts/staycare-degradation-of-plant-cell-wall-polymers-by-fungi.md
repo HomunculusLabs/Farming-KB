@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Degradation of Plant Cell Wall Polymers by Fungi
+## Degradation of Plant Cell Wall Polymers by Fungi
 
 ## Overview
 

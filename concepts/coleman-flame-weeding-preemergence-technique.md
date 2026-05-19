@@ -6,7 +6,7 @@ tags: [flame-weeding, weed-control, organic, pre-emergence, thermal-weed-control
 created: 2026-05-09
 ---
 
-# Flame Weeding Techniques for Pre-Emergence and Post-Emergence Weed Control
+## Flame Weeding Techniques for Pre-Emergence and Post-Emergence Weed Control
 
 ## Overview
 

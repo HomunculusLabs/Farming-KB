@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, vegetables]
 ---
 
-# Vegetable Growing in the Natural Farm
+## Vegetable Growing in the Natural Farm
 
 ## The Natural Rotation Principle
 

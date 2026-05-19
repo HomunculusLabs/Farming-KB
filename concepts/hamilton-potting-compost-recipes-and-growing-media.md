@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Potting Compost Recipes and Growing Media
+## Potting Compost Recipes and Growing Media
 
 Choosing and making the right potting compost is essential for success with
 container-grown plants, greenhouse crops, and propagation. Plants grown in

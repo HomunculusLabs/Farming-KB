@@ -5,7 +5,7 @@ tags: [cannabis, microbiome, endorhiza, endophyte, proteobacteria, pseudomonas, 
 created: 2026-05-10
 ---
 
-# Cannabis Endorhiza Core Bacterial Community and Endophytic Proteobacteria
+## Cannabis Endorhiza Core Bacterial Community and Endophytic Proteobacteria
 
 ## Overview
 

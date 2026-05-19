@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 4-HO-DBT (4-Hydroxy-N,N-Dibutyltryptamine)
+## 4-HO-DBT (4-Hydroxy-N,N-Dibutyltryptamine)
 
 TIHKAL entry #15. 4-HO-DBT is the 4-hydroxy analogue of 4 ho 4 ho dbt entity tihkal tihkal (N,N-dibutyltryptamine), placing it in the same structural family as [[psilocin-entity-tihkal]] (4-HO-DMT) and the other 4-hydroxylated dialkyltryptamines. It represents the longest-chain member of the 4-hydroxy dialkyl tryptamine series.
 

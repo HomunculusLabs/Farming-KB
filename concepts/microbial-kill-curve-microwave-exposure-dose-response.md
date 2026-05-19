@@ -24,7 +24,7 @@ tags:
   - exposure-rate
 ---
 
-# Microbial Kill Curve — Microwave Exposure Dose-Response Relationship
+## Microbial Kill Curve — Microwave Exposure Dose-Response Relationship
 
 ## Overview
 

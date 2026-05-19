@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-# Mycorestoration Overview
+## Mycorestoration Overview
 
 [[paul-stamets]]' umbrella concept for using fungi to heal the environment. Coined in *Mycelium Running* (2005), mycorestoration encompasses four branches: mycoremediation, mycofiltration, mycoforestry, and mycopesticides.
 

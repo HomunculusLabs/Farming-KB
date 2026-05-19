@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Dynamic Accumulator Plants — Phosphorus
+## Dynamic Accumulator Plants — Phosphorus
 
 Phosphorus is one of the three primary macronutrients (N-P-K) and is notoriously difficult for plants to access in many soils. It binds tightly to soil particles, especially in acidic or high-clay soils, making it largely unavailable to plant roots. Dynamic accumulator plants help liberate phosphorus from its mineral state and cycle it into bioavailable forms.
 

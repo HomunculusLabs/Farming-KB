@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Grow Endive and Radicchio in My Garden?
+## How Do I Grow Endive and Radicchio in My Garden?
 
 ## Short Answer
 

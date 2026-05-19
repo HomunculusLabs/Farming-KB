@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Fix Sulfur Deficiency in Cannabis
+## How to Fix Sulfur Deficiency in Cannabis
 
 ## Short Answer
 Sulfur deficiency in cannabis causes uniform yellowing of new growth (unlike 

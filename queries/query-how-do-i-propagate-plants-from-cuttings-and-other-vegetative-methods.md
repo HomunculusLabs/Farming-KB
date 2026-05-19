@@ -7,7 +7,7 @@ sources:
   - "raw/papers/cervantes-marijuana-horticulture-indoor-outdoor.md"
 ---
 
-# How Do I Propagate Plants from Cuttings and Other Vegetative Methods?
+## How Do I Propagate Plants from Cuttings and Other Vegetative Methods?
 
 ## Short Answer
 

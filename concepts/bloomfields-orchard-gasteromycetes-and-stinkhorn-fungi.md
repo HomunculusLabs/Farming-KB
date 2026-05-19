@@ -19,7 +19,7 @@ sources:
     Chapter 1
 ---
 
-# Gasteromycetes and Stinkhorn Fungi
+## Gasteromycetes and Stinkhorn Fungi
 
 ## Overview
 

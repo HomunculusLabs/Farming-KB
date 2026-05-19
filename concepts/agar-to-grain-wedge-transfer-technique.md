@@ -15,7 +15,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Agar-to-Grain Wedge Transfer Technique
+## Agar-to-Grain Wedge Transfer Technique
 
 The agar-to-grain transfer is the critical bridge between [[contamination-identification-prevention]] for contamination awareness.
 

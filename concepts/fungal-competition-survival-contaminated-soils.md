@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Competition and Survival in Contaminated Soils One of the most significant obstacles to successful mycoremediation-field-applications-case-studies. ## The Competition Problem When [[ingham-bacterial-fungal-succession]]** -- in some cases, fungal-bacterial consortia show synergistic pollutant degradation, where fungi perform initial attack on complex molecules and bacteria complete mineralization.
+## Fungal Competition and Survival in Contaminated Soils One of the most significant obstacles to successful mycoremediation-field-applications-case-studies. ## The Competition Problem When [[ingham-bacterial-fungal-succession]]** -- in some cases, fungal-bacterial consortia show synergistic pollutant degradation, where fungi perform initial attack on complex molecules and bacteria complete mineralization.
 
 ## Pleurotus as a Superior Competitor
 

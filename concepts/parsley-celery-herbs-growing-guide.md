@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Parsley and Culinary Herbs in the Vegetable Garden
+## Parsley and Culinary Herbs in the Vegetable Garden
 
 Updated: 2026-04-18
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Allelopathy: Mechanisms and Ecological Effects
+## Fungal Allelopathy: Mechanisms and Ecological Effects
 
 Fungal allelopathy encompasses the production and release of chemical compounds
 by fungi that influence the growth, survival, or reproduction of other

@@ -9,7 +9,7 @@ sources:
   - "~/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md"
 ---
 
-# Duggar Mushroom Marketing and Economics 1915
+## Duggar Mushroom Marketing and Economics 1915
 
 Benjamin Minge Duggar's 1915 bulletin on [[history-of-commercial-mushroom-cultivation]] industry in
 the United States. His analysis of markets, pricing, distribution,

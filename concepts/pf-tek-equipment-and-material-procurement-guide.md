@@ -14,7 +14,7 @@ sources:
   - fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-# PF TEK Equipment and Material Procurement Guide
+## PF TEK Equipment and Material Procurement Guide
 
 The PF TEK was designed to use common household items and readily available
 supplies from supermarkets, hardware stores, drugstores, and pet shops. This

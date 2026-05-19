@@ -6,7 +6,7 @@ tags: [botany, plant-senses, acoustics, vibration, mechanoreception, chamovitz]
 created: 2026-05-09
 ---
 
-# Plant Acoustic and Vibration Sensing
+## Plant Acoustic and Vibration Sensing
 
 ## Overview
 

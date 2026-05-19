@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Patriarchal Law and Religious Control Systems
+## Patriarchal Law and Religious Control Systems
 
 The author presents a sweeping critique of patriarchal religious, governmental, and economic systems as interconnected control structures that originated with the [[entheogenic-knowledge-secret-societies]], organized religion, and state power for thousands of years. At the heart of this critique is the argument that many religious laws—far from being universal divine truths—were designed as mechanisms for controlling an enslaved population.
 

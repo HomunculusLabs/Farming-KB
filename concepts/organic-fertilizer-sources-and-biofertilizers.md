@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Organic Fertilizer Sources and Biofertilizers
+## Organic Fertilizer Sources and Biofertilizers
 
 Organic fertilizers are derived from plant and animal by-products as well as mineral rock deposits. Unlike [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]], they feed [[the-soil-food-web]] — the community of bacteria, fungi, protozoa, and other organisms that creates soil structure and cycles nutrients to plants. Nutrients in all but the most soluble natural fertilizers are only available when they are mineralized (broken down into ionic forms) by soil microorganisms.
 

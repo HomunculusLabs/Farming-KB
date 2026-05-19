@@ -8,7 +8,7 @@ aliases: [Tryptamine Pharmacokinetics, DMT Psilocybin LSD Comparison,
   Hallucinogen Duration Onset]
 ---
 
-# DMT vs Psilocybin vs LSD — Pharmacokinetic and Experiential Comparison
+## DMT vs Psilocybin vs LSD — Pharmacokinetic and Experiential Comparison
 
 [[lsd-d-lysergic-acid-diethylamide]] (LSD). These differences, he
 argued, reflect fundamentally different relationships between the compounds

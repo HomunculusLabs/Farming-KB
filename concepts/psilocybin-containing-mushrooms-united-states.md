@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [mycology, psilocybin, mushrooms, hallucinogens, psychopharmacology, ethnobotany]
 ---
 
-# Psilocybin-Containing Mushrooms in the United States
+## Psilocybin-Containing Mushrooms in the United States
 
 ## Overview
 

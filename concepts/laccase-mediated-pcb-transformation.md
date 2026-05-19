@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
-# Laccase-Mediated PCB Transformation
+## Laccase-Mediated PCB Transformation
 
 Laccases (benzenediol:oxygen oxidoreductases, EC 1.10.3.2) are multicopper oxidases produced by white-rot fungi that catalyze the four-electron reduction of molecular oxygen to water while oxidizing phenolic substrates. In PCB biodegradation, laccases play a crucial role in transforming chlorinated biphenyls, particularly when augmented with redox mediator systems.
 

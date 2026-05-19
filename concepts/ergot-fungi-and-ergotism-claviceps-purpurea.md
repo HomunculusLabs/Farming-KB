@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ergot Fungi and Ergotism in Human History
+## Ergot Fungi and Ergotism in Human History
 
 Ergot fungi, primarily [[escovopsis-parasitic-fungi-attine-ant-gardens]] that infect
 the grains of grasses and cereals, particularly rye. The disease they cause,

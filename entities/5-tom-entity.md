@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 5-TOM (2-Methoxy-4-methyl-5-methylthioamphetamine)
+## 5-TOM (2-Methoxy-4-methyl-5-methylthioamphetamine)
 
 5-TOM is a methylthio-substituted amphetamine that replaces the 5-methoxy group of [[tomso-entity]].
 

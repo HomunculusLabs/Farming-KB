@@ -26,7 +26,7 @@ sources:
 - https://www.sare.org/publications/uncommon-fruit-worth-considering
 ---
 
-# Food Forest Layers and Species
+## Food Forest Layers and Species
 
 Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-8, with guild examples, spacing, nitrogen fixers, pollination partners, succession timeline, and animal integration. See [[food-forest-design]] for design principles and [[permaculture-useful-plants-reference]] for the full plant catalog.
 

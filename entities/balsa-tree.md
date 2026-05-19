@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Balsa (Ochroma pyramidale)
+## Balsa (Ochroma pyramidale)
 
 ## Description
 

@@ -1,4 +1,8 @@
-# Chlorophyllum molybdites Toxic-Edible Paradox and Yoruba Divinatory Use
+---
+title: "Chlorophyllum molybdites Toxic-Edible Paradox and Yoruba Divinatory Use"
+tags:
+  - concept
+---
 
 ## Source
 *Guzmán, Allen & Gartz (2000) — A Worldwide [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]*

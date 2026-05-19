@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
 type: concept
 ---
 
-# Urban Guerrilla Food Growing and City Agriculture
+## Urban Guerrilla Food Growing and City Agriculture
 
 We need to [[gaias-garden-creating-community-gardens]]. Building compost with all the organic wastes from
 eateries and restaurants and our kitchens. Catching water before it runs

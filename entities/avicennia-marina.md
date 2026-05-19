@@ -5,7 +5,7 @@ type: entity
 tags: [tree, mangrove, coastal, saline-tolerant, timber, honey, fodder, australia]
 ---
 
-# Avicennia marina (Grey Mangrove, White Mangrove)
+## Avicennia marina (Grey Mangrove, White Mangrove)
 
 ## Description
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# The Peace March -- War, Agriculture, and Human Separation from Nature
+## The Peace March -- War, Agriculture, and Human Separation from Nature
 
 [[fukuoka-road-critique-of-modern-science]] civilization, war, and the human condition.
 

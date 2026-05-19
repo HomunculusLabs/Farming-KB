@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Make Mead at Home
+## How to Make Mead at Home
 
 ## Short Answer
 Mead is an alcoholic beverage made by fermenting honey mixed with water, often with

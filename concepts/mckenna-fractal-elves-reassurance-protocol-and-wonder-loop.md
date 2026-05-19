@@ -4,7 +4,7 @@ source: mckenna_t-tryptamines_consciousness.md
 tags: [dmt, entity-encounter, tryptamine, McKenna, fractal-elves, hyperspace, phenomenology, consciousness]
 ---
 
-# Fractal Elves Reassurance Protocol and the Wonder Loop in DMT Experience
+## Fractal Elves Reassurance Protocol and the Wonder Loop in DMT Experience
 
 ## Overview
 

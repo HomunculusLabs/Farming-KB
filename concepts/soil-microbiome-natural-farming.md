@@ -15,7 +15,7 @@ tags:
   - nitrogen-fixation
 ---
 
-# Soil Microbiome in Natural Farming
+## Soil Microbiome in Natural Farming
 
 The soil microbiome — the vast community of bacteria, fungi, protozoa,
 nematodes, and other microorganisms living in soil — is the foundation

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi of the African Continent
+## Neurotropic Fungi of the African Continent
 
 Africa presents one of the most significant knowledge gaps in the
 worldwide [[guzman-global-distribution-patterns-neurotropic-fungi]] map (Figure 19).

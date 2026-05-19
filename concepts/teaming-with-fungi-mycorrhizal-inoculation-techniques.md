@@ -8,7 +8,7 @@ type: concept
 tags: [fungi, mycology, mycorrhizal, sterile-technique]
 ---
 
-# Teaming with Fungi - Mycorrhizal Inoculation Techniques
+## Teaming with Fungi - Mycorrhizal Inoculation Techniques
 
 Jeff Lowenfels' "Teaming with Fungi" provides a comprehensive guide to applying mycorrhizal fungi in agricultural, horticultural, silvicultural, and hydroponic settings. Successful inoculation requires matching the right fungal species to the right host plant, applying propagules at the correct time and in the correct manner, and maintaining conditions that allow the [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] propagules:
 

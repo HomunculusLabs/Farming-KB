@@ -9,7 +9,7 @@ type: concept
 tags: [gardening, mycelium]
 ---
 
-# Garden Giant Mushroom (Stropharia rugoso-annulata) in Mycorestoration
+## Garden Giant Mushroom (Stropharia rugoso-annulata) in Mycorestoration
 
 The garden giant, also known as king stropharia or wine-cap stropharia
 (mycelium-natures-internet

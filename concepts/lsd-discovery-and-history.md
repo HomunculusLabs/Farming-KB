@@ -16,7 +16,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# LSD Discovery and History
+## LSD Discovery and History
 
 The discovery of LSD by Albert Hofmann, its early medical use, its spread into the counterculture, and its role in Cold War intelligence programs.
 

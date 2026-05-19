@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-# Mycelial Network Dynamics [[gadd-fungal-carbon-sequestration]]
+## Mycelial Network Dynamics [[gadd-fungal-carbon-sequestration]]
 - **Plant-fungal interactions**: [[gadd-fungal-imaging-techniques]]. Confocal laser scanning microscopy combined with
 fluorescent probes allows visualization of intracellular transport. Photon-
 ## Key Considerations

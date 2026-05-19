@@ -9,7 +9,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_
 created: 2026-05-10
 ---
 
-# Sclerotia Formation in Psilocybe Species
+## Sclerotia Formation in Psilocybe Species
 
 ## Overview
 

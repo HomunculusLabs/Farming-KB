@@ -9,14 +9,12 @@ tags:
   - entheogens
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md",
-  ]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md",
+  "]
 type: concept
 ---
 
-# Peyote and Mescaline-Containing Cacti
+## Peyote and Mescaline-Containing Cacti
 
 Peyote (*[[entheogen-tetrapteris-methystica-alternative-caapi]] traditions
 across northern Mexico.
@@ -118,3 +116,6 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+Schultes' ethnobotanical documentation of peyote use preserves crucial knowledge about the intersection of traditional plant medicine and indigenous spiritual practices.
+His rigorous scientific approach to studying sacred plants helped establish ethnopharmacology as a formal discipline.

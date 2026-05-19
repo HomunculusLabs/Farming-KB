@@ -19,7 +19,7 @@ sources:
   - "Falinski, J.B. (1986). \"Vegetation Dynamics in Temperate Lowland Primeval Forests.\" Dr W. Junk Publishers."
 ---
 
-# Fagus sylvatica
+## Fagus sylvatica
 
 **Fagus sylvatica**, the European beech or common beech, is a large deciduous tree native to central and southern Europe. It is one of the most ecologically and economically important hardwood species on the continent, forming extensive climax forests and producing highly valued timber.
 

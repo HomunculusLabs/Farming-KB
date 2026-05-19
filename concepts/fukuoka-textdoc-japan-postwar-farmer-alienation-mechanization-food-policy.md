@@ -8,7 +8,7 @@ updated: 2026-05-11
 type: concept
 ---
 
-# Japan's Postwar Farmer Alienation Through Mechanization and Food Policy
+## Japan's Postwar Farmer Alienation Through Mechanization and Food Policy
 
 [[masanobu-fukuoka]] provides a scathing farmer's-eye analysis of Japan's
 [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]], arguing that the celebrated economic

@@ -7,7 +7,7 @@ tags: [herbalism, herbs]
 sources: []
 ---
 
-# Women's Health Herbs
+## Women's Health Herbs
 
 Women's health herbs address conditions specific to female physiology including menstrual cycle regulation, premenstrual syndrome, fertility support, pregnancy and postpartum care, menopause symptoms, and reproductive organ health. Herbal medicine has a particularly rich tradition in women's health, with many herbs having been used for centuries specifically for gynecological conditions. Modern research has validated many of these traditional uses.
 

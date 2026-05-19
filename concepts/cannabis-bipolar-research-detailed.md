@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Bipolar Disorder Research
+## Cannabis and Bipolar Disorder Research
 
 **Source:** The [[cannabis-for-mental-health]] research suggests that the endocannabinoid system serves as a homeostatic regulator of emotional tone, and that restoring balanced endocannabinoid signaling may help stabilize the extreme mood fluctuations characteristic of bipolar disorder.
 

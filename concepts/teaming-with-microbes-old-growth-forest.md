@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# No One Ever Fertilized an Old Growth Forest
+## No One Ever Fertilized an Old Growth Forest
 
 The final chapter of *Teaming with Microbes* (Chapter 22) takes its title from one of the book's most powerful observations: no one ever fertilized an old growth forest, yet these ecosystems maintain extraordinary productivity and diversity for centuries. This fact encapsulates the book's entire argument about the self-sustaining power of the [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - **Species diversity** — multiple plant species support diverse microbial communities

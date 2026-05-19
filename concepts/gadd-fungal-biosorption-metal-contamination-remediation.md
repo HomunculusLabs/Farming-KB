@@ -16,7 +16,7 @@ sources:
   - book: "Gadd, G.M., Burford, E.P., Fomina, M. & Melville, K.M. (2006). Mineral transformations fungal-decomposition-and-biogeochemical-cycles: a geomycological perspective. In *Fungi in the Environment* (ed. G.M. Gadd, S.C. Watkinson & P.S. Dyer). Cambridge University Press."
 ---
 
-# Fungal Biosorption of Metals and Bioremediation Potential
+## Fungal Biosorption of Metals and Bioremediation Potential
 
 ## Fungi as Geomicrobiological Agents
 

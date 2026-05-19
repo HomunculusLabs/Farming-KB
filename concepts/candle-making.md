@@ -7,7 +7,7 @@ tags: [homesteading, homestead-crafts, recipe, preparation]
 sources: []
 ---
 
-# Candle Making
+## Candle Making
 
 Candle making is one of the oldest homestead crafts, transforming beeswax, tallow, or plant-based waxes into functional light sources. For the regenerative homesteader, beeswax candles represent a value-added product that utilizes wax from [[top-bar-hive]] honey harvests and beekeeping operations.
 

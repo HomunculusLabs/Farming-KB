@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
-# Psilocin Spectral Characterization as a Forensic Reference Standard
+## Psilocin Spectral Characterization as a Forensic Reference Standard
 
 [[shirota-psilocin-psilocybin-spectroscopic-characterization-forensic-standards]] to serve as a reliable analytical reference
 standard. The Shirota, Hakamata, and Goda (2003) large-scale synthesis

@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-# Mycofiltration Overview
+## Mycofiltration Overview
 
 Using mycelial mats to filter water — removing silt, pathogens, chemicals, and excess nutrients. One of the four branches of [[mycorestoration]]. From Chapter 8 of *Mycelium Running* by [[paul-stamets]].
 

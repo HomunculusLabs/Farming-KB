@@ -6,7 +6,7 @@ tags: [shamanism, DMT, tryptamine, healing, divination, indigenous, McKenna]
 created: 2026-05-08
 ---
 
-# Shamanism in Tryptamine Context
+## Shamanism in Tryptamine Context
 
 ## Overview
 

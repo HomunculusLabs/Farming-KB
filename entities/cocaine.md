@@ -19,7 +19,7 @@ sources:
   - Goodman & Gilman's The Pharmacological Basis of Therapeutics, 13th ed. (2017).
 ---
 
-# Cocaine
+## Cocaine
 
 ## Overview
 

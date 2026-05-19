@@ -8,7 +8,7 @@ sources: [the-way-to-ultra-low-cost-agriculture-untitled.md]
 type: concept
 ---
 
-# JADAM Herbal Smoker for Livestock and Greenhouse Pest Control
+## JADAM Herbal Smoker for Livestock and Greenhouse Pest Control
 
 ## Overview
 

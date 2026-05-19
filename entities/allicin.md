@@ -27,7 +27,7 @@ sources:
   - Rybak, M.E. et al. (2004). "Quantitative determination of allicin in garlic." Journal of Agricultural and Food Chemistry, 52(3), 682-687.
 ---
 
-# Allicin
+## Allicin
 
 Allicin (diallyl thiosulfinate) is an organosulfur compound responsible for the characteristic pungent aroma
 and many of the bioactive properties of freshly crushed garlic (*[[cryptococcus-neoformans]]*), and parasites

@@ -24,7 +24,7 @@ sources:
     url: https://www.ecofarmingdaily.com/
 ---
 
-# Quinoa and Ancient Grain Cultivation
+## Quinoa and Ancient Grain Cultivation
 
 Ancient grains — quinoa, amaranth, teff, millet, sorghum, buckwheat, and their relatives — represent some of humanity's oldest domesticated crops. [[short-day-and-long-day-plant-classification]] sensitive
 - **Salares types**: Salt-flat adapted, extremely salt-tolerant

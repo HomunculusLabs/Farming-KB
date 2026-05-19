@@ -31,7 +31,7 @@ related_concepts:
   - hops-cultivation-and-brewing-uses
 ---
 
-# Home Winemaking and Country Brewing
+## Home Winemaking and Country Brewing
 
 Fermenting beverages at home is one of the oldest and most rewarding
 homesteading skills. From grape wine and hard cider to mead, beer, and

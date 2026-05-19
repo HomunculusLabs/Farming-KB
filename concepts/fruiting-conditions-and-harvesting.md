@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fruiting Conditions and Harvesting
+## Fruiting Conditions and Harvesting
 
 ## Overview
 

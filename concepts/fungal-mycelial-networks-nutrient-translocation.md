@@ -1,4 +1,8 @@
-# Fungal [[core-endorhiza-bacterial-community-composition-cannabis]] and [[dighton-fungal-decomposition-leaf-litter-dynamics]], [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
+---
+title: "Fungal core endorhiza bacterial community composition cannabis and dighton fungal decomposition leaf litter dynamics, mycelial cord architecture and nutrient translocation basidiomycetes"
+tags:
+  - concept
+---
 - [[dighton-fungal-nutrient-translocation-element-redistribution]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
@@ -143,8 +147,3 @@ Successful integration of fungal mycelial networks nutrient translocation into b
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

@@ -5,7 +5,7 @@ type: entity
 tags: [person, psychologist, psychoanalyst, jungian, tibetan-book-of-the-dead, psychedelic]
 ---
 
-# Carl G. Jung (Psychedelic Context)
+## Carl G. Jung (Psychedelic Context)
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
-# Organic Propagation Methods
+## Organic Propagation Methods
 
 Plant propagation is the process of creating new plants from existing ones. Understanding propagation methods allows gardeners to multiply plants for free, preserve [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]].
 

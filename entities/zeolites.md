@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Zeolites (Compost Tea Amendment)
+## Zeolites (Compost Tea Amendment)
 
 ## Description
 

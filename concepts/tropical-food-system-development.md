@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Food [[williams-pdc-stacking-functions-and-system-integration|functions]] within a single system,
+## Tropical Food [[williams-pdc-stacking-functions-and-system-integration|functions]] within a single system,
 maximizing the productive use of available space and resources.
 
 ## Case Study: Kaiwaka NZ Instant Jungle Garden

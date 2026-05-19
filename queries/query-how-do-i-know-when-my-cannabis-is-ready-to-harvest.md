@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Know When My Cannabis Is Ready to Harvest?
+## How Do I Know When My Cannabis Is Ready to Harvest?
 
 ## Short Answer
 Cannabis is ready to harvest when the trichomes on the buds shift

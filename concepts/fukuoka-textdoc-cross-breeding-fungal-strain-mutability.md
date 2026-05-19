@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Fungal Strain Crossability and Resin Disease Experiment
+## Fungal Strain Crossability and Resin Disease Experiment
 
 masanobu fukuoka conducted a notable mycological experiment demonstrating that two supposedly distinct species of resin disease fungi — one attacking citrus in the United States and another in Japan — were in fact capable of interbreeding. This finding has significant implications for understanding [[plant-disease-management-solomon]] strategies that treated the two pathogens as unrelated threats. Fukuoka's experiment would overturn this assumption entirely.
 

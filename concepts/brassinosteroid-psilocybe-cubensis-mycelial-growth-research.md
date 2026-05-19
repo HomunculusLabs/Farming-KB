@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, brassinosteroid, mycelial-growth, phytohormones, research]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: ["raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"]
 type: concept
 ---
-# Brassinosteroid Promotion of Psilocybe Cubensis Mycelial Growth
+## Brassinosteroid Promotion of Psilocybe Cubensis Mycelial Growth
 
 Gartz, Adam, and Vorbrodt published a brief but significant communication in *Naturwissenschaften* (Vol. 77, pp. 388-389, 1990) documenting the first known growth-promoting effect of a brassinosteroid on a fungal species. The synthetic compound 22S,23S-homobrassinolide, applied at 10^-2 ppm, dramatically accelerated mycelial growth and enhanced fruiting in Psilocybe cubensis cultures, suggesting a previously unsuspected physiological role for these plant hormones in higher fungi.
 

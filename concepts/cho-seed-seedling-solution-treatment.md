@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Cho's Seed and Seedling Solution Treatment
+## Cho's Seed and Seedling Solution Treatment
 
 The Seed/Seedling Solution (SES) treatment is a fundamental practice in
 Dr. Cho's Korean [[cho-fermented-plant-juice-preparation]]: 2 ml

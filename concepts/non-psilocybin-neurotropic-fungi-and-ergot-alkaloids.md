@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: mycology, ergot, amanita, chemistry, ethnobotany
 ---
 
-# [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] e active compounds are [[allegro-amanita-muscaria-properties-and-pharmacology]] grows in mycorrhizal association with Pinus and Betula
+## [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] e active compounds are [[allegro-amanita-muscaria-properties-and-pharmacology]] grows in mycorrhizal association with Pinus and Betula
 in forests of the northern hemisphere, including Mexico. It has also been
 found in pine plantations [[fukuoka-natural-farming-in-tropical-regions]] including Brazil, Colombia,
 Tanzania, Australia, and New Zealand — wherever its host trees have been

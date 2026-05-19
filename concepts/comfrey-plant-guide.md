@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, companion-planting, mult
 sources: []
 ---
 
-# Comfrey Growing Guide (Symphytum officinale)
+## Comfrey Growing Guide (Symphytum officinale)
 
 ## Overview
 

@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# How Do I Grow Persimmons and Which Variety Should I Choose?
+## How Do I Grow Persimmons and Which Variety Should I Choose?
 
 ## Short Answer
 

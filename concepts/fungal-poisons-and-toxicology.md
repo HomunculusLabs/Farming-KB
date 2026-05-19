@@ -7,7 +7,7 @@ tags: [mycology, toxicology, foraging-safety, mushroom-poisoning]
 sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
-# Fungal Poisons and Toxicology
+## Fungal Poisons and Toxicology
 
 [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]].
 

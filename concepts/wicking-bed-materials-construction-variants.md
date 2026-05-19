@@ -1,4 +1,8 @@
-# Wicking Bed Materials and Construction Variants
+---
+title: "Wicking Bed Materials and Construction Variants"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MEE
+## MEE
 
 [[scythian-cannabis-steam-bath-ritual]] for 3 h. The reaction was quenched with three volumes of
 

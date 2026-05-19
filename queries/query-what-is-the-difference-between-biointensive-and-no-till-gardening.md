@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is the Difference Between Biointensive and No-Till Gardening
+## What Is the Difference Between Biointensive and No-Till Gardening
 
 ## Short Answer
 

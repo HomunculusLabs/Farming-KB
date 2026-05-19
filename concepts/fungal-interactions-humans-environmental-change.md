@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Interactions with Humans and Environmental Change
+## Fungal Interactions with Humans and Environmental Change
 
 As human populations expand and industrial activities intensify, the effects of anthropogenic environmental change on fungal communities and the ecosystem processes they mediate have become a critical area of mycological research. The interactions between human-induced pollutants and fungi—while rarely making headlines in the popular press—represent fundamental disruptions to nutrient cycling, plant health, and ecosystem stability.
 

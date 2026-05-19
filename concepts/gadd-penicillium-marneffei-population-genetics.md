@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Penicillium marneffei Population Genetics
+## Penicillium marneffei Population Genetics
 
 Penicillium marneffei is a dimorphic [[psilocybe-southeast-asia-pacific]]. Molecular typing studies have revealed
 how this fungus is dispersed in the environment and how clinical

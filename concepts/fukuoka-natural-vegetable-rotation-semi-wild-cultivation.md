@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Natural Vegetable Rotation and Semi-Wild Cultivation
+## Fukuoka Natural Vegetable Rotation and Semi-Wild Cultivation
 
 Masanobu Fukuoka's philosophy [[fukuoka-natural-farming-principles]].
 

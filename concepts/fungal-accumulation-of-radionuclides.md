@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Accumulation of Radionuclides
+## Fungal Accumulation of Radionuclides
 
 Fungi play a remarkably important role in the uptake, accumulation, and cycling of radionuclides in terrestrial ecosystems. Their extensive hyphal networks, efficient ion-exchange mechanisms, and diverse trophic strategies make them among the most effective biological accumulators of radioactive contaminants, particularly radiocesium (¹³⁷Cs) and radiostrontium (⁹⁰Sr).
 

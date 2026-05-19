@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Strain Selection and Spawn Preparation for Maitake Cultivation
+## Strain Selection and Spawn Preparation for Maitake Cultivation
 
 Strain selection is the single most critical decision before starting
 [[grifola-frondosa]] strains do not fruit well, if at

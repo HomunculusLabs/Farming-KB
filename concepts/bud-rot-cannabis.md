@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Bud Rot (Botrytis cinerea) on Cannabis
+## Bud Rot (Botrytis cinerea) on Cannabis
 
 Gray mold (Botrytis cinerea), commonly known as bud rot or bud mold, is the most common and destructive fungus that attacks [[cannabis-flowering-stage-management]] when dense buds create ideal microclimates for fungal growth.
 

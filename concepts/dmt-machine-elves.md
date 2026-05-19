@@ -7,7 +7,7 @@ sources:
 created: 2026-05-08
 ---
 
-# dmt Machine Elves and Entity Encounters
+## dmt Machine Elves and Entity Encounters
 
 ## Overview
 

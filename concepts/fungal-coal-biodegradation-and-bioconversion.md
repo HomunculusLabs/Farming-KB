@@ -8,7 +8,7 @@ sources:
   - Singh, H. (2006). Mycoremediation. John Wiley & Sons.
     Chapter 1, Section 1.7
 ---
-# Fungal Coal Biodegradation and Bioconversion
+## Fungal Coal Biodegradation and Bioconversion
 Coal biodegradation and bioconversion by fungi represents a significant
 biotechnological application within the broader field of
 [[fusarium-oxysporum]]** solubilizes low-rank coal efficiently

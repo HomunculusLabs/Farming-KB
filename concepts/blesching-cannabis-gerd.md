@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and GERD
+## Cannabis and GERD
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Hymenoscyphus ericae
+## Hymenoscyphus ericae
 
 **Hymenoscyphus ericae** is an ascomycete fungus that forms ericoid
 mycorrhizal associations with plants in the family Ericaceae. It is one

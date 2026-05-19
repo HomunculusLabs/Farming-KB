@@ -1,4 +1,8 @@
-# Global Distribution of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is their
+---
+title: "Global Distribution of forensic identification methods psilocybin mushrooms tlc gc hplc is their"
+tags:
+  - concept
+---
 concentration in and near the Austral (Southern) hemisphere, particularly in subtropical
 humid forests. This distribution correlates with the regions where indigenous use of
 neurotropic fungi is best documented. The authors noted that "the majority of the species
@@ -143,8 +147,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

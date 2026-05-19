@@ -5,7 +5,7 @@ author: Blesching
 tags: [cannabis, hypertension, blood-pressure, cardiovascular, CBD, THC, endocannabinoid, vasodilation]
 ---
 
-# Cannabis and Hypertension
+## Cannabis and Hypertension
 
 ## Cardiovascular Effects and Therapeutic Considerations
 

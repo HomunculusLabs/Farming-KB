@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ethnomycology and Cultural Significance of Sacred Fungi
+## Ethnomycology and Cultural Significance of Sacred Fungi
 
 ## Definition and Scope
 

@@ -14,7 +14,7 @@ sources:
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 
-# Psilocybin Mushroom Legal History
+## Psilocybin Mushroom Legal History
 
 The legal status of [[psilocybin-mushrooms]] has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
 

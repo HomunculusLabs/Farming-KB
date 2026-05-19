@@ -5,7 +5,7 @@ source_file: "uwe-blesching-the-cannabis-health-index.md"
 topics: [endocannabinoid, autonomic-nervous-system, sympathetic, parasympathetic, homeostasis, stress-response, anandamide, THC]
 ---
 
-# Endocannabinoid System and Autonomic Nervous System Balance
+## Endocannabinoid System and Autonomic Nervous System Balance
 
 ## Overview
 

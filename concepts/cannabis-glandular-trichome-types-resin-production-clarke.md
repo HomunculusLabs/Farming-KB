@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Cannabis Glandular Trichome Types and Resin Production
+## Cannabis Glandular Trichome Types and Resin Production
 
 ## Overview
 

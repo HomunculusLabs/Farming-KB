@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Slimy Clump and Water-Logged Grass Seed Substrate Failure Modes
+## Slimy Clump and Water-Logged Grass Seed Substrate Failure Modes
 
 ## Overview
 

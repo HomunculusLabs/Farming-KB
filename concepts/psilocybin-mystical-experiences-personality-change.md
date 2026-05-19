@@ -8,7 +8,7 @@ type: concept
 tags: [mysticism, psilocybin]
 ---
 
-# Psilocybin, Mystical Experiences, and Personality Change
+## Psilocybin, Mystical Experiences, and Personality Change
 
 The capacity of psilocybin to induce experiences indistinguishable from classical mystical experiences -- and the lasting personality changes that can follow -- represents one of the most significant findings in [[good-friday-experiment-marsh-chapel]] of 1962 and its 25-year follow-up provide compelling evidence that a single psilocybin experience can produce enduring transformations in personality, worldview, and spiritual wellbeing.
 

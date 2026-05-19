@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-natural-farming-method
 topics: [natural-farming, philosophy, methodology, agriculture, reductionism]
 ---
 
-# [[fukuoka-natural-farming-method]] developed his system [[scientific-farming-paradoxes-according-to-fukuoka]] approach of
+## [[fukuoka-natural-farming-method]] developed his system [[scientific-farming-paradoxes-according-to-fukuoka]] approach of
 adding interventions. Rather than asking "[[fukuoka-natural-farming-method]] asked "[[fukuoka-natural-farming-method]] identified two fundamentally different approaches to improving
 farming:
 

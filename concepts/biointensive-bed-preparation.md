@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - raw/papers/how-to-grow-more-vegetables-john-jeavons.md
 ---
-# biointensive bed preparation (Double-Digging)
+## biointensive bed preparation (Double-Digging)
 
 Double-digging is the foundational soil preparation technique in the
 [[biointensive-composting]]|compost, soil

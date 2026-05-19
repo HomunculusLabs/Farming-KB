@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Foliar Disease Control
+## AACT Foliar Disease Control
 
 [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) provides a biology-based approach to preventing and controlling foliar diseases across a wide range of crops. Rather than targeting specific pathogens with chemical fungicides, AACT establishes a protective microbial community on leaf and stem surfaces that occupies infection sites, consumes exudates that pathogens depend on, and directly antagonizes disease organisms. Dr. Elaine Ingham's research demonstrates that consistent application of properly brewed compost tea can prevent the majority of common foliar and soil-borne diseases when the right biology is applied at the right time with adequate coverage.
 

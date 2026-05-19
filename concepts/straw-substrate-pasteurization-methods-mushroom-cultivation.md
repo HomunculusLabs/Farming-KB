@@ -7,7 +7,7 @@ topics:
   - hydrated lime method
 ---
 
-# Straw Substrate Pasteurization Methods for Mushroom Cultivation
+## Straw Substrate Pasteurization Methods for Mushroom Cultivation
 
 ## Overview
 

@@ -6,7 +6,7 @@ topics: ["cannabis", "strains", "sativa", "jamaican-cannabis", "fast-flowering"]
 aliases: ["Jamaican Dream strain", "Jamaican heirloom cannabis"]
 ---
 
-# Jamaican Dream: Fast-Flowering Jamaican Heirloom Sativa
+## Jamaican Dream: Fast-Flowering Jamaican Heirloom Sativa
 
 ## Overview
 

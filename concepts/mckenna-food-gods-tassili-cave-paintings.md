@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# The Tassili Cave Paintings and Ancient Mushroom Use
+## The Tassili Cave Paintings and Ancient Mushroom Use
 
 The [[terence-mckenna]] argues that these rock paintings, dating from the late Neolithic to approximately two thousand years ago, represent the visual record of an ancient shamanic mushroom cult that spread from Africa into the broader ancient world.
 

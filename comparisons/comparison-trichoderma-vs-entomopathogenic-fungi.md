@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Trichoderma vs Entomopathogenic Fungi
+## Trichoderma vs Entomopathogenic Fungi
 
 Both [[trichoderma]] species and entomopathogenic fungi (EF) are fungal
 [[singh-entomopathogenic-fungi-biocontrol-agents]] deployed in [[trichoderma-harzianum]] provides direct

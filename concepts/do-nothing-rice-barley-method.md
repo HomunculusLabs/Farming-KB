@@ -14,7 +14,7 @@ tags:
 source: "the natural way of farming  fukuoka"
 ---
 
-# Do-Nothing Rice Barley Method
+## Do-Nothing Rice Barley Method
 
 The do-nothing rice/barley method is boil-a-bag-mushroom-cultivation-technique,
 formally known as "direct-seeded, no-tillage, winter grain/rice succession in a clover

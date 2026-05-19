@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Permaculture Multipurpose Trees In [[permplant-willows-salix-erosion-control-fodder]] and salinity management. Root systems reach 50 m laterally.
+## Permaculture Multipurpose Trees In [[permplant-willows-salix-erosion-control-fodder]] and salinity management. Root systems reach 50 m laterally.
 
 ### Key Functions
 - **Erosion control**: Sheet, gully, and slump erosion; salinity control

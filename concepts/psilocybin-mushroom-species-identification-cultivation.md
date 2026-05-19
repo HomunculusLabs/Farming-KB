@@ -4,7 +4,7 @@ source: gottlieb-a-the-psilocybin-producers-guide.md
 type: concept
 ---
 
-# Psilocybin-Bearing Mushroom Species — Identification, Habitat, and Cultivation
+## Psilocybin-Bearing Mushroom Species — Identification, Habitat, and Cultivation
 
 ## Overview
 

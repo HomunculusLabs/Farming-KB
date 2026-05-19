@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Rhizosphere Bacteria and Mycorrhizal Specificity
+## Rhizosphere Bacteria and Mycorrhizal Specificity
 
 ## Overview
 

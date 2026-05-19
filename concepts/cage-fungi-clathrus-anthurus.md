@@ -6,7 +6,7 @@ tags: [mycology, fungi, cage-fungi, clathrus, anthurus, ileodictyon, laternea, g
 created: 2026-05-09
 ---
 
-# Cage Fungi (Clathrus, Anthurus, Ileodictyon, Laternea)
+## Cage Fungi (Clathrus, Anthurus, Ileodictyon, Laternea)
 
 ## Overview
 

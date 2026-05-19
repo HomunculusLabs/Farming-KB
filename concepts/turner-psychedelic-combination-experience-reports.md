@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
-# Turner Psychedelic Combination Experience Reports
+## Turner Psychedelic Combination Experience Reports
 
 Detailed experience reports from [[psychedelic-crisis-response-protocol]] if difficulties arise during combinations.
 

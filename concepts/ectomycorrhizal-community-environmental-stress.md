@@ -4,7 +4,7 @@ source: 'john-dighton-fungi-in-ecosystem-processes.md'
 type: concept
 ---
 
-# Ectomycorrhizal Community Responses to Environmental Stress
+## Ectomycorrhizal Community Responses to Environmental Stress
 
 ## Overview
 

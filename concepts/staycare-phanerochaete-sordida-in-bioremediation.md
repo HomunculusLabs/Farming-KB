@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycoremediation, white-rot-fungi, pentachlorophenol, creosote, field-studies]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Phanerochaete sordida in Bioremediation
+## Phanerochaete sordida in Bioremediation
 
 P. sordida is a [[brown-rot-fungi-cellulose-degradation-wood-decay]],
 and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] Hydrocarbons.

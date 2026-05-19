@@ -7,7 +7,7 @@ tags: [pest-management, agriculture, gardening, pest-control, troubleshooting, c
 sources: []
 ---
 
-# Nematode Management
+## Nematode Management
 
 Plant-parasitic nematodes are microscopic roundworms that attack plant roots, causing stunting, yellowing, wilting, and reduced yields. Root-knot nematodes (Meloidogyne spp.) are the most damaging and widespread group, affecting tomatoes, carrots, peppers, cucurbits, and many other crops. Management requires an [[solomon-insects-and-diseases-integrated-approach]] combining crop rotation, resistant varieties, biological controls, and soil health improvement.
 

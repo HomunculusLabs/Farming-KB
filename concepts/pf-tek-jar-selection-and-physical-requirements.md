@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 ---
 
-# Jar Selection and Physical Requirements for PF TEK
+## Jar Selection and Physical Requirements for PF TEK
 
 ## Overview
 

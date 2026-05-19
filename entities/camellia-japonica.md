@@ -16,7 +16,7 @@ sources:
   - Zhang, W. et al. (2020). "Phytochemical constituents and biological activities of Camellia japonica." Journal of Agricultural and Food Chemistry, 68(45), 12480-12492.
 ---
 
-# Camellia japonica
+## Camellia japonica
 
 ## Overview
 

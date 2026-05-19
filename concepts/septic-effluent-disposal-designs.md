@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Septic Effluent Disposal Designs
+## Septic Effluent Disposal Designs
 
 [[natural-swimming-pools]]** as a final polishing stage
 - **Greywater systems** for combined household water management

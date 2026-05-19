@@ -5,10 +5,10 @@ type: species
 tags: [solanaceae, tropane-alkaloids, scopolamine, shamanic-plant, toxic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+sources: ["raw/papers/a-golden-guide-to-hallucinogenic-plants.md"]
 ---
 
-# Brugmansia suaveolens
+## Brugmansia suaveolens
 
 **Brugmansia suaveolens**, commonly known as **angel's trumpet** or **white angel's trumpet**, is a woody perennial shrub or small tree in the family Solanaceae, native to the tropical regions of South America, particularly Brazil, Bolivia, Colombia, and Peru. It is one of the most dangerously psychoactive plants known, containing potent tropane alkaloids that can cause delirium, respiratory depression, and death at high doses.
 

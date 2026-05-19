@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[dryland-salting-strategies|Salting]] of Waters and Soils**: Poor irrigation practices and the clearing of deep-rooted vegetation cause water tables to rise, bringing dissolved salts to the surface. Evaporation concentrates these salts, rendering soil toxic to most plant life. This salinization is one of the most insidious forms of land degradation.
+## [[dryland-salting-strategies|Salting]] of Waters and Soils**: Poor irrigation practices and the clearing of deep-rooted vegetation cause water tables to rise, bringing dissolved salts to the surface. Evaporation concentrates these salts, rendering soil toxic to most plant life. This salinization is one of the most insidious forms of land degradation.
 
 Together, these forces convert productive drylands into expanding deserts. The process is often slow enough to escape notice until the damage is severe, yet fast enough to affect human generations. Satellite data confirms that desert margins worldwide are advancing, driven by the compounding effects of deforestation, overgrazing, and inappropriate agricultural practices. Once a threshold of degradation is crossed, natural recovery becomes extremely difficult without active intervention.
 

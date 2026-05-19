@@ -6,7 +6,7 @@ community]
 created: 2026-05-11
 ---
 
-# Fungal Biodiversity: Similarity Indices and Beta Diversity
+## Fungal Biodiversity: Similarity Indices and Beta Diversity
 
 Quantifying how fungal communities differ from one another — across [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that shape fungal communities,
 to compare the effects of different management practices on fungal diversity,

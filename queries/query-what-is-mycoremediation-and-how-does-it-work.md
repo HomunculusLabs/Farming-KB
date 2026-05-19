@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# What Is Mycoremediation and How Does It Work
+## What Is Mycoremediation and How Does It Work
 ## Short Answer
 Mycoremediation is the use of fungi to degrade, sequester, or remove environmental pollutants from soil, water, and contaminated sites. Fungi accomplish this through enzymatic degradation of organic pollutants like petroleum hydrocarbons and pesticides, [[fungal-remediation-decision-tree]] helps practitioners select the right fungal species and method for a given contaminant.
 ## Detailed Explanation

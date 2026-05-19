@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# BOB
+## BOB
 
 [[solomon-weed-management-without-chemicals]] feeling and without emotion. I
 > was indifferent to everything. Later on, there was some improvement,

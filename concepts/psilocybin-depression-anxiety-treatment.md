@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Psilocybin in Depression and Anxiety Treatment
+## Psilocybin in Depression and Anxiety Treatment
 
 The therapeutic potential of psilocybin for treating depression, anxiety, and related psychological conditions represents one of the most promising frontiers in modern [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS), founded in 1986, and the Heffter Research Institute (HRI), inaugurated in 1993 and named after [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] ushrooms and ayahuasca are traditionally used -- to free the soul to connect with God and the ancestors.
 

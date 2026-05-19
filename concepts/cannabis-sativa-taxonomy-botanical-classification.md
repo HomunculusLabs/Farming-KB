@@ -6,7 +6,7 @@ source: cannabis-sativa-volume-3-essential-guide.md
 created: 2026-05-11
 ---
 
-# Cannabis Sativa Taxonomy and Botanical Classification
+## Cannabis Sativa Taxonomy and Botanical Classification
 
 ## Overview
 

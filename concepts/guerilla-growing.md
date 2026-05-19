@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Guerilla Growing
+## Guerilla Growing
 
 Guerilla growing, a term coined in the early 1970s, is the clandestine cultivation of
 cannabis in remote outdoor locations. It requires strategy, time, and often physical

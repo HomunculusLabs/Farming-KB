@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Biodiversity Education and Citizen Science
+## Fungal Biodiversity Education and Citizen Science
 
 Fungal biodiversity survey data serves educational purposes at all
 levels and increasingly supports citizen science initiatives that

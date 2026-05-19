@@ -19,7 +19,7 @@ created: 2026-04-28
 type: query
 ---
 
-# Which Grain Is Best for Drought-Tolerant Small-Scale Farming?
+## Which Grain Is Best for Drought-Tolerant Small-Scale Farming?
 
 For most small-scale farmers in water-limited regions, **pearl millet** is the single best all-around choice, with **sorghum** as the closest runner-up. However, the "best" grain depends heavily on your rainfall pattern, temperature extremes, soil type, and intended use. This page compares the top drought-adapted grains so you can match the right crop to your context.
 

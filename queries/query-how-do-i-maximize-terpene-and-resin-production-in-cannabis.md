@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Maximize Terpene and Resin Production in Cannabis?
+## How Do I Maximize Terpene and Resin Production in Cannabis?
 
 ## Short Answer
 Maximizing terpene and resin production involves a combination of genetics,

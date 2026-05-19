@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# American Indian [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] cultures to its adoption by the [[mescalero-apache-peyote-use]], peyote illustrates
+## American Indian [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] cultures to its adoption by the [[mescalero-apache-peyote-use]], peyote illustrates
 how [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] use and
 Christianity is the Native American Church, whose practitioners are
 [[dmt-containing-plants-united-states-halpern]] who have largely adopted the

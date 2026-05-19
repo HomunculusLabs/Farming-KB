@@ -5,7 +5,7 @@ tags: [permaculture, gardening, ecology, design, self-organization]
 created: 2026-05-11
 ---
 
-# Ecological Garden Design
+## Ecological Garden Design
 
 ## What Is an Ecological Garden?
 

@@ -7,7 +7,7 @@ tags: [microwave-sterilization, 2-45-ghz, water-dielectric-heating, microbial-in
 created: 2026-05-11
 ---
 
-# Trace Water Microwave Sterilization Mechanism at 2.45 GHz
+## Trace Water Microwave Sterilization Mechanism at 2.45 GHz
 
 ## Overview
 

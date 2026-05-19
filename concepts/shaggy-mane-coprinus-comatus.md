@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Shaggy Mane (Coprinus comatus)
+## Shaggy Mane (Coprinus comatus)
 
 The shaggy mane (*[[coprinus-comatus]]*) is a distinctive edible mushroom recognized by its elongated,
 cylindrical cap covered in shaggy, upward-curving scales. It is one of the most widely recognized wild

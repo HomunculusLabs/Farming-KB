@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Isolation of Metabolically Active Arbuscules and Intraradical Hyphae
+## Isolation of Metabolically Active Arbuscules and Intraradical Hyphae
 
 ## Overview
 

@@ -5,7 +5,7 @@ tags: [mycology, biodiversity, fungal-survey, ecology, field-methods, conservati
 created: 2026-05-09
 ---
 
-# Fungal Inventory Challenges and Pitfalls
+## Fungal Inventory Challenges and Pitfalls
 
 Comprehensive fungal inventory is among the most difficult tasks in
 biodiversity science. Unlike plants or animals, fungi present unique

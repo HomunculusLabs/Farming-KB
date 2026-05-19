@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Louis Prang (1824–1909)
+## Louis Prang (1824–1909)
 
 ## Description
 

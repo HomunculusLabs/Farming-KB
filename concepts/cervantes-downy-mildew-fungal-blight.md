@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Downy Mildew, Blight, and Foliar Fungal Diseases
+## Downy Mildew, Blight, and Foliar Fungal Diseases
 
 Several fungal diseases beyond [[cervantes-reservoir-temperature-management]]
   above 76F (26C)

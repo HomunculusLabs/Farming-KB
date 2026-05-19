@@ -25,7 +25,7 @@ sources:
 - https://www.johnnyseeds.com/grains/
 ---
 
-# Grain and Staple Crops for the Homestead
+## Grain and Staple Crops for the Homestead
 
 Growing grains on a homestead scale provides food security, animal feed, soil building, and [[cover-cropping-guide]] benefits. While commercial grain production requires specialized equipment, home-scale growing is practical within [[regenerative-agriculture-history]] systems — many grains double as cover crops, and processing can be done with hand tools.
 

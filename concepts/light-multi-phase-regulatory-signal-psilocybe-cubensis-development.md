@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Light as a Multi-Phase Regulatory Signal in Psilocybe cubensis Development
+## Light as a Multi-Phase Regulatory Signal in Psilocybe cubensis Development
 
 Light functions as a regulatory signal at multiple distinct phases of the
 Psilocybe cubensis life cycle. Badham's 1982 tropism study, combined with his

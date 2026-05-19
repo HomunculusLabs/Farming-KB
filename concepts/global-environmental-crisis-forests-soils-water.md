@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# The Global Environmental Crisis: Forests, Soils, and Water
+## The Global Environmental Crisis: Forests, Soils, and Water
 
 In the opening lecture of his 1981 [[permaculture-design]] Course, [[bill-mollison]] presented a systematic account of the accelerating failure of Earth's life-support systems. Rather than attributing ecological collapse to a single cause, Mollison traced interconnected breakdowns across forests, soils, climate, and water — arguing that these systems share a common root: human industrial agriculture and forestry operating without design. This lecture, titled "The Terrible Time of Day," remains one of the most cited and influential summaries of the environmental crisis from a [[permaculture]] perspective.
 

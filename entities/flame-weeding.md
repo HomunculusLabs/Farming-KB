@@ -5,7 +5,7 @@ type: entity
 tags: [techniques, weed-control, organic-farming, thermal-control]
 ---
 
-# Flame Weeding
+## Flame Weeding
 
 ## Description
 

@@ -23,7 +23,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Physalis peruviana
+## Physalis peruviana
 
 **Cape gooseberry**, **groundcherry**, **goldenberry**, **aguaymanto**, **poha berry**
 

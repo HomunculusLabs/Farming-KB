@@ -17,7 +17,7 @@ sources:
   - "Guerra, Á. (1992). \"Mollusca, Cephalopoda.\" Fauna Iberica, vol. 1. CSIC."
 ---
 
-# European Squid (*Loligo vulgaris*)
+## European Squid (*Loligo vulgaris*)
 
 ## Overview
 

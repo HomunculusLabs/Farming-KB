@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Soil Flushing and Nutrient Leaching
+## Soil Flushing and Nutrient Leaching
 
 Soil flushing is an emergency corrective technique used when cannabis
 plants develop severe [[green-cannabis-grow-bible-nutrient-management-ppm]] where it cannot access essential elements.

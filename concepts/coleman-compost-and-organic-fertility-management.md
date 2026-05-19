@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Compost and Organic Fertility Management
+## Compost and Organic Fertility Management
 
 Eliot Coleman considers compost the single most important input for
 maintaining soil fertility on a small organic farm. His approach blends

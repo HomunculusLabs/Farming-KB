@@ -13,7 +13,7 @@ concepts:
   - forensic standards
 ---
 
-# Spectroscopic Characterization of Synthetic Psilocin and Psilocybin as Forensic Standards
+## Spectroscopic Characterization of Synthetic Psilocin and Psilocybin as Forensic Standards
 
 ## Overview
 

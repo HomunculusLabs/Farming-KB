@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe ovoideocystidiata
+## Psilocybe ovoideocystidiata
 
 ## Taxonomy
 

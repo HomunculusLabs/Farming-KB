@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fish Yield Optimization in Aquaculture
+## Fish Yield Optimization in Aquaculture
 
 Fish yield in aquaculture is determined by a combination of species selection, food conversion efficiency, polyculture design, stocking rates, and breeding management. Understanding these factors allows pond managers to increase yields by orders of magnitude compared to simple single-species systems.
 

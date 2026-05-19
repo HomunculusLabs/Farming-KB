@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [raw/papers/forest-gardening-robert-hart.md]
 ---
-# Wood Decay Fungi in Buildings Wood decay fungi that colonize built structures are among the most destructive biological agents affecting human construction. Three species stand out as particularly problematic: *[[sphaerobolus-stellatus]]* (the "artillery fungus"). These fungi cause billions of dollars in property damage annually and have plagued human construction for centuries.
+## Wood Decay Fungi in Buildings Wood decay fungi that colonize built structures are among the most destructive biological agents affecting human construction. Three species stand out as particularly problematic: *[[sphaerobolus-stellatus]]* (the "artillery fungus"). These fungi cause billions of dollars in property damage annually and have plagued human construction for centuries.
 
 ## Dry Rot Fungi
 

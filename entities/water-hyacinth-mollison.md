@@ -5,7 +5,7 @@ type: entity
 tags: [plant, aquatic, water-purification, invasive, permaculture, nutrient-removal]
 ---
 
-# Water Hyacinth (Eichhornia crassipes)
+## Water Hyacinth (Eichhornia crassipes)
 
 ## Description
 

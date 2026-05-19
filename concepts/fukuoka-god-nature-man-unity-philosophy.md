@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: God, Nature, and Man as One
+## Fukuoka: God, Nature, and Man as One
 
 Source: [[comparison-natural-farming-vs-permaculture]] is the practical expression of a metaphysical vision in which the artificial separation between the human, the divine, and the natural is overcome.
 

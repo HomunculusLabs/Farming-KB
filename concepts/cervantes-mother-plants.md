@@ -8,7 +8,7 @@ tags: [cannabis, plants]
 updated: 2026-04-26
 ---
 
-# Mother Plants
+## Mother Plants
 
 Mother plants are the foundation of a consistent cloning program. Selecting and maintaining strong, healthy, potent mother plants is the key to having a reliable supply of all-female clones with known characteristics.
 

@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer-alpine-plant-cultivation-gentian
+title: "Holzer Alpine Plant Cultivation"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -7,7 +7,7 @@ tags: [holzer, permaculture, homesteading]
 sources: ["papers/sepp-holzer-practical-guide.md"]
 ---
 
-# Holzer Alpine Plant Cultivation
+## Holzer Alpine Plant Cultivation
 
 Over years of experience cultivating plants from Alpine regions, Holzer's most important lesson: all events in nature should be observed closely. This is a wonderful activity because you never cease to learn and profit from it.
 

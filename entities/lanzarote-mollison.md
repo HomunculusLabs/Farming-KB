@@ -5,7 +5,7 @@ type: entity
 tags: [place, island, water-harvesting, permaculture, arid-land, canary-islands, viticulture]
 ---
 
-# Lanzarote
+## Lanzarote
 
 ## Description
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sacred Non-Psilocybin Fungi: Cordyceps and Claviceps
+## Sacred Non-Psilocybin Fungi: Cordyceps and Claviceps
 
 Among the [[ethnomycology-cultural-significance-sacred-fungi]] in Mexican indigenous traditions
 and a long history of human interaction worldwide.

@@ -7,7 +7,7 @@ type: concept
 created: 2026-05-09
 ---
 
-# Vegetableatarian Experiment — Calorie Production from Home Gardens
+## Vegetableatarian Experiment — Calorie Production from Home Gardens
 
 ## Overview
 

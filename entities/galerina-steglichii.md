@@ -5,10 +5,10 @@ type: species
 tags: [galerina, psilocybin, wood-inhabiting, cortinariaceae, amatoxin-warning]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Galerina steglichii
+## Galerina steglichii
 
 *Galerina steglichii* is a rare species of wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae) that has been reported to contain [[psilocybin]] and [[psilocybe-azurescens]] or [[psilocybin-north-america-pacific-northwest]] and Europe
 - **Galerina venenata** — a small grassland species containing amatoxins

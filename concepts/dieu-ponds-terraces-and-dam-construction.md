@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Dieu-Ponds, Terraces, and Dam Construction
+## Dieu-Ponds, Terraces, and Dam Construction
 
 Hand-shaped water harvesting and earthworks techniques drawn from [[bill-mollison]]'s [[permaculture-design]] Course, covering small-scale catchments, residential terracing, diversion drains, and [[dam-construction]] from garden walls to valley-scale embankments.
 

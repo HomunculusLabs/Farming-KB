@@ -11,7 +11,7 @@ sources:
 type: query
 created: 2026-04-28---
 
-# How Does Nitrogen Cycling Work in a Permaculture System?
+## How Does Nitrogen Cycling Work in a Permaculture System?
 
 ## Short Answer
 

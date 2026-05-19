@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Grass Seed Water Absorption and Moisture Calibration
+## Grass Seed Water Absorption and Moisture Calibration
 
 Water content is the single most critical variable in [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]:
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Glomus mosseae
+## Glomus mosseae
 
 **Glomus mosseae** is an [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and vesicles for storage. Azcon et al. (1976)
 identified isolate YV as G. mosseae in early studies of mycorrhizal

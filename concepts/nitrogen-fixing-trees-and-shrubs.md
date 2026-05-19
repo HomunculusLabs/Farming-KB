@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
-# Nitrogen-Fixing Trees and Shrubs for Permaculture
+## Nitrogen-Fixing Trees and Shrubs for Permaculture
 
 Nitrogen-fixing trees and shrubs are the backbone of [[fungal-role-in-nitrogen-cycling]] for the mycorrhizal dimension.
 
@@ -39,7 +39,7 @@ Family: MIMOSACEAE. Used extensively as nitrogen-fixing companions to fruit and 
 
 ## Merged: Hamilton Green Manure and Cover Crops
 
-# Hamilton Green Manure and Cover Crops
+## Hamilton Green Manure and Cover Crops
 
 Green manure is a crop grown specifically to add [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 

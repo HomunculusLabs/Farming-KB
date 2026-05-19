@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Browsing Protection Methods
+## Holzer Browsing Protection Methods
 
 ## Natural Distraction Strategy
 

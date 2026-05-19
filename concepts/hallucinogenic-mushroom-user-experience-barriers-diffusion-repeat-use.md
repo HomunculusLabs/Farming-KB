@@ -4,7 +4,7 @@ source: carolina-mushrooms_08qxp.md
 tags: [emcdda, user-experience, barriers, diffusion, bad-trip, nausea, panic, route-of-administration, repeat-use, self-limiting]
 ---
 
-# Hallucinogenic Mushroom User Experience Barriers to Diffusion and Repeat Use
+## Hallucinogenic Mushroom User Experience Barriers to Diffusion and Repeat Use
 
 ## Overview
 

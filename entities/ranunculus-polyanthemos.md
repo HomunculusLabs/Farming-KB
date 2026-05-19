@@ -16,7 +16,7 @@ sources:
   - GBIF Backbone Taxonomy
 ---
 
-# Ranunculus polyanthemos
+## Ranunculus polyanthemos
 
 ## Overview
 

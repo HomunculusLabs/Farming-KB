@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, water, phenomenon, botany, permaculture]
 ---
 
-# Guttation
+## Guttation
 
 ## Description
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Pigeon Pea (Cajanus cajan)
+## Pigeon Pea (Cajanus cajan)
 
 ## Description
 

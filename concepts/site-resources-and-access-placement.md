@@ -4,7 +4,7 @@ source: "Bill Mollison, [[mollison-permaculture-design-course-curriculum]] (Chun
 type: concept
 ---
 
-# Site Resources and Access Placement
+## Site Resources and Access Placement
 
 In [[permaculture-design]], the identification of site resources and the strategic placement of access infrastructure form the foundational moves from which all other design decisions flow. [[bill-mollison]] emphasizes that before any planting, building, or earthwork, the designer must systematically catalog every resource on and around the site and then establish access as the very first design act. The quality of these early decisions determines whether a site becomes a thriving, energy-storing system or a source of perpetual expense and conflict.
 

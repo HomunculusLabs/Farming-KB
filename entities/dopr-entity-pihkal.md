@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DOPR
+## DOPR
 
 [[ketamine]]. With them, the psychedelic effects become clouded with touches of amnesia. If DOPR shows this with it's three carbon alkyl group, thereis every reason to pay close attention as the chain becomes longer.
 

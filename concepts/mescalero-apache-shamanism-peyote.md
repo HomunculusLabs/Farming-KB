@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md (chunk 9, lines 1801–2000)
 type: concept
 ---
 
-# Mescalero Apache Shamanism and Peyote Use
+## Mescalero Apache Shamanism and Peyote Use
 
 ## Overview
 

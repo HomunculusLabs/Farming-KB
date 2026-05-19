@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cooperative Life Systems and Ecological Philosophy
+## Cooperative Life Systems and Ecological Philosophy
 
 ## Overview
 

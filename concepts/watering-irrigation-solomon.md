@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Watering and Irrigation (Solomon)
+## Watering and Irrigation (Solomon)
 
 Updated: 2026-04-18
 

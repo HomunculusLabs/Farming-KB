@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis CO2 Supplementation
+## Cannabis CO2 Supplementation
 
 Carbon dioxide (CO2) supplementation is an advanced [[cannabis-flowering-stage-management]]
 

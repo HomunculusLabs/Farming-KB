@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Thermal Belts and Frost Microclimates
+## Thermal Belts and Frost Microclimates
 
 Understanding thermal belts and frost microclimates is essential in [[frost-protection-and-thermal-belts]]
 - [[albedo-heat-transfer-and-thermal-belts]]

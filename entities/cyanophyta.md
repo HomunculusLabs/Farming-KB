@@ -5,7 +5,7 @@ type: entity
 tags: [bacteria, cyanobacteria, nitrogen-fixation, photosynthesis, soil-microbiology]
 ---
 
-# Cyanophyta
+## Cyanophyta
 
 ## Description
 

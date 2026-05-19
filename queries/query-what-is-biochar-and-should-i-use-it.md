@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Biochar and Should I Use It in My Garden?
+## What Is Biochar and Should I Use It in My Garden?
 
 ## Short Answer
 Biochar is a carbon-rich material produced by pyrolyzing biomass (burning [[biochar-soil-amendment]] page covers the specific physical and

@@ -18,7 +18,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Psilocybin Level Stability Across Flushes
+## Psilocybin Level Stability Across Flushes
 
 ## Overview
 

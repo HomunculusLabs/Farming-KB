@@ -7,7 +7,7 @@ wikilinks: "lowenfels-nutrients-soil-chemistry-ph-cec lowenfels-nutrients-nitrog
 type: concept
 tags: [nutrients]
 ---
-# Potassium, Calcium, and Magnesium in Soil
+## Potassium, Calcium, and Magnesium in Soil
 ## Overview
 Potassium, calcium, and magnesium are three essential macronutrient cations that play distinct
 but interconnected roles in plant health. All three are held by the negative charges on the

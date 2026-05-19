@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, business, marketing, entrepreneurship]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# Mushroom Business and Marketing Starting a [[non-sterilized-wheat-straw-oyster-cultivation]]: $100-200 per ton (sufficient for thousands of fruiting blocks)
+## Mushroom Business and Marketing Starting a [[non-sterilized-wheat-straw-oyster-cultivation]]: $100-200 per ton (sufficient for thousands of fruiting blocks)
 - Hardwood sawdust/[[cervantes-green-algae-growing-medium]]: straw bags cost $2-5 in materials each
 
 ### Infrastructure

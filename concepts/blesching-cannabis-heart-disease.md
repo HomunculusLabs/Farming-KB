@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Heart Disease
+## Cannabis and Heart Disease
 
 ## Overview
 

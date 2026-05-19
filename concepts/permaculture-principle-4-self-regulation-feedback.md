@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Principle 4: Apply Self-Regulation and Accept Feedback
+## Permaculture Principle 4: Apply Self-Regulation and Accept Feedback
 
 *"The sins of the fathers are visited on the children unto the [[seventh-generation-principle-mollison]]"*
 

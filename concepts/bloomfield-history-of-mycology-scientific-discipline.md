@@ -6,7 +6,7 @@ tags: [mycology, history-of-science, terence-ingold, john-webster, fungal-biolog
 created: 2026-05-11
 ---
 
-# History of Mycology as a Scientific Discipline
+## History of Mycology as a Scientific Discipline
 
 The scientific study of fungi — mycology — has followed a peculiar trajectory within the biological sciences, alternately neglected and celebrated, marginalized and central. [[nicholas-money]]'s *Mr. Bloomfield's Orchard* is both a popular introduction to fungal biology and a personal memoir of the author's twenty-year journey through the field, paying tribute to the mentors and institutions that shaped modern mycology. The history of the discipline reveals much about how science decides what counts as worth studying.
 

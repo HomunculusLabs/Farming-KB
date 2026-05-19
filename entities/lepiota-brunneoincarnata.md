@@ -16,7 +16,7 @@ sources:
   - Cattle C, Sutton B, Matheny PB (2022). "Molecular phylogeny of Lepiota sensu lato." Mycologia 114(4): 895–912.
 ---
 
-# Lepiota brunneoincarnata
+## Lepiota brunneoincarnata
 
 ## Overview
 

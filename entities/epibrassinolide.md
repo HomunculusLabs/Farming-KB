@@ -13,7 +13,7 @@ sources:
   - "raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"
 ---
 
-# Epibrassinolide
+## Epibrassinolide
 
 Epibrassinolide is a natural brassinosteroid plant hormone and the most
 biologically active brassinosteroid known. First isolated from the pollen

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Low Island Permaculture
+## Low Island Permaculture
 
 Low islands and atolls present some of the most challenging environments for
 [[permaculture-design]]. Composed of coral, ground shell, and sand, they are built by the sea and

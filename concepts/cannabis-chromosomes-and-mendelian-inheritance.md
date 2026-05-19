@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Chromosomes and Mendelian Inheritance
+## Cannabis Chromosomes and Mendelian Inheritance
 
 The genetic architecture of Cannabis underpins every aspect of its
 cultivation, from the expression of [[cannabis-vegetative-growth-stage]].

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Farming Takes Root in Italy
+## Natural Farming Takes Root in Italy
 
 In *The Road Back to Nature*, [[natural-farming-methods-comparison]] firsthand
 

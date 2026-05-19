@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# Can You Reveg a Cannabis Plant After Harvest
+## Can You Reveg a Cannabis Plant After Harvest
 
 ## Short Answer
 Yes, cannabis plants can be revegetated (re-vegged) after harvest by leaving 

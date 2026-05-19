@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Mushroom Ceremony and Ritual Practice
+## Mazatec Mushroom Ceremony and Ritual Practice
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Molecular Bonds and Chemistry for Gardeners
+## Molecular Bonds and Chemistry for Gardeners
 
 Understanding plant nutrition requires a basic grasp of how atoms bond together. Atoms combine through three main types of bonds -- covalent, ionic, and hydrogen -- each producing molecules with very different properties. These bond types determine everything from how water moves through plants to how nutrients dissolve in soil solution.
 

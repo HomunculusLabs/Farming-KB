@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/harner-amazonian-ayahuasca-preparation-methods|harne
 type: concept
 ---
 
-# Ayahuasca Admixture Plants
+## Ayahuasca Admixture Plants
 
 One of the most remarkable features of [[schultes-ayahuasca-analogs-dmt-plants]] additive is Psychotria viridis,
 known as chacruna in Peru. This 20-foot forest treelet belongs to the

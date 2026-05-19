@@ -6,7 +6,7 @@ tags: [shamanic, healing, divination, entheogen, ceremony, indigenous, ritual, p
 created: 2026-05-08
 ---
 
-# Shamanic Entheogenic Healing Rituals
+## Shamanic Entheogenic Healing Rituals
 
 ## Overview
 

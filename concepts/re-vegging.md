@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Re-Vegging
+## Re-Vegging
 
 Re-vegging (re-vegetating) is the process of reversing a cannabis plant from the [[cannabis-vegetative-growth-stage]]. The plant, having completed or partially completed its [[green-cannabis-vegetative-growth]]. Cervantes refers to this process as "rejuvenation" and defines it in his glossary as "a mature plant, having completed its [[query-best-light-schedule-for-cannabis]], the photoperiod signal shifts and the plant begins producing vegetative growth again. The plant stops developing flowers and reverts to producing leaves and branches. This process allows growers to harvest a plant and then keep it alive for a second (or subsequent) [[green-cannabis-photoperiod-12-12-light-cycle]] back to 18/6 (18 hours light, 6 hours darkness)
 4. Apply a high-nitrogen fertilizer to promote green leafy growth

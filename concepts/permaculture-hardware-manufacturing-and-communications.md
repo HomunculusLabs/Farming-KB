@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Hardware Manufacturing and Communications Systems
+## Permaculture Hardware Manufacturing and Communications Systems
 
 A significant portion of the [[permaculture-design]] course addresses the practical infrastructure needed to support a self-reliant community: the physical tools, manufacturing systems, and communications networks that transform [[permaculture]] from theory into a functioning alternative economy.
 

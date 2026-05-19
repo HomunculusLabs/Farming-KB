@@ -1,5 +1,5 @@
 ---
-title: gourmet-mushroom-enriched-sawdust-cultivation Cultivation
+title: "Enriched Sawdust Cultivation"
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Enriched Sawdust Cultivation
+## Enriched Sawdust Cultivation
 
 [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] including Shiitake
 ([[hericium-erinaceus]]), Nameko

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Legal History of Psilocybian Mushrooms in Australia and New Zealand
+## Legal History of Psilocybian Mushrooms in Australia and New Zealand
 
 ## The Rise of Recreational Use (1960s-1970s)
 

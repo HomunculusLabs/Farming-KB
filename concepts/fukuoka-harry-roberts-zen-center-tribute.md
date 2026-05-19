@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Harry Roberts and the Green Gulch Zen Center Tribute
+## Harry Roberts and the Green Gulch Zen Center Tribute
 
 Harry Roberts (1906-1986) was a [[comparison-natural-farming-vs-permaculture]] can create
 between people who share a deep reverence for the living earth.

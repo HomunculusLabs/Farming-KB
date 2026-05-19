@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mushroom-cultivation, sterilization, hydrogen-peroxide, low-tech, substrate-preparation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Peroxide-Based Sterilization Methods for Mushroom Cultivation
+## Peroxide-Based Sterilization Methods for Mushroom Cultivation
 
 [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] without autoclaves
 or large pressure canners, making gourmet and medicinal mushroom cultivation

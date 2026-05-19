@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Transition from Conventional to Organic Farming
+## JADAM Transition from Conventional to Organic Farming
 
 ## Overview
 

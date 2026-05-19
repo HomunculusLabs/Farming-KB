@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Duck and Carp in Rice Paddies — Three-Dimensional Field Use
+## Duck and Carp in Rice Paddies — Three-Dimensional Field Use
 
 ## The Concept
 

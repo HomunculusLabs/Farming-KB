@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# David as Adonis, the Egypt/Exodus Myth, and Mushroom-Based Name Word-Play
+## David as Adonis, the Egypt/Exodus Myth, and Mushroom-Based Name Word-Play
 
 [[allegro-main-thesis|main thesis]]. Names, titles, and entire stories become vehicles for encoding the cultic significance of the sacred fungus.
 

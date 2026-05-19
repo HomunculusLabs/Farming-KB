@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Growing Salad Greens: Lettuce, Spinach, and More
+## Solomon on Growing Salad Greens: Lettuce, Spinach, and More
 
 From [[winter-gardening-techniques]]
 - [[parsley-celery-herbs-growing-guide]]

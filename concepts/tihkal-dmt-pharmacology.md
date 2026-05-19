@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# DMT (N,N-Dimethyltryptamine) Pharmacology and Effects
+## DMT (N,N-Dimethyltryptamine) Pharmacology and Effects
 
 ## Chemical Identity
 

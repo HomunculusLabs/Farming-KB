@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca, ethics]
 ---
 
-# [[ayahuasca-tourism-western-seekers-and-integration]] in the 1990s, commercial demand created a tourism industry that inevitably transforms the character of the ceremonies it packages and sells.
+## [[ayahuasca-tourism-western-seekers-and-integration]] in the 1990s, commercial demand created a tourism industry that inevitably transforms the character of the ceremonies it packages and sells.
 
 The ethical landscape is complex, involving tensions between genuine cross-cultural exchange and exploitative commercialization, between seekers' spiritual aspirations and practitioners' economic realities.
 

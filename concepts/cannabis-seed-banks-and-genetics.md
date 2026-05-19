@@ -7,7 +7,7 @@ tags: [cannabis, genetics, species-profiles, organization, seeds, beginner]
 sources: []
 ---
 
-# Cannabis Seed Banks and Genetics
+## Cannabis Seed Banks and Genetics
 
 ## Overview
 

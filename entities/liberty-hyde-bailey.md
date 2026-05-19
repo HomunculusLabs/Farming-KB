@@ -5,7 +5,7 @@ type: entity
 tags: [person, botany, horticulture, history, 19th-century, american]
 ---
 
-# Liberty Hyde Bailey
+## Liberty Hyde Bailey
 
 ## Description
 

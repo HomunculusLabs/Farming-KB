@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Pest Management with AACT
+## Pest Management with AACT
 
 Extracted from Elaine Ingham's AACT Field Guide, covering [[ingham-anaerobic-vs-aerobic-compost-tea]] -- anaerobic brews
 protect plants from pests by toxic compounds they produce, but these are

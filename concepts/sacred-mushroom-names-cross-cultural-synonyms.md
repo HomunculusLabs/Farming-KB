@@ -7,7 +7,7 @@ tags: [ethnomycology, entheogens, mythology, amanita-muscaria, symbolism]
 sources: [raw/papers/arthur-j-mushrooms-and-mankind.md]
 ---
 
-# Sacred Mushroom Names and Cross-Cultural Synonyms
+## Sacred Mushroom Names and Cross-Cultural Synonyms
 
 The entheogenic mushroom — particularly [[soma-and-the-sacred-mushroom-debate]] as [[allegro-soma-mushroom-thesis]] and [[christmas-mushroom-symbolism]]
 - [[egyptian-mushroom-symbolism]]

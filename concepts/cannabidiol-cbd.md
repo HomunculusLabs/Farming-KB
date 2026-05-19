@@ -6,7 +6,7 @@ source: uwe blesching the cannabis health index
 created: 2026-05-10
 ---
 
-# Cannabidiol (CBD)
+## Cannabidiol (CBD)
 
 Cannabidiol (CBD) is a non-psychoactive cannabinoid sourced from cannabis. It has emerged as one of the most therapeutically promising compounds in the [[cannabis-and-multiple-sclerosis]], where CBD has demonstrated the ability to reduce neuroinflammation and oxidative stress in neural tissues.
 

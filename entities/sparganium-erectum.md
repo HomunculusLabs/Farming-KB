@@ -16,7 +16,7 @@ sources:
   - Ceska, A. & Ceska, O. (1986). "Sparganium (Typhaceae) in British Columbia." Canadian Journal of Botany, 64(7), 1537-1542.
 ---
 
-# Sparganium erectum
+## Sparganium erectum
 
 ## Overview
 

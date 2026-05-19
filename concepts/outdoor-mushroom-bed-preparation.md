@@ -15,7 +15,7 @@ sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
-# Outdoor Mushroom Bed Preparation
+## Outdoor Mushroom Bed Preparation
 
 ## Overview
 

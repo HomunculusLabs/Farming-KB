@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Nematophagous Fungi — Predatory Fungi That Trap and Kill Nematodes
+## Nematophagous Fungi — Predatory Fungi That Trap and Kill Nematodes
 
 ## Overview
 

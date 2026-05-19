@@ -7,7 +7,7 @@ tags: [fertilizer, soil, nutrients, composting]
 sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 ---
 
-# Organic Fertilizer Sources by Nutrient
+## Organic Fertilizer Sources by Nutrient
 
 updated: 2026-04-18
 

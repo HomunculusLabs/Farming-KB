@@ -6,7 +6,7 @@ source: [grahamholmes-what-a-plant-knowsindd]
 created: 2026-05-10
 ---
 
-# Human Eye Photoreceptor Analogy: Understanding Plant Light Perception Through Vision Science
+## Human Eye Photoreceptor Analogy: Understanding Plant Light Perception Through Vision Science
 
 ## Overview
 

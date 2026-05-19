@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, mushroom-cultivation, spores, inoculation, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
-# Mushroom Spore Syringes A spore syringe is a suspension of mushroom spores in sterile water, packaged in a syringe for convenient inoculation of mushroom cultivation substrates. Spore syringes are the most common starting material for home mushroom cultivation, particularly for [[mushroom-spore-printing-syringe-preparation-pf-tek]] and use is critical:
+## Mushroom Spore Syringes A spore syringe is a suspension of mushroom spores in sterile water, packaged in a syringe for convenient inoculation of mushroom cultivation substrates. Spore syringes are the most common starting material for home mushroom cultivation, particularly for [[mushroom-spore-printing-syringe-preparation-pf-tek]] and use is critical:
 
 - **Spore [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood significantly reduces contamination risk.
 

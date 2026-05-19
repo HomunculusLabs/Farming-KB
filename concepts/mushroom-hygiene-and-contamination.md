@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, mushroom-cultivation, contamination, sterilization, hygiene]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
 
-# Mushroom Hygiene and Contamination
+## Mushroom Hygiene and Contamination
 
 Contamination is the most common challenge in [[bacillus-subtilis]] is the most frequently implicated species. Its
   endospores survive standard boiling and require [[growing-gourmet-bacterial-blotch-disease-management]] on mushroom caps, appearing

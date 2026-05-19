@@ -8,7 +8,7 @@ type: concept
 tags: [entheogen]
 ---
 
-# Brugmansia Entheogens
+## Brugmansia Entheogens
 
 Brugmansia species, commonly known as Angel's Trumpets or Tree
 Daturas, are large shrubs or small trees of the Solanaceae

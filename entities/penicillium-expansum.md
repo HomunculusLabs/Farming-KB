@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, post-harvest-pathogen, mycotoxin, fruit-rot]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Penicillium expansum
+## Penicillium expansum
 
 **Type:** Species (Fungus)
 **Category:** Filamentous Ascomycete (Post-Harvest Pathogen)

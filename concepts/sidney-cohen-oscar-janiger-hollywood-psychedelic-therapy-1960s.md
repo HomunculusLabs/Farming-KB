@@ -5,7 +5,7 @@ tags: [psychedelic-therapy, hollywood, sidney-cohen, oscar-janiger, lsd, history
 created: 2026-05-10
 ---
 
-# Sidney Cohen and Oscar Janiger: Hollywood Psychedelic Therapy
+## Sidney Cohen and Oscar Janiger: Hollywood Psychedelic Therapy
 
 ## Overview
 

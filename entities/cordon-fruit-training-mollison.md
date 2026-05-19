@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Cordon Fruit Training
+## Cordon Fruit Training
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - raw/papers/farmers-of-forty-centuries-f-h-king.md
 ---
-# DMT Smoking Technique and Preparation
+## DMT Smoking Technique and Preparation
 
 DMT (N,N-dimethyltryptamine) is a powerful short-acting psychedelic compound found in numerous plants and animals, including the human brain. When smoked, it produces an intense, rapid-onset experience lasting 5-20 minutes. This page covers preparation, technique, and [[entheogen-jurema-mimosa-hostilis-ethnobotany]], the leaves of [[arbuscular-mycorrhizal-spore-extraction-methods]] vary:
 

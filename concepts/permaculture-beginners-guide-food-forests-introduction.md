@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, food-forests, forest-gardens, stacking, layers, polyculture, burnett]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-# Permaculture Beginners Guide — Food Forests Introduction [[forest-garden-seven-layers]] for comprehensive treatments from other sources.
+## Permaculture Beginners Guide — Food Forests Introduction [[forest-garden-seven-layers]] for comprehensive treatments from other sources.
 
 ## The Forest Garden Concept
 

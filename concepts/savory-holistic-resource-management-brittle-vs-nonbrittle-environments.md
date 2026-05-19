@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Brittle vs Nonbrittle Environments
+## Brittle vs Nonbrittle Environments
 
 The distinction between brittle and nonbrittle environments is one of Allan
 Savory's most important contributions to ecological understanding. This

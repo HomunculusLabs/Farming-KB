@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Animal Tractoring in Permaculture
+## Animal Tractoring in Permaculture
 
 Animal tractoring in [[savory-fencing-economics-and-stock-density-curve]] and shorter duration. The high density ensures thorough ground disturbance and manure coverage. The [[mollison-designers-chicken-tractors-egg-production]], all different. Some incorporate passionfruit fence and trellis crops, some function as vegetable gardens, and some prepare ground for small fruit trees or herbaceous orchards. All are remarkable for lack of weeds and high production.
 

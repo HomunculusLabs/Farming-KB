@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest System
+## Winter Harvest System
 
 [[eliot-coleman-and-the-winter-harvest-handbook]] system is a method of year-round [[coleman-french-historical-winter-vegetable-production]] developed by Eliot
 Coleman at Four Season Farm in Harborside, Maine. It demonstrates that fresh, high-quality

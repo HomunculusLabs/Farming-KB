@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Growing Vegetables Essentials
+## Growing Vegetables Essentials
 
 Source: Steve Solomon, "Gardening When It Counts" (2005)
 

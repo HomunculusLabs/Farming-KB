@@ -8,7 +8,7 @@ tags: [cannabis]
 updated: 2026-04-26
 ---
 
-# Air Quality and Ventilation
+## Air Quality and Ventilation
 
 Good air quality and ventilation are essential for [[cervantes-ozone-generators-negative-ion-odor]], ONA (odor neutralizing agents), and negative ion generators. These can supplement carbon filtration but are generally less effective on their own. Sealing the grow room and maintaining negative air pressure (exhaust pulls harder than intake pushes) prevents odor from escaping through cracks and openings.
 

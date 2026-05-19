@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Rust Fungi Life Cycle
+## Rust Fungi Life Cycle
 
 Rust fungi are basidiomycete pathogens — see [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Thin hairs protrude from the opening, and each spermagonium exudes sugary nectar along with masses of spherical **spermatia** that function as sperm cells.
 

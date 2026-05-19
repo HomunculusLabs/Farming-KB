@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Fertilizer Acidification and Trace Element Deficiency in Crop Nutrition
+## Fertilizer Acidification and Trace Element Deficiency in Crop Nutrition
 
 [[cervantes-chemical-fertilizers-guide]] introduce disruption rather than nourishment. The [[hamilton-composting-and-organic-matter-management]], maintaining living ground covers, and allowing natural biological processes — rather than trying to feed the plants directly with chemical inputs.
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Shiitake Cultivation Methods
+## Shiitake Cultivation Methods
 
 ## Overview
 

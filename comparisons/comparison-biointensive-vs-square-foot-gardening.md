@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Biointensive vs Square Foot Gardening
+## Biointensive vs Square Foot Gardening
 
 ## Overview
 

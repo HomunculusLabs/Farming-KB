@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Overwatering and Underwatering Cannabis
+## Overwatering and Underwatering Cannabis
 
 Proper watering is one of the most important skills in
 [[cervantes-growing-medium]]

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Identify and Fix Magnesium Deficiency in Cannabis?
+## How Do I Identify and Fix Magnesium Deficiency in Cannabis?
 
 ## Short Answer
 Magnesium deficiency in cannabis causes interveinal chlorosis (yellowing between leaf

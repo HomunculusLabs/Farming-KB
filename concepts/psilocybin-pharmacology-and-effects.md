@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [pharmacology, psilocybin, effects, dosage, serotonin, 5-HT2A, onset, duration, toxicity]
 ---
 
-# Pharmacology and Acute Effects of [[hofmann-lsd-clinical-research-early-studies]]
+## Pharmacology and Acute Effects of [[hofmann-lsd-clinical-research-early-studies]]
 and harm reduction.
 
 ## Chemical Classification

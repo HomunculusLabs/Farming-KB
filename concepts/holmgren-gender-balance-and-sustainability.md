@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
-# Gender Balance and Sustainability
+## Gender Balance and Sustainability
 Updated: 2026-04-18
 Source: [[permaculture-principle-creatively-use-and-respond-to-change]])
 

@@ -22,7 +22,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Homesteading Infrastructure
+## Homesteading Infrastructure
 
 A well-designed homestead integrates housing, animal systems, gardens, water, energy, and waste into a closed-loop system. The goal is to minimize external inputs and maximize the connections between elements so that the output of one system becomes the input of another.
 

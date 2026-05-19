@@ -7,7 +7,7 @@ tags: [fungi, pathogen, mycopesticides, pest-management]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-# Soil Fungi and Plant Health - Pathogens, Biocontrol, and Soil Food Webs
+## Soil Fungi and Plant Health - Pathogens, Biocontrol, and Soil Food Webs
 
 Updated: 2026-04-18
 

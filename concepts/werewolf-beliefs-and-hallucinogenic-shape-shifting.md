@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Werewolf Beliefs and Hallucinogenic Shape-Shifting
+## Werewolf Beliefs and Hallucinogenic Shape-Shifting
 
 ## Overview
 

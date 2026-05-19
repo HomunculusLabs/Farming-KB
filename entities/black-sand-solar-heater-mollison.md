@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, solar-energy, water-heating, passive-design, invention]
 ---
 
-# Black Sand Solar Heater (Mollison's Invention)
+## Black Sand Solar Heater (Mollison's Invention)
 
 ## Description
 

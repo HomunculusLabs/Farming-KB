@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: mycology, biogeography, psilocybin, ethnobotany
 ---
 
-# Global Distribution of Neurotropic Fungi
+## Global Distribution of Neurotropic Fungi
 
 Gastón Guzmán, John W. Allen, and jochen gartz published a landmark
 comprehensive survey in 2000 documenting the worldwide geographical

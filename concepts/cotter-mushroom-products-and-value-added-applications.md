@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Products and Value-Added Applications
+## Mushroom Products and Value-Added Applications
 
 Mushrooms can be transformed into a wide range of [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of honey with
 [[pf-tek-alcohol-extraction-method]] is preferred over hot water extraction alone because alcohol

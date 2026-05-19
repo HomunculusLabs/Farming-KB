@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# System Yield and Yield Strategies
+## System Yield and Yield Strategies
 
 In [[annidation]]**: A design strategy of nesting or stacking one thing within another, like a bowl in a bowl or a vine in a tree. Sequential annidation includes interplanting and intercropping.
 - **Tessellation**: Forming or arranging a mosaic of parts — tessellation of cycles and successions as in browsing sequences.

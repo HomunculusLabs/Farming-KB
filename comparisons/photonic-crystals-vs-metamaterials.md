@@ -6,14 +6,14 @@ tags: [optics, photonics, materials-science, metamaterials, nanotechnology]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/photonic-crystals.md
+  - raw/concepts/photonic-crystals.md
 related_concepts:
   - photonic-crystals
   - topological-insulators
   - stress-strain-and-elasticity
 type: comparison
 ---
-# [[sajeev-john]]
+## [[sajeev-john]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

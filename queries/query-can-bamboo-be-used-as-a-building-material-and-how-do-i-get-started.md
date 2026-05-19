@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Can Bamboo Be Used as a Building Material and How Do I Get Started?
+## Can Bamboo Be Used as a Building Material and How Do I Get Started?
 
 ## Short Answer
 

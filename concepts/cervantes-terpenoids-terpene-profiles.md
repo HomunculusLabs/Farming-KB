@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Terpenoids and Terpene Profiles
+## Cannabis Terpenoids and Terpene Profiles
 
 Terpenoids are the aromatic compounds responsible for the distinctive
 smell and taste of cannabis. They are produced in the same [[fungal-volatile-organic-compounds-communication]] compounds found in the [[essential-oils-and-hydrosol-distillation]]

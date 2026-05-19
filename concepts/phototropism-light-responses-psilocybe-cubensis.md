@@ -8,7 +8,7 @@ type: concept
 tags: [phototropism, light, psilocybe-cubensis, mushroom-growth, blue-light, mycology]
 ---
 
-# Phototropism and Light Responses in Psilocybe Cubensis
+## Phototropism and Light Responses in Psilocybe Cubensis
 
 Light plays multiple essential roles in the development of *Psilocybe
 cubensis*, influencing [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]]. Badham's 1982 study demonstrated

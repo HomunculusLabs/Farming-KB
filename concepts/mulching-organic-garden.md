@@ -9,7 +9,7 @@ sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 type: concept
 ---
 
-# Mulching in the Organic Garden
+## Mulching in the Organic Garden
 
 Mulching involves covering the soil surface with a layer
 of material to exclude light, prevent weeds, conserve

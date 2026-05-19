@@ -7,7 +7,7 @@ tags: [gardening, water, water-management, vegetables, sustainability, resilienc
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Drought Gardening
+## Drought Gardening
 
 Growing vegetables with little or no irrigation, using wider spacing and techniques that allow plants to access deeper soil moisture. Steve Solomon mastered this approach through research and experimentation, detailed in his earlier book *Waterwise Vegetables*.
 

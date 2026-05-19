@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Plants and Drugs in the Ancient World
+## Plants and Drugs in the Ancient World
 
 Allegro situates the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East. He argues that many plants mentioned in biblical and classical texts — frankincense, myrrh, mandrake, and others — were part of a pharmacopoeia whose uses were encoded in Sumerian plant names.
 

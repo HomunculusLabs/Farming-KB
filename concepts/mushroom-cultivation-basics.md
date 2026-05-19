@@ -20,7 +20,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Mushroom Cultivation Basics
+## Mushroom Cultivation Basics
 
 Mushroom cultivation is the process of isolating a mushroom species from the wild and growing it under controlled conditions. Unlike plants, mushrooms are the fruiting bodies of mycelium — a vast network of fungal cells that decompose organic matter. All cultivation methods follow the same basic lifecycle: spore → mycelium → primordium → mushroom.
 

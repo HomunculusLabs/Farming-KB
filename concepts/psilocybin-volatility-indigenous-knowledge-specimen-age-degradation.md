@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [mycology, psilocybin, psilocin, degradation, volatility, specimen-age, indigenous-knowledge, herbarium, drying, storage, chemistry]
 ---
 
-# Psilocybin and Psilocin Volatility: Indigenous Knowledge and Specimen Age Degradation
+## Psilocybin and Psilocin Volatility: Indigenous Knowledge and Specimen Age Degradation
 
 ## Overview
 

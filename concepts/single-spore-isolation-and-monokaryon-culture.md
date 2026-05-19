@@ -1,4 +1,8 @@
-# Single Spore Isolation and Monokaryon Culture
+---
+title: "Single Spore Isolation and Monokaryon Culture"
+tags:
+  - concept
+---
 
 Single spore isolation is the foundational technique for obtaining genetically
 pure monokaryotic (haploid) mycelial cultures from [[vic-high-true-breeding-strain-development-stabilization]] in both commercial [[cannabis-strain-breeding-techniques]]**: Provides the parental monokaryons needed for controlled

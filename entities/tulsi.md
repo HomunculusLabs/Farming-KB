@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/a-selection-permaculture-plants.md"
 ---
 
-# Tulsi (Ocimum tenuiflorum)
+## Tulsi (Ocimum tenuiflorum)
 
 Tulsi, also known as holy basil or sacred basil, is an aromatic perennial
 herb in the family Lamiaceae, native to the Indian subcontinent and

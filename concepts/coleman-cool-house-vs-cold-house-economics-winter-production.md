@@ -4,7 +4,7 @@ source: Coleman, E. (2009). The Winter Harvest Handbook. Chelsea Green Publishin
 tags: [winter-harvest, greenhouse-economics, cool-house, cold-house, coleman, season-extension, heating]
 ---
 
-# Cool House vs Cold House Economics in Winter Vegetable Production
+## Cool House vs Cold House Economics in Winter Vegetable Production
 
 ## Overview
 

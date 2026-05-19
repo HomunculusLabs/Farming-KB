@@ -20,7 +20,7 @@ sources:
 - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-# Hallucinogenic Plant Chemistry
+## Hallucinogenic Plant Chemistry
 
 The chemical basis of plant hallucinogens, organized by structural family. Based on [[richard-evans-schultes-updated]]'s Golden Guide to Hallucinogenic Plants (1976) and modern pharmacology.
 

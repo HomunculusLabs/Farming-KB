@@ -16,7 +16,7 @@ sources:
   - Chilton, W.S. et al. (1979). "metzner-ayahuasca-therapeutic-potential." Frontiers in Pharmacology.
 ---
 
-# Muscimol
+## Muscimol
 
 ## Overview
 

@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Rock Phosphate vs Sulfur Plant Nutrition
+## Rock Phosphate vs Sulfur Plant Nutrition
 
 ## Overview
 

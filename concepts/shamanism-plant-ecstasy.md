@@ -8,7 +8,7 @@ aliases:
   - archaic-revival-partnership-vs-dominator-cultures*. HarperCollins."
 ---
 
-# Shamanism, Plant Ecstasy, and Cultural Context
+## Shamanism, Plant Ecstasy, and Cultural Context
 
 ## Overview
 

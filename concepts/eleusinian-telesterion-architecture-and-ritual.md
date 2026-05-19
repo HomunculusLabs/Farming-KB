@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Telesterion — Architecture and Ritual of the Vision Hall
+## Telesterion — Architecture and Ritual of the Vision Hall
 
 **Source:** The [[set-and-setting-eleusinian-initiation-methodology]] itself.
 

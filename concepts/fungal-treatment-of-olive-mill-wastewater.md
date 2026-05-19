@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Fungal Treatment of Olive Mill Wastewater
+## Fungal Treatment of Olive Mill Wastewater
 
 Olive mill wastewater (OMW) is one of the most problematic agro-industrial
 effluents in Mediterranean countries, which produce about 98% of global olive

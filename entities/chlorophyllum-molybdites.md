@@ -5,7 +5,7 @@ type: entity
 tags: [mushroom, species, poisonous, lookalike, identification]
 ---
 
-# Chlorophyllum molybdites
+## Chlorophyllum molybdites
 
 ## Description
 

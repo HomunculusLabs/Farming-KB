@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# BOM
+## BOM
 
 **[[mescaline]] -- the parent compound providing the 3,4,5-trimethoxy pattern
 

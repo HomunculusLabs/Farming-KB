@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Forest Garden Seven Layers
+## Forest Garden Seven Layers
 
 The forest garden is the most productive and self-sustaining form of ecological gardening, modeled after the structure of natural woodland ecosystems. While a basic forest garden contains three layers (trees, shrubs, and ground plants), a fully developed forest garden exploits up to seven tiers of vegetation to maximize food production, habitat creation, and resource cycling within a single landscape.
 

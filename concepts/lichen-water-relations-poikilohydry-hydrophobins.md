@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Lichen Water Relations — Poikilohydry and Hydrophobin-Mediated Water Management
+## Lichen Water Relations — Poikilohydry and Hydrophobin-Mediated Water Management
 
 ## Overview
 

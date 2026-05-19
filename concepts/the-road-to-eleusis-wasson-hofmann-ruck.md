@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# The Road to Eleusis: Wasson, Hofmann, and Ruck
+## The Road to Eleusis: Wasson, Hofmann, and Ruck
 
 "The Road to Eleusis: Unveiling the Secret of the Mysteries" (1978) is a collaborative work by R. Gordon Wasson, Albert Hofmann, and Carl A. P. Ruck that proposes the entheogenic hypothesis of the [[bloomfield-ergot-claviceps-purpurea-ergotism]]), a fungal parasite of barley and other grains. This theory builds on the existing body of work documented in [[gartz-wasson-mexican-mushroom-cult-rediscovery]] velada and the [[lsd-discovery-and-history]] and [[wasson-hofmann-ruck-theory]]
 [[ergot-and-lysergic-acid-history]]

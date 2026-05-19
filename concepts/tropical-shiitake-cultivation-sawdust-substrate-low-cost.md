@@ -5,7 +5,7 @@ author: unknown
 topics: [shiitake, tropical-cultivation, sawdust-substrate, mushroom-strains, fruiting, low-cost]
 ---
 
-# Tropical Shiitake Cultivation — Sawdust Substrate, Strain Selection, and Low-Cost Methods
+## Tropical Shiitake Cultivation — Sawdust Substrate, Strain Selection, and Low-Cost Methods
 
 Shiitake (*Lentinula edodes*) is traditionally associated with temperate East
 Asian climates and log-based cultivation [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]-adapted strains has made shiitake cultivation

@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cultivation, france, caves, infrastructure]
 ---
 
-# Champignonnière
+## Champignonnière
 
 ## Description
 

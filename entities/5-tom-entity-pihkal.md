@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 5-TOM
+## 5-TOM
 
 [[methanol]]. This was reduced with LAH in ether
 containing anhydrous AlCl3, giving

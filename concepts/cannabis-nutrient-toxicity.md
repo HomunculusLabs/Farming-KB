@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients, toxic]
 ---
 
-# Cannabis Nutrient Toxicity
+## Cannabis Nutrient Toxicity
 
 ## Overview
 

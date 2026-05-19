@@ -5,7 +5,7 @@ tags: [mycology, mycofiltration, bioremediation, water-filtration, mushroom-cult
 created: 2026-05-11
 ---
 
-# Mushroom Mycofiltration: Mycelium as a Biological Filtration Membrane
+## Mushroom Mycofiltration: Mycelium as a Biological Filtration Membrane
 
 ## Overview
 

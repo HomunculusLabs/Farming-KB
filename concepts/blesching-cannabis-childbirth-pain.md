@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Childbirth Pain
+## Cannabis and Childbirth Pain
 
 Cannabis was once a plant consistently employed across a wide range of cultures
 to manage and treat gynecological issues by healers, midwives, herbalists, and

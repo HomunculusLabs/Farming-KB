@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: The One Straw Revolution -- Final Chapter
+## Fukuoka: The One Straw Revolution -- Final Chapter
 
 Source: [[fukuoka-western-eastern-philosophy-agriculture]] from the [[fukuoka-breakdown-japanese-agriculture]]. The neglect of straw -- once the farmer's most precious resource -- symbolizes the broader disconnection from nature that characterizes modern industrial society.
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# DNA Barcoding for Fungal Identification
+## DNA Barcoding for Fungal Identification
 
 DNA barcoding uses short, standardized DNA sequences to identify fungal species. The Internal Transcribed Spacer (ITS) region has been adopted as the official fungal barcode, revolutionizing [[core-endorhiza-bacterial-community-composition-cannabis]] without cultivation
 - Can detect rare and unculturable species

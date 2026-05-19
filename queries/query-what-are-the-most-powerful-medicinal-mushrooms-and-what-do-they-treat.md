@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Most Powerful Medicinal Mushrooms and What Do They Treat?
+## What Are the Most Powerful Medicinal Mushrooms and What Do They Treat?
 
 ## Short Answer
 The most powerful medicinal mushrooms include [[reishi-ganoderma-lucidum]] has been used in Traditional Chinese Medicine for

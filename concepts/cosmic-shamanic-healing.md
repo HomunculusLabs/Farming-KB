@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Cosmic Shamanic Healing
+## Cosmic Shamanic Healing
 
 In the [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], healing is not confined to the physical body or even the earthly realm. Shamans routinely interact with extraterrestrial beings, travel to distant planets, receive knowledge from cosmic civilizations, and perform surgery in visionary space with the assistance of beings from other galaxies. This article explores the intersection of [[amaringo-ayahuasca-visions-shipibo-iconography]].
 

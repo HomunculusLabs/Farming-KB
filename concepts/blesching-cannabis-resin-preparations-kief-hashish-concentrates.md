@@ -5,7 +5,7 @@ source_path: raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [cannabis, kief, hashish, resin, solvent-extraction, concentrate, butane, isopropyl, decarboxylation, trichome, preparation]
 ---
 
-# Cannabis Resin Preparations: Kief, Hashish, and Solvent Extracts
+## Cannabis Resin Preparations: Kief, Hashish, and Solvent Extracts
 
 ## Overview
 

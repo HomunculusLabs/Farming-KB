@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Amanita Muscaria Emerging Alternative
+## EMCDDA Hallucinogenic Mushroom Amanita Muscaria Emerging Alternative
 
 ## Overview
 

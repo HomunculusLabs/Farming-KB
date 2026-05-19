@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Catahua Negra
+## Catahua Negra
 
 ## Description
 

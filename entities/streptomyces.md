@@ -27,7 +27,7 @@ date: 2026-05-02
 updated: 2026-05-02
 ---
 
-# Streptomyces
+## Streptomyces
 
 **Streptomyces** is a large genus of aerobic, filament-forming bacteria in the phylum Actinomycetota.
 It is the type genus of the family Streptomycetaceae and one of the most important bacterial groups in soil ecology.

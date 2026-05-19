@@ -5,7 +5,7 @@ tags: [botany, photobiology, phytochrome, shade-avoidance, red-far-red-ratio, pl
 date: 2026-05-08
 ---
 
-# Phytochrome Red-to-Far-Red Ratio and Shade Detection in Plants
+## Phytochrome Red-to-Far-Red Ratio and Shade Detection in Plants
 
 ## Overview
 

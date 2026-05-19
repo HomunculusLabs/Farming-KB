@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 topics: [natural-farming, philosophy, spirituality, ecology, sustainability]
 ---
 
-# Natural Farming as Spiritual Light for Humanity's Survival
+## Natural Farming as Spiritual Light for Humanity's Survival
 
 In the preface to *The Road Back to Nature*, Masanobu Fukuoka articulates what
 he considered the deepest dimension [[allegro-garden-of-eden-and-delight]]. Rather than embracing this vision, he turned

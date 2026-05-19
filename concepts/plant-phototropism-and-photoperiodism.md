@@ -1,4 +1,8 @@
-# Plant [[plant-memory-and-learning]]
+---
+title: "Plant plant memory and learning"
+tags:
+  - concept
+---
 
 ## Integration with Other Systems
 

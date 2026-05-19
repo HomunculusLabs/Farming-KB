@@ -10,7 +10,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Hallucinogenic Mushroom Dose and Effects
+## Hallucinogenic Mushroom Dose and Effects
 
 ## Overview
 

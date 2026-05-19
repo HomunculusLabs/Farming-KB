@@ -20,7 +20,7 @@ type: query
 created: 2026-05-07
 ---
 
-# How Do I Start a Small-Scale Mushroom Log Cultivation Operation?
+## How Do I Start a Small-Scale Mushroom Log Cultivation Operation?
 
 A practical guide for beginners looking to [[query-what-are-the-best-mushroom-species-for-beginners]] risk as wild fungi colonize.
 - Fresh-cut logs should have intact bark — do not peel or damage it.

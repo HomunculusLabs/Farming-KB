@@ -7,7 +7,7 @@ tags: [compost, composting, soil, microbes, temperature, methods, soil-building,
 sources: []
 ---
 
-# Hot Composting Method
+## Hot Composting Method
 
 > Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki's raw/ directory.
 

@@ -23,7 +23,7 @@ sources:
 type: query
 ---
 
-# What Role Do Fungi Play in Soil Aggregation and Erosion Prevention?
+## What Role Do Fungi Play in Soil Aggregation and Erosion Prevention?
 
 ## Short Answer
 

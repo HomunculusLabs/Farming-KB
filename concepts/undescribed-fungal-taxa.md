@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, taxonomy, biodiversity, conservation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Undescribed Fungal Taxa
+## Undescribed Fungal Taxa
 
 Undescribed fungal taxa represent the vast majority of fungal species on
 Earth. With an estimated 2.2 to 3.8 million fungal species and only

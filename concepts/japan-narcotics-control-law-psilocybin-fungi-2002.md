@@ -1,4 +1,8 @@
-# Japan Narcotics Control Law Amendment Regulating  ning Fungi (2002)
+---
+title: "Japan Narcotics Control Law Amendment Regulating  ning Fungi (2002)"
+tags:
+  - concept
+---
 ## Overview of the Regulatory Change
 On June 6, 2002, the Japanese government enacted a critical amendment to the Narcotics and Psychotropics
 Control Law that brought psilocybin-  in-containing fungi under formal legal regulation for the
@@ -144,7 +148,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

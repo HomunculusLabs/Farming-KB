@@ -27,7 +27,7 @@ date: 2026-04-28
 updated: 2026-04-28
 ---
 
-# Eurycoma longifolia
+## Eurycoma longifolia
 
 **Eurycoma longifolia** (tongkat ali, longjack, pasak bumi) is a flowering plant in the family Simaroubaceae, native to [[cervantes-selfing-single-seed-descent]]. Propagation is primarily by seed, though stem cuttings and [[hamilton-composting-and-organic-matter-management]] and annual rainfall exceeding 2,000 mm. Wild populations have declined significantly due to deforestation and unsustainable root harvesting.
 

@@ -23,7 +23,7 @@ sources:
   - https://www.firstnature.com/fungi/macrolepiota-rachodes.php
 ---
 
-# Macrolepiota rachodes (Shaggy Parasol)
+## Macrolepiota rachodes (Shaggy Parasol)
 
 ## Overview
 

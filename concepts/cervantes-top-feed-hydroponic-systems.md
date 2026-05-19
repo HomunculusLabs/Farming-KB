@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Top-Feed Hydroponic Systems for Cannabis
+## Top-Feed Hydroponic Systems for Cannabis
 
 Top-feed hydroponic systems are among the most productive,
 controllable, and widely used [[cervantes-rockwool-growing-substrate]], gravel, [[cervantes-case-study-energy-efficient-sea-of-green]]

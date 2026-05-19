@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 
-# [[virola-theiodora]] contains
+## [[virola-theiodora]] contains
 up to 8 percent tryptamines by weight, making it one of the most
 potent natural psychoactive preparations known. The primary active
 compound is 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT), a

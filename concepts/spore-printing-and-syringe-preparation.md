@@ -5,7 +5,7 @@ tags: [mycology, spores, cultivation, sterile-technique, psilocybe-cubensis]
 created: 2026-05-09
 ---
 
-# Spore Printing and Spore Syringe Preparation
+## Spore Printing and Spore Syringe Preparation
 
 ## Overview
 

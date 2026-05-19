@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wild Rice Aquaculture
+## Wild Rice Aquaculture
 
 Wild rice (Zizania spp.) represents one of the most recently domesticated grain crops and a uniquely valuable component of cold-climate aquacultural systems. Native to the regions of Canada and the United States from Minnesota to Florida, this tall annual grass (reaching 2.5 m) has been gathered as a grain for centuries by Amerindian tribes and brought into formal cultivation only within the last 30 years.
 

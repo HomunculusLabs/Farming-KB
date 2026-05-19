@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Cantharellus tubaeformis (Winter Chanterelle / Yellowfoot)
+## Cantharellus tubaeformis (Winter Chanterelle / Yellowfoot)
 
 Cantharellus tubaeformis, commonly known as the winter chanterelle, yellowfoot, funnel chanterelle, or trumpet chanterelle, is a small but highly prized [[psilocybin-north-america-pacific-northwest]].
 

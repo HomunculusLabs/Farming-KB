@@ -6,7 +6,7 @@ topics: ["seedling-production", "soil-blocks", "transplanting", "organic-farming
 type: concept
 ---
 
-# Soil Block Transplant System — Growing Seedlings Without Plastic Pots
+## Soil Block Transplant System — Growing Seedlings Without Plastic Pots
 
 ## Overview
 

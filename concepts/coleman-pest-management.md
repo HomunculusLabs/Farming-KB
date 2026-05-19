@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Pest Management
+## Pest Management
 
 [[cold-house-winter-harvest-system]], [[coleman-meadow-vole-pest-management]]. This chapter details the battle of
 wits with voles and the broader philosophy of pest prevention on

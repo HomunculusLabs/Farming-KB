@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Reefers and Tincture Preparation
+## Cannabis Reefers and Tincture Preparation
 
 A "reefer" is a marijuana cigarette that has been impregnated with cannabis extract. There are several methods for preparing reefers, each producing a different result in terms of potency, flavor, and burning characteristics.
 

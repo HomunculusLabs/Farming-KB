@@ -7,7 +7,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
-# Echinacea vs St. John's Wort
+## Echinacea vs St. John's Wort
 
 ## Overview
 

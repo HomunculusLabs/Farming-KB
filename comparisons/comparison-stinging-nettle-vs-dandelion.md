@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Stinging Nettle vs Dandelion
+## Stinging Nettle vs Dandelion
 
 ## Overview
 

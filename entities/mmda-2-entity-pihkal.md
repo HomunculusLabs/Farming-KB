@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MMDA-2
+## MMDA-2
 
 [[fukuoka-textdoc-production-costs-not-coming-down]], sleep was difficult. The
 > body feels unexpectedly depleted. Rubber legs and handwriting jerky.

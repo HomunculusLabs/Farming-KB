@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Health Philosophy -- Do Nothing and Return to Nature
+## Fukuoka's Health Philosophy -- Do Nothing and Return to Nature
 
 In  extends his [[fukuoka-natural-pest-balance]], medical interventions often create new health problems
 

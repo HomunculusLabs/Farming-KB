@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Myths for Identifying Poisonous Fungi
+## Myths for Identifying Poisonous Fungi
 
 The identification of poisonous fungi has long been plagued by folk beliefs, rule-of-thumb methods, and false assumptions. John Ramsbottom, in his 1945 work *Mushrooms and Toadstools*, systematically dismantled these myths, demonstrating that none of the commonly cited tests for distinguishing edible from poisonous species is reliable. The following is a detailed examination of each major myth and the scientific reality behind it.
 

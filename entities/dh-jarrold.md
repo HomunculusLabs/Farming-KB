@@ -5,7 +5,7 @@ type: entity
 tags: [person, cultivator, author, amateur, uk, indoor-growing, boil-a-bag]
 ---
 
-# D.H. Jarrold
+## D.H. Jarrold
 
 ## Description
 

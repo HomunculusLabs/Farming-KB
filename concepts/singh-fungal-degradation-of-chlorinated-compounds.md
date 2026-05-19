@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Degradation of Chlorinated Compounds
+## Fungal Degradation of Chlorinated Compounds
 
 Chlorinated [[trametes-versicolor-entity]], and
 [[fungal-manganese-peroxidase-remediation]] (MnP) initiate oxidation of PCBs

@@ -5,7 +5,7 @@ source_author: "steve-solomon"
 tags: [gardening, tools, wheelbarrow, maintenance, sharpening, solomon, hand-tools, garden-equipment]
 ---
 
-# Wheelbarrow Selection and Garden Tool Care Maintenance
+## Wheelbarrow Selection and Garden Tool Care Maintenance
 
 ## Wheelbarrow Selection
 

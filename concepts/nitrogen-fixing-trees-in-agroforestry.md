@@ -1,4 +1,8 @@
-# Nitrogen-Fixing Trees in Agroforestry
+---
+title: "Nitrogen-Fixing Trees in Agroforestry"
+tags:
+  - concept
+---
 
 Nitrogen-fixing trees are among the most valuable plants in [[agroforestry]] systems. Through a remarkable symbiotic relationship with soil
 microorganisms, these trees capture atmospheric nitrogen gas — which constitutes

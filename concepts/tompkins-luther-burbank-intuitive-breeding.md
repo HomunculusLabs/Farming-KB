@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Luther Burbank: Intuitive Plant Breeding
+## Luther Burbank: Intuitive Plant Breeding
 
 Luther Burbank (1849-1926), known as the "Wizard of Horticulture,"
 created over eight hundred new varieties of plants during his lifetime,

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, lifecycle, fruiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Mushroom Cultivation Lifecycle ## Overview Mushroom cultivation follows a predictable sequence of stages, each with distinct environmental requirements. Understanding this lifecycle is essential for managing the grow effectively and troubleshooting problems. The complete cycle from inoculation to harvest typically ranges from 4 to 12 weeks depending on the species, strain, substrate, and environmental conditions. Each stage presents its own challenges, and failure at any point can result in contamination, poor yields, or total crop loss. ## Stage 1: Inoculation The cycle begins when fungal genetic material — spores, liquid culture, or mycelium-network - [[lignicolous-fungi]]
+## Mushroom Cultivation Lifecycle ## Overview Mushroom cultivation follows a predictable sequence of stages, each with distinct environmental requirements. Understanding this lifecycle is essential for managing the grow effectively and troubleshooting problems. The complete cycle from inoculation to harvest typically ranges from 4 to 12 weeks depending on the species, strain, substrate, and environmental conditions. Each stage presents its own challenges, and failure at any point can result in contamination, poor yields, or total crop loss. ## Stage 1: Inoculation The cycle begins when fungal genetic material — spores, liquid culture, or mycelium-network - [[lignicolous-fungi]]
 ## Practical Applications
 
 Mushroom Cultivation Lifecycle has a range of practical applications that make it relevant to

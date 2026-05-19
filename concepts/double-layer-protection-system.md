@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Double Layer Protection System
+## Double Layer Protection System
 
 The double layer protection system is the core innovation behind successful unheated winter vegetable production in cold climates. By adding a second layer of protection inside an unheated greenhouse or high tunnel, growers can create a microclimate equivalent to moving three USDA hardiness zones to the south—without any supplemental heat. This system relies on the synergistic effect of two passive layers of protection, each capturing and retaining solar heat, to keep cold-hardy crops alive and harvestable throughout the winter.
 

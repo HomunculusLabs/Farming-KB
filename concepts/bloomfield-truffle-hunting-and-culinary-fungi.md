@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-# Truffle Hunting and Culinary Fungi
+## Truffle Hunting and Culinary Fungi
 
 The human fascination with edible fungi spans millennia, from ancient mushroom
 foragers to modern commercial truffle hunters who comb Italian forests with

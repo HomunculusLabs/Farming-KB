@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Methylophilus Enrichment in Cannabis Endorhiza as a Strain Specificity Marker
+## Methylophilus Enrichment in Cannabis Endorhiza as a Strain Specificity Marker
 
 ## Overview
 

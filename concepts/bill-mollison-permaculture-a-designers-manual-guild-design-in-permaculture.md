@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Guild Design in Permaculture Guild design is the permaculture practice of assembling groups of plants, animals, and other elements that support each other through complementary functional relationships. Drawing from the ecological concept of species associations, Bill Mollison developed guild design as a practical tool for creating productive polycultures that reduce competition, enhance mutual support, and minimize the need for external inputs. Guilds are the building blocks of [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] through
+## Guild Design in Permaculture Guild design is the permaculture practice of assembling groups of plants, animals, and other elements that support each other through complementary functional relationships. Drawing from the ecological concept of species associations, Bill Mollison developed guild design as a practical tool for creating productive polycultures that reduce competition, enhance mutual support, and minimize the need for external inputs. Guilds are the building blocks of [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] through
 nutrient cycling.
 
 ## What Is a Guild?

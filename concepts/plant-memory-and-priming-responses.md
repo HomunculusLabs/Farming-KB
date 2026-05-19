@@ -6,7 +6,7 @@ tags: [plant-biology, plant-memory, priming, epigenetics, stress-memory, systemi
 aliases: [Plant Stress Memory, Immunological Memory Plants, Epigenetic Priming]
 ---
 
-# Plant Memory and Priming Responses
+## Plant Memory and Priming Responses
 
 Plants lack nervous systems, yet they demonstrate forms of "memory" — the ability
 to encode, store, and retrieve information about past experiences that influences

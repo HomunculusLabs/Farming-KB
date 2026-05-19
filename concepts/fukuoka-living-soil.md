@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Living Soil
+## The Living Soil
 
 Masanobu Fukuoka's understanding of soil is foundational to his [[hamilton-composting-and-organic-matter-management]] that maintains its own fertility.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [tree, transitional-species, succession, mycorrhizae]
 ---
 
-# Cottonwood (Populus)
+## Cottonwood (Populus)
 
 ## Description
 

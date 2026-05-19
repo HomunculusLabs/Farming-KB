@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Fungal Infections Including Candidiasis
+## Cannabis and Fungal Infections Including Candidiasis
 
 ## Overview
 

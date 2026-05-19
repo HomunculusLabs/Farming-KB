@@ -20,7 +20,7 @@ sources:
 - raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
 ---
 
-# Fairy Rings and Giant Mycelia
+## Fairy Rings and Giant Mycelia
 
 Fairy rings are visible circles of mushroom fruiting bodies caused by the radial expansion of a single underground mycelium. The phenomenon reveals the hidden scale and age of fungal organisms, from small lawn rings to the largest organisms on Earth.
 

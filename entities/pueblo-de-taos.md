@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# Pueblo de Taos
+## Pueblo de Taos
 
 ## Description
 

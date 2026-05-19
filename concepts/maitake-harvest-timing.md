@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Harvest Timing and Post-Harvest Handling
+## Maitake Harvest Timing and Post-Harvest Handling
 
 ## Overview
 

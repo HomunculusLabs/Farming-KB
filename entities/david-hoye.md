@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: entity
 ---
 
-# David Hoye
+## David Hoye
 
 ## Description
 

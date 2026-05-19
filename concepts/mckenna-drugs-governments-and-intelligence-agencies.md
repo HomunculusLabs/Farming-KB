@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Drugs, Governments, and Intelligence Agencies
+## Drugs, Governments, and Intelligence Agencies
 
 In the final chapters of Food of the Gods, McKenna advances one of his most controversial arguments: that modern governments, particularly through their intelligence agencies, have not merely failed to stop the drug trade but have actively participated in and profited from it.
 

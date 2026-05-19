@@ -5,7 +5,7 @@ type: entity
 tags: [animal, livestock, seaweed, grazing, coastal, permaculture]
 ---
 
-# Soay Sheep
+## Soay Sheep
 
 ## Description
 

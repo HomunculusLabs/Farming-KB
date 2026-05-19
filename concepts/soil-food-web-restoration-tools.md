@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Food Web Restoration Tools
+## Soil Food Web Restoration Tools
 
 Once a gardener understands the biology of the [[soil-food-web]], the next logical question is: *what do I do with this knowledge?* The answer lies in three core tools that form the practical foundation of soil food web gardening: [[compost]], [[organic-mulch-soil-food-web]], and [[actively-aerated-compost-tea]] (AACT). Together, these three strategies allow gardeners to ensure their soil food webs are robust enough to provide adequate nutrients and protection for plants — without relying on synthetic fertilizers, pesticides, or tilling.
 

@@ -9,7 +9,7 @@ sources:
   - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
-# Andrew Weil
+## Andrew Weil
 
 Andrew Weil, MD (b. 1942) is an American physician, author, and leading figure in integrative medicine. He wrote the forewords to both *Mycelium Running* (2005) and *Psilocybin Mushrooms of the World* (1996) by [[paul-stamets]], lending medical credibility to Stamets' work on fungal ecology and medicinal mushrooms.
 

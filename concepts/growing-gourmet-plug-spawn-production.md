@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Plug Spawn Production for Log Cultivation
+## Plug Spawn Production for Log Cultivation
 
 Plug spawn consists of wooden dowels that have been sterilized and
 inoculated with mushroom mycelium. These dowels are driven into

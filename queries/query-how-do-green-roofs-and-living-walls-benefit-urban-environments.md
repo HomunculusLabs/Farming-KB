@@ -8,7 +8,7 @@ created: 2026-05-07
 type: query
 ---
 
-# How Do Green Roofs and Living Walls Benefit Urban Environments?
+## How Do Green Roofs and Living Walls Benefit Urban Environments?
 
 ## Short Answer
 

@@ -8,7 +8,7 @@ type: concept
 tags: [gardening, soil]
 ---
 
-# Bringing the Soil to Life
+## Bringing the Soil to Life
 
 Soil is not merely an inert substrate for plants. It is alive -- the thin boundary between inanimate rock and the planet's green carpet where matter crosses and recrosses the line between living and dead. One key to a garden bursting with healthy plants, balanced insects, and thriving wildlife is to fill the soil with as much life as possible.
 

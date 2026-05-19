@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Russula Edible Species
+## Russula Edible Species
 
 Russula is one of the largest genera of basidiomycete mushrooms, containing approximately 750 described species worldwide. The genus includes both highly prized edible species and several that are acrid, peppery, or toxic. Correct identification is essential, as Russula species can be challenging to distinguish from one another.
 

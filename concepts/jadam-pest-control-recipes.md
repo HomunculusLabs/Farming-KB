@@ -7,7 +7,7 @@ tags: [natural-farming, pest-control, agriculture, recipes]
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 ---
 
-# JADAM Pest Control Recipes
+## JADAM Pest Control Recipes
 
 JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the [[jadam-wetting-agent-jwa]] (JWA), combined with plant extracts and biological agents.
 

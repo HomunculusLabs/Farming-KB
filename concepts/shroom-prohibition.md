@@ -10,7 +10,7 @@ sources:
   - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 
-# Magic Mushroom Prohibition and Scheduling History
+## Magic Mushroom Prohibition and Scheduling History
 
 updated: 2026-04-24
 

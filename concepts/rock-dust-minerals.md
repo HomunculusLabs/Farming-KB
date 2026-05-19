@@ -7,7 +7,7 @@ tags: [soil, minerals, fertility, nutrients, npk, fertilizer, methods, regenerat
 sources: []
 ---
 
-# Rock Dust and Mineral Amendments
+## Rock Dust and Mineral Amendments
 
 Rock dust and mineral amendments are ground geological materials used to replenish trace minerals and improve soil fertility. Over time, agricultural soils lose minerals through leaching, crop harvest, and erosion. Rock dusts provide a slow-release source of essential and trace elements, improve soil structure, and support microbial activity. They are foundational to remineralization strategies in regenerative agriculture.
 

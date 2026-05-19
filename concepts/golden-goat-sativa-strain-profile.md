@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, golden-goat, iriegenetics, hybrid, medical-cannabis]
 ---
 
-# Golden Goat — Sativa-Dominant Strain Profile
+## Golden Goat — Sativa-Dominant Strain Profile
 
 ## Overview
 

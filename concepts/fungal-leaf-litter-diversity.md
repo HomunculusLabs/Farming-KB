@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Biodiversity in Leaf Litter Leaf litter is one of the most
+## Fungal Biodiversity in Leaf Litter Leaf litter is one of the most
 fungal-diverse habitats in terrestrial ecosystems, serving as a transition zone
 between living plant communities and soil. The decomposition of leaf litter is
 driven primarily by fungi, making these communities essential for nutrient

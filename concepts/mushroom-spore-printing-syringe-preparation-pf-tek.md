@@ -5,7 +5,7 @@ type: concept
 tags: [spore-print, spore-syringe, mushroom-propagation, sterile-technique, mycology]
 created: 2026-05-08
 ---
-# Mushroom Spore Printing and [[stamets-mushroom-genetics-mating-systems-reproduction]]
+## Mushroom Spore Printing and [[stamets-mushroom-genetics-mating-systems-reproduction]]
 and initiating new cultivation cycles. The [[mushroom-cultivation]]
 ## Background and Context
 

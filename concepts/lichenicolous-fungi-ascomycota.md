@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Lichenicolous Fungi of the Ascomycota
+## Lichenicolous Fungi of the Ascomycota
 
 ## Definition
 

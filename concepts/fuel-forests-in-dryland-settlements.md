@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fuel Forests in Dryland Settlements
+## Fuel Forests in Dryland Settlements
 
 Fuel forests represent one of the most critical design elements for sustainable dryland settlements. They provide cooking fuel, power supply, essential oils, mulch, honey, and other tree products. Without planned fuel forests, settlements inevitably strip surrounding vegetation for firewood, accelerating [[eucalyptus-camaldulensis]]*), *[[swale]] systems:
 

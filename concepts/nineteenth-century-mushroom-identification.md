@@ -7,7 +7,7 @@ tags: [mushrooms, foraging, history, biology]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
-# Nineteenth-Century Mushroom Identification and Foraging
+## Nineteenth-Century Mushroom Identification and Foraging
 
 Palmer's classification system, species descriptions, and foraging philosophy from "About Mushrooms" (1894).
 

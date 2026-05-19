@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Nameko and Birch Polypore Cultivation
+## Nameko and Birch Polypore Cultivation
 
 ## Overview
 

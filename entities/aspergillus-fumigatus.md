@@ -1,14 +1,14 @@
 ---
-title: gadd-aspergillus-fumigatus-glucan-virulence
+title: "Aspergillus Fumigatus"
 created: 2026-04-28
 type: species
 tags: [pathogen, ascomycete, human-fungal-infection, cell-wall, genomics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Aspergillus fumigatus
+## Aspergillus fumigatus
 
 Aspergillus fumigatus is a thermotolerant filamentous ascomycete
 fungus and one of the most significant [[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing.

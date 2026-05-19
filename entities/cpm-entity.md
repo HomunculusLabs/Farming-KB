@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# CPM
+## CPM
 
 **[[mescaline]]
 itself, with a methyl group removed from an oxygen atom and a cyclopropylmethyl

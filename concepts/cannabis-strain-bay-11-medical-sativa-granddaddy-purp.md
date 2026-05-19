@@ -7,7 +7,7 @@ tags: [cannabis-strain, sativa-dominant, medical, granddaddy-purp-genetics, cali
 created: 2026-05-09
 ---
 
-# Bay 11 — Award-Winning Medical Sativa from Granddaddy Purp Genetics
+## Bay 11 — Award-Winning Medical Sativa from Granddaddy Purp Genetics
 
 ## Overview
 

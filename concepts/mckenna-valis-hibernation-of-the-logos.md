@@ -18,7 +18,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# Valis and the Hibernation of the Logos
+## Valis and the Hibernation of the Logos
 
 Terence McKenna drew on Philip K. Dick's novel Valis to develop a theory about the
 hibernation and reawakening of the Logos — a cosmic principle of pure information that

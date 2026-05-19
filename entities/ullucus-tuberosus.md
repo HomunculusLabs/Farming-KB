@@ -24,7 +24,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Ullucus tuberosus
+## Ullucus tuberosus
 
 **Ulluco**, **ulluku**, **melloco**, **olloc**, **rubas**
 

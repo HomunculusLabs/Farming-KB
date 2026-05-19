@@ -9,7 +9,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# CBD (Cannabidiol)
+## CBD (Cannabidiol)
 
 Cannabidiol (CBD) is a non-psychoactive cannabinoid sourced from
 cannabis that has demonstrated broad [[anandamide-bliss-molecule]]" active at higher concentrations

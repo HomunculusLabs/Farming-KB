@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Chemotype Classification and Cannabinoid Level Breeding
+## Cannabis Chemotype Classification and Cannabinoid Level Breeding
 
 ## Overview
 

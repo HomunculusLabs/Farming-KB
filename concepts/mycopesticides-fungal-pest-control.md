@@ -1,4 +1,8 @@
-# Mycopesticides - Fungal Pest Control
+---
+title: "Mycopesticides - Fungal Pest Control"
+tags:
+  - concept
+---
 
 ## Overview
 

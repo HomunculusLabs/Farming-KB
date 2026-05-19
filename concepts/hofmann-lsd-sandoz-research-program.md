@@ -8,7 +8,7 @@ type: concept
 tags: [lsd]
 ---
 
-# The Sandoz LSD Research Program and Clinical Trials
+## The Sandoz LSD Research Program and Clinical Trials
 
 ## From Discovery to Research Program
 

@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Nematode-Trapping Fungi and Predatory Soil Fungi
+## Nematode-Trapping Fungi and Predatory Soil Fungi
 
 The soil beneath our feet harbors one of nature's most extraordinary
 predator-prey relationships. Fungi that trap and consume nematode worms

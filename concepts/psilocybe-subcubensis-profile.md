@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe subcubensis
+## Psilocybe subcubensis
 
 Psilocybe subcubensis is a psilocybin-containing mushroom species
 described by [[psilocybin-mushroom-image-guide-habitat-clues]]

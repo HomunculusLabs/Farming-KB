@@ -1,4 +1,8 @@
-# Solomon: Vegetable Nutrition Decline and Soil Mineral Depletion
+---
+title: "Solomon: Vegetable Nutrition Decline and Soil Mineral Depletion"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Start a Worm Compost Bin?
+## How to Start a Worm Compost Bin?
 
 ## Short Answer
 Starting a worm compost bin (vermicomposting) requires a container with drainage and

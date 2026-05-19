@@ -6,7 +6,7 @@ topics: ["cannabis", "cultivation", "landrace", "sativa", "growing-challenges"]
 aliases: ["growing pure sativas", "landrace sativa cultivation", "sativa flowering problems"]
 ---
 
-# Landrace Sativa Growing Challenges
+## Landrace Sativa Growing Challenges
 
 ## Overview
 

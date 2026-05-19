@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# The Man-Child Born of a Virgin: Thunder, Fertilization, and the Anointing
+## The Man-Child Born of a Virgin: Thunder, Fertilization, and the Anointing
 
 The mushroom's unique growth pattern — emerging from a womb-like volva without visible seed or root — made it a powerful symbol across [[allegro-colour-and-consistency-of-the-amanita-muscaria]] begins its life enclosed within a protective membrane, the *volva*, which surrounds the young fungus like an egg shell around a yolk.
 Pliny the Elder described the process vividly: "the earth produces first a 'womb' (vulva)... and afterwards (the mushroom) itself inside the womb, like a yolk inside the egg."

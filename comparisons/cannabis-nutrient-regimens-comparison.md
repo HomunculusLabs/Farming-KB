@@ -6,7 +6,7 @@ type: comparison
 tags: [cannabis, cultivation, comparison]
 sources: []
 ---
-# Cannabis Nutrient Regimens Comparison
+## Cannabis Nutrient Regimens Comparison
 
 [[query-how-does-no-till-cannabis-cultivation-work]]. The choice between organic and synthetic approaches — and the specific system within each category — has cascading effects on terpene production, soil health, long-term cost, and growing complexity. This comparison covers five major nutrient regimens used by home and commercial growers. For soil science fundamentals, see [[soil-food-web-structure]] for the biological principles that make organic regimens work.
 

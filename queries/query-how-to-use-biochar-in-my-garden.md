@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Use Biochar in My Garden and What Benefits Does It Provide?
+## How Do I Use Biochar in My Garden and What Benefits Does It Provide?
 
 ## Short Answer
 Biochar is a highly porous carbon-rich material produced by pyrolyzing biomass in a low-oxygen environment.

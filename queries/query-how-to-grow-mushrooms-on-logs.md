@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Grow Mushrooms on Logs?
+## How to Grow Mushrooms on Logs?
 
 ## Short Answer
 [[growing-gourmet-sawdust-spawn-production-use]]), sealing the inoculation sites with wax, and

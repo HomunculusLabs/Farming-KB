@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Hempcrete vs Straw Bale Construction
+## Hempcrete vs Straw Bale Construction
 
 Both hempcrete and straw bale construction are natural, plant-fiber-based building methods that appeal to sustainability-minded builders. They share the philosophy of replacing conventional insulation and wall systems with carbon-sequestering, breathable materials — but their composition, performance, and build processes differ significantly.
 

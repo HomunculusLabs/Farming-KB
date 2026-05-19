@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Cannabis for Stroke Recovery
+## Cannabis for Stroke Recovery
 
 Stroke (cerebrovascular accident, CVA) is a medical emergency in which blood flow to part of the brain is interrupted, causing brain [[blesching-cannabis-prostate-cancer-chi-value-3]]:** 8
 

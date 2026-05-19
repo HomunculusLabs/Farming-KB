@@ -9,7 +9,7 @@ type: concept
 tags: [culture, water]
 ---
 
-# Deep Water Culture (DWC) for Cannabis
+## Deep Water Culture (DWC) for Cannabis
 
 Deep Water Culture (DWC) is a [[cannabis-nutrient-solution-preparation]]. It is one of the simplest and most productive active hydroponic systems available for [[ebb-and-flow]] or [[cervantes-reservoir-temperature-management]] should be kept in a range that supports healthy root activity. Warmer water holds less dissolved oxygen, so reservoirs should be kept cool, typically between 65 and 70 degrees F (18 to 21 degrees C). An aquarium heater can be used if temperatures drop too low.
 

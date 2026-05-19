@@ -4,7 +4,7 @@ source: "fanaticus-pf-tek-psilocybe-fanaticus.md"
 tags: [pf-tek, mycelium, senescence, spore-mass, inoculation, genetics, cloning, psilocybe-cubensis, cultivation]
 ---
 
-# PF TEK Mycelium Senescence and Spore Mass Inoculation
+## PF TEK Mycelium Senescence and Spore Mass Inoculation
 
 ## Overview
 

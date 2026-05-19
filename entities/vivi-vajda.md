@@ -8,7 +8,7 @@ categories:
   - mycology
 ---
 
-# Vivi Vajda
+## Vivi Vajda
 
 ## Description
 

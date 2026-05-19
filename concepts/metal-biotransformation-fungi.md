@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Metal Biotransformation by Fungi
+## Metal Biotransformation by Fungi
 
 Updated: 2026-04-18 Fungi possess remarkable abilities to transform metals and
 metalloids through diverse mechanisms of mobilization, immobilization,

@@ -12,7 +12,7 @@ sources:
   - Nearing, Helen and Scott. The Good Life. Schocken Books, 1970.
 ---
 
-# [[comparison-season-extension-techniques-vs-cold-frame-gardening]] is the practice of modifying the [[permaculture]] designer, season extension multiplies annual yield, reduces dependence on imported food, and builds resilience against erratic weather patterns driven by climate change.
+## [[comparison-season-extension-techniques-vs-cold-frame-gardening]] is the practice of modifying the [[permaculture]] designer, season extension multiplies annual yield, reduces dependence on imported food, and builds resilience against erratic weather patterns driven by climate change.
 
 ## Principles of Season Extension
 

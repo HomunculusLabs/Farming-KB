@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# DET (N,N-Diethyltryptamine)
+## DET (N,N-Diethyltryptamine)
 
 TIHKAL entry #3. A psychedelic tryptamine active by multiple routes including oral, intramuscular, intravenous, and smoking. Often erroneously described as only active parenterally; Shulgin takes personal responsibility for perpetuating this myth. Known as T-9 in early clinical literature.
 

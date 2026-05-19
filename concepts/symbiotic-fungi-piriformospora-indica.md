@@ -7,7 +7,7 @@ tags: [mycorrhizal, fungi, species, biology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Piriformospora indica - A Cultivable Root Endophyte for Agriculture
+## Piriformospora indica - A Cultivable Root Endophyte for Agriculture
 
 Updated: 2026-04-18
 

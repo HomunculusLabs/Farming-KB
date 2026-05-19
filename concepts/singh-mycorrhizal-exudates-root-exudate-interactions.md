@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizal Exudates and Root Exudate Interactions
+## Mycorrhizal Exudates and Root Exudate Interactions
 
 ## Overview
 

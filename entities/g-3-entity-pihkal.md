@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# G-3
+## G-3
 
 [[mdma-qualitative-effects-phenomenology]] (nature
 of activity). Here, with the somewhat bulkier group located at the

@@ -7,7 +7,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 tags: [sterilization, microwaves, autoclave, UV, gamma-irradiation, comparison]
 ---
 
-# Microwave vs Traditional Sterilization
+## Microwave vs Traditional Sterilization
 
 Sterilization — the complete elimination of all viable microorganisms
 including bacteria, spores, fungi, and viruses — is essential in healthcare,

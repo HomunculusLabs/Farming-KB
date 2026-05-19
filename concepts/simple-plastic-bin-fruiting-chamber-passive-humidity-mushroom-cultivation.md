@@ -1,4 +1,8 @@
-# Simple Plastic Bin Fruiting Chamber Design for Mushroom Cultivation
+---
+title: "Simple Plastic Bin Fruiting Chamber Design for Mushroom Cultivation"
+tags:
+  - concept
+---
 
 ## Overview
 

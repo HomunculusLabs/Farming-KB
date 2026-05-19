@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Albedo, Heat Radiation, and Thermal Belts
+## Albedo, Heat Radiation, and Thermal Belts
 
 The interaction between radiation, absorption, and heat transfer determines the thermal character of every site. In [[solar-radiation-albedo-heat]]
 - [[albedo-and-solar-radiation]]

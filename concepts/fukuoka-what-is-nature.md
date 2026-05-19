@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# What Is Nature
+## What Is Nature
 
 "What is nature?" is the fundamental question that underlies all of Masanobu Fukuoka's work. His answer is paradoxical and profound: nature cannot be defined, described, or understood through human intellect. Yet this very unknowability is the key to [[fukuoka-spiritual-philosophy-farming]]
 - [[fukuoka-critique-of-scientific-agriculture]]

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, biodeterioration, building-materials, decay]
 sources: []
 ---
-# Fungal Deterioration of Building Materials
+## Fungal Deterioration of Building Materials
 
 Fungi are significant agents of biodeterioration for a wide range of
 building and construction materials including wood, concrete, stone,

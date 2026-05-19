@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
-# Garden Plant Groupings
+## Garden Plant Groupings
 
 [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], nutrient sharing, improved pollination, or microclimate modification. This guide draws from "Permaculture Plants: A Selection" to provide practical [[cool-climate-home-garden-mollison]] and food forest.
 

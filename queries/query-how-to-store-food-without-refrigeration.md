@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Store Food Without Refrigeration
+## How to Store Food Without Refrigeration
 
 ## Short Answer
 

@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Chisel Plough vs No-Tillage
+## Chisel Plough vs No-Tillage
 
 ## Overview
 

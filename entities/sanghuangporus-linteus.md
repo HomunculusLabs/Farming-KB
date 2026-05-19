@@ -20,7 +20,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Sanghuangporus linteus
+## Sanghuangporus linteus
 
 ## Overview
 

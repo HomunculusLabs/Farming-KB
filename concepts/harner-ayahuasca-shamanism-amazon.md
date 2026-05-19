@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca, shamanism]
 ---
 
-# Ayahuasca Shamanism in the Amazon
+## Ayahuasca Shamanism in the Amazon
 
 [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] rugs are used under essentially aboriginal conditions." The four papers in the Amazon section are all based on fieldwork among [[harmine]], d-tetrahydroharmine, and quite possibly N,N-dimethyltryptamine (DMT). While Banisteriopsis species exist throughout [[dmt-containing-plants-united-states-halpern]], their hallucinogenic use has apparently not been recorded outside South America.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Pattern Recognition and Geometric Garden Design in Permaculture
+## Pattern Recognition and Geometric Garden Design in Permaculture
 
 Pattern recognition is the meta-skill underlying all permaculture design. It is the ability to perceive the shapes, flows, and harmonics that natural systems generate, and to apply those patterns to designed landscapes. Beyond abstract theory, pattern recognition translates directly into practical garden geometries — spirals, circles, zigzags, and ziggurats that condense space, increase edge, and create micro-climates.
 

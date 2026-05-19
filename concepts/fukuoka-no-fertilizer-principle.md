@@ -1,5 +1,5 @@
 ---
-title: Fukuoka No fukuoka-no-fertilizer-principle-natural-soil-fertility
+title: "Fukuoka No Fertilizer Principle"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Principle 2: No Fertilizer
+## Principle 2: No Fertilizer
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 

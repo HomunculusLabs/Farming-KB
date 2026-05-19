@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Ganoderma tsugae
+## Ganoderma tsugae
 
 **Type:** Species
 **Category:** Basidiomycete (Polyporales)

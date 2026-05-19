@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Right Not to Be in Debt — Permaculture Perspectives on Shelter and Self-Reliance
+## Right Not to Be in Debt — Permaculture Perspectives on Shelter and Self-Reliance
 
 In Chapter 14 of Permaculture: A Designers' Manual, [[bill-mollison]] mounts a provocative argument that the fundamental barriers to adequate shelter and food security are not financial but regulatory. He uses the example of self-built housing without debt to illustrate how existing political and economic systems deny people basic rights to provide for themselves.
 

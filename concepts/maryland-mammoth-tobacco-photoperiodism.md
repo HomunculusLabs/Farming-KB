@@ -1,4 +1,8 @@
-# Maryland Mammoth Tobacco and Photoperiodism
+---
+title: "Maryland Mammoth Tobacco and Photoperiodism"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -143,8 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
-- [[garner-allard-maryland-mammoth-tobacco-experiment]]
-- [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
-- [[mckenna-food-gods-shamanic-tobacco-commercial-tobacco-redux]]

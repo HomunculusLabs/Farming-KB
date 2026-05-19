@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# Synthetic Tryptamine Methods
+## Synthetic Tryptamine Methods
 
 The synthesis of substituted tryptamines documented throughout TIHKAL follows a set of recurring methodologies that [[indole]] is reacted with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous benzene or toluene under inert atmosphere. The reaction is typically stirred at room temperature or gently heated, and the product precipitates as a yellow-orange solid. This intermediate is sensitive to moisture and must be used promptly.
 
@@ -63,7 +63,7 @@ Primary tryptamines can be N-methylated through formylation followed by LAH redu
 
 ## Merged: Shulgin's Tryptamine Research Philosophy
 
-# Shulgin's Tryptamine Research Philosophy
+## Shulgin's Tryptamine Research Philosophy
 
 Alexander "Sasha" Shulgin's approach to the scientific investigation of psychoactive compounds, as expressed throughout TIHKAL, constitutes a distinctive research philosophy that blends rigorous chemical methodology with first-person phenomenological investigation. TIHKAL and its companion volume PIHKAL together document the most systematic exploration of the relationship between molecular structure and [[dosage-unpredictability-psilocybin-subjective-experience]] ever undertaken.
 

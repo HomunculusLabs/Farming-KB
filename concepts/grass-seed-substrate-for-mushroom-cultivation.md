@@ -2,7 +2,7 @@
 title: "Grass Seed Substrate For accessible-mushroom-cultivation-for-disabilities"
 ---
 
-# Grass Seed Substrate for Mushroom Cultivation
+## Grass Seed Substrate for Mushroom Cultivation
 
 Grass seed is a versatile substrate for mushroom and sclerotia
 cultivation. The most common form is rye grass seed (*Lolium perenne*),

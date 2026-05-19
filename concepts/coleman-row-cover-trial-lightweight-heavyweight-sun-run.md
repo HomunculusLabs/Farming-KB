@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook
 topics: season-extension, greenhouse-management, row-covers, experimentation, fabric-comparison
 ---
 
-# Row Cover Trial: Lightweight vs Heavyweight Fabric
+## Row Cover Trial: Lightweight vs Heavyweight Fabric
 
 ## The Experimental Setup
 

@@ -16,7 +16,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Gymnopus junonius
+## Gymnopus junonius
 
 ## Overview
 

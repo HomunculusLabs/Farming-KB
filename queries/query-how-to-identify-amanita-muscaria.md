@@ -8,7 +8,7 @@ sources: [papers/amanita-muscaria-herb-of-immortality.md]
 type: query
 ---
 
-# How to Identify Amanita Muscaria (Fly Agaric)
+## How to Identify Amanita Muscaria (Fly Agaric)
 
 ## Short Answer
 

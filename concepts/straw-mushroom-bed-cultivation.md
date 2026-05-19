@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Straw Mushroom Bed Cultivation
+## Straw Mushroom Bed Cultivation
 
 ## Overview
 

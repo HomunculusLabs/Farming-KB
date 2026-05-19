@@ -11,7 +11,7 @@ sources:
   - Kikkoman Institute, "The Science of Soy Sauce Fermentation"
 ---
 
-# Koji Culture and Fermentation
+## Koji Culture and Fermentation
 
 Koji (麹) is one of humanity's most important and ancient fermentation cultures — a living cornerstone of East Asian cuisine that transforms raw grains and legumes into an extraordinary range of foods, seasonings, and beverages. At its heart, koji is **inoculated grain** cultivated with the mold *[[food-fermentation-guide]] for millennia. Key biological characteristics:
 

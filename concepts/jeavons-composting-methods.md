@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Composting Methods and Compost Crops
+## Composting Methods and Compost Crops
 
 Composting is an important way to recycle carbon, nitrogen, magnesium, sulfur, calcium, phosphorus, potash, and trace minerals — all elements necessary to maintain the biological cycles of life.
 

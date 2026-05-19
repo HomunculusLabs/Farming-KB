@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Blackberry-Apple Silviculture Pattern
+## Blackberry-Apple Silviculture Pattern
 
 ## Description
 

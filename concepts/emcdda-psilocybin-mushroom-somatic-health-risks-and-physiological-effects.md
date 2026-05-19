@@ -6,7 +6,7 @@ type: concept
 tags: [emcdda, health-risks, somatic-effects, physiological, mushroom-toxicity, nausea, cardiovascular, europe, 2006]
 ---
 
-# EMCDDA Psilocybin Mushroom Somatic Health Risks and Physiological Effects (2006)
+## EMCDDA Psilocybin Mushroom Somatic Health Risks and Physiological Effects (2006)
 
 ## Overview
 

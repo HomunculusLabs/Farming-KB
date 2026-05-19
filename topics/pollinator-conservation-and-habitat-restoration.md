@@ -11,7 +11,7 @@ sources:
   - concepts/beneficial-insects-pollinators.md
 ---
 
-# Pollinator Conservation and Habitat Restoration
+## Pollinator Conservation and Habitat Restoration
 
 Pollinators underpin the reproduction of over 80% of flowering plant species
 and approximately one-third of global food crops by volume.

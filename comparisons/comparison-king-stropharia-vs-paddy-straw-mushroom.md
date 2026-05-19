@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# King Stropharia vs Paddy Straw Mushroom
+## King Stropharia vs Paddy Straw Mushroom
 
 ## Overview
 

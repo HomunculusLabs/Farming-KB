@@ -1,4 +1,8 @@
-# Kavalactone Pharmacology and Neurochemistry
+---
+title: "Kavalactone Pharmacology and Neurochemistry"
+tags:
+  - concept
+---
 
 ## Overview
 

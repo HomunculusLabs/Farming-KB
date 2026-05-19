@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Inflammatory Bowel Disease
+## Cannabis for Inflammatory Bowel Disease
 
 ## Overview of IBS/IBD
 

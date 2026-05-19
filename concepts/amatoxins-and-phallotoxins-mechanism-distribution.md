@@ -4,7 +4,7 @@ tags: [mycology, mushroom-toxins, amatoxin, phallotoxin, amanita, fungal-toxicol
 created: 2026-05-11
 ---
 
-# Amatoxins and Phallotoxins: Mechanism of Action and Distribution
+## Amatoxins and Phallotoxins: Mechanism of Action and Distribution
 
 Amatoxins and phallotoxins are two families of cyclic peptide toxins produced primarily by
 species in the genus Amanita, notably A. phalloides ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]), A. virosa (the destroying

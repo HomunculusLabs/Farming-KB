@@ -4,7 +4,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Mushroom Sporulation and Geotropism
+## Mushroom Sporulation and Geotropism
 
 ## Overview
 

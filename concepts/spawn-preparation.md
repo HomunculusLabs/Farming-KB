@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, spawn, grain]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Spawn Preparation Spawn is the living fungal mycelium propagated on a nutritious substrate, serving as the "seed" for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] because the fungus cannot access dissolved nutrients
+## Spawn Preparation Spawn is the living fungal mycelium propagated on a nutritious substrate, serving as the "seed" for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] because the fungus cannot access dissolved nutrients
 efficiently.
 
 Common hydration methods include:

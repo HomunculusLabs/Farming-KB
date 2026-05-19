@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Design from Patterns to Details
+## Design from Patterns to Details
 
 The Permaculture principle "Design from Patterns to Details" represents a shift from the first six principles (which consider systems from the bottom-up perspective of elements, organisms, and individuals) to the second six principles (which emphasise the top-down perspective of patterns and relationships that emerge through system self-organisation and co-evolution). The commonality of patterns observable in nature and society allows us to make sense of what we see and to use a pattern from one context and scale to design in another.
 

@@ -22,7 +22,7 @@ sources:
 - raw/articles/fungi-and-sustainability-fungi-magazine.md
 ---
 
-# ZERI Circular Economy Systems
+## ZERI Circular Economy Systems
 
 Zero Emissions Research and Initiatives (ZERI) is an international organization founded by eco-designer Gunter Pauli that applies systems thinking modeled on natural ecosystems to achieve zero waste. The core principle: "Zero emissions means zero waste." ZERI designs projects by studying how the five kingdoms of life (bacteria, protists, plants, animals, fungi) cooperate in healthy ecosystems — where the waste of one kingdom becomes a nutrient or energy source for another (Spinosa, Fungi Magazine, 2008; Pauli, 1996, 1997, 2002).
 

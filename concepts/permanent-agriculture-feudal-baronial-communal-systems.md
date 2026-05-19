@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permanent Agriculture: Feudal, Baronial, and Communal Permanence
+## Permanent Agriculture: Feudal, Baronial, and Communal Permanence
 
 ## The Search for Permanence in Land Use
 

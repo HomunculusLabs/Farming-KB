@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-# Cows and Bamboo Integration
+## Cows and Bamboo Integration
 
 A simple yet elegant [[nutrient-cycling-in-soil]] dynamic is critical to understand.
 

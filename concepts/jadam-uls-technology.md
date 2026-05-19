@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# JADAM Ultra-Low-Cost Technology
+## JADAM Ultra-Low-Cost Technology
 
 JADAM (Jayonul Sasang Gua Damunhoe) is a South Korean [[jadam-liquid-fertilizer]] (JLF)
 Made from locally available organic materials including wild grasses,

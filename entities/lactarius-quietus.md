@@ -18,7 +18,7 @@ sources:
   - "Basso, M.T. (1999). Lactarius (Fungi Europaei Vol. 7). Edizioni Candusso."
 ---
 
-# Lactarius quietus
+## Lactarius quietus
 
 Lactarius quietus, commonly known as the quiet milkcap, oak milky cap, or
 bland milkcap, is a medium-sized agaricoid fungus in the family

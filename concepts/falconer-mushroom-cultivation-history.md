@@ -6,7 +6,7 @@ type: concept
 tags: [cultivation, mycology]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
-# Falconer Mushroom Cultivation History
+## Falconer Mushroom Cultivation History
 
 William Falconer's "Mushrooms: How to Grow Them" is a 19th-century text on
 mushroom cultivation, now in the public domain. It represents one of the early

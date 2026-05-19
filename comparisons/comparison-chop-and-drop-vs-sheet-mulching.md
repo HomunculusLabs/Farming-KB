@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Chop and Drop vs Sheet Mulching
+## Chop and Drop vs Sheet Mulching
 Both are no-till mulching strategies that build soil without turning the earth,
 but they differ fundamentally in input source, labor pattern, and best use case.
 Chop and drop leverages plants already growing on site as the mulch material,

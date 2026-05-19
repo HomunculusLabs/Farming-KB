@@ -6,7 +6,7 @@ tags: [chelation, nutrient-cycling, soil-microbes, mineral-availability, mycorrh
 created: 2026-05-08
 ---
 
-# Microbial Chelation and Nutrient Cycling
+## Microbial Chelation and Nutrient Cycling
 
 Soil microorganisms are the primary drivers of nutrient cycling in
 terrestrial ecosystems. Through processes of decomposition,

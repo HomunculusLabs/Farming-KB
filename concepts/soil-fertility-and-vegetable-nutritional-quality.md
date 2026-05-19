@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Soil Fertility and Vegetable Nutritional Quality
+## Soil Fertility and Vegetable Nutritional Quality
 
 ## Overview
 

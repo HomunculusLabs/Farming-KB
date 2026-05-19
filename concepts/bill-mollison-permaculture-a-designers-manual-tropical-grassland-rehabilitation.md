@@ -12,7 +12,7 @@ topics:
   - soil-restoration
 ---
 
-# Tropical Grassland Rehabilitation
+## Tropical Grassland Rehabilitation
 
 Tropical grasslands represent one of the most challenging rehabilitation problems in the
 wet-dry tropics. These degraded landscapes result from burning and over-grazing sequences

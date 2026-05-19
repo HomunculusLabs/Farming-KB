@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Autoflowering vs Photoperiod Cannabis
+## Autoflowering vs Photoperiod Cannabis
 
 ## Overview
 

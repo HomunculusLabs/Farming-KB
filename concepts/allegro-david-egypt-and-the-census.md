@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# David, Egypt, and the Census — Mushroom Word-Play
+## David, Egypt, and the Census — Mushroom Word-Play
 
 Allegro demonstrates that many of the most familiar biblical narratives — David's census, the Exodus from Egypt, the story of the Passover, and the names of patriarchs and apostles — are elaborate word-plays constructed around secret Sumerian names of the [[sacred-mushroom-names-cross-cultural-synonyms]], transliterated them into Aramaic, spun out false but plausible-sounding "translations," and built stories around them. The same device appears in the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-dead-sea-scrolls-and-early-christian-sects]]
 - [[allegro-death-and-resurrection-in-the-mushroom-cult]]

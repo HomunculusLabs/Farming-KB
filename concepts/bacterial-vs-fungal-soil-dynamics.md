@@ -7,7 +7,7 @@ tags: [reference]
 sources: [papers/lowenfels-teaming-with-microbes.md, papers/john-dighton-fungi-in-ecosystem-processes.md, papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
 
-# Bacterial vs Fungal Soil Dynamics
+## Bacterial vs Fungal Soil Dynamics
 
 Updated: 2026-04-18
 

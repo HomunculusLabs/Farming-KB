@@ -6,7 +6,7 @@ tags: [Stropharia, cubensis, extraterrestrial, hypothesis, McKenna, spore, pansp
 created: 2026-05-08
 ---
 
-# Stropharia Cubensis Hypothesis
+## Stropharia Cubensis Hypothesis
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Plantain (Lawn Weed Indicator)
+## Plantain (Lawn Weed Indicator)
 
 ## Description
 

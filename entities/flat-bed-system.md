@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cultivation, bed-construction, mushroom-growing, english-method]
 ---
 
-# Flat Bed System
+## Flat Bed System
 
 ## Description
 

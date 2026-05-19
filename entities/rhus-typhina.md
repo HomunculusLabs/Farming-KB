@@ -18,7 +18,7 @@ sources:
   - "Martin, A.C., Zim, H.S., & Nelson, A.L. (1951). American Wildlife and Plants. McGraw-Hill."
 ---
 
-# Rhus typhina
+## Rhus typhina
 
 ## Overview
 

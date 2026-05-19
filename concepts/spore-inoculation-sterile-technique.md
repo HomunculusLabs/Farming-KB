@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, cultivation, sterile-technique]
 sources: []
 ---
-# Spore Inoculation and Sterile Technique
+## Spore Inoculation and Sterile Technique
 
 ## Overview
 

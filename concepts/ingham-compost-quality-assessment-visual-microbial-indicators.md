@@ -5,7 +5,7 @@ source_id: "ingham-aact-field-guide"
 topics: [compost, compost-quality, soil-food-web, microbial-assessment, thermal-compost, aact]
 ---
 
-# Compost Quality Assessment: Visual and Microbial Indicators
+## Compost Quality Assessment: Visual and Microbial Indicators
 
 ## Overview
 

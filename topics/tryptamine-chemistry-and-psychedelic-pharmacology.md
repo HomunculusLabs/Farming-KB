@@ -20,7 +20,7 @@ related_concepts:
   - medicinal-mushroom-cultivation-and-use
 ---
 
-# Tryptamine Chemistry and Psychedelic Pharmacology
+## Tryptamine Chemistry and Psychedelic Pharmacology
 
 ## Introduction
 

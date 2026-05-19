@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Bicycle Day — April 19, 1943
+## Bicycle Day — April 19, 1943
 
 The detailed account of [[albert-hofmann]]'s legendary bicycle ride home on April 19, 1943 — the first deliberate LSD trip in human history, now celebrated annually as "Bicycle Day."
 

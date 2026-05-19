@@ -7,11 +7,11 @@ synonyms:
   - bioremediation-laccase-mediator-systems systems
 type: concept
 tags: [pollution]
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 updated: 2026-04-26
 ---
 
-# Laccase Enzymes in Bioremediation
+## Laccase Enzymes in Bioremediation
 
 ## Overview
 

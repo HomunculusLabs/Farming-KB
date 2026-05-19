@@ -18,7 +18,7 @@ related_concepts:
   - "permaculture-design-principles"
 ---
 
-# Nutrient and Dynamic Accumulators
+## Nutrient and Dynamic Accumulators
 
 Every gardener who has watched a dandelion push its taproot through compacted
 subsoil, or seen comfrey send its thick roots three feet into the earth, has

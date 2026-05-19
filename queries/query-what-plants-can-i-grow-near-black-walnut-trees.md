@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# What Plants Can I Grow Near Black Walnut Trees?
+## What Plants Can I Grow Near Black Walnut Trees?
 
 ## Short Answer
 

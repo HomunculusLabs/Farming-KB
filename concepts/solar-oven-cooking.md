@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Solar Oven Cooking
+## Solar Oven Cooking
 
 Solar ovens use concentrated sunlight to cook food without fuel, electricity,
 or flame. They are a practical off-grid cooking solution, especially in sunny

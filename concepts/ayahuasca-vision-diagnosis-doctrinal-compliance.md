@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Ayahuasca Vision Diagnosis and Doctrinal Compliance
+## Ayahuasca Vision Diagnosis and Doctrinal Compliance
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Kykeon Elixir in Plants of the Gods
+## Kykeon Elixir in Plants of the Gods
 
 Schultes and Hofmann present the kykeon -- the sacred potion of the
 [[eleusinian-telesterion-architecture-and-ritual]]

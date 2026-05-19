@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybe, neurotropic-fungi, colombia, south-america, andean, tropical, biogeography]
 ---
 
-# Psilocybe columbiana
+## Psilocybe columbiana
 
 ## Overview
 

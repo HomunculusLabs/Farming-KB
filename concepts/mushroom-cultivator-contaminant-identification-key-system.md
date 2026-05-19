@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [mushroom-cultivation, contaminants, identification, molds, bacteria, sterile-technique, stamets]
 ---
 
-# Mushroom Cultivator Contaminant Identification Key System
+## Mushroom Cultivator Contaminant Identification Key System
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Mandrake Plant
+## Mandrake Plant
 
 [[fukuoka-road-european-culture-of-food]].
 It was employed as a stupefacient and was one of the strongest ingredients in

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Sequestrate Fungi — Survey Methods, Sampling Protocols, and Community Analysis
+## Sequestrate Fungi — Survey Methods, Sampling Protocols, and Community Analysis
 
 ## Abundance and Diversity Measures (Continued)
 

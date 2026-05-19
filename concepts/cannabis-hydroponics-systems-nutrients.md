@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Cannabis Hydroponics — Systems, Nutrients, and Monitoring
+## Cannabis Hydroponics — Systems, Nutrients, and Monitoring
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Pattern Application and Land Division
+## Tribal Pattern Application and Land Division
 
 ## Overview
 

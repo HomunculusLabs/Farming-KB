@@ -10,7 +10,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Direct Seeding Non-Cultivation
+## Direct Seeding Non-Cultivation
 
 Direct seeding non-cultivation is [[fukuoka-natural-upland-rice-minor-grains]], buckwheat, sorghum, or millet might replace flooded rice. Instead
 of [[query-what-is-the-kratky-method-for-growing-cannabis]] grain," but it took

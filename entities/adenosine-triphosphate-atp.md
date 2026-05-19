@@ -5,7 +5,7 @@ type: entity
 tags: [molecule, energy-currency, phosphorylation, metabolism, plant-physiology]
 ---
 
-# Adenosine Triphosphate (ATP)
+## Adenosine Triphosphate (ATP)
 
 ## Description
 

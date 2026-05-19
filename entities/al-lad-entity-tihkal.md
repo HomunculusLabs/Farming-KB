@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# AL-LAD (6-Allylnor-LSD)
+## AL-LAD (6-Allylnor-LSD)
 
 TIHKAL entry #1. A lysergamide analogue of LSD with an allyl group substituted at the 6-position of ring D. AL-LAD is less potent than LSD but produces a notably gentler, "sweeter" [[eth-lad-entity-tihkal]] (the 6-ethyl analogue), AL-LAD has a slightly different character — the allyl group provides distinct electronic properties that affect [[tihkal-receptor-binding-serotonin]]. The 6-position substitution pattern in these compounds directly modifies how the molecule interacts with 5-HT2A and other serotonin receptor subtypes, producing the characteristic differences in experiential quality. AL-LAD's consistently positive reports ("One of the best materials ever") suggest that the allyl substitution may produce a particularly favorable receptor interaction profile compared to both shorter and longer alkyl chains.
 

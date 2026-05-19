@@ -4,7 +4,7 @@ source: "The blesching-cannabis-health-index-autoimmune-conditions (Blesching, 2
 tags: [cannabidiol, CBD, cannabis, neuroprotection, anti-inflammatory, antipsychotic]
 ---
 
-# CBD Therapeutic Effects
+## CBD Therapeutic Effects
 
 ## Overview
 

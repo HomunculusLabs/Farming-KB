@@ -8,7 +8,7 @@ type: concept
 tags: [contamination, cultivation, psilocybin]
 ---
 
-# Gottlieb Psilocybin Cultivation Contamination Prevention
+## Gottlieb Psilocybin Cultivation Contamination Prevention
 
 Gottlieb describes contamination prevention as "the most difficult part of
 psilocybin [[agar-culture-technique]],

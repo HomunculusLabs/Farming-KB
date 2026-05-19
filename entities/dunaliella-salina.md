@@ -18,7 +18,7 @@ sources:
   - Ginzburg M (1993). "Dual effect of salt on Dunaliella." Journal of Experimental Botany, 44, 803-807.
 ---
 
-# Dunaliella salina
+## Dunaliella salina
 
 ## Overview
 

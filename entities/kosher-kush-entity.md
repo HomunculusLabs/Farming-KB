@@ -11,7 +11,7 @@ sources:
   - "https://wikileaf.com/strain/kosher-kush"
 ---
 
-# Kosher Kush
+## Kosher Kush
 
 Kosher Kush is a pure indica [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]** | 9–10 weeks indoor; late September to mid-October outdoor |
 | **Yield** | Moderate: 300–400 g/m² indoor; 350–500 g per plant outdoor |

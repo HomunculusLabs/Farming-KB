@@ -6,7 +6,7 @@ created: 2026-05-08
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Challenge Organisms in NASA Microwave Surface Sterilization Testing
+## Challenge Organisms in NASA Microwave Surface Sterilization Testing
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Earth-Shaping Techniques
+## Tropical Earth-Shaping Techniques
 
 Earth-shaping (land-forming) is a foundational permaculture practice in tropical
 agriculture. By moulding the soil surface into ridges, mounds, furrows, basins,

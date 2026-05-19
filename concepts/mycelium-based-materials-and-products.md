@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycelium-Based Materials and Products
+## Mycelium-Based Materials and Products
 
 Mycelium — the vegetative body of fungi — is increasingly recognized as a versatile raw material for manufacturing sustainable consumer goods. From packaging and insulation to building materials and textiles, mycelium-based products represent a growing field that merges [[mushroom-cultivation]] with materials science and product design. These innovations offer biodegradable alternatives to petroleum-based plastics, synthetic foams, and chemically treated materials.
 

@@ -10,7 +10,7 @@ tags: [fukuoka, acacia, nitrogen-fixing, soil-building, orchard, agroforestry, w
 aliases: [Morishima acacia, acacia permplant-leucaena-tropical-nitrogen-fixing-tree
 ---
 
-# Morishima Acacia
+## Morishima Acacia
 
 ## Overview
 

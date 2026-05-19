@@ -9,7 +9,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 created: 2026-05-10
 ---
 
-# Mushroom Tropisms — Anemotropism and Geotropism
+## Mushroom Tropisms — Anemotropism and Geotropism
 
 ## Overview
 

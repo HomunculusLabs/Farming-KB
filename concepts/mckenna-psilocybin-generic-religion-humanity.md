@@ -4,7 +4,7 @@ source: "mckenna_t-food_of_the_gods.md"
 tags: [mckenna, psilocybin, religion, generic, soma, haoma, eleusinian, humanity, origin, ecstatic, mushroom]
 ---
 
-# McKenna on Psilocybin as the Generic Religion of Humanity
+## McKenna on Psilocybin as the Generic Religion of Humanity
 
 ## Overview
 

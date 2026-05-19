@@ -7,7 +7,7 @@ sources: [raw/papers/chosbuilding-soilal-farming.md]
 type: concept
 tags: [reference]
 ---
-# IMO Processing Stages and Utilization
+## IMO Processing Stages and Utilization
 [[natural-farming]] transforms collected wild
 microorganisms from IMO-1 through IMO-4, gradually increasing their
 population, adapting them to field conditions, and preparing them for

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DMMDA (2,5-Dimethoxy-3,4-methylenedioxyamphetamine)
+## DMMDA (2,5-Dimethoxy-3,4-methylenedioxyamphetamine)
 
 DMMDA is a tetraoxygenated substituted amphetamine and one of the earliest compounds in the PIHKAL collection to carry four substituent groups on the aromatic ring. It is the first of the tetraoxygenated amphetamines to be systematically explored. The compound is listed as [[neurotropic-fungi-chemical-compounds]].
 

@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Old World Solanaceous Hallucinogens and Iboga
+## Old World Solanaceous Hallucinogens and Iboga
 
 The nightshade family (Solanaceae) produced some of the most feared and revered hallucinogenic plants in European and Asian history. Belladonna, henbane, mandrake, and datura — the ingredients of medieval witches' brews — contain [[mandrake-mandragora-officinarum-in-european-folklore]]. It entered the mythology of virtually every European people, who feared its deadly power. The attractive, shiny black berries frequently cause accidental poisoning, especially in children. Four species of *Atropa* are distributed from Europe to the Himalayas.
 

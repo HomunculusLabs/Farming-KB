@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Extraction and Purification of Marijuana and Hashish Oils
+## Extraction and Purification of Marijuana and Hashish Oils
 
 Chapter 1 of *[[lemon-cannabis-alchemy-hashing-and-extraction]]
 - [[lemon-cannabis-alchemy-thc-acetate]]

@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Reforestation After Forest Fires
+## Holzer Reforestation After Forest Fires
 
 Forest fires devastate enormous areas globally each year. Holzer argues that
 most forest fires are not natural disasters but man-made catastrophes resulting

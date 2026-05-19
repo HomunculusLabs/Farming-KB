@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Pollution Contaminants and Treatment
+## Water Pollution Contaminants and Treatment
 
 > The only long-term insurance of a good water supply is the rigorous control of a forested catchment, with a total ban on biocides and metallic processing.
 > — [[williams-pdc-water-treatment]]

@@ -20,7 +20,7 @@ sources:
 - raw/papers/bahay-kubo-indigenous-microorganisms_.md
 ---
 
-# Effective Microorganisms (EM)
+## Effective Microorganisms (EM)
 
 EM is a commercial consortium of beneficial microorganisms developed by Dr. Teruo Higa at the University of the Ryukyus, Okinawa, Japan, in the 1980s. The primary product is EM-1, a liquid culture of lactic acid bacteria, yeast, and photosynthetic bacteria.
 

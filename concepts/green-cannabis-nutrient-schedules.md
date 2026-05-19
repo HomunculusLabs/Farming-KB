@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Nutrient Schedules
+## Cannabis Nutrient Schedules
 
 From 
 

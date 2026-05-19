@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Silica Cannabis
+## Silica Cannabis
 
 Silicon (Si), commonly referred to as silica in the context of plant cultivation, is a
 beneficial element for cannabis that strengthens cell walls, improves structural

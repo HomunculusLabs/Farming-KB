@@ -19,7 +19,7 @@ sources:
     Chapter 5
 ---
 
-# Notable Mycologists: Buller and Curtis Gates Lloyd
+## Notable Mycologists: Buller and Curtis Gates Lloyd
 
 ## Overview
 

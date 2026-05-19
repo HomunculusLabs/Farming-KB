@@ -5,10 +5,10 @@ type: chemical
 tags: [tryptamine], psychedelic, auditory, serotonergic, research-chemical]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
+sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 
-# DiPT
+## DiPT
 
 **N,N-Diisopropyltryptamine** is an unusual psychedelic tryptamine distinguished by its uniquely auditory-dominant effects — it is one of the very few psychedelics that produces profound auditory distortion with minimal visual or cognitive alteration. First synthesized by [[controlled-substances-act-and-psychedelic-research]] 2016, making its
 production, supply, and importation criminal offenses. Several other countries

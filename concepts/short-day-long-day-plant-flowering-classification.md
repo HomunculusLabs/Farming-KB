@@ -1,4 +1,8 @@
-# Short-Day and Long-Day Plant Flowering Classification
+---
+title: "Short-Day and Long-Day Plant Flowering Classification"
+tags:
+  - concept
+---
 
 Plants are classified by their [[chrysanthemum-night-interruption-flowering-commercial-horticulture]].
 

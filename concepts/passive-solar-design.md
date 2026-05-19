@@ -7,7 +7,7 @@ tags: [design, permaculture, construction, sustainability, homesteading, energy,
 sources: []
 ---
 
-# Passive Solar Design
+## Passive Solar Design
 
 Passive solar design uses building orientation, window placement, [[comparison-windbreak-vs-thermal-mass]], and overhangs to heat and cool a building without mechanical systems. By working with the sun's seasonal path, a well-designed passive solar building can reduce heating costs by 50-80% and cooling costs by 30-50%. This approach is foundational for any off-grid or energy-efficient homestead.
 

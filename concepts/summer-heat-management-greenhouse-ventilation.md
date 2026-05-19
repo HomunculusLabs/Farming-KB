@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Summer Heat Management and Greenhouse Ventilation
+## Summer Heat Management and Greenhouse Ventilation
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Hermaphrodite Cannabis
+## Hermaphrodite Cannabis
 
 Intersex cannabis plants — often mistakenly called hermaphrodites — develop both male (staminate) and female (pistillate) flowers on the same individual. This is a significant concern for cannabis growers because male flowers release pollen that can seed an entire crop, reducing potency and harvest quality. Understanding the causes, biology, and management of intersex expression is essential for producing high-quality sinsemilla (seedless) cannabis.
 

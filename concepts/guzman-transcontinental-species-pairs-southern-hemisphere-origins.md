@@ -6,7 +6,7 @@ topic: mycology
 created: 2026-05-08
 ---
 
-# Transcontinental Species Pairs and Southern Hemisphere Origins
+## Transcontinental Species Pairs and Southern Hemisphere Origins
 
 One of the most intriguing biogeographic patterns in [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] have near-identical counterparts in
 Southeast Asia and the South Pacific, suggesting ancient Gondwanan

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[mycorrhiza-induced-resistance-defense-priming]]
+## [[mycorrhiza-induced-resistance-defense-priming]]
 - [[arbuscular-mycorrhizal-fungi]] as Elicitors of [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

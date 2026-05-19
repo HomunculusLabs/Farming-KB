@@ -5,7 +5,7 @@ type: entity
 tags: [equipment, dissolved-oxygen, compost-tea, brewing, measurement, monitoring]
 ---
 
-# Dissolved Oxygen Meter (AACT Brewing)
+## Dissolved Oxygen Meter (AACT Brewing)
 
 ## Description
 

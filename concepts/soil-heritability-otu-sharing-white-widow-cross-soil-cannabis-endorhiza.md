@@ -5,7 +5,7 @@ related: white-widow-cannabis, bulk soil rhizosphere recruitment, cultivar-speci
 tags: [microbiome, cannabis, endorhiza, soil, otu, heritability, winston-2014]
 ---
 
-# Soil Heritability of OTU Sharing in Cannabis Endorhiza
+## Soil Heritability of OTU Sharing in Cannabis Endorhiza
 
 **Soil heritability of OTU sharing** refers to the empirical observation that the [[cannabis-microbiome-best-analysis-edaphic-factor-ranking]] plants are significantly more similar to the [[cultivar-specificity-plant-microbiomes|plant microbiome]] research is the degree to which root-associated microbial communities are inherited from the surrounding environment versus selected by host plant genetics. The [[rhizosphere-ecology|rhizosphere]] and [[fungal-elicitors-enhanced-secondary-metabolite-production]] through microbial management.
 

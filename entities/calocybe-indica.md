@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Calocybe indica
+## Calocybe indica
 
 ## Overview
 

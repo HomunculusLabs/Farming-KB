@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Evergreen State Permaculture Conference 1986
+## Evergreen State Permaculture Conference 1986
 
 The International Permaculture Conference held in August 1986 at The Evergreen
 State College in Olympia, Washington, brought together three of the most

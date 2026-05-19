@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Harvesting Guide
+## Maitake Harvesting Guide
 
 Harvesting *Grifola frondosa* (maitake) at the correct time is critical for quality, shelf life, and market value. Maitake fruiting bodies are large, fragile, and have a narrow harvest window between optimal maturity and spoilage. This guide covers the visual indicators for harvest readiness, proper harvesting technique, post-harvest handling, and expected yields.
 

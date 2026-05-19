@@ -1,4 +1,8 @@
-# Endocannabinoid-Dopamine Regulation in ADHD and Parkinson's Disease
+---
+title: "Endocannabinoid-Dopamine Regulation in ADHD and Parkinson's Disease"
+tags:
+  - concept
+---
 
 ## Overview
 Dopamine is a hormone and neurotransmitter primarily produced by the [[endocannabinoid-system-emotional-molecules]] and behavioral motivation

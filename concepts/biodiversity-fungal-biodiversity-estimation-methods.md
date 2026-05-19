@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Biodiversity Estimation Methods
+## Fungal Biodiversity Estimation Methods
 
 [[fungal-biodiversity-tropical-ecosystems]].
 

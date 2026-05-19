@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Subcutaneous and Dematiaceous Fungal Pathogens
+## Subcutaneous and Dematiaceous Fungal Pathogens
 
 Subcutaneous fungal pathogens are distinguished from systemic and
 opportunistic pathogens by their ability to cause disease in an

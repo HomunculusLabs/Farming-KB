@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Morel Mushrooms
+## How to Grow Morel Mushrooms
 
 ## Short Answer
 

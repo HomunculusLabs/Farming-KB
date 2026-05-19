@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Macrofungi Seasonality and Year-to-Year Variation
+## Macrofungi Seasonality and Year-to-Year Variation
 
 Understanding seasonal and annual patterns of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] with summer drought, spring and fall are the main
 [[fukuoka-natural-farming-in-tropical-regions]] present a different pattern, where fruiting is often

@@ -6,7 +6,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 created: 2026-05-10
 ---
 
-# Soil Food Web
+## Soil Food Web
 
 The soil food web is the complex community of organisms living in soil — bacteria, fungi, protozoa,
 nematodes, microarthropods, and larger organisms — that interact with each other and with plants in a

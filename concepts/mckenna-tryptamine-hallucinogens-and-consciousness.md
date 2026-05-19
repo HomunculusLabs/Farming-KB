@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [terence-mckenna, dmt, psilocybin, consciousness, phenomenology, logos, tryptamine, entity-encounter, esalen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+sources: ["raw/papers/mckenna_t-tryptamines_consciousness.md"]
 type: concept
 ---
 
-# McKenna Tryptamine Hallucinogens and Consciousness
+## McKenna Tryptamine Hallucinogens and Consciousness
 
 Terence McKenna delivered the lecture "Tryptamine Hallucinogens and
 Consciousness" at the Lilly/Goswami Conference on Consciousness and Quantum

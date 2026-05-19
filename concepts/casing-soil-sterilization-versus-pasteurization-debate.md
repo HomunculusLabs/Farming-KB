@@ -14,7 +14,7 @@ tags:
 source: "Grass Seed Cultivation Guide — casing-soil-preparation|Casing Soil Preparation"
 ---
 
-# Casing Soil: [[det|det]]ail, the practical implication is clear:
+## Casing Soil: [[det|det]]ail, the practical implication is clear:
 pasteurization (heating to 60–80 °C for 30–90 minutes) does not reliably
 eliminate all contaminant organisms from the casing mixture.
 

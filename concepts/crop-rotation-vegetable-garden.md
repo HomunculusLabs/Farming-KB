@@ -9,7 +9,7 @@ sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 type: concept
 ---
 
-# Crop Rotation in the Vegetable Garden
+## Crop Rotation in the Vegetable Garden
 
 All vegetables have specific soil and mineral requirements.
 By grouping together crops with similar needs and planting

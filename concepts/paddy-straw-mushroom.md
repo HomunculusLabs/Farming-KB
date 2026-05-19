@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Paddy Straw Mushroom (Volvariella volvacea)
+## Paddy Straw Mushroom (Volvariella volvacea)
 
 The Paddy Straw Mushroom is a tropical and subtropical edible mushroom that is one of the most cultivated mushrooms in Southeast Asia and other warm-climate regions. Named for its traditional cultivation on rice straw, it is an important food source and cash crop in tropical agriculture systems.
 

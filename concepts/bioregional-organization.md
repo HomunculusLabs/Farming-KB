@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Bioregional Organization
+## Bioregional Organization
 
 A bioregional association is an association of the residents of a natural and identifiable region, organized to achieve local self-reliance while maintaining global connections. In permaculture, bioregional organization extends the [[mollison-designers-appropriate-technology-small-scale-tools]] associations
 - **Finance**: An "earthbank" association

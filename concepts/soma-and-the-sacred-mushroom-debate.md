@@ -10,7 +10,7 @@ sources:
   - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
 ---
 
-# Soma and the Sacred Mushroom Debate
+## Soma and the Sacred Mushroom Debate
 
 ## Overview
 

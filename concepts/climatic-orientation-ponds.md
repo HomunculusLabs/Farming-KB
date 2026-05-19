@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Climatic Orientation of Ponds
+## Climatic Orientation of Ponds
 
 The orientation and placement of ponds relative to climate, wind,
 and sun directly affects water temperature, oxygenation, and

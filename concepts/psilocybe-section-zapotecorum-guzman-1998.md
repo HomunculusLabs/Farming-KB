@@ -8,7 +8,7 @@ type: concept
 tags: [mycology, psilocybe, taxonomy, zapotecorum, neurotropic-fungi, distribution, sections]
 ---
 
-# Psilocybe Section Zapotecorum: Taxonomy and Distribution
+## Psilocybe Section Zapotecorum: Taxonomy and Distribution
 
 Section Zapotecorum is one of the most important taxonomic sections within
 the genus Psilocybe, named after the type species [[psilocybe-zapotecorum]].

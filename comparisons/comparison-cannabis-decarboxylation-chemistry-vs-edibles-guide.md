@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Decarboxylation Chemistry vs Edibles Guide
+## Decarboxylation Chemistry vs Edibles Guide
 ## Overview
 Decarboxylation chemistry and the edibles guide address two closely related but distinct
 aspects of preparing cannabis for oral consumption. Decarboxylation chemistry explores the

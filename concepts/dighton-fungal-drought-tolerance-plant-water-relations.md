@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Drought Tolerance and Plant Water Relations
+## Fungal Drought Tolerance and Plant Water Relations
 
 [[fungi-in-the-environment-fungal-endophytes-plant-communities]] can significantly influence
 plant water relations and help alleviate drought stress in host plants. This

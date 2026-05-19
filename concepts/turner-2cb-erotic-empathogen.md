@@ -8,7 +8,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 type: concept
 ---
 
-# 2C-B: The Erotic Empathogen
+## 2C-B: The Erotic Empathogen
 
 ## Introduction
 

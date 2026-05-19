@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Growing Cucurbits: Squash, Cucumber, Melon
+## Growing Cucurbits: Squash, Cucumber, Melon
 
 The cucurbit family -- squash, pumpkin, cucumber, and melon -- shares
 enough growing characteristics that Solomon treats them together. If you

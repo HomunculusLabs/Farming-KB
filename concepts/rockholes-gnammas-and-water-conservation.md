@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Rockholes, Gnammas, and Water Conservation
+## Rockholes, Gnammas, and Water Conservation
 
 In arid and semi-arid landscapes, natural rock basins and artificial water storage systems provide critical water resources for wildlife, livestock, and human settlements. Understanding evaporation dynamics, transmission losses, and conservation techniques is essential for maximising the utility of every litre of water captured.
 

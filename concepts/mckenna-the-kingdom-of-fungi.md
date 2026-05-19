@@ -5,7 +5,7 @@ author: Terence McKenna
 topics: mycology, evolution, taxonomy, fungi, biology
 ---
 
-# The Kingdom of Fungi — Third Kingdom of Life
+## The Kingdom of Fungi — Third Kingdom of Life
 
 Terence McKenna's interest in fungi extended beyond their psychoactive
 properties to encompass their evolutionary significance and ecological

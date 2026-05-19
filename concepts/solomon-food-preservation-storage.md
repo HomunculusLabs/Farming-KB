@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Food Preservation and Storage
+## Food Preservation and Storage
 
 Source: [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of canned and frozen foods has been massively reduced, especially if blanched during processing. Fortunately, in cold-winter climates it is possible to store fresh vegetables in living condition for many months without electricity. This is accomplished by cellaring.
 

@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Biosorption Isotherms and Metal Binding
+## Fungal Biosorption Isotherms and Metal Binding
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Sewage Treatment Using Higher [[biological-sewage-treatment-systems|systems]]. These systems leverage the natural metabolic capacities of aquatic and semi-aquatic plants to remove nutrients, heavy metals, pathogens, and organic pollutants from sewage and contaminated water. The principle is simple: contaminated water is passed through constructed wetlands, ponds, or planted channels where living plants actively uptake, transform, and sequester pollutants.
+## Biological Sewage Treatment Using Higher [[biological-sewage-treatment-systems|systems]]. These systems leverage the natural metabolic capacities of aquatic and semi-aquatic plants to remove nutrients, heavy metals, pathogens, and organic pollutants from sewage and contaminated water. The principle is simple: contaminated water is passed through constructed wetlands, ponds, or planted channels where living plants actively uptake, transform, and sequester pollutants.
 
 Unlike conventional treatment plants that consume significant energy for aeration, chemical dosing, and sludge processing, plant-based systems are largely self-maintaining, produce valuable biomass as a byproduct, and can be integrated into broader permaculture designs for food, fodder, and energy production.
 

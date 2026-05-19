@@ -9,7 +9,7 @@ tags: [mushroom, economics, farming, market, price, production, cost, agricultur
 updated: 2026-04-26
 ---
 
-# Economics of Small-Scale Mushroom Farming
+## Economics of Small-Scale Mushroom Farming
 
 ## Success and Failure
 

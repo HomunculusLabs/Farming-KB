@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Shamanic Healing, Divination, and the Worldview of Entheogenic Ceremony
+## Shamanic Healing, Divination, and the Worldview of Entheogenic Ceremony
 
 ## Overview
 

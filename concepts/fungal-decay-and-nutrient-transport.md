@@ -5,7 +5,7 @@ type: concept
 tags: [fungi, decomposition, nutrient-transport, lignin, phenol-oxidase, phosphorus]
 ---
 
-# Fungal Decay and Nutrient Transport
+## Fungal Decay and Nutrient Transport
 
 Fungi are [[the-soil-food-web]]'s premier decay organisms, uniquely capable of breaking down the most recalcitrant [[plant-volatile-organic-compounds-and-chemical-ecology]] transporting the resulting nutrients across considerable distances. Their combination of powerful enzymatic chemistry and physical reach makes them indispensable to soil fertility.
 

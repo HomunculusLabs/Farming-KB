@@ -1,5 +1,5 @@
 ---
-title: plants-of-the-gods-tabernanthe-iboga-chemistry - The African Hallucinogen
+title: "Plants Of The Gods Tabernanthe Iboga"
 created: 2026-04-28
 tags:
   - iboga
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[plants-of-the-gods-psilocybe-species-teonanacatl]]
+## [[plants-of-the-gods-psilocybe-species-teonanacatl]]
 - [[plants-of-the-gods-tabernanthe-iboga-chemistry]] - The African Hallucinogen has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their

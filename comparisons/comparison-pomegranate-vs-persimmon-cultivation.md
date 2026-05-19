@@ -13,7 +13,7 @@ sources:
 type: comparison
 ---
 
-# Pomegranate vs Persimmon Cultivation
+## Pomegranate vs Persimmon Cultivation
 
 A practical comparison for orchardists and permaculture designers choosing between these two resilient, drought-adapted fruit trees. Both produce attractive, long-lived trees suited to Mediterranean and subtropical climates, but differ significantly in cold hardiness, fruiting timeline, and cultural requirements.
 

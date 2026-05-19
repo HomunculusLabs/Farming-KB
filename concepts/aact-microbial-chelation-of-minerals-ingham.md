@@ -7,7 +7,7 @@ type: concept
 tags: [soil-science, microbiology, chelation, mineral-uptake, plant-nutrition, AACT, biochemistry]
 ---
 
-# Microbial Chelation of Minerals in Soil and AACT Systems
+## Microbial Chelation of Minerals in Soil and AACT Systems
 
 ## Overview
 

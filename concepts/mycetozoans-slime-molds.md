@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Mycetozoans — Slime Molds and Their Relatives
+## Mycetozoans — Slime Molds and Their Relatives
 
 Mycetozoans (slime molds and their relatives) are a diverse assemblage of protists that share amoeboid trophic stages and fruiting [[jadam-ambient-temperature-principle]] for 3-4 days
 5. Individual clones form plaques in bacterial lawn

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Health Ethics and Sustainable Agriculture
+## Soil Health Ethics and Sustainable Agriculture
 
 ## Overview
 

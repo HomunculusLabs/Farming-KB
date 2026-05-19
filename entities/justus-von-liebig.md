@@ -5,7 +5,7 @@ type: entity
 tags: [person, chemist, agricultural-science, fertilizers, plant-nutrition, history]
 ---
 
-# Justus Von Liebig
+## Justus Von Liebig
 
 ## Description
 

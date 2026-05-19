@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Re-Entry Visions and Judgment in the Psychedelic Experience
+## Re-Entry Visions and Judgment in the Psychedelic Experience
 
 ## Overview
 

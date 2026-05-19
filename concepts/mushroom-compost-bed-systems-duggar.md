@@ -7,7 +7,7 @@ tags: [mushroom-cultivation, bulk-substrate, compost, equipment]
 sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 ---
 
-# Mushroom Compost and Bed Systems
+## Mushroom Compost and Bed Systems
 
 Ridge vs Flat Beds, Casing, and Substitutes (Duggar)
 

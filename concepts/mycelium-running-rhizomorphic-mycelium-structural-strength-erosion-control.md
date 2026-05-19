@@ -4,7 +4,7 @@ source: woodlovers-mycelium-running-pathway-technique (Stamets, 2005)
 tags: [mycology, mycorestoration, erosion-control, rhizomorphs, watershed-protection, mycelium]
 ---
 
-# Rhizomorphic [[mycelium-running-white-rot-brown-rot-fungi]]*, [[fungi-environment-mycelial-nutrient-transport-imaging]]. These rhizomorphs possess
+## Rhizomorphic [[mycelium-running-white-rot-brown-rot-fungi]]*, [[fungi-environment-mycelial-nutrient-transport-imaging]]. These rhizomorphs possess
 remarkable tensile strength and cohesiveness that give them direct applications in
 erosion control, [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] Rhizomorphs?
 

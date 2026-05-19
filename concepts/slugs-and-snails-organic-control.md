@@ -8,7 +8,7 @@ sources:
   - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Slugs and Snails - Organic Control
+## Slugs and Snails - Organic Control
 
 ## The Problem
 

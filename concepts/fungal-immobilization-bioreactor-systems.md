@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Immobilization and Bioreactor Systems
+## Fungal Immobilization and Bioreactor Systems
 
 ## Overview
 

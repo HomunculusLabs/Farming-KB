@@ -3,7 +3,7 @@ title: Fao Solar Heating Pasteurization Mushroom Cultivation
 source: FAO mushroom-cultivation-for-disabilities-training-program People with Disabilities (2001)
 ---
 
-# Solar Heating Pasteurization in Mushroom Cultivation
+## Solar Heating Pasteurization in Mushroom Cultivation
 
 Solar heating pasteurization is a low-cost, energy-efficient alternative
 to steam-based [[comparison-passive-solar-vs-earth-sheltered]] energy captured beneath a transparent

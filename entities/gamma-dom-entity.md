@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# gamma-DOM
+## gamma-DOM
 
 gamma-DOM (Z-7; 2,6-Dimethoxy-4-methylamphetamine) is a psychedelic amphetamine representing the 2,4,6-trisubstitution pattern.
 

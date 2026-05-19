@@ -1,4 +1,8 @@
-# Clay Soil Management for Vegetable Gardens
+---
+title: "Clay Soil Management for Vegetable Gardens"
+tags:
+  - concept
+---
 
 ## Overview
 Clay soils are among the heaviest, most airless, and most difficult garden [[vegetable-garden-watering-systems-spacing]] gardening is all
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[clay-ball-seed-pellets]]
 - [[comparison-light-straw-clay-vs-hempcrete]]
 - [[fukuoka-clay-pellet-aerial-seeding-method]]
-- [[kaolin-clay-mollison]]

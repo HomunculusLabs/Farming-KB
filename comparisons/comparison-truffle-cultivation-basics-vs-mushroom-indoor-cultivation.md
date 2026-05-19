@@ -8,7 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: comparison
 ---
 
-# Truffle Cultivation vs Indoor Mushroom Cultivation
+## Truffle Cultivation vs Indoor Mushroom Cultivation
 
 ## Overview
 Truffle cultivation involves growing ectomycorrhizal fungi that form

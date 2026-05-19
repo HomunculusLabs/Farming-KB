@@ -5,7 +5,7 @@ source_authors: Guzmán, Allen & Gartz (2000)
 topic: ethnomycology
 ---
 
-# Dictyophora Indusiata as Divination Fungus
+## Dictyophora Indusiata as Divination Fungus
 
 ## Overview
 

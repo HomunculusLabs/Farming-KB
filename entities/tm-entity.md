@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# TM
+## TM
 
 TM (4-thiomescaline; 3,5-dimethoxy-4-methylthiophenethylamine) is a psychedelic phenethylamine described in [[dob-entity]] and concluded "I cannot see this as a party drug."
 

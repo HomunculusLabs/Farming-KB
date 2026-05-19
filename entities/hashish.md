@@ -5,7 +5,7 @@ type: entity
 tags: [cannabis-product, concentrate, hashish, traditional]
 ---
 
-# Hashish
+## Hashish
 
 ## Description
 

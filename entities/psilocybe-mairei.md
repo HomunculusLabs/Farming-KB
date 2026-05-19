@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# [[psilocybe-cyanescens]]
+## [[psilocybe-cyanescens]]
 - [[psilocybe-semilanceata]]
 ## Background and Context
 

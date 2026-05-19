@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Cannabichromene (CBC)
+## Cannabichromene (CBC)
 
 **Type:** Chemical / Phytocannabinoid
 **Category:** Minor [[cannabis-indica]]. It is one of the five major cannabinoids

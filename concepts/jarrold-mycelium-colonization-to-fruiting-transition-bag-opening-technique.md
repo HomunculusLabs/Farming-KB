@@ -12,7 +12,7 @@ tags:
   - boil-a-bag
 ---
 
-# Jarrold Mycelium Colonization to Fruiting Transition and Bag Opening Technique
+## Jarrold Mycelium Colonization to Fruiting Transition and Bag Opening Technique
 
 The **Jarrold mycelium colonization to fruiting transition and bag opening technique** is
 a set of procedures described by D.H. Jarrold in *Indoor Mushroom Growing Technique for

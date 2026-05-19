@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# The Mineral Cycle and Soil Health
+## The Mineral Cycle and Soil Health
 
 The mineral cycle is one of the four [[savory-holistic-management-overview]] framework. It describes how mineral nutrients
 move through the ecosystem, from deep soil layers to the surface through

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Solanaceous Hallucinogens: Datura, Mandrake, and Henbane
+## Solanaceous Hallucinogens: Datura, Mandrake, and Henbane
 
 The Solanaceae (nightshade family) contains some of the most potent and historically significant hallucinogenic plants known to humanity. Documented extensively in [[mandrake-mandragora-officinarum-in-european-folklore]], the true mandrake, is perhaps the most legendary of all magical plants in European tradition. Its forked root, which often resembles a human form, gave rise to an elaborate body of folklore. The plant was believed to emit a lethal scream when pulled from the earth, and various magical procedures were prescribed for its safe harvesting — including tying a dog to the root and then calling the dog away.
 
@@ -36,7 +36,7 @@ Hoffman, R. S., & Mofenson, H. C. (1990). " poisoning from Ingestion of Datura-R
 
 ## Merged: Latua Pubiflora Tree Of Sorcerers
 
-# Latua pubiflora — Tree of Sorcerers
+## Latua pubiflora — Tree of Sorcerers
 
 Latua pubiflora, known locally as "latué" or "árbol de los brujos" ("sorcerers' tree"), is one of the most enigmatic psychoactive plants of South America. Used exclusively by the Mapuche Indian medicine men of Valdivia, Chile, this plant produces powerful deliriant effects including visual hallucinations, disorientation, and in some cases permanent insanity. It is the only species in its genus and is endemic to a narrow strip of coastal mountains in central Chile, making it one of the most geographically restricted psychoactive plants known.
 

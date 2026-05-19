@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycoremediation, polyphenols, effluent-treatment, white-rot-fungi, olive-mill]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Treatment of Olive Oil Mill Wastewater
+## Fungal Treatment of Olive Oil Mill Wastewater
 
 Olive oil mill wastewaters (OMW), also known as "alpechin" or "olive
 milling effluent," are dark-coloured, highly phytotoxic effluents

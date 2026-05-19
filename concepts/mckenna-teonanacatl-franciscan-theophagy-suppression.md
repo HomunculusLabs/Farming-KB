@@ -1,4 +1,8 @@
-# Teonanacatl, Franciscan Theophagy, and the Suppression of Indigenous Mushroom Religions
+---
+title: "Teonanacatl, Franciscan Theophagy, and the Suppression of Indigenous Mushroom Religions"
+tags:
+  - concept
+---
 
 ## Overview
 

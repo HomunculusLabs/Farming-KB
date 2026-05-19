@@ -8,7 +8,7 @@ tags: [gardening, seeds, transplants, planting, organic-gardening]
 sources:
   - "raw/papers/purdue-home-gardeners-guide.md"
 ---
-# Vegetable Seed and Transplant Guide
+## Vegetable Seed and Transplant Guide
 
 Comprehensive guidance on [[garden-location-and-soil-preparation]],
 [[fukuoka-creating-natural-farm-site-selection-establishment]] and soil

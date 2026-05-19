@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Zone Two and Zone Three Design in Permaculture
+## Zone Two and Zone Three Design in Permaculture
 
 Zones two and three [[ecological-succession-in-permaculture-design]] represent the middle distances — areas visited regularly but less intensively than zone one, yet too important to relegate to the extensive management of zone four or five. Zone two typically contains orchards, poultry, and small livestock that need regular but not daily attention. Zone three encompasses larger-scale food production, pastures, and managed woodlots. Together, zones two and three form the productive backbone of a self-reliant homestead.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
-# Sepp Holzer Terracing and Hugelkultur
+## Sepp Holzer Terracing and Hugelkultur
 
 Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in the Austrian Alps. His methods include terracing steep slopes, creating [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - **[[fungal-wood-decomposition-spatial-variation]] provides slow-release nutrients for 10-20 years

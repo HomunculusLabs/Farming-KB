@@ -1,4 +1,8 @@
-# Molecules of Emotion: The Endocannabinoid Bridge Between Mind and Body
+---
+title: "Molecules of Emotion: The Endocannabinoid Bridge Between Mind and Body"
+tags:
+  - concept
+---
 
 ## Overview
 

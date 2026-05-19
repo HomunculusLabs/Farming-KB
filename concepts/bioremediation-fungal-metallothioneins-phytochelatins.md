@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Metallothioneins and Phytochelatins in Metal Detoxification
+## Fungal Metallothioneins and Phytochelatins in Metal Detoxification
 
 Fungi possess intracellular metal-binding molecules that play essential
 roles in metal homeostasis and detoxification. The two principal classes

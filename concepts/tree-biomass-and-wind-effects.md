@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tree Biomass and Wind Effects
+## Tree Biomass and Wind Effects
 
 ## The Tree as a Total Entity
 

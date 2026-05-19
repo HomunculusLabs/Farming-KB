@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Menstrual Pain
+## Cannabis and Menstrual Pain
 
 ## Overview
 

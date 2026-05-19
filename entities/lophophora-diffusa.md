@@ -5,10 +5,10 @@ type: species
 tags: [cactus, pellotine, psychoactive, endemic-mexico, lophophora]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md]
+sources: ["raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"]
 ---
 
-# Lophophora diffusa
+## Lophophora diffusa
 
 **Lophophora diffusa** is a species of small, spineless cactus endemic to a restricted range in the Mexican state of Querétaro. It is closely related to [[mescaline]] in L. diffusa. This distinction was a key factor in the elevation of L. diffusa to species status.
 

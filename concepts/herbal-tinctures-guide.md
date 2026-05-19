@@ -7,7 +7,7 @@ tags: [medicine, plants, health, homesteading, homestead-crafts, recipe]
 sources: []
 ---
 
-# Herbal Tinctures Guide
+## Herbal Tinctures Guide
 
 Tinctures are concentrated liquid herbal extracts made by soaking plant material in alcohol (or glycerin) to extract medicinal compounds. They are the backbone of a home herbal apothecary — portable, long-lasting, fast-acting, and potent.
 

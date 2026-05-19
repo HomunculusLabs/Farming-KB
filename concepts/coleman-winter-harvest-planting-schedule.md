@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# Winter Harvest Planting Schedule
+## Winter Harvest Planting Schedule
 
 [[coleman-semi-hibernating-winter-crops-harvest-extension]].
 Only the fastest-growing and most cold-tolerant species can still

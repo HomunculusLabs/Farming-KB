@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [cannabis, alchemy, extraction, history, chemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md]
+sources: ["raw/papers/ben-lemon-cannabis-alchemy.md"]
 type: concept
 ---
 
-# Cannabis Alchemy
+## Cannabis Alchemy
 
 Cannabis alchemy refers to the ancient and modern practice of transforming raw
 cannabis plant material into refined, potent extracts and preparations through

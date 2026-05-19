@@ -17,7 +17,7 @@ sources:
   - Suzuki, J. et al. (2015). "25B-NBOMe-related death." Journal of Analytical Toxicology 39(8): 644-646.
   - EMCDDA (2014). "Risk assessment of [[25i-nbome]]." EMCDDA-Europol.---
 
-# 25B-NBOMe
+## 25B-NBOMe
 
 ## Overview
 

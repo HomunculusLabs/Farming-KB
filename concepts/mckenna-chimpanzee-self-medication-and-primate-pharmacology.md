@@ -9,7 +9,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Chimpanzee Self-Medication and Primate Pharmacology
+## Chimpanzee Self-Medication and Primate Pharmacology
 
 The discovery that chimpanzees deliberately seek out and consume specific 
 plants for their [[terence-mckenna]], in Food of the Gods, used this evidence to support 

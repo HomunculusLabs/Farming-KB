@@ -19,7 +19,7 @@ type: concept
 
 created: 2026-05-07
 ---
-# The [[cattle-dispersal-psychoactive-fungi-australia]], and the ritual of resurrection, a
+## The [[cattle-dispersal-psychoactive-fungi-australia]], and the ritual of resurrection, a
 relationship allegro [[mckenna-catal-huyuk-natufian-link]]. The ability to perceive the
 unity beneath apparent multiplicity, the three colors of one cow, parallels the psychedelic
 experience of recognizing patterns and connections invisible to ordinary perception.

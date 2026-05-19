@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Non-Thermal Microwave Antimicrobial Mechanism via Water Dipole Coupling
+## Non-Thermal Microwave Antimicrobial Mechanism via Water Dipole Coupling
 
 The lethal action of [[dry-microwave-irradiation-spore-resistance]] against microorganisms operates through
 a mechanism fundamentally distinct from simple thermal denaturation. At 2.45 GHz,

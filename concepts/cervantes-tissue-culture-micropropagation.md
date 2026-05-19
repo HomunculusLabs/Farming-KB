@@ -8,7 +8,7 @@ tags: [cannabis, culture]
 updated: 2026-04-26
 ---
 
-# Tissue Culture and Micropropagation
+## Tissue Culture and Micropropagation
 
 Tissue culture (micropropagation) is an advanced propagation technique that involves growing cannabis from small tissue samples in a sterile, nutrient-rich agar medium. This method produces disease-free clones and allows preservation of valuable genetics at a scale impossible with traditional cloning methods. While not extensively covered in older editions of grow guides, the meristem culture concept is fundamental to the technique.
 

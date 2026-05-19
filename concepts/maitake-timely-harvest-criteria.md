@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake (Grifola frondosa) — Timely Harvest Criteria and Post-Harvest Handling
+## Maitake (Grifola frondosa) — Timely Harvest Criteria and Post-Harvest Handling
 
 ## Overview
 

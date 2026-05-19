@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 4-TIM
+## 4-TIM
 
 PIHKAL entry #154. 4-THIOISOMESCALINE;.
 

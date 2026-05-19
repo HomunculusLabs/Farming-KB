@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# The Chemical to Biological Gardening Paradigm Shift
+## The Chemical to Biological Gardening Paradigm Shift
 
 ## Overview
 

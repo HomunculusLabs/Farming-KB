@@ -4,7 +4,7 @@ source: Mycelium Running (Stamets, 2005)
 tags: [mycology, antimicrobial, medicinal-mushrooms, mycofiltration, mycopesticides, species-reference]
 ---
 
-# Mushroom Antimicrobial Properties — The Species Chart
+## Mushroom Antimicrobial Properties — The Species Chart
 
 ## Overview
 

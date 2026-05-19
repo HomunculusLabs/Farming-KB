@@ -5,7 +5,7 @@ type: entity
 tags: [tools, weeding, market-gardening, organic-farming]
 ---
 
-# Wire Weeder
+## Wire Weeder
 
 ## Description
 

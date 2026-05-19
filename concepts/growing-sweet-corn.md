@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Sweet Corn
+## Growing Sweet Corn
 
 Sweet corn is a warm-season grass with unique pollination biology that makes it behave differently from most other [[companion-cultivation-of-mushrooms-with-garden-vegetables]]. Understanding its wind-pollination mechanism, its tillering tendency, and the critical spacing-yield relationship is essential for getting a reliable crop with well-filled ears.
 

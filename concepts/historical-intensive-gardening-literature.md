@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Historical Intensive Gardening Literature
+## Historical Intensive Gardening Literature
 
 ## Overview
 

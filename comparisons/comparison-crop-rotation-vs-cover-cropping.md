@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Crop Rotation vs Cover Cropping
+## Crop Rotation vs Cover Cropping
 
 ## Overview
 Crop rotation is the practice of sequencing different crops across the same land over successive

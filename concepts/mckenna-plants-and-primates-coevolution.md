@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany, evolution]
 sources: [raw/papers/mckenna_t-food_of_the_gods.md]
 ---
 
-# Plants and Primates: Coevolution and the Stoned Ape
+## Plants and Primates: Coevolution and the Stoned Ape
 
 In *Food of the Gods*, Terence McKenna develops the argument that the relationship between early humans and psychoactive plants was not merely one of opportunistic exploitation but a genuine coevolutionary partnership that shaped the emergence of human consciousness, language, and culture. The chapter "Plants and Primates: Postcards from the Stoned Age" presents the empirical foundation for what has become known as the "stoned ape" hypothesis.
 

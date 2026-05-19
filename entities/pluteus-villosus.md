@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Pluteus villosus
+## Pluteus villosus
 
 **Pluteus villosus** is a species of pluteus mushroom found on decaying hardwood
 in temperate forests of [[hplc-analysis-of-tryptamine-alkaloids]].

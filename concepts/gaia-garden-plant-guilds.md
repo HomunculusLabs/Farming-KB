@@ -7,7 +7,7 @@ tags: [regenerative, permaculture, cultivation, ecology, plant-systems]
 sources: [raw/papers/gaias-garden-toby-hemenway.md]
 ---
 
-# Plant Guilds — Designing Productive Plant Communities
+## Plant Guilds — Designing Productive Plant Communities
 
 From Toby Hemenway's Gaia's Garden, guild design is the art of grouping plants so they support each other's growth, reduce maintenance, and create resilient ecosystems. A guild is a "mutually beneficial group of species."
 

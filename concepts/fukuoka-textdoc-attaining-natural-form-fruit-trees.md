@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Attaining the Natural Form of Fruit Trees
+## Attaining the Natural Form of Fruit Trees
 
 Fukuoka's research into the natural forms of fruit trees represents one of his most significant practical contributions to orcharding. His discovery that most [[comparison-central-leader-vs-open-center-fruit-tree-training]] form, contrary to the open-centered systems advocated by specialists, led him to develop methods for training trees to forms that require minimal or no pruning.
 

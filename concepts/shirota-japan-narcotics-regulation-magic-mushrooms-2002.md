@@ -6,7 +6,7 @@ tags: [japan, regulation, narcotics, magic-mushrooms, psilocybin, law, legal, fo
 created: 2026-05-08
 ---
 
-# Japan Narcotics Regulation of Magic Mushrooms Since 2002
+## Japan Narcotics Regulation of Magic Mushrooms Since 2002
 
 ## Overview
 

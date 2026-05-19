@@ -6,7 +6,7 @@ type: concept
 tags: [mushroom-cultivation, spawn, substrate, environment, pleurotus, fundamentals, growing-factors]
 sources: [raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md]
 ---
-# Three Pillars of Mushroom Cultivation - Spawn, Substrate, Environment
+## Three Pillars of Mushroom Cultivation - Spawn, Substrate, Environment
 
 Successful mushroom cultivation depends on three interdependent factors:
 the quality of the spawn (inoculum), the [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms|difference]] s. Spawn consists of mushroom mycelium growing on

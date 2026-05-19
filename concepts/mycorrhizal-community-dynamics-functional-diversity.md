@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Community Dynamics and Functional Diversity
+## Mycorrhizal Community Dynamics and Functional Diversity
 
 Mycorrhizal fungal communities are not static assemblages but dynamic entities that change in composition, structure, and function over time, across space, and in response to environmental perturbations. Understanding these dynamics is essential for predicting how ecosystems will respond to disturbance, climate change, and management practices.
 

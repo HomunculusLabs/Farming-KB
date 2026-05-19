@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Species - Indica, Sativa, and Ruderalis
+## Cannabis Species - Indica, Sativa, and Ruderalis
 
 Greg Green's [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]: Longer flowering period, typically 8 to 16 weeks.
 - Growth: Stretches significantly during the [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]].

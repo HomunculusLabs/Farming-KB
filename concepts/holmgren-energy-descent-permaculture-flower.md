@@ -1,4 +1,8 @@
-# Holmgren: Energy Descent and the Permaculture Flower
+---
+title: "Holmgren: Energy Descent and the Permaculture Flower"
+tags:
+  - concept
+---
 
 **Energy descent** is the central conceptual lens through which David Holmgren frames permaculture
 in *Permaculture: Principles & Pathways Beyond Sustainability* (2002). It describes the inevitable,
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[permaculture]]
 - [[dom]]
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]
-- [[holmgren-built-environment-household-energy-storage]]

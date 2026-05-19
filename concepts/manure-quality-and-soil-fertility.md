@@ -7,7 +7,7 @@ sources:
 created: 2026-05-10
 ---
 
-# Manure Quality and Soil Fertility
+## Manure Quality and Soil Fertility
 
 ## Overview
 

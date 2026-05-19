@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Leek Deep Planting Technique
+## Leek Deep Planting Technique
 
 Leeks are nearly a year-round crop at the coleman-winter-root-crops,
 [[jeavons-transplanting-techniques]]

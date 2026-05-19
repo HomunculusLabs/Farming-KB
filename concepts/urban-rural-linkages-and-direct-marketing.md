@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Urban-Rural Linkages and Direct Marketing
+## Urban-Rural Linkages and Direct Marketing
 
 Urban-rural linkages represent one of the most productive applications of [[permaculture-design]] thinking — not at the physical landscape level, but at the social and economic level. These systems connect urban consumers with rural producers, eliminating middlemen, building [[permaculture-community-resilience]], and creating economic models that benefit both sides.
 

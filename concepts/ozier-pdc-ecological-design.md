@@ -1,4 +1,8 @@
-# Ecological Design in Permaculture (Ozier PDC)
+---
+title: "Ecological Design in Permaculture (Ozier PDC)"
+tags:
+  - concept
+---
 
 **Source:** [[mollison-permaculture-design-course-curriculum]]* (2011)
 

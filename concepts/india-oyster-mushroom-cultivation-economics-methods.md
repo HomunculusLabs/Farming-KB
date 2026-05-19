@@ -17,7 +17,7 @@ source_chunks:
     start_line: 1201
     end_line: 1400
 ---
-# India Oyster Mushroom Cultivation Economics and Methods
+## India Oyster Mushroom Cultivation Economics and Methods
 The MushWorld oyster mushroom handbook presents India as a high-potential
 case for distributed oyster mushroom enterprise. The crop fits three
 conditions at once: abundant agricultural residues, varied agro-climatic

@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Hepatitis and Liver Conditions
+## Cannabis for Hepatitis and Liver Conditions
 
 The liver is the largest gland in the human body, performing essential functions including detoxification, bile production, hormone breakdown, vitamin storage, glycogen synthesis, and blood clotting support. There is no substitute for the liver — if it fails without transplantation, death results. Hepatitis, or inflammation of the liver, represents a major global health challenge, and emerging research suggests that cannabinoids may play a therapeutic role in managing this condition.
 

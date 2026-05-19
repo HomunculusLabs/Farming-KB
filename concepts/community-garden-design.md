@@ -9,7 +9,7 @@ sources:
   - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 ---
 
-# Community Garden Design
+## Community Garden Design
 
 **Updated:** 2026-04-18
 

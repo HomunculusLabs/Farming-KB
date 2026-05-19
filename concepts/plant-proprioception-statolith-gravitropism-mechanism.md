@@ -5,7 +5,7 @@ tags: [plant-senses, gravitropism, proprioception, statolith, amyloplast, plant-
 created: 2026-05-09
 ---
 
-# Plant Proprioception and the Statolith Mechanism of Gravitropism
+## Plant Proprioception and the Statolith Mechanism of Gravitropism
 
 Plants possess a sense of their own orientation in space,
 analogous to proprioception in animals.

@@ -5,7 +5,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves
 created: 2026-05-08
 ---
 
-# Magnetron Oscillator in Microwave Sterilization Systems
+## Magnetron Oscillator in Microwave Sterilization Systems
 
 The magnetron oscillator is the core microwave-generating component in the NASA-
 developed [[trace-water-flash-steam-microwave-sterilization]] generation. The

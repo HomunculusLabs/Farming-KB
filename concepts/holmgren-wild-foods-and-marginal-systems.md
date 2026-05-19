@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Wild Foods and Marginal Systems
+## Wild Foods and Marginal Systems
 
 Source: [[permaculture-principle-use-edges-and-value-the-marginal]] the Marginal)
 

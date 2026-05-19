@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Malassezia restricta
+## Malassezia restricta
 
 **Malassezia restricta** is a lipophilic (lipid-dependent) [[biodiversity-yeast-diversity-ecology]].
 

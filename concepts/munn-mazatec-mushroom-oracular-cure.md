@@ -11,7 +11,7 @@ sources:
   - raw/papers/harner-j-hallucinogens-and-shamanism.md
 ---
 
-# Munn and the Mazatec Mushroom Oracular Cure
+## Munn and the Mazatec Mushroom Oracular Cure
 
 [[henry-munn]]'s essay "The [[mazatec-mushrooms-of-language]]" appears in [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[maria-sabina]]-mazatec-mushroom-curandera and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 

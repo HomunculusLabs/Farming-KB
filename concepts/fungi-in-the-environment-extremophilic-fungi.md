@@ -4,9 +4,9 @@ created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/fungi-and-sustainability-fungi-magazine.md]
+sources: ["raw/papers/fungi-and-sustainability-fungi-magazine.md"]
 ---
-# Extremophilic and Stress-Tolerant Fungi
+## Extremophilic and Stress-Tolerant Fungi
 
 Fungi display remarkable abilities to survive and thrive in environments that are hostile to most life forms. From the sub-zero temperatures of Antarctic rocks to the metal-contaminated soils of industrial sites, extremophilic-fungi|fungi have colonized virtually every terrestrial niche. Their stress tolerance mechanisms — including desiccation resistance, metal tolerance, osmotic adaptation, and thermal resilience — have important implications for both ecosystem function and biotechnological applications.
 

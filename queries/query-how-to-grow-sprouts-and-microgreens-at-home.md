@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Sprouts and Microgreens at Home
+## How to Grow Sprouts and Microgreens at Home
 
 ## Short Answer
 Sprouts and microgreens are young, nutrient-dense plants grown from seeds in a

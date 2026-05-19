@@ -8,7 +8,7 @@ sources: [the-psilocybin-solution-by-simon-g-powell.md]
 type: concept
 ---
 
-# Psilocybin Serotonin Pathways and Environmental Chemistry
+## Psilocybin Serotonin Pathways and Environmental Chemistry
 
 Simon G. Powell's The [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]], and consciousness.
 The book explores how serotonin, the neurotransmitter that psilocybin

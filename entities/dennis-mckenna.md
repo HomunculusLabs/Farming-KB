@@ -23,7 +23,7 @@ sources:
 - raw/papers/mckenna_t-food_of_the_gods.md
 ---
 
-# Dennis McKenna
+## Dennis McKenna
 
 Dennis McKenna (born 1950) is an American ethnobotanist, pharmacognosist, and author. Younger brother of [[terence-mckenna]], Dennis provides the scientific grounding behind many of the theories his brother popularized.
 

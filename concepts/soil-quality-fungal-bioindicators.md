@@ -7,7 +7,7 @@ tags: [soil, agriculture]
 sources: []
 ---
 
-# Soil Quality Fungal Bioindicators
+## Soil Quality Fungal Bioindicators
 
 Updated: 2026-04-18
 

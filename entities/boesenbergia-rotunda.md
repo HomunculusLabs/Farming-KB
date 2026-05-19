@@ -20,7 +20,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Boesenbergia rotunda
+## Boesenbergia rotunda
 
 ## Overview
 

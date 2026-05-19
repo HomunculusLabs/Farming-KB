@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [beta-caryophyllene, dietary-cannabinoid, cb2-agonist, spices, anti-inflammatory, terpene, endocannabinoid-system, food-as-medicine]
 ---
 
-# Beta-Caryophyllene as a Dietary Cannabinoid
+## Beta-Caryophyllene as a Dietary Cannabinoid
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom Tissue Culturing and Cloning
+## Mushroom Tissue Culturing and Cloning
 
 Tissue culturing, commonly referred to as cloning, is the process of extracting a small sample of living tissue from a mushroom fruitbody and transferring it to an agar medium, where it reverts from its differentiated fruiting state back into its vegetative mycelial state. This produces a culture that is genetically identical to the parent fungus, allowing cultivators to propagate desirable strains with predictable characteristics.
 

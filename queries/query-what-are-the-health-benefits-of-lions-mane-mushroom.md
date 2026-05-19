@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Health Benefits of Lion's Mane Mushroom?
+## What Are the Health Benefits of Lion's Mane Mushroom?
 
 ## Evidence Map
 Lion's mane (*[[gourmet-medicinal-mushroom-casing-layer-techniques]] with early human evidence and a much larger base of cell and animal research.

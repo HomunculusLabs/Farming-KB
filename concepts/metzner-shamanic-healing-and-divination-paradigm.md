@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Metzner Shamanic Healing and Divination Paradigm
+## Metzner Shamanic Healing and Divination Paradigm
 
 Ralph Metzner's comparative analysis of hallucinogen use across cultures
 identifies shamanic rituals of healing and divination as one of four major

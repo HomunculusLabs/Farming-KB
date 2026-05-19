@@ -1,4 +1,8 @@
-# Garden Guilds and Polyculture Design
+---
+title: "Garden Guilds and Polyculture Design"
+tags:
+  - concept
+---
 
 ## What Are Guilds and Polycultures?
 

@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiology, cannabis, root-decay, cellvibrio, endorhiza, cellulolytic-bacteria, microbiome, sampling-methodology]
 ---
 
-# Cellvibrio as Root Decay Indicator in Cannabis Endorhiza
+## Cellvibrio as Root Decay Indicator in Cannabis Endorhiza
 
 ## Overview
 

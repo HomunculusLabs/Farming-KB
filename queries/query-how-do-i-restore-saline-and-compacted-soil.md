@@ -15,7 +15,7 @@ sources:
   - Bronick, C.J., and R. Lal. "Soil structure and management: a review." Geoderma, vol. 124, no. 1-2, 2005, pp. 3-22.
 type: query---
 
-# How Do I Restore Saline and Compacted Soil?
+## How Do I Restore Saline and Compacted Soil?
 
 Saline and compacted soils affect hundreds of millions of hectares globally. Restoring them requires physical, chemical, and biological strategies tailored to the specific degradation type. This guide covers diagnosis, remediation, and prevention for farmers and gardeners.
 

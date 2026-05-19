@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Gymnopilus luteus
+## Gymnopilus luteus
 
 **Gymnopilus luteus** is a large, orange to yellow **Gymnopilus** species found growing
 on hardwood logs and stumps in [[gymnopilus-spectabilis-entity]], and like those species, it contains the psychoactive

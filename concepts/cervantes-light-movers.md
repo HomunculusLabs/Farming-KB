@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Light Movers for Indoor Cannabis Gardens
+## Light Movers for Indoor Cannabis Gardens
 
 Light movers are motorized devices that replicate the movement of the
 sun across the sky, distributing light more evenly across indoor

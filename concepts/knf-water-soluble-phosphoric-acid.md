@@ -9,7 +9,7 @@ sources:
   - raw/papers/chos-global-natural-farming.md
 ---
 
-# KNF Water Soluble Phosphoric Acid (WPA)
+## KNF Water Soluble Phosphoric Acid (WPA)
 
 Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is extracted from animal bones using [[brown-rice-vinegar-brv]] (BRV) and charcoal. It is essential for flowering, fruiting, and [[root-development-and-plant-competition]].
 

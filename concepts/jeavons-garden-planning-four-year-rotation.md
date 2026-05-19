@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Garden Planning and Four-Year Rotation
+## Garden Planning and Four-Year Rotation
 
 John Jeavons provides detailed garden plans that progress over four years,
 allowing gardeners to develop their skills incrementally while improving the

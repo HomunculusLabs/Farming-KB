@@ -6,7 +6,7 @@ tags: [farming, natural-farming, rice, barley, clover, no-till, cover-crops]
 created: 2026-05-09
 ---
 
-# Natural Farming Rice Barley Clover Method
+## Natural Farming Rice Barley Clover Method
 
 ## Overview
 

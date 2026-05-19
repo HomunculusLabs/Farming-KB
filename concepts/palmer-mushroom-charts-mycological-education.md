@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Palmer Mushroom Charts and Mycological Education
+## Palmer Mushroom Charts and Mycological Education
 
 ## Overview
 

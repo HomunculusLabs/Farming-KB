@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Hawthorn vs Echinacea
+## Hawthorn vs Echinacea
 
 ## Overview
 

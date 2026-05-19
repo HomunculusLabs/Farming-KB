@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I grow tomatoes in a greenhouse?
+## How do I grow tomatoes in a greenhouse?
 
 ## Short Answer
 Growing tomatoes in a greenhouse means using protection and heat without letting humidity, weak light, or nutrient imbalance create disease-prone growth.

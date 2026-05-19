@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybin, mushrooms]
 sources: ["raw/papers/field-guide-to-the-psilocybin-mushroom.md"]
 ---
-# Global Distribution of Psilocybin Mushrooms
+## Global Distribution of Psilocybin Mushrooms
 
 ## Overview
 

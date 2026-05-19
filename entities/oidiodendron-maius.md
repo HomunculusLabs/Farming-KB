@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, ericoid-mycorrhizal, ascomycete, heavy-metal-tolerance]
 ---
 
-# Oidiodendron maius
+## Oidiodendron maius
 
 ## Description
 

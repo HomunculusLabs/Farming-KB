@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Mushrooms on Straw
+## How to Grow Mushrooms on Straw
 
 ## Short Answer
 

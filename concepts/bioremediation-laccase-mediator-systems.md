@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Laccase Mediator Systems in Fungal Bioremediation
+## Laccase Mediator Systems in Fungal Bioremediation
 
 Laccase mediator systems (LMS) represent one of the most important
 biochemical strategies for extending the substrate range of fungal laccase

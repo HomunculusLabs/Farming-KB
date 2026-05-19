@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Primordia Initiation and Fruiting Body Development in Maitake
+## Primordia Initiation and Fruiting Body Development in Maitake
 
 The growth sequence of [[mushroom-pinning-primordia-formation-strategies]],
 mushroom-primordia-formation-triggers.

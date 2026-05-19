@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Companion Planting vs Crop Rotation
+## Companion Planting vs Crop Rotation
 
 ## Overview
 

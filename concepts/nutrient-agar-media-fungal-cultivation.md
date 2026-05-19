@@ -4,7 +4,7 @@ source: magic-mushroom-growers-guide-ot-oss-on-oeric.md
 type: concept
 ---
 
-# Nutrient Agar Media for Fungal Cultivation
+## Nutrient Agar Media for Fungal Cultivation
 
 The preparation of solid nutrient media is a foundational skill in [[mycology]]. Agar-based media provide a sterile, controllable surface on which fungal [[mycelium]] can be grown, isolated, and stored. Two standard media — [[potato-dextrose-agar]] (PDA) and [[malt-extract-agar]] (MEA) — have been the workhorses of both amateur and professional mycology since the mid-twentieth century.
 

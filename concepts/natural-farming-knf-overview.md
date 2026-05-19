@@ -7,7 +7,7 @@ sources: [papers/chos-global-natural-farming.md]
 updated: 2026-04-26
 ---
 
-# [[cho-han-kyu-life-and-philosophy]] developed natural farming as a student of agriculture and veterinary technology. Even as a final year graduate student (1965), he had the unusual courage and conviction about the irrelevance of Green Revolution Technologies (GRT) for the Asian region. He and his friends boycotted the special paper on GRT and dedicated themselves to examining the best practices adopted by farming communities across three generations in South Korea and Japan.
+## [[cho-han-kyu-life-and-philosophy]] developed natural farming as a student of agriculture and veterinary technology. Even as a final year graduate student (1965), he had the unusual courage and conviction about the irrelevance of Green Revolution Technologies (GRT) for the Asian region. He and his friends boycotted the special paper on GRT and dedicated themselves to examining the best practices adopted by farming communities across three generations in South Korea and Japan.
 
 When Dr. Cho promoted this technology in South Korea, it appeared too subversive to the chemical lobby and government. He was jailed several times, dubbed as a communist. However, when the results were too transparent for everybody to see, truth prevailed and the Korean government accepted the technology. It has since spread to Japan, Mongolia, China, Thailand, Malaysia, Philippines, USA, India, and beyond.
 

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Fungal Mycelial Network Resilience and Evolution
+## Fungal Mycelial Network Resilience and Evolution
 
 ## Overview
 

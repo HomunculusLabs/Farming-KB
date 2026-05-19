@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Brassinosteroid
+## Brassinosteroid
 
 Brassinosteroids are a class of polyhydroxylated steroidal plant growth
 regulators. First isolated from *[[cannabis-seed-germination]], vascular differentiation,

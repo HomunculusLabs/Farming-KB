@@ -14,7 +14,7 @@ sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
 
-# Psilocybe silvatica
+## Psilocybe silvatica
 
 ## Overview
 

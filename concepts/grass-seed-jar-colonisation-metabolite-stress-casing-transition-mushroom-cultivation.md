@@ -23,7 +23,7 @@ sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
 ---
 
-# Grass Seed Jar Colonisation, Metabolite Stress, and Casing Transition
+## Grass Seed Jar Colonisation, Metabolite Stress, and Casing Transition
 
 The colonisation phase of grass seed jar cultivation is a critical period that determines the success or failure of the entire grow cycle. Understanding the dynamics of mycelial growth through the substrate, the warning signs of metabolic stress, and the proper timing for transitioning from colonisation to casing is essential for consistent results with [[psilocybe-tampanensis-entity]], [[panaeolus-subbalteatus]]. Grass seed offers several advantages over other grain substrates: it is widely available, inexpensive, and its small kernel size provides numerous inoculation points per unit volume.
 

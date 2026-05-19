@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Tropical vs Temperate Fungal Diversity
+## Tropical vs Temperate Fungal Diversity
 
 ## Overview
 

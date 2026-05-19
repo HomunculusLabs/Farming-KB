@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Maximum Fruiting Substrate Formula
+## PF TEK Maximum Fruiting Substrate Formula
 
 ## Overview
 

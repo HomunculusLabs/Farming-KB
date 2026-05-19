@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Living Mulch Systems Guide
+## Living Mulch Systems Guide
 
 Living mulch refers to low-growing plants deliberately maintained beneath or
 between crop plants to provide continuous [[fukuoka-clover-and-green-manure-cropping]]

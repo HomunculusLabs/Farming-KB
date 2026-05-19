@@ -6,7 +6,7 @@ tags: [cannabis, rhizosphere, microbiome, soil-biology, root-exudates]
 created: 2026-05-09
 ---
 
-# Cannabis Rhizosphere Bacterial Communities
+## Cannabis Rhizosphere Bacterial Communities
 
 The rhizosphere is the narrow zone of soil directly influenced by root secretions and associated soil microorganisms. In Cannabis, as in all plants, the rhizosphere serves as a critical interface for nutrient exchange, disease defense, and microbial recruitment. Understanding rhizosphere dynamics is essential for optimizing [[cannabis-rhizosphere-microbial-communities]] growth.
 - **Amino acids**: Alanine, glycine, glutamate, and other amino acids provide both carbon and nitrogen to rhizosphere microorganisms.

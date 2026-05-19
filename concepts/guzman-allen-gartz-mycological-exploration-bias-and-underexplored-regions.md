@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Mycological Exploration Bias and Underexplored Regions
+## Mycological Exploration Bias and Underexplored Regions
 
 The [[biodiversity-fungi-temperate-boreal-forests]]
 may completely overlook neurotropic species. Mueller and Halling

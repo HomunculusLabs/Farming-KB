@@ -5,7 +5,7 @@ type: concept
 tags: [cannabis, neuroprotection, endocannabinoid, THC, CBD, neurodegeneration, Alzheimer, Parkinson, MS, ALS]
 ---
 
-# Cannabis Neuroprotection Mechanisms Across Neurological Diseases
+## Cannabis Neuroprotection Mechanisms Across Neurological Diseases
 
 ## Overview
 

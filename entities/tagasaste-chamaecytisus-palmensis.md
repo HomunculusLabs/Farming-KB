@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [knowledge]
 ---
 
-# Tagasaste (Chamaecytisus palmensis)
+## Tagasaste (Chamaecytisus palmensis)
 
 ## Overview
 

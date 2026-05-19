@@ -4,7 +4,7 @@ source: "unknown-a-practical-guide-to-synthetic-log-cultiva.md"
 type: concept
 ---
 
-# Maitake Cluster Flower Stage and Harvest
+## Maitake Cluster Flower Stage and Harvest
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources: [papers/chos-global-natural-farming.md]
 ---
 
-# Chicken House -- Natural Farming Design
+## Chicken House -- Natural Farming Design
 
 **Updated:** 2026-04-18
 

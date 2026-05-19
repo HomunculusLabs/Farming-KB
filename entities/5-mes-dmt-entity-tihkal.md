@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 5-MeS-DMT — TIHKAL #46
+## 5-MeS-DMT — TIHKAL #46
 
 ## Compound Identity
 

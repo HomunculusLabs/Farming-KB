@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [knf, natural-farming]
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
-# KNF Poultry Natural Farming
+## KNF Poultry Natural Farming
 
 [[fermented-plant-extract-fpe]], [[query-can-fungi-break-down-plastic-pollution]] chicken feces.
 

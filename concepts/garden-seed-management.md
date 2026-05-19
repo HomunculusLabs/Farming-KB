@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Seed Management
+## Garden Seed Management
 
 **Garden seed management** encompasses the practices and knowledge involved in selecting, germinating, growing, and saving seeds for vegetable gardening. As presented in Steve Solomon's *Gardening When It Counts*, effective seed management is fundamental to food production and sits at the intersection of plant breeding science, soil science, and practical horticulture.
 

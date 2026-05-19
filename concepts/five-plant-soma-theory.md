@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Five-Plant Soma Theory
+## Five-Plant Soma Theory
 
 ## Overview
 

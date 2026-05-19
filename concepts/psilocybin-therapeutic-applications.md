@@ -17,7 +17,7 @@ sources:
   - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
-# Psilocybin Therapeutic Applications
+## Psilocybin Therapeutic Applications
 
 The clinical research on psilocybin for treating mental health conditions, including depression, anxiety, PTSD, addiction, and end-of-life distress.
 

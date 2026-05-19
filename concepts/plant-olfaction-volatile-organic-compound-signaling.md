@@ -7,7 +7,7 @@ tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication
        chemical-ecology, plant-defense]
 sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
-# Plant Olfaction and Volatile Organic Compound Signaling
+## Plant Olfaction and Volatile Organic Compound Signaling
 
 ## Overview
 

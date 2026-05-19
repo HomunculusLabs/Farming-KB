@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[permaculture]] is grounded in three ethical principles, distilled from research into [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]], and equitable distribution rather than private accumulation.
+## [[permaculture]] is grounded in three ethical principles, distilled from research into [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]], and equitable distribution rather than private accumulation.
 
 ### 3. Setting Limits to Population and Consumption
 

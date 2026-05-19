@@ -1,4 +1,8 @@
-# [[growing-gourmet-light-requirements-mushroom-fruiting|Growing]] Gourmet and Medicinal Mushrooms*, Chapter 2 & Appendix II
+---
+title: "Growing Gourmet and Medicinal Mushrooms*, Chapter 2 & Appendix II"
+tags:
+  - concept
+---
 
 ## Definition
 

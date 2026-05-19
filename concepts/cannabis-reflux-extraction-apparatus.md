@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Reflux Extraction Apparatus
+## Cannabis Reflux Extraction Apparatus
 
 Reflux extraction is the foundational technique in [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of cannabis into a solvent. The reflux apparatus, as described in Ben Lemon's Cannabis Alchemy, is designed to be constructed from common household and hardware store items, making cannabis oil extraction accessible without specialized laboratory equipment. The design prioritizes safety while enabling the extraction of cannabinoids from large quantities of plant material.
 

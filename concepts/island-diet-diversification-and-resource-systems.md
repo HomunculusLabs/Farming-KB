@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Island Diet Diversification and Resource Systems
+## Island Diet Diversification and Resource Systems
 
 ## Overview
 

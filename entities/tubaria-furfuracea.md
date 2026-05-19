@@ -21,7 +21,7 @@ sources:
   - Redhead SA, Gulden G. "Tubaria." In: Systema Ascomycetum, 1987.
 ---
 
-# Tubaria furfuracea (Scaly Twiglet)
+## Tubaria furfuracea (Scaly Twiglet)
 
 *Tubaria furfuracea*, commonly known as the Scaly Twiglet or Scurfy Twiglet,
 is a small saprotrophic agaric mushroom in the family Tubariaceae. It is

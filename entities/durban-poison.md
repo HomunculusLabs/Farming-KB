@@ -18,8 +18,6 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry.
 created: 2026-04-28
 ---
-# 
-
 **Durban Poison** is a pure  race [[kanna-sceletium-south-african-narcotic]] port city of Durban. One of the few commercially available true [[oner-cannabis-breeding-fundamentals]], contributing to numerous hybrid cultivars.
 
 ## Genetic Lineage

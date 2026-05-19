@@ -6,7 +6,7 @@ type: entity
 tags: [history, research]
 sources: []
 ---
-# Stanislav Grof
+## Stanislav Grof
 
 Stanislav Grof (born 1931) is a Czech-born American psychiatrist, one of the founding figures of transpersonal psychology, and a pioneer of [[psychedelic-experience-stages]] for his experiential mapping.
 

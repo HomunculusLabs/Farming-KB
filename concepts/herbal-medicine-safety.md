@@ -7,7 +7,7 @@ tags: [herbalism, herbs, medicine]
 sources:
   - "raw/papers/blesching-cannabis-pain-management.md"
 ---
-# Herbal Medicine Safety
+## Herbal Medicine Safety
 
 The safety of herbal medicine depends on proper identification of plant materials, appropriate dosing, awareness of potential herb-drug interactions, understanding of individual contraindications, and responsible sourcing and preparation. While herbs are natural substances, this does not mean they are inherently safe; many medicinal plants contain potent pharmacologically active compounds that can cause [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], pesticides, microbial contamination), and certificates of analysis. Organic or sustainably wildcrafted sources are preferred to minimize exposure to agricultural chemicals.
 

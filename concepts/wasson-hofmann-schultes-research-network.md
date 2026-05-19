@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# The Wasson-Hofmann-Schultes [[psychedelic-mushroom-dosage-guide]] s in the 1950s and 1960s resulted from a remarkable
+## The Wasson-Hofmann-Schultes [[psychedelic-mushroom-dosage-guide]] s in the 1950s and 1960s resulted from a remarkable
 collaboration between [Robert Gordon Wasson, the French
 mycologist roger heim im, Albert Hofmann of Sandoz
 Laboratori [[wasson-mexico-expeditions]] brought back the specimens and the stories that catalysed the

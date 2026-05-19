@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Hashish Preparation from Extracted Oil
+## Cannabis Hashish Preparation from Extracted Oil
 
 The preparation of hashish from extracted cannabis oil is one of the most practical applications of [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]], or hand-rubbing collect the resin glands (trichomes) directly from the plant surface. Oil-based hashish preparation, by contrast, starts with a solvent-extracted oil that is then recombined with plant material to achieve the desired consistency.
 

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe samuiensis
+## Psilocybe samuiensis
 
 *Psilocybe samuiensis* Guzmán, Allen & Merlin is a bluing, psychoactive mushroom species
 in the family Hymenogastraceae. First reported from the island of Koh Samui, Thailand,

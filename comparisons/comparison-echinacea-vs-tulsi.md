@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Echinacea vs Tulsi
+## Echinacea vs Tulsi
 
 ## Overview
 

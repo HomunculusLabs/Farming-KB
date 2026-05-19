@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Terrace Design for Slopes
+## Terrace Design for Slopes
 
 Terracing is a foundational earthworks strategy in permaculture for managing sloped land. By converting gradients into a series of level platforms, terraces enable productive polyculture, control erosion, and harvest water and nutrients. [[mollison-designers-swale-design-and-water-harvesting-earthworks]] — Contour-based water harvesting earthworks often paired with terraces.
 - [[companion-planting]] — Multi-species planting systems suited to terrace platforms.

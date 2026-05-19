@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Fungal Interactions with Living Plant Surfaces
+## Fungal Interactions with Living Plant Surfaces
 Fungi colonize living plant surfaces in diverse ways, ranging from
 obligate biotrophic parasites to saprobic epiphytes. The above-
 ground portions of plants — leaves, stems, flowers, and fruits —

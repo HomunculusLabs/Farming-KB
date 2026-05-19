@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Weed Management and Green Manure Cover
+## Fukuoka's Weed Management and Green Manure Cover
 
 Masanobu Fukuoka's approach to weed management represents a fundamental inversion of conventional agricultural thinking. Rather than treating weeds as competitors to be eliminated, he regarded them as essential contributors to soil health and farm productivity. His "no-weeding" principle, also called the principle of "weed utility," demonstrated that the labor of weeding could be replaced entirely by strategic use of ground covers, particularly clover and other leguminous green manure crops. This approach simultaneously eliminated the farmer's most arduous task while improving soil fertility, preventing erosion, and supporting the entire farm ecosystem.
 

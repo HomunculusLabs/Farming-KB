@@ -8,7 +8,7 @@ categories:
   - mycology
 ---
 
-# Chicxulub Impact
+## Chicxulub Impact
 
 ## Description
 

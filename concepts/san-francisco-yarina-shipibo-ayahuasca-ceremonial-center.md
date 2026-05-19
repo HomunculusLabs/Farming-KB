@@ -5,7 +5,7 @@ tags: [ayahuasca, shipibo, peru, ucayali, tourism, ceremony]
 created: 2026-05-08
 ---
 
-# San Francisco de Yarina — Shipibo [[ayahuasca-visions]]. Their shamanic
+## San Francisco de Yarina — Shipibo [[ayahuasca-visions]]. Their shamanic
 tradition is among the most well-documented in Amazonia, partly because of
 the accessibility of the Pucallpa area.
 

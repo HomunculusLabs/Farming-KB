@@ -9,7 +9,7 @@ type: concept
 tags: [composting]
 ---
 
-# Compost Tea Application Rates (Ingham Field Guide)
+## Compost Tea Application Rates (Ingham Field Guide)
 
 The Ingham Field Guide provides specific application rate recommendations for orchards, vegetable/flower row crops, and general scenarios. Rates are based on years of SFI testing and field observation.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
 type: concept
 ---
-# Basidiomycete Biology Overview
+## Basidiomycete Biology Overview
 
 The Basidiomycota is one of the two major phyla of the [[nicholas-money]] describes basidiomycetes as
 organisms whose "apparently ornamental figure is really a very conservative

@@ -8,7 +8,7 @@ type: concept
 tags: [shamanism]
 ---
 
-# Neo-Shamanic Phenomenology and the Limits of Science
+## Neo-Shamanic Phenomenology and the Limits of Science
 
 Simon G. Powell's "The Psilocybin Solution" argues that mainstream science is fundamentally ill-equipped to study the full scope of the [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 

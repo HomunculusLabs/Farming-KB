@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Ayahuasca Interactions with Prescription Medications
+## Ayahuasca Interactions with Prescription Medications
 
 The pharmacological complexity of [[cannabis-drug-interactions-and-contraindications]] that are typically monitored by
 healthcare systems, [[dimethyltryptamine]] in the digestive tract and

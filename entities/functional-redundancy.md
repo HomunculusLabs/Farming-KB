@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Functional Redundancy
+## Functional Redundancy
 
 ## Description
 

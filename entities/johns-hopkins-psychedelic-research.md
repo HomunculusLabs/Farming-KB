@@ -7,7 +7,7 @@ tags: [research, psychedelics]
 sources: []
 ---
 
-# Johns Hopkins Psychedelic Research
+## Johns Hopkins Psychedelic Research
 
 The Johns Hopkins Center for Psychedelic and Consciousness Research, established in 2019, is one of the world's leading psychedelic [[mycological-research-institutions]]. Building on two decades of groundbreaking studies, the Center has conducted landmark research on psilocybin for depression, anxiety, addiction, and [[psychedelic-safety-and-contra-indications]] for their [[mushroom-edibility-testing-safety-protocols]].
 

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, polyporaceae, boletus, taxonomy, edible-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
-# Pore Fungi (Polyporaceae)
+## Pore Fungi (Polyporaceae)
 The Polyporaceae, or pore-bearing fungi, constitute one of
 the major families of fleshy fungi within the order
 Basidiomycetes. They are characterized by a fruiting surface

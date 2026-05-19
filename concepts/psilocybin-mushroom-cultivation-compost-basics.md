@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Mushroom Cultivation Compost Basics
+## Psilocybin Mushroom Cultivation Compost Basics
 
 F.C. Ghouled's 1972 *[[psilocybe-cubensis-potency-variation-by-flush]] as the target species. The guide described [[growing-gourmet-sawdust-spawn-production-use]], and bed management -- representing one of the
 earliest published practical cultivation instructions in the underground

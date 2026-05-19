@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Human Creativity in [[savory-holistic-resource-management-water-cycle]]. Every management situation is unique,
+## Human Creativity in [[savory-holistic-resource-management-water-cycle]]. Every management situation is unique,
 requiring solutions that are original products of human imagination custom-made
 to fit the circumstances at hand. The modern tendency to rely on outside
 experts telling managers what to do has undermined the creative capacity that

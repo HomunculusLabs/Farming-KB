@@ -23,7 +23,7 @@ type: comparison
 created: 2026-05-07
 ---
 
-# Mead vs Kvass
+## Mead vs Kvass
 
 ## At a Glance
 

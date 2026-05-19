@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, acapulco-gold, landrace, mexican-sativa, heirloom, snowhigh-seeds, historical-strain]
 ---
 
-# Acapulco Gold — Heirloom Mexican Sativa Landrace
+## Acapulco Gold — Heirloom Mexican Sativa Landrace
 
 ## Overview
 

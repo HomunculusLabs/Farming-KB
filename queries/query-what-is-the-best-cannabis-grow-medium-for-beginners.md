@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Best Cannabis Grow Medium for Beginners
+## What Is the Best Cannabis Grow Medium for Beginners
 
 ## Short Answer
 

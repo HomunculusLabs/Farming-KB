@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Post-Flush Watering Regime and Moisture Management in Mushroom Casing
+## Post-Flush Watering Regime and Moisture Management in Mushroom Casing
 
 ## Overview
 

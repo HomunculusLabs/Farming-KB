@@ -6,7 +6,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 created: 2026-05-11
 ---
 
-# Cold Greenhouse Design for Unheated Winter Growing
+## Cold Greenhouse Design for Unheated Winter Growing
 
 ## Overview
 

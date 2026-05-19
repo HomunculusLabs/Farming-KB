@@ -5,7 +5,7 @@ tags: [cannabis, sativa, terpenes, aroma, flavor, chemistry]
 created: 2026-05-08
 ---
 
-# Cannabis Terpene Profiles in Sativa Strains
+## Cannabis Terpene Profiles in Sativa Strains
 
 Terpenes are the aromatic compounds responsible for the distinctive
 smells and flavors of cannabis, and they play a significant role in

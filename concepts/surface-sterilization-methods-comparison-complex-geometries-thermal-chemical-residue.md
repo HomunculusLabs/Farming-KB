@@ -7,7 +7,7 @@ organization: NASA Lyndon B. Johnson Space Center
 topics: [sterilization, microbiology, aerospace, food-science, contamination-control]
 ---
 
-# [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] (MSAP) development, which required a systematic
+## [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] (MSAP) development, which required a systematic
 comparison of existing [[microwave-sterilization-d-value-microbial-kill-kinetics-nasa-msc-22484]]evelopment.
 
 ## The Core Problem

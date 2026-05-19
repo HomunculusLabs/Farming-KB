@@ -5,10 +5,10 @@ type: species
 tags: [edible-mushroom, shimeji, hon-shimeji, cultivated-mushroom, buna-shimeji]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
+sources: ["raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"]
 ---
 
-# Hypsizygus tessulatus
+## Hypsizygus tessulatus
 
 **Hypsizygus tessulatus**, commonly known as the elm oyster, buna-shimeji, or hon-shimeji, is a highly prized edible mushroom in the family Lyophyllaceae. Native to temperate hardwood forests ooyster-mushroomsAmerica, and East Asia, it has become a commercially important cultivated mushroom, particularly in Japan where it ranks among the top cultivated species by market value. Despite the common name "elm oyster," it is not closely related to true [[biological-efficiency]] rmal cap development and pigmentation. Air velocity should be low to prevent drying of small pins.
 * **Harvest:** 14–21 days after pin initiation. Entire clusters are harvested by cutting at the base. Commercial yields range from 80–150% biological efficiency.

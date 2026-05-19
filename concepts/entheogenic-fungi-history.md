@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ethnobotany, history, anthropology, mycology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 type: concept
 ---
 
-# Entheogenic Fungi in Human History
+## Entheogenic Fungi in Human History
 
 The relationship between humans and [[fungi-around-the-world-species-distribution]]. In the Sahara Desert,
 mushroom-shaped figures dated to approximately 7,000 to 9,000 years ago

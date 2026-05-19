@@ -7,7 +7,7 @@ tags: [permaculture, building, natural-building, roundwood, timber, construction
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Roundwood Shelter Building
+## Roundwood Shelter Building
 
 Roundwood shelters and earth cellars are practical buildings that can be constructed all over the world. They make use of the soil's balancing effect — creating a pleasant, cool retreat in hot places and a warm one in cold places.
 

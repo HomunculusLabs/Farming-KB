@@ -1,4 +1,8 @@
-# Chytridiomycota: Zoosporic Fungi and Global Amphibian Decline
+---
+title: "Chytridiomycota: Zoosporic Fungi and Global Amphibian Decline"
+tags:
+  - concept
+---
 
 ## Overview
 

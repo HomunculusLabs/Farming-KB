@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Solar Greenhouse and Appropriate Technology Design
+## Solar Greenhouse and Appropriate Technology Design
 
 ## House and Glasshouse Integration
 

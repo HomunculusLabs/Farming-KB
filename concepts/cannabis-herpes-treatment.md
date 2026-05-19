@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Treatment for Herpes
+## Cannabis Treatment for Herpes
 
 [[cannabis-health-methods-of-administration]] of 5 across 3 studies
 reviewed by Blesching. The evidence points to two distinct mechanisms:

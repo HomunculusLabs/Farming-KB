@@ -5,7 +5,7 @@ source: Winston et al. (2014) "Understanding Cultivar-Specificity and Soil Deter
 tags: [microbiology, cannabis, endophytes, rhizosphere, plant-microbe-interactions]
 ---
 
-# Cannabis Endorhiza Microbiome
+## Cannabis Endorhiza Microbiome
 
 The endorhiza microbiome refers to the community of bacteria that colonize the internal tissues of plant roots. In Cannabis, this community exhibits significant cultivar-specificity, meaning that different genetic strains of Cannabis host distinct microbial assemblages within their root systems. This was first systematically characterized by Winston et al. (2014), who provided the foundational description of endorhiza-, rhizosphere-, and bulk soil-associated bacterial communities across five distinct Cannabis cultivars, establishing Cannabis as an important model for studying plant-microbiome interactions in a crop that produces numerous secondary metabolic compounds.
 

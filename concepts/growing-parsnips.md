@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Parsnips
+## Growing Parsnips
 
 Parsnips are like carrots with important differences. Most varieties are longer than carrots (meaning they need deeper loose topsoil), they have a slightly lower need for fertility, they grow more slowly, and they do not crack when quite big as some carrot varieties do. The biggest difficulty is getting short-lived parsnip seeds to germinate.
 

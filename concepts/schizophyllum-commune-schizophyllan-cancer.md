@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Schizophyllum Commune and Schizophyllan Cancer Research
+## Schizophyllum Commune and Schizophyllan Cancer Research
 
 Schizophyllum commune is a small, whitish bracket fungus with [[anemotropism-in-basidiomycete-mushrooms]] globally. Despite being edible, it is primarily valued for its pharmaceutical polysaccharide production. The mushroom has been known in traditional medicine and is now cultivated commercially in Japan for Schizophyllan extraction.
 

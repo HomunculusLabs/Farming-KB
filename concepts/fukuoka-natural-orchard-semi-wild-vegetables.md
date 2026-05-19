@@ -4,7 +4,7 @@ source: masanobu-fukuoka-fukuoka.md
 type: concept
 ---
 
-# Fukuoka's Natural Orchard and Semi-Wild Vegetable Methods
+## Fukuoka's Natural Orchard and Semi-Wild Vegetable Methods
 
 [[masanobu-fukuoka]] applied his [[natural-farming-principles]] not only to rice and winter grain but also to citrus orchards (12.5 acres) and semi-wild vegetable gardens on the hillsides of Iyo, Ehime Prefecture, Japan.
 

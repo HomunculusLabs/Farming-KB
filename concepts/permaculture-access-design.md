@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Permaculture Access and Circulation Design
+## Permaculture Access and Circulation Design
 Updated: 2026-18-04
 Access [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]. Mollison's Designers' Manual
 treats access as a critical element that shapes the entire site layout and

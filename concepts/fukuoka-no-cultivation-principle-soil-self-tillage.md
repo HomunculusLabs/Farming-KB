@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka No Cultivation Principle and Soil Self Tillage
+## Fukuoka No Cultivation Principle and Soil Self Tillage
 
 ## Overview
 

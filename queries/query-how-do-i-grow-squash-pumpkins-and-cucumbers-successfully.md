@@ -7,7 +7,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# How Do I Grow Squash, Pumpkins, and Cucumbers Successfully?
+## How Do I Grow Squash, Pumpkins, and Cucumbers Successfully?
 
 ## Short Answer
 

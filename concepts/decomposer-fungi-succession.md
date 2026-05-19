@@ -9,7 +9,7 @@ type: concept
 tags: [ecology, fungi]
 ---
 
-# Decomposer Fungi Succession
+## Decomposer Fungi Succession
 
 Decomposer fungi succession is the sequential process by which different communities of [[holmgren-ecological-succession-and-pulsing]] from fresh material to mature soil.
 

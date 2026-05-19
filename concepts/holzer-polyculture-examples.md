@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Polyculture Examples
+## Holzer Polyculture Examples
 
 Growing plants in polycultures is both possible and practical anywhere. Monoculture farming practices are completely unnatural, cause many problems, and should be stopped. Different crops can grow well as a group, be harvested at the same time, and be processed together. Finding the best mixtures takes time and experimentation -- always begin on a small scale.
 

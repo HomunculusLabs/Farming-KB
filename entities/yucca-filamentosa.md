@@ -9,7 +9,7 @@ updated: 2026-04-28
 sources: ["domain-knowledge"]
 ---
 
-# Yucca filamentosa
+## Yucca filamentosa
 
 ## Overview
 

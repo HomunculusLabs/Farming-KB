@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Saccharomyces paradoxus
+## Saccharomyces paradoxus
 
 **Saccharomyces paradoxus** is a [[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing (MLST) and population genomics studies that have illuminated patterns of yeast biogeography and reproductive isolation.
 

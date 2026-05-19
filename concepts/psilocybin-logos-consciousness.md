@@ -6,7 +6,7 @@ tags: [psilocybin, logos, language, consciousness, stropharia-cubensis,
 tryptamine]
 ---
 
-# Psilocybin and the Logos
+## Psilocybin and the Logos
 
 ## Overview
 

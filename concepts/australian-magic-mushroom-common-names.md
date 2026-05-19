@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Common Names and Epithets for Magic Mushrooms in Australia and New Zealand
+## Common Names and Epithets for Magic Mushrooms in Australia and New Zealand
 
 ## Introduction
 

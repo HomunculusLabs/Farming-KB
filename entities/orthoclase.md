@@ -5,7 +5,7 @@ type: entity
 tags: [mineral, felspar, potassium, granite, soil-formation]
 ---
 
-# Orthoclase
+## Orthoclase
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: [robert-c-clarke-marijuana-botany-an-advanced-study.md]
 type: concept
 ---
 
-# [[clarke-marijuana-botany-genetics-breeding]]
+## [[clarke-marijuana-botany-genetics-breeding]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

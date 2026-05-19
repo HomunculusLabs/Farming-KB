@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Soil pH Management for Vegetable Gardens
+## Soil pH Management for Vegetable Gardens
 
 Soil pH is a measure of the acidity or alkalinity of your garden soil
 and plays a critical role in [[ingham-compost-tea-application-rates-and-timing]] of sulfur and lime to adjust

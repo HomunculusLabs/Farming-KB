@@ -12,7 +12,7 @@ topics:
   - cho-global-natural-farming
 ---
 
-# [[ingham-natural-growth-regulators-soil-microbes]]. These inputs are produced on-farm from locally
+## [[ingham-natural-growth-regulators-soil-microbes]]. These inputs are produced on-farm from locally
 available materials using simple fermentation techniques. Each input
 serves a specific purpose in the [[oriental-herbal-nutrient]] (OHN)
 

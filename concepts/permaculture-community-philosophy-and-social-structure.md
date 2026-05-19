@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Permaculture Community Philosophy and Social Structure
+## Permaculture Community Philosophy and Social Structure
 
 Mollison concludes Permaculture Two with a vision for community-scale social transformation through [[permaculture-design]], [[appropriate-technology]], and a philosophy of individual responsibility for collective survival.
 

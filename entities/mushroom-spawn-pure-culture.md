@@ -5,7 +5,7 @@ type: entity
 tags: [technique, spawn, pure-culture, innovation, united-states]
 ---
 
-# Pure Culture Mushroom Spawn
+## Pure Culture Mushroom Spawn
 
 ## Description
 

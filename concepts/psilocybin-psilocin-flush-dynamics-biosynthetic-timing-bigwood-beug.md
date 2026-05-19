@@ -4,7 +4,7 @@ source: Variation of hplc-analysis-of-psilocybin-and-psilocin Levels with Repeat
 tags: [psilocybin, psilocin, psilocybe-cubensis, flush, biosynthesis, alkaloid, bigwood-beug, cultivation, fruiting]
 ---
 
-# Psilocybin and Psilocin Flush Dynamics
+## Psilocybin and Psilocin Flush Dynamics
 
 ## Overview
 

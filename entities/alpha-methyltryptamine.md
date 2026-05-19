@@ -5,10 +5,10 @@ type: chemical
 tags: [tryptamine, psychedelic, stimulant, entactogen, serotonergic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
+sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 
-# α-Methyltryptamine
+## α-Methyltryptamine
 
 **α-Methyltryptamine** (α-MT, **AMT**) is a [[first-pass-metabolism-and-oral-bioavailability]] and a long duration of action (10–14 hours)
 - **5-HT₂B agonism** is a noted concern — chronic activation of this receptor is associated with valvular [[cannabis-drug-interactions-and-contraindications]]**: Contraindicated with SSRIs, MAOIs, and other serotonergic agents; [[alpha-beta-gamma-diversity-fungi]]

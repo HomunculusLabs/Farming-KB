@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# JADAM Root Diagnosis and [[beneficial-indigenous-microorganisms-bim]]"
+## JADAM Root Diagnosis and [[beneficial-indigenous-microorganisms-bim]]"
 (IMO). These are already adapted to local conditions. Bringing them home,
 cultivating them, and applying them restores the natural balance and diversity
 that once existed in farm soils. The key is harmony between producers,

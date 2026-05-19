@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
 ---
-# Cashinahua [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]] of southeastern Peru along the Curanja River. Their use of Banisteriopsis — known locally as nixi pae ("vine drunkenness") and more widely as [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] indicates the active hallucinogenic agents of the Banisteriopsis are [[harmaline]], while the Psychotria contributes [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces|hallucinations]] include:
+## Cashinahua [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]] of southeastern Peru along the Curanja River. Their use of Banisteriopsis — known locally as nixi pae ("vine drunkenness") and more widely as [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] indicates the active hallucinogenic agents of the Banisteriopsis are [[harmaline]], while the Psychotria contributes [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces|hallucinations]] include:
 
 Brightly colored large snakes are the most commonly reported vision, along with jaguars and ocelots. Spirits — both of ayahuasca and others — appear regularly. Large trees, sometimes falling, are seen. Lakes filled with anacondas and alligators, Cashinahua villages and those of other Indians, traders and their goods, and gardens full of manioc, plantains, corn, and peanuts all figure prominently.
 

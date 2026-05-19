@@ -14,7 +14,7 @@ created: 2026-05-11
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Cannabis Cultivar Specificity
+## Cannabis Cultivar Specificity
 
 Cannabis cultivar specificity refers to the phenomenon whereby different Cannabis cultivars (strains) harbor distinct microbial communities in their root tissues, even when grown in identical soil conditions. This host-genotype-dependent selection of the endorhiza microbiome has been demonstrated across multiple cultivars and growing environments, providing evidence for the second tier of the two-tier selection model.
 

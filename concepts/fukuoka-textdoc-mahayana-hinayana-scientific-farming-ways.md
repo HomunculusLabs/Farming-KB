@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Mahayana, Hinayana, and Scientific Farming: Three Ways of Farming
+## Mahayana, Hinayana, and Scientific Farming: Three Ways of Farming
 
 ## Overview
 

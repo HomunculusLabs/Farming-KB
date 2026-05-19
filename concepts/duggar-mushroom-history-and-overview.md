@@ -9,7 +9,7 @@ tags: [mushroom, cultivation, history, agriculture, mycology, duggar]
 updated: 2026-04-26
 ---
 
-# Mushroom Cultivation History and Overview
+## Mushroom Cultivation History and Overview
 
 The word "mushroom" is diversely employed. Our best usage sanctions it as a comprehensive term applicable to most if not all of the fleshy fungi, whether good, bad, or indifferent with respect to edible qualities. In a commercial sense, the cultivated mushroom, Agaricus campestris, and the allies of this form are everywhere in America the dominant species of interest.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [tree, species, eucalyptus, revegetation, australia, coastal]
 ---
 
-# Eucalyptus gomphocephala (Tuart)
+## Eucalyptus gomphocephala (Tuart)
 
 ## Description
 

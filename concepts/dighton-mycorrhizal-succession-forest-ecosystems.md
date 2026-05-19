@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizal Succession in Forest Ecosystems
+## Mycorrhizal Succession in Forest Ecosystems
 
 [[ectomycorrhizal-fungal-ecology]] species
 around the base of birch trees as they aged. The outermost ring consists of

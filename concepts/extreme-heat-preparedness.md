@@ -7,7 +7,7 @@ tags: [safety, homesteading, climate, animal-husbandry, health]
 sources: []
 ---
 
-# Extreme Heat Preparedness
+## Extreme Heat Preparedness
 
 Extreme heat is the deadliest weather-related hazard in the [[dmt-containing-plants-united-states-halpern]], causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops.
 

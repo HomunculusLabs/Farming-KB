@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Start Natural Dyeing with Plants?
+## How Do I Start Natural Dyeing with Plants?
 
 ## Short Answer
 

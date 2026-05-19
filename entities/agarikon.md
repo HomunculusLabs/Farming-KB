@@ -13,7 +13,7 @@ sources:
   - "Fungal Conservation" issues on old-growth forest protection
 ---
 
-# Agarikon (Laricifomes officinalis)
+## Agarikon (Laricifomes officinalis)
 
 Agarikon is a rare, long-lived polypore mushroom and one of the oldest known medicinal fungi in Western history. Once common in old-growth forests of Europe and [[pseudotsuga-menziesii]]*), and western hemlock (*Tsuga heterophylla*).
 - **Ecological role:** Begins as a heart rot pathogen, eventually killing its host tree and then decomposing the dead wood, recycling nutrients in old-growth forest ecosystems.

@@ -4,7 +4,7 @@ source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [metzner, barquinha, umbanda, ayahuasca, brazil, syncretism, afro-brazilian, orixas, santo-daime, udv]
 ---
 
-# Barquinha, Umbanda, and Afro-Brazilian Ayahuasca Syncretism
+## Barquinha, Umbanda, and Afro-Brazilian Ayahuasca Syncretism
 
 ## Three Brazilian Ayahuasca Churches
 

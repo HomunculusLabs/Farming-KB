@@ -33,7 +33,7 @@ related_concepts:
   - biointensive-seed-saving
 ---
 
-# Biointensive Gardening and Minifarming
+## Biointensive Gardening and Minifarming
 
 Biointensive gardening, formally known as GROW BIOINTENSIVE (GB), is a
 small-scale agricultural system designed to maximize food production in

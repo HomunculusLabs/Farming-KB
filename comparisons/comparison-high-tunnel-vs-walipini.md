@@ -11,7 +11,7 @@ sources:
   - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. chelsea-green-publishing, 2009.
 type: comparison---
 
-# High Tunnel vs Walipini (Underground Greenhouse)
+## High Tunnel vs Walipini (Underground Greenhouse)
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [chemistry, psilocybin, pharmacology, psychedelics, pharmacology]
 sources: [raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
 
-# Magic Mushroom Constituent Chemistry
+## Magic Mushroom Constituent Chemistry
 
 ## Overview
 

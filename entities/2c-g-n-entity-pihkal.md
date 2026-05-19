@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-G-N
+## 2C-G-N
 
 [[lsd]]. This is just a
 > friend, an ally, which invites you to do anything you wish to.

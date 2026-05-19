@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md, Chunk 20 (Lines 4001-4200)
 type: concept
 ---
 
-# Zone One Intensive Garden Design
+## Zone One Intensive Garden Design
 
 Zone one in [[permaculture]] is the area of most intensive human interaction — the garden
 immediately surrounding the home. It receives the highest frequency of visits, the most

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Markets and Retail
+## Hallucinogenic Mushroom Markets and Retail
 
 ## Overview
 

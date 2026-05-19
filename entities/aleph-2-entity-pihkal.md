@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ALEPH-2
+## ALEPH-2
 
 [[dom]]. Rather, I noticed waves of
 > movement, very smooth and not too busy. Both my tactile perception

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Geoff Wallace Soil Conditioner
+## Geoff Wallace Soil Conditioner
 
 ## Description
 

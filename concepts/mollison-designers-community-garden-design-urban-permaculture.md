@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Community Garden Design and Urban Permaculture
+## Community Garden Design and Urban Permaculture
 
 Bill Mollison's [[savory-holistic-resource-management-animal-impact]] -- to the
 unique constraints and opportunities of cities and towns: limited

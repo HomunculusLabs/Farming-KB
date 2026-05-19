@@ -14,7 +14,7 @@ sources:
   - USDA NRCS. "Imperata cylindrica (L.) P. Beauv." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=IMCY2
 ---
 
-# Imperata cylindrica
+## Imperata cylindrica
 
 ## Overview
 

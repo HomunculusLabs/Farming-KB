@@ -8,7 +8,7 @@ sources:
   - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 
-# Bulk Substrate Field Capacity and Moisture Management
+## Bulk Substrate Field Capacity and Moisture Management
 
 Field capacity is the moisture content of a substrate after it has been fully saturated and allowed to drain freely. In [[pf-tek-substrate-moisture-diagnosis-and-correction]] directly affects [[azurescens-spawn-preparation-grain-to-wood]]. Precise measurement allows reproducible results across batches and seasons.
 

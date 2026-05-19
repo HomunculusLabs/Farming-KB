@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: "Guzmán, Allen & Gartz (1998)"
 ---
 
-# Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas
+## Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas
 
 [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] the world. According to the comprehensive survey by
 [[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]] fungus, documented by Singer (1949, 1959, 1978), Heim

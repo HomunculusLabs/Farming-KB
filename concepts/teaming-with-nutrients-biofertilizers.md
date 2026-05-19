@@ -7,7 +7,7 @@ tags: [fertilizer, soil-science, plant-nutrition, soil-food-web, nitrogen, phosp
 sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 ---
 
-# Biofertilizers and Plant-Microbe Partnerships
+## Biofertilizers and Plant-Microbe Partnerships
 
 updated: 2026-04-21
 

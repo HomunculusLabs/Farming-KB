@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How do I save water in a vegetable garden?
+## How do I save water in a vegetable garden?
 
 ## Short Answer
 Saving water in a vegetable garden is mostly about keeping rainfall and irrigation in the root zone for longer.

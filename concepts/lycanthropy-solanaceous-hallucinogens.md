@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Lycanthropy and Solanaceous Hallucinogens
+## Lycanthropy and Solanaceous Hallucinogens
 
 The European werewolf belief, or lycanthropy, may have pharmacological
 roots in the tropane alkaloids produced by Solanaceae plants. Michael

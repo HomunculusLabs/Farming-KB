@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Green Roof vs Earth-Sheltered Structures
+## Green Roof vs Earth-Sheltered Structures
 
 ## Overview
 

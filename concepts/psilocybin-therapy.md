@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [psychiatry, psychopharmacology, therapy, medicine]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 type: concept
 ---
 
-# Psilocybin Therapy
+## Psilocybin Therapy
 
 Psilocybin therapy is a form of psychedelic-assisted psychotherapy that
 uses psilocybin, the active compound found in certain mushrooms, in

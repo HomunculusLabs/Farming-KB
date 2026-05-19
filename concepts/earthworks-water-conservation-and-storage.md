@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earthworks for Water Conservation and Storage
+## Earthworks for Water Conservation and Storage
 
 Earthworks are the physical infrastructure of water management in permaculture design. From broadscale infiltration systems to precisely engineered dams, earthworks capture, store, and distribute water across landscapes. When properly designed and integrated with biological systems, they transform wasteful runoff into productive, drought-resilient landscapes.
 

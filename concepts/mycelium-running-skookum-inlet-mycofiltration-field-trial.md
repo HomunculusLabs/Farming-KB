@@ -4,7 +4,7 @@ source: woodlovers-mycelium-running-pathway-technique (Stamets, 2005)
 tags: [mycology, mycofiltration, mycorestoration, water-quality, stropharia-rugoso-annulata, case-study]
 ---
 
-# The Skookum Inlet Mycofiltration Field Trial
+## The Skookum Inlet Mycofiltration Field Trial
 
 ## Overview
 

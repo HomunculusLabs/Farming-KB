@@ -31,7 +31,7 @@ related_concepts:
   - garden-care-and-succession-planting
 ---
 
-# Crop Rotation and Succession Planting
+## Crop Rotation and Succession Planting
 
 Crop rotation and succession planting are two complementary strategies that
 form the backbone of intelligent garden and farm planning. Though they serve

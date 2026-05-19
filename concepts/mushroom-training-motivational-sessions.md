@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Motivational Sessions in Mushroom Cultivation Training
+## Motivational Sessions in Mushroom Cultivation Training
 
 Motivational sessions are a foundational component [[biodynamic-farming-principles-and-practice]] of positive thinking as a daily discipline that supports resilience and perseverance.
 

@@ -18,7 +18,7 @@ tags:
   - nutrient-cycling
 ---
 
-# AACT Soil Food Web Twelve-Step Balancing Protocol
+## AACT Soil Food Web Twelve-Step Balancing Protocol
 
 Dr. [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] will stall regardless of bacterial biomass.
 

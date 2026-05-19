@@ -14,7 +14,7 @@ sources:
   - s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# [[vic-high-cannabis-genetics-mendelian-inheritance]] were traded hand-to-hand, with no documentation, no breeding records, and no concern for provenance.
+## [[vic-high-cannabis-genetics-mendelian-inheritance]] were traded hand-to-hand, with no documentation, no breeding records, and no concern for provenance.
 
 What is known is that from those 13 seeds emerged one of the most important genetic families in cannabis history. Chemdawg itself, bred to its current form by Humboldt Seed Organisation, is a sativa-dominant strain with THC testing at approximately 20%.
 

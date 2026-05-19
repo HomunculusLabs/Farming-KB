@@ -18,7 +18,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Pesticide for Fungal Diseases
+## JADAM Pesticide for Fungal Diseases
 
 For serious fungal diseases -- canker, anthracnose, rust, brown blotch, black spot -- JADAM uses stronger concentrations of [[jadam-sulfur-js]] combined with [[jadam-wetting-agent-jwa]]. These are the "heavy" germicide formulations, one tier above the [[jadam-pesticide-for-powdery-mildew]] recipes.
 

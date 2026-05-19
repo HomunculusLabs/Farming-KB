@@ -24,7 +24,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Ralph Metzner
+## Ralph Metzner
 
 Ralph Metzner (1936-2019) was a German-born American psychologist, psychotherapist, and consciousness researcher. A key member of the Harvard Psilocybin Project alongside [[timothy-leary]] and Richard Alpert (Ram Dass), and the most academically grounded of the three, maintaining scholarly credibility throughout a career spanning five decades.
 

@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Temptation as Crucible, Hellebore Preparation, and Seven-Fold Purification
+## Temptation as Crucible, Hellebore Preparation, and Seven-Fold Purification
 
 In [[john-allegro]]'s philological analysis of the New Testament and related texts,
 the common Christian petition "lead us not into temptation" conceals a far more

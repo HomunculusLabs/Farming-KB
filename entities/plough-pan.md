@@ -5,7 +5,7 @@ type: entity
 tags: [soil, permaculture, compaction, agriculture, soil-structure]
 ---
 
-# Plough Pan
+## Plough Pan
 
 ## Description
 

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Woronin Bodies and Septal-Pore-Associated Organelles in Fungi
+## Woronin Bodies and Septal-Pore-Associated Organelles in Fungi
 
 ## Overview
 

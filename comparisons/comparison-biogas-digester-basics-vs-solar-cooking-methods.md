@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Biogas Digester Basics vs Solar Cooking Methods
+## Biogas Digester Basics vs Solar Cooking Methods
 
 ## Overview
 

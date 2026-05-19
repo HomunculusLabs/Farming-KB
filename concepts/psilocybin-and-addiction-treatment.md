@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms]
 sources:
   - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
-# Psilocybin and Addiction Treatment
+## Psilocybin and Addiction Treatment
 
 The potential of psychedelic compounds to treat addiction represents one of the most promising areas of modern [[powell-psilocybin-solution-ecological-cognition-theory]]" discusses this in the context of ibogaine and the broader capacity of entheogens to facilitate deep psychological re-evaluation.
 

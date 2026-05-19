@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# P
+## P
 
 [[proscaline]]; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE.
 

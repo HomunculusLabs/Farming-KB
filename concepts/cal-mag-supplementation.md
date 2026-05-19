@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Cal Mag Supplementation
+## Cal Mag Supplementation
 
 Calcium (Ca) and magnesium (Mg) are [[query-how-does-no-till-cannabis-cultivation-work]]. Supplementation is often necessary, especially in
 hydroponic systems and when using certain growing media.

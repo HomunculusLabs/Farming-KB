@@ -1,4 +1,8 @@
-# McKenna Partnership and Dominator Cultural Models
+---
+title: "McKenna Partnership and Dominator Cultural Models"
+tags:
+  - concept
+---
 
 ## Overview
 

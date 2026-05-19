@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, permaculture, hormonal-manipulation, breeding]
 ---
 
-# Puntius (Spawning Induction Fish)
+## Puntius (Spawning Induction Fish)
 
 ## Description
 

@@ -22,7 +22,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Psilocybin Mushrooms of North America (USA and Canada)
+## Psilocybin Mushrooms of North America (USA and Canada)
 
 North America has a well-documented neurotropic mycobiota, concentrated in the
 Pacific Northwest and the Gulf Coast/southeastern states. The Pacific Northwest

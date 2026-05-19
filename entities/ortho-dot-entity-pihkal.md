@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ORTHO-DOT
+## ORTHO-DOT
 
 [[scythian-cannabis-steam-bath-ritual]] there was added 8.2 g of
 

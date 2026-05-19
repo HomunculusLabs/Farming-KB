@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Lichen Characteristics, Ecology, and Taxonomy
+## Lichen Characteristics, Ecology, and Taxonomy
 
 ## Lichen Characteristics
 

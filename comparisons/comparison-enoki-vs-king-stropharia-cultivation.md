@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Enoki vs King Stropharia Cultivation
+## Enoki vs King Stropharia Cultivation
 
 ## Overview
 

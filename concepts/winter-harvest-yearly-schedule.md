@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Yearly Schedule
+## Winter Harvest Yearly Schedule
 
 The winter harvest yearly schedule is a comprehensive annual cropping plan that integrates summer and winter vegetable production into a continuous twelve-month farming system. Developed by Eliot Coleman at Four Season Farm in Maine, this schedule maximizes the productivity of mobile greenhouses through carefully timed crop rotations, succession plantings, and strategic use of both heated and unheated growing spaces. The system evolved from separate summer-only and winter-only experiments into an integrated year-round approach.
 

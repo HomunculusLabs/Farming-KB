@@ -8,7 +8,7 @@ type: concept
 tags: [medicine, mushroom-cultivation, mushrooms]
 ---
 
-# Immune Modulation by Beta-Glucans from Medicinal Mushrooms
+## Immune Modulation by Beta-Glucans from Medicinal Mushrooms
 
 ## Overview
 

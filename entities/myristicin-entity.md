@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
-# Myristicin
+## Myristicin
 Myristicin is a naturally occurring phenylpropene compound and the principal
 psychoactive constituent of nutmeg ([[alexander-shulgin]].
 ## Chemical Identity

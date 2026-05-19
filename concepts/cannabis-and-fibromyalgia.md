@@ -5,7 +5,7 @@ source_author: uwe-blesching
 tags: [cannabis, fibromyalgia, chronic-pain, cannabinoid, THC, CBD, CHI]
 ---
 
-# Cannabis and Fibromyalgia
+## Cannabis and Fibromyalgia
 
 ## Overview
 

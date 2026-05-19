@@ -19,7 +19,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Inocybe corydalina
+## Inocybe corydalina
 
 ## Overview
 

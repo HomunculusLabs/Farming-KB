@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Old Rice Variety Testing
+## Fukuoka Old Rice Variety Testing
 
 In his 1975 speech and related writings, [[holzer-old-varieties-and-seed-saving]] can outperform modern ones under natural conditions.
 

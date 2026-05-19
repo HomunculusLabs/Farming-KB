@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Xanthoria parietina
+## Xanthoria parietina
 
 **Xanthoria parietina** is a golden-yellow, almost ubiquitous lichen-forming ascomycete.
 

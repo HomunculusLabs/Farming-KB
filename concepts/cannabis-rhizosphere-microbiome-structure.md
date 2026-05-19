@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Cannabis Rhizosphere Microbiome Structure
+## Cannabis Rhizosphere Microbiome Structure
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Fukuoka Natural Farming Philosophy of Mu
+## Fukuoka Natural Farming Philosophy of Mu
 
 ## Definition
 

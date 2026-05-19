@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Bamboo Construction vs Cob Building
+## Bamboo Construction vs Cob Building
 
 ## Overview
 

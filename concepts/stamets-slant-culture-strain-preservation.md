@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Slant Culture Preparation and Strain Preservation
+## Slant Culture Preparation and Strain Preservation
 
 ## Overview
 

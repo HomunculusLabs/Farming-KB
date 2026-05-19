@@ -5,7 +5,7 @@ type: entity
 tags: [plant, asteraceae, secondary-metabolites, trichothecenes, endophyte, toxicity]
 ---
 
-# Baccharis
+## Baccharis
 
 ## Description
 

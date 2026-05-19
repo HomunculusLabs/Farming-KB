@@ -4,10 +4,10 @@ created: 2026-05-06
 tags: [mycology, psilocybin, psilocin, alkaloid-variation, flush-number, psilocybe-cubensis, hplc-analysis, bigwood-beug]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md]
+sources: ["raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"]
 type: concept
 ---
-# Psilocybin and Psilocin Variation Across Flushes in Psilocybe Cubensis The alkaloid content of cultivated Psilocybe cubensis varies significantly between successive flushes, with psilocybin and psilocin following distinctly different temporal patterns. This finding, documented by Bigwood and Beug in 1982 at The Evergreen State College, has important implications for both cultivators and consumers who may assume consistent potency across harvests. ## Experimental Design Bigwood and Beug grew an Amazonian strain of Psilocybe cubensis originating from a bigwood-beug-psilocybin-psilocin-variation-analysis - psilocybin psilocin flush accumulation patterns - [[psilocybe-cubensis-miniculture-on-rye-grain]]
+## Psilocybin and Psilocin Variation Across Flushes in Psilocybe Cubensis The alkaloid content of cultivated Psilocybe cubensis varies significantly between successive flushes, with psilocybin and psilocin following distinctly different temporal patterns. This finding, documented by Bigwood and Beug in 1982 at The Evergreen State College, has important implications for both cultivators and consumers who may assume consistent potency across harvests. ## Experimental Design Bigwood and Beug grew an Amazonian strain of Psilocybe cubensis originating from a bigwood-beug-psilocybin-psilocin-variation-analysis - psilocybin psilocin flush accumulation patterns - [[psilocybe-cubensis-miniculture-on-rye-grain]]
 ## Practical Applications
 
 Psilocybin Psilocin Flush Accumulation Patterns has a range of practical applications that make it relevant to

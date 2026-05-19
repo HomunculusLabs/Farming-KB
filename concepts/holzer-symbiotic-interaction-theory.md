@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Symbiotic Interaction Theory - Plant Communication and Exchange
+## Holzer Symbiotic Interaction Theory - Plant Communication and Exchange
 
 Holzer's concept of symbiotic interaction describes how plants in a diverse
 community communicate, share resources, and support each other through

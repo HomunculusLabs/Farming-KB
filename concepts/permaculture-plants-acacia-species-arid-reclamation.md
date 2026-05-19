@@ -5,7 +5,7 @@ author: "Permaculture Plants: A Selection"
 tags: [permaculture-plants, acacia, wattle, arid-reclamation, nitrogen-fixing, pioneer, soil-stabilisation, fodder]
 ---
 
-# Acacia Species for Arid and Semi-Arid Land Reclamation
+## Acacia Species for Arid and Semi-Arid Land Reclamation
 
 The genus Acacia encompasses approximately 850 species [[biological-nitrogen-fixation-agriculture]], [[building-soil]]
   fertility on impoverished sites where little else can grow. Acacias also form symbiotic relationships with [[dighton-fungal-roles-soil-erosion-prevention]].

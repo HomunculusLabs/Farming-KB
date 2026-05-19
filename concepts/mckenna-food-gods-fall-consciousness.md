@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# The Fall of Consciousness
+## The Fall of Consciousness
 
 "The Fall of Consciousness" is McKenna's historical analysis of how human civilization shifted from the ecstatic, mushroom-based partnership societies of prehistory to the repressive, alcohol-fueled [[allegro-amanita-muscaria-properties-and-pharmacology]]*), but rather the psilocybin-containing *[[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]** — the direct descendant of Minoan rites, celebrated for nearly two thousand years on the plain near Athens, where "literally everyone who was anyone made their way to the great harvest festival"
 

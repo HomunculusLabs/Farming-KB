@@ -7,7 +7,7 @@ tags: [amphetamine, MMDA, MMDA-2, psychedelic, empathogen, Shulgin, PiHKAL, meth
 created: 2026-05-11
 ---
 
-# MMDA and MMDA-2 (Methoxy-Methylenedioxyamphetamine)
+## MMDA and MMDA-2 (Methoxy-Methylenedioxyamphetamine)
 
 ## Overview
 

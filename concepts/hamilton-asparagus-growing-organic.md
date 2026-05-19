@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Asparagus Growing - Organic Methods
+## Asparagus Growing - Organic Methods
 
 Asparagus is one of the most rewarding [[cervantes-seed-production-storage]]. Male-only varieties direct all their energy
 into spear production rather than developing berries. Other modern

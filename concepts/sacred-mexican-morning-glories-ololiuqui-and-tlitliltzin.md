@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Sacred Mexican Morning Glories: Ololiuqui and Tlitliltzin
+## Sacred Mexican Morning Glories: Ololiuqui and Tlitliltzin
 
 The sacred Mexican morning glories — Rivea corymbosa (ololiuqui) and Ipomoea violacea (tlitliltzin) — provide Mexican Indians with hallucinogenic seeds that have been used in divination, prophecy, and healing since Aztec times. The discovery that these unassuming seeds contain ergoline alkaloids closely related to LSD was one of the most astonishing findings in the history of ethnopharmacology.
 

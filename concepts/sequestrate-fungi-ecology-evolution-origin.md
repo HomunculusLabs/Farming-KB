@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Sequestrate Fungi — Definition, Ecology, Evolution, and Origin
+## Sequestrate Fungi — Definition, Ecology, Evolution, and Origin
 
 ## Lichen Data Analysis — Continuation from Chapter 9
 

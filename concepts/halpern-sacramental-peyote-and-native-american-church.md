@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Sacramental Peyote and the Native American Church
+## Sacramental Peyote and the Native American Church
 
 The Native American Church (NAC) represents the longest-standing legal protection for sacramental
 psychedelic use in the [[lophophora-williamsii]]) is a small, spineless cactus containing over sixty alkaloids, of

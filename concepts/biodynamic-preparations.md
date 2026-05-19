@@ -7,7 +7,7 @@ tags: [biodynamic, compost, microbes, soil, fertilizer, methods, preparation, fa
 sources: []
 ---
 
-# Biodynamic Preparations
+## Biodynamic Preparations
 
 > Note: This page is compiled from general knowledge of [[biodynamic-agriculture-and-steiner]], not sourced from a specific file in the wiki's raw/ directory.
 

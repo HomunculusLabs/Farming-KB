@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# GANESHA
+## GANESHA
 [[scythian-cannabis-steam-bath-ritual]] for
 
 ## See Also

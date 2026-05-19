@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Temperature and Soil Conditions
+## Desert Temperature and Soil Conditions
 
 Desert environments present some of the most extreme temperature fluctuations and challenging soil
 conditions on Earth. Understanding these dynamics is essential for any [[desert-temperature-regimes-and-soil-chemistry]]

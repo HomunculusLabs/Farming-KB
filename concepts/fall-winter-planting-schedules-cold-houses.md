@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Fall and Winter Planting Schedules for Cold Houses
+## Fall and Winter Planting Schedules for Cold Houses
 
 ## Overview
 

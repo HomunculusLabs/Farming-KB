@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: entity
 ---
 
-# Rototiller (Garden Scale)
+## Rototiller (Garden Scale)
 
 ## Description
 

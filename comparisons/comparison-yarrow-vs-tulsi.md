@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Yarrow vs Tulsi
+## Yarrow vs Tulsi
 
 ## Overview
 

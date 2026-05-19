@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 type: query
 ---
-# What Are the Best Mushrooms for Medicinal Use?
+## What Are the Best Mushrooms for Medicinal Use?
 [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for their
 therapeutic effects. Below is an overview of the most well-studied medicinal
 mushrooms and their evidence-based health benefits.

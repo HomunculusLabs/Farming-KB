@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Pattern Knowledge
+## Tribal Pattern Knowledge
 
 Tribal pattern knowledge refers to the sophisticated systems by which indigenous
 cultures encode, store, and transmit practical, ecological, and spiritual information

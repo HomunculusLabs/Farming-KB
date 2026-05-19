@@ -1,4 +1,8 @@
-# Fukuoka on Factory Livestock and Natural Grazing Philosophy
+---
+title: "Fukuoka on Factory Livestock and Natural Grazing Philosophy"
+tags:
+  - concept
+---
 
 ## Source
 *[[fukuoka-do-nothing-farming-philosophy-and-practice]] to [[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]] in forests

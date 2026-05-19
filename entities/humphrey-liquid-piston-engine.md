@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Humphrey Liquid Piston Engine
+## Humphrey Liquid Piston Engine
 
 ## Description
 

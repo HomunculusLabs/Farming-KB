@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Drip Irrigation vs Rainwater Harvesting
+## Drip Irrigation vs Rainwater Harvesting
 
 ## Overview
 Drip irrigation and rainwater harvesting address the same fundamental challenge of

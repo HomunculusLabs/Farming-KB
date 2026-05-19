@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Appressorium and Infection Structures
+## Fungal Appressorium and Infection Structures
 
 Fungal infection structures are specialized hyphal morphologies that
 enable [[bloomfield-turgor-pressure-and-hyphal-invasion]] to force

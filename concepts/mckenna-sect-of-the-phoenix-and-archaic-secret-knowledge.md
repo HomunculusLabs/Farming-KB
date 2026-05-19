@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# The Sect of the Phoenix and Archaic Secret Knowledge
+## The Sect of the Phoenix and Archaic Secret Knowledge
 
 In "[[leary-psychedelic-experience-bardo-mapping]] in human culture.
 

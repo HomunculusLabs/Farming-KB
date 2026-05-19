@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Sorcery Combat and Cosmic Warfare in Amazonian Shamanism
+## Sorcery Combat and Cosmic Warfare in Amazonian Shamanism
 
 ## Overview
 

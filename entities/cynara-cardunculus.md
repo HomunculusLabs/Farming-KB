@@ -16,7 +16,7 @@ sources:
   - FAO (2023). "Cynara cardunculus: Cultivation and Uses." FAO Traditional Food Plants Database.
 ---
 
-# Cynara cardunculus
+## Cynara cardunculus
 
 ## Overview
 

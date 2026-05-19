@@ -5,7 +5,7 @@ tags: [psychology, mind-body-medicine, goal-achievement, positive-emotions, self
 source: "uwe-blesching-the-cannabis-health-index"
 ---
 
-# Mental Contrasting and Positivity Ratio in Healing
+## Mental Contrasting and Positivity Ratio in Healing
 
 ## Overview
 

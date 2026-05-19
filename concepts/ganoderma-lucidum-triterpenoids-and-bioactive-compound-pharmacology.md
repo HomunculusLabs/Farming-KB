@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Ganoderma Lucidum Triterpenoids and Bioactive Compound Pharmacology
+## Ganoderma Lucidum Triterpenoids and Bioactive Compound Pharmacology
 
 [[ganoderma-lucidum]] (Reishi/Lingzhi) produces an extraordinary range of bioactive triterpenoids beyond its well-known polysaccharides. Over 130 triterpenoids have been identified, each with distinct pharmacological activities. This concept catalogues the major Ganoderma triterpenoid classes and their [[cbd-therapeutic-effects]].
 

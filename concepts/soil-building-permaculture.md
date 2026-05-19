@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Soil Building in Permaculture
+## Soil Building in Permaculture
 
 Soil is the foundation of fire-control-in-permaculture as a fuel reduction strategy.
 

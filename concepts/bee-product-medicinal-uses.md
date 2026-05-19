@@ -7,7 +7,7 @@ tags: [homesteading, medicine, health, animal-husbandry, nutrition]
 sources: []
 ---
 
-# Bee Product Medicinal Uses
+## Bee Product Medicinal Uses
 
 Honey bees produce several products with documented medicinal properties.
 Beyond honey's well-known antibacterial effects, propolis, pollen, royal

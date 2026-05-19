@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Protection Against Plant Pathogens
+## Mycorrhizal Protection Against Plant Pathogens
 
 ## Overview
 

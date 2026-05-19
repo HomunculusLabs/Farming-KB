@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Pain Due to Advanced Cancer
+## Cannabis and Pain Due to Advanced Cancer
 
 ## Overview
 

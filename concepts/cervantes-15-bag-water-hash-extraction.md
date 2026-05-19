@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, hash, water-extraction, bubble-hash, grading]
 ---
 
-# 15-Bag Water Hash Extraction System
+## 15-Bag Water Hash Extraction System
 
 Expert hash makers in Amsterdam have pushed water extraction
 to its logical extreme by using 15 or more progressively

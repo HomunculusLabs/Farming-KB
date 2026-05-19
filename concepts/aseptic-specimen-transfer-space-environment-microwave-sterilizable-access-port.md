@@ -1,5 +1,10 @@
+---
+title: "Aseptic Specimen Transfer Space Environment Microwave Sterilizable Access Port"
+tags:
+  - concept
+---
 
-# [[sterilization-techniques-mushroom-cultivation]] are unsuitable for in-space
+## [[sterilization-techniques-mushroom-cultivation]] are unsuitable for in-space
 aseptic specimen transfer space environment [[pf-tek-steam-sterilization-pot-method-common-pottery]]): Imposes excessive thermal loads on
   surrounding systems and requires large energy expenditure, making it
   impractical for repeated use aboard spacecraft with limited power budgets.
@@ -143,8 +148,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[eclss-water-system-aseptic-access-space-biology]]
-- [[fungal-herbarium-record-keeping-specimen-transactions]]
-- [[mushroom-inoculation-aseptic-technique]]
-- [[space-biology-closed-system-aseptic-access-contamination-control]]

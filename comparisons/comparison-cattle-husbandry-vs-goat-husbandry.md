@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Cattle Husbandry vs Goat Husbandry
+## Cattle Husbandry vs Goat Husbandry
 
 ## Overview
 

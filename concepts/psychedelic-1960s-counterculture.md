@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
-# Psychedelic 1960s Counterculture and Mushrooms
+## Psychedelic 1960s Counterculture and Mushrooms
 
 The 1960s counterculture represented a fundamental [[ceremonial-shamanic-use-psychoactive-mushrooms]]. What had been an obscure
 anthropological curiosity became, within a decade, one of the defining symbols of a

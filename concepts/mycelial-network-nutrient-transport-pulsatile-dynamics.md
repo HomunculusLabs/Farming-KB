@@ -18,7 +18,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
-# Mycelial Network Nutrient Transport and Pulsatile Dynamics
+## Mycelial Network Nutrient Transport and Pulsatile Dynamics
 Basidiomycetes are the major agents of decomposition and [[fungal-mycelial-networks-nutrient-translocation]] represent some of the most complex [[savory-dung-behavior-and-nutrient-distribution]] has been a central
 challenge in environmental mycology, addressed through the innovative work of
 Bebber, Tlalka, Hynes, Darrah, Ashford, Watkinson, Boddy, and Fricker.

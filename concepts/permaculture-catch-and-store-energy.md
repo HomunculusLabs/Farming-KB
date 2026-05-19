@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, energy, water-storage, soil-humus, carbon-sequestration, holmgren]
 ---
 
-# Catch and Store Energy
+## Catch and Store Energy
 
 ## Permaculture Design Principle #2 — "Make Hay While the Sun Shines"
 

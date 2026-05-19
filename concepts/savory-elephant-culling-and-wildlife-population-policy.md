@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Elephant Culling and Wildlife Population Policy
+## Elephant Culling and Wildlife Population Policy
 
 The case of Mana Pools National Park in Zimbabwe's Zambezi Valley
 illustrates how conventional wildlife management based on population

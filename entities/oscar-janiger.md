@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, psychiatrist, hallucinogenic-tobacco, psychedelic-research]
 ---
 
-# Oscar Janiger
+## Oscar Janiger
 
 ## Description
 

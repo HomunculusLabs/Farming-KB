@@ -16,7 +16,7 @@ sources:
   - Royal Botanic Gardens Kew: Gentiana waltonii. https://powo.science.kew.org/
 ---
 
-# Gentiana waltonii
+## Gentiana waltonii
 
 ## Overview
 

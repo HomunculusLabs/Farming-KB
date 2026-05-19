@@ -7,7 +7,7 @@ tags: [mycology, medicine, mushrooms, antimicrobial, antiviral]
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
-# Medicinal Mushroom Antimicrobial and Antiviral Properties
+## Medicinal Mushroom Antimicrobial and Antiviral Properties
 
 Medicinal mushroom polysaccharides demonstrate significant antimicrobial and
 antiviral activities, functioning both directly against pathogens and indirectly

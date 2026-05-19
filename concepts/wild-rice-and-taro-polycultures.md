@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wild Rice and Taro Polycultures
+## Wild Rice and Taro Polycultures
 
 ## Overview
 

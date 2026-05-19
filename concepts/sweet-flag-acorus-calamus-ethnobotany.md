@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Sweet Flag (Acorus calamus) Ethnobotany
+## Sweet Flag (Acorus calamus) Ethnobotany
 
 Sweet flag, also known as sweet calamus or Acorus calamus, is a perennial
 marsh plant that has occupied a unique position in the ethnobotanical

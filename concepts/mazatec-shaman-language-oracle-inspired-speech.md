@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Shaman as Oracle of Inspired Speech
+## Mazatec Shaman as Oracle of Inspired Speech
 
 The Mazatec shaman's primary function during psilocybin mushroom ceremonies is linguistic: to speak, chant, and sing on behalf of those present. The mushrooms are understood not as drugs but as medicines that liberate the fountains of language, transforming the shaman into an oracle whose words carry healing power. This conception of the shaman as a speaker—rather than as a listener or interpreter—distinguishes Mazatec practice from Western psychotherapy and positions language itself as the instrument of cure.
 

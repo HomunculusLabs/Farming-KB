@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, shiitake, lentinula, cultivation, logs]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# [[staycare-lentinula-edodes-in-bioremediation]]
+## [[staycare-lentinula-edodes-in-bioremediation]]
 - Difficulty: Indoor 3 / Outdoor 1
 - One of the most recognized and marketable mushrooms globally
 - Fruiting temperatures: 50-75°F (10-24°C) depending on strain

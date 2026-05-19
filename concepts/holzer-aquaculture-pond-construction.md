@@ -9,7 +9,7 @@ type: concept
 tags: [culture, holzer]
 ---
 
-# Holzer Aquaculture and Pond Construction
+## Holzer Aquaculture and Pond Construction
 
 Water features -- ponds, water gardens, wetlands, and connected waterways -- form an integral part of [[holzer-terraced-landscape-design]]
 - [[sepp-holzer-method]]

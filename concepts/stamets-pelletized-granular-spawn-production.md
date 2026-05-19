@@ -23,7 +23,7 @@ summary: >
   and scale considerations for pelletized spawn production.
 ---
 
-# Pelletized (Granular) Spawn Production
+## Pelletized (Granular) Spawn Production
 
 ## Overview
 

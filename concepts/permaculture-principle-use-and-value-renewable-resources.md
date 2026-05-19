@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 5 — Use and Value Renewable Resources and Services
+## Permaculture Principle 5 — Use and Value Renewable Resources and Services
 
 The fifth of David Holmgren's twelve permaculture design principles. This principle distinguishes between renewable and non-renewable resources, urging us to make the best use of nature's abundant renewable flows while using non-renewables wisely to establish systems that can eventually run on renewables alone.
 

@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Rebuilding Diversity in Permaculture
+## Rebuilding Diversity in Permaculture
 
 Rebuilding diversity is a central strategy in permaculture for dealing with an uncertain future. Rather than relying on the modern tendency to cull traditional diversity in favor of centralized, productive systems, permaculture seeks to restore the breadth of biological, economic, and social variation that characterizes healthy ecosystems and resilient human communities.
 

@@ -8,7 +8,7 @@ sources: ["papers/a-golden-guide-to-hallucinogenic-plants.md"]
 type: concept
 ---
 
-# Iboga and the Bwiti Cult Initiation
+## Iboga and the Bwiti Cult Initiation
 
 Iboga ([[iboga-root-bark-preparation]] has served for
 centuries as the central sacrament of the Bwiti cult, one of the most

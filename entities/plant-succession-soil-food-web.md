@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Plant Succession (Soil Food Web)
+## Plant Succession (Soil Food Web)
 
 ## Description
 

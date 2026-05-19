@@ -9,7 +9,7 @@ type: concept
 tags: [cultivation, gardening]
 ---
 
-# Solomon Garden Hoe and Cultivation Techniques
+## Solomon Garden Hoe and Cultivation Techniques
 
 In "Gardening When It Counts," [[home-vegetable-garden-planning]]. Of all hoes in his collection, only one
 gets regular use -- the swanneck hoe, properly fitted and kept sharp.

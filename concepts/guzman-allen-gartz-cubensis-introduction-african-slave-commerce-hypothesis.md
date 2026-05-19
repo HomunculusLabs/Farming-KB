@@ -1,4 +1,8 @@
-# Psilocybe cubensis Introduction to the Americas: The African Slave Commerce Hypothesis
+---
+title: "Psilocybe cubensis Introduction to the Americas: The African Slave Commerce Hypothesis"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Identify and Control Aphids on Cannabis?
+## How Do I Identify and Control Aphids on Cannabis?
 
 ## Short Answer
 Aphids are small, soft-bodied insects that cluster on cannabis stems and

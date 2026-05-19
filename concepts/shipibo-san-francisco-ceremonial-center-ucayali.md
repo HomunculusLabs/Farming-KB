@@ -7,7 +7,7 @@ tags: [ayahuasca, peru, shipibo, ucayali, tourism, indigenous-culture]
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Shipibo San Francisco Ceremonial Center Ucayali
+## Shipibo San Francisco Ceremonial Center Ucayali
 
 San Francisco is a Shipibo community near Yarina in the Ucayali region of Peru that has branded itself as a major ceremonial center for [[ayahuasca-tourism-shamanic-tourism-economics]] in the Peruvian Amazon, with ayahuasca practice deeply embedded in daily community life.
 

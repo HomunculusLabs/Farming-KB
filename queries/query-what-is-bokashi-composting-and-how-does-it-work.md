@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Bokashi Composting and How Does It Work?
+## What Is Bokashi Composting and How Does It Work?
 
 ## Short Answer
 Bokashi composting is an [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM) to pickle food scraps, including meat and

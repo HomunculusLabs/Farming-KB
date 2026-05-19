@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Phytoextraction Mechanisms and Applications
+## Phytoextraction Mechanisms and Applications
 
 Phytoextraction is a phytoremediation technology that uses plants to absorb contaminants from soil, concentrate them in aboveground tissues, and remove them from the site through harvest of the contaminated biomass.
 

@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 4-HO-DET (Ethocin) — TIHKAL #16
+## 4-HO-DET (Ethocin) — TIHKAL #16
 
 ## Compound Identity
 

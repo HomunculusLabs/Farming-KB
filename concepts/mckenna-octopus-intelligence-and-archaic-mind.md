@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany]
 sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
-# Mckenna Octopus Intelligence and the Archaic Mind
+## Mckenna Octopus Intelligence and the Archaic Mind
 
 In Food of the Gods, McKenna uses the octopus as a provocative example of an alien intelligence that evolved independently of the vertebrate lineage, arguing that the existence of such radically different forms of cognition on our own planet suggests that intelligence and consciousness are properties of matter itself, not unique to the human species.
 

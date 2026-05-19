@@ -18,7 +18,7 @@ tags: []
 updated: 2026-05-06
 ---
 
-# Postwar Mite Epidemic and the Pesticide Spiral
+## Postwar Mite Epidemic and the Pesticide Spiral
 
 ## The Pre-Pesticide Era of Mite Control
 

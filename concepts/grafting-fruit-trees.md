@@ -7,7 +7,7 @@ tags: [fruit-tree, orchard, agriculture, pruning, cultivation, techniques, plant
 sources: []
 ---
 
-# Grafting Fruit Trees
+## Grafting Fruit Trees
 
 Grafting is the art of joining two plants together so they grow as one. In fruit tree production, the scion (top portion) provides the desired fruit variety while the rootstock (bottom portion) provides disease resistance, size control, and soil adaptation. Grafting is essential for reproducing named fruit varieties that do not come true from seed.
 

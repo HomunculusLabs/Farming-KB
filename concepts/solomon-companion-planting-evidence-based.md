@@ -9,7 +9,7 @@ type: concept
 tags: [plants]
 ---
 
-# Solomon Companion Planting Evidence-Based Assessment
+## Solomon Companion Planting Evidence-Based Assessment
 
 In "Gardening When It Counts," [[comparison-living-mulch-vs-cover-crops]] between vegetable crops.
 

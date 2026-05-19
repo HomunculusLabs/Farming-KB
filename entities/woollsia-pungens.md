@@ -5,7 +5,7 @@ type: entity
 tags: [plant, ericaceae, ericoid-mycorrhizal, epacridaceae]
 ---
 
-# Woollsia pungens
+## Woollsia pungens
 
 ## Description
 

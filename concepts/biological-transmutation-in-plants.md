@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Biological Transmutation in Plants
+## Biological Transmutation in Plants
 
 The medieval alchemist's dream of transmuting one element into another
 may be vindicated by living plants, which appear capable of performing

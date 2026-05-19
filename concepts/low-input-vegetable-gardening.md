@@ -1,4 +1,8 @@
-# Low-Input Vegetable Gardening
+---
+title: "Low-Input Vegetable Gardening"
+tags:
+  - concept
+---
 
 ## Overview
 Low-input vegetable gardening is an approach championed by [[soil-foodweb-biology]]

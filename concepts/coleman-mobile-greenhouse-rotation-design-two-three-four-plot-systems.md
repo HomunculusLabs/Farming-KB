@@ -5,7 +5,7 @@ source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, mobile-greenhouse, crop-rotation, double-cropping, succession-planting, greenhouse-design, intensive-cropping]
 ---
 
-# Mobile Greenhouse Rotation Design: Two, Three, and Four-Plot Systems
+## Mobile Greenhouse Rotation Design: Two, Three, and Four-Plot Systems
 
 ## Overview
 

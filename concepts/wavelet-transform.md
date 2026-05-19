@@ -7,7 +7,7 @@ type: concept
 tags: [reference]
 ---
 
-# Wavelet Transform
+## Wavelet Transform
 
 ## Overview
 The wavelet transform is a method for representing signals at multiple scales.

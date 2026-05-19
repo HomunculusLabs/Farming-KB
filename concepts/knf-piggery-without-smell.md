@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# KNF Piggery Without Smell
+## KNF Piggery Without Smell
 
 updated: 2026-04-18
 

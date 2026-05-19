@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Pinus edulis (Colorado Pinyon)
+## Pinus edulis (Colorado Pinyon)
 
 ## Description
 

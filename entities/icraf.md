@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# ICRAF (International Centre for Agroforestry)
+## ICRAF (International Centre for Agroforestry)
 
 ## Description
 

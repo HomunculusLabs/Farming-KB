@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 ---
 
-# Syringe Sterilization and Storage for PF TEK
+## Syringe Sterilization and Storage for PF TEK
 
 ## Overview
 

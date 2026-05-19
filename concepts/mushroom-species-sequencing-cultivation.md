@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, substrate, species-sequencing, sustainabi
 created: 2026-05-09
 ---
 
-# Mushroom Species Sequencing in Cultivation
+## Mushroom Species Sequencing in Cultivation
 
 ## The Concept
 

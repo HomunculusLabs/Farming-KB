@@ -7,7 +7,7 @@ tags: cover-crops, green-manure, soil-fertility, clover, composting
 type: concept
 ---
 
-# Solomon [[cover-crops]] are interchangeable terms for growing something whose sole purpose is enriching the soil. Solomon considers cover cropping one of the most important skills for the serious gardener, but warns that practicing it can be tricky and hazardous.
+## Solomon [[cover-crops]] are interchangeable terms for growing something whose sole purpose is enriching the soil. Solomon considers cover cropping one of the most important skills for the serious gardener, but warns that practicing it can be tricky and hazardous.
 
 ## The Fundamental Principle
 

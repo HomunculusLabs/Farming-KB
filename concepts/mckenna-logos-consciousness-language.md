@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# McKenna Logos — Consciousness, Language, and the Archaic Revival
+## McKenna Logos — Consciousness, Language, and the Archaic Revival
 
 ## Overview
 

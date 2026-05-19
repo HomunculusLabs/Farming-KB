@@ -11,7 +11,7 @@ tags:
 extracted_date: 2026-05-11
 ---
 
-# Cannabis Sativa Landrace Varieties and Geographic Origins
+## Cannabis Sativa Landrace Varieties and Geographic Origins
 
 ## What Defines a Landrace Sativa
 

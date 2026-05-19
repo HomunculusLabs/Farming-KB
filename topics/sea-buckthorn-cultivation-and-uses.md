@@ -20,7 +20,7 @@ sources:
   - "Journal of the Science of Food and Agriculture — sea buckthorn nutritional reviews, 2017–2024"
 ---
 
-# Sea Buckthorn Cultivation and Uses
+## Sea Buckthorn Cultivation and Uses
 
 ## Overview
 

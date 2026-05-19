@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [papers/savory-holistic-resource-management.md]
 ---
-# Permaculture Pasture Management [[permaculture-duck-pond-systems]] and geese, monitoring for damage
+## Permaculture Pasture Management [[permaculture-duck-pond-systems]] and geese, monitoring for damage
 
 5. Once established, move fences to adjacent areas and repeat
 

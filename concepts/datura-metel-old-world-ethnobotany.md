@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
-# Datura metel: Old World Ethnobotany and Cultural History
+## Datura metel: Old World Ethnobotany and Cultural History
 
 Datura metel, known as dhatura and dutra in India, is an important Old World species of Datura whose narcotic properties have been known and valued since prehistory. This purple-flowered member of the deadly nightshade family (Solanaceae) has a long and complex history spanning India, China, the Middle East, and beyond, with connections to some of the most famous religious practices of the ancient world.
 

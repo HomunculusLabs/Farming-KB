@@ -11,7 +11,7 @@ tags:
   - propagation
   - permaculture
 ---
-# Fukuoka's Clay Seed Ball Technique
+## Fukuoka's Clay Seed Ball Technique
 
 The clay seed ball technique (泥団子, *doro dango*) is a seed propagation method developed by [[fukuoka-semi-wild-vegetable-growing-natural-method]] method, seed balls allowed vegetables to be scattered among weeds and clover on hillsides and uncultivated land. The clay protection gave the seeds enough time to germinate and establish before birds or insects could find them.
 

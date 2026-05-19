@@ -2,7 +2,7 @@
 title: "Cannabigerol"
 ---
 
-# Cannabigerol
+## Cannabigerol
 
 ## Overview
 

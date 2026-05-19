@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# What Are the Benefits of Straw Mulch in the Garden and How Do I Use It?
+## What Are the Benefits of Straw Mulch in the Garden and How Do I Use It?
 
 ## Short Answer
 

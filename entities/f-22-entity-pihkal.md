@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# F-22
+## F-22
 
 [[2c-g-4-entity-pihkal]]
 - [[2c-b-pihkal-entry-20]] #80 has a range of practical applications that make it relevant to

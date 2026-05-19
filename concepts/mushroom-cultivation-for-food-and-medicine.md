@@ -7,7 +7,7 @@ tags: [mycology, mushrooms, cultivation]
 sources:
   - papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
-# Mushroom Cultivation for Food and Medicine
+## Mushroom Cultivation for Food and Medicine
 
 Updated: 2026-04-18
 

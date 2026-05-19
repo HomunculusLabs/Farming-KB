@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshama
 type: concept
 ---
 
-# Metzner: Four Paradigms of Hallucinogen Use in Healing
+## Metzner: Four Paradigms of Hallucinogen Use in Healing
 
 ## Overview
 

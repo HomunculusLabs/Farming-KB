@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md (Lines 9201-9400)
 type: concept
 ---
 
-# Agaricus and Agrocybe Cultivation Guide
+## Agaricus and Agrocybe Cultivation Guide
 
 A comprehensive guide covering the cultivation, harvesting, storage, marketing, and mycoremediation applications of two important mushroom genera: **Agaricus** (button, portabella, almond agarics) and **Agrocybe** (black poplar, pioppino).
 

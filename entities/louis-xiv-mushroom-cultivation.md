@@ -5,7 +5,7 @@ type: entity
 tags: [person, history, france, royalty, mycology]
 ---
 
-# Louis XIV and Mushroom Cultivation
+## Louis XIV and Mushroom Cultivation
 
 ## Description
 

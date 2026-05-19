@@ -7,7 +7,7 @@ tags: [cannabis, antibacterial, antiviral, immune-system, beta-caryophyllene, an
 aliases: [cannabis-antibacterial-antiviral, cannabinoids-immune-system, cannabis-antimicrobial]
 ---
 
-# Antibacterial and Antiviral Properties of Cannabinoids and Companion Herbs
+## Antibacterial and Antiviral Properties of Cannabinoids and Companion Herbs
 
 The endocannabinoid system plays a critical role in immune regulation, with CB2 receptors densely expressed on immune cells throughout the body. Through these receptors, cannabinoids can modulate immune function — both upregulating and downregulating immune responses depending on the context. This immunomodulatory capacity has prompted research into the antibacterial, antiviral, and [[syzygium-aromaticum]]*) has shown antiviral activity against both hepatitis B and hepatitis C viruses.
 

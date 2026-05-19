@@ -14,7 +14,7 @@ sources:
   - Missouri Botanical Garden. (2024). Tropicos.org - Lysimachia punctata L.
 ---
 
-# Lysimachia punctata
+## Lysimachia punctata
 
 ## Overview
 

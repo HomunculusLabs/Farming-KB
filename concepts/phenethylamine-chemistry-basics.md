@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychopharmacology, neuroscience, psychedelics, 
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Phenethylamine Chemistry Basics
+## Phenethylamine Chemistry Basics
 
 The phenethylamine structure is the foundation upon which the entire Book II of PIHKAL is built. Understanding its structure-activity relationships (SAR) is essential to understanding the diversity of compounds documented in the work.
 

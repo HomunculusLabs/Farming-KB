@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Gymnopilus Genus Neurotropic Species
+## Gymnopilus Genus Neurotropic Species
 
 **Gymnopilus** (family Cortinariaceae) is a genus of [[distribution-of-neurotropic-fungi]] after Psilocybe. The genus is easily recognized in the field by its rusty orange spore print, growth on wood, and the large, often spectacular fruiting bodies of certain species.
 

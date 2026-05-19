@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Stinkhorn Fungi Biology and Spore Dispersal
+## Stinkhorn Fungi Biology and Spore Dispersal
 
 ## Overview
 

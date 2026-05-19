@@ -1,4 +1,8 @@
-# Permaculture Zones
+---
+title: "Permaculture Zones"
+tags:
+  - concept
+---
 
 ## Overview
 

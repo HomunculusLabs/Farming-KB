@@ -1,4 +1,8 @@
-# Holmgren: Observe and Interact — Permaculture Principle 1
+---
+title: "Holmgren: Observe and Interact — Permaculture Principle 1"
+tags:
+  - concept
+---
 
 > *Beauty is in the eye of the beholder*
 

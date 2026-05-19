@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Degradation of Endocrine Disrupting Compounds
+## Fungal Degradation of Endocrine Disrupting Compounds
 
 Endocrine disrupting compounds (EDCs) are environmental contaminants that
 interfere with the hormonal systems of organisms. Polychlorinated

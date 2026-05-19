@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Saprobic Soil Fungi — Selective Basidiomycete Isolation, Chytrid Baiting, and Nonsporulating Isolate Protocols
+## Saprobic Soil Fungi — Selective Basidiomycete Isolation, Chytrid Baiting, and Nonsporulating Isolate Protocols
 
 ## Overview
 

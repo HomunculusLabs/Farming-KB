@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
-# Growing Legumes Organically
+## Growing Legumes Organically
 
 The pod and [[comparison-crop-rotation-vs-cover-cropping]], grow all legumes in Plot B (the plot that grew peas and beans the previous year, or the second year of rotation).
 

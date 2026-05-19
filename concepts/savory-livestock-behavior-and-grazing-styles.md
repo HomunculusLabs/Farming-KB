@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Livestock Behavior and Grazing Styles
+## Livestock Behavior and Grazing Styles
 
 Understanding how grazing animals behave and select their food is essential to effective
 [[savory-animal-impact-and-herd-effect]] is correspondingly significant.

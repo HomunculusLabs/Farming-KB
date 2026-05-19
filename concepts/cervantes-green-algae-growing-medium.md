@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Green Algae in Cannabis Gardens
+## Green Algae in Cannabis Gardens
 
 ## Overview
 

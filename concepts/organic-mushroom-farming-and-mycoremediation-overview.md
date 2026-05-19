@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Organic Mushroom Farming and Mycoremediation: Overview and Philosophy
+## Organic Mushroom Farming and Mycoremediation: Overview and Philosophy
 
 [[tradd-cotter]]'s *Organic Mushroom Farming and Mycoremediation* (2014, [[chelsea-green-publishing]]) is a comprehensive guide covering indoor and [[outdoor-mushroom-cultivation]] from simple to advanced techniques, with emphasis on organic methods, ecological integration, and [[mycoremediation-applications]].
 

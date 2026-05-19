@@ -27,7 +27,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/books/NBK537047/
 ---
 
-# Thuja occidentalis
+## Thuja occidentalis
 
 ## Overview
 

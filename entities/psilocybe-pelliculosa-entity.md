@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
-# Psilocybe pelliculosa
+## Psilocybe pelliculosa
 
 Psilocybe pelliculosa is a small, psilocybin-containing mushroom found in the coniferous forests of the Pacific Northwest of [[growing-gourmet-north-american-reishi-species]] literature.
 

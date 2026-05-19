@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Plants Control the Soil Food Web
+## Teaming with Microbes — Plants Control the Soil Food Web
 
 In *Teaming with Microbes*, one of the book's most revolutionary claims is that plants are in control of the [[savory-growing-season-and-non-growing-season-management]], populations of [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]], it looks like "jelly or jam"
 - All nutrient production through the food web takes place right where roots can absorb it

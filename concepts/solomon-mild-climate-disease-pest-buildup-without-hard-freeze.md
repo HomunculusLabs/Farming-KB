@@ -1,4 +1,8 @@
-# Mild-Winter Climate Garden Disease and Pest Buildup
+---
+title: "Mild-Winter Climate Garden Disease and Pest Buildup"
+tags:
+  - concept
+---
 
 **Source:** Gardening When It Counts (Solomon, 2005)
 

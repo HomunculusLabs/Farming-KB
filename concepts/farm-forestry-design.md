@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Farm Forestry Design
+## Farm Forestry Design
 
 **Farm forestry design** is a permaculture discipline concerned with the integration of tree-based systems into agricultural landscapes for the simultaneous production of timber, forage, food, and ecological services. As articulated by [[green-manure]]** from leaf fall and prunings
 - **Stickwood** for kindling, craft materials, and garden supports

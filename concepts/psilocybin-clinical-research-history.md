@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Clinical Research History
+## Psilocybin Clinical Research History
 
 ## Overview
 

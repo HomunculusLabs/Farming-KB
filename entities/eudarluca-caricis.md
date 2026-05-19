@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, mycoparasite, rust-parasite, biocontrol, teleomorph]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Eudarluca caricis
+## Eudarluca caricis
 
 **Type:** Species (Ascomycete)
 **Category:** Rust Mycoparasite / Hyperparasite

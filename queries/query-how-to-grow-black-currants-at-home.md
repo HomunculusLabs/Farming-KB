@@ -12,7 +12,7 @@ updated: 2026-05-06
 sources: []
 ---
 
-# How to Grow Black Currants at Home
+## How to Grow Black Currants at Home
 
 Black currants (Ribes nigrum) are among the most nutritious and productive berries you can grow in a home garden. Rich in vitamin C, antioxidants, and flavonoids, they are excellent for fresh eating, jam-making, juice, and wine. They are relatively easy to grow, cold-hardy, and productive for decades once established.
 

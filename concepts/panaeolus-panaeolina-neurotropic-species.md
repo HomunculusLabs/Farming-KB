@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Panaeolus and Panaeolina Neurotropic Species
+## Panaeolus and Panaeolina Neurotropic Species
 
 The genera **Panaeolus** and **Panaeolina** (family Coprinaceae) together contain **17 neurotropic species**, making this group one of the more significant contributors to the world's psychoactive mycoflora. These are predominantly **coprophilous** (dung inhabiting) mushrooms, commonly found on herbivore dung in pastures and grasslands worldwide. The definitive taxonomic treatment is by Gerhardt (1996).
 

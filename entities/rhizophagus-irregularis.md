@@ -26,7 +26,7 @@ sources:
     nitrate reductase promoter in Glomus intraradices." Mycorrhiza, 18(2), 69-75.
 ---
 
-# Rhizophagus irregularis
+## Rhizophagus irregularis
 
 ## Taxonomy
 

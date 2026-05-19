@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Make Living Soil From Scratch?
+## How Do I Make Living Soil From Scratch?
 
 ## Short Answer
 

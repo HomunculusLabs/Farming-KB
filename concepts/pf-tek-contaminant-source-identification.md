@@ -8,7 +8,7 @@ sources:
   - '"raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
 type: concept
 ---
-# [[pf-tek-steam-sterilization-pot-method-common-pottery]] time and repeat
+## [[pf-tek-steam-sterilization-pot-method-common-pottery]] time and repeat
 - Check that the pot lid fits tightly and maintains a gentle boil
 
 If the control jars remain clean and unchanged:

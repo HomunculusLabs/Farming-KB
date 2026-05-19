@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Pioneering and Grassland Rehabilitation
+## Tropical Pioneering and Grassland Rehabilitation
 
 Tropical pioneering is the deliberate, ethically grounded process of rehabilitating degraded tropical landscapes back toward productive, stable, and diverse ecosystems. It relies heavily on leguminous plants — both ground covers and trees — to rebuild soil, fix nitrogen, and outcompete invasive grasses and weeds.
 

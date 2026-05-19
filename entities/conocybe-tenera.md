@@ -14,7 +14,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
-# Conocybe tenera
+## Conocybe tenera
 
 **Conocybe tenera** is a small, common species of mushroom in the family Bolbitiaceae. It is widely distributed across temperate regions and is frequently encountered in grassy habitats, pastures, lawns, and on enriched soil. The species is of particular interest within mycopharmacology because some populations have been found to contain [[muscarine]]|muscarine or even deadly amatoxins.
 

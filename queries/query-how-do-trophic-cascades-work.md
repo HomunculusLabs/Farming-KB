@@ -13,7 +13,7 @@ type: query
 created: 2026-04-28
 ---
 
-# How Do Trophic Cascades Work and Why Do They Matter?
+## How Do Trophic Cascades Work and Why Do They Matter?
 
 ## What Is a Trophic Cascade?
 

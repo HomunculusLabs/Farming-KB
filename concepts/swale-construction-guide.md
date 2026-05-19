@@ -9,7 +9,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Swale Construction Guide
+## Swale Construction Guide
 
 Swales are shallow, level-bottomed ditches excavated on contour — lines of equal elevation across a slope. They capture surface water runoff, slow its movement, and allow it to infiltrate into the soil, forming an underground lens of stored water that moves downslope like a slow underground tide.
 

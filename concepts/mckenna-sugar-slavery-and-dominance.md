@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Sugar, Slavery, and the Rise of Dominator Culture
+## Sugar, Slavery, and the Rise of Dominator Culture
 
 ## The Sugar Revolution
 

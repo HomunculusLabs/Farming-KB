@@ -6,7 +6,7 @@ tags: [grifola-frondosa, maitake, spawn-run, mycelial-growth, mushroom-cultivati
 aliases: [Maitake Spawn Run, G. frondosa Mycelial Colonization, Maitake Mycelial Maturation]
 ---
 
-# Maitake Spawn Run and Mycelial Growth
+## Maitake Spawn Run and Mycelial Growth
 
 The spawn run is the foundational vegetative phase in Grifola frondosa cultivation, during which mycelium colonizes the substrate and prepares for fruiting body formation. This phase encompasses both active growth and a critical maturation period with distinct visual markers.
 

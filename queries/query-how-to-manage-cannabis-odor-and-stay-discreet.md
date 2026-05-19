@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Manage Cannabis Odor and Stay Discreet?
+## How to Manage Cannabis Odor and Stay Discreet?
 
 ## Short Answer
 

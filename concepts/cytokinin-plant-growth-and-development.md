@@ -6,7 +6,7 @@ created: 2026-05-10
 source: general-knowledge
 ---
 
-# Cytokinin: Plant Growth and Development Hormone
+## Cytokinin: Plant Growth and Development Hormone
 
 Cytokinins are a class of plant hormones (phytohormones) that promote cell division (cytokinesis), regulate shoot development, delay [[cervantes-tissue-culture-micropropagation]].
 

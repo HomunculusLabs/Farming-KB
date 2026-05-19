@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Plant Nutrition and Ecosystem Sustainability
+## Mycorrhizal Plant Nutrition and Ecosystem Sustainability
 
 ## Overview
 

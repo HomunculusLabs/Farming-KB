@@ -8,7 +8,7 @@ sources: [papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 type: query
 ---
 
-# How Do I Transition My Cannabis Grow from Synthetic to Organic Nutrients?
+## How Do I Transition My Cannabis Grow from Synthetic to Organic Nutrients?
 
 ## Short Answer
 Transitioning from synthetic to organic nutrients involves gradually phasing

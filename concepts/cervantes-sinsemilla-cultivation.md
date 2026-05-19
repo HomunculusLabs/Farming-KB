@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Sinsemilla Cultivation
+## Sinsemilla Cultivation
 
 Sinsemilla (pronounced sin-semiya) is derived from two Spanish words:
 "sin" = without and "semilla" = seed. Sinsemilla describes flowering

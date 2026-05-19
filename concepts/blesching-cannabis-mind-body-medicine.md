@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis and Mind-Body Medicine
+## Cannabis and Mind-Body Medicine
 
 The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]], each therapeutic topic includes a
 mind-body medicine perspective that examines the emotional and psychological

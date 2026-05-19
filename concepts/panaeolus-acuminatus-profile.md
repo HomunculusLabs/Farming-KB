@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: concept
 ---
-# Panaeolus acuminatus Profile
+## Panaeolus acuminatus Profile
 
 ## Taxonomy and Synonyms
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Soil Porosity
+## Soil Porosity
 
 ## Description
 

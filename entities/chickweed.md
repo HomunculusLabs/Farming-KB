@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Chickweed (Lawn Weed Indicator)
+## Chickweed (Lawn Weed Indicator)
 
 ## Description
 

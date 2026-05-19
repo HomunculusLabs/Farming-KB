@@ -1,4 +1,8 @@
-# Plant Memory and Spatial Awareness
+---
+title: "Plant Memory and Spatial Awareness"
+tags:
+  - concept
+---
 
 ## Overview
 The concepts of memory and spatial awareness in plants challenge fundamental

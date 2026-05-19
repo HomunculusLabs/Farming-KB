@@ -5,7 +5,7 @@ source_author: Gadd, Watkinson, Dyer (eds.)
 tags: [fungi, magnaporthe, rice-blast, genomics, plant-pathology, appressorium, functional-genomics, phytopathology]
 ---
 
-# Rice Blast Fungus Functional Genomics
+## Rice Blast Fungus Functional Genomics
 
 ## Overview
 

@@ -16,7 +16,7 @@ tags:
 chars_estimate: ~6200
 ---
 
-# Cannabis, Motion Sickness, CB1 Receptors, and Anandamide
+## Cannabis, Motion Sickness, CB1 Receptors, and Anandamide
 
 ## Motion Sickness Mechanism
 

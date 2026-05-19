@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Gypsum, Lime, and pH Management in Substrates
+## Gypsum, Lime, and pH Management in Substrates
 
 Proper management of substrate chemistry, particularly pH and
 mineral content, plays a critical role in successful mushroom

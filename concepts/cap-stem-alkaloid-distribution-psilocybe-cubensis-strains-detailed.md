@@ -1,4 +1,8 @@
-# Cap vs Stem Alkaloid Distribution in Psilocybe cubensis Strains
+---
+title: "Cap vs Stem Alkaloid Distribution in Psilocybe cubensis Strains"
+tags:
+  - concept
+---
 
 ## Overview
 

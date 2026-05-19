@@ -22,7 +22,7 @@ sources:
 - raw/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-# Fruit Tree Varieties, Rootstocks, and Chill Hours
+## Fruit Tree Varieties, Rootstocks, and Chill Hours
 
 Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for site selection, planting, pruning, pest management, and seasonal care.
 

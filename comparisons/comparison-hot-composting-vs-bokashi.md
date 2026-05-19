@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Hot Composting vs Bokashi
+## Hot Composting vs Bokashi
 
 ## Overview
 Hot composting and bokashi are two fundamentally different approaches to

@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# The Stoned Ape Hypothesis
+## The Stoned Ape Hypothesis
 
 The "Stoned Ape" hypothesis is Terence McKenna's controversial evolutionary theory proposing that psilocybin-containing mushrooms played a decisive catalytic role in the emergence of human consciousness, language, and culture. First presented in *Food of the Gods* (1992), it argues that the quasi-symbiotic relationship between early hominids and **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] growing in cattle dung on the African grasslands) was the missing factor explaining the rapid acceleration of human cognitive evolution.
 

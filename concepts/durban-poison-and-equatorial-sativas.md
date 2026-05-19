@@ -5,7 +5,7 @@ tags: [cannabis, durban-poison, equatorial, photoperiod, flowering-time, breedin
 created: 2026-05-10
 ---
 
-# Durban Poison and Equatorial Sativas
+## Durban Poison and Equatorial Sativas
 
 The photoperiod at which cannabis plants are indigenous plays a decisive role in
 determining their flowering behavior, growth patterns, and suitability for cultivation

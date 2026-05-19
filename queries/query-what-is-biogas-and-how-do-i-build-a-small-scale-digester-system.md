@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# What is Biogas and How Do I Build a Small-Scale Digester System?
+## What is Biogas and How Do I Build a Small-Scale Digester System?
 
 ## Short Answer
 

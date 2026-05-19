@@ -7,7 +7,7 @@ tags: [cannabis, lighting, vegetative, indoor]
 sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
 
-# Plant Phototropism and Darwin's Experiments
+## Plant Phototropism and Darwin's Experiments
 
 ## Overview
 

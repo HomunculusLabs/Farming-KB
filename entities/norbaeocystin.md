@@ -5,10 +5,10 @@ type: chemical
 tags: tryptamine, alkaloid, biosynthetic-intermediate, mushroom]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md]
+sources: ["raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"]
 ---
 
-# Norbaeocystin
+## Norbaeocystin
 
 Norbaeocystin (4-PO-T, O-phosphoryl-4-hydroxytryptamine) is a
 naturally occurring **[[psilocybin-containing-mushrooms-in-us]]. It is the **demethylated precursor** to both

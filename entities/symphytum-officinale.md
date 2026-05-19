@@ -20,7 +20,7 @@ sources:
   - "Marschner, H. (2012). Mineral Nutrition of Higher Plants. 3rd Edition. Academic Press."
   - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. chelsea-green-publishing."---
 
-# Symphytum officinale
+## Symphytum officinale
 
 **Symphytum officinale**, commonly known as **comfrey**, is a perennial herbaceous plant in the family Boraginaceae. It is one of the most important plants in [[dighton-fungal-biomass-production-aquatic-ecosystems]] capacity. Its dual role as a dynamic nutrient accumulator and medicinal plant makes it indispensable in sustainable growing systems.
 

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Tricholoma, Pleurotus, and White-Spored Edible Genera
+## Tricholoma, Pleurotus, and White-Spored Edible Genera
 
 ## Overview
 

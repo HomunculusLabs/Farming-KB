@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Soil Crust Formation and Tilth
+## Soil Crust Formation and Tilth
 
 Soil crust formation is one of the most common and underestimated threats to seed germination and plant growth. Understanding how crusts form, why they are harmful, and how to prevent them through proper soil management is essential knowledge for every gardener. The solution to crust formation is intimately connected to the concept of soil tilth — the physical structure of soil that determines how well plants grow.
 

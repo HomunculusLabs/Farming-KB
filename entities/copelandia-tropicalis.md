@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-&-gartz.md"
 ---
-# Copelandia tropicalis [[spore]] print | Dark violet black to black |
+## Copelandia tropicalis [[spore]] print | Dark violet black to black |
 | Spores | Lemon-shaped in side view, ellipsoid in face view |
 | Spore size | 10-12 × 7-9 µm |
 | Spore ornamentation | Internally granulated (key diagnostic feature vs. C. cyanescens) |

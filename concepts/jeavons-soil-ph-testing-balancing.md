@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Soil pH Testing and Balancing
+## Soil pH Testing and Balancing
 
 Soil pH—the relative acidity or alkalinity of the soil water
 (affecting the soil solution)—is a critical factor in the

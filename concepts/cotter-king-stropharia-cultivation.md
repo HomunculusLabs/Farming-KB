@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# King Stropharia Cultivation
+## King Stropharia Cultivation
 
 King stropharia (Stropharia rugoso-annulata), also known as the wine cap or
 garden giant, is one of the top three [[holzer-mushroom-cultivation-outdoor-beds]].

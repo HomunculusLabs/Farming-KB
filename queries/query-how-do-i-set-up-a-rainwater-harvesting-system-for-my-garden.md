@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# How Do I Set Up a Rainwater Harvesting System for My Garden?
+## How Do I Set Up a Rainwater Harvesting System for My Garden?
 ## Short Answer
 A basic rainwater harvesting system collects rain from your roof via gutters and downspouts, directs it through a screen filter into a storage tank or barrel, and distributes it to your garden through gravity-fed hoses or [[rainwater-harvesting-systems]] guide covers the full spectrum of systems from simple rain barrels to complex underground cisterns with pump-based distribution.
 For most home gardeners, a system in the 200 to 1000 gallon range provides sufficient water to supplement rainfall during dry periods.

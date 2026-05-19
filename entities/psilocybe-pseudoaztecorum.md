@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, mexico, psilocybe, hallucinogenic-fungi, section-aztecorum]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: ["raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md"]
 ---
 
-# Psilocybe pseudoaztecorum
+## Psilocybe pseudoaztecorum
 
 **Psilocybe pseudoaztecorum** is a bluing [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] but consistently smaller in all macroscopic and microscopic features. The epithet *pseudoaztecorum* (false Aztec) reflects this close similarity. Molecular phylogenetic studies have confirmed its placement in [[psilocybe-weilii]]-complex species. Some authorities have suggested it may warrant placement in the genus Deconica based on weak bluing reactions, but the presence of [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] supports its retention in Psilocybe sensu stricto.
 

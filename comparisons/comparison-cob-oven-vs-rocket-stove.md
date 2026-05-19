@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Cob Oven vs Rocket Stove
+## Cob Oven vs Rocket Stove
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: [bill-mollison-permaculture-design-course.md]
 type: concept
 ---
 
-# Food Forest Establishment
+## Food Forest Establishment
 
 [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] while producing food, fuel, fiber, and
 other useful products. In [[permaculture-food-forests-design-course]]

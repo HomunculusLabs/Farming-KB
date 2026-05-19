@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Create a Biodiverse Pollinator Garden
+## How to Create a Biodiverse Pollinator Garden
 
 ## Short Answer
 

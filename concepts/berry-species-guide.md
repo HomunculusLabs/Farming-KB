@@ -23,7 +23,7 @@ sources:
 note: Composed from model knowledge — web tools unavailable. Mark for user review.
 ---
 
-# Berry Species Guide
+## Berry Species Guide
 
 Detailed profiles for each berry type. For overview, planning, IPM, calendar, and preservation, see [[berry-growing]].
 

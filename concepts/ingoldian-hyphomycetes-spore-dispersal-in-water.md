@@ -7,7 +7,7 @@ tags: [water, conservation]
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
-# Ingoldian Hyphomycetes
+## Ingoldian Hyphomycetes
 
 Ingoldian hyphomycetes are a diverse group of [[decomposition]] of submerged leaves in freshwater streams and rivers worldwide.
 

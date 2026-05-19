@@ -5,7 +5,7 @@ type: entity
 tags: [place, desert, water-harvesting, permaculture, arid-land, israel]
 ---
 
-# Negev Desert
+## Negev Desert
 
 ## Description
 

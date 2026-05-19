@@ -16,7 +16,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Meadow Vole Pest Management in Winter Greenhouses
+## Meadow Vole Pest Management in Winter Greenhouses
 
 Meadow voles (Microtus pennsylvanicus) are the most serious [[mollison-designers-macadamia-nut-in-tropical-polyculture]] butter from the health food store outperformed standard peanut butter, possibly because its unfamiliar scent did not trigger the same caution reflex
 - Adding [[vegetable-insect-and-disease-control]] prevention. The trap box system is essentially a mechanical exclusion method rather than a biological correction. Nevertheless, it aligns with the overall organic philosophy by avoiding poisons and chemicals while working within the constraints of the natural behavior of the pest species.

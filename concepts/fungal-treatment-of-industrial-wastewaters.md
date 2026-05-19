@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Treatment of Industrial Wastewaters Updated: 2026-04-18 Fungal treatment of wastewaters dates back to the 1960s. Yeasts and fungi are used extensively to reduce the strength of a wide variety of food-processing wastewaters, with the added benefit of producing food or fodder yeast biomass as a valuable byproduct. The most commonly used yeast is Candida utilis, valued for its ability to utilize diverse carbon and nitrogen sources, rapid growth, high yields, and tolerance of low pH. The application of fungi in wastewater treatment represents an important intersection of [[mycoremediation]] for valorizing waste streams.
+## Fungal Treatment of Industrial Wastewaters Updated: 2026-04-18 Fungal treatment of wastewaters dates back to the 1960s. Yeasts and fungi are used extensively to reduce the strength of a wide variety of food-processing wastewaters, with the added benefit of producing food or fodder yeast biomass as a valuable byproduct. The most commonly used yeast is Candida utilis, valued for its ability to utilize diverse carbon and nitrogen sources, rapid growth, high yields, and tolerance of low pH. The application of fungi in wastewater treatment represents an important intersection of [[mycoremediation]] for valorizing waste streams.
 
 ## Dairy Industry Wastewater (Whey)
 

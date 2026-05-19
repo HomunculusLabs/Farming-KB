@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Keratinophilic Fungi
+## Keratinophilic Fungi
 Keratinophilic fungi are a specialized group of fungi capable of degrading
 keratin, the structural protein found in hair, feathers, nails, horns, hooves,
 and skin. They play important [[soil-protozoa-nutrient-cycling-and-mineralization]] include

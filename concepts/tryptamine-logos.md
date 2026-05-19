@@ -6,7 +6,7 @@ tags: [Logos, tryptamine, language, translinguistic, McKenna, hyperspace, consci
 created: 2026-05-08
 ---
 
-# Tryptamine Logos
+## Tryptamine Logos
 
 ## Overview
 

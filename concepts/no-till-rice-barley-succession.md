@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# No-Till Rice-Barley Succession
+## No-Till Rice-Barley Succession
 
 **No-till rice-barley succession** is the core [[natural-farming]] system. It involves growing rice and winter grain (barley or wheat) in continuous alternation on the same field without plowing, using clover as a living ground cover and [[jeavons-grain-growing-mini-farms]] and the rice seed sown, there is now nothing left to do until the harvesting of the winter grain.
 

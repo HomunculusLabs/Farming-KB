@@ -8,7 +8,7 @@ sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
 
-# Inocybe aeruginascens
+## Inocybe aeruginascens
 
 Inocybe aeruginascens is a psychoactive mushroom species belonging to the family
 Cortinariaceae, first documented as containing psilocybin by Jochen Gartz and

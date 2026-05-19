@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca]
 ---
 
-# Amaringo Ayahuasca Visions - Shipibo Iconography
+## Amaringo Ayahuasca Visions - Shipibo Iconography
 
 [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
 

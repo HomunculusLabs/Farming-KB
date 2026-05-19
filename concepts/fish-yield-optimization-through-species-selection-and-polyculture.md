@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fish Yield Optimization Through Species Selection and Polyculture
+## Fish Yield Optimization Through Species Selection and Polyculture
 
 ## Overview
 

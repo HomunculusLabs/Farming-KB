@@ -7,7 +7,7 @@ tags: [medicine, herbs, herbalism, natural-remedies, health, plants, gardening, 
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Herbal Plant Remedies
+## Herbal Plant Remedies
 
 Simple traditional herbal remedies that can be made by people with small gardens without great difficulty, as described by [[sepp-holzer]]. These were once found in almost every "home pharmacy." As the potency of medicinal plants can vary from place to place, recipes should be adapted — with experience, the correct strength can easily be determined.
 

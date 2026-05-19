@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Sprouting Seeds and Early Season Nutrition
+## Sprouting Seeds and Early Season Nutrition
 
 [[solomon-seed-sprouting-conditions-laboratory-germination-technique]] and early season growing from
 two angles: the practical techniques for starting seeds successfully

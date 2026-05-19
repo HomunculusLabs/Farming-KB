@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycoremediation Experiments for Education
+## Mycoremediation Experiments for Education
 
 Mycoremediation — the use of fungi to degrade or sequester environmental contaminants — offers rich, hands-on learning opportunities across age groups and disciplines. The experiments below are adapted from Tradd Cotter's *Organic Mushroom Farming and Mycoremediation* and are designed to be scalable from middle-school science fairs through college-level research.
 

@@ -7,7 +7,7 @@ tags: [chemistry]
 sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
-# Phenethylamine Class Pharmacology — Overview
+## Phenethylamine Class Pharmacology — Overview
 
 The phenethylamine class constitutes one of the largest and most pharmacologically diverse families of psychoactive compounds. The foundational structure is a phenyl ring connected to an ethylamine chain (C6H5-CH2-CH2-NH2), with substitutions at virtually every position producing compounds with dramatically different pharmacological profiles.
 

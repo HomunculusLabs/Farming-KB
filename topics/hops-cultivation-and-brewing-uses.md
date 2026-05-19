@@ -22,7 +22,7 @@ sources:
   - "Permaculture: A Designers' Manual, Bill Mollison (1988)"
 ---
 
-# Hops Cultivation and Brewing Uses
+## Hops Cultivation and Brewing Uses
 
 ## Overview
 

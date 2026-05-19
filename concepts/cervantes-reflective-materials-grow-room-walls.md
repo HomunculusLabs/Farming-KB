@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Reflective Materials for Grow Room Walls
+## Reflective Materials for Grow Room Walls
 
 Covering grow room surfaces with reflective materials is one of the
 most cost-effective [[cervantes-grow-room-design-advanced]] where

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
-# Photosynthesis and Chloroplast Function
+## Photosynthesis and Chloroplast Function
 
 Chloroplasts are the sites where photosynthesis takes place -- the process that captures light energy and converts it into chemical energy stored in sugar molecules. They are the most familiar of the plastids and are shaped like tiny lenses (2 to 8 microns long), with an average plant cell containing 10 to 100 of them.
 

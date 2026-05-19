@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Icaro
+## Icaro
 
 ## Description
 Icaro (also spelled *ikaro*) is the term for sacred songs or chants used in Amazonian vegetalismo to invoke spirits, heal illness, protect practitioners, and direct the course of [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]], combining sonic and tobacco-based modalities.

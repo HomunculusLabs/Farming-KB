@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Bacterial Spore Microwave Irradiation Resistance
+## Bacterial Spore Microwave Irradiation Resistance
 
 Bacterial endospores demonstrate remarkable and distinctive resistance to microwave irradiation under dry conditions, a phenomenon that sets them fundamentally apart from vegetative microbial cells and represents the primary technical challenge addressed by the NASA [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] protocols capable of achieving complete microbial destruction including the most resistant organism forms.
 

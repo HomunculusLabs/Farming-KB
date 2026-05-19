@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Stephen Hales and the Foundation of Plant Physiology
+## Stephen Hales and the Foundation of Plant Physiology
 
 Stephen Hales (1677–1761) is widely considered one of the pioneers of
 plant physiology for his groundbreaking studies of water transport,

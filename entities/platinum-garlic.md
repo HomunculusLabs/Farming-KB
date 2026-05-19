@@ -19,7 +19,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Platinum Garlic
+## Platinum Garlic
 
 **Platinum Garlic** is a modern indica-dominant hybrid cannabis strain (approximately **70% indica / 30% sativa**) renowned for its extraordinarily pungent garlic and onion aroma, heavy resin production, and potent, long-lasting effects. Developed by crossing **GMO** (also known as Garlic Cookies) with **Platinum Wreck** (a Platinum × Trainwreck cross), this strain exemplifies the contemporary trend toward bold, savory, and chemically complex [[gmo-cookies]])**: A cross of **Girl Scout Cookies** ([[chemdawg-lineage-and-legacy]]
 - **Tertiary**: Hints of earthy mushroom, damp soil, and a faint sweetness that emerges as the bud is broken apart

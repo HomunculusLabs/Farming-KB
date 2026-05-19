@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychopharmacology, psychedelics, neuroscience, 
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Phenethylamine vs. Tryptamine Comparison
+## Phenethylamine vs. Tryptamine Comparison
 
 ## Overview
 

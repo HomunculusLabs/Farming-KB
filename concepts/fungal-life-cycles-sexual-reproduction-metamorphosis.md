@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Life Cycles and Sexual Reproduction
+## Fungal Life Cycles and Sexual Reproduction
 
 Fungi display an astonishing diversity of life cycles that challenge
 conventional notions of biological development. From microscopic spores to

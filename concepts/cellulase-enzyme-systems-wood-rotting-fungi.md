@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
-# Cellulase Enzyme Systems in Wood Rotting Fungi Cellulases are among the most important enzyme systems deployed by wood-rotting fungi for breaking down plant cell wall polymers. The biochemistry of cellulose depolymerization has been extensively studied, primarily through research on Trichoderma species, which are the most prolific sources of cellulases known. Understanding these systems is essential for applications in [[mycoremediation-techniques]] through their ability to [[staycare-manganese-peroxidase-in-fungal-bioremediation]]. The combination of cellulolytic and ligninolytic
+## Cellulase Enzyme Systems in Wood Rotting Fungi Cellulases are among the most important enzyme systems deployed by wood-rotting fungi for breaking down plant cell wall polymers. The biochemistry of cellulose depolymerization has been extensively studied, primarily through research on Trichoderma species, which are the most prolific sources of cellulases known. Understanding these systems is essential for applications in [[mycoremediation-techniques]] through their ability to [[staycare-manganese-peroxidase-in-fungal-bioremediation]]. The combination of cellulolytic and ligninolytic
 enzyme systems makes white-rot fungi particularly effective for
 degrading complex contaminated substrates.
 

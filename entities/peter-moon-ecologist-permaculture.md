@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Peter Moon (Ecologist)
+## Peter Moon (Ecologist)
 
 ## Description
 

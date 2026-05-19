@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, pain-management]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis for Chronic Pain
+## Cannabis for Chronic Pain
 
 Chronic pain is the most common reason patients use medical cannabis, and it has the strongest evidence base of any therapeutic application. Multiple systematic reviews and meta-analyses support cannabis as effective for neuropathic pain and chronic non-cancer pain.
 

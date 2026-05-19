@@ -21,7 +21,7 @@ sources:
     Boreal Forest." University of Helsinki Press.
 ---
 
-# Leccinum scabrum
+## Leccinum scabrum
 
 Leccinum scabrum, the brown birch bolete, is an edible ectomycorrhizal
 mushroom in the family Boletaceae, found exclusively in association with

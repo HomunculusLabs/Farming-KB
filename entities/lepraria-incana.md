@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, lichen, bioindicator, sulfur-dioxide, air-pollution]
 ---
 
-# Lepraria incana
+## Lepraria incana
 
 ## Description
 

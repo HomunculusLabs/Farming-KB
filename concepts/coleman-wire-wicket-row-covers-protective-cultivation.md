@@ -4,7 +4,7 @@ source: "cold-house-winter-harvest-system Handbook"
 tags: [winter-harvest, coleman, row-cover, wire-wicket, season-extension, cold-protection, frost-protection, frost-blanket, remay, spunbond]
 ---
 
-# Coleman Wire Wicket Row Covers and Protective Cultivation Systems
+## Coleman Wire Wicket Row Covers and Protective Cultivation Systems
 
 Eliot Coleman's protective cultivation system represents one of the most
 practical and cost-effective approaches to year-round [[coleman-unheated-greenhouse-design]], this double-layer protection enables

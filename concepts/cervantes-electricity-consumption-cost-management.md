@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Electricity Consumption and Cost Management
+## Electricity Consumption and Cost Management
 
 Managing electricity consumption is a critical aspect of [[weed-management-strategies]], and security considerations. See also
 [[det]]

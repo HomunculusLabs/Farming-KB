@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, medicine, mushrooms]
 sources: [papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md, papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Medicinal Mushroom Extraction and Preparation
+## Medicinal Mushroom Extraction and Preparation
 
 [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] contain [[cordyceps-cancer-bioactive-compounds]] that require proper
 extraction to become bioavailable. Different compounds are extracted by

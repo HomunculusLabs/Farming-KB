@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Permitted vs Forced Functions
+## Permitted vs Forced Functions
 
 ## Design for Function
 

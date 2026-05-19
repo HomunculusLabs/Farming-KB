@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Sowing and Seedling Production
+## Sowing and Seedling Production
 
 [[mollison-designers-plant-nursery-seedling-production]]
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# The Firmament — Mushroom Canopy as Sky Dome
+## The Firmament — Mushroom Canopy as Sky Dome
 
 Allegro argues that the biblical concept of the firmament — the solid dome that separates the waters above from the waters below (Gen 1:6-8) — originated as a description of the mushroom's cap, seen from below as a protective canopy over the cultic initiate.
 

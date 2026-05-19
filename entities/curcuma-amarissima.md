@@ -15,7 +15,7 @@ sources:
   - Theilade I, Theilade S. (2013). "Zingiberaceae of psilocybe-southeast-asia-pacific." Blumea.
 ---
 
-# Curcuma amarissima
+## Curcuma amarissima
 
 ## Overview
 

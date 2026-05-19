@@ -1,4 +1,8 @@
-# Plant Hearing and Acoustic Sensing
+---
+title: "Plant Hearing and Acoustic Sensing"
+tags:
+  - concept
+---
 
 ## Overview
 

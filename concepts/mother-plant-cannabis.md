@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis, plants]
 ---
 
-# Mother Plant Cannabis
+## Mother Plant Cannabis
 
 A mother plant is a female cannabis plant maintained in perpetual [[hamilton-pest-and-disease-control-organic]] resistance, the clone
 shares those drawbacks. Select mothers from seed by evaluating multiple candidates:

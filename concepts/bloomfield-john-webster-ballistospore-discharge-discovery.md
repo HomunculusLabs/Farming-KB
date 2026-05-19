@@ -5,7 +5,7 @@ source_id: bloomfield-orchard
 topics: [mycology-history, spore-discharge, john-webster, ballistospore, high-speed-photography, basidiomycete]
 ---
 
-# John Webster and the Discovery of Ballistospore Discharge
+## John Webster and the Discovery of Ballistospore Discharge
 
 ## The Egg Hunter of Dartmoor
 

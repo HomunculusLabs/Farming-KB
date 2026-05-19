@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, microbiome, rhizosphere, bulk-soil, beta-diversity, unifrac, community-structure]
 ---
 
-# Cannabis Rhizosphere and Bulk Soil Microbial Community Comparison
+## Cannabis Rhizosphere and Bulk Soil Microbial Community Comparison
 
 ## Overview
 

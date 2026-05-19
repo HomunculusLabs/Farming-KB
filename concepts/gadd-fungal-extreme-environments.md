@@ -9,7 +9,7 @@ type: concept
 tags: [fungi]
 ---
 
-# Fungal Extreme Environments
+## Fungal Extreme Environments
 
 ## Overview
 

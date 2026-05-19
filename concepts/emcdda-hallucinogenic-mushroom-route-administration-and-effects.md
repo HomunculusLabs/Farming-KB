@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Route of Administration, Onset, and Acute Effects
+## Hallucinogenic Mushroom Route of Administration, Onset, and Acute Effects
 
 ## Overview
 

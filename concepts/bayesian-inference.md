@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Bayesian Inference
+## Bayesian Inference
 
 ## Overview
 bayesian inference is a framework for updating beliefs in light of evidence. (see [[fungal-species-estimation-methods-total-diversity]]).

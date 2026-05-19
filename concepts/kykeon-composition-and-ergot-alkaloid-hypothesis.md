@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Kykeon Composition and Ergot Alkaloid Hypothesis
+## Kykeon Composition and Ergot Alkaloid Hypothesis
 
 The kykeon was the sacred potion consumed during the culminating rites of the [[bloomfield-ergot-claviceps-purpurea-ergotism]]*, a parasitic fungus on rye, barley, wheat, and other cereals and wild grasses. It appears as dark purple-brown protrusions from the ears of grain. Other species of the genus *Claviceps* (C. paspali, C. nigricans, C. glabra) parasitise many species and varieties of wild grasses.
 

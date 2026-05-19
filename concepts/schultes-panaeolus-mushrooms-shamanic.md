@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ethnobotany, panaeolus, mushrooms, psilocybin, oaxaca, bali, mazatec, shamanism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
-# Panaeolus Mushrooms in Shamanic Practice
+## Panaeolus Mushrooms in Shamanic Practice
 
 The genus *Panaeolus* comprises several species of small, delicate
 mushrooms that contain the hallucinogenic alkaloid psilocybine. While

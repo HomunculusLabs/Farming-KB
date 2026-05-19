@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Depth Zones and Water Stratification
+## Pond Depth Zones and Water Stratification
 
 Depth is one of the most fundamental variables in pond and lake ecology. Like surface area and volume, depth has its own [[event-classification-and-orders-of-magnitude]], each supporting different biological communities, physical processes, and management requirements. Understanding depth effects is essential for designing productive aquaculture systems.
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Chemical vs Biological Gardening
+## Chemical vs Biological Gardening
 
 The tension between chemical and biological approaches to gardening represents one of the most significant paradigm shifts in modern horticulture. As described in the preface of *Teaming with Microbes* by [[jeff-lowenfels]] and [[wayne-lewis]], many gardeners — including the authors themselves — began as conventional chemical gardeners before discovering the transformative power of soil biology. Their personal journey from chemical dependency to biological gardening illustrates a broader shift that is reshaping how we think about soil, plants, and the relationship between them.
 

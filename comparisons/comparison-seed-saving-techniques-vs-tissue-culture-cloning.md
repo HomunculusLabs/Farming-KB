@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Seed Saving vs Tissue Culture Cloning
+## Seed Saving vs Tissue Culture Cloning
 
 ## Overview
 

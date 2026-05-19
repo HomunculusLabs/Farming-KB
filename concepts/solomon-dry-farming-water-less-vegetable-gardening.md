@@ -1,4 +1,8 @@
-# Dry Farming and Low-Irrigation Vegetable Gardening
+---
+title: "Dry Farming and Low-Irrigation Vegetable Gardening"
+tags:
+  - concept
+---
 
 **Source:** Gardening When It Counts — Steve Solomon (2005)
 

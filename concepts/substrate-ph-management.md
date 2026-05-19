@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
 ---
 
-# Substrate pH Management in Mushroom Cultivation
+## Substrate pH Management in Mushroom Cultivation
 
 The pH of [[stamets-reishi-ganoderma-lucidum-cultivation]] | 5.0-6.0 | Acidic, wood-adapted |
 | Hericium erinaceus | 5.0-6.0 | Acidic, wood-adapted |

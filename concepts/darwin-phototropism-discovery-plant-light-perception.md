@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Darwin's Phototropism Discovery and Plant Light Perception
+## Darwin's Phototropism Discovery and Plant Light Perception
 
 ## Darwin the Botanist
 

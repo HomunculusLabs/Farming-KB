@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# [[cannabis-alchemy-book]] encompasses a range of refined products — from traditional hashish preparations to intensified flowers, oral capsules, vaporization techniques, translucent [[cannabis-methods-of-consumption]].
+## [[cannabis-alchemy-book]] encompasses a range of refined products — from traditional hashish preparations to intensified flowers, oral capsules, vaporization techniques, translucent [[cannabis-methods-of-consumption]].
 
 ## Hashish from Extracted Oil
 

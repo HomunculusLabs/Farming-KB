@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# Bioremediation Scale-Up Considerations
+## Bioremediation Scale-Up Considerations
 
 The translation of laboratory and pilot-scale bioremediation results to full-scale field application is one of the most challenging aspects of environmental biotechnology.
 

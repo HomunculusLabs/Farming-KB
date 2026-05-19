@@ -6,7 +6,7 @@ topics: [plant-biology, photobiology, cryptochrome, blue-light-reception, plant-
 created: 2026-05-10
 ---
 
-# Plant Cryptochrome and Blue-Light Photoreception Beyond Phytochrome
+## Plant Cryptochrome and Blue-Light Photoreception Beyond Phytochrome
 
 ## Overview
 

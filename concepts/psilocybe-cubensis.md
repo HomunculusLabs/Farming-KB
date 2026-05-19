@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe cubensis
+## Psilocybe cubensis
 
 Psilocybe cubensis, also known as [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] for approximately 1 EUR per print, further facilitating home cultivation across the continent.
 

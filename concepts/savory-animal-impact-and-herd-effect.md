@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Animal Impact and Herd Effect
+## Animal Impact and Herd Effect
 
 Animal impact is one of the most powerful and least understood tools in
 [[savory-herd-composition-and-culling-strategies]]

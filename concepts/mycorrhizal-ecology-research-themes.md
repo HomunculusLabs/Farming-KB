@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Key Research Themes in Mycorrhizal Ecology
+## Key Research Themes in Mycorrhizal Ecology
 
 The study of [[mycorrhizal-fungi]] encompasses a vast and interdisciplinary body of research spanning nutrient cycling, plant physiology, ecosystem ecology, and applied forestry. The following themes represent major research frontiers that have shaped our understanding of fungal roles in terrestrial ecosystems, drawn from foundational and contemporary studies in the field.
 

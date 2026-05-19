@@ -15,7 +15,7 @@ sources:
   - Nordal, I. & Jonsell, B. (1999). "Flora Nordica Vol. 1." Bergius Foundation.
 ---
 
-# Primula farinosa
+## Primula farinosa
 
 ## Overview
 

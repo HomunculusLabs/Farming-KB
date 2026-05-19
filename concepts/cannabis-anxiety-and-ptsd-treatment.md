@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Anxiety and PTSD Treatment
+## Cannabis Anxiety and PTSD Treatment
 
 ## Overview
 

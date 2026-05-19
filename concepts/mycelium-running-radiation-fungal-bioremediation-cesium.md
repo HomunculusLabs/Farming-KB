@@ -1,3 +1,8 @@
+---
+title: "Mycelium Running Radiation Fungal Bioremediation Cesium"
+tags:
+  - concept
+---
 Source: [[singh-fungal-biofilms-in-contaminated-environments]] at extraordinary levels — up to 10,000 times background — with profound implications for nuclear accident cleanup and the [[paxillus-atrotomentosus]] to more than 10,000 times in Gomphidius glutinosus. Both of these are mycorrhizal mushrooms, highlighting the role of mycorrhizal networks in transporting radionuclides from deep soil layers.
 
 Surveys of cesium-contaminated mushrooms (Fielitz 2001; Epik and Yaprak 2003) measured fresh mushroom cesium levels in Becquerels per kilogram (Bq/kg), an alternative unit to curies:
@@ -143,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mycelium-digestive-membrane-information-network]]
 - [[mycelium-running-insect-fungal-mutualism]]
 - [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]]
-- [[woodlovers-mycelium-running-pathway-technique]]

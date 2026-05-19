@@ -33,7 +33,7 @@ taxonomy:
 sources: []
 ---
 
-# Rhodiola rosea
+## Rhodiola rosea
 
 **Rhodiola rosea** (golden root, arctic root) is a perennial herbaceous plant in the family Crassulaceae, native to arctic and alpine regions of Europe, Asia, and [[adaptogenic-herbs-guide]], it has been used for centuries in Scandinavian, Siberian, and Traditional Chinese Medicine to combat fatigue, enhance endurance, and improve resilience to stress. Its root/rhizome contains a unique profile of [[medicinal-mushroom-dietary-supplements]] and registered herbal medicines.
 

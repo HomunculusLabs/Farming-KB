@@ -7,7 +7,7 @@ tags: [fungi, biology, academia, lab-technique, microbes]
 sources: []
 ---
 
-# Fungal Genetics
+## Fungal Genetics
 
 Fungal genetics encompasses the study of heredity, variation, and gene function in fungi. Fungi serve as powerful model organisms for genetic research — they have compact genomes, short life cycles, and haploid genetics that make mutant analysis straightforward. Advances in fungal genetics drive applications in medicine, agriculture, and biotechnology.
 

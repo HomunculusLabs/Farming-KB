@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Green Manure vs Mulch
+## Green Manure vs Mulch
 
 ## Overview
 Green manure is a crop grown specifically to be incorporated into the soil,

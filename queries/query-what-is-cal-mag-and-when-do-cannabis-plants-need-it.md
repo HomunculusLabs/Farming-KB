@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is Cal-Mag and When Do Cannabis Plants Need It?
+## What Is Cal-Mag and When Do Cannabis Plants Need It?
 
 ## Short Answer
 

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, fruiting, oyster-mushrooms, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Fruiting Initiation Fruiting initiation is the transition from vegetative [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]] — known as
+## Fruiting Initiation Fruiting initiation is the transition from vegetative [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]] — known as
 "shocking" or "triggering" — that signals the mycelium to form primordia
 (pins) and develop into mature fruiting bodies.
 

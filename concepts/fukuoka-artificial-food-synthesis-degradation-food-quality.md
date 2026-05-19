@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Artificial Food Synthesis and the Degradation of Food Quality
+## Artificial Food Synthesis and the Degradation of Food Quality
 
 ## Core Concept
 

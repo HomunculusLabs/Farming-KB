@@ -21,7 +21,7 @@ sources:
 - raw/papers/amanita-muscaria-herb-of-immortality.md
 ---
 
-# Donald E. Teeter
+## Donald E. Teeter
 
 Author of "Amanita Muscaria: Herb of Immortality" (revised 2007, copyright 2005), published through the Ambrosia Society. An independent researcher who spent over 35 years investigating the hypothesis that Amanita muscaria was the original sacramental plant of Indo-European religion.
 

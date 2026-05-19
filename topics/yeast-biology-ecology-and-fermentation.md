@@ -12,7 +12,7 @@ related_concepts:
   - yeast-isolation-biodiversity-methods
 ---
 
-# Yeast Biology, Ecology, and Fermentation
+## Yeast Biology, Ecology, and Fermentation
 
 Yeasts are among the most consequential microorganisms on Earth, yet they
 remain poorly understood by most people who interact with them daily. Every

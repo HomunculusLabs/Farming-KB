@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Eleusinian Mysteries and Ergot Theory
+## Eleusinian Mysteries and Ergot Theory
 
 The **Eleusinian Mysteries** were the most important religious initiation ceremony in
 ancient Greece, conducted annually for nearly two thousand years at Eleusis, a sanctuary

@@ -8,7 +8,7 @@ sources: [magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# Chemical Analysis of Psilocybin Mushrooms
+## Chemical Analysis of Psilocybin Mushrooms
 
 ## Overview
 

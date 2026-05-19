@@ -16,7 +16,7 @@ sources:
   - "USDA NRCS. \"Lobelia siphilitica L.\" PLANTS Database."
 ---
 
-# Lobelia siphilitica (Great Blue Lobelia)
+## Lobelia siphilitica (Great Blue Lobelia)
 
 ## Overview
 

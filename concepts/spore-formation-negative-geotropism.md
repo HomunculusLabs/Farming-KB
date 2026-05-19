@@ -4,7 +4,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Spore Formation and Negative Geotropism in Mushrooms
+## Spore Formation and Negative Geotropism in Mushrooms
 
 ## Overview
 

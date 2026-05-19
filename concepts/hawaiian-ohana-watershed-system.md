@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Hawaiian Ohana Watershed System
+## Hawaiian Ohana Watershed System
 
 The Hawaiian [[ohana-system]] represents one of the most sophisticated and integrated
 examples of traditional [[watershed-management]] ever developed. Described by Bill

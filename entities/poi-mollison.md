@@ -5,7 +5,7 @@ type: entity
 tags: [food, fermentation, taro, hawaiian, traditional-food, polynesian]
 ---
 
-# Poi
+## Poi
 
 ## Description
 

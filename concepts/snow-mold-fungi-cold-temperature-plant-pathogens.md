@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Snow Mold Fungi
+## Snow Mold Fungi
 
 Snow molds are low-temperature-tolerant soil-borne fungi that
 damage and kill grasses, cereals, and other plants during cold

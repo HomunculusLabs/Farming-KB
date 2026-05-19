@@ -21,7 +21,7 @@ sources:
 - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-# Fungal Biodiversity
+## Fungal Biodiversity
 
 Fungi constitute one of the largest and least-known groups of organisms on Earth. Despite their ubiquity and critical ecological roles, an estimated 95% of fungal species remain undescribed. This page synthesizes findings from the landmark reference "Biodiversity of Fungi" (Mueller, Bills, Foster) and related sources.
 

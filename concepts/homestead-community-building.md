@@ -7,7 +7,7 @@ tags: [homesteading, community, sustainability, economics, permaculture]
 sources: []
 ---
 
-# Homestead Community Building
+## Homestead Community Building
 
 Homesteading can be isolating, but it does not have to be. Building a network of like-minded neighbors creates resilience, shared resources, skill exchange, and social support that no amount of individual preparation can match. A strong community multiplies the capacity of every member.
 

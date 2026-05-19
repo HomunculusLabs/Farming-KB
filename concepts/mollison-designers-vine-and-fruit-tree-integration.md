@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Vine and Fruit Tree Integration
+## Vine and Fruit Tree Integration
 
 Mollison treats vine and fruit tree combinations as a classic example of
 vertical stacking in tagasaste beneath [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and suppress weed grasses.

@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, copelandia, entheogenic, agaricales, dung-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 ---
 
-# Copelandia anomalus
+## Copelandia anomalus
 
 **Copelandia anomalus** is a lesser-known [[field-guide-psilocybin-bluing-reaction-identification]] when bruised, and their content of psilocybin and psilocin. *Copelandia anomalus* is one of the less frequently encountered species within the genus. The species epithet "anomalus" (meaning anomalous or unusual) likely refers to morphological characteristics that distinguish it from more typical Copelandia species, though the specific diagnostic features remain poorly documented in accessible literature. The type specimen details and original publication are not widely available in online databases.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cold Climate Design Strategies
+## Cold Climate Design Strategies
 
 [[avalanche-phenomenon]] present unique design opportunities as well as challenges. Many cold
 phenomena — snow, ice, frost — can be harnessed as productive resources rather than

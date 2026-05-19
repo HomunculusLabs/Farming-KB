@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Start a Backyard Orchard
+## How to Start a Backyard Orchard
 
 ## Short Answer
 Starting a backyard orchard involves selecting fruit trees suited to your

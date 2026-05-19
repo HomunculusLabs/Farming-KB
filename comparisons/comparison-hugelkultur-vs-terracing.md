@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Hugelkultur vs Terracing
+## Hugelkultur vs Terracing
 
 ## Overview
 

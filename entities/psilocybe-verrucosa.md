@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, mexico, psilocybe, section-mexicanae, hallucinogenic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: ["raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md"]
 ---
 
-# Psilocybe verrucosa
+## Psilocybe verrucosa
 
 **Psilocybe verrucosa** is a [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae with which it shares its habitat and general morphology.
 

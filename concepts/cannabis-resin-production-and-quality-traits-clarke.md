@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
-# Cannabis Resin Production and Quality Traits (Clarke)
+## Cannabis Resin Production and Quality Traits (Clarke)
 
 ## Resin Quantity and Quality
 

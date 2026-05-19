@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Root Competition and Plant Spacing (Solomon)
+## Root Competition and Plant Spacing (Solomon)
 
 Updated: 2026-04-18
 

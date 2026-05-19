@@ -7,7 +7,7 @@ tags: [soil-microbial-biomass, chloroform-fumigation, substrate-induced-respirat
 aliases: [smb, microbial-biomass-carbon, microbial-biomass-nitrogen, soil-microbial-activity]
 ---
 
-# Soil Microbial Biomass: Measurement and Ecological Significance
+## Soil Microbial Biomass: Measurement and Ecological Significance
 
 ## Overview
 

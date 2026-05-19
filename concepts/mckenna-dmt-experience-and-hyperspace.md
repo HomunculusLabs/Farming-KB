@@ -12,7 +12,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# DMT Experience and Hyperspace
+## DMT Experience and Hyperspace
 
 ## The Tryptamine Continuum
 

@@ -18,7 +18,7 @@ sources:
   - Snow, A.A. & Snow, D.W. (1988). "Pollination and seed production in pickerelweed, Pontederia cordata." Oecologia, 76(3), 392-396.
 ---
 
-# Pontederia cordata
+## Pontederia cordata
 
 ## Overview
 

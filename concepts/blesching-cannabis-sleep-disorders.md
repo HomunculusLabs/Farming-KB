@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Sleep Disorders and Insomnia
+## Cannabis for Sleep Disorders and Insomnia
 
 ## Overview of Insomnia
 

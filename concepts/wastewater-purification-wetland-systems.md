@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wastewater Purification Wetland Systems
+## Wastewater Purification Wetland Systems
 
 Wastewater purification through [[constructed-wetlands-and-ecological-wastewater-treatment]] biological treatment systems is a cornerstone of permaculture design for water management. Rather than relying on energy-intensive chemical treatment, these systems harness natural biological processes — aquatic plants, algae, bacteria, and sediment filtration — to clean and recycle water while simultaneously producing useful yields.
 

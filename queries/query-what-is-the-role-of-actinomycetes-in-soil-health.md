@@ -15,7 +15,7 @@ sources:
   - "raw/papers/holistic-management-allan-savory.md"
 ---
 
-# What Is the Role of Actinomycetes in Soil Health?
+## What Is the Role of Actinomycetes in Soil Health?
 
 ## Short Answer
 Actinomycetes are filamentous bacteria that bridge the gap between bacteria

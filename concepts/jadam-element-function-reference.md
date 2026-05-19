@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Element Function Reference
+## JADAM Element Function Reference
 
 Summary of what each element does for plants, deficiency symptoms, and natural
 JADAM sources. In a typical plant: organic elements (C, H, O) comprise ~96% of

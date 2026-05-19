@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: "Guzmán, Allen & Gartz (1998)"
 ---
 
-# Psilocybe zapotecorum Section Zapotecorum: Americas Pacific Distribution
+## Psilocybe zapotecorum Section Zapotecorum: Americas Pacific Distribution
 
 Section Zapotecorum of the genus Psilocybe represents one of the most
 biogeographically significant groups of [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]

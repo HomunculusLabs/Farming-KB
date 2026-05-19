@@ -10,7 +10,7 @@ sources: ["raw/papers/uwe-blesching-the-cannabis-health-index.md"]
 type: concept
 ---
 
-# Cannabis Strain Selection and Receptor Targeting
+## Cannabis Strain Selection and Receptor Targeting
 
 ## Overview
 

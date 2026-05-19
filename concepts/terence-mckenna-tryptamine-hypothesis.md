@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[mckenna-dmt-experience-and-hyperspace]]
+## [[mckenna-dmt-experience-and-hyperspace]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

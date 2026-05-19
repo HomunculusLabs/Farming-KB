@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Legume Nitrogen Yields by Species
+## Legume Nitrogen Yields by Species
 
 The nitrogen-fixing capacity of legumes varies enormously from species to
 species, ranging from approximately 40 pounds per acre for field beans to

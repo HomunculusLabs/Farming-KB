@@ -15,7 +15,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Edaphic Determinants of Cannabis Microbiome Community Structure
+## Edaphic Determinants of Cannabis Microbiome Community Structure
 
 ## Overview
 

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [permaculture, observation, site-analysis, inventories, indicator-species]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
-# Inventories and Observation in permaculture design Before making any design decisions, a [[permaculture-site-assessment-checklist]]
+## Inventories and Observation in permaculture design Before making any design decisions, a [[permaculture-site-assessment-checklist]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

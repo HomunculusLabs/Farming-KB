@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-[[solomon-irrigation-systems-sprinkler-de
 type: concept
 ---
 
-# Sprinkler and Irrigation Systems for Gardens
+## Sprinkler and Irrigation Systems for Gardens
 
 **Sprinkler and [[irrigation-systems]]** are essential infrastructure for the productive vegetable garden, ensuring consistent moisture delivery, reducing plant stress, and enabling efficient nutrient application. In [[steve-solomon]]'s *[[gardening-when-it-counts]]*, irrigation is treated not as an optional convenience but as a critical component of successful intensive food production, particularly in regions where rainfall alone is insufficient to sustain crops through critical growth periods.
 

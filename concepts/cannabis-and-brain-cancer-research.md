@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Brain Cancer (Glioma/Glioblastoma)
+## Cannabis and Brain Cancer (Glioma/Glioblastoma)
 
 **Source:** The [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells to cause apoptosis while leaving normal cells unaffected.
 - **2004:** Spanish researchers found cannabinoids effectively inhibited the chemical signal needed for brain tumors to build their blood supply — an essential survival element. They proposed "a novel pharmacological target for cannabinoid-based therapies."

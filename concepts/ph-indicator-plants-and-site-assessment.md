@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# pH Indicator Plants and Site Assessment
+## pH Indicator Plants and Site Assessment
 
 ## Plant pH Preferences in the Garden
 

@@ -1,4 +1,8 @@
-# Mushroom Taste, Route of Administration, and Consumption Barriers
+---
+title: "Mushroom Taste, Route of Administration, and Consumption Barriers"
+tags:
+  - concept
+---
 
 ## Overview
 The physical characteristics of [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] require users

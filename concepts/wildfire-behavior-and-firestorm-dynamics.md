@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wildfire Behavior and Firestorm Dynamics
+## Wildfire Behavior and Firestorm Dynamics
 
 [[wildfire]] is one of the most powerful and destructive natural forces affecting human settlements, forests, and grasslands. Understanding the mechanisms that drive wildfire behavior—especially the transition from ordinary grass or [[fungi-forest-fire-succession-litter-dighton]] to catastrophic [[firestorm]]—is essential for any land designer working in fire-prone regions. This concept covers the critical factors that create firestorms, how fire spreads across landscapes, and the physical dynamics that make wildfire so dangerous to life and property.
 

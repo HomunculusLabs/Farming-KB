@@ -7,7 +7,7 @@ tags: [goats, animal-husbandry, homesteading, livestock, byproducts, livestock-h
 sources: []
 ---
 
-# Goat Husbandry
+## Goat Husbandry
 
 Goats are among the most versatile and manageable livestock for the homestead.
 They provide milk, meat, fiber, and brush-clearing services while requiring

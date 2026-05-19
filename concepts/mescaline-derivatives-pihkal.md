@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# Mescaline Derivatives and Homologues in PiHKAL
+## Mescaline Derivatives and Homologues in PiHKAL
 
 ## Overview
 

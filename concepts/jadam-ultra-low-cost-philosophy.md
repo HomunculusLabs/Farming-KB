@@ -9,7 +9,7 @@ type: concept
 tags: [jadam]
 ---
 
-# JADAM Ultra-Low-Cost Philosophy
+## JADAM Ultra-Low-Cost Philosophy
 
 JADAM (Jayonul Damun Saramdul, meaning "people who are like
 nature") is a Korean organic farming system founded by Youngsang Cho

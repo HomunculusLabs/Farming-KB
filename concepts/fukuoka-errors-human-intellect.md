@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Errors of the Human Intellect
+## The Errors of the Human Intellect
 
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 1 of "The [[fukuoka-critique-scientific-agriculture-civilization]] developed early in the West as one branch of the natural sciences, which arose in Western learning as the study of matter. The natural sciences took a materialistic viewpoint that interpreted nature analytically and dialectically. This was a consequence of Western man's belief in a man-nature dichotomy.
 

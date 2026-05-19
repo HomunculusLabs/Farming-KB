@@ -17,7 +17,7 @@ summary: >
   re-union, integrating empirical understanding with sacred connection to nature.
 ---
 
-# The Emergent Union of Materialism and Spirituality
+## The Emergent Union of Materialism and Spirituality
 
 ## Overview
 
@@ -135,7 +135,7 @@ depth of response the sustainability crisis demands.
 
 ## See Also
 
-- [[growing-gourmet-stametsian-permaculture-model]]
+- [[stametsian-permaculture-model]]
 - deep ecology naess
 - post normal science
 - [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]]

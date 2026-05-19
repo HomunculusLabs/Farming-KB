@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# JADAM Fertilizer Program Design
+## JADAM Fertilizer Program Design
 
 JADAM's approach to fertilizer program design represents a radical departure
 from both conventional and mainstream organic methods. Founder Cho Han Kyu

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungal Biodiversity Assessment Methods
+## Fungal Biodiversity Assessment Methods
 
 Assessing [[fungal-biodiversity]] presents unique challenges that distinguish mycology from plant and animal ecology. Fungi exhibit growth forms and body plans that resist straightforward enumeration. This page covers core conceptual and methodological issues in fungal biodiversity assessment.
 

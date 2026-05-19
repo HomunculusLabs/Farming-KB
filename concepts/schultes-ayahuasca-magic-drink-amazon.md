@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ayahuasca Magic Drink of the Amazon
+## Ayahuasca Magic Drink of the Amazon
 
 Ayahuasca is the most important hallucinogenic plant complex of the
 Amazon basin. Prepared from the bark of *[[psychotria-viridis]]* (Chacruna) is a bush of great [[dimethyltryptamine]] (DMT) responsible for the vivid visionary content of

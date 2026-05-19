@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cell-biology, fungi, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Fungal Hyphae Hyphae (singular: hypha) are the thread-like, tubular filaments that constitute the fundamental structural units of [[hamilton-composting-and-organic-matter-management]] and away from
+## Fungal Hyphae Hyphae (singular: hypha) are the thread-like, tubular filaments that constitute the fundamental structural units of [[hamilton-composting-and-organic-matter-management]] and away from
   depleted zones.
 - **[[plant-nutrient-uptake-mechanisms]].
 - **Other microorganisms:** Engaging in antagonistic or synergistic

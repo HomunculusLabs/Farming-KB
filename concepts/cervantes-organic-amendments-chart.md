@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Organic Amendments Chart for Cannabis
+## Organic Amendments Chart for Cannabis
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
 -- Jorge Cervantes

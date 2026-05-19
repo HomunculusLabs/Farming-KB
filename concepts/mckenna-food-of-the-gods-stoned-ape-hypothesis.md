@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# McKenna's Stoned Ape Hypothesis in Food of the Gods
+## McKenna's Stoned Ape Hypothesis in Food of the Gods
 
 The "stoned ape" hypothesis is [[mckenna-catalytic-psychedelics-and-culture]].
 

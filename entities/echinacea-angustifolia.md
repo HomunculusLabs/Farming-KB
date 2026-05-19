@@ -22,7 +22,7 @@ sources:
   - European Medicines Agency (2015). "Assessment Report on Echinacea angustifolia DC., Radix." HMPC Monograph, EMA/HMPC/601527/2014.
 ---
 
-# Echinacea angustifolia
+## Echinacea angustifolia
 
 ## Overview
 

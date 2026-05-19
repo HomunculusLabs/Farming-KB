@@ -19,7 +19,7 @@ sources:
   - USDA NRCS. "Sanguinaria canadensis Plant Guide." USDA Natural Resources Conservation Service, 2023.
 ---
 
-# Sanguinaria canadensis
+## Sanguinaria canadensis
 
 *Sanguinaria canadensis*, commonly known as **bloodroot**, is a perennial herbaceous flowering plant native to [[halpern-sacramental-peyote-and-native-american-church]] traditional medicine and has attracted modern pharmacological interest for its bioactive alkaloid content.
 

@@ -20,7 +20,7 @@ sources:
   - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-# Hallucinogenic Mushrooms -- European Legal and Social Trends
+## Hallucinogenic Mushrooms -- European Legal and Social Trends
 
 EMCDDA (European Monitoring Centre for Drugs and Drug Addiction) case study on hallucinogenic mushroom use trends in Europe (2006). Covers prevalence, market dynamics, legal responses, and health considerations. See [[mushroom-identification]] for species identification and [[psychedelic-compounds-reference]] for pharmacology.
 

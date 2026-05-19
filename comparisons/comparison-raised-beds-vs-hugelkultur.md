@@ -9,7 +9,7 @@ sources: []
 type: comparison
 ---
 
-# Raised Beds vs Hugelkultur
+## Raised Beds vs Hugelkultur
 
 ## Overview
 Raised beds and hugelkultur beds both elevate growing surfaces above ground

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 
-# Mycorrhizal Fungi and Hydrocarbon Contamination
+## Mycorrhizal Fungi and Hydrocarbon Contamination
 
 ## Impact of Hydrocarbons on Mycorrhizal Colonization
 

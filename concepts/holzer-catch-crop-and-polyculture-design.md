@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Catch Crop and Polyculture Design
+## Catch Crop and Polyculture Design
 
 [[holzer-polycultures-catch-crop-combinations]].
 

@@ -7,7 +7,7 @@ tags: [herbalism, herbs, medicine]
 sources: []
 ---
 
-# Herbal Steam Inhalation
+## Herbal Steam Inhalation
 
 Steam inhalation with herbs is a traditional respiratory therapy that delivers volatile oils, antimicrobial compounds, and moist heat directly to the mucous membranes of the upper and lower respiratory tract. This method is particularly effective for congestion, sinus infections, bronchial irritation, and dry respiratory passages. The combination of steam's physical properties (mucolysis, vasodilation, hydration) with specific herbal actions creates a potent localized treatment that addresses both the symptoms and underlying causes of respiratory complaints.
 

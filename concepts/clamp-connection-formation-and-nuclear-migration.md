@@ -1,4 +1,8 @@
-# Clamp Connection Formation and Nuclear Migration
+---
+title: "Clamp Connection Formation and Nuclear Migration"
+tags:
+  - concept
+---
 
 Clamp connections are hook-shaped hyphal outgrowths unique to many Basidiomycota
 that maintain the dikaryotic state — two genetically distinct nuclei per cell —

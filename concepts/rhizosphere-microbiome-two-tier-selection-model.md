@@ -7,7 +7,7 @@ tags: [soil, microbes, cannabis, mycorrhizae]
 sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
-# Rhizosphere Microbiome Two-Tier Selection Model
+## Rhizosphere Microbiome Two-Tier Selection Model
 
 ## Overview
 

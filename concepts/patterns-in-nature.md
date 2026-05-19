@@ -20,7 +20,7 @@ sources:
 - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Patterns in Nature
+## Patterns in Nature
 
 Natural patterns are the templates for permaculture design. Mollison's Designer's Manual devotes Chapter 4 entirely to pattern understanding; Holmgren's Principle 7 ("Design from Patterns to Details") provides the practical framework. See [[permaculture-design-methods]] for how patterns integrate into the design process.
 

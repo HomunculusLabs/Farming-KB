@@ -10,7 +10,7 @@ type: concept
 tags: [ducks, fukuoka, symbiosis]
 ---
 
-# Fukuoka Duck, Rice, and Fish Symbiosis
+## Fukuoka Duck, Rice, and Fish Symbiosis
 
 Masanobu Fukuoka advocated the integration of ducks, fish, and other animals into rice paddies as a natural alternative to [[fukuoka-no-weeding-no-pesticides]] principle, which holds that the farmer should not need to weed or spray if the ecosystem is properly balanced.
 

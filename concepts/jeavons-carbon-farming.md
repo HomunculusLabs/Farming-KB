@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Carbon Farming and Carbon Crops
+## Carbon Farming and Carbon Crops
 
 Carbon farming is the practice of growing crops specifically to produce large amounts of carbonaceous material for compost. This is the foundation of sustainable soil fertility in the [[hamilton-composting-and-organic-matter-management]] in temperate regions, 3% in tropical ones) is:
 - The food of soil microorganisms responsible for creating good soil structure and fertility

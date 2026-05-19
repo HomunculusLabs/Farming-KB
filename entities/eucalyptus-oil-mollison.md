@@ -5,7 +5,7 @@ type: entity
 tags: [essential-oil, resource, distillation, permaculture, high-value, eucalyptus]
 ---
 
-# Eucalyptus Oil (Fractional Distillation)
+## Eucalyptus Oil (Fractional Distillation)
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: []
 updated: 2026-05-06
 ---
 
-# 5-MeO-DMT
+## 5-MeO-DMT
 
 5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a powerful naturally occurring psychedelic tryptamine compound found in a wide variety of plant species and in the venom of the Colorado River toad (Incilius alvarius). First synthesized in 1936 by Japanese chemists Toshio Hoshino and Kenya Shimodaira, it is one of the most potent serotonergic psychedelics known, with subjective effects that are qualitatively distinct from those of N,N-DMT and psilocybin. 5-MeO-DMT produces an overwhelming, short-duration experience typically described as a "whiteout" or "void" state characterized by complete [[psilocybin-ego-dissolution-mechanisms]], ineffable bliss, and a sense of merging with fundamental reality. Its extreme potency (active dose 5–15 mg vaporized) and rapid onset (seconds) have made it increasingly popular in underground psychedelic communities, while also raising significant safety concerns. The compound has shown preliminary clinical promise for treating depression, anxiety, and substance use disorders in emerging research.
 

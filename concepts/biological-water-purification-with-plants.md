@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Water Purification with Plants
+## Biological Water Purification with Plants
 
 [[biological-water-purification]] using higher plants represents the most sophisticated and ecologically integrated approach to wastewater and polluted water treatment. Building on the foundation of anaerobic, facultative, and aerobic pond systems, specific genera of rushes, sedges, and floating plants can greatly assist with removal of heavy metals and human pathogens, and critically, some plants can break down halogenated hydrocarbons synthesised as herbicides and pesticides. [[eichhornia-crassipes]]*) removes residual metals, surplus nutrients, and *coli*-group bacteria (New Scientist, 4 Oct 1979, p. 29). Water hyacinth systems are effective final-stage polishers but must be carefully managed, as the plant is highly invasive and can clog waterways if not contained.
 

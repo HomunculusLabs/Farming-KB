@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis, ecology]
 sources: []
 ---
-# Mycorrhizal Mediation of Plant-Plant Competition
+## Mycorrhizal Mediation of Plant-Plant Competition
 
 ## Overview
 

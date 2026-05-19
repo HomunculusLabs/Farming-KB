@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# Permaculture Comfrey and Chop-and-Drop Mulch Plants
+## Permaculture Comfrey and Chop-and-Drop Mulch Plants
 
 Chop-and-drop mulching is a core permaculture technique where plants are periodically cut and their foliage left on the soil surface as mulch. This cycles nutrients, suppresses weeds, conserves moisture, builds soil [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] systems. Listed among the [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Nitrogen-fixing root system enriches soil even while tree is growing

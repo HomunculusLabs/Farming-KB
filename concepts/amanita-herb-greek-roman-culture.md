@@ -8,7 +8,7 @@ sources:
   - raw/papers/amanita-muscaria-herb-of-immortality.md
 ---
 
-# Amanita Muscaria in Ancient Greek and Roman Culture
+## Amanita Muscaria in Ancient Greek and Roman Culture
 
 In "Amanita Muscaria: [[amanita-muscaria-drying-and-preparation]].
 

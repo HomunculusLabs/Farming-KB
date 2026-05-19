@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [papers/a-selection-permaculture-plants.md]
 ---
-# Permaculture Vine Crops Vines occupy a unique vertical niche in [[lentinan-gastric-cancer-combination-therapy]] treatment.
+## Permaculture Vine Crops Vines occupy a unique vertical niche in [[lentinan-gastric-cancer-combination-therapy]] treatment.
 
 **P. edulis var. flavicarpa** (yellow passionfruit) -- Less cold-tolerant but resistant to Fusarium wilt and nematodes. Does better climbing a tall tree rather than a trellis. Tall permaculture-tuber-crops). Requires deep, fertile, moist, well-drained soil. Unripe fruits used in soups, steamed and boiled with butter, nutmeg and pepper. Pulp contains passiflorine (sedative in large doses).
 

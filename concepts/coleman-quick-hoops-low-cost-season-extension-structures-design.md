@@ -5,7 +5,7 @@ source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, quick-hoops, season-extension, low-tunnels, protected-cultivation, row-cover, conduit-hoops, overwintering]
 ---
 
-# Quick Hoops: Low-Cost Protected Cultivation Structures
+## Quick Hoops: Low-Cost Protected Cultivation Structures
 
 ## Overview
 

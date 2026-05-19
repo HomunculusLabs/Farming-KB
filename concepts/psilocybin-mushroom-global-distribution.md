@@ -14,7 +14,7 @@ sources:
   - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Psilocybin Mushroom Global Distribution
+## Psilocybin Mushroom Global Distribution
 
 The [[geographic-distribution-of-psilocybe-species]] of psilocybin-containing mushrooms worldwide, organized by region and climate.
 

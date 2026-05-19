@@ -1,4 +1,8 @@
-# [[contamination-prevention-in-mushroom-cultivation]]. [[cultivator-sterile-technique-and-agar-culture]] has moved on. Cladosporium and Alternaria spores are common in outdoor air and readily enter through ventilation systems and doorways. Indoor environments with carpet, houseplants, or organic debris have even higher [[bacillus-subtilis]]*, *Pseudomonas*, *Staphylococcus*), yeasts (*Candida*), and mold spores. Every movement stirs air and sheds particles.
+---
+title: "contamination prevention in mushroom cultivation. cultivator sterile technique and agar culture has moved on. Cladosporium and Alternaria spores are common in outdoor air and readily enter through ventilation systems and doorways. Indoor environments with carpet, houseplants, or organic debris have even higher bacillus subtilis*, *Pseudomonas*, *Staphylococcus*), yeasts (*Candida*), and mold spores. Every movement stirs air and sheds particles."
+tags:
+  - concept
+---
 
 The cultivator is often the primary source of contamination in otherwise clean environments. Stamets emphasizes that personal discipline—hand washing, wearing clean garments, minimizing movement during sterile work—does more to prevent contamination than any piece of equipment. Talking, coughing, or breathing directly over open cultures is a frequent cause of otherwise unexplained bacterial outbreaks on agar plates. Contaminated gloves that touch multiple surfaces in succession can spread organisms across an entire batch of cultures.
 

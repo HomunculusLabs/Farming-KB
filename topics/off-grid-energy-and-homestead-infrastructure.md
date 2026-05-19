@@ -16,7 +16,7 @@ related_concepts:
   - rainwater-harvesting-and-graywater-recycling
 ---
 
-# Off-Grid Energy and Homestead Infrastructure
+## Off-Grid Energy and Homestead Infrastructure
 
 Off-grid energy and homestead infrastructure encompass the systems that
 allow a household or small community to operate independently of municipal

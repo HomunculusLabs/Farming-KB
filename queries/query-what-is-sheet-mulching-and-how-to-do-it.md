@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Is Sheet Mulching and How to Do It
+## What Is Sheet Mulching and How to Do It
 
 ## Short Answer
 Sheet mulching, also known as lasagna gardening, is a no-dig soil-building

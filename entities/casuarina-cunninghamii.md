@@ -5,7 +5,7 @@ type: entity
 tags: [species, tree, casuarinaceae, dryland, salinity, wastewater, australia, permaculture]
 ---
 
-# Casuarina cunninghamii
+## Casuarina cunninghamii
 
 ## Description
 

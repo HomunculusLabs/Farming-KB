@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Raised Beds vs Wicking Beds
+## Raised Beds vs Wicking Beds
 
 ## Overview
 Raised beds and wicking beds are two popular [[wicking-bed-construction]]

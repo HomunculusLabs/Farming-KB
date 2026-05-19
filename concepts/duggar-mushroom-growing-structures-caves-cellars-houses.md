@@ -11,7 +11,7 @@ period: "1915"
 region: "United States, England, California"
 ---
 
-# Mushroom Growing Structures
+## Mushroom Growing Structures
 
 ## Overview
 

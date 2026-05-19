@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 ---
-# Cannabis Potency Maximization
+## Cannabis Potency Maximization
 
 ## Overview
 

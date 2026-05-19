@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Make Herbal Infused Oils at Home?
+## How Do I Make Herbal Infused Oils at Home?
 
 Herbal infused oils are one of the foundational preparations in herbalism. They capture the fat-soluble compounds from herbs — including volatile oils, resins, and lipophilic constituents — into a carrier oil that can be used directly on the skin, added to salves and balms, or taken internally (food-grade oils and herbs only). An infused oil is also the first step toward making [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]. Use extra virgin for highest quality. Shelf life of 1 to 2 years.
 - **Jojoba oil**: Technically a liquid wax. Extremely stable with a shelf life of 2 to 5 years. Excellent for skin preparations since it closely mimics human sebum. More expensive but worth it for premium products.

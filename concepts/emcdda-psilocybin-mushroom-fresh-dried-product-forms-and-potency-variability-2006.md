@@ -6,7 +6,7 @@ type: concept
 tags: [emcdda, mushroom-product, fresh-dried, potency-variability, dosage, smartshop, europe, 2006]
 ---
 
-# EMCDDA Psilocybin Mushroom Fresh and Dried Product Forms and Potency Variability (2006)
+## EMCDDA Psilocybin Mushroom Fresh and Dried Product Forms and Potency Variability (2006)
 
 ## Overview
 

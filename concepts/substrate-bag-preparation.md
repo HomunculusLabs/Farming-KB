@@ -7,7 +7,7 @@ tags: [mushrooms, cultivation, recipe, methods, fungi, compost]
 sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-# Substrate Bag Preparation
+## Substrate Bag Preparation
 
 Complete step-by-step guide to producing substrate bags for mushroom cultivation. Based on FAO training manual for tropical mushroom cultivation in Thailand. See [[mushroom-substrates]] for substrate science and [[mushroom-pasteurization]] for pasteurization methods.
 

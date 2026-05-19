@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Species Interaction Classification
+## Species Interaction Classification
 
 Species interaction classification is a systematic framework for categorizing the relationships between pairs of species based on how each is affected by the other. Originally developed by Haskell (1970), this taxonomy provides a critical analytical tool for [[mycorrhizal-fungi]] with plant roots, and pollinator/flower relationships. This is the gold standard in guild design — whenever mutualism can be arranged, it should be prioritized.
 

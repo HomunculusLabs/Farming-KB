@@ -23,7 +23,7 @@ sources:
 - raw/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Humanure Composting
+## Humanure Composting
 
 Safe composting of human manure following thermophilic methods. Based on Joe Jenkins' *The Humanure Handbook* (4th ed.) and university extension guidelines. Humanure, when properly managed, becomes a valuable soil amendment; when mishandled, it is a pathogen vector.
 

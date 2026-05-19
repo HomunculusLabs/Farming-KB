@@ -5,7 +5,7 @@ tags: [natural-farming, agriculture, philosophy, ecology, permaculture]
 created: 2026-05-11
 ---
 
-# Do-Nothing Farming: Fukuoka's Natural Agriculture
+## Do-Nothing Farming: Fukuoka's Natural Agriculture
 
 ## Overview
 

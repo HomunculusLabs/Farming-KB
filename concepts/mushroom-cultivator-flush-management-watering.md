@@ -12,7 +12,7 @@ sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Mushroom Flush Management and Watering Techniques
+## Mushroom Flush Management and Watering Techniques
 
 After pin initiation, mushroom crops enter a phase of flush management
 that determines overall yield and quality. The interplay of temperature,

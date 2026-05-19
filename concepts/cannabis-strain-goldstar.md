@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Goldstar
+## Goldstar
 
 Goldstar is a sativa-dominant hybrid [[african-landrace-sativa-modern-hybrids]] from southeastern Africa, specifically the
 Malawi region. African landrace sativas are prized by breeders for their

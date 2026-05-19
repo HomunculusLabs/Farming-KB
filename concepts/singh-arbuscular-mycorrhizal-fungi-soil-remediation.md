@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Arbuscular mycorrhizal-symbiosis, associating with approximately
+## Arbuscular mycorrhizal-symbiosis, associating with approximately
 two-thirds of all plant species. In the context of bioremediation, AMF
 play critical roles in phytostabilization and phytoextraction of
 [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and

@@ -14,7 +14,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Purple and Color-Changing Cannabis Strains
+## Purple and Color-Changing Cannabis Strains
 Colorful cannabis strains have fascinated growers and consumers for decades. The purple, blue,
 red, and pink hues that develop in certain varieties are the result of anthocyanin pigments —
 the same compounds that produce colors in blueberries, grapes, and autumn leaves. While color

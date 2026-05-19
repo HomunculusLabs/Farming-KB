@@ -5,7 +5,7 @@ type: concept
 tags: [ethnobotany, entheogens, consciousness, history]
 ---
 
-# Minoan Crete: Mushroom Fantasies and Mycenaean Religion
+## Minoan Crete: Mushroom Fantasies and Mycenaean Religion
 
 ## Overview
 

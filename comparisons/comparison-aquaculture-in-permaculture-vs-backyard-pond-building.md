@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Aquaculture in Permaculture vs Backyard Pond Building
+## Aquaculture in Permaculture vs Backyard Pond Building
 
 ## Overview
 

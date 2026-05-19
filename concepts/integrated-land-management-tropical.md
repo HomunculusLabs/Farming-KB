@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Land Management in the Humid Tropics
+## Integrated Land Management in the Humid Tropics
 
 Integrated land management in the humid tropics is modeled on traditional geomorphic and sociological systems such as the Maori marae and the Hawaiian ohana, where land and people were organized as unified sustenance units. These systems likely evolved from early errors of over-clearing, excessive burning, and the extinction of useful animals before reaching ecological equilibrium. The stable tropical landscape requires a holistic hill-to-shore design that protects water, soil, and biodiversity while providing for human needs at every elevation zone.
 

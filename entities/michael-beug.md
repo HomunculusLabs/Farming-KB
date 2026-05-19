@@ -11,7 +11,7 @@ sources:
   - raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 
-# Michael W. Beug
+## Michael W. Beug
 
 Michael W. Beug is an American mycologist and chemist at The Evergreen State College (Olympia, Washington), known for his collaborative analytical work with [[jeremy-bigwood]] on psilocybin and psilocin quantification, and for his extensive contributions to mushroom toxicity education and identification.
 

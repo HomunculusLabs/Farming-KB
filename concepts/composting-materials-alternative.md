@@ -7,7 +7,7 @@ tags: [compost, composting, organic, gardening, sustainability, recycling]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Composting Materials — Alternative Sources
+## Composting Materials — Alternative Sources
 
 ## Overview
 

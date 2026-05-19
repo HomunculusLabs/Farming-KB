@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# PCR Protocols and mRNA Transcript Analysis in Fungi
+## PCR Protocols and mRNA Transcript Analysis in Fungi
 
 ## Overview
 

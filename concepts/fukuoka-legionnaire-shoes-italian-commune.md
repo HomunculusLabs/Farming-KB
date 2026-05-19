@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 tags: [fukuoka, natural-farming, soil-compaction, footwear, italy, european-travels, soil-health]
 ---
 
-# Legionnaire Shoes and Soil Compaction in Italian Farming Communes
+## Legionnaire Shoes and Soil Compaction in Italian Farming Communes
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# World of the Yakuruna
+## World of the Yakuruna
 
 The yakuruna are water people — spiritual beings who inhabit the depths of Amazonian rivers, lakes, and underwater cities. In [[amazonian-ship-aceropunta-and-visionary-cosmology]], they represent a complex civilization beneath the water's surface, with distinct castes, allies, enemies, and magical technologies. Understanding the yakuruna world is essential for murayas (specialist water shamans) who must negotiate with these beings to rescue lost souls, acquire healing knowledge, and defend against aquatic sorcery.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Garlic Growing - Organic Methods
+## Garlic Growing - Organic Methods
 
 Sometimes classified as an herb, garlic is one of the easiest
 vegetables to grow, needing only a warm, sunny location. It is sown

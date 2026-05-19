@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, ecology, north-carolina, biodiversity, fungi]
 date: 2026-04-28
 updated: 2026-05-09
-sources: [/Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md]
+sources: ["raw/papers/carolina-mushrooms_08qxp.md"]
 type: concept
 ---
-# North Carolina Mycodiversity
+## North Carolina Mycodiversity
 
 North Carolina harbors one of the most diverse fungal assemblages in eastern
 North America, owing to its dramatic latitudinal span from the coastal plain

@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, troubleshooting, pollinators, pest-manage
 sources: []
 ---
 
-# Beekeeping Problems and Solutions
+## Beekeeping Problems and Solutions
 
 Beekeeping involves constant problem-solving. This guide covers the most
 common and serious issues beekeepers face, from parasitic mites to queen

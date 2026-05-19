@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Solomon on Thinning, Spacing, and Direct Seeding
+## Solomon on Thinning, Spacing, and Direct Seeding
 
 From [[solomon-row-covers-and-season-extension]]
 - [[solomon-gardening-when-it-counts-index]]

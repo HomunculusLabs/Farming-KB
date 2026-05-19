@@ -5,7 +5,7 @@ type: entity
 tags: [spawn, commercial, brand, historical, brick-spawn, 19th-century, cultivation]
 ---
 
-# Cewey Mushroom Spawn
+## Cewey Mushroom Spawn
 
 ## Description
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Quality Testing
+## Cannabis Quality Testing
 
 ## Overview
 

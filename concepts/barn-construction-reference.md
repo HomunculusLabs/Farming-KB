@@ -19,7 +19,7 @@ sources:
 - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 ---
 
-# Barn Construction Reference
+## Barn Construction Reference
 
 Ventilation design, roofing options, construction materials, utilities, fire safety, and cost estimates for barn construction. See [[barn-design]] for layout, flooring, and bedding details.
 

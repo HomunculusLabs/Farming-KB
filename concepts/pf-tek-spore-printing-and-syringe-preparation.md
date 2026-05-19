@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Spore Printing and Syringe Preparation
+## PF TEK Spore Printing and Syringe Preparation
 
 ## Overview
 

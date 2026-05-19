@@ -6,7 +6,7 @@ created: 2026-05-10
 tags: [biography, agriculture, farming, philosophy, japan, ecology]
 ---
 
-# Masanobu Fukuoka
+## Masanobu Fukuoka
 
 ## Overview
 

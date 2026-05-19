@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: entity
 ---
 
-# Sudangrass (Sorghum sudanense)
+## Sudangrass (Sorghum sudanense)
 
 ## Description
 

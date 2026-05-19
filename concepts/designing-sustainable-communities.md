@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Designing Sustainable Communities
+## Designing Sustainable Communities
 
 A core theme in David Holmgren's *Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]]* is that sustainable culture cannot be imposed from above — it must be **organic and iterative**, emerging through the same processes of observation, feedback, and adaptive design that govern ecological systems. Sustainable communities are not static endpoints but living systems that evolve through continual refinement and response to changing conditions.
 

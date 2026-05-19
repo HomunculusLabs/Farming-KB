@@ -16,7 +16,7 @@ sources:
   - "Cheng, C.L. et al. (2010). Chemical constituents and bioactivities of Zingiber zerumbet. Taiwanese Journal of Agricultural Chemistry and Food Science, 48, 257-266."
 ---
 
-# Zingiber zerumbet (Shampoo Ginger)
+## Zingiber zerumbet (Shampoo Ginger)
 
 ## Overview
 

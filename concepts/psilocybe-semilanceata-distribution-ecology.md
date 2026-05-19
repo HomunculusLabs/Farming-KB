@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# [[guzman-central-america-neurotropic-fungi-species-distribution]] and Ecology
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Ecology
 
 **Psilocybe semilanceata**, commonly known as the **liberty cap**, is one of the most widely distributed and well studied [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in Europe, where it fruits abundantly in autumn pastures. Remarkably, despite its pantropical and pantemperate distribution spanning six continents, it is **absent from Mexico**, the [[guzman-allen-gartz-india-neurotropic-fungi-diversity-psychoactive-species]].
 

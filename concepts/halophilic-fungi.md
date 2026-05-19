@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources:
   - "raw/papers/ross-mars-permaculture-garden.md"
 ---
-# Halophilic Fungi
+## Halophilic Fungi
 Halophilic and halotolerant fungi are adapted to environments with
 elevated salt concentrations, ranging from moderately saline soils to
 hypersaline salt pans and marine environments. These fungi occupy a

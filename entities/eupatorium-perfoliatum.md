@@ -18,7 +18,7 @@ sources:
   - Abdelgaleil, S.A.M. (2010). "Antifeedant and growth inhibitory effects of Eupatorium extracts." Journal of Pest Science, 83(2), 117-124.
 ---
 
-# Eupatorium perfoliatum
+## Eupatorium perfoliatum
 
 ## Overview
 

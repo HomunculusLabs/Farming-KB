@@ -16,7 +16,7 @@ sources:
   - Guy CL (1990). "Cold acclimation and freezing stress tolerance: role of protein metabolism." Annual Review of Plant Physiology and Plant Molecular Biology, 41, 187-223.
 ---
 
-# Plant Antifreeze Proteins and Cold Acclimation
+## Plant Antifreeze Proteins and Cold Acclimation
 
 Plant antifreeze proteins (AFPs) are a class of ice-binding proteins that inhibit the growth and recrystallization of ice crystals in plant tissues. They were first discovered in winter rye ([[secale-cereale]]) in 1992 and have since been identified in over 60 plant species, primarily from cold-adapted taxa.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [person, shamaness, mazatec, mushroom-healer, huautla, traditional-medicine, curandera]
 ---
 
-# Irene Pineda de Figueroa
+## Irene Pineda de Figueroa
 
 ## Description
 

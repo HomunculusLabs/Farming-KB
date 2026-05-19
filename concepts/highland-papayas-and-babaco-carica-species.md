@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# Highland Papayas and Babaco (*Carica* spp.)
+## Highland Papayas and Babaco (*Carica* spp.)
 
 ## Overview
 

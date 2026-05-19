@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Wood-Rotting Fungi for Effluent Decolorization
+## Wood-Rotting Fungi for Effluent Decolorization
 
 White-rot fungi offer biological alternatives to physicochemical and chemical treatments for decolorizing industrial effluents containing recalcitrant chromophores. These fungi degrade lignin, a complex three-dimensional polyaromatic polymer, using extracellular enzyme systems that also attack diverse xenobiotic aromatic compounds. Their ability to produce lignin-degrading enzymes makes them uniquely suited for treating colored effluents that resist conventional biological treatment.
 

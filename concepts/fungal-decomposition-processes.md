@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# [[saprotrophic-fungi]] release exoenzymes into their environment to break down complex organic molecules in dead plant and animal remains. The degradative products are then absorbed through the fungal hyphal surface. This reliance on extracellular enzymatic activity is less efficient than internal digestion, meaning some mineralized nutrients escape absorption and enter the soil solution as available fertility.
+## [[saprotrophic-fungi]] release exoenzymes into their environment to break down complex organic molecules in dead plant and animal remains. The degradative products are then absorbed through the fungal hyphal surface. This reliance on extracellular enzymatic activity is less efficient than internal digestion, meaning some mineralized nutrients escape absorption and enter the soil solution as available fertility.
 
 The rate of decomposition depends on three main factors:
 - **Resource quality**: Chemical composition of the substrate (C:N ratio, lignin:N ratio, polyphenol content)

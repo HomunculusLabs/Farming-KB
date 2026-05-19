@@ -5,7 +5,7 @@ type: entity
 tags: [plants, permaculture, mineral-exploration, soil-indicators, biogeology]
 ---
 
-# Mineral Indicator Plants
+## Mineral Indicator Plants
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# Lactic Acid Bacteria in KNF
+## Lactic Acid Bacteria in KNF
 
 Lactic Acid Bacteria (LAB) are a critical input in
 [[cervantes-pest-disease-prevention-overview]] in crops.

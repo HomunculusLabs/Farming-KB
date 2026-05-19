@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin, species]
 ---
 
-# Neotropical Psilocybe Species (Guzman, Allen & Gartz)
+## Neotropical Psilocybe Species (Guzman, Allen & Gartz)
 
 The neotropical region -- spanning Mexico, [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]].
 - P. aztecorum var. aztecorum -- grows at subalpine and alpine elevations up to

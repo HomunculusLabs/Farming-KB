@@ -5,7 +5,7 @@ author: terence-mckenna
 topics: [mdma, crack-cocaine, drug-policy, war-on-drugs, psychedelic-suppression]
 ---
 
-# MDMA and the Drug Terror of the 1980s: Crack Cocaine Economics
+## MDMA and the Drug Terror of the 1980s: Crack Cocaine Economics
 
 The 1980s represented a pivotal decade in the history of psychoactive
 substances, marked by the emergence of MDMA (Ecstasy) as a therapeutic

@@ -1,4 +1,8 @@
-# Brassinosteroid Growth Response Across Substrate Systems: Agar vs. Dung/Grain
+---
+title: "Brassinosteroid Growth Response Across Substrate Systems: Agar vs. Dung/Grain"
+tags:
+  - concept
+---
 
 ## Overview
 

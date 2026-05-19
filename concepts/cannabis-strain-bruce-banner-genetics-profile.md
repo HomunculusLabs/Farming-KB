@@ -6,7 +6,7 @@ strawberry-diesel]
 created: 2026-05-11
 ---
 
-# Bruce Banner: Genetics Profile and Cultivation
+## Bruce Banner: Genetics Profile and Cultivation
 
 Bruce Banner is a powerhouse hybrid cannabis strain that has earned a reputation as one of the most potent varieties available in contemporary cannabis markets.
 Named after the Marvel Comics character who transforms into the Incredible Hulk — a reference to the strain's deceptively mild initial onset followed by an overwhelming wave of psychoactive intensity — Bruce Banner consistently ranks among the highest-THC strains tested in commercial and competitive settings.

@@ -1,4 +1,8 @@
-# Vegetable Seed Saving and Germination
+---
+title: "Vegetable Seed Saving and Germination"
+tags:
+  - concept
+---
 
 The seed industry is a complex business with significant economic forces
 shaping what gardeners can buy and grow. [[seed-company-supplier-reference]] is a narrow-margin business with considerable risk.

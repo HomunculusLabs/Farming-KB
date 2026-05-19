@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 7 — Design from Patterns to Details
+## Permaculture Principle 7 — Design from Patterns to Details
 
 The seventh of David Holmgren's twelve permaculture design principles. By stepping back and observing the patterns in nature and society, we can design solutions that work at multiple scales. The details are then filled in once the overall pattern is established.
 

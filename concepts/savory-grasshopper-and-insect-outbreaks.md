@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Grasshopper and Insect Outbreaks
+## Grasshopper and Insect Outbreaks
 
 Grasshopper plagues are among the most visible and economically damaging
 symptoms of ecosystem dysfunction on rangelands and croplands. Savory's

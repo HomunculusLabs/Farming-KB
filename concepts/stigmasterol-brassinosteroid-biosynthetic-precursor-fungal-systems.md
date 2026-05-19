@@ -4,7 +4,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 topics: [stigmasterol, biosynthesis, brassinosteroid, sterol pathway, fungal chemistry]
 ---
 
-# Stigmasterol as Biosynthetic Precursor to Brassinosteroids in Fungal Systems
+## Stigmasterol as Biosynthetic Precursor to Brassinosteroids in Fungal Systems
 
 ## Overview
 

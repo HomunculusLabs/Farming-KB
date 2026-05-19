@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Sepp Holzer Permaculture — Natural Water Landscapes and Climate Restoration
+## Sepp Holzer Permaculture — Natural Water Landscapes and Climate Restoration
 
 ## Overview
 

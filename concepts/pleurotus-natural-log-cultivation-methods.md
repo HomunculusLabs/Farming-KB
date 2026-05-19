@@ -8,7 +8,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
 
-# Pleurotus Natural [[pleurotus-substrate-biological-efficiency]] data
+## Pleurotus Natural [[pleurotus-substrate-biological-efficiency]] data
 -  [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] Methods is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights

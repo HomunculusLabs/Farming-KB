@@ -8,7 +8,7 @@ sources:
   - papers/benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
-# European Truffles
+## European Truffles
 
 Truffles are subterranean fungi, the various species constituting a coherent
 family interesting in structure, almost unique in habitat, unequaled in flavor

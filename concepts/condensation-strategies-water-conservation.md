@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Condensation Strategies for Water Conservation
+## Condensation Strategies for Water Conservation
 
 Where no piped water is available and water is in seriously short supply, trees and gardens need **condensation strategies**. The aim is to condense water either from night air, from transpired water, or from weeds and trimmings, and return it to root level for reuse.
 

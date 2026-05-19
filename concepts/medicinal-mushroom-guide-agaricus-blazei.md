@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-# Agaricus blazei (Brazilian Mushroom)
+## Agaricus blazei (Brazilian Mushroom)
 
 ## Overview
 

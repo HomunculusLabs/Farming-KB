@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# Gartz: Pluteus salicinus: Little-Known Wood-Inhabiting Psilocybin Species
+## Gartz: Pluteus salicinus: Little-Known Wood-Inhabiting Psilocybin Species
 
 ## Overview
 

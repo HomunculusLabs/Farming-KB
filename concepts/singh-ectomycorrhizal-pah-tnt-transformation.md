@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ectomycorrhizal Fungal Transformation of PAHs and TNT
+## Ectomycorrhizal Fungal Transformation of PAHs and TNT
 
 Ectomycorrhizal (ECM) fungi demonstrate significant potential for the
 biotransformation of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and

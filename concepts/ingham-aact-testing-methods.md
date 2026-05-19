@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Ingham — AACT Testing Methods
+## Ingham — AACT Testing Methods
 
 In the *[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] quality, distinguishing it sharply from plate count methods. Testing is considered essential for anyone serious about [[soil-food-web-assessment]], [[thermal-composting-vs-aact]], [[cannabis-extraction-methods]], [[dom]]
 - [[composting]]

@@ -13,7 +13,7 @@ sources:
   - "raw/papers/arthur-j-mushrooms-and-mankind.md"
 type: comparison
 ---
-# Amanita Muscaria Ethnobotany vs Arthur: Mushrooms and Mankind
+## Amanita Muscaria Ethnobotany vs Arthur: Mushrooms and Mankind
 ## Scope and Methodology
 [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]. This
 practice is documented across multiple Siberian cultures and represents a

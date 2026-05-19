@@ -8,7 +8,7 @@ sources:
   - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-# Entheogenic Knowledge and Secret Societies
+## Entheogenic Knowledge and Secret Societies
 
 The theory that secret societies and fraternal orders have preserved — and suppressed — knowledge of entheogenic substances is a recurring theme in alternative scholarship on religion and pharmacology. Proponents argue that institutions including Freemasonry, the Catholic Church, and various political hierarchies have systematically controlled access to consciousness-altering plants and fungi to maintain power over populations.
 

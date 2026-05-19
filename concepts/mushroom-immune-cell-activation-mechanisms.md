@@ -7,7 +7,7 @@ tags: mycology, mushrooms, cultivation]
 sources: []
 ---
 
-# Mushroom Immune Cell Activation Mechanisms
+## Mushroom Immune Cell Activation Mechanisms
 
 [[beta-glucan-receptor-binding]] could be the primary mechanism by which beta-glucans activate various immune cell types.
 

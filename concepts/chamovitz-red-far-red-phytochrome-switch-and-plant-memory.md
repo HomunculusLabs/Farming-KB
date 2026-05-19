@@ -4,7 +4,7 @@ source: grahamholmes-what-a-plant-knowsindd.md (phytochrome-red-far-red-light-sw
 created: 2026-05-08
 ---
 
-# Red-Far-Red Phytochrome Switch and Plant Memory
+## Red-Far-Red Phytochrome Switch and Plant Memory
 
 ## Overview
 

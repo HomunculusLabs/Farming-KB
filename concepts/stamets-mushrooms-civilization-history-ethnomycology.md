@@ -5,7 +5,7 @@ tags: [mycology, history, ethnomycology, civilization, mushrooms, culture, relig
 created: 2026-05-11
 ---
 
-# Mushrooms, Civilization and History
+## Mushrooms, Civilization and History
 
 ## Overview
 

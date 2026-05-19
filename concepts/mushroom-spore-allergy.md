@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms, cultivation]
 sources: []
 ---
-# Mushroom Spore Allergy and Sensitivity Mushroom cultivation and handling carry specific health risks related to spore exposure, allergic reactions, and biochemical sensitivities. The most significant occupational hazard in commercial mushroom farming is spore-related respiratory illness, while consumers face risks from specific biochemical compounds in certain species. Understanding these risks is essential for anyone engaged in [[pleurotus-pulmonarius]] ([[pleurotus-eryngii]] ([[laminar-flow-hood]] for [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+## Mushroom Spore Allergy and Sensitivity Mushroom cultivation and handling carry specific health risks related to spore exposure, allergic reactions, and biochemical sensitivities. The most significant occupational hazard in commercial mushroom farming is spore-related respiratory illness, while consumers face risks from specific biochemical compounds in certain species. Understanding these risks is essential for anyone engaged in [[pleurotus-pulmonarius]] ([[pleurotus-eryngii]] ([[laminar-flow-hood]] for [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

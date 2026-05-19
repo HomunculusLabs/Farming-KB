@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, medicinal-mushrooms, ganoderma, grifola, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Medicinal Mushrooms: Reishi and Maitake
+## Medicinal Mushrooms: Reishi and Maitake
 
 Among the polypore mushrooms, Reishi (Ganoderma lucidum) and Maitake
 (Grifola frondosa) occupy a special position at the intersection of

@@ -1,4 +1,8 @@
-# Sativa Haze Lineage: Breeding History from Landrace to Modern Hybrid
+---
+title: "Sativa Haze Lineage: Breeding History from Landrace to Modern Hybrid"
+tags:
+  - concept
+---
 
 ## Overview
 

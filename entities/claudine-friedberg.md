@@ -5,7 +5,7 @@ type: entity
 tags: [person, ethnobotanist, researcher, banisteriopsis, ayahuasca, french]
 ---
 
-# Claudine Friedberg
+## Claudine Friedberg
 
 ## Description
 

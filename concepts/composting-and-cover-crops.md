@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Composting and [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|Cover]] Crops
+## Composting and [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|Cover]] Crops
 
 ## Overview
 

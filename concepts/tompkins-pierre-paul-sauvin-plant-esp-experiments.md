@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Pierre Paul Sauvin and Plant ESP Electronics
+## Pierre Paul Sauvin and Plant ESP Electronics
 
 ## Overview
 

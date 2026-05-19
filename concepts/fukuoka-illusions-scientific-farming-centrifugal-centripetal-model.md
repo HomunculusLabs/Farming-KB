@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka on the Illusions of Modern Scientific Farming
+## Fukuoka on the Illusions of Modern Scientific Farming
 
 ## Overview
 

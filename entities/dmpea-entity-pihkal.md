@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DMPEA
+## DMPEA
 
 PIHKAL entry #60. 3,4-DIMETHOXYPHENETHYLAMINE.
 

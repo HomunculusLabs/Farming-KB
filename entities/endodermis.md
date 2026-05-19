@@ -6,7 +6,7 @@ tags: [anatomy, plant-physiology, roots, nutrient-regulation, cell-biology]
 created: 2026-05-14
 ---
 
-# Endodermis
+## Endodermis
 
 ## Description
 

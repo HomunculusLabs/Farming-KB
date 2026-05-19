@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Yopo Snuff
+## Yopo Snuff
 
 Yopo (also known as niopo, nyopa, or yopa) is a powerful psychoactive
 snuff prepared from the toasted seeds of [[virola-snuff]] and in the

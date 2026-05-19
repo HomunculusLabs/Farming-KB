@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Vegetable Gardening in Hard Times
+## Vegetable Gardening in Hard Times
 
 ## Overview
 

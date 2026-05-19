@@ -4,7 +4,7 @@ source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 type: concept
 ---
 
-# Hallucinogens and Dissociative Agents Naturally Growing in the United States
+## Hallucinogens and Dissociative Agents Naturally Growing in the United States
 
 ## Overview
 

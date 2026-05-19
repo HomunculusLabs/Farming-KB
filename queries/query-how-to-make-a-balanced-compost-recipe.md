@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Make a Balanced Compost Recipe
+## How to Make a Balanced Compost Recipe
 
 ## Short Answer
 A balanced compost recipe combines carbon-rich brown materials (leaves, straw,

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# The Vacuole and Tonoplast in Plant Cell Regulation
+## The Vacuole and Tonoplast in Plant Cell Regulation
 
 The vacuole is the largest organelle in most mature plant cells, often occupying 80-90% of the cell's volume. Surrounded by the tonoplast membrane, it serves as the cell's primary storage compartment, waste disposal system, and pH regulation device. The coordination between the tonoplast and the plasmalemma is one of the most elegant aspects of plant cell biology.
 

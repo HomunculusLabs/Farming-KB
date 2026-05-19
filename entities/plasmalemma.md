@@ -5,7 +5,7 @@ type: entity
 tags: [cell-biology, plant-physiology, membrane, nutrient-uptake, transport]
 ---
 
-# Plasmalemma (Plasma Membrane)
+## Plasmalemma (Plasma Membrane)
 
 ## Description
 

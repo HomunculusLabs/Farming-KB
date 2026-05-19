@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Read Cannabis Trichomes for the Perfect Harvest Time
+## How to Read Cannabis Trichomes for the Perfect Harvest Time
 
 ## Short Answer
 Cannabis trichomes change from clear to cloudy (milky) to amber as they mature, 

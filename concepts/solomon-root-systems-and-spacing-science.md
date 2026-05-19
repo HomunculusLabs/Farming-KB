@@ -7,7 +7,7 @@ tags: plant-spacing, soil-science
 type: concept
 ---
 
-# Solomon Root Systems and Plant Spacing Science
+## Solomon Root Systems and Plant Spacing Science
 
 ## The Foundation: Understanding Root Systems
 

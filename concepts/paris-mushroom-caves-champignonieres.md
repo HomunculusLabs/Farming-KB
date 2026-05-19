@@ -5,7 +5,7 @@ source: Benjamin duggar-mushroom-growing-history-and-methods (1915)
 tags: [paris-caves, champignonniere, mushroom-cultivation, underground, france, limestone-quarries]
 ---
 
-# Paris Mushroom Caves (Champignonnières)
+## Paris Mushroom Caves (Champignonnières)
 
 ## The Subterranean Mushroom Industry
 

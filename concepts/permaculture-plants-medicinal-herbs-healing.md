@@ -8,7 +8,7 @@ type: concept
 tags: [culture, healing, medicine, permaculture, plants]
 ---
 
-# Permaculture Medicinal Herbs and Healing Plants
+## Permaculture Medicinal Herbs and Healing Plants
 
 Medicinal plants have been integral to human and animal health throughout history. In [[permaculture-designers-manual-animal-forage-systems]] and fodder systems, allowing animals to access their own medicines. Animals browse the herbs as they need them. Not all herbs suit all areas, but as broad a spectrum as possible should be made available at all times:
 

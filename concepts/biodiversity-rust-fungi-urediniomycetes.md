@@ -4,11 +4,11 @@ rust-fungist Fungi (Urediniomycetes) psilocybe-genus-diversity-and-taxonomy"
 tags: [mycology, rust-fungi, urediniomycetes, plant-pathogens, biodiversity]
 date: 2026-04-28
 updated: 2026-05-09
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 created: 2026-04-28
 type: concept
 ---
-# Rust Fungi (Urediniomycetes) Diversity and Taxonomy
+## Rust Fungi (Urediniomycetes) Diversity and Taxonomy
 
 Rust fungi (Order Uredinales, Class Urediniomycetes) are among the most
 economically important groups of plant-pathogenic fungi, causing diseases

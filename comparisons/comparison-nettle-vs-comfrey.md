@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Nettle vs Comfrey
+## Nettle vs Comfrey
 
 ## Overview
 

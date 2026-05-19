@@ -23,7 +23,7 @@ sources:
   - "Cichewicz, R.H. & Thorpe, P.A. (1996). The mycelium-running-mushroom-antimicrobial-properties-species-chart of chile peppers (Capsicum species) and their uses in Mayan medicine. Journal of Ethnopharmacology, 52(2), 61-70."
 ---
 
-# Capsicum annuum (Chili Pepper)
+## Capsicum annuum (Chili Pepper)
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [fungi, mycology, health, biology, troubleshooting, species-profiles]
 sources: []
 ---
 
-# Mold Identification Guide
+## Mold Identification Guide
 
 Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
 

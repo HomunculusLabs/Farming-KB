@@ -5,7 +5,7 @@ source_author: Masanobu Fukuoka
 tags: [natural-farming, agriculture, petroleum, synthetic-food, industrial-agriculture, fukuoka]
 ---
 
-# Petroleum-Based Agriculture and Synthetic Food Critique
+## Petroleum-Based Agriculture and Synthetic Food Critique
 
 ## Overview
 

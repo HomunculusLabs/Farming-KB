@@ -6,7 +6,7 @@ tags: [aact, compost-tea, ingredients, bacterial-foods, fungal-foods, molasses, 
 created: 2026-05-09
 ---
 
-# AACT Ingredient Classification: Bacterial Foods, Fungal Foods, and Minerals
+## AACT Ingredient Classification: Bacterial Foods, Fungal Foods, and Minerals
 
 ## Overview
 

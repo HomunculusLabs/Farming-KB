@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Pasteurization vs Sterilization Methods
+## Pasteurization vs Sterilization Methods
 
 Mushroom cultivators employ two fundamentally different approaches to
 [[mushroom-cultivation-sterile-technique|sterile technique]] is essential to maintain

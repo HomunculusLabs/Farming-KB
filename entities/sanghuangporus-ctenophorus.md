@@ -18,7 +18,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Sanghuangporus ctenophorus
+## Sanghuangporus ctenophorus
 
 ## Overview
 

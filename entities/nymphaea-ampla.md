@@ -9,7 +9,7 @@ sources:
   - "Domain knowledge — ethnobotanical and pharmacological literature"
 ---
 
-# Nymphaea ampla
+## Nymphaea ampla
 
 Nymphaea ampla is an aquatic plant in the family Nymphaeaceae, commonly
 known as the white water lily or dotleaf waterlily. Native to tropical

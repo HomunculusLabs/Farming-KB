@@ -1,4 +1,8 @@
-# Soil Fertility Building Gradient — Solomon's Stepwise Approach
+---
+title: "Soil Fertility Building Gradient — Solomon's Stepwise Approach"
+tags:
+  - concept
+---
 
 ## Overview
 In *[[gardening-when-it-counts]]*, [[soil-health-and-management]].
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 Successful integration of soil fertility building gradient solomon into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

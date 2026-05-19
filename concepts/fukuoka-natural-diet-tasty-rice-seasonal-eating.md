@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka's Natural Diet Philosophy, Tasty Rice Critique, and Seasonal Eating
+## Fukuoka's Natural Diet Philosophy, Tasty Rice Critique, and Seasonal Eating
 
 [[masanobu-fukuoka]]'s philosophy of natural diet extends his [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]] lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring [[beneficial-indigenous-microorganisms-natural-farming]] — both require abandoning [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]] — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body's deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
 

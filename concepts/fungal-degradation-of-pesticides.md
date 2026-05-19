@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Fungal Degradation of Pesticides and Herbicides
+## Fungal Degradation of Pesticides and Herbicides
 
 Pesticides and herbicides constitute a major class of environmental pollutants.
 Fungi degrade these compounds through enzymatic transformation, mineralization,

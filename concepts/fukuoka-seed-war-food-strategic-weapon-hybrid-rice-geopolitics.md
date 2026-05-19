@@ -5,7 +5,7 @@ tags: [seed-war, food-weapon, hybrid-rice, geopolitics, agricultural-policy, see
 created: 2026-05-08
 ---
 
-# The Seed War: Food as Strategic Weapon and Hybrid Rice Geopolitics
+## The Seed War: Food as Strategic Weapon and Hybrid Rice Geopolitics
 
 ## Overview
 

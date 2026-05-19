@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Excavation Tools and Drilling Methods
+## Excavation Tools and Drilling Methods
 
 Beyond the primary earthmoving machines used for large-scale grading and terracing, [[earthmoving-machinery]]
 - [[earth-resources-excavation]]

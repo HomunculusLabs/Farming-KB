@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Terrace Systems for Slope Agriculture
+## Terrace Systems for Slope Agriculture
 
 Terrace systems are among the most productive and enduring earthworks in permaculture, transforming steep, erosion-prone slopes into stable, productive agricultural land. From the ancient rice paddies of the Ifugao people in the Philippines—some continuously productive for over 5,000 years—to modern garden terraces, these systems demonstrate the power of thoughtful earth-shaping for soil and [[vetiver-grass]], comfrey, bamboo, palm fronds, Aleurites spp., and Cinnamomum spp.
 

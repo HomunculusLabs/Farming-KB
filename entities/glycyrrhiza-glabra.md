@@ -10,7 +10,7 @@ sources:
   - "https://pubmed.ncbi.nlm.nih.gov/?term=glycyrrhizin+licorice+review"
   - "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/glycyrrhiza-glabra"
 ---
-# Glycyrrhiza glabra
+## Glycyrrhiza glabra
 Glycyrrhiza glabra, commonly known as licorice (or liquorice), is a
 perennial herbaceous legume native to Southern Europe, the Middle East,
 and parts of Asia. One of the most extensively used medicinal plants in

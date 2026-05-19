@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# The Field Ecosystem of a Natural Farm: Insects, Frogs, and Dragonflies
+## The Field Ecosystem of a Natural Farm: Insects, Frogs, and Dragonflies
 
 ## Overview
 

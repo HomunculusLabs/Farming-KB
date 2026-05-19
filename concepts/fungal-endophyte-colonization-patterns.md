@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Endophyte Colonization Patterns
+## Fungal Endophyte Colonization Patterns
 Fungal endophyte colonization of host plants follows distinct
 patterns that vary by host species, tissue type, fungal group, and
 environmental conditions. Understanding these patterns is essential

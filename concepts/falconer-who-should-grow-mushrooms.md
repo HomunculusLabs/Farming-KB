@@ -8,14 +8,12 @@ tags:
   ]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md,
+  "]
 type: concept
 ---
 
-# Who Should Grow Mushrooms
+## Who Should Grow Mushrooms
 
 Mushroom-growing is a branch of horticulture that
 has been too much neglected by Americans, and one
@@ -119,3 +117,5 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations [[knf-imo-diversity-and-best-practices]].
+
+Anyone with curiosity and basic attention to cleanliness can successfully cultivate mushrooms at home with the right guidance and materials.

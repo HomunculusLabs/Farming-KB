@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Biological Indicators and Test Strips
+## Soil Biological Indicators and Test Strips
 
 ## Mineral Fertilisers and Soil Amendments
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Melanoma (Malignant Skin Cancer)
+## Cannabis and Melanoma (Malignant Skin Cancer)
 
 ## Overview
 

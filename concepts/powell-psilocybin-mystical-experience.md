@@ -9,7 +9,7 @@ tags: [mysticism, psilocybin]
 updated: 2026-04-26
 ---
 
-# Psilocybin and the Mystical Experience
+## Psilocybin and the Mystical Experience
 
 The mystical experience induced by psilocybin is the central phenomenon in Powell's *The
 [[entheogenic-fungi-history]] are key to understanding both mind and reality.

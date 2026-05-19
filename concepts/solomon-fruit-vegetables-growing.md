@@ -8,7 +8,7 @@ sources:
   - "raw/papers/water-for-every-farming-gary-rajala.md"
 ---
 
-# [[cover-crops]]
+## [[cover-crops]]
 - Chit seeds for earliest plantings (pre-sprout on moist paper)
 - Bush varieties: grow in massed rows across wide beds; concentrate harvest, leave soil in excellent condition
 - Climbing varieties (Alderman/Tall Telephone, Sugar Snap): superior flavor, extended harvest, need 6-foot trellis

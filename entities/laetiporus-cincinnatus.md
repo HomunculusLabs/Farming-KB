@@ -20,7 +20,7 @@ sources:
   - https://en.wikipedia.org/wiki/Laetiporus_cincinnatus
 ---
 
-# Laetiporus cincinnatus
+## Laetiporus cincinnatus
 
 ## Overview
 

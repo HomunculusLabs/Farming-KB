@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Children and Mushroom Discrimination
+## Children and Mushroom Discrimination
 
 ## Overview
 

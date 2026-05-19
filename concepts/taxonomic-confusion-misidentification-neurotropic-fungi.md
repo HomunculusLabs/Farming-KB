@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Taxonomic Confusion and Misidentification in Neurotropic Fungi
+## Taxonomic Confusion and Misidentification in Neurotropic Fungi
 
 ## Overview
 

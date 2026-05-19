@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# Harmaline (3,4-Dihydroharmine)
+## Harmaline (3,4-Dihydroharmine)
 
 TIHKAL entry #13. A beta-carboline alkaloid and potent monoamine oxidase inhibitor (MAOI) found in [[golden-guide-syrian-rue-and-maoi-plants]]) and Banisteriopsis caapi (ayahuasca). Harmaline is both psychoactive in its own right and pharmacologically significant as an enzyme inhibitor that enables [[turner-harmala-alkaloids-preparation-and-dosage]]) |
 

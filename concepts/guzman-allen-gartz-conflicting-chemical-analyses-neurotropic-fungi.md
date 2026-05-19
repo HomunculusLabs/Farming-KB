@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Conflicting Chemical Analyses of Neurotropic Fungi
+## Conflicting Chemical Analyses of Neurotropic Fungi
 
 One of the most persistent problems in the study of neurotropic fungi
 is the striking contradiction between chemical analyses performed by

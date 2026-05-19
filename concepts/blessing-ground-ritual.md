@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Blessing the Ground Ritual
+## Blessing the Ground Ritual
 
 The Blessing of the Ground is a foundational ritual from "[[coleman-sunlight-and-winter-crop-growth-rates]].
 

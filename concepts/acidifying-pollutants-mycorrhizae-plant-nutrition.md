@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Acidifying Pollutants, Mycorrhizae, and Plant Nutrient Uptake
+## Acidifying Pollutants, Mycorrhizae, and Plant Nutrient Uptake
 
 Acidifying pollutants from atmospheric deposition exert profound [[faunal-grazing-effects-on-mycorrhizal-function]] symbioses and plant nutrient acquisition. The mechanisms involve both direct toxicity to fungal structures and indirect effects through altered soil chemistry and host plant physiology.
 

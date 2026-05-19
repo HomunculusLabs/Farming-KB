@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Thermodynamics and Energy Flow in Permaculture Design
+## Thermodynamics and Energy Flow in Permaculture Design
 
 ## Energy as the Central Concern of Design
 

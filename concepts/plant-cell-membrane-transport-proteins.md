@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Cell Membrane Transport Proteins
+## Plant Cell Membrane Transport Proteins
 
 Integral membrane proteins (IMPs) embedded in the plant cell plasmalemma are the primary mechanism by which nutrients enter and exit plant cells. They make up 50-75% of the membrane surface and are key to how plants eat.
 

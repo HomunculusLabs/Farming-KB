@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Beneficial Insects and Biological Pest Control
+## Beneficial Insects and Biological Pest Control
 
 The [[fukuoka-pesticide-cascade-collapse-natural-balance]] ensures
 that predators exist to feed on garden pests. A simple rule for

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Spreader Banks and Interceptor Drains
+## Spreader Banks and Interceptor Drains
 
 Spreader banks and interceptor drains are complementary earthworks used in [[soil-life]])
 - Residual biocides (DDT, Dieldrin, Hexachlor from dairy cattle)

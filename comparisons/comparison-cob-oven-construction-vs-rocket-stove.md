@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Cob Oven Construction vs Rocket Stove
+## Cob Oven Construction vs Rocket Stove
 
 ## Overview
 

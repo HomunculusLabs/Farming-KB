@@ -1,4 +1,8 @@
-# Japan Narcotics Control Law Psilocybin Mushroom Regulation 2002
+---
+title: "Japan Narcotics Control Law Psilocybin Mushroom Regulation 2002"
+tags:
+  - concept
+---
 
 ## Overview
 

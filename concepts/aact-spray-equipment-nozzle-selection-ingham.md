@@ -10,7 +10,7 @@ topics:
   - foliar application
 ---
 
-# AACT Spray Equipment and Nozzle Selection
+## AACT Spray Equipment and Nozzle Selection
 
 ## Overview
 

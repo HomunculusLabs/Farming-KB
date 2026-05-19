@@ -5,7 +5,7 @@ tags: [philosophy, language, noosphere, mckenna, information-theory, evolution, 
 date: 2026-05-08
 ---
 
-# Language as Self-Replicating Information System and the Noosphere
+## Language as Self-Replicating Information System and the Noosphere
 
 ## Overview
 

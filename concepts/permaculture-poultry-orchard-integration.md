@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-# Permaculture Poultry Orchard Integration Integrating poultry into orchards and food production systems is one of the most productive and mutually beneficial strategies in [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]
+## Permaculture Poultry Orchard Integration Integrating poultry into orchards and food production systems is one of the most productive and mutually beneficial strategies in [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]
 for easy manure transfer while also connecting to a forage garden. When
 starting out, crowd everything in as much as possible and stick the chicken
 coop as close to the house as feasible. It is easier to thin things out

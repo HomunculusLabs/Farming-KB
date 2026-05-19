@@ -5,7 +5,7 @@ type: entity
 tags: [folk-illness, culture-bound-syndrome, amazonian-medicine, witchcraft, peruvian-healing]
 ---
 
-# Dano
+## Dano
 
 ## Description
 

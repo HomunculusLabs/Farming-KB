@@ -5,7 +5,7 @@ type: entity
 tags: [concept, intensive-farming, land-use, season-extension, eliot-coleman]
 ---
 
-# Hidden Farm Concept
+## Hidden Farm Concept
 
 ## Description
 

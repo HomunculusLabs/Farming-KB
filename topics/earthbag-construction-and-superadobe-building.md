@@ -5,9 +5,9 @@ tags: [natural-building, earthbag, superadobe, permaculture, sustainable-housing
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/concepts/earthbag-construction.md
-  - /Users/t3rpz/wiki/concepts/earthbag-building.md
-  - /Users/t3rpz/wiki/concepts/natfarm-earthbag-construction-method.md
+  - raw/concepts/earthbag-construction.md
+  - raw/concepts/earthbag-building.md
+  - raw/concepts/natfarm-earthbag-construction-method.md
 related_concepts:
   - cob-building
   - straw-bale-construction
@@ -16,7 +16,7 @@ related_concepts:
   - passive-solar-design
 ---
 
-# Earthbag Construction and Superadobe Building
+## Earthbag Construction and Superadobe Building
 
 Earthbag construction is one of the most accessible, affordable, and resilient
 [[garden-hand-tools-solomon]], builders

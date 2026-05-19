@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Options, Decisions, and Map Overlays
+## Permaculture Options, Decisions, and Map Overlays
 
 [[maps]], overlays on those maps, and overlays on the overlays. This approach has value but is at once more expensive, possibly more time-consuming, and potentially the most confusing of all design approaches.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Syrian Rue Seeds of Civilization
+## Syrian Rue Seeds of Civilization
 
 Syrian Rue (*[[datura-metel-old-world-ethnobotany]] and as a key ingredient in modern ayahuasca analog
 preparations.

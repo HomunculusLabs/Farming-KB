@@ -5,7 +5,7 @@ mined: 2026-05-10
 tags: [pharmacology, psilocybin, psilocin, serotonin, 5-HT2A, hallucinogen, neurochemistry, emcdda]
 ---
 
-# Psilocybin and Psilocin Pharmacology: Serotonin 5-HT2A Receptor Mechanism
+## Psilocybin and Psilocin Pharmacology: Serotonin 5-HT2A Receptor Mechanism
 
 ## Chemical Classification
 

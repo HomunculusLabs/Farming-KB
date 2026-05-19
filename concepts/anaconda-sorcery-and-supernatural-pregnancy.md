@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Anaconda Sorcery and Supernatural Pregnancy
+## Anaconda Sorcery and Supernatural Pregnancy
 
 ## Overview
 

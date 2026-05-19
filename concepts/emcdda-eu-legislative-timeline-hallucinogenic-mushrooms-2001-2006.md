@@ -1,4 +1,8 @@
-# EU Member State Legislative Responses to Hallucinogenic Mushrooms (2001-2006)
+---
+title: "EU Member State Legislative Responses to Hallucinogenic Mushrooms (2001-2006)"
+tags:
+  - concept
+---
 
 ## Overview
 

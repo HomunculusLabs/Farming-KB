@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Loquat
+## Loquat
 
 **Type:** Species (Plant)
 **Category:** Evergreen [[mollison-designers-legume-shade-tree-pasture-systems]]; can serve as hedge or windbreak

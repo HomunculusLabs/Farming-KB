@@ -1,4 +1,8 @@
-# Ecological Roles of Mushrooms: Saprophytes, Parasites, and Mycorrhizae
+---
+title: "Ecological Roles of Mushrooms: Saprophytes, Parasites, and Mycorrhizae"
+tags:
+  - concept
+---
 
 Paul Stamets identifies three fundamental ecological roles that fungi play in
 terrestrial ecosystems: saprophytes, parasites, and mycorrhizal partners.

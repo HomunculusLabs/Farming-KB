@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Chop and Drop vs Cover Crops
+## Chop and Drop vs Cover Crops
 
 ## Overview
 Chop and drop [[cover-crop-guide-detailed]]

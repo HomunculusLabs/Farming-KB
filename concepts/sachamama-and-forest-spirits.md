@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Sachamama and Forest Spirits
+## Sachamama and Forest Spirits
 
 The Amazonian rainforest is inhabited by a vast hierarchy of spiritual beings that exist alongside and sometimes interpenetrate the physical world. In [[amaringo-ayahuasca-visions-shipibo-iconography]], these beings range from the colossal [[sachamama]] — a serpent so large it supports an entire ecosystem on its back — to the trickster [[icaros]]. Understanding these entities is fundamental to the practice of vegetalismo.
 

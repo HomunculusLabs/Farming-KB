@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Shiitake Indoor Cultivation
+## Shiitake Indoor Cultivation
 
 Shiitake (*[[lentinula-edodes]]*) is probably the most recognized specialty mushroom in the world and has been cultivated commercially for the past twenty-five years. The indoor cultivation method involves growing shiitakes on sterilized [[oyster-mushroom-supplemented-sawdust-blocks]], a process more intensive than outdoor log cultivation but capable of producing reliable, high-quality yields. A critical and unique feature of indoor [[comparison-enoki-vs-shiitake-cultivation]] is the **browning phase**, a developmental stage in which the colonized substrate forms a protective outer rind from which primordia eventually emerge.
 

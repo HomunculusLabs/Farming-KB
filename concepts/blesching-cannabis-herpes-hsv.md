@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Herpes (HSV-1 and HSV-2)
+## Cannabis and Herpes (HSV-1 and HSV-2)
 
 ## Overview
 

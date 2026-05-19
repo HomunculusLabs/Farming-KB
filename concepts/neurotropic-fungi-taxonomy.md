@@ -6,7 +6,7 @@ tags: [mycology, taxonomy, neurotropic, psilocybin, hallucinogenic, fungi]
 aliases: [hallucinogenic fungi taxonomy, psychotropic mushrooms classification, magic mushroom taxonomy]
 ---
 
-# Neurotropic Fungi Taxonomy
+## Neurotropic Fungi Taxonomy
 
 Neurotropic fungi — also known as hallucinogenic, psychotropic, magic, sacred, psychedelic, or entheogenic mushrooms — encompass a diverse array of fungal species known for their effects on the central nervous system. The comprehensive taxonomic survey by Guzmán, Allen, and Gartz (2000) catalogued **216 known species** of neurotropic fungi worldwide, organized into four principal groups based on their chemical constituents and ethnographic significance.
 

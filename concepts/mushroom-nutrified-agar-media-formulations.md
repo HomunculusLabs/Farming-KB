@@ -13,7 +13,7 @@ tags:
   - laboratory-techniques
 ---
 
-# Mushroom Nutrified Agar Media Formulations
+## Mushroom Nutrified Agar Media Formulations
 
 ## Overview
 

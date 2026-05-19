@@ -9,7 +9,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Leafy Greens: Growing Guide
+## Leafy Greens: Growing Guide
 
 Source: [[coleman-claytonia-winter-harvest-cultivation]], high-demand for spring harvest. Why? [[green-manure-crops]]; till under before seedstalks form
 

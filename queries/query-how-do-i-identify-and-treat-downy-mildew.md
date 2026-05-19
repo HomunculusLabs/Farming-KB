@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Identify and Treat Downy Mildew?
+## How Do I Identify and Treat Downy Mildew?
 
 ## Short Answer
 

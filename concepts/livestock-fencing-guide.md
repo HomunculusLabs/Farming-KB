@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, equipment, construction]
 sources: []
 ---
 
-# Livestock Fencing Guide
+## Livestock Fencing Guide
 
 Fencing is one of the most important investments on a homestead. Good fencing
 keeps animals where they belong, protects them from predators, and enables

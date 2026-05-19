@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# MMDA and the Phenomenology of Closed-Eye Imagery
+## MMDA and the Phenomenology of Closed-Eye Imagery
 
 **Updated:** 2026-04-18
 

@@ -19,7 +19,7 @@ sources:
     Weedmaps News, 2022.
   - AllBud. "Cereal Milk Marijuana Strain." allbud.com, 2023.
 ---
-# Cereal Milk
+## Cereal Milk
 
 ## Overview
 

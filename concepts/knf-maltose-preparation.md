@@ -20,7 +20,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# KNF Maltose Preparation
+## KNF Maltose Preparation
 
 Maltose is a sugar produced from sprouted barley grains. In [[knf-preparations]], maltose serves as an enzyme-rich sugar source for fermentation and as a treatment for soil and plant problems. The sprouting process activates amylase enzymes that convert grain starches into maltose sugar, which is then used to feed microbes and plants.
 

@@ -7,7 +7,7 @@ tags: [plant-nutrition, silicon, beneficial-elements, crop-health]
 sources: []
 ---
 
-# Silicon in Plant Nutrition — Beneficial Element
+## Silicon in Plant Nutrition — Beneficial Element
 
 [[silicon]] (Si) is the second most abundant element in Earth's crust, yet its role
 in plant nutrition was long overlooked. Unlike the 17 essential mineral nutrients

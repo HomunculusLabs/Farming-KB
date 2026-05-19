@@ -7,7 +7,7 @@ sources:
   - raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Plant Light Discrimination Beyond Human Vision
+## Plant Light Discrimination Beyond Human Vision
 
 Plants perceive a far broader range of the [[electromagnetic-spectrum-visible-light-plant-perception]] from violet through red, plants detect and respond to
 both **ultraviolet light** (below 400 nm) and **far-red light** (above 700 nm).

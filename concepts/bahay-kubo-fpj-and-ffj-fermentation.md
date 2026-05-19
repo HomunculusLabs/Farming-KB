@@ -6,7 +6,7 @@ type: concept
 tags: [knf, natural-farming, fpj, ffj, fermentation, bionutrients, carandang, bahay-kubo]
 sources: ["raw/papers/bahay-kubo-indigenous-microorganisms_.md"]
 ---
-# Bahay Kubo — FPJ and FFJ Fermentation Methods
+## Bahay Kubo — FPJ and FFJ Fermentation Methods
 
 Gil Carandang's bionutrient fermentation system transforms plant and fruit materials into potent [[forest-and-bamboo-beneficial-microorganisms]]. The fundamental principle is that fermentation is superior to simple extraction because microorganisms break down complex materials and create enzymes. See [[arbuscular-mycorrhizal-spore-extraction-methods]]:
 

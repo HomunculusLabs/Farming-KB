@@ -6,7 +6,7 @@ topics: ["cannabis", "strains", "sativa", "breeding-history", "california-cannab
 aliases: ["Trainwreck strain", "Arcata Trainwreck", "train wreck breeding"]
 ---
 
-# Trainwreck: History, Genetics, and the "Train Wreck" Breeding Concept
+## Trainwreck: History, Genetics, and the "Train Wreck" Breeding Concept
 
 ## Origin and History
 

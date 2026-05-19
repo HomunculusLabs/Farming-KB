@@ -5,7 +5,7 @@ type: entity
 categories: [people, science, medicine, literature]
 ---
 
-# Lewis Thomas
+## Lewis Thomas
 
 ## Description
 

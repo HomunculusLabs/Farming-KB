@@ -5,7 +5,7 @@ tags: [cannabinoid, minor-cannabinoid, cbn, sleep, sedative, cannabis]
 created: 2025-06-13
 ---
 
-# Cannabinol (CBN)
+## Cannabinol (CBN)
 
 Cannabinol (CBN) is a mildly psychoactive minor cannabinoid found in aged cannabis that is best known for its sedative and sleep-promoting properties. Unlike most cannabinoids, CBN is not produced directly by the cannabis plant's biosynthetic pathway. Instead, CBN is a degradation product of thc that forms through oxidative processes as cannabis flowers age and are exposed to light, heat, and oxygen over time. This unique origin — as the primary degradation product of THC — means that CBN content increases as cannabis ages and THC content decreases, making it the most abundant cannabinoid in old or improperly stored cannabis material.
 

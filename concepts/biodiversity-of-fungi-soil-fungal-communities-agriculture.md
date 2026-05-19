@@ -7,7 +7,7 @@ tags: [fungi, agriculture, soil, biology]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-# Soil Fungal Communities in Agricultural and Grassland Ecosystems
+## Soil Fungal Communities in Agricultural and Grassland Ecosystems
 
 Updated: 2026-04-18
 

@@ -7,7 +7,7 @@ tags: [regenerative, permaculture, cultivation, ecology, water-management]
 sources: [raw/papers/gaias-garden-toby-hemenway.md]
 ---
 
-# Gaia's Garden — Home-Scale Permaculture Methods
+## Gaia's Garden — Home-Scale Permaculture Methods
 
 Toby Hemenway's "Gaia's Garden" (2001, updated 2009) is the most accessible guide to applying permaculture design at home and garden scale. It translates Mollison and Holmgren's principles into practical methods for suburban and rural yards.
 

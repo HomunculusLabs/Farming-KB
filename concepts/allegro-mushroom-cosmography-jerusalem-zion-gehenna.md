@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Mushroom Cosmography: Jerusalem, Zion, and Gehenna
+## Mushroom Cosmography: Jerusalem, Zion, and Gehenna
 
 In [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern cosmography, the physical form of the
 **[[allegro-dead-sea-scrolls]].

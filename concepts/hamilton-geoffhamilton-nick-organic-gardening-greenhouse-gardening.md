@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# [[hamilton-layering-propagation-techniques]] for raising plants from seed in the
+## [[hamilton-layering-propagation-techniques]] for raising plants from seed in the
   greenhouse
 - [[cannabis-organic-fertilizers]] for feeding greenhouse crops
 ## Background and Context

@@ -16,7 +16,7 @@ date: 2024-01-01
 paper: Winston et al. 2014
 ---
 
-# Cannabis Strain Effects on OTU Abundance vs Presence/Absence
+## Cannabis Strain Effects on OTU Abundance vs Presence/Absence
 
 ## Overview
 

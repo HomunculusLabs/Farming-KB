@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Fungal to Bacterial Biomass Ratio in Soil
+## Fungal to Bacterial Biomass Ratio in Soil
 
 The fungal-to-bacterial biomass ratio (F:B ratio) is a key indicator of [[soil-food-web-structure]] and health. It describes the relative abundance of fungal biomass compared to bacterial biomass in a given soil. This ratio is critically important because different plants have evolved to thrive in soils dominated by different [[cannabis-rhizosphere-microbial-communities]]. Understanding and managing the F:B ratio allows gardeners, farmers, and land managers to create soil conditions tailored to the plants they wish to grow.
 

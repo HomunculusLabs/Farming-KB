@@ -10,7 +10,7 @@ tags:
 created: 2026-05-09
 ---
 
-# Jesus Christ and Jack 47
+## Jesus Christ and Jack 47
 
 Two sativa-dominant hybrids from Oner's Volume 3 that represent
 different approaches to breeding high-potency cannabis: Jesus Christ

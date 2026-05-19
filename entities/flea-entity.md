@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# FLEA
+## FLEA
 
 FLEA (N-Hydroxy-N-[[alexander-shulgin]].
 

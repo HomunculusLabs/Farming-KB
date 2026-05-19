@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
+sources: ["raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"]
 ---
-# Rock-Penetrating Fungi and Lithotrophic Interactions Fungi are among the most powerful agents of biological rock weathering on Earth, capable of dissolving and penetrating solid stone through a combination of biochemical and biomechanical mechanisms. As documented in Nicholas Money's Mr. Bloomfield's Orchard, rock-penetrating fungi play critical roles in soil formation, nutrient cycling, and even the initial colonization of land surfaces. These organisms blur the boundary between the biological and geological worlds and are closely linked to mycorrhizal-symbiosis and [[truffle-evolution-and-hypogeous-fungi]]
+## Rock-Penetrating Fungi and Lithotrophic Interactions Fungi are among the most powerful agents of biological rock weathering on Earth, capable of dissolving and penetrating solid stone through a combination of biochemical and biomechanical mechanisms. As documented in Nicholas Money's Mr. Bloomfield's Orchard, rock-penetrating fungi play critical roles in soil formation, nutrient cycling, and even the initial colonization of land surfaces. These organisms blur the boundary between the biological and geological worlds and are closely linked to mycorrhizal-symbiosis and [[truffle-evolution-and-hypogeous-fungi]]
 - fungal-symbiosis-with-plants-beyond-mycorrhizae
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom

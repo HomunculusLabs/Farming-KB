@@ -28,7 +28,7 @@ related_concepts:
   - amanita-muscaria-and-ibotenic-acid-fungi
 ---
 
-# Amanita Mushrooms: History, Chemistry, and Cultural Significance
+## Amanita Mushrooms: History, Chemistry, and Cultural Significance
 
 *[[shroom-cultural-history-hippie-revolution-and-counterculture]], and scholarly debates surrounding *Amanita muscaria*.
 

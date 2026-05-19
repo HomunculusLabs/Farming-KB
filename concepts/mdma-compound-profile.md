@@ -4,10 +4,10 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
+sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 
-# MDMA Compound Profile
+## MDMA Compound Profile
 
 MDMA (3,4-methylenedioxymethamphetamine) is a synthetic psychoactive compound in the phenethylamine and amphetamine classes. Known recreationally as ecstasy or molly, MDMA is distinguished from classical psychedelics by its primary mechanism as a monoamine releaser rather than a 5-HT2A receptor agonist.
 

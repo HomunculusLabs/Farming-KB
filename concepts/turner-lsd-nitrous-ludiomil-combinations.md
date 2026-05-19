@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
 
-# LSD Combinations with Nitrous Oxide and Ludiomil (Turner Guide)
+## LSD Combinations with Nitrous Oxide and Ludiomil (Turner Guide)
 
 ## LSD + Nitrous Oxide
 

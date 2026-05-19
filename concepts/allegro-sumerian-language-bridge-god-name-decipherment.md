@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Sumerian as Linguistic Bridge Between Indo-European and Semitic Families
+## Sumerian as Linguistic Bridge Between Indo-European and Semitic Families
 
 John Allegro's central linguistic thesis in *[[allegro-old-testament-figures-as-fertility-deities]], but, like that of Judaism itself, in a
 pre-Semitic, pre-Hellenic culture that existed in Mesopotamia some two or three thousand
@@ -44,7 +44,7 @@ Arabic words into English cannot express adequately the intention of the speaker
 dangerous misunderstandings can too often arise as a result." The same process that
 obscured biblical meanings continues to impede cross-cultural understanding today.
 
-# Common Religious Ideas Across Cultures
+## Common Religious Ideas Across Cultures
 
 The linguistic bridge does more than connect names; it reveals shared conceptual
 structures. "Not only have the names a common derivation but many of the religious ideas
@@ -60,7 +60,7 @@ out often to be the same." Dionysian processionals, Passover observance, and the
 Christian Eucharist appear different, but Allegro's method is designed to show their
 common origin in a Sumerian fertility cult.
 
-# Summary
+## Summary
 
 Allegro's Sumerian bridge thesis proposes that Sumerian, as the earliest written tongue
 of Mesopotamia, preserves the linguistic key to the shared origins of Indo-European and

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# CMH vs HPS Grow Lights
+## CMH vs HPS Grow Lights
 
 ## Overview
 

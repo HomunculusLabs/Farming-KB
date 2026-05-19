@@ -5,10 +5,10 @@ type: species
 tags: [zygomycete, soil-fungus, fungicolous, myxomycete-colonizer]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Mucor hiemalis
+## Mucor hiemalis
 
 **Type:** Species (Fungus)
 **Category:** Fast-Growing Zygomycete

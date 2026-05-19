@@ -5,7 +5,7 @@ type: entity
 tags: [economics, community, permaculture, barter, local-currency]
 ---
 
-# LET System (Local Employment Trading System)
+## LET System (Local Employment Trading System)
 
 ## Description
 

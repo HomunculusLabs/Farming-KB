@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Ergot of Barley and Wheat — Alkaloid Composition
+## Ergot of Barley and Wheat — Alkaloid Composition
 
 **Source:** The [[wasson-hofmann-ruck-collaboration]].
 

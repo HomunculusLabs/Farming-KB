@@ -1,12 +1,12 @@
 ---
-title: Fungal fungal-metal-transformations-biosorption
+title: "Fungal Metal Transformations"
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi, bioremediation, biogeochemistry, metals]
 sources: []
 ---
-# Fungal Metal Transformations
+## Fungal Metal Transformations
 
 Fungi are integral components of biogeochemical cycling for metals and other
 elements. As decomposer organisms and plant symbionts, they can comprise the

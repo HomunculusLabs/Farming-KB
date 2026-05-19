@@ -7,7 +7,7 @@ tags: [cannabis-strain, sativa, landrace, african, congo, tropical-seeds, indoor
 created: 2026-05-09
 ---
 
-# King Congo — Pure African Sativa Landrace Hybrid
+## King Congo — Pure African Sativa Landrace Hybrid
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# LSD-25 (Lysergic Acid Diethylamide)
+## LSD-25 (Lysergic Acid Diethylamide)
 
 TIHKAL entry #26. The prototypical psychedelic compound, discovered by Albert Hofmann in 1943. LSD remains the most potent known psychedelic by weight (active at 60-200 micrograms orally), with a complex pharmacology that has driven decades of research into consciousness, serotonin receptors, and the neuroscience of perception.
 

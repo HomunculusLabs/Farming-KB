@@ -8,7 +8,7 @@ sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 
-# Ayahuasca and Caapi in Ethnobotany
+## Ayahuasca and Caapi in Ethnobotany
 
 ## Introduction
 

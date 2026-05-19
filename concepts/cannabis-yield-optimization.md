@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Yield Optimization
+## Cannabis Yield Optimization
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 5-TASB
+## 5-TASB
 
 [[scythian-cannabis-steam-bath-ritual]] for 2 h. The aqueous solution was
 cooled to room temperature, extracted with 3x100 mL CH2Cl2, the

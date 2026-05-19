@@ -8,7 +8,7 @@ sources:
 type: concept
 tags: [mushroom-cultivation, psilocybin]
 ---
-# Global Psilocybin Mushroom Distribution
+## Global Psilocybin Mushroom Distribution
 
 Jochen Gartz's worldwide survey reveals that [[psilocybe-semilanceata]] is the most widely used species, with habitat
 expanding east of the Cascade Mountains. [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* grows across the Southwest. California alone

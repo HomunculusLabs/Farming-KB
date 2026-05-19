@@ -8,7 +8,7 @@ sources: [raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.m
 type: concept
 ---
 
-# LAB and Cannabinoid Terpene Biosynthesis Enhancement
+## LAB and Cannabinoid Terpene Biosynthesis Enhancement
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-title: psycholytic-vs-psychedelic-therapy-models|Psycholytic vs metzner-psycholytic-psychedelic-therapy-models Models
+title: "Psycholytic Vs Psychedelic Therapy"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -7,7 +7,7 @@ tags: [psychopharmacology, psychedelics, therapeutic-potential, psychopharmacolo
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Psycholytic vs Psychedelic Therapy Models
+## Psycholytic vs Psychedelic Therapy Models
 
 ## Overview
 

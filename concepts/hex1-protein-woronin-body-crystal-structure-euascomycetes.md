@@ -1,11 +1,11 @@
 ---
 title: Hex1 Protein Woronin Body Crystal Structure Euascomycetes
 source: Fungi in the Environment (Gadd, Watkinson & Dyer, 2007)
-source_path: /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+source_path: raw/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 tags: [fungi, woronin-bodies, hex1-protein, septal-pore, euascomycetes, fungal-cell-biology, peroxisome, crystallization, ascomycota]
 ---
 
-# HEX-1 Protein and Woronin Body Crystal Structure in Euascomycetes
+## HEX-1 Protein and Woronin Body Crystal Structure in Euascomycetes
 
 ## Overview
 

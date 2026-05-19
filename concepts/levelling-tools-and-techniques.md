@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Levelling Tools and Techniques
+## Levelling Tools and Techniques
 
 Levelling is a foundational skill in [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
 - [[mollison-designers-appropriate-technology-small-scale-tools]]

@@ -5,7 +5,7 @@ source_author: S.T. Oner, The Rev
 tags: [cannabis, sativa, auto-flowering, ruderalis, breeding, lowryder, joint-doctor]
 ---
 
-# Auto-Flowering Sativa Development
+## Auto-Flowering Sativa Development
 
 Auto-flowering [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. By incorporating
 *[[query-how-to-grow-chili-peppers-from-seed-to-harvest]]. The challenge has been preserving desirable

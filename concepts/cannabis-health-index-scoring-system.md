@@ -8,7 +8,7 @@ sources:
   - uwe-blesching-the-cannabis-health-index.md
 ---
 
-# The Cannabis Health Index (CHI)
+## The Cannabis Health Index (CHI)
 
 The Cannabis Health Index (CHI) is an evidence-based scoring system
 developed by Uwe Blesching, PhD, for evaluating the scientific

@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Fermented Mixed Compost (FMC) -- Materials, Timing, and Place Selection
+## Fermented Mixed Compost (FMC) -- Materials, Timing, and Place Selection
 
 **Updated:** 2026-04-18
 

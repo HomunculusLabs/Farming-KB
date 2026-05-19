@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Neem
+## Neem
 
 **Type:** Species (Plant)
 **Category:** Multipurpose arid-zone medicinal tree

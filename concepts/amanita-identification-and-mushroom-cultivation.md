@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Amanita Identification and Mushroom Cultivation
+## Amanita Identification and Mushroom Cultivation
 
 ## The Amanita Family: Nature's Most Dangerous Mushrooms
 

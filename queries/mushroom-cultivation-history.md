@@ -14,7 +14,7 @@ sources:
 - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
-# Mushroom Cultivation History
+## Mushroom Cultivation History
 
 Chronological development of mushroom cultivation from ancient Asian log culture
 to modern sterile technique and home growing.

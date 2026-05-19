@@ -9,7 +9,7 @@ type: concept
 tags: [cultivation, fungi]
 ---
 
-# Teaming with Fungi - Truffle Cultivation Basics
+## Teaming with Fungi - Truffle Cultivation Basics
 
 Jeff Lowenfels' "Teaming with Fungi" covers truffle cultivation as a prominent example of the commercial potential of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi used in agriculture:
 

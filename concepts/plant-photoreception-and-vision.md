@@ -6,7 +6,7 @@ tags: [plant-biology, photoreception, phototropism, phytochromes, cryptochromes,
 aliases: [Plant Vision, How Plants See Light, Plant Photoreceptors]
 ---
 
-# Plant Photoreception and Vision
+## Plant Photoreception and Vision
 
 Plants perceive light through a sophisticated array of photoreceptor proteins that
 detect intensity, direction, color, and duration of illumination. While plants lack

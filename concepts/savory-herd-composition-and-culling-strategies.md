@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Herd Composition and Culling Strategies
+## Herd Composition and Culling Strategies
 
 Herd composition and culling strategies are critical management decisions in
 [[savory-ecosystem-foundation-blocks]] blocks were functioning at very low

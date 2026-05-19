@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Vicente Silvano
+## Vicente Silvano
 
 ## Description
 Vicente Silvano is a named vegetalista (Amazonian plant medicine practitioner) mentioned in [[amaringo-ayahuasca-visions-shipibo-iconography]] as the host of an ayahuasca session in a small jungle settlement called Brazil. He represents the real practitioners whose work forms the foundation of Amaringo's visionary art.

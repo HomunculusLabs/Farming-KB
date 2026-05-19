@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Community Services and Enterprise
+## Permaculture Community Services and Enterprise
 
 ## Overview
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [evolution, taxonomy, genetics, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Cryptic Species
+## Cryptic Species
 
 Cryptic species are two or more distinct species that are morphologically
 identical or nearly indistinguishable but reproductively isolated and

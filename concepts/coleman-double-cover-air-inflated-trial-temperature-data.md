@@ -5,7 +5,7 @@ tags: [coleman, winter-harvest, greenhouse, double-cover, air-inflated, temperat
 created: 2026-05-08
 ---
 
-# Double Cover Air-Inflated Plastic Trial: Temperature Data
+## Double Cover Air-Inflated Plastic Trial: Temperature Data
 
 ## Overview
 

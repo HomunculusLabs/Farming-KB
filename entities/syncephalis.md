@@ -5,7 +5,7 @@ type: entity
 tags: [zygomycete, mycoparasite, necrotroph, haustorial, mucorales-parasite]
 ---
 
-# Syncephalis
+## Syncephalis
 
 ## Description
 

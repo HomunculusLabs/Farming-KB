@@ -5,7 +5,7 @@ type: entity
 tags: [technique, distillation, laboratory-method, purification, cannabis-processing]
 ---
 
-# Fractional Distillation
+## Fractional Distillation
 
 ## Description
 

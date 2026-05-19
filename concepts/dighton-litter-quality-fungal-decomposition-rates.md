@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Litter Quality Controls on Fungal Decomposition Rates
+## Litter Quality Controls on Fungal Decomposition Rates
 
 The chemical composition of plant litter is a primary determinant of
 decomposition rates and the pattern of [[oyster-substrate-carbon-nitrogen-ratio]], lignin

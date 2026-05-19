@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Compost Tea Disease Suppression Mechanisms
+## Compost Tea Disease Suppression Mechanisms
 
 Compost tea suppresses plant diseases through multiple non-chemical mechanisms. Understanding these mechanisms is critical for effective application and for communicating about compost tea within [[medicinal-mushroom-cancer-regulatory-frameworks]], where disease-control claims are restricted.
 

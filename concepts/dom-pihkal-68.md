@@ -7,7 +7,7 @@ type: concept
 tags: [phenethylamine, psychedelic, amphetamine, dox-family, stp]
 ---
 
-# DOM
+## DOM
 
 ## Overview
 

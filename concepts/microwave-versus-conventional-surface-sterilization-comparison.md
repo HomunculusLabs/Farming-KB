@@ -16,7 +16,7 @@ source:
   - Innovators: James E. Atwater, Neil D. Streech, Frank C. Garmon
 ---
 
-# Microwave versus Conventional Surface Sterilization Methods
+## Microwave versus Conventional Surface Sterilization Methods
 
 ## Overview
 

@@ -5,7 +5,7 @@ sources: [guzman-allen-gartz-world-wide-distribution]
 created: 2026-05-11
 ---
 
-# Schizophyllum commune and the Mazatec "Nis" Naming Confusion
+## Schizophyllum commune and the Mazatec "Nis" Naming Confusion
 
 ## Overview
 

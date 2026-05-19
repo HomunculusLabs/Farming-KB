@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Peat and Perlite Casing Layer Composition for Miniculture
+## Peat and Perlite Casing Layer Composition for Miniculture
 
 In their 1982 study of psilocybin and [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] suitable for alkaloid analysis.
 

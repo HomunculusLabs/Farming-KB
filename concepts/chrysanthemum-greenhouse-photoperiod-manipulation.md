@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Chrysanthemum Greenhouse Photoperiod Manipulation
+## Chrysanthemum Greenhouse Photoperiod Manipulation
 
 Chrysanthemum greenhouse photoperiod manipulation is the practice of
 artificially controlling [[chrysanthemum-morifolium]]*), one of the most commercially

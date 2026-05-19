@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Liver Cancer
+## Cannabis and Liver Cancer
 
 **Source:** The [[cannabis-cannabinoid-receptor-pharmacology]] agonist) produced liver [[blesching-cannabis-brain-cancer-glioblastoma]], cannabinoids may inhibit angiogenesis in liver tumors, cutting off the blood supply that tumors need for growth and metastasis. This mechanism involves suppression of VEGF and other pro-angiogenic factors.
 

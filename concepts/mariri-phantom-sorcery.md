@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mariri (Magical Phlegm)
+## Mariri (Magical Phlegm)
 
 The [[mariri]], also called mann or yachay, is a magical phlegm that
 constitutes the central reservoir of a [[queen-inamullo]] (necklace of thorns), also known

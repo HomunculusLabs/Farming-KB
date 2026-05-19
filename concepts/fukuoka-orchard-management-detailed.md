@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Orchard Management Detailed
+## Fukuoka Orchard Management Detailed
 
 updated: 2026-04-18
 

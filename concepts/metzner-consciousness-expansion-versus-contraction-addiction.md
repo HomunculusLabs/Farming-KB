@@ -7,7 +7,7 @@ tags: [addiction, consciousness-expansion, psychotherapy, peyote, ayahuasca, ibo
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Consciousness Expansion Versus Contraction in Addiction
+## Consciousness Expansion Versus Contraction in Addiction
 
 In his 1998 review, Ralph Metzner articulated a model of addiction and
 recovery based on the contrast between **consciousness-expanding**

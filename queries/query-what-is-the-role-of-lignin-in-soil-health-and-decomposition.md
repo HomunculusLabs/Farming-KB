@@ -8,7 +8,7 @@ sources:
 type: query
 ---
 
-# What Is the Role of Lignin in Soil Health and Decomposition
+## What Is the Role of Lignin in Soil Health and Decomposition
 
 ## Short Answer
 Lignin is a complex structural polymer that makes up 20 to 30 percent of

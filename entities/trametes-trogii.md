@@ -18,7 +18,7 @@ sources:
   - "Sánchez, C. (2009). \"Lignocellulosic residues: biodegradation and bioconversion by fungi.\" Biotechnology Advances, 27(2), 185-194."
 ---
 
-# Trametes trogii (Berk.) Fr.
+## Trametes trogii (Berk.) Fr.
 
 ## Overview
 

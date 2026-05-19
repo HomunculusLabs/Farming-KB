@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Ideal Temperature Range for Growing Cannabis?
+## What Is the Ideal Temperature Range for Growing Cannabis?
 
 ## Short Answer
 Cannabis thrives at 20-30°C (68-86°F) overall, but the ideal range shifts by growth

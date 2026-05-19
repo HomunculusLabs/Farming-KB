@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Wool Insulation and Natural Textiles
+## Wool Insulation and Natural Textiles
 
 [[comparison-cob-construction-vs-straw-bale-construction]],
 and [[mollison-designers-wool-processing-natural-dyeing]]: After scouring and carding, wool is spun into yarn

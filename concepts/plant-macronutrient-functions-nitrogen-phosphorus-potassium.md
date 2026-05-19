@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Macronutrient Functions: Nitrogen, Phosphorus, Potassium
+## Plant Macronutrient Functions: Nitrogen, Phosphorus, Potassium
 
 The three macronutrients listed on every fertilizer package -- nitrogen (N), phosphorus (P), and potassium (K) -- are required by plants in the greatest quantities among mineral nutrients. Together they drive the most critical plant processes: protein synthesis, energy metabolism, and cellular regulation.
 

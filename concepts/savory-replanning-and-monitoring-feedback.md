@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Replanning and Monitoring Feedback
+## Replanning and Monitoring Feedback
 
 Replanning and monitoring feedback form the operational backbone of the
 [[savory-holistic-goal-definition]]. Deviations are

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# JNP vs JMS
+## JNP vs JMS
 
 ## Overview
 

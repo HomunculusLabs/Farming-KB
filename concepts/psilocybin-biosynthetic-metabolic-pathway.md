@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, biochemistry, biosynthesis, psilocybin, metabolism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+sources: ["raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md"]
 type: concept
 ---
 
-# Psilocybin Biosynthetic Metabolic Pathway
+## Psilocybin Biosynthetic Metabolic Pathway
 
 The biosynthesis of psilocybin in mushrooms follows a multi-step metabolic pathway beginning with primary metabolic precursors and proceeding through the Shikimate pathway to produce the indole alkaloids psilocybin and psilocin. Understanding this pathway is essential for scientific investigation of psilocybin production, including efforts to optimize cultivation conditions for potency and to understand the evolutionary origins of these compounds in fungal metabolism.
 

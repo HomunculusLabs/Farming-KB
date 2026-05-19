@@ -6,7 +6,7 @@ type: concept
 tags: [knf, natural-farming, bionutrients, faa, fermentation, nitrogen, protein]
 sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
-# Bionutrients Lab — Fish Amino Acid (FAA)
+## Bionutrients Lab — Fish Amino Acid (FAA)
 
 **Updated:** 2026-04-24
 

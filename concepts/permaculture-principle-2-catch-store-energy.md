@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Principle 2: Catch and Store Energy
+## Permaculture Principle 2: Catch and Store Energy
 
 *"Make hay while the sun shines"*
 

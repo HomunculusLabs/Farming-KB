@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Chamomile vs Dandelion
+## Chamomile vs Dandelion
 
 ## Overview
 

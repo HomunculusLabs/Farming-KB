@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# McKenna's [[dimethyltryptamine]] (DMT), and [[mckenna-food-gods-designer-states-of-consciousness]], and behavior.
+## McKenna's [[dimethyltryptamine]] (DMT), and [[mckenna-food-gods-designer-states-of-consciousness]], and behavior.
 
 He cites the example of sweet potatoes of the genus *Dioscorea*, some
 species of which contain compounds that interfere with ovulation (and

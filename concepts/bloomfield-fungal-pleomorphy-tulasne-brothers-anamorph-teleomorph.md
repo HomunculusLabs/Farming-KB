@@ -1,4 +1,8 @@
-# Fungal Pleomorphy: The Tulasne Brothers and Dual Naming of Fungi
+---
+title: "Fungal Pleomorphy: The Tulasne Brothers and Dual Naming of Fungi"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 - bloomfield-ascobolus-ascomycete-fruiting-body-evolution-ascus-discharge-dung|Ascobolus Ascus Discharge
 - [[spore]]
 - [[mycelium]]
-- [[mycology]]

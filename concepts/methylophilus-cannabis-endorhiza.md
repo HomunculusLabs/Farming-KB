@@ -1,4 +1,8 @@
-# Methylophilus in Cannabis Endorhiza
+---
+title: "Methylophilus in Cannabis Endorhiza"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
-- [[lemon-haze-cannabis]]
-- [[methylophilus-cannabis-endorhiza-strain-specificity]]

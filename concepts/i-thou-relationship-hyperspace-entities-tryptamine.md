@@ -7,7 +7,7 @@ related:
 created: 2026-05-09
 ---
 
-# I-Thou Relationship with Hyperspace Entities
+## I-Thou Relationship with Hyperspace Entities
 
 ## Overview
 

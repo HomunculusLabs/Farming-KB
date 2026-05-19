@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Edge Effect in Permaculture Design
+## Edge Effect in Permaculture Design
 
 The concept of **edge** is one of the most important and intellectually rich topics in [[permaculture-design]]. Edge refers to the interface or boundary between two different systems — whether ecological, climatic, or physical. Understanding and deliberately designing edge is central to maximizing productivity, biodiversity, and resilience in permaculture systems.
 

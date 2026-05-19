@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pitting, Spillways, and Sand Dams
+## Pitting, Spillways, and Sand Dams
 
 In arid and semi-arid landscapes, managing water movement downslope and capturing sediment-laden floodwaters requires specialised techniques. Pitting creates distributed infiltration points across broad areas, carefully designed spillways prevent erosion when water must be discharged downslope, and sand dams convert ephemeral flood flows into permanent subsurface water reserves.
 

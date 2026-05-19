@@ -20,7 +20,7 @@ related:
   - panspermia-hypothesis
 ---
 
-# Purple Spore Ultraviolet Absorption and Electron Density
+## Purple Spore Ultraviolet Absorption and Electron Density
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Rabbit vs Quail Husbandry
+## Rabbit vs Quail Husbandry
 
 ## Overview
 Rabbits and quail represent two of the most practical micro-livestock options

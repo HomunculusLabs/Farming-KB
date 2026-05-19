@@ -7,7 +7,7 @@ type: concept
 tags: [shulgin]
 ---
 
-# ALEPH-4
+## ALEPH-4
 
 2,5-Dimethoxy-4-(i)-propylthioamphetamine
 

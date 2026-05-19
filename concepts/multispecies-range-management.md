@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Multispecies Range Management
+## Multispecies Range Management
 
 Multispecies range management is a [[permaculture]] strategy that leverages the complementary feeding behaviours of multiple animal species to achieve far greater overall production from rangeland than any single-species approach could deliver. Rather than dedicating range to cattle alone, a judicious polyculture of grazers and browsers operating at different heights and niches transforms rangeland into a highly productive, resilient protein-producing system.
 

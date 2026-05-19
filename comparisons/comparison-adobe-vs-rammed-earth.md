@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Adobe vs Rammed Earth
+## Adobe vs Rammed Earth
 
 ## Overview
 Adobe and rammed earth are two ancient earth-building techniques that create massive, durable

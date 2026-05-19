@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Clearing Uncultivated Ground
+## Clearing Uncultivated Ground
 
 Starting a brand new garden, taking over a weed-infested plot, or
 incorporating a new area all require making the ground as clean as

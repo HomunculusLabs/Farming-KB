@@ -39,7 +39,7 @@ related_concepts:
   - passive-solar-and-biomass-energy
 ---
 
-# Natural Building Techniques
+## Natural Building Techniques
 
 Natural building is the practice of creating shelter from locally available, minimally processed materials, including earth, stone, wood, and plant fibers. Far from being a relic of pre-industrial construction, natural building has experienced a significant revival since the 1970s, driven by growing awareness of the environmental costs of conventional construction, a desire for healthier indoor environments, and the appeal of buildings that can be created by their owners without specialized skills or expensive equipment.
 

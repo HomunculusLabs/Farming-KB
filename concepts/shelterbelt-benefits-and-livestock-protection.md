@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Shelterbelt Benefits and Livestock Protection
+## Shelterbelt Benefits and Livestock Protection
 
 > **Core Principle:** Shelterbelts are one of the highest-return investments in a [[shelterbelt-design-benefits]]
 - [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]

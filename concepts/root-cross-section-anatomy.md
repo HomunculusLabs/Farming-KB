@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Root Cross Section Anatomy
+## Root Cross Section Anatomy
 
 ## Overview
 

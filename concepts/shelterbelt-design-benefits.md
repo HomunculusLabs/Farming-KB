@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Shelterbelt Design and Benefits
+## Shelterbelt Design and Benefits
 
 Shelterbelts (also called windbreaks) are among the most productive elements in [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]] and smother in fenced corners
 - **Escape routes**: all moorland and high plateau fences should allow easy downwind escape to woodlots, sheltered valleys, or lower elevations

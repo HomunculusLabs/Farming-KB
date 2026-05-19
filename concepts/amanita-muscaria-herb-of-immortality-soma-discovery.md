@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria: The Herb of Immortality — Donald Teeter's Discovery
+## Amanita Muscaria: The Herb of Immortality — Donald Teeter's Discovery
 
 ## Overview
 

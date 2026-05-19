@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [mycology, africa, neurotropic-fungi, psilocybe, distribution, biogeography]
 ---
 
-# African Neurotropic Fungi Distribution Gaps and Exploration Potential
+## African Neurotropic Fungi Distribution Gaps and Exploration Potential
 
 ## Overview
 

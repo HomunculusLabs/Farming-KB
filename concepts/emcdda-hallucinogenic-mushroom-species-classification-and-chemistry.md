@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Species Classification and Chemistry
+## Hallucinogenic Mushroom Species Classification and Chemistry
 
 The EMCDDA 2006 thematic paper on [[psilocybin-mushrooms]]
 

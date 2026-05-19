@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Graft Fruit Trees and Other Plants?
+## How Do I Graft Fruit Trees and Other Plants?
 
 ## Short Answer
 

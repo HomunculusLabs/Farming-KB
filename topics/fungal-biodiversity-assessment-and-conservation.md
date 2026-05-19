@@ -54,7 +54,7 @@ related_concepts:
   - microfungal-life-strategies-ruderal-competitive-stress-tolerant
 ---
 
-# Fungal Biodiversity Assessment and Conservation
+## Fungal Biodiversity Assessment and Conservation
 
 Fungal biodiversity represents one of the most expansive and least
 understood domains of life on Earth. Current estimates place the total

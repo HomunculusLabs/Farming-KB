@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Inoculation Technique and Alcohol Flaming
+## Inoculation Technique and Alcohol Flaming
 
 ## Overview
 

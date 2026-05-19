@@ -16,7 +16,7 @@ tags:
 created: 2026-05-11
 ---
 
-# Legal Alternative Products Market for Hallucinogenic Mushrooms in Europe
+## Legal Alternative Products Market for Hallucinogenic Mushrooms in Europe
 
 ## Overview
 

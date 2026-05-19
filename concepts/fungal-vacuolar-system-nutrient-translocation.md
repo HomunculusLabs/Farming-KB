@@ -4,7 +4,7 @@ source: "Fungi in the Environment (Gadd, Watkinson, Dyer)"
 topics: [fungi, vacuole, nutrient-transport, hyphae, FRAP, diffusion, mycelium, tip-growth, nitrogen]
 ---
 
-# Fungal Vacuolar System and Nutrient Translocation
+## Fungal Vacuolar System and Nutrient Translocation
 
 ## Overview
 

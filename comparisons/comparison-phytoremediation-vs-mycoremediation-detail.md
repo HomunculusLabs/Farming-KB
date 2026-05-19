@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Phytoremediation vs Mycoremediation
+## Phytoremediation vs Mycoremediation
 
 ## Overview
 Phytoremediation and mycoremediation are two biological approaches to cleaning

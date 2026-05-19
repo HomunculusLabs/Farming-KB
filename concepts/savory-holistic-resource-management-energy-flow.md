@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Energy Flow and the Energy Tetrahedron
+## Energy Flow and the Energy Tetrahedron
 
 Energy flow is the fourth [[savory-holistic-management-overview]] framework. It addresses the question of fuel that keeps
 all [[fukuoka-american-agricultural-decline]] system consumes about 9.8

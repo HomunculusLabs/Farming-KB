@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do Arbuscular Mycorrhizal Fungi (AMF) Improve Plant Nutrient Uptake?
+## How Do Arbuscular Mycorrhizal Fungi (AMF) Improve Plant Nutrient Uptake?
 
 ## Short Answer
 Arbuscular mycorrhizal fungi (AMF) form symbiotic associations with the roots of over 80 percent of terrestrial plant species.

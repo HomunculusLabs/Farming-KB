@@ -5,7 +5,7 @@ type: entity
 tags: [biochemistry, enzyme-assistant, micronutrient, vitamin, metal-ion, plant-nutrition]
 ---
 
-# Cofactor
+## Cofactor
 
 ## Description
 

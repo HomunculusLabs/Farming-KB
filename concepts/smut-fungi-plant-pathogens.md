@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Smut Fungi and Related Plant Pathogens
+## Smut Fungi and Related Plant Pathogens
 
 ## Overview
 

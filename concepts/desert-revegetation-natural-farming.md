@@ -16,7 +16,7 @@ sources:
   - UNCCD (2019). "Global Land Outlook." United Nations Convention to Combat Desertification.
 ---
 
-# Desert Revegetation Through Natural Farming
+## Desert Revegetation Through Natural Farming
 
 Masanobu Fukuoka proposed that deserts could be revegetated by abandoning
 scientific approaches and instead scattering seed-bearing clay pellets over

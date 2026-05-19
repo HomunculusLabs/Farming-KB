@@ -5,7 +5,7 @@ type: entity
 tags: [mushroom, genus, cultivation, medicinal, mycoremediation]
 ---
 
-# Hypholoma (Genus)
+## Hypholoma (Genus)
 
 ## Description
 

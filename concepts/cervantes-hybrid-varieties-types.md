@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Hybrid Varieties and Population Types
+## Hybrid Varieties and Population Types
 
 [[jorge-cervantes]] provides detailed coverage of hybrid types,
 population structures, and breeding terminology in Chapter Sixteen

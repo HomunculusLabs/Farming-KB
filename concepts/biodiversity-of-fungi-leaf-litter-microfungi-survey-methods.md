@@ -6,7 +6,7 @@ topics: [mycology, fungal-biodiversity, survey-methods, microfungi, leaf-litter,
 aliases: [litter fungi, leaf litter microfungi, [[leaf-litter-microfungal-diversity-tropical-temperate]]
 ---
 
-# Leaf Litter Microfungi Survey Methods
+## Leaf Litter Microfungi Survey Methods
 
 ## Overview
 

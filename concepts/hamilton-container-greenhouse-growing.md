@@ -7,7 +7,7 @@ tags: [gardening]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Hamilton: Container and Greenhouse Growing
+## Hamilton: Container and Greenhouse Growing
 
 **Source:** Geoff Hamilton, *[[hamilton-ornamental-trees]] techniques.
 

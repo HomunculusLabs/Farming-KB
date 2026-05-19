@@ -9,7 +9,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# KNF Global Adoption
+## KNF Global Adoption
 
 updated: 2026-04-18
 

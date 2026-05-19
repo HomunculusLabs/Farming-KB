@@ -4,7 +4,7 @@ source: Permaculture Plants - A Selection (Nugent & Boniface)
 topics: fruit trees, drought-tolerant plants, salt-tolerant plants, multipurpose trees, traditional food plants
 ---
 
-# Jujube (Ziziphus spp)
+## Jujube (Ziziphus spp)
 
 ## Overview
 

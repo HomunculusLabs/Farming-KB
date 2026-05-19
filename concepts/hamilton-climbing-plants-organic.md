@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Growing Climbing Plants Organically
+## Growing Climbing Plants Organically
 
 updated: 2026-04-18
 

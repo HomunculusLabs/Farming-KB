@@ -5,7 +5,7 @@ tags: [mushroom, cultivation, fungi, environment, growing-house, climate-control
 created: 2026-05-11
 ---
 
-# Mushroom Growing Environment and Housing
+## Mushroom Growing Environment and Housing
 
 ## Environmental Factors for Mushroom Growth
 

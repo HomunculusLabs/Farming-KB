@@ -13,7 +13,7 @@ sources:
 created: 2026-05-03
 type: comparison
 ---
-# [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], particularly in the root zone.
+## [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], particularly in the root zone.
 
 **Rhodiola** is adapted to cold, harsh environments — rocky ledges, tundra, and alpine meadows above 2,000m elevation in its native range. It is hardy to at least -40°C (USDA zone 1). Warm climates above zone 8 are generally unsuitable; the plant struggles with sustained heat and may go dormant prematurely. A cold stratification period (2–4 weeks at 1–4°C) is required for seed germination.
 

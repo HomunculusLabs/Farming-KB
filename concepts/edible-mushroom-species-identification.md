@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Edible Mushroom Species Identification
+## Edible Mushroom Species Identification
 
 ## Introduction to Species Identification
 

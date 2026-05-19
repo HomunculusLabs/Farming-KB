@@ -1,14 +1,14 @@
 ---
-title: gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history
+title: "Panaeolus Subbalteatus"
 created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, coprophilous, entheogen, pasture-mushroom, panaeolina]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md]
+sources: ["raw/papers/field-guide-to-the-psilocybin-mushroom.md"]
 ---
 
-# Panaeolus subbalteatus
+## Panaeolus subbalteatus
 
 **Panaeolus subbalteatus** (syn. **Panaeolina subbalteata**, also known as **Panaeolus cinctulus** following modern taxonomic revision) is a widely distributed psilocybin-containing mushroom. It is one of the most commonly encountered psychoactive species in temperate regions, often found in lawns, compost piles, and pastures. It was one of three species featured in F.C. Ghouled's 1972 *[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]* alongside *[[psilocybe-cyanescens]] a germ pore.
 - **Odor and Taste:** Farinaceous (mealy, like damp flour). Mild taste.

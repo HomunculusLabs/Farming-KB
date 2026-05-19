@@ -1,4 +1,8 @@
-# Neurotropic Fungi Taxonomic Classification
+---
+title: "Neurotropic Fungi Taxonomic Classification"
+tags:
+  - concept
+---
 
 ## Overview
 

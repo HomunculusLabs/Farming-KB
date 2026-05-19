@@ -5,7 +5,7 @@ tags: [fungi, molecular-methods, apPCR, rDNA, biodiversity, genomics]
 created: 2026-05-11
 ---
 
-# Fungal Molecular Methods: apPCR and rDNA Sequencing for Biodiversity Assessment
+## Fungal Molecular Methods: apPCR and rDNA Sequencing for Biodiversity Assessment
 
 Molecular methods have revolutionized the study of [[genetic-improvement-agaricus-bisporus-molecular-approaches]] for [[duggar-mushroom-environmental-factors-temperature-moisture-light]].
 The same species may produce completely different-looking structures in different environments or at different points in its life cycle.

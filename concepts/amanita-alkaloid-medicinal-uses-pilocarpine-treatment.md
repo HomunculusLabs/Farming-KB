@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Amanita Alkaloid Medicinal Uses and Pilocarpine Treatment
+## Amanita Alkaloid Medicinal Uses and Pilocarpine Treatment
 
 The study of [[amanita]] alkaloids—particularly amanitine, the toxic principle of
 *[[amanita-phalloides]]*—represents one of the most significant intersections of

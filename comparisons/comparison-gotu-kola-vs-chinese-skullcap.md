@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Gotu Kola vs Chinese Skullcap
+## Gotu Kola vs Chinese Skullcap
 
 ## Overview
 

@@ -21,7 +21,7 @@ sources:
 - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-# Compost Tea (AACT) — Actively Aerated Compost Tea
+## Compost Tea (AACT) — Actively Aerated Compost Tea
 
 AACT is a liquid extract of compost, actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, it's used to restore and boost the [[soil-food-web-nutrient-cycling]] in soils and on plant surfaces. AACT is NOT the same as anaerobic compost tea or leachate — it must be aerated.
 

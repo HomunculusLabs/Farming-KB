@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Penicillium simplicissimum
+## Penicillium simplicissimum
 
 **Penicillium simplicissimum** is a widespread soil-dwelling filamentous fungus belonging to the genus *Penicillium*. It has attracted significant scientific interest for its role in **biological weathering** (bio-weathering) of minerals and rocks, where it contributes to the dissolution of silicate minerals and the cycling of elements in soil environments. The species demonstrates the important but often overlooked role that fungi play in geological processes and biogeochemical cycling at the Earth's surface.
 

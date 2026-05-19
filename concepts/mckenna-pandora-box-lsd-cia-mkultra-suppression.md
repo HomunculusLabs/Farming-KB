@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Pandora's Box, LSD, CIA Operations, and the Suppression of Psychedelic Research
+## Pandora's Box, LSD, CIA Operations, and the Suppression of Psychedelic Research
 
 The period between 1947 and 1970 saw the characterization, purification, and investigation of the major indole hallucinogens, followed by the most
 turbulent decade in American cultural life in a

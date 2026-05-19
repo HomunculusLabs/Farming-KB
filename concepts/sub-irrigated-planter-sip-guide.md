@@ -4,7 +4,7 @@ created: 2025-05-08
 tags: [irrigation, container-gardening, water-conservation, urban-agriculture, wicking]
 ---
 
-# Sub-Irrigated Planter (SIP) Guide
+## Sub-Irrigated Planter (SIP) Guide
 
 ## Overview
 

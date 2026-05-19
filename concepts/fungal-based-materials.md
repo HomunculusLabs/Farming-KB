@@ -7,7 +7,7 @@ tags: [mycology, engineering, construction, sustainability, environment, process
 sources: []
 ---
 
-# Fungal-Based Materials
+## Fungal-Based Materials
 
 ## Overview
 

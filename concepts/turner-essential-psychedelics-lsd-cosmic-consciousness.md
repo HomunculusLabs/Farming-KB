@@ -8,7 +8,7 @@ type: concept
 tags: [lsd, psychedelics]
 ---
 
-# LSD Cosmic Consciousness
+## LSD Cosmic Consciousness
 
 Turner's chapter on LSD, subtitled "[[albert-hofmann]] of Sandoz Pharmaceutical
 Company. Hofmann was the first human to experience it in 1943. During the

@@ -24,7 +24,7 @@ type: comparison
 created: 2026-05-07
 ---
 
-# Cavendish vs. East African Highland Bananas
+## Cavendish vs. East African Highland Bananas
 
 Cavendish (AAA) and East African Highland (AAA-EAH) bananas represent two of the most important banana groups in global agriculture, yet they serve fundamentally different roles. Cavendish dominates the international export trade as a dessert fruit, while East African Highland bananas (locally known as *matooke* in Uganda, *igisheke* in Rwanda, and *matoke* across the region) form a staple food crop feeding over 100 million people in the Great Lakes region. This comparison examines their key differences in biology, cultivation, uses, and production systems.
 

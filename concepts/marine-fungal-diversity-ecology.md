@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Marine Fungal Diversity and Ecology
+## Marine Fungal Diversity and Ecology
 
 Marine fungi represent one of the most poorly documented components of global
 [[fungal-dark-taxa-environmental-dna-sequencing]] surveys have revealed that marine habitats harbor

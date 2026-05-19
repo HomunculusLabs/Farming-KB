@@ -5,7 +5,7 @@ source_author: alexander-shulgin
 topics: [phenethylamine, 2c-family, psychedelic, research-chemical, pihkal, shulgin]
 ---
 
-# 2C-E (2,5-Dimethoxy-4-Ethylphenethylamine)
+## 2C-E (2,5-Dimethoxy-4-Ethylphenethylamine)
 
 ## Chemical Identity
 

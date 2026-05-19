@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Indian Beech
+## Indian Beech
 
 **Type:** Species (Plant)
 **Category:** Leguminous [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], livestock fodder,

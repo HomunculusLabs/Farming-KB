@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Colony Morphogenesis and Hyphal Growth in Filamentous Fungi
+## Colony Morphogenesis and Hyphal Growth in Filamentous Fungi
 
 The defining cellular element of filamentous fungi is the hypha, a
 tip-growing cellular element that undergoes regular branching, is

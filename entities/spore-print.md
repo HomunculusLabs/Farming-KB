@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: entity
 ---
 
-# Spore Print
+## Spore Print
 
 ## Description
 

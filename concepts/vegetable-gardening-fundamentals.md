@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Vegetable Gardening Fundamentals
+## Vegetable Gardening Fundamentals
 
 ## Overview
 

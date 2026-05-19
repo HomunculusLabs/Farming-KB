@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Foliar Pest Deterrence Mechanisms via Compost Tea
+## Foliar Pest Deterrence Mechanisms via Compost Tea
 
 When compost tea is applied to leaf surfaces, it can reduce foliar pest pressure through multiple interacting mechanisms. Unlike conventional pesticides that rely on toxic kill, compost tea works through ecological processes that alter the plant-insect interaction. The observed pest reduction likely results from a combination of four distinct but complementary mechanisms operating simultaneously.
 

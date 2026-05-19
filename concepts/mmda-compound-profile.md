@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MMDA Compound Profile
+## MMDA Compound Profile
 
 ## Chemical Identity
 

@@ -6,15 +6,15 @@ tags: [comparison, natural-building, slipform, cordwood, stone-masonry, homestea
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/slip-form-stone-construction.md
-  - /Users/t3rpz/wiki/concepts/cordwood-construction.md
+  - raw/concepts/slip-form-stone-construction.md
+  - raw/concepts/cordwood-construction.md
 related_concepts:
   - slip-form-stone-construction
   - cordwood-construction
   - natural-building-techniques
 type: comparison
 ---
-# Slip Form Stone vs Cordwood Construction
+## Slip Form Stone vs Cordwood Construction
 Slip [[slip-form-stone-construction]]
 - [[cob-building]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

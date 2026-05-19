@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Soil Fungal Community - Isolation and Survey Methods
+## Soil Fungal Community - Isolation and Survey Methods
 
 Soil is a highly complex medium, an ecosystem with multiple abiotic and
 biotic components. It is not one habitat but consists of a myriad of

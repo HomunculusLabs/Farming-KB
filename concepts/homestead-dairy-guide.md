@@ -7,7 +7,7 @@ tags: [homesteading, goats, animal-husbandry, food, recipe, preparation, process
 sources: []
 ---
 
-# Homestead Dairy Guide
+## Homestead Dairy Guide
 
 Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale homesteading.
 

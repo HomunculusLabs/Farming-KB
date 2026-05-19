@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Description
+## Description
 
 The [[casing-soil]] microbiome refers to the community of microorganisms including bacteria,
 actinomycetes, and other microbes that inhabit the casing layer applied over colonized
@@ -22,13 +22,13 @@ involved remain largely unknown for most [[fungi-cultivated-mushrooms-pathogens-
 these microbial partnerships may unlock the cultivation of many species that currently
 resist domestication.
 
-# Classification
+## Classification
 
 Category: Cultivation concept and [[fukuoka-microbial-ecology-decomposition]]. Domain: Mycology, microbiology,
 [[accessible-mushroom-cultivation-for-disabilities]]. Related entities: casing soil, [[dilution-to-extinction]], microbial
 slurry, pasteurization.
 
-# Key Facts
+## Key Facts
 
 Species requiring or benefiting from microbial casing include Agaricus spp. (white button,
 portabella, almond portabella), Lepiota spp. (parasol mushrooms), Stropharia spp. (king
@@ -46,7 +46,7 @@ and gypsum. A quality casing soil has high water retention, good aeration, and a
 is neutral to slightly acidic. Casing depth should be proportional to substrate depth:
 approximately 1 inch of casing for every 6 to 8 inches of colonized media.
 
-# Morphological Changes During Microbial Recruitment
+## Morphological Changes During Microbial Recruitment
 
 As mycelium rises from its relatively dense substrate to encounter the less dense casing
 soil, several observable morphological changes occur. The mycelium becomes rhizomorphic,
@@ -58,7 +58,7 @@ microbial symbionts from the casing. Finally, small growing masses appear at the
 interaction zones as the mycelium forms knots and primordia that will develop into mature
 fruitbodies.
 
-# Obtaining Compatible Microbes
+## Obtaining Compatible Microbes
 
 The best source of compatible microbes is soil from the stem base of wild or freshly
 harvested cultivated mushrooms. The stem base carries microbes already matched to the
@@ -71,7 +71,7 @@ of soil can harbor more microbial cells than there are macroscopic species of li
 planet, so chances are reasonably high that a native soil sample will contain the
 microbial life needed.
 
-# Pasteurization vs Sterilization of Casing
+## Pasteurization vs Sterilization of Casing
 
 Pasteurization at 130 to 145 degrees F (54 to 63 degrees C) for 6 to 8 hours preserves
 heat-tolerant beneficial microbes while killing pathogens. This is generally the
@@ -81,7 +81,7 @@ cultivator plans to reintroduce a specific known [[cannabis-cultivar-microbial-c
 Casing soils should not contain mycoparasites such as Trichoderma spp. or other pathogens
 that could impede or pose a threat to the mycelium, the mushrooms, or human health.
 
-# Relevance to Cultivation
+## Relevance to Cultivation
 
 Understanding the casing soil microbiome is critical for cultivating many commercially
 important mushroom species. The Agaricus industry demonstrates that successful mushroom

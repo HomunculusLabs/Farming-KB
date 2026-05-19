@@ -5,7 +5,7 @@ type: entity
 tags: [place, mountain, fog-precipitation, permaculture, water-harvesting, south-africa]
 ---
 
-# Table Mountain (South Africa)
+## Table Mountain (South Africa)
 
 ## Description
 

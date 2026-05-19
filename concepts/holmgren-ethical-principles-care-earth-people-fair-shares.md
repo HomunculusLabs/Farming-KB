@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [permaculture, ethics, holmgren, care-for-earth, care-for-people, fair-shares, design-principles, sustainability]
 ---
 
-# Holmgren Ethical Principles: Care for Earth, People, and Fair Shares
+## Holmgren Ethical Principles: Care for Earth, People, and Fair Shares
 
 ## Ethics as Design Constraints
 

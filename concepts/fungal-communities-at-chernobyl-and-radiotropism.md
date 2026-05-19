@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Communities at Chernobyl and Radiotropism
+## Fungal Communities at Chernobyl and Radiotropism
 
 ## Overview
 

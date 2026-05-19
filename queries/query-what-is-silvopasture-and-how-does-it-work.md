@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is Silvopasture and How Does It Work
+## What Is Silvopasture and How Does It Work
 
 ## Short Answer
 

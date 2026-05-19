@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Peyote and Shamanic Authority Conflict
+## Peyote and Shamanic Authority Conflict
 
 ## Overview
 

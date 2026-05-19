@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvesting Techniques
+## Winter Harvesting Techniques
 
 > Core practices for harvesting and packing cold-season crops from unheated and
 > minimally heated greenhouses during the depths of winter, as developed and

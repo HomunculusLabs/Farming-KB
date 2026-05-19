@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Sativa, Indica, and Hybrid Cannabis?
+## What Is the Difference Between Sativa, Indica, and Hybrid Cannabis?
 
 ## Short Answer
 

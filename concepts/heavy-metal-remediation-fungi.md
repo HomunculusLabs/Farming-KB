@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Heavy Metal Remediation by Fungi
+## Heavy Metal Remediation by Fungi
 
 Fungi play integral roles in environmental cycling of metals and other
 elements including carbon, nitrogen, sulfur, and phosphorus. Their filamentous

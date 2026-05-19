@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Quality in Aquaculture Ponds
+## Water Quality in Aquaculture Ponds
 
 ## Overview
 

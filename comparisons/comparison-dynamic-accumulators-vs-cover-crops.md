@@ -8,7 +8,7 @@ sources: [papers/nutrient-and-dynamic-accumulators.md]
 type: comparison
 ---
 
-# Dynamic Accumulators vs Cover Crops
+## Dynamic Accumulators vs Cover Crops
 
 ## Overview
 Dynamic accumulators and cover crops are both strategies for building soil

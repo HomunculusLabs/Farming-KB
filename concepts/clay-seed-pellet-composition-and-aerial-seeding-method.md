@@ -8,7 +8,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Clay Seed Pellet Composition and Aerial Seeding Method
+## Clay Seed Pellet Composition and Aerial Seeding Method
 
 The clay seed pellet (sometimes called a "seed ball" or "tsuchi dango") is [[hamilton-composting-and-organic-matter-management]] formed into spheres — that solves several problems simultaneously: seed predation, moisture retention, germination triggering, and distribution logistics.
 

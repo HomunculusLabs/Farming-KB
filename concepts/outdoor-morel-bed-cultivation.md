@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Outdoor Morel Bed Cultivation
+## Outdoor Morel Bed Cultivation
 
 Outdoor cultivation of morels, while still challenging, has proven more successful than indoor methods because the "key players"—soil microbes, microbial partners, and environmental cues—are most likely present in the native soil where morel mycelium is free to locate the nutrients and biological partners it needs. This guide outlines the complete process from spore slurry preparation through bed construction and [[wicking-bed-crop-selection-seasonal-management]].
 

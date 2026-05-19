@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Claviceps Purpurea Chemistry and Water-Soluble Ergot Alkaloids
+## Claviceps Purpurea Chemistry and Water-Soluble Ergot Alkaloids
 
 The critical chemical insight behind the Wasson-Hofmann-Ruck hypothesis for the [[ergot-and-lysergic-acid-history]] amide (LSA, ergine)**: Primary psychoactive constituent of ololiuhqui ([[golden-guide-morning-glory-and-ololiuqui]] seeds). Effective dose: 1-2 mg orally.
 - **[[hofmann-ololiuqui-morning-glory-investigation]] seeds used in Mesoamerican ritual since pre-Columbian times):

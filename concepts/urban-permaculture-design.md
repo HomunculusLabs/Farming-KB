@@ -25,7 +25,7 @@ sources:
 - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Urban Permaculture Design
+## Urban Permaculture Design
 
 Applying permaculture principles in small spaces: balconies, rooftops, vacant lots, and community gardens. Urban permaculture adapts zone/sector analysis, guild design, and closed-loop systems to constrained environments. See [[permaculture-design]] for zone/sector basics and [[permaculture-design-methods]] for the full design toolkit.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [gardening, soil]
 ---
 
-# No-Till Gardening and Soil Health
+## No-Till Gardening and Soil Health
 
 Rule #18 of the soil food web approach is unequivocal: rototilling and excessive
 soil disturbance destroy or severely damage the soil food web. They are

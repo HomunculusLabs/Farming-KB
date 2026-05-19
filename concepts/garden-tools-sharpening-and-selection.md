@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Tools — Selection and Sharpening
+## Garden Tools — Selection and Sharpening
 
 ## Overview
 

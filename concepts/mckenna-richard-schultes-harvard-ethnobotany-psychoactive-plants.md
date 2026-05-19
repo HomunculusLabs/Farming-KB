@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Richard Schultes and the Harvard Ethnobotany of Psychoactive Plants
+## Richard Schultes and the Harvard Ethnobotany of Psychoactive Plants
 
 At the center of a quiet revolution in botany during the mid-twentieth
 century was [[chaga-mushroom-research]] interrupted by World War II. His decades of

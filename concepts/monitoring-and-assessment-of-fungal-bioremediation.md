@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
 
-# Monitoring and Assessment of Fungal Bioremediation
+## Monitoring and Assessment of Fungal Bioremediation
 
 Updated: 2026-04-18
 

@@ -25,7 +25,7 @@ sources:
   - https://www.first-nature.com/fungi/laccaria-amethystina.php
 ---
 
-# Laccaria amethystina
+## Laccaria amethystina
 
 **Laccaria amethystina**, commonly known as the amethyst deceiver, is a small
 basidiomycete fungus in the family Hydnangiaceae (or Tricholomataceae in older

@@ -5,7 +5,7 @@ source_author: "S.T. Oner, The Rev"
 topics: cannabis, sativa, landrace, breeding-history, strain-origin, trainwreck
 ---
 
-# Trainwreck — Origin and Breeding History
+## Trainwreck — Origin and Breeding History
 
 Trainwreck is one of the most legendary [[cervantes-wind-protection-outdoor-cannabis]]
 breeding in Northern California, before indoor cultivation became the dominant paradigm.

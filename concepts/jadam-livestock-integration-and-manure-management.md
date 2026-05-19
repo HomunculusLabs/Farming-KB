@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JADAM Livestock Integration and Manure Management
+## JADAM Livestock Integration and Manure Management
 
 ## Overview
 

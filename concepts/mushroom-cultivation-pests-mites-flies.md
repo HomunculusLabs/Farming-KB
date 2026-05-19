@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms, cultivation]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
-# Mushroom Cultivation Pests — Mites, Flies, and Nematodes Insect pests and arthropod infestations are among the most persistent challenges in [[mushroom-contaminant-identification-key]] by carrying spores from one part of the growing room to another.
+## Mushroom Cultivation Pests — Mites, Flies, and Nematodes Insect pests and arthropod infestations are among the most persistent challenges in [[mushroom-contaminant-identification-key]] by carrying spores from one part of the growing room to another.
 
 Both adult sciarid flies and their larvae are vectors for mites. Mites hitch rides on adult flies, allowing them to spread rapidly throughout a growing facility. Controlling fly populations is therefore an indirect but important method of mite control.
 

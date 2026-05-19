@@ -15,7 +15,7 @@ sources:
   - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
-# 5-Methoxy-DMT Pharmacology
+## 5-Methoxy-DMT Pharmacology
 
 5-Methoxy-N,N-dimethyltryptamine ([[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] Colorado River toad
 (Bufo alvarius, now Incilius alvarius) and in numerous plant species

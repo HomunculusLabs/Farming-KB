@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Dynamic Accumulator Plants — Potassium
+## Dynamic Accumulator Plants — Potassium
 
 Potassium (K), often referred to as "potash" in its mineral form, is one of the three primary macronutrients essential for plant health. It is as difficult to liberate from its mineral state in soil as phosphorus. Dynamic accumulator plants can concentrate potassium in their tissues, making it available for recycling through composting, mulching, and green manuring.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [climate, microclimate]
 ---
 
-# Climate and Microclimate Analysis
+## Climate and Microclimate Analysis
 
 Understanding climate is perhaps the most important thing for [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. All deserts in the world fall within a latitude range that puts them near the equator.
 - **Land mass** determines wind patterns and humidity.

@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Timber Frame vs Cordwood Construction
+## Timber Frame vs Cordwood Construction
 
 ## Overview
 

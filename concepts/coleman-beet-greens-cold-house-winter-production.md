@@ -6,7 +6,7 @@ topics: [beet-greens, bulls-blood, cold-house, winter-harvest,
   braising-mix, salad-mix]
 ---
 
-# Beet Greens and Baby Beets i [[coleman-sunlight-and-winter-crop-growth-rates]] crop in Eliot Coleman's cold-house system [[coleman-salad-mix-quality-standards]] i [[coleman-salad-braising-mix-composition]] ix throughout
+## Beet Greens and Baby Beets i [[coleman-sunlight-and-winter-crop-growth-rates]] crop in Eliot Coleman's cold-house system [[coleman-salad-mix-quality-standards]] i [[coleman-salad-braising-mix-composition]] ix throughout
 the winter months, and producing exceptional quality baby beets
 i [[fungal-survey-design-role-of-volunteers]] le of Beet Greens in Winter Salads
 

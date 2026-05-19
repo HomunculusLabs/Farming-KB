@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, contamination, mold-prevention, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Contamination in Mushroom Cultivation
+## Contamination in Mushroom Cultivation
 
 Contamination by competing microorganisms is the most common cause of failure in
 mushroom cultivation at all scales from hobby to commercial. Understanding

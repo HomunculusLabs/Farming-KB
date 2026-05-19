@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Three Stages of Human Collapse and the Natural Farming Future
+## Three Stages of Human Collapse and the Natural Farming Future
 
 ## Overview
 

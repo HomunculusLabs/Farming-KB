@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-future-drugs.md"
 ---
-# Liberty Cap — Psilocybe semilanceata History and Biology
+## Liberty Cap — Psilocybe semilanceata History and Biology
 
 The Liberty Cap (Psilocybe semilanceata) is the most widely distributed and commonly consumed [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]: New Zealand and Tasmania
 

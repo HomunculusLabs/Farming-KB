@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Trichocereus peruvianus
+## Trichocereus peruvianus
 
 **Trichocereus peruvianus** (syn. *[[trichocereus-pachanoi]]* (San Pedro). The plant is commonly referred to as the [[trichocereus-bridgesii]]* has been the subject of considerable taxonomic debate. These three species form a morphologically similar group that has been difficult to delimit cleanly, particularly in cultivation where hybridization may occur. Some authorities have suggested that *T. peruvianus* and *T. pachanoi* represent a single variable species complex, while others maintain them as distinct species based on differences in spine characteristics, rib count, flower morphology, and alkaloid profile.
 

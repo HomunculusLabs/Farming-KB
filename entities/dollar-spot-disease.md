@@ -5,7 +5,7 @@ type: entity
 tags: [turf-disease, fungal-pathogen, sclerotinia, lawn-care, compost-tea]
 ---
 
-# Dollar Spot Disease
+## Dollar Spot Disease
 
 ## Description
 

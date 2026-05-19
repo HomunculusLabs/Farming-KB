@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How do I grow stone fruits like peaches, plums, and cherries?
+## How do I grow stone fruits like peaches, plums, and cherries?
 
 ## Short Answer
 

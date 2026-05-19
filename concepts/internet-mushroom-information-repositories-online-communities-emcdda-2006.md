@@ -1,4 +1,8 @@
-# Internet Mushroom Information Repositories and Online Communities
+---
+title: "Internet Mushroom Information Repositories and Online Communities"
+tags:
+  - concept
+---
 
 ## Source
 Hillebrand, Olszewski & Sedefov (2006) — *Hallucinogenic mushrooms: an emerging trend case study.* EMCDDA Thematic Papers, Lisbon.
@@ -144,7 +148,3 @@ current understanding and implementation strategies.
 
 Successful integration of internet mushroom information repositories online communities emcdda 2006 into broader
 systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

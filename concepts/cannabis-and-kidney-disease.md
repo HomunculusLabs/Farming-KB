@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Kidney Disease
+## Cannabis and Kidney Disease
 
 **Source:** The [[plant-disease-management-solomon]].
 

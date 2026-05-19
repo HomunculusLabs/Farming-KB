@@ -1,5 +1,9 @@
-# Western Psychological Integration in Hybrid Entheogenic Practice:
-# Freud, Jung, and Reich
+---
+title: "Western Psychological Integration in Hybrid Entheogenic Practice:"
+tags:
+  - concept
+---
+## Freud, Jung, and Reich
 
 ## Context and Sourcing
 

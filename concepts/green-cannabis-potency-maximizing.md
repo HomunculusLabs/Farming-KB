@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [cannabis]
 ---
-# Cannabis Potency Maximizing
+## Cannabis Potency Maximizing
 From [[green-cannabis-grow-bible-strain-selection-genetics]]
 
 ## Applications and Use Cases

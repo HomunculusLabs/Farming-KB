@@ -8,7 +8,7 @@ type: concept
 tags: [history]
 ---
 
-# San Pedro Cactus History in Plants of the Gods
+## San Pedro Cactus History in Plants of the Gods
 
 Schultes and Hofmann document the San Pedro cactus ([[guzman-psilocybin-mushrooms-south-america]], with archaeological evidence reaching back to 1300 BC.
 

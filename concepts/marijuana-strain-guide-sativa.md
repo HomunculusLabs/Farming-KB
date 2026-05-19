@@ -7,7 +7,7 @@ tags: [cannabis, beginner, plants, species-profiles, ethnobotany, psychopharmaco
 sources: []
 ---
 
-# Marijuana Strain Guide — Sativa
+## Marijuana Strain Guide — Sativa
 
 ## Overview
 

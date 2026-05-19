@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Systemic Sclerosis (Scleroderma)
+## Cannabis and Systemic Sclerosis (Scleroderma)
 
 ## Overview
 

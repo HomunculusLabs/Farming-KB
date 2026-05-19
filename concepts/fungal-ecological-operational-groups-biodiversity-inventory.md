@@ -14,7 +14,7 @@ tags:
   - fungal-ecology
 ---
 
-# Fungal Ecological Operational Groups for Biodiversity Inventory
+## Fungal Ecological Operational Groups for Biodiversity Inventory
 
 ## Overview
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Cob vs Straw Bale Construction
+## Cob vs Straw Bale Construction
 ## Overview
 Cob and straw bale are two of the most accessible [[cob-building-basics-detailed]] for more detailed cob techniques. The walls are typically 60 to 90 centimeters thick at the
 base, tapering to 40 to 50 centimeters at the top, and are sculpted by

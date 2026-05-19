@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Organic Greenhouse Management
+## Organic Greenhouse Management
 
 updated: 2026-04-18
 

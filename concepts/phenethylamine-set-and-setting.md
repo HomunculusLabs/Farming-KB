@@ -7,7 +7,7 @@ tags: [psychology, harm-reduction, psychedelics, therapeutic-potential, research
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Phenethylamine Set and Setting
+## Phenethylamine Set and Setting
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Bee Forage and Hive Management (Mollison)
+## Bee Forage and Hive Management (Mollison)
 Updated: 2026-04-18
 Source: Permaculture: A Designers' Manual, [[query-best-grain-legumes-for-a-small-homestead]]). For basic beekeeping
 information, see [[solomon-sprouting-seeds-and-early-season-nutrition]] (Classical):** Rosemary, thyme, catnip, sage.

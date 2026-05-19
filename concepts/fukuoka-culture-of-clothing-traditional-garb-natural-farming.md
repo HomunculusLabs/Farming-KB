@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 topics: [clothing, natural-farming, traditional-culture, japan, permaculture]
 ---
 
-# Culture of Clothing and Traditional Garb in Natural Farming
+## Culture of Clothing and Traditional Garb in Natural Farming
 
 [[fukuoka-doi-garment-culture-clothing-natural-farming]] to ecological awareness
 and the farmer's relationship with the land. His European tour wearing traditional

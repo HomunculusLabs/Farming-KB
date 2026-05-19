@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Growth Parameters and Environmental Control for Maitake Cultivation
+## Growth Parameters and Environmental Control for Maitake Cultivation
 
 Successful [[maitake-growth-parameters]]
 

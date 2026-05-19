@@ -7,7 +7,7 @@ tags: [homesteading, design, construction, food, workflow, preservation]
 sources: []
 ---
 
-# Homestead Kitchen Design
+## Homestead Kitchen Design
 
 A well-designed homestead kitchen is the operational heart of the property. Unlike a standard residential kitchen, it must handle bulk food processing, canning, butchering, dairy work, and meal preparation — often simultaneously. The design should prioritize workflow efficiency, durability, and scalable capacity for seasonal preservation surges.
 

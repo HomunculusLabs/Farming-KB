@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# AACT Clopyralid and Persistent Herbicide Contamination in Compost
+## AACT Clopyralid and Persistent Herbicide Contamination in Compost
 
 Persistent herbicide residues in compost represent one of the most serious threats
 to [[molecular-bonds-and-chemistry-for-gardeners]] in clopyralid,

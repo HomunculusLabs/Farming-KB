@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Raising Seedlings the Easy Way
+## Raising Seedlings the Easy Way
 
 Growing your own seedlings is not complicated, does not require greenhouses or hot frames, and produces far better results than buying from garden centers. The approach described here is deliberately simple — it uses ordinary garden soil, basic containers, and minimal equipment to produce tough, healthy transplants for the crops that genuinely benefit from being started indoors.
 

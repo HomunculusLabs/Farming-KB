@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [spores, cultivation, microscopy, sterile-technique, reproduction, mycology, pf-tek]
 ---
 
-# Spore Printing and Spore Syringe Preparation for Mushroom Cultivation
+## Spore Printing and Spore Syringe Preparation for Mushroom Cultivation
 
 ## Overview
 

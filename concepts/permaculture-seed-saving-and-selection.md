@@ -7,7 +7,7 @@ tags: [permaculture, seeds, propagation, genetics, self-reliance, homesteading, 
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Seed Saving and Selection
+## Permaculture Seed Saving and Selection
 
 Seed saving is presented by Mollison as both a practical gardening skill and a political act of resistance against the corporate control of food systems. The Designers' Manual devotes a full section to seed and seed resources in the context of cool-climate home gardens.
 

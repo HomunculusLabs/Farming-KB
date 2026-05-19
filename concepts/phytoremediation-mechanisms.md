@@ -6,7 +6,7 @@ type: concept
 tags: [remediation, environment]
 sources: []
 ---
-# Phytoremediation Mechanisms
+## Phytoremediation Mechanisms
 
 Phytoremediation is the use of living plants to remove, degrade, contain, or immobilize contaminants from soil, water, and air. It represents a cost-effective, solar-driven, and environmentally acceptable approach to cleaning up polluted environments. The technology harnesses natural plant physiological processes to address a wide range of contaminants including heavy metals, organic pollutants, petroleum hydrocarbons, pesticides, and radionuclides.
 

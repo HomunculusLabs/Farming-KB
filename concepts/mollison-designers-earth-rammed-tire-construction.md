@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Earth-Rammed Tire Construction
+## Earth-Rammed Tire Construction
 
 [[comparison-lime-plaster-vs-earthen-plaster]], or coloured renders
 - Interior finishes can include [[mollison-designers-wool-insulation-and-natural-textiles]].

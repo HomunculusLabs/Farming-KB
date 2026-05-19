@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# High [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
+## High [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 - A dryland fern was grown for mulch
 - These patterns are "all over the landscape" and recognizable with a
   permaculture eye

@@ -21,7 +21,7 @@ sources:
 - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Cannabis Root Microbiome
+## Cannabis Root Microbiome
 
 The cannabis root microbiome is the community of microorganisms associated with cannabis roots, spanning three compartments: bulk soil (surrounding soil), rhizosphere (soil adhering to roots), and endorhiza (microbes colonized inside root tissue). Research by Winston et al. (2014) provides the foundational characterization of this system and reveals how cannabis assembles its microbial partners through a two-tier selection process.
 

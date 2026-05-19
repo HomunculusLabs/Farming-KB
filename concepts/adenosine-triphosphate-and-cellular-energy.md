@@ -7,7 +7,7 @@ tags: [reference]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Adenosine Triphosphate and Cellular Energy
+## Adenosine Triphosphate and Cellular Energy
 
 Plants require energy for virtually every cellular process, from nutrient uptake to protein synthesis to cell division. One molecule -- adenosine triphosphate (ATP) -- serves as the universal currency of energy in all biological systems, plants included.
 

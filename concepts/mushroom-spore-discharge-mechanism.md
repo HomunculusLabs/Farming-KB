@@ -13,7 +13,7 @@ tags:
   - reproduction
 ---
 
-# Mushroom Spore Discharge Mechanism
+## Mushroom Spore Discharge Mechanism
 
 The mechanism by which mushrooms launch their spores from the gill
 surface is one of the most remarkable feats of biomechanics in the

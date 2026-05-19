@@ -5,7 +5,7 @@ type: entity
 tags: [medicinal-plant, alkaloid, antimalarial, permaculture, cinchona]
 ---
 
-# Quinine
+## Quinine
 
 ## Description
 

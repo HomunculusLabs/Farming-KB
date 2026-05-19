@@ -8,7 +8,7 @@ type: concept
 tags: [stoned-ape, human-evolution, psychedelics, terence-mckenna, psilocybin, paleoanthropology]
 ---
 
-# Stoned Ape Hypothesis — McKenna's Theory of Psychedelic Human Evolution
+## Stoned Ape Hypothesis — McKenna's Theory of Psychedelic Human Evolution
 
 The stoned ape hypothesis, proposed by [[leary-psychedelic-experience-bardo-mapping]] into the narrative of
 human origins. McKenna's argument draws on ethnomycology, evolutionary biology,
@@ -121,6 +121,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[mckenna-human-cognition-and-the-stoned-age]]
 - [[stoned-ape-hypothesis]]
-- [[stoned-ape-hypothesis-mckenna]]
+- [[stoned-ape-hypothesis]]
 - [[stoned-ape-hypothesis-psilocybin-human-evolution]]
 - [[terence-mckenna-stoned-ape-hypothesis]]

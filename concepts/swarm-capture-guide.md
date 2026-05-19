@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, beginner, pollinators]
 sources: []
 ---
 
-# Swarm Capture Guide
+## Swarm Capture Guide
 
 Swarming is the natural means of honey bee colony reproduction. A swarm
 represents a free colony for the beekeeper who can capture and rehive it.

@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Mullein vs Echinacea
+## Mullein vs Echinacea
 
 ## Overview
 

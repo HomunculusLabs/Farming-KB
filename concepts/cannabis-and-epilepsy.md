@@ -5,7 +5,7 @@ source_author: uwe-blesching
 tags: [cannabis, epilepsy, seizures, cannabinoid, THC, CBD, neurology, CHI]
 ---
 
-# Cannabis and Epilepsy
+## Cannabis and Epilepsy
 
 ## Overview
 

@@ -5,7 +5,7 @@ source_path: raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [cannabis, tincture, infused-oil, topical, green-dragon, salve, balm, lotion, sublingual, transdermal, suppository, dosing]
 ---
 
-# Cannabis Tinctures, Infused Oils, and Topical Preparations
+## Cannabis Tinctures, Infused Oils, and Topical Preparations
 
 ## Overview
 

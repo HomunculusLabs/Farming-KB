@@ -1,4 +1,8 @@
-# Psilocybe mexicana Sclerotia: Production Timeline, Dark Incubation, and Flush Patterns
+---
+title: "Psilocybe mexicana Sclerotia: Production Timeline, Dark Incubation, and Flush Patterns"
+tags:
+  - concept
+---
 
 ## Overview
 

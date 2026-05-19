@@ -6,7 +6,7 @@ tags: [aact, compost-extract, worm-leachate, brewing-methods, compost-tea, compa
 created: 2026-05-09
 ---
 
-# AACT, Compost Extract, and Worm Leachate: Comparison of Brewing Methods
+## AACT, Compost Extract, and Worm Leachate: Comparison of Brewing Methods
 
 ## Overview
 

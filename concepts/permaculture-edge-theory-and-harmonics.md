@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Edge Theory and Edge Harmonics
+## Permaculture Edge Theory and Edge Harmonics
 
 ## What Is an Edge?
 

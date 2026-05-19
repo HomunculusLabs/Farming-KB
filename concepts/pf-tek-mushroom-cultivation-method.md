@@ -5,7 +5,7 @@ mined: 2026-05-08
 tags: [cultivation, pf-tek, psilocybe, cubensis, mycology, mushroom-growing]
 ---
 
-# PF Tek Mushroom Cultivation Method
+## PF Tek Mushroom Cultivation Method
 
 ## Overview
 

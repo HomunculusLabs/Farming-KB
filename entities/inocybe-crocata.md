@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Inocybe crocata
+## Inocybe crocata
 
 **Inocybe crocata** is a species of inocybe mushroom in the family Inocybaceae. It is one of several Inocybe species reported to contain [[psilocin]], placing it among the minority of Inocybe species with psychoactive properties. However, the concentrations are generally low and unreliable. Far more significantly, *I. crocata* — like most species in the genus — contains substantial quantities of [[fungal-microscopic-examination-mounting-media-techniques]]. The strongly spermatic odor, fibrous scaly cap, and brown [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through its mycorrhizal partnerships, facilitating [[inocybe-aeruginascens]] has a distinctly greenish-blue coloration and grows in sandy soils, which helps distinguish it. [[inocybe-haemacta]] — reddish-toned psilocybin-containing Inocybe
 - [[psilocybin]] — the psychoactive compound found in trace amounts in some Inocybe species

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, nematophagous, predatory, biocontrol, nematode-trapping]
 ---
 
-# Monacrosporium
+## Monacrosporium
 
 ## Description
 

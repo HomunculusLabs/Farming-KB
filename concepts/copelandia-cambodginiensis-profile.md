@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Copelandia cambodginiensis Profile
+## Copelandia cambodginiensis Profile
 
 ## Taxonomy and Synonyms
 

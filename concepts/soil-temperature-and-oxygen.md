@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Soil Temperature and Oxygen
+## Soil Temperature and Oxygen
 
 Two often-overlooked factors that profoundly influence plant growth and garden success are [[soil-temperature]] and soil oxygen levels. While most gardeners focus on nutrients, water, and sunlight, understanding the thermal and respiratory dynamics of soil can transform gardening outcomes — from seed germination rates to overall crop productivity.
 

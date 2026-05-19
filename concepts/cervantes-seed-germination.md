@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# [[query-how-to-store-cannabis-seeds-for-long-term-viability]] need only three things to germinate:
+## [[query-how-to-store-cannabis-seeds-for-long-term-viability]] need only three things to germinate:
 1. **Water** — moisture penetrates the protective seed shell, activates dormant hormones
 2. **Temperature** — best at 78°F (25°C); range 70-90°F (21-32°C)
 3. **Air (oxygen)** — moist, soggy mediums cut off oxygen and seeds drown

@@ -7,7 +7,7 @@ tags: [herbalism, herbs, medicine]
 sources:
   - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
-# Herbal Medicine History
+## Herbal Medicine History
 
 The use of plants for healing is as old as humanity itself, predating written records and forming the foundation of medical practice across every culture. Herbal medicine represents the accumulated empirical knowledge of millennia of human interaction with the natural world, refined through observation, trial, and transmission across generations. Understanding this history provides context for modern herbal practice and reveals the deep roots of many contemporary pharmaceutical discoveries.
 

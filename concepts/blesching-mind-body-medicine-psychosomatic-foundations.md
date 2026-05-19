@@ -1,4 +1,8 @@
-# Mind-Body Medicine: Psychosomatic Foundations and the Endocannabinoid Bridge
+---
+title: "Mind-Body Medicine: Psychosomatic Foundations and the Endocannabinoid Bridge"
+tags:
+  - concept
+---
 
 ## Overview
 

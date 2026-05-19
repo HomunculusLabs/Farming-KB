@@ -6,7 +6,7 @@ type: concept
 tags: [natural-farming, fukuoka, soil-destruction, plowing-critique, no-till, chemical-fertilizer-cycle, microorganisms, natural-tillage]
 ---
 
-# Plow Hardens Soil and Creates Need for Plowing
+## Plow Hardens Soil and Creates Need for Plowing
 
 ## Summary
 

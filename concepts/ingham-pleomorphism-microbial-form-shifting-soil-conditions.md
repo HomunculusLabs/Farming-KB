@@ -4,7 +4,7 @@ source: Ingham, E.R. (2004). The Field Guide I for actively-aerated-compost-tea 
 tags: [pleomorphism, microbiology, soil-food-web, bacteria, fungi, microbial-ecology, ingham]
 ---
 
-# Pleomorphism — Microbial Form-Shifting Under Changing Soil Conditions
+## Pleomorphism — Microbial Form-Shifting Under Changing Soil Conditions
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: [papers/chos-global-natural-farming.md]
 type: query
 ---
 
-# How to Make Korean Natural Farming Inputs
+## How to Make Korean Natural Farming Inputs
 
 ## Short Answer
 Korean Natural Farming inputs are made by collecting and culturing beneficial

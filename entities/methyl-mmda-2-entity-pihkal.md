@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# METHYL-MMDA-2
+## METHYL-MMDA-2
 
 [[cervantes-hydrogen-peroxide-sterilization]] to
 the ketone (2,5-dimethoxy-3,4-methylenedioxyphenylacetone, a solid

@@ -8,7 +8,7 @@ sources:
   - raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 ---
 
-# US-Native Hallucinogenic and Dissociative Plants
+## US-Native Hallucinogenic and Dissociative Plants
 
 John H. Halpern's 2004 review article in *Pharmacology & Therapeutics* provides a comprehensive pharmacological survey of hallucinogenic and dissociative plants that grow naturally in the United States. The paper catalogs plants containing N,N-dimethyltryptamine (DMT), monoamine oxidase inhibitors (MAOIs), psilocybin, mescaline, salvinorin-A, lysergic acid amide (LSA), atropine, scopolamine, muscimol, and ibotenic acid — substances found in wild or garden plants across much of the country.
 

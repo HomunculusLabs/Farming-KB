@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis Therapeutic Window Methodology
+## Cannabis Therapeutic Window Methodology
 
 The therapeutic window is the range of cannabis dosage within which a patient
 experiences the desired [[blesching-cannabis-safety-adverse-effects-evidence]] but actually reverse the desired

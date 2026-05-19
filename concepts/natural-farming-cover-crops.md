@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Natural Farming Cover Crops and Green Manure
+## Natural Farming Cover Crops and Green Manure
 
 In [[green-manure-crops]]
 suitable for different purposes:

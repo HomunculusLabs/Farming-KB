@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# bloomfield puccinia monoica pseudoflowers rust mimicry, Pseudoflowers, and Rust Mimicry
+## bloomfield puccinia monoica pseudoflowers rust mimicry, Pseudoflowers, and Rust Mimicry
 
 [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] that
 orchestrates one of nature's most extraordinary acts of deception: it

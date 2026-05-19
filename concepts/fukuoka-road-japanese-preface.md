@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Preface to the Japanese Edition: A Farmer's Confession
+## Preface to the Japanese Edition: A Farmer's Confession
 
 The Japanese preface, written in June 1984, is one [[the-road-to-eleusis-wasson-hofmann-ruck]] of Escapism
 

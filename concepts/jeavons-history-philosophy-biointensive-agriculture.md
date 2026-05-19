@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# History and Philosophy of Biointensive Agriculture
+## History and Philosophy of Biointensive Agriculture
 
 The [[jeavons-sustainability-philosophy-gbiointensive]],
 [[jeavons-double-digging-bed-preparation]]

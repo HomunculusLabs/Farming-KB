@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Fencing Economics and Stock Density Curve
+## Fencing Economics and Stock Density Curve
 
 Fencing is one of the most significant capital investments in grazing
 operations, yet decisions about how much to install are often made

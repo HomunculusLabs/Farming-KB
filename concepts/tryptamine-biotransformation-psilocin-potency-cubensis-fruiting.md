@@ -4,7 +4,7 @@ source: tryptamine-cubensis-gartz.md
 type: concept
 ---
 
-# Tryptamine Biotransformation to Psilocin in Psilocybe cubensis Fruiting Bodies
+## Tryptamine Biotransformation to Psilocin in Psilocybe cubensis Fruiting Bodies
 
 ## Overview
 

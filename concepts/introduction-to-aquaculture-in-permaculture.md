@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Introduction to Aquaculture in Permaculture
+## Introduction to Aquaculture in Permaculture
 
 Aquaculture — the cultivation of aquatic organisms in natural or artificial water systems — represents one of the most productive and efficient food [[system-yield-and-production-strategies]] available to [[permaculture]] designers. Water-based systems consistently outperform terrestrial agriculture in yield per unit of input, making aquaculture a critical component of integrated land design.
 

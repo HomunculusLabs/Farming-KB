@@ -21,7 +21,7 @@ tags: [`tryptamine`, `entheogen`]
 sources:
   - raw/papers/shulgin-a-tihkal.md
 
-# 4,5-MDO-DMT
+## 4,5-MDO-DMT
 
 4,5-Methylenedioxy-N,N-Dimethyltryptamine
 

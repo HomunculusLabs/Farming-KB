@@ -1,5 +1,10 @@
+---
+title: "Fungal Species Accumulation Rarefaction Estimators"
+tags:
+  - concept
+---
 
-# Fungal Species Accumulation Curves and Rarefaction Estimators
+## Fungal Species Accumulation Curves and Rarefaction Estimators
 
 ## Overview
 

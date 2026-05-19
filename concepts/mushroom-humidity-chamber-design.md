@@ -1,12 +1,12 @@
 ---
-title: Mushroom mushroom-humidity-chamber-design-operation Design
+title: "Mushroom Humidity Chamber Design"
 slug: mushroom-humidity-chamber-design
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, humidity-chamber, fruiting, growing-equipment, mycology]
 created: 2026-05-08
 ---
 
-# Mushroom Humidity Chamber Design
+## Mushroom Humidity Chamber Design
 
 ## Overview
 

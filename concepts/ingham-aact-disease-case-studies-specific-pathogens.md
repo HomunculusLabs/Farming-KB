@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# AACT Disease Case Studies: Specific Pathogen Responses
+## AACT Disease Case Studies: Specific Pathogen Responses
 
 [[ingham-foliar-compost-tea-application]] spray does have a discernible impact replacing disease organisms on leaf surfaces, the effect should be visible within a day. If no impact is seen, another spray is indicated.
 

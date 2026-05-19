@@ -5,7 +5,7 @@ author: Ralph Metzner
 topics: [psychotherapy, lsd, history, psycholytic, psychedelic, consciousness-expansion]
 ---
 
-# LSD Psychotherapy Origins: Sandoz Seelische Auflockerung, Osmond-Hoffer Alcoholism Treatment, and the Birth of Consciousness Expansion
+## LSD Psychotherapy Origins: Sandoz Seelische Auflockerung, Osmond-Hoffer Alcoholism Treatment, and the Birth of Consciousness Expansion
 
 ## Psychotomimetic Origins and Military Interest
 

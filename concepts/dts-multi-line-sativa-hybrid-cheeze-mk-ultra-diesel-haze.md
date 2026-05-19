@@ -15,7 +15,7 @@ topics:
   - cultivation
 ---
 
-# D.T.S. Multi-Line Sativa Hybrid Complex Genetics Cultivation
+## D.T.S. Multi-Line Sativa Hybrid Complex Genetics Cultivation
 
 ## Overview
 

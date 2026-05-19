@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Taxonomy and Diversity of Glomales
+## Taxonomy and Diversity of Glomales
 
 The order [[glomales]] contains all arbuscular mycorrhizal (AM) fungi, organisms that form symbiotic associations with the roots of most terrestrial plants. Despite their ecological importance and ancient evolutionary origins (~400 million years), Glomales is a relatively species-poor order with only 163 described species across seven genera — a striking contrast to the more than 3,500 species of ectomycorrhizal fungi (Law and Lewis 1983).
 

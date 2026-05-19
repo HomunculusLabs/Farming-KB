@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, mycorrhizae, symbiosis, soil-health, nutrient-cycling]
 ---
 
-# VAM (Vesicular-Arbuscular Mycorrhizae)
+## VAM (Vesicular-Arbuscular Mycorrhizae)
 
 ## Description
 

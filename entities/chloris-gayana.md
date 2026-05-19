@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Chloris gayana (Rhodes Grass)
+## Chloris gayana (Rhodes Grass)
 
 ## Description
 

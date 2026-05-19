@@ -4,11 +4,11 @@ created: 2026-05-06
 tags: [mycology, grass-seed, substrate, psilocybe-mexicana, psilocybe-tampanensis, psilocybe-cubensis, panaeolus-subbalteatus, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
+sources: ["raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md"]
 type: concept
 ---
 
-# Grass Seed Substrate Species Compatibility
+## Grass Seed Substrate Species Compatibility
 
 Grass seed serves as a versatile base substrate for cultivating several
 psychoactive mushroom species. Different species exhibit varying degrees of

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Reprogramming Beliefs for Cannabis-Assisted Healing
+## Reprogramming Beliefs for Cannabis-Assisted Healing
 
 Section 4 of Chapter V in The [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] associated with fearful beliefs produces sustained elevations in cortisol, adrenaline, and inflammatory cytokines that directly damage cardiovascular tissue over time. This mind-body pathway provides a mechanistic explanation for how beliefs can literally shape physical health outcomes.
 

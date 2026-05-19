@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Shipment and Market Pricing
+## Mushroom Shipment and Market Pricing
 
 ## Overview
 

@@ -16,7 +16,7 @@ sources:
   - Gopalan, C. et al. (2017). Nutritive Value of Indian Foods. National Institute of Nutrition.
 ---
 
-# Vigna mungo
+## Vigna mungo
 
 *Vigna mungo*, commonly known as black gram, urad dal, or mash, is an annual leguminous crop in the family Fabaceae. It is one of the most important pulse crops in South Asia, particularly in India where it is a dietary staple.
 

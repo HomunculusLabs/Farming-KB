@@ -1,4 +1,8 @@
-# Aminopropyl Silica Gel Chromatography for  Alkaloid Purification
+---
+title: "Aminopropyl Silica Gel Chromatography for  Alkaloid Purification"
+tags:
+  - concept
+---
 ## Overview of Aminopropyl Silica Gel as a Stationary Phase
 Aminopropyl silica gel (also known as NH2 silica or aminopropyl-bonded silica) is a chemically modified silica
 stationary phase in which primary aminopropyl functional groups (-CH2CH2CH2NH2) are covalently bonded to the

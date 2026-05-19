@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungal Nutrient Cycling and Mineral Transformations
+## Fungal Nutrient Cycling and Mineral Transformations
 
 How fungi transform minerals, cycle nutrients, and drive biogeochemical processes in terrestrial and aquatic ecosystems. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-decomposition-cycles]], [[soil-food-web-nutrient-cycling]], and [[mycorrhizal-types]].
 

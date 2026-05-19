@@ -9,7 +9,7 @@ sources:
   - raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Daniel Chamovitz
+## Daniel Chamovitz
 
 Daniel Chamovitz is an Israeli biologist and author of *What a Plant Knows: A Field Guide to the Senses of Your Garden — and Beyond* (2012, Oneworld Publications/Scientific American Books). The book explores the sensory capabilities of plants, revealing how plants perceive light, smell chemicals, feel mechanical stimuli, and respond to their environment in ways that parallel animal senses.
 

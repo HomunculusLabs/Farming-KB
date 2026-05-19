@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, foraging, species, ecology, mycorrhizae, food, preserva
 sources: []
 ---
 
-# Porcini (Boletus) Guide
+## Porcini (Boletus) Guide
 
 Porcini (Boletus edulis and related species) are among the most sought-after wild mushrooms in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in North America, these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
 

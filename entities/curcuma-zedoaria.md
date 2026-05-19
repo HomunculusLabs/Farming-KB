@@ -16,7 +16,7 @@ sources:
   - "Li, R.W. et al. (2012). \"Curcuma species: a comprehensive review on phytochemistry, pharmacology and mushroom-cancer-clinical-trials-overview.\" Chinese Medicine, 7, 15."
 ---
 
-# Curcuma zedoaria (Zedoary)
+## Curcuma zedoaria (Zedoary)
 
 ## Overview
 

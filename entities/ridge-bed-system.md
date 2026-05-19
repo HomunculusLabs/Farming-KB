@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cultivation, bed-construction, mushroom-growing, french-method]
 ---
 
-# Ridge Bed System
+## Ridge Bed System
 
 ## Description
 

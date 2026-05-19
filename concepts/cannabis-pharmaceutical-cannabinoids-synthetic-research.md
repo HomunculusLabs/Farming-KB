@@ -4,7 +4,7 @@ source: "The blesching-cannabis-health-index-autoimmune-conditions (Uwe Bleschin
 topics: [cannabinoids, pharmaceuticals, dronabinol, nabilone, sativex, rimonabant, CB1, CB2, research-chemicals]
 ---
 
-# Pharmaceutical and Synthetic Cannabinoids
+## Pharmaceutical and Synthetic Cannabinoids
 
 ## Overview
 

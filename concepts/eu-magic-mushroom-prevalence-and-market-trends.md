@@ -5,7 +5,7 @@ mined: 2026-05-08
 tags: [epidemiology, prevalence, market, europe, psilocybin, smartshop]
 ---
 
-# EU Magic Mushroom Prevalence and Market Trends
+## EU Magic Mushroom Prevalence and Market Trends
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [place, ecotone, australia, nsw, biodiversity, landscape]
 ---
 
-# Towamba Valley
+## Towamba Valley
 
 ## Description
 

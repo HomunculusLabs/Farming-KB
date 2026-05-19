@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Fimming
+## Fimming
 
 Fimming is a [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] communities.
 

@@ -20,7 +20,7 @@ sources:
   - "Bandoni, R.J. & Ginns, J.H. (2012). Treasures from the Kingdom of Fungi. Fungifama."
 ---
 
-# Leafy Brain Fungus (*Tremella foliacea*)
+## Leafy Brain Fungus (*Tremella foliacea*)
 
 ## Overview
 

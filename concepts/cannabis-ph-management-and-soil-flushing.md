@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis pH Management and Soil Flushing
+## Cannabis pH Management and Soil Flushing
 
 pH management is one of the most critical yet frequently overlooked aspects of [[cannabis-nutrient-solution-preparation]], incorrect pH will lock out essential nutrients and cause deficiency symptoms. Soil flushing is the primary corrective technique when pH drifts out of range or nutrient salts accumulate to toxic levels.
 

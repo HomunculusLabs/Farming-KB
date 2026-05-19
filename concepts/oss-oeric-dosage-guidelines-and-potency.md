@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, dosage, pharmacology, psilocybin, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+sources: ["raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md"]
 type: concept
 ---
 
-# Oss & Oeric: Dosage Guidelines and Potency
+## Oss & Oeric: Dosage Guidelines and Potency
 
 The 1976 guide provides specific dosage information based on the known
 psilocybin content of dried [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] mushrooms contain

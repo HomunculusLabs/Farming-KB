@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)
+## Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)
 
 ## Overview
 

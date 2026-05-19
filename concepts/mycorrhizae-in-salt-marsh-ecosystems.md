@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizae in Salt Marsh Ecosystems
+## Mycorrhizae in Salt Marsh Ecosystems
 
 Salt marshes represent one of the most challenging environments for mycorrhizal symbioses.
 Periodic tidal inundation, elevated soil salinity, and anoxic sediments create conditions that

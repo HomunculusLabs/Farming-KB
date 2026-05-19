@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Schizophrenia
+## Cannabis and Schizophrenia
 
 ## Overview
 

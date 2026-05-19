@@ -13,7 +13,7 @@ sources:
 type: comparison
 ---
 
-# Chestnut vs Walnut vs Pecan — Nut Tree Cultivation Comparison
+## Chestnut vs Walnut vs Pecan — Nut Tree Cultivation Comparison
 
 ## Quick Reference Table
 

@@ -19,7 +19,7 @@ sources:
   - "Nauta, M.M. (2004). \"Sarcodon in the Netherlands.\" Coolia, 47(2), 45-67."
 ---
 
-# Sarcodon scorodonium (*Sarcodon scorodonium* (Fr.) P. Karst.)
+## Sarcodon scorodonium (*Sarcodon scorodonium* (Fr.) P. Karst.)
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Cultivated Mushroom Difficulty Rankings and Species Guide
+## Cultivated Mushroom Difficulty Rankings and Species Guide
 
 There is no single all-encompassing list of cultivated or edible mushrooms, since growing conditions, spawn availability, and even definitions of edibility vary worldwide. However, a practical difficulty ranking system helps cultivators select species matching their skill level, available resources, and climate. Every cultivated mushroom started as a wild species that required years of trial and error to domesticate, and new species continue to be isolated and cultivated from regions around the world.
 

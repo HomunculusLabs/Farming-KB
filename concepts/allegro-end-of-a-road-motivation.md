@@ -7,7 +7,7 @@ tags: [history, allegro]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# Allegro's End of a Road and Personal Motivation
+## Allegro's End of a Road and Personal Motivation
 
 The question of what motivated [[john-allegro]] to write
 [The [[allegro-old-testament-figures-as-fertility-deities]] Studies at Manchester University

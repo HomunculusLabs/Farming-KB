@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Liebig's Law of Minimum
+## Liebig's Law of Minimum
 
 **Liebig's law of minimum** (also known as the law of the minimum) states that plant growth is limited not by total resources available, but by the single resource that is scarcest relative to the plant's needs. Formulated by German chemist Justus von Liebig in the mid-nineteenth century, the law became the theoretical foundation for chemical agriculture and the modern fertilizer industry.
 

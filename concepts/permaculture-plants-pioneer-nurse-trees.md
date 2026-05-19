@@ -1,4 +1,8 @@
-# Pioneer and Nurse Trees in Permaculture (Nugent & Boniface)
+---
+title: "Pioneer and Nurse Trees in Permaculture (Nugent & Boniface)"
+tags:
+  - concept
+---
 
 **Source:** Jeff Nugent & Julia Boniface, *Permaculture Plants: A Selection* (2004)
 
@@ -144,7 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
-## See Also

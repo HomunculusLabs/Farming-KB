@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-# Permaculture [[mollison-permaculture-two-zone-planning-and-site-layout]],
+## Permaculture [[mollison-permaculture-two-zone-planning-and-site-layout]],
 as close to the kitchen door as possible, so that herbs can be grabbed while
 cooking. The spiral demonstrates how natural patterns, particularly spirals
 found throughout nature from seashells to galaxies, can be harnessed to

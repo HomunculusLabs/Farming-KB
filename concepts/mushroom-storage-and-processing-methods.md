@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Storage and Processing Methods
+## Mushroom Storage and Processing Methods
 
 Mushrooms continue to respire after harvest with a relatively high respiration
 rate compared to other fresh produce. The respiration rate of [[root-cellaring]]

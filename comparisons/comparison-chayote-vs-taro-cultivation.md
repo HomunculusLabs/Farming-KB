@@ -12,7 +12,7 @@ sources:
   - "University of Hawaii CTAHR. *Taro: Mauka to Makai.* College of Tropical Agriculture and Human Resources, 2019."
 ---
 
-# Chayote vs Taro Cultivation
+## Chayote vs Taro Cultivation
 
 A comprehensive comparison of two important perennial starchy crops grown across tropical and subtropical regions worldwide.
 

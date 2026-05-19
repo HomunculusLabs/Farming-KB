@@ -7,7 +7,7 @@ tags: [fertilizer, organic, byproducts, npk, nutrients, gardening, soil-amendmen
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Animal Manure Guide
+## Animal Manure Guide
 
 ## Overview
 

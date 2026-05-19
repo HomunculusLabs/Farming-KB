@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, geology, ecology]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md]
 ---
 
-# Fungal Mineral Weathering
+## Fungal Mineral Weathering
 
 Fungi are among the most significant biological agents of mineral weathering — the process by which rocks and minerals break down into soil. Through a combination of mechanical and chemical mechanisms, fungi accelerate the conversion of rock into soil by orders of magnitude compared to abiotic processes alone.
 

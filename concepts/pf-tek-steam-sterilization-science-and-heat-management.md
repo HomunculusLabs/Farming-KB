@@ -14,7 +14,7 @@ sources:
   - fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-# PF TEK Steam Sterilization Science and Heat Management
+## PF TEK Steam Sterilization Science and Heat Management
 
 Steam sterilization of PF substrate jars using regular kitchen cookware is
 possible specifically because the [[comparison-pressure-canning-vs-water-bath-canning]]. The steam sterilization

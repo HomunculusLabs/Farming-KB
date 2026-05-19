@@ -5,7 +5,7 @@ type: entity
 tags: [species, tree, genus, drought-tolerance, soil-rehabilitation, mediterranean]
 ---
 
-# Tamarix (Tamarisk)
+## Tamarix (Tamarisk)
 
 ## Description
 

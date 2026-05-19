@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Medicinal Mushrooms and Cancer Chemoprevention
+## Medicinal Mushrooms and Cancer Chemoprevention
 
 Beyond treating existing cancers, [[medicinal-mushrooms]] show significant potential for cancer prevention (chemoprevention). This concept examines the evidence for mushrooms as preventive agents, their role as functional foods, and the immune system mechanisms that underpin their prophylactic effects.
 

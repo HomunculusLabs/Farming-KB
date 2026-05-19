@@ -5,7 +5,7 @@ type: entity
 tags: [product, material, cultivation, bag, low-cost, uk, kitchen, substrate-container]
 ---
 
-# Lakeland Plastics Boil Bag
+## Lakeland Plastics Boil Bag
 
 ## Description
 

@@ -5,7 +5,7 @@ type: entity
 tags: [planting, erosion-control, earthworks, permaculture, technique]
 ---
 
-# Net and Pan Planting Pattern
+## Net and Pan Planting Pattern
 
 ## Description
 

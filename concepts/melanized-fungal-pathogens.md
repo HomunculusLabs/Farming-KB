@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
-# Melanized Fungal Pathogens
+## Melanized Fungal Pathogens
 
 Melanized fungi (also called dematiaceous or phaeoid fungi) are a diverse group of fungi
 characterized by dark pigmentation in their cell walls due to the presence of melanin. Several

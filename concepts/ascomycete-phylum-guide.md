@@ -7,7 +7,7 @@ tags: [fungi, mycology, taxonomy, species-profiles, ecology, decomposition, biol
 sources: []
 ---
 
-# Ascomycete Phylum Guide
+## Ascomycete Phylum Guide
 
 Ascomycota is the largest phylum of fungi, containing over 64,000 described species. Members are commonly called sac fungi because they produce spores (ascospores) inside a microscopic sac called an ascus. This phylum includes some of the most economically and ecologically important fungi on Earth.
 

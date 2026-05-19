@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Solvent Extraction
+## Cannabis Solvent Extraction
 
 ## Overview
 

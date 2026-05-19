@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Saprobic Soil Fungi — Appendix: Direct Inoculation, Particle Filtration, and Ethanol Pasteurization
+## Saprobic Soil Fungi — Appendix: Direct Inoculation, Particle Filtration, and Ethanol Pasteurization
 
 ## Soil Collection (Appendix)
 

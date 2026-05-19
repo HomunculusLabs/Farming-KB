@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Single-Cell Protein from Fungal Wastewater Treatment
+## Single-Cell Protein from Fungal Wastewater Treatment
 
 Single-cell protein (SCP) production represents a valuable co-product of
 fungal wastewater treatment, simultaneously addressing protein scarcity

@@ -5,7 +5,7 @@ author: Nicholas P. Money
 topics: [mycology, history-of-science, pleomorphy, taxonomy, scientific-controversy]
 ---
 
-# Ernst Hallier and the Pleomorphic Extravagances
+## Ernst Hallier and the Pleomorphic Extravagances
 
 The Tulasne brothers' discovery that a single fungus could produce
 radically different [[spore]] types across its life cycle was one of the

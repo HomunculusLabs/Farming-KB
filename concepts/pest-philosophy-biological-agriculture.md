@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Pest Philosophy in Biological Agriculture
+## Pest Philosophy in Biological Agriculture
 
 ## Core Principle: Symptoms, Not Problems
 

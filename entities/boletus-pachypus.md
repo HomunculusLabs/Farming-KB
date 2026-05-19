@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycota, agaricomycetes, boletales, boletaceae, boletus, edible]
 ---
 
-# Boletus pachypus
+## Boletus pachypus
 
 ## Description
 

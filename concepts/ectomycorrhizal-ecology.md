@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, ecology, fungi]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Ectomycorrhizal Ecology
+## Ectomycorrhizal Ecology
 
 Ectomycorrhizal fungi (ECM) form symbiotic associations with the roots of woody plants — primarily trees in temperate and boreal forests. The fungus forms a sheath (mantle) around the root tip and a Hartig net between root cells, facilitating nutrient exchange. ECM fungi are essential to forest health, tree nutrition, and ecosystem function.
 

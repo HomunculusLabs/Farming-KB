@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Fungal Role in Soil Aggregation
+## Fungal Role in Soil Aggregation
 
 ## Overview
 

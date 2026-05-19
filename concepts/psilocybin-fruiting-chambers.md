@@ -23,7 +23,7 @@ sources:
 - raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md
 ---
 
-# Psilocybin Fruiting Chambers and Stages
+## Psilocybin Fruiting Chambers and Stages
 
 Fruiting stage management, growing chamber construction, casing materials, and drying/storage for psilocybin mushrooms, based on Gottlieb's Psilocybin Producer's Guide (1976), the Magic Mushroom Grower's Guide, and Badham's experimental studies on light initiation and tropisms.
 

@@ -17,7 +17,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Gerronema strombodes
+## Gerronema strombodes
 
 ## Overview
 

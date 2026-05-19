@@ -5,7 +5,7 @@ type: concept
 tags: [plant-communication, VOCs, volatile-organic-compounds, allelopathy, plant-defense, mycorrhizal-network]
 created: 2026-05-08
 ---
-# Plant Communication Through Volatile Organic Compounds
+## Plant Communication Through Volatile Organic Compounds
 
 ## The Language of Plants
 

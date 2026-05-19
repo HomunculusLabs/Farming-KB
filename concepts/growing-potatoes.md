@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Potatoes
+## Growing Potatoes
 
 The potato is the most nutritionally productive staple crop except for bare oats, producing many times more actual nutrition per acre than any other staple. Potatoes can contain up to about 11% protein (dry weight), matching the protein content of human breast milk. Understanding how soil fertility, moisture, and variety choice affect potato quality is essential for getting the most from this foundational crop.
 

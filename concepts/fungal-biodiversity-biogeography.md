@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungal Biodiversity and Biogeography
+## Fungal Biodiversity and Biogeography
 
 Species diversity, distribution patterns, endemism, and the challenges of documenting fungal biodiversity. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-extreme-environments]], [[fungal-ecology-decomposition-cycles]], and [[fungal-nutrient-cycling-mineral-transformations]].
 

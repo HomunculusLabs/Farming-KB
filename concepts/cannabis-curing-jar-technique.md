@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Curing Jar Technique
+## Cannabis Curing Jar Technique
 
 Curing is the post-drying process that transforms freshly dried cannabis into a smooth, potent, and flavorful product. While drying removes the bulk of moisture from the harvested plant material, curing allows the remaining moisture to redistribute evenly, breaks down chlorophyll and other undesirable compounds, and promotes the degradation of non-psychoactive acidic cannabinoids into their active forms. The jar curing method is the most common and effective approach.
 

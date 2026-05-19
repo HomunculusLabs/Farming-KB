@@ -8,7 +8,7 @@ source: psilocybin-synthesis-shirota-concise-large-scale-method|tryptamine-chemi
 created: 2026-05-08
 ---
 
-# Catalytic Hydrogenolysis Debenzylation to Crystalline Psilocybin
+## Catalytic Hydrogenolysis Debenzylation to Crystalline Psilocybin
 
 ## Overview
 

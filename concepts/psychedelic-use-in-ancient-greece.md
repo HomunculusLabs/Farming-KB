@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Psychedelic Use in Ancient Greece
+## Psychedelic Use in Ancient Greece
 
 The  represent the most well-documented potential case, several other Greek religious and cultural practices suggest familiarity with [[ergot-and-lysergic-acid-history]] provides the pharmacological backdrop for this hypothesis.
 

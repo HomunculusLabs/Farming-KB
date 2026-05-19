@@ -5,7 +5,7 @@ type: entity
 tags: [infrastructure, season-extension, low-tunnel, winter-growing]
 ---
 
-# Quick Hoops
+## Quick Hoops
 
 ## Description
 

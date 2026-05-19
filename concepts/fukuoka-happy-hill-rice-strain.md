@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Happy Hill Rice Strain
+## Fukuoka Happy Hill Rice Strain
 
 Updated: 2026-04-19
 

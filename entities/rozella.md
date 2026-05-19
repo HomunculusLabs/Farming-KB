@@ -5,7 +5,7 @@ type: entity
 tags: [chytrid, obligate-parasite, endoparasite, basal-fungi, mycoparasite]
 ---
 
-# Rozella
+## Rozella
 
 ## Description
 

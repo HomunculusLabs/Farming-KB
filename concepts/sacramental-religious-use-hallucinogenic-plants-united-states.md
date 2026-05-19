@@ -1,4 +1,8 @@
-# Sacramental Religious Use of Hallucinogenic Plants in the United States
+---
+title: "Sacramental Religious Use of Hallucinogenic Plants in the United States"
+tags:
+  - concept
+---
 
 ## Overview
 

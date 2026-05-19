@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Latitude Effects on Climate and Agriculture
+## Latitude Effects on Climate and Agriculture
 
 ## Description
 

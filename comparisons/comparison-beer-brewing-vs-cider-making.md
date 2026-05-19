@@ -13,7 +13,7 @@ sources: [raw/papers/gardening-without-work-ruth-stout.md]
 type: comparison
 ---
 
-# Beer Brewing vs Cider Making
+## Beer Brewing vs Cider Making
 
 ## Overview
 

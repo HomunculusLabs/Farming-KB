@@ -5,7 +5,7 @@ type: entity
 tags: [deity, buddhism, tibetan, bardo, dhyani-buddha]
 ---
 
-# Amoghasiddhi
+## Amoghasiddhi
 
 ## Description
 Amoghasiddhi is the Dhyani Buddha of the Northern Realm, known as the "Almighty Conqueror" and associated with the element of air — the principle of movement, extension, life, and breath (prana). In *The Psychedelic Experience*, Lama Govinda describes Amoghasiddhi as representing "the mysterious activity of spiritual forces, which work removed from the senses, invisible and imperceptible, with the aim of guiding the individual towards the maturity of knowledge and liberation."

@@ -5,7 +5,7 @@ type: entity
 tags: [organelle, photosynthesis, plant-cell, plastid, chlorophyll]
 ---
 
-# Chloroplast
+## Chloroplast
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe hoogshagenii
+## Psilocybe hoogshagenii
 
 **Type:** Species (Fungus)
 **Category:** Basidiomycota, Agaricales, Strophariaceae, Psilocybe

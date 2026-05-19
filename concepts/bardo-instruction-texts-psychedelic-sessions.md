@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Bardo Instruction Texts for Psychedelic Sessions
+## Bardo Instruction Texts for Psychedelic Sessions
 
 ## Overview
 

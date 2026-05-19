@@ -6,7 +6,7 @@ tags: [dmt, tryptamine, psychedelic, consciousness, pharmacology, visionary-expe
 aliases: [DMT Experience, N,N-Dimethyltryptamine, Spirit Molecule]
 ---
 
-# DMT (N,N-Dimethyltryptamine) Pharmacology and Experience
+## DMT (N,N-Dimethyltryptamine) Pharmacology and Experience
 
 N,N-Dimethyltryptamine (DMT) is a potent psychedelic tryptamine found naturally
 in numerous plant species, animal tissues, and the human body. Terence McKenna's

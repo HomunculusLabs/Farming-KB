@@ -20,7 +20,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Inocybe aeruginascens
+## Inocybe aeruginascens
 
 A psychoactive Inocybe species notable for containing the rare compound aeruginascin, unique among known [[psilocybin-mushrooms]]. First described by [[jochen-gartz]] and romagnesi.
 

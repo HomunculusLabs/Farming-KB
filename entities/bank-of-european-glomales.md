@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: entity
 ---
 
-# Bank of European Glomales (BEG)
+## Bank of European Glomales (BEG)
 
 ## Description
 

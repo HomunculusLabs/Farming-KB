@@ -18,7 +18,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 type: concept
 ---
-# Tryptamines, the Soul, and the Extraterrestrial Hypothesis
+## Tryptamines, the Soul, and the Extraterrestrial Hypothesis
 
 In his 1983 Esalen lecture "[[dmt-finnegans-wake-and-the-merry-go-raum]]," from the
 German word for space. In this space one encounters self-transforming machine-elf entities,

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
-# Hops History and Brewing
+## Hops History and Brewing
 
 Hops ([[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] responsible for hops' bitterness, flavor, and aroma.
 

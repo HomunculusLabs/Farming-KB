@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Mushrooms Outdoors in a Garden
+## How to Grow Mushrooms Outdoors in a Garden
 
 ## Short Answer
 

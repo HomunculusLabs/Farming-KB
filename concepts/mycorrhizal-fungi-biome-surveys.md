@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: []
 ---
-# Mycorrhizal Fungi Biome Surveys
+## Mycorrhizal Fungi Biome Surveys
 
 Mycorrhizal fungi surveys across biomes reveal the fundamental
 importance of plant-fungal symbioses in ecosystem structure

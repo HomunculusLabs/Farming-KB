@@ -11,7 +11,7 @@ sources:
   - "raw/papers/mckenna_t-food_of_the_gods.md"
 ---
 
-# Bufotenin
+## Bufotenin
 
 **Bufotenin** (5-hydroxy-*N*,*N*-dimethyltryptamine, abbreviated **5-HO-DMT**) is a naturally occurring [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] found in a wide range of organisms, including several species of toads, mushrooms, and plants. It is a close structural analog of both serotonin (5-hydroxytryptamine, 5-HT) and the classical psychedelic *N*,*N*-dimethyltryptamine (DMT), differing from DMT by the addition of a single hydroxyl group at the 5-position of the indole ring.
 

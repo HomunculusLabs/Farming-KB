@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# Row Cover Fabric Management
+## Row Cover Fabric Management
 
 Floating [[light-deprivation-cannabis]].
 

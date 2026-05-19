@@ -7,7 +7,7 @@ tags: [fertilizer, recipe, organic, gardening, nutrients, npk, compost]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Homemade Liquid Fertilizer
+## Homemade Liquid Fertilizer
 
 ## Overview
 

@@ -8,7 +8,7 @@ tags: []
 type: concept
 ---
 
-# Bauhaus Movement
+## Bauhaus Movement
 ## Overview
 The Bauhaus was a German school of art, design, craft, and architecture founded in 1919.
 It became one of the most influential design movements of the [[permaculture-urban-design]].

@@ -23,7 +23,7 @@ sources:
   - https://www.allbud.com/marijuana-strains/indica/skywalker-og
 ---
 
-# Skywalker OG
+## Skywalker OG
 
 ## Overview
 

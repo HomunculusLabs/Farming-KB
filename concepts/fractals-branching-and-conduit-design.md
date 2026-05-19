@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fractals, Branching, and Conduit Design
+## Fractals, Branching, and Conduit Design
 
 ## Overview
 

@@ -18,7 +18,7 @@ sources:
   - Cappelli, A. (1984). "Agaricus L.: Fungi Europaei." Giovanna Biella.
 ---
 
-# Agaricus silvaticus
+## Agaricus silvaticus
 
 ## Overview
 

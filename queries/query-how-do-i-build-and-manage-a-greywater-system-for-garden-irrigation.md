@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Build and Manage a Greywater System for Garden Irrigation?
+## How Do I Build and Manage a Greywater System for Garden Irrigation?
 
 ## Short Answer
 A greywater system collects wastewater from sinks, showers, and washing

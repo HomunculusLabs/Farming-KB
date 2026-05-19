@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Pasteurization and Sterilization Methods
+## Pasteurization and Sterilization Methods
 
 ## Overview
 

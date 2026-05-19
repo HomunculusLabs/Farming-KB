@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Informal Economy and Community Currencies
+## Informal Economy and Community Currencies
 
 In [[permaculture-design]], the informal economy represents a vital layer of [[permaculture-community-resilience]] — a web of exchange relationships that operates alongside (and often beneath) the formal monetary system. [[bill-mollison]] emphasized that strong communities develop their own systems of value exchange, reducing dependence on external financial institutions and creating local self-reliance. These systems are not merely economic conveniences; they are expressions of the [[permaculture-ethics]] of earth care, people care, and fair share.
 

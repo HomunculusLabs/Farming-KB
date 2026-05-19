@@ -17,7 +17,7 @@ tags: []
 updated: 2026-05-06
 ---
 
-# Brassinosteroid Growth Promotion in Psilocybe Cubensis Brassinosteroids are a class of steroidal plant growth regulators that were first
+## Brassinosteroid Growth Promotion in Psilocybe Cubensis Brassinosteroids are a class of steroidal plant growth regulators that were first
 recognized as a distinct group of phytohormones in the late 1970s. By 1990, approximately 30 members had been detected across a wide variety of higher
 plants, including both Angiospermae and Gymnospermae, as well as in a green alga. Their strong growth-promoting activity involves complex [[chamovitz-photoperiodism-agricultural-applications]] to produce higher crop yields and
 anti-stress effects had been reported, but no studies had examined the occurrence and activity of brassinosteroids on fungi until this pioneering work by Gartz,

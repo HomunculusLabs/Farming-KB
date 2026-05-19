@@ -9,7 +9,7 @@ sources: []
   - "raw/papers/vic-high-creating-true-breeding-strains.md"
 ---
 
-# Panama Red
+## Panama Red
 
 **Panama Red** is a legendary cannabis landrace strain that originated in Panama and was one of the most popular and widely consumed cannabis varieties in the United States during the 1960s and 1970s. Known for its pure sativa genetics, distinctive reddish hue, and potent cerebral effects, Panama Red occupies an important place in cannabis history as a representative of the pre-hybridization era of [[cannabis-sativa]]* L. (pure landrace sativa)
 - **Type:** Photoperiod landrace

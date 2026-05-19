@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ecology, nutrient-cycling, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Decomposition Cycles
+## Decomposition Cycles
 
 Decomposition cycles are the biogeochemical processes by which organic
 matter is broken down into inorganic nutrients, releasing carbon dioxide

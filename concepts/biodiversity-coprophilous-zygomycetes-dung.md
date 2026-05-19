@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, zygomycetes, coprophilous, dung-fungi, mucorales]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Coprophilous Zygomycetes on Dung Coprophilous Zygomycetes, particularly members of the order [[coprophilous-fungi]] for broader coverage of dung-inhabiting fungi
+## Coprophilous Zygomycetes on Dung Coprophilous Zygomycetes, particularly members of the order [[coprophilous-fungi]] for broader coverage of dung-inhabiting fungi
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

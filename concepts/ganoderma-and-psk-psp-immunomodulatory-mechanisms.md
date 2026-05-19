@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Ganoderma and PSK/PSP Immunomodulatory Mechanisms
+## Ganoderma and PSK/PSP Immunomodulatory Mechanisms
 
 [[ganoderma-lucidum]], PSK, and PSP each modulate the immune system through distinct but overlapping mechanisms. This concept details the specific cellular and molecular pathways by which these mushroom-derived compounds enhance host immunity against cancer.
 

@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# How do I harden off seedlings before transplanting?
+## How do I harden off seedlings before transplanting?
 
 ## Short Answer
 

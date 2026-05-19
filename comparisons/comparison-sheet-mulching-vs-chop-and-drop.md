@@ -1,5 +1,5 @@
 ---
-title: comparison-sheet-mulching-vs-chop-and-drop-mulching vs Chop-and-Drop Mulching
+title: "Comparison Sheet Mulching Vs Chop And Drop"
 created: 2026-04-28
 tags: [soil, mulching, no-till, permaculture, comparison]
 date: 2026-04-25
@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Sheet Mulching vs Chop-and-Drop Mulching
+## Sheet Mulching vs Chop-and-Drop Mulching
 
 ## Overview
 

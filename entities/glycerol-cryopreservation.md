@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Description
+## Description
 
 [[glycerol]] cryopreservation is a method for long-term storage of mushroom cultures by
 freezing them with glycerol (also known as glycerin) as a cryoprotectant. Glycerol
@@ -22,13 +22,13 @@ This storage method is considered the gold standard for professional culture col
 and is particularly important for rare or difficult-to-collect wild isolates that cannot
 be easily replaced.
 
-# Classification
+## Classification
 
 Category: [[cotter-culture-storage-senescence]] technique. Domain: [[mycology]], cryobiology. Related methods:
 [[submerged-agar-cube-storage]] cubes, agar slants, colonized grain storage, dehydration, mineral oil
 storage.
 
-# Key Facts
+## Key Facts
 
 Glycerol acts as a cryoprotectant that prevents intracellular ice crystal formation. It is
 used at a 5 percent concentration, meaning 95 ml of culture slurry mixed with 5 ml of
@@ -49,7 +49,7 @@ magnetic stirrer for 1 to 3 days to allow mycelial recovery from blender damage.
 mixture is then pre-chilled, glycerol is added to 5 percent, and the slurry is transferred
 to sterile storage tubes for freezing.
 
-# Viability Testing Protocol
+## Viability Testing Protocol
 
 Before committing an entire collection to frozen storage, test viability by preparing
 identical liquid cultures of a single strain and freezing multiple tubes. After one month,
@@ -69,7 +69,7 @@ Repeat the viability test after two months and every consecutive month thereafte
 the longest interval your cultures can withstand being frozen and thawed without incurring
 damage.
 
-# Relevance to Cultivation
+## Relevance to Cultivation
 
 Glycerol cryopreservation is the gold standard for long-term culture storage in
 professional mycology laboratories. It allows cultivators to maintain libraries of

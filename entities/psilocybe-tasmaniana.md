@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, tasmania, entheogenic, agaricales, dung-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 ---
 
-# Psilocybe tasmaniana
+## Psilocybe tasmaniana
 
 **Psilocybe tasmaniana** is a [[psilocybin]] and [[baeocystin]] has been detected in trace amounts in related Tasmanian species and may also be present.
 

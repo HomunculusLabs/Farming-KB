@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Unheated Greenhouse Winter Harvest
+## Unheated Greenhouse Winter Harvest
 
 The unheated greenhouse winter harvest system, developed and refined by
 [[comparison-crop-rotation-vs-cover-cropping]] across beds. Soil fertility is maintained through

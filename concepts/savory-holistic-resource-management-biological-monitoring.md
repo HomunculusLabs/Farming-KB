@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Biological Monitoring and Control
+## Biological Monitoring and Control
 
 Biological monitoring is the essential feedback mechanism in Allan Savory's
 [[savory-water-cycle-management]], [[savory-water-cycle-management]], [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]] worldwide, the

@@ -7,7 +7,7 @@ tags: [soil]
 sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
-# Teaming with Microbes: Soil Minerals and Cation Exchange
+## Teaming with Microbes: Soil Minerals and Cation Exchange
 
 **Source:** Jeff Lowenfels and Wayne Lewis, *Teaming with Microbes*
 

@@ -5,7 +5,7 @@ source_author: terence-mckenna
 topics: [addiction, free-will, disease-model, dominator-culture, psychopharmacology, habit, medicalization, agency]
 ---
 
-# Addiction as Disease and the Erosion of Free Will
+## Addiction as Disease and the Erosion of Free Will
 
 ## Core Concept
 

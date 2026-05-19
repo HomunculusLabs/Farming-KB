@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Rejuvenation and Re-vegging Harvested Cannabis
+## Rejuvenation and Re-vegging Harvested Cannabis
 
 Rejuvenation (also called re-vegging) is the process of returning a harvested
 cannabis plant back to [[cannabis-sativa-flowering-cycle-management]]. Jorge

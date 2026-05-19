@@ -9,7 +9,7 @@ tags: [mushroom, growing-room, temperature, moisture, ventilation, cave, cellar,
 updated: 2026-04-26
 ---
 
-# [[grass-seed-substrate-for-mushroom-cultivation]], several factors should be considered:
+## [[grass-seed-substrate-for-mushroom-cultivation]], several factors should be considered:
 - **Temperature stability** -- locations that maintain temperatures between 54-60°F with minimal fluctuation are ideal
 - **Protection from wind** -- strong drafts dry out beds and disturb the delicate [[coleman-bed-preparation-and-minimal-tillage]] ongoing maintenance
 - **Proximity to markets** -- freshness is critical for mushroom sales, so proximity to customers is advantageous

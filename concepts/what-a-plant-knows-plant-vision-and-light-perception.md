@@ -1,5 +1,10 @@
+---
+title: "What A Plant Knows Plant Vision And Light Perception"
+tags:
+  - concept
+---
 
-# Plant Vision and Light Perception
+## Plant Vision and Light Perception
 
 Plants monitor their visible environment continuously and with surprising
 sophistication. They see if you come near them, know when you stand over them, can
@@ -143,8 +148,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-- [[query-what-is-biochar-and-should-i-use-it]]
-- [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]
-- [[query-what-is-the-best-soil-mix-for-growing-cannabis]]

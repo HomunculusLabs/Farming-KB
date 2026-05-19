@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Alpine Plant Cultivation and Gentian Propagation
+## Holzer Alpine Plant Cultivation and Gentian Propagation
 
 [[gentiana-lutea]]) propagation. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
 

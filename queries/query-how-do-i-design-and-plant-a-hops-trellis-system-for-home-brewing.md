@@ -14,7 +14,7 @@ created: 2026-04-28
 type: query
 ---
 
-# How Do I Design and Plant a Hops Trellis System for Home Brewing?
+## How Do I Design and Plant a Hops Trellis System for Home Brewing?
 
 ## How Many Plants Do I Need?
 

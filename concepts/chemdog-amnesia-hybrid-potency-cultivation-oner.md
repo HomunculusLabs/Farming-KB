@@ -1,4 +1,8 @@
-# Chemdog × Amnesia — Potent Sativa-Dominant Hybrid Cross
+---
+title: "Chemdog × Amnesia — Potent Sativa-Dominant Hybrid Cross"
+tags:
+  - concept
+---
 
 **Source:** S.T. Oner, *[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] of the last two decades. The cross uses an indica-heavy Chemdog IX-III as one parent and an Amnesia plant as the other, producing a hybrid that leans only slightly toward sativa dominance. This near-equal balance of indica and sativa genetics provides both the hybrid vigor that breeders seek and the complex, multi-layered high that consumers desire.
 

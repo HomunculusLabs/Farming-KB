@@ -34,7 +34,7 @@ tags:
   - medical-cannabis
 ---
 
-# Jorge Cervantes
+## Jorge Cervantes
 
 ## Overview
 

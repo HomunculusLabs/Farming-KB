@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Anandamide and the Endocannabinoid System
+## Anandamide and the Endocannabinoid System
 
 ## Overview
 

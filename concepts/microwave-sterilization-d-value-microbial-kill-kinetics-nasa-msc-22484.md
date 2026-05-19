@@ -4,7 +4,7 @@ created: 2026-05-10
 tags: [sterilization, microwave, microbial-kill-kinetics, d-value, nasa-msc-22484]
 ---
 
-# Microwave Sterilization D-Value and Microbial Kill Kinetics
+## Microwave Sterilization D-Value and Microbial Kill Kinetics
 
 ## Overview
 

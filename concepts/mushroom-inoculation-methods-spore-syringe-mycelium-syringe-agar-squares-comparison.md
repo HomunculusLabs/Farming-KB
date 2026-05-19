@@ -1,4 +1,8 @@
-# Mushroom Inoculation Methods: Spore Syringe, Mycelium Syringe, and Agar Squares
+---
+title: "Mushroom Inoculation Methods: Spore Syringe, Mycelium Syringe, and Agar Squares"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[classic-mushroom-recipes-traditional-preparations]]
-- [[emcdda-european-mushroom-varieties-and-market-products]]
-- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-- [[mushroom-hormones-gill-directed-tropism-basidiomycete-development]]
-- [[mushroom-spawn]]

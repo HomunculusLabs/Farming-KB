@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Insects and Diseases of Winter Crops
+## Insects and Diseases of Winter Crops
 
 Eliot Coleman's philosophy on insect pests and plant diseases is
 fundamentally nonconfrontational. This chapter lays out a

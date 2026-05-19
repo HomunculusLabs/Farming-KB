@@ -1,4 +1,8 @@
-# Sterilization Protocols and Aseptic Technique in Home Mushroom Cultivation
+---
+title: "Sterilization Protocols and Aseptic Technique in Home Mushroom Cultivation"
+tags:
+  - concept
+---
 
 ## Overview
 

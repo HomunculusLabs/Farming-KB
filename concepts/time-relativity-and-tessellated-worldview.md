@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Time, Relativity, and the Tessellated Worldview
+## Time, Relativity, and the Tessellated Worldview
 
 ## Overview
 

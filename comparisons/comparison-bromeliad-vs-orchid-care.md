@@ -12,7 +12,7 @@ sources:
 created: 2026-05-07
 type: comparison
 ---
-# Bromeliad vs Orchid Care
+## Bromeliad vs Orchid Care
 
 ## Quick Comparison
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Compost Leachate
+## Compost Leachate
 
 ## Description
 

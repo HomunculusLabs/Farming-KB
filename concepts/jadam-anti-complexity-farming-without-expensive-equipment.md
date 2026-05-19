@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Anti-Complexity Movement — Farming Without Expensive Equipment
+## JADAM Anti-Complexity Movement — Farming Without Expensive Equipment
 
 ## Overview
 

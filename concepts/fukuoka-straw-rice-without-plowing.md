@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka]
 ---
 
-# Rice Growing Without Plowing or Flooding (Fukuoka Method)
+## Rice Growing Without Plowing or Flooding (Fukuoka Method)
 
 ## The Direct-Seeded, No-Tillage Method
 

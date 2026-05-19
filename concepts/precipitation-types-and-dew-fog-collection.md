@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Precipitation Types and Dew-Fog Collection
+## Precipitation Types and Dew-Fog Collection
 
 Precipitation is one of the most critical climatic factors in [[table-mountain]], South Africa**: 329 cm (128 inches) per year from fog drip alone
 - **Lanai, Hawaii**: 127 cm (50 inches) per year from fog drip

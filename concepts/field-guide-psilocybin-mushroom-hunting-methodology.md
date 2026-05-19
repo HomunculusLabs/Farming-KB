@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, foraging, psilocybin, field-guide, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+sources: ["raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md"]
 type: concept
 ---
-# Field Guide to Psilocybin Mushroom Hunting Methodology
+## Field Guide to Psilocybin Mushroom Hunting Methodology
 
 This page covers the practical methodology for locating and harvesting
 psilocybin-containing mushrooms in the wild, as described in F.C. Ghouled's 1972

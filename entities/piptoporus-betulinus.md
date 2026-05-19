@@ -5,9 +5,9 @@ type: species
 tags: mycology, polypores, birch, piptoporus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Piptoporus betulinus Piptoporus betulinus, commonly known as the Birch Polypore or Razor Strop Fungus, is a distinctive bracket fungus found almost exclusively on birch trees. Historically significant as one of the earliest mushrooms used by humans, this species was famously found among the possessions of Otzi the Iceman, the 5,300-year-old mummy discovered in the Alps. Traditionally used for sharpening tools (hence "Razor Strop"), as a medicine, and even as a transportable fire-starting material, P. betulinus holds a unique place in ethnomycology. See fomitopsis-officinalis for another historically significant polypore and [[ganoderma-lucidum]] — Reishi, comparison of medicinal polypores
+## Piptoporus betulinus Piptoporus betulinus, commonly known as the Birch Polypore or Razor Strop Fungus, is a distinctive bracket fungus found almost exclusively on birch trees. Historically significant as one of the earliest mushrooms used by humans, this species was famously found among the possessions of Otzi the Iceman, the 5,300-year-old mummy discovered in the Alps. Traditionally used for sharpening tools (hence "Razor Strop"), as a medicine, and even as a transportable fire-starting material, P. betulinus holds a unique place in ethnomycology. See fomitopsis-officinalis for another historically significant polypore and [[ganoderma-lucidum]] — Reishi, comparison of medicinal polypores
 - [[chicken-of-the-woods]], edible bracket fungus
 - [[ganoderma-applanatum]] — Artist's Conk, birch-associated shelf fungus
 ## Background and Context

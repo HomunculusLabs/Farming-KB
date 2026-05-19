@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Informal and Formal Community Economics
+## Informal and Formal Community Economics
 
 Community economics, as described in [[permaculture-design]], encompasses the full spectrum of economic activity that sustains a settlement — from simple household-level barter to formally incorporated cooperative enterprises. [[bill-mollison]]'s framework recognises that resilient communities need both informal exchange networks and formal economic structures working in tandem. Conventional money flows inward from external agencies but tends to accumulate in cities and multinational corporations, draining wealth from local areas. By contrast, community-based money and credit systems keep value circulating indefinitely within the community, supporting local employment and reducing dependence on the external cash economy.
 

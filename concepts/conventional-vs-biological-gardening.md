@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Conventional vs Biological Gardening
+## Conventional vs Biological Gardening
 
 The [[query-how-to-transition-from-conventional-to-no-till-farming]] chemical-based gardening to biological soil food web gardening represents a fundamental shift in how gardeners understand and interact with soil. This shift was documented by Jeff Lowenfels and Wayne Lewis in "Teaming with Microbes," which traces their journey from typical suburban chemical gardeners to advocates of biological soil management.
 

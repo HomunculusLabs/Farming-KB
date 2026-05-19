@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Reishi Cultivation Methods
+## Reishi Cultivation Methods
 
 Reishi ([[ganoderic-acids]] have anti-coagulating effects and lower cholesterol. Anti-inflammatory activity comparable to hydrocortisone (Stavinoha, 1990). Low molecular weight polysaccharide fraction prolonged survival of HIV-exposed lymphocytes (Kim et al., 1994). Modulates blood pressure, lipid levels, and blood glucose.
 

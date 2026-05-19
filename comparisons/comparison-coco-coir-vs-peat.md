@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Coco Coir vs Peat
+## Coco Coir vs Peat
 
 ## Overview
 

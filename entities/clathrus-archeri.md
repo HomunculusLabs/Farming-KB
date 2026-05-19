@@ -19,7 +19,7 @@ sources:
     Mycoscience 55(3): 185-195.
 ---
 
-# Clathrus archeri
+## Clathrus archeri
 
 ## Overview
 

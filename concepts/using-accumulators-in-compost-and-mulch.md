@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Using Accumulators in Compost and Mulch
+## Using Accumulators in Compost and Mulch
 
 The real value of [[comparison-crop-rotation-vs-cover-cropping]], or green manuring so that the concentrated
 nutrients become available to other plants. This page covers the

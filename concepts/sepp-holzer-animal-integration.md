@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Sepp Holzer Animal Integration (Pigs, Cattle, Poultry)
+## Sepp Holzer Animal Integration (Pigs, Cattle, Poultry)
 
 Updated: 2026-04-18
 

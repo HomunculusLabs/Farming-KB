@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Advanced Mycoremediation Research Techniques
+## Advanced Mycoremediation Research Techniques
 
 [[mycoremediation]] at the research level encompasses a range of sophisticated techniques for screening, isolating, training, and deploying fungi to degrade environmental contaminants. College-level and professional mycoremediation research combines microbiology, ecology, chemistry, and engineering to develop practical solutions for pollution problems including petroleum spills, pesticide contamination, heavy metals, and industrial waste. This field is rapidly expanding as the limitations of conventional remediation methods become increasingly apparent.
 

@@ -23,7 +23,7 @@ sources:
 - raw/papers/bahay-kubo-indigenous-microorganisms_.md
 ---
 
-# Beneficial Indigenous Microorganisms (BIM)
+## Beneficial Indigenous Microorganisms (BIM)
 
 Gil Carandang's Philippine approach to indigenous microorganisms. Combines multiple microbial sources into a single blended serum, simpler and faster than Cho's 4-stage IMO process. See [[bionutrients]] for the full bionutrient preparation system that pairs with BIM.
 

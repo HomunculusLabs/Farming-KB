@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Roots of Clothing: Philosophy of Dress
+## The Roots of Clothing: Philosophy of Dress
 
 One thing [[fukuoka-green-gulch-zen-center-desert-reclamation]] in California and at farms in
 Italy.

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Wild Mushroom Markets in Europe
+## Wild Mushroom Markets in Europe
 
 ## Overview
 

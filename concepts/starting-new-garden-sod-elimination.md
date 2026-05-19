@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Starting a New Garden — Sod Elimination and Bed Preparation
+## Starting a New Garden — Sod Elimination and Bed Preparation
 
 Starting a new [[aphid-management-vegetable-garden-solomon]] almost always means converting an area covered in grass sod into productive growing beds. Grass creates an especially dense network of tough roots that holds soil together firmly. This chapter covers two primary approaches — rotary cultivation and hand-digging — plus critical timing and soil moisture considerations.
 

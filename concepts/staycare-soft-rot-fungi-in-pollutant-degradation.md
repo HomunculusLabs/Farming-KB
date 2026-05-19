@@ -9,7 +9,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Soft Rot Fungi in Pollutant Degradation
+## Soft Rot Fungi in Pollutant Degradation
 
 Soft rot fungi are a specialized group of organisms that occupy a
 distinct ecological niche among wood-decaying fungi. They grow in a

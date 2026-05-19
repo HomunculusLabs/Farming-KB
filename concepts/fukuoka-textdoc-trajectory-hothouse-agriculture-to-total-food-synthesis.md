@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Trajectory from Hothouse Agriculture to Total Food Synthesis
+## Trajectory from Hothouse Agriculture to Total Food Synthesis
 
 ## Overview
 

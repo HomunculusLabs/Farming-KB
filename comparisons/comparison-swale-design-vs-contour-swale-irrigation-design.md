@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Swale Design vs Contour Swale Irrigation Design
+## Swale Design vs Contour Swale Irrigation Design
 
 ## Overview
 Swale design covers the fundamental principles and techniques for creating level channels on

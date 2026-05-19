@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Phylloplane Fungi and Atmospheric Pollution
+## Phylloplane Fungi and Atmospheric Pollution
 
 ## Description
 

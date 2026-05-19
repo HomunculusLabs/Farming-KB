@@ -12,7 +12,7 @@ sources:
 type: concept
 ---
 
-# Fungal Propagule Dispersal by Soil Fauna
+## Fungal Propagule Dispersal by Soil Fauna
 
 Soil fauna play a critical but often underappreciated role in dispersing fungal
 propagules -- including spores and hyphal fragments -- through ecosystems. In

@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, insects, homestead-crafts, design]
 sources: []
 ---
 
-# Top Bar Hive Beekeeping
+## Top Bar Hive Beekeeping
 
 Top bar hives are a [[comparison-natural-beekeeping-vs-standard-beekeeping]] system that allows bees to build comb freely from suspended wooden bars rather than pre-formed frames. Popularized in the 1960s by the [[food-forest-design]] movement and proponents of low-intervention apiculture, top bar hives represent a departure from conventional Langstroth beekeeping.
 

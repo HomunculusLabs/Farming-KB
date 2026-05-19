@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Sun Trap and Frost Pocket Design
+## Sun Trap and Frost Pocket Design
 
 [[bill-mollison]] covers these topics
 extensively in Permaculture: A Designers' Manual (Chapter 3: Methods

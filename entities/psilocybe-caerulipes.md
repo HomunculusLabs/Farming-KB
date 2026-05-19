@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe caerulipes
+## Psilocybe caerulipes
 
 **Psilocybe caerulipes** is a psilocybin-containing mushroom in the family Hymenogastraceae. Commonly known as the **blue-foot** or **blue-footed psilocybe**, it is named for the distinctive blue bruising that develops on the stipe base. It is one of the more widely distributed [[polypore-fungi-eastern-north-america]] America, though it is relatively uncommon and easily overlooked due to its small size.
 

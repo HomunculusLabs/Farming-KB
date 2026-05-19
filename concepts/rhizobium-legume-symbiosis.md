@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Rhizobium-Legume Symbiosis
+## Rhizobium-Legume Symbiosis
 
 Rhizobium-legume symbiosis is one of the most important nitrogen-fixing mutualisms in terrestrial ecosystems. The gram-negative bacteria collectively known as [[rhizobia]] (genera Azorhizobium, Bradyrhizobium, Mesorhizobium, Allorhizobium, Rhizobium, Sinorhizobium) infect the roots of leguminous plants (family Leguminosae) and form specialized structures called root nodules where atmospheric nitrogen (N2) is converted into ammonia through the action of the [[enzyme]] nitrogenase.
 

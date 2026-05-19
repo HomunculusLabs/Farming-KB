@@ -6,7 +6,7 @@ type: concept
 tags: [gardening]
 sources: [papers/mycelium-running-stamets.md]
 ---
-# Rot Fungi and Wood Decomposition
+## Rot Fungi and Wood Decomposition
 
 Source: [[growing-gourmet-saprophytic-mushrooms-decomposers]] -- the decomposers -- steer the course for proliferating biological communities, shaping and forming the first menus in the food web from dead plants, insects, and other animals. Most gourmet and medicinal mushrooms are wood decomposers.
 

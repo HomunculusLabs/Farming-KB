@@ -8,7 +8,7 @@ sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 
-# Fungal Metal Transformations in Soil
+## Fungal Metal Transformations in Soil
 
 Fungi are fundamental decomposer organisms and plant symbionts ([[singh-fungal-transformation-metals-metalloids]] of pyromorphite
 - Fungi can translocate caesium, zinc, and cadmium, concentrating metals in [[mycelium]] and [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Charles H. Peck
+## Charles H. Peck
 
 ## Description
 

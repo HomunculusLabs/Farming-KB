@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Pests and Insect Enemies
+## Mushroom Pests and Insect Enemies
 
 ## Overview
 

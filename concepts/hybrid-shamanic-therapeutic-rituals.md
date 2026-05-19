@@ -6,7 +6,7 @@ tags: [hybrid, shamanic, therapeutic, ritual, neoshamanic, Metzner, ceremony, in
 created: 2026-05-08
 ---
 
-# Hybrid Shamanic Therapeutic Rituals
+## Hybrid Shamanic Therapeutic Rituals
 
 ## Overview
 

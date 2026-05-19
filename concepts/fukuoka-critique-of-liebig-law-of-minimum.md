@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka Critique of Liebig Law of Minimum
+## Fukuoka Critique of Liebig Law of Minimum
 
 ## Overview
 

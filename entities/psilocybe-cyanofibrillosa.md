@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe cyanofibrillosa
+## Psilocybe cyanofibrillosa
 
 **Type:** Species (Fungus)
 **Category:** [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of dried specimens may

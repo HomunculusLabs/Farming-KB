@@ -8,7 +8,7 @@ type: concept
 tags: [lsd, pharmacology]
 ---
 
-# LSD Pharmacology and Effects
+## LSD Pharmacology and Effects
 
 ## Chemical Classification and Potency
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
-# Dam Construction in Permaculture
+## Dam Construction in Permaculture
 
 Dam construction in permaculture is the design and building of water storage structures for irrigation, stock water, domestic supply, aquaculture, fire protection, and landscape rehydration. Dams (also called ponds or impoundments) are central elements of permaculture water strategy, especially in arid and seasonally dry climates. [[mollison-farm-dam-design-modifications]] extensively in his water chapter and dryland strategies chapter, emphasising that water storage is the foundation of productive and resilient landscapes.
 

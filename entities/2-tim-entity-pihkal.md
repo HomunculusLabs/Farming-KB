@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2-TIM
+## 2-TIM
 
 [[petroleum-ether]] (30-60 deg C)
 and then cooled with an external ice bath to 0 deg C. The addition of

@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis for Skin Conditions
+## Cannabis for Skin Conditions
 
 updated: 2026-04-18
 

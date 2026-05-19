@@ -8,7 +8,7 @@ sources:
   - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-# Protozoa in Soil
+## Protozoa in Soil
 
 ## Overview
 

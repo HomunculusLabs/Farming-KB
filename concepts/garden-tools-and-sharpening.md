@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Tools and Sharpening
+## Garden Tools and Sharpening
 
 [[steve-solomon]] argues that most home vegetable gardens (up to a quarter acre) need only
 **three essential hand tools**: a spade, a bow rake, and a hoe — plus a file to keep

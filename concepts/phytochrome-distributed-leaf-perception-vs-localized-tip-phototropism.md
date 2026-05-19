@@ -5,7 +5,7 @@ tags: [plant-biology, phytochrome, photoperiodism, phototropism, leaf, shoot-tip
 source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Phytochrome Distributed Leaf Perception vs Localized Tip Phototropism
+## Phytochrome Distributed Leaf Perception vs Localized Tip Phototropism
 
 ## Overview
 

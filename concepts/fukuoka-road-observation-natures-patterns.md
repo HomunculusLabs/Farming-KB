@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Observation of Nature's Patterns
+## Fukuoka's Observation of Nature's Patterns
 
 Throughout [[fukuoka-road-critique-of-modern-science]] and [[fukuoka-road-back-desert-reclamation]] — reading desertification patterns
 - [[fukuoka-ecological-balance-principles]], nature tends toward greater abundance, enriching human life." By richer, he means "ample microbial life, rich plant life, and fertile soil; a lively place where animals multiply and all life abounds." The Bushman, who barely manages to get by, "appears to be nothing but accepting with resignation his barren environment. This is poverty of the body and soul. I do not glorify this."

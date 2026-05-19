@@ -5,7 +5,7 @@ tags: [cannabis, microbiome, endorhiza, otu, soil-source, colonization, two-tier
 created: 2026-05-08
 ---
 
-# Shared OTU Analysis: Validating Soil as the Source of Endorhiza Microbes in Cannabis
+## Shared OTU Analysis: Validating Soil as the Source of Endorhiza Microbes in Cannabis
 
 ## Overview
 

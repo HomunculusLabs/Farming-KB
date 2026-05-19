@@ -7,7 +7,7 @@ tags: [safety, homesteading, construction, engineering, environment]
 sources: []
 ---
 
-# Earthquake Preparedness Guide
+## Earthquake Preparedness Guide
 
 Earthquakes strike without warning and can cause catastrophic damage to structures, infrastructure, and utilities. Unlike hurricanes or floods, there is no advance notice and no evacuation window. Preparation must be done in advance. This guide covers structural assessment, non-structural hazard mitigation, emergency supplies, and post-earthquake safety procedures.
 

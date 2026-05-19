@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Magical Illness Categories in the Peruvian Amazon
+## Magical Illness Categories in the Peruvian Amazon
 
 ## Overview
 

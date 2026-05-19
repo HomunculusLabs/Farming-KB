@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Indica, Sativa, and Ruderalis Cannabis?
+## What Is the Difference Between Indica, Sativa, and Ruderalis Cannabis?
 
 ## Short Answer
 Cannabis is divided into three subspecies: indica (short, bushy, sedating),

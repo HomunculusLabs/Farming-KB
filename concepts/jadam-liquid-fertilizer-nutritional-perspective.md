@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Liquid Fertilizer Nutritional Perspective
+## JADAM Liquid Fertilizer Nutritional Perspective
 
 JADAM introduces a fundamentally simple approach to [[jadam-nutritional-balance-fertilizer]] lies everywhere
 around the farm in the form of crop residues and wild grasses.

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water in Permaculture — Global and Local Strategies
+## Water in Permaculture — Global and Local Strategies
 
 Water is the driving force of all nature. In any organism, 99 molecules in 100 are water. The sustained flow of rivers is remarkable given that precipitation is an unusual event in most areas — at Paris, it rains only 7% of the time. Yet rivers flow year-round because the amount of water stored in soil is about fifteen times that held in river channels. Understanding and designing for water is central to [[permaculture]] practice.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Interactions with Insects Fungi have evolved intimate associations with diverse insect groups, ranging from mutualistic symbioses to parasitic relationships. These interactions represent some of the most complex and ecologically significant fungus-animal relationships. [[ant-termite-fungal-symbiosis]]
+## Fungal Interactions with Insects Fungi have evolved intimate associations with diverse insect groups, ranging from mutualistic symbioses to parasitic relationships. These interactions represent some of the most complex and ecologically significant fungus-animal relationships. [[ant-termite-fungal-symbiosis]]
 
 ## Lower vs Higher Attines
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Legume Nitrogen Dynamics
+## Legume Nitrogen Dynamics
 
 Legumes -- members of the bean and pea family (Fabaceae) -- gather nitrogen gas from the air through symbiotic bacteria (rhizobia) housed in root nodules. This makes them nature's primary on-farm nitrogen source. However, understanding exactly *how* legumes use and distribute that nitrogen is critical to using them effectively.
 

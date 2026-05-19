@@ -6,7 +6,7 @@ source: variation of psilocybin and psilocin levels bigwood beug
 created: 2026-05-11
 ---
 
-# Psilocybin and Psilocin Biosynthesis Variation Across Flushes
+## Psilocybin and Psilocin Biosynthesis Variation Across Flushes
 
 The levels of psychoactive alkaloids in *Psilocybe cubensis* vary significantly across [[dosage-unpredictability-psilocybin-subjective-experience]] will stem not only from set and setting but also from large dosage differences.
 

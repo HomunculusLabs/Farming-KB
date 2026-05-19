@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Harmonics and Geometry of Boundaries
+## Harmonics and Geometry of Boundaries
 
 ## Overview
 

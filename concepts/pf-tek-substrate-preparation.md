@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [mycology, cultivation, pf-tek, substrate, vermiculite, brown-rice, sterilization, psilocybe-cubensis]
 ---
 
-# PF TEK Substrate Formula and Jar Preparation
+## PF TEK Substrate Formula and Jar Preparation
 
 ## Overview
 

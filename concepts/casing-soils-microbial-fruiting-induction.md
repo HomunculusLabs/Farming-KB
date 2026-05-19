@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Casing Soils and Microbial Fruiting Induction
+## Casing Soils and Microbial Fruiting Induction
 
 Casing soils are a non-nutritive layer applied atop fully colonized mushroom substrate that play an essential role in triggering and supporting [[fungal-fruiting-body-formation-environmental-triggers]] for many [[classification-of-cultivated-mushroom-species]]. The practice originated with Agaricus growers and has since been recognized as one of the most fascinating examples of microbe-[[fungal-symbiosis]] in applied mycology.
 

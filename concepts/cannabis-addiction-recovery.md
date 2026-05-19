@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Addiction Recovery
+## Cannabis for Addiction Recovery
 
 Cannabis occupies a unique and sometimes controversial position in the context of addiction medicine. The [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]
 - **Withdrawal management**: Cannabinoids may ease opioid withdrawal symptoms including anxiety, insomnia, muscle aches, and gastrointestinal distress

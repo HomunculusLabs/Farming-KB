@@ -10,7 +10,7 @@ type: concept
 tags: [fukuoka]
 ---
 
-# Fukuoka No-Till Grain Production Method
+## Fukuoka No-Till Grain Production Method
 
 Masanobu Fukuoka's no-till grain production method is the practical centerpiece of his [[fukuoka-white-clover-cover-crop-system]] are broadcast over the standing heads of ripening rice.
 - About two weeks before the rice harvest, barley seed (6.5-22 lbs per quarter-acre) is sown directly over the standing rice.

@@ -15,7 +15,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# DMT (N,N-Dimethyltryptamine)
+## DMT (N,N-Dimethyltryptamine)
 
 N,N-Dimethyltryptamine (DMT) is a powerful endogenous [[psilocybin]] is itself 4-phosphoryloxy-N,N-dimethyltryptamine, making DMT the parent compound of this important class of psychoactive substances.
 

@@ -7,7 +7,7 @@ tags: [mycology, psilocybe-cubensis, mushroom-development, fungal-biology, fruit
 wikilinks: [mushroom-tropisms, evaporative-demand-mechanism-fungi, fungal-spore-dispersal]
 ---
 
-# Psilocybe cubensis Development Stages
+## Psilocybe cubensis Development Stages
 
 Psilocybe cubensis (Earle) Singer undergoes a well-defined sequence of [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]], following the formation of the primordium (knot of hyphae) on the substrate surface.
 

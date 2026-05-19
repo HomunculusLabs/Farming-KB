@@ -18,7 +18,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5888233/
 ---
 
-# Nigella sativa
+## Nigella sativa
 
 **Black seed** (also known as **kalonji**, **black cumin**, **fennel flower**, or **Roman coriander**) is an annual flowering plant in the family Ranunculaceae, native to southern Europe, North Africa, and southwest Asia. The small black seeds of N. sativa have been used as both a culinary spice and medicinal remedy for over 3,000 years, with a particularly [[cuminum-cyminum]], Apiaceae) or to Bunium bulbocastanum (also called black cumin). The seeds are sometimes called "onion seed" in South Asian cuisines, though the plant is not related to onions.
 

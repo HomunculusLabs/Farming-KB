@@ -20,7 +20,7 @@ sources:
   - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 ---
 
-# Organic Herb Gardening
+## Organic Herb Gardening
 
 Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract [[beneficial-insects-and-biological-pest-control]]. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based [[cervantes-companion-planting-pest-deterrent]] strategies.
 

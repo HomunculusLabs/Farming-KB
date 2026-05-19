@@ -5,7 +5,7 @@ tags: [mckenna, language, shamanism, epistemology, linguistics, consciousness, r
 created: 2026-05-11
 ---
 
-# A World Made of Language: Shamanic Epistemology
+## A World Made of Language: Shamanic Epistemology
 
 ## The Radical Proposition
 

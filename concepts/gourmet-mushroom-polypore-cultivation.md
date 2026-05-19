@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Gourmet Mushroom Polypore Cultivation Overview
+## Gourmet Mushroom Polypore Cultivation Overview
 
 [[stamets-cultivator-log-cultivation-shiitake-hericium]] and [[gourmet-mushroom-enriched-sawdust-cultivation]] blocks (see [[chaga-inonotus-obliquus-medicinal-profile]] (Chaga)
 - Phellinus spp.

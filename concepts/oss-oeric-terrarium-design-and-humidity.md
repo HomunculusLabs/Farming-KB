@@ -7,7 +7,7 @@ tags: [mycology, cultivation, fruiting-chamber, humidity, oss-oeric]
 sources: [raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
 ---
 
-# Oss & Oeric: Terrarium Design and Humidity Control
+## Oss & Oeric: Terrarium Design and Humidity Control
 
 Maintaining proper environmental conditions during the fruiting stage is critical for successful [[mushroom-growing-environments]] using readily available materials. The authors emphasize that humidity control is essential at every stage of cultivation, from mycelial incubation through fruiting.
 

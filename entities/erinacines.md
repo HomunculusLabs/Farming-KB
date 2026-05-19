@@ -24,7 +24,7 @@ aliases:
   - Erinacines A-S
 ---
 
-# Erinacines
+## Erinacines
 
 **Erinacines** are a family of cyathane-type diterpenoids isolated primarily from the **mycelium** of *Hericium erinaceus* (lion's mane mushroom). First discovered by Kawagishi and colleagues in 1993, erinacines are among the most potent natural stimulators of **nerve growth factor (NGF)** synthesis known, with erinacine A showing activity at picomolar concentrations. Unlike the related hericenones found in fruiting bodies, erinacines are predominantly produced in the mycelial stage of the fungus, making them accessible through liquid fermentation for large-scale production.
 

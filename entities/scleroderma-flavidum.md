@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, ectomycorrhizal, basidiomycete, heavy-metal-tolerance]
 ---
 
-# Scleroderma flavidum
+## Scleroderma flavidum
 
 ## Description
 

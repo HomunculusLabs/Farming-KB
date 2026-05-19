@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [brix, plant-quality, sugar-testing, nutrient-density, monitoring]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 type: concept
 ---
 
-# Brix Testing and Plant Quality Assessment
+## Brix Testing and Plant Quality Assessment
 
 ## What Brix Measures
 

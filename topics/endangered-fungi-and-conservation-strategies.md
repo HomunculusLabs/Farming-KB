@@ -20,7 +20,7 @@ related_concepts:
   - freshwater-fungal-habitats-conservation-urgency
   - gadd-fungal-biodiversity-conservation
 ---
-# Endangered Fungi and Conservation Strategies
+## Endangered Fungi and Conservation Strategies
 
 Fungi are among the most ancient and ecologically essential kingdoms [[pulsing-patterns-of-life-on-earth]], yet they are also among the most imperiled and least
 protected. An estimated 1.5 to 5.1 million fungal species inhabit the

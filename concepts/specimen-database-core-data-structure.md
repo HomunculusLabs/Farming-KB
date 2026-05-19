@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Core Data Structure for a Fungal Specimen Database
+## Core Data Structure for a Fungal Specimen Database
 
 ## Overview
 

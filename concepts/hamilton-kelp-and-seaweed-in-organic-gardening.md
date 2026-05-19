@@ -7,7 +7,7 @@ tags: [fertilizer, soil]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Hamilton [[geoff-hamilton-organic-techniques]]
+## Hamilton [[geoff-hamilton-organic-techniques]]
 - [[teaming-with-nutrients-fertilizer-application]]
 ## Background and Context
 

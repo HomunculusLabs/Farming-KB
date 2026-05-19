@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Neurospora Baiting and Isolation Methods
+## Neurospora Baiting and Isolation Methods
 
 Neurospora species are heterothallic ascomycetes that fruit on heat-treated substrata, including burned vegetation, steam-sterilized soil, and charred plant material. Several specialized methods have been developed for selective isolation of Neurospora from natural environments.
 

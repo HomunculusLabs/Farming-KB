@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-T
+## 2C-T
 
 [[methyl-dma-entity-pihkal]]thio-2,5-dimethoxy-PEA.
 

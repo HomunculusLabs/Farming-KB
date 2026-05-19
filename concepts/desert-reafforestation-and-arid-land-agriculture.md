@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Desert Reafforestation and Arid Land Agriculture
+## Desert Reafforestation and Arid Land Agriculture
 
 Desert reafforestation requires strategies derived from studying how desert peoples have traditionally managed their environments. Mollison's approach is based on fieldwork at Aboriginal settlements in central Australia (Ernabella, Papunya) and draws on techniques from oasis dwellers like the Papago Indians of Tucson.
 

@@ -15,7 +15,7 @@ sources:
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
-# Second Genesis Theory
+## Second Genesis Theory
 
 ## Overview
 

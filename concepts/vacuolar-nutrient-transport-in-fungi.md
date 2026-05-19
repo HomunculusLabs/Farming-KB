@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Vacuolar Nutrient Transport in Fungi
+## Vacuolar Nutrient Transport in Fungi
 
 ## Overview
 

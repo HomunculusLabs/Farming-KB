@@ -8,7 +8,7 @@ sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
 
-# Conocybe cyanopus
+## Conocybe cyanopus
 
 Conocybe cyanopus is a tiny, rarely encountered psychoactive mushroom species
 notable for its bluish-green discoloration at the base of the stem. Despite its

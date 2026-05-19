@@ -1,4 +1,8 @@
-# Fine Seedbeds, [[solomon-raised-beds-wide-rows-hills-garden-layout-methods|Solomon]], S. — *Gardening When It Counts*
+---
+title: "Fine Seedbeds, Solomon, S. — *Gardening When It Counts*"
+tags:
+  - concept
+---
 **Concept:** How to create the fine, crumbly soil structure (tilth) that small seeds need to germinate, and practical techniques for managing clods through [[hamilton-garden-planning-and-site-assessment]]. Crops with tiny seeds demand more [[solomon-difficult-vegetables-celery-cauliflower-high-demand-crops|difficult]] and weed removal incomplete
 
 ---

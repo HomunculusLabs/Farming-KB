@@ -24,7 +24,7 @@ sources:
   - https://www.erowid.org/chemicals/1v_lsd/1v_lsd.shtml
 ---
 
-# 1V-LSD
+## 1V-LSD
 
 ## Overview
 

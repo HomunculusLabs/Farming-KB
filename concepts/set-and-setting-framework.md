@@ -1,5 +1,5 @@
 ---
-title: lsd-set-and-setting-framework Framework
+title: "Set And Setting Framework"
 created: 2026-04-12
 updated: 2026-04-18
 type: concept

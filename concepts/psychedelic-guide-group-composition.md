@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Psychedelic Guide, Group Composition, Set and Setting
+## Psychedelic Guide, Group Composition, Set and Setting
 
 > The three pillars of a well-conducted [[psychedelic-session-instructions]], as articulated in *The [[leary-psychedelic-experience-bardo-mapping]]* by [[timothy-leary]], [[ralph-metzner]], and Richard Alpert — adapted from [[jung-and-the-tibetan-book-of-the-dead]] of the Dead.
 

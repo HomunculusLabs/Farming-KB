@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Moth Pesticide (JADAM Recipe #7)
+## Moth Pesticide (JADAM Recipe #7)
 
 **Updated:** 2026-04-18
 **Source:** JADAM [[jadam-herb-solution-jhs]]. This is a stronger formulation than recipe #6, designed for chewing pests that are more difficult to control than sucking insects.

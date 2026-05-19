@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, oyster-mushroom, contamination, pathology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Oyster Mushroom Contamination Management Contamination by competing organisms is the single greatest challenge in mushroom cultivation. [[growing-gourmet-sawdust-spawn-production-use]] and indicate insufficient sterilization or poor aseptic technique.
+## Oyster Mushroom Contamination Management Contamination by competing organisms is the single greatest challenge in mushroom cultivation. [[growing-gourmet-sawdust-spawn-production-use]] and indicate insufficient sterilization or poor aseptic technique.
 Some Aspergillus species produce aflatoxins, making contaminated blocks a health
 hazard beyond crop loss.
 

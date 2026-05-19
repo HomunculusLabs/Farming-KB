@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 type: concept
 ---
 
-# Hofmann on Mind, Matter, and Forbidden Transgression
+## Hofmann on Mind, Matter, and Forbidden Transgression
 
 ## The Fundamental Question
 

@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria Sacramental Wine: Juice Culturing and Growing Area
+## Amanita Muscaria Sacramental Wine: Juice Culturing and Growing Area
 
 ## The Sacramental Wine Concept
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# History of Neurotropic Fungi Discovery
+## History of Neurotropic Fungi Discovery
 
 The study of neurotropic (hallucinogenic, psychotropic, magic, sacred, psychedelic
 or entheogenic) fungi spans centuries, from indigenous ceremonial use to modern

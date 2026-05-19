@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Ozone Generators and Negative Ion Odor Control
+## Ozone Generators and Negative Ion Odor Control
 
 Managing odor is essential for discreet indoor [[cervantes-odor-control]] and
 [[stamets-growing-room-air-circulation-co2-management]] through it.

@@ -20,7 +20,7 @@ sources:
   - "Upton, R. (2001). \"Viburnum prunifolium.\" American Herbal Pharmacopoeia."
 ---
 
-# Viburnum Prunifolium (*Viburnum prunifolium* L.)
+## Viburnum Prunifolium (*Viburnum prunifolium* L.)
 
 ## Overview
 

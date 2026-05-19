@@ -20,7 +20,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Vigna radiata
+## Vigna radiata
 
 ## Overview
 

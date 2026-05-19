@@ -5,7 +5,7 @@ type: entity
 tags: [species, mushroom, wood-ear, cultivation, edible]
 ---
 
-# Auricularia fuscosuccinea
+## Auricularia fuscosuccinea
 
 ## Description
 

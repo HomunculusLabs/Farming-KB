@@ -16,7 +16,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Buckwheat as a Summer Cover Crop
+## Buckwheat as a Summer Cover Crop
 
 Among all summer cover crop options, [[organic-vegetable-garden-rotation-deep-beds]].
 

@@ -1,4 +1,8 @@
-# Hallucinogenic Mushroom Markets and Availability in Europe
+---
+title: "Hallucinogenic Mushroom Markets and Availability in Europe"
+tags:
+  - concept
+---
 
 ## Overview
 

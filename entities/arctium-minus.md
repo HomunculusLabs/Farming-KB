@@ -18,7 +18,7 @@ sources:
   - "Martin, R. & Junker, R.R. (2021). \"Arctium Species as Permaculture Plants.\" Agroecology and Sustainable Food Systems, 45(8), 1–15."
 ---
 
-# Arctium minus (*Lesser Burdock*)
+## Arctium minus (*Lesser Burdock*)
 
 ## Overview
 

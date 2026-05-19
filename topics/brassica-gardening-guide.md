@@ -5,11 +5,11 @@ tags: [brassicas, cole-crops, vegetable-gardening, organic-growing, cool-season-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/concepts/brassica-growing-guide.md
-  - /Users/t3rpz/wiki/concepts/growing-brassicas-organically.md
-  - /Users/t3rpz/wiki/concepts/solomon-growing-brassicas-guide.md
-  - /Users/t3rpz/wiki/concepts/hamilton-brassica-growing-organic.md
-  - /Users/t3rpz/wiki/concepts/cole-crop-harvest-and-storage.md
+  - raw/concepts/brassica-growing-guide.md
+  - raw/concepts/growing-brassicas-organically.md
+  - raw/concepts/solomon-growing-brassicas-guide.md
+  - raw/concepts/hamilton-brassica-growing-organic.md
+  - raw/concepts/cole-crop-harvest-and-storage.md
 related_concepts:
   - brassica-growing-guide
   - cole-crop-harvest-and-storage
@@ -18,7 +18,7 @@ related_concepts:
   - hamilton-brassica-growing-organic
 ---
 
-# Brassica and Cole Crop Gardening
+## Brassica and Cole Crop Gardening
 
 The brassica family, Brassicaceae, encompasses some of the most
 nutritious and productive vegetables available to home gardeners and

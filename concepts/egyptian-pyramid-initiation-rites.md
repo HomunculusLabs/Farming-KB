@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Egyptian Pyramid Initiation Rites
+## Egyptian Pyramid Initiation Rites
 
 ## Overview
 

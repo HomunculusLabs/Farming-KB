@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Recovery and Grazing Periods
+## Recovery and Grazing Periods
 
 In . Savory demonstrates that these two
 periods are inextricably linked: any change to one inevitably affects the

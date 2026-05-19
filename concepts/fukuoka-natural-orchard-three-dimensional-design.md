@@ -1,4 +1,8 @@
-# Fukuoka's Natural Orchard: Three-Dimensional Design Without Pruning
+---
+title: "Fukuoka's Natural Orchard: Three-Dimensional Design Without Pruning"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[fukuoka-three-dimensional-orchard-design]]
-- [[doc]]
-- [[dom]]

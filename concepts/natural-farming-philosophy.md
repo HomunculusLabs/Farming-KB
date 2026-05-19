@@ -16,7 +16,7 @@ tags:
   - ecology
 ---
 
-# Natural Farming Philosophy
+## Natural Farming Philosophy
 
 Natural farming is a philosophical and practical approach to agriculture developed by Japanese farmer and philosopher **Masanobu Fukuoka** (1913–2008). Presented in his seminal work *The Natural Way of Farming: The [[cannabis-chemical-fertilizers]] became thought of as indispensable only in the last fifty years or so. True, the ancient practice of using manure and compost does help speed crop growth, but this also depletes the land from which the organic material is taken. One gram of soil on Fukuoka's farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching microbes.
 

@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "Shulgin, A. & Shulgin, A. - PIHKAL: A Chemical Love Story"
 ---
-# 3-TE (3-Thioescaline; 4-Ethoxy-5-methoxy-3-methylthiophenethylamine)
+## 3-TE (3-Thioescaline; 4-Ethoxy-5-methoxy-3-methylthiophenethylamine)
 
 3-TE is a thio-substituted phenethylamine that replaces one of the oxygen atoms in the [[2c-b-pihkal-entry-20]] #150.
 

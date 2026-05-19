@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Designers Checklist
+## Aquaculture Designers Checklist
 
 A comprehensive reference checklist for designing and managing aquacultural systems, drawn from [[bill-mollison]]'s [[permaculture]]: A Designers' Manual. This checklist covers the essential decisions and considerations that determine the success of integrated fish and water systems.
 

@@ -7,7 +7,7 @@ tags: [gardening]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Hamilton: Garden Layout — Beds, Borders, Paths, and Terraces
+## Hamilton: Garden Layout — Beds, Borders, Paths, and Terraces
 
 **Source:** Geoff Hamilton, *[[comparison-raised-beds-vs-hugelkultur]]** can be created by removing topsoil, leveling the subsoil, replacing topsoil evenly, and building a supporting wall at the front. This is essential for terracing slopes into stepped borders.
 

@@ -4,7 +4,7 @@ source: "Fungi in the Environment (Gadd, Watkinson & Dyer, 2001)"
 tags: [fungi, bioweathering, mineral-dissolution, mycorrhiza, lichen, pedogenesis, geochemistry]
 ---
 
-# Fungal Bioweathering of Rocks
+## Fungal Bioweathering of Rocks
 
 ## Overview
 

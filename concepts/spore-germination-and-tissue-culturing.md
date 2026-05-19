@@ -6,7 +6,7 @@ tags: [spore-germination, tissue-culture, cloning, mushroom-cultivation, spore-s
 aliases: [Mushroom Cloning, Spore Streaking Technique, Starting Mushroom Cultures]
 ---
 
-# Spore Germination and Tissue Culturing
+## Spore Germination and Tissue Culturing
 
 The two fundamental pathways for starting fungal cultures: germinating spores for
 [[biodiversity-fungal-genetic-diversity]] or cloning tissue for genetic identicality, including detailed

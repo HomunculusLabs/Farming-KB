@@ -7,7 +7,7 @@ tags: [natural-farming, ecology, restoration, permaculture]
 sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 ---
 
-# Fukuoka Desert Reclamation
+## Fukuoka Desert Reclamation
 
 In his later years, Masanobu Fukuoka applied natural farming principles to desert reclamation, believing that deserts were largely human-made and could be restored through natural methods. He conducted reclamation projects in Africa, India, and the Middle East.
 

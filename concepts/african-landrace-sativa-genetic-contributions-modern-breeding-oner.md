@@ -5,7 +5,7 @@ tags: [sativa, landrace, african-genetics, cannabis-breeding, strain-development
 created: 2026-05-10
 ---
 
-# African Landrace Sativa — Genetic Contributions to Modern Breeding
+## African Landrace Sativa — Genetic Contributions to Modern Breeding
 
 ## Overview
 

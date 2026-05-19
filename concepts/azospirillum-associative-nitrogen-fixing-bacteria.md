@@ -6,7 +6,7 @@ type: concept
 tags: [soil-microbiology, nitrogen-fixation, plant-growth-promoting-rhizobacteria, biofertilizer]
 sources: []
 ---
-# Azospirillum — Associative Nitrogen-Fixing Bacteria
+## Azospirillum — Associative Nitrogen-Fixing Bacteria
 
 Azospirillum is a genus of Gram-negative, associative nitrogen-fixing bacteria that colonize the
 rhizosphere and root surfaces of a wide range of grasses, cereals, and other crops without

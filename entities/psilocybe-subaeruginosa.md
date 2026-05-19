@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin, basidiomycota, temperate, australasia, woodloving]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe subaeruginosa
+## Psilocybe subaeruginosa
 
 **Psilocybe subaeruginosa** is a potent [[cattle-dispersal-psychoactive-fungi-australia]]. It is closely related to the Northern Hemisphere [[psilocybe-cyanescens]] in the Northern Hemisphere, suggesting a broad ecological adaptability to anthropogenic lignicolous substrates.
 

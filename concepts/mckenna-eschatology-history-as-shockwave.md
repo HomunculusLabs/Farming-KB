@@ -6,7 +6,7 @@ source: mckenna_t-tryptamines_consciousness.md
 created: 2026-05-09
 ---
 
-# History as Eschatological Shockwave
+## History as Eschatological Shockwave
 
 "History is the [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness. The statement encapsulates his view
 that something exists at the end of time that is casting an enormous shadow over

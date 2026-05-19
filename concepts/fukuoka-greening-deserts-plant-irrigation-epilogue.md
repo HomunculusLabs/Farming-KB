@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Greening Deserts Plant Irrigation Method and Epilogue
+## Fukuoka Greening Deserts Plant Irrigation Method and Epilogue
 
 [[beneficial-indigenous-microorganisms-natural-farming]], and a sweeping vision for restoring the world's deserts through entirely natural means. This page distills those closing reflections and Fukuoka's practical proposals for [[four-principles-of-natural-farming]]:
 

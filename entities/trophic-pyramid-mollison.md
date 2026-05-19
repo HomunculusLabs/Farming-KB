@@ -5,7 +5,7 @@ type: entity
 tags: [ecological-concept, food-web, energy-flow, permaculture, systems-theory]
 ---
 
-# Trophic Pyramid
+## Trophic Pyramid
 
 ## Description
 

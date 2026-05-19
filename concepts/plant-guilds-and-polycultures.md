@@ -5,7 +5,7 @@ tags: [permaculture, gardening, polyculture, companion-planting, guilds]
 created: 2026-05-11
 ---
 
-# Plant Guilds and Polycultures
+## Plant Guilds and Polycultures
 
 ## What Is a Plant Guild?
 

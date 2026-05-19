@@ -7,7 +7,7 @@ tags: [food, nutrition]
 sources: []
 ---
 
-# Solar and Electric Food Drying Methods
+## Solar and Electric Food Drying Methods
 
 Updated: 2026-04-19
 

@@ -5,10 +5,10 @@ type: species
 tags: [korean-natural-farming, herbal-preparation, plant-defense, biostimulant, fermentation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
 
-# Oriental Herbal Nutrient (OHN)
+## Oriental Herbal Nutrient (OHN)
 
 **Oriental Herbal Nutrient (OHN)** is a complex biological input in **Korean Natural Farming (KNF)**, developed by Master Cho Han-Kyu. OHN is a multi-herb fermented extract designed to enhance plant immunity, stimulate reproductive growth (flowering and fruiting), and provide broad-spectrum pest and disease resistance. It is one of the most elaborate preparations in the KNF system, incorporating the medicinal properties of five traditional herbs through sequential alcohol and vinegar fermentation processes.
 

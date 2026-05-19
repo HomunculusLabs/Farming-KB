@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# Essential Amphetamines and Natural Precursors
+## Essential Amphetamines and Natural Precursors
 
 **Updated:** 2026-04-18
 

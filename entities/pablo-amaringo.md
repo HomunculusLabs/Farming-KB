@@ -24,7 +24,7 @@ sources:
 - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
 
-# Pablo Amaringo
+## Pablo Amaringo
 
 Pablo Amaringo (1938-2009) was a Peruvian vegetalista (plant healer), shaman, and artist from the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of the [[ayahuasca-tourism-economics-peruvian-amazon]]. He became internationally renowned for his intricate visionary paintings depicting ayahuasca experiences, Amazonian plant spirits, and the invisible world of the vegetalista.
 

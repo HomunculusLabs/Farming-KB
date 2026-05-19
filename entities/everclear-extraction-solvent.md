@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Everclear (Extraction Solvent)
+## Everclear (Extraction Solvent)
 
 ## Description
 

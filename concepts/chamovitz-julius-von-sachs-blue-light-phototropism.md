@@ -1,5 +1,10 @@
+---
+title: "Chamovitz Julius Von Sachs Blue Light Phototropism"
+tags:
+  - concept
+---
 
-# Julius von Sachs and the Discovery of Blue Light Phototropism
+## Julius von Sachs and the Discovery of Blue Light Phototropism
 
 In 1864, the German botanist Julius von Sachs made a foundational discovery
 that shaped the entire field of plant photobiology: blue light is the primary

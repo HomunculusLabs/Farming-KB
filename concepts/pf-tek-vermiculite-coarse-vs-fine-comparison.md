@@ -5,7 +5,7 @@ topics: vermiculite grades, particle size, water retention, brand variability
 created: 2026-05-08
 ---
 
-# PF Tek Vermiculite Coarse vs Fine Comparison
+## PF Tek Vermiculite Coarse vs Fine Comparison
 
 ## Overview
 

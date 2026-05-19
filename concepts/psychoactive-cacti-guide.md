@@ -21,7 +21,7 @@ sources:
 - raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 ---
 
-# Psychoactive Cacti Guide
+## Psychoactive Cacti Guide
 
 Mescaline-containing cacti have been used ceremonially for thousands of years. The principal species are peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), and Peruvian Torch (Echinopsis peruvianus).
 

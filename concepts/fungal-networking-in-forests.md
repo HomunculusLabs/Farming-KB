@@ -9,7 +9,7 @@ type: concept
 tags: [forest-garden, fungi]
 ---
 
-# Fungal Networking in Forests
+## Fungal Networking in Forests
 
 Fungal networking in forests refers to the vast underground systems of mycelial connections that link trees, plants, and soil organisms into integrated communities. These networks -- sometimes called the "wood wide web" -- enable [[plant-hormones-and-chemical-signaling-systems]], and coordinated responses across entire forest ecosystems.
 

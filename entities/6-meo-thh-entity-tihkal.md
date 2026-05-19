@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 6-MeO-THH — TIHKAL #44
+## 6-MeO-THH — TIHKAL #44
 
 ## Compound Identity
 

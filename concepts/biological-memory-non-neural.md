@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biology, neuroscience, memory, slime-mold, unconventional-computing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Biological Memory in Non-Neural Organisms
+## Biological Memory in Non-Neural Organisms
 
 Non-neural organisms — plants, fungi, and single-celled creatures — exhibit
 forms of memory and information storage without nervous systems. These phenomena

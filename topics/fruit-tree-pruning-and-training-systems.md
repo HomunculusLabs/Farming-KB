@@ -20,7 +20,7 @@ sources:
   - https://ucanr.edu/sites/fruitreport/Nutrition_Optimization/Pruning/
 ---
 
-# Fruit Tree Pruning and Training Systems
+## Fruit Tree Pruning and Training Systems
 
 ## Overview
 

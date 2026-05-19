@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Making Hills for Planting
+## Making Hills for Planting
 
 Hills are concentrated zones of highly fertile soil where individual plants or small clusters are grown. The technique of planting in hills is one of the oldest horticultural methods — it was the standard approach used by [[halpern-sacramental-peyote-and-native-american-church]] gardeners for centuries. Hills remain one of the most efficient ways to grow large, nutrient-demanding plants, especially when resources or time are limited.
 

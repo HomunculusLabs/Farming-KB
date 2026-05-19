@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, contamination, sterile-technique, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+sources: ["raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md"]
 type: concept
 ---
-# Oss & Oeric: Contamination Troubleshooting Contamination represents the most persistent challenge in amateur mushroom cultivation, and the Oss & Oeric guide devotes considerable attention to identifying, preventing, and managing it. The authors characterize the rye grain stage (Step III) as "the most difficult and discouraging step in the whole procedure," noting that rye is a suitable medium for a great variety of competing organisms. Their practical experience provides a detailed contamination taxonomy and prevention strategies. ## Why Contamination Matters at the Rye Stage The rye grain stage is particularly vulnerable because rye is a nutrient-rich medium that supports a wide variety of organisms. While [[oss-oeric-equipment-and-materials-list]] for supplies
+## Oss & Oeric: Contamination Troubleshooting Contamination represents the most persistent challenge in amateur mushroom cultivation, and the Oss & Oeric guide devotes considerable attention to identifying, preventing, and managing it. The authors characterize the rye grain stage (Step III) as "the most difficult and discouraging step in the whole procedure," noting that rye is a suitable medium for a great variety of competing organisms. Their practical experience provides a detailed contamination taxonomy and prevention strategies. ## Why Contamination Matters at the Rye Stage The rye grain stage is particularly vulnerable because rye is a nutrient-rich medium that supports a wide variety of organisms. While [[oss-oeric-equipment-and-materials-list]] for supplies
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

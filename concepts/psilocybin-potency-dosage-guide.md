@@ -8,7 +8,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Psilocybin Potency and Dosage Guide
+## Psilocybin Potency and Dosage Guide
 
 Source: [[psilocybe-cubensis-potency-harvest-timing]] — psilocin from 0.09% to 3.3% of dry mass (psilocybin content was depressed but not as much)
 - **Malt sugar**: Raising malt sugars above 10% completely suppresses [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]] are more potent

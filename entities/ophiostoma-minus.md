@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Ophiostoma minus
+## Ophiostoma minus
 
 **Ophiostoma minus** is an ascomycete fungus in the order
 Ophiostomatales, commonly known as the blue stain fungus. It is a

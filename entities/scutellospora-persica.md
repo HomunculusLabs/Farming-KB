@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, glomales, arbuscular-mycorrhizae, amf, species, scutellospora]
 ---
 
-# Scutellospora persica
+## Scutellospora persica
 
 ## Description
 

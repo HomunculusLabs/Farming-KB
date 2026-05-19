@@ -5,7 +5,7 @@ source_id: bloomfield-orchard
 topics: [dermatophytes, keratin, ringworm, fungal-ecology, skin-mycoses, tinea, medical-mycology]
 ---
 
-# Dermatophyte Keratin Ecology - Fungi That Eat Hair and Nails
+## Dermatophyte Keratin Ecology - Fungi That Eat Hair and Nails
 
 ## The Keratin Niche
 

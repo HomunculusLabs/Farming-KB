@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Chullachaki, Huairamama, and Amazonian Forest Spirits
+## Chullachaki, Huairamama, and Amazonian Forest Spirits
 
 The [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]] reveal a densely populated spiritual ecology in which the Amazon rainforest is alive with sentient beings — guardians, tricksters, serpents, and astral entities — each occupying a specific role within a vast [[amazonian-ship-aceropunta-and-visionary-cosmology]], beings from Antares — described as a distant galaxy — arrive on Earth in flying saucers, establishing contact with shamans and spiritual practitioners.
 

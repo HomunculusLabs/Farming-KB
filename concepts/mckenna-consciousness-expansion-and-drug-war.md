@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany]
 sources: [papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# Consciousness Expansion and the Drug War
+## Consciousness Expansion and the Drug War
 
 ## The Psychedelic as the Dominator's Nightmare
 

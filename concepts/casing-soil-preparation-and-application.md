@@ -2,7 +2,7 @@
 title: Casing Soil Preparation And Application
 ---
 
-# Casing Soil Preparation and Application
+## Casing Soil Preparation and Application
 
 Casing is a non-nutritive layer applied to fully colonized substrate to
 stimulate casing-layer-materials-and-formulas serves several critical functions:

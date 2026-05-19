@@ -22,7 +22,7 @@ sources:
 type: query
 created: 2026-05-03
 ---
-# What Are the Best Grain Legumes for a Small Homestead?
+## What Are the Best Grain Legumes for a Small Homestead?
 
 grain grain legumes and pulse crops crops (pulses) are essential crops for any small homestead. They provide homegrown protein, fix atmospheric nitrogen for your garden, improve [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - Provide a trellis or support for semi-leafless varieties

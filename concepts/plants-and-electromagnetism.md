@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Plants and Electromagnetism
+## Plants and Electromagnetism
 
 Plants are continually affected by wavelengths of the electromagnetic
 spectrum, from earth, moon, planets, cosmos, and man-made devices.

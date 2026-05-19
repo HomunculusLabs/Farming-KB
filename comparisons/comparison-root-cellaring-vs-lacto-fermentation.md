@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Root Cellaring vs Lacto-fermentation
+## Root Cellaring vs Lacto-fermentation
 
 ## Overview
 

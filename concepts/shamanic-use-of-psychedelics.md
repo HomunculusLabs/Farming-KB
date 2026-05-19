@@ -17,7 +17,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Shamanic Use of Psychedelics
+## Shamanic Use of Psychedelics
 
 The cross-cultural patterns of psychedelic plant use in shamanic and indigenous healing traditions worldwide.
 

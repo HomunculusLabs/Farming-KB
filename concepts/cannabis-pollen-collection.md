@@ -8,7 +8,7 @@ sources:
 type: concept
 tags: [cannabis]---
 
-# Cannabis Pollen Collection
+## Cannabis Pollen Collection
 
 Pollen collection is a critical skill for any cannabis [[cervantes-seed-production-storage]] and home breeding contexts.
 

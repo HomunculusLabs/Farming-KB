@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Henbane Plant in Plants of the Gods
+## Henbane Plant in Plants of the Gods
 
 Schultes and Hofmann document henbane ([[nightshade-plants-entheogen]]
 

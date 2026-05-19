@@ -5,7 +5,7 @@ type: entity
 tags: [hyphae, mycelium, fungal-structure, morphology, growth, biology, fungi]
 ---
 
-# Fungal Hyphae
+## Fungal Hyphae
 
 ## Description
 

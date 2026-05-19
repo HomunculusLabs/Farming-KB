@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 ---
 
-# Soil Food Web Overview
+## Soil Food Web Overview
 
 The [[teaming-with-microbes-overview]] and [[teaming-with-microbes-overview]] (insects, spiders, mites, springtails) eat each other and are in turn eaten by snakes, birds, moles, and other animals. [[teaming-with-microbes-fungi-the-underground-network]] travel through soil particles, sticking to them and binding them into aggregates. [[teaming-with-microbes-bacterial-vs-fungal-dominance]].
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hypogeous Fungi and Mammal-Mediated Spore Dispersal
+## Hypogeous Fungi and Mammal-Mediated Spore Dispersal
 
 Hypogeous (subterranean) fungi -- including truffles and related taxa -- have
 evolved a fundamental dependency on mammals for spore dispersal. Unlike

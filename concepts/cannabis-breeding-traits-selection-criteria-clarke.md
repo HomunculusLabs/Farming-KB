@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.m
 type: concept
 ---
 
-# Cannabis Breeding Traits Selection Criteria
+## Cannabis Breeding Traits Selection Criteria
 
 The successful breeder must be familiar with the many variable
 characteristics of Cannabis that may be genetically controlled. Clarke's

@@ -27,7 +27,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# Fukuoka's Natural Farming
+## Fukuoka's Natural Farming
 
 Masanobu Fukuoka (1913-2008) was a Japanese farmer and philosopher who developed a method of natural farming that requires no tilling, no cultivation, no chemical fertilizer, and no pesticides. His approach, documented in *The One-Straw Revolution* and *The Natural Way of Farming*, stands as one of the most radical and effective alternatives to industrial agriculture.
 

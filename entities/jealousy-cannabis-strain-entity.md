@@ -24,7 +24,7 @@ sources:
   - https://potguide.com/strains/jealousy/
 ---
 
-# Jealousy (Cannabis Strain)
+## Jealousy (Cannabis Strain)
 
 ## Overview
 

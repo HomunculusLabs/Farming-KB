@@ -5,7 +5,7 @@ tags: [mckenna, dmt, phenomenology, onset, mode-shift, consciousness]
 created: 2026-05-08
 ---
 
-# DMT Onset Phenomenology and Mode Shift
+## DMT Onset Phenomenology and Mode Shift
 
 ## Overview
 

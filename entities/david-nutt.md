@@ -9,7 +9,7 @@ occupation: [neuropsychopharmacologist, psychiatrist, professor, author]
 known_for: [drug harm ranking, ACMD dismissal, psychedelic research advocacy, Drug Science]
 ---
 
-# David Nutt
+## David Nutt
 
 David Nutt (born 1951) is a British neuropsychopharmacologist and
 professor at Imperial College London. He is best known for his

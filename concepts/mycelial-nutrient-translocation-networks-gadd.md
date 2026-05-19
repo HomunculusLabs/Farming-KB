@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [mycelium, nutrient-transport, basidiomycetes, cord-formation, vacuolar-transport, PCSI, fungal-ecology]
 ---
 
-# Mycelial Nutrient Transport Networks
+## Mycelial Nutrient Transport Networks
 
 ## Overview
 

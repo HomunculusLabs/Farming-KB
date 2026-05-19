@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Convection, Thermosiphons, and Heat Transfer in Design
+## Convection, Thermosiphons, and Heat Transfer in Design
 
 Understanding how heat is stored and transmitted is essential for building and garden [[applied-pattern-design-in-permaculture]]. Heat flows from warmer to colder bodies through three primary mechanisms — conduction, convection, and radiation — each with distinct properties, efficiencies, and design applications that can be harnessed to create comfortable and productive living systems.
 

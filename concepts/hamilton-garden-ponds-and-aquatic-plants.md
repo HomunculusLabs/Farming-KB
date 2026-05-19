@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Garden Ponds and Aquatic Plants
+## Garden Ponds and Aquatic Plants
 
 A garden pond is a valuable asset in any [[query-how-to-get-rid-of-slugs-and-snails-organically]], are
 especially attracted to ponds and should be actively encouraged.

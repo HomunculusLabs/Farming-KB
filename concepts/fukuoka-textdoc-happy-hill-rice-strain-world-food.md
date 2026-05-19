@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Happy Hill Rice Strain and World Food Potential
+## Happy Hill Rice Strain and World Food Potential
 
 ## Overview
 

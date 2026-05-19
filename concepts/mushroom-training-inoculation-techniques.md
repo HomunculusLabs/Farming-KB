@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Mushroom Bag Inoculation Techniques
+## Mushroom Bag Inoculation Techniques
 
 Inoculation is the critical step where prepared mushroom-training-substrate-preparation.
 Proper technique determines contamination rates and overall cultivation success. The FAO

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, fruiting, environment, cultivation, humidity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Fruiting Chamber Design and Environmental Parameters
+## Mushroom Fruiting Chamber Design and Environmental Parameters
 
 A fruiting chamber is an enclosed space where environmental conditions are
 controlled to trigger and support [[oyster-mushrooms]].

@@ -6,16 +6,16 @@ tags: [query, natural-building, straw-bale, earthbag, homesteading, owner-builde
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/straw-bale-construction.md
-  - /Users/t3rpz/wiki/concepts/earthbag-construction.md
-  - /Users/t3rpz/wiki/concepts/earthbag-building.md
+  - raw/concepts/straw-bale-construction.md
+  - raw/concepts/earthbag-construction.md
+  - raw/concepts/earthbag-building.md
 related_concepts:
   - straw-bale-construction
   - earthbag-construction
   - earthbag-building
 type: query
 ---
-# How Do I Choose Between Straw Bale and Earthbag Construction?
+## How Do I Choose Between Straw Bale and Earthbag Construction?
 ## Short Answer
 Choose [[comparison-root-cellar-vs-ice-house]], or studio can reveal whether the method suits your body, crew, and site.
 ## Which is better for fire resistance?

@@ -45,7 +45,7 @@ related_concepts:
   - wasson-hofmann-and-ruck-the-collaborative-eleusis-theory
 ---
 
-# The Eleusinian Mysteries and Ancient Entheogenic Cults
+## The Eleusinian Mysteries and Ancient Entheogenic Cults
 
 The Eleusinian Mysteries were the most prestigious and enduring religious rites
 of the ancient Greek world, conducted annually at the sanctuary of Demeter and

@@ -5,7 +5,7 @@ author: Robert "Psylocybe Fanaticus" McPherson
 tags: [pf-tek, sterilization, steam, jar, inoculation, canning, cultivation]
 ---
 
-# PF Tek Jar Preparation and Steam Sterilization
+## PF Tek Jar Preparation and Steam Sterilization
 
 The PF TEK jar preparation and steam sterilization process is the
 foundation of reliable [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier prevents most

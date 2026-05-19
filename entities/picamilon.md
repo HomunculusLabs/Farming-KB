@@ -15,7 +15,7 @@ sources:
   - Wikipedia contributors. "Picamilon." Wikipedia, The Free Encyclopedia.
 ---
 
-# Picamilon
+## Picamilon
 
 **Type:** Chemical / [[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]]. The niacin moiety provides lipophilicity for CNS
 penetration, where the compound hydrolyzes to release both GABA and

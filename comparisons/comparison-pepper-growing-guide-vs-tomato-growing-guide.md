@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Pepper Growing vs Tomato Growing
+## Pepper Growing vs Tomato Growing
 ## Overview
 Peppers and tomatoes are the two most popular solanaceous crops in home gardens,
 sharing many growing requirements but differing significantly in their heat

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Resin Acid Biodegradation by Fungi
+## Resin Acid Biodegradation by Fungi
 
 Resin acids are a group of diterpenoid carboxylic acids that are natural
 constituents of wood from coniferous trees, including pines, spruces, and

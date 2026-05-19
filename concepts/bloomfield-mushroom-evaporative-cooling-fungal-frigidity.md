@@ -13,7 +13,7 @@ tags:
 created: 2026-05-08
 ---
 
-# Mushroom Evaporative Cooling and Fungal Frigidity
+## Mushroom Evaporative Cooling and Fungal Frigidity
 
 ## Historical Context: Falck's Paradox
 

@@ -8,7 +8,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 type: concept
 ---
 
-# PF TEK Fruiting Chamber Temperature and Heating Principles
+## PF TEK Fruiting Chamber Temperature and Heating Principles
 
 The dual [[fruiting-environment-parameters]] operates on a
 counterintuitive principle: direct heating works against humidification and

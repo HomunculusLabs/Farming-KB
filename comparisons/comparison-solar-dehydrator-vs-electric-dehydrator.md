@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Solar Dehydrator vs Electric Dehydrator
+## Solar Dehydrator vs Electric Dehydrator
 
 ## Overview
 

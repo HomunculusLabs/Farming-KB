@@ -7,7 +7,7 @@ tags: [mycopesticides, biocontrol, entomopathogenic, fungi, mycology, ecology, p
 sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
-# Mycopesticides and Fungal Biocontrol
+## Mycopesticides and Fungal Biocontrol
 
 Mycopesticides are fungi used as biological control agents against insect pests. Entomopathogenic fungi -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
 

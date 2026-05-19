@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Natural Food Philosophy
+## Fukuoka Natural Food Philosophy
 
 In Book IV of *The One-Straw Revolution*, Fukuoka explores the confusion surrounding "natural food" and proposes a philosophy of eating that transcends both scientific nutrition and Eastern philosophical systems.
 
@@ -35,7 +35,7 @@ Fukuoka's natural diet consists of foods gathered in the wild or crops grown thr
 - [[fukuoka-natural-foods-movement-america]]
 ## Merged: Natural Food vs Processed Food
 
-# Natural Food vs Processed Food
+## Natural Food vs Processed Food
 
 A central theme in Masanobu Fukuoka's work is the distinction between natural food -- food that grows in its proper place and season -- and processed food -- food that has been altered, preserved, transported, and denatured by industrial processes. This distinction is foundational to [[fukuoka-philosophy-eating]].
 

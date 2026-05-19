@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Coprophilous Habitat and Negative Geotropism as Spore Dispersal Adaptation
+## Coprophilous Habitat and Negative Geotropism as Spore Dispersal Adaptation
 
 ## Overview
 

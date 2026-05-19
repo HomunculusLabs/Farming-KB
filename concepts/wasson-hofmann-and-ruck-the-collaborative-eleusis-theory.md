@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Wasson, Hofmann, and Ruck: The Collaborative Eleusis Theory
+## Wasson, Hofmann, and Ruck: The Collaborative Eleusis Theory
 
 The hypothesis that the Eleusinian kykeon contained an ergot-derived hallucinogen was not the work of a single scholar but a collaboration between three men with complementary expertise: R. Gordon Wasson (ethnomycologist), Albert Hofmann (chemist), and Carl A.P. Ruck (classicist). Their 1978 book "The Road to Eleusis" presented the argument that has shaped scholarly and popular understanding of the Mysteries for decades.
 

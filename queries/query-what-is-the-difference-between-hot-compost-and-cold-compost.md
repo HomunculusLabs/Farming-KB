@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What is the difference between hot compost and cold compost?
+## What is the difference between hot compost and cold compost?
 
 ## Short Answer
 

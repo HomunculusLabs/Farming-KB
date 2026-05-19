@@ -21,7 +21,7 @@ sources:
   - "Dahanukar, S.A. et al. (2000). \"Picrorhiza kurroa (Kutki) — a review.\" Indian Drugs, 37, 213-227."
 ---
 
-# Picrorhiza kurroa
+## Picrorhiza kurroa
 
 ## Overview
 

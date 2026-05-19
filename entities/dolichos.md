@@ -5,7 +5,7 @@ type: entity
 tags: [legume, vine, edible, mulch, shade-plant, permaculture]
 ---
 
-# Dolichos
+## Dolichos
 
 ## Description
 

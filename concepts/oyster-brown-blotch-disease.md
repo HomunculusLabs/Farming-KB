@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [disease, bacteria, fungus, brown-blotch]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Brown Blotch Disease in Oyster Mushrooms
+## Brown Blotch Disease in Oyster Mushrooms
 
 Brown blotch disease is a serious condition affecting oyster mushroom crops,
 causing significant quality and yield losses. The disease manifests in two

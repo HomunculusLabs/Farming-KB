@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Goat Management and Browsing Systems
+## Goat Management and Browsing Systems
 
 [[bill-mollison]]'s [[savory-holistic-resource-management-animal-impact]].
 

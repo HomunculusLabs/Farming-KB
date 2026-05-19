@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fruiting Body Development
+## Fruiting Body Development
 
 The transition from vegetative mushroom-life-cycle-stamets. Called pinning, pin setting,
 pinhead initiation, or fructification, this process involves the formation of

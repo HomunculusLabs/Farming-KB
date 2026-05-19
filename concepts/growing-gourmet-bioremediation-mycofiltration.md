@@ -14,9 +14,9 @@ sources:
 type: concept
 ---
 
-# Mushroom Bioremediation and Mycofiltration
+## Mushroom Bioremediation and Mycofiltration
 
-[[growing-gourmet-stametsian-permaculture-model]].
+[[stametsian-permaculture-model]].
 
 ## Catastrophia: Nature as a Substrate Supplier
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# How Do I Build a Wicking Bed for Water Efficient Gardening?
+## How Do I Build a Wicking Bed for Water Efficient Gardening?
 ## Short Answer
 A wicking bed is a self-watering raised garden bed that uses capillary action to draw water from a built-in water reservoir at the bottom up through the soil to plant roots.
 This reduces water usage by up to 50 percent compared to conventional watering while eliminating the need for daily irrigation entirely.

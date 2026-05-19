@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Silver Spoon Test
+## Silver Spoon Test
 
 ## Description
 

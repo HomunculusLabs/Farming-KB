@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungicolous Fungi — Mycoparasitism and Host Interactions
+## Fungicolous Fungi — Mycoparasitism and Host Interactions
 
 ## Overview
 

@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# What Is the Difference Between Aerobic and Anaerobic Composting?
+## What Is the Difference Between Aerobic and Anaerobic Composting?
 
 ## Short Answer
 Aerobic composting uses oxygen-loving microorganisms to [[hamilton-composting-and-organic-matter-management]] into a stable,

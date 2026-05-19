@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Nitrogen Deposition and Ectomycorrhizal Community Structure
+## Nitrogen Deposition and Ectomycorrhizal Community Structure
 
 Atmospheric nitrogen deposition, primarily from fossil fuel combustion and agricultural emissions, fundamentally reshapes ectomycorrhizal fungal communities. The effects are complex, operating through changes in soil chemistry, plant-fungal carbon allocation, and direct toxicity, with consequences that cascade through forest ecosystems.
 

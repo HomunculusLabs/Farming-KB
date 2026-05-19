@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Maitake Problem Solving and Cultivation [[mycelial-growth-and-colonization]] and maturation. Critically, approximately 90% of
+## Maitake Problem Solving and Cultivation [[mycelial-growth-and-colonization]] and maturation. Critically, approximately 90% of
 strains from culture collections and wild isolates do not fruit well,
 if at all. Always verify that any strain you obtain has been tested
 and demonstrated to be a reliable fruiting strain.

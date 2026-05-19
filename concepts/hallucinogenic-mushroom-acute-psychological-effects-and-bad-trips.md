@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Acute Psychological Effects and Bad Trips
+## Hallucinogenic Mushroom Acute Psychological Effects and Bad Trips
 
 ## Overview
 

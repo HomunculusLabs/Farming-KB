@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Pond Construction and Aquaculture
+## Holzer Pond Construction and Aquaculture
 
 Sepp Holzer is renowned for his water landscapes, which he has developed over decades at the Krameterhof (1,300 metres altitude in the Austrian Alps). His ponds serve multiple functions simultaneously: [[mollison-designers-microclimate-creation-frost-protection]], and aesthetic beauty.
 

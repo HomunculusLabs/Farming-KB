@@ -1,4 +1,8 @@
-# Cannabis Safety Profile: Adverse Effects, Risks, and Evidence-Based Harm Reduction
+---
+title: "Cannabis Safety Profile: Adverse Effects, Risks, and Evidence-Based Harm Reduction"
+tags:
+  - concept
+---
 
 ## Overview
 

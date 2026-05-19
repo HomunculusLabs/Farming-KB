@@ -9,7 +9,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
-# Duck Keeping Detailed Guide
+## Duck Keeping Detailed Guide
 
 Ducks are the gentlest and most versatile poultry. They eat algae and weeds from ponds, slugs, snails, grubs, soft greens, grasses, water plants, small tree greens, and grains while fertilizing water and soil. They need less care and feeding than chickens but more planning.
 

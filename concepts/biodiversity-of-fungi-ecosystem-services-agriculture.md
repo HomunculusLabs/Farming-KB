@@ -7,7 +7,7 @@ tags: [fungi, agriculture, ecosystem-services, ecology]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-# Fungal Biodiversity and Ecosystem Services in Agriculture
+## Fungal Biodiversity and Ecosystem Services in Agriculture
 
 Updated: 2026-04-18
 

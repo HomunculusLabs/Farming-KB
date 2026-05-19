@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, soil-science, ecology, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Soil Mycobiome Diversity
+## Soil Mycobiome Diversity
 
 The soil mycobiome encompasses the total fungal community within soil,
 including yeasts, filamentous fungi, and their resting structures

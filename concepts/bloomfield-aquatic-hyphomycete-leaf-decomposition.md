@@ -12,7 +12,7 @@ tags:
   - food-web
 ---
 
-# Aquatic Hyphomycete Leaf Decomposition in Freshwater Streams
+## Aquatic Hyphomycete Leaf Decomposition in Freshwater Streams
 
 The decomposition of leaves in freshwater streams is one of the most
 consequential ecological processes on Earth, yet it is accomplished largely

@@ -4,10 +4,10 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
+sources: ["raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"]
 ---
 
-# Sport Fishery Critique and Public Policy Aquaculture
+## Sport Fishery Critique and Public Policy Aquaculture
 
 updated: 2026-04-18
 

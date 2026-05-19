@@ -13,7 +13,7 @@ sources:
   - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
-# Cannabis Breeding, Genetics, and True Breeding
+## Cannabis Breeding, Genetics, and True Breeding
 Chapter 15 of [[big-bud]]
 x Skunk). Offspring will vary: some lean toward one parent, others
 toward the other. Uniform plants require more advanced breeding.

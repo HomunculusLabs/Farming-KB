@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Cho's Plant Growth Stage Treatments
+## Cho's Plant Growth Stage Treatments
 
 Dr. Cho Han Kyu's Korean [[natural-farming-inputs-cho]] at different stages of plant growth. This system is rooted in the [[cannabis-vegetative-growth-stage]] to
     build disease resistance.

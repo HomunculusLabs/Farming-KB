@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Reversed-Phase HPLC and TLC Confirmation for Psilocybin/Psilocin
+## Reversed-Phase HPLC and TLC Confirmation for Psilocybin/Psilocin
 
 Bigwood and Beug employed a combined analytical approach using reversed-
 phase high performance liquid chromatography as the primary quantification

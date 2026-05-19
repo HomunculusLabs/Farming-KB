@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# Moringa — Horseradish Tree (*Moringa oleifera*)
+## Moringa — Horseradish Tree (*Moringa oleifera*)
 
 ## Overview
 

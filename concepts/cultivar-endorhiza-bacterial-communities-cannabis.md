@@ -8,7 +8,7 @@ sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 type: concept
 ---
 
-# Endorhiza Bacterial Communities and Cannabis Cultivar Specificity
+## Endorhiza Bacterial Communities and Cannabis Cultivar Specificity
 
 ## The Endorhiza Defined
 

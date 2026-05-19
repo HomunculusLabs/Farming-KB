@@ -10,7 +10,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Substrate Preparation
+## Substrate Preparation
 
 Substrate preparation is the foundation of successful [[oyster-mushroom-supplemented-sawdust-blocks]] substrates (requiring sterilization) and bulk substrates like straw (requiring pasteurization), along with several alternative treatment methods.
 

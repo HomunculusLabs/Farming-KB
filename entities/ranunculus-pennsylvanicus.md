@@ -16,7 +16,7 @@ sources:
   - GBIF Backbone Taxonomy
 ---
 
-# Ranunculus pennsylvanicus
+## Ranunculus pennsylvanicus
 
 ## Overview
 

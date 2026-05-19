@@ -7,7 +7,7 @@ tags: [fertilizer, soil, troubleshooting]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Hamilton Nutrient Deficiencies and Their Treatment
+## Hamilton Nutrient Deficiencies and Their Treatment
 
 Understanding plant nutrient deficiencies is essential for the organic gardener. While prevention through good soil management is always preferred, knowing how to identify and correct deficiencies ensures productive gardens.
 

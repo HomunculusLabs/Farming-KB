@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Foliar Tea Application and Plant Nutrient Regulation
+## Foliar Tea Application and Plant Nutrient Regulation
 
 ## Plant-Controlled Nutrient Uptake
 

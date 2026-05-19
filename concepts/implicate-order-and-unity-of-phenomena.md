@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Implicate Order and the Unity of Phenomena
+## Implicate Order and the Unity of Phenomena
 
 ## Overview
 

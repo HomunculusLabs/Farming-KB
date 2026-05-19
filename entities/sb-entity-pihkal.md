@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# SB
+## SB
 
 [[mescaline]]. This is the kind
 of result that puts some potentially ambiguous numbers in the

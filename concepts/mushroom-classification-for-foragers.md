@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom Classification for Foragers
+## Mushroom Classification for Foragers
 
 > **Source:** Palmer, Julius Auboineau. *About Mushrooms* (1894).
 

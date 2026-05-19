@@ -7,7 +7,7 @@ type: concept
 tags: [aact, hydroponics, nutrient-cycling, algae-control, root-disease, water-mold, compost-tea, soil-food-web, ingham]
 ---
 
-# AACT Integration with Hydroponic Systems
+## AACT Integration with Hydroponic Systems
 
 ## Overview
 

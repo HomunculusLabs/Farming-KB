@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tree Effects on Precipitation
+## Tree Effects on Precipitation
 
 Trees are among the most powerful agents influencing regional and local
 [[desert-precipitation-patterns-and-opportunistic-ecology]]. Far from being passive recipients of rainfall,

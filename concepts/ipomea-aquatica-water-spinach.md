@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Ipomoea aquatica — Water Spinach / Kang Kong
+## Ipomoea aquatica — Water Spinach / Kang Kong
 
 *Ipomoea aquatica*, commonly known as water spinach, kang kong, water morning glory, or ong choy, is a semi-aquatic tropical and subtropical plant widely grown across Southeast Asia as a leafy green vegetable. It belongs to the family Convolvulaceae (the morning glory family) and is one of the most productive and low-maintenance edible plants suitable for permaculture [[introduction-to-aquaculture-and-wetland-systems]].
 

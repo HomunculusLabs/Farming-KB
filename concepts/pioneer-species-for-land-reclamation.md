@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Pioneer Species for Land Reclamation
+## Pioneer Species for Land Reclamation
 
 Pioneer species are the first wave of plants used to reclaim degraded, bare, or pastured land in [[tagasaste-nurse-crop-fodder-systems]] to pine trees in Korea. High protein stock feed; good [[psilocybin-north-america-pacific-northwest]], to 25-30 m. Pioneer species in company with willows on flooded soils. Suited to most fertile soils in cool districts with 650+ mm rainfall. Reaches full height in 20 years. See [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and fodder
 

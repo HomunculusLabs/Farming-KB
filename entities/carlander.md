@@ -5,7 +5,7 @@ type: entity
 tags: [person, ecologist, fisheries, species-diversity, reservoir-ecology, aquaculture]
 ---
 
-# Carlander (Ecologist)
+## Carlander (Ecologist)
 
 ## Description
 

@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# How Do I Plan and Start a Vegetable Garden From Scratch?
+## How Do I Plan and Start a Vegetable Garden From Scratch?
 
 ## Short Answer
 

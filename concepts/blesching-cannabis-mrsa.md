@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and MRSA
+## Cannabis and MRSA
 
 ## Overview
 

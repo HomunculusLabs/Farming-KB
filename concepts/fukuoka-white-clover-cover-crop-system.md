@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# White Clover Cover Crop System
+## White Clover Cover Crop System
 
 updated: 2026-04-18
 

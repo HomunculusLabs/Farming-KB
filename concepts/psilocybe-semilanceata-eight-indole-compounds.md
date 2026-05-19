@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# Psilocybe Semilanceata and the Eight Indole Compounds
+## Psilocybe Semilanceata and the Eight Indole Compounds
 
 [[inocybe-aeruginascens-profile]]. This compound is not found in most Psilocybe species but has been detected in some analyses. Gartz hypothesized that aeruginascin may modify the qualitative character of the mushroom experience.
 

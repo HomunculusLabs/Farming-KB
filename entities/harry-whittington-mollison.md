@@ -5,7 +5,7 @@ type: entity
 tags: [people, permaculture, earthworks, water-management, australia]
 ---
 
-# Harry Whittington
+## Harry Whittington
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: [papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: query
 ---
 
-# How to Start Growing Mushrooms at Home
+## How to Start Growing Mushrooms at Home
 
 ## Short Answer
 The easiest way to start growing mushrooms at home is with a mushroom grow kit, which

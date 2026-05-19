@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Companion Planting vs Trap Cropping
+## Companion Planting vs Trap Cropping
 
 ## Overview
 Companion planting leverages synergistic relationships between plants to

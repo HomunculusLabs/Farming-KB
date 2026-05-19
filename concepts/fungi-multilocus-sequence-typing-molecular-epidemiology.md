@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Multilocus Sequence Typing and Molecular Epidemiology of Fungi
+## Multilocus Sequence Typing and Molecular Epidemiology of Fungi
 
 ## Overview
 

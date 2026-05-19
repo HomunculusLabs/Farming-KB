@@ -5,10 +5,10 @@ type: chemical
 tags: [heterocycle, organic-chemistry, tryptamine-scaffold, biochemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
+sources: ["raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"]
 ---
 
-# Indole
+## Indole
 
 **Indole** (2,3-benzopyrrole) is an aromatic heterocyclic [[lsd-lysergic-acid-diethylamide-experience-guide]]. The indole ring system is one of the most pharmacologically significant heterocycles in nature.
 

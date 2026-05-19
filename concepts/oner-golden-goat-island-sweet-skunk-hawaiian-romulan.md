@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, golden-goat, iriegenetics, island-sweet-skunk, hawaiian, romulan, oner]
 ---
 
-# Golden Goat — Strain Profile
+## Golden Goat — Strain Profile
 
 ## Overview
 

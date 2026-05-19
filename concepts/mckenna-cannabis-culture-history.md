@@ -13,7 +13,7 @@ tags:
 sources:
   - mckenna_t-food_of_the_gods.md (Ch.10, L3948-4331)
 ---
-# Cannabis and Culture: McKenna's Historical Survey
+## Cannabis and Culture: McKenna's Historical Survey
 Chapter 10 of [[query-how-to-store-cannabis-seeds-for-long-term-viability]] onto hot stones inside enclosed tents, then shouted with the vapor that filled the space.
 They also burned cannabis fruit in campfire circles, dancing and singing around the flames.
 These descriptions, preserved in one of the foundational texts of Western historiography, establish cannabis use in Europe far earlier than is commonly assumed.

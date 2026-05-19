@@ -5,7 +5,7 @@ source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of Magic Mush
 created: 2026-05-09
 ---
 
-# Psilocybe serbica
+## Psilocybe serbica
 
 ## Taxonomy and Classification
 

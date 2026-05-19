@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Spawn Recognition and Fruiting Stages
+## Mushroom Spawn Recognition and Fruiting Stages
 
 ## Overview
 

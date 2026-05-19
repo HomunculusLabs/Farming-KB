@@ -9,7 +9,7 @@ aliases: [Visual Pigments, Animal Photoreceptors vs Plant Photoreceptors,
   Rhodopsin Photopsin Comparison]
 ---
 
-# Rhodopsin and Photopsins — Animal Visual Pigments and Plant Photoreceptor
+## Rhodopsin and Photopsins — Animal Visual Pigments and Plant Photoreceptor
   Parallels
 
 In "What a Plant Knows," [[plant-photoreception]]. Understanding these parallels illuminates why plant "vision"

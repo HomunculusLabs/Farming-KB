@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do Endophytic Fungi Protect Plants from Pests and Disease
+## How Do Endophytic Fungi Protect Plants from Pests and Disease
 
 ## Short Answer
 [[cannabis-disease-pest-resistance-breeding-clarke]]. The chemistry of

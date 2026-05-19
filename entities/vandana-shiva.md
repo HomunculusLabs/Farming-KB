@@ -5,7 +5,7 @@ type: entity
 tags: [person, activist, scholar, india, agriculture, biodiversity, green-revolution]
 ---
 
-# Vandana Shiva
+## Vandana Shiva
 
 ## Description
 

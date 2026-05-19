@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Copelandia and Panaeolus Genera
+## Copelandia and Panaeolus Genera
 
 ## Taxonomic Relationship
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Degradation of Emerging Contaminants
+## Fungal Degradation of Emerging Contaminants
 
 Emerging contaminants represent a diverse and rapidly expanding class of
 environmental pollutants that includes pharmaceuticals, personal care

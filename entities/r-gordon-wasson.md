@@ -5,7 +5,7 @@ type: entity
 tags: [person, mycologist, ethnobotany, mushrooms, psilocybin, soma, hallucinogens]
 ---
 
-# R. Gordon Wasson
+## R. Gordon Wasson
 
 ## Description
 

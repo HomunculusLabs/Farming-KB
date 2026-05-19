@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis THC:CBD Ratio Guide for Conditions
+## Cannabis THC:CBD Ratio Guide for Conditions
 
 Understanding the ratio of THC to CBD is essential for effective therapeutic cannabis use. The [[cbd-therapeutic-effects]].
 

@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Cultivation Trainee Selection Criteria
+## Mushroom Cultivation Trainee Selection Criteria
 
 Selecting the right trainees [[mushroom-cultivation-training-program-design]] is not merely a vocational skill transfer — it is a process of rehabilitation and social reintegration. The selection process must therefore evaluate not only a candidate's practical suitability but also their personal circumstances, family dynamics, motivation, and the broader community environment in which they will eventually establish their enterprise.
 

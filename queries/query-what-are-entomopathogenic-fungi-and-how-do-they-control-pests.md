@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are Entomopathogenic Fungi and How Do They Control Pests?
+## What Are Entomopathogenic Fungi and How Do They Control Pests?
 
 ## Short Answer
 

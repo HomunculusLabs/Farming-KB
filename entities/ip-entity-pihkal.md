@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# IP
+## IP
 
 [[qualitative-comments-methodology-pihkal]]
 - [[mckenna-tryptamine-research-legal-status]]

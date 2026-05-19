@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [arbuscular-mycorrhiza, in-vitro, transport, compartmented-system, monoxenic, root-organ-culture, symbiotic-fungi]
 ---
 
-# In Vitro Compartmented Systems for AMF Transport Studies
+## In Vitro Compartmented Systems for AMF Transport Studies
 
 ## The Core Concept
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ALEPH-4
+## ALEPH-4
 
 [[lsd]]. The sounds that are just
 > outside of my hearing are intriguing, and distract me from the

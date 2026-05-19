@@ -5,7 +5,7 @@ author: Solomon
 tags: [cucurbits, squash, cucumber, melon, watermelon, powdery-mildew, chitting, seed-sprouting, vegetable-garden]
 ---
 
-# Cucurbit Family Growing
+## Cucurbit Family Growing
 
 ## Squash, Melons, and Cucumbers
 

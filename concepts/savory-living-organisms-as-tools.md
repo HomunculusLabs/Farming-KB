@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Living Organisms as Tools
+## Living Organisms as Tools
 
 In [[permaculture-domestic-animals]], and even
 wild animals, we tend to proceed as if Earth were more a machine than a living

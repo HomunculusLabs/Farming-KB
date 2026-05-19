@@ -13,7 +13,7 @@ sources:
   - "Dhawan, K. et al. (2004). \"Passiflora: A review update.\" J. Ethnopharmacol., 94(1), 1–23."
 ---
 
-# Passiflora caerulea (Blue Passionflower)
+## Passiflora caerulea (Blue Passionflower)
 
 ## Overview
 

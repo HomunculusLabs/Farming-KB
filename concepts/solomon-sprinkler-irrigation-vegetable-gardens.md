@@ -9,7 +9,7 @@ topics:
   - gardening-methods
 ---
 
-# Sprinkler Irrigation for Vegetable Gardens
+## Sprinkler Irrigation for Vegetable Gardens
 
 ## Overview
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Biochar vs cover crop quick references
+## Biochar vs cover crop quick references
 
 ## Overview
 Biochar and cover crops are two of the most powerful tools available for

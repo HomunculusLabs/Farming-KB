@@ -7,7 +7,7 @@ tags: [psychedelics, pihkal, phenethylamine, 2c-family, synthesis]
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# 2C-I (PIHKAL Entry #33)
+## 2C-I (PIHKAL Entry #33)
 
 2,5-Dimethoxy-4-iodophenethylamine
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# [[gadd-lichens-water-relations-symbiosis|Lichens]] as Bioindicators of Atmospheric Pollution
+## [[gadd-lichens-water-relations-symbiosis|Lichens]] as Bioindicators of Atmospheric Pollution
 
 The use of lichens as biological monitors dates back to the mid-nineteenth century, when European naturalists first noticed that certain lichen species disappeared from urban areas while others persisted. This early observation laid the groundwork for systematic lichen biomonitoring, which has since been adopted worldwide as a standard component of environmental assessment programs.
 

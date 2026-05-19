@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi: Chemical Groups Classification
+## Neurotropic Fungi: Chemical Groups Classification
 
 ## Overview
 

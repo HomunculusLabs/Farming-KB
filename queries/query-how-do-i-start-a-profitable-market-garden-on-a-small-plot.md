@@ -7,7 +7,7 @@ sources:
   - "raw/papers/coleman-new-organic-grower.md"
 ---
 
-# How Do I Start a Profitable Market Garden on a Small Plot?
+## How Do I Start a Profitable Market Garden on a Small Plot?
 
 ## Short Answer
 

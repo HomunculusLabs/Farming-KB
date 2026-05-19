@@ -7,7 +7,7 @@ tags: [gardening]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Hamilton: Hedges and Windbreaks
+## Hamilton: Hedges and Windbreaks
 
 **Source:** Geoff Hamilton, *[[duggar-mushroom-growing-room-design]] on either side.
 

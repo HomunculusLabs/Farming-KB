@@ -7,7 +7,7 @@ tags: [soil, microbes, cannabis, living-soil]
 sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
-# Edaphic Factors in Microbiome Structuring
+## Edaphic Factors in Microbiome Structuring
 
 ## Overview
 

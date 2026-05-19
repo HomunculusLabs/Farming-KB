@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [mycology, cultivation, pf-tek, inoculation, incubation, spore-syringe, sterilization, contamination]
 ---
 
-# PF TEK Inoculation and Incubation Techniques
+## PF TEK Inoculation and Incubation Techniques
 
 ## Overview
 

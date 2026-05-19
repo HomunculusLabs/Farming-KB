@@ -7,7 +7,7 @@ tags: [mycology, gut-fungi, neocallimastigales, rumen, anaerobic-decomposition]
 sources:
   - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 ---
-# Anaerobic Zoosporic Fungi (Gut Fungi)
+## Anaerobic Zoosporic Fungi (Gut Fungi)
 
 Obligatorily anaerobic zoosporic fungi are unique microorganisms that inhabit
 the gastrointestinal (GI) tracts of herbivorous mammals. Unlike all other

@@ -9,7 +9,7 @@ type: concept
 tags: [amanita-muscaria]
 ---
 
-# The Soma Hypothesis in [[gratitude-compassion-forgiveness-healing-effects]], chosen apparently for their small size, lack of leaves, and milky sap
+## The Soma Hypothesis in [[gratitude-compassion-forgiveness-healing-effects]], chosen apparently for their small size, lack of leaves, and milky sap
 - **Rhubarb** -- proposed because of red/golden stems matching Soma's color description
 - **Ragweed** -- proposed only because its scientific name is Ambrosia
 - **Alcoholic brews (mead, beer)** -- Soma is called "honey" and barley is mentioned in the ceremony, but alcohol does not produce the described healing effects; "no one today expects the blind to see or the lame to walk from drinking a beer"

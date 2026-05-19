@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Permaculture Tuber Crops vs Bean Growing
+## Permaculture Tuber Crops vs Bean Growing
 
 ## Overview
 

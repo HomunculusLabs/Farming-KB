@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Beneficial Fungi and Trichoderma in Soil Health
+## Beneficial Fungi and Trichoderma in Soil Health
 
 Beneficial fungi are among the most important organisms in [[soil-food-web]], performing essential functions [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], disease suppression, and plant-[[fungal-symbiosis]]. Among these, the genus *Trichoderma* stands out as one of the most well-studied and commercially significant groups of beneficial fungi used in agriculture.
 

@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Biogas Digester vs Rocket Stove
+## Biogas Digester vs Rocket Stove
 
 ## Overview
 

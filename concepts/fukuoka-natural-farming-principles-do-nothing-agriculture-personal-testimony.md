@@ -4,7 +4,7 @@ source: The Road Back to Nature (Fukuoka, 1987)
 tags: [natural-farming, do-nothing-agriculture, philosophy-of-nature, personal-testimony, japan, spiritual-farming]
 ---
 
-# Natural Farming Principles and Do-Nothing Agriculture
+## Natural Farming Principles and Do-Nothing Agriculture
 
 ## Fukuoka's Personal Journey
 

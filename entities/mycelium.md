@@ -14,7 +14,7 @@ sources:
   - "raw/papers/growing-psilocybe-azurescens.md"
 ---
 
-# Mycelium
+## Mycelium
 
 Mycelium is the vegetative body of a fungus, consisting of a mass of branching, thread-like filaments called hyphae. It constitutes the active growing and feeding phase of fungal life cycles, responsible for nutrient acquisition, substrate colonization, and ultimately the formation of reproductive structures (fruiting bodies or mushrooms). In many ways, mycelium is analogous to the roots and root systems of plants, though it serves additional ecological roles that have no direct plant equivalent.
 

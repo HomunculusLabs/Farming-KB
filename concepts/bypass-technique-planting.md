@@ -8,7 +8,7 @@ sources:
   - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Bypass Technique for Balcony Gardens
+## Bypass Technique for Balcony Gardens
 
 ## What It Is
 

@@ -5,7 +5,7 @@ author: "Permaculture Plants: A Selection"
 tags: [permaculture-plants, tagasaste, tree-lucerne, nitrogen-fixing, pioneer, fodder, bee-forage, nurse-crop]
 ---
 
-# Tagasaste (Chamaecytisus palmensis): Comprehensive Profile
+## Tagasaste (Chamaecytisus palmensis): Comprehensive Profile
 
 Tagasaste, also known as [[canary-island-tree-lucerne-mollison]], is a nitrogen-fixing [[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]
 native to the Canary Islands and one of the most useful pioneer species in

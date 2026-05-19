@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dune Forms and Uses of Sand in Desert Landscapes
+## Dune Forms and Uses of Sand in Desert Landscapes
 
 Sand dunes are dynamic landforms shaped by wind and water interactions in arid environments. Understanding dune morphology, formation processes, and the practical uses of sand is essential for [[rammed-earth]] construction
 - **Thermal mass**: Sand's heat storage capacity moderates temperature in and around structures

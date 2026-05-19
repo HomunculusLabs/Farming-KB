@@ -21,7 +21,7 @@ sources:
   - Cascio M.G., Gauson L.A., Stevenson L.A., Ross R.A., Pertwee R.G. (2010). "Evidence that the Plant Cannabinoid Cannabidivarin (CBDV) Is a Novel Anticonvulsant." British Journal of Pharmacology, 160(5), 1241-1249.
 ---
 
-# Cannabidivarin
+## Cannabidivarin
 
 ## Overview
 

@@ -1,7 +1,7 @@
 ---
 
 ---
-# Liberty Cap Discovery and Naturalisation in Britain
+## Liberty Cap Discovery and Naturalisation in Britain
 
 ## Taxonomic History
 
@@ -40,7 +40,7 @@ appeared on T-shirts, postcards and album covers.
 
 ## Merged: The 1799 Liberty Cap Discovery
 
-# The 1799 Liberty Cap Discovery
+## The 1799 Liberty Cap Discovery
 
 The 1799 case of the J.S. family in London's Piccadilly is the earliest conclusively identified instance of liberty cap british discovery 1970s
 

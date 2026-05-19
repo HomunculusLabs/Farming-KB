@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Versus Psychedelic: The Terminology Debate
+## Hallucinogenic Versus Psychedelic: The Terminology Debate
 
 The classification and naming of drugs that produce altered states of consciousness has been a subject of ongoing controversy among scientists, clinicians, and users for over a century. The terms "hallucinogenic," "psychedelic," "psychotomimetic," "psychodysleptic," and others each carry distinct connotations that reflect different theoretical frameworks, clinical perspectives, and [[hallucinogenic-drugs]] have aroused vehement discussions and controversy among both concerned experts, including psychiatrists, psychologists, and psychopharmacologists, as well as people who use them. At different times, these drugs have been called:
 

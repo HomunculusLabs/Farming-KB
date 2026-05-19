@@ -8,7 +8,7 @@ type: concept
 tags: [gardening]
 ---
 
-# Creating Garden Communities and Guilds
+## Creating Garden Communities and Guilds
 
 The pieces of an [[growing-gourmet-light-requirements-mushroom-fruiting]], and rooting depths that minimize competition.
 

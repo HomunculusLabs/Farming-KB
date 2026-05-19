@@ -6,7 +6,7 @@ type: concept
 tags: [animal-husbandry, poultry, homesteading]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
-# Pigeons Quail and Waterfowl Systems
+## Pigeons Quail and Waterfowl Systems
 
 Updated: 2026-04-18
 

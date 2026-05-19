@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Sourdough Bread Guide vs [[living-mulch-systems-guide]] |
+## Sourdough Bread Guide vs [[living-mulch-systems-guide]] |
 | Starter method | Standard flour-and-water | Multiple capture methods |
 | Grain focus | Commercial bread flour | Heritage and regional varieties |
 | Scale | Single loaf recipe | Two-loaf batches, scalable |

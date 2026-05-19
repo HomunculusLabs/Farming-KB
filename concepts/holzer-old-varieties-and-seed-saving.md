@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Old Varieties and Seed Saving
+## Holzer Old Varieties and Seed Saving
 
 [[spanish-cannabis-seed-companies]]
 

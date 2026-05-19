@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# ALEPH-4
+## ALEPH-4
 
 **Chemical name:** 2,5-Dimethoxy-4-(i)-propylthioamphetamine
 **[[alexander-shulgin]], it demonstrates the pattern of increasing [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] makes ALEPH-4 a compound that demands extensive preparation and a completely free schedule. The subject at 12 mg noted that "if I couldn't have escaped" during the claustrophobic episode, the outcome could have been much worse.

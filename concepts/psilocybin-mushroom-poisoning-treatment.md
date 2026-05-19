@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms]
 sources: [papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
-# Psilocybin Mushroom Poisoning and Treatment
+## Psilocybin Mushroom Poisoning and Treatment
 
 While psilocybin-containing mushrooms are among the least toxic of all psychoactive substances, poisoning incidents do occur — primarily from psychological distress rather than physical toxicity. This page covers the clinical presentation of psilocybin intoxication, historical accidental poisonings, medical treatment protocols, and the phenomenon of flashbacks. See [[panaeolus-cyanescens-bali-omelette]] intoxication were typically described as: drowsiness, lightheadedness, an inability to walk, a staggering gait, giggling, much hilarity, inappropriate speech, uncontrollable laughter, euphoria, and acting as if on a bender. [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] lies not in consuming hallucinogenic species but in accidentally picking toxic lookalikes. Deadly poisonous Galerina species and Conocybe filaris, which are extremely poisonous, commonly share habitats with [[psilocybe-stuntzii-profile]] in mulched gardens.
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Biocontrol of Forest Pathogens
+## Ectomycorrhizal Biocontrol of Forest Pathogens
 
 Ectomycorrhizal (ECM) fungi form symbiotic associations with the roots of many tree species, predominantly in temperate and boreal forests. Beyond their well-known roles in nutrient acquisition and carbon cycling, ECM fungi serve a critical protective function for their host trees by defending root systems against pathogenic fungi. This biocontrol capacity operates through both **physical** and **chemical** defense mechanisms, making ECM fungi a natural line of defense against a range of forest root pathogens.
 

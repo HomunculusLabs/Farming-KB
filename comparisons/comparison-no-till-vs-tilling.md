@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# No-Till vs Tilling
+## No-Till vs Tilling
 
 ## Overview
 

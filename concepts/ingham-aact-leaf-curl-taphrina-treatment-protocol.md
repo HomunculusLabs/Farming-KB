@@ -7,7 +7,7 @@ type: concept
 tags: [aact, leaf-curl, taphrina, peach, disease-suppression, foliar-spray, soil-drench, compost-tea, ingham]
 ---
 
-# AACT Leaf Curl (Taphrina) Treatment Protocol
+## AACT Leaf Curl (Taphrina) Treatment Protocol
 
 ## Overview
 

@@ -21,7 +21,7 @@ sources:
   - SeedFinder.eu database
 ---
 
-# Mochi (Cannabis Strain)
+## Mochi (Cannabis Strain)
 
 **Mochi**, also known as **Mochi Gelato**, is an indica-dominant [[sunset-sherbet]]** and **[[thin-mint]] [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] of the [[blesching-cannabis-deep-relaxation-healing]].
 

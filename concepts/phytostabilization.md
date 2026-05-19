@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Phytostabilization of Contaminated Soils
+## Phytostabilization of Contaminated Soils
 
 Phytostabilization is a phytoremediation technique that uses plants to immobilize contaminants in soil and prevent their migration to groundwater or entry into the food chain.
 

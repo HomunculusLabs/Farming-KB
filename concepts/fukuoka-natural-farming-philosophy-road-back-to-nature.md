@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [natural-farming, fukuoka, philosophy, agriculture, spirituality]
 ---
 
-# Fukuoka's Natural Farming Philosophy
+## Fukuoka's Natural Farming Philosophy
 
 ## The Road Back to Nature (1987)
 

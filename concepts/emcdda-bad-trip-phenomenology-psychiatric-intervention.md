@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Bad Trip Phenomenology and Acute Psychiatric Intervention for Magic Mushrooms
+## EMCDDA Bad Trip Phenomenology and Acute Psychiatric Intervention for Magic Mushrooms
 
 ## Overview
 

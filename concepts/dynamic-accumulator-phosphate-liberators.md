@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Phosphate Liberator Plants: Buckwheat, Mustard, and Alfalfa
+## Phosphate Liberator Plants: Buckwheat, Mustard, and Alfalfa
 
 Phosphorus is one of the most challenging soil nutrients for
 organic gardeners to manage. Like potassium, it exists

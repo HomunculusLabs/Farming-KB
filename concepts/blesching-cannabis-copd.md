@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Chronic Obstructive Pulmonary Disease (COPD)
+## Cannabis and Chronic Obstructive Pulmonary Disease (COPD)
 
 ## Overview
 

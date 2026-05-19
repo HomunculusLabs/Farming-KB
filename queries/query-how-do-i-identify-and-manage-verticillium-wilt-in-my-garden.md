@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# How Do I Identify and Manage Verticillium Wilt in My Garden?
+## How Do I Identify and Manage Verticillium Wilt in My Garden?
 
 ## Short Answer
 

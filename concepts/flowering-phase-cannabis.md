@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Flowering Phase Cannabis
+## Flowering Phase Cannabis
 
 The flowering phase is the reproductive stage of cannabis growth, triggered by switching
 the [[hps-grow-lights]]

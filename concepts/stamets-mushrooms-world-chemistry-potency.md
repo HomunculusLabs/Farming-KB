@@ -8,7 +8,7 @@ type: concept
 tags: [chemistry, mushroom-cultivation, mushrooms]
 ---
 
-# Psilocybin Chemistry and Potency Variation
+## Psilocybin Chemistry and Potency Variation
 
 Psilocybin mushrooms produce several tryptamine-derived compounds, most
 notably psilocybin (4-PO-DMT), psilocin (4-HO-DMT), baeocystin, nor-baeocystin,

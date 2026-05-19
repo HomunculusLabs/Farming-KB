@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 ---
 
-# Graywater Systems for Homesteads
+## Graywater Systems for Homesteads
 
 Updated: 2026-04-18
 

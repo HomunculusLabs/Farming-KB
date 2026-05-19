@@ -18,7 +18,7 @@ sources:
   - a-selection-permaculture-plants.md
 ---
 
-# Pistacia vera
+## Pistacia vera
 **Pistachio / Green Almond / Fistık**
 - **Division:** Magnoliophyta
 - **Class:** Magnoliopsida

@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Belief Systems and Paradigm Shifts
+## Belief Systems and Paradigm Shifts
 
 Throughout [[savory-holistic-management-overview]]. A fundamental belief embraced throughout the world holds
 that overstocking causes range deterioration and that reducing animal numbers

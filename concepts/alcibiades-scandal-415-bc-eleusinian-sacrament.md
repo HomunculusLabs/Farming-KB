@@ -5,7 +5,7 @@ author: terence-mckenna
 topics: [eleusinian-mysteries, ancient-greece, alcibiades, psychedelic-history, classical-religion]
 ---
 
-# The Alcibiades Scandal of 415 BC: Proof of the Eleusinian Sacrament
+## The Alcibiades Scandal of 415 BC: Proof of the Eleusinian Sacrament
 
 One of the most compelling pieces of evidence that the Eleusinian
 Mysteries involved a tangible psychoactive sacrament comes not from

@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
-# Cannabis Edibles - Infusion Methods and Dosing
+## Cannabis Edibles - Infusion Methods and Dosing
 
 Cannabis edibles represent a smoke-free consumption method with distinct pharmacokinetic
 properties compared to inhalation. While Oner's [[mushroom-strain-evaluation]] rather than edible preparation, it provides important context about

@@ -7,7 +7,7 @@ tags: [homesteading, off-grid, water, composting, sustainability, construction]
 sources: []
 ---
 
-# Composting Toilet Systems
+## Composting Toilet Systems
 
 [[comparison-composting-toilets-vs-greywater-systems-detailed]] treat human waste on-site through aerobic decomposition,
 converting it into a safe, nutrient-rich soil amendment. They eliminate the

@@ -1,4 +1,8 @@
-# Endocannabinoid System and the Biology of Emotions
+---
+title: "Endocannabinoid System and the Biology of Emotions"
+tags:
+  - concept
+---
 
 The endocannabinoid system (ECS) serves as a biological bridge between body and
 mind, modulating not only physiological processes like pain, inflammation, and
@@ -144,7 +148,3 @@ Successful integration of endocannabinoid system emotional molecules into broade
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

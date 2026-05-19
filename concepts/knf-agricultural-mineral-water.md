@@ -19,7 +19,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# KNF Agricultural Mineral Water (AMW)
+## KNF Agricultural Mineral Water (AMW)
 
 Agricultural Mineral Water is KNF's approach to creating vital, mineral-rich water for irrigation. It uses the waterfall principle — rocks and IMO #4 are combined in a flowing water system to produce water with abundant dissolved oxygen, minerals, and microorganisms. AMW replaces regular irrigation water with enhanced water that promotes plant growth and livestock health.
 

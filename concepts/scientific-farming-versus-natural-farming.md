@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Scientific Farming Versus Natural Farming
+## Scientific Farming Versus Natural Farming
 
 ## Overview
 

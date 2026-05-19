@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungicolous Fungi Associations
+## Fungicolous Fungi Associations
 
 [[fungicolous-fungi]] are fungi that grow on other fungi, encompassing a diverse
 spectrum of interspecific interactions. The term includes [[lichenicolous-fungi]]

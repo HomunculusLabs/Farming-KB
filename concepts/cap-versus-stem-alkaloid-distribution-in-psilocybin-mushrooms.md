@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Cap Versus Stem Alkaloid Distribution in Psilocybin Mushrooms
+## Cap Versus Stem Alkaloid Distribution in Psilocybin Mushrooms
 
 The distribution of [[cannabis-chromatography-cannabinoid-purification|HPLC]] calibrated against
 standards from the National Institute on Drug Abuse. This systematic

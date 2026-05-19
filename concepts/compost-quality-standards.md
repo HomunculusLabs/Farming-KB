@@ -1,5 +1,5 @@
 ---
-title: aact-compost-quality-standards-ingham Standards
+title: "Compost Quality Standards"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -7,7 +7,7 @@ tags: [composting, soil]
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Compost Quality Standards
+## Compost Quality Standards
 
 Compost quality is the single most important factor determining the effectiveness of [[soil-microbiology-basics]]
 - [[dom-compound-profile]]

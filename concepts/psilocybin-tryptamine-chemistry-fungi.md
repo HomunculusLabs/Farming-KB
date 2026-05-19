@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin and Tryptamine Chemistry in Fungi
+## Psilocybin and Tryptamine Chemistry in Fungi
 
 ## Primary Psychoactive Compounds
 

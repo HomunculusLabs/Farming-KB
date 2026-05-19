@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [potato, pests, diseases, integrated-pest-management]
 ---
-# Potato Pest and Disease Management
+## Potato Pest and Disease Management
 **Updated:** 2026-05-09
 
 ## Overview

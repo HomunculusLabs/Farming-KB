@@ -5,7 +5,7 @@ tags: [ayahuasca, shaman, ayahuasquero, ethics, peru, ucayali, pucallpa, tourism
 created: 2026-05-08
 ---
 
-# Ayahuasquero Practitioner Profiles and Ethics in the Ucayali Region
+## Ayahuasquero Practitioner Profiles and Ethics in the Ucayali Region
 
 ## Overview
 

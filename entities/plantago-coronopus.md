@@ -5,7 +5,7 @@ type: entity
 tags: [species, plantaginaceae, plantain, salt-indicator, dryland, permaculture]
 ---
 
-# Plantago coronopus
+## Plantago coronopus
 
 ## Description
 

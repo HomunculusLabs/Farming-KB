@@ -17,7 +17,7 @@ sources:
 created: 2026-05-07
 ---
 
-# MDA (3,4-Methylenedioxyamphetamine)
+## MDA (3,4-Methylenedioxyamphetamine)
 
 ## Overview
 

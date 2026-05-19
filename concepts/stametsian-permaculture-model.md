@@ -1,5 +1,5 @@
 ---
-title: The growing-gourmet-stametsian-permaculture-model Model for accessible-mushroom-cultivation-for-disabilities
+title: "Stametsian Permaculture Model"
 tags:
   - permaculture
   - mushroom-cultivation
@@ -18,7 +18,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# The Stametsian Permaculture Model for Mushroom Cultivation
+## The Stametsian Permaculture Model for Mushroom Cultivation
 
 ## Overview
 
@@ -132,7 +132,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[eucalyptus-permaculture]]
-- [[growing-gourmet-stametsian-permaculture-model]]
+- stametsian permaculture model
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]
 - [[permaculture-japanese-raisin-tree-hovenia-dulcis]]

@@ -5,7 +5,7 @@ type: entity
 tags: [fertilizer, mineral-extract, trace-elements, evaporite, foliar-spray]
 ---
 
-# Bitterns
+## Bitterns
 
 ## Description
 

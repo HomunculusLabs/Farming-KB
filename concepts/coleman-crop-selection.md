@@ -14,7 +14,7 @@ sources:
   - eliot-coleman (2009). "The cold-house-winter-harvest-system Handbook." Chelsea Green.
 ---
 
-# Crop Selection Principles for Winter Harvest Systems
+## Crop Selection Principles for Winter Harvest Systems
 
 The selection of crops for winter harvest production is guided by a set of
 principles that Eliot Coleman developed through decades of experimentation

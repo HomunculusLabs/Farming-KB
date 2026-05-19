@@ -8,7 +8,7 @@ sources: [raw/papers/the-psilocybin-solution-by-simon-g-powell-mutability-of-con
 type: concept
 ---
 
-# Entheogens as Epistemological Tools
+## Entheogens as Epistemological Tools
 
 ## Introduction
 

@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Oriental Philosophy — Learning to Farm from Nature
+## JADAM Oriental Philosophy — Learning to Farm from Nature
 
 ## Overview
 

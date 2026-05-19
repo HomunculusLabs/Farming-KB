@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Community Recycling and Waste Management
+## Community Recycling and Waste Management
 
 Community recycling and waste management systems are a foundational element of [[permaculture-design]] at the settlement and bioregional scale. Rather than treating waste as a linear disposal problem, [[permaculture]] reframes it as a circular resource flow — one that can generate revenue, create local employment, and strengthen community self-reliance. [[bill-mollison]]'s treatment of this topic spans practical recycling infrastructure, the economics of co-op recycling industries, political accountability for councils, and the broader evolutionary arc of communities moving toward genuine interdependence.
 

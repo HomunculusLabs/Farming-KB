@@ -8,7 +8,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
-# Microdosing Guide
+## Microdosing Guide
 
 ## Overview
 

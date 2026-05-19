@@ -7,7 +7,7 @@ tags: [mycology, mushrooms]
 sources:
   - ""raw/papers/cancer-treatments-medicinal-mushrooms.md"
 ---
-# Cancer Prevention Through Dietary Mushroom Intake
+## Cancer Prevention Through Dietary Mushroom Intake
 
 ## Overview
 

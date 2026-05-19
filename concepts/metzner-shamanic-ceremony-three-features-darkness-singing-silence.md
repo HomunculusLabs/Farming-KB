@@ -15,7 +15,7 @@ tags:
   - metzner
 ---
 
-# Shamanic Ceremony: Three Features of Darkness, Singing, and Silence
+## Shamanic Ceremony: Three Features of Darkness, Singing, and Silence
 
 ## Three Distinctive Features of the Shamanic Model
 

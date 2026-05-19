@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# JADAM vs IMO Microorganism Solutions
+## JADAM vs IMO Microorganism Solutions
 
 ## Overview
 

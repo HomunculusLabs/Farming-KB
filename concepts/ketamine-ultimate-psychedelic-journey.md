@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
-# Ketamine - The Ultimate Psychedelic Journey
+## Ketamine - The Ultimate Psychedelic Journey
 
 D.M. Turner rates Ketamine at intensity "10 to Infinity," the highest rating in the guide, describing it as the most intense, bizarre, and enjoyable psychedelic he has tried.
 

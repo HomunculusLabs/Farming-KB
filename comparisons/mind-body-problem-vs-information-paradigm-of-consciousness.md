@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Mind-Body Problem vs Information Paradigm of Consciousness
+## Mind-Body Problem vs Information Paradigm of Consciousness
 
 The mind-body problem and the [[information-paradigm-of-consciousness]] address the same basic territory from different directions.
 The mind-body problem is a question: how can subjective experience relate to physical matter?

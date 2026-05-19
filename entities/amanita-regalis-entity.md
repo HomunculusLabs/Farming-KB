@@ -20,7 +20,7 @@ sources:
   - psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
-# Amanita regalis
+## Amanita regalis
 **Royal [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 (A. muscaria) but distinguished by its darker brown cap, more robust
 stature, and higher concentrations of [[betula-pendula]]/pubescens; occasionally Abies and Larix

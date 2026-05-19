@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Ingham — Fungal Food Selection for Compost Tea
+## Ingham — Fungal Food Selection for Compost Tea
 
 Updated: 2026-04-18
 

@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Flash Steam Contact Sterilization via Trace Water and Microwave Irradiation
+## Flash Steam Contact Sterilization via Trace Water and Microwave Irradiation
 
 ## Overview
 

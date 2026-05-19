@@ -9,7 +9,7 @@ sources:
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 
-# Living Plant Systems and Insectary Gardens
+## Living Plant Systems and Insectary Gardens
 
 Toby Hemenway's guide to creating gardens that support [[query-how-to-build-healthy-garden-soil]] depends on a complex web of relationships between plants, insects, birds, and other creatures. Without pollinators, many crops fail. Without predators, pest populations explode. The ecological garden intentionally creates habitat for these essential partners.
 

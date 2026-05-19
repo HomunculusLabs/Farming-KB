@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Beekeeping and Honey Production in Permaculture
+## Beekeeping and Honey Production in Permaculture
 
 [[mollison-designers-mixed-orchard-design-species-selection]], [[mollison-designers-bee-forage-tree-planting]]
   species throughout [[mollison-designers-herb-spiral-design-construction]] -- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

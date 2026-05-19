@@ -13,7 +13,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungal Mineral Transformations and Biogeochemical Cycles
+## Fungal Mineral Transformations and Biogeochemical Cycles
 
 Fungi play a central role in the transformation of rocks and minerals, driving processes collectively known as geomycology. These mineral transformations are fundamental to biogeochemical cycling — the movement of elements through the biosphere, lithosphere, hydrosphere, and atmosphere. As decomposer organisms, plant pathogens, and mutualistic symbionts, fungi influence carbon, nitrogen, phosphorus, and metal cycles at every scale from individual soil particles to global ecosystems.
 

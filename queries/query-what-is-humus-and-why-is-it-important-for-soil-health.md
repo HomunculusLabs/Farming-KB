@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Humus and Why Is It Important for Soil Health
+## What Is Humus and Why Is It Important for Soil Health
 
 ## Short Answer
 Humus is the dark, stable, carbon-rich [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity for nutrient

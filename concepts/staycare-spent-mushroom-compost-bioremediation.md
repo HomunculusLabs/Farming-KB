@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Spent Mushroom Compost in Bioremediation
+## Spent Mushroom Compost in Bioremediation
 
 Spent mushroom compost (SMC) and mushroom production wastes represent
 an abundant, low-cost resource that can serve as both inoculum carrier

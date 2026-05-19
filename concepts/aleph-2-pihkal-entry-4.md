@@ -7,7 +7,7 @@ type: concept
 tags: [shulgin]
 ---
 
-# ALEPH-2
+## ALEPH-2
 
 2,5-Dimethoxy-4-ethylthioamphetamine; meta-DOT
 

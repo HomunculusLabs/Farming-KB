@@ -4,9 +4,9 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
-# Mushroom Cancer Clinical Trials Overview Mushroom-derived polysaccharides and proteoglycans represent one of the most extensively studied classes of natural products in oncology. While primarily developed and approved in East Asia, these compounds are increasingly attracting Western clinical research attention. ## Approved Compounds Three mushroom-derived compounds have achieved pharmaceutical regulatory approval: | Compound | Source | Country | Year | Cancer Types | Route | |----------|--------|---------|------|-------------|-------| | [[medicinal-mushroom-immune-modulation]] for broader context on [[lentinan-clinical-research]] — detailed [[schizophyllan-research]] — schizophyllan clinical trials
+## Mushroom Cancer Clinical Trials Overview Mushroom-derived polysaccharides and proteoglycans represent one of the most extensively studied classes of natural products in oncology. While primarily developed and approved in East Asia, these compounds are increasingly attracting Western clinical research attention. ## Approved Compounds Three mushroom-derived compounds have achieved pharmaceutical regulatory approval: | Compound | Source | Country | Year | Cancer Types | Route | |----------|--------|---------|------|-------------|-------| | [[medicinal-mushroom-immune-modulation]] for broader context on [[lentinan-clinical-research]] — detailed [[schizophyllan-research]] — schizophyllan clinical trials
 - [[psk-breast-lung-cancer-clinical-trials]]
 
 ## Related

@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Compost Tea vs Biochar
+## Compost Tea vs Biochar
 
 ## Overview
 Compost tea (specifically actively [[aact-disease-suppression-mechanisms-ingham]]. Biochar provides a persistent carbon

@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Advanced Cannabis Breeding — IBL Strains, Population Genetics, and Hash Making
+## Advanced Cannabis Breeding — IBL Strains, Population Genetics, and Hash Making
 
 ## Hardy-Weinberg Equilibrium and Population Genetics
 

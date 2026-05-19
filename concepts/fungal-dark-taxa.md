@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, sequencing, taxonomy, environmental-dna]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Fungal Dark Taxa
+## Fungal Dark Taxa
 
 Fungal dark taxa refer to molecularly detected but taxonomically unclassified
 fungal lineages identified through environmental [[fukuoka-microbial-ecology-decomposition]], where it describes

@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Surfactant-Enhanced Fungal Bioremediation
+## Surfactant-Enhanced Fungal Bioremediation
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Chicken Keeping vs Beekeeping
+## Chicken Keeping vs Beekeeping
 
 ## Overview
 Chickens and honey bees are the two most common entry points into

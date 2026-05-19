@@ -26,7 +26,7 @@ related_concepts:
   - permaculture-sheet-mulch-detailed-guide
 ---
 
-# Sheet Mulching and No-Dig Gardening
+## Sheet Mulching and No-Dig Gardening
 
 Sheet mulching, also known as lasagna gardening or composting in place, is a
 technique for creating fertile garden beds by layering organic materials

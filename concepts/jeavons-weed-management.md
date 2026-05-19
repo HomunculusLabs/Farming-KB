@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Weed Management
+## Weed Management
 
 In the [[comparison-raised-beds-vs-hugelkultur]]. The [[jeavons-grow-biointensive-method-overview]]
 [[jeavons-composting-methods]]

@@ -7,7 +7,7 @@ sources:
 created: 2026-05-10
 ---
 
-# Phytocannabinoids in Common Spices
+## Phytocannabinoids in Common Spices
 
 ## Overview
 

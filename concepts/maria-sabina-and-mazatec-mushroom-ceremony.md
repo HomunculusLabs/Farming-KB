@@ -22,7 +22,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Maria Sabina and the Mazatec Mushroom Ceremony
+## Maria Sabina and the Mazatec Mushroom Ceremony
 
 The story of Maria Sabina (c. 1894-1985), a Mazatec curandera from Huautla de Jimenez, Oaxaca, Mexico, represents the pivotal moment when indigenous mushroom practices intersected with Western psychedelic culture.
 

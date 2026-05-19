@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, sleep]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis for Sleep Disorders
+## Cannabis for Sleep Disorders
 
 Cannabis has been used as a sleep aid for centuries. Modern research confirms it reduces sleep latency (time to fall asleep) and may improve sleep quality for some conditions, but long-term use can lead to tolerance and dependency.
 

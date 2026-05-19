@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Peaceful Visions of the Second Bardo
+## Peaceful Visions of the Second Bardo
 
 The Second Bardo of the Tibetan Book of the Dead, as adapted by Leary, Metzner, and Alpert in *The Psychedelic Experience* (1964), presents a series of **Peaceful Visions** that arise after the ego-loss of the First Bardo. These visions represent progressively more structured encounters with the fundamental nature of reality. Each vision corresponds to a Dhyani Buddha, an element, and a specific mode of perception — and each carries both a **positive** (liberating) and **negative** (deluding) interpretation depending on the voyager's preparation and mental set.
 

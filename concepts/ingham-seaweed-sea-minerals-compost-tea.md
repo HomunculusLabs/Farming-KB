@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [seaweed, kelp, compost-tea, brewing-ingredients, trace-minerals]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 type: concept
 ---
 
-# Seaweed and Sea Minerals in Compost Tea Brewing
+## Seaweed and Sea Minerals in Compost Tea Brewing
 
 ## Seaweed as a Food Source
 

@@ -5,7 +5,7 @@ type: entity
 tags: [life-history, strategy, r-selection, K-selection, Grime, fungal-ecology, competition, stress-tolerance]
 ---
 
-# R-C-S Strategy (Fungi)
+## R-C-S Strategy (Fungi)
 
 ## Description
 

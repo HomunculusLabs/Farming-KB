@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [mind-body, emotions, endocannabinoid, neurotransmitters, psychosomatic, ECS]
 ---
 
-# Mind-Body Medicine and Endocannabinoid Signaling
+## Mind-Body Medicine and Endocannabinoid Signaling
 
 ## Overview
 

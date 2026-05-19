@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# McKenna on Leary at Harvard and the Psilocybin Project
+## McKenna on Leary at Harvard and the Psilocybin Project
 
 In , the Harvard years
 of the early 1960s represent a pivotal and paradoxical moment in the history of

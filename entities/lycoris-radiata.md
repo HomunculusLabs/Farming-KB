@@ -17,7 +17,7 @@ sources:
   - Royal Horticultural Society (2024). "Lycoris radiata." RHS Plant Finder.
 ---
 
-# Lycoris radiata
+## Lycoris radiata
 
 ## Overview
 

@@ -5,7 +5,7 @@ source_author: Elaine Ingham Ph.D.
 topics: compost tea, micronized compost, brewing, extraction, microbial inoculation
 ---
 
-# Micronized Compost in AACT Brewing
+## Micronized Compost in AACT Brewing
 
 ## Overview
 

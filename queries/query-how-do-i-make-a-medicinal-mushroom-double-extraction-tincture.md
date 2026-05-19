@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Make a Medicinal Mushroom Double Extraction Tincture?
+## How Do I Make a Medicinal Mushroom Double Extraction Tincture?
 
 A double extraction tincture captures both the water-soluble and alcohol-soluble compounds from [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]], and maitake — contain beneficial polysaccharides like [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] for general herbal extraction principles
 - [[query-how-to-make-fermented-plant-extracts-for-natural-fertilizer]] for plant-focused fermentation methods

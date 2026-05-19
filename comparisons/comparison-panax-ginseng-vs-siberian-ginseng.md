@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Panax Ginseng vs Siberian Ginseng (Eleutherococcus)
+## Panax Ginseng vs Siberian Ginseng (Eleutherococcus)
 
 ## Overview
 

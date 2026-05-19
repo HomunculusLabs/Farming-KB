@@ -8,7 +8,7 @@ sources:
   - raw/papers/farmers-of-forty-centuries-f-h-king.md
 ---
 
-# Making Ghee and Clarified Fats
+## Making Ghee and Clarified Fats
 
 Updated: 2026-04-18
 

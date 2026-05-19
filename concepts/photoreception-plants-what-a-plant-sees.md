@@ -4,7 +4,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 type: concept
 ---
 
-# Photoreception in Plants — What a Plant Sees
+## Photoreception in Plants — What a Plant Sees
 
 ## Overview
 

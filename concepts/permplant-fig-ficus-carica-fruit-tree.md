@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fig as Ancient Fruit Tree in Permaculture
+## Fig as Ancient Fruit Tree in Permaculture
 
 The fig (permaculture-energy-systems and gaias-garden-[[urban-permaculture-design]].
 

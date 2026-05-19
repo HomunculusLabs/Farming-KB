@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungal Culture Shipping Regulations and Biosafety
+## Fungal Culture Shipping Regulations and Biosafety
 
 The transport of fungal cultures across domestic and international borders is subject to a complex framework of biosafety classifications, packaging standards, and regulatory requirements. These regulations exist to prevent the accidental release of pathogenic organisms into the environment and to ensure the safe handling of biological materials throughout the entire shipping chain, from the originating laboratory to the receiving facility.
 

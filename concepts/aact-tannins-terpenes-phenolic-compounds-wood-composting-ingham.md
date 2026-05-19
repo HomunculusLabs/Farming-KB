@@ -5,7 +5,7 @@ source_path: "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerat
 topics: [aact, composting, tannins, terpenes, phenolic-compounds, wood-chips, allelopathy, weed-suppression]
 ---
 
-# Tannins, Terpenes, and Phenolic Compounds in Composting and AACT
+## Tannins, Terpenes, and Phenolic Compounds in Composting and AACT
 
 ## Overview
 

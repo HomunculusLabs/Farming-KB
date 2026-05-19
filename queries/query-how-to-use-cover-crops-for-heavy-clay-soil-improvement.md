@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# How to Use Cover Crops for Heavy Clay Soil Improvement
+## How to Use Cover Crops for Heavy Clay Soil Improvement
 
 ## Short Answer
 

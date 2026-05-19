@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Legume Nitrogen Myth: Do Beans Feed Corn?
+## Legume Nitrogen Myth: Do Beans Feed Corn?
 
 The idea that beans and corn planted together form a mutually
 beneficial partnership is one of the most persistent companion

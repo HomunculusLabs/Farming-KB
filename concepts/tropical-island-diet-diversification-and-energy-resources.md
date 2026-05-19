@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Island Diet Diversification and Energy Resources
+## Tropical Island Diet Diversification and Energy Resources
 
 ## Overview
 

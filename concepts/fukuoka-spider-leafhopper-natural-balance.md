@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-one-straw-revolution.md
 ---
 
-# Fukuoka: Spider and Leafhopper Natural Balance
+## Fukuoka: Spider and Leafhopper Natural Balance
 
 ## The Rice Leafhopper Problem
 

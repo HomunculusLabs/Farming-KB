@@ -5,7 +5,7 @@ type: entity
 tags: [person, climatologist, climate-classification, permaculture]
 ---
 
-# Glenn Trewartha
+## Glenn Trewartha
 
 ## Description
 

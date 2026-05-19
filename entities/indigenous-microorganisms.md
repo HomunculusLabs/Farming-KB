@@ -1,5 +1,5 @@
 ---
-title: beneficial-indigenous-microorganisms-bim
+title: "Indigenous Microorganisms"
 created: 2026-04-28
 type: species
 tags: [knf, imo, microorganism-collection, soil-health, cho-global]
@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: [/Usenatural-farmingaw/papers/chos-global-natural-farming.md]
 ---
 
-# Indigenous Microorganisms
+## Indigenous Microorganisms
 
 **Indigenous Microorganisms (IMO)** are locally sourced, naturally occurring microbial communities collected and cultured using the [[edaphic-factors-microbial-community-structure]] is enriched and diversified with additional nutrients:
 

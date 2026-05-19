@@ -1,4 +1,8 @@
-# Overnight Soak Method for Homogeneous Grass Seed Substrate Preparation
+---
+title: "Overnight Soak Method for Homogeneous Grass Seed Substrate Preparation"
+tags:
+  - concept
+---
 
 ## Overview
 

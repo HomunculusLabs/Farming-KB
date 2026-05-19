@@ -20,7 +20,7 @@ synonyms:
 type: concept
 ---
 
-# Outdoor Vertebrate Pest Control
+## Outdoor Vertebrate Pest Control
 
 [[outdoor-cannabis-growing]]
 - [[cervantes-wind-protection-outdoor-cannabis]]

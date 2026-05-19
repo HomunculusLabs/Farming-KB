@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Rexford F. Daubenmire
+## Rexford F. Daubenmire
 
 ## Description
 

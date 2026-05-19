@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Green Manure Crop Compendium
+## Holzer Green Manure Crop Compendium
 
 A reference list of [[holzer-vegetable-garden-polycultures]], [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Use: between tree rows, on degraded land, as pioneer species

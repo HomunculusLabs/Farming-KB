@@ -17,7 +17,7 @@ sources:
   - "WikiLeaf (2024). \"GMO Strain Review.\" wikileaf.com/strain/gmo."
 ---
 
-# GMO (Garlic Cookies)
+## GMO (Garlic Cookies)
 
 ## Overview
 

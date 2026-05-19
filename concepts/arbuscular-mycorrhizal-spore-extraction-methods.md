@@ -4,9 +4,9 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Arbuscular Mycorrhizal Fungal Spore Extraction Methods
+## Arbuscular Mycorrhizal Fungal Spore Extraction Methods
 
 Updated: 2026-04-18
 

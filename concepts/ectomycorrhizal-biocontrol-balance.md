@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Biocontrol and the Mycorrhizal Balance
+## Ectomycorrhizal Biocontrol and the Mycorrhizal Balance
 
 ## Overview
 

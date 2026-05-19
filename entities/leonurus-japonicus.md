@@ -16,7 +16,7 @@ sources:
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the Peoples Republic of China. Vol. I.
 ---
 
-# Leonurus japonicus
+## Leonurus japonicus
 
 *Leonurus japonicus*, commonly known as Chinese motherwort, is an annual or biennial herbaceous plant in the family Lamiaceae. It is one of the most important medicinal plants in traditional Chinese medicine, where the aerial parts are prescribed as yimucao.
 

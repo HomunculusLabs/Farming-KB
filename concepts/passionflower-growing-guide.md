@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Passionflower Growing Guide (Passiflora incarnata)
+## Passionflower Growing Guide (Passiflora incarnata)
 
 ## Overview
 

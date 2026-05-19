@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Make a Balanced Herbal Mulch for No-Till Gardens?
+## How Do I Make a Balanced Herbal Mulch for No-Till Gardens?
 
 ## Short Answer
 

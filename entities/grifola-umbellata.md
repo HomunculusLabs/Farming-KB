@@ -19,7 +19,7 @@ sources:
   - "Dai, Y.C. & Yang, Z.L. (2008). \"A revised checklist of medicinal fungi in China.\" Mycosystema, 27(6), 801-824."
 ---
 
-# Zhu Ling (*Grifola umbellata* (Pers.) Pilát)
+## Zhu Ling (*Grifola umbellata* (Pers.) Pilát)
 
 ## Overview
 

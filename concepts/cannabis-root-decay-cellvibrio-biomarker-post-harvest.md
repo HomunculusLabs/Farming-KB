@@ -5,7 +5,7 @@ tags: [cannabis, root-decay, cellvibrio, endorhiza, post-harvest, microbiome, bi
 created: 2026-05-08
 ---
 
-# Cannabis Root Decay Detection: Cellvibrio as a Post-Harvest Endorhiza Biomarker
+## Cannabis Root Decay Detection: Cellvibrio as a Post-Harvest Endorhiza Biomarker
 
 ## Overview
 

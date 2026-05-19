@@ -17,7 +17,7 @@ sources:
   - Figlar, R.B. & Nooteboom, H.P. (2004). "Notes on Magnoliaceae IV." Blumea 49: 87–100.
 ---
 
-# Magnolia macrophylla
+## Magnolia macrophylla
 
 ## Overview
 

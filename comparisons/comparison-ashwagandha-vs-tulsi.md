@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Ashwagandha vs Tulsi (Holy Basil)
+## Ashwagandha vs Tulsi (Holy Basil)
 
 Both ashwagandha (*ocimum-sanctum*) are
 cornerstones of Ayurvedic medicine with thousands of years of traditional use.

@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Edaphic Factors in Cannabis Endorhiza Microbiome Assembly
+## Edaphic Factors in Cannabis Endorhiza Microbiome Assembly
 
 The assembly of [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] (edaphic factors) are the primary determinant of overall [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]. This two-tier model, supported by the landmark Winston et al. (2014) study, has significant implications for understanding plant-microbe interactions in this commercially and medicinally important crop.
 

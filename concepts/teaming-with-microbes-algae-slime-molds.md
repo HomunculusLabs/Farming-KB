@@ -7,7 +7,7 @@ tags: [gardening]
 sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
-# Teaming with Microbes: Algae, Slime Molds, and Their Roles
+## Teaming with Microbes: Algae, Slime Molds, and Their Roles
 
 **Source:** Jeff Lowenfels and Wayne Lewis, *Teaming with Microbes*
 

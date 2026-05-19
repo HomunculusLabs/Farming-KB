@@ -8,7 +8,7 @@ type: concept
 tags: [fruit-tree]
 ---
 
-# Organic Fruit Growing Techniques
+## Organic Fruit Growing Techniques
 
 Fruit growing in the organic garden follows the same principles as all
 other aspects: healthy soil, diverse planting, [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]. Wall training is

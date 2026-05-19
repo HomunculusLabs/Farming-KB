@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Ketamine Compound Profile
+## Ketamine Compound Profile
 
 Ketamine is a dissociative anesthetic with profound psychedelic properties at sub-anesthetic doses. Originally developed as a surgical anesthetic, ketamine has become one of the most clinically validated psychedelic-adjacent compounds, with FDA-approved use for treatment-resistant depression via its S-enantiomer (esketamine/Spravato).
 

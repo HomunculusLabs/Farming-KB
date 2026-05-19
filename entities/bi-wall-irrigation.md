@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Bi-Wall Irrigation System
+## Bi-Wall Irrigation System
 
 ## Description
 

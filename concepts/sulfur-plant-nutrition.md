@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Sulfur and Other Secondary Nutrients in Plant Nutrition
+## Sulfur and Other Secondary Nutrients in Plant Nutrition
 
 Sulfur (S) is often called the "fourth macronutrient" alongside N, P, and K. It plays essential roles in protein synthesis, enzyme function, and plant defense. Despite its importance, [[cho-fish-amino-acid-preparation]] synthesis:** Essential component of cysteine and methionine (two of the 20 amino acids)
 - **Protein structure:** Disulfide bonds between cysteine residues stabilize protein tertiary structure

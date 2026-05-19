@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Organic Acid Production for Metal Leaching
+## Fungal Organic Acid Production for Metal Leaching
 
 Fungi produce a variety of organic acids that play crucial roles in
 metal solubilization, leaching from contaminated matrices, and

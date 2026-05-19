@@ -21,7 +21,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Fermented Mixed Compost (FMC)
+## Fermented Mixed Compost (FMC)
 
 Fermented Mixed Compost is KNF's signature composting method. It combines IMO-4 (cultivated indigenous microorganisms) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted beneficial microorganisms from your local environment.
 

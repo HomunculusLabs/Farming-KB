@@ -8,7 +8,7 @@ sources: [masanobu-fukuoka-the-road-back-to-nature.md]
 type: concept
 ---
 
-# Fukuoka on Medicine and the Collapse of Human Health
+## Fukuoka on Medicine and the Collapse of Human Health
 
 [[fukuoka-critique-of-scientific-agriculture]] agriculture to
 modern medicine, arguing that both fields operate on the same flawed

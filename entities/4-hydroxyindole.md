@@ -5,10 +5,10 @@ type: chemical
 tags: [indole, precursor, synthetic-intermediate, organic-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
+sources: ["raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"]
 ---
 
-# 4-Hydroxyindole
+## 4-Hydroxyindole
 
 4-Hydroxyindole is an [[psilocybin]], and related indole-alkylamine derivatives. It serves as a fundamental building block in both laboratory synthetic routes and as a structural analog of the biosynthetic intermediates found in [[psilocybin]]. In the natural biosynthetic pathway within [[psilocin]].
 

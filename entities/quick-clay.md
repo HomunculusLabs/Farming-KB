@@ -5,7 +5,7 @@ type: entity
 tags: [soil-science, geology, hazard, permaculture]
 ---
 
-# Quick Clay
+## Quick Clay
 
 ## Description
 

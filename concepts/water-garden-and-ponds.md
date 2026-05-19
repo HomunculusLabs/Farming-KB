@@ -7,7 +7,7 @@ tags: [water-management, ecology, wildlife, plants, design, permaculture]
 sources: []
 ---
 
-# Water Gardens and Ponds
+## Water Gardens and Ponds
 
 Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ecosystems]] into the landscape, supporting wildlife, creating tranquil focal points, and enabling the cultivation of aquatic plants and fish. They integrate [[water-management]] with [[fungal-ecology|ecology]] and [[permaculture-design|design]] principles.
 

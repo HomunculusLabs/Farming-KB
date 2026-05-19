@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Nitrogen Cycle in Gardens and Soil
+## What Is the Nitrogen Cycle in Gardens and Soil
 
 ## Short Answer
 The nitrogen cycle is the continuous process by which nitrogen moves from the

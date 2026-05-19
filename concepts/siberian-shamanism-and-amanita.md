@@ -23,7 +23,7 @@ sources:
 - raw/papers/harner-j-hallucinogens-and-shamanism.md
 ---
 
-# Siberian Shamanism and Amanita Muscaria
+## Siberian Shamanism and Amanita Muscaria
 
 The relationship between Amanita muscaria (fly-agaric) and Siberian indigenous cultures is the most extensively documented case of mushroom use in indigenous shamanism. However, as Andy Letcher argues in "Shroom" (2006), Western understanding of this relationship has been heavily distorted by myth-making and oversimplification.
 

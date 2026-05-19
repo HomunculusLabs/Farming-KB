@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, endophyte, grass-symbiont, clavicipitaceous]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Epichloe typhina
+## Epichloe typhina
 
 **Type:** Species (Fungus)
 **Category:** [[cordyceps-cultivation]] in grasses. E. typhina has been central to research

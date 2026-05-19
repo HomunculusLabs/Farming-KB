@@ -1,4 +1,8 @@
-# Psilocybin Pharmacokinetics and Bioavailability
+---
+title: "Psilocybin Pharmacokinetics and Bioavailability"
+tags:
+  - concept
+---
 
 ## Overview
 

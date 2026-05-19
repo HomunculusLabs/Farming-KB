@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Causes Nutrient Burn in Cannabis and How to Prevent It
+## What Causes Nutrient Burn in Cannabis and How to Prevent It
 
 ## Short Answer
 Nutrient burn in cannabis is caused by excessive concentrations of mineral salts

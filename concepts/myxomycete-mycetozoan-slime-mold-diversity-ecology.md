@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Myxomycetes and Mycetozoans
+## Myxomycetes and Mycetozoans
 
 Mycetozoa is a name applied to the polyphyletic assemblage of
 terrestrial amoeboid protists that produce aerial spore-bearing

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Wood-Inhabiting Microfungi — Life Strategies and Inventory Methods ## Overview Wood-inhabiting microfungi are a diverse assemblage of fungal species that colonize decaying wood, leaf litter, and other plant debris. They play essential roles in [[hamilton-composting-and-organic-matter-management]] rather than from living hosts.
+## Wood-Inhabiting Microfungi — Life Strategies and Inventory Methods ## Overview Wood-inhabiting microfungi are a diverse assemblage of fungal species that colonize decaying wood, leaf litter, and other plant debris. They play essential roles in [[hamilton-composting-and-organic-matter-management]] rather than from living hosts.
 
 ## Life Strategy Framework
 

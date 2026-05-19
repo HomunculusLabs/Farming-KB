@@ -5,7 +5,7 @@ author: Masanobu Fukuoka
 topics: [agriculture, soil-science, natural-farming, tillage, soil-physics]
 ---
 
-# Plow Hardens Soil Through Flood Mechanism
+## Plow Hardens Soil Through Flood Mechanism
 
 [[masanobu-fukuoka]] identified a counterintuitive mechanism by which plowing
 actually degrades soil structure rather than improving it. This insight

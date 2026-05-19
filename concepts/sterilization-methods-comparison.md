@@ -7,7 +7,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 related: microwave-microbial-kill-curves
 ---
 
-# Comparison of Surface Sterilization Methods
+## Comparison of Surface Sterilization Methods
 
 Surface sterilization is a critical requirement across fields including
 aerospace, medicine, pharmaceutical manufacturing, food safety, and

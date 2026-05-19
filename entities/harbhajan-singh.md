@@ -26,7 +26,7 @@ sources:
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 ---
 
-# Harbhajan Singh
+## Harbhajan Singh
 
 Research scientist and author of "Mycoremediation: Fungal Bioremediation" (2006, John Wiley & Sons), the definitive reference work on using fungi for environmental cleanup. Based in Atlanta, Georgia, Singh wrote the book in his private capacity with a disclaimer noting that no official support or endorsement by the U.S. Environmental Protection Agency or any other federal government agency is intended.
 

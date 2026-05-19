@@ -13,7 +13,7 @@ type: comparison
 created: 2026-04-28
 ---
 
-# Beeswax vs Shellac vs Carnauba Wax
+## Beeswax vs Shellac vs Carnauba Wax
 
 ## Overview
 

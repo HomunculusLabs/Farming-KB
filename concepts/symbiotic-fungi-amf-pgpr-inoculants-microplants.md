@@ -7,7 +7,7 @@ tags: [mycorrhizal, microbes, fertilizer, biology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# AMF and PGPR Inoculants for Microplant Establishment
+## AMF and PGPR Inoculants for Microplant Establishment
 
 Updated: 2026-04-18
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Oil Spill Mycoremediation
+## Oil Spill Mycoremediation
 
 ## Description
 

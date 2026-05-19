@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Legal Responses
+## EMCDDA Hallucinogenic Mushroom Legal Responses
 
 ## International Legal Framework
 

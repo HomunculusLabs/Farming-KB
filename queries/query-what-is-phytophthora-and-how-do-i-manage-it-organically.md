@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# What Is Phytophthora and How Do I Manage It Organically?
+## What Is Phytophthora and How Do I Manage It Organically?
 
 ## Short Answer
 

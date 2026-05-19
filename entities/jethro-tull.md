@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden
 type: entity
 ---
 
-# Jethro Tull
+## Jethro Tull
 
 **Lived:** 1674–1741
 **Nationality:** English

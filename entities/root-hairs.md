@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, roots, nutrient-uptake, botany, rhizosphere]
 ---
 
-# Root Hairs
+## Root Hairs
 
 ## Description
 

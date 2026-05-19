@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin, cardiovascular, physiological-effects, acute-toxicity, emcdda, health]
 ---
 
-# Psilocybin Cardiovascular Risks and Acute Physiological Effects
+## Psilocybin Cardiovascular Risks and Acute Physiological Effects
 
 The EMCDDA's 2006 [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] dominate both user experience and clinical concern,
 the somatic effects are significant for clinical management and for

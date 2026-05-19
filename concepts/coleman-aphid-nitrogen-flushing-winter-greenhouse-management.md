@@ -5,7 +5,7 @@ tags: [aphid-management, nitrogen-flushing, winter-greenhouse, IPM, coleman]
 created: 2026-05-11
 ---
 
-# Aphid Management Through Nitrogen Flushing in Winter Greenhouses
+## Aphid Management Through Nitrogen Flushing in Winter Greenhouses
 
 One of the most instructive pest management stories in [[eliot-coleman]]'s winter-harvest system is his solution to a persistent aphid problem that developed in the cold houses.
 Rather than reaching for an approved organic pesticide,

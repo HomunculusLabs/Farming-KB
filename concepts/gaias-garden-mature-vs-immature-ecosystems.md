@@ -5,7 +5,7 @@ author: Toby Hemenway
 topics: ecology, succession, garden-design, permaculture, ecosystems, maturity
 ---
 
-# Mature vs Immature Ecosystems in [[holmgren-ecological-succession-and-pulsing]]. They are
+## Mature vs Immature Ecosystems in [[holmgren-ecological-succession-and-pulsing]]. They are
 characterized by:
 
 - **Fast growth** — Pioneer species grow rapidly to colonize open ground

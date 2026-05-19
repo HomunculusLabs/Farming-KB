@@ -4,10 +4,10 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [gardening, organic-gardening]
-sources: [/Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
+sources: ["raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 ---
 
-# Herb Gardening (Organic)
+## Herb Gardening (Organic)
 
 Updated: 2026-04-18
 

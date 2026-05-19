@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Industrial Recycling and Infrastructure Maintenance
+## Industrial Recycling and Infrastructure Maintenance
 
 Drawing from permaculture thinking and systems ecology, this concept addresses how industrial
 societies handle waste, maintain built infrastructure, and can learn from natural systems to

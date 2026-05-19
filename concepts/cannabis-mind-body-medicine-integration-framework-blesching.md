@@ -5,7 +5,7 @@ tags: [cannabis, mind-body, endocannabinoid, healing, mindfulness, CHI]
 created: 2026-05-08
 ---
 
-# Cannabis Mind-Body Medicine Integration Framework
+## Cannabis Mind-Body Medicine Integration Framework
 
 ## Overview
 

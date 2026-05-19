@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-# Fungal Ecology
+## Fungal Ecology
 
 Fungi are the grand recyclers of the planet — keystone organisms that create soil, cycle nutrients, and govern ecological equilibrium. From *Mycelium Running* by [[paul-stamets]].
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Tropical Soils and Cation Exchange Capacity Management
+## Tropical Soils and Cation Exchange Capacity Management
 
 Tropical soils present special challenges for permaculture
 designers because, except in areas of recent vulcanism such

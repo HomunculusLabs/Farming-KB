@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Compost Tea Brewing Temperature and Ingredients
+## Compost Tea Brewing Temperature and Ingredients
 
 ## Overview
 

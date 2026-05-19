@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Salt Buildup and Leaching Management
+## Salt Buildup and Leaching Management
 
 Salt buildup from fertilizer residues is one of the most common and
 insidious problems in container-grown cannabis. Jorge Cervantes

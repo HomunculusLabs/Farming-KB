@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [remediation, environment]
-sources: [/Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
+sources: ["raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"]
 ---
-# Ligninolytic Enzymes in Fungal Bioremediation
+## Ligninolytic Enzymes in Fungal Bioremediation
 
 The ligninolytic enzyme system of fungal-environmental-sensing. These [[fungal-extracellular-enzymes]] evolved to depolymerize lignin -- one of nature's most resistant polymers -- and their non-specific oxidative chemistry enables them to transform a remarkably wide range of xenobiotic compounds.
 

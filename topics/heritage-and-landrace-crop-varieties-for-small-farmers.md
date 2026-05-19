@@ -24,7 +24,7 @@ related_concepts:
   - biointensive-seed-saving
 ---
 
-# Heritage and Landrace Crop Varieties for Small Farmers
+## Heritage and Landrace Crop Varieties for Small Farmers
 
 Heritage and landrace crop varieties represent the genetic backbone of human
 agriculture. These open-pollinated plants have been shaped by centuries of

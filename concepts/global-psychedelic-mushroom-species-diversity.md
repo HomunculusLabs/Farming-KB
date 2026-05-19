@@ -9,7 +9,7 @@ sources:
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Global Psychedelic Mushroom Species Diversity
+## Global Psychedelic Mushroom Species Diversity
 
 ## Overview
 

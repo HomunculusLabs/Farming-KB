@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom Tissue Cloning
+## Mushroom Tissue Cloning
 
 Tissue cloning is one of the most reliable methods for obtaining a pure culture of a specific mushroom strain. Rather than working with spores — which introduce genetic variation — tissue cloning captures the exact genetics of a verified mushroom, preserving desirable traits like fruiting speed, yield, flavor, and hardiness.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Suillus bovinus
+## Suillus bovinus
 
 **Suillus bovinus** is an ectomycorrhizal basidiomycete fungus in the family Suillaceae, commonly known as the Jersey cow mushroom. It is a pine-associated ectomycorrhizal species notable for its [[bionutrients-lab-calcium-phosphate-calamansi]] using
 plate-clearing assays. Suillus bovinus was one of only three species, alongside

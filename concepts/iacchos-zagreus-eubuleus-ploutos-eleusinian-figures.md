@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# Iacchos, Zagreus, Eubuleus, Ploutos — Eleusinian Male Figures
+## Iacchos, Zagreus, Eubuleus, Ploutos — Eleusinian Male Figures
 
 **Source:** The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] featured several male figures who represented different aspects of the same fundamental archetype: the vegetative spirit who dies and is reborn, transmuting the wild horror of death into the promise of fertility and redemption. Each figure — [[sacred-marriage-hieros-gamos-in-greek-religion]] pattern in its most primordial form.
 

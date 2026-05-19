@@ -15,7 +15,7 @@ created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Phototropism and Shade Avoidance
+## Phototropism and Shade Avoidance
 
 Phototropism and shade avoidance are two related but distinct plant responses to light that enable plants to optimize their position for photosynthesis and compete with neighboring vegetation. Phototropism is the directional growth of plant organs toward or away from a light source, while shade avoidance is a suite of developmental changes triggered by the detection of neighboring vegetation through changes in light quality. Together, these responses represent some of the most visible and ecologically important examples of plant sensory capacity.
 

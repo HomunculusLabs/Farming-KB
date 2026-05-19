@@ -17,7 +17,7 @@ sources:
   - Hajos, Z. & Buchloh, G. (1962). "Die Gattung Datura L." Feddes Repertorium, 67, 53-92.
 ---
 
-# Brugmansia candida
+## Brugmansia candida
 
 ## Overview
 

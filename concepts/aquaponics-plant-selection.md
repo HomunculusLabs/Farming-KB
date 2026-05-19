@@ -7,7 +7,7 @@ tags: [aquaponics, plant-systems, cultivation, gardening, vegetables, water-mana
 sources: []
 ---
 
-# Aquaponics Plant Selection
+## Aquaponics Plant Selection
 
 Plant selection in aquaponics depends on system type (media bed, raft, NFT), nutrient density of the fish water, available light, and grower experience. Some plants thrive in the nutrient-rich, constantly moist aquaponic environment while others struggle. Matching plants to system conditions is key to productivity.
 

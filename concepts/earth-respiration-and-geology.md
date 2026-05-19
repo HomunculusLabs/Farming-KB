@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earth Respiration and Geology
+## Earth Respiration and Geology
 
 ## Overview
 

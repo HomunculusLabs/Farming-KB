@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# UK Pre-Prohibition Magic Mushroom Market Economics
+## UK Pre-Prohibition Magic Mushroom Market Economics
 
 The United Kingdom experienced a rapid expansion of the commercial [[copelandia-cyanescens]]: 10 grams for 13 to 17.50 euros.
 - Psilocybe mexicana (Philosopher's stones or truffles): 15 grams for 10 to 17.50 euros.

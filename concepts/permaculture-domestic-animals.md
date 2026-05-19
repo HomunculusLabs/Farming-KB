@@ -7,7 +7,7 @@ tags: [permaculture, animal-husbandry, livestock, ducks, goats, forage, polycult
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Domestic Animals
+## Permaculture Domestic Animals
 
 Domestic animals in permaculture are valued not for single-product yields but for their multiple functions: pest control, nutrient cycling, forage conversion, soil preparation, and food production. Mollison emphasises that the complexity of connections an animal makes in a system far exceeds what designers can plan -- "we must simply trust the chicken."
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Problems with Darwin's Theory of Evolution
+## Problems with Darwin's Theory of Evolution
 
 In *The Road Back to Nature*, [[fukuoka-insects-create-new-rice-varieties]] but through natural processes that science does not fully understand
 - The emphasis on "survival of the fittest" reflects human competitive values projected onto nature

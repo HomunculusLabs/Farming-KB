@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [reference]
 ---
-# Huichol Peyote Tradition
+## Huichol Peyote Tradition
 The Huichol (Wixarika) people of the Sierra Madre Occidental in
 western Mexico
 maintain one of the most elaborate and well-preserved peyote

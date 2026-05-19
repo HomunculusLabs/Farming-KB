@@ -7,7 +7,7 @@ related:
 created: 2026-05-09
 ---
 
-# Translinguistic Objects and Glossolalia in Tryptamine Experience
+## Translinguistic Objects and Glossolalia in Tryptamine Experience
 
 ## Overview
 

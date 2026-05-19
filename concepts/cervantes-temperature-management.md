@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Grow Room Temperature Management
+## Grow Room Temperature Management
 
 Temperature is one of the most critical environmental
 factors in [[plant-nutrient-uptake-mechanisms]], transpiration,

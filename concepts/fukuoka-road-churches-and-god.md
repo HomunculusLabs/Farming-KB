@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Churches and God: Observations on European Christianity
+## Churches and God: Observations on European Christianity
 
 Fukuoka had never been to a large cathedral before his
 [[fukuoka-textdoc-staff-of-life-critique-western-dietetics|life]] of serenity amid all this splendor

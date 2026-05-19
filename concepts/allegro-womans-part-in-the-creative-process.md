@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Woman's Part in the Creative Process
+## Woman's Part in the Creative Process
 
 Allegro devotes a full chapter to the role of women — specifically menstrual blood — in ancient [[allegro-old-testament-figures-as-fertility-deities]] rules for the menstruant (Lev 15:19-25) emphasize the sacred nature of the blood. Everything the woman touches is reckoned "unclean" — but this uncleanness has nothing to do with morals or hygiene. It is a religious state of taboo, comparable to the defilement of a woman bearing a son or a man coming into contact with a dead body.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [soil, geology, permaculture, soil-pan, sodium, salinity]
 ---
 
-# Solcrete
+## Solcrete
 
 ## Description
 

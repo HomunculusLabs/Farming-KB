@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, thermal-mass, energy, heating, indigenous-technology]
 ---
 
-# Soapstone Thermal Mass (Mollison's Energy System)
+## Soapstone Thermal Mass (Mollison's Energy System)
 
 ## Description
 

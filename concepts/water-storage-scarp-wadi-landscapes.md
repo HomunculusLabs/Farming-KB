@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Storage in Scarp and Wadi Landscapes
+## Water Storage in Scarp and Wadi Landscapes
 
 The scarp and [[water-management]] begins on the top erosion surface (the peneplain). Stone and cement dams can be erected across the generally gentle valleys of the upper plateau to hold clean water. These dams should be fitted with plugs or base pipes to release flood water more gently after the initial surge.
 

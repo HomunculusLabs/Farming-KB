@@ -24,7 +24,7 @@ related_concepts:
   - permaculture-water-harvesting-earthworks
 ---
 
-# Permaculture Design Process and Site Analysis
+## Permaculture Design Process and Site Analysis
 
 Permaculture design is a systematic yet [[hemenway-random-assembly-design-technique]] and [[permaculture-principles]] are applied throughout, ensuring that each
 element serves multiple functions and that elements support one another.

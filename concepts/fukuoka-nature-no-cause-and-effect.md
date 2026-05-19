@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 topics: [natural-farming, philosophy, epistemology, ecology, systems-thinking]
 ---
 
-# Nature Has No Cause and Effect
+## Nature Has No Cause and Effect
 
 One of Masanobu Fukuoka's most radical philosophical claims is that
 nature operates without cause and effect. This assertion, which seems

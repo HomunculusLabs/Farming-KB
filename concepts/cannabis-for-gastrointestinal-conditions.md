@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Gastrointestinal Conditions
+## Cannabis for Gastrointestinal Conditions
 
 updated: 2026-04-18
 

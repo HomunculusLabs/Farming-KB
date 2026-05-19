@@ -16,7 +16,7 @@ sources:
   - Tallamy, D.W. (2007). "Bringing Nature Home." Timber Press.
 ---
 
-# Helenium autumnale
+## Helenium autumnale
 
 ## Overview
 

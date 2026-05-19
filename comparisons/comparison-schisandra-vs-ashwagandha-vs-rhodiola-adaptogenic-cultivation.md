@@ -22,7 +22,7 @@ type: comparison
 created: 2026-05-07
 ---
 
-# Schisandra vs. Ashwagandha vs. Rhodiola — Adaptogenic Cultivation
+## Schisandra vs. Ashwagandha vs. Rhodiola — Adaptogenic Cultivation
 
 ## Overview
 

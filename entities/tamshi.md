@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Tamshi (*Carludovica divergens*)
+## Tamshi (*Carludovica divergens*)
 
 ## Description
 

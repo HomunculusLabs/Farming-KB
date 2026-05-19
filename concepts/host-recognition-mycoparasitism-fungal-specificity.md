@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Host Recognition and Specificity in Fungal Mycoparasitism
+## Host Recognition and Specificity in Fungal Mycoparasitism
 
 Mycoparasitism, the parasitic interaction of one fungus
 with another, depends critically on the ability of the

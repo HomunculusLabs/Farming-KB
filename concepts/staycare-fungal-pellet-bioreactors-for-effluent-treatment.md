@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Pellet Bioreactors for Effluent Treatment
+## Fungal Pellet Bioreactors for Effluent Treatment
 
 Fungal pellet bioreactors represent an important technology for applying
 [[fungal-treatment-of-industrial-wastewaters]] effluents. Mycelial pellets,

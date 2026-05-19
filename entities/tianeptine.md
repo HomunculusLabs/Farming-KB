@@ -16,7 +16,7 @@ sources:
   - Wikipedia contributors. "Tianeptine." Wikipedia, The Free Encyclopedia.
 ---
 
-# Tianeptine
+## Tianeptine
 
 **Type:** Chemical / Pharmaceutical / Antidepressant
 **Category:** Atypical tricyclic antidepressant

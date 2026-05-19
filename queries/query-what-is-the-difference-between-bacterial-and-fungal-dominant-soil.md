@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is the Difference Between Bacterial and Fungal Dominant Soil?
+## What Is the Difference Between Bacterial and Fungal Dominant Soil?
 
 ## Short Answer
 

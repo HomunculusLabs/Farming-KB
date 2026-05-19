@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Bobinzana (Calliandra angustifolia)
+## Bobinzana (Calliandra angustifolia)
 
 ## Description
 

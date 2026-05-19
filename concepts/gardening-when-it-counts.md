@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Gardening When It Counts
+## Gardening When It Counts
 
 **Gardening When It Counts** is a book by Steve Solomon, founder of Territorial Seed Company, that advocates for practical, low-input vegetable gardening methods suited to hard economic times. Published in 2005, the book represents a significant shift from the intensive raised-bed gardening paradigm that Solomon himself helped popularize in the 1970s and 1980s.
 

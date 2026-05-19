@@ -8,7 +8,7 @@ sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living]
 related_concepts: [tomato-growing-guide, pepper-growing-guide, bean-growing-guide, brassica-growing-guide, carrot-growing-guide, cucumber-growing-guide, garlic-growing-guide, lettuce-and-leafy-greens, onion-growing-guide, potato-growing-guide, tomato-pepper-eggplant-growing-guide, root-vegetable-storage-guide]
 ---
 
-# Home Vegetable Gardening Essentials
+## Home Vegetable Gardening Essentials
 
 Home vegetable gardening is the practice of cultivating edible plants for
 personal or household consumption, typically in a backyard, community plot,

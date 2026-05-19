@@ -16,7 +16,7 @@ sources:
   - Eggenberg S, Möhl A (2013). Flora Vegetativa. Haupt Verlag, Bern.
 ---
 
-# Campanula garganica
+## Campanula garganica
 
 ## Overview
 

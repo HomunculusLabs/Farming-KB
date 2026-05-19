@@ -5,7 +5,7 @@ type: concept
 tags: [fukuoka, natural-farming, direct-seeding, no-tillage, rice-barley-succession, clover-ground-cover, weed-control, agricultural-failure]
 ---
 
-# Fukuoka's Early Direct Seeding Failures and the Clover Ground Cover Breakthrough
+## Fukuoka's Early Direct Seeding Failures and the Clover Ground Cover Breakthrough
 
 ## Overview
 

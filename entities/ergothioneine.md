@@ -20,7 +20,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Ergothioneine
+## Ergothioneine
 
 **Ergothioneine** (abbreviated **EGT**, chemical name **2-mercaptohistidine trimethylbetaine**) is a naturally occurring amino acid derivative and potent antioxidant. Unlike most dietary antioxidants, ergothioneine is accumulated in the human body through a dedicated transporter — the **organic cation transporter novel type 1 (OCTN1/SLC22A4)** — suggesting it serves an essential physiological role rather than acting as an incidental dietary scavenger. It is biosynthesized almost exclusively by **fungi** and certain **actinobacteria**, making mushrooms one of the richest dietary sources.
 

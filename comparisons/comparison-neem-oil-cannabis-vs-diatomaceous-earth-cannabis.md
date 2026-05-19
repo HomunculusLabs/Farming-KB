@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Neem Oil vs Diatomaceous Earth for Cannabis Pest Control
+## Neem Oil vs Diatomaceous Earth for Cannabis Pest Control
 
 ## Overview
 Neem oil and diatomaceous earth (DE) are two of the most widely used organic

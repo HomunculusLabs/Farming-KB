@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: ["raw/papers/uwe-blesching-the-cannabis-health-index.md"]
 ---
-# Cannabis and Cancer Pain Research
+## Cannabis and Cancer Pain Research
 
 **Updated:** 2026-04-18
 

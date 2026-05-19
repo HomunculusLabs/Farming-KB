@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Spinach Production in Unheated Greenhouses
+## Spinach Production in Unheated Greenhouses
 
 Spinach is the single most important leafy winter crop in the unheated greenhouse system. It is remarkably cold-hardy, produces over a long harvest window, and serves dual purposes as both a salad-mix ingredient and a bulk leaf crop. Many experienced winter growers consider it the one crop they would choose if limited to a single winter leafy green.
 

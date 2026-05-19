@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# Dead Sea Scrolls and Entheogenic Readings
+## Dead Sea Scrolls and Entheogenic Readings
 
 The Dead Sea Scrolls, discovered in caves near Qumran beginning in 1947, have
 inspired various entheogenic interpretations, most notably by [[john-allegro]] in [The [[cultural-evolution-and-psychoactive-substances]], particularly the [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and the Cross, Allegro argued that the Dead Sea Scrolls

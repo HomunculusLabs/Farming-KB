@@ -7,7 +7,7 @@ type: concept
 created: 2026-05-09
 ---
 
-# Bigwood & Beug Amazon Strain Origin — Pucalpa, Peru
+## Bigwood & Beug Amazon Strain Origin — Pucalpa, Peru
 
 ## Overview
 

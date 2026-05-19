@@ -22,7 +22,7 @@ sources:
 - raw/papers/william-falconer-mushroom-how-to-grow-them.md
 ---
 
-# Benjamin Duggar
+## Benjamin Duggar
 
 American botanist and plant pathologist (1872-1956), author of "Mushroom Growing" (1915), and discoverer of aureomycin (chlortetracycline). His cultivation manual represents the transition from practical gardening guides to scientifically-informed mushroom farming.
 

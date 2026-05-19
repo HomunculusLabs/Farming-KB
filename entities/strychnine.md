@@ -22,7 +22,7 @@ sources:
   - http://www.inchem.org/documents/pims/pharm/strychni.htm (WHO PIM)
 ---
 
-# Strychnine
+## Strychnine
 
 ## Overview
 

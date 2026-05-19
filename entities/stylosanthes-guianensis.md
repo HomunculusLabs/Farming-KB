@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Stylosanthes guianensis (Stylo / Townsville Stylo)
+## Stylosanthes guianensis (Stylo / Townsville Stylo)
 
 ## Description
 

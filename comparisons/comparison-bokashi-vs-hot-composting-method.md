@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Bokashi vs Hot Composting
+## Bokashi vs Hot Composting
 
 ## Overview
 

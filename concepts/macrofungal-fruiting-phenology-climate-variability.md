@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Macrofungal Fruiting Phenology and Climate Variability
+## Macrofungal Fruiting Phenology and Climate Variability
 
 The fruiting phenology of macrofungi is profoundly influenced by
 climatic variables, making these organisms sensitive indicators of

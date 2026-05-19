@@ -16,7 +16,7 @@ sources:
   - Outcalt, K.W. (2000). "The Longleaf Pine Ecosystem of the Southeast." Native Plants Journal 1(2).
 ---
 
-# Pinus palustris
+## Pinus palustris
 
 ## Overview
 

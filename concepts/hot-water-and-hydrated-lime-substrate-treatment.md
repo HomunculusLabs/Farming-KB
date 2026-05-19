@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Hot Water and Hydrated Lime Substrate Treatment
+## Hot Water and Hydrated Lime Substrate Treatment
 
 Hot water treatment and hydrated lime soaks are two of the most accessible
 [[palmer-edible-mushrooms-north-america]].

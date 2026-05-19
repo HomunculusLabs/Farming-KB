@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Core Principles
+## Permaculture Core Principles
 
 The foundational principles of permaculture, as articulated by [[permaculture-design]] prioritizes mutually beneficial relationships between components.
 

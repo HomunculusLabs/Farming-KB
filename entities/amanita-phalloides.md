@@ -18,7 +18,7 @@ sources:
   - "Enjalbert, F. et al. (1993). \"Amatoxin and phallotoxin composition in Amanita phalloides.\" Mycologia, 85(4), 569-574."
 ---
 
-# Amanita phalloides (*Amanita phalloides*)
+## Amanita phalloides (*Amanita phalloides*)
 
 ## Overview
 

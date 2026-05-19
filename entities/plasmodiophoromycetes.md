@@ -1,10 +1,10 @@
 ---
-title: Plasmodiophoromycetes
+title: "Plasmodiophoromycetes"
 source: unknown-biodiversity-of-fungi.md
 type: entity
 ---
 
-# Plasmodiophoromycetes
+## Plasmodiophoromycetes
 
 ## Description
 

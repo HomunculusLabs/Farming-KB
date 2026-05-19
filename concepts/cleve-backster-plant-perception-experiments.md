@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Cleve Backster's Plant Perception Experiments
+## Cleve Backster's Plant Perception Experiments
 
 [[cleve-backster]] Concepts
 

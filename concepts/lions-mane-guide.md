@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, cultivation, indoor, fruiting, species, food, medicine,
 sources: []
 ---
 
-# Lion's Mane Cultivation Guide
+## Lion's Mane Cultivation Guide
 
 Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]]) is a distinctive [[holzer-medicinal-and-culinary-herbs-compendium]] mushroom prized for both its unique appearance — cascading white spines resembling a waterfall or cheerleader pom-pom — and its neuroprotective compounds. Growing interest in its cognitive health benefits has made it one of the most sought-after cultivated mushrooms.
 

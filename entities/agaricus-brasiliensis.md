@@ -8,7 +8,7 @@ sources: ["Peck 1893", "Heinemann 1972", "Wasser 1989", "Kerrigan 2005", "Wasser
 aliases: agaricus-subrufescens, almond mushroom, Himematsutake, Cogumelo do Sol, Cogumelo de Deus, sun mushroom, mushroom of the sun, mushroom of God, Princess Matsutake]
 ---
 
-# Agaricus brasiliensis
+## Agaricus brasiliensis
 
 **Type:** Species (Fungus)
 

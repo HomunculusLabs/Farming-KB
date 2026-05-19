@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Ruderalis and Autoflowering Genetics
+## Cannabis Ruderalis and Autoflowering Genetics
 
 Cannabis ruderalis is the third recognized subspecies of cannabis,
 distinct from C. sativa and C. indica in its growth habits, origin,

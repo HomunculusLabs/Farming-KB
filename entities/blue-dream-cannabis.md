@@ -16,7 +16,7 @@ sources:
   - Mammen, G. et al. (2018). "Cannabis use patterns after cannabis-potency-enhanced-flowers Over the Last 2 Decades." Biological Psychiatry.
 ---
 
-# Blue Dream
+## Blue Dream
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# Super Lemon Haze — Genetics, Cultivation, and Effects
+---
+title: "Super Lemon Haze — Genetics, Cultivation, and Effects"
+tags:
+  - concept
+---
 
 **Source:** S.T. Oner, *[[super-silver-haze]], this strain has become one of the most recognized and celebrated modern cannabis varieties. It won the High Times Cannabis Cup and has maintained enduring popularity among both recreational and medical users since its introduction.
 

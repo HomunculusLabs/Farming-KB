@@ -6,7 +6,7 @@ type: concept
 tags: [herbalism, herbs, medicine]
 sources: []
 ---
-# Herbal Actions and Energetics
+## Herbal Actions and Energetics
 
 Herbal actions describe the therapeutic effects that herbs produce in the body, while herbal energetics describe the qualitative properties of herbs that determine how they interact with the body's systems and constitutions. Together, these frameworks provide a systematic language for understanding, classifying, and selecting herbs for specific therapeutic purposes.
 

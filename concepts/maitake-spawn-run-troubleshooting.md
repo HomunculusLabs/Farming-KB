@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Spawn Run Troubleshooting and Optimization
+## Maitake Spawn Run Troubleshooting and Optimization
 
 The spawn run is the longest and most critical phase of *Grifola frondosa* (maitake) cultivation, typically spanning 30–90 days. Problems during this phase — including delayed colonization, poor surface mycelial coat formation, primordia initiation failure, and primordia death — are common and can result in complete crop loss. This concept covers practical strategies for optimizing the spawn run and solving the most frequently encountered problems.
 

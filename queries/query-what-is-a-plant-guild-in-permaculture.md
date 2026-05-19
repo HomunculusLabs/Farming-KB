@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is a Plant Guild in Permaculture?
+## What Is a Plant Guild in Permaculture?
 
 ## Short Answer
 A plant guild is a carefully designed community of plants that support each other by

@@ -7,7 +7,7 @@ tags: [plant-growth, plants]
 sources: ["papers/gardening-when-it-counts-steve-solomon.md"]
 ---
 
-# Seed Starting and Transplanting
+## Seed Starting and Transplanting
 
 Source: [[solomon-garden-centers-seedling-traps]] carry what sells, not what grows best or tastes best. Tomatoes are the exception -- people remember the flavor and complain if substituted.
 

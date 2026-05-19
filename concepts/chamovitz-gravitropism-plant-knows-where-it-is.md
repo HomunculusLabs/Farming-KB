@@ -1,4 +1,8 @@
-# Chamovitz: Gravitropism — How a Plant Knows Where It Is
+---
+title: "Chamovitz: Gravitropism — How a Plant Knows Where It Is"
+tags:
+  - concept
+---
 
 > From *What a Plant Knows* by [[darwin-power-of-movement-in-plants]] in Plants*. They observed that when a
 root was reoriented horizontally, it would curve downward within hours. Crucially, removing

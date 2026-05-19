@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# Psilocybin Mushroom Potency and Dosage Guide
+## Psilocybin Mushroom Potency and Dosage Guide
 
 The potency of psilocybin-containing mushrooms varies enormously depending on species, variety, origin, growing conditions, and age. This guide synthesizes EMCDDA clinical data and user reports to provide evidence-based dosage information for the most commonly encountered species.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 tags: [cannabis]---
 
-# Topping (Cannabis)
+## Topping (Cannabis)
 
 Topping is a fundamental [[auxin-production-by-symbiotic-fungi]] at the cut site stops, and the two highest branch tips below the cut begin to grow vigorously as they compete to become the new dominant tips. The result is two main colas of similar size instead of one.
 

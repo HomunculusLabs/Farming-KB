@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Rice Bakanae Disease Treatment (JADAM Pesticide Recipe #1)
+## Rice Bakanae Disease Treatment (JADAM Pesticide Recipe #1)
 
 ## Overview
 

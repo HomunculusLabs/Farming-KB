@@ -9,7 +9,7 @@ sources:
   - Mueller, U.G. et al. (2005). Annual Review of Ecology
     Evolution and Systematics.
 ---
-# Insect-Fungal Mutualism
+## Insect-Fungal Mutualism
 Mutualism occurs when two or more organisms work together for their
 mutual benefit, usually to prevent infestation by parasites and gather
 nutrients. Many organisms from plants to ants seek fungi as protectors,

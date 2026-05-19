@@ -7,7 +7,7 @@ tags: homesteading, economics, business, sustainability, agriculture]
 sources: []
 ---
 
-# Homestead Scale Assessment
+## Homestead Scale Assessment
 
 Determining the right scale for a homestead operation depends on goals, available resources, land, labor, and risk tolerance. This guide defines four common scales -- hobby, side hustle, part-time farm, and full-time farm -- with revenue benchmarks, resource requirements, and decision criteria for each level.
 

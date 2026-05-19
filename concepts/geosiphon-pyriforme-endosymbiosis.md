@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Geosiphon pyriforme - Fungus-Cyanobacterium Endosymbiosis
+## Geosiphon pyriforme - Fungus-Cyanobacterium Endosymbiosis
 
 ## Overview
 

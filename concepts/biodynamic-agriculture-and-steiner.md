@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Biodynamic Agriculture and Steiner
+## Biodynamic Agriculture and Steiner
 
 Biodynamic agriculture, developed by [[fukuoka-hotel-analogy-crop-yield-model]] improvement, and plant quality enhancement
 that conventional [[savory-living-organisms-as-tools]], beyond what [[fungal-melanin-biosynthesis-ecological-functions]]; dandelions transport calcium from

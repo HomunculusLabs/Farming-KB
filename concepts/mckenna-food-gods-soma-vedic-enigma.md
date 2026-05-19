@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Soma and the Vedic Enigma
+## Soma and the Vedic Enigma
 
 ## Overview
 

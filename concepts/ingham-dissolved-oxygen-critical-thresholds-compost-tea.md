@@ -10,7 +10,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Dissolved Oxygen Critical Thresholds in Compost Tea
+## Dissolved Oxygen Critical Thresholds in Compost Tea
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [forest-ecology, ecology, biodiversity, nutrient-cycling, succession, cons
 sources: []
 ---
 
-# Forest Ecology Basics
+## Forest Ecology Basics
 
 ## Overview
 

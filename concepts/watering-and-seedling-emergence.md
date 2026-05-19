@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Watering and Seedling Emergence
+## Watering and Seedling Emergence
 
 Proper watering during the germination and seedling emergence phase is one of the most misunderstood aspects of gardening. The instinct to water frequently is often exactly wrong — overwatering kills more seeds and seedlings than underwatering. Understanding the relationship between moisture, temperature, soil structure, and seedling health is essential for reliable germination.
 

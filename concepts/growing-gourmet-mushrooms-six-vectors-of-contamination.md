@@ -1,4 +1,8 @@
-# Six Vectors of Contamination in Mushroom Cultivation
+---
+title: "Six Vectors of Contamination in Mushroom Cultivation"
+tags:
+  - concept
+---
 
 Contamination is the single greatest challenge in mushroom cultivation. Paul
 Stamets identifies six distinct vectors through which competitor organisms —

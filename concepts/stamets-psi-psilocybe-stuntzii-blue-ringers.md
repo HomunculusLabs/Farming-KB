@@ -8,7 +8,7 @@ sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
 type: concept
 ---
-# Psilocybe stuntzii -- Blue Ringers Guide
+## Psilocybe stuntzii -- Blue Ringers Guide
 
 ## Overview
 

@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Pests Prevention
+## Cannabis Pests Prevention
 
 From [[oyster-mushroom-clean-room-design]].
 3. Take all non-electrical equipment to the bathroom. Clean with

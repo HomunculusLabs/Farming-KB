@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Pollutant Bioavailability in Bioremediation
+## Fungal Pollutant Bioavailability in Bioremediation
 
 ## Overview
 

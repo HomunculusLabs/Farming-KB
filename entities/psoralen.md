@@ -19,7 +19,7 @@ sources:
   - "Ostertag, J. et al. (2018). \"Furanocoumarins: phototoxicity, photoprotection, and their role in plant defense.\" Comprehensive Natural Products II, 6, 299–322."
 ---
 
-# Psoralen
+## Psoralen
 
 ## [[molecules-of-life-plant-cells]] found widely in plants, particularly within Apiaceae, Rutaceae, and Fabaceae families. It intercalates into DNA and forms covalent crosslinks upon exposure to long-wave ultraviolet radiation (UVA, 320–400 nm), making it both a potent phototoxic agent and the basis of PUVA therapy — one of the most effective [[singh-single-cell-protein-fungal-wastewater-treatment]]s for vitiligo, psoriasis, and cutaneous T-cell lymphoma.
 

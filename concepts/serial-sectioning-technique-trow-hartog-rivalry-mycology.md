@@ -5,7 +5,7 @@ author: nicholas-money
 topics: [serial-sectioning, mycological-history, microscopy, oomycete-reproduction, scientific-rivalry]
 ---
 
-# Serial Sectioning Technique in Mycology: The Trow-Hartog Rivalry
+## Serial Sectioning Technique in Mycology: The Trow-Hartog Rivalry
 
 One of the most bitter rivalries in the [[basidiomycete-mating-systems-sexual-reproduction]] in water molds.
 The conflict between Marcus Hartog of Queen's College, Ireland, and

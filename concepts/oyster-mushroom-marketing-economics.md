@@ -8,7 +8,7 @@ sources: [unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
 
-# Oyster Mushroom Marketing and Economics
+## Oyster Mushroom Marketing and Economics
 
 ## Overview
 

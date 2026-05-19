@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Market and Production History
+## Mushroom Market and Production History
 
 ## Overview
 

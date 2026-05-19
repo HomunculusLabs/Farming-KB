@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Truffle Hunting Methods and Truffle Culture
+## Truffle Hunting Methods and Truffle Culture
 
 ## Overview
 

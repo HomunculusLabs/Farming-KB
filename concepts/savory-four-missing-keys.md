@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# The Four Missing Keys
+## The Four Missing Keys
 
 [[savory-holistic-resource-management-animal-impact]] management and
 still impede its acceptance. Each is simple to grasp individually but they only

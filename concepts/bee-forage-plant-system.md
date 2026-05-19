@@ -7,7 +7,7 @@ tags: [permaculture, plants, plant-systems, pollinators, forage, design]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-# Bee Forage Plant System
+## Bee Forage Plant System
 
 A year-round honey flow can be established for permanent hive sites, eliminating the need to transport hives long distances (commercial apiarists in Australia move hives up to 1000 km to follow the honey flow -- essentially converting fossil fuel to honey with poor efficiency).
 

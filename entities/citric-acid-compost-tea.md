@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, organic-acid, chelate, compost-tea-additive, pH-adjuster]
 ---
 
-# Citric Acid
+## Citric Acid
 
 ## Description
 Citric acid (C6H8O7) is a naturally occurring organic acid found in citrus fruits and produced by many microorganisms through fermentation. In compost tea and soil management, citric acid serves multiple functions: pH adjustment, nutrient chelation (particularly iron and other micronutrients), and as a carbon source for beneficial microorganisms. Elaine Ingham includes citric acid as a component in the AACT (Actively Aerated Compost Tea) ingredient list, where it plays a role in nutrient availability and microbial support during the brewing process.

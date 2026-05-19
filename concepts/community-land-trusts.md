@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Community Land Trusts
+## Community Land Trusts
 
 Community land trusts (CLTs) are democratic, locally governed organisations that hold land in perpetuity for the benefit of a defined community. The CLT model separates land ownership from building ownership, allowing individuals to own homes, businesses, and other improvements while the land itself is held in trust. Bill Mollison addresses land access and trusteeship extensively in Chapter 14 of Permaculture: A Designers' Manual, arguing that the concept of land ownership is fundamentally flawed and that trusteeship is a more appropriate and sustainable relationship between people and land.
 

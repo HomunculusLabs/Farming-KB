@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe guilartensis
+## Psilocybe guilartensis
 
 ## Taxonomy
 

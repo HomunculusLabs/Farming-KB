@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka America Revisited and Agricultural Revolution
+## Fukuoka America Revisited and Agricultural Revolution
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal-Bacterial Partnerships in the Mycorrhizosphere The mycorrhizosphere is the zone of soil influenced by mycorrhizal roots and their associated fungal structures. Within this zone, complex interactions between mycorrhizal-symbiosis beyond the binary plant-fungus interaction. These fungal-bacterial partnerships are fundamental to soil health, nutrient cycling, and plant protection. ## The Mycorrhizosphere Concept The traditional rhizosphere concept (the soil zone influenced by plant roots) was expanded to include fungal structures: - **Rhizosphere**: Soil zone influenced by [[growing-gourmet-spore-germination-strain-isolation]] and hyphal growth
+## Fungal-Bacterial Partnerships in the Mycorrhizosphere The mycorrhizosphere is the zone of soil influenced by mycorrhizal roots and their associated fungal structures. Within this zone, complex interactions between mycorrhizal-symbiosis beyond the binary plant-fungus interaction. These fungal-bacterial partnerships are fundamental to soil health, nutrient cycling, and plant protection. ## The Mycorrhizosphere Concept The traditional rhizosphere concept (the soil zone influenced by plant roots) was expanded to include fungal structures: - **Rhizosphere**: Soil zone influenced by [[growing-gourmet-spore-germination-strain-isolation]] and hyphal growth
 - Enhance mycorrhizal root colonization rates
 - Produce compounds that modify [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] can access
 - Decomposer bacteria release nutrients from [[glomalin-and-soil-carbon]] (a glycoprotein produced by AMF) is particularly important for aggregate stability

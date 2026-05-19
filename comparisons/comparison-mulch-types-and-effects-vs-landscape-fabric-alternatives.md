@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Mulch Types and Effects vs Landscape Fabric Alternatives
+## Mulch Types and Effects vs Landscape Fabric Alternatives
 
 ## Overview
 

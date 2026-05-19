@@ -4,7 +4,7 @@ source: fungi-magazine-fungi-and-sustainability.md
 type: concept
 ---
 
-# ZERI: Zero Emissions Mushroom Systems
+## ZERI: Zero Emissions Mushroom Systems
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 
-# Predatory Mites — Biological Pest Control Agents
+## Predatory Mites — Biological Pest Control Agents
 
 Predatory mites (family Phytoseiidae) are among the most widely used biological
 control agents in [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]].

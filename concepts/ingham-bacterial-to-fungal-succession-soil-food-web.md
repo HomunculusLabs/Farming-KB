@@ -1,5 +1,10 @@
+---
+title: "Ingham Bacterial To Fungal Succession Soil Food Web"
+tags:
+  - concept
+---
 
-# Bacterial-to-Fungal Succession in the Soil Food Web
+## Bacterial-to-Fungal Succession in the Soil Food Web
 
 ## Overview
 

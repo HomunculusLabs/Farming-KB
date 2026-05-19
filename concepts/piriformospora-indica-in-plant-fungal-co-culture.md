@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Piriformospora indica in Plant-Fungal Co-Culture
+## Piriformospora indica in Plant-Fungal Co-Culture
 
 [[piriformospora-indica]] (synonym Serendipita indica) is a cultivable root-colonizing endophytic fungus originally isolated from the rhizosphere of desert shrubs in the Thar Desert, India. It exhibits [[mycorrhiza]]-like characteristics and promotes plant growth, making it a valuable model organism for studying plant-fungal interactions and a promising bioinoculant for agriculture.
 

@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# Plate Counts vs Direct Microscopy and Molecular DNA Testing
+## Plate Counts vs Direct Microscopy and Molecular DNA Testing
 
 ## Overview
 

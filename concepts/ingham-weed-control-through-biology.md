@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Ingham — Weed Control Through Soil Biology
+## Ingham — Weed Control Through Soil Biology
 
 Elaine Ingham's approach to weed management focuses on altering soil conditions to favor desired plants over weed species. Rather than direct weed killing, the mechanism operates through changing [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] deliver calcium to crop plant roots
 - The improved calcium availability helps desired plants outcompete calcium-adapted weeds

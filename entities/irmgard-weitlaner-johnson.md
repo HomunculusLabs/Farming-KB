@@ -5,7 +5,7 @@ type: entity
 tags: [person, anthropologist, ethnographer, textiles, mazatec, mushroom-cult, mexico]
 ---
 
-# Irmgard Weitlaner Johnson
+## Irmgard Weitlaner Johnson
 
 ## Description
 

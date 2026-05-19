@@ -7,7 +7,7 @@ tags: [cannabis, cultivation, sativa, indoor-growing, training]
 sources:
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
-# Cannabis Sativa-Dominant Growing Challenges
+## Cannabis Sativa-Dominant Growing Challenges
 Sativa-dominant cannabis strains present a distinct set of [[fukuoka-natural-farming-temperate-climates]].
 ## Nutrient Sensitivity
 Sativa strains often exhibit greater sensitivity to nutrients than indicas,

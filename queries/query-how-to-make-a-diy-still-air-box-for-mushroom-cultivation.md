@@ -8,7 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: query
 ---
 
-# How to Make a DIY Still Air Box for Mushroom Cultivation
+## How to Make a DIY Still Air Box for Mushroom Cultivation
 
 ## Short Answer
 A still air box (SAB) is a simple enclosed workspace that blocks airflow to create a

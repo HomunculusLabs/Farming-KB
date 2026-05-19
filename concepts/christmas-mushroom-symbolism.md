@@ -21,7 +21,7 @@ sources:
 - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-# Christmas Mushroom Symbolism
+## Christmas Mushroom Symbolism
 
 The theory that many Christmas traditions encode hidden references to Amanita muscaria, the red-and-white fly agaric mushroom that grows exclusively in mycorrhizal association with coniferous (and birch) trees. This hypothesis, most thoroughly developed by [[james-arthur]] in "Mushrooms and Mankind," argues that Christmas is "a religion in its own right" whose iconography preserves a far older shamanic sacrament.
 

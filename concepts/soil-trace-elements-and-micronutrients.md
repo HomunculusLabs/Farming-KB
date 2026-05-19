@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[soil-ph]], biological activity, and parent rock composition. Deficiency or excess of any single trace element can cascade through entire ecosystems, affecting crop yields, animal health, and human nutrition.
+## [[soil-ph]], biological activity, and parent rock composition. Deficiency or excess of any single trace element can cascade through entire ecosystems, affecting crop yields, animal health, and human nutrition.
 
 ## Sulphur (S)
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Equatorial House Design and Tropical Home Garden
+## Equatorial House Design and Tropical Home Garden
 
 ## Overview
 

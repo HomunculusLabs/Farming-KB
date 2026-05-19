@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Photosynthetic Efficiency in Agriculture
+## Photosynthetic Efficiency in Agriculture
 
 ## Description
 

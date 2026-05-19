@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Heat Transfer: Conduction, Convection, and Radiation
+## Heat Transfer: Conduction, Convection, and Radiation
 
 ## Overview
 

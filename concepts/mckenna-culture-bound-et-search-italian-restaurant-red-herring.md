@@ -1,4 +1,8 @@
-# Culture-Bound ET Search and the Italian Restaurant Red Herring: McKenna's Critique of SETI
+---
+title: "Culture-Bound ET Search and the Italian Restaurant Red Herring: McKenna's Critique of SETI"
+tags:
+  - concept
+---
 
 ## Overview
 

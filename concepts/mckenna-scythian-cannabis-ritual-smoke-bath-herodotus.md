@@ -13,7 +13,7 @@ sources:
   - "[McKenna, Food of the Gods (1992)]"
 ---
 
-# Scythian Cannabis Rituals and Herodotus's Smoke Bath Accounts
+## Scythian Cannabis Rituals and Herodotus's Smoke Bath Accounts
 
 The Scythians, a nomadic central Asian people who entered eastern Europe around
 700 B.C., hold a pivotal place in the history of cannabis as the culture that

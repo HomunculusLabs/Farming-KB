@@ -1,4 +1,8 @@
-# Brassinosteroid Effects on Fungal Fruiting Morphology
+---
+title: "Brassinosteroid Effects on Fungal Fruiting Morphology"
+tags:
+  - concept
+---
 
 The application of brassinosteroids to fungal cultures has been
 shown to influence not only growth rate and yield but also the
@@ -144,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[doc]]
-- [[mushroom-identification]]
-- [[biological-efficiency]]

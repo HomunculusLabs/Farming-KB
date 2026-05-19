@@ -11,7 +11,7 @@ tags:
   - mycorrhizal-host
 ---
 
-# Jaumea carnosa
+## Jaumea carnosa
 
 ## Description
 

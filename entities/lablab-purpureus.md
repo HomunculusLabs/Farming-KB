@@ -18,7 +18,7 @@ sources:
   - "Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press."
 ---
 
-# Lablab purpureus (*Hyacinth Bean, Lablab Bean*)
+## Lablab purpureus (*Hyacinth Bean, Lablab Bean*)
 
 ## Overview
 

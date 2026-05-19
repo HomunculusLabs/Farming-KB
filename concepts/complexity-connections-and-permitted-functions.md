@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Complexity, Connections, and Permitted Functions
+## Complexity, Connections, and Permitted Functions
 
 Understanding how elements in a system connect to one another — and the qualitative difference between beneficial and destructive complexity — is central to [[permaculture]] we always suppose that the chicken is busy making connections itself, about which we could not know and for which we could not design. **We must simply trust the chicken.**
 

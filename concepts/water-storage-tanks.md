@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Storage Tanks
+## Water Storage Tanks
 
 Water storage tanks are enclosed containers for harvesting and storing rainwater, most commonly connected to building rooftops. In [[permaculture-water-systems]]:
 

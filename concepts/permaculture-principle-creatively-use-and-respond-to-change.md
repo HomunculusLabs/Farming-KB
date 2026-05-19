@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 12 — Creatively Use and Respond to Change
+## Permaculture Principle 12 — Creatively Use and Respond to Change
 
 The twelfth of David Holmgren's twelve permaculture design principles. This principle has two threads: designing to make use of change in a deliberate and cooperative way, and creatively responding or adapting to large-scale system change that is beyond our control. The butterfly, which is the transformation of a caterpillar, conveys the idea of adaptive change that is uplifting rather than threatening.
 

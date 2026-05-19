@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Italian Agriculture Observations
+## Italian Agriculture Observations
 
 updated: 2026-04-18
 

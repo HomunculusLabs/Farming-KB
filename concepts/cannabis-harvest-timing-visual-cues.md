@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Harvest Timing Visual Cues
+## Cannabis Harvest Timing Visual Cues
 
 Determining the optimal harvest time is one of the most critical decisions in [[cannabis-flowering-stage-management]]
 

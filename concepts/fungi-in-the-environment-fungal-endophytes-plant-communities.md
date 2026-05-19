@@ -8,7 +8,7 @@ sources:
   - "papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Fungal Endophytes in Plant Communities
+## Fungal Endophytes in Plant Communities
 
 Fungal endophytes are fungi that live within plant tissues without causing
 apparent disease symptoms. They represent a diverse and ecologically

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Phosphate Solubilizing Fungi and Nutrient Mobilization
+## Phosphate Solubilizing Fungi and Nutrient Mobilization
 
 ## Overview
 

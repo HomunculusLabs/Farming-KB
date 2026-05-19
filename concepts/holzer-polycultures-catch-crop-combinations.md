@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Polyculture and Catch Crop Combinations
+## Holzer Polyculture and Catch Crop Combinations
 
 Sepp Holzer's polyculture system is built on the principle that mixed plantings, like natural plant communities, create mutually beneficial relationships. Catch cropping (catch crops) and [[holzer-urban-farming]] work.
 

@@ -5,7 +5,7 @@ source_author: "uwe-blesching, PhD"
 tags: [cannabis, cannabinoids, MRSA, antibacterial, antibiotic-resistance, CBD, CBG, CBC, infectious-disease, immunology]
 ---
 
-# Cannabinoid Antibacterial Properties Against MRSA and Drug-Resistant Bacteria
+## Cannabinoid Antibacterial Properties Against MRSA and Drug-Resistant Bacteria
 
 ## Overview
 

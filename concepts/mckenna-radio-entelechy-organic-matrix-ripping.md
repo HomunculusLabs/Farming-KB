@@ -1,4 +1,8 @@
-# Radio Entelechy and the Ripping of the Organic Matrix
+---
+title: "Radio Entelechy and the Ripping of the Organic Matrix"
+tags:
+  - concept
+---
 
 ## Overview
 The concept of the "radio entelechy" is one of [[mckenna-dmt-experience-and-hyperspace]]. During his 1983

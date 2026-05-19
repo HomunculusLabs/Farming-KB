@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Mycological Specimen Data Standards
+## Mycological Specimen Data Standards
 
 Mycological specimen data standards define the structure and formatting of information recorded when collecting, preserving, and cataloging fungal specimens. These standards ensure consistency, interoperability, and discoverability across herbaria and biodiversity databases worldwide.
 

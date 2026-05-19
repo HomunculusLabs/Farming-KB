@@ -8,7 +8,7 @@ type: concept
 tags: [mulch]
 ---
 
-# Mulch and Cover Cropping
+## Mulch and Cover Cropping
 
 ## Overview
 

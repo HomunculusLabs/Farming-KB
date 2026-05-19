@@ -4,7 +4,7 @@ source: "Gardening When It Counts (Steve Solomon)"
 topics: [manure, soil-fertility, organic-fertilizer, nitrogen, phosphorus, potassium, compost, COF]
 ---
 
-# Manure Nutrient Variability
+## Manure Nutrient Variability
 
 ## Overview
 

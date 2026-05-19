@@ -7,7 +7,7 @@ tags: fruit-tree, permaculture, tree-crop, drought-tolerant
 type: concept
 ---
 
-# Olive Growing Guide
+## Olive Growing Guide
 
 ## Botanical Details
 

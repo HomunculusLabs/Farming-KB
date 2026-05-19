@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, hash, pressing, processing, storage]
 ---
 
-# Pressing Hash - Methods and Techniques
+## Pressing Hash - Methods and Techniques
 
 Once collected, resin powder is often pressed to facilitate
 [[decomposition]].

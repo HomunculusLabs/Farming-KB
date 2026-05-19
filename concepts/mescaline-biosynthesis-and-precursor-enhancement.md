@@ -13,7 +13,7 @@ sources:
   - raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
 ---
 
-# Mescaline Biosynthesis and Precursor Enhancement
+## Mescaline Biosynthesis and Precursor Enhancement
 
 The biosynthesis of [[psychoactive-cacti-of-central-mexico]] (*Coryphantha macromeris*) produces macromerine rather than mescaline as its primary psychoactive alkaloid. The enhancement approach differs:
 

@@ -16,7 +16,7 @@ related:
   - "drought-gardening"
 ---
 
-# Garden Sizing for Calorie Production and Self-Sufficiency
+## Garden Sizing for Calorie Production and Self-Sufficiency
 
 One of the most practical questions for anyone growing their own food is:
 *how much land do I actually need?* Steve Solomon's analysis draws on

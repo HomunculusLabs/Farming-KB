@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Spreading Techniques in Drylands
+## Water Spreading Techniques in Drylands
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Bark and Xylotropic Endophytes
+## Bark and Xylotropic Endophytes
 
 Bark and xylotropic endophytes are fungi that inconspicuously
 colonize living bark, twigs, and xylem tissue of woody plants.

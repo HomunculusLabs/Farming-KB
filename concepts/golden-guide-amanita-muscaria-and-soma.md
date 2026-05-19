@@ -8,7 +8,7 @@ sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 
-# Amanita Muscaria and Soma
+## Amanita Muscaria and Soma
 
 ## Introduction
 

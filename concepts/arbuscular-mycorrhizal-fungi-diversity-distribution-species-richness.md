@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizal Fungi — Diversity, Distribution, and Species Richness
+## Arbuscular Mycorrhizal Fungi — Diversity, Distribution, and Species Richness
 
 ## Range of Habitats
 

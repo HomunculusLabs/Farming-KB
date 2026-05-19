@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, australasian-fungi, psychotropic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe panaeoliformis
+## Psilocybe panaeoliformis
 
 **Psilocybe panaeoliformis** is a psilocybin-containing mushroom species in the family strophariaceae, originally described from New Zealand. The species epithet reflects its resemblance to members of the genus Panaeolus, particularly in the mottled or speckled appearance of its gills as spores mature at different times.
 It is one of several Australasian Psilocybe species documented in the global survey of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] psilocybe-sect.-psilocybe, though some authors have noted intermediate morphological features between this section and other groups within the genus.

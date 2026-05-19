@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Shamanic Discourse as Medicine
+## Mazatec Shamanic Discourse as Medicine
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 ---
 
-# Mycoremediation of Polycyclic Aromatic Hydrocarbons (PAHs)
+## Mycoremediation of Polycyclic Aromatic Hydrocarbons (PAHs)
 
 PAHs are a group of over 100 different organic compounds containing two or more fused benzene rings. They are among the most widespread and hazardous environmental contaminants, produced by incomplete combustion of organic matter (fossil fuels, wood, tobacco) and found at creosote sites, gasworks, and former industrial facilities. See [[mycoremediation-basics]] for the general framework.
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Kombucha vs Kefir
+## Kombucha vs Kefir
 
 ## Overview
 

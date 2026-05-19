@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
-# Mucormycosis (Zygomycete Infections)
+## Mucormycosis (Zygomycete Infections)
 
 Mucormycosis (also called zygomycosis) is a severe, often fatal fungal infection caused by
 molds in the order Mucorales. These rapidly growing fungi are common environmental organisms

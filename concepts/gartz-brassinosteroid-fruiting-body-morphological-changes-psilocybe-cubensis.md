@@ -7,7 +7,7 @@ topics: [morphology, fruiting-body, annulus, brassinosteroid, psilocybe-cubensis
 type: concept
 ---
 
-# Fruiting Body Morphological Changes Under Brassinosteroid Treatment in Psilocybe cubensis
+## Fruiting Body Morphological Changes Under Brassinosteroid Treatment in Psilocybe cubensis
 
 ## Overview
 

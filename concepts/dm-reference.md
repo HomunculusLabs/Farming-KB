@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychopharmacology, neuroscience, biochemistry, 
 sources: []
 ---
 
-# N,N-Dimethyltryptamine (DMT) Reference
+## N,N-Dimethyltryptamine (DMT) Reference
 
 ## Overview
 

@@ -6,7 +6,7 @@ created: 2026-05-10
 source: general-knowledge
 ---
 
-# Jasmonic Acid: Plant Defense and Wound Signaling Hormone
+## Jasmonic Acid: Plant Defense and Wound Signaling Hormone
 
 Jasmonic acid (JA) and its derivatives (collectively called jasmonates) are oxylipin-derived plant hormones that play a central role in plant defense against herbivores and necrotrophic pathogens, mediate responses to mechanical wounding, and regulate diverse developmental processes including male fertility, tuber formation, [[pseudomonas]] syringae pathovars that structurally mimics JA-Ile but binds COI1 with much higher affinity. Coronatine hijacks the jasmonate pathway to suppress plant defense and promote bacterial infection by opening stomata for bacterial entry.
 

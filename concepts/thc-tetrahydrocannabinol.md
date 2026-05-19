@@ -6,7 +6,7 @@ source: uwe blesching the cannabis health index
 created: 2026-05-11
 ---
 
-# THC - Tetrahydrocannabinol
+## THC - Tetrahydrocannabinol
 
 Tetrahydrocannabinol (THC, specifically delta-9-THC) is the primary psychoactive constituent of cannabis and the most studied cannabis-derived cannabinoid. Under a microscope, THC appears as a sticky liquid crystal when warm and a glass-like solid when cool. The chemical structure of THC was discovered in 1964 by Israeli scientists Raphael Mechoulam and Yechiel Gaoni, a breakthrough that launched the modern era of cannabinoid research. Despite decades of study, THC continues to reveal new aspects of its immense influence on human physiology and psychology.
 

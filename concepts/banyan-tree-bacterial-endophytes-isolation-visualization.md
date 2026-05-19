@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
 
-# Banyan Tree Bacterial Endophytes
+## Banyan Tree Bacterial Endophytes
 
 ## Isolation, Cultivation, and In Planta Visualization
 

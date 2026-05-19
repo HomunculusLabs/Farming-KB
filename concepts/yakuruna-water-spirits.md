@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Yakuruna (Water Spirits)
+## Yakuruna (Water Spirits)
 
 The yakuruna are underwater beings who inhabit a complex subaquatic
 world beneath Amazonian rivers and lakes. They are central figures in

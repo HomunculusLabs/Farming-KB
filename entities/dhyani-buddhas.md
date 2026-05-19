@@ -5,7 +5,7 @@ type: entity
 tags: [buddhism, tantra, tibetan, archetype, consciousness, meditation]
 ---
 
-# Dhyani Buddhas
+## Dhyani Buddhas
 
 ## Description
 The Dhyani Buddhas (also called Five Tathagatas or Five Wisdom Buddhas) are a set of five celestial or meditational Buddhas in Vajrayana Buddhism who represent different aspects of enlightened consciousness and cosmic principles. In *The Psychedelic Experience*, Leary maps the five Dhyani Buddhas to the visionary experiences of the Second Bardo, using them as archetypal frameworks for the different types of hallucinatory and revelatory phenomena that arise during the psychedelic state.

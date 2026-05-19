@@ -1,4 +1,8 @@
-# No-Till Farming Principles
+---
+title: "No-Till Farming Principles"
+tags:
+  - concept
+---
 
 No-till farming [[supercritical-co2-cannabis-extraction]] cultivation where soil health directly
 influences terpene and cannabinoid profiles.

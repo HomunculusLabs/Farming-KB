@@ -7,7 +7,7 @@ tags: [gardening, design, construction, permaculture, soil-building]
 sources: []
 ---
 
-# Garden Bed Designs
+## Garden Bed Designs
 
 Garden beds concentrate soil, nutrients, and water in defined growing areas, improving yields and reducing maintenance compared to row cropping. Different bed designs suit different climates, spaces, and growing goals, from [[edible-landscaping]] to intensive [[coleman-french-historical-winter-vegetable-production]].
 

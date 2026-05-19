@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycota, agaricomycetes, agaricales, cortinariaceae, cortinarius, edible-caution]
 ---
 
-# Cortinarius collinitus
+## Cortinarius collinitus
 
 ## Description
 

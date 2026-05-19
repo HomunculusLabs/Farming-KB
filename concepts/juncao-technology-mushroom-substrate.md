@@ -9,7 +9,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Juncao Technology for Mushroom Cultivation
+## Juncao Technology for Mushroom Cultivation
 
 Juncao (菌草) is a Chinese term where Jun (菌) means fungi and Cao (草) means grass. Juncao technology represents a comprehensive approach to cultivating edible and medicinal fungi using herbaceous plants as [[mushworld-oyster-substrate-materials-worldwide-survey]]. Major mushroom-producing countries like Japan and China encountered these problems, which restricted further large-scale production development.
 

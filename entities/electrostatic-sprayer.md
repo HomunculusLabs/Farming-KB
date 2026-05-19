@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Electrostatic Sprayer (Compost Tea)
+## Electrostatic Sprayer (Compost Tea)
 
 ## Description
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Laetisaria arvalis
+## Laetisaria arvalis
 
 Laetisaria arvalis is a soil-inhabiting basidiomycete fungus recognized as a potential [[rhizoctonia-solani]], one of the most important soil-borne plant pathogens worldwide. R. solani causes damping-off, root rot, and stem canker on a wide range of crop plants, and its control has been a major focus of plant pathology research for decades. The fungus is among approximately 30 species of mycoparasites recorded for R. solani (Butler 1957; Chand and Logan 1984; Jeffries 1995).
 

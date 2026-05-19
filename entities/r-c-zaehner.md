@@ -5,7 +5,7 @@ type: entity
 tags: [person, scholar, orientalist, mysticism]
 ---
 
-# R. C. Zaehner
+## R. C. Zaehner
 
 ## Description
 Robert Charles Zaehner (1913–1974) was a British academic and intelligence officer who served as Spalding Professor of Eastern Religions and Ethics at Oxford University. In *The Psychedelic Experience*, Leary cites Zaehner as a cautionary example — an Oriental scholar and "expert" on mysticism who, despite his credentials, failed to navigate the psychedelic experience successfully, illustrating the gap between intellectual knowledge of mysticism and direct experiential understanding.

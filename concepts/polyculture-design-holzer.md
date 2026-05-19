@@ -7,7 +7,7 @@ tags: [permaculture, polyculture, companion-planting, green-manure, cover-crop, 
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Polyculture Design (Holzer Method)
+## Polyculture Design (Holzer Method)
 
 Sepp Holzer's approach to polyculture is central to his permaculture method. Rather than growing plants in monoculture, he advocates for maximum plant diversity and mixed cultivation systems.
 

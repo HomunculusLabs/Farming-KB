@@ -9,7 +9,7 @@ type: concept
 tags: [partnership-culture, dominator-culture, riane-eisler, terence-mckenna, cultural-evolution, patriarchy]
 ---
 
-# Partnership and Dominator Cultures in Human History
+## Partnership and Dominator Cultures in Human History
 
 The framework of partnership and dominator cultures, developed by Riane
 Eisler in her 1987 book The Chalice and the Blade and adopted extensively by

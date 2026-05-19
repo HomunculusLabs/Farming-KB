@@ -7,7 +7,7 @@ tags: [fungi, mycology, taxonomy, species-profiles, ecology, biology, microbes]
 sources: []
 ---
 
-# Zygomycete Phylum Guide
+## Zygomycete Phylum Guide
 
 The Zygomycota and Glomeromycota represent two groups of early-diverging fungi. Zygomycetes include fast-growing molds like bread mold (Rhizopus), while Glomeromycota are the arbuscular mycorrhizal fungi (AMF) essential to terrestrial plant ecology. Modern classification has split these into several phyla, but they are often discussed together due to shared historical classification.
 

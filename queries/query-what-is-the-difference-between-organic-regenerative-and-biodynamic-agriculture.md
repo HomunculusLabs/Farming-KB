@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Is the Difference Between Organic, Regenerative, and Biodynamic Agriculture
+## What Is the Difference Between Organic, Regenerative, and Biodynamic Agriculture
 
 ## Short Answer
 [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and ecosystem restoration as measurable

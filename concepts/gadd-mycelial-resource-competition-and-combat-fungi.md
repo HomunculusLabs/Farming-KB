@@ -5,7 +5,7 @@ tags: [mycology, fungal-ecology, competition, mycelial-interactions, soil-ecolog
 created: 2026-05-09
 ---
 
-# Mycelial Resource Competition and Combat Between Fungi
+## Mycelial Resource Competition and Combat Between Fungi
 
 ## Overview
 

@@ -11,7 +11,7 @@ type: concept
 tags: [agar]
 ---
 
-# agaricus blazei Cancer Research
+## agaricus blazei Cancer Research
 
 ## Overview
 

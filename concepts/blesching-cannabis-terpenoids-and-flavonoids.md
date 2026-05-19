@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# [[cannabis-terpenoid-profiles-detailed]]s and Flavonoids
+## [[cannabis-terpenoid-profiles-detailed]]s and Flavonoids
 
 Beyond the well-known [cannabinoids,
 the [[cordyceps-cancer-bioactive-compounds]] that work synergistically through the

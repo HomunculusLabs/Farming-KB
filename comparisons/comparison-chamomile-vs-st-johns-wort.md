@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Chamomile vs St. John's Wort
+## Chamomile vs St. John's Wort
 
 ## Overview
 

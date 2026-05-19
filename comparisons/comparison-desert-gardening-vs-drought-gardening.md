@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Desert Gardening vs Drought Gardening
+## Desert Gardening vs Drought Gardening
 
 ## Overview
 

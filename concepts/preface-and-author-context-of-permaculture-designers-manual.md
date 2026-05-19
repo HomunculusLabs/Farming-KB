@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Preface and Author Context of Permaculture Designers Manual
+## Preface and Author Context of Permaculture Designers Manual
 
 ## Historical Context of the Permaculture Movement
 

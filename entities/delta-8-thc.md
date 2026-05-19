@@ -16,7 +16,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Delta-8-Tetrahydrocannabinol (Δ⁸-THC)
+## Delta-8-Tetrahydrocannabinol (Δ⁸-THC)
 
 **Delta-8-tetrahydrocannabinol** (Δ⁸-THC) is a naturally occurring cannabinoid found in the *[[cannabis-sativa]]* plant. It is a structural isomer of delta-9-THC (Δ⁹-THC), the primary psychoactive component of cannabis, differing only in the position of a single double bond on the cyclohexene ring. Despite this minor structural difference, Δ⁸-THC exhibits distinct pharmacological properties, including reduced psychoactive potency and a different subjective effect profile.
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Hypertension
+## Cannabis and Hypertension
 
 ## Overview
 

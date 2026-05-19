@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Gourmet Mushroom Species
+## Gourmet Mushroom Species
 
 Source: [[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets (2005), Chapters 3, 12, 14
 

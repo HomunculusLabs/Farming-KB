@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
-# Permaculture Goat and Cattle Integration
+## Permaculture Goat and Cattle Integration
 
 Permaculture goat and cattle integration is the design of grazing animal systems within permaculture landscapes to provide milk, meat, fibre, and manure while performing land management functions including weed control, pasture renovation, [[mollison-animal-integration-permaculture-design]] chapter, the humid tropics chapter, and the cool climates chapter. The integration of large herbivores into permaculture systems requires careful management to prevent overgrazing while maximising their beneficial functions.
 

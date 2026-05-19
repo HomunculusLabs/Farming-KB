@@ -4,7 +4,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 topics: [water dipole, rotational transition, microwave physics, dielectric heating, 2.45 GHz]
 ---
 
-# Rotational Transition of Water Dipole Molecules in Microwave Sterilization Physics
+## Rotational Transition of Water Dipole Molecules in Microwave Sterilization Physics
 
 ## Overview
 

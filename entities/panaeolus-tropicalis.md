@@ -6,7 +6,7 @@ type: entity
 tags: [mycology, identification, mushrooms]
 sources: [papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
 ---
-# Panaeolus tropicalis Panaeolus tropicalis is a psilocybin-containing mushroom species closely related to [[field-guide-psilocybin-bluing-reaction-identification]] may be less intense than in [[psilocybe-cubensis-potency-variation-by-flush]] may find similar doses effective.
+## Panaeolus tropicalis Panaeolus tropicalis is a psilocybin-containing mushroom species closely related to [[field-guide-psilocybin-bluing-reaction-identification]] may be less intense than in [[psilocybe-cubensis-potency-variation-by-flush]] may find similar doses effective.
 
 ## Cultivation
 

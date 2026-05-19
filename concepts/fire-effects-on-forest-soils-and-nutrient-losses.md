@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fire Effects on Forest Soils and Nutrient Losses
+## Fire Effects on Forest Soils and Nutrient Losses
 
 Fire is often romantically portrayed as a natural and beneficial force that "refreshes" the land. The scientific reality, however, is far more complex and concerning. [[wildfire]] causes severe and long-lasting damage to forest soils, removing nutrients that take decades or longer to replace, destroying soil structure, and initiating erosion cycles that can degrade landscapes for generations. This concept examines the specific nutrient losses caused by fire, the temperatures at which soil elements are volatilized, the timeline for recovery, and the practical implications for land management and stock survival.
 

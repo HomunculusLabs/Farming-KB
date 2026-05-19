@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Edges, Interfaces, and Energy Considerations
+## Pond Edges, Interfaces, and Energy Considerations
 
 ## The Edge Effect in Aquatic Systems
 

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Macrofungi on Woody Substrata and Sampling Design
+## Macrofungi on Woody Substrata and Sampling Design
 
 ## Ascomycetes Identification (Continued)
 

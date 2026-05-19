@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# Food Dehydration vs Canning
+## Food Dehydration vs Canning
 
 ## Overview
 

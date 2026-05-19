@@ -5,7 +5,7 @@ tags: [farming, natural-farming, fukuoka, no-till, agriculture, techniques]
 created: 2026-05-08
 ---
 
-# Do-Nothing Farming Method
+## Do-Nothing Farming Method
 
 Fukuoka's do-nothing farming method is the practical application of his
 natural [[cervantes-chemical-fertilizers-guide]] or prepared compost. The soil maintains its

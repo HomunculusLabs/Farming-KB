@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Word Ribbon Interface
+## Word Ribbon Interface
 
 The Ribbon interface was introduced in [[query-what-are-the-most-nutritious-backyard-berries-and-how-do-i-grow-them]] significant user
 interface changes in desktop software history and remains the primary navigation

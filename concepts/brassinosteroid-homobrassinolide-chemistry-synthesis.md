@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [chemistry, brassinosteroid, homobrassinolide, stigmasterol, phytohormones, synthesis]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: ["raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"]
 type: concept
 ---
 
-# Homobrassinolide Chemistry and Synthesis from Stigmasterol
+## Homobrassinolide Chemistry and Synthesis from Stigmasterol
 
 22S,23S-homobrassinolide is a synthetic brassinosteroid prepared from the
 plant sterol stigmasterol. It was the specific compound used in the landmark

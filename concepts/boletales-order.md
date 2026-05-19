@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [mycology, taxonomy, boletales, agaricomycetes, basidiomycota]
 ---
 
-# Order Boletales
+## Order Boletales
 
 ## Overview
 

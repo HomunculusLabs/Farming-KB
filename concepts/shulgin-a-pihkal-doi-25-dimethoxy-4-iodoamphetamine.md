@@ -7,7 +7,7 @@ tags: [doi, amphetamine, psychedelic, 5-ht2a, radioligand, shulgin, receptor-map
 mined: 2026-05-10
 ---
 
-# DOI (2,5-Dimethoxy-4-Iodoamphetamine)
+## DOI (2,5-Dimethoxy-4-Iodoamphetamine)
 
 ## Overview
 

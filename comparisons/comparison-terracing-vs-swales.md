@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Terracing vs Swales
+## Terracing vs Swales
 
 Terraces and swales are two foundational earthworks for managing water and slopes in permaculture and regenerative land design. Both prevent erosion, improve water infiltration, and expand cultivable area, but they differ fundamentally in geometry, construction effort, primary function, and the landscapes they suit best. Understanding when to choose one over the other — or how to combine them — is essential for effective landscape design.
 

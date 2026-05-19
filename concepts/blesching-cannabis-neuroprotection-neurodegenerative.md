@@ -6,7 +6,7 @@ published: 2015
 tags: [cannabis, neuroprotection, neurodegenerative, THC, CBD, endocannabinoid, CB1, CB2, multiple-sclerosis, parkinsons, huntingtons, als, alzheimers, epilepsy]
 ---
 
-# Cannabis Neuroprotection Across Neurodegenerative Diseases
+## Cannabis Neuroprotection Across Neurodegenerative Diseases
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Green Manure Crops and Cover Cropping
+## Green Manure Crops and Cover Cropping
 
 Green manure is a crop grown specifically to add [[savory-soil-organic-matter-and-decomposition-dynamics]] plant food. While
 perhaps of more value to the large-scale farmer than the home gardener,

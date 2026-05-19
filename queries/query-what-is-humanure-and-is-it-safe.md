@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Humanure and Is It Safe?
+## What Is Humanure and Is It Safe?
 
 ## Short Answer
 

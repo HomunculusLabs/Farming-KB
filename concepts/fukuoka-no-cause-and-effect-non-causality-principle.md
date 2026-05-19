@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Principle of Non-Causality in Nature
+## Fukuoka Principle of Non-Causality in Nature
 
 [[masanobu-fukuoka]]'s principle of non-causality holds that [[fukuoka-nature-no-cause-and-effect]] do not exist in nature. Nature is a unified whole — a circle or sphere without beginning or end — and any attempt to isolate a single cause from an infinite web of interrelationships is fundamentally misguided. This principle emerges from Fukuoka's broader [[cho-natural-farming-philosophy]].
 

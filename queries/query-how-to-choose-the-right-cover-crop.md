@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Choose the Right Cover Crop
+## How to Choose the Right Cover Crop
 
 ## Short Answer
 

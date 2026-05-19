@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Shamanism and the Techniques of Ecstasy
+## Shamanism and the Techniques of Ecstasy
 
 ## Overview
 

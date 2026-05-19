@@ -21,7 +21,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# Water-Soluble Potassium (WS-K)
+## Water-Soluble Potassium (WS-K)
 
 WS-K is a KNF input made from tobacco stem charcoal steeped in water. Potassium activates starch-synthesizing enzymes, regulates stomata and water use, and translocates photosynthates to fruit. It is critical during reproductive growth for fruit quality, sugar content, and disease resistance.
 

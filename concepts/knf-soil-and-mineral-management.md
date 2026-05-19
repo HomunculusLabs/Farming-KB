@@ -1,5 +1,5 @@
 ---
-title: Korean comparison-natural-farming-vs-permaculture Soil and knf-soil-and-mineral-management
+title: "Knf Soil And Mineral Management"
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# Korean Natural Farming Soil and Mineral Management
+## Korean Natural Farming Soil and Mineral Management
 
 In Korean Natural Farming, soil health is the foundation of everything. [[cervantes-chemical-fertilizers-guide]] destroy soil life and create dependency. Instead, KNF builds soil through:
 

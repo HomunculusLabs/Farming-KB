@@ -9,14 +9,12 @@ tags:
   - aztec
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md",
-  ]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md",
+  "]
 type: concept
 ---
 
-# Ololiuqui and Morning Glory Seeds
+## Ololiuqui and Morning Glory Seeds
 
 Ololiuqui is one of the most ancient and culturally significant
 [[entheogen-tetrapteris-methystica-alternative-caapi]].

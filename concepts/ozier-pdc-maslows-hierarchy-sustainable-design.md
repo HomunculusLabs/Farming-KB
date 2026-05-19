@@ -5,7 +5,7 @@ author: William WR Ozier
 topics: psychology, sustainability, human-needs, design, permaculture, maslow
 ---
 
-# Maslow's Hierarchy of Needs in Sustainable Design
+## Maslow's Hierarchy of Needs in Sustainable Design
 
 [[natural-building]] all address this tier.
 

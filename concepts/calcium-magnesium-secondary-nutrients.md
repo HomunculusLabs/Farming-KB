@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Calcium and Magnesium — Secondary Macronutrients in Soil
+## Calcium and Magnesium — Secondary Macronutrients in Soil
 
 Calcium (Ca) and magnesium (Mg) are essential secondary macronutrients that play critical roles in plant nutrition and soil health. Beyond their direct nutritional value, they profoundly influence soil structure, pH, and [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] structure:** Calcium pectate (calcium bridges between pectin molecules) is essential for cell wall strength and integrity
 - **[[soil-testing-methods-interpretation]] recommendations. Over-liming is difficult to correct.

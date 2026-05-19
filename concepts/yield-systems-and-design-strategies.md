@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Yield Systems and Design Strategies
+## Yield Systems and Design Strategies
 
 ## Overview
 

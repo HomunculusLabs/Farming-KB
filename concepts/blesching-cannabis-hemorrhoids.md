@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Hemorrhoids
+## Cannabis and Hemorrhoids
 
 ## Overview
 

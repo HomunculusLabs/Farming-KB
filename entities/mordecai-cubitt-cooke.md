@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Mordecai Cubitt Cooke
+## Mordecai Cubitt Cooke
 
 ## Description
 

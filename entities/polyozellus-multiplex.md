@@ -19,7 +19,7 @@ sources:
   - "Smith, A.H. & Morse, E.E. (1947). \"The Genus Polyozellus.\" Papers of the Michigan Academy of Science, 31, 57–68."
 ---
 
-# Polyozellus multiplex (*Blue Chanterelle*, *Indigo Milk Cap*)
+## Polyozellus multiplex (*Blue Chanterelle*, *Indigo Milk Cap*)
 
 ## Overview
 

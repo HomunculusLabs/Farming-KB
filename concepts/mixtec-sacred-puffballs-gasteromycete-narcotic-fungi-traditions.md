@@ -1,4 +1,8 @@
-# Mixtec Sacred Puffballs and Gasteromycete Narcotic Fungi Traditions
+---
+title: "Mixtec Sacred Puffballs and Gasteromycete Narcotic Fungi Traditions"
+tags:
+  - concept
+---
 
 Among the most unusual and poorly understood aspects of indigenous mushroom use in Mexico are the traditions involving [[gasteromycete-fungi]] — puffballs, earthstars, and related fungi — as sacred or narcotic substances. Unlike the well-documented use of gilled mushrooms (agarics) of the genus Psilocybe, the gasteromycete traditions involve fungi that produce their spores internally and release them through openings or by disintegration, rather than on exposed gills.
 

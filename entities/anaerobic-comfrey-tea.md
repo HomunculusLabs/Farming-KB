@@ -5,7 +5,7 @@ type: entity
 tags: [comfrey, anaerobic-tea, plant-extract, fertilizer, nutrient-rich]
 ---
 
-# Anaerobic Comfrey Tea
+## Anaerobic Comfrey Tea
 
 ## Description
 

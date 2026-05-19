@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca, shamanism]
 ---
 
-# [[bloomfield-eurotium-aspergillus-pleomorphism-dual-identity]] precisely.
+## [[bloomfield-eurotium-aspergillus-pleomorphism-dual-identity]] precisely.
 
 The economic flows associated with ayahuasca tourism both support local communities and create significant distortions, operating across multiple price tiers and organizational models.
 

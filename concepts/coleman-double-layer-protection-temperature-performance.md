@@ -5,7 +5,7 @@ tags: [cold-house, greenhouse, temperature, double-layer, row-cover, coleman]
 created: 2026-05-11
 ---
 
-# Double-Layer Protection and Temperature Performance
+## Double-Layer Protection and Temperature Performance
 
 The core innovation of [[eliot-coleman]]'s winter-harvest system is the use of two layers of protection — an outer greenhouse structure and an inner lightweight row-cover fabric suspended over the crops — to create a dramatically warmer [[cannabis-growing-environment-setup]] without any supplemental heat.
 This [[coleman-soil-heat-mass-passive-thermal-storage]] protection system is what makes cold-house winter production possible in Zone 5 Maine,

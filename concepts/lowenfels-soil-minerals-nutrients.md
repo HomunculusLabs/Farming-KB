@@ -8,7 +8,7 @@ type: concept
 tags: [minerals, nutrients, soil]
 ---
 
-# Soil Minerals and Nutrients
+## Soil Minerals and Nutrients
 
 ## Overview
 

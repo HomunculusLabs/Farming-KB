@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Protists and Nematode Predators
+## Protists and Nematode Predators
 
 [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]] for plants, protozoa and nematodes are the
 fertilizer spreaders.

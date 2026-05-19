@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Earthmoving Tools and Machinery in Permaculture
+## Earthmoving Tools and Machinery in Permaculture
 Updated: 2026-04-18
 Source: Permaculture: A Designers' Manual, [[garden-hand-tools]] have moved most of the earth we see today shaped
 into mountain rice terraces. There are some very useful and

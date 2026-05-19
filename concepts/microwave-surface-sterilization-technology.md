@@ -7,7 +7,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 related: [microwave-microbial-kill-curves, sterilization-methods-comparison]
 ---
 
-# Microwave Surface Sterilization Technology
+## Microwave Surface Sterilization Technology
 
 [[microwave-surface-sterilization]] is a method of decontaminating surfaces using
 electromagnetic radiation in the microwave frequency range. Developed at NASA's

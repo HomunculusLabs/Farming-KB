@@ -16,7 +16,7 @@ sources:
   - IUCN Red List. "Sequoia sempervirens." https://www.iucnredlist.org/
 ---
 
-# Sequoia sempervirens
+## Sequoia sempervirens
 
 ## Overview
 

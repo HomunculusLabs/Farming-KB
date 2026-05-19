@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, integration, diversity, guilds, holmgren, polyculture]
 ---
 
-# Integrate Rather Than Segregate
+## Integrate Rather Than Segregate
 
 ## Permaculture Design Principle #8 — "Many Hands Make Light Work"
 

@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka on the Entanglement of Natural and Scientific Farming
+## Fukuoka on the Entanglement of Natural and Scientific Farming
 
 Masanobu Fukuoka argues that [[fukuoka-critique-genetic-engineering]], soil amendment, irrigation, or pest control can create calories from nothing; every gram of starch represents stored solar energy, and the supply of that energy is predetermined by forces entirely beyond human control.
 

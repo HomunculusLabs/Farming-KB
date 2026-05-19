@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DMMDA-2
+## DMMDA-2
 
 **Chemical name:** 2,3-Dimethoxy-4,5-methylenedioxyamphetamine
 **[[dmmda-compound-profile]], which was prepared from apiole (Oil of Parsley).

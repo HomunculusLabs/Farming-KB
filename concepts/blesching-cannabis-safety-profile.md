@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis Safety Profile and Adverse Effects
+## Cannabis Safety Profile and Adverse Effects
 
 Cannabis has a remarkably favorable safety profile compared to most
 pharmaceutical medications, with no confirmed cases of fatal overdose in

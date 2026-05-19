@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [papers/a-selection-permaculture-plants.md]
 ---
-# Permaculture Plant Resources and Selection
+## Permaculture Plant Resources and Selection
 **Updated:** 2026-04-18
 [[permaculture-design]] relies on selecting the right plants for the right
 functions in the right places. Rather than choosing plants primarily

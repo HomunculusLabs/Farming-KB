@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Saltpans, Gilgais, and Gully Erosion Control
+## Saltpans, Gilgais, and Gully Erosion Control
 
 ## Overview
 

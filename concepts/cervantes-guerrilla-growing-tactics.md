@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Guerrilla Growing Tactics
+## Guerrilla Growing Tactics
 
 Guerrilla growing, a term coined in the early 1970s,
 requires strategy, time, and most often, physical

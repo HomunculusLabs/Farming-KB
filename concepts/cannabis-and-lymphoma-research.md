@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Lymphoma
+## Cannabis and Lymphoma
 
 **Source:** The [[cannabis-immune-modulation]].
 

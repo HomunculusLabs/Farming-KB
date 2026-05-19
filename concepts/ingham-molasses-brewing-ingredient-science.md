@@ -1,4 +1,8 @@
-# Molasses as a Compost Tea Brewing Ingredient
+---
+title: "Molasses as a Compost Tea Brewing Ingredient"
+tags:
+  - concept
+---
 
 **Source:** The Field Guide I for [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] (the standard recommendation for AACT) contains:
 - **Sugars** (primarily sucrose, glucose, fructose): 40-55% — the primary

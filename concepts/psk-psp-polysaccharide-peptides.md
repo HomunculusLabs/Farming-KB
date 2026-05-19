@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# PSK and PSP Polysaccharide-Peptides
+## PSK and PSP Polysaccharide-Peptides
 
 PSK (Polysaccharide-K, trade name Krestin) and PSP (Polysaccharide-Peptide) are protein-bound polysaccharides extracted from the mycelium of [[lentinan-gastric-cancer-combination-therapy]] have shown:
 - Significant improvement in 5-year survival when combined with chemotherapy

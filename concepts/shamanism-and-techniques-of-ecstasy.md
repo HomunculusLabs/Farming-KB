@@ -1,5 +1,5 @@
 ---
-title: mckenna-shamanism-and-techniques-of-ecstasy of Ecstasy
+title: "Shamanism And Techniques Of Ecstasy"
 created: 2026-05-09
 tags: [shamanism, ecstasy, psychoactive-plants, religion, consciousness, terence-mckenna]
 date: 2026-05-09
@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Shamanism and Techniques of Ecstasy
+## Shamanism and Techniques of Ecstasy
 
 **Shamanism** is the oldest form of spiritual practice known to humanity, predating all
 organized religions by tens of thousands of years. In [[harner-shamanic-journey-and-altered-states]] is thus a technology for accessing information and experiences unavailable through ordinary waking consciousness.

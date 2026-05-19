@@ -18,7 +18,7 @@ sources:
   - Maunder, M. et al. (2002). "Conservation of the endemic palms of the Mascarene Islands." Oryx 36(3): 246-254.
 ---
 
-# Acanthophoenix rubra
+## Acanthophoenix rubra
 
 Acanthophoenix rubra, the Mauritius barbel palm or red palm, is a large, solitary palm endemic to the Mascarene Islands of Mauritius and Réunion in the Indian Ocean. It is one of the most iconic and endangered endemic plants of Mauritius.
 

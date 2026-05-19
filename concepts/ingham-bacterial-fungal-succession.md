@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [soil-succession, bacteria, fungi, soil-foodweb, ecological-stages]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 type: concept
 ---
 
-# Bacterial-then in Soil Systems
+## Bacterial-then in Soil Systems
 
 ## The Succession Principle
 

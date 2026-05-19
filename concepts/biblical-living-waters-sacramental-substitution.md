@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Biblical Living Waters and Sacramental Substitution
+## Biblical Living Waters and Sacramental Substitution
 
 ## Overview
 

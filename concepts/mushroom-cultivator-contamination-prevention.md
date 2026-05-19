@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Contamination Prevention in The Mushroom Cultivator
+## Contamination Prevention in The Mushroom Cultivator
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters II, XII-XIII
 Updated: 2026-04-18

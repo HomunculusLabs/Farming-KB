@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Diversity and Plant Nutrition
+## Ectomycorrhizal Diversity and Plant Nutrition
 
 ## Overview
 

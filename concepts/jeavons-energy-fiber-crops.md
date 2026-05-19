@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Energy, Fiber, and Other Non-Food Crops
+## Energy, Fiber, and Other Non-Food Crops
 
 The [[hamilton-composting-and-organic-matter-management]], and fodder crops
 

@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Drying Cannabis
+## Drying Cannabis
 
 Drying is the essential first step after harvest that converts THC from its
 non-psychoactive acidic form (THCA) to its psychoactive neutral form (THC). Fresh green

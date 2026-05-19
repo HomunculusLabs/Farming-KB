@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Natives vs Exotics
+## Natives vs Exotics
 
 One of the most contentious debates in gardening and ecological
 restoration is whether to use native or exotic plants. The native-plant

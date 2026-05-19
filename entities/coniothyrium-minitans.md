@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, mycoparasite, biocontrol, sclerotial-parasite, plant-pathology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Coniothyrium minitans
+## Coniothyrium minitans
 
 **Type:** Species (Ascomycete)
 **Category:** Sclerotial Mycoparasite / Biocontrol Agent

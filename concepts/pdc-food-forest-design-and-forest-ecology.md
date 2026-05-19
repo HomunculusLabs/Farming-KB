@@ -7,7 +7,7 @@ sources: william-ozier-williams-pdc_-a-permaculture-design-cours
 tags: [ppermaculture pdc, food-forest, agroforestry, forest-ecology, succession]
 ---
 
-# PDC [[permaculture-design]] practice, arguing that food forests represent the highest expression of permaculture's principle of using edges and valuing the marginal through three-dimensional space utilization.
+## PDC [[permaculture-design]] practice, arguing that food forests represent the highest expression of permaculture's principle of using edges and valuing the marginal through three-dimensional space utilization.
 
 ## Forest Structure: The Seven Layers
 

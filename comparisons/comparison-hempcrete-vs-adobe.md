@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Hempcrete vs Adobe Construction
+## Hempcrete vs Adobe Construction
 
 ## Overview
 

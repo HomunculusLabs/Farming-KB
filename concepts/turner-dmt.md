@@ -8,7 +8,7 @@ tags: [psychedelics, DMT, tryptamine, endogenous, dosage, smoking, visionary]
 updated: 2026-04-26
 ---
 
-# DMT - Candy for the Mind
+## DMT - Candy for the Mind
 
 > Intensity: 9 to 10
 

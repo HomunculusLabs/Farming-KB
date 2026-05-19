@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Spraying and Ventilation Procedure
+## PF TEK Spraying and Ventilation Procedure
 
 ## Overview
 

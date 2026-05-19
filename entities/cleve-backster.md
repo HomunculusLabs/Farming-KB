@@ -22,7 +22,7 @@ tags:
 sources: []
 ---
 
-# Cleve Backster
+## Cleve Backster
 
 Cleve Baxter Backster (February 27, 1924 – June 24, 2013) was an American
 polygraph examiner and interrogation specialist best known for his controversial

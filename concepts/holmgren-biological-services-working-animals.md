@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Biological Services and Working Animals in Permaculture
+## Biological Services and Working Animals in Permaculture
 
 [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by legumes, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Using a motorised slasher for initial conversion of brambles, weeds, and rough

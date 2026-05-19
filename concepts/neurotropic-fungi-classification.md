@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [mycology, neurotropic-fungi, classification, taxonomy, psilocybin, ergot, amanita]
 ---
 
-# Classification of Neurotropic Fungi
+## Classification of Neurotropic Fungi
 
 ## Overview
 

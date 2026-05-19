@@ -23,7 +23,7 @@ sources:
     Gardens, Kew.
 ---
 
-# Erythrina fusca
+## Erythrina fusca
 
 Erythrina fusca, known as coral bean, immortelle, or bucayo, is a tropical
 deciduous tree in the Fabaceae (legume) family native to tropical America,

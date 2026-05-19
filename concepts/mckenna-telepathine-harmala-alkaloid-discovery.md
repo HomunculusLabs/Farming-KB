@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of-the-gods.md
 type: concept
 ---
-# Telepathine, [[harner-amazonian-ayahuasca-preparation-methods]] vine and named for its reputed
+## Telepathine, [[harner-amazonian-ayahuasca-preparation-methods]] vine and named for its reputed
 telepharmineducing properties — and its later identification as harmine, a [[beta-carboline]]
 alkaloid found in *[[ayahuasca-preparation]] s, indigenous
 peoples "have long exploited a pharmacological mechanism, MAO inhibition, not described by

@@ -17,7 +17,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Seed Treatment and Soil Foundation with Microbial Activator (M-A)
+## Seed Treatment and Soil Foundation with Microbial Activator (M-A)
 
 **Updated:** 2026-04-18
 

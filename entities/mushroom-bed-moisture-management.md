@@ -5,7 +5,7 @@ type: entity
 tags: [technique, environmental-control, moisture, watering, cultivation]
 ---
 
-# Mushroom Bed Moisture Management
+## Mushroom Bed Moisture Management
 
 ## Description
 

@@ -22,7 +22,7 @@ sources:
   - "Kathiresan, K. & Bingham, B.L. (2001). Biology of mangroves and mangrove ecosystems. Advances in Marine Biology, 40, 81–251."
 ---
 
-# Mangrove Ecosystems and Coastal Restoration
+## Mangrove Ecosystems and Coastal Restoration
 
 ## Introduction
 

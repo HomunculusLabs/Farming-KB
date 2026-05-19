@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Design Philosophy
+## Permaculture Design Philosophy
 
 ## The Cover Story — The Rainbow Serpent
 

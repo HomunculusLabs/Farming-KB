@@ -7,7 +7,7 @@ tags: [mushrooms, cultivation, lab-technique, recipe, methods]
 sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-# PDA and Tissue Culture
+## PDA and Tissue Culture
 
 Potato Dextrose Agar (PDA) is the standard medium for mushroom tissue culture and spawn propagation. This page covers PDA preparation, tissue culture selection, and PDA-to-PDA transfer from the FAO training manual.
 

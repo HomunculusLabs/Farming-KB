@@ -11,7 +11,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Strain Selection
+## Strain Selection
 
 When a mushroom is brought into culture from the wild, little is known about its performance until trials are conducted. Each mushroom strain is unique, and even within the same species, strains vary to surprising degrees. [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] strains lack this defense.
 

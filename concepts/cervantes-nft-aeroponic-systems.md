@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Nutrient Film Technique and Aeroponic Systems
+## Nutrient Film Technique and Aeroponic Systems
 
 Nutrient Film Technique (NFT) and aeroponics represent the high-
 performance end of hydroponic [[jorge-cervantes]]

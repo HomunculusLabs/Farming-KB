@@ -5,7 +5,7 @@ source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, greenhouse-design, end-wall-ventilation, ventilation, mobile-greenhouse, roll-up-door, wiggle-wire, passive-ventilation]
 ---
 
-# Greenhouse End-Wall Ventilation: High-Low Systems for Mobile Houses
+## Greenhouse End-Wall Ventilation: High-Low Systems for Mobile Houses
 
 ## Overview
 

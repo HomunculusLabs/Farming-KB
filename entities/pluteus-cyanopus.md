@@ -16,7 +16,7 @@ sources:
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=295662"
 ---
 
-# Pluteus Cyanopus
+## Pluteus Cyanopus
 
 ## Overview
 

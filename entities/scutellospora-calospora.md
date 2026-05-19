@@ -14,7 +14,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Scutellospora calospora
+## Scutellospora calospora
 
 ## Taxonomy
 

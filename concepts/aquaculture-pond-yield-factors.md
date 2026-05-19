@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Pond Yield Factors
+## Aquaculture Pond Yield Factors
 
 Aquaculture is presented by Mollison as one of the most stable and productive future occupations for responsible societies, comparable in importance to forestry. When properly designed, pond systems yield not only fish and aquatic plants but also serve multiple functions: water storage, fire protection, irrigation, pollution filtration, recreation, and habitat for wildlife.
 

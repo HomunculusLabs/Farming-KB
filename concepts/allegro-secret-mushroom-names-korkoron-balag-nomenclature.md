@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Secret Sumerian Mushroom Names: Korkoron, BALAG, and Sacred Nomenclature
+## Secret Sumerian Mushroom Names: Korkoron, BALAG, and Sacred Nomenclature
 
 ## Overview
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Leave Nature Alone
+## Leave Nature Alone
 
 The principle of "leaving nature alone" is the foundational tenet of Masanobu
 Fukuoka's [[fukuoka-rodenticide-ecosystem-disruption-chain]].

@@ -1,4 +1,8 @@
-# Chytrid Fungi — Olpidium, Synchytrium, and Agricultural Impact
+---
+title: "Chytrid Fungi — Olpidium, Synchytrium, and Agricultural Impact"
+tags:
+  - concept
+---
 
 ## Source
 *Nicholas P. Money — Mr. Bloomfield's Orchard (2002)*

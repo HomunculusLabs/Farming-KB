@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Smoking Cannabis Oil by Direct Vaporization
+## Smoking Cannabis Oil by Direct Vaporization
 
 Chapter 7 of *[[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-hashing-and-extraction]]

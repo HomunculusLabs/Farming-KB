@@ -1,4 +1,8 @@
-# Cannabis Gateway Theory and Addiction: Evidence and Debate
+---
+title: "Cannabis Gateway Theory and Addiction: Evidence and Debate"
+tags:
+  - concept
+---
 
 ## Source
 - **Book:** The [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases

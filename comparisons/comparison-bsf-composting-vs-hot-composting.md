@@ -18,7 +18,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Black Soldier Fly Composting vs Hot Composting
+## Black Soldier Fly Composting vs Hot Composting
 
 ## Overview
 Black soldier fly composting and hot composting both convert organic

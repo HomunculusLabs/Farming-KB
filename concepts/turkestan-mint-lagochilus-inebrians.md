@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Turkestan Mint (Lagochilus inebrians): Central Asian Intoxicant
+## Turkestan Mint (Lagochilus inebrians): Central Asian Intoxicant
 
 Turkestan mint (Lagochilus inebrians) is a little-known but culturally significant psychoactive plant from the dry steppes of Central Asia. For centuries, this unassuming member of the mint family (Lamiaceae) has served as an intoxicant among the indigenous peoples of Turkestan, while also being valued in traditional medicine and officially recognized in the Russian pharmacopoeia.
 

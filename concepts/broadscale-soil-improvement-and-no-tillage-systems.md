@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Broadscale Soil Improvement and No-Tillage Systems
+## Broadscale Soil Improvement and No-Tillage Systems
 
 Soil is the foundation of all [[earthcare-ethics-and-permanent-agriculture]]. Mollison opens the soil improvement section with a stark observation: "Bare soil is damaged soil and occurs only where man or introduced animals have interfered with the natural [[fukuoka-bushman-world-ecological-balance]]." Once bared, soil is susceptible to damage by sun, wind, water, and invasion by flatweeds.
 

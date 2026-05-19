@@ -8,7 +8,7 @@ type: concept
 tags: [design, gardening]
 ---
 
-# Designing the Ecological Garden
+## Designing the Ecological Garden
 
 An ecological [[williams-pdc-ecological-design-principles]] is to consciously create these connections, producing landscapes that yield abundantly, need little labor, harbor no pollutants, and are ripe with habitat.
 

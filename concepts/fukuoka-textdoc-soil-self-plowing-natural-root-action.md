@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Soil Self-Plowing and Natural Root Action
+## Soil Self-Plowing and Natural Root Action
 
 Fukuoka presents a detailed argument that soil naturally works and
 plows itself through the action of plant roots, soil microorganisms,

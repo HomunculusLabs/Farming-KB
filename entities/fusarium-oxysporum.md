@@ -9,7 +9,7 @@ sources: [john-dighton-fungi-in-ecosystem-processes.md,
 type: entity
 ---
 
-# Fusarium oxysporum
+## Fusarium oxysporum
 
 **Type:** Species (Fungus)
 **Category:** Plant Pathogenic Ascomycete

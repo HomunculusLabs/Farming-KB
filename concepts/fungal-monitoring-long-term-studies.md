@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Long-Term Monitoring and Biodiversity Inventory
+## Fungal Long-Term Monitoring and Biodiversity Inventory
 Long-term monitoring of fungal communities is essential for detecting
 changes in biodiversity caused by environmental change, land management
 practices, invasive species, [[macrofungal-fruiting-phenology-interannual-variation]]

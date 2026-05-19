@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Eleusinian Mysteries History and Structure
+## Eleusinian Mysteries History and Structure
 
 The Eleusinian Mysteries were the most important religious initiation ceremony of ancient Greece, performed annually for nearly 2,000 years at the village of Eleusis, approximately fourteen miles from Athens. They were celebrated every year in September (with one recorded exception) for carefully screened initiates who spoke the Greek language, excluding only those with unexpiated blood of murder on their hands.
 

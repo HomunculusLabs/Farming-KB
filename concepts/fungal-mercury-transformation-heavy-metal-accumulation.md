@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# [[fungal-heavy-metal-anion-biosorption|Fungal]] Mercury Transformation and Heavy Metal Accumulation
+## [[fungal-heavy-metal-anion-biosorption|Fungal]] Mercury Transformation and Heavy Metal Accumulation
 
 Fungi play a central role in the transformation, accumulation, and environmental
 cycling of heavy metals. Their ability to both concentrate and chemically modify

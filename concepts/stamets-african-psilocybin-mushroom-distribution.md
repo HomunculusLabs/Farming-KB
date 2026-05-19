@@ -8,7 +8,7 @@ sources: ["papers/psilocybin-mushrooms-of-the-world-stamets.md"]
 type: concept
 ---
 
-# African Psilocybin Mushroom Distribution
+## African Psilocybin Mushroom Distribution
 
 Africa occupies a unique position in the history and distribution of
 psychoactive mushrooms. The continent is home to ancient rock art

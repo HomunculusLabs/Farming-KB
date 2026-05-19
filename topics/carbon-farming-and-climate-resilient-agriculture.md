@@ -45,7 +45,7 @@ related_concepts:
   - humus-and-soil-organic-matter
 ---
 
-# Carbon Farming and Climate-Resilient Agriculture
+## Carbon Farming and Climate-Resilient Agriculture
 
 Agriculture sits in a paradoxical relationship with the Earth's climate.
 Conventional farming is a major source of greenhouse gas emissions --

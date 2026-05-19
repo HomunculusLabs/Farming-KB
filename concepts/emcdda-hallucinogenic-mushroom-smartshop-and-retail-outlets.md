@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Smartshop and Retail Outlets
+## EMCDDA Hallucinogenic Mushroom Smartshop and Retail Outlets
 
 ## Overview
 

@@ -7,7 +7,7 @@ sources:
   - "raw/papers/solomon-gardening-west.md"
 ---
 
-# Gypsum vs Dolomite
+## Gypsum vs Dolomite
 
 ## Overview
 

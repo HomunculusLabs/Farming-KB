@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# What Are Permaculture Earthworks and How Do I Plan Them?
+## What Are Permaculture Earthworks and How Do I Plan Them?
 
 ## Short Answer
 

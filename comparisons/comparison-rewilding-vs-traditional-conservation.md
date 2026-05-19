@@ -13,7 +13,7 @@ type: comparison
 created: 2026-04-28
 ---
 
-# Rewilding vs Traditional Conservation
+## Rewilding vs Traditional Conservation
 
 ## Overview
 

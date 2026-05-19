@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Ecosynthesis
+## Ecosynthesis
 
 Ecosynthesis is the process by which new ecosystems evolve from novel combinations of native and exotic species responding to changed environmental conditions. The term describes nature's inherent capacity to weave new ecological tapestries from available biological and physical resources, regardless of their geographic origin. Far from being mere "degradation," ecosynthesis represents a fundamental evolutionary mechanism through which ecosystems adapt to human and other disturbances.
 

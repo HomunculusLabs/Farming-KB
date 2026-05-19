@@ -5,7 +5,7 @@ type: entity
 tags: [technique, transplant-production, propagation, organic-growing]
 ---
 
-# Soil Block
+## Soil Block
 
 ## Description
 A soil block is a compressed cube of growing medium used as a container-free transplant production system. Instead of plastic pots or trays, seedlings are grown in self-standing blocks of compressed potting mix, which are then transplanted directly into the field or greenhouse bed. Eliot Coleman uses soil blocks extensively for producing transplants of overwintered crops like spinach and lettuce that are later set out under quick hoops. The technique eliminates transplant shock because roots air-prune at the block surface rather than circling inside a container.

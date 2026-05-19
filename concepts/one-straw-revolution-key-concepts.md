@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# One Straw Revolution Key Concepts
+## One Straw Revolution Key Concepts
 
 "The One Straw Revolution" (1978) is Masanobu Fukuoka's seminal work on [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 4. **No pesticides** — let nature find its own balance

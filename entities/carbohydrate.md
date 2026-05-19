@@ -5,7 +5,7 @@ type: entity
 tags: [molecule, macromolecule, sugar, starch, cellulose, plant-nutrition, energy-storage]
 ---
 
-# Carbohydrate
+## Carbohydrate
 
 ## Description
 

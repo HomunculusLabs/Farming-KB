@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
-# Grain Spawn Types and Preparation for Mushroom Cultivation
+## Grain Spawn Types and Preparation for Mushroom Cultivation
 
 Grain spawn is the next step in the exponential expansion of mycelial mass from [[mushroom-cultivation-bulk-substrates]]. The intent and purpose of grain spawn is to boost the mycelium to a state of vigor where it can be launched into bulk substrates. The grain is not only a vehicle for evenly distributing the mycelium, but also a nutritional supplement. Whole grain is used because each kernel becomes a mycelial capsule, a platform from which mycelium can leap into the surrounding expanse. Smaller kernels of grain provide more points of inoculation per pound of spawn.
 

@@ -16,7 +16,7 @@ sources:
   - teaming-with-microbes-actinomycetes by Jeff Lowenfels
   - Soil Biology Primer by USDA NRCS---
 
-# Dung Beetles and Pasture Ecology
+## Dung Beetles and Pasture Ecology
 
 ## Overview
 

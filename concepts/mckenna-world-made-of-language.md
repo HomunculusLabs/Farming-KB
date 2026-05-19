@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 author: Terence McKenna
 topics: shamanism, language, consciousness, psychedelic, linguistics, ecstacy, ayahuasca
 ---
-# McKenna's World Made of Language and the Linguistic Foundations of Shamanism
+## McKenna's World Made of Language and the Linguistic Foundations of Shamanism
 
 ## Overview
 

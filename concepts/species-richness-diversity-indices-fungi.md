@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Species Richness and Diversity Indices for Fungal Communities
+## Species Richness and Diversity Indices for Fungal Communities
 
 Quantifying fungal biodiversity requires robust statistical frameworks that account for sampling effort, species abundance distributions, and the inherent challenges of detecting cryptic or rare taxa. This page covers the major approaches to measuring and comparing species richness and diversity in fungal communities.
 

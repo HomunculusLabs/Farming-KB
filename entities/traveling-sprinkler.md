@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Traveling Sprinkler (Compost Tea Application)
+## Traveling Sprinkler (Compost Tea Application)
 
 ## Description
 

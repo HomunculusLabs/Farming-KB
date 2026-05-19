@@ -21,7 +21,7 @@ sources:
 type: concept
 ---
 
-# Ayahuasca Tourism Economics and Pricing in the Peruvian Amazon
+## Ayahuasca Tourism Economics and Pricing in the Peruvian Amazon
 
 [[ayahuasca-tourism-in-peru]] the Peruvian Amazon represents a significant [[informal-economy-and-community-currencies]] that operates at the intersection of indigenous spiritual practice, alternative medicine, and global spiritual seeking. Based on field observations by R. Stuart in Ucayali, Peru during November 2001, published in MAPS (Volume XII, Number 2, Summer 2002), the economic structure of ayahuasca tourism reveals stark pricing disparities between local and foreign participants, substantial income inequality between practitioners and their communities, and complex dynamics of cultural commodification.
 

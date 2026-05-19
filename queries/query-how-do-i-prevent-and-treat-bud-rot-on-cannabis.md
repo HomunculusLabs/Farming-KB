@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Prevent and Treat Bud Rot on Cannabis?
+## How Do I Prevent and Treat Bud Rot on Cannabis?
 
 ## Short Answer
 Bud rot, caused by the fungus Botrytis cinerea, is one of the most devastating

@@ -5,7 +5,7 @@ tags: [cannabis, microbiome, otu, strain-specificity, soil-type, alpha-diversity
 created: 2026-05-08
 ---
 
-# OTU Abundance vs Presence-Absence in Cannabis Microbiome Structuring
+## OTU Abundance vs Presence-Absence in Cannabis Microbiome Structuring
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, spawn, grain-spawn, sorghum]
 ---
 
-# Sorghum Spawn (Grain Spawn)
+## Sorghum Spawn (Grain Spawn)
 
 ## Description
 

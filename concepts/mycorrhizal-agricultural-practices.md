@@ -20,7 +20,7 @@ sources:
   - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-# Mycorrhizal Agricultural Practices
+## Mycorrhizal Agricultural Practices
 
 How farming and gardening practices affect mycorrhizal fungi — what helps, what hurts, and how to manage soils for maximum mycorrhizal benefit. Based on Jeff Lowenfels' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the biological overview and [[mycorrhizal-inoculum-production]] for making inoculum.
 

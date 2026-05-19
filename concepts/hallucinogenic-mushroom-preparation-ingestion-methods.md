@@ -5,7 +5,7 @@ sources: [emcdda-hallucinogenic-mushrooms-emerging-trend]
 created: 2026-05-11
 ---
 
-# Hallucinogenic Mushroom Preparation and Ingestion Methods
+## Hallucinogenic Mushroom Preparation and Ingestion Methods
 
 ## Overview
 

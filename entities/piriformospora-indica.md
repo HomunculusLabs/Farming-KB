@@ -1,5 +1,5 @@
 ---
-title: "linum-album-piriformospora-indica-co-culture-system"
+title: "Piriformospora Indica"
 created: 2026-04-28
 updated: 2026-05-06
 type: organism
@@ -25,7 +25,7 @@ tags: [profile]
 sources: []
 ---
 
-# Piriformospora indica
+## Piriformospora indica
 
 **Piriformospora indica** (reclassified as *** ungi (AMF).
 

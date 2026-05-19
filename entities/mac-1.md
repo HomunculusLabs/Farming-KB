@@ -26,7 +26,7 @@ sources:
   - Capulator breeder profile. "MAC (Miracle Alien Cookies) line." https://www.instagram.com/capulator
   - "Chemotaxonomic analysis of query-what-are-cannabis-terpenes-and-why-do-they-matter." Frontiers in Plant Science, 2020.
 ---
-# MAC 1 ([[cannabis-glandular-trichome-types-resin-production-clarke]] from the GSC lineage
+## MAC 1 ([[cannabis-glandular-trichome-types-resin-production-clarke]] from the GSC lineage
 - **Male parent:** Unnamed [[chemdawg]] through GSC, with rare Colombian
   sativa genetics not commonly found in contemporary commercial strains
 

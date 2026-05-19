@@ -8,7 +8,7 @@ type: concept
 tags: [lsd]
 ---
 
-# LSD Therapy and Psychiatric Research in the 1950s-60s
+## LSD Therapy and Psychiatric Research in the 1950s-60s
 
 ## The Psychotherapeutic Foundation
 

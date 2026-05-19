@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Anxiety
+## Cannabis and Anxiety
 
 ## Overview
 

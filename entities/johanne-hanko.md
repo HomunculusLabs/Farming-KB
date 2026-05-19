@@ -5,7 +5,7 @@ type: entity
 tags: [people, author, FAO, disability-specialist, mycology-training]
 ---
 
-# Johanne Hanko
+## Johanne Hanko
 
 ## Description
 

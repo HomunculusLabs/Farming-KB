@@ -11,7 +11,7 @@ type: concept
 tags: [pharmacology]
 ---
 
-# Beta-Glucan Pharmacology from Medicinal Mushrooms
+## Beta-Glucan Pharmacology from Medicinal Mushrooms
 
 ## Overview
 

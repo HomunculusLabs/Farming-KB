@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Natural Crop Rotation and Vegetable Growing Methods
+## Natural Crop Rotation and Vegetable Growing Methods
 
 [[fukuoka-no-fertilizer-principle]]
 and [[fukuoka-semi-wild-vegetable-growing-techniques]] and

@@ -6,7 +6,7 @@ updated: 2026-05-07
 sources: []
 ---
 
-# Companion Planting vs Green Manure
+## Companion Planting vs Green Manure
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka]
 ---
 
-# Desert Greening Projects — Worldwide Results
+## Desert Greening Projects — Worldwide Results
 
 *Documented results of Masanobu Fukuoka's [[dmt-containing-plants-united-states-halpern]], Europe, and Asia, as described in "Sowing
 Seeds in the Desert."*

@@ -13,7 +13,7 @@ tags:
 created: 2026-05-10
 ---
 
-# Microwave Microbial Kill Mechanisms
+## Microwave Microbial Kill Mechanisms
 
 Microwave-based [[dry-microwave-irradiation-spore-resistance]] destroys microorganisms, with particular
 attention to the critical role of water content. For the broader system

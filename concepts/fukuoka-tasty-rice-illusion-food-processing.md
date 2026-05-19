@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Tasty Rice Illusion and Food Processing
+## The Tasty Rice Illusion and Food Processing
 
 In Chapter 5 of [[fukuoka-origin-agriculture-dietary-cravings]] and his account of the escalating cycle of desire that drives the entire modern food system.
 

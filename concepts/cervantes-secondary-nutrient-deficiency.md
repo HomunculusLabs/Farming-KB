@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Secondary [[cannabis-magnesium-nutrient]] guidance in cannabis, see that page.
+## Secondary [[cannabis-magnesium-nutrient]] guidance in cannabis, see that page.
 
 ### Deficiency
 Very common indoors, especially in acidic soils (pH below 7). Lower

@@ -6,7 +6,7 @@ wikilinks: winter harvest, cold house, coleman-cool-greenhouse-vs-cold-greenhous
 created: 2026-05-10
 ---
 
-# Double-Layer Climate Modification and Winter Temperature Data
+## Double-Layer Climate Modification and Winter Temperature Data
 
 ## Overview
 

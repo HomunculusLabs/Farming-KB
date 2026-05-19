@@ -21,7 +21,7 @@ sources:
 - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 ---
 
-# African Psilocybin Mushroom Guide
+## African Psilocybin Mushroom Guide
 
 Distribution, ecology, and cultural significance of psilocybin-containing mushrooms across Africa. Africa holds special significance as the likely site of the oldest known mushroom use in human history (Tassili rock art, 7000-5000 BCE). Based on [[jochen-gartz]], [[gaston-guzman]], and [[john-w-allen]].
 

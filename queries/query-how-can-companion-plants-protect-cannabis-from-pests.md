@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Can Companion Plants Protect Cannabis from Pests?
+## How Can Companion Plants Protect Cannabis from Pests?
 
 ## Short Answer
 Companion plants protect cannabis by repelling pests with aromatic compounds,

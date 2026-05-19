@@ -9,7 +9,7 @@ tags:
   - sativa
 ---
 
-# Cannabis Landrace Conservation and Breeding: Genetic Diversity
+## Cannabis Landrace Conservation and Breeding: Genetic Diversity
 
 ## The Importance of Landrace Preservation
 

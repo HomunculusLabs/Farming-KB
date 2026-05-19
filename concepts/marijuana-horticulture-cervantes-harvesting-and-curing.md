@@ -7,7 +7,7 @@ tags: [harvest, curing, drying, manicuring, trichomes, THC, sinsemilla, resin-gl
 created: 2026-05-11
 ---
 
-# Harvesting and Curing Cannabis
+## Harvesting and Curing Cannabis
 
 ## The Harvest Window
 

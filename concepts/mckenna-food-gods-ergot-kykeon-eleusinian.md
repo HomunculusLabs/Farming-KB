@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ergot and the Eleusinian Kykeon in Food of the Gods
+## Ergot and the Eleusinian Kykeon in Food of the Gods
 
 In *Food of the Gods*, [[bloomfield-ergot-claviceps-purpurea-ergotism]]*.
 McKenna presents this theory, developed by R. Gordon Wasson, Albert

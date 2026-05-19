@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Plants: History and Ethnobotany
+## Hallucinogenic Plants: History and Ethnobotany
 
 ## Overview
 

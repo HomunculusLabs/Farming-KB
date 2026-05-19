@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 tags: [cultivation, fruiting, environment, mycology, humidity]
 ---
 
-# Mushroom Fruiting Chambers
+## Mushroom Fruiting Chambers
 
 A fruiting chamber is an enclosed environment designed to maintain the
 specific conditions of high humidity, fresh air exchange, and light that

@@ -1,5 +1,10 @@
+---
+title: "Plant Gravitropism Spatial Orientation"
+tags:
+  - concept
+---
 
-# Plant [[space-station-closed-system-aseptic-access-sterilization]] and earlier on the Space Shuttle have investigated how plants grow in microgravity environments.
+## Plant [[space-station-closed-system-aseptic-access-sterilization]] and earlier on the Space Shuttle have investigated how plants grow in microgravity environments.
 
 In the absence of gravity, roots and shoots initially grow in random directions, but other cues such as light and moisture eventually provide orientation. These experiments have confirmed that gravity is the primary but not the sole orienting cue.
 

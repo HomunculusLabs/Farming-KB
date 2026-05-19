@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# The Eleusinian Mysteries
+## The Eleusinian Mysteries
 
 ## Two Thousand Years of Sacred Rite
 

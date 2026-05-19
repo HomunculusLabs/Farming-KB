@@ -9,7 +9,7 @@ tags:
   - organic-growing
 ---
 
-# Temple — Bodhi Seeds
+## Temple — Bodhi Seeds
 
 ## Overview
 

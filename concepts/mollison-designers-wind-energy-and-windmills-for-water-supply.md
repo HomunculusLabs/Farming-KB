@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Wind Energy and Windmills for Water Supply
+## Wind Energy and Windmills for Water Supply
 
 Wind energy may be used to lift water to other zones, or other
 dependable technology used. In permaculture systems, windmills have

@@ -5,7 +5,7 @@ source_author: Eliot Coleman
 topics: [winter-harvest, cold-sweetening, vegetable-quality, frost-tolerance, carbohydrates, cold-hardy-crops]
 ---
 
-# Winter Vegetable Cold-Sweetening Mechanism
+## Winter Vegetable Cold-Sweetening Mechanism
 
 ## Overview
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, cultivation, sterilization, grain-spawn]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Spawn Grain Preparation
+## Spawn Grain Preparation
 
 Spawn grain preparation is the foundational step in [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] is sterilized and inoculated with agar wedge,
 [[query-how-to-grow-oyster-mushrooms-at-home]]. Full colonization of a quart jar takes

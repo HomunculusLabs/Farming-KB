@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Tropical Restoration Mycorrhiza
+## Tropical Restoration Mycorrhiza
 
 The use of [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] capacity
 - Loss of biodiversity and [[lichens-primary-production-soil-formation-dighton]], making their conservation and restoration globally significant.

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Size and Food Self-Sufficiency
+## Garden Size and Food Self-Sufficiency
 
 ## Overview
 

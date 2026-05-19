@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are Dynamic Accumulator Plants and How Do I Use Them?
+## What Are Dynamic Accumulator Plants and How Do I Use Them?
 
 ## Short Answer
 Dynamic accumulator plants are species with deep taproots or highly efficient

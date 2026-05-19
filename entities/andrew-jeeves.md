@@ -5,7 +5,7 @@ type: entity
 categories: [people, art, permaculture]
 ---
 
-# Andrew Jeeves
+## Andrew Jeeves
 
 ## Description
 

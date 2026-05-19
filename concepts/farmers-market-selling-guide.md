@@ -7,7 +7,7 @@ tags: [business, economics, homesteading, food, community, regulation]
 sources: []
 ---
 
-# Farmers Market Selling Guide
+## Farmers Market Selling Guide
 
 Farmers markets are the primary sales channel for homestead-scale producers. They offer direct consumer access, premium pricing, and community building. Success requires preparation, presentation, and relationship skills. This guide covers booth setup, display, pricing, licensing, and sales techniques.
 

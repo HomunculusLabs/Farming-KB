@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Roles in Old-Growth Forests ## Overview Old-growth forests represent the most complex and biodiverse terrestrial ecosystems on Earth, and fungi play more roles in these systems than in any younger forest stage. The multi-layered canopy, diverse tree species composition, abundant dead wood, and undisturbed soil profiles of old-growth forests provide habitat for an extraordinary diversity of fungal species, including many specialists found only in late-successional forest conditions. Understanding fungal roles in old-growth forests is critical for conservation and for appreciating what is lost when primary forests are converted to managed forests or other land uses. See [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]:
+## Fungal Roles in Old-Growth Forests ## Overview Old-growth forests represent the most complex and biodiverse terrestrial ecosystems on Earth, and fungi play more roles in these systems than in any younger forest stage. The multi-layered canopy, diverse tree species composition, abundant dead wood, and undisturbed soil profiles of old-growth forests provide habitat for an extraordinary diversity of fungal species, including many specialists found only in late-successional forest conditions. Understanding fungal roles in old-growth forests is critical for conservation and for appreciating what is lost when primary forests are converted to managed forests or other land uses. See [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]:
 
 ### Standing Dead Trees (Snags)
 - Provide vertical continuity of fungal habitat from forest floor to canopy

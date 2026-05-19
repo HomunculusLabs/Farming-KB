@@ -30,7 +30,7 @@ related_concepts:
   - mushroom-cultivation-fundamentals
 ---
 
-# Morel Mushroom Cultivation and Ecology
+## Morel Mushroom Cultivation and Ecology
 
 Morel mushrooms, belonging to the genus Morchella, are among the most
 prized and enigmatic fungi on Earth. Their distinctive honeycombed caps,

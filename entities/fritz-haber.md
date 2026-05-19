@@ -5,7 +5,7 @@ type: entity
 tags: [person, chemist, nitrogen-fixation, history-of-science, agriculture]
 ---
 
-# Fritz Haber
+## Fritz Haber
 
 ## Description
 

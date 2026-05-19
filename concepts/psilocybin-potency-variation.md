@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Potency Variation
+## Psilocybin Potency Variation
 
 Psilocybin potency variation refers to the substantial and often unpredictable
 differences in psilocybin and psilocin concentrations found across

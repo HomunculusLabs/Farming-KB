@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, dosage, compound-p
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Mescaline Compound Profile
+## Mescaline Compound Profile
 
 ## Chemical Identity
 

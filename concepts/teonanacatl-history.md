@@ -8,7 +8,7 @@ type: concept
 tags: [history]
 ---
 
-# Teonanacatl History
+## Teonanacatl History
 
 Teonanacatl is the Nahuatl word meaning "flesh of the gods," the name
 given

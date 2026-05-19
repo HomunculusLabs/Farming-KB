@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# European Witchcraft Hallucinogenic Plants
+## European Witchcraft Hallucinogenic Plants
 
 Michael J. Harner's chapter "Hallucinogens and European Witchcraft," published in [[belladonna-atropa-belladonna-ethnobotany]], Mandragora, and henbane, whose atropine content was absorbable through the skin. The witch then indeed took a "trip" — the witch on the broomstick is a representation of that imagined aerial journey to a rendezvous with spirits or demons, called a Sabbat.
 

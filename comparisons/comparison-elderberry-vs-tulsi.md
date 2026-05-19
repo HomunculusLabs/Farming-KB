@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Elderberry vs Tulsi
+## Elderberry vs Tulsi
 
 ## Overview
 

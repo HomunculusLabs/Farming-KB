@@ -5,7 +5,7 @@ tags: [farming, rice, barley, clover, cover-crops, no-till, fukuoka]
 created: 2026-05-08
 ---
 
-# Fukuoka's Clover-Based Rice-Barley Succession System
+## Fukuoka's Clover-Based Rice-Barley Succession System
 
 ## Overview
 

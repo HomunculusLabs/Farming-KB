@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Critique of the Inductive and Deductive Methods
+## Critique of the Inductive and Deductive Methods
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 1 of "The Theory
 of [[fukuoka-critique-scientific-agriculture-civilization]] believes that by applying specialized research to parts of
 the whole, partial improvements can be made which will translate into overall

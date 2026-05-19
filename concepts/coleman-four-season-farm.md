@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Four Season Farm Methods and Philosophy
+## Four Season Farm Methods and Philosophy
 
 ## Farm Overview
 

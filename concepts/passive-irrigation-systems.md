@@ -7,7 +7,7 @@ tags: [water, water-management, permaculture, gardening, design, homesteading, s
 sources: []
 ---
 
-# Passive Irrigation Systems
+## Passive Irrigation Systems
 
 Passive irrigation delivers water to plants without pumps, timers, or electricity. These systems rely on gravity, [[capillary-action-in-soils]], and soil moisture dynamics to distribute water efficiently. They reduce labor, conserve water, and improve plant health by maintaining consistent soil moisture at the root zone.
 

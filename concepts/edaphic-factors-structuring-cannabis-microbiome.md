@@ -1,4 +1,8 @@
-# Edaphic Factors Structuring the Cannabis Microbiome
+---
+title: "Edaphic Factors Structuring the Cannabis Microbiome"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[cannabis-rhizosphere-community-structure-edaphic-factors]]

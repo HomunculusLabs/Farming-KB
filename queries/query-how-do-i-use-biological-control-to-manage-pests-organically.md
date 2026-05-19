@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Use Biological Control to Manage Pests Organically?
+## How Do I Use Biological Control to Manage Pests Organically?
 
 ## Short Answer
 

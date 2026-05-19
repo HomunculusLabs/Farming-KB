@@ -4,7 +4,7 @@ aliases: ["[[glossolalia-tryptamine-language]] entities"]
 tags: [dmt, tryptamines, phenomenology, language, entities, mckenna, hyperdimensional]
 ---
 
-# Translinguistic Objects and Hyperdimensional Language
+## Translinguistic Objects and Hyperdimensional Language
 
 ## Overview
 

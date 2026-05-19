@@ -6,7 +6,7 @@ tags: [biochemistry, physiology, hemoglobin, oxygen-transport, allostery]
 related: [hemoglobin-oxygen-transport-biochemistry, allosteric-regulation, glutathione-biochemistry-and-redox-biology]
 created: 2026-05-02
 ---
-# Hemoglobin and Oxygen Transport
+## Hemoglobin and Oxygen Transport
 Hemoglobin is the principal oxygen-transport protein of vertebrate blood.
 It is a red, iron-containing metalloprotein concentrated inside erythrocytes.
 Its main function is to bind oxygen at respiratory surfaces and release it in tissues.

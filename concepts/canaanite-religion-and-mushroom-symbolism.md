@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms]
 sources: - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# Canaanite Religion and Mushroom Symbolism
+## Canaanite Religion and Mushroom Symbolism
 
 [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross* proposed extensive
 connections between Canaanite fertility religion and the fly-agaric mushroom.

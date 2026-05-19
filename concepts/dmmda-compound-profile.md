@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DMMDA — 2,5-Dimethoxy-3,4-Methylenedioxyamphetamine
+## DMMDA — 2,5-Dimethoxy-3,4-Methylenedioxyamphetamine
 
 ## Overview
 

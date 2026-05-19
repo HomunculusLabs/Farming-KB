@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Dispersal and Soil Food Web Research
+## Mycorrhizal Dispersal and Soil Food Web Research
 
 The dispersal of mycorrhizal fungal propagules and their integration into soil food webs represents a critical but often underappreciated component of ecosystem dynamics. Research in this area spans mycorrhizal spore ecology, the role of fauna as dispersal vectors, grazing effects on mycorrhizal function, and the broader implications for plant community structure and ecosystem productivity.
 

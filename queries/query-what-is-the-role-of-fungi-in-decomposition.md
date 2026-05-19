@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Role of Fungi in Decomposition
+## What Is the Role of Fungi in Decomposition
 
 ## Short Answer
 Fungi are the primary decomposers of lignin and other recalcitrant organic compounds in terrestrial ecosystems.

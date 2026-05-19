@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, oyster mushroom, species, taxonomy]
 date: 2026-04-28
 updated: 2026-05-09
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Oyster Mushroom Species and Varieties
+## Oyster Mushroom Species and Varieties
 
 The genus Pleurotus encompasses over 30 described species of gilled mushrooms,
 commonly known as [[cultivation-of-oyster-mushrooms]] for their shelf-like growth pattern

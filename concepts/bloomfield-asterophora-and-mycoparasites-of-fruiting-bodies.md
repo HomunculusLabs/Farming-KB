@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Asterophora and Mycoparasites of Fruiting Bodies
+## Asterophora and Mycoparasites of Fruiting Bodies
 
 The idea that fungi can be parasitized by other fungi challenges
 the common perception of these organisms primarily as decomposers

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Harvesting and Storage in The Mushroom Cultivator
+## Harvesting and Storage in The Mushroom Cultivator
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter X
 Updated: 2026-04-18

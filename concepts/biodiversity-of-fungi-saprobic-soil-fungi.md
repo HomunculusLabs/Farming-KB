@@ -7,7 +7,7 @@ tags: [fungi, soil, biology, ecology]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-# Saprobic Soil Fungi - Diversity, Ecology, and Agricultural Relevance
+## Saprobic Soil Fungi - Diversity, Ecology, and Agricultural Relevance
 
 Updated: 2026-04-18
 

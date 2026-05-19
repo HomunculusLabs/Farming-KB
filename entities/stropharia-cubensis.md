@@ -15,7 +15,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Stropharia cubensis
+## Stropharia cubensis
 
 **Stropharia cubensis** is a coprophilous (dung-inhabiting) basidiomycete fungus in the
 family Hymenogastraceae, widely known for its production of the psychoactive compounds

@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Organic vs Chemical Amendments
+## Organic vs Chemical Amendments
 
 ## Overview
 Organic and chemical (synthetic) amendments represent two different approaches

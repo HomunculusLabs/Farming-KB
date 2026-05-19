@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Ethical Seed Companies and Mail-Order Sources
+## Ethical Seed Companies and Mail-Order Sources
 
 Not all seed companies are equal. An ethical vegetable-garden seed business has a genuine purpose: to help independent persons grow more of their own food more economically and nutritiously. This requires specific practices — variety trials, germination testing, regional adaptation, and honest business conduct — that distinguish quality suppliers from those merely seeking to profit from the gardening hobby market.
 

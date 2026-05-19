@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fish Pond Stocking Rates and Breeding Control
+## Fish Pond Stocking Rates and Breeding Control
 
 Successful fish pond management requires maintaining populations at optimal density. Too few fish produce low total yields; too many cause stunting, poor water quality, and disease. Additionally, uncontrolled breeding can rapidly upset carefully calculated stocking ratios. This page covers the critical factors of stocking [[growing-gourmet-spawn-rate-optimization]] and the various methods for controlling fish reproduction in managed ponds.
 

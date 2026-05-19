@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is the Difference Between Compost Tea and Compost Extract?
+## What Is the Difference Between Compost Tea and Compost Extract?
 
 ## Short Answer
 Compost tea is a brewed, aerated liquid that extracts and multiplies

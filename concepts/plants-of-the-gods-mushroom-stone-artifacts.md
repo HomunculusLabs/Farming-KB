@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Stone Artifacts
+## Mushroom Stone Artifacts
 
 ## Archaeological Evidence of Sacred Mushroom Use
 

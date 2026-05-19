@@ -5,7 +5,7 @@ type: entity
 tags: [organelle, cell-biology, protein-processing, packaging, plant-cell]
 ---
 
-# Golgi Apparatus
+## Golgi Apparatus
 
 ## Description
 

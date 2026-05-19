@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Rhabdomyosarcoma
+## Cannabis and Rhabdomyosarcoma
 
 The [[metzner-ayahuasca-therapeutic-potential]] of cannabis across various
 conditions. For rhabdomyosarcoma, the CHI scores 2 studies with a

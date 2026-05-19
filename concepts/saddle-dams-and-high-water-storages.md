@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Saddle Dams and High Water Storages
+## Saddle Dams and High Water Storages
 
 Saddle dams and high water storages are foundational elements of [[permaculture]] [[water-management]] strategy. They represent the principle of capturing and storing water at the highest possible point in the landscape, where it can be distributed by gravity to serve multiple functions throughout the system below.
 

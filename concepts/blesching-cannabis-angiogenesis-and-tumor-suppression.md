@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis, Angiogenesis, and Tumor Suppression
+## Cannabis, Angiogenesis, and Tumor Suppression
 
 Angiogenesis, the formation of new blood vessels, is a critical process in
 cancer progression. Tumors require a dedicated blood supply to grow beyond a

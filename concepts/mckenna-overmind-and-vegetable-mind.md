@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# The Overmind and Vegetable Mind
+## The Overmind and Vegetable Mind
 
 ## The Planet as a Sentient Organism
 

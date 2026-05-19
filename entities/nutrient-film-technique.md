@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Nutrient Film Technique (NFT)
+## Nutrient Film Technique (NFT)
 
 ## Description
 

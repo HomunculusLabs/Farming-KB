@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizae and Plant Fitness
+## Mycorrhizae and Plant Fitness
 
 Mycorrhizal associations do more than enhance plant growth—they can fundamentally improve overall plant fitness, including reproductive output and offspring quality. When these fitness benefits are asymmetric across plant species within a community, mycorrhizae become powerful drivers of plant community structure and composition.
 

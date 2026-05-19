@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mineral Deficiency Remedies and Garden Solutions
+## Mineral Deficiency Remedies and Garden Solutions
 
 ## General Garden Approaches by Soil Type
 

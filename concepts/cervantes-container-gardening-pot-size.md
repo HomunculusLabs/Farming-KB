@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Container Gardening and Pot Size for Cannabis
+## Container Gardening and Pot Size for Cannabis
 
 Proper container selection and management are fundamental to [[cervantes-nutrient-stock-solutions-concentrates]] solution until saturated
 4. **Remove the root ball** - Place your hand over the container top with the

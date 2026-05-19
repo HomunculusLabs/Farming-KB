@@ -9,7 +9,7 @@ sources:
   - raw/papers/chos-global-natural-farming.md
 ---
 
-# KNF Fish Amino Acid (FAA)
+## KNF Fish Amino Acid (FAA)
 
 Fish Amino Acid is a liquid fertilizer made from fish waste and brown sugar through osmotic pressure fermentation. It is rich in nitrogen and various amino acids, providing great value to both plants and microorganisms.
 

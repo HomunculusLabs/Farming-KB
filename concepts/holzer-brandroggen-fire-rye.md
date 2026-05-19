@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Brandroggen (Fire Rye) Growing and Processing
+## Holzer Brandroggen (Fire Rye) Growing and Processing
 
 Brandroggen literally means "fire rye" -- rye varieties sown after plant matter has been burnt on meadow land. This is a traditional Austrian mountain [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]] for milling and [[stamets-growing-room-air-circulation-co2-management]]
 

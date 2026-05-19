@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Coccidioides Species Complex and Biogeography
+## Coccidioides Species Complex and Biogeography
 
 ## Overview
 

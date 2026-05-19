@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Ingham — Chelation and Microbial Nutrient Processing
+## Ingham — Chelation and Microbial Nutrient Processing
 
 Elaine Ingham's view of chelation emphasizes that biological chelation is the primary natural mechanism by which mineral nutrients become mobile and available to plants. Synthetic chelation (e.g., EDTA) is an industrial substitute for a process that [[fukuoka-critique-organic-certification]] standards (OMRI, IFOAM)
 

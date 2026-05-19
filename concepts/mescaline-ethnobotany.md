@@ -8,7 +8,7 @@ type: concept
 tags: [ethnobotany, peyote
 ---
 
-# Mescaline Ethnobotany in Plants of the Gods
+## Mescaline Ethnobotany in Plants of the Gods
 
 Schultes and Hofmann document mescaline as one of the most significant
 psychoactive alkaloids in the ethnobotanical record, occurring naturally in

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
 
-# Psilocybe hermescii
+## Psilocybe hermescii
 
 *Psilocybe hermescii* is a rarely documented psilocybin-containing mushroom species from Mexico.
 It is among the lesser-known members of the genus Psilocybe and has been reported primarily from subtropical and tropical forested regions of southern Mexico, where it grows as a saprotroph on decaying plant material.

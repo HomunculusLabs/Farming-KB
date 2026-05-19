@@ -1,5 +1,10 @@
+---
+title: "Sajeev John"
+tags:
+  - entitie
+---
 
-# Sajeev John
+## Sajeev John
 
 ## Overview
 - Sajeev John is a physicist associated with the University of Toronto.
@@ -143,8 +148,3 @@ Successful integration of sajeev john into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

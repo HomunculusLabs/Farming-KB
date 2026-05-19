@@ -8,7 +8,7 @@ sources: [papers/chos-global-natural-farming.md]
 type: query
 ---
 
-# How Does JADAM Natural Farming Differ from Korean Natural Farming?
+## How Does JADAM Natural Farming Differ from Korean Natural Farming?
 
 ## Short Answer
 JADAM and Korean Natural Farming (KNF) both originated in South Korea and share the

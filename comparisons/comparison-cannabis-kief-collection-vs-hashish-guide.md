@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Kief Collection vs Hashish Guide
+## Kief Collection vs Hashish Guide
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Food Web Garden Calendar
+## Soil Food Web Garden Calendar
 
 > Based on Chapter 21 of *Teaming with Microbes* by Jeff Lowenfels and Wayne Lewis.
 > A seasonal guide to managing your garden's soil food web year-round.

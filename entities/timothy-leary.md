@@ -12,7 +12,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Timothy Leary
+## Timothy Leary
 
 Timothy Leary (1920–1996) was an American psychologist, writer, and counterculture icon who became the most prominent public advocate for psychedelic drugs in the 1960s. Former Harvard professor whose experiments with psilocybin and LSD led to his dismissal and global fame. Albert Hofmann described him as "an apostle of LSD" whose activities "primarily promoted the evolution of LSD from remedy to inebriating drug."
 

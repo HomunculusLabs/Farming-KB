@@ -12,7 +12,7 @@ sources:
   - raw/papers/benjamin-minge-duggar-mushroom-growing.md
 ---
 
-# Mushroom Spawn History and Methods
+## Mushroom Spawn History and Methods
 
 Benjamin Minge Duggar's 1905 work *Mushroom Growing* provides one of the most thorough early American accounts of mushroom [[agar-culture-techniques-detailed]] that revolutionized the industry.
 

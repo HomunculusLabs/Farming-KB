@@ -7,7 +7,7 @@ sources:
   - "raw/papers/eliot-coleman-the-new-organic-grower.md"
 ---
 
-# What Is Succession Planting and How Do I Plan a Succession Planting Schedule?
+## What Is Succession Planting and How Do I Plan a Succession Planting Schedule?
 
 ## Short Answer
 

@@ -7,7 +7,7 @@ tags: [soil-biology, fungi, decomposition, mycorrhizae]
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
-# Fungi — The Underground Network
+## Fungi — The Underground Network
 
 Fungi play a key role in the [[teaming-with-microbes-mineralization-and-immobilization]]
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Biofertilizers and Soil Inoculants
+## Biofertilizers and Soil Inoculants
 
 Biofertilizers are living microorganisms that produce or are intimately involved in producing plant nutrients. More and more gardeners are using these live agents as an alternative to or supplement for traditional fertilizers.
 

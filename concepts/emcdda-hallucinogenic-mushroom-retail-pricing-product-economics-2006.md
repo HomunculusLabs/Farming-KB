@@ -5,7 +5,7 @@ tags: [emcdda, pricing, economics, smartshop, retail, market, europe, online-sho
 created: 2026-05-11
 ---
 
-# EMCDDA Hallucinogenic Mushroom Retail Pricing and Product Economics (2006)
+## EMCDDA Hallucinogenic Mushroom Retail Pricing and Product Economics (2006)
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [person, anthropologist, researcher, ayahuasca, shipibo-conibo, ethnography]
 ---
 
-# Gerhard Baer
+## Gerhard Baer
 
 ## Description
 

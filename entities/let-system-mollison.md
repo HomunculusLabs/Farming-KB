@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# LET System (Local Employment Trading System)
+## LET System (Local Employment Trading System)
 
 ## Description
 

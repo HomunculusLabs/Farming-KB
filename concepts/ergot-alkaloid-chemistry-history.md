@@ -8,7 +8,7 @@ sources: [raw/papers/mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Ergot Alkaloid Chemistry and History
+## Ergot Alkaloid Chemistry and History
 
 ## Overview
 

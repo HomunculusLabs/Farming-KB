@@ -14,7 +14,7 @@ sources:
   - s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# [[african-landrace-sativa-strains]]
+## [[african-landrace-sativa-strains]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

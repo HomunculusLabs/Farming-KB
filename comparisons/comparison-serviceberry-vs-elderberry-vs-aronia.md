@@ -13,7 +13,7 @@ sources:
   - "Toensmeier, E. (2016). perennial-vegetables. Chelsea Green Publishing."
 ---
 
-# Serviceberry vs. Elderberry vs. Aronia (Chokeberry)
+## Serviceberry vs. Elderberry vs. Aronia (Chokeberry)
 
 Serviceberry (*Amelanchier* spp.), elderberry (*[[cervantes-powdery-mildew-prevention-treatment]], borers | Very low; virtually pest-free |
 | **Pruning needs** | Light shaping; remove suckers | Annual removal of old canes (3+ yrs) | Minimal; renewal prune every 3–4 years |

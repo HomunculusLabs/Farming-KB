@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Inocybe and Allied Neurotropic Fungi: Taxonomy, Distribution, and Chemistry
+## Inocybe and Allied Neurotropic Fungi: Taxonomy, Distribution, and Chemistry
 
 The genus Inocybe is one of the most surprising members of the neurotropic fungi. While [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] documented the following Inocybe species as containing psilocybin, baeocystin, or related indole compounds:
 

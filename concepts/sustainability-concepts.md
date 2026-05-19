@@ -7,7 +7,7 @@ tags: [regenerative, ecosystem, sustainability]
 sources: [raw/papers/fungi-magazine-fungi-and-sustainability.md]
 ---
 
-# Sustainability Concepts and Frameworks
+## Sustainability Concepts and Frameworks
 
 ## Definition and Philosophy
 

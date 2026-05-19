@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, biosorption, heavy-metals, bioremediation]
 sources: []
 ---
-# Fungal Biosorption Mechanisms
+## Fungal Biosorption Mechanisms
 
 Biosorption is the passive uptake of metal ions, [[bioremediation-fungal-biomass-biosorbent-material]].
 

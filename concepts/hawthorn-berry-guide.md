@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Hawthorn Berry Growing Guide (Crataegus species)
+## Hawthorn Berry Growing Guide (Crataegus species)
 
 ## Overview
 

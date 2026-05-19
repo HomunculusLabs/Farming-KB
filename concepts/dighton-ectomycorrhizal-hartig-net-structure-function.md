@@ -12,7 +12,7 @@ sources:
 type: concept
 ---
 
-# Ectomycorrhizal Hartig Net Structure and Function
+## Ectomycorrhizal Hartig Net Structure and Function
 
 ## Overview
 

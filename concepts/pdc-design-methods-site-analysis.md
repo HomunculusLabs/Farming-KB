@@ -9,7 +9,7 @@ type: concept
 tags: [design]
 ---
 
-# Design Methods and Site Analysis
+## Design Methods and Site Analysis
 
 There is no one true [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] process follows these major phases:
 

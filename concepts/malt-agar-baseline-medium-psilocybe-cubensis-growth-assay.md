@@ -5,7 +5,7 @@ created: 2026-05-09
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 ---
 
-# Malt Agar as a Baseline Medium for Psilocybe Cubensis Mycelial Growth Assays
+## Malt Agar as a Baseline Medium for Psilocybe Cubensis Mycelial Growth Assays
 
 ## Overview
 

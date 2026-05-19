@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [substrate, nutrition, biochemistry, supplementation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Oyster Mushroom Substrate Carbon Nitrogen Ratio
+## Oyster Mushroom Substrate Carbon Nitrogen Ratio
 
 The carbon-to-nitrogen (C/N) ratio is a critical factor determining substrate
 suitability for [[fungi-in-composting-and-agricultural-waste-conversion]] substrates suitable for Pleurotus have

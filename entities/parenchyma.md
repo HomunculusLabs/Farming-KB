@@ -5,7 +5,7 @@ type: entity
 tags: [ground-tissue, plant-anatomy, photosynthesis, storage, regeneration, cell-type]
 ---
 
-# Parenchyma
+## Parenchyma
 
 ## Description
 

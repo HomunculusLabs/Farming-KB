@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Introduction to Permaculture: Origins and the Terrible Time of Day
+## Introduction to Permaculture: Origins and the Terrible Time of Day
 
 The concept of [[permaculture]] emerged in 1975-1976 when [[bill-mollison]], an Australian ecologist and researcher at the University of Tasmania, began publicly articulating a design system for sustainable human settlements. Together with his student [[david-holmgren]], who was writing a thesis on the subject under Mollison's direction, they produced *Permaculture One* — a book that sold 25,000 copies within three years and was out of print by then. This was followed by *Permaculture Two*, which shifted emphasis from theory toward practical application.
 

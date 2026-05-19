@@ -20,7 +20,7 @@ sources:
 - concepts/dynamic-accumulators.md
 ---
 
-# Cover Crop Species Comparison
+## Cover Crop Species Comparison
 
 Cover crops are plants grown primarily to benefit soil rather than for harvest. Selecting the right species depends on your goals (nitrogen fixation, weed suppression, soil conditioning, bee forage), your planting season, and your climate zone. This comparison covers 12 widely-used cover crop species across four families, synthesized from [[cover-cropping-guide]] and related fertility pages.
 

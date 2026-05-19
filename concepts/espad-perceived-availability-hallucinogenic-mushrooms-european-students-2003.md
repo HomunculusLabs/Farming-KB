@@ -16,7 +16,7 @@ tags:
 created: 2026-05-11
 ---
 
-# ESPAD Survey Perceived Availability and Accessibility of Hallucinogenic Mushrooms Among European Students
+## ESPAD Survey Perceived Availability and Accessibility of Hallucinogenic Mushrooms Among European Students
 
 ## Overview
 

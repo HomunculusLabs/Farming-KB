@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Identify and Control Whiteflies on Cannabis?
+## How Do I Identify and Control Whiteflies on Cannabis?
 
 ## Short Answer
 Whiteflies are tiny, moth-like insects that congregate on the undersides

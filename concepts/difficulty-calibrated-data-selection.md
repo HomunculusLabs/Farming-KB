@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [data-selection, training-efficiency, curriculum-learning, synthetic-data]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
+sources: ["raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"]
 type: concept
 ---
 
-# Difficulty-Calibrated Data Selection
+## Difficulty-Calibrated Data Selection
 
 Difficulty-calibrated data selection is the practice of choosing training
 examples based on their difficulty level relative to the model's current

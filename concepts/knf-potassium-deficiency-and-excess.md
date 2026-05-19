@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF Potassium Deficiency and Excess
+## KNF Potassium Deficiency and Excess
 
 Water-soluble potassium (WS-K) is extracted from tobacco stems and
 plays critical roles in enzyme activation, photosynthate translocation,

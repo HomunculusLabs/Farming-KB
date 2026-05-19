@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Energy Descent and Permaculture Adaptation
+## Energy Descent and Permaculture Adaptation
 
 Energy descent is the foundational context for David Holmgren's permaculture framework. In *Permaculture: Principles and Pathways Beyond Sustainability*, Holmgren argues that humanity stands at a unique moment in history — at the peak of global oil production, at the beginning of the end of cheap fossil energy. Rather than viewing this as a catastrophe to be avoided through technological innovation, Holmgren presents energy descent as an inevitable transition that permaculture design principles can help navigate creatively and productively.
 

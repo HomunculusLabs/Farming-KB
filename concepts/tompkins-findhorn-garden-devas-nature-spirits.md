@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Findhorn Garden and the World of Devas
+## Findhorn Garden and the World of Devas
 
 ## Overview
 

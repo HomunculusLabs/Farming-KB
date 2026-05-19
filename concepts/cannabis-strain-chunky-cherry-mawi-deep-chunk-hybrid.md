@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# Chunky Cherry Malawi
+## Chunky Cherry Malawi
 
 > **A sativa-dominant F1 hybrid marrying the legendary potency of
 > southern [[seed-pelleting]] (The Rev), USA        |

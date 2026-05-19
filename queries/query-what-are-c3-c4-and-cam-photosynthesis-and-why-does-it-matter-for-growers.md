@@ -16,7 +16,7 @@ sources: []
 type: query
 ---
 
-# What Are C3, C4, and CAM Photosynthesis, and Why Does It Matter for Growers?
+## What Are C3, C4, and CAM Photosynthesis, and Why Does It Matter for Growers?
 
 ## What is photosynthesis?
 

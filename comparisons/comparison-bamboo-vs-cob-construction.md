@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Bamboo vs Cob Construction: A Comprehensive Comparison
+## Bamboo vs Cob Construction: A Comprehensive Comparison
 
 Bamboo and cob represent two of the most accessible permaculture practitioners. Both offer dramatically lower embodied energy than conventional construction, but they excel in fundamentally different climates, structural roles, and building philosophies. This comparison helps you [[comparison-bamboo-construction-vs-cob-building]] | Cob Construction |
 |-----------|-------------------|-----------------|

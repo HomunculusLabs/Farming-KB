@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Ergosterol as a Fungal Drug Target
+## Ergosterol as a Fungal Drug Target
 
 Ergosterol is the principal sterol in [[ergosterol-fungal-membrane-biology]] fluidity and permeability
 - Regulates membrane protein function

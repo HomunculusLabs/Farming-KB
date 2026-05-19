@@ -5,7 +5,7 @@ topics: soil science, microbiology, edaphology, Cannabis, rhizosphere
 created: 2026-05-11
 ---
 
-# Edaphic Factors and Soil Microbial Community Structure
+## Edaphic Factors and Soil Microbial Community Structure
 
 ## Overview
 

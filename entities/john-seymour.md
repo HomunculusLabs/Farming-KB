@@ -5,7 +5,7 @@ type: entity
 tags: [person, author, ecologist, nutrient-cycling, australia, self-sufficiency]
 ---
 
-# John Seymour
+## John Seymour
 
 ## Description
 

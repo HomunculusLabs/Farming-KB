@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Persephone Days
+## Persephone Days
 
 ## Description
 

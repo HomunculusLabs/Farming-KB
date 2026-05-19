@@ -5,7 +5,7 @@ type: entity
 tags: [person, horticulturist, tagasaste, forage-systems]
 ---
 
-# Doug Davies
+## Doug Davies
 
 ## Description
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal DNA Extraction Methods
+## Fungal DNA Extraction Methods
 Reliable extraction of high-quality DNA from fungal tissues and environmental
 samples is fundamental to all [[biodiversity-fungal-biodiversity-estimation-methods]]
 assessment. Fungi present unique challenges for DNA extraction due to their

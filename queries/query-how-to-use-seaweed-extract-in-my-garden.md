@@ -10,7 +10,7 @@ sources: []
 type: query
 ---
 
-# How to Use Seaweed Extract in My Garden
+## How to Use Seaweed Extract in My Garden
 
 ## Short Answer
 

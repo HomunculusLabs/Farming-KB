@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Legal Prohibition Impact: UK and Netherlands
+## EMCDDA Hallucinogenic Mushroom Legal Prohibition Impact: UK and Netherlands
 
 ## Overview
 

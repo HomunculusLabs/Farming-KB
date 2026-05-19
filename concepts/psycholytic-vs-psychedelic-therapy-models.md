@@ -5,7 +5,7 @@ tags: [metzner, psychedelic-therapy, psycholytic, psychotherapy, lsd, clinical]
 created: 2026-05-08
 ---
 
-# Psycholytic vs. Psychedelic Therapy Models
+## Psycholytic vs. Psychedelic Therapy Models
 
 ## Overview
 

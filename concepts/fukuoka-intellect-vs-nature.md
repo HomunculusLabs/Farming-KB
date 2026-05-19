@@ -5,7 +5,7 @@ source_file: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [natural-farming, fukuoka, philosophy-of-science, environmental-ethics]
 created: 2026-05-10
 ---
-# Fukuoka's Critique of Human Intellect vs. Nature
+## Fukuoka's Critique of Human Intellect vs. Nature
 
 In *The [[fukuoka-road-back-to-nature-overview]]*, domains, becomes
 destructive when applied to the management of living systems. Reason operates by

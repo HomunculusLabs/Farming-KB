@@ -9,14 +9,12 @@ tags:
   - dmt
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md",
-  ]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md",
+  "]
 type: concept
 ---
 
-# Ayahuasca Preparations and Botanical Sources
+## Ayahuasca Preparations and Botanical Sources
 
 Ayahuasca is one of the most important and culturally significant
 [[schultes-peyote-tracks-little-deer]] -- Ethnobotanical documentation

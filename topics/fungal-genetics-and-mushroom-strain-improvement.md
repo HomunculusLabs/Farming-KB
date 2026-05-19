@@ -16,7 +16,7 @@ sources:
   - wiki/concepts/mushroom-cultivator-strain-selection.md
 ---
 
-# Fungal Genetics and Mushroom Strain Improvement
+## Fungal Genetics and Mushroom Strain Improvement
 
 [[fungal-genetics|Fungal genetics]] sits at the intersection of fundamental biology and
 practical cultivation. Fungi are among the most genetically tractable

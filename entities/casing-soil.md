@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Casing Soil
+## Casing Soil
 
 ## Description
 

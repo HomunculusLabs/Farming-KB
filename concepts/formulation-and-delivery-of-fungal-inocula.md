@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Formulation and Delivery of Fungal Inocula
+## Formulation and Delivery of Fungal Inocula
 
 Successful field-scale mycoremediation requires effective formulation and delivery systems that protect fungal inocula during storage, transport, and application while promoting establishment and activity at contaminated sites. This critical but often overlooked aspect determines whether laboratory promise translates to field success.
 

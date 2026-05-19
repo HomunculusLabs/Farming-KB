@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Button Mushroom (Agaricus brunnescens and A. bitorquis) Overview
+## Button Mushroom (Agaricus brunnescens and A. bitorquis) Overview
 
 ## Overview and Historical Context
 

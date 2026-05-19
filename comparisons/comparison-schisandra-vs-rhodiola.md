@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Schisandra vs Rhodiola
+## Schisandra vs Rhodiola
 
 ## Overview
 

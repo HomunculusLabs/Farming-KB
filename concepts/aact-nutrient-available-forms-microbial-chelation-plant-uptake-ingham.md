@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Nutrient Available Forms — Microbial Chelation and Plant Uptake
+## Nutrient Available Forms — Microbial Chelation and Plant Uptake
 
 Elaine Ingham's soil food web framework emphasizes that [[chelation-and-nutrient-availability]] is not simply about total mineral content in soil, but about whether those minerals exist in forms that plant roots can actually absorb.
 

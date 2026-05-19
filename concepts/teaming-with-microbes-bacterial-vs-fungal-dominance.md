@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Bacterial vs Fungal Soil Dominance
+## Bacterial vs Fungal Soil Dominance
 
 A central concept in the [[teaming-with-microbes-fb-ratio]]
 

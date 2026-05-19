@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Holzer Natural Animal Husbandry
+## Holzer Natural Animal Husbandry
 
 Animals are co-workers, not merchandise. This principle underpins Holzer's
 approach to animal husbandry, where every animal has a purpose in the

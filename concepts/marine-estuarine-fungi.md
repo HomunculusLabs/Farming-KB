@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Marine and Estuarine Fungi
+## Marine and Estuarine Fungi
 
 Marine habitats support a diverse assemblage of fungi adapted to saline conditions, including obligate marine species, facultative marine species (also found in freshwater or terrestrial habitats), and terrestrial fungi that survive transit through seawater. Marine mycology encompasses fungi from coastal mangroves to deep ocean sediments.
 

@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-# Fungal Biodiversity Conservation Status
+## Fungal Biodiversity Conservation Status
 
 ## Overview
 

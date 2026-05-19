@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Herbal Smoker
+## JADAM Herbal Smoker
 
 The herbal smoker is a simple device that burns plant material to produce pesticidal smoke inside enclosed spaces, particularly greenhouses. It is especially valuable in winter when liquid pesticide sprays would raise humidity to damaging levels. Smoke fills every corner of the greenhouse, reaching pests that sprays cannot.
 

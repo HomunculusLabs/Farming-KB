@@ -7,7 +7,7 @@ tags: [cannabis, prostate-cancer, cannabinoids, anandamide, CB1-receptor, CB2-re
 aliases: [cannabis-prostate-cancer, cannabinoids-prostate, anandamide-prostate-cancer]
 ---
 
-# Cannabis for Prostate Cancer — Evidence Review
+## Cannabis for Prostate Cancer — Evidence Review
 
 Prostate cancer is the second most common cancer in men worldwide and the fifth leading cause of cancer death. The endocannabinoid system has emerged as a potential therapeutic target for prostate cancer, with [[cannabis-for-prostate-cancer]] for prostate cancer, reflecting three peer-reviewed studies that have been systematically evaluated.
 

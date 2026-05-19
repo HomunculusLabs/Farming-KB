@@ -20,7 +20,7 @@ sources:
   - The Farming Handbook, Peter Nuthall
 type: comparison---
 
-# Living Fences vs Conventional Fencing
+## Living Fences vs Conventional Fencing
 
 Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates [[fukuoka-critique-modern-agriculture]], living fences (hedges, hedgerows, and [[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
 | Blackthorn (*[[comparison-sea-buckthorn-vs-aronia]] (*[[caragana-arborescens]]

@@ -6,7 +6,7 @@ type: concept
 tags: permaculture, community-finance, ethical-investment]
 sources: [raw/papers/bill-bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture|mollison-permaculture-a-designers-manual.md]
 ---
-# Legal Structures
+## Legal Structures
 **Source:** Permaculture: A Designers' Manual, [[permaculture-ethics-and-principles]] and are closely related to [[ethical-investment-and-earth-banking]].
 
 ## Trust Structures

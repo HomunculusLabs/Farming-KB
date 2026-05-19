@@ -22,7 +22,7 @@ sources:
 type: comparison
 ---
 
-# Seaweed Extract vs Fish Hydrolysate
+## Seaweed Extract vs Fish Hydrolysate
 
 Both seaweed extract and [[fish-hydrolysate]] are popular organic liquid fertilizers, but they serve different roles. Seaweed extract is primarily a biostimulant — supplying trace minerals and phytohormones that stimulate growth and stress resistance. Fish hydrolysate is primarily a nitrogen and amino acid source — feeding both plant and soil biology with readily available organic nitrogen. Understanding these distinctions is key to using them effectively.
 

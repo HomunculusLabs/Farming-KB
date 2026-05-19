@@ -4,7 +4,7 @@ aliases: ["Japan magic mushroom law 2002", "Japanese psilocybin regulation", "Na
 tags: [legal, regulation, japan, psilocybin, magic-mushrooms, drug-policy, shirota]
 ---
 
-# Japan Narcotics Control Law and Magic Mushroom Regulation
+## Japan Narcotics Control Law and Magic Mushroom Regulation
 
 ## Overview
 

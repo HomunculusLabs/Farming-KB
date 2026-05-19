@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Food Forest Design and Nursery Techniques
+## Food Forest Design and Nursery Techniques
 
 Food forests are multi-layered perennial food production systems that mimic natural forest ecosystems while providing abundant yields of fruits, nuts, and other edible products. The permaculture approach to food forests integrates intensive nursery techniques with strategic planting design to establish productive systems rapidly, even in tropical and temperate climates.
 

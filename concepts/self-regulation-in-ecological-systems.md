@@ -5,7 +5,7 @@ tags: [permaculture, feedback, self-regulation, ecology, systems]
 created: 2026-05-11
 ---
 
-# Self-Regulation in Ecological Systems
+## Self-Regulation in Ecological Systems
 
 The [[permaculture]] principle "Apply Self-regulation and Accept Feedback" is
 perhaps the most challenging and far-reaching of the twelve principles.

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Nitrogen Deposition Effects on Ectomycorrhizal Diversity and Function
+## Nitrogen Deposition Effects on Ectomycorrhizal Diversity and Function
 
 Nitrogen deposition from atmospheric sources has emerged as one of the most significant drivers of change in ectomycorrhizal fungal communities worldwide. While nitrogen is an essential plant nutrient, chronic elevated deposition disrupts the mutualistic balance between trees and their mycorrhizal partners, with cascading consequences for forest ecosystem function.
 

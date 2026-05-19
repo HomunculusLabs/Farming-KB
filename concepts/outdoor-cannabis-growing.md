@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Outdoor Cannabis Growing
+## Outdoor Cannabis Growing
 
 Outdoor growing is more popular than [[coco-coir-cannabis]] with good drainage. Clear patches to allow sufficient sunshine and cut back roots of
 competing plants.

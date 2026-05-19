@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Potency, Drying, and Extraction
+## Mushroom Potency, Drying, and Extraction
 
 ## Overview
 

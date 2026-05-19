@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Curing Jars
+## Cannabis Curing Jars
 
 ## Overview
 

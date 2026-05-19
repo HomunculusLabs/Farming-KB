@@ -8,7 +8,7 @@ sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: entity
 ---
 
-# Agaricus augustus
+## Agaricus augustus
 
 **Type:** Species
 **Category:** Basidiomycete

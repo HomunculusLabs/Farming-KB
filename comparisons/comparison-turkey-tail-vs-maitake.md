@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Turkey Tail vs Maitake
+## Turkey Tail vs Maitake
 
 ## Overview
 

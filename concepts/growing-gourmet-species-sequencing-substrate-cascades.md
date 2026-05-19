@@ -4,7 +4,7 @@ source: Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
 concepts: [species-sequencing, substrate-recycling, nitrogen-enrichment, permaculture, zero-waste]
 ---
 
-# Species Sequencing: Cascading Substrate Utilization
+## Species Sequencing: Cascading Substrate Utilization
 
 Species sequencing is the practice of running multiple mushroom species through the
 same substrate in succession, each one digesting residual nutrients that previous

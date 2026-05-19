@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
-# Fungi on Living Plants — Anthracnose, Ergot, and Fruit Rots
+## Fungi on Living Plants — Anthracnose, Ergot, and Fruit Rots
 Fungi that infect living plant tissues — leaves, stems, flowers, and fruits
 — include some of the most destructive plant pathogens known. They range
 from biotrophs that can only grow on living tissue to facultative saprobes

@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Holzer on Animal Ethics and Humane Relationship with Nature
+## Holzer on Animal Ethics and Humane Relationship with Nature
 
 ## Overview
 

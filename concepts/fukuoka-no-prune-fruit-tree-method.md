@@ -22,7 +22,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# Fukuoka No-Prune Fruit Tree Method
+## Fukuoka No-Prune Fruit Tree Method
 
 Masanobu Fukuoka's most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
 

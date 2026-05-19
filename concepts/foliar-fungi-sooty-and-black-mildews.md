@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Foliar Fungi — Sooty Molds, Black Mildews, and Downy Mildews
+## Foliar Fungi — Sooty Molds, Black Mildews, and Downy Mildews
 
 ## Overview
 

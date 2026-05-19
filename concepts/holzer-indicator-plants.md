@@ -7,7 +7,7 @@ tags: [permaculture, soil, ph, soil-health, plants, botany, observation, ecology
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Holzer Indicator Plants
+## Holzer Indicator Plants
 
 Sepp Holzer uses indicator plants to assess soil conditions without laboratory testing. Each plant species signals specific soil properties including nitrogen content, moisture levels, compaction, and pH.
 

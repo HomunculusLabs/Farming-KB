@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
-# Cannabis Hybrid Vigor and Phenotypes (Clarke)
+## Cannabis Hybrid Vigor and Phenotypes (Clarke)
 
 ## Hybrid Cross Fundamentals
 

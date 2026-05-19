@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Perlite for Cannabis
+## Perlite for Cannabis
 
 Perlite is a versatile and widely used [[query-how-does-no-till-cannabis-cultivation-work]]. It is made from sand or volcanic glass that has been expanded by heat, resulting in a lightweight, porous material with excellent drainage and aeration properties.
 

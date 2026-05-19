@@ -9,7 +9,7 @@ tags: [psilocybin]
 updated: 2026-04-26
 ---
 
-# Legal Status of Psilocybin Research
+## Legal Status of Psilocybin Research
 
 Powell's *The [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 

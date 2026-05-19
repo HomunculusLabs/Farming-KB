@@ -12,7 +12,7 @@ tags:
   - orchard-management
 ---
 
-# Cottony-Cushion Scale and Red Wax Scale — Natural Biological Control History
+## Cottony-Cushion Scale and Red Wax Scale — Natural Biological Control History
 
 Fukuoka used the histories of two major citrus pests in Japan—the cottony-cushion
 scale and the red wax scale—to illustrate a fundamental principle of natural

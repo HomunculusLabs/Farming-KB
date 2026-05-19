@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Genomics of Arbuscular Mycorrhizal Development
+## Genomics of Arbuscular Mycorrhizal Development
 
 ## Overview
 

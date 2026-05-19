@@ -6,7 +6,7 @@ type: concept
 tags: [herbalism, herbs]
 sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
-# Adaptogenic Herbs Overview
+## Adaptogenic Herbs Overview
 
 Adaptogens help the body resist physiological and psychological stress by
 supporting homeostasis. They modulate rather than suppress or stimulate

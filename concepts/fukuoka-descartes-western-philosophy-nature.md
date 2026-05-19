@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 tags: [fukuoka, philosophy, descartes, western-philosophy, nature, anthropocentrism, eastern-philosophy]
 ---
 
-# Descartes and the Western Philosophy of Nature
+## Descartes and the Western Philosophy of Nature
 
 ## Overview
 

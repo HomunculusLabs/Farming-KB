@@ -4,7 +4,7 @@ source: chos-global-natural-farming.md
 tags: [natural-farming, nutritive-cycle, plant-growth, cho-han-kyu, KNF, sustainable-agriculture]
 ---
 
-# [[building-soil]] health over time rather than depleting it.
+## [[building-soil]] health over time rather than depleting it.
 
 ## Historical Context
 

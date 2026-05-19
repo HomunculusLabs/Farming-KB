@@ -6,7 +6,7 @@ tags: [fukuoka, rice, paddy, levee, traditional-tools, water-management, no-till
 created: 2026-05-08
 ---
 
-# Earthen Levee Building as Artistic and Religious Work
+## Earthen Levee Building as Artistic and Religious Work
 
 ## Overview
 

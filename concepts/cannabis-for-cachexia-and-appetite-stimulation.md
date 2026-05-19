@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Cachexia and Appetite Stimulation
+## Cannabis for Cachexia and Appetite Stimulation
 
 updated: 2026-04-18
 

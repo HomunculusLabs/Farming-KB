@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 tags: [vegetalista, shamanism, amazon, peru, plant-medicine, ayahuasca, shipibo]
 ---
 
-# Vegetalista Shamanism
+## Vegetalista Shamanism
 
 The vegetalista tradition is a system of Amazonian plant medicine and
 [[planetary-spirits-spiritual-healing]] practiced throughout the Peruvian Amazon, particularly

@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Organic Phosphorus, Potassium, and Calcium Fertilizers
+## Organic Phosphorus, Potassium, and Calcium Fertilizers
 
 Organic gardeners rely on naturally derived mineral and biological sources for phosphorus (P), potassium (K), and calcium (Ca). Understanding the characteristics, application rates, and soil conditions required for each source is essential for effective nutrient management without disrupting the soil food web.
 

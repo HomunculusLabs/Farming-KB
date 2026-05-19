@@ -10,7 +10,7 @@ tags: [pihkal, phenethylamine, 2c-family, hallucinogen, psychoactive]
 aliases: []
 ---
 
-# 2C-T-9 — 2,5-Dimethoxy-4-(t)-butylthiophenethylamine
+## 2C-T-9 — 2,5-Dimethoxy-4-(t)-butylthiophenethylamine
 
 ## Overview
 

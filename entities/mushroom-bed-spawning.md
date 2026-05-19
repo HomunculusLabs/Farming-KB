@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cultivation-process, spawning, bed-management]
 ---
 
-# Mushroom Bed Spawning
+## Mushroom Bed Spawning
 
 ## Description
 

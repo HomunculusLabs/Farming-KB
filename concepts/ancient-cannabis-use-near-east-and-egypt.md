@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
 ---
-# Ancient Cannabis Use in the Near East and Egypt
+## Ancient Cannabis Use in the Near East and Egypt
 
 The history of cannabis use in the Near East and Egypt extends back nearly four millennia, making it one of the oldest documented psychoactive plant traditions in human civilization. Archaeological, textual, and ethnobotanical evidence reveals a complex pattern of cannabis utilization spanning medical, religious, recreational, and industrial applications across multiple ancient civilizations.
 

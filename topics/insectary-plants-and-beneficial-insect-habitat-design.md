@@ -23,7 +23,7 @@ related_concepts:
   - gaias-garden-beneficial-insects-gallery
 ---
 
-# Insectary Plants and Beneficial Insect Habitat Design
+## Insectary Plants and Beneficial Insect Habitat Design
 
 ## Overview
 

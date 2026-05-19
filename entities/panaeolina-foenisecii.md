@@ -1,14 +1,14 @@
 ---
-title: guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses
+title: "Panaeolina Foenisecii"
 created: 2026-04-28
 type: species
 tags: [panaeolina, psilocybin, grassland, saprotrophic, cosmopolitan]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Panaeolina foenisecii
+## Panaeolina foenisecii
 
 **Mower's Mushroom** | *Panaeolina foenisecii* (Pers.) Maire
 

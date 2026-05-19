@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Rice Blast Disease and Magnaporthe grisea
+## Rice Blast Disease and Magnaporthe grisea
 
 Magnaporthe grisea is a heterothallic, phytopathogenic ascomycete
 capable of infecting over 50 species of grass. The most economically

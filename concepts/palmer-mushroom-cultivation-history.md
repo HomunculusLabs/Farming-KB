@@ -9,7 +9,7 @@ related: [palmer-edible-mushrooms-north-america, palmer-mushroom-folklore-cultur
 type: concept
 updated: 2026-04-26
 ---
-# [[agaricus-campestris]]*) were "the only species of fungus which is ever propagated artificially"
+## [[agaricus-campestris]]*) were "the only species of fungus which is ever propagated artificially"
 - "So far as known, it is the only species susceptible of cultivation"
 - This single fact explained why it alone was called "a mushroom" while hundreds of other edible species were dismissed as "toadstools"
 

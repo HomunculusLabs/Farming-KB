@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungicolous Fungi and Mycoparasite-Host Interfaces
+## Fungicolous Fungi and Mycoparasite-Host Interfaces
 
 ## Definition and Scope
 

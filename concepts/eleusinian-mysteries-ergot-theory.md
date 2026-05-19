@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Eleusinian Mysteries: The Ergotized Beer Theory
+## Eleusinian Mysteries: The Ergotized Beer Theory
 
 The [[wasson-hofmann-ruck-theory]] in 1977. The question of what substance could have produced the consistently transformative visionary experiences reported by initiates remains one of the most enduring puzzles in the study of ancient religion.
 

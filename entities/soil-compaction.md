@@ -5,7 +5,7 @@ type: entity
 tags: [soil-condition, soil-structure, soil-food-web, management]
 ---
 
-# Soil Compaction
+## Soil Compaction
 
 ## Description
 

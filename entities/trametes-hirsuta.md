@@ -5,10 +5,10 @@ type: species
 tags: [polyporaceae, medicinal-mushroom, white-rot, bioremediation, immunomodulatory]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Trametes hirsuta
+## Trametes hirsuta
 
 *Trametes hirsuta*, commonly known as the hairy bracket or hairy trametes, is a species of wood-decay basidiomycete fungus in the family Polyporaceae. While less commercially prominent than its close relative *[[fungal-manganese-peroxidase-remediation]] (MnP), and lignin peroxidase (LiP). This ligninolytic activity makes *T. hirsuta* one of the principal agents of wood decomposition in forest ecosystems and a valuable organism for biotechnological applications.
 

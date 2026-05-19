@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Sida rhombifolia
+## Sida rhombifolia
 
 Sida rhombifolia, commonly known as picao preto, Queensland hemp,
 arrowleaf sida, or broomweed, is an annual or perennial herb in

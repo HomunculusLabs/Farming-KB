@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Sulfur and Herbal Solutions — Disease and Pest Control Recipes
+## JADAM Sulfur and Herbal Solutions — Disease and Pest Control Recipes
 
 ## Overview
 

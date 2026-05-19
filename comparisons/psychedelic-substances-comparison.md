@@ -6,7 +6,7 @@ type: comparison
 tags: [psychedelics, comparison]
 sources: []
 ---
-# Psychedelic Substances Comparison
+## Psychedelic Substances Comparison
 
 Understanding the key differences between major psychedelic substances is essential for harm reduction, therapeutic context, and informed decision-making. This comparison covers eight widely used psychedelic and empathogenic compounds across practical dimensions relevant to both clinical and recreational settings. For detailed compound profiles, see [[psychedelic-dose-response]].
 

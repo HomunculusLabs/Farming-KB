@@ -21,7 +21,7 @@ sources:
   - wiki/raw/papers/ (mycological and ethnopharmacological references)
 ---
 
-# Fomitopsis officinalis
+## Fomitopsis officinalis
 
 **Fomitopsis officinalis**, commonly known as **agarikon**, the **quinine conk**, or the **larch polypore**, is a large, woody, perennial polypore fungus in the family Fomitopsidaceae. It is one of the most historically significant [[panax-ginseng]]. It has also been placed in the genera *Fomes*, *Polyporus*, and *Laricifomes* (the latter still used by some authorities, particularly for Asian specimens).
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ergot and St. Anthony's Fire
+## Ergot and St. Anthony's Fire
 
 Ergot (*[[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece, the most important religious
 initiation ceremony of the ancient Hellenic world. The mysteries at

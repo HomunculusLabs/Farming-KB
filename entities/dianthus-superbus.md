@@ -16,7 +16,7 @@ sources:
   - Wu Z.Y., Raven P.H. (2001). "Caryophyllaceae." In: Flora of China, Vol. 6. Science Press/Missouri Botanical Garden.
 ---
 
-# Dianthus superbus (Fringed Pink)
+## Dianthus superbus (Fringed Pink)
 
 ## Overview
 

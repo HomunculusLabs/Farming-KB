@@ -14,7 +14,7 @@ sources:
   - Amagase, H. & Farnsworth, N.R. (2011). "A Review of Botanical Characteristics, Phytochemistry, Clinical Relevance in Efficacy and Safety of functional-foods-medicinal-mushrooms, 59, 234-243.
 ---
 
-# Lycium chinense
+## Lycium chinense
 
 ## Overview
 

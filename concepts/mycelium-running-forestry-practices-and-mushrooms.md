@@ -9,7 +9,7 @@ type: concept
 tags: [forest-garden, mushroom-cultivation, mushrooms, mycelium]
 ---
 
-# Mycoforestry: Forest Management with Mushrooms
+## Mycoforestry: Forest Management with Mushrooms
 
 [[mycoforestry-forest-restoration]] research project on Cortes Island, British Columbia. The
 clear-cut portion was divided into test plots with 35,000 Douglas fir

@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Chromatography for Cannabinoid Purification
+## Cannabis Chromatography for Cannabinoid Purification
 
 Chromatography is an advanced analytical and preparative technique used to separate the individual components of [[lemon-cannabis-alchemy-advanced-refinement-techniques]], chromatography serves as a powerful purification method capable of removing non-psychoactive constituents from hashish extracts, isolating specific cannabinoids, and producing materials of extremely high purity. While more complex than solvent extraction or winterization, chromatography achieves separations that are impossible through simpler methods.
 

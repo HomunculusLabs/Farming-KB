@@ -12,7 +12,7 @@ sources:
   - Reich, L. (2001). *Landscaping with Fruit*. Storey Publishing.
 ---
 
-# Hazelnut Cultivation and Variety Guide
+## Hazelnut Cultivation and Variety Guide
 
 The hazelnut (also called filbert or cobnut) is a versatile, long-lived nut-producing shrub or small tree in the genus *Corylus* (family Betulaceae). Cultivated for thousands of years, hazelnuts rank among the most important nut crops worldwide, prized for their rich flavor, high nutritional value, and adaptability to diverse growing systems — from commercial orchards to permaculture-food-waste-cyclingod-forests-design-course.
 

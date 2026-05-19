@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
 type: concept
 ---
-# Insectary Plants and Beneficial Insects
+## Insectary Plants and Beneficial Insects
 
 Attracting beneficial insects is one of the most powerful strategies
 for natural pest control and pollination in the ecological garden. By

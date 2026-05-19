@@ -8,7 +8,7 @@ categories:
   - sustainability
 ---
 
-# Ron Spinosa
+## Ron Spinosa
 
 ## Description
 

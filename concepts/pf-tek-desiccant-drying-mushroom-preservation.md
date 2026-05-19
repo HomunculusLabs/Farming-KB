@@ -3,7 +3,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [pf-tek, mushroom-cultivation, psilocybe-cubensis]
 ---
 
-# PF TEK Desiccant Drying and Mushroom Preservation
+## PF TEK Desiccant Drying and Mushroom Preservation
 
 ## The Importance of Cool Desiccation
 

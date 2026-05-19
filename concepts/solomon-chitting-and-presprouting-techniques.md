@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Chitting and Presprouting Techniques (Solomon)
+## Chitting and Presprouting Techniques (Solomon)
 
 From [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in parsley seed can inhibit germination — soaking the seeds in warm water for 24 hours before chitting further improves results.
 - **Celery and celeriac:** Among the most challenging vegetables to germinate from seed. Both require light for germination and consistent moisture. Chit on the surface of barely damp medium — do not cover. Maintain 20-25°C and high humidity.

@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [mycology, evaporative-demand, tropism, wind, humidity, light, temperature, psilocybe-cubensis, boundary-layer]
 ---
 
-# Four Factors of Evaporative Demand in Mushroom Tropism
+## Four Factors of Evaporative Demand in Mushroom Tropism
 
 ## Overview
 

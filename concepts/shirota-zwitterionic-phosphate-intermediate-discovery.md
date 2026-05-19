@@ -6,7 +6,7 @@ source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamat
 created: 2026-05-09
 ---
 
-# Zwitterionic Phosphate Intermediate Discovery
+## Zwitterionic Phosphate Intermediate Discovery
 
 One of the most significant findings in Shirota, Hakamata, and Goda's 2003
 synthesis of [[gottlieb-psilocybin-production-extraction-methods]] by simple

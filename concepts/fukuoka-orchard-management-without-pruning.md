@@ -10,7 +10,7 @@ type: concept
 tags: [fukuoka, orchard, pruning]
 ---
 
-# Fukuoka Orchard Management Without Pruning
+## Fukuoka Orchard Management Without Pruning
 
 Masanobu Fukuoka's approach to orchard management represents one of the most challenging and radical applications of his [[fukuoka-orchard-soil-building-without-fertilizers]].
 

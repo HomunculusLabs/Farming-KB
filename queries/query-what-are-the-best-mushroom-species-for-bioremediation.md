@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Best Mushroom Species for Bioremediation?
+## What Are the Best Mushroom Species for Bioremediation?
 
 ## Short Answer
 The most effective mushroom species for bioremediation are

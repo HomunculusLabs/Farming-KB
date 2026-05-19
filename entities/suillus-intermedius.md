@@ -9,7 +9,7 @@ tags:
   - boletales
 ---
 
-# Suillus intermedius
+## Suillus intermedius
 
 ## Description
 

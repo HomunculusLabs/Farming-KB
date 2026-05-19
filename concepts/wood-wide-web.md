@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ecology, mycology, forestry, networks, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Wood Wide Web
+## Wood Wide Web
 
 [[teaming-with-microbes-fungi-the-underground-network]] of
 [[fungal-mycelial-networks-nutrient-translocation]]

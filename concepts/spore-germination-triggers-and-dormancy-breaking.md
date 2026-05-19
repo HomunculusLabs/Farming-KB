@@ -1,4 +1,8 @@
-# Spore Germination Triggers and Dormancy Breaking
+---
+title: "Spore Germination Triggers and Dormancy Breaking"
+tags:
+  - concept
+---
 
 Mushroom spores are remarkably resilient survival structures capable of
 persisting in the environment for months or years before germinating. This

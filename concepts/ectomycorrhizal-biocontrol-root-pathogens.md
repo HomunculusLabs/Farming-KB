@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Biocontrol of Root Pathogens
+## Ectomycorrhizal Biocontrol of Root Pathogens
 
 Ectomycorrhizal (ECM) fungi have demonstrated significant potential as biocontrol agents against root pathogenic fungi in tree seedlings. This protective function operates through both physical and chemical mechanisms, and has important implications for forest [[nursery-management]], reforestation, and our understanding of plant community dynamics in natural ecosystems.
 

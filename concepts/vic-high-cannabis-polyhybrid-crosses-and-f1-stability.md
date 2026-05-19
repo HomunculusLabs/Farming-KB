@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Polyhybrid Crosses and F1 Stability
+## Cannabis Polyhybrid Crosses and F1 Stability
 
 [[vic-high]]'s breeding text addresses the genetics underlying hybrid crosses and the challenges of maintaining stability when traits are controlled by multiple genes. While the term "polyhybrid" is not used explicitly, the principles governing complex multi-gene inheritance are central to the text's practical breeding advice and directly explain why complex crosses are difficult to stabilise.
 

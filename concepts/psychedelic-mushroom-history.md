@@ -7,7 +7,7 @@ tags: [mycology, history, ethnomycology, ethnobotany, counterculture, culture, e
 sources: ["raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"]
 ---
 
-# Psychedelic Mushroom History
+## Psychedelic Mushroom History
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# How Trees Interact with Rain
+## How Trees Interact with Rain
 
 ## The Destructive Impact of Rain on Bare Soil
 

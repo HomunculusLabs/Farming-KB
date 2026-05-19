@@ -22,7 +22,7 @@ sources:
   - Dutta, A. et al. (2019). "Brucine: A comprehensive review of its pharmacology, toxicology, and ethnomedicinal uses." Phytotherapy Research, 33(10), 2515-2530.
 ---
 
-# Brucine
+## Brucine
 
 ## Overview
 

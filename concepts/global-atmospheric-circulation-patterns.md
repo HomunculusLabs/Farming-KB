@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Global Atmospheric Circulation Patterns
+## Global Atmospheric Circulation Patterns
 
 The engines of the atmosphere drive all weather and climate patterns on Earth. Understanding these large-scale circulation systems is essential for [[bill-mollison]] working to harmonize their designs with natural energy flows.
 

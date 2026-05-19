@@ -8,7 +8,7 @@ type: concept
 tags: [entheogen, plants]
 ---
 
-# Nightshade Plants as Entheogens in Plants of the Gods
+## Nightshade Plants as Entheogens in Plants of the Gods
 
 Schultes and Hofmann devote an extensive chapter to the Solanaceae
 (Nightshade Family) as a source of entheogenic plants, documenting how

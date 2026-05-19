@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Amanita muscaria Historical Names and Symbols
+## Amanita muscaria Historical Names and Symbols
 
 ## Overview
 

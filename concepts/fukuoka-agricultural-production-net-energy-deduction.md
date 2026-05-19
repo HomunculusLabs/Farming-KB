@@ -16,7 +16,7 @@ sources:
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
-# Agricultural Production as Net Energy Deduction
+## Agricultural Production as Net Energy Deduction
 
 ## Overview
 

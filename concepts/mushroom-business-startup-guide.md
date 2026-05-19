@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Farm Business Startup Guide
+## Mushroom Farm Business Startup Guide
 
 A practical guide to establishing a mushroom production farm, based on Step 19
 of the mushroom cultivation training manual. Covers the full procedure from

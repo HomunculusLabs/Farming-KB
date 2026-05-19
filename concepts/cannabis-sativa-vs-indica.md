@@ -7,7 +7,7 @@ sources:
 created: 2026-05-10
 ---
 
-# Cannabis Sativa vs Indica
+## Cannabis Sativa vs Indica
 
 ## Overview
 

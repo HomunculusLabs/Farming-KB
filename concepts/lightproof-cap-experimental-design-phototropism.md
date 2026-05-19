@@ -7,7 +7,7 @@ sources:
   - raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Lightproof Cap and Opaque Tube Experimental Design in Phototropism Research
+## Lightproof Cap and Opaque Tube Experimental Design in Phototropism Research
 
 The **lightproof cap and opaque tube experimental design** stands as one of the
 most elegant methodological innovations in the history of plant biology. Developed

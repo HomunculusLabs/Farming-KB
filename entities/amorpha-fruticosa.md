@@ -15,7 +15,7 @@ sources:
   - USDA NRCS. "Amorpha fruticosa L." PLANTS Database. https://plants.usda.gov
 ---
 
-# Amorpha fruticosa
+## Amorpha fruticosa
 
 ## Overview
 

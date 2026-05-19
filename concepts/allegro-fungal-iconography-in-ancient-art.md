@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Fungal Iconography in Ancient Art
+## Fungal Iconography in Ancient Art
 
 Allegro argues that mushroom imagery pervades [[allegro-amanita-muscaria-properties-and-pharmacology]]: a rounded cap with dots or warts, a distinct stem, and sometimes a visible volva at the base. The "sacred tree" motif so common in Assyrian art is, in his view, a stylized mushroom — the "tree of life" that gives knowledge and immortality.
 

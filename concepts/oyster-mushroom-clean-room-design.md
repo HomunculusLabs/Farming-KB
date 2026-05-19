@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, cultivation, mushrooms]
 sources: []
 ---
-# Oyster Mushroom Clean Room Design for Spawn Production A clean room provides a hygienically sterile enclosed airspace where mushroom mycelium can be isolated from competing organisms. This page describes a simple, low-cost clean room design suitable for teaching, learning, and experimenting with [[cuthill-mushroom-spawn-preparation-historical]] production**, but is excellent for small-scale growers producing their own spawn.
+## Oyster Mushroom Clean Room Design for Spawn Production A clean room provides a hygienically sterile enclosed airspace where mushroom mycelium can be isolated from competing organisms. This page describes a simple, low-cost clean room design suitable for teaching, learning, and experimenting with [[cuthill-mushroom-spawn-preparation-historical]] production**, but is excellent for small-scale growers producing their own spawn.
 
 The clean room can be used to:
 - Inoculate [[comparison-laminar-flow-hood-vs-fruiting-chamber]] bench (HEPA filter/fan) | Fan output: 400–500 CFM; HEPA filter depth ≤ 6" (15 cm) |

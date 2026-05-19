@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Four Stages of Abandoning the Mystery
+## Four Stages of Abandoning the Mystery
 
 ## Overview
 

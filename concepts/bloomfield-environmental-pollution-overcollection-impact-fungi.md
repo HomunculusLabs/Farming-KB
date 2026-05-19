@@ -5,7 +5,7 @@ author: Nicholas P. Money
 topics: mycology, ecology, conservation, pollution, biodiversity
 ---
 
-# Environmental Pollution and Overcollection Impact on Fungi
+## Environmental Pollution and Overcollection Impact on Fungi
 
 Fungi, though often overlooked in conservation discussions, are among the
 organisms most sensitive to environmental degradation. Air pollution,

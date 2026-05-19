@@ -10,7 +10,7 @@ sources:
   - "Gartz J. Magic Mushrooms fungi-around-the-world-species-distribution"
   - "Schultes RE, Hofmann A. Plants of the Gods"
 ---
-# Claviceps paspali
+## Claviceps paspali
 ## Overview
 *Claviceps paspali* is a sclerotium-forming fungal pathogen in the family Clavicipitaceae that parasitizes grasses of the genus *Paspalum*. It is distinguished from the well-known cereal ergot *C. purpurea* by its host specificity, geographic range, and alkaloid profile. *C. paspali* is the causative agent of "paspalum staggers," a neurological syndrome in livestock that results from ingestion of sclerotia-contaminated forage. The fungus produces a characteristic suite of clavine alkaloids — notably paspaline, paspalicine, and paspalinine — that differ structurally from the peptide ergot alkaloids (ergotamine, [[serotonin]] and dopamine receptors, generating pharmaceutical interest. *C. paspali* is also used as a model organism in alkaloid biosynthesis research and experimental endophyte studies. Unlike *C. purpurea*, which has caused devastating ergotism epidemics in human populations through contaminated grain, *C. paspali* is primarily a veterinary concern affecting grazing animals on infested pastures.
 ## Taxonomy and Naming

@@ -4,7 +4,7 @@ source: Oner, S.T. & The Rev (2014). Cannabis Sativa Vol. 3. Green Candy Press.
 tags: [chunky-cherry-malawi, cannabis-genetics, malawi-gold, african-sativa, landrace, strain-profile, oner]
 ---
 
-# Chunky Cherry Malawi — African Sativa × Indica Hybrid Landrace Cross
+## Chunky Cherry Malawi — African Sativa × Indica Hybrid Landrace Cross
 
 ## Overview
 

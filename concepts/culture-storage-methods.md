@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Culture Storage Methods
+## Culture Storage Methods
 
 Proper storage of [[brassinosteroids-in-fungal-cultures]] is essential for preserving [[biodiversity-fungal-genetic-diversity]], maintaining strain vigor, and ensuring the long-term viability of a cultivation program. Multiple storage methods exist, each with different capacity for duration, complexity, and equipment requirements. The best practice is to maintain cultures in multiple forms at multiple locations to guard against catastrophic loss.
 

@@ -15,7 +15,7 @@ sources:
   - raw/particles/mckenna_t-tryptamines_consciousness.md
 ---
 
-# Terence McKenna's Stoned Ape Hypothesis
+## Terence McKenna's Stoned Ape Hypothesis
 
 Terence McKenna's speculative theory that psilocybin mushrooms played a catalytic role in the rapid evolution of human consciousness, language, and culture.
 

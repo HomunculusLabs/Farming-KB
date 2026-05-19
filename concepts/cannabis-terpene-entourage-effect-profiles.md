@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Terpene Entourage Effect Profiles
+## Cannabis Terpene Entourage Effect Profiles
 
 The "entourage effect" describes the synergistic interaction between cannabinoids, terpenes, and other cannabis constituents that produces [[greg-green-thc-and-cannabinoid-science]] is (E)-beta-caryophyllene ((E)-BCP), identified by international researchers (2008, 2012) as a functional, non-psychoactive CB2 agonist.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Pellet Formation in Bioremediation
+## Fungal Pellet Formation in Bioremediation
 
 Fungal pellet formation is a critical morphological phenomenon that
 significantly influences bioreactor performance in bioremediation and

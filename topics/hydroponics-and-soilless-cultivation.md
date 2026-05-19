@@ -33,7 +33,7 @@ related_concepts:
   - mycorrhizal-hydroponic-systems
 ---
 
-# Hydroponics and Soilless Cultivation
+## Hydroponics and Soilless Cultivation
 
 Hydroponics is the cultivation of plants without field soil, using
 water, dissolved mineral nutrients, inert media, and carefully managed

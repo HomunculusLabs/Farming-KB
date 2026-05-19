@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Adaptive Anemotropism and Spore Dispersal Optimization in Mushrooms
+## Adaptive Anemotropism and Spore Dispersal Optimization in Mushrooms
 
 ## Overview
 

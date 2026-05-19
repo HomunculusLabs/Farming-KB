@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Insect Pest Management
+## JADAM Insect Pest Management
 
 JADAM organizes insect [[ultra-low-jadam-wetting-agent-jwa]] for wetting power, these control virtually all crop pests.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [adjuvant, sticker-spreader, foliar-application, compost-tea, saponin]
 ---
 
-# Nu-Film Sticker-Spreader
+## Nu-Film Sticker-Spreader
 
 ## Description
 

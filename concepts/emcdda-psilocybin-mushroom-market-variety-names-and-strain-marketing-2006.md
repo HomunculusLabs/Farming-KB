@@ -6,7 +6,7 @@ type: concept
 tags: [emcdda, mushroom-market, strain-marketing, cubensis-varieties, smartshop, europe, 2006]
 ---
 
-# EMCDDA Psilocybin Mushroom Market Variety Names and Strain Marketing (2006)
+## EMCDDA Psilocybin Mushroom Market Variety Names and Strain Marketing (2006)
 
 ## Overview
 

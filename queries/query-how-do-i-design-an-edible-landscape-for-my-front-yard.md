@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# How Do I Design an Edible Landscape for My Front Yard?
+## How Do I Design an Edible Landscape for My Front Yard?
 
 ## Short Answer
 

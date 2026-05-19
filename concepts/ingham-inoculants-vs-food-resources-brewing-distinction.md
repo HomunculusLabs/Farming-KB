@@ -7,7 +7,7 @@ wikilinks: compost tea, aact brewing, microbial inoculant, bacterial foods, fung
 created: 2026-05-10
 ---
 
-# Inoculants vs Food Resources in AACT Brewing
+## Inoculants vs Food Resources in AACT Brewing
 
 ## Overview
 

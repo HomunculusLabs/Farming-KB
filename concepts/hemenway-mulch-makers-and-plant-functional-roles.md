@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Mulch Makers and Plant Functional Roles
+## Mulch Makers and Plant Functional Roles
 
 Toby Hemenway organizes plants not by species or appearance but
 by the ecological roles they play in the garden. This functional

@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cultivation, indoor, amateur, substrate, sterilization, spore-syringe, low-cost]
 ---
 
-# Boil-A-Bag Technique
+## Boil-A-Bag Technique
 
 ## Description
 

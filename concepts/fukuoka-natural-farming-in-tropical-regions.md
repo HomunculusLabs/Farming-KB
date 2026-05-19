@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Natural Farming in Tropical Regions
+## Fukuoka Natural Farming in Tropical Regions
 
 Updated: 2026-04-20
 

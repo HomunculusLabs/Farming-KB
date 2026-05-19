@@ -9,7 +9,7 @@ sources:
   - "~/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md"
 ---
 
-# Duggar Tissue Culture and Pure Spawn Method 1915
+## Duggar Tissue Culture and Pure Spawn Method 1915
 
 [[agar-culture-techniques-detailed]] for mushroom spawn
 production in America. His work built upon the earlier efforts of the

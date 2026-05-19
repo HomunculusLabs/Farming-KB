@@ -12,7 +12,7 @@ sources:
   - raw/papers/harner-j-hallucinogens-and-shamanism.md
 ---
 
-# Susto and Andean Folk Illness Categories
+## Susto and Andean Folk Illness Categories
 
 ## Overview
 

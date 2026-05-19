@@ -8,7 +8,7 @@ tags: [plant-biology, photoreception, evolution, comparative-biology,
 sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 
-# Comparative Photoreception in Plants and Animals
+## Comparative Photoreception in Plants and Animals
 
 Plants and animals have independently evolved sophisticated light-sensing
 systems that, while differing in their anatomical organization, share

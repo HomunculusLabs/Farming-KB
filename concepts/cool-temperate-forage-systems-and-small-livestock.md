@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Temperate Forage Systems and Small Livestock
+## Cool Temperate Forage Systems and Small Livestock
 
 Cool temperate permaculture relies heavily on integrated forage systems and small livestock to maintain soil fertility, control weeds, and produce food in climates with short growing seasons, frost risk, and cold winds. Nitrogen-fixing trees, coppice systems, and animal "tractors" form the backbone of these productive landscapes.
 

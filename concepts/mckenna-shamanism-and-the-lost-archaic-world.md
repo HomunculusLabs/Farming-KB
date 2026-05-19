@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany]
 sources: ["papers/mckenna_t-food_of_the_gods.md"]
 ---
 
-# Shamanism and the Lost Archaic World
+## Shamanism and the Lost Archaic World
 
 ## The Archaic Techniques of Ecstasy
 

@@ -6,17 +6,17 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - /Users/t3rpz/wiki/concepts/root-cellar-design-and-construction.md
-  - /Users/t3rpz/wiki/concepts/root-cellaring-and-no-energy-food-storage.md
-  - /Users/t3rpz/wiki/concepts/root-cellaring-guide.md
-  - /Users/t3rpz/wiki/concepts/solomon-on-root-cellaring.md
-  - /Users/t3rpz/wiki/concepts/solomon-root-cellaring-and-crop-storage.md
-  - /Users/t3rpz/wiki/concepts/solomon-root-cellaring-food-preservation.md
-  - /Users/t3rpz/wiki/concepts/mollison-designers-cold-caves-root-cellar-storage.md
-  - /Users/t3rpz/wiki/concepts/faires-no-energy-food-storage.md
-  - /Users/t3rpz/wiki/concepts/vegetable-storage-conditions-by-temperature-and-humidity.md
-  - /Users/t3rpz/wiki/concepts/root-vegetable-storage-guide.md
-  - /Users/t3rpz/wiki/concepts/permaculture-designers-manual-food-storage.md
+  - raw/concepts/root-cellar-design-and-construction.md
+  - raw/concepts/root-cellaring-and-no-energy-food-storage.md
+  - raw/concepts/root-cellaring-guide.md
+  - raw/concepts/solomon-on-root-cellaring.md
+  - raw/concepts/solomon-root-cellaring-and-crop-storage.md
+  - raw/concepts/solomon-root-cellaring-food-preservation.md
+  - raw/concepts/mollison-designers-cold-caves-root-cellar-storage.md
+  - raw/concepts/faires-no-energy-food-storage.md
+  - raw/concepts/vegetable-storage-conditions-by-temperature-and-humidity.md
+  - raw/concepts/root-vegetable-storage-guide.md
+  - raw/concepts/permaculture-designers-manual-food-storage.md
 related_concepts:
   - root-cellar-design-and-construction
   - root-cellaring-and-no-energy-food-storage
@@ -31,7 +31,7 @@ related_concepts:
   - permaculture-designers-manual-food-storage
 ---
 
-# Root Cellars and Cold Storage
+## Root Cellars and Cold Storage
 A root cellar is an earth-tempered cold storage space used to keep food in a
 fresh, living condition after harvest. Unlike canning, drying, freezing, or
 fermentation, [[cover-crop-selection-guide]], harvest

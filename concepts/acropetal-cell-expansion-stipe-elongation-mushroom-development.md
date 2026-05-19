@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [mycology, stipe-elongation, acropetal, cell-expansion, basidiocarp, psilocybe-cubensis, mushroom-development, morphogenesis]
 ---
 
-# Acropetal Cell Expansion and Stipe Elongation in Mushroom Development
+## Acropetal Cell Expansion and Stipe Elongation in Mushroom Development
 
 ## Overview
 

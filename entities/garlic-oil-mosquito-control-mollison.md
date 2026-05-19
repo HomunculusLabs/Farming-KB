@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Garlic Oil Mosquito Control
+## Garlic Oil Mosquito Control
 
 ## Description
 

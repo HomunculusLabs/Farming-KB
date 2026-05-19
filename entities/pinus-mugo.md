@@ -16,7 +16,7 @@ sources:
   - Montesinos-Navarro, A. et al. (2013). "Nurse Plants and Successional Pines." Journal of Ecology 101(5).
 ---
 
-# Pinus mugo
+## Pinus mugo
 
 ## Overview
 

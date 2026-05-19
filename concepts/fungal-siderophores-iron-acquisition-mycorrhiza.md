@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
-# Fungal Siderophores and Iron Acquisition in [[humus-formation-and-soil-organic-matter]] dynamics.
+## Fungal Siderophores and Iron Acquisition in [[humus-formation-and-soil-organic-matter]] dynamics.
 
 ## Isolation and Characterization
 

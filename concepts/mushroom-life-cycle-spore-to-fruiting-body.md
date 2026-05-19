@@ -5,7 +5,7 @@ tags: [mycology, mushroom-biology, life-cycle, spores, mycelium, primordia]
 created: 2026-05-11
 ---
 
-# Mushroom Life Cycle: From Spore to Fruiting Body
+## Mushroom Life Cycle: From Spore to Fruiting Body
 
 ## Overview
 

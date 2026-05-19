@@ -4,9 +4,9 @@ created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/amanita-muscaria-herb-of-immortality.md]
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md"]
 ---
-# Beta-Glucan Receptor Binding and Immune Cell Activation
+## Beta-Glucan Receptor Binding and Immune Cell Activation
 
 The molecular mechanism by which mushroom beta-glucans activate the immune system involves specific receptor binding on immune cells, triggering cascades of cytokine production, cellular activation, and tumour-targeted cytotoxic responses. Understanding this receptor pharmacology is essential for explaining why [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] induces gene expression of TNF-alpha, IL-1, and IL-2, promoting IFN-gamma production
 

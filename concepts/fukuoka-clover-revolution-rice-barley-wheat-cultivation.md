@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# The Clover Revolution: Natural Rice and Barley Cultivation
+## The Clover Revolution: Natural Rice and Barley Cultivation
 
 ## Overview
 

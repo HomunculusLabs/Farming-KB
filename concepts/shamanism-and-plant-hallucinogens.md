@@ -1,4 +1,8 @@
-# Shamanism and Plant Hallucinogens
+---
+title: "Shamanism and Plant Hallucinogens"
+tags:
+  - concept
+---
 
 Shamanism is the archaic practice of entering [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]** (genus [[banisteriopsis-caapi]] with [[diplopterys-cabreraeana]]): A visionary brew used throughout the Amazon
   basin. The Banisteriopsis vine provides MAO inhibitors while the admixture

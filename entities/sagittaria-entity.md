@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Sagittaria (Duck Potato / Arrowhead)
+## Sagittaria (Duck Potato / Arrowhead)
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Causes Cannabis Bud Rot and How to Prevent It?
+## What Causes Cannabis Bud Rot and How to Prevent It?
 
 ## Short Answer
 Bud rot, or botrytis cinerea ([[stamets-growing-room-air-circulation-co2-management]], and cool, damp conditions during the flowering

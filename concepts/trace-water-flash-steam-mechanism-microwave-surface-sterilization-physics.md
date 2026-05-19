@@ -1,4 +1,8 @@
-# Trace Water Flash Steam Mechanism in [[challenge-microorganisms-microwave-surface-sterilization]] sterilization system (MSC-22484) to reliably eliminate
+---
+title: "Trace Water Flash Steam Mechanism in challenge microorganisms microwave surface sterilization sterilization system (MSC-22484) to reliably eliminate"
+tags:
+  - concept
+---
 bacterial spores, which resist dry microwave treatment. The mechanism uses
 controlled water quantities (approximately 9 uL/cm2) to generate localized
 steam under 2.45 GHz [[phase-change-materials-thermal-energy-storage]].

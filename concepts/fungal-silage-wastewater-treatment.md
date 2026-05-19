@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Silage Wastewater Treatment Silage wastewater is one of the most potent agricultural wastes, with a biological oxygen demand (BOD) that can be 300 times greater than raw domestic sewage. Fungal treatment of silage effluent represents an application of [[bioremediation-fungal-biomass-biosorbent-material]] during effluent treatment adds economic value to the process and supports the principles of waste valorization in fungal-wastewater-treatment
+## Fungal Silage Wastewater Treatment Silage wastewater is one of the most potent agricultural wastes, with a biological oxygen demand (BOD) that can be 300 times greater than raw domestic sewage. Fungal treatment of silage effluent represents an application of [[bioremediation-fungal-biomass-biosorbent-material]] during effluent treatment adds economic value to the process and supports the principles of waste valorization in fungal-wastewater-treatment
 - fungal-bioremediation
 - [[fertilizer-pollution-environmental-impact]]
 - 

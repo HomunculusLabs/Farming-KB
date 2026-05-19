@@ -8,7 +8,7 @@ type: concept
 tags: [nutrients]
 ---
 
-# Nutrient Lockout in Cannabis
+## Nutrient Lockout in Cannabis
 
 Nutrient lockout occurs when nutrients present in the [[knf-calcium-deficiency-symptoms]] even when nutrients have been properly applied.
 

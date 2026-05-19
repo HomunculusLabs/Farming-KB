@@ -5,7 +5,7 @@ type: entity
 tags: [technique, grazing-management, pasture, electric-fencing, livestock]
 ---
 
-# Strip Grazing
+## Strip Grazing
 
 ## Description
 

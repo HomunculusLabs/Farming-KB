@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Extraction Basics vs Extraction Methods
+## Extraction Basics vs Extraction Methods
 
 ## Overview
 

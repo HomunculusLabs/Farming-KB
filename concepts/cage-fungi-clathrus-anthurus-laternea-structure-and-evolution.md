@@ -8,7 +8,7 @@ type: concept
 tags: [cage-fungi, clathrus, anthurus, laternea, gasteromycetes, coevolution, insect-dispersal]
 ---
 
-# Cage Fungi — Clathrus, Anthurus, and Laternea
+## Cage Fungi — Clathrus, Anthurus, and Laternea
 
 Cage fungi produce some of the most extraordinary fruiting bodies in the
 fungal kingdom, rivaling the [[growing-gourmet-spore-mass-inoculation-techniques]] to insects in the most effective configuration possible.

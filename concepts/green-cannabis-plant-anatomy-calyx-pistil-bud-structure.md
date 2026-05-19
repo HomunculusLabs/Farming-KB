@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[green-cannabis-grow-bible-plant-training-pruning-and-yield]].
+## [[green-cannabis-grow-bible-plant-training-pruning-and-yield]].
 
 ### Nodes
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Cannabis Terpene Profiles
+## Cannabis Terpene Profiles
 
 ## Overview
 

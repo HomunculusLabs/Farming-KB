@@ -8,7 +8,7 @@ type: concept
 tags: [ecosystem]
 ---
 
-# Wood Decay and Ecosystem Carbon
+## Wood Decay and Ecosystem Carbon
 
 Dighton (2003) examines wood decay by fungi as a major pathway in ecosystem
 carbon cycling, emphasizing the distinct decay strategies of white rot and

@@ -3,7 +3,7 @@ title: Mckenna Shamanism And Techniques Of Ecstasy
 source: mckenna_t-food_of_the_gods.md
 topics: shamanism, ethnobotany, trance, healing, spirituality
 ---
-# McKenna's Shamanism and Techniques of Ecstasy
+## McKenna's Shamanism and Techniques of Ecstasy
 
 [[yakuruna-water-spirits-of-the-amazon]].
 McKenna presents shamanism as the original form of human spiritual

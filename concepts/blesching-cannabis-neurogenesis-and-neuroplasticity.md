@@ -16,7 +16,7 @@ sources:
   - "raw/papers/uwe-blesching-cannabis-health-indexndex.md"
 ---
 
-# Cannabis, Neurogenesis, and Neuroplasticity
+## Cannabis, Neurogenesis, and Neuroplasticity
 
 The capacity of the human brain to generate new neurons (neurogenesis) and to
 reorganize existing neural connections (neuroplasticity) represents one of the

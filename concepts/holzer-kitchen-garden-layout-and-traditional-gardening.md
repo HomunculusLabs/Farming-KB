@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Kitchen Garden Layout and Traditional Gardening
+## Holzer Kitchen Garden Layout and Traditional Gardening
 
 The nicest areas around houses were once reserved for kitchen gardens. There, farmers cultivated valuable fruit, vegetables, and medicinal and [[permaculture-plants-medicinal-herbs-healing]] like monkshood and foxgloves, which catch the eye with their beautiful flowers. These play an important role in interactions within nature and make a significant contribution to healthy soil life.
 

@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Fungal Decomposition and Nutrient Cycling
+## Fungal Decomposition and Nutrient Cycling
 
 ## Overview
 

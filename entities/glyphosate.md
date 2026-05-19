@@ -6,7 +6,7 @@ tags: [herbicide, chemical, agriculture, controversy, plant-nutrition]
 created: 2026-05-14
 ---
 
-# Glyphosate
+## Glyphosate
 
 ## Description
 

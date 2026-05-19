@@ -3,7 +3,7 @@ title: Fukuoka's Non-Causality Principle in Nature
 source: The Natural Way of Farming - natural-farming, philosophy-of-nature, non-causality, mu, epistemology, eastern-philosophy, scientific-method-critique]
 ---
 
-# Fukuoka's Non-Causality Principle in Nature
+## Fukuoka's Non-Causality Principle in Nature
 
 ## Beyond Cause and Effect
 

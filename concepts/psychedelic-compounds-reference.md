@@ -24,7 +24,7 @@ sources:
 - raw/papers/shulgin-a-future-drugs.md
 ---
 
-# Psychedelic Compounds Reference
+## Psychedelic Compounds Reference
 
 Major psychoactive compounds used in ethnobotanical, therapeutic, and research contexts. Dosages are approximate ranges for healthy adults; individual response varies significantly. Additional detail on individual compounds: see [[dmt-reference]], [[mescaline-reference]], [[mdma-reference]].
 

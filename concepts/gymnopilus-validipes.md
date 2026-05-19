@@ -8,7 +8,7 @@ type: concept
 tags: [mycology, gymnopilus, neurotropic-fungi, cortinariaceae, identification, distribution]
 ---
 
-# Gymnopilus validipes
+## Gymnopilus validipes
 
 Gymnopilus validipes is a species of neurotropic mushroom in the family
 Cortinariaceae. It is one of approximately 15 Gymnopilus species known to

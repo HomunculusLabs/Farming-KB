@@ -5,10 +5,10 @@ type: species
 tags: [psilocybe, bluing-species, european, mycology, mediterranean]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe graecia
+## Psilocybe graecia
 
 **Psilocybe graecia** is a bluing [[field-guide-psilocybin-bluing-reaction-identification]] when handled or bruised, especially at the base
 - No annulus (ring) present

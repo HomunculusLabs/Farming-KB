@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Complete Organic Fertilizer Formulation
+## Complete Organic Fertilizer Formulation
 
 ## Overview
 

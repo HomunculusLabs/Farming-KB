@@ -7,7 +7,7 @@ tags: [soil-physics, soil-compaction, soil-health, tillage]
 sources: []
 ---
 
-# Soil Compaction — Diagnosis and Remediation
+## Soil Compaction — Diagnosis and Remediation
 
 ## Definition
 

@@ -26,7 +26,7 @@ sources:
 - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 ---
 
-# Fukuoka's Philosophy in Practice
+## Fukuoka's Philosophy in Practice
 
 Masanobu Fukuoka (1913-2008) developed a farming philosophy rooted in Buddhist "Mu" (emptiness/nothingness) and radical trust in natural systems. His "do-nothing" farming is not laziness but the hardest path: eliminating unnecessary human interventions until only what nature cannot do alone remains. See [[natural-farming-fukuoka]] for the method summary.
 

@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# European Witches Flying Ointment — Historical Evidence and Accounts
+## European Witches Flying Ointment — Historical Evidence and Accounts
 
 ## Overview
 

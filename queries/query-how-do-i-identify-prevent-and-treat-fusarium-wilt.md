@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# How Do I Identify, Prevent, and Treat Fusarium Wilt?
+## How Do I Identify, Prevent, and Treat Fusarium Wilt?
 
 ## Short Answer
 

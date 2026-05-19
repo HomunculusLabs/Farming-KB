@@ -6,7 +6,7 @@ type: concept
 tags: [psychedelics, ethnobotany, mckenna, minoan, dionysus, eleusinian-mysteries, opium, ancient-greece, goddess-culture]
 ---
 
-# Honey, Opium, and the Minoan Roots of Dionysus
+## Honey, Opium, and the Minoan Roots of Dionysus
 
 ## Summary
 

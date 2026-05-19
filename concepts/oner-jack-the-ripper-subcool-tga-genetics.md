@@ -11,7 +11,7 @@ topics:
   - thcv
 ---
 
-# Jack the Ripper — Subcool TGA Genetics
+## Jack the Ripper — Subcool TGA Genetics
 
 ## Overview
 

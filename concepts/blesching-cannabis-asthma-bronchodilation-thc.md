@@ -6,7 +6,7 @@ tags: [cannabis, asthma, bronchodilation, thc, endocannabinoid-system, lung-dise
 created: 2026-05-09
 ---
 
-# Cannabis and Asthma — Bronchodilation via THC and Cannabinoids
+## Cannabis and Asthma — Bronchodilation via THC and Cannabinoids
 
 ## Overview
 

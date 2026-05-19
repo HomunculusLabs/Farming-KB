@@ -10,7 +10,7 @@ sources:
   - Fukuoka M. The Natural Way of Farming: The microdosing-theory-and-practice of green-philosophy. 1987.
 ---
 
-# Non-Discriminating Knowledge and the Critique of Scientific Reductionism
+## Non-Discriminating Knowledge and the Critique of Scientific Reductionism
 
 [[critique-of-scientific-agriculture]] extends far beyond farming technique into a fundamental epistemological challenge to Western scientific method. At the core of [[fukuoka-textdoc-village-philosophy-disappearance]].
 

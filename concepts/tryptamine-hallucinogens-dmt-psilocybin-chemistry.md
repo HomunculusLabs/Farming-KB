@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# Tryptamine Hallucinogens — DMT, Psilocybin, and Molecular Pharmacology
+## Tryptamine Hallucinogens — DMT, Psilocybin, and Molecular Pharmacology
 
 ## Overview
 

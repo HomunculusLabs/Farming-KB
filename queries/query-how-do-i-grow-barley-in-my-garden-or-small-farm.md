@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# How do I grow barley in my garden or small farm?
+## How do I grow barley in my garden or small farm?
 
 ## Short Answer
 

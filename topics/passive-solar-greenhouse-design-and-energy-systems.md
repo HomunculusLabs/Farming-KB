@@ -54,7 +54,7 @@ related_concepts:
   - four-season-farming-and-winter-harvest
 ---
 
-# Passive Solar Greenhouse Design and Energy Systems
+## Passive Solar Greenhouse Design and Energy Systems
 
 Passive solar greenhouse design and [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] Book*.
 

@@ -4,7 +4,7 @@ source_type: paper
 topics: [cannabis, sativa, auto-flowering, lowryder, joint-doctor, ak-47, indoor-growing, outdoor-growing, fast-flowering, high-bred-seeds, berry-flavor]
 ---
 
-# Easy Ryder — Auto-Flowering Sativa by th [[berry-and-small-fruit-growing]] and fruity flavors, and grows well both indoors and outdoors under a 20[[psilocybin-logos-consciousness]] nd the Joint Doctor
+## Easy Ryder — Auto-Flowering Sativa by th [[berry-and-small-fruit-growing]] and fruity flavors, and grows well both indoors and outdoors under a 20[[psilocybin-logos-consciousness]] nd the Joint Doctor
 
 Lowryder by Canada's the Joint Doctor comes up in conversation so regularly with more straight-edge friends that many have memorized the Joint Doctor's website URL and now just send people there. If you are not a pot grower, the idea that you can get super awesome bud in just 60 days is apparently amazing to you — in fact, even experienced pot growers still find it ama [[plutarch-and-cicero-on-the-eleusinian-mysteries]] on the worldwide cannabis com [[dmt-candy-for-the-mind]] For the Easy Ryder strain, the Doct [[allegro-christianity-as-a-fertility-cult]] ds. As a stabilized F1 cross this is a gorgeous little plant that, despite being slightly sativa-dominant, will not get much beyond 2 feet in height and will finish in 56 days of flowering.
 

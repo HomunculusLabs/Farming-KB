@@ -8,7 +8,7 @@ type: concept
 tags: [culture, fruit-tree, permaculture, plants, tree-crop]
 ---
 
-# Permaculture Fruit Trees Selection
+## Permaculture Fruit Trees Selection
 
 A curated selection of fruit-producing trees and shrubs suited to permaculture-feijoa (Acca sellowiana, syn. Feijoa sellowiana)** -- Evergreen shrub or small tree 3-6 m, frost hardy to -12 C. Native to S. Brazil, Uruguay, Paraguay, N. Argentina. Fruit eaten fresh, cooked into jams and jellies, or fermented into wine. High in vitamin C (28 mg/100g), iodine, and antioxidants. Excellent hedge plant; tolerates salt spray. Self-fertile but cross-pollination improves yield. Flowers edible, used in salads. Leaves used medicinally as antiseptic and anti-inflammatory.
 

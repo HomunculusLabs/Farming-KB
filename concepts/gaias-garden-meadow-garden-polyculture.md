@@ -9,7 +9,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
-# Meadow Garden Polyculture
+## Meadow Garden Polyculture
 
 Toby Hemenway's example of a self-sustaining polyculture garden that works like a meadow — providing its own fertilization, weed suppression, [[gaias-garden-cover-crops-soil-building]] like buckwheat choke weeds
 

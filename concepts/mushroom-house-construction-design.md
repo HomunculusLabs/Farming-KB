@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom House Construction and Design
+## Mushroom House Construction and Design
 
 ## Overview
 

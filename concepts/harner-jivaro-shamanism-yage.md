@@ -11,7 +11,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Jivaro Shamanism and Yage (Natem)
+## Jivaro Shamanism and Yage (Natem)
 
 ## The Jivaro Worldview
 

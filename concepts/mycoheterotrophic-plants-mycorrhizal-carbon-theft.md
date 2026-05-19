@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Mycoheterotrophic Plants and Mycorrhizal Carbon Theft
+## Mycoheterotrophic Plants and Mycorrhizal Carbon Theft
 
 Updated: 2026-04-18
 

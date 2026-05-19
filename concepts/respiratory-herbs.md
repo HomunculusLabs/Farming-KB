@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Respiratory Herbs
+## Respiratory Herbs
 
 Respiratory herbs address conditions of the lungs, bronchi, throat, and sinuses including coughs, colds, bronchitis, asthma, allergies, sinusitis, and congestion. Respiratory complaints are among the most common reasons people seek herbal treatment, and herbal medicine offers a rich pharmacopoeia for respiratory support. Herbs for the respiratory system are classified by their primary actions: expectorants, demulcents, antitussives, bronchodilators, antimicrobials, and decongestants.
 
@@ -41,7 +41,7 @@ Steam inhalation should be used with caution in children (risk of burns) and in 
 
 ## Merged: Herbal Syrups
 
-# Herbal Syrups
+## Herbal Syrups
 
 Herbal syrups are sweet, viscous liquid preparations made by combining a concentrated herbal extract or tea with honey, sugar, or other sweeteners. Syrups are particularly valuable for respiratory conditions, coughs, sore throats, and children's medicine because their sweetness masks bitter or unpleasant-tasting herbs and their viscous consistency coats and soothes irritated throat tissue.
 

@@ -1,4 +1,8 @@
-# Fukuoka's Bushman Philosophy: Returning to the Great Spirit Through Nature
+---
+title: "Fukuoka's Bushman Philosophy: Returning to the Great Spirit Through Nature"
+tags:
+  - concept
+---
 
 ## Overview
 

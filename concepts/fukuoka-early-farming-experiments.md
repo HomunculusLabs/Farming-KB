@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Early Farming Experiments
+## Early Farming Experiments
 
 When Masanobu Fukuoka returned to his family farm on Shikoku Island around 1938, he began a series of [[fukuoka-vegetable-disease-insect-resistance]] and his understanding of [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. He allowed weeds to grow freely, observing which species appeared and how they interacted with the [[fukuoka-personal-journey]], [[fukuoka-do-nothing-farming-philosophy]]
 ## Practical Applications

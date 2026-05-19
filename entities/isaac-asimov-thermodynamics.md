@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Isaac Asimov (Thermodynamics)
+## Isaac Asimov (Thermodynamics)
 
 ## Description
 

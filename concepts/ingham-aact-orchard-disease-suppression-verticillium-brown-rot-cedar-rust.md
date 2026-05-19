@@ -7,7 +7,7 @@ type: concept
 tags: [aact, disease-suppression, verticillium, brown-rot, cedar-apple-rust, late-blight, orchard, fireblight, compost-tea, ingham]
 ---
 
-# AACT Orchard Disease Suppression — Verticillium, Brown Rot, Cedar Apple Rust, and Late Blight
+## AACT Orchard Disease Suppression — Verticillium, Brown Rot, Cedar Apple Rust, and Late Blight
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# How to Grow Guava in Different Climates
+---
+title: "How to Grow Guava in Different Climates"
+tags:
+  - querie
+---
 
 A practical FAQ guide covering guava cultivation across tropical, subtropical, Mediterranean, and temperate/container climates.
 
@@ -143,8 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[query-how-do-clay-seed-balls-work-for-natural-farming]]
-- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

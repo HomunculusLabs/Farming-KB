@@ -5,7 +5,7 @@ author: Masanobu Fukuoka
 topics: epistemology, scientific method, induction, deduction, intuitive reasoning
 ---
 
-# Intuitive Reasoning Beyond Induction and Deduction
+## Intuitive Reasoning Beyond Induction and Deduction
 
 The creative roots [[fukuoka-illusions-of-scientific-farming]] studies all aspects of rice production and conducts
 many different tests in an attempt to develop increasingly economical and

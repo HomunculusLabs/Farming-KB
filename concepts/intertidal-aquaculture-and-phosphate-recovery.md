@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Intertidal Aquaculture and Phosphate Recovery
+## Intertidal Aquaculture and Phosphate Recovery
 
 The intertidal zone—the dynamic edge between land and sea that alternates between exposure and submersion with each tidal cycle—represents one of the most productive and designable environments in [[permaculture]]. [[bill-mollison]] drew extensively on traditional coastal management practices from Ireland, Hawaii, Japan, and elsewhere to demonstrate that intertidal aquaculture can produce food, materials, and fertility at scales that rival or exceed terrestrial agriculture.
 

@@ -7,7 +7,7 @@ tags: [photoreception, vision, plant-senses, chamovitz, photoreceptor, rhodopsin
 sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
 
-# Plant Photoreception and the Human Eye Analogy
+## Plant Photoreception and the Human Eye Analogy
 
 In "What a Plant Knows" (2012), [[darwin-phototropism-experiments-plant-light-sensing]] to argue
 that plants possess a legitimate form of **vision** — not picture-

@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 3C-E (2C-E-4ETO)
+## 3C-E (2C-E-4ETO)
 
 **Chemical name:** 3,5-Dimethoxy-4-ethoxyamphetamine
 

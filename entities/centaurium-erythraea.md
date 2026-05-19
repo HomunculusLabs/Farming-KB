@@ -17,7 +17,7 @@ sources:
   - Šiler, B. et al. (2014). "Centauries (Centaurium erythraea, C. pulchellum, C. littorale) as underutilized species." Industrial Crops and Products, 54, 9-17.
 ---
 
-# Centaurium erythraea
+## Centaurium erythraea
 
 ## Overview
 

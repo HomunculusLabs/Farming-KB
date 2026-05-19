@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom vs Toadstool Terminology and Fungal Growth Patterns
+## Mushroom vs Toadstool Terminology and Fungal Growth Patterns
 
 ## The False Dichotomy
 

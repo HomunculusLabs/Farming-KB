@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Kapukiri — Pathogenic Forest Vapors
+## Kapukiri — Pathogenic Forest Vapors
 
 ## Overview
 

@@ -17,7 +17,7 @@ sources:
   - "Breckle, S.W. (2002). Walter's Vegetation of the Earth. Springer."
 ---
 
-# Jezo Spruce (*Picea jezoensis*)
+## Jezo Spruce (*Picea jezoensis*)
 
 ## Overview
 

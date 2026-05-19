@@ -20,7 +20,7 @@ sources:
   - https://www.mycobank.org/ (neurotropic-fungi-taxonomic-classification)
   - Kuo, M. (2024). "Agrocybe cylindracea." MushroomExpert.com.---
 
-# Agrocybe cylindracea (Chestnut Mushroom)
+## Agrocybe cylindracea (Chestnut Mushroom)
 
 ## Overview
 

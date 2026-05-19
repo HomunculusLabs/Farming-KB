@@ -20,7 +20,7 @@ sources:
 - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-# Mushroom Harvesting and Potency
+## Mushroom Harvesting and Potency
 
 Harvest timing, drying method, and storage dramatically affect the quality and potency of cultivated mushrooms. PF (Psylocybe Fanaticus) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying and storage methods, spore printing, and spore syringe preparation.
 

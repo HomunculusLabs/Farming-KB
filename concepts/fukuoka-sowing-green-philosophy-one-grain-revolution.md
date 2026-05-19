@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka]
 ---
 
-# Fukuoka's Green Philosophy and One-Grain Revolution
+## Fukuoka's Green Philosophy and One-Grain Revolution
 
 *Fukuoka's vision for transforming human civilization through [[green-philosophy]]
 - [[det]]

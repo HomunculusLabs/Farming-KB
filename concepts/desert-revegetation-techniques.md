@@ -5,7 +5,7 @@ tags: [farming, natural-farming, desert, revegetation, ecology, restoration]
 created: 2026-05-08
 ---
 
-# Desert Revegetation Techniques
+## Desert Revegetation Techniques
 
 Masanobu Fukuoka's approach to desert revegetation represents one of the most
 ambitious and unconventional [[comparison-natural-farming-vs-permaculture]]

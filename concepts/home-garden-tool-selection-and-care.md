@@ -5,7 +5,7 @@ source_author: Steve Solomon
 tags: [gardening, tools, maintenance, hand-tools, sharpening, low-input, homesteading]
 ---
 
-# Home Garden Tool Selection and Care
+## Home Garden Tool Selection and Care
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizal Phosphorus Acquisition and Ecosystem Services
+## Arbuscular Mycorrhizal Phosphorus Acquisition and Ecosystem Services
 
 Arbuscular mycorrhizal (AM) fungi form one of the most widespread symbioses on Earth,
 associating with the vast majority of terrestrial plant species. Their role in phosphorus

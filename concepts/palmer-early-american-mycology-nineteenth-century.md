@@ -3,7 +3,7 @@ title: Early American Mycology and Palmer's Nineteenth-Century Contributions
 source: About Mushrooms - Julius Auboineau Palmer (1894)
 ---
 
-# Early American Mycology and Palmer's Contributions
+## Early American Mycology and Palmer's Contributions
 
 Julius Auboineau Palmer Jr. (1894) stands as one of the earliest
 American popularizers of mycology, the [[ramsbottom-poisonous-fungi-identification-guide]]" collected articles published over twenty years

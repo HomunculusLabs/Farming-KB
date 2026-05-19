@@ -21,7 +21,7 @@ sources:
   - "Sirirugsa, P. (1999). Thai Zingiberaceae: Species Diversity and Their Uses. Chiang Mai University Press."
 ---
 
-# Alpinia galanga
+## Alpinia galanga
 
 ## Overview
 

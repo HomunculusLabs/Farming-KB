@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Microfungal Field Collection, Laboratory Analysis, Data Handling, and Woody Plant Sampling
+## Microfungal Field Collection, Laboratory Analysis, Data Handling, and Woody Plant Sampling
 
 Comprehensive protocols for sampling microfungi on woody plant substrata, covering field methodology, laboratory processing, culture techniques, data management, and temporal/successional considerations.
 

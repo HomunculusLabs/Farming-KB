@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Galerina autumnalis
+## Galerina autumnalis
 
 > **⚠️ CRITICAL WARNING:** galerina autumnalis is an extremely [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] among the most lethal organisms on Earth.
 

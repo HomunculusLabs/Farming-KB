@@ -1,4 +1,8 @@
-# Victorian Mushroom Spawn and Cultivation
+---
+title: "Victorian Mushroom Spawn and Cultivation"
+tags:
+  - concept
+---
 
 ## Overview
 

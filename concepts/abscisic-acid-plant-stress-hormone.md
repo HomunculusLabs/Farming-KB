@@ -6,7 +6,7 @@ created: 2026-05-10
 source: general-knowledge
 ---
 
-# Abscisic Acid (ABA): Plant Stress Hormone and Dormancy Regulator
+## Abscisic Acid (ABA): Plant Stress Hormone and Dormancy Regulator
 
 Abscisic acid (ABA) is a crucial plant hormone (phytohormone) that plays a central role in plant responses to abiotic stress, particularly drought and salinity, and in regulating [[bloomfield-turgor-pressure-and-hyphal-invasion]]
 - Reduced turgor causes guard cells to deflate and stomatal pores to close

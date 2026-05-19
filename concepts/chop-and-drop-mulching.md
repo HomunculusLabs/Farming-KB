@@ -8,7 +8,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Chop-and-Drop Mulching
+## Chop-and-Drop Mulching
 
 ## What It Is
 

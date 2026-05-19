@@ -7,7 +7,7 @@ tags: [permaculture, aquaculture, ponds, earthworks, water-harvesting, water, ec
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Pond Construction
+## Permaculture Pond Construction
 
 Ponds and small dams are central elements in permaculture water management, serving multiple functions: irrigation, aquaculture, fire control, [[hemenway-backyard-wildlife-habitat]], stock water, and landscape aesthetics. Mollison treats earth dams as the cheapest, easiest, and most locally self-reliant method of water conservation.
 

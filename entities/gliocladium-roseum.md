@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Gliocladium roseum
+## Gliocladium roseum
 
 Gliocladium roseum is a destructive mycoparasitic hyphomycete known for its capacity to attack and kill a wide range of fungal hosts. First described by Barnett and Lilly (1962) as a destructive mycoparasite, it has been investigated extensively for its potential in [[antifungal-secondary-metabolites-coprophilous-fungi]].
 

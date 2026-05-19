@@ -21,7 +21,7 @@ sources:
 - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-# Psilocybin Pharmacology Detail
+## Psilocybin Pharmacology Detail
 
 Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for psilocybin mushrooms. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
 

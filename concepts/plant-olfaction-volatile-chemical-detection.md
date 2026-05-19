@@ -4,7 +4,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication, chamovitz]
 ---
 
-# Plant Olfaction — How Plants Detect Chemical Signals
+## Plant Olfaction — How Plants Detect Chemical Signals
 
 Plants possess a sophisticated ability to detect [[plant-olfaction-volatile-chemical-perception]] signals in
 their environment, a capacity that [[daniel-chamovitz]] explores in Chapter 2 of

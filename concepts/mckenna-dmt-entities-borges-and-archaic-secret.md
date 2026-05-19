@@ -21,7 +21,7 @@ sources:
 type: concept
 ---
 
-# McKenna on DMT Entities, Borges, and the Archaic Secret
+## McKenna on DMT Entities, Borges, and the Archaic Secret
 
 Terence McKenna's 1983 Esalen lecture "Tryptamine [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" and an ascending tone. Within thirty seconds, all available receptor sites are occupied and a complete mode shift occurs. The experiencer arrives in what McKenna calls a "merry go raum" (from the German raum, meaning space), a domed, underground-feeling space where one feels like a child "come out somewhere in eternity."
 

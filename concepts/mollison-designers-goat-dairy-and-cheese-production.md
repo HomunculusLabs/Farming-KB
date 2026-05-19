@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Goat Dairy and Cheese Production
+## Goat Dairy and Cheese Production
 
 Goats are among the most versatile and productive animals in permaculture
 systems. They are efficient converters of browse and pasture into milk, meat,

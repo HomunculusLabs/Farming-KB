@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: entity
 ---
 
-# INVAM (International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi)
+## INVAM (International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi)
 
 ## Description
 

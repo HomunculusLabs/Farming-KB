@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Liming and pH Management
+## Liming and pH Management
 
 Before deciding on a soil-feeding regime, you must first discover
 whether the soil is acid or alkaline. This will have a major effect

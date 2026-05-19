@@ -7,7 +7,7 @@ tags: [entheogen, chemistry, preparation, lab-technique, mycology, psychopharmac
 sources: []
 ---
 
-# Psilocybin Extraction Guide
+## Psilocybin Extraction Guide
 
 ## Overview
 

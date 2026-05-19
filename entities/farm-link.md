@@ -5,7 +5,7 @@ type: entity
 tags: [community, food-system, permaculture, cooperative, urban-rural, CSA]
 ---
 
-# Farm Link (Producer-Consumer Cooperative)
+## Farm Link (Producer-Consumer Cooperative)
 
 ## Description
 

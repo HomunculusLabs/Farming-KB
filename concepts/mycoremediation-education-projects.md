@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycoremediation Education Projects
+## Mycoremediation Education Projects
 
 [[mycoremediation]]—the use of fungi to degrade, sequester, or otherwise neutralize environmental contaminants—provides rich opportunities for project-based learning at every educational level. From simple classroom demonstrations to college-level research programs, these projects teach students about biodegradation, ecological engineering, experimental design, and the profound metabolic capabilities of fungi.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Lichenized Fungi: Taxonomy and Diversity
+## Lichenized Fungi: Taxonomy and Diversity
 
 Source: [[quercus-garryana]]*)
 

@@ -8,7 +8,7 @@ type: concept
 tags: [plants, psychedelics]
 ---
 
-# McKenna on Psychedelic Plant Use in Antiquity
+## McKenna on Psychedelic Plant Use in Antiquity
 
 In [[mckenna-tassili-plateau-round-head-civilization]] in the Sahara provides archaeological evidence: rock paintings from
 the late Neolithic depict shamans dancing with fists full of mushrooms,

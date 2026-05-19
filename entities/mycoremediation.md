@@ -20,7 +20,7 @@ sources:
   - Battelle Memorial Institute - Oil spill remediation studies
 ---
 
-# Mycoremediation
+## Mycoremediation
 
 ## Overview
 

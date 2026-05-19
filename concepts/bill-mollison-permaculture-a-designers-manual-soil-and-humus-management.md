@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Soil and Humus Management Bill Mollison considered soil the foundation of all terrestrial life and dedicated substantial attention to soil science and management in *Permaculture: A Designers' Manual*. He approached soil not as an inert growing medium but as a living ecosystem teeming with bacteria, fungi, protozoa, nematodes, arthropods, and earthworms. The goal of permaculture soil management is to build and maintain a deep, fertile, humus-rich soil that supports abundant plant and animal life. This approach connects to [[permaculture-design]]
+## Soil and Humus Management Bill Mollison considered soil the foundation of all terrestrial life and dedicated substantial attention to soil science and management in *Permaculture: A Designers' Manual*. He approached soil not as an inert growing medium but as a living ecosystem teeming with bacteria, fungi, protozoa, nematodes, arthropods, and earthworms. The goal of permaculture soil management is to build and maintain a deep, fertile, humus-rich soil that supports abundant plant and animal life. This approach connects to [[permaculture-design]]
 of recycling nutrients on-site and turning waste into resources.
 
 ## Mulching

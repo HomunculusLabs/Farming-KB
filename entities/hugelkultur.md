@@ -17,7 +17,7 @@ sources:
   - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green Publishing.
 ---
 
-# Hugelkultur
+## Hugelkultur
 
 ## Overview
 

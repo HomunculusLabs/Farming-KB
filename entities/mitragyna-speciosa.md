@@ -18,7 +18,7 @@ sources:
   - Prozialeck, W.C. et al. (2012). "Kratom: A case of misleading product categorization." J kratom-mitragyna-speciosa-pharmacology: A review of its pharmacology." J Pharm Pharmacol.
 ---
 
-# Mitragyna speciosa
+## Mitragyna speciosa
 
 **[[kratom]]** | **Ketum** | **Thom** | **Ithang** | **Kakuam** | **Biak**
 

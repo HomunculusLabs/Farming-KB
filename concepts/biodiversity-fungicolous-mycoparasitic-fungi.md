@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, mycoparasitism, fungicolous-fungi, fungal-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Fungicolous and Mycoparasitic Fungi [[air-pollution-fungal-community-responses]] dynamics, [[biodiversity-fungal-culture-preservation]]
+## Fungicolous and Mycoparasitic Fungi [[air-pollution-fungal-community-responses]] dynamics, [[biodiversity-fungal-culture-preservation]]
 extracts, for axenic growth. Necrotrophic mycoparasites like
 [[biodiversity-powdery-mildews]], (4) mycelia, sclerotia, and spores in
 soil, and (5) [[coniothyrium-minitans]] parasitizes sclerotia of

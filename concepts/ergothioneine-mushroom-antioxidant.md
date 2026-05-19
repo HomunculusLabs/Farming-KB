@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [nutrition, antioxidant, ergothioneine, mushroom, health, biochemistry, longevity]
 ---
 
-# Ergothioneine — The Mushroom-Derived Longevity Antioxidant
+## Ergothioneine — The Mushroom-Derived Longevity Antioxidant
 
 ## Overview
 

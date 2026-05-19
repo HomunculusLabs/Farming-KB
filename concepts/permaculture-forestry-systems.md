@@ -7,7 +7,7 @@ tags: [permaculture, forestry, agroforestry, trees, coppicing, timber, food-fore
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Forestry Systems
+## Permaculture Forestry Systems
 
 ## Overview
 

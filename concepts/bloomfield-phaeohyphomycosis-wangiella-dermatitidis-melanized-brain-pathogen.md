@@ -21,7 +21,7 @@ tags:
 created: 2026-05-10
 ---
 
-# Wangiella dermatitidis — Phaeohyphomycosis and Brain-Invasion by Melanized Fungi
+## Wangiella dermatitidis — Phaeohyphomycosis and Brain-Invasion by Melanized Fungi
 
 Among the thousands of known fungal species, only a tiny fraction cause
 human disease. Within this small group of pathogens, a subset distinguished

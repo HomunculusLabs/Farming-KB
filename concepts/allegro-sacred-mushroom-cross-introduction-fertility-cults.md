@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Religion Born from Dependency
+## Religion Born from Dependency
 
 In the introduction to *[[amanita-muscaria-in-eastern-religions]] share a common origin. As he writes: "No one religion
 in the ancient Near East can be studied in isolation. All stem from man's first

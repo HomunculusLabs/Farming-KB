@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
-# Keyhole Beds and Mandala Gardens
+## Keyhole Beds and Mandala Gardens
 
 Toby Hemenway's detailed treatment of keyhole beds and mandala gardens as space-efficient, ecologically beneficial garden patterns from Gaia's Garden. These designs use shape and geometry to maximize growing area while minimizing path space.
 

@@ -4,7 +4,7 @@ tags: [mycology, basidiomycete, sexual-reproduction, clamp-connection, dikaryon,
 created: 2026-05-11
 ---
 
-# Basidiomycete Sexual Reproduction and Clamp Connections
+## Basidiomycete Sexual Reproduction and Clamp Connections
 
 The sexual life cycle of basidiomycete fungi represents one of the most distinctive and
 complex reproductive strategies among the fungi. Unlike ascomycetes, which typically produce

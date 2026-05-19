@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Extracellular Enzyme Production
+## Fungal Extracellular Enzyme Production
 
 Filamentous fungi are prolific producers of extracellular enzymes,
 secreting them into the surrounding environment to break down complex

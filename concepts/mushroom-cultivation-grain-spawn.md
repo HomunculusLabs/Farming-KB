@@ -7,7 +7,7 @@ tags: [mushroom-cultivation, grain-spawn, spawn, fungi, mycology, cultivation, s
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
-# Mushroom Cultivation - Grain Spawn
+## Mushroom Cultivation - Grain Spawn
 
 Grain spawn is the primary inoculum used [[contamination-prevention-in-mushroom-cultivation]], consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
 

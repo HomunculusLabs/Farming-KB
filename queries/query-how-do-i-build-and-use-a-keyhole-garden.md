@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# How Do I Build and Use a Keyhole Garden?
+## How Do I Build and Use a Keyhole Garden?
 
 ## Short Answer
 

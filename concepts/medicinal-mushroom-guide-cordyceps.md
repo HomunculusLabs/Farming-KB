@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-# Cordyceps (Cordyceps militaris and Ophiocordyceps sinensis)
+## Cordyceps (Cordyceps militaris and Ophiocordyceps sinensis)
 
 ## Overview
 

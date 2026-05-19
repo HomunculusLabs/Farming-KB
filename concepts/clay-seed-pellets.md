@@ -5,7 +5,7 @@ tags: [farming, natural-farming, seeds, clay-pellets, revegetation, techniques]
 created: 2026-05-08
 ---
 
-# Clay Seed Pellets
+## Clay Seed Pellets
 
 Clay seed pellets, also known as seed balls or clay dumplings (tsuchi dango
 in Japanese), are one of Masanobu Fukuoka's most practical and widely

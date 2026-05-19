@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# AEM
+## AEM
 
 [[cannabis-fractional-distillation-cannabinoids]]. The
 nitrostyrenes all formed reasonably although often in terrible yields,

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Hyphae and Invasive Growth Mechanisms
+## Fungal Hyphae and Invasive Growth Mechanisms
 
 Fungal hyphae are the filamentous, thread-like structures that constitute the
 vegetative body of most fungi. These remarkable cellular structures are the

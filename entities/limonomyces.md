@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, plant-pathogen, turfgrass, leaf-spot, soil-microbiology]
 ---
 
-# Limonomyces
+## Limonomyces
 
 ## Description
 

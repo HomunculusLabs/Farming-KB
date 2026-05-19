@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Photosynthetic Efficiency and CO2 Enrichment
+## Photosynthetic Efficiency and CO2 Enrichment
 
 ## Overview
 

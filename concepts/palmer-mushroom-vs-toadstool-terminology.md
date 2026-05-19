@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mushroom-terminology, mycology-history, nineteenth-century, palmer, popular-errors]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+sources: ["raw/papers/julius-auboineau-palmer-about-mushrooms.md"]
 type: concept
 ---
 
-# Palmer on Mushroom vs Toadstool Terminology
+## Palmer on Mushroom vs Toadstool Terminology
 
 [[julius-auboineau-palmer]] devoted considerable effort throughout his writings
 to correcting what he called the most fundamental error in popular

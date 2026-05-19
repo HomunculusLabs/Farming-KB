@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# TOMSO
+## TOMSO
 
 TOMSO (2-Methoxy-4-methyl-5-methylsulfinylamphetamine) is a sulfoxide metabolite analogue of 5-TOM, designed to explore the metabolic fate of sulfur-containing [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] and the sulfoxide group.
 

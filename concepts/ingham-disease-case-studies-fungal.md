@@ -7,7 +7,7 @@ tags: [soil-biology, composting, microbiology]
 sources: ["papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 ---
 
-# Fungal Disease Case Studies - AACT Treatments
+## Fungal Disease Case Studies - AACT Treatments
 
 Extracted from Elaine Ingham's AACT Field Guide, covering fungal disease
 suppression using [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], the black spot fungus

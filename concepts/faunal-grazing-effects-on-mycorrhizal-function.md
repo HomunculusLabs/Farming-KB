@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Faunal Grazing Effects on Mycorrhizal Function
+## Faunal Grazing Effects on Mycorrhizal Function
 
 Soil fauna exert significant influence on [[mycorrhizal-fungi]] and their functional relationships with host plants. Grazing on extraradical hyphae, mycorrhizal roots, and fungal fruiting bodies by collembola, nematodes, mites, and other soil animals can either enhance or impair mycorrhizal function, depending on grazer density, fungal species, and environmental context. Understanding these interactions is critical because mycorrhizae are central to plant nutrient acquisition, and faunal-mediated changes to their function cascade through ecosystem processes.
 

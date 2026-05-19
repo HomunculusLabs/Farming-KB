@@ -5,10 +5,10 @@ type: chemical
 tags: [terpene, cannabis, sedative, anxiolytic, analgesic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-wcannabis-sativaroduce.md]
+sources: ["raw/papers/the-modern-farm-why-cannabis-grown-wcannabis-sativaroduce.md"]
 ---
 
-# Linalool
+## Linalool
 
 Linalool (3,7-dimethyl-1,6-octadien-3-ol) is a monoterpene alcohol widely distributed in the plant kingdom and recognized as one of the most therapeutically significant terpenes in cannabis (*and plant architecture*). Known for its distinctive floral, lavender-like aroma, linalool contributes calming, sedative, anxiolytic, analgesic, and anti-inflammatory properties to cannabis preparations and has an extensive body of preclinical and [[permaculture-designers-manual-essential-oil-plants]]. In cannabis, linalool is a significant terpene in many cultivars, particularly those with floral or lavender aromas such as Lavender, Amnesia Haze, and LA Confidential. Coriander (*[[coriandrum-sativum]]*) contains high levels of S-(+)-linalool, while sweet orange, bergamot, rosewood, sweet basil, and ho wood are additional significant sources.
 

@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal]
 sources: []
 ---
-# 3C-BZ
+## 3C-BZ
 
 **[[lsd]].
 

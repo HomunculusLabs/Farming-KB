@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I adjust soil pH naturally?
+## How do I adjust soil pH naturally?
 
 ## Short Answer
 

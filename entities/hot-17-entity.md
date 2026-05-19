@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# HOT-17 (2,5-Dimethoxy-4-(s)-butylthio-N-hydroxyphenethylamine)
+## HOT-17 (2,5-Dimethoxy-4-(s)-butylthio-N-hydroxyphenethylamine)
 
 HOT-17 is a phenethylamine compound and the N-hydroxylated derivative of 2C-T-17. It belongs to the HOT (Hydroxylated Ortho-Thio) family of psychedelic substances. The compound is listed as [[2c-t-7]] has an n-propylthio group.
 

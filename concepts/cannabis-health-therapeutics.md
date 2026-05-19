@@ -20,7 +20,7 @@ sources:
 - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Cannabis Health Therapeutics
+## Cannabis Health Therapeutics
 
 Medical cannabis applications organized by condition, with cannabinoid/terpene profiles, delivery methods, evidence levels, and dosing considerations. Based on Blesching's Cannabis Health Index.
 

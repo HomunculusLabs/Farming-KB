@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, arbuscular-mycorrhizal, glomeromycota, restoration]
 ---
 
-# Gigaspora marginata
+## Gigaspora marginata
 
 ## Description
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Leaf Litter Succession
+## Fungal Leaf Litter Succession
 
 Leaf [[fungal-enzymatic-capabilities]] and life history strategies. Understanding
 litter succession is essential for predicting [[humus-formation-and-soil-organic-matter]].

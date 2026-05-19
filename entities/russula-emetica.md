@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycota, ectomycorrhizal, poisonous-mushroom, russulaceae, forest-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Russula emetica
+## Russula emetica
 
 *Russula emetica*, commonly known as the sickener, is a basidiomycete mushroom in the family *Russulaceae*. It is one of the most widely recognized [[symbiotic-fungi-ectomycorrhizal-networks-overview]]. It is relatively tolerant of nutrient-poor soils, as it derives the majority of its carbon from its host tree through the [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungal and plant partners.
 

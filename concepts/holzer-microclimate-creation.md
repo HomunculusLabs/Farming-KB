@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Holzer Microclimate Creation
+## Holzer Microclimate Creation
 
 Creating microclimates is one of [[holzer-crater-gardens-hugelkultur]] built
 into the ground are protected from wind, function as heat traps, and

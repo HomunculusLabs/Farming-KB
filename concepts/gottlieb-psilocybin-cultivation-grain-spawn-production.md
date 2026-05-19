@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, grain-spawn, psilocybin]
 ---
 
-# Gottlieb Psilocybin Cultivation Grain Spawn Production
+## Gottlieb Psilocybin Cultivation Grain Spawn Production
 
 Gottlieb's "The Psilocybin Producer's Guide" (1976) describes a liquid
 broth-based cultivation system rather than traditional grain spawn. The

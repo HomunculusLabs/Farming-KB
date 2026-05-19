@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Amazonian Sorcery, Illness, and Curing Practices
+## Amazonian Sorcery, Illness, and Curing Practices
 
 In [[amaringo-ayahuasca-visions-shipibo-iconography]] to identify the nature and source of illness and employing icaros, plant medicines, and spiritual defenses to cure it.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Trusts and Legal Strategies for Permaculture
+## Trusts and Legal Strategies for Permaculture
 
 ## Overview
 

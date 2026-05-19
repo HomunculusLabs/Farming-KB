@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Streptococcus and Dairy Soil Disease in the Ingham Soil Foodweb Framework
+## Streptococcus and Dairy Soil Disease in the Ingham Soil Foodweb Framework
 
 High population levels of disease-causing *Streptococcus* species are a hallmark indicator of sick soil, particularly in dairy operations. [[ghouled-field-guide-historical-context]] correspondence provides a detailed analysis of how these pathogenic bacteria establish dominance and what is required to reverse the conditions that favor them.
 

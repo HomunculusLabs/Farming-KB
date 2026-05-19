@@ -7,7 +7,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# Tryptamine Endogenous Familiarity and Rapid Pharmacokinetics
+## Tryptamine Endogenous Familiarity and Rapid Pharmacokinetics
 
 The [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]] has profound implications for how these
 compounds interact with the brain, manifesting most clearly in their

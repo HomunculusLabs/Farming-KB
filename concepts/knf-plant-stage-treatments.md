@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# Plant Stage Treatments
+## Plant Stage Treatments
 
 ## Overview
 

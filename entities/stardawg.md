@@ -22,7 +22,7 @@ sources:
   - ElSohly M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry, 79(7), 613-619.
 ---
 
-# Stardawg
+## Stardawg
 
 ## Overview
 

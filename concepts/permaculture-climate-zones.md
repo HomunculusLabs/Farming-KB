@@ -7,7 +7,7 @@ tags: [permaculture, climate, design, farming, agroforestry]
 sources: [raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 ---
 
-# Permaculture Climate Zones
+## Permaculture Climate Zones
 
 Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
 

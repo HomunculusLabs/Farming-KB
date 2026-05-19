@@ -19,7 +19,7 @@ type: comparison
 created: 2026-04-28
 ---
 
-# Rain Garden vs Bioswale
+## Rain Garden vs Bioswale
 
 ## Quick Answer
 

@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [mushroom-cultivation, growing-parameters, species-guide, temperature, humidity, stamets]
 ---
 
-# Mushroom Cultivator Species Growing Parameters Overview
+## Mushroom Cultivator Species Growing Parameters Overview
 
 ## The Parameter Framework
 

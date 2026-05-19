@@ -4,9 +4,9 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Plant-Fungal Interactions in the Environment Fungal interactions with plants represent some of the most ecologically significant relationships in terrestrial ecosystems. These range from mutualistic mycorrhizal associations and [[mycelial-network-nutrient-transport-imaging-gadd]], cell wall modification, and defence responses. The [[dighton-fungal-roles-in-nutrient-cycling]] cycling and carbon storage.
+## Plant-Fungal Interactions in the Environment Fungal interactions with plants represent some of the most ecologically significant relationships in terrestrial ecosystems. These range from mutualistic mycorrhizal associations and [[mycelial-network-nutrient-transport-imaging-gadd]], cell wall modification, and defence responses. The [[dighton-fungal-roles-in-nutrient-cycling]] cycling and carbon storage.
 
 They form extensive extramatrical [[ph-and-nutrient-availability-garden-soils]]. These [[ozier-pdc-composting-and-soil-building]] in soil ecology.
 

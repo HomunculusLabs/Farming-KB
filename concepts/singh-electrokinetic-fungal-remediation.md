@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Electrokinetic-Fungal Remediation
+## Electrokinetic-Fungal Remediation
 
 Electrokinetic-fungal remediation represents an innovative coupling of
 electrokinetic soil processing with [[fungal-volatile-organic-compounds-communication]] and

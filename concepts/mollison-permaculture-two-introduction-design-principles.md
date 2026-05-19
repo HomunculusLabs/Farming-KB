@@ -7,7 +7,7 @@ type: concept
 tags: [culture, design, permaculture, principles]
 ---
 
-# Permaculture Two Introduction and Design Principles
+## Permaculture Two Introduction and Design Principles
 
 Permaculture Two, published by [[holzer-permaculture-landscape-design]] with perennial plants and
 animals to achieve sustainable yields with minimal energy inputs.

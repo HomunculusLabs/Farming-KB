@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Wholistic Nature Perception
+## Fukuoka's Wholistic Nature Perception
 
 ## Overview
 

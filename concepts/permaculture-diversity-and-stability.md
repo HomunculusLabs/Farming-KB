@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Diversity and Stability in Permaculture Ecosystems
+## Diversity and Stability in Permaculture Ecosystems
 
 ## Stress vs Harmony in Ecological Systems
 

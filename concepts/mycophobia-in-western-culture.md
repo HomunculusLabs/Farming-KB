@@ -8,7 +8,7 @@ type: concept
 tags: [culture, mycology]
 ---
 
-# Mycophobia in Western Culture
+## Mycophobia in Western Culture
 
 The concept of gordon-wasson-mushroom-discovery and his wife Valentina to explain the
 striking cultural differences in attitudes towards fungi between nations. Wasson argued that mycophobia and

@@ -4,7 +4,7 @@ source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---
 
-# Culturing Indigenous Microorganisms: Techniques and Methods
+## Culturing Indigenous Microorganisms: Techniques and Methods
 
 Indigenous microorganism (IMO) culturing is a set of low-cost, locally adaptable biotechnology
 practices for harvesting and propagating beneficial microbes from natural environments. These

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Plant Nursery and Seedling Production
+## Plant Nursery and Seedling Production
 
 Plant nurseries are foundational infrastructure in [[bill-mollison]] discusses nursery systems in Permaculture: A Designers'
 Manual (Chapter 6: Trees and Their [[permaculture-energy-cycling-and-resource-efficiency]]. Common options include:

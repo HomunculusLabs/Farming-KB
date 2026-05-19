@@ -6,7 +6,7 @@ source: mckenna_t-tryptamines_consciousness.md
 created: 2026-05-09
 ---
 
-# DMT Hyperspace and Translinguistic Matter
+## DMT Hyperspace and Translinguistic Matter
 
 DMT (N,N-dimethyltryptamine) produces what [[leary-psychedelic-experience-bardo-mapping]] available to human beings. When smoked, the onset of
 the experience begins in approximately fifteen seconds, making it one of the

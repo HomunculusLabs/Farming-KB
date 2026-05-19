@@ -5,7 +5,7 @@ type: entity
 tags: [livestock-disease, veterinary, permaculture, agriculture, mycotoxicosis]
 ---
 
-# Facial Eczema
+## Facial Eczema
 
 ## Description
 

@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-one-straw-revolution.md
 ---
 
-# Fukuoka: Pollution Conference and the Modest Solution
+## Fukuoka: Pollution Conference and the Modest Solution
 
 ## The Organic Agricultural Council Conference
 

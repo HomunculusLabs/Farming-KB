@@ -8,7 +8,7 @@ sources: [raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
 
-# Mycovolatiles Fungal Volatile Compounds
+## Mycovolatiles Fungal Volatile Compounds
 
 ## Overview
 

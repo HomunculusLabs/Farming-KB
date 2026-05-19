@@ -22,7 +22,7 @@ related_concepts:
   - ethnobotany-and-sacred-plant-traditions
 ---
 
-# Mexican Neurotropic Fungi Diversity
+## Mexican Neurotropic Fungi Diversity
 
 Mexico possesses the highest diversity of neurotropic fungi of any country
 on Earth, with 76 known species representing approximately one-third of

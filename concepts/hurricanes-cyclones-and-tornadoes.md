@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Hurricanes, Cyclones, Tornadoes, and Firestorms
+## Hurricanes, Cyclones, Tornadoes, and Firestorms
 
 Extreme wind events are among the most powerful destructive forces on Earth. Understanding their formation, behavior, and warning signs is essential for [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
 - [[hurricanes-cyclones-typhoons-permaculture]]

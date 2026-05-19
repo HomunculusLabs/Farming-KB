@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOI — 2,5-Dimethoxy-4-Iodoamphetamine
+## DOI — 2,5-Dimethoxy-4-Iodoamphetamine
 
 ## Overview
 

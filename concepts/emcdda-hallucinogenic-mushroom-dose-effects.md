@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Dose and Effects
+## EMCDDA Hallucinogenic Mushroom Dose and Effects
 
 ## Overview of Active Compounds
 

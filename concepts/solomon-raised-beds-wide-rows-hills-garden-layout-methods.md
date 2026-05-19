@@ -1,4 +1,8 @@
-# [[solomon-drought-gardening-and-water-conservation|drought]], or with limited resources — the layout method you choose determines water efficiency, labor requirements, and ultimately how much food you can produce. Solomon identifies three primary layout systems, each suited to different conditions and crop types: raised beds, raised wide rows, and hills.
+---
+title: "drought, or with limited resources — the layout method you choose determines water efficiency, labor requirements, and ultimately how much food you can produce. Solomon identifies three primary layout systems, each suited to different conditions and crop types: raised beds, raised wide rows, and hills."
+tags:
+  - concept
+---
 
 The fundamental principle underlying all three systems is the same: elevate the growing area a few inches above the surrounding paths. This simple act provides multiple advantages that compound over [[container-growing-vegetables-herbs]] compacts the soil, making it difficult for plants to develop roots. Compaction is physical (and should be avoided) — it is not corrected by adding [[greg-green-temperature-and-humidity-control]] frustration and dies. By raising the bed 3-6 inches, you can rapidly rake clods and lumps off the surface and down into the paths, where feet will break them down over coming months.
 

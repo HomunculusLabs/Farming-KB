@@ -6,7 +6,7 @@ created: 2026-05-10
 tags: [agriculture, restoration, seeding, desert, ecology, technique]
 ---
 
-# Clay Pellet Seed Broadcasting
+## Clay Pellet Seed Broadcasting
 
 ## Overview
 

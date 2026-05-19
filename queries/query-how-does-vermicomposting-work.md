@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# How Does Vermicomposting Work?
+## How Does Vermicomposting Work?
 
 ## Short Answer
 Vermicomposting uses earthworms, primarily red wigglers (Eisenia fetida), to

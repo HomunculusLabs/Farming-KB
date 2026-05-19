@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Soil Fertility Gradient Approach
+## Soil Fertility Gradient Approach
 
 The soil fertility gradient is a step-by-step framework for improving garden soil productivity, designed by [[steve-solomon]] to accommodate gardeners with widely varying resources. Rather than prescribing a single expensive approach, the gradient offers progressively better results at each level, allowing gardeners to start at the level that matches their means and advance as they are able.
 

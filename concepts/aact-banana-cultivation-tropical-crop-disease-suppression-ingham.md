@@ -5,7 +5,7 @@ tags: [aact, compost-tea, banana, tropical-crops, disease-suppression, panama-di
 created: 2026-05-10
 ---
 
-# AACT for Banana Cultivation and Tropical Crop Production
+## AACT for Banana Cultivation and Tropical Crop Production
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Root Soil Assessment
+## JADAM Root Soil Assessment
 
 You can judge the quality of the soil by looking at how the crop roots are doing in it. What is visible (crop aboveground) represents the invisible (root condition). This diagnostic method is central to [[dighton-fungi-climate-change-feedback]].
 

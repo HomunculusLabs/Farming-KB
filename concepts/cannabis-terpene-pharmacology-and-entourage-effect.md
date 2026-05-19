@@ -6,7 +6,7 @@ related: ["beta-caryophyllene-entourage-effects-cannabis", "beta-caryophyllene-d
 created: 2026-05-09
 ---
 
-# Cannabis Terpene Pharmacology and the Entourage Effect
+## Cannabis Terpene Pharmacology and the Entourage Effect
 
 ## Introduction
 

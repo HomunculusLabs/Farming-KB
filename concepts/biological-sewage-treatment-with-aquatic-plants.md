@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Sewage Treatment with Aquatic [[schoenoplectus-lacustris]]* | Pathogen removal |
+## Biological Sewage Treatment with Aquatic [[schoenoplectus-lacustris]]* | Pathogen removal |
 | *Spartina* spp. | Pathogen removal |
 | *Iris pseudocorus* | Pathogen removal |
 

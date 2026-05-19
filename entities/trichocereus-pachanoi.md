@@ -5,10 +5,10 @@ type: species
 tags: [cactus, mescaline, psychoactive, san-pedro, entheogen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md]
+sources: ["raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"]
 ---
 
-# Trichocereus pachanoi
+## Trichocereus pachanoi
 
 **[[trichocereus-bridgesii]] and T. peruvianus.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [ecology, fungi]
 ---
 
-# Fungal Decomposition and Leaf Litter Dynamics
+## Fungal Decomposition and Leaf Litter Dynamics
 
 Dighton (2003) provides a comprehensive treatment of how fungi drive leaf litter
 decomposition, emphasizing the succession of fungal species on decomposing

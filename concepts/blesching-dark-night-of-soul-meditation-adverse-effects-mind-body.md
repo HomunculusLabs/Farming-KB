@@ -1,4 +1,8 @@
-# Dark Night of the Soul: Meditation Adverse Effects and [[blesching-cannabis-health-index-mental-health-applications|Blesching]], U. — *The [[blesching-cannabis-epigenetics-and-emotional-trauma|emotional]] release work — from "the dark night of the soul" to Stanislav Grof's "unresolved ego-deaths."
+---
+title: "Dark Night of the Soul: Meditation Adverse Effects and Blesching, U. — *The emotional release work — from "the dark night of the soul" to Stanislav Grof's "unresolved ego-deaths."
+tags:
+  - concept
+---
 
 ---
 

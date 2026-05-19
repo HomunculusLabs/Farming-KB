@@ -3,7 +3,7 @@ title: Manganese Peroxidase
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
-# Manganese Peroxidase
+## Manganese Peroxidase
 
 ## Description
 Manganese peroxidase (MnP, EC 1.11.1.13) is an extracellular heme-containing peroxidase produced predominantly by white-rot and some [[brown-rot]] basidiomycete fungi. It catalyzes the oxidation of Mn(II) to Mn(III), which in turn acts as a diffusible oxidant capable of penetrating the lignin matrix to oxidize phenolic and some non-phenolic subunits. MnP is considered more widely distributed among lignin-degrading fungi than [[lignin-peroxidase]] and is often the primary ligninolytic enzyme in many species.

@@ -7,7 +7,7 @@ tags: [ibogaine, addiction, treatment, bwiti, africa, ethnobotany, consciousness
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Ibogaine Addiction Treatment
+## Ibogaine Addiction Treatment
 
 Ibogaine, derived from the African [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] involves a powerful death-rebirth experience, in which the initiate's
 "head is opened up," after which they are able to converse with their ancestor spirits,

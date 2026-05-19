@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria Ibotenic Acid Muscimol and Epilepsy Treatment
+## Amanita Muscaria Ibotenic Acid Muscimol and Epilepsy Treatment
 
 The [[amanita-muscaria]] mushroom contains two principal active compounds — [[ibotenic-acid]]
 and its decarboxylation product muscimol — that interact directly with the brain's most

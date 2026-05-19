@@ -19,7 +19,7 @@ sources:
   - https://www.mycobank.org/
 ---
 
-# Suillellus luridus
+## Suillellus luridus
 
 ## Overview
 

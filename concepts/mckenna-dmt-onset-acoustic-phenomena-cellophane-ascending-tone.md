@@ -4,7 +4,7 @@ source: mckenna_t-tryptamines_consciousness.md
 tags: [dmt, acoustic-phenomena, tryptamine, onset, McKenna, hyperspace, sensory, phenomenology]
 ---
 
-# DMT Onset Acoustic Phenomena: Cellophane Sound and Ascending Tone
+## DMT Onset Acoustic Phenomena: Cellophane Sound and Ascending Tone
 
 ## Overview
 

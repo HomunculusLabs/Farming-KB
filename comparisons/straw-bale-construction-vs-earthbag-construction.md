@@ -6,16 +6,16 @@ tags: [comparison, natural-building, straw-bale, earthbag, homesteading, sustain
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/straw-bale-construction.md
-  - /Users/t3rpz/wiki/concepts/earthbag-construction.md
-  - /Users/t3rpz/wiki/concepts/earthbag-building.md
+  - raw/concepts/straw-bale-construction.md
+  - raw/concepts/earthbag-construction.md
+  - raw/concepts/earthbag-building.md
 related_concepts:
   - straw-bale-construction
   - earthbag-construction
   - earthbag-building
 type: comparison
 ---
-# Straw Bale Construction vs Earthbag Construction
+## Straw Bale Construction vs Earthbag Construction
 Straw bale construction and earthbag construction are both [[fukuoka-straw-winter-grain-straw-mulch]].
 Earthbag construction depends on mineral fill, ideally soil excavated from the site.
 If the site has usable subsoil, the wall fill can be nearly free.

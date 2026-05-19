@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [mycology, ethnobotany, mexico, indigenous, ceremonial, entheogen, mazatec, mixtec, teonanacatl]
 ---
 
-# Indigenous Ceremonial Use of Neurotropic Fungi in Mexico
+## Indigenous Ceremonial Use of Neurotropic Fungi in Mexico
 
 ## Overview
 

@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: ["raw/papers/nutrient-and-dynamic-accumulators.md"]
 ---
 
-# What Are Dynamic Accumulators and How Do I Use Them?
+## What Are Dynamic Accumulators and How Do I Use Them?
 
 ## Short Answer
 

@@ -7,7 +7,7 @@ tags: [bioremediation, mycoremediation, petroleum, field-research]
 sources: [raw/books/stamets-p-mycelium-running.md]
 ---
 
-# Battelle Diesel Mycoremediation Study
+## Battelle Diesel Mycoremediation Study
 
 The Washington State DOT maintenance yard experiment that proved [[mycoremediation-petroleum-hydrocarbons]]
 

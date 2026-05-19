@@ -10,7 +10,7 @@ sources:
   - "Stamets P, Gartz J. forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World"
   - "Gartz J. Magic Mushrooms fungi-around-the-world-species-distribution"
 ---
-# Inocybe coelestium
+## Inocybe coelestium
 ## Overview
 *Inocybe coelestium* is a rare psychoactive mushroom in the family Inocybaceae, placed within section Rimosae. It is one of the few [[psilocybin-mushrooms]]. The species is not cultivated commercially and must be identified with extreme caution due to the high prevalence of toxic muscarine-containing lookalikes within the same genus. Misidentification carries genuine risk of serious poisoning.
 ## Taxonomy and Naming

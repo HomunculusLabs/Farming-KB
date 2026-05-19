@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Tomato Growing - Organic Methods
+## Tomato Growing - Organic Methods
 
 Tomatoes are a very versatile vegetable, usually considered the most
 important greenhouse crop. They come in bush and upright types, with

@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Chaga vs Maitake
+## Chaga vs Maitake
 
 ## Overview
 

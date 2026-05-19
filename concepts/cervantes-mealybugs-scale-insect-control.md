@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Mealybugs and Scale Insects on Cannabis
+## Mealybugs and Scale Insects on Cannabis
 
 Mealybugs and scale insects are sap-sucking pests that, while
 somewhat uncommon in [[jadam-weed-control-strategies-natural]].

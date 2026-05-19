@@ -9,7 +9,7 @@ type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
 
-# Mushroom Cultivation: Classic and New Techniques
+## Mushroom Cultivation: Classic and New Techniques
 
 Jochen Gartz provides a thorough overview of the scientific principles
 underlying psychoactive mushroom cultivation, grounded in the pioneering

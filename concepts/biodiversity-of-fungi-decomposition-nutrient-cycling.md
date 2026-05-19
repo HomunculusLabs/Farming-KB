@@ -7,7 +7,7 @@ tags: [fungi, compost, ecology, biology]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-# Fungal Decomposition of Organic Matter in Soil Systems
+## Fungal Decomposition of Organic Matter in Soil Systems
 
 Updated: 2026-04-18
 

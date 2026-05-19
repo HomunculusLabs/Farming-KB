@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Poisonous Gilled Fungi (Lactarius, Russula, Entoloma, Hebeloma, Volvaria, Inocybe)
+## Poisonous Gilled Fungi (Lactarius, Russula, Entoloma, Hebeloma, Volvaria, Inocybe)
 
 > Based on *Poisonous Fungi* by [[john-ramsbottom]] (1945), Keeper of Botany at the British Museum
 > ([[stropharia-cubensis-identification-and-natural-history]]). Dimensions are given as cap diameter, stem height, stem width.

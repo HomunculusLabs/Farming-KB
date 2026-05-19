@@ -18,7 +18,7 @@ related_concepts:
   - guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes
 ---
 
-# Bolete Mushrooms
+## Bolete Mushrooms
 
 Bolete mushrooms are among the most distinctive and ecologically important fungi on the planet, instantly recognizable by the spongy pore surface that replaces the gills found on most other mushrooms.
 

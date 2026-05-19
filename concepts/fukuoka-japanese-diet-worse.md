@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# The Japanese Diet Takes a Turn for the Worse
+## The Japanese Diet Takes a Turn for the Worse
 
 In *The Road Back to Nature*, [[fukuoka-natural-foods-movement-america]]" being exported from Japan to America represent a tradition that Japan itself is losing
 - "Natural diet is being imported back into Japan, where much of it originated"

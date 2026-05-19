@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Kirlian Photography and Plant Auras
+## Kirlian Photography and Plant Auras
 
 Kirlian photography is a technique for capturing on film the luminous
 energy fields said to surround [[fly-agaric-western-literature]] calls the

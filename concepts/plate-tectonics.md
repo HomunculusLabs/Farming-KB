@@ -7,7 +7,7 @@ tags: [geology, science, soil]
 sources: []
 ---
 
-# Plate Tectonics
+## Plate Tectonics
 
 ## Overview
 

@@ -5,7 +5,7 @@ source_author: "Gadd, Watkinson, Dyer (eds.)"
 tags: [epilithic, endolithic, cryptoendolithic, rock-dwelling, microcolonial-fungi, bioweathering, lithic, melanin, extremophile, gadd]
 ---
 
-# Rock-Dwelling Fungi: Epilithic, Endolithic, and Cryptoendolithic Communities
+## Rock-Dwelling Fungi: Epilithic, Endolithic, and Cryptoendolithic Communities
 
 ## Overview
 

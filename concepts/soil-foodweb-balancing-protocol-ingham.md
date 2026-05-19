@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Soil Foodweb Balancing Protocol (Ingham Method)
+## Soil Foodweb Balancing Protocol (Ingham Method)
 
 The Soil Foodweb balancing protocol is a systematic, step-by-step approach developed by Dr. Elaine Ingham for assessing and restoring healthy soil biology. Rather than treating symptoms with chemical inputs, the protocol addresses the root cause of most plant health problems: an incomplete or imbalanced soil foodweb. The method uses compost, compost tea, and targeted biological inocula to rebuild the full spectrum of beneficial organisms.
 

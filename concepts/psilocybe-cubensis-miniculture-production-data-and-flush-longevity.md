@@ -5,7 +5,7 @@ tags: [psilocybe-cubensis, cultivation, miniculture, flush, yield, rye-grain, fr
 created: 2026-05-08
 ---
 
-# Psilocybe Cubensis Miniculture Production Data and Flush Longevity
+## Psilocybe Cubensis Miniculture Production Data and Flush Longevity
 
 ## Overview
 

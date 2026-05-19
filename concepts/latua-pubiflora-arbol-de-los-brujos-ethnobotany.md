@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Latua Pubiflora (Arbol de los Brujos)
+## Latua Pubiflora (Arbol de los Brujos)
 
 Latua pubiflora, known in Spanish as the arbol de los brujos ("sorcerers'
 tree") or latue, is one of the most potent and feared psychoactive plants

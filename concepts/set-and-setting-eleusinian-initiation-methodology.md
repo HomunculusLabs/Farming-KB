@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Set and Setting — Eleusinian Initiation Methodology
+## Set and Setting — Eleusinian Initiation Methodology
 
 **Source:** The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] exemplified what modern psychedelic researchers call "set and setting" — the deliberate preparation of psychological mindset and physical environment to maximize the therapeutic and spiritual potential of the [[lesser-and-greater-eleusinian-mysteries]] systematically optimized both variables.
 

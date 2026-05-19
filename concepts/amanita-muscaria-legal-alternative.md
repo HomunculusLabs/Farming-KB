@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [amanita-muscaria, fly-agaric, legal-alternative, ibotenic-acid, muscimol, toxicity, europe]
 ---
 
-# Amanita Muscaria as a Legal Alternative to Psilocybin Mushrooms
+## Amanita Muscaria as a Legal Alternative to Psilocybin Mushrooms
 
 ## Overview
 

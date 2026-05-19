@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Substrate Pasteurization Techniques
+## Mushroom Substrate Pasteurization Techniques
 
 Pasteurization is a critical step [[antimicrobial-compounds-mushroom-mycelium]] for nutrients and space. In nearly all cases, the competitors overwhelm the [[evaporative-demand-hypothesis-mushroom-growth]]
 - Complete spoilage of the substrate bag

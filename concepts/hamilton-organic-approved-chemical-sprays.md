@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Organic Approved Chemical Sprays
+## Organic Approved Chemical Sprays
 
 There may be situations when [[jadam-nutrient-management-wetting-agent-and-calcium]], ensuring
 better spread and improved "stickability" of the insecticide on plant

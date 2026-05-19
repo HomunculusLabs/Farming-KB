@@ -9,7 +9,7 @@ sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 type: concept
 ---
 
-# Green Manures in Organic Gardening
+## Green Manures in Organic Gardening
 
 Green manure is a crop grown specifically to add organic
 matter to beds that are empty for a period of time. It is

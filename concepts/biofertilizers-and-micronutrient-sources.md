@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Biofertilizers and Micronutrient Sources in Organic Systems
+## Biofertilizers and Micronutrient Sources in Organic Systems
 
 Biofertilizers represent a paradigm shift in plant nutrition—rather than applying mineral nutrients directly, gardeners introduce living organisms that produce, solubilize, or transport nutrients to plant roots. Combined with natural micronutrient sources, these biological approaches form the foundation of sustainable organic fertility.
 

@@ -1,4 +1,8 @@
-# Hallucinogenesis and Quantum Molecular Correlates
+---
+title: "Hallucinogenesis and Quantum Molecular Correlates"
+tags:
+  - concept
+---
 
 ## Overview
 

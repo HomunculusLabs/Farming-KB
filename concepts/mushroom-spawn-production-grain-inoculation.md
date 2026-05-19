@@ -5,11 +5,11 @@ tags: mycology, mushroom-cultivation, grain-spawn, microbiology,
       commercial-mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
 
-# mushroom-spawn is the living fungal inoculum used to introduce mycelium into a
+## mushroom-spawn is the living fungal inoculum used to introduce mycelium into a
 prepared substrate. [[cultivator-sterile-technique-and-agar-culture]], quality control, and careful [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], disease resistance, and mushroom quality characteristics
 (size, color, shelf life). Commercial spawn laboratories maintain extensive
 strain libraries and conduct regular performance testing.

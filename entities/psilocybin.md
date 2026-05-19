@@ -89,7 +89,7 @@ Psilocin is a **partial agonist** at 5-HT₂A serotonin receptors, densely expre
 
 ## See Also
 
-- [[psilocybin-and-psilocin-chemistry-and-pharmacology]]
+- [[psilocybin-psilocin-chemistry-and-pharmacology]]
 - [[psilocybin-extraction-alcohol-method]]
 - [[psilocybin-stability-and-specimen-age]]
 - [[psilocybin-volatility-drying-degradation]]

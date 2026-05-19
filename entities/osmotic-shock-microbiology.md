@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---
 
-# Osmotic Shock (Microbiology)
+## Osmotic Shock (Microbiology)
 
 ## Description
 

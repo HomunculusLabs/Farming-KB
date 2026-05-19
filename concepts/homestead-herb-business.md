@@ -7,7 +7,7 @@ tags: [business, homesteading, plants, medicine, food, drying, economics, homest
 sources: []
 ---
 
-# Homestead Herb Business
+## Homestead Herb Business
 
 A homestead herb business transforms homegrown herbs into value-added products: dried herbs, tinctures, salves, teas, and culinary blends. Herbs require minimal space, have low startup costs, and yield high margins. This guide covers production, processing, labeling, and selling.
 

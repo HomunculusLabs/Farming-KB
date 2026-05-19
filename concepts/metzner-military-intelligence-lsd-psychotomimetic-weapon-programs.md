@@ -4,7 +4,7 @@ aliases: ["MKULTRA LSD military", "CIA psychedelic weapons", "Edgewood Arsenal L
 tags: [lsd, military, cia, mkultra, psychotomimetic, cold-war, metzner, psychedelic-history]
 ---
 
-# Military and Intelligence LSD Psychotomimetic Weapon Programs
+## Military and Intelligence LSD Psychotomimetic Weapon Programs
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Clay Seed Balls (Tsuchi Dango)
+## Clay Seed Balls (Tsuchi Dango)
 
 Clay seed balls (tsuchi dango) are one of Masanobu Fukuoka's most distinctive innovations for [[hamilton-composting-and-organic-matter-management]]. Without soil preparation, several problems arise:
 

@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Edaphic Factors and Cannabis Microbiome Assembly
+## Edaphic Factors and Cannabis Microbiome Assembly
 
 **Key Reference:** Winston et al. (2014) PLOS ONE
 

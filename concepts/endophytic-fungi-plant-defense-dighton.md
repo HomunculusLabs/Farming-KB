@@ -7,7 +7,7 @@ tags: [fungal-ecology, mycology, biology, symbiosis]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Endophytic Fungi and Plant Defense (Dighton)
+## Endophytic Fungi and Plant Defense (Dighton)
 
 Updated: 2026-04-18
 

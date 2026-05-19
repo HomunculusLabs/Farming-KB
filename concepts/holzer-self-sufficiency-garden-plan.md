@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Self-Sufficiency Garden Plan - Creating a Garden from Scratch
+## Holzer Self-Sufficiency Garden Plan - Creating a Garden from Scratch
 
 Holzer's method for creating a productive self-sufficiency garden from
 unproductive land is remarkably simple and fast. The approach uses pigs as

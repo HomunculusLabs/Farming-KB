@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gangamma's Mandala Intensive Home Garden
+## Gangamma's Mandala Intensive Home Garden
 
 Gangamma's Mandala is a sophisticated permaculture design for small, intensively-planted home gardens capable of feeding a family of five year-round. Named after a Karnataka (India) permaculture design graduate, the system draws on the East-West Institute's work in Hawaii and the Samaka gardens of the Philippines, arranged in a permaculture "least-path" layout. Despite its simplicity and speed of construction, its underlying design is remarkably sophisticated.
 

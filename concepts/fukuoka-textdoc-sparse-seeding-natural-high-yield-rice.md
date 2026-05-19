@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Sparse Seeding for Natural High-Yield Rice Cultivation
+## Sparse Seeding for Natural High-Yield Rice Cultivation
 
 Fukuoka's method of [[gourmet-medicinal-mushroom-spawn-grain-production]].
 

@@ -1,4 +1,8 @@
-# Cannabis Safety Profile, Adverse Effects, and Overdose Risk
+---
+title: "Cannabis Safety Profile, Adverse Effects, and Overdose Risk"
+tags:
+  - concept
+---
 
 ## Source
 - **Book:** The [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases
@@ -143,8 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[blesching-cannabis-vasopressin-aggression]]
-- [[blesching-molecules-emotions-expansive-constricting-neurotransmitters]]

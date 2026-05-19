@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Sea of Green (SOG)
+## Sea of Green (SOG)
 
 Sea of Green (SOG) is a high-yield [[cervantes-cannabis-flower-anatomy]] production correlates directly with light interception by the canopy. By keeping plants short and packing them closely, the entire light footprint is filled with bud-producing tops. Rather than growing a few large plants over several months, SOG growers flower dozens or hundreds of small clones, each producing a single main cola. The collective yield of many small plants under optimal lighting often exceeds that of fewer large plants in the same space.
 

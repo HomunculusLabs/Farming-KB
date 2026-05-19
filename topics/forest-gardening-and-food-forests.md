@@ -30,7 +30,7 @@ related_concepts:
   - companion-planting-with-fungi
 ---
 
-# Forest Gardening and Food Forests
+## Forest Gardening and Food Forests
 
 A food forest, sometimes called a forest garden, is a designed agricultural
 system that mimics the structure and function of a natural forest while

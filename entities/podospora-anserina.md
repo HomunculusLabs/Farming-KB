@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Podospora anserina
+## Podospora anserina
 
 **Podospora anserina** is a filamentous ascomycete fungus that has served as a classical [[neurospora-crassa]] and *Sordaria macrospora*, other important genetic model fungi.
 

@@ -49,7 +49,7 @@ related_concepts:
   - cervantes-spider-mites-identification-control
 ---
 
-# Integrated Pest Management
+## Integrated Pest Management
 
 Integrated Pest Management (IPM) is an ecosystem-based strategy that
 focuses on long-term prevention of pests and their damage through a

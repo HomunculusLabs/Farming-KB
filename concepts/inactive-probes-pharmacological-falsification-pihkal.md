@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-future-drugs.md"
 ---
 
-# Inactive Probes and Pharmacological Falsification in PiHKAL
+## Inactive Probes and Pharmacological Falsification in PiHKAL
 
 **Updated:** 2026-04-18
 

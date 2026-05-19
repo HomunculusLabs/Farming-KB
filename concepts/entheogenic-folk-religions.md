@@ -7,7 +7,7 @@ sources:
 created: 2026-05-08
 ---
 
-# Entheogenic Folk Religions and Churches
+## Entheogenic Folk Religions and Churches
 
 ## Overview
 

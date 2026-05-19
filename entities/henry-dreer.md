@@ -5,7 +5,7 @@ type: entity
 tags: [people, history, horticulture, 19th-century, market-gardening]
 ---
 
-# Henry Dreer
+## Henry Dreer
 
 ## Description
 

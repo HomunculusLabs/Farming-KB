@@ -9,7 +9,7 @@ sources:
   - "General mycological and pharmacological knowledge"
 ---
 
-# Psilocybe tampanensis
+## Psilocybe tampanensis
 
 Psilocybe tampanensis is a psilocybin-containing mushroom in the family Hymenogastraceae, notable as the species from which the sclerotia commonly sold as "philosopher's stones" or "magic truffles" are harvested. Originally described from a single 1977 collection near Tampa, Florida, the species remained exceedingly rare in nature for decades, with no additional confirmed wild collections until a 2024 rediscovery. Despite its natural scarcity, P. tampanensis gained widespread popularity in cultivation circles because of its reliable production of underground sclerotia — dense, nutrient-storage masses containing the same [[steven-pollock]] near Tampa, Florida, USA
 - **Common names:** Tampa psilocybe, magic truffle, philosopher's stone

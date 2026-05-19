@@ -1,4 +1,8 @@
-# [[woronin-bodies-septal-pore-plugging-euascomycetes-jedd]]
+---
+title: "woronin bodies septal pore plugging euascomycetes jedd"
+tags:
+  - concept
+---
 - [[fungal-environmental-dna]] sensing [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

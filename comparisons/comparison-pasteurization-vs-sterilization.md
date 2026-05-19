@@ -11,7 +11,7 @@ created: 2026-04-25
 type: comparison
 ---
 
-# Pasteurization vs Sterilization
+## Pasteurization vs Sterilization
 
 ## Overview
 

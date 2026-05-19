@@ -6,7 +6,7 @@ type: concept
 tags: [soil-biology, composting, microbiology]
 sources: ["papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 ---
-# Ingham — Cover Crops and Soil Biology
+## Ingham — Cover Crops and Soil Biology
 
 Elaine Ingham's approach to cover crops emphasizes their role as living biological management tools that feed specific soil organism groups, maintain soil structure, and prevent the loss of soil fertility during fallow periods.
 

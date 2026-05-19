@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 tags: [mycology, myxomycetes, slime-molds, sampling-methods, moist-chamber, field-collection]
 ---
 
-# Myxomycete Sampling, Collection, and Moist Chamber Culturing
+## Myxomycete Sampling, Collection, and Moist Chamber Culturing
 
 Myxomycetes (plasmodial slime molds) present unique challenges for biodiversity surveys. Their fruiting bodies are often minute, transient, and difficult to detect in the field. Many species fruit only briefly and their sporangia may persist for just a few hours. As a result, the moist [[fungal-biodiversity-assessment-methods]]. It consists of a clean container (typically a Petri dish or finger bowl) lined with filter paper or paper towel, moistened with distilled water or a weak antibiotic solution, and inoculated with the collected substrate.
 

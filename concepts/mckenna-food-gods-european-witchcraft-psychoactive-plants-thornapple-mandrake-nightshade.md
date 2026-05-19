@@ -5,7 +5,7 @@ source_author: "[[terence-mckenna]]"
 topics: ["psychoactive plants", "witchcraft", "European ethnobotany", "nightshades", "medieval history"]
 ---
 
-# European Witchcraft and Psychoactive Plants
+## European Witchcraft and Psychoactive Plants
 
 The European witch craze of the late medieval and early modern periods was not
 merely a phenomenon of mass hysteria and religious persecution. Terence McKenna

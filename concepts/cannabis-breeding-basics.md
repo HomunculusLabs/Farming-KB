@@ -8,7 +8,7 @@ sources:
 - raw/papers/vic-high-creating-true-breeding-strains.md
 ---
 
-# Cannabis Breeding Basics
+## Cannabis Breeding Basics
 
 ## Overview
 

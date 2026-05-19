@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hongo's Nine Distribution Types Applied to Neurotropic Fungi
+## Hongo's Nine Distribution Types Applied to Neurotropic Fungi
 
 Guzmán, Allen and Gartz applied the biogeographic classification
 system originally developed by Hongo (1978) for Japanese fungi to

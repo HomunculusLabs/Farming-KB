@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, fungi, ecology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Arbuscular Mycorrhizal Fungi
+## Arbuscular Mycorrhizal Fungi
 
 Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, [[fungal-biodiversity-and-ecosystem-function]].
 

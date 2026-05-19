@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Microfungal Species Diversity Over Large Areas
+## Microfungal Species Diversity Over Large Areas
 
 Understanding fungal species diversity at landscape and regional scales is essential for conservation planning and [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 
@@ -49,7 +49,7 @@ Bills and Polishook (1994) detected 78-134 species per collection from Costa Ric
 
 ## Merged: Coprophilous Fungi Succession Defense Mechanisms
 
-# Coprophilous Fungi Succession Defense Mechanisms
+## Coprophilous Fungi Succession Defense Mechanisms
 
 Updated: 2026-04-18
 

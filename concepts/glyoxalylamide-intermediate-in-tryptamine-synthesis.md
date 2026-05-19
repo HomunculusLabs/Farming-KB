@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Glyoxalylamide Intermediate in Tryptamine Synthesis
+## Glyoxalylamide Intermediate in Tryptamine Synthesis
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# TMA-3
+## TMA-3
 
 **[[tma-6-entity]] (2,4,6-) which shows moderate
 activity. The pattern demonstrates that the specific spatial arrangement of

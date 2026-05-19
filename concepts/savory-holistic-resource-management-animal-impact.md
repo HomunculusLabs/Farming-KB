@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Animal Impact and Herd Effect
+## Animal Impact and Herd Effect
 
 Animal impact is one of the six ecosystem management tools in Allan Savory's
 [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]] evolved over

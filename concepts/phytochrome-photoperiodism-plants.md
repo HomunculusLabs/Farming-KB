@@ -5,7 +5,7 @@ tags: [botany, photobiology, phytochrome, photoperiodism, plant-senses, flowerin
 created: 2026-05-09
 ---
 
-# Phytochrome and Photoperiodism in Plants
+## Phytochrome and Photoperiodism in Plants
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Urban Permaculture and City Farming
+## Urban Permaculture and City Farming
 
 Cities contain enormous underutilized potential for food production, resource cycling, and ecological restoration. Urban [[permaculture-design]]
 - [[water-catchment-urban-permaculture]]

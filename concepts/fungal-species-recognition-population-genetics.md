@@ -1,4 +1,8 @@
-# Fungal Species Recognition and Population Genetics
+---
+title: "Fungal Species Recognition and Population Genetics"
+tags:
+  - concept
+---
 
 ## Overview
 Understanding fungal species delimitation and population structure is essential for

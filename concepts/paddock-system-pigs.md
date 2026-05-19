@@ -8,7 +8,7 @@ sources:
   - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Paddock System for Pigs
+## Paddock System for Pigs
 
 ## Overview
 

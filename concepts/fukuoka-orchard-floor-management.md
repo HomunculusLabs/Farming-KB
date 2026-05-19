@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Orchard Floor Management
+## Orchard Floor Management
 
 ## No Clearing, No Bulldozers
 

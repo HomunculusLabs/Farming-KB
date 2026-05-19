@@ -19,7 +19,7 @@ sources:
   - raw/papers/pseudomonas_biocontrol.md
 ---
 
-# Pseudomonas
+## Pseudomonas
 
 *Pseudomonas* is a large and diverse genus of Gram-negative, aerobic,
 rod-shaped bacteria in the family Pseudomonadaceae. With over 270 named

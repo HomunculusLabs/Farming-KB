@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Radionic Agriculture and Pesticide Alternatives
+## Radionic Agriculture and Pesticide Alternatives
 
 Radionics is a controversial field that proposes that disease in plants,
 animals, and humans can be diagnosed and treated through the detection

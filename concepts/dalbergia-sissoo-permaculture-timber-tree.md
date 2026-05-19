@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Dalbergia Sissoo — Permaculture Timber and Forage Tree
+## Dalbergia Sissoo — Permaculture Timber and Forage Tree
 
 Dalbergia sissoo, commonly known as sissoo, is a fast-growing leguminous tree that plays a significant role in permaculture systems across semi-arid and [[riparian-zone-restoration]]
 - Gully stabilisation

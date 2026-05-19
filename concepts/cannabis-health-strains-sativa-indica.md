@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis Strains (Sativa vs Indica)
+## Cannabis Strains (Sativa vs Indica)
 
 Medicinal cannabis consists of two basic species, [[african-landrace-sativa-strains]] generally present with a higher THC-to-CBD/CBN ratio.
 Key characteristics include:

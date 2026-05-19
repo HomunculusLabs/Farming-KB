@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 type: concept
 ---
 
-# Hofmann's Mexican Mushroom Expedition: Discovery of Psilocybin
+## Hofmann's Mexican Mushroom Expedition: Discovery of Psilocybin
 
 ## From LSD to Teonanacatl
 

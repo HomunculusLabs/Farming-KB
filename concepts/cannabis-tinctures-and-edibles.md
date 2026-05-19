@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Tinctures and Edibles
+## Cannabis Tinctures and Edibles
 
 Tinctures and edibles are cannabis [[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains THCA and CBDA (acidic, non-psychoactive precursors)
 - Heating converts THCA to THC and CBDA to CBD (decarboxylation)

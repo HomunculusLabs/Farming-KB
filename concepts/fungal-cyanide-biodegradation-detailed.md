@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Cyanide Biodegradation by Fungi
+## Cyanide Biodegradation by Fungi
 Cyanide is one of the most rapidly acting metabolic poisons known, yet certain
 fungi possess remarkable abilities to degrade and detoxify both free cyanide
 and its metal complexes. Fungal cyanide biodegradation represents an important

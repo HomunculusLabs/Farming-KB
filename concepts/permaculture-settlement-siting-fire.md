@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
 type: concept
 ---
-# Permaculture Settlement Siting for Fire Safety ## Overview Fire is one of the most common and destructive hazards in permaculture landscapes, and proper settlement siting is the first line of defense. [[permaculture-settlement-design]], permaculture-household-economics
+## Permaculture Settlement Siting for Fire Safety ## Overview Fire is one of the most common and destructive hazards in permaculture landscapes, and proper settlement siting is the first line of defense. [[permaculture-settlement-design]], permaculture-household-economics
 
 See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
 

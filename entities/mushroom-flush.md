@@ -5,7 +5,7 @@ type: entity
 tags: [phenomenon, fruiting, cultivation-terminology, crop-cycle]
 ---
 
-# Mushroom Flush
+## Mushroom Flush
 
 ## Description
 

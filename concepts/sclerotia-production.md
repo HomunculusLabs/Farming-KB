@@ -4,9 +4,9 @@ created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [mushroom-cultivation, sclerotia, psilocybe-tampanensis, psilocybe-mexicana, grass-seed, truffles]
-sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
+sources: ["raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md"]
 ---
-# Sclerotia Production on Grass Seed Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that serve as survival structures for certain fungi. In cultivation, they are often called "magic truffles" and are produced by species such as [[psilocybe-mexicana]]** — Also produces sclerotia reliably, though
+## Sclerotia Production on Grass Seed Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that serve as survival structures for certain fungi. In cultivation, they are often called "magic truffles" and are produced by species such as [[psilocybe-mexicana]]** — Also produces sclerotia reliably, though
   somewhat less abundantly than *P. tampanensis*. This is the species from
   which psilocybin was first isolated by Albert Hofmann in 1958.
 

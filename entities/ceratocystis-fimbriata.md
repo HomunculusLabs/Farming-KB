@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Ceratocystis fimbriata
+## Ceratocystis fimbriata
 
 **Ceratocystis fimbriata** is a morphological species of ascomycete fungus that has proven to be a complex of multiple genetically and reproductively isolated species.
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Microbes as Scavengers in Natural Farming
+## Microbes as Scavengers in Natural Farming
 
 In [[bionutrients-lab-lactic-acid-bacteria-serum]], a person
 vanishes as a sweet, acrid aroma through lactic fermentation.

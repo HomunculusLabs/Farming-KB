@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 ---
 
-# Solar Cooking Methods
+## Solar Cooking Methods
 
 Updated: 2026-04-18
 

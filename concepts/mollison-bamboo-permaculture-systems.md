@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Bamboo in Permaculture Systems
+## Bamboo in Permaculture Systems
 
 Bamboo occupies a unique position in [[permplant-willows-salix-erosion-control-fodder]], mulch production, and wind
 protection.

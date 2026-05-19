@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Plant Growth Regulators
+## Plant Growth Regulators
 
 ## Auxins and Electrical Fields
 

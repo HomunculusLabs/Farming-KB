@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Food Systems and Vine Integration
+## Desert Food Systems and Vine Integration
 
 A staple food is defined as one supplying 50% or more of the diet when in season. Today, some 70% of the food in Western societies is supplied by just 8 staple crops, whereas no European family has access to 20–30 basic staple foods. A well-managed home garden and livestock situation can produce about 20 vegetables, 6–9 fruits, and 3–6 staples—well beyond the choice range of an average family.
 

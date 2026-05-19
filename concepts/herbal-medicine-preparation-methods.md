@@ -6,7 +6,7 @@ type: concept
 tags: [herbalism, herbs, medicine]
 sources: []
 ---
-# Herbal Medicine Preparation Methods
+## Herbal Medicine Preparation Methods
 
 Herbal medicine preparation encompasses the various techniques used to extract, preserve, and deliver the active constituents of medicinal plants for therapeutic use. The choice of preparation method significantly affects which compounds are extracted, their concentration, bioavailability, shelf stability, and onset of action. Different preparations are suited to different herbs, conditions, and patient needs.
 

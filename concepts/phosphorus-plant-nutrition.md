@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Phosphorus in Plant Nutrition — The Energy Nutrient
+## Phosphorus in Plant Nutrition — The Energy Nutrient
 
 Phosphorus (P) is the second most commonly limiting plant nutrient after nitrogen. It plays irreplaceable roles in energy transfer, genetic information storage, and root development. Managing phosphorus is one of the most important — and most frequently misunderstood — aspects of gardening.
 

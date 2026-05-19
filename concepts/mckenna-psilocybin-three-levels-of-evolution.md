@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Psilocybin at Three Levels of Human Evolution
+## Psilocybin at Three Levels of Human Evolution
 
 ## The Three-Dose Scenario
 

@@ -6,7 +6,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 created: 2026-05-11
 ---
 
-# Trace Water Dosing Protocol for Microwave Surface Sterilization at 9 µL/cm²
+## Trace Water Dosing Protocol for Microwave Surface Sterilization at 9 µL/cm²
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 5-MeO-NMT — TIHKAL #42
+## 5-MeO-NMT — TIHKAL #42
 
 ## Compound Identity
 

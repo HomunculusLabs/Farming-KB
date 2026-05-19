@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Phytochrome Red and Far-Red Light Switch in Photoperiodism
+## Phytochrome Red and Far-Red Light Switch in Photoperiodism
 
 ## Overview
 

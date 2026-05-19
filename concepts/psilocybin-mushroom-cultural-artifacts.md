@@ -15,7 +15,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Psilocybin Mushroom Cultural Artifacts
+## Psilocybin Mushroom Cultural Artifacts
 
 The [[cattle-dispersal-psychoactive-fungi-australia]] that played roles in
 traditional practices.

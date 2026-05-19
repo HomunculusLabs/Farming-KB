@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Ballasts and HID Electrical Systems
+## Ballasts and HID Electrical Systems
 
 Ballasts are critical components of high intensity discharge (HID)
 lighting systems that regulate voltage and starting requirements for

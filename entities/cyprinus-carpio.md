@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, freshwater, cyprinid, permaculture]
 ---
 
-# Cyprinus carpio (Common Carp)
+## Cyprinus carpio (Common Carp)
 
 ## Description
 *Cyprinus carpio*, commonly known as the common carp, is a widespread freshwater fish of the family Cyprinidae. It is one of the most important aquaculture species globally and a staple of Asian polyculture pond systems. In [[permaculture]], carp are valued for their omnivorous diet, hardiness, and ability to thrive in a wide range of water conditions including sewage-fed canals.

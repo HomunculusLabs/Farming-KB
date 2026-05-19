@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "General botanical and pharmacological knowledge"
 ---
-# Origanum vulgare
+## Origanum vulgare
 ## Oregano
 Perennial aromatic herb in the Lamiaceae family, native to the
 Mediterranean basin and parts of western Asia. Oregano is one of the

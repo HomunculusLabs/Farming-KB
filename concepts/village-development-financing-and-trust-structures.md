@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Village Development Financing and Trust Structures
+## Village Development Financing and Trust Structures
 
 The financial and legal architecture of a [[permaculture]] village is as important as its physical design. [[bill-mollison]] outlines a systematic approach to developing ecovillages that balances individual ownership with collective commons, using trust structures to ensure long-term [[permaculture-community-resilience]] and self-reliance.
 

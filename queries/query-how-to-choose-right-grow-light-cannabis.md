@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Choose the Right Grow Light for Cannabis
+## How to Choose the Right Grow Light for Cannabis
 
 ## Short Answer
 The best grow light for cannabis depends on your grow space size, budget,

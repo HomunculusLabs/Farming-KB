@@ -8,7 +8,7 @@ type: concept
 tags: [history, mushroom-cultivation]
 ---
 
-# Magic Mushroom Prohibition History
+## Magic Mushroom Prohibition History
 
 The prohibition of [[guzman-magic-mushrooms-african-species]] were largely unknown to Western legislators when they were criminalised. Their
 proscribed status resulted not from any demonstrated social harm but from structural similarity to

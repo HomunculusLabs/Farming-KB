@@ -10,7 +10,7 @@ sources: [~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# Natural Pest Control [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from their environment, making it critical to never spray pesticides
+## Natural Pest Control [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from their environment, making it critical to never spray pesticides
 or synthetic chemicals on fruiting mushrooms. Mushrooms can [[fukuoka-bushman-world-ecological-balance]].
 Spiders in rafters weave webs between mushroom columns, catching [[mushroom-substrates]].
 

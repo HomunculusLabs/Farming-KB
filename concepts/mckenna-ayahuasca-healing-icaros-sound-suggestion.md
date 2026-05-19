@@ -5,7 +5,7 @@ author: Terence McKenna
 topics: ethnobotany, ayahuasca, shamanism, healing, indigenous medicine
 ---
 
-# Ayahuasca Healing Practices — Icaros, Sound, and Suggestion
+## Ayahuasca Healing Practices — Icaros, Sound, and Suggestion
 
 In the Amazon basin, ayahuasca is not merely a recreational substance
 or even a religious sacrament. It is, first and foremost, a medicine —

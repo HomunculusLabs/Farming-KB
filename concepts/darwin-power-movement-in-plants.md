@@ -6,7 +6,7 @@ source: grahamholmes what a plant knowsindd
 created: 2026-05-10
 ---
 
-# Darwin's *The Power of Movement in Plants*
+## Darwin's *The Power of Movement in Plants*
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDPR
+## MDPR
 
 [[mda]]; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE.
 

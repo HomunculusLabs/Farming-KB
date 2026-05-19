@@ -44,7 +44,7 @@ related_concepts:
   - root-cellaring-guide
 ---
 
-# Root Cellaring and Crop Storage
+## Root Cellaring and Crop Storage
 
 Root cellaring is the practice of storing harvested crops in cool,
 humid, dark, and ventilated spaces so that they remain alive or dormant

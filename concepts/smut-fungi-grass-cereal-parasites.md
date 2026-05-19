@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Smut Fungi -- Plant Parasites of Grasses and Cereals
+## Smut Fungi -- Plant Parasites of Grasses and Cereals
 [[worldwide-distribution-psilocybin-mushrooms]] across all continents except Antarctica
 - Known species may represent only about half of extant species
 - Important pathogens of major crops: corn, wheat, barley, oats, rice,

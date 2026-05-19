@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Hempcrete vs Cordwood Construction
+## Hempcrete vs Cordwood Construction
 
 ## Overview
 

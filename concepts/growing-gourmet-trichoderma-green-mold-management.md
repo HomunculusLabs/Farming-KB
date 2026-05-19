@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Trichoderma and Green Mold Management
+## Trichoderma and Green Mold Management
 
 Trichoderma species, commonly known as green mold, represent the
 most persistent and damaging contaminant in [[duggar-mushroom-growing-history-and-methods]] operations. They are

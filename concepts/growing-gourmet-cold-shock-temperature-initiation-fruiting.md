@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cold Shock and Temperature Initiation for Mushroom Fruiting
+## Cold Shock and Temperature Initiation for Mushroom Fruiting
 
 ## Overview
 

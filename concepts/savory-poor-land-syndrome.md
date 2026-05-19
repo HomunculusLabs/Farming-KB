@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Poor Land Syndrome
+## Poor Land Syndrome
 
 Poor Land Syndrome is Savory's term for the self-reinforcing cycle that begins
 with [[fukuoka-textdoc-production-costs-not-coming-down]] rise, debt accumulates, families split as young

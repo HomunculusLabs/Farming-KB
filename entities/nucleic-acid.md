@@ -5,7 +5,7 @@ type: entity
 tags: [molecule, macromolecule, dna, rna, genetics, nucleotide, plant-cell]
 ---
 
-# Nucleic Acid
+## Nucleic Acid
 
 ## Description
 

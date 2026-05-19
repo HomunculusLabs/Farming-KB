@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Microorganism Grain Medium
+## JADAM Microorganism Grain Medium
 
 Grains serve as an excellent medium for culturing microorganisms in JADAM.
 The JMS method uses steamed rice or other grains placed in the field to capture

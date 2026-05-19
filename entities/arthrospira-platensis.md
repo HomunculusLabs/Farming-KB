@@ -25,7 +25,7 @@ sources:
     Therapeutics, 28(4), e33-e45.
 ---
 
-# Arthrospira platensis
+## Arthrospira platensis
 
 ## Overview
 

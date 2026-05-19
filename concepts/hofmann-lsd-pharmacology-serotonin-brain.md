@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 type: concept
 ---
 
-# Hofmann on LSD Pharmacology, Serotonin, and the Brain
+## Hofmann on LSD Pharmacology, Serotonin, and the Brain
 
 ## Absorption and Distribution
 

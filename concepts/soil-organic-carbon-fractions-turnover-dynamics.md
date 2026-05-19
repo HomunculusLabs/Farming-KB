@@ -7,7 +7,7 @@ tags: [soil-organic-carbon, humus, carbon-fractionation, soil-carbon-sequestrati
 aliases: [som-fractions, soil-carbon-pools, poc-maoc, humification]
 ---
 
-# Soil Organic Carbon Fractions and Turnover Dynamics
+## Soil Organic Carbon Fractions and Turnover Dynamics
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, greenhouse, tropical-crop, banana, food-production]
 ---
 
-# Dwarf Cavendish Banana (Greenhouse Production)
+## Dwarf Cavendish Banana (Greenhouse Production)
 
 ## Description
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Plant Species Botanical Index (M–T)
+## Permaculture Plant Species Botanical Index (M–T)
 
 This index catalogs permaculture-relevant plant species from **Macadamia** through **Tamarindus**, drawn from [[bill-mollison]]'s *Permaculture: A Designer's Manual* appendix. Species are organized by botanical family and functional group to illustrate how taxonomic knowledge supports guild design, companion planting, and ecological succession planning.
 

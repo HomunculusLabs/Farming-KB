@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# G-4
+## G-4
 
 [[2c-b-pihkal-entry-20]] #83. 2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE;.
 

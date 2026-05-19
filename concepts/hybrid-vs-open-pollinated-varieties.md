@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Hybrid vs Open-Pollinated Varieties
+## Hybrid vs Open-Pollinated Varieties
 
 The debate between hybrid (F1) and open-pollinated (OP) varieties is one of the most misunderstood topics in gardening. Much of the anti-hybrid propaganda in circulation is misinformation put forth by people who want to profitably sell you low-cost seed. At the same time, [[cervantes-hybrid-varieties-types]] do present real issues for home gardeners — just not the ones usually cited. Understanding the actual differences helps you make informed seed-purchasing decisions.
 

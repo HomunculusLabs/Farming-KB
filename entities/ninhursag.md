@@ -5,7 +5,7 @@ type: entity
 tags: [deity, sumerian, mythology, goddess, creation]
 ---
 
-# Ninhursag
+## Ninhursag
 
 ## Description
 

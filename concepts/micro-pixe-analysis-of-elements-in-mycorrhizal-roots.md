@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Micro-PIXE Analysis of Elements in Mycorrhizal Roots
+## Micro-PIXE Analysis of Elements in Mycorrhizal Roots
 
 Micro-Particle Induced X-ray Emission (micro-PIXE) is a nuclear analytical technique used to localize and quantify elements at the cellular level in mycorrhizal root tissues. This technique provides spatially resolved elemental maps that reveal how [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] mediate plant interactions with soil minerals and contaminants. Traditional bulk analysis methods, such as atomic absorption spectroscopy or ICP-MS, provide total elemental concentrations but cannot reveal spatial heterogeneity within root tissues. Micro-PIXE fills this gap by combining quantitative elemental analysis with micron-scale spatial resolution.
 

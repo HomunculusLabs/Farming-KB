@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Paddy Melon
+## Paddy Melon
 
 ## Description
 

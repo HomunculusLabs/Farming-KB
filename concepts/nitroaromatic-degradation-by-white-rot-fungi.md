@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Nitroaromatic Degradation by White Rot Fungi Updated: 2026-04-18 Nitroaromatics are used in the manufacture of explosives, pesticides, pharmaceuticals, dyes, and plastics. They are common groundwater and soil contaminants near production sites and military facilities. Some are highly toxic, carcinogenic, or mutagenic. Regular exposure to TNT (2,4,6-trinitrotoluene) causes liver damage and anaemia. White rot fungi degrade nitroaromatics through a combination of ligninolytic enzymes and other enzymatic pathways. The degradation of nitroaromatics by white rot fungi is an important application of [[fukuoka-textdoc-genetic-engineering-critique-warning]] to produce LiP variants resistant to inhibition.
+## Nitroaromatic Degradation by White Rot Fungi Updated: 2026-04-18 Nitroaromatics are used in the manufacture of explosives, pesticides, pharmaceuticals, dyes, and plastics. They are common groundwater and soil contaminants near production sites and military facilities. Some are highly toxic, carcinogenic, or mutagenic. Regular exposure to TNT (2,4,6-trinitrotoluene) causes liver damage and anaemia. White rot fungi degrade nitroaromatics through a combination of ligninolytic enzymes and other enzymatic pathways. The degradation of nitroaromatics by white rot fungi is an important application of [[fukuoka-textdoc-genetic-engineering-critique-warning]] to produce LiP variants resistant to inhibition.
 
 ### Aromatic Nitroreductase
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
-# Psilocybe subcaerulipes
+## Psilocybe subcaerulipes
 
 **Psilocybe subcaerulipes** is a rare and little-known psychoactive species of mushroom in the family Hymenogastraceae. It is native to [[psilocybe-caerulipes]], from which it is distinguished by subtle but consistent differences in cap morphology, stipe characteristics, and microscopic features, as well as by its distinct geographic distribution separated by the Pacific Ocean. The prefix *sub-* denotes its status as a closely allied species rather than a variety, subspecies, or form of [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]), [[psilocybe-caerulipes]], which is named for its characteristically blue-staining foot). There is no annulus (ring) at any stage of development.
 

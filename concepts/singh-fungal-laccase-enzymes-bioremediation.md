@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Laccase Enzymes in Bioremediation
+## Fungal Laccase Enzymes in Bioremediation
 
 Laccase (benzenediol:oxygen oxidoreductase, EC 1.10.3.2) is a
 multicopper oxidase enzyme widely distributed among fungi, particularly

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Fruit Forest Establishment
+## Holzer Fruit Forest Establishment
 
 The establishment of fruit forests (also called food forests or orchard forests) is one of [[fukuoka-citrus-orchard-establishment-bare-hillside]]: instead of planting [[permaculture-principle-apply-self-regulation]] of producing no waste.
 

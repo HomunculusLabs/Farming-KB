@@ -6,7 +6,7 @@ topics: [cannabis, honey, hempseed-oil, topical-preparations, wound-care, omega-
 aliases: cannabis-topical-applications ointment, infused honey, cannabis skin care]
 ---
 
-# Cannabis-Infused Honey and Hempseed Oil Preparations
+## Cannabis-Infused Honey and Hempseed Oil Preparations
 
 ## Cannabis-Infused Honey
 

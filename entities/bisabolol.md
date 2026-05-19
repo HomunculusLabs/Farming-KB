@@ -18,7 +18,7 @@ sources:
   - https://pubchem.ncbi.nlm.nih.gov/compound/alpha-Bisabolol
 ---
 
-# α-Bisabolol
+## α-Bisabolol
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: []
 ---
-# Mycorrhizal Carbon Allocation
+## Mycorrhizal Carbon Allocation
 
 Mycorrhizal carbon allocation refers to the flow of photosynthetically fixed carbon from host plants to their mycorrhizal fungal partners. This carbon transfer is the fundamental basis of the mycorrhizal mutualism, with plants diverting a substantial portion of their photosynthate to fungal partners in exchange for enhanced nutrient uptake. Understanding carbon allocation patterns is critical for understanding ecosystem carbon cycling and the functioning of mycorrhizal symbioses.
 

@@ -23,7 +23,7 @@ sources:
 created: 2026-04-28
 type: comparison
 ---
-# Wood Chip Mulch faires-thermal-mass-applications-in-building but distinct roles in building healthy soil. Understanding their trade-offs helps you apply the righquery-how-to-store-mushroom-spores-long-terml to the right situation.
+## Wood Chip Mulch faires-thermal-mass-applications-in-building but distinct roles in building healthy soil. Understanding their trade-offs helps you apply the righquery-how-to-store-mushroom-spores-long-terml to the right situation.
 
 **Wood chip mulch** excels as a long-term surface mulch that feedscomparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-treesl networks, suppresses weeds for 1–3 years, and slowly releases nutrients. Best for perennials ([[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]] or arborist work. Typically a mix of bark, wood, and green material. Quality varies by tree species, chip size, and green-to-wood ratio.
 

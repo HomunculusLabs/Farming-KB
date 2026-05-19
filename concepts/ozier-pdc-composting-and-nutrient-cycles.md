@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Composting and Nutrient Cycles The nutrient cycle is one of the three fundamental ecological cycles that sustain all life on Earth. In a nutshell, plants use solar energy to mine the inert minerals of the Earth, make nutrients out of them, and then put those nutrients into circulation, basically forever. Understanding and maintaining this cycle is central to any [[williams-pdc-composting-and-nutrient-cycle]]
+## Composting and Nutrient Cycles The nutrient cycle is one of the three fundamental ecological cycles that sustain all life on Earth. In a nutshell, plants use solar energy to mine the inert minerals of the Earth, make nutrients out of them, and then put those nutrients into circulation, basically forever. Understanding and maintaining this cycle is central to any [[williams-pdc-composting-and-nutrient-cycle]]
 
 - [[ozier-pdc-sector-analysis-for-site-design]] for compost placement
 ## Practical Applications

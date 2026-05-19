@@ -4,7 +4,7 @@ source: masanobu-fukuoka-fukuoka.md
 type: concept
 ---
 
-# Masanobu Fukuoka's Natural Farming — The One-Straw Revolution
+## Masanobu Fukuoka's Natural Farming — The One-Straw Revolution
 
 [[masanobu-fukuoka]] (1913–2008) developed a method of [[natural-farming]] that requires **no ploughing, no [[chemical-fertilizer-cycle-and-lawn-soil-food-web]], no prepared compost, no weeding by tillage or herbicides, and no dependence on chemicals**. His rice and winter grain yields of ~22 bushels (1,300 lbs) per quarter acre match or exceed the top yields in Ehime Prefecture, Japan — one of the prime agricultural areas — yet his fields have not been ploughed for over 25 years.
 

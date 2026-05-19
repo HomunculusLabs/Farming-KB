@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
 type: concept
 ---
 
-# Sheet Mulching Methods for Urban Permaculture
+## Sheet Mulching Methods for Urban Permaculture
 
 [[oyster-mushroom-coffee-grounds-cultivation]], or fresh grass clippings. This
    feeds the decomposition process.

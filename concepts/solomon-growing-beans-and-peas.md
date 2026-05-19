@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Growing Beans and Peas
+## Solomon on Growing Beans and Peas
 
 From [[complete-organic-fertilizer-recipes]]
 - [[solomon-cover-crops-green-manure-guide]]

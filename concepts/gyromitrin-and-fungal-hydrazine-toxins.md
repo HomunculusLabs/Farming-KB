@@ -4,7 +4,7 @@ tags: [mycology, mushroom-toxins, gyromitrin, gyromitra, monomethylhydrazine, fu
 created: 2026-05-11
 ---
 
-# Gyromitrin and Other Fungal Hydrazine Toxins
+## Gyromitrin and Other Fungal Hydrazine Toxins
 
 Gyromitrin is a volatile, water-soluble organic compound produced by several species of
 false morel mushrooms, most notably [[huckleberries-and-wild-berries-of-north-america]].

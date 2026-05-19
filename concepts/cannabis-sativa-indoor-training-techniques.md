@@ -1,4 +1,8 @@
-# Cannabis Sativa Indoor Training Techniques for Height Management
+---
+title: "Cannabis Sativa Indoor Training Techniques for Height Management"
+tags:
+  - concept
+---
 
 ## The Challenge of Growing Sativa Strains Indoors
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/amaringo-p-ayahuasca-visions.md"
 ---
 
-# Amazonian Medicinal Plants in Amaringo's Visions
+## Amazonian Medicinal Plants in Amaringo's Visions
 
 Pablo Amaringo's [[amaringo-ayahuasca-visions-shipibo-iconography]]
 - [[soil-food-web]]

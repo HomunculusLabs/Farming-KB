@@ -5,7 +5,7 @@ source: [[benjamin-duggar]]-mushroom-growing-history-and-methods (1915)
 tags: [spawn, pure-culture, brick-spawn, mycelium, inoculation, mushroom-cultivation]
 ---
 
-# Mushroom Spawn Making and Pure Culture Methods
+## Mushroom Spawn Making and Pure Culture Methods
 
 ## The Fundamental Role of Spawn
 

@@ -1,5 +1,5 @@
 ---
-title: "cervantes-bacillus-thuringiensis-bt-control"
+title: "Bacillus Thuringiensis"
 created: 2026-04-28
 type: species
 tags:
@@ -21,7 +21,7 @@ sources:
   - Schnepf, E., et al. (1998). "Bacillus thuringiensis and its pesticidal crystal proteins." Microbiology and Molecular Biology Reviews, 62(3), 775-806.
   - FAO/WHO. (2021). "Pesticide residues in food — Joint Meeting on Pesticide Residues (JMPR)." JMPR Report.
 ---
-# Bacillus thuringiensis
+## Bacillus thuringiensis
 
 ## Taxonomy
 

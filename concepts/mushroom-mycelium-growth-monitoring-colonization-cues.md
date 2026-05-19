@@ -1,4 +1,8 @@
-# Monitoring Mycelium Growth and Colonization Cues in Mushroom Cultivation
+---
+title: "Monitoring Mycelium Growth and Colonization Cues in Mushroom Cultivation"
+tags:
+  - concept
+---
 
 ## Overview
 

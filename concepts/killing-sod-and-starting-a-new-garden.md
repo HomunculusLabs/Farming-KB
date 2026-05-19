@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Killing Sod and Starting a New Garden
+## Killing Sod and Starting a New Garden
 
 ## Overview
 

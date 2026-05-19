@@ -13,7 +13,7 @@ sources:
 created: 2026-05-07
 type: query---
 
-# What Are the [[query-how-do-i-grow-king-oyster-mushrooms]] lb/lb sub | Hardwood sawdust | Indoor |
+## What Are the [[query-how-do-i-grow-king-oyster-mushrooms]] lb/lb sub | Hardwood sawdust | Indoor |
 | King Oyster (*P. eryngii [[growing-gourmet-mushroom-dehydration-methods-equipment]] and rewarding for patient growers.
 
 **Pros:**

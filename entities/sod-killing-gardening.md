@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: entity
 ---
 
-# Sod Killing (Gardening)
+## Sod Killing (Gardening)
 
 ## Description
 

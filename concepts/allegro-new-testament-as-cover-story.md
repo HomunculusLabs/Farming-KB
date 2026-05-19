@@ -9,7 +9,7 @@ type: concept
 tags: [reference]
 ---
 
-# The New Testament as Mushroom Cult Cover Story
+## The New Testament as Mushroom Cult Cover Story
 
 At the heart of John Marco Allegro's controversial thesis in "The Sacred
 Mushroom and the Cross" lies the claim that the entire New Testament is a

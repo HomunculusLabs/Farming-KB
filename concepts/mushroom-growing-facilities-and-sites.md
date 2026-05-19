@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Growing Facilities and Sites
+## Mushroom Growing Facilities and Sites
 
 ## Overview
 

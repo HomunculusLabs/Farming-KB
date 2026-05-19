@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Plutarch and Cicero on the Eleusinian Mysteries
+## Plutarch and Cicero on the Eleusinian Mysteries
 
 The testimonies of Plutarch and Cicero are among the most important literary sources for understanding how the [[ergot-and-lysergic-acid-history]] amide and related compounds. The [[the-road-to-eleusis-wasson-hofmann-ruck]]* note, the Greeks were sophisticated about drama and it is highly unlikely they could have been duped by theatrical trickery alone.
 - **Isocrates**: Praised the Mysteries for teaching piety and the proper conduct of life.

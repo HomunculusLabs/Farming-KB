@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Root Cellaring
+## Solomon on Root Cellaring
 
 From [[growing-root-vegetables-guide]] (ethylene gas causes sprouting and off-flavors).
 - **Sweet potatoes**: Require curing at 80-85 degrees F, then storage at 55-60 degrees F. They suffer chilling injury below 50 degrees F.

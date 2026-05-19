@@ -5,7 +5,7 @@ tags: [psilocin, serotonin, tryptamine, neurotransmitter, chemistry, pharmacolog
 created: 2026-05-08
 ---
 
-# Psilocin Chemistry and Relationship to [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] family, alongside DMT, mescaline analogs, and LSD.
+## Psilocin Chemistry and Relationship to [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] family, alongside DMT, mescaline analogs, and LSD.
 
 Understanding the relationship between psilocin and serotonin is essential for understanding both the therapeutic potential and the subjective effects of magic mushrooms.
 

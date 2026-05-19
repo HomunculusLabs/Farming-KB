@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Medically Important Fungi — Pathogens and Opportunists
+## Medically Important Fungi — Pathogens and Opportunists
 
 More than 300 species of fungi are known to be potential pathogens of humans and other homeothermic vertebrates. These range from virulent systemic pathogens to opportunistic organisms that cause disease primarily in immunocompromised hosts. The clinical significance of fungal infections has grown dramatically with the rise of immunosuppressive therapies, organ transplantation, HIV/AIDS, and invasive medical procedures. Understanding the diversity and ecology of these fungi is essential for both clinical mycology and environmental health.
 

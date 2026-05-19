@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Local Currencies
+## Local Currencies
 
 Local currencies are community-created monetary systems that circulate within a defined geographic area to facilitate trade, support local economic resilience, and keep capital circulating within the community rather than flowing to external economic centres. Bill Mollison discusses [[psilocybin-north-america-pacific-northwest]] issued local scrip to maintain economic activity when national currency was scarce. The Worgl experiment in Austria demonstrated that a local currency with a demurrage fee, which encouraged rapid circulation, could stimulate economic activity and reduce unemployment.
 

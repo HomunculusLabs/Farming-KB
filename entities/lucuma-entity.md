@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Lucuma
+## Lucuma
 
 **Type:** Species (Plant)
 **Category:** Evergreen [[hamilton-composting-and-organic-matter-management]]

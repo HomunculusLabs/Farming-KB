@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Post-Harvest Handling and Marketing of Mushrooms
+## Post-Harvest Handling and Marketing of Mushrooms
 
 Post-harvest handling and marketing are critical to the success of any
 [[query-how-to-grow-oyster-mushrooms-at-home]], 200g sticky rice, 150g

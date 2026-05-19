@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cryptochrome and Blue Light Photoreception
+## Cryptochrome and Blue Light Photoreception
 
 ## Overview
 

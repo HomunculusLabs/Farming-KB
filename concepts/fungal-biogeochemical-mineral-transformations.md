@@ -6,7 +6,7 @@ tags: [geomycology, mineral-weathering, biogeochemical-cycling, metal-transforma
 created: 2026-05-08
 ---
 
-# Fungal Biogeochemical Mineral Transformations
+## Fungal Biogeochemical Mineral Transformations
 
 ## Overview
 

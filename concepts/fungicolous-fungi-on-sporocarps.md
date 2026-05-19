@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungicolous Fungi on Sporocarps
+## Fungicolous Fungi on Sporocarps
 
 Fungi living on fresh or decaying sporocarps of other nonlichenized fungi (SCIF — sporocarp-inhabiting fungi) represent one of the best-studied groups of mycoparasites. Their substrata include dry or soft macromycete sporocarps, anamorphs, conidiomata, conidiophores, and conidia. SCIF are mainly Ascomycota or their anamorphs, but also include some Zygomycota and many Basidiomycota (particularly Tremellales and some Agaricales).
 

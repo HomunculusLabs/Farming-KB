@@ -5,7 +5,7 @@ type: entity
 tags: [species, fungi, polypore, bracket-fungi, bitter]
 ---
 
-# Polyporus squamosus
+## Polyporus squamosus
 
 ## Description
 

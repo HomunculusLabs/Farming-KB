@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Meadow Vole Management in Winter Greenhouses
+## Meadow Vole Management in Winter Greenhouses
 
 While insect and disease pests have not been a significant concern in winter greenhouse production, one pest has emerged as a serious problem for four-season growers: the [[meadow-vole]] (*Microtus pennsylvanicus*). Unlike typical insect pests that can be managed with biological or organic sprays, voles present a unique set of challenges that require dedicated trapping strategies and persistent year-round management.
 

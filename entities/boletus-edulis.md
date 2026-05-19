@@ -17,7 +17,7 @@ sources:
   - "Boa, E. (2004). Wild Edible Fungi: A Global Overview of Their Use and Importance to People. FAO."
 ---
 
-# Boletus edulis
+## Boletus edulis
 
 ## Overview
 

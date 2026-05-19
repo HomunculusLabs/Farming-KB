@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom Cultivation in Space
+## Mushroom Cultivation in Space
 
 Cultivating mushrooms in space presents unique challenges and extraordinary opportunities. As humanity looks toward extended space missions, lunar bases, and eventual Martian colonization, mushrooms emerge as an ideal candidate for space agriculture due to their minimal light requirements, rapid growth, ability to grow on waste substrates, and high protein content. Space-based [[mushroom-cultivation]] represents an extreme form of permaculture — a closed system where everything must be recycled and fed back into the cycle.
 

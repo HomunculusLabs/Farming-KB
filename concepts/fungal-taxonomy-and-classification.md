@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology], taxonomy, systematics, classification]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# fungal taxonomy and classification
+## fungal taxonomy and classification
 
 [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] with flagellated spores, and the
 **Blastocladiomycota** are a related group with complex [[taxonomic-impediment-fungal-species-description]] remains far too slow relative to the scale of

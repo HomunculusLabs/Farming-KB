@@ -6,7 +6,7 @@ tags: [agar, petri-plates, tissue-culture, sterile-technique, mycology-laborator
 aliases: [Making Agar Plates, [[fungal-culture-media]], Potato Agar Recipe]
 ---
 
-# Agar Plate Preparation and Formulation
+## Agar Plate Preparation and Formulation
 
 The complete process of preparing, sterilizing, pouring, storing, and customizing
 agar plates for fungal [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]] [[duggar-mushroom-life-cycle-spore-germination-fruiting]] in [[mushroom-cultivation]].

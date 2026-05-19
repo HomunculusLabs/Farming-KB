@@ -5,7 +5,7 @@ tags: [native-american-church, peyote, ceremony, roadman, shamanism, entheogenic
 created: 2026-05-10
 ---
 
-# Native American Church Peyote Ceremony: Structure and Roles
+## Native American Church Peyote Ceremony: Structure and Roles
 
 ## Overview
 

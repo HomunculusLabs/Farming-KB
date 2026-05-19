@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "Natural Farming Poster - Modern Natural Farming Tech (MNFT) for Cannabis"
 ---
-# Input-Free Farming Philosophy
+## Input-Free Farming Philosophy
 
 The Modern Natural Farming Technology (MNFT) poster promotes an approach to cultivation that minimises or eliminates purchased inputs by relying on foraged, locally available, and self-produced materials. Rooted in Master Cho Han-Kyu's Korean Natural Farming (KNF) and informed by Masanobu Fukuoka's philosophy of working with nature rather than against it, input-free farming treats the grower as part of a regenerative cycle rather than a consumer of agricultural products.
 

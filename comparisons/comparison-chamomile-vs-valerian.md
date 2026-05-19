@@ -7,7 +7,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
-# Chamomile vs Valerian
+## Chamomile vs Valerian
 
 ## Overview
 

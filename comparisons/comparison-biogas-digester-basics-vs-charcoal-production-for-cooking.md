@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Biogas Digester vs Charcoal Production for Cooking
+## Biogas Digester vs Charcoal Production for Cooking
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Food Web Introduction
+## Soil Food Web Introduction
 
 The **[[soil-food-web]]** is the complex community of organisms living in soil—bacteria, fungi, protozoa, nematodes, arthropods, earthworms, and larger creatures—all interconnected through feeding relationships. Rather than a simple linear food chain, these organisms form a **web** of interactions where many species eat from more than one food source and are consumed by more than one type of predator. Understanding this web is the foundation of sustainable, organic gardening and agriculture.
 

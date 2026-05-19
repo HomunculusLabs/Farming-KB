@@ -1,4 +1,8 @@
-# Epinephrine Stress Response and Endocannabinoid Modulation
+---
+title: "Epinephrine Stress Response and Endocannabinoid Modulation"
+tags:
+  - concept
+---
 
 ## Overview
 Epinephrine, also known as adrenaline, is a hormone and neurotransmitter associated

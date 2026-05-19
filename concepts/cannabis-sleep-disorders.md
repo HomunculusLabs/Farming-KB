@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis-sleep-disorders-and-insomnia
+title: "Cannabis Sleep Disorders"
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Sleep Disorders
+## Cannabis Sleep Disorders
 
 Cannabis has been used for centuries as a sleep aid, and modern research is beginning to clarify the mechanisms and optimal applications. The [[cannabis-pain-management-protocols]], anxiety, and neurological conditions.
 

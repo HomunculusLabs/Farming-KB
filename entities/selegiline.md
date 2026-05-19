@@ -16,7 +16,7 @@ sources:
   - Wikipedia contributors. "Selegiline." Wikipedia, The Free Encyclopedia.
 ---
 
-# Selegiline
+## Selegiline
 
 **Type:** Chemical / Pharmaceutical / MAO Inhibitor
 **Category:** Selective MAO-B inhibitor / Neuroprotective agent

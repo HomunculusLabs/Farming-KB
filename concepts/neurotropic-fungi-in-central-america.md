@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Neurotropic Fungi in Central America and the Caribbean Central America and the Caribbean region serve as a biogeographic bridge between the high-diversity centers of Mexico and South America for neurotropic-fungi-in-mexico - Northern neighbor, highest global diversity - neurotropic-fungi-biogeographic-patterns - Distribution analysis - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+## Neurotropic Fungi in Central America and the Caribbean Central America and the Caribbean region serve as a biogeographic bridge between the high-diversity centers of Mexico and South America for neurotropic-fungi-in-mexico - Northern neighbor, highest global diversity - neurotropic-fungi-biogeographic-patterns - Distribution analysis - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 ## Background and Context
 
 Neurotropic Fungi in Central America and the Caribbean is an important subject that has garnered significant attention

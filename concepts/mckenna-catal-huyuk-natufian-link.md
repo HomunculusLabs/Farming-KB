@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany]
 sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 ---
 
-# Catal Huyuk and the Natufian Link
+## Catal Huyuk and the Natufian Link
 
 ## The Neolithic Culmination of Partnership Culture
 

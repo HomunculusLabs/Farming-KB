@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Deep-Organic Farming
+## Deep-Organic Farming
 
 ## Description
 

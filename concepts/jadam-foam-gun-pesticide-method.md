@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Foam Gun Pesticide Method (JADAM Technique)
+## Foam Gun Pesticide Method (JADAM Technique)
 
 ## Overview
 

@@ -19,7 +19,7 @@ related_concepts:
   - gadd-fungal-biodiversity-conservation
 ---
 
-# [[fungal-appressorium-and-infection-structures]] such as haustoria or appressoria, and many species can switch between modes depending on environmental conditions.
+## [[fungal-appressorium-and-infection-structures]] such as haustoria or appressoria, and many species can switch between modes depending on environmental conditions.
 
 The absorptive mode of nutrition requires fungi to decompose complex organic matter externally before uptake, using remarkably diverse [[dighton-fungal-extracellular-enzyme-systems-decomposition]].
 

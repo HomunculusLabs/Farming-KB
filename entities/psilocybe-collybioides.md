@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, tasmania, entheogenic, agaricales, wood-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 ---
 
-# Psilocybe collybioides
+## Psilocybe collybioides
 
 **Psilocybe collybioides** is a [[cattle-dispersal-psychoactive-fungi-australia]] in the southern Australian states.
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Citrus Orchard Soil Building Without Fertilizer
+## Citrus Orchard Soil Building Without Fertilizer
 
 Fukuoka's approach to restoring and maintaining soil fertility in citrus orchards
 relies entirely on natural processes: [[coleman-mobile-greenhouse-green-manure-soil-building]] trees, and the

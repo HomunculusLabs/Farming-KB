@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fractals and Branching Patterns in Nature
+## Fractals and Branching Patterns in Nature
 
 Fractals and branching patterns are among the most pervasive structures in the natural world. From the dendritic spread of tree roots underground to the intricate branching of a river delta seen from space, these self-similar patterns recur at every scale and across virtually every type of natural system. Understanding fractals gives [[fractals-branching-and-conduit-design]]
 - [[mnemonic-patterns-and-sacred-art]]

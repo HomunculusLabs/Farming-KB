@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Jivaro Bewitching and Curing Shamanic Practices
+## Jivaro Bewitching and Curing Shamanic Practices
 
 ## Overview
 

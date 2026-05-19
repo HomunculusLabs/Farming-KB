@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Four Principles of Natural Farming
+## Fukuoka's Four Principles of Natural Farming
 
 Masanobu Fukuoka's natural farming system rests on four foundational principles: **no cultivation, no fertilizer, no weeding, and no pesticides**. These principles emerged from decades of experimentation on his farm in Ehime Prefecture, Japan, where he achieved yields comparable to or exceeding those of [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]].
 

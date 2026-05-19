@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Nutrient Uptake by Plant Roots
+## Nutrient Uptake by Plant Roots
 
 Plants acquire essential mineral nutrients from soil through three distinct mechanisms—interception, mass flow, and diffusion—often aided by microbial partners in the rhizosphere. Understanding these pathways is fundamental to understanding how plants "eat" and how gardeners can support plant nutrition through soil management.
 

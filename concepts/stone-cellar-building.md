@@ -7,7 +7,7 @@ tags: [permaculture, construction, storage, humidity, temperature, preservation,
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Stone Cellar Building
+## Stone Cellar Building
 
 Stone cellars provide permanent storage for fruit and vegetables with the same basic characteristics as wooden earth cellars but are designed to last indefinitely, requiring a great deal more work to construct.
 

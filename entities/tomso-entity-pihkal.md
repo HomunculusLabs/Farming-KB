@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TOMSO
+## TOMSO
 
 [[shipibo-san-francisco-ceremonial-center-ucayali]] by BART, and walked up Market
 > Street and saw all the completely bizarre faces. I was absolutely

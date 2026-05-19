@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# Fiber vs Drug Cannabis Strain Phenotypes and Gross Morphology (Clarke)
+## Fiber vs Drug Cannabis Strain Phenotypes and Gross Morphology (Clarke)
 
 ## Classification Overview
 

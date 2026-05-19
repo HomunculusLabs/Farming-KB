@@ -22,7 +22,7 @@ sources:
   - Arnolds, E. (1982). "Ecology and coenology of macrofungi in grasslands and moist heathlands in Drenthe." Bibliotheca Mycologica, 83, 1–408.
 ---
 
-# Hygrophorus coccineus
+## Hygrophorus coccineus
 
 ## Overview
 

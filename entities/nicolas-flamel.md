@@ -5,7 +5,7 @@ type: entity
 tags: [person, pseudonym, author, history, alchemy]
 ---
 
-# Nicolas Flamel
+## Nicolas Flamel
 
 ## Description
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Species: Teonanacatl
+## Psilocybe Species: Teonanacatl
 
 ## Little Flowers of the Gods
 

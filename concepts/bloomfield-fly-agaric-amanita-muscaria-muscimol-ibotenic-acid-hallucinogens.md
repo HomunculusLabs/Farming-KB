@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Fly Agaric Pharmacology: Amanita muscaria
+## Fly Agaric Pharmacology: Amanita muscaria
 
 ## Overview
 

@@ -5,7 +5,7 @@ author: Nicholas P. Money
 topics: mycology, toxicology, amatoxins, mushroom poisoning, death cap, identification
 ---
 
-# Angel of Death — Poisonous Mushroom Identification and Toxinology
+## Angel of Death — Poisonous Mushroom Identification and Toxinology
 
 The deadliest mushrooms in the world belong to a small group of species
 that contain amatoxins, and among these the death cap, Amanita phalloides,

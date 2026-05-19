@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Medicinal Mushroom Dietary Supplements and Future Development
+## Medicinal Mushroom Dietary Supplements and Future Development
 
 The medicinal mushroom industry has grown into a multibillion-dollar market, with products ranging from dried fruit-body powders to pharmaceutical-grade purified compounds. This concept examines the current state of mushroom dietary supplements, manufacturing approaches, [[cannabis-microbiome-agricultural-implications-and-future-directions]].
 

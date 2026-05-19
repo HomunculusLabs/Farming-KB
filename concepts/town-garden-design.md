@@ -8,7 +8,7 @@ sources:
   - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Town Garden Design
+## Town Garden Design
 
 ## Purpose
 

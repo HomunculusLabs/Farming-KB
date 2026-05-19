@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Neurological Conditions
+## Cannabis Neurological Conditions
 
 The endocannabinoid system is intimately involved in neurological function, making cannabis a promising therapeutic option for a range of neurological conditions. The [[cannabis-neuroprotection-mechanisms-neurological-diseases]] in general, with specific sections on epilepsy, [[plant-circadian-rhythms]]
 

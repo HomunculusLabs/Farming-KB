@@ -7,10 +7,10 @@ tags: [mycology, species]
 sources: - "raw/papers/j-gartz-narrenschwamme.md" --- --- title: Claviceps purpurea type: species tags: [ergot, plants-of-the-gods-claviceps-ergot-alkaloids, lysergic-acid, parasitic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Claviceps purpurea
+## Claviceps purpurea
 
 **Claviceps purpurea** is a parasitic fungus in the family Clavicipitaceae that infects the
 flowers of grasses and cereals, particularly rye (secale cereale), wheat, barley, and oats.

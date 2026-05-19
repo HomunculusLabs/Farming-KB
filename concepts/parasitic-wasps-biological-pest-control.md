@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Parasitic Wasps — Biological Pest Control Agents
+## Parasitic Wasps — Biological Pest Control Agents
 
 [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents used in agriculture, forestry, and [[economics-of-winter-greenhouse-production]].
 Unlike true parasites, parasitoids develop on or inside a single host and

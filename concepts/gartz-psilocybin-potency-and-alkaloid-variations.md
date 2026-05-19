@@ -9,7 +9,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Psilocybin Potency and Alkaloid Variations
+## Psilocybin Potency and Alkaloid Variations
 
 One of Jochen Gartz's most significant contributions to mycological science
 is his systematic analysis of the alkaloid content of psychoactive

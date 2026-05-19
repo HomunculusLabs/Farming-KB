@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# G-N
+## G-N
 
 PIHKAL entry #86. 1,4-DIMETHOXYNAPHTHYL-2-ISOPROPYLAMINE.
 

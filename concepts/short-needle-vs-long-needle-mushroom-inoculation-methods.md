@@ -1,4 +1,8 @@
-# Short Needle vs. Long Needle Inoculation Methods for Mushroom Substrate Bags
+---
+title: "Short Needle vs. Long Needle Inoculation Methods for Mushroom Substrate Bags"
+tags:
+  - concept
+---
 
 ## Overview
 

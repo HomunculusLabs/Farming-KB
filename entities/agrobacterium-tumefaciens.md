@@ -5,7 +5,7 @@ type: entity
 tags: [bacteria, plant-pathogen, soil-microbiology, genetic-engineering, crown-gall]
 ---
 
-# Agrobacterium tumefaciens
+## Agrobacterium tumefaciens
 
 ## Description
 

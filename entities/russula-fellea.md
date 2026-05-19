@@ -5,7 +5,7 @@ type: entity
 taxonomy: fungi
 ---
 
-# Russula fellea (Bitter Russula)
+## Russula fellea (Bitter Russula)
 
 ## Description
 

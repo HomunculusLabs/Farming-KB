@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# NMR Characterization of Psilocin and Psilocybin
+## NMR Characterization of Psilocin and Psilocybin
 
 ## Overview
 

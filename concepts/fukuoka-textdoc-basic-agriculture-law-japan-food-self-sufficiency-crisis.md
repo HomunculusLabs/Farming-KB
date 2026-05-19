@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Japan's Basic Agriculture Law and the Food Self-Sufficiency Crisis
+## Japan's Basic Agriculture Law and the Food Self-Sufficiency Crisis
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Plant Spacing and Layout
+## Plant Spacing and Layout
 
 Plant spacing is the single most important decision a gardener makes — it determines water needs, yield per plant, total yield, weed pressure, disease risk, and the amount of labor required. This concept page presents a comprehensive spacing reference based on four systems: intensive, semi-intensive, extensive (good rainfall), and extensive (limited water).
 

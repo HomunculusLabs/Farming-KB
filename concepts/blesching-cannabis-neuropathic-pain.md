@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Neuropathic Pain
+## Cannabis and Neuropathic Pain
 
 ## Overview
 

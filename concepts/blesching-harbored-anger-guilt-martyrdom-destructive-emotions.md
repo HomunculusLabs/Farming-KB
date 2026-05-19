@@ -6,7 +6,7 @@ topics: [mind-body-medicine, emotions, anger, guilt, martyrdom, psychosomatic-he
 aliases: [destructive emotions, harbored anger, guilt as motivation, martyrdom complex, righteous anger, emotional toxicity]
 ---
 
-# Harbored Anger, Guilt, and Martyrdom
+## Harbored Anger, Guilt, and Martyrdom
 
 ## Overview
 

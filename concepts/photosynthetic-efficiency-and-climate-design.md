@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Photosynthetic Efficiency and Climate Design
+## Photosynthetic Efficiency and Climate Design
 
 Understanding the relationship between photosynthetic efficiency and climate is fundamental to [[altitude-effects]]** — temperature lapse rates, UV increase, growing season compression
 - **Thermal belts** — zones of reduced frost risk on slopes

@@ -7,7 +7,7 @@ tags: [regenerative, compost, mycoremediation, waste-management]
 sources: [raw/papers/fungi-magazine-fungi-and-sustainability.md]
 ---
 
-# Agricultural Waste Recycling and Valorization
+## Agricultural Waste Recycling and Valorization
 
 ## Overview
 

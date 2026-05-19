@@ -11,7 +11,7 @@ sources:
   - "Whitefield, P. (2004). The Earth Care Manual: A Permaculture Handbook for Britain and Other Temperate Climates. Permanent Publications."
 ---
 
-# Alchemilla vulgaris
+## Alchemilla vulgaris
 
 Alchemilla vulgaris, commonly known as common lady's mantle, is a herbaceous perennial plant in the family Rosaceae, native to Europe and northern Asia. Renowned for its fan-shaped, finely lobed leaves that catch and hold dewdrops with striking elegance, lady's mantle has been valued for centuries in European folk medicine and is increasingly recognized in [[nutrient-dynamic-accumulator-reference]] properties, ground-cover utility, and role in supporting [[psilocybin-north-america-pacific-northwest]] and New Zealand. The species favors:
 

@@ -7,7 +7,7 @@ tags: [permaculture, design, energy, shelter, homesteading, self-sufficiency, mi
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Zone 0 House Design
+## Permaculture Zone 0 House Design
 
 Zone 0 is the house or village itself -- the origin from which all permaculture design radiates outward. The available energy in Zone 0 is human, animal, piped-in, or created on site. To conserve energy, work, and time, components are placed in concentric zones of decreasing management intensity.
 

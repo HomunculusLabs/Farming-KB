@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, pasteurization, sterilization, substrate-preparation]
 ---
 
-# Mushroom Pasteurization
+## Mushroom Pasteurization
 
 ## Description
 

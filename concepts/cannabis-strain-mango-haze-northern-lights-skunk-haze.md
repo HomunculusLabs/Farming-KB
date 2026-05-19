@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# Mango Haze
+## Mango Haze
 
 > *A sativa-dominant masterpiece from [[oner-mango-haze-mr-nice-seedbank-haze-skunk]], Holland |
 | **Genetics** | [[northern-lights]]/Haze and Skunk/Haze, delivering a quadruple dose of [[skunk-1]] and [[haze-genetics]]** — The quintessential sativa, originally developed in Santa Cruz, California

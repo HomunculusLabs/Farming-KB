@@ -7,7 +7,7 @@ journal: Mycologia 74(2)
 topics: [mycology, fungal-physiology, plant-hormones, mushroom-tropism, basidiomycete-development]
 ---
 
-# Mushroom Growth Hormone: Decapitation Experiments and Gill Diffusate Evidence
+## Mushroom Growth Hormone: Decapitation Experiments and Gill Diffusate Evidence
 
 ## Overview
 

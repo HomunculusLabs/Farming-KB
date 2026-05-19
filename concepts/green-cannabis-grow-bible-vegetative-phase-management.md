@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Vegetative Phase Management
+## Vegetative Phase Management
 
 [[query-how-to-manage-cannabis-odor-and-stay-discreet]] plants
 through their [[green-cannabis-vegetative-growth]]. Adjust light

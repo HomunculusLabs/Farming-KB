@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
 type: concept
 ---
-# Permaculture Food Forest Equivalency ## Overview Food forest equivalency is a foundational concept in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course Pamphlet X, "[[permaculture-food-forest-design-principles]]
+## Permaculture Food Forest Equivalency ## Overview Food forest equivalency is a foundational concept in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course Pamphlet X, "[[permaculture-food-forest-design-principles]]
 ## Background and Context
 
 Permaculture Food Forest Equivalency is an important subject that has garnered significant attention

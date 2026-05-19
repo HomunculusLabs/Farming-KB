@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
-# [[inoculation-methods]] across different
+## [[inoculation-methods]] across different
 culture stages, each with specific procedures to maximize success rates.
 
 ## Agar-to-Agar Transfers

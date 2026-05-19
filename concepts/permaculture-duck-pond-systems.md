@@ -7,7 +7,7 @@ tags: [permaculture, ducks, water, water-management, ecology, forage, design]
 sources: []
 ---
 
-# Permaculture Duck Pond Systems
+## Permaculture Duck Pond Systems
 
 Duck pond systems in permaculture integrate water management, animal husbandry, and plant production into a single productive element. Unlike chickens, ducks are waterfowl that thrive with access to open water, and their pond can become the center of a productive aquatic ecosystem that yields food, fertilizer, and wildlife habitat.
 

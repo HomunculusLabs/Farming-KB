@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Precipitation Patterns and Opportunistic [[permaculture]] is to capture and store as much of this lost water as possible.
+## Desert Precipitation Patterns and Opportunistic [[permaculture]] is to capture and store as much of this lost water as possible.
 
 ## Runoff and Stream Flow
 

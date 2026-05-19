@@ -5,7 +5,7 @@ type: entity
 tags: [technique, forestry, agroforestry, permaculture, sri-lanka]
 ---
 
-# Analogue Forestry
+## Analogue Forestry
 
 ## Description
 

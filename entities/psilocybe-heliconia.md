@@ -10,7 +10,7 @@ sources:
   - ""raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
-# Psilocybe heliconia
+## Psilocybe heliconia
 
 Psilocybe heliconiae is a neotropical psychoactive mushroom species in the
 family Strophariaceae, first described by Guzmán, Saldarriaga, Pineda, García

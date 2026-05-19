@@ -12,7 +12,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Mycoremediation of Pharmaceutical Contaminants
+## Mycoremediation of Pharmaceutical Contaminants
 
 ## Overview
 

@@ -19,7 +19,7 @@ sources:
 type: comparison
 ---
 
-# Black Soldier Fly Farming vs Vermicomposting
+## Black Soldier Fly Farming vs Vermicomposting
 
 Both Black Soldier Fly (BSF) larvae and red wiggler worms (*Eisenia fetida*) are powerful bio-conversion tools for turning organic waste into valuable products. They serve overlapping but distinct roles on the homestead or farm. This comparison helps you [[oyster-mushroom-coffee-grounds-cultivation]], aged manure |
 | **Protein Output** | High — 35–45% protein in dried larvae (livestock/aquaculture feed) | None — worms are not typically harvested for protein |

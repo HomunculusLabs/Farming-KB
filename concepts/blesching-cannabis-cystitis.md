@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Cystitis
+## Cannabis and Cystitis
 
 ## Overview
 

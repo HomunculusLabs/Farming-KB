@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Legumes — Beans and Peas
+## Growing Legumes — Beans and Peas
 
 Everybody thinks legumes enrich soil by making nitrates. Actually, all nitrates formed in the roots are immediately incorporated into above-ground parts — leaves and then seeds. Thus legumes do not supply fertility to companion crops. However, if their tops are turned under while still green and lush, their decomposition does add significant quantities of nitrates for the following crop.
 

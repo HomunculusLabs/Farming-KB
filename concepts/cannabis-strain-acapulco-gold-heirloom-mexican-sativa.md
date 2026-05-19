@@ -5,7 +5,7 @@ tags: [cannabis, strain, acapulco-gold, mexican-sativa, heirloom, landrace]
 created: 2026-05-11
 ---
 
-# Acapulco Gold: Heirloom Mexican Sativa
+## Acapulco Gold: Heirloom Mexican Sativa
 
 Acapulco Gold is one of the most legendary and historically significant cannabis strains in existence.
 Named after the Pacific coast city of Acapulco in Guerrero state,  Mexico,

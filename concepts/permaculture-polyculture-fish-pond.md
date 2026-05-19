@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-# Permaculture Polyculture Fish Pond Systems [[fukuoka-duck-rice-fish-polyculture]]
+## Permaculture Polyculture Fish Pond Systems [[fukuoka-duck-rice-fish-polyculture]]
 
 See also: [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom

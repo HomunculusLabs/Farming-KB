@@ -10,7 +10,7 @@ sources:
   - "https://www.firstnature.com/fungi/cortinarius-orellanus.php"
 ---
 
-# Cortinarius orellanus
+## Cortinarius orellanus
 Cortinarius orellanus, the deadly webcap, is a highly
 [[orellanine]] toxin causes
 irreversible kidney damage with a long latency period of

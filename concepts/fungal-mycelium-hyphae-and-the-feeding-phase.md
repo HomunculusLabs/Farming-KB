@@ -8,7 +8,7 @@ type: concept
 tags: [mycelium, hyphae, fungal-biology, mycorrhiza, underground-networks, fungal-life-cycle]
 ---
 
-# Fungal Mycelium and the Hidden Feeding Phase
+## Fungal Mycelium and the Hidden Feeding Phase
 
 The mushroom that catches the human eye is merely the reproductive organ of a
 far larger and more enduring organism. The vast majority of a fungus's life is

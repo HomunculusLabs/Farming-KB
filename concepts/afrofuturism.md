@@ -6,7 +6,7 @@ sources: []
 type: concept
 tags: [reference]
 ---
-# Afrofuturism
+## Afrofuturism
 ## Overview
 Afrofuturism is a cultural, artistic, and intellectual movement that imagines futures through Black histories, experiences, technologies, and cosmologies.
 It appears in literature, music, film, , fashion, comics, games, architecture, scholarship, and political thought.

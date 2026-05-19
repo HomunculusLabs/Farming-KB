@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
-# Soil Microbiology Basics
+## Soil Microbiology Basics
 
 The soil food web is the community of organisms living in soil, from bacteria and fungi to protozoa, nematodes, microarthropods, and earthworms. Dr. Elaine Ingham's work demonstrates that these organisms are the primary drivers of soil fertility, plant health, and [[query-can-fungi-break-down-plastic-pollution]] down chemical residues and organic toxins
 5. **Build soil structure**: Microbial glues create microaggregates (bacteria) and macroaggregates (fungi); larger organisms create pore spaces

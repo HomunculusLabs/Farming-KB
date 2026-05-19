@@ -7,7 +7,7 @@ tags: [compost, vermicompost, microbes, construction, organic, gardening, compos
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Wormery Construction
+## Wormery Construction
 
 ## Overview
 

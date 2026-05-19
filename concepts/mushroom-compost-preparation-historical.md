@@ -5,7 +5,7 @@ source: Benjamin duggar-mushroom-growing-history-and-methods (1915)
 tags: [compost, manure, fermentation, mushroom-cultivation, horse-manure, substratum]
 ---
 
-# [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
+## [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 ## The Ideal Manure Profile
 

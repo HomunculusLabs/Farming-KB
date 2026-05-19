@@ -1,5 +1,10 @@
+---
+title: "Williams Pdc Plants In Permaculture Systems"
+tags:
+  - concept
+---
 
-# Plants in Permaculture Systems
+## Plants in Permaculture Systems
 
 Most people think permaculture is about plants. Permaculture is not
 about specific elements but about the connections between those

@@ -8,7 +8,7 @@ sources:
   - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Liquid Fertilizer (JLF)
+## JADAM Liquid Fertilizer (JLF)
 
 JADAM liquid fertilizer (JLF) is a simple, ultra-low-cost liquid fertilizer made from crop residues, wild grass, and leaf mold. Unlike many organic liquid fertilizers, it requires no sugar, no molasses, and no complicated fermentation management.
 

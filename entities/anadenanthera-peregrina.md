@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Anadenanthera peregrina (L.) Speg.
+## Anadenanthera peregrina (L.) Speg.
 
 ## Common Names
 

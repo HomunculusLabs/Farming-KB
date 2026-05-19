@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# [[holmgren-permaculture-twelve-design-principles-framework]]
+## [[holmgren-permaculture-twelve-design-principles-framework]]
 principles originally coined by permaculture-ethics
 
 The three accepted central [[holmgren-observe-and-interact-detailed]]

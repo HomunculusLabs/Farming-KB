@@ -7,7 +7,7 @@ tags: [preservation, food]
 sources:
   - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
-# Fermentation Microbiology for Brewers
+## Fermentation Microbiology for Brewers
 
 Successful brewing requires an understanding of the microorganisms that drive fermentation. While most brewers work primarily with Saccharomyces yeast, a deeper knowledge of fermentation microbiology -- including the roles of bacteria, [[antifungal-secondary-metabolites-coprophilous-fungi]] through the process of alcoholic fermentation:
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Geography of Hallucinogenic Plant Use
+## Geography of Hallucinogenic Plant Use
 
 ## Overview
 

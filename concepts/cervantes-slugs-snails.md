@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Slugs and Snails on Cannabis
+## Slugs and Snails on Cannabis
 
 Slugs and snails are soft-bodied mollusk pests that
 primarily affect [[outdoor-cannabis-growing]]

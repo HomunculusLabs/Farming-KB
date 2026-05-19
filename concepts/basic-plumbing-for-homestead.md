@@ -7,7 +7,7 @@ tags: homesteading, water, water-management, equipment, engineering]
 sources: []
 ---
 
-# Basic Plumbing for Homestead
+## Basic Plumbing for Homestead
 
 Homestead plumbing ranges from simple gravity-fed water systems to full residential plumbing with multiple fixtures. Understanding the basics of piping materials, fixture installation, and troubleshooting saves thousands in contractor costs and prevents catastrophic water damage. This page covers PEX, copper, and PVC systems, common installations, and diagnostic approaches.
 

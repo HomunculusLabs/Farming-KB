@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Currency and Economics
+## Permaculture Currency and Economics
 
 Permaculture extends beyond physical landscape design into the realm of community economics. In Bill Mollison's Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from ecological design: money should serve the proliferation of life, not the accumulation of monuments.
 

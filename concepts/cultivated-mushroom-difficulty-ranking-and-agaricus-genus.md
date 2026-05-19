@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md (Chunk 45, Lines 9001
 type: concept
 ---
 
-# Cultivated Mushroom Difficulty Ranking and Agaricus Genus
+## Cultivated Mushroom Difficulty Ranking and Agaricus Genus
 
 ## Follow-Up Professional Testing of Mycoremediation Results
 

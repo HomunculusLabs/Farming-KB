@@ -6,7 +6,7 @@ tags: [mycology, taxonomy, psilocybe, neurotropic-fungi, misidentification, chem
 created: 2026-05-10
 ---
 
-# Neurotropic Fungi: Taxonomic Confusion and Misidentification
+## Neurotropic Fungi: Taxonomic Confusion and Misidentification
 
 ## Overview
 

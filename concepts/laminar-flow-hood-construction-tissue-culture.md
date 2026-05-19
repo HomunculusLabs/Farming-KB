@@ -4,7 +4,7 @@ source: laminar-flow-hood-construction-1.md
 type: concept
 ---
 
-# Laminar Flow Hood Construction for Tissue Culture
+## Laminar Flow Hood Construction for Tissue Culture
 
 ## Overview and Purpose
 

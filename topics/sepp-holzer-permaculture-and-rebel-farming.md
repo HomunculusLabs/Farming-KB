@@ -55,7 +55,7 @@ related_concepts:
   - holzer-ten-step-plan-world-hunger
 ---
 
-# Sepp Holzer Permaculture and Rebel Farming
+## Sepp Holzer Permaculture and Rebel Farming
 
 Sepp Holzer (born 1942) is an Austrian farmer who has spent over five decades
 developing a comprehensive system of ecological agriculture on his family's

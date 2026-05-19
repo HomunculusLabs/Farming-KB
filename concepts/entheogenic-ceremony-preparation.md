@@ -7,7 +7,7 @@ tags: [entheogen, ethnobotany, shamanism, spirituality, preparation, safety, psy
 sources: []
 ---
 
-# Entheogenic Ceremony Preparation
+## Entheogenic Ceremony Preparation
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Cannabis Microbiome: Soil and Cannabinoid Interactions
+## Cannabis Microbiome: Soil and Cannabinoid Interactions
 
 > Based on findings from Winston et al. (2014), this page details how soil type,
 > [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]], and cannabinoid chemistry shape the cannabis-associated

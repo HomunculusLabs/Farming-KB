@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Garden Centers and Seedling Buying Traps
+## Garden Centers and Seedling Buying Traps
 
 [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]], beets, radishes,
 or corn from seed. The truth is that these crops generally do not

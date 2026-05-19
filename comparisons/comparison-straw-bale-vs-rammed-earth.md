@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Straw Bale vs Rammed Earth Construction
+## Straw Bale vs Rammed Earth Construction
 
 ## Overview
 

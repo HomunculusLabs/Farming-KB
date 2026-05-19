@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Disappearance of the Natural Diet
+## Disappearance of the Natural Diet
 
 [[fukuoka-japanese-diet-worse]] before
 modernization. Up until perhaps forty or fifty years ago, each farming household in Japan

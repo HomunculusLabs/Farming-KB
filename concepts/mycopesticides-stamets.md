@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Mycopesticides (Stamets)
+## Mycopesticides (Stamets)
 
 Mycopesticides are fungi used to control insect pests, offering an environmentally friendly alternative to chemical pesticides. Paul Stamets' work on mycopesticides centers on [[fungi-in-composting-and-agricultural-waste-conversion]] products**: cornstalks, [[cannabis-pest-management]]**: forestalling or preventing pest outbreaks associated with farms, including beetles, locusts, and other crop-damaging insects.
 - **Livestock pest management**: targeting flies and other insects associated with cattle and pig feedlots.

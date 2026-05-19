@@ -5,7 +5,7 @@ type: entity
 tags: [deity, buddhism, tibetan, bardo, dhyani-buddha]
 ---
 
-# Ratnasambhava
+## Ratnasambhava
 
 ## Description
 Ratnasambhava is the Dhyani Buddha "born of a jewel," associated with the Wisdom of Equality and the element of earth. In *The Psychedelic Experience*, Leary identifies Ratnasambhava as the Peaceful Deity personifying **Vision 5: The Vibratory Waves of External Unity** — the emotionally tinged vision where the wave-nature of reality produces either ecstatic oneness with all energy or the terrifying "plastic doll" experience of lifelessness and isolation.

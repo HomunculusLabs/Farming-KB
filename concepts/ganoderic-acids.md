@@ -4,9 +4,9 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
-# Ganoderic Acids
+## Ganoderic Acids
 
 Ganoderic acids are a family of highly oxygenated lanostane-type triterpenoids isolated from [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines:
 - Ganoderic acids T, V, W, X, Y, Z — cytotoxic against various tumour lines

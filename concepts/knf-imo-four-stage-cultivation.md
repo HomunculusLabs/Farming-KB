@@ -8,7 +8,7 @@ sources:
  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# IMO Four-Stage Cultivation System
+## IMO Four-Stage Cultivation System
 
 **Source:** [[knf-carrot-enzyme-soil-preparation]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, vascular-tissue, nutrient-transport, botany]
 ---
 
-# Phloem
+## Phloem
 
 ## Description
 

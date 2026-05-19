@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Conversion Bulbs for HID Lighting
+## Conversion Bulbs for HID Lighting
 
 Conversion, or retrofit, bulbs increase flexibility in HID lighting
 systems. They allow growers to change the [[cervantes-high-pressure-sodium-lighting]], and

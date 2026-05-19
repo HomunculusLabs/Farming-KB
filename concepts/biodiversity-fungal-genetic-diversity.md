@@ -13,7 +13,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
 ---
-# Fungal Genetic Diversity Assessment
+## Fungal Genetic Diversity Assessment
 [[bloomfield-fungal-biology-and-hyphal-growth]]
 and diversity. Developmental stages of many fungi occur in
 complex substrata such as soil, wood, plants, or animals, making

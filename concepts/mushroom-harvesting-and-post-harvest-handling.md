@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, harvesting, post-harvest, quality]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Harvesting and Post-Harvest Handling
+## Mushroom Harvesting and Post-Harvest Handling
 
 Harvesting is the culmination of the cultivation cycle, but it is also
 a critical determinant of final product quality, shelf life, and market

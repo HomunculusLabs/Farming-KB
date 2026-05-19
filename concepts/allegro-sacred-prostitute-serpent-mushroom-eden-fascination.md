@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Sacred Prostitute, Serpent-Mushroom Connection, and the Garden of Eden
+## Sacred Prostitute, Serpent-Mushroom Connection, and the Garden of Eden
 
 ## The Sacred Prostitute's Vegetative Function
 

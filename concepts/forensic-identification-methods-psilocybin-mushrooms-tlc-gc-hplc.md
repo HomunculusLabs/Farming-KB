@@ -5,7 +5,7 @@ tags: [forensic-identification, psilocybin, magic-mushrooms, TLC, GC, HPLC, chro
 created: 2026-05-08
 ---
 
-# Forensic Identification Methods for Psilocybin Mushrooms
+## Forensic Identification Methods for Psilocybin Mushrooms
 
 ## Overview
 

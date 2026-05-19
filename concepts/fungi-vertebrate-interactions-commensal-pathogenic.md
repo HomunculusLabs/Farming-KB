@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungi-Vertebrate Interactions
+## Fungi-Vertebrate Interactions
 
 Fungi associated with vertebrate animals represent a diverse assemblage
 spanning commensal organisms, specialized pathogens, opportunistic

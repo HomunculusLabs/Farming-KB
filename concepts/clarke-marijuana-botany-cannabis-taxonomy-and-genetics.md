@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Taxonomy and Genetics: Clarke's Marijuana Botany
+## Cannabis Taxonomy and Genetics: Clarke's Marijuana Botany
 
 Robert Connell Clarke's "Marijuana Botany: An Advanced Study" (1981) provides a comprehensive scientific framework for understanding [[cannabis-chromosomes-and-mendelian-inheritance]] to advanced [[biodiversity-fungal-genetic-diversity]] in the face of eradication programs, commercial hybridization, and plant patenting.
 

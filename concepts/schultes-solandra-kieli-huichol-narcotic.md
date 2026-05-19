@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ethnobotany, solandra, kieli, huichol, mexico, datura, brugmansia, tropane, solanaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
-# Solandra (Kieli): Huichol God-Narcotic
+## Solandra (Kieli): Huichol God-Narcotic
 
 The Huichol Indians of Mexico worship and fear Solandra as a
 god-narcotic, *Kieli*, a powerful aid in sorcery. Realizing the close

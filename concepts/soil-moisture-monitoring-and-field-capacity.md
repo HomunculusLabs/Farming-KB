@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Soil Moisture Monitoring and Field Capacity
+## Soil Moisture Monitoring and Field Capacity
 
 Understanding when to water and how much water to apply requires knowledge of two fundamental soil physics concepts: field capacity and the wilting point. Between these two extremes lies the "available water" — the moisture that plants can actually use. Monitoring soil moisture and managing irrigation within this range is the key to productive, water-efficient gardening.
 

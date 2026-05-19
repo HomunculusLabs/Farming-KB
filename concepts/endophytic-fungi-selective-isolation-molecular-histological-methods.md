@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Endophytic Fungi — Selective Isolation Agents, Molecular Approaches, and Histological Methods
+## Endophytic Fungi — Selective Isolation Agents, Molecular Approaches, and Histological Methods
 
 ## Selective Isolation Agents
 

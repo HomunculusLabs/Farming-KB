@@ -15,7 +15,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Alpha Diversity Gradient from Bulk Soil to Cannabis Endorhiza
+## Alpha Diversity Gradient from Bulk Soil to Cannabis Endorhiza
 
 ## Overview
 

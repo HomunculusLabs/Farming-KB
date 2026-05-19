@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [permaculture, principles, stacking-functions, problem-solution, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
-# Additional [[urban-permaculture-community-building-social-design]]. These principles
+## Additional [[urban-permaculture-community-building-social-design]]. These principles
 expand upon Holmgren's framework and provide additional guidance for
 designers working to create sustainable systems.
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mushrooms, medicinal, health, compounds, mycology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Medicinal Mushrooms - Compounds and Benefits
+## Medicinal Mushrooms - Compounds and Benefits
 
 Medicinal mushrooms have been used in traditional medicine for
 thousands of years, particularly in East Asian cultures. Modern research

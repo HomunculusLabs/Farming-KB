@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, mycelium, colonization, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Mycelial Colonization Mycelial colonization is the phase in mushroom-spawn-production and precedes [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]].
+## Mycelial Colonization Mycelial colonization is the phase in mushroom-spawn-production and precedes [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]].
 - Use high inoculation rates (10-15%) for fast-growing species.
 - Ensure substrate particle size is uniform — fine sawdust (2-5mm) colonizes
   faster than coarse chips.

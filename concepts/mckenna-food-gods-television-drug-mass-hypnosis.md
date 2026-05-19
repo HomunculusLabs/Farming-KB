@@ -5,7 +5,7 @@ author: McKenna
 topics: [media, mass-hypnosis, consumerism, television, consciousness, dominator-culture]
 ---
 
-# Television as the Real Drug of Mass Hypnosis
+## Television as the Real Drug of Mass Hypnosis
 
 ## The Printed Circuit Metaphor
 

@@ -22,7 +22,7 @@ sources:
 - raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 ---
 
-# Common Homestead Weeds
+## Common Homestead Weeds
 
 Detailed profiles of the most common weeds found on a regenerative homestead. Covers identification, edible/medicinal uses, ecological roles, and management strategies. See [[weed-management-strategies]] for prevention, control methods, and seasonal calendar.
 

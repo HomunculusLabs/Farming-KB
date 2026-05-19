@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe makarorae
+## Psilocybe makarorae
 
 **Psilocybe makarorae** is a psilocybin-containing mushroom species first described from New
 Zealand. It was formally classified by Johnston and Buchanan in 1996 and is named after the

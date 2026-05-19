@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
-# Wild Fermentation vs Cultured Yeast
+## Wild Fermentation vs Cultured Yeast
 
 The choice between wild fermentation and cultured yeast represents one of the most fundamental decisions in any fermentation project, whether brewing beer, making bread, producing wine, or creating other [[query-how-to-make-sourdough-bread-at-home]]: Uses wild yeast and Lactobacillus from flour and the environment, maintained through regular feeding
 - Natural wine: Fermented with wild yeast from the vineyard and winery

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Gymnopilus aeruginosus
+## Gymnopilus aeruginosus
 
 **Gymnopilus aeruginosus**, commonly known as the **magic blue gym**, is a species of mushroom in the family Cortinariaceae (or Hymenogastraceae under some modern classifications). It is one of several *Gymnopilus* species confirmed to contain psilocybin and is recognized by its striking greenish-blue coloration, intensely bitter taste, and wood-inhabiting habit. The species represents an important example of the independent evolution of psilocybin biosynthesis outside the traditional psychoactive genera.
 

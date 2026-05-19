@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Shirota Large-Scale Psilocin and Psilocybin Synthesis Pathway
+## Shirota Large-Scale Psilocin and Psilocybin Synthesis Pathway
 
 ## Overview
 

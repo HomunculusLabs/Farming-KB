@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# PF TEK Introduction and History
+## PF TEK Introduction and History
 
 ## Overview
 

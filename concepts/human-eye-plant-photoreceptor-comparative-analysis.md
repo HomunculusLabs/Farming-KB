@@ -1,4 +1,8 @@
-# Human Eye and Plant Photoreceptor Systems: A Comparative Analysis
+---
+title: "Human Eye and Plant Photoreceptor Systems: A Comparative Analysis"
+tags:
+  - concept
+---
 
 Both humans and plants detect light through wavelength-specific protein receptors,
 but the architectures and capabilities of these systems differ dramatically. A

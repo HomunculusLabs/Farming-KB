@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Disease Pathogens and Contaminants
+## Mushroom Disease Pathogens and Contaminants
 
 ## Overview
 

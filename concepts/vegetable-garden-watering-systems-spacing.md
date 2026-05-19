@@ -1,4 +1,8 @@
-# Vegetable Garden Watering Systems and Plant Spacing
+---
+title: "Vegetable Garden Watering Systems and Plant Spacing"
+tags:
+  - concept
+---
 
 The relationship between how closely vegetables are spaced and how much water
 they require is the single most important decision a food gardener will make.

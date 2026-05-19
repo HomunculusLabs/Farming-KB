@@ -1,4 +1,8 @@
-# Oyster Mushroom Pinning Induction and Fruiting Conditions
+---
+title: "Oyster Mushroom Pinning Induction and Fruiting Conditions"
+tags:
+  - concept
+---
 
 ## Overview
 

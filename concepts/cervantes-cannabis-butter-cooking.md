@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, edibles, butter, cooking, extraction]
 ---
 
-# Cannabis Butter and Cooking Oil Extraction
+## Cannabis Butter and Cooking Oil Extraction
 
 Cannabis butter and oil are simple to make and form the
 foundation of most [[arbuscular-mycorrhizal-spore-extraction-methods]].

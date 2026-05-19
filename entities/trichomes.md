@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, epidermis, leaf-structures, defense, botany]
 ---
 
-# Trichomes
+## Trichomes
 
 ## Description
 

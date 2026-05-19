@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka Natural Diet Philosophy and Spiritual Health
+## Fukuoka Natural Diet Philosophy and Spiritual Health
 
 ## Overview
 

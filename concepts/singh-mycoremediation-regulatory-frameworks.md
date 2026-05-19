@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mycoremediation Regulatory Frameworks
+## Mycoremediation Regulatory Frameworks
 
 The deployment of [[singh-fungal-biosorption-heavy-metals]] processes must achieve regulatory metal
 concentration limits for soil and groundwater. Unlike organic degradation where

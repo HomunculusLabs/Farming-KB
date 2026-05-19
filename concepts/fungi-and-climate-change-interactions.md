@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi and Climate Change Interactions
+## Fungi and Climate Change Interactions
 
 Climate change — driven primarily by rising atmospheric CO₂ concentrations and associated temperature increases — has profound and complex effects on fungal communities and their ecosystem functions. Fungi mediate critical responses to climate change through their roles in decomposition, nutrient cycling, mycorrhizal symbiosis, and soil carbon storage.
 

@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Enriched Sawdust Cultivation and Spawn Production Methods
+## Enriched Sawdust Cultivation and Spawn Production Methods
 
 Modern medicinal [[mushroom-cultivation]] has evolved from traditional log-based methods to intensive enriched sawdust systems that offer dramatically higher yields and shorter production cycles. This concept covers the advanced [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] and [[spawn-production]] technology.
 

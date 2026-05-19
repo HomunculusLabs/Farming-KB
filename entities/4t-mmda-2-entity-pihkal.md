@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 4T-MMDA-2
+## 4T-MMDA-2
 
 [[dom]]) the analogue with the sulfur atom lies intermediate in potency
 between the oxygen atom and the carbon atom. Then, perhaps, 4T-MMDA-2

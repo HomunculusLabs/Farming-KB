@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# How Do I Prevent and Manage Transplant Shock in Garden Plants?
+## How Do I Prevent and Manage Transplant Shock in Garden Plants?
 
 ## Short Answer
 

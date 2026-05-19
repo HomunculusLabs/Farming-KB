@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
-# Psychedelic Safety Guidelines
+## Psychedelic Safety Guidelines
 
 Based on D.M. Turner's "The Essential Psychedelic Guide" and 18 years of personal experience with over 1,000 psychedelic experiments, these guidelines cover physical and mental safety considerations for psychedelic use.
 

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Tissue Culture Method for Mushroom Spawn Production
+## Tissue Culture Method for Mushroom Spawn Production
 
 ## Overview
 

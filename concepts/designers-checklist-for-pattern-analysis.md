@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Designer's Checklist for Pattern Analysis
+## Designer's Checklist for Pattern Analysis
 
 Pattern analysis is a foundational skill in [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 - [[mollison-designers-sector-analysis-wind-sun-fire]]

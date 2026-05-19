@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Sulphur, Chlorine, Potassium, and Calcium in Soils
+## Sulphur, Chlorine, Potassium, and Calcium in Soils
 
 ## Overview
 

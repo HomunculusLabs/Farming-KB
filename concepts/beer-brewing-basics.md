@@ -7,7 +7,7 @@ tags: [homesteading, fermentation, food, recipe, grain, processing, preparation,
 sources: []
 ---
 
-# Beer Brewing Basics
+## Beer Brewing Basics
 
 Home brewing is a natural fit for the homesteader, especially if you grow your own grains and hops. Beer is essentially water, malted grain, hops, and yeast. Understanding the basics of each ingredient and the brewing process allows you to create quality beer at a fraction of commercial prices.
 

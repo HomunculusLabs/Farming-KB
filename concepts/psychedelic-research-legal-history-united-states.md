@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mckenna_t-food_of_the_gods.md"
   - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
-# Psychedelic Research Legal History in the United States
+## Psychedelic Research Legal History in the United States
 
 **Source:** PiHKAL [[controlled-substances-act-and-psychedelic-research]] and the challenges that contemporary researchers face as part of the [[psychedelic-1960s-counterculture]] played a significant role. As psychedelics became associated with anti-war activism, counter-cultural movements, and figures like Timothy Leary, political pressure for prohibition intensified. Research became collateral damage in a broader culture war, as explored in histories of [[pihkal-introduction-and-methodology]] and TiHKAL.
 

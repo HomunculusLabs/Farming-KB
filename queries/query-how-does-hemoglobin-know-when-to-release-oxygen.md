@@ -8,7 +8,7 @@ created: 2026-05-02
 updated: 2026-05-06
 sources: []
 ---
-# How does hemoglobin know when to release oxygen?
+## How does hemoglobin know when to release oxygen?
 ## Short Answer
 Hemoglobin does not know in a conscious sense.
 It releases oxygen because local chemical conditions change its binding affinity.

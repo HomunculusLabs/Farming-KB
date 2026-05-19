@@ -1,5 +1,10 @@
+---
+title: "Metzner Syncretic Entheogenic Churches Brazil Santo Daime Udv Barquinha"
+tags:
+  - concept
+---
 
-# Syncretic Entheogenic Churches of Brazil
+## Syncretic Entheogenic Churches of Brazil
 
 ## Overview
 

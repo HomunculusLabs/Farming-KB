@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Humic Acid vs Fulvic Acid
+## Humic Acid vs Fulvic Acid
 ## Overview
 Humic acid and fulvic acid are the two primary fractions of humic
 substances, the stable [[compost-tea-brewing]], humic acid is the most [[edaphic-factors-microbial-community-structure]] toward fungal

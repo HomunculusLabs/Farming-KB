@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycete, wood-decay, polypore, fungicolous-host]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Ganoderma applanatum
+## Ganoderma applanatum
 
 **Type:** Species (Fungus)
 **Category:** Wood-Decaying Polypore Basidiomycete

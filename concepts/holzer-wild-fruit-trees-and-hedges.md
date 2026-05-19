@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Wild Fruit Trees and Hedges
+## Holzer Wild Fruit Trees and Hedges
 
 Wild fruit trees and mixed hedges are among the most undervalued components of agricultural landscapes, yet they play a crucial role in Sepp Holzer's permaculture system. Wild fruit provides food for wildlife, forage for livestock, raw material for processed products, and serves as genetic stock for grafting improved varieties. Holzer specifically advocates for planting wild fruit trees in forests to increase species diversity and expand the range of functions available for woodland plots.
 

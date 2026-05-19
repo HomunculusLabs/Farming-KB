@@ -22,7 +22,7 @@ sources:
 note: Composed from model knowledge — web tools were unavailable. Mark for user review.
 ---
 
-# Selling Farm Products and Farm Business
+## Selling Farm Products and Farm Business
 
 > Cottage food laws, raw milk regulations, egg sales, farmers markets, organic certification,
 > farm business structures, taxes, insurance, and land access for the homesteader.

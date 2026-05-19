@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [psilocybin, mushrooms]
 ---
 
-# Psychoactive Mushrooms of the Pacific Northwest
+## Psychoactive Mushrooms of the Pacific Northwest
 
 The Pacific Northwest of psilocybin north america pacific northwest -- encompassing western Washington, British Columbia, and western Oregon -- is one of the world's richest regions for naturally occurring [[stamets-psi-psilocybe-cyanescens-species-guide]] is the third most significant species.
 

@@ -24,7 +24,7 @@ sources:
   - Hartemink, A.E. (2015). "The use of soil classification in soil science." Geoderma Regional, 6, 83-85.
 ---
 
-# Soil Structure and Aggregate Ecology
+## Soil Structure and Aggregate Ecology
 
 ## Introduction
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Diversity and Ecosystem Function
+## Fungal Diversity and Ecosystem Function
 
 ## Overview
 

@@ -5,7 +5,7 @@ created: 2026-05-08
 tags: [farming, rice, barley, no-till, direct-seeding, natural-farming, fukuoka]
 ---
 
-# Fukuoka Direct Seeding Rice and Barley Cultivation
+## Fukuoka Direct Seeding Rice and Barley Cultivation
 
 ## Overview
 

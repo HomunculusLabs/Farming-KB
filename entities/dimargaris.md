@@ -5,7 +5,7 @@ type: entity
 tags: [zygomycete, mycoparasite, biotroph, dimargaritales, haustorial]
 ---
 
-# Dimargaris
+## Dimargaris
 
 ## Description
 

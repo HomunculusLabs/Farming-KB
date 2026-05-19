@@ -5,7 +5,7 @@ created: 2026-05-08
 tags: [cannabis, breeding, genetics, hybridization, techniques, sativa]
 ---
 
-# Cannabis Strain Breeding Techniques
+## Cannabis Strain Breeding Techniques
 
 ## Overview
 

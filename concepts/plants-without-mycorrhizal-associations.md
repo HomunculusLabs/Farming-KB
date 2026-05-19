@@ -8,7 +8,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Plants Without Mycorrhizal Associations
+## Plants Without Mycorrhizal Associations
 
 Most plants form [[fungal-symbiosis]].
 

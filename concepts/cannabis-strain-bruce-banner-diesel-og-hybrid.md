@@ -7,7 +7,7 @@ tags: [cannabis-strain, sativa-dominant, hybrid, strawberry-diesel, ghost-og, gr
 created: 2026-05-09
 ---
 
-# Bruce Banner — Strawberry Diesel × Ghost OG Sativa-Dominant Hybrid
+## Bruce Banner — Strawberry Diesel × Ghost OG Sativa-Dominant Hybrid
 
 ## Overview
 

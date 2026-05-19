@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# Soil Preparation for Winter Crops
+## Soil Preparation for Winter Crops
 
 Fall soil preparation is the foundation of successful winter crop
 production. Eliot Coleman emphasizes that winter crops must establish

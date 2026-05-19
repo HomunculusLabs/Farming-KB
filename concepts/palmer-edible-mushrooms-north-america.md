@@ -9,7 +9,7 @@ related: [palmer-mushroom-hunting-field-identification, palmer-mushroom-cooking-
 type: concept
 updated: 2026-04-26
 ---
-# Edible Mushroom Species of North America Palmer's *About Mushrooms* (1894) documents approximately fifty edible mushroom varieties found in New England, based on the author's personal testing over two decades. He estimated that "tons of rich, wholesome food rot yearly in our woods and pastures" due to public ignorance. Below are the principal edible species he described. ## The Common or Pasture Mushroom - **[[falconer-horse-manure-varieties]] via spawn
+## Edible Mushroom Species of North America Palmer's *About Mushrooms* (1894) documents approximately fifty edible mushroom varieties found in New England, based on the author's personal testing over two decades. He estimated that "tons of rich, wholesome food rot yearly in our woods and pastures" due to public ignorance. Below are the principal edible species he described. ## The Common or Pasture Mushroom - **[[falconer-horse-manure-varieties]] via spawn
 - Pink gills when young, darkening through purple to black
 - Has a ring around the stem (annulus), though older specimens may lose it
 - Palmer noted that "cooks and gardeners do not recognize any distinction" between the two varieties

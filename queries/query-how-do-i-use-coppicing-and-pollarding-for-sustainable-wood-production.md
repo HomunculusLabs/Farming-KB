@@ -11,7 +11,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# How Do I Use Coppicing and Pollarding for Sustainable Wood Production?
+## How Do I Use Coppicing and Pollarding for Sustainable Wood Production?
 
 ## Short Answer
 

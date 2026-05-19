@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Mandrake (Mandragora officinarum) in European Folklore and Medicine
+## Mandrake (Mandragora officinarum) in European Folklore and Medicine
 
 Mandrake (Mandragora officinarum) is perhaps the most legendary of all magical plants in European tradition. Its forked root, which often resembles a human form, gave rise to an elaborate body of folklore that has no equal in the botanical world. An hallucinogen with a fantastic history, mandrake has long been known and feared for its toxicity while being simultaneously revered as a panacea and magical talisman.
 

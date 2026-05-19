@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Growing Period and Crop Management
+## Mushroom Growing Period and Crop Management
 
 ## Overview
 

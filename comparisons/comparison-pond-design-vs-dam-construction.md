@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Pond Design vs Dam Construction
+## Pond Design vs Dam Construction
 
 ## Overview
 

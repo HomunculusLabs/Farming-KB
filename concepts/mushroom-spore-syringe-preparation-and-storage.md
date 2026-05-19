@@ -5,7 +5,7 @@ mined: 2026-05-08
 tags: [spores, cultivation, sterile-technique, microscopy, mycology, inoculation]
 ---
 
-# Mushroom Spore Syringe Preparation and Storage
+## Mushroom Spore Syringe Preparation and Storage
 
 ## Overview
 

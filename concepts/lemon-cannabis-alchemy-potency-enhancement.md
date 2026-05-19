@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Increasing Potency of Intact Marijuana Flowers
+## Increasing Potency of Intact Marijuana Flowers
 
 Chapter 5 of *[[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-hashing-and-extraction]]

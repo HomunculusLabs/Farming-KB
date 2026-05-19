@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Living Mulch vs Cover Crops
+## Living Mulch vs Cover Crops
 
 ## Overview
 

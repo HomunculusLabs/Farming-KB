@@ -9,7 +9,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
-# Lloyd Library and Museum
+## Lloyd Library and Museum
 
 The Lloyd Library anmycology, located in Cincinnati, Ohio, is one [[hallucinogenic-plants-of-the-world]]'s foremost independent research collections devoted to botany, fungal-kingdom-classification, John Uri Lloyd, and Nelson Ashley Lloyd — it grew from a pharmaceutical company's working library into an irreplaceable repository of scientific literature spanning five centuries. As described by fungal-kingdom-classification's passionate collecting. It includes complete runs of the major mycological journals, rare mycological works from the 18th and 19th centuries, and Curtis Lloyd's personal correspondence with mycologists worldwide. The [[fungi-around-the-world-species-distribution]].
 

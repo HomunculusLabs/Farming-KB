@@ -14,7 +14,7 @@ sources:
 type: query
 ---
 
-# How Do I Grow Goji Berries at Home?
+## How Do I Grow Goji Berries at Home?
 
 A practical FAQ covering everything a beginner needs to know about growing goji berries (*Lycium barbarum*) in a home garden, raised bed, or container.
 

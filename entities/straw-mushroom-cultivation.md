@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, volvariella, straw-mushroom, tropical-mushroom]
 ---
 
-# Straw Mushroom Cultivation (Volvariella volvacea)
+## Straw Mushroom Cultivation (Volvariella volvacea)
 
 ## Description
 

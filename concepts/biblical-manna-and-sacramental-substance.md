@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Biblical Manna and the Sacramental Substance
+## Biblical Manna and the Sacramental Substance
 
 ## Overview
 

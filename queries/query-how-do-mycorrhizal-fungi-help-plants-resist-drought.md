@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do Mycorrhizal Fungi Help Plants Resist Drought
+## How Do Mycorrhizal Fungi Help Plants Resist Drought
 
 ## Short Answer
 Mycorrhizal fungi extend the effective root zone of plants through vast

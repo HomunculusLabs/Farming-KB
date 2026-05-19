@@ -7,7 +7,7 @@ tags: [permaculture, urban-gardening, balcony, container-garden, mushroom, vine,
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Holzer Balcony Garden
+## Holzer Balcony Garden
 
 [[permaculture-principles]] can be put into practice on balconies, terraces, small green areas and even in houses. Holzer has planted up balconies and terraces in many different towns, proving that anything can be grown in a small container.
 

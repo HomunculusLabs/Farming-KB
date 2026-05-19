@@ -7,7 +7,7 @@ tags: nut-tree, permaculture, tree-crop, orchard
 type: concept
 ---
 
-# Almond Growing Guide
+## Almond Growing Guide
 
 ## Botanical Details
 

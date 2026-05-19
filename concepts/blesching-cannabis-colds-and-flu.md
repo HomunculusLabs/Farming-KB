@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Colds and Flu
+## Cannabis and Colds and Flu
 
 ## Overview
 

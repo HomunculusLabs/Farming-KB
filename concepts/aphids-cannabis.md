@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Aphids on Cannabis
+## Aphids on Cannabis
 
 Aphids (also called plant lice) are small sap-sucking insects that attack cannabis plants. They are easy to spot with the naked eye and can rapidly multiply to devastating numbers due to their extraordinary reproductive rate. Aphids are also the most significant disease vector among [[plant-disease-management-solomon]] as well.
 

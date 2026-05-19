@@ -5,7 +5,7 @@ tags: [mushroom, cultivation, mycelium, colonization, monitoring, boil-a-bag, vi
 created: 2026-05-10
 ---
 
-# Jarrold Mycelium Colonization Monitoring and Visual Assessment in Boil-a-Bag Cultivation
+## Jarrold Mycelium Colonization Monitoring and Visual Assessment in Boil-a-Bag Cultivation
 
 ## Overview
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [jadam, sulfur, fungicide, germicide, pesticide, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+sources: ["raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"]
 type: concept
 ---
 
-# JADAM Sulfur (JS)
+## JADAM Sulfur (JS)
 
 JADAM Sulfur (JS) is a self-made sulfur fungicide and germicide that
 represents a major breakthrough in [[cervantes-powdery-mildew-prevention-treatment]], [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA): 6 L (1.6 gal)

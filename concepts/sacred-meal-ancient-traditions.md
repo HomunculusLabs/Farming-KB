@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# The Sacred Meal in Ancient Traditions
+## The Sacred Meal in Ancient Traditions
 
 The sacred meal, the ritual consumption of a specially prepared food or drink believed to confer divine knowledge, spiritual transformation, or communion with the divine, is one of the most universal features of human religious practice. James Arthur and other researchers in ethnomycology have proposed that the original substance of the sacred meal across diverse traditions was an entheogenic mushroom, particularly [[jesus-name-etymology-mushroom-theories]].
 

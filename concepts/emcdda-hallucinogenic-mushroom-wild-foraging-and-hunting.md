@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Wild Foraging and Hunting
+## EMCDDA Hallucinogenic Mushroom Wild Foraging and Hunting
 
 ## Overview
 

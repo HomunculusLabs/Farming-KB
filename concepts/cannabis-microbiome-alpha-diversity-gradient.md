@@ -5,7 +5,7 @@ tags: [cannabis, microbiome, alpha-diversity, endorhiza, rhizosphere, soil, ecol
 created: 2026-05-10
 ---
 
-# Cannabis Microbiome Alpha Diversity Gradient from Bulk Soil to Endorhiza
+## Cannabis Microbiome Alpha Diversity Gradient from Bulk Soil to Endorhiza
 
 ## Overview
 

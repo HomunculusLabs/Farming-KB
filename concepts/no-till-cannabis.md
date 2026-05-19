@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# No-Till Cannabis Cultivation
+## No-Till Cannabis Cultivation
 
 No-till cannabis cultivation is a sustainable growing method that minimizes soil disturbance by avoiding tilling, turning, or otherwise disrupting the soil structure between grows. The no-till approach preserves the complex soil food web that develops over time, allowing beneficial microorganisms, fungi, and soil structure to accumulate and improve with each growing cycle.
 

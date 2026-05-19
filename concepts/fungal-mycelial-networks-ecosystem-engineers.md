@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Mycelial Networks as Ecosystem Engineers
+## Fungal Mycelial Networks as Ecosystem Engineers
 
 ## Overview
 

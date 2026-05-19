@@ -8,7 +8,7 @@ sources:
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Cannabis Concentrates and Extracts
+## Cannabis Concentrates and Extracts
 
 ## Overview
 

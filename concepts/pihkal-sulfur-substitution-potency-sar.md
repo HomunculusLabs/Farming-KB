@@ -7,7 +7,7 @@ source: shulgin-a-pihkal.md
 tags: [pihkal, phenethylamine, SAR, sulfur, potency, 2C-T, TOM, ALEPH, chemistry]
 ---
 
-# PiHKAL Sulfur Substitution and Potency in Phenethylamine SAR
+## PiHKAL Sulfur Substitution and Potency in Phenethylamine SAR
 
 ## Overview
 

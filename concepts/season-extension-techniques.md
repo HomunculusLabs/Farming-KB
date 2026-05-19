@@ -7,7 +7,7 @@ tags: [gardening, homesteading, methods, design, plant-growth]
 sources: []
 ---
 
-# Season Extension Techniques
+## Season Extension Techniques
 
 Season extension refers to any technique that allows you to start growing earlier in spring, continue growing later into fall, or grow through winter. These methods modify the microclimate around plants to protect them from frost, wind, and cold temperatures, effectively extending your productive growing season by weeks or months. For homesteaders and self-sufficient gardeners, season extension is essential for maximizing food production.
 

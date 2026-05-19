@@ -4,7 +4,7 @@ source: fungi-and-sustainability-fungi-magazine.md
 type: concept
 ---
 
-# Mycoforestry and Fungal Ecosystem Restoration
+## Mycoforestry and Fungal Ecosystem Restoration
 
 ## Overview
 

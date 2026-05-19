@@ -7,7 +7,7 @@ tags: [panspermia, spores, stropharia-cubensis, mycology, interstellar, mckenna,
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# Spore Brownian Motion and Galactic Percolation
+## Spore Brownian Motion and Galactic Percolation
 
 In his 1983 Esalen lecture, [[spore]] [[spore-interstellar-dispersal-hypothesis]]
 - [[mckenna-food-gods-tryptamine-dimension]]

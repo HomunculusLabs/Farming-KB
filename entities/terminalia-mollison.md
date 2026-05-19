@@ -5,7 +5,7 @@ type: entity
 tags: [tree-genus, tropical, water-management, agroforestry]
 ---
 
-# Terminalia
+## Terminalia
 
 ## Description
 

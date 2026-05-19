@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Word-Play and Punning as Coded Mushroom References in the New Testament
+## Word-Play and Punning as Coded Mushroom References in the New Testament
 
 [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] cult. Word-play was not mere decoration but a primary vehicle for transmitting esoteric knowledge to initiates while remaining opaque to outsiders.
 

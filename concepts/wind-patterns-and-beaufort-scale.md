@@ -4,7 +4,7 @@ source: mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wind Patterns and the Beaufort Scale
+## Wind Patterns and the Beaufort Scale
 
 Wind is one of the most powerful and pervasive forces affecting landscape design, agriculture, and human comfort. Of all natural elements, designers have least control over wind in terms of storage or generation, but its behaviour on site can be controlled by excluding, reducing, or increasing its force using windbreaks and wind funnels. Understanding wind patterns, their seasonal variations, and their effects on living [[permaculture-design]].
 

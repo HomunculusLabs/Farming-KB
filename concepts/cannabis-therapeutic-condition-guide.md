@@ -20,7 +20,7 @@ sources:
 - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Cannabis Therapeutic Condition Guide
+## Cannabis Therapeutic Condition Guide
 
 Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendations for specific conditions. Based on Blesching's Cannabis Health Index. For ECS overview, cannabinoid/terpene profiles, delivery method comparison, and dosing principles, see [[cannabis-health-therapeutics]].
 

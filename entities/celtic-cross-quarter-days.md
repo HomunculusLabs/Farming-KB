@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Celtic Cross-Quarter Days
+## Celtic Cross-Quarter Days
 
 ## Description
 

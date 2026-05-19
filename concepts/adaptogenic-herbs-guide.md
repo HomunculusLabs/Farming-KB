@@ -7,7 +7,7 @@ tags: [plants, medicine, health, pharmacology, preparation, species-profiles, bi
 sources: []
 ---
 
-# Adaptogenic Herbs Guide
+## Adaptogenic Herbs Guide
 
 ## Overview
 

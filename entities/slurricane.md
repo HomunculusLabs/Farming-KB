@@ -19,7 +19,7 @@ sources:
   - "Dyer, A. (2023). \"In the Grow: Do-Si-Dos and Purple Punch cross.\" High Times."
 ---
 
-# Slurricane
+## Slurricane
 
 ## Overview
 

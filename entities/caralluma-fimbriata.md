@@ -17,7 +17,7 @@ sources:
   - Kuriakose GC et al. (2014). "Caralluma: A review of its traditional uses, phytochemistry, and pharmacology." Pharmacognosy Reviews 8(16).
 ---
 
-# Caralluma fimbriata
+## Caralluma fimbriata
 
 ## Overview
 

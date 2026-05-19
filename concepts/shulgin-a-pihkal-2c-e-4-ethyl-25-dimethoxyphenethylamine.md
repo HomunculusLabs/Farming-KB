@@ -7,7 +7,7 @@ tags: [phenethylamine, 2C-family, 2C-E, psychedelic, Shulgin, PiHKAL, psychophar
 created: 2026-05-11
 ---
 
-# 2C-E (4-Ethyl-2,5-Dimethoxyphenethylamine)
+## 2C-E (4-Ethyl-2,5-Dimethoxyphenethylamine)
 
 ## Chemical Identity
 

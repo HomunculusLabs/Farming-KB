@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Grow Peppers from Seed to Harvest?
+## How Do I Grow Peppers from Seed to Harvest?
 
 ## Short Answer
 

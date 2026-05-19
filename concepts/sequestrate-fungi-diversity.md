@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Sequestrate Fungi Diversity ## Overview Sequestrate fungi are fungi whose spore-bearing structures remain enclosed, do not forcibly discharge spores, and typically fruit underground (hypogeously). This diverse ecological group includes truffles, false truffles, and related forms that have evolved independently multiple times from mushroom-forming (agaricoid) ancestors. They represent one of the most poorly documented yet ecologically important components of [[fungal-speciation-evolution]] for broader evolutionary context.
+## Sequestrate Fungi Diversity ## Overview Sequestrate fungi are fungi whose spore-bearing structures remain enclosed, do not forcibly discharge spores, and typically fruit underground (hypogeously). This diverse ecological group includes truffles, false truffles, and related forms that have evolved independently multiple times from mushroom-forming (agaricoid) ancestors. They represent one of the most poorly documented yet ecologically important components of [[fungal-speciation-evolution]] for broader evolutionary context.
 
 ### Morphological Reduction Sequences
 

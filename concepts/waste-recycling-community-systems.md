@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Waste Recycling and Community Systems
+## Waste Recycling and Community Systems
 
 Waste recycling at the community level is a foundational principle in [[permaculture-design]],
 transforming what conventional society discards into streams of income, resources, and social

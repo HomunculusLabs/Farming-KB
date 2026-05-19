@@ -1,4 +1,8 @@
-# Biological Efficiency and Yield Metrics in Mushroom Cultivation
+---
+title: "Biological Efficiency and Yield Metrics in Mushroom Cultivation"
+tags:
+  - concept
+---
 
 Biological Efficiency (BE) is the foundational metric for evaluating and
 comparing mushroom cultivation yields across different species, substrates, and
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 Successful integration of growing gourmet mushrooms biological efficiency yield metrics into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

@@ -5,7 +5,7 @@ type: entity
 tags: [place, dune-ecology, australia, nutrient-cycling, succession]
 ---
 
-# Cooloola Dune System
+## Cooloola Dune System
 
 ## Description
 

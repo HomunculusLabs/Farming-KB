@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Berry Fruit Production in Cool Humid Climates
+## Berry Fruit Production in Cool Humid Climates
 
 No region so suits berry production as the cool humid climates. Berries occupy ecological niches from high montane to seashore sites, and natural stands fill forest clearings, edge roadways, and paths. They serve as food for birds, foxes, rodents, and people. Understanding the ecology, cultivation, and management of berry fruits is essential for any [[drip-irrigation]]** fitting
 - **Deep mulch** for pH adjustment and soil moisture conservation

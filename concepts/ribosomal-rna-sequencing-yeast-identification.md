@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Ribosomal RNA Sequencing for Yeast and Fungal Identification
+## Ribosomal RNA Sequencing for Yeast and Fungal Identification
 
 Ribosomal RNA (rRNA) and ribosomal DNA (rDNA) sequence comparisons have become the gold standard for [[fungal-rdna-primers-molecular-identification]] repeat unit contains:
 - **18S (small subunit) rRNA gene:** ~1,800 nucleotides; conserved; for broad phylogenetic placement

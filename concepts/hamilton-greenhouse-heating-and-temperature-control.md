@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Greenhouse Heating and Temperature Control
+## Greenhouse Heating and Temperature Control
 
 The amount of heat used in a greenhouse determines what can be grown and
 when. [[coleman-cold-greenhouse-double-layer-protection]] for four to six weeks before the last expected frost. By

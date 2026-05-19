@@ -7,7 +7,7 @@ type: concept
 tags: [plant-health, brix, soil-foodweb, nutrition, AACT, monitoring, sugar-content]
 ---
 
-# Brix as an Indicator of Soil Foodweb Health
+## Brix as an Indicator of Soil Foodweb Health
 
 ## Overview
 

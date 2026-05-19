@@ -6,7 +6,7 @@ tags: [psilocybin, psilocin, magic-mushrooms, Psilocybe, tryptamine, serotonin, 
 created: 2026-05-08
 ---
 
-# Psilocybin and Psilocin in Magic Mushrooms
+## Psilocybin and Psilocin in Magic Mushrooms
 
 ## Overview
 

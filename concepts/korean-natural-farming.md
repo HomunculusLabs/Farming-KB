@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# Korean Natural Farming
+## Korean Natural Farming
 
 Korean Natural Farming (KNF) is an innovative agricultural
 system developed by Dr. Cho Han Kyu at the Janong Natural

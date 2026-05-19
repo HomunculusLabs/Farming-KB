@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Death Cap (Amanita phalloides)
+## Death Cap (Amanita phalloides)
 
 The Death Cap, *Amanita phalloides*, is widely regarded as the most deadly of all known fungi. Responsible for the vast majority of fatal mushroom poisonings worldwide, this unassuming species is both dangerously toxic and deceptively palatable, contributing to its lethal reputation. It belongs to the genus *Amanita*, a group that contains many of the world's most poisonous mushrooms as well as several edible and highly prized species.
 

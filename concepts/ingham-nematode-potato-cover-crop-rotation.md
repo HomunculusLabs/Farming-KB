@@ -5,7 +5,7 @@ topics: [nematodes, potatoes, cover-crop, rotation, root-knot,
   soil-foodweb, AACT, biological-control, mycorrhizal]
 ---
 
-# Nematode Management in Potato Crops Using Cover Crop Rotation
+## Nematode Management in Potato Crops Using Cover Crop Rotation
 
 ## Summary
 

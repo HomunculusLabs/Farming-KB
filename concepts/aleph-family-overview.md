@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# ALEPH Family of Psychedelic Amphetamines
+## ALEPH Family of Psychedelic Amphetamines
 
 ## Overview
 

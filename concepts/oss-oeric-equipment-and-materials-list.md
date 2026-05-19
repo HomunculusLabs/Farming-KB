@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, equipment, materials, cultivation, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+sources: ["raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md"]
 type: concept
 ---
-# Oss & Oeric: Equipment and Materials List
+## Oss & Oeric: Equipment and Materials List
 
 The 1976 guide was designed to be accessible to amateurs working at
 home with minimal specialized equipment. The authors emphasized that

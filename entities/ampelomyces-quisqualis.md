@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, mycoparasite, powdery-mildew, biocontrol, phyllosphere]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Ampelomyces quisqualis
+## Ampelomyces quisqualis
 
 **Type:** Species (Ascomycete)
 **Category:** Mycoparasite / [[powdery-mildews-erysiphaceae-diversity-host-range]], [[fungal-plant-diseases]]

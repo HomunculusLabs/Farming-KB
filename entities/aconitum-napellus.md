@@ -10,7 +10,7 @@ tags:
   - herbal-materia-medica and Pharmacology. 7th ed. Lea & Febiger."
 ---
 
-# Monkshood (*Aconitum napellus*)
+## Monkshood (*Aconitum napellus*)
 
 ## Overview
 

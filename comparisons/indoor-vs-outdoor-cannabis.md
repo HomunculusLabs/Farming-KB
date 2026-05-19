@@ -22,7 +22,7 @@ sources:
 - raw/papers/building-soils-naturally.md
 ---
 
-# Indoor vs Outdoor Cannabis Cultivation
+## Indoor vs Outdoor Cannabis Cultivation
 
 Indoor and outdoor cultivation represent fundamentally different approaches to growing cannabis. On a homestead with [[regenerative-agriculture-history]] principles, outdoor living soil beds integrate naturally with the broader system (compost, animals, cover crops). Indoor grows offer environmental control at the cost of energy and equipment. This comparison synthesizes from [[cannabis-living-soil-guide]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-plant-nutrition]], and [[cannabis-pest-management]].
 

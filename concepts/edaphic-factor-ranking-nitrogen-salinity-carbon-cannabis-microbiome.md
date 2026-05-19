@@ -24,7 +24,7 @@ sources:
   - understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Edaphic Factor Ranking in Cannabis Microbiome Structure
+## Edaphic Factor Ranking in Cannabis Microbiome Structure
 
 The physical and chemical properties of soil, collectively termed [[core-endorhiza-bacterial-community-composition-cannabis]] across the Cannabis root system. In the study by Winston et al. (2014), edaphic variables were found to exert the strongest influence on [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]. In the second experiment, which used two distinct soil types with significant edaphic variation, soil type accounted for the largest proportion of variance in both unweighted (ADONIS R-squared = 0.32, p = 0.001) and weighted (R-squared = 0.21, p = 0.001) analyses. This result was consistent across all experiments, whether analysed individually or pooled.
 

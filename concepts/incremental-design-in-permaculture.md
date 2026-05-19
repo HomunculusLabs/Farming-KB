@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Incremental Design in Permaculture
+## Incremental Design in Permaculture
 
 Incremental design is the process of evolving a permaculture system through successive small adaptations and improvements to working designs, rather than attempting to create a complete and final system from scratch. Drawing on Kevin Lynch's concept of "design by incremental adaptation of already-existing designs," this approach recognizes that the most successful and durable designs in human history have emerged through centuries of gradual refinement.
 

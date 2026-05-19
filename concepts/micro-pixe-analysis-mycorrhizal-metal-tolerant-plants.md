@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Micro-PIXE Analysis of Mycorrhizal Metal-Tolerant Plants
+## Micro-PIXE Analysis of Mycorrhizal Metal-Tolerant Plants
 
 Particle-induced X-ray emission with a focused proton beam (micro-PIXE) is a powerful analytical technique for localization and quantification of elements in plant and fungal tissues. Applied to mycorrhizal research, micro-PIXE enables mapping of nutrient and toxic element distributions at the cellular and tissue level in roots of mycorrhizal plants growing on metal-contaminated soils. This technique provides insights into detoxification mechanisms and element partitioning between plant and fungal partners.
 

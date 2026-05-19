@@ -5,7 +5,7 @@ type: entity
 tags: [person, shaman, mazatec, mushroom-healer, huautla, traditional-medicine]
 ---
 
-# Roman Estrada
+## Roman Estrada
 
 ## Description
 

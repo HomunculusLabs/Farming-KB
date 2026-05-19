@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Huiririma (*Astrocaryum jauari*)
+## Huiririma (*Astrocaryum jauari*)
 
 ## Description
 

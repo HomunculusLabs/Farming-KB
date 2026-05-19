@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# New United Nations and Alternatives to Political Systems
+## New United Nations and Alternatives to Political Systems
 
 [[bill-mollison]]'s permaculture framework extends beyond land design into social and political restructuring. Two central concepts emerge: a reimagined "United Nations" based on shared ethics rather than nation-state representation, and a fundamental critique of existing political systems that calls for decentralised, life-centred alternatives.
 

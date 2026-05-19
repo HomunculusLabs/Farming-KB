@@ -15,7 +15,7 @@ tags:
   - mckenna
 ---
 
-# Fungal Fossil Gap, Spore Electron Density, and the Metal-Hardness Anomaly
+## Fungal Fossil Gap, Spore Electron Density, and the Metal-Hardness Anomaly
 
 ## The Fossil Gap Problem
 

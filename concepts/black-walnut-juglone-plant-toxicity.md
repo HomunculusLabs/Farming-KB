@@ -8,7 +8,7 @@ sources:
   - Purdue University Cooperative Extension Service — Home Gardener's Guide
 ---
 
-# Black Walnut Juglone Plant Toxicity
+## Black Walnut Juglone Plant Toxicity
 
 Black walnut trees (Juglans nigra) produce a naturally occurring chemical
 compound called juglone (5-hydroxy-1,4-naphthoquinone) that is allelopathic,

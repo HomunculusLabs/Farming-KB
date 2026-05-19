@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, taxonomy, dark-taxa, undiscovered-species]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Dark Taxa (Fungi)
+## Dark Taxa (Fungi)
 
 Dark taxa are [[fukuoka-direct-observation-method]]. In
 mycology, dark taxa are the OTUs (Operational Taxonomic Units) that appear in

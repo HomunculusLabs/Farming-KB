@@ -6,7 +6,7 @@ tags: [cannabis, dosing, therapeutic-window, titration, tolerance, individualize
 created: 2026-05-08
 ---
 
-# Cannabis Therapeutic Window and Individualized Dosing
+## Cannabis Therapeutic Window and Individualized Dosing
 
 The therapeutic window of cannabis — the range between the minimum effective dose and the dose at which [[cannabis-dosing-guidelines]] is complicated by the plant's chemical complexity, varied [[cannabis-therapeutic-index-overview]] (TI) is the ratio between the toxic dose and the therapeutic dose. Cannabis has an extraordinarily high therapeutic index — the estimated lethal dose of THC is approximately 30mg/kg (roughly 1,500 THC cigarettes consumed simultaneously), while therapeutic doses typically range from 2.5mg to 50mg depending on the condition and administration route. However, this wide margin between lethality and efficacy does not mean that dosing is simple or without risk of adverse effects.
 

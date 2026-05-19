@@ -8,7 +8,7 @@ type: concept
 tags: [entheogen]
 ---
 
-# Anadenanthera Entheogens
+## Anadenanthera Entheogens
 
 The genus Anadenanthera comprises several species of leguminous trees
 whose seeds have been used as psychoactive snuffs and smoked

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Cultivation and Growkit Market
+## EMCDDA Hallucinogenic Mushroom Cultivation and Growkit Market
 
 ## Overview
 

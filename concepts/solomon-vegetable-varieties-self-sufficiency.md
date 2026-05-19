@@ -8,7 +8,7 @@ type: concept
 tags: [vegetables]
 ---
 
-# Vegetable Varieties for Self-Sufficiency
+## Vegetable Varieties for Self-Sufficiency
 
 ## Choosing for Your Climate Zone
 

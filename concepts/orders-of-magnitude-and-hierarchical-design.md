@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Orders of Magnitude and Hierarchical Design
+## Orders of Magnitude and Hierarchical Design
 
 ## Overview
 

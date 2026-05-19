@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Cold Frames and Season Extension
+## Cold Frames and Season Extension
 
 Cold frames are the simplest, least expensive, and most time-tested tool for modifying the microclimate around growing plants. They represent the foundational technology of season extension—the practice of creating conditions that allow crops to be grown outside their natural outdoor season. A cold frame is essentially a bottomless box with a transparent top (traditionally glass, now often plastic or polycarbonate) that captures solar energy to create a warmer, more sheltered growing environment.
 

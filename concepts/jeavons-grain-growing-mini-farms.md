@@ -5,11 +5,11 @@ tags: [biointensive, grains, calorie-crops, wheat, mini-farming,
   self-sufficiency, protein-crops]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+sources: ["raw/papers/jeavons-john-how-to-grow-more-vegetables.md"]
 type: concept
 ---
 
-# Grain Growing in Mini-Farms
+## Grain Growing in Mini-Farms
 
 Growing grains is a central component of the [[jeavons-tree-cane-crops]] like potatoes. Each
 garden should optimally contain some of both kinds.

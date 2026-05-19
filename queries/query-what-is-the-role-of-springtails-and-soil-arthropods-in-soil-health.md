@@ -8,7 +8,7 @@ sources:
 type: query
 ---
 
-# What Is the Role of Springtails and Soil Arthropods in Soil Health
+## What Is the Role of Springtails and Soil Arthropods in Soil Health
 
 ## Short Answer
 Springtails (Collembola) and other soil arthropods

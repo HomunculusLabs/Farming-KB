@@ -18,7 +18,7 @@ sources:
   - "Phillips, R. (2010). Mushrooms. Pan Macmillan."
 ---
 
-# Tricholoma portentosum
+## Tricholoma portentosum
 
 Tricholoma portentosum, commonly known as the frosty tricholoma, charcoal
 burner, or winter tricholoma, is a medium-sized agaricoid fungus in the

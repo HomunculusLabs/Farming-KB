@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Building Soil Fertility Long-Term
+## Building Soil Fertility Long-Term
 
 updated: 2026-04-18
 

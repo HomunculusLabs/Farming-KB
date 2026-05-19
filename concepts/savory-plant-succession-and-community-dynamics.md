@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Plant Succession and Community Dynamics
+## Plant Succession and Community Dynamics
 
 Succession is one of the four [[savory-holistic-resource-management-animal-impact]]. It describes the continuous, orderly process by
 which living communities advance from simplicity to complexity. All

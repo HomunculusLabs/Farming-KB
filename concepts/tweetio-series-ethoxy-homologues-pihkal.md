@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# The Tweetio Series: Ethoxy Homologues in PiHKAL
+## The Tweetio Series: Ethoxy Homologues in PiHKAL
 
 **Updated:** 2026-04-18
 

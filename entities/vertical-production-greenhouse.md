@@ -5,7 +5,7 @@ type: entity
 tags: [technique, greenhouse, space-efficiency, intensive-cropping, trellising]
 ---
 
-# Vertical Production (Greenhouse)
+## Vertical Production (Greenhouse)
 
 ## Description
 

@@ -5,7 +5,7 @@ type: concept
 tags: [ethnobotany, entheogens, consciousness, history]
 ---
 
-# Iboga, Tabernanthe Ibogaine, and the Fang Bwiti Initiation Cult
+## Iboga, Tabernanthe Ibogaine, and the Fang Bwiti Initiation Cult
 
 ## Overview
 

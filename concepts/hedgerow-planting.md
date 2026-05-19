@@ -7,7 +7,7 @@ tags: [permaculture, plants, wildlife, ecology, design, cultivation]
 sources: []
 ---
 
-# Hedgerow Planting
+## Hedgerow Planting
 
 Hedgerows are dense rows of shrubs, trees, and herbaceous plants that serve as living fences, windbreaks, wildlife corridors, and sources of food, medicine, and materials. They are a cornerstone of [[permaculture-design|permaculture]] and ecological design, providing multiple functions in a single linear planting.
 

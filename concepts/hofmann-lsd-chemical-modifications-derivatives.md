@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Chemical Modifications of LSD and Derivative Compounds
+## Chemical Modifications of LSD and Derivative Compounds
 
 ## The Logic of Chemical Modification
 

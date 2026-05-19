@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Mulching vs Green Manure
+## Mulching vs Green Manure
 
 ## Overview
 Mulching and green manuring are two foundational practices for building soil

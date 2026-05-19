@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Moses Ashley Curtis (1808–1872)
+## Moses Ashley Curtis (1808–1872)
 
 ## Description
 

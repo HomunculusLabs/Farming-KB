@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Fruiting Management and Harvesting
+## Mushroom Fruiting Management and Harvesting
 
 This page covers the critical stages from opening mature spawn bags through maintaining [[fruiting-conditions]] to harvesting mushrooms at the right time. Proper execution of these steps directly impacts yield, quality, and profitability.
 

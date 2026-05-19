@@ -5,7 +5,7 @@ type: entity
 tags: [bacteria, sewage-treatment, sulphur, anaerobic, bioremediation]
 ---
 
-# Chromatium
+## Chromatium
 
 ## Description
 

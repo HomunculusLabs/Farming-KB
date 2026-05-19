@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [plant-biology, consciousness, philosophy-of-mind, plant-intelligence]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
+sources: ["raw/papers/grahamholmes-what-a-plant-knowsindd.md"]
 type: concept
 ---
 
-# The Aware Plant: Plant Consciousness Debate
+## The Aware Plant: Plant Consciousness Debate
 
 The Epilogue of *What a Plant Knows* brings [[plant-sensory-biology-smell-touch-hearing]], but he is cautious about
 extending the language of awareness and consciousness to organisms that lack

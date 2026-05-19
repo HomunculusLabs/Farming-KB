@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Plant Cell Wall and Water Pathways
+## Plant Cell Wall and Water Pathways
 
 The plant cell wall is the defining structural feature that distinguishes plant cells from animal cells. Far from being a passive container, the cell wall is a dynamic, porous, and chemically active structure that plays critical roles in plant nutrition, water regulation, and defense. Understanding its composition and the pathways water takes through it is fundamental to understanding how plants absorb and distribute nutrients.
 

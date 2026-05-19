@@ -19,7 +19,7 @@ type: concept
 tags: [chaga]
 ---
 
-# Chaga ([[growing-gourmet-polypore-mushrooms-cultivation-overview]] ([[trametes-versicolor-entity]] (turkey tail), Chaga is a non-edible polypore that is
+## Chaga ([[growing-gourmet-polypore-mushrooms-cultivation-overview]] ([[trametes-versicolor-entity]] (turkey tail), Chaga is a non-edible polypore that is
 used medicinally through hot water extraction. Both contain beta-glucans with
 immunomodulating and antitumour properties. However, while turkey tail has
 undergone decades of clinical trials with its PSK and PSP compounds, Chaga

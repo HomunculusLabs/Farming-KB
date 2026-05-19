@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhiza Helper Bacteria and Fungal-Bacterial Interactions
+## Mycorrhiza Helper Bacteria and Fungal-Bacterial Interactions
 
 ## Overview
 

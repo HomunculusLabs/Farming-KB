@@ -7,7 +7,7 @@ tags: [soil, microbes, compost, fertilizer]
 sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 ---
 
-# Humic and Fulvic Acids
+## Humic and Fulvic Acids
 
 Humic and fulvic acids are [[teaming-with-microbes-bacterial-vs-fungal-dominance]] approach.
 

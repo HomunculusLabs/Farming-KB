@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDMP
+## MDMP
 
 [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[mda]]
 - [[tma-5-entity-pihkal]]

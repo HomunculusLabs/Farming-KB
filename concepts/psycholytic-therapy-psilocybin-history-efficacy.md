@@ -4,7 +4,7 @@ source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
 
-# Psycholytic Therapy with Psilocybin — History and Efficacy
+## Psycholytic Therapy with Psilocybin — History and Efficacy
 
 Psycholytic therapy is a form of psychotherapy in which low-to-moderate doses of hallucinogenic substances are administered as adjuncts to the therapeutic process. The term "psycholytic" literally means "mind-dissolving" — referring to the dissolution of psychological defenses that allows repressed traumatic material to enter conscious awareness. [[psilocybin]] was widely regarded by practitioners as the **most effective and safest** hallucinogen for this purpose.
 

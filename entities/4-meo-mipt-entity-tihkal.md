@@ -21,7 +21,7 @@ tags: [`tryptamine`, `psychedelic`, `entheogen`]
 sources:
   - raw/papers/shulgin-a-tihkal.md
 
-# 4-MeO-MIPT
+## 4-MeO-MIPT
 
 Tryptamine, N-Isopropyl-4-Methoxy-N-Methyl
 

@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Alcohol and the Alchemy of Spirit
+## Alcohol and the Alchemy of Spirit
 
 The great plant-drug complex that spans the cultural divide from partnership
 paradise to dominator civilization is alcohol. Alcohol has its roots in the

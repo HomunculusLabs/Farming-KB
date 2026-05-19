@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Plant Disease Management (Solomon)
+## Plant Disease Management (Solomon)
 
 Updated: 2026-04-18
 

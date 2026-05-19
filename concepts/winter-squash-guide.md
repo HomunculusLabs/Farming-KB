@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-# Winter Squash Guide
+## Winter Squash Guide
 
 Winter squash (Cucurbita species) are warm-season vining crops harvested at maturity when the rind is hard and the seeds are fully formed. Unlike summer squash, winter squash store for months and are a staple homesteading crop for winter food security. This guide covers varieties, growing, curing, and storage.
 

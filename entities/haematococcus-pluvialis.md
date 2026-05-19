@@ -18,7 +18,7 @@ sources:
   - Han D, et al. (2013). "Life-cycle analysis of Haematococcus astaxanthin production." Algal Research, 2, 358-366.
 ---
 
-# Haematococcus pluvialis
+## Haematococcus pluvialis
 
 ## Overview
 

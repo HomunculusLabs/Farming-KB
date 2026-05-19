@@ -25,7 +25,7 @@ sources:
   - https://www.first-nature.com/fungi/lactarius-torminosus.php
 ---
 
-# Lactarius torminosus
+## Lactarius torminosus
 
 **Lactarius torminosus**, commonly known as the woolly milkcap, is a basidiomycete
 fungus in the family Russulaceae. It is mycorrhizal with birch (*Betula* spp.) and

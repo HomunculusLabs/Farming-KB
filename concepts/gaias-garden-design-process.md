@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 
-# Gaia's Garden Design Process
+## Gaia's Garden Design Process
 
 Toby Hemenway's five-step design process for creating an ecological garden, detailed in Chapter 3 of Gaia's Garden. This process blends [[zone-sector-analysis-guide]]. The best time to plant a tree was ten years ago — so plant trees and shrubs early in the work.
 

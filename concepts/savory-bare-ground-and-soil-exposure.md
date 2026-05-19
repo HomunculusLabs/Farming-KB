@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Bare Ground and Soil Exposure
+## Bare Ground and Soil Exposure
 
 In [[savory-energy-flow-and-solar-capture]]. Fewer plants
 mean less root mass, which impairs both the [[savory-brittle-environments]], which allows [[savory-fire-as-management-tool]], which removes [[savory-non-brittle-environments]]

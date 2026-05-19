@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Photosynthesis Critique and the Philosophy of Mu
+## Fukuoka Photosynthesis Critique and the Philosophy of Mu
 
 [[fukuoka-critique-agricultural-science-laws-liebig]]'s approach to increasing crop yields, revealing how reductionist research into photosynthesis misses the fundamental unity of nature. His critique culminates in the philosophy of *Mu* — nothingness — as both the true starting point and the ultimate destination for farming and for human understanding of the natural world.
 

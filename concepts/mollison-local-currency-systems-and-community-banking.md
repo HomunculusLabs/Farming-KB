@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design, agriculture]
 sources: - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
-# Mollison: Local Currency Systems and Community Banking
+## Mollison: Local Currency Systems and Community Banking
 Source: [[jadam-local-material-collection-and-use]] difficult to
    duplicate or forge elsewhere, numbered, dated, and counted. The value so
    printed should not exceed the value of the reserve by a factor of more than

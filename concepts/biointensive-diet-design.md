@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/pihkal-a-chemical-love-story.md"
 ---
-# Biointensive Diet Design
+## Biointensive Diet Design
 
 Biointensive diet design is the process of planning a complete, nutritionally adequate vegetarian diet that can be grown entirely within a [[biointensive-seed-saving]] must be included in the plan
 

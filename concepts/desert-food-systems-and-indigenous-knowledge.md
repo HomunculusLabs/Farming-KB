@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Food Systems and Indigenous Knowledge
+## Desert Food Systems and Indigenous Knowledge
 
 The question of food security in deserts is not merely one of gardening or farming, but of understanding and restoring a relationship between people and arid landscapes that was developed over tens of thousands of years by indigenous peoples.
 

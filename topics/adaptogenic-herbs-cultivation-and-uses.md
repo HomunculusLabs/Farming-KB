@@ -11,7 +11,7 @@ sources:
   - rhodiola-rosea-cultivation-and-adaptogenic-properties.md (topic)
 ---
 
-# Adaptogenic Herbs — Cultivation and Uses
+## Adaptogenic Herbs — Cultivation and Uses
 
 Adaptogens are a class of herbs and mushrooms that help the body resist
 physiological and psychological stress. Rather than suppressing or stimulating

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [amanita-poisoning, amanitine, toxicology, nineteenth-century, palmer]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+sources: ["raw/papers/julius-auboineau-palmer-about-mushrooms.md"]
 type: concept
 ---
 
-# Palmer on Amanitine Poison Mechanism and Absorption
+## Palmer on Amanitine Poison Mechanism and Absorption
 
 Julius A. Palmer was the first to clearly segregate the [[allegro-amanita-muscaria-properties-and-pharmacology]] (poison-fly Agaric) for the purposes of narcotism and intoxication. The urine of those who had partaken was reportedly in demand for future orgies, which were similar to those produced by alcohol. This traditional use, Palmer observed, showed that the same alkaloid that was deadly in large doses could produce narcotic effects in controlled quantities — a fact that later researchers would explore for potential medicinal applications.
 

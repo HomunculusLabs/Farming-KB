@@ -5,7 +5,7 @@ type: entity
 tags: [water-management, earthworks, erosion-control, permaculture]
 ---
 
-# Check Dam
+## Check Dam
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Odor Control and Carbon Filters
+## Cannabis Odor Control and Carbon Filters
 
 Managing cannabis odor is a practical necessity for most indoor growers. Cannabis produces powerful terpenes and aromatic compounds that can be detected from considerable distances, particularly during flowering. Effective odor control protects the grower's privacy and prevents complaints from neighbors, landlords, or passersby.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
-# Psilocybin Mushrooms
+## Psilocybin Mushrooms
 
 D.M. Turner describes [[psilocybin-mushrooms-as-alien-symbiotes]] possibly an "extraterrestrial infiltration of Earth." Intensity ranges from 3 to 7 for most experiences.
 

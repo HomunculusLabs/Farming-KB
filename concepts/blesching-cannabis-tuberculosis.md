@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Tuberculosis
+## Cannabis and Tuberculosis
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [person, environmentalist, italy, tradition, agriculture]
 ---
 
-# Giannozzo Pucci
+## Giannozzo Pucci
 
 ## Description
 

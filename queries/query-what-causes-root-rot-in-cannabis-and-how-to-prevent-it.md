@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Causes Root Rot in Cannabis and How to Prevent It
+## What Causes Root Rot in Cannabis and How to Prevent It
 
 ## Short Answer
 Root rot in cannabis is primarily caused by overwatering and poor drainage, which create anaerobic conditions in the root zone where pathogenic fungi and bacteria thrive. The most common culprits are Pythium and Fusarium species. Prevention focuses on proper watering practices, well-draining growing media, adequate oxygenation in hydroponic systems, and maintaining healthy root zone conditions through temperature control and beneficial biology.

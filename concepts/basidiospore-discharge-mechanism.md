@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Basidiospore Discharge Mechanism
+## Basidiospore Discharge Mechanism
 
 ## Overview
 

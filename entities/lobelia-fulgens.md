@@ -18,7 +18,7 @@ sources:
   - Richardson A (2004). "Plants of the Phoenix Metropolitan Area." ASU Press.
 ---
 
-# Lobelia fulgens
+## Lobelia fulgens
 
 ## Overview
 

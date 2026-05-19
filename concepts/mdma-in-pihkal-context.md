@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, amphetamine, histo
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# MDMA in PIHKAL Context
+## MDMA in PIHKAL Context
 
 ## Chemical Identity
 

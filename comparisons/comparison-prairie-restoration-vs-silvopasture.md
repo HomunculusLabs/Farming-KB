@@ -13,7 +13,7 @@ type: comparison
 created: 2026-04-28
 ---
 
-# Prairie Restoration vs Silvopasture
+## Prairie Restoration vs Silvopasture
 
 Both prairie restoration and [[faires-livestock-integration-permaculture]]** | Managed grazing (rotational, prescribed) or none | Core design element; animals essential |
 | **Fire management** | Essential — prescribed burns every 2–5 years | Generally avoided (fire damages trees) |

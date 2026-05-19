@@ -5,7 +5,7 @@ tags: [spinach, winter-harvest, cold-house, overwintered-crop, coleman]
 created: 2026-05-11
 ---
 
-# Winter Spinach as the Dependable Cold-House Crop
+## Winter Spinach as the Dependable Cold-House Crop
 
 Overwintered spinach has become the cornerstone crop of [[eliot-coleman]]'s winter-harvest system at Four Season Farm.
 Of all the cold-hardy vegetables grown in the cold houses,

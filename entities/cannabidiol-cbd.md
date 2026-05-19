@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Cannabidiol (CBD)
+## Cannabidiol (CBD)
 
 **Type:** Chemical / Phytocannabinoid
 **Category:** Major [[comparison-cannabis-sativa-vs-cannabis-indica]] and Cannabis indica. It is the second most abundant

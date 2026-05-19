@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, business, economics, homesteading, cultivation, food]
 sources: []
 ---
 
-# Homestead Mushroom Business
+## Homestead Mushroom Business
 
 Growing and selling mushrooms on a homestead scale offers high returns on low capital investment. Gourmet mushrooms (shiitake, oyster, lion's mane, wine cap) command $8-20/lb retail and can be produced in small spaces using low-tech methods. This guide covers production, pricing, licensing, and scaling.
 

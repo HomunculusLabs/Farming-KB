@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycelial Foraging Strategies and Nutrient Translocation
+## Mycelial Foraging Strategies and Nutrient Translocation
 
 Basidiomycete mycelia develop complex networks that function as integrated
 resource-distribution systems, foraging for and translocating nutrients

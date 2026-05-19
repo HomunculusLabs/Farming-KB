@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Culture Preservation
+## Fungal Culture Preservation
 
 Maintaining and preserving fungal cultures is essential for systematics,
 [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], cereal grains, straw, or filter paper

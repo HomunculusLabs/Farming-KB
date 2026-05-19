@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# A Change Has Come Over Westerners
+## A Change Has Come Over Westerners
 
 In *The Road Back to Nature*, [[fukuoka-culture-of-clothing-and-meat]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-direct-observation-method]].
 

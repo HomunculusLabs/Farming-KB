@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert [[permaculture-design]] for desert cooling draws on centuries of traditional knowledge combined with thermodynamic principles to create comfortable living spaces that can reduce ambient indoor temperatures by 10–15°C below outside conditions.
+## Desert [[permaculture-design]] for desert cooling draws on centuries of traditional knowledge combined with thermodynamic principles to create comfortable living spaces that can reduce ambient indoor temperatures by 10–15°C below outside conditions.
 
 ## Sources of Cool Air for Desert Houses
 

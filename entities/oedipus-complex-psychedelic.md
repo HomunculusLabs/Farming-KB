@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: entity
 ---
 
-# Oedipus Complex in Psychedelic Experience
+## Oedipus Complex in Psychedelic Experience
 
 ## Description
 

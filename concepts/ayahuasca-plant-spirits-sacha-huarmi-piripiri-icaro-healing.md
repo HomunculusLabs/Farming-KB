@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Amazonian Plant Spirits, Sacha Huarmi, Piripiri, and Icaro Healing
+## Amazonian Plant Spirits, Sacha Huarmi, Piripiri, and Icaro Healing
 
 ## Overview
 

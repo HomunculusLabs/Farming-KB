@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# The Breakdown of Japanese Agriculture
+## The Breakdown of Japanese Agriculture
 
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 2 of "Ailing Agriculture in an Ailing Age."
 

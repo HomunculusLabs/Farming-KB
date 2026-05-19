@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
-# PsiK (4-Hydroxytryptamine Kinase)
+## PsiK (4-Hydroxytryptamine Kinase)
 
 **PsiK** is a phosphotransferase enzyme in the [[psilocybin]] biosynthetic pathway. It catalyzes the ATP-dependent phosphorylation of 4-hydroxytryptamine (4-HT) to produce norbaeocystin (4-phosphoryloxytryptamine), the first phosphorylated intermediate in the pathway.
 

@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Surfactant-Enhanced fungal-bioremediation of persistent organic pollutants (POPs) in
+## Surfactant-Enhanced fungal-bioremediation of persistent organic pollutants (POPs) in
 soil. Surfactants, both synthetic and microbially produced, can increase
 the aqueous solubility and accessibility of hydrophobic pollutants such
 as [[cotter-pet-livestock-waste-fungal-remediation-systems]] outcomes.

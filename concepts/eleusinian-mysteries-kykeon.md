@@ -8,7 +8,7 @@ sources: [raw/papers/mckenna_t-food_of-the_gods.md]
 type: concept
 ---
 
-# Eleusinian Mysteries Kykeon
+## Eleusinian Mysteries Kykeon
 
 ## Overview
 

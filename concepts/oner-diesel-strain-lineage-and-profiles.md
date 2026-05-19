@@ -5,7 +5,7 @@ source_author: S.T. Oner, The Rev
 tags: [cannabis, sativa, diesel-strains, genetics, lineage, breeding, sour-diesel]
 ---
 
-# Diesel Cannabis Strain Lineage and Profiles
+## Diesel Cannabis Strain Lineage and Profiles
 
 The Diesel family represents one of the most influential lineages in
 modern [[fukuoka-east-coast-forest-livestock-soil-damage]] of the United

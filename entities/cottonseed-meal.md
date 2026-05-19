@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: entity
 ---
 
-# Cottonseed Meal
+## Cottonseed Meal
 
 ## Description
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom Poisoning and Safe Foraging Practices
+## Mushroom Poisoning and Safe Foraging Practices
 
 ## Palmer's Theory of Taste as a Toxicity Indicator
 

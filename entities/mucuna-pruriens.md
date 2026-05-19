@@ -10,7 +10,7 @@ sources:
   - "raw/papers/jeavons-john-how-to-grow-more-vegetables.md"
 ---
 
-# Mucuna pruriens
+## Mucuna pruriens
 
 **Mucuna pruriens**, commonly known as velvet bean, cowhage, cowitch, or kapikacchu (Sanskrit), is a vigorous annual climbing legume in the family Fabaceae (subfamily Faboideae). Native to tropical and subtropical regions of Africa and Asia, it has spread throughout the tropics worldwide and is valued simultaneously as a medicinal plant, a [[cover-crop]] in sustainable agriculture, a protein-rich food source, and a botanical curiosity for its psychoactive properties. The species is one of the most chemically complex and pharmacologically significant legumes known to ethnobotany.
 

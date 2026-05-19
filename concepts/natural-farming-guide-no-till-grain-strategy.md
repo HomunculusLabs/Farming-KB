@@ -8,7 +8,7 @@ sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
 
-# No-Till Grain Strategy for Sustainable Farms
+## No-Till Grain Strategy for Sustainable Farms
 
 The no-till grain strategy, based on Masanobu Fukuoka's [[cervantes-chemical-fertilizers-guide]], weeding, or using pesticides. This system
 requires remarkably low energy input while producing high yields on small

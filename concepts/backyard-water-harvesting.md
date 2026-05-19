@@ -4,9 +4,9 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [water, conservation]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
-# Backyard Water Harvesting
+## Backyard Water Harvesting
 
 In an ecologically designed garden, water is not an externally caused event -- it is designed in, naturally present, naturally abundant. The cheapest place to store water is in the soil. A well-designed garden doesn't require constant irrigation; it spontaneously cycles toward lush and vibrant growth, even when the gardener is absent.
 

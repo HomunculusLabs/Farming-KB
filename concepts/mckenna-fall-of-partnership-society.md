@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# The Fall of Partnership Society
+## The Fall of Partnership Society
 
 ## Climatic Catastrophe
 

@@ -5,7 +5,7 @@ type: entity
 tags: [economics, community, permaculture, ethical-investment, earthbank, brokerage]
 ---
 
-# Earthbank
+## Earthbank
 
 ## Description
 

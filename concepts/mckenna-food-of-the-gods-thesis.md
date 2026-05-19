@@ -15,7 +15,7 @@ sources:
   - raw/particles/mckenna_t-tryptamines_consciousness.md
 ---
 
-# McKenna's Food of the Gods Thesis
+## McKenna's Food of the Gods Thesis
 
 Terence McKenna's central argument that psychoactive plants and fungi have fundamentally shaped the trajectory of human culture, religion, and consciousness.
 

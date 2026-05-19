@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Urban Mushroom Cultivation
+## Urban Mushroom Cultivation
 
 Mushrooms can be cultivated in tight urban spaces with minimal infrastructure.
 From closets and spare bathrooms to rooftops, balconies, [[query-how-to-grow-oyster-mushrooms-at-home]] are the primary species for small-space

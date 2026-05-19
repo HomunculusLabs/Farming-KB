@@ -8,7 +8,7 @@ sources: [robert-c-clarke-marijuana-botany-an-advanced-study.md]
 type: concept
 ---
 
-# Cannabis Sex Determination and Floral Biology
+## Cannabis Sex Determination and Floral Biology
 
 ## Overview
 

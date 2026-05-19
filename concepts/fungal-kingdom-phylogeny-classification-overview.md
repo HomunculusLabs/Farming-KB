@@ -5,7 +5,7 @@ tags: [fungi, phylogeny, taxonomy, classification, kingdom-fungi, systematics]
 created: 2026-05-11
 ---
 
-# Fungal Kingdom Phylogeny and Classification Overview
+## Fungal Kingdom Phylogeny and Classification Overview
 
 The fungal kingdom (Fungi) represents one of the most diverse and ecologically important groups of organisms on Earth,
 with estimated species counts ranging from 2.2 million to 3.8 million — of which only approximately 150,000 have been formally described.

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# [[tidal-aquaculture-marsh-systems|Tidal]] Aquaculture Systems
+## [[tidal-aquaculture-marsh-systems|Tidal]] Aquaculture Systems
 
 [[permaculture-design]] extends beyond the shoreline into intertidal zones, salt marshes, and shallow marine environments. These areas offer extraordinary productivity for food production, [[gadd-fungal-biodegradation-concrete-building-materials]], and mineral harvesting — yet they remain among the most underutilized landscapes in [[fukuoka-critique-modern-agriculture]]. Tidal systems require minimal external inputs because the sea delivers nutrients, organisms, and water movement for free.
 

@@ -23,7 +23,7 @@ sources:
 - raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 ---
 
-# Soil Testing
+## Soil Testing
 
 Soil testing is the foundation of informed soil management. Without knowing your starting conditions, amendments are guesses — and wrong amendments can make problems worse. This page covers what to test, lab vs. DIY methods, and sampling technique. See [[interpreting-soil-test-results]] for how to read results and plan amendments.
 

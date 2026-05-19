@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: concept
 ---
-# Strain Selection, Sectoring, and Stock Culture Preservation
+## Strain Selection, Sectoring, and Stock Culture Preservation
 
 ## Mycelial Growth Forms on Agar
 As mycelium grows on nutrient agar, it displays remarkable

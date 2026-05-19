@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 
-# Omega Point and Psychedelic Eschatology
+## Omega Point and Psychedelic Eschatology
 
 The concept of the Omega Point, originally developed by the French philosopher and paleontologist Pierre Teilhard de Chardin, proposes that the evolutionary process is directed toward a final state of maximum consciousness and spiritual unity.
 

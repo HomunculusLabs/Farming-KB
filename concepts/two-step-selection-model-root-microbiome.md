@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Two-Step Selection Model in Plant Root Microbiomes
+## Two-Step Selection Model in Plant Root Microbiomes
 
 ## Overview
 

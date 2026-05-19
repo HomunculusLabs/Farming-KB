@@ -9,7 +9,7 @@ type: concept
 tags: [fukuoka, natural-farming, energy-efficiency, scientific-agriculture, food-systems, thermodynamics]
 ---
 
-# Natural Farming Energy Efficiency vs Scientific Agriculture
+## Natural Farming Energy Efficiency vs Scientific Agriculture
 
 ## Overview
 

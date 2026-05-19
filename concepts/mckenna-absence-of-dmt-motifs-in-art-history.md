@@ -17,7 +17,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# Absence of DMT Motifs in Human Art History
+## Absence of DMT Motifs in Human Art History
 
 One of the most puzzling observations in the phenomenology of dimethyltryptamine is
 the near-total absence of its characteristic imagery in the visual art traditions of

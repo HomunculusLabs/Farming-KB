@@ -6,7 +6,7 @@ created: 2026-05-10
 source: Masanobu Fukuoka - The Natural Way of Farming
 ---
 
-# Fukuoka's Clay Pellet Seed Broadcasting
+## Fukuoka's Clay Pellet Seed Broadcasting
 
 Clay pellet seed broadcasting is one of Masanobu Fukuoka's most innovative
 practical techniques and a cornerstone of his [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects worldwide, most

@@ -15,7 +15,7 @@ sources:
   - Christodoulou, C.S. (1992). "The fungal-diversity-mediterranean-ecosystems."
   - Greuter, W. (1967). "Flora der Insel Kythira." Botanische Jahrbücher 87: 1-140.---
 
-# Phoenix theophrasti
+## Phoenix theophrasti
 
 Phoenix theophrasti, the Cretan [[permaculture-date-palm-guide]], is the only native palm species in Europe. It is endemic to a handful of coastal locations in southern Greece and Turkey, where it forms the northernmost natural palm populations in the world.
 

@@ -22,7 +22,7 @@ sources:
 - raw/articles/permaculture-beginners-guide-graham-burnett.md
 ---
 
-# Permaculture Principles and Ethics
+## Permaculture Principles and Ethics
 
 Permaculture is a design system for creating sustainable human habitats by mimicking natural ecosystems. Co-founded by Bill Mollison and David Holmgren in the 1970s, it began as "permanent agriculture" and evolved into "permanent culture" -- a holistic approach to designing all human systems.
 

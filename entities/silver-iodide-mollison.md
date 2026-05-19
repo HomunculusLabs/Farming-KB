@@ -5,7 +5,7 @@ type: entity
 tags: [chemistry, cloud-seeding, water-cycle, atmospheric-science]
 ---
 
-# Silver Iodide
+## Silver Iodide
 
 ## Description
 

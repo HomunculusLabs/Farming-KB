@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Saving Ancient Trees - Natural Monuments and Tree Care
+## Holzer Saving Ancient Trees - Natural Monuments and Tree Care
 
 Ancient trees are natural monuments -- living connections to the past and
 places of power that inspire us to recreate paradise on earth. Holzer argues

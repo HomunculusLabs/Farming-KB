@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources:
   - ""raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 ---
-# Anaerobic Rumen Fungi: Biology, Taxonomy, and Herbivore Digestion
+## Anaerobic Rumen Fungi: Biology, Taxonomy, and Herbivore Digestion
 
 Updated: 2026-04-18
 

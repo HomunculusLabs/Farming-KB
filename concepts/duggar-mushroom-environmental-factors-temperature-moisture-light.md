@@ -1,5 +1,10 @@
+---
+title: "Duggar Mushroom Environmental Factors Temperature Moisture Light"
+tags:
+  - concept
+---
 
-# Mushroom Environmental Factors: Temperature, Moisture, and Light
+## Mushroom Environmental Factors: Temperature, Moisture, and Light
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Compacted Soil and Tree Health
+## Compacted Soil and Tree Health
 
 ## Overview
 

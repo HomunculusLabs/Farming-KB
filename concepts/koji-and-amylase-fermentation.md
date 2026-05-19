@@ -7,7 +7,7 @@ tags: [preservation, food]
 sources:
   - "raw/papers/savory-holistic-resource-management.md"
 ---
-# Koji and Amylase Fermentation
+## Koji and Amylase Fermentation
 
 Koji is one of the most important and sophisticated fermentation technologies ever developed. It is the cultured growth of the mold Aspergillus oryzae on cooked grain, most commonly rice or barley. Koji produces powerful amylase enzymes that convert starch to sugar, enabling the fermentation of grains into sake, miso, soy sauce, shochu, amazake, and many other traditional Asian foods and beverages. Understanding koji opens the door to a fascinating world of enzyme-driven fermentation.
 

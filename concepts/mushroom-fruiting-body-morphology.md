@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, morphology, taxonomy, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+sources: ["raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"]
 type: concept
 ---
 
-# Mushroom Fruiting Body Morphology
+## Mushroom Fruiting Body Morphology
 
 Mushroom fruiting bodies are the reproductive structures produced by
 basidiomycete and some ascomycete fungi. Their primary function is to

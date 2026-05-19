@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, cultivation, mushrooms]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
-# Oyster Mushroom Growing House Design and Environmental Control The growing house is the controlled environment where  cultivation. Proper design and environmental control are essential for consistent, high-quality production. Unlike many other crops, mushroom fruiting requires precise management of temperature, humidity, fresh air exchange, and light.
+## Oyster Mushroom Growing House Design and Environmental Control The growing house is the controlled environment where  cultivation. Proper design and environmental control are essential for consistent, high-quality production. Unlike many other crops, mushroom fruiting requires precise management of temperature, humidity, fresh air exchange, and light.
 
 ## Growing House Types
 

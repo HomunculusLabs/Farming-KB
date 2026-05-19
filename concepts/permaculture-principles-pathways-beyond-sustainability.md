@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture: Principles & Pathways Beyond Sustainability
+## Permaculture: Principles & Pathways Beyond Sustainability
 
 *Permaculture: Principles & Pathways Beyond Sustainability* by David Holmgren, published by Permanent Publications (ISBN 978-1-85623-052-0), is a foundational text in permaculture literature. Co-originated by Holmgren alongside Bill Mollison in the 1970s, permaculture has evolved from a set of agricultural techniques into a comprehensive design system for sustainable human settlements. This book, written three decades after *Permaculture One*, represents Holmgren's mature synthesis of permaculture principles as a framework for navigating energy descent.
 

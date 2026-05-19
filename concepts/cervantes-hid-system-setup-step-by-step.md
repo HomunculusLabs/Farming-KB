@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# HID System Setup Step-by-Step
+## HID System Setup Step-by-Step
 
 Setting up a High Intensity Discharge (HID) lighting system properly
 is essential for safe and effective indoor [[cannabis-grow-room-setup]]

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Windbreak Configurations and Permeability
+## Windbreak Configurations and Permeability
 
 Windbreaks are essential in permaculture design, providing crop protection,
 microclimate modification, and structural resilience. Their effectiveness

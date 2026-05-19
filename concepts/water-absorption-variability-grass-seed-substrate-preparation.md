@@ -1,4 +1,8 @@
-# Water Absorption Variability in Grass Seed Mushroom Substrate
+---
+title: "Water Absorption Variability in Grass Seed Mushroom Substrate"
+tags:
+  - concept
+---
 
 ## Overview
 

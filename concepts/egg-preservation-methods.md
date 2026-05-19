@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Egg Preservation Methods
+## Egg Preservation Methods
 
 Updated: 2026-04-18
 

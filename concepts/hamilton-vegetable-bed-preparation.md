@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Vegetable Bed Preparation Techniques
+## Vegetable Bed Preparation Techniques
 
 The best way to ensure good-quality vegetables is to grow them in the
 best soil possible. While soil types vary widely, even poor soil can be

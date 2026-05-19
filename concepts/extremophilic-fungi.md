@@ -7,7 +7,7 @@ tags: [mycology, ecology, science, fungi]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md]
 ---
 
-# Extremophilic Fungi
+## Extremophilic Fungi
 
 Fungi inhabit virtually every environment on Earth, including extreme conditions that would kill most organisms. Extremophilic fungi have evolved specialized adaptations to survive and thrive in conditions of extreme temperature, pH, salinity, radiation, desiccation, and toxic metal concentrations.
 

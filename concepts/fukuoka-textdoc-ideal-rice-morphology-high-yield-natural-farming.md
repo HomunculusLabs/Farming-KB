@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Ideal Rice Plant Morphology for High-Yield Natural Farming
+## Fukuoka's Ideal Rice Plant Morphology for High-Yield Natural Farming
 
 Masanobu Fukuoka devoted years of observation to determining the ideal physical form of a high-yielding rice plant grown under natural farming conditions. His findings contradicted conventional agronomic wisdom in several key respects, offering a distinctive vision of what healthy, productive rice looks like when cultivated without tillage, fertilizers, or pesticides.
 

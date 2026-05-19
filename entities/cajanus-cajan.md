@@ -19,7 +19,7 @@ sources:
   - "Van der Maesen, L.J.G. (1980). \"Cajanus and Atylosia.\" Wageningen Agricultural University Papers."
 ---
 
-# Cajanus cajan (*Pigeon Pea, Arhar, Toor Dal*)
+## Cajanus cajan (*Pigeon Pea, Arhar, Toor Dal*)
 
 ## Overview
 

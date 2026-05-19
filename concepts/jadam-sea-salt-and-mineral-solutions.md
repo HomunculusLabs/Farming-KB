@@ -7,7 +7,7 @@ tags: [jadam, sea-salt, minerals, phyllite, jmw, soil-health]
 sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
-# JADAM Sea Salt and Mineral Solutions
+## JADAM Sea Salt and Mineral Solutions
 
 Mineral supplementation is a cornerstone of JADAM soil management. Sea water (or sea salt) and phyllite rock powder provide the broad mineral spectrum that crops need. JADAM considers mineral diversity as essential as microbial diversity for healthy soil.
 

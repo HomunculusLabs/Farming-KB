@@ -7,7 +7,7 @@ tags: [herbalism, herbs, medicine]
 sources:
   - raw/papers/farmers-of-forty-centuries-f-h-king.md
 ---
-# Herbal Medicine Making Basics
+## Herbal Medicine Making Basics
 
 An overview of the core methods for preparing herbal medicines at home. Covers
 harvesting, processing, and the major preparation categories. See

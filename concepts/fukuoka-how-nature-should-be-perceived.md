@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# How Should Nature Be Perceived?
+## How Should Nature Be Perceived?
 
 From "The Natural Way of Farming" by [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] Farming."
 

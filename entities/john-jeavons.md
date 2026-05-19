@@ -5,10 +5,10 @@ type: person
 tags: [agriculture, biointensive, gardening, ecology, sustainable-farming]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+sources: ["raw/papers/jeavons-john-how-to-grow-more-vegetables.md"]
 ---
 
-# John Jeavons
+## John Jeavons
 
 John Jeavons is an [[coleman-british-adoption-of-french-intensive-gardening]]/Biodynamic approach) is a complete, closed-system approach to small-scale food production. It is designed to:
 

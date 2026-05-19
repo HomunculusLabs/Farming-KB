@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# Bioremediation of Explosives and Munitions
+## Bioremediation of Explosives and Munitions
 
 Explosive compounds contamination of soil and groundwater results primarily from manufacturing, testing, training, and disposal activities at military installations worldwide.
 

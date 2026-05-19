@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Farm Yield Strategies
+## Farm Yield Strategies
 
 [[water-management]] provides:
 

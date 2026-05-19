@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] are **palmately divided**, normally into 3–7 leaflets, occasionally into 11–13. Leaflets vary in length from 2 to 6 inches.
+## [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] are **palmately divided**, normally into 3–7 leaflets, occasionally into 11–13. Leaflets vary in length from 2 to 6 inches.
 
 ## Taxonomic Classification
 

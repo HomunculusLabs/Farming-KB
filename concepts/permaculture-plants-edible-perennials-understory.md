@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# Permaculture Edible Perennials and Food Forest Understory
+## Permaculture Edible Perennials and Food Forest Understory
 
 The food forest understory layer contains shrubs, [[permaculture-plants-food-forest-ground-covers-bamboos]] that produce food, provide [[permplant-carob-drought-tolerant-food-tree]] and withstands some frost. In mountainous forest clearings but also grown as ornamental and fruiting hedge. Branches hang down and take root -- easy propagation.
 

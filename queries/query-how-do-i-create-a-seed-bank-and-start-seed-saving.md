@@ -13,7 +13,7 @@ sources: []
 type: query
 ---
 
-# How Do I Create a Seed Bank and Start Seed Saving?
+## How Do I Create a Seed Bank and Start Seed Saving?
 
 [[next-generation-sequencing-hidden-fungal-diversity]] will express unpredictable traits, often reverting to characteristics of the grandparent lines. Do not save faires-thermal-mass-applications-in-building a quality seed bank.
 

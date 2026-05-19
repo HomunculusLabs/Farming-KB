@@ -5,7 +5,7 @@ type: entity
 tags: [pesticide, fungicide, lime-sulphur, vineyard, detrimental, soil-biology]
 ---
 
-# Lime Sulphur (Agricultural Use)
+## Lime Sulphur (Agricultural Use)
 
 ## Description
 

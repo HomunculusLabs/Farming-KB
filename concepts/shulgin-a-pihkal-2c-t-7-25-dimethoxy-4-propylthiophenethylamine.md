@@ -7,7 +7,7 @@ tags: [phenethylamine, 2C-family, 2C-T, 2C-T-7, psychedelic, Shulgin, PiHKAL, th
 created: 2026-05-11
 ---
 
-# 2C-T-7 (2,5-Dimethoxy-4-Propylthiophenethylamine)
+## 2C-T-7 (2,5-Dimethoxy-4-Propylthiophenethylamine)
 
 ## Chemical Identity
 

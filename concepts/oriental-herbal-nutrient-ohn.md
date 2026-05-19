@@ -24,7 +24,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Oriental Herbal Nutrient (OHN)
+## Oriental Herbal Nutrient (OHN)
 
 OHN is a medicinal herbal tincture in [[korean-natural-farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
 

@@ -1,4 +1,8 @@
-# Nematode-Trapping Fungi: Adhesive Snares and Explosive Rings
+---
+title: "Nematode-Trapping Fungi: Adhesive Snares and Explosive Rings"
+tags:
+  - concept
+---
 
 ## Overview
 Nematode-trapping fungi are [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]] that capture and consume microscopic

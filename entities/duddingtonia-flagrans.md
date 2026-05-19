@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Duddingtonia flagrans
+## Duddingtonia flagrans
 
 **Duddingtonia flagrans** is a predacious ascomycete fungus that captures and destroys nematodes using adhesive three-dimensional networks of hyphae.
 

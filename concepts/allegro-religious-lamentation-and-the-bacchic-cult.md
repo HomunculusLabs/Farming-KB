@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Religious Lamentation and the Bacchic Cult
+## Religious Lamentation and the Bacchic Cult
 
 Allegro traces the widespread phenomenon of religious lamentation in the [[allegro-amanita-muscaria-properties-and-pharmacology]] promote periods of intense excitement, accompanied by delirium, hallucinations, and great animation, followed by periods of deep depression. One witness to Amanita muscaria intoxication reports: "The person intoxicated by Fly-Agaric sits quietly rocking from side to side... Suddenly his eyes dilate, he begins to gesticulate convulsively, converses with persons whom he imagines he sees, sings and dances. Then an interval of rest sets in again."
 

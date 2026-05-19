@@ -7,7 +7,7 @@ tags: [mushroom-foraging, safety, identification, fungi, mycology, deadly-mushro
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
-# Mushroom Foraging Safety
+## Mushroom Foraging Safety
 
 Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]] s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
 

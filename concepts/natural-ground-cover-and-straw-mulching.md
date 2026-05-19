@@ -12,7 +12,7 @@ sources:
 type: concept
 ---
 
-# Natural Ground Cover and Straw Mulching
+## Natural Ground Cover and Straw Mulching
 
 Ground cover cultivation and straw mulching form the practical foundation of
 soil management in [[masanobu-fukuoka]]'s natural farming system. Rather than

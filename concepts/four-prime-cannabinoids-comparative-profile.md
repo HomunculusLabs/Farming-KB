@@ -1,4 +1,8 @@
-# Four Prime Cannabinoids: A Comparative Profile
+---
+title: "Four Prime Cannabinoids: A Comparative Profile"
+tags:
+  - concept
+---
 
 Uwe Blesching's [[beta-caryophyllene-dietary-cannabinoid]] found in common spices). Each
 interacts with the endocannabinoid system through distinct receptor mechanisms,

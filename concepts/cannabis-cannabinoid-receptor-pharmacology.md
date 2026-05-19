@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/blesching-cannabis-pain-management.md"
 ---
-# Cannabis Cannabinoid Receptor Pharmacology (CB1 and CB2)
+## Cannabis Cannabinoid Receptor Pharmacology (CB1 and CB2)
 
 The [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - Tissue repair and wound healing

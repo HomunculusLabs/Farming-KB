@@ -17,7 +17,7 @@ sources:
   - Kapoor, L.D. (2000). Handbook of Ayurvedic Medicinal Plants. CRC Press.
 ---
 
-# Trachyspermum ammi
+## Trachyspermum ammi
 
 ## Overview
 

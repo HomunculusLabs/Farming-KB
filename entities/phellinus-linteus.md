@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Phellinus linteus
+## Phellinus linteus
 
 **Type:** Species
 **Category:** Polypore mushroom (Hymenochaetaceae)

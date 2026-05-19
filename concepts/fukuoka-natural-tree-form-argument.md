@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Pruning Phyllotaxy Argument
+## Fukuoka Pruning Phyllotaxy Argument
 
 Updated: 2026-04-19
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# The DMT Experience and Hyperspace
+## The DMT Experience and Hyperspace
 
 ## DMT as the Gateway to the Other
 

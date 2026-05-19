@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Spinach and Mustard Greens
+## Growing Spinach and Mustard Greens
 
 Spinach and mustard are cool-season greens with a twist: their fertilizer demand changes dramatically depending on whether they're grown for spring or [[cold-greenhouse-winter-harvest]]. For [[coleman-overwintered-onions-and-early-spring-crops]] they are high-demand (because they bolt in spring, needing maximum growth before going to seed). For autumn/[[coleman-semi-hibernating-winter-crops-harvest-extension]] they are medium-demand (because they grow slowly over months before bolting).
 

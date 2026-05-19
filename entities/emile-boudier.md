@@ -5,7 +5,7 @@ type: person
 tags: [mycologist, france, amanita, bulbosine, 19th-century]
 ---
 
-# Émile Boudier
+## Émile Boudier
 
 ## Description
 

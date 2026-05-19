@@ -8,7 +8,7 @@ sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: entity
 ---
 
-# Pleurotus djamor
+## Pleurotus djamor
 
 **Type:** Species
 **Category:** Basidiomycete

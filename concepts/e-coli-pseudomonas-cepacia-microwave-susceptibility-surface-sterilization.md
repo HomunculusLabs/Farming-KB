@@ -5,7 +5,7 @@ created: 2026-05-09
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Escherichia coli and Pseudomonas cepacia Microwave Susceptibility in Surface Sterilization
+## Escherichia coli and Pseudomonas cepacia Microwave Susceptibility in Surface Sterilization
 
 ## Overview
 

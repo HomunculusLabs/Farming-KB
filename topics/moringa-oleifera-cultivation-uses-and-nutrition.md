@@ -1,4 +1,8 @@
-# Moringa oleifera — Cultivation, Uses, and Nutrition
+---
+title: "Moringa oleifera — Cultivation, Uses, and Nutrition"
+tags:
+  - topic
+---
 
 Moringa oleifera, commonly known as the drumstick tree, horseradish tree, or simply *moringa*, is a fast-growing, drought-resistant tree native to the Indian subcontinent. Widely cultivated across tropical and subtropical regions, it is valued for its exceptional nutritional profile, [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]], and versatility in agroforestry systems. Nearly every part of the tree — leaves, pods, seeds, bark, roots, and flowers — has documented uses in food, medicine, water purification, and agriculture.
 

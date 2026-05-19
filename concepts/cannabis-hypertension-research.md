@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Hypertension Research
+## Cannabis and Hypertension Research
 
 **Source:** The [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cardiovascular tissues
 

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Vacuolar Diffusion and Intracellular Transport in Fungal Hyphae
+## Vacuolar Diffusion and Intracellular Transport in Fungal Hyphae
 
 ## Overview
 

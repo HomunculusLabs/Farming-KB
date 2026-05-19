@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Coleman's Cold Greenhouse Double-Layer Protection
+## Coleman's Cold Greenhouse Double-Layer Protection
 
 [[coleman-double-cover-microclimate-protection]]
 

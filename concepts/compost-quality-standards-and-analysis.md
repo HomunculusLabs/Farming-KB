@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Compost Quality Standards and Analysis
+## Compost Quality Standards and Analysis
 
 Not all compost is created equal. The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of finished compost varies enormously depending on the starting materials, the C:N ratio, the composting method, and the attention given to the process. If compost is going to supply the nutritional needs of most vegetable crops, it must meet specific minimum standards for nitrogen content, C:N ratio, and overall nutrient balance.
 

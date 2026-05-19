@@ -9,7 +9,7 @@ sources: []
 type: concept
 ---
 
-# Iboga (*Tabernanthe iboga*) and the Bwiti Cult
+## Iboga (*Tabernanthe iboga*) and the Bwiti Cult
 
 Iboga, native to Gabon and the Congo, is the only member of the dogbane
 family (Apocynaceae) known to be used as a hallucinogen. The plant is of

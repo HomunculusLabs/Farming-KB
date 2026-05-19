@@ -5,7 +5,7 @@ type: concept
 tags: [hallucinogenic-mushrooms, smartshops, drug-markets, EU, psilocybin, legislation]
 created: 2026-05-08
 ---
-# Hallucinogenic Mushroom Markets and Smartshop Economy in the EU
+## Hallucinogenic Mushroom Markets and Smartshop Economy in the EU
 
 ## Overview
 

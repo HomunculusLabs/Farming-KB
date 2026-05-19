@@ -1,4 +1,8 @@
-# Psilocybe Cubensis Mycelial Growth Optimization
+---
+title: "Psilocybe Cubensis Mycelial Growth Optimization"
+tags:
+  - concept
+---
 
 Psilocybe cubensis is a subtropical coprophilous fungus that has
 become one of the most widely cultivated mushroom species due to

@@ -6,7 +6,7 @@ sources:
   - gardening-when-it-counts-steve-solomon.md
 ---
 
-# Seed Chitting and Pre-Sprouting Techniques
+## Seed Chitting and Pre-Sprouting Techniques
 
 ## Overview
 

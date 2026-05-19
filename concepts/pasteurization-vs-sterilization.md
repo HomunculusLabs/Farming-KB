@@ -1,4 +1,8 @@
-# Pasteurization vs Sterilization
+---
+title: "Pasteurization vs Sterilization"
+tags:
+  - concept
+---
 
 [[mycology]],
 food science, medicine, and biotechnology, where the choice between

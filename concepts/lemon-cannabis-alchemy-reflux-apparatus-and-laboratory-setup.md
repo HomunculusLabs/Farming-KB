@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Reflux Apparatus and Laboratory Setup
+## Reflux Apparatus and Laboratory Setup
 
 ## Overview
 

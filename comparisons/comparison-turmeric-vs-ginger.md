@@ -13,7 +13,7 @@ sources:
   - 'FAO (2023). FAOSTAT — Crops and livestock products: query-how-do-i-grow-and-use-ginger-and-turmeric psilocybe-cubensis-miniculture-production-data-and-flush-longevity.'
 type: comparison---
 
-# Turmeric vs Ginger: A Complete Comparison
+## Turmeric vs Ginger: A Complete Comparison
 
 Turmeric (*Curcuma longa*) and ginger (*[[curcuma-longa]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

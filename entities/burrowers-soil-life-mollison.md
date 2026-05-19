@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Burrowers and Soil Life
+## Burrowers and Soil Life
 
 ## Description
 

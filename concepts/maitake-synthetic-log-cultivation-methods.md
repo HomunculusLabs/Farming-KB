@@ -6,7 +6,7 @@ tags: [grifola-frondosa, maitake, synthetic-log, mushroom-cultivation, substrate
 aliases: [Maitake Cultivation Methods, G. frondosa Synthetic Log, Maitake Bag Cultivation]
 ---
 
-# Maitake Synthetic-Log Cultivation Methods
+## Maitake Synthetic-Log Cultivation Methods
 
 Synthetic-log cultivation is the primary method for producing Grifola frondosa (maitake) commercially and by home growers. This technique uses supplemented hardwood sawdust packed into heat-sealed bags with microfilters, replicating the natural woody substrate that maitake colonizes in the wild.
 

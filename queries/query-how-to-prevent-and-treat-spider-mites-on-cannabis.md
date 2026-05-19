@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Prevent and Treat Spider Mites on Cannabis
+## How to Prevent and Treat Spider Mites on Cannabis
 
 ## Short Answer
 

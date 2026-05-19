@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Liberty Cap Rediscovery in Britain
+## Liberty Cap Rediscovery in Britain
 
 The rediscovery of [[amanita-muscaria-cultural-history]], a mushroom that was not eaten with any
 enthusiasm. The playwright Jeremy Sandford, for instance, swore in his 1972 book

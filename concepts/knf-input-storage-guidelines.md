@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF Input Storage Guidelines
+## KNF Input Storage Guidelines
 
 Proper storage of [[knf-fmc-floor-and-temperature-control]].
 

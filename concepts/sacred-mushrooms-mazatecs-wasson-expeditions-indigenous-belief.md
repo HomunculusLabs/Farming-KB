@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# Sacred Mushrooms of the Mazatecs — Wasson Expeditions and Indigenous Belief
+## Sacred Mushrooms of the Mazatecs — Wasson Expeditions and Indigenous Belief
 
 ## Overview
 

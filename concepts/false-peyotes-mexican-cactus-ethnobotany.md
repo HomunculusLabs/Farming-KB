@@ -7,7 +7,7 @@ tags: [ethnobotany, psychedelics, cacti, mexico, tarahumara, huichol]
 sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 ---
 
-# False Peyotes — Mexican Cactus Ethnobotany
+## False Peyotes — Mexican Cactus Ethnobotany
 
 "False peyotes" are a group of cactus species used by the Tarahumare (Rarámuri) and Huichol (Wixárika) Indians of northern and central Mexico as substitutes for or complements to true peyote (ethnomycology). These species belong to several genera within the Cactaceae family, most notably Ariocarpus, Epithelantha, and Pelecyphora. While they are not botanically related to peyote, they occupy important roles in the indigenous pharmacopeia and ceremonial systems of the region.
 

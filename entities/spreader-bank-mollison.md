@@ -5,7 +5,7 @@ type: entity
 tags: [earthworks, water-management, permaculture, irrigation, erosion-control]
 ---
 
-# Spreader Bank
+## Spreader Bank
 
 ## Description
 

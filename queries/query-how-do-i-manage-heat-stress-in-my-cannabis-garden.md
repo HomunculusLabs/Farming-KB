@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Manage Heat Stress in My Cannabis Garden?
+## How Do I Manage Heat Stress in My Cannabis Garden?
 
 ## Short Answer
 Managing heat stress in cannabis involves maintaining temperatures below

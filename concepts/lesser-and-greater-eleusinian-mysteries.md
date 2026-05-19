@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Lesser and Greater Eleusinian Mysteries
+## Lesser and Greater Eleusinian Mysteries
 
 **Source:** The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] — death in spring, redemption in autumn.
 

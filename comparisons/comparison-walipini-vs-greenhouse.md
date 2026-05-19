@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Walipini vs Greenhouse
+## Walipini vs Greenhouse
 
 ## Overview
 

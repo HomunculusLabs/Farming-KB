@@ -26,7 +26,7 @@ sources:
 type: comparison
 ---
 
-# Rhizobia vs Free-Living Nitrogen-Fixing Bacteria
+## Rhizobia vs Free-Living Nitrogen-Fixing Bacteria
 
 [[root-exudates]], sunlight (cyanobacteria) |
 | **Fixation rate** | 50–300 kg N/ha/yr | 5–30 kg N/ha/yr |

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2-TOET
+## 2-TOET
 
 [[methanol]], that melted at 93-94 deg C. Anal. (C12H15NO3S) C,H. The
 final phenethylamine hydrochloride salt was prepared from its

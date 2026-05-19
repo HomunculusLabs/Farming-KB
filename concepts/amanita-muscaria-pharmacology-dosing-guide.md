@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# [[mycorrhiza]]l Antiviral Function
+## [[mycorrhiza]]l Antiviral Function
 
 Green plants have no immune system of their own. They cannot deal with bacterial or viral attack independently. [[allegro-amanita-muscaria-properties-and-pharmacology]]
 

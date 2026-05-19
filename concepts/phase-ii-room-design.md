@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Phase II Room Design for Mushroom Composting
+## Phase II Room Design for Mushroom Composting
 
 The Phase II room is a specialized environment designed for one of the most critical stages in [[mushroom-growing-trays-and-shelves]] — tray and shelf systems
 

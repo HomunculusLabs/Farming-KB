@@ -20,7 +20,7 @@ sources:
   - Cookies Fam (2020). Official strain information, Cookies brand catalog.
 ---
 
-# Runtz
+## Runtz
 
 Runtz is an elite, evenly balanced [[cannabis-terpene-profiles-sativa]] drove collector demand.
 

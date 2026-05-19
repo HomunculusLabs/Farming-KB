@@ -19,7 +19,7 @@ sources:
   - "USDA NRCS Plant Guides and Technical Notes"
 ---
 
-# Nitrogen-Fixing Trees and Shrubs for Permaculture
+## Nitrogen-Fixing Trees and Shrubs for Permaculture
 
 Nitrogen-fixing plants are the backbone of ecological design. Through symbiotic relationships with soil bacteria, these species convert atmospheric nitrogen (N₂) into biologically available forms — fueling soil fertility, accelerating succession, and providing food, fodder, timber, and habitat. In permaculture systems, they serve as pioneer species, nurse crops, living mulch generators, and productive members of food forests and agroforestry systems.
 

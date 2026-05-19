@@ -6,7 +6,7 @@ created: 2026-05-13
 type: topic
 ---
 
-# Drought-Resistant Gardening and [[water-wise-vegetable-gardening|Water]]-Wise Landscaping
+## Drought-Resistant Gardening and [[water-wise-vegetable-gardening|Water]]-Wise Landscaping
 
 Drought-resistant gardening is the practice of designing and maintaining landscapes that thrive with minimal supplemental water.
 

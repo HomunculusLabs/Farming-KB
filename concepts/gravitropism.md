@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Gravitropism
+## Gravitropism
 
 Gravitropism is the growth response of plants to gravity, enabling roots to
 grow downward into the [[allegro-death-and-resurrection-in-the-mushroom-cult]]

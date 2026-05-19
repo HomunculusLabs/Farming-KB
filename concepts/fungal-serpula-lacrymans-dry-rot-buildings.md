@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in
 type: concept
 ---
 
-# Serpula lacrymans and the Ecology of Dry Rot in Buildings
+## Serpula lacrymans and the Ecology of Dry Rot in Buildings
 
 Dry rot is one of the most destructive [[meruliporia-incrassata]] causes equivalent destruction in North
 America. These fungi can reduce [[mordecai-cubitt-cooke]] wrote in 1871 that the

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Peptide
+## Peptide
 
 Peptide is a sativa-dominant hybrid [[cannabis-glandular-trichome-types-resin-production-clarke]] and more restrained growth habit.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Endophytic Fungi Living Inside Plants
+## Endophytic Fungi Living Inside Plants
 
 [[fungi-in-the-environment-symbiotic-relationships]] that can range from
 mutualistic to commensal. Endophytes are found in virtually every plant

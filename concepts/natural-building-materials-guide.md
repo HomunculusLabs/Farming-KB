@@ -7,7 +7,7 @@ tags: [construction, sustainability, homesteading, off-grid, permaculture]
 sources: []
 ---
 
-# Natural Building Materials Guide
+## Natural Building Materials Guide
 
 [[natural-building]] uses locally sourced, minimally processed materials to create shelter. These methods have been used for millennia and are experiencing a revival among homesteaders and permaculture practitioners due to low cost, low embodied energy, and healthy indoor environments.
 

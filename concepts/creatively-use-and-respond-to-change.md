@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Creatively Use and Respond to Change
+## Creatively Use and Respond to Change
 
 Creatively Use and Respond to Change is the twelfth and final principle of [[permaculture-design]], as articulated by [[david-holmgren]]. It encompasses two complementary threads: designing to make deliberate and cooperative use of change, and creatively responding or adapting to large-scale system change that is beyond our control or influence.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Herb Spiral and Applied Pattern Design
+## Herb Spiral and Applied Pattern Design
 
 Sophisticated [[herb-spirals-and-applied-pattern-design]]
 - [[herb-spiral-design]]

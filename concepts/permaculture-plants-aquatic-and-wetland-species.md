@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants, species]
 ---
 
-# Permaculture Aquatic and Wetland Species
+## Permaculture Aquatic and Wetland Species
 
 Water plants provide direct food for humans and [[permaculture-plants-comfrey-chop-and-drop]]
 

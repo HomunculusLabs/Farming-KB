@@ -1,5 +1,10 @@
+---
+title: "Barquinha Church Umbanda Orixas Ayahuasca Syncretism"
+tags:
+  - concept
+---
 
-# Barquinha Church and Umbanda Integration with Orixás
+## Barquinha Church and Umbanda Integration with Orixás
 
 ## Overview
 

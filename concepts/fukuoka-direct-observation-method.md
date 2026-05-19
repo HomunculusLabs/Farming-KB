@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Direct Observation Method
+## Direct Observation Method
 
 A central practice in Masanobu Fukuoka's [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] with a pleasant environment in which to live. When the ecosystem is balanced, [[fukuoka-bushman-world-ecological-balance]] is not something the farmer creates but something the farmer learns to recognize and support.
 

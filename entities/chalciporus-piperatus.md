@@ -11,7 +11,7 @@ tags:
   - Klofac, W. (2011). "The genus Chalciporus (Boletales) — a review." Österreichische Zeitschrift für Pilzkunde, 20, 31–44.
 ---
 
-# Chalciporus piperatus
+## Chalciporus piperatus
 
 ## Overview
 

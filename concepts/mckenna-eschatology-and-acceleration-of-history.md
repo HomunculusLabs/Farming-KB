@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Tryptamine Eschatology and the Acceleration of History
+## Tryptamine Eschatology and the Acceleration of History
 
 [[mckenna-dmt-experience-and-hyperspace]], [[mckenna-history-shockwave-of-eschatology]]," a process
 of accelerating transformation drawing all human becoming toward a culminating point.

@@ -7,7 +7,7 @@ tags: seed-saving, germination, plant-breeding
 type: concept
 ---
 
-# Solomon Seed Saving Guide
+## Solomon Seed Saving Guide
 
 ## Overview
 

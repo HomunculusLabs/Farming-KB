@@ -5,7 +5,7 @@ type: entity
 taxonomy: fungi
 ---
 
-# Russula fragilis (Fragile Russula)
+## Russula fragilis (Fragile Russula)
 
 ## Description
 

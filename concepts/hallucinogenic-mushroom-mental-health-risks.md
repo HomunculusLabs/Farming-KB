@@ -5,7 +5,7 @@ author: Hillebrand, Olszewski, Sedefov (EMCDDA)
 tags: [mental-health, risks, psychosis, flashback, hppd, bad-trip, emcdda]
 ---
 
-# Hallucinogenic Mushroom Mental Health Risks
+## Hallucinogenic Mushroom Mental Health Risks
 
 The EMCDDA 2006 thematic paper provides a comprehensive assessment
 of the mental health risks associated with psilocybin-containing

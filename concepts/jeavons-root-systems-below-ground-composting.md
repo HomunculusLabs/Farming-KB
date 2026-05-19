@@ -6,7 +6,7 @@ topics: [biointensive, root-systems, below-ground-composting, soil-ecology, cere
 aliases: [root composting, below-ground organic matter, cereal rye roots, root hair growth, subsoil decay]
 ---
 
-# Root Systems and Below-Ground Composting
+## Root Systems and Below-Ground Composting
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Potatoes Organically?
+## How to Grow Potatoes Organically?
 
 ## Short Answer
 Growing potatoes organically requires attention to soil preparation, seed potato selection, proper hilling techniques, and vigilant [[coleman-compost-and-organic-fertility-management]] matter for optimal tuber production.

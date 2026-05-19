@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: entity
 ---
 
-# Paraglomus occultum
+## Paraglomus occultum
 
 ## Description
 

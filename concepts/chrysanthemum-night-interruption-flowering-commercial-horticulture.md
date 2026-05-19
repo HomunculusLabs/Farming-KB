@@ -6,7 +6,7 @@ aliases:
   - "what-a-plant-knows-plant-vision-and-light-perception"
 ---
 
-# Chrysanthemum Night Interruption for Flowering Control
+## Chrysanthemum Night Interruption for Flowering Control
 
 ## Overview
 

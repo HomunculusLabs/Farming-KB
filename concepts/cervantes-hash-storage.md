@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, hash, storage, preservation, curing]
 ---
 
-# Hash Storage and Preservation
+## Hash Storage and Preservation
 
 Proper storage is essential to maintain hash quality over time.
 Hash that is stored incorrectly can develop mold, lose potency,

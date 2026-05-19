@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Greenhouse vs Cold Frame
+## Greenhouse vs Cold Frame
 
 Two season-extension structures serving different scales of food production, from simple passive boxes to comprehensive year-round growing environments. The right choice depends on production goals, budget, available space, and willingness to manage climate systems.
 

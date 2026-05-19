@@ -17,7 +17,7 @@ sources:
 type: comparison
 ---
 
-# Avocado Cultivation vs Mango Cultivation
+## Avocado Cultivation vs Mango Cultivation
 
 A comprehensive comparison of two premier subtropical food forest [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]] and homesteading systems.
 

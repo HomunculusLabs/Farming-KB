@@ -18,7 +18,7 @@ sources:
   - "IARC Working Group (2004). \"Betel-quid and areca-nut chewing.\" IARC Monographs, 85, 1-334."
 ---
 
-# Arecoline
+## Arecoline
 
 ## Overview
 

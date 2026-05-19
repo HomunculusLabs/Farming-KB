@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Open Living Systems and Permaculture Design Principles
+## Open Living Systems and Permaculture Design Principles
 
 ## Overview
 

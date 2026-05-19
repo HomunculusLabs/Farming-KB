@@ -8,7 +8,7 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# Soil Mineral Depletion and Plant Nutrition
+## Soil Mineral Depletion and Plant Nutrition
 
 ## The Mineral Balance Problem
 

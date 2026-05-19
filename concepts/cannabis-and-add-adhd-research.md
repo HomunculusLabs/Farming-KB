@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and ADD/ADHD Research
+## Cannabis and ADD/ADHD Research
 
 **Source:** Uwe Blesching, The [[blesching-cannabis-safety-adverse-effects-evidence]]: appetite loss, insomnia, tics, psychotic episodes, cardiovascular problems.
 

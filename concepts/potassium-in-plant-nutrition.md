@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [plant-nutrition, potassium, soil-fertility]
 ---
-# Potassium in Plant Nutrition
+## Potassium in Plant Nutrition
 **Updated:** 2026-05-09
 
 ## Overview

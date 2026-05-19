@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2,5-DMA (DMA)
+## 2,5-DMA (DMA)
 
 [[cervantes-grow-room-security-law-enforcement]] authorities some 20 years ago found that each contained some 200 milligrams of the hydrobromide salt. This is equivalent to 170 milligrams of the hydrochloride salt, and suggests that level may be an effective dosage.
 

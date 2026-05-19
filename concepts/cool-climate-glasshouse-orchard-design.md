@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Climate Glasshouse and Orchard Design
+## Cool Climate Glasshouse and Orchard Design
 
 Cool temperate humid climates are the regions where greenhouses are most commonly used — for speciality crop or aquatic species production, for house heating, and for winter production of vegetable and fruit crops. Modern glasshouses are becoming very sophisticated with respect to heat energy conservation and heat absorption, as **70–90% of the cost of crop** can be attributed to artificial heating. This chapter covers the design principles for efficient glasshouses and the fundamentals of cool-climate orchard systems.
 

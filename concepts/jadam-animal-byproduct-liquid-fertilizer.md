@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Animal By-Product Liquid Fertilizers
+## JADAM Animal By-Product Liquid Fertilizers
 
 JADAM has developed methods for producing high-quality liquid fertilizers from animal by-products including fish, fish meal, and fish waste. These fertilizers provide a diverse nutrient profile superior to single-nutrient synthetic fertilizers, at a fraction of the cost.
 

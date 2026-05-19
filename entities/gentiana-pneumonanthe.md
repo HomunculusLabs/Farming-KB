@@ -15,7 +15,7 @@ sources:
   - Oostermeijer, J.G.B. (1996). "Population viability of Gentiana pneumonanthe." PhD Thesis, University of Amsterdam.
 ---
 
-# Gentiana pneumonanthe
+## Gentiana pneumonanthe
 
 ## Overview
 

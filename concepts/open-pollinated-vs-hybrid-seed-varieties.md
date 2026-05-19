@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Open-Pollinated vs. Hybrid Seed Varieties
+## Open-Pollinated vs. Hybrid Seed Varieties
 
 ## Overview
 

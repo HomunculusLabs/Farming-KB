@@ -1,12 +1,12 @@
 ---
-title: Spore spore-print-collection-spore-mass-inoculation
+title: "Spore Print Collection"
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
 sources: [papers/mycelium-running-stamets.md]
 ---
-# Spore Print Collection
+## Spore Print Collection
 
 [[query-how-to-store-mushroom-spores-long-term]] for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *[[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion's mane (*[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]* (green-spored!) |
 | Green | *Chlorophyllum molybdites* |

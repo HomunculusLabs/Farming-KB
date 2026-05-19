@@ -1,3 +1,8 @@
+---
+title: "Pleurotoid Mushroom Morphology Gilled Fungi"
+tags:
+  - concept
+---
 Pleurotoid mushrooms represent one of the most recognizable morphological forms among the gilled fungi, characterized by fruiting bodies that grow shelf-like or laterally from wood or other substrates with the cap facing outward and the gills running down the stem. This growth form evolved independently in multiple fungal lineages and is a striking example of convergent evolution in response to the challenges of fruiting on vertical or angled surfaces.
 
 ## Defining the Pleurotoid Form

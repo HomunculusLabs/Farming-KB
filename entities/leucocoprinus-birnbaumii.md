@@ -13,7 +13,7 @@ tags:
   - https://www.speciesfungorum.org/
 ---
 
-# Leucocoprinus birnbaumii (Flowerpot Parasol)
+## Leucocoprinus birnbaumii (Flowerpot Parasol)
 
 **Leucocoprinus birnbaumii**, commonly known as the **flowerpot parasol**, **plantpot dapperling**, or **yellow houseplant mushroom**, is a species of agaric fungus in the family **Agaricaceae**. It is the most frequently encountered mycelium
 - **Surface:** Smooth above the ring zone, finely scaly below

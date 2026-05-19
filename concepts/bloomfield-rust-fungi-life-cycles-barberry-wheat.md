@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Puccinia Graminis — The Wheat Rust Life Cycle
+## Puccinia Graminis — The Wheat Rust Life Cycle
 
 The stem [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]] alternates between wheat and
 barberry, passing through five distinct spore stages — each morphologically

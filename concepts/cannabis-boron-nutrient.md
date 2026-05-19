@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Boron (B)
+## Cannabis Boron (B)
 
 ## Overview
 

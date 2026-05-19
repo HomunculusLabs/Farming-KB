@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Landscape Features and Erosion Landforms
+## Desert Landscape Features and Erosion Landforms
 
 Desert landscapes present a dramatic departure from the soft, rounded contours of humid regions. Where forests and grasslands blanket the land, erosion works slowly and evenly. In arid zones, however, the absence of persistent vegetation cover exposes raw geological processes to full force, producing angular, actively eroding terrain of remarkable complexity and variety.
 

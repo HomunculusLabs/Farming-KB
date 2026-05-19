@@ -7,7 +7,7 @@ tags: [gardening, plants, ecology, permaculture, companion-planting, soil-buildi
 sources: []
 ---
 
-# Ground Cover Plants
+## Ground Cover Plants
 
 Ground cover plants form living carpets over soil, suppressing weeds, retaining moisture, preventing erosion, and adding [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] to the landscape. They serve as living mulches in [[edible-landscaping]] and [[permaculture-design|permaculture]] systems, filling the lowest layer of the plant stack.
 

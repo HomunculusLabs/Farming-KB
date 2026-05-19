@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Shamanism and the Entheogenic Death-Rebirth Experience
+## Shamanism and the Entheogenic Death-Rebirth Experience
 
 ## Overview
 

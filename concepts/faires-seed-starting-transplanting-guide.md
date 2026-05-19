@@ -8,7 +8,7 @@ type: concept
 tags: [plant-growth, plants]
 ---
 
-# Seed Starting and Transplanting Guide
+## Seed Starting and Transplanting Guide
 
 Understanding seed germination and transplanting techniques is essential for extending the [[growing-gourmet-light-requirements-mushroom-fruiting]]**: Some seeds need light to germinate (carrots, lettuce, spinach, parsley, parsnips, beets). These can be scattered on the soil surface rather than pushed in, but birds may eat them. Soak them overnight and let them sit in light before planting. Larger seeds germinate in darkness; some (like parsley) actually need darkness.
 

@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 tags: [cultivation, substrate, spawn, grass-seed, mycology]
 ---
 
-# Grass Seed Substrate
+## Grass Seed Substrate
 
 Grass seed substrate is a versatile and effective medium for mushroom
 cultivation, particularly suited for the production of both fruit bodies and

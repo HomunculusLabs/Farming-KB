@@ -4,7 +4,7 @@ source: carolina-mushrooms_08qxp.md
 type: concept
 ---
 
-# Hallucinogenic Mushroom Markets, Legislation, and Health Effects
+## Hallucinogenic Mushroom Markets, Legislation, and Health Effects
 
 The European market for [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] has driven significant legislative changes across EU member states. This concept covers the market structure, product forms, health effects, and the evolving legal landscape.
 

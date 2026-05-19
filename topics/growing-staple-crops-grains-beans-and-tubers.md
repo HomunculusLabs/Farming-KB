@@ -52,7 +52,7 @@ related_concepts:
   - cover-crops-and-green-manures
 ---
 
-# Growing Staple Crops: Grains, Beans, and Tubers
+## Growing Staple Crops: Grains, Beans, and Tubers
 
 Staple crops are calorie-dense foods that form the foundation of human diets
 worldwide, typically providing 50 to 70 percent of daily caloric intake for a

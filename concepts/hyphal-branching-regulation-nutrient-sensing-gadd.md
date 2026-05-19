@@ -5,7 +5,7 @@ tags: [mycology, hyphal-growth, branching, morphogenesis, nutrient-sensing, myce
 source: "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
 ---
 
-# Hyphal Branching Regulation and Nutrient Sensing
+## Hyphal Branching Regulation and Nutrient Sensing
 
 ## Overview
 

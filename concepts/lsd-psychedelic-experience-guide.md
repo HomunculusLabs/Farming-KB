@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# LSD Psychedelic Experience Guide
+## LSD Psychedelic Experience Guide
 
 LSD ([[psilocybin-mushroom-distribution-worldwide]] and [[psychedelic-integration]] worldwide. It can be profoundly liberating or terrifying depending on preparation and set/setting. Turner notes that many people who encounter ego death without adequate preparation interpret it as death itself and panic, which is one of the most common sources of difficult LSD experiences.
 

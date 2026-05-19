@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Climate Home Garden Design
+## Cool Climate Home Garden Design
 
 The cool climate home garden presents unique challenges and opportunities compared to tropical and arid gardens. The defining characteristic is the need to **grow and store crops over the winter months**, as growth effectively ceases from late autumn to [[coleman-overwintered-onions-and-early-spring-crops]]. The middle of spring is known as the **"hungry gap"** — a period when winter crops are finished and new crops are not yet yielding. Successful cool-climate garden design revolves around bridging this gap through strategic planting, storage, and preservation.
 

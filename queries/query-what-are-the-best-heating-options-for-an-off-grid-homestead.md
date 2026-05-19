@@ -12,7 +12,7 @@ sources:
   - USDA Rural Development, off-grid housing technical guides
 type: query
 ---
-# What Are the Best Heating Options for an Off-Grid Homestead?
+## What Are the Best Heating Options for an Off-Grid Homestead?
 
 ## Quick Decision Guide
 

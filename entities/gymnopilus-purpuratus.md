@@ -20,7 +20,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Gymnopilus purpuratus
+## Gymnopilus purpuratus
 
 A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its striking appearance and wide Southern Hemisphere distribution. Contains psilocybin, psilocin, and bis-noryangonin. Documented extensively by [[jochen-gartz]].
 

@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Bacterial Dominant vs Fungal Dominant Compost Tea
+## Bacterial Dominant vs Fungal Dominant Compost Tea
 
 ## Overview
 

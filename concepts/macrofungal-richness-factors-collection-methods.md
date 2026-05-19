@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Macrofungal Species Richness Factors and Collection Methods
+## Macrofungal Species Richness Factors and Collection Methods
 
 Understanding the factors that drive macrofungal species richness and employing rigorous collection methods are foundational to [[fungal-biodiversity]] studies. This concept page synthesizes key abiotic and biotic determinants of fungal diversity patterns alongside best practices for field collection, documentation, and preservation.
 

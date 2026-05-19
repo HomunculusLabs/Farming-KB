@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybin, psilocybe-cubensis, alkaloid-variation, flush, fruiting, HPLC, cultivation]
 ---
 
-# Psilocybin Variation Across Flushes
+## Psilocybin Variation Across Flushes
 
 The concentration of psilocybin in *[[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] (harvests) from the same culture.
 

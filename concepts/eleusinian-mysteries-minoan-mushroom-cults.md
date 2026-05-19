@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Eleusinian Mysteries and Minoan Mushroom Cults
+## Eleusinian Mysteries and Minoan Mushroom Cults
 
 ## Overview
 

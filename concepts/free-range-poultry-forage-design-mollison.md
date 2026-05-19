@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
-# Free-Range Poultry Forage System Design
+## Free-Range Poultry Forage System Design
 
 updated: 2026-04-18
 

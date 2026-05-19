@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Arid vs Tropical Permaculture
+## Arid vs Tropical Permaculture
 
 ## Overview
 Arid and tropical permaculture represent two extremes of climate-adaptive design,

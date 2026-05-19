@@ -15,7 +15,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Permaculture Nitrogen-Fixing Trees
+## Permaculture Nitrogen-Fixing Trees
 
 Nitrogen-fixing trees are among the most valuable elements in permaculture design. They convert atmospheric nitrogen into forms available to other plants through symbiotic relationships with bacteria in their root nodules, building soil fertility while providing numerous other products and services.
 

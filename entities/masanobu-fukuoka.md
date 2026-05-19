@@ -26,7 +26,7 @@ sources:
 - raw/masanobu-fukuoka-fukuoka.md
 ---
 
-# Masanobu Fukuoka
+## Masanobu Fukuoka
 
 > **Note:** Sources now available — content updated from primary texts.
 

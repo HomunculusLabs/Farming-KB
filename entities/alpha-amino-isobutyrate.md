@@ -1,5 +1,5 @@
 ---
-title: alpha-Amino-isobutyrate (AIB)
+title: "Alpha Amino Isobutyrate"
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: entity
 tags: [chemical, amino-acid-analogue, tracer, nutrient-transport, fungal-physiology]

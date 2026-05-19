@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Whitefly Pest Control on Cannabis
+## Whitefly Pest Control on Cannabis
 
 Whiteflies are small, winged insects that resemble tiny white
 moths approximately 0.04 inch (1 mm) long. They typically

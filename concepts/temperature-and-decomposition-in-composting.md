@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Temperature and Decomposition in Composting
+## Temperature and Decomposition in Composting
 
 Temperature is the single most important variable controlling the speed and quality of compost decomposition. The relationship between temperature and decomposition rate is not linear — it is geometric. Understanding this relationship, and managing the temperatures your compost heap reaches, is the difference between producing potent, nutrient-rich compost and creating a pile of partially decomposed waste that loses most of its value.
 

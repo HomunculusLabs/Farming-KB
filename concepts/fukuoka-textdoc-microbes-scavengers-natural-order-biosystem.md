@@ -20,7 +20,7 @@ related:
   - fukuoka-textdoc-pine-rot-epidemic
 ---
 
-# Microbes as Scavengers in the Natural Order
+## Microbes as Scavengers in the Natural Order
 
 ## Overview
 

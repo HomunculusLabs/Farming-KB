@@ -8,7 +8,7 @@ type: concept
 tags: [knf, minerals]
 ---
 
-# Master Cho's Fish Aminos and Sea Minerals
+## Master Cho's Fish Aminos and Sea Minerals
 
 ## Fish Amino Acid (FAA)
 

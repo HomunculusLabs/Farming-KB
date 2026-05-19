@@ -7,7 +7,7 @@ tags: [food, nutrition]
 sources: []
 ---
 
-# Lacto-Fermentation and Food Preservation Methods
+## Lacto-Fermentation and Food Preservation Methods
 
 Lacto-fermentation is one of the oldest and safest methods of food preservation. Unlike canning or freezing which try to kill all bacteria, fermentation encourages the growth of beneficial lactic [[lacto-fermentation-recipes]] potentially safer than raw vegetables (which can harbor E. coli) or improperly canned foods. Lacto-fermentation connects food preservation traditions with modern understanding of the human microbiome.
 

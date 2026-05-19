@@ -15,7 +15,7 @@ sources:
   - Cayford, J.H. & McRae, D.J. (1983). "Ecological Role of Fire in Jack Pine Forests." In: The Role of Fire in Northern Circumpolar Ecosystems.
 ---
 
-# Pinus banksiana
+## Pinus banksiana
 
 ## Overview
 

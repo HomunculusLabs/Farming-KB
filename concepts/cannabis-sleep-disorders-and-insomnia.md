@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Sleep Disorders and Insomnia
+## Cannabis for Sleep Disorders and Insomnia
 
 Sleep disturbances affect millions worldwide, and cannabis has been used for centuries as a sleep aid. The [[psilocybin-therapeutic-applications]] and important caveats.
 

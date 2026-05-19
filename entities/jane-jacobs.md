@@ -5,7 +5,7 @@ type: entity
 tags: [person, urbanist, author, economics, community, marginal-systems]
 ---
 
-# Jane Jacobs
+## Jane Jacobs
 
 ## Description
 

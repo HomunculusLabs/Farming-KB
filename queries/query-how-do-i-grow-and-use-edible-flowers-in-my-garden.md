@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# How Do I Grow and Use Edible Flowers in My Garden?
+## How Do I Grow and Use Edible Flowers in My Garden?
 
 ## Short Answer
 

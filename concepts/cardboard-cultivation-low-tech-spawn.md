@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cardboard Cultivation and Low-Tech Spawn Creation
+## Cardboard Cultivation and Low-Tech Spawn Creation
 
 Cardboard is one of the most universally available waste materials and serves
 as both a [[growing-gourmet-sawdust-spawn-production-use]] medium for

@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [ethnobotany, salvia-divinorum, salvinorin-a, psychopharmacology, hallucinogens, kappa-opioid]
 ---
 
-# Salvia Divinorum Pharmacology
+## Salvia Divinorum Pharmacology
 
 ## Overview
 

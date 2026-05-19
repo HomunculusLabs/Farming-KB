@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka: Nature Must Not Be Dissected
+## Fukuoka: Nature Must Not Be Dissected
 
 In "The Natural Way of Farming," Masanobu Fukuoka presents a
 fundamental epistemological [[fukuoka-critique-scientific-agriculture-civilization]]:

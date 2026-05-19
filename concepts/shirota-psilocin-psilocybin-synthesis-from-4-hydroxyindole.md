@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Shirota Psilocin and Psilocybin Synthesis Starting from 4 Hydroxyindole
+## Shirota Psilocin and Psilocybin Synthesis Starting from 4 Hydroxyindole
 
 Shirota, Hakamata, and Goda of the National Institute of Health Sciences in
 Tokyo published in the Journal of Natural Products (2003, Vol. 66, pp.

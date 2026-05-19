@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Soul Loss and Fright
+## Mazatec Soul Loss and Fright
 
 ## Overview
 

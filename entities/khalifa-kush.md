@@ -17,7 +17,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Khalifa Kush
+## Khalifa Kush
 
 Khalifa Kush, also known as Wiz Khalifa OG or simply KK, is a proprietary
 indica-dominant [[mckenna-cannabis-culture-history]].

@@ -7,7 +7,7 @@ tags: [construction, permaculture, sustainability, homesteading, design]
 sources: []
 ---
 
-# Reciprocal Roof Frame
+## Reciprocal Roof Frame
 
 A reciprocal roof is a self-supporting roof structure where each rafter rests on and supports the next, forming a spiraling or circular arrangement. No central column or ridge beam is needed — the rafters mutually support each other through an interlocking pattern. This creates a striking, open interior space with a central oculus (opening) at the peak.
 

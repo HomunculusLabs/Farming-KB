@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 type: concept
 ---
 
-# Discovery of Psilocybin Mushrooms by Western Science
+## Discovery of Psilocybin Mushrooms by Western Science
 
 The scientific discovery of psilocybin-containing mushrooms is a story spanning nearly 500 years, from the first Spanish chronicles of Aztec "flesh of the gods" ceremonies to [[albert-hofmann]]'s isolation of [[hplc-analysis-of-psilocybin-and-psilocin]] in a Swiss laboratory in 1958. It involves some of the most important figures in ethnobotany, chemistry, and psychiatry.
 

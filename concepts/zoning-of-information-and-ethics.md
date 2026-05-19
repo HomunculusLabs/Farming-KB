@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Zoning of Information and Ethics
+## Zoning of Information and Ethics
 
 In [[permaculture-design]] motivation and conventional design practices:
 

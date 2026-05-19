@@ -5,7 +5,7 @@ source_author: Uwe Blesching
 tags: [cannabis, health-index, CHI, scoring, evidence-based, methodology, medical-cannabis]
 ---
 
-# The Cannabis Health Index (CHI) Scoring System
+## The Cannabis Health Index (CHI) Scoring System
 
 ## Overview
 

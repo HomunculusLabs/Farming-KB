@@ -16,7 +16,7 @@ sources:
   - Organic seed production literature
 ---
 
-# Heirloom vs Hybrid vs Open-Pollinated Seeds
+## Heirloom vs Hybrid vs Open-Pollinated Seeds
 
 ## Quick Summary
 

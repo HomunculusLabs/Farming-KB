@@ -6,7 +6,7 @@ source: tropisms in the mushroom psilocybe cubensis
 created: 2026-05-11
 ---
 
-# Mushroom Geotropism and Spore Production
+## Mushroom Geotropism and Spore Production
 
 [[mushroom-negative-geotropism]] (also called gravitropism) in mushrooms is the upward growth response of the stipe and pileus against the direction of gravity. In *[[psilocybe-cubensis]]*, this response is tightly coupled to spore production, representing a developmental shift from the earlier anemotropic (wind-directed) growth phase. The connection between geotropism and sporulation was demonstrated by Badham (1982) through experiments with fertile basidiocarps, sterile mutants, and varied light conditions.
 

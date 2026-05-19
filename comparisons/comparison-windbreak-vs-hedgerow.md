@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 type: comparison
 ---
-# Windbreak vs Hedgerow
+## Windbreak vs Hedgerow
 Both windbreaks and hedgerows use linear woody plantings to modify microclimates
 and support ecosystems, but they differ significantly in primary purpose, design
 philosophy, scale, and complexity. Understanding these distinctions is essential

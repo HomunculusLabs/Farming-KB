@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Fermented Plant Extract vs Compost Tea
+## Fermented Plant Extract vs Compost Tea
 
 ## Overview
 Fermented Plant Extract (FPE) and Actively Aerated Compost Tea (AACT) are

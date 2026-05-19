@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# No-Till Benefits and the Soil Food Web
+## No-Till Benefits and the Soil Food Web
 
 The [[teaming-with-microbes-cover-crops-soil-health]]
 

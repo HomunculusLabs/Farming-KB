@@ -1,4 +1,8 @@
-# Fungal Mineral Transformations and Biogeochemical Cycles
+---
+title: "Fungal Mineral Transformations and Biogeochemical Cycles"
+tags:
+  - concept
+---
 
 ## Overview
 Fungi play critical and often underappreciated roles in [[dighton-fungal-rock-weathering-mineral-dissolution]], precipitation,

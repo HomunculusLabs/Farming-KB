@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Vegetative Growth Stage
+## Cannabis Vegetative Growth Stage
 
 ## Overview
 

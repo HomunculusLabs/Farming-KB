@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Make Herbal Tinctures, Salves, and Extracts at Home?
+## How Do I Make Herbal Tinctures, Salves, and Extracts at Home?
 
 Making your own herbal preparations is one of the most practical skills in herbalism. It transforms raw plant material into potent, shelf-stable medicines that preserve the active constituents of herbs for months or years. Whether you grow your own [[comparison-lemon-balm-vs-passionflower]] or fresh peppermint, consider using 190-proof alcohol to ensure the final tincture maintains at least 25 to 30 percent alcohol by volume, which is the minimum needed for reliable preservation.
 

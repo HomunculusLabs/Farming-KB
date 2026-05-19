@@ -10,7 +10,7 @@ sources:
   - "raw/papers/urban-permaculture-guerilla-gardening.md"
 ---
 
-# Urban Permaculture and Guerrilla Gardening
+## Urban Permaculture and Guerrilla Gardening
 
 Urban permaculture applies the [[permaculture-ethics-and-principles]] of permaculture design to
 cities, towns, and suburbs — some of the most altered landscapes on Earth.

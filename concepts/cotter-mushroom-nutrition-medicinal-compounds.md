@@ -8,7 +8,7 @@ sources:
   - "papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
 
-# Mushroom Nutrition and Medicinal Compounds
+## Mushroom Nutrition and Medicinal Compounds
 
 Mushrooms are an excellent source of protein and possess a wide range of
 [[cho-fish-amino-acid-preparation]] profile.

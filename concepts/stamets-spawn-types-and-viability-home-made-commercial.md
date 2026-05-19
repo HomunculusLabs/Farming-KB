@@ -1,4 +1,8 @@
-# Spawn Types and Viability: Home-Made vs. Commercial
+---
+title: "Spawn Types and Viability: Home-Made vs. Commercial"
+tags:
+  - concept
+---
 
 ## Overview
 

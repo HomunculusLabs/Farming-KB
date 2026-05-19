@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook
 topics: french-agriculture, tools, intensive-gardening, farm-infrastructure, history
 ---
 
-# The Willow Basket Hotte: Manure Transport System
+## The Willow Basket Hotte: Manure Transport System
 
 ## Narrow Paths and Human-Scale Logistics
 

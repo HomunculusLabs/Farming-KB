@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Libido Research
+## Cannabis and Libido Research
 
 **Source:** Uwe Blesching, The [[cannabis-subjective-therapeutic-window-dosing]] window; begin with low to medium doses
 

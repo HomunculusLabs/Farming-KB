@@ -1,5 +1,10 @@
+---
+title: "Pressure Cooker Sterilisation Fungal Substrate"
+tags:
+  - concept
+---
 
-# Pressure Cooker Sterilisation for Fungal Substrate Jars
+## Pressure Cooker Sterilisation for Fungal Substrate Jars
 
 Sterilisation is arguably the most critical step in [[mycelium]].
 

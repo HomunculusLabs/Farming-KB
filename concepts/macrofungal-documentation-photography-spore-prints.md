@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Macrofungal Documentation — Photography, Spore Prints, and Description
+## Macrofungal Documentation — Photography, Spore Prints, and Description
 
 Thorough documentation of macrofungal specimens is essential for accurate identification and lasting scientific value. Fresh specimens provide the most information, but proper techniques allow preservation of key features for later study.
 

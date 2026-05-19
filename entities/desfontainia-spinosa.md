@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Desfontainia spinosa
+## Desfontainia spinosa
 
 **Desfontainia spinosa** R. et P., commonly known as **Taique** (in Chile) or **Borrachero** (in Colombia, meaning "intoxicator"), is one of the least-known yet culturally significant hallucinogenic plants of the Andes. It is a beautiful shrub with glossy holly-like leaves and striking tubular red flowers.
 

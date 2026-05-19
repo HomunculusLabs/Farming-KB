@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Color and Soil Profiles
+## Soil Color and Soil Profiles
 
 ## Overview
 

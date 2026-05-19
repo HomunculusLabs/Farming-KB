@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [fungal-modelling, mycelial-growth, Rhizoctonia-solani, cellular-automaton, translocation, biomass-distribution]
 ---
 
-# Mathematical Modelling of Fungal Mycelia
+## Mathematical Modelling of Fungal Mycelia
 
 ## Overview
 

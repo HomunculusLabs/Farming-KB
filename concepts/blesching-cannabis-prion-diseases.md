@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Prion Diseases
+## Cannabis and Prion Diseases
 
 ## Overview
 

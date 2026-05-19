@@ -1,4 +1,8 @@
-# Fukuoka's Hotel Analogy: A Model for Understanding Crop Yields
+---
+title: "Fukuoka's Hotel Analogy: A Model for Understanding Crop Yields"
+tags:
+  - concept
+---
 
 **Source:** [[liebig-law-of-minimum-critique-natural-farming]] and the entire framework of
 scientific high-yield theory.

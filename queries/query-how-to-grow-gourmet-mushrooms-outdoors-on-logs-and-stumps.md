@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Gourmet Mushrooms Outdoors on Logs and Stumps?
+## How to Grow Gourmet Mushrooms Outdoors on Logs and Stumps?
 
 ## Short Answer
 [[cuthill-mushroom-spawn-preparation-historical]]. The

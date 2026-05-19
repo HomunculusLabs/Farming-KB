@@ -5,7 +5,7 @@ topic: permaculture
 tags: [permaculture, scale, speed, energy-descent, holmgren, design, balance]
 ---
 
-# Optimum Scale and Speed: Balancing Industrial and Post-Industrial Systems
+## Optimum Scale and Speed: Balancing Industrial and Post-Industrial Systems
 
 ## Overview
 

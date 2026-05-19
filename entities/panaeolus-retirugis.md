@@ -9,7 +9,7 @@ updated: 2026-04-28
 sources: []
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
-# Panaeolus retirugis
+## Panaeolus retirugis
 
 Panaeolus retirugis is a psychoactive mushroom in the family
 Panaeolaceae, known to contain psilocybin and related tryptamine

@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Plant Water Transport and Transpiration
+## Plant Water Transport and Transpiration
 
 Water movement through plants is one of the most elegant processes in botany, driven by a combination of physical forces that require no energy expenditure from the plant itself. Understanding how water travels from soil into roots, up through stems, and into leaves is fundamental to understanding plant nutrition and health.
 

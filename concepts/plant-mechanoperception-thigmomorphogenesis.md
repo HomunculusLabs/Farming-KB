@@ -7,7 +7,7 @@ tags: [plant-biology, mechanoperception, thigmomorphogenesis, touch-response,
        plant-senses, tropisms, calcium-signaling]
 sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
-# Plant Mechanoperception and Thigmomorphogenesis
+## Plant Mechanoperception and Thigmomorphogenesis
 
 ## Overview
 

@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Cryptococcus neoformans: Capsule, Melanin, and Brain Colonization
+## Cryptococcus neoformans: Capsule, Melanin, and Brain Colonization
 
 ## Overview
 

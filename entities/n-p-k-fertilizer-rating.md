@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: entity
 ---
 
-# N-P-K Fertilizer Rating System
+## N-P-K Fertilizer Rating System
 
 ## Description
 

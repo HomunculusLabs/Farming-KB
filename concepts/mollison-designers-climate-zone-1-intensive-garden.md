@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Zone 1 - The Intensive Garden
+## Zone 1 - The Intensive Garden
 
 Zone 1 in permaculture-zone-planning to create logical,
 energy-conserving layouts around the home.

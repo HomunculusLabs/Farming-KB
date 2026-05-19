@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# KNF Nutritive Cycle Theory
+## KNF Nutritive Cycle Theory
 
 ## Overview
 

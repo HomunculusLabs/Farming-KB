@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Psilocybin Mushroom Bluing Reaction Chemistry
+## Psilocybin Mushroom Bluing Reaction Chemistry
 
 ## Overview of the Bluing Reaction
 

@@ -4,7 +4,7 @@ source: "Gardening When It Counts (Solomon, 2005)"
 tags: [soil-tilth, seedbed, gardening, germination, humus, crumb-structure, compost]
 ---
 
-# Soil Tilth and Seedbed Preparation
+## Soil Tilth and Seedbed Preparation
 
 ## Understanding Soil Tilth
 

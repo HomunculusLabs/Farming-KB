@@ -8,7 +8,7 @@ tags: [psychedelics, mescaline, peyote, san-pedro, cactus, phenethylamine, dosag
 updated: 2026-04-26
 ---
 
-# Mescaline: Peyote & San Pedro Cactus - Shamanic Sacraments
+## Mescaline: Peyote & San Pedro Cactus - Shamanic Sacraments
 
 > Intensity: 3 to 8 for most experiences.
 

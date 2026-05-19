@@ -8,7 +8,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 type: concept
 ---
 
-# No-Till Grain Strategy
+## No-Till Grain Strategy
 
 The no-till grain strategy adapts Masanobu Fukuoka's [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation.
 

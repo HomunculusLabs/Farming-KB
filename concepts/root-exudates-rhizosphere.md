@@ -9,7 +9,7 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
-# Root Exudates and the Rhizosphere
+## Root Exudates and the Rhizosphere
 
 Updated: 2026-04-18
 

@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# Tamarillo — Tree Tomato (*Cyphomandra betacea*)
+## Tamarillo — Tree Tomato (*Cyphomandra betacea*)
 
 ## Overview
 

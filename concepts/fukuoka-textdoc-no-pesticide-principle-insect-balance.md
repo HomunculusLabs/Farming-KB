@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# No Pesticide Principle and Insect Balance
+## No Pesticide Principle and Insect Balance
 
 [[fukuoka-limits-scientific-method-agriculture]] of
 inquiry by observing the crop and insect or investigating what the insect is.

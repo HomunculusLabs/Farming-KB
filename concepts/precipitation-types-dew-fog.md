@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Precipitation Types — Dew, Fog, and Condensation
+## Precipitation Types — Dew, Fog, and Condensation
 
 Precipitation encompasses far more than rainfall alone. In [[table-mountain]], South Africa, and 127 cm (50 inches) for Lanai, Hawaii, from fog drip alone. In such areas, even field crops may thrive without irrigation. Typically, bare rock and new soil surfaces on sea-facing slopes are colonised with lichens and mosses, while rainforest develops on richer soils.
 

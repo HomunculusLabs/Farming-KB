@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Biotechnology and Computers Warning
+## Fukuoka Biotechnology and Computers Warning
 
 In the closing section of his [[fukuoka-textdoc-natural-order-food-chain-unity]] -- they are trapped in the same conceptual limitations as the humans who built them
 - Any decisions made by computers will be inherently limited to the relativistic framework of space and time

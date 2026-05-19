@@ -18,7 +18,7 @@ sources:
 type: query
 ---
 
-# What Are the Best Citrus Varieties for Different Climates?
+## What Are the Best Citrus Varieties for Different Climates?
 
 Choosing the right citrus variety for your [[coleman-cold-hardiness-testing-ratings]]. Great for marmalade.
 - **Yuzu** — Aromatic rind for [[savory-growing-season-and-non-growing-season-management]]. Move indoors before first frost to a bright 40–55°F location.

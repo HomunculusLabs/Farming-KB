@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka Seed Ball Method
+## Fukuoka Seed Ball Method
 
 The seed ball method, sometimes called clay [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] without plowing, transplanting, or conventional seedbed
 preparation. Seeds are encased in balls of clay and sometimes compost or topsoil,

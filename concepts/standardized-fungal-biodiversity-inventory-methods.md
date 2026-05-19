@@ -1,4 +1,8 @@
-# Standardized [[biodiversity-of-fungi-fungal-culture-preservation-techniques|Biodiversity]] Inventory and Monitoring Methods
+---
+title: "Standardized Biodiversity Inventory and Monitoring Methods"
+tags:
+  - concept
+---
 
 ## Overview
 

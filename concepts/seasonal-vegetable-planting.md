@@ -9,7 +9,7 @@ sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 type: concept
 ---
 
-# Seasonal Vegetable Planting Guide
+## Seasonal Vegetable Planting Guide
 
 Making sure you always have fresh vegetables in the garden
 requires planning and attention to seasonal timing. Weather

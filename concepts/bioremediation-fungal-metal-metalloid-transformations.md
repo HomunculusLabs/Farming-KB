@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Metal and Metalloid Transformations in Bioremediation
+## Fungal Metal and Metalloid Transformations in Bioremediation
 
 Fungi can transform metals, metalloids, and organometallic compounds
 through reduction, methylation, and dealkylation reactions. These

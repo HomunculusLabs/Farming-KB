@@ -1,4 +1,8 @@
-# Destructive Sampling of Fungal Herbarium Specimens for Molecular Studies
+---
+title: "Destructive Sampling of Fungal Herbarium Specimens for Molecular Studies"
+tags:
+  - concept
+---
 
 ## Overview
 

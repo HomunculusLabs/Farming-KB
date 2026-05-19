@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Mycoforestry Applications
+## Mycoforestry Applications
 
 Mycoforestry applies fungal biology to forest ecosystem management, combining remediation of contaminated sites with reforestation and sustainable [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] degradation:** ECM fungi show limited but documented capacity to degrade petroleum hydrocarbons. VAM fungi occur in both polluted and nonpolluted forest soils.
 - **Radionuclide retention:** Fungi are responsible for long-term retention of radiocesium in organic forest soil horizons. About 22% of 137Cs is bound by fungal mycelia in top 5 cm of coniferous forest soil.

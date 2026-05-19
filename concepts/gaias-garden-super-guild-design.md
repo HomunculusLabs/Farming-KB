@@ -9,7 +9,7 @@ type: concept
 tags: [design, gardening, plant-systems]
 ---
 
-# Super-Guild Design
+## Super-Guild Design
 
 A super-guild is an interconnected landscape-scale assemblage where multiple individual [[gaias-garden-three-sisters-guild]].
 

@@ -4,7 +4,7 @@ source: Gaia's Garden - A Guide to Home-Scale Permaculture (Toby Hemenway)
 topics: polyculture, temperate gardening, ecological design, coleman-succession-planting
 ---
 
-# Jajarkot Advanced Polyculture
+## Jajarkot Advanced Polyculture
 
 ## Overview
 

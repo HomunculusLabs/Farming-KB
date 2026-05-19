@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Ventilation Cannabis
+## Ventilation Cannabis
 
 Ventilation is as important as water, light, heat, and fertilizer for a healthy indoor
 cannabis garden. Fresh air is the least expensive essential component required to produce

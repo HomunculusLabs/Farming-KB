@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Aerobic vs Anaerobic Tea Benefits Comparison
+## Aerobic vs Anaerobic Tea Benefits Comparison
 
 A central distinction in compost tea production is between aerobic ([[compost-tea-brewing-methods-aact]] against five core benefits that a healthy soil foodweb provides:
 

@@ -21,7 +21,7 @@ sources:
 - raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
 
-# Steve Solomon
+## Steve Solomon
 
 Steve Solomon is a garden writer, seed saver, and advocate for nutrient-dense food production. He founded the Territorial Seed Company in 1979 and authored several influential gardening books including "Growing Vegetables West of the Cascades" and "Gardening When It Counts."
 

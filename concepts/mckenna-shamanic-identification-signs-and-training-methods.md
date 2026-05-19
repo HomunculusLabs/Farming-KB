@@ -5,7 +5,7 @@ type: concept
 tags: [mckenna, shamanism, shamanic-calling, initiation, indigenous-healing, entheogenic-shamanism]
 ---
 
-# McKenna on Shamanic Identification Signs and Training
+## McKenna on Shamanic Identification Signs and Training
 
 ## Overview
 

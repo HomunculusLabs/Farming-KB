@@ -7,7 +7,7 @@ tags: [water, conservation]
 sources: []
 ---
 
-# Water Activity and Osmophilic Fungal Media Preparation
+## Water Activity and Osmophilic Fungal Media Preparation
 
 Updated: 2026-04-18
 

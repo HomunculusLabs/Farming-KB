@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Ayahuasca Ceremony
+## Ayahuasca Ceremony
 
 ## Description
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Schizophrenia Research
+## Cannabis and Schizophrenia Research
 
 **Source:** The [[psilocybin-clinical-trial-landscape-2020-2025]] comparing CBD (800 mg/day) with the atypical antipsychotic amisulpride. CBD showed "no difference in clinical efficacy" but with "far fewer extrapyramidal symptoms, less weight gain, and lower prolactin increase." This landmark study established CBD as a potential antipsychotic.
 

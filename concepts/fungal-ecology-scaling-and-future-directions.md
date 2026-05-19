@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Ecology Scaling and Future Directions
+## Fungal Ecology Scaling and Future Directions
 
 The study of fungi in ecosystem processes faces a fundamental challenge of scale: individual fungal hyphae operate at the micrometer scale, yet their cumulative effects manifest at the landscape and global scale. Bridging this gap between microscale fungal physiology and macroscale ecosystem function represents one of the most important frontiers in fungal ecology. This concept explores the hierarchical nature of ecosystem organization, the role of functional groups in simplifying complexity, and the emerging tools and approaches that promise to advance our understanding of fungi in ecosystem processes.
 

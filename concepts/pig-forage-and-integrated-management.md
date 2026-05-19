@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pig [[urban-permaculture-and-integrated-land-management|permaculture]] system. When
+## Pig [[urban-permaculture-and-integrated-land-management|permaculture]] system. When
 properly managed with forage systems and integrated rotational strategies, they provide
 soil cultivation, weed control, and fertilization while substantially reducing feed costs.
 Bill Mollison's *Permaculture: A Designer's Manual* outlines approaches that transform

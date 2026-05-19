@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Plant Stacking and Plant-Animal Interactions in Permaculture
+## Plant Stacking and Plant-Animal Interactions in Permaculture
 
 Plant stacking (vertical diversity) and the synergistic interactions between plants, animals, and inorganic elements represent the biological core of [[permaculture-design]]. These concepts distinguish [[permaculture]] from conventional agriculture by treating every element as part of a complex web of relationships rather than as an isolated production unit.
 

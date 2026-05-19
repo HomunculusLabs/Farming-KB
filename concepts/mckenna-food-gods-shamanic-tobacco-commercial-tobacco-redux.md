@@ -6,7 +6,7 @@ type: concept
 tags: [psychedelics, ethnobotany, mckenna, tobacco, shamanism, maya, nicotiana-rustica, mao-inhibitors, ethnopharmacology]
 ---
 
-# Shamanic Tobacco vs. Commercial Tobacco: The Forgotten Visionary Plant
+## Shamanic Tobacco vs. Commercial Tobacco: The Forgotten Visionary Plant
 
 ## Summary
 

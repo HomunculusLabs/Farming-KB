@@ -7,7 +7,7 @@ tags: [permaculture, soil, compost, regenerative, methods, design, plant-growth,
 sources: []
 ---
 
-# Hugelkultur
+## Hugelkultur
 
 Hugelkultur (German for "mound culture") is a permaculture technique that uses woody debris as the core of raised garden beds. As the wood decomposes, it acts like a sponge, absorbing and releasing water and nutrients over many years. Popularized by Austrian farmer [[sepp-holzer]] and widely adopted in temperate permaculture design, hugelkultur beds convert waste wood into productive growing space while reducing irrigation needs and building soil fertility.
 

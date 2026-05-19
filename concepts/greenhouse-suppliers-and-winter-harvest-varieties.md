@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Greenhouse Suppliers and Winter Harvest Varieties
+## Greenhouse Suppliers and Winter Harvest Varieties
 
 Successful winter harvest farming requires access to specialized tools, structures, and seed varieties that may not be available through standard garden center channels. Eliot Coleman provides a comprehensive reference of trusted suppliers and proven varieties based on decades of winter growing experience in coastal Maine.
 

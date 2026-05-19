@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Isotopic Tracers in Mycorrhizal Research
+## Isotopic Tracers in Mycorrhizal Research
 
 Isotopic tracer techniques are essential tools for quantifying nutrient and carbon fluxes in mycorrhizal systems. By introducing isotopically labeled compounds and tracking their movement through the plant-fungus-soil system, researchers can measure rates of nutrient transfer, carbon allocation, and resource exchange that would be impossible to determine by conventional methods.
 

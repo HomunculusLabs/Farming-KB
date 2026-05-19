@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi of Colombia Species Diversity and Ecology
+## Neurotropic Fungi of Colombia Species Diversity and Ecology
 
 Colombia occupies a critical position in the biogeography of neurotropic
 fungi, serving as a bridge between Central American and Amazonian mycoflora.

@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Wasson's Amanita Theory and Objections
+## Wasson's Amanita Theory and Objections
 
 ## Overview
 

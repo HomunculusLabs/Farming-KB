@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Growing Room Ventilation and Air Exchange Systems
+## Growing Room Ventilation and Air Exchange Systems
 
 The growing room environment should ideally act as a giant
 wind tunnel, providing a homogeneously mixed atmosphere.

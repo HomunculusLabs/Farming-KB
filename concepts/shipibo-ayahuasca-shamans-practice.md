@@ -7,7 +7,7 @@ tags: [Shipibo, ayahuasca, shamanism, icaros, Peru, Amazon, Ucayali, ethnobotany
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Shipibo Ayahuasca Shamans and Practice
+## Shipibo Ayahuasca Shamans and Practice
 
 ## Overview
 

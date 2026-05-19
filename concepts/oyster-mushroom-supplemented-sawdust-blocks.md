@@ -9,7 +9,7 @@ type: concept
 tags: [growing growing-gourmet-thermogenesis-mushroom-cultivation mushroom cultivation, oyster oyster-mushroom-pasteurized-straw-cultivation straw cultivation]
 ---
 
-# Oyster Mushroom Supplemented Sawdust Blocks
+## Oyster Mushroom Supplemented Sawdust Blocks
 
 Supplemented sawdust block cultivation is the standard method for commercial indoor oyster mushroom production. By adding nitrogen-rich supplements to hardwood sawdust, growers achieve higher yields, more consistent production, and better quality fruitbodies than with straw alone. However, this method requires [[mushroom-nutritional-composition]] of key [[arbuscule-isolation-metabolic-activity-assays]]
 - **Effect on yield**: While some studies show modest yield increases, the primary benefit is faster and more complete colonization

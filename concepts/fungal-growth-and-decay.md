@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Fungal Growth and Decay
+## Fungal Growth and Decay
 
 Fungi are among the most remarkable and ecologically vital organisms in soil ecosystems. From surviving in frozen Antarctic landscapes to serving as the primary agents of organic decomposition, their capabilities far exceed those of bacteria. This page explores fungal growth mechanisms, feeding strategies, nutrient cycling roles, and predatory adaptations as described in *[[teaming-with-microbes-actinomycetes]]* by Lowenfels.
 

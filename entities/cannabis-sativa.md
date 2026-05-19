@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Cannabis sativa L.
+## Cannabis sativa L.
 
 ## Common Names
 

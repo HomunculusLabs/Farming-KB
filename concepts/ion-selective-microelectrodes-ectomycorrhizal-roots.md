@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Ion-Selective Microelectrodes for Ectomycorrhizal Root Studies
+## Ion-Selective Microelectrodes for Ectomycorrhizal Root Studies
 
 Ion-selective microelectrodes (ISMEs) are non-invasive tools used to measure net ion fluxes at the surface of mycorrhizal-nutrient-uptake and exudation patterns at micrometer resolution. The technique is particularly valuable for studying the functional differences between non-mycorrhizal roots and ectomycorrhizal short roots.
 

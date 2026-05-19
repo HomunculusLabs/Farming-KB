@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Low Island and Coral Cay Strategies
+## Low Island and Coral Cay Strategies
 
 Low islands, coral sand cays, and atolls present some of the most challenging environments for human settlement and food production. Lying mostly within 28 degrees of the equator, these fragile landforms face hurricanes, limited freshwater, poor soils, and nutritional constraints. Careful [[casuarina-equisetifolia]]*, sea grape (*Coccolobus unifera*), coastal shrubs (*Scaevola*, *Tournefortia*, *Pemphis*), mangroves, and *Barringtonia* trees.
 

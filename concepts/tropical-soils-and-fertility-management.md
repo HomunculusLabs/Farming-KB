@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Soils and Fertility Management
+## Tropical Soils and Fertility Management
 
 > From *Permaculture: A Designers' Manual*, Chapter 10 — Bill Mollison
 

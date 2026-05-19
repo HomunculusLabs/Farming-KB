@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka on Natural Livestock Farming
+## Fukuoka on Natural Livestock Farming
 
 **Updated:** 2026-04-18
 

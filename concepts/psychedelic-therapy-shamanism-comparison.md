@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Psychedelic Therapy and Shamanism Comparison
+## Psychedelic Therapy and Shamanism Comparison
 
 Western psychedelic-assisted psychotherapy and indigenous [[psychedelic-therapy-mechanisms]]
 

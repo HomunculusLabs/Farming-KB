@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Hypsizygus (Elm Oyster and Shimeji) Cultivation
+## Hypsizygus (Elm Oyster and Shimeji) Cultivation
 
 ## Overview
 

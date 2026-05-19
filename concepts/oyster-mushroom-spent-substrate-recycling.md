@@ -4,7 +4,7 @@ source: unknown-oyster-mushroom-cultivation.md
 topics: [oyster-mushroom, spent-substrate, recycling, compost, animal-feed, soil-amendment, bioconversion]
 ---
 
-# Oyster Mushroom Spent Substrate Recycling and Utilization
+## Oyster Mushroom Spent Substrate Recycling and Utilization
 
 ## From the Mushroom Growers' Handbook 1
 

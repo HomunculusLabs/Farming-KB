@@ -1,4 +1,8 @@
-# Psychedelic Tolerance and 5-HT2A Receptor Tachyphylaxis
+---
+title: "Psychedelic Tolerance and 5-HT2A Receptor Tachyphylaxis"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Successful integration of psychedelic tolerance 5ht2a receptor tachyphylaxis int
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

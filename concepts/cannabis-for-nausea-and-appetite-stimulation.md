@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Nausea and Appetite Stimulation
+## Cannabis for Nausea and Appetite Stimulation
 
 Cannabis has been recognized as an effective remedy to stimulate appetite and reduce nausea in almost every culture and medical tradition throughout history. Modern science has confirmed that the [[cannabis-for-cancer-patients]]
 - [[cinderella-99]]

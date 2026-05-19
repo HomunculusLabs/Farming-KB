@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# The Discovery and Impact of LSD
+## The Discovery and Impact of LSD
 
 ## Albert Hofmann's Accidental Discovery
 

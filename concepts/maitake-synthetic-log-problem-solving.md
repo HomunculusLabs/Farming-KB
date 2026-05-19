@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Synthetic Log Problem Solving
+## Maitake Synthetic Log Problem Solving
 
 Maitake (*Grifola frondosa*) is a highly prized edible and medicinal mushroom whose
 cultivation on synthetic logs presents unique challenges. Its temperate-climate

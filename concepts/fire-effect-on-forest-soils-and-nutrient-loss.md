@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fire Effect on Forest Soils and Nutrient Loss
+## Fire Effect on Forest Soils and Nutrient Loss
 
 ## Overview
 

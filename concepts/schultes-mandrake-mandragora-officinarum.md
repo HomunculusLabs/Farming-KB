@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ethnobotany, mandrake, mandragora, europe, witchcraft, solanaceae, tropane, medieval]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
-# Mandrake (Mandragora officinarum)
+## Mandrake (Mandragora officinarum)
 
 Probably no plant has had a more fantastic history than the Mandrake.
 As a magical plant and hallucinogen, its extraordinary place in

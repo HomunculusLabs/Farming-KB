@@ -5,10 +5,10 @@ type: species
 tags: [pleurotaceae, edible-mushroom, endangered, medicinal, beta-glucan]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Pleurotus nebrodensis
+## Pleurotus nebrodensis
 
 *Pleurotus nebrodensis*, commonly known as the Nebrodini mushroom or Sicilian oyster mushroom, is a rare and critically endangered species of edible mushroom in the family Pleurotaceae. Endemic to the Madonie Mountains of northern Sicily, Italy, it is one of the most prized wild mushrooms in European gastronomy and has attracted scientific interest for its [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], and potential medicinal properties, including anticancer and immunomodulatory activities.
 

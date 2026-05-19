@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Rhodiola vs Lemon Balm
+## Rhodiola vs Lemon Balm
 
 ## Overview
 

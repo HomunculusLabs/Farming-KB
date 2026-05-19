@@ -6,7 +6,7 @@ tags: [mycology, saprophyte, mushroom-cultivation, decomposition, ecology]
 created: 2026-05-09
 ---
 
-# Saprophytic Mushrooms
+## Saprophytic Mushrooms
 
 Saprophytic mushrooms are fungi that obtain their nutrients by decomposing
 dead organic matter. They are the primary recyclers in terrestrial ecosystems,

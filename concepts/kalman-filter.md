@@ -7,7 +7,7 @@ sources:
 tags: []
 type: concept
 ---
-# [[bayesian-inference]] performed sequentially.
+## [[bayesian-inference]] performed sequentially.
 Each prediction is a prior distribution over the next state.
 Each correction is a posterior distribution after observing new data.
 ## Prediction step

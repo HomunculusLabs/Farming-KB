@@ -15,7 +15,7 @@ tags:
   - tourism
 ---
 
-# Shipibo Ayahuasca Towns Ucayali and Pucallpa
+## Shipibo Ayahuasca Towns Ucayali and Pucallpa
 
 The [[shipibo-san-francisco-ceremonial-center-ucayali]],
 providing an early ground-level account of the

@@ -1,4 +1,8 @@
-# Fungal Community Profiling on Rock and Mineral Surfaces
+---
+title: "Fungal Community Profiling on Rock and Mineral Surfaces"
+tags:
+  - concept
+---
 
 ## Overview
 Rock and mineral surfaces support complex and diverse fungal [[fungal-mineral-transformations-biogeochemical-cycles]] cycling, rock weathering, and soil formation. Modern

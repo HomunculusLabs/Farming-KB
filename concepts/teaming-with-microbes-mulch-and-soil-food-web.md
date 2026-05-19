@@ -7,7 +7,7 @@ tags: [mulch, soil-food-web, decomposition, organic-matter]
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
-# Mulch and the Soil Food Web
+## Mulch and the Soil Food Web
 
 Mulch is anything placed on top of soil to reduce evaporation, prevent weed growth, and insulate plants. For [[mollison-mulch-materials-sources-and-tropical-application]] and application methods.
 

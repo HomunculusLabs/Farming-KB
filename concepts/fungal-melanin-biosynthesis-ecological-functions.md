@@ -6,7 +6,7 @@ related: ["spalting-pigments-wood-inhabiting-fungi-chemistry", "xerophilic-xerot
 created: 2026-05-09
 ---
 
-# Fungal Melanin Biosynthesis and Ecological Functions
+## Fungal Melanin Biosynthesis and Ecological Functions
 
 ## Introduction
 

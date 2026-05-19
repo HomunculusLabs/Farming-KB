@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Ericoid Mycorrhiza in Heathland Ecosystems
+## Ericoid Mycorrhiza in Heathland Ecosystems
 
 Ericoid mycorrhizae are specialized endomycorrhizal associations formed
 between members of the Ericaceae (heather family) and a limited group of

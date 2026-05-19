@@ -14,7 +14,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Capillary Action in Soils
+## Capillary Action in Soils
 
 ## Overview
 

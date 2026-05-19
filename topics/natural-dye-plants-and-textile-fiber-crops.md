@@ -6,10 +6,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - /Users/t3rpz/wiki/concepts/permaculture-designers-manual-natural-dyes.md
-  - /Users/t3rpz/wiki/concepts/mollison-designers-wool-processing-natural-dyeing.md
-  - /Users/t3rpz/wiki/concepts/permaculture-designers-manual-tanbark-and-tannins.md
-  - /Users/t3rpz/wiki/concepts/fiber-plants-permaculture.md
+  - raw/concepts/permaculture-designers-manual-natural-dyes.md
+  - raw/concepts/mollison-designers-wool-processing-natural-dyeing.md
+  - raw/concepts/permaculture-designers-manual-tanbark-and-tannins.md
+  - raw/concepts/fiber-plants-permaculture.md
 related_concepts:
   - fiber-plants-permaculture
   - permaculture-designers-manual-natural-dyes
@@ -17,7 +17,7 @@ related_concepts:
   - permaculture-designers-manual-tanbark-and-tannins
 ---
 
-# Natural Dye Plants and Textile Fiber Crops
+## Natural Dye Plants and Textile Fiber Crops
 
 The intersection of plant cultivation and textile production represents
 one of humanity's oldest and most intimate relationships with the

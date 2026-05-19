@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hand Pump and Water Lifting Devices
+## Hand Pump and Water Lifting Devices
 
 [[permaculture]]: A Designers' Manual. He presents these technologies as
 essential for integrate-rather-than-segregate sucked from above. This distinction is critical for well and

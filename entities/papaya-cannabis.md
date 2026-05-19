@@ -18,7 +18,7 @@ sources:
   - https://www.wikileaf.com/strain/papaya/
 ---
 
-# Papaya (Cannabis Strain)
+## Papaya (Cannabis Strain)
 
 **Papaya** is an indica-dominant cannabis strain renowned for its distinctly tropical, fruity aroma that closely resembles the ripe fruit for which it is named. Created by crossing **Citral #13** with **Ice #2**, this strain has earned a loyal following among both recreational and medicinal users for its potent relaxing effects and exceptional flavor profile. It delivers deep physical relaxation without overwhelming sedation at moderate doses, making it a versatile evening strain.
 

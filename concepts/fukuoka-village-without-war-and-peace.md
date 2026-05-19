@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Village Without War and Peace
+## Village Without War and Peace
 
 The penultimate chapter of [[fukuoka-spiritual-philosophy-farming]] -- spiritual dimension of farming
 - [[fukuoka-natural-diet-food-philosophy]]

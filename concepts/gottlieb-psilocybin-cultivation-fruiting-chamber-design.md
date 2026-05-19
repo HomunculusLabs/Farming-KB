@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, design, fruit-tree, fruiting-chamber, psilocybin]
 ---
 
-# Gottlieb Psilocybin Cultivation Fruiting Chamber Design
+## Gottlieb Psilocybin Cultivation Fruiting Chamber Design
 
 Gottlieb's "The Psilocybin Producer's Guide" (1976) does not describe a
 traditional fruiting chamber design in the modern sense (e.g., shotguns,

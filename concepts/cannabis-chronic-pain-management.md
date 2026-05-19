@@ -8,7 +8,7 @@ sources:
   - "raw/papers/greg-green-the-cannabis-grow-bible.md"
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Chronic Pain Management
+## Cannabis for Chronic Pain Management
 
 Cannabis has been used as an analgesic for over 5,000 years across ancient cultures from Sumeria to China, Babylon, the Indus Valley, and Judean, Greek, Roman, and Islamic civilizations. Modern scientific data confirms cannabis is safe and effective when used properly to treat both neuropathic pain and, in some cases, nociceptive pain. No deaths due to direct toxicity have ever been documented in the medical literature across four millennia of analgesic usage -- a safety record unmatched by any conventional analgesic class.
 

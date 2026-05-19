@@ -7,7 +7,7 @@ tags: [regenerative, permaculture, cultivation, ecology, water-management, lives
 sources: [raw/papers/sepp-holzer-practical-guide.md]
 ---
 
-# Sepp Holzer's Permaculture Methods
+## Sepp Holzer's Permaculture Methods
 
 Sepp Holzer farms the Krameterhof at 1,000-1,500m altitude in Lungau, Salzburg, Austria — a climate most consider unsuitable for diverse agriculture. Over 40+ years he developed methods producing abundant food without chemicals, irrigation, or imported fertility. His approach predates the term "permaculture" but embodies its principles completely.
 

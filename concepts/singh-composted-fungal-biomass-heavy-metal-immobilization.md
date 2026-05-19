@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Composted Fungal Biomass for Heavy Metal Immobilization
+## Composted Fungal Biomass for Heavy Metal Immobilization
 
 Composting of organic waste amended with fungal biomass creates a valuable soil
 amendment capable of immobilizing heavy metals in contaminated soils. The

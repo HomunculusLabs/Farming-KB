@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizal Fungi — Biology, Host Relationships, and Phylogeny
+## Arbuscular Mycorrhizal Fungi — Biology, Host Relationships, and Phylogeny
 
 ## Overview
 

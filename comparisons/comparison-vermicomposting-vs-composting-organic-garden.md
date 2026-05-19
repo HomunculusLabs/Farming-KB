@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Vermicomposting vs Composting in the Organic Garden
+## Vermicomposting vs Composting in the Organic Garden
 
 ## Overview
 Vermicomposting uses earthworms, typically Eisenia fetida (red wigglers), to decompose organic

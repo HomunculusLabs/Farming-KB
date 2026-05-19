@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-# Fungal Interactions with Metals
+## Fungal Interactions with Metals
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [soil-microbiology, nitrogen-fixation, soil-biology, biofertilizer]
 sources: []
 ---
-# Azotobacter — Free-Living Nitrogen-Fixing Bacteria
+## Azotobacter — Free-Living Nitrogen-Fixing Bacteria
 
 Azotobacter is a genus of free-living, aerobic, nitrogen-fixing bacteria belonging to the family Azotobacteraceae within the Gammaproteobacteria class. First described by Martinus Beijerinck in 1901, these organisms are 
 among the most studied free-living diazotrophs and play a significant role in soil [[azotobacter-chroococcum]]* is the most commonly isolated species and is widely 

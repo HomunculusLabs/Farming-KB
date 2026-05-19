@@ -5,10 +5,10 @@ type: species
 tags: [lactic-acid-bacteria, fermentation, probiotics, indigenous-microorganisms, heterofermentative]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
+sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
 
-# Lactobacillus brevis
+## Lactobacillus brevis
 
 *Lactobacillus brevis* is a facultatively heterofermentative lactic acid bacterium commonly isolated from fermented foods, silage, sourdough, and the human gastrointestinal tract. As an obligate heterofermentative organism (formerly classified in this group), it produces lactic acid, acetic acid, ethanol, and carbon dioxide from hexose sugars, and additionally produces lactic acid and acetic acid from pentose sugars via the phosphoketolase pathway.
 

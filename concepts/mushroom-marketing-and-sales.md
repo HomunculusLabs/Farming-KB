@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom Marketing and Sales
+## Mushroom Marketing and Sales
 
 Growing consistently high-quality mushrooms is one skill; finding buyers and marketing them effectively is another. Success in the [[cotter-mushroom-business-marketing]] requires understanding consumer demand, educating your market, and employing practical sales strategies. A popular saying in the agricultural market captures this principle: "Don't sell what you can grow — grow what you can sell."
 

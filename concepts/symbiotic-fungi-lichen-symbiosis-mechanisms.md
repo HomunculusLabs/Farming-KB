@@ -7,7 +7,7 @@ tags: [lichen, symbiosis, fungi, algae, cyanobacteria, nitrogen-fixation]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Lichen Symbiosis Mechanisms
+## Lichen Symbiosis Mechanisms
 
 Source: [[mycorrhiza]].
 

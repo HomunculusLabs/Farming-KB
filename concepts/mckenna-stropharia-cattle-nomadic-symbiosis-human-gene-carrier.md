@@ -1,4 +1,8 @@
-# Stropharia cubensis Cattle Symbiosis and Human Nomadic Association
+---
+title: "Stropharia cubensis Cattle Symbiosis and Human Nomadic Association"
+tags:
+  - concept
+---
 
 ## Overview
 In his 1983 Esalen lecture on [[terence-mckenna]] elaborated the hypothesis that [[gadd-mycelial-network-dynamics]] strategy when in contact with planetary surfaces,

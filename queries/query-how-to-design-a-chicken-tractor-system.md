@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# How to Design a Chicken Tractor System
+## How to Design a Chicken Tractor System
 A chicken tractor is a mobile, floorless enclosure that lets chickens
 forage on fresh ground while remaining protected from predators.
 It is one of the most practical tools available in [[holmgren-permaculture-twelve-design-principles-framework]] and management

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycete, oyster-mushroom, nematophagous, toxin, pleurotus]
 ---
 
-# Pleurotus strigosus
+## Pleurotus strigosus
 
 ## Description
 

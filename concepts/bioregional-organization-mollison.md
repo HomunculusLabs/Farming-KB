@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Bioregional Organization and Alternative Nation
+## Bioregional Organization and Alternative Nation
 
 **Updated:** 2026-04-18
 

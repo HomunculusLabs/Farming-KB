@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-O-4 — 2,5-Dimethoxy-4-(i)-propoxyphenethylamine
+## 2C-O-4 — 2,5-Dimethoxy-4-(i)-propoxyphenethylamine
 
 [[phenethylamine-chemistry-basics]]: The [[2c-t-4-entity]] — the isopropylthio analogue, far more active
 - [[2c-family-chemistry-and-sar-pihkal]] principles

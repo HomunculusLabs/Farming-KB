@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Nutrient Mobility, Cation Exchange, and Soil Chemistry
+## Nutrient Mobility, Cation Exchange, and Soil Chemistry
 
 ## Overview
 

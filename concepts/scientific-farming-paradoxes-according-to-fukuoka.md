@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Scientific Farming Paradoxes According to Fukuoka
+## Scientific Farming Paradoxes According to Fukuoka
 
 Masanobu Fukuoka, the Japanese farmer and philosopher who developed natural
 farming, identified a series of paradoxes at the heart of modern

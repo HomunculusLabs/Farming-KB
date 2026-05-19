@@ -5,7 +5,7 @@ source_id: "ingham-aact-field-guide"
 topics: [aact, compost-tea, seaweed, kelp, trace-minerals, brewing-ingredients, soil-food-web]
 ---
 
-# Kelp, Seaweed, and Sea Minerals in AACT Brewing
+## Kelp, Seaweed, and Sea Minerals in AACT Brewing
 
 ## Overview
 

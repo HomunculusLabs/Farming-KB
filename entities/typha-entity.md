@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Typha (Cattail / Bulrush)
+## Typha (Cattail / Bulrush)
 
 ## Description
 

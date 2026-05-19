@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# Escaline
+## Escaline
 
 Escaline (3,5-Dimethoxy-4-ethoxyphenethylamine) is a psychedelic phenethylamine closely related to mescaline-entity|mescaline.
 

@@ -17,7 +17,7 @@ synonyms:
 type: concept
 ---
 
-# Cannabis Seed Purchasing, Ordering, and Storage
+## Cannabis Seed Purchasing, Ordering, and Storage
 
 [[query-how-to-store-cannabis-seeds-for-long-term-viability]]
 safely and storing them properly to maintain viability. In many

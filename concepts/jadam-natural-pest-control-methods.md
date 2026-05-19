@@ -9,7 +9,7 @@ type: concept
 tags: [jadam]
 ---
 
-# JADAM Natural Pest Control Methods
+## JADAM Natural Pest Control Methods
 
 JADAM [[hamilton-pest-and-disease-control-organic]] that replaces both chemical and
 commercial organic pesticides at approximately 1/50th the cost. The

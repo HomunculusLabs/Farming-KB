@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Preparation of Hashish from Cannabis Oil
+## Preparation of Hashish from Cannabis Oil
 
 Chapter 4 of *[[ben-lemon]] describes how to prepare
 [[mushroom-polysaccharide-extraction-chemistry]] of the earlier

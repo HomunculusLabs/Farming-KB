@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# P
+## P
 
 P ([[proscaline]]; 3,5-dimethoxy-4-(n)-propoxyphenethylamine) is a psychedelic phenethylamine described in [[escaline-entity]] - the ethoxy analogue with shorter [[me-entity]] - the meta-ethoxy isomer (3,4-dimethoxy-5-ethoxy)
 

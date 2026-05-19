@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Potato Growing Guide - Irish and Sweet
+## Potato Growing Guide - Irish and Sweet
 
 Updated: 2026-04-18
 

@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, casing, primordia, fruiting, pinning]
 created: 2026-05-11
 ---
 
-# Mushroom Casing Soil and Primordia Initiation
+## Mushroom Casing Soil and Primordia Initiation
 
 ## Overview
 

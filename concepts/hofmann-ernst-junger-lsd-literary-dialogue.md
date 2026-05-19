@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 type: concept
 ---
 
-# Hofmann and Ernst Junger: LSD, Literature, and Philosophical Dialogue
+## Hofmann and Ernst Junger: LSD, Literature, and Philosophical Dialogue
 
 ## Hofmann's Radiance from Junger
 

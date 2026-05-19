@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Space-Time Niches and Schedules
+## Space-Time Niches and Schedules
 
 Space-time niches are a third category of [[permaculture-design]], because
 scheduling is often the most effective strategy for fitting additional species

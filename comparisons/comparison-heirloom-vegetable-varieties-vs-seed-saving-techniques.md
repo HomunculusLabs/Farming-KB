@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Heirloom Vegetable Varieties vs Seed Saving Techniques
+## Heirloom Vegetable Varieties vs Seed Saving Techniques
 
 ## Overview
 

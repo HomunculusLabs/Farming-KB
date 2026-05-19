@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Lime, Calcium, Magnesium and Soil pH Management
+## Lime, Calcium, Magnesium and Soil pH Management
 
 Understanding lime and its role in garden soil is essential for anyone
 using Solomon's [[cervantes-dolomite-lime-ph-buffering]] (if soil needs magnesium)

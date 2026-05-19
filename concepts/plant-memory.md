@@ -6,7 +6,7 @@ tags: [botany, plant-physiology, plant-memory, epigenetics, priming, stress-resp
 created: 2026-05-09
 ---
 
-# Plant Memory
+## Plant Memory
 
 The concept of plant memory challenges a deeply held assumption that memory
 requires a nervous system. Plants, lacking brains and neurons, nevertheless

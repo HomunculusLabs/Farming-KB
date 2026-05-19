@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Vegetable Sowing and Thinning Techniques
+## Vegetable Sowing and Thinning Techniques
 
 Proper sowing and thinning technique is one of the most underappreciated skills in vegetable gardening. Most garden instruction books provide spacing recommendations but skip the practical details of how to actually achieve that spacing from seed. The method of progressive thinning described here is essential for getting the most vigorous, productive plants from every sowing.
 

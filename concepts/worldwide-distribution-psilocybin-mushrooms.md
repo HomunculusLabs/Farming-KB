@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Worldwide Distribution of Psilocybin Mushrooms
+## Worldwide Distribution of Psilocybin Mushrooms
 
 ## Global Overview
 

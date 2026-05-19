@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Yulara Fuel Forest
+## Yulara Fuel Forest
 
 ## Description
 

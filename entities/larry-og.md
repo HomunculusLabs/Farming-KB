@@ -18,7 +18,7 @@ sources:
   - "Smart, R. et al. (2017). \"green-cannabis-potency-maximizing.\" Addiction, 112(5), 778-786."
 ---
 
-# Larry OG
+## Larry OG
 
 ## Overview
 

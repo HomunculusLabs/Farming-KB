@@ -8,7 +8,7 @@ sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
 
-# Mushroom Garden Design
+## Mushroom Garden Design
 
 Outdoor mushroom gardens integrate fungal cultivation into landscapes,
 creating productive food systems that build soil, manage water, and

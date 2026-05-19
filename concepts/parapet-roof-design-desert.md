@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Parapet Roof Design and Desert Homestead Systems
+## Parapet Roof Design and Desert Homestead Systems
 
 In arid and desert regions where rainfall is slight, **flat parapet concreted roof areas** offer far more utility than pitched roofs. These multi-functional roof platforms serve as extensions of the living space and integrate critical household systems for water, food, energy, and waste management.
 

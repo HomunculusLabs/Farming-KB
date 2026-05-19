@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MADAM-6
+## MADAM-6
 
 [[tryptamine]] research varies by jurisdiction.
 

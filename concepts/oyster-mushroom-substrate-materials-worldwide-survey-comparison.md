@@ -4,7 +4,7 @@ source: cotter-oyster-mushroom-cultivation (MushWorld, 2004)
 tags: [mycology, oyster-mushroom, mushroom-cultivation, substrates, lignocellulose, agricultural-waste]
 ---
 
-# Worldwide Survey of Substrate Materials for Oyster Mushroom Cultivation
+## Worldwide Survey of Substrate Materials for Oyster Mushroom Cultivation
 
 ## Nutritional Requirements for Oyster Mushroom Growth
 

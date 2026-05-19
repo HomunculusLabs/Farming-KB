@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Trichocereus pachanoi — San Pedro Chemistry and Ethnobotany
+## Trichocereus pachanoi — San Pedro Chemistry and Ethnobotany
 
 ## Botanical Description
 

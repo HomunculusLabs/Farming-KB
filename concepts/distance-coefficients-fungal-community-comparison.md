@@ -4,7 +4,7 @@ source: "unknown-biodiversity-of-fungi.md, Chunks 20-21"
 type: "concept"
 ---
 
-# Distance and Dissimilarity Coefficients for Fungal Community Comparison
+## Distance and Dissimilarity Coefficients for Fungal Community Comparison
 
 Distance (dissimilarity) coefficients quantify how different two fungal communities are
 based on species composition and abundance. The choice of coefficient directly

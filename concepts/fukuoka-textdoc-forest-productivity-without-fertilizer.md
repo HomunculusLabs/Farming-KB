@@ -1,5 +1,10 @@
+---
+title: "Fukuoka Textdoc Forest Productivity Without Fertilizer"
+tags:
+  - concept
+---
 
-# Forest Productivity Without Fertilizer
+## Forest Productivity Without Fertilizer
 
 ## The Central Question
 

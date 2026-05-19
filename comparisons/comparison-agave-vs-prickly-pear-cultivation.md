@@ -10,7 +10,7 @@ sources:
   - "https://www.fao.org/desertification/"
 ---
 
-# Agave vs Prickly Pear (Nopales) Cultivation
+## Agave vs Prickly Pear (Nopales) Cultivation
 
 Agave (*Agave* spp.) and prickly pear (*Opuntia* spp.) are two of the most important keystone species in [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] species — or combination — for their arid-land project.
 

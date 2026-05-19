@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms]
 sources: []
 ---
-# Fungi on Cultivated Mushrooms -- Pathogens and Competitors
+## Fungi on Cultivated Mushrooms -- Pathogens and Competitors
 Cultivated mushrooms face a range of fungal diseases and competitors that can
 cause significant economic losses. Understanding these interactions is
 essential for mushroom farming [[pythium-oligandrum]]:** Causes black patches on caps

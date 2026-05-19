@@ -8,7 +8,7 @@ type: concept
 tags: [zwitterion, phosphorylation, psilocybin, organic-chemistry, nmr, benzyl-migration]
 ---
 
-# Zwitterionic Intermediates in Tryptamine Phosphorylation
+## Zwitterionic Intermediates in Tryptamine Phosphorylation
 
 ## Overview
 

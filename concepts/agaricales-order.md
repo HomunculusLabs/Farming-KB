@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [mycology, taxonomy, agaricales, agaricomycetes, basidiomycota]
 ---
 
-# Order Agaricales
+## Order Agaricales
 
 ## Overview
 

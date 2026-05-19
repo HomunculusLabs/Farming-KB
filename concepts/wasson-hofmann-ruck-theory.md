@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Wasson-Hofmann-Ruck Theory
+## Wasson-Hofmann-Ruck Theory
 
 The Wasson-Hofmann-Ruck theory is the central hypothesis proposed in the 1978 book "The Road to Eleusis: Unveiling the Secret of the Mysteries" by R. Gordon Wasson, Albert Hofmann, and Carl A.P. Ruck. It argues that the psychedelic experience induced by the kykeon at the [[bloomfield-ergot-claviceps-purpurea-ergotism]]*, with the sclerotia carefully separated from wholesome grain, detoxified through water extraction (which selectively dissolves the water-soluble hallucinogenic alkaloids while leaving the toxic ergopeptines behind), and incorporated into the barley-mint-water mixture. The mint (*Mentha pulegium*, pennyroyal) may have served as an emetic and antispasmodic, counteracting gastrointestinal side effects.
 

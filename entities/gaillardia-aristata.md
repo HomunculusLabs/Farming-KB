@@ -17,7 +17,7 @@ sources:
   - Moerman D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
 ---
 
-# Gaillardia aristata
+## Gaillardia aristata
 
 ## Overview
 

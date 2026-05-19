@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Korean Natural Farming vs Chemical Farming Comparison
+## Korean Natural Farming vs Chemical Farming Comparison
 
 **Updated:** 2026-04-18
 

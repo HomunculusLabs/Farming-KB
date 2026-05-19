@@ -4,7 +4,7 @@ source: The Road Back to Nature (Fukuoka, 1987)
 tags: [natural-farming, industrial-agriculture, machine-culture, desertification, soil-degradation, ecological-collapse]
 ---
 
-# The Machine Culture Is Doomed
+## The Machine Culture Is Doomed
 
 ## Fukuoka's Diagnosis of Industrial Civilization
 

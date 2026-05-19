@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Classification of Fleshy Fungi by Spore-Bearing Surface
+## Classification of Fleshy Fungi by Spore-Bearing Surface
 
 [[julius-auboineau-palmer]] organized all fleshy fungi into **four grand divisions** based on the nature of their spore-bearing surface. This classification provides a practical framework for identification, ranging from the safest groups for beginners to those requiring the greatest expertise.
 

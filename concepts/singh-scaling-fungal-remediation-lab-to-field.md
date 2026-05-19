@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Scaling Fungal Remediation from Laboratory to Field
+## Scaling Fungal Remediation from Laboratory to Field
 
 The translation of laboratory-proven [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]] to
 field-scale application remains one of the most significant challenges in

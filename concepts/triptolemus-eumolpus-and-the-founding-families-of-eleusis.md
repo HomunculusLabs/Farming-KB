@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Triptolemus, Eumolpus, and the Founding Families of Eleusis
+## Triptolemus, Eumolpus, and the Founding Families of Eleusis
 
 The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] as those to whom the goddess first revealed her mysteries.
 

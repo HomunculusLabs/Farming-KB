@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Truffle Dog Training
+## Truffle Dog Training
 
 Truffle dogs are specially trained to locate underground truffles by scent, replacing the pigs historically used for this purpose. Dogs have become the standard tool for truffle harvesting worldwide because they are easier to manage in the field, do not eat the truffles they find, and can cover ground more efficiently than pigs.
 

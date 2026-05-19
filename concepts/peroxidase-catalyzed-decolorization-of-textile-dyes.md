@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Peroxidase-Catalyzed Decolorization of Textile Dyes
+## Peroxidase-Catalyzed Decolorization of Textile Dyes
 
 The extracellular lignin-degrading enzymes of white-rot fungi -- primarily lignin peroxidase (LiP) and [[staycare-phanerochaete-chrysosporium-in-bioremediation]] have demonstrated broad-spectrum dye decolorization. Key performance data:
 

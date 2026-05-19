@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# F. H. King
+## F. H. King
 
 ## Description
 

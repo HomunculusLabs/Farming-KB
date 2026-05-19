@@ -5,7 +5,7 @@ tags: [wood-decay, brown-rot, white-rot, soft-rot, lignin, cellulose, merulipori
 related: [gadd-mineral-transformations-biogeochemical-cycles-fungi, gadd-metal-fungal-interactions, aact-forest-litter-fungi-mycorrhizal-ingham]
 ---
 
-# Fungal Wood Decay Mechanisms
+## Fungal Wood Decay Mechanisms
 
 Fungal wood decay represents one of the most significant biological
 [[building-with-natural-materials]] on Earth

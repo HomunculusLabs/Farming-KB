@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
-# Juncao Grass Substrate Technique
+## Juncao Grass Substrate Technique
 
 **Juncao** (菌草) is a revolutionary approach to mushroom [[staycare-lentinula-edodes-in-bioremediation]]*) and wood ear (*Auricularia* spp.) — were primarily cultivated on sawdust or logs. The rapid expansion of mushroom production resulted in severe shortages of raw [[mushroom-industry-african-countries]]
 - **Economic accessibility** — many Juncao species are wild grasses or fast-growing crops requiring minimal inputs

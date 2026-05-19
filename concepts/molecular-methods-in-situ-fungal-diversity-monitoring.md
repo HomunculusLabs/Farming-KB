@@ -22,7 +22,7 @@ sources:
 type: concept
 ---
 
-# Molecular Methods for In-Situ Fungal Diversity Monitoring
+## Molecular Methods for In-Situ Fungal Diversity Monitoring
 
 Molecular biological techniques have revolutionized the ability to
 assess fungal diversity directly from environmental samples, bypassing

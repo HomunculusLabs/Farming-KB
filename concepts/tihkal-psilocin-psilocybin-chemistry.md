@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Psilocin and Psilocybin Chemistry
+## Psilocin and Psilocybin Chemistry
 
 ## Chemical Identity
 

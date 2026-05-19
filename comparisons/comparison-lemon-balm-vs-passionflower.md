@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Lemon Balm vs Passionflower
+## Lemon Balm vs Passionflower
 
 ## Overview
 

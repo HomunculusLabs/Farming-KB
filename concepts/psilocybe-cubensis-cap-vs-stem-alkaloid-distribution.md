@@ -8,7 +8,7 @@ sources:
   - variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 
-# Psilocybe Cubensis Alkaloid Distribution: Caps vs Stems
+## Psilocybe Cubensis Alkaloid Distribution: Caps vs Stems
 
 The distribution of psychoactive alkaloids between the cap (pileus)
 and stem (stipe) of *[[psilocybin-vs-psilocin-distribution-cap-stem]]

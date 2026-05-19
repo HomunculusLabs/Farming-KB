@@ -5,7 +5,7 @@ tags: [mycology, pathogen, histoplasmosis, dimorphic-fungus, respiratory-infecti
 created: 2026-05-09
 ---
 
-# Histoplasma capsulatum and Ohio Valley Disease
+## Histoplasma capsulatum and Ohio Valley Disease
 
 Histoplasma capsulatum is a dimorphic [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and parts of South America.
 - Parts of Africa and Asia where the fungus is also present in soil.

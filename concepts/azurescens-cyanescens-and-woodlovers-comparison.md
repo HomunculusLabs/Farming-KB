@@ -8,7 +8,7 @@ sources:
   - "raw/papers/growing-psilocybe-azurescens.md"
   - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
-# Azurescens, Cyanescens, and Woodlovers Comparison
+## Azurescens, Cyanescens, and Woodlovers Comparison
 
 The [[permaculture-designers-manual-temperate-climate-design]] species that grow on decaying hardwood debris in half-shaded environments.
 

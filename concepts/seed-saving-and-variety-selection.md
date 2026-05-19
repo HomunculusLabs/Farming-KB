@@ -6,7 +6,7 @@ tags: [gardening, seeds, seed-saving, variety-selection, plant-breeding]
 created: 2026-05-08
 ---
 
-# Seed Saving and Variety Selection
+## Seed Saving and Variety Selection
 
 ## Overview
 

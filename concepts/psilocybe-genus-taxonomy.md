@@ -5,7 +5,7 @@ tags: [mycology, taxonomy, psilocybe, neurotropic-fungi, classification]
 created: 2026-05-09
 ---
 
-# Psilocybe Genus Taxonomy and Diversity
+## Psilocybe Genus Taxonomy and Diversity
 
 ## Overview
 

@@ -24,7 +24,7 @@ related_concepts:
   - ["permaculture-design-principles", "forest-gardening-and-food-forests", "agroforestry-and-alley-cropping", "regenerative-agriculture-overview"]
 ---
 
-# [[fukuoka-spiritual-philosophical-foundation]]: Syntropy vs. Entropy
+## [[fukuoka-spiritual-philosophical-foundation]]: Syntropy vs. Entropy
 
 To understand syntropic agriculture, one must first grasp its underlying holmgren-ethical-philosophical-framework. In thermodynamic terms, entropy describes the universal tendency toward disorder and energy dissipation. Living systems, however, appear to defy this trend — they capture energy, build complex structures, and increase biological organization over time. This counter-tendency is what some thinkers have called syntropy.
 

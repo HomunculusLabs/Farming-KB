@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# King Stropharia Cultivation (Stropharia)
+## King Stropharia Cultivation (Stropharia)
 
 [[king-stropharia]] (*Stropharia rugoso-annulata*), also known as the [[wine-cap]] or garden giant, is one of the most rewarding mushrooms for home cultivators. Along with oyster and shiitake, it ranks among the top three [[query-what-are-the-best-mushrooms-for-beginners-to-grow]]. People around the world enjoy cultivating, collecting, and eating these mushrooms since they are not only easy to grow but also easy to identify. King stropharia is an aggressive saprophyte that thrives on wood chips [[fungi-in-composting-and-agricultural-waste-conversion]], making it an excellent choice for garden integration and permaculture systems.
 

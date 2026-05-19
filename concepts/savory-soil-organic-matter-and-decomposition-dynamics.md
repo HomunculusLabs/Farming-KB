@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Soil Organic Matter and Decomposition Dynamics
+## Soil Organic Matter and Decomposition Dynamics
 
 Soil organic matter is the foundation of the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Understanding organic matter
 dynamics is essential to [[savory-living-organisms-as-tools]] from bacteria to earthworms, and dead roots and root

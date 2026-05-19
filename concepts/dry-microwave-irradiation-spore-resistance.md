@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Dry Microwave Irradiation and Bacterial Spore Resistance
+## Dry Microwave Irradiation and Bacterial Spore Resistance
 
 NASA's [[bacillus-pumilus-radiation-resistance-surface-decontamination]] (a spore-forming bacterium), Escherichia coli (a gram-negative
 vegetative bacterium), and [[bacillus-pumilus-space-relevant-challenge-organism-sterilization-validation]]. For practical applications, this means that any

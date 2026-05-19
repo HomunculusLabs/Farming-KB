@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Sheet Mulching vs Double Digging
+## Sheet Mulching vs Double Digging
 
 ## Overview
 Sheet mulching and double digging are two fundamentally opposed

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dune Country and Stabilisation
+## Dune Country and Stabilisation
 
 Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also represent enormous freshwater reservoirs and productive potential when properly understood and managed. Dune stabilisation is a critical component of desert [[acacia]] seedlings**: Planted preferably with a mixed fertiliser.
 3. **Quickset trees**: Tamarisk may succeed if deeply set in or near the dune base.

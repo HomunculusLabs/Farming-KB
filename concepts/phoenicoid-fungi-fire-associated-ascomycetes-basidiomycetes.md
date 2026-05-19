@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Phoenicoid Fungi — Fire-Associated Ascomycetes and Basidiomycetes
+## Phoenicoid Fungi — Fire-Associated Ascomycetes and Basidiomycetes
 
 Phoenicoid fungi (also called pyrophilous, anthracophilous, or
 carbonicolous fungi) are a specialized group of primarily ascomycetes and

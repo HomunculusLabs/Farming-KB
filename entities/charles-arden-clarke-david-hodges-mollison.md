@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Charles Arden-Clarke and David Hodges
+## Charles Arden-Clarke and David Hodges
 
 ## Description
 

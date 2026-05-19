@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi in Population and Community Regulation
+## Fungi in Population and Community Regulation
 
 Population and community regulation by fungi occurs through both promotion and reduction of growth, fitness, and reproductive potential of organisms. When the effect of a fungus is asymmetric across species — benefiting some more than others, or harming some while sparing others — the competitive balance within the community shifts over successive generations, leading to changes in species dominance and community composition.
 

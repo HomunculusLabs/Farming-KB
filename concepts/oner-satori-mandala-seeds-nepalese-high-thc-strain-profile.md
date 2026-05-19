@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, satori, mandala-seeds, nepalese, high-thc, hash-making, medical-cannabis]
 ---
 
-# Satori Strain Profile (Mandala Seeds)
+## Satori Strain Profile (Mandala Seeds)
 
 ## Overview
 

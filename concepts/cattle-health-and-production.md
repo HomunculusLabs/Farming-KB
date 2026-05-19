@@ -20,7 +20,7 @@ sources:
 - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 ---
 
-# Cattle Health and Production
+## Cattle Health and Production
 
 Detailed health management, vaccination schedules, growth and finishing data, dairy management, manure management, and draft power for cattle. See [[cattle-husbandry]] for breed selection, housing, feeding, and breeding.
 

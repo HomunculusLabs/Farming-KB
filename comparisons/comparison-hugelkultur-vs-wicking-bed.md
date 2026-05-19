@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: []
 type: comparison
 ---
-# Hugelkultur vs Wicking Beds
+## Hugelkultur vs Wicking Beds
 
 [[capillary-action-in-soils]] to deliver water from
 below. Choosing between them depends on your materials, timeline, space,

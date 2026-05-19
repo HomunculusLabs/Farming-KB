@@ -13,7 +13,7 @@ sources:
   - raw/papers/plants-of-the-gods-schultes-hofmann.md
 ---
 
-# Duboisia hopwoodii — Pituri Ethnobotany
+## Duboisia hopwoodii — Pituri Ethnobotany
 
 Duboisia hopwoodii is a shrub in the nightshade family (Solanaceae) native to the arid interior of Australia. It is the botanical source of Pituri, a psychoactive preparation used by Aboriginal Australians that represents what is likely the longest continuous use of a psychoactive substance in human history — spanning 40,000 to 60,000 years.
 

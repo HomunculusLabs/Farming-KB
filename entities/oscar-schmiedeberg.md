@@ -5,7 +5,7 @@ type: person
 tags: [chemist, pharmacologist, muscarine, amanita, germany]
 ---
 
-# Oscar Schmiedeberg
+## Oscar Schmiedeberg
 
 ## Description
 

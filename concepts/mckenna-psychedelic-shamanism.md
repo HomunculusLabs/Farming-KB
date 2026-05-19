@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Psychedelic Shamanism
+## Psychedelic Shamanism
 
 ## The Shaman as Healer and Seer
 

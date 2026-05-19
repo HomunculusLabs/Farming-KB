@@ -7,7 +7,7 @@ tags: [mycology, fungi, health, medicine, biology, safety, species, pathogens]
 sources: []
 ---
 
-# Fungal Infections in Humans
+## Fungal Infections in Humans
 
 ## Overview
 

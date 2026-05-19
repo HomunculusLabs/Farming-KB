@@ -14,7 +14,7 @@ tags:
   - transformation
 ---
 
-# Fear as Existential Validity Marker in Psychedelic Experience
+## Fear as Existential Validity Marker in Psychedelic Experience
 
 ## Overview
 

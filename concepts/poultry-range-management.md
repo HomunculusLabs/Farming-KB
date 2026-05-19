@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Poultry Range Management
+## Poultry Range Management
 
 **Poultry range management** is the practice of rearing chickens, ducks, geese, and other domestic fowl on free-range systems within integrated permaculture designs. Bill Mollison treats poultry as one of the three critical animal species for domestic self-reliance, alongside bees and pigs, and provides detailed guidance on breed selection, stocking densities, rotational systems, and integration with orchard, crop, and pasture enterprises.
 

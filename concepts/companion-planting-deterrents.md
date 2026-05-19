@@ -7,7 +7,7 @@ tags: [companion-planting, pest-control, organic, gardening, plants, pest-manage
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Companion Planting as Pest Deterrent
+## Companion Planting as Pest Deterrent
 
 ## Overview
 

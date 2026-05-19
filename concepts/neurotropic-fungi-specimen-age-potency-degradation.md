@@ -1,4 +1,8 @@
-# Neurotropic Fungi: Specimen Age, Potency Degradation, and Volatility of Psilocybin
+---
+title: "Neurotropic Fungi: Specimen Age, Potency Degradation, and Volatility of Psilocybin"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

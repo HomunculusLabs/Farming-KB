@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi Mycologist Distribution Bias
+## Neurotropic Fungi Mycologist Distribution Bias
 
 One of the most significant insights from the global survey of neurotropic fungi by Guzmán, Allen, and Gartz (2000) is that the known geographical distribution of these organisms largely reflects the activity and locations of mycologists rather than the true natural distribution of the fungi themselves. This sampling bias has profound implications for interpreting biogeographic patterns and estimating global species richness.
 

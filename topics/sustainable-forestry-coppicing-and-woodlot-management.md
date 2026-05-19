@@ -6,21 +6,21 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - /Users/t3rpz/wiki/concepts/faires-coppicing-and-woodlot-management.md
-  - /Users/t3rpz/wiki/concepts/mollison-course-coppice-forest-management.md
-  - /Users/t3rpz/wiki/concepts/mollison-designers-fuelwood-forestry-coppice-pollard.md
-  - /Users/t3rpz/wiki/concepts/mollison-designers-fuelwood-forestry-systems.md
-  - /Users/t3rpz/wiki/concepts/mollison-farm-forestry-and-woodlot-design.md
-  - /Users/t3rpz/wiki/concepts/permaculture-designers-manual-coppice-systems.md
-  - /Users/t3rpz/wiki/concepts/farm-forestry-design-mollison.md
-  - /Users/t3rpz/wiki/concepts/holmgren-long-rotation-forestry-slow-growth.md
-  - /Users/t3rpz/wiki/concepts/mollison-designers-conifer-forestry-and-timber.md
-  - /Users/t3rpz/wiki/concepts/mollison-woodlot-timber-durability-and-hedgerow-barriers.md
-  - /Users/t3rpz/wiki/concepts/permplant-willows-salix-erosion-control-fodder.md
-  - /Users/t3rpz/wiki/concepts/permaculture-willow-guide.md
-  - /Users/t3rpz/wiki/concepts/mycoforestry-principles-stamets.md
-  - /Users/t3rpz/wiki/concepts/mycoforestry-forest-management-with-fungi.md
-  - /Users/t3rpz/wiki/concepts/mycoforestry-applications.md
+  - raw/concepts/faires-coppicing-and-woodlot-management.md
+  - raw/concepts/mollison-course-coppice-forest-management.md
+  - raw/concepts/mollison-designers-fuelwood-forestry-coppice-pollard.md
+  - raw/concepts/mollison-designers-fuelwood-forestry-systems.md
+  - raw/concepts/mollison-farm-forestry-and-woodlot-design.md
+  - raw/concepts/permaculture-designers-manual-coppice-systems.md
+  - raw/concepts/farm-forestry-design-mollison.md
+  - raw/concepts/holmgren-long-rotation-forestry-slow-growth.md
+  - raw/concepts/mollison-designers-conifer-forestry-and-timber.md
+  - raw/concepts/mollison-woodlot-timber-durability-and-hedgerow-barriers.md
+  - raw/concepts/permplant-willows-salix-erosion-control-fodder.md
+  - raw/concepts/permaculture-willow-guide.md
+  - raw/concepts/mycoforestry-principles-stamets.md
+  - raw/concepts/mycoforestry-forest-management-with-fungi.md
+  - raw/concepts/mycoforestry-applications.md
 related_concepts:
   - faires-coppicing-and-woodlot-management
   - mollison-course-coppice-forest-management

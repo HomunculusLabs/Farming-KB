@@ -4,10 +4,10 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Molecular Methods for Fungal Taxonomy and Diversity Assessment
+## Molecular Methods for Fungal Taxonomy and Diversity Assessment
 
 The last 30 years have seen accelerating habitat loss from development, pollution, and poor management. As ecosystems are degraded, our need to address issues concerning the biological and genetic diversity of remaining organisms increases. Historically, determining fungal species diversity has been complicated by our inability to culture many fungi, the ephemeral nature of sporocarp production, and intraspecific variation in fungal morphology and biochemistry.
 

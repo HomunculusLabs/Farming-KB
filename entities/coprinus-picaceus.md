@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Coprinus picaceus
+## Coprinus picaceus
 
 **Coprinus picaceus** (also commonly known as the **shaggy inkcap** or, more specifically, the **magpie inkcap**) is a basidiomycete fungus belonging to the family Psathyrellaceae within the order Agaricales. It is one of the larger and more visually striking members of the inkcap group, recognized by its dark, shaggy-scaly cap and its association with alkaline soils. The species is notable for its autodeliquescent (self-digesting) fruiting bodies, a characteristic feature of the coprinoid fungi.
 

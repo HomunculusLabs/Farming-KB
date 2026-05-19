@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Integrated Paddy Rice and Tree System
+## Integrated Paddy Rice and Tree System
 
 Masanobu Fukuoka identified the integration of trees into flooded paddy rice
 fields as one of the finest examples of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] replaces the synthetic or [[jadam-conventional-and-organic-pesticide-integration]] rice farming depend upon.

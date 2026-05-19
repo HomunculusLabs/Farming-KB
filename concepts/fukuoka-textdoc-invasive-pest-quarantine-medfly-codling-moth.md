@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Invasive Pest Quarantine and the Mediterranean Fruit Fly Threat
+## Invasive Pest Quarantine and the Mediterranean Fruit Fly Threat
 
 [[fukuoka-ecological-balance-principles]] through commercial pressures and technological
 interventions that ignore ecological consequences.

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How can ducks help with pest control and fertility in a garden?
+## How can ducks help with pest control and fertility in a garden?
 
 ## Short Answer
 

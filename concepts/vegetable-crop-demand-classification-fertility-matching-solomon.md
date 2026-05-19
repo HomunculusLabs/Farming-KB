@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 tags: [vegetable-gardening, soil-fertility, crop-nutrition, organic-fertilizer, solomon]
 ---
 
-# Vegetable Crop Demand Classification and Fertility Matching
+## Vegetable Crop Demand Classification and Fertility Matching
 
 [[row-gardening-vs-intensive-methods-solomon]].
 

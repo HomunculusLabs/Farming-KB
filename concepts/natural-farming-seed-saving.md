@@ -7,7 +7,7 @@ tags: [seeds, gardening, plants]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 
-# Natural Farming Seed Saving
+## Natural Farming Seed Saving
 
 Saving your own seeds preserves genetic diversity, adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate and soil.
 

@@ -6,15 +6,15 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - /Users/t3rpz/wiki/concepts/perennial-vegetables.md
-  - /Users/t3rpz/wiki/concepts/gaias-garden-perennial-vegetables.md
-  - /Users/t3rpz/wiki/concepts/hemenway-perennial-vegetables.md
-  - /Users/t3rpz/wiki/concepts/growing-globe-artichokes.md
-  - /Users/t3rpz/wiki/concepts/hamilton-asparagus-growing-organic.md
-  - /Users/t3rpz/wiki/concepts/hamilton-rhubarb-growing-organic.md
-  - /Users/t3rpz/wiki/concepts/permaculture-asparagus.md
-  - /Users/t3rpz/wiki/concepts/permaculture-jerusalem-artichoke.md
-  - /Users/t3rpz/wiki/concepts/solomon-growing-perennials-asparagus-rhubarb.md
+  - raw/concepts/perennial-vegetables.md
+  - raw/concepts/gaias-garden-perennial-vegetables.md
+  - raw/concepts/hemenway-perennial-vegetables.md
+  - raw/concepts/growing-globe-artichokes.md
+  - raw/concepts/hamilton-asparagus-growing-organic.md
+  - raw/concepts/hamilton-rhubarb-growing-organic.md
+  - raw/concepts/permaculture-asparagus.md
+  - raw/concepts/permaculture-jerusalem-artichoke.md
+  - raw/concepts/solomon-growing-perennials-asparagus-rhubarb.md
 related_concepts:
   - perennial-vegetables
   - gaias-garden-perennial-vegetables
@@ -27,7 +27,7 @@ related_concepts:
   - solomon-growing-perennials-asparagus-rhubarb
 ---
 
-# Perennial Vegetables and Edible Perennial Crops
+## Perennial Vegetables and Edible Perennial Crops
 
 Perennial vegetables are food plants that return year after year without being
 replanted each season. They include familiar crops such as asparagus, rhubarb,

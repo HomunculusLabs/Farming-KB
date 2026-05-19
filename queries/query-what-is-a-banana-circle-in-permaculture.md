@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is a Banana Circle in Permaculture
+## What Is a Banana Circle in Permaculture
 
 ## Short Answer
 A banana circle is a [[hamilton-composting-and-organic-matter-management]], surrounded by a raised ring where banana plants and companion

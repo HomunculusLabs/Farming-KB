@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [cultivation, fruiting-chamber, terrarium, humidity, pf-tek, mycology, environment]
 ---
 
-# PF Tek Fruiting Chamber and Cultivation Environment
+## PF Tek Fruiting Chamber and Cultivation Environment
 
 ## Overview
 

@@ -16,7 +16,7 @@ sources:
   - Stamets P. "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press. 1996.
 ---
 
-# Psilocybe cubensis
+## Psilocybe cubensis
 
 **Psilocybe cubensis** is a species of [[hplc-analysis-of-psilocybin-and-psilocin]]. It is the most widely known and cultivated [[field-guide-psilocybin-bluing-reaction-identification]] upon bruising is caused by the oxidation of psilocin, a dephosphorylated metabolite of psilocybin.
 

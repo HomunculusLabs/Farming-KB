@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# DOAM
+## DOAM
 
 **Chemical name:** 2,5-Dimethoxy-4-(n)-amylamphetamine
 **[[doet-compound-profile]] | C2H5 | 2-5 | 14-20 h |

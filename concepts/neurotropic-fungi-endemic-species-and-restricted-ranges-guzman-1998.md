@@ -1,4 +1,8 @@
-# Neurotropic Fungi Endemic Species and Restricted Ranges
+---
+title: "Neurotropic Fungi Endemic Species and Restricted Ranges"
+tags:
+  - concept
+---
 
 ## Source
 Guzmán, Allen & Gartz (1998) — *A worldwide [[distribution-of-neurotropic-fungi]] catalogued by Guzmán, Allen and Gartz (1998), a significant number exhibit endemic or highly restricted geographic distributions. These species are known from single countries, specific regions, or individual localities, contrasting with cosmopolitan species such as *Psilocybe cubensis* and *P. semilanceata*. Understanding endemic neurotropic fungi is critical for biogeographic analysis.

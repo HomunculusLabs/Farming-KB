@@ -1,4 +1,8 @@
-# Fukuoka's Inductive vs Deductive Reasoning in Agricultural Research
+---
+title: "Fukuoka's Inductive vs Deductive Reasoning in Agricultural Research"
+tags:
+  - concept
+---
 
 ## Source
 *[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s reliance on inductive

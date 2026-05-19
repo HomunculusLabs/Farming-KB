@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Periodontitis Research
+## Cannabis and Periodontitis Research
 
 **Source:** [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 

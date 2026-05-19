@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, dosage, safety]
 ---
 
-# cannabis safety profile and overdose risk
+## cannabis safety profile and overdose risk
 
 Cannabis occupies a unique position among therapeutic substances in terms
 of its safety profile. Drawing on both [[nicotine]] in tobacco, followed by alcohol, heroin, stimulants (cocaine,

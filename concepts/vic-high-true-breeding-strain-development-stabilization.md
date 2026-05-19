@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# True Breeding Strain Development and Stabilization
+## True Breeding Strain Development and Stabilization
 
 Vic High defines the goal of creating a true breeding strain (IBL -- Inbred Line) not as eliminating all variation, but as achieving overall phenotypic uniformity across a population for traits the breeder considers important. This distinction is fundamental to understanding what stabilization actually means in practice.
 

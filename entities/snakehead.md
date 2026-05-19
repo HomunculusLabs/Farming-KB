@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, permaculture, predator, pond-culture]
 ---
 
-# Snakehead (Channa spp.)
+## Snakehead (Channa spp.)
 
 ## Description
 

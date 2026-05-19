@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DON
+## DON
 
 **Chemical name:** 2,5-Dimethoxy-4-nitroamphetamine
 **[[alexander-shulgin]] himself; the qualitative data comes from [[chiric-caspi-brunfelsia-south-american-hallucinogen]] researchers who conducted human trials.

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe coprophila
+## Psilocybe coprophila
 
 Psilocybe coprophila is a psilocybin-containing mushroom species
 whose name reflects its distinctive ecological niche. The specific

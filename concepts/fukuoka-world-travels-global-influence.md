@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka's World Travels and Global Influence
+## Fukuoka's World Travels and Global Influence
 
 **Updated:** 2026-04-18
 

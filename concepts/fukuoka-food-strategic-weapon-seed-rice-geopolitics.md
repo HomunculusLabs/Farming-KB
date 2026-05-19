@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 topics: [food-security, geopolitics, seed-sovereignty, natural-farming, agricultural-policy]
 ---
 
-# Fukuoka's Food as Strategic Weapon: Seed Rice and Geopolitical Power
+## Fukuoka's Food as Strategic Weapon: Seed Rice and Geopolitical Power
 
 [[masanobu-fukuoka]] advanced a provocative argument: that food, and
 particularly seed grain, functions as a strategic weapon in international

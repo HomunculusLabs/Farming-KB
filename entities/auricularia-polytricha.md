@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Auricularia polytricha
+## Auricularia polytricha
 
 ## Introduction
 

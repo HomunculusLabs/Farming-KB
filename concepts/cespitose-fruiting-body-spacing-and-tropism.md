@@ -7,7 +7,7 @@ tags: [mycology, mushroom-physiology, tropism, fungal-ecology, fruiting-body-dev
 sources: [raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md]
 ---
 
-# Cespitose Fruiting Body Spacing and Tropism
+## Cespitose Fruiting Body Spacing and Tropism
 
 Cespitose (clustered) fruiting is a common growth habit in many mushroom species, where multiple basidiocarps emerge from a single point or tight group. The spacing and orientation of individual fruiting bodies within these clusters is influenced by tropic responses, particularly anemotropism driven by [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies from a single mycelial mass or overlapping bases. Many popular edible and [[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus spp.)** — Often grow in dense overlapping clusters on dead wood
 - **Maitake/Hen of the Woods ([[staycare-lentinula-edodes-in-bioremediation]])** — Can fruit cespitose when conditions favor dense colonization

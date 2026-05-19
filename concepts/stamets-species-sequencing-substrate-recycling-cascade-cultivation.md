@@ -11,7 +11,7 @@ tags:
   - forest-succession
 ---
 
-# Species Sequencing: Maximizing Substrate Potential
+## Species Sequencing: Maximizing Substrate Potential
 
 Species sequencing is a cultivation strategy developed by [[lentinula-edodes]]), for example, is a
 primary decomposer of hardwood lignin and cellulose but leaves behind significant

@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture-principle, nutrient-cycling, systems-theory, ecological-design]
 ---
 
-# Permaculture Cycles
+## Permaculture Cycles
 
 ## Description
 

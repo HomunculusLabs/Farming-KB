@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Flower Anatomy
+## Cannabis Flower Anatomy
 
 Understanding cannabis flower anatomy is fundamental to identifying
 plant sex, assessing harvest readiness, and maximizing yield and

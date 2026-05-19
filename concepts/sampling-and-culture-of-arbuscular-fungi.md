@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Sampling and Culture of Arbuscular Fungi
+## Sampling and Culture of Arbuscular Fungi
 
 Studying [[arbuscular-mycorrhizal-colonization-patterns]] (AM) fungi requires specialized techniques for sampling, isolating, and culturing these obligate symbionts. Because AM fungi cannot be grown apart from their plant hosts, all [[mushroom-spawn-making-and-pure-culture-methods]] rely on maintaining living plant roots. This chapter covers the practical methodologies for extracting spores from soil, establishing trap-pot cultures, and culturing individual species from mixed communities.
 

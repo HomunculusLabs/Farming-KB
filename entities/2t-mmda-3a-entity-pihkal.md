@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2T-MMDA-3a
+## 2T-MMDA-3a
 
 [[scythian-cannabis-steam-bath-ritual]], the reaction
 mixture was cooled, producing a gummy solid that was shown to be a

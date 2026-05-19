@@ -1,4 +1,8 @@
-# Fukuoka Clover Cover Cropping and Soil Ecology
+---
+title: "Fukuoka Clover Cover Cropping and Soil Ecology"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[fukuoka-earthen-levee-building-artistic-religious-work]]
-- [[fukuoka-five-grains-food-mandala]]
-- [[fukuoka-philosophy-of-non-intervention]]

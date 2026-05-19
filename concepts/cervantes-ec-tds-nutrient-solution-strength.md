@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# EC, TDS, and Nutrient Solution Strength
+## EC, TDS, and Nutrient Solution Strength
 
 Measuring nutrient solution strength is fundamental to
 successful [[cervantes-nutrient-solution-reservoir-management]]

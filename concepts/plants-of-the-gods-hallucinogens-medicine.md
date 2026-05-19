@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Uses of Hallucinogens in Medicine — Hofmann's Framework
+## Uses of Hallucinogens in Medicine — Hofmann's Framework
 
 ## Philosophical Foundation: The Sender-Receiver Model
 

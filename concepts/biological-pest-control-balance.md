@@ -9,7 +9,7 @@ sources:
 created: 2026-04-28
 type: concept
 ---
-#  Balance
+##  Balance
 
 Biological pest control through natural predatomasanobu-fukuokaentral principle
 of 's farming system, documented in *The One-Straw Revolution*

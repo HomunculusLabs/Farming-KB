@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Zinc (Zn)
+## Cannabis Zinc (Zn)
 
 ## Overview
 

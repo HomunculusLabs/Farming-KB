@@ -7,7 +7,7 @@ tags: [cannabis, gardening, equipment, lighting]
 sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 ---
 
-# Cannabis Grow Room Setup
+## Cannabis Grow Room Setup
 
 Setting up a proper grow room is the foundation of a successful cannabis cultivation. The key factors are light, air, temperature, humidity, and space management.
 

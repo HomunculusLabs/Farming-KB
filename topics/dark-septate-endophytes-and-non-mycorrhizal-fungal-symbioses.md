@@ -19,7 +19,7 @@ sources:
   - Addy HD, Piercey MM, Currah RS. "Microfungal endophytes in rough fescue roots." Canadian Journal of Botany. 2005.
 ---
 
-# Dark Septate Endophytes and Non-Mycorrhizal Fungal Symbioses
+## Dark Septate Endophytes and Non-Mycorrhizal Fungal Symbioses
 
 ## Overview
 

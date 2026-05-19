@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md, Chunk 22, Lines 4401–4600
 type: concept
 ---
 
-# Edge Effect and Pattern in Design
+## Edge Effect and Pattern in Design
 
 ## Core Definition
 

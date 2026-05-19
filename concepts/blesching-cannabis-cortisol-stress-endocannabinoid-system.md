@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cortisol, Stress, and the Endocannabinoid System
+## Cortisol, Stress, and the Endocannabinoid System
 
 Cortisol is the body's primary [[uwe-blesching]] provides a detailed examination of how
 the blesching [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] Topics

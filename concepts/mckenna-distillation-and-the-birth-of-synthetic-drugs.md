@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Distillation and the Birth of Synthetic Drugs
+## Distillation and the Birth of Synthetic Drugs
 
 ## The Natural and Synthetic Divide
 

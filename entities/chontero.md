@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Chontero
+## Chontero
 
 ## Description
 A chontero is a type of sorcerer in Amazonian vegetalismo who specializes in inflicting harm using chontas or virotes, magical darts made from thorns, bird beaks, snake fangs, or porcupine quills. The chontero blows these darts from his [[mariri]] (magical phlegm) toward victims, causing illness that may go unrecognized and can be fatal if not treated by a skilled vegetalista.

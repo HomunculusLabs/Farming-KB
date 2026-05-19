@@ -38,7 +38,7 @@ sources:
 - concepts/seed-saving.md
 ---
 
-# Homestead Startup Checklist
+## Homestead Startup Checklist
 
 A phased startup plan synthesizing the wiki's homesteading knowledge into actionable steps. Assumes USDA Zone 7-8, 2-10 acres. Adapt timelines and scale to your site. See [[seasonal-planning]] for the full monthly calendar.
 

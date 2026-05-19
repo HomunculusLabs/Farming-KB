@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
-# How Do I Create Microclimates in My Garden?
+## How Do I Create Microclimates in My Garden?
 ## Short Answer
 Creating microclimates means deliberately modifying temperature, wind, moisture,
 and light conditions in specific areas of your garden using features like stone

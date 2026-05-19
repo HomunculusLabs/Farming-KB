@@ -8,7 +8,7 @@ sources:
 - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
 
-# Amazonian Plant Teachers (Doctores)
+## Amazonian Plant Teachers (Doctores)
 
 ## Overview
 

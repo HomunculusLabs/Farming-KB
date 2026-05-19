@@ -8,7 +8,7 @@ type: concept
 tags: [sterilization, decontamination, autoclave, gamma-irradiation, UV, chemicals]
 ---
 
-# Comparison of Surface Sterilization Methods
+## Comparison of Surface Sterilization Methods
 
 Surface sterilization is essential in fields ranging from aerospace and
 medicine to food processing and mycology. Multiple technologies exist, each

@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 related: [grass-seed-as-mushroom-substrate, exotic-cultivation-flush-management-and-casing-hygiene]
 ---
 
-# Mushroom Casing Soil Recipes and Preparation
+## Mushroom Casing Soil Recipes and Preparation
 
 [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] is a non-nutritive layer of material applied on top of
 fully colonized substrate to induce and support [[brassinosteroid-growth-promotion-psilocybe-cubensis]]*, *P. mexicana*, and

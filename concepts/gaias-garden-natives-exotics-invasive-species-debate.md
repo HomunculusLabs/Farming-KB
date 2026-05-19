@@ -5,7 +5,7 @@ author: toby-hemenway
 tags: [permaculture, ecology, invasive-species, native-plants, restoration]
 ---
 
-# Natives vs Exotics and Invasive Species Debate
+## Natives vs Exotics and Invasive Species Debate
 
 ## Overview
 

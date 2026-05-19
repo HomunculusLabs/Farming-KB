@@ -7,7 +7,7 @@ type: concept
 tags: [mushroom-cultivation, humidity-chamber, fruiting-chamber, jarrold, boil-a-bag, DIY, terrarium, humidity-control, mushroom-fruiting]
 ---
 
-# Humidity Chamber Designs for Mushroom Cultivation — Jarrold Method
+## Humidity Chamber Designs for Mushroom Cultivation — Jarrold Method
 
 ## Overview
 

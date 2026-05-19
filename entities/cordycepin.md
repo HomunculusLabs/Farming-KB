@@ -18,7 +18,7 @@ sources:
   - "Winterhoff, H. et al. (1996). \"Cordycepin, a constituent of Cordyceps, its chemical and pharmacological properties.\" Phytomedicine, 2(3), 221-230."
 ---
 
-# Cordycepin (*3′-Deoxyadenosine*)
+## Cordycepin (*3′-Deoxyadenosine*)
 
 ## Overview
 

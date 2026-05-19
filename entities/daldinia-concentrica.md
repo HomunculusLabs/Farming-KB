@@ -17,7 +17,7 @@ sources:
   - "Pegler, D.N., et al. (1993). British Puffballs, Earthstars and Stinkhorns. Royal Botanic Gardens, Kew."
 ---
 
-# Daldinia concentrica
+## Daldinia concentrica
 
 **Daldinia concentrica** is a saprotrophic ascomycete fungus commonly known as **King Alfred's cakes**, **cramp balls**, or **carbon balls**. It is one of the most recognizable pyrenomycetes in temperate forests worldwide, forming hard, hemispherical, charcoal-like stromata on dead and dying hardwood. The fungus has a long history of human use as fire-starting tinder, and recent research has revealed a rich chemistry of bioactive [[growing-gourmet-north-american-reishi-species]]). Molecular phylogenetics has shown that some previous *Daldinia* records represent species complexes requiring revision.
 

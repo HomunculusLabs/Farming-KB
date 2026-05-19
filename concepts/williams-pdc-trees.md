@@ -8,7 +8,7 @@ sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
 
-# Trees in Permaculture Design
+## Trees in Permaculture Design
 
 Trees are the cornerstone species of the ecology. While the
 micro-organisms within the soil provide the [[williams-pdc-soils]], healthy soil is the ecological engine which

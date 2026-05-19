@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Black Locust vs Honey Locust
+## Black Locust vs Honey Locust
 
 ## Overview
 Black locust (*Robinia pseudoacacia*) and honey locust (*Gleditsia

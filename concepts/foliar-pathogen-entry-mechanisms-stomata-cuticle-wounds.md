@@ -7,7 +7,7 @@ tags: [foliar-pathogen, plant-infection, stomatal-entry, cuticular-penetration, 
 aliases: [pathogen-entry-plants, foliar-disease-infection, how-fungi-infect-leaves, plant-surface-pathogens]
 ---
 
-# Foliar Pathogen Entry Mechanisms: Stomata, Cuticle, and Wound Sites
+## Foliar Pathogen Entry Mechanisms: Stomata, Cuticle, and Wound Sites
 
 ## Overview
 

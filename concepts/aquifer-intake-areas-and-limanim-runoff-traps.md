@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquifer Intake Areas and Limanim Runoff Traps
+## Aquifer Intake Areas and Limanim Runoff Traps
 
 ## Overview
 

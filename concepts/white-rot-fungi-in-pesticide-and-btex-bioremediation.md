@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# White-Rot Fungi in Pesticide and BTEX Bioremediation
+## White-Rot Fungi in Pesticide and BTEX Bioremediation
 
 White-rot fungi, particularly [[query-how-does-lignin-degradation-by-fungi-work]] provides the basis for the degradation of structurally diverse pollutants.
 

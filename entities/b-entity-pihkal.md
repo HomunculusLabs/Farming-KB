@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# B
+## B
 
 [[mescaline]],
 > after the first hour or two. Mental effects didn't develop in any

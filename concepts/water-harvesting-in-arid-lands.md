@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Harvesting in Arid Lands
+## Water Harvesting in Arid Lands
 
 ## Overview
 

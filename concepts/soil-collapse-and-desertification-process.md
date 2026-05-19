@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Collapse and Desertification Process
+## Soil Collapse and Desertification Process
 
 [[bill-mollison]] identified this as one of the most serious and
 underestimated threats to arid and semi-arid lands, dramatically accelerated by human

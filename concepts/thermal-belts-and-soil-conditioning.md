@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Thermal Belts and Soil Conditioning
+## Thermal Belts and Soil Conditioning
 
 ## Frost Behavior
 

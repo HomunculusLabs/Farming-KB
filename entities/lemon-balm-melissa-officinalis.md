@@ -17,7 +17,7 @@ sources:
   - Hoffman, D. (2003). Medical Herbalism. Healing Arts Press.
   - Kennedy, D.O. et al. (2004). "Mood and Cognitive Performance." Psychopharmacology.
 ---
-# Melissa officinalis
+## Melissa officinalis
 
 **Lemon Balm** · **Common Balm** · **Melissa** · **Bee Balm** (archaic) · **Melisse**
 

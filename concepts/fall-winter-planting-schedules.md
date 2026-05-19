@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Fall and Winter Planting Schedules
+## Fall and Winter Planting Schedules
 
 Planning fall and winter planting schedules is one of the most critical and nuanced aspects of year-round vegetable production. [[eliot-coleman]]'s system relies on precise timing across multiple growing environments — outdoor fields, early greenhouses, later greenhouses, and cool greenhouses — to ensure continuous harvests through the coldest months.
 

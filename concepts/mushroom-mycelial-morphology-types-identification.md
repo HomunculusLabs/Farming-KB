@@ -15,7 +15,7 @@ tags:
   - tissue-culture
 ---
 
-# Mushroom Mycelial Morphology Types and Identification
+## Mushroom Mycelial Morphology Types and Identification
 
 ## Overview
 

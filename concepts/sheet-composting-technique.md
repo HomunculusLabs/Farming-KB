@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Sheet Composting Technique
+## Sheet Composting Technique
 
 [[sheet-composting]] is the practice of fertilizing by spreading a layer of nutrient-rich, decomposable organic matter atop the soil and then shallowly digging it in. Materials decompose much faster when mixed into well-oxygenated soil than when merely spread on the surface. This method will grow a good vegetable garden — if done far enough in advance for decomposition to complete before planting time.
 

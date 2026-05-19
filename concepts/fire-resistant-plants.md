@@ -7,7 +7,7 @@ tags: [permaculture, plants, plant-catalog, species, windbreak, design]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-# Fire Resistant Plants
+## Fire Resistant Plants
 
 Plants with low fire potential are critical for permaculture designs in fire-prone areas. They can be used as firebreaks, windbreaks, and shelterbelts that also serve multiple other functions. Note that species marked with an asterisk (*) have conflicting reports of their ability to resist fire.
 

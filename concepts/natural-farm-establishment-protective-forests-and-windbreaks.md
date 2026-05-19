@@ -8,7 +8,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Natural Farm Establishment of Protective Forests and Windbreaks
+## Natural Farm Establishment of Protective Forests and Windbreaks
 
 [[clay-seed-pellet-composition-and-aerial-seeding-method]] w [[fukuoka-natural-farming-in-arid-regions]] worldwide, where conventional tree-planting programs had repeatedly failed.
 

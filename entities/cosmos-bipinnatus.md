@@ -17,7 +17,7 @@ sources:
   - "Möller, M. & Cronk, Q. (1997). \"Origin and relationships of the genus Cosmos (Asteraceae).\" Kew Bulletin, 52, 649-656."
 ---
 
-# Cosmos bipinnatus (*Cosmos bipinnatus*)
+## Cosmos bipinnatus (*Cosmos bipinnatus*)
 
 ## Overview
 

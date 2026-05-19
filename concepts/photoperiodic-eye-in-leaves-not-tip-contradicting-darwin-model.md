@@ -6,7 +6,7 @@ tags: [photoperiodism, phytochrome, leaf, phototropism, darwin, plant-vision, ph
 aliases: [Photoperiodic Eye in Leaves, Leaf vs Tip Light Perception, Chamovitz Photoperiodic Eye Leaf]
 ---
 
-# The Photoperiodic Eye Is in the Leaves, Not the Tip: Contradicting the Darwin Phototropism Model
+## The Photoperiodic Eye Is in the Leaves, Not the Tip: Contradicting the Darwin Phototropism Model
 
 One of the most surprising findings in [[plant-sensory-biology]], highlighted by
 Chamovitz in "What a Plant Knows," is that the location of light perception for

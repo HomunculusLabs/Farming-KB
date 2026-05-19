@@ -7,7 +7,7 @@ tags: [ayahuasca, economics, tourism, cost-analysis, home-brewing]
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Ayahuasca Tourism Cost Analysis — Peru vs Homebrew
+## Ayahuasca Tourism Cost Analysis — Peru vs Homebrew
 
 R. Stuart's 2002 ethnographic account of [[ayahuasca-tourism-shamanic-tourism-economics]]. The cost of participating in [[ayahuasca-diy-home-brewing-as-tourism-alternative]], with implications for accessibility, equity, and the nature of the experience.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Paris Peace March and International Nature University
+## Fukuoka Paris Peace March and International Nature University
 
 In the European section of "The Road Back to Nature," Fukuoka recounts his encounter with the anti-nuclear peace movement in Paris and the founding vision for an International Nature University. These experiences reveal his conviction that peace, nature, and farming are inseparable concerns.
 

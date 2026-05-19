@@ -8,7 +8,7 @@ type: concept
 tags: [psychedelics]
 ---
 
-# Psychedelic Paradigm Shifting and Reality Reconception
+## Psychedelic Paradigm Shifting and Reality Reconception
 
 Simon G. Powell's "The Psilocybin Solution" presents the [[leary-psychedelic-experience-bardo-mapping]] to the holistic nature of religious and mystical thought, both of which attempt to provide overall schemes for understanding reality.
 

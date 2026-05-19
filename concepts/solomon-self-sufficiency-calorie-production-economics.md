@@ -1,5 +1,10 @@
+---
+title: "Solomon Self Sufficiency Calorie Production Economics"
+tags:
+  - concept
+---
 
-# Self-Sufficiency Calorie Production Economics
+## Self-Sufficiency Calorie Production Economics
 
 ## Overview
 

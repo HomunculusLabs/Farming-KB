@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Tissue Culture and Why Does It Matter for Growers
+## What Is Tissue Culture and Why Does It Matter for Growers
 
 ## Short Answer
 Tissue culture is a laboratory propagation technique that grows new plants

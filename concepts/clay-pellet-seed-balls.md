@@ -13,7 +13,7 @@ tags:
 source: "the [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]  fukuoka"
 ---
 
-# Clay Pellet Seed Balls
+## Clay Pellet Seed Balls
 
 Clay pellet seed balls are a direct-seeding technique developed by fukuoka-natural-farming-method. Seeds are encased in a protective coating of
 clay and soil, which shields them from predation by birds and rodents, prevents premature

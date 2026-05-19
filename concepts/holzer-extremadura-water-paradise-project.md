@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Extremadura Water Paradise - Sixteen Lakes in Spain
+## Holzer Extremadura Water Paradise - Sixteen Lakes in Spain
 
 The project at Princess Nora von Liechtenstein's property in Extremadura,
 Spain, demonstrates one of the most dramatic landscape transformations in

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Primary Nutrients and Mineral Sources in Soils
+## Primary Nutrients and Mineral Sources in Soils
 
 ## Overview
 

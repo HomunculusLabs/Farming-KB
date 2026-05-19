@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Functional Design and Integration
+## Permaculture Functional Design and Integration
 
 Functional design in [[permaculture-design]], these same components are placed so that the output of one becomes the input of another.
 

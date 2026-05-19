@@ -5,7 +5,7 @@ tags: mycology, mushroom-cultivation, pf-tek]
 created: 2026-05-09
 ---
 
-# Dual Chambered Terrarium
+## Dual Chambered Terrarium
 
 The dual chambered terrarium is the [[growing-gourmet-growing-room-ventilation-air-exchange]] that mushrooms
 need to pin and fruit, while protecting delicate fungal structures from

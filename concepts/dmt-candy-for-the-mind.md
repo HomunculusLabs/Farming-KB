@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
-# DMT - Candy for the Mind
+## DMT - Candy for the Mind
 
 D.M. Turner rates DMT (N,N-Dimethyltryptamine) as intensity 9 to 10, the highest of any psychedelic discussed. The experience is described as "candy for the mind" due to its overwhelming visual richness and rapid onset.
 

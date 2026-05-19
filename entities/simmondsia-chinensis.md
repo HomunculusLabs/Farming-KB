@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Simmondsia chinensis
+## Simmondsia chinensis
 
 **Type:** Species
 **Category:** Evergreen drought-tolerant shrub

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biology, networks, physics, transport]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Biological Transport Networks
+## Biological Transport Networks
 
 Biological transport networks are branched distribution systems that move
 materials — nutrients, gases, signalling molecules, waste — across spatial

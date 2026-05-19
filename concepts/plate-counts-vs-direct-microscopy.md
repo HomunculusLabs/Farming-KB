@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Plate Counts vs Direct Microscopy
+## Plate Counts vs Direct Microscopy
 
 Assessing the microbial life in compost tea, compost, and soil is essential for determining product quality and biological effectiveness. However, not all testing methods yield the same picture of what is actually present. The two primary approaches—plate counts and direct microscopy—differ dramatically in what they measure, how sensitive they are, and what their results mean for practical application. Understanding these differences is critical for anyone working with compost tea systems, soil biology, or biological farming.
 

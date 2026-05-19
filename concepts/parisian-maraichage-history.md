@@ -5,7 +5,7 @@ tags: [history, french-gardening, maraichage, market-gardening, intensive-agricu
 created: 2026-05-10
 ---
 
-# Parisian Maraichage History
+## Parisian Maraichage History
 
 La culture maraichère — the intensive market gardening tradition of Paris — represents
 one of the most remarkable achievements in the history [[urban-agriculture-organizations-and-networks]]. Between

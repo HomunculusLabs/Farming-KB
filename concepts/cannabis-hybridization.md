@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Hybridization
+## Cannabis Hybridization
 
 Hybridization is the process of crossing genetically unlike cannabis
 parents to combine desirable traits from each into offspring with

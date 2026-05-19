@@ -21,7 +21,7 @@ tags:
     Macmillan.
 ---
 
-# Digitalis purpurea
+## Digitalis purpurea
 
 **Common Foxglove** | *Digitalis purpurea* L.
 

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-[[solomon-complete-organic-fertilizer-cof
 type: concept
 ---
 
-# Complete Organic Fertilizer (COF) Recipe and Application
+## Complete Organic Fertilizer (COF) Recipe and Application
 
 ## Overview
 

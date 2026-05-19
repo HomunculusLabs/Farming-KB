@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden
 type: entity
 ---
 
-# Jean Baptiste van Helmont
+## Jean Baptiste van Helmont
 
 **Lived:** 1580–1644
 **Nationality:** Flemish (Belgian)

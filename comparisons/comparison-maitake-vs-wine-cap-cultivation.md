@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Maitake vs Wine Cap Cultivation
+## Maitake vs Wine Cap Cultivation
 
 ## Overview
 

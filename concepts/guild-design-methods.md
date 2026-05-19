@@ -20,7 +20,7 @@ sources:
 - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Guild Design Methods
+## Guild Design Methods
 
 Two guild design methods, super-guilds, case studies, food forest integration, and troubleshooting for plant guilds. From Toby Hemenway's Gaia's Garden. See [[gaia-garden-plant-guilds]] for guild types (apple guild, walnut guild, insectary guilds, etc.).
 

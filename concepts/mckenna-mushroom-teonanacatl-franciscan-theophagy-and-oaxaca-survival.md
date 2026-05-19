@@ -18,7 +18,7 @@ tags:
   - suppressed-knowledge
 ---
 
-# Teonanácatl, Franciscan Theophagy, and the Survival of the Mushroom Cult
+## Teonanácatl, Franciscan Theophagy, and the Survival of the Mushroom Cult
 
 ## Defining Theophagy: The Eating of God
 

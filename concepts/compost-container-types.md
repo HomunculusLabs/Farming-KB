@@ -7,7 +7,7 @@ tags: [compost, composting, equipment, construction, organic, gardening, soil-bu
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Compost Container Types
+## Compost Container Types
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom Cooking Methods and Personal Poisoning Experience
+## Mushroom Cooking Methods and Personal Poisoning Experience
 
 A detailed account of [[julius-auboineau-palmer]]'s personal methodology for testing mushroom edibility, his preferred cooking techniques, a firsthand poisoning incident, and his observations on how environmental conditions affect the edibility and flavor of fungi.
 

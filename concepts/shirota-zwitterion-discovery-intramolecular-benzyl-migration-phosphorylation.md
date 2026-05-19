@@ -1,4 +1,8 @@
-# Shirota Zwitterionic Phosphate Intermediate: N,O-Dibenzyl Conversion and Large-Scale Isolation
+---
+title: "Shirota Zwitterionic Phosphate Intermediate: N,O-Dibenzyl Conversion and Large-Scale Isolation"
+tags:
+  - concept
+---
 
 ## Overview
 The most innovative aspect of the 2003 Shirota, Hakamata, and Goda synthesis

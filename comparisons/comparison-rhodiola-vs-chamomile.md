@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Rhodiola vs Chamomile
+## Rhodiola vs Chamomile
 
 ## Overview
 

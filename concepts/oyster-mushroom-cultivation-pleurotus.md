@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Oyster Mushroom Cultivation (Pleurotus)
+## Oyster Mushroom Cultivation (Pleurotus)
 
 [[oyster-mushrooms]] (*Pleurotus* spp.) are among the most versatile, adaptable, and rewarding [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]]. With their rapid growth rate and tolerance for a wide range of substrates, they can be grown just about anywhere in the world. Oyster mushrooms are some of the fastest-fruiting fungi on the planet, making them perfect for beginning cultivators, educational projects, and disaster relief. Their strains are common worldwide and can be trained to tolerate unique or harsh climate conditions. This genus encompasses an impressive diversity of species, each with distinct fruiting temperatures, colors, and flavors.
 

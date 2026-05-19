@@ -1,4 +1,8 @@
-# Ganoderma lobatum Church Cult at Chignahuapan Puebla
+---
+title: "Ganoderma lobatum Church Cult at Chignahuapan Puebla"
+tags:
+  - concept
+---
 
 ## Source
 *Guzmán, Allen & Gartz (2000) — A Worldwide Geographical Distribution of the [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] culture. Within the church, the fungus specimen is preserved

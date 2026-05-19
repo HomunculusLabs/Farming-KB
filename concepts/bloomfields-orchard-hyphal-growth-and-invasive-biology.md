@@ -19,7 +19,7 @@ sources:
     Chapter 3
 ---
 
-# Hyphal Growth and Invasive Biology
+## Hyphal Growth and Invasive Biology
 
 ## Overview
 

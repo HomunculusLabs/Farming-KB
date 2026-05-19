@@ -21,7 +21,7 @@ sources:
 type: concept
 ---
 
-# Metzner's Four Paradigms of Entheogenic Healing
+## Metzner's Four Paradigms of Entheogenic Healing
 
 Ralph Metzner's 1998 framework identifies four distinct paradigms for the therapeutic and spiritual use of psychoactive substances, ranging from conventional Western psychotherapy to indigenous shamanic practices and their modern syntheses. Drawing on over 35 years of personal experience, including his work with Timothy Leary and [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles, Metzner articulates both the commonalities and the radical divergences in worldview between these systems.
 

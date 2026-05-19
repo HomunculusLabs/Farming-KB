@@ -10,7 +10,7 @@ type: concept
 tags: [cultivation, medicine, mushroom-cultivation, shiitake]
 ---
 
-# Gourmet and Medicinal Mushroom Shiitake Cultivation on Logs
+## Gourmet and Medicinal Mushroom Shiitake Cultivation on Logs
 
 Shiitake (Lentinula edodes) has been cultivated for over a thousand years, with records dating to the Sung Dynasty in China (960-1127 AD) when Wu Sang Kwuang first described [[cannabis-sativa-indoor-cultivation-techniques]] in 1904. Today, Shiitake is cultivated both outdoors on hardwood logs and indoors on [[stamets-fruiting-substrate-materials]] formula for Shiitake sawdust blocks:
 

@@ -8,7 +8,7 @@ type: comparison
 created: 2026-04-28
 ---
 
-# Light Straw Clay vs Hempcrete
+## Light Straw Clay vs Hempcrete
 
 Light straw clay (also called slip straw, light clay straw, or
 Leichtlehm) and hempcrete are both natural, bio-based wall

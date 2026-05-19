@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Worm Ecology and Soil Building
+## Worm Ecology and Soil Building
 
 Earthworms are among the most beneficial of all soil animals and the most visible of the primary decomposers. Their work -- tunneling, feeding, casting, and aerating -- is the foundation of soil fertility. Understanding worm ecology reveals how the soil food web transforms [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] bloom, secreting enzymes that tear apart the long chains of sugar molecules in plant cell walls.
 

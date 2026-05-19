@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Manage pH for Healthy Cannabis Plants
+## How to Manage pH for Healthy Cannabis Plants
 
 ## Short Answer
 Cannabis requires a slightly acidic root environment for optimal [[ph-and-nutrient-availability-garden-soils]] is not a minor detail or an advanced topic: it is the single most important factor in whether your feeding program works or fails. Even the most carefully designed nutrient regimen produces poor results if the pH is wrong, while a simple, basic nutrient line fed at the correct pH produces excellent results. Investing in pH management knowledge and tools before spending money on premium nutrients is the most cost-effective decision a grower can make.

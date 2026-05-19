@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# CMH Grow Lights
+## CMH Grow Lights
 
 Ceramic [[cannabis-hid-lighting-specifications]] (HID) family. CMH lamps use a ceramic arc tube similar to that in HPS lamps,
 which allows them to operate at higher temperatures and produce a broader, more balanced

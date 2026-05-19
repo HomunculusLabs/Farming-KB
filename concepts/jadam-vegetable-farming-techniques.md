@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-way-to-ultra-low-herbal-smoker-greenhouse-pest-control|ultra-low-cost-agriculture-untitled.md"
 ---
 
-# JADAM Vegetable Farming Techniques
+## JADAM Vegetable Farming Techniques
 
 ## Overview
 

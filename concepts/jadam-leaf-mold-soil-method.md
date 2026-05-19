@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Leaf Mold Soil Method
+## JADAM Leaf Mold Soil Method
 
 JADAM believes leaf mold is the ideal soil. Find the secret to soil management in nature — look at the soil formed from leaf mold in the adjacent mountains, fields and forests. It has been there for thousands of years. This is the core of [[fukuoka-road-critique-of-modern-science]] has little understanding of this world of soil microorganisms.
 

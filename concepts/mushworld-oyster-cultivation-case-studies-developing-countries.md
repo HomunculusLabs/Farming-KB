@@ -1,4 +1,8 @@
-# MushWorld: Oyster Mushroom Cultivation Case Studies in Developing Countries
+---
+title: "MushWorld: Oyster Mushroom Cultivation Case Studies in Developing Countries"
+tags:
+  - concept
+---
 
 ## Overview
 

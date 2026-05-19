@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [https://en.wikipedia.org/wiki/Biological_pest_control, https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles, https://www.fao.org/agriculture/crops/thematic-sitemap/theme/pests/ipm/en/]
 type: comparison
 ---
-# Parasitoid Wasps vs Chemical Pesticides
+## Parasitoid Wasps vs Chemical Pesticides
 
 ## Overview
 

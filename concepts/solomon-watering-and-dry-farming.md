@@ -7,7 +7,7 @@ tags: irrigation
 type: concept
 ---
 
-# Solomon Watering and Dry Farming Methods
+## Solomon Watering and Dry Farming Methods
 
 ## The Philosophy: Watering as the Most Important Decision
 

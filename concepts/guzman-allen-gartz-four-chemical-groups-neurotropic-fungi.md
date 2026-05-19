@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Four Chemical Groups of Neurotropic Fungi
+## Four Chemical Groups of Neurotropic Fungi
 
 In their worldwide analysis, Guzmán, Allen and Gartz organized all
 known neurotropic fungi into four distinct chemical groups based on

@@ -7,7 +7,7 @@ tags: homesteading, equipment, construction, tools, workflow]
 sources: []
 ---
 
-# Homestead Workshop and Tools
+## Homestead Workshop and Tools
 
 A homestead workshop is where you build, repair, and maintain everything from fence posts to furniture to animal shelters. Unlike a specialist's shop, a homestead workshop must be versatile — covering carpentry, metalwork, plumbing, electrical, and mechanic work with a single set of tools.
 

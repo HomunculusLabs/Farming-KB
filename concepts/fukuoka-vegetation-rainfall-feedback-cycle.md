@@ -1,4 +1,8 @@
-# Vegetation-Rainfall Feedback: Fukuoka's Insight That Rain Falls from Below
+---
+title: "Vegetation-Rainfall Feedback: Fukuoka's Insight That Rain Falls from Below"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Successful integration of fukuoka vegetation rainfall feedback cycle into broade
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

@@ -15,7 +15,7 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 
-# Permaculture Forest Pasture Polyculture
+## Permaculture Forest Pasture Polyculture
 
 ## The Seasonal Fodder Shortage Problem
 

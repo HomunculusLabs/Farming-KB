@@ -7,7 +7,7 @@ tags: [natural-farming, philosophy, agriculture, gardening]
 sources: [raw/papers/one-straw-revolution-masanobu-fukuoka.md]
 ---
 
-# Fukuoka One Straw Revolution Philosophy
+## Fukuoka One Straw Revolution Philosophy
 
 Masanobu Fukuoka's The One-Straw Revolution (1975) is a foundational text of natural farming. Fukuoka developed his method over 30 years on his family farm in Japan, arriving at a practice that requires no plowing, no fertilizers, no pesticides, and no weeding — producing yields comparable to conventional agriculture.
 

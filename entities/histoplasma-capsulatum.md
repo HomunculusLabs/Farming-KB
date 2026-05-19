@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Histoplasma capsulatum
+## Histoplasma capsulatum
 
 Histoplasma capsulatum is a dimorphic [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]] disease. It is one of the most important systemic [[blastomyces-dermatitidis]], it represents the most dangerous group of endemic fungal pathogens known.
 

@@ -19,7 +19,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Psilocybin Mushroom Cultivation
+## Psilocybin Mushroom Cultivation
 
 Techniques for cultivating psilocybin-containing mushrooms, drawn from historical methods, traditional practices, and modern mycological approaches. Based primarily on [[jochen-gartz]]'s comprehensive survey. See also [[mushroom-species-guide]] for species-specific cultivation data.
 

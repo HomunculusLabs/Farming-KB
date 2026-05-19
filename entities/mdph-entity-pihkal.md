@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDPH
+## MDPH
 [[mda]], simple, with no lines, no colors, no motion, no fantasy. I am
 > pleasantly stoned. The anorexia is real, as is the impotency. The
 > drop from the 4th to the 6th hour was softened by a modest amount of

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Trees and the Precipitation Cycle
+## Trees and the Precipitation Cycle
 
 ## Overview
 

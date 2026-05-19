@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Nutrition and Synthetic Media
+## Mushroom Nutrition and Synthetic Media
 
 ## Overview
 

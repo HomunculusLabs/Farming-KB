@@ -8,7 +8,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Constructed Wetlands vs Bioswales
+## Constructed Wetlands vs Bioswales
 
 Constructed wetlands and bioswales are two nature-based solutions for managing stormwater and treating polluted water. While both rely on vegetation, soil media, and biological processes, they differ significantly in design, capacity, and application. This comparison examines their strengths, limitations, and ideal use contexts.
 

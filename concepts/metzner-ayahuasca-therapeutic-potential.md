@@ -6,7 +6,7 @@ type: concept
 tags: [ayahuasca, therapy, amazon, brazil, hoasca, healing, ceremony]
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
-# Ayahuasca Therapeutic Potential
+## Ayahuasca Therapeutic Potential
 Ayahuasca, the Amazonian psychoactive brew, has demonstrated significant therapeutic
 potential across multiple contexts -- from traditional indigenous [[mushroom-cultivation-for-food-and-medicine]].
 ### Three Distinctive Features of Traditional Ceremonies

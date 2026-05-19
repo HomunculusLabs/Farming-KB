@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Monster-Cropping
+## Monster-Cropping
 
 Monster-cropping is a [[cannabis-vegetative-growth-stage]]. The re-vegged clones exhibit extreme branching and bushy growth patterns, producing unusually large, multi-cola plants. The technique is sometimes called "[[low-stress-training]]: bend and position the many branches for an even canopy
 - [[sea-of-green]]: not typically combined, as monster-cropped plants are large

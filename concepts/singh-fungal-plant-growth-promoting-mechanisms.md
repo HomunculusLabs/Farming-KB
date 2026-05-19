@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Plant Growth Promoting Mechanisms
+## Fungal Plant Growth Promoting Mechanisms
 
 Plant growth-promoting fungi (PGPF) encompass a diverse range of fungal
 organisms that enhance plant growth, nutrient acquisition, and stress

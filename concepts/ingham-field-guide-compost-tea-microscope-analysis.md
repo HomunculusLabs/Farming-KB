@@ -9,7 +9,7 @@ type: concept
 tags: [composting]
 ---
 
-# Compost Tea Microscope Analysis (Ingham Field Guide)
+## Compost Tea Microscope Analysis (Ingham Field Guide)
 
 The Ingham Field Guide strongly advocates direct microscopy over plate count methods for assessing compost tea biology. The Soil Foodweb Inc. (SFI) approach uses [[bioremediation-fungal-biomass-biosorbent-material]] (micrograms per ml), with hyphal diameter and length measurements
 - Fungal levels above 2 micrograms per ml provide good control of mildew, Verticillium, and blight

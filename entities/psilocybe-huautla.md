@@ -20,7 +20,7 @@ sources:
   - Wasson, R.G. (1963). "The Mushroom Seeker." Life Magazine, June 14
 ---
 
-# Psilocybe huautla
+## Psilocybe huautla
 
 **Psilocybe huautla** is a [[maria-sabina-and-mazatec-mushroom-ceremony]] use — this species is deeply intertwined with the [[maria-sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
 

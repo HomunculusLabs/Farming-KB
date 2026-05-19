@@ -7,7 +7,7 @@ type: concept
 sources: []
 ---
 
-# Mycoremediation Bioreactor Design Considerations
+## Mycoremediation Bioreactor Design Considerations
 
 Designing effective bioreactors for fungal pollutant degradation (mycoreactors) requires careful consideration of biological, physical, and operational parameters. Fungi present unique design challenges compared to bacteria due to their filamentous growth form, oxygen requirements, and sensitivity to shear forces.
 

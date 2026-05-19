@@ -8,7 +8,7 @@ sources: [encyclopedic knowledge base]
 type: comparison
 ---
 
-# Willow vs Poplar for Coppice and Bioenergy
+## Willow vs Poplar for Coppice and Bioenergy
 
 ## Overview / Summary
 

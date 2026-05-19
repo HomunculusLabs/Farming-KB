@@ -4,10 +4,10 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [water, conservation]
-sources: [/Users/t3rpz/wiki/raw/papers/what-a-plant-knows-daniel-chamovitz.md]
+sources: ["raw/papers/what-a-plant-knows-daniel-chamovitz.md"]
 ---
 
-# Stomata, Transpiration, and Plant Water Regulation
+## Stomata, Transpiration, and Plant Water Regulation
 
 Stomata (singular: stoma) are microscopic pores found primarily on the undersides of leaves. Despite being tiny -- typically 10-80 micrometers long and 5-15 wide -- they are arguably the most important regulatory structures in plants. Through stomata, plants take in CO2 for photosynthesis, [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] cells lack them). This allows guard cells to perform photosynthesis and generate the ATP needed for [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] of guard cells are thicker on the side facing the pore and thinner on the opposite side. When guard cells swell with water, the thinner walls stretch more, pulling the thicker walls apart and opening the stoma. When they lose water, they deflate and the stoma closes.
 

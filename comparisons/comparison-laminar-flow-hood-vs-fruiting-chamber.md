@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Laminar Flow Hood vs Fruiting Chamber
+## Laminar Flow Hood vs Fruiting Chamber
 
 ## Overview
 Laminar flow hoods and fruiting chambers serve different but complementary functions in mushroom

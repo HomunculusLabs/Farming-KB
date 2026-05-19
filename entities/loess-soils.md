@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Loess Soils
+## Loess Soils
 
 ## Description
 

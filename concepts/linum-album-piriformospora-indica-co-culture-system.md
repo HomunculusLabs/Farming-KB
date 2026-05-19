@@ -10,7 +10,7 @@ sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
 
-# Linum album and agar and
+## Linum album and agar and
 germinated at 25 plus or minus 2 degrees C in complete darkness.
 
 ### Callus and Suspension Culture Initiation

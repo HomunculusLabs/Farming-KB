@@ -8,7 +8,7 @@ type: concept
 tags: [nutrients]
 ---
 
-# Nitrogen Cycle and Organic Nitrogen Sources
+## Nitrogen Cycle and Organic Nitrogen Sources
 
 ## Overview
 

@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Ergot Fungi and Amanita as Neurotropic Species
+## Ergot Fungi and Amanita as Neurotropic Species
 
 Guzman, Allen, and Gartz (1998) classified 216 [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]] (Amanita species) and
 the ergot fungi (Claviceps and Cordyceps). These represent fundamentally

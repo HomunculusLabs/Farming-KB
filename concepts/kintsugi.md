@@ -6,7 +6,7 @@ sources: []
 type: concept
 tags: [reference]
 ---
-# Kintsugi
+## Kintsugi
 
 ## Overview
 Kintsugi is the Japanese practice of repairing broken ceramics with visible seams.

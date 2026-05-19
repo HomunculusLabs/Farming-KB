@@ -21,7 +21,7 @@ sources:
   - "Promusa: Banana Knowledge Platform. Bioversity International. https://www.promusa.org"
 ---
 
-# Banana and Plantain Cultivation and Variety Guide
+## Banana and Plantain Cultivation and Variety Guide
 
 Bananas and plantains (*Musa* spp.) are among the world's most important food crops, serving as a staple carbohydrate for over 400 million people across the tropics and subtropics. Though commonly called "trees," bananas are actually giant herbaceous plants — the world's largest herb — producing pseudostems from underground corms. Their rapid growth, high productivity, and continuous harvesting make them invaluable in [[psilocybe-southeast-asia-pacific]] and the Western Pacific. Wild species originated in the region stretching from India through Southeast Asia to northern Australia. The two primary wild progenitor species are:
 

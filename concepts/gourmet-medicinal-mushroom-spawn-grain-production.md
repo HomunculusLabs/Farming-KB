@@ -10,7 +10,7 @@ type: concept
 tags: [grain-spawn, medicine, mushroom-cultivation]
 ---
 
-# Gourmet and Medicinal Mushroom Spawn Grain Production
+## Gourmet and Medicinal Mushroom Spawn Grain Production
 
 Grain spawn is the critical bridge between laboratory culture and bulk cultivation. Each grain kernel becomes an individual mycelial capsule, a platform from which mycelium leaps into the surrounding substrate. The goal of grain spawn is to boost mycelium to a state of vigor sufficient for launch into [[cotter-grain-spawn-production]]. The choice depends on availability, cost, kernel size, and cultivator preference:
 

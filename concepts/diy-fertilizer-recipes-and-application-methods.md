@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# DIY Fertilizer Recipes and Application Methods
+## DIY Fertilizer Recipes and Application Methods
 
 Organic gardeners can blend their own complete fertilizers from readily available ingredients. The recipes and application strategies below are drawn from *Teaming with Nutrients* by Jeff Lowenfels, synthesizing the approaches of several experienced growers. The goal is to supply plants with balanced macronutrients (N-P-K) and micronutrients while feeding the soil food web that makes those nutrients available.
 

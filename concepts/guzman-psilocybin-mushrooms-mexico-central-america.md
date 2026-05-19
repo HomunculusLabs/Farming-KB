@@ -20,7 +20,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Psilocybin Mushrooms of Mexico and Central America
+## Psilocybin Mushrooms of Mexico and Central America
 
 Mexico has the highest number of neurotropic (hallucinogenic) fungal species of any
 country in the world, with **76 species** recorded, of which **44 belong to the genus

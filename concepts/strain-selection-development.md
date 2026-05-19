@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-tissue-culture-spore-germination|mushroom-cultivator-stamets.md"
 ---
 
-# Strain Selection and Development
+## Strain Selection and Development
 
 Strain selection and development is the process by which [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] grows old it is said to be senescing. A change from rhizomorphic to cottony mycelium should be treated as a warning that strain degeneration has begun. Senescent mycelium is far less vigorous and fertile than its younger counterpart.
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Endophyte Sampling Methods — Isolation, Culture, and Identification
+## Endophyte Sampling Methods — Isolation, Culture, and Identification
 
 Studying [[stamets-growing-room-air-circulation-co2-management]])
 - Prevent condensation and growth of superficial molds

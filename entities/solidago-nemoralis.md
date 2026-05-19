@@ -16,7 +16,7 @@ sources:
   - "USDA NRCS. \"Solidago nemoralis Ait.\" PLANTS Database."
 ---
 
-# Solidago nemoralis (Old-Field Goldenrod)
+## Solidago nemoralis (Old-Field Goldenrod)
 
 ## Overview
 

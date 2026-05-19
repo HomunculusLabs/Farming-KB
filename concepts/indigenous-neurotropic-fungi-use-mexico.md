@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Indigenous Use of [[psilocybe-zapotecorum]]*.
+## Indigenous Use of [[psilocybe-zapotecorum]]*.
 
 - **Apipiltzin** ("kid or little boy"): An indigenous name.
 

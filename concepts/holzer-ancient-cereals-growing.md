@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Ancient Cereals Growing
+## Holzer Ancient Cereals Growing
 
 [[permaculture-quinoa-growing-guide]] varieties at his Krameterhof farm at 1,000-1,500 meters altitude in Austria. These traditional varieties are well-suited to marginal conditions and require minimal inputs.
 

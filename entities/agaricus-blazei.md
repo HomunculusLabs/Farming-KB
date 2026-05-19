@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Agaricus blazei
+## Agaricus blazei
 
 **Type:** Species
 **Category:** Basidiomycete

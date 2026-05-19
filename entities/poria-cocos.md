@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Poria cocos
+## Poria cocos
 
 **Type:** Species
 **Category:** Basidiomycete (Polyporales)

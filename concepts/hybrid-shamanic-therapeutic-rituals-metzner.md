@@ -8,7 +8,7 @@ related:
 created: 2026-05-09
 ---
 
-# Hybrid Shamanic-Therapeutic Rituals
+## Hybrid Shamanic-Therapeutic Rituals
 
 ## Overview
 

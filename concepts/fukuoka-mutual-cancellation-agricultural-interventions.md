@@ -1,4 +1,8 @@
-# Mutual Cancellation in Nature: How Human Agricultural Interventions Cancel Themselves Out
+---
+title: "Mutual Cancellation in Nature: How Human Agricultural Interventions Cancel Themselves Out"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,6 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
-- [[fukuoka-philosophy-of-non-intervention]]
-- [[fukuoka-rice-dry-field-cultivation]]
-- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

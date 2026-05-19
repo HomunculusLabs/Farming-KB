@@ -7,7 +7,7 @@ tags: [mycorrhizal, ectomycorrhizal, fungi, symbiosis, networks]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Ectomycorrhizal Networks Overview
+## Ectomycorrhizal Networks Overview
 
 Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 1, 5, 10
 

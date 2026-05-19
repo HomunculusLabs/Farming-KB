@@ -6,7 +6,7 @@ created: 2026-05-08
 source: stuart-r-ayahuasca-tourism.md
 ---
 
-# Ayahuasca Tourism
+## Ayahuasca Tourism
 
 Ayahuasca tourism refers to the growing phenomenon of Western travelers journeying to South America — primarily Peru, Brazil, Ecuador, and Colombia — to participate in traditional or commercialized ayahuasca ceremonies under the guidance of indigenous or mestizo shamans.
 

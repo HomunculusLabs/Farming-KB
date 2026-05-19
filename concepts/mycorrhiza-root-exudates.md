@@ -8,7 +8,7 @@ sources: ["symbiotic-fungi.md"]
 type: concept
 ---
 
-# Mycorrhiza Root Exudates
+## Mycorrhiza Root Exudates
 
 ## Overview
 

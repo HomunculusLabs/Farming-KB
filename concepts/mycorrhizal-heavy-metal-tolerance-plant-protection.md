@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Heavy Metal Tolerance and Plant Protection
+## Mycorrhizal Heavy Metal Tolerance and Plant Protection
 
 [[mycorrhizal-fungi]] protect host plants from the toxic effects of heavy metals
 through several complementary mechanisms. Their ability to sequester metals in

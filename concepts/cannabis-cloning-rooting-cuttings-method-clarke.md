@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# Cannabis Cloning and Rooting Cuttings Detailed Method (Clarke)
+## Cannabis Cloning and Rooting Cuttings Detailed Method (Clarke)
 
 ## Principle of Asexual Propagation
 

@@ -5,7 +5,7 @@ source_id: mckenna-food-of-the-gods
 topics: [soma, haoma, zoroastrianism, indo-iranian, entheogen-history, vedic-religion, ancient-persia]
 ---
 
-# Haoma and Zoroaster - The Iranian Counterpart to Soma
+## Haoma and Zoroaster - The Iranian Counterpart to Soma
 
 ## The Indo-Iranian Sacred Drink Tradition
 

@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Composting Toilets vs Greywater Systems
+## Composting Toilets vs Greywater Systems
 
 ## Overview
 Composting toilets and greywater systems are complementary permaculture

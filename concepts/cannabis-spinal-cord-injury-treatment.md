@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Treatment for Spinal Cord Injuries
+## Cannabis Treatment for Spinal Cord Injuries
 
 Spinal cord injuries represent one of the most devastating forms of
 trauma, often resulting in permanent paralysis, [[cannabis-endocannabinoid-system]]. The spinal cord is a relatively thick bundle of nerves descending from the medulla oblongata through the center of the spine. Along its length, spinal cord nerves create junctions and exit between each vertebra to connect all parts of the body through ever-smaller branching nerve fibers.

@@ -4,7 +4,7 @@ source: chos-global-natural-farming.md
 type: concept
 ---
 
-# Cho's Global Natural Farming: Philosophy and Nutritive Cycle Theory
+## Cho's Global Natural Farming: Philosophy and Nutritive Cycle Theory
 
 Dr. [[cho-han-kyu]]'s Natural Farming (NF) is a comprehensive agricultural system developed in South Korea that eliminates chemical inputs by harnessing [[beneficial-indigenous-microorganisms]] (IMOs) and locally available natural materials. This concept covers the foundational philosophy, the [[nutritive-cycle-theory]], and the core principles of the system.
 

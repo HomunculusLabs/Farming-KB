@@ -1,4 +1,8 @@
-# [[neurotropic-fungi]] in Oaxaca, he experienced colored hallucinations
+---
+title: "neurotropic fungi in Oaxaca, he experienced colored hallucinations"
+tags:
+  - concept
+---
 despite having consumed no mushrooms. He had been sleeping in a small, closed room of
 an Indian home that was filled with a large collection of fresh or semi-fermented
 specimens of mixed *Psilocybe* species (*P. caerulescens*, *P. cordispora*, *P.
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 Successful integration of psilocybin chemistry stability indigenous knowledge into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

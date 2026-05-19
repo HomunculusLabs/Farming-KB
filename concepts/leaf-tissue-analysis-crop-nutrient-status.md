@@ -7,7 +7,7 @@ tags: [plant-nutrition, nutrient-analysis, crop-monitoring, diagnostics]
 sources: []
 ---
 
-# Leaf Tissue Analysis for Crop Nutrient Status
+## Leaf Tissue Analysis for Crop Nutrient Status
 
 ## Overview
 

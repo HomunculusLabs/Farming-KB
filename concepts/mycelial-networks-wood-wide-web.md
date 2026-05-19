@@ -1,4 +1,8 @@
-# Mycelial Networks and the Wood Wide Web
+---
+title: "Mycelial Networks and the Wood Wide Web"
+tags:
+  - concept
+---
 
 ## Overview
 

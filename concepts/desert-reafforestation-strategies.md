@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Desert Reafforestation Strategies
+## Desert Reafforestation Strategies
 
 A comprehensive set of permaculture techniques for reclaiming and rehabilitating arid and desertified landscapes, drawing on global case studies from China, the Middle East, Australia, and the Americas. [[bill-mollison]]'s approach treats desertification not as an irreversible catastrophe but as a condition addressable through systematic, ecologically informed intervention.
 

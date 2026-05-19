@@ -8,7 +8,7 @@ type: concept
 tags: [culture, fruit-tree, permaculture, plants, tree-crop]
 ---
 
-# Permaculture Fruit Trees for Temperate Climates
+## Permaculture Fruit Trees for Temperate Climates
 
 Temperate fruit trees thrive in regions with cold winters and warm summers, typically requiring winter chilling hours for proper fruit set. This page covers the less-common temperate fruit species from the source that are particularly valuable in permaculture systems for their multi-functionality, resilience, and productivity.
 

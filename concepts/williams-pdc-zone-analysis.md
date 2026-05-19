@@ -6,7 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md] type: concept ---
 ---
-# Permaculture Zone Analysis
+## Permaculture Zone Analysis
 
 [[bill-mollison]] in the Permaculture: A Designers' Manual and remains one of the foundational tools in any
 [[mollison-lawn-reform-and-alternatives-in-permaculture-design]],

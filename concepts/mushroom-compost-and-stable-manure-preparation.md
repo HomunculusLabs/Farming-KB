@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Compost and Stable Manure Preparation
+## Mushroom Compost and Stable Manure Preparation
 
 ## Overview
 

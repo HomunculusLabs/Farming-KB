@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Flowform Water Aeration Design
+## Flowform Water Aeration Design
 
 **Flowforms** are sculpted water vessels that use natural turbulence patterns to aerate and oxygenate water. Developed at the Virbella Institute, Emerson College (Forest Row, East Sussex, UK), they represent a sophisticated fusion of art, hydrology, and ecological engineering — creating functional art that purifies water while serving as aesthetically pleasing landscape elements.
 

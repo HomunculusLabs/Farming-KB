@@ -1,4 +1,8 @@
-# DMT-Containing Plants Growing in the United States
+---
+title: "DMT-Containing Plants Growing in the United States"
+tags:
+  - concept
+---
 
 ## Overview
 

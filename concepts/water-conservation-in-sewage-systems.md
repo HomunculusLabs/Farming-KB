@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Conservation in Sewage Systems
+## Water Conservation in Sewage Systems
 
 [[bill-mollison]] identified that up to 40% of domestic water use goes to toilet flushing alone, and advocated for practical alternatives ranging from handbasin-diversion toilets to dry [[composting-systems]], alongside a critical analysis of the chemical pollutants introduced through wastewater.
 

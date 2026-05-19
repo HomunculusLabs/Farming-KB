@@ -19,7 +19,7 @@ sources:
   - https://www.erowid.org/plants/salvia/salvia_chemistry.shtml
 ---
 
-# Salvinorin A
+## Salvinorin A
 
 ## Overview
 

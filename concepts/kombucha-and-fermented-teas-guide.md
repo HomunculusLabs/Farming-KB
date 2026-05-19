@@ -7,7 +7,7 @@ tags: [preservation, food]
 sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
-# Kombucha and Fermented Teas Guide
+## Kombucha and Fermented Teas Guide
 
 Kombucha is a fermented tea beverage that has been consumed for thousands of years, traditionally in [[lactobacillus]] species: Contribute [[camellia-sinensis]]) to ensure adequate nitrogen for the culture.
 - Sugar: White cane sugar is standard. The SCOBY consumes most of the sugar during fermentation. Avoid honey (it has [[bionutrients-lab-fermented-fruit-juice-ffj]]: Pomegranate, cranberry, apple, grape

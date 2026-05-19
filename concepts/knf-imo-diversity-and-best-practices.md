@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF IMO Diversity and Best Practices
+## KNF IMO Diversity and Best Practices
 
 [[query-jadam-vs-korean-natural-farming]]
 Farming's approach to soil health. Dr. Cho established specific

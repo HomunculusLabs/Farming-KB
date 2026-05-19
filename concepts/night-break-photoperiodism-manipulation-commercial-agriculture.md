@@ -5,7 +5,7 @@ tags: [agriculture, photoperiodism, night-break, flowering, commercial-horticult
 source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Night-Break Photoperiodism Manipulation in Commercial Agriculture
+## Night-Break Photoperiodism Manipulation in Commercial Agriculture
 
 ## Overview
 

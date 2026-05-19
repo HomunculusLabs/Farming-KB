@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Oomycete Zoospore Biology: Flagella, Chemotaxis, and Galvanotaxis
+## Oomycete Zoospore Biology: Flagella, Chemotaxis, and Galvanotaxis
 
 Oomycete water molds produce some of the most sophisticated motile cells in the [[bloomfield-potato-blight-phytophthora-infestans]] pathogen, partition their cytoplasm inside the sporangium but similarly shift the contents into a bag before release. In both genera, the swimming cells released are kidney-shaped secondary-type zoospores rather than the teardrop-shaped primary spores of Saprolegnia.
 

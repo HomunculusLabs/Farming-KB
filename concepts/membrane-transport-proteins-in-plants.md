@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Membrane Transport Proteins in Plants
+## Membrane Transport Proteins in Plants
 
 The [[plasmalemma]] (plasma membrane) is a flowing wall with the viscosity of olive oil, punctuated by thousands of specialized transmembrane proteins that regulate virtually all molecular traffic into and out of plant cells. Because everything a cell needs to duplicate and maintain itself must cross at least one plasma membrane, plants dedicate enormous amounts of DNA to producing these specific transport proteins. These proteins fall into three distinct categories: **channels**, **carriers**, and **pumps**.
 

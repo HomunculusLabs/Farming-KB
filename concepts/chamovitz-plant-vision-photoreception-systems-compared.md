@@ -5,7 +5,7 @@ tags: [plant-biology, photoreception, vision, photoreceptor, phytochrome, crypto
 source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Chamovitz Plant Vision — Photoreception Systems Compared
+## Chamovitz Plant Vision — Photoreception Systems Compared
 
 ## Overview
 

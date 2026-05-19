@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungi in the Classroom
+## Fungi in the Classroom
 
 Hands-on fungal activities help students of all ages develop skills in
 observation, scientific methodology, and ecological understanding. Lesson plans

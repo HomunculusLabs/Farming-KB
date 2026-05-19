@@ -9,7 +9,7 @@ type: concept
 tags: [soil]
 ---
 
-# Soil Food Web Assessment (Ingham Field Guide)
+## Soil Food Web Assessment (Ingham Field Guide)
 
 The Ingham Field Guide frames soil health assessment around the complete soil foodweb -- bacteria, fungi, protozoa, nematodes, microarthropods, and earthworms -- rather than single indicators. Assessment is the essential first step before any AACT application.
 

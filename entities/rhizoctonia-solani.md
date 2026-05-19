@@ -5,10 +5,10 @@ type: species
 tags: [plant-pathogen, basidiomycete, soil-borne, mycelial-growth, model-organism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Rhizoctonia solani
+## Rhizoctonia solani
 
 Rhizoctonia solani is a ubiquitous soil-borne basidiomycete fungus
 that serves as both a major plant pathogen and a reference model

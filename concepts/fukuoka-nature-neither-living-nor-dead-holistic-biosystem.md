@@ -6,7 +6,7 @@ type: concept
 tags: [natural-farming, fukuoka, nature-philosophy, holistic-biosystem, scientific-reductionism-critique, nature-as-organic-whole, anti-classification]
 ---
 
-# Nature Is Neither Living Nor Dead — The Holistic Biosystem
+## Nature Is Neither Living Nor Dead — The Holistic Biosystem
 
 ## Summary
 

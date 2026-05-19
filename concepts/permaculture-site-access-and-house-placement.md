@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Site Access and House Placement
+## Permaculture Site Access and House Placement
 
 [[site-resources-and-access-placement]] is the first move [[ecological-succession-in-permaculture-design]], followed immediately by house site selection. These two decisions lock in the energy efficiency, maintenance costs, and livability of the entire property for decades or centuries. Get them wrong, and no amount of clever planting or water management can compensate. Mollison's treatment of these topics is characteristically direct: "Placing access is your first move."
 

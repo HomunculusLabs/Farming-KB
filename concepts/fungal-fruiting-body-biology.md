@@ -6,7 +6,7 @@ created: 2026-05-10
 source: Nicholas P. Money - Mr. Bloomfield's Orchard
 ---
 
-# Fungal Fruiting Body Biology
+## Fungal Fruiting Body Biology
 
 Fungal fruiting bodies are the visible, spore-producing structures that most
 people recognize as mushrooms, toadstools, brackets, puffballs, and other

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 
-# Fungal Formulation for In-Situ Bioremediation
+## Fungal Formulation for In-Situ Bioremediation
 
 Successful deployment of fungi for in-situ [[fungal-bioaugmentation]]
 

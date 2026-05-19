@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Von Liebig Law of the Minimum and Fertilizer History
+## Von Liebig Law of the Minimum and Fertilizer History
 
 ## Von Liebig's Law of the Minimum
 

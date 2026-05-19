@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# LSD Tragedy and Transcendence — Personal Encounters and Philosophical Reflections
+## LSD Tragedy and Transcendence — Personal Encounters and Philosophical Reflections
 
 ## Overview
 

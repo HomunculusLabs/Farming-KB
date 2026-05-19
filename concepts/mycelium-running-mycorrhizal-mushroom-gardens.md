@@ -7,7 +7,7 @@ type: concept
 tags: [gardening, mushroom-cultivation, mycelium, mycology, mycorrhizal]
 ---
 
-# Mycorrhizal Mushroom Gardens and Cultivation
+## Mycorrhizal Mushroom Gardens and Cultivation
 
 Growing mycorrhizal mushrooms has proven far more challenging than
 cultivating saprophytic species. These fungi form obligate partnerships

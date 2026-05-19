@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# fungal-culture-preservation-methods, each taking a fundamentally different approach to extending
+## fungal-culture-preservation-methods, each taking a fundamentally different approach to extending
 the harvest. Root cellaring stores whole foods in their natural state using the
 earth's stable [[canning-and-preserving]]
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# TMA-2 — 2,4,5-Trimethoxyamphetamine
+## TMA-2 — 2,4,5-Trimethoxyamphetamine
 
 ## Overview
 

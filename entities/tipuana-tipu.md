@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Tipuana tipu
+## Tipuana tipu
 
 **Type:** Species
 **Category:** Nitrogen-fixing [[tagasaste-nurse-crop-fodder-systems]]:** Grown as shade for coffee and other crops needing

@@ -21,7 +21,7 @@ sources:
 - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-# Mythological Mushroom Symbolism
+## Mythological Mushroom Symbolism
 
 The symbolic vocabulary through which mushrooms — particularly [[amanita-muscaria]] — were encoded in world mythology, religious art, and cultural traditions. [[james-arthur]] catalogs 40+ names and symbols that he argues all refer to the mushroom across cultures, representing different views of the same organism at various stages of its lifecycle.
 

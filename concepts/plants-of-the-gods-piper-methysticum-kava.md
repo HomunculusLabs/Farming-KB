@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Piper methysticum: Kava-Kava
+## Piper methysticum: Kava-Kava
 
 ## The Pacific Island Hypnotic
 

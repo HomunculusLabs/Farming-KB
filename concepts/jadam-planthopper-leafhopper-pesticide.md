@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Citrus Planthopper and Leafhopper Pesticide (JADAM Recipe #8)
+## Citrus Planthopper and Leafhopper Pesticide (JADAM Recipe #8)
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Stone Cellar Construction
+## Stone Cellar Construction
 
 Stone cellars represent the most permanent and durable approach to crop
 storage in [[holzer-roundwood-shelters-earth-cellars]], stone cellars

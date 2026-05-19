@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Calendula vs St. John's Wort
+## Calendula vs St. John's Wort
 
 ## Overview
 

@@ -19,7 +19,7 @@ tags:
   - synthetic-cannabinoid
 ---
 
-# Cannabis and Rhabdomyosarcoma (HU210 / THC)
+## Cannabis and Rhabdomyosarcoma (HU210 / THC)
 
 ## Overview
 

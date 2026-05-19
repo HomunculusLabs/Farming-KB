@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# jadam microbe culturing stages and indicators
+## jadam microbe culturing stages and indicators
 
 Successfully culturing JADAM indigenous [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]. The
 key principle is that foam quantity and quality directly reflect the number

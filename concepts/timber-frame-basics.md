@@ -7,7 +7,7 @@ tags: [construction, homesteading, sustainability, off-grid, permaculture]
 sources: []
 ---
 
-# Timber Frame Basics
+## Timber Frame Basics
 
 Timber framing is a traditional building method where large timbers are joined together with wooden connections (joinery) rather than nails or metal fasteners. The resulting structural frame is strong, durable, and beautiful, with timbers often left exposed as an architectural feature. Timber frames pair naturally with natural infill materials like straw bales, light straw-clay, and hempcrete.
 

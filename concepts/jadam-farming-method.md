@@ -8,7 +8,7 @@ sources: [jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Farming Method
+## JADAM Farming Method
 
 JADAM (Jayonul Damun Saramdul, meaning "people who are
 like nature") is a revolutionary [[jadam-natural-pesticide-institute-and-research]]

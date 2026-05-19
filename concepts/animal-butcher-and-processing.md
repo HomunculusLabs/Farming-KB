@@ -6,7 +6,7 @@ type: concept
 tags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
 sources: []
 ---
-# Animal Butcher and Processing
+## Animal Butcher and Processing
 On-farm slaughter and processing is a fundamental homesteading skill that
 provides complete control over meat quality, animal welfare at harvest, and
 food safety. Processing your own animals eliminates processing fees and

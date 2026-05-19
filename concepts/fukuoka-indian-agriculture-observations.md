@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Indian Agriculture Observations
+## Fukuoka Indian Agriculture Observations
 
 While Fukuoka did not make an extended visit to India, his interactions with Indian thinkers and his analysis of Indian agriculture -- particularly at the 1985 international conferences -- provide significant observations about traditional Indian farming and its parallels with [[fukuoka-natural-farming]] principles.
 

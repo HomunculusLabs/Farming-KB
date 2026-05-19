@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Direct-Seeded No-Tillage Rice Barley Clover Succession
+## Direct-Seeded No-Tillage Rice Barley Clover Succession
 
 The direct-seeded, no-tillage, winter grain and rice succession in a clover cover
 is the central practical method of Masanobu Fukuoka's [[cervantes-chemical-fertilizers-guide]],

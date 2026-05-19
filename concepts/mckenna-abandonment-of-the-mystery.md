@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# The Abandonment of the Mystery
+## The Abandonment of the Mystery
 
 ## Four Stages of Loss
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, mycelium, morphology, basidiomycete, nutrient-transport, ecology]
 ---
 
-# Mycelial Cord
+## Mycelial Cord
 
 ## Description
 

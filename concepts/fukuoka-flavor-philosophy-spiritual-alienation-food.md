@@ -1,3 +1,8 @@
+---
+title: "Fukuoka Flavor Philosophy Spiritual Alienation Food"
+tags:
+  - concept
+---
 
 Fukuoka's philosophy of flavor goes far beyond the simple
 question of what tastes good. He argues that modern man has
@@ -143,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]
-- [[fukuoka-rice-dry-field-cultivation]]
-- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

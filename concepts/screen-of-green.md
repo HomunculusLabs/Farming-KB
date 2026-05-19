@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Screen of Green (SCROG)
+## Screen of Green (SCROG)
 
 Screen of Green (SCROG) is a plant training technique that uses a horizontal screen, trellis, or net to create an even canopy of bud sites. Cervantes defines SCROG as "a growing method which involves training cannabis shoots onto a net, trellis, or chicken wire." Unlike [[fimming]] to create more branch points at the screen
 - Use [[stamets-growing-room-air-circulation-co2-management]] and a supply of fresh air are essential." An oscillating fan positioned to blow across the canopy surface helps [[sea-of-green]] -- alternative high-density method using many small plants

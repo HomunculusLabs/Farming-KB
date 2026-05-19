@@ -6,7 +6,7 @@ created: 2026-05-10
 source: [[terence-mckenna]] - Food of the Gods
 ---
 
-# The Eleusinian Mysteries
+## The Eleusinian Mysteries
 
 The Eleusinian Mysteries were the most important religious [[egyptian-pyramid-initiation-rites]]
 of [[psychedelic-use-in-ancient-greece]], conducted annually at Eleusis near Athens for nearly two

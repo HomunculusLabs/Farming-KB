@@ -6,7 +6,7 @@ source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 created: 2026-05-09
 ---
 
-# Psycholytic and Psychedelic Therapy Models
+## Psycholytic and Psychedelic Therapy Models
 
 The use of [[metzner-grof-perinatal-matrices-and-transpersonal-realms]].
 

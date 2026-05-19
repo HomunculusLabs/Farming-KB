@@ -5,10 +5,10 @@ type: person
 tags: [psychiatrist, lsd-therapy, sandoz-researcher, swiss-medicine, psycholytic-therapy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+sources: ["raw/papers/hofmann-a-lsd-my-problem-child.md"]
 ---
 
-# Walter Stoll
+## Walter Stoll
 
 **Walter Robert Stoll** (1910–1996) was a Swiss psychiatrist and the son of Arthur Stoll, a close colleague and collaborator of Albert Hofmann at Sandoz Pharmaceuticals. Walter Stoll played a pivotal role in the early clinical investigation of **LSD** as a therapeutic agent, conducting the first systematic psychiatric studies of the compound's effects on human patients.
 

@@ -7,7 +7,7 @@ sources:
   - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 
-# How Do I Forage for Common Wild Edible Plants Safely?
+## How Do I Forage for Common Wild Edible Plants Safely?
 
 ## Short Answer
 

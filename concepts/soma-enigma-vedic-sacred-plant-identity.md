@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# The Soma Enigma: The Identity of the Vedic Sacred Plant
+## The Soma Enigma: The Identity of the Vedic Sacred Plant
 
 ## Overview
 

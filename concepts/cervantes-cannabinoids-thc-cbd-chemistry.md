@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Cannabinoids: THC, CBD, and Chemistry
+## Cannabis Cannabinoids: THC, CBD, and Chemistry
 
 Cannabis is the only plant genus that produces a unique class of
 [[delta-8-thc]] is found in very low concentrations in cannabis. It also

@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal]
 sources: []
 ---
-# 2-Br-4,5-MDA
+## 2-Br-4,5-MDA
 
 **[[mda]] molecule,
 adding a bromine atom to the 2-position of the aromatic ring. The reaction

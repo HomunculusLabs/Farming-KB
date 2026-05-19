@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Duck Rice Fish Polyculture
+## Fukuoka Duck Rice Fish Polyculture
 
 Updated: 2026-04-19
 

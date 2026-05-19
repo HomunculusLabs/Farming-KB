@@ -1,4 +1,8 @@
-# History of Commercial Mushroom Cultivation
+---
+title: "History of Commercial Mushroom Cultivation"
+tags:
+  - concept
+---
 
 The history of commercial mushroom cultivation is a remarkable story of agricultural
 innovation that stretches from the underground quarries of seventeenth-century France

@@ -8,7 +8,7 @@ type: concept
 tags: [history, mushroom-cultivation]
 ---
 
-# Mushrooms in Ancient Civilizations
+## Mushrooms in Ancient Civilizations
 
 ## From "Shroom: A Cultural History of the Magic Mushroom" by [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], though equally likely to be entirely decorative
 - **Hildesheim Cathedral doors**: A panel that looks like a giant [[liberty-cap-british-discovery-1970s]] is actually a stylised fig-tree from a coherent biblical narrative

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Sizing and Land Requirements
+## Garden Sizing and Land Requirements
 
 Determining the right amount of land for a productive food garden is one of the most important decisions a gardener can make. Steve Solomon, in *Gardening When It Counts*, provides detailed guidance based on historical precedents, personal experience, and practical analysis of what it takes to meaningfully contribute to a household's food supply.
 

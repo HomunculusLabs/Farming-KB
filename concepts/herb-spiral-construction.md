@@ -7,7 +7,7 @@ tags: [gardening, permaculture, design, plants, homesteading]
 sources: []
 ---
 
-# Herb Spiral Construction
+## Herb Spiral Construction
 
 An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant Mediterranean herbs at the top — all within a 5-6 foot diameter circle.
 

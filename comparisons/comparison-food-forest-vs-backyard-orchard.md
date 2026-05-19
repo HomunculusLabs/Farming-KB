@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Food Forest vs Backyard Orchard
+## Food Forest vs Backyard Orchard
 A comparison of two approaches to perennial food production with fruit trees at their center.
 ## Overview
 Food forests mimic natural forest structure with seven vertical layers of edible and useful plants arranged in mutually beneficial relationships. Backyard orchards focus on practical tree fruit production using rootstock selection, pollination planning, and smart spacing to maximize fruit yield in limited space.

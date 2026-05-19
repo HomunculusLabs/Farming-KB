@@ -17,7 +17,7 @@ sources:
   - Greenhouse Seeds breeding records (Netherlands)
 ---
 
-# Jack Herer
+## Jack Herer
 
 **Jack Herer** (often capitalized as **JH**) is a legendary sativa-dominant [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] |
 | **[[cannabis-glandular-trichome-types-resin-production-clarke]], reduced flowering time, compact structure |

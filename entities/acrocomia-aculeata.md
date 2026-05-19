@@ -17,7 +17,7 @@ sources:
   - Noblick, L.R. (2017). "A revision of Acrocomia (Arecaceae)." Phytotaxa, 305(1), 1–77.
 ---
 
-# Acrocomia aculeata
+## Acrocomia aculeata
 
 ## Overview
 

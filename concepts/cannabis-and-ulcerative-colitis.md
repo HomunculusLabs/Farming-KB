@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Ulcerative Colitis
+## Cannabis and Ulcerative Colitis
 
 **Source:** The [[blesching-cannabis-inflammatory-bowel-disease]] disease (IBD) that causes long-lasting inflammation and ulcers (sores) in the innermost lining of the large intestine (colon) and rectum. Symptoms typically develop over time and include abdominal pain, cramping, diarrhea (often with blood), rectal bleeding, urgency to defecate, weight loss, fatigue, and fever. Orthodox treatment includes anti-inflammatory drugs, immunosuppressants, and surgery (colectomy) in severe cases.
 

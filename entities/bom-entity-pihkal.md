@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# BOM
+## BOM
 
 [[2c-b-pihkal-entry-20]] #17. 3,4,5,beta-Tetramethoxy-PEA.
 

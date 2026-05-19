@@ -10,7 +10,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Enoki Cultivation
+## Enoki Cultivation
 
 Enoki ([[ethnomycology-cultural-significance-sacred-fungi]]:
 - Enokitake (Japanese: "Snow Peak Mushroom")

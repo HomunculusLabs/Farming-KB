@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [regional, africa, kenya, small-scale]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# [[query-how-to-grow-oyster-mushrooms-at-home]] for Kenya include ease of
+## [[query-how-to-grow-oyster-mushrooms-at-home]] for Kenya include ease of
 growing, high yields, high fruiting temperature tolerance, and high
 nutritional content.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [fungi, nutrients]
 ---
 
-# Fungal Roles in Nutrient Cycling
+## Fungal Roles in Nutrient Cycling
 
 Dighton (2003) presents fungi as central regulators of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] with the decomposition process, with synergistic
 interactions between saprotrophic and mycorrhizal communities.

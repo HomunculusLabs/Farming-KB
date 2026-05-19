@@ -19,7 +19,7 @@ sources:
   - https://doi.org/10.1016/B978-0-12-819629-0.00010-3
 ---
 
-# Coniine
+## Coniine
 
 **Coniine** (systematically 2-propylpiperidine) is a highly toxic piperidine alkaloid found primarily in poison hemlock (*[[conium-maculatum]]*). It is one of the most infamous plant-derived neurotoxins in Western history, having been used to execute the Greek philosopher Socrates in 399 BCE. Coniine acts as a non-depolarizing neuromuscular blocker by antagonizing nicotinic acetylcholine receptors, ultimately causing death by respiratory paralysis while the victim remains conscious.
 

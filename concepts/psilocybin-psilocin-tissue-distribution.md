@@ -6,7 +6,7 @@ created: 2026-05-10
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 
-# Psilocybin and Psilocin Tissue Distribution
+## Psilocybin and Psilocin Tissue Distribution
 
 The distribution of psilocybin and psilocin between the cap (pileus) and stem (stipe) of *[[fungal-biogeography-distribution-patterns]] were observed for psilocybin:
 

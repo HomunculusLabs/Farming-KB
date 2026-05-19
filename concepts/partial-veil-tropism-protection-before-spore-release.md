@@ -7,7 +7,7 @@ tags: [mycology, mushroom-anatomy, mushroom-physiology, fungal-development]
 sources: [raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md]
 ---
 
-# Partial Veil Tropism Protection Before Spore Release
+## Partial Veil Tropism Protection Before Spore Release
 
 The partial veil (also called the inner veil or cortina) is a membranous tissue that extends from the stipe to the margin of the pileus in many agaric mushrooms, covering the developing gills during early development. Badham (1982) proposed that one of the functions of the partial veil may be to protect the uppermost and unexpanded portion of the stipe from wind and light prior to the final readjustment of the cap before spore release, thereby preventing premature tropic responses that could misorient the [[psilocybe-cubensis-development-stages]] revealed two distinct phases of [[evaporative-demand-hypothesis-mushroom-tropism]]
 - Growth is into the wind, regardless of light direction

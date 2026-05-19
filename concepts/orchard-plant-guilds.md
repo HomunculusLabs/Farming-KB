@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Orchard Plant Guilds
+## Orchard Plant Guilds
 
 Orchard plant guilds are integrated assemblages of beneficial plants and organisms designed to support pome and stone fruit trees in permaculture systems. Drawing from [[symphytum-officinale]]*) — the quintessential permaculture accumulator plant; its deep taproot mines potassium, calcium, and other minerals; leaves can be cut several times per season for nutrient-rich mulch
 - **Dandelion** (*Taraxacum officinale*) — dynamic accumulator with a deep taproot that breaks compacted soil; flowers provide early nectar for pollinators

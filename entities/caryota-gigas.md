@@ -17,7 +17,7 @@ sources:
   - Fox, H.E. (1997). "Caryota in cultivation." Principes 41(2): 63–78.
 ---
 
-# Caryota gigas
+## Caryota gigas
 
 ## Overview
 

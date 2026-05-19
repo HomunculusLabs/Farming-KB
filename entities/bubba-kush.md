@@ -28,7 +28,7 @@ sources:
   - https://www.allbud.com/marijuana-strains/indica/bubba-kush
 ---
 
-# Bubba Kush
+## Bubba Kush
 
 ## Overview
 

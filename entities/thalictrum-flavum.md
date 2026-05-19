@@ -15,7 +15,7 @@ sources:
   - Leighton-Boyce, K. (2007). "Thalictrum in Cultivation." The Plantsman 6(3): 158–163.
 ---
 
-# Thalictrum flavum
+## Thalictrum flavum
 
 ## Overview
 

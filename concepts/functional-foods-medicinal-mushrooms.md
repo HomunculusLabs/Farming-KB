@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms]
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 ---
-# Functional Foods and Medicinal Mushrooms The intersection of functional food science and medicinal mushroom research represents a growing area where nutrition meets pharmacology. Medicinal mushrooms occupy a unique position between traditional food and therapeutic medicine, straddling regulatory categories that vary dramatically across countries. ## Functional Foods: Definition Functional foods are defined as foods that provide health [[cotter-mushroom-products-and-value-added-applications]] (e.g., maitake extract, reishi extract) can be registered as FOSHU
+## Functional Foods and Medicinal Mushrooms The intersection of functional food science and medicinal mushroom research represents a growing area where nutrition meets pharmacology. Medicinal mushrooms occupy a unique position between traditional food and therapeutic medicine, straddling regulatory categories that vary dramatically across countries. ## Functional Foods: Definition Functional foods are defined as foods that provide health [[cotter-mushroom-products-and-value-added-applications]] (e.g., maitake extract, reishi extract) can be registered as FOSHU
 - Separate pharmaceutical pathway exists for purified compounds (PSK, lentinan, schizophyllan)
 
 ### United States: Dietary Supplement Framework

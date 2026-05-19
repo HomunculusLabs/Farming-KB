@@ -5,9 +5,9 @@ type: species
 tags: [mycology, cultivation, gourmet-mushrooms, pleurotus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Pleurotus cornucopiae Pleurotus cornucopiae, commonly known as the Branched Oyster or the Horn of Plenty Mushroom, is an edible Oyster mushroom species valued for its attractive appearance and good flavor. Related to the more commonly cultivated [[pleurotus-eryngii]] for the King Oyster.
+## Pleurotus cornucopiae Pleurotus cornucopiae, commonly known as the Branched Oyster or the Horn of Plenty Mushroom, is an edible Oyster mushroom species valued for its attractive appearance and good flavor. Related to the more commonly cultivated [[pleurotus-eryngii]] for the King Oyster.
 
 ## Taxonomy and Description
 

@@ -9,7 +9,7 @@ type: concept
 tags: [cultivation, history, mushroom-cultivation]
 ---
 
-# Mushroom Home Cultivation History
+## Mushroom Home Cultivation History
 
 The development of reliable methods for cultivating [magic mushrooms at home was
 one of the key factors in their global dissemination. From the first laboratory successes of [[roger-heim]] to the revolutionary techniques of [Terence McKenna and the notorious

@@ -13,7 +13,7 @@ topics:
   - sativa
 ---
 
-# East Coast Sour Diesel Clone-Only Lineage and Chemdawg Family Tree
+## East Coast Sour Diesel Clone-Only Lineage and Chemdawg Family Tree
 
 ## Overview
 

@@ -6,7 +6,7 @@ source: uwe blesching the cannabis health index
 created: 2026-05-10
 ---
 
-# Endocannabinoid System
+## Endocannabinoid System
 
 The endocannabinoid system (ECS) is a biological regulatory mechanism present in all mammals, identified scientifically in 1990 through research into the cannabis plant, for which it is named. The ECS operates much like a lock-and-key system: cannabinoid receptors (the locks) are embedded in cell membranes throughout the body, and cannabinoids (the keys) activate them to initiate physiological and psychological changes. It is one of the most important physiological systems involved in establishing and maintaining human health.
 

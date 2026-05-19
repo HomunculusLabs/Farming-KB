@@ -6,7 +6,7 @@ tags: [mycology, psilocybin, psilocin, biosynthesis, flush-variation, psilocybe-
 created: 2026-05-09
 ---
 
-# Psilocybin and Psilocin Biosynthetic Timing and First-Flush Absence
+## Psilocybin and Psilocin Biosynthetic Timing and First-Flush Absence
 
 ## Overview
 

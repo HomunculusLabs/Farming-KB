@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Selman Waksman
+## Selman Waksman
 
 ## Description
 

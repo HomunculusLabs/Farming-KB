@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Food Forest vs Polyculture
+## Food Forest vs Polyculture
 
 ## Overview
 Food forests and polycultures both embrace diversity as the foundation of productive

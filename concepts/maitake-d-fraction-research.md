@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 ---
-# Maitake D-Fraction Research
+## Maitake D-Fraction Research
 
 [[lentinan-pre-clinical-antitumour-models]] or schizophyllan-research|schizophyllan, which typically require injection.
 

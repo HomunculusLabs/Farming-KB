@@ -5,10 +5,10 @@ type: chemical
 tags: [polysaccharide, immunomodulator, anti-tumor, medicinal-mushroom]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Beta-Glucans
+## Beta-Glucans
 
 Beta-glucans (beta-D-glucans) are a heterogeneous group of polysaccharides composed of beta-D-glucose monomers linked by beta-glycosidic bonds. Found in the cell walls of fungi, yeast, bacteria, and cereals, fungal beta-glucans are among the most extensively studied immunomodulatory compounds from medicinal-mushrooms. They serve as pathogen-associated molecular patterns (PAMPs) recognized by the innate immune system.
 

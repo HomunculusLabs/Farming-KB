@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Causes Cannabis Plants to Hermaphrodite?
+## What Causes Cannabis Plants to Hermaphrodite?
 
 ## Short Answer
 Cannabis plants become hermaphrodites, developing both male pollen sacs and

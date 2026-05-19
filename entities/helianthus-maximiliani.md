@@ -17,7 +17,7 @@ sources:
   - Hatch S.L., Gandhi K.N. (2004). "Flora of Texas." Vol. 1. Botanical Research Institute of Texas.
 ---
 
-# Helianthus maximiliani
+## Helianthus maximiliani
 
 ## Overview
 

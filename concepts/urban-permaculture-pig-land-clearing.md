@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, animal-husbandry, soil, homesteading]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-# Pig Land Clearing
+## Pig Land Clearing
 
 Pigs offer a remarkably effective biological solution for clearing
 stubborn weed infestations and preparing land for orchard planting.

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Selective Agents for Fungal Isolation — Antibiotics and Fungicides
+## Selective Agents for Fungal Isolation — Antibiotics and Fungicides
 [[agar-culture-media]] to suppress specific groups of microorganisms while allowing target fungi to grow. They are essential tools for isolating specific fungal groups from mixed natural samples such as soil, plant tissue, leaf litter, and water.
 ## Why Selective Media Are Needed
 Natural samples contain complex mixtures of fast-growing fungi (Trichoderma, Mucorales, Rhizopus) that overgrow slower species, bacteria that outcompete fungi on rich media, oomycetes that grow rapidly on general media, and yeasts that form spreading colonies. Without selective agents, a few rapidly growing species dominate cultures and rare or slow-growing species are missed entirely.

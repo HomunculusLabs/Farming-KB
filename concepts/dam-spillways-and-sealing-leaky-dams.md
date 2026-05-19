@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dam Spillways and Sealing Leaky Dams
+## Dam Spillways and Sealing Leaky Dams
 
 ## Overview
 

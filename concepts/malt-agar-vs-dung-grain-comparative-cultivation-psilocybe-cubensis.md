@@ -5,7 +5,7 @@ topic: mycology cultivation substrate comparison
 created: 2026-05-08
 ---
 
-# Malt Agar vs Dung/Grain Comparative Cultivation of Psilocybe cubensis
+## Malt Agar vs Dung/Grain Comparative Cultivation of Psilocybe cubensis
 
 ## Overview
 

@@ -19,7 +19,7 @@ sources:
   - "Webster, J. & Weber, R. (2007). Introduction to Fungi, 3rd ed. Cambridge University Press."
 ---
 
-# Helvella lacunosa (*Elfin Saddle*)
+## Helvella lacunosa (*Elfin Saddle*)
 
 ## Overview
 

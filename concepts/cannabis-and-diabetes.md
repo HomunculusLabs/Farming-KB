@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Diabetes
+## Cannabis and Diabetes
 
 updated: 2026-04-18
 

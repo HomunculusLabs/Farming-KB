@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mushrooms, fruiting, cultivation, environment, mycology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Fruiting Conditions for Mushroom Cultivation
+## Fruiting Conditions for Mushroom Cultivation
 
 After substrate colonization, the mycelium needs a specific set of
 [[mushroom-cultivation-environmental-parameters]] simultaneously. No single factor alone

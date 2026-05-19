@@ -8,7 +8,7 @@ sources:
   - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Herbal Pest Control (JHS)
+## JADAM Herbal Pest Control (JHS)
 
 JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with [[jadam-wetting-agent]] (JWA) and optionally JADAM sulfur (JS), it forms a complete pest [[vegetable-insect-and-disease-control]] system that costs a fraction of commercial pesticides.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Chanterelle and Truffle Cultivation Challenges
+## Chanterelle and Truffle Cultivation Challenges
 
 ## Overview
 

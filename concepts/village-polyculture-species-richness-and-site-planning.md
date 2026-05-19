@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Village Polyculture, Species Richness, and Site Planning
+## Village Polyculture, Species Richness, and Site Planning
 
 ## Overview
 

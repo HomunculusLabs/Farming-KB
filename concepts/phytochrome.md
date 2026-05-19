@@ -5,7 +5,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 created: 2026-05-09
 ---
 
-# Phytochrome
+## Phytochrome
 
 ## Overview
 

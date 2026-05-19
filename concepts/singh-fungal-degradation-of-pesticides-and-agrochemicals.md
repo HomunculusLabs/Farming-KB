@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems.
+## [[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems.
 
 ## Pesticide Classes and Environmental Impact
 

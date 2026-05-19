@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Advanced Refinement and Fractional Distillation
+## Cannabis Advanced Refinement and Fractional Distillation
 
 Translucent amber oil from charcoal filtering and isomerization typically contains 30-60% THC. Advanced [[cervantes-hash-cannabis-oil-production]] components by heating to high temperature under reduced pressure (vacuum). Different cannabinoids vaporize at different temperatures and pressures, allowing selective collection.
 

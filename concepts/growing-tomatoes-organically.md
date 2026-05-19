@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
-# Growing Tomatoes Organically
+## Growing Tomatoes Organically
 
 Tomatoes are a popular greenhouse crop but can also be grown outside in most climates. In cold areas, choose early varieties as fruit on late-maturing plants may fail to ripen. They are one of the most important vegetable fruits, rich in Vitamin C, and need a rich, moist soil with plenty of sunshine.
 

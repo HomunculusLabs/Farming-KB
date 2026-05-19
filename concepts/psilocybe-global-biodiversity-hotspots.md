@@ -20,7 +20,7 @@ related_concepts:
   - ethnomycology
 ---
 
-# Psilocybe Global Biodiversity Hotspots
+## Psilocybe Global Biodiversity Hotspots
 
 The genus *Psilocybe* is the largest and most widely distributed group
 of neurotropic fungi, containing approximately 116 known species as

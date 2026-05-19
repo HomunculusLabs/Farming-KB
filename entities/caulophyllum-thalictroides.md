@@ -14,7 +14,7 @@ tags:
   - Upton, R. (2002). "Blue Cohosh Root." American Herbal Pharmacopoeia.
 ---
 
-# Caulophyllum thalictroides
+## Caulophyllum thalictroides
 
 ## Overview
 

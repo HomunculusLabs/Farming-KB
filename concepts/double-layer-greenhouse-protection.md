@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Double-Layer Greenhouse Protection
+## Double-Layer Greenhouse Protection
 
 Double-layer greenhouse protection is a passive season-extension technique that uses two layers of covering — an unheated greenhouse as the outer layer and either cold frames or [[floating-row-cover]] as the inner layer — to create a dramatically moderated microclimate for winter vegetable production. Developed and refined by Eliot Coleman through experimentation beginning in the early 1980s, this system allows growers to harvest fresh vegetables throughout the winter in cold climates without any artificial heating.
 

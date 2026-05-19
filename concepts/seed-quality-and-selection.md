@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Seed Quality and Selection
+## Seed Quality and Selection
 
 The quality of seed you plant is one of the most important — and most overlooked — factors in gardening success. Most home gardeners have no idea that the seed sold in [[solomon-garden-centers-seedling-traps]] and on seed racks is often a fundamentally different product from the seed used by commercial farmers and market gardeners. Understanding the [[seed-industry-and-primary-growers]] what separates quality seed from cheap seed is essential for getting reliable results.
 

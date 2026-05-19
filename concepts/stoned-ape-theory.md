@@ -9,7 +9,7 @@ sources:
   - McKenna, T. "Food of the Gods" (1992), Chapters 3-4, pp. 31-78
 ---
 
-# Stoned Ape Theory
+## Stoned Ape Theory
 
 The Stoned Ape Theory is [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* (also known as *[[fukuoka-natural-farming-in-tropical-regions]] wherever zebu-type cattle graze.
 
@@ -141,7 +141,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[stoned-ape-hypothesis]]
-- [[stoned-ape-hypothesis-mckenna]]
+- [[stoned-ape-hypothesis]]
 - [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]]
 - [[stoned-ape-hypothesis-psilocybin-human-evolution]]
 - [[terence-mckenna-stoned-ape-hypothesis]]

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Agaricus Cultivation
+## Agaricus Cultivation
 
 ## Overview
 

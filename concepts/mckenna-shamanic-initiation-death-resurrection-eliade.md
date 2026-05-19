@@ -5,7 +5,7 @@ tags: [mckenna, shamanism, eliade, initiation, ecstasy, death-resurrection, heal
 created: 2026-05-11
 ---
 
-# Shamanic Initiation: Death, Resurrection, and Transformation
+## Shamanic Initiation: Death, Resurrection, and Transformation
 
 ## Eliade's Framework: Archaic Techniques of Ecstasy
 

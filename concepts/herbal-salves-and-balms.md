@@ -7,7 +7,7 @@ tags: [homesteading, homestead-crafts, recipe, medicine, plants, preparation]
 sources: []
 ---
 
-# Herbal Salves and Balms
+## Herbal Salves and Balms
 
 Herbal salves and balms are semi-solid [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] made by combining herb-infused oils with beeswax. They are foundational homestead medicine -- simple to make, shelf-stable, and effective for a range of skin conditions including wounds, burns, rashes, dry skin, insect bites, and muscle soreness.
 

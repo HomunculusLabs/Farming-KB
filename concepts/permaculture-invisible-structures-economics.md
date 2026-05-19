@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
 type: concept
 ---
-# Permaculture Invisible Structures and Economics ## Overview In permaculture, invisible structures are the social, economic, and legal frameworks that underpin and sustain physical design systems. Bill Mollison addressed these structures extensively in the Permaculture Design Course, particularly in his "[[pdc-right-livelihood-and-permaculture-economics]]
+## Permaculture Invisible Structures and Economics ## Overview In permaculture, invisible structures are the social, economic, and legal frameworks that underpin and sustain physical design systems. Bill Mollison addressed these structures extensively in the Permaculture Design Course, particularly in his "[[pdc-right-livelihood-and-permaculture-economics]]
 
 See also: [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

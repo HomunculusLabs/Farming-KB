@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Oyster Mushroom Cultivation on Spent Coffee Grounds
+## Oyster Mushroom Cultivation on Spent Coffee Grounds
 
 Cultivating [[palmer-edible-mushrooms-north-america]] while diverting organic waste from landfills.
 

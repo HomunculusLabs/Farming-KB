@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Hawthorn vs Valerian
+## Hawthorn vs Valerian
 
 ## Overview
 

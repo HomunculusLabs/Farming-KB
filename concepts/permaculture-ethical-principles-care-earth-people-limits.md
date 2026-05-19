@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Ethical Principles: Care for Earth, People, and Limits
+## Permaculture Ethical Principles: Care for Earth, People, and Limits
 
 Ethics are the moral principles guiding action toward good outcomes and away from bad ones. In permaculture, ethics function as constraints on survival instincts and self-interest — culturally evolved mechanisms for enlightened self-interest, a more inclusive view of "us," and a longer-term understanding of consequences. This page explores the three core permaculture ethical principles in depth, their philosophical foundations, and their relationship to energy descent.
 

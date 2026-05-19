@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-# Fungal Ecosystem Roles
+## Fungal Ecosystem Roles
 
 How fungi perform specific ecological functions: water transport, nutrient cycling, decomposition, and succession management. Part of the [[fungal-ecology]] framework from *Mycelium Running* by [[paul-stamets]].
 

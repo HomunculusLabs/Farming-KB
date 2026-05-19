@@ -5,7 +5,7 @@ tags: [cannabis, microbiome, sphingomonas-wittichii, phenazine, maui-wowie, stra
 source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Sphingomonas wittichii Phenazine Metabolism in Maui Wowie Endorhiza
+## Sphingomonas wittichii Phenazine Metabolism in Maui Wowie Endorhiza
 
 ## Overview
 

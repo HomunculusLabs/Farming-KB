@@ -7,7 +7,7 @@ topics: [japan, regulation, magic-mushroom, narcotics-law, forensic-analysis, ps
 type: concept
 ---
 
-# Japan 2002 Magic Mushroom Regulation and Forensic Analysis Requirements
+## Japan 2002 Magic Mushroom Regulation and Forensic Analysis Requirements
 
 ## Overview
 

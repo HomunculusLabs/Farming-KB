@@ -7,7 +7,7 @@ tags: [permaculture, animal-husbandry, forage, equipment, livestock, design, con
 sources: []
 ---
 
-# Permaculture Chicken Tractors
+## Permaculture Chicken Tractors
 
 A chicken tractor is a mobile, floorless enclosure that allows chickens to forage on fresh ground while being protected from predators. In permaculture design, chicken tractors serve multiple functions: soil preparation, pest control, fertilization, weed management, and of course egg and meat production. They embody the principle "each element performs multiple functions."
 

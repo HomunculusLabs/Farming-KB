@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Acacia (Wattles)
+## Acacia (Wattles)
 
 **Type:** Genus (Plant)
 **Category:** Nitrogen-fixing pioneer trees and shrubs

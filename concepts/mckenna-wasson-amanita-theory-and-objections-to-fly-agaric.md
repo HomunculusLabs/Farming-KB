@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Wasson's Amanita Theory and Objections to Fly Agaric as Soma
+## Wasson's Amanita Theory and Objections to Fly Agaric as Soma
 
 Gordon and [[allegro-amanita-muscaria-properties-and-pharmacology]], an extremely ancient
 shamanic intoxicant until recently used by the Tungusic tribes of

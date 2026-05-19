@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Science Continues Its Rampage
+## Science Continues Its Rampage
 
 One of Masanobu Fukuoka's most provocative and far-reaching critiques was his assessment of modern science itself -- not merely its applications in agriculture, but its fundamental assumptions and trajectory. He saw science as a "rampage" that was leading humanity toward catastrophe.
 

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOPR
+## DOPR
 
 **Chemical name:** 2,5-Dimethoxy-4-(n)-propylamphetamine
 **[[synthetic-tryptamine-methods]] to understanding metabolism through synthesis.

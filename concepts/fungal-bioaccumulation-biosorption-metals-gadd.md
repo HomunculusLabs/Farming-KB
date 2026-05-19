@@ -5,7 +5,7 @@ tags: [mycology, bioaccumulation, biosorption, heavy-metals, bioremediation, fun
 source: "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
 ---
 
-# Fungal Bioaccumulation and Biosorption of Metals
+## Fungal Bioaccumulation and Biosorption of Metals
 
 ## Overview
 

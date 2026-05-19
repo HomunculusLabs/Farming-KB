@@ -1,4 +1,8 @@
-# Fukuoka Mixed Grazing: Pig, Cow, and Chicken Integration in Orchards
+---
+title: "Fukuoka Mixed Grazing: Pig, Cow, and Chicken Integration in Orchards"
+tags:
+  - concept
+---
 
 **Source:** [[faires-livestock-integration-permaculture]] within orchard systems, where pigs, chickens, cows, and other animals graze together rather than being raised in isolation. This method leverages the natural behaviors of each species to create a self-sustaining system of soil cultivation, fertilization, pest control, and forage production — all without the inputs of conventional [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]] is equally flawed — capital, not farmers, raises
 the animals, and the system is dominated by fluctuating market prices and profit margins

@@ -14,7 +14,7 @@ sources:
   - Masanobu Fukuoka (1987). "The Road Back to Nature." Japan Publications.
 ---
 
-# Fukuoka's European Natural Farming Travels
+## Fukuoka's European Natural Farming Travels
 
 In the 1980s, Masanobu Fukuoka undertook an extensive speaking and
 demonstration tour through Europe that introduced natural [[four-principles-of-natural-farming]] in his personal

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Acidifying Pollutants and Mycorrhizae
+## Acidifying Pollutants and Mycorrhizae
 
 ## Description
 

@@ -9,7 +9,7 @@ topics:
   - mycorestoration
 ---
 
-# Mycofiltration Silt Barrier Design
+## Mycofiltration Silt Barrier Design
 
 Mycofiltration is the use of mycelium as a membrane for filtering out microorganisms, pollutants, and silt from water runoff. Habitats infused with mycelium reduce downstream particulate flow, mitigate erosion, filter out bacteria and protozoa, and modulate water flow through soil. More than a mile of threadlike mycelial cells can infuse a gram of soil, functioning as a cellular net that catches particles and digests them. As substrate debris is digested, microcavities form and fill with air or water, providing buoyant, aerobic infrastructures with vast surface areas.
 

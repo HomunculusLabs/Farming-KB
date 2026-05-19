@@ -9,7 +9,7 @@ type: concept
 tags: [climate, holzer, microclimate, site-design]
 ---
 
-# Holzer Climate Zone Adaptation and Microclimate Creation
+## Holzer Climate Zone Adaptation and Microclimate Creation
 
 Creating and exploiting [[shiitake-cultivation-guide]] mushrooms.
 

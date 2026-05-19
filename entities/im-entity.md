@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# IM
+## IM
 
 **[[mescaline]] -- the 3,4,5-isomer (active psychedelic)
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Organic Lawn Care (Hamilton Method)
+## Organic Lawn Care (Hamilton Method)
 
 Updated: 2026-04-20
 

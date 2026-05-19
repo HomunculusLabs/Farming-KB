@@ -1,12 +1,12 @@
 ---
-title: Self-Transforming dmt-self-transforming-machine-elves-mckenna
+title: "Self Transforming Machine Elves"
 concept_type: entity
 source: mckenna_t-tryptamines_consciousness.md
 tags: [entities, DMT, tryptamine, phenomenology, hyperspace, McKenna]
 created: 2026-05-08
 ---
 
-# Self-Transforming Machine Elves
+## Self-Transforming Machine Elves
 
 ## Overview
 

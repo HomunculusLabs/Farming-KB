@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Shanshi (Coriaria thymifolia) Andean Entheogen
+## Shanshi (Coriaria thymifolia) Andean Entheogen
 
 Shanshi is the local name given to Coriaria thymifolia, a widespread
 Andean shrub that has long been recognized as highly poisonous to

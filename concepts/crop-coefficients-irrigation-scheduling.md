@@ -8,7 +8,7 @@ sources:
   - "raw/papers/solomon-gardening-west.md"
 ---
 
-# Crop Coefficients for Irrigation Scheduling
+## Crop Coefficients for Irrigation Scheduling
 
 ## Definition
 

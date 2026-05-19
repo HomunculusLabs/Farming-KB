@@ -1,4 +1,8 @@
-# Carnivorous Plants: Biology and Cultivation
+---
+title: "Carnivorous Plants: Biology and Cultivation"
+tags:
+  - topic
+---
 
 Carnivorous plants are among the most remarkable organisms on Earth—photosynthetic plants that have evolved the ability to trap and digest animal prey, primarily insects and arthropods. Far from being a biological curiosity, they represent a stunning example of convergent evolution, with at least nine independent lineages developing carnivory in response to nutrient-poor environments. From the iconic Venus flytrap (*Dionaea muscipula*) to the spectacular tropical pitcher plants (*Nepenthes* spp.), these organisms blur the boundary between plant and predator.
 

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Panaeolus cinctulus
+## Panaeolus cinctulus
 
 **Panaeolus cinctulus**, commonly known as the **banded mottlegill**, is a widely distributed
 psilocybin-containing mushroom in the family Bolbitiaceae. Formerly classified as

@@ -19,7 +19,7 @@ sources:
   - concepts/psilocybin-psychotherapy.md
 ---
 
-# Compass Pathways
+## Compass Pathways
 
 Compass Pathways (NASDAQ: CMPS) is a UK-based mental health care company focused on developing psilocybin-based therapies for treatment-resistant depression (TRD). Founded in 2016, it is the most advanced publicly traded company pursuing regulatory approval for a synthetic psilocybin formulation, known as COMP360. The company has conducted the largest randomized, controlled, multi-site psilocybin [[metzner-psycholytic-psychedelic-therapy-models]]. Kabir Nath serves as CEO. The company is headquartered in London, United Kingdom, with additional offices in New York City.
 

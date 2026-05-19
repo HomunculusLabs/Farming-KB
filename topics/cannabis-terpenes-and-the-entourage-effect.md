@@ -32,7 +32,7 @@ related_concepts:
   - sativa-terpene-profiles-and-aromatic-diversity
 ---
 
-# Cannabis Terpenes and the Entourage Effect
+## Cannabis Terpenes and the Entourage Effect
 
 Cannabis is far more than a delivery vehicle for THC and CBD. The plant
 produces a complex cocktail of over 200 aromatic compounds, primarily

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Succession and Functional Dynamics in Forest Ecosystems
+## Mycorrhizal Succession and Functional Dynamics in Forest Ecosystems
 
 ## Overview
 

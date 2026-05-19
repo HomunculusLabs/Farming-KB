@@ -18,7 +18,7 @@ tags:
   - lichen
 ---
 
-# Rock-Dwelling Fungi: Epilithic and Endolithic Classification
+## Rock-Dwelling Fungi: Epilithic and Endolithic Classification
 
 ## Deep Time Context
 

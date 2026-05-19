@@ -14,7 +14,7 @@ sources:
   - "Royal Horticultural Society (RHS). 'Hylocereus (Dragon Fruit).' rhs.org.uk."
 ---
 
-# Dragon Fruit (Pitaya) Cultivation and Variety Guide
+## Dragon Fruit (Pitaya) Cultivation and Variety Guide
 
 ## Introduction
 

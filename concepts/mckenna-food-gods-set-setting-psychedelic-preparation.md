@@ -1,5 +1,10 @@
+---
+title: "Mckenna Food Gods Set Setting Psychedelic Preparation"
+tags:
+  - concept
+---
 
-# Set and Setting for the Psychedelic Experience
+## Set and Setting for the Psychedelic Experience
 
 ## The Framework of Set and Setting
 

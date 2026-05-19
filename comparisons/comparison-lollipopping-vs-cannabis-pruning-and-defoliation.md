@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Lollipopping vs Cannabis Pruning and Defoliation
+## Lollipopping vs Cannabis Pruning and Defoliation
 
 ## Overview
 [[lollipopping]] is a specific, aggressive pruning technique within the

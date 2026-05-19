@@ -7,7 +7,7 @@ tags: [mycology, substrate, pasteurization, sterilization, mushroom-cultivation]
 sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
-# Substrate Preparation for Mushroom Cultivation
+## Substrate Preparation for Mushroom Cultivation
 The [[antimicrobial-compounds-mushroom-mycelium]] feeds and
 eventually produces fruiting bodies. Proper preparation through
 pasteurization or sterilization is essential for successful cultivation.

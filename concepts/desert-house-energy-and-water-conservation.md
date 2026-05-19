@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert House Energy and Water Conservation
+## Desert House Energy and Water Conservation
 
 Energy and [[permaculture-design]] for desert dwellings integrates energy harvesting, water recycling, and conservation into the fabric of the house itself, drawing on both traditional techniques and modern technology to minimise waste and maximise self-reliance.
 

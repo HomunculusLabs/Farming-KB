@@ -1,4 +1,8 @@
-# Multipurpose Trees in [[permaculture-honey-locust-pod-fodder-system]] is a prime example of a multipurpose permaculture tree. This
+---
+title: "Multipurpose Trees in permaculture honey locust pod fodder system is a prime example of a multipurpose permaculture tree. This"
+tags:
+  - concept
+---
 moderately fast growing, long-lived legume reaches 24-30 meters with a trunk
 diameter of 60-90 centimeters.
 

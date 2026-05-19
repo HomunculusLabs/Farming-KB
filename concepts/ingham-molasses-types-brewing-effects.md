@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [compost-tea, brewing, molasses, fungal-food, bacterial-food]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 type: concept
 ---
 
-# Molasses Types and Their Effects on Brewing
+## Molasses Types and Their Effects on Brewing
 
 ## What Molasses Actually Is
 

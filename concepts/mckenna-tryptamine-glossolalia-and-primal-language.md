@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: [mckenna_t-tryptamines_consciousness.md]
 type: concept
 ---
-# [[dmt-finnegans-wake-and-the-merry-go-raum]], demonstrate that moving a single 
+## [[dmt-finnegans-wake-and-the-merry-go-raum]], demonstrate that moving a single 
 atom on the molecular ring of an inactive compound can render it highly 
 psychoactive. For tryptamines specifically, this sensitivity maps onto 
 linguistic function in ways not seen with other molecular families. McKenna saw 

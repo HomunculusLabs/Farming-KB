@@ -5,7 +5,7 @@ source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [hyphal-growth, apical-extension, invasive-growth, cell-wall, turgor-pressure, morphogenesis, fungal-pathogenesis]
 ---
 
-# Hyphal Growth Mechanics and Tissue Invasion
+## Hyphal Growth Mechanics and Tissue Invasion
 
 ## The Architecture of [[fungal-melanin-and-pathogenicity]] — How melanization enhances fungal survival in hosts
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

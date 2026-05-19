@@ -12,7 +12,7 @@ sources:
   - "University of Minnesota Extension — Growing comparison-nut-trees-vs-grain-farming-for-caloric-staple-production in Cold Climates"
 ---
 
-# What Are the Best Walnut Varieties for Different Climates and Uses?
+## What Are the Best Walnut Varieties for Different Climates and Uses?
 
 ## 1. Best English/Persian Walnut Varieties for Mild/Warm Climates (Zone 8–10)
 

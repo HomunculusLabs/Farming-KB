@@ -1,4 +1,8 @@
-# Mexico as the Global Neurotropic Fungi Biodiversity Hotspot
+---
+title: "Mexico as the Global Neurotropic Fungi Biodiversity Hotspot"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ current understanding and implementation strategies.
 
 Successful integration of guzman allen gartz mexico mesophytic forest neurotropic hotspot into broader
 systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

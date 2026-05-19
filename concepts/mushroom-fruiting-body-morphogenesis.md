@@ -6,7 +6,7 @@ related: ["fungal-tropisms-and-gravitropic-responses", "two-phase-directed-growt
 created: 2026-05-09
 ---
 
-# Mushroom Fruiting Body Morphogenesis
+## Mushroom Fruiting Body Morphogenesis
 
 ## Overview
 

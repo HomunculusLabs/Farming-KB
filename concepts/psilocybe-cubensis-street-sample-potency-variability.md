@@ -5,7 +5,7 @@ tags: [psilocybin, psilocybe-cubensis, potency, street-samples, hplc, variabilit
 created: 2026-05-08
 ---
 
-# Psilocybe cubensis Street Sample Potency Variability
+## Psilocybe cubensis Street Sample Potency Variability
 
 ## Overview
 

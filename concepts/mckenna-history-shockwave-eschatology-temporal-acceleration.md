@@ -6,7 +6,7 @@ tags: [eschatology, time, acceleration, novelty, history, tryptamine, transcende
 created: 2026-05-08
 ---
 
-# History as Shockwave of Eschatology: McKenna on Temporal Acceleration
+## History as Shockwave of Eschatology: McKenna on Temporal Acceleration
 
 ## Overview
 

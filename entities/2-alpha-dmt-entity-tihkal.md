@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 2-alpha-DMT (2,a-Dimethyltryptamine)
+## 2-alpha-DMT (2,a-Dimethyltryptamine)
 
 2-alpha-DMT, also known as 2,a-dimethyltryptamine or 2-methyl-alpha-methyltryptamine, is a synthetic tryptamine compound first synthesized and bioassayed by [[5-meo-dmt-entity-tihkal]], adding a 2-methyl group converts non-orally-active compounds into orally active ones. However, 2-alpha-DMT demonstrates that the same modification can have opposite effects on compounds already orally active.
 

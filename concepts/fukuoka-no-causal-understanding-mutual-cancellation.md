@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka on Causal Relationships and Mutual Cancellation in Agriculture
+## Fukuoka on Causal Relationships and Mutual Cancellation in Agriculture
 
 [[masanobu-fukuoka]]'s *The One-Straw Revolution* mounts a radical critique of [[fukuoka-critique-agricultural-science-laws-liebig]] on two fronts. First, the causal relationships governing crop growth are far too complex for human understanding. Second, every "improvement" measure introduced by man sets off consequences that negate its benefits.
 

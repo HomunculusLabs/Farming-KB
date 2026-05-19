@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Humus Building and Soil Life
+## Humus Building and Soil Life
 
 [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], a complex substance highly
 resistant to further decomposition. It is what gives soil its crumb

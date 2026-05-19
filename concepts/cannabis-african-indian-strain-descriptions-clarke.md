@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# African and Indian Cannabis Strain Descriptions (Clarke)
+## African and Indian Cannabis Strain Descriptions (Clarke)
 
 ## Indian Central Southern Strains (Kerala, Mysore, Madras: 10-20 degrees N)
 

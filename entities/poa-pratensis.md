@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Poa pratensis (Kentucky Bluegrass)
+## Poa pratensis (Kentucky Bluegrass)
 
 ## Description
 

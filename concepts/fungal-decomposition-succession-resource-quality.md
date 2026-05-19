@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
-# Fungal Decomposition Succession and Resource Quality ## Overview The pattern of fungal colonization during decomposition is governed by the changing chemical quality of the resource. As plant litter decomposes, its chemical composition shifts from simple, labile compounds to increasingly recalcitrant, humified material. This trajectory drives a predictable succession of fungal species, each adapted to different resource qualities. ## Resource Quality Parameters The determinants of resource quality — including C:N ratio, lignin content, polyphenols, and physical structure — collectively control decomposition rates and fungal succession patterns. For a comprehensive treatment of these fungal-succession-roots - [[soil-food-web-nutrient-cycling]]
+## Fungal Decomposition Succession and Resource Quality ## Overview The pattern of fungal colonization during decomposition is governed by the changing chemical quality of the resource. As plant litter decomposes, its chemical composition shifts from simple, labile compounds to increasingly recalcitrant, humified material. This trajectory drives a predictable succession of fungal species, each adapted to different resource qualities. ## Resource Quality Parameters The determinants of resource quality — including C:N ratio, lignin content, polyphenols, and physical structure — collectively control decomposition rates and fungal succession patterns. For a comprehensive treatment of these fungal-succession-roots - [[soil-food-web-nutrient-cycling]]
 - [[fungal-stable-isotope-ecology]]
 ## Practical Applications
 

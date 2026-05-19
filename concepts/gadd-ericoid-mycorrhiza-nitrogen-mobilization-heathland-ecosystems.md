@@ -5,7 +5,7 @@ tags: [ericoid-mycorrhiza, nitrogen, heathland, ericaceae, organic-nitrogen, pea
 related: [leake-mycorrhizal-carbon-sequestration-plant-community-composition, gadd-mineral-transformations-biogeochemical-cycles-fungi, aact-forest-litter-fungi-mycorrhizal-ingham]
 ---
 
-# Ericoid Mycorrhizas and Nitrogen Mobilization
+## Ericoid Mycorrhizas and Nitrogen Mobilization
 
 Ericoid mycorrhizas are a specialized form of [[nitrogen-availability-in-legumes]] is a primary limiting factor.
 The ability of [[calluna-vulgaris]], Erica spp.), blueberries (Vaccinium spp.), cranberries,

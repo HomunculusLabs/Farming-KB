@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Wood Decay Fungi and Spalted Timber
+## Wood Decay Fungi and Spalted Timber
 
 When a tree is wounded — by insects, squirrels, woodpeckers, wind, or
 human activity — it becomes a battleground for fungi competing to colonize

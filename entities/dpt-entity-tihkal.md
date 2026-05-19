@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# DPT (N,N-Dipropyltryptamine)
+## DPT (N,N-Dipropyltryptamine)
 
 TIHKAL entry #9. An orally active psychedelic tryptamine with a history of clinical use as an adjunct to psychotherapy, particularly with alcoholic and terminal patients. Adopted as a sacrament by the Temple of the True Inner Light in New York City.
 

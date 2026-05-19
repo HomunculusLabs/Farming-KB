@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Sapodilla
+## Sapodilla
 
 **Type:** Species (Plant)
 **Category:** Evergreen [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It produces russet-brown fruit with

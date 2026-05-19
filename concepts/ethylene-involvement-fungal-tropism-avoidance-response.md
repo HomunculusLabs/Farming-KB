@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [mycology, ethylene, tropism, phycomyces, psilocybe, hormones, fungal-growth, gas-redistribution]
 ---
 
-# Ethylene Involvement in Fungal Tropism and Avoidance Responses
+## Ethylene Involvement in Fungal Tropism and Avoidance Responses
 
 ## Overview
 

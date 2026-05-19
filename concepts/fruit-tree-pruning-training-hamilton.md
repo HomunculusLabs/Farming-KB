@@ -8,7 +8,7 @@ sources:
   - raw/papers/organic-gardening-geoff-hamilton.md
 ---
 
-# Fruit Tree Pruning and Training (Hamilton Method)
+## Fruit Tree Pruning and Training (Hamilton Method)
 
 Updated: 2026-04-18
 

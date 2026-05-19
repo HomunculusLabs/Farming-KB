@@ -8,7 +8,7 @@ sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 
-# Betel Nut Arecoline Ethnobotany
+## Betel Nut Arecoline Ethnobotany
 
 ## Overview
 

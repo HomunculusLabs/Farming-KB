@@ -4,9 +4,9 @@ created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [cultivation, mycology]
-sources: [/Users/t3rpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: ["raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md"]
 ---
-# Panaeolus cyanescens Cultivation Guide
+## Panaeolus cyanescens Cultivation Guide
 
 Panaeolus cyanescens (copelandia) and P. tropicalis are tropical coprophilous mushrooms that require a dung-based substrate for cultivation. They are more demanding than [[psilocybin-cultivation]] — general psilocybin [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — [[panaeolus-sphinctrinus]]
 ## Practical Applications

@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 tags: [fukuoka, natural-farming, fish-farming, aquaculture, pelagic-disease, pollution, marine-ecology]
 ---
 
-# Pelagic Disease and Chemical Treatment in Modern Fish Farming
+## Pelagic Disease and Chemical Treatment in Modern Fish Farming
 
 ## Overview
 

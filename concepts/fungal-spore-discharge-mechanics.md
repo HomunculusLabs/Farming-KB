@@ -1,4 +1,8 @@
-# Fungal Spore Discharge Mechanics
+---
+title: "Fungal Spore Discharge Mechanics"
+tags:
+  - concept
+---
 
 Fungal spore discharge is the process by which mushrooms and other fungi eject
 reproductive spores from their [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] forces

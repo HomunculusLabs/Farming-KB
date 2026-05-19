@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DMPEA
+## DMPEA
 
 **Chemical name:** 3,4-Dimethoxyphenethylamine
 **[[phenethylamine-chemistry-basics]] studies. Its complete inactivity despite sharing the 3,4-dimethoxy substitution pattern with active compounds like [[mda]]-entity|MDA demonstrates that:

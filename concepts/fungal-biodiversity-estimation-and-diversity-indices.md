@@ -5,7 +5,7 @@ tags: [mycology, biodiversity, ecology, statistics, fungal-survey]
 created: 2026-05-10
 ---
 
-# Fungal Biodiversity Estimation and Diversity Indices
+## Fungal Biodiversity Estimation and Diversity Indices
 
 ## Overview
 

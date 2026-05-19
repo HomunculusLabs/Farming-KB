@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-# Mycorrhizal Networks
+## Mycorrhizal Networks
 
 The symbiotic partnerships between fungi and plant roots — arguably the most important mutualism on Earth. From *Mycelium Running* by [[paul-stamets]].
 

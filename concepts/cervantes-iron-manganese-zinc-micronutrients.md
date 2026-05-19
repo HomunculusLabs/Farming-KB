@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Iron, Manganese, and Zinc Micronutrient Management
+## Iron, Manganese, and Zinc Micronutrient Management
 
 Zinc, iron, and manganese are the three most
 common micronutrients found deficient in cannabis

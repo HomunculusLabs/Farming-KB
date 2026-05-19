@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Cannabis Entourage Effect
+## What Is the Cannabis Entourage Effect
 
 ## Short Answer
 The entourage effect is the theory that cannabis compounds, including cannabinoids,

@@ -14,7 +14,7 @@ sources:
   - Hill, M.O. et al. (1991). "An atlas of the mosses of Europe." European Committee for Conservation of Bryophytes.
 ---
 
-# Encalypta vulgaris
+## Encalypta vulgaris
 
 ## Overview
 

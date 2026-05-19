@@ -7,7 +7,7 @@ topics: [4-hydroxyindole, acetyl-protection, psilocin-synthesis, starting-materi
 type: concept
 ---
 
-# 4-Hydroxyindole Starting Material and Acetyl Protection Strategy for Psilocin Synthesis
+## 4-Hydroxyindole Starting Material and Acetyl Protection Strategy for Psilocin Synthesis
 
 ## Overview
 

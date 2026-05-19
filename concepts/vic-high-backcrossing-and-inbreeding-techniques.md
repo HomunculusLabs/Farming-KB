@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Backcrossing and Inbreeding Techniques
+## Backcrossing and Inbreeding Techniques
 
 [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

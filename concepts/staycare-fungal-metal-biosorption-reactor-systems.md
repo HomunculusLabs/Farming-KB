@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Metal Biosorption Reactor Systems
+## Fungal Metal Biosorption Reactor Systems
 
 [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] at scale, converting laboratory findings into
 practical engineering solutions.

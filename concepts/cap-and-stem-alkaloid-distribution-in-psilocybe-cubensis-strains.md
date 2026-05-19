@@ -15,7 +15,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Cap and Stem Alkaloid Distribution in Psilocybe cubensis Strains
+## Cap and Stem Alkaloid Distribution in Psilocybe cubensis Strains
 
 Bigwood and Beug (1982) performed cap-versus-stem alkaloid analysis on three strains of [[brassinosteroid-fungal-fruiting-body-morphology]] bodies.
 

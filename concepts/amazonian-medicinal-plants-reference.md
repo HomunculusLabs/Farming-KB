@@ -8,7 +8,7 @@ sources:
 - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
 
-# Amazonian Medicinal Plants Reference
+## Amazonian Medicinal Plants Reference
 
 ## Overview
 

@@ -13,7 +13,7 @@ sources:
   - A Training Manual: Mushroom Cultivation by People with Disabilities (FAO)
 ---
 
-# Mushroom Substrate Preparation and Formulation
+## Mushroom Substrate Preparation and Formulation
 
 Mushroom substrate is the organic material on which mycelium grows and from
 which fruiting bodies draw their nutrition. Selecting, preparing, and treating

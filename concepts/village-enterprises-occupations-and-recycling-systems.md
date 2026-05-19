@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Village Enterprises, Occupations, and Recycling Systems
+## Village Enterprises, Occupations, and Recycling Systems
 
 A self-reliant [[permaculture]] village generates livelihoods internally by meeting its own needs for food, energy, transport, health, and shelter, while also producing surplus goods and services for trade with surrounding districts. Mollison provides a detailed analysis of how village occupants can self-employ in service to both the village and nearby areas, along with practical models for [[community-recycling-and-waste-recovery-systems]].
 

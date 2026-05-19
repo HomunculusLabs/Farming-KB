@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [plant-biology, thigmomodaniel-chamovitzhanosensing, touch-response]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
+sources: ["raw/papers/grahamholmes-what-a-plant-knowsindd.md"]
 type: concept
 ---
 
-# Plant Thigmomorphogenesis: What a Plant Feels
+## Plant Thigmomorphogenesis: What a Plant Feels
 
 In Chapter 3 of *What a Plant Knows*, [[daniel-chamovitz]] explores the remarkable
 ways in which plants sense and respond to mechanical stimulation. The scientific

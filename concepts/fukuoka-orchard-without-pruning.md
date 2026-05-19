@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Orchard Without Pruning
+## Orchard Without Pruning
 
 One of Masanobu Fukuoka's most radical and counterintuitive practices was the abandonment of all tree pruning. His [[holzer-sweet-chestnut-and-nut-trees]]. These form the core of his [[fukuoka-orchard-management-detailed]] was that the principles of no weeding, no fertilization, and no pruning cannot be achieved independently; they are closely and inextricably tied to each other.
 

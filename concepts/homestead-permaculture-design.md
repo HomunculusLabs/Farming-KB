@@ -7,7 +7,7 @@ tags: [permaculture, homesteading, animal-husbandry, design, regenerative, food-
 sources: []
 ---
 
-# Homestead Permaculture Design
+## Homestead Permaculture Design
 
 Permaculture design applied to the homestead integrates animals, gardens,
 orchards, water systems, and human habitation into a self-sustaining,

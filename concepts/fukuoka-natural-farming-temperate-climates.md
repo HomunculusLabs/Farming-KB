@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Farming in Temperate Climates
+## Natural Farming in Temperate Climates
 
 [[fukuoka-seed-ball-one-seed-technique]] practices
 

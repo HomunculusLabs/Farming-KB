@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's No-Till Winter Grain and Rice Succession Method
+## Fukuoka's No-Till Winter Grain and Rice Succession Method
 
 ## Overview
 

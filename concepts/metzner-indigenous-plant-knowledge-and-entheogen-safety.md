@@ -13,7 +13,7 @@ sources:
   - metzner-entheogen-terminology-and-worldview-paradigms|metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous Plant Knowledge and Entheogen Safety
+## metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous Plant Knowledge and Entheogen Safety
 
 plant-knowledge-versus-synthetic-drug-safety-metzner-entheogen-terminology-and-worldview-paradigms-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner, drawing on decades of research into both Western psychotherapy and
 metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous shamanic traditions, highlights this traditional knowledge as a critical

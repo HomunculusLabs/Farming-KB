@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Event Classification and Orders of Magnitude
+## Event Classification and Orders of Magnitude
 
 ## Overview
 

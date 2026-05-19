@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Fungal Communities in Grassland Soils
+## Fungal Communities in Grassland Soils
 
 ## Overview
 

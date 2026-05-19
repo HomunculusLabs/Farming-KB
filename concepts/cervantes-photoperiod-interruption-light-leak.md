@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Photoperiod Interruption and Light Leak Stress
+## Photoperiod Interruption and Light Leak Stress
 
 The photoperiod -- the duration of light and dark periods -- is the
 primary signal that controls [[jorge-cervantes]]

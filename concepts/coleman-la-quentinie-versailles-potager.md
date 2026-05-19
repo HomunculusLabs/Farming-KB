@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook
 topics: history, intensive-gardening, season-extension, french-agriculture
 ---
 
-# La Quintinie and the Versailles Potager
+## La Quintinie and the Versailles Potager
 
 ## Origins of the French Intensive System
 

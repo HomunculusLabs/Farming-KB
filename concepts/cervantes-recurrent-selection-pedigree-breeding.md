@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Recurrent Selection and Pedigree Breeding in Cannabis
+## Recurrent Selection and Pedigree Breeding in Cannabis
 
 Recurrent selection and pedigree selection are two systematic breeding
 methods used to improve cannabis populations over multiple generations.

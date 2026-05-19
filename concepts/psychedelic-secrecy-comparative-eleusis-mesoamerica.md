@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Psychedelic Secrecy — Comparative Eleusis and Mesoamerica
+## Psychedelic Secrecy — Comparative Eleusis and Mesoamerica
 
 **Source:** The [[mazatec-mushroom-culture-and-velada]] traditions is the extreme secrecy surrounding the psychoactive sacrament. Wasson argued that this secrecy was not merely cultural convention but a functional necessity — the preservation of a technology of revelation that would be degraded by exposure.
 

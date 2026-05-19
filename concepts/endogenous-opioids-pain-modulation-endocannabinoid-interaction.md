@@ -1,4 +1,8 @@
-# Endogenous Opioids: Pain Modulation and Endocannabinoid Interaction
+---
+title: "Endogenous Opioids: Pain Modulation and Endocannabinoid Interaction"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do Mushrooms Contribute to Soil Health?
+## How Do Mushrooms Contribute to Soil Health?
 
 ## Short Answer
 

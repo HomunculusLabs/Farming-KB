@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Practical Farm Establishment, Site Selection, and Soil Preparation
+## Practical Farm Establishment, Site Selection, and Soil Preparation
 
 In *The Natural Way of Farming*, [[fukuoka-creating-natural-farm-site-selection-establishment]] from scratch. This covers the
 critical decisions of site selection, land evaluation, soil management,

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ericoid Mycorrhizal Fungi in Nutrient Acquisition
+## Ericoid Mycorrhizal Fungi in Nutrient Acquisition
 
 ## Overview
 

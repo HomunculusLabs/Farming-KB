@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# [[seed-saving-germination-and-sowing-techniques|Seed]] Saving and [[open-pollinated-vs-hybrid-seed-varieties|Open]]-Pollinated Varieties
+## [[seed-saving-germination-and-sowing-techniques|Seed]] Saving and [[open-pollinated-vs-hybrid-seed-varieties|Open]]-Pollinated Varieties
 
 ## Overview
 

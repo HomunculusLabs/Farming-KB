@@ -5,7 +5,7 @@ tags: [mckenna, ayahuasca, amazon, shamanism, dona-catalina, visionary, colombia
 created: 2026-05-11
 ---
 
-# The Amazon Ayahuasca Encounter with Dona Catalina
+## The Amazon Ayahuasca Encounter with Dona Catalina
 
 ## The Quest for Authentic Deep Forest Ayahuasca
 

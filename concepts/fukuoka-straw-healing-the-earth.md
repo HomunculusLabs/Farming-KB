@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, healing]
 ---
 
-# Fukuoka's Vision for Healing the Earth
+## Fukuoka's Vision for Healing the Earth
 
 ## The Recuperative Powers of Nature
 

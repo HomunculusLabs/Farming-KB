@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# TMA-6 (2,4,6-Trimethoxyamphetamine)
+## TMA-6 (2,4,6-Trimethoxyamphetamine)
 
 **Chemical name:** 2,4,6-Trimethoxyamphetamine
 

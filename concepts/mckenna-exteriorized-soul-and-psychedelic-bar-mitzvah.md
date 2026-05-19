@@ -7,7 +7,7 @@ tags: terence-mckenna, exteriorized-soul, translinguistic-matter,
 created: 2026-05-08
 ---
 
-# Exteriorized Soul and Psychedelic Bar Mitzvah
+## Exteriorized Soul and Psychedelic Bar Mitzvah
 
 [[tryptamines-and-quantum-mechanics]]
 [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhiza-Mediated Plant Nutrient Uptake Pathways
+## Mycorrhiza-Mediated Plant Nutrient Uptake Pathways
 
 [[arbuscular-mycorrhizal-colonization-patterns]] (AM) symbiosis,
   fungal phosphate transporters release Pi into the periarbuscular

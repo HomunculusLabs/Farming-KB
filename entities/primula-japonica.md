@@ -16,7 +16,7 @@ sources:
   - Ohba, H. (1999). "Primulaceae." In: Iwatsuki, K. et al. (eds.), Flora of Japan, Vol. IIb.
 ---
 
-# Primula japonica
+## Primula japonica
 
 ## Overview
 

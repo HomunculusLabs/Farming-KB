@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Betula nana (Dwarf Birch)
+## Betula nana (Dwarf Birch)
 
 ## Description
 

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon
 tags: [ley-farming, soil-rebuilding, grass, clover, rotation, organic-matter, rest-period, solomon]
 ---
 
-# Ley Farming System for Soil Rebuilding and Garden Sustainability
+## Ley Farming System for Soil Rebuilding and Garden Sustainability
 
 ## Overview
 

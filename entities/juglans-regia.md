@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Juglans regia
+## Juglans regia
 
 **Type:** Species (Tree)
 **Category:** Nut-bearing tree

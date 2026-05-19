@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Educational Mycology Programs
+## Educational Mycology Programs
 
 Educational mycology programs introduce students of all ages to the fascinating kingdom of fungi through hands-on, inquiry-based learning. From simple observations in early elementary classrooms to advanced bioremediation research at the university level, mycology offers rich interdisciplinary connections to biology, chemistry, ecology, and environmental science. The following curriculum framework, drawn from Tradd Cotter's work in organic mushroom farming and mycoremediation, provides a progressive sequence of activities suitable for every educational stage.
 

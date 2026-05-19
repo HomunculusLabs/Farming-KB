@@ -1,4 +1,8 @@
-# Nag Hammadi, Logos Hibernation, and Valis: McKenna on Philip K. Dick and the Gnostic Information Entity
+---
+title: "Nag Hammadi, Logos Hibernation, and Valis: McKenna on Philip K. Dick and the Gnostic Information Entity"
+tags:
+  - concept
+---
 
 ## Overview
 

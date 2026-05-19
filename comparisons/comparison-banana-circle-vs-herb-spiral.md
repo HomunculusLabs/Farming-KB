@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Banana Circle vs Herb Spiral
+## Banana Circle vs Herb Spiral
 
 ## Overview
 

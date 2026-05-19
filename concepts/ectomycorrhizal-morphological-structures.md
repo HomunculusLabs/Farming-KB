@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Ectomycorrhizal Morphological Structures
+## Ectomycorrhizal Morphological Structures
 
 Ectomycorrhizal (ECM) associations form a distinctive set of anatomical features that distinguish them from all other mycorrhizal types. These structures -- the fungal mantle, [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs between fungus and host plant.
 

@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Elderly Patients
+## Cannabis for Elderly Patients
 
 The elderly population stands to benefit significantly from cannabis-based therapies, as many age-related conditions have shown responsiveness to cannabinoids. However, special considerations for dosing, [[cannabis-administration-methods-comparison]] are essential for safe and effective use in older adults.
 

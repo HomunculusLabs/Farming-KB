@@ -6,7 +6,7 @@ topics: ["compost-tea", "foliar-spray", "disease-suppression", "biological-contr
 type: concept
 ---
 
-# Foliar Application of Compost Tea — Disease Suppression and Pest Deterrence
+## Foliar Application of Compost Tea — Disease Suppression and Pest Deterrence
 
 ## Overview
 

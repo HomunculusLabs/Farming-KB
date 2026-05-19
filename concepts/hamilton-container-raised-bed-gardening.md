@@ -8,7 +8,7 @@ type: concept
 tags: [gardening]
 ---
 
-# Container and [[natural-farming-guide-hugelkultur-mounded-garden-beds]] --
+## Container and [[natural-farming-guide-hugelkultur-mounded-garden-beds]] --
 they offer unique opportunities for creative planting and for catering to
 specific plant needs.
 

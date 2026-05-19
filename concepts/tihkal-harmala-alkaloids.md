@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Harmala Alkaloids: Harmine, Harmaline, and Tetrahydroharmine
+## Harmala Alkaloids: Harmine, Harmaline, and Tetrahydroharmine
 
 ## Overview
 

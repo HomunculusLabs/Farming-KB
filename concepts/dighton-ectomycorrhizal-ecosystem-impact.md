@@ -8,7 +8,7 @@ type: concept
 tags: [ecosystem, mycology, mycorrhizal]
 ---
 
-# Ectomycorrhizal Ecosystem Impact
+## Ectomycorrhizal Ecosystem Impact
 
 Dighton (2003) details the profound influence of ectomycorrhizal (ECM) fungi
 on [[dighton-aquatic-hyphomycete-conidia-community-dynamics]], carbon cycling, and ecosystem

@@ -5,7 +5,7 @@ tags: [philosophy, consciousness, plant-intelligence, gaia, shamanism, partnersh
 created: 2026-05-09
 ---
 
-# The Vegetable Mind and Gaian Holism
+## The Vegetable Mind and Gaian Holism
 
 [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]]. The alkaloids they produce are not random
   metabolic byproducts but sophisticated molecular signals.

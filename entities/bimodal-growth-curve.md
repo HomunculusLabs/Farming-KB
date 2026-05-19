@@ -5,7 +5,7 @@ type: entity
 tags: [concept, grassland, pasture-management, seasonal-growth, forage-planning]
 ---
 
-# Bimodal Growth Curve of Grasses
+## Bimodal Growth Curve of Grasses
 
 ## Description
 

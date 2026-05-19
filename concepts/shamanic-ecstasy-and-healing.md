@@ -1,4 +1,8 @@
-# Shamanic Ecstasy and Healing
+---
+title: "Shamanic Ecstasy and Healing"
+tags:
+  - concept
+---
 
 ## Overview
 

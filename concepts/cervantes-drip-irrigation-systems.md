@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Drip Irrigation Systems for Cannabis
+## Drip Irrigation Systems for Cannabis
 
 Drip irrigation is a precise, low-volume watering method that
 delivers [[query-how-does-no-till-cannabis-cultivation-work]], drip systems offer consistency and reduced

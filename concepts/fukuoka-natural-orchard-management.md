@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka's Natural [[fukuoka-natural-farming-philosophy]] evolved through three stages:
+## Fukuoka's Natural [[fukuoka-natural-farming-philosophy]] evolved through three stages:
 
 1. **Grass cover:** Initially allowed various grasses to grow as ground cover
 2. **Green manure cultivation:** Deliberately planted [[fukuoka-orchard-soil-building-without-fertilizers]]. Cruciferous winter vegetables, when sown just before weeds emerge, grow vigorously and overwhelm weeds. Their deep roots are highly effective in soil improvement. Leguminous [[dighton-fungal-rock-weathering-mineral-dissolution]], microbial activity, and organic cycling

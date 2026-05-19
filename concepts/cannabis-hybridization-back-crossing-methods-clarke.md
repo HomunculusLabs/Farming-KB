@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.m
 type: concept
 ---
 
-# Cannabis Hybridization and Back-Crossing Methods
+## Cannabis Hybridization and Back-Crossing Methods
 
 Hybridization is the process of mixing differing gene pools to produce
 offspring of great genetic variation from which distinctive individuals

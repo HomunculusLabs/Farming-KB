@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, psychedelic-research, psychologist]
 ---
 
-# Gary M. Fisher
+## Gary M. Fisher
 
 ## Description
 

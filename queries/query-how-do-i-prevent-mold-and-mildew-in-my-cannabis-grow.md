@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Prevent Mold and Mildew in My Cannabis Grow?
+## How Do I Prevent Mold and Mildew in My Cannabis Grow?
 
 ## Short Answer
 Preventing mold and mildew in cannabis requires managing humidity below 50%

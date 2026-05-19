@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, reproduction, life-cycles, spores, mating-types]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Fungal Reproduction and Life Cycles
+## Fungal Reproduction and Life Cycles
 
 Fungi exhibit extraordinary diversity in reproductive strategies, ranging from
 simple asexual budding in yeasts to complex multicellular [[bloomfield-fungal-life-cycle-spiral-versus-circle]] cycles is essential for

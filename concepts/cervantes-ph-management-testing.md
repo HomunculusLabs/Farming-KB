@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# pH Management and Testing for Cannabis
+## pH Management and Testing for Cannabis
 
 The pH scale (1 to 14) measures acid-to-alkaline balance, where 1 is the most
 acidic, 7 is neutral, and 14 is the most alkaline. Jorge Cervantes

@@ -8,7 +8,7 @@ type: concept
 tags: [fungi, symbiosis]
 ---
 
-# Symbiotic Fungi — Lichen Symbiosis Overview
+## Symbiotic Fungi — Lichen Symbiosis Overview
 
 Lichens are mutualistic symbiotic associations between an alga and a fungus in which the two organisms jointly form a thallus that is distinct from either partner. The fungal partner is known as the mycobiont and the algal partner as the phycobiont. Both partners benefit from this symbiotic association, making lichens one of the oldest and most ecologically important examples of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. However, if the lichen contains an additional partner — namely a green alga — the blue-green alga becomes relieved of its photosynthetic function and is geared to fix nitrogen exclusively. This is evidenced by the fact that in the presence of a green alga in a three-member association, the blue-green alga produces more heterocysts, which are the specialised sites of nitrogen fixation.
 

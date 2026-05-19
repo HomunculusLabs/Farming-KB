@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Ingham — Calcium and Fungi Relationship
+## Ingham — Calcium and Fungi Relationship
 
 Elaine Ingham identifies a critical but often overlooked dependency between calcium availability in soil and the presence of functional [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]** absorb calcium from soil solution and deliver it directly to plant roots in exchange for carbon
 2. **Fungal hyphae** physically hold calcium on and within their cell walls

@@ -5,10 +5,10 @@ type: chemical
 tags: [amino-acid, essential-nutrient, tryptamine-precursor, biochemistry, nutrition]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
+sources: ["raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"]
 ---
 
-# Tryptophan
+## Tryptophan
 
 **Tryptophan** (abbreviated Trp or W) is an essential α-amino acid and the biochemical precursor to all [[psilocybin]], dimethyltryptamine|DMT, and [[antifungal-secondary-metabolites-coprophilous-fungi]] and is the target of the herbicide glyphosate.
 

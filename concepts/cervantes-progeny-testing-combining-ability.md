@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Progeny Testing and Combining Ability in Cannabis
+## Progeny Testing and Combining Ability in Cannabis
 
 Selecting male cannabis plants for breeding is inherently difficult
 because males do not produce the resinous flowers that make females

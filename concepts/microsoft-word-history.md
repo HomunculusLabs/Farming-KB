@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Microsoft Word History
+## Microsoft Word History
 
 Microsoft Word is one of the most widely used word processing applications in the
 world, developed by Microsoft. First released in 1983 for the Xenix and MS-DOS

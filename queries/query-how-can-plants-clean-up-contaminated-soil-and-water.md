@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: []
 ---
 
-# How Can Plants Clean Up Contaminated Soil and Water?
+## How Can Plants Clean Up Contaminated Soil and Water?
 
 ## Short Answer
 

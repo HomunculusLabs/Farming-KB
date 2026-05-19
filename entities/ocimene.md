@@ -20,7 +20,7 @@ sources:
   - Gershenzon, J. & Dudareva, N. (2007). "The function of terpene natural products in the natural world." Nature Chemical Biology, 3(7), 408-414.
 ---
 
-# Ocimene
+## Ocimene
 
 ## Overview
 

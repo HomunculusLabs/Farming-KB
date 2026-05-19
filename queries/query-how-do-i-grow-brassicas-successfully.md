@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How Do I Grow Brassicas Successfully?
+## How Do I Grow Brassicas Successfully?
 
 ## Short Answer
 

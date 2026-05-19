@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Errors of the Human Intellect
+## Errors of the Human Intellect
 
 Fukuoka's epistemological [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] to attempt a detached
 interpretation of the natural world.

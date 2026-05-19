@@ -23,7 +23,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# James Arthur
+## James Arthur
 
 Independent researcher, author, lecturer, and self-described "Theological Researcher, Shaman, Healer." Author of "Mushrooms and Mankind: A Brief Introduction to Ethnomycology." Arthur argues that Amanita muscaria is the hidden sacramental substance underlying most world religions and mythologies.
 

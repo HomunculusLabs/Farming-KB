@@ -11,14 +11,12 @@ tags:
   ]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md,
+  "]
 type: concept
 ---
 
-# The Dosoris Mushroom Cellar
+## The Dosoris Mushroom Cellar
 
 The Dosoris cellar is a purpose-built example of [[companion-cultivation-of-mushrooms-with-garden-vegetables]]. It is situated in an open,
 sunny part of the garden, and represents a purpose-built
@@ -118,3 +116,6 @@ observation, and a willingness to adapt approaches based on results.
 - [[falconer-mushroom-cultivation-victorian-methods]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+The Dosoris mushroom cellar design demonstrates how traditional infrastructure can be adapted for reliable year-round mushroom production.
+Proper ventilation and humidity control remain the critical factors for successful cellar cultivation.

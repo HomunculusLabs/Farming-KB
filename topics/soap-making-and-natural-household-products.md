@@ -19,7 +19,7 @@ related_concepts:
   - candle-making
 ---
 
-# Soap Making and Natural Household Products
+## Soap Making and Natural Household Products
 
 Soap making and natural household products represent some of the oldest and most practical homestead crafts, connecting chemistry, self-reliance, and ecological living. From the Babylonians who first recorded soap recipes around 2800 BCE to modern permaculture systems that close waste loops, the art of making cleaning and body care products from basic ingredients has remained remarkably consistent. At its core, soap making relies on a single chemical reaction — saponification — but the variations in fats, scents, additives, and techniques create an almost infinite diversity of products suited to every climate, skin type, and household need.
 

@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# Cold Hardiness Testing and Ratings
+## Cold Hardiness Testing and Ratings
 
 Understanding plant cold hardiness is essential for planning a
 successful [[coleman-semi-hibernating-winter-crops-harvest-extension]] be established well before

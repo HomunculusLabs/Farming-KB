@@ -9,7 +9,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: comparison
 ---
-# Ethnobotany vs Ethnomycology
+## Ethnobotany vs Ethnomycology
 Ethnobotany and ethnomycology are sister disciplines within ethnobiology that study
 the relationships between human cultures and the organisms they use — plants in the
 former case, fungi in the latter. Both draw on anthropology, ecology, chemistry, and

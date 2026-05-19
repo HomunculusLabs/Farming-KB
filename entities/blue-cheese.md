@@ -28,7 +28,7 @@ sources:
   - "Big Buddha Seeds — breeder catalog and strain documentation."
 ---
 
-# Blue Cheese
+## Blue Cheese
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# White Clover Ground Cover
+## White Clover Ground Cover
 
 ## Fukuoka's Clover Revolution
 

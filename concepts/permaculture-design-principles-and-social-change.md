@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Design Principles and Social Change
+## Permaculture Design Principles and Social Change
 
 Permaculture's twelve design principles, articulated by David Holmgren in *Permaculture: Principles & Pathways Beyond Sustainability*, provide a framework for designing sustainable human settlements and agricultural systems. Beyond their application to physical landscapes, these principles extend to social organization, economic systems, and strategies for cultural transformation.
 

@@ -18,7 +18,7 @@ sources:
   - Reyes-Agüero, J.A. et al. (2005). "Variation in Opuntia ficus-indica seed banks." Journal of Arid Environments, 63(1), 192-201.
 ---
 
-# Nopal Cactus Cultivation and Uses
+## Nopal Cactus Cultivation and Uses
 
 ## Overview and Taxonomy
 

@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Mushroom Processing and Preservation Techniques
+## Mushroom Processing and Preservation Techniques
 
 Because mushrooms are highly perishable, strategies for conservation and processing are
 essential for any [[organic-mushroom-farming-and-mycoremediation-overview]] enterprise. The FAO [[psilocybin-shelf-life-stability]] far beyond that of fresh produce.

@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Grow Eggplant Successfully?
+## How Do I Grow Eggplant Successfully?
 
 ## Short Answer
 

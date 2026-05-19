@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Purification and Contaminants
+## Water Purification and Contaminants
 
 Water quality is one of the most critical design considerations in any [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|systems]], common water pollutants, their complex interactions, and treatment
 approaches as described in *[[permaculture]]: [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]*.

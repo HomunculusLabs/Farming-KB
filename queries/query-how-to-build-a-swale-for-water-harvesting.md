@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# How to Build a Swale for Water Harvesting
+## How to Build a Swale for Water Harvesting
 ## Short Answer
 A swale is a level ditch-and-berm system built on contour across a slope to capture, slow, and infiltrate surface water runoff into the soil. Building one involves marking contour lines with an A-frame level, digging a shallow ditch on contour, and piling the excavated soil on the downhill side to form a berm that holds water until it soaks into the ground.
 ## Key Points

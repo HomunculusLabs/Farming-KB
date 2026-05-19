@@ -14,7 +14,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Psilocin Accumulation Pattern Across Flushes in Psilocybe cubensis
+## Psilocin Accumulation Pattern Across Flushes in Psilocybe cubensis
 
 Psilocin (4-hydroxy-N,N-dimethyltryptamine) is the dephosphorylated, pharmacologically active metabolite of psilocybin. Research by Bigwood and Beug (1982) revealed a striking and consistent pattern in how psilocin accumulates over successive flushes of [[psilocybin-psilocin-variation-flushes]] changes dramatically across flushes. In early flushes where psilocin is absent or near-zero, the ratio is essentially infinite. By flush 4, when psilocin peaks, the ratio drops significantly. This ratio shift may influence subjective effects, since psilocin is more readily absorbed and crosses the blood-brain barrier more efficiently than psilocybin. Psilocin is the compound that directly binds to serotonin 5-HT2A receptors, while psilocybin must first be dephosphorylated by alkaline phosphatases in the body.
 

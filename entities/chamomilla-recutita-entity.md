@@ -9,7 +9,7 @@ sources:
   - "General botanical and pharmacological knowledge"
 ---
 
-# Chamomilla recutita
+## Chamomilla recutita
 
 Chamomilla recutita (syn. [[matricaria-chamomilla]]), commonly known as German chamomile, is an annual herbaceous plant in the family Asteraceae. Native to Europe and Western Asia, it has been cultivated for centuries as a medicinal herb and is one of the most widely used botanical medicines in the world. The dried flower heads contain a complex mixture of volatile oils, flavonoids, and sesquiterpene lactones that confer anti-inflammatory, spasmolytic, and mild sedative properties. Chamomile preparations — primarily teas, extracts, and essential oils — are employed in traditional medicine systems across Europe, Asia, and the Americas for gastrointestinal complaints, anxiety, wound healing, and topical inflammation.
 

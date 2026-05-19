@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# High-Volume Cannabis Extraction and [[lemon-cannabis-alchemy-high-volume-extraction-method]] scales to industrial volumes using apparatus built from 55-gallon oil drums. At this scale, the same chemical principles apply — refluxing, soxhleting, distillation, and solvent collection — but the engineering challenges of handling large volumes of flammable solvents demand more robust safety systems. Beyond extraction, [[hashish]]
+## High-Volume Cannabis Extraction and [[lemon-cannabis-alchemy-high-volume-extraction-method]] scales to industrial volumes using apparatus built from 55-gallon oil drums. At this scale, the same chemical principles apply — refluxing, soxhleting, distillation, and solvent collection — but the engineering challenges of handling large volumes of flammable solvents demand more robust safety systems. Beyond extraction, [[hashish]]
 - Perform all operations: refluxing, soxhleting, distilling, and solvent collection
 - Incorporate necessary safety features for working with large volumes of flammable solvents
 

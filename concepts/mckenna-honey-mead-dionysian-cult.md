@@ -6,7 +6,7 @@ topic: psychedelics
 created: 2026-05-08
 ---
 
-# Honey, Mead, and the Dionysian Cult
+## Honey, Mead, and the Dionysian Cult
 
 McKenna traced the ancient relationship between honey, mead, and the Dionysian
 mysteries as a critical link in the devolution from the original mushroom cults

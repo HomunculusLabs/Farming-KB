@@ -19,7 +19,7 @@ related_concepts:
   - winter-squash-guide
 ---
 
-# Cucurbit Gardening Guide
+## Cucurbit Gardening Guide
 
 The cucurbit family, Cucurbitaceae, encompasses some of the most
 productive and visually rewarding plants in any vegetable garden.

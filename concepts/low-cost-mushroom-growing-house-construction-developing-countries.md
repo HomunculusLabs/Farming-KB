@@ -6,7 +6,7 @@ type: concept
 tags: [mushroom-cultivation, growing-house, low-cost, developing-countries, appropriate-technology, poverty-alleviation, construction]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
-# Low-Cost Mushroom Growing House Construction for Developing Countries
+## Low-Cost Mushroom Growing House Construction for Developing Countries
 The design and construction of a mushroom growing house is one of the three
 critical factors in successful [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. For growers in developing countries, the growing
 house must balance effective [[oyster-mushroom-species-fruiting-parameters]] between 20-30 degrees

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Reed Bed Water Treatment
+## Reed Bed Water Treatment
 
 Reed bed systems represent the most sophisticated biological water treatment stage, using higher plants to remove heavy metals, human pathogens, and even break down halogenated hydrocarbons synthesised as herbicides and pesticides. These systems serve as final treatment before water release to streams or reuse.
 

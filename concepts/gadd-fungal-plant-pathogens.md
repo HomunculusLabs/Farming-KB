@@ -14,7 +14,7 @@ sources:
   - Jenkinson, J. M., Wilson, R. A., Cartwright, Z., Soanes, D. M., Kershaw, M. J. & Talbot, N. J. (2006). Functional genomics of plant infection by the rice blast fungus Magnaporthe grisea. In Fungi in the Environment, ed. G. M. Gadd, S. C. Watkinson & P. S. Dyer. Cambridge University Press, pp. 227-254.
 ---
 
-# Fungal Plant Pathogens - Functional Genomics Perspective
+## Fungal Plant Pathogens - Functional Genomics Perspective
 
 ## Overview
 

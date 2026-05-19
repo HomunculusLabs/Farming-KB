@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Hypsizygus Cultivation
+## Hypsizygus Cultivation
 
 Hypsizygus is a genus of edible mushrooms that includes two well-known cultivated species: the **elm oyster** (*[[hypsizygus-ulmarius]]*) and the **shimeji** (*[[hypsizygus-tessulatus]]*). Despite being grouped in the same genus, these two mushrooms look and taste quite different from one another, yet both are relatively easy to grow and are valued for their culinary qualities. Both species prefer cooler fruiting temperatures, typically during spring and fall, and are hardwood-loving fungi that perform well on sterilized sawdust blends and supplemented substrates.
 

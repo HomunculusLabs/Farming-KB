@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Extending Yields and Cultural Impediments
+## Extending Yields and Cultural Impediments
 
 The concentration of yields into one short period is a fiscal [[permaculture]] aims to disperse food yield over time so that many products are available at any season.
 

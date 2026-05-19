@@ -5,7 +5,7 @@ type: entity
 tags: [community, labour-exchange, permaculture, australia, housing, cooperative]
 ---
 
-# Bendigo Home Builder's Club
+## Bendigo Home Builder's Club
 
 ## Description
 

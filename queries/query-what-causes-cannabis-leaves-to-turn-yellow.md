@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Causes Cannabis Leaves to Turn Yellow?
+## What Causes Cannabis Leaves to Turn Yellow?
 
 ## Short Answer
 Yellowing cannabis leaves (chlorosis) is most commonly caused by [[duggar-mushroom-environmental-factors-temperature-moisture-light]] to complex nutrient interactions.

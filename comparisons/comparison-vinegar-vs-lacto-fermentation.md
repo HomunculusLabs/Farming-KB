@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Vinegar vs Lacto Fermentation
+## Vinegar vs Lacto Fermentation
 
 ## Overview
 Vinegar fermentation and lacto fermentation are two distinct preservation

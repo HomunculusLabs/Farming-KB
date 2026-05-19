@@ -7,7 +7,7 @@ tags: [gardening, season-extension, vegetables, agriculture, climate, cultivatio
 sources: []
 ---
 
-# Winter Gardening Techniques
+## Winter Gardening Techniques
 
 Winter gardening extends the growing season into the cold months using protective structures, crop selection, and strategic planting. With proper techniques, gardeners in most climates can harvest fresh greens and root vegetables year-round, even through snow and freezing temperatures. Winter gardening overlaps with [[season-extension-techniques]] but focuses specifically on cold-season strategies.
 

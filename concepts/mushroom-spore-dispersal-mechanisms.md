@@ -5,7 +5,7 @@ tags: [mycology, spore-dispersal, fungal-ecology, mushroom-biology, mycology]
 created: 2026-05-09
 ---
 
-# Mushroom Spore Dispersal Mechanisms
+## Mushroom Spore Dispersal Mechanisms
 
 ## Why Spore Dispersal Matters
 

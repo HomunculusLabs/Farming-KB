@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [reference]
 ---
-# Weil — The Natural Mind: Altered States as Normal
+## Weil — The Natural Mind: Altered States as Normal
 
 ## Core Thesis
 

@@ -5,7 +5,7 @@ type: entity
 categories: [people, editing, permaculture]
 ---
 
-# Reny Mia Slay
+## Reny Mia Slay
 
 ## Description
 

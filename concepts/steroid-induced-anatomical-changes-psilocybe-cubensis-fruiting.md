@@ -11,7 +11,7 @@ related:
 tags: [brassinosteroid, morphology, annulus, fruiting-body, psilocybe-cubensis, steroid, anatomical-change]
 ---
 
-# Steroid-Induced Anatomical Changes in Psilocybe cubensis Fruiting Bodies
+## Steroid-Induced Anatomical Changes in Psilocybe cubensis Fruiting Bodies
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# Huxley's Doors of Perception and the Psilocybin Experiment at Wilflingen
+## Huxley's Doors of Perception and the Psilocybin Experiment at Wilflingen
 
 ## Overview
 

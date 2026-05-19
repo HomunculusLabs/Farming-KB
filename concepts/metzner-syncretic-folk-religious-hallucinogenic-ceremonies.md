@@ -4,7 +4,7 @@ aliases: ["syncretic metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-m
 tags: [shamanism, ceremony, ayahuasca, syncretism, religion, metzner]
 ---
 
-# Syncretic Folk Religious Hallucinogenic Ceremonies
+## Syncretic Folk Religious Hallucinogenic Ceremonies
 
 ## Overview
 

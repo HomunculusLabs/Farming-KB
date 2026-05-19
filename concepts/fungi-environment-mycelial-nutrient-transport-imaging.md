@@ -1,4 +1,8 @@
-# Mycelial Nutrient Transport and Imaging Techniques
+---
+title: "Mycelial Nutrient Transport and Imaging Techniques"
+tags:
+  - concept
+---
 
 **Source:** Fungi in the Environment — Gadd, Watkinson & Dyer (2007), Ch. 1
 

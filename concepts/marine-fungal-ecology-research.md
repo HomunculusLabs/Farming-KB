@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Marine Fungal Ecology and Ecosystem Function
+## Marine Fungal Ecology and Ecosystem Function
 
 ## Overview
 

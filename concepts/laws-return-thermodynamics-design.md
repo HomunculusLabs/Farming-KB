@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Laws of Return and Thermodynamics in Design
+## Laws of Return and Thermodynamics in Design
 
 ## The Law of Return
 

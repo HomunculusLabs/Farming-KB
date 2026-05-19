@@ -23,7 +23,7 @@ sources:
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html---
 
-# Suillus pungens
+## Suillus pungens
 
 ## Overview
 

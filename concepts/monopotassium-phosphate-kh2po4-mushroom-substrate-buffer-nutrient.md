@@ -1,4 +1,8 @@
-# Monopotassium Phosphate (KH2PO4) in [[mushroom-cultivation]] substrates. In the
+---
+title: "Monopotassium Phosphate (KH2PO4) in mushroom cultivation substrates. In the"
+tags:
+  - concept
+---
 Gartz et al. (1990) study on brassinosteroid effects in *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*
 and many other cultivated mushroom species.
 

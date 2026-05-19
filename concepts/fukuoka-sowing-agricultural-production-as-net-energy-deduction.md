@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Agricultural Production as Net Energy Deduction
+## Agricultural Production as Net Energy Deduction
 
 In *Sowing Seeds in the Desert*, Masanobu Fukuoka presented a devastating
 energy accounting of modern industrial agriculture, arguing that what appears

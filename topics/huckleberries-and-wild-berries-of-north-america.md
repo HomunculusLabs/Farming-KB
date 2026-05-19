@@ -18,7 +18,7 @@ sources:
   - Angier, B. (1974). Field Guide to Edible Wild Plants. Stackpole Books.
   - C. K. Evreinoff (2019). "Vaccinium species: guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution." Botanical Review 85(2).---
 
-# Huckleberries and Wild Berries of North America
+## Huckleberries and Wild Berries of North America
 
 ## Introduction
 

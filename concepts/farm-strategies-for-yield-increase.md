@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Farm Strategies for Yield Increase
+## Farm Strategies for Yield Increase
 
 [[water-management]], soil development, and integration of multiple production systems.
 

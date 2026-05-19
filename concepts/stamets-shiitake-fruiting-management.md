@@ -8,7 +8,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Shiitake (Lentinula edodes) Detailed Fruiting Management #mushroom-cultivation #medicinal-mushrooms #log-culture #indoor-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Shiitake chapter ## Overview Shiitake (Lentinula edodes) is the most cultivated mushroom in the world after the button mushroom. Known for its rich umami flavor and extensive medicinal properties including anti-tumor polysaccharides (lentinan), immune modulation, and cholesterol reduction. See also [[mushroom-spawn-run-thermogenesis-cotter]]:**
+## Shiitake (Lentinula edodes) Detailed Fruiting Management #mushroom-cultivation #medicinal-mushrooms #log-culture #indoor-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Shiitake chapter ## Overview Shiitake (Lentinula edodes) is the most cultivated mushroom in the world after the button mushroom. Known for its rich umami flavor and extensive medicinal properties including anti-tumor polysaccharides (lentinan), immune modulation, and cholesterol reduction. See also [[mushroom-spawn-run-thermogenesis-cotter]]:**
 - Temperature: 72-75F (22-24C)
 - Relative Humidity: 85-90% (lower than most species to discourage mold)
 - Duration: 21-30 days (bags); 6-18 months (logs)

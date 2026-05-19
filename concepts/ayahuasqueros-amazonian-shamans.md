@@ -6,7 +6,7 @@ created: 2026-05-08
 source: stuart-r-ayahuasca-tourism.md
 ---
 
-# Ayahuasqueros — Amazonian Ayahuasca Shamans
+## Ayahuasqueros — Amazonian Ayahuasca Shamans
 
 Ayahuasqueros are Amazonian shamans who specialize in the preparation and ceremonial administration of ayahuasca, the psychoactive brew used for healing, divination, and spiritual exploration throughout the Amazon basin. The term comes from the Spanish *ayahuasquero*, literally "one who makes or works with ayahuasca." These practitioners serve as the primary guides for both indigenous communities and the growing international population of ayahuasca tourists seeking the brew's effects.
 

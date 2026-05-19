@@ -5,7 +5,7 @@ tags: [psychedelics, psilocybin, tryptamines, mycology, consciousness, neurophar
 created: 2026-05-09
 ---
 
-# Psilocybin and Tryptamine Hallucinogens
+## Psilocybin and Tryptamine Hallucinogens
 
 ## Overview
 

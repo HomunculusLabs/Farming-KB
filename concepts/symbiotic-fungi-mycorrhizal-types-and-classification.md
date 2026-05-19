@@ -8,7 +8,7 @@ type: concept
 tags: [fungi, mycology, mycorrhizal]
 ---
 
-# Symbiotic Fungi — Mycorrhizal Types and Classification
+## Symbiotic Fungi — Mycorrhizal Types and Classification
 
 Mycorrhizae are mutualistic symbiotic associations between the roots of most plant species and fungi. The term, from the Greek *mykes* (mushroom or fungus) and *rhiza* (root), was first applied by the German forest pathologist A.B. Frank in 1885 to describe the peculiar association between tree roots and ectomycorrhizal fungi. In 1887, Frank recognised a distinction between ectotrophic and endotrophic mycorrhizae. An estimated 95% of all plant species belong to diverse genera that characteristically form mycorrhizae.
 

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# META-DOB
+## META-DOB
 
 META-DOB (5-Bromo-2,4-dimethoxyamphetamine) is a positional isomer of [[neurochemical-probes-brain-imaging-pihkal]] studies.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Substrate Formulation for Maitake Synthetic-Log Cultivation
+## Substrate Formulation for Maitake Synthetic-Log Cultivation
 
 [[fungal-succession-wood-substrates]] and
 spent-mushroom-substrate-recycling and

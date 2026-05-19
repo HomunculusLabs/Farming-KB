@@ -1,4 +1,8 @@
-# Multiple Realities and Spirit Beings in Shamanic Worldview
+---
+title: "Multiple Realities and Spirit Beings in Shamanic Worldview"
+tags:
+  - concept
+---
 
 ## Overview
 

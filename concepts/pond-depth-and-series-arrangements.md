@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Depth and Series Arrangements
+## Pond Depth and Series Arrangements
 
 The depth of water bodies and the way multiple ponds are connected in sequence have profound effects on productivity, species habitat, water quality, and overall system yields. This page explores how depth orders influence biological cycling and thermal stratification, and how ponds can be arranged in series to create trophic ladders that maximize production through sequential [[ingham-chelation-microbial-nutrient-processing]].
 

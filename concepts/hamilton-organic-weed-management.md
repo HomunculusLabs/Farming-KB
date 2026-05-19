@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Organic [[fukuoka-citrus-orchard-ground-cover-cultivation]], and careful soil preparation.
+## Organic [[fukuoka-citrus-orchard-ground-cover-cultivation]], and careful soil preparation.
 
 ## Clearing Uncultivated Ground
 

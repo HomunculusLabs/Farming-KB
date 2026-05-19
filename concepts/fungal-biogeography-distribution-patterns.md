@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Biogeography and Distribution Patterns
+## Fungal Biogeography and Distribution Patterns
 
 Fungal biogeography examines the spatial distribution of fungal species
 across landscapes, continents, and ecosystems. Understanding these

@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
-# Voacangine
+## Voacangine
 Voacangine is a monoterpenoid [[plants-of-the-gods-tabernanthe-iboga-chemistry]]. It is a biosynthetic precursor to ibogaine and serves
 as the primary psychoactive alkaloid in traditional West African preparations
 of Voacanga bark. Structurally classified as an iboga-type alkaloid, voacangine

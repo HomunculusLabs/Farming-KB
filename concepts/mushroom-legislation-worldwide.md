@@ -8,7 +8,7 @@ sources:
 - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-# Mushroom Legislation Worldwide
+## Mushroom Legislation Worldwide
 
 ## Overview
 

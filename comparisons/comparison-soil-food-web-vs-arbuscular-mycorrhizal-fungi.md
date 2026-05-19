@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Soil Food Web vs Arbuscular Mycorrhizal Fungi
+## Soil Food Web vs Arbuscular Mycorrhizal Fungi
 
 ## Overview
 The soil food web describes the entire ecosystem of organisms in soil, from

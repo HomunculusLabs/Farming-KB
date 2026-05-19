@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Pulsing Patterns of Life on Earth
+## Pulsing Patterns of Life on Earth
 
 The history of life on Earth reveals a fundamental pattern: vast periods of stability punctuated by shorter periods of dramatic change. These pulsing patterns operate at every scale, from geological epochs to seasonal cycles, nested within each other like Russian nesting dolls. Understanding these patterns is essential for developing the wisdom necessary for a culture of sustainability to emerge during energy descent.
 

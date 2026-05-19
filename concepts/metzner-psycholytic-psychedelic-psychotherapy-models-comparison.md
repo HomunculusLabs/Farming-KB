@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psycholytic and Psychedelic Psychotherapy Models
+## Psycholytic and Psychedelic Psychotherapy Models
 
 The two dominant paradigms for using [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] about the nature of psychedelic-assisted therapy. [[european-psycholytic-therapy-1960s-1970s]], neurotic patients suffering from anxiety, depression, obsessive-compulsive disorders, or psychosomatic conditions were given LSD in a **series of sessions at gradually increasing doses**. These sessions were conducted alongside more or less standard analytic interactions using a Freudian perspective. The rationale was that through the psycholysis — the loosening of psychological defenses — the patient would become more vividly aware of previously unconscious emotional dynamics and reaction patterns acquired in early family interactions.
 

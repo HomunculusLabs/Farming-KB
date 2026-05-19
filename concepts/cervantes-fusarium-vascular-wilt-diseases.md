@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fusarium and Vascular Wilt Diseases in Cannabis
+## Fusarium and Vascular Wilt Diseases in Cannabis
 
 Vascular wilt diseases are among the most destructive fungal
 infections in [[jorge-cervantes]] describes three

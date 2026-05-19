@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Leaf Mold as Ideal Soil Model
+## JADAM Leaf Mold as Ideal Soil Model
 
 ## Overview
 

@@ -21,7 +21,7 @@ sources:
 - raw/papers/unknown-working-with-agar.md
 ---
 
-# Agar Work Guide
+## Agar Work Guide
 
 Agar is the foundation of advanced mushroom cultivation. Working with agar allows you to isolate clean genetics from spores, rescue contaminated cultures, store long-term, and propagate without losing vigor.
 

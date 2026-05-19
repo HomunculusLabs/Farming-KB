@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# [[hashish]]
+## [[hashish]]
 
 - Hashish is heated for several minutes in an oven or frying pan at low heat until it begins to smoke slightly
 - It is then easily crumbled by hand, or ground to a fine powder in a mortar and pestle

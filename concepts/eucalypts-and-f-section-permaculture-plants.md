@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Eucalypts (continued) and F-Section Permaculture Plants
+## Eucalypts (continued) and F-Section Permaculture Plants
 
 This page continues the eucalypt coverage and covers plants from the letter F as catalogued in *Permaculture Plants: A Selection*.
 

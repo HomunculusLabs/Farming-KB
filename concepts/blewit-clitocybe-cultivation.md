@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Blewit (Clitocybe) Cultivation
+## Blewit (Clitocybe) Cultivation
 
 ## Overview
 

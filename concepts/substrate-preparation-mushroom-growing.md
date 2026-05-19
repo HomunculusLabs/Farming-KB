@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Substrate Preparation for Mushroom Growing
+## Substrate Preparation for Mushroom Growing
 
 Substrate is the material used [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]].
 

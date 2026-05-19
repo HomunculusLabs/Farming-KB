@@ -15,7 +15,7 @@ sources:
   - Shen, J. et al. (2011). "Form and function of phosphorus in plants." In *Phosphorus in Action* (Bünemann, E. et al., eds.). Springer.
 ---
 
-# How Does Phosphorus Availability Change Across Soil pH Levels?
+## How Does Phosphorus Availability Change Across Soil pH Levels?
 
 ## What is the overall relationship between soil pH and phosphorus (P) availability?
 

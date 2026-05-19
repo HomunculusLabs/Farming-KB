@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Soil Drench and Dilution Rates for Compost Tea
+## Soil Drench and Dilution Rates for Compost Tea
 
 Soil drenching with [[ingham-root-disease-treatment]] for [[humic-acids-soil-biology-ingham]] for nutrient chelation
 ## Background and Context

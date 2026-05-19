@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Hallucinogenic Plants: Overview and Cultural Significance
+## Hallucinogenic Plants: Overview and Cultural Significance
 
 Hallucinogenic plants are species that contain chemical substances capable of distorting the senses and producing hallucinations — experiences that depart from objective reality. Although most hallucinations are visual, they may involve any of the senses: hearing, touch, smell, or taste, and occasionally several simultaneously. These plants have played an extraordinary role in human culture since prehistoric times.
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Arthropods
+## Soil Arthropods
 
 ## Overview
 

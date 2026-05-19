@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
-# Yeast Diversity, Taxonomy, and Inventory Methods
+## Yeast Diversity, Taxonomy, and Inventory Methods
 
 Updated: 2026-04-18
 

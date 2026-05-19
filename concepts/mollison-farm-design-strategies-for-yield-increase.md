@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Farm Design Strategies for Yield Increase
+## Farm Design Strategies for Yield Increase
 
 ## Overview
 

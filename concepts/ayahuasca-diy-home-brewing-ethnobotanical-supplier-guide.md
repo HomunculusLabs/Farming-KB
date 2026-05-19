@@ -13,7 +13,7 @@ source:
   - "Stuart, R. 'guzman-psilocybin-mushrooms-south-america.' MAPS Bulletin, Vol XII No 2, Summer 2002."
 ---
 
-# Ayahuasca DIY Home-Brewing: Ethnobotanical Supplier Guide
+## Ayahuasca DIY Home-Brewing: Ethnobotanical Supplier Guide
 
 ## Overview
 

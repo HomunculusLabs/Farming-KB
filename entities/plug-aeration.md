@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Plug Aeration (Lawn)
+## Plug Aeration (Lawn)
 
 ## Description
 

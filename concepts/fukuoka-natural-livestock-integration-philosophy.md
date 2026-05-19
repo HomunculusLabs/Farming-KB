@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Livestock Integration Philosophy
+## Natural Livestock Integration Philosophy
 
 updated: 2026-04-18
 

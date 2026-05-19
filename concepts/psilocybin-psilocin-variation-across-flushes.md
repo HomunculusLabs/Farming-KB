@@ -7,7 +7,7 @@ tags: [mycology, psilocybin, psilocin, alkaloid-biosynthesis, mushroom-chemistry
 wikilinks: [psilocybe-cubensis-miniculture-technique, alkaloid-distribution-mushroom-caps-stems, hplc-analysis-psychedelic-mushrooms]
 ---
 
-# Psilocybin and Psilocin Variation Across Flushes
+## Psilocybin and Psilocin Variation Across Flushes
 
 One of the most significant findings in [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] (harvests) from the same culture. Bigwood and Beug (1982) demonstrated this systematically using controlled [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] contains two primary psychoactive indole alkaloids:
 

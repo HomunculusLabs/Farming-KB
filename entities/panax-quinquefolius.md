@@ -29,7 +29,7 @@ sources:
   - https://www.ars-grin.gov/cgi-bin/npgs/html/taxon.pl?31677
 ---
 
-# Panax quinquefolius
+## Panax quinquefolius
 
 ## Overview
 

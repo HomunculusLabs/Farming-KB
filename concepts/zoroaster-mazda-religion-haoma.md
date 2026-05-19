@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [reference]
 ---
 
-# Zoroaster, the Mazda Religion, and Haoma
+## Zoroaster, the Mazda Religion, and Haoma
 
 The Mazda religion (Zoroastrianism), founded by the prophet Zoroaster (Zarathushtra), represents one of the oldest continuously practiced religions in human history and may have profoundly influenced the development of Judaism, Christianity, Buddhism, and Islam. The [[mckenna-vedic-soma-indo-european-mysteries]] and was originally prepared from [[amanita-muscaria]]'s tendency to fruit after forest fires
 

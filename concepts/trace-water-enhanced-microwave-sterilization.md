@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Trace Water Enhanced Microwave Sterilization
+## Trace Water Enhanced Microwave Sterilization
 
 Trace water enhanced [[microwave-surface-sterilization]] for the overall technology
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

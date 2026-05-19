@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Molecular Methods for Assessing Geoactive Fungal Communities
+## Molecular Methods for Assessing Geoactive Fungal Communities
 
 ## Overview
 

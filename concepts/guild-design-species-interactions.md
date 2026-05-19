@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Guild Design and Species Interactions
+## Guild Design and Species Interactions
 
 Guild design is the methodology of assembling beneficial plant and animal communities — polycultures — that cooperate to enhance productivity, reduce inputs, and create self-managing ecosystems. Building on the spatial framework of [[permaculture-beginners-guide-zones-and-sectors]], guild design addresses the biological relationships between species, seeking to maximize mutual benefits while minimizing antagonism.
 

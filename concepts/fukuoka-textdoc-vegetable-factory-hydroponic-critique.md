@@ -14,7 +14,7 @@ sources:
   - microdosing-theory-and-practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
-# Fukuoka's Critique of Artificial Cultivation and Hydroponics
+## Fukuoka's Critique of Artificial Cultivation and Hydroponics
 
 Masanobu Fukuoka traced the degradation of agricultural food quality through a progression of increasingly artificial [[fukuoka-textdoc-semi-wild-vegetable-cultivation]] to hothouse horticulture as the first step in agriculture's divorce from nature.
 

@@ -7,7 +7,7 @@ topics: [homobrassinolide, stigmasterol, brassinosteroid, biosynthesis, chemistr
 type: concept
 ---
 
-# 22S,23S-Homobrassinolide Structure and Biosynthetic Origin from Stigmasterol in Fungal Systems
+## 22S,23S-Homobrassinolide Structure and Biosynthetic Origin from Stigmasterol in Fungal Systems
 
 ## Overview
 

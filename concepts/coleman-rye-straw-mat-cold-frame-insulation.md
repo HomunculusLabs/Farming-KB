@@ -5,7 +5,7 @@ author: eliot-coleman
 tags: [coleman, french-maraichage, cold-frame, straw-mats, insulation, winter-protection, parisian-market-gardens, historical-farming]
 ---
 
-# Rye Straw Mats for Cold Frame Insulation in French Maraichage
+## Rye Straw Mats for Cold Frame Insulation in French Maraichage
 
 ## Overview
 

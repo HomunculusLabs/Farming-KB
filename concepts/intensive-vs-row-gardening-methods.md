@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Intensive vs Row Gardening Methods
+## Intensive vs Row Gardening Methods
 
 ## Overview
 

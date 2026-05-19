@@ -8,7 +8,7 @@ tags:
 type: concept
 ---
 
-# Mind-Body Medicine and Emotional Molecules
+## Mind-Body Medicine and Emotional Molecules
 
 ## Overview
 

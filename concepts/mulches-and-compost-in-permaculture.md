@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mulches and Compost in Permaculture
+## Mulches and Compost in Permaculture
 
 ## Overview
 

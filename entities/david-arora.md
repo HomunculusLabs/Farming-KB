@@ -14,7 +14,7 @@ sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 ---
 
-# David Arora
+## David Arora
 
 David Arora is an American mycologist and author of *Mushrooms Demystified* (1986, 2nd ed.) and *All That the Rain Promises and More* (1991), two of the most beloved and comprehensive mushroom field guides in North America. His books are known for their accessible writing style, humor, and thorough taxonomic coverage.
 

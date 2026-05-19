@@ -5,7 +5,7 @@ type: entity
 tags: [people, ecology, biology, systems-thinking]
 ---
 
-# Charles Birch
+## Charles Birch
 
 ## Description
 

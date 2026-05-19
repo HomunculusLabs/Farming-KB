@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Trichoderma Forest Green Mold Guide
+## Trichoderma Forest Green Mold Guide
 
 Trichoderma is the most common and damaging mold contaminant in [[pf-tek-mushroom-growth-timeline]] and mold proliferation. Understanding its identification, prevention, and control is essential for every [[coprinus-atrementarius-entity-the-mushroom-cultivator]].
 

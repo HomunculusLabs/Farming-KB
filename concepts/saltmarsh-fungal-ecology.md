@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/ross-mars-permaculture-garden.md"
 ---
-# Saltmarsh Fungal Ecology
+## Saltmarsh Fungal Ecology
 
 [[spartina-alterniflora]]*), the dominant macrophyte of Atlantic coast saltmarshes. Ascomycete fungi are the primary decomposers of standing-dead cordgrass, driving lignocellulose breakdown through laccase-mediated enzymatic systems and forming a critical link in the coastal wetland food web.
 

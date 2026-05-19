@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Psilocybin Consciousness as Information in Process
+## Psilocybin Consciousness as Information in Process
 
 In "The Psilocybin Solution," Simon G. Powell develops a comprehensive theory that consciousness is a form of information, specifically a pattern of information embodied within the flowing electrochemical state of the brain. This informational model of mind is derived from examining the effects of [[mckenna-consciousness-expansion-and-drug-war]] is a form of information.
 

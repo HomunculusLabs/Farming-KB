@@ -5,7 +5,7 @@ type: entity
 tags: [egyptian, symbol, ethnomycology, amanita-muscaria, ancient-egypt, osiris, ritual-object]
 ---
 
-# Djed Pillar
+## Djed Pillar
 
 ## Description
 

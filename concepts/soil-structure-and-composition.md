@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Structure and Composition
+## Soil Structure and Composition
 
 ## Overview
 

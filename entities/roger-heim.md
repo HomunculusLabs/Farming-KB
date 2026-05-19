@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Roger Heim
+## Roger Heim
 
 **Roger Jean Heim** (1900–1979) was a French mycologist and botanist who served as director of the **Muséum national d'Histoire naturelle** in Paris from 1951 to 1965. He is best known for his taxonomic work on mushrooms and his pivotal role in identifying the [[psilocybe-southeast-asia-pacific]]
 - **Psychoactive Agaricales** — his most famous contribution

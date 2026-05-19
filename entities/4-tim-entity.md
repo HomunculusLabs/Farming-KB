@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 4-TIM (4-Thioisomescaline; 3,4-Dimethoxy-5-methylthiophenethylamine)
+## 4-TIM (4-Thioisomescaline; 3,4-Dimethoxy-5-methylthiophenethylamine)
 
 4-TIM is a sulfur-substituted phenethylamine and the thio-analogue of isomescaline, with a methylthio group replacing the 5-methoxy oxygen. It is a member of the thiomescaline series with moderate potency and a mixed quality of effects. The compound is listed as [[4-acetoxy-det]]
 

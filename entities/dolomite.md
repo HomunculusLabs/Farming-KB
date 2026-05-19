@@ -5,7 +5,7 @@ type: entity
 tags: [mineral, soil-amendment, limestone, calcium, magnesium]
 ---
 
-# [[comparison-gypsum-vs-dolomite]] and rock salt formation. Major deposits occur worldwide in ancient marine sedimentary basins. [[soil-ph]] while simultaneously supplying both calcium and magnesium
+## [[comparison-gypsum-vs-dolomite]] and rock salt formation. Major deposits occur worldwide in ancient marine sedimentary basins. [[soil-ph]] while simultaneously supplying both calcium and magnesium
 - Second most needed mineral after calcium in non-calcareous soils, per Mollison
 - Effective as a soil conditioner for improving [[tagari-publications]]. Chapter 8: Soils.
 - Leeper, G.W. (1982). *Introduction to Soil Science*. Melbourne University Press.

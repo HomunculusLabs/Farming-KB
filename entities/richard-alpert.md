@@ -12,7 +12,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 ---
 
-# Richard Alpert (Ram Dass)
+## Richard Alpert (Ram Dass)
 
 Richard Alpert (1931–2019) was an American spiritual teacher, psychologist, and author. Originally a Harvard professor alongside [[timothy-leary]] and [[ralph-metzner]], Alpert conducted pioneering psilocybin and LSD research in the early 1960s before being dismissed from Harvard when their experiments "lost their scientific character" (Hofmann). He traveled to India, studied with Neem Karoli Baba, and returned as Ram Dass — author of "Be Here Now" (1971), which became a foundational text for the Western spiritual movement.
 

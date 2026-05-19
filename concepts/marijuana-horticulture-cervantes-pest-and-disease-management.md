@@ -5,7 +5,7 @@ source_author: Jorge Cervantes
 topics: [cannabis, pests, diseases, integrated-pest-management, fungi, biological-control, horticulture]
 ---
 
-# Cannabis Pest and Disease Management
+## Cannabis Pest and Disease Management
 
 ## Overview
 

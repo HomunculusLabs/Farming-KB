@@ -8,7 +8,7 @@ sources:
   - "General mycological knowledge"
 ---
 
-# Armillaria mellea
+## Armillaria mellea
 
 Armillaria mellea, commonly known as the honey mushroom or honey fungus, is a species of basidiomycete fungus in the family Physalacriaceae. It is among the most ecologically significant and destructive forest pathogens in the world, capable of forming some of the largest and oldest [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and plays an important role in [[psilocybin-north-america-pacific-northwest]] ([[partial-veil-tropism-protection-before-spore-release]] remnants |
 | Gills | Adnate to slightly decurrent, white to cream, bruising brownish |

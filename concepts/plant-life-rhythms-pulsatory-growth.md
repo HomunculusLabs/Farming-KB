@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Plant Life Rhythms and Pulsatory Growth
+## Plant Life Rhythms and Pulsatory Growth
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Community Recycling Systems
+## Community Recycling Systems
 
 Community recycling systems represent a foundational strategy in [[permaculture-design]] for closing resource loops, reducing waste streams, and building local economic resilience. Rather than relying on centralized municipal waste management, these systems empower communities to take direct responsibility for the materials flowing through their settlements, transforming "waste" into valued resources.
 

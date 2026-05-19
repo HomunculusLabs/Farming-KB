@@ -6,7 +6,7 @@ tags: [mycelium, nutrient-transport, resource-translocation, fungal-physiology, 
 created: 2026-05-11
 ---
 
-# Fungal Mycelial Transport and Resource Translocation
+## Fungal Mycelial Transport and Resource Translocation
 
 Fungal mycelia are not simply collections of independent hyphae — they are
 integrated, cooperative networks capable of moving water, nutrients, carbon,

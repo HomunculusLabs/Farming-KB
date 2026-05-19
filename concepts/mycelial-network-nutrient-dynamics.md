@@ -6,7 +6,7 @@ tags: [mycelium, nutrient-transport, radiolabel-imaging, cytoplasmic-streaming, 
 created: 2026-05-08
 ---
 
-# Mycelial Network Nutrient Dynamics
+## Mycelial Network Nutrient Dynamics
 
 ## Overview
 

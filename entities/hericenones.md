@@ -24,7 +24,7 @@ aliases:
   - Hericenones A-J
 ---
 
-# Hericenones
+## Hericenones
 
 **Hericenones** are a family of cyathane-type sesquiterpenoids isolated from the [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and mycelium of **[[hericium-erinaceus]]** (lion's mane mushroom). First characterized by Kawagishi and colleagues in 1991, hericenones were identified as the first natural compounds found to stimulate **nerve growth factor (NGF)** synthesis in vitro. This discovery established lion's mane as a unique neurotrophic mushroom and sparked decades of research into fungal compounds for cognitive health and neuroprotection.
 

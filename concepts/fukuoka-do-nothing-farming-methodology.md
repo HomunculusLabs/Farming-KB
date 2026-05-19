@@ -6,7 +6,7 @@ tags: [fukuoka, natural-farming, do-nothing, no-till, direct-seeding, rice-barle
 created: 2026-05-11
 ---
 
-# Fukuoka's Do-Nothing Farming Methodology
+## Fukuoka's Do-Nothing Farming Methodology
 
 Masanobu Fukuoka's "do-nothing farming" (*mu* 無 agriculture) represents one of the most rigorously developed systems of natural cultivation ever practiced. Over more than thirty years on his farm in Ehime Prefecture, Japan, Fukuoka refined a method that consistently produced yields matching or exceeding conventional agriculture while eliminating plowing, fertilizing, pesticide application, weeding, and pruning. The system he called "direct-seeded, no-tillage, winter grain/rice succession in a clover cover" is both a practical farming technique and a philosophical statement about humanity's relationship with nature.
 

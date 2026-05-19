@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Holzer Irrigation Wisdom — When and How to Water
+## Holzer Irrigation Wisdom — When and How to Water
 
 ## Overview
 

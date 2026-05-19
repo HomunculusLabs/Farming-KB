@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Zone One Garden Design
+## Permaculture Zone One Garden Design
 
 **Zone One** is the innermost zone in [[permaculture-design]], defined as the area of most frequent human presence surrounding the dwelling. Typically extending 20 to 30 feet from the house, this zone forms the productive and interactive core of any permaculture system. It receives the most frequent visits, the most intensive management, and houses the elements that require the greatest attention — culinary herbs, salad greens, small-scale animal systems, and water features integrated into daily domestic life.
 

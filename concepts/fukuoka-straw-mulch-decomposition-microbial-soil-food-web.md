@@ -12,7 +12,7 @@ topics:
   - one-straw-revolution
 ---
 
-# Straw Mulch and the Microbial Soil Food Web in Natural Farming
+## Straw Mulch and the Microbial Soil Food Web in Natural Farming
 
 ## The Central Role of Straw in Fukuoka's Method
 

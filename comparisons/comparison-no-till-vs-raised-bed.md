@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# No-Till vs Raised Bed
+## No-Till vs Raised Bed
 
 ## Overview
 No-till gardening and raised bed gardening address the same goal of productive vegetable

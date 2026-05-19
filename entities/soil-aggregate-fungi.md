@@ -5,7 +5,7 @@ type: entity
 tags: [soil-aggregates, soil-structure, hyphal-binding, polysaccharide, tillage, no-till, soil-health]
 ---
 
-# Soil Aggregate Formation by Fungi
+## Soil Aggregate Formation by Fungi
 
 ## Description
 

@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Schisandra vs Tulsi
+## Schisandra vs Tulsi
 
 ## Overview
 

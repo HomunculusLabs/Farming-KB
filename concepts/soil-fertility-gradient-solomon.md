@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon
 tags: [soil-fertility, manure, compost, ley-rotation, organic-matter, gradient, capillarity, gardening]
 ---
 
-# Soil Fertility Gradient
+## Soil Fertility Gradient
 
 ## Overview
 

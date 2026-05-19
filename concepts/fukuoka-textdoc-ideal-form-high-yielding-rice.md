@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Ideal Form of High-Yielding Rice
+## Ideal Form of High-Yielding Rice
 
 [[fukuoka-lundberg-family-farms-natural-rice-transition]] and asking what
 healthy rice is.

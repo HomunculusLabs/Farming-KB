@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-one-straw-revolution.md
 ---
 
-# Fukuoka: Orchard Soil Restoration from Barren Clay
+## Fukuoka: Orchard Soil Restoration from Barren Clay
 
 ## The Barren Red Clay Mountain
 

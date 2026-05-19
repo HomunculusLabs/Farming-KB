@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Cancer - Research Overview
+## Cannabis and Cancer - Research Overview
 
 updated: 2026-04-18
 

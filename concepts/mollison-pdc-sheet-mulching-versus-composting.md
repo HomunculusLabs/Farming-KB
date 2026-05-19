@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# [[permaculture-design-course-methodology]] (Pamphlet IX: Permaculture
+## [[permaculture-design-course-methodology]] (Pamphlet IX: Permaculture
 Techniques), he presents a strongly argued case for sheet mulching over
 traditional composting as the primary soil-building strategy for home
 gardens and small-scale food systems. Mollison contends that composting,

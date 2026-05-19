@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Bioponics vs Aquaponics
+## Bioponics vs Aquaponics
 
 Both bioponics and aquaponics bridge the gap between hydroponics and organic growing, delivering nutrients to plants through biological processes rather than synthetic salts. They share a common goal—growing plants without soil using living nutrient cycles—but differ fundamentally in their input sources, complexity, and management demands.
 

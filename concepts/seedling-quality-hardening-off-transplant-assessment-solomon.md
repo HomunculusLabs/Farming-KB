@@ -1,4 +1,8 @@
-# Seedling Quality Assessment and Hardening Off for Vegetable Transplants
+---
+title: "Seedling Quality Assessment and Hardening Off for Vegetable Transplants"
+tags:
+  - concept
+---
 
 ## Overview
 Purchasing transplants from garden [[extending-growing-season]]. Understanding how to

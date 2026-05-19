@@ -6,7 +6,7 @@ sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
 ---
 
-# In-Vitro Sclerotia Production Timeline
+## In-Vitro Sclerotia Production Timeline
 
 ## Overview
 

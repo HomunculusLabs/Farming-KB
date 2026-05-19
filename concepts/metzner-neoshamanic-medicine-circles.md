@@ -1,5 +1,5 @@
 ---
-title: "metzner-neoshamanic-medicine-circles-structure-and-practice Circles — Hybrid hybrid-shamanic-therapeutic-rituals-metzner"
+title: "Metzner Neoshamanic Medicine Circles"
 type: concept
 tags:
   - shamanism
@@ -15,7 +15,7 @@ sources:
   - Metzner, R. (Ed.) (1999). Ayahuasca: Human Consciousness and the Spirits of Nature. New York: Thunder's Mouth Press.
 ---
 
-# Neoshamanic Medicine Circles — Hybrid Therapeutic Rituals
+## Neoshamanic Medicine Circles — Hybrid Therapeutic Rituals
 
 ## Overview
 

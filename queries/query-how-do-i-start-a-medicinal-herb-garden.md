@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Start a Medicinal Herb Garden?
+## How Do I Start a Medicinal Herb Garden?
 
 ## Short Answer
 Starting a medicinal herb garden begins with selecting 5 to 10 easy-to-grow

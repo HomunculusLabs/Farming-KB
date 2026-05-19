@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Sheet Mulching vs Square Foot Gardening
+## Sheet Mulching vs Square Foot Gardening
 
 ## Overview
 [[sheet-mulching]] and square foot gardening are both intensive

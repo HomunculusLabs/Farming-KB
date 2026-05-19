@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# ESPAD School Survey: Perceived Availability of Magic Mushrooms
+## ESPAD School Survey: Perceived Availability of Magic Mushrooms
 
 The European School Survey Project on Alcohol and Other Drugs (ESPAD) provides standardized data on substance use and perceived availability among 15 to 16 year old school students across EU Member States and candidate countries. The 2003 ESPAD survey, conducted in 22 EU Member States plus Norway and four candidate countries (Croatia, Bulgaria, Turkey, and Romania), included questions about perceived ease of obtaining hallucinogenic mushrooms.
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Straw Bale vs Adobe Construction
+## Straw Bale vs Adobe Construction
 
 ## Overview
 

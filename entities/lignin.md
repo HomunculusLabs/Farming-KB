@@ -5,7 +5,7 @@ type: entity
 tags: [chemistry, plant-compound, decomposition, secondary-metabolite]
 ---
 
-# Lignin
+## Lignin
 
 ## Description
 

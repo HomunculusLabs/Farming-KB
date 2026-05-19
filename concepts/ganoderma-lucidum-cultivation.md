@@ -1,5 +1,5 @@
 ---
-title: stamets-reishi-ganoderma-lucidum-cultivation Cultivation
+title: "Ganoderma Lucidum Cultivation"
 created: 2026-04-28
 tags:
   - ganoderma
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ganoderma Lucidum Cultivation
+## Ganoderma Lucidum Cultivation
 
 Ganoderma lucidum, known as Reishi in Japan and Ling Zhi in China, is the
 number one [[synthetic-log-cultivation-methods-guide]] exist: synthetic log (bag) cultivation and

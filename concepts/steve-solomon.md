@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Steve Solomon
+## Steve Solomon
 
 Steve Solomon is an American vegetable gardening author, seed company founder, and advocate for low-cost, self-sufficient food production. He is best known as the founder of [[territorial-seed-company]] and author of *Growing Vegetables West of the Cascades* and *[[gardening-when-it-counts]]*.
 

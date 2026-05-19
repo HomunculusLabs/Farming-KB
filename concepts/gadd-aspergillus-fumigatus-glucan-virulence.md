@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Alpha-1,3-Glucan and Aspergillus fumigatus Virulence
+## Alpha-1,3-Glucan and Aspergillus fumigatus Virulence
 
 The [[bloomfield-fungal-pathogens-and-parasites]], alpha-1,3-glucan is a major cell wall polysaccharide
 with critical implications for virulence.

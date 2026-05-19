@@ -17,7 +17,7 @@ sources:
   - https://www.wikileaf.com/strain/jack-herer/
 ---
 
-# Jack Herer
+## Jack Herer
 
 ## Overview
 

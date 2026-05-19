@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Selecting a Candidate for Cultivation
+## Selecting a Candidate for Cultivation
 
 Many mushroom hunters would love to have their favorite edible
 [[accessible-mushroom-cultivation-for-disabilities]] is currently limited to about

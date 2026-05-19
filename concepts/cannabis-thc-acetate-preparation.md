@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: [raw/papers/ben-lemon-cannabis-alchemy.md]
 ---
-# Cannabis THC Acetate Preparation
+## Cannabis THC Acetate Preparation
 
 THC acetate has approximately twice the potency of THC on the Adams scale (THC = 7.3, THC acetate = 14.6). There is also a 25% increase in weight after adding the acetate structure. The effect of THC acetate is more spiritual and psychedelic than ordinary THC, with a unique property: a delay of about thirty minutes before effects are felt. The pharmacological profile places it alongside other [[cervantes-hash-cannabis-oil-production]]
 3. Assemble apparatus: flask in oil bath, condenser secured above, thermometer visible through safety glass

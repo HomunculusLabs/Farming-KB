@@ -9,7 +9,7 @@ sources: []
 type: comparison
 ---
 
-# Greenhouse Growing vs Container Gardening
+## Greenhouse Growing vs Container Gardening
 
 ## Overview
 Greenhouse growing and container gardening both [[eclss-environmental-control-life-support]]. A greenhouse provides a controlled microclimate

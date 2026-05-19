@@ -6,7 +6,7 @@ tags: [mycoremediation, soil-erosion, oil-spill, bioremediation, fungi, hydrocar
 aliases: [Fungal [[mollison-soil-erosion-control]], Mushroom Oil Spill Cleanup, Biological [[dighton-fungal-roles-soil-erosion-prevention]]
 ---
 
-# Mycoremediation of Soil Erosion and Oil Spills
+## Mycoremediation of Soil Erosion and Oil Spills
 
 Using fungal mycelium to control soil erosion, filter contaminated water, and
 remediate hydrocarbon-based pollution through extracellular enzyme production and

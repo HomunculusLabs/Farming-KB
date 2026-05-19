@@ -21,7 +21,7 @@ sources:
   - WHO. Kava: A review of safety of traditional and complementary/alternative medicine. WHO, 2007.
 ---
 
-# Kava vs Kratom — Cultivation, Chemistry, and Uses
+## Kava vs Kratom — Cultivation, Chemistry, and Uses
 
 ## At a Glance
 

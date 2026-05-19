@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# World as Tessellation of Events
+## World as Tessellation of Events
 
 ## Overview
 

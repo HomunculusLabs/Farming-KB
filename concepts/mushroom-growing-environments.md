@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mushrooms, environment, grow-chamber, cultivation, mycology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Growing Environments
+## Mushroom Growing Environments
 
 The growing environment, often called a [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. It consists of a
 clear plastic tote with holes drilled on all six sides (1/4 inch holes

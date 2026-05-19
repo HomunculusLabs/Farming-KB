@@ -5,7 +5,7 @@ type: entity
 tags: [person, poet, farmer, author, agriculture, sustainability, american]
 ---
 
-# Wendell Berry
+## Wendell Berry
 
 ## Description
 

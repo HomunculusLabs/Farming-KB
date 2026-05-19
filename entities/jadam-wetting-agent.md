@@ -5,7 +5,7 @@ type: entity
 tags: [input, pesticide, surfactant, organic, jadam, diy, canola-oil]
 ---
 
-# JADAM Wetting Agent (JWA)
+## JADAM Wetting Agent (JWA)
 
 ## Description
 

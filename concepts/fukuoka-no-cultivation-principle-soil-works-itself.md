@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka's First Principle: No Cultivation
+## Fukuoka's First Principle: No Cultivation
 
 ## Context: The Four Principles
 

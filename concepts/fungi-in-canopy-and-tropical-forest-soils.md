@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi in Canopy and Tropical Forest Soils
+## Fungi in Canopy and Tropical Forest Soils
 
 ## Overview
 

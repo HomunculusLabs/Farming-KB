@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Control Pests Without Chemicals?
+## How Do I Control Pests Without Chemicals?
 
 ## Short Answer
 

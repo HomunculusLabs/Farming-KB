@@ -15,7 +15,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Cannabis Endorhiza Sampling Timing — Post-Harvest vs Pre-Harvest Effects
+## Cannabis Endorhiza Sampling Timing — Post-Harvest vs Pre-Harvest Effects
 
 Winston et al. (2014) collected samples in two experiments with a critical
 difference in timing: Experiment 1 sampled eight weeks post-harvest, while

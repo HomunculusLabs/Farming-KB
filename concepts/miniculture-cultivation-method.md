@@ -8,7 +8,7 @@ sources:
 type: concept
 ---
 
-# Miniculture Cultivation Method for Psilocybe cubensis
+## Miniculture Cultivation Method for Psilocybe cubensis
 
 ## Overview
 

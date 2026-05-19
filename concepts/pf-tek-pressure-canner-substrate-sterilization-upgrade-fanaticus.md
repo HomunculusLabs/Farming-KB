@@ -5,7 +5,7 @@ author: comparison-pressure-canning-vs-water-bath-canning, substrate
 created: 2026-05-10
 ---
 
-# PF-TEK Pressure Canner Substrate Sterilization Upgrade
+## PF-TEK Pressure Canner Substrate Sterilization Upgrade
 
 ## Overview
 

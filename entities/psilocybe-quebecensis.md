@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe quebecensis
+## Psilocybe quebecensis
 
 **Psilocybe quebecensis** is a rare, bluing, psilocybin-containing mushroom species first described from Quebec, Canada. It is one of the northernmost-documented psilocybin-producing species and is adapted to cold, boreal forest environments. The species was documented in Paul Stamets' comprehensive survey of [[psilocybe-stuntzii]] have not been extensively studied using modern molecular methods.
 

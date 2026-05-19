@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# psilocybe cubensis Biogeography and the Columbian Exchange Hypothesis
+## psilocybe cubensis Biogeography and the Columbian Exchange Hypothesis
 
 ## Overview
 

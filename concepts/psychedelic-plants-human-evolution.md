@@ -19,7 +19,7 @@ sources:
   - Schultes, R.E. & Hofmann, A. (1979). "Plants of the Gods: Origins of Hallucinogenic Use." McGraw-Hill.
 ---
 
-# Psychedelic Plants and Human Evolution
+## Psychedelic Plants and Human Evolution
 
 [[terence-mckenna]] proposed that the interaction between early humans and
 psychoactive plants was a decisive factor in the emergence of language,

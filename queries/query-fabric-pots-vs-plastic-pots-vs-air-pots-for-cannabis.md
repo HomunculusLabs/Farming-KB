@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# Fabric Pots vs Plastic Pots vs Air Pots for Cannabis
+## Fabric Pots vs Plastic Pots vs Air Pots for Cannabis
 
 ## Short Answer
 Fabric pots (smart pots) promote air pruning of roots, preventing root circling 

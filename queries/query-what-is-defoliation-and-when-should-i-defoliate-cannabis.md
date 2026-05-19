@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Defoliation and When Should I Defoliate Cannabis?
+## What Is Defoliation and When Should I Defoliate Cannabis?
 
 ## Short Answer
 Defoliation is the selective removal of leaves from a cannabis

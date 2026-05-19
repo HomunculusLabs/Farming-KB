@@ -4,7 +4,7 @@ source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, straw-substrate, brown-rice-flour, supplementation, boil-a-bag]
 ---
 
-# Brown Rice Flour Supplementation on Straw Substrate for Mushrooms
+## Brown Rice Flour Supplementation on Straw Substrate for Mushrooms
 
 In the boil-a-bag method, D.H. Jarrold introduces brown rice flour as a
 nutritional supplement sprinkled over the prepared straw substrate before

@@ -7,7 +7,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 created: 2026-05-10
 ---
 
-# Surface Sterilization Methods Comparison
+## Surface Sterilization Methods Comparison
 
 ## Overview
 

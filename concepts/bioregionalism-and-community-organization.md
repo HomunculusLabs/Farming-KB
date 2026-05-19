@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bioregionalism and Community Organization
+## Bioregionalism and Community Organization
 
 Bioregionalism is a philosophy and organizing principle that aligns human settlement and economic activity with natural ecological boundaries rather than arbitrary political borders. In [[permaculture-design]], bioregionalism serves as the framework for creating sustainable, self-reliant communities that are deeply connected to their local ecosystems.
 

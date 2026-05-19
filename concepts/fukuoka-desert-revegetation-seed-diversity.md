@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Desert Revegetation Through Seed Diversity
+## Desert Revegetation Through Seed Diversity
 
 updated: 2026-04-18
 

@@ -1,4 +1,8 @@
-# PF TEK Jar Size Importance: Why Half-Pint Wide-Mouth Jars Are Essential
+---
+title: "PF TEK Jar Size Importance: Why Half-Pint Wide-Mouth Jars Are Essential"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08
@@ -143,8 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[cervantes-container-gardening-pot-size]]
-- [[garden-land-size-and-food-self-sufficiency-solomon]]
-- [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]
-- [[soil-porosity-pore-size-distribution]]

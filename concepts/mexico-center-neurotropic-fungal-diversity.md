@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mexico as Center of Neurotropic Fungal Diversity
+## Mexico as Center of Neurotropic Fungal Diversity
 
 ## Unmatched Species Richness
 

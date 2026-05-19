@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, toxicology, amanita, poisons]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
+sources: ["raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"]
 type: concept
 ---
 
-# Amatoxin Poisoning Mechanism
+## Amatoxin Poisoning Mechanism
 
 Amatoxins are among the most lethal natural poisons produced by any
 organism. Found primarily in species of Amanita (death caps and

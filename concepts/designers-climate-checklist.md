@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Designer's Climate Checklist
+## Designer's Climate Checklist
 
 This checklist provides a systematic approach to gathering and applying climatic data for permaculture site design. It is extracted from the end of the climate chapter of Permaculture: A Designer's Manual and represents the essential field observations and data collection steps every designer should follow.
 

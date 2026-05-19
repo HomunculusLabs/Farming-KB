@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Cultivation Steps and Substrate Preparation
+## Mushroom Cultivation Steps and Substrate Preparation
 
 Mushroom cultivation is a viable livelihood that can be practiced by people of all abilities. This guide covers the complete 20-step process from species selection through business management, with emphasis on the substrate preparation, inoculation, and incubation phases that form the core of production.
 

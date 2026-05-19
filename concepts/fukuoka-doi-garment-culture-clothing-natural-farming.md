@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 tags: [fukuoka, natural-farming, clothing, doi, traditional-garments, farmer-attire, japanese-culture]
 ---
 
-# The Doi Garment and the Culture of Clothing in Natural Farming
+## The Doi Garment and the Culture of Clothing in Natural Farming
 
 ## Overview
 

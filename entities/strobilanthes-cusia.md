@@ -14,7 +14,7 @@ sources:
   - Hsu HY. (1986). "Oriental psilocybe-southeast-asia-pacific." MIT Press.
 ---
 
-# Strobilanthes cusia
+## Strobilanthes cusia
 
 ## Overview
 

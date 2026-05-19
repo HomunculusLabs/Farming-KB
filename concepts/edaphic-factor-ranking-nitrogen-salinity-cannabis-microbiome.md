@@ -5,7 +5,7 @@ tags: [microbiology, cannabis, microbiome, edaphic-factors, soil-science, nitrog
 date: 2026-05-08
 ---
 
-# Edaphic Factor Ranking in Cannabis Microbiome Assembly via BEST Analysis
+## Edaphic Factor Ranking in Cannabis Microbiome Assembly via BEST Analysis
 
 ## Overview
 

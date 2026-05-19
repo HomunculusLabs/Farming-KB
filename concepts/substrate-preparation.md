@@ -1,13 +1,13 @@
 ---
-title: cotter-substrate-preparation
+title: "Substrate Preparation"
 created: 2026-04-28
 tags: [mycology, cultivation, substrate, mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# [[oyster-mushroom-supplemented-sawdust-blocks]] blocks. Hardwoods are preferred
+## [[oyster-mushroom-supplemented-sawdust-blocks]] blocks. Hardwoods are preferred
 over softwoods because many mushroom species cannot efficiently break down
 the resins and lignins in coniferous wood. Sawdust should be from freshly
 cut or kiln-dried wood, as aged or rotten wood may harbor competing organisms.

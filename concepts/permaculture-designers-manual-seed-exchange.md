@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, plant-systems, genetics]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Seed Exchange
+## Seed Exchange
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
 **Updated:** 2026-04-18
 ## Overview

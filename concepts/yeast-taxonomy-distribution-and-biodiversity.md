@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Yeast Taxonomy, Distribution, and Biodiversity
+## Yeast Taxonomy, Distribution, and Biodiversity
 
 ## Overview
 

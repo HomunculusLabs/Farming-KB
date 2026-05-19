@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, mycology, foraging, species-profiles, ecology, species,
 sources: []
 ---
 
-# Morel Mushroom Guide
+## Morel Mushroom Guide
 
 ## Overview
 

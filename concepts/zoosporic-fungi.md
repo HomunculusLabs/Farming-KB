@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Zoosporic Fungi
+## Zoosporic Fungi
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# Mushroom Contamination Control
+---
+title: "Mushroom Contamination Control"
+tags:
+  - concept
+---
 
 **Source:** PF TEK - [[contamination-prevention-in-mushroom-cultivation]]. Contaminant organisms — molds, bacteria, and yeasts — compete with the desired [[growing-gourmet-atmospheric-steam-sterilization]], [[pf-tek-bacteria-contamination-detection]]** is detectable through the top dry vermiculite layer as a **sour foul odor** within two days after inoculation (accompanied by no [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] mycelium and [[comparison-pressure-canning-vs-water-bath-canning]]. This works because:
 

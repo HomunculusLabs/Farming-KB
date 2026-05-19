@@ -7,7 +7,7 @@ tags: [cannabis, cardiovascular, heart-disease, THC, CBD, endocannabinoid-system
 aliases: [cannabis-cardiovascular, cannabis-heart-disease, cannabis-hypertension]
 ---
 
-# Cannabis and Cardiovascular Health — Evidence Review
+## Cannabis and Cardiovascular Health — Evidence Review
 
 Cardiovascular disease remains the number-one killer in the United States and many other industrialized nations. The endocannabinoid system (ECS) plays a significant role in cardiovascular regulation, with cannabinoid receptors (CB1 and CB2) present in heart tissue, vascular endothelium, and throughout the [[blesching-cannabis-smoking-lung-pulmonary-effects]] and its constituents might offer therapeutic benefits for heart disease, hypertension, stroke, and related conditions.
 

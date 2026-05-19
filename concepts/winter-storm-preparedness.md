@@ -7,7 +7,7 @@ tags: [safety, homesteading, climate, water, animal-husbandry]
 sources: []
 ---
 
-# Winter Storm Preparedness
+## Winter Storm Preparedness
 
 Winter storms bring heavy snow, ice, extreme cold, and prolonged power outages. Rural homesteads face the greatest challenges due to isolation, longer road clearing times, and reliance on external infrastructure for heating and water. This guide covers backup heating, pipe freeze prevention, [[windbreak-design-and-livestock-shelter]], and emergency supplies.
 

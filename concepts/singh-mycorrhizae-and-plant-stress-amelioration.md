@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizae and Plant Stress Amelioration
+## Mycorrhizae and Plant Stress Amelioration
 
 ## Overview
 

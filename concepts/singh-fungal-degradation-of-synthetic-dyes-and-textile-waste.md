@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Degradation of Synthetic Dyes and Textile Waste
+## Fungal Degradation of Synthetic Dyes and Textile Waste
 
 ## Overview
 

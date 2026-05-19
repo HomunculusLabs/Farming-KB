@@ -6,7 +6,7 @@ created: 2026-05-08
 source: guid-mhtml-file-exotic-cultivation-grass-seed.md
 ---
 
-# Flammability Hazard of Alcohol and Lysol During Flame Sterilization
+## Flammability Hazard of Alcohol and Lysol During Flame Sterilization
 
 ## Overview
 

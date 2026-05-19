@@ -8,7 +8,7 @@ sources:
   - "raw/papers/amaringo-p-ayahuasca-visions.md"
 ---
 
-# Amazonian Boa Spirits and Water Beings in Shamanic Practice
+## Amazonian Boa Spirits and Water Beings in Shamanic Practice
 
 Boa constrictors (anacondas and other large snakes) are among the most powerful and frequently depicted beings in Pablo Amaringo's ayahuasca visions. They serve as protectors, healers, owners of sacred lakes, and -- when employed by sorcerers -- terrifying weapons of destruction. The boa is the quintessential Amazonian spirit being, bridging the worlds of water, earth, and sky.
 

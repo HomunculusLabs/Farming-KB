@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Dehydration vs Lacto-Fermentation
+## Dehydration vs Lacto-Fermentation
 
 ## Overview
 

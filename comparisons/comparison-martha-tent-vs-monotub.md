@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Martha Tent vs Monotub Cultivation
+## Martha Tent vs Monotub Cultivation
 
 ## Overview
 Martha tents and monotubs are the two most popular fruiting setups for home mushroom

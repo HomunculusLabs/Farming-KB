@@ -27,7 +27,7 @@ sources:
 - concepts/mushroom-species-guide.md
 ---
 
-# Fungal Remediation Decision Tree
+## Fungal Remediation Decision Tree
 
 Flowchart-style reference for matching fungal species to contaminant types. Covers heavy metals, petroleum hydrocarbons, PAHs, PCBs, dioxins, pesticides, pathogens, dyes, pharmaceuticals, and explosives. Compiled from [[mycoremediation-basics]], [[mycoremediation-techniques]], and [[mycofiltration-overview]].
 

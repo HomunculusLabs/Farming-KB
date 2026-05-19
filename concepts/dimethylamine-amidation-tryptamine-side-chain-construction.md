@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
-# Dimethylamine Amidation in Tryptamine Side Chain Construction
+## Dimethylamine Amidation in Tryptamine Side Chain Construction
 
 The conversion of an [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
 using dimethylamine is a critical step in the construction of the

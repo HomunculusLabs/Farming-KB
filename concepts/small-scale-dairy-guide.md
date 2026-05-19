@@ -4,9 +4,9 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
-# Small Scale Dairy Guide
+## Small Scale Dairy Guide
 
 Small-scale dairying on the homestead provides fresh milk, cheese, butter, yogurt, and other dairy products. Whether working with a family cow or a small goat herd, successful dairy production requires consistent routines, proper sanitation, and understanding of milk handling principles.
 

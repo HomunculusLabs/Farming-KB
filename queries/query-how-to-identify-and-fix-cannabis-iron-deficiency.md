@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Identify and Fix Iron Deficiency in Cannabis
+## How to Identify and Fix Iron Deficiency in Cannabis
 
 ## Short Answer
 Iron deficiency in cannabis causes interveinal chlorosis on new leaves, leaving the veins green while the tissue between them turns pale yellow. It is almost always caused by incorrect pH rather than an actual lack of iron in the soil or medium. Fixing the root cause pH issue allows the plant to absorb iron again.

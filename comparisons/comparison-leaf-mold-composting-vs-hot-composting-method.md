@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Leaf Mold Composting vs Hot Composting
+## Leaf Mold Composting vs Hot Composting
 
 ## Overview
 

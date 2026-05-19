@@ -1,4 +1,8 @@
-# Aquaponics System Design
+---
+title: "Aquaponics System Design"
+tags:
+  - concept
+---
 
 Aquaponics is an integrated food production system that combines aquaculture
 (fish farming) with hydroponics (soilless plant cultivation [[fukuoka-microbial-ecology-decomposition]], and hydraulic

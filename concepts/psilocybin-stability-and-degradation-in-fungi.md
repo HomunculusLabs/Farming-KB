@@ -1,4 +1,8 @@
-# Psilocybin Stability and Degradation in Fungi
+---
+title: "Psilocybin Stability and Degradation in Fungi"
+tags:
+  - concept
+---
 
 ## Overview
 

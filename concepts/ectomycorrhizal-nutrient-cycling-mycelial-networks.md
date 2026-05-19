@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Nutrient Cycling and Mycelial Networks
+## Ectomycorrhizal Nutrient Cycling and Mycelial Networks
 
 ## Overview
 

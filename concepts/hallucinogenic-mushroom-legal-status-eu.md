@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom Legal Status EU
+## Hallucinogenic Mushroom Legal Status EU
 
 The legal status of [[amanita-pantherina]] as legal alternatives, despite substantial
 toxicity risks. Purple Ohms capsules ([[emcdda-return-to-nature-megatrend-mushroom-appeal]]" megatrend, consumer

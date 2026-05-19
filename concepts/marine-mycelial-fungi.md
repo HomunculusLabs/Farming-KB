@@ -7,7 +7,7 @@ tags: [mycology, fungi, marine-biology, ecology]
 sources:
   - "raw/papers/ross-mars-permaculture-garden.md"
 ---
-# Marine Mycelial Fungi
+## Marine Mycelial Fungi
 
 ## Overview
 

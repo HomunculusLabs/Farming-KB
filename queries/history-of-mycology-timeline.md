@@ -12,7 +12,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# History of Mycology Timeline
+## History of Mycology Timeline
 
 Chronological milestones in the scientific study of fungi, from ancient observations to modern genomics.
 Draws from history of mycology timeline, [[fungal-evolution]], and entity pages for key mycologists.

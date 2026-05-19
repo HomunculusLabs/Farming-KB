@@ -29,7 +29,7 @@ related_concepts:
   - solomon-gardening-aikido-pest-philosophy-ecological-management
 ---
 
-# [[solomon-drought-gardening-and-water-conservation|Gardening]]
+## [[solomon-drought-gardening-and-water-conservation|Gardening]]
 
 Steve Solomon (born 1942) is one of the most influential and
 controversial voices in modern organic gardening. He founded Territorial

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe viridescens
+## Psilocybe viridescens
 
 **Psilocybe viridescens** is a rare, bluing [[psilocybin]] and [[psilocybe-pelliculosa-entity]] — smaller, more slender, with a less pronounced greenish tint
 - [[psilocybe-cyanescens]] — cool temperatures, sustained rainfall, and shortening [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch and landscaped areas means it is sometimes found in suburban and urban settings, not only in natural forest habitats.

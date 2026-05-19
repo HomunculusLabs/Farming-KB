@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Start A Small Permaculture Nursery?
+## How Do I Start A Small Permaculture Nursery?
 
 ## Short Answer
 

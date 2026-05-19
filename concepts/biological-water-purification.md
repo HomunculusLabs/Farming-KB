@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Water Purification
+## Biological Water Purification
 
 The only long-term insurance of good water supply to a settlement is by rigorous control of a forested catchment, including a total ban on biocides and metallic processing. Biological water purification treats common contaminants using natural living systems rather than chemical additives. The fundamental principle: water safe for humans is also safe for other living things.
 

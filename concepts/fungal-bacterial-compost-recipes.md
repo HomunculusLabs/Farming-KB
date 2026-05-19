@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Fungal vs Bacterial Compost Recipes
+## Fungal vs Bacterial Compost Recipes
 
 The microbial makeup of [[compost]] is not random — it can be deliberately steered by choosing the right ingredients. Understanding how to manipulate compost for fungal or bacterial dominance is a core skill in working with the [[soil-food-web]].
 

@@ -5,7 +5,7 @@ source_author: "uwe-blesching, PhD"
 tags: [cannabis, prostate-cancer, CB1, CB2, cannabinoid-receptors, anandamide, mind-body, male-health, apoptosis]
 ---
 
-# Prostate Cancer and CB1/CB2 Cannabinoid Receptor Targeting
+## Prostate Cancer and CB1/CB2 Cannabinoid Receptor Targeting
 
 ## Prostate Gland Anatomy and Function
 

@@ -6,7 +6,7 @@ tags: [mushroom-cult, colonialism, theophagy, spanish-conquest, wasson, valentin
 created: 2026-05-08
 ---
 
-# Mushroom Cult Destruction and Theophagic Rivalry in Colonial Mexico
+## Mushroom Cult Destruction and Theophagic Rivalry in Colonial Mexico
 
 ## Overview
 

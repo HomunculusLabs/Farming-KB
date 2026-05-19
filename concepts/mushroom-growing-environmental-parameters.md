@@ -3,10 +3,10 @@ title: Mushroom mushroom-growing-environmental-control Parameters
 created: 2026-04-28
 updated: 2026-04-28
 tags: [mycology, cultivation, environment, agriculture]
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Mushroom Growing Environmental Parameters
+## Mushroom Growing Environmental Parameters
 
 Successful [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and development). Each species
 has specific optimal ranges, but the underlying principles are universal

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Radionuclide Uptake Mechanisms
+## Fungal Radionuclide Uptake Mechanisms
 
 The mechanisms by which fungi accumulate radionuclides involve both
 passive physicochemical processes at the [[gadd-fungal-cell-structure]] wall,

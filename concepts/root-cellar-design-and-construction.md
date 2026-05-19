@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Root Cellar Design and Construction
+## Root Cellar Design and Construction
 
 [[greg-green-temperature-and-humidity-control]] without electricity. Essential for a self-sufficient
 homestead.

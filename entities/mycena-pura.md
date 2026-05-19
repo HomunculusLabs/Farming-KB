@@ -5,10 +5,10 @@ type: species
 tags: [mycena, neurotropic, mycenaceae, psilocybin, muscarine, toxic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Mycena pura
+## Mycena pura
 
 **Mycena pura**, commonly known as the lilac bonnet, is a species of mushroom in the family Mycenaceae. It is one of the few *Mycena* species documented in the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Guzmán, Allen & Gartz (1998), which identified only a single species of Mycena among the 216 cataloged neurotropic fungi. *M. pura* occupies a unique position among psychoactive mushrooms because it contains both small quantities of psilocybin and the toxic compound muscarine, making it simultaneously a member of the neurotropic fungi and a poisonous species.
 

@@ -18,7 +18,7 @@ sources:
   - https://www.algaebase.org/search/genus/detail/?genus_id=Sargassum
 ---
 
-# Sargassum
+## Sargassum
 
 ## Overview
 

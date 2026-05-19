@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[cannabis-light-spectrum-and-color-bands]] to reach full
+## [[cannabis-light-spectrum-and-color-bands]] to reach full
 growing potential. The intensity of the light is also important. A
 light that feeds the full bandwidth with all light spectrums will work
 very well -- like sunlight. When dealing with artificial lights it is

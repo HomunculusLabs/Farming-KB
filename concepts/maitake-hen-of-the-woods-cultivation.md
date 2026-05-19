@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Maitake (Hen of the Woods) Cultivation
+## Maitake (Hen of the Woods) Cultivation
 
 Maitake ([[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in Japanese and Chinese culture. Known as the "dancing mushroom" because foragers were said to dance with joy upon finding it. It forms large, overlapping clusters of brownish-gray caps with a rich, earthy flavor and meaty texture.
 

@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Controlled Pollination and Seed Production
+## Cannabis Controlled Pollination and Seed Production
 
 Controlled pollination is the foundation of serious [[mollison-designers-home-energy-conservation-and-solar-heating]]. After drying, bags are shaken vigorously and pollen is screened into storage vials.
 

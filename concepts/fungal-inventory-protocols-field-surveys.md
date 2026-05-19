@@ -6,7 +6,7 @@ source: biodiversity-of-fungi.md
 created: 2026-05-11
 ---
 
-# Fungal Inventory Protocols for Field Surveys
+## Fungal Inventory Protocols for Field Surveys
 
 ## Overview
 

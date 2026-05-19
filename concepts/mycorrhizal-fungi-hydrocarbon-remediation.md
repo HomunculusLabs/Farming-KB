@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, symbiosis, bioremediation]
 sources: []
 ---
 
-# Mycorrhizal Fungi in Hydrocarbon Remediation
+## Mycorrhizal Fungi in Hydrocarbon Remediation
 
 [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] with fungal enzymatic
 capabilities, mycorrhizal systems can degrade [[arbuscular-mycorrhizal-colonization-patterns]] include:

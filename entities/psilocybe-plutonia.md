@@ -5,10 +5,10 @@ type: species
 tags: [psilocybe, psilocybin, dung-inhabiting, subtropical-fungi, neurotropic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe plutonia
+## Psilocybe plutonia
 
 **Psilocybe plutonia** is a small, dung-inhabiting [[mexico-center-neurotropic-fungal-biodiversity]] species worldwide, *P. plutonia* is recognized as one of the 116
 species within the genus Psilocybe that contain or are suspected to contain [[psilocybin]]-containing species in section Psilocybe, *P. plutonia* contains

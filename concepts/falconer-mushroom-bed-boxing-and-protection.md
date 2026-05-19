@@ -11,14 +11,12 @@ tags:
   ]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md,
+  "]
 type: concept
 ---
 
-# Boxing and Protecting Mushroom Beds
+## Boxing and Protecting Mushroom Beds
 
 The boxing of mushroom beds is a practice employed to
 protect the [[mushroom-growing-temperature-and-moisture]], and to drying out. Boxing or

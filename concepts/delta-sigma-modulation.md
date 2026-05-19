@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Delta-Sigma Modulation
+## Delta-Sigma Modulation
 
 ## Overview
 Delta-sigma modulation [[blesching-dopamine-motivation-adhd-ptsd-cannabinoid-modulation]]

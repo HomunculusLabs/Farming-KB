@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Black Locust as Nitrogen-Fixing Timber Tree
+## Black Locust as Nitrogen-Fixing Timber Tree
 
 Black locust (Robinia pseudoacacia) is a fast-growing, nitrogen-fixing
 legume reaching 25 metres in height and living for up to 200 years. A

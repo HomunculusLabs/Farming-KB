@@ -1,4 +1,8 @@
-# Modelling Mycelial Growth in Heterogeneous Environments
+---
+title: "Modelling Mycelial Growth in Heterogeneous Environments"
+tags:
+  - concept
+---
 
 ## Overview
 [[bloomfield-buller-experimental-mycology]] with
@@ -144,7 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
-## See Also

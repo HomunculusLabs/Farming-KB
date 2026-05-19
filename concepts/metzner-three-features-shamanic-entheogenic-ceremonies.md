@@ -6,7 +6,7 @@ tags: [shamanism, ceremony, singing, darkness, silence, entheogen, ritual, icaro
 created: 2026-05-08
 ---
 
-# Three Distinctive Features of Traditional Shamanic Entheogenic Ceremonies
+## Three Distinctive Features of Traditional Shamanic Entheogenic Ceremonies
 
 ## Overview
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Pest and Disease Prevention Overview
+## Pest and Disease Prevention Overview
 
 Prevention is the foundation of [[query-how-does-no-till-cannabis-cultivation-work]]. [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]].
 Cervantes recommends washing hands and changing clothes, including

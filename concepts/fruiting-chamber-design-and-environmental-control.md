@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, fruiting, humidity, environmental-control]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Fruiting Chamber Design and Environmental Control The transition from vegetative mycelial growth to fruiting body production is triggered by environmental cues. A fruiting chamber is any enclosed space that allows the grower to manipulate these cues — primarily humidity, fresh air exchange, temperature, [[teaming-with-microbes-humus-formation-and-glomalin]] encourage
+## Fruiting Chamber Design and Environmental Control The transition from vegetative mycelial growth to fruiting body production is triggered by environmental cues. A fruiting chamber is any enclosed space that allows the grower to manipulate these cues — primarily humidity, fresh air exchange, temperature, [[teaming-with-microbes-humus-formation-and-glomalin]] encourage
 vegetative growth. Introducing fresh air drops CO2 levels and signals the
 organism that it has reached a substrate surface where [[allen-gymnopilus-and-other-psychoactive-genera]] diseases.
 

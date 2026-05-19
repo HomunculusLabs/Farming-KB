@@ -6,7 +6,7 @@ topic: zwitterionic-phosphate-intermediate-psilocybin-synthesis.md
 created: 2026-05-09
 ---
 
-# Phosphorylation Methods for Psilocybin Production
+## Phosphorylation Methods for Psilocybin Production
 
 ## Overview
 

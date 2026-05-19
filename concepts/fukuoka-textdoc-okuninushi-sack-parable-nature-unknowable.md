@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# The Okuninushi Sack Parable and the Limits of Human Knowledge
+## The Okuninushi Sack Parable and the Limits of Human Knowledge
 
 In *The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]*, [[fukuoka-textdoc-no-good-or-evil-in-nature]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

@@ -19,7 +19,7 @@ sources:
   - Ketkar, A. et al. (2022). "Asparagus racemosus Willd. — A comprehensive review on ethnobotany, phytochemistry, and pharmacological activities." Journal of Ethnopharmacology, 285, 114862.
 ---
 
-# Asparagus racemosus
+## Asparagus racemosus
 
 **Asparagus racemosus** Willd. (family Asparagaceae), commonly known as **shatavari**, **satavar**, or **wild asparagus**, is a climbing perennial plant native to the Indian subcontinent, parts of Africa, and Australasia.
 The species is one of the most important herbs in Ayurvedic medicine, where it has been used for over 4,000 years as a female reproductive tonic, adaptogen, and general rejuvenative agent.

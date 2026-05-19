@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizae and Plant Succession
+## Mycorrhizae and Plant Succession
 
 Mycorrhizal fungi play a pivotal role in plant community succession, influencing which species establish, persist, and ultimately dominate during both primary and secondary succession. By mediating nutrient availability and facilitating plant establishment on bare or disturbed ground, mycorrhizae act as key regulators of plant community assembly and ecosystem development.
 

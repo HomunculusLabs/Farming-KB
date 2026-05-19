@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-[[mycoremediation|mycoremediation]].md
 type: concept
 ---
 
-# [[mycoremediation-fungal-bioremediation|Mycoremediation]] Fundamentals
+## [[mycoremediation-fungal-bioremediation|Mycoremediation]] Fundamentals
 
 Mycoremediation — from *myco* (fungus) and *remediation* (to clean, resolve, or correct) — is the use of fungi, specifically mushrooms, to create simple yet effective biomass capable of breaking down environmental and industrial pollutants. Mycelium acts as a self-healing filter that targets specific [[plant-volatile-communication-chemical-ecology]] pollutants in soil, water, and air.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Rehabilitation Methods
+## Soil Rehabilitation Methods
 
 ## Overview
 

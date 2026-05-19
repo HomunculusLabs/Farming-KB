@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ayahuasca Sorcery Types
+## Ayahuasca Sorcery Types
 
 Amazonian vegetalismo encompasses a sophisticated taxonomy of
 sorcery, with distinct methods of causing harm classified by the

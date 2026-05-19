@@ -21,7 +21,7 @@ sources:
 - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-# Mushrooms and Mankind
+## Mushrooms and Mankind
 
 The theory that psychoactive mushrooms — particularly Amanita muscaria — have played a central role in the development of human religion, mythology, and cultural symbolism. James Arthur's "Mushrooms and Mankind" (2000s) is one of the most comprehensive popular works on this topic, spanning Egyptian, Christian, Hindu, Buddhist, Norse, Mithraic, and shamanic traditions.
 

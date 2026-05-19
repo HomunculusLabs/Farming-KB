@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
 type: concept
 ---
-# Chicken Tractor and Poultry Integration
+## Chicken Tractor and Poultry Integration
 
 Integrating small livestock into the garden is one of the most productive
 strategies [[hamilton-beneficial-insects-and-biological-pest-control]], soil tilling, [[jeavons-natural-pest-control]] service

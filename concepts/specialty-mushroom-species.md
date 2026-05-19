@@ -23,7 +23,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Specialty Mushroom Species Guide
+## Specialty Mushroom Species Guide
 
 Additional cultivated and notable mushroom species beyond the core five (oyster, shiitake, lion's mane, reishi, [[wine-cap]]). These species offer unique [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]], ecological roles, or cultivation opportunities for advanced growers.
 

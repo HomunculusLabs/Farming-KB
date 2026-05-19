@@ -8,7 +8,7 @@ sources:
   - "raw/papers/growing-psilocybe-azurescens.md"
   - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
-# Woodlovers Outdoor Alder Chip Method
+## Woodlovers Outdoor Alder Chip Method
 
 Alder (Alnus spp.) is one of the premier [[psilocybin-north-america-pacific-northwest]] range, alder is the dominant hardwood associated with natural P. cyanescens fruitings, and it performs well for P. azurescens cultivation too.
 

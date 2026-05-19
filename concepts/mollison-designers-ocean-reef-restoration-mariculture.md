@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Ocean Reef Restoration and Mariculture
+## Ocean Reef Restoration and Mariculture
 
 Mariculture and ocean restoration represent a significant but often
 overlooked dimension of [[savory-holistic-resource-management-animal-impact]], creating productive buffer zones that protect

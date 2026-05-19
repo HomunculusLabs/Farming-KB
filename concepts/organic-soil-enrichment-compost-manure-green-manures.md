@@ -4,7 +4,7 @@ source: hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
 ---
 
-# Organic Soil Enrichment — Compost, Manure, and Green Manures
+## Organic Soil Enrichment — Compost, Manure, and Green Manures
 
 ## Overview
 

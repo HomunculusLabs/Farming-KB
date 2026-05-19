@@ -17,7 +17,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Fungal Species Recognition and Phylogenetics
+## Fungal Species Recognition and Phylogenetics
 
 Fungal species concepts have undergone profound changes with the advent of molecular methods. Traditional morphology-based species recognition has been challenged by the discovery that morphologically similar fungi may comprise multiple genetically isolated lineages. The application of multilocus sequencing and phylogenetic analysis has revealed extensive cryptic diversity and reshaped our understanding of fungal speciation, biogeography, and evolution.
 

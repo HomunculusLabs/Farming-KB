@@ -9,7 +9,7 @@ sources: []
 type: comparison
 ---
 
-# Drought Gardening vs Rainwater Harvesting
+## Drought Gardening vs Rainwater Harvesting
 
 ## Overview
 Drought gardening and rainwater harvesting address water scarcity from

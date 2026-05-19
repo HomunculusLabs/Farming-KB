@@ -1,4 +1,8 @@
-# African Landrace Sativa Strains in Modern Cannabis Breeding
+---
+title: "African Landrace Sativa Strains in Modern Cannabis Breeding"
+tags:
+  - concept
+---
 
 ## Overview
 

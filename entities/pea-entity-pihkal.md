@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# PEA
+## PEA
 [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]] that can be attached to the benzene ring,
 at one or more of the five available positions, and in an unending
 number of combinations. And, in any given molecule, the greater the

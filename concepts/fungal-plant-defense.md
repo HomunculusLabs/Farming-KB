@@ -8,7 +8,7 @@ sources: ["symbiotic-fungi.md"]
 type: concept
 ---
 
-# Fungal Plant Defense
+## Fungal Plant Defense
 
 ## Overview of Mycorrhiza-Mediated Protection
 

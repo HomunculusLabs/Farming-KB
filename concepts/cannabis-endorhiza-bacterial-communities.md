@@ -7,7 +7,7 @@ tags: [cannabis, microbes, soil, mycorrhizae]
 sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
-# Cannabis Endorhiza Bacterial Communities
+## Cannabis Endorhiza Bacterial Communities
 
 ## Overview
 

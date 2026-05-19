@@ -4,7 +4,7 @@ source: fungi-and-sustainability-fungi-magazine.md
 type: concept
 ---
 
-# Mushroom Cultivation and Sustainability
+## Mushroom Cultivation and Sustainability
 
 ## Overview
 

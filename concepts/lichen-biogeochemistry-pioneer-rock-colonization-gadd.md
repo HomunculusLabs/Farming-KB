@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 tags: [mycology, lichen, biogeochemistry, pioneer-organisms, rock-weathering, symbiosis]
 ---
 
-# Lichen Biogeochemistry and Pioneer Rock Colonization
+## Lichen Biogeochemistry and Pioneer Rock Colonization
 
 Lichens are among the most successful pioneer organisms on Earth, among the
 first life forms to colonize fresh rock surfaces and initiate the process of

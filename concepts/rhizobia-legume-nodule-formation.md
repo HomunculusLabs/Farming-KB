@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Rhizobia-Legume Symbiosis: Establishment and Nodule Formation
+## Rhizobia-Legume Symbiosis: Establishment and Nodule Formation
 
 ## Overview
 

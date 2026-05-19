@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mixed Medicinal Mushroom Extracts and Synergistic Immune Stimulation
+## Mixed Medicinal Mushroom Extracts and Synergistic Immune Stimulation
 
 While most research attention has focused on individual mushroom species
 and their isolated compounds, growing evidence suggests that mixtures

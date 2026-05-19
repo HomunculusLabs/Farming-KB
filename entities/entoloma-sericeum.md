@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, ectomycorrhizal, basidiomycota, enzyme-activity]
 ---
 
-# Entoloma sericeum
+## Entoloma sericeum
 
 ## Description
 

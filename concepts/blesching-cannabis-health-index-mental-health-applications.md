@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Mental Health Applications
+## Mental Health Applications
 
 Evidence-based review of cannabis for mental health conditions from Blesching's "The [[anandamide-emotional-regulation-blesching]].
 

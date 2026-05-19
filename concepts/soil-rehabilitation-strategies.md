@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Rehabilitation Strategies
+## Soil Rehabilitation Strategies
 
 Soil rehabilitation encompasses the range of techniques used to restore degraded, compacted, eroded, or chemically damaged soils to a productive and biologically active state. In permaculture, soil rehabilitation is considered a foundational priority because every other productive element — crops, trees, animals, water systems — depends on healthy, functioning soil.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Underground and Earth-Sheltered Housing
+## Underground and Earth-Sheltered Housing
 
 Underground and earth-sheltered housing represents one of the most energy-efficient and climate-resilient building strategies available, particularly suited to desert and [[fungal-diversity-arid-environments]]. Drawing on centuries of traditional practice across multiple continents, these structures leverage the [[comparison-windbreak-vs-thermal-mass]] of earth to maintain stable, comfortable interior temperatures with minimal energy input.
 

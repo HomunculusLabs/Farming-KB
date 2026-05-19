@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ecological Gardening Principles
+## Ecological Gardening Principles
 
 Three core ecological principles underpin ecological gardening: the
 niche, succession, and biodiversity. These concepts, drawn from

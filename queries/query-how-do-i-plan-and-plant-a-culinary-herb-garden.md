@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Plan and Plant a Culinary Herb Garden?
+## How Do I Plan and Plant a Culinary Herb Garden?
 
 ## Short Answer
 

@@ -7,7 +7,7 @@ tags: [animal-husbandry, livestock, processing, food, homesteading, safety, work
 sources: []
 ---
 
-# Rabbit Processing Guide
+## Rabbit Processing Guide
 
 On-farm rabbit processing provides a direct source of lean, high-quality meat and is one of the most approachable livestock processing tasks for homesteaders. Rabbits are productive (a single doe can produce 60+ lb of meat per year), have a small physical footprint, and the processing itself requires minimal equipment compared to larger livestock.
 

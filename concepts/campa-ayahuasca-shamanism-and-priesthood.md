@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Campa Ayahuasca Shamanism and the Origins of Priesthood
+## Campa Ayahuasca Shamanism and the Origins of Priesthood
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Set Up CO2 Supplementation for Cannabis
+## How to Set Up CO2 Supplementation for Cannabis
 
 ## Short Answer
 CO2 supplementation accelerates cannabis growth by providing plants with more

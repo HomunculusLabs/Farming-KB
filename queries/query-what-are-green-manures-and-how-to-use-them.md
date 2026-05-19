@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are Green Manures and How to Use Them
+## What Are Green Manures and How to Use Them
 
 ## Short Answer
 Green manures are crops grown primarily to improve soil health rather than for

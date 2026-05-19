@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, ritual]
 ---
 
-# Ancient Ritual Use of Cannabis in Magick
+## Ancient Ritual Use of Cannabis in Magick
 
 ## Overview
 

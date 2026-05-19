@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, preservation, drying, potency, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+sources: ["raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md"]
 type: concept
 ---
-# Oss & Oeric: Drying and Preservation Methods The 1976 guide provides specific instructions for harvesting, drying, and preserving [[oss-oeric-growing-parameters-cubensis]] for growing conditions
+## Oss & Oeric: Drying and Preservation Methods The 1976 guide provides specific instructions for harvesting, drying, and preserving [[oss-oeric-growing-parameters-cubensis]] for growing conditions
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

@@ -11,7 +11,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Mushroom Agar Media Recipes
+## Mushroom Agar Media Recipes
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Japanese Cooking Culture Disappearing
+## Fukuoka Japanese Cooking Culture Disappearing
 
 [[fukuoka-natural-foods-movement-america]] is stronger in America than in Japan
 - Japanese shops selling [[fukuoka-diet-blood-thought-civilization]], [[fukuoka-specter-food-scarcity]], [[dom]]

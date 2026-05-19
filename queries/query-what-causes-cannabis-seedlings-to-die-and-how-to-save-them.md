@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Causes Cannabis Seedlings to Die and How to Save Them
+## What Causes Cannabis Seedlings to Die and How to Save Them
 
 ## Short Answer
 Cannabis seedlings die most often from overwatering, damping-off fungus,

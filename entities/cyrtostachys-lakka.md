@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: entity
 ---
 
-# Cyrtostachys lakka
+## Cyrtostachys lakka
 
 ## Description
 

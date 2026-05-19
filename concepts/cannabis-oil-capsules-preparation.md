@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-# Cannabis Oil Capsule Preparation
+## Cannabis Oil Capsule Preparation
 
 Cannabis cannabis oil capsules preparation, sometimes called pot pills, represent one of the most discreet and precisely dosable methods of consuming refined cannabis extracts. The preparation of oil capsules is a straightforward process that combines purified cannabis oil with a lipid carrier and an inert filler material, creating an oral dosage form that can be stored, transported, and consumed without drawing attention.
 

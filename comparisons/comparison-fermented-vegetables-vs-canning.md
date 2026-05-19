@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Fermented Vegetables vs Canning and Preserving
+## Fermented Vegetables vs Canning and Preserving
 
 ## Overview
 

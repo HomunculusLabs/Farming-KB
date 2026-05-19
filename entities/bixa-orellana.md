@@ -17,7 +17,7 @@ sources:
   - Preston, H.D. et al. (1980). Extraction and chemistry of annatto. Food Chemistry, 5(1), 47-56.
 ---
 
-# Bixa orellana
+## Bixa orellana
 
 *Bixa orellana*, commonly known as annatto or achiote, is a shrub or small tree in the family Bixaceae, native to [[psilocybe-southeast-asia-pacific]], and the Caribbean. Various preparations of the seeds, leaves, and roots are used in ethnomedical systems.
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Mangalitza and Old Pig Breeds
+## Mangalitza and Old Pig Breeds
 
 ## Why Old Breeds
 

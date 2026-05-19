@@ -9,7 +9,7 @@ topics:
   - fungal biology
 ---
 
-# Mycelial Network Resource Sharing Between Plants
+## Mycelial Network Resource Sharing Between Plants
 
 ## Overview
 

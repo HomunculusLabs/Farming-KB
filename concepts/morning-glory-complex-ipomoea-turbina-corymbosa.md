@@ -5,7 +5,7 @@ author: terence-mckenna
 topics: [morning-glory, ololiuqui, ergot-alkaloids, mazatec-shamanism, ethnobotany]
 ---
 
-# The Morning Glory Complex: Ipomoea and Turbina corymbosa as Psychedelic Substitutes
+## The Morning Glory Complex: Ipomoea and Turbina corymbosa as Psychedelic Substitutes
 
 The highlands of Mazatec Mexico are home to two species of morning
 glory whose seeds have been used for centuries as a visionary

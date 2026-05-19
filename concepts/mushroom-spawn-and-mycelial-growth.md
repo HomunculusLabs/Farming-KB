@@ -5,7 +5,7 @@ type: concept
 tags: [mushroom, spawn, mycelium, agaricus, cultivation, fungal-biology, vegetative-growth]
 ---
 
-# Mushroom [[free-spore-ring-europe-mushroom-cultivation-network]], as it is the mycelium that absorbs water and nutrients and ultimately produces the fruiting bodies (mushrooms) that are harvested.
+## Mushroom [[free-spore-ring-europe-mushroom-cultivation-network]], as it is the mycelium that absorbs water and nutrients and ultimately produces the fruiting bodies (mushrooms) that are harvested.
 
 ## Nature and Identification of Spawn
 

@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, mycoparasite, toxin-production, fungicolous, soil-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Trichothecium roseum
+## Trichothecium roseum
 
 **Type:** Species (Ascomycete)
 **Category:** Fungicolous Mycoparasite / Trichothecene Producer

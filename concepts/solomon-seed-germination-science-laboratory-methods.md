@@ -1,4 +1,8 @@
-# Seed Germination Science and Laboratory Methods
+---
+title: "Seed Germination Science and Laboratory Methods"
+tags:
+  - concept
+---
 
 **Source:** [[gardening-when-it-counts]] — [[solomon-seed-sprouting-conditions-laboratory-germination-technique]] testing is standardized, accurate, and reproducible:
 two different labs testing samples from the same seed bag should produce

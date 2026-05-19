@@ -32,7 +32,7 @@ related_concepts:
   - constructed-wetlands-and-ecological-wastewater-treatment
 ---
 
-# Earthship Design and Biotopechtecture
+## Earthship Design and Biotopechtecture
 
 ## Origins and Philosophy
 
@@ -102,7 +102,7 @@ For homesteaders, permaculture practitioners, and anyone interested in reducing 
 
 ## Merged: What Is an Earthship and How Does It Work?
 
-# What Is an Earthship and How Does It Work?
+## What Is an Earthship and How Does It Work?
 
 ## See Also
 

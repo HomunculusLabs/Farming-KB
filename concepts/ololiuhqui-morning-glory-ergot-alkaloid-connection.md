@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Ololiuhqui, Morning Glory, and the Ergot Alkaloid Connection
+## Ololiuhqui, Morning Glory, and the Ergot Alkaloid Connection
 
 **Source:** The [[mazatec-mushroom-culture-and-velada]] and [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]].
 

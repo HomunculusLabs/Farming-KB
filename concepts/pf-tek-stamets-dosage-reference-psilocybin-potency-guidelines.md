@@ -1,4 +1,8 @@
-# Psilocybin Dosage Reference: Stamets Guidelines and PF Commentary
+---
+title: "Psilocybin Dosage Reference: Stamets Guidelines and PF Commentary"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
-# Spawn Grain Performance Research
+## Spawn Grain Performance Research
 
 The choice of [[azurescens-spawn-preparation-grain-to-wood]] methods
 - mushroom-substrate-recipes — [[mushroom-yield-optimization]] — maximizing [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

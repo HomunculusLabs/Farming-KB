@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: ["raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"]
 ---
-# Amphotericin B Antifungal
+## Amphotericin B Antifungal
 
 Amphotericin B is a polyene antifungal antibiotic that has been the gold standard for treating
 serious systemic [[mucormycosis-zygomycete-infections]], and invasive aspergillosis.

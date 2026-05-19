@@ -5,7 +5,7 @@ type: entity
 tags: [technique, extraction, laboratory-method, distillation, cannabis-processing]
 ---
 
-# Reflux Extraction
+## Reflux Extraction
 
 ## Description
 

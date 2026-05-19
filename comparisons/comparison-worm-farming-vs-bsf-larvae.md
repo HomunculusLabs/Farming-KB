@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Worm Farming vs Black Soldier Fly Larvae
+## Worm Farming vs Black Soldier Fly Larvae
 
 ## Overview
 

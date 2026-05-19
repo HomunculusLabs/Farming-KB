@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 3,4-DMA
+## 3,4-DMA
 
 3,4-DMA (3,4-Dimethoxyamphetamine) is an amphetamine derivative with the same oxygen substitution pattern as the natural catecholamine neurotransmitters.
 

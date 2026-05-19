@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Panaeolus africanus
+## Panaeolus africanus
 
 **Type:** Species (Fungus)
 **Category:** Basidiomycota, Agaricales, Bolbitiaceae, Panaeolus

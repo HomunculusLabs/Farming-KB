@@ -12,7 +12,7 @@ sources:
   - medicinal-herb-growing.md
 ---
 
-# Women's Health Herbs — Cultivation and Uses
+## Women's Health Herbs — Cultivation and Uses
 
 Women's health herbs address conditions specific to female physiology. These include menstrual cycle regulation, premenstrual syndrome, fertility support, pregnancy and postpartum care, and menopause symptoms.
 

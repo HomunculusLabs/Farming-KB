@@ -6,7 +6,7 @@ tags: [mycology, bioremediation, mycoremediation, pollution, ecology, fungi]
 created: 2026-05-09
 ---
 
-# Mushroom Bioremediation
+## Mushroom Bioremediation
 
 Mushroom bioremediation (also called mycoremediation) is the use of fungi to
 degrade, sequester, or otherwise neutralize environmental contaminants. Fungi

@@ -1,5 +1,10 @@
+---
+title: "Fungi Living Plant Substrata"
+tags:
+  - concept
+---
 
-# Fungi on Living Plant Substrata
+## Fungi on Living Plant Substrata
 
 ## Overview
 
@@ -143,6 +148,3 @@ proactive planning mitigate potential problems effectively.
 
 ## See Also
 - fungi living plant substrata
-- [[det]]
-- [[sterilization]]
-- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]

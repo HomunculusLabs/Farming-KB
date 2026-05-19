@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Sacred Road Pilgrimage to Eleusis
+## Sacred Road Pilgrimage to Eleusis
 
 **Source:** The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] and the initiate's own journey toward visionary death and rebirth.
 

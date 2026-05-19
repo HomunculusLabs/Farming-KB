@@ -48,7 +48,7 @@ related_concepts:
   - faires-comprehensive-food-preservation-guide
 ---
 
-# Fermented Foods and Beverages
+## Fermented Foods and Beverages
 
 Fermentation is one of humanity's oldest technologies, and arguably one of its
 most important. Long before refrigeration, canning, or chemical preservatives,

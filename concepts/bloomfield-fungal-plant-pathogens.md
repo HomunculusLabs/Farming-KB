@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-singh-singh-arbuscular-mycorrhizal-diversity-grassland-ecosystems-fungi-soil-remediation-fungal-communities-agriculture-fungi.md"
 ---
 
-# Fungal Plant Pathogens
+## Fungal Plant Pathogens
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Yeast Isolation and Biodiversity Methods
+## Yeast Isolation and Biodiversity Methods
 
 Source: [[agar-medium-preparation]], incubated 24+ hours
 - Examined microscopically in situ under low power for yeast growth at particle/medium interface

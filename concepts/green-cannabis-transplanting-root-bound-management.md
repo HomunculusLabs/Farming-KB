@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Transplanting and Root-Bound Management
+## Transplanting and Root-Bound Management
 
 Transplanting is one of the most critical physical interventions a cannabis
 grower performs during the early stages of a plant's life. Moving a plant

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Earth Shelters - Pigsties and Animal Housing
+## Holzer Earth Shelters - Pigsties and Animal Housing
 
 updated: 2026-04-18
 

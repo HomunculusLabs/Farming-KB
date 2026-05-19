@@ -16,7 +16,7 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# The Four Principles of Natural Farming
+## The Four Principles of Natural Farming
 
 [[fukuoka-critique-modern-agriculture]]
 is just another processing industry that uses oil energy in the form of

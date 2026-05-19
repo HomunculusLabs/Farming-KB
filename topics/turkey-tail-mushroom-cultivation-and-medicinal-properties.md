@@ -26,7 +26,7 @@ sources:
   - Patel S, Goyal A. Recent developments in mushrooms as anti-cancer therapeutics: a review. 3 Biotech. 2012;2(1):1-14.
 ---
 
-# Turkey Tail Mushroom Cultivation and Medicinal Properties
+## Turkey Tail Mushroom Cultivation and Medicinal Properties
 
 ## Overview
 

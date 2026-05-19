@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# [[allegro-david-adonis-egypt-exodus-mushroom-myth-making]] Symbolism
+## [[allegro-david-adonis-egypt-exodus-mushroom-myth-making]] Symbolism
 
 John Allegro's *The Sacred Mushroom and the Cross* (1970) advances a philological
 argument that [[allegro-sumerian-language-bridge-god-name-decipherment]] [[amanita-muscaria-historical-names-and-symbols]], with its upright stem and broad

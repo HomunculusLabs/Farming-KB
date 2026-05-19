@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Gloeophyllum trabeum
+## Gloeophyllum trabeum
 
 **Gloeophyllum trabeum** is a basidiomycete brown rot fungus and one of the most aggressive and widely studied wood-decay organisms in forest ecosystems and the built environment. Commonly known as the **labyrinthine polypore** or **brown oak polypore**, it is a primary cause of brown rot decay in [[fenton-reaction-chemistry-and-biochemistry]]:
 

@@ -9,7 +9,7 @@ sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 ---
 
-# Cecil T. Ingold
+## Cecil T. Ingold
 
 Cecil Terence Ingold (1905–2010) was a British mycologist who discovered the Ingoldian fungi — a major group of aquatic hyphomycetes with spectacularly shaped spores found in freshwater habitats worldwide. His 1938 discovery opened an entirely new field of mycological research and he lived to age 105, making him one of the longest-lived mycologists in history.
 

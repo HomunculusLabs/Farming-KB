@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Foliar Feeding vs Vermicompost Tea
+## Foliar Feeding vs Vermicompost Tea
 
 ## Overview
 Foliar feeding and vermicompost tea are both liquid-based strategies for

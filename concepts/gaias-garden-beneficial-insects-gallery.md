@@ -18,7 +18,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Beneficial Insects Gallery for the Ecological Garden
+## Beneficial Insects Gallery for the Ecological Garden
 
 In a healthy ecological garden, over 90% of insect species are either beneficial
 or harmless. Only a small fraction cause noticeable damage, and many of these

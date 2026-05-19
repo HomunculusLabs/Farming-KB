@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 
-# Psilocybin vs Other Psychedelics
+## Psilocybin vs Other Psychedelics
 
 Powell's The Psilocybin Solution provides an extended comparison of psilocybin with other [[pineal-gland-dmt-entheogenic-experience]].
 
@@ -35,7 +35,7 @@ Powell repeatedly emphasizes the significance of psilocybin being a naturally oc
 
 ## Merged: [[psilocybin-neuroscience]]: 5-HT2A and the Raphe System
 
-# Psilocybin Neuroscience: 5-HT2A and the Raphe System
+## Psilocybin Neuroscience: 5-HT2A and the Raphe System
 
 Powell's The Psilocybin Solution provides a detailed account of the neuroscience underlying psilocybin's effects, drawing on the classic research of G.K. Aghajanian, B.L. Jacobs, and others from the 1960s through the 1990s. The account centers on two brain systems: the serotonergic raphe system and the 5-HT2 receptor family, particularly the 5-HT2A subtype.
 

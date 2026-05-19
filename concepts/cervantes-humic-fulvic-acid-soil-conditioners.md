@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Humic and Fulvic Acid as Soil Conditioners
+## Humic and Fulvic Acid as Soil Conditioners
 
 Humic and fulvic acids are [[ph-and-nutrient-availability-garden-soils]], and plant
 vitality. They are among the most valuable soil conditioners available

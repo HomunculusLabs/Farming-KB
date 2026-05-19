@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Biosorption of Cadmium
+## Fungal Biosorption of Cadmium
 
 Cadmium (Cd) is one of the most toxic [[penicillium-chrysogenum]] displays 11 mg/g Cd(II) uptake capacity.
 Rhizopus oryzae demonstrates 0.28 mM/g, while R. oligosporus achieves

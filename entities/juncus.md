@@ -5,7 +5,7 @@ type: entity
 tags: [species, genus, juncaceae, rush, wetland, salt-indicator, dryland, permaculture]
 ---
 
-# Juncus
+## Juncus
 
 ## Description
 

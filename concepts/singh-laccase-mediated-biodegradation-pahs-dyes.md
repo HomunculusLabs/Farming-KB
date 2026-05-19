@@ -7,7 +7,7 @@ tags: [mycoremediation, biology, pollution, microbes]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh Laccase-Mediated Biodegradation of mycoremediation-of-pahs|PAHs and Dyes
+## Singh Laccase-Mediated Biodegradation of mycoremediation-of-pahs|PAHs and Dyes
 #mycoremediation #laccase #pah #dye-decolorization #enzymology #biodegradation
 
 Updated: 2026-04-18

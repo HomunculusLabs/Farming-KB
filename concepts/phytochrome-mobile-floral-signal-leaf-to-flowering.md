@@ -1,4 +1,8 @@
-# Phytochrome Mobile Floral Signal: From Leaf to Flowering
+---
+title: "Phytochrome Mobile Floral Signal: From Leaf to Flowering"
+tags:
+  - concept
+---
 
 A surprising finding in photoperiod research is that the [[phytochrome]] responsible
 for measuring day length is located in the leaves, not in the shoot tip. This

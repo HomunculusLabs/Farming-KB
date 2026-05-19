@@ -6,7 +6,7 @@ created: 2026-05-10
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 ---
 
-# Mushroom Phototropism
+## Mushroom Phototropism
 
 Phototropism in mushrooms is the directional growth response to light. Unlike [[phototropism-in-plants]] — which is predominantly positive (growth toward light) and mediated by auxin redistribution — mushroom phototropism involves multiple distinct responses to light at different developmental stages and intensities. At least four different light responses have been described for mushrooms (Eger-Hummel, 1980), and *[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. Without light, fully colonized substrates may remain in vegetative state indefinitely.
 

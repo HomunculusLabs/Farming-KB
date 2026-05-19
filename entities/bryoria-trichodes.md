@@ -16,7 +16,7 @@ sources:
   - "Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer."
 ---
 
-# Bryoria trichodes (Pale Horsehair Lichen)
+## Bryoria trichodes (Pale Horsehair Lichen)
 
 ## Overview
 

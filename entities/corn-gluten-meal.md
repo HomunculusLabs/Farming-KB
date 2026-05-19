@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: entity
 ---
 
-# Corn Gluten Meal
+## Corn Gluten Meal
 
 ## Description
 

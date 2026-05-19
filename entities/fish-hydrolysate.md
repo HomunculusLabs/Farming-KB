@@ -5,7 +5,7 @@ type: entity
 tags: [soil-amendment, compost-tea-ingredient, fungal-food, organic-fertilizer]
 ---
 
-# Fish Hydrolysate
+## Fish Hydrolysate
 
 ## Description
 

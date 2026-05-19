@@ -5,7 +5,7 @@ mined: 2026-05-08
 tags: [psilocybin, mushrooms, markets, smartshops, europe, drug-policy]
 aliases: [magic mushroom retail, psilocybin commerce EU]
 ---
-# Psilocybin Mushroom Markets and Availability in Europe
+## Psilocybin Mushroom Markets and Availability in Europe
 
 ## Overview
 

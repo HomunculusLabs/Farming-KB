@@ -9,7 +9,7 @@ sources:
   - "general phytochemistry and cannabis science knowledge"
 ---
 
-# Myrcene
+## Myrcene
 
 Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an
 acyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the [[comparison-cannabis-sativa-vs-cannabis-indica]] L.), hops ([[cymbopogon-citratus]]), thyme (Thymus vulgaris), bay laurel

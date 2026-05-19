@@ -19,7 +19,7 @@ sources:
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
 ---
 
-# Clathrus ruber
+## Clathrus ruber
 
 **Clathrus ruber**, commonly known as the devil's fingers or red cage
 fungus, is a striking saprotrophic basidiomycete in the family

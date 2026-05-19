@@ -10,7 +10,7 @@ sources: ["raw/papers/uwe-blesching-the-cannabis-health-index.md"]
 type: concept
 ---
 
-# Cannabis, Food as Medicine, and Anti-Inflammatory Spices
+## Cannabis, Food as Medicine, and Anti-Inflammatory Spices
 
 ## Overview
 

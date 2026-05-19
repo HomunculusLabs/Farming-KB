@@ -7,7 +7,7 @@ tags: [carbon, mycorrhizal, trading, isotopes, lipids, grassland, sequestration]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# mycorrhizal carbon trading
+## mycorrhizal carbon trading
 
 Source: [[mycorrhizal-phosphatase-activity-elf97-detection]] at the arbuscule relates to both phosphorus uptake
 efficiency and sugar metabolism. Higher 13C enrichment in lipids of intraradical

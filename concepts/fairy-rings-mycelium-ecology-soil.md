@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fairy Rings and Mycelial Soil Ecology
+## Fairy Rings and Mycelial Soil Ecology
 
 Fairy rings are circular or arc-shaped patterns of [[hamilton-composting-and-organic-matter-management]].
 

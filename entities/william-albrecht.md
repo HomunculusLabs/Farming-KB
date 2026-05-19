@@ -5,7 +5,7 @@ type: entity
 tags: [person, soil-science, researcher, nutrition, agriculture]
 ---
 
-# William Albrecht
+## William Albrecht
 
 ## Description
 

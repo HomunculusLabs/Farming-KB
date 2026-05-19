@@ -6,7 +6,7 @@ type: concept
 tags: [chemistry, 2c-family]
 sources: ["raw/papers/shulgin-a-pihkal.md"]
 ---
-# 2C-B Psychedelic Empathogen Guide
+## 2C-B Psychedelic Empathogen Guide
 
 2C-B (4-bromo-2,5-dimethoxyphenethylamine) is a psychedelic/empathogen developed by [[turner-lsd]], [[dm-turner]] rates intensity 2 to 7, varying with dosage and individual sensitivity.
 

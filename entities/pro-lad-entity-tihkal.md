@@ -21,7 +21,7 @@ tags: [`psychedelic`, `entheogen`]
 sources:
   - raw/papers/shulgin-a-tihkal.md
 
-# PRO-LAD
+## PRO-LAD
 
 6-Propyl-Nor-LSD
 

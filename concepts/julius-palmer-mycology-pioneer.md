@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Julius A. Palmer - Pioneer American Mycologist
+## Julius A. Palmer - Pioneer American Mycologist
 
 ## Overview
 

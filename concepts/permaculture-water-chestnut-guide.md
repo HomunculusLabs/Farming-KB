@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
 Updated: 2026-04-18 Water chestnuts (Eleocharis dulcis) are aquatic vegetables that grow in shallow water. Despite the name, they are not nuts but water plants that produce small, rounded, crunchy edible corms. ## Uses - Edible vegetable (corms) - Water plant ## Growing Conditions - Long [[psilocybe-southeast-asia-pacific]]. Ornamental water chestnuts are not edible — always confirm you are purchasing food-grade corms from a reliable source. ## Propagation Water chestnuts are propagated from corms. Plant whole corms 2-3 inches deep in rich, muddy soil at the shallow edges of a pond or in containers filled with water-retentive soil. Planting is done in spring after the last frost. Each planted corm will produce a clump of grass-like stems and 10-20 new corms by season's end. In cooler climates, start corms indoors in containers of water in early spring, then transplant when water temperatures reach 65°F (18°C). Maintain constant water level throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. ## [[permaculture-wildlife-corridors]], water chestnuts are food producers, providing edible corms while creating aquatic [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, amphibians, and fish.
 

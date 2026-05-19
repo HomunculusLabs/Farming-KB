@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Site Assessment and Report Writing
+## Permaculture Site Assessment and Report Writing
 
 The [[permaculture-design]] report is the primary deliverable of a professional design engagement. It documents the designer's analysis, recommendations, and implementation guidance in a structured format that enables the client to proceed with confidence. Equally important is the site assessment process — the designer's ability to see resources that the client has overlooked, which is where the real value of professional design lies.
 

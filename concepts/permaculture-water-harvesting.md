@@ -7,7 +7,7 @@ tags: [permaculture, water-harvesting, swales, ponds, rainwater, greywater, eart
 sources: [raw/papers/bill-mollison-permaculture-design-course.md, raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Water Harvesting
+## Permaculture Water Harvesting
 
 ## Overview
 

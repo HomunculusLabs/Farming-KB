@@ -9,7 +9,7 @@ tags:
   - Palmer RB, et al. "Case series of novel psychoactive substance toxicity." Clinical Toxicology, 2015.
 ---
 
-# Ethylone
+## Ethylone
 
 **Ethylone** (systematic name: **3,4-methylenedioxy-N-ethylcathinone**) is a synthetic stimulant and entactogen of the **cathinone class**. Structurally, it is the β-keto (β-ketone) analog of **MDEA** (3,4-methylenedioxy-N-ethylamphetamine), and belongs to the substituted cathinone family alongside methylone, and serotonin, dopamine, and norepinephrine, producing effects broadly similar to MDMA but with notable pharmacological and experiential differences.
 

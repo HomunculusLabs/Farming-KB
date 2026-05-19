@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Morel Ecology and Sclerotia Formation
+## Morel Ecology and Sclerotia Formation
 
 Morels (genus Morchella) are among the most coveted mushrooms on the planet, yet they remain extremely particular about their [[cannabis-growing-environment-setup]], making them far more difficult to cultivate than species like shiitake or oyster mushrooms. Understanding their complex ecology and life cycle is essential for any cultivation attempt.
 

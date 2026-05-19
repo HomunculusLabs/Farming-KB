@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria Holy Grail Theory
+## Amanita Muscaria Holy Grail Theory
 
 The theory that the Holy Grail of Arthurian legend originated as a [[amanita-muscaria-ambrosia-preparation]] or [[amanita-muscaria-living-vessel-grail]]" concept is experimentally verifiable
 - The wasteland motif parallels the loss of forest habitat

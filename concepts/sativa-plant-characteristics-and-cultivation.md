@@ -5,7 +5,7 @@ tags: [cannabis, sativa, plant-characteristics, cultivation, flowering-time, gen
 created: 2026-05-10
 ---
 
-# Sativa Plant Characteristics and Cultivation
+## Sativa Plant Characteristics and Cultivation
 
 Cannabis sativa is one of the primary species (or subspecies, depending on taxonomic
 framework) of the Cannabis genus, distinguished from Cannabis indica by a constellation

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tessellation, Annidation, and Pattern Matrices
+## Tessellation, Annidation, and Pattern Matrices
 
 ## Overview
 

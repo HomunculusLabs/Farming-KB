@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Gleditsia triacanthos
+## Gleditsia triacanthos
 
 **Type:** Species
 **Category:** Deciduous leguminous tree

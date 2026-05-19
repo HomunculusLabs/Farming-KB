@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Carbon and Calorie Crop Integration
+## Carbon and Calorie Crop Integration
 
 The integration of carbon crops and calorie crops is central to
 achieving [[jeavons-grain-growing-mini-farms]] for grain-

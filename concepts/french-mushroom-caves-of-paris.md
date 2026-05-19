@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# French Mushroom Caves of Paris
+## French Mushroom Caves of Paris
 
 ## Overview
 

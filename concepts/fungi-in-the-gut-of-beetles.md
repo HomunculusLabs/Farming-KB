@@ -5,7 +5,7 @@ source_author: Gadd, Watkinson, Dyer (eds.)
 tags: [fungi, beetles, symbiosis, mycoflora, gut-yeasts, insect-microbe, ecology, coleoptera]
 ---
 
-# Fungi in the Gut of Beetles
+## Fungi in the Gut of Beetles
 
 ## Overview
 

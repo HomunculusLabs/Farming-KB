@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Pulsing Agricultural Ecosystems
+## Pulsing Agricultural Ecosystems
 
 Pulsing agricultural ecosystems are farming and land management systems that deliberately alternate between phases of biological accumulation (production) and phases of consumption or harvest, mirroring the natural pulsing patterns observed in wild ecosystems. These systems recognize that separating the production aspect (plant growth) from the consumption aspect (grazing, harvesting, cultivation) increases total energy processing and system resilience.
 

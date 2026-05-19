@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Iron (Fe)
+## Cannabis Iron (Fe)
 
 ## Overview
 

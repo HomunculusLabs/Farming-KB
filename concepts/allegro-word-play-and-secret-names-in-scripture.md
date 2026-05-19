@@ -18,7 +18,7 @@ type: concept
 tags: [reference]
 ---
 
-# Word Play and Secret Names in Scripture
+## Word Play and Secret Names in Scripture
 
 The linguistic technique that John Marco Allegro claimed to have discovered
 underlying the composition of the New Testament was a sophisticated system

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Grain Sterilization and Contamination Sources
+## Grain Sterilization and Contamination Sources
 
 ## Overview
 

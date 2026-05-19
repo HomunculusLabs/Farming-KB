@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.m
 type: concept
 ---
 
-# Cannabis Breeding Selection Principles
+## Cannabis Breeding Selection Principles
 
 Selection is the first and most important step in the breeding of any
 plant. The work of the great breeder and plant wizard [[luther-burbank-plant-breeding-methods]], in James, 1964)

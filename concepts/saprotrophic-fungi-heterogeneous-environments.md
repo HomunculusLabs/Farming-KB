@@ -6,7 +6,7 @@ tags: [saprotrophic-fungi, decomposition, foraging-behavior, soil-ecology, resou
 created: 2026-05-08
 ---
 
-# Saprotrophic Fungi in Heterogeneous Environments
+## Saprotrophic Fungi in Heterogeneous Environments
 
 ## Overview
 

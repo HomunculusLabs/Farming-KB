@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-# Garlic Growing Guide
+## Garlic Growing Guide
 
 Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. Planted in fall and harvested in summer, garlic requires minimal maintenance and produces a high-value crop that stores for months. This guide covers varieties, planting, care, harvesting, and curing.
 

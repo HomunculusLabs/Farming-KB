@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: [raw/papers/sepp-holzer-practical-guide.md]
 ---
 
-# How Do I Grow Berries and Soft Fruit in My Garden?
+## How Do I Grow Berries and Soft Fruit in My Garden?
 
 ## Short Answer
 

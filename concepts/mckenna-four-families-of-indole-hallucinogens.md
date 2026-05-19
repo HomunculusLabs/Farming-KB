@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# The Four Families of Indole Hallucinogens
+## The Four Families of Indole Hallucinogens
 
 ## The Real Missing Link
 

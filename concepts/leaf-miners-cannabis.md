@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Leaf Miners on Cannabis
+## Leaf Miners on Cannabis
 
 Leaf miners are the larval stage of small flies that burrow between leaf surfaces, creating distinctive tunnel patterns. They are more common in greenhouses and outdoor gardens than in indoor grow rooms, but can cause significant damage if left unchecked. While leaf miners cause relatively few problems to [[savory-growing-season-and-non-growing-season-management]]
 - Warmer temperatures accelerate development and increase the number of generations per season

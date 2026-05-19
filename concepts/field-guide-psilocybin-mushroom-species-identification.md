@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, field-identification, psilocybin, species-guide, safety]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+sources: ["raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md"]
 type: concept
 ---
-# Field Guide to Psilocybin Mushroom Species Identification
+## Field Guide to Psilocybin Mushroom Species Identification
 
 This field guide, originally written by F.C. Ghouled and published by Guidance
 Publications (New Orleans, 1972), provides identification criteria for three

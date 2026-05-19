@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Tidal and Estuarine Aquaculture
+## Tidal and Estuarine Aquaculture
 
 updated: 2026-04-18
 

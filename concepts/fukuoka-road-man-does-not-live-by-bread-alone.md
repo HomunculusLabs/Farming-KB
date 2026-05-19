@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Man Doesn't Live by Bread Alone
+## Man Doesn't Live by Bread Alone
 
 This section consists of excerpts from an interview at
 Shunjusha, publisher of the Japanese edition. The

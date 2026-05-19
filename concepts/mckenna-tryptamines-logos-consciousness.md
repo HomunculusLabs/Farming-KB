@@ -5,7 +5,7 @@ tags: [mckenna, logos, tryptamine, consciousness, dmt, philosophy]
 created: 2026-05-08
 ---
 
-# McKenna on Tryptamines, the Logos, and Consciousness
+## McKenna on Tryptamines, the Logos, and Consciousness
 
 ## Overview
 

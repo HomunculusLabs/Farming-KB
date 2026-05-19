@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# AHCC (Active Hexose Correlated Compound)
+## AHCC (Active Hexose Correlated Compound)
 
 AHCC is a proprietary extract derived from the mycelia of several
 basidiomycete mushroom species, primarily cultured through submerged

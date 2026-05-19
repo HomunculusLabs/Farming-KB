@@ -1,4 +1,8 @@
-# Cannabis Symptom Management in HIV/AIDS
+---
+title: "Cannabis Symptom Management in HIV/AIDS"
+tags:
+  - concept
+---
 
 ## Overview
 Acquired immune deficiency syndrome (AIDS) is considered by mainstream medicine to

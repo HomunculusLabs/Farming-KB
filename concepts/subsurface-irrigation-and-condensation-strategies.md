@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Subsurface Irrigation and Condensation Strategies
+## Subsurface Irrigation and Condensation Strategies
 
 ## Overview
 

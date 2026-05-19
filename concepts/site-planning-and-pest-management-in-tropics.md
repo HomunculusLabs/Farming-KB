@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Site [[trap-cropping]]
+## Site [[trap-cropping]]
 
 ## Overview
 

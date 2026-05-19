@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# [[tidal-aquaculture-systems|Tidal]] Aquaculture and Salt Marsh Systems
+## [[tidal-aquaculture-systems|Tidal]] Aquaculture and Salt Marsh Systems
 
 [[permaculture]] does not stop at the shoreline. The intertidal zone — the area between high and low tide — represents an enormously productive and often underutilized resource for food production, including fish, shellfish, crustaceans, and specialized salt-tolerant plants. Tidal systems can be designed to be self-flushing, self-feeding, and largely self-maintaining.
 

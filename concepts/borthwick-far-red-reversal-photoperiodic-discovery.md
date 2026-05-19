@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources:
   - raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
-# Borthwick and the Discovery of [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] here that Wightman W.
+## Borthwick and the Discovery of [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] here that Wightman W.
 Garner and Harry A. Allard first studied the [[coleman-winter-day-length-and-persephone-months]]). They had also demonstrated that what plants actually
 measure is not [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 photoreceptors (later identified as phototropins) that mediated phototropic

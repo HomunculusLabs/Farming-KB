@@ -1,4 +1,8 @@
-# Neurotropic Fungi: Classification and Taxonomy
+---
+title: "Neurotropic Fungi: Classification and Taxonomy"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -143,8 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
-- [[guzman-allen-gartz-neurotropic-fungi-europe]]

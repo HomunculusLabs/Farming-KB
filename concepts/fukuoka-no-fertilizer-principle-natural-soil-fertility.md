@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka's No-Fertilizer Principle and Natural Soil Fertility
+## Fukuoka's No-Fertilizer Principle and Natural Soil Fertility
 
 [[four-principles-of-natural-farming]] — **no fertilizer** — challenges one of the most deeply held assumptions of [[cannabis-rhizosphere-microbial-communities]], and the natural cycles of decomposition and mineralization — yields can equal those achieved through heavy fertilization. The soil is not an inert substrate requiring chemical supplementation; it is a living system that feeds plants as a matter of course.
 

@@ -5,7 +5,7 @@ source_id: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [mycelium, network-analysis, graph-theory, resilience, fungal-networks, foraging, resource-distribution, biological-networks]
 created: 2026-05-08
 ---
-# Mycelial Network Resilience and Graph Theory Analysis
+## Mycelial Network Resilience and Graph Theory Analysis
 
 Fungal mycelia are among the most complex biological networks [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] as a mathematical graph:
 

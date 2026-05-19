@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Landform and Topography Reading
+## Landform and Topography Reading
 
 So much of the ecology is affected by the shape of the land. Just as soup is contained within a bowl, the ecology is contained with geological features such as hills, valleys, grottos, soil composition, and so on. The shape of the ground affects the local hydro-cycle, creates micro-climates, determines what plants can grow where, and through these effects the animal populations. A [[faires-chicken-coops-tractors-and-breeding-guide]], greenhouses, gazebos, garages, and yurts can fill the same role as hills with good design planning.
 

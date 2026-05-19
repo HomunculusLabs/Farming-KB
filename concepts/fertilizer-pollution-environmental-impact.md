@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Fertilizer Pollution and Environmental Impact
+## Fertilizer Pollution and Environmental Impact
 
 The environmental consequences of excessive fertilizer use represent one of the most serious and widespread pollution problems in agriculture and gardening.
 

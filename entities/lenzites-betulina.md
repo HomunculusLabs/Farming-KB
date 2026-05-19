@@ -19,7 +19,7 @@ tags:
   - Index Fungorum. "Lenzites betulina (L.) Fr." http://www.indexfungorum.org
 ---
 
-# Lenzites betulina
+## Lenzites betulina
 
 ## Overview
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 created: 2026-04-28
 ---
-# Permaculture Design Principles and Sustainability
+## Permaculture Design Principles and Sustainability
 
 Permaculture is a comprehensive design system for creating sustainable human settlements and agricultural systems. The term, coined by use-and-value-renewable-resources and Services**: Prioritize resources that can be replenished naturally over those that are finite or polluting. This includes not only material resources but also the services provided by healthy ecosystems, such as pollination, water purification, and climate regulation.
 6. **[[permaculture-principle-apply-self-regulation]] deliberately create and work with edges to maximize diversity and producti faires-[[permaculture-ethics-and-design-principles]]

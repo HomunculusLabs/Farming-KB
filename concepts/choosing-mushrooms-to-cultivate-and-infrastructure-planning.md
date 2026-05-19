@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Choosing Mushrooms to Cultivate and Infrastructure Planning
+## Choosing Mushrooms to Cultivate and Infrastructure Planning
 
 From [[tradd-cotter]]'s *[[organic-mushroom-farming-and-mycoremediation-overview]] and Mycoremediation*, guidance on selecting mushroom species, matching them to available infrastructure, and planning cultivation operations.
 

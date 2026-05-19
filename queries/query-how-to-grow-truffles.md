@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Truffles
+## How to Grow Truffles
 
 ## Short Answer
 Growing truffles requires establishing a symbiotic relationship between

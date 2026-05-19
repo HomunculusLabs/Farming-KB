@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Phallus Impudicus (Stinkhorn Fungus)
+## Phallus Impudicus (Stinkhorn Fungus)
 
 *Phallus impudicus*, commonly known as the common stinkhorn or shameless
 penis, is a basidiomycete fungus renowned for its phallic [[dighton-fungal-decomposition-leaf-litter-dynamics]], connected to the underground

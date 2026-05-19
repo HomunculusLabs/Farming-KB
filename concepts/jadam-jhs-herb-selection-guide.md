@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JHS Making Guide with 100 Herbs
+## JHS Making Guide with 100 Herbs
 
 **Updated:** 2026-04-18
 **Source:** JADAM [[youngsang-cho]], 2016)

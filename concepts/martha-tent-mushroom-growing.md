@@ -7,7 +7,7 @@ tags: [mycology, mushrooms]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
 
-# Martha Tent Mushroom Growing
+## Martha Tent Mushroom Growing
 
 The Martha tent, named after the Martha [[stewart-brand]] of indoor greenhouse, is a
 popular enclosed [[accessible-mushroom-cultivation-for-disabilities]]. It provides an

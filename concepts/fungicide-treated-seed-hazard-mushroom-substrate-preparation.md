@@ -6,7 +6,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 created: 2026-05-11
 ---
 
-# Fungicide-Treated Seed Hazard in Mushroom Substrate Preparation
+## Fungicide-Treated Seed Hazard in Mushroom Substrate Preparation
 
 ## Overview
 

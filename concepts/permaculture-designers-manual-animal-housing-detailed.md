@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design, animal-systems, integrated-design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Animal Housing (Detailed)
+## Animal Housing (Detailed)
 ## Overview
 In [[permaculture-animal-integration]] systems. The tractor is a lightweight, moveable coop
 without a floor that can be relocated across garden beds or pasture:

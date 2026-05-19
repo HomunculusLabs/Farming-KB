@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Spore Germination and Strain Isolation Techniques
+## Spore Germination and Strain Isolation Techniques
 
 Germinating [[vic-high-true-breeding-strain-development-stabilization]]. While growing-gourmet-stock-culture-library and future use.
 This last transfer usually results in individual dikaryotic

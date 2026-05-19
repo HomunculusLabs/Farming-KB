@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
-# Cob Building vs Adobe Construction
+## Cob Building vs Adobe Construction
 
 ## Overview
 

@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# SOG vs SCROG: Cannabis Training Methods Compared
+## SOG vs SCROG: Cannabis Training Methods Compared
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Ericoid and Orchid Mycorrhizae
+## Ericoid and Orchid Mycorrhizae
 
 ## Overview
 

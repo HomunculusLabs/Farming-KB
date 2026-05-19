@@ -6,7 +6,7 @@ tags: [mycology, mycorrhiza, carbon-cycle, biogeochemistry, ecology, boreal-fore
 created: 2026-05-10
 ---
 
-# Mycorrhizal Carbon Cycling — Ericoid and Ectomycorrhizal Carbon Sequestration
+## Mycorrhizal Carbon Cycling — Ericoid and Ectomycorrhizal Carbon Sequestration
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Nutrient Cycling and Phosphorus Dynamics
+## Mycorrhizal Nutrient Cycling and Phosphorus Dynamics
 
 [[mycorrhizal-fungi]] are central to [[nutrient-cycling-in-soil]] terrestrial ecosystems, with phosphorus (P) representing one of the most critical nutrients mediated by these symbiotic associations. The research literature reveals a complex picture of how different [[mycorrhizal-types]] access, transport, and redistribute phosphorus and other nutrients between soil, fungi, and host plants.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Hurricanes, Cyclones, and Typhoons
+## Hurricanes, Cyclones, and Typhoons
 
 ## Description
 

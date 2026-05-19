@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Ginkgo biloba vs Panax ginseng
+## Ginkgo biloba vs Panax ginseng
 
 ## Overview
 

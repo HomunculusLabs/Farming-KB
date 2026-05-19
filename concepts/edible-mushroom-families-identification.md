@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Edible Mushroom Families Identification
+## Edible Mushroom Families Identification
 
 > Based on the research and experience of Julius A. Palmer Jr., a 19th-century
 > American mycologist and advocate for the safe, practical identification of

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hermaphrodism and Intersexuality in Cannabis
+## Hermaphrodism and Intersexuality in Cannabis
 
 Intersexuality is a trait that can be expressed due to a multitude of
 causes, both genetic and environmental. Understanding the distinction

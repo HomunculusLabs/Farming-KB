@@ -7,7 +7,7 @@ tags: [gardening, permaculture, design, plant-systems, sustainability]
 sources: []
 ---
 
-# Mandala Garden Design
+## Mandala Garden Design
 
 A mandala garden is a circular garden layout based on repeating geometric patterns, typically using a combination of circular beds, keyhole paths, and radiating walkways. The design maximizes growing space, reduces pathways, and creates a beautiful, productive food garden inspired by sacred geometry found in nature and traditional art.
 

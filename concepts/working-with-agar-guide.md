@@ -4,9 +4,9 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/working-with-agar.md]
+sources: ["raw/papers/working-with-agar.md"]
 ---
-# Working with Agar Guide
+## Working with Agar Guide
 
 Agar work is the foundation of mushroom [[cotter-culture-storage-senescence]].
 

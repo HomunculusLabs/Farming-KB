@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# Harmala Alkaloids and Ayahuasca Preparation
+## Harmala Alkaloids and Ayahuasca Preparation
 
 Harmala alkaloids (harmine, harmaline, tetrahydroharmine) are [[mao-inhibitors-and-psychedelics]] — critical MAOI safety information
 - [[cannabis-administration-methods-comparison]]

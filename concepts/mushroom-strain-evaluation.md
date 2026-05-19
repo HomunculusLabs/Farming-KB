@@ -10,7 +10,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Mushroom Strain Evaluation — Stamets 28-Feature Framework
+## Mushroom Strain Evaluation — Stamets 28-Feature Framework
 
 ## Overview
 

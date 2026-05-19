@@ -7,7 +7,7 @@ tags: [permaculture, plants, remediation, ph, soil, design, species]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-# Difficult Site Planting
+## Difficult Site Planting
 
 Many permaculture sites present challenges: salinity, alkalinity, waterlogging, coastal exposure, or degraded soils. This guide covers strategies and species for these conditions, drawn from "Permaculture Plants: A Selection."
 

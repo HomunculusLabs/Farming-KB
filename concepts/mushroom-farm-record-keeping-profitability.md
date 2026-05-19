@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Farm Record Keeping and Profitability
+## Mushroom Farm Record Keeping and Profitability
 
 Step 20 of the [[goose-keeping]] financial records throughout the farming process. Without accurate
 record keeping, a farmer cannot know whether the operation is truly profitable or

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biochemistry, tryptophan, chorismate, biosynthesis, fungal-metabolism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+sources: ["raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md"]
 type: concept
 ---
 
-# Tryptophan Biosynthesis from Chorismate
+## Tryptophan Biosynthesis from Chorismate
 
 Tryptophan biosynthesis is the branch of the [[indole]] ring system and attach it to an alanine-derived amino
 acid [[pyridoxal-phosphate]] (PLP) for

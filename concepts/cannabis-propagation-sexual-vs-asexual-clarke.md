@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: ["papers/robert-c-clarke-marijuana-botany-an-advanced-study.md"]
 ---
 
-# Cannabis Propagation: Sexual vs. Asexual Methods (Clarke)
+## Cannabis Propagation: Sexual vs. Asexual Methods (Clarke)
 
 ## Fundamental Principles
 

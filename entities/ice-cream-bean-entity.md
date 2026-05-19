@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Ice Cream Bean
+## Ice Cream Bean
 
 **Type:** Species (Plant)
 **Category:** Nitrogen-fixing [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] with edible [[berry-fruit-production-cool-humid-climates]]. This

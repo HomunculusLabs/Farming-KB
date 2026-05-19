@@ -13,7 +13,7 @@ sources:
 type: comparison
 ---
 
-# Biological Nitrogen Fixation vs Synthetic Nitrogen Fertilizer
+## Biological Nitrogen Fixation vs Synthetic Nitrogen Fertilizer
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# ALEPH-6
+## ALEPH-6
 
 **[[aleph-family-overview]], 2,5-dimethoxy-4-thio
   substitution with phenyl ring on sulfur)

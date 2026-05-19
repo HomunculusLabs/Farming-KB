@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Burrowing Organisms
+## Soil Burrowing Organisms
 
 ## Overview
 

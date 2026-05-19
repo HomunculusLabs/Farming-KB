@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: entity
 ---
 
-# Cannabidiol-bis-3,5-dinitrobenzoate
+## Cannabidiol-bis-3,5-dinitrobenzoate
 
 ## Description
 

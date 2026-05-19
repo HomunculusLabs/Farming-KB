@@ -5,7 +5,7 @@ tags: [shamanism, psychedelics, entheogens, healing, divination, indigenous]
 created: 2026-05-08
 ---
 
-# Shamanic Entheogenic Ceremonies
+## Shamanic Entheogenic Ceremonies
 
 ## Overview
 

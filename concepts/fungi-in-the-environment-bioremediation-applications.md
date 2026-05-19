@@ -4,10 +4,10 @@ created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [remediation, environment]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Fungal Bioremediation Applications
+## Fungal Bioremediation Applications
 
 Fungi possess remarkable abilities to transform, degrade, and immobilize environmental contaminants, making them powerful agents for fungal-bioremediation|bioremediation. As nutrient recyclers, biocontrol agents, and bioremediation agents, fungi are increasingly recognized for their potential in treating contaminated land, degrading organic pollutants, and transforming toxic metals. Their filamentous growth habit, metabolic versatility, and tolerance of extreme conditions give them unique advantages over bacteria for many remediation applications.
 

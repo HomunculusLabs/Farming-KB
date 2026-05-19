@@ -12,7 +12,7 @@ sources:
 type: query
 ---
 
-# How Do I Make Koji at Home for Beginners?
+## How Do I Make Koji at Home for Beginners?
 Welcome to the wonderful world of koji! Making koji at home is one of the most rewarding
 fermentation projects you can take on. This FAQ walks you through everything — from
 gathering supplies to celebrating your first batch. You've got this!

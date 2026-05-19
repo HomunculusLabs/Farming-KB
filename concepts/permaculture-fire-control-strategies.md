@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Fire Control Strategies
+## Permaculture Fire Control Strategies
 
 Fire is one of the most common and dangerous hazards in many landscapes. In [[permaculture-design]], fire control is not an afterthought but a fundamental consideration that shapes placement of every element — houses, roads, water systems, and plantings. The approach combines landscape-level fuel reduction, strategic element placement, physical protection structures, and client education.
 

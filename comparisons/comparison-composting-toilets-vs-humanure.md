@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Composting Toilets vs Humanure Composting
+## Composting Toilets vs Humanure Composting
 
 ## Overview
 Composting [[composting-toilets]]

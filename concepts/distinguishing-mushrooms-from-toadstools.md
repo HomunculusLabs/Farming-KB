@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Distinguishing Mushrooms from Toadstools
+## Distinguishing Mushrooms from Toadstools
 
 ## Overview
 

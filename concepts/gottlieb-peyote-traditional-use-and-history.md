@@ -8,7 +8,7 @@ type: concept
 tags: [history]
 ---
 
-# neurotropic-fungi-in-north-american Tribes
+## neurotropic-fungi-in-north-american Tribes
 
 During the past two centuries the religious use of peyote spread northward into the
 [[psychoactive-cacti-of-central-mexico]] maintain some of the most traditional peyote

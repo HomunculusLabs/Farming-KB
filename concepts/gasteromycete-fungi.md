@@ -6,7 +6,7 @@ created: 2026-05-10
 tags: [mycology, fungi, basidiomycota, taxonomy, spore-dispersal]
 ---
 
-# Gasteromycete Fungi
+## Gasteromycete Fungi
 
 ## Overview
 

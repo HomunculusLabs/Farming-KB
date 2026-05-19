@@ -16,7 +16,7 @@ sources:
   - Heckroth, H.P. & Weber, E. (1997). "The genus Ranunculus L. (Ranunculaceae) in the Baltic area." Nordic Journal of Botany, 17(1), 15-34.
 ---
 
-# Ranunculus aquatilis
+## Ranunculus aquatilis
 
 ## Overview
 

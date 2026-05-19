@@ -4,7 +4,7 @@ source: What a Plant Knows (Daniel Chamovitz, 2012)
 concepts: [plant-olfaction, ethylene, volatile-organic-compounds, plant-communication, chemical-ecology]
 ---
 
-# Plant Olfaction
+## Plant Olfaction
 
 Plants lack noses, olfactory bulbs, and brains, yet they possess a sophisticated ability
 to detect and respond to airborne [[chamovitz-plant-scent-communication-volatile-organic-compounds]]

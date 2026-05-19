@@ -14,7 +14,7 @@ sources:
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
-# UC Davis Student Dialogue on Natural Farming
+## UC Davis Student Dialogue on Natural Farming
 
 ## Overview
 

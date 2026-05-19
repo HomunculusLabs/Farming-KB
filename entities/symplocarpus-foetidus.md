@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Symplocarpus foetidus (Skunk Cabbage)
+## Symplocarpus foetidus (Skunk Cabbage)
 
 ## Description
 

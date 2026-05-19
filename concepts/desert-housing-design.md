@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Housing Design Principles
+## Desert Housing Design Principles
 
 Desert housing must achieve the twin qualities of **summer cooling** and **winter (or night) warmth**. Traditional desert architecture—from the older houses of Iran, Afghanistan, and Rajasthan to the compact pueblos of the American Southwest—demonstrates sophisticated climate-responsive design that modern construction often fails to match.
 

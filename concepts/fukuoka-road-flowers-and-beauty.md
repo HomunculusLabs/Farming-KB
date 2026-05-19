@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Flowers and Beauty in European Civilization
+## Flowers and Beauty in European Civilization
 
 While traveling through the European countryside, masanobu-fukuoka|Fukuoka
 was struck by the beauty and cleanliness [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] loving

@@ -20,7 +20,7 @@ sources:
 - raw/papers/purdue-home-gardeners-guide.md
 ---
 
-# Vegetable Garden Fertilization
+## Vegetable Garden Fertilization
 
 Comprehensive fertilization program for home vegetable gardens, based on Purdue Extension guidelines. Covers soil test-based fertility, annual maintenance fertilization, starter solutions for transplants, nitrogen side-dressing by crop, soil pH adjustment, [[hamilton-composting-and-organic-matter-management]].
 

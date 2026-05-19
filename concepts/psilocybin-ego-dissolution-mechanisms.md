@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Psilocybin and Ego Dissolution Mechanisms
+## Psilocybin and Ego Dissolution Mechanisms
 
 One of the most profound and consistently reported effects of the [[psilocybin]] experience is the dissolution of the sense of self, or ego. This phenomenon -- in which the boundary between self and world becomes permeable or disappears entirely -- is a hallmark effect of psilocybin and represents one of its most significant implications for understanding human consciousness.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Television as the Dominator Drug
+## Television as the Dominator Drug
 
 ## The First Electronic Drug
 

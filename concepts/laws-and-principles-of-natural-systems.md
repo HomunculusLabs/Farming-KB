@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Laws and Principles of Natural Systems
+## Laws and Principles of Natural Systems
 
 ## The Limits of Scientific Method in Biology
 

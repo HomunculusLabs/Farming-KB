@@ -6,7 +6,7 @@ tags: [fungi, extremophiles, rock-weathering, biogeology, Chernobyl, desert-fung
 created: 2026-05-11
 ---
 
-# Fungal Rock Colonization and Extreme Environments
+## Fungal Rock Colonization and Extreme Environments
 
 Fungi colonize rocks and minerals in virtually every environment on Earth,
 from Antarctic dry valleys to radioactive nuclear reactor containment

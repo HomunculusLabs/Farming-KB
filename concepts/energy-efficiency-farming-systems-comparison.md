@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Energy Efficiency Comparison of Farming Systems
+## Energy Efficiency Comparison of Farming Systems
 
 The energy efficiency of food production — the ratio of food energy harvested to energy invested — varies dramatically between [[cho-loess-powder-in-natural-farming]] is 10 to 50 times more energy-efficient than mechanized [[hashish-production-methods]], using kilocalories as the common unit:
 

@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, cultivation, spawn, inoculation, fruiting, indoor, food
 sources: []
 ---
 
-# Shiitake Cultivation Guide
+## Shiitake Cultivation Guide
 
 Shiitake (Lentinula edodes) is the second most cultivated mushroom worldwide and one of the best choices for small-scale and homestead growers. Native to East Asia, shiitake has been cultivated for over a thousand years and remains a staple in Asian cuisine and traditional medicine.
 

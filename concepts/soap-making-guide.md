@@ -7,7 +7,7 @@ tags: [homesteading, homestead-crafts, recipe, safety, preparation, chemistry]
 sources: []
 ---
 
-# Soap Making Guide
+## Soap Making Guide
 
 Cold process soap making is the core homestead soap craft, transforming fats and oils into soap through saponification -- a chemical reaction between triglycerides and sodium hydroxide (lye). The result is a solid, long-lasting bar of soap that can be customized with scents, colors, and additives from the homestead.
 

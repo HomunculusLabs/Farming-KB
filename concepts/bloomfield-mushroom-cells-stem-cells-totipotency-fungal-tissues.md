@@ -5,7 +5,7 @@ author: Nicholas P. Money
 topics: mycology, cell biology, stem cells, totipotency, fungal development
 ---
 
-# Mushroom Cells as Stem Cells — Totipotency in Fungal Tissues
+## Mushroom Cells as Stem Cells — Totipotency in Fungal Tissues
 
 One of the most remarkable features of fungal biology is the
 totipotency of hyphal cells. Unlike animal cells, which become

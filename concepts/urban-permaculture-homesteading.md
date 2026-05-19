@@ -9,7 +9,7 @@ type: concept
 tags: [culture, homesteading, permaculture]
 ---
 
-# Urban Permaculture [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], food production, and community
+## Urban Permaculture [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], food production, and community
 building into compact urban spaces.
 
 ## The Greensboro Model

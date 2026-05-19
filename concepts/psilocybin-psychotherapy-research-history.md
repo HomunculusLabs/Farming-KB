@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [psilocybin, mushrooms]
 ---
 
-# [[psilocybin-psychotherapy]] Research History
+## [[psilocybin-psychotherapy]] Research History
 
 The use of [[psilocybin]] and other hallucinogenic substances in psychotherapy represents one of the most promising yet politically suppressed areas of psychiatric research in the 20th century. Beginning in the 1950s and continuing until legislative restrictions halted most work in the late 1960s, researchers across Europe and [[psilocybin-north-america-pacific-northwest]] demonstrated remarkable clinical success rates using psilocybin as an adjunct to psychotherapeutic treatment.
 

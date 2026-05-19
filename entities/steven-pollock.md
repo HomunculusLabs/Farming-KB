@@ -10,7 +10,7 @@ sources:
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-garten.md
 ---
 
-# Steven H. Pollock
+## Steven H. Pollock
 
 Steven H. Pollock (1940s–1981) was an American physician and mycologist who made significant contributions to the discovery and taxonomy of psilocybin-containing mushrooms. His work led to the identification of several new species and he is credited as the co-discoverer of *Psilocybe tampanensis* alongside [[gary-lincoff]].
 

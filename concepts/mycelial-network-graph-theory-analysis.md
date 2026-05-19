@@ -4,7 +4,7 @@ source: "Fungi in the Environment (Gadd, Watkinson, Dyer)"
 topics: [fungi, mycelium, network-theory, graph-theory, foraging, nutrient-transport, cords, resilience]
 ---
 
-# Mycelial Network Graph Theory Analysis
+## Mycelial Network Graph Theory Analysis
 
 ## Overview
 

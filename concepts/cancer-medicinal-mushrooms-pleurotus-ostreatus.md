@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], as well as beta-glucan and
+## [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], as well as beta-glucan and
 heteroglucan from its submerged cultured mycelium. The antitumour
 polysaccharides from the fruit-body have demonstrated activity in
 xenograft models, confirming their biological activity.

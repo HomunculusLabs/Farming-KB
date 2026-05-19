@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Psychedelic Set and Setting
+## Psychedelic Set and Setting
 
 The concept of "set and setting"--the recognition that the psychological and physical context of psychedelic use is at least as important as the pharmacological properties of the substance itself--is one of the foundational insights of [[psilocybin]] Solution emphasizes this principle throughout, drawing on the [[leary-psychedelic-experience-bardo-mapping]]
 - **Setting**: The physical, social, and cultural environment in which the experience takes place
@@ -21,7 +21,7 @@ The set and setting principle has direct implications for [[psilocybin-ego-disso
 
 ## Merged: Boundary Dissolution in Psychedelic Experience
 
-# Boundary Dissolution in Psychedelic Experience
+## Boundary Dissolution in Psychedelic Experience
 
 Boundary dissolution is a central concept in McKenna's Food of the Gods, describing the psychological and social effects of psychedelic compounds that dissolve the boundaries between self and other, individual and group, human and nature, and conscious and unconscious. McKenna argues that this boundary-dissolving capacity is the fundamental reason why psychedelic plants have been both venerated and suppressed throughout human history.
 

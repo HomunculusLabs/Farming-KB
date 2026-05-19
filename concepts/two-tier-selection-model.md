@@ -5,7 +5,7 @@ source: Winston et al. (2014); Bulgarelli et al. (2013); Garbeva et al. (2004); 
 tags: [microbiology, plant-microbe-interactions, rhizosphere, endophytes, ecological-theory]
 ---
 
-# Two-Tier Selection Model
+## Two-Tier Selection Model
 
 The two-tier selection model (also called the two-step selection model) describes how plant root-associated bacterial communities are assembled through two sequential filtering stages: first by [[endorhiza-rhizosphere-bulk-soil-microbial-communities]] are shaped primarily by abiotic soil properties including pH, nitrogen content, salinity, organic carbon, water content, and texture. These edaphic factors determine the available pool of microbial taxa from which the plant can recruit associates. The soil acts as the primary inoculum source for the rhizosphere and endorhiza.
 

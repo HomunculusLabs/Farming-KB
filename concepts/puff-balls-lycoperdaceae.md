@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, lycoperdaceae, puffballs, taxonomy, edible-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
-# Puff Balls (Lycoperdaceae) The Lycoperdaceae, commonly known as puff balls, are a distinctive family of fleshy fungi within the order Basidiomycetes. They are so different in general form and structure from the families of gilled and pored fungi that they may be identified with comparative ease, making them among the safest wild fungi for amateur collectors. ## Morphological Characteristics Puff balls are commonly more or less spheroidal or ovate in form. When young they are white and solid throughout. Within the walls of the solid sporophore, practically all of the tissues differentiate at maturity into a mass of countless, dry, colored [[coral-fungi-clavariaceae]]
+## Puff Balls (Lycoperdaceae) The Lycoperdaceae, commonly known as puff balls, are a distinctive family of fleshy fungi within the order Basidiomycetes. They are so different in general form and structure from the families of gilled and pored fungi that they may be identified with comparative ease, making them among the safest wild fungi for amateur collectors. ## Morphological Characteristics Puff balls are commonly more or less spheroidal or ovate in form. When young they are white and solid throughout. Within the walls of the solid sporophore, practically all of the tissues differentiate at maturity into a mass of countless, dry, colored [[coral-fungi-clavariaceae]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

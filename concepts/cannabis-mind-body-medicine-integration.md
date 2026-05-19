@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Mind-Body cannabis-mind-body-medicine-integration-framework-blesching
+title: "Cannabis Mind Body Medicine Integration"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, medicine]
 ---
 
-# Cannabis and Mind-Body Medicine Integration
+## Cannabis and Mind-Body Medicine Integration
 
 The [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] as Mind-Body Bridge
 

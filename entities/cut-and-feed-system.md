@@ -5,7 +5,7 @@ type: entity
 tags: [technique, livestock, forage, manure-management, tropical-farming]
 ---
 
-# Cut and Feed System (Zero Grazing)
+## Cut and Feed System (Zero Grazing)
 
 ## Description
 

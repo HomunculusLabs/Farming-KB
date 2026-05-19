@@ -6,7 +6,7 @@ tags: [cannabis, microbiome, salinity, nitrogen, edaphic-factors, community-stru
 aliases: [Salinity Nitrogen Soil Microbiome Cannabis, Edaphic Factor Interaction Cannabis]
 ---
 
-# Salinity-Nitrogen Interaction in Cannabis Microbiome Structuring
+## Salinity-Nitrogen Interaction in Cannabis Microbiome Structuring
 
 The Winston et al. (2014) Cannabis microbiome study identified nitrogen and salinity as
 the two strongest [[cannabis-endorhiza-bacterial-communities]].

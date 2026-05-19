@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Interactions with Human Environmental Impacts
+## Fungal Interactions with Human Environmental Impacts
 
 Human activities profoundly influence fungal diversity, community structure, [[fungal-biodiversity-and-ecosystem-function]]. As the world population has increased dramatically since the mid-20th century (Meadows et al., 1992; Silver and DeFries, 1990; Brown, 1997), the effects of human activities on ecosystems have escalated correspondingly. While public attention has focused on climate change, acid rain, atmospheric CO2 increase, stratospheric ozone depletion, and nuclear fallout, the impacts of these environmental changes on fungi — and the consequent effects on ecosystem processes mediated by fungi — have received comparatively little attention.
 

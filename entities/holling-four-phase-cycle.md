@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# Holling's Four-Phase Cycle
+## Holling's Four-Phase Cycle
 
 ## Description
 

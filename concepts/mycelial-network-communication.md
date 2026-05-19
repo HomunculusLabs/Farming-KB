@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, fungi, biology, networks]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Mycelial Network Communication Mycelial networks are the underground filamentous structures formed by fungi, consisting of vast arrays of hyphae that connect individual organisms and facilitate resource exchange, signaling, and environmental sensing across large distances. Often referred to as the "[[dighton-mycorrhizal-networks-carbon-transfer]] influence tree succession,
+## Mycelial Network Communication Mycelial networks are the underground filamentous structures formed by fungi, consisting of vast arrays of hyphae that connect individual organisms and facilitate resource exchange, signaling, and environmental sensing across large distances. Often referred to as the "[[dighton-mycorrhizal-networks-carbon-transfer]] influence tree succession,
   competition, and survival by mediating resource transfers and chemical
   signals between plants.
 - **Soil health**: Saprotrophic fungal networks decompose [[plant-fungal-signaling-mycorrhiza]], mapping network architecture using X-ray CT

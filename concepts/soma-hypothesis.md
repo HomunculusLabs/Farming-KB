@@ -24,7 +24,7 @@ sources:
 - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-# The Soma Hypothesis
+## The Soma Hypothesis
 
 The theory that Amanita muscaria (fly-agaric) was the identity of Soma, the divine sacrament of Vedic religion, remains one of the most influential — and controversial — claims in ethnomycology.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Human Photoreception: Rods, Cones, and the Visual Spectrum
+## Human Photoreception: Rods, Cones, and the Visual Spectrum
 
 ## Overview
 

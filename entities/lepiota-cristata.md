@@ -5,7 +5,7 @@ type: entity
 taxonomy: fungi
 ---
 
-# Lepiota cristata (Crested Lepiota)
+## Lepiota cristata (Crested Lepiota)
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between LST and HST for Cannabis
+## What Is the Difference Between LST and HST for Cannabis
 
 ## Short Answer
 Low Stress Training (LST) involves gently bending and tying branches to reshape

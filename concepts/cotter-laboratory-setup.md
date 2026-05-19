@@ -6,7 +6,7 @@ type: concept
 tags: mycology, laboratory, cultivation, equipment]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# Laboratory Setup for Mushroom Cultivation
+## Laboratory Setup for Mushroom Cultivation
 
 Setting up a home mushroom cultivation lab enables sterile tissue culture, [[norwegian-woodland-party-organic-mushroom-milieu]] Farming and Mycoremediation," virtually any enclosed space can function as a lab with proper preparation.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Trellis and Shadehouse Design in Permaculture
+## Trellis and Shadehouse Design in Permaculture
 
 updated: 2026-04-18
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Ecological Balance Principles
+## Ecological Balance Principles
 
 Masanobu Fukuoka's understanding of [[cervantes-chemical-fertilizers-guide]] disrupt the soil food web, creating dependency on further inputs. Monocultures eliminate the diversity that provides natural resilience.
 

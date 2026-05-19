@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Food Drying and Dehydration Methods
+## Food Drying and Dehydration Methods
 
 Sun drying is a no-cost, low-energy dehydration method that uses the power
 of the sun. This method works well in a hot, dry climate. In temperate

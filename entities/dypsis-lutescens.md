@@ -17,7 +17,7 @@ sources:
   - Wolverton, B.C. (1989). "Foliage Plants for Removing Indoor Air Pollutants from Energy-Efficient Homes." NASA Technical Memorandum.
 ---
 
-# Dypsis lutescens
+## Dypsis lutescens
 
 ## Overview
 

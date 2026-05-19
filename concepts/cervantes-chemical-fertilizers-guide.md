@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Chemical Fertilizers Guide
+## Chemical Fertilizers Guide
 
 Chemical fertilizers play a central role in indoor [[jorge-cervantes]] covers fertilizers extensively in Chapter 11 of
 *Marijuana Horticulture* (page 270), comparing soluble, granular, and

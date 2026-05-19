@@ -8,7 +8,7 @@ sources: [the-encyclopedia-of-country-living, back-to-basics, the-self-sufficien
 related_concepts: [food-preservation-and-canning, beekeeping-basics, backyard-livestock, poultry-management, off-grid-systems, food-storage, root-cellaring, seasonal-planning, home-dairy, herbal-medicine-making]
 ---
 
-# Homesteading and Self-Sufficiency Skills
+## Homesteading and Self-Sufficiency Skills
 
 Homesteading is the practice of producing food, energy, and other necessities on a
 small scale while reducing dependence on external supply chains and centralized

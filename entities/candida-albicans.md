@@ -5,10 +5,10 @@ type: species
 tags: [pathogen, yeast, commensal, dimorphic, quorum-sensing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Candida albicans
+## Candida albicans
 
 Candida albicans is a dimorphic fungal species that exists as both a
 commensal organism and an opportunistic pathogen in humans. It is a

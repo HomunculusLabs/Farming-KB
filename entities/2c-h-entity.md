@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-future-drugs.md"
 ---
-# 2C-H (2,5-Dimethoxyphenethylamine)
+## 2C-H (2,5-Dimethoxyphenethylamine)
 
 2C-H is a phenethylamine compound and the parent molecule of the 2C family of [[2c-b-pihkal-entry-20]] #32.
 

@@ -6,7 +6,7 @@ tags: [soil-science, ph, salinity, organic-carbon, microbial-ecology]
 created: 2026-05-09
 ---
 
-# Soil Physicochemical Properties and Microbial Communities
+## Soil Physicochemical Properties and Microbial Communities
 
 Soil physicochemical properties are the primary drivers of microbial [[edaphic-determinants-cannabis-microbiome-community-structure]], making them the dominant Tier 1 selective force in the two-tier model of plant [[cannabis-endorhiza-bacterial-communities]]. Proteobacteria, Actinobacteria, Bacteroidetes, and Planctomycetes are all well-represented.
 - **Alkaline soils (pH > 7.5)**: Favor Firmicutes, Chloroflexi, and certain Gammaproteobacteria groups.

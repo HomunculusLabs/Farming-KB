@@ -5,7 +5,7 @@ type: entity
 tags: [agriculture, community-gardening, history, britain, food-security]
 ---
 
-# Allotment Gardening
+## Allotment Gardening
 
 ## Description
 

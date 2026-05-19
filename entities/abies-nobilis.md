@@ -17,7 +17,7 @@ sources:
   - "Harrington, C.A. (1990. Abies procera Rehd.: Noble Fir. In Silvics abies-amabilis on a clear-cut in western Oregon. Ecology, 54(4), 776-786."
 ---
 
-# Noble Fir (*Abies procera*)
+## Noble Fir (*Abies procera*)
 
 ## Overview
 

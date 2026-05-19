@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Winter Forest Foraging and Wildlife Cooperation
+## Winter Forest Foraging and Wildlife Cooperation
 
 Mollison's treatment of winter foraging in temperate forest systems emphasises
 cooperation between humans and wildlife rather than competition. By designing

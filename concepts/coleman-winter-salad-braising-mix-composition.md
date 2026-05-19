@@ -5,7 +5,7 @@ source_author: coleman-semi-hibernating-winter-crops-harvest-extension"
 tags: [farming, winter-harvest, salad-mix, coleman, mesclun, braising-mix, cold-hardy-crops]
 ---
 
-# Winter Salad and Braising Mix Composition
+## Winter Salad and Braising Mix Composition
 
 Eliot Coleman's Four [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] temperatures intensify the beautiful deep maroon,
 and the flavor lacks radicchio's bitter edge (which under poor conditions

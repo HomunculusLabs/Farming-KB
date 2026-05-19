@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Seed Saving and Seed Propagation
+## Seed Saving and Seed Propagation
 
 The goal of seed propagation in the [[biodiversity-fungal-genetic-diversity]]. This contrasts with hybrids, which often produce foods of lower nutritive value, use up nutrients from soil at a more rapid rate, and cannot be reliably saved for future planting. Open-pollinated varieties allow gardeners to save their own seeds, reducing dependency on external sources.
 

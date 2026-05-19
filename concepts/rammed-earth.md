@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Rammed Earth Construction
+## Rammed Earth Construction
 
 Rammed earth construction is a building technique that creates dense, monolithic walls by compacting damp earth between temporary formwork. One of the oldest building methods in human history, rammed earth has been used for millennia across China, the Mediterranean, North Africa, the Middle East, and Europe. Modern rammed earth combines ancient techniques with contemporary engineering, producing walls of exceptional strength, durability, and thermal performance. In [[jadam-local-material-collection-and-use]] sourcing, longevity, and thermal mass properties.
 

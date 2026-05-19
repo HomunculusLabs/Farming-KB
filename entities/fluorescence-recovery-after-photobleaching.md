@@ -5,7 +5,7 @@ type: entity
 tags: [technique, microscopy, imaging, fungal-biology, cell-biology]
 ---
 
-# Fluorescence Recovery After Photobleaching (FRAP)
+## Fluorescence Recovery After Photobleaching (FRAP)
 
 ## Description
 

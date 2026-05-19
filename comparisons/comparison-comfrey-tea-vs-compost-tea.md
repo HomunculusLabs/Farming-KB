@@ -19,7 +19,7 @@ sources:
 type: comparison
 ---
 
-# Comfrey Tea vs Compost Tea
+## Comfrey Tea vs Compost Tea
 
 ## Overview
 

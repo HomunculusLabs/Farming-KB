@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Sarcodon imbricatus
+## Sarcodon imbricatus
 
 ## Overview
 

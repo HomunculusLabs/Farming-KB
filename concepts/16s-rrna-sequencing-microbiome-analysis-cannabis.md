@@ -6,7 +6,7 @@ tags: [16s-rrna, microbiome, sequencing, bioinformatics, qiime, amplicon]
 created: 2026-05-09
 ---
 
-# 16S rRNA Sequencing for Microbiome Analysis
+## 16S rRNA Sequencing for Microbiome Analysis
 
 16S ribosomal RNA (rRNA) gene sequencing is the standard molecular method for characterizing [[challenge-microorganisms-microwave-surface-sterilization]] with ethanol and sterile water rinses is essential to distinguish endorhiza bacteria from rhizoplane/rhizosphere contaminants
 - **Heat pretreatment**: Heating at 65°C for 10 minutes before the initial vortex step improves lysis of tough bacterial cell walls, particularly Gram-positive Actinobacteria

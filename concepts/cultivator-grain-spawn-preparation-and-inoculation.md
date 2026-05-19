@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: concept
 ---
-# Grain Spawn Preparation and Inoculation Methods
+## Grain Spawn Preparation and Inoculation Methods
 
 ## Overview
 

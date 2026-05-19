@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Tree Crops and Cane Crops
+## Tree Crops and Cane Crops
 
 The [[azurescens-outdoor-bed-preparation-woodchips]], fertilization, and watering approaches remain
 essentially the same -- only the plant spacings are different.

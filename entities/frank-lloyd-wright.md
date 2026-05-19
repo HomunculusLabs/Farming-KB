@@ -5,7 +5,7 @@ type: entity
 tags: [people, architect, design, cautionary-example]
 ---
 
-# Frank Lloyd Wright
+## Frank Lloyd Wright
 
 ## Description
 

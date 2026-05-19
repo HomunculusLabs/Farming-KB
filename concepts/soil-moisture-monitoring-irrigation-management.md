@@ -6,7 +6,7 @@ type: concept
 tags: [irrigation, soil-moisture, sensors, water-management
 sources: []
 ---
-# Soil Moisture Monitoring for Irrigation Management
+## Soil Moisture Monitoring for Irrigation Management
 
 ## Why Monitor Soil Moisture?
 

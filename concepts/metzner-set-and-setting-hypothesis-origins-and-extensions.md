@@ -7,7 +7,7 @@ tags: [ralph-metzner, set-and-setting, timothy-leary, george-litwin,
 created: 2026-05-08
 ---
 
-# Set and Setting Hypothesis: Origins and Extensions
+## Set and Setting Hypothesis: Origins and Extensions
 
 The [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
 [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] matrices and transpersonal consciousness

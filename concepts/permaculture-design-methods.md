@@ -7,7 +7,7 @@ tags: [permaculture, design, methods, workflow, patterns, ecological-design]
 sources: []
 ---
 
-# Permaculture Design Methods
+## Permaculture Design Methods
 
 Permaculture offers several structured design frameworks that guide practitioners from initial observation through to implementation and ongoing management. Each method has its strengths, and many designers combine elements from multiple approaches.
 

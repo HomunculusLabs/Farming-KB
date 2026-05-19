@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Grifron-D Maitake Beta-Glucan
+## Grifron-D Maitake Beta-Glucan
 
 Grifron-D (also called Maitake D-fraction or GD) is a purified β-glucan extracted from [[medicinal-mushroom-compound-extraction]]
 

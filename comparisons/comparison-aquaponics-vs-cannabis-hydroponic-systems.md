@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Aquaponics vs Hydroponics
+## Aquaponics vs Hydroponics
 
 ## Overview
 Aquaponics and hydroponics are both soilless [[cannabis-hydroponic-systems]]

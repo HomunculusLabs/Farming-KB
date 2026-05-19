@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, succession, blackberry, apple, cattle, ecological-design]
 ---
 
-# Blackberry-Apple-Cattle Succession (Mollison)
+## Blackberry-Apple-Cattle Succession (Mollison)
 
 ## Description
 

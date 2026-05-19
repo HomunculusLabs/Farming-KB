@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Itching (Pruritis)
+## Cannabis and Itching (Pruritis)
 
 ## Overview
 

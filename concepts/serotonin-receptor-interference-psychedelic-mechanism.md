@@ -1,4 +1,8 @@
-#  Receptor Interference as the  of   in
+---
+title: "Receptor Interference as the  of   in"
+tags:
+  - concept
+---
 ## Overview and Structural Foundation
 The psychedelic effects of psilocin and its phosphate prodrug psilocybin are fundamentally rooted in their
 structural resemblance to serotonin (5-hydroxytryptamine, 5-HT), the endogenous neurotransmitter responsible

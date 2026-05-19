@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Set Up CO2 Supplementation for My Cannabis Grow?
+## How Do I Set Up CO2 Supplementation for My Cannabis Grow?
 
 ## Short Answer
 CO2 supplementation increases cannabis growth rates and yields by providing more

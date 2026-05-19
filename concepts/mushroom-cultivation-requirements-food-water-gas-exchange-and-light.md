@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom Cultivation Requirements: Food, Water, Gas Exchange, and Light
+## Mushroom Cultivation Requirements: Food, Water, Gas Exchange, and Light
 
 From [[tradd-cotter]]'s *Organic Mushroom Farming and [[mycoremediation]]*, the four essential requirements for prolific mushroom production are food, water, gas exchange, and light. "If any one of these variables is missing or neglected, the mycelium and mushroom biomass suffers greatly."
 

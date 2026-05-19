@@ -20,7 +20,7 @@ sources:
 - raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
 
-# Soil Fertility Management
+## Soil Fertility Management
 
 Steve Solomon's "Gardening When It Counts" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
 

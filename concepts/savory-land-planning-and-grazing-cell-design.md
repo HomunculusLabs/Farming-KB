@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Land Planning and Grazing Cell Design
+## Land Planning and Grazing Cell Design
 
 Until recently, land on farms, ranches, forests, national parks, and tribal lands was
 rarely planned with any long-term vision. Forests were planned for easy extraction,

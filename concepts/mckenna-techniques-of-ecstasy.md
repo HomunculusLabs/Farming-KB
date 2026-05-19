@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Techniques of Ecstasy
+## Techniques of Ecstasy
 
 ## Mircea Eliade and the Shamanic Definition
 

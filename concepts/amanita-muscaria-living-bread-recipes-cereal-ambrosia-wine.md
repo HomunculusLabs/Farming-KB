@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Living Bread Recipes: Cereal, Ambrosia, and Wine
+## Living Bread Recipes: Cereal, Ambrosia, and Wine
 
 Dried *[[bionutrients-lab-fermented-fruit-juice-ffj]] into a potent sacramental drink in a matter of minutes — with no fermentation
 required.

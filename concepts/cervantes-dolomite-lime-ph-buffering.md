@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Dolomite Lime and pH Buffering for Cannabis
+## Dolomite Lime and pH Buffering for Cannabis
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
 -- [[dynamic-accumulator-plants-calcium-and-magnesium]]. The general rule of thumb is to add 1 to 2 pounds

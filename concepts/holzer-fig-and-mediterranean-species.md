@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Fig and Mediterranean Species
+## Holzer Fig and Mediterranean Species
 
 One of Sepp Holzer's most dramatic demonstrations of permaculture principles is the cultivation of Mediterranean and subtropical species in alpine Austria. Through careful microclimate design -- using suntraps, stone heat storage, water reflection, [[comparison-agave-vs-prickly-pear-cultivation]] cactus at altitudes and in climates where conventional agriculture considers them impossible. This work proves that with creative design, the range of productive species can be greatly extended beyond their natural climatic limits.
 

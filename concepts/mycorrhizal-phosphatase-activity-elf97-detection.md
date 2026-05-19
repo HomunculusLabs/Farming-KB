@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: []
 ---
-# Mycorrhizal Phosphatase Activity Detection by ELF-97 Substrate
+## Mycorrhizal Phosphatase Activity Detection by ELF-97 Substrate
 ## Overview
 The ELF-97 endogenous phosphatase detection kit (Molecular Probes) is a
 fluorescence-based method for assessing phosphatase activity associated with

@@ -4,7 +4,7 @@ source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
 
-# Inocybe aeruginascens — Urban Psilocybin Mushroom
+## Inocybe aeruginascens — Urban Psilocybin Mushroom
 
 *[[inocybe-aeruginascens]]* is a psilocybin-containing mushroom belonging to the genus *Inocybe* (family Cortinariaceae), a group better known for producing the toxic compound **muscarine** in many of its approximately 160 European species. The [[discovery-of-psilocybin-mushrooms-by-western-science]] in *I. aeruginascens* was significant because it represented the first confirmation of the alkaloid in the *Inocybe* genus and, at the time, the family Cortinariaceae — challenging the hypothesis that psilocybin was a useful chemotaxonomic marker limited to specific fungal families.
 

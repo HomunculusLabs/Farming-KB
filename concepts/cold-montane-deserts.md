@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cold and Montane Deserts
+## Cold and Montane Deserts
 
 Cold and montane deserts occupy the arid plateau and high valley interiors of continents. They present unique challenges for human habitation and agriculture due to their extreme temperature fluctuations, intense [[albedo-and-solar-radiation]], and very short [[jeavons-climate-adaptation-growing-seasons]]. Despite the harsh conditions, these environments support specialised plant and animal communities and offer opportunities for [[water-management]] strategy:
 

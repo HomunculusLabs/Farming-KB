@@ -5,7 +5,7 @@ tags: [gardening, tools, sharpening, hand-tools, low-input, self-sufficiency]
 related: [solomon-seed-starting-transplanting, solomon-irrigation-water-management, solomon-disease-identification-and-organic-remedies]
 ---
 
-# Essential Gardening Tools and Their Care
+## Essential Gardening Tools and Their Care
 
 [[steve-solomon]]'s "Gardening When It Counts" advocates a deliberately minimalist
 approach to gardening tools. Unlike [[solomon-garden-centers-seedling-traps]] and their extensive product

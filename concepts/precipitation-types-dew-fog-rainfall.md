@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Precipitation — Rainfall, Dew, and Fog
+## Precipitation — Rainfall, Dew, and Fog
 
 ## Overview
 

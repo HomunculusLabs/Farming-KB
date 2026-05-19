@@ -17,7 +17,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Natural Culture and Myco-Landscaping with Gourmet Mushrooms
+## Natural Culture and Myco-Landscaping with Gourmet Mushrooms
 
 ## Overview
 

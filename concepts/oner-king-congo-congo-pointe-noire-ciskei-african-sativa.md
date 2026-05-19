@@ -5,7 +5,7 @@ source_id: "oner-cannabis-sativa-vol3"
 topics: [cannabis, sativa, strain-profile, african-landrace, congo, tropical-seeds, cannabis-genetics]
 ---
 
-# King Congo: Congo Pointe Noire × Ciskei African Pure Sativa
+## King Congo: Congo Pointe Noire × Ciskei African Pure Sativa
 
 ## Overview
 

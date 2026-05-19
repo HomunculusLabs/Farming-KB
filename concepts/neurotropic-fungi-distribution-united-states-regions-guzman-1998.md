@@ -1,4 +1,8 @@
-# Neurotropic Fungi Distribution Across United States Regions
+---
+title: "Neurotropic Fungi Distribution Across United States Regions"
+tags:
+  - concept
+---
 
 ## Source
 Guzmán, Allen & Gartz (1998) — *A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion.* Ann. Mus. civ. Rovereto, Vol. 14, pp. 189-280.

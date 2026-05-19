@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, psychopharmacology, therapy, beginner]
 sources: []
 ---
 
-# Cannabis and Exercise Recovery
+## Cannabis and Exercise Recovery
 
 ## Overview
 

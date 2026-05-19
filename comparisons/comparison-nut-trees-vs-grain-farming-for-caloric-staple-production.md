@@ -22,7 +22,7 @@ sources:
 type: comparison
 ---
 
-# Nut Trees vs Grain Farming for Caloric Staple Production
+## Nut Trees vs Grain Farming for Caloric Staple Production
 
 The question of whether nut trees or annual grains should form the caloric foundation of a food system is one of the most consequential in regenerative agriculture. This comparison examines yield, labor, ecological impact, resilience, and [[fukuoka-no-till-grain-production-method]] (which subsidize yields)
 - The 5–15 year establishment period (nut trees produce for 50–200+ years afterward)

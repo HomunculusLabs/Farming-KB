@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Cardiovascular Health
+## Cannabis for Cardiovascular Health
 
 Research reveals that the [[cannabis-for-inflammatory-conditions]]
 - [[cannabis-for-diabetes-and-metabolic-syndrome]]

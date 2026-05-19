@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Critique of the Stoned Ape Hypothesis
+## Critique of the Stoned Ape Hypothesis
 
 The idea that psychedelic mushrooms played a role in human evolution -- popularised by [[psilocybin]] with genuine interest, it also provides important critical perspectives on the more speculative claims associated with this hypothesis.
 

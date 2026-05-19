@@ -4,7 +4,7 @@ source: The uwe-blesching, PhD, 2015)
 tags: [cannabis, hepatitis, liver, antiviral, thc, anandamide, interferon, ribavirin, blesching, chi-score, endocannabinoid]
 ---
 
-# Cannabis and Hepatitis
+## Cannabis and Hepatitis
 
 ## Overview
 

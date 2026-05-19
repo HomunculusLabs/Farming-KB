@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Growing Tomatoes
+## Growing Tomatoes
 
 Tomatoes are one of the most popular garden vegetables and the gateway crop
 for many new gardeners. Steve Solomon considers them an excellent starting

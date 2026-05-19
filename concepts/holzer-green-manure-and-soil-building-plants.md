@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Green Manure and Soil Building Plants
+## Holzer Green Manure and Soil Building Plants
 
 [[green-manure-crops]], permanent plant cover, and minimal soil disturbance. His approach is detailed in [[holzer-polycultures-catch-crop-combinations]] around [[holzer-farming-philosophy]]. Healthy soil is the foundation of everything else: productive [[holzer-green-manure-crop-compendium]]
 - holzer green manure and soil building plants

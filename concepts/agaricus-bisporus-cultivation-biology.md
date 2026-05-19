@@ -6,7 +6,7 @@ type: concept
 tags: [cultivation, mycology]
 sources: []
 ---
-# Agaricus bisporus Cultivation Biology
+## Agaricus bisporus Cultivation Biology
 
 Agaricus bisporus (button mushroom, also called white button mushroom, cremini, or portobello depending on maturity) is the most widely cultivated mushroom species worldwide.
 

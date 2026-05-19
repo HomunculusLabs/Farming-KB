@@ -7,7 +7,7 @@ tags: [sterilization, microwave, materials-science, physics, mycology]
 sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 ---
 
-# Microwave Reflective and Transparent Materials for Surface Sterilization
+## Microwave Reflective and Transparent Materials for Surface Sterilization
 
 The NASA-developed [[microwave-sterilizable-access-port-nasa-space-biology]] relies on a carefully engineered combination of microwave-reflective and microwave-transparent materials to achieve complete surface sterilization within closed systems. The selection and arrangement of these materials is critical for ensuring that all contaminated surfaces receive sufficient microwave energy while protecting sensitive components and the external environment from [[surface-sterilization-methods-comparison]] do not face. The system must simultaneously:
 

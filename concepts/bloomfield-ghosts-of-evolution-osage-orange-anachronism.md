@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Ghosts of Evolution and the Osage Orange Anachronism
+## Ghosts of Evolution and the Osage Orange Anachronism
 
 The concept of evolutionary ghosts offers a powerful lens for
 understanding biological traits that seem to serve no current

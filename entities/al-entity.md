@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# AL
+## AL
 
 AL (4-allyloxy-3,5-dimethoxyphenethylamine) is a psychedelic phenethylamine and one of the most potent 3,4,5-trisubstituted phenethylamines yet described.
 

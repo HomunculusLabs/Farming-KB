@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Woodlots, Hedgerows, and Plant Barriers
+## Woodlots, Hedgerows, and Plant Barriers
 
 Woodlots and hedgerows serve multiple functions on the permaculture farm: fuel, structural timber, forage, shelter, wildlife habitat, erosion control, and pest exclusion. Mollison provides detailed species lists and design guidance for these essential landscape elements.
 

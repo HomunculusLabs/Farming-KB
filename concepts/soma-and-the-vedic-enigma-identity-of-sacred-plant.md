@@ -8,7 +8,7 @@ type: concept
 tags: [soma, rig-veda, amanita-muscaria, indo-european, entheogen, sacred-plants, wasson]
 ---
 
-# Soma and the Vedic Enigma — The Identity of the Sacred Indo-European Plant
+## Soma and the Vedic Enigma — The Identity of the Sacred Indo-European Plant
 
 The identity of Soma, the sacred plant of the [[gordon-wasson-comparative-method-ethnomycology]], the banker-turned-ethnomycologist who, together with his wife
 Valentina, had revealed the existence of the [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] with them from the

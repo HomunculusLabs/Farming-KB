@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ALEPH-6
+## ALEPH-6
 
 [[lsd]], using
 > the usual 60 microgram quantity that is standard for primer studies.

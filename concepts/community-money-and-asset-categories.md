@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Community Money and Asset Categories
+## Community Money and Asset Categories
 
 In [[permaculture-design]], money and finance are treated as design problems — systems that can be
 restructured to serve ecological and community health rather than extraction and accumulation.

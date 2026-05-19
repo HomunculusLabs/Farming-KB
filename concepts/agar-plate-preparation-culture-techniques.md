@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Agar Plate Preparation and Culture Techniques
+## Agar Plate Preparation and Culture Techniques
 
 Agar plates are a foundational tool in mycology, providing a sterile, nutrient-rich surface for isolating, propagating, and studying fungal cultures. Mastering agar work is essential for anyone working with mushroom cultivation, strain selection, or mycoremediation research. The technique bridges the gap between wild spore collection and large-scale spawn production, giving the cultivator precise control over strain genetics and purity.
 

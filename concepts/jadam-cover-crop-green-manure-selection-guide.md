@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Cover Crop and Green Manure Selection Guide
+## JADAM Cover Crop and Green Manure Selection Guide
 
 Cover crops are central to JADAM's approach to self-sufficient organic
 farming. Rather than purchasing [[hamilton-composting-and-organic-matter-management]] through carefully selected

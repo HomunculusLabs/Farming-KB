@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Terrace Earthworks and Slope Management
+## Terrace Earthworks and Slope Management
 
 Terracing is one of the most fundamental earth-shaping techniques in permaculture for soil conservation on slopes. Almost every slope benefits from some form of earth-shaping, whether through simple contour banks or elaborate terrace systems that have sustained agriculture for millennia.
 

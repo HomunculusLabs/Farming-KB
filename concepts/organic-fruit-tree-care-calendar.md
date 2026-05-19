@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
-# Organic Fruit Tree Care Calendar
+## Organic Fruit Tree Care Calendar
 
 Month-by-month guide to organic fruit tree care [[comparison-grafting-vs-budding-fruit-trees]], bushes, and canes (while dormant)
 - **Spraying**: Winter wash (plant oil-based) to control overwintering pests and eggs on bark

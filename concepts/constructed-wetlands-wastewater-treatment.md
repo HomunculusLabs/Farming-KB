@@ -7,7 +7,7 @@ tags: [water, conservation]
 sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
-# Constructed Wetlands for Wastewater Treatment
+## Constructed Wetlands for Wastewater Treatment
 
 Constructed wetlands are engineered systems designed to replicate the natural water purification processes of wetland ecosystems for the treatment of wastewater, stormwater, and various contaminated water streams. They use the combined physical, chemical, and biological interactions of wetland vegetation, substrates, and associated microbial communities to remove pollutants including organic matter, nutrients (nitrogen and phosphorus), suspended solids, heavy metals, pathogens, and emerging contaminants.
 

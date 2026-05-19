@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Growing Garlic, Onions, and Leeks
+## Solomon on Growing Garlic, Onions, and Leeks
 
 From [[solomon-growing-root-crops-guide]]
 - [[solomon-root-cellaring-and-crop-storage]]

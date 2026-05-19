@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# Psilocybin Extraction with Ethyl Alcohol
+## Psilocybin Extraction with Ethyl Alcohol
 
 Psilocybin can be extracted from dried mushroom material using pure ethyl alcohol (ethanol) as a solvent. This technique produces a concentrated [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]] that can be stored long-term and dosed with precision. The process is relatively simple, requiring only mushroom material and alcohol, and avoids the use of toxic industrial solvents.
 

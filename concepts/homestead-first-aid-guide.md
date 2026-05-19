@@ -7,7 +7,7 @@ tags: [homesteading, health, medicine, safety, animal-husbandry]
 sources: []
 ---
 
-# Homestead First Aid Guide
+## Homestead First Aid Guide
 
 Homesteads present a wider range of hazards than typical households: power tools, chainsaws, livestock, [[jadam-soil-compaction-heavy-machinery]], venomous animals, open flames, and remote locations where professional help may be delayed. A comprehensive first aid approach is essential.
 

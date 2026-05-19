@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [mycology, spore-syringe, inoculation, mushroom-cultivation, sterile-technique]
 ---
 
-# Mushroom Spore Syringe Preparation and Inoculation
+## Mushroom Spore Syringe Preparation and Inoculation
 
 ## Overview
 

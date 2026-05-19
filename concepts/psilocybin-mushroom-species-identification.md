@@ -13,7 +13,7 @@ sources: ["raw/papers/field-guide-to-the-psilocybin-mushroom.md"]
 type: concept
 ---
 
-# Psilocybin Mushroom Species Identification
+## Psilocybin Mushroom Species Identification
 
 ## Overview
 

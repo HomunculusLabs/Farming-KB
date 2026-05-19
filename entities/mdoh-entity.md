@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MDOH
+## MDOH
 
 MDOH (N-Hydroxy-MDA; 3,4-methylenedioxy-N-hydroxyamphetamine) is a psychedelic amphetamine that is the N-hydroxy analogue of [[savory-animal-impact-and-herd-effect]]ive oral dosage: 100 - 160 mg.
 

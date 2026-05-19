@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# AMT (Alpha-Methyltryptamine, a-MT)
+## AMT (Alpha-Methyltryptamine, a-MT)
 
 TIHKAL entry #48. An indole analogue of amphetamine that functions as both a monoamine oxidase inhibitor and a psychedelic stimulant. Known by the code names IT-290 and 3-IT. Was clinically studied as an antidepressant in the Soviet Union (sold as Indopan) and its ethyl homologue was briefly marketed in the US as Monase.
 

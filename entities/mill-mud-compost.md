@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---
 
-# Mill Mud (Compost Ingredient)
+## Mill Mud (Compost Ingredient)
 
 ## Description
 

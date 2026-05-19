@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainabl
 type: concept
 ---
 
-# Sheet Mulching No-Dig Garden Preparation
+## Sheet Mulching No-Dig Garden Preparation
 
 [[sheet-mulching]] is a method of layering different sheets of materials together,
 something like a layer cake. The beauty of sheet mulching is that you can create

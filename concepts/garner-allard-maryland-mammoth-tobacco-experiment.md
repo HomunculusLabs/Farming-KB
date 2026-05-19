@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Garner and Allard Maryland Mammoth Tobacco Photoperiodism Discovery
+## Garner and Allard Maryland Mammoth Tobacco Photoperiodism Discovery
 
 ## Overview
 

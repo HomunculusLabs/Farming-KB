@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# [[mycorrhizal-fungi]] connect with the roots of trees and shrubs, forming mutualistic relationships in which neither partner can thrive without the other.
+## [[mycorrhizal-fungi]] connect with the roots of trees and shrubs, forming mutualistic relationships in which neither partner can thrive without the other.
 
 ### How Mycorrhizae Work
 - The fungal partner extracts scarce inorganic nutrients (magnesium, calcium, phosphorus) from soil and rocks

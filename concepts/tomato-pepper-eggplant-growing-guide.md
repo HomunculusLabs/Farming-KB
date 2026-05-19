@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Tomato Pepper and Eggplant Growing Guide
+## Tomato Pepper and Eggplant Growing Guide
 
 Updated: 2026-04-18
 

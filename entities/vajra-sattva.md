@@ -5,7 +5,7 @@ type: entity
 tags: [deity, buddhism, tibetan, bardo, vajrayana]
 ---
 
-# Vajrasattva
+## Vajrasattva
 
 ## Description
 Vajrasattva (Sanskrit: "Diamond Being" or "Thunderbolt Being") is a prominent figure in Vajrayana Buddhism, associated with purification and the integration of the Five Wisdoms. In *The Psychedelic Experience*, Lama Govinda describes the "Inner Way of Vajra-Sattva" as "the combination of the rays of the Wisdoms of the four Dhyani-Buddhas and their absorption within one's own heart — in other words, the recognition that all these radiances are the emanations of one's own mind."

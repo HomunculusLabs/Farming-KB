@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Chullachaki and Soul Recovery in Amazonian Shamanism
+## Chullachaki and Soul Recovery in Amazonian Shamanism
 
 ## Overview
 

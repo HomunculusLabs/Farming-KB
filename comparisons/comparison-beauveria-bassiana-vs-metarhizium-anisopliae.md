@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Beauveria bassiana vs Metarhizium anisopliae
+## Beauveria bassiana vs Metarhizium anisopliae
 
 ## Overview
 

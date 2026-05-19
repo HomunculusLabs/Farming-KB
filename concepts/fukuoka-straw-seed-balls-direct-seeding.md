@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, plant-growth]
 ---
 
-# Seed Balls and Direct Seeding Techniques
+## Seed Balls and Direct Seeding Techniques
 
 ## The Principle of Direct Seeding
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ketamine Dissociative Pharmacology
+## Ketamine Dissociative Pharmacology
 
 Ketamine is a dissociative anesthetic that has been used in medical practice
 since the 1960s. In recent years, it has attracted intense clinical interest

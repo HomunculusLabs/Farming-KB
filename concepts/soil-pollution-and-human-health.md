@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Pollution and Human Health
+## Soil Pollution and Human Health
 
 ## The Scale of Agricultural Soil Pollution
 

@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-# Shiitake (Lentinula edodes)
+## Shiitake (Lentinula edodes)
 
 ## Overview
 

@@ -10,7 +10,7 @@ source: Metzner (1998) - Hallucinogenic Drugs and Plants in darkness-low-light-f
   - healing
 ---
 
-# Structural Features Distinguishing Shamanic Entheogenic Ceremonies from Western Psychotherapy
+## Structural Features Distinguishing Shamanic Entheogenic Ceremonies from Western Psychotherapy
 
 ## Overview
 

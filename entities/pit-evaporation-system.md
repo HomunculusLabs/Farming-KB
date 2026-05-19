@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Pit Evaporation System
+## Pit Evaporation System
 
 ## Description
 

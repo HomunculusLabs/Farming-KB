@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Salvia Divinorum Profile
+## Salvia Divinorum Profile
 
 Salvia divinorum is a psychoactive plant in the Lamiaceae (mint) family, native to the cloud forests of Oaxaca, Mexico. It is the only known natural source of salvinorin A, the most potent naturally occurring psychedelic compound. Salvia produces experiences qualitatively different from classical psychedelics, characterized by intense dissociation and reality dissolution rather than the serotonin-mediated visual and emotional effects of [[savory-short-duration-grazing-and-cell-systems]]
 - **Not recommended** for those with personal or family history of psychosis, schizophrenia, or severe anxiety disorders

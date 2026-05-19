@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Heavy Metals and Fungal Saprotrophy in Terrestrial Ecosystems
+## Heavy Metals and Fungal Saprotrophy in Terrestrial Ecosystems
 
 ## Overview
 

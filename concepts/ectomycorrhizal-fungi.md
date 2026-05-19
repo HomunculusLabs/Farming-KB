@@ -1,13 +1,13 @@
 ---
-title: query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with
+title: "Ectomycorrhizal Fungi"
 created: 2026-04-28
 tags: [mycology, symbiosis, forest-ecology, soil-biology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Ectomycorrhizal Fungi Ectomycorrhizal (ECM) fungi form symbiotic associations with the roots of approximately 8,000 plant species, predominantly trees in temperate and boreal forests. Unlike [[common-mycorrhizal-networks]] explores how these
+## Ectomycorrhizal Fungi Ectomycorrhizal (ECM) fungi form symbiotic associations with the roots of approximately 8,000 plant species, predominantly trees in temperate and boreal forests. Unlike [[common-mycorrhizal-networks]] explores how these
 topologies influence forest regeneration and stability.
 
 ## Environmental Responses

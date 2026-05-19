@@ -4,7 +4,7 @@ source: "harner-j-hallucinogens-and-shamanism.md"
 type: concept
 ---
 
-# Jivaro Shamanic Curing Rituals
+## Jivaro Shamanic Curing Rituals
 
 ## Overview
 

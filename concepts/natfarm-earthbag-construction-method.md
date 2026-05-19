@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Earthbag Construction for Sustainable Homes
+## Earthbag Construction for Sustainable Homes
 
 An alternative to [[duggar-mushroom-growing-history-and-methods]] house
 earthbag method. Rather than building traditional framing to hold up dirt,

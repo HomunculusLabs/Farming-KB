@@ -13,7 +13,7 @@ sources:
   - Walters, T. (2018). "Growing Dye Mushrooms: Cultivation of Pigment-Producing Fungi for Small-Scale Applications." Mycoscience, 59(4), 278-293.
   - Østergaard, J. (2016). "Fungal Dyes — Historical Use and Modern Revival." Dyes and Pigments, 134, 247-254.---
 
-# Mushroom Dyes and Fungal Pigments
+## Mushroom Dyes and Fungal Pigments
 
 Mushroom dyes represent one of the most ancient and still one of the least explored branches of natural color. While plant dyes have dominated the textile colorant world for millennia, fungi offer a remarkable palette of hues — from vivid reds and oranges to rare blues and greens — that are difficult or impossible to achieve with plant materials alone. The chemistry behind fungal pigments is diverse, involving anthraquinones, quinones, terphenyls, and other compound classes that produce colors with excellent lightfastness and wash-fastness when properly applied.
 

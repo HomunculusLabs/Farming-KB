@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# LSD Self-Experiment in Darkness — Visual Phenomena and Psychological Effects
+## LSD Self-Experiment in Darkness — Visual Phenomena and Psychological Effects
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# Proteobacteria Enrichment in the Cannabis Endorhiza: Evidence for the Two-Tier Selection Model
+---
+title: "Proteobacteria Enrichment in the Cannabis Endorhiza: Evidence for the Two-Tier Selection Model"
+tags:
+  - concept
+---
 
 The two-tier selection model of root [[cannabis-rhizosphere-community-structure-edaphic-factors]] is largely a slightly modified version of the bulk soil
 community, with most taxa retained at similar relative abundances. Root

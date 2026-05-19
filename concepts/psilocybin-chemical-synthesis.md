@@ -6,7 +6,7 @@ tags: [psilocybin, psilocin, synthesis, chemistry, Shirota, Hakamata, Goda, indo
 created: 2026-05-08
 ---
 
-# Psilocybin Chemical Synthesis
+## Psilocybin Chemical Synthesis
 
 ## Overview
 

@@ -5,9 +5,9 @@ type: species
 tags: [mycology, cultivation, gourmet-mushrooms, agrocybe]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Agrocybe aegerita Agrocybe aegerita, commonly known as the Black Poplar Mushroom, is a substantial and prolific gourmet mushroom that grows on deciduous wood debris. Known for its mellow, attractive flavor, this species forms large clusters both in nature and in controlled growing environments. It is an excellent candidate for stump recycling and outdoor cultivation, particularly in the southeastern United States, southern Europe, and similar climatic zones of the Far East. See [[psilocybin-north-america-pacific-northwest]] outside of the southeastern states.
+## Agrocybe aegerita Agrocybe aegerita, commonly known as the Black Poplar Mushroom, is a substantial and prolific gourmet mushroom that grows on deciduous wood debris. Known for its mellow, attractive flavor, this species forms large clusters both in nature and in controlled growing environments. It is an excellent candidate for stump recycling and outdoor cultivation, particularly in the southeastern United States, southern Europe, and similar climatic zones of the Far East. See [[psilocybin-north-america-pacific-northwest]] outside of the southeastern states.
 - **Habitat:** Growing saprophytically, often in clusters, on stumps. Preferring hardwoods, especially cottonwoods, willows, poplars, maples, box elders, and in China on tea-oil trees.
 - **Substrate preference:** Hardwood stumps, wood chips, [[growing-gourmet-light-requirements-mushroom-fruiting]]:** n/a
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Peroxisomes and the Ascomycete Lifestyle
+## Peroxisomes and the Ascomycete Lifestyle
 
 Peroxisomes are versatile organelles that have been exploited by
 Euascomycetes for the formation of [[cervantes-hydrogen-peroxide-sterilization]] detoxification via catalase,

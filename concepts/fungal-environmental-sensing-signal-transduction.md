@@ -1,5 +1,5 @@
 ---
-title: "fungal-environmental-sensing-signal-transduction-read and Signal Transduction in Filamentous Fungi"
+title: "Fungal Environmental Sensing Signal Transduction"
 created: 2026-04-28
 tags: [fungal-physiology, signal-transduction, hyphal-growth, morphogenesis]
 date: 2026-04-25
@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in
 type: concept
 ---
 
-# Environmental Sensing and Signal Transduction in Filamentous Fungi
+## Environmental Sensing and Signal Transduction in Filamentous Fungi
 
 Filamentous fungi have evolved sophisticated systems for detecting and
 responding to environmental signals. Because they are both non-motile

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Three Types of Farming Compared: Scientific, Hinayana Natural, Mahayana Natural
+## Three Types of Farming Compared: Scientific, Hinayana Natural, Mahayana Natural
 
 ## The Three Categories
 

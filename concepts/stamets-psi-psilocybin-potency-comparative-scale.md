@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Potency Comparative Scale
+## Psilocybin Potency Comparative Scale
 
 ## Overview
 

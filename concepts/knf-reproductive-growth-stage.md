@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# KNF Reproductive Growth Stage
+## KNF Reproductive Growth Stage
 
 ## Overview
 

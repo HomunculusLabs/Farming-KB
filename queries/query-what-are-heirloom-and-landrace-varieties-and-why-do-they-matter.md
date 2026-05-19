@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# What Are Heirloom and Landrace Varieties and Why Do They Matter?
+## What Are Heirloom and Landrace Varieties and Why Do They Matter?
 
 ## Short Answer
 

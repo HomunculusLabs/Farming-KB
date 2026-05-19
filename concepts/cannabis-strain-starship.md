@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Starship
+## Starship
 
 Starship is a sativa-dominant hybrid [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - kali-mist - The legendary [[cannabis-sativa-landrace-strains]]

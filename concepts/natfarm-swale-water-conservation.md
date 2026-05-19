@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Swale Design for Water Conservation
+## Swale Design for Water Conservation
 
 A swale is a long, shallow ditch about three to five feet across, which
 serves to stop and channel the flow of water into the soil. Unlike a regular

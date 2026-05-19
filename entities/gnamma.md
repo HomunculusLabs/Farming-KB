@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Gnamma (Rockhole)
+## Gnamma (Rockhole)
 
 ## Description
 

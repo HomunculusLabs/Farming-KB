@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Overview
+## Teaming with Microbes — Overview
 
 *Teaming with Microbes: A Gardener's Guide to the Soil Food Web* by Jeff Lowenfels and Wayne Lewis (2006, Timber Press) is a landmark book that brought [[solomon-root-exudates-and-allelopathy]], the rhizosphere
 - [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], biofilm formation

@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Enterprise Overhead and Gross Margin Analysis
+## Enterprise Overhead and Gross Margin Analysis
 
 Gross margin analysis, derived from Cambridge economist David Wallace,
 helps determine the strongest links of product conversion in the chain

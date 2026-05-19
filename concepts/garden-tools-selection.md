@@ -7,7 +7,7 @@ tags: [gardening, equipment, tools, beginner, homesteading]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Garden Tools Selection
+## Garden Tools Selection
 
 Steve Solomon advocates that successful vegetable gardening requires only a few well-chosen hand tools, properly maintained. Garden centers and catalogs promote the idea that appealing merchandise is useful and essential — most of it is not.
 

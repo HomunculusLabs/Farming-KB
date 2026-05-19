@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Vegetative Growth
+## Cannabis Vegetative Growth
 
 From [[cannabis-vegetative-stage-management]] is when the plant begins to grow at the rate which
 its leaves can produce energy. At this stage the plant needs all the

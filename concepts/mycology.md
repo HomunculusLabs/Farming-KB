@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mycology
+## Mycology
 
 Mycology is the branch of biology devoted to the study of fungi, a kingdom of
 organisms that includes yeasts, molds, and mushrooms. Despite their ubiquity,

@@ -5,7 +5,7 @@ source_file: "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environme
 topics: [signal-transduction, gpcr, map-kinase, calcium-signalling, camp, histidine-kinase, neurospora, magnaporthe, filamentous-fungi, environmental-sensing]
 ---
 
-# Intracellular Signal Transduction in Filamentous Fungi
+## Intracellular Signal Transduction in Filamentous Fungi
 
 ## Overview
 

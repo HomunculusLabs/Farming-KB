@@ -5,7 +5,7 @@ mined: 2026-05-08
 tags: [harm-reduction, safety, adverse-effects, psilocybin, mushrooms, first-aid]
 ---
 
-# Adverse Effects and Harm Reduction for Psilocybin Mushrooms
+## Adverse Effects and Harm Reduction for Psilocybin Mushrooms
 
 ## Overview
 

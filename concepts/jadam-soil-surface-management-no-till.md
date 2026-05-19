@@ -9,7 +9,7 @@ type: concept
 tags: [jadam, soil]
 ---
 
-# JADAM Soil Surface Management and No-Till Approach
+## JADAM Soil Surface Management and No-Till Approach
 
 JADAM's approach to soil surface management centers on [[jadam-cover-crop-method]] is the primary tool
 for soil surface management in JADAM. The method addresses multiple

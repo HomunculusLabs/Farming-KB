@@ -15,7 +15,7 @@ sources:
   - Kohlein, F. (1991). "Gentians." Timber Press.
 ---
 
-# Gentiana acaulis
+## Gentiana acaulis
 
 ## Overview
 

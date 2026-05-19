@@ -20,7 +20,7 @@ sources:
   - Guyette, R.P. & Stambaugh, M.C. (2003). "Post-fire suppression of oak recruitment by invasive species." Proceedings of the 2nd Fire and Forest Ecology Conference, 43-49.
 ---
 
-# Quercus velutina
+## Quercus velutina
 
 ## Overview
 

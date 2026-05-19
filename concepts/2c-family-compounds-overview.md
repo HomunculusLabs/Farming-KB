@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, dosage, structure-
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# 2C Family Compounds Overview
+## 2C Family Compounds Overview
 
 ## Definition and Naming
 

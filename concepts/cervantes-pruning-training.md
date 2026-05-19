@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Cannabis Pruning and Training Techniques (SOG, SCROG, LST)
+## Cannabis Pruning and Training Techniques (SOG, SCROG, LST)
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[gibberellins-plant-growth-hormones]] (auxins). Removing or bending a branch tip causes hormonal balances to shift. Cutting the meristem (top growth tip) diffuses auxins and causes greater concentrations in lower branch tips. Bending changes hormone concentrations less drastically than pruning.
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Dionysian Cults and the Suppression of Ecstasy
+## Dionysian Cults and the Suppression of Ecstasy
 
 ## The Dionysian Revolt Against Patriarchy
 

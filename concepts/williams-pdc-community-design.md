@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Community Design in [[permaculture-guilds]] where community members
+## Community Design in [[permaculture-guilds]] where community members
   coordinate seed swaps, work parties, and coordinated food
   strategies
 

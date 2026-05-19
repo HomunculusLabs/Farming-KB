@@ -5,7 +5,7 @@ type: entity
 tags: [organization, research-institute, plant-science, mycorrhiza]
 ---
 
-# Boyce Thompson Institute for Plant Research
+## Boyce Thompson Institute for Plant Research
 
 ## Description
 

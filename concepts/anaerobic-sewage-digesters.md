@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Anaerobic Sewage Digesters
+## Anaerobic Sewage Digesters
 
 Anaerobic sewage digesters are a core component of [[biogas-digesters-and-anaerobic-digestion-systems|systems]],
 transforming human and animal waste into useful biogas and nutrient-rich effluent through

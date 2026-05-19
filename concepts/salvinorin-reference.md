@@ -7,7 +7,7 @@ tags: [psychopharmacology, entheogen, ethnobotany, consciousness, pharmacology, 
 sources: []
 ---
 
-# Salvinorin A
+## Salvinorin A
 
 ## Overview
 

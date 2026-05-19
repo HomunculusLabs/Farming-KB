@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# The London Underground and the British Magic Mushroom Discovery
+## The London Underground and the British Magic Mushroom Discovery
 
 During the years stretching from 1965 to 1972, London was home to a
 vibrant underground movement. Though never formally mapped, this

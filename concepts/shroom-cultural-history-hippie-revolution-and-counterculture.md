@@ -8,7 +8,7 @@ type: concept
 tags: [counterculture, culture, history]
 ---
 
-# The Hippie Revolution and Counterculture
+## The Hippie Revolution and Counterculture
 
 ## From "Shroom: A Cultural History of the Magic Mushroom" by Andy Letcher
 

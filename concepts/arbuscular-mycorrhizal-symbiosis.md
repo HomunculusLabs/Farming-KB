@@ -6,7 +6,7 @@ created: 2026-05-09
 source: Fungi in the Environment (Gadd, Watkinson, Dyer)
 ---
 
-# Arbuscular Mycorrhizal Symbiosis
+## Arbuscular Mycorrhizal Symbiosis
 
 Arbuscular [[arbuscular-mycorrhizal-fungi]] belong to the phylum Glomeromycota, a monophyletic group estimated to have originated over 400 million years ago. Molecular evidence suggests that the AMF symbiosis predates the colonization of land by plants — the earliest land plants may have been mycorrhizal, with the fungal partner providing mineral nutrition and water in exchange for photosynthetically derived carbon.
 

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Saprobic Soil Fungi — Colony Selection, Community Fractionation, Baiting, and Basidiomycete Isolation
+## Saprobic Soil Fungi — Colony Selection, Community Fractionation, Baiting, and Basidiomycete Isolation
 
 ## Selecting Colonies from Isolation Plates
 

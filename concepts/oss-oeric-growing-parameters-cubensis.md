@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, cultivation-parameters, temperature, humidity, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+sources: ["raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md"]
 type: concept
 ---
 
-# Oss & Oeric: Growing Parameters for Psilocybe Cubensis
+## Oss & Oeric: Growing Parameters for Psilocybe Cubensis
 
 Successful indoor [[mushroom-cultivation-environmental-parameters]]. The 1976 guide provides
 specific recommendations for temperature, humidity, lighting, and

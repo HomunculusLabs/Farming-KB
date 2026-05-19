@@ -11,7 +11,7 @@ related:
   - purslane
 ---
 
-# What Are the Most Nutritious Edible Weeds in My Garden and How Do I Use Them?
+## What Are the Most Nutritious Edible Weeds in My Garden and How Do I Use Them?
 
 Many of the plants gardeners consider "weeds" are actually among the most nutritious leafy greens available, often surpassing cultivated vegetables in vitamin and mineral content.
 Understanding which common garden weeds are edible transforms weeding from a chore into a free harvest and connects you to a long tradition of wild food foraging.

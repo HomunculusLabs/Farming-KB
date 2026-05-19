@@ -5,7 +5,7 @@ type: entity
 tags: [egyptian, divine-food, ethnomycology, amanita-muscaria, ancient-egypt, ritual-substance]
 ---
 
-# Tchefau
+## Tchefau
 
 ## Description
 

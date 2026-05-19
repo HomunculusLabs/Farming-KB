@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Pine Bark Weevil Ecology in Fukuoka's Framework
+## Pine Bark Weevil Ecology in Fukuoka's Framework
 
 The pine bark [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]] effects and
 the futility of [[fukuoka-pit-of-knowledge]]: the belief that understanding one component of a system

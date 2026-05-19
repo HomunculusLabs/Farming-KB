@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fertilization and Organic Soil Amendments
+## Fertilization and Organic Soil Amendments
 
 [[cervantes-organic-amendments-chart]]
 rather than synthetic chemicals. The goal is to reduce nutrient

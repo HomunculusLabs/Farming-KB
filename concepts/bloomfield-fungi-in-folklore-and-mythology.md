@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-# Fungi in Folklore and Mythology
+## Fungi in Folklore and Mythology
 
 Fungi have occupied a peculiar place  notes, many people "giggle at the mention of these organisms,
 drawing on vague notions about hallucinogens and poisons, fairy tales, antiviral-properties-of-mushrooms." Mr. Bloomfield's Orchard traces how this

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Babassu Palm (Attalea speciosa)
+## Babassu Palm (Attalea speciosa)
 
 ## Description
 

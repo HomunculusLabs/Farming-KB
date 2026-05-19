@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/field-guide-to-the-psilocybin-mushroom.md"
 ---
-# Pholiotina cyanopoda
+## Pholiotina cyanopoda
 **Pholiotina cyanopoda** is a rare, little-known psilocybin-containing mushroom
 in the family Bolbitiaceae. It was first described from tropical and
 subtropical regions and is one of the less frequently documented entheogenic

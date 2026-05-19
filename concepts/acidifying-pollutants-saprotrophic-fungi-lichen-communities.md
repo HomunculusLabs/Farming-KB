@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Acidifying Pollutants, Saprotrophic Fungi, and Lichen Communities
+## Acidifying Pollutants, Saprotrophic Fungi, and Lichen Communities
 
 Beyond their effects on mycorrhizae, acidifying pollutants influence saprotrophic [[fungal-decomposition]], lichen community health, phylloplane fungal communities, and the faunal food webs that depend on fungi. This page synthesizes the diverse impacts of atmospheric pollutants on non-mycorrhizal fungal guilds and their ecological interactions.
 

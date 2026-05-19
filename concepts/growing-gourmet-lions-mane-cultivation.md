@@ -10,7 +10,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Lion's Mane Cultivation
+## Lion's Mane Cultivation
 
 Lion's Mane ([[psilocybin-north-america-pacific-northwest]], Europe, and Asia. The mushroom typically fruits in late summer through autumn, often appearing on standing dead trees, fallen logs, and large branches.
 

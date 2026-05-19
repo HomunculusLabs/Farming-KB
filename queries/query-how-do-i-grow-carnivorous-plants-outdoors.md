@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: []
 type: query
 ---
-# How Do I Grow Carnivorous Plants Outdoors
+## How Do I Grow Carnivorous Plants Outdoors
 
 ## Short Answer
 

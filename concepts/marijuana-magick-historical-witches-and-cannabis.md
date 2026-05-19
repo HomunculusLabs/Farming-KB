@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Historical Witches and Cannabis
+## Historical Witches and Cannabis
 
 ## Overview
 

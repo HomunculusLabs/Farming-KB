@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Insomnia
+## Cannabis and Insomnia
 
 **Source:** The [[cannabis-chronic-pain-management]], anxiety, depression, and post-traumatic stress disorder, creating complex symptom interactions that are difficult to manage with conventional pharmacotherapy alone.
 

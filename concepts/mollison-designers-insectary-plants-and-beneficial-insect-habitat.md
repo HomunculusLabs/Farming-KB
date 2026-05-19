@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Insectary Plants and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] thrive in sufficient
+## Insectary Plants and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] thrive in sufficient
 numbers to keep pest populations below economic damage thresholds.
 
 ## The Role of Beneficial Insects

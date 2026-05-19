@@ -5,7 +5,7 @@ tags: [cannabis, mindfulness, healing, intention, setting, exploration, mind-bod
 created: 2026-05-08
 ---
 
-# Cannabis Mindful Healing Protocol: Setting, Intention, and Exploration (Blesching)
+## Cannabis Mindful Healing Protocol: Setting, Intention, and Exploration (Blesching)
 
 ## Overview
 

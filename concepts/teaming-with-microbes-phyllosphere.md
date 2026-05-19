@@ -7,7 +7,7 @@ tags: [gardening]
 sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
-# Teaming with Microbes: The Phyllosphere — Leaf Surface Biology
+## Teaming with Microbes: The Phyllosphere — Leaf Surface Biology
 
 **Source:** Jeff Lowenfels and Wayne Lewis, *Teaming with Microbes*
 

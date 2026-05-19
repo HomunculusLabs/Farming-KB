@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Anunnaki and Sumerian Origins of Religious Law
+## Anunnaki and Sumerian Origins of Religious Law
 
 ## Overview
 

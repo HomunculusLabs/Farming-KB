@@ -7,7 +7,7 @@ tags: mycology, fungi]
 sources: []
 ---
 
-# Fungal Diversity Estimation Methods
+## Fungal Diversity Estimation Methods
 Estimating fungal species richness and diversity from field samples requires
 specialized quantitative methods. Because most fungal species cannot be directly
 counted and complete inventories are rarely achievable, researchers rely on

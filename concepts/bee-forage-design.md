@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bee Forage Design
+## Bee Forage Design
 
 **Bee forage design** is the practice of planning and planting landscapes to provide continuous nectar, pollen, and propolis resources for honeybee colonies throughout the active season. Within [[bill-mollison]] devotes considerable attention to this topic, framing the bee range as a productive landscape system that mirrors the principles of good farm design.
 

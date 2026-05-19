@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Garden Soil Terminology and Molecular Biology Glossary
+## Garden Soil Terminology and Molecular Biology Glossary
 
 A comprehensive reference of key terms used in soil science, plant biology, and molecular biology as applied to gardening and plant nutrition.
 

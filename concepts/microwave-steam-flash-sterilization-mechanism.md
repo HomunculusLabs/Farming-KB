@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Microwave Steam Flash Sterilization Mechanism
+## Microwave Steam Flash Sterilization Mechanism
 
 Microwave steam flash sterilization is a [[microwave-exposure-system-architecture-surface-sterilization]] of 13.1 watt-hours at an exposure rate of 3.6 watts per square centimeter of surface area. The kill curves demonstrated that even heavily contaminated surfaces could be rendered completely sterile using this standardized protocol.
 

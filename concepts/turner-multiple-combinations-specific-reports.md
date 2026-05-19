@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
 
-# Turner Multiple Combinations: Specific Experience Reports
+## Turner Multiple Combinations: Specific Experience Reports
 
 ## Mushrooms + Syrian Rue + DMT + Nitrous Oxide + Ketamine
 

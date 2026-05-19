@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Synecological Interaction Classification
+## Synecological Interaction Classification
 
 Synecology is the study of interactions between different species within ecological communities. A systematic classification of species interactions provides designers with a framework for understanding how organisms affect one another, which is essential for building productive guilds and polycultures in [[mycorrhizal-fungi]] with tree roots, and pollinator-flower relationships. In [[acacia]] next to walnut gives (0+), and acacia next to mulberry gives (0+).
 6. **Final result**: Apple → mulberry → acacia → walnut yields (++0+), a strongly positive multi-species array.

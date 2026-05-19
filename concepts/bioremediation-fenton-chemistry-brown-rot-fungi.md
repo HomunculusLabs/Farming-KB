@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fenton Chemistry in Brown Rot Fungi
+## Fenton Chemistry in Brown Rot Fungi
 
 Fenton chemistry is the non-enzymatic mechanism by which brown rot fungi
 degrade cellulose in wood, generating highly reactive hydroxyl radicals

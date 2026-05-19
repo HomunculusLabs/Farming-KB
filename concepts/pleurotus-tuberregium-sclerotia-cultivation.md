@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Pleurotus Tuberregium Sclerotia Cultivation
+## Pleurotus Tuberregium Sclerotia Cultivation
 
 Pleurotus tuberregium (Fr.) Singer, known as the King Tuber [[fungi-cultivated-mushrooms-pathogens-competitors]] for producing sclerotia valued as
 both food and medicine independent of its ability to fruit. Sclerotia are dark

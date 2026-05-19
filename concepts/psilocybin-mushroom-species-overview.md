@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Mushroom Species Overview
+## Psilocybin Mushroom Species Overview
 
 The Psilocybin [[psilocybe-baeocystis]]**: Known as the "potent psilocybe," this
   species is found growing on mossy substrates. It is one of the more

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# High Tunnel
+## High Tunnel
 
 ## Description
 

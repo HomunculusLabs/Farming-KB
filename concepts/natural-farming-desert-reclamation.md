@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Natural Farming and Desert Reclamation
+## Natural Farming and Desert Reclamation
 
 Masanobu Fukuoka extended his [[allegro-garden-of-eden-and-delight]], then nature can be made to recover naturally by applying natural farming to the deserts."
 

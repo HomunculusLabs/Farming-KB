@@ -11,7 +11,7 @@ tags:
 created: 2026-05-09
 ---
 
-# Mushroom Harvesting, Potency, and Desiccation
+## Mushroom Harvesting, Potency, and Desiccation
 
 Harvesting timing directly determines the potency of the final product. [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
 potency is highest in young, immature specimens and decreases as mushrooms mature and begin

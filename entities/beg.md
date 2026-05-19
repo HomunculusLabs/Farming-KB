@@ -5,7 +5,7 @@ type: entity
 tags: [culture-collection, mycorrhizae, repository, glomales]
 ---
 
-# BEG (Bank of European Glomales)
+## BEG (Bank of European Glomales)
 
 ## Description
 

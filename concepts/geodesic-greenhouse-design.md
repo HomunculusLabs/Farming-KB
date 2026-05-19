@@ -7,7 +7,7 @@ tags: [season-extension, construction, permaculture, sustainability, homesteadin
 sources: []
 ---
 
-# Geodesic Greenhouse Design
+## Geodesic Greenhouse Design
 
 A geodesic dome greenhouse is a spherical structure made from a network of interlocking triangles. Popularized by Buckminster Fuller in the mid-20th century, the geodesic dome is one of the most efficient structural forms known. As a greenhouse, it offers superior strength, light distribution, energy efficiency, and interior growing space compared to conventional rectangular greenhouses.
 

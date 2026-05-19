@@ -6,7 +6,7 @@ source: jarrold indoor mushroom growing technique boil a bag
 created: 2026-05-10
 ---
 
-# Mushroom Spore Syringe Preparation — Jarrold Boil-a-Bag Method
+## Mushroom Spore Syringe Preparation — Jarrold Boil-a-Bag Method
 
 ## Overview
 

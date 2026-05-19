@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Thelephora terrestris
+## Thelephora terrestris
 
 **Thelephora terrestris** is an ectomycorrhizal basidiomycete fungus in the family Thelephoraceae, commonly known as the earthfan. It is one of the most common and widely distributed [[ectomycorrhizal-fungi]], frequently found as a natural colonizer of tree seedlings in forest nurseries and reforestation sites. Despite its ubiquity, it is generally considered less effective than purpose-selected [[psilocybin-north-america-pacific-northwest]] and Europe. It is one of the first ectomycorrhizal fungi to colonize young seedlings in nursery conditions and can form extensive [[mollison-designers-plant-nursery-seedling-production]] beds.
 

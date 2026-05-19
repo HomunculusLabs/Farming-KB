@@ -18,7 +18,7 @@ sources:
   - Thomas, "Radical Mycology" (2017)
 ---
 
-# Guerrilla Mycology
+## Guerrilla Mycology
 
 **Guerrilla mycology** refers to the unsanctioned, grassroots practice of introducing fungal species into degraded, neglected, or polluted environments for ecological restoration and community resilience. Drawing on the principles of **mycoremediation** (using fungi to degrade or sequester environmental contaminants) and **guerrilla gardening** (cultivating plants on land without legal permission), guerrilla mycology represents an intersection of fungal ecology, environmental activism, and permaculture design.
 

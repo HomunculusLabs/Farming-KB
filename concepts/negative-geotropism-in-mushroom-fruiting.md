@@ -7,7 +7,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 related: [anemotropism-in-basidiomycete-mushrooms, mushroom-stipe-development-stages, evaporative-demand-hypothesis-mushroom-growth]
 ---
 
-# Negative Geotropism in Mushroom Fruiting
+## Negative Geotropism in Mushroom Fruiting
 
 Negative geotropism is the growth response by which an organism or organ
 grows away from the direction of gravity (upward). In mushrooms, this

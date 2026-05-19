@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# Winter Greens Variety Selection
+## Winter Greens Variety Selection
 
 Eliot Coleman's [[coleman-cold-hardiness-testing-ratings]] and uniform rosette formation.
 Mache germinates best in cool soil and is direct-seeded in early to

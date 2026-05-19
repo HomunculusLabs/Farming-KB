@@ -6,7 +6,7 @@ type: concept
 tags: permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Sacred Groves updated: 2026-04-18 From: [[mollison-pdc-forest-management-products]]
+## Sacred Groves updated: 2026-04-18 From: [[mollison-pdc-forest-management-products]]
 - permaculture-designers-manual-cover-crops-detailed - forest preservation and production
 - permaculture-designers-manual-aquaculture-species
 ## Background and Context

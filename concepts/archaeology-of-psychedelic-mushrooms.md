@@ -21,7 +21,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Archaeology of Psychedelic Mushroom Use
+## Archaeology of Psychedelic Mushroom Use
 
 The archaeological evidence for prehistoric psychedelic mushroom use is fragmentary and controversial. Andy Letcher's "Shroom" (2006) provides a thorough critical assessment of the claims and evidence, concluding that "there is not a single instance of a magic mushroom being preserved in the archaeological record anywhere."
 

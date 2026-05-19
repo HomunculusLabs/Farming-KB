@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Pollutant Interactions and Health Risks
+## Water Pollutant Interactions and Health Risks
 
 ## Overview
 

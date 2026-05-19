@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Reviving Ancestral Strains
+## Reviving Ancestral Strains
 
 In *The Road Back to Nature*, [[fukuoka-seed-war-rice-weapon]] and corporate control of genetics further erode diversity
 

@@ -20,7 +20,7 @@ sources:
   - Cannabis Phytochemical Research Journal
 ---
 
-# Gelato (Cannabis Strain)
+## Gelato (Cannabis Strain)
 
 ## Overview
 

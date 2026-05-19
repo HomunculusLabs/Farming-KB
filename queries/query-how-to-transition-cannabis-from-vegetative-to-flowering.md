@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Transition Cannabis from Vegetative to Flowering
+## How to Transition Cannabis from Vegetative to Flowering
 
 ## Short Answer
 

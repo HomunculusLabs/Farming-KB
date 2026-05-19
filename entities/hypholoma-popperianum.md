@@ -5,10 +5,10 @@ type: species
 tags: [hypholoma, psilocybin, wood-inhabiting, neotropical-fungi, neurotropic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroomsneurotropic-fungiartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushroomsneurotropic-fungiartz.md"]
 ---
 
-# Hypholoma popperianum
+## Hypholoma popperianum
 
 **Hypholoma popperianum** is a [[fungal-succession-woody-debris-ecology]].
 

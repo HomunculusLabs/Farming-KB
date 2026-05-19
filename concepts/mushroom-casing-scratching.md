@@ -8,7 +8,7 @@ sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Casing Scratching Techniques
+## Casing Scratching Techniques
 
 ## Overview
 

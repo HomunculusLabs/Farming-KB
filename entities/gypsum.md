@@ -5,7 +5,7 @@ type: entity
 tags: [mineral, soil-amendment, calcium, sulfur, soil-structure]
 ---
 
-# Gypsum
+## Gypsum
 
 ## Description
 

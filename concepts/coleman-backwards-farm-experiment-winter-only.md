@@ -5,7 +5,7 @@ author: eliot-coleman
 tags: [coleman, winter-harvest, backwards-farm, winter-only-growing, seasonal-production, experimental-farming, green-manure]
 ---
 
-# The Backwards Farm Experiment — Six Years of Winter-Only Growing
+## The Backwards Farm Experiment — Six Years of Winter-Only Growing
 
 ## Overview
 

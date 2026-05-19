@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Odorless Piggery -- Natural Farming Pig House Design
+## Odorless Piggery -- Natural Farming Pig House Design
 
 **Updated:** 2026-04-18
 

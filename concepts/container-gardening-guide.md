@@ -7,7 +7,7 @@ tags: [gardening, cultivation, water-management, design, vegetables]
 sources: []
 ---
 
-# Container Gardening Guide
+## Container Gardening Guide
 
 Container gardening grows plants in pots, planters, and other vessels rather than in the ground. It enables gardening on patios, balconies, rooftops, and in areas with poor or contaminated soil. It is a key technique for [[edible-landscaping]] in urban and small-space settings.
 

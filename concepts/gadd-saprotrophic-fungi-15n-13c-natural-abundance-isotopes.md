@@ -10,7 +10,7 @@ topics:
   - ecological-tracers
 ---
 
-# Natural Abundance of ¹⁵N and ¹³C in Saprotrophic Fungi
+## Natural Abundance of ¹⁵N and ¹³C in Saprotrophic Fungi
 
 ## Overview
 

@@ -3,7 +3,7 @@ title: Maitake comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms
 source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 tags: [maitake, grifola-frondosa, mushroom-cultivation, morphogenesis, fruiting-body, medicinal-mushrooms]
 ---
-# Maitake Fruiting Body Morphogenetic Stages
+## Maitake Fruiting Body Morphogenetic Stages
 
 ## Overview
 

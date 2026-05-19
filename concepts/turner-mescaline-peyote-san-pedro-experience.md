@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 type: concept
 ---
 
-# Turner on Mescaline: Peyote, San Pedro, and Shamanic Sacraments
+## Turner on Mescaline: Peyote, San Pedro, and Shamanic Sacraments
 
 ## Material and Classification
 

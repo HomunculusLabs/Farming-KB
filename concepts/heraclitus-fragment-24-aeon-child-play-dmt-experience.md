@@ -1,5 +1,10 @@
+---
+title: "Heraclitus Fragment 24 Aeon Child Play Dmt Experience"
+tags:
+  - concept
+---
 
-# Heraclitus Fragment 24 and the DMT Experience
+## Heraclitus Fragment 24 and the DMT Experience
 
 ## Overview
 

@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Peyote Ceremonies: Native American Church and Huichol Traditions
+## Peyote Ceremonies: Native American Church and Huichol Traditions
 
 Ralph Metzner's 1998 comparative analysis of hallucinogen use across
 [[peyote-ceremony]] traditions:

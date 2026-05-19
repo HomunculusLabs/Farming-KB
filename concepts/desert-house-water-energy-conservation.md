@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert House Water and Energy Conservation
+## Desert House Water and Energy Conservation
 
 Desert house design in [[water-conservation]], and productive roof systems into a cohesive living system.
 

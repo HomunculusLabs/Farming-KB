@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Weak Link Analysis
+## Weak Link Analysis
 
 In  used in [[savory-animal-impact-and-herd-effect]] and long [[savory-solar-dollars-and-wealth-classification]] flow through the three
 links and where the constraint lies. The goal is to minimize the use of

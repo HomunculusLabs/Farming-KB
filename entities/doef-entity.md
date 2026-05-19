@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOEF
+## DOEF
 
 **Chemical name:** 2,5-Dimethoxy-4-(2-fluoroethyl)-amphetamine
 **[[alexander-shulgin]] describes DOEF as a compound where "all systems [are] intact, body, mind and emotion" -- a notably positive assessment that places it among the more benign members of the psychedelic amphetamines.

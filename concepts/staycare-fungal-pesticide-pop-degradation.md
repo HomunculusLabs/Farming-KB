@@ -8,7 +8,7 @@ sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 
-# Fungal Degradation of Pesticides and Persistent Organic Pollutants
+## Fungal Degradation of Pesticides and Persistent Organic Pollutants
 
 Fungi possess unique capabilities for degrading pesticides and persistent organic pollutants (POPs) that complement bacterial [[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems**: Non-specific [[mycorrhizal-fungi]] extend degradation capabilities into the root zone (see fungal-biodegradation-pesticides
 - fungal-ligninolytic-enzyme-systems-overview

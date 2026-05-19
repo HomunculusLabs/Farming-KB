@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Azadirachta indica
+## Azadirachta indica
 
 **Type:** Species
 **Category:** Evergreen to deciduous tree

@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Nameko vs Enoki Cultivation
+## Nameko vs Enoki Cultivation
 
 ## Overview
 

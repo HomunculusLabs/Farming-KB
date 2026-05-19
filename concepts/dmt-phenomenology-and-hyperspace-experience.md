@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# DMT Phenomenology and the Hyperspace Experience
+## DMT Phenomenology and the Hyperspace Experience
 
 ## Overview
 

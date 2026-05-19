@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Gymnopilus Spectabilis Profile: The Big Laughing Gym
+## Gymnopilus Spectabilis Profile: The Big Laughing Gym
 
 ## Overview and Taxonomy
 

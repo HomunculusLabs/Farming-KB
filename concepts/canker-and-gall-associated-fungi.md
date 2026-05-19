@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Canker and Gall-Associated Fungi
+## Canker and Gall-Associated Fungi
 
 Canker and gall-associated fungi represent a major group of plant pathogenic organisms that cause localized, often destructive, modifications to host tissues. Cankers are sunken necrotic lesions on stems and branches resulting from localized cambium death, while galls are abnormal growths induced by parasitic organisms. Both types of infections can significantly impact plant health, forest dynamics, and agricultural productivity.
 

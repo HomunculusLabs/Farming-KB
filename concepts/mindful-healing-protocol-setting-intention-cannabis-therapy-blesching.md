@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [mindfulness, cannabis, therapy, intention, setting, healing, blesching, psychoneuroimmunology, affirmations, meditation]
 ---
 
-# Mindful Healing Protocol - Setting Intention for Cannabis Therapy
+## Mindful Healing Protocol - Setting Intention for Cannabis Therapy
 
 ## Overview
 

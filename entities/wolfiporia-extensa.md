@@ -16,7 +16,7 @@ sources:
   - "Ríos, J.L. et al. (2012). \"A review on the ethnobotany, pharmacology and phytochemistry of the genus Wolfiporia.\" Journal of Pharmacy and Pharmacology, 64(4), 462-476."
   - "Zhao, J. et al. (2013). \"Advances in research on the cultivation of wolfiporia-cocos (F.A. Wolf) Ryvarden & Gilb.\" Applied Microbiology and Biotechnology, 97(13), 5871-5882."
 ---
-# Wolfiporia extensa (*Fu Ling*)
+## Wolfiporia extensa (*Fu Ling*)
 
 ## Overview
 *Wolfiporia extensa*, commonly known as Fu Ling or China root, is a wood-decay polypore fungus in the family Polyporaceae. One of the most important medicinal fungi in Traditional Chinese Medicine (TCM), it has been used for over 2,000 years as a diuretic, sedative, and spleen tonic. The fungus grows underground as a massive sclerotium (up to 30+ kg) on the roots of various pine species, particularly *Pinus massoniana*. Modern research has validated its immunomodulatory, anti-tumor, anti-inflammatory, and hepatoprotective properties, with its water-soluble polysaccharides (pachymaran) being the primary [[poria-cocos]]* F.A. Wolf, *Sclerotium cocos* C.S. Wei, *Pachyma cocos* F.A. Wolf

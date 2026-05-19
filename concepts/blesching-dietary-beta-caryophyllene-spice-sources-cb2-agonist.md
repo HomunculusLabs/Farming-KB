@@ -7,7 +7,7 @@ type: concept
 created: 2026-05-09
 ---
 
-# Dietary (E)-β-Caryophyllene Sources — Spice Plants as Functional CB2 Agonists
+## Dietary (E)-β-Caryophyllene Sources — Spice Plants as Functional CB2 Agonists
 
 ## Overview
 

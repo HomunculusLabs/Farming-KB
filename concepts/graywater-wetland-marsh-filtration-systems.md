@@ -8,7 +8,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 type: concept
 ---
 
-# Graywater Wetland Marsh Filtration Systems
+## Graywater Wetland Marsh Filtration Systems
 
 Graywater is the water that drains from sinks, tubs, washing machines,
 and showers. Unlike blackwater (which contains sewage and solid human

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Lobaria pulmonaria
+## Lobaria pulmonaria
 
 **Lobaria pulmonaria**, commonly known as the lung lichen, is a large foliose lichen-forming ascomycete.
 

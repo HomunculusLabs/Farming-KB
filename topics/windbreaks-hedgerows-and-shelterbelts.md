@@ -27,7 +27,7 @@ related_concepts:
   - permaculture-windbreak-design-detailed
 ---
 
-# Windbreaks, Hedgerows, and Shelterbelts
+## Windbreaks, Hedgerows, and Shelterbelts
 
 Windbreaks, hedgerows, and shelterbelts are linear plantings of trees and
 shrubs arranged to reduce wind speed across adjacent land. Though the three

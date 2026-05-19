@@ -9,7 +9,7 @@ type: concept
 tags: [animal-husbandry, natural-farming, ecology, permaculture, forage]
 ---
 
-# Livestock Open Grazing and Forest Pasture Method
+## Livestock Open Grazing and Forest Pasture Method
 
 [[fukuoka-natural-livestock-farming]] — one based on open grazing in forests and mountains
 rather than confinement in factory-like facilities. His forest pasture

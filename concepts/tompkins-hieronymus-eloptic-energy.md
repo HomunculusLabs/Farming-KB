@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hieronymus and Eloptic Energy
+## Hieronymus and Eloptic Energy
 
 Thomas Galen Hieronymus was a laboratory researcher who built upon the
 work of [[electromagnetic-spectrum-plant-light-perception]], or even if it was

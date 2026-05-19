@@ -6,7 +6,7 @@ created: 2026-05-08
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 
-# Psilocybin and Psilocin Variation Across Flushes
+## Psilocybin and Psilocin Variation Across Flushes
 
 The alkaloid content of cultivated *[[jeremy-bigwood]] and Michael W. Beug at The Evergreen State College, published in the *Journal of Ethnopharmacology* in 1982, was the first systematic investigation of [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* originating from a spore print collected near Pucallpa, Peru. They used a carefully controlled "miniculture" system adapted from earlier methods described by San Antonio (1971) and refined by Oss and Oeric (1976).
 

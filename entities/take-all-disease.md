@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Take-All Disease
+## Take-All Disease
 
 ## Description
 

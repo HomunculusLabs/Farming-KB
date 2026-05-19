@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungicolous Fungi — Parasites and Associates of Other Fungi
+## Fungicolous Fungi — Parasites and Associates of Other Fungi
 Fungicolous fungi are those that grow on, within, or in association with
 other fungi. This diverse group includes biotrophic parasites, necrotrophic
 pathogens, and commensals that exploit fungal sporocarps, hyphae, spores,

@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Nutritional Balance Fertilizer
+## JADAM Nutritional Balance Fertilizer
 
 JADAM's approach to nutritional balance is radically simpler than conventional
 methods. Instead of adjusting individual N, P, K elements, JADAM uses crop

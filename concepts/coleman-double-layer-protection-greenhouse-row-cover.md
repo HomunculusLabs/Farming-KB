@@ -1,4 +1,8 @@
-# Coleman's Double-Layer Protection: Unheated Greenhouse Over Row Cover
+---
+title: "Coleman's Double-Layer Protection: Unheated Greenhouse Over Row Cover"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -7,7 +11,7 @@ The core innovation of Eliot Coleman's [[coleman-second-spring-august-planting-w
 
 ## Merged: Passive Solar Greenhouse Temperature Performance
 
-# Passive Solar Greenhouse Temperature Performance
+## Passive Solar Greenhouse Temperature Performance
 
 **Source:** Eliot Coleman — *The [[winter-harvest-handbook-guide]]* (2009)
 

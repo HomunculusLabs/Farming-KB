@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Banisteriopsis and Ayahuasca
+## Banisteriopsis and Ayahuasca
 
 Banisteriopsis is a genus of woody vines belonging to the Malpighiaceae family that serves as the primary ingredient in one of the most widely used hallucinogenic brews in the indigenous Americas. The drink, known by many regional names, forms the centerpiece of shamanistic practice across much of the Upper Amazon basin.
 

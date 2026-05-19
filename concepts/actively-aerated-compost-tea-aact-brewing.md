@@ -6,7 +6,7 @@ created: 2026-05-09
 source: The Field Guide for Actively Aerated Compost Tea (Elaine Ingham)
 ---
 
-# Actively Aerated Compost Tea (AACT) Brewing
+## Actively Aerated Compost Tea (AACT) Brewing
 
 Actively Aerated Compost Tea (AACT) is a water extract of high-quality compost that is actively aerated during brewing to support the growth and reproduction of beneficial aerobic microorganisms. Dr. Elaine Ingham's field guide presents AACT as a method for rapidly multiplying and distributing the soil foodweb organisms found in mature compost, providing a liquid biological amendment that can be applied to soil, foliage, [[fungi-convention-on-biological-diversity]] of AACT.
 

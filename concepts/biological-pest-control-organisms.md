@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Biological Pest Control Organisms
+## Biological Pest Control Organisms
 
 Biological pest control relies on living organisms — including fungi, bacteria, protozoa, and predatory arthropods — to suppress pest populations below economically damaging thresholds. Dr. Elaine Ingham's field guide on [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) provides practical case studies and guidance for leveraging these organisms in agricultural and horticultural systems. The central principle is that healthy soil and foliar biology, established through compost and compost tea applications, can replace or dramatically reduce chemical pesticide inputs.
 

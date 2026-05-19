@@ -16,7 +16,7 @@ sources:
   - Lloyd, G.E. & Rice, G. (2005). Primula. Dorling Kindersley, London.
 ---
 
-# Primula denticulata
+## Primula denticulata
 
 ## Overview
 

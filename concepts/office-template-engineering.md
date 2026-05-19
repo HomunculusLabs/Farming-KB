@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [templates, word-processing, enterprise-software, document-design]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Office Template [[binary-document-format-reverse-engineering]] templates that serve as the foundation for consistent,
+## Office Template [[binary-document-format-reverse-engineering]] templates that serve as the foundation for consistent,
 efficient document creation within organizations. It combines knowledge of
 word processing software internals, typography, information design, and
 organizational workflow [[fukuoka-textdoc-no-pesticide-principle-insect-balance]]s of Template Design

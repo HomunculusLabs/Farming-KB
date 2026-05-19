@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Fukuoka Soil Fertility Straw Mulch
+## Fukuoka Soil Fertility Straw Mulch
 
 Updated: 2026-04-19
 

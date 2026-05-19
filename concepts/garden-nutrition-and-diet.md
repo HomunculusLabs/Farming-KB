@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Garden Nutrition and Diet from Your Vegetable Garden
+## Garden Nutrition and Diet from Your Vegetable Garden
 
 Updated: 2026-04-18
 

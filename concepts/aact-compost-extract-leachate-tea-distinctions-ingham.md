@@ -5,7 +5,7 @@ source_author: Elaine Ingham Ph.D
 topics: [aact, compost-tea, compost-extract, leachate, brewing-methods, soil-biology]
 ---
 
-# AACT Compost Extract, Leachate, and Tea Distinctions
+## AACT Compost Extract, Leachate, and Tea Distinctions
 
 ## Overview
 

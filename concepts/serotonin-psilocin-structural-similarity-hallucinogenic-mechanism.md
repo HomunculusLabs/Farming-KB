@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
-# Serotonin Structural Similarity and Psilocin Hallucinogenic Mechanism
+## Serotonin Structural Similarity and Psilocin Hallucinogenic Mechanism
 
 [[psilocybin]], the principal psychoactive constituents of
 Psilocybe mushrooms, are closely related in structure to the neurotransmitter

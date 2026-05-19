@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Field Observation in Permaculture Design
+## Field Observation in Permaculture Design
 
 Field observation is one of the most powerful design methodologies in [[maps]] or other fixed data. It is from the observation of processes and events — such as heavy rain and subsequent runoff — that designers can devise strategies of "least change," saving energy and time. No static method can reveal processes or dynamic interactions.
 

@@ -1,4 +1,8 @@
-# Three Types of Lime: Agricultural, Dolomitic, and Gypsum — The pH Myth
+---
+title: "Three Types of Lime: Agricultural, Dolomitic, and Gypsum — The pH Myth"
+tags:
+  - concept
+---
 
 **Source:** [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management|Gardening]] When It Counts*
 **Concept:** The three lime types used [[dynamic-accumulator-plants-calcium-and-magnesium]], and why liming to adjust soil pH is unnecessary in an organic garden.

@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Agaricus bisporus
+## Agaricus bisporus
 
 **Type:** Species
 **Category:** Basidiomycete

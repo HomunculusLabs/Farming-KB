@@ -18,7 +18,7 @@ sources:
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:576945-1"
 ---
 
-# Mimosa pudica (Sensitive Plant)
+## Mimosa pudica (Sensitive Plant)
 
 ## Overview
 

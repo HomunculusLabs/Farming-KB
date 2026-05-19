@@ -13,7 +13,7 @@ sources: []
 type: comparison
 ---
 
-# Cob vs Timber Frame Construction
+## Cob vs Timber Frame Construction
 
 Cob and timber frame represent two of the oldest and most enduring building traditions in human history, each taking a fundamentally different approach to creating shelter from natural materials. Cob builds monolithic walls from earth, sand, and straw — a continuous sculpted mass that serves as both structure and enclosure. Timber frame builds a skeletal framework of large timbers joined by wooden pegs, then fills the spaces between with insulation and cladding. Both methods have experienced a strong revival within the [[mollison-pdc-forest-management-products]] operations, or salvage sources. Air-dried timber aged one year or more is ideal. Material costs are substantially higher than cob — typically twenty to fifty dollars per square foot of floor area for the frame alone, depending on species and sourcing.
 

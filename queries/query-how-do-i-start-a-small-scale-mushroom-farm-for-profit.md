@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Start a Small-Scale Mushroom Farm for Profit?
+## How Do I Start a Small-Scale Mushroom Farm for Profit?
 
 ## Short Answer
 Starting a small-scale mushroom farm requires relatively low startup costs

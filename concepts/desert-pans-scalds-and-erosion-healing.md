@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Pans, Scalds, and Erosion Healing
+## Desert Pans, Scalds, and Erosion Healing
 
 The flat or depressed areas of desert landscapes — pans, scalds, claypans, and erosion gullies — present some of the most challenging rehabilitation problems in arid zone [[gypsum]]**: Decreases clay capacity to infiltrate water (useful where run-off collection is desired).
 - **Sodium carbonate or [[biological-soil-indicators]], accelerating wind erosion. The healing approach works systemically — addressing surface stability, water infiltration, vegetation establishment, and browsing pressure simultaneously to create self-reinforcing recovery processes.

@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Eucalyptus in Permaculture
+## Eucalyptus in Permaculture
 
 Eucalyptus is one of the most diverse genera of trees in the world, with over 700 species native almost exclusively to Australia. Within permaculture systems, eucalypts serve a wide range of functions — from timber and essential oil production to erosion control, windbreaks, and honey production. Their adaptability across climatic zones, from arid interiors to wet tropical coasts and frost-prone highlands, makes them a versatile though sometimes controversial choice for [[drought-tolerant-planting-design]]
 - **E. cambageana** (Dawson River Gum) — adapted to arid inland conditions

@@ -7,7 +7,7 @@ tags: [aact, forest-litter, mycorrhizal, fungi, soil-food-web, humus, inoculant,
 created: 2026-05-09
 ---
 
-# Forest Litter Fungi and Mycorrhizal Considerations in Compost Tea
+## Forest Litter Fungi and Mycorrhizal Considerations in Compost Tea
 
 ## Overview
 

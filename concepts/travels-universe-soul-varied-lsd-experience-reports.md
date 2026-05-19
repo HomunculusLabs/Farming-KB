@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# Travels in the Universe of the Soul — Varied LSD Experience Reports
+## Travels in the Universe of the Soul — Varied LSD Experience Reports
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 type: concept
 ---
-# The Invention [[weil-the-natural-mind-altered-states-normalcy]].
+## The Invention [[weil-the-natural-mind-altered-states-normalcy]].
 As late as the Middle Ages the witch was still the ha-gazussa, a being that sat
 on the Hag, the fence, which passed behind the gardens and separated the village
 from the wilderness. She was a being who participated in both worlds.

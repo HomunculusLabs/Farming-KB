@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Pigeons and Squab Production in Permaculture Systems
+## Pigeons and Squab Production in Permaculture Systems
 
 [[bill-mollison]]'s permaculture systems. Their role extends far beyond squab production to
 include phosphate recycling, seed dispersal, and the maintenance of

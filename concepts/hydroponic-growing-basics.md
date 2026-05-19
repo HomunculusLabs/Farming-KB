@@ -7,7 +7,7 @@ tags: [cannabis, indoor, equipment, ph, nutrients, cultivation, methods, plant-g
 sources: []
 ---
 
-# Hydroponic Growing Basics
+## Hydroponic Growing Basics
 
 Hydroponics is the practice of growing plants without soil by delivering nutrients dissolved in water directly to the root zone. For cannabis cultivation, hydroponics offers faster growth rates, higher yields, and precise control over nutrient delivery compared to soil-based methods. This guide covers the major hydroponic systems, nutrient management, pH control, and essential practices.
 

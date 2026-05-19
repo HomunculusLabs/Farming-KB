@@ -11,7 +11,7 @@ sources: []
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
   - ""raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
-# Copelandia mexicana
+## Copelandia mexicana
 
 Copelandia mexicana is a [[gordon-wasson-comparative-method-ethnomycology]] and [[partial-veil-tropism-protection-before-spore-release]] remnants in young specimens
 - Context: Thin, whitish, bruising blue or blue-green

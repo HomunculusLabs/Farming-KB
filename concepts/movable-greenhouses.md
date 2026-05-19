@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Movable Greenhouses
+## Movable Greenhouses
 
 The [[movable-greenhouse]] is described as "the best new gardening idea of the twenty-first century"—or more accurately, a rediscovered idea. By allowing a single greenhouse structure to cover multiple sets of beds throughout the year, movable greenhouses effectively extend greenhouse use from 12 months to the equivalent of 14 months per year. A winter crop can be established two months before it needs protection, and a warm-season crop can continue growing two months beyond what a fixed house would allow.
 

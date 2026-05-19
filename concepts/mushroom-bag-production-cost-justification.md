@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Substrate Bag Production Cost Justification
+## Mushroom Substrate Bag Production Cost Justification
 
 Detailed cost breakdown for producing [[jadam-rice-bran-problems]] | 0.23 |
 | 4 | Gypsum | 0.06 |

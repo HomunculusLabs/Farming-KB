@@ -25,7 +25,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# Natural Farming Seed Balls
+## Natural Farming Seed Balls
 
 Seed balls (also called clay pellets or "earth dumplings") are Fukuoka's primary technique for direct seeding without cultivation. Seeds are encased in clay to protect them from birds, rodents, and drying until conditions are right for germination. See [[natural-farming-fukuoka]] for the full method context.
 

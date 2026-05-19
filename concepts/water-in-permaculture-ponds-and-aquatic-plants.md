@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Water in Permaculture — Ponds and Aquatic Plants
+## Water in Permaculture — Ponds and Aquatic Plants
 
 Water is the foundation of productive [[permaculture]] systems. Understanding the global water cycle, designing effective water storage, and managing productive pond systems are essential skills. Permaculture treats ponds not merely as cattle watering points but as highly productive integrated systems yielding food, fuel, fertilizer, and ecological services simultaneously.
 

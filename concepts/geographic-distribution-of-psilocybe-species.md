@@ -1,4 +1,8 @@
-# Geographic Distribution of Psilocybe Species
+---
+title: "Geographic Distribution of Psilocybe Species"
+tags:
+  - concept
+---
 
 **Tags:** mycology, biogeography, psilocybe, distribution, biodiversity
 

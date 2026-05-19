@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Yeast Characterization and Biodiversity Assessment
+## Yeast Characterization and Biodiversity Assessment
 
 ## Overview
 

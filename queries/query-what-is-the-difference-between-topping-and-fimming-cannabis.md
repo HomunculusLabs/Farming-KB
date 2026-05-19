@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Topping and Fimming Cannabis?
+## What Is the Difference Between Topping and Fimming Cannabis?
 
 ## Short Answer
 Topping and FIMing are both high-stress [[cannabis-vegetative-growth-stage]] when the plant has developed at least three to

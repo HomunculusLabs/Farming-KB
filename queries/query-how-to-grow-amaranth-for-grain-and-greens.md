@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# How to Grow Amaranth for Grain and Greens
+## How to Grow Amaranth for Grain and Greens
 
 ## Short Answer
 

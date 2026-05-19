@@ -7,7 +7,7 @@ tags: [cannabis, processing, lab-technique, methods, troubleshooting]
 sources: []
 ---
 
-# Live Resin Processing
+## Live Resin Processing
 
 Live resin is a premium cannabis concentrate known for its exceptional terpene content and flavor profile. Unlike traditional extraction methods that use dried and cured flower, live resin is made from freshly harvested plant material that has been immediately frozen to preserve the living terpene and cannabinoid profile. This page covers the process from harvest through extraction.
 

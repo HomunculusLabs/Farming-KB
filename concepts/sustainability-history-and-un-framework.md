@@ -4,7 +4,7 @@ source: fungi-magazine-fungi-and-sustainability.md
 type: concept
 ---
 
-# Sustainability History and the UN Framework
+## Sustainability History and the UN Framework
 
 ## Overview
 

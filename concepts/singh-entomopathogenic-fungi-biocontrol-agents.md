@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Entomopathogenic Fungi as Biocontrol Agents
+## Entomopathogenic Fungi as Biocontrol Agents
 
 Entomopathogenic fungi are specialized [[cervantes-biological-pest-control-predators]] control products.
 With over 700 species described across [[ascomycota]] and Basidiomycota,

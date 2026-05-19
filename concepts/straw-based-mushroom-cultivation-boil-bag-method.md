@@ -12,7 +12,7 @@ tags:
 source: jarrold-indoor-mushroom-growing
 ---
 
-# Straw-Based Mushroom Cultivation - Boil-a-Bag Method
+## Straw-Based Mushroom Cultivation - Boil-a-Bag Method
 
 ## Overview
 

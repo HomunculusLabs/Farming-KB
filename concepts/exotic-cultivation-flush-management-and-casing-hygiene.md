@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Flush Management and Casing Hygiene in Exotic Mushroom Cultivation
+## Flush Management and Casing Hygiene in Exotic Mushroom Cultivation
 Flush management is the practice of coordinating watering, misting, and hygiene
 to maximise the number and quality of successive mushroom harvests from a single
 cased tray. Together with fruiting-chamber-setup:

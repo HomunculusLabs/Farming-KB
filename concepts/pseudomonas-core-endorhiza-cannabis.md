@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Pseudomonas as Core Endorhiza Member in Cannabis Microbiome
+## Pseudomonas as Core Endorhiza Member in Cannabis Microbiome
 
 ## Overview
 

@@ -1,5 +1,10 @@
+---
+title: "Plant Vision And Phototropism"
+tags:
+  - concept
+---
 
-# Plant Vision and Phototropism
+## Plant Vision and Phototropism
 
 Plants possess a form of vision that, while fundamentally different from
 human sight, is remarkably sophisticated. They monitor their visible
@@ -143,8 +148,3 @@ current understanding and implementation strategies.
 Successful integration of plant vision and phototropism into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

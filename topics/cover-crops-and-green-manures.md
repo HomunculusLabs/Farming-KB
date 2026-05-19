@@ -54,7 +54,7 @@ related_concepts:
   - cover-crop-termination
 ---
 
-# Cover Crops and Green Manures
+## Cover Crops and Green Manures
 
 Cover crops and green manures are plants grown primarily to benefit the soil
 rather than for harvest. They constitute one of the oldest and most powerful

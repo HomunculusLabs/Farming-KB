@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Bone Cancer
+## Cannabis and Bone Cancer
 
 **Source:** The [[blesching-cannabis-bone-fracture-healing]] incidence — all without the detrimental effects of opiates.
 

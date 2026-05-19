@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Colchicine, Polyploidy, and Mutagenesis in Cannabis
+## Colchicine, Polyploidy, and Mutagenesis in Cannabis
 
 Colchicine, polyploidy, and mutagenesis represent advanced and
 controversial techniques in [[colchicum-autumnale]], the autumn crocus that also produces saffron. The

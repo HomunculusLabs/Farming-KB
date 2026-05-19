@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Quantitative Indices of Fungal Biodiversity
+## Quantitative Indices of Fungal Biodiversity
 
 Quantitative indices provide the mathematical foundation for comparing fungal biodiversity across habitats, spatial scales, and sampling regimes. Because fungal communities are extraordinarily diverse and often dominated by a few abundant taxa with many rare species, choosing appropriate indices and understanding their properties is critical for robust ecological inference.
 

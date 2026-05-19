@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# The DMT Experience and the Overmind
+## The DMT Experience and the Overmind
 
 The DMT experience occupies a central place in [[dmt-entity-encounters-and-the-logos]] that characterize the DMT experience.
 

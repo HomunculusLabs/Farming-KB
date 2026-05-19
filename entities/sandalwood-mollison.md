@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Sandalwood (Santalum spp.)
+## Sandalwood (Santalum spp.)
 
 ## Description
 

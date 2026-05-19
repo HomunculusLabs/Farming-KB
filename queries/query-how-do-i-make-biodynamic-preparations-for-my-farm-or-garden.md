@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Make Biodynamic Preparations for My Farm or Garden?
+## How Do I Make Biodynamic Preparations for My Farm or Garden?
 
 ## Short Answer
 [[comparison-biodynamic-vs-permaculture]] shows philosophical differences

@@ -5,7 +5,7 @@ type: entity
 tags: [technique, compost-tea, anaerobic, toxins, soil-health]
 ---
 
-# Anaerobic Compost Brews
+## Anaerobic Compost Brews
 
 ## Description
 

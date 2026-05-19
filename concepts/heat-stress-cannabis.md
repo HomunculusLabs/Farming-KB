@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Heat Stress in Cannabis
+## Heat Stress in Cannabis
 
 Heat stress occurs when cannabis plants are exposed to temperatures above their optimal range, disrupting metabolic processes, reducing growth, and increasing susceptibility to [[arbuscule-isolation-metabolic-activity-assays]] under very demanding and specific conditions, the warmer air holds more moisture, which often restrains plant functions and decelerates growth rather than speeding it. Large fluctuations in temperature — more than 15-20°F (8-10°C) — cause slow growth and slow the plant's processes.
 

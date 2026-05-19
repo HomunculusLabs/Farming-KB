@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Weed Ecology
+## Fukuoka Weed Ecology
 ## Overview
 [[hamilton-composting-and-organic-matter-management]] deep in the soil profile.
 - **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat**: Weeds provide food, shelter, and breeding sites

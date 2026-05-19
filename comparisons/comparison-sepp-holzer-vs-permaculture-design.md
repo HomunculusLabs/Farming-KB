@@ -14,7 +14,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
-# Sepp Holzer Method vs Permaculture Design
+## Sepp Holzer Method vs Permaculture Design
 [[mollison-designers-sector-analysis-wind-sun-fire]] |
 | Approach | Practical, site-specific | Abstract, transferable |
 | Scale | Proven at 45+ hectares | Scales from balcony to farm |

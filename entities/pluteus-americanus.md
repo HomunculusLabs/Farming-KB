@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Pluteus americanus
+## Pluteus americanus
 
 **Pluteus americanus** is a psilocybin-containing mushroom in the genus *Pluteus*, found growing on dead and decaying hardwood in [[growing-gourmet-north-american-reishi-species]] origin. Some authorities treat *P. americanus* as a synonym or variety of *P. salicinus*, while others maintain it as a distinct species based on spore morphology and DNA sequence data.
 

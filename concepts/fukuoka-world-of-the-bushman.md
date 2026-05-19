@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# The World of the Bushman
+## The World of the Bushman
 
 In *The Road Back to Nature*, [[comparison-natural-farming-vs-permaculture]] is, in a sense, an attempt to recover this lost relationship within the context of agriculture
 

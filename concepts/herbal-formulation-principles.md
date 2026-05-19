@@ -6,7 +6,7 @@ type: concept
 tags: [herbalism, herbs, medicine]
 sources: []
 ---
-# Herbal Formulation Principles
+## Herbal Formulation Principles
 
 Herbal formulation is the art and science of combining two or more herbs into a cohesive preparation that addresses a health condition more effectively than any single herb alone. The principles of formulation draw on centuries of traditional practice across multiple healing traditions, supported by modern understanding of pharmacology, phytochemistry, and synergy.
 

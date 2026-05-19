@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Batrachochytrium dendrobatidis
+## Batrachochytrium dendrobatidis
 
 **Batrachochytrium dendrobatidis** (Bd) is a chytrid fungus and the causative agent of chytridiomycosis, an infectious disease devastating to amphibian populations worldwide.
 

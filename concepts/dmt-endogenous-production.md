@@ -16,7 +16,7 @@ sources:
   - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
-# Dimethyltryptamine Endogenous Production
+## Dimethyltryptamine Endogenous Production
 
 N,N-Dimethyltryptamine (DMT) is a powerful psychedelic [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] implications of endogenous psychedelic
 compounds for understanding consciousness.

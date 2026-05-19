@@ -6,7 +6,7 @@ created: 2026-05-10
 source: "What a Plant Knows (Daniel Chamovitz, 2012)"
 ---
 
-# Phytochrome and Plant Light Perception
+## Phytochrome and Plant Light Perception
 
 ## Overview
 

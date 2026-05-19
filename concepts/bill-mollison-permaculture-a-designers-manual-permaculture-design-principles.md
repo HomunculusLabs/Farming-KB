@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Permaculture Design Principles Permaculture design principles are the foundational directives that guide the creation of sustainable human settlements and agricultural systems. As articulated by Bill Mollison in *Permaculture: A Designers' Manual*, these principles emerge from the observation of natural ecosystems and the traditional wisdom of indigenous land management practices worldwide. The principles serve as a bridge between [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
+## Permaculture Design Principles Permaculture design principles are the foundational directives that guide the creation of sustainable human settlements and agricultural systems. As articulated by Bill Mollison in *Permaculture: A Designers' Manual*, these principles emerge from the observation of natural ecosystems and the traditional wisdom of indigenous land management practices worldwide. The principles serve as a bridge between [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 strategies that maintain fertility through diverse biological pathways.
 
 ## Use of Biological Resources

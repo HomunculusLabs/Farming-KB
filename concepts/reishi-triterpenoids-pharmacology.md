@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Reishi Ganoderma Triterpenoids and Pharmacology
+## Reishi Ganoderma Triterpenoids and Pharmacology
 
 [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] beyond its well-known polysaccharides. At least 100 different alcohol-soluble triterpenes have been identified, including highly oxidised lanostane-type triterpenoids. These triterpenoids contribute significantly to Reishi's diverse pharmacological activities.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Species Estimation — Methods for Assessing Total Diversity
+## Fungal Species Estimation — Methods for Assessing Total Diversity
 Estimating how many fungal species exist — globally, regionally, or locally —
 is one of the most challenging problems in mycology. Fungi are vastly
 under-described, with current estimates ranging from 500,000 to nearly 10

@@ -1,4 +1,8 @@
-# Hallucinogenic Mushroom Legal Responses in Europe
+---
+title: "Hallucinogenic Mushroom Legal Responses in Europe"
+tags:
+  - concept
+---
 
 ## Overview
 

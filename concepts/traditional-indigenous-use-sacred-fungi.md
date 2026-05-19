@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Traditional Indigenous Use of Sacred Fungi
+## Traditional Indigenous Use of Sacred Fungi
 
 ## Mesoamerican Mushroom Traditions
 

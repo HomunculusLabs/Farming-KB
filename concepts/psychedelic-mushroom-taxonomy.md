@@ -7,7 +7,7 @@ tags: [mycology, fungi, taxonomy, mushrooms, species, species-profiles, entheoge
 sources: []
 ---
 
-# Psychedelic Mushroom Taxonomy
+## Psychedelic Mushroom Taxonomy
 
 ## Overview
 

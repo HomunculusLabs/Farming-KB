@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Clay Pellet Seed Balling
+## Clay Pellet Seed Balling
 
 Clay pellet seed balling is [[no-tillage-rice-barley-succession-cropping]] system depends on reliable [[clay-seed-pellets-direct-seeding]]
 into untilled soil presents several challenges: seeds may be eaten by birds, mice, or

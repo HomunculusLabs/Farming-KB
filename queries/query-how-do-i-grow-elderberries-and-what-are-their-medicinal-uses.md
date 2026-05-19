@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# How Do I Grow Elderberries and What Are Their Medicinal Uses?
+## How Do I Grow Elderberries and What Are Their Medicinal Uses?
 
 ## Short Answer
 

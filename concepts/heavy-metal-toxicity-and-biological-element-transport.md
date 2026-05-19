@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Heavy Metal Toxicity and Biological Element Transport in Soils
+## Heavy Metal Toxicity and Biological Element Transport in Soils
 
 ## Overview
 

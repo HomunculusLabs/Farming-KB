@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka: Enough Land for All and Quarter-Acre Farming
+## Fukuoka: Enough Land for All and Quarter-Acre Farming
 
 [[cho-poultry-natural-farming-methods]] that work with, rather than against, ecological processes. Natural farming eliminates the need for expensive inputs, heavy machinery, and [[oss-oeric-equipment-and-materials-list]] are unfairly high."
 

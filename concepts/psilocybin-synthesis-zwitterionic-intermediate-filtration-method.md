@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Synthesis via Zwitterionic Phosphate Intermediate Isolation
+## Psilocybin Synthesis via Zwitterionic Phosphate Intermediate Isolation
 
 ## Overview
 

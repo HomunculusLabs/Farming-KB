@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Keyhole Garden Mandala Design
+## Keyhole Garden Mandala Design
 
 ## Overview
 

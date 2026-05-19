@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 ---
-# Fungal Roles in Soil Food Webs ## Overview Fungi [[bioremediation-fungal-biomass-biosorbent-material]] as food web substrate
+## Fungal Roles in Soil Food Webs ## Overview Fungi [[bioremediation-fungal-biomass-biosorbent-material]] as food web substrate
 
 ## Related
 

@@ -21,7 +21,7 @@ sources:
 type: query
 ---
 
-# What Are the Caffeine-Containing Plants and How Do I Grow Them?
+## What Are the Caffeine-Containing Plants and How Do I Grow Them?
 
 ## The Main Caffeine Plants
 

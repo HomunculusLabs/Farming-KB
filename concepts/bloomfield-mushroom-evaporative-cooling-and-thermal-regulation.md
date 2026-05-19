@@ -13,7 +13,7 @@ sources:
   - "[Money, Mr. Bloomfield's Orchard (2002)]"
 ---
 
-# Mushroom Evaporative Cooling and Thermal Regulation
+## Mushroom Evaporative Cooling and Thermal Regulation
 
 Mushrooms are cold to the touch. This observation, seemingly simple,
 conceals a fundamental physiological phenomenon with far-reaching

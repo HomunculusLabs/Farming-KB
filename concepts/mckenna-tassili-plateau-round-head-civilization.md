@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# The Tassili Plateau and the Round Head Civilization
+## The Tassili Plateau and the Round Head Civilization
 
 ## Archaeological Evidence for Psychedelic Paradise
 

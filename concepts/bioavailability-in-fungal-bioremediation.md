@@ -1,5 +1,5 @@
 ---
-title: staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation Bioremediation
+title: "Bioavailability In Fungal Bioremediation"
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 ---
 emediation, soil-chemistry]
 
-# Bioavailability in Fungal Bioremediation
+## Bioavailability in Fungal Bioremediation
 
 Bioavailability is one of the most critical factors determining the success or failure of [[fungal-volatile-organic-compounds-communication]] such as pentachlorophenol (PCP) generally sorb to soil [[dighton-fungal-dissolved-organic-carbon-production]] content of the soil and the octanol-water partition coefficient (Kow) of the pollutant.
 

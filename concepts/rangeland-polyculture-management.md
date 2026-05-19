@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Rangeland Polyculture and Multi-Species Management
+## Rangeland Polyculture and Multi-Species Management
 
 Rangeland polyculture is the practice of managing multiple animal and plant species together on range land to achieve far greater total productivity than single-species (monoculture) grazing systems. [[bill-mollison]] argues that judicious selection of complementary animal species can multiply yields while simultaneously improving soil health, water retention, and ecological resilience.
 

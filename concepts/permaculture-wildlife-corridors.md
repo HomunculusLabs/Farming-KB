@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Wildlife Corridors
+## Permaculture Wildlife Corridors
 
 Wildlife conservation is integral to [[permaculture-design]]. Mollison's Manual treats wildlife habitat not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
 

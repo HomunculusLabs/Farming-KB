@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for GERD and Acid Reflux
+## Cannabis for GERD and Acid Reflux
 
 updated: 2026-04-18
 

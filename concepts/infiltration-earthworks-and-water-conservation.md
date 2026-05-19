@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Infiltration Earthworks and Water Conservation
+## Infiltration Earthworks and Water Conservation
 
 Earthworks represent one of the most cost-effective and long-lasting
 strategies for conserving water in agricultural and permaculture

@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# Organic Fertilizers
+## Organic Fertilizers
 
 The use of concentrated fertilizer is probably one of the most
 controversial areas in [[hamilton-concentrated-organic-fertilizer-products]]

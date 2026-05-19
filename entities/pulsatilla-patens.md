@@ -15,7 +15,7 @@ sources:
   - Weakley, A.S. (2020). "Flora of the Southeastern north-carolina-mycodiversity Press.
 ---
 
-# Pulsatilla patens
+## Pulsatilla patens
 
 ## Overview
 

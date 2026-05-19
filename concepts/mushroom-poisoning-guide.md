@@ -21,7 +21,7 @@ sources:
 - raw/papers/mushrooms
 ---
 
-# Mushroom Poisoning Guide
+## Mushroom Poisoning Guide
 
 Understanding the major categories of mushroom poisoning is essential for safe foraging. This guide covers the most dangerous species, their toxins, mechanisms of action, and clinical consequences. For identification guidance, see [[mushroom-identification]] and [[mushroom-toxicity-identification-warnings]].
 

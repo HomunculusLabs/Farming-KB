@@ -17,7 +17,7 @@ sources:
   - Sweets, L. (2021). "White clover (Trifolium repens): A review of its uses, benefits, and management." Permaculture Research Institute.
   - National Institute of Health. (2020). "Isoflavones in red and white clover: A review of their pharmacological properties."
 ---
-# Trifolium repens
+## Trifolium repens
 
 ## Common Names
 

@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [mycology, taxonomy, neurotropic-fungi, psilocybe, classification]
 ---
 
-# Neurotropic Fungi Taxonomy and Classification
+## Neurotropic Fungi Taxonomy and Classification
 
 Neurotropic fungi — also called hallucinogenic, psychotropic, magic, sacred,
 psychedelic, or entheogenic mushrooms — are a chemically diverse group capable

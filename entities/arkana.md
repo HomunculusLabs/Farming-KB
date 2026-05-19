@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Arkana
+## Arkana
 
 ## Description
 Arkana (from Quechua *arkay* = to defend/protect) is the term for spiritual defenses or protective shields in Amazonian vegetalismo. Arkanas are energetic barriers maintained by shamans to protect themselves and their patients from sorcery, malevolent spirits, and hostile spiritual attacks during ayahuasca sessions.

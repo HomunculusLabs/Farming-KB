@@ -1,5 +1,5 @@
 ---
-title: Maitake (maitake-grifola-frondosa-comprehensive-profile)
+title: "Maitake Grifola Frondosa"
 created: 2026-04-28
 tags: [mushrooms, fungi, medicinal, cultivation, gourmet]
 date: 2026-04-28
@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Maitake (Grifola frondosa)
+## Maitake (Grifola frondosa)
 
 Maitake, scientifically known as Grifola frondosa, is a large fleshy
 polypore mushroom prized both as a gourmet delicacy and a potent medicinal

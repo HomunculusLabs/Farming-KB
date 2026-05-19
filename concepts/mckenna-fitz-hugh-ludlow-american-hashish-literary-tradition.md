@@ -13,7 +13,7 @@ sources:
   - "[McKenna, Food of the Gods (1992)]"
 ---
 
-# Fitz Hugh Ludlow and the American Hashish Literary Tradition
+## Fitz Hugh Ludlow and the American Hashish Literary Tradition
 
 Fitz Hugh Ludlow (1834-1870) occupies a singular position in American literary
 history as the author of *The Hasheesh Eater* (1857), the first sustained work

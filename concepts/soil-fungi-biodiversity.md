@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Soil Fungi Biodiversity
+## Soil Fungi Biodiversity
 
 Soil is arguably the most diverse habitat for fungi on Earth, supporting an estimated 1.5 million or more fungal species. Soil fungi include decomposers, mycorrhizal symbionts, plant pathogens, predators, and parasites, forming the backbone of terrestrial nutrient cycling.
 

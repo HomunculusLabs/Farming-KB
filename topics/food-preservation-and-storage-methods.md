@@ -42,7 +42,7 @@ related_concepts:
   - mollison-designers-solar-food-drying-preservation
 ---
 
-# Food Preservation and Storage Methods
+## Food Preservation and Storage Methods
 
 **Food preservation and storage methods** encompass a broad range of
 techniques developed over millennia to prevent food spoilage, extend shelf

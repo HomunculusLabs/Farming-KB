@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Fix Copper Deficiency in Cannabis
+## How to Fix Copper Deficiency in Cannabis
 
 ## Short Answer
 Copper deficiency in cannabis causes wilting, weak stems, leaf discoloration, and

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, fruiting, environment, humidity, temperature]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Mushroom Cultivation Environmental Parameters
+## Mushroom Cultivation Environmental Parameters
 
 [[mushroom-pin-formation]], diverting energy
 from substrate colonization and reducing overall yield potential.

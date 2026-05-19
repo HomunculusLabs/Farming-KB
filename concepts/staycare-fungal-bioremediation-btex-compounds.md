@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# [[malt-extract-agar]]
+## [[malt-extract-agar]]
 medium or in defined high-nitrogen medium, where [[fungal-manganese-peroxidase-remediation]] (MnP) expression is blocked, than in defined
 low-nitrogen medium where the [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]], which typically requires ligninolytic conditions. Cytochrome
 P450 monooxygenase systems, which are more active under nutrient-rich

@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Lichenized Fungi
+## Lichenized Fungi
 
 ## Overview
 

@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Wattle-and-Daub vs Cordwood Construction
+## Wattle-and-Daub vs Cordwood Construction
 ## Overview
 
 Wattle-and-daub and cordwood construction are two of the most accessible

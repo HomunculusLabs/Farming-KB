@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [computing, paradigms, biology, physics, emerging-technology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Unconventional Computing
+## Unconventional Computing
 Unconventional computing encompasses computing paradigms that move beyond the
 classical von Neumann architecture. These approaches use physical, chemical, or
 biological processes to perform computation, often exploiting phenomena that

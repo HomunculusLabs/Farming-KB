@@ -5,7 +5,7 @@ type: entity
 tags: [soil-science, nutrition, permaculture, traditional-practices]
 ---
 
-# Geophagy
+## Geophagy
 
 ## Description
 

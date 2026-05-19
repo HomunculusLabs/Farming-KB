@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria Living Vessel and the Grail
+## Amanita Muscaria Living Vessel and the Grail
 
 The "living vessel" is a container -- cup, bowl, or jar -- that has been permanently colonized by [[amanita-muscaria-drying-and-preparation]] pieces are extracted with a nutrient liquid (grape juice, boiled barley water, or honey water) and allowed to resurrect in a container, the [[sterile-spore-print-collection-glass-jar-technique]] (1-gallon wide-mouth canning jars preferred)
 2. Clean thoroughly with detergent, rinse, soak with chlorine bleach solution if necessary

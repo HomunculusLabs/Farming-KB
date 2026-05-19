@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizae and Plant Fitness in Community Competition
+## Mycorrhizae and Plant Fitness in Community Competition
 
 ## Overview
 

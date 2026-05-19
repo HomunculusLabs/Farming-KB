@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, community ecology, fungal communities, succession,  species interactions]
 date: 2026-04-28
 updated: 2026-05-09
-sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md""]
 type: concept
 ---
 
-# Fungal Community Assembly and Dynamics
+## Fungal Community Assembly and Dynamics
 
 Fungal community assembly refers to the processes by which fungal species
 colonize, establish, and interact within a given habitat. Understanding these

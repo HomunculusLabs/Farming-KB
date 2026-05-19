@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earthmoving Machinery in Permaculture
+## Earthmoving Machinery in Permaculture
 
 [[permaculture-design]], enabling the rapid
 shaping of landforms that would take generations to form naturally. From [[garden-hand-tools]] to

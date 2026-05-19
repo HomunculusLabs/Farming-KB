@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Parkinson's Disease
+## Cannabis and Parkinson's Disease
 
 Parkinson's disease (PD) is a progressive neurodegenerative disorder
 characterized by the loss of dopaminergic neurons in the substantia nigra,

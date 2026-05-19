@@ -16,7 +16,7 @@ sources:
   - masanobu-fukuoka-fukuoka.md
 ---
 
-# Spider Ecosystem Drama in Rice Fields
+## Spider Ecosystem Drama in Rice Fields
 
 ## Overview
 

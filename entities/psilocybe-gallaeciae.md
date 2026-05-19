@@ -5,10 +5,10 @@ type: species
 tags: [psilocybe, bluing-species, european, mycology, galerina]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe gallaeciae
+## Psilocybe gallaeciae
 
 **Psilocybe gallaeciae** is a bluing [[psilocybin]] and [[psilocin]]: trace to 0.1% dry weight
 - [[psilocybe-semilanceata]] include:

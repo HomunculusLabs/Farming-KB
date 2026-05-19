@@ -10,7 +10,7 @@ topics:
 - consciousness-transformation
 ---
 
-# Neoshamanic Circle Participant Psychospiritual Backgrounds
+## Neoshamanic Circle Participant Psychospiritual Backgrounds
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Brugmansia aurea
+## Brugmansia aurea
 
 **Brugmansia aurea** is a species of flowering plant in the family **Solanaceae** (nightshade family), commonly known as **Angel's Trumpet**. It is the most widespread species of Brugmansia in the Andes and has been used as a hallucinogen by indigenous peoples for millennia.
 

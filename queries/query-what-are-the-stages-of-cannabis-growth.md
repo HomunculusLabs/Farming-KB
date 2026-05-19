@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Are the Stages of Cannabis Growth?
+## What Are the Stages of Cannabis Growth?
 
 ## Short Answer
 Cannabis progresses through four main growth stages: germination (3 to 10 days), seedling (2 to 3 weeks), vegetative (3 to 16 weeks depending on variety), and flowering (8 to 12 weeks).

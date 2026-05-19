@@ -8,7 +8,7 @@ sources:
   - uwe-blesching-the-cannabis-health-index.md
 ---
 
-# Mind-Body Medicine and the Endocannabinoid System
+## Mind-Body Medicine and the Endocannabinoid System
 
 The relationship between emotions, consciousness, and the
 [[endocannabinoid-system]] forms a central thesis of [[blesching-cannabis-health-index-autoimmune-conditions]]*. Blesching argues that molecules and

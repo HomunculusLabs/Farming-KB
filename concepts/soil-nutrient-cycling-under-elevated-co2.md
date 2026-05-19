@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Soil Nutrient Cycling Under Elevated CO₂
+## Soil Nutrient Cycling Under Elevated CO₂
 
 Elevated atmospheric CO₂ concentrations alter plant tissue chemistry, decomposition dynamics, and soil nutrient availability in ways that cascade through fungal communities and ecosystem processes. The effects are complex, often inconsistent, and depend on plant species, ecosystem type, and local soil conditions.
 

@@ -19,7 +19,7 @@ summary: >
 created: 2026-05-11
 ---
 
-# Fukuoka's Critique of Organic Farming as Self-Defeating
+## Fukuoka's Critique of Organic Farming as Self-Defeating
 
 ## Overview
 

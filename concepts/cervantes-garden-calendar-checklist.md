@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Garden Calendar and Checklist
+## Garden Calendar and Checklist
 
 A garden calendar helps growers know what to do and when to prepare to
 do it. A checklist adds necessary routine to the process. Jorge

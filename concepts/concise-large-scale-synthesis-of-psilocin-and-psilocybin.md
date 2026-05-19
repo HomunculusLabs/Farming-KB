@@ -4,7 +4,7 @@ source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamat
 type: concept
 ---
 
-# Concise Large-Scale Synthesis of Psilocin and Psilocybin
+## Concise Large-Scale Synthesis of Psilocin and Psilocybin
 
 Shirota, Hakamata, and Goda (2003) developed concise large-scale syntheses of [[psilocin]] and [[psilocybin]], the principal hallucinogenic constituents of "magic mushrooms," achieved **without chromatographic purification**. Published in the Journal of Natural Products.
 

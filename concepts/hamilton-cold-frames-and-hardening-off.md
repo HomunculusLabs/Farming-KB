@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cold Frames and Hardening Off Plants
+## Cold Frames and Hardening Off Plants
 
 [[geoff-hamilton]] advocated a layered approach to [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] and thermal mass
 to create favourable growing conditions without fuel inputs.

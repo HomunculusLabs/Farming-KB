@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Sand Dams and Clearwater Reservoirs
+## Sand Dams and Clearwater Reservoirs
 
 ## Overview
 

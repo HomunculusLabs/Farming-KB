@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Pattern Recognition and Time Stacking in Permaculture
+## Pattern Recognition and Time Stacking in Permaculture
 
 Pattern recognition and time stacking represent two of the most powerful conceptual frameworks in [[permaculture-design]]. Together, they enable designers to perceive the underlying order in natural systems and to compress productive functions into compact, highly efficient spatial and temporal arrangements. [[bill-mollison]] presents these ideas not merely as techniques but as fundamental ways of thinking about how energy, matter, and information flow through living systems.
 

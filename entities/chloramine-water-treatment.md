@@ -5,7 +5,7 @@ type: entity
 tags: [water-quality, chlorine, compost-tea, water-treatment, microbes]
 ---
 
-# Chloramine (Water Treatment)
+## Chloramine (Water Treatment)
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [windbreak, shelterbelt, wind-protection, tree-selection, microclimate, li
 created: 2026-05-11
 ---
 
-# Windbreak Design and Shelter in Permaculture
+## Windbreak Design and Shelter in Permaculture
 
 ## Why Windbreaks Matter
 

@@ -4,7 +4,7 @@ source: unknown-oyster-mushroom-cultivation.md
 topics: [oyster-mushroom, fruiting-chamber, humidity, temperature, fresh-air, pinning, harvest, pleurotus]
 ---
 
-# Oyster Mushroom Fruiting Chamber Environment and Conditions
+## Oyster Mushroom Fruiting Chamber Environment and Conditions
 
 ## From the Mushroom Growers' Handbook 1
 

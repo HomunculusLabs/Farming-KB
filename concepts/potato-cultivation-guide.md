@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [potato, cultivation, root-crops]
 ---
-# Potato Cultivation Guide
+## Potato Cultivation Guide
 **Updated:** 2026-05-09
 
 ## Overview

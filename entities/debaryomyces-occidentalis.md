@@ -5,7 +5,7 @@ type: entity
 tags: [yeast, ascomycete, soil-isolate, amylolytic, industrial]
 ---
 
-# Debaryomyces occidentalis
+## Debaryomyces occidentalis
 
 ## Description
 

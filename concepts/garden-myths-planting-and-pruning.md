@@ -7,7 +7,7 @@ sources: linda-chalker-scott-the-informed-gardener
 tags: [garden-myths, planting, pruning, trees, horticulture, debunking]
 ---
 
-# Garden Myths About Planting and Pruning
+## Garden Myths About Planting and Pruning
 
 Planting and pruning practices are rife with myths that have been repeated so often they achieve the status of accepted wisdom. Many of these practices originated as reasonable approximations that have since been superseded by horticultural research, or as misapplications of observations from one context to all situations.
 

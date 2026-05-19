@@ -5,7 +5,7 @@ author: David Holmgren
 topics: [permaculture, experiential-learning, observation, education, design, postmodern]
 ---
 
-# Principle 1 [[fukuoka-theory-principle-of-non-causality]] of permaculture — "Observe and Interact" — is commonly
+## Principle 1 [[fukuoka-theory-principle-of-non-causality]] of permaculture — "Observe and Interact" — is commonly
 understo [[permaculture-principle-observe-and-interact]] into a profoun [[holmgren-action-learning-loop]] as the primary mod [[ozier-pdc-maslows-hierarchy-sustainable-design]] gn [[permaculture-design]]
 - [[det]]
 - [[permaculture]]

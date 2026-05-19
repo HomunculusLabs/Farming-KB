@@ -23,7 +23,7 @@ sources:
   - https://www.sciencedirect.com/science/article/abs/pii/S0269749122001579
 ---
 
-# Biodynamic Farming vs Organic Farming
+## Biodynamic Farming vs Organic Farming
 
 ## Overview
 

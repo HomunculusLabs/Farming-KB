@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# PSK (Polysaccharide-K)
+## PSK (Polysaccharide-K)
 
 **Type:** Chemical Compound
 **Category:** Protein-bound polysaccharide (polysaccharopeptide)

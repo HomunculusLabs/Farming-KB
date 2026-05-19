@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Radiotropism and Chernobyl Fungal Communities
+## Radiotropism and Chernobyl Fungal Communities
 
 The Chernobyl nuclear disaster of 1986 created an unprecedented natural laboratory for studying fungal responses to intense ionizing radiation. Research over the following decades revealed remarkable fungal adaptations including radiotropism (directional growth toward radiation sources), melanin-mediated radiation protection, and the ability to decompose radioactive debris.
 

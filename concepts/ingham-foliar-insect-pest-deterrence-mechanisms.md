@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Foliar Insect Pest Deterrence Through AACT Mechanisms
+## Foliar Insect Pest Deterrence Through AACT Mechanisms
 
 One of the most consistently reported — yet least formally documented — effects of [[elaine-ingham]]'s field guide identifies four potential mechanisms by which AACT application deters insect feeding on plant foliage, while emphasizing the need for rigorous entomological study to formally document these observations.
 

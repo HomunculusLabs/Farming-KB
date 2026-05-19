@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, beginner, psilocybe, tek]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
+sources: ["raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"]
 type: concept
 ---
-# PF Tek The **PF Tek** (Psilocybe Fanaticus Technique) is a beginner-friendly method for cultivating [[spore-syringe]], and colonized at room
+## PF Tek The **PF Tek** (Psilocybe Fanaticus Technique) is a beginner-friendly method for cultivating [[spore-syringe]], and colonized at room
 temperature. Once fully colonized, the substrate "cakes" are birthed from the
 jars and placed in a [[cultivator-sterile-technique-and-agar-culture]] and
 mycelial biology.

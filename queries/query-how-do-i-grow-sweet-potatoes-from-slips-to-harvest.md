@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# How Do I Grow Sweet Potatoes from Slips to Harvest?
+## How Do I Grow Sweet Potatoes from Slips to Harvest?
 
 ## Short Answer
 

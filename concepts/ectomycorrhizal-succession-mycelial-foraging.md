@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Succession and Mycelial Foraging Strategies
+## Ectomycorrhizal Succession and Mycelial Foraging Strategies
 
 ## Overview
 

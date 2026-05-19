@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Money, Finance, and Asset Categories in Permaculture
+## Money, Finance, and Asset Categories in Permaculture
 
 [[bill-mollison]]'s treatment of money and finance in [[permaculture]] is fundamentally a critique of how modern societies confuse financial abstraction with real wealth, paired with a practical framework for understanding and organizing assets within bioregional economies. His analysis moves from the anthropological origins of exchange systems through the pathology of fiat currency to a categorized model of asset types that can guide community [[homestead-financial-planning]].
 

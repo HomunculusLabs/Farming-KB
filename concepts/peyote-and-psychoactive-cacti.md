@@ -9,7 +9,7 @@ sources:
   - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-# Peyote and Psychoactive Cacti
+## Peyote and Psychoactive Cacti
 
 ## Overview
 

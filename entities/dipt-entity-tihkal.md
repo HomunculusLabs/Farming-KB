@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# DIPT (N,N-Diisopropyltryptamine)
+## DIPT (N,N-Diisopropyltryptamine)
 
 TIHKAL entry #4. One of the most unusual compounds in all of psychopharmacology -- a psychedelic drug that affects primarily the auditory system rather than the visual system. Most psychedelic drugs affect the visual sense, but DIPT shows its effects primarily in the auditory system. It produces a distinctive, nonlinear pitch distortion where all frequencies shift downward but harmonic relationships are destroyed, rendering music completely disharmonious while single tones sound normal. The distortion is not a simple decrease in pitch as if slowing a record; actual proportionality is lost, producing complete harmonic distortion.
 

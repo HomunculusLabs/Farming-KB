@@ -8,7 +8,7 @@ sources:
   - raw/papers/amanita-muscaria-herb-of-immortality.md
 ---
 
-# Amanita Muscaria Preparation Methods
+## Amanita Muscaria Preparation Methods
 
 ## Overview
 

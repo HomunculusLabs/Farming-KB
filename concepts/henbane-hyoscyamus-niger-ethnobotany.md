@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - raw/papers/the-permaculture-handbook-peter-bane.md
 ---
-# Henbane (Hyoscyamus niger): Ethnobotany and Cultural History
+## Henbane (Hyoscyamus niger): Ethnobotany and Cultural History
 
 Henbane (Hyoscyamus niger) is a toxic but pharmacologically important plant that has played a significant role in European medicine, magic, and folklore for over two millennia. A member of the nightshade family (Solanaceae), henbane was one of the principal ingredients in medieval witches' brews and continues to be valued in modern pharmacology for its tropane alkaloids.
 

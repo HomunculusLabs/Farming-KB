@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# Hashish Preparation and Cannabis Consumption Methods
+## Hashish Preparation and Cannabis Consumption Methods
 
 In *[[cannabis-alchemy-book]]*, [[ben-lemon]] details practical techniques for converting cannabis extracts into traditional hashish forms, potentiating raw plant material, and delivering concentrated cannabinoids through various consumption methods. These methods draw on historical practices from Morocco, Lebanon, Nepal, and India while incorporating modern [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] matters less than with traditional methods since potency is primarily determined by the added oil.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [homesteading, animal-husbandry, equipment]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
-# Chicken Coops, Tractors, and Breeding Guide
+## Chicken Coops, Tractors, and Breeding Guide
 
 Updated: 2026-04-18
 Source: Sheri Faires, The Ultimate Guide to [[natural-farming-sustainable-living-principles]]

@@ -6,7 +6,7 @@ source: biodiversity-of-fungi.md
 created: 2026-05-11
 ---
 
-# Estimating Fungal Biodiversity: Methods and Challenges
+## Estimating Fungal Biodiversity: Methods and Challenges
 
 ## Overview
 

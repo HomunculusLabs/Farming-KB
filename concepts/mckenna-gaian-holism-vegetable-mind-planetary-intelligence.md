@@ -5,7 +5,7 @@ source_id: mckenna-food-of-the-gods
 topics: [gaia-hypothesis, plant-intelligence, holism, consciousness, partnership-culture, ecological-philosophy, shamanism]
 ---
 
-# McKenna's Gaian Holism and the Vegetable Mind
+## McKenna's Gaian Holism and the Vegetable Mind
 
 ## Beyond Mechanistic Biology
 

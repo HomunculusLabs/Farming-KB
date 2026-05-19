@@ -10,7 +10,7 @@ updated: 2026-04-28
 sources: []
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
-# Pluteus glaucus
+## Pluteus glaucus
 
 Pluteus glaucus is a [[comparison-spore-print-collection-vs-spore-syringe-production]], characteristics that separate it from most
 other genera containing psychoactive species. P. glaucus

@@ -8,7 +8,7 @@ type: concept
 tags: [minerals, plants]
 ---
 
-# Dynamic Accumulator Plants — Trace Minerals
+## Dynamic Accumulator Plants — Trace Minerals
 
 Trace minerals — also called micronutrients — are required by plants in small quantities but are essential for healthy growth, enzyme function, and disease resistance. These include iron (Fe), manganese (Mn), zinc (Zn), copper (Cu), boron (B), sulfur (S), and others. Dynamic accumulator plants can concentrate trace minerals in their tissues far beyond what is available in surrounding soil, making them valuable tools for cycling micronutrients back into the root zone.
 

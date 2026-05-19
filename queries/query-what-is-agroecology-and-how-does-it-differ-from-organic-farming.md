@@ -16,7 +16,7 @@ sources:
   - The Organic Farming Manual by Nicolas Lampkin
 ---
 
-# What is Agroecology and How Does It Differ from Organic Farming?
+## What is Agroecology and How Does It Differ from Organic Farming?
 
 ## The Short Answer
 

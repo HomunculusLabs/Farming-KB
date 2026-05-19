@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Bone Cancer
+## Cannabis and Bone Cancer
 
 Bone cancer is a relatively rare but devastating form of cancer in which malignant cells proliferate within bone tissue, eventually forming tumors that compromise structural integrity and cause severe pain. The [[cannabis-cancer-pain-research]] and bone preservation.
 

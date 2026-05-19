@@ -22,7 +22,7 @@ sources:
 - raw/papers/permaculture-one-bill-mollison-david-holmgren.md
 ---
 
-# David Holmgren
+## David Holmgren
 
 ## Overview
 

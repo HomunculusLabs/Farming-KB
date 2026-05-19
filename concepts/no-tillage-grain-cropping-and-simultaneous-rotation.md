@@ -4,7 +4,7 @@ source: bill-[[mollison-permaculture-two-no-tillage-grain-cropping|mollison]]-pe
 type: concept
 ---
 
-# No-Tillage Grain Cropping and Simultaneous Rotation
+## No-Tillage Grain Cropping and Simultaneous Rotation
 
 No-tillage grain cropping eliminates ploughing by using continuous mulch cover and combining the traditional rotation sequence (legume/grain/root crop/pasture/fallow/legume) into a single grain/legume mixed crop. Mollison credits [[masanobu-fukuoka]]'s "The One-Straw Revolution" as the system that solved the problem of including grain and legume crops in permaculture without tractor or machinery.
 

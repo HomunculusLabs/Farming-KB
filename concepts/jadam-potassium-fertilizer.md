@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Potassium Liquid Fertilizer
+## JADAM Potassium Liquid Fertilizer
 
 Potassium (K) controls osmotic pressure in cells and activates enzymes for
 respiration and photosynthesis. JADAM provides three methods for potassium JLF:

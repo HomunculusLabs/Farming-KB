@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Marketing Local Winter Produce
+## Marketing Local Winter Produce
 
 Marketing high-quality local winter vegetables requires distinguishing small-farm produce from both conventional and industrial organic alternatives. [[eliot-coleman]]'s approach centers on the concepts of **freshness** and **local identity** as the key selling points that command premium prices and build loyal customer relationships.
 

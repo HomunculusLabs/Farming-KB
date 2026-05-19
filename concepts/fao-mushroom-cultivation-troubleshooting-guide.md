@@ -1,4 +1,8 @@
-# Mushroom Cultivation Troubleshooting Guide
+---
+title: "Mushroom Cultivation Troubleshooting Guide"
+tags:
+  - concept
+---
 ## FAO Training Manual (2001) — Problem Diagnosis and Solutions
 
 The FAO's 2001 training manual includes a comprehensive troubleshooting reference for

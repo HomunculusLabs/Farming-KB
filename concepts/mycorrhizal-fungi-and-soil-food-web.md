@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Mycorrhizal Fungi and the Whole Soil Food Web
+## Mycorrhizal Fungi and the Whole Soil Food Web
 
 ## Terminology: Getting the Words Right
 

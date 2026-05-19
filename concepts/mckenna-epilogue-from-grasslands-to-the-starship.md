@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Epilogue: From the Grasslands to the Starship
+## Epilogue: From the Grasslands to the Starship
 
 The epilogue of Food of the Gods represents McKenna's most expansive and visionary statement, weaving together the historical, scientific, and
 philosophical threads of the entire work into a

@@ -2,7 +2,7 @@
 title: cannabis-sativa-vs-indica-guide — The Classification Debate
 created: 2026-05-08
 sources:
-  - path: /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+  - path: raw/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
     title: blesching-cannabis-sativa-indica-classification Vol. 3 - The Essential Guide
     author: S.T. Oner, The Rev
 updated: 2026-05-08
@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Sativa vs Indica — The Classification Debate
+## Sativa vs Indica — The Classification Debate
 
 ## The Traditional Dichotomy
 

@@ -12,7 +12,7 @@ sources:
 - raw/papers/chos-global-natural-farming.md
 ---
 
-# Organic Farming History
+## Organic Farming History
 
 From traditional agriculture through the chemical revolution
 to the organic, natural farming, and regenerative movements.

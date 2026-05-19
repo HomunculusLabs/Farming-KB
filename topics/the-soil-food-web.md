@@ -22,7 +22,7 @@ related_concepts:
   - aact-nematode-protozoa-management-ingham
 ---
 
-# The Soil Food Web
+## The Soil Food Web
 
 The soil food web is the complex community of organisms living in soil that
 interact with each other and with plants, organic matter, and the mineral
@@ -116,12 +116,12 @@ fungal biomass. Predatory nematodes feed on other nematodes and small
 
 ## Fungal Biomass Soil Measurement
 
-# Fungal Biomass in Soil: Measurement and Significance Fungal biomass in soil represents a major pool of organic carbon and nutrients that plays central roles in fungal-decomposition|decomposition, nutrient cycling, and [[soil-food-web-nutrient-cycling]] dynamics. The quantification of fungal biomass is essential for understanding the contribution of fungi to ecosystem processes, yet measuring fungal biomass in complex soil matrices presents significant methodological challenges. Different measurement approaches yield different estimates, and the choice of method influences the interpretation of fungal contributions to ecosystem function. ## Methods of Measurement Several methods are used to estimate fungal biomass in soil, each with distinct advantages and limitations. Direct microscopy involves extracting fungal hyphae from soil and measuring hyphal length under a microscope. ...
+## Fungal Biomass in Soil: Measurement and Significance Fungal biomass in soil represents a major pool of organic carbon and nutrients that plays central roles in fungal-decomposition|decomposition, nutrient cycling, and [[soil-food-web-nutrient-cycling]] dynamics. The quantification of fungal biomass is essential for understanding the contribution of fungi to ecosystem processes, yet measuring fungal biomass in complex soil matrices presents significant methodological challenges. Different measurement approaches yield different estimates, and the choice of method influences the interpretation of fungal contributions to ecosystem function. ## Methods of Measurement Several methods are used to estimate fungal biomass in soil, each with distinct advantages and limitations. Direct microscopy involves extracting fungal hyphae from soil and measuring hyphal length under a microscope. ...
 
 ## Fungal Ecology Forest Floor
 
-# Fungal Ecology on the Forest Floor Fungi are the primary decomposers in forest ecosystems, playing an indispensable role in nutrient cycling, soil formation, and plant community dynamics. The forest floor is, in many ways, a fungal landscape. ## The Role of Fungi in Decomposition Fungi are non-photosynthetic organisms whose primary ecological role is decomposition. They are one organism in a succession of microbes that break down dead organic matter. Without fungi, forests would suffocate under mountains of un-decomposed woody debris. ...
+## Fungal Ecology on the Forest Floor Fungi are the primary decomposers in forest ecosystems, playing an indispensable role in nutrient cycling, soil formation, and plant community dynamics. The forest floor is, in many ways, a fungal landscape. ## The Role of Fungi in Decomposition Fungi are non-photosynthetic organisms whose primary ecological role is decomposition. They are one organism in a succession of microbes that break down dead organic matter. Without fungi, forests would suffocate under mountains of un-decomposed woody debris. ...
 
 ## Mycorrhiza and the Terrestrial Carbon Cycle
 
-# Mycorrhiza and the Terrestrial Carbon Cycle Mycorrhizal fungi are among the most significant biological drivers of the terrestrial carbon cycle. Over 80% of plant species invest substantial amounts of photosynthetically-fixed carbon into these fungal symbionts. At the global scale, the annual carbon flux through soil respiration is ten times greater than fossil fuel combustion and recycles approximately 10% of atmospheric CO₂. Roots and their associated mycorrhizas are the single most important component of this flux. ## Three Major Mycorrhizal Types and Their Biomes The major biomes are dominated by plants with one of three kinds of mycorrhiza, each adapted to particular vegetation and soil characteristics. ...
+## Mycorrhiza and the Terrestrial Carbon Cycle Mycorrhizal fungi are among the most significant biological drivers of the terrestrial carbon cycle. Over 80% of plant species invest substantial amounts of photosynthetically-fixed carbon into these fungal symbionts. At the global scale, the annual carbon flux through soil respiration is ten times greater than fossil fuel combustion and recycles approximately 10% of atmospheric CO₂. Roots and their associated mycorrhizas are the single most important component of this flux. ## Three Major Mycorrhizal Types and Their Biomes The major biomes are dominated by plants with one of three kinds of mycorrhiza, each adapted to particular vegetation and soil characteristics. ...

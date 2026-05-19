@@ -1,4 +1,8 @@
-# Legume Nitrogen Fixation and Green Manure
+---
+title: "Legume Nitrogen Fixation and Green Manure"
+tags:
+  - concept
+---
 
 Legumes are among the most important plants in sustainable agriculture because of their unique ability to fix atmospheric nitrogen through symbiotic relationships with rhizobia bacteria.
 

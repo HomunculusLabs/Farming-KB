@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Do Nothing Movement: Spiritual Foundation of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] breaks away from nature with the expansion of human wants and desires. It is divergent, expanding outward. The centripetal force of natural farming converges toward nature, returning to the source. Because this outward expansion of scientific civilization cannot be stopped, Fukuoka argues it is doomed to extinction. The addition of new technology only makes it more complex and diversified, generating ever-increasing expense and labor.
+## Do Nothing Movement: Spiritual Foundation of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] breaks away from nature with the expansion of human wants and desires. It is divergent, expanding outward. The centripetal force of natural farming converges toward nature, returning to the source. Because this outward expansion of scientific civilization cannot be stopped, Fukuoka argues it is doomed to extinction. The addition of new technology only makes it more complex and diversified, generating ever-increasing expense and labor.
 
 ## Non-Action as the Ultimate Goal
 

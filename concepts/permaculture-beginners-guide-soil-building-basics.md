@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, soil, soil-building, ecology, erosion, burnett, broadscale]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-# Permaculture Beginners Guide — Soil Building Basics faires-hugelkultur-and-soil-building, [[query-how-do-i-create-microclimates-in-my-garden]]
+## Permaculture Beginners Guide — Soil Building Basics faires-hugelkultur-and-soil-building, [[query-how-do-i-create-microclimates-in-my-garden]]
 - Removal of trees eliminates the soil-building role of deep-rooted perennial systems
 - [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Pesticides kill beneficial soil organisms essential to soil health

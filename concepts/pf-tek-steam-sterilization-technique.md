@@ -8,7 +8,7 @@ sources:
   - "raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
 type: concept
 ---
-# PF TEK Steam Sterilization Technique
+## PF TEK Steam Sterilization Technique
 The PF TEK steam sterilization technique allows home cultivators to sterilize
 substrate jars using ordinary kitchen cookware, without the need for a pressure
 canner. This technique is part of the broader [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier already

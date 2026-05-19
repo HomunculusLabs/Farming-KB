@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Climatic Zones and Classification Systems
+## Climatic Zones and Classification Systems
 
 Climate is the primary determinant of species selection and technology choice in [[permaculture-plant-selection]].
 

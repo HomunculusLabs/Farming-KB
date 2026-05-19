@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: Natural Farming as Spiritual Light
+## Fukuoka: Natural Farming as Spiritual Light
 
 ## The Moment of Realization
 

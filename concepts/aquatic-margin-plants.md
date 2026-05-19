@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquatic Margin Plants
+## Aquatic Margin Plants
 
 Marginal aquatic plants occupy the critical transition zone between water and land.
 In [[permaculture-design]], they serve multiple [[plant-micronutrients-and-their-essential-functions]]: stabilizing banks,

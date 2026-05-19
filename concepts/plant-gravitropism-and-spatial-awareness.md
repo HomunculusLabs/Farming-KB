@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [plant-biology, gravitropism, spatial-awareness, auxin]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
+sources: ["raw/papers/grahamholmes-what-a-plant-knowsindd.md"]
 type: concept
 ---
 
-# plant gravitropism and spatial awareness
+## plant gravitropism and spatial awareness
 
 Chapter 5 of *What a Plant Knows* examines how plants perceive and respond to
 gravity, enabling them to orient themselves correctly in space. A plant's

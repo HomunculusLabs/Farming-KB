@@ -14,7 +14,7 @@ sources:
   - "raw/papers/symbiotic-fungi.md"
 ---
 
-# Serpula lacrymans
+## Serpula lacrymans
 
 ## Overview
 

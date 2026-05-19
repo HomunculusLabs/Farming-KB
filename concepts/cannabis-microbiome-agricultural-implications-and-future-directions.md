@@ -6,7 +6,7 @@ tags: [microbiology, cannabis, agriculture, microbiome-management, future-resear
 created: 2026-05-09
 ---
 
-# Cannabis Microbiome Agricultural Implications and Future Directions
+## Cannabis Microbiome Agricultural Implications and Future Directions
 
 ## Overview
 

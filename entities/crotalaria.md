@@ -5,7 +5,7 @@ type: entity
 tags: [legume, nitrogen-fixer, green-manure, companion-plant, permaculture]
 ---
 
-# Crotalaria
+## Crotalaria
 
 ## Description
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Trichoderma koningii
+## Trichoderma koningii
 
 ## Taxonomy
 

@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Mu Economics and Natural Economy
+## Fukuoka Mu Economics and Natural Economy
 
 [[masanobu-fukuoka]]'s concept of **Mu economics** is a radical reconception of economic life rooted in the philosophy [[query-how-do-clay-seed-balls-work-for-natural-farming]] to be understood on its own terms:
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Humid Climate Characteristics
+## Cool Humid Climate Characteristics
 
 Cool humid climates, classified as mesothermal regions, encompass some of the most productive agricultural and ecological zones on Earth. These regions span the mid-latitudes of both hemispheres, including much of Europe, northern and eastern North America, southern South America, southeastern Australia, New Zealand, and the Andean slopes. They are characterized by seasonal temperature variation with cold winters and moderate summers, abundant year-round precipitation, and diverse biological productivity.
 

@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Jivaro Shamanism and Natem
+## Jivaro Shamanism and Natem
 
 The Jivaro Indians of the Ecuadorian Amazon maintain one of the most vividly documented shamanistic traditions in the ethnographic literature, centered on the use of a hallucinogenic brew called **natem** (or *natemd*). As described by anthropologist Michael J. Harner, the Jivaro worldview holds that normal waking life is simply a "lie" or illusion, while the true forces determining daily events are supernatural and can only be perceived through [[trans-cultural-hallucinogenic-experience-biochemical-reinforcement]].
 

@@ -10,7 +10,7 @@ sources:
   - concepts/faires-pigeon-quail-and-waterfowl-systems.md
 ---
 
-# Quail Husbandry and Egg Production
+## Quail Husbandry and Egg Production
 
 Coturnix quail (*Coturnix japonica*) are the most productive
 micro-livestock available to small-scale farmers, homesteaders, and

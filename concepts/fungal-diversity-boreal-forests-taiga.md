@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Boreal Forests and Taiga Boreal forests and taiga represent vast but poorly sampled ecosystems for fungal diversity. Characterized by cold climates, permafrost, and conifer-dominated vegetation, these forests harbor distinctive fungal assemblages adapted to harsh conditions. [[psychrophilic-fungi]] [[soil-food-web-nutrient-cycling]] [[fungal-sampling-methods]]
+## Fungal Diversity in Boreal Forests and Taiga Boreal forests and taiga represent vast but poorly sampled ecosystems for fungal diversity. Characterized by cold climates, permafrost, and conifer-dominated vegetation, these forests harbor distinctive fungal assemblages adapted to harsh conditions. [[psychrophilic-fungi]] [[soil-food-web-nutrient-cycling]] [[fungal-sampling-methods]]
 
 ## Psychrotolerance vs Psychrophily
 

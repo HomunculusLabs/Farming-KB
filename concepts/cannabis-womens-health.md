@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Women's Health
+## Cannabis for Women's Health
 
 The endocannabinoid system plays a significant role in female reproductive health. CB1 receptors are found throughout the female reproductive system, and the endocannabinoid system contributes to uterine function and dysfunction. Cannabis has historical and emerging clinical applications across multiple women's health conditions.
 

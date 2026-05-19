@@ -5,7 +5,7 @@ type: entity
 tags: [tool, soil-science, classification, color-standard]
 ---
 
-# Munsell Color Chart
+## Munsell Color Chart
 
 ## Description
 

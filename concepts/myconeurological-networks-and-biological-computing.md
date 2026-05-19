@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Myconeurological Networks and Biological Computing
+## Myconeurological Networks and Biological Computing
 
 The concept of myconeurological networks proposes that mycelial webs, the
 vegetative body of fungi, function as biological information-processing

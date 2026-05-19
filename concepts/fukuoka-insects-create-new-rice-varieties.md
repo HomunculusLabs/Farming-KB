@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Insects Also Create New Varieties of Rice
+## Insects Also Create New Varieties of Rice
 
 In *The Road Back to Nature*, [[fukuoka-reviving-ancestral-strains]] already contain the genetic diversity that breeding programs seek to create
 

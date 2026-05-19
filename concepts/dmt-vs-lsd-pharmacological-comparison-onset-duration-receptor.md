@@ -5,7 +5,7 @@ tags: [pharmacology, tryptamines, DMT, LSD, psychedelics, consciousness, recepto
 date: 2026-05-08
 ---
 
-# DMT vs LSD: Pharmacological Comparison of Onset, Duration, and Receptor Dynamics
+## DMT vs LSD: Pharmacological Comparison of Onset, Duration, and Receptor Dynamics
 
 ## Overview
 

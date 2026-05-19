@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# What Are Rust Fungi and How Do I Manage Them Organically?
+## What Are Rust Fungi and How Do I Manage Them Organically?
 
 ## Short Answer
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Menopause Symptom Management
+## Cannabis and Menopause Symptom Management
 
 **Source:** The [[cannabis-chronic-pain-management]] and insomnia (CHI Values: pain 23, insomnia 22-26), both common menopausal symptoms.
 - **Anxiety and depression:** Cannabis studies show CHI Values of 23 for both conditions, frequently co-occurring with menopause.

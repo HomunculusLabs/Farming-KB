@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Nitrogen Transfer Through Common Mycorrhizal Networks
+## Nitrogen Transfer Through Common Mycorrhizal Networks
 
 Common mycorrhizal networks (CMNs) -- hyphal connections linking the roots of multiple plants through shared [[mycelial-network-resource-sharing-plants]]. Nitrogen, as a frequently limiting nutrient in terrestrial ecosystems, is a key currency in these inter-plant exchanges. The [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 

@@ -9,7 +9,7 @@ type: concept
 tags: [reference]
 ---
 
-# Holmgren Beyond Sustainability
+## Holmgren Beyond Sustainability
 
 The central argument of Holmgren's "Permaculture: Principles and Pathways Beyond Sustainability" challenges the very concept of sustainability as commonly understood, arguing that accepting the reality of energy descent requires moving beyond naive notions of maintaining current civilisation. This reframing is Holmgren's primary contribution to the holmgren-ethical-philosophical-framework: beliefs and values that developed with a rising energy base are likely to be dysfunctional -- even destructive -- in a world of limited and declining energy. The concept of sustainability itself may be such a belief -- a product of the energy-rich era that will not serve us well in energy descent.
 

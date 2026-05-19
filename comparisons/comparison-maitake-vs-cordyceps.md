@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Maitake vs Cordyceps
+## Maitake vs Cordyceps
 
 ## Overview
 

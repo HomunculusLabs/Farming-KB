@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Chinese Tallow Tree
+## Chinese Tallow Tree
 
 **Type:** Species (Plant)
 **Category:** Multipurpose deciduous tree

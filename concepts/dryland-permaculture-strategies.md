@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Permaculture Strategies
+## Dryland Permaculture Strategies
 
 Dryland permaculture encompasses a diverse toolkit of earthworks, water harvesting, biological management, and settlement design techniques developed for arid and semi-arid environments. These strategies prioritize water conservation, soil building, and the creation of microclimates that enable productive systems in regions with limited and unpredictable rainfall.
 

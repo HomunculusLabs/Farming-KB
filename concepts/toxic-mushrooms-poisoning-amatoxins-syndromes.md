@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Toxic Mushrooms and Mushroom Poisoning
+## Toxic Mushrooms and Mushroom Poisoning
 
 Mushroom poisoning is a serious and potentially fatal consequence of
 consuming toxic fungi. Of the thousands of mushroom species known worldwide,

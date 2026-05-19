@@ -6,7 +6,7 @@ type: comparison
 tags: [mycology, mushrooms, cultivation, comparison]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
-# Mushroom Growing Methods Comparison
+## Mushroom Growing Methods Comparison
 
 Choosing the right cultivation method depends on your experience level,
 available space, budget, target species, and yield goals. This comparison

@@ -8,7 +8,7 @@ tags: [gardening, harvest, root-vegetables, storage, organic-gardening]
 sources:
   - "raw/papers/purdue-home-gardeners-guide.md"
 ---
-# Root Crop Harvest and Storage
+## Root Crop Harvest and Storage
 
 Detailed [[growing-root-vegetables-guide]]
 in the [[permaculture-plants-root-crops-and-tubers]]

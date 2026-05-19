@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Beneficial Insects vs Integrated Pest Management
+## Beneficial Insects vs Integrated Pest Management
 
 ## Overview
 Beneficial insects are [[integrated-pest-management]]

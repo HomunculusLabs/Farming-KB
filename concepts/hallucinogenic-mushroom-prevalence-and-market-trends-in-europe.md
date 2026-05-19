@@ -4,7 +4,7 @@ source: carolina-mushrooms_08qxp.md
 type: concept
 ---
 
-# Hallucinogenic Mushroom Prevalence and Market Trends in Europe
+## Hallucinogenic Mushroom Prevalence and Market Trends in Europe
 
 This concept examines the EMCDDA's 2006 case study on [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] as an emerging drug trend in [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]], covering prevalence data, market dynamics, and the regulatory context.
 

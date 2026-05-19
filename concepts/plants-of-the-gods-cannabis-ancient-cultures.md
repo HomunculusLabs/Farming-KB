@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis in Ancient Cultures
+## Cannabis in Ancient Cultures
 
 ## Overview
 

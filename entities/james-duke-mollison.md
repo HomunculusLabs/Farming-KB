@@ -5,7 +5,7 @@ type: entity
 tags: [person, botanist, plant-compendia, permaculture, ethnobotany]
 ---
 
-# James Duke
+## James Duke
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Gymnopilus validipes
+## Gymnopilus validipes
 
 **Type:** Species (Fungus)
 **Category:** [[gymnopilus-spectabilis-entity]].

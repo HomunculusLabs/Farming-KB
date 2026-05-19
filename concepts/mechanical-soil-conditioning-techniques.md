@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mechanical Soil Conditioning Techniques
+## Mechanical Soil Conditioning Techniques
 
 [[geoff-wallace]] developed a particularly effective soil conditioner. A circular coulter first slits the ground — the soil must be neither too dry nor too wet for this to work properly. The slit is then followed by a steel shoe that opens the ground to form an air pocket without turning the soil over. Seed can be dropped in the thin furrows created by this process, and crops such as beans or corn seeded in this way grow through the existing grass cover without any fertiliser or top-dressing. The beneficial effect comes entirely from the entrapped air beneath the earth surface and the follow-up work of soil organisms and plant roots on the reopened soil.
 

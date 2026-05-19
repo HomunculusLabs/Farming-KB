@@ -6,7 +6,7 @@ chapter: 8 - Twilight in Eden
 tags: [mckenna, minoan, crete, eleusinian, kykeon, ergot, dionysus, psychedelic]
 ---
 
-# Minoan Crete and the Eleusinian Mystery
+## Minoan Crete and the Eleusinian Mystery
 
 In Chapter 8 of *Food of the Gods*, McKenna examines two of the
 most important examples of psychedelic plant use in ancient

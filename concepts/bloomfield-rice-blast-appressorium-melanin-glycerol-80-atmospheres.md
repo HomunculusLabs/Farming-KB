@@ -1,4 +1,8 @@
-# Rice Blast Appressorium Mechanics: Melanin, Glycerol, and 80 Atmospheres
+---
+title: "Rice Blast Appressorium Mechanics: Melanin, Glycerol, and 80 Atmospheres"
+tags:
+  - concept
+---
 
 ## Overview
 The [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]] (also known as Magnaporthe oryzae) employs
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
-- [[bloomfield-potato-blight-irish-famine-phytophthora-epidemiology]]

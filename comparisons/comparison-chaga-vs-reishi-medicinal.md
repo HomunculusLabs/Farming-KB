@@ -13,7 +13,7 @@ sources: []
 type: comparison
 ---
 
-# Chaga vs Reishi Medicinal Profile
+## Chaga vs Reishi Medicinal Profile
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Pine Needle Litter Decomposition and Fungal Succession
+## Pine Needle Litter Decomposition and Fungal Succession
 
 The decomposition of conifer needles represents one of the most studied
 systems for understanding fungal succession on plant litter. Pine needles,

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Causes Nutrient Lockout in Cannabis?
+## What Causes Nutrient Lockout in Cannabis?
 
 ## Short Answer
 

@@ -11,14 +11,12 @@ tags:
   ]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md,
+  "]
 type: concept
 ---
 
-# Growing Mushrooms in the Dwelling House
+## Growing Mushrooms in the Dwelling House
 
 The cellar of a dwelling house is a capital place for
 mushroom beds, and can be used in whole or part for

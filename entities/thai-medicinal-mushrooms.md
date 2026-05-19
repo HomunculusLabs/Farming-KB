@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, medicinal-mushrooms, Thai-traditional-medicine, health-properties]
 ---
 
-# Thai Medicinal Mushrooms (Traditional Health Properties)
+## Thai Medicinal Mushrooms (Traditional Health Properties)
 
 ## Description
 

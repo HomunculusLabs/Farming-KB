@@ -7,7 +7,7 @@ tags: [ethnobotany, psychopharmacology, consciousness, religion, culture, medici
 sources: []
 ---
 
-# Tabernanthe iboga
+## Tabernanthe iboga
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [compost, fungi, soil-food-web, amendment]
 ---
 
-# Fungal Compost
+## Fungal Compost
 
 ## Description
 

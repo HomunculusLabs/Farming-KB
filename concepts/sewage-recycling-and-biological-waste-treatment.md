@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Sewage Recycling and Biological Waste Treatment
+## Sewage Recycling and Biological Waste Treatment
 
 Biological treatment of sewage and organic wastes converts pollutants into productive resources through integrated aquatic and terrestrial systems. Mollison argues that sewage treatment is "the province of the biologist" rather than the technologist, and that all organic wastes can be productively redirected to food production.
 

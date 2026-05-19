@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Periodontitis
+## Cannabis and Periodontitis
 
 ## Overview
 

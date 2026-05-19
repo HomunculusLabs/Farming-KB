@@ -1,4 +1,8 @@
-# Compost Tumbler Critique and Turning Frequency Effects on Compost Quality
+---
+title: "Compost Tumbler Critique and Turning Frequency Effects on Compost Quality"
+tags:
+  - concept
+---
 
 ## Source
 - **Book:** Gardening When It Counts: Growing Food [[steve-solomon]] (2005)
@@ -144,6 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

@@ -7,7 +7,7 @@ tags: [homesteading, homestead-crafts, recipe, processing]
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
-# Maple Syrup Production
+## Maple Syrup Production
 
 Maple syrup is made by boiling down the sap of sugar maple trees (Acer saccharum) into concentrated syrup. It requires specific weather conditions (freezing nights and thawing days), some basic equipment, and patience. A rewarding late-winter homestead activity that produces a valuable and delicious product. Drawn from [[nicole-faires]]' comprehensive manual.
 

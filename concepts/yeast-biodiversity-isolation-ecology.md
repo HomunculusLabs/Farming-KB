@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Yeast Biodiversity — Isolation, Ecology, and Global Distribution
+## Yeast Biodiversity — Isolation, Ecology, and Global Distribution
 
 Yeasts are a polyphyletic group of predominantly unicellular fungi found in virtually every habitat on Earth. Their study requires specialized isolation and characterization methods distinct from those used for filamentous fungi.
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Non-Discriminating Knowledge and the Child's Intuitive Grasp of Nature
+## Non-Discriminating Knowledge and the Child's Intuitive Grasp of Nature
 
 Masanobu Fukuoka's philosophy of [[fukuoka-critique-scientific-agriculture-civilization]] and his justification for the "do-nothing"
 approach to farming.

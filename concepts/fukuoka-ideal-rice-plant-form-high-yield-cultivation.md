@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Ideal Rice Plant Form and High-Yield Cultivation
+## Fukuoka Ideal Rice Plant Form and High-Yield Cultivation
 
 [[cho-loess-powder-in-natural-farming]] produces
 inferior yields. Through decades of careful observation, he developed a detailed

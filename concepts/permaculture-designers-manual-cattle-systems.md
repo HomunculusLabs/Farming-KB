@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, animal-husbandry, livestock-health, permaculture]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Cattle Systems
+## Cattle Systems
 **Source:** Permaculture: A Designers' Manual, [[gadd-mycelial-network-resilience-grazing-pressure]]
 across the landscape.
 ## Shelter Effects on Cattle

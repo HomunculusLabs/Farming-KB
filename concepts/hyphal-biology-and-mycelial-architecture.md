@@ -1,4 +1,8 @@
-# Hyphal Biology and Mycelial Architecture
+---
+title: "Hyphal Biology and Mycelial Architecture"
+tags:
+  - concept
+---
 
 The hypha is the fundamental structural unit of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], cause disease, and construct
 some of the largest organisms on Earth.

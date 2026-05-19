@@ -7,7 +7,7 @@ tags: [mushroom-cultivation, cloning, strain-isolation, tissue-culture, agar, fu
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
-# Mushroom Cultivation - Cloning and Strain Isolation
+## Mushroom Cultivation - Cloning and Strain Isolation
 
 Mushroom cultures can be started from spores (multispore) or from living tissue (cloning). Each method has advantages and disadvantages. Spores offer genetic diversity while cloning preserves the exact genetics of a selected specimen.
 

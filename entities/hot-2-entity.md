@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# HOT-2 (2,5-Dimethoxy-4-ethylthio-N-hydroxyphenethylamine)
+## HOT-2 (2,5-Dimethoxy-4-ethylthio-N-hydroxyphenethylamine)
 
 HOT-2 is a phenethylamine compound and the N-hydroxylated derivative of [[hot-7-entity]] is the N-hydroxylated analogue of  share nearly identical dosage ranges, suggesting that the N-hydroxyl group does not dramatically alter the pharmacological profile.
 

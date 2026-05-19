@@ -6,15 +6,15 @@ tags: [query, bauhaus, design-history, architecture, modernism, industrial-desig
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/bauhaus-movement.md
-  - /Users/t3rpz/wiki/topics/bauhaus-movement.md
+  - raw/concepts/bauhaus-movement.md
+  - raw/topics/bauhaus-movement.md
 related_concepts:
   - bauhaus-movement
   - design-education
   - modernist-architecture
 type: query
 ---
-# What is the Bauhaus movement and why does it matter?
+## What is the Bauhaus movement and why does it matter?
 ## Short answer
 The Bauhaus was a German school of art, design, craft, and architecture founded in 1919.
 It matters because it changed how modern objects, buildings, graphics, and design schools were imagined.

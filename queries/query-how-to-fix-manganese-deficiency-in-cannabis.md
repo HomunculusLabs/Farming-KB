@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Fix Manganese Deficiency in Cannabis
+## How to Fix Manganese Deficiency in Cannabis
 
 ## Short Answer
 Manganese deficiency in cannabis causes interveinal chlorosis on younger leaves,

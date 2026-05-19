@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Amanitine Poisoning and Absorption Mechanisms
+## Amanitine Poisoning and Absorption Mechanisms
 
 ## Overview
 

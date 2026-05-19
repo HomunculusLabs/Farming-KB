@@ -7,7 +7,7 @@ tags: [equipment, mycology, reference]
 sources:
   - "Laminar Flow Hood Construction - Forister and Burger, UC Davis"
 ---
-# Laminar Flow Hood HEPA Filter Selection and Integration
+## Laminar Flow Hood HEPA Filter Selection and Integration
 
 The HEPA (High Efficiency Particulate Air) filter is the critical component that makes a [[hepa-filter-selection-and-testing]] lid
 3. Unscrew the enclosure or release clamping mechanism

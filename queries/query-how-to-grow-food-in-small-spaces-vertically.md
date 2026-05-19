@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Food in Small Spaces Vertically
+## How to Grow Food in Small Spaces Vertically
 
 ## Short Answer
 Vertical growing maximizes food production in small spaces by training plants

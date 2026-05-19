@@ -21,7 +21,7 @@ sources:
   - Wilson, E.O. (1992). The Diversity of Life. Harvard University Press. (context for Hobbs' biodiversity advocacy)
 ---
 
-# Jude Hobbs
+## Jude Hobbs
 
 Jude Hobbs is an American permaculture designer, educator, and ecological land-use consultant based in the Pacific Northwest (Cascadia bioregion). She is the founder and director of **Cascadia [[permaculture-institute]]** and has been teaching permaculture design courses (PDCs) since the early 1990s, making her one of the most experienced permaculture educators in [[pdc-water-harvesting-earthworks-design]], and wildlife habitat corridors.
 

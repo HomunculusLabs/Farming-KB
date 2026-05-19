@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Medicinal Mushroom Derived Polysaccharides and Immune Modulation
+## Medicinal Mushroom Derived Polysaccharides and Immune Modulation
 
 Mushroom-derived polysaccharides represent a class of immunomodulatory compounds that can activate multiple arms of the immune system without the toxicity associated with conventional cancer treatments. This concept explores their mechanisms of action, clinical applications, and the scientific evidence base.
 

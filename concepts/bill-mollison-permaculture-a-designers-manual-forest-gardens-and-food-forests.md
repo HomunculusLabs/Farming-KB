@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Forest Gardens and Food Forests The forest garden, or food forest, is the crown jewel of permaculture design. Bill Mollison drew heavily on the work of Robert Hart and traditional tropical agroforestry systems to develop the concept of a multi-layered perennial food production system modeled on the structure and function of natural forests. Food forests produce food, fuel, fiber, medicine, and habitat while requiring minimal external inputs once established. They represent the fullest expression of [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] to create self-sustaining food systems.
+## Forest Gardens and Food Forests The forest garden, or food forest, is the crown jewel of permaculture design. Bill Mollison drew heavily on the work of Robert Hart and traditional tropical agroforestry systems to develop the concept of a multi-layered perennial food production system modeled on the structure and function of natural forests. Food forests produce food, fuel, fiber, medicine, and habitat while requiring minimal external inputs once established. They represent the fullest expression of [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] to create self-sustaining food systems.
 
 ## The Seven Layers of a Food Forest
 

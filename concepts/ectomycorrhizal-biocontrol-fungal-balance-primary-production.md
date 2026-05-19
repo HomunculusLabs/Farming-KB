@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Biocontrol and Fungal Balance in Primary Production
+## Ectomycorrhizal Biocontrol and Fungal Balance in Primary Production
 
 ## Overview
 

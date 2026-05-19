@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Fungal Spawn and Mycelium Growth
+## Fungal Spawn and Mycelium Growth
 
 ## Overview
 

@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# How Do I Grow Strawberries in My Garden or Backyard?
+## How Do I Grow Strawberries in My Garden or Backyard?
 
 ## Short Answer
 

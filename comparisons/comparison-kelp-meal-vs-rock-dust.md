@@ -18,7 +18,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Kelp Meal vs Rock Dust
+## Kelp Meal vs Rock Dust
 
 ## Overview
 Kelp meal and rock dust are both broad-spectrum mineral amendments that

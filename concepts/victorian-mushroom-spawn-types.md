@@ -9,7 +9,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Victorian [[french-flake-spawn-vs-brick-spawn]]** (French spawn)
+## Victorian [[french-flake-spawn-vs-brick-spawn]]** (French spawn)
 - **Mill-track spawn** (natural spawn from horse paths)
 - **Virgin spawn** (wild spawn from fields and manure piles)
 

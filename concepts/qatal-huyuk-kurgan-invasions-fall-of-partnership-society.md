@@ -5,7 +5,7 @@ tags: [history, archaeology, partnership-society, dominator-culture, kurgan, cat
 created: 2026-05-09
 ---
 
-# Qatal Huyuk, the Kurgan Invasions, and the Fall of Partnership Society
+## Qatal Huyuk, the Kurgan Invasions, and the Fall of Partnership Society
 
 Qatal Huyuk (also Çatalhöyük) is a Neolithic settlement in central
 Anatolia (modern Turkey) that flourished from approximately 7400 to

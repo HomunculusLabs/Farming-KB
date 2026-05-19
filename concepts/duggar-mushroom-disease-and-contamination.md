@@ -9,7 +9,7 @@ tags: [mushroom, disease, pest, contamination, fumigation, Mycogone, insect, dug
 updated: 2026-04-26
 ---
 
-# Mushroom Disease and Contamination Control
+## Mushroom Disease and Contamination Control
 
 When the conditions are favorable and the surroundings sufficiently sanitary the grower is not likely to experience any great amount of difficulty in restraining the usual mushroom pests. It is necessary, however, to be constantly on the alert since several of the common pests are invariably present in untreated compost and these may at any time become a great nuisance or a cause of failure. The pests may be conveniently divided into two classes: insects and fungi.
 

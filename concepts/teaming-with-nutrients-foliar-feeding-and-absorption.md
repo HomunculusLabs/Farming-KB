@@ -12,7 +12,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# [[cervantes-vapor-pressure-deficit-transpiration]] pulls water molecule by molecule from soil through the plant. Root pressure provides the second mechanism, operating when higher dissolved ion concentrations inside root cells cause water to flow inward by osmosis to reach equilibrium.
+## [[cervantes-vapor-pressure-deficit-transpiration]] pulls water molecule by molecule from soil through the plant. Root pressure provides the second mechanism, operating when higher dissolved ion concentrations inside root cells cause water to flow inward by osmosis to reach equilibrium.
 
 ## Transport Pathways Inside the Plant
 

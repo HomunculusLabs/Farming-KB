@@ -1,4 +1,8 @@
-# Passive Humidity Fruiting Chamber: Simple Stackable Bin Design
+---
+title: "Passive Humidity Fruiting Chamber: Simple Stackable Bin Design"
+tags:
+  - concept
+---
 
 ## Overview
 

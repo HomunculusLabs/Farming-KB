@@ -6,7 +6,7 @@ type: concept
 tags: mycology, soil-biology, symbiosis]
 sources: []
 ---
-# Mycorrhizal Inoculum Reduction Techniques
+## Mycorrhizal Inoculum Reduction Techniques
 
 The ubiquitous presence of [[plant-nutrient-uptake-mechanisms]] attributed to experimental inoculation.
 

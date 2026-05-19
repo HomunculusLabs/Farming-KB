@@ -1,4 +1,8 @@
-# Psilocybin 5-HT2A [[psilocin]]** shows a balanced profile with both G protein and β-arrestin activation, but with a notable bias toward cortical plasticity-promoting pathways
+---
+title: "Psilocybin 5-HT2A psilocin** shows a balanced profile with both G protein and β-arrestin activation, but with a notable bias toward cortical plasticity-promoting pathways"
+tags:
+  - concept
+---
 - **[[lsd]]** demonstrates strong β-arrestin-2 recruitment and extremely long receptor residence time (several hours), contributing to its extended duration
 - **DOB and other phenethylamines** show stronger Gq coupling relative to β-arrestin
 

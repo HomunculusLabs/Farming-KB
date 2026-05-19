@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Manganese (Mn)
+## Cannabis Manganese (Mn)
 
 ## Overview
 

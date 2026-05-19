@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Build a Cob Oven for Outdoor Cooking
+## How to Build a Cob Oven for Outdoor Cooking
 
 ## Short Answer
 

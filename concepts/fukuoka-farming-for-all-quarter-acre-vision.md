@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Farming for All and the Quarter-Acre Vision
+## Farming for All and the Quarter-Acre Vision
 
 The final chapter of [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] Concepts
 

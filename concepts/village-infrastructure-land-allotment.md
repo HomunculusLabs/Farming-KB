@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Village Infrastructure and Land Allotment
+## Village Infrastructure and Land Allotment
 
 ## Overview
 

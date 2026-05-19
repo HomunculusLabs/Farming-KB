@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Use Trichoderma for Plant Disease Prevention?
+## How Do I Use Trichoderma for Plant Disease Prevention?
 
 ## Short Answer
 Trichoderma is a genus of beneficial fungi that protects plants by parasitizing

@@ -6,7 +6,7 @@ type: concept
 tags: [mushroom-cultivation, substrate-sterilization, low-cost-equipment, developing-countries, diy-equipment, pasteurization, oyster-mushroom]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
-# Oil Drum Sterilizer for Mushroom Substrate Bags
+## Oil Drum Sterilizer for Mushroom Substrate Bags
 
 The oil drum sterilizer is a low-cost, widely adopted piece of equipment used
 by small-scale [[mushroom-poverty-alleviation-developing-countries]] for pasteurizing or

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Stable Isotopes in Fungal Ecology — ¹⁵N and ¹³C as Trophic Indicators
+## Stable Isotopes in Fungal Ecology — ¹⁵N and ¹³C as Trophic Indicators
 
 ## Overview
 

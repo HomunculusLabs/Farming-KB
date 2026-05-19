@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Tools for the Small Farm
+## Tools for the Small Farm
 
 Eliot Coleman's philosophy on farm tools is rooted in the belief
 that everyone who grows plants has a favorite tool, and given the

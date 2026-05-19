@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Arbuscular [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] Topics
+## Arbuscular [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] Topics
 
 - [[mycorrhizal-proteomics]] techniques
 ## Background and Context

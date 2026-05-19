@@ -5,7 +5,7 @@ author: Masanobu Fukuoka
 topics: [natural-farming, ecology, death, decomposition, microbiology]
 ---
 
-# Cremation, Corpse Decomposition, and the Natural Order
+## Cremation, Corpse Decomposition, and the Natural Order
 
 ## Overview
 

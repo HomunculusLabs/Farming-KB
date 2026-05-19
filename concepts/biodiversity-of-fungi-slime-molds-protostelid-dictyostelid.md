@@ -4,7 +4,7 @@ source: biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills &
 concepts: [slime-molds, myxomycetes, dictyostelids, protostelids, plasmodiophorales]
 ---
 
-# Slime Molds
+## Slime Molds
 
 Slime molds are a diverse assemblage of amoeboid protists traditionally studied
 by mycologists due to their fungal-like fruiting bodies and spore-based

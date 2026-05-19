@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Binary and Ternary Fungal Biosorption Systems
+## Binary and Ternary Fungal Biosorption Systems
 
 While single-metal fungal biosorption is well characterized, real-world
 wastewaters typically contain multiple metal contaminants simultaneously.

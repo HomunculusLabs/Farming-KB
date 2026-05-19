@@ -13,7 +13,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Small and Slow Solutions
+## Permaculture Small and Slow Solutions
 
 "Use small and slow solutions" is Holmgren's ninth permaculture principle, articulated in "Permaculture: Principles and Pathways Beyond Sustainability." It advocates for systems and interventions that are appropriately scaled, incremental, and responsive to feedback, rather than large, rapid, and irreversible changes.
 

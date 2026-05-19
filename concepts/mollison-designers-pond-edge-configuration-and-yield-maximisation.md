@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Pond Edge Configuration and Yield Maximisation
+## Pond Edge Configuration and Yield Maximisation
 
 A pond can act as a mirror, a heat store, a run-off area, a cleanser of
 pollutants, a transport system, a fire barrier, a recreation asset, an

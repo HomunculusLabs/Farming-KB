@@ -9,7 +9,7 @@ type: concept
 tags: [design]
 ---
 
-# Solomon Irrigation Systems and Sprinkler Design
+## Solomon Irrigation Systems and Sprinkler Design
 
 Steve Solomon's approach to garden irrigation in [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]], causing the arm to pause at turnarounds,
   putting too much water at pattern ends and too little above the

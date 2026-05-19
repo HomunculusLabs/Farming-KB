@@ -9,7 +9,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Compost Biology and Soil Food Web Inoculation
+## Compost Biology and Soil Food Web Inoculation
 
 Updated: 2026-04-18
 

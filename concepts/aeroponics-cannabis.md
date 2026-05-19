@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Aeroponics for Cannabis
+## Aeroponics for Cannabis
 
 Aeroponics is the most advanced and highest-performing [[query-how-does-no-till-cannabis-cultivation-work]]. Aeroponic systems use no growing medium at all, instead suspending plant roots in a dark growth chamber where they are misted with oxygen-rich [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums and suspended from the top of the system. The net pots anchor the plants while allowing roots to extend into the misting chamber below.
 

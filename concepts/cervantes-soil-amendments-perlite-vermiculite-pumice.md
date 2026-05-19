@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Soil Amendments: Perlite, Vermiculite, and Pumice
+## Soil Amendments: Perlite, Vermiculite, and Pumice
 
 Soil amendments increase the soil's air, water, and nutrient-retaining
 abilities. [[cervantes-green-algae-growing-medium]].

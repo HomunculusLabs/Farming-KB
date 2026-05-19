@@ -5,7 +5,7 @@ tags: [gardening, vegetables, celery, cauliflower, demanding-crops, fertilizer, 
 related: [complete-organic-fertilizer-cof-solomon, solomon-manure-nutrient-variability-and-quality, solomon-composting-methods]
 ---
 
-# Difficult Vegetables: Celery, Cauliflower, and High-Demand Crops
+## Difficult Vegetables: Celery, Cauliflower, and High-Demand Crops
 
 Steve Solomon classifies vegetables into three tiers based on their soil
 fertility and care requirements: low-demand, medium-demand, and high-demand

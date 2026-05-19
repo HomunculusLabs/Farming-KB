@@ -7,7 +7,7 @@ tags: [microbiology, sterilization, bacillus-pumilus, spore-forming-bacteria, ra
 sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 ---
 
-# Bacillus Pumilus Radiation Resistance and Surface Decontamination
+## Bacillus Pumilus Radiation Resistance and Surface Decontamination
 
 ## Overview
 

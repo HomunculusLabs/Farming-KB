@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Omics Approaches in Fungal Bioremediation
+## Omics Approaches in Fungal Bioremediation
 
 Omics technologies encompassing genomics, transcriptomics, proteomics,
 and metabolomics have transformed understanding of fungal bioremediation.

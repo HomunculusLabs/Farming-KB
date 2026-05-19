@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Forest Humus and Water Storage
+## Forest Humus and Water Storage
 
 Forests represent the most effective natural system for capturing, storing, and recycling water on land. The interaction between forest canopy, humus layer, root systems, and soil creates a multi-layered water management system that far exceeds the capacity of any engineered storage. Understanding how forests process water through their various biological and physical layers is essential for permaculture design and ecological land management.
 

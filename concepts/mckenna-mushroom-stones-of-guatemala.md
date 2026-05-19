@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# The Mushroom Stones of Guatemala
+## The Mushroom Stones of Guatemala
 
 ## The First Archaeological Evidence
 

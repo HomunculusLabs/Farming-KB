@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# The Chemical to Organic Gardening Paradigm Shift
+## The Chemical to Organic Gardening Paradigm Shift
 
 Most home gardeners follow a remarkably similar routine: each spring, they apply water-soluble, high-nitrogen fertilizer to their lawns, spray broadleaf herbicides on weeds, and rototill their garden beds until the soil resembles finely ground coffee. Throughout the season, they continue applying chemical fertilizers, and when pests or diseases appear, they respond with insecticides and fungicides. This cycle, repeated for decades across millions of gardens, represents what might be called the **chemical gardening paradigm**.
 

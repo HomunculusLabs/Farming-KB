@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Heirloom vs Hybrid Seeds
+## Heirloom vs Hybrid Seeds
 
 ## Overview
 

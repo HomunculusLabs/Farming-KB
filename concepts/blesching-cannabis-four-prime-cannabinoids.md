@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Pharmacology: Four Prime Cannabinoids
+## Cannabis Pharmacology: Four Prime Cannabinoids
 
 Understanding cannabis pharmacology requires familiarity with the four prime
 cannabinoids that form the foundation of therapeutic cannabis science. Uwe

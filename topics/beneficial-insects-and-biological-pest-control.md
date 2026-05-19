@@ -44,7 +44,7 @@ related_concepts:
   - beneficial-insects-cannabis
 ---
 
-# Beneficial Insects and Biological Pest Control
+## Beneficial Insects and Biological Pest Control
 
 Beneficial insects and biological pest control represent one of the most
 important strategies in sustainable agriculture, organic gardening, and

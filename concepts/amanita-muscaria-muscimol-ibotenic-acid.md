@@ -1,12 +1,12 @@
 ---
-title: allegro-amanita-muscaria-properties-and-pharmacology — Muscimol and amanita-muscaria-muscimol-ibotenic-acid-pharmacology
+title: "Amanita Muscaria Muscimol Ibotenic Acid"
 slug: amanita-muscaria-muscimol-ibotenic-acid
 source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 tags: [amanita, muscimol, ibotenic-acid, mycology, gaba-receptor]
 created: 2026-05-08
 ---
 
-# Amanita muscaria — Muscimol and Ibotenic Acid
+## Amanita muscaria — Muscimol and Ibotenic Acid
 
 ## Overview
 

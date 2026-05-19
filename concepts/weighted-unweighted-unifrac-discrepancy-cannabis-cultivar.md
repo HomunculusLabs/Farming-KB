@@ -5,7 +5,7 @@ tags: [cannabis, microbiome, unifrac, beta-diversity, cultivar-specificity, comm
 source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Weighted vs Unweighted UniFrac Discrepancy in Cannabis Cultivar Studies
+## Weighted vs Unweighted UniFrac Discrepancy in Cannabis Cultivar Studies
 
 ## Overview
 

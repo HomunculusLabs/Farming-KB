@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# pH and Nutrient Availability in Garden Soils
+## pH and Nutrient Availability in Garden Soils
 
 Updated: 2026-04-18
 

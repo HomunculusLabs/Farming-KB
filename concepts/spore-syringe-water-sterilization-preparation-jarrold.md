@@ -4,7 +4,7 @@ source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, spore-syringe, sterilization, inoculation, boil-a-bag]
 ---
 
-# Spore Syringe Water Sterilization and Preparation
+## Spore Syringe Water Sterilization and Preparation
 
 In D.H. Jarrold's boil-a-bag [[oil-drum-sterilizer-mushroom-substrate-bags]].
 

@@ -7,7 +7,7 @@ tags: [homesteading, off-grid, water, water-management, engineering, constructio
 sources: []
 ---
 
-# Well Drilling and Maintenance
+## Well Drilling and Maintenance
 
 A reliable well provides a consistent water supply independent of rainfall
 and surface water availability. This guide covers drilling methods, pump

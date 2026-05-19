@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Endophytic Fungi in Grasslands
+## Endophytic Fungi in Grasslands
 
 ## Overview
 

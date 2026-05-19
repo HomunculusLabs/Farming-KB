@@ -1,4 +1,8 @@
-# Mycelial Network Nutrient Dynamics and Imaging
+---
+title: "Mycelial Network Nutrient Dynamics and Imaging"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[fungal-mycelial-networks-nutrient-translocation]]
-- [[mycelial-colonization]]
-- [[mycelial-growth-promotion]]
-- [[mycelial-network-communication]]
-- [[mycelial-nutrient-translocation-networks]]

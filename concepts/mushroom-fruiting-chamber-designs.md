@@ -12,7 +12,7 @@ tags:
 source: jarrold-indoor-mushroom-growing
 ---
 
-# Mushroom Fruiting Chamber Designs
+## Mushroom Fruiting Chamber Designs
 
 ## Overview
 

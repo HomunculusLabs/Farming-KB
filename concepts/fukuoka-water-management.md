@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Water Management
+## Fukuoka Water Management
 
 updated: 2026-04-18
 

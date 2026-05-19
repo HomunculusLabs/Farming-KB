@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Passive Solar Building Design
+## Passive Solar Building Design
 
 Passive solar building design uses the energy of the sun to heat, cool, and
 light structures without mechanical systems. [[phase-change-materials-thermal-energy-storage]] in high-density

@@ -19,7 +19,7 @@ sources:
 - raw/papers/unknown-cultivation-of-fruitbodies-and-sclerotia.md
 ---
 
-# Sclerotia Cultivation
+## Sclerotia Cultivation
 
 Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that serve as survival structures for certain fungi. In cultivation, sclerotia-producing species of *Psilocybe* can form these "truffles" directly in sealed jars without ever requiring fruiting conditions, making them one of the easiest methods for indoor cultivation. See [[psilocybin-mushroom-cultivation]] for fruiting body methods and [[mushroom-substrates]] for substrate details.
 

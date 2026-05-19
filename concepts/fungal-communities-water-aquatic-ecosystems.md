@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Communities in Water and Aquatic Ecosystems Fungi play essential roles in aquatic and marine ecosystems as decomposers of organic matter, nutrient cyclers, and food sources for invertebrates. Although less intensively studied than terrestrial [[fungal-leaf-litter-succession]] (Gessner et al., 1993):
+## Fungal Communities in Water and Aquatic Ecosystems Fungi play essential roles in aquatic and marine ecosystems as decomposers of organic matter, nutrient cyclers, and food sources for invertebrates. Although less intensively studied than terrestrial [[fungal-leaf-litter-succession]] (Gessner et al., 1993):
 
 - **Early colonization (2 weeks)**: Communities dominated by 5-6 species including Flagellospora curvula, Tetrachaetum elegans, Lemonniera centrospharea, L. aquatica, and L. terrestris.
 

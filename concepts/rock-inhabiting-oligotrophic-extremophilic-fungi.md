@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Rock-Inhabiting and Oligotrophic Fungi
+## Rock-Inhabiting and Oligotrophic Fungi
 Rocks exposed to high solar radiation, extreme temperatures,
 low nutrients, high electrolyte concentrations, and low
 humidity represent [[fukuoka-natural-farming-in-arid-regions]]

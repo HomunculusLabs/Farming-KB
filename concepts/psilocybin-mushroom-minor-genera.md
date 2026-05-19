@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms]
 sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
-# Psilocybin Mushroom Minor Genera
+## Psilocybin Mushroom Minor Genera
 
 The psilocybin-containing mushroom [[conocybe-cyanopus-profile]] (probably active, up to 0.80% baeocystin), Conocybe kuehneriana (active, reported from Finland), [[psilocybin-north-america-pacific-northwest]], less than 150 worldwide.
 

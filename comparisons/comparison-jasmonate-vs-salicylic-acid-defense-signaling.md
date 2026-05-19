@@ -39,7 +39,7 @@ sources:
 type: comparison
 ---
 
-# Jasmonate vs Salicylic Acid Defense Signaling Pathways
+## Jasmonate vs Salicylic Acid Defense Signaling Pathways
 
 Plants rely on a sophisticated immune system that hinges on phytohormone signaling networks. Two of the most important defense hormones — **jasmonic acid (JA)** and **salicylic acid (SA)** — orchestrate largely distinct but overlapping defense programs tailored to different categories of attackers. Understanding these pathways is central to plant [[hamilton-beneficial-insects-and-biological-pest-control|biological pest control]]. The pathway also promotes [[endophytic-fungi-plant-defense-dighton|endophytic fungi]], which can similarly prime systemic defenses.
 

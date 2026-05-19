@@ -5,7 +5,7 @@ tags: [agriculture, natural-farming, revegetation, desert-greening, ecology]
 created: 2026-05-09
 ---
 
-# Fukuoka's Clay Pellet Revegetation Method
+## Fukuoka's Clay Pellet Revegetation Method
 
 [[desert-revegetation]] using clay-coated seed pellets scattered by hand over barren landscapes. This technique, grounded in his philosophy of [[soil-edaphic-factors-microbial-communities]] collapse, organic matter depletes, and the local water cycle breaks down. Rainfall diminishes not because of atmospheric changes alone, but because the ground no longer participates in generating it.
 

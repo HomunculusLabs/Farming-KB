@@ -20,7 +20,7 @@ sources:
 - raw/papers/mushrooms-as-medicine.md
 ---
 
-# Medicinal Mushroom Guide
+## Medicinal Mushroom Guide
 
 Comprehensive guide to medicinal mushrooms: active compounds, health benefits, preparations, dosing, and cultivation. Draws primarily from peer-reviewed cancer immunotherapy literature.
 

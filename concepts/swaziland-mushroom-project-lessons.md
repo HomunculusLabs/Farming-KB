@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Swaziland Mushroom Project Lessons
+## Swaziland Mushroom Project Lessons
 
 The mushroom project in Swaziland (now Eswatini) provides important lessons about
 government-initiated vs. farmer-initiated mushroom development models. Initiated

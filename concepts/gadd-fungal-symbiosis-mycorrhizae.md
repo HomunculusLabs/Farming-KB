@@ -8,7 +8,7 @@ tags: [fungi, mycology, mycorrhizal, symbiosis]
 updated: 2026-04-26
 ---
 
-# Fungal Symbiosis -- Mycorrhizal Associations
+## Fungal Symbiosis -- Mycorrhizal Associations
 
 ## Overview
 

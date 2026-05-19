@@ -4,7 +4,7 @@ source: "fanaticus-pf-tek-psilocybe-fanaticus.md"
 tags: [pf-tek, perlite, humidification, evaporation, dynamics, terrarium, humidity, physics, water-budget, multi-flush]
 ---
 
-# PF TEK Perlite Humidification: Evaporation Dynamics and Long-Term Behavior
+## PF TEK Perlite Humidification: Evaporation Dynamics and Long-Term Behavior
 
 ## Overview
 

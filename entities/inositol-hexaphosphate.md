@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, organic-phosphorus, phytate, soil-chemistry]
 ---
 
-# Inositol hexaphosphate
+## Inositol hexaphosphate
 
 ## Description
 

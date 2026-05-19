@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Critique of Agricultural Development
+## Critique of Agricultural Development
 
 Masanobu Fukuoka's [[fukuoka-american-agriculture-fields-of-death]] firsthand during his 1979 visit and came away deeply troubled. "I believe that one of the things that is beginning to arise in the dark shadows of civilization is America's food strategy," he wrote. "I have my doubts as to how long this strategy can be pursued. I believe that its low regard for the land will be America's downfall. If the land falls victim to American farming practices and continues to be ruined at the present rate, it won't hold out even fifty years more. It may last another twenty or thirty at the most."
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Nutrient Cycling Research — Key Historical Contributions
+## Fungal Nutrient Cycling Research — Key Historical Contributions
 
 ## Overview
 

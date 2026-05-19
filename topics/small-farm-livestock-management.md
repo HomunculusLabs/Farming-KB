@@ -49,7 +49,7 @@ related_concepts:
   - animal-butcher-and-processing
 ---
 
-# Small-Farm Livestock Management
+## Small-Farm Livestock Management
 
 Small-farm livestock management encompasses the breeding, feeding, housing,
 health care, and ecological integration of animals on properties typically

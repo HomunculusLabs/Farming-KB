@@ -16,7 +16,7 @@ related_concepts:
   - comparison-sepp-holzer-vs-biodynamic
 ---
 
-# Biodynamic Farming: Principles and Practice
+## Biodynamic Farming: Principles and Practice
 
 Biodynamic farming is one of the oldest organized approaches to sustainable
 agriculture, predating the organic movement by several decades. Developed by

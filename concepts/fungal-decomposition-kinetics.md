@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, decomposition, ecology, carbon-cycling]
 sources: []
 ---
-# Fungal Decomposition Kinetics
+## Fungal Decomposition Kinetics
 
 Decomposition kinetics, the rates and patterns at which
 [[solomon-cool-climate-compost-soil-temperature-nutrient-release]], and the flow of energy through soil

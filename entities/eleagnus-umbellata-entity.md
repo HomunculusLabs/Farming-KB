@@ -6,7 +6,7 @@ sources: []
 tags: []
 updated: 2026-05-06
 ---
-# Eleagnus umbellata
+## Eleagnus umbellata
 
 Eleagnus umbellata, commonly known as autumn olive, autumn berry, or spreading oleaster, is a deciduous shrub in the family Elaeagnaceae native to eastern Asia. Introduced to [[permplant-willows-salix-erosion-control-fodder]], it has become one of the most widespread and controversial invasive woody plants in the eastern United States. Despite its invasive status, E. umbellata possesses a remarkable combination of ecological traits
 that make it one of the most functionally useful shrubs [[hemenway-backyard-wildlife-habitat]], and establishes rapidly on degraded land. This tension between its aggressive invasiveness and its exceptional permaculture utility makes it one of the most debated species in [[phosphate-accumulators-sustainable-agriculture]]. Managing its spread while harnessing its nitrogen-fixing and food-producing capacities represents a nuanced challenge for land stewards.

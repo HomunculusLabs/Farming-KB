@@ -7,7 +7,7 @@ tags: [psychedelics, entheogen-research, therapy, psychiatry, psychopharmacology
 sources: []
 ---
 
-# Psychedelic Therapy Current Research
+## Psychedelic Therapy Current Research
 
 ## Overview
 

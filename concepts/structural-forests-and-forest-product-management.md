@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Structural Forests and Forest Product Management
+## Structural Forests and Forest Product Management
 
 Structural forests are managed specifically for timber, poles, and construction materials. In permaculture, the strongest structural timber is round, uncut timber from pioneer and edge species. These forests provide fence posts, building poles, coppice products, and a wide range of materials while simultaneously performing [[fungal-melanin-biosynthesis-ecological-functions]] such as soil building, windbreak, and [[hemenway-backyard-wildlife-habitat]].
 

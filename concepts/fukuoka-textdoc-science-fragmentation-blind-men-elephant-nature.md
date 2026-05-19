@@ -21,7 +21,7 @@ related:
   - diminishing-returns-agriculture
 ---
 
-# Fukuoka on Scientific Fragmentation: The Blind Men and the Elephant
+## Fukuoka on Scientific Fragmentation: The Blind Men and the Elephant
 
 ## Overview
 

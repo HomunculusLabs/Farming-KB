@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Pig Husbandry vs Goat Husbandry
+## Pig Husbandry vs Goat Husbandry
 
 ## Overview
 

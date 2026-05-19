@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [taxonomy, mycology, speciation, phylogenetics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Fungal Species Concept
+## Fungal Species Concept
 
 Defining what constitutes a fungal species has been one of the most
 persistent challenges in mycology and evolutionary biology. Fungi defy

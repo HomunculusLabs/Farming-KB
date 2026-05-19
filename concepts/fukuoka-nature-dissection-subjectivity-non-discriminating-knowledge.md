@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka on Nature Dissection, Subjectivity, and Non-Discriminating Knowledge
+## Fukuoka on Nature Dissection, Subjectivity, and Non-Discriminating Knowledge
 
 [[fukuoka-illusions-of-natural-science]] Science." At its core, Fukuoka argues that the scientific method — dissection, analysis, and recombination — destroys the very thing it seeks to understand,
 and that the discriminating intellect traps humanity in a maze of [[fukuoka-scalpel-beautiful-woman-science-nature]] and reveal a bloody mass of tissue." The scientific method strips away

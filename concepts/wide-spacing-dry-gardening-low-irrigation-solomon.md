@@ -8,7 +8,7 @@ sources:
 type: concept
 ---
 
-# Wide Spacing Dry Gardening for Low Irrigation Food Production
+## Wide Spacing Dry Gardening for Low Irrigation Food Production
 
 Wide spacing dry gardening is a method of [[steve-solomon]], author of Gardening When It Counts, this approach directly challenges the intensive raised-bed paradigm that has dominated backyard food gardening since the 1980s.
 

@@ -1,4 +1,8 @@
-# Cannabis Sativa vs Indica Therapeutic Profiles
+---
+title: "Cannabis Sativa vs Indica Therapeutic Profiles"
+tags:
+  - concept
+---
 
 Medicinal cannabis consists of two primary species, *Cannabis sativa* and
 *[[cervantes-cannabinoids-thc-cbd-chemistry]], CBD, and CBN. These ratios are therapeutically

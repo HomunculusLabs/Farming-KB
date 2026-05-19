@@ -11,7 +11,7 @@ updated: 2026-05-02
 sources:
 ---
 
-# Multidisciplinary Association for Psychedelic Studies (MAPS)
+## Multidisciplinary Association for Psychedelic Studies (MAPS)
 
 ## Overview
 

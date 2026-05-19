@@ -5,7 +5,7 @@ type: entity
 tags: [climate-classification, system, horticulture, plant-selection, permaculture]
 ---
 
-# Hardiness Zones
+## Hardiness Zones
 
 ## Description
 

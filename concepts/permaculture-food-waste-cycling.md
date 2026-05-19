@@ -7,7 +7,7 @@ tags: [permaculture, compost, composting, nutrient-cycling, ecology, forage, des
 sources: []
 ---
 
-# Permaculture Food Waste Cycling
+## Permaculture Food Waste Cycling
 
 Food waste cycling transforms organic waste streams into valuable resources — compost, animal feed, soil amendments, and biogas. In permaculture, "produce no waste" means every output becomes an input for another element. Food waste cycling closes loops between household, garden, and animal systems, reducing external inputs and [[building-soil-fertility-long-term]].
 

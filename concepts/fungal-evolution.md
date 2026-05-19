@@ -7,7 +7,7 @@ tags: [fungi, biology, ecology, academia, theory, history]
 sources: []
 ---
 
-# Fungal Evolution
+## Fungal Evolution
 
 Fungi are an ancient eukaryotic lineage that diverged from other organisms over a billion years ago. Their evolutionary history encompasses dramatic adaptations — from aquatic single cells to terrestrial decomposers, symbionts, and pathogens — shaping Earth's ecosystems in fundamental ways.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, symbiosis]
 sources: []
 ---
-# Lichen Symbiosis Mechanisms and Photobiont Selection
+## Lichen Symbiosis Mechanisms and Photobiont Selection
 
 Lichens are classic examples of mutualistic symbiosis between fungi
 (mycobionts) and photosynthetic partners (photobionts). Unlike most other

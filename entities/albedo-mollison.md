@@ -5,7 +5,7 @@ type: entity
 tags: [concept, radiation, climate, energy, permaculture, design]
 ---
 
-# Albedo
+## Albedo
 
 ## Description
 

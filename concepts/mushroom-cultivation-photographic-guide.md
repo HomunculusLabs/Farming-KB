@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Cultivation Photographic Guide
+## Mushroom Cultivation Photographic Guide
 
 The [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] of
 [[growing-gourmet-tree-species-guide-mushroom-cultivation]]

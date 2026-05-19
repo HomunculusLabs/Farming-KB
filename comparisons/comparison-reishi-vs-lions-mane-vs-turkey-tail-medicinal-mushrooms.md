@@ -19,7 +19,7 @@ sources:
   - Li, I.W. et al., "Health Benefits of the Lion's Mane Mushroom and Its query-what-are-the-main-bioactive-compounds-in-medicinal-plants," Molecules, vol. 25, 2020.
 type: comparison
 ---
-# Reishi vs Lion's Mane vs turkey tail mushroom cultivation and medicinal properties
+## Reishi vs Lion's Mane vs turkey tail mushroom cultivation and medicinal properties
 
 ## Overview
 

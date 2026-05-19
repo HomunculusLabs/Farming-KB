@@ -8,7 +8,7 @@ sources: [raw/papers/a-practitioners-guide-marijuana-magick.md]
 type: concept
 ---
 
-# Cannabis as [[ancient-cannabis-use-near-east-and-egypt]]
+## Cannabis as [[ancient-cannabis-use-near-east-and-egypt]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

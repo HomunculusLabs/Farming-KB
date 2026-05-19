@@ -5,7 +5,7 @@ type: entity
 tags: [text, psychedelic, manual, lsd, tibetan-book-of-the-dead]
 ---
 
-# The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead
+## The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead
 
 ## Description
 

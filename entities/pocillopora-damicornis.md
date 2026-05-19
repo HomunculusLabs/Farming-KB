@@ -17,7 +17,7 @@ sources:
   - "Richmond, R.H. (1987). \"Energy trade-offs in coral reproduction.\" Coral Reefs, 6, 61-66."
 ---
 
-# Cauliflower Coral (*Pocillopora damicornis*)
+## Cauliflower Coral (*Pocillopora damicornis*)
 
 ## Overview
 

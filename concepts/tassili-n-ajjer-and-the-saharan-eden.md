@@ -12,7 +12,7 @@ tags:
 type: concept
 ---
 
-# Tassili-n-Ajjer and the Saharan Eden
+## Tassili-n-Ajjer and the Saharan Eden
 
 The Tassili-n-Ajjer is a vast plateau in southern Algeria featuring an extraordinary concentration of Neolithic rock art that provides what McKenna considered the strongest archaeological evidence for his theory of a prehistoric mckenna-nostalgia-for-paradise.
 

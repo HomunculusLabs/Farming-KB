@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Biofertilizers and Soil Inoculants vs Compost Tea Guide
+## Biofertilizers and Soil Inoculants vs Compost Tea Guide
 
 ## Overview
 

@@ -1,5 +1,10 @@
+---
+title: "Plant Memory And Priming"
+tags:
+  - concept
+---
 
-# Plant Memory and Priming
+## Plant Memory and Priming
 
 The concept of memory in plants challenges a deeply held assumption that memory
 requires a nervous system. In "What a Plant Knows," [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Remarkably, the FLC silencing is reset in the next

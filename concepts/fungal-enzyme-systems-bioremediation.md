@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-# Fungal Enzyme Systems for Bioremediation
+## Fungal Enzyme Systems for Bioremediation
 
 The biochemical machinery that enables fungi to break down some of the most recalcitrant molecules on Earth. From [[paul-stamets]]' *Mycelium Running* (2005).
 

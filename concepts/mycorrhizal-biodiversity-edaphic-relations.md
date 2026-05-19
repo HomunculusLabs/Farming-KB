@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Biodiversity, Edaphic Relations, and Environmental Adaptation
+## Mycorrhizal Biodiversity, Edaphic Relations, and Environmental Adaptation
 
 [[mycorrhizal-fungal-diversity]] reflects a functional mosaic in which different taxa contribute
 differentially to plant nutrition, stress tolerance, [[fungal-rhizosphere-and-ecosystem-resilience]]. The interactions

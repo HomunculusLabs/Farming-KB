@@ -12,7 +12,7 @@ tags: [cannabis, sativa, landrace, kenya, african-strains, strain-profile, mount
 aliases: [Pure Africa, The Resinator, Kenyan Landrace]
 ---
 
-# Pure Africa (AKA The Resinator)
+## Pure Africa (AKA The Resinator)
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Component Analysis and Functional Connections
+## Component Analysis and Functional Connections
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, mycorrhizae, symbiosis, forest-ecology, soil-structure]
 ---
 
-# Ectomycorrhizal Fungi
+## Ectomycorrhizal Fungi
 
 ## Description
 

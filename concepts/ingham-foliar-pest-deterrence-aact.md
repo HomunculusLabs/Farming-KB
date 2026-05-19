@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Ingham — Foliar Pest Deterrence Through AACT
+## Ingham — Foliar Pest Deterrence Through AACT
 
 Elaine Ingham identifies multiple mechanisms by which Actively [[king-stropharia-ecological-interactions-permaculture]] rather than toxic chemical effects.
 

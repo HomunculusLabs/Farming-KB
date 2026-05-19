@@ -11,7 +11,7 @@ sources:
 type: comparison
 ---
 
-# [[seed-starting-indoors]]
+## [[seed-starting-indoors]]
 Starting cannabis from seed involves germinating seeds and raising
 seedlings through the [[cannabis-vegetative-stage]] before transitioning to
 flowering. Based on [[hamilton-pest-and-disease-control-organic]] transmission risks associated with cloning.

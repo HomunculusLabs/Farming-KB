@@ -5,7 +5,7 @@ source_author: Jorge Cervantes
 topics: [cannabis, cloning, vegetative-growth, propagation, mother-plants, horticulture]
 ---
 
-# Cannabis Cloning and Vegetative Propagation
+## Cannabis Cloning and Vegetative Propagation
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 ---
-# Ancient Entheogenic Cults and the Religious Impulse
+## Ancient Entheogenic Cults and the Religious Impulse
 
 Simon G. Powell argues that psychoactive plants and fungi played a
 fundamental role in the birth and development of human religious consciousness.

@@ -1,5 +1,5 @@
 ---
-title: pH green-cannabis-ph-management-cannabis-growing
+title: "Ph Management Cannabis"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# pH Management Cannabis
+## pH Management Cannabis
 
 pH management is one of the most critical aspects of [[query-how-to-build-healthy-garden-soil]].
 

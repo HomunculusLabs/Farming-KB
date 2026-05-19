@@ -17,7 +17,7 @@ sources:
   - "Bruckner, A.W. (2002). \"Priorities for effective management of coral diseases.\" NOAA Technical Memorandum."
 ---
 
-# Elkhorn Coral (*Acropora palmata*)
+## Elkhorn Coral (*Acropora palmata*)
 
 ## Overview
 

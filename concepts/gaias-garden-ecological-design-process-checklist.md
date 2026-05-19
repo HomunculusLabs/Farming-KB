@@ -5,7 +5,7 @@ author: Toby Hemenway
 tags: [permaculture, ecological-design, garden-design, observation, zones, sectors]
 ---
 
-# Ecological Design Process and Designer's Checklist
+## Ecological Design Process and Designer's Checklist
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: "S.T. Oner — The Rev: blesching-cannabis-sativa-indica-classification 
 tags: [cannabis, sativa, strain-profile, panama-red, colombian, landrace, jamaica-seeds, heirloom, latin-american, outdoor-growing, red-calyx]
 ---
 
-# La Roja — Panama Red × Colombian Sativa (Jamaica Seeds)
+## La Roja — Panama Red × Colombian Sativa (Jamaica Seeds)
 
 La Roja is a sativa-dominant hybrid bred by Jamaica Seeds (based in Spain, not
 Jamaica) that combines two legendary Latin American landrace lines: Panama Red

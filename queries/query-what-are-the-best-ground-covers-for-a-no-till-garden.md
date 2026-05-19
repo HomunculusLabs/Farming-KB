@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Best Ground Covers for a No-Till Garden
+## What Are the Best Ground Covers for a No-Till Garden
 
 ## Short Answer
 The best ground covers for no-till gardens combine soil protection with

@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 11 — Use Edges and Value the Marginal
+## Permaculture Principle 11 — Use Edges and Value the Marginal
 
 The eleventh of David Holmgren's twelve permaculture design principles. The icon of the sun rising over the horizon with a river in the foreground shows us a world composed of edges. Edges are where the most interesting, productive, and diverse events take place in any system.
 

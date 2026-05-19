@@ -16,7 +16,7 @@ sources:
   - Kligler, B. (2003). "Arnica montana." American Family Physician 68(10): 2069–2072.
 ---
 
-# Arnica chamissonis
+## Arnica chamissonis
 
 ## Overview
 

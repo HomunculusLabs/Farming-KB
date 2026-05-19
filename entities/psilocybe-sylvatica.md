@@ -17,7 +17,7 @@ sources:
   - Gartz, J. (1994). "Distribution and Evolutionary Trends in Psilocybe." Journal of Ethnopharmacology 41(1-2): 71-77.
 ---
 
-# Psilocybe sylvatica
+## Psilocybe sylvatica
 
 ## Overview
 

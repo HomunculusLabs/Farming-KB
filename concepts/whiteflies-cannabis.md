@@ -7,7 +7,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Whiteflies on Cannabis
+## Whiteflies on Cannabis
 
 Whiteflies are small, white, moth-like insects that attack cannabis plants by sucking sap from foliage. Though less common than [[cervantes-sticky-traps-pest-monitoring]]**: Adults are strongly attracted to the color yellow. Cover a bright yellow object with a sticky substance like Tanglefoot and place among plants. Traps work very well — when full, toss them out and replace. Place traps on the tops of pots among the plants for maximum effectiveness
 - **Manual removal**: Difficult because whiteflies fly away when disturbed; vacuuming adults in early morning when they are sluggish can help

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [cannabis, spagyric, alchemy, herbalism, preparation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md]
+sources: ["raw/papers/ben-lemon-cannabis-alchemy.md"]
 type: concept
 ---
 
-# Spagyric Cannabis Preparation
+## Spagyric Cannabis Preparation
 
 Spagyric preparation is an alchemical herbal processing method that aims to
 produce a more complete and potent extract than conventional extraction. When

@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Soil Food Web vs Bacterial vs Fungal Soil
+## Soil Food Web vs Bacterial vs Fungal Soil
 
 ## Overview
 The soil food web is a holistic ecological framework describing the full community of organisms

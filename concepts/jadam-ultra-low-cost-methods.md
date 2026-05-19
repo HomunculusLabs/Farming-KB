@@ -8,7 +8,7 @@ sources:
   - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Ultra-Low-Cost Methods
+## JADAM Ultra-Low-Cost Methods
 
 JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean organic farming system developed by Youngsang Cho. Its ultimate objective is to bring farming back to farmers by making organic agriculture simple, effective, and ultra-low-cost -- as low as $100 per acre per year.
 

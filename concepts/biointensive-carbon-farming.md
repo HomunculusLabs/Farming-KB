@@ -7,7 +7,7 @@ tags: [agriculture, homesteading]
 sources:
   - raw/papers/how-to-grow-more-vegetables-john-jeavons.md
 ---
-# Biointensive Carbon Farming
+## Biointensive Carbon Farming
 
 Carbon farming is the practice of growing dedicated crops specifically for
 producing biomass to feed the [[biointensive-calorie-crops]]

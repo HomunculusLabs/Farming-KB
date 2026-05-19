@@ -8,7 +8,7 @@ type: concept
 tags: [psilocin, psilocybin, synthesis, chemistry, magic-mushrooms, phosphorylation]
 ---
 
-# Tryptamine Chemistry — Psilocin and Psilocybin Synthesis
+## Tryptamine Chemistry — Psilocin and Psilocybin Synthesis
 
 ## Overview
 

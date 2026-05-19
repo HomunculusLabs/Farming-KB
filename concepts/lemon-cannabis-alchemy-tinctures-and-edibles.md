@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, medicine-making]
 ---
 
-# Lemon Cannabis Alchemy - Tinctures and Edibles
+## Lemon Cannabis Alchemy - Tinctures and Edibles
 
 Ben Lemon's "Cannabis Alchemy" primarily focuses on [[mushroom-polysaccharide-extraction-chemistry]], the sections on [[cannabis-thc-acetate-preparation]] is specifically noted to have a thirty-minute delay.
 - **Potency multiplication**: The chemical refinement processes (isomerization, acetylation) that increase oil potency apply equally to all [[mushroom-spawn]] for producing nearly pure THC, which would yield the most potent possible capsules and tinctures. [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] allows for dose standardization when preparing capsules or tinctures.

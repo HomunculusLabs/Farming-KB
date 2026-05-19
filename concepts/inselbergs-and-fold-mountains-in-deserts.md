@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Inselbergs and Fold Mountains in Deserts
+## Inselbergs and Fold Mountains in Deserts
 
 Inselbergs (rock domes) and fold mountains are two of the most extensive and productive landform types in arid regions. While simpler than scarp and [[humus]] and can support trees, yams, and other vegetation.
 

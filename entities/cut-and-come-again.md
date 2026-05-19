@@ -5,7 +5,7 @@ type: entity
 tags: [techniques, harvesting, salad-greens, market-gardening]
 ---
 
-# Cut-and-Come-Again
+## Cut-and-Come-Again
 
 ## Description
 

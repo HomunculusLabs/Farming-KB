@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Blastomyces dermatitidis
+## Blastomyces dermatitidis
 
 **Blastomyces dermatitidis** is a thermally dimorphic [[growing-gourmet-north-american-reishi-species]] blastomycosis. It is one of the endemic dimorphic fungi, capable of existing as a mold in the environment and converting to a pathogenic yeast form at mammalian body temperature. The fungus is a significant cause of systemic mycosis in parts [[huckleberries-and-wild-berries-of-north-america]], particularly the Mississippi and Ohio River valleys, and the Great Lakes region.
 

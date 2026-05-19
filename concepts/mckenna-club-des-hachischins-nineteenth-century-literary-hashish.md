@@ -13,7 +13,7 @@ sources:
   - "[McKenna, Food of the Gods (1992)]"
 ---
 
-# Club des Hachischins and Nineteenth-Century Literary Hashish
+## Club des Hachischins and Nineteenth-Century Literary Hashish
 
 The Club des Hachischins -- the Club of [[cannabis-resin-production-and-quality-traits-clarke]]
 with sugar, pistachios, nutmeg, and other aromatics. Consumed orally rather

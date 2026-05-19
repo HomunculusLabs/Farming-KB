@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
-# Alpine Plant Cultivation
+## Alpine Plant Cultivation
 
 Cultivating alpine plants at high altitudes requires understanding the specific germination requirements, symbiotic relationships, and environmental adaptations that these species have evolved. [[mycorrhizal-fungi]] and [[comparison-rotational-grazing-vs-continuous-grazing]] practices. Once the seeds have been sown on the poorest and most barren soil possible, they should be left to their own resources completely. According to Holzer's experience it is not worth watering them or using fertiliser.
 

@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Sacred Waters and Manna in Biblical Tradition
+## Sacred Waters and Manna in Biblical Tradition
 
 Throughout biblical scripture, a recurring cluster of symbols—living waters, manna, the tree of life, hidden manna, the white stone, flesh, blood, and the Fountain of Living Waters—represents a single, tangible substance interpreted within this framework as an entheogenic mushroom. These symbols appear across both Old and New Testaments, forming what the author argues is a coherent sacramental language that has been progressively dematerialized into abstract symbolism by institutional religion.
 

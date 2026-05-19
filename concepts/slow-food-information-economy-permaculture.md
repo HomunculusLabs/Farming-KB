@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Slow Food and the Information Economy in Permaculture
+## Slow Food and the Information Economy in Permaculture
 
 The tension between slow, deliberate processes and the accelerating pace of modern life extends beyond agriculture into food culture, information technology, and the fundamental paradox of political identity. This concept explores how the Slow Food movement, the information economy, and the structural paradox between radicalism and conservatism all reflect the deeper [[permaculture]] principle that "slow is sane."
 

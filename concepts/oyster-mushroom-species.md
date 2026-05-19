@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, taxonomy, cultivation, oyster-mushroom]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Oyster Mushroom Species
+## Oyster Mushroom Species
  The genus Pleurotus encompasses over 30 described species of gilled mushrooms
 found worldwide. Several species and strains are commercially cultivated, each
 with distinct [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are typically 5-15 cm in diameter with

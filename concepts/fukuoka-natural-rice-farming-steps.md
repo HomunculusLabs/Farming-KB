@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Rice Farming: Step-by-Step Method
+## Natural Rice Farming: Step-by-Step Method
 
 From "The Natural Way of Farming" by Masanobu Fukuoka, detailed practice instructions.
 

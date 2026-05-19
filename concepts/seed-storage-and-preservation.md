@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Seed Storage and Preservation
+## Seed Storage and Preservation
 
 The difference between buying a small packet of seed every year and buying a larger quantity that lasts several years is mostly a matter of proper storage. Understanding how temperature, humidity, and seed moisture interact to determine storage life allows gardeners to save substantial money on seed purchases while maintaining high germination rates.
 

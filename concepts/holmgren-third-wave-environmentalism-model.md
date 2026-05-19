@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Holmgren's Third Wave Environmentalism Model
+## Holmgren's Third Wave Environmentalism Model
 [[appropriate-technology]], [[coleman-deep-organic-farming]] movement. The founding text
 *Permaculture One* was published in 1978, at the peak of first-wave
 environmental consciousness. Bill Mollison and David Holmgren's concept offered

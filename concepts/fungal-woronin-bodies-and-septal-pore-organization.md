@@ -7,7 +7,7 @@ tags: [mycology, fungi, cell-biology]
 sources: []
 ---
 
-# Fungal Woronin Bodies and Septal Pore Organization
+## Fungal Woronin Bodies and Septal Pore Organization
 
 Woronin bodies are dense, membrane-bound organelles unique to the Euascomycetes
 (Pezizomycotina) that function as emergency plugs for septal pores in

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Pawpaw (Asimina triloba)
+## Pawpaw (Asimina triloba)
 
 NOT a true pawpaw (Carica papaya); related to custard apples. Also called
 custard banana and Michigan banana.

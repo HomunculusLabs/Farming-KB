@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [psilocybin, psilocin, organic-synthesis, phosphorylation, zwitterion, shirota, pharmaceutical-chemistry, analytical-standards]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
+sources: ["raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"]
 type: concept
 ---
 
-# Shirota Psilocin and Psilocybin Synthesis
+## Shirota Psilocin and Psilocybin Synthesis
 
 Osamu Shirota, Wataru Hakamata, and Yukihiro Goda published "Concise
 Large-Scale Synthesis of Psilocin and Psilocybin" in the Journal of Natural

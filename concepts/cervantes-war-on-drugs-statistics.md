@@ -19,7 +19,7 @@ synonyms:
 type: concept
 ---
 
-# War on Drugs Statistics and Cannabis Arrest Data
+## War on Drugs Statistics and Cannabis Arrest Data
 
 *That a limited but respectable niche will be established for it in
 therapeutics by the end of the century.*

@@ -1,4 +1,8 @@
-# Mycoremediation: Fungal Bioremediation of Toxic Environments
+---
+title: "Mycoremediation: Fungal Bioremediation of Toxic Environments"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -143,8 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[comparison-phytoremediation-vs-mycoremediation-detail]]
-- [[mycoremediation-applications]]
-- [[mycoremediation-pcbs-and-dioxins]]
-- [[mycoremediation-regulatory-framework]]

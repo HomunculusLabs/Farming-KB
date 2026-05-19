@@ -5,10 +5,10 @@ type: species
 tags: [korean-natural-farming, microorganisms, soil-biology, composting, cho-han-kyu]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
 
-# Indigenous Microorganisms (IMO)
+## Indigenous Microorganisms (IMO)
 
 **Indigenous Microorganisms (IMO)** is a foundational concept and preparation in **Korean Natural Farming (KNF)**, developed by Master **Cho Han-Kyu**. IMO refers to the collection, cultivation, and application of locally adapted microorganisms — bacteria, fungi, actinomycetes, and yeasts — that are native to a specific farming environment. The core principle is that microorganisms already present in the local ecosystem are the most effective for building soil health, cycling nutrients, and supporting plant growth in that specific location.
 

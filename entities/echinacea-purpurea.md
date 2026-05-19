@@ -16,7 +16,7 @@ sources:
   - European Medicines Agency HMPC Monograph on Echinacea purpurea
 ---
 
-# Echinacea purpurea
+## Echinacea purpurea
 
 **Echinacea purpurea**, the **purple coneflower**, is a perennial herbaceous flowering plant in the family Asteraceae. Native to eastern and central [[permaculture-plants-medicinal-herbs-healing]] in the world, widely used as an immunomodulatory agent with a multi-billion dollar global market.
 

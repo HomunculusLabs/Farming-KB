@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
-# How Do I Make Compost Tea?
+## How Do I Make Compost Tea?
 
 ## Short Answer
 

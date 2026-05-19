@@ -1,4 +1,8 @@
-# Microfungi Isolation Techniques
+---
+title: "Microfungi Isolation Techniques"
+tags:
+  - concept
+---
 
 Isolating and culturing microfungi from environmental samples requires a suite of
 specialized techniques adapted to different substrata, ecological contexts, and

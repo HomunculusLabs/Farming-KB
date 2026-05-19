@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ololiuqui Investigation - Morning Glory Alkaloids
+## Ololiuqui Investigation - Morning Glory Alkaloids
 
 ## Historical Background
 

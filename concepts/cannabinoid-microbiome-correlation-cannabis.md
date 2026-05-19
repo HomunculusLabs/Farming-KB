@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabinoid Profile and Microbiome Correlation
+## Cannabinoid Profile and Microbiome Correlation
 
 ## Overview
 

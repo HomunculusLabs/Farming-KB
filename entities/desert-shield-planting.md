@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Desert Shield Planting
+## Desert Shield Planting
 
 ## Description
 

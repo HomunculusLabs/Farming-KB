@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Nutrient Mobility and Deficiency Symptoms
+## Nutrient Mobility and Deficiency Symptoms
 
 ## Overview
 

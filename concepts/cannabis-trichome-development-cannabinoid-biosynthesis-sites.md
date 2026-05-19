@@ -6,7 +6,7 @@ related: ["trichome-development-and-morphology", "thc-content-factors-cultivatio
 created: 2026-05-09
 ---
 
-# Cannabis Trichome Development and Cannabinoid Biosynthesis Sites
+## Cannabis Trichome Development and Cannabinoid Biosynthesis Sites
 
 ## Introduction
 

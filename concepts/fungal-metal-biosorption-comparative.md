@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# [[aspergillus-fumigatus]] | UO₂²⁺ | 0.81 | Bhainsa & D'Souza, 1999 |
+## [[aspergillus-fumigatus]] | UO₂²⁺ | 0.81 | Bhainsa & D'Souza, 1999 |
 | Aspergillus oryzae | Cd²⁺ | 0.38 | Yin et al., 1999 |
 
 A. fumigatus shows particularly high uranium uptake, consistent with the general trend of uranium being biosorbed to high levels across all genera.

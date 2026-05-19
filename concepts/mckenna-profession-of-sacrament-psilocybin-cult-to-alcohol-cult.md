@@ -1,5 +1,10 @@
+---
+title: "Mckenna Profession Of Sacrament Psilocybin Cult To Alcohol Cult"
+tags:
+  - concept
+---
 
-# Profanation of the Sacrament - From Psilocybin Cult to Alcohol Cult
+## Profanation of the Sacrament - From Psilocybin Cult to Alcohol Cult
 
 ## Overview
 

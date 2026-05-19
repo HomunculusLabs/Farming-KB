@@ -5,7 +5,7 @@ tags: [natural-farming, straw-mulch, soil-health, plant-pathology, fukuoka]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# The Straw Scattering Controversy
+## The Straw Scattering Controversy
 
 One of the most telling episodes in [[comparison-natural-farming-vs-permaculture]] faces from the agricultural
 establishment. The debate over whether rice straw should be returned to

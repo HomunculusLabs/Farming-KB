@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, mycoparasite, hyperparasite, myxomycete-colonizer, biocontrol]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Aphanocladium album
+## Aphanocladium album
 
 **Type:** Species (Ascomycete)
 **Category:** Mycoparasite / Hyperparasite Complex

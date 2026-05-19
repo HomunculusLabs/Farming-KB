@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, african-fungi, psilocybin-mushrooms, fungal-distribution]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 type: concept
 ---
-# African Neurotropic Mushroom Species ## Overview Africa remains one of the most poorly explored continents for neurotropic fungi. The existing records are scattered, with most documentation from North Africa (especially Morocco and Algeria) and southern Africa. The central and western African regions are particularly understudied, despite having suitable tropical and subtropical climates for [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]**: Widespread in Africa
+## African Neurotropic Mushroom Species ## Overview Africa remains one of the most poorly explored continents for neurotropic fungi. The existing records are scattered, with most documentation from North Africa (especially Morocco and Algeria) and southern Africa. The central and western African regions are particularly understudied, despite having suitable tropical and subtropical climates for [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]**: Widespread in Africa
 - **Panaeolus africanus**: Distinctly African species, found in Chad,
   Central African Republic, and Sudan
 - **P. fimicola**: Widespread in northern Africa

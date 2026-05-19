@@ -6,7 +6,7 @@ tags: [mushrooms, filter, sterilization, gas-exchange, contamination-prevention]
 created: 2026-05-09
 ---
 
-# Filter Can Design for Mushroom Grow Bags
+## Filter Can Design for Mushroom Grow Bags
 
 The filter can is a simple but essential component of the boil-a-bag [[antimicrobial-compounds-mushroom-mycelium]] to breathe while preventing airborne contaminant spores from entering the sterile substrate. The design balances two competing needs: adequate airflow for mycelial respiration and effective filtration to exclude microscopic contaminants.
 

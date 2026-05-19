@@ -4,7 +4,7 @@ source: Ingham, E.R. (2004). The Field Guide I for actively-aerated-compost-tea 
 tags: [soil-science, mycorrhizae, glomalin, soil-aggregation, soil-food-web, compost-tea, ingham]
 ---
 
-# Glomalin — Arbuscular Mycorrhizal "Glue" for Soil Aggregation
+## Glomalin — Arbuscular Mycorrhizal "Glue" for Soil Aggregation
 
 ## Overview
 

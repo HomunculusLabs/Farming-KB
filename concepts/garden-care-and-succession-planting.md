@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Garden Care and Succession Planting
+## Garden Care and Succession Planting
 
 Updated: 2026-04-18
 

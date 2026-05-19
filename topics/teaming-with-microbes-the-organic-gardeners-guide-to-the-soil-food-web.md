@@ -27,7 +27,7 @@ related_concepts:
   - teaming-with-nutrients-essential-plant-nutrients
 ---
 
-# Teaming with Microbes — The Organic Gardener's Guide to the Soil Food Web
+## Teaming with Microbes — The Organic Gardener's Guide to the Soil Food Web
 
 *Teaming with Microbes: A Gardener's Guide to [[the-soil-food-web]]*, first published in 2006 by Jeff Lowenfels and Wayne Lewis with a foreword by Elaine Ingham, is one of the most influential popular books on soil biology ever written. It bridges the gap between academic soil science and practical garden management, translating complex microbial ecology into actionable guidance for home gardeners, landscapers, and small farmers. The book went through three editions (2006, 2010, and the definitive 2017 Timber Press Guide), each expanding its scientific scope and practical recommendations. A companion volume, *Teaming with Nutrients* (2013), extended the framework into plant nutrition.
 

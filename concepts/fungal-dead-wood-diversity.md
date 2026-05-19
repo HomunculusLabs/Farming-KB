@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Dead Wood and Coarse Woody Debris Dead wood and coarse woody debris (CWD) constitute one of the most important substrates for fungal diversity in forest ecosystems. The slow decomposition of lignified tissues allows extensive fungal succession and supports specialized communities. [[coprophilous-fungi]] fungal-succession-patterns [[saprotrophic-fungi]]
+## Fungal Diversity in Dead Wood and Coarse Woody Debris Dead wood and coarse woody debris (CWD) constitute one of the most important substrates for fungal diversity in forest ecosystems. The slow decomposition of lignified tissues allows extensive fungal succession and supports specialized communities. [[coprophilous-fungi]] fungal-succession-patterns [[saprotrophic-fungi]]
 
 ## Xylotropic Endophytes
 

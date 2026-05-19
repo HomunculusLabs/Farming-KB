@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Yakuruna
+## Yakuruna
 
 ## Description
 Yakuruna (from Quechua *yaku* = water, *runa* = person/people) are aquatic humanoid beings in Amazonian mythology, often described as water people or underwater dwellers. They inhabit submerged cities and palaces beneath the rivers and lakes of the Amazon basin, possessing their own culture, hierarchy, and magical abilities.

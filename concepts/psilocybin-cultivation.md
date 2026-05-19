@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, psychonautics, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Psilocybin Mushroom Cultivation
+## Psilocybin Mushroom Cultivation
 
 Psilocybin mushroom cultivation refers to the process of growing fungi that
 contain the psychoactive compounds psilocybin and psilocin. The most commonly

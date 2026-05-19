@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Tools Selection and Care
+## Garden Tools Selection and Care
 
 Beyond the four essential tools ([[combination-shovel]], bow rake, hoe, and file), several additional items significantly improve garden efficiency. Selecting quality tools and maintaining them properly extends their useful life for decades. In an era when most manufactured goods are designed to be disposable, proper tool care is a vanishing skill that every serious gardener should practice.
 

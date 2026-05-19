@@ -27,7 +27,7 @@ sources:
   - Frego KA. "Bryophytes as indicators of forest age and disturbance." Bryologist, 1996.
 ---
 
-# Bryophytes and Moss Ecology
+## Bryophytes and Moss Ecology
 
 Bryophytes — mosses, liverworts, and hornworts — are among the oldest lineages of land plants, colonizing terrestrial environments over 470 million years ago. Though often overlooked, these small but mighty organisms play outsized roles in ecosystem function, water cycling, soil formation, and biodiversity support. For gardeners, permaculturalists, and ecologists, understanding bryophytes unlocks practical strategies for moisture management, [[dighton-fungal-drought-tolerance-plant-water-relations]] but constrains them to moist environments for active growth and reproduction.
 - **Spore reproduction:** Most bryophytes reproduce via spores rather than seeds. Some also reproduce vegetatively through fragmentation, gemmae (in liverworts), bulbils, or specialized propagules. Vegetative reproduction allows colonization even without standing water for sperm dispersal.

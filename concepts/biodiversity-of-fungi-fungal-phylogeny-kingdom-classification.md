@@ -6,7 +6,7 @@ extracted: 2026-05-09
 tags: [mycology, phylogeny, taxonomy, biodiversity, fungal-classification, evolution]
 ---
 
-# Fungal Phylogeny and Kingdom Classification
+## Fungal Phylogeny and Kingdom Classification
 
 ## Overview
 

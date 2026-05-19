@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Brown Rice Vinegar (BRV)
+## Brown Rice Vinegar (BRV)
 
 **Updated:** 2026-04-18
 

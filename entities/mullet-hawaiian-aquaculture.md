@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, hawaiian, nutrient-cycling, permaculture]
 ---
 
-# Mullet in Hawaiian Aquaculture
+## Mullet in Hawaiian Aquaculture
 
 ## Description
 

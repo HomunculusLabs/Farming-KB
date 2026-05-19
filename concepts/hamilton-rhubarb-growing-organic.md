@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Rhubarb Growing - Organic Methods
+## Rhubarb Growing - Organic Methods
 
 Rhubarb is included among the vegetables because we eat its stems
 rather than its fruit. It is easy to grow and can be harvested from

@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How Do I Fix Soil Compaction in My Garden?
+## How Do I Fix Soil Compaction in My Garden?
 
 ## Short Answer
 Soil compaction is caused by heavy foot traffic, tilling when wet, and working with heavy machinery, resulting in dense soil that restricts root growth and water infiltration.

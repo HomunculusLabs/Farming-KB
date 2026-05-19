@@ -4,7 +4,7 @@ source: "Mr. Bloomfield's Orchard - [[nicholas-money-mycologist]]"
 topics: [mycology, fungal-physiology, membrane-biology, proton-pumps, nutrient-uptake]
 ---
 
-# Hyphal Proton Pumps, Electrical Biology, and Nutrient Uptake in Fungi
+## Hyphal Proton Pumps, Electrical Biology, and Nutrient Uptake in Fungi
 
 ## The Hypha as a Microscopic Battery
 

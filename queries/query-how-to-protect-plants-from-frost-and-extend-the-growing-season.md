@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Protect Plants from Frost and Extend the Growing Season
+## How to Protect Plants from Frost and Extend the Growing Season
 
 ## Short Answer
 [[comparison-season-extension-techniques-vs-cold-frame-gardening]] use physical barriers, thermal mass,

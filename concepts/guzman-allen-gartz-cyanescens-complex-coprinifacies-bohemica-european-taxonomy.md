@@ -1,4 +1,8 @@
-# Psilocybe cyanescens Complex and P. coprinifacies: European Taxonomic Confusion
+---
+title: "Psilocybe cyanescens Complex and P. coprinifacies: European Taxonomic Confusion"
+tags:
+  - concept
+---
 
 ## Overview
 

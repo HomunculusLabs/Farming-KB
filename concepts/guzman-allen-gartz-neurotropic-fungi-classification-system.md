@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi Classification System of Guzmán, Allen and Gartz
+## Neurotropic Fungi Classification System of Guzmán, Allen and Gartz
 
 ## Overview
 

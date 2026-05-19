@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Use Rock Dust in Your Garden
+## How to Use Rock Dust in Your Garden
 
 ## Short Answer
 Rock dust is a natural soil amendment made from finely ground volcanic, glacial, or

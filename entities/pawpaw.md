@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Pawpaw
+## Pawpaw
 
 **Type:** Species (Plant)
 **Category:** Deciduous understory fruit tree

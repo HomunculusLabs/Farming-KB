@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "General botanical and agricultural knowledge"
 ---
-# Jatropha curcas
+## Jatropha curcas
 
 ## Physic Nut
 Semi-evergreen shrub or small tree in the Euphorbiaceae family, native to

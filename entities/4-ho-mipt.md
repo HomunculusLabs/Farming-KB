@@ -17,7 +17,7 @@ sources:
   - https://www.isomerdesign.com/PiHKAL/explore.php?id=5091
   - https://www.caymanchem.com/product/21964
 ---
-# 4-HO-MiPT
+## 4-HO-MiPT
 
 ## Overview
 

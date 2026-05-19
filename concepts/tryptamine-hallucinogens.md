@@ -6,7 +6,7 @@ tags: [tryptamine, psychedelics, psilocybin, dmt, ayahuasca, mcKenna]
 aliases: [tryptamines, classic psychedelics, serotonin psychedelics, indolethylamines]
 ---
 
-# Tryptamine Hallucinogens
+## Tryptamine Hallucinogens
 
 ## Overview
 

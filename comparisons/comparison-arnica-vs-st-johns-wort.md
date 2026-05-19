@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Arnica vs St. John's Wort
+## Arnica vs St. John's Wort
 
 ## Overview
 

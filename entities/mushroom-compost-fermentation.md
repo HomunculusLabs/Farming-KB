@@ -5,7 +5,7 @@ type: entity
 tags: [technique, composting, fermentation, mushroom-growing]
 ---
 
-# Mushroom Compost Fermentation
+## Mushroom Compost Fermentation
 
 ## Description
 

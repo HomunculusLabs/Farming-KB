@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Canning Jar Lid Configuration
+## PF TEK Canning Jar Lid Configuration
 
 ## Overview
 

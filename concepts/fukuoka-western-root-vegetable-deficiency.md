@@ -8,7 +8,7 @@ sources: [masanobu-fukuoka-the-road-back-to-nature.md]
 type: concept
 ---
 
-# Fukuoka on Western Root Vegetable Deficiency
+## Fukuoka on Western Root Vegetable Deficiency
 
 During his travels through Europe and America, [[growing-root-vegetables-guide]], consuming only half of what they should
 for proper nutrition and health.

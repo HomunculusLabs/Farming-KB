@@ -15,7 +15,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Core Endorhiza Bacterial Community Composition in Cannabis
+## Core Endorhiza Bacterial Community Composition in Cannabis
 
 ## Overview
 

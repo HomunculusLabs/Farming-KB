@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycete, wood-decay, mycelial-foraging, fractal-mycelium, saprotroph]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Hypholoma fasciculare
+## Hypholoma fasciculare
 
 Hypholoma fasciculare, commonly known as the sulphur tuft, is a
 basidiomycete fungus that plays a significant role in wood

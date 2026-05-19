@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [microbiology, plant-growth, soil-foodweb, hormones]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 type: concept
 ---
 
-# Natural Growth Regulators Produced by Soil Microbes
+## Natural Growth Regulators Produced by Soil Microbes
 
 ## The Microbial Basis of [[arbuscule-isolation-metabolic-activity-assays]]. The plant then benefits from these compounds as
 they become available in the root zone or on leaf surfaces.

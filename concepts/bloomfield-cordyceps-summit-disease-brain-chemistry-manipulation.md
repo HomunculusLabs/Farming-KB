@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, cordyceps, entomopathogenic-fungi, insect-behavior, parasitism, summit-disease, chinese-medicine, ascomycetes]
 ---
 
-# Cordyceps, Summit Disease, and Fungal Manipulation of Insect Brain Chemistry
+## Cordyceps, Summit Disease, and Fungal Manipulation of Insect Brain Chemistry
 
 ## Summary
 

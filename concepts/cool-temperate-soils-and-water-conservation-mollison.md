@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Temperate Soils and Water Conservation
+## Cool Temperate Soils and Water Conservation
 
 Mollison's treatment of cool temperate soils emphasises their unique capacity
 for humus accumulation under natural forest and meadow regimes, the legacy of

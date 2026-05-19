@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Litter and Wood Decomposing Fungi
+## Litter and Wood Decomposing Fungi
 
 Fungi are the primary decomposers of plant litter and wood in terrestrial ecosystems, driving the global carbon cycle through enzymatic breakdown of cellulose, hemicellulose, and lignin. The fungal communities on decomposing plant material follow predictable successional patterns shaped by resource chemistry and competitive interactions.
 

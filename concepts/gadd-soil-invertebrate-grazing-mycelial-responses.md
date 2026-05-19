@@ -5,7 +5,7 @@ tags: [mycology, soil-ecology, grazing, collembola, nematodes, fungal-ecology]
 created: 2026-05-09
 ---
 
-# Soil Invertebrate Grazing Effects on Fungal Mycelia
+## Soil Invertebrate Grazing Effects on Fungal Mycelia
 
 ## Overview
 

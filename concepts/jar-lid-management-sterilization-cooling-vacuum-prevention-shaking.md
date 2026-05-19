@@ -1,4 +1,8 @@
-# Jar Lid Management During Sterilization and Cooling: Loose Lids, Vacuum Prevention, and Shaking Protocol
+---
+title: "Jar Lid Management During Sterilization and Cooling: Loose Lids, Vacuum Prevention, and Shaking Protocol"
+tags:
+  - concept
+---
 
 ## Overview
 

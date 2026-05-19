@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 tags: [chacruna, psychotria-viridis, ayahuasca, dmt, ethnobotany, amazon]
 ---
 
-# Chacruna (Psychotria viridis)
+## Chacruna (Psychotria viridis)
 
 Chacruna (*Psychotria viridis*) is a perennial shrub of the Rubiaceae
 family found throughout the Amazon basin. It is the essential companion

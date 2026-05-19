@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Cannabinoid Biosynthesis Pathway
+## Cannabinoid Biosynthesis Pathway
 
 Cannabinoid biosynthesis in [[trichome-development-and-morphology]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Read a Soil Test Report
+## How to Read a Soil Test Report
 
 ## Short Answer
 A soil test report measures pH, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and base saturation. Read it by first

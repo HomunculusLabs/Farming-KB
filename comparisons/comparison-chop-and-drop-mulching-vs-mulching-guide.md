@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Chop-and-Drop Mulching vs Mulching
+## Chop-and-Drop Mulching vs Mulching
 
 ## Overview
 Chop-and-drop mulching generates mulch in place by cutting plants and leaving

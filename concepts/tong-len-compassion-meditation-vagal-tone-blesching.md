@@ -5,7 +5,7 @@ tags: [meditation, compassion, vagus-nerve, mind-body-medicine, tibetan-buddhism
 source: "uwe-blesching-the-cannabis-health-index"
 ---
 
-# Tong-Len Compassion Meditation and Vagal Tone
+## Tong-Len Compassion Meditation and Vagal Tone
 
 ## Overview
 

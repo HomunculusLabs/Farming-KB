@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal-Faunal Interactions in Ecosystems
+## Fungal-Faunal Interactions in Ecosystems
 
 ## Overview
 

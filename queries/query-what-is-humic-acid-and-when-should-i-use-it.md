@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Humic Acid and When Should I Use It?
+## What Is Humic Acid and When Should I Use It?
 
 ## Short Answer
 

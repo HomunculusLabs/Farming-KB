@@ -7,7 +7,7 @@ sources:
   - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 
-# Reishi vs Oyster Mushroom Cultivation
+## Reishi vs Oyster Mushroom Cultivation
 
 ## Overview
 

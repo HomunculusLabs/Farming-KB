@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Design a Crop Rotation Plan for My Vegetable Garden?
+## How Do I Design a Crop Rotation Plan for My Vegetable Garden?
 
 ## Short Answer
 Crop rotation is the practice of growing different plant families in

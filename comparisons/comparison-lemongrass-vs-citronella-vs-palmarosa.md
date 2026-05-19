@@ -18,7 +18,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Lemongrass vs Citronella vs Palmarosa
+## Lemongrass vs Citronella vs Palmarosa
 
 All three plants belong to the genus *Cymbopogon*, a group of aromatic tropical and subtropical grasses in the Poaceae family valued worldwide for their fragrant essential [[coleman-cold-hardiness-testing-ratings]]** | USDA 10-11; dies below ~7 C | USDA 10-11; dies below ~5 C | USDA 9b-11; short frost tolerated |
 | **Propagation** | Division, stem cuttings | Seed, division | Seed, division |

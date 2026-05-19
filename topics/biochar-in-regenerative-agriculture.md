@@ -25,7 +25,7 @@ related_concepts:
   - cover-crops-green-manures
 ---
 
-# Biochar in Regenerative Agriculture
+## Biochar in Regenerative Agriculture
 
 Biochar is a carbon-rich solid material produced through the pyrolysis of
 biomass in an oxygen-limited environment. When integrated into regenerative

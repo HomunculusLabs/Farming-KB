@@ -8,7 +8,7 @@ sources:
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 ---
 
-# Molecular PCR Methods for Fungal Identification and Monitoring
+## Molecular PCR Methods for Fungal Identification and Monitoring
 
 Polymerase chain reaction (PCR) based methods have revolutionized [[biodiversity-fungal-genetic-diversity]] in natural populations. These techniques are especially valuable for fungi with few morphological markers.
 

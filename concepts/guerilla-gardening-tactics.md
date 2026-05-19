@@ -1,12 +1,12 @@
 ---
-title: Guerilla guerilla-gardening-tactics-methods
+title: "Guerilla Gardening Tactics"
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [gardening, organic-gardening]
 sources: [papers/urban-permaculture-guerilla-gardening.md]
 ---
-# Guerilla Gardening Tactics
+## Guerilla Gardening Tactics
 
 Guerilla gardening is the act of gardening on land that the gardener does not legally own — vacant lots, roadside strips, abandoned properties, traffic islands, and other neglected urban spaces. It combines food production, ecological restoration, and community activism.
 

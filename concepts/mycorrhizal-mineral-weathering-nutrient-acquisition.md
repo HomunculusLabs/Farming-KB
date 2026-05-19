@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: [papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
-# Mycorrhizal Mineral Weathering and Nutrient Acquisition
+## Mycorrhizal Mineral Weathering and Nutrient Acquisition
 
 Mycorrhizal fungi are among the most important biological agents of mineral
 weathering in terrestrial ecosystems. Through their ability to exude organic

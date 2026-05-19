@@ -5,7 +5,7 @@ type: entity
 tags: [place, amazonian-community, peruvian-amazon, fieldwork-site, urban-slum]
 ---
 
-# Belen (Iquitos)
+## Belen (Iquitos)
 
 ## Description
 

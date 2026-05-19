@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# What Is JADAM Farming and How Does It Work?
+## What Is JADAM Farming and How Does It Work?
 
 ## Short Answer
 JADAM (Jayonul Damun Umulgyeok) is a Korean [[coleman-deep-organic-farming-philosophy]] systems ever developed.

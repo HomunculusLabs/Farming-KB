@@ -5,9 +5,9 @@ type: species
 tags: [mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Agaricus sylvicola Agaricus sylvicola, commonly known as the Sylvan Agaricus or Wood Mushroom, is an edible Agaricus species found in woodland and forest-edge habitats. Unlike its meadow-dwelling relatives [[agaricus-arvensis]] for the larger Horse Mushroom.
+## Agaricus sylvicola Agaricus sylvicola, commonly known as the Sylvan Agaricus or Wood Mushroom, is an edible Agaricus species found in woodland and forest-edge habitats. Unlike its meadow-dwelling relatives [[agaricus-arvensis]] for the larger Horse Mushroom.
 
 ## Taxonomy and Description
 

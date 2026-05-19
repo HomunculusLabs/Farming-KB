@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Wilting and Plant Water Stress in Cannabis
+## Wilting and Plant Water Stress in Cannabis
 
 Wilting is a visible sign that cannabis plants are experiencing water
 stress -- either too much or too little. [[cervantes-cloning]] - managing wilt in cuttings

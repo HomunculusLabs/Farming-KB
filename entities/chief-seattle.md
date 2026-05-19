@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Chief Seattle
+## Chief Seattle
 
 ## Description
 

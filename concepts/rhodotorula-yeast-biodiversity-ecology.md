@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Rhodotorula: Pink Yeast Biodiversity and Ecology
+## Rhodotorula: Pink Yeast Biodiversity and Ecology
 
 Rhodotorula is a genus of [[biodiversity-yeast-diversity-ecology]]
 

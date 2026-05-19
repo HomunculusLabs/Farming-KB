@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka's Mountain Soil Restoration
+## Fukuoka's Mountain Soil Restoration
 
 **Source:** [[permaculture-plants-food-forest-ground-covers-bamboos]] protect from above. See also mountain-permaculture
 
@@ -18,7 +18,7 @@ sources:
 
 ## Merged: Fukuoka on Italian Desertification and Rocky Mountain Restoration
 
-# Italian Desertification and Rocky Mountain Restoration
+## Italian Desertification and Rocky Mountain Restoration
 
 Source: Masanobu Fukuoka, *The Road Back to Nature* (1996), pp. 46-49
 

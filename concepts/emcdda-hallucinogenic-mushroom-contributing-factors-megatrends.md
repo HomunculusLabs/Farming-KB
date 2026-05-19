@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Contributing Factors and Megatrends in Hallucinogenic Mushroom Use
+## Contributing Factors and Megatrends in Hallucinogenic Mushroom Use
 
 The emergence of [[magic-mushroom-smartshop-retail-europe]] and internet
 sales. Understanding these contributing forces is

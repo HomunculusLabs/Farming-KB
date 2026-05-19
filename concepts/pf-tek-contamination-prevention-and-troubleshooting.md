@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [cultivation, contamination, troubleshooting, sterile-technique, pf-tek, mycology]
 ---
 
-# PF Tek Contamination Prevention and Troubleshooting
+## PF Tek Contamination Prevention and Troubleshooting
 
 ## Overview
 

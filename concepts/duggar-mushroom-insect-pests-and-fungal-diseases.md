@@ -1,4 +1,8 @@
-# Mushroom Insect Pests and Fungal Diseases
+---
+title: "Mushroom Insect Pests and Fungal Diseases"
+tags:
+  - concept
+---
 ## Duggar (1915) — Identification, Biology, and Control Methods
 
 Successful [[hamilton-greenhouse-heating-and-temperature-control]] as the primary defense remains relevant to
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[det]]
 - [[sterilization]]
-- [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]

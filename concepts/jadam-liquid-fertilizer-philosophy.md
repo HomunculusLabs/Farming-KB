@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Liquid Fertilizer Philosophy and Traditional Wisdom
+## JADAM Liquid Fertilizer Philosophy and Traditional Wisdom
 
 JADAM's approach to liquid fertilizer challenges many modern [[solomon-liquid-fertilizers-and-foliar-feeding]] should not smell bad
 - There should be no maggots in the fermentation

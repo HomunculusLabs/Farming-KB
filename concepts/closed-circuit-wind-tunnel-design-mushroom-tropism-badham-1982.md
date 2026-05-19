@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Closed-Circuit Wind Tunnel Design for Mushroom Tropism Research
+## Closed-Circuit Wind Tunnel Design for Mushroom Tropism Research
 
 Edmond Badham's 1982 study of tropisms [[falconer-growing-mushrooms-in-sheds]] over
 72-hour experimental periods. The closed-circuit wind tunnel he designed

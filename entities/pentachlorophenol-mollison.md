@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, biocide, pollutant, water-purification, permaculture, toxic]
 ---
 
-# Pentachlorophenol
+## Pentachlorophenol
 
 ## Description
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Dopamine and the Endocannabinoid System
+## Dopamine and the Endocannabinoid System
 
 Dopamine is one of the most studied neurotransmitters in the brain, central
 to motivation, reward, motor control, and pleasure. In "The Cannabis Health

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MPM
+## MPM
 
 [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]
 and the isopropoxy [[methyl-j-entity-pihkal]]

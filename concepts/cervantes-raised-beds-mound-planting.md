@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Raised Beds and Mound Planting for Cannabis
+## Raised Beds and Mound Planting for Cannabis
 
 Raised beds and mound planting are essential
 techniques for [[cannabis-outdoor-growing]]

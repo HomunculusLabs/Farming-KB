@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Trap Cropping vs Companion Planting
+## Trap Cropping vs Companion Planting
 
 ## Overview
 

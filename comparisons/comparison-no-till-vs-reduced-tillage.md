@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# No-Till vs Reduced Tillage
+## No-Till vs Reduced Tillage
 
 ## Overview
 

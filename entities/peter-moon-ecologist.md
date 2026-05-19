@@ -5,7 +5,7 @@ type: entity
 tags: [people, ecologist, biodiversity, permaculture]
 ---
 
-# Peter Moon
+## Peter Moon
 
 ## Description
 

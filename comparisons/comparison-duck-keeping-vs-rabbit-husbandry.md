@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: []
 type: comparison
 ---
-# Duck Keeping vs Rabbit Husbandry
+## Duck Keeping vs Rabbit Husbandry
 
 Ducks and rabbits are two of the most practical small livestock choices for
 the homestead, yet they serve fundamentally different roles. Ducks produce eggs

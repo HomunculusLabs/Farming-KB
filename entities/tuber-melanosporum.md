@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Tuber melanosporum Vittad.
+## Tuber melanosporum Vittad.
 > *The Périgord black truffle — the "black diamond" of cuisine, an ectomycorrhizal ascomycete whose subterranean fruiting bodies have commanded premium prices for centuries across Mediterranean Europe.*
 
 ## Overview

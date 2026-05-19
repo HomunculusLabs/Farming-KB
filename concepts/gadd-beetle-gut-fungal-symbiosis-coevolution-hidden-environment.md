@@ -1,6 +1,11 @@
+---
+title: "Gadd Beetle Gut Fungal Symbiosis Coevolution Hidden Environment"
+tags:
+  - concept
+---
 Source: geoffrey gadd [[sarah-watkinson]] paul s dyer fungi in the environment
 
-# Beetle Gut Fungal Symbiosis: Coevolution in a Hidden Environment
+## Beetle Gut Fungal Symbiosis: Coevolution in a Hidden Environment
 
 Chapter 17 of Gadd, Watkinson & Dyer explores the remarkable diversity of fungi
 inhabiting the guts of beetles, revealing extensive symbiosis and coevolution
@@ -143,8 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of gadd beetle gut fungal symbiosis coevolution hidden environment into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

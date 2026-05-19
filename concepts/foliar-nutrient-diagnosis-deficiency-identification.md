@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Foliar Nutrient Diagnosis — Visual Deficiency Identification
+## Foliar Nutrient Diagnosis — Visual Deficiency Identification
 
 Foliar nutrient diagnosis is the practice of identifying plant [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] even when soil levels are adequate, because root uptake
 slows dramatically at low temperatures.

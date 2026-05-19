@@ -8,7 +8,7 @@ sources: ["papers/psilocybin-mushrooms-of-the-world-stamets.md"]
 type: concept
 ---
 
-# Panaeolus Cyanescens and Copelandia Identification
+## Panaeolus Cyanescens and Copelandia Identification
 
 Panaeolus cyanescens, commonly known as the "blue meanies," is one of
 the most potent psilocybin-containing mushrooms in the world. Under the

@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Permaculture Plant Index C-E
+## Permaculture Plant Index C-E
 
 This index covers plants from the letter C through E as catalogued in *Permaculture Plants: A Selection*. Entries are organized by common or scientific name with their primary uses and page references to the source text.
 

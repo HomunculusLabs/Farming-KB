@@ -26,7 +26,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-gartz.md
 ---
 
-# Mushroom Toxicity and Identification Warnings
+## Mushroom Toxicity and Identification Warnings
 
 Dangerous lookalike reference for wild mushroom foragers. Covers the most commonly confused edible-toxic pairs, distinguishing features, toxicity levels, and emergency procedures. Compiled from [[mushroom-identification]], [[mushroom-species-guide]], and [[psilocybin-mushroom-chemistry]].
 

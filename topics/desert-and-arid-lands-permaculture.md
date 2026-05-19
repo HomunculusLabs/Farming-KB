@@ -36,7 +36,7 @@ related_concepts:
   - keyline-design-water-management
 ---
 
-# Desert and Arid Lands Permaculture
+## Desert and Arid Lands Permaculture
 
 Deserts and arid lands cover roughly one-third of the Earth's land surface
 and are home to over two billion people. These landscapes are defined by

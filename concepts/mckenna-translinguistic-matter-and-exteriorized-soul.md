@@ -16,7 +16,7 @@ sources:
   - Dick, P.K. (1981). VALIS. New York: Bantam Books.
 ---
 
-# Translinguistic Matter and the Exteriorized Soul — McKenna
+## Translinguistic Matter and the Exteriorized Soul — McKenna
 
 ## Overview
 

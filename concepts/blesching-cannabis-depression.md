@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Depression
+## Cannabis and Depression
 
 [[blesching-cannabis-alcoholism]])
 

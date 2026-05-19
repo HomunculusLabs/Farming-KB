@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, mycoparasite, biocontrol, rhizoctonia, soil-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Verticillium biguttatum
+## Verticillium biguttatum
 
 **Type:** Species (Ascomycete)
 **Category:** Mycoparasitic Biocontrol Agent

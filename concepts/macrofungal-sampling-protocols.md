@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Macrofungal Sampling Protocols and Collection Methods
+## Macrofungal Sampling Protocols and Collection Methods
 
 ## Preliminary Research
 

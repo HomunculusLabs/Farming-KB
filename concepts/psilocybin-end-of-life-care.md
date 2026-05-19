@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [therapy, palliative, end-of-life, psilocybin, anxiety, depression, oncology, clinical-research]
 ---
 
-# Psilocybin-Assisted Therapy for End-of-Life Distress and Palliative Care
+## Psilocybin-Assisted Therapy for End-of-Life Distress and Palliative Care
 
 ## Overview
 

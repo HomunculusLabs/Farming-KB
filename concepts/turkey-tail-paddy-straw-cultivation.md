@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Turkey Tail and Paddy Straw Mushroom Cultivation (Trametes and Volvariella)
+## Turkey Tail and Paddy Straw Mushroom Cultivation (Trametes and Volvariella)
 
 This page covers two distinct genera of mushrooms from the Cotter cultivation guide: the **turkey tail** (*Trametes versicolor*), one of the most extensively researched medicinal mushrooms in the world, and the **paddy straw mushroom** (*Volvariella volvacea*), a heat-loving tropical species prized for its exceptional protein content and flavor.
 

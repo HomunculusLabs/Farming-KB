@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Patriarchal Religion and Control Systems
+## Patriarchal Religion and Control Systems
 
 ## Overview
 

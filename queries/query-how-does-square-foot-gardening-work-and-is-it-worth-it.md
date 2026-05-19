@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# How Does Square Foot Gardening Work and Is It Worth It?
+## How Does Square Foot Gardening Work and Is It Worth It?
 
 ## Short Answer
 

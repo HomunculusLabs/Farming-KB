@@ -4,9 +4,9 @@ created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Fungal Biodiversity Fungi exhibit remarkable developmental diversity and ecological ubiquity, yet their full biodiversity remains poorly characterized. The estimated 1.5 million fungal species (Hawksworth, 2001) represents one of the largest gaps in our cataloguing of Earth's biodiversity. [[biodiversity-fungi-soil-fungal-communities]] is exceptionally high, with [[soil-fungal-diversity]] has been dramatically underestimated.
+## Fungal Biodiversity Fungi exhibit remarkable developmental diversity and ecological ubiquity, yet their full biodiversity remains poorly characterized. The estimated 1.5 million fungal species (Hawksworth, 2001) represents one of the largest gaps in our cataloguing of Earth's biodiversity. [[biodiversity-fungi-soil-fungal-communities]] is exceptionally high, with [[soil-fungal-diversity]] has been dramatically underestimated.
 
 ### Multilocus Sequence Typing (MLST)
 

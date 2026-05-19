@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Persephone Period and Day Length
+## Persephone Period and Day Length
 
 The Persephone period is the portion of the year when day length falls below ten hours, causing plant growth to slow dramatically or effectively cease for most vegetable crops. Named by Eliot Coleman after the Greek myth of Persephone's descent to the underworld, this period is the central biological constraint that drives all planning for [[coleman-french-historical-winter-vegetable-production]]. Understanding its timing, its effects on different crops, and its variation by latitude is essential for successful [[coleman-winter-harvesting-logistics-workflow]].
 

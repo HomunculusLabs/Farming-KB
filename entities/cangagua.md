@@ -5,7 +5,7 @@ type: entity
 tags: [soil, geology, permaculture, soil-pan, ecuador, tropical-forest]
 ---
 
-# Cangagua
+## Cangagua
 
 ## Description
 

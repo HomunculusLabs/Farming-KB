@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Natural Pesticide Philosophy
+## JADAM Natural Pesticide Philosophy
 
 JADAM's approach to natural pesticide represents a pragmatic middle ground
 between romantic views of nature that reject all [[clay-pellet-seed-dispersal]]. Rather than pretending farming can

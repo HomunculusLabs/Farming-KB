@@ -5,7 +5,7 @@ tags: [design-history, architecture, modernism, art-education, industrial-design
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/bauhaus-movement.md
+  - raw/concepts/bauhaus-movement.md
 related_concepts:
   - bauhaus-movement
   - modernist-architecture
@@ -13,7 +13,7 @@ related_concepts:
   - typography
   - design-education
 ---
-# Bauhaus Movement
+## Bauhaus Movement
 The Bauhaus was a German school of art, design, craft, and architecture founded in 1919 by [[permaculture-urban-design-apartments-balconies]].
 The Bauhaus is often associated with functionalism, geometric clarity, minimal ornament, and modern materials.
 It was not merely a style; it was an educational experiment and a social project.

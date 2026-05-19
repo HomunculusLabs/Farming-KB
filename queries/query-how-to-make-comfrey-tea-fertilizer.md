@@ -7,7 +7,7 @@ sources:
   - "raw/papers/solomon-gardening-west.md"
 ---
 
-# How Do I Make Comfrey Tea Fertilizer?
+## How Do I Make Comfrey Tea Fertilizer?
 
 ## Short Answer
 

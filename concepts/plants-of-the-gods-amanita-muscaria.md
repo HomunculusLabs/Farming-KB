@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Amanita Muscaria (Fly Agaric)
+## Amanita Muscaria (Fly Agaric)
 
 ## Overview
 

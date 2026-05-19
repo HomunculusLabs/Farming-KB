@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Boundary Conditions in Permaculture
+## Boundary Conditions in Permaculture
 
 ## Overview
 

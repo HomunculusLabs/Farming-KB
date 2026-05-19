@@ -7,7 +7,7 @@ tags: [cannabis, beginner, plants, species-profiles, genetics, psychopharmacolog
 sources: []
 ---
 
-# Marijuana Strain Guide — Hybrid
+## Marijuana Strain Guide — Hybrid
 
 ## Overview
 

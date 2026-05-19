@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Root Cellaring vs Freezing
+## Root Cellaring vs Freezing
 
 ## Overview
 

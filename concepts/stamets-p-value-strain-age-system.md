@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, strain-selection, genetics, spawn-product
 created: 2026-05-09
 ---
 
-# The Stamets P Value System for Strain Age
+## The Stamets P Value System for Strain Age
 
 ## Why Strain Age Matters
 

@@ -8,7 +8,7 @@ type: concept
 tags: [dmt, plants, species]
 ---
 
-# DMT-Containing Species: Golden Guide
+## DMT-Containing Species: Golden Guide
 
 The Golden Guide to Hallucinogenic Plants documents numerous species containing **N,N-dimethyltryptamine (DMT)** and related tryptamine alkaloids. These plants span diverse botanical families and are used in indigenous practices across the Americas, Africa, and Asia. The guide provides [[new-world-hallucinogens-overview-and-ethnobotanical-context]] for each species and its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]**, specifically a tryptamine derivative with two methyl groups on the terminal amine nitrogen. Key pharmacological properties noted in the guide:
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Passive Solar and Biomass Energy
+## Passive Solar and Biomass Energy
 
 Passive energy works in most places most of the time with two main types: solar and mass. Both are low-cost, no-energy solutions fundamental to holmgren-[[permaculture]]-change-principle of free foraging)
 - Removes nitrogen from gardens

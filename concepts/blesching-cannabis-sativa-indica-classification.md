@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis Sativa and Indica Classification
+## Cannabis Sativa and Indica Classification
 
 Cannabis sativa and Cannabis indica represent the two primary subspecies
 classifications used to describe the psychoactive cannabis plant, each with

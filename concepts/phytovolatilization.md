@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Phytovolatilization
+## Phytovolatilization
 
 Phytovolatilization is a phytoremediation mechanism in which plants absorb contaminants from soil or water and subsequently release them into the atmosphere as [[rhizofiltration]], phytoextraction, phytostabilization, and rhizodegradation.
 

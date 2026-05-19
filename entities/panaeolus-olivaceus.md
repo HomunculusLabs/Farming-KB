@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: []
 ---
-# Panaeolus olivaceus
+## Panaeolus olivaceus
 **Panaeolus olivaceus**, commonly known as the **olive mottlegill**, is a small,
 dung-inhabiting mushroom found worldwide in temperate and subtropical regions. It is one
 of several species in the genus panaeolus known to contain psychoactive [[tryptamine]]

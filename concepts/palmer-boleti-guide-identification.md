@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [boletus, mushroom-identification, edible-fungi, nineteenth-century, palmer]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+sources: ["raw/papers/julius-auboineau-palmer-about-mushrooms.md"]
 type: concept
 ---
 
-# Palmer on Boleti Identification and Edibility
+## Palmer on Boleti Identification and Edibility
 
 The Boleti — pore-bearing fungi with sponge-like surfaces beneath their
 caps — were among Palmer's favorite [[palmer-toadstool-poisoning-cases]] that has been traced to a boletus." He

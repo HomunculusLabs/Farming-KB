@@ -16,7 +16,7 @@ sources:
   - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
-# Sigma-1 Receptor and Psychedelics
+## Sigma-1 Receptor and Psychedelics
 
 The sigma-1 receptor (Sig-1R) is an intracellular chaperone protein that has
 emerged as an important pharmacological target for several psychedelic

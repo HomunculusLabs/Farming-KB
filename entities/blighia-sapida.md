@@ -18,7 +18,7 @@ sources:
   - Hall IH, Iba K, Matsuura S (1984). "Mechanism of hypoglycin action." Toxicology and Applied Pharmacology.
 ---
 
-# Blighia sapida
+## Blighia sapida
 
 ## Overview
 

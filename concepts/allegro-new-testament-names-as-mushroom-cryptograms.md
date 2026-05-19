@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# New Testament Names as Mushroom Cryptograms
+## New Testament Names as Mushroom Cryptograms
 
 Allegro systematically decodes the names of New [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]] from the mound.
 

@@ -1,4 +1,8 @@
-# Cannabis Decarboxylation Chemistry
+---
+title: "Cannabis Decarboxylation Chemistry"
+tags:
+  - concept
+---
 
 Decarboxylation is the chemical process by which the carboxylic acid group (-COOH)
 is removed from a molecule, releasing [[chamovitz-plant-senses-overview]] material — primarily tetrahydrocannabinolic acid (THCA) and

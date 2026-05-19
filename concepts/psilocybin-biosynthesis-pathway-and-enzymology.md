@@ -6,7 +6,7 @@ related: ["tryptophan-biosynthesis-from-chorismate", "tryptophan-decarboxylase",
 created: 2026-05-09
 ---
 
-# Psilocybin Biosynthesis Pathway and Enzymology
+## Psilocybin Biosynthesis Pathway and Enzymology
 
 ## Introduction
 

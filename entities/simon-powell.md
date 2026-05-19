@@ -9,7 +9,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Simon G. Powell
+## Simon G. Powell
 
 British author, filmmaker, and philosopher known for *The Psilocybin Solution: The Magic of Mushroom Cultivation and the expanded mind* (2010, also published as *Sacred Mushroom: Psilocybin Mushrooms and the Rebirth of Nature*). His work explores the relationship between psychedelic mushroom experiences, ecological consciousness, and humanity's understanding of nature.
 

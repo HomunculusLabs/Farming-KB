@@ -5,7 +5,7 @@ type: entity
 tags: [technique, land-management, aboriginal, fire, australia, indigenous]
 ---
 
-# Firestick Farming
+## Firestick Farming
 
 ## Description
 

@@ -8,7 +8,7 @@ type: concept
 tags: [design, gardening]
 ---
 
-# [[comparison-double-digging-vs-no-till]] with plenty of [[query-best-mediterranean-herbs-for-beginner-herb-garden]]. For very
+## [[comparison-double-digging-vs-no-till]] with plenty of [[query-best-mediterranean-herbs-for-beginner-herb-garden]]. For very
 [[cervantes-raised-beds-mound-planting]] filled with a lighter soil mix.
 
 ## Specific Herbs and Their Cultivation

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Respiration and Carbon Flux
+## Fungal Respiration and Carbon Flux
 
 Fungal respiration is a major component of the global carbon cycle, contributing
 to the release of CO2 from soils to the atmosphere. Understanding the magnitude

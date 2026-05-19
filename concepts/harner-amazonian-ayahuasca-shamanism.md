@@ -15,7 +15,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Amazonian Ayahuasca Shamanism
+## Amazonian Ayahuasca Shamanism
 
 The upper Amazon rain forest is one of the last remaining areas where [[harner-american-indian-peyote-rituals]] shamans of the [[entheogen-cimora-folk-healing-ceremony]]. Healers gather groups of 5-25 patients in forest clearings for nighttime sessions. The healer distributes the potion, reciting orations and whistling to protect each person. Healing sessions involve:
 - Visionary diagnosis of illness

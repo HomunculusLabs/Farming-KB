@@ -8,7 +8,7 @@ type: concept
 tags: [pharmacology]
 ---
 
-# Ibogaine Pharmacology
+## Ibogaine Pharmacology
 
 Ibogaine is the principal psychoactive [[iboga-plant]].
 

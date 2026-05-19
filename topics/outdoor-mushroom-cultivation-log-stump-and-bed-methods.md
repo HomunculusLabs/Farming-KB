@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets, mycelium-running, growing-g
 related_concepts: [outdoor-mushroom-cultivation, outdoor-mushroom-bed, outdoor-mushroom-bed-preparation, shiitake-cultivation-log-method, shiitake-cultivation-guide, king-stropharia-wine-cap-cultivation, wine-cap-mushroom-cultivation, wine-cap-stropharia-cultivation, garden-mushroom-growing, spawn-run-and-colonization, oyster-mushroom-cultivation-methods]
 ---
 
-# Outdoor Mushroom Cultivation — Log, Stump, and Bed Methods
+## Outdoor Mushroom Cultivation — Log, Stump, and Bed Methods
 
 Outdoor mushroom cultivation is the oldest and most accessible approach to growing
 fungi for food and medicine. Long before sterile laboratories and climate-controlled

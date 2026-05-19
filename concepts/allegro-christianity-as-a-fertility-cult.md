@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Christianity as a Fertility Cult — The Eucharist as Mushroom Rite
+## Christianity as a Fertility Cult — The Eucharist as Mushroom Rite
 
 Allegro's most provocative thesis is that Christianity originated as a mushroom fertility cult, and that its central rituals — baptism, the Eucharist, and the crucifixion-resurrection cycle — are transformed [[allegro-amanita-muscaria-properties-and-pharmacology]] as the "body" of the fertility god. The bread and wine of the Christian Eucharist are substitute elements for the original mushroom sacrament.
 

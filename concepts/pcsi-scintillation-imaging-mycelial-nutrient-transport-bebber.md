@@ -1,4 +1,8 @@
-# PCSI Photon-Counting Scintillation Imaging of Mycelial Nutrient Transport
+---
+title: "PCSI Photon-Counting Scintillation Imaging of Mycelial Nutrient Transport"
+tags:
+  - concept
+---
 
 ## Overview
 Photon-counting scintillation imaging (PCSI) is a non-invasive technique that enables

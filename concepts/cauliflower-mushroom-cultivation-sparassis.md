@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Cauliflower Mushroom Cultivation (Sparassis)
+## Cauliflower Mushroom Cultivation (Sparassis)
 
 Cauliflower mushrooms (*Sparassis* spp.) are among the most exciting wild mushrooms to find in temperate forests worldwide. Even individually they can be quite large, and sometimes they form numerous clusters around the base of a dying tree or stump. With their distinctive brain-like appearance — masses of tightly curled, flattened blades resembling wet egg noodles — cauliflower mushrooms are both visually striking and culinarily prized. They have a pungent, spicy odor and a crunchy texture that holds up well in cooking. However, they are challenging to cultivate and are considered an advanced species.
 

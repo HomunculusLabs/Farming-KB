@@ -8,7 +8,7 @@ sources: [raw/papers/chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF Fruit Ripeness and Crack Prevention
+## KNF Fruit Ripeness and Crack Prevention
 
 [[comparison-natural-farming-vs-permaculture]] is the production
 of sweet, flavorful fruits without chemical inputs. The source

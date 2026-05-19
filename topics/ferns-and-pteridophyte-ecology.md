@@ -24,7 +24,7 @@ sources:
   - "Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag."
 ---
 
-# Ferns and Pteridophyte Ecology
+## Ferns and Pteridophyte Ecology
 
 Ferns (class Polypodiopsida) and their pteridophyte allies represent some of the oldest vascular plants on Earth, with a fossil record stretching back more than 360 million years to the Late Devonian. Unlike seed plants (gymnosperms and angiosperms), ferns reproduce via spores and lack flowers, fruits, and seeds entirely. This ancient lineage has produced roughly 10,500 extant species distributed across every continent except Antarctica, from tropical rainforest canopies to arctic rock crevices. Their ecological significance — as understory dominants, pioneer colonizers, soil stabilizers, and mycorrhizal partners — makes them essential components of nearly every terrestrial ecosystem.
 

@@ -9,7 +9,7 @@ sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 ---
-# Gaian Mind and Entheogenic Flora
+## Gaian Mind and Entheogenic Flora
 
 Simon G. Powell argues that [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]] represent
 legitimate natural products of the biosphere, unusual pieces of Gaian fabric

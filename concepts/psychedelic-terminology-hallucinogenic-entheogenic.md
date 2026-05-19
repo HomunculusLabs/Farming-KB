@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-future-drugs.md"
 ---
 
-# Psychedelic Terminology Hallucinogenic Entheogenic
+## Psychedelic Terminology Hallucinogenic Entheogenic
 
 The language used to describe psychoactive plants and compounds has evolved significantly over the past century. Three terms, hallucinogenic, psychedelic, and entheogenic, are commonly used to describe the same or similar substances, but each carries distinct connotations reflecting different historical contexts, cultural frameworks, and [[hallucinogenic-plant-chemistry]]
 

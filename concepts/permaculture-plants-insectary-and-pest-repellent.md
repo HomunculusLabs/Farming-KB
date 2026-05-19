@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# [[permaculture-design]] instead establishes year-round honey flow at permanent hive sites, integrated within the whole property design.
+## [[permaculture-design]] instead establishes year-round honey flow at permanent hive sites, integrated within the whole property design.
 
 Bees can effectively travel 2 miles from the hive. Where possible, nectar (N) and pollen (P) producing plants are used in preference to other utility plants offering no bee benefit.
 

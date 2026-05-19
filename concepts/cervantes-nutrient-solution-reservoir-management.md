@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Nutrient Solution and Reservoir Management
+## Nutrient Solution and Reservoir Management
 
 Proper nutrient solution and reservoir management are the backbone of
 successful [[plant-nutrient-uptake-mechanisms]]

@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# How Do I Choose the Right Irrigation Method for My Vegetable Garden?
+## How Do I Choose the Right Irrigation Method for My Vegetable Garden?
 
 ## Short Answer
 

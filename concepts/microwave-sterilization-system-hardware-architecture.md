@@ -14,7 +14,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Microwave Sterilization System Hardware Architecture
+## Microwave Sterilization System Hardware Architecture
 
 ## Overview
 

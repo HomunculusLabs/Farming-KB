@@ -5,10 +5,10 @@ type: chemical
 tags: [tryptamine, neurotransmitter, biosynthetic-intermediate, serotonin-analog]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-production.md]
+sources: ["raw/papers/the-metabolic-pathway-of-psilocybin-production.md"]
 ---
 
-# 4-Hydroxytryptamine
+## 4-Hydroxytryptamine
 
 4-Hydroxytryptamine (4-HT), also known as 4-serotonin or p-serotonin, is a positional isomer of [[psilocybin]]. While serotonin carries its hydroxyl group at the 5-position of the indole ring, 4-hydroxytryptamine bears it at the 4-position.
 

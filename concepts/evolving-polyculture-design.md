@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Evolving Polyculture Design
+## Evolving Polyculture Design
 
 Polyculture design is the art and science of assembling many plant and animal species into productive, self-maintaining systems. The process of evolving a polyculture begins with thorough site planning and earthworks, proceeds through strategic species placement, and matures into a complex [[cover-crop]] mix: nasturtium, Dolichos, Haifa clover, broad bean (fava), buckwheat, Umbelliferae (dill, fennel), lupin, vetch, dun peas, chilies, pigeon pea, or any useful species suitable to the climate. The aim is to completely carpet and overshade the ground within the first 18-20 months of growth.
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Overwintered Spinach
+## Overwintered Spinach
 
 Overwintered spinach is the practice of sowing spinach in late summer or early fall, allowing it to establish root systems before winter, and then harvesting it continuously through the winter and early spring under protective structures. At Four Season Farm in Maine, overwintered spinach has become the single most important winter green crop, providing reliable harvests from November through March with minimal inputs and no artificial heating.
 

@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Sustainable Wild Harvesting
+## Sustainable Wild Harvesting
 
 Sustainable wild harvesting represents one of permaculture's most foundational design principles: the careful, measured use of natural systems to yield ongoing productivity without degrading the resource base. Drawing from both traditional ecological knowledge and modern design thinking, it encompasses forestry, hunting, foraging, and the broader concept of harvesting renewable services from nature.
 

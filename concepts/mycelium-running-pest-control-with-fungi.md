@@ -9,7 +9,7 @@ type: concept
 tags: [fungi, mycelium]
 ---
 
-# Mycopesticides: Fungi as Natural Insect Control
+## Mycopesticides: Fungi as Natural Insect Control
 
 mycopesticides-entomopathogenic-fungi began
 when his 1910 farmhouse, built in an old-growth forest clearing, was

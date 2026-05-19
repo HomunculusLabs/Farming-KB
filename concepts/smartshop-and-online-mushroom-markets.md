@@ -10,7 +10,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Smartshop and Online Mushroom Markets
+## Smartshop and Online Mushroom Markets
 
 ## Overview
 

@@ -18,7 +18,7 @@ sources:
   - Gbolade AA (2009). "Inventory of antidiabetic plants in selected districts of Lagos State, Nigeria." Journal of Ethnopharmacology.
 ---
 
-# Vernonia amygdalina
+## Vernonia amygdalina
 
 ## Overview
 

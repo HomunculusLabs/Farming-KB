@@ -1,5 +1,5 @@
 ---
-title: Fukuoka No fukuoka-no-cultivation-principle-soil-self-tillage
+title: "Fukuoka No Cultivation Principle"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Principle 1: No Cultivation
+## Principle 1: No Cultivation
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 
@@ -54,7 +54,7 @@ Winter grain cultivation without tilling demonstrates how carefully timed seedin
 The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
 ## Merged: Humid Tropics Permaculture Design
 
-# Humid Tropics Permaculture Design
+## Humid Tropics Permaculture Design
 
 Permaculture Two (1979) Section 5.2 addresses the special challenges and strategies for permaculture design in humid tropical climates, drawing on Paulsen, Van der Muelen, Fukuoka, and Frank Martin.
 

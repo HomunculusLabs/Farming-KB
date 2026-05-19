@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Patterns of Social Hierarchy
+## Patterns of Social Hierarchy
 
 ## Overview
 

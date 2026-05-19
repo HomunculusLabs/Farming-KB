@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: [/Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+sources: ["raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"]
 ---
 Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[accessible-mushroom-cultivation-for-disabilities]], [[building-with-natural-materials]]
 - [[mushroom-disabilities-training-program-design]]

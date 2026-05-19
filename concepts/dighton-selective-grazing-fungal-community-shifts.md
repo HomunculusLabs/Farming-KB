@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Selective Grazing by Soil Fauna and Fungal Community Shifts
+## Selective Grazing by Soil Fauna and Fungal Community Shifts
 
 Soil fauna do not graze fungi randomly. Selective feeding preferences among
 fungal species can fundamentally alter the outcome of fungal competition,

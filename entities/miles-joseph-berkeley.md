@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Miles Joseph Berkeley
+## Miles Joseph Berkeley
 
 ## Description
 

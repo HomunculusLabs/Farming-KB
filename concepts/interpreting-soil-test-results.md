@@ -23,7 +23,7 @@ sources:
 - raw/nicole-faires-the-ultimate-guide-to-natural-farming-and.md
 ---
 
-# Interpreting Soil Test Results
+## Interpreting Soil Test Results
 
 This page covers how to read a soil test report and translate numbers into action. For what to test, which labs to use, and sampling technique, see [[soil-testing]].
 

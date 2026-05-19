@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Cannabis Microbiome Dual-Experiment Design for Cultivar Specificity
+## Cannabis Microbiome Dual-Experiment Design for Cultivar Specificity
 
 ## Overview
 

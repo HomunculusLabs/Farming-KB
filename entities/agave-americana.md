@@ -27,7 +27,7 @@ sources:
   - Colunga-GarcíaMarín, P. et al. (2007). "Diversidad y Distribución del Género Agave." Boletín de la Sociedad Botánica de México, 81, 43–52.
 ---
 
-# Agave americana
+## Agave americana
 
 ## Overview
 

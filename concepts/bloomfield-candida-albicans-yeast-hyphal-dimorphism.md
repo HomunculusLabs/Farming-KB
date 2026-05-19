@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# [[fungal-commensal-vertebrate-associations]] and opportunistic pathogen that normally inhabits human skin and mucosal surfaces, including the vagina, throat, and intestine. It is a normal component of the rich [[fukuoka-ecological-balance-principles]] in favor of the fungus, allowing it to escape its normal constraints.
+## [[fungal-commensal-vertebrate-associations]] and opportunistic pathogen that normally inhabits human skin and mucosal surfaces, including the vagina, throat, and intestine. It is a normal component of the rich [[fukuoka-ecological-balance-principles]] in favor of the fungus, allowing it to escape its normal constraints.
 
 ## Yeast-Hyphal Dimorphism
 

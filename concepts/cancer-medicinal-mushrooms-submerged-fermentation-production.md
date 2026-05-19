@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Submerged Fermentation for Medicinal Mushroom Mycelium Production
+## Submerged Fermentation for Medicinal Mushroom Mycelium Production
 
 Mycelium production by liquid tank fermentation is an increasingly
 important approach for cultivating [[cotter-mushroom-nutrition-medicinal-compounds]] can be produced in this way it will lead

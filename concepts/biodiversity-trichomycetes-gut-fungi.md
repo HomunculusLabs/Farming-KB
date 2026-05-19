@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Trichomycetes: Gut Fungi of Arthropods
+## Trichomycetes: Gut Fungi of Arthropods
 
 Trichomycetes are obligate gut fungi that inhabit the digestive tracts
 of mandibulate arthropods worldwide. Currently about 225 species and 55

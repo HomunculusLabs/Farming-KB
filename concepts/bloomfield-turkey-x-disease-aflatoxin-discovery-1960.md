@@ -1,4 +1,8 @@
-# Turkey X Disease and the Discovery of Aflatoxins
+---
+title: "Turkey X Disease and the Discovery of Aflatoxins"
+tags:
+  - concept
+---
 
 ## Overview
 Turkey X disease was the catastrophic event in 1960 that led to the identification of
@@ -143,8 +147,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

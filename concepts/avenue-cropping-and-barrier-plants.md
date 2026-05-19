@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Avenue Cropping and Barrier Plants
+## Avenue Cropping and Barrier Plants
 
 [[avenue-cropping]] and barrier plants are two complementary strategies in [[permaculture-design]] that integrate productive tree systems with protective plantings to optimize yields, conserve soil, and manage microclimates. Both approaches emphasize multi-functional plantings that serve multiple purposes simultaneously—fuel, mulch, soil improvement, wind protection, erosion control, and animal exclusion.
 

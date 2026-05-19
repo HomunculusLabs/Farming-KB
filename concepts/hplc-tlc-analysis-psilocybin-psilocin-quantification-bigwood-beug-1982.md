@@ -4,7 +4,7 @@ created: 2026-05-10
 tags: [analytical-chemistry, hplc, tlc, psilocybin, psilocin, bigwood-beug-1982, quantification]
 ---
 
-# HPLC and TLC Analysis for Psilocybin and Psilocin Quantification
+## HPLC and TLC Analysis for Psilocybin and Psilocin Quantification
 
 ## Overview
 

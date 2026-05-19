@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Year-Round Real Food Availability
+## Year-Round Real Food Availability
 
 The vision of year-round availability of fresh, local "real" food represents the culmination of deep-organic farming philosophy applied through practical protected cultivation techniques. Eliot Coleman argues that the combination of deep-organic growing principles with winter harvest methods — cold-hardy variety selection, protected cultivation structures, and successive planting schedules — can make locally grown, nutritionally superior food available in every month of the year, even in cold northern climates.
 

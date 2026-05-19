@@ -7,7 +7,7 @@ tags: [mycology, fungi, health, medicine, academia, biology, lab-technique, immu
 sources: []
 ---
 
-# Fungal Vaccines
+## Fungal Vaccines
 
 ## Overview
 

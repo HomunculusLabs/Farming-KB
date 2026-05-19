@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Rain Garden vs Swale
+## Rain Garden vs Swale
 
 A comparison of two water-harvesting earthworks for managing stormwater and rehydrating landscapes.
 

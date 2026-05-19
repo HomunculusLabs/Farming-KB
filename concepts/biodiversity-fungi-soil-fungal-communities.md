@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Soil Fungal Communities
+## Soil Fungal Communities
 
 Soil fungal communities represent one of the most diverse and ecologically
 significant components of terrestrial ecosystems. They drive

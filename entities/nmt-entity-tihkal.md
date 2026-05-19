@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# NMT (N-Methyltryptamine) — TIHKAL #50
+## NMT (N-Methyltryptamine) — TIHKAL #50
 
 ## Compound Identity
 

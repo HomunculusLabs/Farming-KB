@@ -5,7 +5,7 @@ type: entity
 tags: [microbiology, nitrogen-fixation, soil-biology, bacteria, symbiosis, cultivation]
 ---
 
-# Diazotrophs
+## Diazotrophs
 
 ## Description
 

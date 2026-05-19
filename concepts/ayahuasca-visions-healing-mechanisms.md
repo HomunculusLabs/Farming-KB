@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Ayahuasca Visions and Healing Mechanisms
+## Ayahuasca Visions and Healing Mechanisms
 
 ## Overview
 

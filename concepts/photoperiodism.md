@@ -6,7 +6,7 @@ tags: [botany, plant-physiology, photoperiodism, phytochrome, flowering, circadi
 created: 2026-05-09
 ---
 
-# Photoperiodism
+## Photoperiodism
 
 Photoperiodism is the physiological response of plants to the relative lengths
 of light and dark periods. It is the mechanism by which plants measure day

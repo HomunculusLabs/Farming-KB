@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-# Stable Isotopes in Saprotrophic Fungi The natural abundance of stable isotopes, particularly nitrogen-15 (15N) and carbon-13 (13C), has become an increasingly important tool for investigating [[gigaspora-marginata]], using the widely different delta 13C
+## Stable Isotopes in Saprotrophic Fungi The natural abundance of stable isotopes, particularly nitrogen-15 (15N) and carbon-13 (13C), has become an increasingly important tool for investigating [[gigaspora-marginata]], using the widely different delta 13C
 of C3 and C4 plants to show that spore delta 13C decreased linearly from the
 C4 plant towards the proximity of the C3 plant in dual cultures.
 

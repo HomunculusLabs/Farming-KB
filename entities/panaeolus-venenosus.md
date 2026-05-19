@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, panaeolus, entheogenic, agaricales, dung-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 ---
 
-# Panaeolus venenosus
+## Panaeolus venenosus
 
 **Panaeolus venenosus** is a psychoactive mushroom species in the genus Panaeolus, reported from Australia. The species epithet "venenosus" (meaning poisonous or venomous) reflects its bioactive properties. It has historical significance in the study of Australian [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] effects.
 

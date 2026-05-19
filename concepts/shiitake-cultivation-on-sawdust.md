@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, mushroom-cultivation, shiitake, lentinula, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Shiitake Cultivation on Sawdust
+## Shiitake Cultivation on Sawdust
 
 Shiitake ([[growing-gourmet-mushroom-dehydration-methods-equipment]] in Asian cuisine.
 Traditionally grown on hardwood logs, modern cultivation increasingly uses

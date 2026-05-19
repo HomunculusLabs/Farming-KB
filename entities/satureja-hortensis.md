@@ -24,7 +24,7 @@ sources:
   - Hajhashemi, V. et al. (2000). "Antinociceptive and anti-inflammatory effects of Satureja hortensis." Journal of Ethnopharmacology, 69(3), 281–286.
 ---
 
-# Satureja hortensis
+## Satureja hortensis
 
 ## Overview
 

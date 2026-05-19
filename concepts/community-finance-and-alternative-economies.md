@@ -7,7 +7,7 @@ tags: [reference]
 sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
 
-# Community Finance and Alternative Economies
+## Community Finance and Alternative Economies
 
 updated: 2026-04-18
 

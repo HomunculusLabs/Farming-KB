@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Ancient Christian Agape Feast Communion and Eucharist Sacraments
+## Ancient Christian Agape Feast Communion and Eucharist Sacraments
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [crustacean, aquatic, bioaccumulation, heavy-metal, food-chain]
 ---
 
-# Gammarus pulex
+## Gammarus pulex
 
 ## Description
 

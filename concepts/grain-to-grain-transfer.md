@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Grain-to-Grain Transfer
+## Grain-to-Grain Transfer
 
 Grain-to-grain transfer is one of the most efficient methods of [[mushroom-cultivation-bulk-substrates]] rather than being expanded further. Experienced cultivators sometimes skip G-3 entirely and move from G-2 directly to bulk substrates or fruiting blocks to maintain strain vigor.
 

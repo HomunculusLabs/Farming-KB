@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# Colin Campbell (Petroleum Geologist)
+## Colin Campbell (Petroleum Geologist)
 
 ## Description
 

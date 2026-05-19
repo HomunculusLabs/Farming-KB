@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Pruning as Self-Perpetuating Human Error
+## Pruning as Self-Perpetuating Human Error
 
 ## The Vicious Cycle of Pruning
 

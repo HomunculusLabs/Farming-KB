@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybin, mushrooms]
 sources: [papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
-# Psilocybin Mushroom Substrate Ecology
+## Psilocybin Mushroom Substrate Ecology
 
 The diverse substrates and nutritional strategies employed by psilocybin-containing mushrooms, from dung-inhabiting coprophilous species to wood-decomposing lignicolous species and mycorrhizal associations.
 

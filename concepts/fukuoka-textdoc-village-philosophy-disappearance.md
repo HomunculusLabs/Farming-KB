@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Disappearance of the Village Philosophy
+## Disappearance of the Village Philosophy
 
 [[fukuoka-breakdown-japanese-agriculture]] and the broader critique of
 [[fukuoka-philosophy-of-mu-and-nature]]

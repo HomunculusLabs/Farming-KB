@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Organic [[root-vegetable-storage-guide]] should be monitored for readiness
+## Organic [[root-vegetable-storage-guide]] should be monitored for readiness
 
 ## July
 

@@ -18,7 +18,7 @@ sources: []
 type: comparison
 ---
 
-# C3 vs C4 vs CAM Photosynthesis Pathways
+## C3 vs C4 vs CAM Photosynthesis Pathways
 
 All three pathways accomplish the same fundamental task—converting atmospheric CO₂
 and water into sugars using light energy—but they differ dramatically in their

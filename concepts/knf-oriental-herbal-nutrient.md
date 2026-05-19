@@ -9,7 +9,7 @@ sources:
   - raw/papers/chos-global-natural-farming.md
 ---
 
-# KNF Oriental Herbal Nutrient (OHN)
+## KNF Oriental Herbal Nutrient (OHN)
 
 Oriental Herbal Nutrient is made by fermenting a blend of medicinal herbs in alcohol. It provides vitality to plants, helps them overcome stress, and strengthens resistance to disease and pests.
 

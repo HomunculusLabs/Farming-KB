@@ -10,7 +10,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Soil Carbon Sequestration Through Holistic Grazing
+## Soil Carbon Sequestration Through Holistic Grazing
 
 Soil is the largest carbon reservoir in the terrestrial system. The mineral cycle—one of the four [[savory-holistic-management-overview]] provides a framework for accelerating soil carbon accumulation through properly managed grazing.
 

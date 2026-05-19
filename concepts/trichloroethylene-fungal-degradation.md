@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Trichloroethylene Degradation by Fungi
+## Trichloroethylene Degradation by Fungi
 
 Trichloroethylene (TCE) is a volatile aliphatic halocarbon compound widely
 used as an industrial degreasing solvent and as a chemical precursor in

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# The Profanation of 415 BC and Historical Evidence for Eleusinian Psychoactivity
+## The Profanation of 415 BC and Historical Evidence for Eleusinian Psychoactivity
 
 The most compelling historical evidence that the Eleusinian kykeon contained a psychoactive substance comes from the profanation scandals of 415 BC. These events, recorded by multiple ancient historians, reveal that the kykeon was widely known to produce identifiable psychoactive effects -- knowledge that could only come from direct experience with the sacred potion.
 

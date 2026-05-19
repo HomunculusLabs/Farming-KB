@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Zone and Sector Planning in Permaculture Design
+## Zone and Sector Planning in Permaculture Design
 
 Zone and sector ground planning is the core spatial organizing methodology of [[permaculture]]. Mollison describes it as "the whole key to efficient energy planning (which is, in fact, efficient economic planning)—the zonation and radial or sectoral placement of plants, animal ranges, and structures."
 

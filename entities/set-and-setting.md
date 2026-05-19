@@ -24,7 +24,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Set and Setting
+## Set and Setting
 
 **Set and setting** is a foundational concept in [[richard-alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern [[psilocybin-clinical-trial-landscape-2020-2025]] design.
 

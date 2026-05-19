@@ -1,4 +1,8 @@
-# [[what-a-plant-knows-plant-vision-and-light-perception|What]] a Plant Knows* by [[plant-gravitropism-and-spatial-awareness]] that rivals many animal sensory systems in its precision and reliability. The fact that a seedling emerging from total darkness can immediately orient its root downward and its shoot upward speaks to how deeply gravity sensing is embedded in plant biology.
+---
+title: "What a Plant Knows* by plant gravitropism and spatial awareness that rivals many animal sensory systems in its precision and reliability. The fact that a seedling emerging from total darkness can immediately orient its root downward and its shoot upward speaks to how deeply gravity sensing is embedded in plant biology."
+tags:
+  - concept
+---
 
 ## The Gravity Sensors: Statoliths and Statocytes
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Drain-to-Waste vs Recirculating Hydroponic Systems
+## Drain-to-Waste vs Recirculating Hydroponic Systems
 
 [[cannabis-nutrient-solution-preparation]] after it passes through the [[jorge-cervantes]] describes both drain-to-waste (also called run-to-
 waste) and recirculating approaches, each with distinct advantages

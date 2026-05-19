@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Quantum Error Correction
+## Quantum Error Correction
 
 ## Overview
 

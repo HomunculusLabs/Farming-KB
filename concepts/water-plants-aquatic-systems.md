@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Water Plants for Aquatic Systems
+## Water Plants for Aquatic Systems
 
 Water plants are essential components of any aquatic system in
 [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]

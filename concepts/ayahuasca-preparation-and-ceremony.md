@@ -17,7 +17,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Ayahuasca Preparation and Ceremony
+## Ayahuasca Preparation and Ceremony
 
 The Amazonian psychoactive brew ayahuasca: its botanical components, chemical synergy, preparation methods, and ceremonial structure.
 

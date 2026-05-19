@@ -5,7 +5,7 @@ type: entity
 tags: [people, anthropology, structural-anthropology, france]
 ---
 
-# Claude Lévi-Strauss
+## Claude Lévi-Strauss
 
 ## Description
 

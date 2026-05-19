@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, neuroscience]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis for Neurological Conditions
+## Cannabis for Neurological Conditions
 
 Neurology is one of the most promising areas for medical cannabis research. The strongest evidence exists for epilepsy (specifically CBD), with growing evidence for multiple sclerosis, Parkinson's, and other conditions.
 

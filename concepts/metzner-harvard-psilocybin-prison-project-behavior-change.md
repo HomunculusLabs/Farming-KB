@@ -7,7 +7,7 @@ topics: [harvard, psilocybin, prison, leary, behavior-change, psychedelic-resear
 type: concept
 ---
 
-# Harvard Psilocybin Prison Project and Behavior Change Research
+## Harvard Psilocybin Prison Project and Behavior Change Research
 
 ## Overview
 

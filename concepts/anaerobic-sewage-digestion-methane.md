@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Anaerobic Sewage Digestion and Methane Production
+## Anaerobic Sewage Digestion and Methane Production
 
 Anaerobic sewage digestion is a biological treatment process that decomposes organic waste in the absence of oxygen, producing methane-rich biogas as a valuable byproduct. In [[permaculture-principles]] of turning outputs into inputs.
 

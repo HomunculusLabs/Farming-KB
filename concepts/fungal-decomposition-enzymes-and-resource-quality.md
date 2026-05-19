@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Decomposition Enzymes and Resource Quality
+## Fungal Decomposition Enzymes and Resource Quality
 
 ## Overview
 

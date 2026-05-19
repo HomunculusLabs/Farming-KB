@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Entheogenic Ceremony
+## Entheogenic Ceremony
 An entheogenic ceremony is a structured ritual involving the ingestion of
 psychoactive plants or fungi for purposes of healing, divination, spiritual
 exploration, or community worship. The term "entheogen," proposed by R. Gordon

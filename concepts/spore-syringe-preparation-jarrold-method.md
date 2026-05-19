@@ -1,4 +1,8 @@
-# Spore Syringe Preparation (Jarrold Method)
+---
+title: "Spore Syringe Preparation (Jarrold Method)"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[amf-spore-strain-variability-effectiveness]]
 - [[growing-gourmet-spore-germination-strain-isolation]]
 - [[pf-tek-mycelium-senescence-spore-mass-inoculation]]
-- [[pf-tek-spore-printing-and-syringe-preparation]]
-- [[spore]]

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Rehabilitation by Mechanical Conditioning
+## Soil Rehabilitation by Mechanical Conditioning
 
 [[soil-life]] to flourish and complete the rehabilitation.
 

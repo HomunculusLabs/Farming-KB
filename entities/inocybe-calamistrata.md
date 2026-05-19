@@ -9,7 +9,7 @@ updated: 2026-04-28
 sources: []
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
-# Inocybe calamistrata
+## Inocybe calamistrata
 
 Inocybe calamistrata is a [[psilocybin-north-america-pacific-northwest]].
 Its discovery as a psilocybin-containing species was significant

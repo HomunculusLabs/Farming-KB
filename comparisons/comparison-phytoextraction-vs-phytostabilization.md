@@ -18,7 +18,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Phytoextraction vs Phytostabilization
+## Phytoextraction vs Phytostabilization
 
 ## Overview
 Phytoextraction and phytostabilization are two phytoremediation

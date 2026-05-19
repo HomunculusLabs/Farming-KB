@@ -16,7 +16,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Macadamia vs Pecan vs Pistachio Cultivation
+## Macadamia vs Pecan vs Pistachio Cultivation
 
 This page compares three commercially important nut [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]: [[agroforestry]] systems in Australia, Hawaii, East Africa, and [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], [[permaculture-climate-zones]].
 ## Practical Applications

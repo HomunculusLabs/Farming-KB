@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Purdue Vegetable Harvest and Storage Guide
+## Purdue Vegetable Harvest and Storage Guide
 
 A [[greg-green-temperature-and-humidity-control]] requirements:
 

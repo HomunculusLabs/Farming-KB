@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Aquatic Polyculture and Pond Construction
+## Aquatic Polyculture and Pond Construction
 
 Aquatic polyculture integrates fish, crustaceans, molluscs, waterfowl, and plants in multi-species pond systems that far exceed the protein yields of most land-based animal production. Mollison provides detailed construction designs and species strategies for farm-scale aquaculture.
 

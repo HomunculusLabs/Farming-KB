@@ -28,7 +28,7 @@ sources:
   - Weyerstahl, P. et al. (2000). "Constituents of the permaculture-designers-manual-essential-oil-plants of Vetiveria zizanoides." Flavour and Fragrance Journal, 15(6), 395-412.
 ---
 
-# Vetiver (*Vetiveria zizanoides*)
+## Vetiver (*Vetiveria zizanoides*)
 
 Vetiver, classified as *Chrysopogon zizanoides* (syn. *Vetiveria zizanoides*), is a perennial tufted grass
 in the family Poaceae, native to tropical Asia and widely naturalized across the tropics and subtropics.

@@ -7,7 +7,7 @@ tags: [season-extension, gardening, permaculture, homesteading, construction]
 sources: []
 ---
 
-# Cold Frame Gardening
+## Cold Frame Gardening
 
 A cold frame is a simple, bottomless box with a transparent lid that captures solar energy to create a warm, protected microclimate for plants. It is the most basic and affordable season extension structure, providing 10-20°F of frost protection and extending the growing season by 4-8 weeks in both spring and fall. Cold frames are also indispensable for hardening off seedlings started indoors.
 

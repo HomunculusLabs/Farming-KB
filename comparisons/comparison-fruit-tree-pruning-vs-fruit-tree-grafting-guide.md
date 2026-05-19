@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Fruit Tree Pruning vs Fruit Tree Grafting
+## Fruit Tree Pruning vs Fruit Tree Grafting
 
 ## Overview
 Pruning and grafting are the two essential skills for fruit tree management,

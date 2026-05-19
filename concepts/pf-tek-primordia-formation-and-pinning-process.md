@@ -8,7 +8,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 type: concept
 ---
 
-# PF TEK Primordia Formation and Pinning Process
+## PF TEK Primordia Formation and Pinning Process
 
 The transition from vegetative [[pf-tek-cultivation-method]] cycle. Understanding the sequence
 of primordia formation, pinning, and fruit body development is essential for

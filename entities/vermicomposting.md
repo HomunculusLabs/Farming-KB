@@ -6,7 +6,7 @@ tags:
   - earthworm-ecology." 2nd ed. CRC Press.
   - Ndegwa, P.M. & Thompson, S.A. (2001). "Integrating composting and vermicomposting." Bioresource Technology, 76(2), 107–112.
 ---
-# Vermicomposting
+## Vermicomposting
 
 ## Overview
 

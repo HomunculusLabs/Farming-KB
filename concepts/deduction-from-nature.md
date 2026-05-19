@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Deduction from Nature
+## Deduction from Nature
 
 Deduction from nature is a [[masanobu-fukuoka]], whose remarkable journey to [[acacia]] provide sites for birds to roost, initiating soil changes that allow clumps or coppices of forest to form. Designers can use the same techniques with allied species of more direct use to pioneer food forests. Many indigenous peoples evolve scattered forest nuclei based on pioneer trees, termite mounds, and compost heaps. Designers can provide perches for birds to drop pioneer seeds, establishing plant nuclei in degraded lands around simple perches placed on disturbed sites.
 

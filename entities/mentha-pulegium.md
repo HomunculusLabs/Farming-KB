@@ -10,7 +10,7 @@ sources:
   - "raw/papers/medicinal-plants-of-the-world-vol2.md"
   - "raw/papers/essential-oil-safety-tisserand.md"
 ---
-# Mentha pulegium
+## Mentha pulegium
 
 **Mentha pulegium**, commonly known as **pennyroyal** or **European pennyroyal**, is a species of flowering plant in the family Lamiaceae (mint family). Native to Europe, North Africa, and western Asia, pennyroyal has a long and complex history of use in traditional herbal medicine, culinary applications, and folk magic — alongside a notorious reputation as one of the most toxic of the commonly used [[permaculture-designers-manual-essential-oil-plants]], particularly its major constituent **pulegone**, is a potent hepatotoxin and abortifacient that has caused numerous deaths throughout history, earning pennyroyal a unique place in the pharmacological literature as both a traditional remedy and a deadly poison.
 

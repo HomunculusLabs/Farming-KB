@@ -6,7 +6,7 @@ tags: [plant-senses, sensory-biology, photoreceptor, mechanoreception,
 chemoreception]
 ---
 
-# Plant Sensory Biology
+## Plant Sensory Biology
 
 ## Overview
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Greenhouse vs Underground Walipini
+## Greenhouse vs Underground Walipini
 ## Overview
 Both traditional above-ground greenhouses and underground walipinis extend the
 [[comparison-passive-solar-vs-earth-sheltered]] capture to trap heat within an

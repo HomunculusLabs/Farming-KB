@@ -9,7 +9,7 @@ tags: [psilocybin]
 updated: 2026-04-26
 ---
 
-# Psilocybin and End-of-Life Anxiety
+## Psilocybin and End-of-Life Anxiety
 
 While *The [[cannabis-and-anxiety-research]]
 (which accelerated after the book's publication), Powell extensively addresses the existential

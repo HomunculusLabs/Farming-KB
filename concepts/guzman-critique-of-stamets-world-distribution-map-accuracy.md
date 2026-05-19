@@ -1,4 +1,8 @@
-# Guzmán Critique of Stamets World Distribution Map
+---
+title: "Guzmán Critique of Stamets World Distribution Map"
+tags:
+  - concept
+---
 
 ## Overview
 Gastón Guzmán, the foremost authority on the taxonomy and [[psilocybin-mushrooms-as-alien-symbiotes]] exaggerated and

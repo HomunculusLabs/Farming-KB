@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# AACT Troubleshooting (Ingham)
+## AACT Troubleshooting (Ingham)
 
 Updated: 2026-04-18
 

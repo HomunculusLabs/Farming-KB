@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MMDA-3a
+## MMDA-3a
 
 MMDA-3a (2-Methoxy-3,4-methylenedioxyamphetamine) is a psychedelic amphetamine and one of the "[[dmmda-2-entity]]|MMDA-2: the 2-methoxy-4,5-methylenedioxy isomer
 - [[mmda-entity]]

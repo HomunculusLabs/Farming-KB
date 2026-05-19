@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Biblical Entheogenic Sacrament and Living Waters
+## Biblical Entheogenic Sacrament and Living Waters
 
 ## Overview
 

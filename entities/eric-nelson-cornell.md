@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, cornell, soil-microbiology, turf-grass]
 ---
 
-# Eric Nelson (Cornell University)
+## Eric Nelson (Cornell University)
 
 ## Description
 

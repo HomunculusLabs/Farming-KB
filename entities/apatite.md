@@ -5,7 +5,7 @@ type: entity
 tags: [mineral, phosphorus, geology, soil-science, nutrient-cycling]
 ---
 
-# Apatite
+## Apatite
 
 ## Description
 

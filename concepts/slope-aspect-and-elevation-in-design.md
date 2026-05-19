@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Slope, Aspect, and Elevation in Design
+## Slope, Aspect, and Elevation in Design
 
 In [[water-conservation]] by P.A. Yeomans supports the most viable agricultures — **provided the forest above remains uncut**.
 

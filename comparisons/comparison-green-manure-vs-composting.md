@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Green Manure vs Composting
+## Green Manure vs Composting
 Both green manure and composting build soil [[composting-methods-comparison]]
 Breaking down organic materials through controlled microbial decomposition into
 stable humus. Composting concentrates nutrients from diverse waste streams into

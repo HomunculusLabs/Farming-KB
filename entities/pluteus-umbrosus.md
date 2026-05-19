@@ -5,10 +5,10 @@ type: species
 tags: [pluteus, neurotropic, pluteaceae, psilocybin, wood-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Pluteus umbrosus
+## Pluteus umbrosus
 
 **Pluteus umbrosus** is a species of neurotropic mushroom in the family Pluteaceae. It is one of 6 species of *Pluteus* documented as containing or suspected to contain psilocybin and related indole alkaloids in the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Guzmán, Allen & Gartz (1998), which cataloged 216 species across four major groups of [[pluteus-glaucotinctus]], and [[pluteus-romellii]] — European species with documented psychoactive properties
 - [[pluteus-salicinus-profile]]

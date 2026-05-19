@@ -11,7 +11,7 @@ topics:
 - psychedelic-churches
 ---
 
-# Entheogenic Churches as Cultural Transformation Movements
+## Entheogenic Churches as Cultural Transformation Movements
 
 ## Overview
 

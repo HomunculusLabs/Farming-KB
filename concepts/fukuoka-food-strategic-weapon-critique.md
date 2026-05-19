@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-road-back-to-nature
 topics: geopolitics, food-policy, agriculture, international-trade, japan-us-relations
 ---
 
-# Food as a Strategic Weapon: Fukuoka's Critique
+## Food as a Strategic Weapon: Fukuoka's Critique
 
 ## America's Paradox: Affluent Appearance, Impoverished Reality
 

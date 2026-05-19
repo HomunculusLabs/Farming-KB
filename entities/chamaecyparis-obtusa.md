@@ -19,7 +19,7 @@ sources:
   - Hayashi, Y. (1960). "Studies on the 'Hinoki' (Chamaecyparis obtusa S. et Z.)." Bulletin of the Government Forest Experiment Station, Tokyo, 126, 1-137.
 ---
 
-# Chamaecyparis obtusa
+## Chamaecyparis obtusa
 
 ## Overview
 

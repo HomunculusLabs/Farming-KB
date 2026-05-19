@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Spitzenkörper as the Primary Hyphal Response Element
+## Spitzenkörper as the Primary Hyphal Response Element
 
 ## Overview
 

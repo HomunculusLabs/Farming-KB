@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hyphal Biology and Turgor Pressure in Fungi
+## Hyphal Biology and Turgor Pressure in Fungi
 
 ## Overview
 

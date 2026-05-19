@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Chinampa Wetland Garden System
+## Chinampa Wetland Garden System
 
 Chinampas are artificial agricultural islands built in shallow lake beds or
 marshlands, originally developed by the Aztec (Mexica) civilisation in the

@@ -1,4 +1,8 @@
-# Cannabis as Antiviral Agent Against Herpes Simplex Virus
+---
+title: "Cannabis as Antiviral Agent Against Herpes Simplex Virus"
+tags:
+  - concept
+---
 
 ## Overview
 Herpes simplex is a common virus belonging to the same family as the chickenpox

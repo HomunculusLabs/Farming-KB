@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Spore Mass Inoculation Techniques
+## Spore Mass Inoculation Techniques
 
 Spore mass inoculation is by far the simplest method of
 [[sterile-spore-print-collection-glass-jar-technique]] or bowl is placed over

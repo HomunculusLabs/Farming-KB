@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
   - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
-# Psilocybin and Mystical Experience
+## Psilocybin and Mystical Experience
 
 The [[allegro-the-sacred-mushroom-amanita-identification]] to the Western world. His 1957 Life magazine article "Seeking the [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] was transformative -- he found himself "awed by its transcendental visionary effects."
 

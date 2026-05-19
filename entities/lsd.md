@@ -22,7 +22,7 @@ aliases:
   - Acid
 ---
 
-# LSD (Lysergic Acid Diethylamide)
+## LSD (Lysergic Acid Diethylamide)
 
 **LSD** (N,N-diethyllysergamide) is a semi-synthetic psychedelic of the
 lysergamide class and one of the most potent [[cultural-evolution-and-psychoactive-substances]] known.

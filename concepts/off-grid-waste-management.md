@@ -7,7 +7,7 @@ tags: [off-grid, homesteading, greywater, water, sustainability, engineering]
 sources: []
 ---
 
-# Off-Grid Waste Management
+## Off-Grid Waste Management
 
 Managing human waste and wastewater without municipal sewer systems is a fundamental challenge of off-grid living. A well-designed waste management system protects groundwater, prevents disease, recycles nutrients, and converts waste into valuable resources for the homestead. This guide covers the main approaches to blackwater (toilet waste), greywater (sink/shower/laundry water), and integrated systems.
 

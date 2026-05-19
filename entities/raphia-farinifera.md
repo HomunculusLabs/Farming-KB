@@ -18,7 +18,7 @@ sources:
   - Dransfield, J. & Beentje, H.J. (1995). "The Palms of Madagascar." Royal Botanic Gardens, Kew.
 ---
 
-# Raphia farinifera
+## Raphia farinifera
 
 Raphia farinifera, the giant raffia palm or Raffia palm, is a large monocarpic palm species native to tropical Africa and Madagascar. It is the primary source of commercial raffia fiber, one of the most important natural fiber crops in the tropics.
 

@@ -7,7 +7,7 @@ tags: [bioremediation, mycofiltration, water-treatment, construction]
 sources: [raw/books/stamets-p-mycelium-running.md]
 ---
 
-# Mycofiltration Membrane Construction
+## Mycofiltration Membrane Construction
 
 Building [[permplant-willows-salix-erosion-control-fodder]]
 

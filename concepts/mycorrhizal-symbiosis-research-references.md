@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Symbiosis Research References
+## Mycorrhizal Symbiosis Research References
 
 > Key historical references on mycorrhizal symbiosis drawn from the reference
 > list of Chapter 3 ("Fungi and Primary Production") in John Dighton's

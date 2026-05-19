@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizal Fungi and Plant Symbiosis
+## Mycorrhizal Fungi and Plant Symbiosis
 
 Mycorrhizae ("fungus-roots") are symbiotic associations between fungi and the
 roots of plants. In these mutualistic relationships, the fungal partner

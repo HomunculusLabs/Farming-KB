@@ -9,7 +9,7 @@ type: concept
 tags: [soil]
 ---
 
-# Microscope Identification of Soil Biology
+## Microscope Identification of Soil Biology
 
 Microscopic identification of soil organisms is the foundation of the Soil Foodweb assessment approach. Direct microscopy allows practitioners to observe, measure, and categorize the living organisms in soil, compost, and compost tea.
 

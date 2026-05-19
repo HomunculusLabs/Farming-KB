@@ -1,4 +1,8 @@
-# Truffle Evolution: From Cup Fungi to Hypogeous Fruiting Bodies
+---
+title: "Truffle Evolution: From Cup Fungi to Hypogeous Fruiting Bodies"
+tags:
+  - concept
+---
 
 ## Overview
 

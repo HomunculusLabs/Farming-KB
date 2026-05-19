@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Enzyme-Based Bioremediation
+## Enzyme-Based Bioremediation
 
 Enzyme-based bioremediation uses isolated or immobilized enzymes, rather than whole living organisms, to transform or detoxify environmental contaminants.
 

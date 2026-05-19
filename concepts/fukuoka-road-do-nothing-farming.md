@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Philosophy of Do-Nothing Farming
+## Fukuoka's Philosophy of Do-Nothing Farming
 
 In  further develops his "do-nothing" [[fukuoka-road-spiritual-aspects-farming]] worldview. It was not a philosophical conclusion reached through argument but a sudden revelation — "a road back to nature" that arrived unbidden.
 

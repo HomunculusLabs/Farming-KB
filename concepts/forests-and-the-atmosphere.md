@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Forests and the Atmosphere
+## Forests and the Atmosphere
 
 Forests exert profound and complex influences on atmospheric conditions, including wind patterns, rainfall, humidity, air quality, and energy exchange. The relationships between forests and the atmosphere are far more intricate than commonly understood, and removing forests triggers cascading [[altitude-and-latitude-effects-on-climate]], soil, water, and ultimately the viability of human civilizations.
 

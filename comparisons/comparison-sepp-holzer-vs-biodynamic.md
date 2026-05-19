@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Sepp Holzer vs Biodynamic
+## Sepp Holzer vs Biodynamic
 
 A comparison of two European approaches to farming without chemical inputs.
 

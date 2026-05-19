@@ -13,7 +13,7 @@ tags:
   - fungal-ecology
 ---
 
-# The Fungal Biodiversity Estimation Gap: How Many Species Remain Undiscovered
+## The Fungal Biodiversity Estimation Gap: How Many Species Remain Undiscovered
 
 ## Overview
 

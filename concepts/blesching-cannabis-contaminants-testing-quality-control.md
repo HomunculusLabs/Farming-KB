@@ -6,7 +6,7 @@ topics: [cannabis, contaminants, pesticides, aspergillus, mold, quality-control,
 aliases: [cannabis contaminants, pesticide residue, aspergillus mold, cannabis testing, microbial contamination]
 ---
 
-# Cannabis Contaminants, Testing, and Quality Control
+## Cannabis Contaminants, Testing, and Quality Control
 
 ## Overview
 

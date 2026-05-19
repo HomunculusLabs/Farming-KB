@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for PTSD and Trauma
+## Cannabis for PTSD and Trauma
 
 ## Overview
 

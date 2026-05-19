@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Maryland Mammoth Tobacco and the Discovery of Photoperiodism
+## Maryland Mammoth Tobacco and the Discovery of Photoperiodism
 
 The Maryland Mammoth tobacco strain was the unlikely key that unlocked one
 of the most fundamental discoveries in plant biology: [[dmt-containing-plants-united-states-halpern]] Department of Agriculture in 1918,

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Are Permaculture Zones and How Do I Use Them?
+## What Are Permaculture Zones and How Do I Use Them?
 
 ## Short Answer
 

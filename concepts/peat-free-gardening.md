@@ -7,7 +7,7 @@ tags: [organic, gardening, sustainability, soil-amendment, compost, environment]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Peat-Free Gardening
+## Peat-Free Gardening
 
 ## Overview
 

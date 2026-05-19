@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Benefits of Integrating Chickens into a Permaculture System?
+## What Are the Benefits of Integrating Chickens into a Permaculture System?
 
 ## Short Answer
 Chickens are one of the most versatile and productive elements you can add to a permaculture system.

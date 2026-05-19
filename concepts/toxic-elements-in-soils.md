@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Toxic Elements in Soils and Biological Element Concentration
+## Toxic Elements in Soils and Biological Element Concentration
 
 Soils contain a spectrum of elements ranging from essential nutrients to deadly poisons. The difference between a beneficial trace element and a lethal contaminant is often a matter of concentration, chemical form, and biological context. This section covers the toxic elements that threaten soil health, food safety, and human wellbeing, followed by the biological mechanisms that concentrate, disperse, and cycle elements through living systems.
 

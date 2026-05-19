@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Irrigation and Water Management
+## Irrigation and Water Management
 
 Source: Steve Solomon, "Gardening When It Counts" (2005)
 

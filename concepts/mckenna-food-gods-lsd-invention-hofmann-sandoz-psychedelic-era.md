@@ -19,7 +19,7 @@ tags:
   - consciousness
 ---
 
-# LSD, Hofmann, and the Opening of Pandora's Box
+## LSD, Hofmann, and the Opening of Pandora's Box
 
 ## The Ergot Connection
 

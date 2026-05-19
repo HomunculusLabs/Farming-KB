@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# META-DOT
+## META-DOT
 
 [[dom]]. And the results
 fell into line in keeping with the activities (or loss of activities)

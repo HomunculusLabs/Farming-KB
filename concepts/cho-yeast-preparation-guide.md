@@ -15,7 +15,7 @@ sources:
  - "raw/papers/master-cho-knf-recipe-book.md"
 ---
 
-# Cho's Yeast Preparation and Applications
+## Cho's Yeast Preparation and Applications
 
 Yeast is a microorganism that plays a critical role in the final stage of fermentation within Dr. Cho's Korean Natural Farming system. It breaks down sugars into alcohol and carbon dioxide, enhances metabolism, and helps resynthesize decomposed organic substances into amino acids, hormones, vitamins, and other [[master-cho-knf-ffj-fermented-fruit-juice-guide]].
 

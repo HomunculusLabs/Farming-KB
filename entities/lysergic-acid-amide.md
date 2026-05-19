@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Lysergic Acid Amide
+## Lysergic Acid Amide
 
 **Lysergic acid amide** (LSA), also known as **D-lysergamide** or **ergine**, is a naturally occurring ergoline alkaloid and psychedelic compound. It is found in several species of [[turbina-corymbosa]]) and other Convolvulaceae, as well as in the fungal genus Claviceps (ergot fungi). LSA is a direct chemical precursor to LSD and shares a similar ergoline backbone, though it is significantly less potent and produces a qualitatively different experience.
 

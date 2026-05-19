@@ -26,7 +26,7 @@ sources:
 - concepts/no-till-farming.md
 ---
 
-# Cover Crop Quick Reference
+## Cover Crop Quick Reference
 
 Quick-reference table for selecting cover crops by family, planting window, and purpose. See [[cover-cropping-guide]] for the full concept page and [[no-till-gardening-method]] for integration with reduced-disturbance systems.
 

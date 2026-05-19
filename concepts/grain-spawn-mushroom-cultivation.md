@@ -4,7 +4,7 @@ source: magic-mushroom-growers-guide-ot-oss-on-oeric.md
 type: concept
 ---
 
-# Grain Spawn Cultivation for Mushrooms
+## Grain Spawn Cultivation for Mushrooms
 
 Growing fungal [[mycelium]] on sterilized grain — commonly called "[[grain-spawn]]" — is the critical bridge between laboratory-scale agar culture and production-scale [[mushroom-cultivation]]. The technique was originally developed by San Antonio (1971) for producing the common button mushroom (*[[agaricus-bisporus]]*) from cased grain spawn under laboratory conditions, and was adapted by Oss & Oeric (1976) for indoor cultivation of *[[stropharia-cubensis]]*. Today, grain spawn remains the standard method used by both commercial and hobbyist cultivators worldwide.
 

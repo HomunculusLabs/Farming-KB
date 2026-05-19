@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Lacto-Fermentation vs Canning: A Comprehensive Comparison
+## Lacto-Fermentation vs Canning: A Comprehensive Comparison
 
 [[lactic-acid-bacteria-knf]] (LAB) — naturally present on the surfaces of vegetables and fruits — to convert sugars into lactic acid. This process creates an acidic, anaerobic environment that inhibits harmful pathogens including Clostridium botulinum, the organism responsible for botulism. With a salt concentration of 2-3% by weight, beneficial LAB outcompete spoilage organisms, producing a safe, preserved food that is alive with beneficial microorganisms.
 

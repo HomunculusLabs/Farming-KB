@@ -4,7 +4,7 @@ source: mckenna_t-tryptamines_consciousness.md
 tags: [mckenna, osiris, eros, dmt, soul, eschatology, nag-hammadi, hibernation, christianity, mushroom-cult]
 ---
 
-# DMT, Alienated Soul, and the Body of Osiris
+## DMT, Alienated Soul, and the Body of Osiris
 
 ## The Mushroom as the Condensed Body of Eros
 

@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Compost Tea Insect Pest Suppression
+## Compost Tea Insect Pest Suppression
 
 [[elaine-ingham]]'s field guide documents numerous cases where [[actively-aerated-compost-tea]] (AACT) suppresses insect pests without chemical pesticides, working through indirect biological mechanisms rather than direct toxicity.
 

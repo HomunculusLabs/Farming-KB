@@ -20,7 +20,7 @@ sources:
   - raw/papers/magic_mushrooms_around_the_world.md
 ---
 
-# Psilocybin Bluing Reaction
+## Psilocybin Bluing Reaction
 
 The characteristic blue-to-green discoloration observed in psilocybin-producing mushrooms when bruised, handled, or aged. Understanding this reaction is essential for [[mushroom-identification]] and distinguishes psychoactive Agaricales from non-psychoactive species. See also [[psilocybin-mushroom-chemistry]] for alkaloid content and [[mushroom-toxicity-identification-warnings]] for lookalike species.
 

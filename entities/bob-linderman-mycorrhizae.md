@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, mycology, vam, mycorrhizal]
 ---
 
-# Bob Linderman (Mycorrhizal Researcher)
+## Bob Linderman (Mycorrhizal Researcher)
 
 ## Description
 

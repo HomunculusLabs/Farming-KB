@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
-# Dam Construction vs Swale Design
+## Dam Construction vs Swale Design
 
 ## Overview
 

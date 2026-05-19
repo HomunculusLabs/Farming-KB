@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Chronic Fatigue Research
+## Cannabis and Chronic Fatigue Research
 
 **Source:** The [[cannabis-chronic-pain-management]] patients
 

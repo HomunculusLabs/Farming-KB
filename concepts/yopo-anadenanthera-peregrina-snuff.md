@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Yopo (Anadenanthera peregrina): South American Tryptamine Snuff
+## Yopo (Anadenanthera peregrina): South American Tryptamine Snuff
 
 Yopo or parica (Anadenanthera peregrina, formerly Piptadenia peregrina) is a South American tree of the bean family (Leguminosae) that provides a potent hallucinogenic snuff prepared from its seeds. Now used mainly in the Orinoco basin, yopo has a documented history stretching back to 1496, when it was first reported from Hispaniola under the Taino Indian name cohoba.
 

@@ -20,7 +20,7 @@ sources:
   - Baker, Mark. "Keyline Design: A Comprehensive Guide to Water Management in Agriculture." 2020.
 ---
 
-# Keyline Design and Water Management in Permaculture
+## Keyline Design and Water Management in Permaculture
 
 Keyline design is a landscape management technique developed by Australian farmer and engineer Percival Alfred (P.A.) Yeomans in the 1940s and 1950s. It provides a systematic approach to understanding land shape, managing water, and building fertile soil in agricultural landscapes. The method centers on identifying specific contour lines in a landscape — called keylines — and using them as guides for [[natural-farming-methods-comparison]] were failing in the face of eroded soils and inadequate water retention. Yeomans observed that standard contour plowing and drainage practices actually accelerated water loss from productive valley floors and concentrated it in destructive flows down valley walls.
 

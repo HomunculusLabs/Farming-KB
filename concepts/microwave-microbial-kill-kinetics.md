@@ -5,7 +5,7 @@ tags: [microbiology, sterilization, microwave, kill-curves, inactivation]
 created: 2026-05-09
 ---
 
-# Microwave-Microbial Kill Kinetics
+## Microwave-Microbial Kill Kinetics
 
 Microwave-microbial kill kinetics describe the rate and pattern by which
 microorganisms are inactivated when exposed to [[microbial-kill-curves-sterilization-validation]] for mixed microbial populations, providing

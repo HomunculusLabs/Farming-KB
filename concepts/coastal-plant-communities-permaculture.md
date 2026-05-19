@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Coastal Plant Communities in Permaculture
+## Coastal Plant Communities in Permaculture
 
 Coastal environments present unique challenges for plant establishment: salt spray, sandy soils with low nutrient and water retention, strong winds, and occasional inundation by seawater. Permaculture design in [[coastal-ground-covers-hedges-permaculture]] covers, hedges, shrubs, and trees — each contributing to a resilient coastal system.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Mycorrhization Helper Bacteria
+## Mycorrhization Helper Bacteria
 
 Mycorrhization helper bacteria (MHB) are a specific group of plant growth-promoting rhizobacteria (PGPR) that stimulate the establishment and functioning of mycorrhizal symbioses. Unlike general PGPR that primarily benefit plants directly, MHB specifically target the mycorrhizal fungus-plant interaction, enhancing spore germination, hyphal growth, root colonization, and symbiotic effectiveness.
 

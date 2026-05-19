@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
 ---
-# Pezizales and Discomycete Ascomycete Diversity
+## Pezizales and Discomycete Ascomycete Diversity
 The Pezizales is one [[allegro-fertility-philosophy-of-the-ancient-near-east]] most economically
 important [[edible-wild-mushrooms-by-region]] collected for food. The
 family also includes Disciotis and other genera. Molecular

@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Bone Charcoal Preparation
+## Bone Charcoal Preparation
 
 **Source:** [[hamilton-composting-and-organic-matter-management]] and fats from the bones, leaving a porous mineral structure that can be dissolved by [[cho-water-soluble-phosphoric-acid-preparation]] from plant sources.
 

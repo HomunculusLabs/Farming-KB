@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Water Storage and Evaporation Control
+## Desert Water Storage and Evaporation Control
 
 Water is an expensive and precious resource in arid environments, where evaporation rates can reach 180 cm annually against rainfall as low as 30 cm. Effective water storage in deserts requires strategies that minimize evaporative losses through careful design of storage structures, surface treatments, and placement configurations.
 

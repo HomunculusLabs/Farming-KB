@@ -22,7 +22,7 @@ sources:
 - raw/papers/working-with-agar.md
 ---
 
-# Mushroom Spore Printing and Storage
+## Mushroom Spore Printing and Storage
 
 Spore collection is the foundation [[historical-development-of-mushroom-cultivation]] — every grow begins with spores. Techniques range from simple field prints for identification to sterile lab methods for long-term cultivation stock. See [[mushroom-identification]] for spore print colors as an ID feature, and [[fungal-biology-fundamentals]] for the role of spores in the fungal life cycle.
 

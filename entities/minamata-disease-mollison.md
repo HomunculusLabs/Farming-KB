@@ -5,7 +5,7 @@ type: entity
 tags: [environmental-health, heavy-metals, mercury, pollution, japan]
 ---
 
-# Minamata Disease
+## Minamata Disease
 
 ## Description
 

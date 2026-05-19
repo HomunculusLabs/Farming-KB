@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Egyptian Pyramid Initiation and the Stargate
+## Egyptian Pyramid Initiation and the Stargate
 
 The Great Pyramid at Gizeh served as the supreme site of initiation in [[entheogenic-knowledge-secret-societies]].
 

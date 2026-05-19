@@ -6,15 +6,15 @@ tags: [comparison, signal-processing, estimation, wavelets, control-theory]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
- - /Users/t3rpz/wiki/concepts/kalman-filter.md
- - /Users/t3rpz/wiki/concepts/wavelet-transform.md
+ - raw/concepts/kalman-filter.md
+ - raw/concepts/wavelet-transform.md
 related_concepts:
  - kalman-filter
  - wavelet-transform
  - signal-processing
 type: comparison
 ---
-# Kalman Filter vs Wavelet Transform
+## Kalman Filter vs Wavelet Transform
 The [[query-what-is-a-wavelet-transform-used-for]]
 
 See for more on Query What Are The Best Ancient And Heritage Grains For Small Scale Farming.

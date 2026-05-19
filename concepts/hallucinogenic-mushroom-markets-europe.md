@@ -4,7 +4,7 @@ source: carolina-mushrooms_08qxp.md
 tags: [drug-policy, europe, smartshops, markets, regulation, harm-reduction]
 ---
 
-# Hallucinogenic Mushroom Markets in Europe
+## Hallucinogenic Mushroom Markets in Europe
 
 The European market for [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. Product labeling included species name, approximate potency, and recommended dose ranges.
 

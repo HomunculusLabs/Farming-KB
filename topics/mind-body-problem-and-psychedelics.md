@@ -10,7 +10,7 @@ sources:
   - concepts/psychedelic-consciousness-models.md
 ---
 
-# Mind-Body Problem and Psychedelics
+## Mind-Body Problem and Psychedelics
 
 The [[psychedelic-substances-comparison]] have become important to this question because they alter consciousness through measurable biochemical events.
 A molecule such as psilocybin can enter the body, change receptor signaling in the brain, and transform perception, emotion, and selfhood.

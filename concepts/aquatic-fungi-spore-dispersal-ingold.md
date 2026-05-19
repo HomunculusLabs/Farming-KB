@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Aquatic Fungi and Spore Dispersal in Water
+## Aquatic Fungi and Spore Dispersal in Water
 
 Aquatic fungi inhabit freshwater and marine environments, playing essential
 roles in decomposition, [[aquatic-hyphomycetes-and-ingoldian-spores]] or

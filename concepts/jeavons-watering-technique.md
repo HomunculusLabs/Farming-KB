@@ -5,10 +5,10 @@ tags: [biointensive, watering, irrigation, soil-moisture, seed-propagation,
   plant-care]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+sources: ["raw/papers/jeavons-john-how-to-grow-more-vegetables.md"]
 type: concept
 ---
-# Watering Technique in Biointensive Gardens
+## Watering Technique in Biointensive Gardens
 Watering in the [[fungal-biodiversity-assessment-methods]]
 for watering beds and flats in the biointensive garden.
 ## Tools for Gentle Watering

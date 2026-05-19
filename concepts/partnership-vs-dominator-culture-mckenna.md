@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 topics: cultural evolution, patriarchy, anthropology, gender, history
 ---
 
-# Partnership vs Dominator Culture (McKenna)
+## Partnership vs Dominator Culture (McKenna)
 
 Terence McKenna adopted Riane Eisler's framework of "partnership" and
 "dominator" cultural models from her work "The Chalice and the Blade" as

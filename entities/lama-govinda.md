@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: entity
 ---
 
-# Lama Govinda
+## Lama Govinda
 
 ## Description
 

@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How Does Keyline Design Work in Permaculture?
+## How Does Keyline Design Work in Permaculture?
 
 ## Short Answer
 Keyline design is a land management technique developed by P.A. Yeomans that

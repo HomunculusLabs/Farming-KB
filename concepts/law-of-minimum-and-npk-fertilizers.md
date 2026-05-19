@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Law of the Minimum and NPK Fertilizers
+## Law of the Minimum and NPK Fertilizers
 
 The Law of the Minimum, formulated by Justus Von Liebig in 1863, is one of the most enduring principles in agricultural science. Along with the identification of nitrogen, phosphorus, and potassium as the primary limiting nutrients, it gave rise to the NPK fertilizer system that dominates modern gardening and farming. Understanding this law is essential for anyone seeking to optimize plant nutrition, whether through organic or conventional means.
 

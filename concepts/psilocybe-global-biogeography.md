@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
-# Psilocybe Global Biogeography
+## Psilocybe Global Biogeography
 
 The worldwide [[global-distribution-of-neurotropic-fungi]] fungi reveals striking patterns of species concentration in the subtropical and temperate regions, with the highest diversity in the [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]].
 

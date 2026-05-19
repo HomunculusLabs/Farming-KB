@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Use Kelp Meal as Fertilizer
+## How to Use Kelp Meal as Fertilizer
 
 ## Short Answer
 Kelp meal is a slow-release [[hamilton-kelp-and-seaweed-in-organic-gardening]], primarily species of

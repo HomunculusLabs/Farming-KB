@@ -7,7 +7,7 @@ tags: [fertilizer, organic, minerals, trace-elements, gardening, nutrients, soil
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Kelp Meal Fertilizer
+## Kelp Meal Fertilizer
 
 ## Overview
 

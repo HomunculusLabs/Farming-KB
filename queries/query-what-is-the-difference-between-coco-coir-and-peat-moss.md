@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Coco Coir and Peat Moss?
+## What Is the Difference Between Coco Coir and Peat Moss?
 
 ## Short Answer
 

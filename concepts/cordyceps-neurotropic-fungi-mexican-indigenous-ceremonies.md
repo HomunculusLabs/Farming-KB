@@ -3,7 +3,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-gartz.md
 tags: [neurotropic-fungi, cordyceps, ethnomycology, mexico, indigenous-ceremonies]
 ---
 
-# Cordyceps Neurotropic Fungi in Mexican Indigenous Ceremonies
+## Cordyceps Neurotropic Fungi in Mexican Indigenous Ceremonies
 
 ## Overview
 

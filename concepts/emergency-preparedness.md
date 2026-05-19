@@ -22,7 +22,7 @@ sources:
 - raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 ---
 
-# Emergency Preparedness
+## Emergency Preparedness
 
 Planning for power outages, severe weather, food and water shortages, and communication disruptions on the rural homestead. See [[homestead-first-aid-guide]] for first aid kits, common injuries, and poison control.
 

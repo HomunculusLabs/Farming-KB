@@ -18,7 +18,7 @@ sources:
   - Bleakley S, Hayes M (2011). "Algal proteins: extraction, application, and challenges concerning production." Foods, 2(1), 16-39.
 ---
 
-# Chlorella vulgaris
+## Chlorella vulgaris
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# Tallow [[faires-meat-processing-curing-and-smoking]] areas. This renders to a softer, more yellow tallow that is acceptable for candles but produces softer candles with a lower melting point. It may also retain more residual odor
+---
+title: "Tallow faires meat processing curing and smoking areas. This renders to a softer, more yellow tallow that is acceptable for candles but produces softer candles with a lower melting point. It may also retain more residual odor"
+tags:
+  - concept
+---
 - **Mixed fat**: Any combination of the above. Quality varies but is generally acceptable for basic candle production
 
 The hardness of the tallow directly affects candle quality. Harder tallow (from suet) produces taller, straighter candles that burn more slowly and drip less. Softer tallow produces candles that may bend, sag, or drip excessively, especially in warm conditions.
@@ -144,7 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
-## See Also

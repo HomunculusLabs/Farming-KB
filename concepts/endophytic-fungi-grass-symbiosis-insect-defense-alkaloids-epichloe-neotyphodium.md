@@ -1,4 +1,8 @@
-# Endophytic Fungi: Grass Symbiosis, Insect Defense Alkaloids, and the Hidden Fungal Partners of Pastures
+---
+title: "Endophytic Fungi: Grass Symbiosis, Insect Defense Alkaloids, and the Hidden Fungal Partners of Pastures"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[endophytic-fungal-diversity]]
-- [[endophytic-fungi]]
-- [[endophytic-fungi-living-inside-plants]]
-- [[endorhiza-endophytic-bacteria]]
-- [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]

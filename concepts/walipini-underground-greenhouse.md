@@ -4,7 +4,7 @@ created: 2025-05-08
 tags: [greenhouse, passive-solar, earth-sheltered, season-extension, passive-heating]
 ---
 
-# Walipini and Underground Greenhouses
+## Walipini and Underground Greenhouses
 
 ## Overview
 

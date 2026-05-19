@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Forest Effects on Precipitation
+## Forest Effects on Precipitation
 
 ## The Role of Forests in the Water Cycle
 

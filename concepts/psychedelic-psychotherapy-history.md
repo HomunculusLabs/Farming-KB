@@ -5,7 +5,7 @@ tags: [psychedelics, psychotherapy, LSD, psychiatry, psycholytic, psychedelic]
 created: 2026-05-08
 ---
 
-# Psychedelic Psychotherapy History
+## Psychedelic Psychotherapy History
 
 ## Overview
 

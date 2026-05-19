@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Fungi Research in Plant Nutrition and Symbiosis
+## Mycorrhizal Fungi Research in Plant Nutrition and Symbiosis
 
 ## Overview
 

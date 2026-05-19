@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, permaculture, pond-culture, polyculture]
 ---
 
-# Pangasius (Pangas Catfish)
+## Pangasius (Pangas Catfish)
 
 ## Description
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Dan Hemenway (Elfin Permaculture)
+## Dan Hemenway (Elfin Permaculture)
 
 ## Description
 

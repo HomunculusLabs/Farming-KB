@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Improve Soil Drainage in My Garden?
+## How Do I Improve Soil Drainage in My Garden?
 
 ## Short Answer
 Improving soil drainage involves a combination of physical amendments,

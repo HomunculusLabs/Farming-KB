@@ -5,7 +5,7 @@ author: Robert "psylocybe-fanaticus" McPherson
 tags: [drying, desiccant, silica-gel, drierite, preservation, potency]
 ---
 
-# Mushroom Desiccant Drying Methods
+## Mushroom Desiccant Drying Methods
 
 Proper drying is critical for preserving [[knf-imo-diversity-and-best-practices]].
 

@@ -8,7 +8,7 @@ sources: [john-dighton-fungi-in-ecosystem-processes.md]
 type: entity
 ---
 
-# Pisolithus tinctorius
+## Pisolithus tinctorius
 
 **Type:** Species (Fungus)
 **Category:** Ectomycorrhizal Basidiomycete

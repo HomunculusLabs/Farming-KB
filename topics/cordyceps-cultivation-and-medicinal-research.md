@@ -46,7 +46,7 @@ related_concepts:
   - medicinal-mushroom-guide-cordyceps
 ---
 
-# Cordyceps Cultivation and Medicinal Research
+## Cordyceps Cultivation and Medicinal Research
 
 Cordyceps is a genus of entomopathogenic fungi, meaning they are parasites of
 insects and other arthropods, that has captivated both traditional healers and

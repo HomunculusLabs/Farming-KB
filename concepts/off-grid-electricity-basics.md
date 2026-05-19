@@ -7,7 +7,7 @@ tags: [homesteading, engineering, equipment, sustainability]
 sources: []
 ---
 
-# Off-Grid Electricity Basics
+## Off-Grid Electricity Basics
 
 Off-grid electricity systems generate, store, and distribute power independently from the utility grid. For the homesteader, an off-grid system provides energy independence, resilience during grid outages, and the ability to live on remote land. The core components are solar panels, batteries, charge controllers, and inverters.
 

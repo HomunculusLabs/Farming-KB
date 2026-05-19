@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom House Preparation and Shelving Systems
+## Mushroom House Preparation and Shelving Systems
 
 ## Overview
 

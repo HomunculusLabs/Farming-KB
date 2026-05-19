@@ -12,7 +12,7 @@ tags:
   - freshwater-ecology
 ---
 
-# Ingold's Childhood in Benson — Discovery of Aquatic Spores in a Village Brook
+## Ingold's Childhood in Benson — Discovery of Aquatic Spores in a Village Brook
 
 Cecil [[coleman-louis-savier-twentieth-century-maraicher]], yet his most celebrated discovery began not in a
 sophisticated laboratory but beside an unremarkable chalk stream in the

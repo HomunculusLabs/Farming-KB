@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Insect and Disease Management in the Organic Garden
+## Insect and Disease Management in the Organic Garden
 
 ## Overview
 

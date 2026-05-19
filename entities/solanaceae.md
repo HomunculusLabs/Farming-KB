@@ -5,7 +5,7 @@ type: entity
 tags: [plant-family, nightshade, antidote, pharmacology, alkaloids]
 ---
 
-# Solanaceae (Nightshade Family)
+## Solanaceae (Nightshade Family)
 
 ## Description
 

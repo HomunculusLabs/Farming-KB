@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health]
 sources: []
 ---
 
-# Quail Husbandry (Detailed)
+## Quail Husbandry (Detailed)
 
 Coturnix quail (Coturnix japonica) are the most practical micro-livestock for
 the homestead. They reach maturity in just 6 weeks, begin laying eggs at 7-8

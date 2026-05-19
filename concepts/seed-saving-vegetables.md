@@ -7,7 +7,7 @@ tags: [seeds, vegetables, gardening, propagation, self-reliance, self-sufficienc
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Seed Saving Vegetables
+## Seed Saving Vegetables
 
 Practical guide to saving vegetable seeds for the home gardener, distilled from [[steve-solomon]]'s "[[gardening-when-it-counts]]." Home-garden seed production is one of the most valuable self-reliance skills, but it requires understanding the biology of each crop species.
 

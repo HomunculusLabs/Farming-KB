@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# MDMA Qualitative Effects and the Phenomenology of Ecstasy
+## MDMA Qualitative Effects and the Phenomenology of Ecstasy
 
 **Updated:** 2026-04-18
 

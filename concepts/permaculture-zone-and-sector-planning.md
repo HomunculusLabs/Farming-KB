@@ -1,4 +1,8 @@
-# Permaculture Zone and Sector Planning
+---
+title: "Permaculture Zone and Sector Planning"
+tags:
+  - concept
+---
 
 Zone and sector planning is a foundational methodology in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] is practical to manage
 and responsive to natural forces shaping the landscape.
@@ -144,7 +148,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[eucalyptus-permaculture]]

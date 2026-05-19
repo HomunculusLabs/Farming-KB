@@ -28,7 +28,7 @@ sources:
 - concepts/soil-food-web.md
 ---
 
-# Organic Nutrients vs Synthetic Nutrients
+## Organic Nutrients vs Synthetic Nutrients
 
 The organic vs synthetic nutrient debate shapes every growing decision on a homestead. This comparison focuses on practical outcomes for soil health, plant quality, cost, and long-term sustainability in the context of regenerative homesteading and cannabis cultivation.
 

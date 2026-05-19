@@ -16,7 +16,7 @@ sources:
   - "Yeo, R.R. (1965). \"Life History of Sagittaria latifolia.\" Ecology, 46(3), 444-448."
 ---
 
-# Sagittaria latifolia
+## Sagittaria latifolia
 
 ## Overview
 

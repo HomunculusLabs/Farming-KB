@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Rehabilitation Through Mushroom Cultivation
+## Rehabilitation Through Mushroom Cultivation
 
 The FAO [[grass-seed-substrate-for-mushroom-cultivation]] by people with
 disabilities introduces a "Three-in-One" training approach that combines

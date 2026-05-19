@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Pleurotus, Trametes, and Tremella Medicinal Species Profiles
+## Pleurotus, Trametes, and Tremella Medicinal Species Profiles
 
 Three distinct mushroom genera—Pleurotus ([[oyster-mushrooms]]), Trametes (turkey tail), and Tremella (jelly fungi)—represent important medicinal species with diverse [[cordyceps-cancer-bioactive-compounds]] ranging from cholesterol-lowering statins to powerful immunomodulators.
 

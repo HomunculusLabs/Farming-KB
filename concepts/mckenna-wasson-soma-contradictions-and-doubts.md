@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Wasson's Contradictions and Doubts About the Soma Identity
+## Wasson's Contradictions and Doubts About the Soma Identity
 
 Despite his lifelong advocacy for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] as the more
 plausible candidate.

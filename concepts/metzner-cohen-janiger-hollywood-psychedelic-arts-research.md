@@ -7,7 +7,7 @@ topics: [cohen, janiger, hollywood, lsd, psychedelic-therapy, arts, celebrity, s
 type: concept
 ---
 
-# Cohen and Janiger Psychedelic Research in the Hollywood Arts Community
+## Cohen and Janiger Psychedelic Research in the Hollywood Arts Community
 
 ## Overview
 

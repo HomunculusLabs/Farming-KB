@@ -1,4 +1,8 @@
-# Mycorrhizal Decline in European Forests: Acid Rain, Pollution, and Forest Health
+---
+title: "Mycorrhizal Decline in European Forests: Acid Rain, Pollution, and Forest Health"
+tags:
+  - concept
+---
 
 ## Overview
 

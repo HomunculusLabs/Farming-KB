@@ -5,7 +5,7 @@ type: entity
 tags: [adjuvant, sticker-spreader, foliar-application, compost-tea, saponin, aloe-vera]
 ---
 
-# Sticker-Spreader (AACT Application)
+## Sticker-Spreader (AACT Application)
 
 ## Description
 

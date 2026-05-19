@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# DMT (N,N-Dimethyltryptamine)
+## DMT (N,N-Dimethyltryptamine)
 
 TIHKAL entry #6. The archetypal short-acting psychedelic tryptamine, found endogenously in the human brain and widely distributed in nature (plants, animals). Known also as desoxybufotenine and nigerine. DMT is the primary active component in Amazonian snuffs and the basis of [[indole]], 3-[2-(dimethylamino)ethyl]
 - N,N-Dimethyltryptamine

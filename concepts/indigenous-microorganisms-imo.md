@@ -25,7 +25,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Indigenous Microorganisms (IMO)
+## Indigenous Microorganisms (IMO)
 
 IMO is the foundation of Korean Natural Farming. It captures and multiplies the native beneficial microorganisms from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As Master Cho states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
 

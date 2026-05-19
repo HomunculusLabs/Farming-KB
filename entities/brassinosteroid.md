@@ -5,10 +5,10 @@ type: chemical
 tags: [phytohormone, steroid, plant-growth-regulator, growth-promoting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md]
+sources: ["raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"]
 ---
 
-# Brassinosteroid
+## Brassinosteroid
 
 Brassinosteroids are a class of steroid phytohormones recognized since the 1970s as a distinct group of plant-growth regulators. Over 30 naturally occurring brassinosteroids have been identified across a wide range of higher plants, including both Angiospermae and Gymnospermae, as well as in at least one green alga.
 

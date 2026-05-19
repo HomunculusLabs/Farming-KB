@@ -8,7 +8,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 type: concept
 ---
-# Mushroom Pests and Insect Control Chapter XIV of The Mushroom Cultivator details the major pests encountered in mushroom culture. Mushroom flies and midges are present wherever fungi are found in nature, attracted by the odor of decomposing matter and growing mycelium. Their larvae cause the most extensive damage, either by feeding on mycelial cells or tunneling through fruitbodies. A commercial mushroom farm is always under siege by these pests. For [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] and compost, reducing it to a foul
+## Mushroom Pests and Insect Control Chapter XIV of The Mushroom Cultivator details the major pests encountered in mushroom culture. Mushroom flies and midges are present wherever fungi are found in nature, attracted by the odor of decomposing matter and growing mycelium. Their larvae cause the most extensive damage, either by feeding on mycelial cells or tunneling through fruitbodies. A commercial mushroom farm is always under siege by these pests. For [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] and compost, reducing it to a foul
     smelling, soggy mass.
 -   Migration into [[mushroom-pin-formation]].
 -   Symptoms: dead pinheads, loose mushroom connections, brown/black

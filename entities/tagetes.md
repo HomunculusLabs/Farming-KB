@@ -5,7 +5,7 @@ type: entity
 tags: [companion-plant, nematode-control, marigold, permaculture, pest-management]
 ---
 
-# Tagetes (Marigold)
+## Tagetes (Marigold)
 
 ## Description
 

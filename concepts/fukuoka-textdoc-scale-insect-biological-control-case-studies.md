@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Scale Insect Biological Control Case Studies
+## Scale Insect Biological Control Case Studies
 
 ## Overview of Scale Insect Problems
 

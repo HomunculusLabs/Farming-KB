@@ -6,7 +6,7 @@ tags: [fukuoka, hunter-gatherer, bushmen, africa, ecology, natural-farming, ecol
 created: 2026-05-08
 ---
 
-# Bushman Scrabbling Existence Is Not True Nature
+## Bushman Scrabbling Existence Is Not True Nature
 
 ## Overview
 

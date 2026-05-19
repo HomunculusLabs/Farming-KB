@@ -7,7 +7,7 @@ tags: [mycology, fungi, chemistry, health, medicine, safety, biochemistry, speci
 sources: []
 ---
 
-# Fungal Toxins Reference
+## Fungal Toxins Reference
 
 ## Overview
 

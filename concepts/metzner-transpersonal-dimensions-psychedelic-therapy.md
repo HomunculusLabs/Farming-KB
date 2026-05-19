@@ -8,7 +8,7 @@ sources:
   - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# Accessing Transpersonal Dimensions Through Psychedelic Psychotherapy
+## Accessing Transpersonal Dimensions Through Psychedelic Psychotherapy
 
 ## Overview
 

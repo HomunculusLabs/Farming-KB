@@ -7,7 +7,7 @@ sources:
   - "raw/papers/coleman-new-organic-grower.md"
 ---
 
-# How Do I Manage Weeds Organically Without Chemicals?
+## How Do I Manage Weeds Organically Without Chemicals?
 
 ## Short Answer
 

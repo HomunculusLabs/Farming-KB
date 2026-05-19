@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Livestock Grazing Strategies on Grasslands
+## Livestock Grazing Strategies on Grasslands
 
 ## Overview
 

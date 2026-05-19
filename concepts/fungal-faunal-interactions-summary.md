@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal-Faunal Interactions: Synthesis and Conclusions
+## Fungal-Faunal Interactions: Synthesis and Conclusions
 
 Fungi interact with animals across virtually all ecosystems through a spectrum of relationships ranging from mutualism to parasitism. These interactions are fundamental drivers [[fungi-as-regulators-of-ecosystem-processes]], influencing nutrient cycling, decomposition rates, plant community structure, and population dynamics of both fungi and fauna.
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/mushrooms-poisionous-fungi-by-john-ramsbottom-1945.md"
 ---
 
-# Gyromitrin
+## Gyromitrin
 
 **Gyromitrin** (acetaldehyde methylformylhydrazone) is a volatile, water-soluble organic
 compound and the primary toxic constituent of [[growing-gourmet-north-american-reishi-species]] species that fruits in

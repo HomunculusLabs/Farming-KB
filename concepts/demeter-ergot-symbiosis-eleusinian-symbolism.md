@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Demeter-Ergot Symbiosis in Eleusinian Symbolism
+## Demeter-Ergot Symbiosis in Eleusinian Symbolism
 
 **Source:** The Road to Eleusis, Chapter III — Carl A. P. Ruck
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
-# Keyhole Bed Design
+## Keyhole Bed Design
 
 Keyhole beds are one of the most practical and elegant space-saving garden layouts available to the home gardener. By bending a rectangular raised bed into a horseshoe shape with a central access path, keyhole beds dramatically reduce the area lost to paths while creating a more productive, accessible, and beautiful garden.
 

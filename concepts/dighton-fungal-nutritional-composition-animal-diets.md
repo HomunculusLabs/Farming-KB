@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Nutritional Composition of Fungi as Animal Food Resources
+## Nutritional Composition of Fungi as Animal Food Resources
 
 The [[genetic-improvement-agaricus-bisporus-molecular-approaches]]      | 50          | 1.2     | --                | 7       |
 | Boletus edulis         | 33          | 5       | 58                | 7       |

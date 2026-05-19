@@ -6,7 +6,7 @@ topic: mycology, tropism, mushroom physiology
 mined: 2026-05-11
 ---
 
-# Evaporative Demand as a Unified Four-Factor Model for Mushroom Tropism
+## Evaporative Demand as a Unified Four-Factor Model for Mushroom Tropism
 
 ## Overview
 

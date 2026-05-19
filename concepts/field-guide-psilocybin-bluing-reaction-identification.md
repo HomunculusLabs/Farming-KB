@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, identification, psilocybin, bluing-reaction, safety]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+sources: ["raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md"]
 type: concept
 ---
-# Field Guide to [[psilocybe-caerulescens]],
+## Field Guide to [[psilocybe-caerulescens]],
 but the stem crack test is more definitive.
 
 ## Reliability of the Bluing Reaction

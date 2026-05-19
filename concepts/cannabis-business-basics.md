@@ -7,7 +7,7 @@ tags: [cannabis, business, law, economics, organization, regulation, safety]
 sources: []
 ---
 
-# Cannabis Business Basics
+## Cannabis Business Basics
 
 ## Overview
 

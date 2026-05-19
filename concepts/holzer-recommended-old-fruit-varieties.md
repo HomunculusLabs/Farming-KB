@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Recommended Old Fruit Varieties
+## Holzer Recommended Old Fruit Varieties
 
 Supposedly very demanding varieties -- which experts say only thrive in warm climates at low altitudes -- can adjust to high altitudes and give satisfactory yields. Golden Delicious thrives at 1,400m above sea level with large, well-storing fruit. Do not be dissuaded from cultivating "demanding varieties" at high altitudes, provided they are sheltered from wind and in climatically advantageous locations. Never use chemical fertilisers -- this puts the tree out of balance and it will not survive winter (fertilised trees grow faster but do not lignify well, making them less frost resistant).
 

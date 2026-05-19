@@ -40,7 +40,7 @@ Updated: 2026-04-18
 Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]]
 ## Merged: Permaculture Succession Planting
 
-# Permaculture Succession Planting
+## Permaculture Succession Planting
 
 ## Care and Succession
 

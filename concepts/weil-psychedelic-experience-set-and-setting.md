@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [psychedelics]
 ---
-# Weil — Psychedelic Experience: Set and Setting
+## Weil — Psychedelic Experience: Set and Setting
 
 ## The Set and Setting Framework
 

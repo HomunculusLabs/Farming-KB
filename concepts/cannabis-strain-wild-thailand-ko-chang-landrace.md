@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# Wild Thailand
+## Wild Thailand
 
 **Breeder:** World of Seeds (Spain) — worldofseeds.eu
 **Genetics:** Landrace from Ko Chang archipelago, Thailand — Pure Sativa

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Fungal Decomposition of Saltmarsh Cordgrass — *Spartina alterniflora*
+## Fungal Decomposition of Saltmarsh Cordgrass — *Spartina alterniflora*
 
 ## Overview
 

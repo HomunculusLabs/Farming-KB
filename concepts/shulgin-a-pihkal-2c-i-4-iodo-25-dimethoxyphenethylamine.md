@@ -7,7 +7,7 @@ tags: [phenethylamine, 2C-family, 2C-I, psychedelic, Shulgin, PiHKAL, iodine, ra
 created: 2026-05-11
 ---
 
-# 2C-I (4-Iodo-2,5-Dimethoxyphenethylamine)
+## 2C-I (4-Iodo-2,5-Dimethoxyphenethylamine)
 
 ## Chemical Identity
 

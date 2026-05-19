@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Intuitive Reasoning Versus Inductive Experimentation in Agriculture
+## Intuitive Reasoning Versus Inductive Experimentation in Agriculture
 
 ## Overview
 

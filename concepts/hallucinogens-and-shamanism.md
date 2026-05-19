@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Hallucinogens and Shamanism — Introduction and Overview
+## Hallucinogens and Shamanism — Introduction and Overview
 
 ## Defining the Shaman
 

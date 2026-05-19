@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [raw/papers/forest-gardening-robert-hart.md]
 ---
-# Fungal Stress Responses Fungi have evolved sophisticated physiological and molecular mechanisms to survive environmental stress, including osmotic, temperature, oxidative, pH, nutrient, and radiation stress. These responses are mediated by conserved signal transduction pathways that link perception of environmental cues to adaptive cellular changes. Understanding these mechanisms is central to [[bloomfield-turgor-pressure-and-hyphal-invasion]] in appressoria -- up to 8 MPa -- for mechanical penetration of plant cuticles. The Osm1 (HOG) pathway in M. grisea prevents inappropriate appressorium formation during hyperosmotic stress, ensuring developmental decisions are made based on appropriate environmental signals.
+## Fungal Stress Responses Fungi have evolved sophisticated physiological and molecular mechanisms to survive environmental stress, including osmotic, temperature, oxidative, pH, nutrient, and radiation stress. These responses are mediated by conserved signal transduction pathways that link perception of environmental cues to adaptive cellular changes. Understanding these mechanisms is central to [[bloomfield-turgor-pressure-and-hyphal-invasion]] in appressoria -- up to 8 MPa -- for mechanical penetration of plant cuticles. The Osm1 (HOG) pathway in M. grisea prevents inappropriate appressorium formation during hyperosmotic stress, ensuring developmental decisions are made based on appropriate environmental signals.
 
 ## Temperature and Desiccation Stress
 

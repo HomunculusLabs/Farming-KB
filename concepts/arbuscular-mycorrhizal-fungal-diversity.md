@@ -4,9 +4,9 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Arbuscular Mycorrhizal Fungal Diversity
+## Arbuscular Mycorrhizal Fungal Diversity
 
 ## Overview
 

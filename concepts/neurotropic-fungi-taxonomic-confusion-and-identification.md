@@ -8,7 +8,7 @@ type: concept
 tags: [neurotropic-fungi, taxonomy, identification, psilocybin, misidentification, mycology]
 ---
 
-# Neurotropic Fungi — Taxonomic Confusion and Identification Challenges
+## Neurotropic Fungi — Taxonomic Confusion and Identification Challenges
 
 The scientific study of neurotropic (hallucinogenic or psychotropic) fungi
 has been plagued by taxonomic confusion, misidentification, and contradictory

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Aquaculture and Water Systems Aquaculture and water systems represent some of the most productive and space-efficient components of permaculture design. Bill Mollison devoted extensive coverage to the design and management of ponds, dams, and integrated aquatic polycultures in *Permaculture: A Designers' Manual*. Water systems in permaculture serve multiple functions including food production, irrigation storage, fire protection, wildlife habitat, microclimate moderation, and recreation. These systems connect to [[zone-and-sector-analysis]] plan. The ideal
+## Aquaculture and Water Systems Aquaculture and water systems represent some of the most productive and space-efficient components of permaculture design. Bill Mollison devoted extensive coverage to the design and management of ponds, dams, and integrated aquatic polycultures in *Permaculture: A Designers' Manual*. Water systems in permaculture serve multiple functions including food production, irrigation storage, fire protection, wildlife habitat, microclimate moderation, and recreation. These systems connect to [[zone-and-sector-analysis]] plan. The ideal
 [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]].
 
 ## Chinampas

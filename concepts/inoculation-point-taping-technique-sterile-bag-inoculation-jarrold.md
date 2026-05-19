@@ -6,7 +6,7 @@ source: [jarrold-indoor-mushroom-growing-technique-boil-a-bag]
 created: 2026-05-10
 ---
 
-# Inoculation Point Taping Technique for Sterile Mushroom Bag Inoculation
+## Inoculation Point Taping Technique for Sterile Mushroom Bag Inoculation
 
 ## Overview
 

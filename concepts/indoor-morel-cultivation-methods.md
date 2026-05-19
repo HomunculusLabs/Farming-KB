@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Indoor Morel Cultivation Methods
+## Indoor Morel Cultivation Methods
 
 Indoor morel cultivation remains one of the most challenging frontiers in mycology. While outdoor methods leverage natural [[cannabis-rhizosphere-microbial-communities]] and environmental cycles, indoor cultivation requires precise recreation of these complex conditions in a controlled environment. Though consistent year-round commercial production has not yet been achieved, significant progress has been made through [[psilocybin-isolation-and-early-scientific-research]] and experimental trials.
 

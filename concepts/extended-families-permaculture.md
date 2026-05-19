@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Extended Families in Permaculture
+## Extended Families in Permaculture
 
 The concept of the extended family in [[permaculture]] goes far beyond the traditional biological family unit. It describes a network of 1,000 or fewer members who share common ethical values and a cooperative interdependence that supplants competition. Such families can ally with like groups to create a tribe, and 20 to 40 such tribes can form a nation. Unlike many societies, families have child care and the welfare of their members at heart.
 

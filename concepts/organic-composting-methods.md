@@ -7,7 +7,7 @@ tags: [composting, soil]
 sources:
   - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
-# Organic Composting Methods
+## Organic Composting Methods
 
 Every garden must have a compost heap. This is the ideal way to return as much [[stamets-growing-room-air-circulation-co2-management]]** is vital. Without it, anaerobic bacteria develop and turn material into a stinking slime worse than useless on the garden. The container should allow air circulation. Never pack contents down too much. Mix fine material (grass cuttings, small weeds) with larger weeds, shredded newspaper, or straw.
 

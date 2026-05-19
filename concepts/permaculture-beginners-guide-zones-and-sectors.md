@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, zones, sectors, design, burnett, placement, planning]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-# Permaculture Beginners Guide — Zones and Sectors [[holmgren-permaculture-twelve-design-principles-framework]] for Zone 0:**
+## Permaculture Beginners Guide — Zones and Sectors [[holmgren-permaculture-twelve-design-principles-framework]] for Zone 0:**
 - Construct and function in sustainable, energy-efficient, ecologically harmonious ways
 - Choose locally available or renewable materials (wood, [[savory-energy-flow-and-solar-capture]]
 - **Stacking:** Multiple layers and functions occupy the same space, especially in Zone 1-2 gardens

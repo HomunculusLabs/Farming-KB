@@ -25,7 +25,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Mushroom Species Guide
+## Mushroom Species Guide
 
 A practical reference for the most accessible edible and medicinal mushrooms for home cultivation. Parameters drawn from Stamets, Oei, and grower sources. This page covers the five core species most suitable for home growers. For additional specialty species (agarikon, enokitake, pioppino, shaggy mane, and others), see [[specialty-mushroom-species]].
 

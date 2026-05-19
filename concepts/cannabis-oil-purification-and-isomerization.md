@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# Cannabis Oil Purification and Isomerization
+## Cannabis Oil Purification and Isomerization
 
 The transformation of crude cannabis extract into a highly potent, purified product
 involves two major stages: **purification** (removing non-psychoactive plant

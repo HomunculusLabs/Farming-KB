@@ -4,7 +4,7 @@ source: comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stame
 tags: [mycology, mushroom-cultivation, substrate-supplementation, nitrogen-supplements, biological-efficiency, sterilization, yield-optimization]
 ---
 
-# Substrate Supplementation Strategies for Mushroom Cultivation
+## Substrate Supplementation Strategies for Mushroom Cultivation
 
 ## Overview
 

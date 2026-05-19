@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Spirals, Flow, and Vortices in Nature
+## Spirals, Flow, and Vortices in Nature
 
 ## Overview
 
@@ -95,7 +95,7 @@ Flowforms are sculpted vessels designed to create specific vortex patterns. They
 Spirals are, in effect, single streamlines of vortices, tori, or sap flows. This connects them directly to:
 
 - **Pulsers** \u2014 The spiraling chemical reactions that drive [[pulsers-biological-rhythms-and-growth]] peristalsis
-- **Tori** \u2014 The donut-shaped flow patterns that underlie the core [[growing-gourmet-stametsian-permaculture-model]]
+- **Tori** \u2014 The donut-shaped flow patterns that underlie the core [[stametsian-permaculture-model]]
 - **Core models** \u2014 The fundamental tree/vortex pattern from which all other patterns derive
 
 DNA itself is coiled around a plus-torus like a ribbon around a doughnut, literally encoding the spiral-torus relationship into the genetic material of every living organism.

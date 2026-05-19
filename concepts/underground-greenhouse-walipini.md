@@ -7,7 +7,7 @@ tags: [season-extension, construction, permaculture, sustainability, homesteadin
 sources: []
 ---
 
-# Underground Greenhouse (Walipini)
+## Underground Greenhouse (Walipini)
 
 A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses [[mollison-designers-passive-solar-heating-building-design]] combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
 

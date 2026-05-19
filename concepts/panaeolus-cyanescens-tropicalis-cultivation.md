@@ -4,7 +4,7 @@ source: cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md
 type: concept
 ---
 
-# Panaeolus Cyanescens and Tropicalis Cultivation
+## Panaeolus Cyanescens and Tropicalis Cultivation
 
 This document outlines a practical cultivation method for *Panaeolus cyanescens* and *[[panaeolus-tropicalis]]* using sterilized substrate composed of cow dung, vermiculite, and straw. The method follows a straightforward workflow: [[substrate-preparation]], sterilization, inoculation, colonization, casing, and fruiting. *Panaeolus* species differ significantly from *[[psilocybe-cubensis]]* in their cultivation requirements, particularly regarding air exchange and substrate colonization density.
 

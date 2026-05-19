@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Cannabis Propagation — Seeds, Germination, and Cloning
+## Cannabis Propagation — Seeds, Germination, and Cloning
 
 ## Overview
 

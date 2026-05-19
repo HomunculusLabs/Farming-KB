@@ -7,7 +7,7 @@ tags: [regenerative, earth-building]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Settlement Types and Village Design
+## Settlement Types and Village Design
 
 > Source: [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] from the start.
 

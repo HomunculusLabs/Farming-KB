@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Magic Mushrooms in 1960s Counterculture
+## Magic Mushrooms in 1960s Counterculture
 
 updated: 2026-04-24
 

@@ -19,7 +19,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
-# Insectary Plants vs Trap Cropping
+## Insectary Plants vs Trap Cropping
 
 ## Overview
 Insectary plants and trap cropping are two [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that prey on or parasitize pests. Trap

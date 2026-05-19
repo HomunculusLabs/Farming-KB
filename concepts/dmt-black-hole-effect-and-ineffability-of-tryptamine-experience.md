@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# DMT Black Hole Effect and the Ineffability of Tryptamine Experience
+## DMT Black Hole Effect and the Ineffability of Tryptamine Experience
 
 Terence McKenna coined the phrase black hole effect to describe a
 distinctive epistemological property of the [[weil-the-natural-mind-altered-states-normalcy]] including LSD, where

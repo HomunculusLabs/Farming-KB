@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# TMA
+## TMA
 
 **[[mescaline]] but good humor and over-appreciation of jokes. Remarkable eyes-closed imagery tied to music. Irritated by other people's conversations. Equated to 300-350 mg [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]] with both serotonergic and adrenergic properties; cardiovascular monitoring is advisable
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Australia Fruit Fly Incident
+## Australia Fruit Fly Incident
 
 updated: 2026-04-18
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Quick Hoops and Low Tunnel Overwintering
+## Quick Hoops and Low Tunnel Overwintering
 
 ## Overview
 

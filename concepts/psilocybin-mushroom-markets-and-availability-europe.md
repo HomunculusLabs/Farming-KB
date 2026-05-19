@@ -5,7 +5,7 @@ tags: [drug-markets, europe, smartshops, internet, psilocybin, distribution]
 created: 2026-05-09
 ---
 
-# Psilocybin Mushroom Markets and Availability in Europe
+## Psilocybin Mushroom Markets and Availability in Europe
 
 ## Overview
 

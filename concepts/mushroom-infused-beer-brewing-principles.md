@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom-Infused Beer Brewing Principles
+## Mushroom-Infused Beer Brewing Principles
 
 Mushroom-infused beer represents a convergence of homebrewing and functional
 mycology, creating a beverage that delivers medicinal compounds in an

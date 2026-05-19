@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Magic Mushroom Global Distribution
+## Magic Mushroom Global Distribution
 
 ## Overview
 

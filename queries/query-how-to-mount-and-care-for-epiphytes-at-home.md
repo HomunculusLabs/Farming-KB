@@ -13,7 +13,7 @@ created: 2026-05-07
 type: query
 ---
 
-# How to Mount and Care for Epiphytes at Home
+## How to Mount and Care for Epiphytes at Home
 
 ## What Is Mounting?
 

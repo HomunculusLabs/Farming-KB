@@ -5,12 +5,11 @@ tags: [cannabis, breeding, disease-resistance, pest-resistance, genetics,
   clarke]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+sources: ["raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md"]
 type: concept
 ---
 
-# cannabis disease pest resistance breeding clarke
+## cannabis disease pest resistance breeding clarke
 
 Disease and pest resistance are among the most important traits for
 Cannabis breeders to consider, yet they are often overlooked in favor of

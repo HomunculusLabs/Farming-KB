@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Rockwool as a Cannabis Growing Substrate
+## Rockwool as a Cannabis Growing Substrate
 
 Rockwool is a widely used growing substrate in [[cannabis-seed-germination-methods]], [[cervantes-rooting-hormones-cloning]] for detailed rooting hormone
 information. For complete cloning procedures, see [[cannabis-nutrient-solution-preparation]] and then allowed to drain. Remember that rockwool

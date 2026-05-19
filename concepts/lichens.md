@@ -7,7 +7,7 @@ tags: [fungi, biology, ecology, symbiosis, academia, plants]
 sources: []
 ---
 
-# Lichens
+## Lichens
 
 Lichens are composite organisms that arise from a symbiotic relationship between a fungus (the mycobiont) and a photosynthetic partner (the photobiont — either a green alga or a cyanobacterium). They are among the oldest and most resilient living systems on Earth, capable of surviving in extreme environments from arctic tundra to desert rocks to tropical tree bark.
 

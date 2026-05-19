@@ -6,7 +6,7 @@ tags: [fukuoka, organic-farming, critique, scientific-agriculture, compost, gree
 created: 2026-05-11
 ---
 
-# Fukuoka's Critique of Organic Farming
+## Fukuoka's Critique of Organic Farming
 
 One of [[masanobu-fukuoka]]'s most controversial positions was his rejection of organic farming as a meaningful alternative to conventional agriculture. While organic farming is widely celebrated as an environmentally friendly approach, Fukuoka argued it was "just another type of scientific farming" — fundamentally no different from chemical agriculture in its reliance on human intervention and its misunderstanding of natural processes. This critique, articulated in *The Natural Way of Farming*, challenges the assumptions underlying both conventional and alternative agriculture.
 

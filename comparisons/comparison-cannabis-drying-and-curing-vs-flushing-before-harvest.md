@@ -18,7 +18,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
-# Cannabis Drying and Curing vs Flushing Before Harvest
+## Cannabis Drying and Curing vs Flushing Before Harvest
 
 ## Overview
 

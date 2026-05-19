@@ -6,7 +6,7 @@ type: concept
 sources: arthur-j-mushrooms-and-mankind.md
 tags: [reference]
 ---
-# Tree of Knowledge and Forbidden Fruit Theory
+## Tree of Knowledge and Forbidden Fruit Theory
 
 James Arthur's "[[allegro-amanita-muscaria-properties-and-pharmacology]] mushroom. Drawing on botanical, symbolic, mythological, and linguistic evidence, Arthur traces the Eden narrative back to an entheogenic mushroom experience that was subsequently suppressed and encoded in religious symbolism.
 
@@ -24,7 +24,7 @@ Arthur argues that the symbolic meaning of the [[sacred-mushroom-hypothesis]] �
 
 ## Merged: Serpent As Bringer Of Knowledge
 
-# Serpent as Bringer of Knowledge
+## Serpent as Bringer of Knowledge
 
 James Arthur's "Mushrooms and Mankind" develops a detailed argument that the serpent of Genesis — traditionally interpreted as a symbol of evil and deception — was originally a positive figure representing the bringer of knowledge and enlightenment. Arthur connects this reinterpretation to the broader symbolic identification of the serpent with the Amanita muscaria mushroom and traces the serpent's role as a knowledge-giver through Sumerian, Hindu, and other ancient traditions.
 

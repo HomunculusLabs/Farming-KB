@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Brassinosteroid Natural Occurrence Across Plant Kingdoms
+## Brassinosteroid Natural Occurrence Across Plant Kingdoms
 
 Brassinosteroids are distributed across an impressively broad range of
 plant lineages, reflecting ancient [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]]. As noted by Gartz, Adam and

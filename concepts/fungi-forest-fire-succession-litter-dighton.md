@@ -7,7 +7,7 @@ tags: [fungal-ecology, forest-floor, ecosystem, mycology]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Fungi in Forest Ecosystems — Fire, Succession, and Litter Dynamics (Dighton)
+## Fungi in Forest Ecosystems — Fire, Succession, and Litter Dynamics (Dighton)
 
 Updated: 2026-04-18
 

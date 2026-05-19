@@ -9,7 +9,7 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis.md
 type: concept
 ---
-# [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]], science, and humanity's
+## [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]], science, and humanity's
 relationship with the natural world.
 
 ## The Illusion of Cause and Effect

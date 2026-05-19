@@ -8,7 +8,7 @@ sources:
   - "papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Fungal Contributions to Soil Aggregation and Structure
+## Fungal Contributions to Soil Aggregation and Structure
 
 Fungi play a central role in the maintenance and development of soil
 structure owing to their filamentous growth habit. Through physical binding

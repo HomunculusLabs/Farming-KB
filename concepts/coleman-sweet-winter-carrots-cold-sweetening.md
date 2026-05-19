@@ -1,4 +1,8 @@
-# Sweet Winter Carrots and Cold Sweetening
+---
+title: "Sweet Winter Carrots and Cold Sweetening"
+tags:
+  - concept
+---
 
 **Source:** Eliot Coleman, *The [[coleman-french-historical-winter-vegetable-production]] → [[coleman-cold-greenhouse-double-layer-protection]]
 

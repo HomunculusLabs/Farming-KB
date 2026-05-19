@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology-history, american-science, nineteenth-century, palmer, cryptogamic-botany]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+sources: ["raw/papers/julius-auboineau-palmer-about-mushrooms.md"]
 type: concept
 ---
-# Palmer on the Neglected Science of Mycology in America
+## Palmer on the Neglected Science of Mycology in America
 In his 1877 article "A Neglected Science," published in the Boston Daily
 Globe, Palmer lamented the state of [[mckenna-the-kingdom-of-fungi]]
 lay untouched beneath everyone's feet.

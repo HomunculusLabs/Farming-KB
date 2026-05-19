@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# L. George Lawrence and Biological Interstellar Communication
+## L. George Lawrence and Biological Interstellar Communication
 
 ## Overview
 

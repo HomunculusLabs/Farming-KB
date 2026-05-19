@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
-# Fly-Agaric in Literary History
+## Fly-Agaric in Literary History
 
 The [[amanita-muscaria-fly-agaric-history-and-pharmacology]] - The mushroom's full history
 - [[mazatec-mushroom-culture-and-velada]] in music

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cloud Seeding and Orographic Rainfall
+## Cloud Seeding and Orographic Rainfall
 
 Human and natural systems can significantly influence regional precipitation patterns. Understanding the mechanisms of cloud seeding, orographic rainfall, and forest-driven water cycling is essential for [[permaculture-design]] can harness orographic effects at surprisingly small scales. Even **slight earth rises of 4–6 meters** on windward slopes can induce sufficient uplift to promote humidity condensation and light rainfall under the right atmospheric conditions.
 

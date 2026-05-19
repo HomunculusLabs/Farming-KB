@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Gypsum vs Rock Phosphate
+## Gypsum vs Rock Phosphate
 
 ## Overview
 

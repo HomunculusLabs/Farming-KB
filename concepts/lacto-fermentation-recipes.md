@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 ---
 
-# Lacto-Fermentation Recipes
+## Lacto-Fermentation Recipes
 
 > I put everything I can into the mulberry of my mind and hope that it is going to ferment and make a decent wine. How that process happens, I'm sorry to tell you I can't describe.
 > ~ John Hurt

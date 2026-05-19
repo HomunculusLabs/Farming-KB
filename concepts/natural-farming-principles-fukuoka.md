@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Natural Farming Principles of Masanobu Fukuoka
+## Natural Farming Principles of Masanobu Fukuoka
 
 Masanobu Fukuoka (1913–2008) developed a radical approach to agriculture he
 called "natural farming" or "do-nothing farming," articulated most fully in

@@ -18,7 +18,7 @@ synopsis: >-
   targeted, strain-specific treatment decisions.
 ---
 
-# Cannabis Health Index (CHI) Method
+## Cannabis Health Index (CHI) Method
 
 ## Purpose
 

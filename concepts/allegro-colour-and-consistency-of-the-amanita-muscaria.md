@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Colour and Consistency of the Amanita Muscaria
+## Colour and Consistency of the Amanita Muscaria
 
 Allegro argues that the distinctive colouring of the Amanita muscaria — the deep red cap contrasting with the white stem and the white or yellowish "warts" from the broken volva — is the key to identifying it as the specific subject of the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-and-the-cross]]
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]

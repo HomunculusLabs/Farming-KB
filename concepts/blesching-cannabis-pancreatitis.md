@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Pancreatitis
+## Cannabis and Pancreatitis
 
 ## Overview
 

@@ -21,7 +21,7 @@ created: 2026-05-09
 source: "McKenna, T. (1983/1992). archaic-revival-partnership-vs-dominator-cultures*. HarperCollins."
 ---
 
-# Glossolalia and Tryptamine Language
+## Glossolalia and Tryptamine Language
 
 ## Overview
 

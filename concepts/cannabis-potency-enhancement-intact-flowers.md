@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Potency Enhancement of Intact Flowers
+## Cannabis Potency Enhancement of Intact Flowers
 
 A technique for increasing the potency of intact marijuana flowers by extracting, purifying, and intensifying the [[cannabis-thc-acetate-preparation]] (optional, for maximum potency)
 5. **Recover tars and resins** from the ether extraction byproduct

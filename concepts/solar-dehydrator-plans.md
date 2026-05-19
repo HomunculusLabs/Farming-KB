@@ -7,7 +7,7 @@ tags: [homesteading, equipment, drying, preservation, design, engineering]
 sources: []
 ---
 
-# Solar Dehydrator Plans
+## Solar Dehydrator Plans
 
 A [[query-how-to-build-and-use-a-solar-food-dehydrator]] uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for food dehydration — using nothing but sunlight and natural convection. This is one of the most practical and cost-effective off-grid preservation tools available to a homesteader.
 

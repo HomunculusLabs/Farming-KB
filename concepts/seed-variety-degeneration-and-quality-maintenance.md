@@ -1,4 +1,8 @@
-# Seed Variety Degeneration and Quality Maintenance
+---
+title: "Seed Variety Degeneration and Quality Maintenance"
+tags:
+  - concept
+---
 
 Open-pollinated (OP) seed varieties are living populations, not static products. Without
  deliberate maintenance, they degrade with each generation. This degeneration is slow but

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Eleutheromyces subulatus
+## Eleutheromyces subulatus
 
 Eleutheromyces subulatus is a fungicolous discomycete (cup fungus) that grows specifically on the sporocarps of Trametes species, one of the most common and widely distributed genera of wood-decay [[polypore-fungi-eastern-north-america]]. It is one of the characteristic fungicolous ascomycetes found on polypore brackets in temperate forests and provides an important model for understanding [[fungal-endemism-host-specificity]] patterns among [[fungicolous-fungi]].
 

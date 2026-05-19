@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
-# I/Thou Ethics in the Tryptamine Entity Encounter
+## I/Thou Ethics in the Tryptamine Entity Encounter
 
 ## Overview
 

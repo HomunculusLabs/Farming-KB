@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka's Fourth Principle: No Pesticides and the Wholistic View of Nature
+## Fukuoka's Fourth Principle: No Pesticides and the Wholistic View of Nature
 
 [[four-principles-of-natural-farming]] — no pesticides — is not merely a practical guideline but the gateway to a radically different way of understanding the living world. To truly grasp why pesticides are unnecessary, one must adopt what Fukuoka calls a "wholistic" perception of nature: seeing the interconnected whole rather than isolating and attacking individual parts.
 

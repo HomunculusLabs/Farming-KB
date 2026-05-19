@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Double-Layer Protection
+## Winter Harvest Double-Layer Protection
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Frost Protection Strategies
+## Frost Protection Strategies
 
 Frost is one of the most significant limiting factors for agriculture and settlement in temperate and cold climates. Understanding the mechanisms that cause frost and the [[cold-climate-design-strategies]] that mitigate it is essential for productive [[succession-planting]]** approach:
 

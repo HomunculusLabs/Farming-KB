@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 3-TSB
+## 3-TSB
 
 [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]] the aldehyde being mostly gone, the nitrostyrene being mostly
 made, and the slower-moving scrudge components being not yet too

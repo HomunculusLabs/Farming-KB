@@ -18,7 +18,7 @@ sources:
   - "Nespiak, A. (1975). The Genus Boletus. Państwowe Wydawnictwo Naukowe."
 ---
 
-# Boletus reticulatus
+## Boletus reticulatus
 
 Boletus reticulatus, commonly known as the summer cep, network bolete, or
 reticulate bolete, is a large, edible bolete fungus in the family

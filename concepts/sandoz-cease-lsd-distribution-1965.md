@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# Sandoz Decision to Cease LSD Distribution — 1965
+## Sandoz Decision to Cease LSD Distribution — 1965
 
 ## Overview
 

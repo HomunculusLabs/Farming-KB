@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Use Black Soldier Flies for Composting and Animal Feed?
+## How Do I Use Black Soldier Flies for Composting and Animal Feed?
 
 ## Short Answer
 

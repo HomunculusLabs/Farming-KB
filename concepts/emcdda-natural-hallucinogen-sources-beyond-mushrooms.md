@@ -5,7 +5,7 @@ topics: natural hallucinogens, plant psychedelics, animal-derived psychoactives,
 created: 2026-05-08
 ---
 
-# Natural Hallucinogen Sources Beyond Mushrooms
+## Natural Hallucinogen Sources Beyond Mushrooms
 
 ## Overview
 

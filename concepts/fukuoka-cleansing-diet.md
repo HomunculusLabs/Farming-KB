@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Cleansing Diet
+## Cleansing Diet
 
 Masanobu Fukuoka advocated a cleansing diet based on [[fukuoka-natural-food-philosophy]]. White rice is a refined product that satisfies the appetite without nourishing the body. Brown rice is a whole food that provides genuine nourishment.
 

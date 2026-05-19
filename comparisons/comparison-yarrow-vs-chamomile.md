@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Yarrow vs Chamomile
+## Yarrow vs Chamomile
 
 ## Overview
 

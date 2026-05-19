@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, agriculture, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Oyster Mushroom Cultivation Methods Oyster mushrooms (Pleurotus species) are among the easiest mushrooms to cultivate, making them the entry point for most small-scale and home growers. Their rapid growth, broad substrate tolerance, and relatively low contamination susceptibility compared to other gourmet species have made them the most widely cultivated mushrooms globally after the button mushroom (mushroom-grain-spawn-preparation on sterilized grain 3. [[hamilton-pest-and-disease-control-organic]] challenges:
+## Oyster Mushroom Cultivation Methods Oyster mushrooms (Pleurotus species) are among the easiest mushrooms to cultivate, making them the entry point for most small-scale and home growers. Their rapid growth, broad substrate tolerance, and relatively low contamination susceptibility compared to other gourmet species have made them the most widely cultivated mushrooms globally after the button mushroom (mushroom-grain-spawn-preparation on sterilized grain 3. [[hamilton-pest-and-disease-control-organic]] challenges:
 
 - **Sciarid flies (fungus gnats)**: Larvae damage mycelium and introduce
   bacterial contamination; controlled with sticky traps and cultural

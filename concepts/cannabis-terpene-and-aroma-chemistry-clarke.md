@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# Cannabis Terpene and Aroma Chemistry (Clarke)
+## Cannabis Terpene and Aroma Chemistry (Clarke)
 
 ## Terpene Fundamentals
 

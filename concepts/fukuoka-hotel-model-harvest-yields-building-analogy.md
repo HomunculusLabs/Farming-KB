@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka's Hotel/Building Model of Crop Harvest Yields
+## Fukuoka's Hotel/Building Model of Crop Harvest Yields
 
 [[fukuoka-critique-agricultural-science-laws-liebig]] and reveal
 the superiority [[fukuoka-mahayana-and-hinayana-natural-farming]]—a more restrained approach

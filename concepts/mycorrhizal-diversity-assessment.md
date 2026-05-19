@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: []
 ---
-# Mycorrhizal Diversity [[glomalin-and-soil-carbon]]**: AMF-specific soil protein correlated with hyphal biomass
+## Mycorrhizal Diversity [[glomalin-and-soil-carbon]]**: AMF-specific soil protein correlated with hyphal biomass
 
 ## Emerging Methods
 

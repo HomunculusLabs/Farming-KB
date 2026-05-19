@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Pulsing Model of Ecological Succession
+## Pulsing Model of Ecological Succession
 
 The pulsing model of [[ecological-succession]] represents a paradigm shift from the classical climax model of ecosystems. Rather than progressing toward a single stable endpoint, many ecosystems are evolved to go through periodic disturbance as part of an overall dynamic stability. This concept, developed in systems ecology since the 1960s, provides a powerful framework for understanding land management, agriculture, and broader patterns of change.
 

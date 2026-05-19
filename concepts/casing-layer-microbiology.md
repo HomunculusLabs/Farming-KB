@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Casing Layer Microbiology
+## Casing Layer Microbiology
 
 The casing layer is far more than an inert moisture-retaining blanket placed over colonized substrate. It is a living ecosystem whose microbial communities directly influence mushroom fruiting initiation, yield, and crop health. Understanding the microbiology of the casing layer transforms it from a simple cultivation step into a sophisticated biological tool for [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]], creating favorable conditions for Pseudomonas proliferation. The bacteria then stimulate [[core-endorhiza-bacterial-community-composition-cannabis]] that has already established a productive relationship with the mushroom mycelium.
 

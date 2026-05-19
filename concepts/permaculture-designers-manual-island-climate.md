@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, climate, coastal, water-harvesting]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Island and Atoll Climate Design
+## Island and Atoll Climate Design
 
 Source: Bill Mollison, Permaculture: A Designers' Manual (1988), Chapter 10
 Updated: 2026-05-09

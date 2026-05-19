@@ -22,7 +22,7 @@ sources:
   - Ruben, B. (2020). "Cannabis and Jamaican Rastafari: A Historical Review."
     Journal of Ethnopharmacology.
 ---
-# Lambsbread
+## Lambsbread
 
 **Lambsbread** (also spelled Lamb's Bread or Lamb's Breath) is a legendary
 sativa southeast-asian-mushroom-tourism-bali and South

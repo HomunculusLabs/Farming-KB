@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Are the Benefits of Integrating Chickens into a Garden?
+## What Are the Benefits of Integrating Chickens into a Garden?
 
 ## Short Answer
 Chickens provide pest control, soil fertilization, [[comparison-rotational-grazing-vs-continuous-grazing]],

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Pharmacokinetics and Bioavailability
+## Cannabis Pharmacokinetics and Bioavailability
 
 Pharmacokinetics describes how the body absorbs, distributes, metabolizes, and
 excretes a substance (ADME). Understanding the pharmacokinetics of cannabinoids

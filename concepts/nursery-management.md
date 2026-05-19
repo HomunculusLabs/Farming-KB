@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Permaculture Nursery Management
+## Permaculture Nursery Management
 
 Permaculture nursery management is the establishment and operation of plant nurseries within permaculture systems for the propagation, cultivation, and distribution of food plants, timber trees, nitrogen fixers, [[permplant-willows-salix-erosion-control-fodder]], and the establishment of sustainable agricultural systems.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Pattern Encodement and Song Navigation
+## Tribal Pattern Encodement and Song Navigation
 
 ## Overview
 

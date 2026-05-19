@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Mycorrhizal vs Endophytic Fungi
+## Mycorrhizal vs Endophytic Fungi
 
 ## Overview
 

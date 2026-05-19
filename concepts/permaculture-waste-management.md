@@ -7,7 +7,7 @@ tags: [permaculture, composting, greywater, pollution, recycling, water, ecology
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Waste Management
+## Permaculture Waste Management
 
 Waste is a central concept in [[permaculture]]. Mollison defines the problem clearly: if we produce a "waste" output from any system, we have not yet completed the design. Benefits and wastes must both be returned or recycled to keep any system going. The accumulation of unused benefits predicts collapse at production level.
 

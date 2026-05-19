@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Ergonovine Self-Experiment (Hofmann, 1976)
+## Ergonovine Self-Experiment (Hofmann, 1976)
 
 **Source:** The [[kykeon-composition-and-ergot-alkaloid-hypothesis]] possessed hallucinogenic properties. This experiment was pivotal to the [entheogenic [[psilocybin]]?" Hofmann already knew that ergonovine was:
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Water Harvesting and Earthworks Water is the most critical limiting factor in most land-based systems, and Bill Mollison devoted significant attention to water harvesting and earthworks in *Permaculture: A Designers' Manual*. The fundamental principle is that water should be captured, stored, and distributed across the landscape using gravity and natural processes rather than pumped or imported energy. Effective water design transforms erosion into fertility, drought into abundance, and runoff into groundwater recharge. These techniques are foundational to [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] on what
+## Water Harvesting and Earthworks Water is the most critical limiting factor in most land-based systems, and Bill Mollison devoted significant attention to water harvesting and earthworks in *Permaculture: A Designers' Manual*. The fundamental principle is that water should be captured, stored, and distributed across the landscape using gravity and natural processes rather than pumped or imported energy. Effective water design transforms erosion into fertility, drought into abundance, and runoff into groundwater recharge. These techniques are foundational to [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] on what
 might otherwise be dry slopes. Mollison recommended spacing swales according
 to the slope gradient and rainfall intensity of the site.
 

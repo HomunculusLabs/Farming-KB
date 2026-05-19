@@ -1,4 +1,8 @@
-# Psilocybin Mushroom Dose, Potency and Acute Effects
+---
+title: "Psilocybin Mushroom Dose, Potency and Acute Effects"
+tags:
+  - concept
+---
 
 ## Source
 Hillebrand, Olszewski & Sedefov (2006) — *[[hplc-analysis-of-psilocybin-and-psilocin]] are classified as indolealkylamines (tryptamines), structurally similar to serotonin (5-hydroxytryptamine, 5-HT). Psilocin acts on the serotonin system as a 5-HT2A post-synaptic agonist or partial agonist. Chemically, they belong to the same group as LSD. The three major chemical groups of hallucinogens are: (1) indolealkylamines (tryptamines) — LSD, psilocin, psilocybin; (2) phenylethylamines — mescaline; (3) cannabinoids.
@@ -144,7 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
-## See Also

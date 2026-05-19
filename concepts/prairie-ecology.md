@@ -7,7 +7,7 @@ tags: [ecology, succession, biodiversity, nutrient-cycling, conservation, plants
 sources: []
 ---
 
-# Prairie Ecology
+## Prairie Ecology
 
 ## Overview
 

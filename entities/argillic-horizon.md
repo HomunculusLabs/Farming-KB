@@ -5,7 +5,7 @@ type: entity
 tags: [concept, soil-science, clay-pan, hardpan, dryland, salinity, permaculture]
 ---
 
-# Argillic Horizon
+## Argillic Horizon
 
 ## Description
 

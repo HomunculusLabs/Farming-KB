@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Frost Protection and Radiation Management
+## Frost Protection and Radiation Management
 
 Frost and [[albedo-and-solar-radiation]] are opposing thermal forces that [[bill-mollison]] must manage
 simultaneously. Frost results from **radiative heat loss** on clear, still nights, while

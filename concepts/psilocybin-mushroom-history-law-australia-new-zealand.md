@@ -4,7 +4,7 @@ source: magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
 type: concept
 ---
 
-# History and Law of Psilocybin Mushrooms in Australia and New Zealand
+## History and Law of Psilocybin Mushrooms in Australia and New Zealand
 
 ## Scientific Discovery Timeline in Australia
 

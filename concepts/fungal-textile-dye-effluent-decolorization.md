@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Degradation of Textile Dyes and Industrial Effluents
+## Fungal Degradation of Textile Dyes and Industrial Effluents
 
 [[ligninolytic-enzyme-systems-white-rot-fungi]] offer a promising biological approach for
 dye decolorization and [[textile-dye-bioremediation]] as part of the broader field of [[constructed-wetland-design]]

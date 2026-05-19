@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Cordyceps, Schizophyllum, and Agaricus Blazei Medicinal Profiles
+## Cordyceps, Schizophyllum, and Agaricus Blazei Medicinal Profiles
 
 Three important but distinct medicinal fungi—[[cordyceps-sinensis]] (caterpillar fungus), [[schizophyllum-commune]] (split gill), and [[agaricus-blazei]] (Himematsutake)—each offer unique bioactive compounds and therapeutic potential. This concept examines their biology, traditional use, and modern pharmacological evidence.
 

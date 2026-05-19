@@ -5,12 +5,12 @@ created: 2026-05-06
 tags: [mycology, casing soil, peat, vermiculite, limestone, sterilisation, pasteurisation, accessible-mushroom-cultivation-for-disabilities, contamination]
 date: 2026-04-28
 updated: 2026-05-09
-sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
+sources: ["raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md"]
 type: concept
 ---
 
-# Casing Soil Recipe and Sterilisation Debate in Small-Scale Mushroom
-# Cultivation
+## Casing Soil Recipe and Sterilisation Debate in Small-Scale Mushroom
+## Cultivation
 
 The casing layer is a non-nutritive covering applied to fully colonised
 substrate that triggers and supports [[aquarium-humidity-chamber-mushroom-fruiting]] across multiple flushes.

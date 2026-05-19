@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Berry Growing vs Fruit Tree Pruning
+## Berry Growing vs Fruit Tree Pruning
 
 ## Overview
 

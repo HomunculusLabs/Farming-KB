@@ -5,7 +5,7 @@ type: entity
 tags: [person, mycologist, researcher, oxford, basidiomycete]
 ---
 
-# Sarah C. Watkinson
+## Sarah C. Watkinson
 
 ## Description
 

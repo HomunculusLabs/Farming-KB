@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Ingham — Anaerobic vs Aerobic Compost Tea
+## Ingham — Anaerobic vs Aerobic Compost Tea
 
 Updated: 2026-04-18
 

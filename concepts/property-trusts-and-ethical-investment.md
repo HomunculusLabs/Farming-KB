@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Property Trusts and Ethical Investment
+## Property Trusts and Ethical Investment
 
 Property trusts represent one of the most powerful mechanisms for channeling investment capital into [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and sustainable community development. In [[permaculture-design]], the property trust model allows many small investors to collectively purchase, rehabilitate, and manage land — turning conventional real estate investment on its head by prioritizing earth repair and community benefit alongside financial returns.
 

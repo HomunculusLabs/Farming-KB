@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Microfungi — Species Concepts, Distribution Patterns, and Diversity Estimates
+## Microfungi — Species Concepts, Distribution Patterns, and Diversity Estimates
 
 ## Species Concepts (Continued)
 

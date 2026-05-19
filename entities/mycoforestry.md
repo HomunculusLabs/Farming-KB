@@ -19,7 +19,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Mycoforestry
+## Mycoforestry
 
 Mycoforestry is the use of fungi to sustain forest communities. Coined and
 popularized by **Paul Stamets** in *[[cervantes-trichoderma-beneficial-fungi]] in forest health, regeneration, and sustainability. The

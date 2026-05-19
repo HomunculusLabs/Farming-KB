@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Ignorant Agriculture and the Pit of Knowledge
+## Fukuoka Ignorant Agriculture and the Pit of Knowledge
 
 In the final section of "The Road Back to Nature," Fukuoka delivers his most pointed [[fukuoka-critique-genetic-engineering]] for expanded analysis.
 

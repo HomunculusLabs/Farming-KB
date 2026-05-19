@@ -5,7 +5,7 @@ type: entity
 tags: [economics, community, permaculture, loans, new-zealand, cooperative, trust]
 ---
 
-# C.E.L.T. (Community Enterprise Loans Trust)
+## C.E.L.T. (Community Enterprise Loans Trust)
 
 ## Description
 

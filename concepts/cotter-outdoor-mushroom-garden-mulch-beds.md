@@ -8,7 +8,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
-# Outdoor Mushroom Garden Mulch Beds
+## Outdoor Mushroom Garden Mulch Beds
 
 [[cannabis-sativa-indoor-cultivation-techniques]],
 outdoor patches produce somewhat varied yields since you are at the

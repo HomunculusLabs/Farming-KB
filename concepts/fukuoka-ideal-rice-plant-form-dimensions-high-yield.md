@@ -6,7 +6,7 @@ tags: [fukuoka, rice, plant-breeding, high-yield, natural-farming, ideal-form, m
 created: 2026-05-08
 ---
 
-# Ideal Rice Plant Form and Dimensions for High-Yield Cultivation
+## Ideal Rice Plant Form and Dimensions for High-Yield Cultivation
 
 ## Overview
 

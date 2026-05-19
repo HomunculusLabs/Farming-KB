@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MP
+## MP
 
 PIHKAL entry #137. METAPROSCALINE; 3,4-DIMETHOXY-5-(n)-PROPOXYPHENETHYLAMINE.
 

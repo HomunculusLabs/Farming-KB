@@ -10,7 +10,7 @@ related_concepts:
   year: 1987
 ---
 
-# Fukuoka's Argument on Soil Microbe–Fertilizer Complexity
+## Fukuoka's Argument on Soil Microbe–Fertilizer Complexity
 
 ## Overview
 

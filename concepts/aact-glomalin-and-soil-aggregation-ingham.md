@@ -7,7 +7,7 @@ type: concept
 tags: [soil-science, microbiology, glomalin, mycorrhiza, soil-structure, AACT, aggregation]
 ---
 
-# Glomalin and Soil Aggregation in AACT Systems
+## Glomalin and Soil Aggregation in AACT Systems
 
 ## Overview
 

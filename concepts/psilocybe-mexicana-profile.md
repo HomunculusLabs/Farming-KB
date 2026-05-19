@@ -9,7 +9,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Psilocybe mexicana Profile
+## Psilocybe mexicana Profile
 
 ## Overview
 

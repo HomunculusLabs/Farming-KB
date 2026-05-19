@@ -5,7 +5,7 @@ author: Blesching
 tags: [cannabis, endometriosis, pelvic-pain, inflammation, CBD, THC, endometrium, dysmenorrhea]
 ---
 
-# Cannabis and Endometriosis
+## Cannabis and Endometriosis
 
 ## Pain and Inflammatory Management
 

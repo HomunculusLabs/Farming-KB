@@ -10,7 +10,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# No Weeding Principle and Weed Utility
+## No Weeding Principle and Weed Utility
 
 [[fukuoka-natural-rice-barley-cultivation]]
 

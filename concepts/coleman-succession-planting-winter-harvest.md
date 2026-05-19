@@ -7,7 +7,7 @@ type: concept
 tags: [winter-farming, succession-planting, sowing-schedule, season-extension, coleman, cold-hardy-vegetables]
 ---
 
-# Coleman Succession Planting Strategy for Winter Harvest
+## Coleman Succession Planting Strategy for Winter Harvest
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Mulch Types and Effects
+## Mulch Types and Effects
 
 Updated: 2026-04-18
 

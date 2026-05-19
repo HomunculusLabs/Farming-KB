@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, coprophilous, entheogen, panaeolus, agaricales]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md]
+sources: ["raw/papers/magic-mushrooms-around-the-world-gartz.md"]
 ---
 
-# Panaeolus campanulatus
+## Panaeolus campanulatus
 
 **Panaeolus campanulatus**, commonly known as the **bell-shaped Panaeolus**, is a mushroom species in the genus Panaeolus that has been investigated for psychoactive properties. The epithet "campanulatus" derives from Latin "campanula" (bell), referring to the distinctive bell-shaped cap. Some authorities place certain collections in the genus Panaeolina or treat them as conspecific with [[panaeolus-retirugis]].
 

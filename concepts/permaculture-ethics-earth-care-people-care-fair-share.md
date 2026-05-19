@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Ethics: Earth Care, People Care, and Fair Share
+## Permaculture Ethics: Earth Care, People Care, and Fair Share
 
 ## Core Ethical Foundation
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Psilocybe cyanescens Species Guide ## Overview Wakefield, commonly known as "cyans," "blue halos," or the "wavy-capped Psilocybe," is a moderately to highly potent [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] studies of Pacific Northwest
+## Psilocybe cyanescens Species Guide ## Overview Wakefield, commonly known as "cyans," "blue halos," or the "wavy-capped Psilocybe," is a moderately to highly potent [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] studies of Pacific Northwest
 collections reveal abundant, capitate pleurocystidia. If the presence
 of pleurocystidia is accepted as taxonomically significant, the
 description of this species needs to be emended, or a new taxon

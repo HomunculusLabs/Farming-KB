@@ -5,7 +5,7 @@ type: entity
 tags: [genus, oomycete, marine, mangrove, salt-marsh, decomposer]
 ---
 
-# Halophytophthora
+## Halophytophthora
 
 ## Description
 

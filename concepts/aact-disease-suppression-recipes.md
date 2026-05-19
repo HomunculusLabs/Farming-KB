@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
-# AACT Disease Suppression Recipes
+## AACT Disease Suppression Recipes
 
 Updated: 2026-04-18
 

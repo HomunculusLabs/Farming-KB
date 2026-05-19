@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Passive Cooling Strategies for Tropical and Subtropical Houses
+## Passive Cooling Strategies for Tropical and Subtropical Houses
 
 Designing comfortable homes in tropical and subtropical regions presents unique challenges. While equatorial climates require only heat reduction, subtropical locations face the dual problem of intense winter cold (with frosts and occasional snow) and very humid, hot summers. The subtropical house must both heat and cool effectively—a design challenge requiring more careful planning than either purely tropical or purely temperate housing.
 

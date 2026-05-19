@@ -8,7 +8,7 @@ sources:
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 ---
 
-# Mycoremediation of PCBs and Dioxins
+## Mycoremediation of PCBs and Dioxins
 
 Polychlorinated biphenyls (PCBs) and dioxins are among the most persistent and toxic environmental contaminants. Their chemical stability — the same property that made them useful industrially — makes them extremely resistant to natural degradation. White-rot fungi are among the few organisms capable of significant PCB and dioxin transformation. See [[mycoremediation-basics]] for the general framework.
 

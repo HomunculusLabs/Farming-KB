@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Vegetable Growing Natural Method
+## Fukuoka Vegetable Growing Natural Method
 
 Fukuoka's method of [[fukuoka-citrus-orchard-ground-cover-cultivation]] cover or field margins, allowing them to find their niche within a living plant community. This "semi-wild" approach produces strong, healthy vegetables with minimal labor and no chemical inputs.
 

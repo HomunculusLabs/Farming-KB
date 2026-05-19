@@ -9,7 +9,7 @@ sources:
 - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Cannabis Legalization Era (2012-Present)
+## Cannabis Legalization Era (2012-Present)
 
 The end of prohibition: from Colorado and Washington's historic legalization votes through the Farm Bill, hemp revival, state-by-state legalization, and federal rescheduling efforts. See [[cannabis-prohibition-history]] for the complete arc from ancient use through the War on Drugs.
 

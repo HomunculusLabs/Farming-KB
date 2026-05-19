@@ -6,7 +6,7 @@ type: concept
 tags: [cultivation, mycology]
 sources: ["raw/papers/peter-oei-5-pages-mushroom-cultivation.md"]
 ---
-# Outdoor Woodlover Mushroom Cultivation
+## Outdoor Woodlover Mushroom Cultivation
 
 Wood-loving (lignicolous) [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (up to ~25mg/g total alkaloids).
 - **P. cyanescens**: Pacific Northwest, also naturalized in Europe. Very potent.

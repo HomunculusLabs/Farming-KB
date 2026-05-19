@@ -1,4 +1,8 @@
-# Peganum Harmala as Soma — The Syrian Rue Theory
+---
+title: "Peganum Harmala as Soma — The Syrian Rue Theory"
+tags:
+  - concept
+---
 
 ## Source
 *[[mckenna-vedic-soma-indo-european-mysteries]] (and its Iranian counterpart Haoma) was [[rig-veda-soma-hymns-amanita-muscaria]] — is one of the oldest unsolved mysteries in

@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-# Chaga (Inonotus obliquus)
+## Chaga (Inonotus obliquus)
 
 ## Overview
 

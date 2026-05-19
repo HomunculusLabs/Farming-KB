@@ -4,7 +4,7 @@ source: "mckenna_t-food_of_the_gods.md"
 tags: [mckenna, sin, nannar, harran, moon-god, mushroom, iconography, cylinder-seal, mesopotamia, babylon]
 ---
 
-# McKenna on Sin-Nannar: The Harran Moon God and Mushroom Iconography
+## McKenna on Sin-Nannar: The Harran Moon God and Mushroom Iconography
 
 ## Overview
 

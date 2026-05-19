@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# French Maraîcher Intensive Market Gardening
+## French Maraîcher Intensive Market Gardening
 
 ## Overview
 

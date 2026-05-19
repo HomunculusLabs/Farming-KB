@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Growing Potatoes Organically
+## Growing Potatoes Organically
 
 Potatoes are one of the most productive and rewarding vegetable crops. They require careful soil preparation and benefit enormously from organic [[query-which-cannabis-training-techniques-produce-highest-yields]], good for storage.
 

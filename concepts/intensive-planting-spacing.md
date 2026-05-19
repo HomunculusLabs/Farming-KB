@@ -7,7 +7,7 @@ tags: [gardening, plant-spacing, intensive-gardening, water-management, design, 
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Intensive Planting and Spacing
+## Intensive Planting and Spacing
 
 [[steve-solomon]]'s analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced [[coleman-british-adoption-of-french-intensive-gardening]] but came to believe that wider spacing produces better results with far less water and labor.
 

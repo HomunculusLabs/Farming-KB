@@ -4,7 +4,7 @@ source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, fruiting-chamber, humidity, hydro-pellets, boil-a-bag]
 ---
 
-# Hydro Pellet Fish Tank Humidity Chamber for Mushroom Fruiting
+## Hydro Pellet Fish Tank Humidity Chamber for Mushroom Fruiting
 
 D.H. Jarrold's boil-a-bag method uses a simple but effective fruiting
 chamber constructed from a standard fish tank and hydro pellets (hydroton/

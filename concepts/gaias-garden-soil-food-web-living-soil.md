@@ -1,4 +1,8 @@
-# Soil Food Web and Living Soil (Gaia's Garden)
+---
+title: "Soil Food Web and Living Soil (Gaia's Garden)"
+tags:
+  - concept
+---
 
 **Source:** [[ecological-gardening-principles]] is that soil is not an inert
 substrate for growing plants—it is a living ecosystem teeming with more organisms
@@ -143,8 +147,3 @@ Successful integration of gaias garden soil food web living soil into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

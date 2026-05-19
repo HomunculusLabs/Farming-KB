@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-# Guild Planting Systems
+## Guild Planting Systems
 
 Guild planting is a core permaculture technique in which multiple species
 are grouped together to form mutually beneficial communities. Bill

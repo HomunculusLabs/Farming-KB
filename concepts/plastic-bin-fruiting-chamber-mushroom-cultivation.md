@@ -7,7 +7,7 @@ tags: [fruiting-chamber, mushroom-cultivation, humidity, fresh-air-exchange, myc
 created: 2026-05-11
 ---
 
-# Simple Plastic Bin Fruiting Chamber
+## Simple Plastic Bin Fruiting Chamber
 
 ## Overview
 

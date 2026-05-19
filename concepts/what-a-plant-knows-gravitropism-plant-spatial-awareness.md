@@ -1,4 +1,8 @@
-# Gravitropism: How Plants Know Where They Are
+---
+title: "Gravitropism: How Plants Know Where They Are"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -10,7 +14,7 @@ The mechanism operates as follows:
 
 1. **Statolith settling**: In specialised cells called columella cells (in root caps) or endodermal cells (in shoots), dense amyloplasts sediment to the lowest point of the cell under gravity. These starch grains are 1.5-3 times denser than the surrounding cytoplasm.
 
-2. **Signal detection**: The settling of statoliths against the lower cell wall or endoplasmic reticulum triggers a chain of biochemical events. The leading theory is that the pressure of statoliths on membrane-bound structures (possibly mechanosensitive ion channels or the endoplasmic reticulum) initiates a [[plant-memory-and-spatial-awareness]] hormone auxin (indole-3-acetic acid, IAA). In roots, auxin accumulates on the lower side; in shoots, auxin also accumulates on the lower side but produces the opposite growth effect.
+2. **Signal detection**: The settling of statoliths against the lower cell wall or endoplasmic reticulum triggers a chain of biochemical events. The leading theory is that the pressure of statoliths on membrane-bound structures (possibly mechanosensitive ion channels or the endoplasmic reticulum) initiates a [[plant-phototropism]] hormone auxin (indole-3-acetic acid, IAA). In roots, auxin accumulates on the lower side; in shoots, auxin also accumulates on the lower side but produces the opposite growth effect.
 
 4. **Differential [[plant-memory-and-spatial-awareness]] physiology.
 
@@ -144,7 +148,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-- [[query-what-is-biochar-and-should-i-use-it]]
-- [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]

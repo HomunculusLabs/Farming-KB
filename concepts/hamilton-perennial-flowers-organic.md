@@ -7,7 +7,7 @@ tags: [organic-gardening, plants]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Growing Perennial Flowers Organically
+## Growing Perennial Flowers Organically
 
 updated: 2026-04-18
 

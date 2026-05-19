@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Compost Preparation and Manure Selection
+## Mushroom Compost Preparation and Manure Selection
 
 ## Overview
 

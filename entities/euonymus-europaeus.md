@@ -17,7 +17,7 @@ tags:
 entity_type: species
 ---
 
-# Euonymus europaeus
+## Euonymus europaeus
 
 ## Overview
 

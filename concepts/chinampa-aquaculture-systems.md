@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Chinampa Aquaculture Systems
+## Chinampa Aquaculture Systems
 
 ## Overview
 

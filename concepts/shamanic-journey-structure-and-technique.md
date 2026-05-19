@@ -5,7 +5,7 @@ tags: [metzner, shamanism, journey, technique, ritual, psychedelic]
 created: 2026-05-08
 ---
 
-# Shamanic Journey Structure and Technique
+## Shamanic Journey Structure and Technique
 
 ## Overview
 

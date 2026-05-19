@@ -8,7 +8,7 @@ tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication
 sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 
-# Plant Olfaction and Volatile Signaling
+## Plant Olfaction and Volatile Signaling
 
 Plants possess a sophisticated chemical sense that functions analogously to
 animal olfaction. While they lack noses and neural olfactory bulbs, plants

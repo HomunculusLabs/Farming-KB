@@ -1,4 +1,8 @@
-# Mushroom Potency and Harvesting
+---
+title: "Mushroom Potency and Harvesting"
+tags:
+  - concept
+---
 
 **Tags:** potency, harvesting, drying, [[cannabis-harvest-timing-visual-cues]] the single most important factor in
 producing a powerful [[psilocybe-cubensis]] Fanaticus summarized: "Grow them on brown rice, harvest
@@ -144,6 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

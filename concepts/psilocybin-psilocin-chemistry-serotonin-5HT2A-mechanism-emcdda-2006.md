@@ -5,7 +5,7 @@ tags: [pharmacology, psilocybin, psilocin, serotonin, 5-HT2A, tryptamines, chemi
 created: 2026-05-08
 ---
 
-# Psilocybin and Psilocin Chemistry: Serotonin Relationship and Pharmacological Mechanism
+## Psilocybin and Psilocin Chemistry: Serotonin Relationship and Pharmacological Mechanism
 
 ## Overview
 

@@ -23,7 +23,7 @@ sources:
   - Marchese, A. et al. (2016). "Antibacterial and antifungal activities of thymol: a brief review of the literature." Food Chemistry, 210, 402-414.
 ---
 
-# Thymol
+## Thymol
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Household Energy Storage, Built Environment, and Cultural Capital
+## Permaculture Household Energy Storage, Built Environment, and Cultural Capital
 
 This page covers energy storage at the household and community scale, the built environment as energy storage, cultural and informational forms of energy storage, appropriate use of non-renewable resources, [[garden-soil-fertility-mineral-balance-solomon]] in soils, and the attitudes and values needed for [[holmgren-energy-descent-culture-scavenging-modernity-rubbish-tip]].
 

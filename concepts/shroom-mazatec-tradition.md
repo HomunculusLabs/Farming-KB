@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
-# The [[shroom-counterculture]] -- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
+## The [[shroom-counterculture]] -- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 3977-5033.
 
 ## See Also

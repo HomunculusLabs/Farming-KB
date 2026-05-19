@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Inner Layer Row Cover Management
+## Inner Layer Row Cover Management
 
 Inner layer row covers are the second line of defense in a [[double-layer-protection-system]] system for winter vegetable production. Used inside [[coleman-unheated-greenhouse-design]] or [[high-tunnel]], they provide additional frost protection and thermal modulation for cold-hardy crops during the deepest months of winter. Eliot Coleman's research at Four Season Farm in Harborside, Maine, demonstrated that row covers deployed inside protected structures behave fundamentally differently from those used in open fields, with significant implications for material selection, installation technique, and thermal management strategy.
 

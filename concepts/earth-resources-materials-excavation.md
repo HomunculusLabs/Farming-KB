@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earth Resources — Materials Revealed by Excavation
+## Earth Resources — Materials Revealed by Excavation
 
 Whenever earth is moved, it seldom reveals a uniform composition. Most excavation reveals materials already sorted by nature, each of specific use. To mix them up indiscriminately is to set back the clock a few thousand years. The supervising designer or property owner should follow every excavator (animal or technological) and carefully set aside the valuable materials revealed.
 

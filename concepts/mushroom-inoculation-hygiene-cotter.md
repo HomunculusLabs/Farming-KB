@@ -8,7 +8,7 @@ sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
 
-# Mushroom Inoculation Hygiene and Sanitation Protocols
+## Mushroom Inoculation Hygiene and Sanitation Protocols
 
 Inoculation is the most contamination-vulnerable stage of mushroom
 cultivation. [[cervantes-green-algae-growing-medium]] and pure [[accessible-mushroom-cultivation-for-disabilities]]:

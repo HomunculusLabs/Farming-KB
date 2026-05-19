@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Arnica vs Stinging Nettle
+## Arnica vs Stinging Nettle
 
 ## Overview
 

@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, spore-inoculation, transplantation, mycel
 created: 2026-05-11
 ---
 
-# Spore Mass Slurry Inoculation and Mycelium Transplantation
+## Spore Mass Slurry Inoculation and Mycelium Transplantation
 
 ## Overview
 

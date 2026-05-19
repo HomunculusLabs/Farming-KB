@@ -12,7 +12,7 @@ type: query
 created: 2026-04-28
 ---
 
-# What Is Shellac and How Is It Produced from Lac Insects?
+## What Is Shellac and How Is It Produced from Lac Insects?
 
 ## Quick Answer
 

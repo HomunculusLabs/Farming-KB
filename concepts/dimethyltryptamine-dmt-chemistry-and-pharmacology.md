@@ -5,7 +5,7 @@ tags: [psychedelics, dmt, tryptamines, pharmacology, neuroscience, consciousness
 created: 2026-05-09
 ---
 
-# Dimethyltryptamine (DMT) Chemistry and Pharmacology
+## Dimethyltryptamine (DMT) Chemistry and Pharmacology
 
 ## Overview
 

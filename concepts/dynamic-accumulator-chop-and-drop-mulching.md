@@ -8,7 +8,7 @@ type: concept
 tags: [mulch]
 ---
 
-# Dynamic Accumulator — Chop-and-Drop Mulching
+## Dynamic Accumulator — Chop-and-Drop Mulching
 
 Chop-and-drop mulching is the practice of cutting dynamic accumulator plants and leaving their foliage on the soil surface as green manure mulch, rather than removing or composting them elsewhere. This technique directly cycles accumulated nutrients back into the soil ecosystem where they are needed, mimicking natural [[comparison-dynamic-accumulators-vs-cover-crops]] is self-sufficiency with fertilizers. Old-time farmers cycled nutrients within their farms as a fact of life. Good farmers used accumulator plants — those that amass a greater than usual amount of particular nutrients in their foliage — to gather nutrients and return them to the soil.
 

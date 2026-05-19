@@ -27,7 +27,7 @@ related_concepts:
   - 5-meo-dipt-compound-profile
 ---
 
-# 5-MeO-DMT and Bufo alvarius
+## 5-MeO-DMT and Bufo alvarius
 
 5-MeO-DMT, or 5-methoxy-N,N-dimethyltryptamine, is a naturally
 occurring psychedelic tryptamine known for a [[dmt-entity-encounters-and-the-logos]],

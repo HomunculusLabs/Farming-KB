@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[oner-sativa-medical-applications]]
+## [[oner-sativa-medical-applications]]
 - [[ethnomycology-cultural-significance-sacred-fungi]] across continents
 - [[plants-of-the-gods-tabernanthe-iboga]] and [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

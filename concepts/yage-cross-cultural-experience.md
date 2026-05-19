@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
 ---
-# Yage Cross-Cultural Experience: Common Themes in South American Ayahuasca Visions
+## Yage Cross-Cultural Experience: Common Themes in South American Ayahuasca Visions
 
 Michael J. Harner's survey "Common Themes in South [[cashinahua-banisteriopsis-use]], the most frequent hallucinations include brightly colored large snakes, jaguars and ocelots, spirits, large trees, lakes filled with anacondas and alligators, villages, traders, and gardens.
 

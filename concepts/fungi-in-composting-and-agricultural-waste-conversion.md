@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Fungi in Composting and Agricultural Waste Conversion
+## Fungi in Composting and Agricultural Waste Conversion
 
 Fungi play essential roles in the composting process and the bioconversion of agricultural waste materials. Their enzymatic capabilities enable degradation of lignocellulosic substrates that are recalcitrant to bacterial decomposition, making them indispensable in waste management and resource recovery.
 

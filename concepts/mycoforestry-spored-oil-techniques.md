@@ -8,7 +8,7 @@ type: concept
 tags: [forest-garden, mycology]
 ---
 
-# Mycoforestry Spored Oil Techniques
+## Mycoforestry Spored Oil Techniques
 
 Spored oil techniques are [[query-how-to-store-mushroom-spores-long-term]]
 - Depositing spores into wood tissue with every cut

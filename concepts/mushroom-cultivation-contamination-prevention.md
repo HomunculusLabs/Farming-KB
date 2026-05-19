@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Cultivation Contamination Prevention
+## Mushroom Cultivation Contamination Prevention
 
 Contamination is the single greatest cause of failure [[mycelium]], producing
 enzymes that dissolve the cell walls of the target fungus. Over-supplemented

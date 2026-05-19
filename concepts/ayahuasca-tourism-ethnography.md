@@ -18,7 +18,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# [[diplopterys-cabreraeana]] alternative), has been used for centuries in healing rituals, divination, and community ceremonies.
+## [[diplopterys-cabreraeana]] alternative), has been used for centuries in healing rituals, divination, and community ceremonies.
 
 In Peru, ayahuasca occupies a unique legal and cultural position. Unlike the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] churches), Peruvians regard ayahuasca as an herbal tonic rather than an illegal drug. The government sponsors ayahuasca festivals, the brew and its raw materials are openly sold in markets, and even Peru's then president Alejandro Toledo participated in an ayahuasca ceremony. This permissive environment has made Peru the primary destination for ayahuasca tourism.
 

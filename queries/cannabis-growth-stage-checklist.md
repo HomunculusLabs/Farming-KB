@@ -28,7 +28,7 @@ sources:
 - concepts/cannabis-seed-germination.md
 ---
 
-# Cannabis Growth Stage Checklist
+## Cannabis Growth Stage Checklist
 
 Week-by-week checklist for an indoor photoperiod grow in [[cannabis-living-soil-guide]]. Assumes pre-amended living soil beds with balanced NPK. Timings are approximate -- indica-dominant strains finish faster; sativa-dominant may extend 2-4 weeks in flower. See [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] for full details.
 

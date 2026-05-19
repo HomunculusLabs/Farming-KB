@@ -5,7 +5,7 @@ tags: [psilocybin, psilocin, psilocybe-cubensis, street-sample, potency, variabi
 created: 2026-05-08
 ---
 
-# Psilocybe Cubensis Street Sample Potency Variability (Bigwood & Beug, 1982)
+## Psilocybe Cubensis Street Sample Potency Variability (Bigwood & Beug, 1982)
 
 ## Overview
 

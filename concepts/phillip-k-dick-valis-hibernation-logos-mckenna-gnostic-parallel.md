@@ -1,4 +1,8 @@
-# Phillip K. Dick Valis and the Hibernation of the Logos
+---
+title: "Phillip K. Dick Valis and the Hibernation of the Logos"
+tags:
+  - concept
+---
 
 ## Overview
 

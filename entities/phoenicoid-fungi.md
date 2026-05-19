@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, fire-ecology, pyrophilous, ascomycetes, ecological-group]
 ---
 
-# Phoenicoid Fungi
+## Phoenicoid Fungi
 
 ## Description
 

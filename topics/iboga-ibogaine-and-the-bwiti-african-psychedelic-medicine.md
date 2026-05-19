@@ -25,7 +25,7 @@ related_concepts:
   - plants-of-the-gods-tabernanthe-iboga-chemistry
 ---
 
-# Iboga, Ibogaine, and the Bwiti: African Psychedelic Medicine
+## Iboga, Ibogaine, and the Bwiti: African Psychedelic Medicine
 
 Iboga ([[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], and the harmala
 alkaloids of [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] ceremony is one of the most demanding psychedelic

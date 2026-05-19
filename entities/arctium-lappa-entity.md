@@ -28,7 +28,7 @@ sources:
   - https://pfaf.org/user/Plant.aspx?LatinName=Arctium+lappa
 ---
 
-# Arctium lappa
+## Arctium lappa
 
 **Greater burdock** is a robust biennial herb in the Asteraceae family,
 native to Europe and Asia and now naturalized across [[medicinal-herb-growing]].

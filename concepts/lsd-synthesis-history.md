@@ -7,7 +7,7 @@ tags: [entheogen, history, chemistry, psychopharmacology, counterculture, pharma
 sources: []
 ---
 
-# LSD Synthesis History
+## LSD Synthesis History
 
 ## Overview
 

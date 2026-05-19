@@ -9,7 +9,7 @@ type: concept
 tags: [animal-husbandry, culture, permaculture]
 ---
 
-# Livestock Integration in Permaculture Systems
+## Livestock Integration in Permaculture Systems
 
 In permaculture, animals are integrated as functional elements that provide multiple outputs: meat, eggs, milk, manure, [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], and soil building. Every animal is placed where its behaviors benefit the overall system.
 

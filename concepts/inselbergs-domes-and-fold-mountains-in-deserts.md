@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Inselbergs, Domes, and Fold Mountains in Deserts
+## Inselbergs, Domes, and Fold Mountains in Deserts
 
 The elevated landforms of arid regions—inselbergs, rock domes, and fold mountain systems—represent the most significant water-harvesting opportunities in desert landscapes. Their geological characteristics combine reliable run-off generation with microclimatic diversity, making them priority sites for [[wadi]] and scarp systems, they are straightforward:
 

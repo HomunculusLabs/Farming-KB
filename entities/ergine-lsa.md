@@ -5,10 +5,10 @@ type: chemical
 tags: [ergoline, psychedelic, tryptamine-derivative, natural-alkaloid, morning-glory]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+sources: ["raw/papers/hofmann-a-lsd-my-problem-child.md"]
 ---
 
-# Ergine (LSA)
+## Ergine (LSA)
 
 **Ergine**, also known as **D-lysergic acid amide** (LSA) and **lysergamide**, is a naturally occurring ergoline alkaloid and the primary psychoactive constituent of several [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]*) and related plants. Structurally, it is an amide of lysergic acid, making it a close chemical relative of **LSD** (lysergic acid diethylamide). Ergine is the simplest lysergic acid amide and serves as a biosynthetic intermediate in the ergot alkaloid pathway.
 

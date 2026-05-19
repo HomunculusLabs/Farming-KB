@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, lichen, bioindicator, heavy-metal, air-pollution]
 ---
 
-# Bryoria fuscescens
+## Bryoria fuscescens
 
 ## Description
 

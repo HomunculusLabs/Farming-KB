@@ -7,7 +7,7 @@ tags: [food-forest, orchard]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Hamilton: Soft Fruit Cultivation
+## Hamilton: Soft Fruit Cultivation
 
 **Source:** Geoff Hamilton, *[[coleman-overwintered-onions-and-early-spring-crops]]. Mulch with well-rotted manure or compost. If deficiency symptoms appear, spray with liquid [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]. Apply through hose and sprinkler for at least an hour at a time; small amounts of water bring roots to the surface.
 

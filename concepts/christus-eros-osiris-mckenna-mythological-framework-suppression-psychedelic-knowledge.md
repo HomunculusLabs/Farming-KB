@@ -26,7 +26,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# Christus, Eros, and Osiris in McKenna's Mythological Framework
+## Christus, Eros, and Osiris in McKenna's Mythological Framework
 
 [[i-thou-relationship-with-psychedelic-entities]] plants and the gnosis they provide. This tradition, building a "triumph of mechanism," succeeded in transforming the world through practical achievements, including the alchemical dreams of the fifteenth and sixteenth centuries, gene transplants, and the transformation of elements. However, it simultaneously alienated humanity from direct experiential knowledge of the divine dimensions accessible through entheogenic plants.
 

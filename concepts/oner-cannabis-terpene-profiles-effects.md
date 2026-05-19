@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
-# Cannabis Terpene Profiles and Their Effects
+## Cannabis Terpene Profiles and Their Effects
 
 Terpenes are the aromatic compounds that give cannabis its distinctive smells and
 flavors, and they also modulate the psychoactive effects of cannabinoids. Oner's strain

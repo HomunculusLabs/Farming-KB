@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 type: concept
 ---
 
-# The Soma Question — Identity of the Vedic Sacrament
+## The Soma Question — Identity of the Vedic Sacrament
 
 The identity of **Soma**, the divine sacrament central to Vedic religion and the Rigveda (c. 1500–1200 BCE), remains one of the great unsolved mysteries of religious history. The Rigveda contains over 1,000 hymns dedicated to Soma — more than to any other deity — describing it as a plant that, when pressed and consumed, confers immortality, divine vision, and ecstatic union with the gods. Yet the actual plant was never identified in the Vedas, and its identity was lost sometime after the Vedic period.
 

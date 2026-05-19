@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TP
+## TP
 
 [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for these would be 4-thiosyringaldehyde, with
 S-alkylation and then the conventional nitroethane coupling followed

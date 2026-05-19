@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - cannabis-sativa Volume 3: The Essential Guide"
 ---
 
-# Colombian and Central American Landrace Sativa Strains
+## Colombian and Central American Landrace Sativa Strains
 
 Colombia and Central America have contributed some of the most
 influential genetics to the global [[colombian-gold]], [[comparison-cannabis-sativa-vs-cannabis-indica]] Volume 3.

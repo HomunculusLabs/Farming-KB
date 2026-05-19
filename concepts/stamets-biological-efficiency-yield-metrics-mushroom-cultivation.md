@@ -1,4 +1,8 @@
-# Biological Efficiency: Yield Metrics in Mushroom Cultivation
+---
+title: "Biological Efficiency: Yield Metrics in Mushroom Cultivation"
+tags:
+  - concept
+---
 
 ## Overview
 

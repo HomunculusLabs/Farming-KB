@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Humus, Humic Acid, and Fulvic Acid Distinctions
+## Humus, Humic Acid, and Fulvic Acid Distinctions
 
 The terms humus, humic acid, and fulvic acid are frequently used interchangeably in agriculture, but they represent distinct components of [[ingham-actinomycetes-soil-biology-and-compost-tea]] production.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka View of Nature and Human Hubris
+## Fukuoka View of Nature and Human Hubris
 
 Masanobu Fukuoka's philosophy of [[four-principles-of-natural-farming]] -- practical expression
 - [[fukuoka-road-critique-of-modern-science]] farming practices

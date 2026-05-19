@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Pluteus romellii
+## Pluteus romellii
 
 **Pluteus romellii** is a wood-inhabiting mushroom in the family Pluteaceae and one of
 several Pluteus species reported to contain [[norbaeocystin]].

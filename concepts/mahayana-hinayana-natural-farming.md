@@ -15,7 +15,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
-# Mahayana vs 
+## Mahayana vs 
 
  organizes all approaches to agriculture into three
 distinct categories, using Buddhist terminology borrowed from the Mahayana

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Rice Barley No-Till Direct Seeding Method
+## Fukuoka Rice Barley No-Till Direct Seeding Method
 
 Fukuoka's signature agricultural technique -- the direct-seeded, no-till rice/barley succession in a [[fukuoka-road-back-clover-barley-rice-method]]
 

@@ -5,7 +5,7 @@ tags: [mycologist, taxonomy, fungal-classification, botany, specimen-collection]
 sources: []
 ---
 
-# Carlos Bosch
+## Carlos Bosch
 
 ## Overview
 

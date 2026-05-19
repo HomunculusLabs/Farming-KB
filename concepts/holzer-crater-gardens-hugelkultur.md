@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Holzer Crater Gardens and Hugelkultur
+## Holzer Crater Gardens and Hugelkultur
 
 Crater gardens and hugelkultur (German mounds) are essential elements of
 Holzer's Permaculture for creating microclimates, enlarging cultivated

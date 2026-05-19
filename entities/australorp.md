@@ -5,7 +5,7 @@ type: entity
 tags: [chicken-breed, livestock, poultry, permaculture, australian]
 ---
 
-# Australorp (Chicken Breed)
+## Australorp (Chicken Breed)
 
 ## Description
 

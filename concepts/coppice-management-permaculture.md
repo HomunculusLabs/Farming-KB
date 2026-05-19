@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Coppice Management in Permaculture
+## Coppice Management in Permaculture
 
 Coppicing is one of the most ancient and widely practiced woodland management techniques, and it holds a central place in permaculture design. The practice involves cutting a tree or shrub near ground level to stimulate the growth of new shoots from the stump or root system (known as the stool). These regrown shoots are harvested on a regular cycle, providing a continuous supply of poles, fuel, fodder, and other useful products without the need to replant.
 

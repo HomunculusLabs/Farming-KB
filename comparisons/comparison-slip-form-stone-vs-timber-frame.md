@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Slip Form Stone vs Timber Frame Construction
+## Slip Form Stone vs Timber Frame Construction
 
 Slip form stone construction and timber framing represent two fundamentally different approaches to [[coleman-soil-heat-mass-passive-thermal-storage]] regulation is the same principle behind [[fungal-building-material-deterioration]]. Trees sequester carbon as they grow, and that carbon remains locked in the timber for the life of the building. Using locally harvested, air-dried timber from small-scale woodlot management maximizes this benefit. Reclaimed timber is even better, requiring no new harvest. The main environmental concern is sustainable forestry practice: clear-cutting or old-growth harvesting negates the carbon benefit. Certified timber from the Forest Stewardship Council or equivalent programs provides assurance.
 

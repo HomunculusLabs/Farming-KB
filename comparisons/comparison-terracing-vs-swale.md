@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Terracing vs Swale
+## Terracing vs Swale
 
 ## Overview
 Terraces and swales are the two primary earthwork techniques for managing

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Nutrient Stock Solutions and Concentrates
+## Nutrient Stock Solutions and Concentrates
 
 Proper preparation and management of nutrient stock solutions is a
 core skill in hydroponic [[jorge-cervantes]] covers

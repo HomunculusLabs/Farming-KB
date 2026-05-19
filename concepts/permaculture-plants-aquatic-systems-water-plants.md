@@ -5,7 +5,7 @@ author: Jeff Nugent and Julia Boniface
 topics: water-plants, aquaculture, ponds, wetlands, azolla, duckweed, taro, permaculture
 ---
 
-# Water Plants for Permaculture Aquatic Systems
+## Water Plants for Permaculture Aquatic Systems
 
 Nugent and Boniface's *Permaculture Plants* dedicates a substantial section to
 water plants, organized into four functional categories based on their growth

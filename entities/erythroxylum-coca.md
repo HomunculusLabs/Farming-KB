@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Erythroxylum coca
+## Erythroxylum coca
 
 **Erythroxylum coca** Lam. is a tropical shrub in the family Erythroxylaceae, native to the eastern slopes of the Andes in [[psilocybe-southeast-asia-pacific]]. The family Erythroxylaceae contains four genera and approximately 240 species. Within *Erythroxylum*, only a handful of species contain significant quantities of cocaine alkaloids.
 

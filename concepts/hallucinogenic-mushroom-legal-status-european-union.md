@@ -3,7 +3,7 @@ source: carolina-mushrooms_08qxp.md
 tags: [emcdda, europe, hallucinogenic-mushrooms, regulation, legal-status, prevalence]
 ---
 
-# Legal Status of Hallucinogenic Mushrooms in the European Union
+## Legal Status of Hallucinogenic Mushrooms in the European Union
 
 ## International Framework and Baseline Controls
 

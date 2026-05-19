@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# JADAM Humus Soil and Leaf Mold Soil Distinction
+## JADAM Humus Soil and Leaf Mold Soil Distinction
 
 JADAM [[comparison-humic-acid-vs-fulvic-acid]], treating them as different stages in the
 decomposition of [[jadam-soil-management-principles]] that underpin ultra-low-cost

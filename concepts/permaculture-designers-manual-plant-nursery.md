@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, plant-systems, plant-growth, propagation]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Plant Nursery
+## Plant Nursery
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
 ## Overview
 The plant nursery is a critical early-stage component of any permaculture

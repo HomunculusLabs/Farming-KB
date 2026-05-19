@@ -5,7 +5,7 @@ type: entity
 tags: [person, prehistorian, archaeologist, australia, aboriginal, fire]
 ---
 
-# Rhys Jones
+## Rhys Jones
 
 ## Description
 

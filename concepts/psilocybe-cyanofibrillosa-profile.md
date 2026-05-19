@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe cyanofibrillosa — The Fibrillose-Capped Psilocybe of the Pacific Northwest
+## Psilocybe cyanofibrillosa — The Fibrillose-Capped Psilocybe of the Pacific Northwest
 
 **Psilocybe cyanofibrillosa** is a neurotropic mushroom species endemic to the Pacific Northwest region [[field-guide-psilocybin-bluing-reaction-identification]] upon bruising, indicating the presence of psilocybin and/or psilocin
 - Small to medium-sized [[guzman-psilocybin-mushrooms-north-america]], even more limited than P. azurescens (which extends from California to Washington) and P. cyanescens (which has a broader Pacific coast distribution plus introduced populations in Europe).

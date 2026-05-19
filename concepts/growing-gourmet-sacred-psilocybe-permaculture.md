@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Sacred Psilocybe Mushrooms in Permaculture Landscapes
+## Sacred Psilocybe Mushrooms in Permaculture Landscapes
 
 In the Pacific Northwest of North America, the Psilocybe mushrooms
 figure as some of the most frequently found fungi in landscaping

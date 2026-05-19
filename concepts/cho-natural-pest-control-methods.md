@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Cho's Natural Pest Control Methods
+## Cho's Natural Pest Control Methods
 
 Dr. Cho's Korean [[cho-plant-growth-stage-treatments]] ensures appropriate nutrition at each stage.
 3.  **Microbial diversity suppresses pathogens** — A diverse soil

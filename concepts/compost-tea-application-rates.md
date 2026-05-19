@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Compost Tea Application Rates
+## Compost Tea Application Rates
 
 Application rates for [[savory-growing-season-and-non-growing-season-management]]
 - If a disease outbreak occurs: **every 3-5 days** until resolved

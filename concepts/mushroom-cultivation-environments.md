@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, environment, climate-control, mushroom-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Mushroom Cultivation Environments
+## Mushroom Cultivation Environments
 
 Mushroom cultivation requires precise control of environmental parameters to
 achieve consistent yields and quality. Unlike plants, mushrooms do not

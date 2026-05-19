@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, grand-daddy-blue-dream, blue-dream, medical-cannabis, granddaddy-purp, hybrid, foxtailing]
 ---
 
-# Grand Daddy Blue Dream — Medical Sativa-Dominant Hybrid Strain Profile
+## Grand Daddy Blue Dream — Medical Sativa-Dominant Hybrid Strain Profile
 
 ## Overview
 

@@ -5,7 +5,7 @@ tags: [ethnobotany, mexico, sacred-mushrooms, indigenous-culture, ceremonial-use
 created: 2026-05-09
 ---
 
-# Mexican Sacred Mushroom Traditions
+## Mexican Sacred Mushroom Traditions
 
 ## Overview
 

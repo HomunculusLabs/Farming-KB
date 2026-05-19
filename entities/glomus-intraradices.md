@@ -8,7 +8,7 @@ sources: [john-dighton-fungi-in-ecosystem-processes.md]
 type: entity
 ---
 
-# Glomus intraradices
+## Glomus intraradices
 
 **Type:** Species (Fungus)
 **Category:** [[rhizophagus-irregularis]] (current name), Glomus

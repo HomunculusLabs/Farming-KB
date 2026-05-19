@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Egyptian Mystery Schools and Pyramid Initiation
+## Egyptian Mystery Schools and Pyramid Initiation
 
 ## Overview
 

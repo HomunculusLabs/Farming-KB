@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Crohn's Disease
+## Cannabis and Crohn's Disease
 
 **Source:** The [[blesching-cannabis-inflammatory-bowel-disease]] disease (IBD) that causes chronic inflammation of the gastrointestinal tract, most commonly affecting the end of the small intestine (ileum) and the beginning of the colon. Symptoms include abdominal pain, severe diarrhea, fatigue, weight loss, and malnutrition. It can also cause inflammation of the eyes, skin, and joints. Orthodox treatment includes anti-inflammatory drugs, immune system suppressors, antibiotics, and surgery.
 

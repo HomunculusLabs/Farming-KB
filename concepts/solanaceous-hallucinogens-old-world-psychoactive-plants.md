@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] — potent compounds that induce hallucinations, delirium, [[mandrake-mandragora-officinarum-in-european-folklore]], feared for its deadly power across virtually all European cultures. There are four species of *Atropa*, distributed in Europe and from central Asia to the Himalayas. Belladonna is native to Europe and Asia Minor.
+## [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] — potent compounds that induce hallucinations, delirium, [[mandrake-mandragora-officinarum-in-european-folklore]], feared for its deadly power across virtually all European cultures. There are four species of *Atropa*, distributed in Europe and from central Asia to the Himalayas. Belladonna is native to Europe and Asia Minor.
 
 ### Cultural History
 

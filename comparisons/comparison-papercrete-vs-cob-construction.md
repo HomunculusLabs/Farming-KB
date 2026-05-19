@@ -14,7 +14,7 @@ sources:
 type: comparison
 ---
 
-# Papercrete vs [[fermented-plant-juice-preparation-and-application]]. This comparison helps you [[fungal-building-material-deterioration]], rare in the earth-building world.
+## Papercrete vs [[fermented-plant-juice-preparation-and-application]]. This comparison helps you [[fungal-building-material-deterioration]], rare in the earth-building world.
 
 Cob provides almost no insulation but enormous thermal mass. A thick cob wall (18-24 inches) stabilizes indoor temperatures through thermal lag, absorbing heat during the day and releasing it at night. This works brilliantly in climates with large diurnal temperature swings (deserts, high plains) but poorly where temperatures remain consistently cold.
 

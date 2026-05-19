@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Science and Living Systems in [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]] life. Rigorous scientific method demands rigorous control of variables, which presumes two things that are impossible:
+## Science and Living Systems in [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]] life. Rigorous scientific method demands rigorous control of variables, which presumes two things that are impossible:
 
 1. That you know all variables before you start, in order to control some and measure others
 2. That you can in fact control all or any variables without creating disorder in the life system

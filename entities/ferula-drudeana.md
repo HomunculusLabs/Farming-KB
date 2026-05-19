@@ -18,7 +18,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Ferula drudeana
+## Ferula drudeana
 
 **Ferula drudeana** J.B. Korovin is a recently rediscovered perennial plant
 species in the family Apiaceae that has attracted significant scientific and

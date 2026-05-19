@@ -11,7 +11,7 @@ sources:
 type: entity
 ---
 
-# Panaeolus acuminatus
+## Panaeolus acuminatus
 
 **Also known as:** Panaeolus rickenii (Hora), sharp panaeolus
 

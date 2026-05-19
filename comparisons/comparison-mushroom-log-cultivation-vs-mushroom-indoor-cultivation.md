@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 type: comparison
 ---
-# Mushroom Log Cultivation vs Mushroom Indoor Cultivation
+## Mushroom Log Cultivation vs Mushroom Indoor Cultivation
 ## Overview
 [[eclss-environmental-control-life-support]], faster
 turnaround, and higher [[cultivator-sterile-technique-and-agar-culture]], and ongoing management.

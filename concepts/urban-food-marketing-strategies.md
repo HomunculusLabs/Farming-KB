@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Urban Food Marketing Strategies
+## Urban Food Marketing Strategies
 
 The marketing of food produced through [[permaculture]] systems is as important as the production itself. [[bill-mollison]]’s [[permaculture-design]] Course devotes considerable attention to the diverse strategies available to small producers for selling their products directly, bypassing conventional wholesale and retail channels that typically capture the majority of food dollars.
 

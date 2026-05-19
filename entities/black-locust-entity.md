@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Black Locust
+## Black Locust
 
 **Type:** Species (Plant)
 **Category:** Nitrogen-fixing leguminous tree

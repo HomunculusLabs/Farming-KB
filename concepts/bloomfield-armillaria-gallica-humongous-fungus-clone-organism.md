@@ -15,7 +15,7 @@ tags:
   - Malheur-National-Forest
 ---
 
-# Armillaria gallica: The Humongous Fungus and the Nature of Individuality
+## Armillaria gallica: The Humongous Fungus and the Nature of Individuality
 
 ## Overview
 

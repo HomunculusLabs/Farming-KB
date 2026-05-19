@@ -1,5 +1,5 @@
 ---
-title: sepp-holzer-terrace-systems-and-raised-beds Systems
+title: "Holzer Terrace Systems"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

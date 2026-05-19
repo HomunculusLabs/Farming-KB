@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Fallacies of Scientific Understanding
+## The Fallacies of Scientific Understanding
 
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 2 of "The [[dighton-mycorrhizal-networks-carbon-transfer]], the [[fukuoka-natural-farming-philosophy]] is to stop intervening altogether and trust in the self-regulating capacity of natural systems.
 

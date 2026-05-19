@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/tihkal-the-continuation.md"
 ---
-# DPT Compound Profile
+## DPT Compound Profile
 
 DPT (N,N-dipropyltryptamine) is a synthetic tryptamine described in TIHKAL as compound #9. It has been used in clinical [[ayahuasca-tourism-legal-status-by-country]]**: Schedule I in US (since 2004), controlled in many countries
 

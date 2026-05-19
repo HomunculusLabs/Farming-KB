@@ -5,10 +5,10 @@ type: species
 tags: [medicinal-mushroom, tricholoma, immunomodulator, mongolia, traditional-medicine]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Tricholoma mongolicum
+## Tricholoma mongolicum
 
 **Tricholoma mongolicum** is a mushroom species native to the grasslands and steppes of Mongolia and surrounding regions of Central Asia. It holds significance in Mongolian traditional medicine and has been studied for its immunomodulatory and potential anti-tumor polysaccharide constituents. The species represents an important but under-researched member of the medicinal Tricholoma genus.
 

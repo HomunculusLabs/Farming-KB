@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Banana Circle Waste Recycling System
+## Banana Circle Waste Recycling System
 
 The banana circle is one of the most iconic and immediately productive elements in
 permaculture-designers-manual-bamboo, it converts organic waste and

@@ -24,7 +24,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255954/
 ---
 
-# Hydnellum peckii
+## Hydnellum peckii
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Third Bardo — The Period of Re-Entry (Sidpa Bardo)
+## Third Bardo — The Period of Re-Entry (Sidpa Bardo)
 
 ## Overview
 

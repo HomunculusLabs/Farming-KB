@@ -6,7 +6,7 @@ created: 2026-05-10
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 
-# Psilocybe cubensis Miniculture Method
+## Psilocybe cubensis Miniculture Method
 
 The miniculture method is a small-scale [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. Adapted from the rye-grain methods of San Antonio (1971) and Oss and Oeric (1976), the miniculture uses wide-mouth half-pint (~250 ml) jars to produce multiple flushes of mushrooms under reproducible conditions, yielding sufficient material for analytical chemistry while requiring minimal space and resources.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [ethnomycology, mushroom-cultivation, mushrooms, mycology]
 ---
 
-# Ethnomycology and Religion: Arthur's Synthesis
+## Ethnomycology and Religion: Arthur's Synthesis
 
 James Arthur's "Mushrooms and Mankind" offers a sweeping synthesis of ethnomycology and comparative religion, arguing that [[allegro-amanita-muscaria-properties-and-pharmacology]] -- constitute the hidden thread connecting virtually all world religions. The work weaves together philology, symbology, art history, and scriptural interpretation to build its case.
 

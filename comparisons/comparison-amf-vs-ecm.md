@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/forest-gardening-robert-hart.md]
 ---
 
-# Arbuscular Mycorrhizal Fungi vs Ectomycorrhizal Fungi
+## Arbuscular Mycorrhizal Fungi vs Ectomycorrhizal Fungi
 
 ## Overview
 

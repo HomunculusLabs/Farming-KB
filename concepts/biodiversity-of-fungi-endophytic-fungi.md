@@ -7,7 +7,7 @@ tags: [fungi, biology, symbiosis, ecology]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-# Endophytic Fungi - Biodiversity, Ecology, and Agricultural Significance
+## Endophytic Fungi - Biodiversity, Ecology, and Agricultural Significance
 
 Updated: 2026-04-18
 

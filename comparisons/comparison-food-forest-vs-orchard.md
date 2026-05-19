@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Food Forest vs Orchard
+## Food Forest vs Orchard
 
 A food forest and a [[companion-planting-reference]] and [[dynamic-accumulators]] around central fruit trees. Each guild incorporates:
 

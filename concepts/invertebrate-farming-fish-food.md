@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Invertebrate Farming for Fish Food
+## Invertebrate Farming for Fish Food
 
 The single greatest ongoing cost of fish culture is food.
 Pelleted commercial feeds typically represent 60–70% of total

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Endophytes in Agricultural Crops
+## Fungal Endophytes in Agricultural Crops
 
 Fungal endophytes -- fungi that live within plant tissues without causing
 visible disease symptoms -- represent a vast and largely untapped resource

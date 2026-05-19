@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Persimmon as Ornamental Fruit Tree in Permaculture
+## Persimmon as Ornamental Fruit Tree in Permaculture
 
 The persimmon (permplant persimmon diospyros kaki fruit tree), also known as Chinese persimmon or
 kakee, is a deciduous, round-headed tree growing to about 5 metres.

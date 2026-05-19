@@ -25,7 +25,7 @@ sources:
 type: comparison
 ---
 
-# Honey Bees vs Native/Solitary Bees
+## Honey Bees vs Native/Solitary Bees
 
 Understanding the differences between honey bees (*Apis mellifera*) and native solitary bees is essential for gardeners, farmers, and conservationists. Honey bees dominate agricultural pollination, but [[fruit-tree-grafting-guide]] pollination before honey bees build large populations.
 

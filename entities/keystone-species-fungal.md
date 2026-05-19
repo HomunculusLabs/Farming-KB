@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Keystone Species (Fungal Context)
+## Keystone Species (Fungal Context)
 
 ## Description
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mineral Nutrients — Magnesium, Aluminium, Silicon, and Phosphorus
+## Mineral Nutrients — Magnesium, Aluminium, Silicon, and Phosphorus
 
 ## Overview
 

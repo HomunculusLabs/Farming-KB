@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Harvest Timing and Trichome Ripeness
+## Harvest Timing and Trichome Ripeness
 
 Harvest timing is one of the most critical decisions a cannabis grower makes.
 According to [[green-cannabis-cola-development-bud-architecture]] [[cervantes-hash-making-extracts]]

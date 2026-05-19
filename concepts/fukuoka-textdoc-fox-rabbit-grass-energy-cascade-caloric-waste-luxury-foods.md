@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 ---
 
-# Fox Rabbit Grass Energy Cascade and Caloric Waste of Luxury Foods
+## Fox Rabbit Grass Energy Cascade and Caloric Waste of Luxury Foods
 
 Fukuoka uses a vivid energy cascade metaphor to illustrate the staggering caloric waste inherent in [[fukuoka-textdoc-genetic-engineering-critique-warning]] or feed optimization can overcome the second law of thermodynamics.
 

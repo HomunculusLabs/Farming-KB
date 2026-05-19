@@ -1,4 +1,8 @@
-# Mycelium Structure and Growth
+---
+title: "Mycelium Structure and Growth"
+tags:
+  - concept
+---
 
 Mycelium is the vegetative body of a fungus, consisting of a vast network of
 branching filamentous cells called hyphae. While mushrooms are the most visible
@@ -144,7 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
-## See Also

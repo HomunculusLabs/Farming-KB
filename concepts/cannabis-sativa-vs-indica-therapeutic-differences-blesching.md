@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [sativa, indica, cannabis-strains, thc, cbd, therapeutic-window, modes-of-administration, endocannabinoid-system]
 ---
 
-# Cannabis Sativa vs Indica Therapeutic Differences
+## Cannabis Sativa vs Indica Therapeutic Differences
 
 ## Overview
 

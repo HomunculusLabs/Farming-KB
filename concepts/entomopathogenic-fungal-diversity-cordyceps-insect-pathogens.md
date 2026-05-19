@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Entomopathogenic Fungi
+## Entomopathogenic Fungi
 
 Entomopathogenic fungi are those that attack and kill insects
 and other arthropods. They include necrotrophic parasites that

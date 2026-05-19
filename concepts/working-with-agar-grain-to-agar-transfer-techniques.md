@@ -8,7 +8,7 @@ type: concept
 tags: [agar]
 ---
 
-# Working with Agar: Grain-to-Agar Transfer Techniques
+## Working with Agar: Grain-to-Agar Transfer Techniques
 
 Transferring [[comparison-grain-spawn-vs-grain-to-grain-transfer]] to agar is a standard operation for
 cleaning up cultures, expanding inoculum, or rescuing a culture before it

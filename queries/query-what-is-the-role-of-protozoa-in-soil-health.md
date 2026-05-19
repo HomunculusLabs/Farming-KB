@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is the Role of Protozoa in Soil Health?
+## What Is the Role of Protozoa in Soil Health?
 
 ## Short Answer
 Protozoa are single-celled microscopic animals that serve as the primary nutrient recyclers in the [[teaming-with-microbes-protozoa-and-nematodes]] extends beyond simple predation.

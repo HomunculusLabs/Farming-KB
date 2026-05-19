@@ -6,7 +6,7 @@ created: 2026-05-10
 source: general-knowledge
 ---
 
-# Basidiomycete Mating Systems: Sexual Reproduction and Genetics
+## Basidiomycete Mating Systems: Sexual Reproduction and Genetics
 
 Basidiomycetes (club fungi) encompass mushrooms, bracket fungi, puffballs, rusts, and smuts. Their sexual reproduction is unique among fungi and involves the formation of a dikaryotic mycelium — a stage where each cell contains two genetically distinct nuclei that divide synchronously. Understanding mating systems is critical [[coprinellus-disseminatus]], Ustilago maydis (corn smut), Pholiota nameko (nameko mushroom)
 

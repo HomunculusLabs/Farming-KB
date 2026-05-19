@@ -12,7 +12,7 @@ sources:
 type: concept
 ---
 
-# Julius von Sachs and the Discovery of Blue-Light Phototropism
+## Julius von Sachs and the Discovery of Blue-Light Phototropism
 
 ## Overview
 

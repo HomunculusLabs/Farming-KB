@@ -7,7 +7,7 @@ tags: [dob, amphetamine, psychedelic, shulgin, 5-ht2a, potent, long-duration]
 mined: 2026-05-10
 ---
 
-# DOB (2,5-Dimethoxy-4-Bromoamphetamine)
+## DOB (2,5-Dimethoxy-4-Bromoamphetamine)
 
 ## Overview
 

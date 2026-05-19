@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
-# Maenads, Thyrsos, and Ecstatic Ritual
+## Maenads, Thyrsos, and Ecstatic Ritual
 
 **Source:** The [[sacred-marriage-hieros-gamos-in-greek-religion]] pattern and provide important context for understanding the [[persephone-abduction-and-narkissos]], gathered flowers. Their activities paralleled Persephone's fatal nuptial encounter at Nysa. When Dionysus possessed the maenads, he was "synonymous with Hades, the lord of death and bridegroom to the goddess Persephone." The maenads' emblem — flowers, the thyrsos, the serpent — all pointed to the same vegetative-cycle-of-death-and-rebirth mystery.
 

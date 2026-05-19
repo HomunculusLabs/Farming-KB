@@ -5,7 +5,7 @@ source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [stinkhorn, phallus-impudicus, spore-dispersal, phallales, basidiomycota, insect-dispersal, gasteromycetes]
 ---
 
-# Stinkhorn Reproduction and Spore Dispersal Mechanisms
+## Stinkhorn Reproduction and Spore Dispersal Mechanisms
 
 ## Introduction to Stinkhorns
 

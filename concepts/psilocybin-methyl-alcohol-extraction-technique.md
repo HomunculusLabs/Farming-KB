@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Methyl Alcohol Extraction Technique
+## Psilocybin Methyl Alcohol Extraction Technique
 
 The methyl alcohol (methanol) extraction of [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]] is one of
 the oldest and most straightforward approaches to isolating the active alkaloids

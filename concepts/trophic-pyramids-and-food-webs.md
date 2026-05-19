@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] Webs
+## [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] Webs
 
 The **trophic pyramid** is a conceptual model used to illustrate energy flow [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] argues that it is overly simplistic and largely inapplicable to real-world field conditions, where complex food webs and feedback loops dominate.
 

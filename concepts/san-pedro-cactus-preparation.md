@@ -7,7 +7,7 @@ tags: [entheogen, cacti, preparation, recipe, psychopharmacology, mesoamerica, s
 sources: []
 ---
 
-# San Pedro Cactus Preparation
+## San Pedro Cactus Preparation
 
 ## Overview
 

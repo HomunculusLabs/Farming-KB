@@ -6,7 +6,7 @@ type: concept
 tags: [soil, gardening]
 sources: [papers/gaias-garden-toby-hemenway.md, papers/a-selection-permaculture-plants.md]
 ---
-# Mulch-Producing Plants
+## Mulch-Producing Plants
 
 Mulch-producing plants are species deliberately grown to generate abundant biomass that can be cut and used as surface mulch around other plants. They eliminate the need to import [[soil-building-permaculture]] systems.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Autism Research
+## Cannabis and Autism Research
 
 **Source:** Uwe Blesching, The [[cannabis-autoimmune-conditions]], neurotransmitter imbalances, toxins (lead, mercury, pesticides), mold/viral load, electromagnetic pollution.
 

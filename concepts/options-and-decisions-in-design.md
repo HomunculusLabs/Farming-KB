@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Options and Decisions in Design
+## Options and Decisions in Design
 
 Design as a selection of options and pathways based on decisions is a [[maps]], overlays on those maps, and overlays on the overlays. While more expensive, potentially time-consuming, and possibly the most confusing of all design approaches, it has value when used appropriately.
 

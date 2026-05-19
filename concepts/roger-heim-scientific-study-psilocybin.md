@@ -7,7 +7,7 @@ tags: [reference]
 sources: ["raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"]
 ---
 
-# Roger Heim and the Scientific Study of Psilocybin
+## Roger Heim and the Scientific Study of Psilocybin
 
 The scientific investigation of magic mushrooms in the late 1950s was led by Roger Heim (1900-1979), the eminent French mycologist and director of the National Museum of Natural History in Paris, working in collaboration with Albert Hofmann at Sandoz Laboratories in Switzerland.
 

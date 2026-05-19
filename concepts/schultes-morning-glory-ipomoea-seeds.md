@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ethnobotany, morning-glory, ipomoea, mexico, ololiuqui, lsa, mazatec, oaxaca]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
-# Morning Glory ([[schultes-ergot-st-anthonys-fire]]. [[schultes-psilocybe-little-flowers-gods]] and the brain hormone
+## Morning Glory ([[schultes-ergot-st-anthonys-fire]]. [[schultes-psilocybe-little-flowers-gods]] and the brain hormone
 serotonin.
 
 LSD, lysergic acid diethylamide, a semi-synthetic compound, is the

@@ -1,4 +1,8 @@
-# Year-Round Marketing Calendar
+---
+title: "Year-Round Marketing Calendar"
+tags:
+  - concept
+---
 
 [[coleman-semi-hibernating-winter-crops-harvest-extension]].
 - **Market-style winter shares:** Members receive a credit or

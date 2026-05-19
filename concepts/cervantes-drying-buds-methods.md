@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybin-mushroom-drying-and-storage-methods]]. Keep dried marijuana in a cool, dry,
+## [[psilocybin-mushroom-drying-and-storage-methods]]. Keep dried marijuana in a cool, dry,
 dark place away from any source of heat or light.
 
 See also: [[cervantes-air-quality-ventilation]]

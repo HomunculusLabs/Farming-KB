@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 ---
 
-# Weeds as Soil Diagnostic Tools in Natural Farming
+## Weeds as Soil Diagnostic Tools in Natural Farming
 
 Fukuoka advances a counterintuitive but powerful principle: one can understand the nature of the soil more quickly by examining the weeds growing in it than by examining the soil itself. Weeds are not enemies to be eradicated but living indicators of soil conditions, and they play an active role in solving the very soil problems they signal. This approach inverts the entire framework of modern weed science and replaces it with a system of ecological literacy.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, gardening, polyculture, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-# Plant Guilds and Stacking Permaculture guilds are functional plant communities designed around a central element -- typically a fruit tree -- where each member contributes to the health and productivity of the whole. In natural forests, mature trees like firs support 26 or more species of flora and insects, all playing interconnected roles in growth, nutrient cycling, and pest management. This concept is foundational to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and has deep taproots that mine minerals from subsoil
+## Plant Guilds and Stacking Permaculture guilds are functional plant communities designed around a central element -- typically a fruit tree -- where each member contributes to the health and productivity of the whole. In natural forests, mature trees like firs support 26 or more species of flora and insects, all playing interconnected roles in growth, nutrient cycling, and pest management. This concept is foundational to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and has deep taproots that mine minerals from subsoil
 - **Clover** -- fixes atmospheric nitrogen in the soil, providing fertility to neighboring plants; acts as a living mulch that suppresses weeds
 - **Borage** -- attracts pollinators, repels certain pests, and traces minerals from deep soil layers
 - **Nettles** -- dynamic nutrient accumulator rich in nitrogen, iron, and other minerals; stimulates fermentation in compost and activates decomposition

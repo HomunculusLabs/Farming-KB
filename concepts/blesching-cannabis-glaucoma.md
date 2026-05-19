@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[blesching-cannabis-apoptosis-and-cancer-cell-death]])
+## [[blesching-cannabis-apoptosis-and-cancer-cell-death]])
 - Suppression of damaging free-radical reactions
 
 ## Key Studies

@@ -5,7 +5,7 @@ type: entity
 tags: [grass, erosion-control, permaculture, plant, bank-stabilization]
 ---
 
-# Vetiver Grass (Chrysopogon zizanioides)
+## Vetiver Grass (Chrysopogon zizanioides)
 
 ## Description
 

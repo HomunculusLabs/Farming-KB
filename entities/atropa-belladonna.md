@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Atropa belladonna L.
+## Atropa belladonna L.
 
 **Common names:** [[harner-european-witchcraft-hallucinogens]], folk medicine, and classical toxicology.
 Native to Europe, North Africa, and parts of Asia, this perennial herbaceous

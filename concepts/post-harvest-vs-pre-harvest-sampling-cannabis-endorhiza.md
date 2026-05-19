@@ -5,7 +5,7 @@ topics: [microbiome, cannabis, sampling-methodology, root-decay, endorhiza, expe
 created: 2026-05-09
 ---
 
-# Post-Harvest vs Pre-Harvest Sampling Effects on Cannabis Endorhiza Microbiome Characterization
+## Post-Harvest vs Pre-Harvest Sampling Effects on Cannabis Endorhiza Microbiome Characterization
 
 ## Overview
 

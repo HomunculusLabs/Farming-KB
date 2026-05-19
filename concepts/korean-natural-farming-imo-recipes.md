@@ -7,7 +7,7 @@ tags: [agriculture, homesteading]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# Korean Natural Farming IMO Recipes
+## Korean Natural Farming IMO Recipes
 
 [[hamilton-composting-and-organic-matter-management]], and suppresses disease — all from materials found on any farm.
 

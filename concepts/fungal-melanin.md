@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Fungal Melanin
+## Fungal Melanin
 
 Fungal melanins are complex polymeric pigments deposited in cell walls that
 confer extraordinary resistance to environmental stress, including ultraviolet

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-T-9
+## 2C-T-9
 
 [[shulgin-safety-principles-self-experimentation]] osage data and safety profiles are based on limited shulgin [[2c-g-4-entity-pihkal]]
 - [[2c-b-pihkal-entry-20]] #45 requires attention to

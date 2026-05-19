@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Humid Tropics Introduction
+## Humid Tropics Introduction
 
 > "The humid tropics demand systems that work *with* the forest, not against it." — Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 10
 

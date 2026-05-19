@@ -7,7 +7,7 @@ tags: [mycology, mycoremediation, law, ecology]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Mycoremediation Regulatory Framework
+## Mycoremediation Regulatory Framework
 
 The regulatory landscape for [[mycoremediation]] is still developing. While fungi offer promising solutions for environmental cleanup, deploying living organisms in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
 

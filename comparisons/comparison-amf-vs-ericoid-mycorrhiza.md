@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Arbuscular Mycorrhizal Fungi vs Ericoid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and soil health.
+## Arbuscular Mycorrhizal Fungi vs Ericoid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and soil health.
 
 Ericoid mycorrhiza, by contrast, are a highly specialized partnership confined almost exclusively to the Ericaceae family. They dominate in acidic, nutrient-poor, and often waterlogged environments such as heathlands, bogs, and tundra where few other mycorrhizal types can function effectively.
  

@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Acquired Tastes and the Chemical Addiction Syndrome
+## Acquired Tastes and the Chemical Addiction Syndrome
 
 ## Overview
 

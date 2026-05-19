@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Mycelial Metabolite Exudation as a Cultivation Stress Indicator
+## Mycelial Metabolite Exudation as a Cultivation Stress Indicator
 During the colonisation of grain substrates in jars, mycelium under stress conditions
 excretes yellowish metabolites onto the grain surface. This visible exudation serves
 as an important diagnostic signal for cultivators, indicating that the mycelium has

@@ -22,7 +22,7 @@ sources:
 - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 ---
 
-# Organic Gardening Techniques (Geoff Hamilton)
+## Organic Gardening Techniques (Geoff Hamilton)
 
 Practical techniques from Geoff Hamilton's organic gardening encyclopedia. Hamilton was a BBC Gardeners' World presenter and advocate of no-chemical gardening. This page covers techniques NOT already detailed in existing wiki pages. See [[composting-systems]] for composting methods, [[seed-starting-reference]] for propagation, [[greenhouse-design]] for protected growing, and [[orchard-management]] for fruit trees.
 

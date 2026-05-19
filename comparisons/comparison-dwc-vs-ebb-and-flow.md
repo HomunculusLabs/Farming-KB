@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# DWC vs Ebb and Flow
+## DWC vs Ebb and Flow
 ## Overview
 [[query-how-does-no-till-cannabis-cultivation-work]].
 Both deliver nutrient-rich water directly to plant roots, but they differ

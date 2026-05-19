@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter-Harvest Planting Schedules and Reading List
+## Winter-Harvest Planting Schedules and Reading List
 
 ## Planting Schedules for Fall and Winter Harvesting
 

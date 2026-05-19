@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-N
+## 2C-N
 
 [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[2c-c-entity-pihkal]]
 - [[2c-o-4-entity-pihkal]] -- 2C-O-4 (PIHKAL #35)

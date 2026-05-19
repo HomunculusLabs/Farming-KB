@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Earth Bank Windbreak
+## Earth Bank Windbreak
 
 ## Description
 

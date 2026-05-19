@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# tagasaste | Y | Y | Most winter through spring; staggered cutting increases flowering duration |
+## tagasaste | Y | Y | Most winter through spring; staggered cutting increases flowering duration |
 
 ## Understorey Hedgerow Bee Forage (Shrubs and Herbs)
 

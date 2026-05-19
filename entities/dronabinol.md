@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Dronabinol
+## Dronabinol
 
 **Type:** Chemical / Pharmaceutical / [[nabilone]] and Sativex). Dronabinol is
 chemically identical to natural THC in molecular formula but differs

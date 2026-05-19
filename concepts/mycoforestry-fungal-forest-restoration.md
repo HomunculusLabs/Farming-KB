@@ -1,4 +1,8 @@
-# Mycoforestry: Fungal Forest Restoration
+---
+title: "Mycoforestry: Fungal Forest Restoration"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,6 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[cortes-island-mycoforestry-project]]
 - [[mycoforestry]]
-- [[mycoforestry-applications]]
-- [[mycoforestry-practices]]
-- [[mycoforestry-principles-stamets]]

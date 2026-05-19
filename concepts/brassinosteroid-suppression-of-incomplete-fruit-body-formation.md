@@ -1,4 +1,8 @@
-# Brassinosteroid Suppression of Incomplete Fruit Body Formation
+---
+title: "Brassinosteroid Suppression of Incomplete Fruit Body Formation"
+tags:
+  - concept
+---
 
 The 1990 Gartz study reported that 22S,23S-homobrassinolide
 almost completely suppressed the formation of incomplete fruit

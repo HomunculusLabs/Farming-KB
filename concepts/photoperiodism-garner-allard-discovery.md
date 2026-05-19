@@ -1,4 +1,8 @@
-# Discovery of Photoperiodism by Garner and Allard
+---
+title: "Discovery of Photoperiodism by Garner and Allard"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -143,8 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[cannabis-photoperiodism-and-light-cycles]]
-- [[clarke-marijuana-botany-flowering-and-photoperiodism]]
-- [[night-interruption-photoperiodism-commercial-floral-manipulation]]
-- [[photoperiodism-in-plants]]

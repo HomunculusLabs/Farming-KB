@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Causes Airy Loose Cannabis Buds and How to Prevent Them
+## What Causes Airy Loose Cannabis Buds and How to Prevent Them
 
 ## Short Answer
 Airy or loose cannabis buds result from insufficient light intensity, high 

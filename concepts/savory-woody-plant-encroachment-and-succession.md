@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Woody Plant Encroachment and Succession
+## Woody Plant Encroachment and Succession
 
 Woody plant encroachment into grasslands is one of the most visible and
 consequential signs of ecosystem change in brittle environments worldwide.

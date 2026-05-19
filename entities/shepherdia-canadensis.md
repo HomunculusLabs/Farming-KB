@@ -19,7 +19,7 @@ sources:
   - Kartesz J.T. (2015). "The Biota of psilocybin-north-america-pacific-northwest Program (BONAP)."
 ---
 
-# Shepherdia canadensis
+## Shepherdia canadensis
 
 ## Overview
 

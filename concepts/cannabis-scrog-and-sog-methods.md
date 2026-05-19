@@ -8,7 +8,7 @@ sources:
   - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 
-# Cannabis SCROG and SOG Methods
+## Cannabis SCROG and SOG Methods
 
 [[comparison-sea-of-green-vs-screen-of-green]] (SOG) are two advanced [[comparison-biointensive-vs-square-foot-gardening]] by optimizing light distribution across a horizontal canopy. Both methods manipulate plant architecture but differ fundamentally in their approach: SOG uses many small plants flowered early, while ScrOG uses fewer plants trained through a horizontal screen.
 

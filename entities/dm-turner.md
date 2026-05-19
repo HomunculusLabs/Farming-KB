@@ -8,7 +8,7 @@ sources:
   - raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
 ---
 
-# D. M. Turner
+## D. M. Turner
 
 D. M. Turner (1962–1996) was an American psychonaut and author of *The Essential Psychedelic Guide* (1994, Panther Press, ISBN 0-9642636-1-0), one of the first comprehensive comparative guides covering multiple psychedelic substances from a user's perspective. His work covered LSD, psilocybin mushrooms, mescaline, DMT, MDMA, 2C-B, ketamine, and harmala alkaloids with detailed dosage information, effects descriptions, and safety advice.
 

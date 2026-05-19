@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Pest Deterrents
+## Natural Pest Deterrents
 
 Natural pest deterrents are non-synthetic substances and homemade preparations used to repel, disable, or kill insect pests, fungal pathogens, and other garden problems. They are essential tools [[hamilton-kelp-and-seaweed-in-organic-gardening]] and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM). While generally safer than synthetic pesticides, natural deterrents should still be used judiciously to avoid harming [[beneficial-insects-and-biological-pest-control]].
 

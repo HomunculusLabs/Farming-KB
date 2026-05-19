@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Desert Revegetation by Natural Farming
+## Desert Revegetation by Natural Farming
 
 updated: 2026-04-18
 

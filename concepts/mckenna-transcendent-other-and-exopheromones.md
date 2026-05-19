@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# The Transcendent Other and Exopheromones
+## The Transcendent Other and Exopheromones
 
 ## The Problem of the Other
 

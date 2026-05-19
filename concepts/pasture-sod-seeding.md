@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pasture Sod Seeding and Rangeland Ecology
+## Pasture Sod Seeding and Rangeland Ecology
 
 Pasture renovation through sod seeding represents one of the most resource-efficient approaches to improving grazing land. Rather than undertaking full cultivation — which destroys soil structure, releases stored carbon, and exposes land to erosion — sod seeding introduces new species directly into the existing pasture sward with minimal disturbance. Mollison frames this within the permaculture ethic of working with natural systems rather than against them.
 

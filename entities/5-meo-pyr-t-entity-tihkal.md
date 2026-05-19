@@ -21,7 +21,7 @@ tags: [`tryptamine`, `psychedelic`, `entheogen`]
 sources:
   - raw/papers/shulgin-a-tihkal.md
 
-# 5-MeO-pyr-T
+## 5-MeO-pyr-T
 
 5-Methoxy-N,N-Tetramethylenetryptamine
 

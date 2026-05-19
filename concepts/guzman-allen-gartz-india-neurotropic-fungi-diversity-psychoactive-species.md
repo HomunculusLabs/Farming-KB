@@ -6,7 +6,7 @@ type: concept
 tags: [neurotropic-fungi, india, mycology, distribution, psilocybin, biodiversity]
 ---
 
-# India Neurotropic Fungi Diversity
+## India Neurotropic Fungi Diversity
 
 ## Overview
 

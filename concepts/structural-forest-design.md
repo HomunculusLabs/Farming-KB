@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Structural Forest Design
+## Structural Forest Design
 
 [[structural-forests-and-forest-product-management]] are a foundational concept in permaculture, focusing on the production of timber, poles, fencing, and building materials through carefully managed tree plantings. Unlike conventional forestry oriented toward sawlog production, permaculture structural forestry emphasizes round pole timber, coppice systems, and integration with food-producing forests.
 

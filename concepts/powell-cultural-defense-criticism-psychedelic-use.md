@@ -8,7 +8,7 @@ sources: [the-psilocybin-solution-by-simon-g-powell.md]
 type: concept
 ---
 
-# Cultural Defense and Criticism of Psychedelic Use
+## Cultural Defense and Criticism of Psychedelic Use
 
 The reception of psilocybin in Western intellectual culture has been
 marked by both enthusiastic advocacy and fierce criticism. Simon G.

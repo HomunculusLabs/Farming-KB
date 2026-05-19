@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Peyote Extraction and Preparation Methods
+## Peyote Extraction and Preparation Methods
 
 ## Methods of Ingestion
 

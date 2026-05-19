@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Boletus satanus and the Hazards of Edible Mushroom Identification
+## Boletus satanus and the Hazards of Edible Mushroom Identification
 
 [[emcdda-wild-mushroom-foraging-misidentification-hazards]] identification. The incident, recounted
 with characteristic humor, also opens a window into the broader

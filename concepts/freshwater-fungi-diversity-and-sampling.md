@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
-# Freshwater Fungi Diversity and Sampling Methods
+## Freshwater Fungi Diversity and Sampling Methods
 Source: [[aquatic-hyphomycetes-and-ingoldian-spores]], and other groups. Many are microscopic and
 require specialized [[batrachochytrium-dendrobatidis]], a pathogen of amphibians,
   may have recently spread to several continents

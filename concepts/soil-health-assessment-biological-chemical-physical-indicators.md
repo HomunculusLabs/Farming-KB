@@ -7,7 +7,7 @@ tags: [soil-health, soil-assessment, soil-quality-indicators, soil-biology, soil
 aliases: [soil-quality-assessment, soil-health-testing, evaluating-soil-health, soil-diagnostics]
 ---
 
-# Soil Health Assessment: Biological, Chemical, and Physical Indicators
+## Soil Health Assessment: Biological, Chemical, and Physical Indicators
 
 ## Overview
 

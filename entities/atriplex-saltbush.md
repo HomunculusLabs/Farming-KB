@@ -5,7 +5,7 @@ type: entity
 tags: [species, genus, chenopodiaceae, salt-tolerant, dryland, forage, australia, permaculture]
 ---
 
-# Atriplex (Saltbush)
+## Atriplex (Saltbush)
 
 ## Description
 

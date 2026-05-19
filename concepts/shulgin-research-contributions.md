@@ -7,7 +7,7 @@ tags: [history, research, psychopharmacology, neuroscience, chemistry, legal, ps
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Shulgin Research Contributions
+## Shulgin Research Contributions
 
 ## Overview
 

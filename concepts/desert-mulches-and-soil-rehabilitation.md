@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Mulches and Soil [[permaculture]], mulch serves multiple critical functions: moisture conservation, soil temperature regulation, pH modification, nutrient cycling, and erosion prevention. A well-designed mulching strategy is arguably the single most important factor in establishing productive gardens in arid environments.
+## Desert Mulches and Soil [[permaculture]], mulch serves multiple critical functions: moisture conservation, soil temperature regulation, pH modification, nutrient cycling, and erosion prevention. A well-designed mulching strategy is arguably the single most important factor in establishing productive gardens in arid environments.
 
 ## Sources of Mulch in Deserts
 

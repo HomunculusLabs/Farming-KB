@@ -24,7 +24,7 @@ sources:
 - concepts/animal-harvest-and-processing.md
 ---
 
-# Homesteading Livestock Comparison
+## Homesteading Livestock Comparison
 
 Choosing livestock for a homestead depends on your goals (eggs, meat, milk, pollination), available space, budget, and experience level. Each species has distinct advantages and challenges. This comparison covers the most common homestead animals, synthesized from [[chicken-keeping]], [[duck-keeping]], [[rabbit-husbandry]], [[goat-husbandry]], and [[beekeeping-basics]].
 

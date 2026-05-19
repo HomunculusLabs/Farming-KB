@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Cannabis Sativa vs Cannabis Ruderalis
+## Cannabis Sativa vs Cannabis Ruderalis
 
 ## Overview
 Cannabis sativa and Cannabis ruderalis represent two of the three recognized

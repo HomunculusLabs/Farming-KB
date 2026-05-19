@@ -1,4 +1,8 @@
-# Zoroaster and the Suppression of the Haoma Rite
+---
+title: "Zoroaster and the Suppression of the Haoma Rite"
+tags:
+  - concept
+---
 
 ## Source
 *[[mckenna-vedic-soma-indo-european-mysteries]]) was deeply ambivalent — only two references appear in

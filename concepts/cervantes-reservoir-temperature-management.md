@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Reservoir Temperature Management
+## Reservoir Temperature Management
 
 [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes explains
 how reservoir temperature affects [[plant-nutrient-uptake-mechanisms]],

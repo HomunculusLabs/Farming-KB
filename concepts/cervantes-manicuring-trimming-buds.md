@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Manicuring and Trimming Cannabis Buds
+## Manicuring and Trimming Cannabis Buds
 
 Manicuring is the process of removing leaves from harvested cannabis buds to
 produce clean, potent, visually appealing flowers. Jorge Cervantes considers

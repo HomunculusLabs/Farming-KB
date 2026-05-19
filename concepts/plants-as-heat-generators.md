@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Plants as Heat Generators
+## Plants as Heat Generators
 
 While plants are generally thought of as passive organisms that respond to their thermal environment, several species actively generate heat through metabolic processes — a phenomenon known as thermogenesis. In [[philodendron-selloum]] is one of the most dramatic examples of plant thermogenesis. Individual plants can register temperatures of 46°C (115°F) when surrounding air temperature is only 4°C (39°F) — a differential of 42°C. This extraordinary heat production serves multiple functions: it disperses odoriferous scents that attract pollinating flies, provides a warm environment for pollinator activity, and accelerates the development of reproductive structures.
 

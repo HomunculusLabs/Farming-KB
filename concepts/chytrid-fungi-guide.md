@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Chytrid Fungi Guide
+## Chytrid Fungi Guide
 
 Chytridiomycota is the most basal and primitive phylum of fungi, believed to be the earliest-diverging fungal lineage. Chytrids are unique among fungi in possessing flagellated spores (zoospores) that swim through water using a single posterior flagellum. Though often overlooked, chytrids play critical ecological roles [[fungal-decomposition-in-aquatic-ecosystems-concluding-perspectives]] and include one of the most devastating wildlife pathogens ever described.
 

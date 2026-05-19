@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Citrus Orchard Soil Rehabilitation Timeline and Methods
+## Citrus Orchard Soil Rehabilitation Timeline and Methods
 
 Masanobu Fukuoka's account of establishing a productive citrus orchard on a steep,
 depleted hillside without the use of [[fukuoka-citrus-orchard-establishment-bare-hillside]].

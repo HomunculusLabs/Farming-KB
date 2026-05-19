@@ -4,7 +4,7 @@ source: what-a-plant-knows-daniel-chamovitz.md
 tags: [botany, photoperiodism, tobacco, history-of-science, garner-allard, plant-development]
 ---
 
-# Maryland Mammoth Tobacco and the Discovery of Photoperiodism
+## Maryland Mammoth Tobacco and the Discovery of Photoperiodism
 
 The discovery of photoperiodism — the ability of plants to measure [[dmt-containing-plants-united-states-halpern]] Department of Agriculture, took up the challenge. They planted Maryland Mammoth tobacco in pots and designed a simple but elegant experiment.
 

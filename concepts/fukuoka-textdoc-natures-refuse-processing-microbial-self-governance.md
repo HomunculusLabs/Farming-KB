@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 ---
 
-# Nature's Refuse Processing and Microbial Self-Governance
+## Nature's Refuse Processing and Microbial Self-Governance
 
 Fukuoka presents a radical critique of human waste management by contrasting it with nature's own perfectly self-governing refuse processing system. At the heart of this analysis is the extraordinary reproductive capacity of microorganisms — particularly bacteria — which nature harnesses through self-regulating mechanisms to process all [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Microorganisms break down organic matter into forms that plants can absorb. The nitrogen, phosphorus, potassium, calcium, and trace minerals in a decomposing body are gradually released into the soil, where they become available to support new plant growth. Nothing is wasted; nothing is lost; nothing pollutes.
 

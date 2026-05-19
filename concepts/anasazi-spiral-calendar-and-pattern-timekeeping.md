@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Anasazi Spiral Calendar and Pattern-Encoded Timekeeping
+## Anasazi Spiral Calendar and Pattern-Encoded Timekeeping
 
 ## Overview
 

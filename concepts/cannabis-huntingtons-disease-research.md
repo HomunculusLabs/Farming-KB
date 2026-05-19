@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Huntington's Disease
+## Cannabis and Huntington's Disease
 
 **Source:** The [[mushroom-cancer-clinical-trials-overview]].
 
@@ -50,7 +50,7 @@ CBD's [[blesching-cannabis-huntingtons-disease]]
 
 ## Merged: Cannabis For Huntingtons Disease
 
-# Cannabis for Huntington's Disease
+## Cannabis for Huntington's Disease
 
 Huntington's disease (HD), or Huntington's chorea (abnormal twisting and writhing movements), is a degenerative genetic disease affecting the brain and nervous system, leading to loss of muscle control and dementia. A mutated form of the Huntington gene, found significantly more in Western Europeans, is thought responsible for disease development.
 

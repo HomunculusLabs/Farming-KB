@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Strain-Dependent Alkaloid Tissue Distribution in Psilocybe cubensis Cap and Stem
+## Strain-Dependent Alkaloid Tissue Distribution in Psilocybe cubensis Cap and Stem
 
 The distribution of [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] for comparison.
 The first-flush restriction ensured that psilocin levels would be minimal in all

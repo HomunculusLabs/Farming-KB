@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Seeing Nature Wholistically: Mt Fuji, Hokusai, and the Limits of Analysis
+## Seeing Nature Wholistically: Mt Fuji, Hokusai, and the Limits of Analysis
 
 ## Overview
 

@@ -29,7 +29,7 @@ sources:
   Eriobotrya japonica Plant Profile"
 ---
 
-# Loquat Cultivation and Variety Guide
+## Loquat Cultivation and Variety Guide
 
 The loquat (*Eriobotrya japonica*) is an evergreen fruit tree in the Rosaceae
 family that produces sweet, aromatic fruit during late winter and early

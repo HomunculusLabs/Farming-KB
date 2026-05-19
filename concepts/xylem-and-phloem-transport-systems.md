@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Xylem and Phloem Transport Systems
+## Xylem and Phloem Transport Systems
 
 Plants possess two integrated vascular transport systems that work in parallel to distribute water, mineral nutrients, and organic compounds throughout the organism. The **[[xylem]]** primarily moves water and dissolved ions upward from roots to shoots, while the **[[phloem]]** distributes sugars, proteins, and signaling molecules bidirectionally between sources and sinks. Together, they form a remarkably efficient plumbing and distribution network that sustains all plant metabolic processes.
 

@@ -4,7 +4,7 @@ source: leary-t-the-psychedic-experience.md
 type: entity
 ---
 
-# DMT (Dimethyltryptamine)
+## DMT (Dimethyltryptamine)
 
 ## Description
 

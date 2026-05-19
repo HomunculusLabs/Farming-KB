@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Culturing Macrofungi and Describing Morphological Characters
+## Culturing Macrofungi and Describing Morphological Characters
 
 Successful isolation and culture of macrofungi, combined with careful morphological documentation, are fundamental practices in [[fungal-taxonomy]], biodiversity studies, and phytopathology. This page covers standard techniques for obtaining pure cultures from spores, tissue, and substratum, as well as protocols for describing macromorphological and micromorphological characters.
 

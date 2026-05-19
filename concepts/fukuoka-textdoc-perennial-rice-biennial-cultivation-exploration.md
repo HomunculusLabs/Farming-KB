@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Perennial Rice and Biennial Cultivation Exploration
+## Perennial Rice and Biennial Cultivation Exploration
 
 ## The Original Vision: Nature Plants Without Sowing
 

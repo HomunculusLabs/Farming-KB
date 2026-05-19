@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# gamma-DOM (Z-7)
+## gamma-DOM (Z-7)
 
 PIHKAL entry #69. 2,6-DIMETHOXY-4-METHYLAMPHETAMINE.
 Also known as: Z-7.

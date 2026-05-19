@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Pond Design and Construction
+## Pond Design and Construction
 
 Water holds and reflects heat, moderating temperature. As temperature drops at night, ponds radiate warmth into surrounding air. Ponds serve multiple functions: irrigation, fire protection, aquaculture, habitat, and aesthetic value in permaculture-zones-system, ponds may appear in Zone 1 (small decorative or [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] nearby — trees will drain the pond
 - **Shelf design**: Include a shallow shelf around the edge for wetland plants and easy animal access

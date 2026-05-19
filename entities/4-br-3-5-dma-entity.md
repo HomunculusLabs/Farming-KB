@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal]
 sources: []
 ---
-# 4-Br-3,5-DMA
+## 4-Br-3,5-DMA
 
 **[[dob-entity]] -- 2,5-dimethoxy-4-bromoamphetamine (the 2,5-isomer)
 

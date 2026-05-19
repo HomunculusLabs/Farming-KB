@@ -21,7 +21,7 @@ sources:
 - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-# PF TEK Fruiting Chamber
+## PF TEK Fruiting Chamber
 
 The Dual Chambered Terrarium is Psylocybe Fanaticus's original fruiting chamber design for the PF TEK. It uses a standard 10-gallon aquarium with a Plexiglas spray shield partition to create molecularized humidity -- fine mist that bathes the fungus without direct water contact. See [[pf-tek]] for the complete substrate and inoculation method.
 

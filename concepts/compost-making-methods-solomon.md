@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon
 tags: [compost, organic, soil amendment, decomposition, humus, gardening]
 ---
 
-# Compost Making Methods for Vegetable Gardens
+## Compost Making Methods for Vegetable Gardens
 
 ## Overview
 

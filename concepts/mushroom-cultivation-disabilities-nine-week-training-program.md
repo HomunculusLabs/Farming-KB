@@ -13,7 +13,7 @@ sources:
   - a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Nine-Week Mushroom Cultivation Training Program Structure
+## Nine-Week Mushroom Cultivation Training Program Structure
 
 The FAO training program for disabled mushroom [[motivational-sessions-trainees]],
 and [[oyster-mushroom-substrate-materials-preparation]], cleaning,

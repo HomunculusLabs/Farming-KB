@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Silvopasture vs Pasture
+## Silvopasture vs Pasture
 
 Silvopasture intentionally integrates trees, forage, and livestock on the same
 land for dual income streams and enhanced [[comparison-rotational-grazing-vs-continuous-grazing]] and adaptive multi-paddock management.

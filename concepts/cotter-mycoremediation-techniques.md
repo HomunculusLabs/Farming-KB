@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mycoremediation, mycofiltration, bioremediation]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# Mycoremediation Techniques
+## Mycoremediation Techniques
 
 Practical methods for designing, building, and testing mycoremediation systems.
 From Cotter's "Organic Mushroom Farming and Mycoremediation," Chapter 22. See

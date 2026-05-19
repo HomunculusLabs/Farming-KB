@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [psychology, spirituality, consciousness, phenomenology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+sources: ["raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"]
 type: concept
 ---
 
-# Mystical Experience
+## Mystical Experience
 
 A mystical experience is a subjective state characterized by a profound sense
 of unity, transcendence, and deep connection to something greater than the

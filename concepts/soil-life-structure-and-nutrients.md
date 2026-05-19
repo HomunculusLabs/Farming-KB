@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Life: Structure, Nutrients, and Disease Control
+## Soil Life: Structure, Nutrients, and Disease Control
 
 > Healthy soil is not dirt — it is a living ecosystem. The organisms in soil create its physical structure, cycle its nutrients, and defend plants against disease. Understanding these three roles is the foundation of ecological farming.
 

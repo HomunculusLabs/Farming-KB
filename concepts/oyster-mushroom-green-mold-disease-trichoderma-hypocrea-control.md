@@ -5,7 +5,7 @@ source_author: Jae-Soon Cha, Chungbuk National University
 tags: [mushroom, disease, green-mold, trichoderma, hypocrea, contamination, oyster, pathology]
 ---
 
-# Oyster Mushroom Green Mold Disease
+## Oyster Mushroom Green Mold Disease
 
 ## Overview
 

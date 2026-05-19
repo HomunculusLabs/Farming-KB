@@ -1,5 +1,5 @@
 ---
-title: comparison-seed-saving-techniques-vs-tissue-culture-cloning and Cloning
+title: "Tissue Culture Cloning"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
-# Tissue Culture and Cloning
+## Tissue Culture and Cloning
 
 Tissue culture (cloning) is the process of isolating living mycelium from the interior flesh of a mushroom fruitbody and transferring it to a sterile growth medium. This preserves the exact genetic identity (dikaryon) of the parent mushroom, unlike multispore inoculation which produces genetic diversity.
 

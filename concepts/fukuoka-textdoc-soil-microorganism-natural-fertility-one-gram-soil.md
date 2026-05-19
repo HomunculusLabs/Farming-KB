@@ -8,7 +8,7 @@ updated: 2026-05-11
 type: concept
 ---
 
-# Soil Microorganisms and Natural Fertility — One Gram of Soil
+## Soil Microorganisms and Natural Fertility — One Gram of Soil
 
 One of the most striking empirical claims in [[masanobu-fukuoka]]'s work is
 deceptively simple: "One gram of soil on my farm contains about 100

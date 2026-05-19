@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Nitrogen-Fixing Plants in Permaculture
+## Nitrogen-Fixing Plants in Permaculture
 
 Nitrogen-fixing plants form one of the most important functional groups [[ecological-succession-in-permaculture-design]]. By converting atmospheric nitrogen (N₂) into plant-available forms through [[fungi-in-the-environment-symbiotic-relationships]] with soil microorganisms, these species reduce or eliminate the need for external fertiliser inputs. They serve as pioneer species, nurse crops, green manures, erosion controllers, fodder sources, timber producers, windbreaks, and living components of food forest guilds.
 

@@ -9,7 +9,7 @@ sources:
   - McKenna, T. "Food of the Gods" (1992), Chapters 2-3, pp. 14-44
 ---
 
-# Exopheromones and Plant Intelligence
+## Exopheromones and Plant Intelligence
 
 Exopheromones are chemical messengers that act across species lines — signals that plants, fungi, and other organisms use to communicate with and influence the behavior of other species. Terence McKenna introduced this concept in "Food of the Gods" to explain how psychoactive plant compounds might function not merely as defensive toxins but as a form of interspecies [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] discovered in insects but later found to operate in mammals as well. Pheromones govern mating, alarm, trail-following, and social organization within species. McKenna proposed extending this framework to encompass interspecies [[antifungal-secondary-metabolites-coprophilous-fungi]] with no primary function in the plant's metabolism, produced as evolutionary accidents or as deterrents against herbivory. McKenna challenged this view on several grounds:
 

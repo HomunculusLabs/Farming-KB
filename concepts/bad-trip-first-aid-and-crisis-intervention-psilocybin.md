@@ -1,4 +1,8 @@
-# Bad Trip First Aid and Crisis Intervention for Psilocybin Mushrooms
+---
+title: "Bad Trip First Aid and Crisis Intervention for Psilocybin Mushrooms"
+tags:
+  - concept
+---
 
 ## Overview
 

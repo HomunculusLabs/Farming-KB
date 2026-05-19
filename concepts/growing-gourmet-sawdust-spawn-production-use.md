@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sawdust Spawn Production and Use
+## Sawdust Spawn Production and Use
 
 Sawdust spawn serves as a critical intermediate step in
 the mycelial expansion pathway for many wood-decomposing

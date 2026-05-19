@@ -5,7 +5,7 @@ type: entity
 tags: [person, mazatec, interpreter, teacher, huautla, expedition]
 ---
 
-# Herlinda Martinez Cid
+## Herlinda Martinez Cid
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [soil-biology, microbes, lab-technique, soil-health]
 sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
 ---
 
-# Soil Microscope Analysis
+## Soil Microscope Analysis
 
 Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. [[elaine-ingham]]'s Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
 

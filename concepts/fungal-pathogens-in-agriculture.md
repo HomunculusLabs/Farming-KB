@@ -7,7 +7,7 @@ tags: [mycology, agriculture, pests, plant-growth]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md]
 ---
 
-# Fungal Pathogens in Agriculture
+## Fungal Pathogens in Agriculture
 
 Fungal pathogens are the most significant cause of crop disease worldwide, responsible for billions of dollars in annual losses. Understanding the major fungal pathogens, their life cycles, and management strategies is essential [[mushroom-cultivation-for-sustainable-agriculture]].
 

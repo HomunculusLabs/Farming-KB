@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Shamanic Discourse and the Power of Speaking
+## Mazatec Shamanic Discourse and the Power of Speaking
 
 ## Overview
 

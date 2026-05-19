@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Satori
+## Satori
 
 Satori is a sativa-dominant [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - nepalese-cannabis - Cannabis traditions of Nepal

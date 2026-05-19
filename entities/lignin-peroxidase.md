@@ -3,7 +3,7 @@ title: Lignin Peroxidase
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
-# Lignin Peroxidase
+## Lignin Peroxidase
 
 ## Description
 Lignin peroxidase (LiP, EC 1.11.1.14) is a heme-containing extracellular oxidoreductase enzyme produced primarily by white-rot basidiomycete fungi. It is one of the principal enzyme systems responsible for the oxidative depolymerization of lignin, the complex aromatic polymer constituting 15–35% of woody plant biomass. First characterized in [[phanerochaete-chrysosporium]], the enzyme catalyzes the oxidation of non-phenolic lignin subunits using hydrogen peroxide as a co-substrate, generating aryl cation radicals that undergo spontaneous cleavage of carbon–carbon and ether bonds.

@@ -1,5 +1,5 @@
 ---
-title: "Hemoglobin hemoglobin-oxygen-transport-biochemistry Biochemistry"
+title: "Hemoglobin Oxygen Transport Biochemistry"
 created: 2026-04-28
 updated: 2026-05-06
 type: concept

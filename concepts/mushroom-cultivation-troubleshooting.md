@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Cultivation Troubleshooting
+## Mushroom Cultivation Troubleshooting
 
 "Preventing is better than solving problems." This principle underlies all
 [[mushroom-cultivation]] practices. However, when problems do arise, prompt

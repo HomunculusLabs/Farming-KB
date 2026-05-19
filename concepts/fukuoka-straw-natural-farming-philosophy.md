@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, natural-farming]
 ---
 
-# Fukuoka's Philosophy of Natural Farming
+## Fukuoka's Philosophy of Natural Farming
 
 ## The Foundation: Nature Free of Human Meddling
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Desert Reclamation Projects
+## Desert Reclamation Projects
 
 Masanobu Fukuoka's vision for [[fukuoka-view-of-nature-and-human-hubris]] that had caused the desertification in the first place.
 

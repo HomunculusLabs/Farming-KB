@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Locoweed and Poisonous Plant Management
+## Locoweed and Poisonous Plant Management
 
 Locoweed (Astragalus and Oxytropis species) is one of the most
 troublesome poisonous plant problems on [[savory-partial-rest-and-algal-crusts]] in brittle environments.

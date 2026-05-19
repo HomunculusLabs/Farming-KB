@@ -16,7 +16,7 @@ sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-# Permaculture Edge Effect Design
+## Permaculture Edge Effect Design
 
 The edge effect is one of the most powerful concepts in permaculture design. Both Mollison and Holmgren emphasize that the interface between two ecosystems or conditions is where biological productivity, diversity, and interaction are greatest. Deliberately designing for and maximizing edge is a fundamental permaculture strategy.
 

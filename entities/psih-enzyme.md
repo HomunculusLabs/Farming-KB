@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
-# PsiH (Tryptamine 4-Hydroxylase)
+## PsiH (Tryptamine 4-Hydroxylase)
 
 **PsiH** is a cytochrome P450 monooxygenase that catalyzes the 4-hydroxylation of tryptamine to form 4-hydroxytryptamine (4-HT). It is the second enzyme in the psilocybin biosynthetic pathway and introduces the critical 4-hydroxyl group that ultimately becomes the 4-phosphoryloxy pharmacophore of psilocybin and related alkaloids.
 

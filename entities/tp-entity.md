@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# TP (Thioproscaline; 3,5-Dimethoxy-4-(n)-propylthiophenethylamine)
+## TP (Thioproscaline; 3,5-Dimethoxy-4-(n)-propylthiophenethylamine)
 
 TP is a sulfur-substituted phenethylamine and the n-propylthio homologue of [[mescaline]] itself requires doses of 200-400 mg.
 

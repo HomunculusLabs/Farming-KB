@@ -4,7 +4,7 @@ source: steve-solomon, Gardening When It Counts (2005)
 tags: [aphids, pest-management, integrated-pest-management, biological-control, insecticidal-soap, neem, vegetable-garden]
 ---
 
-# Aphid Management in Vegetable Gardens
+## Aphid Management in Vegetable Gardens
 
 ## Overview
 

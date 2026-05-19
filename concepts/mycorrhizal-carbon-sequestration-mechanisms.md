@@ -1,4 +1,8 @@
-# Mycorrhizal Carbon Sequestration Mechanisms
+---
+title: "Mycorrhizal Carbon Sequestration Mechanisms"
+tags:
+  - concept
+---
 
 ## The Mycorrhizal-Carbon Nexus
 

@@ -7,7 +7,7 @@ tags: [ph, soil, organic, gardening, minerals, calcium, soil-amendment, nutrient
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Acid and Alkaline Soil Management
+## Acid and Alkaline Soil Management
 
 ## Overview
 

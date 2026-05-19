@@ -8,7 +8,7 @@ type: query
 created: 2026-04-28
 ---
 
-# How Do I Extract Essential Oils and Hydrosols at Home?
+## How Do I Extract Essential Oils and Hydrosols at Home?
 
 ## Short Answer
 

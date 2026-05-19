@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Resource Categories in Permaculture
+## Resource Categories in Permaculture
 
 In [[query-what-is-living-mulch-and-when-should-i-use-it]] components and technological units translate incoming natural energies (sun, wind, rain) into storable forms. Some resources must remain within the [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]] technology should, at minimum, fuel itself. The surplus beyond system needs constitutes yield.
 

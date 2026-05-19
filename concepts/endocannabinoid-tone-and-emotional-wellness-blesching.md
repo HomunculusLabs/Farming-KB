@@ -1,4 +1,8 @@
-# Endocannabinoid Tone and Emotional Wellness
+---
+title: "Endocannabinoid Tone and Emotional Wellness"
+tags:
+  - concept
+---
 
 **Source:** Blesching, U. *The [[epinephrine-stress-response-endocannabinoid-modulation-blesching]].
 

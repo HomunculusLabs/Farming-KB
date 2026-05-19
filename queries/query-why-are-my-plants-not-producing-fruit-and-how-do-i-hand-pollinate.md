@@ -7,7 +7,7 @@ sources:
   - "raw/papers/solomon-gardening-west.md"
 ---
 
-# Why Are My Plants Not Producing Fruit and How Do I Hand Pollinate?
+## Why Are My Plants Not Producing Fruit and How Do I Hand Pollinate?
 
 ## Short Answer
 

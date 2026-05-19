@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDHOET
+## MDHOET
 
 PIHKAL entry #107. HYDROXYETHYL-MDA;.
 

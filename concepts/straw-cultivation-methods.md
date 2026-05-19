@@ -19,7 +19,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Straw Cultivation Methods
+## Straw Cultivation Methods
 
 From Chapter 10 of *Mycelium Running* by [[paul-stamets]]. Despite only a few fungi being native to straw, many mushrooms can be grown on cereal straws due to their powerful fiber-degrading enzymes. Wheat, barley, rye, and rice straws are preferred.
 

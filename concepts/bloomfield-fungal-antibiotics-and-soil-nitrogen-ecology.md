@@ -13,7 +13,7 @@ sources:
   - unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
 ---
 
-# Fungal Antibiotic Production and Soil Microbial Ecology
+## Fungal Antibiotic Production and Soil Microbial Ecology
 
 Fungi face a serious nitrogen [[blesching-cannabis-bacterial-infections]]. But from the fungus's perspective,
 penicillin is simply another tool for managing the [[allelopathy-and-chemical-warfare-in-plants]]. Bacteria have evolved

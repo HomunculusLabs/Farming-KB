@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [THC, tetrahydrocannabinol, psychoactive, CB1, CB2, pharmacology]
 ---
 
-# Tetrahydrocannabinol (THC) Pharmacology
+## Tetrahydrocannabinol (THC) Pharmacology
 
 ## Overview
 

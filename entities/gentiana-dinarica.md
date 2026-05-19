@@ -16,7 +16,7 @@ sources:
   - IUCN Red List (2024). "European Vascular Plant Assessments."
 ---
 
-# Gentiana dinarica
+## Gentiana dinarica
 
 ## Overview
 

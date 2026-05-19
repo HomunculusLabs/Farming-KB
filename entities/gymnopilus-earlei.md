@@ -17,7 +17,7 @@ sources:
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=344952"
 ---
 
-# Gymnopilus Earlei
+## Gymnopilus Earlei
 
 ## Overview
 

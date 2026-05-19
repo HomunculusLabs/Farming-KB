@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin and Psilocin Chemical Synthesis
+## Psilocybin and Psilocin Chemical Synthesis
 
 ## Overview
 

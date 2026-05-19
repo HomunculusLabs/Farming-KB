@@ -22,7 +22,7 @@ sources:
 - raw/papers/shulgin-a-tihkal.md
 ---
 
-# Ann Shulgin
+## Ann Shulgin
 
 Ann Shulgin (1931-2024) was an American therapist, author, and research partner who co-authored PIHKAL and TIHKAL with [[alexander-shulgin]]. She contributed the narrative and experiential portions of both books while Sasha provided the chemistry. Her work represents one of the most significant contributions to the humanistic understanding of psychedelic compounds.
 

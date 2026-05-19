@@ -1,4 +1,8 @@
-# Casing Soil Preparation for Mushroom Cultivation
+---
+title: "Casing Soil Preparation for Mushroom Cultivation"
+tags:
+  - concept
+---
 
 Casing is the application of a non-nutritive layer of material
 on top of fully colonized substrate to create a microclimate

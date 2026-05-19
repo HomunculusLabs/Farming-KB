@@ -4,7 +4,7 @@ source: "The Cannabis Health Index (Blesching, 2015)"
 tags: [beta-caryophyllene, caryophyllene, dietary-cannabinoid, terpene, spices, CB2, anti-inflammatory]
 ---
 
-# Beta-Caryophyllene: A Dietary Cannabinoid
+## Beta-Caryophyllene: A Dietary Cannabinoid
 
 ## Discovery and Significance
 

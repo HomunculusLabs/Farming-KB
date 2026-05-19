@@ -4,7 +4,7 @@ aliases: [soil natural-farming, soil-microbiology, philosophy-of-science, fukuok
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
 
-# Soil Microbes and the Failure of Discriminating Knowledge
+## Soil Microbes and the Failure of Discriminating Knowledge
 
 [[fukuoka-critique-scientific-agriculture-civilization]] — not
 that it fails to produce food, but that it systematically replaces

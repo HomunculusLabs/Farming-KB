@@ -14,7 +14,7 @@ sources:
 type: comparison
 ---
 
-# Mangrove Restoration vs Constructed Wetlands
+## Mangrove Restoration vs Constructed Wetlands
 
 Mangrove restoration and constructed wetlands are both nature-based solutions leveraging wetland ecosystems, but they serve fundamentally different purposes and operate in contrasting environmental contexts. This comparison examines their differences across key dimensions to guide ecological design decisions.
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Taxonomy
+## Taxonomy
 
 Coriolus versicolor (L.) Quél. is a wood-decay basidiomycete
 fungus

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Agaricus Mushroom Cultivation
+## Agaricus Mushroom Cultivation
 
 The genus *Agaricus* includes some of the most commercially important cultivated mushrooms in the world. These species are secondary decomposers that require composted substrates and specialized casing layers to fruit successfully. From the ubiquitous button mushroom to exotic medicinal varieties, *Agaricus* cultivation is a well-developed practice with both commercial and small-scale applications.
 

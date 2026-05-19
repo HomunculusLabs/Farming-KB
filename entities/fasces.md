@@ -5,7 +5,7 @@ type: entity
 tags: [symbol, political, secret-societies, freemasonry, fascism, ethnomycology, ritual-symbolism]
 ---
 
-# Fasces
+## Fasces
 
 ## Description
 

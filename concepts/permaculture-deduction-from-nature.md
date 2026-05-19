@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Deduction from Nature in Permaculture Design
+## Deduction from Nature in Permaculture Design
 
 Design by [[masanobu-fukuoka]]'s remarkable voyage to [[permaculture]] practitioner.
 

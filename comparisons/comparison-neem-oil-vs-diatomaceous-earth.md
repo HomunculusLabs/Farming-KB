@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Neem Oil vs Diatomaceous Earth
+## Neem Oil vs Diatomaceous Earth
 
 ## Overview
 

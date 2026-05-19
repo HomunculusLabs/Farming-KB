@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earth Constructs and Raised Banks
+## Earth Constructs and Raised Banks
 
 Earth constructs are shaped landforms — banks, mounds, walls, ridges, ramps, and excavated features — that serve multiple functional purposes in [[permaculture-design]]. Rather than treating earthworks as a single-purpose civil engineering exercise, Mollison frames them as multifunctional elements that simultaneously address shelter, water control, wind management, fire protection, noise abatement, and productive growing space.
 

@@ -25,7 +25,7 @@ See [[cannabis-anti-inflammatory-applications]]
 
 ## Merged: Cannabis for Encephalitis
 
-# Cannabis for Encephalitis
+## Cannabis for Encephalitis
 
 Encephalitis is an acute inflammation of the brain most commonly caused by a virus (e.g., live virus vaccination, herpes, West Nile, or equine encephalitis), although it may also be produced by bacteria (syphilis, bacterial meningitis, Lyme disease), parasites (malaria), or an over-reactive immune response to secondary infections (measles, mumps, rubella).
 

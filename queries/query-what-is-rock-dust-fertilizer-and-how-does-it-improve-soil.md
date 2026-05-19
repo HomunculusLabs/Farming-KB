@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Rock Dust Fertilizer and How Does It Improve Soil?
+## What Is Rock Dust Fertilizer and How Does It Improve Soil?
 
 ## Short Answer
 Rock dust is finely ground rock powder sourced from volcanic basalt, granite, azomite, or

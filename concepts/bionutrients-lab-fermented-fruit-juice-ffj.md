@@ -6,7 +6,7 @@ type: concept: [knf, natural-farming, bionutrients, ffj, fermentation, fruit, gr
 tags: [knf, natural-farming, bionutrients, ffj, fermentation, fruit]
 sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
-# Bionutrients Lab — Fermented Fruit Juice (FFJ)
+## Bionutrients Lab — Fermented Fruit Juice (FFJ)
 
 **Updated:** 2026-04-24
 

@@ -8,7 +8,7 @@ sources: ["symbiotic-fungi.md"]
 type: concept
 ---
 
-# Mycorrhizal Siderophores
+## Mycorrhizal Siderophores
 
 ## Overview of Siderophores
 

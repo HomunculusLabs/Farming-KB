@@ -5,7 +5,7 @@ source_author: MushWorld (Hyunjong Kwon, Seung Woo Kang)
 tags: [mushroom, cultivation, oyster, log-cultivation, temperate, hardwood]
 ---
 
-# Oyster Mushroom Log Cultivation in Temperate Regions
+## Oyster Mushroom Log Cultivation in Temperate Regions
 
 ## Overview
 

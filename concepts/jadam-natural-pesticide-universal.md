@@ -8,7 +8,7 @@ sources: [the-way-to-ultra-low-cost-agriculture-untitled.md]
 type: concept
 ---
 
-# JADAM Natural Pesticide Universal Philosophy
+## JADAM Natural Pesticide Universal Philosophy
 
 ## Overview
 

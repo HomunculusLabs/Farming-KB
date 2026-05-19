@@ -18,7 +18,7 @@ sources:
   - "USDA NRCS Soil Health Technical Notes"
 ---
 
-# Biochar vs Hugelkultur
+## Biochar vs Hugelkultur
 
 Both biochar and hugelkultur build long-term soil fertility from carbon-rich materials — but through different mechanisms, timescales, and labor requirements.
 

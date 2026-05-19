@@ -6,7 +6,7 @@ related: ["beta-caryophyllene-dietary-cannabinoid", "anandamide-and-the-endocann
 created: 2026-05-09
 ---
 
-# Cannabis Root Medicine: Historical and Modern Perspectives
+## Cannabis Root Medicine: Historical and Modern Perspectives
 
 ## Introduction
 

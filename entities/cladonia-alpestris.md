@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Cladonia alpestris
+## Cladonia alpestris
 
 **Cladonia alpestris** (syn. Cladonia stellaris) is a fruticose lichen in the family Cladoniaceae, commonly known as the grey reindeer lichen or reindeer moss. It forms extensive mats in boreal and arctic tundra ecosystems and is one of the most ecologically important lichen species in northern regions, serving as a primary food source for caribou and reindeer and exerting significant allelopathic effects on forest regeneration.
 

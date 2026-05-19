@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Earthworm Ecology vs Earthworm Breeding
+## Earthworm Ecology vs Earthworm Breeding
 
 ## Overview
 Earthworm ecology studies the role of worms in natural and garden soil

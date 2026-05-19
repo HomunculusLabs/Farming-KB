@@ -5,7 +5,7 @@ type: entity
 tags: [shrub, tree, coastal, edible-fruit, saline-tolerant, florida, caribbean, hedge]
 ---
 
-# Chrysobalanus icaco (Coco Plum, Icaco)
+## Chrysobalanus icaco (Coco Plum, Icaco)
 
 ## Description
 

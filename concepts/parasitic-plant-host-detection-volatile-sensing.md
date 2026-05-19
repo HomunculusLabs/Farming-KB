@@ -5,7 +5,7 @@ tags: [plant-senses, olfaction, parasitic-plants, dodder, volatile-organic-compo
 created: 2026-05-09
 ---
 
-# Parasitic Plant Host Detection Through Volatile Chemical Sensing
+## Parasitic Plant Host Detection Through Volatile Chemical Sensing
 
 Parasitic plants represent one of the most remarkable examples
 of plant olfaction — the ability to "smell" [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]].

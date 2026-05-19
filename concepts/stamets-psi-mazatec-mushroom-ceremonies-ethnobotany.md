@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Mazatec Mushroom Ceremonies and Ethnobotany
+## Mazatec Mushroom Ceremonies and Ethnobotany
 
 ## Overview
 

@@ -18,7 +18,7 @@ sources:
   - "Asamoto, M. et al. (2005). \"Chemopreventive effects of Perilla frutescens on colon carcinogenesis.\" Cancer Letters, 224(2), 209-216."
 ---
 
-# Perilla frutescens (L.) Britt.
+## Perilla frutescens (L.) Britt.
 
 ## Overview
 

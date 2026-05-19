@@ -7,7 +7,7 @@ sources: [papers/chos-global-natural-farming.md]
 updated: 2026-04-26
 ---
 
-# Oriental Herbal Nutrient (OHN) Preparation
+## Oriental Herbal Nutrient (OHN) Preparation
 
 Oriental Herbal Nutrient (OHN) is a very important input in Korean [[korean-natural-farming]] recipe also includes Chinese herbs: Angelica acutiloba, [[cho-nutritive-cycle-theory]]**: OHN can be used during all growth stages (early vegetative, changeover, and reproductive)
 

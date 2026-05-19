@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources:
   - "raw/papers/ross-mars-permaculture-garden.md"
 ---
-# [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] in which spores are
+## [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] in which spores are
 not forcibly discharged into the air. They include true truffles (Tuber,
 Ascomycota), false truffles (multiple Basidiomycota genera), and
 various Zygomycetes. This lifestyle has evolved independently many

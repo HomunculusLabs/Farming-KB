@@ -5,7 +5,7 @@ type: entity
 tags: [bacteria, cellulose-decomposer, soil-microbiology, decomposition]
 ---
 
-# Cellulomonas
+## Cellulomonas
 
 ## Description
 

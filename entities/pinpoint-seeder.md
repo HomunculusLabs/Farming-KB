@@ -5,7 +5,7 @@ type: entity
 tags: [tool, seeding, precision-seeding, greenhouse]
 ---
 
-# Pinpoint Seeder
+## Pinpoint Seeder
 
 ## Description
 

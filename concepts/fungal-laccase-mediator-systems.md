@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Laccase-Mediator Systems
+## Fungal Laccase-Mediator Systems
 Laccase-mediator systems (LMS) represent one of the most significant
 advances in fungal enzymatic bioremediation, extending the substrate
 range of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), dye decolorization, and

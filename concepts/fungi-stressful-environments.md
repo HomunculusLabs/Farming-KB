@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungi in Stressful Environments
+## Fungi in Stressful Environments
 
 Fungi colonize an extraordinary range of stressful habitats, from hyper-arid deserts to saline lakes, acidic mine drains to alkaline soils, and charred post-fire landscapes. Isolation and study of these organisms requires careful matching of culture conditions to the physicochemical parameters of their native environments.
 

@@ -7,7 +7,7 @@ sources: [chos-global-natural-farming.md]
 updated: 2026-04-26
 ---
 
-# Lactic Acid Bacteria Serum (LAB) Preparation
+## Lactic Acid Bacteria Serum (LAB) Preparation
 
 Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic acid in the absence of oxygen. LAB is very effective in improving soil ventilation, promoting rapid growth of [[comparison-natural-farming-vs-permaculture]].
 

@@ -5,7 +5,7 @@ tags: [markets, smartshops, internet, distribution, psilocybin, europe, retail]
 created: 2026-05-09
 ---
 
-# Magic Mushroom Markets and Availability
+## Magic Mushroom Markets and Availability
 
 ## Overview
 

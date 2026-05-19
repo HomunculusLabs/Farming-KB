@@ -9,7 +9,7 @@ type: concept
 tags: [fungi, plants]
 ---
 
-# Companion Planting with Fungi
+## Companion Planting with Fungi
 
 Companion planting with fungi is the practice of deliberately introducing mushroom species into agricultural, garden, and [[mycelium-running-symbiotic-fungi-relationships]] attaching to roots, exchanging minerals for carbohydrates
 - **Endophytic**: Fungi living within plant tissues, conferring disease resistance and [[query-how-to-grow-oyster-mushrooms-at-home]]** (Pleurotus species): Fast-growing primary decomposers for straw mulch, wood chip paths, and stumps at garden edges; produce prolifically and compete well against contaminants

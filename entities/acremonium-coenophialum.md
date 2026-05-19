@@ -10,7 +10,7 @@ tags:
   - clavicipitaceae
 ---
 
-# Acremonium coenophialum
+## Acremonium coenophialum
 
 ## Description
 

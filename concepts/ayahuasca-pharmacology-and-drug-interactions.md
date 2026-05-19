@@ -8,7 +8,7 @@ sources:
   - stuart-r-ayahuasca-tourism.md
 ---
 
-# Ayahuasca Pharmacology and Drug Interactions
+## Ayahuasca Pharmacology and Drug Interactions
 
 Ayahuasca is a psychoactive brew whose pharmacological complexity
 creates significant risk of dangerous drug interactions, particularly

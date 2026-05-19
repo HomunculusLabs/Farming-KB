@@ -17,7 +17,7 @@ sources:
   - Rizzini, C.T. (1971). "Árvores e Madeiras Úteis do Brasil." Editora Edgard Blücher.
 ---
 
-# Erythrina crista-galli
+## Erythrina crista-galli
 
 **Erythrina crista-galli** L., commonly known as the **cockspur coral tree**, **ceibo**, or **coral tree**, is a deciduous tree in the family Fabaceae. It is the national tree and flower of Argentina and Uruguay.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fish Pond Stock Management and Construction
+## Fish Pond Stock Management and Construction
 
 ## Overview
 

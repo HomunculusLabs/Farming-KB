@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Description
+## Description
 
 Dilution to extinction is a serial dilution technique used in [[mushroom-cultivation]] to
 isolate the specific microbial communities that trigger fruitbody formation in species
@@ -23,13 +23,13 @@ The identified dilution sample can then be expanded into a [[microbial-slurry]] 
 production-scale casing operations, providing a practical method for inducing fruiting in
 species that have stubbornly resisted cultivation due to unknown microbial requirements.
 
-# Classification
+## Classification
 
 Category: Laboratory technique and microbiological method. Domain: Mycology, microbiology,
 mushroom cultivation. Related techniques: casing dilution assay, microbial slurry
 preparation, casing soil application.
 
-# Key Facts
+## Key Facts
 
 Equipment required includes 250 ml sterilized water (distilled preferred), a sterile
 dispensing tool such as a pipette or baster, twelve sterilized jars or test tubes with
@@ -45,7 +45,7 @@ labeled 1 through 12. Using a sterile pipette, 1 ml is transferred from jar 0 to
 which is then shaken vigorously. A fresh pipette tip is used to transfer 1 ml from tube 1
 to tube 2, and the process continues through tube 12.
 
-# Casing Dilution Assay
+## Casing Dilution Assay
 
 Prepare 42 colonized containers of identical weight and species, such as quart jars with
 pure mycelium culture. Apply sterilized casing soil to 39 containers, leaving 3 without
@@ -63,7 +63,7 @@ incubate in darkness at the species-appropriate temperature. After casing coloni
 over a few weeks, transfer to [[fruiting-conditions]] with diffuse light and cooler
 temperature, and observe which dilution triggers fruiting.
 
-# Relevance to Cultivation
+## Relevance to Cultivation
 
 Many commercially important mushroom species require microbial partnerships to initiate
 fruiting: Agaricus (button, portabella), Stropharia ([[king-stropharia]]), Morchella (morels),

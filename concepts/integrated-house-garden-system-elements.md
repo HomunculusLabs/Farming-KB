@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated House-Garden System Elements
+## Integrated House-Garden System Elements
 
 The total design for a [[bill-mollison]]) and adapted for tropical and subtropical conditions, the system demonstrates how a climatically appropriate house of local brick and tiles can amortize in 4–7 years if a productive garden is developed alongside it.
 

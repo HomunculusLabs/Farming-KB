@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# KNF Fermented Plant Juice
+## KNF Fermented Plant Juice
 
 Fermented Plant Juice (FPJ) is a cornerstone input of [[acacia]] flowers (Robinia pseudoacacia): promote flower bud
   formation and increase sugar content.

@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Capoeira
+## Capoeira
 
 ## Overview
 Capoeira is an Afro-Brazilian art that combines martial movement, music, dance, ritual, play, and cultural memory.

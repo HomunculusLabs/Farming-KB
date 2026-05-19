@@ -11,7 +11,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Indica, Sativa, Ruderalis, and Afghanica Differences
+## Cannabis Indica, Sativa, Ruderalis, and Afghanica Differences
 
 ## Taxonomic Classification
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Identifying Poisonous Mushrooms
+## Identifying Poisonous Mushrooms
 
 ## The Danger of Amateur Mushroom Eating
 

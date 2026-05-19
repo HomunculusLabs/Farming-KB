@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDOH
+## MDOH
 
 [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[pihkal-introduction-and-methodology]]
 

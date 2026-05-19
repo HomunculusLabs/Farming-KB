@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Tissue Culture vs Wild Isolation
+## Tissue Culture vs Wild Isolation
 
 ## Overview
 

@@ -17,7 +17,7 @@ tags:
   - unisexual-reproduction
 ---
 
-# Anamorph-Telomorph Duality: Cryptococcus and Filobasidiella as One Organism
+## Anamorph-Telomorph Duality: Cryptococcus and Filobasidiella as One Organism
 
 ## Overview
 

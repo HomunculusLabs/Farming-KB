@@ -5,7 +5,7 @@ type: entity
 tags: [spawn, mycelium, historical, cultivation, horse-manure, brick-spawn, 19th-century]
 ---
 
-# Mushroom Spawn (Historical)
+## Mushroom Spawn (Historical)
 
 ## Description
 

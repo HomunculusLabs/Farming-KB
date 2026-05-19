@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Soma, Haoma, Ambrosia, Nectar, and Dionysus: Cross-Cultural Names of the Sacred Plant
+## Soma, Haoma, Ambrosia, Nectar, and Dionysus: Cross-Cultural Names of the Sacred Plant
 
 ## The Indo-European Sacred Plant
 

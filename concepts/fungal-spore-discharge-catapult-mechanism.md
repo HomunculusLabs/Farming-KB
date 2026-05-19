@@ -5,7 +5,7 @@ tags: [mycology, fungi, spore-dispersal, biophysics, basidiomycota]
 created: 2026-05-09
 ---
 
-# Fungal Spore Discharge — The Ballistospore Catapult Mechanism
+## Fungal Spore Discharge — The Ballistospore Catapult Mechanism
 
 The ballistic discharge of spores from mushroom gills is one of the most remarkable physical processes in biology. Basidiomycete fungi launch microscopic spores into the air at accelerations exceeding 20,000g—among the highest known in any biological system—using a microscopic catapult mechanism powered by the condensation of water. This mechanism, first investigated in detail by A.H.R. Buller in the early [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] energy released by this coalescence is converted into kinetic energy.
 4. **Launch**: The sudden redistribution of mass causes the spore to pivot on the sterigma tip and be launched into the space between the gills.

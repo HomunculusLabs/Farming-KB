@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Cannabis Sativa vs Cannabis Indica
+## Cannabis Sativa vs Cannabis Indica
 
 ## Overview
 [[query-sog-vs-scrog-cannabis-training-methods]] like scrog

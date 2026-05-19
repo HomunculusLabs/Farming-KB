@@ -5,7 +5,7 @@ tags: [philosophy, consciousness, mckenna, phenomenology, copernican-revolution,
 date: 2026-05-08
 ---
 
-# Decentralizing Bender and the Perceiving Self as Primary Datum
+## Decentralizing Bender and the Perceiving Self as Primary Datum
 
 ## Overview
 

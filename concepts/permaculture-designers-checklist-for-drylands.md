@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Designers Checklist for Drylands
+## Permaculture Designers Checklist for Drylands
 
 The drylands checklist from [[permaculture-design]] rests on a sequence of interventions that build resilience over time. Designers must think in decades, establishing conditions for natural succession to accelerate.
 

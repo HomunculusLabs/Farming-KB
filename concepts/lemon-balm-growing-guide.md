@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, companion-planting, poll
 sources: []
 ---
 
-# Lemon Balm Growing Guide (Melissa officinalis)
+## Lemon Balm Growing Guide (Melissa officinalis)
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [forage, animal-husbandry, homesteading, regenerative, permaculture, lives
 sources: []
 ---
 
-# Pasture Management
+## Pasture Management
 
 Pasture management is the foundation of any grass-based livestock system.
 Properly managed pastures produce more forage per acre, build soil health,

@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
-# PCB Remediation Technologies
+## PCB Remediation Technologies
 
 Polychlorinated biphenyls (PCBs) are synthetic organic chemicals once widely used in electrical equipment, hydraulic fluids, and other industrial applications. Their production was banned in many countries by the late 1970s due to their environmental persistence, bioaccumulation, and toxicity. PCB contamination remains widespread in soils, sediments, and water bodies, and a variety of remediation technologies have been developed to address this persistent environmental problem.
 

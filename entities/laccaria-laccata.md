@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Laccaria laccata
+## Laccaria laccata
 
 **Laccaria laccata** is a widely studied ectomycorrhizal basidiomycete
 fungus associated with numerous tree species, particularly conifers.

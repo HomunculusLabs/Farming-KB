@@ -17,7 +17,7 @@ sources:
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
 ---
 
-# Clavaria zollingeri
+## Clavaria zollingeri
 
 ## Overview
 

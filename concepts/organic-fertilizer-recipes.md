@@ -23,7 +23,7 @@ sources:
 - raw/papers/chos-global-natural-farming.md
 ---
 
-# Organic Fertilizer Recipes
+## Organic Fertilizer Recipes
 
 A collection of complete organic fertilizer recipes from multiple traditions. Each provides all essential plant nutrients using organic or mineral inputs.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# oyster-mushroom-cultivation-economics. Any
+## oyster-mushroom-cultivation-economics. Any
 invading organism that competes with or consumes the mushroom mycelium will
 ruin the culture. Understanding how to identify, diagnose, and prevent
 contamination is essential for consistent results with the PF TEK.

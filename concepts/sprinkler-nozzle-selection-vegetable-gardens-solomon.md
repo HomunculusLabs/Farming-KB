@@ -5,7 +5,7 @@ tags: [irrigation, sprinkler, nozzle, application-rate, soil-compaction, water-m
 source: "steve-solomon-gardening-when-it-counts"
 ---
 
-# Sprinkler Nozzle Selection for Vegetable Gardens
+## Sprinkler Nozzle Selection for Vegetable Gardens
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Thermoclines, Haloclines, and Pond Stratification
+## Thermoclines, Haloclines, and Pond Stratification
 
 ## Gradients Within Water Bodies
 

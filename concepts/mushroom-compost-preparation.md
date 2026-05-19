@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Compost Preparation
+## Mushroom Compost Preparation
 
 ## Overview
 

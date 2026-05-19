@@ -8,7 +8,7 @@ sources:
   - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-# Ericoid Mycorrhizae Types and Ecology
+## Ericoid Mycorrhizae Types and Ecology
 
 [[ericoid-and-orchid-mycorrhizae]] relationships with ericaceous plants are the ascomycetes. These fungi have specifically adapted to the fine root system characteristic of ericaceous plants.
 

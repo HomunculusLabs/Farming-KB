@@ -4,7 +4,7 @@ source: Oyster accessible-mushroom-cultivation-for-disabilities (MushWorld, 2004
 tags: [mycology, oyster-mushroom, mushroom-cultivation, spawn, mycelium, strain-maintenance]
 ---
 
-# [[duggar-mushroom-harvest-and-post-harvest]].
+## [[duggar-mushroom-harvest-and-post-harvest]].
 
 ## Why Growers Use Mycelial Origin Spawn
 Mushrooms can reproduce sexually through spores, but commercial growers

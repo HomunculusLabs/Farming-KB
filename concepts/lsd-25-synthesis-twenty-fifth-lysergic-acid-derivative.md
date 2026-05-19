@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# LSD-25 Synthesis — The Twenty-Fifth Lysergic Acid Derivative
+## LSD-25 Synthesis — The Twenty-Fifth Lysergic Acid Derivative
 
 ## Overview
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Herb Spiral Design and Construction
+## Herb Spiral Design and Construction
 
 The [[herb-spiral]] is one of the most iconic and widely recognized
 elements of [[permaculture-principles]] of

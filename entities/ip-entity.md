@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# IP
+## IP
 
 **[[mescaline]] -- the parent compound (3,4,5-trimethoxyphenethylamine)
 

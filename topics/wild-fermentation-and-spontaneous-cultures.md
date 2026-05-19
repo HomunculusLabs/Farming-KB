@@ -13,7 +13,7 @@ sources:
   - Tamang, Jyoti Prakash. *Fermented Foods and Beverages of the World*. CRC Press, 2010.
 ---
 
-# Wild Fermentation and Spontaneous Cultures
+## Wild Fermentation and Spontaneous Cultures
 
 Wild fermentation — also called spontaneous fermentation — is the practice of encouraging food and beverage transformation through ambient microorganisms naturally present on raw ingredients, in the environment, or on processing surfaces, rather than inoculating with a defined commercial starter culture. This approach is as old as human civilization itself and remains the dominant method of fermentation in many traditional foodways around the world.
 

@@ -5,7 +5,7 @@ author: masanobu-fukuoka
 topics: [rice, natural-farming, yield, agricultural-science, seed-saving, heirloom]
 ---
 
-# Old Rice Variety Yields and the Critique of Scientific Agriculture
+## Old Rice Variety Yields and the Critique of Scientific Agriculture
 
 One of the most provocative practical claims in *The Road Back to Nature* is
 Fukuoka's report of growing an old Tokugawa-era glutinous rice variety using

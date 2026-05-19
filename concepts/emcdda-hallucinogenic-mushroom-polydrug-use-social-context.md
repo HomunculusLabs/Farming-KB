@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom Polydrug Use and Social Context
+## EMCDDA Hallucinogenic Mushroom Polydrug Use and Social Context
 
 ## The EMCDDA 2006 Thematic Study
 

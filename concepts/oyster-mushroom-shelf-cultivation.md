@@ -4,9 +4,9 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [mycology, cultivation, mushrooms]
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 ---
-# Oyster Mushroom Shelf Cultivation Shelf cultivation is a traditional and technology-intensive method of growing [[oyster-mushroom-spawn-production]] is inoculated and thoroughly mixed with the substrate
+## Oyster Mushroom Shelf Cultivation Shelf cultivation is a traditional and technology-intensive method of growing [[oyster-mushroom-spawn-production]] is inoculated and thoroughly mixed with the substrate
 - The substrate is spread evenly
 - The remaining 30-40% of spawn is sprinkled onto the surface
 - The shaped substrate is covered with perforated plastic sheeting for ventilation

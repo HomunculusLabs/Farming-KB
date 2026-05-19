@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# [[mycelium]] to harvestable [[query-difference-between-white-rot-and-brown-rot-fungi]] the appearance of pin heads and full maturity. This timeline can vary depending on temperature, available nutrients, moisture levels, and the genetic characteristics of the strain being cultivated.
+## [[mycelium]] to harvestable [[query-difference-between-white-rot-and-brown-rot-fungi]] the appearance of pin heads and full maturity. This timeline can vary depending on temperature, available nutrients, moisture levels, and the genetic characteristics of the strain being cultivated.
 
 ## Commercial Grading Standards
 

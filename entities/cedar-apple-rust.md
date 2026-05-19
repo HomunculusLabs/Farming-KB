@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---
 
-# Cedar Apple Rust
+## Cedar Apple Rust
 
 ## Description
 

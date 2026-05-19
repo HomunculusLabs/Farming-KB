@@ -6,7 +6,7 @@ date: 2026-05-08
 source: "Gartz J, Adam G, Vorbrodt HM. Growth-promoting effect of a brassinosteroid on mycelial cultures of the fungus Psilocybe cubensis. Naturwissenschaften 1990;77:494-495"
 aliases: [absent annulus, missing ring, brassinosteroid morphology, veil development]
 ---
-# Brassinosteroid-Suppressed Annulus Formation in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development, including those specifically regulating cap expansion, stipe elongation, and veil formation. Brassinosteroids may modulate the expression or activity of analogous genes in *P. cubensis*.
+## Brassinosteroid-Suppressed Annulus Formation in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development, including those specifically regulating cap expansion, stipe elongation, and veil formation. Brassinosteroids may modulate the expression or activity of analogous genes in *P. cubensis*.
 
 ### 5. Tissue-Specific Sensitivity
 

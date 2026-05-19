@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Foliar Application of Compost Tea
+## Foliar Application of Compost Tea
 
 Foliar application of [[plant-nutrient-uptake-mechanisms]] through
 stomatal opening, and [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]

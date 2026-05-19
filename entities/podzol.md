@@ -5,7 +5,7 @@ type: entity
 tags: [soil-science, soil-type, geology, maine, soil-amendment]
 ---
 
-# Podzol
+## Podzol
 
 ## Description
 

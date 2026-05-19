@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Post-Darwinian Evolution and Species Change
+## Post-Darwinian Evolution and Species Change
 
 Post-Darwinian evolution encompasses the developments in evolutionary theory since Darwin's *Origin of Species* that challenge the classical model of gradual, incremental change driven solely by natural selection acting on random mutations. [[david-holmgren]] explores these ideas within the [[preface-and-author-context-of-permaculture-designers-manual]]'s twelfth principle — Creatively Use and [[creatively-use-and-respond-to-change]] — connecting evolutionary theory to [[ecological-succession]], chaos theory, and the practical work of plant and animal breeding.
 

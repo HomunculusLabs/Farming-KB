@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Double-Digging Bed Preparation
+## Double-Digging Bed Preparation
 
 The goal of bed preparation is to develop soil structure so the plants will have a "living sponge cake" in which to thrive. Double-digging loosens the soil to a depth of 24 inches below the surface.
 

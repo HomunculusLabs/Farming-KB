@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# The Natural Order and Microbial Ecology
+## The Natural Order and Microbial Ecology
 
 [[query-can-fungi-break-down-plastic-pollution]] the carcass of the weasel, providing a nutrient source for
 plants.

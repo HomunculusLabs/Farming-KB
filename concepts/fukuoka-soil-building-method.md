@@ -25,7 +25,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# Fukuoka Soil Building Method
+## Fukuoka Soil Building Method
 
 Masanobu Fukuoka's approach to soil fertility is radically simple: **return all organic matter to the field, grow green manure crops, and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, chemical fertilizers, or prepared compost.
 

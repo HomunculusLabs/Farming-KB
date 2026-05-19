@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Neurotropic Fungi Diversity and Vegetation Types
+## Neurotropic Fungi Diversity and Vegetation Types
 
 The [[mexico-center-neurotropic-fungal-biodiversity]]. The Amazon
 basin, Congo basin, and Southeast Asian rainforests remain mycologically

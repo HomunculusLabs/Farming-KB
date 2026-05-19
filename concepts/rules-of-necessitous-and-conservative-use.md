@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Rules of Necessitous and Conservative Use
+## Rules of Necessitous and Conservative Use
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybian Mushroom Poisoning Cases in Australia
+## Psilocybian Mushroom Poisoning Cases in Australia
 
 ## Historical Background
 

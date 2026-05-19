@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: concept
 ---
 
-# Pioneer Species Selection for Permaculture Systems
+## Pioneer Species Selection for Permaculture Systems
 
 Pioneer species occupy the critical edge between grassland and forest,
 serving as the first wave of [[acacia]] Species as Pioneers

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
-# Tryptamine Receptor Pharmacology
+## Tryptamine Receptor Pharmacology
 
 Tryptamines are a class of monoamine compounds characterized by an indole
 ring structure linked to an ethylamine side chain. They include endogenous

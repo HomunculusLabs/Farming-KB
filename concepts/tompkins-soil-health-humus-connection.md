@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Soil Health and the Humus Connection
+## Soil Health and the Humus Connection
 
 The health of plants, animals, and humans is fundamentally tied to the
 health of soil, according to research presented in The [[cervantes-chemical-fertilizers-guide]] has degraded not only

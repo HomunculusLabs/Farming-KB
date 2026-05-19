@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Opium, Tobacco, and Paradoxical Attitudes
+## Opium, Tobacco, and Paradoxical Attitudes
 
 ## The Opium Wars
 

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 tags: [mycology, bioweathering, mineral-transformations, geomycology, rock-weathering]
 ---
 
-# Fungal Biomechanical and Biochemical Weathering Mechanisms
+## Fungal Biomechanical and Biochemical Weathering Mechanisms
 
 Fungi are among the most effective biological agents of rock and mineral
 weathering, employing a dual strategy of biomechanical force and biochemical

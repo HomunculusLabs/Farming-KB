@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe cubensis Alkaloid Distribution Between Cap and Stem
+## Psilocybe cubensis Alkaloid Distribution Between Cap and Stem
 
 ## Overview
 

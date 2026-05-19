@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# comfrey
+## comfrey
 
 ## Overview
 

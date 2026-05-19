@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Lentinan
+## Lentinan
 
 **Type:** Chemical Compound
 **Category:** Polysaccharide (beta-1,3-glucan with beta-1,6 branches)

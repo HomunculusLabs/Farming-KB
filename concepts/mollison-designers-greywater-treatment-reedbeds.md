@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# [[query-can-fungi-break-down-plastic-pollution]] [[phragmites-australis]]): The most widely used reedbed plant
+## [[query-can-fungi-break-down-plastic-pollution]] [[phragmites-australis]]): The most widely used reedbed plant
   worldwide. Deep, extensive root system (rhizomes reach 1 to 2 metres
   deep). Extremely hardy, tolerates a wide range of water depths and
   nutrient levels. Transports oxygen to roots efficiently. Grows tall

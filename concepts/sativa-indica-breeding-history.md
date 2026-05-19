@@ -12,7 +12,7 @@ tags:
 extracted_date: 2026-05-11
 ---
 
-# Sativa-Indica Breeding History and Evolution
+## Sativa-Indica Breeding History and Evolution
 
 ## The Rise of Indica and Sativa's Decline
 

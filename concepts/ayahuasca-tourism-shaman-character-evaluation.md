@@ -4,7 +4,7 @@ source: stuart-r-ayahuasca-tourism.md
 topics: [ayahuasca, tourism, shamanism, peru, ethics, safety]
 ---
 
-# Ayahuasca Tourism: Evaluating Shaman Character and Trustworthiness
+## Ayahuasca Tourism: Evaluating Shaman Character and Trustworthiness
 
 ## Overview
 

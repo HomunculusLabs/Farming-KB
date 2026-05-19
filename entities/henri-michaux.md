@@ -5,7 +5,7 @@ type: entity
 tags: [person, artist, writer, poet, mescaline]
 ---
 
-# Henri Michaux
+## Henri Michaux
 
 ## Description
 Henri Michaux (1899–1984) was a Belgian-born French poet, writer, and painter, widely recognized for his experimental literary works and his investigations into consciousness through art and psychedelics. Leary credits Michaux with coining the phrase "retinal circus" to describe the kaleidoscopic visual phenomena that occur during psychedelic experiences.

@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-# Fungal Pest Control
+## Fungal Pest Control
 
 Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. Part of the [[mycorestoration]] framework.
 

@@ -7,7 +7,7 @@ tags: [organic-gardening, plants]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Shade Garden Plants
+## Shade Garden Plants
 
 updated: 2026-04-18
 

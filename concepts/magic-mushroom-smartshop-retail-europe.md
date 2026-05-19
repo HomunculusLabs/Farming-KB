@@ -4,7 +4,7 @@ source: carolina-mushrooms_08qxp.md
 author: Hillebrand, Olszewski, Sedefov (EMCDDA)
 tags: [smartshop, market, retail, europe, netherlands, legislation, emcdda]
 ---
-# Magic Mushroom Smartshop Retail in Europe
+## Magic Mushroom Smartshop Retail in Europe
 
 The commercial retail of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] occupied a legal
   grey area. While psilocybin itself was scheduled under the

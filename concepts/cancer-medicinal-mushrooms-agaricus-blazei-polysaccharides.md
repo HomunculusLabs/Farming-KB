@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
+## [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

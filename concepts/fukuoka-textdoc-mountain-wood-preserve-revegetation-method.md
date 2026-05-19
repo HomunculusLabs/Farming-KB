@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Mountain Wood Preserve and Revegetation Method for Natural Farms
+## Mountain Wood Preserve and Revegetation Method for Natural Farms
 
 Fukuoka provides detailed practical instructions for establishing and growing wood preserves on denuded hills and mountains, describing how a farmer can convert barren land into a self-sustaining forest ecosystem that serves as a source of soil fertility for the farm below. This method is foundational to his system of [[complete-organic-fertilizer-cof-recipe-solomon]]. The basic strategy for achieving long-term, totally fertilizer-free cultivation on a natural farm is to create deep, fertile soil. The wood preserve accomplishes this through three primary mechanisms:
 

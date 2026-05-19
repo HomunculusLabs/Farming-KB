@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Village Infrastructure and Integrated Settlement Design
+## Village Infrastructure and Integrated Settlement Design
 
 [[permaculture]] village infrastructure encompasses the physical tools, dwelling types, energy systems, and land-use patterns that enable a settlement to function as a self-reliant community. Mollison advocates for the integration of life, work, and recreation—rejecting the modern zoning paradigm that separates these [[plant-micronutrients-and-their-essential-functions]].
 

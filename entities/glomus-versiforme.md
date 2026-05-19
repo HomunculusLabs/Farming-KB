@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Glomus versiforme
+## Glomus versiforme
 
 **Glomus versiforme** is a species of arbuscular [[core-endorhiza-bacterial-community-composition-cannabis]] and diversity
 - **Soil Carbon Dynamics:** AM fungi contribute to soil carbon sequestration through glomalin production and the deposition of carbon-rich hyphal residues in soil

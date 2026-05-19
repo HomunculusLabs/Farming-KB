@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, water]
 ---
 
-# Cannabis Ice Water Extraction
+## Cannabis Ice Water Extraction
 
 ## Overview
 

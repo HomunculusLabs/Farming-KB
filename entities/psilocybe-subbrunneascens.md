@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, mexico, psilocybe, section-mexicanae, sclerotia-forming]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: ["raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md"]
 ---
 
-# Psilocybe subbrunneascens
+## Psilocybe subbrunneascens
 
 **Psilocybe subbrunneascens** is a [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae, a group noted for [[psilocybe-mexicana]], particularly given the broad morphological variability within that species complex. Molecular phylogenetic studies have yielded mixed results, with some analyses placing psilocybe subbrunneascens within the [[psilocybe-mexicana]] itself, which some researchers have suggested may represent a species complex encompassing several currently recognized taxa. Resolution of this question will likely require population-level genomic studies across the geographic range of both species.
 

@@ -1,4 +1,8 @@
-# Hongo's Nine Distribution Types Applied to Neurotropic Fungi: Detailed Species Examples
+---
+title: "Hongo's Nine Distribution Types Applied to Neurotropic Fungi: Detailed Species Examples"
+tags:
+  - concept
+---
 
 ## Overview
 

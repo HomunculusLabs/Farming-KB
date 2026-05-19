@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture: A Designers' Manual — Overview
+## Permaculture: A Designers' Manual — Overview
 
 ## The Book and Its Scope
 

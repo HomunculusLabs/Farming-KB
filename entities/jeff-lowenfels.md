@@ -25,7 +25,7 @@ sources:
 - raw/lowenfels-teaming-with-microbes.md
 ---
 
-# Jeff Lowenfels
+## Jeff Lowenfels
 
 American garden writer, columnist, and attorney based in Anchorage, Alaska. Best known for the "Teaming With" book trilogy, which has done more than any other body of work to bring soil biology science to home gardeners and small-scale farmers in an accessible, engaging format.
 

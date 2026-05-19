@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# HOT-2
+## HOT-2
 
 [[scythian-cannabis-steam-bath-ritual]] for 15 minutes, with the
 THF at reflux. After cooling again to room temperature, all was

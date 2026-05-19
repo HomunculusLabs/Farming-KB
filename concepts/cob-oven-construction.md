@@ -7,7 +7,7 @@ tags: [homesteading, construction, design, homestead-crafts, food]
 sources: []
 ---
 
-# Cob Oven Construction
+## Cob Oven Construction
 
 A cob oven (also called an earth oven, clay oven, or wood-fired bread oven) is an outdoor baking structure built from [[building-with-natural-materials]]: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
 

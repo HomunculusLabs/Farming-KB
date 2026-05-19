@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: [raw/papers/gaias-garden-toby-hemenway.md]
 ---
-# Apple-Centered Guild Design
+## Apple-Centered Guild Design
 
 The apple-centered guild is the most widely taught example of [[permaculture-food-forest-design-principles]].
 

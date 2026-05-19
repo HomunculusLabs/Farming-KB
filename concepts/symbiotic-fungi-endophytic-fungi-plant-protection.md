@@ -7,7 +7,7 @@ tags: [endophyte, fungi, biocontrol, plant-protection, Piriformospora-indica]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# [[neem]] (Singh et al. 2002, 2003)
+## [[neem]] (Singh et al. 2002, 2003)
 - [[arabidopsis-thaliana]]
 - Deactivating DMI-1 (required for mycorrhiza formation in legumes) does not affect
   the P. indica interaction

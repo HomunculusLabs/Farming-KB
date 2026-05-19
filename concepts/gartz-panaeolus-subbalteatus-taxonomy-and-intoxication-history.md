@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
+## [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 ## Historical Intoxication Cases
 

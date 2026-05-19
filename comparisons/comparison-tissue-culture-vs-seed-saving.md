@@ -11,7 +11,7 @@ sources:
 type: comparison
 ---
 
-# Tissue Culture vs Seed Saving
+## Tissue Culture vs Seed Saving
 
 ## Overview
 

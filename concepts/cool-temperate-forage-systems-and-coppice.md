@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Temperate Forage Systems and [[cool-temperate-forage-systems-and-small-livestock|livestock]] integration, and protected growing environments that extend seasons and multiply yields.
+## Cool Temperate Forage Systems and [[cool-temperate-forage-systems-and-small-livestock|livestock]] integration, and protected growing environments that extend seasons and multiply yields.
 
 ## Tagasaste: The Premier Cool Climate Forage Tree
 

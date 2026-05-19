@@ -14,7 +14,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Temperate Design Strategies
+## Permaculture Temperate Design Strategies
 
 Chapter 12 of the Designers' Manual addresses the cool temperate and cold climate strategies, dealing with the specific challenges of frost, snow, wind, short growing seasons, and the bimodal productivity curve of temperate grasslands.
 

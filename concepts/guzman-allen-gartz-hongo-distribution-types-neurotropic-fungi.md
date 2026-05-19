@@ -5,7 +5,7 @@ mined: 2026-05-10
 tags: [mycology, biogeography, neurotropic-fungi, distribution, hongo, psilocybe, guzman]
 ---
 
-# Hongo Distribution Types Applied to Neurotropic Fungi
+## Hongo Distribution Types Applied to Neurotropic Fungi
 
 ## Background
 

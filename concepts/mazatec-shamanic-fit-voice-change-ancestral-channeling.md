@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Shamanic Fit — Voice Change and Ancestral Channeling
+## Mazatec Shamanic Fit — Voice Change and Ancestral Channeling
 
 ## Overview
 

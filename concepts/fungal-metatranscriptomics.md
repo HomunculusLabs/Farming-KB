@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources: []
 ---
 
-# Fungal Metatranscriptomics
+## Fungal Metatranscriptomics
 
 Fungal metatranscriptomics is the study of the complete set of RNA
 transcripts (the transcriptome) produced by fungal communities in

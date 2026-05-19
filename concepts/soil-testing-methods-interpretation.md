@@ -7,7 +7,7 @@ tags: [soil, agriculture]
 sources: []
 ---
 
-# Soil Testing — Methods and Interpretation for Gardeners
+## Soil Testing — Methods and Interpretation for Gardeners
 
 [[soil-testing]] is the foundation of informed [[microclimate-design-for-garden-and-farm]] management. A good soil test reveals what nutrients are available to plants, identifies potential problems, and guides amendment decisions.
 

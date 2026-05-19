@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Amanita Species Ecology and Identification
+## Amanita Species Ecology and Identification
 
 The genus Amanita contains some of the most recognizable, most beautiful, and
 most deadly mushrooms in the world. With approximately 600 described species,

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tree Rain Interception and Throughfall
+## Tree Rain Interception and Throughfall
 
 ## The Problem of Bare Soil Under Rain
 

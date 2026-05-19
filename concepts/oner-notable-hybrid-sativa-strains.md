@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - blesching-cannabis-sativa-indica-classification Volume 3: The Essential Guide"
 ---
 
-# Notable Hybrid Sativa Strains
+## Notable Hybrid Sativa Strains
 
 The modern cannabis market is defined by hybrid strains that combine
 the best traits of multiple genetic lineages.

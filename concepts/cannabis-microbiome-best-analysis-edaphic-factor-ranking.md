@@ -5,7 +5,7 @@ topics: [microbiome, cannabis, edaphic-factors, bioenv, statistical-methods, com
 created: 2026-05-09
 ---
 
-# BEST Analysis and Edaphic Factor Ranking in Cannabis Microbiome Studies
+## BEST Analysis and Edaphic Factor Ranking in Cannabis Microbiome Studies
 
 ## Overview
 

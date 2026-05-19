@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Symbiotic Relationships of Fungi Fungi form some of the most important and widespread [[lichens]]). In these symbioses, the fungal partner is provided with carbon by photosynthetic partners while the fungi protect the association from harsh environmental conditions, increase the absorptive area, and provide increased access to mineral nutrients.
+## Symbiotic Relationships of Fungi Fungi form some of the most important and widespread [[lichens]]). In these symbioses, the fungal partner is provided with carbon by photosynthetic partners while the fungi protect the association from harsh environmental conditions, increase the absorptive area, and provide increased access to mineral nutrients.
 
 ## Mycorrhizal Symbiosis
 

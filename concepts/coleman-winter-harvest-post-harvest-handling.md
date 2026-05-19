@@ -5,7 +5,7 @@ tags: [winter-harvest, post-harvest, washing-system, eliot-coleman, produce-hand
 created: 2026-05-09
 ---
 
-# Coleman Winter Harvest and Post-Harvest Handling
+## Coleman Winter Harvest and Post-Harvest Handling
 
 The winter harvest system at [[coleman-french-historical-winter-vegetable-production]].
 

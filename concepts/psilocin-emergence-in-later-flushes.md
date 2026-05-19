@@ -6,7 +6,7 @@ type: concept
 tags: [psilocin, psilocybe-cubensis, alkaloid-biosynthesis, flush, enzymatic-conversion, tryptamine]
 ---
 
-# Psilocin Emergence in Later Flushes
+## Psilocin Emergence in Later Flushes
 
 [[psilocin]] levels in *[[psilocin-biosynthetic-delay-hypothesis-successive-flushes]].
 

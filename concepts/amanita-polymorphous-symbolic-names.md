@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [amanita-muscaria, mycology]
-sources: [/Users/t3rpz/wiki/raw/papers/amanita-muscaria-herb-of-immortality.md]
+sources: ["raw/papers/amanita-muscaria-herb-of-immortality.md"]
 ---
-# Polymorphous Amanita muscaria: The Mushroom of Many Names
+## Polymorphous Amanita muscaria: The Mushroom of Many Names
 
 [[allegro-colour-and-consistency-of-the-amanita-muscaria]] mushroom, drawn from diverse cultures and [[amanita-muscaria-ethnobotany]], [[amanita-muscaria-living-bread-sacrament]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

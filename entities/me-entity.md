@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# ME
+## ME
 
 ME (metaescaline; 3,4-dimethoxy-5-ethoxyphenethylamine) is a psychedelic phenethylamine and a positional isomer of mescaline described in [[tomso-entity]].
 

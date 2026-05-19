@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Uses of Patterning
+## Tribal Uses of Patterning
 
 ## Overview
 

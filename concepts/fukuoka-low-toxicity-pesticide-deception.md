@@ -8,7 +8,7 @@ sources: [masanobu-fukuoka-the-road-back-to-nature.md]
 type: concept
 ---
 
-# Fukuoka on the Low Toxicity Pesticide Deception
+## Fukuoka on the Low Toxicity Pesticide Deception
 
 [[cervantes-contaminant-pesticide-safety]].
 For Fukuoka, the very concept of a safe pesticide was an oxymoron,

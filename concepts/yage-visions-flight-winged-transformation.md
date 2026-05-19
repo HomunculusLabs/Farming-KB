@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Yage Visions of Flight and Winged Transformation
+## Yage Visions of Flight and Winged Transformation
 
 ## Overview
 

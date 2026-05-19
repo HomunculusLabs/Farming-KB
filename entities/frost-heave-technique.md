@@ -5,7 +5,7 @@ type: entity
 tags: [cold-climate, soil-science, permaculture, natural-process]
 ---
 
-# Frost Heave
+## Frost Heave
 
 ## Description
 

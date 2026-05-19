@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Liebig's Law of Minimum Critique
+## Liebig's Law of Minimum Critique
 
 [[fukuoka-critique-laws-agricultural-science]]. First proposed by the German chemist, the law states
 that [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]].

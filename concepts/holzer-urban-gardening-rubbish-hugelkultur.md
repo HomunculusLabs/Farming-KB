@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Holzer Urban Gardening and the Rubbish permaculture offers solutions for growing food even in the most
+## Holzer Urban Gardening and the Rubbish permaculture offers solutions for growing food even in the most
 challenging [[holzer-crater-gardens-hugelkultur]] with one key difference: the core is filled
 with collected waste materials rather than wood and [[query-can-fungi-break-down-plastic-pollution]] items that are too large
 3. Build up the mound maintaining a rough and loose structure

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# [[soil-tilth-and-seedbed-preparation|Soil]] Preparation and Plant Spacing
+## [[soil-tilth-and-seedbed-preparation|Soil]] Preparation and Plant Spacing
 
 ## Overview
 

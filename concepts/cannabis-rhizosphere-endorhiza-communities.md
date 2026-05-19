@@ -5,7 +5,7 @@ tags: [microbiome, cannabis, rhizosphere, endorhiza, endophytes, bacteria]
 created: 2026-05-09
 ---
 
-# Cannabis Rhizosphere and Endorhiza Communities
+## Cannabis Rhizosphere and Endorhiza Communities
 
 The root-associated microbiome of Cannabis spans three distinct
 compartments — bulk soil, rhizosphere, and endorhiza — each with

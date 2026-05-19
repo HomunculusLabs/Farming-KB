@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Palmer's Advocacy for Toadstool Eating and Mycology
+## Palmer's Advocacy for Toadstool Eating and Mycology
 
 ## Historical Context of Mycological Ignorance
 

@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Allegro: Persephone, Kore, Pluto, Easter, and the Anthesteria Festival
+## Allegro: Persephone, Kore, Pluto, Easter, and the Anthesteria Festival
 
 In [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and the Cross*, the classical myths of Persephone/Kore and Pluto, the Anthesteria festival of Athens, and the Christian Easter story are all read as linguistic and cultic descendants of a single ancient [[allegro-colour-and-consistency-of-the-amanita-muscaria]] mushroom. The following summarizes Allegro's philological and mythographic arguments.
 

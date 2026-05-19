@@ -17,7 +17,7 @@ sources:
   - Swanson, R.E. (1994). "A Field Guide to the Trees and Shrubs of the Southern Appalachians." Johns Hopkins University Press.
 ---
 
-# Myrica pensylvanica
+## Myrica pensylvanica
 
 ## Overview
 

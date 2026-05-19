@@ -8,7 +8,7 @@ type: concept
 tags: [dmt, tryptamine]
 ---
 
-# Endogenous DMT and Pineal Gland Theory
+## Endogenous DMT and Pineal Gland Theory
 
 McKenna's discussion of endogenous DMT in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) provides a critical pharmacological argument: that DMT is not foreign to the human body but is naturally produced within it. This observation underpins much of his broader argument about the relationship between tryptamine hallucinogens and the fundamental nature of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, linking McKenna's experiential pharmacology to the frontier of theoretical physics.
 

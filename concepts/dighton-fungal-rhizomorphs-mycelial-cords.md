@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Rhizomorphs and Mycelial Cords
+## Fungal Rhizomorphs and Mycelial Cords
 
 ## Overview
 

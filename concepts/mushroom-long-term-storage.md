@@ -7,7 +7,7 @@ tags: [mycology, mushrooms, cultivation]
 sources: []
 
 ---
-# Mushroom Long-Term Storage Methods
+## Mushroom Long-Term Storage Methods
 
 Long-term storage of mushroom cultures, genetics, and dried fruitbodies is
 essential for maintaining strain libraries, preserving desirable genetic

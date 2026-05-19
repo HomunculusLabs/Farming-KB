@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Ring Water Feeder - Living Water Supply for Communities
+## Holzer Ring Water Feeder - Living Water Supply for Communities
 
 Fresh, running, living water is the most important food for humans. Most people
 in cities have no access to living water. The water in municipal pipe systems is

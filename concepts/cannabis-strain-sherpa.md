@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sherpa
+## Sherpa
 
 Sherpa is a sativa-dominant [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - haze-strains - The Haze family of [[green-cannabis-grow-bible-strain-selection-genetics]]

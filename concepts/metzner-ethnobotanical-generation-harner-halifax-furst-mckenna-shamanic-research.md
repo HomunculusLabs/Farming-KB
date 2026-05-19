@@ -1,5 +1,9 @@
-# The Ethnobotanical Generation: Harner, Halifax, Furst, McKenna,
-# and the Shamanic Renaissance
+---
+title: "The Ethnobotanical Generation: Harner, Halifax, Furst, McKenna,"
+tags:
+  - concept
+---
+## and the Shamanic Renaissance
 
 ## Context and Sourcing
 

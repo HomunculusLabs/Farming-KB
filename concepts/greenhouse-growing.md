@@ -6,7 +6,7 @@ type: concept
 tags: [homesteading, growing]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
-# Greenhouse Growing The greenhouse is one of the most valuable assets in the organic garden, providing the space and environment to extend your gardening activities throughout the year. It serves for raising seedlings, growing tender crops, overwintering frost-sensitive plants, and producing early yields of fruit and vegetables. ## Choosing a Greenhouse ### Size Buy the biggest greenhouse you can afford, or consider one designed to take additional sections at a later date. In practice, a greenhouse of any size will always be full. Even a tiny greenhouse can accommodate a large quantity of plants and produce, especially if used in conjunction with a [[falconer-horse-manure-varieties]] as organic bottom heat
+## Greenhouse Growing The greenhouse is one of the most valuable assets in the organic garden, providing the space and environment to extend your gardening activities throughout the year. It serves for raising seedlings, growing tender crops, overwintering frost-sensitive plants, and producing early yields of fruit and vegetables. ## Choosing a Greenhouse ### Size Buy the biggest greenhouse you can afford, or consider one designed to take additional sections at a later date. In practice, a greenhouse of any size will always be full. Even a tiny greenhouse can accommodate a large quantity of plants and produce, especially if used in conjunction with a [[falconer-horse-manure-varieties]] as organic bottom heat
 
 ## Growing in the Greenhouse
 

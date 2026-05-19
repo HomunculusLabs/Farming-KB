@@ -19,7 +19,7 @@ sources:
 type: query
 ---
 
-# How Do I Design a Farm Pond for Irrigation and Wildlife?
+## How Do I Design a Farm Pond for Irrigation and Wildlife?
 
 A well-designed farm pond serves as the centerpiece of a permaculture [[homesteading]]
 ## Practical Applications

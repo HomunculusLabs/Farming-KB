@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Shiitake vs Maitake
+## Shiitake vs Maitake
 
 ## Overview
 

@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, southeast-asian-fungi, psychotropic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe dumetorum
+## Psilocybe dumetorum
 
 **Psilocybe dumetorum** is a tropical [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] psilocybe-sect.-psilocybe, the section containing the bluing, psychoactive species. The taxonomic status of *P. dumetorum* has been discussed in the context of Southeast Asian Psilocybe diversity, where several species show overlapping morphological characteristics.
 Corner initially described the species in the context of his broader work on Malaysian agarics, a monumental multi-volume series documenting the fungal diversity of the region. The type specimen was collected from a forested area in Java and deposited at the Royal Botanic Gardens, Kew herbarium. Subsequent authors, including Guzmán in his world monograph of Psilocybe, have examined the type material and corroborated Corner's original observations. No molecular phylogenetic studies have yet specifically sequenced *P. dumetorum*, leaving its precise evolutionary relationships within the genus unresolved.

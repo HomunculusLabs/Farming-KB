@@ -6,7 +6,7 @@ type: concept
 tags: [remediation, environment]
 sources: []
 ---
-# Ligninolytic Enzyme Production for Bioremediation
+## Ligninolytic Enzyme Production for Bioremediation
 
 The extraordinary bioremediation capabilities of white-rot fungi are primarily attributed to their ligninolytic enzyme systems -- a suite of extracellular oxidative enzymes that evolved to degrade lignin, one of the most recalcitrant natural polymers. These same nonspecific oxidative mechanisms can degrade a wide range of environmental pollutants. Optimizing enzyme production is therefore central to developing effective fungal bioremediation technologies.
 

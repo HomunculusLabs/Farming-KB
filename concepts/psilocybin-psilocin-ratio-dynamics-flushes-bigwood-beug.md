@@ -4,7 +4,7 @@ source: Bigwood & Beug, Journal of Ethnopharmacology 5 (1982) 287-291
 tags: [psilocybin, psilocin, ratio, flush-variation, decarboxylation, alkaloid-dynamics, bigwood-beug, psilocybe-cubensis]
 ---
 
-# Psilocybin to Psilocin Ratio Dynamics Across Flushes
+## Psilocybin to Psilocin Ratio Dynamics Across Flushes
 
 ## Overview
 

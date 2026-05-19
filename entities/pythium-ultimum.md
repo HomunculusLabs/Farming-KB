@@ -5,10 +5,10 @@ type: species
 tags: [oomycete, soil-borne-pathogen, damping-off, biocontrol-target]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Pythium ultimum
+## Pythium ultimum
 
 **Type:** Species (Fungus)
 **Category:** Soil-Borne Oomycete Plant Pathogen

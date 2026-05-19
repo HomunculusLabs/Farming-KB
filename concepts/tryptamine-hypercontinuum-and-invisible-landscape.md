@@ -5,7 +5,7 @@ tags: [mckenna, tryptamine, hypercontinuum, dimensions, consciousness, dmt]
 created: 2026-05-08
 ---
 
-# Tryptamine Hypercontinuum and the Invisible Landscape
+## Tryptamine Hypercontinuum and the Invisible Landscape
 
 ## Overview
 

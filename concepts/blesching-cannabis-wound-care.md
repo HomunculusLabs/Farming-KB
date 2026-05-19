@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Wound Care
+## Cannabis and Wound Care
 
 ## Overview
 

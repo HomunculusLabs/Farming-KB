@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Apple Tree Care vs Apple Guild Design
+## Apple Tree Care vs Apple Guild Design
 
 Both approaches aim to grow healthy, productive apple trees, but they operate at fundamentally different scales of thinking. [[dynamic-accumulators]] mine deep minerals, insectary plants attract predatory insects, and pest deterrents create a chemical barrier around the trunk. The goal is a self-regulating system that reduces ongoing maintenance over time. Success is measured by the health of the entire plant community and the [[cervantes-pest-disease-prevention-overview]] | Resistant varieties; sulfur/lime-sulfur sprays | Good air circulation from canopy management; diverse ecosystem |
 | Water management | Mulch to retain moisture; supplemental irrigation | Ground covers reduce evaporation; comfrey mulch holds moisture |

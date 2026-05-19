@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Magic Mushroom Cultivation History — From McKenna to PF Tek
+## Magic Mushroom Cultivation History — From McKenna to PF Tek
 
 The history of magic mushroom cultivation is a story of underground innovation, from the McKenna brothers' 1976 guide to the PF Tek that revolutionized home growing.
 

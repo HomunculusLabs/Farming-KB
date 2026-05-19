@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Prehistoric Imagination and Consciousness Patterns
+## Prehistoric Imagination and Consciousness Patterns
 
 The emergence of the human imagination represents one of the great unsolved puzzles in evolutionary biology. [[psilocybin-mushrooms]] in the African partnership societies of prehistory.
 The argument hinges on a detailed examination of how

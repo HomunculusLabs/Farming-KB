@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Mushroom Nutrition and Medicinal Properties
+## Mushroom Nutrition and Medicinal Properties
 
 Mushrooms occupy a unique position at the intersection of nutrition and medicine—valued as food for millennia while simultaneously recognized for profound health benefits. This concept examines their nutritional profile, the evolution of medicinal use, and their role as [[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]] [[medicinal-mushroom-dietary-supplements]].
 

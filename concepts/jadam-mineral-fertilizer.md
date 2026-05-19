@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Mineral Liquid Fertilizer
+## JADAM Mineral Liquid Fertilizer
 
 Mineral JLF improves crop quality by providing trace elements and broad-spectrum
 minerals. JADAM uses humus soil, phyllite rock powder, and sea water/salt as

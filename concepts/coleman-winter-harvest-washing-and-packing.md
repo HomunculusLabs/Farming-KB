@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-#  Farm sells fresh, raw foods, meticulous
+##  Farm sells fresh, raw foods, meticulous
 cleanliness is a fundamental priority throughout the washing and
 packing process. The farm has developed specific techniques and
 equipment for efficiently handling baby-leaf salad mixes while

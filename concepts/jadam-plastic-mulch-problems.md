@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Plastic Mulch Problems and Alternatives
+## JADAM Plastic Mulch Problems and Alternatives
 
 ## Overview
 

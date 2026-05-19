@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Seed Suppliers and Recommended Varieties for Winter Harvest
+## Seed Suppliers and Recommended Varieties for Winter Harvest
 
 Selecting the right seed varieties is fundamental to successful winter vegetable production. Winter growing conditions — low light, short days, cold temperatures, and protection under row covers — demand specific cultivar traits including cold tolerance, disease resistance, suitability for dense planting, and ability to maintain eating quality under stress. [[eliot-coleman]] provides a curated list of proven varieties and trusted seed suppliers for year-round harvest systems.
 

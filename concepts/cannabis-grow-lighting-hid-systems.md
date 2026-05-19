@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Cannabis Grow Lighting — HID Systems, Spectra, and Setup
+## Cannabis Grow Lighting — HID Systems, Spectra, and Setup
 
 ## Overview
 

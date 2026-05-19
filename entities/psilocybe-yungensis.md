@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe yungensis
+## Psilocybe yungensis
 
 **Type:** Species (Fungus)
 **Category:** [[fungal-succession-woody-debris-ecology]] typical of these environments. The common names

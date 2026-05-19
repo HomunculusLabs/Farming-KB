@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 ---
-# White Clover Living Mulch
+## White Clover Living Mulch
 
 White clover (*Trifolium repens*) is the foundational [[permplant-willows-salix-erosion-control-fodder]]. In his fields, clover grows year-round beneath both rice and winter grain, forming a permanent living mulch that replaces chemical fertilizer, herbicides, and much of the labor of conventional farming.
 

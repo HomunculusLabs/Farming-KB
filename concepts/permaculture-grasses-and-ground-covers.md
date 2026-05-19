@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Grasses and Ground Cover Species
+## Permaculture Grasses and Ground Cover Species
 
 > Drawing from Bill Mollison's *Permaculture: A Designer's Manual* (Appendix Plant List), this page catalogues key grass and ground cover species used across tropical and temperate permaculture systems.
 

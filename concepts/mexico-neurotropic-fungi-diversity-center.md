@@ -3,7 +3,7 @@ title: Mexico Neurotropic Fungi Diversity Center
 source: Guzmán, Allen & Gartz "Worldwide Geographical Distribution of the Neurotropic Fungi" (1998)
 ---
 
-# Mexico as the Global Center of Neurotropic Fungal Diversity
+## Mexico as the Global Center of Neurotropic Fungal Diversity
 
 ## Overview
 

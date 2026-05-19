@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Floodwater Harvesting and Braided Stream Systems
+## Floodwater Harvesting and Braided Stream Systems
 
 Floodwater harvesting and [[permaculture-design]]. Drawing on indigenous knowledge from Aboriginal
 Australians, Papago (Sonora) peoples, and fluvial geomorphology, these

@@ -13,7 +13,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# [[holmgren-wind-power-and-renewable-energy-debate]]. [[holmgren-biomass-fuels-and-energy-yield-ratios]] barely above 1, wood plantations
+## [[holmgren-wind-power-and-renewable-energy-debate]]. [[holmgren-biomass-fuels-and-energy-yield-ratios]] barely above 1, wood plantations
 yield 1.5 to 4, and 300-year-old rainforest yields 12. The pattern is clear:
 the more the work is left to nature, the greater the net yield — but the longer
 the time required. This finding challenges the industrial assumption that

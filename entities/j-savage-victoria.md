@@ -5,7 +5,7 @@ type: entity
 tags: [person, farmer, mixed-livestock, pig-tractor, victoria-australia]
 ---
 
-# J. Savage (Victoria, Australia)
+## J. Savage (Victoria, Australia)
 
 ## Description
 

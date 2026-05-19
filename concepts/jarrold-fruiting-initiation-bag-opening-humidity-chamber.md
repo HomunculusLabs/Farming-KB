@@ -5,7 +5,7 @@ tags: [mushroom, fruiting, humidity-chamber, pinning, bag-opening, jarrold, boil
 created: 2026-05-10
 ---
 
-# Mushroom Fruiting Initiation: Bag Opening Timing and Humidity Chamber Transfer (Jarrold Method)
+## Mushroom Fruiting Initiation: Bag Opening Timing and Humidity Chamber Transfer (Jarrold Method)
 
 ## Overview
 

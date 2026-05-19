@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Macrofungal Sampling — Protocols and Design Considerations
+## Macrofungal Sampling — Protocols and Design Considerations
 
 ## Introduction
 

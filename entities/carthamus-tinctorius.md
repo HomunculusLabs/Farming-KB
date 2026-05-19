@@ -18,7 +18,7 @@ sources:
   - "Velasco, L. & Fernández-Martínez, J.M. (2001). \"Breeding for oil quality in safflower.\" Critical Reviews in Plant Sciences, 20(1), 51-67."
 ---
 
-# Carthamus tinctorius
+## Carthamus tinctorius
 
 ## Overview
 

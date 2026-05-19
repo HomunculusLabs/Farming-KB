@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Harlequin
+## Harlequin
 
 Harlequin is a high-CBD sativa-dominant hybrid [[mckenna-cannabis-culture-history]] of that era, provides the foundational sativa energy and
 uplifting qualities. The Thai genetics add to the sativa dominance, while the

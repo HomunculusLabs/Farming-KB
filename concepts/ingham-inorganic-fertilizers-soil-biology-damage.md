@@ -11,7 +11,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Inorganic Fertilizers and Soil Biology Damage
+## Inorganic Fertilizers and Soil Biology Damage
 
 Dr. [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] are bad, but that their
 repeated use creates a predictable cascade of biological disruption that

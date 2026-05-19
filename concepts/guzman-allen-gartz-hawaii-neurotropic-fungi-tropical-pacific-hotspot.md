@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Hawaii Neurotropic Fungi — Tropical Pacific Biodiversity Hotspot
+## Hawaii Neurotropic Fungi — Tropical Pacific Biodiversity Hotspot
 
 The Hawaiian Islands represent one of the most remarkable concentrations of [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]].
 

@@ -5,7 +5,7 @@ type: entity
 tags: [genus, basidiomycete, white-rot, wood-decomposer, cord-forming, bioremediation]
 ---
 
-# Phanerochaete
+## Phanerochaete
 
 ## Description
 

@@ -17,7 +17,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Phellinus pomaceus
+## Phellinus pomaceus
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [permaculture, gardening, water-management, ecology, plants, design]
 sources: []
 ---
 
-# Xeriscaping Guide
+## Xeriscaping Guide
 
 Xeriscaping is a landscaping approach that minimizes or eliminates supplemental irrigation by using drought-tolerant plants, efficient water management, and thoughtful design. The term comes from the Greek "xeros" (dry) and "landscape." It is not "zeroscaping" — xeriscapes are lush, diverse, and vibrant, not barren gravel yards.
 

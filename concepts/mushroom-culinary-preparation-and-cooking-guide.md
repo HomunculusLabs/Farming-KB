@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Culinary Preparation and Cooking Guide
+## Mushroom Culinary Preparation and Cooking Guide
 
 ## Overview
 

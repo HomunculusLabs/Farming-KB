@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Vision and Ultra-Low-Cost Philosophy
+## JADAM Vision and Ultra-Low-Cost Philosophy
 
 ## Overview
 

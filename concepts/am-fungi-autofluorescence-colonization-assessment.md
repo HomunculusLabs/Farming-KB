@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, arbuscular-mycorrhiza, microscopy, fluorescence, root-analysis]
 sources: []
 ---
-# Autofluorescence Properties of AM Fungi for Colonization Assessment
+## Autofluorescence Properties of AM Fungi for Colonization Assessment
 Autofluorescence detection of [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 illumination under which arbuscules and other AM fungal structures
 autofluoresce with characteristic colors.

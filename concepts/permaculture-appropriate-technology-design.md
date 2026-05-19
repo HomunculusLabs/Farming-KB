@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Permaculture Appropriate Technology Design
+## Permaculture Appropriate Technology Design
 Updated: 2026-04-18
 Appropriate technology in permaculture refers to tools, techniques, and
 systems that are matched to their context -- appropriate in scale, energy use,

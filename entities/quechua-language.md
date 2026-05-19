@@ -5,7 +5,7 @@ type: entity
 tags: [language, andean-culture, amazonian-medicine, ayahuasca-ceremony, indigenous-language]
 ---
 
-# Quechua (Language)
+## Quechua (Language)
 
 ## Description
 

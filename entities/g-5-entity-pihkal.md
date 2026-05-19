@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# G-5
+## G-5
 
 [[scythian-cannabis-steam-bath-ritual]]
 temperature overnight. The excess solvent and reagent was removed

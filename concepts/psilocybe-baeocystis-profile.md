@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe baeocystis
+## Psilocybe baeocystis
 
 [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 commonly known as the "potent psilocybe" or informally as "knobby

@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Replace My Lawn With Productive or Ecological Plantings?
+## How Do I Replace My Lawn With Productive or Ecological Plantings?
 
 ## Short Answer
 

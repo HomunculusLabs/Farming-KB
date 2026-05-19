@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca]
 ---
 
-# Ayahuasca Tourism Peru Retreat Landscape
+## Ayahuasca Tourism Peru Retreat Landscape
 
 The primary hubs for [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of the [[shipibo-people-and-ayahuasca-tradition]] in the region and the growing global demand for psychedelic spiritual experiences.
 

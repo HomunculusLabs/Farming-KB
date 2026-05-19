@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka's Straw Mulch Technique
+## Fukuoka's Straw Mulch Technique
 
 **Updated:** 2026-04-18
 

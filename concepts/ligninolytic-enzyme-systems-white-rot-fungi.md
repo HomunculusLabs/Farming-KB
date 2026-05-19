@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Ligninolytic Enzyme Systems of White-Rot Fungi
+## Ligninolytic Enzyme Systems of White-Rot Fungi
 White-rot basidiomycetes produce a unique array of extracellular
 enzymes capable of degrading lignin, the most abundant aromatic
 polymer on Earth and one of the most resistant to biological

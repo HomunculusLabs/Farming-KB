@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Panicum maximum (Guinea Grass)
+## Panicum maximum (Guinea Grass)
 
 ## Description
 

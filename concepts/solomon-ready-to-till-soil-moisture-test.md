@@ -5,7 +5,7 @@ author: clay-soil-management-solomon"
   - "comparison-no-till-vs-reduced-tillage"
 ---
 
-# Ready-to-Till Test
+## Ready-to-Till Test
 
 The ready-to-till test is a simple hands-on method for determining whether
 solomon steve-solomon in *Gardening When It Counts* (2005), this

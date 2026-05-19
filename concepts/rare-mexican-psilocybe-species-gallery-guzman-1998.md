@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybe, mexico, rare-species, neurotropic-fungi, guzman, endemism, biodiversity]
 ---
 
-# Rare Mexican Psilocybe Species Gallery (Guzman, Allen & Gartz 1998)
+## Rare Mexican Psilocybe Species Gallery (Guzman, Allen & Gartz 1998)
 
 ## Overview
 

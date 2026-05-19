@@ -15,7 +15,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Panaeolus sphinctrinus
+## Panaeolus sphinctrinus
 
 **Panaeolus sphinctrinus** (Pers.) Quél. is a large, non-psychoactive
 mushroom in the family Bolbitiaceae, commonly found on [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world. Though it belongs to a genus that

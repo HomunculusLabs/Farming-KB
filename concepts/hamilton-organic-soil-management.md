@@ -8,7 +8,7 @@ type: concept
 tags: [soil]
 ---
 
-# [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] is to nurture and encourage
+## [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] is to nurture and encourage
 subterranean life so that it can support a much larger plant population than
 nature ever intended. The organic approach feeds the soil rather than the
 plant directly. By maintaining high soil-fertility levels through regular

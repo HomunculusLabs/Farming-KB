@@ -4,7 +4,7 @@ source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---
 
-# Farming with Air, Water and Sunlight
+## Farming with Air, Water and Sunlight
 
 "Farming with Air, Water and Sunlight" is a foundational principle in [[double-digging]] in Biointensive Mini-Farming
 

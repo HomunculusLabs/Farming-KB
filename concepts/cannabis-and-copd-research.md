@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: [papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis and COPD Research
+## Cannabis and COPD Research
 
 **Source:** Uwe Blesching, The [[cho-plant-growth-stage-treatment-protocols]]
 

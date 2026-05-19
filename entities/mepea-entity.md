@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MEPEA
+## MEPEA
 
 MEPEA (3-methoxy-4-ethoxyphenethylamine) is a phenethylamine with minimal psychedelic activity described in [[proscaline]], and the allyloxy analogue ([[al-entity]] - 3,5-dimethoxy-4-allyloxyphenethylamine, also from Leminger's work
 

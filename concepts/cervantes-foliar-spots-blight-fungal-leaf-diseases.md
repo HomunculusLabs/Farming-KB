@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Foliar Spots, Blight, and Fungal Leaf Diseases
+## Foliar Spots, Blight, and Fungal Leaf Diseases
 
 ## Overview
 

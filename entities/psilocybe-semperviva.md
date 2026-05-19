@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, european, entheogen, agaricales]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md]
+sources: ["raw/papers/magic-mushrooms-around-the-world-gartz.md"]
 ---
 
-# Psilocybe semperviva
+## Psilocybe semperviva
 
 **Psilocybe semperviva** is a rare psilocybin-containing mushroom species documented from Europe. The species name "semperviva" translates from Latin as "always living" or "evergreen," likely referring to its persistent fruiting habit or the resilient nature of its [[environmental-dna-sequencing-fungi]] revealing that many traditional species groups are polyphyletic.
 

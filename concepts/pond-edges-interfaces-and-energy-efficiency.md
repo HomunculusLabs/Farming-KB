@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Edges, Interfaces, and Energy Efficiency
+## Pond Edges, Interfaces, and Energy Efficiency
 
 ## Overview
 

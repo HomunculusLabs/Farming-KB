@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on the Complete Organic Fertilizer
+## Solomon on the Complete Organic Fertilizer
 
 From [[composting-science-solomon]]
 - [[intensive-gardening-critique-solomon]]

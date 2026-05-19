@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Jen-hu Chang
+## Jen-hu Chang
 
 ## Description
 

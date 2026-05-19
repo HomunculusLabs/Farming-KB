@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# Who Is Sepp Holzer and What Is His Method?
+## Who Is Sepp Holzer and What Is His Method?
 
 ## Short Answer
 

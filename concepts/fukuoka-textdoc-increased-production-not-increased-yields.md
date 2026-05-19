@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Increased Production Has Not Brought Increased Yields
+## Increased Production Has Not Brought Increased Yields
 
 ## Overview
 

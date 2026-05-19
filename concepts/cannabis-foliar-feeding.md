@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Foliar Feeding
+## Cannabis Foliar Feeding
 
 ## Overview
 

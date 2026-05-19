@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Lollipopping
+## Lollipopping
 
 Lollipopping is a defoliation and pruning technique performed just before or during the early weeks of flowering. The lower portion of the plant's branches is stripped of fan leaves and small bud sites, leaving the upper canopy full of foliage and bud development while the lower stems are bare like a lollipop stick. The technique redirects the plant's energy toward top colas that receive the most light, and eliminates the low-quality "popcorn" buds that form in shaded lower areas.
 

@@ -7,7 +7,7 @@ tags: [jadam, disease-prevention, microorganisms, soil-health, pesticide]
 sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
-# JADAM Crop Disease Prevention Methods
+## JADAM Crop Disease Prevention Methods
 
 JADAM's approach to crop disease prevention centers on a fundamental shift: from "disinfection" (killing pathogens) to "diversity" (crowding out pathogens through microbial population and diversity). This philosophy applies to both soil-borne and foliar diseases.
 

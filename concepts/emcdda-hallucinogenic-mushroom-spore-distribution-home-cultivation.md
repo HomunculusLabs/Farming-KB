@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Free Spore Ring and Home Cultivation Supply Chain
+## Free Spore Ring and Home Cultivation Supply Chain
 
 The European market for [[gottlieb-psilocybin-cultivation-equipment-and-facilities]] suppliers, and information
 resources that enabled home cultivation. A particularly

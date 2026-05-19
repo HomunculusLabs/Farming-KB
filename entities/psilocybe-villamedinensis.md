@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, neotropical-fungi, psychotropic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe villamedinensis
+## Psilocybe villamedinensis
 
 **Psilocybe villamedinensis** is a tropical [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] psilocybe-sect.-psilocybe, which encompasses the majority of bluing, psychoactive taxa in the genus. Molecular data for *P. villamedinensis* remain limited, and its phylogenetic position relative to other neotropical species has not been fully resolved.
 Preliminary molecular analyses suggest it may be closely related to other northern Andean species, forming a distinct lineage within the broader neotropical radiation of section Psilocybe. The taxonomic complexity of the [[spore]] maturity.

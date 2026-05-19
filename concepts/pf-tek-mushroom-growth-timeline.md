@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Mushroom Growth Timeline
+## PF TEK Mushroom Growth Timeline
 
 ## Overview
 

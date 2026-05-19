@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, entomopathogen, biocontrol, genetic-diversity, soil-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Beauveria bassiana
+## Beauveria bassiana
 
 **Type:** Species (Ascomycete)
 **Category:** Entomopathogenic Fungus / Biocontrol Agent

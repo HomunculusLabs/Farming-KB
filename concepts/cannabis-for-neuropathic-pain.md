@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Neuropathic Pain
+## Cannabis for Neuropathic Pain
 
 Neuropathic pain arises from damage to or dysfunction of the nervous system itself, distinguishing it from nociceptive pain (which results from tissue damage detected by sensory receptors). Cannabis has demonstrated particular efficacy for neuropathic pain, which is often chronic and resistant to conventional analgesics.
 

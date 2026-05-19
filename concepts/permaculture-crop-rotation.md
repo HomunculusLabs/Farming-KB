@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Permaculture Crop Rotation
+## Permaculture Crop Rotation
 
 Crop rotation is the practice of changing the location of plant families across growing areas from season to season.
 In permaculture, rotation is used to maintain soil fertility, break [[green-cannabis-grow-bible-nutrient-management-ppm]]** -- different crop families have different nutrient demands and contributions.

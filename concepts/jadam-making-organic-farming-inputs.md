@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Understanding and Making Organic Farming Inputs
+## JADAM Understanding and Making Organic Farming Inputs
 
 A central pillar of JADAM's ultra-low-cost agriculture system is the principle that farmers should make their own inputs rather than buy them. JADAM argues that the shift from making inputs to buying inputs is the primary reason organic farming became expensive, and that reversing this trend is essential for the future of agriculture.
 

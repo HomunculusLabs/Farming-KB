@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
 
-# Brassinosteroid Effects on Fungal Fruiting Body Morphology
+## Brassinosteroid Effects on Fungal Fruiting Body Morphology
 
 The Gartz, Adam, and Vorbrodt (1990) study revealed an unexpected
 finding beyond accelerated growth: [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]

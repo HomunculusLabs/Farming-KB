@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Basidiomycota and Basidiospore Biology
+## Basidiomycota and Basidiospore Biology
 
 The Basidiomycota is one of the major phyla of the fungal kingdom, comprising
 approximately 30,000 described species and an estimated 1.5 million species

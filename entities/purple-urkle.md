@@ -18,7 +18,7 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
 ---
 
-# Purple Urkle
+## Purple Urkle
 
 **Purple Urkle** (also written **Urkel**) is a legendary indica-dominant [[bubblegum]].
 

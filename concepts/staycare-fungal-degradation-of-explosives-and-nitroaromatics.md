@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Degradation of Explosives and Nitroaromatics
+## Fungal Degradation of Explosives and Nitroaromatics
 
 Nitroaromatic compounds are used in the manufacture of explosives,
 pesticides, pharmaceuticals, dyes, and plastics. They are commonly found

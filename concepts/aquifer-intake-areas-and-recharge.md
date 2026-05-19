@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquifer Intake Areas and Recharge
+## Aquifer Intake Areas and Recharge
 
 ## Overview
 

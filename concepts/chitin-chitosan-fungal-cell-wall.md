@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [mycology, biochemistry, chitin, chitosan, cell-wall, biopolymer, fungal-structure]
 ---
 
-# Chitin and Chitosan — Structural Biopolymers of Fungal Cell Walls
+## Chitin and Chitosan — Structural Biopolymers of Fungal Cell Walls
 
 ## Overview
 

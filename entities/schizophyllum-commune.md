@@ -5,7 +5,7 @@ type: entity
 tags: [species, basidiomycete, wood-decomposer, model-organism, radiocesium]
 ---
 
-# Schizophyllum commune
+## Schizophyllum commune
 
 ## Description
 

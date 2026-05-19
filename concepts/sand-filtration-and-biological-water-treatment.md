@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Sand Filtration and Biological Water Treatment
+## Sand Filtration and Biological Water Treatment
 
 Sand filtration and biological water treatment are foundational techniques for purifying drinking water and treating sewage using natural processes. These methods, drawn from [[eichhornia-crassipes]]*)
 

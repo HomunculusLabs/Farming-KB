@@ -19,7 +19,7 @@ tags:
   - argentinian-literature
 ---
 
-# Borges' Sect of the Phoenix and the Aleph as Tryptamine Secret Metaphors
+## Borges' Sect of the Phoenix and the Aleph as Tryptamine Secret Metaphors
 
 ## Overview
 

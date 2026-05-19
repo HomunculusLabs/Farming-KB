@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# permaculture crop for subtropical and
+## permaculture crop for subtropical and
 tropical food forests. Its long productive lifespan, extremely hard
 storage nuts, and high fat content make it both a commercial crop and
 a valuable food security tree. The ability to interplant with nitrogen-

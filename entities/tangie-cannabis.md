@@ -10,7 +10,7 @@ sources:
   - https://www.dnagenetics.com/tangie
 ---
 
-# Tangie
+## Tangie
 
 ## Overview
 

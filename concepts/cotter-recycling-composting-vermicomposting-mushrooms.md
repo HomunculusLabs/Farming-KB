@@ -10,7 +10,7 @@ sources: [~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# Recycling, Composting, and [[query-how-to-grow-oyster-mushrooms-at-home]] on spent coffee grounds is among the simplest
+## Recycling, Composting, and [[query-how-to-grow-oyster-mushrooms-at-home]] on spent coffee grounds is among the simplest
 recycling projects. If home brewing does not supply enough, local coffee shops
 and roasters often welcome the opportunity to divert grounds from trash.
 Unused grounds should be frozen to prevent mold. While yields are lower than

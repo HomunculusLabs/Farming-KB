@@ -7,7 +7,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 tags: [sterilization, microwaves, NASA, microbiology, decontamination]
 ---
 
-# Microwave Surface Sterilization
+## Microwave Surface Sterilization
 
 Microwave surface sterilization is a technique that uses microwave irradiation
 at 2.45 GHz to destroy microorganisms on contaminated surfaces. Developed

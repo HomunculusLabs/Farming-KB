@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Terpenoid Profiles
+## Cannabis Terpenoid Profiles
 
 Terpenoids (also called terpenes) are the aromatic compounds responsible for the distinctive scents and flavors of cannabis strains. Beyond their sensory qualities, terpenoids play a significant role in the therapeutic effects of cannabis through their interaction with the endocannabinoid system and other physiological pathways. More than 200 terpenoids have been identified in cannabis, contributing to the [[cannabis-cannabinoid-receptor-pharmacology]], making it functionally a dietary cannabinoid.
 

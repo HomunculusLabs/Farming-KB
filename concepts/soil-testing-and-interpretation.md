@@ -1,5 +1,5 @@
 ---
-title: Soil solomon-soil-testing-and-interpretation-low-input
+title: "Soil Testing And Interpretation"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Soil Testing and Interpretation
+## Soil Testing and Interpretation
 
 updated: 2026-04-18
 

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, ecology, botany, forest-ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
+sources: ["raw/papers/unknown-mushrooms-fungi-from-around-the-world.md"]
 type: concept
 ---
-# Ectomycorrhiza Ectomycorrhiza (ECM) is a form of symbiotic association between certain soil fungi and the roots of woody plants, primarily trees and shrubs in temperate, boreal, and some tropical forests. Unlike arbuscular mycorrhizae, ECM fungi do not penetrate root cells but instead form a sheath around the root tip and a network between root cells, creating an interface for nutrient exchange that is critical for forest ecosystem function. [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] in boreal and temperate forests is dominated by ECM
+## Ectomycorrhiza Ectomycorrhiza (ECM) is a form of symbiotic association between certain soil fungi and the roots of woody plants, primarily trees and shrubs in temperate, boreal, and some tropical forests. Unlike arbuscular mycorrhizae, ECM fungi do not penetrate root cells but instead form a sheath around the root tip and a network between root cells, creating an interface for nutrient exchange that is critical for forest ecosystem function. [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] in boreal and temperate forests is dominated by ECM
 fungi, which serve as the primary pathway for [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]], while later
 successional species in temperate and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and
 the competitive dynamics among tree species. ECM fungi can also inhibit the

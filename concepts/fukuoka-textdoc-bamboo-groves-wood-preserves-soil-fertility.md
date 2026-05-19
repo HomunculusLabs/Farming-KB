@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Bamboo Groves and Wood Preserves for Soil Fertility
+## Bamboo Groves and Wood Preserves for Soil Fertility
 
 Fukuoka regarded the woods and bamboo groves surrounding a [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]] of forested
 areas, bamboo groves, and shelterbelts that serve as both direct and indirect

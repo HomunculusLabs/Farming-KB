@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
-# Fungal Secondary Metabolites in the Environment Fungal secondary metabolites are chemically diverse compounds not directly required for growth but conferring ecological advantages. They mediate interactions with other organisms, protect against environmental stress, and have profound effects on ecosystem processes and human health. These metabolites are central to [[fungal-mineral-weathering]] and soil formation
+## Fungal Secondary Metabolites in the Environment Fungal secondary metabolites are chemically diverse compounds not directly required for growth but conferring ecological advantages. They mediate interactions with other organisms, protect against environmental stress, and have profound effects on ecosystem processes and human health. These metabolites are central to [[fungal-mineral-weathering]] and soil formation
 - **UV protection**: Polyphenolic compounds absorb UV radiation, transmitting longer wavelengths that support photosynthesis while protecting both fungal and photobiont cells
 - **Antimicrobial activity**: Lichen acids inhibit [[mycotoxins-and-human-health]] and [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], enabling emergence into air
 - **Spore hydrophobicity**: Render spores water-repellent, facilitating efficient aerial dispersal

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Passive Solar Heating - Building Design
+## Passive Solar Heating - Building Design
 
 Passive solar heating is a fundamental design strategy in Bill
 Mollison's Permaculture: A [[fukuoka-natural-farming-temperate-climates]]: south glazing area = 10-20% of floor area

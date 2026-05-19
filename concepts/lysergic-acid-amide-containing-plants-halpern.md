@@ -1,4 +1,8 @@
-# Lysergic Acid Amide (LSA) Containing Plants
+---
+title: "Lysergic Acid Amide (LSA) Containing Plants"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -143,8 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]]
-- [[lsd-lysergic-acid-diethylamide-experience-guide]]

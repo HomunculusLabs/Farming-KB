@@ -6,7 +6,7 @@ type: concept
 tags: [psychedelics]
 sources: []
 ---
-# Psychedelic Plant Sources
+## Psychedelic Plant Sources
 
 ## Overview
 

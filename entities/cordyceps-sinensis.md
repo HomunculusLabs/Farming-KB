@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Cordyceps sinensis
+## Cordyceps sinensis
 
 **Type:** Species
 **Category:** Medicinal fungus (Ascomycetes, Cordycipitaceae)

@@ -12,7 +12,7 @@ sources:
   - "raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md"
 type: concept
 ---
-# Trichome Development and Morphology
+## Trichome Development and Morphology
 [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] secretory cells. Each disc cell develops an
    extensive endoplasmic reticulum network and numerous lipid droplets
    containing cannabinoid and terpene precursors.

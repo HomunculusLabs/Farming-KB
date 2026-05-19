@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybe, neurotropic-fungi, psilocybin, species-diversity, biogeography, mycology]
 ---
 
-# Psilocybe as Dominant Neurotropic Fungus Genus
+## Psilocybe as Dominant Neurotropic Fungus Genus
 
 Psilocybe is by far the largest and most widely distributed genus of
 neurotropic fungi, accounting for 116 of the 216 species documented by

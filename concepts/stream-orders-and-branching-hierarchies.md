@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Stream Orders and Branching Hierarchies
+## Stream Orders and Branching Hierarchies
 
 ## Overview
 

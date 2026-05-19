@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# N-Arachidonoyl-dopamine (NADA)
+## N-Arachidonoyl-dopamine (NADA)
 
 **Type:** Chemical Compound (Endocannabinoid)
 **Category:** Endogenous Cannabinoid / Endovanilloid

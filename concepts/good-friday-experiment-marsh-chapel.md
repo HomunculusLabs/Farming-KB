@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Good Friday Experiment (Marsh Chapel)
+## Good Friday Experiment (Marsh Chapel)
 
 The Good Friday Experiment, also known as the Marsh Chapel Miracle, stands as one of the most significant and controversial psychological studies ever conducted.
 

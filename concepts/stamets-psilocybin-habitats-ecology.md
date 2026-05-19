@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Mushroom Habitats and Ecology (Stamets)
+## Psilocybin Mushroom Habitats and Ecology (Stamets)
 
 ## Targeting Six Classic Habitats
 

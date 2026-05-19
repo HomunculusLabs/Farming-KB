@@ -7,7 +7,7 @@ tags: [mycology, fungal-physiology, tropism, water-relations, mushroom-biology]
 wikilinks: [mushroom-tropisms, psilocybe-cubensis-development-stages, fungal-spore-dispersal]
 ---
 
-# Evaporative Demand Mechanism in Fungi
+## Evaporative Demand Mechanism in Fungi
 
 Evaporative demand—the rate at which water evaporates from a surface—is a central concept in understanding how fungi orient their growth. In mushrooms, differential evaporative demand across the surface of the stipe (stem) is the leading proposed mechanism for anemotropic (wind-directed) and phototropic (light-directed) growth responses. This concept unifies multiple tropic responses under a single physical framework.
 

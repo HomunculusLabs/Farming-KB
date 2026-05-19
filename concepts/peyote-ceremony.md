@@ -8,7 +8,7 @@ type: concept
 tags: [ceremony]
 ---
 
-# Peyote Ceremony
+## Peyote Ceremony
 
 The peyote ceremony is a ritual practice centered on the consumption
 of the

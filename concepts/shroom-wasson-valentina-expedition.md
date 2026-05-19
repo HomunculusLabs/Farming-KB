@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# R. Gordon Wasson and the Valentina Expedition
+## R. Gordon Wasson and the Valentina Expedition
 
 updated: 2026-04-24
 

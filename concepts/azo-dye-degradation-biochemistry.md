@@ -4,9 +4,9 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
-# Azo Dye Degradation Biochemistry
+## Azo Dye Degradation Biochemistry
 
 Updated: 2026-04-18
 

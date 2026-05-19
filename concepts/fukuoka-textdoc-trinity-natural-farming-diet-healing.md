@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# The Trinity of Natural Farming, Diet, and Healing
+## The Trinity of Natural Farming, Diet, and Healing
 
 ## Overview
 

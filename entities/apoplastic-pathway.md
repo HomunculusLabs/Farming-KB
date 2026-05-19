@@ -6,7 +6,7 @@ tags: [water-transport, plant-physiology, roots, nutrient-uptake, cell-biology]
 created: 2026-05-14
 ---
 
-# Apoplastic Pathway
+## Apoplastic Pathway
 
 ## Description
 

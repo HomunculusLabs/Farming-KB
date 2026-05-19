@@ -5,7 +5,7 @@ type: concept
 tags: [mycology, mushroom-formation, hyphae, fruiting-body, meristem, cell-differentiation, fungal-development, basidium]
 ---
 
-# Mushroom Formation Without Meristems: Hyphal Construction and Inflation
+## Mushroom Formation Without Meristems: Hyphal Construction and Inflation
 
 ## Overview
 

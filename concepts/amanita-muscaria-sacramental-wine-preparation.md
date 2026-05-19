@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria Sacramental Wine Preparation
+## Amanita Muscaria Sacramental Wine Preparation
 
 The sacramental wine preparation is one of the most sophisticated [[cultivator-sterile-technique-and-agar-culture]] (pasteurization) to produce a potent, alcohol-free, sulfite-free "living wine" through the gordon-wasson-mushroom-discovery cites reports of Siberian tribes who fermented Amanita muscaria with:
 

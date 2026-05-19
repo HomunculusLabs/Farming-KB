@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/purdue-home-gardeners-guide.md"
 ---
-# Garden Location and Soil Preparation
+## Garden Location and Soil Preparation
 
 Guidelines for selecting the best garden site and preparing soil for
 home [[fukuoka-creating-natural-farm-site-selection-establishment]] and soil preparation are foundational to a

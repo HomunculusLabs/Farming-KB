@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Aeroponics and Hydroponics for Cannabis?
+## What Is the Difference Between Aeroponics and Hydroponics for Cannabis?
 
 ## Short Answer
 

@@ -9,7 +9,7 @@ type: concept
 tags: [climate, fungi, mycelium]
 ---
 
-# Fungi and Climate Change — Mycelium Running
+## Fungi and Climate Change — Mycelium Running
 
 In "Mycelium Running," [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] of their host environment, food chains collapse and diseases emerge to cull the threatening population. Stamets believes partnering with mycelium can help restore balance. He envisions a hypothetical "United Organization of Organisms" where each species gets one vote -- and humans would likely be voted off the planet unless we act as a responsible species. Nature, he says, will not evict us if we act responsibly; our fungal friends equip us with tools to act responsibly and repair our shared environment.
 

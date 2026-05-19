@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fertilizer Critique - Detailed Analysis
+## Fertilizer Critique - Detailed Analysis
 
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 1 of "The [[cervantes-chemical-fertilizers-guide]] (problem 4) further degrades the soil ecosystem, making plants even more dependent on applied nutrients, which in turn increases acidification.
 

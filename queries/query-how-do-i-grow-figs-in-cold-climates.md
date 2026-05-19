@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Grow Figs in Cold Climates?
+## How Do I Grow Figs in Cold Climates?
 
 ## Short Answer
 

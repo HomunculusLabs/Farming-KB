@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DOET (HECATE)
+## DOET (HECATE)
 
 [[lsd]] or STP seriousness.
 >

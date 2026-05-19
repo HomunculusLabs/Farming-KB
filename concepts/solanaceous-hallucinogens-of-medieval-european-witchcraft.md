@@ -8,7 +8,7 @@ sources: ["papers/a-golden-guide-to-hallucinogenic-plants.md"]
 type: concept
 ---
 
-# Solanaceous Hallucinogens of Medieval European Witchcraft
+## Solanaceous Hallucinogens of Medieval European Witchcraft
 
 The nightshade family (Solanaceae) contributed several of the most
 important ingredients to the hallucinogenic brews and ointments of

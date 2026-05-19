@@ -7,7 +7,7 @@ tags: [entheogen, psychopharmacology, pharmacology, chemistry, therapy, safety, 
 sources: []
 ---
 
-# MDMA Reference
+## MDMA Reference
 
 MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
 

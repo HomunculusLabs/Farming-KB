@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# [[fukuoka-natural-orchard-development]] as it transitions from a wild, newly planted state to a productive system. The process involves correcting tree forms through selective formative pruning, managing weed succession as the orchard matures from brush to clover dominance, and constructing terraces to stabilize slopes and impr water management ment. This phase typically spans the first five to six years after planting and determines the long-term success or failure of the orchard.
+## [[fukuoka-natural-orchard-development]] as it transitions from a wild, newly planted state to a productive system. The process involves correcting tree forms through selective formative pruning, managing weed succession as the orchard matures from brush to clover dominance, and constructing terraces to stabilize slopes and impr water management ment. This phase typically spans the first five to six years after planting and determines the long-term success or failure of the orchard.
 
 ## Establishing the Orchard: Planting Methods
 

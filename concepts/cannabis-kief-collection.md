@@ -1,5 +1,5 @@
 ---
-title: comparison-cannabis-kief-collection-vs-hashish-guide Collection
+title: "Cannabis Kief Collection"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Kief Collection
+## Cannabis Kief Collection
 
 ## Overview
 

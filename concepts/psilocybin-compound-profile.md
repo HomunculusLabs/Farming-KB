@@ -9,7 +9,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
   - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
-# Psilocybin and Psilocin
+## Psilocybin and Psilocin
 
 ## Overview
 

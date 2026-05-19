@@ -13,7 +13,7 @@ tags:
   - plant-microbe-interactions
 ---
 
-# Mycorrhizal Heavy Metal Tolerance
+## Mycorrhizal Heavy Metal Tolerance
 
 [[mycorrhizal-fungi]] play a critical role in protecting host plants from heavy
 metal toxicity and enabling plant survival in contaminated soils. The

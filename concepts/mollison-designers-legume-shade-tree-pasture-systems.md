@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Legume Shade Tree Pasture Systems
+## Legume Shade Tree Pasture Systems
 
 Leguminous shade trees integrated into pastoral systems represent one of the
 most productive and ecologically beneficial forms of permaculture-designers-manual-bamboo, [[bill-mollison]] describes how nitrogen-fixing

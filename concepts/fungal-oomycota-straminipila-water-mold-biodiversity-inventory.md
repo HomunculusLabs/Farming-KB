@@ -9,7 +9,7 @@ tags:
   - plant-pathogens
 ---
 
-# Oomycota and Straminipila
+## Oomycota and Straminipila
 
 ## Reclassification from Kingdom Fungi
 

@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Cannabigerol (CBG)
+## Cannabigerol (CBG)
 
 **Type:** Chemical / Phytocannabinoid
 **Category:** Minor [[cannabis-indica]]. It is often called the "mother cannabinoid" or

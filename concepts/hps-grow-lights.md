@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# HPS Grow Lights
+## HPS Grow Lights
 
 High [[flowering-phase-cannabis]] of cannabis. HPS lamps produce an orange-red spectrum that promotes dense bud
 development and are the standard light source for commercial indoor [[cervantes-metal-halide-lighting-systems]] (MH), and High Pressure Sodium (HPS). Among these, 600-watt HPS

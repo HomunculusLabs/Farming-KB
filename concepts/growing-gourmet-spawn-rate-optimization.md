@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mushroom-cultivation, spawn, inoculation, yield-optimization, substrate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Spawn Rate Optimization in Mushroom Cultivation
+## Spawn Rate Optimization in Mushroom Cultivation
 
 Spawn rate, the ratio of [[biological-efficiency]], and
 overall economics. Finding the optimal spawn rate is a balance between

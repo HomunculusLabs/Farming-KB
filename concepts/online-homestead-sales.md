@@ -7,7 +7,7 @@ tags: [business, economics, homesteading, food, regulation, homestead-crafts]
 sources: []
 ---
 
-# Online Homestead Sales
+## Online Homestead Sales
 
 Selling homestead products online extends reach beyond local markets and creates passive [[homesteading-income-streams]]. Platforms like Etsy, Shopify, and social media enable direct-to-consumer sales of shelf-stable and value-added products. This guide covers platforms, shipping regulations, photography, and marketing.
 

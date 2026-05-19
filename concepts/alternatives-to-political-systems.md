@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Alternatives to Political Systems
+## Alternatives to Political Systems
 
 ## Overview
 

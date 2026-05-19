@@ -5,7 +5,7 @@ type: entity
 tags: [tree, legume, salt-tolerant, drought-tolerant, timber, fuel, africa]
 ---
 
-# Colophospermum mopane (Mopane)
+## Colophospermum mopane (Mopane)
 
 ## Description
 

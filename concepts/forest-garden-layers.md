@@ -7,7 +7,7 @@ tags: [permaculture, food-forest, plant-systems, guild, plants, ecology, success
 sources: []
 ---
 
-# Forest Garden Layers
+## Forest Garden Layers
 
 A forest garden (or [[food-forest|food forest]]) mimics the structure of a natural forest while producing food, medicine, fiber, and fuel. The core design concept is vertical stacking: occupying all seven ecological layers from canopy to underground, maximizing productivity per unit area. This plant-systems approach creates diverse, resilient, self-maintaining systems that require less input than conventional agriculture.
 

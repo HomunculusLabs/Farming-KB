@@ -1,7 +1,7 @@
 ---
 
 ---
-# Magic Mushrooms in European Folklore
+## Magic Mushrooms in European Folklore
 
 updated: 2026-04-24
 
@@ -44,7 +44,7 @@ the earth and on the moon respectively, as if no other plant could
 
 ## Merged: Amanita Muscaria in Celtic and European Folklore
 
-# Amanita Muscaria in Celtic and European Folklore
+## Amanita Muscaria in Celtic and European Folklore
 
 In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter argues that the Holy Grail legends originated not in medieval Christianity but in far older Celtic mythology, and that the archaeological record of the Beaker people provides physical evidence for a widespread Indo-European sacramental drink cult based on amanita-muscaria-herb-of-immortality-soma-hypothesis, a book of hymns composed by Seers and Sages, one of the largest and oldest texts in any Indo-European language. Book 9 of the Rig Veda is entirely about Soma, and Soma is mentioned in almost every hymn in the other books. The hymns were sung as the Soma was being prepared and were an integral part of the ceremony.
 

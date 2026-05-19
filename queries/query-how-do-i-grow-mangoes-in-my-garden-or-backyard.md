@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# How do I grow mangoes in my garden or backyard?
+## How do I grow mangoes in my garden or backyard?
 
 ## Short Answer
 

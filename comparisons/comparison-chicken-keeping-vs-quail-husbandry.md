@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Chicken Keeping vs Quail Husbandry
+## Chicken Keeping vs Quail Husbandry
 
 ## Overview
 

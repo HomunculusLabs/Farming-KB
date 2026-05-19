@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
-# Cannabis Phenotypes and Genetic Expression
+## Cannabis Phenotypes and Genetic Expression
 
 Phenotypic variation is one of the most important and challenging aspects of cannabis
 genetics. When a breeder creates a new cross, the resulting seeds produce plants that

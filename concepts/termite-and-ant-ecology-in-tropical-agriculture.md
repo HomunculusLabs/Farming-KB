@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Termite and Ant Ecology in Tropical Agriculture
+## Termite and Ant Ecology in Tropical Agriculture
 
 ## Overview
 

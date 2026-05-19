@@ -8,7 +8,7 @@ sources:
   - raw/papers/magic-mushrooms-around-the-world-gartz.md
 ---
 
-# Psilocybe natalensis
+## Psilocybe natalensis
 
 A psychoactive mushroom species first discovered in January 1994 in Natal Province, South Africa, by [[jochen-gartz]] and M. Smith. It was the first psychotropic Psilocybe species documented from southern Africa, published as *Psilocybe natalensis* Gartz, Reid, Ecker & Smith (1995) with the descriptor "the first indigenous blueing member of the Agaricales of South Africa" (*Integration*, 6, 29-34). See [[psilocybin-mushroom-chemistry]] for broader context and [[african-psilocybin-mushroom-guide]] for African species survey.
 

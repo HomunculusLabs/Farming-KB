@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Mycorrhizal Fungi Application and Food Web Integration
+## Mycorrhizal Fungi Application and Food Web Integration
 
 ## Terminology
 

@@ -7,7 +7,7 @@ tags: [homesteading, construction, homestead-crafts, preservation, tools]
 sources: []
 ---
 
-# Preserving Wood and Timber Framing
+## Preserving Wood and Timber Framing
 
 Timber framing is the traditional method of building structures using heavy timbers joined with mortise and tenon connections rather than dimensional lumber and nails. On a homestead, timber framing offers durability, aesthetic beauty, and the ability to work with locally harvested timber. This page covers joinery fundamentals, wood preservation treatments, and air drying methods.
 

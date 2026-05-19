@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fodder Pond Sequences and Polyculture Chains
+## Fodder Pond Sequences and Polyculture Chains
 
 [[fodder-pond-sequences]] are cascading series of interconnected ponds designed so that organisms and nutrients flow naturally from one pond to the next, with upstream ponds producing food for downstream ponds through trophic transfer. This design eliminates the need for purchased feed in extensive aquaculture systems by creating self-feeding polyculture chains where each pond stage supports the next.
 

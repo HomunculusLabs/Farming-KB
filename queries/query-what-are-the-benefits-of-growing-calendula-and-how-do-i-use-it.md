@@ -7,7 +7,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
-# What Are the Benefits of Growing Calendula and How Do I Use It?
+## What Are the Benefits of Growing Calendula and How Do I Use It?
 
 ## Short Answer
 

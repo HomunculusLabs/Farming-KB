@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 4-HO-MPT — TIHKAL #23
+## 4-HO-MPT — TIHKAL #23
 
 ## Compound Identity
 

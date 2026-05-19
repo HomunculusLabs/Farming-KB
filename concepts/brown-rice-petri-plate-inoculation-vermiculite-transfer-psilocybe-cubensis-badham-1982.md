@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Brown Rice Petri Plate Inoculation and Vermiculite Transfer
+## Brown Rice Petri Plate Inoculation and Vermiculite Transfer
 
 In his 1982 study of tropisms [[mushroom-cultivation-environmental-parameters]].
 

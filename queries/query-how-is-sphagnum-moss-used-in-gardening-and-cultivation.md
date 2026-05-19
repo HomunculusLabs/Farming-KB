@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How is sphagnum moss used in gardening and cultivation?
+## How is sphagnum moss used in gardening and cultivation?
 
 ## Short Answer
 

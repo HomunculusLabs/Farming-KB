@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Shamanic Powers Through Ayahuasca
+## Shamanic Powers Through Ayahuasca
 
 In Amazonian vegetalismo, [[amazonian-ayahuasca-purge-and-diet-practices]] more power to cleanse impurities in the
 stomach.

@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How Does Lacto-Fermentation Work for Food Preservation
+## How Does Lacto-Fermentation Work for Food Preservation
 
 ## Short Answer
 

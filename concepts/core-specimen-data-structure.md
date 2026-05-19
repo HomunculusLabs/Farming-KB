@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Core Specimen Data Structure
+## Core Specimen Data Structure
 
 A standardized data structure for fungal specimen databases, designed to capture
 taxonomic identification, geographic provenance, collection metadata, and

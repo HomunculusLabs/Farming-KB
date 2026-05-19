@@ -7,7 +7,7 @@ tags: [HID, metal-halide, HPS, PAR, lumens, foot-candles, grow-room, reflector, 
 created: 2026-05-11
 ---
 
-# Indoor Light Systems and Photometrics for Cannabis
+## Indoor Light Systems and Photometrics for Cannabis
 
 ## Photosynthetically Active Radiation (PAR)
 

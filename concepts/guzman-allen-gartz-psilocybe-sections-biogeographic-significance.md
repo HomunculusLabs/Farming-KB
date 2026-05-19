@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Intraspecific Sections and Their Biogeographic Significance
+## Psilocybe Intraspecific Sections and Their Biogeographic Significance
 
 The genus Psilocybe, as treated by Guzmán (1983, 1995), is organized
 into several intrageneric sections that carry profound biogeographic

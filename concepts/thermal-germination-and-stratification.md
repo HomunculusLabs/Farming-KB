@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Thermal Germination and Stratification
+## Thermal Germination and Stratification
 
 Seed germination and plant development are governed by a complex interplay of **temperature, light, moisture, and seasonal cues**. Understanding these mechanisms is essential for [[permaculture]] designers seeking to propagate plants effectively, select appropriate species for their climate, and work with — rather than against — natural biological processes.
 

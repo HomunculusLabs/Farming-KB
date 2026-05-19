@@ -5,7 +5,7 @@ tags: [aact, nitrogen, nitrate, amino-sugars, plant-nutrition, soil-food-web, el
 created: 2026-05-10
 ---
 
-# AACT Nitrogen Forms — Nitrate vs Amino Sugars in Plant Nutrition
+## AACT Nitrogen Forms — Nitrate vs Amino Sugars in Plant Nutrition
 
 ## Overview
 

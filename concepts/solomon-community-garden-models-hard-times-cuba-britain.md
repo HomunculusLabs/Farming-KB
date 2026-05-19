@@ -5,7 +5,7 @@ source_file: "gardening-when-it-counts-steve-solomon.md"
 topics: [community-garden, urban-agriculture, food-self-sufficiency, cuba, britain, allotment, hard-times-gardening, vegetable-production]
 ---
 
-# Community Garden Models for Hard Times
+## Community Garden Models for Hard Times
 
 ## Overview
 

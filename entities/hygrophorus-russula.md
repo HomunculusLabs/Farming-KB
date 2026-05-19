@@ -18,7 +18,7 @@ sources:
   - "Basso, M.T. (1999). Fungi Europaei, Vol. 1: Agaricus. Edizioni Candusso."
 ---
 
-# Hygrophorus russula
+## Hygrophorus russula
 
 Hygrophorus russula, commonly known as the rosy waxy cap or Russula-like waxy
 cap, is a medium to large basidiomycete fungus in the family Hygrophoraceae.

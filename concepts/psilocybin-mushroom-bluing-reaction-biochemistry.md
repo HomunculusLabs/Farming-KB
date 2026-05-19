@@ -4,7 +4,7 @@ source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
 
-# Psilocybin Mushroom Bluing Reaction — Biochemistry and Detection
+## Psilocybin Mushroom Bluing Reaction — Biochemistry and Detection
 
 The characteristic **blue-to-green discoloration** that develops in many psilocybin-containing mushrooms upon injury, handling, or with age is one of the most recognizable field features of psychoactive species. Despite its notoriety, the bluing reaction is poorly understood at the molecular level and is neither fully specific to psilocybin-containing species nor universally present in all such species.
 

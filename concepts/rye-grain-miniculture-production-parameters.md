@@ -20,7 +20,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Rye Grain Miniculture Production Parameters
+## Rye Grain Miniculture Production Parameters
 
 ## Overview
 

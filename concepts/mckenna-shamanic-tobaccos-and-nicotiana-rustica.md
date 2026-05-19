@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Shamanic Tobaccos and the Loss of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] involves a systematic dilution of their psychoactive power, transforming sacred plants into commodities of mere recreation.
+## Shamanic Tobaccos and the Loss of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] involves a systematic dilution of their psychoactive power, transforming sacred plants into commodities of mere recreation.
 
 ## Nicotiana Rustica in Mesoamerica
 

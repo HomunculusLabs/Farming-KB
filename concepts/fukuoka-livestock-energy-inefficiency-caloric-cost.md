@@ -5,7 +5,7 @@ tags: [natural-farming, livestock, energy-efficiency, agriculture-economics, fuk
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
 
-# Livestock Energy Inefficiency in Modern Agriculture
+## Livestock Energy Inefficiency in Modern Agriculture
 
 [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] in "The Natural Way of Farming," arguing that
 industrial animal agriculture is not merely inefficient but represents

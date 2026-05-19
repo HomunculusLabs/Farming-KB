@@ -5,10 +5,10 @@ type: person
 tags: [pharmacologist, mescaline-discovery, german-chemist, history-of-psychedelics, self-experimentation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+sources: ["raw/papers/hofmann-a-lsd-my-problem-child.md"]
 ---
 
-# Arthur Heffter
+## Arthur Heffter
 
 **Arthur Heffter** (June 15, 1859 – February 18, 1925) was a German pharmacologist and chemist who is widely regarded as the father of modern psychopharmacology. He is best known for being the first person to isolate and identify a psychoactive compound from a plant and self-administer it to study its effects — specifically **mescaline**, the active principle of the peyote cactus, which he isolated in 1897.
 

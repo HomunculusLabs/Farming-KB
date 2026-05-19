@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Growing Space Design and Fruiting Room Management
+## Growing Space Design and Fruiting Room Management
 
 ## Overview
 

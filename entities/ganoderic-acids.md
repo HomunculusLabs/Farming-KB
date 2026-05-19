@@ -20,7 +20,7 @@ sources:
   - Boh, B. (2013). "Ganoderma lucidum: a potential reishi-triterpenoids-pharmacology
 ---
 
-# Ganoderic Acids
+## Ganoderic Acids
 
 **Ganoderic acids** are a large family of **lanostane-type triterpenoids** found in *Ganoderma lucidum* (reishi/lingzhi mushroom) and related *Ganoderma* species. First isolated by Kubota and colleagues in 1982, ganoderic acids are among the most extensively studied triterpenoids from [[cannabis-therapeutic-index-overview]].
 

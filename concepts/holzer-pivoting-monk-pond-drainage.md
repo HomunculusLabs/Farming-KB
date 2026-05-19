@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Pivoting Monk - Pond Drainage Invention
+## Holzer Pivoting Monk - Pond Drainage Invention
 
 The Holzer Monk is a simple but cleverly designed mechanical device for
 controlling pond overflow and drainage. It was developed by [[comparison-sepp-holzer-vs-permaculture-design]] needed a system that would be self-cleaning, simple to

@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Phloem Transport of Sugars and Organic Compounds
+## Phloem Transport of Sugars and Organic Compounds
 
 The [[phloem]] is the plant's long-distance distribution system for the organic molecules synthesized during photosynthesis. While the [[xylem]] moves water and dissolved minerals upward in a unidirectional flow, the phloem operates **bidirectionally** — delivering sugars, amino acids, hormones, and signaling molecules from source tissues to sink tissues throughout the plant. This transport system is fundamental to plant growth, development, and survival, enabling communication between distant organs and coordinating the plant's response to environmental conditions.
 

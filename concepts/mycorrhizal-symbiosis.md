@@ -16,7 +16,7 @@ sources:
 created: 2026-05-10
 ---
 
-# Mycorrhizal Symbiosis
+## Mycorrhizal Symbiosis
 
 Mycorrhizal symbiosis represents one of the most widespread and ecologically significant mutualistic relationships on Earth, involving the intimate association between fungal hyphae and plant roots. An estimated 80-90% of all terrestrial plant species form mycorrhizal [[arbuscular-mycorrhizal-fungi]] over 400 million years ago, likely playing a critical role in the colonization of terrestrial environments.
 

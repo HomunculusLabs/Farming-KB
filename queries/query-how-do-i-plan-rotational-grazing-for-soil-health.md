@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How Do I Plan Rotational Grazing For Soil Health?
+## How Do I Plan Rotational Grazing For Soil Health?
 
 ## Short Answer
 

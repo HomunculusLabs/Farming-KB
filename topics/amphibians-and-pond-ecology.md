@@ -20,7 +20,7 @@ sources:
   - Gibbons, J.W. et al. (2006). "The Global Decline of Reptiles, Déjà Vu Amphibians." BioScience, 56(8), 598-607.
 ---
 
-# Amphibians and Pond Ecology
+## Amphibians and Pond Ecology
 
 ## Introduction
 

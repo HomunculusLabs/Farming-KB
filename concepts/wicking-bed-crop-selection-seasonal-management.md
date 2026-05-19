@@ -1,4 +1,8 @@
-# Wicking Bed Crop Selection and Seasonal Management
+---
+title: "Wicking Bed Crop Selection and Seasonal Management"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[comparison-wicking-bed-vs-container-gardening]]
-- [[comparison-wicking-bed-vs-raised-bed]]
-- [[query-how-do-i-build-a-wicking-bed-for-my-garden]]

@@ -1,4 +1,8 @@
-# MAOI-Tryptamine Pharmacodynamic Synergy and Beta-Carboline Potentiation
+---
+title: "MAOI-Tryptamine Pharmacodynamic Synergy and Beta-Carboline Potentiation"
+tags:
+  - concept
+---
 
 ## Overview
 

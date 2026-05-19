@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# DWC vs Coco Coir vs Soil: Which Growing Medium Is Right for Cannabis
+## DWC vs Coco Coir vs Soil: Which Growing Medium Is Right for Cannabis
 
 ## Short Answer
 Soil is the most forgiving and beginner-friendly medium, offering natural nutrient

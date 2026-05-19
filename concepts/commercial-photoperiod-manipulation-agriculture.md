@@ -6,7 +6,7 @@ topics: [agriculture, photoperiodism, flowering, greenhouse, commercial-farming,
 created: 2026-05-09
 ---
 
-# Commercial Photoperiod Manipulation in Agriculture
+## Commercial Photoperiod Manipulation in Agriculture
 
 ## From Discovery to Application
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Condensation Strategies for Drylands
+## Condensation Strategies for Drylands
 
 Where no piped water is available and water is in seriously short supply, trees and gardens require condensation strategies. The aim is to condense water from night air, from transpired moisture, or from weeds and trimmings, and return it to root level for reuse. These strategies bridge the gap between zero irrigation and full drip systems, often making the difference between plant survival and death in extreme environments.
 

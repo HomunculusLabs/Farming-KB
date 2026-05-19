@@ -5,7 +5,7 @@ type: entity
 tags: [person, engineer, nitrogen-fixation, history-of-science, industrial-chemistry]
 ---
 
-# Carl Bosch
+## Carl Bosch
 
 ## Description
 

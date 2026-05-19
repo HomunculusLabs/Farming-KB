@@ -6,7 +6,7 @@ tags: [endorhiza, endophytes, cannabis, root-colonization, microbiome]
 created: 2026-05-08
 ---
 
-# Endorhiza Endophytic Bacteria
+## Endorhiza Endophytic Bacteria
 
 ## Overview
 

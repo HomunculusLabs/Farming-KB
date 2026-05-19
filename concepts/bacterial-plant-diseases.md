@@ -7,7 +7,7 @@ tags: [bacteria, pathogens, troubleshooting, plants, gardening, pest-control, cu
 sources: []
 ---
 
-# Bacterial Plant Diseases
+## Bacterial Plant Diseases
 
 Bacterial plant diseases are caused by single-celled organisms that enter plants through wounds, natural openings (stomata, hydathodes), or are transmitted by insect vectors. Unlike fungi, bacteria require moisture or water films to spread and infect. They are particularly problematic in warm, wet conditions and can be devastating in greenhouse environments where humidity is high.
 

@@ -1,12 +1,12 @@
 ---
-title: harner-amazonian-ayahuasca-preparation-methods Methods
+title: "Ayahuasca Preparation Methods"
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
 sources: []
 ---
-# Ayahuasca Preparation Methods
+## Ayahuasca Preparation Methods
 
 Ayahuasca is a brew made from two principal plants: Banisteriopsis caapi (the MAOI-containing vine) and Psychotria viridis or Diplopterys cabrerana (the DMT-containing leaf). The combination allows oral DMT to be psychoactive — normally DMT is inactive orally because monoamine oxidase (MAO) in the gut destroys it. See [[kava-traditional-preparation-ceremonial-context]] is always ceremonial, with an experienced facilitator (curandero/ayahuasquero)
 - Icaros (medicine songs) are integral to the experience

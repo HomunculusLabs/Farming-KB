@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Growing Globe Artichokes
+## Growing Globe Artichokes
 
 Updated: 2026-04-18
 

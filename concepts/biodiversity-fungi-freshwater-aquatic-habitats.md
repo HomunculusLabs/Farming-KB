@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungi in Freshwater Aquatic Habitats
+## Fungi in Freshwater Aquatic Habitats
 
 Freshwater habitats support a diverse assemblage of true fungi and
 fungus-like straminipiles and protists. Fungi are found in all types of

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, metagenomics, methodology, environmental-dna-sequencing-fungi
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Environmental DNA Metabarcoding for Fungal Diversity
+## Environmental DNA Metabarcoding for Fungal Diversity
 
 Environmental DNA (eDNA) metabarcoding has revolutionized the study of fungal
 biodiversity. By extracting and sequencing DNA directly from environmental

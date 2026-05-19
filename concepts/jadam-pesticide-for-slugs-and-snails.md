@@ -18,7 +18,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Pesticide for Slugs and Snails
+## JADAM Pesticide for Slugs and Snails
 
 JADAM's slug/snail control uses [[jadam-wetting-agent-jwa]] combined with sodium hydroxide (caustic soda/NaOH). This is a corrosive formulation -- the only JADAM pesticide that requires skin protection during application. Developed by Youngsang Cho.
 

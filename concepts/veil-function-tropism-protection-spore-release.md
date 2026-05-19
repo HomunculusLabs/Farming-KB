@@ -4,7 +4,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Veil Function in Mushroom Tropism and Spore Release Protection
+## Veil Function in Mushroom Tropism and Spore Release Protection
 
 ## Overview
 

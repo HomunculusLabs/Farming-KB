@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, environment, humidity, cultivation, pf-tek]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
+sources: ["raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"]
 type: concept
 ---
-# Fruiting Chamber A **fruiting chamber** is an enclosed environment designed to provide the specific conditions that trigger [[pf-tek]]
+## Fruiting Chamber A **fruiting chamber** is an enclosed environment designed to provide the specific conditions that trigger [[pf-tek]]
 method, fruiting chambers are where the colonized substrate cakes are placed
 after being removed from their jars (a process called "birthing"). The chamber
 must replicate [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] perlite layer creates a microclimate of

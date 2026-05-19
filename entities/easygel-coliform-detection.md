@@ -5,7 +5,7 @@ type: entity
 tags: [technique, testing, coliform, water-quality, mycoremediation]
 ---
 
-# EasyGel Coliform Detection
+## EasyGel Coliform Detection
 
 ## Description
 

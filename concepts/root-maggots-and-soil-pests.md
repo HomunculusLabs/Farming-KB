@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Root Maggots and Soil Pests
+## Root Maggots and Soil Pests
 
 Root maggots are among the most frustrating garden pests because they operate underground, hidden from view. By the time damage is visible above ground — wilting, stunting, or collapse — it's often too late for effective treatment. Prevention is far more effective than cure.
 

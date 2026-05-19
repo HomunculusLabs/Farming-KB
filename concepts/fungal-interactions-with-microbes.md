@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, microbes, ecology]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md]
 ---
 
-# Fungal Interactions with Microbes
+## Fungal Interactions with Microbes
 
 Fungi in soil and other environments engage in complex interactions with bacteria, other fungi, viruses, and microfauna. These interactions shape microbial community composition, nutrient cycling, plant health, and ecosystem function. Understanding these interactions is key to managing soil health and applying biological controls.
 

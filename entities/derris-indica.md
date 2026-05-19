@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Derris indica
+## Derris indica
 
 **Type:** Species
 **Category:** Medium deciduous [[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]

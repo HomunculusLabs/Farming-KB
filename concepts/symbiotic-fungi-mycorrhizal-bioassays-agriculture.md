@@ -7,7 +7,7 @@ tags: [mycorrhizal, agriculture, research-methods, lab-technique]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Mycorrhizal Bioassays for Soil Health Assessment in Agriculture
+## Mycorrhizal Bioassays for Soil Health Assessment in Agriculture
 
 Updated: 2026-04-18
 

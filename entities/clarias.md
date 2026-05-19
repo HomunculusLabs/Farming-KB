@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, freshwater, air-breathing, catfish, permaculture]
 ---
 
-# Clarias (Walking Catfish)
+## Clarias (Walking Catfish)
 
 ## Description
 *Clarias* is a genus of air-breathing catfish in the family Clariidae, native to Africa and Asia. Several species are critically important in tropical aquaculture, particularly in Southeast Asia, due to their remarkable ability to survive in oxygen-depleted waters using a specialised labyrinth organ. This makes them ideal for low-input, stagnant pond culture and integrated rice-fish farming systems.

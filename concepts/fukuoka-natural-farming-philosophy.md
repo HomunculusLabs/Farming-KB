@@ -1,5 +1,5 @@
 ---
-title: masanobu-fukuoka-natural-farming-philosophy fukuoka-do-nothing-farming-philosophy-and-practice
+title: "Fukuoka Natural Farming Philosophy"
 created: 2026-05-09
 tags: [farming, philosophy, permaculture, buddhism, ecology]
 date: 2026-05-09
@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka Natural Farming Philosophy
+## Fukuoka Natural Farming Philosophy
 
 [[hamilton-organic-fertilizers-and-plant-nutrition]] alike are unnecessary when a living
    soil ecosystem is maintained. Plants receive their nutrition through the synergistic

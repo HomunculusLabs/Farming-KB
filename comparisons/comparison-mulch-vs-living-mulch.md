@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Mulch vs Living Mulch
+## Mulch vs Living Mulch
 
 ## Overview
 

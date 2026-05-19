@@ -9,7 +9,7 @@ sources:
   - raw/papers/chos-global-natural-farming.md
 ---
 
-# KNF FPJ Ratio Guide
+## KNF FPJ Ratio Guide
 
 [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) both follow the same fundamental [[fungal-fruiting-body-mechanics-osmotic-pressure]] [[lemon-cannabis-alchemy-high-volume-extraction-method]]. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
 

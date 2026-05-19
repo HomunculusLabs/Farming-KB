@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Anandamide and Endogenous Cannabinoids
+## Anandamide and Endogenous Cannabinoids
 
 Anandamide (N-arachidonoylethanolamine or AEA) is the primary endogenous
 cannabinoid, meaning it is a cannabinoid-like molecule produced naturally

@@ -5,7 +5,7 @@ tags: [aact, compost-tea, brew-duration, timing, microbial-activity, elaine-ingh
 created: 2026-05-10
 ---
 
-# AACT Brew Duration and Timing Optimization
+## AACT Brew Duration and Timing Optimization
 
 ## Overview
 

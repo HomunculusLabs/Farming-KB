@@ -1,4 +1,8 @@
-# Stropharia cubensis (Psilocybe cubensis) — The Ur Plant
+---
+title: "Stropharia cubensis (Psilocybe cubensis) — The Ur Plant"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [person, physician, clinician, antidote, pennsylvania]
 ---
 
-# Dr. S. E. Shadle
+## Dr. S. E. Shadle
 
 ## Description
 

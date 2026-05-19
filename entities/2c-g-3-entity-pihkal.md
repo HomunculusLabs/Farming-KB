@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-G-3
+## 2C-G-3
 
 [[scythian-cannabis-steam-bath-ritual]]. There was a vigorous evolution of gases, which
 largely quieted down after some 4 h of heating. The reaction mixture

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I choose a hydroponic system for cannabis or vegetables?
+## How do I choose a hydroponic system for cannabis or vegetables?
 
 ## Short Answer
 

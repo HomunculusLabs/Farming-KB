@@ -8,7 +8,7 @@ sources: [papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: query
 ---
 
-# What Is Biodynamic Agriculture and How Does It Differ from Organic Farming?
+## What Is Biodynamic Agriculture and How Does It Differ from Organic Farming?
 
 ## Short Answer
 Biodynamic agriculture is a holistic farming approach developed by Rudolf Steiner in

@@ -5,11 +5,11 @@ tags: [stropharia-cubensis, extraterrestrial, panspermia, spores,
       mckenna, mushroom, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+sources: ["raw/papers/mckenna_t-tryptamines_consciousness.md"]
 type: concept
 ---
 
-# Stropharia Cubensis Extraterrestrial Hypothesis
+## Stropharia Cubensis Extraterrestrial Hypothesis
 
 One of [[terence-mckenna]]'s most controversial proposals is that the
 psilocybin-containing mushroom [[stropharia-cubensis]] may not have evolved

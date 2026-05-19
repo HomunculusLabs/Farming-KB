@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Tree Energy Transactions
+## Tree Energy Transactions
 
 Chapter 6 of the Designers' Manual is devoted to the complex interactions between trees and the incoming energies of radiation, precipitation, and wind. Mollison states: "I hope to show the immense value of trees to the biosphere." This chapter represents one of the most thorough treatments of tree-environment interactions in the permaculture literature.
 

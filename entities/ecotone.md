@@ -5,7 +5,7 @@ type: entity
 tags: [concept, ecology, biodiversity, edge, landscape, biogeography]
 ---
 
-# Ecotone
+## Ecotone
 
 ## Description
 

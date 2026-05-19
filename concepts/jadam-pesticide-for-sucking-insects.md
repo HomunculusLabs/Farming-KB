@@ -19,7 +19,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Pesticide for Sucking Insects
+## JADAM Pesticide for Sucking Insects
 
 Stinkbugs, thrips, whiteflies, leafhoppers, planthoppers, and fruit flies require the strongest JADAM pesticide formulations. These tough-shelled insects resist basic treatments and need high concentrations of [[jadam-wetting-agent-jwa]] combined with potent [[jadam-herb-solution-jhs]] (Korean pasque flower root or gingko).
 

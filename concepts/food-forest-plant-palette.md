@@ -22,7 +22,7 @@ sources:
 - raw/papers/bill-mollison-permaculture-design-course.md
 ---
 
-# Food Forest Plant Palette
+## Food Forest Plant Palette
 
 Comprehensive plant palette tables, case studies, and practical tips for food forest design. See [[food-forest-design]] for design process, layers overview, and guild design.
 

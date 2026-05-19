@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Building Roundwood Shelters and Earth Cellars
+## Building Roundwood Shelters and Earth Cellars
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 

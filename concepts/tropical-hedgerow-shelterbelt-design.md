@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Hedgerow and [[tropical-house-design-cooling-strategies|design|Shelterbelt]] Design
+## Tropical Hedgerow and [[tropical-house-design-cooling-strategies|design|Shelterbelt]] Design
 
 Tropical hedgerow and shelterbelt design is a fundamental permaculture practice for establishing wind protection, microclimate creation, soil stabilization, and wildlife habitat on tropical and subtropical farms. While hedgerow traditions are well-developed in temperate zones (where they arose from enclosures of common lands), the rapid degradation of tropical landscapes has made pioneer hedgerow a priority theme for tropical coasts and hill country.
 

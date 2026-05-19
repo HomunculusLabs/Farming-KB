@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Lion's Mane and Brick Top — Cultivation and Identification
+## Lion's Mane and Brick Top — Cultivation and Identification
 
 Lion's mane (*Hericium* spp.) and brick top (*Hypholoma* spp.) represent two distinct approaches to
 specialty [[mushroom-cultivation]]. Lion's mane is a highly prized edible with remarkable neurological

@@ -7,7 +7,7 @@ tags: [construction, homesteading, permaculture, sustainability]
 sources: []
 ---
 
-# Earth Plaster and Natural Finishes
+## Earth Plaster and Natural Finishes
 
 Natural [[natural-plasters-and-earthen-wall-finishes]] protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
 

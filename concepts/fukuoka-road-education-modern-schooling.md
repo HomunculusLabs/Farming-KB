@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
-# Fukuoka on Education and Modern Schooling
+## Fukuoka on Education and Modern Schooling
 
 In  offers pointed observations about the failures of modern education and proposes alternatives rooted in direct experience of nature. His critique extends from conventional classrooms to universities and connects to his broader [[comparison-natural-farming-vs-permaculture]] methods. When he talked with them, he learned "that their mother, who lives in Kobe, had sent them here, saying that Japanese high schools are decaying." Fukuoka was "astounded and impressed" — "the simple, rustic life that Japanese people have forgotten is still to be found in America's countryside."
 

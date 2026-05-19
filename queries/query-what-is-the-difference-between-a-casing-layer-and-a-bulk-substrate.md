@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# What Is the Difference Between a Casing Layer and a Bulk Substrate?
+## What Is the Difference Between a Casing Layer and a Bulk Substrate?
 ## Short Answer
 A bulk substrate is a nutritious material like [[accessible-mushroom-cultivation-for-disabilities]].
 Yet it is one of the most commonly confused concepts among newer growers entering the hobby.

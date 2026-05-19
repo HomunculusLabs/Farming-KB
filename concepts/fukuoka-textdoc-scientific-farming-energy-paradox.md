@@ -10,7 +10,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of five
+## [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of five
 different rice production methods. [[dmt-containing-plants-united-states-halpern]] that U.S. farmers
 working 500 to 700 acres have smaller net incomes than Japanese farmers on 3 to
 5 acres. This demonstrates that large-scale, energy-intensive monoculture is

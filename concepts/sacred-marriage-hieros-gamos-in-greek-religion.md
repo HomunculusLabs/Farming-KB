@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Sacred Marriage Hieros Gamos in Greek Religion
+## Sacred Marriage Hieros Gamos in Greek Religion
 
 The hieros gamos (sacred marriage) was a ritual concept central to several Greek religious traditions, most prominently connected with the myth and rites of Demeter and Persephone at the [[allegro-death-and-resurrection-in-the-mushroom-cult]], parallels the Greek pattern.
 

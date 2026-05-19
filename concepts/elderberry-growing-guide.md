@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, pruning, harvesting, pro
 sources: []
 ---
 
-# Elderberry Growing Guide (Sambucus nigra / S. canadensis)
+## Elderberry Growing Guide (Sambucus nigra / S. canadensis)
 
 ## Overview
 

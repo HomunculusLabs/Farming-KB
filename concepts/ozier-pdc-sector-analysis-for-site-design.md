@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Sector Analysis for Site Design
+## Sector Analysis for Site Design
 
 Permaculture sectors are an analytical tool to help designers
 understand the flow of forces across a site. A sector analysis

@@ -5,7 +5,7 @@ tags: [soil-crusts, cyanobacteria, desert-ecology, soil-health, permaculture, ni
 type: query
 ---
 
-# How Do Biological Soil Crusts Form and Why Do They Matter?
+## How Do Biological Soil Crusts Form and Why Do They Matter?
 
 Biological soil crusts — also called cryptogamic, microbiotic, or cryptobiotic crusts — are living ground covers found in arid and semi-arid regions worldwide.
 

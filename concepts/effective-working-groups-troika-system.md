@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Effective Working Groups and the Troika System
+## Effective Working Groups and the Troika System
 
 ## Overview
 

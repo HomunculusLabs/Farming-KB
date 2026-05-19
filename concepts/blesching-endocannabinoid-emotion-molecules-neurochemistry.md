@@ -14,7 +14,7 @@ related:
   - endocannabinoid-system-overview
 created: 2026-05-10
 ---
-# Endocannabinoid System and the Biology of Emotions
+## Endocannabinoid System and the Biology of Emotions
 ## Overview
 All mammals possess an endocannabinoid system (ECS), a biological regulatory
 mechanism identified in 1990 that operates like a lock-and-key system. The ECS

@@ -23,7 +23,7 @@ sources:
   - "https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=130753"
 ---
 
-# Sarcodon scabrosus (Bitter Hedgehog)
+## Sarcodon scabrosus (Bitter Hedgehog)
 
 **Sarcodon scabrosus** (Fr.) P. Karst., commonly known as the **bitter hedgehog mushroom** or **scaly tooth**, is a basidiomycete fungus in the family **Bankeraceae** (order Thelephorales). It is an ectomycorrhizal species strongly associated with coniferous forests, particularly spruce (*Picea* spp.). The species is noted for its extremely bitter taste, which renders it inedible despite its robust appearance. The epithet *scabrosus* means "rough" or "scabby" in Latin, referring to the prominently scaly cap surface.
 

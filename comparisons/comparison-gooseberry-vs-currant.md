@@ -23,7 +23,7 @@ type: comparison
 created: 2026-05-03
 ---
 
-# Gooseberry vs Currant Cultivation Comparison
+## Gooseberry vs Currant Cultivation Comparison
 
 Both gooseberries (*Ribes uva-crispa* / *R. hirtellum*) and currants (*Ribes rubrum*, *R. nigrum*, *R. petraeum*) belong to the genus *Ribes* and share many cultural requirements, but they differ significantly in fruit characteristics, culinary uses, disease susceptibility, and market appeal. This comparison helps growers choose between these closely related berries.
 

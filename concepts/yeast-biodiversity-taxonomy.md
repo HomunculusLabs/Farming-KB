@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Yeast Biodiversity and Taxonomy
+## Yeast Biodiversity and Taxonomy
 
 Yeast biodiversity encompasses the remarkable variety of unicellular fungi distributed across virtually every habitat on Earth. Drawing from the foundational work of Kurtzman and Fell (Chapter 16), this page addresses the taxonomic status of yeasts, their phylogenetic distribution across the fungal kingdom, global distribution patterns, and the methodological approaches used to collect, isolate, and characterize these organisms. Yeasts play critical roles in natural ecosystems as decomposers, symbionts, and pathogens, and their study is essential for fields ranging from industrial biotechnology to clinical medicine.
 

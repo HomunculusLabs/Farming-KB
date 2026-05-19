@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Competition and Resource Partitioning in Soil
+## Fungal Competition and Resource Partitioning in Soil
 
 Fungal species compete for available resources including food, space, and
 nutrients. The outcome of competitive interactions determines which species

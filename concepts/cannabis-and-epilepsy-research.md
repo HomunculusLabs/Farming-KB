@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Epilepsy Research (Status Epilepticus)
+## Cannabis and Epilepsy Research (Status Epilepticus)
 
 **Source:** Uwe Blesching, The [[cannabis-minor-cannabinoids]] like CBDV (cannabidivarin) may offer additional benefits, as CBDV has shown anticonvulsant activity in pre-clinical models
 

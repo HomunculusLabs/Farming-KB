@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Light Spectrum Effects on Fruiting
+## Light Spectrum Effects on Fruiting
 
 Many [[accessible-mushroom-cultivation-for-disabilities]] varies
 significantly by species: some species like [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: Diffuse natural light or 12-16 hours/day of

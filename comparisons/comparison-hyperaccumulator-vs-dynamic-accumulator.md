@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Hyperaccumulator vs Dynamic Accumulator
+## Hyperaccumulator vs Dynamic Accumulator
 
 ## Overview
 

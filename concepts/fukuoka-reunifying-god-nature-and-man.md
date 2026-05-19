@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka on Reunifying God, Nature, and Man
+## Fukuoka on Reunifying God, Nature, and Man
 
 ## Overview
 

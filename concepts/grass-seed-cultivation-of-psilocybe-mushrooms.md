@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Grass Seed Cultivation of Psilocybe Mushrooms
+## Grass Seed Cultivation of Psilocybe Mushrooms
 
 Grass seed is a versatile substrate for cultivating Psilocybe species,
 supporting both mushroom fruitbody production and [[mushroom-casing-layers]] layer or fruiting conditions.

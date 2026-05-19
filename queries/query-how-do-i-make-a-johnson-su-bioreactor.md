@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Make a Johnson-Su Bioreactor
+## How Do I Make a Johnson-Su Bioreactor
 
 ## Short Answer
 The Johnson-Su bioreactor is a passive, aerobic composting system designed by Dr. David Johnson and Hui-Chun Su that

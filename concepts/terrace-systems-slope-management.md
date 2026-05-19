@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[permaculture-design]], terraces represent one of the most fundamental strategies for slope management, allowing steep and marginal land to become productive food-growing areas.
+## [[permaculture-design]], terraces represent one of the most fundamental strategies for slope management, allowing steep and marginal land to become productive food-growing areas.
 
 ## Overview
 

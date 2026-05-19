@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Tree Canopy Fungal Sampling — Techniques for Accessing Upper Forest
+## Tree Canopy Fungal Sampling — Techniques for Accessing Upper Forest
 
 To obtain a full species list of fungi in a forest, sampling must extend many meters above the ground. The upper canopy hosts unique microclimates and [[fungal-ecology-forest-floor]]. This chapter reviews techniques for accessing and sampling tree canopies.
 

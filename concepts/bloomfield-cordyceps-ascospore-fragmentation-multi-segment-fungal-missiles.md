@@ -20,7 +20,7 @@ tags:
 created: 2026-05-10
 ---
 
-# Cordyceps Ascospore Fragmentation — Multi-Segment Fungal Missiles
+## Cordyceps Ascospore Fragmentation — Multi-Segment Fungal Missiles
 
 Among the many extraordinary adaptations that distinguish *Cordyceps*
 from other fungi, one of the most remarkable is the design of its

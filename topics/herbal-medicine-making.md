@@ -45,7 +45,7 @@ related_concepts:
   - herbal-plant-remedies
 ---
 
-# Herbal Medicine Making
+## Herbal Medicine Making
 
 Herbal medicine making is the practice of transforming medicinal plants into
 therapeutic preparations through extraction, formulation, and preservation

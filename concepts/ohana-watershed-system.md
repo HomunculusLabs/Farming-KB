@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Ohana Watershed System
+## Ohana Watershed System
 
 The ancient Hawaiian land division known as the Ohana system is, in Mollison's view, one of the most sophisticated and complete examples of integrated permaculture-community-scale-design that sustained large populations for centuries before European contact.
 

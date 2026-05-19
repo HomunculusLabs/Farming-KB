@@ -9,7 +9,7 @@ sources:
   - "raw/papers/working-with-agar.md"
 ---
 
-# Mushroom Genetics and Strain Selection
+## Mushroom Genetics and Strain Selection
 
 Understanding [[fungal-genetics]] is essential for selecting productive, stable cultures and maintaining genetic quality over generations. Unlike plants, fungi have unique reproductive strategies — including heterokaryosis [[basidiomycete-sexual-reproduction-and-clamp-connections]] — that shape how traits are inherited and expressed.
 

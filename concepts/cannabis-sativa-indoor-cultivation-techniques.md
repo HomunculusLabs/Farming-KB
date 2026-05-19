@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [cannabis, indoor-growing, sativa, cultivation, grow-room]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md]
+sources: ["raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md"]
 type: concept
 ---
-# Cannabis Sativa Indoor Cultivation Techniques
+## Cannabis Sativa Indoor Cultivation Techniques
 ## Overview
 Growing [[cannabis-sativa-flowering-cycle-management]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

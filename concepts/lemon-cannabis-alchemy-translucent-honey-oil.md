@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Preparation of Translucent (Honey) Oil
+## Preparation of Translucent (Honey) Oil
 
 Chapter 8 of *[[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-direct-vaporization]]

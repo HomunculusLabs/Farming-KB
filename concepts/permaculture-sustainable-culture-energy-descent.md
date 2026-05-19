@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture, Sustainable Culture, and Energy Descent
+## Permaculture, Sustainable Culture, and Energy Descent
 
 This page covers Holmgren's analysis of the cultural transition from industrial to sustainable society, the dynamics of energy descent, and the conceptual frameworks for understanding how [[permaculture-principles]] guide this transition. The central argument is that sustainability is not a stable end-state but a process of adaptation to declining energy availability.
 

@@ -15,7 +15,7 @@ tags:
 created: 2026-05-11
 ---
 
-# Fatal and Severe Incident Cases Involving Hallucinogenic Mushrooms in Europe
+## Fatal and Severe Incident Cases Involving Hallucinogenic Mushrooms in Europe
 
 ## Overview
 

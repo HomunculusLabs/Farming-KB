@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Chicken Tractor vs Free Range
+## Chicken Tractor vs Free Range
 
 A comparison of two poultry management strategies for homestead and garden integration.
 

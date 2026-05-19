@@ -16,7 +16,7 @@ sources:
   - Taliev, V.I. (1954). "Flora of Murmansk Oblast." Academy of Sciences USSR.
 ---
 
-# Primula stricta
+## Primula stricta
 
 ## Overview
 

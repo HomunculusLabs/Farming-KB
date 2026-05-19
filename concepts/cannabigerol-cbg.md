@@ -5,7 +5,7 @@ tags: [cannabinoid, minor-cannabinoid, cbg, cannabis, anti-inflammatory]
 created: 2025-06-13
 ---
 
-# Cannabigerol (CBG)
+## Cannabigerol (CBG)
 
 Cannabigerol (CBG) is a non-psychoactive cannabinoid found in the cannabis plant, often called the "mother cannabinoid" because it serves as the biochemical precursor from which all other cannabinoids are synthesized. In the living cannabis plant, CBG exists primarily as its acidic form, cannabigerolic acid (CBGA), which is enzymatically converted by specific synthase enzymes into THCA, CBDA, and CBCA as the plant matures. Because most of the CBGA is converted into other cannabinoids during the plant's growth cycle, CBG typically constitutes less than 1% of the total cannabinoid content in mature cannabis, making it one of the most valuable and difficult-to-produce cannabinoids in the industry.
 

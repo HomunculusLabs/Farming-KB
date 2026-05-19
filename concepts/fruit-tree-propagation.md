@@ -7,7 +7,7 @@ tags: [fruit-tree, orchard, homesteading, cultivation, plant-growth, trees, prun
 sources: []
 ---
 
-# Fruit Tree Propagation
+## Fruit Tree Propagation
 
 Propagating your own fruit trees saves money, preserves [[cannabis-landrace-sativa-heritage-varieties]], and allows you to create custom combinations of rootstock and scion wood. Most fruit trees do not grow true from seed -- [[vegetative-propagation-methods-mollison]] are required to reproduce exact copies of a desired variety.
 

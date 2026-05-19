@@ -6,7 +6,7 @@ type: concept
 tags: [knf, natural-farming, imo, microorganisms, collection, preparation, carandang, bahay-kubo]
 sources: ["raw/papers/bahay-kubo-indigenous-microorganisms_.md"]
 ---
-# Bahay Kubo — IMO Collection and Preparation
+## Bahay Kubo — IMO Collection and Preparation
 
 Gil Carandang's guide to collecting and culturing [[cho-han-kyu-life-and-philosophy]] Cho's Korean [[bahay-kubo-fpj-and-ffj-fermentation]] for LAB culture)
 - The remaining 50% divided among forest, bamboo, and plant-specific microorganisms

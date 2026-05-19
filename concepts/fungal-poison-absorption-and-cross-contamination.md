@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Fungal Poison Absorption and Cross-Contamination
+## Fungal Poison Absorption and Cross-Contamination
 
 ## Overview
 

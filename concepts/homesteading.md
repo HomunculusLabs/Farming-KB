@@ -20,7 +20,7 @@ sources:
 - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 ---
 
-# Homesteading
+## Homesteading
 
 Homesteading is the practice of self-sufficient living on a small plot of land, producing food, energy, and other necessities while reducing dependence on external systems. Modern homesteading integrates [[permaculture-design]], [[gardening-in-hard-times]], animal husbandry, food preservation, and appropriate technology.
 

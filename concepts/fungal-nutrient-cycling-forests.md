@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Nutrient Cycling in Forests
+## Fungal Nutrient Cycling in Forests
 
 Fungi are the dominant agents of nutrient cycling in most forest ecosystems,
 mediating the flow of carbon, nitrogen, phosphorus, and other essential elements

@@ -5,7 +5,7 @@ topics: [compost, fungal-dominance, wood-chips, woody-materials,
   C:N-ratio, fungal-food, soil-foodweb, inoculum]
 ---
 
-# Wood Chips in Compost for Fungal Domination
+## Wood Chips in Compost for Fungal Domination
 
 ## Summary
 

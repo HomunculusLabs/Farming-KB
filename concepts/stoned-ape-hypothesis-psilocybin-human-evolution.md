@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# The Stoned Ape Hypothesis: Psilocybin and Human Evolution
+## The Stoned Ape Hypothesis: Psilocybin and Human Evolution
 
 ## Overview
 

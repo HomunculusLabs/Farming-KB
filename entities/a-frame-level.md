@@ -5,7 +5,7 @@ type: entity
 tags: [surveying, tool, earthworks, permaculture, DIY]
 ---
 
-# A-Frame Level
+## A-Frame Level
 
 ## Description
 

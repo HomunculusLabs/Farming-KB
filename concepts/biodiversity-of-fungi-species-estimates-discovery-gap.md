@@ -1,4 +1,8 @@
-# Fungal Species Estimates and the Discovery Gap
+---
+title: "Fungal Species Estimates and the Discovery Gap"
+tags:
+  - concept
+---
 
 The fungal kingdom represents one of the most significant yet poorly documented
 domains of biodiversity on Earth. Current estimates suggest that between 74,000

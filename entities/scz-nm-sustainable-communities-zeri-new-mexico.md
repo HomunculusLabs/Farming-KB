@@ -8,7 +8,7 @@ categories:
   - sustainability
 ---
 
-# Sustainable Communities ZERI-New Mexico (SCZ-NM)
+## Sustainable Communities ZERI-New Mexico (SCZ-NM)
 
 ## Description
 

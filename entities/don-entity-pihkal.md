@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DON
+## DON
 
 [[2c-b-pihkal-entry-20]] #70. 2,5-DIMETHOXY-4-NITROAMPHETAMINE.
 

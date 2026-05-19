@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Berry Production and Blackberry Control
+## Berry Production and Blackberry Control
 
 No region suits berry production as well as the cool humid climates. Berries occupy niches from high montane to seashore sites, and natural stands fill forest clearings, edge roadways, and line paths. They provide food for birds, foxes, rodents, and people, and their management is a central element of cool-climate [[orchard-management]], assisted by indigenous birds and mammals.
 

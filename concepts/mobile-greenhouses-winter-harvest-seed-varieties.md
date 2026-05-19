@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Mobile Greenhouses and Winter Harvest Seed Varieties
+## Mobile Greenhouses and Winter Harvest Seed Varieties
 
 ## Overview
 

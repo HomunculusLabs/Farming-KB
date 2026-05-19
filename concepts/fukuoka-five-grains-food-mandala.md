@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Five Grains and Food Mandala
+## Fukuoka Five Grains and Food Mandala
 
 In his discussion of the [[fukuoka-seasonal-eating-natural-food-calendar]] that once sustained Japanese farming communities.
 

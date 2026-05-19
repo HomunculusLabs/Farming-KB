@@ -5,7 +5,7 @@ type: entity
 tags: [zooplankton, sewage-treatment, crustacean, bioindicator, water-quality]
 ---
 
-# Daphnia
+## Daphnia
 
 ## Description
 

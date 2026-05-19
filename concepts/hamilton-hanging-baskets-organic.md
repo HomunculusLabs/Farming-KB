@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hanging Baskets Organic
+## Hanging Baskets Organic
 
 Hanging baskets brighten up walls considerably in summer and winter,
 adding vertical interest to any garden. They require a commitment to

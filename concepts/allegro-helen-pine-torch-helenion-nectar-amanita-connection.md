@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Helen of Troy as Pine Torch, Resin, and the Amanita Muscaria Mushroom
+## Helen of Troy as Pine Torch, Resin, and the Amanita Muscaria Mushroom
 
 In [[john-allegro]]'s etymological and mythological analysis in *[[allegro-menstrual-blood-creative-process-purple-fertility]]. Irregular menses — the first period or the perimenopausal phase — were considered
 more potent than regular cycles. Such blood was described as "spontaneous" and "all-powerful,"

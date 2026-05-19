@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Panaeolus Subbalteatus Profile: The Banded Mottlegill
+## Panaeolus Subbalteatus Profile: The Banded Mottlegill
 
 ## Overview and Taxonomy
 

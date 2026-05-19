@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Tryptamine Chemistry: Structure and Synthesis Overview
+## Tryptamine Chemistry: Structure and Synthesis Overview
 
 ## The Tryptamine Skeleton
 

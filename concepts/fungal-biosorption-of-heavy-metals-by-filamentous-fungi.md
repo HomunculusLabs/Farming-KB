@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Biosorption of Heavy Metals by Filamentous Fungi
+## Fungal Biosorption of Heavy Metals by Filamentous Fungi
 Biosorption by filamentous fungi represents a promising approach
 for removing heavy metals from contaminated effluents. Dead fungal
 biomass offers several advantages over live systems: no nutrient

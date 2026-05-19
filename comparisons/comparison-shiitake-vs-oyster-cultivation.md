@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Shiitake vs Oyster Mushroom Cultivation
+## Shiitake vs Oyster Mushroom Cultivation
 
 ## Overview
 

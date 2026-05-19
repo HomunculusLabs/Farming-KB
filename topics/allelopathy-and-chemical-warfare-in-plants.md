@@ -26,7 +26,7 @@ related_concepts:
   - plant-disease-management
 ---
 
-# Allelopathy and Chemical Warfare in Plants
+## Allelopathy and Chemical Warfare in Plants
 
 ## Introduction: The Hidden Language of Plants
 

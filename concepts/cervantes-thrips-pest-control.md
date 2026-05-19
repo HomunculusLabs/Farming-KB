@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Thrips Pest Control on Cannabis
+## Thrips Pest Control on Cannabis
 
 Thrips are small, fast-moving, winged insects that are more
 common in [[cervantes-sticky-traps-pest-monitoring]] capture flying adults and reduce populations

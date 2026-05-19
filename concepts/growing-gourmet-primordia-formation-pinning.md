@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Primordia Formation and Pinning in Mushroom Cultivation
+## Primordia Formation and Pinning in Mushroom Cultivation
 
 Primordia formation represents one of the most critical phases in
 the mushroom cultivation process. It is the moment when vegetative

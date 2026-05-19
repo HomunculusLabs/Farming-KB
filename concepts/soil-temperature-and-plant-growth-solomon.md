@@ -1,4 +1,8 @@
-# Soil Temperature and Oxygen in Plant Growth
+---
+title: "Soil Temperature and Oxygen in Plant Growth"
+tags:
+  - concept
+---
 
 ## Overview
 A critical but often overlooked aspect of [[plant-sensory-biology-smell-touch-hearing]] growth. Most gardeners focus on

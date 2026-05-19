@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[permaculture-design]] encompasses a vast interdisciplinary scope, integrating concepts from ecology, agriculture, forestry, hydrology, climatology, sociology, economics, and law. The [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] is not random but is the result of thoughtful assembly of components that support each other. The number of beneficial connections between elements is a measure of system health.
+## [[permaculture-design]] encompasses a vast interdisciplinary scope, integrating concepts from ecology, agriculture, forestry, hydrology, climatology, sociology, economics, and law. The [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] is not random but is the result of thoughtful assembly of components that support each other. The number of beneficial connections between elements is a measure of system health.
 
 ### Diversity, Stability, and Time
 Diversity contributes to stability but only when the diverse elements are functionally connected. A diverse collection of unrelated elements does not create stability. The timing of yields, [[ecological-succession]] — how ecosystems evolve from pioneer species to mature climax communities — allows designers to accelerate or guide natural succession toward desired endpoints. This includes the establishment and maintenance phases of system development.

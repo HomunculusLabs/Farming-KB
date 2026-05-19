@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-[[solomon-irrigation-systems-sprinkler-de
 type: concept
 ---
 
-# Sprinkler Equipment Selection and [[macrofungal-sampling-protocol-design-plot-selection]]
+## Sprinkler Equipment Selection and [[macrofungal-sampling-protocol-design-plot-selection]]
 
 Choosing the right sprinkler equipment makes the difference between uniform irrigation and a garden with drowned spots alongside parched ones. Most consumer-grade sprinklers are designed for lawn convenience, not garden efficiency. Understanding sprinkler physics — nozzle diameter, operating pressure, throw radius, and overlap — allows gardeners to select or assemble systems that work properly.
 

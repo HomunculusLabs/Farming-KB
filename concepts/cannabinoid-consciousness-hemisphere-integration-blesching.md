@@ -5,7 +5,7 @@ source_file: "uwe-blesching-the-cannabis-health-index.md"
 topics: [cannabinoid, consciousness, brain-hemisphere, neuroplasticity, neurogenesis, left-brain, right-brain, THC, expanded-awareness]
 ---
 
-# Cannabinoids, Brain Hemisphere Integration, and Expanded Consciousness
+## Cannabinoids, Brain Hemisphere Integration, and Expanded Consciousness
 
 ## Overview
 

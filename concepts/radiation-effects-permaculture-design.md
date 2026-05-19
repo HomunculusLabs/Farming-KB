@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Radiation Effects in Permaculture Design
+## Radiation Effects in Permaculture Design
 
 Radiation—both incoming solar energy and outgoing thermal radiation—is a fundamental factor in permaculture site design. Managing radiation effectively determines thermal comfort, plant health, energy efficiency, and agricultural productivity.
 

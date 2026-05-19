@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 type: concept
 ---
 
-# LSD Black Market and Dangers of Nonmedicinal Use
+## LSD Black Market and Dangers of Nonmedicinal Use
 
 ## The Unreliable Black Market
 

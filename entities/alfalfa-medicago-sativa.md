@@ -11,7 +11,7 @@ sources:
   - "Schultes RE, Hofmann A. Plants of the Gods"
 ---
 
-# Alfalfa (*Medicago sativa*)
+## Alfalfa (*Medicago sativa*)
 
 ## Overview
 Alfalfa is a perennial flowering plant in the legume family Fabaceae and one of the world's most important forage crops. Known as "lucerne" in the UK, Australia, New Zealand, and parts of Asia, it has been cultivated for over 4,000 years. Its extraordinarily deep taproot system (extending to 15+ meters) grants it exceptional drought resistance and the ability to access minerals unavailable to shallower-rooted plants. Alfalfa serves as a nitrogen-fixing cover crop, livestock forage, green manure, [[permaculture-design]] owing to its multiple [[comparison-hyperaccumulator-vs-dynamic-accumulator]]:** Deep taproot mines subsoil minerals (calcium, magnesium, potassium, iron) and deposits them in leaf tissue; returns nutrients to surface soil via mulch and decomposition.

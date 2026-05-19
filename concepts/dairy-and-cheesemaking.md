@@ -24,7 +24,7 @@ sources:
 - raw/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md
 ---
 
-# Dairy and Cheese Making
+## Dairy and Cheese Making
 
 Processing goat milk into cheese, butter, yogurt, and other dairy products on the homestead. Goat milk from breeds like Nigerian Dwarf (6-10% butterfat) and Nubian (4-5% butterfat) is ideal — see [[goat-keeping]] for breed selection and milking hygiene.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Arts in the Service of Life
+## Arts in the Service of Life
 
 ## Overview
 

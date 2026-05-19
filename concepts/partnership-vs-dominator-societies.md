@@ -6,7 +6,7 @@ type: concept
 tags: [anthropology, culture, history, gender, society]
 sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 ---
-# Partnership vs Dominator Societies
+## Partnership vs Dominator Societies
 
 The  model, drawn from Riane Eisler's "The Chalice
 and the Blade" (1987) and extensively applied by  in

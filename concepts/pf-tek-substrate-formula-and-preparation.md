@@ -5,7 +5,7 @@ tags: [cultivation, pf-tek, substrate, vermiculite, brown-rice, sterilization]
 created: 2026-05-09
 ---
 
-# PF TEK Substrate Formula and Preparation Method
+## PF TEK Substrate Formula and Preparation Method
 
 ## Overview
 

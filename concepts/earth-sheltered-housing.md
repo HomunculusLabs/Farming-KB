@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earth-Sheltered and Underground Housing
+## Earth-Sheltered and Underground Housing
 
 Underground and earth-sheltered housing represents one of the most effective and time-tested approaches to creating comfortable dwellings in desert and arid environments. From the ancient cave complexes of Cappadocia to the modern opal-mining dugouts of Coober Pedy, Australia, underground living has been independently developed across cultures in Asia, India, the Middle East, the Mediterranean, and the Americas.
 

@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Casuarina equisetifolia
+## Casuarina equisetifolia
 
 **Type:** Species
 **Category:** Evergreen nitrogen-fixing tree

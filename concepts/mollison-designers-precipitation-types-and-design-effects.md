@@ -14,7 +14,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
-# Precipitation Types and Their Effects on Permaculture Design
+## Precipitation Types and Their Effects on Permaculture Design
 Understanding the types and processes of precipitation is
 fundamental to permaculture design. Rainfall is not a simple
 or uniform phenomenon; it arrives through different

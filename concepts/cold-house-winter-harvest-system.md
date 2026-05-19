@@ -5,7 +5,7 @@ tags: [winter-growing, cold-house, greenhouse, season-extension, coleman]
 created: 2026-05-10
 ---
 
-# Cold House Winter Harvest System
+## Cold House Winter Harvest System
 
 The cold house winter harvest system, developed by Eliot Coleman at Four Season Farm in
 Harborside, Maine (USDA Zone 5), demonstrates that fresh vegetables can be produced

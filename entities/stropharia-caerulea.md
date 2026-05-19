@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Stropharia caerulea
+## Stropharia caerulea
 
 **Stropharia caerulea** is a saprotrophic basidiomycete and cord-forming fungus.
 

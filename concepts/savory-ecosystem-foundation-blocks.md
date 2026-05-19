@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# The Four Ecosystem Foundation Blocks
+## The Four Ecosystem Foundation Blocks
 
 At the heart of the [[dighton-aquatic-hyphomycete-conidia-community-dynamics]]), the water cycle,
 the [[savory-bare-ground-and-soil-exposure]] through

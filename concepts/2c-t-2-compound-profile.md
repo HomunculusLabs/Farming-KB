@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, dosage, compound-p
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# 2C-T-2 and 2C-T-7 Compound Profile
+## 2C-T-2 and 2C-T-7 Compound Profile
 
 ## The 2C-T Series
 

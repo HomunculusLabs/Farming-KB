@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What is the Difference Between SOG and SCROG for Cannabis?
+## What is the Difference Between SOG and SCROG for Cannabis?
 
 ## Short Answer
 SOG ([[comparison-biointensive-vs-square-foot-gardening]], while SCROG ([[cannabis-sea-of-green-sog-guide]] covers the specific

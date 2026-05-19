@@ -7,7 +7,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
-# Arnica vs Calendula
+## Arnica vs Calendula
 
 ## Overview
 

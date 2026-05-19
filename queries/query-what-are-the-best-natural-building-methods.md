@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Are the Best Natural Building Methods?
+## What Are the Best Natural Building Methods?
 
 ## Short Answer
 

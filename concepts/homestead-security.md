@@ -7,7 +7,7 @@ tags: [homesteading, safety, animal-husbandry, equipment, community]
 sources: []
 ---
 
-# Homestead Security
+## Homestead Security
 
 Rural and remote homesteads face unique security challenges: longer emergency response times, isolation, and valuable assets spread across open land. A comprehensive security approach combines physical barriers, surveillance, animal deterrents, and community networks. This page covers cameras, motion lighting, gates, livestock guardians, and community-based security strategies.
 

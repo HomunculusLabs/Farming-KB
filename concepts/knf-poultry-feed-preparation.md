@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# KNF Poultry Feed Preparation
+## KNF Poultry Feed Preparation
 
 Korean [[knf-poultry-natural-farming]].
 

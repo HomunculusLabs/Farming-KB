@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [liquid-fertilizer, crop-residues, nutrient-balance, diy-fertilizer, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+sources: ["raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"]
 type: concept
 ---
 
-# Customized Crop Residue Fertilizers
+## Customized Crop Residue Fertilizers
 
 Customized crop residue fertilizers are a revolutionary concept in the
 JADAM system where farmers use the residues, fruits, and plant parts of

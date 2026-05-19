@@ -13,7 +13,7 @@ sources:
   - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-# European Smartshop Economics and Mushroom Supply Chain
+## European Smartshop Economics and Mushroom Supply Chain
 
 The European smartshop model represented a unique intersection of drug policy, retail commerce, and mycological supply chains that operated openly for over a decade before legislative responses gradually closed the market. The EMCDDA 2006 emerging trend case study documented the economics, product range, and international trade patterns of this system in its final years before the Dutch ban.
 

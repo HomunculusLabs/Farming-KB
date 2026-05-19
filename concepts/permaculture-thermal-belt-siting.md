@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Permaculture Thermal Belt Siting Permaculture thermal belt siting is the practice of placing houses, gardens, and sensitive crops in the midslope thermal belt zone of hills and mountains, where temperatures are most moderate and frost risk is minimized. This is one of the most powerful yet often overlooked strategies in permaculture land design. [[hemenway-cold-air-drainage-and-frost-management]] drainage patterns.
+## Permaculture Thermal Belt Siting Permaculture thermal belt siting is the practice of placing houses, gardens, and sensitive crops in the midslope thermal belt zone of hills and mountains, where temperatures are most moderate and frost risk is minimized. This is one of the most powerful yet often overlooked strategies in permaculture land design. [[hemenway-cold-air-drainage-and-frost-management]] drainage patterns.
 
 Trial plantings of frost-susceptible species provide direct evidence of thermal belt location and frost risk at specific points on a site.
 

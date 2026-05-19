@@ -1,14 +1,14 @@
 ---
-title: bloomfield-cryptococcus-neoformans-capsule-melanin-brain
+title: "Cryptococcus Neoformans"
 created: 2026-04-28
 type: species
 tags: [pathogen, basidiomycete, yeast, encapsulated, environmental-fungus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Cryptococcus neoformans
+## Cryptococcus neoformans
 
 Cryptococcus neoformans is an encapsulated yeast-like basidiomycete
 fungus and a significant human pathogen. It is the causative agent of

@@ -7,7 +7,7 @@ tags: direct-seeding
 type: concept
 ---
 
-# Solomon Planting and Transplanting Guide
+## Solomon Planting and Transplanting Guide
 
 ## Direct Seeding vs Transplanting
 

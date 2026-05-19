@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [jadam, liquid-fertilizer, compost-tea, diy-fertilizer, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+sources: ["raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"]
 type: concept
 ---
 
-# [[jadam-fertilizer-program]] - Complete fertilizer programs
+## [[jadam-fertilizer-program]] - Complete fertilizer programs
 - [[jadam-liquid-fertilizer]] Making is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights

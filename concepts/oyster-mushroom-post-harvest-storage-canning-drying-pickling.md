@@ -5,7 +5,7 @@ author: unknown
 topics: [mushrooms, post-harvest, storage, preservation, canning, drying, pickling, oyster-mushroom]
 ---
 
-# Oyster Mushroom Post-Harvest Storage — Refrigeration, Canning, Drying, and Pickling
+## Oyster Mushroom Post-Harvest Storage — Refrigeration, Canning, Drying, and Pickling
 
 Fresh mushrooms [[psilocybin-storage-stability-post-harvest-degradation-mushrooms]], and delicate
 physical structure make rapid post-harvest management essential for maintaining

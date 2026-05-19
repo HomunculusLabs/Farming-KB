@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
-# Fungal Ecosystem Processes Overview
+## Fungal Ecosystem Processes Overview
 
 Fungi are integral to virtually all ecosystem processes, playing central roles
 in nutrient cycling, [[biodiversity-of-fungi-ecosystem-services-agriculture]] provided by fungi

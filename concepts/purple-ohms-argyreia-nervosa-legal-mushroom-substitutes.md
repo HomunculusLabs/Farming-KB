@@ -17,7 +17,7 @@ sources:
   - carolina-mushrooms_08qxp.md
 ---
 
-# Purple Ohms and Argyreia Nervosa Legal Mushroom Substitutes
+## Purple Ohms and Argyreia Nervosa Legal Mushroom Substitutes
 
 ## Overview
 

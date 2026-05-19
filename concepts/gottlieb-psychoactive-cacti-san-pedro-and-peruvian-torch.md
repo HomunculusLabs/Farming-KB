@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Psychoactive Cacti: San Pedro and Related Species
+## Psychoactive Cacti: San Pedro and Related Species
 
 ## San Pedro (Trichocereus pachanoi)
 

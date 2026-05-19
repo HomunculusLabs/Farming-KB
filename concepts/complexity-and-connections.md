@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
-# Complexity and Connections
+## Complexity and Connections
 
 In [[zone-sector-analysis-guide]] - Energy-conserving placement patterns
 

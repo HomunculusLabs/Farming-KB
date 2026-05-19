@@ -1,4 +1,8 @@
-# Cannabis Sativa vs. Indica: Therapeutic Differences
+---
+title: "Cannabis Sativa vs. Indica: Therapeutic Differences"
+tags:
+  - concept
+---
 
 The distinction between Cannabis sativa and Cannabis indica strains is one of
 the most practically important concepts in medical cannabis, yet it is also

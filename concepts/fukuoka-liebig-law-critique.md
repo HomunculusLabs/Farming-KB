@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-# Fukuoka's Critique of Liebig's Law of Minimum
+## Fukuoka's Critique of Liebig's Law of Minimum
 
 ## Overview
 

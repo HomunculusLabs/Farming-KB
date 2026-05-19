@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
 
-# Mushroom Cultivation for Food Sovereignty
+## Mushroom Cultivation for Food Sovereignty
 
 Mushroom cultivation for food sovereignty is the practice of [[duggar-mushroom-growing-history-and-methods]] as accessible to anyone with access to wood, straw, or garden space.
 

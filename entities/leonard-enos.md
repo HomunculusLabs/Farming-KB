@@ -4,7 +4,7 @@ source: field-guide-to-the-psilocybin-mushroom.md
 type: entity
 ---
 
-# Leonard Enos
+## Leonard Enos
 
 ## Description
 

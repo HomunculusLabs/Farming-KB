@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Genesis as History's First Drug Bust in Food of the Gods
+## Genesis as History's First Drug Bust in Food of the Gods
 
 In *Food of the Gods*, Terence McKenna offers a radical reading of the
 Book of Genesis, interpreting the story of the Fall as "history's first

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Bed Types — Flat and Ridge Beds
+## Mushroom Bed Types — Flat and Ridge Beds
 
 ## Overview
 

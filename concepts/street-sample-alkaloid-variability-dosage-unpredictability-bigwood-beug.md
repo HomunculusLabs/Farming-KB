@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Street Sample Alkaloid Variability and Dosage Unpredictability in Psilocybin Mushrooms
+## Street Sample Alkaloid Variability and Dosage Unpredictability in Psilocybin Mushrooms
 
 Bigwood and Beug's 1982 study revealed that psilocybin levels in dried
 [[psilocybin-mushroom-potency-and-dosage-guide]] is fundamentally

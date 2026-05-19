@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# J (BDB; 2-Amino-1-(3,4-methylenedioxyphenyl)butane)
+## J (BDB; 2-Amino-1-(3,4-methylenedioxyphenyl)butane)
 
 J, also known as BDB, is a phenethylamine compound and the alpha-ethyl homologue of [[2c-b-pihkal-entry-20]] #94.
 

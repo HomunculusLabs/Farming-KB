@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 3-TME (3-Thiometaescaline; 2,4,6-Trimethoxy-5-methylthiophenethylamine)
+## 3-TME (3-Thiometaescaline; 2,4,6-Trimethoxy-5-methylthiophenethylamine)
 
 3-TME is a sulfur-substituted phenethylamine that replaces one oxygen atom in the trimethoxy pattern of [[mescaline]].
 

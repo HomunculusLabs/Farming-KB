@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Collapse and Desertification
+## Soil Collapse and Desertification
 
 [[desertification]]. Understanding this process is essential for anyone working in dryland agriculture, land reclamation, or [[crumb-structure]]:
 

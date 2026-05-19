@@ -5,7 +5,7 @@ tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09
 ---
 
-# Phytochrome — The Plant Photoreceptor for Red and Far-Red Light
+## Phytochrome — The Plant Photoreceptor for Red and Far-Red Light
 
 Plants do more than detect the direction of light. They also use the
 colour of light to measure the passage of time — specifically, to

@@ -7,7 +7,7 @@ tags: [mycorrhizal, fungal-ecology, soil, mycology]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Mycorrhizal Fungi and Primary Production (Dighton)
+## Mycorrhizal Fungi and Primary Production (Dighton)
 
 Updated: 2026-04-18
 

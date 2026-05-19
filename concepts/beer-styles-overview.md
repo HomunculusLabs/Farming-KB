@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
-# Beer Styles Overview
+## Beer Styles Overview
 
 The world of beer encompasses an enormous range of styles, from light, crisp lagers to dark, complex ales, from sour wild beers to strong barrel-aged monsters. Beer style guidelines provide a framework for understanding and categorizing this diversity. The most widely used reference is the Beer Judge Certification Program (BJCP) style guidelines, which organize beer into families and subcategories.
 

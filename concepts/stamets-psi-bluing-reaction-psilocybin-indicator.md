@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Bluing Reaction in Psilocybin Mushrooms
+## Bluing Reaction in Psilocybin Mushrooms
 
 ## Overview
 

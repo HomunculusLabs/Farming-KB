@@ -8,7 +8,7 @@ type: concept
 tags: [soil]
 ---
 
-# Bacteria and Archaea in Soil
+## Bacteria and Archaea in Soil
 
 Bacteria are the smallest and most numerous organisms in the soil food web. A
 single teaspoon of good garden soil contains up to a billion bacteria. They are

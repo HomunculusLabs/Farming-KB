@@ -5,7 +5,7 @@ source_path: "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerat
 topics: [aact, calcium, fungi, nutrient-cycling, bioavailability, protozoa, nematodes, mycorrhizae, weed-suppression, soil-chemistry]
 ---
 
-# Calcium-Fungi Interaction and Nutrient Bioavailability in Soil
+## Calcium-Fungi Interaction and Nutrient Bioavailability in Soil
 
 ## Overview
 

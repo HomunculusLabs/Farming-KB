@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Monoculture vs Polyculture
+## Monoculture vs Polyculture
 
 ## Overview
 

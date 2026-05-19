@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# How Do I Grow Mushrooms on Coffee Grounds?
+## How Do I Grow Mushrooms on Coffee Grounds?
 ## Short Answer
 You can grow oyster mushrooms on spent coffee grounds by pasteurizing fresh grounds, mixing them with mushroom grain spawn in a clean container, and incubating in a warm dark place until fully colonized before introducing fresh air and humidity to trigger fruiting.
 This method is accessible for beginners and turns a waste product into gourmet food.

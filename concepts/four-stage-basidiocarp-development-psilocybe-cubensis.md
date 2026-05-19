@@ -7,7 +7,7 @@ tags: [basidiocarp-development, mushroom-growth-stages, psilocybe-cubensis, frui
 created: 2026-05-11
 ---
 
-# Four-Stage Developmental Model of Psilocybe cubensis Basidiocarp
+## Four-Stage Developmental Model of Psilocybe cubensis Basidiocarp
 
 ## Overview
 

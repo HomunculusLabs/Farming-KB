@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Atherosclerosis
+## Cannabis and Atherosclerosis
 
 ## Overview
 

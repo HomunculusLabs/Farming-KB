@@ -5,7 +5,7 @@ author: mckenna-archaic-paradise-techniques-ecstasy
 tags: [mckenna, dmt, hyperspace, tryptamine, legalization, archaic-revival, freedom]
 ---
 
-# Paradise Regained — DMT, Hyperspace and Human Freedom
+## Paradise Regained — DMT, Hyperspace and Human Freedom
 
 The [[mckenna-tryptamine-hallucinogens-and-consciousness]] — particularly
 DMT — represent a genuine frontier of human experience and

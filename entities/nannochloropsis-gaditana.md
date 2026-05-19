@@ -18,7 +18,7 @@ sources:
   - Wang D, et al. (2022). "Genome editing in Nannochloropsis for enhanced lipid production." Algal Research, 65, 102889.
 ---
 
-# Nannochloropsis gaditana
+## Nannochloropsis gaditana
 
 ## Overview
 

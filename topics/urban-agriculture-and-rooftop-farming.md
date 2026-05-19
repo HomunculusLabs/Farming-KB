@@ -17,7 +17,7 @@ related_concepts:
   - sheet-mulching-and-no-dig-gardening
 ---
 
-# Urban Agriculture and Rooftop Farming
+## Urban Agriculture and Rooftop Farming
 
 Urban agriculture is the practice of cultivating, processing, and
 distributing food within or on the margins of cities and towns. It

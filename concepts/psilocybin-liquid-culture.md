@@ -20,7 +20,7 @@ sources:
 - raw/papers/psilocybin-production-gottlieb.md
 ---
 
-# Psilocybin Liquid Culture and Species Parameters
+## Psilocybin Liquid Culture and Species Parameters
 
 Mycelial liquid culture method, pure culture technique, strain maintenance, and detailed species cultivation parameters for psilocybin-containing mushrooms, from Gottlieb's Psilocybin Producer's Guide (1976).
 

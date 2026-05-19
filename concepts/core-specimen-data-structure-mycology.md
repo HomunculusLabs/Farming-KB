@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Core Specimen Data Structure for Mycological Databases
+## Core Specimen Data Structure for Mycological Databases
 
 Standardized specimen data structures are essential for building interoperable mycological databases. A well-defined core data structure ensures that fungal collection records can be shared, compared, and aggregated across institutions, supporting both taxonomic research and biodiversity assessments.
 

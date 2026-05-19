@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Protozoa Soup (Homemade Inoculant)
+## Protozoa Soup (Homemade Inoculant)
 
 ## Description
 
@@ -83,5 +83,5 @@ conservation efforts and practical applications in cultivation and management.
 - [[aact-nematode-protozoa-management-ingham]]
 - [[soil-protozoa-nutrient-cycling-and-mineralization]]
 - [[protozoa-roles-in-soil]]
-- [[soil-protozoa-nutrient-cycling-mineralization]]
+- [[soil-protozoa-nutrient-cycling-and-mineralization]]
 - [[teaming-with-microbes-protozoa]]

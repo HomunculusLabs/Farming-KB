@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Rimol Greenhouse Systems
+## Rimol Greenhouse Systems
 
 ## Description
 

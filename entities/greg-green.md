@@ -9,7 +9,7 @@ sources:
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Greg Green
+## Greg Green
 
 Greg Green is the author of *The Cannabis Grow Bible* (4th edition, 2001), one of the most widely read comprehensive guides to cannabis cultivation. The book covers all aspects of growing from seed selection and breeding through vegetative growth, flowering, harvesting, and processing. See [[cannabis-lighting-guide]] and [[cannabis-growth-stage-checklist]] for practical techniques covered extensively in his work.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Mushrooms and Little Flowers of the Gods
+## Psilocybe Mushrooms and Little Flowers of the Gods
 
 The [[coleman-louis-savier-twentieth-century-maraicher]].
 

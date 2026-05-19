@@ -7,7 +7,7 @@ tags: [chemistry, tihkal]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 3-TM (Thiomescaline; 3,4-Dimethoxy-5-methylthiophenethylamine)
+## 3-TM (Thiomescaline; 3,4-Dimethoxy-5-methylthiophenethylamine)
 
 3-TM, also known as thiomescaline, is the sulfur analogue of [[mescaline]] is one of the oldest known psychedelic phenethylamines, requiring 200-400 mg doses.
 

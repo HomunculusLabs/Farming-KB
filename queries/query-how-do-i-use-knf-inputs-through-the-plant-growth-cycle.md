@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How do I use KNF inputs through the plant growth cycle?
+## How do I use KNF inputs through the plant growth cycle?
 
 ## Short Answer
 

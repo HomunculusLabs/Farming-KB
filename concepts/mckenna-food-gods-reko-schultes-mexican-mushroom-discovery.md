@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# McKenna on the Rediscovery of Mexican Magic Mushrooms
+## McKenna on the Rediscovery of Mexican Magic Mushrooms
 
 In [[four-families-of-indole-hallucinogens]] of Mexico and two chains of research and discovery, which would
 eventually be reunited when [[golden-guide-morning-glory-and-ololiuqui]] seeds and the

@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Purple Haze
+## Purple Haze
 
 Purple Haze is one of the most legendary [[oner-colombian-landrace-sativa-strains]]
 sativa, possibly with Haze (itself a Colombian-Mexican-Thai-South Indian

@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungi in Soil Food Webs
+## Fungi in Soil Food Webs
 
 Trophic structure, energy flow, biomass, and the role of fungi in soil food webs. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-decomposition-cycles]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-bacterial-interactions]], and [[soil-food-web-nutrient-cycling]].
 

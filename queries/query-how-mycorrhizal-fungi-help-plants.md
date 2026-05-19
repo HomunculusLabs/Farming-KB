@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do Mycorrhizal Fungi Help Plants Grow?
+## How Do Mycorrhizal Fungi Help Plants Grow?
 
 ## Short Answer
 

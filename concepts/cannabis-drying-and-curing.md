@@ -1,12 +1,12 @@
 ---
-title: Cannabis cannabis-drying-and-curing-guide
+title: "Cannabis Drying And Curing"
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Drying and Curing Methods
+## Cannabis Drying and Curing Methods
 
 Drying and curing are the final and arguably most critical stages of [[query-how-do-i-know-when-my-cannabis-is-ready-to-harvest]] for harvest.
 

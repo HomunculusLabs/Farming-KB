@@ -7,7 +7,7 @@ tags: [mycology, mushrooms, cultivation, industry]
 sources:
   [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
-# Mushroom Cultivation Information Sources and Industry Directory
+## Mushroom Cultivation Information Sources and Industry Directory
 
 ## Overview
 

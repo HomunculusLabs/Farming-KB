@@ -5,7 +5,7 @@ author: Solomon
 tags: [thinning, overseeding, seed-spacing, vegetable-garden, stand-establishment, germination, garden-techniques]
 ---
 
-# Thinning and Overseeding
+## Thinning and Overseeding
 
 ## Stand Establishment Strategies for Vegetable Gardens
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fodder Pond Sequences and Yields
+## Fodder Pond Sequences and Yields
 
 [[fodder-pond-sequences]] represent one of the most elegant and productive designs in [[permaculture]] aquaculture. By arranging a series of interconnected ponds so that water flows from one to the next—each progressively hosting species higher on the trophic ladder—a self-regulating polyculture system is created where waste from one pond becomes food for the next. This cascading design dramatically reduces or eliminates the need for external feed inputs while producing multiple harvestable products at each level.
 

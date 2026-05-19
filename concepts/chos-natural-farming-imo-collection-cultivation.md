@@ -4,7 +4,7 @@ source: chos-global-natural-farming.md
 tags: [natural-farming, IMO, microorganisms, soil-health, cho-han-kyu, KNF]
 ---
 
-# [[natural-farming]] Institute in South Korea
+## [[natural-farming]] Institute in South Korea
 beginning in the 1960s. Rather than importing commercial microbial inoculants, KNF
 practitioners collect microorganisms adapted to the local environment over many generations.
 Dr. Cho argues that organisms found under the sun differ from those in shaded areas like

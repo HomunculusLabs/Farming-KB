@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# McKenna on Language, Poetry, and the Psilocybin-Catalyzed Vocal Impulse
+## McKenna on Language, Poetry, and the Psilocybin-Catalyzed Vocal Impulse
 
 ## Overview
 

@@ -6,7 +6,7 @@ topics: ["composting", "thermal-compost", "soil-food-web", "microbiology", "orga
 type: concept
 ---
 
-# Thermal Composting — Process Standards and Microbial Biology
+## Thermal Composting — Process Standards and Microbial Biology
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [soil-building, carbon-sequestration, compost, microbes, soil, fertility, 
 sources: []
 ---
 
-# Biochar Production Guide
+## Biochar Production Guide
 
 Biochar is a carbon-rich porous material produced through the pyrolysis (thermal decomposition in limited oxygen) of biomass. When incorporated into soil, biochar improves water retention, nutrient holding capacity, microbial habitat, and long-term carbon sequestration. Properly produced and "charged" biochar can transform soil fertility for decades or centuries.
 

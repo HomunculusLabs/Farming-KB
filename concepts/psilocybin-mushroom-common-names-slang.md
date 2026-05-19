@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Psilocybin Mushroom Common Names and Slang
+## Psilocybin Mushroom Common Names and Slang
 
 Most users of psychoactive visionary mushrooms have very little knowledge of their scientific names. Instead, they have given their favourite species local epithets which are commonly used by those who collect and ingest them.
 

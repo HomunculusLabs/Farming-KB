@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Migraine
+## Cannabis and Migraine
 
 Migraines are recurring headaches that range from moderate to severe. Severe
 migraines lasting for hours or days can be debilitating. The pain can induce

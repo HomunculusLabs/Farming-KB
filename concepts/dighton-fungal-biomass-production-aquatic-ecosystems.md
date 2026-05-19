@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Biomass and Production in Aquatic Ecosystems
+## Fungal Biomass and Production in Aquatic Ecosystems
 
 Fungi play major roles in decomposition and [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] through their support of invertebrate
 populations.

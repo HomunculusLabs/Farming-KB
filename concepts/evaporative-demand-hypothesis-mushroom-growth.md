@@ -7,7 +7,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 related: [anemotropism-in-basidiomycete-mushrooms, negative-geotropism-in-mushroom-fruiting, mushroom-stipe-development-stages]
 ---
 
-# Evaporative Demand Hypothesis for Mushroom Tropisms
+## Evaporative Demand Hypothesis for Mushroom Tropisms
 
 The evaporative demand hypothesis, proposed by Badham (1982) based on wind
 tunnel experiments with *[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] caused by asymmetric evaporative demand across the stipe

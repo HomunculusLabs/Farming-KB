@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Zone [[mollison-animal-integration-permaculture-design]]
+## Zone [[mollison-animal-integration-permaculture-design]]
 
 ## The Biological Funnel
 

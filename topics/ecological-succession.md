@@ -14,7 +14,7 @@ sources:
   - "Hobbs, R.J. et al. (2013). Novel Ecosystems: Intervening in the New Ecological World Order. Wiley-Blackwell."
 ---
 
-# Ecological Succession
+## Ecological Succession
 
 ## Definition and Overview
 

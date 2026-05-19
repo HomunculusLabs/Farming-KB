@@ -7,7 +7,7 @@ source: shulgin-a-pihkal.md
 tags: [pihkal, phenethylamine, beta-substitution, BOB, BOH, BOD, BOM, chemistry]
 ---
 
-# PiHKAL Beta-Substituted Phenethylamines: BOB, BOH, BOD, BOM
+## PiHKAL Beta-Substituted Phenethylamines: BOB, BOH, BOD, BOM
 
 ## Overview
 

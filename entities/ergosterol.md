@@ -17,7 +17,7 @@ sources:
   - "Mattila, P. et al. (2002). \"Vitamin D₂ in edible mushrooms in relation to UV irradiation.\" Journal of Agricultural and Food Chemistry, 50(22), 6413-6416."
 ---
 
-# Ergosterol
+## Ergosterol
 
 ## Overview
 

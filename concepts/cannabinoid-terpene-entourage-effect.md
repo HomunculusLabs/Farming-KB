@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Cannabinoid-Terpene Entourage Effect
+## Cannabinoid-Terpene Entourage Effect
 
 The entourage effect is a pharmacological concept proposing that the
 therapeutic impact of whole-plant cannabis exceeds the sum of its isolated

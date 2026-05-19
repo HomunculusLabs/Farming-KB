@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Green Party Movement
+## Green Party Movement
 
 ## Description
 

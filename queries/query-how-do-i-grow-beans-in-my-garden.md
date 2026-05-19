@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Grow Beans in My Garden?
+## How Do I Grow Beans in My Garden?
 
 ## Short Answer
 

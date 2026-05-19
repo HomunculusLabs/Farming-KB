@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Fibre Plants updated: 2026-04-18 From: [[boehmeria-nivea]]) - strong bast fibre
+## Fibre Plants updated: 2026-04-18 From: [[boehmeria-nivea]]) - strong bast fibre
 
 ## Fibre in Integrated Design
 

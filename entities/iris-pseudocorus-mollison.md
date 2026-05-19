@@ -5,7 +5,7 @@ type: entity
 tags: [plant, aquatic, water-purification, pathogen-removal, permaculture, ornamental]
 ---
 
-# Iris pseudocorus
+## Iris pseudocorus
 
 ## Description
 

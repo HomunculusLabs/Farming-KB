@@ -8,7 +8,7 @@ sources: [symbiotic-fungi.md]
 type: concept
 ---
 
-# Endophyte-Mediated Plant Stress Tolerance
+## Endophyte-Mediated Plant Stress Tolerance
 
 ## Overview
 

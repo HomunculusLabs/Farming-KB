@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# The Cool Greenhouse
+## The Cool Greenhouse
 
 Eliot Coleman's "cool greenhouse" concept represents a middle ground
 between fully unheated cold houses and traditional heated greenhouses.

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# [[garden-hand-tools-solomon]], provided they are high quality and properly sharpened.
+## [[garden-hand-tools-solomon]], provided they are high quality and properly sharpened.
 Garden magazines, [[solomon-garden-hoe-and-cultivation-techniques]], a [[bow-rake-garden-tool]], and a file to sharpen the shovel and hoe.
 
 ## The Three Essential Tools

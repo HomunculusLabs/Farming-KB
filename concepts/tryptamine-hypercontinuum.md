@@ -5,7 +5,7 @@ tags: [tryptamine, consciousness, mckenna, psychedelics, phenomenology]
 created: 2026-05-09
 ---
 
-# Tryptamine Hypercontinuum
+## Tryptamine Hypercontinuum
 
 The "tryptamine hypercontinuum" is Terence McKenna's term for the shared
 phenomenological landscape accessed through the family of tryptamine

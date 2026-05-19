@@ -22,7 +22,7 @@ sources:
 - raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
 
-# Plant Defense Mechanisms
+## Plant Defense Mechanisms
 
 Plants are not passive victims of pests and disease. They have evolved sophisticated defense systems that work through chemistry, signaling, and partnerships with [[soil-food-web-nutrient-cycling]]. Understanding these mechanisms is key to [[insect-allies]]-free gardening.
 

@@ -7,7 +7,7 @@ tags: [mycorrhizal, agriculture, soil, plant-systems]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Arbuscular Mycorrhizal Fungi in Agriculture - Functions and Management
+## Arbuscular Mycorrhizal Fungi in Agriculture - Functions and Management
 
 Updated: 2026-04-18
 

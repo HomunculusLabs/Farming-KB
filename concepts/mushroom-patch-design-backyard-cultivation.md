@@ -7,7 +7,7 @@ sources:
   - "raw/papers/unknown-mycelium-running.md"
 ---
 
-# Mushroom Patch Design and Installation for Backyard Cultivation
+## Mushroom Patch Design and Installation for Backyard Cultivation
 
 Creating [[humidity-chamber-designs-jarrold-mushroom-cultivation]] patches is one of the most accessible
 ways to cultivate gourmet and [[cultivator-sterile-technique-and-agar-culture]], climate control,

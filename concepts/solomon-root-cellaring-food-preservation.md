@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Root Cellaring and Food Preservation
+## Root Cellaring and Food Preservation
 
 ## The Root Cellar as Essential Infrastructure
 

@@ -26,7 +26,7 @@ sources:
 - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Cannabis Plant Nutrition
+## Cannabis Plant Nutrition
 
 Cannabis requires 16 essential elements for healthy growth. In a living soil system, most of these are provided by the [[soil-food-web-nutrient-cycling]] breaking down organic matter into plant-available forms. This page covers macro and micronutrients, their roles, deficiency symptoms, and organic sources.
 

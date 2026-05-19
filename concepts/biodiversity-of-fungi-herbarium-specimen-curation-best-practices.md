@@ -4,7 +4,7 @@ source: Biodiversity of Fungi (Mueller, Bills & Foster, 2004)
 concepts: [herbarium, specimen-curation, voucher-specimens, fungal-taxonomy, biodiversity-inventory]
 ---
 
-# Herbarium Specimen Curation
+## Herbarium Specimen Curation
 
 Herbaria serve as **conservatories of voucher specimens** that document the occurrence of fungi at specific places and times. They are indispensable infrastructure for mycological research, providing the physical evidence upon which taxonomic, ecological, and biogeographic conclusions rest. Unlike living culture collections, [[biodiversity-fungal-herbarium-collections]] remain scientifically valuable and accessible over centuries. This page summarises those best practices and highlights their importance for fungal biodiversity documentation.
 

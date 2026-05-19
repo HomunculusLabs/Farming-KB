@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Turkey Tail vs Oyster Mushroom
+## Turkey Tail vs Oyster Mushroom
 
 ## Overview
 

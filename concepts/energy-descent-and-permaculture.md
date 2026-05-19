@@ -5,7 +5,7 @@ tags: [permaculture, energy, fossil-fuels, peak-oil, sustainability]
 created: 2026-05-11
 ---
 
-# Energy Descent and Permaculture
+## Energy Descent and Permaculture
 
 [[david-holmgren]]'s energy descent framework positions permaculture as a design
 response to the inevitable decline in fossil fuel availability and the

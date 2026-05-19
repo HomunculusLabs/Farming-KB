@@ -20,7 +20,7 @@ synopsis: >-
   biosphere.
 ---
 
-# Fungal Bioweathering
+## Fungal Bioweathering
 
 ## Definition
 

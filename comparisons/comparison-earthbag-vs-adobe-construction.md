@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Earthbag vs Adobe Construction
+## Earthbag vs Adobe Construction
 
 Earthbag and adobe are both earth-based building methods with thousands of years of collective heritage. Adobe is the older technique, dating back over 4,000 years to Mesopotamia and the Americas, and an estimated 30 to 50 percent of the world's population currently lives in earth buildings, many of them adobe. [[fungal-building-material-deterioration]], produce structures with excellent thermal mass, and align with permaculture principles of minimal-energy, locally sourced building. However, they differ significantly in technique, speed, structural properties, and climate suitability.
 

@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Leaf Mold Source Collection and Artificial Production
+## JADAM Leaf Mold Source Collection and Artificial Production
 
 Leaf mold is the single most important ingredient in the [[jadam-liquid-fertilizer]] production, a handful of leaf mold is added to
 the container along with crop residues and water. The leaf mold inoculates

@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis High-Volume Extraction
+## Cannabis High-Volume Extraction
 
 High-volume [[lemon-cannabis-alchemy-advanced-refinement-techniques]] literature, particularly in Ben Lemon's Cannabis Alchemy, draw directly from the tradition of illicit alcohol distillation, adapting moonshiner techniques for the extraction and refinement of cannabis oils.
 

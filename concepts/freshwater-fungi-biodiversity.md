@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Freshwater Fungi Biodiversity
+## Freshwater Fungi Biodiversity
 
 Freshwater habitats support a remarkably diverse assemblage of fungi and fungus-like organisms, including representatives of all major fungal groups. These fungi are essential decomposers, parasites, and symbionts in rivers, streams, lakes, ponds, marshes, and temporary water bodies.
 

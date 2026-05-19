@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Chicories — Endive, Escarole, and Radicchio
+## Growing Chicories — Endive, Escarole, and Radicchio
 
 Chicories are remarkably cold-hardy [[growing-lettuce-salad-greens]] that shrug off nighttime lows of under 10°F (-12°C) when the soil isn't frozen. In cold-winter climates, they are good eating in both autumn and winter, although winter humidity can cause mold problems. In mild climates, they grow steadily right through winter into spring.
 

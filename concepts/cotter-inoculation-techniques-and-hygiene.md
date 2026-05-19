@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Inoculation Techniques and Hygiene
+## Inoculation Techniques and Hygiene
 
 Inoculation, the process of introducing [[accessible-mushroom-cultivation-for-disabilities]]. Sanitation
 measures are critical since the grower is in direct contact with both prepared

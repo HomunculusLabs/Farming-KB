@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Catalytic Hydrogenolysis for [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (compound 8) carries two benzyl groups that
+## Catalytic Hydrogenolysis for [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (compound 8) carries two benzyl groups that
 must be removed to reveal the final psilocybin structure:
 
 1. **N-benzyl removal**: Cleavage of the benzyl group from the quaternary

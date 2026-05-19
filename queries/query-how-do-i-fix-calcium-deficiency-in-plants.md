@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Fix Calcium Deficiency in Plants?
+## How Do I Fix Calcium Deficiency in Plants?
 
 ## Short Answer
 Calcium deficiency causes distorted new growth, curling leaves,

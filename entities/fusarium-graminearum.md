@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Fusarium graminearum
+## Fusarium graminearum
 
 **Fusarium graminearum** is a major agar, producing fluffy, aerial mycelium with a carmine red to reddish-brown pigmentation on the reverse side
 - **Macroconidia:** Slender, curved (falcate), typically 5-septate (occasionally 3 to 7 septate), measuring 25 to 65 by 3 to 6 μm, with a distinctive foot-shaped basal cell and a pointed apical cell

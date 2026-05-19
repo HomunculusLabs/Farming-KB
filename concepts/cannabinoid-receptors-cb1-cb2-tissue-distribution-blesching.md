@@ -5,7 +5,7 @@ source_author: Uwe Blesching
 tags: [cannabinoid-receptors, CB1, CB2, tissue-distribution, endocannabinoid-system, nervous-system, immune-system]
 ---
 
-# Cannabinoid Receptors CB1 and CB2: Tissue Distribution
+## Cannabinoid Receptors CB1 and CB2: Tissue Distribution
 
 ## Overview
 

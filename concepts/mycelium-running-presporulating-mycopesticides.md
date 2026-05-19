@@ -8,7 +8,7 @@ sources: [mycelium-running-stamets.md]
 type: concept
 ---
 
-# Presporulating Mycelium as Mycopesticides
+## Presporulating Mycelium as Mycopesticides
 
 ## Overview
 

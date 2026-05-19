@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Toadstool-Eating: Myths and Realities of Mushroom Identification
+## Toadstool-Eating: Myths and Realities of Mushroom Identification
 
 In his 1877 article for the *Popular Science Monthly*, Julius A. Palmer launched a
 direct assault on the folklore, newspaper wisdom, and popular beliefs surrounding

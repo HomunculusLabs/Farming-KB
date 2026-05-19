@@ -8,7 +8,7 @@ type: concept
 tags: [medicine, mushroom-cultivation, mushrooms, turkey-tail]
 ---
 
-# Turkey Tail (Trametes versicolor): PSK and PSP in Cancer Treatment
+## Turkey Tail (Trametes versicolor): PSK and PSP in Cancer Treatment
 
 ## Overview
 

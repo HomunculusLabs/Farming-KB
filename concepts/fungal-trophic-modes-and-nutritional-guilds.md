@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Trophic Modes and Nutritional Guilds
+## Fungal Trophic Modes and Nutritional Guilds
 
 Fungal trophic modes describe the fundamental strategies by which fungi
 obtain carbon and energy from their environment. Understanding these

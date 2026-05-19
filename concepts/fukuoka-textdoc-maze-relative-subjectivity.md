@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Maze of Relative Subjectivity
+## The Maze of Relative Subjectivity
 
 ## Overview
 

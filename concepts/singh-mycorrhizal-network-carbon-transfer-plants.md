@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizal Network Carbon Transfer Between Plants
+## Mycorrhizal Network Carbon Transfer Between Plants
 
 Common mycorrhizal networks (CMNs), sometimes called [[mycelial-network-resource-sharing-plants]] that
 influence plant community dynamics, seedling establishment, and ecosystem

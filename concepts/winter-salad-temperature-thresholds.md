@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Salad Temperature Thresholds
+## Winter Salad Temperature Thresholds
 
 Understanding how temperature affects winter salad crops in protected cultivation is essential for successful year-round harvesting. Temperature is not a simple binary — it operates through multiple dimensions that collectively determine crop health, growth rate, quality, and survival. [[eliot-coleman]] provides a comprehensive temperature scale and framework for managing winter salad production.
 

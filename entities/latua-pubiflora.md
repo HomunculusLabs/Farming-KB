@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Latua pubiflora
+## Latua pubiflora
 
 **Latua pubiflora** (Griseb.) Baill., commonly known as **Latue** or **Arbol de [[guzman-psilocybin-mushrooms-south-america]], formerly used exclusively by Mapuche Indian shamans.
 

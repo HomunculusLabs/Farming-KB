@@ -6,7 +6,7 @@ created: 2026-05-09
 source: Fungi in the Environment (Gadd, Watkinson, Dyer)
 ---
 
-# Mycorrhizal Fungi and Carbon Cycling
+## Mycorrhizal Fungi and Carbon Cycling
 
 Mycorrhizal fungi form symbiotic associations with the roots of approximately 90% of terrestrial plant species. These associations are among the most important biological mediators of the terrestrial carbon cycle, influencing how carbon flows from the atmosphere into soils and how it is stored, processed, and eventually returned to the atmosphere. The chapter by Jonathan Leake in *Fungi in the Environment* (Gadd, Watkinson & Dyer, 2007) provides a comprehensive treatment of these roles.
 

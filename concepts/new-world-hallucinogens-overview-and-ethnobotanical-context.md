@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# New World Hallucinogens: Overview and Ethnobotanical Context
+## New World Hallucinogens: Overview and Ethnobotanical Context
 
 The New World — North, Central, and South America and the West Indies — harbors an extraordinary diversity of hallucinogenic plants that far exceeds anything documented in the Old World. More than 90 species are employed for their intoxicating principles, compared to fewer than a dozen in the Eastern Hemisphere. This page surveys the broad patterns of New World hallucinogen use and the ethnobotanical questions that surround them.
 

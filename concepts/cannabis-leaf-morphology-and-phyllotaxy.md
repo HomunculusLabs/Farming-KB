@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Leaf Morphology and Phyllotaxy
+## Cannabis Leaf Morphology and Phyllotaxy
 
 Cannabis leaf morphology is one of the most visually [[bloomfield-fungal-life-cycle-spiral-versus-circle]] of the plant. Understanding leaf morphology and
 phyllotaxy (the arrangement of leaves on the stem) is essential for cultivators

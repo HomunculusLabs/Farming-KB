@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Dharmic Law That All Things Return to One
+## Fukuoka's Dharmic Law That All Things Return to One
 
 ## Overview
 

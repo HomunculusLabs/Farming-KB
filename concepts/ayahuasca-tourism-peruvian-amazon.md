@@ -7,7 +7,7 @@ tags: [ayahuasca, tourism, Peru, Amazon, shamanism, entheogens, Shipibo, Ucayali
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Ayahuasca Tourism in the Peruvian Amazon
+## Ayahuasca Tourism in the Peruvian Amazon
 
 ## Overview
 

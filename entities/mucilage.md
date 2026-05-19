@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, roots, rhizosphere, nutrient-uptake, soil-science]
 ---
 
-# Mucilage
+## Mucilage
 
 ## Description
 

@@ -8,7 +8,7 @@ type: concept
 tags: [stinkhorn, phallus-impudicus, spore-dispersal, gasteromycetes, mycology, insect-attraction]
 ---
 
-# Stinkhorn Fungi and Insect Spore Dispersal
+## Stinkhorn Fungi and Insect Spore Dispersal
 
 Stinkhorn fungi are among the most visually arresting and biologically ingenious
 organisms in the [[gasteromycete-fungi-puffballs-earthstars-birds-nest]], stinkhorns have evolved a

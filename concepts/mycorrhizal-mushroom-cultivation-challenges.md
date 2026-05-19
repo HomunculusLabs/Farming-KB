@@ -1,4 +1,8 @@
-# Mycorrhizal Mushroom Cultivation Challenges
+---
+title: "Mycorrhizal Mushroom Cultivation Challenges"
+tags:
+  - concept
+---
 
 ## Overview
 While [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] have evolved over millions

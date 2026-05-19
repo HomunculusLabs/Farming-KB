@@ -5,11 +5,11 @@ tags: [potency, psilocybin, psilocine, baeocystin, australia,
   analysis, comparison, chemistry, allen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 type: concept
 ---
 
-# Psilocybin Potency of Australian Species
+## Psilocybin Potency of Australian Species
 
 The psychoactive potency of [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]], revealing important patterns in the distribution
 of psilocybin, psilocine, and related alkaloids across the continent's

@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/cannabis-health-index.md"
 ---
 
-# Green Crack
+## Green Crack
 
 Green Crack is a sativa-dominant [[growing-gourmet-north-american-reishi-species]] legal and illicit markets, prized by recreational
 users for daytime energy and by medical patients for fatigue,

@@ -21,7 +21,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# Water-Soluble Phosphoric Acid (WS-PA)
+## Water-Soluble Phosphoric Acid (WS-PA)
 
 WS-PA is a KNF input extracted from sesame stem charcoal. Phosphoric acid is a component of every plant cell nucleus and is critical for root growth, flower formation, and energy transfer (ATP). WS-PA provides immediately bioavailable phosphorus during the changeover period when plants shift from vegetative to reproductive growth.
 

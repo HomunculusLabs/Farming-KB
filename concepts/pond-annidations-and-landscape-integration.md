@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Annidations and Landscape Integration
+## Pond Annidations and Landscape Integration
 
 Ponds achieve their greatest productive potential when designed as nested systems within larger water bodies and integrated into the broader landscape mosaic of forest, marsh, meadow, and open water. Annidation—the nesting of smaller ponds within larger ones—and strategic landscape placement create synergistic relationships that enhance yields, simplify management, and multiply ecological functions far beyond what isolated ponds can achieve.
 

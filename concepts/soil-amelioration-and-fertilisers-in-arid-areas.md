@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Amelioration and Fertilisers in Arid Areas
+## Soil Amelioration and Fertilisers in Arid Areas
 
 ## Trace Element Application
 

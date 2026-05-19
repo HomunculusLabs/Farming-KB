@@ -7,7 +7,7 @@ type: concept
 tags: [shulgin]
 ---
 
-# BOD
+## BOD
 
 Beta-Methoxy-2C-D; 4-Methyl-2,5,beta-trimethoxyphenethylamine
 

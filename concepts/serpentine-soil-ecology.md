@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ecology, geology, soil-science, botany]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-nutrient-and-dynamic-accumulators.md]
+sources: ["raw/papers/unknown-nutrient-and-dynamic-accumulators.md"]
 type: concept
 ---
 
-# Serpentine Soil Ecology
+## Serpentine Soil Ecology
 
 Serpentine soils, also called ultramafic soils, develop from the weathering
 of ultramafic igneous rocks rich in magnesium and iron silicate minerals,

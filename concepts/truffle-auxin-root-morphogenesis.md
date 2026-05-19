@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Truffle Auxin Production and Root Morphogenesis
+## Truffle Auxin Production and Root Morphogenesis
 
 ## Overview
 

@@ -6,7 +6,7 @@ created: 2026-05-09
 source: ["variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"]
 ---
 
-# Psilocin Accumulation Across Flushes
+## Psilocin Accumulation Across Flushes
 
 Psilocin, the dephosphorylated and more labile psychoactive compound found in [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] that differs markedly from [[psilocybin-psilocin-biosynthetic-timing-first-flush-absence]] pathway may be upregulated later in the fruiting cycle.
 

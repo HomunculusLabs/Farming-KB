@@ -28,7 +28,7 @@ sources:
 - raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Mushroom Grow Equipment
+## Mushroom Grow Equipment
 
 Quality equipment dramatically reduces contamination rates and improves yields. This page covers the full range from minimum viable setups to professional-grade labs. See [[mushroom-sterile-technique]] for how to use this equipment, and [[mushroom-indoor-cultivation]] for grow chamber setup.
 

@@ -7,7 +7,7 @@ tags: [regenerative, soil]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Mollison No-Tillage Grain Cropping and Fukuoka Method
+## Mollison No-Tillage Grain Cropping and Fukuoka Method
 
 Until the work of Masanobu Fukuoka, there was no satisfactory basis for including grain and legume crops in permaculture. The system outlined in The One-Straw Revolution seems to have solved the problems of no-dig grain cultivation. Fukuoka's methodology, combined with data from P. A. Yeomans and David King, evolved a no-dig and permanent grain-crop system that fits into the [[jadam-cover-crop-soil-temperature-management]] that keep the soil covered at all times.
 

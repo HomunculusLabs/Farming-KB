@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Plants as Heaters and Seed Germination Factors
+## Plants as Heaters and Seed Germination Factors
 
 The relationship between plants and thermal conditions extends far beyond passive responses to temperature. Certain plants actively generate heat, while all seeds have specific thermal and light requirements for successful germination. Understanding these mechanisms allows [[philodendron-selloum]]* store fats that are metabolically "burnt" to create heat, causing flowers to heat up significantly. *Philodendron selloum* may register **46 degrees C (115 degrees F)** when surrounding air is only **4 degrees C (39 degrees F)** — a temperature differential of 42 degrees C. Crocuses can heat up to **15 degrees C (27 degrees F)** above ambient air temperature.
 

@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Partial Rest and Algal Crusts
+## Partial Rest and Algal Crusts
 
 Partial rest occurs when animals are present on land but never produce herd
 effect. The animals graze calmly and may slightly disturb the soil surface,

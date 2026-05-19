@@ -1,4 +1,8 @@
-# Azomite Mineral Amendment
+---
+title: "Azomite Mineral Amendment"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Successful integration of azomite mineral amendment into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

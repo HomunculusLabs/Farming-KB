@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Boletus Genus (Boleti)
+## Boletus Genus (Boleti)
 
 ## Description
 

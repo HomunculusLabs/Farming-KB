@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# McKenna on Psilocybin and Language Formation
+## McKenna on Psilocybin and Language Formation
 
 A core argument in [Food of the Gods is
 that psilocybin acted as the primary catalyst for the emergence of human

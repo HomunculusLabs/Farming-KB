@@ -14,7 +14,7 @@ tags:
   - tourism
 ---
 
-# Alan Shoemaker and Ayahuasca Legal Incidents in Peru
+## Alan Shoemaker and Ayahuasca Legal Incidents in Peru
 
 The imprisonment of American ayahuasquero Alan
 Shoemaker in Peru stands as a notable incident in

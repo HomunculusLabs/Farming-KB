@@ -1,4 +1,8 @@
-# [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and division** are the most well-characterized
+---
+title: "brassinosteroid physiological mechanisms cell elongation division and division** are the most well-characterized"
+tags:
+  - concept
+---
 effects. Brassinosteroids promote both longitudinal cell expansion
 and cell division, working synergistically with auxins and
 gibberellins. In hypocotyl elongation assays, they can stimulate

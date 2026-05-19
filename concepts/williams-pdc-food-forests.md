@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Food Forests Food forests are gardens modeled after the three-dimensional structure of natural forests, using vertical layering to produce diverse food yields on far less surface area than conventional gardening, combining multiple [[permaculture-principle-apply-self-regulation]] of using edges and
+## Food Forests Food forests are gardens modeled after the three-dimensional structure of natural forests, using vertical layering to produce diverse food yields on far less surface area than conventional gardening, combining multiple [[permaculture-principle-apply-self-regulation]] of using edges and
 valuing the marginal, since food forests utilize empty three
 dimensional space that is typically marginalized instead of
 used. In essence food forests are what happens when the

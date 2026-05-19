@@ -7,7 +7,7 @@ tags: [fungi, ecology, ecosystem, biodiversity]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-# Fungal Biodiversity Patterns Across Ecosystem Types - Implications for Agriculture
+## Fungal Biodiversity Patterns Across Ecosystem Types - Implications for Agriculture
 
 Updated: 2026-04-18
 

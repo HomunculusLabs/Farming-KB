@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Calea zacatechichi
+## Calea zacatechichi
 
 Calea zacatechichi is a flowering plant in the aster family (Asteraceae),
 native to montane regions of southern Mexico and [[calea-zacatechichi-dream-herb-ethnobotany]]" or "leaf of God" (hoja de Dios) for its

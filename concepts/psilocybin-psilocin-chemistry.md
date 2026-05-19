@@ -1,11 +1,11 @@
 ---
-title: Psilocybin and psilocybin-psilocin-chemistry-and-pharmacology-emcdda
+title: "Psilocybin Psilocin Chemistry"
 source: carolina-mushrooms_08qxp.md
 tags: [chemistry, pharmacology, tryptamines, mycology, hallucinogens]
 created: 2026-05-09
 ---
 
-# Psilocybin and Psilocin Chemistry
+## Psilocybin and Psilocin Chemistry
 
 Psilocybin and psilocin are the primary psychoactive compounds found in
 [[psilocybe-cubensis]], [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]. These indolealkylamine

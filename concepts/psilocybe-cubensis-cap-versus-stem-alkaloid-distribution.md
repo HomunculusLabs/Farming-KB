@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe cubensis Cap vs Stem Alkaloid Distribution
+## Psilocybe cubensis Cap vs Stem Alkaloid Distribution
 
 ## Overview
 

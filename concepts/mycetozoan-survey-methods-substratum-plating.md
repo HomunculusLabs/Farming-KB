@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Mycetozoan Survey Methods and Substratum Plating
+## Mycetozoan Survey Methods and Substratum Plating
 
 Updated: 2026-04-18
 

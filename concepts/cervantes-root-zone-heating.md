@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [cannabis, horticulture, cervantes, root-zone, soil-temperature, heat-mat, cloning, seedlings]
 ---
 
-# Root Zone Heating
+## Root Zone Heating
 
 ## Overview
 

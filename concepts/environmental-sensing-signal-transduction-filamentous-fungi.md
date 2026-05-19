@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Environmental Sensing and Signal Transduction in Filamentous Fungi
+## Environmental Sensing and Signal Transduction in Filamentous Fungi
 
 ## Overview
 

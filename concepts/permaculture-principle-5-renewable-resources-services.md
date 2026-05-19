@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Principle 5: Use and Value Renewable Resources and Services
+## Permaculture Principle 5: Use and Value Renewable Resources and Services
 
 *"Let nature take its course"*
 

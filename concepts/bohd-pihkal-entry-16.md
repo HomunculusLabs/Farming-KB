@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# BOHD
+## BOHD
 
 **[[scythian-cannabis-steam-bath-ritual]], followed by
 concentrated HCl (1.0 mL) and additional acetic acid to maintain

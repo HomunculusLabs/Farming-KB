@@ -24,7 +24,7 @@ related_concepts:
   - comparison-hardneck-vs-softneck-garlic
 ---
 
-# Garlic Cultivation and Allium Growing Guide
+## Garlic Cultivation and Allium Growing Guide
 
 The allium family encompasses some of the most indispensable vegetables
 and herbs in human agriculture. Garlic, onions, leeks, shallots, and

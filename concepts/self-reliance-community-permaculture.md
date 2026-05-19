@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Self-Reliance and Community in Permaculture
+## Self-Reliance and Community in Permaculture
 
 Self-reliance and community rebuilding are central themes in David Holmgren's permaculture framework. Rather than promoting isolationist self-sufficiency, permaculture advocates for a layered approach to resilience that begins at the household level and radiates outward through community, bioregion, and beyond. This concept explores how permaculture thinking applies to social organisation, economic diversification, waste management, and the practical pathways toward more sustainable human settlements.
 

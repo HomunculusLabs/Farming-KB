@@ -7,7 +7,7 @@ tags: [comparison, compost, microbes, homesteading, equipment]
 sources: []
 ---
 
-# Worm Bin Types Comparison
+## Worm Bin Types Comparison
 
 Vermicomposting is a cornerstone of homestead waste management, converting kitchen scraps [[hamilton-composting-and-organic-matter-management]] into nutrient-rich castings. The right bin design depends on available space, volume of waste, budget, and how hands-on you want to be. This page compares the four most common worm bin types used by homesteaders.
 

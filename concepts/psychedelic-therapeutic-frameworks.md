@@ -8,14 +8,14 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# Psychedelic Therapeutic Frameworks
+## Psychedelic Therapeutic Frameworks
 
 Powell's The [[philosophical-implications-of-psychedelics]]
 - [[tryptamine]] research philosophy
 
 ## Merged: Piggyback Window Exploitation Psychotherapy
 
-# Piggyback and Window Exploitation in Psychotherapy
+## Piggyback and Window Exploitation in Psychotherapy
 
 **Updated:** 2026-04-18
 

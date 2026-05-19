@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Polyculture Evolution and Pest [[integrated-pest-management]] replaces chemical inputs with biological relationships.
+## Tropical Polyculture Evolution and Pest [[integrated-pest-management]] replaces chemical inputs with biological relationships.
 
 ## Evolving a Polyculture from Scratch
 

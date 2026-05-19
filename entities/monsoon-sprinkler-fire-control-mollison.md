@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Monsoon Sprinkler Fire Control System
+## Monsoon Sprinkler Fire Control System
 
 ## Description
 

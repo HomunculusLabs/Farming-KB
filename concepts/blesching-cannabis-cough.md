@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Cough
+## Cannabis and Cough
 
 ## Overview
 

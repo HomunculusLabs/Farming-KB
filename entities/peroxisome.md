@@ -5,7 +5,7 @@ type: entity
 tags: [organelle, cell-biology, lipid-metabolism, nitrogen-assimilation, plant-cell]
 ---
 
-# Peroxisome
+## Peroxisome
 
 ## Description
 

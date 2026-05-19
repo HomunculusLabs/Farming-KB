@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-# Rainwater Harvesting and Graywater Reuse [Rainwater harvesting and graywater reuse are fundamental [[swale-design]] for larger-scale water capture.
+## Rainwater Harvesting and Graywater Reuse [Rainwater harvesting and graywater reuse are fundamental [[swale-design]] for larger-scale water capture.
 
 For urban gardeners, 55-gallon drums are the most accessible entry point into rainwater harvesting. They can be obtained cheaply from food processors, industrial suppliers, or salvage yards. Clean food-grade drums are ideal. Paint them dark to prevent algae growth, and screen the inlets to keep out mosquitoes and debris.
 

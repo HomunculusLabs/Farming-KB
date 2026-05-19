@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, chemistry, psilocybin, alkaloids, fungal-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 type: concept
 ---
-# Chemical Constituents of Neurotropic Mushrooms ## Major Classes of Neurotropic Compounds Neurotropic (psychoactive) fungi contain several distinct classes of chemical compounds that affect the central nervous system. The 216 known neurotropic species can be divided into groups based on their chemistry. ### Indole Alkaloids (Psilocybin Group) The largest group of neurotropic fungi contains indole alkaloids, primarily [[conocybe-cyanopus]], and  aeruginascens. It was first
+## Chemical Constituents of Neurotropic Mushrooms ## Major Classes of Neurotropic Compounds Neurotropic (psychoactive) fungi contain several distinct classes of chemical compounds that affect the central nervous system. The 216 known neurotropic species can be divided into groups based on their chemistry. ### Indole Alkaloids (Psilocybin Group) The largest group of neurotropic fungi contains indole alkaloids, primarily [[conocybe-cyanopus]], and  aeruginascens. It was first
 isolated and identified by Gartz (1989a). Its pharmacological properties
 differ from psilocybin and may contribute to the distinct effects
 reported for I. aeruginascens compared with other neurotropic species.

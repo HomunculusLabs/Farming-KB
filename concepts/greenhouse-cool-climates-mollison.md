@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Greenhouse Growing in Cool Climates (Mollison)
+## Greenhouse Growing in Cool Climates (Mollison)
 Updated: 2026-04-18
 Source: Permaculture: A Designers' Manual, Bill Mollison,
 Section 12.8 (pp. 422-423)

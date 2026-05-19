@@ -1,4 +1,8 @@
-# Anandamide, Exercise, and Natural Endocannabinoid Enhancement
+---
+title: "Anandamide, Exercise, and Natural Endocannabinoid Enhancement"
+tags:
+  - concept
+---
 
 **Source:** The [[anandamide-bliss-molecule]],"
 it is structurally similar to THC and binds at the same CB1 and CB2 receptor

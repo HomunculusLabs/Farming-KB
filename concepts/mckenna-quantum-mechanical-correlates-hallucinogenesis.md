@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
-# Quantum Mechanical Correlates of Hallucinogenesis
+## Quantum Mechanical Correlates of Hallucinogenesis
 
 ## Overview
 

@@ -6,7 +6,7 @@ tags: [rhizosphere, microbiome, soil-biology, plant-microbe-interactions, root-e
 aliases: [rhizosphere microbiology, rhizosphere effect, root zone microbiome]
 ---
 
-# Rhizosphere Microbial Communities
+## Rhizosphere Microbial Communities
 
 ## Overview
 

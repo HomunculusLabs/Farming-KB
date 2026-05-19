@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Cannabis Genetics — Dominant and Recessive Traits, Test Crosses, and Breeding
+## Cannabis Genetics — Dominant and Recessive Traits, Test Crosses, and Breeding
 
 ## Overview
 

@@ -5,7 +5,7 @@ source_author: Elaine Ingham Ph.D
 topics: [aact, compost-tea, foliar-application, sticker-spreader, leaf-surface-biology]
 ---
 
-# AACT Foliar Sticker-Spreaders and Leaf Surface Attachment
+## AACT Foliar Sticker-Spreaders and Leaf Surface Attachment
 
 ## Overview
 

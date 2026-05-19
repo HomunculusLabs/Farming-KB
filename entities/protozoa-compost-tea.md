@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---
 
-# Protozoa in Compost Tea
+## Protozoa in Compost Tea
 
 ## Description
 

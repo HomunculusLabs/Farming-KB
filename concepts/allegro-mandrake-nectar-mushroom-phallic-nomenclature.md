@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Allegro on Mandrake, Nectar, and Phallic Mushroom Nomenclature
+## Allegro on Mandrake, Nectar, and Phallic Mushroom Nomenclature
 
 John M. Allegro's *[[allegro-plants-and-drugs-in-the-ancient-world]] encode Sumerian words for the sacred
 mushroom. Through careful philological analysis, Allegro traces the etymologies

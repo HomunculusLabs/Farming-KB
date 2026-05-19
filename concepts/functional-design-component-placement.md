@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Functional Design and Component Placement
+## Functional Design and Component Placement
 
 Functional design is a core methodology in [[maps]] and fixed data are static — they cannot reveal processes or dynamic interactions such as heavy rain and subsequent runoff. Process and events as encountered on a real site are never fully captured by maps. It is from observing these processes that designers can devise strategies of "least change," saving energy and time in ways no static method can achieve.
 

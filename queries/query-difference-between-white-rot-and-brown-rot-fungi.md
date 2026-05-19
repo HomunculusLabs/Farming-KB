@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between White Rot and Brown Rot Fungi
+## What Is the Difference Between White Rot and Brown Rot Fungi
 
 ## Short Answer
 White rot fungi break down all components of wood including lignin, cellulose, and

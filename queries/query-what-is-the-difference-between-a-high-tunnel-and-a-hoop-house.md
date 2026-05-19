@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-designers-manual-bill-mollison.md"
 ---
 
-# What Is the Difference Between a High Tunnel and a Hoop House?
+## What Is the Difference Between a High Tunnel and a Hoop House?
 
 ## Short Answer
 

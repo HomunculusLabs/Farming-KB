@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Fix Potassium Deficiency in Cannabis
+## How to Fix Potassium Deficiency in Cannabis
 
 ## Short Answer
 Potassium deficiency in cannabis causes brown or yellow edges on older leaves, curling

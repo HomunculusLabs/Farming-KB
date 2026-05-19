@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/teaming-with-fungi-lowenfels.md]
 ---
 
-# Arbuscular Mycorrhizal Networks
+## Arbuscular Mycorrhizal Networks
 ## Overview
 
 Arbuscular mycorrhizal (AM) fungi (phylum Glomeromycota) form the most widespread and ancient symbiosis with land plants, associating with approximately 80% of all vascular plant families. These networks of hyphae connecting plant roots are critical for [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]], arbuscules (nutrient exchange), and vesicles (storage structures) within root cells

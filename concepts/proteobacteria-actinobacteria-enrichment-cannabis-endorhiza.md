@@ -6,7 +6,7 @@ source: [understanding-cultivar-specificity-cannabis-microbiome]
 created: 2026-05-10
 ---
 
-# Proteobacteria and Actinobacteria Enrichment in Cannabis Endorhiza: The Nutrient-Driven Shift
+## Proteobacteria and Actinobacteria Enrichment in Cannabis Endorhiza: The Nutrient-Driven Shift
 
 ## Overview
 

@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [psilocybin, mushrooms]
-sources: [/Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md]
+sources: ["raw/papers/field-guide-to-the-psilocybin-mushroom.md"]
 ---
-# Psilocybin Mushroom Field Collection Techniques
+## Psilocybin Mushroom Field Collection Techniques
 
 The specialized methods and approaches for finding and collecting psilocybin-containing mushrooms in the wild, distinct from techniques used for common edible [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are small in comparison to common edible varieties (such as Agaricus, Boletus, and Lepiota), the technique for finding them is more subtle.
 

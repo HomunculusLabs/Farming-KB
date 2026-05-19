@@ -8,7 +8,7 @@ type: concept
 tags: [counterculture, culture, mushroom-cultivation, mushrooms]
 ---
 
-# 1960s Counterculture and Magic Mushrooms
+## 1960s Counterculture and Magic Mushrooms
 
 The psychedelic revolution of the 1960s transformed magic mushrooms from an
 obscure ethnographic curiosity into a symbol of cultural rebellion. While LSD was the undisputed star of the

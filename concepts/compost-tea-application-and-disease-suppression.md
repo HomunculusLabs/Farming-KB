@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Compost Tea Application and Disease Suppression
+## Compost Tea Application and Disease Suppression
 
 ## Overview
 

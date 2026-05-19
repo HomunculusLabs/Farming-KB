@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, cultivation-history, underground-literature, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+sources: ["raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md"]
 type: concept
 ---
 
-# Oss & Oeric: History and Impact of an Underground Classic
+## Oss & Oeric: History and Impact of an Underground Classic
 
 *Psilocybin: Magic Mushroom Grower Guide*, published in 1976 by
 And/Or Press (Berkeley, CA), represents one of the most influential

@@ -5,7 +5,7 @@ type: entity
 tags: [mushroom, genus, cultivation, medicinal, shiitake]
 ---
 
-# Lentinula (Genus)
+## Lentinula (Genus)
 
 ## Description
 

@@ -20,7 +20,7 @@ synonyms:
 type: concept
 ---
 
-# Grow Room Security and Law Enforcement Evasion
+## Grow Room Security and Law Enforcement Evasion
 
 [[cervantes-guerrilla-growing-tactics]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

@@ -19,7 +19,7 @@ sources:
   - "Maurya, S.K. et al. (2020). \"Vasicine: comprehensive pharmacological review.\" Pharmacognosy Reviews, 14(28), 125-133."
 ---
 
-# Vasicine
+## Vasicine
 
 ## Overview
 

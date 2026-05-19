@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
-# Colombian Cannabis Strain Description (Clarke)
+## Colombian Cannabis Strain Description (Clarke)
 
 ## Geographic Origin
 

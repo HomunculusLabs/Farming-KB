@@ -4,7 +4,7 @@ source: biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills &
 concepts: [culture-preservation, cryopreservation, lyophilization, silica-gel, fungal-culture]
 ---
 
-# Fungal Culture Preservation Techniques
+## Fungal Culture Preservation Techniques
 
 Maintaining living [[fungal-biodiversity-conservation-status]]. Chapter 3 of *Biodiversity
 of Fungi* (Mueller, Bills & Foster, 2004), by Nakasone, Peterson, and Jong, provides a

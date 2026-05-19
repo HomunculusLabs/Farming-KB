@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Inflammatory Bowel Disease (IBD/IBS)
+## Cannabis and Inflammatory Bowel Disease (IBD/IBS)
 
 **Source:** Uwe Blesching, The [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] inhibitor VDM11 enhanced endocannabinoid system action; cannabinoids reduced colitis. Scientists concluded drugs targeting EC degradation offer therapeutic potential for IBD. CHI=3
 

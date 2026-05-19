@@ -1,4 +1,8 @@
-# Phytochrome Ecological Signaling: Red and Far-Red Light at Dusk and Dawn
+---
+title: "Phytochrome Ecological Signaling: Red and Far-Red Light at Dusk and Dawn"
+tags:
+  - concept
+---
 
 Phytochrome serves as the primary photoreceptor mediating plant responses to red and
 far-red light. Its [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] is elegantly attuned to the natural light

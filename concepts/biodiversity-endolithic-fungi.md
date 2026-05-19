@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, endolithic-fungi, lithophytes, extremophiles, geology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md""]
 type: concept
 ---
-# Endolithic and Rock-Dwelling Fungi
+## Endolithic and Rock-Dwelling Fungi
 
 Endolithic fungi are organisms that colonize and live inside rocks, minerals,
 calcified biological structures, and other hard substrates. These fungi

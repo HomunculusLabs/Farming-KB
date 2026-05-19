@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Climate Zone Assessment
+## Winter Harvest Climate Zone Assessment
 
 Successfully growing vegetables through winter in unheated or minimally heated structures requires understanding the specific winter climate characteristics of your location. [[eliot-coleman]] identifies four key climate factors that determine winter harvest feasibility, arguing that the standard USDA zone map alone is insufficient for planning winter growing operations.
 

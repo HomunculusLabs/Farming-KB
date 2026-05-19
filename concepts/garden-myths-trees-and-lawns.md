@@ -7,7 +7,7 @@ sources: linda-chalker-scott-the-informed-gardener
 tags: [garden-myths, trees, horticulture, debunking]
 ---
 
-# Garden Myths About Trees and Lawns
+## Garden Myths About Trees and Lawns
 
 Trees and lawns are the dominant elements in most landscapes, and both are surrounded by persistent myths that affect how they are planted, maintained, and managed. These myths can lead to unnecessary expense, wasted resources, and poor plant health outcomes.
 

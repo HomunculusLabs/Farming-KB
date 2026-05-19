@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Leek Cultivation and Deep Planting Techniques
+## Leek Cultivation and Deep Planting Techniques
 
 Leeks are a nearly year-round crop in the diversified winter-harvest system, prized for their edible white blanched stems. The key to efficient, intensive leek production is growing custom transplants and planting them using the **dibble-and-drop method**, which produces long blanched shanks without labor-intensive hilling. This approach allows tight spacing and high yields per bed.
 

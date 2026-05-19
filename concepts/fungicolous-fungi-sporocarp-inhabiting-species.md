@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
-# Fungicolous Fungi: Sporocarp-Inhabiting Species and Host Relationships
+## Fungicolous Fungi: Sporocarp-Inhabiting Species and Host Relationships
 Updated: 2026-04-18
 Fungicolous fungi are species of fungi consistently associated with other
 fungi, including [[botrytis-cinerea]] and [[nematophagous-fungi]] also functioning as contact mycoparasites);

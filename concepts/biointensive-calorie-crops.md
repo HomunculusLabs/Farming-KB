@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/pihkal-a-chemical-love-story.md"
 ---
-# Biointensive Calorie Farming
+## Biointensive Calorie Farming
 
 Calorie farming is a core principle of [[biointensive-carbon-farming]] (60% of total area)
 

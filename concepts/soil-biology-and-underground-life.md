@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Biology and Underground Life
+## Soil Biology and Underground Life
 
 The living organisms within soil constitute one of the most complex and least appreciated ecosystems on Earth. Before humans learned to cut open the soil with ploughs, it was thoroughly dug, aerated, and overturned by multitudes of industrious burrowers. The unploughed meadows of Europe and America were as soft as a great mattress, well aerated by the moles, gophers, worms, prairie dogs, rodents, and larvae eternally at work below ground, even beneath winter snows. Understanding this underground biology is essential for any designer working with soil, as these organisms are the true builders and maintainers of soil structure.
 

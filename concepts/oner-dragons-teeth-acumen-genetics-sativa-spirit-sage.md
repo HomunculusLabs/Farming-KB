@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, acumen-genetics, sage, pest-resistant, indoor-growing]
 ---
 
-# Dragon's Teeth
+## Dragon's Teeth
 
 **Breeder:** Acumen Genetics (USA)
 **Genetics:** Sativa Spirit × SAGE

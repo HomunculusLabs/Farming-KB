@@ -1,4 +1,8 @@
-# McKenna Soma and the Vedic Enigma
+---
+title: "McKenna Soma and the Vedic Enigma"
+tags:
+  - concept
+---
 
 ## Overview
 

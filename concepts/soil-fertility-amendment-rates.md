@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Soil Fertility Amendment Rates
+## Soil Fertility Amendment Rates
 
 In *[[gardening-when-it-counts]]*, [[steve-solomon]] presents a stepwise gradient
 for [[building-soil-fertility-long-term]]. Rather than insisting on one "ideal" fertility

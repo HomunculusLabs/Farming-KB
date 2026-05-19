@@ -14,7 +14,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# African Landrace Sativa Strains
+## African Landrace Sativa Strains
 Africa is one of the primary centers of cannabis genetic diversity, home to numerous landrace
 sativa varieties that have been cultivated for centuries. These strains represent some of the
 purest expressions of the [[cannabis-colombian-gold-landrace-sativa]] is a pure sativa from Colombia representing one of the

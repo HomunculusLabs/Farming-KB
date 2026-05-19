@@ -5,7 +5,7 @@ tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09
 ---
 
-# Phototropism — Darwin's Experiments on Plant Light Sensitivity
+## Phototropism — Darwin's Experiments on Plant Light Sensitivity
 
 In 1880, Charles Darwin and his son Francis published a landmark finding
 in plant biology: they demonstrated that plants possess a form of sight.

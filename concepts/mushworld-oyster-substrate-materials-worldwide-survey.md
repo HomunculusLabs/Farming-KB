@@ -1,4 +1,8 @@
-# MushWorld: Oyster [[accessible-mushroom-cultivation-for-disabilities]] on waste substrates offers a partial solution
+---
+title: "MushWorld: Oyster accessible mushroom cultivation for disabilities on waste substrates offers a partial solution"
+tags:
+  - concept
+---
 
 ## C/N Ratio and pH Guidelines
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aboriginal Pattern Knowledge and Indigenous Information Systems
+## Aboriginal Pattern Knowledge and Indigenous Information Systems
 
 Indigenous peoples around the world developed sophisticated knowledge systems encoded in
 song, dance, visual pattern, and oral tradition. These systems stored vast quantities

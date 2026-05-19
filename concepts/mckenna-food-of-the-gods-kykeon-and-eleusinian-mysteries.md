@@ -1,5 +1,5 @@
 ---
-title: Kykeon and the mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries in Food of the Gods
+title: "Mckenna Food Of The Gods Kykeon And Eleusinian Mysteries"
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Kykeon and the Eleusinian Mysteries in Food of the Gods
+## Kykeon and the Eleusinian Mysteries in Food of the Gods
 
 In [[dionysian-cults]] to Eleusis itself. The Dionysian theme entered Greece from the south, from "island cultures with roots ten thousand years deep in the religion of the mushroom Mother Goddess," and from Asia Minor, "but via four millennia of incubation within Minoan civilization." The mysteries planted on Grecian shores at Eleusis were "the latest, last, and most baroque adumbrations of the great Archaic religion of the Goddess, cattle, and ecstatic intoxication by indole hallucinogens."
 

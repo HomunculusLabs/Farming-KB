@@ -1,11 +1,11 @@
 ---
 title: Blesching Cannabis Healing Practices Setting Intention Affirmations
 source: The blesching-cannabis-health-index-autoimmune-conditions (Blesching, 2015)
-source_path: /Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+source_path: raw/raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [cannabis, mind-body-medicine, healing-practices, intention-setting, affirmations, mindfulness, endocannabinoid-system, blesching]
 ---
 
-# Cannabis Healing Practices — Setting, Intention, and Affirmations
+## Cannabis Healing Practices — Setting, Intention, and Affirmations
 
 ## Overview
 

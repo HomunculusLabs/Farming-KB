@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Holzer Seed Autonomy and Preserving Old Varieties
+## Holzer Seed Autonomy and Preserving Old Varieties
 
 Everyone talks about biodiversity, yet supermarket shelves tell a different
 story: monotony. The same products are sold across the globe, and the vast

@@ -1,5 +1,5 @@
 ---
-title: cannabis cannabis-anointing-oil-blessing-rituals
+title: "Cannabis Anointing Oil"
 created: 2026-04-28
 tags:
   - ritual
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Anointing Oil
+## Cannabis Anointing Oil
 
 The Blessing of the Oil is a cannabis-infused anointing ritual from "Marijuana
 Magick: A Practitioners Guide" by Magus Sativus. This ceremony combines the

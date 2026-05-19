@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM SESE Philosophy
+## JADAM SESE Philosophy
 
 SESE is the foundational design principle of the [[coleman-deep-organic-farming-philosophy]] has evolved into a system where farmers must "buy expensive things from afar instead of valuing what is near and cheap." Manufacturers, distributors, and retailers of farm inputs shaped organic farming into its current high-cost form. Their profit-seeking motivated the development of agricultural technology.
 

@@ -13,7 +13,7 @@ sources:
   - benjamin-minge-duggar-mushroom-growing.md
 ---
 
-# Cultivated Agaricus Species Taxonomy and Variety Classification
+## Cultivated Agaricus Species Taxonomy and Variety Classification
 
 The taxonomy of cultivated agarics has been a persistent source of
 confusion since the earliest days [[hamilton-vegetative-propagation]] for centuries. The question of how many distinct

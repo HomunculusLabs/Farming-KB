@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Vacuolar System and Intracellular Transport in Fungi
+## Vacuolar System and Intracellular Transport in Fungi
 
 ## Overview
 

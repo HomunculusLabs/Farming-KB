@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
-# The Fly-Agaric in Western Literature
+## The Fly-Agaric in Western Literature
 
 The [[coleman-louis-savier-twentieth-century-maraicher]], gaining new energy from the psychedelic revolution. Robert Graves, in The [[fly-agaric-siberian-shamanic-practice]] for ethnographic details.
 

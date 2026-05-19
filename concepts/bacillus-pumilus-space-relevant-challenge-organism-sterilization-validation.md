@@ -4,7 +4,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 topics: [bacillus pumilus, challenge organism, space microbiology, sterilization validation, NASA]
 ---
 
-# Bacillus pumilus as a Space-Relevant Challenge Organism for Sterilization Validation
+## Bacillus pumilus as a Space-Relevant Challenge Organism for Sterilization Validation
 
 ## Overview
 

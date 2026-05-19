@@ -10,7 +10,7 @@ updated: 2026-04-28
 sources: []
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
-# Gymnopilus penetrans
+## Gymnopilus penetrans
 
 Gymnopilus penetrans is a wood-inhabiting mushroom in the family
 Cortinariaceae (or Hymenogastraceae under some classifications)

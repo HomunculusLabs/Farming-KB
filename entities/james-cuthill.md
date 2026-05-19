@@ -22,7 +22,7 @@ sources:
 - raw/papers/william-falconer-mushroom-how-to-grow-them.md
 ---
 
-# James Cuthill
+## James Cuthill
 
 19th-century British author and professional gardener, author of "A Treatise on the Cultivation of the Mushroom" (1870). Published by Groombridge and Sons, Paternoster Row, London. Cuthill (FRHS — Fellow of the Royal Horticultural Society) was based in Camberwell, London, and also authored a pamphlet on "Market Gardening."
 

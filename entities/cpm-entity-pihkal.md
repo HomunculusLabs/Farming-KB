@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# CPM
+## CPM
 
 [[mescaline]], in that I kept losing the awareness of
 > the drug's role in my experience. Visual exaggerations are probably

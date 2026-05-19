@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Paul Casamajor
+## Paul Casamajor
 
 ## Overview
 

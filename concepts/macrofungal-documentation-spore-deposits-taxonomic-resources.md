@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Macrofungal Documentation, Spore Deposits, and Taxonomic Resources
+## Macrofungal Documentation, Spore Deposits, and Taxonomic Resources
 
 ## Describing Macromorphological Features (continued)
 

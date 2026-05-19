@@ -5,7 +5,7 @@ topics: [aact, water-treatment, chlorine, chloramine, citric-acid,
   aeration, water-quality, dechlorination]
 ---
 
-# Citric Acid and Chlorine Removal for AACT Water Treatment
+## Citric Acid and Chlorine Removal for AACT Water Treatment
 
 ## Summary
 

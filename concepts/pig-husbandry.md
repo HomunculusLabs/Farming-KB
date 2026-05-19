@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health, 
 sources: []
 ---
 
-# Pig Husbandry
+## Pig Husbandry
 
 Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior

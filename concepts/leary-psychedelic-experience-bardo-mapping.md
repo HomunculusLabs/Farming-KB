@@ -8,7 +8,7 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 type: concept
 ---
 
-# Bardo Mapping of the Psychedelic Experience
+## Bardo Mapping of the Psychedelic Experience
 
 ## Introduction
 

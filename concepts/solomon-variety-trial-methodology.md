@@ -6,7 +6,7 @@ tags: [seed-testing, variety-trials, gardening-method, plant-breeding, evaluatio
 created: 2026-05-11
 ---
 
-# Solomon's Variety Trial Methodology
+## Solomon's Variety Trial Methodology
 
 [[steve-solomon]] developed his variety trial methodology during his years running
 [[territorial-seed-company]] (1979-1986). He argues that honest seed businesses

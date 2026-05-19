@@ -14,7 +14,7 @@ sources:
   - Montgomery, J.D. & Pickett, F.L. (2006). "Ferns for the American Garden." Houghton Mifflin.
 ---
 
-# Polystichum braunii
+## Polystichum braunii
 
 ## Overview
 

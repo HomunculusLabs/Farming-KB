@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Humid Tropics Introduction and Climatic Zones
+## Humid Tropics Introduction and Climatic Zones
 
 Chapter 10 of *Permaculture: A Designers' Manual* by Bill Mollison introduces the humid tropics as a distinct climatic zone requiring specialized design strategies. This page covers the defining characteristics of the humid tropics, the fundamental patterns of swale succession systems from valley to ridge, and the essential design principles for establishing productive and resilient systems in these environments.
 

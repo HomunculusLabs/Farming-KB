@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Pest Management Without Chemicals
+## Fukuoka's Pest Management Without Chemicals
 
 ## Overview
 
@@ -51,7 +51,7 @@ crops.
 
 ## Merged: Farming Without Chemicals
 
-# Farming Without Chemicals
+## Farming Without Chemicals
 
 A cornerstone of Masanobu Fukuoka's [[coleman-beneficial-insects-and-ecological-pest-control]] return and establish natural population controls.
 

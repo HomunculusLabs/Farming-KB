@@ -16,7 +16,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Pluteus salvinius
+## Pluteus salvinius
 
 ## Overview
 

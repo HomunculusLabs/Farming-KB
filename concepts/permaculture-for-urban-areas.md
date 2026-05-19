@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture for Urban Areas
+## Permaculture for Urban Areas
 
 [[permaculture-design-principles]] apply as rigorously to tiny urban spaces as to large rural properties. In urban settings, the primary design challenges are limited space and reduced solar access, but these constraints can be overcome through strategic plant selection, [[coleman-greenhouse-tomato-vertical-growing]] systems, and creative use of available light and resources.
 

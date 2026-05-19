@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Small Forest Farm Design
+## Small Forest Farm Design
 
 Small forest farm design is a core principle of [[permaculture-design]] assigns productive tree systems to sites that conventional agriculture considers marginal:
 

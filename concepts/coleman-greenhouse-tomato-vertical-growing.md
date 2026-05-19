@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Greenhouse Tomato Vertical Growing
+## Greenhouse Tomato Vertical Growing
 
 The [[cannabis-seed-germination-methods]],
 and the weed seedlings are flamed off before transplanting.

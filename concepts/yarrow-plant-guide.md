@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, companion-planting, poll
 sources: []
 ---
 
-# Yarrow Growing Guide (Achillea millefolium)
+## Yarrow Growing Guide (Achillea millefolium)
 
 ## Overview
 

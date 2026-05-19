@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Sacred Brewing Traditions
+## Sacred Brewing Traditions
 
 For most of human history, brewing was not merely a practical activity but a sacred one. Fermented beverages were understood as gifts from the gods, tools for accessing divine realms, and central elements of religious ceremony. The sacred dimension of brewing has been largely forgotten in the modern industrial era, but examining these traditions reveals the deep spiritual significance that fermented drinks held across cultures.
 

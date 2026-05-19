@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Lemonator
+## Lemonator
 
 Lemonator is a sativa-dominant hybrid [[cervantes-cannabis-seed-purchasing-storage]] industry, the company
 has earned respect in their native Canada as well as expanding recognition in

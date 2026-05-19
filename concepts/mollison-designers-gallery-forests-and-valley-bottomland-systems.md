@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Gallery Forests and Valley Bottomland Systems
+## Gallery Forests and Valley Bottomland Systems
 
 Gallery forests are the ribbons of tree cover that line
 riverbanks and valley floors in otherwise open landscapes,

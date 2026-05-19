@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: [raw/papers/marijuana-horticulture-cervantes.md]
 ---
 
-# Aphids vs Spider Mites
+## Aphids vs Spider Mites
 
 ## Overview
 

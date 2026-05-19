@@ -10,7 +10,7 @@ updated: 2026-05-02
 sources:
 ---
 
-# Rick Strassman
+## Rick Strassman
 
 ## Overview
 

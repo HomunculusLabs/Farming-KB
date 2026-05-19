@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Degradation, Volatility, and Specimen Age
+## Psilocybin Degradation, Volatility, and Specimen Age
 
 The psychoactive potency of psilocybin-containing fungi is not fixed at
 the time of collection but declines significantly with specimen age,

@@ -7,7 +7,7 @@ tags: [soil-ph, microbiology, nitrification, soil-chemistry]
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
-# Soil pH and Biology
+## Soil pH and Biology
 
 In the soil food web framework, pH is not merely a chemical measurement — it is a biological phenomenon. The pH in the rhizosphere is created and maintained by soil organisms and determines which types of microorganisms thrive, what forms of nitrogen are available, and ultimately how well plants grow. Lowenfels and Lewis argue that each plant's optimum soil pH has more to do with the needs of its associated fungi and bacteria than with chemistry alone.
 

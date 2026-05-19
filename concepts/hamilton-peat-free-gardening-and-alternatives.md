@@ -8,7 +8,7 @@ sources: [hamilton-geoffhamilton-nick_-organic-gardening.md]
 type: concept
 ---
 
-# Peat-Free Gardening and Alternatives
+## Peat-Free Gardening and Alternatives
 
 There is increasing concern about the use of peat as a [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], with some even incorporating material produced from green
 recycling centres. These products work well in practice, with coir being

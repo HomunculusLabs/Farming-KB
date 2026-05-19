@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Insectary Plants Guide
+## Insectary Plants Guide
 
 Insectary plants attract, feed, and shelter [[coleman-overwintered-onions-and-early-spring-crops]] |
 | Chicory | N | P | |

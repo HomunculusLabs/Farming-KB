@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Jivaro Shamanism and Natemd
+## Jivaro Shamanism and Natemd
 
 ## Overview
 

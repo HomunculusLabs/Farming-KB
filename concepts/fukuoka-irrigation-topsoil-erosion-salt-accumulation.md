@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka on Irrigation, Topsoil Erosion, and Salt Accumulation
+## Fukuoka on Irrigation, Topsoil Erosion, and Salt Accumulation
 [[jadam-soil-compaction-heavy-machinery]] creates
 a self-reinforcing cycle of soil destruction that he considered more destructive
 than the absence of farming altogether.

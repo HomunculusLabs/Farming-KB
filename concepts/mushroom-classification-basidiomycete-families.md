@@ -13,7 +13,7 @@ sources:
   - raw/papers/benjamin-minge-duggar-mushroom-growing.md
 ---
 
-# Mushroom Classification and Basidiomycete Families
+## Mushroom Classification and Basidiomycete Families
 
 Benjamin [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]*, the [[palmer-poisonous-mushrooms-deadly-species]], including *A. phalloides* (the Death Cap) and *A. muscaria* (the Fly Agaric, perhaps the handsomest mushroom of the forest). These are characterized by a volva (cup) at the base of the stem and scales or patches on the cap — critical identification features. The Royal Agaric, *Amanita Caesarea*, is a great delicacy but should be omitted by amateur collectors.
 

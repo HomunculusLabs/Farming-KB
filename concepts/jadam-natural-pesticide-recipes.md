@@ -7,7 +7,7 @@ tags: [jadam, pesticide, recipes, natural-farming]
 sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
-# JADAM Natural Pesticide Recipes
+## JADAM Natural Pesticide Recipes
 
 JADAM natural pesticide (JNP) is an all-purpose pesticide system built from three core ingredients: JADAM [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. All recipes are mixed with water to make 500 L (132 gal), enough for approximately 0.33 ha (0.8 ac).
 

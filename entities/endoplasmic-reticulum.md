@@ -5,7 +5,7 @@ type: entity
 tags: [organelle, cell-biology, protein-transport, lipid-synthesis, plant-cell]
 ---
 
-# Endoplasmic Reticulum
+## Endoplasmic Reticulum
 
 ## Description
 

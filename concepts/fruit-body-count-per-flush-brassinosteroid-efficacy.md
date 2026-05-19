@@ -5,7 +5,7 @@ created: 2026-05-09
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 ---
 
-# Fruit Body Count per Flush as a Measure of Brassinosteroid Efficacy
+## Fruit Body Count per Flush as a Measure of Brassinosteroid Efficacy
 
 ## Overview
 

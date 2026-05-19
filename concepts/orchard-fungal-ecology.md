@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, ecology, agriculture, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+sources: ["raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"]
 type: concept
 ---
 
-# Orchard Fungal Ecology
+## Orchard Fungal Ecology
 
 Orchard fungal ecology encompasses the diverse relationships between fungi and fruit tree ecosystems, including beneficial mycorrhizal associations, saprotrophic decomposition cycles, and pathogenic interactions that affect tree health and fruit production. Orchards represent unique managed ecosystems where fungal communities are shaped by both natural ecological processes and human intervention through pruning, spraying, soil management, and tree planting decisions.
 

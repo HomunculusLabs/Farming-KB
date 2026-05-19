@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Toadstool Eating and Amateur Mycology
+## Toadstool Eating and Amateur Mycology
 
 Julius A. Palmer's 1877 article "Toadstool-Eating," published in the Popular
 Science Monthly, represents one of the first serious American attempts to

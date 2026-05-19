@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Trees and Precipitation Generation
+## Trees and Precipitation Generation
 
 ## Trees as Creators of Soils and Atmosphere
 

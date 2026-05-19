@@ -6,7 +6,7 @@ topic: mycology
 created: 2026-05-08
 ---
 
-# Psilocybe Habitat Preferences and Vegetation Type Associations
+## Psilocybe Habitat Preferences and Vegetation Type Associations
 
 The global [[fungal-biodiversity-tropical-forests]], and only 4 with coniferous forests. This
 holds despite the fact that coniferous forests in Mexico have been more

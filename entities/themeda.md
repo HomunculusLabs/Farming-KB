@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Themeda (Kangaroo Grass)
+## Themeda (Kangaroo Grass)
 
 ## Description
 

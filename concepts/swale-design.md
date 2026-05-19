@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Swale Design
+## Swale Design
 
 Swale design is the planning and construction of level or near-level channels built on contour to intercept, slow, and infiltrate surface water runoff into the landscape. Swales are one of the most important earthworking tools in permaculture, serving as the primary means of rehydrating degraded landscapes, preventing erosion, and establishing tree crops on previously arid or marginal land. Bill Mollison devotes significant attention to swales in both his dryland strategies and general water harvesting chapters.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Salvia divinorum: Diviner's Sage
+## Salvia divinorum: Diviner's Sage
 
 ## The Mazatec Visionary Herb
 

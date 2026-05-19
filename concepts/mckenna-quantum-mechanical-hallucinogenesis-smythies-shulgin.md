@@ -1,4 +1,8 @@
-# Quantum Mechanical Hallucinogenesis: Smythies, Shulgin, and the Matter-Mind Interface
+---
+title: "Quantum Mechanical Hallucinogenesis: Smythies, Shulgin, and the Matter-Mind Interface"
+tags:
+  - concept
+---
 
 ## Overview
 

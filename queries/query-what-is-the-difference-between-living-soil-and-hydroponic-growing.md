@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Living Soil and Hydroponic Growing?
+## What Is the Difference Between Living Soil and Hydroponic Growing?
 
 ## Short Answer
 Living soil grows plants in a biologically active organic medium where microbes

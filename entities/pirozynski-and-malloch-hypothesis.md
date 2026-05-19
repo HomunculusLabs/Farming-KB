@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Pirozynski and Malloch Hypothesis (1975)
+## Pirozynski and Malloch Hypothesis (1975)
 
 ## Description
 

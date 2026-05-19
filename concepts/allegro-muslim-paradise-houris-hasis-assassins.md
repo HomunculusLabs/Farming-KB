@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Qur'anic Paradise, Houris, and the Assassins: Mushroom-Cult Origins in Islam
+## Qur'anic Paradise, Houris, and the Assassins: Mushroom-Cult Origins in Islam
 
 [[john-allegro]]'s philological analysis extends beyond Judaeo-Christian tradition into Islam,
 arguing that key Qur'anic concepts — the Gardens of Delight, the wide-eyed houris,

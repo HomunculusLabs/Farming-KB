@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Ayahuasca Ceremony and the Mariri System
+## Ayahuasca Ceremony and the Mariri System
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Choose the Right Cover Crop for My Garden?
+## How Do I Choose the Right Cover Crop for My Garden?
 
 ## Short Answer
 Choose cover crops based on your primary goal: [[permplant-willows-salix-erosion-control-fodder]], or pest management. Legumes like

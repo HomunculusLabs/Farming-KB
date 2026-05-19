@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [mycelium, nutrient transport, fungal networks, basidiomycetes, translocation, foraging]
 ---
 
-# Mycelial Nutrient Transport and Network Dynamics
+## Mycelial Nutrient Transport and Network Dynamics
 
 ## Overview
 

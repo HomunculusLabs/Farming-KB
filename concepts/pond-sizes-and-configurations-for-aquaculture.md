@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Sizes and Configurations for Aquaculture
+## Pond Sizes and Configurations for Aquaculture
 
 Fish ponds range from tiny garden containers to multi-hectare impoundments, each scale suited to different purposes, management intensities, and economic contexts. Understanding the appropriate uses for each size order—and how ponds can be arranged in landscapes—allows permaculture designers to integrate aquaculture effectively at any scale from household to commercial enterprise.
 

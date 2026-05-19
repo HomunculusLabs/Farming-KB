@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: [raw/papers/sepp-holzer-practical-guide.md]
 ---
 
-# How Do I Grow Vegetables on a Balcony or Small Patio?
+## How Do I Grow Vegetables on a Balcony or Small Patio?
 
 ## Short Answer
 

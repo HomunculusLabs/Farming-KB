@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Book Structure and Design Framework (Holmgren)
+## Permaculture Book Structure and Design Framework (Holmgren)
 
 This page covers the structural and methodological framework of [[david-holmgren]]'s *Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]]*, including the book's organization, the Permaculture Flower model, [[zone-and-sector-analysis]], and the conceptual tools used for [[permaculture-design]]. The book represents the most advanced systematic presentation of permaculture concepts, structured around the 12 design principles as taught in residential Permaculture Design Courses.
 

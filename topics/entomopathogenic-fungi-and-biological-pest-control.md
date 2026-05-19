@@ -28,7 +28,7 @@ related_concepts:
   - termitomyces-african-mushrooms
 ---
 
-# Entomopathogenic Fungi and Biological Pest Control
+## Entomopathogenic Fungi and Biological Pest Control
 
 *How fungi that kill insects are revolutionizing agriculture and pest management*
 

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Designing Sampling Protocols for Lichen Biodiversity Inventory
+## Designing Sampling Protocols for Lichen Biodiversity Inventory
 
 Designing effective sampling protocols for [[lichen]] biodiversity inventory requires careful
 attention to personnel, equipment, field procedures, data archiving, and the alignment of

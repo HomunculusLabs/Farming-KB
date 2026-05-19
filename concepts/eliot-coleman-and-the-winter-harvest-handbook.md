@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Eliot Coleman and The Winter Harvest Handbook
+## Eliot Coleman and The Winter Harvest Handbook
 
 ## Eliot Coleman: A Biography
 

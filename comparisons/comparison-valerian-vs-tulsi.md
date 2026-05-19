@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Valerian vs Tulsi
+## Valerian vs Tulsi
 
 ## Overview
 
