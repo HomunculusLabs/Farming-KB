@@ -1,5 +1,5 @@
 ---
-title: Sachamama And [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent]]
+title: Sachamama And Forest Spirits
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---

@@ -144,11 +144,6 @@ and dense clusters of small yellow flowers. The crushed root has a distinct
 rose-like fragrance from geraniol and rose oxide, which distinguishes authentic
 R. rosea from adulterant species.
 
-Grows naturally at altitudes of 1,500-5,000 meters in rocky, well-drained
-substrates. Prefers cold climates (USDA zones 1-6) and cool summers with
-average temperatures of 10-18°C. It struggles in hot, humid conditions above
-25°C.
-
 ## See Also
 - [[adaptogenic-herbs-guide]]
 - [[adaptogenic-herbs-overview]]

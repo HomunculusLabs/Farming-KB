@@ -1,5 +1,5 @@
 ---
-title: [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] And Sustainability
+title: Permaculture Design Principles And Sustainability
 tags:
   - permaculture
   - sustainability

@@ -1,5 +1,5 @@
 ---
-title: Biodiversity Trichomycetes [[anaerobic-gut-fungi]]
+title: Biodiversity Trichomycetes Gut Fungi
 created: 2026-04-28
 tags:
   - biodiversity-symbiosis

@@ -116,7 +116,7 @@ Provides a well-bounded metric distance useful for ordination and clustering.
 
 ### [[bray-curtis-dissimilarity]]
 
-Among the most widely used [[quantitative-indices-fungal-diversity]]] in fungal ecology. Bounded 0 to 1, it
+Among the most widely used [[quantitative-indices-fungal-diversity]] in fungal ecology. Bounded 0 to 1, it
 gives less weight to dominant species than Euclidean distance and handles
 heterogeneous, zero-inflated datasets typical of fungal studies well.
 
@@ -139,7 +139,7 @@ changes. A site pair may share most species (high Jaccard) but differ in dominan
 ## Applications in Fungal Ecology
 - **Ordination** (NMDS, PCoA) of assemblages across [[soil-ph]], host species, or land use
 - **[[cluster-analysis-fungal-biodiversity-classification]]** to identify community types (tropical vs. temperate)
-- **Temporal comparisons** of [[mushroom-seasonal-succession-perennial-spawn]] al-succession-in-permaculture-design]] ectomycorrhizal communities
+- **Temporal comparisons** of [[mushroom-seasonal-succession-perennial-spawn]] and ectomycorrhizal communities
 - **Biogeographic analyses** comparing fungal floras across continents or islands
 
 ## See Also
@@ -147,4 +147,4 @@ changes. A site pair may share most species (high Jaccard) but differ in dominan
 - Ordination methods in fungal ecology
 - [[cluster-analysis-fungal-biodiversity-classification]] of community data
 - [[environmental-dna-metabarcoding]] and sequence-based fungal surveys
-- [[alpha-beta-gamma-diversity-fungi]] and [[alpha-beta-gamma-diversity-fungi]]]
+- [[alpha-beta-gamma-diversity-fungi]] and [[alpha-beta-gamma-diversity-fungi]]

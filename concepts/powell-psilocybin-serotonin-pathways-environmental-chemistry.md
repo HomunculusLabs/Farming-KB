@@ -1,5 +1,5 @@
 ---
-title: Powell [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] Pathways Environmental Chemistry
+title: Powell Psilocybin Serotonin Pathways Environmental Chemistry
 created: 2026-04-28
 tags: [psilocybin, serotonin, neurotransmitter, diet, consciousness, powell]
 date: 2026-04-25
