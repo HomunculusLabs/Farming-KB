@@ -1,5 +1,5 @@
 ---
-title: [[maitake-strain-selection-and-spawn-types]] Substrate Options
+title: Maitake Strain Selection And Substrate
 source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Energy Analysis Rice Production [[fukuoka-energy-productivity-natural-vs-mechanized-farming]]
+title: Fukuoka Energy Analysis Rice Production Natural Vs Mechanized
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory
 topics: energy-efficiency, mechanization, rice-production, agricultural-economics, natural-farming
 ---

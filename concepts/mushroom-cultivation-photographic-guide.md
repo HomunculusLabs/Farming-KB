@@ -1,5 +1,5 @@
 ---
-title: [[accessible-mushroom-cultivation-for-disabilities]] Photographic Guide
+title: Mushroom Cultivation Photographic Guide
 created: 2026-04-28
 tags:
   - cultivation

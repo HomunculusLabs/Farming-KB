@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-design-principles-and-sustainability]] Social Change
+title: Permaculture Design Principles And Social Change
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---

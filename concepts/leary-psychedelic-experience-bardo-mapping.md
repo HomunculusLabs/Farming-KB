@@ -1,5 +1,5 @@
 ---
-title: Leary [[psychedelic-experience-bardo-framework]] Mapping
+title: Leary Psychedelic Experience Bardo Mapping
 created: 2026-04-28
 tags: [bardo, tibetan-book-of-the-dead, leary, ego-death, psychedelic]
 date: 2026-04-25

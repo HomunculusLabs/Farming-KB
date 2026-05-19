@@ -1,5 +1,5 @@
 ---
-title: [[bioregional-organization-and-bioregionalism]] Political Affiliation Strategies
+title: Bioregional Organization And Political Affiliation Permaculture
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

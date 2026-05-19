@@ -1,5 +1,5 @@
 ---
-title: [[teaming-with-microbes-bacteria]] And Archaea In Soil
+title: Teaming With Microbes Bacteria And Archaea In Soil
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

@@ -1,5 +1,5 @@
 ---
-title: [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]] Bigwood Beug
+title: Cap Stem Alkaloid Distribution Psilocybe Cubensis Bigwood Beug
 source: Variation of hplc-analysis-of-psilocybin-and-psilocin Levels (Bigwood & Beug, 1982)
 tags: [mycology, psilocybin, psilocin, alkaloid-distribution, cap-stem, psilocybe-cubensis, anatomy]
 created: 2026-05-11

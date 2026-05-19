@@ -1,5 +1,5 @@
 ---
-title: French Maraîcher [[coleman-french-maraicher-parisian-intensive-market-gardening]]
+title: French Maraicher Intensive Market Gardening
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---

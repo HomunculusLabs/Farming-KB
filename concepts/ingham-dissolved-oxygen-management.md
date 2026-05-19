@@ -1,5 +1,5 @@
 ---
-title: [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]] Management
+title: Ingham Dissolved Oxygen Management
 created: 2026-04-28
 tags: [compost-tea, dissolved-oxygen, aeration, brewing, water-quality]
 date: 2026-04-28

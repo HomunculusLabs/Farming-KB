@@ -1,5 +1,5 @@
 ---
-title: [[cattle-husbandry]] and [[permaculture]] Integration
+title: Cattle Husbandry And Permaculture Integration
 created: 2026-05-18
 updated: 2026-05-18
 type: topic

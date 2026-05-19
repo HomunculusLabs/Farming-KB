@@ -1,5 +1,5 @@
 ---
-title: [[bloomfield-mushroom-formation-hyphal-construction-no-meristems]] [[fruiting-body-development]] Cultivation
+title: Bloomfield Mushroom Formation Fruiting Body Development Cultivation
 created: 2026-04-28
 tags:
   - mycology

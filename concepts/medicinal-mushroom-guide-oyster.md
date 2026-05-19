@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom (Pleurotus ostreatus) — [[medicinal-mushroom-guide]]
+title: Medicinal Mushroom Guide Oyster
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Gottlieb [[peyote-and-psychoactive-cacti]] San Pedro And Peruvian Torch
+title: Gottlieb Psychoactive Cacti San Pedro And Peruvian Torch
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

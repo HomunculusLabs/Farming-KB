@@ -1,5 +1,5 @@
 ---
-title: "singh distillery [[dairy-wastewater-fungal-treatment]] singh-biopile-fungal-treatment-contaminated-soil"
+title: Singh Distillery Wastewater Fungal Treatment
 created: 2026-04-26
 tags:
   - distillery-wastewater

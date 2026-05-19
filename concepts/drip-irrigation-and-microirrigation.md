@@ -1,5 +1,5 @@
 ---
-title: [[coleman-drip-irrigation-and-water-management]] Microirrigation
+title: Drip Irrigation And Microirrigation
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

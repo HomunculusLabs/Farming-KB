@@ -1,5 +1,5 @@
 ---
-title: [[solomon-growing-garlic-onions-leeks]]
+title: Growing Garlic
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

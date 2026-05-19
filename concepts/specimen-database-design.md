@@ -1,5 +1,5 @@
 ---
-title: [[specimen-database-core-data-structure]] Design
+title: Specimen Database Design
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---

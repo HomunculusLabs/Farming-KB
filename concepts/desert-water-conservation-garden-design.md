@@ -1,5 +1,5 @@
 ---
-title: [[inselbergs-fold-mountains-desert-water-conservation]] and Garden Design
+title: Desert Water Conservation Garden Design
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[beneficial-insects-and-biological-pest-control]] Organisms
+title: Biological Pest Control Organisms
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---

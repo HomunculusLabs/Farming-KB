@@ -1,5 +1,5 @@
 ---
-title: [[solomon-carbon-nitrogen-ratio-soil-humus-dynamics]] Ratios
+title: Solomon Carbon Nitrogen Ratios
 created: 2026-04-26
 tags:
   - gardening

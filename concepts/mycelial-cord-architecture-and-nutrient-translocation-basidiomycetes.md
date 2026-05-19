@@ -1,5 +1,5 @@
 ---
-title: "[[mycelial-cord-network-topology-graph-theory-bebber]] Architecture and dighton-fungal-nutrient-translocation-element-redistribution in Basidiomycetes"
+title: Mycelial Cord Architecture And Nutrient Translocation Basidiomycetes
 tags:
   - mycology
   - basidiomycetes

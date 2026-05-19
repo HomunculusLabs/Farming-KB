@@ -1,5 +1,5 @@
 ---
-title: Natural Farming [[query-how-to-grow-and-use-oca-in-temperate-climates]]
+title: Fukuoka Natural Farming Temperate Climates
 created: 2026-04-18
 updated: 2026-04-20
 type: concept

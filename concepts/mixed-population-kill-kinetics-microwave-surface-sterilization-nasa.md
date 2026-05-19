@@ -1,5 +1,5 @@
 ---
-title: Mixed Population Kill Kinetics [[challenge-microorganisms-microwave-surface-sterilization]] Nasa
+title: Mixed Population Kill Kinetics Microwave Surface Sterilization Nasa
 created: 2026-05-09
 tags: [microwave-sterilization, kill-kinetics, microbial-population, dose-response, bacillus-pumilus, e-coli, pseudomonas]
 date: 2026-05-09

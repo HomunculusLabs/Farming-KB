@@ -117,3 +117,4 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] and [[permaculture-zone-and-sector-planning]] for related information.Related topics include [[16s-rrna-sequencing-microbiome-analysis]] and associated practices.
+Integrating zone and sector analysis creates a comprehensive design framework that

@@ -1,5 +1,5 @@
 ---
-title: Buildings, [[winter-harvest-tools-and-equipment]] for mushroom-cultivation
+title: Buildings Tools Equipment Mushroom Cultivation
 created: 2026-04-28
 tags: [mushroom-house, equipment, disability-adaptation, training-center,
   infrastructure]

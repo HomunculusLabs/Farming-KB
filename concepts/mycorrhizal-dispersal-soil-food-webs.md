@@ -116,3 +116,5 @@ Comparative evaluation of different approaches to mycorrhizal dispersal soil rev
 trade-offs between cost, complexity, and effectiveness. Understanding these
 trade-offs enables informed decision-making tailored to specific requirements
 and resource constraints.
+The interplay between mycorrhizal dispersal mechanisms and soil food web dynamics
+remains an active area of ecological research with implications for land management.

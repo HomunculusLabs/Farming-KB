@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Bag [[substrate-preparation-and-pasteurization]]
+title: Oyster Mushroom Bag Preparation And Pasteurization
 tags: [mushroom, oyster, substrate, pasteurization, bag-cultivation, pleurotus, cultivation]
 date: 2026-04-28
 updated: 2026-04-28

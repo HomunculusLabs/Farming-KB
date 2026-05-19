@@ -1,5 +1,5 @@
 ---
-title: "[[allegro-amanita-muscaria-properties-and-pharmacology]] Physical Description [[palmer-mushroom-hunting-field-identification]]"
+title: Amanita Muscaria Physical Description Field Identification
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: "PF Tek [[inoculation-technique-and-alcohol-flaming]] Syringe Management"
+title: Pf Tek Inoculation Technique And Syringe Management
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 topics: inoculation, emcdda-free-spore-ring-europe-spore-distribution-network, needle management
 created: 2026-05-08

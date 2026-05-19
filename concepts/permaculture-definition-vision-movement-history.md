@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-definition-and-philosophy]] Vision and Movement History
+title: Permaculture Definition Vision Movement History
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---

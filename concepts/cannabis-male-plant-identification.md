@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-male-plant-management]] Identification
+title: Cannabis Male Plant Identification
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

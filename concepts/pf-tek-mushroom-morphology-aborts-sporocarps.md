@@ -1,5 +1,5 @@
 ---
-title: [[pf-tek-mushroom-morphology-and-lifecycle-stages]] Aborts Sporocarps
+title: Pf Tek Mushroom Morphology Aborts Sporocarps
 created: 2026-05-09
 tags: mycology, mushroom-morphology, aborts, sporocarps, pf-tek]
 date: 2026-05-09

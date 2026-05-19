@@ -1,5 +1,5 @@
 ---
-title: Vic High [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Strain Development Stabilization
+title: Vic High True Breeding Strain Development Stabilization
 created: 2026-04-26
 updated: 2026-04-24
 sources:

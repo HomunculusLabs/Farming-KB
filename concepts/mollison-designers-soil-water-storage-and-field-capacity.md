@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-soil-ph-and-mineral-amendments]] Water Storage [[soil-moisture-monitoring-and-field-capacity]]
+title: Mollison Designers Soil Water Storage And Field Capacity
 created: 2026-04-26
 tags:
   - soil-science

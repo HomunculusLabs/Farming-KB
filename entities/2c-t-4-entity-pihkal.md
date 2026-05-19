@@ -1,5 +1,5 @@
 ---
-title: 2C T 4 [[2-4-dma-entity-pihkal]]
+title: 2C T 4 Entity Pihkal
 created: 2026-04-23
 updated: 2026-04-23
 type: entity

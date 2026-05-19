@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-mushroom-drying-and-storage-methods]]
+title: Mushroom Drying Storage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept

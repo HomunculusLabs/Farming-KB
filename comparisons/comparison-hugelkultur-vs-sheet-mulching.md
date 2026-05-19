@@ -1,5 +1,5 @@
 ---
-title: [[comparison-hugelkultur-vs-biochar-soil-building]] [[comparison-sheet-mulching-vs-chop-and-drop]]
+title: Comparison Hugelkultur Vs Sheet Mulching
 created: 2026-04-28
 tags: [comparison, soil-building, hugelkultur, sheet-mulching]
 date: 2026-04-25

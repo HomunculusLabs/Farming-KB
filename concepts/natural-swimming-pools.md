@@ -1,5 +1,5 @@
 ---
-title: [[natural-swimming-pools-and-water-design]]
+title: Natural Swimming Pools
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

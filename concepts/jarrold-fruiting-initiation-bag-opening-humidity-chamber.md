@@ -1,5 +1,5 @@
 ---
-title: Jarrold Fruiting Initiation Bag Opening [[aquarium-humidity-chamber-mushroom-fruiting]]
+title: Jarrold Fruiting Initiation Bag Opening Humidity Chamber
 source: "Jarrold - Indoor Mushroom Growing Technique for the Boil-A-Bag"
 tags: [mushroom, fruiting, humidity-chamber, pinning, bag-opening, jarrold, boil-a-bag]
 created: 2026-05-10

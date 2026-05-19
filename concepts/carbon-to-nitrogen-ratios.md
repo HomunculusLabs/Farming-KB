@@ -1,5 +1,5 @@
 ---
-title: [[carbon-to-nitrogen-ratio]] Ratios
+title: Carbon To Nitrogen Ratios
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

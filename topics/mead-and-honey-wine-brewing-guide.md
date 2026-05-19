@@ -1,5 +1,5 @@
 ---
-title: Mead and Honey Wine [[ayahuasca-brewing-guide]]
+title: Mead And Honey Wine Brewing Guide
 created: 2026-05-18
 updated: 2026-05-18
 type: topic

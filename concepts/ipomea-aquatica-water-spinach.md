@@ -1,5 +1,5 @@
 ---
-title: "[[ipomoea-aquatica]] Water Spinach"
+title: Ipomea Aquatica Water Spinach
 source: a-selection-permaculture-plants.md
 type: concept
 ---

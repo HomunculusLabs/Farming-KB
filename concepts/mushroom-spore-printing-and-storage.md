@@ -1,6 +1,6 @@
 ---
 
-title: [[mushroom-spore-printing-syringe-preparation-and-preservation]] and Storage
+title: Mushroom Spore Printing And Storage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept

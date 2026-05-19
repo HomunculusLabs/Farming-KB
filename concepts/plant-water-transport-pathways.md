@@ -1,5 +1,5 @@
 ---
-title: Plant [[water-transport-pathways-plants]]
+title: Plant Water Transport Pathways
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---

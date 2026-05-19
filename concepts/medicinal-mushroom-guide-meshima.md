@@ -1,5 +1,5 @@
 ---
-title: Meshima (Phellinus linteus) — [[medicinal-mushroom-guide]]
+title: Medicinal Mushroom Guide Meshima
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

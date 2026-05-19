@@ -1,5 +1,5 @@
 ---
-title: Thermal [[seed-germination-and-stratification]]
+title: Thermal Germination And Stratification
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

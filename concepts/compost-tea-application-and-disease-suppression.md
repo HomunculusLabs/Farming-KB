@@ -1,5 +1,5 @@
 ---
-title: [[compost-tea-application-methods]] and Disease Suppression
+title: Compost Tea Application And Disease Suppression
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---

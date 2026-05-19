@@ -1,5 +1,5 @@
 ---
-title: [[parisian-maraichage-history]] (French [[coleman-french-maraicher-parisian-intensive-market-gardening]])
+title: Parisian Maraichage
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [technique, historical, french, intensive-cultivation, market-gardening]

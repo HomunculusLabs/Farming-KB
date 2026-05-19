@@ -1,5 +1,5 @@
 ---
-title: Symbiotic Fungi Rrna Versus Rdna [[singh-fungal-community-analysis-molecular-methods]]
+title: Symbiotic Fungi Rrna Versus Rdna Fungal Community Analysis
 source: symbiotic-fungi.md
 source_author: Ari Jumpponen, in Varma & Kharkwal (eds.)
 extracted: 2026-05-10

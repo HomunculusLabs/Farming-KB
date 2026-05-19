@@ -1,5 +1,5 @@
 ---
-title: Urban urban rooftop gardening and [[query-what-is-sheet-mulching-and-how-to-do-it]] comparison-sheet-mulching-vs-chop-and-drop-mulching
+title: Urban Rooftop Gardening And Sheet Mulching
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

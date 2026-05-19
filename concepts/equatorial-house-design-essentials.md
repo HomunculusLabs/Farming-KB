@@ -1,5 +1,5 @@
 ---
-title: [[equatorial-house-design-principles]] Essentials
+title: Equatorial House Design Essentials
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

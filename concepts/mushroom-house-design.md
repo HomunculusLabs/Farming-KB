@@ -1,5 +1,5 @@
 ---
-title: [[fao-accessible-mushroom-house-design-disabilities]]
+title: Mushroom House Design
 created: 2026-04-28
 tags: mycology, architecture, cultivation, infrastructure, design]
 date: 2026-04-28

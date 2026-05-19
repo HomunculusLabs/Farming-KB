@@ -1,5 +1,5 @@
 ---
-title: [[stamets-mycoremediation-case-studies]] — Field-Verified Fungal Cleanup Projects
+title: Mycoremediation Case Studies
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

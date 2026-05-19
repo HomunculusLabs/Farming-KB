@@ -1,5 +1,5 @@
 ---
-title: Fungal [[mycorrhizal-diversity-and-ecosystem-function]]
+title: Fungal Diversity And Ecosystem Function
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---

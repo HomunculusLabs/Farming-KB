@@ -1,5 +1,5 @@
 ---
-title: [[hofmann-lsd-black-market-and-dangers]] Animal Experiments Toxicity
+title: Hofmann Lsd Animal Experiments Toxicity
 created: 2026-04-28
 tags:
   - lsd

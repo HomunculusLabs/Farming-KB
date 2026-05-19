@@ -1,5 +1,5 @@
 ---
-title: Slow-Growth [[yield-theory-and-strategies-in-permaculture-design]]
+title: Slow Growth Strategies Permaculture
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---

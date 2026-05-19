@@ -1,5 +1,5 @@
 ---
-title: [[jivaro-bewitching-and-curing-shamanic-practices]] Tsentsak Magical Darts
+title: Jivaro Bewitching Tsentsak
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---

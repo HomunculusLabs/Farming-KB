@@ -1,5 +1,5 @@
 ---
-title: [[comparison-chinampas-vs-raised-bed-gardening]] Guide
+title: Raised Bed Gardening
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

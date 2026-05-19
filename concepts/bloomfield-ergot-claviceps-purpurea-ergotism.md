@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Ergot [[claviceps-purpurea]] Ergotism
+title: Bloomfield Ergot Claviceps Purpurea Ergotism
 created: 2026-04-28
 tags:
   - mycology

@@ -1,5 +1,5 @@
 ---
-title: "[[mushroom-harvesting-and-post-harvest-handling]] Fruiting Management"
+title: Mushroom Harvesting Fruiting Management
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

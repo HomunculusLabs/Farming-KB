@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-shamanic-identification-epilepsy-lightning-ordeal-training]] Training Training And Peripheral Social Role
+title: Mckenna Shamanic Identification Training And Peripheral Social Role
 source: mckenna_t-tryptamines_consciousness.md
 author: [[shamanism]], training, initiation, indigenous-knowledge, social-structure]
 ---

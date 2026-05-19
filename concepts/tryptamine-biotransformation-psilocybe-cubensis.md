@@ -1,5 +1,5 @@
 ---
-title: Tryptamine Biotransformation [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]]
+title: Tryptamine Biotransformation Psilocybe Cubensis
 source: tryptamine-cubensis-gartz.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: "[[duggar-mushroom-growing-history-and-methods]] Structures: Caves, Cellars, Houses, and Open-Air Culture"
+title: Duggar Mushroom Growing Structures Caves Cellars Houses
 source: "Duggar, B.M. (1915). *Mushroom Growing*. Macmillan."
 topics:
   - mushroom-growing

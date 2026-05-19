@@ -1,5 +1,5 @@
 ---
-title: [[ayahuasca-pharmacology-and-drug-interactions]] Cultural Context
+title: Ayahuasca Pharmacology And Cultural Context
 created: 2026-05-09
 tags: [psychedelics, ayahuasca, dmt, maoi, amazon, shamanism]
 date: 2026-05-09

@@ -1,5 +1,5 @@
 ---
-title: [[functional-genomics-arbuscular-mycorrhiza]] of Magnaporthe grisea — Rice Blast Fungus
+title: Functional Genomics Magnaporthe Grisea Rice Blast
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

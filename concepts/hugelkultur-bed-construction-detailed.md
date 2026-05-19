@@ -1,5 +1,5 @@
 ---
-title: [[hugelkultur-bed-construction]] Detailed
+title: Hugelkultur Bed Construction Detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

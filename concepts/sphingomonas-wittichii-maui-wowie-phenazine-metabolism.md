@@ -1,5 +1,5 @@
 ---
-title: "[[sphingomonas-wittichii-maui-wowie]] Phenazine Metabolism"
+title: Sphingomonas Wittichii Maui Wowie Phenazine Metabolism
 created: 2026-05-11
 tags: [cannabis, microbiome, sphingomonas-wittichii, phenazine, maui-wowie, strain-biomarker, endorhiza, secondary-metabolites]
 source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md

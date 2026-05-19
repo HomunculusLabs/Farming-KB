@@ -1,5 +1,5 @@
 ---
-title: [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]]
+title: Four Stage Basidiocarp Development Psilocybe Cubensis
 concept_type: scientific-concept
 source: Tropisms in the Mushroom Psilocybe cubensis (Badham, 1982)
 domain: mycology

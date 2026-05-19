@@ -1,5 +1,5 @@
 ---
-title: Permaculture [[zone-two-orchard-and-main-crops]] Animal Systems
+title: Permaculture Zone Two Orchard And Animal Systems
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-genus-taxonomy-and-chemistry]]
+title: Psilocybe Genus Taxonomy
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-gartz
 tags: [mycology, taxonomy, psilocybe, neurotropic-fungi, classification]
 created: 2026-05-09

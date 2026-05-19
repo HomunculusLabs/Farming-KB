@@ -1,6 +1,6 @@
 ---
 
-title: [[field-guide-psilocybin-bluing-reaction-identification]]
+title: Psilocybin Bluing Reaction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

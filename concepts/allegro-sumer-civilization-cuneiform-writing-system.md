@@ -1,5 +1,5 @@
 ---
-title: [[allegro-sumer-and-the-beginnings]] Civilization Cuneiform Writing System
+title: Allegro Sumer Civilization Cuneiform Writing System
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

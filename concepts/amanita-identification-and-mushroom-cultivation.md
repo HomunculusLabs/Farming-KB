@@ -1,5 +1,5 @@
 ---
-title: [[amanita-identification-and-antidote-treatment]] Mushroom Cultivation
+title: Amanita Identification And Mushroom Cultivation
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

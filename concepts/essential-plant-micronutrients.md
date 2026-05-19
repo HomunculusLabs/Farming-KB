@@ -1,5 +1,5 @@
 ---
-title: [[essential-plant-micronutrients-and-nutrient-mobility]]
+title: Essential Plant Micronutrients
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---

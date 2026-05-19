@@ -1,5 +1,5 @@
 ---
-title: [[dryland-settlement-vegetation-and-fuel-forests]]
+title: Settlement Vegetation And Fuel Forests
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

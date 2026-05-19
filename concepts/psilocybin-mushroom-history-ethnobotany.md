@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-mushroom-history-law-australia-new-zealand]] Ethnobotany
+title: Psilocybin Mushroom History Ethnobotany
 created: 2026-05-11
 updated: 2026-05-11
 type: concept

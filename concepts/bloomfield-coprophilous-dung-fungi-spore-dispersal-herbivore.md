@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Coprophilous Dung [[aquatic-fungi-spore-dispersal-ingold]] Herbivore
+title: Bloomfield Coprophilous Dung Fungi Spore Dispersal Herbivore
 source: Mr. Bloomfield's Orchard
 author: Nicholas P. Money
 tags:

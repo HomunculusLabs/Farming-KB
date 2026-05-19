@@ -1,5 +1,5 @@
 ---
-title: "[[brassinosteroid-effects-on-fungal-fruiting-morphology]] [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and Fruiting"
+title: Brassinosteroid Psilocybe Cubensis Growth Promotion Gartz 1990
 created: 2026-05-08
 tags: [brassinosteroid, psilocybe-cubensis, mycelial-growth, fruiting, homobrassinolide, phytohormone, fungal-physiology, yield-enhancement]
 date: 2026-05-08

@@ -1,5 +1,5 @@
 ---
-title: [[ayahuasca-plant-spirits-sacha-huarmi-piripiri-icaro-healing]]
+title: Ayahuasca Plant Spirits
 source: ayahuasca-visions
 topics:
   - plant-spirits

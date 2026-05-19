@@ -1,5 +1,5 @@
 ---
-title: Parasitic Wasps [[beneficial-insects-and-biological-pest-control]]
+title: Parasitic Wasps Biological Pest Control
 created: 2026-05-10
 updated: 2026-05-10
 type: concept

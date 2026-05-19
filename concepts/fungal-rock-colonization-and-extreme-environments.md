@@ -1,5 +1,5 @@
 ---
-title: Fungal Rock Colonization and [[fungal-biodiversity-in-extreme-environments]]
+title: Fungal Rock Colonization And Extreme Environments
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 authors: [Geoffrey M. Gadd, Euan P. Burford, Marina Fomina, Karrie Melville]
 tags: [fungi, extremophiles, rock-weathering, biogeology, Chernobyl, desert-fungi, lithophytic]

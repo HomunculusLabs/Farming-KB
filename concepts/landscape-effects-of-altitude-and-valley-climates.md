@@ -1,5 +1,5 @@
 ---
-title: Landscape Effects of [[latitude-altitude-and-valley-climates]]
+title: Landscape Effects Of Altitude And Valley Climates
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

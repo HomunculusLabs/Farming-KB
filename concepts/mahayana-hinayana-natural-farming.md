@@ -1,5 +1,5 @@
 ---
-title: Mahayana [[fukuoka-mahayana-and-hinayana-natural-farming]]
+title: Mahayana Hinayana Natural Farming
 created: 2026-05-06
 tags:
 type: concept

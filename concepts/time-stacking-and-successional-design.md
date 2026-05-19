@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-time-stacking-and-succession]] Successional Design
+title: Time Stacking And Successional Design
 source: bill-mollison-permaculture-design-course.md, Chunk 23, Lines 4601-4800
 type: concept
 ---

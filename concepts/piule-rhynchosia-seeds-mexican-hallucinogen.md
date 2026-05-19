@@ -1,5 +1,5 @@
 ---
-title: Piule - Rhynchosia [[colorines-erythrina-seeds-mexican-hallucinogen]]
+title: Piule Rhynchosia Seeds Mexican Hallucinogen
 created: 2026-04-28
 tags: [ethnobotany, mexico, rhynchosia, leguminosae, aztec, seeds,
   hallucinogenic-plants, schultes, tepantitla]

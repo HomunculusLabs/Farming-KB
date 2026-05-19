@@ -1,5 +1,5 @@
 ---
-title: "Banyan banyan tree [[bacterial-endophytes-plant-roots]] isolation visualization Endophytes: Isolation and Visualization"
+title: Banyan Tree Bacterial Endophytes Isolation Visualization
 created: 2026-04-28
 tags: [endophytes, bacteria, banyan-tree, Ficus-bengalensis,
       isolation-methods, microscopy, vital-staining, symbiotic-fungi]

@@ -1,5 +1,5 @@
 ---
-title: McKenna's [[archaic-revival-partnership-vs-dominator-cultures]] [[mckenna-food-of-the-gods-alcohol-and-dominator-culture]] Theory
+title: Mckenna Archaic Revival Dominator Culture Theory
 source: mckenna_t-food_of_the_gods.md
 type: concept
 ---

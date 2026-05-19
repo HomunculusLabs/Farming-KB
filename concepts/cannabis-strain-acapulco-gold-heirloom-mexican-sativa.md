@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strain [[acapulco-gold-heirloom-mexican-sativa]]
+title: Cannabis Strain Acapulco Gold Heirloom Mexican Sativa
 source: s-t-oner-the-rev-cannabis-sativa-volume-3.md
 tags: [cannabis, strain, acapulco-gold, mexican-sativa, heirloom, landrace]
 created: 2026-05-11

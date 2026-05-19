@@ -1,5 +1,5 @@
 ---
-title: [[falconer-mushroom-cooking-selection-and-preparation]] Catsup
+title: Mushroom Cooking Catsup
 created: 2026-04-28
 tags: [mushrooms, cooking, catsup, victorian-cuisine, food-preservation]
 date: 2026-04-28

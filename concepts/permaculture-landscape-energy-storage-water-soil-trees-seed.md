@@ -1,5 +1,5 @@
 ---
-title: [[holzer-permaculture-landscape-design]] Energy Storage Water Soil Trees and Seed
+title: Permaculture Landscape Energy Storage Water Soil Trees Seed
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---

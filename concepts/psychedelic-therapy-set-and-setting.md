@@ -1,5 +1,5 @@
 ---
-title: [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] [[lsd-set-and-setting-framework]]
+title: Psychedelic Therapy Set And Setting
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

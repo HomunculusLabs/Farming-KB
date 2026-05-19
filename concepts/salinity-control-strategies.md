@@ -1,5 +1,5 @@
 ---
-title: [[salinity-control-strategies-and-cold-montane-deserts]] for Drylands
+title: Salinity Control Strategies
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

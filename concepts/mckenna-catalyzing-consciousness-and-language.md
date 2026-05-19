@@ -1,5 +1,5 @@
 ---
-title: McKenna on [[mckenna-catalyzing-consciousness-language-formation]] and language and Language
+title: Mckenna Catalyzing Consciousness And Language
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

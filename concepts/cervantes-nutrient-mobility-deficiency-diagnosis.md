@@ -1,5 +1,5 @@
 ---
-title: Cervantes Nutrient Mobility [[plant-mineral-deficiency-diagnosis]]
+title: Cervantes Nutrient Mobility Deficiency Diagnosis
 created: 2026-04-26
 tags: [cannabis, nutrients, deficiency, mobility, diagnosis]
 date: 2026-04-25

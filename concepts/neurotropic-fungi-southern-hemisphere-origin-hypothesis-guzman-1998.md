@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-southern-hemisphere-origin-hypothesis]] for Neurotropic Fungi
+title: Neurotropic Fungi Southern Hemisphere Origin Hypothesis Guzman 1998
 created: 2026-05-11
 updated: 2026-05-11
 sources:

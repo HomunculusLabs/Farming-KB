@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-ethical-principles-holmgren]] Care for Earth People and Limits
+title: Permaculture Ethical Principles Care Earth People Limits
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---

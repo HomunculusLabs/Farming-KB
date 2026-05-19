@@ -1,5 +1,5 @@
 ---
-title: Falconer Who Should [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
+title: Falconer Who Should Grow Mushrooms
 created: 2026-04-28
 tags:
   [

@@ -1,5 +1,5 @@
 ---
-title: "Mescalero [[mescalero-apache-peyote-prohibition]] use Use and Rejection"
+title: Mescalero Apache Peyote Use
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept

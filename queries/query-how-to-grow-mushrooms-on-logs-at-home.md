@@ -1,5 +1,5 @@
 ---
-title: "How [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]] on logs at home"
+title: Query How To Grow Mushrooms On Logs At Home
 created: 2026-04-28
 tags:
   - mushroom-cultivation

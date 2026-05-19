@@ -1,5 +1,5 @@
 ---
-title: [[plant-cell-membrane-transport-proteins]] in Plants
+title: Membrane Transport Proteins In Plants
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---

@@ -1,5 +1,5 @@
 ---
-title: pdc [[climate-and-microclimate-management]] analysis Analysis
+title: Pdc Climate And Microclimate Analysis
 created: 2026-04-26
 updated: 2026-04-24
 sources:

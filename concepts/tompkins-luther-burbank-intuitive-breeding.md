@@ -1,5 +1,5 @@
 ---
-title: Tompkins [[luther-burbank-plant-breeding-methods]] Intuitive Breeding
+title: Tompkins Luther Burbank Intuitive Breeding
 created: 2026-04-26
 tags: [history, agriculture, botany, biography]
 date: 2026-04-25

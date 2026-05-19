@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Inoculation Without Lids [[inoculation-technique-and-alcohol-flaming]]
+title: Pf Tek Inoculation Without Lids And Alcohol Flaming
 created: 2026-04-28
 tags:
   - pf-tek

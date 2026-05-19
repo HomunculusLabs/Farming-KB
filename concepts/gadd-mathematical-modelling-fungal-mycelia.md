@@ -1,5 +1,5 @@
 ---
-title: [[gadd-mathematical-modelling-fungal-mycelia-form-function]]
+title: Gadd Mathematical Modelling Fungal Mycelia
 created: 2026-04-28
 tags:
   - mathematical-modelling

@@ -1,5 +1,5 @@
 ---
-title: [[comparison-permaculture-beekeeping-vs-natural-beekeeping]]
+title: Permaculture Beekeeping
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: [[pf-tek-desiccant-drying-chemistry-and-materials-guide]] Types Sourcing Cool Drying Technique
+title: Pf Tek Desiccant Types Sourcing Cool Drying Technique
 source: "Fanaticus PF TEK — pf-tek-psilocybe-fanaticus (PF)"
 tags: [pf-tek, desiccant, drying, preservation, drierite, silica-gel, cool-desiccation]
 created: 2026-05-11

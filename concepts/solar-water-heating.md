@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-solar-water-heating-systems]]
+title: Solar Water Heating
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

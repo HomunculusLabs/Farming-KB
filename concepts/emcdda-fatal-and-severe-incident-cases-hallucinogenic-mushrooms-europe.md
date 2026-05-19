@@ -1,5 +1,5 @@
 ---
-title: "Emcdda Fatal And Severe Incident Cases [[emcdda-multilingual-user-terminology-brand-names-hallucinogenic-mushrooms-europe]]"
+title: Emcdda Fatal And Severe Incident Cases Hallucinogenic Mushrooms Europe
 aliases:
   - "mushroom death cases europe"
   - "psilocybin fatality reports"

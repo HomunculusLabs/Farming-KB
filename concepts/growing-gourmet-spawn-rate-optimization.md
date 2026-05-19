@@ -1,5 +1,5 @@
 ---
-title: [[growing-gourmet-spawn-production]] rate optimization Optimization in mushroom-cultivation
+title: Growing Gourmet Spawn Rate Optimization
 created: 2026-04-28
 tags: [mushroom-cultivation, spawn, inoculation, yield-optimization, substrate]
 date: 2026-04-28

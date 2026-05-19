@@ -1,5 +1,5 @@
 ---
-title: I Thou Relationship [[dmt-hyperspace-entities]] Tryptamine
+title: I Thou Relationship Hyperspace Entities Tryptamine
 source: mckenna_t-tryptamines_consciousness.md
 topic: entity_encounter_philosophy
 related:

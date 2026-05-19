@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom [[pasteurized-straw-cultivation-techniques]]
+title: Oyster Mushroom Pasteurized Straw Cultivation
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

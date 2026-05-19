@@ -1,5 +1,5 @@
 ---
-title: Straw [[substrate-pasteurization]] Methods Mushroom Cultivation
+title: Straw Substrate Pasteurization Methods Mushroom Cultivation
 source: cancer-medicinal-mushrooms-extraction-bioavailability (Paul Stamets, 2000), pp. 182-190
 topics:
   - bulk-substrate-preparation

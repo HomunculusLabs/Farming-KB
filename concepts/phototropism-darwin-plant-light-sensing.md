@@ -1,5 +1,5 @@
 ---
-title: [[phototropism-darwin-plant-light-response]] Sensing
+title: Phototropism Darwin Plant Light Sensing
 created: 2026-05-09
 tags:
   - plant-biology

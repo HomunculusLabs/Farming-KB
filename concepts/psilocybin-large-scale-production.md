@@ -1,6 +1,6 @@
 ---
 
-title: Large-Scale [[gottlieb-psilocybin-production-extraction-methods]] — Room Design and Workflow
+title: Psilocybin Large Scale Production
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

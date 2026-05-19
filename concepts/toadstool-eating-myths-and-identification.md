@@ -1,5 +1,5 @@
 ---
-title: Toadstool-Eating Myths and [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
+title: Toadstool Eating Myths And Identification
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---

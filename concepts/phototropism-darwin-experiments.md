@@ -1,5 +1,5 @@
 ---
-title: [[plant-phototropism-darwin-experiments]]
+title: Phototropism Darwin Experiments
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09

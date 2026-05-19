@@ -1,5 +1,5 @@
 ---
-title: [[laminar-flow-hood-construction-hepa-filter]] and Advanced Agar Techniques
+title: Laminar Flow Hood Construction And Advanced Agar Techniques
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---

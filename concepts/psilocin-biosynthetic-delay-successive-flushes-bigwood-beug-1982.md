@@ -1,5 +1,5 @@
 ---
-title: [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] and Accumulation Across Successive Flushes
+title: Psilocin Biosynthetic Delay Successive Flushes Bigwood Beug 1982
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md (Bigwood & Beug 1982)
 created: 2026-05-11
 tags: [mycology, psilocin, biosynthesis, flush, accumulation, delay, psilocybe-cubensis, bigwood-beug, dephosphorylation]

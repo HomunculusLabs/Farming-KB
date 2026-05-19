@@ -1,5 +1,5 @@
 ---
-title: Pond Annidations [[pond-depth-series-flow-and-landscape-integration]]
+title: Pond Annidations And Landscape Integration
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

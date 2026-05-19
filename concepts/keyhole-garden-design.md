@@ -1,5 +1,5 @@
 ---
-title: [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
+title: Keyhole Garden Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

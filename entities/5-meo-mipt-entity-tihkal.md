@@ -1,5 +1,5 @@
 ---
-title: [[5-meo-mipt]] (Moxy) — TIHKAL Entry #40
+title: 5 Meo Mipt Entity Tihkal
 created: 2026-04-14
 updated: 2026-04-15
 type: entity

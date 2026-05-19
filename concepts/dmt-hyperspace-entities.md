@@ -1,5 +1,5 @@
 ---
-title: DMT [[i-thou-relationship-hyperspace-entities-tryptamine]]
+title: Dmt Hyperspace Entities
 aliases:
   - mckenna-translinguistic-objects-cognitive-dissonance-tryptamine
   - hyperdimensional beings

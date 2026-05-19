@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-indoor-growing-basics]] — Environmental Control Fundamentals
+title: Cannabis Indoor Growing Environmental Control
 source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---

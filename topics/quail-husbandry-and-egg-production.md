@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-rabbit-vs-quail-husbandry]] and [[mollison-designers-chicken-tractors-egg-production]]"
+title: Quail Husbandry And Egg Production
 created: 2026-05-18
 updated: 2026-05-18
 type: topic

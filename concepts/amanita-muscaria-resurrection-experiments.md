@@ -1,5 +1,5 @@
 ---
-title: [[amanita-muscaria-resurrection-rehydration-three-days]] Experiments
+title: Amanita Muscaria Resurrection Experiments
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Angel of Death — [[poisonous-mushroom-identification-myths]] and Toxinology
+title: Bloomfield Angel Of Death Poisonous Mushroom Identification Toxinology
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 author: Nicholas P. Money
 topics: mycology, toxicology, amatoxins, mushroom poisoning, death cap, identification

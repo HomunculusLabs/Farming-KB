@@ -1,5 +1,5 @@
 ---
-title: [[trace-water-enhanced-microwave-sterilization]] microwave-surface-sterilization Mechanism
+title: Trace Water Enhanced Microwave Surface Sterilization
 topic: sterilization
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 created: 2026-05-08

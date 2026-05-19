@@ -1,5 +1,5 @@
 ---
-title: [[thc-acetate-synthesis-and-hashish-preparation]]
+title: Thc Acetate Synthesis
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---

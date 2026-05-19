@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]] - [[blesching-cannabis-healing-practices-setting-intention-affirmations]] for Cannabis Therapy
+title: Mindful Healing Protocol Setting Intention Cannabis Therapy Blesching
 source: uwe-blesching-the-cannabis-health-index.md (Blesching 2015)
 created: 2026-05-11
 tags: [mindfulness, cannabis, therapy, intention, setting, healing, blesching, psychoneuroimmunology, affirmations, meditation]

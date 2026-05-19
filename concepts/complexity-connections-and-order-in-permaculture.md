@@ -102,10 +102,10 @@ This principle synthesizes the above themes:
 - [Yield and the System of Yields](yield-and-the-system-of-yields.md)
 - [[edge-effect]].md)
 - [Guilds and Plant Communities](guilds-and-plant-communities.md)
-- [[permaculture-beginners-guide-zones-and-sectors]]](zones-and-sectors.md)
+- [[permaculture-beginners-guide-zones-and-sectors]](zones-and-sectors.md)
 - [Relative Location](relative-location.md)
 - [[rebuilding-diversity-in-permaculture]] Systems](diversity-in-permaculture-systems.md)
-- [[laws-and-principles-of-natural-systems]]](principles-of-natural-systems.md)
+- [[laws-and-principles-of-natural-systems]](principles-of-natural-systems.md)
 - [Multiple Functions for Each Element](multiple-functions-for-each-element.md)
 
 ## Practical Considerations

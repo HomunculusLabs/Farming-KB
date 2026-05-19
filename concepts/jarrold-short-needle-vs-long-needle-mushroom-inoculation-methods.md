@@ -1,5 +1,5 @@
 ---
-title: Jarrold [[short-needle-vs-long-needle-mushroom-inoculation-methods]] Inoculation Methods
+title: Jarrold Short Needle Vs Long Needle Mushroom Inoculation Methods
 topic: mushroom_cultivation
 source: "D.H. Jarrold, Indoor mushroom-spore-inoculation-technique
   - vermiculite filter

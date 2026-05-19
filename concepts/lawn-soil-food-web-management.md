@@ -1,5 +1,5 @@
 ---
-title: Lawn [[soil-food-web-management-for-farmers]]
+title: Lawn Soil Food Web Management
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---

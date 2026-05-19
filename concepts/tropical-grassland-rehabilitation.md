@@ -1,5 +1,5 @@
 ---
-title: [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
+title: Tropical Grassland Rehabilitation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

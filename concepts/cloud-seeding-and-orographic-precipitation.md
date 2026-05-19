@@ -1,5 +1,5 @@
 ---
-title: [[cloud-seeding-and-orographic-rainfall-enhancement]] Precipitation
+title: Cloud Seeding And Orographic Precipitation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

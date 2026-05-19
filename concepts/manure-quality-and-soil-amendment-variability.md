@@ -1,5 +1,5 @@
 ---
-title: [[manure-quality-and-soil-fertility]] Amendment Variability
+title: Manure Quality And Soil Amendment Variability
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---

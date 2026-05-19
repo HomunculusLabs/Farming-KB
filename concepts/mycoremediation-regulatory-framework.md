@@ -117,3 +117,4 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[singh-mycoremediation-regulatory-frameworks]] and [[mycoremediation-testing-bioassays]] for related information.Related topics include [[advanced-mycoremediation-research-techniques]] and associated practices.
+Continued evolution of environmental regulations will likely expand opportunities

@@ -1,5 +1,5 @@
 ---
-title: Optical Isomers [[psychedelic-phenethylamines-and-pihkal]]
+title: Optical Isomers Psychedelic Phenethylamines
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
