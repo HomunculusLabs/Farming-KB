@@ -8,9 +8,9 @@ created: 2026-05-06
   - agroforestry   - orchard-planning
   - castanea date: 2026-04-28
 updated: 2026-04-28 sources:
-  - The American Chestnut Foundation — cultivar recommendations   - UC ANR — chestnut [[coleman-seed-selection-and-variety-trials]] for California
+  - The American Chestnut Foundation — cultivar recommendations   - UC ANR — chestnut coleman-seed-selection-and-variety-trials for California
   - Michigan State University — chestnut cultivar trials   - Clemson Extension — chestnut production in the Southeast
-  - University of Missouri — chestnut [[apple-cultivation-and-variety-guide]] for the Midwest   - Eurocastanea network — European chestnut cultivar database
+  - University of Missouri — chestnut apple-cultivation-and-variety-guide for the Midwest   - Eurocastanea network — European chestnut cultivar database
   - Savill et al. (2017) — The syndrome of chestnut blight
 sources: []
 tags: []

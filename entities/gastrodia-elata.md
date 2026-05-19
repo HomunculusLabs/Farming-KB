@@ -14,8 +14,7 @@ sources:
   - Xu, J. et al. (2016). "armillaria-mellea-entity." Mycobiology, 44(4), 273–280.
   - Yuan, C.S. et al. (1998). "Traditional Chinese [[cannabis-neuroprotection-mechanisms-neurological-diseases]]." American Journal of Chinese Medicine, 26(2), 133–145.
   - Liu, Z. et al. (2018). "Gastrodin: A Review of Its Pharmacological Effects and Mechanisms." Evidence-Based Complementary and Alternative Medicine, 2018, 7421409.
-  - Huang, L.Q. et al. (2020). "Cultivation and [[blesching-cannabis-contaminants-testing-quality-control]] of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.
----
+  - Huang, L.Q. et al. (2020). "Cultivation and [[blesching-cannabis-contaminants-testing-quality-control]] of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.---
 
 ## Overview
 

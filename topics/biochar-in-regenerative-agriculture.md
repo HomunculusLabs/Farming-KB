@@ -83,7 +83,7 @@ consistent product with lower ash content and fewer residual volatile
 ## See Also
 
 - [[mycorrhizal-fungi]]
-- [[regenerative-agriculture-overview]]
+- [[regenerative-agriculture]]
 - [[bioremediation-using-fungi]]
 - [[cover-crops-green-manures]]
 

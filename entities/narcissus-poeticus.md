@@ -11,10 +11,9 @@ updated: 2026-05-09
 sources:
   - Hanks, G.R. (2002). "Narcissus and Daffodil: The Genus Narcissus." Taylor & Francis.
   - Blanchard, J.W. (1990). "Narcissus: A Guide to Wild Daffodils." Alpine Garden Society.
-  - Bastida, J. et al. (2011). "Amaryllidaceae alkaloids: A review of their [[ayahuasca-pharmacology-and-cultural-context]] toxicology." Pharmaceutical Biology, 49(11), 1142-1158.
+  - Bastida, J. et al. (2011). "Amaryllidaceae alkaloids: A review of their ayahuasca-pharmacology-and-cultural-context toxicology." Pharmaceutical Biology, 49(11), 1142-1158.
   - Pettit, G.R. et al. (1993). "Antineoplastic agents, 261. Isolation and synthesis of narciclasine from Narcissus." Journal of Natural Products, 56(10), 1687-1692.
-  - Mathew, B. (2002). "The Genus Narcissus." Royal Botanic Gardens, Kew.
----
+  - Mathew, B. (2002). "The Genus Narcissus." Royal Botanic Gardens, Kew.---
 
 ## Overview
 
@@ -78,3 +77,4 @@ Common challenges include resource limitations, environmental variability, and k
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+The species remains valued in horticulture for its ornamental and historical significance.

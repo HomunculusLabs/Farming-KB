@@ -13,9 +13,8 @@ sources:
   - Purseglove, J.W. (1972). mollison-specialist-tropical-crops-forest-products: Monocotyledons. Longman Group.
   - Morton, J.F. (1987). "Arrowroot." In: Fruits of Warm Climates. Creative Resource Systems.
   - León, J. (1987). Botánica de los Cultivos Tropicales. IICA.
-  - Bradbury, J.H. & Holloway, W.D. (1988). Chemistry of [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]]. ACIAR Monograph No. 6.
-  - Kay, D.E. (1987). Crop and Product Digest No. 2: Root Crops. Tropical Development and Research Institute.
----
+  - Bradbury, J.H. & Holloway, W.D. (1988). Chemistry of tropical-root-crops-cassava-taro-sweet-potato-and-yam. ACIAR Monograph No. 6.
+  - Kay, D.E. (1987). Crop and Product Digest No. 2: Root Crops. Tropical Development and Research Institute.---
 
 ## Overview
 

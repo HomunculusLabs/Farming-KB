@@ -147,4 +147,4 @@ The most dangerous chanterelle look-alike:
 - [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]
 - [[chanterelle-species-eastern-us]]
 - [[solomon-sweet-potato-cultivation-guide]]
-- [[bionutrients-guide]]
+- [[bionutrients]]

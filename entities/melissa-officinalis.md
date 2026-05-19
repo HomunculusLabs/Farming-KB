@@ -1,5 +1,5 @@
 ---
-title: Melissa Officinalis
+title: [[lemon-balm-melissa-officinalis]]
 created: 2026-05-06
 type: species
 tags:
@@ -13,15 +13,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Akhondzadeh, S., et al. (2003). "Melissa officinalis Extract in Mild-to-Moderate Alzheimer's Disease." Journal of Neurology, Neurosurgery & Psychiatry, 74(7), 863-866.
-  - Carnat, A., et al. (1998). "The Aromas of Melissa officinalis L." Journal of [[permaculture-designers-manual-essential-oil-plants]] Research, 10(6), 621-624.
+  - Carnat, A., et al. (1998). "The Aromas of Melissa officinalis L." Journal of permaculture-designers-manual-essential-oil-plants Research, 10(6), 621-624.
   - Shakeri, A., et al. (2016). "Melissa officinalis L.: A Review of Its Traditional Uses." Phytotherapy Research, 30(4), 543-554.
-  - Ulbricht, C., et al. (2005). "An Evidence-Based Systematic Review of [[comparison-echinacea-vs-lemon-balm]]." Journal of Herbal Pharmacotherapy, 5(2), 71-114.
-  - Sedigheh, A., et al. (2011). "Melissa officinalis in the Treatment of Dementia." CNS Drugs, 25(8), 691-701.
----
+  - Ulbricht, C., et al. (2005). "An Evidence-Based Systematic Review of comparison-echinacea-vs-lemon-balm." Journal of Herbal Pharmacotherapy, 5(2), 71-114.
+  - Sedigheh, A., et al. (2011). "Melissa officinalis in the Treatment of Dementia." CNS Drugs, 25(8), 691-701.---
 
 ## Overview
 
-**Melissa officinalis** L., commonly known as lemon balm, balm, or sweet balm, is a perennial herbaceous plant in the mint family Lamiaceae. It is native to southern Europe, the Mediterranean basin, and Central Asia.
+**Melissa officinalis** L., commonly known as [[comparison-astragalus-vs-lemon-balm]], balm, or sweet balm, is a perennial herbaceous plant in the mint family Lamiaceae. It is native to southern Europe, the Mediterranean basin, and Central Asia.
 
 The species has been cultivated for over 2,000 years for its culinary, medicinal, and aromatic properties. Its leaves emit a distinctive lemon fragrance when crushed due to high concentrations of citral, geranial, and neral.
 

@@ -11,10 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Guimarães S. M. P. B. (2006). "A revisão taxonômica do gênero Hypnea (Rhodophyta, Gigartinales)." Série Livros 26, Museu Nacional, Rio de Janeiro.
-  - Kilar J. A. & H. A. Mathieson (1978). "[[mycorrhiza-bioassays-ecological-studies]] of the annual red alga Hypnea musciformis (Wulf.) Lamour. in the western Gulf of Maine." Botanica Marina.
+  - Kilar J. A. & H. A. Mathieson (1978). "mycorrhiza-bioassays-ecological-studies of the annual red alga Hypnea musciformis (Wulf.) Lamour. in the western Gulf of Maine." Botanica Marina.
   - Littler D. S. & M. M. Littler (2000). "Caribbean Reef Plants." OffShore Graphics, Washington D.C.
-  - "Hypnea musciformis." AlgaeBase. https://www.algaebase.org/
----
+  - "Hypnea musciformis." AlgaeBase. https://www.algaebase.org/---
 
 ## Overview
 

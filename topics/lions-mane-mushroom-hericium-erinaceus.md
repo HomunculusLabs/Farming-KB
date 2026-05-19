@@ -13,12 +13,11 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
   - Stamets, P. (2000). growing-gourmet-abalone-oyster-cystidiosus-cultivation & medicinal-mushrooms. Ten Speed Press.
-  - Wong, K.H. et al. (2012). "[[cancer-medicinal-mushrooms-hericium-erinaceus]]: A valuable edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]]." Food Chemistry, 135(2), 609-614.
+  - Wong, K.H. et al. (2012). "cancer-medicinal-mushrooms-hericium-erinaceus: A valuable edible and gourmet-medicinal-mushroom-casing-layer-techniques." Food Chemistry, 135(2), 609-614.
   - Li, Y. et al. (2022). "Hericium erinaceus improves mild cognitive impairment: A double-blind placebo-controlled clinical trial." Phytotherapy Research.
   - Mori, K. et al. (2009). "Improving effects of the mushroom Yamabushitake on cognitive function." Phytotherapy Research, 23(3), 367-372.
   - Wang, C.X. et al. (2020). "Neurotrophic properties of Hericium erinaceus and its active compounds." Journal of Fungi, 6(4), 286.
-  - Wasser, S.P. (2014). "Medicinal mushroom science: History, current status, future trends, and unsolved problems." International Journal of [[cancer-medicinal-mushrooms]], 16(3), 237-256.
----
+  - Wasser, S.P. (2014). "Medicinal mushroom science: History, current status, future trends, and unsolved problems." International Journal of cancer-medicinal-mushrooms, 16(3), 237-256.---
 
 # Lion's Mane Mushroom (Hericium erinaceus)
 

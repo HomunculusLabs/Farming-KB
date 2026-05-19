@@ -12,10 +12,9 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
-  - Nash, T.H. III (2008). [[fungi-in-the-environment-lichen-biology]] (2nd ed.). Cambridge University Press.
+  - Nash, T.H. III (2008). fungi-in-the-environment-lichen-biology (2nd ed.). Cambridge University Press.
   - Benedict, J.B. (2009). "Experiments on lichen growth." Arctic, Antarctic, and Alpine Research, 41(4), 462–472.
-  - Wetmore, C.M. (2007). "The Rhizocarpaceae of [[guzman-psilocybin-mushrooms-north-america]]." Contributions from the University of Michigan Herbarium, 25.
----
+  - Wetmore, C.M. (2007). "The Rhizocarpaceae of guzman-psilocybin-mushrooms-north-america." Contributions from the University of Michigan Herbarium, 25.---
 
 ## Overview
 

@@ -13,8 +13,7 @@ sources:
   - Hitchcock, C. L. & Cronquist, A. (1959). "Gaultheria." In Vascular Plants of the psilocybin-north-america-pacific-northwest. University of Washington Press.
   - Tiffney, W. N. (1984). "The role of Gaultheria shallon in Pacific Northwest forest succession." Madroño.
   - USDA NRCS. "Gaultheria shallon" PLANTS Database. https://plants.usda.gov/
-  - Minore, D. (1972). "The [[huckleberries-and-wild-berries-of-north-america]] the Pacific Northwest." USDA Forest Service General Technical Report PNW.
----
+  - Minore, D. (1972). "The huckleberries-and-wild-berries-of-north-america the Pacific Northwest." USDA Forest Service General Technical Report PNW.---
 
 ## Overview
 

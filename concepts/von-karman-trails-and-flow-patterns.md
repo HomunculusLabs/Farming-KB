@@ -110,7 +110,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[laminar-flow-hood-guide]]
+- [[laminar-flow-hood]]
 - [[mollison-von-karman-trails-and-flowforms]]
 - [[von-karman-trail]]
 - [[von-karman-trails-and-ekman-spirals]]

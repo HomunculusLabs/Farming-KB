@@ -15,8 +15,7 @@ sources:
   - Hummer K.E. et al. (2009). "Fragaria: A Genus with Deep Historical Roots and Modern Appeal." HortScience 44(5): 1255-1259.
   - USDA NRCS (2024). "Fragaria virginiana Duchesne." PLANTS Database.
   - Hanna J.W. (2022). "Evolution and Diversity of the Wild Strawberry." Frontiers in Plant Science 13: 865234.
-  - Bassi P.V. et al. (2021). "The Ellagic Acid Content of [[growing-gourmet-north-american-reishi-species]] Wild Strawberries." Food Chemistry 340: 128267.
----
+  - Bassi P.V. et al. (2021). "The Ellagic Acid Content of growing-gourmet-north-american-reishi-species Wild Strawberries." Food Chemistry 340: 128267.---
 
 ## Overview
 

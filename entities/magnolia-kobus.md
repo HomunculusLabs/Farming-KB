@@ -12,9 +12,8 @@ updated: 2025-05-11
 sources:
   - Callaway, D.J. (1994). The World of Magnolias. Timber Press, Portland, OR.
   - Figlar, R.B. & Nooteboom, H.P. (2004). "Magnoliaceae." Flora of China, 7: 48-77.
-  - Spongberg, S.A. (1976). "Magnoliaceae hardy in temperate [[guzman-psilocybin-mushrooms-north-america]]." Journal of the Arnold Arboretum, 57, 241-267.
-  - Ueda, K. (1988). "Flowering in Magnolia kobus." Plant Species Biology, 3, 19-24.
----
+  - Spongberg, S.A. (1976). "Magnoliaceae hardy in temperate guzman-psilocybin-mushrooms-north-america." Journal of the Arnold Arboretum, 57, 241-267.
+  - Ueda, K. (1988). "Flowering in Magnolia kobus." Plant Species Biology, 3, 19-24.---
 
 ## Overview
 

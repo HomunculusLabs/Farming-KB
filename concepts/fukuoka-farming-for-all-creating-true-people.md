@@ -80,7 +80,7 @@ The consumer who demands cheap food, perfect produce, and year-round availabilit
 
 > "Farmers themselves have destroyed the earth while praying for its protection."
 
-The modern farmer applies chemicals to the soil while asking God to bless the harvest. This contradiction — destroying with one hand what one prays to protect with the other — is, for Fukuoka, the defining absurdity of [[one-straw-revolution-overview]] — Fukuoka's foundational work on [[do-nothing-farming]] — The agricultural practice that embodies this philosophy
+The modern farmer applies chemicals to the soil while asking God to bless the harvest. This contradiction — destroying with one hand what one prays to protect with the other — is, for Fukuoka, the defining absurdity of [[one-straw-revolution-guide]] — Fukuoka's foundational work on [[do-nothing-farming]] — The agricultural practice that embodies this philosophy
 - — Fukuoka's spiritual vision for agriculture
 - [[natural-farming]] — Overview of Fukuoka's ecological approach
 ## Practical Applications

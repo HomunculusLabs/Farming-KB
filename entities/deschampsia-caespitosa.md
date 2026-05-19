@@ -10,11 +10,10 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Clarke, G.L. (1960). "The genus Deschampsia in psilocybin-north-america-pacific-northwest." Rhodora.
-  - Coupland, R.T. (1961). "A reconsideration of grassland classification in the Northern Great Plains [[huckleberries-and-wild-berries-of-north-america]]." Journal of Ecology.
+  - Coupland, R.T. (1961). "A reconsideration of grassland classification in the Northern Great Plains huckleberries-and-wild-berries-of-north-america." Journal of Ecology.
   - Fjellheim, S. et al. (2006). "Genetic diversity in Deschampsia caespitosa populations." Molecular Ecology.
-  - Wilson, A.M. (1969). "[[factors-affecting-mycoremediation-efficiency]] seedling establishment in Deschampsia caespitosa." Journal of Ecology.
-  - Bedford, B.L. et al. (1999). "Vegetation, production and nutrient dynamics of a tidal freshwater marsh." Wetlands.
----
+  - Wilson, A.M. (1969). "factors-affecting-mycoremediation-efficiency seedling establishment in Deschampsia caespitosa." Journal of Ecology.
+  - Bedford, B.L. et al. (1999). "Vegetation, production and nutrient dynamics of a tidal freshwater marsh." Wetlands.---
 
 ## Overview
 

@@ -12,10 +12,9 @@ updated: 2026-05-08
 sources:
   - Cook CDK, Urmi-König K (1985). "A revision of the genus Elodea (Hydrocharitaceae)." Aquatic Botany 21(2): 111-156.
   - Simpson DA (1984). "A short history of the introduction and spread of Elodea Michx. in the British Isles." Watsonia 15(1): 1-9.
-  - Nichols SA, Shaw BH (1986). "Ecological life histories of the three aquatic plants [[myriophyllum-spicatum]], [[potamogeton-crispus]], and Elodea canadensis." Hydrobiologia 131(1): 3-21.
+  - Nichols SA, Shaw BH (1986). "Ecological life histories of the three aquatic plants myriophyllum-spicatum, potamogeton-crispus, and Elodea canadensis." Hydrobiologia 131(1): 3-21.
   - Bowmer KH, Jacobs SWL, Sainty GR (1995). "Identification, biology and management of Elodea canadensis, Elodea nuttallii and Lagarosiphon major." CSIRO Division of Water Resources Consultancy Report.
-  - USDA NRCS (2024). "Elodea canadensis Michx." PLANTS Database.
----
+  - USDA NRCS (2024). "Elodea canadensis Michx." PLANTS Database.---
 
 ## Overview
 

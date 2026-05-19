@@ -15,15 +15,14 @@ updated: 2026-04-28
 sources:
   - "Leafly Staff (2024). \"Blackberry Kush blesching-cannabis-strain-selection-receptor-targeting Information.\" Leafly.com."
   - "AllBud (2024). \"Blackberry Kush Weed Strain.\" AllBud.com."
-  - "Mudge, E. et al. (2022). \"cannabis-terpene-profiles-sativa of Commercial cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains.\" Cannabis and Cannabinoid Research, 7(2), 134-145."
-  - "Smart, R. et al. (2022). \"query-how-does-no-till-cannabis-cultivation-work Practices and Potency.\" Drug and [[cannabis-for-alcohol-dependence]], 237, 109588."
----
+  - "Mudge, E. et al. (2022). \"[[cannabis-terpene-profiles-sativa]] of Commercial [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]].\" Cannabis and Cannabinoid Research, 7(2), 134-145."
+  - "Smart, R. et al. (2022). \"[[query-how-does-no-till-cannabis-cultivation-work]] Practices and Potency.\" Drug and [[cannabis-for-alcohol-dependence]], 237, 109588."---
 
 # Blackberry Kush
 
 ## Overview
 
-Blackberry Kush is an indica-dominant cannabis strain renowned for its deep
+Blackberry Kush is an indica-dominant [[biscotti-cannabis-strain]] renowned for its deep
 purple bud coloration, sweet berry aroma, and heavily sedative effects. Though
 its exact lineage remains debated, it is widely accepted as a cross between
 an Afghani indica and [[cannabis-hindu-kush-strain-description-clarke]]

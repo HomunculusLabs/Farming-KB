@@ -11,10 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Viereck, L.A. & Johnston, W.F. (1990). "Betula papyrifera." In: Silvics [[huckleberries-and-wild-berries-of-north-america]]. USDA Forest Service.
+  - Viereck, L.A. & Johnston, W.F. (1990). "Betula papyrifera." In: Silvics huckleberries-and-wild-berries-of-north-america. USDA Forest Service.
   - Safford, L.O. (1970). "Biology of Paper Birch." USDA Forest Service Northeastern Forest Experiment Station.
-  - Barnes, B.V. & Wagner, W.H. (2004). "Michigan Trees." University of Michigan Press.
----
+  - Barnes, B.V. & Wagner, W.H. (2004). "Michigan Trees." University of Michigan Press.---
 
 ## Overview
 

@@ -16,14 +16,13 @@ sources:
   - California Rare Fruit Growers. "Mulberry" Fruit Facts.
   - Missouri Botanical Garden. "Morus" genus profile.
   - FAO. 1990. "Sericulture Manual: Mulberry Cultivation." FAO Agricultural Services Bulletin.
-  - Zhang, Z. et al. 2018. "Mulberry (Morus spp.) — A review of query-what-are-the-main-bioactive-compounds-in-medicinal-plants and health benefits." Journal of [[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]], 45: 447-455.
+  - Zhang, Z. et al. 2018. "Mulberry (Morus spp.) — A review of query-what-are-the-main-bioactive-compounds-in-medicinal-plants and health benefits." Journal of functional-foods-and-dietary-supplements-from-medicinal-mushrooms, 45: 447-455.
   - Sanchez, M. 2002. "Morus rubra: Red Mulberry." USDA Forest Service Silvics Manual.
-  - Ercisli, S. & Orhan, E. 2007. "[[chemical-composition-of-hallucinogens]] white (Morus alba), red (Morus rubra) and black (Morus nigra) mulberry fruits." Food Chemistry, 103(4): 1380-1384.
+  - Ercisli, S. & Orhan, E. 2007. "chemical-composition-of-hallucinogens white (Morus alba), red (Morus rubra) and black (Morus nigra) mulberry fruits." Food Chemistry, 103(4): 1380-1384.
   - Koul, B. et al. 2020. "Mulberry leaf: A potential source of bioactive phytochemicals." Phytotherapy Research, 34(8): 1804-1816.
   - Bhatt, B. & Chauhan, S. 2020. "Mulberry for animal nutrition — A review." Animal Nutrition, 6(4): 377-386.
   - Royal Botanic Gardens, Kew. "Morus alba" Plants of the World Online.
-  - Stark Bro's Nurseries. "Mulberry Tree Planting and Care Guide."
----
+  - Stark Bro's Nurseries. "Mulberry Tree Planting and Care Guide."---
 
 # Mulberry Cultivation and Uses
 

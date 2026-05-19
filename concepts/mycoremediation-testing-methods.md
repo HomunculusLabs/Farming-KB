@@ -6,7 +6,7 @@ type: concept
 
 # Mycoremediation Testing Methods
 
-Low-tech biological assays provide accessible, cost-effective ways to evaluate whether [[mycoremediation]] and [[mycofiltration]] efforts have meaningfully reduced contaminant toxicity. While they cannot identify specific degradation products or confirm complete mineralization, bioassays offer an integrative measure of residual biological harm that chemical analysis alone may miss. The three core assays described here—bean germination, earthworm survival, and bacterial contamination—form a practical triad for field-level assessment.
+Low-tech biological assays provide accessible, cost-effective ways to evaluate whether [[mycoremediation]] and [[mycofiltration-overview]] efforts have meaningfully reduced contaminant toxicity. While they cannot identify specific degradation products or confirm complete mineralization, bioassays offer an integrative measure of residual biological harm that chemical analysis alone may miss. The three core assays described here—bean germination, earthworm survival, and bacterial contamination—form a practical triad for field-level assessment.
 
 These methods are intentionally designed to be deployable without sophisticated laboratory equipment, making them suitable for community-scale remediation projects, [[citizen-science-fungal-biodiversity-discovery]] programs, and initial screening before committing to expensive professional analysis. Each assay targets a different trophic level and biological endpoint, providing complementary information about the overall safety of treated materials.
 

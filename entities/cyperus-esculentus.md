@@ -10,10 +10,9 @@ updated: 2026-05-08
 sources:
   - Kew Royal Botanic Gardens. "Cyperus esculentus L." Plants of the World Online.
   - De Vries, F.T. (1991). "Chufa (Cyperus esculentus L.): a weed or a crop?" In: Proceedings of the EWRS Symposium, 1991.
-  - Ukwuoma, C.C. & Obeleme, P. (1999). "[[chemical-composition-of-hallucinogens]] tiger nut tubers." Plant Foods for Human Nutrition, 54(3), 187-191.
+  - Ukwuoma, C.C. & Obeleme, P. (1999). "chemical-composition-of-hallucinogens tiger nut tubers." Plant Foods for Human Nutrition, 54(3), 187-191.
   - Adekanmi, A. et al. (2009). "Nutritional and health benefits of tigernut." Journal of Food Technology, 7(1), 1-7.
-  - Sánchez-Zapata, E. et al. (2012). "Tigernut (Cyperus esculentus) commercialization." Trends in Food Science & Technology, 25(2), 121-130.
----
+  - Sánchez-Zapata, E. et al. (2012). "Tigernut (Cyperus esculentus) commercialization." Trends in Food Science & Technology, 25(2), 121-130.---
 
 ## Overview
 

@@ -14,9 +14,8 @@ updated: 2026-04-28
 sources:
   - Darwin C (1875). "Insectivorous Plants." John Murray, London.
   - Schlauer J (2020). "Drosera rotundifolia." In: The Carnivorous Plant FAQ. http://www.sarracenia.com/faq/faq5526.html
-  - European Medicines Agency (2013). "[[permaculture-site-assessment-report-writing]] on Drosera rotundifolia." EMA/HMPC/572531/2009.
-  - Gibson TC (1991). "Field observations on nutrition of the sundew Drosera rotundifolia." Oecologia 85(3): 383-388.
----
+  - European Medicines Agency (2013). "permaculture-site-assessment-report-writing on Drosera rotundifolia." EMA/HMPC/572531/2009.
+  - Gibson TC (1991). "Field observations on nutrition of the sundew Drosera rotundifolia." Oecologia 85(3): 383-388.---
 
 ## Overview
 

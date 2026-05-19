@@ -12,8 +12,7 @@ updated: 2026-05-09
 sources:
   - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Dennstaedtia." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2. Oxford University Press.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern field-guide-psilocybin-bluing-reaction-identification to Ferns and Their Related Families. Houghton Mifflin.
-  - Moran, R.C. (2004). "A [[stropharia-cubensis-identification-and-natural-history]] of Ferns." Timber Press.
----
+  - Moran, R.C. (2004). "A stropharia-cubensis-identification-and-natural-history of Ferns." Timber Press.---
 
 ## Overview
 

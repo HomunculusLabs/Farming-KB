@@ -12,9 +12,8 @@ updated: 2026-05-10
 sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
   - Hedenäs, L. (1997). "A Revision of Sanionia." The Bryologist 100(1): 65-88.
-  - Flora [[huckleberries-and-wild-berries-of-north-america]], Vol. 28. "Bryophyta: Bryophytes." Oxford University Press.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
----
+  - Flora huckleberries-and-wild-berries-of-north-america, Vol. 28. "Bryophyta: Bryophytes." Oxford University Press.
+  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.---
 
 ## Overview
 

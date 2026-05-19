@@ -145,5 +145,5 @@ Balanced view of current evidence:
 - [[microdosing-theory-and-practice]]
 - [[psychedelic-microdosing]]
 - [[solomon-sweet-potato-cultivation-guide]]
-- [[bionutrients-guide]]
+- [[bionutrients]]
 - [[grain-processing-and-milling-guide]]

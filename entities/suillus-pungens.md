@@ -19,10 +19,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Thiers, H.D. (1975). "California boletes: the genus Suillus." Mycotaxon 2(2): 197–218.
-  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of [[growing-gourmet-north-american-reishi-species]] species of Suillus." Ann Arbor: University of Michigan Press.
+  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." Ann Arbor: University of Michigan Press.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
-  - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html
----
+  - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html---
 
 # Suillus pungens
 

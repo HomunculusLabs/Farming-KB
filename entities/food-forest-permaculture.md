@@ -14,9 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens Vol. I & II. Chelsea Green."
-  - "Mollison, B. (1988). Permaculture: A Designer's Manual. [[tagari-publications]]."
-  - "Shepard, M. (2013). Restoration Agriculture. Acres USA."
----
+  - "Mollison, B. (1988). Permaculture: A Designer's Manual. tagari-publications."
+  - "Shepard, M. (2013). Restoration Agriculture. Acres USA."---
 
 # Food Forest (Permaculture System)
 

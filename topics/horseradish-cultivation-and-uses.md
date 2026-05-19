@@ -53,7 +53,7 @@ Horseradish is extraordinarily cold-hardy:
 
 - **USDA Hardiness Zones**: 3–9. It tolerates winter temperatures to -35°C (-30°F) or lower, making it one of the most cold-tolerant [[companion-planting-and-polycultures]] — integration of horseradish into polyculture designs
 - [[cover-crops-and-green-manures]] — rotation partners for horseradish beds
-- [[medicinal-herb-growing-guide]] — horseradish in the medicinal herb garden
+- [[medicinal-herb-growing]] — horseradish in the medicinal herb garden
 - [[dynamic-accumulator-quick-reference]] — mineral accumulation by deep-rooted perennials
 
 ## Overview

@@ -51,7 +51,7 @@ The choice of reservoir material affects both the wicking performance and the ov
 The most common options each have distinct advantages and disadvantages worth considering before making your selection.
 Gravel is inexpensive and widely available but very heavy, making large beds difficult to move. Scoria (volcanic rock) is lighter than gravel and has excellent water-holding capacity in its pores.
 Recycled plastic drainage cells are lightweight, easy to install, and provide excellent water distribution, but represent a higher upfront cost compared to natural reservoir materials.
-An innovative alternative is using [[drip-irrigation-guide]] principles can be adapted to automatically fill your wicking bed on a schedule.
+An innovative alternative is using [[drip-irrigation]] principles can be adapted to automatically fill your wicking bed on a schedule.
 Connect a low-volume dripper or bubbler emitter to the fill pipe inlet for automated filling.
 A simple mechanical timer on your hose bib can fill the bed on a regular schedule without electricity.
 [[cannabis-environment-control]] requirements of consistent moisture levels, wicking beds offer a significant advantage.
@@ -76,7 +76,7 @@ Shallow-rooted plants like lettuce, radishes, and herbs thrive in wicking beds a
 Deep-rooted plants like tomatoes, peppers, and [[query-best-mediterranean-herbs-for-beginner-herb-garden]] (rosemary, thyme, lavender), may not be ideal for wicking beds.
 The constant moisture at the root zone can promote root rot in these drought-adapted species.
 These plants can still be grown in wicking beds by planting them in elevated mounds within the bed or in separate containers on the surface.
-The [[drip-irrigation-guide]] timers for automated filling
+The [[drip-irrigation]] timers for automated filling
 - Most vegetables and herbs thrive in wicking beds, but Mediterranean herbs and succulents may suffer from the consistently moist root zone
 - Regular maintenance includes checking reservoir water levels weekly and flushing the reservoir periodically to prevent [[query-how-do-i-build-with-earthbags]]
 

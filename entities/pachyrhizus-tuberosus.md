@@ -16,10 +16,9 @@ sources:
   - Sørensen, M. (1996). Yam Bean: Pachyrhizus DC. Promoting the conservation and use of underutilized and neglected crops. IPGRI, Rome.
   - Zanklan, A.S. et al. (2003). "Yam bean (Pachyrhizus spp.) — a sustainable crop for the tropics." In: New Crops and New Uses, ASHS Press, 556-563.
   - Grønhaug, T.E. et al. (2005). "Yam beans (Pachyrhizus spp.) — a sustainable N₂-fixing, high-yielding root crop for the tropics." Trop. Plant Biol., 3, 47-57.
-  - Castellanos, J.Z. et al. (1997). "Nitrogen accumulation in the root and seed of [[pachyrhizus-erosus]], P. tuberosus and P. ahipa." Field Crops Research, 52(1-2), 75-81.
+  - Castellanos, J.Z. et al. (1997). "Nitrogen accumulation in the root and seed of pachyrhizus-erosus, P. tuberosus and P. ahipa." Field Crops Research, 52(1-2), 75-81.
   - Clauss, E. (2005). "Genetic resources of Pachyrhizus tuberosus (Lam.) Spreng." PhD thesis, University of Göttingen.
-created: 2026-04-28
----
+created: 2026-04-28---
 
 # Pachyrhizus tuberosus
 

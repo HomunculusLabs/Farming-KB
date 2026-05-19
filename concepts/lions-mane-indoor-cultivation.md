@@ -129,5 +129,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[growing-gourmet-lions-mane-cultivation]]
-- [[lions-mane]]
+- [[lions-mane-guide]]
 - [[lions-mane-guide]]

@@ -15,12 +15,11 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.greenhomebuilding.com/plaster.htm
-  - The Hand-Sculpted House, [[ianto-evans-polyculture-system]] et al. ([[chelsea-green-publishing]], 2002)
+  - The Hand-Sculpted House, ianto-evans-polyculture-system et al. (chelsea-green-publishing, 2002)
   - Building with Cob, Adam Weismann & Katy Bryce (Green Books, 2006)
   - https://earthship.com/
   - The Natural Plaster Book, Cedar Rose Guelberth & Dan Chiras (New Society Publishers, 2003)
-type: query
----
+type: query---
 
 # What is the Best Natural Plaster for Earthship or Cob Walls?
 

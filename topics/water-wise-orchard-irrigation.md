@@ -82,7 +82,7 @@ faires-irrigation-design
 
 [[water-wise-vegetable-gardening]]
 
-[[drip-irrigation-guide]]
+[[drip-irrigation]]
 
 permaculture-designers-manual-irrigation-methods
 

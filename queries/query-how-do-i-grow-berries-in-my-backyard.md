@@ -20,7 +20,7 @@ The [[soil-ph-management]] guide explains how to adjust pH using sulfur, lime, o
 Incorporate compost, aged manure, or leaf mold generously to improve soil structure and fertility.
 The [[blueberry-growing-guide]] includes specific planting depth and spacing recommendations.
 Strawberries can be grown as matted rows or hill systems depending on the variety you select.
-Follow the [[drip-irrigation-guide]] covers setup options suitable for berry patches of any size.
+Follow the [[drip-irrigation]] covers setup options suitable for berry patches of any size.
 Mulch heavily with straw, wood chips, or pine needles to retain soil moisture and suppress weeds.
 Avoid overhead watering during fruiting, as wet berries are prone to mold and rot.
 During establishment, water newly planted berries 1 to 2 inches per week if rainfall is insufficient.

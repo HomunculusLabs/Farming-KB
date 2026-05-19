@@ -31,7 +31,7 @@ EasyGel coliform detection kits are a low-cost, field-deployable testing method 
 
 ### Mycoremediation Monitoring
 
-EasyGel kits are particularly valuable for monitoring the effectiveness of [[mycofiltration]] systems designed to remove bacterial contaminants from water. Cotter specifically recommends them as part of a holistic testing approach that includes cell counting, gram stains, bean tests, and worm assays.
+EasyGel kits are particularly valuable for monitoring the effectiveness of [[mycofiltration-overview]] systems designed to remove bacterial contaminants from water. Cotter specifically recommends them as part of a holistic testing approach that includes cell counting, gram stains, bean tests, and worm assays.
 
 ### Testing Protocol Integration
 

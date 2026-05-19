@@ -67,7 +67,7 @@ The role of animal behavior in generating beneficial impact extends beyond the s
 [[savory-ecosystem-foundation-blocks]] | [[savory-growing-season-and-non-growing-season-management]] |
 [[savory-fire-as-management-tool]] |
 [[savory-bare-ground-and-soil-exposure]] |
-[[regenerative-agriculture-overview]] | [[composting-and-soil-biology]] | [[permaculture-design-principles]]
+[[regenerative-agriculture]] | [[composting-and-soil-biology]] | [[permaculture-design-principles]]
 
 ## References
 

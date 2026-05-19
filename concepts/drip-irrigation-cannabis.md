@@ -78,7 +78,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[drip-irrigation-guide]]
+- [[drip-irrigation]]
 - [[cervantes-drip-irrigation-systems]]
 - [[comparison-drip-irrigation-vs-rainwater-harvesting]]
 

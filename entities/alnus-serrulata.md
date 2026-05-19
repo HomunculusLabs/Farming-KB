@@ -12,10 +12,9 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Schopmeyer, C.S. (1974). "Alnus serrulata (Ait.) Willd., hazel alder." In: Seeds of Woody Plants in the United States, USDA Forest Service.
-  - Kruckeberg, A.R. (2008). "Trees of the [[psilocybin-north-america-pacific-northwest]] and the Rest [[huckleberries-and-wild-berries-of-north-america]]." Timber Press.
+  - Kruckeberg, A.R. (2008). "Trees of the psilocybin-north-america-pacific-northwest and the Rest huckleberries-and-wild-berries-of-north-america." Timber Press.
   - Elias, T.S. (1980). "The Complete Trees of North America." Van Nostrand Reinhold.
-  - Dawson, J.O. (1990). "[[biological-nitrogen-fixation-agriculture]] by actinorhizal plants in temperate forestry." In: Nitrogen Fixation: Achievements and Objectives, Chapman and Hall.
----
+  - Dawson, J.O. (1990). "biological-nitrogen-fixation-agriculture by actinorhizal plants in temperate forestry." In: Nitrogen Fixation: Achievements and Objectives, Chapman and Hall.---
 
 ## Overview
 

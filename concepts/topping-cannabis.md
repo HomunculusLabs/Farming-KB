@@ -5,10 +5,9 @@ updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
+  - "Cervantes - marijuana-horticulture-cervantes-cannabis-breeding-and-genetics"
 type: concept
-tags: [cannabis]
----
+tags: [cannabis]---
 
 # Topping (Cannabis)
 

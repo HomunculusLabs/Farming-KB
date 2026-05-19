@@ -25,7 +25,7 @@ choices and their characteristics:
 
 | Species | N Contribution (lb/acre) | Hardiness | Best Termination |
 |---------|------------------------|-----------|-----------------|
-| [[green-manure-guide]] explains that
+| [[green-manure]] explains that
 maximum nitrogen fixation occurs when legumes are terminated at 50% bloom, before
 the plant transfers fixed nitrogen from roots into seeds.
 

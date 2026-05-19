@@ -71,7 +71,7 @@ tissue. Its small molecular size and polarity allow it to
 penetrate the chitinous cell walls of fungal material,
 liberating the indole alkaloids into solution. Multiple
 extraction cycles with fresh solvent increase yield. The
-process parallels the [[psilocybin-extraction]] methodology
+process parallels the [[psilocybin-extraction-guide]] methodology
 described in ethnobotanical field guides of the era.
 
 ## Modern Alternatives

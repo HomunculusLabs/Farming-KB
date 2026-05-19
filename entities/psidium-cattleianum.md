@@ -13,9 +13,8 @@ sources:
   - Pascual, B. et al. (2007). "Psidium cattleianum Sabine." In: "Fruits and Nuts." Springer.
   - Lorence, D.H. & Sussman, R.W. (1986). "Exotic Species Invasion into Tahiti's Native Forests." Biotropica 18(4): 340-342.
   - Wilson, K.A. (1994). "Strawberry Guava — A Weed of Hawaiian Forests." Weed Technology 8(4): 964-966.
-  - Vasconcelos, L. et al. (2019). "[[chemical-composition-of-hallucinogens]] and Antioxidant Activity of Psidium cattleianum Fruit." Food Chemistry 274: 165-171.
-  - GBIF Secretariat (2023). "Psidium cattleianum Sabine." GBIF Backbone Taxonomy.
----
+  - Vasconcelos, L. et al. (2019). "chemical-composition-of-hallucinogens and Antioxidant Activity of Psidium cattleianum Fruit." Food Chemistry 274: 165-171.
+  - GBIF Secretariat (2023). "Psidium cattleianum Sabine." GBIF Backbone Taxonomy.---
 
 ## Overview
 

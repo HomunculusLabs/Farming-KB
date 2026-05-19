@@ -146,4 +146,4 @@ Site-specific adaptation ensures relevance to local conditions.
 - [[mushroom-trainee-selection-criteria]]
 - [[mushroom-training-harvesting-packaging]]
 - [[mushroom-training-pasteurization-sterilization]]
-- [[mushroom-troubleshooting-guide]]
+- [[mushroom-troubleshooting]]

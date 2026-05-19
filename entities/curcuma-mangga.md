@@ -10,8 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sakai K, Nagamasu H, Ito T. (2000). "Curcuma of Borneo." Acta Phytotaxonomica et Geobotanica.
-  - Theilade I, Theilade S. (2013). "Zingiberaceae of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] Science.
----
+  - Theilade I, Theilade S. (2013). "Zingiberaceae of arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Science.---
 
 # Curcuma mangga
 

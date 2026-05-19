@@ -12,9 +12,8 @@ updated: 2026-05-08
 sources:
   - Jaakola, L. et al. (2001). "Vaccinium vitis-idaea." In: Wild Berries of Northern Europe. University of Helsinki Press.
   - Hagerman, A.E. et al. (1992). "Tannin chemistry of the genus Vaccinium." Journal of Chemical Ecology, 18(10), 1807-1824.
-  - Riihinen, K. et al. (2008). "[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in berries of Finnish lingonberry (Vaccinium vitis-idaea L.) cultivars." European Food Research and Technology, 227(3), 717-724.
-  - Uleberg, E. et al. (2012). "Effects of temperature and photoperiod on cannabis-vegetative-growth-stage and flowering of Vaccinium vitis-idaea L." Scientia Horticulturae, 140, 66-72.
----
+  - Riihinen, K. et al. (2008). "aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham in berries of Finnish lingonberry (Vaccinium vitis-idaea L.) cultivars." European Food Research and Technology, 227(3), 717-724.
+  - Uleberg, E. et al. (2012). "Effects of temperature and photoperiod on cannabis-vegetative-growth-stage and flowering of Vaccinium vitis-idaea L." Scientia Horticulturae, 140, 66-72.---
 
 ## Overview
 

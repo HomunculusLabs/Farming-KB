@@ -117,4 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[laminar-flow-hood-blower-and-filter-sizing]]
 - [[laminar-flow-hood-construction]]
 - [[laminar-flow-hood-diy-construction]]
-- [[laminar-flow-hood-guide]]
+- [[laminar-flow-hood]]

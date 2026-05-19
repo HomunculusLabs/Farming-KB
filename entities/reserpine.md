@@ -13,10 +13,9 @@ updated: 2026-05-09
 sources:
   - Shimizu, M. et al. (1953). "Alkaloids of rauwolfia-serpentina." Journal of the American Chemical Society, 75, 5930-5933.
   - Carlsson, A. & Lindqvist, M. (1963). "Effect of chlorpromazine or haloperidol on formation of 3-methoxytyramine and normetanephrine in mouse brain." Acta Pharmacologica, 20, 140-144.
-  - Frishman, W.H. & Grewall, P. (2000). "Serpentine ([[rauwolfia-serpentina]]): history, phytochemistry, pharmacology, and clinical use." Cardiovascular Drug Reviews, 18(2), 101-113.
+  - Frishman, W.H. & Grewall, P. (2000). "Serpentine (rauwolfia-serpentina): history, phytochemistry, pharmacology, and clinical use." Cardiovascular Drug Reviews, 18(2), 101-113.
   - Henningfield, J.E. et al. (1999). "Reserpine: cannabis-for-alcohol-dependence, 56(1), 7-14.
-  - Lopez-Munoz, F. et al. (2005). "The historical evolution of reserpine use." Journal of Clinical Psychopharmacology, 25(5), 521-526.
----
+  - Lopez-Munoz, F. et al. (2005). "The historical evolution of reserpine use." Journal of Clinical Psychopharmacology, 25(5), 521-526.---
 
 # Reserpine
 

@@ -73,7 +73,7 @@ growth characteristics, environmental preferences, and [[trichoderma-forest-gree
 - sterile-cultivation-technique
 - [[agar-medium-preparation]]
 - [[mushroom-cultivation-fundamentals]]
-- [[psilocybin-mushroom-cultivation-guide]]
+- [[psilocybin-mushroom-cultivation]]
 - [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press,
   2000.
 - Cotter, Tradd. [[comparison-natural-farming-vs-permaculture]] Handbook. 2010.

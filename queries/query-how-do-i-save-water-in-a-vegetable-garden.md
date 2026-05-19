@@ -15,10 +15,10 @@ type: query
 Saving water in a vegetable garden is mostly about keeping rainfall and irrigation in the root zone for longer.
 The most reliable combination is healthy soil, mulch, low-flow irrigation, crop timing, and plant spacing that shades the soil.
 Use [[cannabis-delivery-methods-comparison]], then add [[hamilton-composting-and-organic-matter-management]] improves aggregation, infiltration, and plant-available water storage.
-[[drip-irrigation-guide]] covers line layout, emitter spacing, filters, pressure, and zones.
+[[drip-irrigation]] covers line layout, emitter spacing, filters, pressure, and zones.
 [[solomon-rainwater-harvesting-for-gardens]] connects stored water with practical garden irrigation planning.
 [[cover-cropping-guide]] helps manage living roots between crops, but [[humus-formation-and-soil-organic-matter]] because stored water is better than repeatedly replacing lost water.
-- Maintain annual bed fertility with [[drip-irrigation-guide]] methods over overhead sprinkling when evaporation or leaf disease is high.
+- Maintain annual bed fertility with [[drip-irrigation]] methods over overhead sprinkling when evaporation or leaf disease is high.
 - Use [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
 - [[query-how-do-i-save-seeds-from-biennial-vegetables]]
 

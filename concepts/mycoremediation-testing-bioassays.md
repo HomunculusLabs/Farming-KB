@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-After deploying a [[mycoremediation]] or [[mycofiltration]] system, verifying that contaminants have been reduced to safe levels is essential. While professional [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] provides the most precise results, low-cost bioassays using [[savory-living-organisms-as-tools]] offer accessible, highly sensitive indicators of toxicity. These methods require no specialized equipment and are appropriate for everyone from students and home cultivators to commercial operators and researchers.
+After deploying a [[mycoremediation]] or [[mycofiltration-overview]] system, verifying that contaminants have been reduced to safe levels is essential. While professional [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] provides the most precise results, low-cost bioassays using [[savory-living-organisms-as-tools]] offer accessible, highly sensitive indicators of toxicity. These methods require no specialized equipment and are appropriate for everyone from students and home cultivators to commercial operators and researchers.
 
 ## Metabolic Product Harvesting
 

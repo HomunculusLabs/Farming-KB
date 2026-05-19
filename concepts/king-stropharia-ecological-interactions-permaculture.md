@@ -28,7 +28,7 @@ The use of King Stropharia as fish food was discovered during silver salmon aqua
 
 This observation reveals a three-trophic-level food chain mediated by King Stropharia: the [[permaculture]]
 - [[psilocybin]]
-- [[mycofiltration]]
+- [[mycofiltration-overview]]
 
 ## Overview
 

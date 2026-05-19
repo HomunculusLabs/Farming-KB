@@ -78,5 +78,5 @@ The Mushroom Rescue Module represents one of the most compelling applications of
 
 - [[bacillus-thuringiensis]]
 - [[octenol]]
-- [[mycofiltration]]
+- [[mycofiltration-overview]]
 - [[oyster-mushroom]]

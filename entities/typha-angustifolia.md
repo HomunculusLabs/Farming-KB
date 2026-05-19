@@ -12,10 +12,9 @@ updated: 2026-05-08
 sources:
   - Grace, J.B. & Wetzel, R.G. (1981). "Habitat partitioning and competitive displacement in cattails (Typha): Experimental field studies." American Journal of Botany, 68(7), 952-959.
   - Kuehn, M.M. & White, B.N. (1999). "Morphological variation in the cattail hybrid complex (Typha latifolia × T. angustifolia) in eastern Canada." Canadian Journal of Botany, 77(3), 392-398.
-  - Smith, S.G. (1987). "Typhaceae." In: Flora [[huckleberries-and-wild-berries-of-north-america]] North of Mexico, Vol. 22, pp. 199-210. Oxford University Press.
+  - Smith, S.G. (1987). "Typhaceae." In: Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 22, pp. 199-210. Oxford University Press.
   - Dykyjová, D. & Kvet, J. (1978). "Productivity of Typha angustifolia L. stands." In: Dykyjová, D. & Kvet, J. (eds.), Pond Littoral Ecosystems, pp. 225-239. Springer.
-  - Apahidean, A.I. et al. (2014). "Heavy metal phytoremediation potential of Typha angustifolia and Typha latifolia." Notulae Botanicae Horti Agrobotanici Cluj-Napoca, 42(2), 388-394.
----
+  - Apahidean, A.I. et al. (2014). "Heavy metal phytoremediation potential of Typha angustifolia and Typha latifolia." Notulae Botanicae Horti Agrobotanici Cluj-Napoca, 42(2), 388-394.---
 
 # Typha angustifolia
 

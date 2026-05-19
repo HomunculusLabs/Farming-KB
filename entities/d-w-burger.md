@@ -87,6 +87,6 @@ and significance.
 
 - [[laminar-flow-hood-construction-tissue-culture]]
 - [[laminar-flow-hood-construction-hepa-filter]]
-- [[laminar-flow-hood-guide]]
+- [[laminar-flow-hood]]
 - [[laminar-flow-hood-diy-construction]]
 - [[holzer-problem-plant-regulation-with-livestock]]

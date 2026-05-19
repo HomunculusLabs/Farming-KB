@@ -9,7 +9,7 @@ tags: [technique, testing, microbiology, bacteria, mycoremediation]
 
 ## Description
 
-Gram stain testing is a fundamental microbiological technique used to identify and classify bacteria based on differences in their cell [[fungal-cell-wall-composition-and-structural-organization]]. The test sorts bacteria into two major groups — Gram-positive and Gram-negative — by applying a series of dyes that stain cells differently depending on the structure of their cell membranes. In [[mycoremediation]], gram staining is used to validate the identity and purity of bacterial cultures before, during, and after treatment to monitor the ongoing efficiency of [[mycofiltration]] systems.
+Gram stain testing is a fundamental microbiological technique used to identify and classify bacteria based on differences in their cell [[fungal-cell-wall-composition-and-structural-organization]]. The test sorts bacteria into two major groups — Gram-positive and Gram-negative — by applying a series of dyes that stain cells differently depending on the structure of their cell membranes. In [[mycoremediation]], gram staining is used to validate the identity and purity of bacterial cultures before, during, and after treatment to monitor the ongoing efficiency of [[mycofiltration-overview]] systems.
 
 ## Classification
 

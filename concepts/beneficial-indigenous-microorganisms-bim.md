@@ -25,7 +25,7 @@ sources:
 
 # Beneficial Indigenous Microorganisms (BIM)
 
-Gil Carandang's Philippine approach to indigenous microorganisms. Combines multiple microbial sources into a single blended serum, simpler and faster than Cho's 4-stage IMO process. See [[bionutrients-guide]] for the full bionutrient preparation system that pairs with BIM.
+Gil Carandang's Philippine approach to indigenous microorganisms. Combines multiple microbial sources into a single blended serum, simpler and faster than Cho's 4-stage IMO process. See [[bionutrients]] for the full bionutrient preparation system that pairs with BIM.
 
 ## Composition
 
@@ -70,7 +70,7 @@ Pull legume plants at flowering/fruiting stage, mix root-zone soil with equal ra
 | Climate | Tropical-adapted (faster) | Temperate/tropical |
 | Philosophy | Simplicity, self-reliance | Systematic, stage-specific |
 
-See [[bionutrients-guide]] for the full bionutrient preparation system that pairs with BIM.
+See [[bionutrients]] for the full bionutrient preparation system that pairs with BIM.
 
 ## Practical Applications
 
@@ -103,7 +103,7 @@ Technical parameters that govern successful implementation. Working with benefic
 ## See Also
 
 - [[indigenous-microorganisms-imo]] — Cho's 4-stage IMO process
-- [[bionutrients-guide]] — Carandang's bionutrient system
+- [[bionutrients]] — Carandang's bionutrient system
 - [[lactic-acid-bacteria-lab]] — LAB serum recipe (key component of BIM)
 - [[knf-preparations]] — all KNF inputs overview
 - [[soil-food-web-nutrient-cycling]] — what IMO/BIM does in the soil

@@ -78,6 +78,6 @@ The integration of traditional ecological knowledge with contemporary scientific
 
 ## See Also
 
-- [[mycofiltration]]
+- [[mycofiltration-overview]]
 - [[trametes-versicolor-entity]]
 - [[pleurotus-ostreatus]]

@@ -11,10 +11,9 @@ sources:
   - Brady, N.C., and R.R. Weil. The Nature and Properties of Soils. 15th ed., Pearson, 2016.
   - Shainberg, I., and M.E. Sumner. "Effects of gypsum on soil physical and chemical properties." Advances in Soil Science, vol. 12, 1989, pp. 1-41.
   - Ghassemi, F., A.J. Jakeman, and H.A. Nix. Salinisation of Land and Water Resources. CABI, 1995.
-  - Masters, D., and R. Benes. "Role of halophytes in the rehabilitation of degraded saline soils." Journal of [[fungal-diversity-arid-environments]], vol. 175, 2020, 104079.
+  - Masters, D., and R. Benes. "Role of halophytes in the rehabilitation of degraded saline soils." Journal of fungal-diversity-arid-environments, vol. 175, 2020, 104079.
   - Bronick, C.J., and R. Lal. "Soil structure and management: a review." Geoderma, vol. 124, no. 1-2, 2005, pp. 3-22.
-type: query
----
+type: query---
 
 # How Do I Restore Saline and Compacted Soil?
 

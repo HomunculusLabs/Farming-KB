@@ -9,12 +9,11 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Thelypteris." Flora of guzman-psilocybin-mushrooms-north-america, Vol. 2.
-  - Smith A.R. (1993). "Thelypteridaceae." Flora [[huckleberries-and-wild-berries-of-north-america]], Vol. 2, pp. 152–166.
+  - Flora [[huckleberries-and-wild-berries-of-north-america]] Editorial Committee (1993). "Thelypteris." Flora of [[guzman-psilocybin-mushrooms-north-america]], Vol. 2.
+  - Smith A.R. (1993). "Thelypteridaceae." Flora huckleberries-and-wild-berries-of-north-america, Vol. 2, pp. 152–166.
   - Wagner W.H. Jr. & Beitel J.M. (1993). "Thelypteris." Michigan Flora Online.
   - USDA NRCS (2024). "Thelypteris noveboracensis Plant Profile." plants.usda.gov.
-  - Hoshizaki B.J. & Moran R.C. (2001). "Fern Grower's Manual." Timber Press.
----
+  - Hoshizaki B.J. & Moran R.C. (2001). "Fern Grower's Manual." Timber Press.---
 
 ## Overview
 

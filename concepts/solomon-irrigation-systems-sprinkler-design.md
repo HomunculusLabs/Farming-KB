@@ -42,7 +42,7 @@ plants are stressed.
 
 All soils lose water at about the same rate because it is the sun
 evaporating moisture from leaves, not from bare earth. Bare soil with a
-dust [[drip-irrigation-guide]]
+dust [[drip-irrigation]]
 - [[solomon-complete-organic-fertilizer-guide]]
 ## Practical Considerations
 

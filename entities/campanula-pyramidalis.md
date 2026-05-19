@@ -11,9 +11,8 @@ updated: 2026-05-10
 sources:
   - Tutin, T.G. (1972). "Campanulaceae." Flora Europaea, Vol. 3. Cambridge University Press.
   - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In: Flora Europaea, Vol. 3. Cambridge University Press.
-  - Lammers, T.G. (2007). "Campanulaceae." In: The [[extended-families-and-intentional-community]] Genera of Vascular Plants. Springer.
-  - Richards, A.J. (1982). "Campanulas: Their Cultivation [[climatic-zones-and-classification-systems]]." Batsford.
----
+  - Lammers, T.G. (2007). "Campanulaceae." In: The extended-families-and-intentional-community Genera of Vascular Plants. Springer.
+  - Richards, A.J. (1982). "Campanulas: Their Cultivation climatic-zones-and-classification-systems." Batsford.---
 
 ## Overview
 
@@ -77,4 +76,5 @@ The cultivar 'Alba' with pure white flowers is the most commonly available named
 
 Plants are relatively pest-free but may be susceptible to slug damage on young growth. Good [[stamets-growing-room-air-circulation-co2-management]] around the rosette helps prevent fungal issues in humid conditions.
 
+The species naturalizes readily in suitable climates and has been documented in gardens across temperate Europe and North America.
 ## Uses [[endangered-fungi-and-conservation-strategies]]

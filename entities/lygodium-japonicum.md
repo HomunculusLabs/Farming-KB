@@ -11,8 +11,7 @@ updated: 2026-05-09
 sources:
   - Nakaike, T. (1975). "Enumeration of Japanese Pteridophytes." Tokyo.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
-  - Pemberton, R.W. & Ferriter, A.P. (1998). "Old World Climbing Fern, berry-growing Editorial Committee (1993). "Flora [[huckleberries-and-wild-berries-of-north-america]] North of Mexico, Vol. 2." Oxford University Press.
----
+  - Pemberton, R.W. & Ferriter, A.P. (1998). "Old World Climbing Fern, berry-growing Editorial Committee (1993). "Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2." Oxford University Press.---
 
 ## Overview
 

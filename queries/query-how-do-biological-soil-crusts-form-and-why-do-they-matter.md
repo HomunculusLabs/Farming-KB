@@ -13,7 +13,7 @@ They form when communities of [[cyanophyta]], mosses, [[lichen|lichens]], fungi,
 
 These crusts are sometimes called "the living skin of the desert" because they play foundational roles in ecosystem stability.
 
-Understanding how they form and function is critical for anyone working with dryland soils, [[desert-and-arid-lands-permaculture]], or [[regenerative-agriculture-overview]].
+Understanding how they form and function is critical for anyone working with dryland soils, [[desert-and-arid-lands-permaculture]], or [[regenerative-agriculture]].
 
 ## What organisms make up biological soil crusts?
 

@@ -11,10 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Brewster JL (2008). Onions and Other Vegetable Alliums. 2nd ed. CABI Publishing.
-  - Fritsch RM, Friesen N (2002). "Evolution, domestication and taxonomy." In: Rabinowitch HD, Currah L (eds.) Allium [[genetic-improvement-agaricus-bisporus-molecular-approaches]] of onion." In: Ali M et al. (eds.) Vegetable Science. Springer.
+  - Fritsch RM, Friesen N (2002). "Evolution, domestication and taxonomy." In: Rabinowitch HD, Currah L (eds.) Allium genetic-improvement-agaricus-bisporus-molecular-approaches of onion." In: Ali M et al. (eds.) Vegetable Science. Springer.
   - Block E (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
-  - Havey MJ (1995). "Phylogenetic relationships among cultivated onions." American Journal of Botany.
----
+  - Havey MJ (1995). "Phylogenetic relationships among cultivated onions." American Journal of Botany.---
 
 ## Overview
 

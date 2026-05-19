@@ -12,9 +12,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Barrow, S.C. (1998). "A monograph of Phoenix L. (Palmae: Coryphoideae)." Kew Bulletin 53(3): 513-575.
-  - Christodoulou, C.S. (1992). "The [[fungal-diversity-mediterranean-ecosystems]]."
-  - Greuter, W. (1967). "Flora der Insel Kythira." Botanische Jahrbücher 87: 1-140.
----
+  - Christodoulou, C.S. (1992). "The fungal-diversity-mediterranean-ecosystems."
+  - Greuter, W. (1967). "Flora der Insel Kythira." Botanische Jahrbücher 87: 1-140.---
 
 # Phoenix theophrasti
 

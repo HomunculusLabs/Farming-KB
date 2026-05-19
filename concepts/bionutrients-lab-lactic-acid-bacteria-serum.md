@@ -130,7 +130,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[bionutrients]]
 - [[dom]]
 - [[composting]]
-- [[bionutrients-guide]]
+- [[bionutrients]]
 - [[bionutrients-lab-calcium-phosphate-calamansi]]
 - [[bionutrients-lab-fermented-plant-juice-fpj]]
 - [[bionutrients-lab-indigenous-microorganisms-imo]]

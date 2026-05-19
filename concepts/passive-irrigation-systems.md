@@ -136,4 +136,4 @@ Deep pipes deliver water directly to the root zone of established [[nitrogen-fix
 
 ## Integration Notes
 
-Passive [[irrigation-systems]] work best in combination. Use swales for landscape-scale water management, wicking beds for intensive [[coleman-french-historical-winter-vegetable-production]], and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.
+Passive [[irrigation-systems]] work best in combination. Use swales for landscape-scale water management, wicking beds for intensive [[coleman-french-historical-winter-vegetable-production]], and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation]] can supplement passive systems during peak demand periods.

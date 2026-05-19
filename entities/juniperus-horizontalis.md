@@ -13,9 +13,8 @@ updated: 2026-05-08
 sources:
   - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
   - Welsh, S.L. et al. (2015). "A Utah Flora." Brigham Young University.
-  - Van Pelt, R. (2001). "Conifers of the [[psilocybin-north-america-pacific-northwest]]." Oregon State University Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Flora [[huckleberries-and-wild-berries-of-north-america]] North of Mexico, Vol. 2." Oxford University Press.
----
+  - Van Pelt, R. (2001). "Conifers of the psilocybin-north-america-pacific-northwest." Oregon State University Press.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2." Oxford University Press.---
 
 # Juniperus horizontalis
 
@@ -73,6 +72,7 @@ Indigenous peoples used creeping juniper for various practical purposes. The aro
 
 The Ojibwe and Cree peoples traditionally harvested creeping juniper cones as a winter food source when other fruits were unavailable. The aromatic wood and foliage were burned as smudge in purification ceremonies similar to those using other juniper species. Early European explorers and fur traders adopted the practice of using juniper boughs as insect repellent in their camps and canoes, learning the technique from indigenous peoples of the boreal forest region.
 
+Horticultural selections continue to be developed for ornamental use, with over 60 named cultivars available in the nursery trade.
 ## Conservation and Status
 
 Creeping juniper is secure across most of its range and is not considered threatened. The species is widespread and locally abundant in boreal and montane habitats. However, populations in the Great Lakes sand dunes have declined in some areas due to habitat loss from development, recreational use, and invasive species competition.

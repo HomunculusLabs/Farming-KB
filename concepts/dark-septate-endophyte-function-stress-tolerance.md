@@ -13,8 +13,7 @@ sources:
   - Jumpponen A, Trappe JM (1998). "dark-septate-endophytes-and-non-mycorrhizal-fungal-symbioses: a review of facultative biotrophic root-colonizing fungi." New Phytologist, 140(2), 295-310.
   - Mandyam K, Jumpponen A (2005). "Seeking the elusive function of the root-colonising dark septate endophytic fungi." Studies in Mycology, 53, 173-189.
   - Addy HD, Piercey MM, Currah RS (2005). "Microfungal endophytes in roots." Canadian Journal of Botany, 83(1), 1-13.
-  - Knapp DG, Pintado A, Santos PM (2018). "Dual colonization of plants by [[arbuscular-mycorrhizal-fungi]] and dark septate endophytes." In Mycorrhizal Fungi, Springer.
----
+  - Knapp DG, Pintado A, Santos PM (2018). "Dual colonization of plants by arbuscular-mycorrhizal-fungi and dark septate endophytes." In Mycorrhizal Fungi, Springer.---
 
 # Dark Septate Endophyte Function in Plant Stress Tolerance
 
@@ -113,6 +112,7 @@ Proteomic analyses have identified fungal-secreted effector proteins that may mo
 - [[fungal-ecology-forest-floor]]
 - [[arbuscular-mycorrhizal-symbiosis]]
 - [[fungal-enzyme-systems]]
+These endophytic partnerships exemplify nature's approach to stress management, where fungal symbionts extend the adaptive capacity of their plant hosts.
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

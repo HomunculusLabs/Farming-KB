@@ -10,12 +10,11 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Daehler, C.C. & Baker, R.E. (2021). "Kahili ginger (Hedychium gardnerianum) invasiveness in guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands." Pacific Science, 75(2), 185-198.
+  - Daehler, C.C. & Baker, R.E. (2021). "Kahili ginger (Hedychium gardnerianum) invasiveness in [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]." Pacific Science, 75(2), 185-198.
   - Moodley, D. et al. (2019). "Ecological impacts of invasive Hedychium gardnerianum in Hawaiian montane forests." Biological Invasions, 21, 3417-3432.
   - Nag, S. et al. (2020). "Phytochemistry and pharmacology of Hedychium gardnerianum." Pharmacognosy Reviews, 14(28), 102-108.
   - Sheppard, C.S. et al. (2018). "Invasion of Kahili ginger in New Zealand: distribution, impacts, and management." New Zealand Journal of Ecology, 42(1), 45-56.
-  - Patel, S. et al. (2021). "[[permaculture-designers-manual-essential-oil-plants]] composition of Hedychium species." Journal of Essential Oil-Bearing Plants, 24(3), 671-685.
----
+  - Patel, S. et al. (2021). "[[permaculture-designers-manual-essential-oil-plants]] composition of Hedychium species." Journal of Essential Oil-Bearing Plants, 24(3), 671-685.---
 
 # Hedychium gardnerianum
 
@@ -63,6 +62,7 @@ In Hawaii, it invades mid-elevation moist forests (600–1,700 m), forming dense
 
 The Azores archipelago has experienced severe invasion, particularly on São Miguel island, where it dominates riparian areas and native laurel forest understories. Climate modeling suggests its invasive range will expand with warming temperatures.
 
+Effective management requires sustained control efforts combining manual removal, herbicide application, and biological control research.
 ## Ecology and Environmental Impact
 
 Kahili ginger reproduces both sexually (seed) and asexually (rhizome fragmentation). This dual reproductive strategy contributes to its aggressive colonization ability.

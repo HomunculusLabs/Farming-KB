@@ -96,7 +96,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[bionutrients]]
-- [[bionutrients-guide]]
+- [[bionutrients]]
 - [[bionutrients-lab-calcium-phosphate-calamansi]]
 - [[bionutrients-lab-fermented-fruit-juice-ffj]]
 - [[bionutrients-lab-lactic-acid-bacteria-serum]]

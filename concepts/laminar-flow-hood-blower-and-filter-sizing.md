@@ -21,7 +21,7 @@ Selecting the correct blower and [[cannabis-breeding-traits-selection-criteria-c
 ## Selecting the Blower
 
 - Example blower: **[[laminar-flow-hood-construction]]
-- [[laminar-flow-hood-guide]]
+- [[laminar-flow-hood]]
 
 ## Overview
 
@@ -106,7 +106,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[laminar-flow-hood]]
 - [[laminar-flow-hood-construction]]
 - [[laminar-flow-hood-diy-construction]]
-- [[laminar-flow-hood-guide]]
+- [[laminar-flow-hood]]
 
 ## Practical Considerations
 

@@ -14,8 +14,7 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
   - Small, E. (2017). "Cannabis: A Complete Guide." CRC Press.
   - Peace, M.R. et al. (2016). "Cannabinoid profile of popular strains." Journal of Forensic Sciences 61(2): 472-479.
-  - Potter, D.J. et al. (2008). "Variation in cannabinoid content of herbal cannabis." Journal of Forensic Sciences 53(3): 615-621.
----
+  - Potter, D.J. et al. (2008). "Variation in cannabinoid content of herbal cannabis." Journal of Forensic Sciences 53(3): 615-621.---
 # Purple Kush
 
 ## Overview
@@ -78,3 +77,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+Continued genetic analysis helps preserve the heritage of this landmark indica cultivar.

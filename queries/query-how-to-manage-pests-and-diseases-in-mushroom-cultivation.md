@@ -43,7 +43,7 @@ grow area. Sanitize tools between every block or tray you inspect.
 
 ### Sterilization and Pasteurization
 
-Proper [[laminar-flow-hood-guide]] for setup and maintenance best practices.
+Proper [[laminar-flow-hood]] for setup and maintenance best practices.
 
 ## Environmental Controls
 

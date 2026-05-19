@@ -10,7 +10,7 @@ Psilocybin can be extracted from dried mushroom material using pure ethyl alcoho
 
 ## Why Ethyl Alcohol?
 
-Pure ethyl alcohol (200 proof, anhydrous) is the preferred solvent for [[psilocybin-extraction]] for several important reasons:
+Pure ethyl alcohol (200 proof, anhydrous) is the preferred solvent for [[psilocybin-extraction-guide]] for several important reasons:
 
 - **Safety**: Unlike methanol or other industrial solvents, ethanol is a drinkable spirit that is non-toxic to humans. Any residual solvent remaining in the final extract poses no health risk.
 - **Availability**: In the United States, 200 proof ethanol can be purchased at well-stocked liquor stores, either over the counter (in some states) or with a simple permit from the state liquor board.

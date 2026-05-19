@@ -96,7 +96,7 @@ observation, and a willingness to adapt approaches based on results.
 - [[fungal-calcium-oxalate-crystals]]
 - rock-eating-fungi-and-mineral-weathering
 - [[dom]]
-- [[mycofiltration]]
+- [[mycofiltration-overview]]
 - [[swale]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

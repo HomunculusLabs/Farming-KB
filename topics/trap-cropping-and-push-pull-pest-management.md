@@ -18,9 +18,8 @@ sources:
   - Hokkanen, H.M.T. (1991). Trap cropping in pest management. Annual Review of Entomology, 36, 119-138.
   - Pyke, B., Rice, M., Sabine, K. & Zalucki, M.P. (1987). The push-pull strategy—behavioural control of Heliothis. Australian Cotton Grower, 8, 7-9.
   - Hassanali, A., Herren, H., Khan, Z.R., Pickett, J.A. & Woodcock, C.M. (2008). Integrated pest management: the push-pull approach for controlling insect pests and weeds of cereal crops. Philosophical Transactions of the Royal Society B, 363, 361-367.
-  - Dickens, J.C. (2000). Orientation of Colorado potato beetle to natural and synthetic blends of volatiles. Journal of [[plant-volatile-communication-chemical-ecology]], 26, 1265-1278.
-  - Turlings, T.C.J. & Tumlinson, J.H. (1992). Systemic release of query-how-do-plants-use-chemical-signals-to-defend-against-insects by herbivore-injured corn. Proceedings of the National Academy of Sciences, 89, 8399-8402.
----
+  - Dickens, J.C. (2000). Orientation of Colorado potato beetle to natural and synthetic blends of volatiles. Journal of plant-volatile-communication-chemical-ecology, 26, 1265-1278.
+  - Turlings, T.C.J. & Tumlinson, J.H. (1992). Systemic release of query-how-do-plants-use-chemical-signals-to-defend-against-insects by herbivore-injured corn. Proceedings of the National Academy of Sciences, 89, 8399-8402.---
 
 # [[fungal-volatile-organic-compounds-communication]] compounds (VOCs)**: Plants emit specific blends of volatile chemicals that herbivorous insects detect with their antennae. Trap crops often produce higher concentrations of attractive volatiles than the main crop. For example, European corn borer moths are drawn to the sesquiterpene β-caryophyllene released by certain trap plant species at concentrations 10–100× higher than standard maize.
 - **Visual cues**: Color, shape, and size influence landing and oviposition choices. Many pests preferentially land on taller, more prominent plants, which is why perimeter trap crops are often planted before the main crop to establish a height advantage.

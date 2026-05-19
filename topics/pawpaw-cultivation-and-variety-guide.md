@@ -14,10 +14,9 @@ updated: 2026-05-03
 sources:
   - Peterson, R. W. "Pawpaw: In Search of America's Forgotten Fruit." Timber Press, 2015.
   - Moore, J. "Pawpaw: The Largest Native Fruit." growing-gourmet-north-american-reishi-species Pawpaw Growers Association, 2020.
-  - Pomper, K. W. et al. "Pawpaw ([[asimina-triloba]]) Cultivation." Kentucky State University, 2019.
+  - Pomper, K. W. et al. "Pawpaw (asimina-triloba) Cultivation." Kentucky State University, 2019.
   - Layne, D. R. "Pawpaw comparison-biochar-production-guide-vs-biochar-soil-amendment." ASHS Press, 1996.
-  - NFLS Pawpaw Trial Reports, 2010–2023.
----
+  - NFLS Pawpaw Trial Reports, 2010–2023.---
 
 # Pawpaw Cultivation and Variety Guide
 

@@ -104,7 +104,7 @@ Spores (conidia) are produced in massive quantities on infected tissue and dispe
 - [[jadam-pesticide-for-fungal-diseases]] and [[jadam-fungal-disease-management]] cover JADAM approaches using fermented plant extracts.
 
 ### Compost Tea and Microbial Sprays
-- [[ingram-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose|Ingham's AACT research]] demonstrates how actively aerated compost tea shifts leaf surface microbiology against pathogens.
+- [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose|Ingham's AACT research]] demonstrates how actively aerated compost tea shifts leaf surface microbiology against pathogens.
 - Foliar applications of diverse microbial communities outcompete Botrytis for leaf surface niche space.
 
 ---

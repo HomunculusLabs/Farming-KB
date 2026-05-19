@@ -44,8 +44,8 @@ Legumes do not always fix at their maximum rate.
 If the soil already contains abundant soluble nitrate, the plant may use that nitrogen and reduce its carbon investment in nodules.
 This is efficient for the plant but disappointing for the grower trying to build new nitrogen.
 A heavily fertilized bed can therefore produce lush legume growth with less biological fixation than expected.
-The relationship between soil nitrogen and fixation is part of [[green-manure-guide]] and [[legume-nitrogen-yields-by-species]] is the best starting point for comparing expected fixation ranges.
-- [[green-manure-guide]] explains how to return legume nitrogen to the soil instead of exporting it.
+The relationship between soil nitrogen and fixation is part of [[green-manure]] and [[legume-nitrogen-yields-by-species]] is the best starting point for comparing expected fixation ranges.
+- [[green-manure]] explains how to return legume nitrogen to the soil instead of exporting it.
 - Grain beans and peas are useful food crops, but they are often weaker fertility builders than dedicated cover crops.
 - Tree legumes and perennial forage legumes can build fertility over longer time frames.
 - Grass-legume mixes often balance nitrogen with carbon and soil cover better than pure legume stands.

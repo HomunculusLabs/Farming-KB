@@ -96,7 +96,7 @@ help ensure consistent results across different scenarios.
 
 - [[masanobu-fukuoka]]
 - [[natural-farming]]
-- [[one-straw-revolution]]
+- [[one-straw-revolution-guide]]
 
 ## Practical Considerations
 

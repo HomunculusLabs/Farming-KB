@@ -42,7 +42,7 @@ Unused wood chips were spread in depressions and near roads to reduce silt flow 
 - [[fungal-wood-decomposition-spatial-variation]] mechanisms
 - [[mycoforestry]]
 - [[saprophytic-fungi]]
-- [[mycofiltration]]
+- [[mycofiltration-overview]]
 
 ## Overview
 

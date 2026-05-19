@@ -13,9 +13,8 @@ updated: 2026-04-28
 sources:
   - Holistic Management by Allan Savory
   - Dung Beetle Ecology by Ilkka Hanski
-  - [[teaming-with-microbes-actinomycetes]] by Jeff Lowenfels
-  - Soil Biology Primer by USDA NRCS
----
+  - teaming-with-microbes-actinomycetes by Jeff Lowenfels
+  - Soil Biology Primer by USDA NRCS---
 
 # Dung Beetles and Pasture Ecology
 

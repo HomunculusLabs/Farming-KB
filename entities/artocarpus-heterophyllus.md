@@ -11,11 +11,10 @@ updated: 2026-04-28
 sources:
   - Jagtap, U.B. & Bapat, V.A. (2010). "Artocarpus heterophyllus Lam.: a review of its phytochemistry allegro-amanita-muscaria-properties-and-pharmacology." Current Pharmaceutical Biotechnology, 11(6), 595-610.
   - Haq, N. (2006). "Jackfruit: Artocarpus heterophyllus." International Centre for Underutilised Crops, Southampton, UK.
-  - Rahman, M.A. et al. (1999). "Jackfruit [[mushroom-cultivation-in-kenya]] Bangladesh." In: Fruits of Warm Climates. Julia F. Morton, Miami.
+  - Rahman, M.A. et al. (1999). "Jackfruit mushroom-cultivation-in-kenya Bangladesh." In: Fruits of Warm Climates. Julia F. Morton, Miami.
   - Soejarto, D.D. (1969). "Artocarpus heterophyllus: the jackfruit." Economic Botany, 23(4), 325-340.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:630757-1
-created: 2026-04-28
----
+created: 2026-04-28---
 
 ## Overview
 

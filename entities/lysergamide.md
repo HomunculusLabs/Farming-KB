@@ -12,10 +12,9 @@ updated: 2026-04-28
 sources:
   - Hofmann, A. (1979). "The Discovery of LSD and Subsequent Investigations on Naturally Occurring and Semi-Synthetic Ergot Alkaloids." Toxicon 17(Suppl 1): 1-24.
   - Nichols, D.E. (2018). "Lysergamides: Chemistry, pharmacology, and analytical methods." In: Pharmacology of LSD: A Review, Springer.
-  - Passie, T. et al. (2008). "The pharmacology of [[lsd-d-lysergic-acid-diethylamide]]: a review." CNS Neuroscience & Therapeutics 14(4): 295-314.
+  - Passie, T. et al. (2008). "The pharmacology of lsd-d-lysergic-acid-diethylamide: a review." CNS Neuroscience & Therapeutics 14(4): 295-314.
   - Schmid, G. & Eich, E. (2001). "Ergot alkaloids: Pharmacology and biosynthesis." In: Bioactive Natural Products, Elsevier.
-created: 2026-04-28
----
+created: 2026-04-28---
 
 ## Overview
 

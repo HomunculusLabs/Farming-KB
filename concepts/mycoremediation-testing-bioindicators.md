@@ -104,7 +104,7 @@ All collected data—whether from lab work, cell counting, bean tests, or worm a
 ## See Also
 
 - [[mycoremediation]] — overview of [[bioavailability-in-fungal-bioremediation]]
-- [[mycofiltration]] — using fungal mats to filter water
+- [[mycofiltration-overview]] — using fungal mats to filter water
 - [[compost]] — clopyralid and related compounds
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

@@ -16,10 +16,9 @@ updated: 2026-04-28
 sources:
   - T. Rousi (1971). "The genus Hippophae L. — a taxonomic study." Annales Botanici Fennici, 8(3), 177–207.
   - Z. Li & T. H. H. Schroeder (1996). "comparison-sea-buckthorn-vs-aronia (Hippophae rhamnoides L.): A multipurpose plant." HortTechnology, 6(4), 370–380.
-  - V. H. Bojkov et al. (2020). "[[comparison-aronia-vs-goji-vs-sea-buckthorn]] in agroforestry and [[mycorrhizal-fungi-ecological-restoration]]." Agroforestry Systems, 94(5), 1847–1861.
+  - V. H. Bojkov et al. (2020). "comparison-aronia-vs-goji-vs-sea-buckthorn in agroforestry and mycorrhizal-fungi-ecological-restoration." Agroforestry Systems, 94(5), 1847–1861.
   - E. P. Kallio et al. (2002). "Vitamin C, flavonoids, and phenolic acids in sea buckthorn." Journal of Agricultural and Food Chemistry, 50(10), 3004–3009.
-  - S. C. Sabir et al. (2005). "psilocybin-psilocin-chemistry-and-pharmacology-emcdda of Hippophae rhamnoides." Natural Product Reports, 22(6), 695–711.
----
+  - S. C. Sabir et al. (2005). "psilocybin-psilocin-chemistry-and-pharmacology-emcdda of Hippophae rhamnoides." Natural Product Reports, 22(6), 695–711.---
 ## Overview
 
 *Hippophae rhamnoides*, commonly known as [[permaculture-design]], serving at

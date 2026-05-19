@@ -119,4 +119,4 @@ integrates multiple perspectives adapted to local conditions.
 - [[fukuoka-the-one-straw-revolution-final-chapter]]
 - [[masanobu-fukuoka-natural-farming-one-straw-revolution]]
 - [[fukuoka-one-straw-revolution-conclusion]]
-- [[one-straw-revolution-overview]]
+- [[one-straw-revolution-guide]]

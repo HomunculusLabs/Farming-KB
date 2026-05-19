@@ -17,11 +17,10 @@ sources:
   - https://www.epa.gov/urban-agriculture/soil-contamination-and-urban-agriculture
   - https://doi.org/10.1016/j.envint.2014.07.017
   - Attanayake CP et al. (2014) Soil lead geochemistry in urban gardens
-  - Brown SL, Chaney RL (2016) Lead risk assessment for [[cuban-urban-agriculture]]
+  - Brown SL, Chaney RL (2016) Lead risk assessment for cuban-urban-agriculture
   - USDA NRCS Urban Soil Primer
 created: 2026-04-28
-type: query
----
+type: query---
 
 # How to Test and Remediate Urban Soil for Food Growing
 ## Why Urban Soil Testing Matters

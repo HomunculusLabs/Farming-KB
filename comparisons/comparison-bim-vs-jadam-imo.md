@@ -71,7 +71,7 @@ microbiology research.
 
 ## See Also
 
-- [[bionutrients-guide]]
+- [[bionutrients]]
 
 ## Overview
 

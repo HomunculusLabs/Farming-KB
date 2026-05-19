@@ -17,9 +17,8 @@ sources:
   - Wheaton P. (2015). "Wofati Code: Rules for Building a Wofati." Permies.com / richsoil.com.
   - Wheaton P. & Hemenway T. (2013). "Wofati vs. Earthship Comparison." Permies.com forums.
   - Kern K. (2013). "The Earth-Sheltered House: An Architect's Sketchbook." New Society Publishers.
-  - Mollison B. (1988). "Permaculture: A Designers' Manual." [[tagari-publications]].
-created: 2026-04-28
----
+  - Mollison B. (1988). "Permaculture: A Designers' Manual." tagari-publications.
+created: 2026-04-28---
 
 # Wofati
 

@@ -12,8 +12,7 @@ updated: 2026-05-09
 sources:
   - Godfrey, R.K. & Wooten, J.W. (1979). "permaculture-plants-aquatic-and-wetland-species Plants of Southeastern dmt-containing-plants-united-states-halpern: Monocotyledons." University of Georgia Press.
   - Haynes, R.R. (1979). "Revision of North and Central American Najas." Sida 8(1): 22-53.
-  - Crow, G.E. & Hellquist, C.B. (2000). "[[permaculture-plants-aquatic-and-wetland-species]] Plants of Northeastern nematode-management." FAO and Blackwell Science.
----
+  - Crow, G.E. & Hellquist, C.B. (2000). "permaculture-plants-aquatic-and-wetland-species Plants of Northeastern nematode-management." FAO and Blackwell Science.---
 
 ## Overview
 

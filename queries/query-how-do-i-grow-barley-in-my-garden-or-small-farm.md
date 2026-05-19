@@ -12,7 +12,7 @@ sources: []
 
 Barley is one of the oldest cultivated grains and is surprisingly easy to grow on a small scale for food, brewing, or as a versatile cover crop.
 It matures quickly (60–120 days depending on variety), tolerates poor soils better than wheat, and can be planted in spring or fall depending on your climate.
-Barley also serves as an excellent [[green-manure-guide]] and fits naturally into [[crop-rotation-principles]] plans.
+Barley also serves as an excellent [[green-manure]] and fits naturally into [[crop-rotation-principles]] plans.
 
 ## Detailed Explanation
 
@@ -107,7 +107,7 @@ Consider using barley as part of a broader [[dryland-strategies-and-desert-ecolo
 - Keep soil nitrogen moderate to prevent lodging; barley needs less fertility than most garden crops.
 - Harvest when grain heads turn golden and kernels are hard, then cure, thresh, and winnow.
 - Barley straw is an excellent garden mulch and the grain can be used for food, feed, or brewing.
-- As a [[green-manure-guide]], barley suppresses weeds and adds organic matter in just 6–8 weeks.
+- As a [[green-manure]], barley suppresses weeds and adds organic matter in just 6–8 weeks.
 - Barley fits naturally into [[crop-rotation-vegetable-garden]] and [[fukuoka-rice-and-barley-natural-farming]].
 - It tolerates drought and saline soils better than wheat, corn, or oats.
 - Home malting is achievable with careful temperature control and patience during germination.

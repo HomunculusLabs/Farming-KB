@@ -100,7 +100,7 @@ Fukuoka's economic analysis:
 
 ## See Also
 - [[natural-farming]]
-- [[one-straw-revolution]]
+- [[one-straw-revolution-guide]]
 - [[natural-orchard-management]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

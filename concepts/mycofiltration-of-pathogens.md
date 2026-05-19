@@ -133,7 +133,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[growing-gourmet-bioremediation-mycofiltration]]
-- [[mycofiltration]]
+- [[mycofiltration-overview]]
 - [[mycofiltration-farm-livestock-buffers]]
 - [[mycofiltration-of-agricultural-runoff]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]

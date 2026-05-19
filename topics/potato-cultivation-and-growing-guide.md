@@ -6,7 +6,7 @@ date: 2026-05-11
 updated: 2026-05-11
 sources:
   - Cervantes, J. marijuana-horticulture-cervantes-artificial-lighting-and-electricity. Van Patten Publishing, 2006.
-  - Solomon, S. [[container-growing-vegetables-herbs]] West of the Cascades. Sasquatch Books, 2007.
+  - Solomon, S. container-growing-vegetables-herbs West of the Cascades. Sasquatch Books, 2007.
   - Jeavons, J. How to Grow More Vegetables. Ten Speed Press, 2012.
   - Ingham, E. Soil Biology Primer. NRCS Soil Quality Institute, 2000.
   - Lutaladio, N. & Castaldi, L. Potato: A Guide to Sustainable Production. FAO, 2009.
@@ -20,8 +20,7 @@ related_concepts:
   - growing-potatoes-organically
   - potato-pest-and-disease-management
   - hamilton-potato-growing-organic
-  - jeavons-potato-growing
----
+  - jeavons-potato-growing---
 # Potato Cultivation and Growing Guide
 
 ## Overview and Importance

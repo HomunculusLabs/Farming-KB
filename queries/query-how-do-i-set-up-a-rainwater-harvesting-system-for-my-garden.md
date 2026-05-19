@@ -48,7 +48,7 @@ For more efficient watering, the [[cervantes-bacillus-thuringiensis-bt-control]]
 Winterization is critical in climates where temperatures drop below freezing during the winter months.
 Drain all tanks, pipes, and hoses before the first hard freeze to prevent ice damage to system components.
 Disconnect and store filtration components indoors during the winter to extend their useful life.
-The [[mushroom-cultivation-basics]] may also benefit from rainwater, as the chemical-free water is ideal for [[drip-irrigation-guide]] systems works well with elevated tanks, while pump-based systems enable more complex irrigation layouts
+The [[mushroom-cultivation-basics]] may also benefit from rainwater, as the chemical-free water is ideal for [[drip-irrigation]] systems works well with elevated tanks, while pump-based systems enable more complex irrigation layouts
 - Regular maintenance including gutter cleaning, tank inspection, and winterization keeps your system functional for decades of reliable water harvesting
 ## Related
 

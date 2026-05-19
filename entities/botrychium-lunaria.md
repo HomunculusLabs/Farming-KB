@@ -13,9 +13,8 @@ sources:
   - Wagner, W.H. & Wagner, F.S. (1993). "Ophioglossaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Kershaw, L. et al. (2001). "Edible and Medicinal Plants of the Rockies." Lone Pine Publishing.
-  - Farrar, D.R. (2006). "Ophioglossaceae." in: Flora [[huckleberries-and-wild-berries-of-north-america]] Editorial Committee.
-  - Kato, M. (1987). "A phylogenetic classification of Ophioglossaceae." Botanical Magazine Tokyo 100: 3–14.
----
+  - Farrar, D.R. (2006). "Ophioglossaceae." in: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee.
+  - Kato, M. (1987). "A phylogenetic classification of Ophioglossaceae." Botanical Magazine Tokyo 100: 3–14.---
 
 ## Overview
 
@@ -73,6 +72,7 @@ Conservation concerns include habitat loss from agricultural intensification, fo
 
 Ex situ conservation programs at several botanical gardens have established cultivated populations as an insurance against wild extinction. Seed banking of spores is technically feasible but rarely practiced due to limited demand and uncertain long-term viability.
 
+Conservation efforts focus on habitat protection, as the species serves as an indicator of undisturbed grassland and woodland ecosystems.
 ## Cultivation
 
 Cultivation of Botrychium lunaria is challenging and rarely attempted outside of specialized botanical collections. The primary difficulty lies in establishing the obligate mycorrhizal association required for gametophyte development.

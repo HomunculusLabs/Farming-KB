@@ -44,7 +44,7 @@ The contemporary seed-saving movement encompasses a remarkable diversity of prac
 [[seed-saving-methods-home-garden]] |
 [[solomon-seed-starting-transplanting]] |
 [[companion-planting-and-polycultures]] |
-[[regenerative-agriculture-overview]]
+[[regenerative-agriculture]]
 
 ## References
 

@@ -12,10 +12,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Aiken, S.G., Newroth, P.R. & Wile, I. (1979). "The biology of Canadian weeds: Myriophyllum spicatum." Canadian Journal of Plant Science, 59(1), 201–215.
-  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, [[elodea-canadensis]]." Hydrobiologia, 131, 3–21.
+  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, elodea-canadensis." Hydrobiologia, 131, 3–21.
   - Smith, C.S. & Barko, J.W. (1990). "Ecology of Eurasian watermilfoil." Journal of Aquatic Plant Management, 28, 55–64.
-  - Eiswerth, M.E. et al. (2000). "Economic analysis of watermilfoil control." Journal of Aquatic Plant Management, 38, 49–56.
----
+  - Eiswerth, M.E. et al. (2000). "Economic analysis of watermilfoil control." Journal of Aquatic Plant Management, 38, 49–56.---
 
 ## Overview
 
