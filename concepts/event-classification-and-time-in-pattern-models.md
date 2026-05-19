@@ -6,7 +6,7 @@ type: concept
 
 # Event Classification and Time in Pattern Models
 
-All phenomena in nature can be classified, understood, and related through a unified system of categories. Combined with an [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]ers a comprehensive framework for analyzing any event, element, or process they encounter — and for understanding their own role within the larger patterns of nature.
+All phenomena in nature can be classified, understood, and related through a unified system of categories. Combined with an [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] ers a comprehensive framework for analyzing any event, element, or process they encounter — and for understanding their own role within the larger patterns of nature.
 
 ## Classification of Events
 
@@ -115,6 +115,6 @@ Patterning is the way we frame our designs — the template into which we fit:
 ## Key References
 
 - Bohm, D. (1980). *Wholeness and the Implicate Order*. The philosophical foundation for understanding time, pattern, and totality.
-- Mollison, B. (1988). *Permaculture: A Designer's Manual*. The primary source for the event classification system and pattern model.
+- Mollison, B. (1988). *Permaculture: A Designer's Manual*. The primary source [[dmt-candy-for-the-mind]] [[event-classification-and-pattern-unity]] [[coleman-french-maraicher-manure-system-and-compost-quality]] [[general-pattern-model-events]].
 ## Further Reading
-Continued research and field trials yield new insights into this subject.
+Continued [[zero-emissions-research-and-initiatives]] field trials yield new insights into this subject.

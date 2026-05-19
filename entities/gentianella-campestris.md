@@ -68,7 +68,7 @@ Seed should be sown in autumn on the surface of gritty, calcareous [[compost]]. 
 
 Germination rates are typically 40–60% under optimal conditions. Seedlings are tiny and vulnerable to competition from larger plants.
 
-Plants need full sun and excellent drainage. A neutral to alkaline pH (7.0–8.0) is essential for healthy growth.
+Plants need full sun and excellent drainage. A neutral to alkaline pH (7.0–8.0) is essential [[query-how-to-manage-ph-for-healthy-cannabis-plants]] growth.
 
 The species self-seeds readily in suitable conditions. It can be naturalized in rock gardens or calcareous meadow plantings.
 
@@ -78,6 +78,6 @@ The flowers are visited by small bees, flies, and butterflies. The open corolla 
 
 Unlike many gentians, the flowers remain open on overcast days. This increases foraging opportunities for pollinators in variable weather.
 
-The species is an indicator of species-rich calcareous grassland. Its presence suggests low fertility and appropriate grazing management.
+The species is an indicator of species-rich calcareous grassland. Its presence suggests low [[arid-soil-fertility-and-mineral-management]] appropriate grazing management.
 
-Gentianella campestris is a hemiparasitic plant that forms connections with neighboring plants through root haustoria. This partial parasitism supplements its [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]].
+Gentianella campestris [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]] hemiparasitic plant that forms connections with neighboring plants through root haustoria. This partial parasitism supplements its [[aact-microbial-chelation-of-minerals-ingham]]-[[brix-testing-foliar-nutrient-uptake]]-co2-stomata-ingham]].

@@ -5,10 +5,9 @@ source_file: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [natural-farming, fukuoka, philosophy-of-science, environmental-ethics]
 created: 2026-05-10
 ---
-
 # Fukuoka's Critique of Human Intellect vs. Nature
 
-In *The Road Back to Nature*, [[dom|dom]]ains, becomes
+In *The [[fukuoka-road-back-to-nature-overview]]*, domains, becomes
 destructive when applied to the management of living systems. Reason operates by
 breaking wholes into parts, classifying, and making judgments. This mode of
 thinking is appropriate for building machines or solving mathematical problems. It
@@ -24,10 +23,10 @@ mind replaces the living reality with an abstraction.
 
 ## Science's Wild Rampage
 
-Fukuoka extends this critique to the entire enterprise of modern science. He
+Fukuoka extends this critique to the entire enterprise [[fukuoka-road-critique-of-modern-science]]. He
 describes a world in which "the fragmented and diffusive development of knowledge
 which expands outward without aim or direction has brought human thought to the
-extremes of confusion, recklessly splitting apart God, nature, and man — originally
+extremes of confusion, recklessly splitting apart [[fukuoka-reunifying-god-nature-and-man]] — originally
 one indivisible — and leaving only a legacy of incoherent chaos."
 
 He is particularly critical of genetic engineering, which he saw as the ultimate
@@ -77,7 +76,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -100,7 +99,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

@@ -74,13 +74,12 @@ enables more sustainable and successful long-term implementations.
 Practitioners commonly encounter several challenges when working with
 Viburnum prunifolium. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
+Awareness of these common challenges enables more proactive [[purdue-garden-planning-and-layout]] faster resolution when issues do arise during implementation.
 
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
+Technical challenges often relate [[primary-metabolic-precursors-to-the-shikimate-pathway]] complexity of interactions
+between multiple variables [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key [[fungi-as-environmental-indicators-and-biosensors]]
+maintaining [[savory-flexibility-in-management]] approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous

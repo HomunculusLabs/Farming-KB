@@ -20,11 +20,9 @@ related_concepts:
   - freshwater-fungal-habitats-conservation-urgency
   - gadd-fungal-biodiversity-conservation
 ---
-
 # Endangered Fungi and Conservation Strategies
 
-Fungi are among the most ancient and ecologically essential kingdoms of
-life on Earth, yet they are also among the most imperiled and least
+Fungi are among the most ancient and ecologically essential kingdoms [[pulsing-patterns-of-life-on-earth]], yet they are also among the most imperiled and least
 protected. An estimated 1.5 to 5.1 million fungal species inhabit the
 planet, but only 120,000 to 150,000 have been formally described. Of
 those, fewer than 600 have been evaluated for the IUCN Red List as of
@@ -34,10 +32,10 @@ driven to extinction by habitat destruction, pollution, climate change,
 and overharvesting before science ever learns their names.
 
 The problem is not that fungi are inherently fragile. Many are
-astonishingly resilient, thriving in extreme environments from Antarctic
+astonishingly resilient, thriving [[fungal-biodiversity-in-extreme-environments]] from Antarctic
 rock surfaces to deep-sea hydrothermal vents. The problem is that human
 activity is dismantling the ecological networks fungi depend on faster
-than scientists can [[det|det]]ect until it is too late.
+than scientists can detect until it is too late.
 
 This article examines the scope of fungal endangerment, the unique
 challenges of assessing and protecting [[cryptic-species]] that are
@@ -61,7 +59,7 @@ genuinely rare but simply not fruiting in the survey year.
 Most fungal species lack common names, limiting public awareness and
 emotional connection. Conservation legislation in most countries is
 framed around animals and plants, with no explicit provision for fungi.
-Even the Convention on Biological Diversity, which technically includes
+Even the [[fungi-convention-on-biological-diversity]], which technically includes
 fungi, has historically directed the vast majority of its attention and
 funding toward vertebrates and vascular plants.
 
@@ -81,14 +79,13 @@ data relies on sporadic fruiting records rather than actual mycelial
 distribution. Generation time is difficult to estimate. [[mycelium]], habitat
 loss severs the hyphal connections that sustain ecosystem functioning
 long before above-ground effects become visible. A clearcut forest may
-retain some visible fungi for a few years, but the underground network
+retain some visible fungi for a few years, but [[teaming-with-microbes-fungi-the-underground-network]]
 of mycorrhizal connections, saprotrophic decomposers, and specialist
 species collapses far sooner than surface appearances suggest.
 
 ### Air Pollution and Nitrogen Deposition
 
-Atmospheric nitrogen deposition from agricultural emissions and fossil
-fuel combustion alters soil chemistry in ways that fundamentally reshape
+Atmospheric nitrogen deposition from agricultural emissions [[holmgren-nuclear-and-fossil-fuel-techno-optimism]] combustion alters soil chemistry in ways that fundamentally reshape
 fungal communities. Sensitive ectomycorrhizal species decline, replaced
 by nitrogen-tolerant generalists. Studies across Europe have documented
 significant impacts of nitrogen deposition and acidification on

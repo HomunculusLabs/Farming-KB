@@ -7,10 +7,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
-
 # Tremella aurantia
 
-**Tremella aurantia**, commonly known as the golden ear fungus or orange jelly fungus, is a parasitic jelly fungus in the family Tremellaceae. It is notable for its striking orange-golden appearance and its obligate parasitic relationship with the medicinal mushroom [[tremella-fuciformis]] but similar to [[trametes-hirsuta]]an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[tremella-fuciformis]]
+**Tremella aurantia**, commonly known as the golden ear fungus or orange jelly fungus, is a parasitic jelly fungus in the family Tremellaceae. It is notable for its striking orange-golden appearance and its obligate parasitic relationship with the [[medicinal-mushroom-guide-oyster]] [[tremella-fuciformis]] but similar to [[trametes-hirsuta]] an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[tremella-fuciformis]]
 
 ### Anti-Inflammatory Effects
 
@@ -32,7 +31,7 @@ Preliminary studies have evaluated the anti-tumor potential of T. aurantia:
 
 ### Skin Health and Moisturizing
 
-Like other Tremella species, T. aurantia polysaccharides have notable water-holding capacity:
+Like other Tremella species, T. aurantia polysaccharides have notable [[pf-tek-vermiculite-type-comparison-water-holding-capacity]]:
 
 - Superior moisture retention in comparative studies with hyaluronic acid
 - Film-forming properties suitable for cosmetic applications
@@ -40,7 +39,7 @@ Like other Tremella species, T. aurantia polysaccharides have notable water-hold
 
 ## Ecological Significance
 
-The parasitic relationship between T. aurantia and [[trametes-versicolor-entity]] bracket fungi.
+The parasitic relationship between T. aurantia and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]-entity]] bracket fungi.
 
 ## See Also
 
@@ -54,14 +53,14 @@ resources, timing requirements, and the interactions between this
 topic and other elements of the broader system. A holistic view
 that considers these interconnections produces better outcomes.
 
-Environmental conditions such as temperature, moisture, and
+Environmental conditions such as [[duggar-mushroom-environmental-factors-temperature-moisture-light]], and
 seasonal patterns significantly influence results. Monitoring these
 variables and adapting practices accordingly is essential for success.
 The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-human-creativity-in-resource-management]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

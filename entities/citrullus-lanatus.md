@@ -15,15 +15,13 @@ sources:
   - USDA (2019). "Watermelon, Raw." FoodData Central, fdc.nal.usda.gov.
   - Wehner, T.C. (2008). "Watermelon." in Prohens, J. & Nuez, F. (eds.), Handbook of Plant Breeding: Vegetables II, 381-418.
 ---
-
 ## Overview
 
 **Citrullus lanatus**, the watermelon, is a trailing vine species in the family
 Cucurbitaceae, cultivated worldwide for its large, sweet, watery fruit.
 
 The species originated in the Kalahari region of southern Africa, where the wild
-form (*C. lanatus* var. *citroides*) remains an important source of genetic
-diversity for breeding programs.
+form (*C. lanatus* var. *citroides*) remains an important source of [[cannabis-landrace-conservation-breeding-genetic-diversity]] for breeding programs.
 
 Watermelon is one of the top five most consumed fresh fruits globally, with
 annual production exceeding 100 million tonnes, led by China, Turkey, Iran,
@@ -57,7 +55,7 @@ solitary and borne on shorter peduncles.
 The corolla is campanulate with five fused petals; flowering begins 30–40 days
 after planting and continues for 4–6 weeks.
 
-**Fruit** is a large pepo (false berry) ranging from 1–30+ kg in cultivated
+**Fruit** is a large pepo (false berry) ranging from 1–30+ kg [[edges-in-cultivated-and-indigenous-landscapes]]
 types, spherical to oblong in shape.
 
 The rind is thick (1–4 cm), hard, and varies in color from light green, dark
@@ -91,6 +89,6 @@ colonial period, where it became widely naturalized and cultivated.
 
 ## See Also
 
-- [[mollison-designers-cover-crops-and-green-manure-species]]
+- [[mollison-designers-chestnut-as-multipurpose-tree-crop]]-cover crops  [[legume-nitrogen-fixation-and-green-manure]] s]]-manure-species]]
 - [[mollison-designers-vine-and-fruit-tree-integration]]
 - [[tree-vine-crops-arid-tropical-mollison]]
