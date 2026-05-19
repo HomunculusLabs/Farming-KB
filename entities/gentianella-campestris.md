@@ -80,4 +80,4 @@ Unlike many gentians, the flowers remain open on overcast days. This increases f
 
 The species is an indicator of species-rich calcareous grassland. Its presence suggests low [[arid-soil-fertility-and-mineral-management]] appropriate grazing management.
 
-Gentianella campestris [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]] hemiparasitic plant that forms connections with neighboring plants through root haustoria. This partial parasitism supplements its [[aact-microbial-chelation-of-minerals-ingham]]-[[brix-testing-foliar-nutrient-uptake]]-co2-stomata-ingham]].
+Gentianella campestris is a hemiparasitic plant that forms connections with neighboring plants through root haustoria. This partial parasitism supplements its [[aact-microbial-chelation-of-minerals-ingham]] and [[brix-testing-foliar-nutrient-uptake]].

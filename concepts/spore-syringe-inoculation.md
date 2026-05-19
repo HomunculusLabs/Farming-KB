@@ -117,3 +117,4 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] and [[mushroom-spore-syringe-inoculation]] for related information.Related topics include [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] and associated practices.
+Effective spore syringe inoculation requires attention to hygiene, timing, and environmental conditions.

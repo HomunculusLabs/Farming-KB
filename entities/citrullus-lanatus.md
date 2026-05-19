@@ -89,6 +89,7 @@ colonial period, where it became widely naturalized and cultivated.
 
 ## See Also
 
-- [[mollison-designers-chestnut-as-multipurpose-tree-crop]]-cover crops  [[legume-nitrogen-fixation-and-green-manure]] s]]-manure-species]]
+- [[mollison-designers-chestnut-as-multipurpose-tree-crop]]
+- [[legume-nitrogen-fixation-and-green-manure]]
 - [[mollison-designers-vine-and-fruit-tree-integration]]
 - [[tree-vine-crops-arid-tropical-mollison]]

@@ -39,7 +39,7 @@ Like other Tremella species, T. aurantia polysaccharides have notable [[pf-tek-v
 
 ## Ecological Significance
 
-The parasitic relationship between T. aurantia and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]-entity]] bracket fungi.
+The parasitic relationship between T. aurantia and [[trametes-versicolor-entity]] bracket fungi.
 
 ## See Also
 

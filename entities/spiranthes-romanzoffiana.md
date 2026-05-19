@@ -73,7 +73,7 @@ It grows at elevations from near sea level to approximately 2,500 meters in the 
 
 Spiranthes romanzoffiana is pollinated by a variety of bees, particularly bumblebees.
 
-[[mycophobia-in-western-culture]] guzman  [[psilocybin-mushrooms]]-north-america]], Bombus species [[query-what-are-the-benefits-of-integrating-chickens-into-a-garden]] primary floral visitors.
+Primary pollinators include various Bombus species, which serve as the primary floral visitors.
 
 The flowers produce nectar [[staycare-composting-as-a-fungal-bioremediation-strategy]] reward, stored at the base [[liebigs-law-of-the-minimum]] labellum.
 
