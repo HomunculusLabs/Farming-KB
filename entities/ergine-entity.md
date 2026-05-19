@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Ergine is a structural analog of LSD, with an amide group in place of
 LSD's diethylamide substituent. It is approximately 10–30 times less
 potent than LSD by weight, with generally milder, shorter-lasting, and

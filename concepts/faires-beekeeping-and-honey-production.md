@@ -3,7 +3,7 @@ title: Faires Beekeeping And Honey Production
 created: 2026-04-21
 updated: 2026-05-09
 type: concept
-tags: [[comparison-natural-farming-vs-permaculture]] and [[acacia]], or
+tags: comparison-natural-farming-vs-permaculture and acacia, or
 built up soil beds planted with thyme, catmint, or field daisies.
 ---
 

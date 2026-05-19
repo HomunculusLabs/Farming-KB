@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It also plays a critical role in [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] on steep Mediterranean hillsides.
 
 ## Taxonomy and Morphology

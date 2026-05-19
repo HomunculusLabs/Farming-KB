@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Morphology
 
 **Classification:** Plantae → Tracheophyta → Angiosperms → Monocots → Alismatales → Araceae → Lemnoideae → Wolffia → Wolffia arrhiza (L.) Horkel ex Wimm.

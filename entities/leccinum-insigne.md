@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is edible when thoroughly cooked, though some individuals
 report gastrointestinal upset — a pattern common across the genus
 *Leccinum*. It is distinguished by its dark reddish-brown cap,

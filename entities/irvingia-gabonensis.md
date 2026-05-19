@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species produces edible fruits with sweet, fibrous mesocarp and large seeds that are widely used as a thickening agent in West African soups and stews. The kernels, traded commercially as ogbono or dika nuts, are a significant source of dietary fat and protein.
 
 Irvingia gabonensis has attracted international attention for its seed extract, which has been marketed as a weight-loss supplement. [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] tropical Africa.

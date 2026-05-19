@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is named in honor of Sir Stamford Raffles, founder of modern Singapore. It produces two distinct pitcher types — lower terrestrial and upper aerial — that differ markedly in size, shape, and coloration.
 
 Lower pitchers are large, bulbous, and often richly colored with red or purple speckling. Upper pitchers are smaller, funnel-shaped, and usually greenish with reduced patterning.

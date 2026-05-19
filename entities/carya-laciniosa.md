@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The specific gravity of shellbark hickory wood ranges from 0.60–0.72, with an average Janka hardness of approximately 1450 pounds-force. These values place it among the top tier of North American woods for applications requiring resistance to impact and abrasion.
 
 In the 19th and early 20th centuries, shellbark hickory was extensively harvested for wagon wheels, agricultural implement handles, and the frames of early automobiles. While synthetic materials have replaced hickory in many applications, it remains valued for specialty uses.

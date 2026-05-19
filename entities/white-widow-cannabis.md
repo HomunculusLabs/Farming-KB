@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Lineage and Breeding History
 
 | Parent | Origin | Contribution |

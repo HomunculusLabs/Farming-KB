@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is one of the most important native medicinal plants of eastern North America, with a long history of use among Indigenous peoples and later European settlers. The root contains significant concentrations of tannins, which account for its potent astringent properties.
 
 Wild geranium is also valued as a shade-tolerant ornamental, naturalizing readily in woodland gardens and providing reliable early-summer color. Its tolerance of dry shade conditions makes it a practical choice for challenging garden sites.

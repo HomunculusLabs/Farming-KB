@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species fruits from late spring through autumn, typically appearing after sustained rainfall.
 
 It is almost always found growing from buried roots, stumps, or decaying wood of hardwood trees, particularly oaks (*Quercus* spp.), beech (*Fagus*), and maples (*Acer*).

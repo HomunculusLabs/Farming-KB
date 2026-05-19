@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The benzofuran substitution increases lipophilicity compared to MDMA, which
 affects blood-brain barrier penetration and metabolic pathways. The free base
 is an oily liquid at room temperature; the compound is more commonly

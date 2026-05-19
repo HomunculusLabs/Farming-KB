@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Morphology
 
 Xanthoparmelia conspersa was originally described as *Parmelia conspersa* by Erik Acharius in 1810. It was transferred to the genus Xanthoparmelia by Mason Hale in 1974.

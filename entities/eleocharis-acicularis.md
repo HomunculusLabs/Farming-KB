@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Its dense root systems stabilize substrates in littoral zones, making it
 valuable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 

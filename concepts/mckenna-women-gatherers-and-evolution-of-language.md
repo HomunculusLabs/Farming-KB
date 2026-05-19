@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## The Hunter Versus the Gatherer
 
 The standard narrative of [[psilocybin-mushroom]]-image-guide-lookalike-species ds to the need to differentiate

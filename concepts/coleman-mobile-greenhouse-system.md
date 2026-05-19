@@ -1,7 +1,7 @@
 ---
 title: Coleman Mobile Greenhouse System
 created: 2026-05-08
-tags: [farming, greenhouse, mobile-greenhouse, [[sterilization]]
+tags: [farming, greenhouse, mobile-greenhouse, sterilization
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

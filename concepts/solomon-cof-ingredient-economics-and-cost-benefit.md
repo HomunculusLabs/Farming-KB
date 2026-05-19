@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[solomon-disease-identification-and-organic-remedies]]
 - [[solomon-manure-types-and-nutrient-values]]
-

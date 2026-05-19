@@ -2,9 +2,9 @@
 title: "Fukuoka Clay Pellet Seed Balls"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-
 
 Fukuoka emphasized that the clay used for the pellets should be relatively pure and not
 overly rich in topsoil. If the pellets crumble too early in the spring, the seed inside will

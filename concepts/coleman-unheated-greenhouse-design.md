@@ -1,7 +1,7 @@
 ---
 title: Coleman Unheated Greenhouse Design
 created: 2026-04-26
-tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel, [[coleman-greenhouse-summer-crops]] before the seasonal move.
+tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel, coleman-greenhouse-summer-crops before the seasonal move.
 ---
 
 ## Structural Details: Gothic-Style Hoops

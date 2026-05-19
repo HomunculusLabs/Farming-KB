@@ -15,7 +15,7 @@ concepts:
   - waterborne-infection
   - bursattee
   - florida-horse-leeches
-tags: [[pythium-insidiosum-oomycete-human-infection-pythiosis]]*, an oomycete (stramenopile) that is only distantly
+tags: pythium-insidiosum-oomycete-human-infection-pythiosis*, an oomycete (stramenopile) that is only distantly
 related to true fungi. Despite its classification outside the fungal
 kingdom, this organism causes devastating infections in mammals including
 horses, dogs, cats, cattle, humans, and even a polar bear in a zoo. The

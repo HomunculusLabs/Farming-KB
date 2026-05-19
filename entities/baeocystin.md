@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Chemical Properties
 
 **Structural classification:** Indolethylamine alkaloid ([[tryptamine]] derivative).

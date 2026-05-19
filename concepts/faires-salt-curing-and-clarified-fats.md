@@ -3,7 +3,7 @@ title: Faires Salt Curing And Clarified Fats
 created: 2026-04-21
 updated: 2026-04-22
 type: concept
-tags: [[natural-farming]] and
+tags: natural-farming and
 [[root-cellaring]] is ideal.
    The meat should stay edible for several months.
 ---

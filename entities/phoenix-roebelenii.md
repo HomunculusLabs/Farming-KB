@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It is one of the most widely cultivated ornamental palms in tropical and subtropical landscapes worldwide.
 
 The species typically reaches heights of 2–4 meters, making it suitable for small gardens and container planting.

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 When plant roots exude compounds into the surrounding soil — a process called rhizodeposition — the local environment shifts dramatically. [[root-exudates]] include sugars, amino acids, organic acids, mucilage, phenolics, [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] variation (PC1 = 32.06%), making it the most important determinant of which microbes were present in any given sample.
 
 ### Tier 2: Host Genotype-Driven Selection (Rhizosphere to Endorhiza)

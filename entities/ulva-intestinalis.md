@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Cells are approximately 10–15 μm in diameter, arranged in a regular pattern. Each cell contains a single parietal [[chloroplast]] with one or more pyrenoids.
 
 When growing in still water, fronds are long, inflated, and freely floating. In wave-exposed habitats, the tubes are shorter, narrower, and more tightly compressed, sometimes making identification difficult without [[psilocybe-semilanceata]] in temperate and cold waters. It occurs throughout the North Atlantic, North Pacific, Mediterranean, Baltic Sea, and around Antarctica.

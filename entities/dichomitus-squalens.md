@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Its bio[[fungal-degradation-of-pcbs-by-white-rot-fungi]] recalcitrant pollutants.
 
 ## Taxonomy

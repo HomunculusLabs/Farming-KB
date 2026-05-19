@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## What Plants See
 
 Plants possess a visual system built from photoreceptor proteins rather

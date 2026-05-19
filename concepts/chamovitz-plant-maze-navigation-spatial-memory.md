@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The universality of [[gravitropism]] across the plant kingdom underscores its
 evolutionary importance. From the smallest annuals to the tallest trees,
 distinguishing up from down is essential. Roots must reach water and

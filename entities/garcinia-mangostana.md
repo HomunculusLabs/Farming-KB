@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is believed to have originated in the Sunda Islands and the Moluccas of Indonesia. It has been cultivated throughout Southeast Asia for centuries and was introduced to tropical America and Australia in more recent times.
 
 The fruit is notable both for its culinary value and its rich phytochemical profile. The pericarp (rind) contains a unique class of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].

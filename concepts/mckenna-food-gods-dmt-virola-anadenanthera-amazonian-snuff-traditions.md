@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## N,N-Dimethyltryptamine (DMT)
 
 DMT is a simple [[tryptamine]] molecule — structurally related to serotonin

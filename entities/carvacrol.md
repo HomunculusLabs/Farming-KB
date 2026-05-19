@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 - **Origanum vulgare** (oregano): The premier natural source; carvacrol-dominated chemotypes produce essential oil containing 60–85% carvacrol. Greek and Turkish oregano cultivars are particularly valued for high carvacrol content.
 - **Origanum onites** (Turkish oregano): Contains 50–70% carvacrol in essential oil; commercially important for essential oil production.
 - **Thymus vulgaris** (thyme): The carvacrol chemotype contains 40–65% carvacrol, complementing the more common thymol chemotypes.

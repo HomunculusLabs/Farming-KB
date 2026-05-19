@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Cilantro prefers full sun to partial shade and well-drained, loamy soils
 with pH 6.2–6.8. It is a cool-season crop that bolts rapidly (flowers and
 sets seed) when temperatures exceed 24°C, making it challenging to grow in

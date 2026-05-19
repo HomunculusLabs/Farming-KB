@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The European Medicines Agency recognizes hawthorn leaf and flower extracts as a "well-established use" [[herbal-medicine]] for mild heart failure (HMPC monograph, 2016). Typical therapeutic doses range from 160–900 mg of standardized extract daily.
 
 ## Culinary and Traditional Use

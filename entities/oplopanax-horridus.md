@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species occupies a central role in the ethnobotany of virtually every Indigenous
 group within its range. Inner bark preparations have been used as medicine for
 respiratory ailments, rheumatism, diabetes, and tuberculosis.

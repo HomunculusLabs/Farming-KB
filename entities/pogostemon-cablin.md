@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Patchouli oil possesses a distinctive, earthy, and camphoraceous aroma that serves as a base note in countless perfumes, cosmetics, and personal care products. The oil is also valued in traditional medicine systems across Asia for its antimicrobial, anti-inflammatory, and insect-repellent properties.
 
 The plant is a bushy, upright herb reaching 60–100 cm in height. It produces small, pale pink to white flowers in terminal spikes, though commercial cultivation prioritizes leaf and stem biomass rather than flower production for [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is covered with fine trichomes that secrete the essential oil.

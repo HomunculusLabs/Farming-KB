@@ -10,7 +10,7 @@ aliases:
   - Herman Poole Blount
   - Sonny Blount
   - Sun Ra Arkestra
-tags: [person, jazz, [[octavia-e-butler]]
+tags: [person, jazz, octavia-e-butler
 - [[peyote-and-psychoactive-cacti]]
 ---
 ## Practical Applications

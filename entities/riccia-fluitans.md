@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It frequently grows among other aquatic bryophytes and macrophytes, forming mixed mats on the water surface. These floating mats provide habitat for numerous invertebrate species.
 
 Emersed populations can be found on wet soil, mud, and damp rocks at the margins of water bodies. Terrestrial forms are typically smaller and more compact than their aquatic counterparts.

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Modern scientific validation of these traditional systems began in the 1970s with the work of agroecologists like Miguel Altieri and Stephen Gliessman, who demonstrated measurable yield advantages and ecological benefits of intercropping and companion planting.
 
 ## Mechanisms of Action

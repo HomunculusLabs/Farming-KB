@@ -1,7 +1,7 @@
 ---
 title: Moringa Oleifera
 type: species
-tags: [herbal-plant, superfood, medicinal, [[short-day-and-long-day-plant-classification]] |
+tags: [herbal-plant, superfood, medicinal, short-day-and-long-day-plant-classification |
 |------|---------------|
 | Kingdom | Plantae |
 | Order | **Brassicales** |

@@ -1,6 +1,6 @@
 ---
 title: Straw Mulch In Agriculture
-tags: [agriculture, soil-health, mulching, organic-farming, [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] Agriculture
+tags: [agriculture, soil-health, mulching, organic-farming, query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it Agriculture
 ---
 
 Straw mulch is the central and most fundamental technique in Masanobu

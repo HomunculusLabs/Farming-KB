@@ -120,4 +120,3 @@ This synthesis highlights the importance of cross-disciplinary
 approaches to understanding complex biological phenomena.
 The interplay between molecular mechanisms and ecological
 context continues to yield new insights for practitioners.
-

@@ -2,7 +2,7 @@
 title: Shirota Tetrabenzylpyrophosphate Phosphorylation N Butyllithium Conditions
 aliases: [dibenzyl phosphorylation of [[psilocin]], pyrophosphate method,
   phosphoryl iodide method comparison, benzyl phosphate ester synthesis]
-tags: [shirota, [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] (7) represents the most technically demanding step
+tags: [shirota, hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin (7) represents the most technically demanding step
 in the Shirota, Hakamata, and Goda (2003) synthesis of psilocybin.
 After evaluating multiple phosphorylation methodologies, the authors
 selected the pyrophosphate method using tetrabenzylpyrophosphate and

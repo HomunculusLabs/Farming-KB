@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is believed to have originated from a natural hybridization between the sweet cherry ([[prunus-avium]]) and the ground cherry (Prunus fruticosa). This hybrid origin accounts for its intermediate morphology and its tetraploid genome (2n = 4x = 32).
 
 Global production is concentrated in Eastern Europe, particularly Turkey, Russia, Poland, and Ukraine. Turkey alone produces roughly 20% of the world's sour cherries.

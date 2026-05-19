@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Leaves are opposite, simple, elliptic to oblong, 8–15 cm long and 3–6 cm
 wide, leathery, glossy dark green above and paler below. When crushed, the
 leaves release a strong aromatic fragrance due to their essential oil content.

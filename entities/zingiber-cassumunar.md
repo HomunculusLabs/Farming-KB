@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is distinguished from common ginger by its smaller stature, distinct rhizome aroma, and characteristic lanceolate leaves with a purplish tinge along the midrib. The rhizome has a camphoraceous, slightly sweet fragrance.
 
 In Thailand, cassumunar ginger has been used for centuries in traditional medicine preparations. It is a key ingredient in many herbal compress formulations used in Thai massage therapy.

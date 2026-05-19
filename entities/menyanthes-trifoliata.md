@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - European Medicines Agency (2013). "[[permaculture-site-assessment-report-writing]] on Menyanthes trifoliata L., folium." EMA/HMPC.
+  - European Medicines Agency (2013). "permaculture-site-assessment-report-writing on Menyanthes trifoliata L., folium." EMA/HMPC.
   - Mølgaard P (1992). "[[psilocybin-north-america-pacific-northwest]]. In Europe, it ranges from
 Scandinavia and the British Isles southward to the Alps and the Balkans.
 ---

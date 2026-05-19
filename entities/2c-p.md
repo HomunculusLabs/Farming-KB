@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The compound is distinguished among the 2C series by its exceptionally long duration of action — typically 10–16 hours — and its high potency, with active doses ranging from 6–12 mg. These characteristics make 2C-P one of the longest-lasting and most potent members of the 2C family.
 
 2C-P is a Schedule I controlled substance in the [[phenethylamine-chain-length-effects]] and pharmacokinetic profile is a recurring theme in the 2C series.

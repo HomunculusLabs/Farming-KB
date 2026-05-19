@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Morphology
 
 *Dicentra spectabilis* was traditionally placed in the family Fumariaceae but has been reclassified within Papaveraceae subfamily Fumarioideae following molecular phylogenetic studies.

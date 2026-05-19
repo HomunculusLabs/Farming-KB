@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The pharmacological profile of kratom is unusual in that it produces both stimulant-like effects at lower doses and opioid-like effects at higher doses. This biphasic action has generated significant scientific and public health interest, particularly as kratom has been increasingly used in Western countries as a self-managed treatment for chronic pain, anxiety, and opioid dependence. The US DEA estimated approximately 10–15 million kratom users in the United States as of the mid-2020s.
 
 Traditional use of kratom in Southeast Asia predates written records, with ethnographic accounts describing its use by manual laborers, farmers, and fishermen as a stimulant to increase work capacity and endurance. In Thailand and Malaysia, fresh kratom leaves have historically been chewed or brewed into tea, often with lime (calcium hydroxide) to enhance alkaloid extraction. The transition from traditional fresh-leaf consumption to commercially processed powdered leaf products represents a significant change in exposure patterns and potential health risks.

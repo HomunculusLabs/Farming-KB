@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is commercially significant for its high saponin content, extracted and sold as a natural surfactant and feed additive.
 
 Mojave yucca has a long history of ethnobotanical use among indigenous peoples of the American Southwest.

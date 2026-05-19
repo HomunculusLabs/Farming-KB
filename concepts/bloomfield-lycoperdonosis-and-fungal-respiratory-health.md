@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Within a few days of exposure, the Wisconsin teens developed breathing
 difficulties, high fevers, and myalgia, or muscle pain. Biopsies taken
 from the lungs of two patients revealed acute inflammation of the tissues

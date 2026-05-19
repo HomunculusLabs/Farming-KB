@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Cultivation
 
 Lesser calamint is easily grown from seed, which germinates in 10–21 days at 18–22°C without cold stratification. Softwood cuttings taken in late spring root readily under mist.

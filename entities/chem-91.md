@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It emerged from the legendary Chemdawg phenotype lineage that surfaced in the early 1990s at a [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] regularly testing between 22–28%.
 
 ## Lineage and History

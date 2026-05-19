@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Chemical Identity
 - **IUPAC Name:** 1-[5-(1,3-Benzodioxol-5-yl)-1-oxo-2,4-pentadienyl]piperidine
 - **Molecular Formula:** C₁₇H₁₉NO₃

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It functions primarily as an NMDA receptor antagonist, producing dissociative, analgesic, and hallucinogenic effects similar to ketamine but with distinct pharmacokinetic and subjective properties.
 
 DCK emerged as a designer drug / research chemical in the mid-2010s and has been subject to legal controls in numerous jurisdictions.

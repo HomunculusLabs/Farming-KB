@@ -1,6 +1,6 @@
 ---
 title: Earth Oven and  Construction
-tags: [natural-building], cob, earth-oven, wood-fired-cooking, [[appropriate-technology]]
+tags: [natural-building], cob, earth-oven, wood-fired-cooking, appropriate-technology
 date: 2026-04-28
 updated: 2026-04-28
 sources:

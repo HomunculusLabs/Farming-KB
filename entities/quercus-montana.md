@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Morphology
 
 **Quercus montana** Willd. belongs to the family Fagaceae, genus *Quercus*, section Quercus (white oaks).

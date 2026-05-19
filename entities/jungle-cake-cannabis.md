@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Lineage
 
 - **Female parent:** [[wedding-cake]] ([[triangle-kush]] × [[trichoderma-forest-green-mold-guide]] with occasional

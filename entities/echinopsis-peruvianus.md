@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[echinopsis-lageniformis]]
 - [[echinopsis-pachanoi]]
 - [[echinopsis-peruviana]]
-

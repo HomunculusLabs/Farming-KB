@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Naming
 
 - **Order:** Hymenochaetales

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 L-theanine has become one of the most widely used nootropic compounds worldwide, marketed
 for anxiety reduction, improved focus, and sleep quality. Its mechanism involves modulation
 of GABA, glutamate, dopamine, and [[psilocybin]] — Frequently combined with theanine for anxiety reduction during psychedelic sessions.

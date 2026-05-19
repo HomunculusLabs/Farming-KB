@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Commonly known as red calliandra or pajón, it has become one of the most important [[comparison-arid-vs-tropical-permaculture]] and smallholder farming systems.
 
 The species is valued for its rapid [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Colombia and Venezuela, typically in humid and subhumid tropical lowlands at 0–1500 m elevation.

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Pharmacology
 
 Methylone acts as a **non-selective monoamine transporter substrate**, promoting the release of serotonin, dopamine, and norepinephrine from presynaptic nerve terminals. In vitro studies using rat brain synaptosomes have established the following rank order of transporter potency: SERT > DAT > NET.

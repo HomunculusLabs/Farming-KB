@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Byrd's Instrumentation Experiments
 
 In May 1973, researcher Byrd began instrumenting the tiny leaves of

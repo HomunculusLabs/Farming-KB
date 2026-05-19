@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Design Integration
 
 Hemenway planted Maximilian sunflowers as a hedge on a slope

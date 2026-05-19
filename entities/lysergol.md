@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The compound was first isolated and characterized from *Ipomoea* species
 in the early 1970s. It occupies a critical node in ergoline biosynthesis,
 bridging the simple clavine alkaloids (such as [[agroclavine]] and [[elymoclavine]])

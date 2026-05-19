@@ -3,7 +3,7 @@ source: "Mr. Bloomfield's Orchard - Nicholas P. Money"
 source_file: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 extracted: 2026-04-11
 type: concept
-tags: [[rust-fungi]] possess some of the most complex life cycles in the biological world, requiring two unrelated host plant species and producing up to five different [[comparison-grafting-vs-budding-fruit-trees]], and evergreens including cedars and junipers.
+tags: rust-fungi possess some of the most complex life cycles in the biological world, requiring two unrelated host plant species and producing up to five different comparison-grafting-vs-budding-fruit-trees, and evergreens including cedars and junipers.
 ---
 
 On hawthorns, the rust causes leaves to become covered with yellow spots, and some of the red berries on every twig are transformed into pale galls covered with spore-filled horns.

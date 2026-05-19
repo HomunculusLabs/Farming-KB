@@ -1,3 +1,8 @@
+---
+title: "Northern Lights Cannabis"
+tags: [wiki]
+sources: []
+---
 
 ## Morphology and Growing Characteristics
 
@@ -124,4 +129,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cannabis-strain-mango-haze-northern-lights-skunk-haze]]
 - [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]]
 - [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
-

@@ -120,4 +120,3 @@ Understanding these interconnected mechanisms provides a foundation for both res
 
 This synthesis highlights the importance of cross-disciplinary
 approaches to understanding complex biological phenomena.
-

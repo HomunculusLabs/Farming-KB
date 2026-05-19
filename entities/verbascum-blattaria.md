@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 In North America, it is naturalized across most of the eastern and central United States and southern Canada. It is less common in the arid West, where it is confined to irrigated areas.
 
 The species grows at elevations from sea level to 2,000 m in pastures, meadows, roadsides, waste ground, and open woodlands. It prefers well-drained soils and full to partial sun.

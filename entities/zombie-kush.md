@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The name reflects its powerful sedative properties — users report feeling "couch-
 locked" or immobilized, reminiscent of the zombie archetype in popular culture.
 Zombie Kush has gained a following among medical patients seeking relief from

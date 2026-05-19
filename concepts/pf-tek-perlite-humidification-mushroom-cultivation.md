@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 When properly prepared in the terrarium base, wet perlite maintains 90%+ relative
 humidity through continuous surface evaporation. This eliminates the need for
 active humidification equipment entirely.

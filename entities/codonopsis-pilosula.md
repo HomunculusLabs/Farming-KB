@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Modern pharmacological research has validated adaptogenic, immunomodulatory,
 gastroprotective, and neuroprotective activities. Global demand has made
 codonopsis root one of the most commercially important [[luteolin]], [[apigenin]], and their glycosides.

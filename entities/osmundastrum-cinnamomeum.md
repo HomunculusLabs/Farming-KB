@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The genus *Osmundastrum* is monotypic, containing only this single species. It is the oldest living lineage of leptosporangiate ferns, with a fossil record extending back to the Triassic period, over 200 million years ago. Fossil osmundaceous material attributed to *Osmundastrum* has been found on every continent except Antarctica.
 
 The fossil record of *Osmundastrum* is remarkably complete, including permineralized rhizomes that preserve cellular detail. These fossils, known as osmundaceous axes, have been found in Jurassic and Cretaceous deposits worldwide. The anatomical similarity between fossil and living specimens demonstrates extraordinary morphological stasis over geological time.

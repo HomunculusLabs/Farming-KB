@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Chemical Identity
 
 - **IUPAC Name**: (4E,6S,12bS)-6-ethyl-7-hydroxy-3,4,6,7,8,12b-hexahydro-2H-1,6-methanoindolo[2,3-a]quinolizin-9-carboxylic acid methyl ester

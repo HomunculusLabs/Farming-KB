@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species hybridizes with Vernonia glauca where their ranges overlap. Hybrids show intermediate floral and leaf characteristics.
 
 ## Taxonomy and Morphology

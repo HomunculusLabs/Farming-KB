@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is easily identified by its distinctive leaves, which occur in three shapes
 on the same tree: unlobed oval, two-lobed mitten-shaped, and three-lobed. This
 heterophylly is a reliable field characteristic found in few other [[coleman-overwintered-onions-and-early-spring-crops]] before leaf emergence. Fruit is a dark

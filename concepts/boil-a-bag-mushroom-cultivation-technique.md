@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Overview
 
 At its core, the boil-a-bag method involves preparing a substrate of

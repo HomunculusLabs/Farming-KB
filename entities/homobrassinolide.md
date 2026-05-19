@@ -128,6 +128,5 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
 - [[gartz-homobrassinolide-structure-stigmasterol-biosynthesis-fungal-systems]]

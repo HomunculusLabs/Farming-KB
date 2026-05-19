@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species ranges from the Atlantic coast to the eastern edge of the Great
 Plains, and from northern Florida to southern Ontario. Despite its wide native
 range, the pawpaw remains relatively underutilized in commercial agriculture

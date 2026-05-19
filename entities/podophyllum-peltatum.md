@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is immediately recognizable by its single large, umbrella-like leaf (two leaves in mature, fruiting plants) and the single waxy white flower that nodds beneath the leaf canopy. The common name "mayapple" reflects its emergence in spring and the apple-like fruit that ripens in late summer.
 
 Despite its pleasant appearance, all parts of the plant except the ripe fruit contain podophyllotoxin and are severely toxic if ingested. The ripe fruit is edible in small quantities when fully yellow and soft, but unripe fruit and all other plant parts cause severe gastrointestinal distress, neurological symptoms, and potentially death.

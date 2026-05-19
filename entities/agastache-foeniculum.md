@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species has a long history of use among Indigenous peoples of the Great
 Plains for medicinal purposes, including treatment of coughs, fevers, and
 digestive complaints. In contemporary use, anise hyssop is valued as a culinary

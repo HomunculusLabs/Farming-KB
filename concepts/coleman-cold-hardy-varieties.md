@@ -1,7 +1,7 @@
 ---
 title: Cold-Hardy comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques for Winter Growing
 created: 2026-04-26
-tags: [cold-hardy-varieties, winter-vegetables, seed-varieties, [[heat-stress-cannabis]].
+tags: [cold-hardy-varieties, winter-vegetables, seed-varieties, heat-stress-cannabis.
 ---
 
 ## Complete Variety List

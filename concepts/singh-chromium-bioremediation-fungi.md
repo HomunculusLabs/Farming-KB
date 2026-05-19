@@ -1,7 +1,7 @@
 ---
 title: singh chromium bioremediation fungi by Fungi
 created: 2026-04-26
-tags: [[dighton-fungal-heavy-metal-accumulation-bioremediation]] by Fungi
+tags: dighton-fungal-heavy-metal-accumulation-bioremediation by Fungi
 ---
 
 Chromium is a highly toxic [[singh-binary-ternary-fungal-biosorption-systems]] offers effective

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy
 
 - **Kingdom:** Plantae — **Clade:** Tracheophytes — **Clade:** Angiosperms

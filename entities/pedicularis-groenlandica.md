@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is a root hemiparasite, supplementing its photosynthesis by
 extracting water, mineral nutrients, and [[growing-gourmet-north-american-reishi-species]] Rockies than in Greenland. No
 infraspecific taxa are currently recognized.

@@ -1,7 +1,7 @@
 ---
 title: "(E)-beta-Caryophyllene Dietary CB2 Agonist"
 source: uwe-blesching-the-cannabis-health-index
-tags: [beta-caryophyllene, terpene, CB2, spice, [[reactive-oxygen-species-and-oxidative-stress]], both underlying factors in a host of
+tags: [beta-caryophyllene, terpene, CB2, spice, reactive-oxygen-species-and-oxidative-stress, both underlying factors in a host of
 different pathologies. Additional research has shown that (E)-beta-
 caryophyllene may also protect against microbes, pain, and cancer.
 ---

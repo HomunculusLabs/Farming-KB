@@ -17,7 +17,7 @@ concepts:
   - nasal-sinus
   - cerebral-mucormycosis
   - food-spoilage
-tags: [[blesching-cannabis-fungal-infections-candida]].
+tags: blesching-cannabis-fungal-infections-candida.
 ---
 
 ## The Zygomycete Fungi

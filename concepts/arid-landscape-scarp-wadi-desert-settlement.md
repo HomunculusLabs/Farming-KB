@@ -1,7 +1,7 @@
 ---
 title: Arid Landscape Scarp Wadi Desert Settlement
 created: 2026-04-28
-tags: [[comparison-drip-irrigation-vs-passive-irrigation]] for a detailed
+tags: comparison-drip-irrigation-vs-passive-irrigation for a detailed
 comparison of irrigation approaches suitable for arid climates.
 ---
 

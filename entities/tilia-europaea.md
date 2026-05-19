@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Linden flowers produce one of the world's most prized honeys, known as linden or basswood honey. The flowers and bracts have been used medicinally for millennia, particularly as a calming tea for anxiety and insomnia.
 
 ## Taxonomy and Morphology

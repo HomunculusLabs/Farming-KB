@@ -1,7 +1,7 @@
 ---
 title: PF TEK Non-Germination Troubleshooting
 created: 2026-04-28
-tags: [pf-tek, spore-germination, troubleshooting, inoculation, [[query-spore-syringes-vs-liquid-culture]].
+tags: [pf-tek, spore-germination, troubleshooting, inoculation, query-spore-syringes-vs-liquid-culture.
 ---
 
 ## Expected Germination Timeline

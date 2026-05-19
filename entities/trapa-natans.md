@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Habitat: still or slow freshwater (ponds, lakes, backwaters, rice
 paddies), 0.5–3 m depth, nutrient-rich substrate, water temperature
 20–30°C. Tolerates moderate turbidity.

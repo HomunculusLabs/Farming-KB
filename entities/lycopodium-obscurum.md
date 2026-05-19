@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is named for its resemblance to small pine seedlings, with dense radial clusters of sterile branches creating a miniature tree-like silhouette.
 
 Its spores have been used historically as a drying powder and in traditional medicine, and the species contains bioactive lycopodium alkaloids.

@@ -1,7 +1,7 @@
 ---
 title: mollison life in earth burrowers roots: Burrowers and Root Systems
 created: 2026-04-26
-tags: [soil-ecology, roots, burrowers, [[bill-mollison]]'s chapter "Life in Earth" in Permaculture: A
+tags: [soil-ecology, roots, burrowers, bill-mollison's chapter "Life in Earth" in Permaculture: A
 Designers' Manual presents a richly detailed account of the
 underground world, arguing that before humans ever learned to
 cut open the soil, it was thoroughly dug, aerated, and

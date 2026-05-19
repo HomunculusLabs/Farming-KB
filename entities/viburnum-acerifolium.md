@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species typically grows 1.5 to 2 meters tall and forms loose, open thickets
 in the understory of deciduous forests. It is valued in native plant landscaping
 for its fall foliage color and wildlife appeal.

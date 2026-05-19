@@ -1,7 +1,7 @@
 ---
 title: Shade Avoidance Syndrome
 created: 2026-04-28
-tags: [botany, photobiology, shade-avoidance, [[phytochrome-photoreceptor]]
+tags: [botany, photobiology, shade-avoidance, phytochrome-photoreceptor
 system detecting changes in the ratio of red to far-red light that occur when
 sunlight is filtered through or reflected from neighbouring plant canopies.
 ---

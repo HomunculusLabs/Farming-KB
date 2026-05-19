@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Leaves are alternate, imparipinnate, with 7 to 15 pairs of opposite
 leaflets plus a terminal leaflet. Leaflets are oblong to elliptic, 5 to 25
 mm long, with entire margins and a waxy cuticle that reduces [[transpiration]].

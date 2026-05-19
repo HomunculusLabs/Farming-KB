@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Papaverine is classified pharmacologically as a non-nitrogenous phosphodiesterase inhibitor with direct vasodilatory and antispasmodic properties.
 
 It has been used clinically for over a century in the treatment of vascular spasms, gastrointestinal cramps, and erectile dysfunction.

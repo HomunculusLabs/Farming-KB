@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycelial-colonization]]
 - [[mycelial-growth-promotion]]
-

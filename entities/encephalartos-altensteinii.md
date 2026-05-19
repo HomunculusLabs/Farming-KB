@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Leaves are pinnate, 1.5 to 3 meters long, with 120 to 200 leaflets arranged in a V-shaped orientation. Leaflets are lanceolate, 15 to 25 cm long and 2 to 4 cm wide, with serrated margins near the tip and a glossy dark green color.
 
 Male cones are cylindrical, 30 to 50 cm long and 10 to 15 cm in diameter, and yellowish-orange at maturity. Female cones are barrel-shaped, 40 to 60 cm long and 25 to 35 cm in diameter, with a similar yellowish coloration.

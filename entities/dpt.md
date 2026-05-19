@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It acts as a [[psilocybin]], distinguished by its unique dipropyl substitution pattern on the [[tryptamine]] nitrogen.
 
 The compound has been used in [[hofmann-lsd-clinical-research-early-studies]] settings as well as in underground entheogenic and psychospiritual contexts.

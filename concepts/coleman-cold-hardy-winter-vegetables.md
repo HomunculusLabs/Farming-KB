@@ -1,7 +1,7 @@
 ---
 title: Coleman Cold Hardy Winter Vegetables
 created: 2026-05-08
-tags: [farming, vegetables, winter-harvest, [[dandelion]]
+tags: [farming, vegetables, winter-harvest, dandelion
 - [[coleman-cold-hardy-varieties]] winter vegetables
 ---
 

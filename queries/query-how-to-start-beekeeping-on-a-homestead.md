@@ -1,7 +1,7 @@
 ---
 title: Query How To Start Beekeeping On A Homestead
 created: 2026-04-28
-tags: [query, beekeeping, [[pollinator-habitat|pollinator habitat]] of your property. A single hive can pollinate crops across several acres while producing 30 to 60 pounds of honey per year.
+tags: [query, beekeeping, pollinator-habitat|pollinator habitat of your property. A single hive can pollinate crops across several acres while producing 30 to 60 pounds of honey per year.
 ---
 
 ## Why Keep Bees on a Homestead

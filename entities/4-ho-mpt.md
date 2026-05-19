@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The compound is known among the research chemical community for its psilocin-like effects with a reportedly shorter duration and slightly altered character. It has never been approved for medical use and exists in a legal gray area in most jurisdictions.
 
 ## Chemical Properties

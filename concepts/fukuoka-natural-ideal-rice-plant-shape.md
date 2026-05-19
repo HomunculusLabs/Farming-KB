@@ -1,7 +1,7 @@
 ---
 title: The Ideal Form and Shape of the Rice Plant
 created: 2026-04-28
-tags: [fukuoka, [[fukuoka-lundberg-family-farms-natural-rice]] and asked what healthy rice is.
+tags: [fukuoka, fukuoka-lundberg-family-farms-natural-rice and asked what healthy rice is.
 ---
 
 ## Discovery Through Natural Cultivation

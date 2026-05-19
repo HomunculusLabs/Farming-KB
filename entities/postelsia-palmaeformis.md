@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is restricted to the most wave-exposed rocky intertidal zones from central California to British Columbia. Its peculiar morphology and ecological specialization have made it a classic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] within a single year. Populations are maintained by a balance between local spore recruitment and disturbance-driven colonization of newly available space in mussel beds.
 
 ## Chemistry and Bioactivity

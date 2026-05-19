@@ -2,9 +2,9 @@
 title: "Fukuoka Textdoc Postwar Agricultural Policy Fall Farming"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-
 
 ## The Farmer Loses Land and Freedom
 Fukuoka documented how the effort by farmers to raise food production backfired

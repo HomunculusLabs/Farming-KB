@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Optimal growth occurs in cool, moist environments with mean temperatures of 15–22 °C during [[psilocybin-north-america-pacific-northwest]], and maritime regions of Canada. It is considered invasive in some wetland habitats where it displaces native wetland grass species.
 
 In coastal habitats, creeping bentgrass tolerates moderate salt spray and brackish conditions, making it a component of salt marsh vegetation in some areas. This salt tolerance also makes it useful for turf applications in coastal environments.

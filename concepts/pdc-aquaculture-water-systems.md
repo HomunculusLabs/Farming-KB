@@ -3,7 +3,7 @@ title: PDC Aquaculture Water Systems
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course covers water in
+tags: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course covers water in
 permaculture in extraordinary breadth — from mountain catchments to tidal
 marine systems. Mollison argues that "never in the history of the world
 has anybody designed and implemented" comprehensive aquaculture, and that

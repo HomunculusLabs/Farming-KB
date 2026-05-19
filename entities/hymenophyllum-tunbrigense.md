@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The family Hymenophyllaceae is one of the most ancient fern lineages, with a fossil record extending to the Carboniferous period. These ferns are characterized by their one-cell-thick laminae, which lack stomata entirely.
 
 Fronds are 1–5 cm long, ovate to lanceolate in outline, and bi- to tripinnate. The lamina is transparent, consisting of a single layer of cells without differentiated epidermis or mesophyll. This translucency gives the fern its characteristic delicate appearance.

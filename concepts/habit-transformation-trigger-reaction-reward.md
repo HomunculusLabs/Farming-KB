@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The mind-body medicine approach to habit transformation focuses on
 creating awareness about the trigger phase, replacing choices in the
 reaction phase, and consciously examining the reward dimensions.

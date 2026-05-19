@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Maximum recorded age is approximately 700–800 years, though most trees in managed stands are harvested well before maturity. Old-growth individuals develop massive buttressed root systems and spreading crowns.
 
 ## Taxonomy and Morphology

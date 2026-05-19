@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Why 4-Hydroxyindole
 
 4-Hydroxyindole (3) is the ideal starting material for psilocin

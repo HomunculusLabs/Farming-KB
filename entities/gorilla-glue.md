@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Appearance
 
 Gorilla Glue buds are exceptionally resinous, living up to the strain's name with a thick, sticky coating of trichomes that makes them difficult to break apart by hand. The buds are large, dense, and chunky with a rounded, conical shape. Coloration ranges from bright lime green to a deeper forest green, often with occasional patches of dark purple. Pistils are abundant, ranging from orange to amber-brown, and create a striking contrast against the frosty trichome layer. The sheer density of the resin glands gives the flowers a wet, glistening appearance even when fully cured.

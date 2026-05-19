@@ -1,7 +1,7 @@
 ---
 title: Cotter Grain Spawn Production
 created: 2026-04-26
-tags: [spawn-production, grain, [[mason-jar-preserving-guide]] lids
+tags: [spawn-production, grain, mason-jar-preserving-guide lids
 - Drilled holes stuffed with cotton or polyester fill
 - Tyvek (woven house wrap) secured over drilled holes
 ---

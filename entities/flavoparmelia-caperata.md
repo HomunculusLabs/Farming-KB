@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is immediately recognizable by its broad, pale green to yellow-green lobes
 with a distinctive pattern of white macules (pseudocyphellae) on the upper surface. It
 forms extensive rosettes up to 20 cm in diameter on trunks and branches.

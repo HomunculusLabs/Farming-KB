@@ -1,7 +1,7 @@
 ---
 title: Fukuoka Kochi Rice Borer Eradication Debacle
 created: 2026-04-28
-tags: [rice-borer, pest-eradication, [[jeavons-natural-pest-control]] Concentration
+tags: [rice-borer, pest-eradication, jeavons-natural-pest-control Concentration
 ---
 
 If one small section of a large rice field contains rice grown with

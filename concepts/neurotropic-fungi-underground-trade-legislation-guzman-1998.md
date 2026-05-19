@@ -1,7 +1,7 @@
 ---
 title: [[neurotropic-fungi]] Underground Trade Legislation Guzman 1998
 created: 2026-05-06
-tags: [[psilocybe-geographical-distribution-patterns]] survey by [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
+tags: psilocybe-geographical-distribution-patterns survey by four-groups-neurotropic-fungi-global-distribution-guzman-1998
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 ---
 ## Background and Context
@@ -147,4 +147,3 @@ Successful integration of neurotropic fungi underground trade legislation guzman
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-

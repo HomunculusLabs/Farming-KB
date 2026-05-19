@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The strain won first place in the Hybrid category at the 2018 High Times Cannabis Cup in Santa Rosa, California.
 
 It has become one of the most commercially successful and widely available strains in [[cannabis-terpene-profile]], and potent relaxing effects.

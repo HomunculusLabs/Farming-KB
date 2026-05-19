@@ -2,7 +2,7 @@
 source: Mr. Bloomfield's Orchard (Money, 2002)
 source_path: raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 type: concept
-tags: [[edible-wild-mushrooms-by-region]], false morels contain a volatile toxin called gyromitrin
+tags: edible-wild-mushrooms-by-region, false morels contain a volatile toxin called gyromitrin
 that can cause severe illness and death. Nicholas P. Money addresses these
 fungi in Chapter 8 of "Mr. Bloomfield's Orchard," noting that false morels "are
 also to be avoided" alongside the truly deadly amatoxin-producing species. The

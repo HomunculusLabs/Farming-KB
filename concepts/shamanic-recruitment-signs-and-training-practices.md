@@ -1,6 +1,6 @@
 ---
 title: "Shamanic Recruitment [[mckenna-shamanic-identification-signs-and-training-methods]] Practices"
-tags: [[terence-mckenna]], drawing on his extensive fieldwork among Amazonian and other
+tags: terence-mckenna, drawing on his extensive fieldwork among Amazonian and other
 indigenous communities, described the signs by which potential shamans are
 identified, the social dynamics of their training, and the techniques they
 are taught. His account emphasizes that shamanism is primarily a set of
@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]
-

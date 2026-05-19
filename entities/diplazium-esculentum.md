@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The young fronds are harvested as a [[hamilton-composting-and-organic-matter-management]].
 
 It is commonly found in secondary forests, disturbed areas, and alongside cultivated fields.

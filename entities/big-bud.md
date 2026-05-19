@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The strain earned its name from its massive, dense colas that can reach extraordinary sizes under optimal growing conditions. It remains a staple for commercial growers seeking maximum output and has served as a genetic parent for numerous high-yielding [[cervantes-breeding-program-design-goal-setting]].
 
 Genetic ratio is approximately **85% indica / 15% sativa**. The Afghani parentage contributes the heavy [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]. The moderate THC range makes it accessible to intermediate consumers while still satisfying experienced users.

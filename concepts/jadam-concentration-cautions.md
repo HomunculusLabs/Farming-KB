@@ -3,7 +3,7 @@ title: Jadam Concentration Cautions
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [jadam, [[coleman-deep-organic-farming-philosophy]], pp.300-302 ([[jadam-pesticide-dosage-guide]] ingredients.
+tags: [jadam, coleman-deep-organic-farming-philosophy, pp.300-302 (jadam-pesticide-dosage-guide ingredients.
 ---
 
 ## General Principle

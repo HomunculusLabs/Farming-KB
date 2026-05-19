@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Growth is exceptionally slow: 20–30 cm/year in youth, declining with age.
 
 ## Distribution and Habitat

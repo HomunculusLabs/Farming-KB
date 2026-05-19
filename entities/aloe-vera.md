@@ -2,7 +2,7 @@
 title: Aloe Vera
 created: 2026-04-28
 type: species
-tags: [species, plant, succulent, herbal, medicinal, [[cannabis-for-skin-conditions-detailed]].
+tags: [species, plant, succulent, herbal, medicinal, cannabis-for-skin-conditions-detailed.
 ---
 
 The species has a long and well-documented history of human use, from ancient

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Chemical Properties
 
 - **Chemical class:** Monoterpene ketone (bicyclic)

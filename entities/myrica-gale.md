@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Sweetgale was a primary flavoring agent in European gruit beers before the
 adoption of hops (*[[coleman-overwintered-onions-and-early-spring-crops]]. Female catkins shorter,
 4–6 mm, with reddish stigmas. Wind-pollinated.

@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[grass-seed-cultivation-of-psilocybe-species]]
 - [[psilocybe-fascicata]]
 - [[psilocybe-plutonia]]
-

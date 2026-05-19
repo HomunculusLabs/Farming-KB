@@ -1,7 +1,7 @@
 ---
 title: Fukuoka Textdoc Production Costs Not Coming Down
 created: 2026-04-28
-tags: [economics, production-costs, [[fukuoka-textdoc-vegetable-factory-hydroponic-critique]], he demonstrates
+tags: [economics, production-costs, fukuoka-textdoc-vegetable-factory-hydroponic-critique, he demonstrates
 that sophisticated agricultural technology inevitably makes food more expensive,
 not less, because nature produces without calling for supplies or remuneration
 while human effort always demands payment in return.

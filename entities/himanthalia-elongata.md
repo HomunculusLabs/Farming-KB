@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Nutritional Value
 
 Sea spaghetti is considered one of the most nutritious edible seaweeds in European waters. Its dry matter composition includes approximately 40–55% carbohydrates (mainly dietary fiber), 10–15% protein, and 1–3% lipids.

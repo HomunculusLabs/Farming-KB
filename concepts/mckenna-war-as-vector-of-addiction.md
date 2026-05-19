@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Morphine and the American Civil War
 
 The pattern begins with morphine, isolated in 1805 by German chemist Friedrich

@@ -3,7 +3,7 @@ title: [[chisel-plough-soil-conditioning]] Mollison
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[bill-mollison]],
+tags: bill-mollison,
 Section 8.18 (pp. 218-222)
 ---
 

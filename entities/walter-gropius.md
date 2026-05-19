@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Overview
 
 Walter Gropius represents an important element within sustainable

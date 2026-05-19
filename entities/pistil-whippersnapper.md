@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Genetic Lineage
 
 - **Type:** Sativa-dominant hybrid (~80% sativa / 20% indica)

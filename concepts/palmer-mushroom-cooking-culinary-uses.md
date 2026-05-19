@@ -1,3 +1,8 @@
+---
+title: "Palmer Mushroom Cooking Culinary Uses"
+tags: [wiki]
+sources: []
+---
 
 ## The Two Proper Cooking Methods
 
@@ -136,4 +141,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[mushroom-toxicology-palmer-theory]]
 - [[palmer-amanitine-poison-classification-treatment]]
-

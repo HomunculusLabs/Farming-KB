@@ -3,7 +3,7 @@ title: Salvinorin A Kappa Opioid Receptor Pharmacology
 source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 source_author: John H. Halpern
 source_journal: Pharmacology & Therapeutics 102 (2004) 131-138
-tags: [pharmacology, [[golden-guide-salvia-divinorum-and-diviner-sage]]*,
+tags: [pharmacology, golden-guide-salvia-divinorum-and-diviner-sage*,
 represents a unique pharmacological entity among naturally occurring
 hallucinogens. Unlike virtually all other known natural and synthetic
 hallucinogens — which act primarily as agonists or partial agonists at

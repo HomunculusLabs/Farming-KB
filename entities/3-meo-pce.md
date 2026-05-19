@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The compound acts primarily as an NMDA receptor antagonist, producing characteristic
 dissociative effects including [[methoxetamine]]),
 and 3-MeO-PCP. The key structural feature is the 3-methoxy substitution on

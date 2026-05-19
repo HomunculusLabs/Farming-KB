@@ -1,7 +1,7 @@
 ---
 title: "Amanita Mushrooms: History, Chemistry, and Cultural Significance"
 subtitle: "The fly agaric from Siberian shamanism to ancient religion and modern pharmacology"
-tags: [amanita, mycology, ethnobotany, psychedelic, ancient-religion, fly-agaric, muscimol]
+tags: [amanita, mycology, ethnobotany, psychedelic, ancient-religion, fly-agaric, muscimole]
 date: 2026-04-28
 updated: 2026-05-19
 sources:
@@ -90,7 +90,7 @@ The pharmacological profile of *Amanita muscaria* is fundamentally different fro
 
 Ibotenic acid (alpha-amino-3-hydroxy-5-isoxazoloacetic acid, formula C5H6N2O4) is a conformationally restricted derivative of glutamic acid. It acts on glutamate receptors implicated in epilepsy and Huntington's disease.
 
-Any attempt at dehydration causes ibotenic acid to undergo decarboxylation, converting it quantitatively into muscimol. This chemical transformation is the foundation for all traditional preparation methods.
+Any attempt at dehydration causes [[ibotenic-acid]] to undergo decarboxylation, converting it quantitatively into muscimol. This chemical transformation is the foundation for all traditional preparation methods.
 
 Muscimol (5-(aminomethyl)-3-hydroxyisoxazole, formula C4H6N2O2) is a conformationally restricted derivative of GABA. It acts as a potent GABA-A receptor agonist, producing sedative, hypnotic, and dissociative effects.
 
@@ -111,20 +111,6 @@ Cycloserine, an antimicrobial tuberculostatic agent, exhibits a similar carbon b
 Additional compounds include a beta-glucan polysaccharide (AM-ASN) that exhibited antitumour activity against Sarcoma 180 in mice. The mushroom thus possesses a broader pharmacological profile than its psychoactive properties suggest.
 
 The two major chemicals in *A. muscaria* are closely related to known antibiotics. Almost all modern medicine's antibiotics were first discovered in fungi, and the fly agaric shares this antimicrobial heritage.
-
-## Toxicity and the Deadly Amanita Relatives
-
-While *A. muscaria* is commonly considered poisonous, reliable recorded fatalities are extremely rare, even when consumed fresh in large quantities. Adverse effects are primarily due to ibotenic acid content.
-
-The real danger lies in confusion with deadly *Amanita* relatives. *Amanita phalloides*, the death cap, is responsible for over 90 percent of all recorded deaths from fungal poisoning.
-
-A single mature death cap contains enough amatoxin to kill an adult human. Amatoxins are cyclic octapeptides that inhibit RNA polymerase II, effectively shutting down protein synthesis in cells.
-
-The clinical course follows an insidious pattern: a 6-to-12-hour latent period, violent gastrointestinal distress, a deceptive apparent recovery, and finally liver failure. The long delay means stomach-emptying is useless.
-
-*A. virosa* (the destroying angel) is equally toxic and dangerous because its pure white appearance resembles edible species. Both mushrooms look ordinary, which contributes to their deadliness.
-
-Interestingly, the amatoxins are not confined to *Amanita*. *Galerina autumnalis*, a small brown mushroom on decaying wood, produces the same toxins despite being only distantly related — convergent chemical evolution.
 
 ## Traditional Preparation Methods
 
@@ -150,10 +136,7 @@ Shamans consumed the mushroom to enter trance states for divination, healing, an
 
 ## See Also
 
-- [[allegro-amanita-muscaria-properties-and-pharmacology]]
 - [[amanita-pantherina]]
-- [[amanita-muscaria-ibotenic-acid-muscimol-epilepsy-neurology]]
-- [[ethnobotanical-use-of-sacred-mushrooms-in-mexico]]
 - [[eleusinian-mysteries-ethnomycology]]
-- [[psychedelic-mushroom-set-and-setting]]
 - [[teonanacatl-history]]
+- [[psychedelic-mushroom-set-and-setting]]

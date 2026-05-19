@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Morphology
 
 **Cladonia portentosa** was originally described as *Lichen portentosus* by

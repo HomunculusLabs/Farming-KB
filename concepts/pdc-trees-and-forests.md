@@ -3,7 +3,7 @@ title: "PDC Trees and Forests"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course contains Bill
+tags: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course contains Bill
 Mollison's most detailed treatment of forests — not as timber resources
 but as the primary organising system of land, climate, and water.
 ---

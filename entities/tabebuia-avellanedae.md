@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Overview
 
 Tabebuia Avellanedae represents an important element within sustainable

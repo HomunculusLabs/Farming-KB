@@ -6,7 +6,7 @@ tags:
 
 created: 2026-05-08
 source: mckenna_t-food_of_the_gods.md
-tags: [[terence-mckenna]], drawing extensively on Mircea Eliade's Shamanism: Archaic [[tryptamine-hypercontinuum-and-invisible-landscape]] that the ecstatic part of shamanic initiation depends on a certain receptivity to states of trance. The novice may be moody, somewhat frail, predisposed to solitude, and may experience fits of epilepsy, catatonia, or other psychological aberration — though not always, as some writers have asserted. This psychological predisposition forms only the starting point.
+tags: terence-mckenna, drawing extensively on Mircea Eliade's Shamanism: Archaic tryptamine-hypercontinuum-and-invisible-landscape that the ecstatic part of shamanic initiation depends on a certain receptivity to states of trance. The novice may be moody, somewhat frail, predisposed to solitude, and may experience fits of epilepsy, catatonia, or other psychological aberration — though not always, as some writers have asserted. This psychological predisposition forms only the starting point.
 
 ### The Crisis Proper
 

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Color variation between batches indicates compositional differences year to year, which can affect microbial growth outcomes.
 
 ## Concentration Effects on Microbial Selection

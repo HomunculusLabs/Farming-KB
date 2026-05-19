@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 [[ph-and-nutrient-availability-garden-soils]]. Shaded, wave-protected sites produce longer but thinner fronds, while exposed sites yield shorter, sturdier plants. Anthropogenic nutrient inputs from coastal agriculture and aquaculture have been associated with increased growth rates and expanded distribution in some regions.
 
 The species plays a significant ecological role as habitat and refuge for small invertebrates and juvenile fish. The dense branching structure provides substrate for epiphytic diatoms and microalgae, forming a micro-ecosystem on each thallus. During storms, detached fronds contribute to detrital food webs in deeper coastal waters.

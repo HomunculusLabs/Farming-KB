@@ -1,7 +1,7 @@
 ---
 title: "mckenna leafcutter ant fungal agriculture Fungal Agriculture and Human-Plant Symbiosis"
 created: 2026-04-28
-tags: [symbiosis, [[query-how-does-mycorrhizal-network-communication-work-between-plants]] leafcutter ants (genus *Atta* and *Acromyrmex*) and their cultivated basidiomycete fungus represents one 's most remarkable examples of interspecies symbiosis — a fungal agriculture [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]]s-species-south-america.
+tags: [symbiosis, query-how-does-mycorrhizal-network-communication-work-between-plants leafcutter ants (genus *Atta* and *Acromyrmex*) and their cultivated basidiomycete fungus represents one 's most remarkable examples of interspecies symbiosis — a fungal agriculture query-how-to-set-up-a-mushroom-grow-lab-or-clean-rooms-species-south-america.
 ---
 
  used this relationship as a central analogy in *Food of the Gods* to illustrate how human-, particularly with [[mckenna-symbiosis-and-human-plant-relationships]]

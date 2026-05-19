@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Butylone produces empathogenic and stimulant effects qualitatively similar to MDMA but is generally reported as milder, shorter-acting, and less euphoric. It is classified as a Schedule I controlled substance in the [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]] mean butylone reaches peak plasma concentrations within 1–2 hours of oral administration. The compound is extensively protein-bound (approximately 70–80%) and distributes readily into cardiac and neural tissue.
 
 ## Pharmacology

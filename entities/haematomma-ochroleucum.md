@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species was historically used in [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] are consistent with the order Lecanorales.
 
 The photobiont is a trebouxioid green alga. Ascospores are hyaline, ellipsoid, and muriform, measuring approximately 25 to 40 micrometers in length.

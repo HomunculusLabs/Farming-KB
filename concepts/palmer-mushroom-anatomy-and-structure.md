@@ -1,7 +1,7 @@
 ---
 title: Palmer mushroom-anatomy And Structure
 created: 2026-04-28
-tags: [mushroom-anatomy, [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. Palmer
+tags: [mushroom-anatomy, mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish. Palmer
 deliberately avoided excessive scientific terminology while still
 providing generic names to enable identification. His anatomical
 descriptions emphasize practical recognition features rather than

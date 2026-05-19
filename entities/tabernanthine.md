@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The compound's overall pharmacological profile is qualitatively similar to ibogaine but with significantly reduced potency across most targets. This lower potency may result in a more favorable [[cannabis-therapeutic-index-overview]] of tabernanthine has not been established in human subjects. In the absence of controlled clinical data, any assessment of safety must be extrapolated from animal studies and the broader iboga alkaloid literature.
 
 ## Natural Occurrence

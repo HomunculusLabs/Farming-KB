@@ -1,3 +1,8 @@
+---
+title: "Solanum Carolinense"
+tags: [wiki]
+sources: []
+---
 
 The plant is notable for its sharp spines, yellow berries, and high toxicity due to solanine glycoalkaloids. All parts of the plant are poisonous to livestock and humans if ingested.
 
@@ -134,4 +139,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[solanum-dulcamara]]
 - [[solanum-lycopersicum]]
-

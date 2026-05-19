@@ -3,7 +3,7 @@ title: Rattan and Cane
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[permaculture-design-course-methodology]], rattan and other climbing palms are integrated into:
+tags: permaculture-design-course-methodology, rattan and other climbing palms are integrated into:
 - Mixed-species [[mollison-pdc-forest-management-products]] areas
 ---
 
@@ -147,4 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-

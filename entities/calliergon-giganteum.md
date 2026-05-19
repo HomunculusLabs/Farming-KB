@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Ecology
 
 Calliergon giganteum is a dominant ground-layer species in boreal fen

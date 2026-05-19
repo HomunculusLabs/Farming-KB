@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ### Critical Modification
 
 The study introduced one important deviation from the standard PowerSoil protocol: samples were heated at 65°C for 10 minutes prior to the initial vortex step. This pre-heating step likely improved cell lysis, particularly for Gram-positive bacteria with robust peptidoglycan [[core-endorhiza-bacterial-community-composition-cannabis]] estimates.

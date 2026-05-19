@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Effects and Dosage
 
 **Typical oral doses:**

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The choice of drying method directly affects the chemical stability of the
 active compounds [[enzymatic-degradation-in-mycoremediation]]. However, the low temperature minimizes
 thermal degradation of the active compounds.

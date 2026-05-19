@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in [[guzman-psilocybin-mushrooms-north-america]] north of Mexico." Contributions from the University of Michigan Herbarium 20: 1-258.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in guzman-psilocybin-mushrooms-north-america north of Mexico." Contributions from the University of Michigan Herbarium 20: 1-258.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[humulus-lupulus]].
 ---
 

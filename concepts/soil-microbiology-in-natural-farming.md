@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Soil Bacteria and Nitrogen Fixation
 
 Fukuoka reported finding approximately 100 million nitrogen-fixing bacteria per gram

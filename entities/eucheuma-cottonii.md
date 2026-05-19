@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Distribution and Habitat
 
 The species is naturally distributed in tropical waters of the Indo-West Pacific, including the Philippines, Indonesia, Malaysia, and the western Pacific Islands.

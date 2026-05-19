@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species colonizes dead and dying hardwood, particularly fallen branches and stumps of oak, beech, and birch. It fruits as tough, semicircular brackets with a distinctive zonate upper surface and a gray-to-cream pore layer underneath.
 
 C. unicolor has attracted significant industrial interest for its laccase production capacity, which rivals that of *[[fungal-laccase-and-textile-dye-decolorization]], and degradation of organic pollutants.

@@ -1,7 +1,7 @@
 ---
 title: mollison specialist tropical crops forest products Crops and Non-Timber Forest Products
 created: 2026-04-26
-tags: [tropical-crops, essential-oils, rubber, medicinal, [[mollison-tree-crop-systems-permaculture]]
+tags: [tropical-crops, essential-oils, rubber, medicinal, mollison-tree-crop-systems-permaculture
 - mollison-local-currency-and-informal-economy
 ---
 ## Background and Context

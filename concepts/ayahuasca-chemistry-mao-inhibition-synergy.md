@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## The Pharmacological Problem
 
 DMT is orally inactive when taken alone. This is because monoamine oxidase

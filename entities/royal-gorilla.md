@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The strain is notable for its exceptionally high THC content (often exceeding
 25%) combined with meaningful CBD levels (1–3%), making it one of the few
 commercially available high-THC strains that retains therapeutic CBD. Users

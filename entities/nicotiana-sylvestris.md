@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It is prized in ornamental horticulture for its tall, elegant habit and intensely fragrant, tubular white flowers that open in the evening.
 
 The species is of significant scientific importance as the maternal parent of [[chiric-caspi-brunfelsia-south-american-hallucinogen]] group within the genus.

@@ -1,7 +1,7 @@
 ---
 title: Fukuoka Natural Grazing Ideal
 created: 2026-04-28
-tags: [fukuoka, [[comparison-natural-farming-vs-permaculture]], [[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]]. Cattle, pigs, and chickens fattened while free to roam at will
+tags: [fukuoka, comparison-natural-farming-vs-permaculture, fukuoka-textdoc-livestock-open-grazing-forest-pasture-method. Cattle, pigs, and chickens fattened while free to roam at will
 on the open land under the sun's rays are a precious, irreplaceable source of
 food for man. The problem lies elsewhere, in the prejudiced view that sees
 [[doc]]

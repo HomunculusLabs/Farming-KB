@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 *Dactylorhiza fuchsii* is an allotetraploid species (2n = 80), originating from ancient hybridization between diploid ancestors. This polyploid origin contributes to its ecological versatility and morphological variability.
 
 The species plays an important role in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].

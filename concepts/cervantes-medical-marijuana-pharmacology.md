@@ -2,9 +2,9 @@
 title: "Cervantes Medical Marijuana Pharmacology"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-
 
 ## Historical Context
 

@@ -5,7 +5,7 @@ updated: "2026-04-24"
 sources:
   - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
 type: concept
-tags: [medicine, [[ganoderma-lucidum]] (Reishi or Ling Zhi) has the longest historical usage of
+tags: [medicine, ganoderma-lucidum (Reishi or Ling Zhi) has the longest historical usage of
 any [[mycelium]] contain a rich array of [[tihkal-receptor-binding-serotonin]] overrides tumour resistance to iC3b-mediated
     cytotoxicity, allowing complement system function against tumours
   - Macrophage activation causes anti-proliferation and apoptosis in

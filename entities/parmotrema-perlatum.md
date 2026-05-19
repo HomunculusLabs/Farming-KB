@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Elevation range extends from sea level to approximately 1500 m in montane habitats.
 
 ## Chemistry and Bioactivity

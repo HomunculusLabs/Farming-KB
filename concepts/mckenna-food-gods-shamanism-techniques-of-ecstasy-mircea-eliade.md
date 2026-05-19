@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Eliade's "Techniques of Ecstasy"
 
 The foundational scholarly treatment of shamanism remains Mircea

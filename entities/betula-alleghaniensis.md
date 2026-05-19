@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is named for the Allegheny Mountains where it was first documented. It is easily recognized by its distinctive golden-bronze, peeling bark on mature specimens, which contrasts with the white bark of paper birch.
 
 Yellow birch typically occurs in cool, moist northern hardwood forests alongside sugar maple, American beech, and eastern hemlock. It is a slow-growing, long-lived species reaching ages of 150–200+ years.

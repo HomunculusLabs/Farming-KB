@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Scattered populations have been reported from the Pacific Northwest of North America, but the species is far less common west of the continental divide.
 
 The species is characteristically found on the bark of deciduous trees, especially Acer, Quercus, Fraxinus, and Fagus. It shows a strong preference for smooth to moderately rough bark with moderate light levels.

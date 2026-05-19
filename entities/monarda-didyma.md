@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 **Antioxidant activity:** The essential oil demonstrates significant free radical scavenging activity in DPPH and ABTS assays, primarily attributed to the phenolic terpenoids.
 
 **Anti-inflammatory:** Extracts inhibit cyclooxygenase-2 (COX-2) and 5-lipoxygenase pathways in vitro, suggesting potential for managing [[halpern-sacramental-peyote-and-native-american-church]] uses included:

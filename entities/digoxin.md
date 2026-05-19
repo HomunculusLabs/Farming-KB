@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Digoxin acts by inhibiting the sodium-potassium ATPase (Na+/K+-ATPase) on
 cardiac myocytes, which indirectly increases intracellular calcium concentration
 and enhances myocardial contractility. Despite decades of use, it remains one

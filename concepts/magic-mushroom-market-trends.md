@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Market Development Timeline
 
 ### Phase 1: Wild Picking (Pre-1990s)

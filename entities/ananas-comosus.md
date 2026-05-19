@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Morphology
 
 **Classification:** Plantae → Tracheophyta → Liliopsida → Poales → Bromeliaceae → *Ananas comosus* (L.) Merr. The species was originally described by Carl Linnaeus as *Bromelia comosus* in 1753 and transferred to *Ananas* by Elmer Merrill in 1917.

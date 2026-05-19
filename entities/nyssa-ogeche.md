@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The tree typically grows 9 to 15 meters tall with a narrow, conical crown. The trunk is straight and can reach 50 to 60 centimeters in diameter at maturity.
 
 Bark is dark gray to brown, developing deep fissures and ridges with age. Young bark is relatively smooth with scattered lenticels.

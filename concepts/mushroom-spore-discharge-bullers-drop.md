@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## The Fruiting Body as a Spore-Production Device
 
 Umbrella- and bracket-shaped mushrooms maximize their spore-producing capacity

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Medicinal Properties
 
 - **Sedative and anxiolytic:** Hops pillows (stuffed with dried cones) are a

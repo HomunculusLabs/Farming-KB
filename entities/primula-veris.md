@@ -1,3 +1,8 @@
+---
+title: "Primula Veris"
+tags: [wiki]
+sources: []
+---
 
 Cowslip is easily recognized by its umbel of nodding, fragrant yellow flowers. It is a classic indicator species of species-rich old meadows and unimproved pastures.
 
@@ -133,4 +138,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[primula-auricula]]
-

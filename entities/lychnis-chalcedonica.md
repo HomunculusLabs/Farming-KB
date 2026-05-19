@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Maltese cross is valued for its bold vertical accent in perennial borders and cottage gardens. The species blooms prolifically from early to midsummer, with occasional reblooming if spent flowers are removed.
 
 ## Taxonomy and Morphology

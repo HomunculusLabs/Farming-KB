@@ -142,18 +142,9 @@ fungi, they digest what they need for their own metabolism — about 30 to 40
 percent of the nitrogen — and excrete the remaining 60 to 70 percent as
 waste, primarily as ammonium (NH₄⁺). This ammonium is immediately available
 for plant uptake.
-
-The mineralization happens right in the rhizosphere, the zone of root
-absorption, exactly where plants can use it. Without protozoa performing
-this function, nutrients remain locked inside microbial biomass in forms
-that plant roots cannot absorb.
-
 ## See Also
 
-- [[soil-food-web]]
-- [[protozoa-roles-in-soil]]
-- [[nematodes-in-soil-ecology]]
-- [[ingham-protozoa-soil-food-web-nutrient-cycling]]
-- [[teaming-with-microbes-protozoa]]
-- [[earthworms-soil-food-web]]
 - [[soil-protozoa-ecology-trophic-interactions]]
+- [[protozoa-in-soil]]
+- [[protozoa-roles-in-soil]]
+- [[soil-life-and-underground-ecology]]

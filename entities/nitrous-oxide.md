@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Chemical Properties
 
 Nitrous oxide has the molecular formula N₂O, a molecular weight of 44.01 g/mol,

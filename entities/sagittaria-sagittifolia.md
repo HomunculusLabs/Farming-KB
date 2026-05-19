@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 **Inflorescences** are racemose, rising on erect peduncles 20–80 cm above the water. Each peduncle bears 3–12 whorls of flowers, with female flowers in the lower whorls and male flowers in the upper whorls.
 
 Flowers are 1.5–2.5 cm in diameter with three white petals and three green sepals. Male flowers have numerous yellow stamens while female flowers have a dense cluster of free carpels.

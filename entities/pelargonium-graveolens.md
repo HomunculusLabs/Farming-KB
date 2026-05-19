@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is distinguished by its deeply lobed, velvety leaves and
 intensely fragrant foliage. Its essential oil profile closely resembles
 that of rose oil, making it an economical alternative in fragrance

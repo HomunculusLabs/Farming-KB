@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bean, W.J. (1973). [[nitrogen-fixing-trees-and-shrubs]] Hardy in the British Isles, 8th ed. John Murray.
+  - Bean, W.J. (1973). nitrogen-fixing-trees-and-shrubs Hardy in the British Isles, 8th ed. John Murray.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
   - Royal Horticultural Society (2024). "Weigela." https://www.rhs.org.uk/
   - Krüssmann, G. (1984). Manual [[classification-of-cultivated-mushroom-species]] Broad-Leaved [[neurotropic-fungi-japan-east-asia-species-cultural-context]], belonging to

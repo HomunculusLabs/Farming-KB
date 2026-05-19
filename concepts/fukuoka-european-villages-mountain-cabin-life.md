@@ -3,7 +3,7 @@ title: [[fukuoka-european-agriculture-observations]] Villages Mountain Cabin Lif
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, [[acacia]], and other trees, then they have everything they need around the year for food, clothing, shelter, and fuel.
+tags: [fukuoka, acacia, and other trees, then they have everything they need around the year for food, clothing, shelter, and fuel.
 ---
 
 - There is nothing else that is needed

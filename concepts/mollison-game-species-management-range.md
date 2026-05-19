@@ -1,7 +1,7 @@
 ---
 title: mollison game species management range on Range
 created: 2026-04-26
-tags: [wildlife, game-management, range, [[pasture-management]]
+tags: [wildlife, game-management, range, pasture-management
 - Mollison Zone 4 foraging systems
 - mollison-design-criteria-and-aboriginal-ecological-wisdom
 ---

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species has been utilized by coastal communities for millennia across its range. Archaeological evidence from Southeast Asia suggests nipa palm exploitation dates back at least 3,000 years.
 
 ## Taxonomy and Morphology

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Beyond its role as a food irritant, capsaicin has significant [[psilocybin-therapeutic-applications]] as a topical analgesic and anti-inflammatory agent. Capsaicin and related capsaicinoids are responsible for the heat sensation measured by the Scoville scale.
 
 ## Chemical Properties

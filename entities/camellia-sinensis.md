@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The plant has been cultivated for over 5,000 years, making it one of humanity's oldest crop species. Its global economic importance is immense, with tea ranking as the second most consumed beverage worldwide after water.
 
 ## Taxonomy and Morphology

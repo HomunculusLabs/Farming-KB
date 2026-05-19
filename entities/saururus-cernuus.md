@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species grows in shallow water and saturated soils along stream banks, marshes, swamps, and pond margins. It forms dense colonies through creeping rhizomes and can dominate wetland understories where conditions are favorable.
 
 Lizard's tail produces white, fragrant flowers arranged on a distinctive curved spike from June through September. The flowers attract a variety of insect pollinators and the foliage provides habitat for aquatic invertebrates.

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The [[wine-cap]] has become one of the most significant fungi [[fungal-nematode-predation-and-trapping-mechanisms]], and plant growth promotion. It is arguably the single best mushroom species for integration into home gardens, food forests, and broad-acre [[permaculture]] systems.
 
 ## Taxonomy and Identification

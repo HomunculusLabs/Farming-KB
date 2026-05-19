@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Morphology
 
 Borassus aethiopum belongs to the family Arecaceae, subfamily Coryphoideae, tribe Borasseae. The species was first described by Carl Friedrich von Gaertner in 1788 under the name Palma aethiopum.

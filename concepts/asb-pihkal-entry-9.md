@@ -1,7 +1,7 @@
 ---
 title: ASB (Asymbescaline) - 2c-b-pihkal-entry-20 #9
 created: 2026-04-28
-tags: [pihkal, phenethylamine, [[2c-b-pihkal-entry-20]] #9**
+tags: [pihkal, phenethylamine, 2c-b-pihkal-entry-20 #9**
 ---
 
 ## Chemical Identity

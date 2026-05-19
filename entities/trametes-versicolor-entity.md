@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Classification
 
 - **Kingdom:** Fungi → **Division:** [[basidiomycota]] → **Class:** Agaricomycetes

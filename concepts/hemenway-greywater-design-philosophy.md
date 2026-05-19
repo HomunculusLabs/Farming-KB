@@ -1,7 +1,7 @@
 ---
 title: hemenway greywater design philosophy Philosophy
 created: 2026-04-26
-tags: [greywater, water, ecology, recycling, [[toby-hemenway]] presents greywater not merely as a plumbing
+tags: [greywater, water, ecology, recycling, toby-hemenway presents greywater not merely as a plumbing
 technique but as a design philosophy rooted in ecological
 principles. Reusing household wastewater closes a critical
 loop in the garden ecosystem, transforming waste into fertility

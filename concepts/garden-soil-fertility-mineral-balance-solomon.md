@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## The Mineral Depletion Problem
 
 Studies cited by Solomon, including USDA research tracking nutrient

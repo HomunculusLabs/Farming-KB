@@ -1,7 +1,7 @@
 ---
 title: "Fukuoka Sunken Hearth and Village Philosophy"
 source: The Natural Way of Farming - [[masanobu-fukuoka]]
-tags: [fukuoka, [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]'s account of Japanese farming village culture is not mere nostalgia.
+tags: [fukuoka, fukuoka-textdoc-natural-paddy-farm-establishment-method's account of Japanese farming village culture is not mere nostalgia.
 It is a philosophical argument about the nature of wisdom, the meaning of
 Mu ([[cho-loess-powder-in-natural-farming]] is a Buddhist [[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ing, singing
 voices rolled over the paddy fields, and the sound of drums surged through

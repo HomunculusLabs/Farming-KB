@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 - **[[sfv-og]] Kush** (pollen parent): An indica-dominant phenotype of OG Kush
   originating from California's San Fernando Valley. Provides the foundational
   Kush [[sensi-star]] and [[sour-diesel]]. Contributes

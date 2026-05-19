@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The compound acts primarily as a 5-HT2A receptor agonist, producing visual and cognitive effects similar to DMT but with a longer duration and different character.
 
 DET occurs rarely in nature, having been detected in trace amounts in certain plant species and as a possible minor alkaloid in some *[[acacia]]* species.

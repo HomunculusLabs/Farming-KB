@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The compound emerged as a designer drug in the United Kingdom around 2010, marketed
 initially as a "research chemical" and sold through online vendors. It was developed
 as an alternative to MDMA following MDMA's scheduling and the scheduling of related

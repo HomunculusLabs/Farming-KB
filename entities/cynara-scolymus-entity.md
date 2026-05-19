@@ -2,7 +2,7 @@
 title: "Cynara scolymus"
 created: 2026-04-28
 type: species
-tags: [species, plant, herbal, [[silybum-marianum]] (milk thistle), another Asteraceae member renowned for hepatoprotective properties.
+tags: [species, plant, herbal, silybum-marianum (milk thistle), another Asteraceae member renowned for hepatoprotective properties.
 ---
 ## Taxonomy and Naming
 - **Kingdom:** Plantae

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The strain was developed by Alien Genetics and gained recognition for its exceptionally resinous buds and complex citrus-fuel aroma.
 
 Starfighter typically tests between 18–26% THC with minimal CBD content (<1%).

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 **Synonyms:**
 
 - Agaricus atramentarius Bull. (1786)

@@ -1,7 +1,7 @@
 ---
 title: Metzner Grof Perinatal Matrices And Transpersonal Realms
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-tags: [[stanislav-grof]]'s groundbreaking
+tags: stanislav-grof's groundbreaking
 discovery within [[metzner-sandoz-psycholytic-therapy-european-clinical-model]], patients were given LSD in a series of
 sessions at gradually increasing doses while undergoing analytic
 interactions using a Freudian perspective.

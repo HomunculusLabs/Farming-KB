@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The common name "liverleaf" refers to the three-lobed leaves, which resemble the shape of a human liver. In the medieval Doctrine of Signatures, this resemblance suggested the plant could treat liver ailments.
 
 This folk belief persisted into the 18th century despite a lack of pharmacological evidence. The genus name Hepatica itself is derived from the Latin *hepaticus* (of the liver).

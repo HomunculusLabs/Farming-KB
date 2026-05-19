@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Ecological Role
 
 *T. biforme* is a white-rot decomposer, playing a significant role in

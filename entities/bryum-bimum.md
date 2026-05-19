@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 *Bryum* is one of the largest moss genera with over 500 species worldwide,
 many of which are morphologically similar and difficult to distinguish. *B.
 bimum* belongs to a complex of closely related taxa including *B. bicolor*,

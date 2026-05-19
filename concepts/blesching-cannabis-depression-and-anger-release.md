@@ -1,7 +1,7 @@
 ---
 title: Cannabis, Depression, and Anger Release
 created: 2026-04-28
-tags: [cannabis, depression, anger, emotions, [[endocannabinoid-system],
+tags: [cannabis, depression, anger, emotions, endocannabinoid-system],
   mind-body-medicine, cb1-receptors, neurogenesis, antidepressant]
 date: 2026-04-28
 updated: 2026-04-28

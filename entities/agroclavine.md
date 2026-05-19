@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Agroclavine exhibits uterotonic, vasoconstrictive, and mild psychoactive
 properties, though its pharmacological potency is significantly lower
 than that of the peptide ergot alkaloids ([[ergotamine]], [[ergocristine]]).

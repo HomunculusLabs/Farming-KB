@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Trichome coverage is exceptional, coating buds in a thick, frosty layer
 of translucent and amber glandular trichomes. Pistils are abundant, long,
 and orange to rust-colored, weaving throughout the dense calyx structure.

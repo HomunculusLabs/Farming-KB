@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It is one of the earliest spring-fruiting [[ascomycota]]
 - **Subdivision:** Pezizomycotina
 - **Class:** Pezizomycetes

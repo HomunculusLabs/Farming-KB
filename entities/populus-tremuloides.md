@@ -1,3 +1,8 @@
+---
+title: "Populus Tremuloides"
+tags: [wiki]
+sources: []
+---
 
 It is the most widely distributed tree species on the continent, ranging from Alaska to Newfoundland and south to [[mollison-designers-food-forest-succession-design]] across boreal and montane landscapes.
 
@@ -131,4 +136,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Morphology
 
 Parsley grows 30–80 cm tall in its second year when flowering. The first-year rosette produces a dense cluster of tripinnate leaves 10–25 cm long with finely divided leaflets.

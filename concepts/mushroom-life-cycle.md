@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Spore Release and Dispersal
 
 For mushrooms to survive in a highly competitive world where legions of other

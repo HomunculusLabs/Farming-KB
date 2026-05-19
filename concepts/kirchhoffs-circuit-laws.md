@@ -1,7 +1,7 @@
 ---
 title: "Kirchhoff's Circuit Laws"
 aliases: [Kirchhoff laws, Kirchhoff current law, Kirchhoff voltage law, junction rule, loop rule]
-tags: [electrical-engineering, circuits, electromagnetism, [[mycelial-network-graph-theory-analysis|network]].
+tags: [electrical-engineering, circuits, electromagnetism, mycelial-network-graph-theory-analysis|network.
 ---
 
 ## Voltage Law

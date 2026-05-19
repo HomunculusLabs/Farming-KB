@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Sugarberry typically reaches 15–25 meters in height with a trunk diameter of 40–80 cm. It develops a broad, rounded to vase-shaped crown with arching branches. In open positions, the crown spreads wider than it is tall.
 
 Champion specimens have exceeded 30 meters in height with trunk diameters over 1 meter. The tree is relatively fast-growing, especially when young, with [[dighton-fungal-drought-tolerance-plant-water-relations]] and wind resistance. This deep root system also makes established trees difficult to transplant successfully.

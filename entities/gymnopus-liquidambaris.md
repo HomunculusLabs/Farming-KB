@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Originally described by [[rolf-singer]] in the genus *Marasmius*, it was transferred to *Gymnopus* following taxonomic revisions that redefined generic boundaries within the Marasmiaceae complex.
 
 The species is notable for its ability to persist through dry periods, reviving rapidly when rehydrated — a characteristic "marasmioid" trait that allows it to fruit year-round in suitable habitats.

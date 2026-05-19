@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Distribution and Habitat
 
 Caulerpa species are predominantly tropical and subtropical, found in shallow

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Unlike benzylisoquinoline opium alkaloids, glaucine belongs to the aporphine structural class, formed by oxidative coupling of benzylisoquinoline precursors.
 
 The compound is of interest as a potential non-opioid antitussive agent that avoids the side effects associated with codeine and [[dextromethorphan]].

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Historical Context
 
 For decades, phytohormones were assumed to function exclusively within

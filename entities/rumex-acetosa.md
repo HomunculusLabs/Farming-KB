@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Culinary Uses
 
 Sorrel is used extensively in European cuisines, particularly

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is named for its distinctive inflorescence, which resembles a bottlebrush or bristly caterpillar with long, straight awns extending outward from a dense spike.
 
 Bottlebrush grass is valued in native plant landscaping and woodland restoration for its shade tolerance and unusual flower form.

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Taxonomy and Classification
 
 Division: [[ascomycota]] → Subdivision: Pezizomycotina → Class: Sordariomycetes → Order:

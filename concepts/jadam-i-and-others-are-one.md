@@ -3,7 +3,7 @@ title: JADAM I and Others Are One
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [jadam, [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] often contains antibiotics
+tags: [jadam, fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic often contains antibiotics
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and toxins accumulate
 ---
 

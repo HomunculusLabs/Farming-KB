@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Beyond plastic degradation, P. microspora produces diverse **secondary
 metabolites** with antimicrobial and antitumor properties. As an endophyte,
 it forms asymptomatic associations with living plant tissues across tropical

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese [[natural-farming]] ([[masanobu-fukuoka]]), [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 ## Core Philosophy

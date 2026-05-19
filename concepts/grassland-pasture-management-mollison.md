@@ -3,7 +3,7 @@ title: Grassland and pasture-management (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[bill-mollison]],
+tags: bill-mollison,
 Section 12.12 (pp. 436-439)
 ---
 ## The Importance of Grasslands

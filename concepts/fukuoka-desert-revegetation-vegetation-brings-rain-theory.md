@@ -2,9 +2,9 @@
 title: "Fukuoka Desert Revegetation Vegetation Brings Rain Theory"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
-
 
 ## The Transpiration-Precipitation Feedback Loop
 

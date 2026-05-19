@@ -1,7 +1,7 @@
 ---
 title: Pituri Duboisia in Plants of the Gods
 created: 2026-04-28
-tags: [ethnobotany, pituri, duboisia, australia, [[duboisia-hopwoodii]], has been of
+tags: [ethnobotany, pituri, duboisia, australia, duboisia-hopwoodii, has been of
 central importance in Australian Aboriginal society for at least 40,000
 years. In *Plants of the Gods*, Schultes, Hofmann, and Ratsch document
 Pituri as a substance for social enjoyment, a shamanic magic drug,

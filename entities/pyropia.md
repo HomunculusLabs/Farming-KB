@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The blade is attached to substrate by a small basal holdfast and expands
 through marginal cell division. This pattern produces the characteristic
 lanceolate to broadly ovate shape of nori fronds.

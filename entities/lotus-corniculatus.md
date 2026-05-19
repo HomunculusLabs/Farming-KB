@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Grows in a wide range of habitats: grasslands, meadows, roadsides,
 pastures, and disturbed sites. Tolerates poor, acidic, and shallow soils
 better than most forage legumes. Found from sea level to 2,500 m.

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 Ergocryptine exists in two epimeric forms: α-ergocryptine and
 β-ergocryptine (also called ergocristinine), differing in stereochemistry
 at the α-carbon of the cyclol tripeptide moiety. The α-epimer is the

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is most widely recognized for its large, heart-shaped leaves that emit a distinctive anise-like aroma when crushed. This characteristic scent is primarily due to the presence of safrole in its essential oil.
 
 Hoja santa has been used for centuries in Mesoamerican cuisine, most notably as a wrapping for tamales and as a flavoring agent in soups, stews, and sauces. Its culinary importance rivals that of its close relative, black pepper (*Piper nigrum*), within its native range.

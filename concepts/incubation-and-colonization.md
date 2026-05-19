@@ -1,7 +1,7 @@
 ---
 title: incubation and colonization
 created: 2026-04-28
-tags: [incubation, [[dual-chambered-terrarium-fruiting]] for the
+tags: [incubation, dual-chambered-terrarium-fruiting for the
 fruiting cycle.
 ---
 

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 It is the second most widely cultivated coffee species in the world after [[biodiversity-fungal-genetic-diversity]] is in the Democratic Republic of the Congo, Uganda, and Cameroon.
 
 It grows as an understory shrub in its native habitat, tolerating partial shade and higher temperatures than C. arabica.

@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species is widespread across temperate Europe and Asia. It has a long history of use in European folk medicine as an astringent, carminative, and wound-healing herb.
 
 Recent pharmacological studies have confirmed antimicrobial, antioxidant, and anti-inflammatory properties of its essential oil and extracts.

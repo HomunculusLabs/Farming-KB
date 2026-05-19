@@ -1,3 +1,8 @@
+---
+title: "Pf Tek Steam Sterilization Jar Preparation"
+tags: [wiki]
+sources: []
+---
 
 The steamer pot provides the enclosed environment necessary to generate and
 maintain steam at atmospheric pressure throughout the [[sterilization]] cycle.
@@ -140,4 +145,3 @@ Monitoring integration outcomes supports adaptive management.
 - [[herbal-steam-inhalation]]
 - [[growing-gourmet-phase-ii-steam-pasteurization]]
 - [[trace-water-flash-steam-microwave-sterilization]]
-

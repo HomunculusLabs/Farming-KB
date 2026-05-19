@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 The species typically grows 1 to 2 meters tall and 60 to 100 centimeters in diameter, with prominent ribs armed with heavy, hooked central spines. It is a long-lived species, with individual plants reaching 100 years or more in age under favorable conditions.
 
 Ferocactus wislizeni is valued as an ornamental desert plant and has limited ethnobotanical uses. The species is named in honor of Frederick Adolph Wislizenus, a German-American physician and botanist who collected plants in the American Southwest and Mexico during the mid-19th century.

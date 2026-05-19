@@ -5,7 +5,6 @@ tags: []
 sources: []
 ---
 
-
 ## Chemical Properties
 
 **Molecular formula:** C15H14BrNO2. **Molecular weight:** 320.19 g/mol.

@@ -3,7 +3,7 @@ title: JADAM jadam canola oil surfactant method Surfactant Method
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [jadam, [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) is a natural surfactant made from canola oil and potassium hydroxide (caustic potash). It is the most critical ingredient in [[soybean-oil-wastewater-fungi]] because it produces better wetting power. Canola oil creates a more effective surfactant that spreads more evenly on plant surfaces.
+tags: [jadam, jadam-nutrient-management-wetting-agent-and-calcium (JWA) is a natural surfactant made from canola oil and potassium hydroxide (caustic potash). It is the most critical ingredient in soybean-oil-wastewater-fungi because it produces better wetting power. Canola oil creates a more effective surfactant that spreads more evenly on plant surfaces.
 ---
 
 ### GMO Concern
