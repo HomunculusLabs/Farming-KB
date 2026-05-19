@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-Mycopesticides are biopesticides derived from [[cannabis-pest-management-guide]], with the potential to replace toxic chemical treatments across agriculture, forestry, and structural [[escovopsis-parasitic-fungi-attine-ant-gardens]] prior to sporulation acts as a Trojan horse, attracting rather than repelling its insect victims. This was a discovery that Stamets believed could retool the entire pesticide industry. After treatment, the parasitized insect carcasses became moldy from the repellent spores, providing a resident protective shield against subsequent invasions.
+Mycopesticides are biopesticides derived from [[cannabis-pest-management]], with the potential to replace toxic chemical treatments across agriculture, forestry, and structural [[escovopsis-parasitic-fungi-attine-ant-gardens]] prior to sporulation acts as a Trojan horse, attracting rather than repelling its insect victims. This was a discovery that Stamets believed could retool the entire pesticide industry. After treatment, the parasitized insect carcasses became moldy from the repellent spores, providing a resident protective shield against subsequent invasions.
 
 ## Entomopathogenic Fungi
 

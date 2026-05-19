@@ -31,7 +31,7 @@ Stem cuttings involve removing a piece of stem with at least one node and encour
 Softwood cuttings come from new spring growth and root quickly but are delicate.
 Semi-hardwood cuttings taken in midsummer offer a good balance of flexibility and toughness.
 Hardwood cuttings from dormant winter wood are the most durable but take longer to root.
-The [[cannabis-cloning-guide]].
+The [[cannabis-cloning]].
 
 ### Rooting Hormones and Root Development
 

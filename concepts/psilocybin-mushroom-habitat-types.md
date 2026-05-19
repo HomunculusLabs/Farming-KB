@@ -99,12 +99,12 @@ High-altitude grasslands support specialized species:
 - Habitat knowledge is essential for safe identification. Many deadly poisonous mushrooms share habitats with psilocybin species.
 - The greatest risk in dung habitats is confusion with *Panaeolus* species, some of which are toxic.
 - In grasslands, psilocybin species can be confused with various toxic *Galerina* and *Inocybe* species that share similar niches.
-- See [[psilocybin-mushroom-identification-guide]] for identification features and [[psychedelic-harm-reduction]] for safety practices.
+- See [[psilocybin-mushroom-identification]] for identification features and [[psychedelic-harm-reduction]] for safety practices.
 
 ## Related Topics
 
 - [[psilocybin-mushroom-global-distribution]] for geographic range
-- [[psilocybin-mushroom-identification-guide]] for field identification
+- [[psilocybin-mushroom-identification]] for field identification
 - [[psychedelic-mushroom-pharmacology]] for the active compounds
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

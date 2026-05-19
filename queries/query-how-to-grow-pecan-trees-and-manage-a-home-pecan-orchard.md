@@ -73,7 +73,7 @@ Aphids excrete honeydew that fuels sooty mold growth on leaves and nuts, reducin
 Their deep root systems access water and minerals that shallow-rooted understory plants cannot reach.
 The dappled shade beneath mature pecans supports a productive understory of fruiting shrubs, herbs, and ground covers.
 
-Companion plants for a pecan-based guild include [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[food-forest-design-guide|food forest]] requires planning for the tree's mature size from the start.
+Companion plants for a pecan-based guild include [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[food-forest-design|food forest]] requires planning for the tree's mature size from the start.
 Position pecans on the north side of the property in warmer climates so their shade does not shade out sun-loving crops.
 Use the zone between young trees for annual vegetables or cover crops while waiting for the canopy to close.
 

@@ -31,7 +31,7 @@ granite, sandstone, basalt, andesite, and gneiss. Lichen symbioses with
 algae or cyanobacteria represent one of the most successful strategies for
 fungal survival in extreme sub-aerial environments and are extremely
 biogeochemically active. Oligotrophic rock-dwelling fungi scavenge nutrients
-from air, rainwater, organic residues on [[fungal-metal-redox-transformations-detailed]]). Acidolysis occurs when fungi
+from air, rainwater, organic residues on [[fungal-metal-redox-transformations]]). Acidolysis occurs when fungi
 acidify their microenvironment through proton excretion, organic acid
 secretion, and carbonic acid formation from respiratory CO2. Complexolysis
 involves the excretion of metal-complexing metabolites including carboxylic

@@ -70,7 +70,7 @@ refrigeration, dairy thermometers, laboratory milk tests, and [[goat-cheese-maki
 kefir making
 [[dairy-and-cheesemaking]]
 [[homestead-dairy-equipment]]
-[[goat-keeping-guide]]
+[[goat-keeping]]
 [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]].
 
 Mollison, Bill. Permaculture: A Designers' Manual.

@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-[[maitake-cultivation-guide]] are two prized
+[[maitake-cultivation]] are two prized
 Asian gourmet mushrooms with deep culinary and cultural roots in Japan.
 Nameko (Pholiota nameko) is a small, amber-capped mushroom prized for
 its distinctive gelatinous coating and nutty flavor, ranking as Japan's
@@ -22,7 +22,7 @@ yield expectations, and market positioning.
 
 ## Nameko Cultivation
 
-[[maitake-cultivation-guide]]
+[[maitake-cultivation]]
 
 Maitake is among the most challenging [[fungi-cultivated-mushrooms-pathogens-competitors]], demanding
 precise [[chen-maitake-growth-parameters-environmental-control]] throughout its extended growth cycle.
@@ -109,6 +109,6 @@ nameko is somewhat more tolerant than the highly aerobic maitake.
 
 ## See Also
 
-- [[maitake-cultivation-guide]]
+- [[maitake-cultivation]]
 - [[comparison-maitake-vs-shiitake-cultivation]]
 - [[mushroom-cultivation-basics]]

@@ -99,7 +99,7 @@ The delayed action of amatoxins means they cannot function as effective deterren
 
 ## Amanita Muscaria (Fly Agaric)
 
-**Active compounds**: Muscimol (sedates nervous system by binding to GABA receptors) and ibotenic acid (excites nervous system by binding to glutamate receptors). See [[amanita-muscaria-guide]] for full details.
+**Active compounds**: Muscimol (sedates nervous system by binding to GABA receptors) and ibotenic acid (excites nervous system by binding to glutamate receptors). See [[amanita-muscaria]] for full details.
 
 ## Aflatoxins (Mycotoxins from Molds)
 
@@ -141,7 +141,7 @@ Caused by inhaling massive quantities of puffball (*Lycoperdon*) spores. In 1994
 4. LBMs (little brown mushrooms) on wood should always be treated with extreme suspicion — deadly galerinas grow in the same habitat as edible species
 5. Immigrants who forage based on species familiarity from their home country are at elevated risk — *Volvariella volvacea* (paddy straw mushroom) resembles deadly *Amanita* species
 
-See also [[mushroom-identification]], [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria-guide]], [[mushroom-identification-resources]]
+See also [[mushroom-identification]], [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria]], [[mushroom-identification-resources]]
 
 ## Related
 

@@ -15,7 +15,7 @@ Psychedelic compounds occur naturally across a wide range of plant families, fun
 
 ## Mescaline-Containing Cacti
 
-- **Lophophora williamsii** (peyote) -- 1-6% mescaline; see [[psilocybin-mushroom-identification-guide]] guide
+- **Lophophora williamsii** (peyote) -- 1-6% mescaline; see [[psilocybin-mushroom-identification]] guide
 - [[salvia-divinorum-profile]] — [[golden-guide-salvia-divinorum-and-diviner-sage]] Profile
 - gartz-magic-mushrooms-global-distribution-patterns
 ## Practical Applications

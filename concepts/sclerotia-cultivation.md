@@ -61,7 +61,7 @@ Grass seed (particularly rye grass, *Lolium perenne*) is the preferred substrate
 
 ## Inoculation and Colonization
 
-- Inoculate with spore syringe, mycelium syringe, or agar squares (see [[mushroom-sterile-technique-detailed]])
+- Inoculate with spore syringe, mycelium syringe, or agar squares (see [[mushroom-sterile-technique]])
 - Work clean — even a cardboard box hood prevents drafts and contamination
 - Flame-sterilize needles and scalpels before use
 - After inoculation, close lids, shake jars, then **loosen lids again** for gas exchange
@@ -138,7 +138,7 @@ Mix ingredients dry, then add water while stirring until maximum moisture withou
 
 - [[psilocybin-mushroom-cultivation]] — Fruiting body methods and species parameters
 - [[mushroom-substrates]] — Detailed substrate science and formulations
-- [[mushroom-sterile-technique-detailed]] — Contamination prevention
+- [[mushroom-sterile-technique]] — Contamination prevention
 - [[psilocybin-mushroom-chemistry]] — Potency data for sclerotia-producing species
 - [[mushroom-spawn-making-detailed]] — Grain spawn preparation methods
 - [[monotub-cultivation]] — Alternative indoor bulk method

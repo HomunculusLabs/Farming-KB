@@ -75,6 +75,6 @@ another. This unpredictability is a major factor in its dangerous profile.
 - [[goat-husbandry]]
 - [[md-family-structure-activity]]
 - [[permaculture-design-concepts-and-methods-overview]]
-- [[permaculture-design-principles-overview]]
+- [[permaculture-design-principles]]
 - [[permaculture-principle-design-from-patterns-to-details]]
 Further research may reveal additional applications and ecological relationships.

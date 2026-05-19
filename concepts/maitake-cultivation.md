@@ -117,7 +117,7 @@ Maitake is extensively studied as a [[medicinal-mushroom-guide-maitake]]:
 
 ## See Also
 
-- [[maitake-cultivation-guide]]
+- [[maitake-cultivation]]
 - [[maitake-mushroom-research]]
 - [[medicinal-mushroom-guide-maitake]]
 - [[mushroom-cultivation-basics]]

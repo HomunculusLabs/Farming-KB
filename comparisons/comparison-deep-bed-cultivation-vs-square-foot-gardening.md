@@ -35,7 +35,7 @@ quality.
 | Soil medium | Native soil improved with compost | Imported mix (compost, coir, vermiculite) |
 | Setup labor | High (double-digging is physically demanding) | Moderate (building frames, mixing soil) |
 | Ongoing labor | Top-dress compost annually | Replant squares immediately after harvest |
-| Ideal crops | [[raised-bed-gardening]] — [[sheet-mulching-guide]] — no-dig alternative for [[cover-crops]] — soil building between crops in deep bed systems
+| Ideal crops | [[raised-bed-gardening]] — [[sheet-mulching]] — no-dig alternative for [[cover-crops]] — soil building between crops in deep bed systems
 - saffron cultivation and harvesting
 
 ## Overview

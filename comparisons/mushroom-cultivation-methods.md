@@ -29,7 +29,7 @@ sources:
 
 # Mushroom Cultivation Methods Comparison
 
-Mushroom cultivation methods range from simple outdoor beds requiring no equipment to sterile indoor techniques demanding precision and investment. The right method depends on your species of interest, budget, available space, and skill level. This comparison covers eight major approaches synthesized from [[pf-tek-guide]], [[monotub-cultivation]], [[outdoor-mushroom-bed]], [[outdoor-wood-lover-cultivation]], [[mushroom-substrates]], [[mushroom-log-cultivation]], and [[straw-cultivation-methods]].
+Mushroom cultivation methods range from simple outdoor beds requiring no equipment to sterile indoor techniques demanding precision and investment. The right method depends on your species of interest, budget, available space, and skill level. This comparison covers eight major approaches synthesized from [[pf-tek]], [[monotub-cultivation]], [[outdoor-mushroom-bed]], [[outdoor-wood-lover-cultivation]], [[mushroom-substrates]], [[mushroom-log-cultivation]], and [[straw-cultivation-methods]].
 
 The fundamental tradeoff is control vs. simplicity. Indoor methods (PF TEK, monotub, sawdust blocks) offer environmental control and faster results but require sterile technique and equipment investment. Outdoor methods (beds, logs) leverage natural weather cycles and require minimal equipment but are slower and yield inconsistently. The best approach for most homestead growers is to start with an easy outdoor method while building skills for indoor cultivation.
 
@@ -49,7 +49,7 @@ The fundamental tradeoff is control vs. simplicity. Indoor methods (PF TEK, mono
 ## Method Details
 
 ### PF TEK (BRF Cakes)
-The classic beginner method from [[pf-tek-guide]]. Uses brown rice flour and vermiculite in half-pint jars with a dry vermiculite contamination barrier. Steam sterilized (no pressure cooker needed). Inoculated with spore syringe. Best for learning sterile technique and growing P. cubensis. Low yield per jar but very reliable. Core innovation: the dry vermiculite barrier replaces complex sterile procedures, making cultivation accessible without a pressure cooker or flow hood.
+The classic beginner method from [[pf-tek]]. Uses brown rice flour and vermiculite in half-pint jars with a dry vermiculite contamination barrier. Steam sterilized (no pressure cooker needed). Inoculated with spore syringe. Best for learning sterile technique and growing P. cubensis. Low yield per jar but very reliable. Core innovation: the dry vermiculite barrier replaces complex sterile procedures, making cultivation accessible without a pressure cooker or flow hood.
 
 ### Monotub (Bulk Substrate)
 The most popular indoor method from [[monotub-cultivation]]. Grain spawn is mixed with pasteurized coco coir/vermiculite/gypsum (CVG) in a modified plastic tote. Self-contained colonization and fruiting chamber. Produces significantly higher yields than PF TEK. Requires pressure cooker for grain spawn preparation. Spawn ratio of 1:2 (spawn:bulk) is standard. Multiple flushes (3-5) are typical before the substrate is exhausted.
@@ -86,7 +86,7 @@ For homestead integration, outdoor wine cap and king stropharia beds are the bes
 
 - [[mushroom-cultivation-basics]] — Stamets' 10-step cultivation process
 - [[mushroom-substrates]] — Substrate science and preparation
-- [[pf-tek-guide]] — Complete PF TEK documentation
+- [[pf-tek]] — Complete PF TEK documentation
 - [[monotub-cultivation]] — Monotub setup and management
 - [[outdoor-mushroom-bed]] — Outdoor bed construction and species selection
 - [[outdoor-wood-lover-cultivation]] — Woodlover bed specifics

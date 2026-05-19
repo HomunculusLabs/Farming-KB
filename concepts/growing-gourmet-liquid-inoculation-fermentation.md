@@ -100,7 +100,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[growing-gourmet-stamets-p-value-strain-age-system]]
 - [[hamilton-ornamental-bulbs-growing]]
 - [[jadam-animal-byproduct-liquid-fertilizer]]
-- [[mycorrhizal-inoculation-guide]]
+- [[mycorrhizal-inoculation]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

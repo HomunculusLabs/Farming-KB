@@ -17,7 +17,7 @@ Growing cereal grains in trays for 7-10 days to produce green fodder:
 - **Yield:** 1 lb of seed produces 6-8 lbs of fodder
 - **Space:** 100 sq ft of tray space feeds 2-3 adult goats or 1 cow daily
 - **Cycle:** 7-10 days from seed to feed; harvest daily for continuous supply
-- **Infrastructure:** Trays, rack system, automatic watering, [[rabbit-husbandry-guide]])
+- **Infrastructure:** Trays, rack system, automatic watering, [[rabbit-husbandry]])
 
 ## Field Fodder Production
 

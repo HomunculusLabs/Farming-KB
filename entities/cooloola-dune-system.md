@@ -22,7 +22,7 @@ The Cooloola dune system is a coastal sand mass in Queensland, Australia, cited 
 - Now part of Great Sandy National Park (K'gari/Fraser Island region)
 - Connects to the Law of Return and the Directive of Return in [[fukuoka-monoculture-meat-based-agricultural-system]]
 - [[blesching-cannabis-oxytocin-endocannabinoid-system]]
-- [[cannabis-endocannabinoid-system-overview]]
+- [[cannabis-endocannabinoid-system]]
 
 ## Practical Significance
 - Relevant to sustainable land management and ecological design

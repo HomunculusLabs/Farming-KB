@@ -30,7 +30,7 @@ farmer who has clean produce and a good reputation.
 
 ## Kimchi
 
-One of the most popular [[root-cellaring-guide]] or a
+One of the most popular [[root-cellaring]] or a
 cupboard and let them sit for four weeks. Then the kimchi is ready to eat.
 
 ## Sauerkraut

@@ -98,7 +98,7 @@ Mycelium-insect interactions are crucial to ecosystem recovery:
 - [[fungal-ecology]] for the broader framework
 - [[mycoremediation-basics]] for how these roles enable cleanup
 - [[mycofiltration-overview]] for water filtration applications
-- [[mycorestoration-overview]] for the applied framework
+- [[mycorestoration]] for the applied framework
 
 ## Related
 

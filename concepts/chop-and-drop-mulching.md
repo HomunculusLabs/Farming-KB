@@ -39,7 +39,7 @@ Cover crops are explicitly designed for slash-in-place management. As Hemenway w
 
 - [[sheet-mulching]] -- layered mulch technique for creating garden beds
 - [[cover-crop-selection-guide]] -- choosing cover crops for chop-and-drop
-- [[hugelkultur-bed-construction-detailed]] -- woody biomass buried in beds
+- [[hugelkultur-bed-construction]] -- woody biomass buried in beds
 
 ## Overview
 

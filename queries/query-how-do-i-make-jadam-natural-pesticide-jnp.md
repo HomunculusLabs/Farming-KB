@@ -22,7 +22,7 @@ JADAM Natural Pesticide represents one of the core innovations of the [[comparis
 
 ### The Foundation: JADAM Microorganism Solution (JMS)
 
-The foundation of any JNP recipe is the [[cannabis-pest-management-guide]] solution that does not lose effectiveness over time.
+The foundation of any JNP recipe is the [[cannabis-pest-management]] solution that does not lose effectiveness over time.
 
 ### Enhancing with Herbs and Neem
 

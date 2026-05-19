@@ -23,7 +23,7 @@ growers.
 
 ## Shiitake
 
-[[maitake-cultivation-guide]]
+[[maitake-cultivation]]
 
 Maitake (Grifola frondosa, hen of the woods) is a highly aerobic, temperate
 climate species that fruits in autumn. It requires significantly more precise

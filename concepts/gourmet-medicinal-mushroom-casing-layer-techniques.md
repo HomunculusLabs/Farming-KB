@@ -25,7 +25,7 @@ The standard casing formula for gourmet mushrooms uses three components:
 | Vermiculite | Aeration and water retention | Improves structure and drainage |
 | Calcium sulfate (gypsum) | Buffer and mineral source | Provides calcium and sulfur |
 
-**Critical note**: Calcium carbonate should NOT be used in casing for wood-based (lignicolous) [[mushroom-cultivation-overview]], where calcium carbonate is standard. The use of calcium carbonate with wood-decomposing species promotes green mold (Trichoderma) contamination and is actively discouraged by Stamets.
+**Critical note**: Calcium carbonate should NOT be used in casing for wood-based (lignicolous) [[mushroom-cultivation]], where calcium carbonate is standard. The use of calcium carbonate with wood-decomposing species promotes green mold (Trichoderma) contamination and is actively discouraged by Stamets.
 
 ## Casing Parameters
 

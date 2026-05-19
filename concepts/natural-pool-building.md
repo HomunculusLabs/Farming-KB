@@ -146,5 +146,5 @@ Plants are the primary filtration mechanism. Select for:
 
 - [[natural-beekeeping-practices]]
 - [[fukuoka-rice-and-barley-natural-farming]]
-- [[natural-building-overview]]
+- [[natural-building]]
 - [[fukuoka-natural-farming-philosophy-five-principles]]

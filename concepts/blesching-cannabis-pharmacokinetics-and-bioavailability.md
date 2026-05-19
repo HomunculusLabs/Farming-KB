@@ -14,7 +14,7 @@ type: concept
 Pharmacokinetics describes how the body absorbs, distributes, metabolizes, and
 excretes a substance (ADME). Understanding the pharmacokinetics of cannabinoids
 is essential for optimizing therapeutic outcomes. *The [[blesching-cannabis-dosing-strategies]], and the
-[[endocannabinoid-system-overview]] function
+[[endocannabinoid-system]] function
   all affect how an individual processes cannabinoids.
 
 ## Clinical Implications

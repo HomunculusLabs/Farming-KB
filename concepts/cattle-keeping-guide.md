@@ -38,8 +38,8 @@ Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]],
 - **Timing**: Slowly increase grain as milk supply grows, taper off near end of lactation
 - **Processing**: Grains should be chopped or ground; mixing different types together is better
 - **Supplements**: Cornstalks, washed and sliced [[composting]]
-- [[chicken-keeping-guide]]
-- [[goose-keeping-guide]]
+- [[chicken-keeping]]
+- [[goose-keeping]]
 
 ## Overview
 

@@ -24,7 +24,7 @@ serious challenges for compost producers and users.
 
 Clopyralid is a synthetic auxin herbicide used on broadleaf weeds in
 agricultural and turf settings. The critical problem with clopyralid
-is that there is no knowledge of any [[cannabis-pest-management-guide]] before being banned
+is that there is no knowledge of any [[cannabis-pest-management]] before being banned
 in the [[edaphic-factors-microbial-community-structure]]. In this case, add more nitrogen
 as [[doc]]
 - [[det]]

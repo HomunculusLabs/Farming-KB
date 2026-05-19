@@ -141,7 +141,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[natural-farming]]
 - [[knf-imo-four-soil-foundation-and-field-application]]
-- [[knf-water-soluble-phosphoric-acid-detailed]]
+- [[knf-water-soluble-phosphoric-acid]]
 - [[coleman-unheated-greenhouse-economic-model-passive-winter-production]]
 - [[holmgren-economic-and-social-succession]]
 - [[medicinal-mushroom-health-benefits]]

@@ -64,7 +64,7 @@ Some seeds also require light exposure:
 3. **Local seed sourcing:** Choosing locally adapted varieties ensures correct day-length and chill-hour matching.
 4. **[[bill-mollison]], *Permaculture: A Designers' Manual*, [[seed-germination-stratification-photoperiodism]]
 - [[seed-saving-and-plant-breeding]]
-- [[fukuoka-seed-ball-technique-detailed]]
+- [[fukuoka-seed-ball-technique]]
 
 ## Overview
 

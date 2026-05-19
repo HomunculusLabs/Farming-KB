@@ -98,7 +98,7 @@ Systems thinking reveals feedback loops and emergent properties that affect over
 - [[field-guide-psilocybin-mushroom-species-identification]]
 - [[historical-mushroom-cultivation-cuthill-1870-treatise]] — Cuthill's cultivation methods
 - mushroom pests integrated management — Modern pest control
-- [[psilocybin-mushroom-identification-guide]] — Toxic species recognition
+- [[psilocybin-mushroom-identification]] — Toxic species recognition
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

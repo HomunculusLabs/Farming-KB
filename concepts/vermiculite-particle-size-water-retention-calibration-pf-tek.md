@@ -23,7 +23,7 @@ Not all vermiculite is the same. The coarseness varies considerably among differ
 - **Fine vermiculite**: Particles averaging approximately 1 millimeter across (some larger, some smaller)
 - **Coarse vermiculite**: Particles averaging 4-5 millimeters across, with some up to 8 millimeters
 
-The coarser type holds significantly less water than the finer type. This is a straightforward consequence of surface-area-to-volume ratio: smaller particles have proportionally more surface area per unit volume, providing more interface for water absorption and retention. The exfoliated layers of finer vermiculite also create more capillary channels that hold water through [[goose-keeping-detailed]] notes on formulations to replicate the substrate recipe that produces the best fruiting results.
+The coarser type holds significantly less water than the finer type. This is a straightforward consequence of surface-area-to-volume ratio: smaller particles have proportionally more surface area per unit volume, providing more interface for water absorption and retention. The exfoliated layers of finer vermiculite also create more capillary channels that hold water through [[goose-keeping]] notes on formulations to replicate the substrate recipe that produces the best fruiting results.
 
 ## Standard PF Substrate Formulas
 

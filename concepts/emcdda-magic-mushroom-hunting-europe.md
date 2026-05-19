@@ -12,7 +12,7 @@ naturally.
 
 Among users, "magic mushroom hunting" refers to the practice of seeking out,
 identifying, and collecting naturally growing psilocybin-containing mushrooms
-from wild habitats. This activity is distinct from cultivation ([[psilocybin-mushroom-identification-guide]], seasonal timing, and suitable habitat types.
+from wild habitats. This activity is distinct from cultivation ([[psilocybin-mushroom-identification]], seasonal timing, and suitable habitat types.
 
 The EMCDDA noted that evidence on the extent of magic mushroom hunting across the
 EU was sparse, making it difficult to quantify the practice or assess its

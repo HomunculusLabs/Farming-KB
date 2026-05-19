@@ -145,5 +145,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[gottlieb-peyote-cultivation-from-seed]]
 - [[mckenna-food-gods-lewis-lewin-birth-psychopharmacology-peyote-mescaline]]
 - [[mescaline-peyote-san-pedro-cactus]]
-- [[peyote-ceremony-guide]]
+- [[peyote-ceremony]]
 - [[peyote-mescaline-cactus-pharmacology]]

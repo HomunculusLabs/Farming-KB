@@ -12,7 +12,7 @@ type: concept
 
 # Natural Farming Cover Crops and Green Manure
 
-In [[green-manure-crops-detailed]]
+In [[green-manure-crops]]
 suitable for different purposes:
 
 ### Leguminous Green Manures

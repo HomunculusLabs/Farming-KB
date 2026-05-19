@@ -105,7 +105,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - fungal-bioremediation
-- [[fungal-metal-redox-transformations-detailed]]
+- [[fungal-metal-redox-transformations]]
 - [[biosorption-isotherms]]
 - [[dighton-fungal-biosorption-heavy-metal-remediation]]
 - [[fungal-heavy-metal-biosorption-and-detoxification]]

@@ -24,7 +24,7 @@ Protozoa consume algae, especially in aquatic systems. Ingham
 cites University of Wisconsin work showing that algal blooms in
 lakes were resolved by restoring protozoan populations. The food
 chain is clear: protozoa eat algae. When pesticides and high
-[[ingham-soil-food-web-assessment-methods]] for testing protocols
+[[soil-food-web-assessment-methods]] for testing protocols
 - [[ingham-beneficial-nematodes-soil-food-web]] for higher-level
   nutrient cyclers
 

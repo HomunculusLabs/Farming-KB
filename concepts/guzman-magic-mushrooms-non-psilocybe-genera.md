@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-# Psychoactive Mushroom Species in Non-Psilocybe Genera ## Overview While [[amanita-muscaria-guide]] species contain isoxazole derivatives rather than
+# Psychoactive Mushroom Species in Non-Psilocybe Genera ## Overview While [[amanita-muscaria]] species contain isoxazole derivatives rather than
 indole alkaloids:
 - **A. muscaria** ([[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol;
   traditionally used by Siberian peoples (Chukchee, Koryak); Wasson

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushroom"), this delicious soft-fleshed polypore has excellent nutritional [[ginseng-cultivation-and-medicinal-properties]]. One of the most promising [[maitake-cultivation-guide]], and [[maitake-d-fraction-research]]
+Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushroom"), this delicious soft-fleshed polypore has excellent nutritional [[ginseng-cultivation-and-medicinal-properties]]. One of the most promising [[maitake-cultivation]], and [[maitake-d-fraction-research]]
 - [[medicinal-mushroom-extraction-preparation]]
 
 ## See Also

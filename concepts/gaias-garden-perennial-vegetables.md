@@ -30,7 +30,7 @@ Annual vegetables, by contrast, leave bare soil for months each year, interrupti
 
 When gaias-garden-white-oak-hazelnut-guild-design patterns:
 
-- **[[gaias-garden-creating-community-gardens]]** that integrate [[gaias-garden-stacking-functions-detailed]] because they persist in the landscape and continuously perform multiple roles:
+- **[[gaias-garden-creating-community-gardens]]** that integrate [[gaias-garden-stacking-functions]] because they persist in the landscape and continuously perform multiple roles:
 
 - Produce food while building soil
 - Provide habitat while yielding harvests

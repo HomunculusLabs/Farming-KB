@@ -141,7 +141,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[maitake-mushroom-research]]
-- [[maitake-cultivation-guide]]
+- [[maitake-cultivation]]
 - [[medicinal-mushroom-guide-maitake]]
 - [[psilocybin-mushroom-cultivation-basics]]
 - [[psilocybin-mushroom-cultivation]]

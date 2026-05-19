@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Autism Research
 
-**Source:** Uwe Blesching, The [[cannabis-autoimmune-conditions-detailed]], neurotransmitter imbalances, toxins (lead, mercury, pesticides), mold/viral load, electromagnetic pollution.
+**Source:** Uwe Blesching, The [[cannabis-autoimmune-conditions]], neurotransmitter imbalances, toxins (lead, mercury, pesticides), mold/viral load, electromagnetic pollution.
 
 **Standard treatment:** Applied Behavioral Analysis (ABA) -- 40 hours/week, cost-prohibitive. Pharmaceutical drugs (Ritalin etc.) with reported deaths in hundreds. Annual cost: $35 billion in direct/indirect costs.
 

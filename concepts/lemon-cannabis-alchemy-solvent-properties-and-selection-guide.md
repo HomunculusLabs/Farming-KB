@@ -20,7 +20,7 @@ type: concept
 
 The solvents discussed here are common in the research literature on
 THC. Benzene and toluene appear with respect to
-[[knf-water-soluble-phosphoric-acid-detailed]] s not
+[[knf-water-soluble-phosphoric-acid]] s not
 extract a lot of water-soluble, non-psychoactive tars.
 
 ### Isopropyl Rubbing Alcohol

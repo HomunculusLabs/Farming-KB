@@ -23,7 +23,7 @@ A well-designed canopy reduces wind speed through the garden, protecting underst
 
 Canopy species in food forests typically include large nut trees (walnut, chestnut, pecan, oak), large fruit trees (standard apple, pear, plum), timber trees (oak, ash, maple), and nitrogen-fixing canopy trees ([[permaculture-honey-locust-pod-fodder-system]]).
 
-In [[permaculture-wildlife-corridors]] and [[urban-permaculture-rainwater-harvesting-graywater]] and [[cervantes-wind-protection-outdoor-cannabis]], [[food-forest-design-guide]]
+In [[permaculture-wildlife-corridors]] and [[urban-permaculture-rainwater-harvesting-graywater]] and [[cervantes-wind-protection-outdoor-cannabis]], [[food-forest-design]]
 ## Practical Considerations
 
 When working with Canopy Layer Design Food Forests, several practical factors should be

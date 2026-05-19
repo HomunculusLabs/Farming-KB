@@ -61,7 +61,7 @@ The worm works upward through layers. Take worm-worked material from the bottom 
 ## Related
 
 - [[compost-container-types]] — other composting container designs
-- [[green-manure-crops-detailed]] — alternative soil improvement through cover crops
+- [[green-manure-crops]] — alternative soil improvement through cover crops
 - [[homemade-liquid-fertilizer]] — liquid feeding for plants
 
 ## Overview

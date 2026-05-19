@@ -24,7 +24,7 @@ The relationship between [[tetrahydrocannabiphorol-thcp|THCP]] was discovered in
 
 ### How Cannabinoids Are Formed in the Plant
 
-All cannabinoids begin as [[cannabis-endocannabinoid-system-overview|endocannabinoid system]] in the human body has evolved receptors specifically for these plant-derived compounds.
+All cannabinoids begin as [[cannabis-endocannabinoid-system|endocannabinoid system]] in the human body has evolved receptors specifically for these plant-derived compounds.
 Genetics, growing conditions, and [[cannabinoid-biosynthesis-pathway|biosynthesis pathway]].
 - [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] Questions
 

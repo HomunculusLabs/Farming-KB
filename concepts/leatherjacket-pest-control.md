@@ -124,7 +124,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[cannabis-pest-management-guide]]
+- [[cannabis-pest-management]]
 - [[cervantes-sticky-traps-pest-monitoring]]
 - [[coleman-beneficial-insects-and-ecological-pest-control]]
 - [[ingham-foliar-pest-deterrence-aact]]

@@ -118,6 +118,6 @@ Multiple species can be cultivated in substrate bags. See [[mushroom-species-cul
 - [[pda-and-tissue-culture]] — PDA and tissue culture for spawn production
 - [[mushroom-substrates]] — Substrate science, C:N ratios, alternatives
 - [[mushroom-spawn-making-detailed]] — Grain and sawdust spawn production
-- [[mushroom-sterile-technique-detailed]] — Sterile inoculation procedures
+- [[mushroom-sterile-technique]] — Sterile inoculation procedures
 - [[mushroom-cultivation-basics]] — Adaptations for people with disabilities
 - [[mushroom-cultivation-basics]] — Complete cultivation overview

@@ -12,7 +12,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 
 Vermiculite is the foundational ingredient of the [[pf-tek-measurement-calibration-and-substrate-formula-precision]] assumes fine grade vermiculite is being used. The proportions are:
 
-- 1/8 cup [[pf-tek-guide|PF TEK]] substrate system:
+- 1/8 cup [[pf-tek|PF TEK]] substrate system:
 
 1. **Moisture retention**: It absorbs and slowly releases water to the mycelium throughout colonization and fruiting, providing a consistent moisture supply over the entire growth cycle without requiring external watering.
 

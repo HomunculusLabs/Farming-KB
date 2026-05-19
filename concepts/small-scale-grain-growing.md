@@ -128,4 +128,4 @@ Separating grain from chaff (the lightweight husks and debris):
 
 - [[saving-seeds]] -- save grain seed from your best plants for next year
 - [[beer-brewing-basics]] -- grow [[ergot-of-barley-and-wheat-alkaloid-composition]] specifically for brewing
-- [[greenhouse-growing-guide]] -- start grain seedlings early indoors in cold climates
+- [[greenhouse-growing]] -- start grain seedlings early indoors in cold climates

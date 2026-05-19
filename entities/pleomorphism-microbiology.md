@@ -31,7 +31,7 @@ oxygen availability, nutrient conditions, and other environmental factors.
   whether bacteria can transform between fundamentally different forms.
 - In compost tea context, Ingham addresses the concern that beneficial
   organisms might transform into pathogenic forms under certain conditions.
-- Properly [[actively-aerated-compost-tea-overview]] maintains aerobic conditions that favor
+- Properly [[actively-aerated-compost-tea]] maintains aerobic conditions that favor
   beneficial organism forms and suppress potential pathogenic morphotypes.
 - Key [[fungal-fruiting-body-formation-environmental-triggers]] for morphological shifts include oxygen levels,
   pH, nutrient availability, temperature, and moisture.

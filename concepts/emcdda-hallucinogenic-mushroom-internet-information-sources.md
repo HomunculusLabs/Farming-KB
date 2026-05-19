@@ -34,7 +34,7 @@ on [[cultural-evolution-and-psychoactive-substances]]:
   identification guides, cultivation advice, trip reports, and discussion
   forums.
 - **Mycotopia**: An online community focused on mycology and the cultivation
-  and use of [[psilocybin-mushroom-identification-guide]] and information.
+  and use of [[psilocybin-mushroom-identification]] and information.
 - **The Entheogen Review**: A publication and resource covering entheogenic
   substances including hallucinogenic mushrooms.
 

@@ -116,5 +116,5 @@ Integration with existing systems often yields better results than complete repl
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-See also [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] and [[mycorrhizal-inoculation-guide]] for related information.Related topics include [[aact-forest-litter-fungi-mycorrhizal-ingham]] and associated practices.
+See also [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] and mycorrhizal inoculation for related information.Related topics include [[aact-forest-litter-fungi-mycorrhizal-ingham]] and associated practices.
 Selecting appropriate inoculant species matched to local soil conditions and host

@@ -70,7 +70,7 @@ Cervantes strongly promotes the use of biocontrols—commercially available
 organisms that combat [[comparison-predatory-mites-vs-ladybugs-biocontrol]]**: Phytoseiulus persimilis for spider mite control.
 - **Ladybugs**: Hippodamia convergens for aphid control.
 - **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
-- **[[cannabis-pest-management-guide]]
+- **[[cannabis-pest-management]]
 - [[dom]]
 - [[water-management]]
 - [[pf-tek-contamination-prevention-and-troubleshooting]]

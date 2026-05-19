@@ -28,11 +28,11 @@ Geese are excellent homestead birds -- they are largely self-feeding on pasture,
 ### Choosing
 
 - Meat production: Embden, Toulouse
-- Egg production: Chinese, Pilgrim
-- Weed/grass control: Chinese, Roman Tufted
+- [[mollison-designers-chicken-tractors-egg-production]]: Chinese, Pilgrim
+- Weed/[[mollison-geese-grass-control-and-integrated-poultry]]: Chinese, Roman Tufted
 - Small homestead: Pilgrim, Roman Tufted
 - Watchdog/alert: African, Chinese
-- Cold climate hardiness: Embden, Toulouse, Pilgrim
+- [[cold-climate-design-strategies]] hardiness: Embden, Toulouse, Pilgrim
 
 ## Housing
 
@@ -51,7 +51,7 @@ Geese are excellent homestead birds -- they are largely self-feeding on pasture,
 
 - Geese are large and generally not preyed upon by small predators
 - 3-4 foot fencing is sufficient to contain them (they don't fly well)
-- Electric poultry netting works well for rotational grazing
+- Electric poultry netting works well for [[comparison-rotational-grazing-vs-continuous-grazing]]
 - Protect from coyotes, stray dogs, and foxes -- especially goslings
 - Night shelter recommended even for free-range birds
 
@@ -143,8 +143,8 @@ Geese are primarily grazers and can meet most of their nutritional needs from go
 
 ## See Also
 
-- [[goose-keeping-detailed]]
-- [[goose-keeping-guide]]
+- [[goose-keeping-and-husbandry-guide]]
+- goose keeping
 - [[faires-goose-management-and-integration]]
-- [[chicken-keeping-guide]]
+- [[chicken-keeping]]
 - [[comparison-rabbit-husbandry-vs-chicken-keeping]]

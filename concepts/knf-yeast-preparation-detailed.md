@@ -138,9 +138,9 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[permaculture]]
 - [[decomposition]]
-- [[knf-water-soluble-phosphoric-acid-detailed]]
+- [[knf-water-soluble-phosphoric-acid]]
 - [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
 - [[wild-yeast-bread-baking]]
-- [[yeast-biology-guide]]
+- [[yeast-biology]]
 - [[yeast-diversity-taxonomy-and-inventory-methods]]
 - [[yeast-isolation-biodiversity-methods]]

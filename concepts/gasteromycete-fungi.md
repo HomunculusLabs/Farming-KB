@@ -143,6 +143,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[bloomfield-gasteromycete-polyphyly-ragbag-taxon-not-natural-group]]
 - [[gasteromycete-fungi-dispersal-mechanisms]]
-- [[gasteromycete-fungi-overview]]
+- gasteromycete fungi
 - [[mixtec-sacred-puffballs-gasteromycete-narcotic-fungi-traditions]]
 - [[stinkhorn-fungi-gasteromycete-fruiting-bodies]]

@@ -36,7 +36,7 @@ The genus *Sambucus* belongs to the Adoxaceae family (formerly Caprifoliaceae) a
 
 ### Clinically Supported Benefits
 
-- **[[cannabis-autoimmune-conditions-detailed]].
+- **[[cannabis-autoimmune-conditions]].
 - **Pregnancy** — Insufficient safety data; traditional use suggests caution.
 
 ## Propagation Methods

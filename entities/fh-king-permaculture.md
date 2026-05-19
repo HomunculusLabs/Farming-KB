@@ -78,5 +78,5 @@ Mollison references King as a primary example of "feudal permanence" — a syste
 
 ## Related Topics
 - [[stamets-king-stropharia-permaculture-mycofiltration]]
-- [[permaculture-beekeeping-guide]]
+- [[permaculture-beekeeping]]
 - [[comparison-sepp-holzer-vs-permaculture-design]]

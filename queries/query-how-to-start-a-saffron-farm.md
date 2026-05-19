@@ -40,7 +40,7 @@ Yes, with caveats. Gross revenue per acre ranges from $2,500–$75,000 depending
 
 ### How much land do I need?
 
-You can start with as little as 1/8 acre (a backyard plot) to test the process. A commercially viable operation typically starts at 1/2 to 1 acre. Each acre holds roughly 50,000–70,000 corms. Saffron is ideal for small-scale or diversified farms because of its high value per [[cannabis-pest-management-guide]], packaging) | $500 – $1,500 |
+You can start with as little as 1/8 acre (a backyard plot) to test the process. A commercially viable operation typically starts at 1/2 to 1 acre. Each acre holds roughly 50,000–70,000 corms. Saffron is ideal for small-scale or diversified farms because of its high value per [[cannabis-pest-management]], packaging) | $500 – $1,500 |
 | **Total Estimated Startup** | **$23,500 – $64,000** |
 
 A lean startup on already-owned land with volunteer/family labor can be done for **$20,000–$30,000**.

@@ -26,7 +26,7 @@ Attempting to force extraction through a shoulder will damage the mycelium and p
 
 ### Regular Mouth Kerr Half Pint
 
-The regular mouth Kerr half pint [[pf-tek-steam-sterilization-technique|steam sterilization]] technique that is a defining feature of the PF TEK. Because the substrate contains no whole grain (only pulverized brown rice powder), and the [[pf-tek-guide|PF TEK Guide]]
+The regular mouth Kerr half pint [[pf-tek-steam-sterilization-technique|steam sterilization]] technique that is a defining feature of the PF TEK. Because the substrate contains no whole grain (only pulverized brown rice powder), and the [[pf-tek|PF TEK Guide]]
 - Substrate [[pf-tek-steam-sterilization-technique|Steam Sterilization Technique]]
 - Jar Selection and Physical Requirements
 ## Practical Considerations

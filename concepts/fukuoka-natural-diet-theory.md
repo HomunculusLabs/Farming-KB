@@ -35,7 +35,7 @@ See also: [[fukuoka-five-tastes-health]], [[fukuoka-natural-farming-method]]
 
 - [[fukuoka-natural-diet-food-philosophy]]
 
-- [[fukuoka-seed-ball-technique-detailed]]
+- [[fukuoka-seed-ball-technique]]
 
 - [[fukuoka-vegetable-growing-detailed]]
 

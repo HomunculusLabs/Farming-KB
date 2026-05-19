@@ -37,7 +37,7 @@ Several modern fraternal and initiatory organizations have been connected to ent
 - **The Rosicrucians:** Their manifestos (published 1614-1616) describe the recovery of ancient secret knowledge. Whether this knowledge includes entheogenic pharmacology remains speculative.
 - **Indigenous preservation societies:** In Mesoamerica and South America, some indigenous communities have maintained entheogenic traditions through colonial repression by wrapping them in Catholic syncretism — the most famous example being the [[cattle-dispersal-psychoactive-fungi-australia]], and to [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
 - controversy-sacred-mushroom-theory
-- [[amanita-muscaria-guide]]
+- [[amanita-muscaria]]
 ## Practical Considerations
 
 Successful implementation of Entheogenic Knowledge and Secret Societies requires attention to

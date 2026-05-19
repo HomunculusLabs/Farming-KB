@@ -28,7 +28,7 @@ maximize productivity across the full calendar year.
 [[knf-calcium-deficiency-symptoms]], though this usually resolves with light lime
 applications over a few seasons.
 
-[[cannabis-pest-management-guide]] skills develop, progress to cabbage,
+[[cannabis-pest-management]] skills develop, progress to cabbage,
 broccoli, and eventually cauliflower. Fall planting generally produces
 better results than spring planting for most brassica crops.
 

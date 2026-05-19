@@ -23,7 +23,7 @@ sources:
   - "Needham, J.G., Westfall, M.J. Jr., & May, M.L. (2014). Dragonflies of guzman-psilocybin-mushrooms-north-america, 3rd ed. Scientific Publishers."
   - "Dijkstra, K.-D.B. & Lewington, R. (2006). Field Guide to the Dragonflies of Britain and Europe. British Wildlife Publishing."
   - "Paulson, D.R. (2011). Dragonflies and Damselflies of the West. Princeton University Press."
-  - "Wildlife Trusts (2022). 'Dragonflies and Damselflies — amphibian-habitat-creation and [[cannabis-pest-management-guide]].'"
+  - "Wildlife Trusts (2022). 'Dragonflies and Damselflies — amphibian-habitat-creation and [[cannabis-pest-management]].'"
   - "Marten, G.G. et al. (2006). '[[backswimmer-mosquito-control-mollison]] by dragonfly larvae in [[fukuoka-spider-ecosystem-drama-rice-fields]].' Journal of Vector Ecology, 31(1), 138–143."
   - "Xue, R.-D. et al. (2010). 'fukuoka-textdoc-arrowhead-scale-ladybug-biological-control of mosquitoes by odonates.' Journal of the American Mosquito Control Association, 26(S1), 116–121."
   - "Purdue University Extension. 'Pond Management: Attracting beneficial-insects-cannabis.'"

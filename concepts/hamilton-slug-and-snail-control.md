@@ -26,7 +26,7 @@ electric shock when their moist bodies contact the copper, deterring
 them from crossing. This method is particularly useful for protecting
 container-grown plants and individual prized specimens.
 
-Crushed eggshells, sharp grit, or [[cannabis-pest-management-guide]]
+Crushed eggshells, sharp grit, or [[cannabis-pest-management]]
 strategies, see [[det]]
 - [[neem]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]

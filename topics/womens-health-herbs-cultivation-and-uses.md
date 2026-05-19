@@ -136,7 +136,7 @@ Both herbs can be grown in the home garden. Red clover is extremely easy to cult
 
 ## Cannabis and the Endocannabinoid System
 
-The endocannabinoid system plays a significant role in female reproductive health. CB1 and CB2 receptors are expressed throughout the reproductive tract including the hypothalamus, pituitary, ovaries, and uterus. See [[endocannabinoid-system-overview]] for background.
+The endocannabinoid system plays a significant role in female reproductive health. CB1 and CB2 receptors are expressed throughout the reproductive tract including the hypothalamus, pituitary, ovaries, and uterus. See [[endocannabinoid-system]] for background.
 
 Anandamide fluctuates with the menstrual cycle, suggesting a regulatory role. Cannabis phytocannabinoids THC and CBD interact with this endogenous system.
 

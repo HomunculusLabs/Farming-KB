@@ -28,7 +28,7 @@ The THC:CBD ratio falls on a spectrum from high-THC to high-CBD:
 - Activates both CB1 and CB2
 - More psychoactive effects
 - Stimulating, euphoric, cerebral
-- Better for: daytime use, mood elevation, appetite stimulation, certain [[cannabis-autoimmune-conditions-detailed]], anxiety reduction
+- Better for: daytime use, mood elevation, appetite stimulation, certain [[cannabis-autoimmune-conditions]], anxiety reduction
 
 ## Condition-Specific Ratio Recommendations
 

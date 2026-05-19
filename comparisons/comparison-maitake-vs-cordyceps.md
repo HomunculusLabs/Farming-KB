@@ -23,7 +23,7 @@ health practitioners choose the right species for their goals.
 ## Maitake (Grifola frondosa)
 
 [[cordyceps-militaris]] | [[medicinal-mushroom-guide-maitake]]
-- [[maitake-cultivation-guide]]
+- [[maitake-cultivation]]
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
 

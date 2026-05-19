@@ -52,7 +52,7 @@ Reishi is classified as a premier adaptogen in TCM, with traditional and emergin
 | **Fruiting temperature** | 15–20°C (cool) | 25–30°C (warm) |
 | **Time to harvest** | 8–12 weeks from inoculation | 6–8 weeks for antler form; 12+ weeks for conks |
 | **Cultivation difficulty** | Moderate — sensitive to contamination, requires cool fruiting | Moderate to easy — widely cultivated commercially |
-| **Yield** | Good [[cannabis-autoimmune-conditions-detailed]] or immunosuppressive therapy. Rare reports of GI upset.
+| **Yield** | Good [[cannabis-autoimmune-conditions]] or immunosuppressive therapy. Rare reports of GI upset.
 - **Reishi:** Generally safe at standard doses. May have mild anticoagulant effects — discontinue 2 weeks before surgery. Can interact with antihypertensive and immunosuppressive drugs. Prolonged high-dose use has been associated with rare hepatotoxicity case reports. Not recommended during pregnancy (limited safety data).
 
 ## Availability and Cost

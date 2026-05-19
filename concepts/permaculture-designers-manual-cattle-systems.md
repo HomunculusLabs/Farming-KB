@@ -136,7 +136,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[permaculture-design-concepts-themes]]
 - [[permaculture-design-methods-and-topics]]
-- [[permaculture-design-principles-overview]]
+- [[permaculture-design-principles]]
 - [[permaculture-design-scope-and-methods]]
 - [[permaculture-design-system-nature-conservation]]
 - [[eucalyptus-permaculture]]

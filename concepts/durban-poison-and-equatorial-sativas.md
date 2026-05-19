@@ -12,7 +12,7 @@ determining their flowering behavior, growth patterns, and suitability for culti
 at different latitudes. Understanding the relationship between latitude of origin and
 flowering time is essential for both growers choosing strains and breeders selecting
 parent plants. Durban Poison occupies a uniquely important position in this landscape
-as the rare equatorial-region sativa that finishes early [[cannabis-sativa-vs-indica-guide]]).
+as the rare equatorial-region sativa that finishes early [[cannabis-sativa-vs-indica]]).
 
 ## Latitude and Photoperiod
 

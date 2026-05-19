@@ -35,7 +35,7 @@ This philosophy stands in contrast to conventional farming and even differs in e
 
 - Being especially cautious during transitional periods such as [[knf-input-application-timing]] — Managing transitional nutrient stress.
 
-- [[knf-water-soluble-phosphoric-acid-detailed]]
+- [[knf-water-soluble-phosphoric-acid]]
 ## Practical Considerations
 
 Successful implementation of KNF Nutritive Cycle Theory requires attention to

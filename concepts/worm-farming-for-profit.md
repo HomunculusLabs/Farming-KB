@@ -94,7 +94,7 @@ Check local ordinances before scaling. Some areas regulate worm farming as agric
 
 ## Related Concepts
 
-- [[aquaponics-guide]] -- worms can live in aquaponic grow beds
+- [[aquaponics]] -- worms can live in aquaponic grow beds
 - [[homesteading-income-streams]] -- vermicomposting fits into a diversified homestead income plan
 - [[medicinal-herb-growing]] -- castings are excellent fertilizer for herb production
 ## Practical Applications

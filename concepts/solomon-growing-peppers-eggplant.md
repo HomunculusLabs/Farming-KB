@@ -51,7 +51,7 @@ self-pollinating species, [[solomon-lime-calcium-ph-management]].
 Flea beetles can be serious pests of eggplant seedlings. The damage is
 characteristic: numerous small holes in the leaves. Floating row covers
 can exclude flea beetles during the vulnerable seedling stage. See
-[[cannabis-pest-management-guide]] emphasizes prevention through proper
+[[cannabis-pest-management]] emphasizes prevention through proper
 soil fertility, adequate spacing, and variety selection rather than
 
 ## Overview

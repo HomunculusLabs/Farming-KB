@@ -11,7 +11,7 @@ tags: [mycology, mushroom-cultivation, container-design, tray-culture, bag-cultu
 In *Growing Gourmet and [[accessible-mushroom-cultivation-for-disabilities]] — the
 containers, trays, bags, and structural systems in which mycelium colonizes
 substrate and eventually fruits. The choice of cropping container profoundly
-affects yield, labor efficiency, [[mushroom-cultivation-overview]], particularly in Western growing operations. Stamets
+affects yield, labor efficiency, [[mushroom-cultivation]], particularly in Western growing operations. Stamets
 describes standard growing trays as rectangular containers typically measuring
 approximately 60 cm × 40 cm × 15 cm deep, though dimensions vary based on
 species requirements and handling constraints. Substrate depth in trays

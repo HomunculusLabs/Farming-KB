@@ -111,7 +111,7 @@ For tissue cloning and [[cotter-grain-spawn-production]]:
 - [[garden-mushroom-growing]] for companion planting strategies
 - [[mycoremediation-techniques]] for pollution cleanup deployment
 - [[fungal-pest-control]] for insect control applications
-- [[mycorestoration-overview]] for the broader framework
+- [[mycorestoration]] for the broader framework
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

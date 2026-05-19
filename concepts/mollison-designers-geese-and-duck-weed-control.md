@@ -45,7 +45,7 @@ waterways, and wetland areas:
   aquatic vegetation and insects
 
 **Pond integration:**
-- Ducks in [[cannabis-pest-management-guide]] for the integrated farm.
+- Ducks in [[cannabis-pest-management]] for the integrated farm.
 
 See also: [[mollison-geese-grass-control-and-integrated-poultry]]
 

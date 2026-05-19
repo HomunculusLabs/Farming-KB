@@ -16,7 +16,7 @@ fertile ground over time. Unlike finer mulches like shredded bark or sawdust,
 arborist wood chips contain a mix of wood pieces, bark, twigs, and often leaves
 from tree trimming operations. This diversity in particle size and composition
 is what makes them so effective as a
-[[sheet-mulching-guide]] as part
+[[sheet-mulching]] as part
 of a broader soil-building strategy.
 
 ## Key Points

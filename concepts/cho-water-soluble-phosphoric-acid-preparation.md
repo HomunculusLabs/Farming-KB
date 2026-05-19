@@ -69,7 +69,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[permaculture]]
-- [[knf-water-soluble-phosphoric-acid-detailed]]
+- [[knf-water-soluble-phosphoric-acid]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]
 
 ## Overview

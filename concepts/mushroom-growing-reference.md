@@ -139,7 +139,7 @@ Outdoor beds in shaded locations. Wood chip spawn preferred over direct grain in
 - [[mushroom-contamination-identification]] — Contaminant ID and recovery
 - [[mushroom-species-guide]] — Detailed species parameters
 - [[mushroom-substrates]] — Substrate recipes and C:N ratios
-- [[mushroom-sterile-technique-detailed]] — Sterile workflow
+- [[mushroom-sterile-technique]] — Sterile workflow
 - [[mushroom-grow-equipment]] — Gear by tier
 - [[mushroom-spore-printing-and-storage]] — Spore collection and viability
 - [[outdoor-wood-lover-cultivation]] — Detailed outdoor bed guide for wood lovers

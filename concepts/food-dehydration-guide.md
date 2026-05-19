@@ -142,7 +142,7 @@ Fruit leather (fruit roll-ups) is an excellent use for overripe fruit and homest
 ## Related Topics
 
 - [[canning-and-preserving]] for complementary [[egg-preservation-methods]]
-- [[root-cellaring-guide]] for cool storage of dehydrated goods
+- [[root-cellaring]] for cool storage of dehydrated goods
 - [[food-fermentation-guide]] for another preservation approach
 - [[solar-dehydrator-plans]]
 

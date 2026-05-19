@@ -145,6 +145,6 @@ In the United States, the USDA exempts rabbit processing from federal inspection
 
 - [[comparison-duck-keeping-vs-rabbit-husbandry]]
 - [[mollison-designers-rabbit-housing-and-manure-management]]
-- [[rabbit-husbandry-guide]]
+- [[rabbit-husbandry]]
 - [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]]
 - [[rabbit-husbandry-basics]]

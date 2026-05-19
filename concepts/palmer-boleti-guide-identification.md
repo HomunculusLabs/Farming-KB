@@ -133,7 +133,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[mold-identification-guide]]
 - [[ramsbottom-poisonous-fungi-identification-guide]]
-- [[psilocybin-mushroom-identification-guide]]
+- [[psilocybin-mushroom-identification]]
 - [[mushroom-toxicology-palmer-theory]]
 - [[palmer-amanitine-poison-classification-treatment]]
 - [[palmer-fungus-reproduction-spawn]]

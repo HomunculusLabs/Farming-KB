@@ -132,6 +132,6 @@ Cover crops are an excellent way to maintain soil biology between cash crop cycl
 ## See Also
 
 - [[no-till-gardening-method]]
-- [[hugelkultur-bed-construction-detailed]]
+- [[hugelkultur-bed-construction]]
 - [[sheet-mulching]]
 - [[cannabis-living-soil-guide]]

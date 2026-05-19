@@ -135,7 +135,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 
 ## Related Topics
 
-- [[mushroom-sterile-technique-detailed]] — Aseptic laboratory procedures
+- [[mushroom-sterile-technique]] — Aseptic laboratory procedures
 - [[agar-work-guide]] — [[working-with-agar-grain-to-agar-transfer-techniques]] media
 - [[fungal-biodiversity-biogeography]] — Sampling design for fungal surveys
 - [[fungal-ecology]] — Understanding fungal nutritional needs

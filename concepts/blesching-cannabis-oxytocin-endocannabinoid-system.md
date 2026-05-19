@@ -27,7 +27,7 @@ Oxytocin is associated with empathy, generosity, trust, and reduced fear.
 It is commonly referred to as the "cuddle molecule" and is involved in
 the development of bonding, closeness, tenderness, and intimacy. It
 increases trust and generosity. Additionally, it initiates the release
-of endorphins with their own [[endocannabinoid-system-overview]]
+of endorphins with their own [[endocannabinoid-system]]
 - [[cannabis-chronic-pain-management]]
 - [[endocannabinoid-system]]
 - [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]

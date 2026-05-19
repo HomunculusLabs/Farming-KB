@@ -40,7 +40,7 @@ Most people know coffee and tea, but several other plants produce significant ca
 - **Kola nut** (*Cola nitida*) — tropical West African tree; needs zone 10+
 - **Guarana** (*Paullinia cupana*) — Amazonian vine; seeds contain 4–6% caffeine
 - **Cacao** (*Theobroma cacao*) — low caffeine but significant theobromine; zone 11+
-- **Yaupon is the only caffeine plant native to [[cannabis-pest-management-guide]] — but offers unmatched variety.
+- **Yaupon is the only caffeine plant native to [[cannabis-pest-management]] — but offers unmatched variety.
 
 ### "I want a social, shared drinking experience"
 → **Yerba mate** has a rich cultural tradition of communal drinking from a shared gourd with a metal straw (bombilla). It requires subtropical conditions (zone 8b+) and consistent moisture. The smoky, earthy flavor is distinctive and polarizing — people tend to love it or hate it.

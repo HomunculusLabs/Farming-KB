@@ -27,7 +27,7 @@ Low levels of serotonin are linked to:
 - Difficulty finishing things
 - Poor impulse control
 - Irritability
-- [[blesching-cannabis-inflammatory-bowel-disease]], and [[endocannabinoid-system-overview]]
+- [[blesching-cannabis-inflammatory-bowel-disease]], and [[endocannabinoid-system]]
 - [[blesching-cannabis-sleep-disorders]]
 - [[endocannabinoid-system]]
 - [[doc]]

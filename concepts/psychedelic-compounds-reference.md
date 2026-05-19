@@ -121,7 +121,7 @@ Climate adaptation is essential for long-term success. What works in temperate r
 ## See Also
 [[cannabis-oil-isomerization]]
 - [[psychedelic-mushroom-history]] for historical context
-- [[amanita-muscaria-guide]] for Amanita-specific information
+- [[amanita-muscaria]] for Amanita-specific information
 - [[entheogen-culture]] for religious and spiritual use
 - [[mushroom-species-guide]] for cultivation-relevant species
 - [[5-meo-dmt-reference]]

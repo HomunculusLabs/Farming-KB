@@ -123,6 +123,6 @@ Lacto-fermentation is inherently safe when basic principles are followed:
 
 - [[fermented-hot-sauce-guide]] Topics
 
-- [[root-cellaring-guide]] for storing finished ferments at cool temperatures
+- [[root-cellaring]] for storing finished ferments at cool temperatures
 - [[canning-and-preserving]] for complementary preservation methods
 - [[sourdough-bread-guide]] for grain-based fermentation

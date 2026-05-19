@@ -98,7 +98,7 @@ Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), [
 
 - [[medicinal-herbs-for-livestock]]
 - [[permaculture-zone-and-sector-analysis]]
-- [[permaculture-plant-selection-guide]]
+- [[permaculture-plant-selection]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

@@ -10,7 +10,7 @@ type: concept
 
 # Psilocybe cubensis Cultivation
 
-[[psilocybin-mushrooms-overview]], [[harm-reduction-guide]]
+[[psilocybin-mushrooms]], [[harm-reduction-guide]]
 ## Background and Context
 
 [[psilocybe-cubensis]] Cultivation is an important subject that has garnered significant attention

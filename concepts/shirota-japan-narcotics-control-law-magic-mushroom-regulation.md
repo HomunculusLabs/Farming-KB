@@ -16,7 +16,7 @@ While the active compounds themselves were [[psilocin-chemical-synthesis]] the p
 
 Shirota and colleagues noted that the identification of magic mushrooms using morphologic and microscopic analyses is "quite difficult without experts."
 
-[[psilocybin-mushroom-identification-guide]] requires specialized mycological training and is subject to the inherent variability of biological specimens.
+[[psilocybin-mushroom-identification]] requires specialized mycological training and is subject to the inherent variability of biological specimens.
 
 Visual identification alone is unreliable because many non-psychoactive mushroom species closely resemble psychoactive ones.
 

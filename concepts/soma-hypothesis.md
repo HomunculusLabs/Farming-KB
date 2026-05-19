@@ -92,7 +92,7 @@ Despite scholarly criticism, the Soma hypothesis has been enormously influential
 
 ## See Also
 
-- [[amanita-muscaria-guide]] — The mushroom proposed as Soma
+- [[amanita-muscaria]] — The mushroom proposed as Soma
 - [[r-gordon-wasson]] — Primary advocate of the hypothesis
 - [[john-allegro]] — Extended the hypothesis to Christianity
 - [[psychedelic-mushroom-history]] — Timeline including Soma debate
@@ -146,4 +146,4 @@ Teeter proposes that the Christian Eucharist (bread and wine) and the Holy Grail
 - **Holy Grail (terra cotta vessel):** Amanita muscaria pieces placed in a terra cotta pot with liquid food (grape juice, honey water) resurrect and grow as mycelium on the pot walls. The pot is filled, sits 6-12 hours, ambrosia is poured off and diluted for consumption. The pot then dries for 1-4 weeks and can be reused indefinitely. The fungus becomes more potent with each cycle.
 - **Resurrection:** Dried Amanita muscaria resurrects into living mycelium within 3 days when rehydrated — the author argues this biological property is the literal origin of resurrection myths in multiple religions.
 
-See [[amanita-muscaria-guide]] for detailed preparation methods and [[entheogen-culture]] for broader context on entheogenic practices across cultures.
+See [[amanita-muscaria]] for detailed preparation methods and [[entheogen-culture]] for broader context on entheogenic practices across cultures.

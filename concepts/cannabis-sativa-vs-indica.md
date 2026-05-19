@@ -11,7 +11,7 @@ created: 2026-05-10
 
 ## Overview
 
-Medicinal cannabis [[cannabis-sativa-vs-indica-guide]]).
+Medicinal cannabis cannabis sativa vs indica).
 
 ### Indica
 

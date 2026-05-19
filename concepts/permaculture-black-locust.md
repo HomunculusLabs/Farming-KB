@@ -10,7 +10,7 @@ Updated: 2026-04-18 [[black-locust-entity]] ([[robinia-pseudoacacia]]) is a valu
 
 ## Beekeeping Value
 
-Black Locust is one of the premier honey plants in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. The fragrant white flowers bloom for 10-14 days in late spring, producing a light, mild, and very tasty honey that remains liquid for long periods. A single large tree can support multiple hives. See faires-[[permaculture-ethics-and-design-principles]], Black Locust is typically placed in zones 3-4 as a [[permaculture-nitrogen-fixing-trees-guide]]
+Black Locust is one of the premier honey plants in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. The fragrant white flowers bloom for 10-14 days in late spring, producing a light, mild, and very tasty honey that remains liquid for long periods. A single large tree can support multiple hives. See faires-[[permaculture-ethics-and-design-principles]], Black Locust is typically placed in zones 3-4 as a [[permaculture-nitrogen-fixing-trees]]
 
 - [[permaculture-forestry-systems]]
 ## Practical Applications

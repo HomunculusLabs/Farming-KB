@@ -137,5 +137,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[coleman-mobile-greenhouse-crop-rotation-soil-health]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]
-- [[greenhouse-growing-guide]]
+- greenhouse growing
 - [[permaculture-designers-manual-cold-climate-greenhouse]]

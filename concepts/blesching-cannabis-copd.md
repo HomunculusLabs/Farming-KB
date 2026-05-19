@@ -52,7 +52,7 @@ cannabinoids.
 
 Research suggests turmeric may play a protective role in COPD and acute lung
 injury through its anti-inflammatory and antioxidant properties. Scientists
-have recommended [[endocannabinoid-system-overview]]
+have recommended [[endocannabinoid-system]]
 - [[blesching-cannabis-administration-methods]]
 
 ## Practical Applications

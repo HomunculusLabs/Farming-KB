@@ -142,4 +142,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mycorrhizal-fungi-biome-surveys]]
 - [[smut-fungi]]
 - [[smut-fungi-grass-cereal-parasites]]
-- [[smut-fungi-guide]]
+- [[smut-fungi]]

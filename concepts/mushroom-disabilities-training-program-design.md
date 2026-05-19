@@ -40,7 +40,7 @@ Key elements of the self-reliance approach include:
 
 Trainee selection follows a structured process including application, screening, and final evaluation. Optimal group sizes are kept small enough for individual attention but large enough for peer interaction and mutual support.
 
-The trainer-to-trainee ratio must be carefully considered to ensure adequate supervision during practical sessions, which involve aseptic technique and potentially hazardous materials such as boiling water and pressure [[goose-keeping-detailed]] notes of all visits and meetings with graduates
+The trainer-to-trainee ratio must be carefully considered to ensure adequate supervision during practical sessions, which involve aseptic technique and potentially hazardous materials such as boiling water and pressure [[goose-keeping]] notes of all visits and meetings with graduates
 
 ## Financial Management and Responsibilities
 

@@ -32,7 +32,7 @@ of travelers experience acute motion sickness.
 - **Total Studies Reviewed:** 2
 - **Total [[tetrahydrocannabinol]] and [[cannabidiol-cbd]], tested across a wide dose range of 0.5 to 40 mg/kg, did
 **not** prevent motion-induced vomiting at any dose. This strongly suggests
-that THC's binding to the [[endocannabinoid-system-overview]]'s role:
+that THC's binding to the [[endocannabinoid-system]]'s role:
 
 1. **CB1 receptor expression** was significantly lower in subjects who
    suffered from motion sickness compared to those who felt fine.

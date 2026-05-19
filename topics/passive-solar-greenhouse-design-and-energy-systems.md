@@ -91,7 +91,7 @@ during the day while conduction provides steady radiant heat through the night.
 ## See Also
 
 - [[passive-solar-and-biomass-energy]]
-- [[greenhouse-growing-guide]]
+- [[greenhouse-growing]]
 - [[underground-greenhouse-walipini]]
 - [[rocket-stove]]
 - [[masonry-heater-design]]

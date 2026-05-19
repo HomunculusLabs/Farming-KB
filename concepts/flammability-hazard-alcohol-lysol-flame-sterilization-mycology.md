@@ -10,7 +10,7 @@ source: guid-mhtml-file-exotic-cultivation-grass-seed.md
 
 ## Overview
 
-One of the most critical safety warnings in the Guid [[accessible-mushroom-cultivation-for-disabilities]] on [[mushroom-cultivation-overview]]:
+One of the most critical safety warnings in the Guid [[accessible-mushroom-cultivation-for-disabilities]] on [[mushroom-cultivation]]:
 
 - **Emphasis on cleanliness** — Cultivation guides universally stress the importance of working clean and disinfecting surfaces, leading cultivators to use liberal amounts of alcohol and Lysol
 - **Flame sterilization is standard practice** — Flaming needles and scalpels before inoculation is a fundamental contamination-prevention technique

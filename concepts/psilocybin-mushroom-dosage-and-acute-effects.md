@@ -137,7 +137,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[lsd-set-and-setting-framework]]
-- [[psychedelic-integration-guide]]
+- [[psychedelic-integration]]
 - [[psilocybin-mushroom-galactic-symbiote-mckenna-hypothesis]]
 - [[psilocybin-mushroom-minor-genera]]
 - [[psilocybin-mushroom-sclerotia-philosophers-stone-truffle]]

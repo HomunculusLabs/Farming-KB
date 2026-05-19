@@ -49,7 +49,7 @@ source into the swale or mound, such as green [[hugelkultur-beds]] are substanti
 - **Water retention:** The decomposing wood holds large quantities of
   water, reducing or eliminating the need for irrigation
 
-- **[[hugelkultur-guide]]
+- **[[hugelkultur]]
 - [[doc]]
 - [[swale]]
 

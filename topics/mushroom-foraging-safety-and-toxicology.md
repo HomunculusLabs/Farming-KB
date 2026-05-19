@@ -121,7 +121,7 @@ The lethal dose of amatoxins for an adult human is estimated at 6 to 7
    Review.
 4. Money, N. P. "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms,
    Molds, and Mycologists." Harvard University Press, 2002.
-5. Gartz, J. "[[psilocybin-mushroom-identification-guide]]: Dangers and Tips for Safe Foraging."
+5. Gartz, J. "[[psilocybin-mushroom-identification]]: Dangers and Tips for Safe Foraging."
 6. "Mushroom Poisoning Guide." Mycological Society Publications.
 7. "Mushroom Poisoning and Lookalikes: A Field Reference."
 8. "Fungal Poisons and Toxicology: Mechanisms, Treatment, and Prevention."

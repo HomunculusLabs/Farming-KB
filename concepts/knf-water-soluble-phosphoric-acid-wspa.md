@@ -12,7 +12,7 @@ type: concept
 
 Water-Soluble Phosphoric Acid (WS-PA) is a [[knf-reproductive-growth-stage]]. This period, also
 called "[[cho-plant-growth-stage-treatment-protocols]] of the crop
-according to the [[knf-water-soluble-phosphoric-acid-detailed]]
+according to the [[knf-water-soluble-phosphoric-acid]]
 - [[det]]
 - [[cho-water-soluble-phosphoric-acid-preparation]]
 
@@ -98,7 +98,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[abscisic-acid-plant-stress-hormone]]
 - [[cervantes-water-hash-bubble-hash]]
 - [[gadd-lichens-water-relations-symbiosis]]
-- [[knf-water-soluble-phosphoric-acid-detailed]]
+- [[knf-water-soluble-phosphoric-acid]]
 - [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

@@ -87,7 +87,7 @@ Mineral ingredients include:
 
 ## Extract vs. AACT
 
-Some machines produce excellent organism numbers using an extraction method, but this produces a **compost extract**, not an [[actively-aerated-compost-tea-overview]] tea. AACT requires the brewing step — a period of active microbial growth and reproduction that allows the community to develop and multiply. The distinction matters because:
+Some machines produce excellent organism numbers using an extraction method, but this produces a **compost extract**, not an [[actively-aerated-compost-tea]] tea. AACT requires the brewing step — a period of active microbial growth and reproduction that allows the community to develop and multiply. The distinction matters because:
 
 - **Extraction** only removes organisms present in the compost — no growth occurs during the process.
 - **Brewing** allows organisms to multiply (often 10–100×), develop community interactions, and reach higher population densities.

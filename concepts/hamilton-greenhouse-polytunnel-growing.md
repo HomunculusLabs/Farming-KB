@@ -112,7 +112,7 @@ Flexible approaches that respond to changing conditions. For hamilton greenhouse
 ## See Also
 - [[hamilton-container-greenhouse-growing]]
 - [[hamilton-greenhouse-management-organic]]
-- [[greenhouse-growing-guide]]
+- [[greenhouse-growing]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

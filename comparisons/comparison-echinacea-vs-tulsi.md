@@ -28,7 +28,7 @@ The plant is exceptionally cold-hardy (USDA Zones 3-9), drought-tolerant
 once established, and thrives in full sun with well-drained soil. Roots
 are typically harvested in the autumn of the third or fourth year.
 
-The primary [[cannabis-autoimmune-conditions-detailed]] and during pregnancy, and carries
+The primary [[cannabis-autoimmune-conditions]] and during pregnancy, and carries
 a risk of Asteraceae cross-reactivity for those allergic to ragweed.
 
 ## Tulsi

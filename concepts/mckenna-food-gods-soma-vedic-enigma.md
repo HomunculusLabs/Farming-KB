@@ -64,7 +64,7 @@ McKenna frames the [[mckenna-food-gods-dmt-experience-hyperspace]]
 - [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-search-for-soma-vedic-enigma]]
 - [[mckenna-soma-mystery-and-the-vedic-enigma]]
-- [[mckenna-soma-vedic-enigma-detailed]]
+- [[mckenna-soma-vedic-enigma]]
 
 ## Overview
 

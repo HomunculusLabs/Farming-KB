@@ -86,7 +86,7 @@ queasiness even from genuine [[field-guide-psilocybin-mushroom-hunting-methodolo
   seasonal and habitat guidance
 - [[psilocybin]]
 - [[field-guide-psilocybin-mushroom-species-identification]]
-- [[psilocybin-mushroom-identification-guide]]
+- [[psilocybin-mushroom-identification]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-A greenhouse is a very useful addition to any garden. The major advantage of owning one is that it enables you to sow and harvest crops months earlier than would otherwise be possible in temperate or cold areas. The [[greenhouse-growing-guide]] structures have excellent light transmission but can only be used for crops that need no supplementary heating.
+A greenhouse is a very useful addition to any garden. The major advantage of owning one is that it enables you to sow and harvest crops months earlier than would otherwise be possible in temperate or cold areas. The [[greenhouse-growing]] structures have excellent light transmission but can only be used for crops that need no supplementary heating.
 
 ### Ventilation
 

@@ -132,7 +132,7 @@ A DIY laminar flow hood typically costs $200-500 depending on size and blower ch
 
 ## Related Topics
 
-- [[mushroom-sterile-technique-detailed]] — sterile procedures for working at the hood
+- [[mushroom-sterile-technique]] — sterile procedures for working at the hood
 - [[agar-work-guide]] — agar technique, the primary use case for a flow hood
 - [[grain-spawn-preparation]] — sterile inoculation of grain jars
 - [[mushroom-spore-printing-and-storage]] — creating spore syringes under sterile conditions

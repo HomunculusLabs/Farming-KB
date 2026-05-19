@@ -16,7 +16,7 @@ Composting is the cornerstone of [[savory-living-organisms-as-tools]] per gram:
 - Soil fungi, algae, and bacteria break down organic matter
 - Earthworms aerate the soil and create channels for water and root penetration
 - These organisms provide plants with nutrients in accessible forms
-- They improve soil structure by breaking it up and allowing [[green-manure-crops-detailed]]
+- They improve soil structure by breaking it up and allowing [[green-manure-crops]]
 - Brown materials: straw, autumn leaves, woody prunings, paper, cardboard
 - Keep moist but not waterlogged
 - Turn periodically to introduce air

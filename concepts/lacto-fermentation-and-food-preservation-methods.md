@@ -19,7 +19,7 @@ The key safety principle is that lactic acid produced during fermentation create
 
 Understanding the microbiology of lacto-fermentation helps ensure consistent, safe results.
 
-- **[[jadam-anaerobic-fermentation-principles]]. The primary species include [[root-cellaring-guide]] for 4 weeks before eating. Any mold on top should be scraped off.
+- **[[jadam-anaerobic-fermentation-principles]]. The primary species include [[root-cellaring]] for 4 weeks before eating. Any mold on top should be scraped off.
 
 ## Pickling
 

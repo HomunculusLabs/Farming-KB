@@ -15,7 +15,7 @@ A super-guild is an interconnected landscape-scale assemblage where multiple ind
 
 ## Why Super-Guilds
 
-If the only trees in a yard are fruit-bearing varieties, all pruned into open form and uniformly blooming, the landscape will be visually boring and will lack the biodiversity that is possible and necessary for a thriving hemenway-guild-design-roles-and-assembly, [[gaias-garden-stacking-functions-detailed]] principles to add new benefits at the same time.
+If the only trees in a yard are fruit-bearing varieties, all pruned into open form and uniformly blooming, the landscape will be visually boring and will lack the biodiversity that is possible and necessary for a thriving hemenway-guild-design-roles-and-assembly, [[gaias-garden-stacking-functions]] principles to add new benefits at the same time.
 
 Bill Mollison, in Permaculture: A [[gaias-garden-beneficial-birds-wildlife]], abundant wildlife will greedily consume the berries. Mulberries are quickly gobbled up by domestic fowl as well, so gaias-garden-duck-integration in the yard will clean up any dropped fruit. Mulberries also provide excellent forage for silkworms, timber, and shade.
 
@@ -47,7 +47,7 @@ When multiple super-guilds are planted across a property, they can be further in
 - **Ground-cover guilds** of nitrogen fixers and [[permaculture-plants-root-crops-and-tubers]]
 3. Identify compatibility conflicts between adjacent guilds (allelopathy, shade competition, root competition)
 4. Choose buffer plants that bridge conflicts while adding new functions -- prioritize species with three or more roles
-5. Add understory layers of shrubs, herbs, and [[gaias-garden-stacking-functions-detailed]] and interconnected beneficial relationships. Each level of complexity yields more total output with less total maintenance -- the hallmark of mature [[super-skunk]]
+5. Add understory layers of shrubs, herbs, and [[gaias-garden-stacking-functions]] and interconnected beneficial relationships. Each level of complexity yields more total output with less total maintenance -- the hallmark of mature [[super-skunk]]
 - [[permaculture-food-forest-design-principles]] for theoretical framework
 - gaias-garden-nurse-plants for establishing young trees within super-guilds
 ## Practical Considerations

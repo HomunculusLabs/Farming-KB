@@ -128,7 +128,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[aact-compost-organism-levels]]
-- [[ingham-soil-food-web-assessment-methods]]
+- [[soil-food-web-assessment-methods]]
 - [[keyline-design]]
 - [[ingham-field-guide-compost-tea-application-rates]]
 - [[soil-food-web]]

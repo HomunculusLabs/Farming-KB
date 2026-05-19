@@ -46,7 +46,7 @@ but for most gardeners, the compost-plus-COF approach is superior.
 The most practical approach for most gardeners combines elements of all
 these methods:
 
-- Use [[green-manure-crops-detailed]] between plantings.
+- Use [[green-manure-crops]] between plantings.
 - Maintain a compost heap for steady humus production.
 - Apply COF for balanced nutrient supply.
 - Use light mulching (not permanent thick layers) for weed suppression

@@ -59,7 +59,7 @@ reduce the risk of the disease.
 
 ## Cannabis and Alzheimer's Disease
 
-Recent experiments suggest the [[endocannabinoid-system-overview]]
+Recent experiments suggest the [[endocannabinoid-system]]
 - [[blesching-cannabis-health-index-mental-health-applications]]
 
 ## Practical Applications

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-## Domestic [[herb-spiral-design-guide]] Principles
+## Domestic [[herb-spiral-design]] Principles
 
 The herb spiral is a mound of soil built in a rising spiral approximately
 1.5 to 2 meters in diameter and 0.5 to 1 meter tall at the center. It

@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-Cob and hempcrete are two of the most popular natural [[natural-building-overview]]
+Cob and hempcrete are two of the most popular natural [[natural-building]]
 - [[comparison-cob-vs-adobe]]
 - [[comparison-wattle-and-daub-vs-cob-construction]]
 ## Practical Applications

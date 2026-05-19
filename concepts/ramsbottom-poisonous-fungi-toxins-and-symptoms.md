@@ -51,7 +51,7 @@ A glucoside isolated from Amanita phalloides, originally assumed to be the activ
 The first poison isolated from [[lloyd-library]]
 
 - [[amanita-poisoning-identification-antidotes-palmer]]
-- [[amanita-muscaria-guide]]
+- [[amanita-muscaria]]
 - [[inocybe-aeruginascens-profile]]
 - [[mycology-modern-era]]
 

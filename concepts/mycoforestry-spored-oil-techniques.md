@@ -18,7 +18,7 @@ Spored oil techniques are [[query-how-to-store-mushroom-spores-long-term]]
 
 When spored oil makes contact with cut wood, mycelial colonies of species like [[staycare-trametes-versicolor-bioremediation-applications]]): Hardy competitor with medicinal properties; tolerates wide range of wood types
 - **Wood lovers** ([[mycoforestry]] -- broader context of fungal [[mycoforestry-practices]] -- comprehensive mycoforestry techniques
-- [[mycorestoration-overview]] -- restoration applications
+- [[mycorestoration]] -- restoration applications
 - mycoforestry-forest-management-with-fungi -- integrated forest management approach
 ## Practical Considerations
 

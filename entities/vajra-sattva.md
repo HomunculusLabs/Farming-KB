@@ -75,7 +75,7 @@ The practical implications for communities and practitioners are substantial. Kn
 - [[buddha-vairochana]]
 - [[chonyid-bardo]]
 - [[psychedelic-combination-guide]]
-- [[psychedelic-integration-guide]]
+- [[psychedelic-integration]]
 - [[psychedelic-integration-practices]]
 - [[ratnasambhava]]
 - [[turner-psychedelic-combination-experience-reports]]

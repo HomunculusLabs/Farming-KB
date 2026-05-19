@@ -18,7 +18,7 @@ Yes — with important caveats. While traditional kombucha requires tea (*[[edap
 
 - **Nitrogen** — Caffeine and theanine (amino acids) feed yeast metabolism and microbial growth. Without them, fermentation is slower and the SCOBY may weaken over successive batches.
 - **Tannins** — Tea polyphenols provide structure for the cellulose pellicle and contribute antimicrobial protection. Low-tannin substrates produce thinner, weaker pellicles.
-- **Minerals** — Tea contains [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] (defensin-1, [[knf-water-soluble-phosphoric-acid-detailed]] cial sweeteners, [[query-how-does-biochar-improve-soil-health-and-should-i-use-it]]
+- **Minerals** — Tea contains [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] (defensin-1, [[knf-water-soluble-phosphoric-acid]] cial sweeteners, [[query-how-does-biochar-improve-soil-health-and-should-i-use-it]]
 - [[query-can-fungi-clean-up-oil-spills]]
 
 ## Overview

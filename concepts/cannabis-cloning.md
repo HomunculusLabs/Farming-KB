@@ -129,7 +129,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - banisteriopsis caapi -- aeroponic cloning systems
 - [[doc]]
 - [[banisteriopsis-caapi]]
-- [[cannabis-cloning-guide]]
+- cannabis cloning
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

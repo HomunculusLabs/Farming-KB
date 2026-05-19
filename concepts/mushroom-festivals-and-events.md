@@ -133,7 +133,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Conservation and Stewardship
 - Foray data contributes to conservation assessments
 - Rare species records inform habitat protection decisions
-- Events promote sustainable [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] (see [[mushroom-foraging-safety-guide]])
+- Events promote sustainable [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] (see [[mushroom-foraging-safety]])
 - Public education about fungal ecology and forest health
 - Advocacy for forest conservation and mycological research funding
 

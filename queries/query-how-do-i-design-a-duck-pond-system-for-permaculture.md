@@ -18,7 +18,7 @@ channels or swales into garden beds during heavy rain or periodic pond
 draining and maintenance cycles.
 
 Ducks also provide active [[dry-gardening-unirrigated-vegetable-production-solomon]] creates a
-[[cannabis-pest-management-guide]] services.
+[[cannabis-pest-management]] services.
 
 ## Duck Species Selection
 

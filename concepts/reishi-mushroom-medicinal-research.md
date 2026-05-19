@@ -89,7 +89,7 @@ Financial viability influences adoption and long-term sustainability of any prac
 - [[turkey-tail-mushroom-cancer-research]]
 - [[maitake-mushroom-research]]
 - [[chaga-mushroom-research]]
-- [[reishi-cultivation-guide]]
+- [[reishi-cultivation]]
 - [[medicinal-mushroom-guide-reishi]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

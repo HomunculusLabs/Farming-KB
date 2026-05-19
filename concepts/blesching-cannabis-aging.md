@@ -22,7 +22,7 @@ Aging is a complex biological process involving progressive deterioration of
 cellular function, organ systems, and physiological reserves. Key age-related
 concerns include cognitive decline, chronic inflammation ("inflammaging"),
 bone density loss ([[blesching-cannabis-alzheimers-disease]]
-- [[endocannabinoid-system-overview]]
+- [[endocannabinoid-system]]
 ## Practical Applications
 
 Cannabis and Aging has a range of practical applications that make it relevant to

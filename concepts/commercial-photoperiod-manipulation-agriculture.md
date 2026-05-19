@@ -141,7 +141,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[phytochrome]]
 - [[chrysanthemum-greenhouse-photoperiod-manipulation]]
-- [[chrysanthemum-greenhouse-photoperiod-manipulation-detailed]]
+- [[chrysanthemum-greenhouse-photoperiod-manipulation]]
 - [[comparison-wild-fermentation-vs-commercial-starter-culture]]
 - [[history-of-commercial-mushroom-cultivation]]
 - [[magic-mushroom-retail-markets-and-commercial-distribution-channels]]

@@ -23,7 +23,7 @@ Korean Natural Farming was developed by Cho Han Kyu (known as Master Cho) beginn
 1960s, building on traditional Korean agricultural practices and his own decades of
 experimentation. The system uses a collection of fermented biological inputs that each
 target specific plant needs. The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] page provides the
-complete method for making JMS, which replaces almost all of the individual [[cannabis-pest-management-guide]] also differ substantially. KNF uses a variety of
+complete method for making JMS, which replaces almost all of the individual [[cannabis-pest-management]] also differ substantially. KNF uses a variety of
 targeted inputs including OHN (which combines garlic, ginger, licorice, and Angelica
 root fermented in alcohol) and specific plant-based pest deterrents. JADAM takes a
 broader approach with its [[jadam-compost-free-approach]], arguing that proper microbial inoculation eliminates the need for composting

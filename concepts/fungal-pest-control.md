@@ -10,7 +10,7 @@ sources:
 
 # Fungal Pest Control
 
-Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. Part of the [[mycorestoration-overview]] framework.
+Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. Part of the [[mycorestoration]] framework.
 
 ## Core Species
 
@@ -81,7 +81,7 @@ Similar social-disruption strategy used against fire ants:
 
 ## See Also
 
-- [[mycorestoration-overview]] for the broader framework
+- [[mycorestoration]] for the broader framework
 - [[garden-mushroom-growing]] for combining [[jadam-pest-control-with-natural-pesticides-jhs]] food production
 - [[fungal-ecology]] for how fungi interact with insect populations in nature
 ## Practical Applications

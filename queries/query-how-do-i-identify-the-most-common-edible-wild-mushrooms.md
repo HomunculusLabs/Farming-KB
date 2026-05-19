@@ -44,7 +44,7 @@ be vividly colored.
   mushroom species
 
 ## Related Questions
-- [[mushroom-foraging-safety-guide]]
+- [[mushroom-foraging-safety]]
 ## Practical Considerations
 
 Successful implementation of How Do I Identify the Most Common Edible Wild Mushrooms? requires attention to

@@ -20,7 +20,7 @@ Steve Solomon approaches weeds not as enemies to be eliminated but as competitor
 - The goal is not a weed-free garden but a garden where vegetables outcompete weeds.
 - Proper spacing of vegetable crops is the first line of defense -- widely spaced plants develop large root systems that access resources beyond the reach of weeds.
 - Dense planting ([[hand-watering-garden]]
-- [[cannabis-pest-management-guide]] sections
+- [[cannabis-pest-management]] sections
 
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[garden-hand-tools-solomon]]

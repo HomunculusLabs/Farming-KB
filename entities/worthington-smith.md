@@ -41,7 +41,7 @@ served as primary reference material for American students of fungi in the late 
 ## Published Works
 
 - *Toadstools and How to Find Them*. London: Robert Hardwicke. Illustrated with large colored
-  charts, used as a primary [[edible-mushroom-species-identification-guide]].
+  charts, used as a primary [[edible-mushroom-species-identification]].
 - Contributions to periodicals and scientific journals on British fungal species.
 - His illustrations were considered among the best available for [[amanita-muscaria-physical-description-field-identification]] in an era
   before widespread photography.

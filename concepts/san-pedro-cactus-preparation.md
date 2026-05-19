@@ -133,4 +133,4 @@ See [[psychedelic-plants-indoor-growing]] for detailed indoor cultivation guidan
 ## Related Topics
 
 - [[mescaline-extraction-guide]] — acid-base extraction of mescaline
-- [[peyote-ceremony-guide]] — traditional mescaline use in North America
+- [[peyote-ceremony]] — traditional mescaline use in North America

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter [[fungal-ecosystem-processes-overview]], degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and [[dighton-mycorrhizal-diversity-ecosystem-function]]. This connects to [[pollinator-conservation|conservation]], [[mycorestoration-overview|restoration]], and [[pollinator-conservation]] efforts.
+Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter [[fungal-ecosystem-processes-overview]], degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and [[dighton-mycorrhizal-diversity-ecosystem-function]]. This connects to [[pollinator-conservation|conservation]], [[mycorestoration|restoration]], and [[pollinator-conservation]] efforts.
 
 ## Identification
 

@@ -114,7 +114,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[chicken-keeping-guide]]
+- [[chicken-keeping]]
 - [[comparison-chicken-keeping-vs-beekeeping-basics]]
 - [[knf-livestock-chicken-house-natural-farming]]
 - [[mollison-designers-chicken-tractors-egg-production]]

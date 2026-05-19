@@ -136,5 +136,5 @@ fundamentally different toxic mechanisms requiring different treatments.
 ## See Also
 
 - [[amanita]] — Deadly Amanita species
-- [[edible-mushroom-species-identification-guide]] — Safe species to forage
+- [[edible-mushroom-species-identification]] — Safe species to forage
 - [[toadstool-eating-and-amateur-mycology]] — Palmer's testing methodology

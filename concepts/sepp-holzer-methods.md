@@ -23,7 +23,7 @@ Sepp Holzer farms the Krameterhof at 1,000-1,500m altitude in Lungau, Salzburg, 
 
 ## Raised Beds (Hugelkultur)
 
-See [[hugelkultur-guide]] for comprehensive details. Holzer's approach:
+See [[hugelkultur]] for comprehensive details. Holzer's approach:
 - Incorporate whole tree trunks, branches, and shrubs into beds (not wood chips)
 - Dig 1-1.5m deep, 1.5-2m wide trenches; place woody material, cover with soil
 - Bulky material rots slowly (10+ years), releasing steady nutrients
@@ -145,5 +145,5 @@ Holzer achieves productive farming without irrigation through:
 - [[food-forest-design]] — Food forest design framework
 - [[homestead-water-systems]] — Water systems for homesteads
 - [[mushroom-cultivation-methods]] — Mushroom growing techniques
-- [[hugelkultur-guide]] — Comprehensive hugelkultur construction guide
+- [[hugelkultur]] — Comprehensive hugelkultur construction guide
 - [[sepp-holzer]] — Austrian farmer, Krameterhof pioneer, agro-rebel philosophy

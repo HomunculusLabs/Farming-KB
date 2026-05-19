@@ -24,7 +24,7 @@ The concept of synergy parallels the [[herbal-medicine-preparation-methods]] for
 - [[medicinal-plant-preparations-tinctures-salves-teas]] — comprehensive reference
 
 ## Merged: Anti Inflammatory Herbs
-Inflammation is a fundamental [[cannabis-autoimmune-conditions-detailed]], neurodegenerative diseases, and cancer. See [[herbal-materia-medica]] — Individual herb profiles with anti-inflammatory data - herbal formulation principles 
+Inflammation is a fundamental [[cannabis-autoimmune-conditions]], neurodegenerative diseases, and cancer. See [[herbal-materia-medica]] — Individual herb profiles with anti-inflammatory data - herbal formulation principles 
 ## Practical Applications
 
 Herbal Formulation Principles has a range of practical applications that make it relevant to

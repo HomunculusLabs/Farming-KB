@@ -127,7 +127,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[endocannabinoid-system-overview]]
+- [[endocannabinoid-system]]
 - [[endocannabinoid-system]]
 - [[psilocybin]]
 - [[ethanol]]

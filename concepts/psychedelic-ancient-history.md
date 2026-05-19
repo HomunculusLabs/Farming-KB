@@ -19,7 +19,7 @@ The use of psychoactive plants and fungi in religious, healing, and divinatory c
 
 - The **[[the-road-to-eleusis-wasson-hofmann-ruck]]," 1978) proposed that the kykeon (a barley drink consumed during the initiation) was prepared from ergotized barley:
 
-- [[amanita-muscaria-guide]]):
+- [[amanita-muscaria]]):
 
 - The mushroom's red-and-white appearance matches some Vedic descriptions
 - Its use among Siberian peoples (Chukchee, Koryak) as a sacred intoxicant was well documented

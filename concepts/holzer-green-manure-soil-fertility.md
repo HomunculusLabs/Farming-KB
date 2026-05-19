@@ -11,7 +11,7 @@ tags: [holzer, soil]
 
 # Holzer Green Manure and Soil Fertility
 
-[[green-manure-crops-detailed]] is important so individual plants propagate themselves, increasing system stability
+[[green-manure-crops]] is important so individual plants propagate themselves, increasing system stability
 - Slow decomposition of green manure crops in autumn and winter builds productive soil
 - Root systems loosen the soil, leading to good soil structure
 - Plant cover acts like a quilt, protecting soil from wind, storms, rain, heat, sun, and frost

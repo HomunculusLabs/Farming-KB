@@ -82,5 +82,5 @@ relationships between related species and groups.
 - [[coleman-willow-basket-hotte-manure-transport]]
 - [[jadam-human-manure-liquid-fertilizer]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]
-- [[green-manure-crops-detailed]]
+- [[green-manure-crops]]
 - [[comparison-companion-planting-vs-green-manure]]

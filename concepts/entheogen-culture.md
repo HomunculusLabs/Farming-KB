@@ -44,7 +44,7 @@ sources:
 Annual initiation at Eleusis near Athens, running for nearly 2,000 years. Initiates reported life-changing visionary experiences. [[r-gordon-wasson]], [[albert-hofmann]], and Carl Ruck proposed in entheogen culture (1978) that the kykeon potion contained Claviceps purpurea (ergot), which contains ergotamine -- a precursor to LSD. Sophocles wrote: "Thrice happy are those who have seen these rites; to them alone is granted a true life in death."
 
 ### Soma / Haoma (Vedic India / Zoroastrian Persia)
-Central sacrament of Vedic religion, praised in 120+ hymns of the Rig Veda. Soma was "pressed" from a plant, consumed in ritual, and produced divine visions. [[r-gordon-wasson]] proposed Amanita muscaria as Soma (1968). [[terence-mckenna]] and others have proposed Stropharia cubensis or Peganum harmala as alternatives. See [[amanita-muscaria-guide]].
+Central sacrament of Vedic religion, praised in 120+ hymns of the Rig Veda. Soma was "pressed" from a plant, consumed in ritual, and produced divine visions. [[r-gordon-wasson]] proposed Amanita muscaria as Soma (1968). [[terence-mckenna]] and others have proposed Stropharia cubensis or Peganum harmala as alternatives. See [[amanita-muscaria]].
 
 ### Mesoamerican Mushroom Cults (Mexico, pre-Columbian)
 Aztec "Teonanacatl" (flesh of the gods), Mazatec velada ceremonies. Documented by 16th-century Spanish friars who called them diabolical. Rediscovered by [[r-gordon-wasson]] in 1955 when he participated in a ceremony led by Maria Sabina. This discovery triggered the modern psychedelic era. See [[psychedelic-mushroom-history]].
@@ -116,7 +116,7 @@ McKenna's Esalen lecture provides a distinctive view of shamanism:
 
 - [[psychedelic-mushroom-history]] for the historical timeline
 - [[psychedelic-compounds-reference]] for substance details
-- [[amanita-muscaria-guide]] for the Soma/Haoma candidate
+- [[amanita-muscaria]] for the Soma/Haoma candidate
 - [[psychoactive-cacti-guide]] for peyote, San Pedro, and mescaline cacti
 - [[mushrooms-and-mankind]] for ethnomycological theories about religion
 - [[ralph-metzner]] for the scholarly bridge between Eastern and Western consciousness traditions

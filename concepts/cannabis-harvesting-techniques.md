@@ -11,7 +11,7 @@ sources:
 Updated: 2026-04-18
 
 Source: The [[cannabis-flushing-before-harvest]].
-2. **Dark period**: Some growers give plants 24–48 hours of complete darkness before harvest. The theory is that this boosts resin and terpene production as a [[cannabis-drying-and-curing-guide]] for drying procedures
+2. **Dark period**: Some growers give plants 24–48 hours of complete darkness before harvest. The theory is that this boosts resin and terpene production as a [[cannabis-drying-and-curing]] for drying procedures
 2. **Do NOT rush drying**: Slow, controlled drying preserves terpenes and prevents mold
 3. **Cure properly**: Curing develops flavor and smoothness over weeks. See [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] time
 - [[cannabis-flowering-stage]] — flowering phase management

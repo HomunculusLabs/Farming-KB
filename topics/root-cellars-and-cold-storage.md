@@ -51,7 +51,7 @@ The term root cellar can refer to a dug room in a hillside, a buried masonry
 chamber, a walled-off basement corner, an insulated outbuilding, a pit, or even
 a reused chest freezer sunk into a cold location. What unites these forms is not
 the [[root-cellar-design-and-construction]]
-- [[root-cellaring-guide]]
+- [[root-cellaring]]
 - [[solomon-root-cellaring-and-crop-storage]]
 - [[mollison-designers-cold-caves-root-cellar-storage]]
 - faires-no-energy-food-storage

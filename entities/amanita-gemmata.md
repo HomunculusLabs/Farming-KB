@@ -48,7 +48,7 @@ Unlike ibotenic acid, muscimol acts as a potent and selective GABA_A receptor ag
 
 - [[amanita-cesarea]]
 - [[amanita-muscaria-grail-terra-cotta-vessel-preparation]]
-- [[amanita-muscaria-guide]]
+- [[amanita-muscaria]]
 - [[amanita-muscaria-living-bread-sacrament]]
 - [[amanita-muscaria-resurrection-rehydration-three-days]]
 - [[biblical-manna-and-amanita-muscaria]]

@@ -87,7 +87,7 @@ Alis and clay paints offer natural, breathable alternatives to conventional pain
 
 ## Straw Bale Construction
 
-Straw bale construction originated in the Sandhills of Nebraska in the late [[natural-building-overview]] | [[cob-building-basics-detailed]] | [[straw-bale-construction]] |
+Straw bale construction originated in the Sandhills of Nebraska in the late [[natural-building]] | [[cob-building-basics-detailed]] | [[straw-bale-construction]] |
 [[cordwood-construction]] | [[rammed-earth]] | [[passive-solar-design]] |
 [[permaculture-design-principles]] |
 [[homesteading-self-sufficiency-skills]]

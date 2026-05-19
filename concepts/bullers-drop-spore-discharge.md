@@ -10,13 +10,13 @@ sources:
 # Buller's Drop and Spore Discharge Mechanism
 
 Buller's drop is the fluid droplet mechanism that powers spore discharge ([[bloomfield-john-webster-ballistospore-discharge-discovery]])
-in [[gasteromycete-fungi-overview]] have lost this mechanism. Their spores lack
+in [[gasteromycete-fungi]] have lost this mechanism. Their spores lack
 the hilar appendix and are typically spherical or ellipsoidal, reflecting their enclosed spore
 production and alternative dispersal strategies (insect vectors, wind puffing, rain splashing).
 
 ## Related Topics
 
-- [[gasteromycete-fungi-overview]] - Fungi that lost the mechanism
+- [[gasteromycete-fungi]] - Fungi that lost the mechanism
 - [[fungi-around-the-world-species-distribution]]
 - fungal-spore-dispersal-animals-wind
 ## Practical Considerations

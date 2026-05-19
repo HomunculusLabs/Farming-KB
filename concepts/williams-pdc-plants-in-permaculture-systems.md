@@ -5,7 +5,7 @@ Most people think permaculture is about plants. Permaculture is not
 about specific elements but about the connections between those
 elements. That said, understanding plants is crucial to permaculture
 design. Plants are the cornerstone life-form of our ecology and are
-usually viewed as the cornerstone of a good [[gaias-garden-stacking-functions-detailed]] simultaneously.
+usually viewed as the cornerstone of a good [[gaias-garden-stacking-functions]] simultaneously.
 [[invasive-species-management]] (Weeds)**: High propagation rates that enter
   existing ecologies and destabilize them by out-competing existing
   plants

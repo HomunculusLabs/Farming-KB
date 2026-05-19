@@ -36,7 +36,7 @@ Leaves are simple, opposite, ovate to broadly ovate, 2-7 cm long and 1.5-5 cm wi
 
 The species occupies a wide ecological amplitude, growing from sea level to 2,000 meters elevation. It flourishes as a weed in cultivated fields, along roadsides, in pastures, and on disturbed ground. The plant prefers moist, well-drained sandy or loamy soils but tolerates both waterlogged and drought-prone conditions.
 
-Its prostrate growth habit and vigorous root system make it a persistent weed in agricultural systems, particularly in rice paddies, sugarcane fields, and [[cannabis-autoimmune-conditions-detailed]].
+Its prostrate growth habit and vigorous root system make it a persistent weed in agricultural systems, particularly in rice paddies, sugarcane fields, and [[cannabis-autoimmune-conditions]].
 
 Antioxidant activity has been demonstrated through multiple mechanisms including free radical scavenging, metal chelation, and lipid peroxidation inhibition. The total phenolic content correlates strongly with antioxidant capacity across different solvent extracts.
 

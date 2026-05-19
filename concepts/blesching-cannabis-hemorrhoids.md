@@ -40,7 +40,7 @@ In 1845, European medical literature described hemp leaf oil as being effective
 at reducing inflammation and managing neuralgic pains in cases of hemorrhoids.
 A paste of [[cannabis-topical-applications]]
 
-- [[endocannabinoid-system-overview]]
+- [[endocannabinoid-system]]
 ## Practical Considerations
 
 When working with Cannabis and Hemorrhoids, several practical factors should be

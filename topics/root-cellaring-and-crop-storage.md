@@ -64,7 +64,7 @@ faires-food-drying-and-no-energy-storage
 [[root-cellaring-and-no-energy-food-storage]]
 [[permaculture-food-storage-and-preservation]]
 [[solomon-on-root-cellaring]]
-[[root-cellaring-guide]]
+[[root-cellaring]]
 
 ## References
 

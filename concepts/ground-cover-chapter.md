@@ -16,7 +16,7 @@ sources:
 - **Soil protection**: Prevent erosion from wind and water by shielding the soil surface
 - **Moisture retention**: Reduce evaporation by shading the soil surface
 - **Weed suppression**: Outcompete unwanted species for light, water, and nutrients
-- **[[cannabis-pest-management-guide]]**: Some ground covers repel pests or attract [[fire-resistant-plants]]) near buildings and infrastructure
+- **[[cannabis-pest-management]]**: Some ground covers repel pests or attract [[fire-resistant-plants]]) near buildings and infrastructure
 - Combine nitrogen-fixing ground covers with non-fixing types for soil fertility
 - Plant ground covers beneath food-forest-understory-plants
 - Use ground covers on permaculture-earthworks|swale banks and [[hamilton-composting-and-organic-matter-management]]

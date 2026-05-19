@@ -105,7 +105,7 @@ Systems thinking reveals feedback loops and emergent properties that affect over
 - [[cannabis-drying-and-curing]]
 - [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]
 - [[green-cannabis-curing-drying-buds]]
-- [[cannabis-drying-and-curing-guide]]
+- [[cannabis-drying-and-curing]]
 - [[cannabis-indoor-growing-environmental-control]] — Nutrient management and pH
 - [[cannabis-strains-genetics-potency]] — Strain selection and potency factors
 ## Further Reading

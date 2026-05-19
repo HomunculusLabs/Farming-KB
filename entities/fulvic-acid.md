@@ -37,7 +37,7 @@ Fulvic acid is a low-molecular-weight humic substance that is soluble in water a
 
 ## Sources and References
 
-- Elaine Ingham, *The Field Guide I for [[actively-aerated-compost-tea-overview]] Tea (AACT)*, 2001–2003
+- Elaine Ingham, *The Field Guide I for [[actively-aerated-compost-tea]] Tea (AACT)*, 2001–2003
 - Soil Foodweb Inc. compost tea brewing guidelines
 
 ## Application Methods

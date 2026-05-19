@@ -9,7 +9,7 @@ sources:
 ---
 # Mescaline: Peyote and San Pedro Cactus Guide
 
-Mescaline is a naturally occurring psychedelic found in several cactus species, most notably Peyote (Lophophora williamsii) and San Pedro (Trichocereus pachanoi). Mescaline belongs to the [[ecstasy-mdma-guide]], [[peyote-ceremony-guide]].
+Mescaline is a naturally occurring psychedelic found in several cactus species, most notably Peyote (Lophophora williamsii) and San Pedro (Trichocereus pachanoi). Mescaline belongs to the [[ecstasy-mdma-guide]], [[peyote-ceremony]].
 
 ## Dosage
 

@@ -41,7 +41,7 @@ that myths, however fantastical, have their origins in actual historical events.
 
 This intellectual framework -- known as cultural evolution -- had reached its peak in the early twentieth
 century. Thinkers such as Edward Burnett Tylor, Herbert Spencer, and Auguste Comte proposed that human
-societies evolved through fixed stages from savagery to civilisation. Frazer's [[psilocybin-mushroom-identification-guide]] is
+societies evolved through fixed stages from savagery to civilisation. Frazer's [[psilocybin-mushroom-identification]] is
 worryingly unreliable.
 
 **Mycophagy patterns are not fixed.** During the [[palmer-edible-mushrooms-north-america]] safely. Wild mushroom

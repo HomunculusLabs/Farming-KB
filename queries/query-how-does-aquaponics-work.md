@@ -25,7 +25,7 @@ The [[aquaponics]] compares to other [[hamilton-composting-and-organic-matter-ma
 | Startup Cost | Medium to high | Medium | Low |
 | Maintenance | Moderate (fish + plants) | Moderate (plants only) | Variable |
 | Organic Certification | Possible | Rarely | Common |
-The [[aquaponics-guide]] covers common problems and their solutions in depth.
+The [[aquaponics]] covers common problems and their solutions in depth.
 ### Getting Started Checklist
 For anyone ready to build their first system, the following checklist covers the essential steps from planning to harvest.
 1. Choose a system type based on available space and budget

@@ -63,7 +63,7 @@ Guaienes exhibit several biological activities of pharmacological interest, thou
 
 Animal studies suggest the compound reduces inflammatory cytokine production, including TNF-α and interleukin-6.
 
-These effects may contribute to the [[staphylococcus-aureus]]* and *[[cannabis-pest-management-guide]].
+These effects may contribute to the [[staphylococcus-aureus]]* and *[[cannabis-pest-management]].
 
 The compound shows low acute toxicity with an estimated LD₅₀ > 5,000 mg/kg in rodent models.
 

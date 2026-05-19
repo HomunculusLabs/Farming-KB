@@ -68,7 +68,7 @@ Solomon also challenges the central promise of mulch gardening — that it elimi
 - **Spreading mulch**: Moving and distributing hundreds of pounds of organic material across the garden is itself significant labor
 - **Weed patrol**: Hand-pulling weeds that grow through the mulch is slower than running a hoe through clean rows
 - **Material acquisition**: Obtaining sufficient bulk material requires trips to suppliers, negotiations with hay farmers, or maintaining a truck
-- **[[cannabis-pest-management-guide]]**: Dealing with the slug, snail, and rodent populations that mulch harbors adds ongoing work
+- **[[cannabis-pest-management]]**: Dealing with the slug, snail, and rodent populations that mulch harbors adds ongoing work
 - **Seasonal renewal**: Mulch decomposes and must be replenished annually, typically in substantial quantities
 
 ## Overview

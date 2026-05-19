@@ -43,7 +43,7 @@ membership surge.
 
 The Telluride festival sits at the confluence of these streams.
 Attendees may come for the rigorous taxonomy workshops, the culinary
-mushroom cookery demonstrations, the [[psilocybin-mushroom-identification-guide]] forays,
+mushroom cookery demonstrations, the [[psilocybin-mushroom-identification]] forays,
 or the more esoteric lectures on psychedelic fungi and their cultural
 history. The festival does not discriminate between these motivations,
 treating all forms of mushroom enthusiasm as equally valid.

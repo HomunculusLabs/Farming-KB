@@ -12,7 +12,7 @@ type: concept
 # Hot Water Pasteurization of Straw for Mushroom Cultivation
 
 Straw is one of the most accessible and economical substrates
-for growing [[oyster-mushroom-species-guide]],
+for growing [[oyster-mushroom-species]],
 including [[growing-gourmet-straw-pasteurization-methods]]
 ## Background and Context
 

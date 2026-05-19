@@ -55,7 +55,7 @@ A common concern is that decomposing wood will tie up nitrogen. In practice, the
 
 ## Connections
 
-See also [[hugelkultur]], [[hugelkultur-guide]], [[hugelkultur-bed-construction-detailed]], [[sheet-mulching]], [[composting-systems]], [[raised-bed-gardening]], [[permaculture-principle-produce-no-waste]], and [[permaculture-principle-catch-and-store-energy]].
+See also [[hugelkultur]], [[hugelkultur]], hugelkultur bed construction, [[sheet-mulching]], [[composting-systems]], [[raised-bed-gardening]], [[permaculture-principle-produce-no-waste]], and [[permaculture-principle-catch-and-store-energy]].
 
 ## Overview
 

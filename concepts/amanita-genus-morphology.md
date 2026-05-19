@@ -26,7 +26,7 @@ Not all members of the genus are harmful. Ramsbottom (1945) describes:
 **Deadly species** (cell-degenerating toxins):
 - [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
-- [[mushroom-foraging-safety-guide]]. The deadly species ([[ramsbottom-poisonous-fungi-species]]
+- [[mushroom-foraging-safety]]. The deadly species ([[ramsbottom-poisonous-fungi-species]]
 - [[mushroom-foraging-safety]]
 ## Practical Considerations
 

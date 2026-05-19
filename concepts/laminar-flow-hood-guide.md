@@ -25,7 +25,7 @@ sources:
 
 A laminar flow hood (LFH) provides a continuous stream of HEPA-filtered air, creating a sterile workspace for mushroom cultivation, agar work, and tissue culture. It is the gold standard for contamination prevention.
 
-Related: [[mushroom-sterile-technique-detailed]], [[mushroom-grow-equipment]]
+Related: [[mushroom-sterile-technique]], [[mushroom-grow-equipment]]
 
 ## How It Works
 
@@ -119,6 +119,6 @@ Pre-built laminar flow hoods cost $500-3000+. For occasional home use, a still a
 ## See Also
 
 [[mushroom-contamination-identification]], [[mushroom-indoor-cultivation]]
-- [[mushroom-sterile-technique-detailed]] for workspace protocols beyond the hood
+- [[mushroom-sterile-technique]] for workspace protocols beyond the hood
 - [[agar-work-guide]] for detailed agar procedures
 - [[mushroom-grow-equipment]] for full equipment lists

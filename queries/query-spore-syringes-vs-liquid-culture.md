@@ -36,7 +36,7 @@ borders. The [[mushroom-liquid-culture]]
 For beginners, the decision between spore syringes and liquid culture often comes down
 to availability and cultivation goals. If you are just starting out and want to explore
 [[query-how-to-start-growing-mushrooms-at-home]]
-- [[mushroom-foraging-safety-guide]]
+- [[mushroom-foraging-safety]]
 ## Practical Considerations
 
 Successful implementation of What Is the Difference Between Spore Syringes and Liquid Culture? requires attention to

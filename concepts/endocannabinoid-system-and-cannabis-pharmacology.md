@@ -35,7 +35,7 @@ systems involved in maintaining homeostasis—the body's tendency to
 maintain internal stability despite changes in the external
 environment. Dysregulation of the ECS has been implicated in
 numerous disease states, which helps explain the remarkably broad
-[[cannabis-autoimmune-conditions-detailed]].
+[[cannabis-autoimmune-conditions]].
 
 ### Other Receptors
 

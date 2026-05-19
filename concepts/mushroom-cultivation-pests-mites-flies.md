@@ -14,7 +14,7 @@ Both adult sciarid flies and their larvae are vectors for mites. Mites hitch rid
 
 Mites are among the most serious pests in mushroom cultivation because of their small size, rapid reproduction, and difficulty of eradication. Several types of mites affect mushroom crops.
 
-Mushroom mites (Tarsonemus species) are microscopic arachnids that feed directly on mushroom mycelium. Heavy infestations can completely stall mycelial colonization. They are often introduced on contaminated [[mushroom-pests-and-diseases]] — comprehensive [[cannabis-pest-management-guide]] overview
+Mushroom mites (Tarsonemus species) are microscopic arachnids that feed directly on mushroom mycelium. Heavy infestations can completely stall mycelial colonization. They are often introduced on contaminated [[mushroom-pests-and-diseases]] — comprehensive [[cannabis-pest-management]] overview
 
 [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

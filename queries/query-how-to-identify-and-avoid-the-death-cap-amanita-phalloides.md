@@ -21,7 +21,7 @@ The [[amanita-phalloides-death-cap]] resource covers both the death cap and its 
 Several persistent myths about [[palmer-poisonous-mushrooms-deadly-species]] can be made safe by cooking, drying, or peeling is dangerously false; amatoxins are heat-stable and water-soluble.
 The myth that insects or animals will avoid poisonous mushrooms is also unreliable; slugs and some insects readily consume death caps without any ill effect.
 The belief that silver spoons or garlic will turn black in the presence of toxins has no scientific basis whatsoever and should be completely disregarded.
-The [[mushroom-foraging-safety-guide]]
+The [[mushroom-foraging-safety]]
 - [[query-how-to-identify-amanita-muscaria]]
 
 ## Overview

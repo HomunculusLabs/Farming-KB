@@ -28,7 +28,7 @@ sources:
 
 The substrate is the material on which mushroom mycelium grows and from which fruiting bodies derive nutrients. Selecting and preparing the right substrate is the single most important factor in successful cultivation.
 
-Related: [[mushroom-cultivation-basics]], [[mushroom-sterile-technique-detailed]]
+Related: [[mushroom-cultivation-basics]], [[mushroom-sterile-technique]]
 
 ## [[mushroom-cultivation-grain-spawn|Grain Spawn]]
 

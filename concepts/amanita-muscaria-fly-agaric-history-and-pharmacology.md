@@ -26,7 +26,7 @@ Among the Koryak tribes of northeast Siberia, the fungus is eaten to produce a s
 
 According to Scandinavian tradition, the Vikings ate Amanita muscaria to go berserk. This connection between the fly agaric and the legendary berserker rage has been debated by historians but remains a persistent element of the mushroom's folklore.
 
-The visual hallucinations induced by the mushroom are thought to be due to muscimol and [[mushroom-foraging-safety-guide]] classified Amanita muscaria among [[hallucinogenic-plants-united-states]]
+The visual hallucinations induced by the mushroom are thought to be due to muscimol and [[mushroom-foraging-safety]] classified Amanita muscaria among [[hallucinogenic-plants-united-states]]
 - classical-medieval-mushroom-knowledge
 - [[mushroom-toxins-and-poisoning]] and the danger of relying on outdated mushroom-identification|field guides.
 ## Practical Considerations

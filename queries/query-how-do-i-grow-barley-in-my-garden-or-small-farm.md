@@ -72,7 +72,7 @@ The leftover straw makes excellent mulch for garden beds, consistent with [[fuku
 
 ### Using Barley for Cover Cropping and Soil Building
 
-Barley excels as a fast-growing [[green-manure-crops-detailed]] that can be grown between main-season vegetables.
+Barley excels as a fast-growing [[green-manure-crops]] that can be grown between main-season vegetables.
 It produces abundant biomass in just 6–8 weeks, adding significant organic matter when turned under or crimped.
 The fibrous root system improves soil structure and helps prevent erosion on sloped ground.
 Barley's allelopathic compounds suppress weed seed germination, reducing weed pressure for the following crop.

@@ -36,7 +36,7 @@ Ducks are the gentlest and most versatile poultry. They eat algae and weeds from
 - With adequate water, grassy yard, and forage garden: minimal extra feed needed
 - Ducks need young grass; will quickly destroy a small unvaried pasture
 - [[cover-crop-guide-detailed]]
-- [[goose-keeping-detailed]]
+- [[goose-keeping]]
 - [[duck-keeping]]
 
 ## Practical Applications

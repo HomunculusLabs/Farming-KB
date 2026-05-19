@@ -13,7 +13,7 @@ has substantially revised our understanding of global mycorrhizal biogeography.
 
 ## Common Mycorrhizal Networks
 
-Individual [[fungal-biodiversity-overview]]
+Individual [[fungal-biodiversity]]
 - [[fungal-taxonomy-challenges]]
 ## Practical Applications
 

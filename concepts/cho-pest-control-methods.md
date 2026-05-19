@@ -116,7 +116,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fish-amino-acid]]
 - [[cho-natural-pest-control-methods]]
 - [[knf-pest-control-methods]]
-- [[cannabis-pest-management-guide]]
+- [[cannabis-pest-management]]
 - [[cervantes-sticky-traps-pest-monitoring]]
 - [[coleman-beneficial-insects-and-ecological-pest-control]]
 - [[ingham-foliar-pest-deterrence-aact]]

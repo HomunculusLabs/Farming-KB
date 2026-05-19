@@ -126,7 +126,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[psychedelic-mushroom-effects-guide]]
-- [[psychedelic-integration-guide]]
+- [[psychedelic-integration]]
 - [[psilocybin]]
 - [[mescaline]]
 - [[dmt]]

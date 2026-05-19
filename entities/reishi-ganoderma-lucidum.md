@@ -22,7 +22,7 @@ sources:
 - Exhibit anti-inflammatory, hepatoprotective, antihypertensive, and anti-tumor properties.
 
 ### Other Compounds
-- **Ganoderan** (peptidoglycan), **ergosterol**, **cordycepin** (trace amounts), **nucleosides** (adenosine, guanosine), **sterols** (ergosterol, cerevisterol), and [[cannabis-autoimmune-conditions-detailed]]).
+- **Ganoderan** (peptidoglycan), **ergosterol**, **cordycepin** (trace amounts), **nucleosides** (adenosine, guanosine), **sterols** (ergosterol, cerevisterol), and [[cannabis-autoimmune-conditions]]).
 - [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]; investigated for Alzheimer's and Parkinson's.
 - **Cardiometabolic**: Lowers blood pressure, cholesterol, and blood glucose in animal and preliminary human studies.
 - **Hepatoprotective**: Reduces liver fibrosis; protects against chemically induced injury.
@@ -120,7 +120,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[medicinal-mushroom-guide-reishi]]
-- [[reishi-cultivation-guide]]
+- [[reishi-cultivation]]
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
 - [[reishi-mushroom-medicinal-properties]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]

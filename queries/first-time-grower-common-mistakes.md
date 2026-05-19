@@ -41,7 +41,7 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ### 1. Skipping Sterile Technique
 **What happens**: Contamination wipes out your entire grow -- green mold, bacteria, or yeasts take over before mycelium colonizes.
 **Why**: Airborne spores are everywhere. Opening jars outside the SAB, not flame-sterilizing tools, or working in a dirty room introduces competitors.
-**How to avoid**: Work in a still air box or flow hood. Flame-sterilize tools between every transfer. Wipe surfaces with 70% isopropyl alcohol. Shower and wear clean clothes. See [[mushroom-sterile-technique-detailed]].
+**How to avoid**: Work in a still air box or flow hood. Flame-sterilize tools between every transfer. Wipe surfaces with 70% isopropyl alcohol. Shower and wear clean clothes. See [[mushroom-sterile-technique]].
 
 ### 2. Substrate Too Wet
 **What happens**: Bacterial contamination (sour rot), anaerobic conditions, stunted mycelial growth, grain jars that never fully colonize.
@@ -147,4 +147,4 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ## See Also
 
 - [[mushroom-contamination-identification]] — contaminant identification and response
-- [[mushroom-sterile-technique-detailed]] — proper lab procedures
+- [[mushroom-sterile-technique]] — proper lab procedures

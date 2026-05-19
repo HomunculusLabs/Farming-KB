@@ -86,8 +86,8 @@ PF viewed mushroom cultivation as a means for responsible adult exploration. The
 
 ## See Also
 
-- [[pf-tek-guide]] — Complete method documentation
+- [[pf-tek]] — Complete method documentation
 - [[psilocybin-mushroom-cultivation]] — Broader cultivation overview
-- [[mushroom-sterile-technique-detailed]] — Sterile procedure hierarchy
+- [[mushroom-sterile-technique]] — Sterile procedure hierarchy
 - [[mushroom-contamination-identification]] — Contamination identification and prevention
 - [[psilocybin-mushroom-chemistry]] — Dosage and safety considerations

@@ -78,7 +78,7 @@ upon.
 
 In recent decades, interest in home-scale and small-farm staple crop production
 has surged, driven by concerns about food supply chain fragility, the
-[[cannabis-pest-management-guide]], harvesting,
+[[cannabis-pest-management]], harvesting,
 processing, [[bean-growing-guide]]
 - [[grain-cultivation-small-scale]]
 - [[grain-milling-at-home]]

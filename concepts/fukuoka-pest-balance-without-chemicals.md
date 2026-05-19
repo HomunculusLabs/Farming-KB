@@ -13,7 +13,7 @@ sources:
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka demonstrates that pest problems in crops arise from imbalanced growing conditions and can be eliminated without chemical pesticides through his [[cannabis-pest-management-guide]], connecting to his broader principles in fukuoka-five-principles-natural-farming.
+Masanobu Fukuoka demonstrates that pest problems in crops arise from imbalanced growing conditions and can be eliminated without chemical pesticides through his [[cannabis-pest-management]], connecting to his broader principles in fukuoka-five-principles-natural-farming.
 
 ## The Root Cause of Pest Problems
 

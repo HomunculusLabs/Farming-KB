@@ -24,7 +24,7 @@ It appears in modern natural building, [[mckenna-club-des-hachischins-and-ninete
 Settlers in that region had limited access to timber but had abundant baled straw after grain cultivation.
 Early builders stacked bales into self-supporting walls and placed simple roof structures on top.
 This approach became known as Nebraska style or load-bearing straw bale construction.
-The revival of the method in the late [[gaias-garden-stacking-functions-detailed]]: insulation, enclosure, [[comparison-passive-solar-vs-earth-sheltered]] design, straw bale walls are often paired with interior earthen floors, masonry heaters, or other mass elements.
+The revival of the method in the late [[gaias-garden-stacking-functions]]: insulation, enclosure, [[comparison-passive-solar-vs-earth-sheltered]] design, straw bale walls are often paired with interior earthen floors, masonry heaters, or other mass elements.
 The result can be a building that resists winter heat loss while moderating daily temperature swings.
 Thermal bridges should still be considered at framing, foundations, window bucks, and roof connections.
 ## Fire, Pests, and Durability

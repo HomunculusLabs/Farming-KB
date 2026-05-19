@@ -22,7 +22,7 @@ doctors versed in the art of natural healing. Used by Sumerian physicians and
 later by their Egyptian counterparts, the plant has made its way into many
 cultures to ease difficult childbirth, menstrual difficulties, threatened
 abortion, [[blesching-cannabis-pregnancy]] for more on cannabis and pregnancy, and
-[[endocannabinoid-system-overview]]
+[[endocannabinoid-system]]
 may eventually lead to clinical studies examining cannabis's role in labor
 [[blesching-cannabis-morning-sickness]],
 [[cannabis-chronic-pain-management]],

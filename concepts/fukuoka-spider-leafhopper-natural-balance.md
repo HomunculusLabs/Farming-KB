@@ -24,7 +24,7 @@ This principle extends far beyond agriculture. Fukuoka saw the same pattern in m
 
 ## Connection to Natural Farming Principles
 
-The spider-leafhopper dynamic directly supports Fukuoka's [[cannabis-pest-management-guide]] strategy is to do nothing -- to trust the [[fukuoka-pest-ecology]]
+The spider-leafhopper dynamic directly supports Fukuoka's [[cannabis-pest-management]] strategy is to do nothing -- to trust the [[fukuoka-pest-ecology]]
 
 - [[fukuoka-four-principles-natural-farming]]
 

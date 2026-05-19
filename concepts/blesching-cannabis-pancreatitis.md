@@ -131,7 +131,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[endocannabinoid-system-overview]]
+- [[endocannabinoid-system]]
 - [[blesching-cannabis-vasopressin-aggression]]
 - [[blesching-molecules-emotions-expansive-constricting-neurotransmitters]]
 - [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]]

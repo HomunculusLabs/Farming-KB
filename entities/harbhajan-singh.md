@@ -46,7 +46,7 @@ Singh's book systematically catalogs the degradative capabilities of fungi acros
 
 ## Mycorrhizal Connections
 
-Singh is also cited in connection with mycorrhizal research literature and methodology references. His work bridges pure mycological science and applied environmental remediation, making it relevant to [[mycorrhizal-fungi]] research as well as [[mycorestoration-overview]] applications.
+Singh is also cited in connection with mycorrhizal research literature and methodology references. His work bridges pure mycological science and applied environmental remediation, making it relevant to [[mycorrhizal-fungi]] research as well as [[mycorestoration]] applications.
 
 ## Significance
 
@@ -57,7 +57,7 @@ Singh's book represents the most comprehensive single-volume technical reference
 - [[fungal-ecosystem-roles]]
 - [[geoffrey-gadd]]
 - [[mycoremediation-basics]]
-- [[mycorestoration-overview]]
+- [[mycorestoration]]
 - [[mycorrhizal-fungi]]
 - [[paul-stamets]]
 - [[singh-fungal-alkane-metabolism-pathways]]

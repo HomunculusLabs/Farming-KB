@@ -30,7 +30,7 @@ well-documented, and considered beginner-friendly.
 | Intervention Level | Very low, 2-4 inspections per year | High, inspections every 2-3 weeks |
 | Feeding | None; bees live on own honey stores | Sugar syrup and pollen patties as needed |
 | [[natural-beekeeping-practices]] for detailed natural beekeeping methods
-- [[permaculture-beekeeping-guide]]
+- [[permaculture-beekeeping]]
 
 ## See Also
 

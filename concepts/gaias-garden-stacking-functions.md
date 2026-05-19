@@ -12,7 +12,7 @@ sources:
 # Stacking Functions and Redundancy in Ecological Design
 
 Toby Hemenway's explanation of two complementary [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] in case one fails, or maintaining sprinklers, [[gaias-garden-cover-crops-soil-building]]
-- [[gaias-garden-stacking-functions-detailed]]
+- gaias garden stacking functions
 - [[permaculture-design]]
 
 ## Practical Applications
@@ -122,7 +122,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[permaculture]]
-- [[gaias-garden-stacking-functions-detailed]]
+- gaias garden stacking functions
 - [[gaias-garden-catching-storing-and-conserving-water]]
 - [[gaias-garden-backyard-wetland]]
 - [[gaias-garden-bringing-the-soil-to-life]]

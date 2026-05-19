@@ -76,7 +76,7 @@ masses develop on the mycelial surface. These primordia are globular
 and often dotted with light yellow exudates. The second stage is the
 ## See Also
 
-[[maitake-cultivation-guide]]
+[[maitake-cultivation]]
 [[maitake-cancer-clinical-research]]
 [[maitake-growth-parameters]] maitake-substrate-formulation
 [[maitake-soil-casing-technique]] [[shiitake-mushroom-cultivation-and-medicinal-properties]]

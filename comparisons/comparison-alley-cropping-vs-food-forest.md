@@ -86,6 +86,6 @@ for eventual understory planting as the system evolves.
 
 ## See Also
 
-- [[food-forest-design-guide]]
+- [[food-forest-design]]
 - [[forest-gardening-and-food-forests]]
 - [[silvopasture-systems]]

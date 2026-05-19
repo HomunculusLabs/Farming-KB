@@ -13,7 +13,7 @@ type: query
 
 ## Short Answer
 
-[[cannabis-pest-management-guide]].
+[[cannabis-pest-management]].
 Start with easy crops like kale before progressing to demanding ones
 like cauliflower.
 Plant in spring before last frost or in late summer for a fall

@@ -9,7 +9,7 @@ sources:
 ---
 # LSD Psychedelic Experience Guide
 
-LSD ([[psilocybin-mushroom-distribution-worldwide]] and [[psychedelic-integration-guide]] worldwide. It can be profoundly liberating or terrifying depending on preparation and set/setting. Turner notes that many people who encounter ego death without adequate preparation interpret it as death itself and panic, which is one of the most common sources of difficult LSD experiences.
+LSD ([[psilocybin-mushroom-distribution-worldwide]] and [[psychedelic-integration]] worldwide. It can be profoundly liberating or terrifying depending on preparation and set/setting. Turner notes that many people who encounter ego death without adequate preparation interpret it as death itself and panic, which is one of the most common sources of difficult LSD experiences.
 
 ### The Familiarity Effect
 With repeated use, LSD loses some of its capacity to surprise and overwhelm. Experienced users often find that subsequent trips, while still meaningful, lack the sheer novelty and shock of early experiences. This is partly psychological (the mind has integrated the experience) and partly neurochemical (tolerance develops rapidly). Turner recommends spacing LSD sessions at least a week apart for full potency.
@@ -31,7 +31,7 @@ Turner notes that the lock-on quality of LSD means that redirecting attention fr
 thought pattern can require deliberate, sustained effort — simply "thinking positive" is often
 insufficient. The concept of "surrender" — allowing the experience to unfold without
 resistance — is widely recommended by psychedelic therapists as the most effective approach
-to working with challenging states. See [[psychedelic-safety-and-harm-reduction]] — general [[psychedelic-integration-guide]] — spiritual context
+to working with challenging states. See [[psychedelic-safety-and-harm-reduction]] — general [[psychedelic-integration]] — spiritual context
 
 ## Related
 

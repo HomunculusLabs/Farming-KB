@@ -27,7 +27,7 @@ requirements. Unlike honeybees that live in large colonies, most native bees
 are solitary, nesting in bare ground, hollow plant stems, or rotting wood.
 Providing these nesting sites alongside the right plants dramatically
 increases the number of pollinators your garden can support. A
-comprehensive [[cannabis-pest-management-guide]], nutrient accumulation, and pollination.
+comprehensive [[cannabis-pest-management]], nutrient accumulation, and pollination.
 
 Plant selection matters enormously. Native plants generally support more
 insect species than ornamentals, and many native bees have evolved to

@@ -58,7 +58,7 @@ Despite decades of research and enormous economic incentive, commercial cultivat
 
 ### Obligate Mycorrhizal Dependency
 
-Matsutake requires a living host tree to complete its life cycle. Unlike saprotrophic mushrooms ([[shiitake-cultivation-guide]], [[oyster-mushroom-species-guide]]) that grow on dead organic matter, matsutake cannot be grown on [[oyster-mushroom-non-sterilized-substrate-cultivation]]. Any cultivation would require growing host trees with the fungal symbiont.
+Matsutake requires a living host tree to complete its life cycle. Unlike saprotrophic mushrooms ([[shiitake-cultivation-guide]], [[oyster-mushroom-species]]) that grow on dead organic matter, matsutake cannot be grown on [[oyster-mushroom-non-sterilized-substrate-cultivation]]. Any cultivation would require growing host trees with the fungal symbiont.
 
 ### Complex Soil Biology
 

@@ -56,7 +56,7 @@ Native of Japan, small (2-4 m) runner bamboo with leaves up to 35 cm long and 9 
 
 ## Related
 
-- [[permaculture-plant-selection-guide]]
+- [[permaculture-plant-selection]]
 - [[salt-tolerant-plant-guide]]
 - [[difficult-site-planting]]
 

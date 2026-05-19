@@ -3,7 +3,7 @@ title: Blesching Endocannabinoid Autonomic Nervous System Adrenal Glands
 source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, PhD, 2015)"
 source_lines: "441-640, 2290-2600"
 tags: [ecs, ans, adrenal-glands, neurochemistry, stress-response]
-related: [[anandamide-and-the-endocannabinoid-system]], [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]], [[endocannabinoid-system-overview]] (ECS), a biological regulatory
+related: [[anandamide-and-the-endocannabinoid-system]], [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]], [[endocannabinoid-system]] (ECS), a biological regulatory
 mechanism that operates much like a lock-and-key. [[anandamide-and-the-endocannabinoid-system]] (AEA), the body's "[[tetrahydrocannabinol]] operates identically: it binds both receptor types
 and activates changes across the CNS, immune system, and ANS at once. Notably,
 changes in frame of mind — fear versus relaxation — similarly affect both the

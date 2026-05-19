@@ -11,7 +11,7 @@ sources:
 
 # Leafy Greens: Growing Guide
 
-Source: [[coleman-claytonia-winter-harvest-cultivation]], high-demand for spring harvest. Why? [[green-manure-crops-detailed]]; till under before seedstalks form
+Source: [[coleman-claytonia-winter-harvest-cultivation]], high-demand for spring harvest. Why? [[green-manure-crops]]; till under before seedstalks form
 
 ## Kale and Brussels Sprouts
 

@@ -7,7 +7,7 @@ type: concept
 # Herb Spiral and Applied Pattern Design
 
 Sophisticated [[herb-spirals-and-applied-pattern-design]]
-- [[herb-spiral-design-guide]]
+- [[herb-spiral-design]]
 
 ## Overview
 

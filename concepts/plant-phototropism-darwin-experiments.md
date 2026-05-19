@@ -61,7 +61,7 @@ Darwin's phototropism experiments deserve recognition as among the most elegant 
 - They demonstrated that plants have a form of [[plant-circadian-rhythms]] reveals that the time of day influences the direction and magnitude of phototropic bending
 - Studies on root phototropism (roots can also grow toward light in certain conditions) challenge the traditional shoot-centric view
 - [[photoperiodism-phytochrome-red-far-red]]
-- [[plant-sensory-biology-overview]]
+- [[plant-sensory-biology]]
 - auxin plant hormone growth regulation
 
 ## Overview

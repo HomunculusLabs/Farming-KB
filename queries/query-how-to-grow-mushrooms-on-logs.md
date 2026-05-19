@@ -33,7 +33,7 @@ air circulation while maintaining humidity. The [[stamets-outdoor-natural-cultur
   circulation [[wine-cap-mushroom-cultivation]] page covers this
 adaptable species, and the [[query-how-to-grow-mushrooms-on-straw]] Questions
 
-- [[mushroom-foraging-safety-guide]]
+- [[mushroom-foraging-safety]]
 ## Practical Considerations
 
 When working with How to Grow Mushrooms on Logs?, several practical factors should be

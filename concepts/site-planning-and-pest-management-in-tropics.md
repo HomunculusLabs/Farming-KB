@@ -143,7 +143,7 @@ Strategies for converting monoculture palm plantations to diverse polycultures t
 
 ## See Also
 
-- [[permaculture-design-process-overview]]
+- [[permaculture-design-process]]
 - [[ozier-pdc-sector-analysis-for-site-design]]
 - [[mollison-designers-site-analysis-mapping-observation]]
 - [[mycoremediation-site-assessment]]

@@ -24,7 +24,7 @@ sources:
 
 # Mushroom Pests and Diseases
 
-Mushroom crops face threats from competitor molds, bacterial pathogens, viral diseases, and insect pests. Prevention through [[mushroom-sterile-technique-detailed]] and environmental control is far more effective than treatment. This page covers identification and IPM for mushroom cultivation — complementing [[mushroom-contamination-identification]] which focuses on lab/stage contamination.
+Mushroom crops face threats from competitor molds, bacterial pathogens, viral diseases, and insect pests. Prevention through [[mushroom-sterile-technique]] and environmental control is far more effective than treatment. This page covers identification and IPM for mushroom cultivation — complementing [[mushroom-contamination-identification]] which focuses on lab/stage contamination.
 
 ## Competitor Molds
 
@@ -89,7 +89,7 @@ Control: thorough pasteurization, proper substrate preparation, avoiding anaerob
 
 ## IPM Approach for Mushroom Cultivation
 
-1. **Prevention first** — [[mushroom-sterile-technique-detailed]], proper pasteurization, clean growing environment
+1. **Prevention first** — [[mushroom-sterile-technique]], proper pasteurization, clean growing environment
 2. **Environmental control** — correct temperature, humidity, and air exchange make conditions favorable for mushrooms, not competitors
 3. **Exclusion** — microporous filters, sealed rooms, sticky traps at entry points
 4. **Monitoring** — regular scouting for early signs of pests or disease

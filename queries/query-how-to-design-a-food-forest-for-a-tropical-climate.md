@@ -66,7 +66,7 @@ Tropical climates are generally defined by consistent warmth (mean annual temper
 - Katuk (*Sauropus androgynus*)
 - Moringa (*[[query-how-to-fix-nitrogen-toxicity-in-cannabis]], and begin building soil.
 
-3. **Sub-canopy and fruit trees (Month 3–12):** Plant fruit trees, banana circles, and [[cannabis-pest-management-guide]]: biodiversity creates [[query-how-can-i-design-a-climate-resilient-food-forest]]
+3. **Sub-canopy and fruit trees (Month 3–12):** Plant fruit trees, banana circles, and [[cannabis-pest-management]]: biodiversity creates [[query-how-can-i-design-a-climate-resilient-food-forest]]
 
 - mollison-tropical-and-coastal-permaculture-design
 - [[permaculture-designers-manual-cold-climate-design]]

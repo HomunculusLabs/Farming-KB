@@ -22,7 +22,7 @@ experience level, infrastructure, and market goals.
 
 ## Pioppino (Agrocybe aegerita)
 
-[[maitake-cultivation-guide]]
+[[maitake-cultivation]]
 
 Maitake, the "hen of the woods," is a highly aerobic temperate species
 that forms enormous fruiting clusters of overlapping gray-brown caps

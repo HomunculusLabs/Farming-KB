@@ -26,7 +26,7 @@ Family: ORCHIDACEAE. The only orchid grown commercially for food production. Cli
 ## Design Integration
 
 - Vines produce maximum food per square meter by utilizing vertical space
-- Combine fruiting vines with [[cannabis-pest-management-guide]]
+- Combine fruiting vines with [[cannabis-pest-management]]
 - Plan vine placement using [[permaculture-farm-design-principles]]
 ## Practical Considerations
 

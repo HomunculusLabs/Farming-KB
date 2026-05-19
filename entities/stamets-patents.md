@@ -69,7 +69,7 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 
 ## See Also
 
-[[mycofiltration-overview]], [[mycorestoration-overview]]
+[[mycofiltration-overview]], [[mycorestoration]]
 - [[mycoremediation-basics]] for the science behind these patents
 - [[fungal-pest-control]] for mycopesticide applications
 - [[paul-stamets]] for the patent holder

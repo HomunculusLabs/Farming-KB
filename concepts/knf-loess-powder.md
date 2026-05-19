@@ -48,7 +48,7 @@ protocols regardless of circumstances or local variation.
 
 [[doc]]
 - [[cho-loess-powder-in-natural-farming]]
-- [[knf-water-soluble-phosphoric-acid-detailed]]
+- [[knf-water-soluble-phosphoric-acid]]
 
 ## Overview
 

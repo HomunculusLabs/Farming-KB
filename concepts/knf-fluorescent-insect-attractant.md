@@ -127,7 +127,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[permaculture]]
 - [[knf-imo-four-soil-foundation-and-field-application]]
-- [[knf-water-soluble-phosphoric-acid-detailed]]
+- [[knf-water-soluble-phosphoric-acid]]
 - [[cervantes-compact-fluorescent-lighting]]
 - [[cordyceps-insect-pathogenic-fungi]]
 - [[duggar-mushroom-insect-pests-and-fungal-diseases]]

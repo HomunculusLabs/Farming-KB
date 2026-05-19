@@ -22,7 +22,7 @@ evenly into the air, yielding uniformly dry buds with minimal THC [[stamets-grow
 
 Circulation and ventilation fans will help control heat and humidity and keep them at
 proper levels. An air conditioner is ideal to "dial in" [[decomposition]]
-- [[cannabis-drying-and-curing-guide]]
+- [[cannabis-drying-and-curing]]
 - [[cannabis-grow-harvesting-drying-curing]]
 
 ## Overview

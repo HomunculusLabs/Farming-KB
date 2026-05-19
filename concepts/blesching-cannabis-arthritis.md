@@ -35,7 +35,7 @@ anti-inflammatory drugs (NSAIDs), can result in serious consequences and should
 be taken with caution. Each year 41,000 older adults are hospitalized from,
 and 3,300 of them die from ulcers caused by NSAIDs.
 
-## [[cannabis-autoimmune-conditions-detailed]]
+## [[cannabis-autoimmune-conditions]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

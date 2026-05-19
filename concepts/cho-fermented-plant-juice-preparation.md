@@ -16,7 +16,7 @@ such as [[cannabis-vegetative-growth-stage]]**: Mugwort (Artemisia
 - **Vegetative growth**: Arrowroot, bamboo shoot, and reed FPJs help
   crops obtain nitrogen for volume increase
 - **Crop-specific**: Use lateral buds and stems of the same crop
-  (tomato for tomatoes, squash vines for squash, [[cannabis-pest-management-guide]]: Mix FPJ with rice bran and sprinkle around fruit
+  (tomato for tomatoes, squash vines for squash, [[cannabis-pest-management]]: Mix FPJ with rice bran and sprinkle around fruit
   trees to lure pests away from fruits
 
 ## When NOT to Use FPJ

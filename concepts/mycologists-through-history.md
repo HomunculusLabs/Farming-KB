@@ -14,7 +14,7 @@ type: concept
 
 The study of fungi has attracted a remarkable cast of characters — from
 gentleman naturalists and eccentric collectors to revolutionary biochemists
-and ecological pioneers. The [[psilocybin-mushroom-identification-guide]] guides still carry
+and ecological pioneers. The [[psilocybin-mushroom-identification]] guides still carry
 "Friesian" terminology.
 
 ## Anton de Bary (1831-1888)

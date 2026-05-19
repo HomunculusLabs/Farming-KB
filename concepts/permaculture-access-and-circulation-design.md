@@ -143,5 +143,5 @@ Mollison emphasizes the connection between roads and water:
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[keyline-design]]
-- [[permaculture-earthworks-guide]]
+- [[permaculture-earthworks]]
 - [[permaculture-mapping-and-reading-the-landscape]]

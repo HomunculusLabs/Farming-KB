@@ -21,7 +21,7 @@ Recommended treatment should always be primarily supportive:
 
 ### Supportive Measures
 
-The "talk-down" technique is the preferred method for handling difficult experiences. It involves non-moralizing, comforting personal support from an experienced individual. This is aided by limiting external stimulation such as intense light or loud sounds, letting the person lie down, and perhaps listening to soft music. See [[psychedelic-harm-reduction-guide]]
+The "talk-down" technique is the preferred method for handling difficult experiences. It involves non-moralizing, comforting personal support from an experienced individual. This is aided by limiting external stimulation such as intense light or loud sounds, letting the person lie down, and perhaps listening to soft music. See [[psychedelic-harm-reduction]]
 - mushroom-poisoning-and-lookalikes
 - [[harm-reduction-guide]]
 ## Practical Applications

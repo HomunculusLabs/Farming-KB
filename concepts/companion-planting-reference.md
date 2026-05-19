@@ -106,7 +106,7 @@ These plants attract pollinators and predatory insects that [[query-how-do-paras
 
 ## Related Concepts
 
-- [[hugelkultur-guide]] for mound-based polyculture planting
+- [[hugelkultur]] for mound-based polyculture planting
 - [[composting-methods-comparison]] for [[building-soil-fertility-long-term]] to support companion systems
 - [[square-foot-gardening]] for spacing guidance in intensive layouts
 - [[raised-bed-gardening]] for bed construction suited to companion planting

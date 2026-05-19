@@ -52,7 +52,7 @@ tradition described by Mollison is essentially this hybrid: an earth-
 covered roof that supports grass or groundcover. Modern designs
 sometimes pair a bermed north wall with a fully glazed south-facing
 greenhouse roof, creating a [[cob-construction]]
-- [[root-cellaring-guide]]
+- [[root-cellaring]]
 
 - [[comparison-passive-solar-vs-earth-sheltered]]
 

@@ -1,7 +1,7 @@
 # Low-Input Vegetable Gardening
 
 ## Overview
-Low-input vegetable gardening is an approach championed by [[soil-foodweb-biology-overview]]
+Low-input vegetable gardening is an approach championed by [[soil-foodweb-biology]]
 - [[gardening-in-hard-times]].
   New Society Publishers.
 ## Background and Context

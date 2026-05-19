@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-A food forest is a perennial polyculture system modeled on natural forest ecosystems that produces food, medicine, fiber, and fuel while building soil and supporting biodiversity. Starting a food forest begins with thorough site observation and design, followed by establishing canopy and support trees, then progressively filling in understory layers with fruit trees, berry shrubs, herbaceous plants, [[food-forest-design-guide]] recommends creating a base map and overlaying these observations.
+A food forest is a perennial polyculture system modeled on natural forest ecosystems that produces food, medicine, fiber, and fuel while building soil and supporting biodiversity. Starting a food forest begins with thorough site observation and design, followed by establishing canopy and support trees, then progressively filling in understory layers with fruit trees, berry shrubs, herbaceous plants, [[food-forest-design]] recommends creating a base map and overlaying these observations.
 
 ## Step 2: Understand the Seven Layers
 

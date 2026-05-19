@@ -13,7 +13,7 @@ type: comparison
 ## Overview
 Hugelkultur and [[sheet-mulching]] are both no-till bed creation techniques that layer
 organic materials to build soil, [[query-how-do-cover-crops-suppress-weeds]], and retain moisture. Hugelkultur
-buries [[sheet-mulching-guide]]
+buries [[sheet-mulching]]
 Sheet mulching creates new garden beds by layering overlapping cardboard or newspaper
 (to smother weeds), two to four inches of compost (for nutrients and microbes), optional
 amendments like rock minerals or biochar, and four to six inches of mulch over existing

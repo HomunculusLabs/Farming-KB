@@ -58,7 +58,7 @@ Transfer cooled bags to the inoculation area. Bags should be inoculated within 2
 ## Related
 
 - [[substrate-bag-preparation]] — Making substrate bags before pasteurization
-- [[mushroom-sterile-technique-detailed]] — Inoculation after pasteurization
+- [[mushroom-sterile-technique]] — Inoculation after pasteurization
 - [[mushroom-substrates]] — Substrate science and alternatives
 - [[mushroom-cultivation-basics]] — Facility adaptations for disabilities
 - [[mushroom-cultivation-basics]] — Overview of the full cultivation process

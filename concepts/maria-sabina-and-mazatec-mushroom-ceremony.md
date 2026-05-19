@@ -142,5 +142,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[albert-hofmann]] — The Swiss chemist who isolated psilocybin
 - [[richard-evans-schultes-updated]] — The Harvard ethnobotanist who first formally identified Mexican psychedelic mushrooms
 - [[psychedelic-mushroom-history]] — Timeline of key events
-- [[amanita-muscaria-guide]] — Contrast with the Amanita-based Siberian traditions
+- [[amanita-muscaria]] — Contrast with the Amanita-based Siberian traditions
 - [[juniperus-sabina]]

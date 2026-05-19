@@ -33,7 +33,7 @@ A more aggressive approach where a significant percentage of fan leaves are remo
 ### Lollipopping
 
 A form of defoliation that strips the lower portion of each branch, leaving only the upper canopy. See [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
-- [[cannabis-pest-management-guide]] -- integrated pest management including defoliation
+- [[cannabis-pest-management]] -- integrated pest management including defoliation
 - [[cannabis-vegetative-stage]] -- defoliation timing in [[hamilton-pest-and-disease-control-organic]] problems early. Regular defoliation sessions serve a dual purpose: cleaning up unproductive foliage and conducting a plant health inspection.
 
 Signs that indicate a leaf should be removed:

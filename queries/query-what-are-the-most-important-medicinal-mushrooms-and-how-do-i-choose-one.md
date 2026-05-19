@@ -71,7 +71,7 @@ Cordyceps is the go-to medicinal mushroom for physical performance and vitality.
 - Reduces perceived exertion during exercise
 - Increases ATP production in cells
 - Improves oxygen utilization efficiency
-- Supports healthy [[cannabis-autoimmune-conditions-detailed]] or are on immunosuppressants.
+- Supports healthy [[cannabis-autoimmune-conditions]] or are on immunosuppressants.
 
 ## Combining Mushrooms: Where to Start
 

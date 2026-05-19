@@ -79,7 +79,7 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 
 ## Contamination Management
 
-- Prevention > treatment: sterile technique at inoculation is critical ([[mushroom-sterile-technique-detailed]])
+- Prevention > treatment: sterile technique at inoculation is critical ([[mushroom-sterile-technique]])
 - Common contaminants: Trichoderma (green mold), cobweb mold (Dactylium), bacteria (wet spot), pin mold
 - Identification: green = Trichoderma (discard); gray webbing = cobweb (can spray with H2O2); sour smell = bacteria
 - Environmental controls: proper FAE, correct humidity, clean surfaces with 10% bleach
@@ -95,7 +95,7 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 
 ## Related Pages
 
-- [[mushroom-sterile-technique-detailed]] -- SAB/flow hood procedures, contamination prevention
+- [[mushroom-sterile-technique]] -- SAB/flow hood procedures, contamination prevention
 - [[mushroom-substrates]] -- Grain spawn, bulk substrates, supplementation
 - [[mushroom-species-guide]] -- Species-specific [[greg-green-temperature-and-humidity-control]] ranges
 - [[mushroom-pests-and-diseases]] — pests and diseases

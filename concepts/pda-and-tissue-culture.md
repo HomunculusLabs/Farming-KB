@@ -102,7 +102,7 @@ Because tissue culture has high contamination risk, do only a few bottles from f
 
 - [[mushroom-spawn-making-detailed]] — Grain spawn from PDA cultures
 - [[substrate-bag-preparation]] — Substrate bags for inoculation
-- [[mushroom-sterile-technique-detailed]] — Inoculation and sterile procedures
+- [[mushroom-sterile-technique]] — Inoculation and sterile procedures
 - [[mushroom-cultivation-basics]] — Complete cultivation overview
 - [[mushroom-genetics-strain-selection]] — Strain isolation and selection
 ## Practical Applications

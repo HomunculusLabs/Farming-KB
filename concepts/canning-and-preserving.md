@@ -130,5 +130,5 @@ Store canned goods in a cool, dark, dry place (50-70 F). Avoid temperature fluct
 ## Related Topics
 
 - [[food-dehydration-guide]] for non-heat [[egg-preservation-methods]]
-- [[root-cellaring-guide]] for cool storage without canning
+- [[root-cellaring]] for cool storage without canning
 - [[food-fermentation-guide]] for acid-based preservation through fermentation

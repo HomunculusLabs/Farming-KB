@@ -98,7 +98,7 @@ With good construction and packing, expect 50-75% ice retention:
 ### Modern Adaptations
 - Use rigid foam insulation (R-30+ walls and ceiling) instead of sawdust
 - Install a small solar-powered ventilation fan
-- Combine with a [[root-cellaring-guide|root cellar]] for a complete
+- Combine with a [[root-cellaring|root cellar]] for a complete
   off-grid food preservation system
 - Use food-grade glycol or brine loops to distribute cooling to other areas
 

@@ -111,7 +111,7 @@ Feminized seeds eliminate the need for sexing but may have slightly higher herma
 
 ### Early Sexing Techniques
 
-Some growers force sex identification by taking a cutting from a vegetative plant and placing it on 12/12 in a separate small space. The clone will reveal sex in 7-10 days while the mother remains in [[cannabis-vegetative-growth-stage]]. See [[cannabis-cloning-guide]] for cloning techniques.
+Some growers force sex identification by taking a cutting from a vegetative plant and placing it on 12/12 in a separate small space. The clone will reveal sex in 7-10 days while the mother remains in [[cannabis-vegetative-growth-stage]]. See [[cannabis-cloning]] for cloning techniques.
 
 ## Germination Environment
 

@@ -91,7 +91,7 @@ Water quality directly impacts the success of [[compost-tea-brewing]]:
 
 ## References
 
-- Elaine Ingham, PhD - The Field Guide I for [[actively-aerated-compost-tea-overview]] Tea
+- Elaine Ingham, PhD - The Field Guide I for [[actively-aerated-compost-tea]] Tea
 
 ## See Also
 

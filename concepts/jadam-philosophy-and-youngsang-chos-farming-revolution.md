@@ -11,7 +11,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 ## Overview
 
-JADAM (Korean: 자담, Jayeon Danbal Nongbeop, meaning "Nature-Return Farming") is a South Korean [[cannabis-pest-management-guide]].
+JADAM (Korean: 자담, Jayeon Danbal Nongbeop, meaning "Nature-Return Farming") is a South Korean [[cannabis-pest-management]].
 
 ### SESE Principle
 

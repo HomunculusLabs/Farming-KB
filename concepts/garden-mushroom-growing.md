@@ -118,7 +118,7 @@ The elm oyster mycelium interacts with plant roots, enhancing growth while produ
 
 ## See Also
 
-- [[mycorestoration-overview]] for the broader ecological framework
+- [[mycorestoration]] for the broader ecological framework
 - [[mycoremediation-techniques]] for more spawn preparation methods
 - [[fungal-pest-control]] for insect management
 - [[fungal-ecology]] for the science behind plant-fungal interactions

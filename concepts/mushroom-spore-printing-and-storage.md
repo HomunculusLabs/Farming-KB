@@ -100,7 +100,7 @@ Dehydrated spores germinate poorly. Soaking improves viability:
 4. Alternatively, scrape spores above an opened petri dish and let them free-fall onto medium
 5. Incubate at species-appropriate temperature; germination visible in 3–7 days as grayish thread-like strands becoming whitish (Stamets)
 
-See [[mushroom-sterile-technique-detailed]] for full agar work procedures.
+See [[mushroom-sterile-technique]] for full agar work procedures.
 
 ## Long-Term Spore Storage
 
@@ -128,4 +128,4 @@ See [[mushroom-sterile-technique-detailed]] for full agar work procedures.
 - **Silica gel packets** — include in all storage containers to absorb residual moisture
 
 ## Related
-[[mushroom-species-guide]], [[pf-tek-guide]]
+[[mushroom-species-guide]], [[pf-tek]]

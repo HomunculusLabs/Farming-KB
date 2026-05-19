@@ -68,7 +68,7 @@ Johns Hopkins studies are notable for their methodological rigor:
 - Structured session environments with eyeshades and curated music playlists
 - Experienced guides present throughout sessions
 - Standardized dose ranges explored in [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-- [[psychedelic-harm-reduction-guide]]
+- [[psychedelic-harm-reduction]]
 - [[mushroom-cancer-clinical-trials-overview]]
 ## Practical Considerations
 

@@ -24,7 +24,7 @@ Mycorrhizae are symbiotic associations between fungi and plant roots. The term l
 - Structure: Fungal hyphae penetrate root cells and form highly branched arbuscules
 - Function: Fungi provide phosphorus and other minerals; plants provide carbohydrates (lipids)
 - Host range: Very broad — single fungal species can colonize many plant species
-- See [[mycorrhizal-inoculation-guide]] for application methods
+- See [[mycorrhizal-inoculation]] for application methods
 
 ### Ectomycorrhizae (ECM)
 
@@ -68,7 +68,7 @@ Endophytic fungi live inside plant tissues without causing apparent disease. The
 - Diverse fungal groups (Ascomycota dominant)
 - Horizontal transmission via spores
 - Functions: pathogen resistance, stress tolerance, growth promotion
-- Potential for use in [[mycorrhizal-inoculation-guide|bioactive inoculants]]
+- Potential for use in [[mycorrhizal-inoculation|bioactive inoculants]]
 
 ## Lichens
 
@@ -117,7 +117,7 @@ This mutualism has been maintained for over 50 million years. The ants have spec
 
 ## See Also
 
-- [[mycorrhizal-inoculation-guide]] — Practical guide to applying mycorrhizal inoculants
+- [[mycorrhizal-inoculation]] — Practical guide to applying mycorrhizal inoculants
 - [[glomeromycota-arbuscular-mycorrhizae]] — Deep dive into AMF biology
 - [[fungal-parasites-and-predators]] — When fungal relationships turn predatory
 - [[mycorrhizal-networks]]

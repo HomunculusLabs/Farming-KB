@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 Companion planting leverages synergistic relationships between plants to
-improve growth, repel pests, attract [[cannabis-pest-management-guide]] strategy that grows sacrificial
+improve growth, repel pests, attract [[cannabis-pest-management]] strategy that grows sacrificial
 plants specifically to attract pests away from main crops. Companion planting
 is a broad design philosophy, while trap cropping is a focused technique
 within integrated pest management. Both reduce pest pressure without

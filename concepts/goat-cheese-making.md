@@ -147,4 +147,4 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 - [[goat-husbandry]]
 - [[comparison-cattle-husbandry-vs-goat-husbandry]]
 - [[mollison-designers-goat-dairy-and-cheese-production]]
-- [[goat-keeping-guide]]
+- [[goat-keeping]]

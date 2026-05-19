@@ -10,7 +10,7 @@ type: concept
 
 # Palmer on Fungus Reproduction, Spawn, and Cryptogamic Mystery
 
-The study of [[psilocybin-mushroom-identification-guide]].
+The study of [[psilocybin-mushroom-identification]].
 
 Palmer devoted considerable attention to the mysterious nature of
 [[mycelium]] biology. Understanding spawn

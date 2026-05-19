@@ -19,7 +19,7 @@ cells (virus-fighting white blood cells), manages inflammatory cytokine
 production, and coordinates healing responses across the entire body.
 
 Blesching's Cannabis Health Index presents extensive evidence that the
-endocannabinoid system plays a central role in [[cannabis-autoimmune-conditions-detailed]] covers specific diseases, this page
+endocannabinoid system plays a central role in [[cannabis-autoimmune-conditions]] covers specific diseases, this page
 focuses on the broader mechanisms by which cannabinoids interact with the
 immune system.
 

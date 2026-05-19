@@ -52,7 +52,7 @@ with Asteraceae family allergies.
 | Hardiness | Zones 3-9 | Zones 4-9 (Roman) |
 | Growth height | 60-120 cm | 30-90 cm (German) |
 | Time to harvest | 3rd-4th year (roots) | Same season (flowers) |
-| [[cannabis-autoimmune-conditions-detailed]] | Very safe, gentle herb |
+| [[cannabis-autoimmune-conditions]] | Very safe, gentle herb |
 
 ## Pharmacological Contrast
 

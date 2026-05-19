@@ -146,5 +146,5 @@ Turner rates ketamine at "Intensity: 10 - Infinity" — the only substance rated
 - [[psychedelic-compounds-reference]] — Broader compounds table
 - [[psychedelic-mushroom-history]] — Psilocybin (4-OH-DMT) history
 - [[entheogen-culture]] — Religious and spiritual use of psychoactive plants
-- [[amanita-muscaria-guide]] — GABA-ergic psychedelic (contrast with serotonergic DMT)
+- [[amanita-muscaria]] — GABA-ergic psychedelic (contrast with serotonergic DMT)
 - [[soma-hypothesis]] — Ancient psychoactive plant use

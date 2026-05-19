@@ -28,7 +28,7 @@ Ganoderma is a genus of polypore fungi belonging to the family Ganodermataceae (
 
 ## Cultivation Notes
 
-In the context of the [[maitake-cultivation-guide]] by [[alice-w-chen|Chen (1999)]], Ganoderma spp. (reishi) is mentioned for comparison:
+In the context of the [[maitake-cultivation]] by [[alice-w-chen|Chen (1999)]], Ganoderma spp. (reishi) is mentioned for comparison:
 
 1. **Strain reliability:** Ganoderma strains generally fruit more reliably than Grifola frondosa strains, whether isolated from natural habitats or obtained from culture collections.
 2. **Cultivation method:** [[synthetic-log-cultivation|Synthetic-log cultivation]] methods similar to those used for G. frondosa are employed, using [[hardwood-sawdust-substrate|hardwood sawdust-based substrates]] in polypropylene bags.

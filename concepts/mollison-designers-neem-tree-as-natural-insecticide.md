@@ -18,7 +18,7 @@ type: concept
 # Neem Tree as Natural Insecticide in Permaculture
 
 The neem tree ([[azadirachta-indica]], also referred to as [[melia-azedarach-entity]] or
-white cedar) is presented in the Permaculture [[cannabis-pest-management-guide]] in tropical and
+white cedar) is presented in the Permaculture [[cannabis-pest-management]] in tropical and
 subtropical permaculture systems. Mollison describes its uses across
 [[mushroom-pests-insect-control-stamets]].
 

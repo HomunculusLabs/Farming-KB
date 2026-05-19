@@ -36,7 +36,7 @@ beneficial and which may compete for the same resources.
 ## Design Process and Site Assessment
 
 Establishing a food forest begins with thorough [[decomposition]]
-- [[food-forest-design-guide]]
+- [[food-forest-design]]
 
 ## Overview
 

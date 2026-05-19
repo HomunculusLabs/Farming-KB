@@ -145,6 +145,6 @@ Integrate dye plants into the homestead landscape:
 
 - [[natural-beekeeping-practices]]
 - [[fukuoka-rice-and-barley-natural-farming]]
-- [[natural-building-overview]]
+- [[natural-building]]
 - [[fukuoka-natural-farming-philosophy-five-principles]]
 - [[natural-farming-do-nothing-philosophy]]

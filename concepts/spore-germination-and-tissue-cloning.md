@@ -129,7 +129,7 @@ Different mushrooms prefer different agar formulas for successful cloning. Potat
 - **Coprophilous species**: May prefer grain-based or manure-enriched agar
 - **Mycorrhizal species**: Often require specialized media with root exudates or specific nutrients
 
-[[goose-keeping-detailed]] records of which agar formulas produce the best results for each species enables systematic improvement over time.
+[[goose-keeping]] records of which agar formulas produce the best results for each species enables systematic improvement over time.
 
 ## Maintaining Culture Purity
 

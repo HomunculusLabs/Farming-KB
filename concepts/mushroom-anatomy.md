@@ -39,7 +39,7 @@ ridged).
 
 A spore print is made by placing the cap gill-side down on paper or glass.
 The deposited spore color (white, cream, pink, brown, purple-brown, black, or
-rusty) is one of the first features checked in [[psilocybin-mushroom-identification-guide]] and
+rusty) is one of the first features checked in [[psilocybin-mushroom-identification]] and
 can narrow possibilities dramatically.
 
 ## Veils

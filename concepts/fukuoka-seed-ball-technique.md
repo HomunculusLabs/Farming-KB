@@ -138,7 +138,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[det]]
 - [[fukuoka-clay-seed-ball-technique]]
-- [[fukuoka-seed-ball-technique-detailed]]
+- fukuoka seed ball technique
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]

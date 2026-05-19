@@ -16,7 +16,7 @@ The goal of [swale-and-bed design is to create a system that functions without e
 - Nitrogen is fixed by leguminous ground covers and trees
 - Biomass is cycled through pruning and mulching
 - Pests are managed by diverse plantings that attract beneficials
-- Fertility is maintained through decomposition and [[cannabis-pest-management-guide]]. Trees are essential parts of swale planting systems -- their deep roots access stored groundwater and their leaf drop contributes to the [[swale-design]] Guidelines
+- Fertility is maintained through decomposition and [[cannabis-pest-management]]. Trees are essential parts of swale planting systems -- their deep roots access stored groundwater and their leaf drop contributes to the [[swale-design]] Guidelines
 
 For effective swale installation:
 

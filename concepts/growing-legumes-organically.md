@@ -71,8 +71,8 @@ All require warm climates. Lima beans need soil temperature of 65F (18C) to germ
 
 ## Related
 
-- [[green-manure-crops-detailed]]
-- [[cannabis-pest-management-guide]]
+- [[green-manure-crops]]
+- [[cannabis-pest-management]]
 - [[organic-vegetable-garden-rotation-deep-beds]]
 
 ## Practical Applications

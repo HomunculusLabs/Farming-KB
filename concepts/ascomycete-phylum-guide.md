@@ -25,7 +25,7 @@ Ascomycota is the largest phylum of fungi, containing over 64,000 described spec
 Contains the economically critical genera Penicillium and Aspergillus. These are primarily asexual fungi found in soil, decaying matter, and indoor environments. Penicillium species produce the antibiotic penicillin and are used in cheese production. Aspergillus species are used in soy sauce fermentation (A. oryzae) but some produce aflatoxins (A. flavus). See also [[mold-identification-guide]].
 
 ### Saccharomycetales (Saccharomyces)
-The true yeasts. Most are unicellular and reproduce by budding. [[yeast-biology-guide|Saccharomyces cerevisiae]] is the workhorse of baking, brewing, and winemaking. Other members include Candida albicans (a human pathogen) and Pichia species used in bioethanol production.
+The true yeasts. Most are unicellular and reproduce by budding. [[yeast-biology|Saccharomyces cerevisiae]] is the workhorse of baking, brewing, and winemaking. Other members include Candida albicans (a human pathogen) and Pichia species used in bioethanol production.
 
 ### Pezizales
 The cup fungi and morels. This order contains Morchella (morels), Tuber (truffles), and Helvella (elfin saddles). These are mostly ectomycorrhizal or saprotrophic and produce apothecia as fruiting bodies. See morels and truffles.

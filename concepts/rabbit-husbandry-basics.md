@@ -89,7 +89,7 @@ good mothers), Satin (good meat yield, beautiful sheen).
 
 ## See Also
 - [[rabbit-husbandry]]
-- [[rabbit-husbandry-guide]]
+- [[rabbit-husbandry]]
 - [[rabbit-processing-guide]]
 - [[comparison-rabbit-vs-quail-husbandry]]
 - [[comparison-quail-husbandry-vs-rabbit-husbandry]]

@@ -123,7 +123,7 @@ Studies suggest potential anti-tumor, immune-enhancing, and cholesterol-lowering
 ## See Also
 
 - [[medicinal-mushroom-guide-enoki|Enoki medicinal properties]]
-- [[enoki-cultivation-guide|Enoki cultivation detailed guide]]
+- Enoki cultivation detailed guide
 - [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]
 - [[bulk-substrate-preparation|bulk substrate preparation]]
 

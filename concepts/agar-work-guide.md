@@ -25,7 +25,7 @@ sources:
 
 Agar is the foundation of advanced mushroom cultivation. Working with agar allows you to isolate clean genetics from spores, rescue contaminated cultures, store long-term, and propagate without losing vigor.
 
-Related: [[mushroom-sterile-technique-detailed]], [[mushroom-spore-printing-and-storage]]
+Related: [[mushroom-sterile-technique]], [[mushroom-spore-printing-and-storage]]
 
 ## Agar Media Recipes
 
@@ -133,7 +133,7 @@ Rhizomorphic growth generally indicates stronger fruiting potential than cottony
 ## See Also
 
 [[mushroom-contamination-identification]], [[mushroom-indoor-cultivation]]
-- [[mushroom-sterile-technique-detailed]] for workspace preparation and contamination prevention
+- [[mushroom-sterile-technique]] for workspace preparation and contamination prevention
 - [[mushroom-spore-printing-and-storage]] for making your own spore syringes
 - [[mushroom-cultivation-basics]] for using agar cultures in the full grow cycle
 

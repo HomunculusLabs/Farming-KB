@@ -16,7 +16,7 @@ In mushroom cultivation, using a nutritious material as a casing layer is one of
 A casing layer is a layer of moist, non-nutritive (or very low-nutrition) material that is applied on top of a fully colonized mushroom substrate.
 Its purpose is to create the microclimate necessary for pinning ([[living-soil-cannabis]] approach relies heavily on top dressings of compost and worm castings to maintain the biological activity and nutrient cycling that define a living soil system.
 Top dressings can be applied at any point during the growing cycle, though they are most commonly applied at the time of planting, at the beginning of the flowering phase, or as a periodic maintenance practice in perennial beds.
-In [[dynamic-accumulators-overview]] resource describes how comfrey leaves can be used as a nutrient-dense top dressing, drawing minerals from deep subsoil layers and concentrating them in their leaves for surface application.
+In [[dynamic-accumulators]] resource describes how comfrey leaves can be used as a nutrient-dense top dressing, drawing minerals from deep subsoil layers and concentrating them in their leaves for surface application.
 ### Timing of Application
 Casing layers are applied at a very specific point in the mushroom cultivation cycle: only after the substrate is 100% colonized by mycelium.
 Applying a casing too early introduces contamination risk and can slow or stall the colonization process because the uncolonized substrate beneath the casing is still vulnerable to competitive organisms.

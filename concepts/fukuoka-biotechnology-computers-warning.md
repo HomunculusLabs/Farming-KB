@@ -55,7 +55,7 @@ Fukuoka extends his warning to human genetic manipulation:
 
 ## Specific Criticisms of Biotechnology
 
-Fukuoka's objections to biotechnology are rooted in what he saw as a fundamental misunderstanding of nature's complexity. He argued that genetic engineering treats [[cannabis-pest-management-guide]] — effectively externalizing hidden costs that natural systems would have internalized.
+Fukuoka's objections to biotechnology are rooted in what he saw as a fundamental misunderstanding of nature's complexity. He argued that genetic engineering treats [[cannabis-pest-management]] — effectively externalizing hidden costs that natural systems would have internalized.
 
 He specifically criticized the reductionist premise behind biotechnology: that individual genes can be isolated, modified, and inserted without unintended consequences. In his view, the genetic code was not a simple instruction manual but part of an interconnected whole that had evolved over millions of years. Altering one component without understanding the full system was, to Fukuoka, akin to randomly rewiring an airplane mid-flight. This perspective aligns with his broader [[comparison-natural-farming-vs-permaculture]] movement's resistance to genetically modified organisms (GMOs) draws on arguments similar to Fukuoka's: that the unpredictability of genetic modification poses ecological risks, that patenting life forms commodifies the commons, and that GMOs deepen farmer dependence on corporate seed suppliers rather than building self-reliance. Fukuoka's unique contribution was framing these concerns within a philosophical and spiritual context — he saw biotechnology not merely as a technical error but as a symptom of humanity's deeper estrangement from nature.
 

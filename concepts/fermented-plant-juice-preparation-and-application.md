@@ -10,7 +10,7 @@ type: concept
 
 # Fermented Plant Juice Preparation and Application
 
-[[natural-farming]] guide, FPJ serves as a [[cannabis-pest-management-guide]] tool, and plant health enhancer that can replace
+[[natural-farming]] guide, FPJ serves as a [[cannabis-pest-management]] tool, and plant health enhancer that can replace
 commercial fertilizers and synthetic growth hormones.
 
 ## Understanding FPJ

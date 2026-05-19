@@ -30,7 +30,7 @@ sources:
 
 # Mushroom Grow Equipment
 
-Quality equipment dramatically reduces contamination rates and improves yields. This page covers the full range from minimum viable setups to professional-grade labs. See [[mushroom-sterile-technique-detailed]] for how to use this equipment, and [[mushroom-indoor-cultivation]] for grow chamber setup.
+Quality equipment dramatically reduces contamination rates and improves yields. This page covers the full range from minimum viable setups to professional-grade labs. See [[mushroom-sterile-technique]] for how to use this equipment, and [[mushroom-indoor-cultivation]] for grow chamber setup.
 
 ## Equipment by Category
 
@@ -75,7 +75,7 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 - Select blower rated for this airflow at ~150 Pa pressure drop through the HEPA
 - Oversize slightly to account for dirty filters and prefilter resistance
 
-**Construction**: Horizontal airflow recommended (air moves back to front). Enclosure of press boards with transparent plexiglas top for light. See [[mushroom-sterile-technique-detailed]] for HEPA specifications.
+**Construction**: Horizontal airflow recommended (air moves back to front). Enclosure of press boards with transparent plexiglas top for light. See [[mushroom-sterile-technique]] for HEPA specifications.
 
 **Usage**: Run blower 30 min before work. Wipe sterile area with alcohol-soaked paper before and after 30-min run.
 
@@ -109,7 +109,7 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 | Inoculation loop / scalpel | $5–15 | Transfers | Scalpel blades: flame until red hot |
 | Quart mason jars (12+) | $12–20 | Grain spawn | Wide-mouth preferred for easy removal |
 | Polypropylene grow bags (100) | $20–40 | Bulk substrate | Autoclavable. Filter patch equipped. |
-| Agar, malt extract, dextrose | $15–30 | Media preparation | See [[mushroom-sterile-technique-detailed]] for recipes |
+| Agar, malt extract, dextrose | $15–30 | Media preparation | See [[mushroom-sterile-technique]] for recipes |
 | Petri dishes (500, 90mm) | $25–40 | Agar culture | Pre-sterilized plastic or reusable glass |
 | pH meter or strips | $10–30 | Substrate/media pH | Target 5.5–7.0 for most species |
 | Digital scale | $10–25 | Precise measurements | 0.1g accuracy sufficient |

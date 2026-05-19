@@ -35,7 +35,7 @@ Anxiety, depression, PTSD, schizophrenia, [[blesching-cannabis-inflammatory-bowe
 HIV/AIDS, hepatitis, herpes, MRSA, colds and flu
 
 ### Other Conditions
-Diabetes, chronic pain, migraine, fibromyalgia, insomnia, asthma, COPD, glaucoma, age-related [[endocannabinoid-system-overview]] serves as a biological bridge between the body and mind
+Diabetes, chronic pain, migraine, fibromyalgia, insomnia, asthma, COPD, glaucoma, age-related [[endocannabinoid-system]] serves as a biological bridge between the body and mind
 2. Emotional states influence physiological processes through ECS signaling
 3. Cannabis may facilitate deeper exploration of psychological factors in illness
 4. The therapeutic setting, intention, and emotional state influence outcomes

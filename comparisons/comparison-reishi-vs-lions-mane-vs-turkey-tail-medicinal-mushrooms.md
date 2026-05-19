@@ -32,7 +32,7 @@ Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lionturkey-tail-trametes-versicolor
 
 - **Reishi**: Dual extraction (hot water + ethanol) is essential. Water extracts polysaccharides; ethanol extracts triterpenoids (ganoderic acids). Products using only hot water extraction miss the triterpenoid fraction. Spore oil is a specialty product containing concentrated triterpenoids.
 - **Lion's Mane**: Hot water extraction captures β-glucans from fruiting body. Mycelium products (often grown on grain) may contain erinacines but should be tested for β-glucan content. Dual extraction is preferred for full-spectrum products.
-- **Turkey Tail**: Hot water extraction captures PSK and PSP. Most [[cannabis-autoimmune-conditions-detailed]]** | May be contraindicated (immune-stimulating in some contexts) | Generally safe | May overstimulate immune system |
+- **Turkey Tail**: Hot water extraction captures PSK and PSP. Most [[cannabis-autoimmune-conditions]]** | May be contraindicated (immune-stimulating in some contexts) | Generally safe | May overstimulate immune system |
 | **Surgery** | Discontinue 2 weeks before surgery (bleeding risk) | Minimal concern | Minimal concern |
 | **Pregnancy/lactation** | Insufficient data; traditional use suggests caution | Insufficient data; generally avoided | Insufficient data; generally avoided |
 | **Side effects** | Dry mouth, throat irritation, dizziness, GI upset (rare) | Skin rash, GI discomfort (rare) | Darkened stools, GI discomfort (rare) |

@@ -38,7 +38,7 @@ Even though the seedlings will still be affected by clubroot when planted out, t
 Adding lime to the soil before planting also seems to help control clubroot. Lime raises soil pH, and clubroot is less severe in alkaline conditions. See [[acid-and-alkaline-soil-management]] for liming guidelines.
 
 ### Avoid Replanting Brassicas
-Since clubroot persists indefinitely in soil, practice long rotations. Mustard (a Brassica) used as [[green-manure-crops-detailed]] should also be avoided on infected land.
+Since clubroot persists indefinitely in soil, practice long rotations. Mustard (a Brassica) used as [[green-manure-crops]] should also be avoided on infected land.
 
 ## Prevention
 
@@ -51,7 +51,7 @@ Since there is no cure, prevention is critical:
 ## Related
 
 - [[acid-and-alkaline-soil-management]] — using lime to raise soil pH
-- [[green-manure-crops-detailed]] — avoid mustard (a brassica) on clubroot-infected soil
+- [[green-manure-crops]] — avoid mustard (a brassica) on clubroot-infected soil
 - [[companion-planting-deterrents]] — French marigolds for eelworm control (not clubroot-specific)
 
 ## Overview

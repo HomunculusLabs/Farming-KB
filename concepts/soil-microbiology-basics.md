@@ -23,7 +23,7 @@ The soil food web is the community of organisms living in soil, from bacteria an
 - Excess bacterial growth can deplete oxygen, driving soil anaerobic
 
 ### In Compost Tea
-- Minimum threshold: 300 ug/ml for adequate [[ingham-soil-food-web-assessment-methods]]
+- Minimum threshold: 300 ug/ml for adequate [[soil-food-web-assessment-methods]]
 - [[soil-food-web-nutrient-cycling]]
 - [[teaming-with-nutrients-composting-and-nutrient-cycling]], food web populations, and buffering capacity. Related: [[ph-and-nutrient-availability-garden-soils]], [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

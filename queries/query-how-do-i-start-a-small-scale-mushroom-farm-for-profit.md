@@ -107,4 +107,4 @@ growing house.
 - query-how-do-i-start-a-small-home-vineyard-for-table-grapes
 
 - [[query-how-to-start-growing-mushrooms-at-home]]
-[[mushroom-foraging-safety-guide]]
+[[mushroom-foraging-safety]]

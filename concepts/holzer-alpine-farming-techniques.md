@@ -10,7 +10,7 @@ sources:
 ---
 ## Farming at 1,100-1,500m Altitude
 
-The Krameterhof operates at elevations where conventional agriculture has been largely abandoned. Holzer has developed specific techniques that make productive farming possible in these marginal conditions where winters reach -25C and the [[green-manure-crops-detailed]] left standing create an insulating quilt over the soil
+The Krameterhof operates at elevations where conventional agriculture has been largely abandoned. Holzer has developed specific techniques that make productive farming possible in these marginal conditions where winters reach -25C and the [[green-manure-crops]] left standing create an insulating quilt over the soil
 - Water bodies moderate temperature fluctuations on adjacent land
 
 ### Altitude-Shifting Results

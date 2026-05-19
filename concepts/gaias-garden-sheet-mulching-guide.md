@@ -34,7 +34,7 @@ Unless ground is moist from rain, water thoroughly. Organisms can't work without
 
 ### Step 1: Slash Vegetation
 
-Clip, mow, scythe, or weed-whack everything down in place. **Do not pull up weeds** — leave all native [[sheet-mulching-guide]]
+Clip, mow, scythe, or weed-whack everything down in place. **Do not pull up weeds** — leave all native [[sheet-mulching]]
 - [[mulching-guide]]
 - [[soil-life]]
 

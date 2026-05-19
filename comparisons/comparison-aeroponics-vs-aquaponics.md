@@ -12,7 +12,7 @@ type: comparison
 Aeroponics and aquaponics are two advanced soilless growing systems that eliminate
 traditional growing media in favor of recirculating nutrient solutions. Aeroponics
 suspends plant roots in air chambers and delivers nutrients via fine mist, achieving
-the fastest growth rates of any [[aquaponics-guide]]
+the fastest growth rates of any [[aquaponics]]
 Aquaponics creates a symbiotic ecosystem between fish, bacteria, and plants in a
 recirculating water system. Fish produce ammonia waste through their excretions, which
 is converted by nitrifying bacteria (Nitrosomonas and Nitrobacter species) first into

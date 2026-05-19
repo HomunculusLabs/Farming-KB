@@ -100,7 +100,7 @@ reducing feed costs. Ducks complement chickens by consuming slugs, snails,
 
 - [[chicken-tractor-systems]]
 - poultry-systems-in-permaculture
-- [[rabbit-husbandry-guide]]
+- [[rabbit-husbandry]]
 - [[sheep-husbandry]]
 - [[animal-manure-guide]]
 - integrated poultry forage systems zone two
