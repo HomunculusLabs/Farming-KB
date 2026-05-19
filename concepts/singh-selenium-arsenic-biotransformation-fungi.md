@@ -2,7 +2,7 @@
 title: Singh Selenium Arsenic Biotransformation Fungi
 created: 2026-04-28
 tags:
-  - [[fungal-metalloid-transformation-methylation-volatilization]] by Fungi
+  - fungal-metalloid-transformation-methylation-volatilization by Fungi
 ---
 
 Selenium and arsenic are metalloids posing significant [[gadd-fungal-metal-transformations-biogeochemical-cycling]], mediating

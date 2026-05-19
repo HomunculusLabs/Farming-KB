@@ -2,7 +2,7 @@
 title: Flow Over Landscapes: mollison von karman trails and flowforms Trails and Flowforms
 created: 2026-04-26
 tags:
-  - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] of windbreaks, water features,
+  - bill-mollison-permaculture-a-designers-manual-permaculture-design-principles of windbreaks, water features,
 and aerodynamic structures.
 ---
 

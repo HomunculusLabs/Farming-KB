@@ -1,6 +1,5 @@
 ---
 
----
 ## Light and UV Effects on Compost Tea Organisms
 
 ## Sun Tea Misconceptions

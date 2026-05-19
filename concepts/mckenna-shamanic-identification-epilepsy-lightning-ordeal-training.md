@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-shamanic-identification-signs-and-training-methods]] — Epilepsy, Lightning, and Ordeal Training
+title: Mckenna Shamanic Identification Epilepsy Lightning Ordeal Training
 tags:
   - shamanism
   - epilepsy

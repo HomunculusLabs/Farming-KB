@@ -2,7 +2,7 @@
 title: Escovopsis Parasitic Fungi Attine Ant Gardens
 created: 2026-04-26
 tags:
-  - [[fungal-parasites]] that exploit the
+  - fungal-parasites that exploit the
 ant-fungus partnership. The most significant of these is
 Escovopsis, a genus of ascomycete fungi that parasitizes
 the cultivated fungal gardens and represents a major

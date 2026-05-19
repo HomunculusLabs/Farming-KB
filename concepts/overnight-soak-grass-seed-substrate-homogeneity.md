@@ -1,5 +1,5 @@
 ---
-title: Overnight Soaking Method for Grass grass-seed-substrate-for-[[mushroom-cultivation]] Homogeneity
+title: Overnight Soak Grass Seed Substrate Homogeneity
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
 topic: mycology [[accessible-mushroom-cultivation-for-disabilities]], achieving consistent moisture content throughout the substrate is critical for even colonization and predictable yields. The overnight soaking method is an alternative to the direct-addition approach, where water is added directly to dry seed in the jar. Soaking produces a more homogenous substrate by allowing seeds to fully hydrate before being loaded into cultivation jars.
 ---

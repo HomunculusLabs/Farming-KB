@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags:
-  - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. The classification
+  - bill-mollison-permaculture-a-designers-manual-permaculture-design-principles. The classification
 follows the work of Chakroff and Yeoman. Understanding these categories is
 essential for anyone working with permaculture-dam-design for optimal siting and
 construction.

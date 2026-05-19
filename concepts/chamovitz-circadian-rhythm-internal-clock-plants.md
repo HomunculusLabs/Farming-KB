@@ -1,5 +1,5 @@
 ---
-title: "[[circadian-rhythm]] and the Internal Clock in Plants"
+title: Chamovitz Circadian Rhythm Internal Clock Plants
 source: "What a Plant Knows - Daniel Chamovitz, Chapter 6: What a Plant Remembers"
 tags:
   - plant-biology

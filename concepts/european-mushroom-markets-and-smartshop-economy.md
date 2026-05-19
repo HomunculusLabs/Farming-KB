@@ -1,5 +1,5 @@
 ---
-title: European [[duggar-wild-mushroom-markets-and-seasonal-harvesting]] Smartshop Economy
+title: European Mushroom Markets And Smartshop Economy
 source: [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] evolved from an informal
 underground activity into a structured retail economy spanning physical shops,
 delivery services, and online commerce. The EMCDDA documented the rapid

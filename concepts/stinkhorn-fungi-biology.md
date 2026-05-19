@@ -1,5 +1,5 @@
 ---
-title: "[[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]: Biology, Evolution, and Ecology"
+title: Stinkhorn Fungi Biology
 type: concept
 tags:
   - mycology

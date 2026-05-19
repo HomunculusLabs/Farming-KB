@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-natural-orchard-management]]
+title: Natural Orchard Management
 created: 2026-04-28
 tags:
   - natural-farming

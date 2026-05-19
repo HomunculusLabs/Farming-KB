@@ -1,5 +1,5 @@
 ---
-title: [[lemon-balm-melissa-officinalis]]
+title: Melissa Officinalis
 created: 2026-05-06
 type: species
 tags:

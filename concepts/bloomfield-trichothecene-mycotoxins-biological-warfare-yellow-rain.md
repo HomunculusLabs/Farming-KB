@@ -2,7 +2,7 @@
 title: Bloomfield Trichothecene Mycotoxins Biological Warfare Yellow Rain
 created: 2026-04-28
 tags:
-  - [[stachybotrys-chartarum]] (also known as Stachybotrys
+  - stachybotrys-chartarum (also known as Stachybotrys
 atra) rose to public notoriety in the 1990s following events in
 Cleveland, Ohio. In 1993 and 1994, its toxic metabolites, called
 macrocyclic trichothecenes, caused blood vessels to hemorrhage in the

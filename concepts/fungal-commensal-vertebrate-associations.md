@@ -2,7 +2,7 @@
 title: "Fungal Commensal Associations with Vertebrates"
 created: 2026-04-26
 tags:
-  - [[fusarium-solani]] and Pseudallescheria boydii, for
+  - fusarium-solani and Pseudallescheria boydii, for
 example, may proliferate on wounds and in deep cracks in the skin,
 where serous exudate (pus) and dead skin are available nutrient
 sources.

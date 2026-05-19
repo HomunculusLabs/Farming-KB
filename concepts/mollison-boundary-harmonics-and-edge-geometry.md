@@ -2,7 +2,7 @@
 title: mollison boundary harmonics and edge geometry and Edge Geometry in Design
 created: 2026-04-26
 tags:
-  - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
+  - gaias-garden-keyhole-beds-and-mandala-gardens
 common in nature, are obviously sheltered, spacious habitats for
 gardens and settlements.
 ---

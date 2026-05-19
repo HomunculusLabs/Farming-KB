@@ -2,7 +2,7 @@
 title: Mollison Sediment Management and Check Dam Systems
 created: 2026-04-26
 tags:
-  - [[comparison-gabions-vs-check-dams]], gabions,
+  - comparison-gabions-vs-check-dams, gabions,
 and silt retention structures are key tools for converting destructive
 erosion into beneficial soil deposition, particularly in dryland and
 [[mollison-designers-check-dam-types-and-landscape-placement]]

@@ -1,6 +1,5 @@
 ---
 
----
 ## Pinning Initiation Stages and Environmental Control
 
 ## Overview

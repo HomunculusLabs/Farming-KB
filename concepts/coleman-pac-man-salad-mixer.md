@@ -1,7 +1,7 @@
 ---
 title: Pac-Man Salad Mixer — Harvest Post-Processing Equipment
 tags:
-  - [[coleman-four-season-farm]] to blend the individual ingredients of the baby-leaf salad mix into a uniform product. Named for its resemblance to the Pac-Man video game character when opened, the mixer is a horizontally mounted barrel divided into two hinged halves that gently tumble salad ingredients together without bruising or damaging the delicate leaves. It is a critical component of the farm's wash-pack infrastructure and exemplifies Coleman's approach to designing simple, effective tools for specialized farm tasks.
+  - coleman-four-season-farm to blend the individual ingredients of the baby-leaf salad mix into a uniform product. Named for its resemblance to the Pac-Man video game character when opened, the mixer is a horizontally mounted barrel divided into two hinged halves that gently tumble salad ingredients together without bruising or damaging the delicate leaves. It is a critical component of the farm's wash-pack infrastructure and exemplifies Coleman's approach to designing simple, effective tools for specialized farm tasks.
 ---
 
 ## Design and Construction

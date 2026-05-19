@@ -2,7 +2,7 @@
 title: bloomfield curtis gates lloyd pharmacist mycologist Lloyd — Eccentric Pharmacist-Mycologist
 created: 2026-04-28
 tags:
-  - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
+  - bloomfield-rust-fungi-life-cycles-barberry-wheat
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 ---

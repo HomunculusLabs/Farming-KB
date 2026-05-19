@@ -1,5 +1,5 @@
 ---
-title: Comparison Hardneck Vs [[query-what-is-the-difference-between-hardneck-and-softneck-garlic]]
+title: Comparison Hardneck Vs Softneck Garlic
 created: 2026-04-28
 tags: [garlic, alliums, comparisons, planting-guide, varieties, root-crops]
 date: 2026-04-28

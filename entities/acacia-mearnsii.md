@@ -3,7 +3,7 @@ title: Acacia Mearnsii
 created: 2026-04-28
 type: species
 tags:
-  - [[agroforestry]]
+  - agroforestry
   - invasive-species
   - multipurpose-tree
   - Fabaceae

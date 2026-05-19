@@ -2,7 +2,7 @@
 title: "Valley and mollison valley and mountain climate effects Effects in Design"
 created: 2026-04-26
 tags:
-  - [[mollison-designers-snow-ice-and-winter-design-strategies]] for homes and
+  - mollison-designers-snow-ice-and-winter-design-strategies for homes and
 gardens. Altitude effect alone enables us to grow a wide range of plant
 species on a high island, using the area from ocean to mountain-top. In
 the subtropics, even temperate-area plants can be grown on high islands

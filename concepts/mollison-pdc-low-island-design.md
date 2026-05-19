@@ -1,5 +1,5 @@
 ---
-title: [[mollison-pdc-arid-landscape-settlement]] Low [[mollison-pdc-high-island-design]]
+title: Mollison Pdc Low Island Design
 created: 2026-04-28
 tags:
   - permaculture

@@ -2,7 +2,7 @@
 title: Coprine, Disulfiram, and the bloomfield coprine disulfiram alcohol reaction coprinus atramentarius of Coprinus atramentarius
 created: 2026-04-28
 tags:
-  - [[amanita]] species, [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] of the lawyer's wig, [[aquatic-fungi-spore-dispersal-ingold]] mechanism: as the
+  - amanita species, bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies of the lawyer's wig, aquatic-fungi-spore-dispersal-ingold mechanism: as the
 gills dissolve from the bottom upward, progressively shorter gills
 continuously expose new surfaces bearing immature spores, allowing
 the mushroom to release spores over an extended period. Coprinus

@@ -3,7 +3,7 @@ title: "arnica montana"
 created: 2026-04-28
 type: species
 tags:
-  - [[hofmann-lsd-clinical-research-early-studies]] supports its efficacy for bruising,
+  - hofmann-lsd-clinical-research-early-studies supports its efficacy for bruising,
 muscle soreness, and postoperative swelling.
 ---
 

@@ -1,6 +1,5 @@
 ---
 
----
 ## Overview
 
 Southern Africa harbors some of the most potent and culturally significant cannabis sativa-landrace-strains-and-geographic-origins in the world. The region stretching from Kenya through Malawi, Swaziland (now Eswatini), and down to South Africa's Eastern Cape has been a center of query-how-does-no-till-cannabis-cultivation-work for centuries. These equatorial and sub-equatorial landraces evolved in environments with intense equatorial sunlight and a latitude of approximately 25–30° south — a latitude that gives them a critical advantage for northern hemisphere cultivation: [[african-landrace-sativa-modern-hybrids]] incorporating Malawi genetics have significantly reduced this

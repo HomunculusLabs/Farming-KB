@@ -1,41 +1,15 @@
----
-title: Protozoa and Soil Ecology
-created: 2026-05-19
-updated: 2026-05-19
-type: topic
-tags: [soil-ecology, protozoa, nutrient-cycling, soil-food-web, microbiology, mineralization]
-sources:
- - Lowenfels & Lewis, Teaming with Microbes
- - Elaine Ingham, The Field Guide I for Actively Aerated Compost Tea
-related_concepts:
- - protozoa-in-soil
- - soil-protozoa
- - soil-protozoa-ecology-trophic-interactions
- - soil-protozoa-nutrient-cycling-and-mineralization
- - protozoa-roles-in-soil
- - teaming-with-microbes-protozoa
- - teaming-with-microbes-protozoa-types-amoeba-flagellate-ciliate
- - teaming-with-microbes-protozoa-and-nematodes
- - ingham-protozoa-nutrient-cycling
- - ingham-protozoa-soil-food-web-nutrient-cycling
- - lowenfels-protozoa-nematodes
- - lowenfels-soil-protozoa-cycling
- - protozoa-in-mulch-nutrient-cycling
- - protozoa-nematode-nutrient-cycling-ingham
- - aact-nematode-protozoa-management-ingham
----
 
 ## Protozoa and Soil Ecology
 
 Protozoa are single-celled eukaryotic organisms that serve as the primary
-mineralizers in the soil food web. Ranging from 5 to 500 micrometers in size,
+mineralizers in [[the-soil-food-web]]. Ranging from 5 to 500 micrometers in size,
 these microscopic predators consume bacteria and fungi, releasing the nutrients
 locked within microbial biomass back into the soil in plant-available forms.
 
 Over 60,000 species of protozoa are known, and the majority live in soil. A
 single gram of healthy soil can contain hundreds of thousands to millions of
 individual protozoa. Despite their microscopic size, their collective impact
-on nutrient cycling, decomposition, and plant nutrition is enormous.
+on nutrient cycling, [[decomposition]], and plant nutrition is enormous.
 
 Research has shown that as much as 80 percent of the nitrogen a plant needs
 comes from protozoan wastes. This makes protozoa indispensable partners in
@@ -44,9 +18,9 @@ rather than against them.
 
 ## The Three Major Groups of Soil Protozoa
 
-Soil protozoa are classified into three broad groups based on their method
-of locomotion: flagellates, amoebae, and ciliates. Each group occupies a
-distinct ecological niche within the soil matrix and has evolved different
+[[soil-protozoa]] are classified into three broad groups based on their method
+of locomotion: [[flagellates]], amoebae, and ciliates. Each group occupies a
+distinct [[ecological-niche]] within the soil matrix and has evolved different
 feeding strategies for exploiting bacterial and fungal populations.
 
 These three groups arrive in a predictable succession when bacterial food
@@ -117,7 +91,7 @@ and contractile vacuoles for osmoregulation. A single ciliate can clear a
 significant volume of its surrounding water film of bacteria in minutes.
 
 Ciliates require more oxygen than other protozoan types and are therefore
-sensitive to soil compaction and poor aeration. They are the first to
+sensitive to [[soil-compaction]] and poor aeration. They are the first to
 disappear when soil becomes anaerobic. High ciliate numbers often indicate
 compacted or poorly aerated conditions.
 

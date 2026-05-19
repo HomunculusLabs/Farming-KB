@@ -2,7 +2,7 @@
 title: Bloomfield Ingoldian Aquatic Fungi Tetraradiate Spores Foam
 created: 2026-04-28
 tags:
-  - [[terence-ingold-mycologist]], who first identified them in foam collected from an alder-lined
+  - terence-ingold-mycologist, who first identified them in foam collected from an alder-lined
 brook in Leicester in 1938, these fungi are instrumental in leaf decomposition and play
 a critical role in freshwater food webs. More than 300 species have since been identified,
 and they are the subject of over 1,000 scientific publications.

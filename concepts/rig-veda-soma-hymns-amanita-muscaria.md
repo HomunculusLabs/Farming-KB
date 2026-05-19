@@ -1,6 +1,5 @@
 ---
 
----
 ## The Rig Veda Soma Hymns and Amanita Muscaria
 
 The Rig Veda, the world's oldest and largest religious text, contains over one thousand hymns with more than ten thousand verses. Among these, one hundred and fourteen hymns in Book Nine are specifically dedicated to Soma -- a divine substance that the [[gratitude-compassion-forgiveness-healing-effects]] described -- joint strengthening, foot protection, [[amanita-muscaria-preparation-methods]] process:

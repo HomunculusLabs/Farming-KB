@@ -2,7 +2,7 @@
 title: Fungal Spore Discharge Mechanisms
 created: 2026-04-28
 tags:
-  - [[fungal-fruiting-body-mechanics-osmotic-pressure]], and explosive decompression.
+  - fungal-fruiting-body-mechanics-osmotic-pressure, and explosive decompression.
 ---
 
 The study of these mechanisms was pioneered by A.H. Reginald Buller,

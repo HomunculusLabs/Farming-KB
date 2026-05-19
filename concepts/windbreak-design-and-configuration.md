@@ -1,5 +1,5 @@
 ---
-title: [[windbreak-design-and-configurations]] Configuration
+title: Windbreak Design And Configuration
 source: [[comparison-windbreak-design-vs-species-selection|Windbreak]] Design and Configuration
 ---
 

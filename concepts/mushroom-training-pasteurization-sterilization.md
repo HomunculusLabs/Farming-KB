@@ -1,10 +1,10 @@
 ---
-title: Mushroom Training [[cotter-pasteurization-sterilization-methods]]
+title: Mushroom Training Pasteurization Sterilization
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
 tags:
-  - [[mushroom-cultivation-disabilities-training-manual-overview]] describes three [[oil-drum-sterilizer-mushroom-substrate-bags]] (country
+  - mushroom-cultivation-disabilities-training-manual-overview describes three oil-drum-sterilizer-mushroom-substrate-bags (country
 style, commercial, and solar) as well as autoclave sterilization for PDA medium and spawn
 production. Each method is accessible to farmers with disabilities with appropriate
 adaptations.

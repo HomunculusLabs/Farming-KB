@@ -1,6 +1,5 @@
 ---
 
----
 ## Psilocybin Mushroom Identification
 
 Accurate identification of psilocybin-containing mushrooms is essential for both

@@ -1,5 +1,5 @@
 ---
-title: "[[endophytic-fungi]] [[biodiversity-of-fungi-macrofungi-sampling-methods]] [[arbuscular-mycorrhizal-colonization-patterns]]"
+title: Endophytic Fungi Sampling Methods Colonization Patterns
 source: "[[dighton-fungal-drought-tolerance-plant-water-relations]] in exchange for nutrition and
 dispersal.
 ---

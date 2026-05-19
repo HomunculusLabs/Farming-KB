@@ -2,7 +2,7 @@
 title: Mycoremediation
 created: 2026-04-28
 tags:
-  - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
+  - arbuscular-mycorrhizal-inoculum-production-best-practices have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

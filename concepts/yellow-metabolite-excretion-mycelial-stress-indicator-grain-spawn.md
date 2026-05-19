@@ -1,5 +1,5 @@
 ---
-title: Yellow [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] Mycelial Stress Indicator Grain Spawn
+title: Yellow Metabolite Excretion Mycelial Stress Indicator Grain Spawn
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
 topics: [mycelial metabolites, stress indicator, grain spawn, over-incubation, [[grass-seed-cultivation-of-psilocybe-mushrooms]] guide for *Psilocybe* species includes an important
 diagnostic observation: "When jars are incubated too long or at too high a temperature

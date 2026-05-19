@@ -2,7 +2,7 @@
 title: Natural Farming Sustainable Living Principles
 created: 2026-04-28
 tags:
-  - [[holmgren-permaculture-twelve-design-principles-framework]]:
+  - holmgren-permaculture-twelve-design-principles-framework:
 ---
 
 1. Everything is connected to and supported by everything else.

@@ -1,5 +1,5 @@
 ---
-title: Earth [[dam-construction]]
+title: Earth Dam Construction
 source: bill-[[permaculture]] [[bill-mollison]]'s *Permaculture: A Designer's Manual*, earth [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|systems]] that work with natural processes rather than against them.
 ---
 

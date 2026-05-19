@@ -1,5 +1,5 @@
 ---
-title: [[diversion-drains-and-spreader-banks]] [[interceptor-drains-and-desertification-control]] [[spreader-banks-and-interceptor-drains]]
+title: Diversion Drains Interceptor Drains Spreader Banks
 source: bill-[[mollison-designers-diversion-drains-and-interceptor-banks|Banks]]
 ---
 

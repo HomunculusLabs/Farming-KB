@@ -3,7 +3,7 @@ title: Juglans Nigra
 created: 2026-04-28
 type: species
 tags:
-  - [[agroforestry]]
+  - agroforestry
   - timber
 date: 2026-04-28
 updated: 2026-04-28

@@ -2,7 +2,7 @@
 title: "Fukuoka's Eastern vs. fukuoka eastern western medicine healing world crisis — Healing the World in Crisis"
 source: "Sowing Seeds in the Desert (2012), Chapter 3: 'Healing a World In Crisis'"
 tags:
-  - [[masanobu-fukuoka]] draws a detailed parallel
+  - masanobu-fukuoka draws a detailed parallel
 between Eastern and Western approaches to medicine and their corresponding agricultural
 philosophies. He argues that Western medicine treats symptoms locally while Eastern
 medicine addresses the whole person, and that this fundamental divergence mirrors the

@@ -1,6 +1,5 @@
 ---
 
----
 ## Fukuoka's Critique of Inductive and Deductive Reasoning in Agriculture
 
 Masanobu Fukuoka's *The Natural Way of Farming* mounts a systematic philosophical attack on the foundations [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]]. He proposes [[fukuoka-illusions-of-scientific-farming]] gives various formulations to cows chained in a barn, representing a certain set of environmental conditions, and judges the mixture producing the best results to be superior. From this, it draws conclusions about cattle feed that it believes to be the truth.

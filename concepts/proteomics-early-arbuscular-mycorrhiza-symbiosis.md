@@ -1,5 +1,5 @@
 ---
-title: Proteomics Early [[functional-genomics-arbuscular-mycorrhiza]] Symbiosis
+title: Proteomics Early Arbuscular Mycorrhiza Symbiosis
 created: 2026-04-28
 tags:
   - proteomics

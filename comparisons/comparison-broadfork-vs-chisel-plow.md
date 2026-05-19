@@ -1,6 +1,5 @@
 ---
 
----
 ## How They Work
 
 ### Broadfork

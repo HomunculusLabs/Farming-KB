@@ -1,5 +1,5 @@
 ---
-title: [[comparison-swale-design-vs-contour-swale-irrigation-design]]
+title: Contour Swale Irrigation Design
 created: 2026-04-28
 tags: [swales, contour, irrigation, water-harvesting, bill-mollison's water-management. They
 transform destructive runoff into productive soil moisture, charge

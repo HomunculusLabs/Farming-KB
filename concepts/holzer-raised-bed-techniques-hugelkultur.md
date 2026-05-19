@@ -1,6 +1,5 @@
 ---
 
----
 ## Holzer Raised Bed Techniques (Hugelkultur)
 
 Raised beds are a core element of microclimate-creation-permacultures. Holzer's approach diverges significantly from standard raised-bed instructions found in gardening books, emphasising adaptability over rigid templates.

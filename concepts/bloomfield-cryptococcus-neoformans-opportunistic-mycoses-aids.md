@@ -2,7 +2,7 @@
 title: Bloomfield Cryptococcus Neoformans Opportunistic Mycoses Aids
 created: 2026-04-28
 tags:
-  - [[cryptococcus-neoformans]] is an encapsulated yeast that causes life-threatening meningitis,
+  - cryptococcus-neoformans is an encapsulated yeast that causes life-threatening meningitis,
 particularly in immunocompromised patients. It represents one of the most clinically
 significant opportunistic [[fungal-virulence-factors-host-immune-evasion]] cells. The
 fungus is very widespread in the environment, and humans probably encounter its cells

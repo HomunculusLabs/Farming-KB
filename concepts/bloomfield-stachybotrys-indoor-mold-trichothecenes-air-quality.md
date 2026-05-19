@@ -2,7 +2,7 @@
 title: Bloomfield Stachybotrys Indoor Mold Trichothecenes Air Quality
 created: 2026-04-28
 tags:
-  - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], are far more prevalent in
+  - alpha-1-3-glucan-fungal-pathogen-cell-walls, are far more prevalent in
 water-damaged buildings, although none of these genera produce the same
 potent trichothecene toxins. Even when Stachybotrys chartarum is
 identified in a home, this does not signify imminent doom, because only

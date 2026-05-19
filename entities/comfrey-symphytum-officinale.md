@@ -2,7 +2,7 @@
 title: Comfrey Symphytum Officinale
 type: species
 tags:
-  - [[permaculture]]
+  - permaculture
   - dynamic-accumulator
   - medicinal-herb
   - compost-activator

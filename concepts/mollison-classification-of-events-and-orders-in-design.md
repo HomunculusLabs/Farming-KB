@@ -2,7 +2,7 @@
 title: mollison classification of events and orders in design and Orders in Design
 created: 2026-04-26
 tags:
-  - [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]
+  - ingham-soil-foodweb-trophic-levels-protozoa-nematodes
 (food pyramids), and the size of animals in allied zoological
 families. The size of the factor itself (times 3 for river branches)
 changes with the dimensions of the system (times 10 for trophic

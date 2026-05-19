@@ -1,5 +1,5 @@
 ---
-title: Odonata Dragonflies Damselflies Ecology And [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
+title: Odonata Dragonflies Damselflies Ecology And Biological Control
 tags:
   - odonata
   - dragonflies

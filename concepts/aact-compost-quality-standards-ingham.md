@@ -1,6 +1,5 @@
 ---
 
----
 ## AACT Compost Quality Standards (Ingham)
 
 Updated: 2026-04-18

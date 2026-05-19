@@ -2,7 +2,7 @@
 title: mollison rain interception and throughfall in forests and Throughfall in Forests
 created: 2026-04-26
 tags:
-  - [[food-forest-layers-and-species]].
+  - food-forest-layers-and-species.
 ---
 
 ## The Canopy as First Filter
