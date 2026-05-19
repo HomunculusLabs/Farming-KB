@@ -23,7 +23,9 @@ Mushrooms require a uniform moderately low temperature
 and moist atmosphere, and will not thrive where draughts,
 or sudden fluctuations of temperature or moisture prevail.
 Proper ventilation is therefore essential but must be carefully
-managed to avoid these harmful conditions.
+managed to avoid these harmful conditions. Understanding
+[[mushroom-growing-temperature-and-moisture]] parameters is critical
+for successful cultivation.
 
 ## The Ventilation Challenge
 
@@ -33,7 +35,8 @@ double doors, where the entrance is from the outside, but if
 from another building single doors will suffice. A chimney-
 like shaft or shafts rising from the ceiling should be used as
 ventilators in winter, when we cannot ventilate from doors or
-windows.
+windows. These principles align with broader [[mushroom-cultivation-environmental-parameters]]
+for indoor growing environments.
 
 Side ventilation at any time when the beds are in bearing
 condition is rather precarious. The ideal approach is to have
@@ -54,7 +57,8 @@ windows and shaft is given. But as soon as there is any sign
 of the mushrooms appearing, all ventilators except the shaft
 in the middle are shut and kept closed. This practice ensures
 that ventilation continues without exposing the bearing beds
-to cold draughts.
+to cold draughts. Compare with [[growing-gourmet-growing-room-ventilation-air-exchange]]
+for modern approaches to growing room airflow management.
 
 ## The Dosoris Ventilation Lesson
 
@@ -68,7 +72,8 @@ One tall wooden chimney-like shaft would have been a
 better ventilator than the three ventilating holes, which were
 covered over with an iron and glass grating. Multiple small
 ventilators create localized cold spots that reduce productivity
-directly beneath them.
+directly beneath them. For more on [[falconer-mushroom-cultivation-victorian-methods]],
+see the broader historical context of Victorian mushroom houses.
 
 ## Condensation and Drip
 
