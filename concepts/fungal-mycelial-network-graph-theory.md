@@ -1,5 +1,5 @@
 ---
-title: Graph Theory Analysis of Fungal Mycelial Networks
+title: [[mycelial-network-graph-theory-analysis]] of [[fungal-mycelial-networks-ecosystem-engineers]]
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal mycelia can be analyzed as spatial networks using graph theory, providing quantitative tools to characterize their architecture, transport efficiency, and resilience. Cord-forming basidiomycetes such as *[[phanerochaete-velutina]]* produce interconnected networks of linear organs (cords) that forage for and translocate resources across soil and wood substrates. By translating these physical structures into abstract graph representations, researchers can apply well-established network metrics to compare fungal network topology with both random and model networks, revealing how fungal growth strategies balance exploration with exploitation.
+Fungal mycelia can be analyzed as spatial networks using graph theory, providing quantitative tools to characterize their architecture, transport efficiency, and resilience. Cord-forming basidiomycetes such as *[[phanerochaete-velutina]]* produce interconnected networks of linear organs (cords) that forage for and translocate resources across soil and wood substrates. By translating these physical structures into abstract graph representations, researchers can apply well-established network metrics to compare fungal [[mycelial-cord-network-topology-graph-theory-bebber]] with both random and model networks, revealing how fungal growth strategies balance exploration with exploitation.
 
 This approach, documented extensively in Gadd et al.'s *Fungi in the Environment* (Chapter 1), draws on techniques from spatial graph theory and complex network science to provide a rigorous, quantitative framework for understanding mycelial foraging and nutrient dynamics.
 
@@ -66,7 +66,7 @@ Together, these indices provide a compact summary of network complexity that can
 
 ## Comparison with Model Networks
 
-To evaluate whether fungal network architecture is biologically distinctive, researchers compare empirical mycelial graphs against three canonical spatial network models:
+To evaluate whether fungal [[mycelial-network-architecture]] is biologically distinctive, researchers compare empirical mycelial graphs against three canonical spatial network models:
 
 1. **Delaunay triangulation (DT)**: Connects nodes such that no node lies inside the circumcircle of any triangle. Maximizes local connectivity and produces the densest possible planar network for a given node set. Serves as the **upper connectivity bound** — the most interconnected planar graph possible.
 
@@ -74,7 +74,7 @@ To evaluate whether fungal network architecture is biologically distinctive, res
 
 3. **Minimum spanning tree (MST)**: Connects all nodes with the minimum total edge weight (typically Euclidean distance) and contains no cycles (β = 1). Represents the **sparsest possible connected network** — the lower connectivity bound.
 
-Fungal networks typically fall between the MST and the RNG or DT in terms of connectivity indices, reflecting an intermediate strategy that balances the metabolic cost of building and maintaining cords against the benefits of transport redundancy and resource security. This intermediate positioning is consistent across multiple fungal species and experimental conditions, suggesting it represents a general adaptive optimum.
+Fungal networks typically fall between the MST and the RNG or DT in terms of connectivity indices, reflecting an intermediate strategy that balances the metabolic cost of building and maintaining cords against the benefits of transport redundancy and resource security. This intermediate positioning is consistent across multiple fungal species and [[darwin-five-seedling-phototropism-experimental-conditions]], suggesting it represents a general adaptive optimum.
 
 ## Network Resilience
 
@@ -113,7 +113,7 @@ This developmental sequence demonstrates that fungal network topology is an emer
 - The planar constraint is both a limitation and an organizing principle: it prevents the extreme connectivity seen in non-spatial networks while enforcing biologically meaningful spatial relationships between nodes.
 
 ## See Also
-- Fungal foraging strategies and resource translocation
+- [[fungal-foraging-strategies-heterogeneous-environments]] and resource translocation
 - Spatial graph theory and planar networks
 - Biological network resilience and robustness
 - Mycelial cord systems and their ecological functions

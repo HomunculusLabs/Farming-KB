@@ -1,5 +1,5 @@
 ---
-title: Mycelial Nutrient Transport and Network Dynamics in Fungi
+title: [[fungi-environment-mycelial-nutrient-transport-imaging]] and Network Dynamics in Fungi
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal mycelia are among the most remarkable transport networks in biology. Basidiomycete fungi — the major agents of decomposition and nutrient cycling in forest ecosystems — form interconnected cord systems that can extend for metres or even hectares. These [[fungal-mycelial-networks-nutrient-translocation]] scavenge and sequester nutrients from soil, concentrate nutrients from decomposing organic matter, and relocate resources between different organic patches. Understanding how nutrients move through these networks is fundamental to grasping the role of fungi in ecosystem processes, from carbon cycling to plant nutrition.
+Fungal mycelia are among the most remarkable transport networks in biology. Basidiomycete fungi — the major agents of decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] in forest ecosystems — form interconnected cord systems that can extend for metres or even hectares. These [[fungal-mycelial-networks-nutrient-translocation]] scavenge and sequester nutrients from soil, concentrate nutrients from decomposing organic matter, and relocate resources between different organic patches. Understanding how nutrients move through these networks is fundamental to grasping the role of fungi in ecosystem processes, from carbon cycling to plant nutrition.
 
 ## Ecological Roles of Mycelial Networks
 
@@ -37,7 +37,7 @@ A central question in mycology is whether fungal colonies exhibit **global coord
 
 ### Mechanisms of Transport
 
-The precise mechanisms underlying nutrient movement through mycelia are not yet fully resolved, but several processes are believed to contribute:
+The precise mechanisms underlying [[nutrient-movement-through-soil-to-plant-roots]] mycelia are not yet fully resolved, but several processes are believed to contribute:
 
 - **Mass flow**: Bulk movement of solution through hyphal tubes, potentially driven by osmotic gradients or turgor pressure differences between different parts of the network.
 - **Diffusion**: Passive movement of molecules down concentration gradients. While diffusion alone is too slow for long-distance transport, it may be significant at the sub-cellular level and over short distances.
@@ -84,7 +84,7 @@ Direct study of nitrogen movement is challenging because no convenient fluoresce
 
 The FRAP protocol developed for studying vacuolar transport involves several sequential steps:
 
-1. **Estimate the vacuolar diffusion coefficient (Dv)**: FRAP of half a large, isolated vacuole using rapid confocal imaging. Values measured in vivo compared favorably with theoretical and experimental values for fluorescein in pure water, confirming that the dye was freely diffusible in a largely aqueous vacuolar lumen.
+1. **Estimate the [[vacuolar-diffusion-fungal-transport]] coefficient (Dv)**: FRAP of half a large, isolated vacuole using rapid confocal imaging. Values measured in vivo compared favorably with theoretical and experimental values for fluorescein in pure water, confirming that the dye was freely diffusible in a largely aqueous vacuolar lumen.
 
 2. **Estimate functional tube diameter**: With a known Dv, the diameter of the tubular connections between vacuoles can be estimated from FRAP data, assuming diffusion-only transport. In cases where the only connection was between the two vacuoles under study (no adjacent neighbors), a pure diffusion model described the data well. Functional tube diameters determined in vivo (0.24–0.48 μm) compared well with estimates from electron microscopy.
 
@@ -112,7 +112,7 @@ The ability of fungal mycelia to transport nutrients over distances has profound
 - **Carbon cycling**: Saprotrophic fungi decompose organic matter and redistribute carbon through soil profiles, influencing soil organic matter distribution and long-term carbon storage.
 - **Phosphorus availability**: Many fungi are exceptionally effective at solubilizing phosphate from mineral and organic sources, making phosphorus available to plants in ecosystems where phosphorus is often the limiting nutrient.
 - **Nitrogen cycling**: Fungi play key roles in nitrogen immobilization and mineralization, and cord-forming species can move nitrogen between decomposing wood resources and the surrounding soil.
-- **Plant community composition**: Mycorrhizal networks can connect multiple plant individuals, potentially facilitating nutrient sharing and influencing competitive outcomes between plant species.
+- **[[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]**: Mycorrhizal networks can connect multiple plant individuals, potentially facilitating nutrient sharing and influencing competitive outcomes between plant species.
 
 ### Soil Structure Maintenance
 
@@ -136,7 +136,7 @@ The study of mycelial nutrient dynamics is being transformed by modern technique
 2. **Multiple transport mechanisms** likely operate simultaneously — mass flow, diffusion, cytoplasmic streaming, and vesicular transport each contribute at different scales.
 3. **The vacuolar system** plays a central role in intracellular transport, with its pleiomorphic structure varying systematically along the hypha to match functional requirements.
 4. **FRAP and confocal microscopy** have enabled quantitative, in vivo measurement of transport parameters, bridging the gap between cellular biology and ecosystem-scale function.
-5. **Ecosystem impacts are enormous** — fungal nutrient translocation influences carbon storage, plant productivity, soil structure, and plant community dynamics across all terrestrial ecosystems.
+5. **Ecosystem impacts are enormous** — [[dighton-fungal-nutrient-translocation-element-redistribution]] influences carbon storage, plant productivity, soil structure, and plant community dynamics across all terrestrial ecosystems.
 
 ## See Also
 

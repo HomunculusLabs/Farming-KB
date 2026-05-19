@@ -1,16 +1,16 @@
 ---
-title: Pulsatile Nutrient Transport in Fungal Mycelia
+title: [[fungal-pulsatile-nutrient-transport-mycelial-networks]] in Fungal Mycelia
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
 # Pulsatile Nutrient Transport in Fungal Mycelia
 
-Pulsatile nutrient transport refers to the rhythmic, oscillatory movement of metabolites and resources through fungal [[fungal-mycelial-networks-nutrient-translocation]]. Unlike steady-state diffusion, this transport mechanism operates through coordinated, wave-like pulses that enable efficient distribution of nitrogen, carbon, and other essential nutrients across extensive colony structures. Understanding this phenomenon is critical for mycology, soil ecology, and agricultural applications where fungal networks mediate nutrient cycling and plant-fungal symbioses.
+Pulsatile nutrient transport refers to the rhythmic, oscillatory movement of metabolites and resources through fungal [[fungal-mycelial-networks-nutrient-translocation]]. Unlike steady-state diffusion, this transport mechanism operates through coordinated, wave-like pulses that enable efficient distribution of nitrogen, carbon, and other essential nutrients across extensive colony structures. Understanding this phenomenon is critical for mycology, soil ecology, and agricultural applications where fungal networks mediate [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] plant-fungal symbioses.
 
 ## Biological Significance in Agricultural Contexts
 
-Fungal mycelia are the primary decomposers and nutrient recyclers in most terrestrial ecosystems, including farmland soils. Their ability to transport nutrients over centimeter-to-meter scales directly influences soil fertility, organic matter decomposition, and nutrient availability to crop roots. Pulsatile transport mechanisms allow fungi to:
+Fungal mycelia are the primary decomposers and nutrient recyclers in most terrestrial ecosystems, including farmland soils. Their ability to transport nutrients over centimeter-to-meter scales directly influences soil fertility, organic matter decomposition, [[chelation-and-nutrient-availability]] to crop roots. Pulsatile transport mechanisms allow fungi to:
 
 - **Prioritize resource allocation** to actively growing hyphal tips when nutrients are scarce
 - **Maintain metabolic homeostasis** across heterogeneous soil environments
@@ -98,8 +98,8 @@ This HSV mapping produces visually striking colony images where phase domains ap
 
 The pulsatile nature of fungal nutrient transport has several practical implications for agriculture:
 
-1. **Soil structure preservation** — fungal hyphal networks that mediate pulsatile transport are sensitive to physical disturbance. Reduced tillage practices help maintain intact mycelial networks and their transport capacity.
-2. **Organic amendment strategies** — providing heterogeneous nutrient inputs (e.g., compost, cover crop residues) supports the phase domain organization that optimizes fungal nutrient cycling.
+1. **Soil structure preservation** — fungal hyphal networks that mediate pulsatile transport are sensitive to physical disturbance. Reduced tillage practices help maintain intact [[mycelial-networks-and-intelligence]] their transport capacity.
+2. **Organic amendment strategies** — providing heterogeneous nutrient inputs (e.g., compost, cover crop residues) supports the phase domain organization that optimizes [[fungal-nutrient-cycling-forests]].
 3. **Mycorrhizal inoculation** — understanding transport dynamics can inform the selection and application of mycorrhizal inoculants for improved nutrient delivery to crop roots.
 4. **Nutrient use efficiency** — fungi with robust pulsatile transport systems may enhance nitrogen and phosphorus use efficiency in cropping systems by maintaining active redistribution even under variable soil conditions.
 5. **Bioindicator potential** — the health and organization of pulsatile transport systems in soil fungi could serve as indicators of soil biological quality and ecosystem functioning.
@@ -114,7 +114,7 @@ While Fourier-based analysis of pulsatile transport has provided transformative 
 - **Field validation** — Most observations come from controlled laboratory conditions. Translating these findings to the complex, multi-species context of agricultural soils is an important next step.
 
 ## See Also
-- Mycorrhizal Fungi and Nutrient Cycling
+- Mycorrhizal Fungi [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 - [[soil-food-web]] Dynamics
 - Nitrogen Mineralization in Agricultural Soils
 - Fungal Colony Morphology and Foraging Strategies

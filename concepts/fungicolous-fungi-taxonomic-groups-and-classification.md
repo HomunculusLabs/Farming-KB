@@ -1,5 +1,5 @@
 ---
-title: fungicolous-fungi-taxonomic-groups Groups And Classification
+title: [[fungicolous-fungi-taxonomic-groups]] Groups And Classification
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -22,7 +22,7 @@ The fungicolous habit is widespread throughout the fungi but is particularly com
 | Zygomycota (Zoopagales) | — | — | 50 | — | — | 50 |
 | Zygomycota (Dimargaritales) | — | — | 13 | — | — | 13 |
 | [[ascomycota]] (total) | 541 | 963 | 65 | 3 | 1 | 1,069 |
-| Basidiomycota (total) | 265 | 110 | 12 | 9 | 1 | 398 |
+| [[basidiomycota]] (total) | 265 | 110 | 12 | 9 | 1 | 398 |
 | **TOTAL** | **~643** | **~1,295** | **~72** | **~91** | **~95** | **~2,175** |
 
 ## Oomycota
@@ -48,7 +48,7 @@ Distinguishing features from plant-pathogenic *Pythium*:
 
 ## Hyphochytridiomycota
 
-Two genera of Hyphochytridiales include species that parasitize oospores of *Phytophthora* species:
+Two genera of Hyphochytridiales include species that parasitize oospores of *[[phytophthora]]* species:
 - *Hyphochytridium*: One mycoparasitic species
 - *Rhizidiomyces*: Two mycoparasitic species
 
@@ -66,7 +66,7 @@ Endobiotic taxa form an intracellular thallus either:
 - **Surrounded by a wall** ensheathed in the host's [[endoplasmic-reticulum]] (e.g., *Catenaria allomycis* in *Allomyces*; Sykes and Porter 1980; Powell 1982)
 - **Naked** (e.g., *Rozella allomycis* in *Allomyces*; Karling 1942; Held 1981; *Rozella polyphagi* in *Polyphagus euglenae*; Powell 1984)
 
-The naked endobionts consume part of the host cytoplasm by phagocytosis. Their thallus is surrounded only by the host plasmalemma, which disintegrates during sporogenesis.
+The naked endobionts consume part of the host cytoplasm by phagocytosis. Their thallus is surrounded only by the host [[plasmalemma]], which disintegrates during sporogenesis.
 
 ### Host Defense Responses
 
@@ -95,8 +95,8 @@ Ten species of sporocarp-inhabiting fungi are documented from the Mucorales.
 
 This order includes numerous obligate, biotrophic, contact parasites—both endoparasites and predators of amoebae, nematodes, and other small animals.
 
-**Piptocephalidaceae** (obligate haustorial mycoparasites):
-- *Piptocephalis* and *Kuzuhaea* species are purely biotrophic, forming small haustoria in host cells
+**[[piptocephalidaceae]]** (obligate haustorial mycoparasites):
+- *[[piptocephalis]]* and *Kuzuhaea* species are purely biotrophic, forming small haustoria in host cells
 - *Piptocephalis xenophila* can grow on *Penicillium* and *Chaetomium* species, but all other species grow only on Mucorales sensu lato
 - Best growth on media with organic nitrogen sources and low sugar concentration
 - Haustoria are enucleate, delimited from host cytoplasm by a very thin electron-transparent wall layer

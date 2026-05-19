@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal mycelia form complex, interconnected networks that can be analysed using tools from **graph theory** and **network science**. By representing the morphological structures of a fungal mycelium as a mathematical graph comprising nodes (vertices) connected by links (edges), researchers can quantify network properties such as connectivity, efficiency, resilience, and transport capacity. This approach, pioneered in studies of *[[phanerochaete-velutina]]*, has revealed that fungal networks share organizational principles with other biological and engineered networked systems.
+[[gadd-mathematical-modelling-fungal-mycelia-form-function]] complex, interconnected networks that can be analysed using tools from **graph theory** and **network science**. By representing the [[ectomycorrhizal-morphological-structures]] of a fungal mycelium as a mathematical graph comprising nodes (vertices) connected by links (edges), researchers can quantify network properties such as connectivity, efficiency, resilience, and transport capacity. This approach, pioneered in studies of *[[phanerochaete-velutina]]*, has revealed that fungal networks share organizational principles with other biological and engineered networked systems.
 
 ## From Mycelium to Graph
 
@@ -55,7 +55,7 @@ The sum of all link lengths, representing the total material investment in the t
 
 ## Network Development Over Time
 
-The network architecture of *P. velutina* is not static but evolves through three distinct phases:
+The [[mycelial-network-architecture]] of *P. velutina* is not static but evolves through three distinct phases:
 
 ### Phase 1: Proliferation
 - Initial rapid growth from the inoculum
@@ -97,7 +97,7 @@ Real fungal networks typically fall between the RNG and MST, suggesting they bal
 
 ## Resilience Analysis
 
-Network resilience estimates the extent to which network properties change as nodes or links are removed, simulating damage from grazing, physical disturbance, or predation. The analysis is performed **in silico** by progressively removing nodes (typically around 120 in experimental illustrations) and measuring the fraction of remaining nodes still connected to the initial inoculum.
+[[fungal-network-resilience-evolution]] estimates the extent to which network properties change as nodes or links are removed, simulating damage from grazing, physical disturbance, or predation. The analysis is performed **in silico** by progressively removing nodes (typically around 120 in experimental illustrations) and measuring the fraction of remaining nodes still connected to the initial inoculum.
 
 ### Key Findings
 - Fungal networks show **greater resilience** than random networks or MST-type networks
@@ -110,7 +110,7 @@ Network resilience estimates the extent to which network properties change as no
 Fungal networks are **spatial networks**, meaning the physical locations of nodes constrain which connections are possible:
 - Nodes have a much higher probability of connecting to physical neighbours
 - In planar (2D) networks, links cannot cross without forming a new node, making topological "short cuts" between remote parts of the network impossible
-- However, weighting links by transport speed and/or capacity may effectively bring distant parts of the network into closer communication than expected from their spatial separation or unweighted path length
+- However, weighting links by [[holmgren-transport-speed-and-energy-descent]]/or capacity may effectively bring distant parts of the network into closer communication than expected from their spatial separation or unweighted path length
 
 ## Directed vs. Undirected Networks
 
@@ -131,7 +131,7 @@ The application of graph theory to fungal networks connects mycology to the broa
 
 ## References
 
-- Albert, R. and Barabasi, A.-L. (2001). Statistical mechanics of complex networks. *Reviews of Modern Physics* 74, 47-97.
+- Albert, R. and Barabasi, A.-L. (2001). [[statistical-mechanics]] of complex networks. *Reviews of Modern Physics* 74, 47-97.
 - Strogatz, S. H. (2001). Exploring complex networks. *Nature* 410, 268-76.
 - Newman, M. E. J. (2003). The structure and function of complex networks. *SIAM Review* 45, 167-256.
 - Dorogovtsev, S. N. and Mendes, J. F. F. (2002). Evolution of networks. *Advances in Physics* 51, 1079-87.
