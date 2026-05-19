@@ -6,11 +6,11 @@ tags:
 
 ## Overview
 
-The [[comparison-pressure-canning-vs-water-bath-canning]] because grains contain
+The comparison pressure canning vs water bath canning because grains contain
 heat-resistant endospores that survive atmospheric-pressure boiling. The PF
 substrate eliminates this concern:
 
-- **No grain present**: [[brown-rice-powder]] does not harbor the same endospore load
+- **No grain present**: brown rice powder does not harbor the same endospore load
 - **Airy structure**: Vermiculite matrix allows steam to penetrate completely
 - **Small jar size**: Half-pint jars allow heat to reach the center efficiently
 
@@ -20,7 +20,7 @@ A simple vegetable steamer setup is all that is required.
 
 ## Equipment: The 3-Piece Vegetable Steamer
 
-The sterilization apparatus consists of three basic components:
+The [[sterilization]] apparatus consists of three basic components:
 
 1. **Pot**: A standard cooking pot large enough to hold your jars
 2. **Basket insert**: A steamer basket or rack elevating jars above water
@@ -38,7 +38,7 @@ Before sterilization, each jar must be properly prepared:
 1. Fill the jar **loosely** with the mixed substrate
 2. Leave **1/2 to 3/4 inch** of empty space at the top
 3. **Wipe the inside walls** with a clean paper towel to remove residue
-4. Fill remaining top space with **dry vermiculite** for the barrier layer
+4. Fill remaining top space with **dry [[vermiculite]]** for the barrier layer
 5. Place the jar lid with the **rubber sealing edge facing up**
 6. Punch **4 holes** through the lid using a 3-penny nail (~1/16 inch)
 7. Apply **tape over the holes** to prevent contamination during sterilization
@@ -70,7 +70,7 @@ Overheating is a common beginner mistake with significant consequences:
 ## Source Attribution
 
 This concept page is derived from **Source 3: [[pf-tek]] by [[bigwood-beug-cultivation-methodology]] originally published by
-Robert "Psilocybe Fanaticus" McPherson. All technical specifications and
+Robert "[[psilocybe-fanaticus]]" McPherson. All technical specifications and
 techniques described above are based on the original PF TEK documentation.
 
 ## Overview
@@ -83,7 +83,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pf tek steam sterilization and inoculation technique
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pf Tek Steam Sterilization And Inoculation Technique finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

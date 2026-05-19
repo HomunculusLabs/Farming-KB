@@ -50,7 +50,7 @@ Protocols should be supervised by personnel trained in their use and in fungal i
 
 ### Periodicity
 
-[[sequestrate-fungi]] can fruit any time depending on weather and substratum. Some fruit mid-dry-season in buried wood or near water; most should be sampled during rainy season(s). Fruiting periods are restricted for some species (Fogel 1976; Hunt and Trappe 1987; Luoma et al. 1991): *Rhizopogon parksii* fruits only late summer/autumn in western Oregon, while *R. vinicolor* in the same stands fruits mostly spring/early summer. Some Ascomycetes form sporocarps in autumn but mature the following winter/spring. Out-of-season finds may have been frozen (*R. parksii*) or dried in situ (*R. vinicolor*) rather than decaying.
+sequestrate fungi can fruit any time depending on weather and substratum. Some fruit mid-dry-season in buried wood or near water; most should be sampled during rainy season(s). Fruiting periods are restricted for some species (Fogel 1976; Hunt and Trappe 1987; Luoma et al. 1991): *Rhizopogon parksii* fruits only late summer/autumn in western Oregon, while *R. vinicolor* in the same stands fruits mostly spring/early summer. Some Ascomycetes form sporocarps in autumn but mature the following winter/spring. Out-of-season finds may have been frozen (*R. parksii*) or dried in situ (*R. vinicolor*) rather than decaying.
 
 Freezing truncates or delays maturation; high temperatures accelerate substrate drying and curtail fruiting. Because timing is uncertain and strongly seasonal (Luoma 1988), each site should be sampled repeatedly during **2 consecutive months** of each fruiting season at **biweekly intervals** (sporocarps persist ~2 weeks). Across elevational gradients: visit low-elevation south-facing slopes first in spring, last in autumn; high-elevation north-facing slopes last in spring, first in autumn (Luoma 1988). Some sporocarps appear year-round, so **year-round sampling** is important for community structure surveys. **3+ years** are needed to assess community structure or rarity (Richardson 1970). The cryptic nature of sequestrate sporocarps (fruiting below litter, some within mineral soil) makes detection difficult; **2–4 years** minimum before concluding a species is absent.
 
@@ -122,7 +122,7 @@ and forbs typically return to pre-disturbance levels 1–2 years after sampling.
 ## Key References
 
 - Cain, S. A., and de Castro Oliveira, G. O. 1959. *Manual of vegetation analysis.*
-- Claridge, A. W., et al. 2000. Time-constrained search methodology for sequestrate fungi.
+- Claridge, A. W., et al. 2000. Time-constrained search methodology for [[sequestrate-fungi]].
 - Dahlberg, A., and Stenlid, J. 1994. Spatiotemporal dynamics of *[[suillus-bovinus]]*.
 - Eberhart, J. L., et al. 1996. Ectomycorrhizal morphological types from soil cores.
 - Egli, S., et al. 1997. Species diversity and long-term sampling intensity.
@@ -135,14 +135,14 @@ and forbs typically return to pre-disturbance levels 1–2 years after sampling.
 - Luoma, D. L., et al. 1991. Biomass estimates from varying sample areas (500–5900 m²).
 - Luoma, D. L., et al. 1996a. Sporocarp plots vs. soil cores (43 sequestrate spp., 27,000 m²).
 - Luoma, D. L., et al. 1996b. Line transect methodology with 4-m² plots.
-- Luoma, D. L., et al. 1997. Biomass–mycorrhiza frequency correlations.
+- Luoma, D. L., et al. 1997. Biomass–[[mycorrhiza]] frequency correlations.
 - Molina, R., et al. 1994. Host specificity and stand age effects on sequestrate species.
 - Mueller-Dombois, D., and Ellenberg, H. 1974. *Aims and methods of vegetation ecology.*
 - O'Dell, T. E., et al. 1999. Stratified random placement of permanent strip plots.
 - Richardson, M. J. 1970. Studies on *[[russula-emetica]]* and other agarics.
 - Stafford, R. 1985. Statistical considerations in sporocarp production studies.
 - States, J. S. 1985. Clustering of fungal sporocarps.
-- Vogt, K. A., et al. 1981. Hypogeous sporocarp biomass in *Abies amabilis* stands.
+- Vogt, K. A., et al. 1981. Hypogeous sporocarp biomass in *[[abies-amabilis]]* stands.
 - Vogt, K. A., et al. 1992. Review of sporocarp production studies.
 
 ## Related

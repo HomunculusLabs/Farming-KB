@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-One of the most valuable contributions of the [[pf-tek]] documentation is its
+One of the most valuable contributions of the pf tek documentation is its
 guidance on potency optimization, proper harvesting timing, and effective drying
 techniques. Understanding these factors is essential for achieving desired results.
 
@@ -64,7 +64,7 @@ Heat actively **leaches and degrades** [[pf-tek-spore-viability-degradation]] fo
 
 ## The Complete Growth Cycle Timeline
 
-The PF TEK cycle from start to finish:
+The [[pf-tek]] cycle from start to finish:
 
 - **Inoculation**: Day 0 — spore solution injected into substrate jars
 - **Colonization**: 2–4 weeks — mycelium spreads through substrate
@@ -91,7 +91,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish mushroom potency harvesting and desiccation pf tek
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -105,7 +105,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Potency Harvesting And Desiccation Pf Tek finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

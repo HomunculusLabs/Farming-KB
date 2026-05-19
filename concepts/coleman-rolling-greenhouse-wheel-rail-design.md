@@ -4,15 +4,15 @@ tags:
   - concept
 ---
 
-**Source:** [[coleman-claytonia-winter-harvest-cultivation]] Handbook*
-**Domain:** [[coleman-gothic-arch-greenhouse-design-specifications]] → Mobile Structures
+**Source:** coleman claytonia winter harvest cultivation Handbook*
+**Domain:** coleman gothic arch greenhouse design specifications → Mobile Structures
 
 ---
 
 ## Overview
 
-The rolling greenhouse on wheels is Coleman's most evolved mobile
-greenhouse design. Unlike earlier sled-based designs that required a
+The [[rolling-greenhouse]] on wheels is Coleman's most evolved mobile
+[[greenhouse-design]]. Unlike earlier sled-based designs that required a
 tractor or wrecker truck for movement, this system can be repositioned
 by two strong people without any machinery. The house rolls along
 ground-laid pipe rails on gate-style wheels, making it practical for
