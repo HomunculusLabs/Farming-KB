@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Ustilaginomycetes: Smut Fungi Classification and Diversity
+---# Ustilaginomycetes: Smut Fungi Classification and Diversity
 
 The Ustilaginomycetes (smut fungi) are a major class within the
 phylum [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Teliospores are the defining feature of the Ustilaginomycetes.

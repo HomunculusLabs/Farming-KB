@@ -5,11 +5,9 @@ tags: [mycorrhiza, methods, nutrient-transport, phosphorus, in-vitro]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/symbiotic-fungi.md
+  - raw/papers/symbiotic-fungi.md
 type: concept
----
-
-## Compartmented In Vitro Systems for AM Transport Studies
+---# Compartmented In Vitro Systems for AM Transport Studies
 
 ## Overview
 

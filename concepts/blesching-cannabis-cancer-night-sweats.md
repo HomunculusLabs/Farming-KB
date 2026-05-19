@@ -5,11 +5,9 @@ tags: [cannabis, night-sweats, cancer-symptoms, palliative-care, endocannabinoid
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Cancer-Induced Night Sweats
+---# Cannabis and Cancer-Induced Night Sweats
 
 The [[metzner-ayahuasca-therapeutic-potential]] of cannabis across various
 conditions. For cancer-induced night sweats, the CHI scores 1 study with

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Bioreactor Design for [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] maintained above critical
+---# Bioreactor Design for [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] maintained above critical
   thresholds (typically >2 mg/L).
 - **Pressure drop**: Biofilm growth and gas evolution increase bed resistance
   over time, requiring monitoring and backwashing or bed replacement cycles.

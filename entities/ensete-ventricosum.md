@@ -16,15 +16,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Ensete_ventricosum
-  - https://www.kew.org/plants/ensete-ventricosum
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ensete-ventricosum
-  - https://doi.org/10.1016/j.pbi.2019.01.006created: 2026-05-07
+ 2026-05-07
 
 created: 2026-05-07
----
-
-## Ensete ventricosum
+---# Ensete ventricosum
 
 **Enset**, **Ethopian banana**, **false banana**, **enset ventricosum**
 

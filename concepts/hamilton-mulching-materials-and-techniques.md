@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Mulching Materials and Techniques
+---# Mulching Materials and Techniques
 
 Mulching involves spreading a layer of [[comparison-vermicomposting-vs-composting-organic-garden]]. It suppresses
 weed growth by blocking light, helps retain soil moisture by reducing

@@ -13,14 +13,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Styphnolobium+japonicum
   - Duke, J.A. "Handbook of permaculture-plants-medicinal-herbs-healing." CRC Press, 2002.
   - Nair, K.P.P. "Agroforestry: The Future of Global Land Use." Springer, 2012.
   - Li, X. et al. "Phytochemistry and pharmacology of Sophora japonica." Journal of Pharmacy and Pharmacology, 2014.
   - Jacke, D. & Toensmeier, E. "Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests." Chelsea Green, 2005.
----
-
-## Styphnolobium japonicum (Japanese Pagoda Tree)
+---# Styphnolobium japonicum (Japanese Pagoda Tree)
 
 ## Overview
 

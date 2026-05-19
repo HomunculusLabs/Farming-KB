@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Trout and Cool Water Aquaculture Species
+---# Trout and Cool Water Aquaculture Species
 
 Cool-water and cold-water aquaculture species offer high-value protein
 production in temperate and highland permaculture systems. Mollison integrates

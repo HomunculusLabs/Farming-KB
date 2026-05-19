@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Acid House, Rave Culture, and the Second Magic Mushroom Boom
+---# Acid House, Rave Culture, and the Second Magic Mushroom Boom
 
 The rave culture that emerged from Acid House music in the late 1980s
 and early 1990s created the social conditions for the second great wave

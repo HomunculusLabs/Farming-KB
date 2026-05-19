@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Useful Weeds and Weed Identification
+---# Useful Weeds and Weed Identification
 
 Not all weeds are to be despised, and the organic gardener who gets
 rid of them all is wasting a valuable natural asset. Many weeds will

@@ -5,11 +5,9 @@ tags: [holistic-management, goal-setting, decision-framework, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Holistic Goal Definition
+---# Holistic Goal Definition
 
 The holistic goal is the foundational element of [[savory-mineral-cycle-management]], sound
 [[savory-holistic-resource-management-animal-impact]] Management is failure to put

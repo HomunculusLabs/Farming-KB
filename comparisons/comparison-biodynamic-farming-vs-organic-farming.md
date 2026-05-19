@@ -16,14 +16,8 @@ type: comparison
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.biodynamic.com/what-is-biodynamic
-  - https://www.usda.gov/topics/organic
-  - https://www.frontiersin.org/articles/10.3389/fsufs.2022.1010036/full
-  - https://www.nature.com/articles/s41467-019-12644-0
   - https://www.sciencedirect.com/science/article/abs/pii/S0269749122001579
----
-
-## Biodynamic Farming vs Organic Farming
+---# Biodynamic Farming vs Organic Farming
 
 ## Overview
 

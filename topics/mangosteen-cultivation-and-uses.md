@@ -14,14 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Mangosteen
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/mangosteen
-  - https://www.healthline.com/nutrition/mangosteen-benefits
-  - https://www.ftc.gov/legal-library/browse/cases-proceedings/022-3252-mangosteen-marketing-claims
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435915/
----
-
-## Mangosteen Cultivation, Nutrition, and Uses
+---# Mangosteen Cultivation, Nutrition, and Uses
 
 ## Overview
 

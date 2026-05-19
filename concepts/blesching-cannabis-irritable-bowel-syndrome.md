@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md"
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
----
-
-## Cannabis and Irritable Bowel Syndrome (IBS)
+---# Cannabis and Irritable Bowel Syndrome (IBS)
 
 Irritable bowel syndrome (IBS) is a common gastrointestinal disorder that
 significantly impacts quality of life. According to [[blesching-cannabis-inflammatory-bowel-disease]] disease received a [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include:

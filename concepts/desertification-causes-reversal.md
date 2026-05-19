@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## [[fungi-around-the-world-species-distribution]]:
+---# [[fungi-around-the-world-species-distribution]]:
 
 1. Original vegetation (mixed forests, diverse grasslands) is removed through
    deforestation, overgrazing, or conversion to monoculture

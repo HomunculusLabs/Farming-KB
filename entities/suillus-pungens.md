@@ -4,7 +4,7 @@ created: 2026-04-28
 type: species
 tags:
   - fungi
-  - [[basidiomycota]]
+  - basidiomycota
   - boletales
   - suillaceae
   - suillus
@@ -12,7 +12,7 @@ tags:
   - pine-associate
   - western-north-america
   - california
-  - [[mycology]]
+  - mycology
   - foraging
   - forest-ecology
 date: 2026-04-28
@@ -22,7 +22,6 @@ sources:
   - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." Ann Arbor: University of Michigan Press.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html---
----
 
 ## Suillus pungens
 

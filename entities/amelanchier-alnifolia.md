@@ -7,8 +7,8 @@ tags:
   - rosaceae
   - shrub
   - fruit-tree
-  - [[permaculture]]
-  - [[food-forest]]
+  - permaculture
+  - food-forest
   - edible-landscape
   - nitrogen-fixer-associate
   - pollinator-support
@@ -24,7 +24,6 @@ sources:
   - Kershaw, L. (2000). "Trees of the Rocky Mountains and Intermountain West." Lone Pine Publishing.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Morgan, J. & Carter, M. (2013). "The Permaculture Promise." Timber Press.
----
 
 ## Overview
 

@@ -5,11 +5,9 @@ tags: [ethics, community, quality-of-life, social-impact, testing-guidelines]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Society and Culture Guideline
+---# Society and Culture Guideline
 
 The society and culture guideline tests all actions and their associated tools for how
 they serve the [[savory-holistic-management-overview]] in its broadest sense. Will an

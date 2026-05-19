@@ -4,14 +4,8 @@ tags: [medicinal-mushrooms, reishi, lions-mane, chaga, turkey-tail, cordyceps, s
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://examine.com/supplements/reishi-mushroom/
-  - https://examine.com/supplements/lions-mane/
-  - https://pubmed.ncbi.nlm.nih.gov/?term=medicinal+mushrooms+review+2023
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7416843/
   - https://www.frontiersin.org/articles/10.3389/fphar.2021.647481/full
----
-
-## What Are the Most Important Medicinal Mushrooms and How Do I Choose One?
+---# What Are the Most Important Medicinal Mushrooms and How Do I Choose One?
 
 ## Quick Answer
 

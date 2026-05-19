@@ -5,11 +5,9 @@ tags: [mycoremediation, electrokinetics, soil-remediation, heavy-metals, coupled
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Electrokinetic-Fungal Remediation
+---# Electrokinetic-Fungal Remediation
 
 Electrokinetic-fungal remediation represents an innovative coupling of
 electrokinetic soil processing with [[fungal-volatile-organic-compounds-communication]] and

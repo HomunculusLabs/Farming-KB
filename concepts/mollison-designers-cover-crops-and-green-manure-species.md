@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Cover Crops and Green Manure Species
+---# Cover Crops and Green Manure Species
 
 [[cover-crops]] are living plants grown primarily to benefit the
 soil rather than for harvest. Mollison treats them as essential components of

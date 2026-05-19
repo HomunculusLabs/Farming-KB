@@ -14,14 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/docrep/x2260e/x2260e00.htm
-  - https://pubmed.ncbi.nlm.nih.gov/?term=heliciculture+snail+farming
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/heliciculture
-  - https://extension.psu.edu/snail-farming-basics
   - https://www.researchgate.net/publication/Snail_farming_heliciculture
----
-
-## Snail Farming (Heliciculture) and Edible Escargot Production
+---# Snail Farming (Heliciculture) and Edible Escargot Production
 
 ## Overview
 

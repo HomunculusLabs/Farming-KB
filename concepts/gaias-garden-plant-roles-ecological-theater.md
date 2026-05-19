@@ -5,11 +5,9 @@ tags: permaculture, plant-functions, guild-design, ecology, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/gaias-garden-toby-hemenway.md
 type: concept
----
-
-## Plant Roles in the Ecological Theater
+---# Plant Roles in the Ecological Theater
 
 ## Plants as Active Participants
 

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungal Radionuclide Accumulation and Ecosystem Retention
+---# Fungal Radionuclide Accumulation and Ecosystem Retention
 
 Following the development of nuclear weapons and nuclear energy
 industries, considerable concern has arisen regarding safe storage of

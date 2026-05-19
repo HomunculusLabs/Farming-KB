@@ -24,15 +24,12 @@ sources:
   - Ohrnberger, D. (1999). "The Bamboos of the World." Elsevier Science.
   - Banik, R.L. (2015). "Bamboo Silviculture." INBAR Technical Report No. 39.
   - Liese, W. & Köhl, M. (2015). "Bamboo: The Plant and its Uses." Springer.
-  - https://www.gbif.org/species/4110196
 aliases:
   - Golden Bamboo
   - Fishpole Bamboo
   - Fish-pole Bamboo
   - Golden Groove Bamboo
----
-
-## Overview
+---# Overview
 
 **Phyllostachys aurea** is a running bamboo species in the grass family Poaceae, subfamily Bambusoideae. It is native to southern China and has been widely cultivated in temperate and subtropical regions worldwide as an ornamental, hedge, and timber bamboo. The species is named for the distinctive golden-yellow color that develops on mature culms, which also bear characteristic compressed internodes near the base.
 

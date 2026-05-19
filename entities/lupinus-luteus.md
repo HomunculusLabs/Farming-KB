@@ -5,7 +5,7 @@ tags:
   - fabaceae
   - legume
   - forage
-  - [[cover-crop]]
+  - cover-crop
   - nitrogen-fixation
   - european-native
 date: 2026-05-09
@@ -14,7 +14,6 @@ sources:
   - Gladstones, J.S. (1970). "Lupins as crop plants." Field Crop Abstracts 23: 123-148.
   - Cowling, W.A. et al. (1998). "Lupinus." In: The IGBP/SCGT Phylip Database, Legume Phylogeny Working Group.
   - Huyghe, C. (1997). "White lupin ([[holzer-green-manure-crop-compendium]] for centuries.
----
 
 The species produces bright yellow flowers in dense terminal racemes and protein-rich seeds that serve as livestock feed and potential human food.
 

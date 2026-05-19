@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Critique of Wasson's Mycophobia and Mycophilia Theory
+---# Critique of Wasson's Mycophobia and Mycophilia Theory
 
 [[holmgren-permaculture-flower-conceptual-framework]] and the evidence Wasson marshalled in its support.
 The theory, while historically important, has been substantially

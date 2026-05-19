@@ -15,14 +15,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=ursolic+acid+pharmacological+review
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6315983/
-  - https://www.frontiersin.org/articles/10.3389/fphar.2020.00373/full
-  - https://www.mdpi.com/1420-3049/20/7/1543
   - Liu, J. (1995). "Pharmacology of oleanolic acid and ursolic acid." Journal of Ethnopharmacology.
----
-
-## Ursolic Acid
+---# Ursolic Acid
 
 ## Overview
 

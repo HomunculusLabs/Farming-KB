@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## HEPA Filtration and Laboratory Air Systems
+---# HEPA Filtration and Laboratory Air Systems
 
 Before the advent of HEPA (High Efficiency Particulate Air)
 filters, sterile culture work succeeded only by constantly

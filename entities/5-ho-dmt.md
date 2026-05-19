@@ -21,7 +21,6 @@ sources:
   - "Ott, J. (2001). \"Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History.\" Natural Products Co."
   - "Lyttle, T. et al. (1996). \"Pharmacokinetics of 5-HO-DMT after buccal administration.\" Journal of Psychoactive Drugs 28(1): 9-14."
   - "Fábregas, J.M. et al. (2016). \"Assessing the psychedelic 'after-glow' in Ayahuasca users.\" Frontiers in Human Neuroscience 10: 305."
-  - "https://pubchem.ncbi.nlm.nih.gov/compound/702"
 aliases:
   - Bufotenine
   - Bufotenin
@@ -30,9 +29,7 @@ aliases:
   - Mappine
   - Cebil
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 **5-HO-DMT** (5-hydroxy-N,N-dimethyltryptamine), commonly known as bufotenine or bufotenin, is a naturally occurring [[5-meo-dmt-and-bufo-alvarius]], Bufo marinus) and in numerous plant species including [[anadenanthera-colubrina]].
 

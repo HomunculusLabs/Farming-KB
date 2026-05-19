@@ -6,16 +6,11 @@ aliases: [first pass effect, presystemic metabolism, oral bioavailability, extra
 tags: [pharmacology, pharmacokinetics, drug-metabolism, biochemistry, clinical-pharmacology]
 date: 2026-05-02
 sources:
-  - "https://www.ncbi.nlm.nih.gov/books/NBK557852/"
-  - "https://www.ncbi.nlm.nih.gov/books/NBK547852/"
-  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4707670/"
 related:
   - cytochrome-p450-enzymes-drug-metabolism
   - blesching-cannabis-pharmacokinetics-and-bioavailability
 type: concept
----
-
-## Overview
+---# Overview
 First-pass metabolism is the loss of an orally absorbed drug before it reaches systemic circulation.
 It is also called presystemic metabolism.
 After swallowing, a drug must dissolve, cross the intestinal wall, enter portal blood, pass through

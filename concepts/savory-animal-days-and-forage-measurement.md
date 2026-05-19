@@ -5,11 +5,9 @@ tags: [grazing-planning, measurement, forage]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Animal Days and Forage Measurement
+---# Animal Days and Forage Measurement
 
 In [[savory-holistic-management-overview]] require a thorough understanding
 of ADA and how to use them. Since Andre Voisin first developed the concept

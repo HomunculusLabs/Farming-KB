@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Shade House and Hoop House Structures for Mushroom Growing
+---# Shade House and Hoop House Structures for Mushroom Growing
 
 By the third or fourth flush of indoor mushrooms, yields are
 in a state of precipitous decline. Rather than discarding

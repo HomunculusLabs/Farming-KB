@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungal Succession During Resource Decomposition
+---# Fungal Succession During Resource Decomposition
 
 The decomposition of organic resources by fungi is not a static process
 but a dynamic succession of species adapted to different stages of

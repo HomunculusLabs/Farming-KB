@@ -5,11 +5,9 @@ tags: [nematodes, soil-food-web, nutrient-cycling, compost-tea, ingham]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
----
-
-## Beneficial Nematodes in the Soil Food Web
+---# Beneficial Nematodes in the Soil Food Web
 
 Nematodes are microscopic roundworms that occupy critical positions
 in the [[compost-tea-brewing-methods-aact]] that preserve nematodes

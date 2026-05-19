@@ -5,11 +5,9 @@ tags: [mycoremediation, composting, bioreactor, soil-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Composting Bioremediation of Contaminated Soils
+---# Fungal Composting Bioremediation of Contaminated Soils
 
 Composting is one of the most promising reactor systems for hazardous soil
 treatment, employing thermophilic microbial activity to degrade organic

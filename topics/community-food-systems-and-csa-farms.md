@@ -6,11 +6,11 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
-  - ~/wiki/raw/papers/bill-mollison-permaculture-design-course.md
-  - ~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
-  - ~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+  - raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  - raw/papers/bill-mollison-permaculture-design-course.md
+  - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
+  - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 related_concepts:
   - community-supported-agriculture-csa
   - csa-farm-share-model
@@ -20,9 +20,7 @@ related_concepts:
   - small-scale-intensive-food-systems-mollison
   - mollison-town-permaculture-urban-food-systems
   - williams-pdc-food-systems
----
-
-Community food systems represent a fundamental reimagining of how food moves
+---ommunity food systems represent a fundamental reimagining of how food moves
 from farm to table. Unlike the industrial supply chain — where produce may
 travel thousands of miles through processing facilities, distribution centers,
 and retail shelves — community food systems prioritize local production, direct

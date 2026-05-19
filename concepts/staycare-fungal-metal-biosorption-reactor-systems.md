@@ -5,11 +5,9 @@ tags: [bioremediation, biosorption, heavy-metals, bioreactor, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
+  - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 type: concept
----
-
-## Fungal Metal Biosorption Reactor Systems
+---# Fungal Metal Biosorption Reactor Systems
 
 [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] at scale, converting laboratory findings into
 practical engineering solutions.

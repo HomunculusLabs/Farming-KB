@@ -6,15 +6,13 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "Guzmán, Allen & Gartz (1998). A worldwide [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] religious, divinatory, and healing ceremonies for
+  - "Guzmán, Allen & Gartz (1998). A worldwide  religious, divinatory, and healing ceremonies for
 centuries, possibly millennia. The rediscovery of these traditions by
 Western science in the mid-20th century, catalyzed by the work of R. Gordon
 Wasson, Roger Heim, and Rolf Singer, profoundly influenced both mycology and
 the broader study of [[psilocybin-chemistry-stability-indigenous-knowledge]] and colonial cultural
 transformation.
----
-
-## Historical Overview
+---# Historical Overview
 
 The use of sacred mushrooms in Mexico was first documented in the 16th century
 by Fray Bernardino de Sahagun (1569-1582), who recorded the Nahuatl word

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Fungal Responses to Extreme Environments
+---# Fungal Responses to Extreme Environments
 
 Fungi colonize an extraordinary range of extreme environments, from
 polar ice and desert sands to volcanic hot springs and highly acidic

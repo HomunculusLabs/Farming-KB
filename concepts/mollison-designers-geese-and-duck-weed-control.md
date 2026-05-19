@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Geese and Duck Weed Control
+---# Geese and Duck Weed Control
 
 Mollison highlights geese and ducks as specialised weed control agents that
 perform functions difficult or impossible to achieve with machinery or

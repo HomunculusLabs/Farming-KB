@@ -5,13 +5,8 @@ tags: [jujube, chinese-date, ziziphus-jujuba, query
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Jujube
-  - https://www.crfg.org/pubs/ff/jujube.html
-  - https://hort.purdue.edu/newcrop/morton/jujube.html
 type: query
----
-
-## What Is Jujube (Chinese Date) and How Do I Grow It?
+---# What Is Jujube (Chinese Date) and How Do I Grow It?
 
 A comprehensive growing guide for one of the most underappreciated fruit trees
 in temperate and subtropical orchards.

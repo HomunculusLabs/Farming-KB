@@ -24,11 +24,8 @@ sources:
   - Kreisel, H. (1967). "Die Pilzflora der Großen DDR." Gustav Fischer Verlag.
   - Calonge, F.D. (1998). "Gasteromycetes (Lycoperdales, Nidulariales, Phallales, Sclerodermatales, Tulostomatales)." Flora Mycologica Iberica.
   - Kuo, M. (2024). "Lycoperdon pyriforme." MushroomExpert.com.
-  - https://www.mushroomexpert.com/lycoperdon_pyriforme.html
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 *Lycoperdon pyriforme* is a saprotrophic puffball fungus in the family Agaricaceae, widespread across [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] transforms into a mass of dry, olive-brown spore dust released through an apical pore.
 

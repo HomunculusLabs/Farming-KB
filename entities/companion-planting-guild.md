@@ -13,15 +13,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.permaculture.org.uk/
   - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green Publishing.
   - Hemenway, T. (2015). Gaia's Garden: A Guide to Home-Scale Permaculture. Chelsea Green.
   - Holmgren, D. (2002). Permaculture: Principles and Pathways Beyond Sustainability. Holmgren Design Services.
   - Whitefield, P. (2004). The Earth Care Manual: A Permaculture Handbook for Britain & Other Temperate Climates. Permanent Publications.
   - Carroll, R. (2020). The Vegetable Gardener's Guide to Permaculture. Timber Press.
----
-
-## Companion Planting Guilds
+---# Companion Planting Guilds
 
 ## Overview
 

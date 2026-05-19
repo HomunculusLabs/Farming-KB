@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Goat Management and Browsing Systems
+---# Goat Management and Browsing Systems
 
 [[bill-mollison]]'s [[savory-holistic-resource-management-animal-impact]].
 

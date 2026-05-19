@@ -16,14 +16,12 @@ updated: 2026-04-28
 sources:
   - Guzmán, G., Allen, J.W. & Gartz, J. (1998). "A worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycotaxon.
   - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
-  - https://www.mycobank.org/ (taxonomic classification)
-  - La Bar, G. (1971). "Observations on the cultivation of [[hplc-analysis-of-psilocybin-and-psilocin]]** at concentrations significantly higher than most *Psilocybe* species. Commonly called **Blue Meanies** (not to be confused with the *[[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] |
+ (taxonomic classification)
+  - La Bar, G. (1971). "Observations on the cultivation of ** at concentrations significantly higher than most *Psilocybe* species. Commonly called **Blue Meanies** (not to be confused with the * |
 | **Norbaeocystin** | Trace | Minor tryptamine alkaloid |
 | **Serotonin** | Trace | Present in many coprophilous fungi |
 | **Urea** | Present | Common in dung-inhabiting species |
----
-
-The high psilocin:psilocybin ratio (approaching 1:1 in some specimens) contributes to the rapid onset and intensity of effects compared to *[[serotonin-receptor-interference-psychedelic-mechanism]]**, with additional activity at 5-HT₁A, 5-HT₂C, and 5-HT₂B receptors.
+---he high psilocin:psilocybin ratio (approaching 1:1 in some specimens) contributes to the rapid onset and intensity of effects compared to *[[serotonin-receptor-interference-psychedelic-mechanism]]**, with additional activity at 5-HT₁A, 5-HT₂C, and 5-HT₂B receptors.
 
 Effects are dose-dependent:
 - **Low dose (0.5–1 g dried):** mild visual enhancement, mood elevation, increased sociability

@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md"
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
----
-
-## Sheet Composting and Mulch Gardening
+---# Sheet Composting and Mulch Gardening
 
 Steve Solomon evaluates two popular [[solomon-complete-organic-fertilizer-guide]].
 

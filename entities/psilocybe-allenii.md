@@ -20,14 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Psilocybe_allenii
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3686710/
-  - https://www.researchgate.net/publication/236932947_Psilocybe_allenii_sp_nov_a_new_bluing_species_from_the_Pacific_Northwest_USA
-  - https://mykoweb.com/CAF/species/Psilocybe_allenii.html
   - https://www.first-nature.com/fungi/psilocybe-allenii.php
----
-
-## Psilocybe allenii
+---# Psilocybe allenii
 
 ## Overview
 

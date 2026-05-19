@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md"
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
----
-
-## Growing Cucurbits: Squash, Cucumber, Melon
+---# Growing Cucurbits: Squash, Cucumber, Melon
 
 The cucurbit family -- squash, pumpkin, cucumber, and melon -- shares
 enough growing characteristics that Solomon treats them together. If you

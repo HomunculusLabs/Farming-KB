@@ -4,16 +4,9 @@ tags: [biological-control, predatory-mites, ipm, pest-management, phytoseiidae, 
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - https://en.wikipedia.org/wiki/Phytoseiidae
-  - https://en.wikipedia.org/wiki/Biological_pest_control
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6275171/
-  - https://www.biologicalcontrol.org/
-  - https://www.ipm.ucdavis.edu/
 created: 2026-05-03
 type: query
----
-
-## What Are Predatory Mites and How Can I Use Them for Pest Control?
+---# What Are Predatory Mites and How Can I Use Them for Pest Control?
 
 ## Quick Answer
 

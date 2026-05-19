@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
----
-
-## Vermicompost and Worm Castings in Compost Tea
+---# Vermicompost and Worm Castings in Compost Tea
 
 Vermicompost ([[compost-tea-aact]] for [[hot-composting-method]] for [[ingham-beneficial-nematodes-soil-food-web]] for nematode roles
 ## Background and Context

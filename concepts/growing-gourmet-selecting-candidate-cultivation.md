@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Selecting a Candidate for Cultivation
+---# Selecting a Candidate for Cultivation
 
 Many mushroom hunters would love to have their favorite edible
 [[accessible-mushroom-cultivation-for-disabilities]] is currently limited to about

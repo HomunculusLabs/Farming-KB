@@ -5,11 +5,9 @@ tags: [serotonin, endocannabinoid, neurotransmitter, mood, gi-tract]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Serotonin and the Endocannabinoid System
+---# Serotonin and the Endocannabinoid System
 
 Serotonin is a neurotransmitter especially abundant in the
 gastrointestinal tract (assisting [[neurochemical-probes-brain-imaging-pihkal]] has confirmed that healthy people who underwent

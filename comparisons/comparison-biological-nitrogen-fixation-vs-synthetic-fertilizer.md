@@ -5,15 +5,8 @@ tags: nitrogen, fertilizers, soil-health, sustainability, legumes, haber-bosch
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/3/x5699e/x5699e06.htm
-  - https://www.nature.com/articles/nature14359
-  - https://www.epa.gov/nitrous-oxide
-  - https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIIAR5_Chapter11.pdf
-  - https://doi.org/10.1038/s41477-022-01135-8
 type: comparison
----
-
-## Biological Nitrogen Fixation vs Synthetic Nitrogen Fertilizer
+---# Biological Nitrogen Fixation vs Synthetic Nitrogen Fertilizer
 
 ## Overview
 

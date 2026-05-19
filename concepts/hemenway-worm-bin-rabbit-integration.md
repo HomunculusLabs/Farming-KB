@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/gaias-garden-toby-hemenway.md
 type: concept
----
-
-## Worm Bin and Rabbit Integration for Composting
+---# Worm Bin and Rabbit Integration for Composting
 
 Toby Hemenway describes a clever integration of [[hamilton-worm-composting-manure]] that turns two separate animal systems into
 one seamless soil-building operation. This technique links

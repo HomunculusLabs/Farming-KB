@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
----
-
-## Manganese Peroxidase (MnP) in Biodegradation
+---# Manganese Peroxidase (MnP) in Biodegradation
 
 Manganese peroxidase (MnP; EC 1.11.1.13) is an extracellular
 heme-containing glycoprotein produced predominantly by white-rot

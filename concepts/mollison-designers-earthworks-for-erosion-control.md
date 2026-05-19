@@ -7,11 +7,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Earthworks for Erosion Control
+---# Earthworks for Erosion Control
 
 Erosion is the single greatest threat to productive land worldwide. Bill
 Mollison's *[[mollison-designers-humus-building-and-soil-organic-matter]], maintaining

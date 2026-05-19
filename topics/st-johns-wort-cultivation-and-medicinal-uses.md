@@ -12,16 +12,11 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=hypericum+perforatum+clinical+trial
-  - https://www.pfaf.org/USER/Plant.aspx?LatinName=Hypericum+perforatum
-  - https://www.ncbi.nlm.nih.gov/books/NBK532688/
-  - https://www.henriettes-herb.com/eclectic/kings/hypericum.html
 related_concepts:
   - st-johns-wort-guide
   - lemon-balm-growing-guide
   - valerian-growing-guide
----
-## St. John's Wort Cultivation and Medicinal Uses
+--- St. John's Wort Cultivation and Medicinal Uses
 
 **[[herbal-materia-medica]]* (c. 50–70 CE), *Hypericum* was
 recommended for sciatica, burns, and snake bites. Paracelsus, the

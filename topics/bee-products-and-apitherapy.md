@@ -4,14 +4,12 @@ tags: [beekeeping, apitherapy, honey, propolis, royal jelly, beeswax, bee pollen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov — peer-reviewed research on apitherapy compounds
-  - https://www.ncbi.nlm.nih.gov/pmc — open-access studies on bee product pharmacology
-  - https://www.honey.com — National Honey Board nutritional and compositional data
-  - https://www.beeculture.com — Bee Culture magazine on apicultural practices
+ — peer-reviewed research on apitherapy compounds
+ — open-access studies on bee product pharmacology
+ — National Honey Board nutritional and compositional data
+ — Bee Culture magazine on apicultural practices
   - https://www.ichp-apitherapy.org — International Committee for Honey Processing
----
-
-## Bee Products and Apitherapy
+---# Bee Products and Apitherapy
 
 ## Introduction
 

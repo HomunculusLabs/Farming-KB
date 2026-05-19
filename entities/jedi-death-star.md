@@ -22,13 +22,11 @@ sources:
   - Leafly strain database (leafly.com)
   - AllBud strain database (allbud.com)
   - Weedmaps strain information (weedmaps.com)
-  - [[blesching-cannabis-apoptosis-and-cancer-cell-death]] × [[jedi-kush]]:** Death Star × [[psilocybin-north-america-pacific-northwest]] / California — [[cannabis-chronic-pain-management]]:** Full-body analgesic for neuropathic and musculoskeletal pain
+  -  × :** Death Star ×  / California — :** Full-body analgesic for neuropathic and musculoskeletal pain
 - **Insomnia:** Powerful sedative; reliable sleep aid for treatment-resistant insomnia
 - **Muscle spasms:** Deep muscle relaxation reduces cramping and spasticity
 - **Stress/anxiety:** Euphoric onset calms racing thoughts; terpenes enhance anxiolysis
----
-
-## Overview
+---# Overview
 
 Jedi Death Star represents an important element within sustainable
 design and ecological management systems. Its proper understanding

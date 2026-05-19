@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## [[mycorrhizal-fungal-diversity]] assessment
+---# [[mycorrhizal-fungal-diversity]] assessment
 ## Background and Context
 
 [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

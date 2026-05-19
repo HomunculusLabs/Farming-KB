@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Intensifying Small Farm Production
+---# Intensifying Small Farm Production
 
 Small farms face the challenge of generating adequate income and food from
 limited land area. Bill Mollison's *Permaculture: A Designers' Manual*

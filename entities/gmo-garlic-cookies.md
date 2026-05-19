@@ -6,12 +6,8 @@ tags: [cannabis, indica-dominant-hybrid, strain, cultivar, chem-dog-lineage, gar
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/gmo
-  - https://www.allbud.com/marijuana-strains/hybrid/gmo-cookies
   - https://www.wikileaf.com/strain/gmo-cookies/
----
-
-## GMO (Garlic Cookies)
+---# GMO (Garlic Cookies)
 
 **GMO**, also known as **Garlic Cookies**, is a potent indica-dominant hybrid cannabis strain created by crossing **[[vic-high-cannabis-genetics-mendelian-inheritance]].
 

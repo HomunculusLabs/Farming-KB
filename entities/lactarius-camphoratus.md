@@ -13,9 +13,8 @@ tags:
   - foraging
   - autumn-fruiting
   - conifer-associated
-  - [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere and is notable for
+  - oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere and is notable for
 its distinctive sweet, curry-like or maple-syrup aroma that intensifies dramatically upon drying.
----
 
 The dried mushrooms are prized in culinary applications, particularly in dessert making, where
 they impart a maple or butterscotch flavor. Despite its small size, it is one of the most

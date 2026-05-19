@@ -16,13 +16,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "[raw/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]"
+  - "[raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]"
   - "Lincoff, G.H. (1981). 'National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms.' Knopf."
   - "Arora, D. (1986). 'Mushrooms Demystified.' 2nd ed. Ten Speed Press."
   - "Stamets, P. & Chilton, J.S. (1983). 'allen-australian-psilocybe-species-comprehensive-guide to psilocybin-mushroom-identification-guide.' Macmillan."
----
-
-## Clitocybe nuda
+---# Clitocybe nuda
 
 **Wood Blewit** | **Blewit** | **Blue Foot** | **Lepiste nue**
 

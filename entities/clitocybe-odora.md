@@ -13,13 +13,11 @@ updated: 2026-04-28
 sources:
   - "Breitenbach, J. & Kränzlin, F. (1981). Fungi of Switzerland Vol. 3. Boletaceae, Agaricaceae."
   - "Phillips, R. (2010). Mushrooms. Pan Macmillan."
-  - "Lincoff, G.H. (1981). National Audubon Society [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] is fresh. Commonly called the aniseed funnel or anise-scented clitocybe, it is found across temperate forests of Europe and [[dighton-fungal-decomposition-leaf-litter-dynamics]], needles, and [[fungal-ecology-forest-floor]]; may also have weakly [[plants-without-mycorrhizal-associations]]
+  - "Lincoff, G.H. (1981). National Audubon Society  is fresh. Commonly called the aniseed funnel or anise-scented clitocybe, it is found across temperate forests of Europe and , needles, and ; may also have weakly 
 - **Season:** Late summer to late autumn (August–November in the Northern Hemisphere); fruiting triggered by cool, moist conditions
 - **Frequency:** Occasional to locally common; can be found in the same locations year after year in suitable habitat
 - **Sclerotia:** Forms small, dark, hard sclerotia (tubercles) at the base of the stem or in the substrate — a notable feature of the species
----
-
-## Phytochemistry
+---# Phytochemistry
 
 The characteristic anise aroma is produced primarily by **anisaldehyde** and related aromatic compounds, including methyl salicylate and estragole. These  compounds are lipophilic and readily released into the air when the fungal tissue is disturbed or damaged. The blue-green pigmentation is attributed to a combination of pigment molecules; however, the specific chromophores responsible have not been as extensively characterized as those in other colored mushrooms. The concentration of aromatic compounds decreases as the mushroom desiccates or ages.
 

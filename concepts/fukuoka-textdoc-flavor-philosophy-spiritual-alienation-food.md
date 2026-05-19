@@ -4,14 +4,13 @@ tags:
   - fukuoka
   - food-philosophy
   - flavor
-  - [[masanobu-fukuoka]] presents a radical philosophy of flavor that challenges the
+  - masanobu-fukuoka presents a radical philosophy of flavor that challenges the
 entire foundation of modern food culture. He argues that man has become
 spiritually alienated from food, that the human sense of taste has gone
 haywire, and that the pursuit of deliciousness has paradoxically made truly
 delicious food increasingly rare. This page explores his arguments about
 flavor, instinct, and the relationship between spirit and sustenance as
 articulated in the textdoc source material.
----
 
 ## Form Is Emptiness: Seven Colors and Seven Flavors
 

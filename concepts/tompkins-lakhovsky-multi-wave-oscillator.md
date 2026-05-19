@@ -5,11 +5,9 @@ tags: [biophysics, alternative-medicine, electromagnetism, history]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/tompkins-marcel-vogel-plant-human-communication|tompkins-the-secret-life-of-plants-tompkins-and-bird|secret-life-of-plants.md
+  - raw/papers/tompkins-marcel-vogel-plant-human-communication|tompkins-the-secret-life-of-plants-tompkins-and-bird|secret-life-of-plants.md
 type: concept
----
-
-## Lakhovsky's Multi-Wave Oscillator and Cellular Oscillation Theory
+---# Lakhovsky's Multi-Wave Oscillator and Cellular Oscillation Theory
 
 Georges Lakhovsky (1869-1942), a Russian-born engineer living in Paris,
 proposed a revolutionary theory that the basis of life is not matter but

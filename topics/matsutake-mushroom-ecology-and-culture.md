@@ -14,16 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fs.usda.gov/wildflowers/mushrooms
-  - https://www.nature.com/articles/ncomms12003
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/tricholoma-matsutake
-  - https://www.researchgate.net/publication/Matsutake_ecology_and_biology
   - Matsutake: One Mushroom's Impact on World Peace and Forest Ecology (Anna Lowenhaupt Tsing, 2015)
-  - https://doi.org/10.1016/j.funeco.2019.100873
   - https://www.jstage.jst.go.jp/article/mycosci/52/3/52_ms12003/_article
----
-
-## Matsutake Mushroom Ecology and Culture
+---# Matsutake Mushroom Ecology and Culture
 
 ## Overview
 

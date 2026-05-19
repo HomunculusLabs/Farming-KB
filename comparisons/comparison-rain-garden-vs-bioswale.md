@@ -11,15 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1016/j.landurbplan.2020.103989
-  - https://www.epa.gov/green-infrastructure/rain-gardens
-  - https://www.lowimpactdevelopment.org/
-  - https://doi.org/10.1016/j.ecoleng.2019.04.013
 type: comparison
 created: 2026-04-28
----
-
-## Rain Garden vs Bioswale
+---# Rain Garden vs Bioswale
 
 ## Quick Answer
 

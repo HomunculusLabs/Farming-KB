@@ -6,8 +6,7 @@ tags:
   - genetics
   - breeding
   - alleles
-  - [[vic-high-cannabis-genetics-mendelian-inheritance]] of a single gene trait.
----
+  - vic-high-cannabis-genetics-mendelian-inheritance of a single gene trait.
 
 ## Naming Conventions for Genotypes
 

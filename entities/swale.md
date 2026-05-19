@@ -14,13 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - https://www.nrcs.usda.gov/resources/guides-and-instructions/nrcs-national-engineering-handbook-part-650-irrigation
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/contour-swale
-  - https://permaculturenews.org/2013/06/15/swales-a-permaculture-technique-for-water-harvesting/
   - https://www.permaculturenews.org/2014/12/12/swale-design-and-construction-guide/
----
-
-## Swale (Water Harvesting)
+---# Swale (Water Harvesting)
 
 ## Overview
 

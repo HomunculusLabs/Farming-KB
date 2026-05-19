@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## The Global Environmental Shift and Loss of Fungal Diversity
+---# The Global Environmental Shift and Loss of Fungal Diversity
 
 Studies in Europe show a frightening loss of species diversity in
 forestlands, most evident with the mycorrhizal species. Many

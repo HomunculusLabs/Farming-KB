@@ -4,11 +4,10 @@ created: 2026-04-28
 tags:
   - drug policy
   - legislation
-  - [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] [[hplc-analysis-of-psilocybin-and-psilocin]] have been internationally
+  - smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms hplc-analysis-of-psilocybin-and-psilocin have been internationally
 controlled since 1971, the mushrooms that contain them have occupied a
 legal grey area in many countries, leading to a patchwork of national
 approaches that evolved significantly between 2001 and 2006.
----
 
 ## International Control
 

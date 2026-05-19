@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Roof mollison designers roof water catchment calculations
+---# Roof mollison designers roof water catchment calculations
 
 [[homestead-water-systems]] that also includes mollison-designers-rainwater-tanks-and-roof-catchment-systems due to
 its high runoff coefficient, durability, and non-toxic surface (unlike

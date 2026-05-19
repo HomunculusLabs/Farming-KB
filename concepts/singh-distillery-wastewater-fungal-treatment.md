@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
----
-
-## Distillery Wastewater Fungal Treatment
+---# Distillery Wastewater Fungal Treatment
 
 Distillery wastewater, commonly known as spent wash or vinasse, is one
 of the most complex and polluting industrial effluents generated

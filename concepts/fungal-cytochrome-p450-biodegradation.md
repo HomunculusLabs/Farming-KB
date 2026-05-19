@@ -6,14 +6,13 @@ type: concept
 tags: [mycology, fungi, biodegradation, enzymes, biochemistry]
 sources:
   - Singh, H. (2006). Mycoremediation. John Wiley & Sons.
-  - Gadd, G.M. (2001). [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] recalcitrant organic
+  - Gadd, G.M. (2001).  recalcitrant organic
 compounds. These intracellular enzymes catalyze the initial oxidation of
 diverse xenobiotics including aliphatic and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. They serve as
 critical entry points in [[ligninolytic-enzymes]] of white-rot fungi, P450
 systems operate inside fungal cells and are found across a broad
 taxonomic range of fungi.
----
-## Enzyme System Architecture
+--- Enzyme System Architecture
 The fungal cytochrome P450 monoxygenase system consists of two key
 protein components working together in an electron transfer chain
 localized in the endoplasmic reticulum membrane of fungal cells.

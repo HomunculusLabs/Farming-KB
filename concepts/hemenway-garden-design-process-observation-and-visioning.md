@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/gaias-garden-toby-hemenway.md
 type: concept
----
-
-## Garden Design Process: Observation and Visioning
+---# Garden Design Process: Observation and Visioning
 
 [[soil-building-ecological-garden]]: observation, visioning, planning,
 development, and implementation. This process draws from

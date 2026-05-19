@@ -14,13 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1007/978-3-319-70784-0_8
-  - https://doi.org/10.1016/j.foodres.2019.108574
-  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/ilex_vomitoria.shtml
 type: comparison
----
-
-## Yerba Mate vs Guayusa vs Yaupon vs Tea
+---# Yerba Mate vs Guayusa vs Yaupon vs Tea
 
 ## At a Glance
 

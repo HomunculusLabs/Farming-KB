@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## Holzer Bee Collapse and Natural Beekeeping
+---# Holzer Bee Collapse and Natural Beekeeping
 
 Bees are the most important insects on Earth. Should the bee die out, humans
 will follow. This is not about honey and medicinal products but primarily

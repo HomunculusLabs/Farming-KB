@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## Holzer Frost Protection Techniques
+---# Holzer Frost Protection Techniques
 
 The creation of various microclimates is a core principle in Holzer's
 Permaculture. It gives plants a chance to grow and thrive in areas where

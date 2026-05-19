@@ -4,10 +4,9 @@ created: 2026-04-26
 tags:
   - water-management
   - earthworks
-  - [[desertification-causes-reversal]], and
+  - desertification-causes-reversal, and
 the loss of biodiversity all appear as logical consequences of human
 interference.
----
 
 The existing geology and shape of the landscape reveal where water naturally
 wants to be. Rather than imposing engineering solutions onto the land, Holzer

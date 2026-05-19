@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Onygenales: Keratinophilic and Systemic Pathogenic Fungi
+---# Onygenales: Keratinophilic and Systemic Pathogenic Fungi
 
 The Onygenales is an order of Ascomycetes that includes some of
 the most clinically important fungi known to science. The order

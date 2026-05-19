@@ -3,8 +3,7 @@ title: 4-HO-EPT
 type: chemical
 tags:
   - psychedelic
-  - [[psilocin]] (4-HO-DMT). It belongs to the substituted tryptamine class and was first synthesized and bioassayed by [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to controlled tryptamines. It has seen very limited distribution outside of research chemical markets and remains one of the less well-characterized members of the 4-substituted [[tryptamine-family-overview]].
----
+  - psilocin (4-HO-DMT). It belongs to the substituted tryptamine class and was first synthesized and bioassayed by serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism to controlled tryptamines. It has seen very limited distribution outside of research chemical markets and remains one of the less well-characterized members of the 4-substituted tryptamine-family-overview.
 
 ## Chemical Properties
 

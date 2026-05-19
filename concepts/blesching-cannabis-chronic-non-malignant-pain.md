@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Chronic Non-Malignant Pain
+---# Cannabis and Chronic Non-Malignant Pain
 
 ## Overview
 

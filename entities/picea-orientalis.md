@@ -11,11 +11,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - https://www.conifers.org/pi/pic/orientalis.php
   - https://www.fs.usda.gov/ne/newtown_square/publications/misc_reports/pdfs/1952/gtrne7.pdf
----
-
-## Overview
+---# Overview
 
 Oriental spruce (*Picea orientalis*) is a large evergreen conifer native to the Caucasus Mountains and northeastern Turkey. It typically reaches heights of 30–35 meters in its native habitat, though cultivated specimens in Europe have exceeded 40 meters. The species is distinguished by its short, glossy dark green needles and cylindrical cones that are among the most colorful of all spruces.
 

@@ -4,16 +4,9 @@ tags: [biology, entomology, soil-ecology, dung-beetles, scarabaeidae, pasture-ma
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Dung_beetle
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/scarabaeidae
-  - https://www.nature.com/articles/s41558-019-0626-5
-  - https://academic.oup.com/ee/article/49/5/1100/5806213
-  - https://link.springer.com/article/10.1007/s10531-020-02033-8
 type: query
 created: 2026-04-28
----
-
-## What Are Dung Beetles and How Do They Benefit Soil and Pasture Health?
+---# What Are Dung Beetles and How Do They Benefit Soil and Pasture Health?
 
 ## What are dung beetles?
 

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Myxomycetes and Mycetozoans
+---# Myxomycetes and Mycetozoans
 
 Mycetozoa is a name applied to the polyphyletic assemblage of
 terrestrial amoeboid protists that produce aerial spore-bearing

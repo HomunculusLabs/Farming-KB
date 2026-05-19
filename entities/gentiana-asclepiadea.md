@@ -11,12 +11,10 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Kohlein, F. (1991). "Gentians." Timber Press, Portland.
-  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics [[stropharia-cubensis-identification-and-natural-history]]." Cambridge University Press.
+  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics ." Cambridge University Press.
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book." 4th ed. Cambridge University Press.
   - Nolken, W. (2016). "Gentiana asclepiadea: Phytochemistry and biological activities." Phytochemistry Reviews 15(3): 487–504.---
----
-
-## Overview
+---# Overview
 
 **Gentiana asclepiadea**, the willow gentian, is a tall herbaceous perennial in the family Gentianaceae. It is native to mountainous regions of central and southern Europe.
 

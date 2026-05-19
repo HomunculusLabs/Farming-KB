@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Landscape Rehabilitation of Degraded and Mined Land
+---# Landscape Rehabilitation of Degraded and Mined Land
 
 Rehabilitating degraded, eroded, and mined landscapes is among the most
 important applications of [[mollison-designers-design-client-interview-and-site-assessment-process]] is

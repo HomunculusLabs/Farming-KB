@@ -5,11 +5,9 @@ tags: [exopolysaccharides, soil-aggregation, glomalin, biofilm]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Exopolysaccharides, Biofilm, and Soil Aggregation
+---# Fungal Exopolysaccharides, Biofilm, and Soil Aggregation
 
 Fungal exopolysaccharides (EPS) and related extracellular polymeric substances
 play critical roles in [[soil-structure-formation]], water retention, and

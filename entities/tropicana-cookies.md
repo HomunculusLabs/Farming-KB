@@ -20,13 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/tropicana-cookies
-  - https://www.allbud.com/marijuana-strains/hybrid/tropicana-cookies
-  - https://www.wikileaf.com/strain/tropicana-cookies
   - https://growdiaries.com/strain/tropicana-cookies
----
-
-## Tropicana Cookies (Cannabis Strain)
+---# Tropicana Cookies (Cannabis Strain)
 
 ## Overview
 

@@ -12,14 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Ganoderma+lucidum
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151632/
   - Paterson RR. "Ganoderma – a therapeutic fungal biofactory." Phytochemistry. 2006.
   - Wasser SP. "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Appl Microbiol Biotechnol. 2002.
 created: 2026-04-28
----
-
-## Ganoderma lucidum
+---# Ganoderma lucidum
 
 **Ganoderma lucidum**, commonly known as **Reishi** (Japan), **Lingzhi** (China), or the **"Mushroom of Immortality,"** is a polypore bracket fungus belonging to the family Ganodermataceae. It is one of the most extensively studied [[neurotropic-fungi-taxonomic-confusion-and-identification]] has historically surrounded *Ganoderma lucidum* due to morphological variability and a broad [[berry-growing]]. Despite these revisions, the name *G. lucidum* remains the most widely used in both commercial and scientific literature.
 

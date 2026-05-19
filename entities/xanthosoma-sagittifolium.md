@@ -23,7 +23,6 @@ sources:
   - Coursey, D.G. (1968). "The edible aroids." World Crops, 20, 249–254.
   - Onokpise, O.U. et al. (1999). "Cocoyam (Xanthosoma sagittifolium) production in West Africa." Acta Horticulturae, 495, 149–156.
   - FAO. "Taro and Cocoyam." FAO Traditional Food Plants, 2010.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:537377-1
   - Goenaga, R. & Chardon, U. (2010). "Yield and quality of Xanthosoma grown under shade." Journal of Agriculture of the University of Puerto Rico, 74(2), 167–175.
 aliases:
   - malanga
@@ -37,9 +36,7 @@ aliases:
   - mangareto
   - otoe
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 *Xanthosoma sagittifolium* (malanga, tannia, yautia) is a tropical herbaceous perennial in the family Araceae, cultivated primarily for its starchy underground cormels and edible young leaves.
 

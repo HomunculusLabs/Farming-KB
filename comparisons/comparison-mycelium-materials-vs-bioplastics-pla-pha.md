@@ -5,15 +5,8 @@ tags: [biomanufacturing, materials-science, sustainability, mycelium, bioplastic
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1016/j.matdes.2021.109590
-  - https://www.nature.com/articles/s41565-019-0490-5
-  - https://www.ecovative.com/research
-  - https://pubmed.ncbi.nlm.nih.gov/35282264/
-  - https://doi.org/10.1016/j.progpolymsci.2016.12.006
 type: comparison
----
-
-## Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)
+---# Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)
 
 ## Overview
 

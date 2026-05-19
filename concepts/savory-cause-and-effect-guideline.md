@@ -5,11 +5,9 @@ tags: [decision-making, management-guidelines, problem-solving]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Cause and Effect Guideline
+---# Cause and Effect Guideline
 
 In  used in [[savory-holistic-resource-management-animal-impact]], quick fixes typically involve technological
 interventions that address visible symptoms while leaving root causes

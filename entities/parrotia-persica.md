@@ -12,12 +12,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282063
-  - https://www.rhs.org.uk/plants/10914/parrotia-persica/details
   - https://en.wikipedia.org/wiki/Parrotia_persica
----
-
-## Parrotia persica
+---# Parrotia persica
 
 ## Overview
 

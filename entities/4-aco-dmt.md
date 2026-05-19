@@ -18,11 +18,9 @@ sources:
   - Passie, T. et al. (2002). "hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips of psilocybin and 4-acetoxy-DMT." MAPS Bulletin.
   - Hashimoto, K. et al. (2005). "4-AcO-DMT: a novel synthetic-tryptamine-methods." Journal of Medicinal Chemistry.
   - Dean, A.C. et al. (2018). "Pharmacology and subjective effects of synthetic psilocin analogs." Psychopharmacology.
-  - http://www.isomerdesign.com/PiHKAL/ (chemistry reference)
+ (chemistry reference)
   - Chadeayne, A.R. et al. (2019). "Emerging tryptamines: pharmacology and forensic analysis." Forensic Sciences.
----
-
-## 4-AcO-DMT (Psilacetin)
+---# 4-AcO-DMT (Psilacetin)
 
 ## Overview
 

@@ -11,11 +11,9 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Stein, J. et al. (2003). "Native Trees of the Midwest." Purdue University Press.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[dmt-containing-plants-united-states-halpern]] Trees." USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics  Trees." USDA Forest Service.
   - Tonsor, S.J. (2021). "Quercus imbricaria." Flora of [[palmer-early-american-mycology-nineteenth-century]] settlers preferred shingle oak for this purpose because the wood splits cleanly along the grain into thin, durable pieces.
----
-
-The common name "shingle oak" derives directly from this traditional use, and many historic structures in the Midwest were originally roofed with shingle oak shakes. The wood was also used for fence rails, barrel staves, and agricultural implements before the advent of modern synthetic materials.
+---he common name "shingle oak" derives directly from this traditional use, and many historic structures in the Midwest were originally roofed with shingle oak shakes. The wood was also used for fence rails, barrel staves, and agricultural implements before the advent of modern synthetic materials.
 
 Today the tree is planted as a [[soil-temperature-plant-growth-rate-doubling-rule]] is moderate, averaging 30–60 cm per year on good sites.
 

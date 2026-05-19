@@ -3,11 +3,10 @@ title: urban guerilla food growing
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md
+  - raw/papers/urban-permaculture-guerilla-gardening.md
 type: concept
 tags: [reference]
----
-## Urban Guerilla Food Growing
+--- Urban Guerilla Food Growing
 Urban guerilla food growing is the practice of cultivating food in unauthorized,
 abandoned, or underutilized urban spaces. Rooted in permaculture and DIY
 ethics, it reclaims urban land for food production while building community

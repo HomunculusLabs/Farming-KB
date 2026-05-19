@@ -13,12 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=2C-B+psychedelic
   - Shulgin, A. & Shulgin, A. (1991). PIHKAL. Transform Press.
   - Shulgin, A. & Shulgin, A. (1997). TIHKAL. Transform Press.
   - Passie, T. et al. (2008). "The pharmacology of 2C-B." Human Psychopharmacology, 23(6), 453-460.
----
-## 2C-B
+--- 2C-B
 
 **2,5-Dimethoxy-4-bromophenethylamine** · **Nexus** · **Venus** · **Bees** · **Erox** · C₁₀H₁₄BrNO₂
 

@@ -5,11 +5,9 @@ tags: [biocontrol, Trichoderma, mycoparasitism, induced-resistance]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Trichoderma Biocontrol Mechanisms and Applications
+---# Trichoderma Biocontrol Mechanisms and Applications
 
 Trichoderma species represent the most widely studied and commercially
 deployed fungal biocontrol agents worldwide. Singh's treatment of

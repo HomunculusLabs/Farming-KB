@@ -5,11 +5,9 @@ tags: [ectomycorrhizal, pah, tnt, explosives, mycorrhizal-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Ectomycorrhizal Fungal Transformation of PAHs and TNT
+---# Ectomycorrhizal Fungal Transformation of PAHs and TNT
 
 Ectomycorrhizal (ECM) fungi demonstrate significant potential for the
 biotransformation of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and

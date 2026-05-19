@@ -16,14 +16,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=thymol+pharmacology+review
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/
-  - https://www.frontiersin.org/articles/10.3389/fmicb.2018.02956/full
-  - https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/thymol
   - Marchese, A. et al. (2016). "Antibacterial and antifungal activities of thymol: a brief review of the literature." Food Chemistry, 210, 402-414.
----
-
-## Thymol
+---# Thymol
 
 ## Overview
 

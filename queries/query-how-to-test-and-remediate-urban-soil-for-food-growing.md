@@ -14,16 +14,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.epa.gov/urban-agriculture/soil-contamination-and-urban-agriculture
-  - https://doi.org/10.1016/j.envint.2014.07.017
   - Attanayake CP et al. (2014) Soil lead geochemistry in urban gardens
   - Brown SL, Chaney RL (2016) Lead risk assessment for cuban-urban-agriculture
   - USDA NRCS Urban Soil Primer
 created: 2026-04-28
 type: query---
----
-
-## How to Test and Remediate Urban Soil for Food Growing
+---# How to Test and Remediate Urban Soil for Food Growing
 ## Why Urban Soil Testing Matters
 
 Urban soils often carry contamination from decades or centuries of human activity — lead paint, leaded gasoline, industrial emissions, coal ash, demolition debris, and chemical spills. The most common urban soil contaminant is **lead (Pb)**, which was pervasive in exterior house paint (before 1978 in the US) and gasoline (before 1996). Other contaminants found in urban soils include arsenic (from treated lumber and historical pesticides), cadmium, chromium, [[mycoremediation-petroleum-hydrocarbons]], PCBs, and asbestos.

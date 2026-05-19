@@ -15,14 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - https://en.wikipedia.org/wiki/Mangosteen
-  - https://en.wikipedia.org/wiki/Rambutan
-  - https://www.fao.org/docrep/x0455e/x0455e08.htm
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/rambutan
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435915/
----
-
-## Mangosteen vs Rambutan Cultivation
+---# Mangosteen vs Rambutan Cultivation
 
 ## At a Glance
 

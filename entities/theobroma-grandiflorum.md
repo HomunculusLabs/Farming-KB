@@ -12,11 +12,9 @@ updated: 2026-05-08
 sources:
   - Alves, R.E. et al. (2004). "Cupuaçu: Theobroma grandiflorum." In: Exotic Fruits and Nuts of the New World, CABI Publishing.
   - Venturieri, G.C. (1993). "Cupuaçu: um fruteiro alternativo para a Amazônia." EMBRAPA-CPATU, Belém.
-  - Rogez, H. (2000). "Açaí and Cupuaçu: Composition, Nutritional [[component-analysis-and-functional-connections]] Properties." Lavoisier Publishing.
+  - Rogez, H. (2000). "Açaí and Cupuaçu: Composition, Nutritional  Properties." Lavoisier Publishing.
   - Sousa, A.G. et al. (2011). "Theobroma grandiflorum (cupuaçu): a fruit from the Amazon with [[comparison-berry-growing-vs-fruit-tree-pruning]] native to the Amazon basin.
----
-
-It is closely related to cacao and belongs to the same genus within the family Malvaceae.
+---t is closely related to cacao and belongs to the same genus within the family Malvaceae.
 
 The fruit is prized for its aromatic, creamy pulp, which is widely used in beverages, desserts, and cosmetics throughout Brazil.
 

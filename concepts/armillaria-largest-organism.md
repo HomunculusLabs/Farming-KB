@@ -3,9 +3,8 @@ title: Armillaria - The Largest Living Organism
 created: 2026-04-28
 tags:
   - fungal-ecology
-  - [[basidiomycota-classification-major-clades]]
+  - basidiomycota-classification-major-clades
 - [[fungal-ecology-forest-ecosystems]]
----
 ## Practical Applications
 
 Armillaria - The Largest Living Organism has a range of practical applications that make it relevant to

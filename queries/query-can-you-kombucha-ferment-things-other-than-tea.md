@@ -5,14 +5,8 @@ tags: [kombucha, fermentation, alternative-substrates, scoby, jun-tea, fermented
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6652794/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/kombucha
-  - https://www.healthline.com/nutrition/kombucha-101
-  - https://www.masterclass.com/articles/how-to-make-kombucha
 type: query
----
-
-## Can You Kombucha-Ferment Things Other Than Tea?
+---# Can You Kombucha-Ferment Things Other Than Tea?
 
 Yes — with important caveats. While traditional kombucha requires tea (*[[edaphic-factors-microbial-community-structure]] evolved on tea and depends on specific compounds it provides:
 

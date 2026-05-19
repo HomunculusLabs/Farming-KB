@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
----
-
-## Raised Bed Windbreak Systems
+---# Raised Bed Windbreak Systems
 
 [[cervantes-wind-protection-outdoor-cannabis]] that
 integrates windbreak functions directly into raised bed systems. Rather than

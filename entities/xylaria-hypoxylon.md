@@ -13,13 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mycobank.org/Biolomics.aspx?Table=Xylaria&Rec=4016&Fields=All
   - Whalley, A.J.S. (1996). "The Xylariaceae: Some ecological and physiological aspects." Mycologist.
   - Rogers, J.D. et al. (2005). "Xylariaceae." Mycologia Memoir No. 21.
   - Stadler, M. et al. (2014). "A glimpse into the treasure chest — Xylaria." Fungal Diversity.
----
-
-## Xylaria hypoxylon (Candlesnuff Fungus)
+---# Xylaria hypoxylon (Candlesnuff Fungus)
 
 ## Overview
 

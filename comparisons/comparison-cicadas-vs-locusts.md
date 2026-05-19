@@ -14,16 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310618/
-  - https://www.fao.org/locusts/en/
-  - https://academic.oup.com/ee/article-abstract/49/5/815/5854743
-  - https://www.annualreviews.org/doi/abs/10.1146/annurev-ento-011019-025020
-  - https://bugs.osu.edu/news/cicadas
 type: comparison
 created: 2026-04-28
----
-
-## Cicadas vs Locusts
+---# Cicadas vs Locusts
 
 ## At a Glance
 

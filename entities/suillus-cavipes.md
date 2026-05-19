@@ -13,11 +13,9 @@ updated: 2026-04-28
 sources:
   - Smith, A.H. & Thiers, H.D. (1964). "A Contribution toward a Monograph of growing-gourmet-north-american-reishi-species Species of Suillus." University of Michigan Press.
   - Kuo, M. (2024). "Suillus cavipes." MushroomExpert.com.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[pinus-strobus]]*,
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "*,
 *P. monticola*, *P. flexilis*) across North America.
----
-
-The species is distinguished by its prominently hollow stipe, sticky
+---he species is distinguished by its prominently hollow stipe, sticky
 chestnut-brown cap, and tendency to bruise slowly reddish-brown.
 
 It is considered edible, though opinions vary on culinary quality compared

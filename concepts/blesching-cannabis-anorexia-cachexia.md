@@ -5,11 +5,9 @@ tags: [cannabis, anorexia, cachexia, appetite, cb1-receptor]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Anorexia/Cachexia
+---# Cannabis and Anorexia/Cachexia
 
 Anorexia (loss of appetite) and cachexia (pathological weight loss and
 muscle wasting) represent significant clinical challenges across numerous

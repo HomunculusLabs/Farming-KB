@@ -16,15 +16,10 @@ related_concepts:
   - nitric-oxide-biology
   - amino-acid-metabolism
 sources:
-  - https://pubchem.ncbi.nlm.nih.gov/compound/9750
-  - https://en.wikipedia.org/wiki/Citrulline
-  - https://www.ncbi.nlm.nih.gov/books/NBK513323/
 created: 2026-05-02
 updated: 2026-05-02
 tags: [profile]
----
-
-## L-Citrulline
+---# L-Citrulline
 
 ## Overview
 

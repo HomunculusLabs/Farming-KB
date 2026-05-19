@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Arbuscular Mycorrhizal Spore Identification
+---# Arbuscular Mycorrhizal Spore Identification
 
 Arbuscular mycorrhizal (AM) fungi in the phylum Glomeromycota produce
 multicellular spores that serve as the primary basis for species

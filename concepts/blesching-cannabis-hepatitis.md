@@ -5,11 +5,9 @@ tags: [cannabis, hepatitis, liver, antiviral, endocannabinoid]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Hepatitis
+---# Cannabis and Hepatitis
 
 Hepatitis, inflammation of the liver caused by viral infections (most
 commonly hepatitis B and C), [[blesching-cannabis-health-index-autoimmune-conditions]]," Uwe Blesching assigns this condition a

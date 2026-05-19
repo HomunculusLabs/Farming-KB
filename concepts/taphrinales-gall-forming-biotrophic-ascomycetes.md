@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Taphrinales: Gall-Forming Biotrophic Ascomycetes
+---# Taphrinales: Gall-Forming Biotrophic Ascomycetes
 
 The Taphrinales are a small but distinctive order of
 biotrophic ascomycetes that cause plant diseases

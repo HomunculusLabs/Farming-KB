@@ -8,10 +8,9 @@ tags:
   - medicinal-plant
   - traditional-chinese-medicine
   - women's-health
-  - [[medicinal-mushroom-extraction-bioactive-compounds]] It cannot
+  - medicinal-mushroom-extraction-bioactive-compounds It cannot
 tolerate heat or drought, making it challenging to cultivate outside its
 native range.
----
 
 ## Bioactive Compounds
 

@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
----
-
-## Turf and Lawn Compost Tea Programs
+---# Turf and Lawn Compost Tea Programs
 
 Turf and lawn management with [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], and over-reliance on chemical inputs that
 destroy beneficial biology. Ingham's field guide provides specific

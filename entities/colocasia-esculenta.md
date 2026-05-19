@@ -13,12 +13,10 @@ tags:
 sources:
   - "Matthews, P.J. (1991). \"A possible tropical wildtype taro, Colocasia esculenta.\" Pacific Science, 45(1), 55-66."
   - "Bown, D. (2000). Aroids: Plants of the Arum Family. Timber Press."
-  - "Onwueme, I.C. (1999). [[psilocybe-southeast-asia-pacific]], South Asia,
+  - "Onwueme, I.C. (1999). , South Asia,
 and West Africa. The species is highly adaptable, tolerates waterlogged
 conditions, and provides both edible corms and nutritious leaf greens.
----
-
-## Taxonomy
+---# Taxonomy
 
 - **Kingdom:** Plantae → **Order:** Alismatales → **Family:** Araceae
 - **Genus:** Colocasia → **Species:** C. esculenta (L.) Schott

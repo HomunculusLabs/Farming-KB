@@ -5,11 +5,9 @@ tags: [botany, biophysics, parapsychology, photography]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/tompkins-secret-life-of-plants.md
+  - raw/papers/tompkins-secret-life-of-plants.md
 type: concept
----
-
-## Kirlian Photography and Plant Auras
+---# Kirlian Photography and Plant Auras
 
 Kirlian photography is a technique for capturing on film the luminous
 energy fields said to surround [[fly-agaric-western-literature]] calls the

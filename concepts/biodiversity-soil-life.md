@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## Biodiversity and Soil Life
+---# Biodiversity and Soil Life
 
 [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
 - [[mollison-designers-market-garden-intensive-production-design]] but

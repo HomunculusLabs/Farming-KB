@@ -16,12 +16,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Pelargonium_sidoides
-  - https://pubmed.ncbi.nlm.nih.gov/?term=pelargonium+sidoides+clinical+trial
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257694/
   - https://link.springer.com/article/10.1007/s11101-008-9106-2
----
-## Pelargonium sidoides (South African Geranium)
+--- Pelargonium sidoides (South African Geranium)
 
 **Pelargonium sidoides** is a [[quercetin]] and quercetin derivatives
 - Proanthocyanidins (condensed tannins)

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Triazonal Cultivation System
+---# Triazonal Cultivation System
 
 The triazonal cultivation system is a framework described in Bill Mollison's
 *Permaculture: A Designers' Manual* for optimizing crop production by managing

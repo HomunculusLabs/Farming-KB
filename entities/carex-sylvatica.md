@@ -12,12 +12,10 @@ updated: 2026-05-09
 sources:
   - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
   - Ackerfield, J. (2015). Flora of Colorado. BRIT Press.
-  - Reznicek, A.A. (2002). "Carex in [[berry-growing]], Vol. 23. Oxford University Press.
+  - Reznicek, A.A. (2002). "Carex in , Vol. 23. Oxford University Press.
   - Stace, C.A. (2019). New Flora of the British Isles, 4th ed. C&M Floristics.
   - [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], drawing nutrients from deeper soil layers and returning them through leaf [[dighton-fungal-drought-tolerance-plant-water-relations]] is low compared to many other Carex species.
----
-
-The species is hardy to USDA Zone 5 and tolerates cold winters without protection. It performs best in regions with cool, moist summers.
+---he species is hardy to USDA Zone 5 and tolerates cold winters without protection. It performs best in regions with cool, moist summers.
 
 No significant pest or disease problems affect cultivated plants. Root rot can occur in poorly drained, waterlogged conditions.
 

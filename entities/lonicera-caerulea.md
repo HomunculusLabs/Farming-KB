@@ -5,10 +5,9 @@ type: species
 tags:
   - caprifoliaceae
   - edible-fruit
-  - [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern
+  - oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern
 Hemisphere. Prized for its exceptionally early ripening and remarkable cold
 hardiness, it has emerged as a commercially significant berry crop.
----
 
 The berries are rich in anthocyanins, vitamin C, and [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]al and functional food
 [[guzman-magic-mushrooms-temperate-zone-species]]:** L. caerulea L.

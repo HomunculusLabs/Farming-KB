@@ -15,11 +15,9 @@ sources:
   - "Berde, B. & Schild, H.O. (1978). claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids and lsd-structure-activity-relationships-related-compounds. Springer-Verlag."
   - "Hofmann, A. (1978). \"Ergot Alkaloids.\" In: The Chemistry of Psychoactive Alkaloids. Springer."
   - "Schardl, C.L. et al. (2006). \"Ergot Alkaloids—Biology and Molecular Biology.\" Alkaloids: Chemistry and Biology, 63, 45–86."
-  - "Pertz, H.H. & Eich, E. (1999). \"Ergot Alkaloids and Their Derivatives as Ligands for [[bloomfield-ergot-claviceps-purpurea-ergotism]]* ([[claviceps-purpurea]]* through the
+  - "Pertz, H.H. & Eich, E. (1999). \"Ergot Alkaloids and Their Derivatives as Ligands for * (* through the
 ergot alkaloid pathway:
----
-
-1. **Prenylation of L-tryptophan** by dimethylallyltryptophan synthase
+---. **Prenylation of L-tryptophan** by dimethylallyltryptophan synthase
    (DMATS) to form 4-dimethylallyl-L-tryptophan.
 2. **Oxidative ring closure** to produce chanoclavine-I, then
    agroclavine via the enzyme cloA (cytochrome P450).

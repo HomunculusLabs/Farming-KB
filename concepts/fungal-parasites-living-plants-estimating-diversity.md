@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Fungal Parasites on Living Plants - Estimating Diversity
+---# Fungal Parasites on Living Plants - Estimating Diversity
 Estimating the diversity of fungal parasites on living plants
 is one of the most challenging problems in mycology. Fungi
 that attack healthy, living plant tissues (as distinct from

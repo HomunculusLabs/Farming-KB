@@ -6,7 +6,7 @@ tags: [plant-intelligence, plant-perception, consciousness,
 date: 2026-05-12
 updated: 2026-05-12
 sources:
-  - ~/wiki/raw/papers/tompkins-secret-life-of-plants.md
+  - raw/papers/tompkins-secret-life-of-plants.md
 related_concepts:
   - cleve-backster-plant-perception-experiments
   - marcel-vogel-plant-communication
@@ -28,9 +28,7 @@ related_concepts:
   - plant-communication-volatile-organic-compounds
   - plant-signaling-pathways
   - plant-sensory-biology-and-intelligence
----
-
-## The Secret Life of Plants
+---# The Secret Life of Plants
 
 In 1973, journalist Peter Tompkins and former CIA intelligence officer
 Christopher Bird published *The Secret Life of Plants*, a sprawling

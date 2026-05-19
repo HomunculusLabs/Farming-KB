@@ -9,15 +9,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1016/j.jff.2018.03.018
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666456/
-  - https://doi.org/10.3390/molecules25020287
-  - https://link.springer.com/article/10.1007/s11046-005-0039-2
 aliases:
   - [[medicinal-mushrooms]] globally, the visible chaga "conk" is not the [[dmt-containing-plants-united-states-halpern]], and parts of Central and Eastern Europe.
----
-
-## Taxonomy
+---# Taxonomy
 
 - **Kingdom**: Fungi
 - **Division**: Basidiomycota

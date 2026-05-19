@@ -8,9 +8,9 @@ tags:
   - ebenaceae
   - fruit-tree
   - native-american
-  - [[permaculture]]
-  - [[agroforestry]]
-  - [[food-forest]]
+  - permaculture
+  - agroforestry
+  - food-forest
   - edible-fruit
   - astringency
   - wildlife-forage
@@ -31,7 +31,6 @@ sources:
   - Fulbright TP (2004). "Persimmon (Diospyros virginiana) Ecology and
     Management." USDA Forest Service General Technical Report.
   - USDA NRCS Plant Profile. https://plants.usda.gov/home/plantProfile?symbol=DIVI5
----
 
 ## Overview
 

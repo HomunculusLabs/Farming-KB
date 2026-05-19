@@ -12,16 +12,16 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ~/wiki/concepts/cheese-making-basics.md
-  - ~/wiki/concepts/dairy-and-cheesemaking.md
-  - ~/wiki/concepts/faires-dairy-processing-cheese-and-butter.md
-  - ~/wiki/concepts/faires-yogurt-and-sourdough-making.md
-  - ~/wiki/concepts/goat-cheese-making.md
-  - ~/wiki/concepts/homestead-dairy-equipment.md
-  - ~/wiki/concepts/homestead-dairy-guide.md
-  - ~/wiki/concepts/kefir-making.md
-  - ~/wiki/concepts/mollison-designers-goat-dairy-and-cheese-production.md
-  - ~/wiki/concepts/small-scale-dairy-guide.md
+  - concepts/cheese-making-basics.md
+  - concepts/dairy-and-cheesemaking.md
+  - concepts/faires-dairy-processing-cheese-and-butter.md
+  - concepts/faires-yogurt-and-sourdough-making.md
+  - concepts/goat-cheese-making.md
+  - concepts/homestead-dairy-equipment.md
+  - concepts/homestead-dairy-guide.md
+  - concepts/kefir-making.md
+  - concepts/mollison-designers-goat-dairy-and-cheese-production.md
+  - concepts/small-scale-dairy-guide.md
 related_concepts:
   - cheese-making-basics
   - dairy-and-cheesemaking
@@ -33,8 +33,7 @@ related_concepts:
   - kefir-making
   - mollison-designers-goat-dairy-and-cheese-production
   - small-scale-dairy-guide
----
-## Home Cheesemaking and Dairy Fermentation
+--- Home Cheesemaking and Dairy Fermentation
 Home cheesemaking and dairy fermentation are household-scale practices that
 convert fresh milk into cheese, yogurt, kefir, butter, cultured cream, and
 other preserved foods. The field joins animal husbandry, microbiology, kitchen

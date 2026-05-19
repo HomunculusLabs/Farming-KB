@@ -12,13 +12,11 @@ updated: 2026-04-28
 sources:
   - Subcool's The Dank (2010). TGA mushroom-genetics-strain-selection catalog.
   - Leafly Staff (2023). "Jillybean Strain Information." Leafly.com.
-  - AllBud (2024). "Jillybean [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by **Subcool of TGA
+  - AllBud (2024). "Jillybean  strain bred by **Subcool of TGA
 Genetics** (The Green Avengers). It is a cross between **Orange Velvet** and
 **[[cannabis-glandular-trichome-types-resin-production-clarke]], and a subtle diesel-pine undertone to the aroma
 complex.
----
-
-## Appearance
+---# Appearance
 
 [[green-cannabis-grow-bible-flowering-phase-and-harvest]], particularly in the
 sativa-leaning phenotypes.

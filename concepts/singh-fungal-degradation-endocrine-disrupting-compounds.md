@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Degradation of Endocrine Disrupting Compounds
+---# Fungal Degradation of Endocrine Disrupting Compounds
 
 Endocrine disrupting compounds (EDCs) are environmental contaminants that
 interfere with the hormonal systems of organisms. Polychlorinated

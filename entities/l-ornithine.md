@@ -16,15 +16,10 @@ related_concepts:
   - amino-acid-metabolism
   - hyperammonemia
 sources:
-  - https://pubchem.ncbi.nlm.nih.gov/compound/6262
-  - https://en.wikipedia.org/wiki/Ornithine
-  - https://www.ncbi.nlm.nih.gov/books/NBK513323/
 created: 2026-05-02
 updated: 2026-05-02
 tags: [profile]
----
-
-## L-Ornithine
+---# L-Ornithine
 
 ## Overview
 

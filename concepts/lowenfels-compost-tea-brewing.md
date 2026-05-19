@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----
-
-## Compost Tea Brewing
+---# Compost Tea Brewing
 
 Compost tea is a liquid extract of compost that is actively brewed to multiply
 beneficial microorganisms. In "Teaming With Microbes," fungal-soil-food-web

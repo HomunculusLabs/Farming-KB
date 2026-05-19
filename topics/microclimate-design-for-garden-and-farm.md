@@ -6,14 +6,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/concepts/mollison-designers-sun-trap-and-frost-pocket-design.md
-  - ~/wiki/concepts/holzer-microclimate-creation.md
-  - ~/wiki/concepts/gaias-garden-microclimates.md
-  - ~/wiki/concepts/edge-effect-and-microclimate.md
-  - ~/wiki/concepts/permaculture-frost-protection-strategies.md
-  - ~/wiki/concepts/windbreak-and-shelterbelt-design.md
-  - ~/wiki/concepts/mollison-thermal-mass-passive-building.md
-  - ~/wiki/concepts/faires-thermal-mass-applications-in-building.md
+  - concepts/mollison-designers-sun-trap-and-frost-pocket-design.md
+  - concepts/holzer-microclimate-creation.md
+  - concepts/gaias-garden-microclimates.md
+  - concepts/edge-effect-and-microclimate.md
+  - concepts/permaculture-frost-protection-strategies.md
+  - concepts/windbreak-and-shelterbelt-design.md
+  - concepts/mollison-thermal-mass-passive-building.md
+  - concepts/faires-thermal-mass-applications-in-building.md
 related_concepts:
   - holzer-microclimate-creation
   - gaias-garden-microclimates
@@ -21,9 +21,7 @@ related_concepts:
   - permaculture-frost-protection-strategies
   - mollison-thermal-mass-passive-building
   - edge-effect-and-microclimate
----
-
-## Microclimate Design for Garden and Farm
+---# Microclimate Design for Garden and Farm
 
 Every garden and farm contains a mosaic of microclimates, localized areas where
 temperature, moisture, wind, and light conditions differ from the surrounding

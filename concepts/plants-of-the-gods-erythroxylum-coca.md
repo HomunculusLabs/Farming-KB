@@ -5,14 +5,13 @@ tags:
   - ethnobotany
   - coca
   - erythroxylum
-  - [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] of South
+  - green-cannabis-grow-bible-pre-flowering-and-sexing-plants of South
 America. Along with Tobacco, Coca rose to exalted positions in
 the sacred native pharmacopoeias. In the Andean world, Coca has
 been cultivated and revered for millennia. The plant is so deeply
 embedded in indigenous culture that it serves simultaneously as a
 stimulant, a medicine, a religious offering, and a symbol of
 cultural identity.
----
 
 ## Botanical Background
 

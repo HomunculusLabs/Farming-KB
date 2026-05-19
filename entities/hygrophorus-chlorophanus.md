@@ -13,11 +13,9 @@ updated: 2026-04-28
 sources:
   - Bresinsky, A. & Besl, H. (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
   - Arnolds, E. (2010). "The Hygrophorus of Europe." Koninklijke Nederlandse Mycologische Vereniging.
-  - Kibby, G. (2012). "The genus Hygrophorus in Britain." Field [[partial-veil-tropism-protection-before-spore-release]]
+  - Kibby, G. (2012). "The genus Hygrophorus in Britain." Field 
 often leaving a fleeting ring or fibrillose zone.
----
-
-**Flesh:** Thin, white, rubbery and pliant. Odor mild or slightly
+---*Flesh:** Thin, white, rubbery and pliant. Odor mild or slightly
 farinaceous. Taste not distinctive.
 
 **Spores:** 6.5–9 × 4.5–6 μm, ellipsoid, smooth, inamyloid.

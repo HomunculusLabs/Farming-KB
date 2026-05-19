@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Leaf Mold — Making and Using It
+---# Leaf Mold — Making and Using It
 
 Leaf mold is one of the finest soil conditioners available to the organic
 gardener, yet it requires nothing more than patience and autumn leaves.

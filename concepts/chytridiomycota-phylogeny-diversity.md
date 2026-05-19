@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Chytridiomycota Phylogeny and Diversity
+---# Chytridiomycota Phylogeny and Diversity
 
 The Chytridiomycota represents the most basal lineage of the
 Kingdom [[anaerobic-gut-fungi]]

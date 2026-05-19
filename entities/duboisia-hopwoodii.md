@@ -3,7 +3,7 @@ title: Duboisia hopwoodii
 created: 2026-04-28
 type: species
 tags:
-  - [nicotine]]
+  - [nicotine
   - solanaceae
   - australia
   - aboriginal
@@ -12,7 +12,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
----
 
 ## Duboisia hopwoodii F. v. Muell.
 

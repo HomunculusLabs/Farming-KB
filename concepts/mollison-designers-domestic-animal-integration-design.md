@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Domestic Animal Integration Design
+---# Domestic Animal Integration Design
 
 [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] devotes considerable
 attention to the integration of domestic animals into designed

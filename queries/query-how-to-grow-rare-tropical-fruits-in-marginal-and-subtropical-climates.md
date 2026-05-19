@@ -14,14 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/docrep/x0455e/x0455e08.htm
-  - https://crfg.org/pubs/frtfacts.html
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/tropical-horticulture
-  - https://edis.ifas.ufl.edu/
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435915/
----
-
-## How to Grow Rare Tropical Fruits in Marginal and Subtropical Climates
+---# How to Grow Rare Tropical Fruits in Marginal and Subtropical Climates
 
 ## Which Rare Tropical Fruits Can Survive Marginal Conditions?
 

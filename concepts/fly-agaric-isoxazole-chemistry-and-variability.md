@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Fly-Agaric Isoxazole Chemistry and Variability
+---# Fly-Agaric Isoxazole Chemistry and Variability
 
 ## The Biochemical Unpredictability of Amanita Muscaria
 

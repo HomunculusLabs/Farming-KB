@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - Guzmán G, Allen JW, Gartz J (1998) A worldwide [[singh-key-fungal-genera-bioremediation]], rivaled only by [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
+  - Guzmán G, Allen JW, Gartz J (1998) A worldwide , rivaled only by 
 by Berkeley and Broome (1871) from Sri Lanka. The species was later
 transferred to the genus Copelandia by Singer (1951). The genus
 Copelandia is placed within the family Panaeolaceae (order Agaricales)
@@ -28,9 +28,7 @@ and the Gulf Coast states:
 - **Hawaii**: An extremely rich and diverse Copelandia flora exists in
   the Hawaiian Islands (Heim et al., 1966a, 1967; Pollock, 1976; Stamets,
   1978; Stijve, 1992, 1995; Merlin and Allen, 1993; Allen, 1998).
----
-
-### Asia
+---## Asia
 
 C. cyanescens has a broad Asian distribution:
 - **[[copelandia-cyanescens]]

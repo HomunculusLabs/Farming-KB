@@ -13,11 +13,8 @@ sources:
   - "Leafly Staff (2020). \"Pink Runtz Strain Information.\" Leafly.com."
   - "AllBud (2021). \"Pink Runtz blesching-cannabis-strain-selection-receptor-targeting Review.\" AllBud.com."
   - "Dumestre, V. et al. (2021). \"Cannabis cannabis-terpene-profiles-sativa of popular commercial strains.\" Journal of Cannabis Research, 3(1), 32."
-  - "https://www.wikileaf.com/strain/pink-runtz"
 created: 2026-05-07
----
-
-## Pink Runtz
+---# Pink Runtz
 
 ## Overview
 

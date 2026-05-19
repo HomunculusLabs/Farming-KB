@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md"
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
----
-
-## Garden Centers and Seedling Buying Traps
+---# Garden Centers and Seedling Buying Traps
 
 [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]], beets, radishes,
 or corn from seed. The truth is that these crops generally do not

@@ -5,11 +5,9 @@ tags: [pentachlorophenol, pcp, soil-transformation, fungal-remediation, bound-re
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Transformation of Pentachlorophenol in Soils
+---# Fungal Transformation of Pentachlorophenol in Soils
 
 Pentachlorophenol (PCP) is a widely used wood preservative and
 biocide that has caused extensive soil contamination. Fungal

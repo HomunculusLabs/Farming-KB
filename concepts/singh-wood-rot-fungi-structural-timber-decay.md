@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Wood Rot Fungi and Structural Timber Decay
+---# Wood Rot Fungi and Structural Timber Decay
 
 Wood [[comparison-brown-rot-vs-white-rot-bioremediation]], white rot, and soft rot, based on their enzymatic strategies
 and the residual materials they produce. Understanding these decay

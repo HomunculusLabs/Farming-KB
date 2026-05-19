@@ -13,13 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Silvopasture
   - Project Drawdown, "Silvopasture" — drawdown.org/solutions/silvopasture
   - Gold, M.A. & Garrett, H.E. (2009). Agroforestry: natures own technology. Temperate Agroforestry Systems, CAB International
   - USDA National Agroforestry Center — fs.usda.gov/nac
----
-
-## Silvopasture
+---# Silvopasture
 
 **Silvopasture** is an integrated agroforestry practice that deliberately combines trees, forages (pasture and/or hay), and livestock on the same land management unit. One of the five recognized agroforestry practices (alongside [[biodiversity-of-fungi-ecosystem-services-agriculture]] that exceed those of conventional pasture or tree monocultures. Project Drawdown ranks silvopasture among the top [[solomon-wide-spacing-versus-intensive-gardening-debate]] (15–20 m):** Minimal forage reduction; 50–100 trees/ha
 - **Moderate spacing (8–12 m):** Balanced production; 70–150 trees/ha

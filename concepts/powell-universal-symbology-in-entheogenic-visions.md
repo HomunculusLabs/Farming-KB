@@ -2,7 +2,7 @@
 title: powell universal symbology in entheogenic visions in Entheogenic Visions
 created: 2026-04-28
 tags: [symbology, visionary-experience, entheogens, symbols, archetypes,
-  [[amanita-muscaria-feathered-serpent-phoenix]]; the
+  amanita-muscaria-feathered-serpent-phoenix; the
 ancient Egyptians, whose Pharaohs incorporated the viper as a symbol of
 wisdom; the Australian aborigines, who revered the Rainbow Serpent; the
 ancient epic of Gilgamesh, in which a serpent tells of a plant conferring
@@ -16,7 +16,6 @@ movie-like fashion during the entheogenic state represents meaning in perhaps
 its purest, most informationally rich form. To partake of a visionary
 dialogue is to be overwhelmed by the direct apprehension of naked, unmuddied
 meaning arising from highly integrative informational processes.
----
 
 ## The Analogy with Snowflakes
 

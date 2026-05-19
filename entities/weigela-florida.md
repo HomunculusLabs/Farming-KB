@@ -14,12 +14,10 @@ sources:
   - Bean, W.J. (1973). nitrogen-fixing-trees-and-shrubs Hardy in the British Isles, 8th ed. John Murray.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
   - Royal Horticultural Society (2024). "Weigela." https://www.rhs.org.uk/
-  - Krüssmann, G. (1984). Manual [[classification-of-cultivated-mushroom-species]] Broad-Leaved [[neurotropic-fungi-japan-east-asia-species-cultural-context]], belonging to
+  - Krüssmann, G. (1984). Manual  Broad-Leaved , belonging to
 the honeysuckle family. It is one of the most widely planted ornamental shrubs
 [[query-how-to-grow-and-use-oca-in-temperate-climates]] gardens worldwide.
----
-
-The species is renowned for its prolific tubular flowers, which range in color
+---he species is renowned for its prolific tubular flowers, which range in color
 from soft pink to deep crimson depending on the cultivar. Blooming occurs in
 late spring, with many cultivars reblooming sporadically through summer.
 

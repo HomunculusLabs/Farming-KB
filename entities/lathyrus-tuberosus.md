@@ -13,10 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Lathyrus_tuberosus
 created: 2026-04-28
----
-## Earthnut Pea (Lathyrus tuberosus)
+--- Earthnut Pea (Lathyrus tuberosus)
 
 ## Overview
 

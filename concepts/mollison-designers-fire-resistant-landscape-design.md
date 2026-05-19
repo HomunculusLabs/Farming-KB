@@ -10,11 +10,10 @@ updated: 2026-05-06
 date: permaculturepdated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 tags: [reference]
----
-## Fire-Resistant Landscape Design
+--- Fire-Resistant Landscape Design
 Bill Mollison addresses fire in mollison-designers-living-mulches-ground-covers: gravel, stone, concrete, brick
   paving, or closely mown green lawns (maintained and irrigated)
 - Store firewood, fuel, and combustible materials well away from

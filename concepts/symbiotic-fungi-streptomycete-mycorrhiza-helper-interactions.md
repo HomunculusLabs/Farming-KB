@@ -5,11 +5,9 @@ tags: [mycorrhiza, helper-bacteria, streptomyces, symbiosis, soil-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/symbiotic-fungi.md
+  - raw/papers/symbiotic-fungi.md
 type: concept
----
-
-## Streptomycete Mycorrhiza Helper Bacteria Interactions
+---# Streptomycete Mycorrhiza Helper Bacteria Interactions
 
 Mycorrhiza helper bacteria (MHB) are soil bacteria that promote the
 establishment and functioning of mycorrhizal symbioses. Among these,

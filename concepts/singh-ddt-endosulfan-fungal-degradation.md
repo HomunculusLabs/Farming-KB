@@ -5,11 +5,9 @@ tags: [ddt, endosulfan, chlorinated-insecticides, fungal-degradation, organochlo
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Degradation of Chlorinated Insecticides DDT and Endosulfan
+---# Fungal Degradation of Chlorinated Insecticides DDT and Endosulfan
 
 Chlorinated insecticides including DDT, aldrin, [[dieldrin]], heptachlor,
 endrin, [[chlordane]], and endosulfan represent major environmental

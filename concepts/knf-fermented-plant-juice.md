@@ -5,11 +5,9 @@ tags: [knf, fermented-plant-juice, natural-farming, korean-farming, fertilizers]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/master-cho-knf-recipe-book.md
+  - raw/papers/master-cho-knf-recipe-book.md
 type: concept
----
-
-## KNF Fermented Plant Juice
+---# KNF Fermented Plant Juice
 
 Fermented Plant Juice (FPJ) is a cornerstone input of [[acacia]] flowers (Robinia pseudoacacia): promote flower bud
   formation and increase sugar content.

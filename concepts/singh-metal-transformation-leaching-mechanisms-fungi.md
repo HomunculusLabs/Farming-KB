@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Mechanisms of Metal Transformation and Leaching by Fungi
+---# Mechanisms of Metal Transformation and Leaching by Fungi
 
 Fungi possess diverse mechanisms for transforming [[gadd-fungal-metal-transformations-biogeochemical-cycling]].
 

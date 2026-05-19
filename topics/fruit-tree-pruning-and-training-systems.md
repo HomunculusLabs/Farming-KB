@@ -13,14 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://content.ces.ncsu.edu/training-and-pruning-fruit-trees
-  - https://www.canr.msu.edu/news/pruning_training_young_fruit_trees
-  - https://extension.psu.edu/pruning-and-training-fruit-trees
-  - https://www.rhs.org.uk/fruit/apples/pruning-established-apples
   - https://ucanr.edu/sites/fruitreport/Nutrition_Optimization/Pruning/
----
-
-## Fruit Tree Pruning and Training Systems
+---# Fruit Tree Pruning and Training Systems
 
 ## Overview
 

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Traditional [[water-management]] technologies ever
+---# Traditional [[water-management]] technologies ever
 devised. Originating in ancient Persia (modern Iran) over 3,000 years ago,
 qanats tap groundwater from alluvial fans at the base of mountains and
 deliver it by gravity to settlements and [[watershed-management]]**: Traditional acequia communities

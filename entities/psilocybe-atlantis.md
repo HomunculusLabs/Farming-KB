@@ -13,13 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mycobank.org/Biolomics.aspx?Table=Psilocybe&Rec=5467
-  - https://en.wikipedia.org/wiki/Psilocybe_atlantis
-  - https://www.shroomery.org/10947/Psilocybe-atlantis
   - https://pubmed.ncbi.nlm.nih.gov/?term=psilocybe+atlantis+psilocybin
----
-
-## Psilocybe atlantis
+---# Psilocybe atlantis
 
 **Psilocybe atlantis** is a rare [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*** — the type species, described by Heim from Mexico
 - ***Psilocybe galindoi*** — described from Mexico

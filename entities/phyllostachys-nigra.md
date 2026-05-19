@@ -23,15 +23,12 @@ sources:
   - Ohrnberger, D. (1999). "The Bamboos of the World." Elsevier Science.
   - Banik, R.L. (2015). "Bamboo Silviculture." INBAR Technical Report No. 39.
   - Liese, W. & Köhl, M. (2015). "Bamboo: The Plant and its Uses." Springer.
-  - https://www.gbif.org/species/4110211
 aliases:
   - Black Bamboo
   - Purple Bamboo
   - Kuro-chiku
   - Moso-chikyu
----
-
-## Overview
+---# Overview
 
 **Phyllostachys nigra** is a running bamboo species native to the Hunan and Jiangxi provinces of southern China, renowned for the striking dark purple-to-black coloration of its mature culms. It is one of the most widely recognized ornamental bamboos globally, prized for its dramatic color contrast against green foliage and its elegant, arching habit.
 

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Halotolerant and Halophilic Fungi
+---# Halotolerant and Halophilic Fungi
 
 Halotolerant and halophilic fungi are capable of growing in
 environments with elevated salt concentrations. These organisms

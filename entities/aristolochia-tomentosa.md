@@ -12,11 +12,9 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Wanke, A. et al. (2006). "Systematics of the Aristolochiaceae — a molecular phylogenetic approach." Botanical Journal of the Linnean Society, 151(1), 105–118.
-  - Pfeifer, H.W. (1970). "A revision of the [[guzman-magic-mushrooms-chemical-constituents]] of Aristolochia species." Natural Product Communications, 2(10), 1001–1004.
+  - Pfeifer, H.W. (1970). "A revision of the  of Aristolochia species." Natural Product Communications, 2(10), 1001–1004.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[halpern-sacramental-peyote-and-native-american-church]] and folk medicine, and it remains a popular ornamental vine for butterfly gardens.
----
-
-The common name "woolly pipevine" refers to the dense pubescence covering all above-ground parts. "Dutchman's-pipe" describes the shape of the flower, which resembles a meerschaum smoking pipe.
+---he common name "woolly pipevine" refers to the dense pubescence covering all above-ground parts. "Dutchman's-pipe" describes the shape of the flower, which resembles a meerschaum smoking pipe.
 
 ## Taxonomy and Morphology
 

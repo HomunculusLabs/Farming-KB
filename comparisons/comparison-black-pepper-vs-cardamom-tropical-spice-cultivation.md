@@ -11,13 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/3/x5738e/x5738e06.htm
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/piper-nigrum
-  - https://www.icar-india.org/spices/cardamom-production-technology
   - Parry, J.W. (1969). *Spices: Their Morphology, Histology and Chemistry*. Chemical Publishing Company.
----
-
-## Overview
+---# Overview
 
 Black pepper (*[[irrigation-systems]] are increasingly adopted in commercial pepper plantations in India, Vietnam, and Indonesia. Mulching the root zone with dried leaves or coconut coir also helps retain soil moisture between rainfall events.
 

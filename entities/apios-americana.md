@@ -10,7 +10,7 @@ tags:
   - edible-tuber
   - native-american
   - permaculture
-  - [[food-forest]]
+  - food-forest
   - medicinal
   - groundnut
   - hopniss
@@ -29,7 +29,6 @@ sources:
 chains of edible tubers along its root system that are rich in protein and starch,
 making it one of the most promising underutilized perennial food crops for
 temperate permaculture and food-forest systems.
----
 
 The species played a significant role in the diet of indigenous peoples of eastern
 [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. *A. americana* is the

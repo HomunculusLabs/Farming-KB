@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Saprotroph-Mycorrhizal Interactions in Litter Decomposition
+---# Saprotroph-Mycorrhizal Interactions in Litter Decomposition
 
 The interactions between saprotrophic and mycorrhizal fungi in the
 decomposition of leaf litter represent a critical but poorly understood

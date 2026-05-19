@@ -13,13 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubchem.ncbi.nlm.nih.gov/compound/Tetrahydrocannabinol-acetate
   - Adams, R. et al. (1949). "Structure of Cannabinols." Journal of the American Chemical Society.
   - Hazekamp, A. et al. (2022). "Cannabinoid Chemistry." European Journal of Chemistry.
   - DEA Drug and Chemical Evaluation: THC-O (2022)
----
-
-## THC-O Acetate (THC-O, THC Acetate)
+---# THC-O Acetate (THC-O, THC Acetate)
 
 **THC-O acetate** (systematically **tetrahydrocannabinol acetate ester**), commonly abbreviated **THC-O**, **THC-O-acetate**, or **THCOA**, is a semi-synthetic cannabinoid derivative produced by acetylating delta-9-tetrahydrocannabinol (Δ⁹-THC). It is significantly more potent than THC itself and exists in a legal gray area in many jurisdictions due to its derivation from hemp-sourced cannabinoid precursors.
 

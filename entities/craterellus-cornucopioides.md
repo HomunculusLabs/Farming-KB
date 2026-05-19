@@ -13,13 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mycobank.org/Biolomics.aspx?Table=Craterellus&Rec=802&Fields=All
-  - https://www.first-nature.com/fungi/craterellus-cornucopioides.php
   - Arora, D. (1986). Mushrooms Demystified. Ten Speed Press.
   - Kuo, M. (2024). "Craterellus cornucopioides." MushroomExpert.com
----
-
-## Craterellus cornucopioides (Black Trumpet)
+---# Craterellus cornucopioides (Black Trumpet)
 
 ## Overview
 

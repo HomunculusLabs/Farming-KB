@@ -10,10 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-## Sequestrate Fungi Evolution
+--- Sequestrate Fungi Evolution
 Sequestrate fungi, including true and false truffles, represent one
 of the most remarkable examples of convergent evolution in the
 [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] do

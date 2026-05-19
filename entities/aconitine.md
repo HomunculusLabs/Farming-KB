@@ -15,14 +15,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=aconitine+pharmacology+toxicology+review
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546538/
-  - https://www.frontiersin.org/articles/10.3389/fphar.2019.01459/full
   - Chan, T.Y. (2016). "Aconitine poisoning: a global perspective." Clinical Toxicology, 54(1), 7-16.
   - Ameri, A. (1998). "The effects of aconitum alkaloids on the central nervous system." Progress in Neurobiology, 56(2), 211-235.
----
-
-## Aconitine
+---# Aconitine
 
 ## Overview
 

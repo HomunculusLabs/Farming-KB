@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
----
-
-## Foliar Application of Compost Tea
+---# Foliar Application of Compost Tea
 
 Foliar application of [[plant-nutrient-uptake-mechanisms]] through
 stomatal opening, and [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]

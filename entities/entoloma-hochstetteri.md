@@ -18,12 +18,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Entoloma_hochstetteri
-  - https://www.landcareresearch.co.nz/science/plants-fungi-and-bacteria/fungi/entoloma-hochstetteri
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4587895
----
-
-## Entoloma hochstetteri
+---# Entoloma hochstetteri
 
 ## Overview
 Entoloma hochstetteri is a species of mushroom in the family Entolomataceae, notable for its striking all-blue coloration.

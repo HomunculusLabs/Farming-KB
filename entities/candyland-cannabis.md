@@ -14,12 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/candyland/info
-  - https://allbud.com/marijuana-strains/sativa-dominant/candyland
   - https://www.wikileaf.com/strain/candyland/
----
-
-## Candyland
+---# Candyland
 
 **Candyland** is a sativa-dominant hybrid [[cannabis-terpene-profile]] and clear-headed, energizing effects. A cross between **[[cannabis-glandular-trichome-types-resin-production-clarke]] and cookie-dough terpenes of its Platinum Cookies lineage. The result is a visually striking strain that delivers an uplifting, functional high suitable for daytime creative work and social activities.
 

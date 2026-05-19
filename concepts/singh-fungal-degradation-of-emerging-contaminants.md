@@ -5,11 +5,9 @@ tags: [emerging-contaminants, pharmaceuticals, PFAS, microplastics]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Degradation of Emerging Contaminants
+---# Fungal Degradation of Emerging Contaminants
 
 Emerging contaminants represent a diverse and rapidly expanding class of
 environmental pollutants that includes pharmaceuticals, personal care

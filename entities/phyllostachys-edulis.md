@@ -17,15 +17,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Phyllostachys_edulis
-  - https://www.kew.org/plants/phyllostachys-edulis
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/phyllostachys-edulis
-  - https://www.bamboo-technical.org/created: 2026-05-07
+ 2026-05-07
 
 created: 2026-05-07
----
-
-## Phyllostachys edulis
+---# Phyllostachys edulis
 
 **Moso bamboo**, **Mao bamboo**, **Chinese timber bamboo**
 

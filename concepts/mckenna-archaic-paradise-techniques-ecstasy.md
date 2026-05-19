@@ -3,9 +3,8 @@ title: Mckenna Archaic Paradise Techniques Ecstasy
 created: 2026-04-28
 tags:
   - entheogen
-  - [[mckenna-collective-gnosis-epigenetic-evolution-symbolic-storage]] lay behind the faith of earlier
+  - mckenna-collective-gnosis-epigenetic-evolution-symbolic-storage lay behind the faith of earlier
 centuries in "universal truths" and common human values.
----
 
 Shamanism is the practice of the Upper Paleolithic tradition of healing,
 divination, and cultural management. For perhaps one hundred thousand

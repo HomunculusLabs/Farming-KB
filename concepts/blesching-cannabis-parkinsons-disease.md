@@ -5,11 +5,9 @@ tags: [cannabis, parkinsons, neurodegenerative, cbd, endocannabinoid]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Parkinson's Disease
+---# Cannabis and Parkinson's Disease
 
 Parkinson's disease (PD) is a progressive neurodegenerative disorder
 characterized by the loss of dopaminergic neurons in the substantia nigra,

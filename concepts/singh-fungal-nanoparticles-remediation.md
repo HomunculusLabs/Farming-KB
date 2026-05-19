@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Nanoparticles for Environmental Remediation
+---# Fungal Nanoparticles for Environmental Remediation
 
 Fungal-mediated synthesis of nanoparticles represents a convergence of
 mycology and nanotechnology, offering an eco-friendly ("green") route to

@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/gaias-garden-toby-hemenway.md
 type: concept
----
-
-## Mulch Makers and Plant Functional Roles
+---# Mulch Makers and Plant Functional Roles
 
 Toby Hemenway organizes plants not by species or appearance but
 by the ecological roles they play in the garden. This functional

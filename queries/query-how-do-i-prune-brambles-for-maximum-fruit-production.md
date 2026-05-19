@@ -17,13 +17,8 @@ type: query
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://extension.umn.edu/fruit/growing-raspberries-and-blackberries
-  - https://extension.psu.edu/pruning-brambles
-  - https://catalog.extension.oregonstate.edu/em8903
   - https://www.gardening.cornell.edu/home-gardening/fruit-growing-guides/
----
-
-## How Do I Prune Brambles for Maximum Fruit Production
+---# How Do I Prune Brambles for Maximum Fruit Production
 
 Pruning is the single most impactful practice for maximizing bramble yield and fruit quality. Neglected brambles produce tangled, shaded canopies with small, disease-prone berries. A properly pruned bramble planting can yield 2–3× more high-quality fruit than an unmanaged one. This guide covers the pruning systems for all major bramble types.
 

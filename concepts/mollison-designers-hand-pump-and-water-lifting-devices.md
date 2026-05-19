@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Hand Pump and Water Lifting Devices
+---# Hand Pump and Water Lifting Devices
 
 [[permaculture]]: A Designers' Manual. He presents these technologies as
 essential for integrate-rather-than-segregate sucked from above. This distinction is critical for well and

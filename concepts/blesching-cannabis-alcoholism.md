@@ -5,11 +5,9 @@ tags: [cannabis, alcoholism, addiction, substitution, harm-reduction]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Alcohol Dependence
+---# Cannabis and Alcohol Dependence
 
 [[cannabis-for-alcohol-dependence]], with many
   reporting decreased alcohol consumption

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Aquatic Edge and Planted Wetland Design
+---# Aquatic Edge and Planted Wetland Design
 
 [[mollison-designers-mixed-orchard-design-species-selection]] benefits from water
   retention and microclimate moderation near ponds

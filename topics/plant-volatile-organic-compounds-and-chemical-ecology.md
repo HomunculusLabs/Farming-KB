@@ -4,14 +4,8 @@ tags: [botany, chemical-ecology, plant-communication, VOCs, secondary-metabolite
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1146/annurev.arplant.043008.092019
-  - https://doi.org/10.1038/nature03254
-  - https://doi.org/10.1146/annurev-ento-011613-162054
-  - https://doi.org/10.1111/nph.16464
   - https://doi.org/10.1146/annurev-phyto-082712-102339
----
-
-## Plant Volatile Organic Compounds and Chemical Ecology
+---# Plant Volatile Organic Compounds and Chemical Ecology
 
 ## Overview
 

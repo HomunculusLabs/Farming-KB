@@ -9,13 +9,12 @@ tags:
   - spirituality
   - tourism
   - western-culture
-  - [[ayahuasca-tourism-western-seekers-and-integration]] have pursued alternative spiritual traditions
+  - ayahuasca-tourism-western-seekers-and-integration have pursued alternative spiritual traditions
 outside their Judeo-Christian heritage for decades, each
 generation gravitating toward a different imported tradition.
 This chronological pattern reveals persistent cultural
 dissatisfaction with mainstream religion and an ongoing
 search for authentic spiritual experience.
----
 
 ## The Beat Generation and Zen Buddhism (1950s)
 

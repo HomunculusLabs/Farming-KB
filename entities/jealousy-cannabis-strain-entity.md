@@ -18,13 +18,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/jealousy
-  - https://www.allbud.com/marijuana-strains/hybrid/jealousy
-  - https://www.wikileaf.com/strain/jealousy/
   - https://potguide.com/strains/jealousy/
----
-
-## Jealousy (Cannabis Strain)
+---# Jealousy (Cannabis Strain)
 
 ## Overview
 

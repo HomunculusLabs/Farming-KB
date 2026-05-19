@@ -10,10 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-## Oomycete Phylogeny and Straminipile Relationships
+--- Oomycete Phylogeny and Straminipile Relationships
 The Oomycota (oomycetes) and related heterotrophic
 straminipiles were long classified as fungi based on their
 filamentous growth habit and ecological roles as decomposers

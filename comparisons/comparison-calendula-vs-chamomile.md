@@ -12,13 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=calendula+officinalis+wound+healing
-  - https://pubmed.ncbi.nlm.nih.gov/?term=matricaria+chamomilla+anti-inflammatory
-  - https://www.ema.europa.eu/en/documents/herbal-monograph
   - https://www.pfaf.org/
----
-
-## Calendula vs Chamomile
+---# Calendula vs Chamomile
 
 Calendula (*Calendula officinalis*) and chamomile (*[[calendula-officinalis]] — full calendula growing and medicine guide
 - [[permaculture-plants-medicinal-herbs-healing]] with different wound-healing approaches

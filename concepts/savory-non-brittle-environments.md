@@ -5,11 +5,9 @@ tags: [brittle-environments, ecology, ecosystem-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Non-Brittle Environments
+---# Non-Brittle Environments
 
 In [[query-can-fungi-break-down-plastic-pollution]] dead material, returning nutrients to
 the soil surface where they feed new plant growth. This process is

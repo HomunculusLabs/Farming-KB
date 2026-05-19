@@ -12,15 +12,13 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2023). "Chroogomphus rutilus." MushroomExpert.com.
-  - Miller, O.K. & Miller, H.H. (2006). growing-gourmet-north-american-reishi-species Mushrooms: A [[ectomycorrhizal-mushroom-fruiting-ecology]] in the family Gomphidiaceae (order
+  - Miller, O.K. & Miller, H.H. (2006). growing-gourmet-north-american-reishi-species Mushrooms: A  in the family Gomphidiaceae (order
 Boletales). It is easily recognized by its viscid, wine-red to orange-brown
 cap and its decurrent, grayish-purple gills that develop a distinctive
 cinnamon-brown color at maturity. The species is widely distributed across
 coniferous forests of the Northern Hemisphere and is commercially collected
 in parts of China and eastern Europe.
----
-
-Despite its colloquial grouping with "chanterelles" in some regional
+---espite its colloquial grouping with "chanterelles" in some regional
 foraging traditions, *C. rutilus* is not closely related to true chanterelles
 (Cantharellaceae) but is instead allied with boletes and gomphus-like fungi.
 Its edibility is well-established, though it is considered a secondary

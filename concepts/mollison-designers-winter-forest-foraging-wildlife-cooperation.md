@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Winter Forest Foraging and Wildlife Cooperation
+---# Winter Forest Foraging and Wildlife Cooperation
 
 Mollison's treatment of winter foraging in temperate forest systems emphasises
 cooperation between humans and wildlife rather than competition. By designing

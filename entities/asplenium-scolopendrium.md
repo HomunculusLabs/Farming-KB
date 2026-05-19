@@ -14,12 +14,10 @@ sources:
   - Reichstein, T. (1981). "Asplenium scolopendrium." Flora Europaea, Vol. 1.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Flora of [[guzman-psilocybin-mushrooms-north-america]], with disjunct populations suggesting an ancient Tertiary
+  - Flora of , with disjunct populations suggesting an ancient Tertiary
 lineage. It is strongly associated with limestone substrates and calcareous
 habitats.
----
-
-Hart's-tongue fern has a long history of medicinal use in European herbalism
+---art's-tongue fern has a long history of medicinal use in European herbalism
 and is widely cultivated as an ornamental plant. Several cultivars with
 crested or crisped frond margins are popular in shade gardens.
 

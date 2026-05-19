@@ -10,14 +10,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/faostat/en/#data/QCL (FAO saffron production statistics)
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7137436/ (Molina et al., 2020, "World saffron production and research")
-  - https://doi.org/10.1016/j.scienta.2018.12.069 (Gresta et al., 2008, "Saffron: Agronomic practices")
-  - https://www.uga.edu/extension (University extension guidance on Crocus sativus)
+ (FAO saffron production statistics)
+ (Molina et al., 2020, "World saffron production and research")
+ (Gresta et al., 2008, "Saffron: Agronomic practices")
+ (University extension guidance on Crocus sativus)
   - https://www.sciencedirect.com/journal/scientia-horticulturae (Scientia Horticulturae reviews)
----
-
-## Saffron Cultivation and Harvesting
+---# Saffron Cultivation and Harvesting
 
 Saffron (*Crocus sativus* L.) is the world's most expensive spice by weight, derived from the dried stigmas of the autumn-flowering saffron crocus. Each flower produces only three vivid crimson stigmas, and it takes approximately 150,000–200,000 flowers to yield one kilogram of dried saffron. This extraordinary labor intensity, combined with the crop's specific climatic requirements, confines commercial production to a relatively narrow band of Mediterranean and semi-arid regions worldwide.
 

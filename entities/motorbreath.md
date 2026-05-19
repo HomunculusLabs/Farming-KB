@@ -14,12 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/motorbreath
-  - https://www.allbud.com/marijuana-strains/indica-dominant/motorbreath
 created: 2026-04-28
----
-
-## Motorbreath
+---# Motorbreath
 
 ## Overview
 

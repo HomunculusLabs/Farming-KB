@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## The Telluride Mushroom Festival and Modern Mycological Culture
+---# The Telluride Mushroom Festival and Modern Mycological Culture
 
 The Telluride Mushroom Festival, held annually for twenty-five years
 in the small ski town of Telluride, high in the Rocky Mountains of

@@ -16,14 +16,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Physalis+peruviana
-  - https://en.wikipedia.org/wiki/Physalis_peruviana
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/physalis-peruvianacreated: 2026-05-07
+ 2026-05-07
 
 created: 2026-05-07
----
-
-## Physalis peruviana
+---# Physalis peruviana
 
 **Cape gooseberry**, **groundcherry**, **goldenberry**, **aguaymanto**, **poha berry**
 

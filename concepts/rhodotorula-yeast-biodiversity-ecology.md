@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Rhodotorula: Pink Yeast Biodiversity and Ecology
+---# Rhodotorula: Pink Yeast Biodiversity and Ecology
 
 Rhodotorula is a genus of [[biodiversity-yeast-diversity-ecology]]
 

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Climate Classification and Design Zones
+---# Climate Classification and Design Zones
 
 Climate is the primary determinant of [[cervantes-pest-disease-prevention-overview]]. In semiarid climates, every drop of rain must be captured
 and directed to productive use.

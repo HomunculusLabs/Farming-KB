@@ -15,13 +15,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1007/978-3-319-70784-0_8
-  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/ilex_vomitoria.shtml
-  - https://kew.org/science/collections/living-collections/ilex-paraguariensis
 type: query
----
-
-## What Are the Caffeine-Containing Plants and How Do I Grow Them?
+---# What Are the Caffeine-Containing Plants and How Do I Grow Them?
 
 ## The Main Caffeine Plants
 

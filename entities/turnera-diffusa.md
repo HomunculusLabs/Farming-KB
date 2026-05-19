@@ -20,12 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Turnera+diffusa+aphrodisiac+pharmacology
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6991576/
   - https://pfaf.org/user/Plant.aspx?LatinName=Turnera+diffusa
----
-
-## Turnera diffusa (Damiana)
+---# Turnera diffusa (Damiana)
 
 ## Overview
 

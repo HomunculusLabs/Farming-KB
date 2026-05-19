@@ -4,10 +4,9 @@ created: 2026-04-26
 tags:
   - wind-energy
   - renewable-energy
-  - [[holmgren-biomass-fuels-and-energy-yield-ratios]],
+  - holmgren-biomass-fuels-and-energy-yield-ratios,
 permaculture-emergy-accounting,
 permaculture-energy-systems.
----
 ## Practical Applications
 
 Wind Power and the Renewable Energy Debate has a range of practical applications that make it relevant to

@@ -12,17 +12,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1111/j.1365-3180.2007.00593.x (Matthiessen & Kirkegaard, 2006, Biofumigation and Biocontrol)
-  - https://doi.org/10.1007/978-3-030-71797-2 (Biofumigation: Mechanisms and Applications, 2021)
-  - https://www.sare.org/publications/cover-crop-technical-note-biofumigation/
-  - https://doi.org/10.1111/j.1365-2338.2009.02310.x (Hansson et al., 2008, Verticillium suppression)
-  - https://www.extension.purdue.edu/extmedia/AY/AY-344-W.pdf (Purdue Extension, Biofumigation)
-  - https://doi.org/10.1016/j.cropro.2020.105427 (Dutka et al., 2020, cover crop biofumigation review)
-  - https://www.ars.usda.gov/research/publications/publication/?seqNo115=376474 (USDA ARS Biofumigation Research)
+ (Matthiessen & Kirkegaard, 2006, Biofumigation and Biocontrol)
+ (Biofumigation: Mechanisms and Applications, 2021)
+ (Hansson et al., 2008, Verticillium suppression)
+ (Purdue Extension, Biofumigation)
+ (Dutka et al., 2020, cover crop biofumigation review)
+ (USDA ARS Biofumigation Research)
   - https://www.organicagcentre.ca/PracticalFiles/Biofumigation.pdf (OACC Biofumigation Factsheet)
----
-
-## Biofumigation and Brassica Cover Crops for Soil-Borne Pest Management
+---# Biofumigation and Brassica Cover Crops for Soil-Borne Pest Management
 
 ## Overview
 

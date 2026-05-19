@@ -17,12 +17,8 @@ updated: 2026-05-02
 related_concepts:
   - [[pyridoxal-phosphate-coenzyme-chemistry]]
 sources:
-  - https://pubchem.ncbi.nlm.nih.gov/compound/1053
-  - https://en.wikipedia.org/wiki/Pyridoxamine
 tags: [profile]
----
-
-## Pyridoxamine Phosphate
+---# Pyridoxamine Phosphate
 
 Pyridoxamine phosphate is the aminated phosphate form of vitamin B6.
 It is usually abbreviated PMP in enzyme-mechanism literature.

@@ -4,15 +4,11 @@ tags: [scented-geraniums, pelargonium, edible-flowers, companion-planting, culin
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Pelargonium+graveolens
-  - https://www.rhs.org.uk/plants/192366/pelargonium-graveolens/details
-  - https://extension.oregonstate.edu/news/edible-flowerscreated: 2026-05-07
+ 2026-05-07
 type: comparison
 
 created: 2026-05-07
----
-
-## Scented Geraniums vs Edible Flowers
+---# Scented Geraniums vs Edible Flowers
 
 Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, flavor, and pollinator value to the garden—but they serve distinctly different roles. This comparison helps growers choose when to prioritize one over the other, or how to combine both for maximum garden impact.
 

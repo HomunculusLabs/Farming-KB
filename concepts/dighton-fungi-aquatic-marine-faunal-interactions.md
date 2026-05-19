@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungi in Aquatic and Marine Faunal Interactions
+---# Fungi in Aquatic and Marine Faunal Interactions
 
 [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] range
 from mutualistic associations that enhance animal nutrition to pathogenic

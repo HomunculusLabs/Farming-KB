@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Passive Solar Building Design
+---# Passive Solar Building Design
 
 Passive solar building design uses the energy of the sun to heat, cool, and
 light structures without mechanical systems. [[phase-change-materials-thermal-energy-storage]] in high-density

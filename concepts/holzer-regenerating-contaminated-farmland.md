@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## Holzer Regenerating Contaminated Farmland
+---# Holzer Regenerating Contaminated Farmland
 
 When farmers decide to become self-sufficient, they must heal ground
 contaminated by decades of artificial fertilisers and pesticides. Every

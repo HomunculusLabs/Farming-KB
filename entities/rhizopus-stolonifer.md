@@ -17,16 +17,12 @@ tags:
   - food-spoilage
   - saprotroph
 sources:
-  - https://en.wikipedia.org/wiki/Rhizopus_stolonifer
-  - https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4846
 related_concepts:
   - [[mushroom-cultivation]]-pests-and-contamination
   - [[spore-syringe-production]]
   - [[accessible-mushroom-cultivation-for-disabilities]] it matters because its fast, cottony growth can overrun grain, agar, or moist substrates.
 The species is also an important decomposer of stored foods, fruits, vegetables, and other nutrient-rich materials.
----
-
-## Taxonomic position
+---# Taxonomic position
 
 **Kingdom:** Fungi.
 **Phylum:** Mucoromycota in many modern treatments; historically grouped with Zygomycota.

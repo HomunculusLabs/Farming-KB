@@ -9,9 +9,8 @@ tags:
   - russula
   - edible-mushroom
   - mycorrhizal
-  - [[jarrold-boil-a-bag-mushroom-cultivation-method]] in the family Russulaceae.
+  - jarrold-boil-a-bag-mushroom-cultivation-method in the family Russulaceae.
 It is one of the most widely consumed wild Russula species in [[emcdda-psilocybin-mushroom-species-and-identification]].
----
 
 The species was originally described by Elias Magnus Fries in 1836.
 It is a member of the large genus *Russula*, which contains over 750 species

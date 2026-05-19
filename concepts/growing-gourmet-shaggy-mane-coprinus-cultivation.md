@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Shaggy Mane Cultivation ([[comparison-grain-spawn-vs-grain-to-grain-transfer]] can be created with
+---# Shaggy Mane Cultivation ([[comparison-grain-spawn-vs-grain-to-grain-transfer]] can be created with
 ease. Grain spawn is directly inoculated into pasteurized,
 supplemented straw-based composts. Hardwood [[falconer-horse-manure-varieties]], mixed with straw or
 sawdust, are also ideal. Shaggy Manes wander, often fruiting

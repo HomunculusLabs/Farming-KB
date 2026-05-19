@@ -5,11 +5,9 @@ tags: [agriculture, parapsychology, alternative-medicine, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/tompkins-secret-life-of-plants.md
+  - raw/papers/tompkins-secret-life-of-plants.md
 type: concept
----
-
-## Radionic Agriculture and Pesticide Alternatives
+---# Radionic Agriculture and Pesticide Alternatives
 
 Radionics is a controversial field that proposes that disease in plants,
 animals, and humans can be diagnosed and treated through the detection

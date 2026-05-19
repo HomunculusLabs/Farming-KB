@@ -21,7 +21,6 @@ sources:
   - "Jensen, E.S. et al. (2010). \"Grain legume-cereal intercropping: The practical application of diversity.\" Field Crops Research 115(3): 185-195."
   - "Sprent, J.I. (2009). \"Legume Nodulation: A Global Perspective.\" Wiley-Blackwell."
   - "Trewavas, A. (2004). \"A critical assessment of organic farming-and-food assertions.\" Crop Protection 23(8): 757-781."
-  - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:559903-1"
 aliases:
   - Garden Pea
   - Field Pea
@@ -30,9 +29,7 @@ aliases:
   - Erbse
   - Pois
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 **Pisum sativum**, the garden or field pea, is an annual herbaceous plant in the family Fabaceae, native to the Mediterranean basin and Near East.
 

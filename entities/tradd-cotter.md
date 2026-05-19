@@ -10,16 +10,13 @@ aliases:
   - Mushroom Mountain founder
 tags: [person, mycology, mushroom-cultivation, mycoremediation, education]
 sources:
-  - https://www.chelseagreen.com/product/organic-mushroom-farming-and-mycoremediation/
   - concepts/cotter-laboratory-setup.md
   - concepts/mushroom-classroom-education-demos.md
   - concepts/mushroom-infused-honey-preparation.md
   - concepts/mushroom-infused-beer-brewing-principles.md
   - concepts/cardboard-cultivation-low-tech-spawn.md
 status: complete
----
-
-## Tradd Cotter
+---# Tradd Cotter
 
 ## Overview
 

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Pond Edge Configuration and Yield Maximisation
+---# Pond Edge Configuration and Yield Maximisation
 
 A pond can act as a mirror, a heat store, a run-off area, a cleanser of
 pollutants, a transport system, a fire barrier, a recreation asset, an

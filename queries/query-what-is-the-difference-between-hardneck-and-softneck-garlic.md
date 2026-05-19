@@ -5,14 +5,12 @@ tags: [query, garlic, varieties, cultivation, alliums]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ~/wiki/concepts/garlic-growing-guide.md
-  - ~/wiki/entities/allium-sativum-entity.md
-  - ~/wiki/concepts/growing-alliums-organically.md
-  - ~/wiki/concepts/solomon-growing-garlic-onions-leeks.md
+  - concepts/garlic-growing-guide.md
+  - entities/allium-sativum-entity.md
+  - concepts/growing-alliums-organically.md
+  - concepts/solomon-growing-garlic-onions-leeks.md
 type: query
----
-
-## What Is the Difference Between Hardneck and Softneck Garlic?
+---# What Is the Difference Between Hardneck and Softneck Garlic?
 
 ## Short Answer
 

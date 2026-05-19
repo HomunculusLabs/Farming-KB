@@ -13,13 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Hemp
-  - https://www.cannabis.ca.gov/resources/types-of-cannabis/
   - Callaway, J.C. (2004). "Hempseed as a nutritional resource." European Journal of Lipid Science and Technology, 106(7), 476-488.
   - Andre, C.M. et al. (2016). "Hemp (*comparison-cannabis-sativa-vs-cannabis-indica* L.) and its specific compounds." European Journal of Agronomy, 76, 20-43.
   - European Industrial Hemp Association (EIHA) crop variety database
----
-## Carmagnola
+--- Carmagnola
 
 **Carmagnola** is an Italian **fiber-type hemp (*Canapa sativa*)** cultivar (landrace) originating from the Piedmont region of northern Italy, specifically the area around the town of Carmagnola in the province of Turin. It is one of the most historically significant and genetically distinct European hemp varieties, valued for its dual-purpose fiber and [[blesching-cannabis-sativa-indica-classification]]* L.
 - **Subtype:** Fiber hemp (industrial hemp) — Group I (low THC)

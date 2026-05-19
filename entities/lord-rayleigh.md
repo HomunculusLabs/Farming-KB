@@ -17,8 +17,6 @@ fields:
   - [[what-a-plant-knows-plant-mechanosensation-touch-response]]-research-context
   - nobel-prize
 sources:
-  - https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh
-  - https://www.nobelprize.org/prizes/physics/1904/rayleigh/biographical/
 related_concepts:
   - [[jagadis-chandra-bose]] studied there.
 Bose's Cambridge training placed him inside elite British experimental physics.
@@ -30,9 +28,7 @@ Rayleigh also consoled Bose during opposition to his plant-response work.
 In that context Rayleigh appears as a senior scientist recognizing difficult novelty.
 His presence helps connect Bose's plant physiology to mainstream physics.
 The link is important because Bose's work crossed disciplinary boundaries.
----
-
-## Positions and Institutions
+---# Positions and Institutions
 
 - Cavendish Professor of Physics at the University of Cambridge from 1879.
 - Professor of Natural Philosophy at the Royal Institution from 1887 to 1905.

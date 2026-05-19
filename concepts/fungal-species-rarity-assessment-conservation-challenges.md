@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Fungal Species Rarity Assessment and Conservation Challenges
+---# Fungal Species Rarity Assessment and Conservation Challenges
 
 Assessing rarity and conservation status in fungi presents unique
 challenges that differ fundamentally from those facing plant and animal

@@ -19,12 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mushroomexpert.com/clitopilus_prunulus.html
-  - https://www.first-nature.com/fungi/clitopilus-prunulus.php
   - https://en.wikipedia.org/wiki/Clitopilus_prunulus
----
-
-## Clitopilus prunulus
+---# Clitopilus prunulus
 
 ## Overview
 

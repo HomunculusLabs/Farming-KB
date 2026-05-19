@@ -11,14 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Diospyros+virginiana
-  - https://www.crfg.org/pubs/ff/persimmon.html
-  - https://extension.uga.edu/publications/detail.html?number=C1061
-  - https://www.starkbros.com/growing-guide/article/fruit/persimmon
   - https://www.gardeningknowhow.com/edible/fruits/persimmon/growing-persimmon-trees.htm
----
-
-## Persimmon Cultivation and Variety Guide
+---# Persimmon Cultivation and Variety Guide
 
 Persimmons (genus *Diospyros*) are among the most underappreciated fruit [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]] and home orchards. They produce abundant, sweet, nutrient-dense fruit with minimal care, resist most [[mushroom-pests-and-diseases]], and thrive across a wide range of climates. The two species most relevant to growers in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] are the Asian persimmon (*[[diospyros-kaki]]*) and the American persimmon (*D. virginiana*). A third species, the date plum (*D. lotus*), serves primarily as a rootstock.
 

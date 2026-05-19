@@ -4,14 +4,8 @@ tags: [mycology, biomanufacturing, materials-science, sustainability, biomateria
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.nature.com/articles/s41565-019-0490-5
-  - https://doi.org/10.1016/j.matdes.2021.109590
-  - https://www.ecovative.com/research
-  - https://pubmed.ncbi.nlm.nih.gov/35282264/
   - https://link.springer.com/article/10.1007/s10529-020-02911-y
----
-
-## Mycelium Materials and Fungal Biomanufacturing
+---# Mycelium Materials and Fungal Biomanufacturing
 
 ## Introduction
 

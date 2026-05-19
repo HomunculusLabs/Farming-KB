@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Air Pollution and Fungal Community Responses
+---# Air Pollution and Fungal Community Responses
 
 Air pollution represents one of the most significant anthropogenic
 drivers of change in fungal communities, affecting species composition,

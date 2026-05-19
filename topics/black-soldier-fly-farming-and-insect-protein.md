@@ -10,16 +10,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/edible-insects/en/
-  - https://doi.org/10.1016/j.jcs.2021.103328
-  - https://www.sciencedirect.com/journal/journal-of-insects-as-food-and-feed
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8724076/
-  - https://www.researchgate.net/publication/340774517_Black_Soldier_Fly_Hermetia_illucens_L_as_Feed_Ingredient
-  - https://www.sciencedirect.com/journal/waste-management
   - Barragan-Fonseca KB, Dicke M, van Loon JJA. "Nutritional value of the black soldier fly and its suitability as animal feed." Journal of Insects as Food and Feed, 2017.
----
-
-## Black Soldier Fly Farming and Insect Protein
+---# Black Soldier Fly Farming and Insect Protein
 
 ## Overview
 

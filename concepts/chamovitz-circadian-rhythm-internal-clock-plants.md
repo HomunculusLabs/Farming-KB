@@ -10,14 +10,13 @@ tags:
   - TOC1
   - gene-expression
   - photosynthesis
-  - [[daniel-chamovitz]] explores how this circadian clock operates as a
+  - daniel-chamovitz explores how this circadian clock operates as a
 form of [[plant-circadian-rhythms]] were
 documented. The daily movements of plant leaves, described by Androsthenes
 in the fourth century BCE when he observed tamarind leaves moving up and
 down each day, represent one of the oldest known examples of circadian
 behavior. Linnaeus later catalogued flowers opening and closing at specific
 times, creating floral clocks that could predict the time of day.
----
 
 ## The Molecular Architecture: CCA1, LHY, and TOC1
 

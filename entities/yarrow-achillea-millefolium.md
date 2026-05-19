@@ -12,17 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Achillea+millefolium
-  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/achillea_millefolium.shtml
-  - https://www.ars-grin.gov/dubbo/cabinauth/1060.html
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/achillea-millefolium
-  - https://www.ncbi.nlm.nih.gov/books/NBK536695/
-  - https://www.mdpi.com/1420-3049/26/7/1929
-  - https://www.ecosia.org/search?q=achillea+millefolium+medicinal+review
 created: 2026-04-28
----
-
-## Yarrow (Achillea millefolium)
+---# Yarrow (Achillea millefolium)
 
 ## Overview
 

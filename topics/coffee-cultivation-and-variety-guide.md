@@ -5,22 +5,20 @@ tags: [coffee, cultivation, arabica, robusta, agroforestry, shade-grown, coffee-
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - ~/wiki/concepts/bloomfield-coffee-rust-and-crop-pathogens.md
-  - ~/wiki/concepts/mckenna-caffeine-coffee-and-industrial-revolution.md
-  - ~/wiki/concepts/mckenna-food-gods-tea-coffee-drugs-gentility.md
-  - ~/wiki/concepts/mckenna-sugar-coffee-tea-chocolate.md
-  - ~/wiki/concepts/mollison-designers-coffee-shade-growing-systems.md
-  - ~/wiki/concepts/mollison-designers-shade-grown-coffee-and-cacao-systems.md
-  - ~/wiki/concepts/oyster-mushroom-coffee-grounds-cultivation.md
+  - concepts/bloomfield-coffee-rust-and-crop-pathogens.md
+  - concepts/mckenna-caffeine-coffee-and-industrial-revolution.md
+  - concepts/mckenna-food-gods-tea-coffee-drugs-gentility.md
+  - concepts/mckenna-sugar-coffee-tea-chocolate.md
+  - concepts/mollison-designers-coffee-shade-growing-systems.md
+  - concepts/mollison-designers-shade-grown-coffee-and-cacao-systems.md
+  - concepts/oyster-mushroom-coffee-grounds-cultivation.md
 related_concepts:
   - agroforestry-and-alley-cropping
   - carbon-farming-and-climate-resilient-agriculture
   - composting-and-soil-biology
   - permaculture-design-principles
   - forest-gardening-and-food-forests
----
-
-## Coffee Cultivation and Variety Guide
+---# Coffee Cultivation and Variety Guide
 
 Coffee is one of the most widely traded agricultural commodities on Earth,
 second only to crude oil in the value of global trade. The brewed beverage

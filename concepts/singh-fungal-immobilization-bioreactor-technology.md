@@ -10,10 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
----
-## Fungal Immobilization and Bioreactor Technology
+--- Fungal Immobilization and Bioreactor Technology
 Immobilization of [[fungal-enzymes-in-decomposition]] represents a key
 strategy for developing practical, continuous bioremediation systems.
 By confining fungal cells or their [[enzymatic-degradation-in-mycoremediation]].

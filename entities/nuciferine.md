@@ -17,11 +17,9 @@ sources:
   - Yang S.C. et al. (2005). "Neuromodulatory effect of nuciferine on dopaminergic neurons." Neuroscience Letters 383(1–2): 13–17.
   - Ducki S. (2013). "Anticancer alkaloids from Amaryllidaceae and other plant families." In: Ramawat K.G., Mériton J.M. (eds), Natural Products. Springer.
   - Ma G. et al. (2015). "Nuciferine induces apoptosis in cancer cells." Biochemical and Biophysical Research Communications 458(4): 868–873.
-  - Paton D.M. et al. (2018). "Aporphine alkaloids: pharmacology and [[nelumbo-nucifera]]* (sacred lotus). It occurs in the leaves, seeds, and
+  - Paton D.M. et al. (2018). "Aporphine alkaloids: pharmacology and * (sacred lotus). It occurs in the leaves, seeds, and
 embryos of the plant at concentrations of 0.02–0.06% dry weight.
----
-
-The compound has attracted pharmacological interest for its complex
+---he compound has attracted pharmacological interest for its complex
 receptor profile, acting as a partial agonist at dopamine D2 and D3
 receptors and a serotonin 5-HT2A receptor antagonist. Despite structural
 similarity to classical aporphine alkaloids like apomorphine, nuciferine

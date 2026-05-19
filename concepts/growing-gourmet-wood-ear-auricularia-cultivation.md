@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Wood Ear Mushroom Cultivation ([[dmt-containing-plants-united-states-halpern]], rosy to reddish brown and minutely
+---# Wood Ear Mushroom Cultivation ([[dmt-containing-plants-united-states-halpern]], rosy to reddish brown and minutely
 hairy. Strains of A. auricula and A. polytricha are often
 mislabelled due to difficulty separating these taxa.
 

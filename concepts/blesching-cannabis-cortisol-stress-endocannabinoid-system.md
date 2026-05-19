@@ -5,11 +5,9 @@ tags: [cortisol, stress, hpa-axis, endocannabinoid-system, psychoneuroimmunology
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cortisol, Stress, and the Endocannabinoid System
+---# Cortisol, Stress, and the Endocannabinoid System
 
 Cortisol is the body's primary [[uwe-blesching]] provides a detailed examination of how
 the blesching [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] Topics

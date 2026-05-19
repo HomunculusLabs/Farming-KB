@@ -6,15 +6,12 @@ aliases: [reactive metabolites, bioactivation, metabolic activation, covalent bi
 tags: [toxicology, pharmacology, drug-metabolism, biochemistry, medicinal-chemistry]
 date: 2026-05-02
 sources:
-  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4707670/"
-  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8716317/"
 related:
   - cytochrome-p450-enzymes-drug-metabolism
   - phase-ii-conjugation-reactions-drug-metabolism
   - reactive-oxygen-species-and-oxidative-stress
 type: concept
----
-## Overview
+--- Overview
 Reactive metabolites are short-lived electrophilic or radical species formed when normal
 [[phase-ii-conjugation-reactions-drug-metabolism]] can either detoxify or activate.
 Sulfation of benzylic alcohols may create unstable sulfate esters, and acyl glucuronides

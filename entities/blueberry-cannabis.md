@@ -13,13 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/blueberry
-  - https://www.allbud.com/marijuana-strains/indica/blueberry
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. UC Press.
   - https://www.wikileaf.com/strain/blueberry/
----
-
-## Blueberry
+---# Blueberry
 
 **DJ Short's Blueberry** | **Blueberry Kush** (when crossed with OG)
 

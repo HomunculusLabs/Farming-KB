@@ -12,13 +12,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=papaver+somniferum+alkaloid+biosynthesis
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6479678/
   - Booth, M. (1999). Opium: A History. St. Martin's Griffin.
   - UNODC World Drug Report 2025
----
-
-## Papaver somniferum (Opium Poppy)
+---# Papaver somniferum (Opium Poppy)
 
 ## Overview
 

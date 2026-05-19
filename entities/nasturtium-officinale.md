@@ -17,14 +17,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Nasturtium+officinale+review+health+benefits
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678931/
-  - https://www.frontiersin.org/articles/10.3389/fphar.2019.01190/full
-  - https://pfaf.org/user/Plant.aspx?LatinName=Nasturtium+officinale
   - USDA Natural Resources Conservation Service: Nasturtium officinale plant profile
----
-
-## Nasturtium officinale (Watercress)
+---# Nasturtium officinale (Watercress)
 
 ## Overview
 

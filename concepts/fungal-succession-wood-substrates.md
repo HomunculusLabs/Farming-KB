@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Fungal Succession on Wood Substrates
+---# Fungal Succession on Wood Substrates
 
 Fungal succession on [[gadd-fungal-ecology-endophytes]], involving predictable sequences
 of fungal species that colonize, decompose, and replace each

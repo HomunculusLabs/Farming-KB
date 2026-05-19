@@ -5,11 +5,9 @@ tags: [soil-conditioners, compost, organic-gardening, hamilton, amendments]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Alternative Soil Conditioners in Organic Gardening
+---# Alternative Soil Conditioners in Organic Gardening
 
 Beyond [[query-how-do-fungi-improve-soil-structure]], add
 nutrients, and conserve moisture. While some have significant nutrient

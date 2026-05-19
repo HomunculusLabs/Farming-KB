@@ -13,11 +13,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vega-Gálvez A et al. (2010). "Nutritional aspects and health benefits of quinoa." Journal of Cereal Science 52(2): 229–233.
-  - Bazile D et al. (2016). "State of the Art Report on Quinoa [[guzman-psilocybin-mushrooms-south-america]]. It is cultivated
+  - Bazile D et al. (2016). "State of the Art Report on Quinoa . It is cultivated
 primarily for its edible seeds, which are consumed as a pseudo-cereal.
----
-
-Quinoa is notable for its exceptional nutritional profile. The seeds contain
+---uinoa is notable for its exceptional nutritional profile. The seeds contain
 all nine essential amino acids, making them a complete protein source rare
 among plant foods.
 

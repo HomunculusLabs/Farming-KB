@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Improved Night Vision
+---# Cannabis and Improved Night Vision
 
 An international team of researchers from the [[comparison-cannabis-sativa-vs-cannabis-indica]] mixed with
 tobacco ([[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]).

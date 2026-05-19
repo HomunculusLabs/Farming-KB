@@ -15,11 +15,9 @@ updated: 2026-04-28
 sources:
   - "Soule, J.A. (1993). \"Tagetes minuta: A Potential New Herb from guzman-psilocybin-mushrooms-south-america.\" In: New Crops, Wiley, 649–654."
   - "Vasudevan, P. et al. (1997). \"Tagetes: Multipurpose Marigolds.\" Economic Botany, 51(4), 393–398."
-  - "Marotti, M. et al. (2004). \"[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and biofumigation for pest and nematode control
+  - "Marotti, M. et al. (2004). \" and biofumigation for pest and nematode control
 in agricultural systems.
----
-
-## Taxonomy and Morphology
+---# Taxonomy and Morphology
 
 - **Kingdom:** Plantae
 - **Division:** Magnoliophyta

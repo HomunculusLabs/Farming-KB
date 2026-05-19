@@ -2,7 +2,7 @@
 title: "Gelato (Cannabis Strain)"
 type: strain
 tags:
-  - microbiome|strain]]-microbiome|cannabis]]
+  - microbiome|strain-microbiome|cannabis
   - indica-leaning-hybrid
   - dessert-strain
   - thc-dominant
@@ -16,7 +16,6 @@ sources:
   - "Green, G. (2017). The Cannabis Breeder's Bible. Green Candy Press."
   - "Leafly Strain Database: Gelato #33 profile and user reports."
   - "Mudge, E.M. et al. (2019). Phytochemical analysis of Cannabis sativa chemovars. J. Natural Products 82(8)."
----
 
 ## Gelato (Cannabis Strain)
 

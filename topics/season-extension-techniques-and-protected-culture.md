@@ -4,15 +4,9 @@ tags: [season-extension, protected-culture, cold-frames, greenhouses, high-tunne
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://extension.umn.edu/yard-and-garden-planning/season-extension-techniques
-  - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
-  - https://www.sare.org/publications/season-extension-techniques-for-market-gardeners/
-  - https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/technical/atlas/?cid=nrcseprd1338614
   - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. Chelsea Green, 2009.
   - Nearing, Helen and Scott. The Good Life. Schocken Books, 1970.
----
-
-## [[comparison-season-extension-techniques-vs-cold-frame-gardening]] is the practice of modifying the [[permaculture]] designer, season extension multiplies annual yield, reduces dependence on imported food, and builds resilience against erratic weather patterns driven by climate change.
+---# [[comparison-season-extension-techniques-vs-cold-frame-gardening]] is the practice of modifying the [[permaculture]] designer, season extension multiplies annual yield, reduces dependence on imported food, and builds resilience against erratic weather patterns driven by climate change.
 
 ## Principles of Season Extension
 

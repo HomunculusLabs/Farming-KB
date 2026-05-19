@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Mixed Orchard Design and Species Selection
+---# Mixed Orchard Design and Species Selection
 
 Bill Mollison's [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest confusion,
 [[free-range-poultry-forage-design-mollison]], and mulch -- all from

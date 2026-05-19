@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - raw/papers/eliot-coleman-winter-harvest-handbook.md
 type: concept
----
-
-## Seed Selection and Variety Trials
+---# Seed Selection and Variety Trials
 
 [[coleman-winter-harvesting-techniques]] in unheated greenhouses. Rather than accepting
 standard variety recommendations, he conducts ongoing trials to identify

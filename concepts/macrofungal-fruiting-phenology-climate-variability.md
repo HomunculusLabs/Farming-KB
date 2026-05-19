@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Macrofungal Fruiting Phenology and Climate Variability
+---# Macrofungal Fruiting Phenology and Climate Variability
 
 The fruiting phenology of macrofungi is profoundly influenced by
 climatic variables, making these organisms sensitive indicators of

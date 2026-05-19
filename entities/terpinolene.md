@@ -22,13 +22,11 @@ sources:
   - Tisserand, R. & Young, R. (2014). "permaculture-designers-manual-essential-oil-plants Safety." 2nd ed. Elsevier.
   - Rice, S. & Koziel, J.A. (2015). "The role of terpenes in cannabis." Journal of the American Society of Brewing Chemists 73(3): 231–240.
   - Guzmán-Gutiérrez, S.L. et al. (2012). "Antidepressant-like activity of comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap." Phytomedicine 19(2): 97–107.
-  - Do, T.K.D. et al. (2015). "[[chemical-composition-of-hallucinogens]] of [[comparison-cannabis-sativa-vs-cannabis-indica]], contributing complex
+  - Do, T.K.D. et al. (2015). " of , contributing complex
 piney, floral, herbal, and slightly fruity aroma notes. Terpinolene occurs
 naturally in lilac, tea tree, cumin, nutmeg, and apples, and is widely used
 in the flavor and fragrance industry.
----
-
-Despite being classified as one of the major [[sensi-star]].
+---espite being classified as one of the major [[sensi-star]].
 
 ## Chemical Properties
 

@@ -15,14 +15,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoID=175426
   - Kuo, M. (2024). "Suillus grevillei." MushroomExpert.com
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Suillus+grevillei+nutritional+bioactive
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754475/
   - Watling, R. (1970). "British Fungus Flora: Boletaceae." Royal Botanic Garden Edinburgh.
----
-
-## Suillus grevillei (Larch Bolete)
+---# Suillus grevillei (Larch Bolete)
 
 ## Overview
 

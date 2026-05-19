@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/gardening-when-it-counts-solomon-growing-tomatoes.md"
+  - "raw/papers/gardening-when-it-counts-solomon-growing-tomatoes.md"
 type: concept
----
-
-## Growing Peppers and Eggplant
+---# Growing Peppers and Eggplant
 
 Peppers (capsicum or chilli) and eggplant (aubergine) are close relatives
 of the tomato. Many varieties can be perennial where there is no frost. All

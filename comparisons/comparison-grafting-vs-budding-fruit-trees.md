@@ -5,15 +5,8 @@ tags: grafting, budding, fruit-trees, propagation, plant-propagation, orcharding
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw496.pdf
-  - https://content.ces.ncsu.edu/plant-propagation-by-stem-cuttings-and-grafting
-  - https://www.canr.msu.edu/news/fruit_tree_grafting_techniques
-  - https://www.rhs.org.uk/fruit/grafting-fruit-trees
-  - https://www.fao.org/3/x5698e/x5698e00.htm
 type: comparison
----
-
-## Grafting vs Budding [[maitake-fruiting-body-success-rate-management]] (90%+); easy to learn
+---# Grafting vs Budding [[maitake-fruiting-body-success-rate-management]] (90%+); easy to learn
 - **Disadvantage:** Only works during active growth; bud must remain dormant until spring
 
 ### Chip Budding

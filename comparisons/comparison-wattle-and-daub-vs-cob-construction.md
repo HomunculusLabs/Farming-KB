@@ -11,14 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Wattle_and_daub
-  - https://en.wikipedia.org/wiki/Cob
-  - https://www.greenhomebuilding.com/cob.htm
-  - https://www.buildingconservation.com/articles/wattle/wattle.htm
 type: comparison
----
-
-## Wattle and Daub vs. Cob Construction
+---# Wattle and Daub vs. Cob Construction
 
 Both wattle and daub and cob are ancient earthen building techniques experiencing a modern revival among natural builders and [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] method for their climate, site, and project goals.
 

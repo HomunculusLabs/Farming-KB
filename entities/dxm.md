@@ -14,11 +14,9 @@ sources:
   - Schadel, M. et al. (1996). "dextromethorphan pharmacokinetics." Clinical Pharmacology & Therapeutics 59(4): 403–412.
   - Werder, S.F. (2014). "Dextromethorphan abuse: a new cause of psychosis." Primary Care Companion for CNS Disorders 16(1).
   - Zhang, Y. et al. (2006). "Dextromethorphan: pharmacology and clinical applications." CNS Drug Reviews 12(3-4): 167–183.
-  - FDA (2023). "Dextromethorphan [[ketamine]]
+  - FDA (2023). "Dextromethorphan 
 and PCP.
----
-
-In 2022, the FDA approved a combination of dextromethorphan and bupropion
+---n 2022, the FDA approved a combination of dextromethorphan and bupropion
 (Auvelity) for treatment-resistant major depressive disorder, marking a
 significant new clinical application.
 

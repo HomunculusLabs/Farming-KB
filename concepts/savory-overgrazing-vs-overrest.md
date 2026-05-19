@@ -9,11 +9,9 @@ related: [savory-livestock-grazing-planning, savory-brittle-environments,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Overgrazing Versus Overrest
+---# Overgrazing Versus Overrest
 
 One of the most revolutionary insights in Allan Savory's work is the
 recognition that overgrazing and overrest are two distinct and equally

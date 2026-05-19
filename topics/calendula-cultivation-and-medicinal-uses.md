@@ -12,12 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=calendula+officinalis+wound+healing
-  - https://www.pfaf.org/USER/Plant.aspx?LatinName=Calendula+officinalis
-  - https://www.ncbi.nlm.nih.gov/books/NBK532688/
   - https://www.henriettes-herb.com/eclectic/king/calendula.html
----
-## Calendula Cultivation and Medicinal Uses
+--- Calendula Cultivation and Medicinal Uses
 
 **Calendula officinalis**, commonly known as pot marigold, English marigold, or simply calendula, is one of the most versatile and widely cultivated medicinal herbs in temperate gardens worldwide. A member of the **Asteraceae** family, calendula has been used for centuries in traditional European herbalism, Ayurveda, and Traditional Chinese Medicine for its potent anti-inflammatory, wound-healing, and [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]**: Sow every 2–3 weeks for continuous blooms from spring through fall.
 

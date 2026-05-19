@@ -6,13 +6,12 @@ tags:
   - fungi
   - wood-decay
   - saprotroph
-  - [[basidiomycetes]]
+  - basidiomycetes
   - forest-ecology
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
----
 
 ## Taxonomy
 

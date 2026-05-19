@@ -5,8 +5,7 @@ tags:
   - legume
   - fabaceae
   - food-crop
-  - [[ancient-cannabis-use-near-east-and-egypt]].
----
+  - ancient-cannabis-use-near-east-and-egypt.
 
 Lentils are a dietary staple in South Asia, the Middle East, North Africa,
 and the Mediterranean. Global production exceeds 6 million tonnes annually,

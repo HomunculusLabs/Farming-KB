@@ -12,12 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/zkittlez
-  - https://www.allbud.com/marijuana-strains/indica/zkittlez
   - https://en.wikipedia.org/wiki/Zkittlez
----
-
-## Zkittlez
+---# Zkittlez
 
 **Zkittlez** (also stylized **Skittles** or **Zkittles**) is an indica-dominant hybrid cannabis strain bred by **3rd Gen Family** and **Terp Hogz** in the San Francisco Bay Area of California.
 It is a cross between **[[granddaddy-purple]] × Afghani) |

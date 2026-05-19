@@ -5,11 +5,9 @@ tags: [vegetables, deep-beds, organic-gardening, hamilton, intensive-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Deep Bed Vegetable System
+---# Deep Bed Vegetable System
 
 The deep [[container-growing-vegetables-herbs]] has been practiced around
 the world for centuries. [[hamilton-composting-and-organic-matter-management]], a deep root zone is produced that allows

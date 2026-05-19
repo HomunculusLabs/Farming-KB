@@ -15,17 +15,17 @@ date: 2026-04-29
 updated: 2026-04-29
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/concepts/plant-propagation-methods.md
-  - ~/wiki/concepts/plant-propagation-techniques.md
-  - ~/wiki/concepts/plant-propagation.md
-  - ~/wiki/concepts/grafting-fruit-trees.md
-  - ~/wiki/concepts/tissue-culture-cloning.md
-  - ~/wiki/concepts/seed-germination-techniques-solomon.md
-  - ~/wiki/concepts/seed-quality-and-selection-solomon.md
-  - ~/wiki/concepts/seed-starting-and-transplanting.md
-  - ~/wiki/concepts/seed-starting-indoors.md
-  - ~/wiki/concepts/seed-selection-breeding-holzer.md
-  - ~/wiki/concepts/seed-starting-reference.md
+  - concepts/plant-propagation-methods.md
+  - concepts/plant-propagation-techniques.md
+  - concepts/plant-propagation.md
+  - concepts/grafting-fruit-trees.md
+  - concepts/tissue-culture-cloning.md
+  - concepts/seed-germination-techniques-solomon.md
+  - concepts/seed-quality-and-selection-solomon.md
+  - concepts/seed-starting-and-transplanting.md
+  - concepts/seed-starting-indoors.md
+  - concepts/seed-selection-breeding-holzer.md
+  - concepts/seed-starting-reference.md
 related_concepts:
   - plant-propagation-methods
   - plant-propagation-techniques
@@ -38,9 +38,7 @@ related_concepts:
   - seed-starting-indoors
   - seed-selection-breeding-holzer
   - seed-starting-reference
----
-
-## Plant Propagation Techniques
+---# Plant Propagation Techniques
 
 Plant propagation is the deliberate creation of new plants from existing
 parent stock, encompassing both [[cannabis-sexual-propagation-genetics]]

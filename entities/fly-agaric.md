@@ -17,11 +17,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rubel, W., & Arora, D. (2008). "A Study of Cultural Bias in Field Guide Determinations of Edibility." Economic Botany, 62(2), 243-254.
-  - Michelot, D., & Melendez-Howell, L.M. (2003). "[[spore-print]]:** White
+  - Michelot, D., & Melendez-Howell, L.M. (2003). ":** White
 - **Spores:** Globose to broadly ellipsoid, smooth, 8–12 × 6.5–9 μm, non-amyloid
----
-
-### Varieties and Color Morphs
+---## Varieties and Color Morphs
 
 The color of the cap varies significantly across the species' range:
 

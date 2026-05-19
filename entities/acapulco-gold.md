@@ -11,15 +11,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/acapulco-gold
-  - https://www.wikileaf.com/strain/acapulco-gold/
   - Clarke, R.C. (1998). hashish! Red Eye Press.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
   - Emboden, W. (1972). "Ritual Use of comparison-cannabis-sativa-vs-cannabis-indica L." Economic Botany, 26(3), 264-274.
 created: 2026-05-07---
----
-
-## Acapulco Gold
+---# Acapulco Gold
 
 **Acapulco Golden** · **Mexican Gold** · **Oro de Acapulco**
 

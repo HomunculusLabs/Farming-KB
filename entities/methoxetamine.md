@@ -21,11 +21,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/22414606/
   - https://www.emcdda.europa.eu/publications/drug-profiles/methoxetamine_en
----
-
-## Methoxetamine
+---# Methoxetamine
 
 ## Overview
 

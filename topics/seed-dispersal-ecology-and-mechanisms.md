@@ -4,14 +4,8 @@ tags: ecology, botany, seed-dispersal, plant-reproduction, mutualism, biogeograp
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.britannica.com/science/seed-dispersal
-  - https://www.nature.com/subjects/seed-dispersal
-  - https://www.fs.usda.gov/research/topics/seed-dispersal
-  - https://doi.org/10.1146/annurev.ecolsys.110512.135928
   - https://doi.org/10.1111/j.1469-8137.2009.02825.x
----
-
-## Seed Dispersal Ecology and Mechanisms
+---# Seed Dispersal Ecology and Mechanisms
 
 ## Overview of Seed Dispersal and Its Ecological Importance
 

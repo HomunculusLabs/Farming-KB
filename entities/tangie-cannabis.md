@@ -6,11 +6,8 @@ tags: [sativa, citrus-strain, skunk-lineage, california-orange-lineage, dna-gene
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/tangie
   - https://www.dnagenetics.com/tangie
----
-
-## Tangie
+---# Tangie
 
 ## Overview
 

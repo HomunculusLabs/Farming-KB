@@ -5,11 +5,9 @@ tags: [mycorrhiza, plant-microbe-interaction, fungal-physiology, methods]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/symbiotic-fungi.md
+  - raw/papers/symbiotic-fungi.md
 type: concept
----
-
-## Arbuscule Isolation and Metabolic Activity Assays
+---# Arbuscule Isolation and Metabolic Activity Assays
 
 ## Overview
 

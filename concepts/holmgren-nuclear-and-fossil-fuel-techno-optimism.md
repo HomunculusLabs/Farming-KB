@@ -6,12 +6,11 @@ tags:
   - fossil-fuels
   - energy-descent
   - techno-optimism
-  - [[david-holmgren]] treats nuclear power as the quintessential expression of
+  - david-holmgren treats nuclear power as the quintessential expression of
 techno-optimism -- the belief that technological breakthroughs will
 maintain or increase energy availability regardless of resource limits.
 His analysis contextualises nuclear within the broader pattern of
 fossil-fuel techno-faith and its repeated failures.
----
 
 ## Nuclear Energy as Techno-Faith
 

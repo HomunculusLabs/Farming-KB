@@ -4,12 +4,10 @@ created: 2026-04-26
 updated: 2026-04-24
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md
+  - raw/papers/urban-permaculture-guerilla-gardening.md
 type: concept
 tags: [culture, homesteading, permaculture]
----
-
-## Urban Permaculture [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], food production, and community
+---# Urban Permaculture [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], food production, and community
 building into compact urban spaces.
 
 ## The Greensboro Model

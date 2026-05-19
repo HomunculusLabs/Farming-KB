@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Basidiomycetous Yeasts: Ballistoconidia and Biocontrol
+---# Basidiomycetous Yeasts: Ballistoconidia and Biocontrol
 
 Basidiomycetous yeasts are fungi that exist predominantly
 in a unicellular (yeast) state but belong phylogenetically

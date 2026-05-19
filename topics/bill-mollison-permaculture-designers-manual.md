@@ -6,7 +6,7 @@ date: 2026-05-11
 updated: 2026-05-11
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 related_concepts:
   - mollison-designers-design-methods-overview-process
   - mollison-designers-pattern-understanding-in-design
@@ -16,9 +16,7 @@ related_concepts:
   - mollison-designers-food-forest-succession-design
   - mollison-designers-rainwater-harvesting-swale-systems
   - mollison-designers-climate-change-adaptation-strategies
----
-
-## Bill Mollison's Permaculture: A Designers' Manual
+---# Bill Mollison's Permaculture: A Designers' Manual
 
 *Permaculture: A Designers' Manual* (1988) is the seminal text of the
 permaculture movement, written by [[bill-mollison]] and published by

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Polypore Mushrooms: Cultivation Overview
+---# Polypore Mushrooms: Cultivation Overview
 
 Polypores are premier wood decomposers and can produce annual or
 perennial fruitbodies. The polypore chapter in Growing Gourmet and

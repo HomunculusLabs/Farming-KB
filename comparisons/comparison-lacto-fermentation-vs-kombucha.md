@@ -5,15 +5,8 @@ tags: [fermentation, lacto-fermentation, kombucha, probiotics, comparison, food-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.healthline.com/nutrition/lacto-fermentation
-  - https://www.healthline.com/nutrition/kombucha-101
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6652794/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8860496/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/lactic-acid-fermentation
 type: comparison
----
-
-## Comparison: Lacto-Fermentation vs. Kombucha
+---# Comparison: Lacto-Fermentation vs. Kombucha
 
 Both lacto-fermentation and kombucha are [[fukuoka-microbial-ecology-decomposition]], substrate requirements, biochemical pathways, and end products. Understanding these differences is essential for choosing the right method for a given ingredient or desired outcome.
 

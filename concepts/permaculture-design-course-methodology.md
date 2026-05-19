@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - ~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+  - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 type: concept
----
-
-## Permaculture Design Course Methodology
+---# Permaculture Design Course Methodology
 
 ## Overview
 

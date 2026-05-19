@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Aboveground Herbivory Effects on Mycorrhizal Communities
+---# Aboveground Herbivory Effects on Mycorrhizal Communities
 
 Aboveground herbivory -- the consumption of plant foliage, shoots, or bark by
 animals -- can profoundly influence the belowground [[fungal-ecology]], herbivory represents a critical indirect pathway by which

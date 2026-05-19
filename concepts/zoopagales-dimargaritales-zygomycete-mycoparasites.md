@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Zoopagales and Dimargaritales: Zygomycete Mycoparasites
+---# Zoopagales and Dimargaritales: Zygomycete Mycoparasites
 
 The orders Zoopagales and Dimargaritales are two groups of
 Zygomycetes that include obligate, biotrophic, contact parasites

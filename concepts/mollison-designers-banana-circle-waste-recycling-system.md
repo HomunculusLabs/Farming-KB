@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Banana Circle Waste Recycling System
+---# Banana Circle Waste Recycling System
 
 The banana circle is one of the most iconic and immediately productive elements in
 permaculture-designers-manual-bamboo, it converts organic waste and

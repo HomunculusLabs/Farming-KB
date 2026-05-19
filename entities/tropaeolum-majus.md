@@ -20,11 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pfaf.org/users/PlantsForAFuture/api.plant?search=Tropaeolum+majus
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7758429/
----
-
-## Tropaeolum majus
+---# Tropaeolum majus
 
 ## Overview
 

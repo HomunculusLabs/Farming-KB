@@ -20,12 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Cortinarius_rubellus
-  - https://www.mushroomexpert.com/cortinarius_rubellus.html
   - https://www.first-nature.com/fungi/cortinarius-rubellus.php
----
-
-## Cortinarius rubellus
+---# Cortinarius rubellus
 
 **Cortinarius rubellus**, the deadly webcap or fools' webcap, is a basidiomycete
 fungus in the family Cortinariaceae. It is one of the most [[european-mushroom-poisoning-history]] in Scandinavia

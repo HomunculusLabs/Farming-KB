@@ -15,14 +15,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=brucine+pharmacology+toxicology
-  - https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/brucine
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627056/
-  - https://link.springer.com/article/10.1007/s00204-018-2240-2
   - Dutta, A. et al. (2019). "Brucine: A comprehensive review of its pharmacology, toxicology, and ethnomedicinal uses." Phytotherapy Research, 33(10), 2515-2530.
----
-
-## Brucine
+---# Brucine
 
 ## Overview
 

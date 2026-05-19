@@ -15,13 +15,11 @@ updated: 2026-05-11
 sources:
   - Nicholas P. Money (2002). "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists." Oxford University Press.
   - T. Ingold (1971). "Fungal Spores: Their Liberation and Dispersal." Clarendon Press, Oxford.
-  - Webber, J. & Weber, A. (2023). "Gasteromycete Phylogeny and the Evolution of Enclosed [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] rather than on exposed surfaces like gills or
+  - Webber, J. & Weber, A. (2023). "Gasteromycete Phylogeny and the Evolution of Enclosed  rather than on exposed surfaces like gills or
 pores. The name derives from Greek: gaster meaning stomach and mycetes
 meaning fungi. This group has evolved an extraordinary circus of spore
 dispersal strategies that rival the inventiveness of flowering plants.
----
-
-## What Defines a Gasteromycete
+---# What Defines a Gasteromycete
 
 Unlike agarics whose spores are borne on exposed hymenial surfaces,
 gasteromycetes contain their spore-producing tissue inside a protective

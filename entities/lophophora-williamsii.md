@@ -14,12 +14,11 @@ tags:
   - conservation
   - psychopharmacology
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ — Mescaline pharmacology and clinical studies
+ — Mescaline pharmacology and clinical studies
   - Anderson, E.F. (2001). The Cactus Family. Timber Press.
   - Schultes, R.E. & Hofmann, A. (1992). Plants of the Gods. Healing Arts Press.
   - Terry, M. & Trout, K. (2015). "Lophophora Distribution." CactusConservation.org.
----
-## Lophophora williamsii
+--- Lophophora williamsii
 
 **Peyote** · **Peyotl** · **Hikuri** (Wixárika) · **Button Cactus**
 

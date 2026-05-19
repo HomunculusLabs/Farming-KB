@@ -5,9 +5,8 @@ tags:
   - fungi
   - agaricales
   - tricholomataceae
-  - [[fungal-microscopic-examination-mounting-media-techniques]] for
+  - fungal-microscopic-examination-mounting-media-techniques for
 reliable identification.
----
 
 ## Morphology
 

@@ -11,12 +11,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ (hericium erinaceus neurogenesis)
+ (hericium erinaceus neurogenesis)
   - Stamets, P. (2006). Mycelium Running. Ten Speed Press.
   - Mizuno, T. (1995). "Bioactive biomolecules of mushrooms." Food Reviews International.
----
-
-## Lion's Mane (Hericium erinaceus)
+---# Lion's Mane (Hericium erinaceus)
 
 ## Overview
 

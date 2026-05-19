@@ -15,13 +15,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Trifolium+incarnatum
   - SARE (mushroom-compost (Trifolium incarnatum)."
   - Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press.
   - Fukuoka, M. (1978). The One-Straw Revolution. Rodale Press.
----
-
-## Crimson Clover (Trifolium incarnatum)
+---# Crimson Clover (Trifolium incarnatum)
 
 **Trifolium incarnatum**, commonly known as **crimson clover**, **Italian clover**, or **carnation clover**, is an annual herbaceous legume in the family Fabaceae. Native to the Mediterranean region of southern Europe, it has become one of the most widely used [[biofumigation-and-brassica-cover-crops-for-pest-management]] [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], stunning crimson flower heads, and exceptional value as pollinator forage, crimson clover occupies a central role in sustainable and regenerative farming practices.
 

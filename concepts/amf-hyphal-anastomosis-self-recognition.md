@@ -5,11 +5,9 @@ tags: [mycorrhiza, glomeromycota, fungal-biology, symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/symbiotic-fungi.md
+  - raw/papers/symbiotic-fungi.md
 type: concept
----
-
-## AMF Hyphal Anastomosis and Self-Recognition
+---# AMF Hyphal Anastomosis and Self-Recognition
 
 ## Overview
 

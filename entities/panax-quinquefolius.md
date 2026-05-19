@@ -20,16 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/panax_quinquefolius.shtml
-  - https://www.iucnredlist.org/species/31677/2828071
-  - https://www.cites.org/eng/app/appendices.php
-  - https://pfaf.org/user/Plant.aspx?LatinName=Panax+quinquefolius
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574905/
-  - https://www.kew.org/science/tropicos/name/30006350
   - https://www.ars-grin.gov/cgi-bin/npgs/html/taxon.pl?31677
----
-
-## Panax quinquefolius
+---# Panax quinquefolius
 
 ## Overview
 

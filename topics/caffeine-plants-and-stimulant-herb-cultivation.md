@@ -14,13 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1007/978-3-319-70784-0_8
-  - https://doi.org/10.1016/B978-0-12-813007-4.00011-3
-  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/ilex_vomitoria.shtml
   - https://kew.org/science/collections/living-collections/ilex-paraguariensis
----
-
-## Caffeine Plants and Stimulant Herb Cultivation
+---# Caffeine Plants and Stimulant Herb Cultivation
 
 ## Introduction
 

@@ -12,13 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=cistus+incanus+polyphenols
-  - https://en.wikipedia.org/wiki/Cistus_incanus
-  - https://pfaf.org/user/Plant.aspx?LatinName=Cistus+incanus
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cistus-incanus
----
-
-## Cistus incanus
+---# Cistus incanus
 
 **Cistus incanus**, commonly known as **grey-haired rockrose** or **pink rockrose**, is a flowering shrub in the family Cistaceae. Native to the Mediterranean basin, it has attracted significant attention for its exceptionally high polyphenol content and antiviral properties. In Europe, *Cistus incanus* tea has become a popular herbal remedy for immune support and respiratory health.
 

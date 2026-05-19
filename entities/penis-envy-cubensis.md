@@ -19,12 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Psilocybe_cubensis
-  - https://www.shroomery.org/
   - https://truffle.report/
----
-
-## Penis Envy
+---# Penis Envy
 
 ## Overview
 

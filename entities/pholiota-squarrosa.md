@@ -22,11 +22,9 @@ sources:
   - Noordeloos, M.E. (2011). "Strophariaceae s.l." Funga Europaea 13: 1–636.
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Kuo, M. (2024). "Pholiota squarrosa." MushroomExpert.com. https://www.mushroomexpert.com/pholiota_squarrosa.html
-  - Stamets, P. (1996). "[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern
+  - Stamets, P. (1996). " of the Northern
 Hemisphere.
----
-
-Although P. squarrosa is technically edible after thorough cooking, it is
+---lthough P. squarrosa is technically edible after thorough cooking, it is
 generally considered unpalatable due to its bitter taste and slimy texture.
 Some individuals report adverse reactions, and it should be approached with
 caution by foragers.

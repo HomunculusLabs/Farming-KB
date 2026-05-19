@@ -11,11 +11,9 @@ related: [savory-livestock-grazing-planning,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Stock Density Versus Stocking Rate
+---# Stock Density Versus Stocking Rate
 
 The distinction between stock density and stocking rate is one of the
 most important and least appreciated concepts in [[mollison-pdc-range-management-wildlife]] has historically focused almost entirely

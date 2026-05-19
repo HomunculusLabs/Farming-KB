@@ -6,11 +6,8 @@ tags: [psychedelic, dissociative, anesthetic, pharmaceutical, nmda-antagonist]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "https://pubchem.ncbi.nlm.nih.gov/compound/Ketamine"
-  - "https://en.wikipedia.org/wiki/Ketamine"
   - "https://www.ncbi.nlm.nih.gov/books/NBK534830/"
----
-## Ketamine
+--- Ketamine
 Ketamine is a dissociative anesthetic and psychedelic compound first synthesized
 in 1962 by Calvin Stevens at Parke-Davis. Originally developed as a safer
 alternative to phencyclidine ([[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]] as a rapid-acting treatment for treatment-resistant depression, and

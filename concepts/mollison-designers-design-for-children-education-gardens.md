@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Design for Children and Education Gardens
+---# Design for Children and Education Gardens
 
 Designing [[comparison-raised-beds-vs-hugelkultur]] at 40 to 60
 centimetres allow young children to reach the centre without stepping into the

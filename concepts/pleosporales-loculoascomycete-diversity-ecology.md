@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Pleosporales: Loculoascomycete Diversity and Ecology
+---# Pleosporales: Loculoascomycete Diversity and Ecology
 
 The Pleosporales is the largest order of the Loculoascomycetes
 (bitunicate ascomycetes) and one of the most diverse orders

@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
----
-
-## Catch Crop and Polyculture Design
+---# Catch Crop and Polyculture Design
 
 [[holzer-polycultures-catch-crop-combinations]].
 

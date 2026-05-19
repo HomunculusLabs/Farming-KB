@@ -12,11 +12,9 @@ sources:
   - Crum, H.A. & Anderson, L.E. (1981). Mosses of polypore-fungi-eastern-north-america. Columbia University Press.
   - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. 2nd ed. Cambridge University Press.
   - Frahm, J.P. & Frey, W. (1992). Moosflora. 3rd ed. Ulmer Verlag.
-  - Ignatov, M.S. & Hedenäs, L. (2007). "Orthotrichales." In: Flora [[guzman-psilocybin-mushrooms-north-america]], extending southward
+  - Ignatov, M.S. & Hedenäs, L. (2007). "Orthotrichales." In: Flora , extending southward
 in mountainous regions.
----
-
-In Europe, it is widespread from Scandinavia and the British Isles southward to
+---n Europe, it is widespread from Scandinavia and the British Isles southward to
 the Mediterranean mountains and eastward to the Caucasus. In North America, it
 ranges from Alaska and northern Canada to the northeastern and Appalachian United
 States, with disjunct populations in the Rocky Mountains.

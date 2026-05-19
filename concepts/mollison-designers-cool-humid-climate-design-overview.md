@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Cool Humid Climate Design Overview
+---# Cool Humid Climate Design Overview
 
 Mollison devotes extensive attention to the cool humid [[polypore-fungi-eastern-north-america]] America, southern South America,
 and highland regions globally. This is the most agriculturally productive

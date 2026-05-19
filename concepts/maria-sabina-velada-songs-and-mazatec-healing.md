@@ -6,7 +6,7 @@ tags:
   - mushroom-ceremony
   - maria-sabina
   - indigenous-healing
-  - [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]] were sophisticated healing ceremonies
+  - metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism were sophisticated healing ceremonies
 rooted in Mazatec indigenous medicine, not the religious rituals that
 Western observers assumed. The veladas were adaptive blends of Catholic
 and pagan ritual actions, incorporating Christian saints alongside
@@ -14,7 +14,6 @@ Mazatec spirits. Sabina was clear about their purpose: "the vigils
 weren't born of a simple desire to find God, but were done with the
 sole purpose of curing the sicknesses that our people suffer from." To
 find God, like all good Catholics, she went to Mass.
----
 
 ## The Structure of the Velada
 

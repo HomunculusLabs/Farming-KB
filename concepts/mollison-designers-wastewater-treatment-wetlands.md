@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Wastewater Treatment Wetlands
+---# Wastewater Treatment Wetlands
 
 Wastewater is not waste. In [[hamilton-composting-and-organic-matter-management]].
 - **Blackwater**: Wastewater from toilets (and sometimes kitchen sinks)

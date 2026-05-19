@@ -9,8 +9,7 @@ tags:
   - resin
   - medicinal-plant
   - mediterranean
-  - [[panax-ginseng]], and role in [[fungal-species-estimation-methods-total-diversity]]
----
+  - panax-ginseng, and role in fungal-species-estimation-methods-total-diversity
 
 ## Overview
 

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Free-Range Pig Systems in Permaculture Design
+---# Free-Range Pig Systems in Permaculture Design
 
 Pigs on range are healthier, cheaper to feed, and have less
 saturated fats than pigs kept in sheds. The greatest expense is

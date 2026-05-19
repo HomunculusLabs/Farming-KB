@@ -13,12 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/girl-scout-cookies
-  - https://www.wikileaf.com/strain/girl-scout-cookies/
   - "Mudge, E. et al. 'Cannabis Chemovar Classification.' Cannabis and Cannabinoid Research, 2022."
----
-
-## Girl Scout Cookies (GSC)
+---# Girl Scout Cookies (GSC)
 
 ## Overview
 

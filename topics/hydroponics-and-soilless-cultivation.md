@@ -6,22 +6,22 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - ~/wiki/concepts/hydroponic-growing-basics.md
-  - ~/wiki/concepts/hydroponic-cannabis.md
-  - ~/wiki/concepts/cannabis-hydroponic-systems.md
-  - ~/wiki/concepts/cannabis-soilless-grow-media.md
-  - ~/wiki/concepts/cervantes-hydroponic-systems.md
-  - ~/wiki/concepts/cervantes-nft-aeroponic-systems.md
-  - ~/wiki/concepts/cervantes-passive-wick-hydroponic-systems.md
-  - ~/wiki/concepts/cervantes-top-feed-hydroponic-systems.md
-  - ~/wiki/concepts/deep-water-culture.md
-  - ~/wiki/concepts/cannabis-deep-water-culture-guide.md
-  - ~/wiki/concepts/nutrient-film-technique.md
-  - ~/wiki/concepts/aeroponics-guide.md
-  - ~/wiki/concepts/aeroponics-cannabis.md
-  - ~/wiki/concepts/cervantes-rockwool-growing-substrate.md
-  - ~/wiki/concepts/rockwool-cannabis.md
-  - ~/wiki/concepts/mycorrhizal-hydroponic-systems.md
+  - concepts/hydroponic-growing-basics.md
+  - concepts/hydroponic-cannabis.md
+  - concepts/cannabis-hydroponic-systems.md
+  - concepts/cannabis-soilless-grow-media.md
+  - concepts/cervantes-hydroponic-systems.md
+  - concepts/cervantes-nft-aeroponic-systems.md
+  - concepts/cervantes-passive-wick-hydroponic-systems.md
+  - concepts/cervantes-top-feed-hydroponic-systems.md
+  - concepts/deep-water-culture.md
+  - concepts/cannabis-deep-water-culture-guide.md
+  - concepts/nutrient-film-technique.md
+  - concepts/aeroponics-guide.md
+  - concepts/aeroponics-cannabis.md
+  - concepts/cervantes-rockwool-growing-substrate.md
+  - concepts/rockwool-cannabis.md
+  - concepts/mycorrhizal-hydroponic-systems.md
 related_concepts:
   - hydroponic-growing-basics
   - cervantes-hydroponic-systems
@@ -31,9 +31,7 @@ related_concepts:
   - cannabis-soilless-grow-media
   - cervantes-rockwool-growing-substrate
   - mycorrhizal-hydroponic-systems
----
-
-## Hydroponics and Soilless Cultivation
+---# Hydroponics and Soilless Cultivation
 
 Hydroponics is the cultivation of plants without field soil, using
 water, dissolved mineral nutrients, inert media, and carefully managed

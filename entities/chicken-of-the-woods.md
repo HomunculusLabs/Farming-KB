@@ -9,19 +9,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1007/s00114-006-0144-3
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5304687/
-  - https://www.frontiersin.org/articles/10.3389/fmicb.2017.02254/full
-  - https://doi.org/10.1016/j.funbio.2015.01.001
 aliases:
   - Laetiporus sulphureus
   - sulphur shelf
   - chicken mushroom
   - sulfur polypore
 created: 2026-05-07
----
-
-## Chicken of the Woods
+---# Chicken of the Woods
 
 Chicken of the Woods (*[[comparison-brown-rot-vs-white-rot-bioremediation]] (degrading both lignin and cellulose), *Laetiporus* species are **brown-rot fungi** that primarily degrade cellulose and hemicellulose while leaving lignin largely intact. This results in a characteristic brown, crumbly wood texture often called "brown cubical rot." The decay process involves:
 

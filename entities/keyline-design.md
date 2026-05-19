@@ -7,10 +7,9 @@ tags:
   - water-management
   - landscape-design
   - agriculture
-  - [[bill-mollison]] and permaculture
+  - bill-mollison and permaculture
 - permaculture | Keyline is a core technique within permaculture [[food-forest]]
 - [[paul-stamets]]
----
 ## Practical Applications
 
 Keyline Design has a range of practical applications that make it relevant to

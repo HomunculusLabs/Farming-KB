@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - raw/papers/eliot-coleman-winter-harvest-handbook.md
 type: concept
----
-
-## Small Farm Equipment and Tools
+---# Small Farm Equipment and Tools
 
 [[coleman-french-intensive-bed-method]] system of the four-season
 farm.

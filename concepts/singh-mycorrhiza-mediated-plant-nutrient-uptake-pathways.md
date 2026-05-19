@@ -5,11 +5,9 @@ tags: [mycorrhiza, nutrient-uptake, phosphate-transport, micronutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Mycorrhiza-Mediated Plant Nutrient Uptake Pathways
+---# Mycorrhiza-Mediated Plant Nutrient Uptake Pathways
 
 [[arbuscular-mycorrhizal-colonization-patterns]] (AM) symbiosis,
   fungal phosphate transporters release Pi into the periarbuscular

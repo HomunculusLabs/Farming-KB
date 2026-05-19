@@ -5,11 +5,9 @@ tags: [cytochrome-p450, fungal-enzymes, bioremediation, monoxygenase, hydrocarbo
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Cytochrome P450 Enzyme Systems in Fungal Bioremediation
+---# Cytochrome P450 Enzyme Systems in Fungal Bioremediation
 
 Cytochrome P450 enzymes play a central role in fungal bioconversions of
 environmental pollutants. During the past several decades, the involvement

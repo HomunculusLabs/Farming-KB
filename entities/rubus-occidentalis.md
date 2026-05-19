@@ -12,12 +12,10 @@ updated: 2026-05-08
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - Finn CE et al. (2008). "Black raspberry." In: Horticultural Reviews 34. Wiley.
-  - Dossett M et al. (2010). "[[polypore-fungi-eastern-north-america]] America. It
+  - Dossett M et al. (2010). " America. It
 produces small, dark purple to black berries with an intense, sweet-
 tart flavor.
----
-
-The species has gained attention for its exceptionally high
+---he species has gained attention for its exceptionally high
 anthocyanin content, which exceeds that of most other berry fruits.
 Commercial production has expanded in recent decades driven by demand
 for high-antioxidant foods.

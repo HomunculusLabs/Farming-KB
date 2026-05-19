@@ -20,12 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "https://www.leafly.com/strains/trainwreck"
-  - "https://www.allbud.com/marijuana-strains/sativa-dominant-hybrid/trainwreck"
   - "https://en.wikipedia.org/wiki/Trainwreck_(cannabis)"
----
-
-## Trainwreck
+---# Trainwreck
 
 ## Overview
 

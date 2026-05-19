@@ -20,14 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Portulaca_oleracea
-  - https://pfaf.org/user/Plant.aspx?LatinName=Portulaca+oleracea
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Portulaca+oleracea+nutritional
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/portulaca-oleracea
   - https://www.fs.fed.us/wildflowers/plant-of-the-week/portulaca_oleracea.shtml
----
-
-## Portulaca oleracea
+---# Portulaca oleracea
 
 **Common names:** Purslane, pigweed, verdolaga, little hogweed, pusley, rigla
 

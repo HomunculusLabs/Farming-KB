@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Coppicing Management of Legume Trees in Permaculture
+---# Coppicing Management of Legume Trees in Permaculture
 
 Coppicing is the practice of cutting trees or shrubs to ground level
 to stimulate regrowth from the stump. In permaculture systems,

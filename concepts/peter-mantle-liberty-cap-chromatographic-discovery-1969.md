@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Peter Mantle and the Liberty Cap Chromatographic Discovery (1969)
+---# Peter Mantle and the Liberty Cap Chromatographic Discovery (1969)
 
 ## The British Biochemist Who Confirmed Psilocybin in the Liberty Cap
 

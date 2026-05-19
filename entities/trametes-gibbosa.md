@@ -24,11 +24,8 @@ sources:
   - Ryvarden, L. & Gilbourn, C.L. (2004). "European Polyporales." Fungiflora.
   - Bernicchia, A. & Gorjón, S.P. (2010). "Corticiaceae s.l." Fungiflora.
   - Kuo, M. (2024). "Trametes gibbosa." MushroomExpert.com.
-  - https://www.mushroomexpert.com/trametes_gibbosa.html
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 *Trametes gibbosa* is a polyporoid bracket fungus in the family Polyporaceae, widely distributed across temperate and [[psilocybin-north-america-pacific-northwest]].
 

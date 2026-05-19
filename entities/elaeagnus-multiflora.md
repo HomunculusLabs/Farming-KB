@@ -20,7 +20,6 @@ sources:
   - Khasanova, L. et al. (2017). "The genus Elaeagnus: A review of traditional uses and pharmacology." Journal of Ethnopharmacology, 195, 289–304.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants" (6th ed.). Stipes Publishing.
   - Martin, R. (2014). "comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer by actinorhizal shrubs in agroforestry systems." Agroforestry Systems, 88(5), 837–849.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:588761-1
 aliases:
   - Goumi
   - Goumi Berry
@@ -30,9 +29,7 @@ aliases:
   - Elaeagnus eduliscreated: 2026-05-07
 
 created: 2026-05-07
----
-
-## Overview
+---# Overview
 
 Elaeagnus multiflora Thunb. is a deciduous shrub in the family Elaeagnaceae, native to China, Korea, and Japan. Commonly known as goumi, it produces edible, astringent-sweet berries and is valued in permaculture for its nitrogen-fixing ability.
 

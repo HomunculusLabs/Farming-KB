@@ -5,13 +5,8 @@ tags: [fermentation, dairy, getting-started, homesteading, yogurt, kefir, cultur
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fda.gov/food/hazard-analysis-critical-control-point-haccp/grade-pasteurized-milk-ordinance-2023
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284178/
-  - https://www.sciencedirect.com/science/article/pii/B9780128187340000198
 type: query
----
-
-## How Do I Start Making Fermented Dairy at Home?
+---# How Do I Start Making Fermented Dairy at Home?
 
 Starting fermented dairy at home is one of the easiest and most rewarding entry points into food fermentation. It requires minimal equipment, low upfront cost, and delivers impressive results quickly. This guide walks you through choosing your first product, gathering supplies, and making your first successful batch.
 

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Temperate Zone Food Forest Design
+---# Temperate Zone Food Forest Design
 
 The food forest is one of the most iconic expressions of [[query-how-to-grow-and-use-oca-in-temperate-climates]], food forests emulate the structure and function of
 natural woodland ecosystems while producing food, fuel, fiber, and medicine.

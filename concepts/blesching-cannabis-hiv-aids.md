@@ -5,11 +5,9 @@ tags: [cannabis, hiv, aids, appetite, immunomodulation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and HIV/AIDS
+---# Cannabis and HIV/AIDS
 
 Human immunodeficiency virus (HIV) and acquired immunodeficiency syndrome
 (AIDS) represent a complex clinical picture where cannabis has demonstrated

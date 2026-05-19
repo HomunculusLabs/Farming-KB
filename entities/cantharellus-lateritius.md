@@ -13,19 +13,17 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ — dighton-fungal-nutritional-composition-animal-diets and ergosterol studies
-  - https://www.mycobank.org/ — taxonomic record and synonymy
-  - https://www.indexfungorum.org/ — nomenclatural database
+ — dighton-fungal-nutritional-composition-animal-diets and ergosterol studies
+ — taxonomic record and synonymy
+ — nomenclatural database
   - Arora, David. Mushrooms Demystified. 2nd ed., Ten Speed Press, 1986.
-  - Phillips, Roger. Mushrooms [[polypore-fungi-eastern-north-america]], prized for its mild fruity aroma, peppery flavor, and firm texture. Often confused with the golden chanterelle (*[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and parts of Asia
+  - Phillips, Roger. Mushrooms , prized for its mild fruity aroma, peppery flavor, and firm texture. Often confused with the golden chanterelle (* and parts of Asia
 - **Habitat:** Ectomycorrhizal with hardwoods — primarily oaks (*Quercus* spp.), but also found with hickories (*Carya*), beech (*Fagus*), tulip poplar (*Liriodendron*), and occasionally conifers
 - **Season:** Summer through autumn (June–October), typically peaking later than *C. cibarius* — hence the common name "late chanterelle"
 - **Ecology:** Ectomycorrhizal mutualist; forms nutrient-exchange relationships with tree root systems; contributes to forest [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Ergosterol (pro-vitamin D₂), ergothioneine (antioxidant amino acid), β-glucans (immunomodulatory polysaccharides), lovastatin precursors
 - **Antioxidant capacity:** High ORAC value; ergothioneine and selenium contribute to significant free-radical scavenging activity
 - **Caloric value:** Approximately 25–35 kcal per 100 g fresh weight
----
-
-## Distinguishing from Similar Species
+---# Distinguishing from Similar Species
 
 - **Cantharellus cibarius (golden chanterelle):** Has prominent, bluntly forked false gills that run down the stem; *C. lateritius* has a smooth or shallowly wrinkled hymenium; *C. cibarius* typically fruits earlier in the season
 - **[[hygrophoropsis-aurantiaca]] (false chanterelle):** True gills that are thin, forking, and easily separable; grows on decaying wood rather than soil; cap more orange and less apricot-colored

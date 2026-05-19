@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Seed Pelleting and Pretreatment for Land Rehabilitation
+---# Seed Pelleting and Pretreatment for Land Rehabilitation
 
 In pioneering the rehabilitation or stabilisation of soils, many of
 the local deficiencies in soils can be overcome by seed pelleting.

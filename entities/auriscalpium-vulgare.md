@@ -12,9 +12,8 @@ tags:
   - conifer-associated
   - temperate
   - tooth-fungus
-  - [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that bears a spore-bearing
+  - comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms that bears a spore-bearing
 hymenium of fine teeth on its upper surface, inverting the typical agaricoid pattern.
----
 
 The species is most frequently encountered growing from fallen pine cones in
 coniferous forests across the Northern Hemisphere. Despite its unassuming size,

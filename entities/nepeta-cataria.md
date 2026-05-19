@@ -19,13 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Nepeta%20cataria
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3175491/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/nepeta-cataria
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/nepeta_cataria.shtml
----
-
-## Nepeta cataria (Catnip)
+---# Nepeta cataria (Catnip)
 
 ## Overview
 

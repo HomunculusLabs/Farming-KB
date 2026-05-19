@@ -12,13 +12,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/durban-poison — chupacabra-strain-profile-sickmeds-oner and reviews
-  - https://phylosbioscience.com/ — cannabis genomics and landrace mapping
+ — chupacabra-strain-profile-sickmeds-oner and reviews
+ — cannabis genomics and landrace mapping
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry.
 created: 2026-04-28
----
-**Durban Poison** is a pure  race [[kanna-sceletium-south-african-narcotic]] port city of Durban. One of the few commercially available true [[oner-cannabis-breeding-fundamentals]], contributing to numerous hybrid cultivars.
+---Durban Poison** is a pure  race [[kanna-sceletium-south-african-narcotic]] port city of Durban. One of the few commercially available true [[oner-cannabis-breeding-fundamentals]], contributing to numerous hybrid cultivars.
 
 ## Genetic Lineage
 

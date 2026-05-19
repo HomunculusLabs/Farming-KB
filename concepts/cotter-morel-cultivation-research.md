@@ -5,11 +5,9 @@ tags: [morel, morchella, advanced-cultivation, research, mycorrhiza]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
+  - raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
----
-
-## Morel Cultivation Research Update
+---# Morel Cultivation Research Update
 
 ## Overview
 

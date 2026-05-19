@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Psychrotolerant and [[singh-mycelial-mats-and-biological-soil-crusts]] are located in
+---# Psychrotolerant and [[singh-mycelial-mats-and-biological-soil-crusts]] are located in
 association with damaged plants soon after snow melts. Snow molds also
 may damage fruits and crops stored at low temperatures.
 

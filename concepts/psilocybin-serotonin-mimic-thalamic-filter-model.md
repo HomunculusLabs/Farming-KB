@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Psilocybin as a Serotonin Mimic and Thalamic Filter Model
+---# Psilocybin as a Serotonin Mimic and Thalamic Filter Model
 
 ## The Neurochemistry of Psilocybin: From Dephosphorylation to the Thalamic
 ## Sensory Filter

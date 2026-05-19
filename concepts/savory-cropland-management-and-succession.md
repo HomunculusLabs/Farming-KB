@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Cropland Management and Succession
+---# Cropland Management and Succession
 
 The principles of [[fukuoka-machine-culture-doomed-agricultural-decline-america-europe]] appear to have done
 so fastest in [[savory-brittle-environments]], but of those studied, deteriorating watersheds

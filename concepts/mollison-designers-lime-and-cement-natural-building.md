@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Lime and Cement in permaculture: A Designers' Manual, presenting lime as the preferred
+---# Lime and Cement in permaculture: A Designers' Manual, presenting lime as the preferred
 binding material for permaculture building while acknowledging the role
 of cement where structural demands require it. He emphasises understanding
 the chemistry and sourcing of these materials for self-reliant building.

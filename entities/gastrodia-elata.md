@@ -12,12 +12,10 @@ updated: 2026-05-09
 sources:
   - Chen, J. et al. (2014). "Gastrodia elata Blume: An Orchid Plant with Medicinal Value." Journal of Medicinal Plants Research, 8(18), 644–653.
   - Xu, J. et al. (2016). "armillaria-mellea-entity." Mycobiology, 44(4), 273–280.
-  - Yuan, C.S. et al. (1998). "Traditional Chinese [[cannabis-neuroprotection-mechanisms-neurological-diseases]]." American Journal of Chinese Medicine, 26(2), 133–145.
+  - Yuan, C.S. et al. (1998). "Traditional Chinese ." American Journal of Chinese Medicine, 26(2), 133–145.
   - Liu, Z. et al. (2018). "Gastrodin: A Review of Its Pharmacological Effects and Mechanisms." Evidence-Based Complementary and Alternative Medicine, 2018, 7421409.
   - Huang, L.Q. et al. (2020). "Cultivation and [[blesching-cannabis-contaminants-testing-quality-control]] of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.---
----
-
-## Overview
+---# Overview
 
 Gastrodia elata, known as Tianma in Chinese, is a fully mycoheterotrophic orchid in the family Orchidaceae.
 

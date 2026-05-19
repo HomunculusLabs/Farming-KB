@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Fungal Dispersal Limitation and Biogeographic Barriers
+---# Fungal Dispersal Limitation and Biogeographic Barriers
 
 Dispersal limitation is a critical factor shaping [[aquatic-fungi-spore-dispersal-ingold]] mechanisms that allow regional
   movement but may limit transoceanic dispersal

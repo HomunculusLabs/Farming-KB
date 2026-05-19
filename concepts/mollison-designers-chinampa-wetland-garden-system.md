@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Chinampa Wetland Garden System
+---# Chinampa Wetland Garden System
 
 Chinampas are artificial agricultural islands built in shallow lake beds or
 marshlands, originally developed by the Aztec (Mexica) civilisation in the

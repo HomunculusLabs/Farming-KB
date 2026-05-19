@@ -20,11 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=50892&Fields=All
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255954/
----
-
-## Hydnellum peckii
+---# Hydnellum peckii
 
 ## Overview
 

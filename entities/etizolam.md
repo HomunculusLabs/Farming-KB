@@ -15,11 +15,8 @@ sources:
   - "Paterson, S. et al. (2022). \"Etizolam: a review of pharmacology, toxicity, and forensic implications.\" Drug Science, 12(1), 1-12."
   - "Cirus, M. et al. (2004). \"Etizolam: a new thienodiazepine.\" CNS Drug Reviews, 10(1), 25-41."
   - "EMCDDA (2021). \"Etizolam: Drug Profile.\" European Monitoring Centre for Drugs and Drug Addiction."
-  - "https://pubchem.ncbi.nlm.nih.gov/compound/Etizolam"
 created: 2026-05-07
----
-
-## Etizolam
+---# Etizolam
 
 ## Overview
 

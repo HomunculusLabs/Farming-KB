@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungal Radionuclide Uptake Mechanisms
+---# Fungal Radionuclide Uptake Mechanisms
 
 The mechanisms by which fungi accumulate radionuclides involve both
 passive physicochemical processes at the [[gadd-fungal-cell-structure]] wall,

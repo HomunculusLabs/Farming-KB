@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Growing Leeks Organically
+---# Growing Leeks Organically
 
 Leeks are a superb winter vegetable, hardy in all but the very coldest
 climates, and a valuable source of fresh greens when little else is

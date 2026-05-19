@@ -21,14 +21,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Centella_asiatica
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7498642/
-  - https://www.ncbi.nlm.nih.gov/books/NBK603561/
-  - https://doi.org/10.3390/agronomy13081999
   - https://doi.org/10.1002/ptr.5110
----
-
-## Centella asiatica
+---# Centella asiatica
 
 ## Overview
 

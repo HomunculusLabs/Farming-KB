@@ -6,22 +6,22 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/concepts/soil-testing.md
-  - ~/wiki/concepts/soil-testing-and-analysis.md
-  - ~/wiki/concepts/soil-testing-and-interpretation.md
-  - ~/wiki/concepts/soil-testing-methods-interpretation.md
-  - ~/wiki/concepts/interpreting-soil-test-results.md
-  - ~/wiki/concepts/cation-exchange-capacity.md
-  - ~/wiki/concepts/soil-fertility-management.md
-  - ~/wiki/concepts/building-soil-fertility-long-term.md
-  - ~/wiki/concepts/lowenfels-soil-minerals-nutrients.md
-  - ~/wiki/concepts/solomon-soil-mineral-depletion.md
-  - ~/wiki/concepts/jadam-soil-mineral-replenishment.md
-  - ~/wiki/concepts/holmgren-mineral-balance-soil-fertility.md
-  - ~/wiki/concepts/coleman-compost-and-organic-fertility-management.md
-  - ~/wiki/concepts/mollison-designers-tropical-soils-and-cation-exchange-management.md
-  - ~/wiki/concepts/jeavons-soil-fertility.md
-  - ~/wiki/concepts/fukuoka-natural-soil-fertility.md
+  - concepts/soil-testing.md
+  - concepts/soil-testing-and-analysis.md
+  - concepts/soil-testing-and-interpretation.md
+  - concepts/soil-testing-methods-interpretation.md
+  - concepts/interpreting-soil-test-results.md
+  - concepts/cation-exchange-capacity.md
+  - concepts/soil-fertility-management.md
+  - concepts/building-soil-fertility-long-term.md
+  - concepts/lowenfels-soil-minerals-nutrients.md
+  - concepts/solomon-soil-mineral-depletion.md
+  - concepts/jadam-soil-mineral-replenishment.md
+  - concepts/holmgren-mineral-balance-soil-fertility.md
+  - concepts/coleman-compost-and-organic-fertility-management.md
+  - concepts/mollison-designers-tropical-soils-and-cation-exchange-management.md
+  - concepts/jeavons-soil-fertility.md
+  - concepts/fukuoka-natural-soil-fertility.md
 related_concepts:
   - soil-testing
   - soil-testing-and-analysis
@@ -31,9 +31,7 @@ related_concepts:
   - building-soil-fertility-long-term
   - lowenfels-soil-minerals-nutrients
   - solomon-soil-mineral-depletion
----
-
-## Soil Testing and Fertility Planning
+---# Soil Testing and Fertility Planning
 
 Soil testing is the practice of translating a living, mineral, and
 chemical system into numbers that can guide fertility decisions. A

@@ -13,14 +13,12 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Hawksworth, D.L. et al. (1995). Ainsworth & Bisby's Dictionary of the Fungi. 8th ed. CAB International."
-  - "Chang, S.T. & Miles, P.G. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and [[guzman-psilocybin-mushrooms-south-america]]).
+  - "Chang, S.T. & Miles, P.G. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and ).
 - **Habitat:** Terrestrial, saprotrophic. Grows on decomposing woody material, bamboo debris, leaf litter, and rich organic soils in forests, gardens, and bamboo groves.
 - **Substrate association:** Strongly associated with bamboo (Bambusoideae) litter but not obligate; also found on other hardwood debris in mixed forests.
 - **Seasonality:** Fruiting occurs during warm, wet periods — typically late spring through early autumn depending on latitude; most abundant during the monsoon season in tropical Asia.
 - **Ecological role:** Primary decomposer of lignocellulosic material, particularly bamboo. The foul-smelling gleba attracts flies and beetles, which disperse spores to new substrates.
----
-
-## Cultivation
+---# Cultivation
 
 ### Commercial Production
 

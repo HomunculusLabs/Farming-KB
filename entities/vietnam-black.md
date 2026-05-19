@@ -13,16 +13,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.allbud.com/marijuana-strains/sativa/vietnam-black
-  - https://www.leafly.com/strains/vietnamese-black
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany."
     University of California Press.
   - Potter, D.J. et al. (2018). "A longitudinal study of green-cannabis-potency-maximizing."
     psychedelic-drug-testing-and-adulterant-screening and Analysis.
   - De Meijer, E.P.M. et al. (2003). "The inheritance of chemical phenotype
     in comparison-cannabis-sativa-vs-cannabis-indica L." Genetics.
----
-## Vietnam Black
+--- Vietnam Black
 
 **Vietnam Black** is a rare pure sativa southeast-asian-mushroom-tourism-bali to landrace genetics
 

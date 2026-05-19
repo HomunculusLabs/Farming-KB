@@ -14,11 +14,9 @@ sources:
   - Flora of North America Editorial Committee (2002). Flora of North America Vol. 23: Cyperaceae. Oxford University Press.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team.
-  - Darke, R. (1999). The Color Encyclopedia of [[polypore-fungi-eastern-north-america]] America. It is named in honor of the
+  - Darke, R. (1999). The Color Encyclopedia of  America. It is named in honor of the
 American botanist Asa Gray.
----
-
-The species is most famous for its striking perigynia, which are arranged in
+---he species is most famous for its striking perigynia, which are arranged in
 spiny, globular clusters resembling medieval maces or sea urchins. This unique
 morphology makes it one of the most easily recognized sedges in eastern North
 America.

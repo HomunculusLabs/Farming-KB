@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
----
-
-## Water Power and Hydraulic Systems
+---# Water Power and Hydraulic Systems
 
 [[holzer-alternative-energy]]
 can be derived from the natural topography of a [[holzer-water-landscapes]] that covers the farm. This

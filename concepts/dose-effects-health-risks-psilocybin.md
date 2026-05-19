@@ -6,8 +6,7 @@ tags:
   - health
   - dose
   - risks
-  - [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] depend on dose, individual sensitivity and reaction to psilocybin, previous experiences, and the setting in which they are consumed. While acute toxicity is low and dependency does not develop, the psychological risks can be significant. Understanding dose-response relationships, routes of administration, and potential [[pf-tek-mushroom-potency-and-age-relationship]] is influenced by multiple factors that make consistent dosing inherently difficult:
----
+  - emcdda-hallucinogenic-mushrooms-emerging-trend-europe depend on dose, individual sensitivity and reaction to psilocybin, previous experiences, and the setting in which they are consumed. While acute toxicity is low and dependency does not develop, the psychological risks can be significant. Understanding dose-response relationships, routes of administration, and potential pf-tek-mushroom-potency-and-age-relationship is influenced by multiple factors that make consistent dosing inherently difficult:
 
 - **Species or variety:** Different species contain vastly different concentrations of active compounds
 - **Origin:** Geographic source and cultivation conditions affect alkaloid profiles

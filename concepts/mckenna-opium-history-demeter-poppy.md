@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/mckenna_t-food_of_the_gods.md
+  - raw/papers/mckenna_t-food_of_the_gods.md
 type: concept
----
-
-## Opium History and the Demeter Poppy Goddess
+---# Opium History and the Demeter Poppy Goddess
 
 The opium poppy, [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]]," the first "croaker" or junk doctor. Soon physicians
 of the Paracelsan school were preparing nostrums whose sole basis of

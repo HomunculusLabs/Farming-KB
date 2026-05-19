@@ -20,16 +20,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Cannabis Cup Archives. "High Times Cannabis Cup Winners 1994–1999." https://hightimes.com
-  - ElSohly, M.A. et al. (2016). "Changes in [[blesching-cannabis-strain-selection-receptor-targeting]] with a
+  - ElSohly, M.A. et al. (2016). "Changes in  with a
 legendary status among cannabis enthusiasts. Originally developed in the
 [[spanish-cannabis-breeding-scene-history]]. The most widely
 accepted lineage describes Bubblegum as a cross between an unknown Indiana
 Afghani indica and a mixed sativa-dominant hybrid. The genetics traveled
 from Indiana to New England before reaching the Netherlands, where
 growers in Amsterdam stabilized the line over several generations.
----
-
-The resulting stabilized strain is approximately 80% indica / 20% sativa,
+---he resulting stabilized strain is approximately 80% indica / 20% sativa,
 reflecting its predominantly Afghan genetics. Bubblegum has since been
 used extensively as a parent strain in breeding programs, contributing
 genetics to numerous [[limonene]] produce a unique candy-like

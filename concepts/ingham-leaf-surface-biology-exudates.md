@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
----
-
-## Leaf Surface Biology and Exudates in Compost Tea
+---# Leaf Surface Biology and Exudates in Compost Tea
 
 Understanding leaf surface biology is essential for effective
 [[elaine-ingham]]'s field

@@ -5,8 +5,8 @@ tags: [ketamine, pharmacology, dissociative, nmda-antagonist, antidepressant, ps
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ~/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
-  - ~/wiki/raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
+  - raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
+  - raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
 related_concepts:
   - ketamine-compound-profile
   - ketamine-dissociative-pharmacology
@@ -18,9 +18,7 @@ related_concepts:
   - turner-ketamine-combinations-and-cydelikspace-navigation
   - turner-ketamine-lsd-dmt-interactions-recovery-effects
   - turner-essential-psychedelics-ketamine-anaesthetic-realm
----
-
-## Ketamine Pharmacology and Therapy
+---# Ketamine Pharmacology and Therapy
 
 Ketamine is a dissociative anesthetic compound (C13H16ClNO, molecular weight
 237.73) belonging to the arylcyclohexylamine class of drugs. Developed in

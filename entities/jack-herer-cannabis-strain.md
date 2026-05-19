@@ -12,12 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/jack-herer
-  - https://www.allbud.com/marijuana-strains/sativa/jack-herer
   - https://www.wikileaf.com/strain/jack-herer/
----
-
-## Jack Herer
+---# Jack Herer
 
 ## Overview
 

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Spore Germination and Strain Isolation Techniques
+---# Spore Germination and Strain Isolation Techniques
 
 Germinating [[vic-high-true-breeding-strain-development-stabilization]]. While growing-gourmet-stock-culture-library and future use.
 This last transfer usually results in individual dikaryotic

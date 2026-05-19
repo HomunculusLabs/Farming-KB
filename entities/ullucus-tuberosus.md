@@ -16,15 +16,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Ullucus_tuberosus
-  - https://www.andes.iied.org/ullucus-tuberosus-cultivated-andean-tuber
-  - https://doi.org/10.1007/978-3-319-45126-3_8
-  - https://www.bioversityinternational.org/e-library/publications/detail/andean-roots-and-tubers/created: 2026-05-07
+ 2026-05-07
 
 created: 2026-05-07
----
-
-## Ullucus tuberosus
+---# Ullucus tuberosus
 
 **Ulluco**, **ulluku**, **melloco**, **olloc**, **rubas**
 

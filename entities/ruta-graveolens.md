@@ -20,12 +20,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd Edition, CRC Press.
-  - Blumenthal, M., Goldberg, A. & Brinckmann, J. (2000). "[[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]]ern [[holzer-medicinal-and-culinary-herbs-compendium]] herb. It was a staple of classical
+  - Blumenthal, M., Goldberg, A. & Brinckmann, J. (2000). "ern  herb. It was a staple of classical
 Mediterranean pharmacology and Roman cuisine but has declined in modern use
 due to its toxicity at therapeutic doses. The [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
----
-
-Rue is native to the Balkan Peninsula (particularly the Dalmatian coast of
+---ue is native to the Balkan Peninsula (particularly the Dalmatian coast of
 modern Croatia), Greece, and southern Italy. It has been widely naturalized
 across southern and central Europe, [[guzman-psilocybin-mushrooms-africa]], the Middle East, and
 [[guzman-psilocybin-mushrooms-south-america]]. The plant prefers well-drained,

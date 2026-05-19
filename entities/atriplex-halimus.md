@@ -13,12 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Atriplex+halimus
-  - https://en.wikipedia.org/wiki/Atriplex_halimus
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/atriplex-halimus
----
-
-## Atriplex halimus
+---# Atriplex halimus
 
 **atriplex halimus**, commonly known as **Mediterranean saltbush**, **sea orache**, or **spiny saltbush**, is a perennial halophytic shrub in the family Amaranthaceae. One of the most salt-tolerant and drought-resistant shrubs available for permaculture, it is invaluable for arid-zone [[permaculture-livestock-forage-systems]], and soil restoration in marginal environments. Its ability to thrive in conditions lethal to most plants has earned increasing attention in climate-adaptive agriculture.
 

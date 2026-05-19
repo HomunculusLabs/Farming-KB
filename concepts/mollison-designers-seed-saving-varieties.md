@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Seed Saving and Open-Pollinated Varieties
+---# Seed Saving and Open-Pollinated Varieties
 
 Seed saving is one of the most fundamental skills in [[fukuoka-second-genesis-theory-global-seed-scattering]] supply into the hands of a few corporations
 producing hybrid and genetically modified varieties represents, in Mollison's

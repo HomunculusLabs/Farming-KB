@@ -15,14 +15,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=strychnine+pharmacology+toxicology
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3138049/
-  - https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/strychnine
   - Jennings, W.B. (2018). "Strychnine: From medicine to murder." Journal of Forensic Sciences, 63(5), 1455-1462.
   - http://www.inchem.org/documents/pims/pharm/strychni.htm (WHO PIM)
----
-
-## Strychnine
+---# Strychnine
 
 ## Overview
 

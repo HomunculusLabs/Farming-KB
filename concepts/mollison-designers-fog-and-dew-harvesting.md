@@ -4,9 +4,8 @@ created: 2026-04-26
 tags:
   - water-harvesting
   - microclimate
-  - [[mollison-drought-proofing-strategies]]
+  - mollison-drought-proofing-strategies
 strategy.
----
 
 ## Dew: Formation and Significance
 

@@ -16,12 +16,8 @@ type: comparison
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://catalog.extension.oregonstate.edu/em8903
-  - https://extension.psu.edu/blackberry-production
-  - https://www.uky.edu/hort/blackberry-production-in-kentucky
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7858305/
----
-## Erect vs Trailing vs Primocane-Fruiting Brambles
+--- Erect vs Trailing vs Primocane-Fruiting Brambles
 
 Choosing the right bramble growth habit is one of the most important decisions for a successful planting. The three main types — erect, trailing, and primocane-fruiting — differ fundamentally in how they grow, how they must be managed, and what kind of harvest they deliver. This comparison covers blackberries and raspberries across these growth categories.
 

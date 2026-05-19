@@ -5,11 +5,9 @@ tags: [mine-tailings, acid-mine-drainage, phytostabilization, ecological-restora
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Remediation of Mining Tailings and Mine Waste
+---# Fungal Remediation of Mining Tailings and Mine Waste
 
 Mining tailings and waste rock represent some of the most challenging
 environments for [[cannabis-grow-nutrient-deficiency-problem-solving]], and physical instability.

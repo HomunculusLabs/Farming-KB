@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md"
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
----
-
-## Cannabis and Mental Disorders: General Overview
+---# Cannabis and Mental Disorders: General Overview
 
 The relationship between cannabis and mental health is one of the most complex
 and widely debated topics in medical cannabis research. According to Uwe

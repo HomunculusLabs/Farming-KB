@@ -26,11 +26,8 @@ sources:
   - Husch, B. et al. (2007). "Forest Mensuration." Wiley. (Vaccinium habitat references)
   - Kruckeberg, A.R. (1996). "Gardening with Native Plants of the Pacific Northwest." UW Press.
   - Pojar, J. & MacKinnon, A. (1994). "Plants of the Pacific Northwest Coast." Lone Pine Publishing.
-  - http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250066416
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/vaccinium_ovatum.shtml
----
-
-## Overview
+---# Overview
 
 **Vaccinium ovatum** is an evergreen shrub in the family Ericaceae, commonly known as the evergreen huckleberry or California huckleberry.
 

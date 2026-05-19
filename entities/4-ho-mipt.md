@@ -12,12 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press.
-  - https://pubmed.ncbi.nlm.nih.gov/?term=4-HO-MiPT+pharmacology
-  - https://www.erowid.org/chemicals/4_ho_mipt/4_ho_mipt.shtml
-  - https://www.isomerdesign.com/PiHKAL/explore.php?id=5091
   - https://www.caymanchem.com/product/21964
----
-## 4-HO-MiPT
+--- 4-HO-MiPT
 
 ## Overview
 

@@ -6,10 +6,9 @@ tags: [dreams, waking-dreams, REM-sleep, serotonin, psilocybin,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
----
-## Sleeping Dreams and Waking Dreams
+--- Sleeping Dreams and Waking Dreams
 
 Simon G. Powell explores the profound parallel between normal dreaming and
 the visionary states produced by psilocybin, arguing that [[powell-psilocybin-brain-plasticity]], [[powell-the-other-and-sentient-presence]]

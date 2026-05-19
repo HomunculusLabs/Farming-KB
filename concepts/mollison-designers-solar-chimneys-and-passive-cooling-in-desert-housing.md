@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Solar Chimneys and Passive Cooling in Desert Housing
+---# Solar Chimneys and Passive Cooling in Desert Housing
 
 No desert house should be planned or built without its integral
 trellis and garden systems, as these may not only save most or all

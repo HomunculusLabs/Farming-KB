@@ -5,11 +5,9 @@ tags: [arbuscular-mycorrhiza, grassland-ecology, biodiversity, soil-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Arbuscular Mycorrhizal Diversity in Grassland Ecosystems
+---# Arbuscular Mycorrhizal Diversity in Grassland Ecosystems
 
 [[core-endorhiza-bacterial-community-composition-cannabis]] shifts seasonally as different AMF taxa exhibit
   distinct phenological patterns and environmental optima

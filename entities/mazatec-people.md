@@ -23,17 +23,13 @@ related_entities:
   - salvia-divinorum
   - psilocybin
 sources:
-  - ~/wiki/concepts/hofmann-lsd-mazatec-and-psilocybin.md
-  - ~/wiki/concepts/psychedelic-mushroom-music-and-culture.md
-  - https://en.wikipedia.org/wiki/Mazatec_people
-  - https://en.wikipedia.org/wiki/Huautla_de_Jim%C3%A9nez
+  - concepts/hofmann-lsd-mazatec-and-psilocybin.md
+  - concepts/psychedelic-mushroom-music-and-culture.md
 created: 2026-05-02
 updated: 2026-05-02
 status: complete
 tags: [profile]
----
-
-## Mazatec people
+---# Mazatec people
 
 The **Mazatec people** are an Indigenous people of Mexico associated especially with the Sierra Mazateca in northern Oaxaca.
 They also live in neighboring communities of Puebla and Veracruz, reflecting migration, trade, and regional continuity around the Papaloapan basin.

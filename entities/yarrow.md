@@ -5,14 +5,13 @@ type: species
 tags:
   - asteraceae
   - medicinal-herb
-  - [[achillea-millefolium]], commonly known as yarrow, is a
+  - achillea-millefolium, commonly known as yarrow, is a
 hardy herbaceous perennial in the family Asteraceae.
 Native to [[luteolin]]  | Flavonoid      | Anti-inflammatory, antiox. |
 | Rutin               | Flavonoid      | Vascular tonic             |
 | Tannins             | Polyphenol     | Astringent, wound healing  |
 | Cineole             | Monoterpene    | Expectorant, antimicrobial |
 | [[dynamic-accumulators]]
----
 ## Practical Applications
 
 Yarrow has a range of practical applications that make it relevant to

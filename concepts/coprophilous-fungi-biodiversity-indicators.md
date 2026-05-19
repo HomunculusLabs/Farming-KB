@@ -8,11 +8,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Coprophilous Fungi as Biodiversity Indicators
+---# Coprophilous Fungi as Biodiversity Indicators
 
 Coprophilous (dung-inhabiting) fungi occupy a unique ecological niche
 at the interface of fungal, plant, and animal communities. Their

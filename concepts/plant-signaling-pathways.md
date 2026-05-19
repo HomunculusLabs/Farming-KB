@@ -5,12 +5,10 @@ tags: [plant-biology, biochemistry, plant-defense, symbiosis, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/symbiotic-fungi.md
-  - ~/wiki/raw/papers/tompkins-secret-life-of-plants.md
+  - raw/papers/symbiotic-fungi.md
+  - raw/papers/tompkins-secret-life-of-plants.md
 type: concept
----
-
-## Plant Signaling Pathways
+---# Plant Signaling Pathways
 
 ## Overview
 

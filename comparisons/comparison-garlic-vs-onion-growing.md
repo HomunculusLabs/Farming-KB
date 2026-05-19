@@ -5,15 +5,13 @@ tags: [comparison, alliums, garlic, onions, vegetable-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ~/wiki/concepts/garlic-growing-guide.md
-  - ~/wiki/concepts/onion-growing-guide.md
-  - ~/wiki/concepts/alliums-growing-guide.md
-  - ~/wiki/concepts/solomon-growing-garlic-onions-leeks.md
-  - ~/wiki/concepts/growing-alliums-organically.md
+  - concepts/garlic-growing-guide.md
+  - concepts/onion-growing-guide.md
+  - concepts/alliums-growing-guide.md
+  - concepts/solomon-growing-garlic-onions-leeks.md
+  - concepts/growing-alliums-organically.md
 type: comparison
----
-
-## Garlic vs Onion Growing
+---# Garlic vs Onion Growing
 
 ## Overview
 

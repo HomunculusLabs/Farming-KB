@@ -5,11 +5,9 @@ tags: [cannabis, propagation, genetics, breeding, plant-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
+  - raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
 type: concept
----
-
-## Cannabis Sexual Propagation and Genetics
+---# Cannabis Sexual Propagation and Genetics
 
 Cannabis can be propagated either sexually through [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] usually
 exhibit great seedling diversity for most traits, and many types are

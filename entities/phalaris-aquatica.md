@@ -6,11 +6,8 @@ tags: [grasses, poaceae, dmt-containing, tryptamine, permaculture, forage, pastu
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/
   - https://pfaf.org/
----
-
-> *"Phalaris aquatica is among the most widely studied of the dighton-fungal-drought-tolerance-plant-water-relations |
+--- *"Phalaris aquatica is among the most widely studied of the dighton-fungal-drought-tolerance-plant-water-relations |
 
 Inflorescence resembles reed canary grass (*P. arundinacea*) but shorter, thicker, more erect. Semievergreen in mild winters.
 

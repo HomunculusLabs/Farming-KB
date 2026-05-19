@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Remediation Technologies for Petroleum Hydrocarbons
+---# Fungal Remediation Technologies for Petroleum Hydrocarbons
 
 Petroleum-contaminated soils and aquifers represent a significant
 environmental challenge, threatening soil fertility, drinking water, and

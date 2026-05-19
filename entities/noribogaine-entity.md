@@ -14,14 +14,12 @@ updated: 2026-04-28
 sources:
   - Mash DC, Kovera CA, Pablo J, et al. (2000). "Ibogaine: complex pharmacokinetics, concerns for safety, and preliminary efficacy measures." Annals of the New York Academy of Sciences, 914, 394-401.
   - Alper KR, Lotsof HS, Kaplan CD. (2001). "The ibogaine medical subculture." Journal of Ethnopharmacology, 76(2), 111-120.
-  - Glue P, Winter J, Garbe K, et al. (2015). "Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in healthy volunteers." Drug and [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] from the [[iboga-root-bark-preparation]] of *Tabernanthe
+  - Glue P, Winter J, Garbe K, et al. (2015). "Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in healthy volunteers." Drug and  from the  of *Tabernanthe
 iboga*. It is a long-acting compound with significant pharmacological activity
 at multiple receptor systems. Noribogaine is increasingly recognized as the
 principal mediator of ibogaine's anti-addictive effects, with a plasma
 half-life far exceeding that of the parent compound.
----
-
-## Chemical Properties
+---# Chemical Properties
 
 IUPAC name: (12S)-12-hydroxy-7-ethyl-6,6a,7,8,9,10,12,12b-octahydro-5H-
 6,9-methanoquinolizino[3,2,1-ij]pyrido[3,4-b]indole

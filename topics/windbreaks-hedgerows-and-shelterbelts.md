@@ -6,12 +6,12 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md
-  - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
-  - ~/wiki/raw/papers/geoffhamilton-nick_-organic-gardening.md
-  - ~/wiki/raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md
-  - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
+  - raw/papers/urban-permaculture-guerilla-gardening.md
+  - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  - raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md
+  - raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 related_concepts:
   - permaculture-windbreak
   - permaculture-windbreak-design-species
@@ -25,9 +25,7 @@ related_concepts:
   - forest-edge-windbreak-rainfall-compression
   - hemenway-hedgerow-and-shelterbelt-design
   - permaculture-windbreak-design-detailed
----
-
-## Windbreaks, Hedgerows, and Shelterbelts
+---# Windbreaks, Hedgerows, and Shelterbelts
 
 Windbreaks, hedgerows, and shelterbelts are linear plantings of trees and
 shrubs arranged to reduce wind speed across adjacent land. Though the three

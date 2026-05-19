@@ -5,11 +5,9 @@ tags: [bioenergy, electrochemistry, fungal-physiology, wastewater-treatment]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Microbial Fuel Cells and Fungal Electrogenesis
+---# Microbial Fuel Cells and Fungal Electrogenesis
 
 Microbial fuel cells (MFCs) represent an emerging bioelectrochemical technology
 that harnesses the [[antifungal-secondary-metabolites-coprophilous-fungi]]

@@ -4,16 +4,8 @@ tags: [chaga, turkey-tail, medicinal-mushrooms, immunomodulation, beta-glucans, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=inonotus+obliquus+review
-  - https://pubmed.ncbi.nlm.nih.gov/?term=trametes+versicolor+review
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7416843/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8384896/
-  - https://examine.com/supplements/chaga-mushroom/
-  - https://examine.com/supplements/turkey-tail/
   - https://www.mycobank.org/
----
-
-## Chaga Mushroom vs Turkey Tail — Medicinal Fungal Allies Compared
+---# Chaga Mushroom vs Turkey Tail — Medicinal Fungal Allies Compared
 
 ## At a Glance
 

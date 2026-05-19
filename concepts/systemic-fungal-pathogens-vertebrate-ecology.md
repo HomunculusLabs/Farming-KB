@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Systemic Fungal Pathogens of Vertebrates - Ecology and Distribution
+---# Systemic Fungal Pathogens of Vertebrates - Ecology and Distribution
 
 The majority of specialized filamentous fungal pathogens of homeothermic
 vertebrates are members of, or anamorphs associated with, the Ascomycete

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Taking Cuttings — Softwood and Hardwood Methods
+---# Taking Cuttings — Softwood and Hardwood Methods
 
 Most plants can be propagated by taking cuttings without too much
 difficulty. While [[maitake-fruiting-body-success-rate-management]] should be around eighty percent with proper

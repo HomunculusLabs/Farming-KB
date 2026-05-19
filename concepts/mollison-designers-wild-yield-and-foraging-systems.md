@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Wild Yield and Foraging Systems
+---# Wild Yield and Foraging Systems
 
 Wild yield systems are designed components of the [[mollison-designers-dryland-garden-and-oasis-design]].
 

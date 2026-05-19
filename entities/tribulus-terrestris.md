@@ -6,12 +6,8 @@ tags: [herbal-plant, adaptogen, aphrodisiac, traditional-medicine, ayurveda, ton
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Tribulus_terrestris
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3689637/
   - https://pubmed.ncbi.nlm.nih.gov/28706916/
----
-
-## Tribulus terrestris
+---# Tribulus terrestris
 
 **Tribulus terrestris**, commonly known as puncture vine, caltrop, goat's-head, bindii, or *Gokshura* (गोक्षुर) in Ayurvedic medicine, is an annual herbaceous plant in the family Zygophyllaceae. Native to warm temperate and [[datura-metel-old-world-ethnobotany]], it has spread globally as an invasive weed. Despite its reputation as an agricultural pest, T. terrestris has a long history of use in traditional medicine systems — particularly Ayurveda, Traditional Chinese Medicine (TCM), and folk medicine of the Mediterranean and Middle East — primarily as a tonic, aphrodisiac, and vitality-enhancing herb.
 

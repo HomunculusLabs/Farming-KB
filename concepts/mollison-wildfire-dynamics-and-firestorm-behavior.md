@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Wildfire Dynamics and Firestorm Behavior in Permaculture Design
+---# Wildfire Dynamics and Firestorm Behavior in Permaculture Design
 
 [[holzer-permaculture-landscape-design]]. Understanding how fires behave, spread, and
 intensify is essential for placing structures, selecting species, and

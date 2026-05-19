@@ -12,14 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fs.usda.gov/wildflowers/beauty/edibles/
-  - https://www.nps.gov/articles/000/huckleberry-haven.htm
   - Pojar, J. & MacKinnon, A. (1994). Plants of the psilocybin-north-america-pacific-northwest Coast. Lone Pine Publishing.
   - Angier, B. (1974). Field Guide to Edible Wild Plants. Stackpole Books.
   - C. K. Evreinoff (2019). "Vaccinium species: guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution." Botanical Review 85(2).---
----
-
-## Huckleberries and Wild Berries of North America
+---# Huckleberries and Wild Berries of North America
 
 ## Introduction
 

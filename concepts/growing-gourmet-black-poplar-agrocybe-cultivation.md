@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Black Poplar Mushroom Cultivation (Agrocybe aegerita)
+---# Black Poplar Mushroom Cultivation (Agrocybe aegerita)
 
 The Black Poplar Mushroom, Agrocybe aegerita, has a mellow and
 attractive flavor when young. It grows prolifically on deciduous wood

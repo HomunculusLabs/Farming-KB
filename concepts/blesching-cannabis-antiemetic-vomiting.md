@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md"
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
----
-
-## Cannabis as an Antiemetic: Vomiting and Nausea Relief
+---# Cannabis as an Antiemetic: Vomiting and Nausea Relief
 
 The antiemetic (anti-vomiting) properties of cannabis represent some of the
 best-documented [[nabilone]] was more effective than prochlorperazine in reducing

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Duck and Waterfowl Integration in Permaculture Systems
+---# Duck and Waterfowl Integration in Permaculture Systems
 
 Ducks have always been kept in the same range area as chickens
 in mixed farm systems, but they need marsh plants, snails, and

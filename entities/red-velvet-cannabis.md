@@ -15,12 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - https://www.leafly.com/strains/red-velvet/info
-  - https://allbud.com/marijuana-strains/hybrid/red-velvet
   - https://www.wikileaf.com/strain/red-velvet/
----
-
-## Red Velvet
+---# Red Velvet
 
 **Red Velvet** is an indica-dominant hybrid [[tree-of-knowledge-and-forbidden-fruit-theory]]** ([[forbidden-fruit-cannabis]]
           ↓

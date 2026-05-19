@@ -16,8 +16,6 @@ tags:
   - secondary-metabolism
   - geosmin
 sources:
-  - https://en.wikipedia.org/wiki/Streptomyces
-  - https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1883
 related_concepts:
   - actinomycetes-soil-biology
   - decomposition
@@ -25,9 +23,7 @@ related_concepts:
   - amphotericin-b-antifungal
 date: 2026-05-02
 updated: 2026-05-02
----
-
-## Streptomyces
+---# Streptomyces
 
 **Streptomyces** is a large genus of aerobic, filament-forming bacteria in the phylum Actinomycetota.
 It is the type genus of the family Streptomycetaceae and one of the most important bacterial groups in soil ecology.

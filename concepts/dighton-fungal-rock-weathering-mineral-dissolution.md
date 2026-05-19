@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungal Rock Weathering and Mineral Dissolution
+---# Fungal Rock Weathering and Mineral Dissolution
 
 Soils are created by the breakdown of parent rock into mineral particles.
 The surface ionic exchange properties of these particles determine soil

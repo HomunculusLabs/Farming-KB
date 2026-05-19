@@ -23,14 +23,12 @@ sources:
   - "Leafly. (2024). \"Do-Si-Dos blesching-cannabis-strain-selection-receptor-targeting Information.\" Leafly.com."
   - "AllBud. (2024). \"Do-Si-Dos Weed Strain.\" AllBud.com."
   - "Wikileaf. (2024). \"Do-Si-Dos Strain Review.\" Wikileaf.com."
-  - " [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by
+  - "  strain bred by
 Archive Seed Bank in Oregon, crossing the legendary [[psilocybin-north-america-pacific-northwest]] by storm after its release in 2016,
 winning multiple awards and quickly becoming a parent strain for numerous
 successful crosses. Its dense, frosty buds and sweet, earthy aroma make it
 instantly recognizable in dispensaries.
----
-
-## Strain Classification
+---# Strain Classification
 
 - **Type:** Indica-dominant hybrid (~70% indica / 30% sativa)
 - **Lineage:** Girl Scout Cookies × Face Off OG

@@ -10,11 +10,9 @@ related: [savory-brittle-environments, savory-rest-as-management-tool,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Fire as a Management Tool
+---# Fire as a Management Tool
 
 Fire is one of the six tools available in the [[halpern-sacramental-peyote-and-native-american-church]] fire use is discussed in isolation from the animal
 impact that accompanied it, managers draw dangerously incomplete

@@ -5,11 +5,9 @@ tags: [mycoremediation, explosives, tnt, rdx, munitions-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Explosives TNT and RDX Fungal Degradation
+---# Explosives TNT and RDX Fungal Degradation
 
 Military munitions contamination from manufacturing, testing, and disposal
 activities has introduced persistent explosive compounds into soils and

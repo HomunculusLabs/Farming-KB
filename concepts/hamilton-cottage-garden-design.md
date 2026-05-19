@@ -5,11 +5,9 @@ tags: [garden-design, cottage-garden, organic-gardening, hamilton, ornamental]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Cottage Garden Design Principles
+---# Cottage Garden Design Principles
 
 For the average gardener with a moderately sized garden, the
 "cottage-garden" design offers distinct advantages over other styles.

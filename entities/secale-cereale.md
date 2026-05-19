@@ -13,12 +13,10 @@ sources:
   - Bushuk, W. (2001). "Rye: Production, Chemistry, and Technology." American Association of Cereal Chemists.
   - Shewry, P.R. & Bechtel, D.B. (2001). "Rye." In: Cereal Chemistry and Technology, 2nd ed. AACC International.
   - Mergoum, M. & Gómez-Macpherson, H. (2004). "Rye: Diseases and Pests." FAO Plant Production and Protection Paper.
-  - FAO (2024). "FAOSTAT: Rye [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], and
+  - FAO (2024). "FAOSTAT: Rye , and
 industrial purposes. It is the most cold-tolerant of the major cereal
 crops, thriving where wheat and barley struggle.
----
-
-Rye was domesticated from wild rye (*Secale strictum*, synonym *S.
+---ye was domesticated from wild rye (*Secale strictum*, synonym *S.
 montanum*) in the [[dighton-fungal-drought-tolerance-plant-water-relations]] and soil-binding
 capacity.
 

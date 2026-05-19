@@ -6,9 +6,8 @@ tags:
   - datura
   - solanaceae
   - tropane-alkaloids
-  - [[scopolamine]], [[datura-innoxia]]. This is the famous Toloache of Mexico,
+  - scopolamine, datura-innoxia. This is the famous Toloache of Mexico,
 one of the plants of the gods among the Aztecs and other Indians.
----
 
 Datura innoxia is a herbaceous perennial up to 3 feet (1 m) tall,
 grayish because of fine hairs on the foliage. The leaves are

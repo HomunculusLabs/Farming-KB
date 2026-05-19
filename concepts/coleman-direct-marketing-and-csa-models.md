@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - raw/papers/eliot-coleman-winter-harvest-handbook.md
 type: concept
----
-
-## Direct Marketing and CSA Models
+---# Direct Marketing and CSA Models
 
 [[fukuoka-critique-organic-certification]] became
 industrialized and the word "organic" lost its distinctive meaning,

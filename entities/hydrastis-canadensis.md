@@ -18,12 +18,10 @@ sources:
   - "Mills, S. & Bone, K. (2005). The Essential Guide to Herbal Safety. Elsevier."
   - "USDA, NRCS. (2024). The PLANTS Database. plants.usda.gov."
   - "Upton, R. et al. (2001). Goldenseal Root: Analytical, Quality Control, and Therapeutic Monograph. American Herbal Pharmacopoeia."
-  - "Bone, K. & Mills, S. (2013). The [[polypore-fungi-eastern-north-america]] American deciduous forests, valued for its rhizome containing berberine, hydrastine, and canadine.
+  - "Bone, K. & Mills, S. (2013). The  American deciduous forests, valued for its rhizome containing berberine, hydrastine, and canadine.
 Overharvested in the wild to near commercial extinction, cultivated supply chains are essential.
 Berberine receives significant clinical attention for metabolic and antimicrobial applications.
----
-
-## Taxonomy
+---# Taxonomy
 
 - **Kingdom:** Plantae — **Order:** Ranunculales — **Family:** Ranunculaceae
 - **Genus:** *Hydrastis* (monotypic) — **Species:** *H. canadensis* L.

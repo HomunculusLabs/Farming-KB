@@ -4,14 +4,8 @@ tags: plant-chemistry, secondary-metabolites, plant-defense, phytoalexins, alkal
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.annualreviews.org/doi/10.1146/annurev-arplant-050718-095947
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390734/
-  - https://link.springer.com/article/10.1007/s11103-020-01076-4
-  - https://www.britannica.com/science/secondary-metabolite
   - https://doi.org/10.1016/j.pbi.2018.05.002
----
-
-## Plant Defense Chemistry and Secondary Metabolites
+---# Plant Defense Chemistry and Secondary Metabolites
 
 ## Introduction
 

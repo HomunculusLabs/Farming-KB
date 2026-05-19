@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Watering Plants — Techniques and Best Practice
+---# Watering Plants — Techniques and Best Practice
 
 Plants are entirely dependent on water for their survival. While natural
 rainfall cannot be guaranteed, the gardener can supplement rainfall

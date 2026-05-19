@@ -23,11 +23,8 @@ sources:
   - Cullen, J. et al. (2000). "The European Garden Flora." Cambridge University Press.
   - Newsholme, C. (1993). "Willows: The Genus Salix." B.T. Batsford.
   - Chevallier, A. (1996). "The Encyclopedia of Medicinal Plants." DK Publishing.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579286-1
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 *Ajuga reptans* is a low-growing perennial herb in the family Lamiaceae, native to Europe, North Africa, and western Asia.
 

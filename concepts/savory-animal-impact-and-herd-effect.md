@@ -9,11 +9,9 @@ related: [savory-livestock-grazing-planning, savory-brittle-environments,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Animal Impact and Herd Effect
+---# Animal Impact and Herd Effect
 
 Animal impact is one of the most powerful and least understood tools in
 [[savory-herd-composition-and-culling-strategies]]

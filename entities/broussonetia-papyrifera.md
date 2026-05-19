@@ -21,11 +21,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Broussonetia_papyrifera
   - https://www.fs.usda.gov/plantguide/pdf/pg_brpa.pdf
----
-
-## Broussonetia papyrifera
+---# Broussonetia papyrifera
 
 ## Overview
 

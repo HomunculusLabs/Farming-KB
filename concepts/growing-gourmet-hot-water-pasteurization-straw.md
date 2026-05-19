@@ -5,11 +5,9 @@ tags: [pasteurization, straw, mushroom-cultivation, substrate-preparation, oyste
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Hot Water Pasteurization of Straw for Mushroom Cultivation
+---# Hot Water Pasteurization of Straw for Mushroom Cultivation
 
 Straw is one of the most accessible and economical substrates
 for growing [[oyster-mushroom-species]],

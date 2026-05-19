@@ -5,13 +5,8 @@ tags: [soil-biology, microbiome, bacteriophage, plant-health, biocontrol, rhizos
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://asm.org/Articles/2020/May/Bacteriophages-in-Soil
-  - https://www.nature.com/articles/s41579-020-0394-1
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7211665/
 type: query
----
-
-## How Do Bacteriophages Affect Soil Microbiome and Plant Health?
+---# How Do Bacteriophages Affect Soil Microbiome and Plant Health?
 
 ## Direct Answer
 

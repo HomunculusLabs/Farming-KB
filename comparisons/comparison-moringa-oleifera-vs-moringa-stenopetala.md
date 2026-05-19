@@ -11,15 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1016/j.jfca.2018.01.002
-  - https://www.kew.org/science/tropicos/name/4900155
-  - https://www.fao.org/forestry/foods-security/moringa/en/
-  - https://doi.org/10.1016/j.heliyon.2020.e05340
-  - https://www.sciencedirect.com/science/article/pii/S0278691509003026
 type: comparison
----
-
-## Moringa oleifera vs. Moringa stenopetala
+---# Moringa oleifera vs. Moringa stenopetala
 
 *Two "miracle trees" from different continents with overlapping but distinct strengths.*
 

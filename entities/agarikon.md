@@ -7,13 +7,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322425/
-  - https://www.first-nature.com/fungi/laricifomes-officinalis.php
   - Stamets, P. (2005). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
   - "Fungal Conservation" issues on old-growth forest protection
----
-
-## Agarikon (Laricifomes officinalis)
+---# Agarikon (Laricifomes officinalis)
 
 Agarikon is a rare, long-lived polypore mushroom and one of the oldest known medicinal fungi in Western history. Once common in old-growth forests of Europe and [[pseudotsuga-menziesii]]*), and western hemlock (*Tsuga heterophylla*).
 - **Ecological role:** Begins as a heart rot pathogen, eventually killing its host tree and then decomposing the dead wood, recycling nutrients in old-growth forest ecosystems.

@@ -14,16 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/docrep/x2260e/x2260e00.htm
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/vermicomposting
-  - https://www.researchgate.net/publication/Snail_farming_heliciculture
-  - https://extension.oregonstate.edu/vermicomposting
-  - https://pubmed.ncbi.nlm.nih.gov/?term=earthworm+vs+snail+protein+production
 type: comparison
 created: 2026-04-28
----
-
-## Snail Farming vs Vermicomposting
+---# Snail Farming vs Vermicomposting
 
 Both heliciculture (snail farming) and vermicomposting (earthworm cultivation) involve raising small invertebrates at scale, but they serve fundamentally different purposes — snail farming produces edible protein and by-products, while vermicomposting primarily produces soil amendments with worms as a secondary product. Here's how they compare across the dimensions that matter most to homesteaders and permaculture practitioners.
 

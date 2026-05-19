@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Charcoal Production and Biochar Soil Amendment
+---# Charcoal Production and Biochar Soil Amendment
 
 Bill Mollison's [[comparison-hugelkultur-vs-terra-preta-soil-building]] as evidence that charcoal-amended soils
 can be extraordinarily persistent. The charcoal provides a stable

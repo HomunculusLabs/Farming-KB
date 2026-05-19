@@ -21,16 +21,13 @@ sources:
   - "Press, C.A. et al. (2015). \"Parental reporting of response to oral cannabis extracts for treatment of refractory epilepsy.\" Epilepsy & Behavior 45: 49-52."
   - "Gupta, S.K. (2015). \"FDA approvals of cannabinoid-based pharmaceuticals.\" FDA Presentation."
   - "Lewis, M.A. et al. (2018). \"Cannabidiol as a potential treatment for anxiety and cannabis-sleep-disorders-and-insomnia.\" Journal of Clinical Pharmacy and Therapeutics 43(5): 635-641."
-  - "https://www.charlottesweb.com/about-us"
 aliases:
   - CW
   - Charlotte's Web CBD
   - The Weed
   - Hippie's Disappointment
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 **Charlotte's Web** is a high-CBD, low-THC [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]], Charlotte's Web was specifically bred to maximize CBD content while minimizing psychoactive THC.
 

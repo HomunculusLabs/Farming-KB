@@ -5,11 +5,9 @@ tags: [mycoremediation, regulation, environmental-policy, remediation-standards,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Mycoremediation Regulatory Frameworks
+---# Mycoremediation Regulatory Frameworks
 
 The deployment of [[singh-fungal-biosorption-heavy-metals]] processes must achieve regulatory metal
 concentration limits for soil and groundwater. Unlike organic degradation where

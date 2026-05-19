@@ -9,10 +9,9 @@ tags:
   - medical
   - ptsd
   - anti-anxiety
-  - [[blesching-cannabis-strain-selection-receptor-targeting]] bred by TGA Subcool
+  - blesching-cannabis-strain-selection-receptor-targeting bred by TGA Subcool
 Seeds, created by crossing Harlequin with [[beta-caryophyllene-entourage-effects-cannabis]] of both compounds without overwhelming THC
 intoxication.
----
 
 ## Lineage
 

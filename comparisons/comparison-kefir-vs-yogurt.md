@@ -5,13 +5,8 @@ tags: [fermentation, dairy, probiotics, nutrition, comparison, cultured-milk, mi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1016/j.cofs.2021.10.009
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284178/
-  - https://www.sciencedirect.com/science/article/pii/S0958169417300635
 type: comparison
----
-
-## Kefir vs Yogurt
+---# Kefir vs Yogurt
 
 Kefir and yogurt are the two most widely consumed fermented [[bionutrients-lab-lactic-acid-bacteria-serum]] fermentation, they differ fundamentally in their microbial communities, production methods, flavor profiles, and health properties. Understanding these differences helps cultivators, health-conscious consumers, and homesteaders [[psilocybin-shelf-life-stability]] (refrigerated)** | 2–4 weeks | 1–2 weeks (live, continues fermenting) |
 | **Self-propagating culture** | No — requires purchased starter each batch (or careful serial subculturing with degradation over generations) | Yes — grains grow and multiply with each batch |

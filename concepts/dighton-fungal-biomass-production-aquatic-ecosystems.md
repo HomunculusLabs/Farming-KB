@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungal Biomass and Production in Aquatic Ecosystems
+---# Fungal Biomass and Production in Aquatic Ecosystems
 
 Fungi play major roles in decomposition and [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] through their support of invertebrate
 populations.

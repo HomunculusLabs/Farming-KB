@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
-  - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----
-
-## Soil Food Web Succession
+---# Soil Food Web Succession
 
 [[soil-food-web]] is not static; it undergoes predictable patterns of
 succession that mirror the development of aboveground plant communities. In

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Domestic [[herb-spiral-design]] Principles
+---# Domestic [[herb-spiral-design]] Principles
 
 The herb spiral is a mound of soil built in a rising spiral approximately
 1.5 to 2 meters in diameter and 0.5 to 1 meter tall at the center. It

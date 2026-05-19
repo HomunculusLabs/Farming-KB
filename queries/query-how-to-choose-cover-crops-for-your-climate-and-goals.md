@@ -5,15 +5,8 @@ tags: cover-crops, soil-health, nitrogen-fixation, weed-suppression, erosion-con
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.sare.org/publications/cover-crop-economics/
-  - https://extension.oregonstate.edu/gardening/cover-crops-home-gardens
-  - https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/health/cover/
-  - https://www.johnnyseeds.com/growers-library/cover-crop-guide.html
-  - https://www.midwestcovercrops.org/cover-crop-selector-tool/
 type: query
----
-
-## How to Choose Cover Crops for Your Climate and Goals
+---# How to Choose Cover Crops for Your Climate and Goals
 
 Cover crops are one of the highest-leverage tools you can add to a rotation, but picking the wrong species for your climate or goals wastes money and field time. This page walks you through a practical decision framework.
 

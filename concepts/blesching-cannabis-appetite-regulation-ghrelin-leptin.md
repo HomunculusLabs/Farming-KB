@@ -5,11 +5,9 @@ tags: [appetite, ghrelin, leptin, hypothalamus, cachexia]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis, Appetite Regulation, Ghrelin, and Leptin
+---# Cannabis, Appetite Regulation, Ghrelin, and Leptin
 
 One of cannabis's most well-known effects is [[uwe-blesching]] moves
 Blesching moves beyond this colloquial understanding to provide a detailed neuroendocrine

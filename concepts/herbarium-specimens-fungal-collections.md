@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Herbarium Specimens and Fungal Collections
+---# Herbarium Specimens and Fungal Collections
 
 Herbarium specimens and live [[guzman-global-distribution-patterns-neurotropic-fungi]], fruiting
 phenologies, host associations, and species composition data for

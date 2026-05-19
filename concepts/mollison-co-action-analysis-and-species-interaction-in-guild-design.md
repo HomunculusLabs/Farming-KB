@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Co-Action Analysis and Species Interaction in [[allegro-death-and-resurrection-in-the-mushroom-cult]]
+---# Co-Action Analysis and Species Interaction in [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 case of some pine [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 ### Commensalism (+o)

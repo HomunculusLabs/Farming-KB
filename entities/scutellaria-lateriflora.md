@@ -13,12 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Scutellaria+lateriflora
   - Felter, H.W. & Lloyd, J.U. (1898). King's American Dispensatory.
   - Mills, S. & Bone, K. (2000). The Principles and Practice of Phytotherapy. Churchill Livingstone.
----
-
-## Scutellaria lateriflora
+---# Scutellaria lateriflora
 
 **American Skullcap** · **Blue Skullcap** · *Scutellaria lateriflora* L.
 

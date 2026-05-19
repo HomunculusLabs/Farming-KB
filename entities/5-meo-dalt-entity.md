@@ -16,13 +16,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/5-MeO-DALT
-  - https://isomerdesign.com/PiHKAL/view.php?id=5738
-  - https://pubchem.ncbi.nlm.nih.gov/compound/10285846
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10006078/
----
-
-## 5-MeO-DALT (N,N-Diallyl-5-methoxytryptamine)
+---# 5-MeO-DALT (N,N-Diallyl-5-methoxytryptamine)
 
 ## Overview
 

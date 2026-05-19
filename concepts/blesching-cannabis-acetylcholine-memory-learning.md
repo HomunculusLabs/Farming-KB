@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md"
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
----
-
-## Cannabis, Acetylcholine, Memory, and Learning
+---# Cannabis, Acetylcholine, Memory, and Learning
 
 The relationship between cannabis, acetylcholine, memory, and learning
 represents a fascinating intersection of neuroscience and cannabinoid

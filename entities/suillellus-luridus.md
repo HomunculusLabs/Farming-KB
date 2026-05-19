@@ -15,11 +15,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Suillellus_luridus
   - https://www.mycobank.org/
----
-
-## Suillellus luridus
+---# Suillellus luridus
 
 ## Overview
 

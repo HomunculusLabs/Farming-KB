@@ -24,7 +24,6 @@ sources:
   - Nweke, F.I. et al. (2002). Cassava Transformation. CABI Publishing.
   - Burns, A. et al. (2010). "Manihot esculenta (cassava)." In Traditional Food and Medicinal Plants, 44(4), 361–371.
   - FAO. "Cassava (Manihot esculenta Crantz)." FAO Corporate Document Repository.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:292505-1
 aliases:
   - cassava
   - manioc
@@ -34,9 +33,7 @@ aliases:
   - Brazilian arrowroot
   - manihot
   - [[guzman-psilocybin-mushrooms-south-america]].
----
-
-The species is now cultivated across the global tropics between approximately 30°N and 30°S latitude.
+---he species is now cultivated across the global tropics between approximately 30°N and 30°S latitude.
 
 - **Major producers:** Nigeria (world's largest), Democratic Republic of Congo, Thailand, Indonesia, Brazil, Ghana, Mozambique, Cambodia, Vietnam, Angola.
 - **Climate:** Grows best at 25–29 °C with 1,000–1,500 mm annual rainfall; tolerates prolonged drought (3–6 months) due to deep root system and stomatal control.

@@ -5,14 +5,8 @@ tags: [loquat, persimmon, fruit-trees, comparison, subtropical, orchard]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Loquat
-  - https://en.wikipedia.org/wiki/Diospyros
-  - https://www.crfg.org/pubs/ff/loquat.html
-  - https://www.crfg.org/pubs/ff/persimmon.html
 type: comparison
----
-
-## Loquat vs Persimmon Cultivation
+---# Loquat vs Persimmon Cultivation
 
 A detailed comparison of two outstanding winter/spring fruiting trees for home orchards, food forests, and permaculture systems. See also [[permplant-persimmon-diospyros-kaki-fruit-tree]] for detailed variety recommendations and regional growing advice.*
 

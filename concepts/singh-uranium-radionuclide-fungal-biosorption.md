@@ -5,11 +5,9 @@ tags: [mycoremediation, biosorption, uranium, radionuclide, radioactive]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Uranium and Radionuclide Biosorption by Fungi
+---# Uranium and Radionuclide Biosorption by Fungi
 
 The biosorption of radionuclides by fungi represents a critical
 application of mycoremediation for nuclear industry waste management

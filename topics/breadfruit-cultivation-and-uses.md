@@ -4,15 +4,9 @@ tags: breadfruit, tropical-agriculture, permaculture, food-forest, staple-crop
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://ntbg.org/breadfruit/
-  - https://www.fao.org/tempref/docrep/fao/009/x5017e/x5017e00.pdf
-  - https://www.cabi.org/isc/datasheet/6511
-  - https://pubmed.ncbi.nlm.nih.gov/ breadfruit nutrition studies
-  - https://www.hort.purdue.edu/newcrop/morton/breadfruit.html
+ breadfruit nutrition studies
   - https://breadfruitinstitute.org/
----
-
-## Breadfruit (Artocarpus altilis)
+---# Breadfruit (Artocarpus altilis)
 
 Breadfruit is a fast-growing, long-lived tropical tree in the mulberry family (Moraceae) that produces large, starchy fruits used as a staple carbohydrate across the Pacific Islands, Caribbean, and parts of Africa and [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] — Other tropical [[forest-gardening-and-food-forests]] — Integrating breadfruit into food [[agroforestry-and-alley-cropping]] — Breadfruit in agroforestry systems
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]

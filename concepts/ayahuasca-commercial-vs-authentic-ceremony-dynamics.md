@@ -7,7 +7,7 @@ sources:
 type: concept
 tags:
   - ayahuasca
-  - [[stuart-r-ayahuasca-tourism-cautionary-ethnography]]. R. Stuart's 2002 field observations
+  - stuart-r-ayahuasca-tourism-cautionary-ethnography. R. Stuart's 2002 field observations
 in Peru's [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] are conducted within
 a framework of community relationships, dietary
 restrictions, and spiritual preparation that extends
@@ -15,7 +15,6 @@ far beyond the ceremony itself. Participants typically
 know the shaman personally, have observed the
 preparation of the brew, and share a cultural
 understanding of the experience's purpose and meaning.
----
 
 The ceremony serves multiple functions: healing
 physical and psychological ailments, resolving

@@ -14,14 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.permaculturenews.org/2017/02/05/ramial-wood-chips/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ramial-wood
-  - https://www.buildingasoil.com/ramial-wood-chips/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271030/
 type: comparison
----
-
-## Ramial Wood Chip Mulch vs Composted Wood Chips
+---# Ramial Wood Chip Mulch vs Composted Wood Chips
 
 Both ramial (fresh) wood chips and composted wood chips serve as valuable soil amendments and mulches, but they differ significantly in nutrient availability, decomposition dynamics, soil biology effects, and application strategies. Understanding these differences is critical for choosing the right approach for your garden, orchard, or farm.
 

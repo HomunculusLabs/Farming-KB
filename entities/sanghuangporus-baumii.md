@@ -12,12 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Sanghuangporus
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553770/
 created: 2026-04-28
----
-
-## Sanghuang (Sanghuangporus baumii)
+---# Sanghuang (Sanghuangporus baumii)
 
 ## Overview
 

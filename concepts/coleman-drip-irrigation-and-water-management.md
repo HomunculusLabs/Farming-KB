@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - raw/papers/eliot-coleman-winter-harvest-handbook.md
 type: concept
----
-
-## Drip Irrigation and Water Management
+---# Drip Irrigation and Water Management
 
 [[coleman-claytonia-winter-harvest-cultivation]] system is fundamentally different
 from summer growing. The cold, low-light environment of an unheated

@@ -12,16 +12,14 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 related:
   - "ingham-field-guide-compost-tea-ingredients-and-recipes"
   - "ingham-compost-tea-recipe-ratios"
   - "ingham-dissolved-oxygen-management"
   - "ingham-cover-crops-soil-biology"
 type: concept
----
-
-## Disease Suppression Through Food Competition and Niche Exclusion
+---# Disease Suppression Through Food Competition and Niche Exclusion
 
 Elaine Ingham's Field Guide for Actively [[cervantes-chemical-fungicides-insecticides]] and bactericides work by poisoning the target organism, but they often harm beneficial organisms simultaneously, creating a biological vacuum that pathogens can re-colonize rapidly. AACT, by contrast, fills every available niche with beneficial life, making it extremely difficult for pathogenic organisms to gain a foothold.
 

@@ -6,9 +6,8 @@ tags:
   - breeding
   - pollen
   - pollination
-  - [[psilocybin-shelf-life-stability]]
+  - psilocybin-shelf-life-stability
 to enable breeding across different flowering timelines.
----
 
 ## When to Collect Pollen
 

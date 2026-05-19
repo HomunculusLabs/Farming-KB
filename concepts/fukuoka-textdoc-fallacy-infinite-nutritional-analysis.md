@@ -8,8 +8,7 @@ tags:
   - diet
   - reductionism
   - philosophy
-  - [[fukuoka-natural-foods-movement-america]] suggests that this instinctive wisdom remains intact — waiting to be trusted again.
----
+  - fukuoka-natural-foods-movement-america suggests that this instinctive wisdom remains intact — waiting to be trusted again.
 
 What primitive man understood implicitly, modern science has been unable to reconstruct through analysis: that a food eaten in its natural state, in its proper season, from the soil of one's own region, is already complete. Nothing need be added, and nothing should be taken away. The irony is that science, in trying to improve upon nature's design, has only made the diet more impoverished.
 

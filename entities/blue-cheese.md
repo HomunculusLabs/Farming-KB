@@ -23,12 +23,8 @@ updated: 2026-04-28
 sources:
   - "Green, J.M. (2021). 'The green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible.' Green Candy Press."
   - "Rosenthal, E. (2018). 'Beyond Buds: Marijuana Extracts.' Quick American Archives."
-  - "https://www.leafly.com/strains/blue-cheese"
-  - "https://www.allbud.com/marijuana-strains/indica/blue-cheese"
   - "Big Buddha Seeds — breeder catalog and strain documentation."
----
-
-## Blue Cheese
+---# Blue Cheese
 
 ## Overview
 

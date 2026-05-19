@@ -13,7 +13,7 @@ sources:
   - "Guzmán, G., et al. (2007). 'A new bluing psilocybin from the USA.' Mycotaxon 100: 167–172."
   - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press."
   - "Kriegstein, A., et al. (2022). 'Psilocybe ovoidocystidiata: ecology and chemistry.' Journal of Fungi 8(11): 1147."
-  - "Baroni, K.J. (2021). '[[african-psilocybin-mushroom-guide]] native to the eastern [[entheogenic-fungi-in-mexico]] [[fungal-taxonomy-and-kingdom-fungi]], Division Basidiomycota, Class Agaricomycetes, Order
+  - "Baroni, K.J. (2021). ' native to the eastern  , Division Basidiomycota, Class Agaricomycetes, Order
 Agaricales, Family Hymenogastraceae, Genus Psilocybe. The species is placed
 in section Cyanescens alongside P. cyanescens, P. azurescens, and
 P. allenii based on its [[bolete-fungi-appalachian-region]], with a natural range extending from Georgia and
@@ -21,9 +21,7 @@ Tennessee north through Ohio, Pennsylvania, and New York to New England.
 The species has spread dramatically since 2007 and is now reported from
 over 20 states, including populations in the [[psilocybin-north-america-pacific-northwest]] following
 accidental introduction through horticultural mulch.
----
-
-European collections have been confirmed from the UK, Germany, and the
+---uropean collections have been confirmed from the UK, Germany, and the
 Netherlands, likely introduced through wood chip landscaping. Fruiting
 occurs in spring (April to June), with a secondary, smaller fruiting in
 autumn. The species is strongly associated with riparian habitats, often

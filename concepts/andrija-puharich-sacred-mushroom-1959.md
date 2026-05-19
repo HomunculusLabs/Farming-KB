@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Andrija Puharich and The Sacred Mushroom (1959)
+---# Andrija Puharich and The Sacred Mushroom (1959)
 
 ## ESP, Egyptian Priests, and the Fly-Agaric in Maine
 

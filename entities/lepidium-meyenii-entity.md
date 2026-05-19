@@ -8,8 +8,7 @@ tags:
   - peruvian-ginseng
   - brassicaceae
   - andes
-  - [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]. Seeds are sown at the start of the rainy season (September–November), and hypocotyls are harvested before the next dry season (May–July).
----
+  - query-how-to-grow-chili-peppers-from-seed-to-harvest. Seeds are sown at the start of the rainy season (September–November), and hypocotyls are harvested before the next dry season (May–July).
 
 ## Nutritional Profile
 

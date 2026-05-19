@@ -5,11 +5,9 @@ tags: [jadam, ultra-low-cost, organic-farming, korean-farming, microorganisms]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+  - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
----
-
-## JADAM Ultra-Low-Cost Technology
+---# JADAM Ultra-Low-Cost Technology
 
 JADAM (Jayonul Sasang Gua Damunhoe) is a South Korean [[jadam-liquid-fertilizer]] (JLF)
 Made from locally available organic materials including wild grasses,

@@ -11,14 +11,9 @@ aliases:
   - O. E. Butler
 tags: [person, science-fiction, afrofuturism, literature, speculative-fiction]
 sources:
-  - https://en.wikipedia.org/wiki/Octavia_E._Butler
-  - https://www.octaviabutler.com/theauthor
-  - https://www.macfound.org/fellows/class-of-1995/octavia-e-butler
   - concepts/afrofuturism.md
 status: complete
----
-
-## Octavia E. Butler
+---# Octavia E. Butler
 
 ## Overview
 

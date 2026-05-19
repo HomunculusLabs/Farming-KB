@@ -12,14 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1111/j.1462-2920.2010.02211.x
-  - https://doi.org/10.3389/fmicb.2020.01065
-  - https://doi.org/10.1111/nph.17099
-  - https://doi.org/10.1094/PHYTO-07-17-0256-R
-  - https://doi.org/10.1016/j.tplants.2021.01.005
 type: query
----
-## How Do serendipita-indica* (broad-spectrum priming)
+--- How Do serendipita-indica* (broad-spectrum priming)
 
 **Duration**: Priming effects typically last 1–3 weeks after volatile exposure ends. Epigenetic modifications (DNA methylation, histone acetylation) may underlie this transient "memory."
 

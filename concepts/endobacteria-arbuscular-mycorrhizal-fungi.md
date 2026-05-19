@@ -5,11 +5,9 @@ tags: [mycorrhiza, endosymbiosis, microbiology, glomeromycota]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/symbiotic-fungi.md
+  - raw/papers/symbiotic-fungi.md
 type: concept
----
-
-## Endobacteria in Arbuscular Mycorrhizal Fungi
+---# Endobacteria in Arbuscular Mycorrhizal Fungi
 
 ## Overview
 

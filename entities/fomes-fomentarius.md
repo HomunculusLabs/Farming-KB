@@ -12,14 +12,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=fomes+fomentarius+medicinal
   - Nechwatal, J. et al. "The tinder fungus: Biology, ecology, and ethnobotany." Mycological Progress, 2021.
   - Peintner, U. et al. "The 'Iceman's' fungi." Mycological Research, 1998.
   - Stjepanović, P. et al. "A traditional gourmet-medicinal-mushroom-casing-layer-techniques with modern pharmacological potential." Journal of Ethnopharmacology, 2023.
 created: 2026-04-28
----
-
-## Fomes fomentarius
+---# Fomes fomentarius
 
 **Amadou / Tinder Conk** — a tough, hoof-shaped bracket fungus in the Polyporaceae family, parasitic and saprotrophic on birch and other hardwoods across the Northern Hemisphere. Among the most culturally significant fungi in human history — used for millennia as fire-starting tinder, wound dressing, clothing material, and medicine. Ötzi the Iceman (ca. 3300 BCE) carried *F. fomentarius*, providing one of the earliest documented human uses of a mushroom.
 

@@ -9,9 +9,8 @@ tags:
   - medicinal-tree
   - adaptogen
   - anti-hypertensive
-  - [[coleman-overwintered-onions-and-early-spring-crops]] before
+  - coleman-overwintered-onions-and-early-spring-crops before
 leaf emergence.
----
 
 **Fruit:** Flattened elliptic samara, 3–4 cm, containing one seed.
 

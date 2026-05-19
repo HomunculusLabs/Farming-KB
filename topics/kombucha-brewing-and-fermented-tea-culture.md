@@ -4,14 +4,8 @@ tags: [fermentation, kombucha, scoby, probiotics, tea, brewing, cultured-beverag
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.healthline.com/nutrition/kombucha-101
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6652794/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/kombucha
-  - https://www.webmd.com/diet/health-benefits-kombucha
   - https://www.masterclass.com/articles/how-to-make-kombucha
----
-
-## Kombucha Brewing and Fermented Tea Culture
+---# Kombucha Brewing and Fermented Tea Culture
 
 Kombucha is a lightly effervescent, fermented tea beverage produced through the symbiotic activity of a mixed culture of bacteria and yeast (SCOBY) on sweetened tea. Originating in Northeast China around 220 BCE — where it was known as the "Tea of Immortality" — kombucha has traveled through Russia, Eastern Europe, and eventually worldwide to become one of the most popular functional beverages of the 21st century.
 

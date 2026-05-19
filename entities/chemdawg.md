@@ -19,13 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/chemdawg
-  - https://www.allbud.com/marijuana-strains/hybrid/chemdawg
-  - https://en.wikipedia.org/wiki/Chemdawg
   - https://wikileaf.com/strain/chemdawg
----
-
-## Chemdawg
+---# Chemdawg
 
 ## Overview
 Chemdawg (also spelled Chemdog) is a legendary cannabis hybrid strain that has served as a genetic cornerstone for dozens of modern cannabis varieties.

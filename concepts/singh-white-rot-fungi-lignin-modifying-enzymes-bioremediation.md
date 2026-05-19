@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## White-Rot Fungi and Lignin-Modifying Enzymes in Bioremediation
+---# White-Rot Fungi and Lignin-Modifying Enzymes in Bioremediation
 
 ## Overview
 

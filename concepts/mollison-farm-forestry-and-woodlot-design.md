@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Farm Forestry and Woodlot Design in Permaculture
+---# Farm Forestry and Woodlot Design in Permaculture
 
 The last decade has seen a marked transition from cropping to
 perennial and long-term development of farms. Mollison argues

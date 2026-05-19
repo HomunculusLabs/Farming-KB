@@ -5,8 +5,7 @@ tags:
   - plant-neurobiology
   - bose
   - electrophysiology
-  - [[chamovitz-plant-scent-communication-volatile-organic-compounds]] Nervous System Hypothesis
----
+  - chamovitz-plant-scent-communication-volatile-organic-compounds Nervous System Hypothesis
 
 ## Overview
 

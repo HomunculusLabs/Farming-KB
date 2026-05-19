@@ -11,15 +11,13 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Armisen, R. & Galatas, F. (2000). "Agar." In: Handbook of Hydrocolloids, Woodhead Publishing, 21-40.
-  - Santelices, B. & Doty, M.S. (1989). "A Review of [[fukuoka-textdoc-man-sole-heretic-natural-order]] Gelidiales, family
+  - Santelices, B. & Doty, M.S. (1989). "A Review of  Gelidiales, family
 Gelidiaceae) comprising approximately 125 described species distributed across
 [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]]ed in bulk agar production by faster-growing Gracilaria species,
 Gelidium remains essential for high-purity applications including
 microbiological [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]] beds
 in several regions, particularly along the Iberian Peninsula and Japan.
----
-
-## Taxonomy and [[fukuoka-textdoc-energy-efficiency-natural-farming]]. The genus is particularly diverse along the Pacific coasts
+---# Taxonomy and [[fukuoka-textdoc-energy-efficiency-natural-farming]]. The genus is particularly diverse along the Pacific coasts
 of Japan, Korea, and Mexico, as well as the Atlantic coasts of Portugal,
 Spain, and Morocco.
 

@@ -3,13 +3,12 @@ title: Proteomics Early Arbuscular Mycorrhiza Symbiosis
 created: 2026-04-28
 tags:
   - proteomics
-  - [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM)
+  - comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi (AM)
 symbiosis reveals the protein-level changes that accompany fungal
 recognition, root colonization, and the establishment of the symbiotic
 interface. Using two-dimensional gel electrophoresis and mass
 spectrometry, researchers have identified differentially expressed
 proteins involved in [[mycorrhizal-symbiosis]].
----
 
 ## Practical Applications
 

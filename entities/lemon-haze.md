@@ -19,12 +19,10 @@ sources:
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - Hazekamp, A. et al. (2016). "The Cannabis Systematics Review: A biologically comprehensive approach." Cannabis and Cannabinoid Research, 1(1), 34-48.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
-  - https://www.leafly.com/strains/lemon-haze ([[cannabis-hybrid-vigor-and-phenotypes-clarke]] created by crossing **[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide after winning the **High Times Cannabis Cup** in 2008. The strain is celebrated for its **intense citrus aroma and flavor**, clear-headed and uplifting cerebral effects, and vigorous growth characteristics. It typically tests at 17–22% THC with negligible CBD content. The [[screen-of-green]]) and LST ([[amnesia-haze]]
+ ( created by crossing ** worldwide after winning the **High Times Cannabis Cup** in 2008. The strain is celebrated for its **intense citrus aroma and flavor**, clear-headed and uplifting cerebral effects, and vigorous growth characteristics. It typically tests at 17–22% THC with negligible CBD content. The ) and LST (
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
----
-
-## Key Considerations
+---# Key Considerations
 
 Several important considerations should guide approach and decision-
 making when working with this topic. These include environmental

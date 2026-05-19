@@ -10,10 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
----
-## Kitchen Garden Herbs and Medicinal Plants
+--- Kitchen Garden Herbs and Medicinal Plants
 The traditional kitchen garden, or Gachtl, was once the heart of every farm,
 providing not only food but also medicine for the family and livestock. Sepp
 Holzer's memories of his mother's garden reveal a sophisticated understanding

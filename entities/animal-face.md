@@ -14,14 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/animal-face
-  - https://www.allbud.com/marijuana-strains/hybrid/animal-face
-  - https://www.wikileaf.com/strain/animal-face/
-  - https://www.leafly.com/strains/face-off-og
   - https://www.leafly.com/strains/animal-mints
----
-
-## Animal Face
+---# Animal Face
 
 ## Overview
 

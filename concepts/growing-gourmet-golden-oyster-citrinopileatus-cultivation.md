@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Golden Oyster Mushroom ([[shiitake-strain-classification-and-substrate-formulas]].
+---# Golden Oyster Mushroom ([[shiitake-strain-classification-and-substrate-formulas]].
 
 Caps are golden to bright yellow, 2-5 cm, convex to plane at maturity,
 often depressed in the center, thin-fleshed, with decurrent gills which

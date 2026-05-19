@@ -19,12 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=178816
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6136445/
   - https://www.frontiersin.org/articles/10.3389/fphar.2017.00675/full
----
-
-## Trametes sanguinea
+---# Trametes sanguinea
 
 *Trametes sanguinea* is a bracket fungus in the family Polyporaceae, notable for its vivid blood-red to orange pore surface
 and white to cream upper surface. Found across tropical and subtropical regions of Asia, Africa, and the Americas, it

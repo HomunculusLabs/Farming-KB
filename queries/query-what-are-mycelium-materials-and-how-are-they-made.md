@@ -5,15 +5,8 @@ tags: [mycelium, biomanufacturing, biomaterials, packaging, mycelium-leather, su
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.nature.com/articles/s41565-019-0490-5
-  - https://doi.org/10.1016/j.matdes.2021.109590
-  - https://www.ecovative.com/research
-  - https://www.boltthreads.com/technology/mylo
-  - https://pubmed.ncbi.nlm.nih.gov/35282264/
 type: query
----
-
-## What Are Mycelium Materials and How Are They Made?
+---# What Are Mycelium Materials and How Are They Made?
 
 ## Quick Answer
 

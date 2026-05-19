@@ -12,14 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.kew.org/plants/baobab-adansonia-digitata
-  - https://www.fao.org/forestry/species/2596/en/
-  - https://link.springer.com/article/10.1007/s13595-019-0844-4
-  - https://doi.org/10.1016/j.jfca.2020.103586
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/adansonia-digitata
----
-
-## Baobab — Cultivation, Ecology, and Uses
+---# Baobab — Cultivation, Ecology, and Uses
 
 ## Overview
 

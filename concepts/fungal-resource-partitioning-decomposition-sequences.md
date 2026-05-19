@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Fungal Resource Partitioning and Decomposition Sequences
+---# Fungal Resource Partitioning and Decomposition Sequences
 
 Fungi function as primary, secondary, and tertiary decomposers in the
 often complex process of degrading mollison [[biodiversity-of-fungi-decomposition-nutrient-cycling]] and connects

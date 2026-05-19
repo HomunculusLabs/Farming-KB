@@ -10,13 +10,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ - research on bioremediation and cultivation
+ - research on bioremediation and cultivation
   - Stamets, P. (2005). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
   - Tsutsumi, F. & Courtecuisse, R. (2010). "Stropharia rugosoannulata: a useful polypore." Mycological Progress.
   - Wasser, S.P. (2014). "gourmet-medicinal-mushroom-casing-layer-techniques Stropharia rugosoannulata." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive.
----
-
-## Stropharia rugosoannulata (Wine Cap Mushroom)
+---# Stropharia rugosoannulata (Wine Cap Mushroom)
 
 ## Overview
 

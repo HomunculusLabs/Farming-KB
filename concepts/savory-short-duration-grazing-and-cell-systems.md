@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Short Duration Grazing and Cell Systems
+---# Short Duration Grazing and Cell Systems
 
 Short duration grazing (SDG) and the cell system of subdividing land into
 multiple paddocks are central to Allan Savory's approach to managing livestock

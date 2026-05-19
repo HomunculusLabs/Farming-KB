@@ -4,14 +4,10 @@ tags: [query, chickpeas, garbanzo-beans, grain-legumes, nitrogen-fixation, veget
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://extension.oregonstate.edu/gardening/growing-chickpeas
-  - https://www.almanac.com/plant/chickpeas
   - Singh, K.B. et al. (1997). Chickpea: Botany, Production and Uses. CAB International
-  - https://www.sare.org/publications/cover-crop-technical-note/chickpea/
 created: 2026-05-07
 type: query
----
-## How [[cover-crop]].
+--- How [[cover-crop]].
 
 ## Why Grow Chickpeas?
 

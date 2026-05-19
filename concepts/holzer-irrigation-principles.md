@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## Holzer Irrigation Principles
+---# Holzer Irrigation Principles
 
 Holzer's approach to irrigation begins with observing how nature waters
 plants. A healthy, mixed forest functions like a sponge. The ground, leaves,

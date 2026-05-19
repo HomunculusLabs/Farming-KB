@@ -5,11 +5,9 @@ tags: [cannabis, administration, pharmacokinetics, dosing, bioavailability]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/cannabis-for-epilepsy-and-seizure-disorders-the-cannabis-health-index.md
+  - raw/papers/cannabis-for-epilepsy-and-seizure-disorders-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis Administration Methods
+---# Cannabis Administration Methods
 
 The therapeutic efficacy of cannabis depends not only on the choice of
 cannabinoids and terpenes but critically on the method of administration.

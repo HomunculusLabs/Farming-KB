@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Leaf Litter Microfungal Diversity
+---# Leaf Litter Microfungal Diversity
 
 The microfungal communities associated with decomposing [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] than soil, and [[fungal-biodiversity-tropical-forests]] harbor particularly
 rich and understudied assemblages. Sampling studies from temperate

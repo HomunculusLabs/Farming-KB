@@ -11,17 +11,13 @@ aliases:
   - Mushroom John
 tags: [person, mycology, ethnomycology, psilocybe, photography]
 sources:
-  - https://en.wikipedia.org/wiki/Psilocybe_samuiensis
-  - https://www.erowid.org/plants/mushrooms/mushrooms.shtml
   - concepts/allen-magic-mushrooms-australia-newzealand-species-guide.md
   - concepts/magic-mushrooms-australia-new-zealand.md
   - concepts/psilocybe-samuiensis-profile.md
   - concepts/copelandia-genus-species-guide.md
   - concepts/psilocybin-mushroom-cultural-artifacts.md
 status: complete
----
-
-## John W. Allen
+---# John W. Allen
 
 ## Overview
 

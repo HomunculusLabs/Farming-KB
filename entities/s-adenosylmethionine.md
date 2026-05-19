@@ -17,11 +17,8 @@ tags:
 created: 2026-05-02
 updated: 2026-05-02
 sources:
-  - https://pubchem.ncbi.nlm.nih.gov/compound/34755
-  - https://en.wikipedia.org/wiki/S-Adenosyl_methionine
   - ~/wiki/concepts/staycare-fungal-biomethylation-of-metals-and-metalloids.md
----
-## S-Adenosylmethionine
+--- S-Adenosylmethionine
 S-Adenosylmethionine is a ubiquitous sulfonium metabolite and one of biology's main activated methyl donors.
 It is commonly abbreviated SAM, SAMe, or AdoMet, depending on biochemical, clinical, or supplement context.
 The molecule links ATP, methionine, sulfur metabolism, and one-carbon transfer chemistry in a single cofactor.

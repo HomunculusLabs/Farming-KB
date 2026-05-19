@@ -5,11 +5,9 @@ tags: [brittle-environments, classification, climate, ecosystem-processes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Brittleness Scale
+---# Brittleness Scale
 
 The brittleness scale is a one-to-ten continuum used to classify environments according
 to their decay and successional processes and how they respond to management tools.

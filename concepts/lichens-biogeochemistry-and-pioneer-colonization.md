@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 type: concept
----
-
-## Lichens - Biogeochemistry and Pioneer Colonization
+---# Lichens - Biogeochemistry and Pioneer Colonization
 
 Lichens represent one of the most successful fungal lifestyles on Earth,
 consisting of fungi that exist in facultative or obligate symbioses with one

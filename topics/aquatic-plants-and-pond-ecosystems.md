@@ -6,21 +6,21 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/concepts/backyard-pond-building.md
-  - ~/wiki/concepts/edible-aquatic-plants.md
-  - ~/wiki/concepts/faires-aquaculture-pond-systems.md
-  - ~/wiki/concepts/faires-pond-design-and-aquaculture.md
-  - ~/wiki/concepts/freshwater-fungi-aquatic-hyphomycetes-ascomycetes.md
-  - ~/wiki/concepts/fungal-communities-water-aquatic-ecosystems.md
-  - ~/wiki/concepts/aquatic-polyculture-design-mollison.md
-  - ~/wiki/concepts/mollison-designers-duck-pond-integrated-systems.md
-  - ~/wiki/concepts/holzer-water-landscapes-pond-building.md
-  - ~/wiki/concepts/permaculture-designers-manual-ponds-and-dams.md
-  - ~/wiki/concepts/holzer-water-management-ponds-springs.md
-  - ~/wiki/concepts/hamilton-garden-ponds-and-aquatic-plants.md
-  - ~/wiki/concepts/pond-and-aquaculture.md
-  - ~/wiki/concepts/holzer-aquaculture-pond-construction.md
-  - ~/wiki/concepts/permaculture-duckweed.md
+  - concepts/backyard-pond-building.md
+  - concepts/edible-aquatic-plants.md
+  - concepts/faires-aquaculture-pond-systems.md
+  - concepts/faires-pond-design-and-aquaculture.md
+  - concepts/freshwater-fungi-aquatic-hyphomycetes-ascomycetes.md
+  - concepts/fungal-communities-water-aquatic-ecosystems.md
+  - concepts/aquatic-polyculture-design-mollison.md
+  - concepts/mollison-designers-duck-pond-integrated-systems.md
+  - concepts/holzer-water-landscapes-pond-building.md
+  - concepts/permaculture-designers-manual-ponds-and-dams.md
+  - concepts/holzer-water-management-ponds-springs.md
+  - concepts/hamilton-garden-ponds-and-aquatic-plants.md
+  - concepts/pond-and-aquaculture.md
+  - concepts/holzer-aquaculture-pond-construction.md
+  - concepts/permaculture-duckweed.md
 related_concepts:
   - backyard-pond-building
   - edible-aquatic-plants
@@ -37,8 +37,7 @@ related_concepts:
   - pond-and-aquaculture
   - holzer-aquaculture-pond-construction
   - permaculture-duckweed
----
-## Aquatic Plants and Pond Ecosystems
+--- Aquatic Plants and Pond Ecosystems
 Aquatic plants and pond ecosystems are freshwater systems in which water,
 sediments, plants, microbes, invertebrates, fish, waterfowl, and surrounding
 land vegetation form a single ecological unit. In gardens and farms, the same

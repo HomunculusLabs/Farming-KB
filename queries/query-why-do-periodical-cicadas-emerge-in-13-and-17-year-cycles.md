@@ -14,16 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310618/
-  - https://bugs.osu.edu/news/cicadas
-  - https://academic.oup.com/ee/article-abstract/49/5/815/5854743
-  - https://www.science.org/doi/10.1126/science.289.5485.1968
-  - https://www.pnas.org/doi/10.1073/pnas.0408025101
 type: query
 created: 2026-04-28
----
-
-## Why Do Periodical Cicadas Emerge in 13- and 17-Year Cycles?
+---# Why Do Periodical Cicadas Emerge in 13- and 17-Year Cycles?
 
 ## Short Answer
 

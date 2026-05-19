@@ -5,11 +5,9 @@ tags: [cannabis, inflammation, anti-inflammatory, endocannabinoid, immune-system
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Inflammation (General Anti-inflammatory Effects)
+---# Cannabis and Inflammation (General Anti-inflammatory Effects)
 
 The [[blesching-cannabis-infectious-agents-cancer]],
   [[blesching-cannabis-infectious-agents-cancer]], and chronic anterior

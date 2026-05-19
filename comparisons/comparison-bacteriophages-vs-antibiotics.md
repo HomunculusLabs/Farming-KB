@@ -5,13 +5,8 @@ tags: [biology, virology, medicine, agriculture, phage-therapy, antibiotics, bio
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.nature.com/articles/s41579-020-0394-1
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7211665/
-  - https://asm.org/Articles/2020/May/Bacteriophages-in-Soil
 type: comparison
----
-
-## Bacteriophages vs Antibiotics
+---# Bacteriophages vs Antibiotics
 
 Bacteriophages (phages) and antibiotics are the two primary antimicrobial strategies used to combat [[cannabis-health-methods-of-administration]] are critical for maintaining efficacy throughout treatment.
 

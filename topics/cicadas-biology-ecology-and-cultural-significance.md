@@ -14,14 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310618/
-  - https://bugs.osu.edu/news/cicadas
-  - https://entomology.ces.ncsu.edu/
-  - https://www.si.edu/encyclopedia/si/cicadas
   - https://academic.oup.com/ee/article-abstract/49/5/815/5854743
----
-
-## Cicadas — Biology, Ecology, and Cultural Significance
+---# Cicadas — Biology, Ecology, and Cultural Significance
 
 ## Overview
 

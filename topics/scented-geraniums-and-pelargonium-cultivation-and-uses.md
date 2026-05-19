@@ -4,12 +4,8 @@ tags: [scented-geraniums, pelargonium, edible-flowers, herbs, aromatics, compani
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - https://pfaf.org/user/Plant.aspx?LatinName=Pelargonium+graveolens
-  - https://www.rhs.org.uk/plants/192366/pelargonium-graveolens/details
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/pelargonium_graveolens.shtml
----
-
-## Scented Geraniums and Pelargonium Cultivation and Uses
+---# Scented Geraniums and Pelargonium Cultivation and Uses
 
 Scented geraniums—botanically *Pelargonium* species and their hybrids—are among the most versatile and underappreciated plants in the home garden and [[essential-oils-and-hydrosol-distillation]], culinary applications, medicinal properties, and ornamental value.
 

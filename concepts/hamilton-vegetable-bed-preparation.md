@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Vegetable Bed Preparation Techniques
+---# Vegetable Bed Preparation Techniques
 
 The best way to ensure good-quality vegetables is to grow them in the
 best soil possible. While soil types vary widely, even poor soil can be

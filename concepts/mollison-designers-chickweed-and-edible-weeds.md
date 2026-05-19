@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Chickweed and Edible Weeds in Permaculture
+---# Chickweed and Edible Weeds in Permaculture
 
 Bill Mollison regarded so-called weeds as among the most misunderstood and
 undervalued resources in modern agriculture. In the Permaculture Designers

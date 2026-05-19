@@ -6,14 +6,11 @@ tags: [psychedelic-compounds, dmt, herbal-plants, ethnobotany, leguminosae, perm
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Mimosa_hostilis
-  - https://pubmed.ncbi.nlm.nih.gov/ (DMT content studies, phytochemistry)
+ (DMT content studies, phytochemistry)
   - Ott, "Pharmacotelephony" (1994)
   - Schultes & Hofmann, "Plants of the Gods" (1992)
   - De Mello et al., "Phytochemistry of Mimosa hostilis" (2022)
----
-
-## Mimosa hostilis
+---# Mimosa hostilis
 
 *Mimosa hostilis* (syn. *[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Rhizobial symbiosis fixes atmospheric nitrogen, improving soil fertility for adjacent plantings
 - **[[permplant-willows-salix-erosion-control-fodder]]:** Dense root network stabilizes soil on slopes and degraded land

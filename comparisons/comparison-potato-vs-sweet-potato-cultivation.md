@@ -4,16 +4,10 @@ tags: [comparison, root-crops, potatoes, sweet-potatoes, solanaceae, convolvulac
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://extension.oregonstate.edu/gardening/vegetables/potatoes
-  - https://content.ces.ncsu.edu/growing-sweet-potatoes-in-the-home-garden
-  - https://www.almanac.com/plant/potatoes
-  - https://www.almanac.com/plant/sweet-potatoes
   - Dean, B.B. (1994). Sweetpotato: An Untapped Food Resource. Cambridge University Press
 created: 2026-05-07
 type: comparison
----
-
-## Potato vs Sweet Potato Cultivation
+---# Potato vs Sweet Potato Cultivation
 
 Potatoes (*Solanum tuberosum*) and sweet potatoes (*Ipomoea batatas*) are both widely grown root crops that share a name but are otherwise completely unrelated botanically, ecologically, and culinarily. Understanding their differences is essential for choosing the right crop for your climate, soil, and goals.
 

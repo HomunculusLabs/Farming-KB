@@ -18,9 +18,6 @@ tags:
   - genomics
   - laboratory-plant
 sources:
-  - https://en.wikipedia.org/wiki/Arabidopsis_thaliana
-  - https://www.arabidopsis.org/
-  - https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3702
 related_concepts:
   - phytochrome-photoreception
   - trichome-development-and-morphology
@@ -28,9 +25,7 @@ related_concepts:
   - mycorrhizal-signaling-strigolactones-myc-factors
 date: 2026-05-02
 updated: 2026-05-02
----
-
-## Arabidopsis thaliana
+---# Arabidopsis thaliana
 
 **Arabidopsis thaliana** is a small flowering plant in the mustard family Brassicaceae.
 It is commonly called thale cress, mouse-ear cress, or simply Arabidopsis.

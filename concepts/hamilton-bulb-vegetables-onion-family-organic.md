@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Bulb Vegetables and the Onion Family
+---# Bulb Vegetables and the Onion Family
 
 The edible bulbs of the onion family are in fact compacted layers of
 swollen leaf bases in which the plant stores food. They prefer a rich

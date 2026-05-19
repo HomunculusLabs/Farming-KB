@@ -3,15 +3,13 @@ title: Fukuoka Serving Nature Philosophy
 created: 2026-05-08
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - path: raw/raw/papers/masanobu-fukuoka-fukuoka.md
+  - path: raw/papers/masanobu-fukuoka-fukuoka.md
     title: The One-Straw Revolution - masanobu-fukuoka
     author: masanobu-fukuoka
 updated: 2026-05-08
 type: concept
 tags: [reference]
----
-
-## Serving Nature — The Philosophy of Non-Intervention
+---# Serving Nature — The Philosophy of Non-Intervention
 
 ## Extravagance of Desire
 

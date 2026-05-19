@@ -7,11 +7,11 @@ tags:
   - scrog
   - sog
   - supercropping
-  - [[defoliation-cannabis|defoliation]]
+  - defoliation-cannabis|defoliation
   - low-stress-training
   - co2-enrichment
   - harvesting
-  - [[cannabis-drying-and-curing|curing]]
+  - cannabis-drying-and-curing|curing
   - hashish
   - rosin
   - extraction
@@ -23,7 +23,6 @@ sources:
   - "Rosenthal, Ed. The Cannabis Encyclopedia"
   - "Clarke, Robert Connell. Marijuana Botany"
   - "Oner, S.T. [[cannabis-sativa]] Volume 3: The Essential Guide"
----
 
 ## Cannabis Advanced Growing Techniques
 

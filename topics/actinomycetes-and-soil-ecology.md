@@ -12,14 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3655461/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/actinomycetes
-  - https://www.frontiersin.org/articles/10.3389/fmicb.2022.847582
-  - https://www.nature.com/articles/s41579-018-0117-3
   - https://www.annualreviews.org/doi/10.1146/annurev.micro.61.080706.093257
----
-
-## Actinomycetes and Soil Ecology
+---# Actinomycetes and Soil Ecology
 
 ## Overview
 

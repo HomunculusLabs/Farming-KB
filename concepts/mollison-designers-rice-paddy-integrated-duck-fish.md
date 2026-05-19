@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Rice Paddy Integrated Duck Fish System
+---# Rice Paddy Integrated Duck Fish System
 
 The integration of rice, ducks, and fish in a single paddy system is one of
 the most refined examples of permaculture-designers-manual-bamboo as a model of how multiple yields can be obtained from a

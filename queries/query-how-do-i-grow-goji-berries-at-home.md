@@ -5,16 +5,8 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - https://extension.oregonstate.edu/gardening/berries
-  - https://www.rhs.org.uk/plants/10730/lycium-barbarum
-  - https://www.gardeningknowhow.com/edible/fruits/goji/goji-berry-plant-care.htm
-  - https://www.almanac.com/plant/goji-berries
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4002566/
-  - https://www.permaculturenews.org/goji-berries-guide
 type: query
----
-
-## How Do I Grow Goji Berries at Home?
+---# How Do I Grow Goji Berries at Home?
 
 A practical FAQ covering everything a beginner needs to know about growing goji berries (*Lycium barbarum*) in a home garden, raised bed, or container.
 

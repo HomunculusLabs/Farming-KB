@@ -5,9 +5,8 @@ tags:
   - permaculture
   - islands
   - atoll-design
-  - [[permaculture-design]] Course classifies islands into two fundamental
+  - permaculture-design Course classifies islands into two fundamental
 types with totally different origins and design challenges:
----
 
 - **Low islands** are residual islands composed of coral and sand with
   accumulations of biomass from sea birds and migratory animals. These

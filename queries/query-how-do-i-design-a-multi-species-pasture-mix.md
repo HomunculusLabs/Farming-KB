@@ -4,15 +4,8 @@ tags: pasture, grazing, livestock, cover-crops, soil-health, forage, polyculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.sare.org/publications/cover-crop-economics/
-  - https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/landuse/pasture/
-  - https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/sustainable-agricultural-systems-laboratory/docs/multi-species-cover-crops/
-  - https://extension.umn.edu/grazing-and-pasture-management/multi-species-pastures
-  - https://organicagriscience.org/wp-content/uploads/2020/07/Designing-Multi-Species-Pasture-Mixes.pdf
 type: query
----
-
-## How Do I Design a Multi-Species Pasture Mix?
+---# How Do I Design a Multi-Species Pasture Mix?
 
 A well-designed multi-species pasture is the backbone of any regenerative livestock operation. Instead of relying on one or two grasses, you're building a living ecosystem that feeds animals, builds soil, and reduces inputs year after year.
 

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
----
-
-## Lignin Peroxidase (LiP) in Fungal Degradation
+---# Lignin Peroxidase (LiP) in Fungal Degradation
 
 Lignin peroxidase (LiP; EC 1.11.1.14) is an extracellular heme-
 containing glycoprotein that catalyzes the oxidative depolymerization

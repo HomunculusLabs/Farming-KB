@@ -13,17 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.haskap.ca/
-  - https://www.rhs.org.uk/plants/191935/lonicera-caerulea/details
-  - https://www.gardeningknowhow.com/edible/fruits/haskap/haskap-plant-care.htm
-  - https://www.uaf.edu/ces/ipm/IntegratedPestManagement/home_garden/Fruit/Haskap-Honeyberry-Fact-Sheet.pdf
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367074/
-  - https://www.extension.umn.edu/fruit/growing-haskap/
-  - https://oregonstate.edu/dept/horticulture/haskap
   - https://www.fruitforum.com/ipm-haskap/
----
-
-## Haskap and Honeyberry Cultivation and Variety Guide
+---# Haskap and Honeyberry Cultivation and Variety Guide
 
 Haskap (also known as honeyberry, blue honeysuckle, or *[[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia, haskap is one of the first fruits to ripen each season — often weeks before strawberries. Its tolerance for extreme cold (hardy to Zone 2), early [[permaculture-designers-manual-cattle-systems]], and commercial fruit growers alike.
 

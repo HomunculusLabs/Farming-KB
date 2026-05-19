@@ -23,13 +23,9 @@ tags:
   - neuropharmacology
   - cognitive-enhancement
 sources:
-  - https://en.wikipedia.org/wiki/Corneliu_E._Giurgea
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Corneliu+Giurgea
 related_concepts:
   - nootropic-herbs-guide
----
-
-## Corneliu E. Giurgea
+---# Corneliu E. Giurgea
 
 ## Overview
 

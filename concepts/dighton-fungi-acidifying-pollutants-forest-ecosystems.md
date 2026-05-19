@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungi and Acidifying Pollutants in Forest Ecosystems
+---# Fungi and Acidifying Pollutants in Forest Ecosystems
 
 The interaction between acidifying pollutants and fungi provides a case
 study in the evolution of [[mckenna-caffeine-coffee-and-industrial-revolution]] in Europe, sulfur dioxide released

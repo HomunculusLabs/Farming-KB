@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md
+  - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
----
-
-## Transplanting and Root-Bound Management
+---# Transplanting and Root-Bound Management
 
 Transplanting is one of the most critical physical interventions a cannabis
 grower performs during the early stages of a plant's life. Moving a plant

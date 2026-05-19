@@ -13,13 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mycobank.org/Biolomics.aspx?Table=Ramaria&Rec=6056&Fields=All
-  - https://www.first-nature.com/fungi/ramaria-botrytis.php
   - Arora, D. (1986). Mushrooms Demystified. Ten Speed Press.
   - Marr, C.D. & Stuntz, D.E. (1973). "Ramaria of western Washington." Biblthca Mycol.
----
-
-## Ramaria botrytis (Coral Mushroom)
+---# Ramaria botrytis (Coral Mushroom)
 
 ## Overview
 

@@ -13,13 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Weraroa_novae-zelandiae
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6279667/
-  - https://pubmed.ncbi.nlm.nih.gov/29565268/
   - https://www.researchgate.net/publication/322726792
----
-
-## Weraroa novae-zelandiae
+---# Weraroa novae-zelandiae
 
 ## Overview
 

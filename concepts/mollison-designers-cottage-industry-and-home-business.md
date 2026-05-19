@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Cottage Industry and Home Business in Permaculture
+---# Cottage Industry and Home Business in Permaculture
 
 A fundamental tenet of [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]], and fermented foods and
 beverages.

@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Scaling Fungal Remediation from Laboratory to Field
+---# Scaling Fungal Remediation from Laboratory to Field
 
 The translation of laboratory-proven [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]] to
 field-scale application remains one of the most significant challenges in

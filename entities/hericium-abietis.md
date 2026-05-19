@@ -20,16 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=129998&Fields=All
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3339609/
-  - https://www.mushroomexpert.com/hericium_abietis.html
-  - https://www.firstnature.com/fungi/hericium-abietis.php
-  - https://www.ncbi.nlm.nih.gov/pubmed/22206191
-  - https://www.inaturalist.org/taxa/344602-Hericium-abietis
   - https://www.speciesfungorum.org/Names/SFNames.asp
----
-
-## Hericium abietis
+---# Hericium abietis
 
 ## Overview
 

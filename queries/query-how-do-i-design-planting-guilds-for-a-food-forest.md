@@ -13,15 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.permaculturenews.org/2016/10/11/how-to-build-a-food-forest/
-  - https://pfa.org/guilds/
-  - https://www.tenthacrefarm.com/permaculture-plant-guilds/
-  - https://www.richsoil.com/permaculture-guilds.jsp
-  - https://www.agroforestry.ac.uk/guides/planting-guilds
 type: query
----
-
-## How Do I Design Planting Guilds for a [[dynamic-accumulators]]**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
+---# How Do I Design Planting Guilds for a [[dynamic-accumulators]]**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
 - **Insectary plants**: Flowers that attract pollinators and predatory insects
 - **[[permaculture-plants-root-crops-and-tubers]]**: Plants that occupy different soil horizons to reduce competition
 - **Mulch producers**: Plants that generate biomass for [[caragana-arborescens]]

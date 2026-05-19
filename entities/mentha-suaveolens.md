@@ -15,7 +15,7 @@ tags:
   - culinary-herb
   - aromatic
   - essential-oil
-  - [[companion-planting]]
+  - companion-planting
   - temperate-climate
   - herbalism
   - edible
@@ -27,7 +27,6 @@ sources:
   - Grieve, M. (1931). "A Modern Herbal." Penguin.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579286-1
 created: 2026-04-28
----
 
 ## Overview
 

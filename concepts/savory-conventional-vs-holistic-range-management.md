@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Conventional vs Holistic Range Management
+---# Conventional vs Holistic Range Management
 
 [[allan-savory]] draws a sharp distinction between conventional range management
 practices and the holistic approach he advocates. The conventional paradigm,

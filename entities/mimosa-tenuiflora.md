@@ -14,12 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=mimosa+tenuiflora+dmt+bark+phytochemistry
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5397334/
   - Ott, J. (1994). Ayahuasca Analogues: Pegaan Huasca. Natural Products Co.
   - Albuquerque, U.P. et al. (2011). "The use of plants in northeastern Brazil." Journal of Ethnopharmacology.
----
-## Mimosa tenuiflora (Jurema / Jurema Preta)
+--- Mimosa tenuiflora (Jurema / Jurema Preta)
 
 ## Overview
 

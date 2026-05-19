@@ -15,12 +15,10 @@ sources:
   - "Gonçalves, E.C. et al. (2012). \"Nerolidol, a sesquiterpene alcohol: Pharmacology and metzner-ayahuasca-therapeutic-potential of this underestimated molecule.\" Mini-Reviews in Medicinal Chemistry, 12(15), 1635-1644."
   - "Sokmen, A. et al. (2004). \"The in vitro antimicrobial and antioxidant activities of the comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap of various plants.\" Journal of the Science of Food and Agriculture, 84(10), 1169-1176."
   - "Rao, V.S.N. et al. (2008). \"Anti-inflammatory and anti-nociceptive effects of nerolidol.\" Journal of Pharmacy and Pharmacology, 60(sup1), A44."
-  - "Aprotosoaie, A.C. et al. (2014). \"[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of many aromatic plants and in numerous cannabis
+  - "Aprotosoaie, A.C. et al. (2014). \" of many aromatic plants and in numerous cannabis
 cultivars. It exists as two isomers: cis-nerolidol and trans-nerolidol, with
 trans being more common in nature.
----
-
-The compound is valued for its sedative, anti-inflammatory, and antimicrobial
+---he compound is valued for its sedative, anti-inflammatory, and antimicrobial
 properties. In cannabis, it contributes to the characteristic woody, floral
 aroma and is believed to enhance transdermal absorption of co-occurring
 cannabinoids and terpenes, making it a functional component of the entourage

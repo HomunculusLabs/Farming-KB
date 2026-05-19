@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Straw Bale Building Techniques
+---# Straw Bale Building Techniques
 
 Straw [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] method featured in Bill
 Mollison's Permaculture: A [[comparison-cob-construction-vs-straw-bale-construction]]:

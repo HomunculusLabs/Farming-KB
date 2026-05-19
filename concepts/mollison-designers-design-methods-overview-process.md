@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Permaculture Design Methods and Process
+---# Permaculture Design Methods and Process
 
 Permaculture design is a systematic methodology for creating sustainable
 human settlements. Bill Mollison presents design as an iterative process of

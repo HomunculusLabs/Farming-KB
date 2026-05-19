@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Singer-Wasson Scientific Rivalry Over Psilocybe Taxonomy
+---# Singer-Wasson Scientific Rivalry Over Psilocybe Taxonomy
 
 ## A Taxonomic Dispute That Rumbled for Decades
 

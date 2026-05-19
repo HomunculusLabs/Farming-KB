@@ -9,10 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1186/1472-6882-11-80
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058895/
-  - https://doi.org/10.1155/2022/7596496
-  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/taraxacum_officinale.shtml
 aliases:
   - Taraxacum officinale
   - common dandelion
@@ -20,8 +16,7 @@ aliases:
   - dent-de-lion
   - piss-en-lit
 created: 2026-05-07
----
-## Dandelion
+--- Dandelion
 
 The dandelion (*[[cervantes-seed-production-storage]]**: A single plant produces 2,000–5,000+ seeds per year; seeds remain viable for 5–8 years in soil
 - **Dispersal**: Wind-dispersed; pappus enables long-distance travel (up to 100+ km under optimal conditions)

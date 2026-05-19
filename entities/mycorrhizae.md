@@ -9,18 +9,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1016/S0953-7562(08)61800-0
-  - https://www.nature.com/articles/s41477-018-0323-4
-  - https://doi.org/10.1111/j.1469-8137.2004.01268.x
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3815789/
 aliases:
   - mycorrhizal fungi
   - mycorrhizal association
   - mycorrhiza
 created: 2026-05-07
----
-
-## Mycorrhizae
+---# Mycorrhizae
 
 Mycorrhizae (singular: mycorrhiza) are symbiotic associations between fungi and plant roots, found in over 80% of terrestrial plant species. The term comes from the Greek *mykes* (fungus) and *rhiza* (root). These mutualistic relationships are among the most widespread and ecologically important on Earth, forming a [[fungal-hyphae]] explore soil volumes far beyond the root depletion zone, accessing phosphate from organic matter and mineral surfaces. Phosphorus is transported to the plant as phosphate ions.
 - **Nitrogen**: AMF access ammonium and amino acids; ECM fungi are particularly efficient at mining organic nitrogen from soil organic matter via protease secretion.

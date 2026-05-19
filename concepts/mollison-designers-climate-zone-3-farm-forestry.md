@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Zone 3 - Farm Forestry and Broadacre Systems
+---# Zone 3 - Farm Forestry and Broadacre Systems
 
 Zone 3 in the holmgren-food-forests-agroforestry for
 the broader context.

@@ -10,10 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-## Mitosporic Fungi Diversity and Species Estimates
+--- Mitosporic Fungi Diversity and Species Estimates
 Mitosporic fungi, also known as Fungi Imperfecti or
 Deuteromycota, are fungi that reproduce only asexually
 through the production of conidia or other mitospores,

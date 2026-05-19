@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Growing Room Ventilation and Air Exchange Systems
+---# Growing Room Ventilation and Air Exchange Systems
 
 The growing room environment should ideally act as a giant
 wind tunnel, providing a homogeneously mixed atmosphere.

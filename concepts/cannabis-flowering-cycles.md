@@ -5,11 +5,9 @@ tags: [cannabis, flowering, photoperiod, sinsemilla, plant-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
+  - raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
 type: concept
----
-
-## Cannabis [[cannabis-plant-anatomy]] for detailed morphology of cannabis
+---# Cannabis [[cannabis-plant-anatomy]] for detailed morphology of cannabis
   structures
 - cannabis [[greg-green-thc-and-cannabinoid-science]] production
 - plant stress responses for how [[green-cannabis-flowering-management]]

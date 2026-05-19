@@ -14,15 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - https://www.rhs.org.uk/plants/10654/passiflora-edulis/details
-  - https://www.crfg.org/pubs/ff/passionfruit.html
-  - https://www.gardeningknowhow.com/edible/fruits/passionfruit/passionfruit-vine-care.htm
-  - https://www.fao.org/3/x4516e/x4516e06.htm
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/passiflora
 type: query
----
-
-## How to Grow Passionfruit in Different Climates?
+---# How to Grow Passionfruit in Different Climates?
 
 Passionfruit (*Passiflora* spp.) is a vigorous perennial vine prized for its aromatic, nutrient-dense fruit. While often associated with the tropics, it can be grown across a wide range of climates with proper species selection. This page covers strategies for each major climate type and practical techniques for extending the growing range.
 

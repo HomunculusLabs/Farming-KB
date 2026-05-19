@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Plant Growth Promoting Mechanisms
+---# Fungal Plant Growth Promoting Mechanisms
 
 Plant growth-promoting fungi (PGPF) encompass a diverse range of fungal
 organisms that enhance plant growth, nutrient acquisition, and stress

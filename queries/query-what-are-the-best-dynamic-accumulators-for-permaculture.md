@@ -15,16 +15,14 @@ updated: 2026-04-28
 sources:
   - "Carpenter, Thomas J. How to Make a mollison-designers-forest-garden-layer-canopy-understory. Permanent Publications, 2020."
   - "White, Robert D. Plants for a Future: Edible, Medicinal and Useful Plants for a Healthier World. Permanent Publications, 1996."
-  - "Jacke, Dave, and [[symphytum-officinale]]) | N, P, K, Ca, Si | 3–10 ft | Chop-and-drop mulch, compost tea, living mulch under fruit trees |
+  - "Jacke, Dave, and ) | N, P, K, Ca, Si | 3–10 ft | Chop-and-drop mulch, compost tea, living mulch under fruit trees |
 | **[[cichorium-intybus]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]] for Permaculture? has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
 reflects the fundamental importance of this topic across disciplines.
----
-
-Implementation varies based on scale, available resources, and
+---mplementation varies based on scale, available resources, and
 specific objectives. Small-scale applications may be relatively
 straightforward, while larger implementations require more careful
 planning and coordination. Adaptation to local conditions is always

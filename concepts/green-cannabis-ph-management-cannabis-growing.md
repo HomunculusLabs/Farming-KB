@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md
+  - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
----
-
-## pH Management for Cannabis Growing
+---# pH Management for Cannabis Growing
 
 pH is one of the three main factors to consider when evaluating growing
 medium for cannabis (along with nutrients and structure). Greg Green's

@@ -5,8 +5,7 @@ type: species
 tags:
   - herbal-plant
   - antimalarial
-  - [[guzman-psilocybin-mushrooms-south-america]].
----
+  - guzman-psilocybin-mushrooms-south-america.
 
 It is the original and most historically significant source of quinine, the first effective antimalarial compound, which revolutionized the treatment of malaria worldwide.
 

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Caramel Capped Psilocybe (P. cyanescens Complex) Cultivation
+---# Caramel Capped Psilocybe (P. cyanescens Complex) Cultivation
 
 ## Overview and Description
 

@@ -6,21 +6,21 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - ~/wiki/concepts/bacterial-plant-diseases.md
-  - ~/wiki/concepts/fungal-plant-diseases.md
-  - ~/wiki/concepts/bloomfield-potato-blight-phytophthora-infestans.md
-  - ~/wiki/concepts/bloomfield-coffee-rust-and-crop-pathogens.md
-  - ~/wiki/concepts/cervantes-powdery-mildew-prevention-treatment.md
-  - ~/wiki/concepts/cervantes-downy-mildew-fungal-blight.md
-  - ~/wiki/concepts/cervantes-fusarium-vascular-wilt-diseases.md
-  - ~/wiki/concepts/cervantes-foliar-spots-blight-fungal-leaf-diseases.md
-  - ~/wiki/concepts/cervantes-verticillium-wilt-sooty-mold.md
-  - ~/wiki/concepts/jadam-fungal-disease-management.md
-  - ~/wiki/concepts/jadam-pesticide-for-fungal-diseases.md
-  - ~/wiki/concepts/jadam-pesticide-for-powdery-mildew.md
-  - ~/wiki/concepts/foliar-epiphytic-fungi-sooty-mildews-powdery-mildews.md
-  - ~/wiki/concepts/downy-mildew-biology-diversity-peronosporales.md
-  - ~/wiki/concepts/biodiversity-rust-fungi-urediniomycetes.md
+  - concepts/bacterial-plant-diseases.md
+  - concepts/fungal-plant-diseases.md
+  - concepts/bloomfield-potato-blight-phytophthora-infestans.md
+  - concepts/bloomfield-coffee-rust-and-crop-pathogens.md
+  - concepts/cervantes-powdery-mildew-prevention-treatment.md
+  - concepts/cervantes-downy-mildew-fungal-blight.md
+  - concepts/cervantes-fusarium-vascular-wilt-diseases.md
+  - concepts/cervantes-foliar-spots-blight-fungal-leaf-diseases.md
+  - concepts/cervantes-verticillium-wilt-sooty-mold.md
+  - concepts/jadam-fungal-disease-management.md
+  - concepts/jadam-pesticide-for-fungal-diseases.md
+  - concepts/jadam-pesticide-for-powdery-mildew.md
+  - concepts/foliar-epiphytic-fungi-sooty-mildews-powdery-mildews.md
+  - concepts/downy-mildew-biology-diversity-peronosporales.md
+  - concepts/biodiversity-rust-fungi-urediniomycetes.md
 related_concepts:
   - bacterial-plant-diseases
   - fungal-plant-diseases
@@ -30,9 +30,7 @@ related_concepts:
   - cervantes-fusarium-vascular-wilt-diseases
   - jadam-fungal-disease-management
   - downy-mildew-biology-diversity-peronosporales
----
-
-## Plant Disease Management in Organic Gardens
+---# Plant Disease Management in Organic Gardens
 
 Plant disease management in organic gardens is the practice of reducing
 crop losses from fungi, bacteria, oomycetes, and related organisms by

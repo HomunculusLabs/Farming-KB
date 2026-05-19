@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## Holzer Water Landscapes and Retention
+---# Holzer Water Landscapes and Retention
 
 [[fukuoka-natural-body-and-health]] of the earth acts as a storage organ for water. A naturally
 built reservoir that allows water to seep into the ground has a balancing

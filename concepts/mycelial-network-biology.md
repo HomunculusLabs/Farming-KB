@@ -6,13 +6,12 @@ type: concept
 tags: [mycology, biology, mycelium, fungal-ecology]
 sources:
   - Stamets, P. (2005). Mycelium Running. Ten Speed Press.
-  - Gadd, G.M. (2001). [[grass-seed-substrate-for-mushroom-cultivation]]. A single mycelial network can
+  - Gadd, G.M. (2001). . A single mycelial network can
 cover enormous areas and persist for centuries. Networks of Armillaria
 species have been documented exceeding 900 hectares and estimated at
 thousands of years old, making them among the largest and oldest
 living organisms on Earth.
----
-## Hyphal Structure and Growth
+--- Hyphal Structure and Growth
 Individual hyphae are tubular cells typically one to ten micrometers
 in diameter, growing by extension at the apex. Their structure is
 adapted for invasive exploration of solid substrates and efficient

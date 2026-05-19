@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
----
-
-## Problem Plant Regulation with Livestock
+---# Problem Plant Regulation with Livestock
 
 [[sepp-holzer-garden-helpers-and-pest-regulation]].
 

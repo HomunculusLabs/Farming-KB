@@ -13,12 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=mitragyna+speciosa+kratom
-  - https://www.drugabuse.gov/drugs-abuse/kratom
   - Prozialeck, W.C. et al. (2012). "Kratom: A case of misleading product categorization." J kratom-mitragyna-speciosa-pharmacology: A review of its pharmacology." J Pharm Pharmacol.
----
-
-## Mitragyna speciosa
+---# Mitragyna speciosa
 
 **[[kratom]]** | **Ketum** | **Thom** | **Ithang** | **Kakuam** | **Biak**
 

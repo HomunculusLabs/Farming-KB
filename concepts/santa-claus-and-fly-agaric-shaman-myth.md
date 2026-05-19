@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Santa Claus and the Fly Agaric Shaman Myth
+---# Santa Claus and the Fly Agaric Shaman Myth
 
 The idea that the modern figure of Father Christmas is an attenuated
 folk memory of Siberian fly-agaric shamanism has become one of the

@@ -2,15 +2,13 @@
 title: The oner sativa renaissance rise of the second child — Rise of the Second Child
 created: 2026-05-08
 sources:
-  - path: raw/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+  - path: raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
     title: cannabis-sativa Vol. 3 - The Essential Guide
     author: S.T. Oner, The Rev
 updated: 2026-05-08
 type: concept
 tags: [reference]
----
-
-## The Sativa Renaissance — Rise of the Second Child
+---# The Sativa Renaissance — Rise of the Second Child
 
 ## Sativa as the Overlooked Sibling
 

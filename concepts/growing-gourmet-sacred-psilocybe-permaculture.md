@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Sacred Psilocybe Mushrooms in Permaculture Landscapes
+---# Sacred Psilocybe Mushrooms in Permaculture Landscapes
 
 In the Pacific Northwest of North America, the Psilocybe mushrooms
 figure as some of the most frequently found fungi in landscaping

@@ -5,11 +5,9 @@ tags: [land-planning, infrastructure, grazing-cells, paddocks, strategic]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Land Planning and Grazing Cell Design
+---# Land Planning and Grazing Cell Design
 
 Until recently, land on farms, ranches, forests, national parks, and tribal lands was
 rarely planned with any long-term vision. Forests were planned for easy extraction,

@@ -6,11 +6,8 @@ tags: [legumes, fabaceae, dmt-containing, tryptamine, nitrogen-fixing, permacult
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/
   - https://pfaf.org/
----
-
-> "Among the prairie legumes, Desmanthus illinoensis stands as both a keystone mimosa-hostilis
+--- "Among the prairie legumes, Desmanthus illinoensis stands as both a keystone mimosa-hostilis
 - **Illinois Mimosa** — regional variant, less common in current usage
 
 ## Etymology

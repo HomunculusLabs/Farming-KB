@@ -6,7 +6,7 @@ tags:
   - meditation
   - consciousness
   - philosophy-of-science
-  - [[fukuoka-the-one-straw-revolution-final-chapter]] of LSD: My Problem Child, Hofmann reveals the
+  - fukuoka-the-one-straw-revolution-final-chapter of LSD: My Problem Child, Hofmann reveals the
 philosophical framework that guided his life's work. He cites the
 Gospel according to John, Chapter 14, where Jesus promises his
 disciples "another Comforter" and "the Spirit of truth" that "the
@@ -16,7 +16,6 @@ beliefs and my call to natural-scientific research: we will attain to
 knowledge of the universe through the spirit of truth, and thereby to
 understanding of our being one with the deepest, most comprehensive
 reality, God."
----
 
 ## Critique of Ecclesiastical Christianity
 

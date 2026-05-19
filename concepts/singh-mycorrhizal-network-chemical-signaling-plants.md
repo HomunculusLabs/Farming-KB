@@ -5,11 +5,9 @@ tags: [mycorrhizal-networks, plant-signaling, allelopathy, defense-priming]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Mycorrhizal Network Chemical Signaling and Plant Communication
+---# Mycorrhizal Network Chemical Signaling and Plant Communication
 
 The common [[mycorrhizal-fungi]] establish extensive hyphal networks in soil that
 simultaneously colonize the roots of neighboring plants. A single fungal

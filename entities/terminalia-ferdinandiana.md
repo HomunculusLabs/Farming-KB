@@ -7,7 +7,7 @@ tags:
   - superfruit
   - vitamin-c
   - bushfood
-  - [[permaculture]]
+  - permaculture
   - medicinal-plant
 date: 2026-04-28
 updated: 2026-04-28
@@ -18,7 +18,6 @@ sources:
   - Tan Y, et al. (2011). "Antioxidant and cytotoxic activities of Terminalia ferdinandiana." Journal of Agricultural and Food Chemistry, 59(1), 365-372.
   - http://www.anbg.gov.au/gnp/interns-2005/terminalia-ferdinandiana.html
 created: 2026-04-28
----
 
 ## Terminalia ferdinandiana
 

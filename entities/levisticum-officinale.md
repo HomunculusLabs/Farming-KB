@@ -6,10 +6,9 @@ tags:
   - herbal-plant
   - culinary-herb
   - medicinal
-  - [[nutrient-dynamic-accumulator-reference]], and
+  - nutrient-dynamic-accumulator-reference, and
 long-lived perennial vegetable requiring minimal maintenance
 once established.
----
 
 ## Taxonomy
 

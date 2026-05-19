@@ -10,14 +10,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.remineralize.org/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/rock-dust
   - Hamaker, J. "The Survival of Civilization"
   - Manning, D.A.C. "Mineral Sources of Potassium for Plant Nutrition"
 type: query
----
-
-## How Does Rock Dust Improve Soil Fertility?
+---# How Does Rock Dust Improve Soil Fertility?
 
 ## Short Answer
 

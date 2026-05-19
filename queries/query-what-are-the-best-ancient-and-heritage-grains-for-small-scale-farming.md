@@ -16,14 +16,8 @@ type: query
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/traditional-crops/en/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366744/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cereal-science
-  - https://rodaleinstitute.org/why-organic/organic-grains/
   - https://www.wholegrainscouncil.org/definitions/ancient-grains
----
-
-## What Are the Best Ancient and Heritage Grains for Small-Scale Farming?
+---# What Are the Best Ancient and Heritage Grains for Small-Scale Farming?
 
 ## Summary
 

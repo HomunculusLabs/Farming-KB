@@ -18,11 +18,8 @@ sources:
   - "Perkins, R. (2015). Making Small Farms Work. Ridgedale Permaculture."
   - "Perkins, R. (2020). The Regenerative Agriculture Farm Profit Program. Ridgedale Permaculture AB."
   - "Ridgedale Permaculture. (2024). About. ridgedalepermaculture.com."
-  - https://www.ridgedalepermaculture.com/
   - https://www.youtube.com/@RichardPerkinsRegenAg
----
-
-## Richard Perkins
+---# Richard Perkins
 
 ## Overview
 

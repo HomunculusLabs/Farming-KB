@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Wickiup and Quick Shelter Construction
+---# Wickiup and Quick Shelter Construction
 
 Quick shelters built from locally available [[permaculture-earthworks]] and construction phases, demonstration of low-cost building
 techniques, and long-term culturally appropriate housing in many climates.

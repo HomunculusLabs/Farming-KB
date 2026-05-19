@@ -12,13 +12,11 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
-  - Kok, B.E. et al. (2013). University of [[gratitude-compassion-forgiveness-healing-habits-endocannabinoid-system]] in the mind-body medicine framework. Each has been shown
+  - Kok, B.E. et al. (2013). University of  in the mind-body medicine framework. Each has been shown
 through controlled research to produce measurable physiological
 benefits including reduced cortisol, improved vagal tone, and changes
 in brain structure.
----
-
-Unlike the destructive habits of guilt, martyrdom, and [[abscisic-acid-plant-stress-hormone]] cortisol, increases positive
+---nlike the destructive habits of guilt, martyrdom, and [[abscisic-acid-plant-stress-hormone]] cortisol, increases positive
 affect such as caring and happiness, and produces a significant
 increase in DHEA, a suspected anti-aging molecule.
 

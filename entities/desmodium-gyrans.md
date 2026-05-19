@@ -5,13 +5,12 @@ type: species
 tags:
   - fabaceae
   - leguminous-plant
-  - [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]]
+  - guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot
 leguminous shrub in the family Fabaceae. It is renowned for its rapid
 nastic movement — the small lateral leaflets oscillate continuously in
 response to stimuli including light, sound, temperature, and touch.
 This visible movement has made it a subject of scientific curiosity
 since the 19th century and a popular ornamental curiosity plant.
----
 
 Beyond its novelty value, the [[psilocybe-southeast-asia-pacific]], and it
 serves practical roles in permaculture as a nitrogen-fixing ground[[holzer-green-manure-crop-compendium]].

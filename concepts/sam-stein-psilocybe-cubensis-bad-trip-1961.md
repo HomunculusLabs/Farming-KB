@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 type: concept
----
-
-## Sam Stein's Psilocybe Cubensis Bad Trip (1961)
+---# Sam Stein's Psilocybe Cubensis Bad Trip (1961)
 
 ## The First Documented Psilocybin Bad Trip in a Laboratory Setting
 

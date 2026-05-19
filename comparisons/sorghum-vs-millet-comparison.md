@@ -13,13 +13,11 @@ sources:
   - FAO. "Sorghum and Millets in Human Nutrition." Food and Agriculture Organization, 1995.
   - ICRISAT. "Sorghum and Millets Compendium." International Crops Research Institute for the Semi-Arid Tropics, 2021.
   - National Research Council. "Lost Crops of Africa: Volume I — Grains." National Academies Press, 1996.
-  - CGIAR [[companion-planting]] and [[agroforestry]] systems as understory crops in young tree plantings
+  - CGIAR  and  systems as understory crops in young tree plantings
 - As nurse crops for establishing perennial pastures
 - Both contribute to soil [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
----
-
-## Key Considerations
+---# Key Considerations
 
 Several important considerations should guide approach and decision-
 making when working with this topic. These include environmental

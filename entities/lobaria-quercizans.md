@@ -12,13 +12,11 @@ sources:
   - Yoshimura I. (1971). "The genus Lobaria of Eastern Asia." Journal of the Hattori Botanical Laboratory 34: 231-364.
   - Jordan W.P. (1973). "The genus Lobaria in psilocybin-north-america-pacific-northwest north of Mexico." The Bryologist 76(2): 225-251.
   - Miadlikowska J. et al. (2018). "A phylogenetic framework for the Peltigerales." American Journal of Botany 105(6): 1095-1115.
-  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens [[lobaria-pulmonaria]], L. quercizans harbors both green algal and
+  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens , L. quercizans harbors both green algal and
 cyanobacterial photobionts, making it a tripartite lichen with significant
 nitrogen-fixing capability. It is considered an indicator of forest
 continuity and ecological health.
----
-
-## Taxonomy and Morphology
+---# Taxonomy and Morphology
 
 Lobaria quercizans was described by [[air-pollution-fungal-community-responses]]. It grows on the bark of mature
 oaks, maples, beeches, and basswood, typically on trunks and large

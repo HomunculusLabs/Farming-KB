@@ -5,11 +5,9 @@ tags: [shrubs, perennials, pruning, ornamental, hamilton]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Ornamental Shrub and Perennial Care
+---# Ornamental Shrub and Perennial Care
 
 Geoff Hamilton provided detailed guidance on maintaining ornamental
 shrubs and perennials in the organic garden. Proper care including

@@ -20,12 +20,10 @@ updated: 2026-04-28
 sources:
   - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." Annales Cryptogamici et Phytopathologici.
   - Kuo, M. (2024). "Suillus brevipes." MushroomExpert.com. https://www.mushroomexpert.com/suillus_brevipes.html
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[berry-growing]].
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). ".
 The species epithet *brevipes* ("short foot") refers to its characteristically
 stumpy, nearly absent stipe. It forms [[psilocybin-north-america-pacific-northwest]] and Rocky Mountains.
----
-
-Unlike many Suillus species, S. brevipes lacks a [[palmer-mushroom-hunting-field-identification]]
+---nlike many Suillus species, S. brevipes lacks a [[palmer-mushroom-hunting-field-identification]]
 relatively straightforward.
 
 ## Taxonomy

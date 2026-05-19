@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Biosorption Isotherms and Equilibrium Models
+---# Fungal Biosorption Isotherms and Equilibrium Models
 
 Biosorption is a pseudo-ion-exchange process in which metal ions are
 exchanged for counterions in the [[dighton-fungal-heavy-metal-accumulation-bioremediation]] removal by fungal

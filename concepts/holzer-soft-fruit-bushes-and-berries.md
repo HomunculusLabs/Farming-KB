@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
----
-
-## Soft Fruit Bushes and Berries
+---# Soft Fruit Bushes and Berries
 
 Soft fruit bushes and berries form a valuable and productive layer in Sepp
 Holzer's permaculture systems. From currants and gooseberries to strawberries

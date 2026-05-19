@@ -13,13 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://extension.psu.edu/bramble-production
-  - https://catalog.extension.oregonstate.edu/ec1303
-  - https://www.gardening.cornell.edu/home-gardening/fruit-growing-guides/
   - https://www.gov.uk/government/publications/growing-berries
----
-
-## Bramble and Cane Fruit Cultivation
+---# Bramble and Cane Fruit Cultivation
 
 Brambles (genus *Rubus*) are among the most rewarding and productive fruiting plants for home gardeners, homesteaders, and permaculture systems. This group includes blackberries, raspberries, boysenberries, loganberries, tayberries, and their many hybrids. They are relatively easy to grow, produce abundantly within 1–3 years of planting, and offer excellent nutritional value — rich in vitamin C, fiber, manganese, and anthocyanins.
 

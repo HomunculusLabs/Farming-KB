@@ -3,8 +3,7 @@ title: "Eth-Ma"
 type: chemical
 tags:
   - psychedelic
-  - [[alexander-shulgin]] reports a threshold-level [[leary-psychedelic-experience-bardo-mapping]] at a 15 mg oral dose.
----
+  - alexander-shulgin reports a threshold-level leary-psychedelic-experience-bardo-mapping at a 15 mg oral dose.
 
 The compound is structurally positioned between DMT (N,N-dimethyltryptamine) and Eth-MiPT, sharing the N-ethyl substituent with several pharmacologically active tryptamines.
 

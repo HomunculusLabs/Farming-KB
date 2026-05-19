@@ -13,16 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624895/
-  - https://www.nature.com/articles/s41579-019-0224-9
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/mycorrhiza
-  - https://www.frontiersin.org/articles/10.3389/fmicb.2021.642574
-  - https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-121215-022332
 type: comparison
 created: 2026-04-28
----
-
-## Lichen Symbiosis vs Mycorrhizal Symbiosis
+---# Lichen Symbiosis vs Mycorrhizal Symbiosis
 
 Both lichen symbiosis and mycorrhizal symbiosis are iconic examples of mutualistic relationships involving fungi, yet they differ profoundly in their structure, function, ecology, and evolutionary history. Understanding these differences illuminates the remarkable diversity of fungal lifestyles and the centrality of symbiosis in terrestrial ecosystems.
 

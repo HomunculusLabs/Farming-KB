@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungal Metal Transformation and Methylation Processes
+---# Fungal Metal Transformation and Methylation Processes
 
 Fungi do not merely accumulate heavy metals passively; they actively
 transform the chemical state of metals through enzymatic and

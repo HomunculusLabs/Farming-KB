@@ -6,11 +6,8 @@ tags: [herbal-plants, adaptogens, schisandraceae, berries, traditional-chinese-m
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/
   - https://pfaf.org/
----
-
-> "The five flavors enter the five organs: sour enters the liver, bitter enters the heart, sweet enters the spleen, acrid enters the lungs, and salty enters the kidneys." — *Bencao Gangmu* (Li Shizhen, 1596)
+--- "The five flavors enter the five organs: sour enters the liver, bitter enters the heart, sweet enters the spleen, acrid enters the lungs, and salty enters the kidneys." — *Bencao Gangmu* (Li Shizhen, 1596)
 
 ## Taxonomy
 

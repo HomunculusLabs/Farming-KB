@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - zygomycota
   - phylogeny
-  - [[bloomfield-cordyceps-insect-pathogens-behavior]] with distinctive
+  - bloomfield-cordyceps-insect-pathogens-behavior with distinctive
   forcibly discharged conidia
 - **Trichomycetes (Harpellales)**: gut commensals of
   arthropods, excluding Amoebidiales
@@ -14,7 +14,6 @@ tags:
 - **Mortierellales**: basal sister group of the Mucorales
 - **Dimargaritales**: parasites of other fungi
 - **Zoopagales**: predators or parasites of small invertebrates
----
 
 ## Harpellales-Kickxellales Relationship
 

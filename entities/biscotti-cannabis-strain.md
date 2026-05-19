@@ -20,14 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/biscotti
-  - https://www.allbud.com/marijuana-strains/hybrid/biscotti
-  - https://www.wikileaf.com/strain/biscotti/
-  - https://www.flowertown.co/strains/biscotti/
   - https://en.wikipedia.org/wiki/Lists_of_cannabis_strains
----
-
-## Biscotti
+---# Biscotti
 
 ## Overview
 

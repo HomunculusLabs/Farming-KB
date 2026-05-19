@@ -2,7 +2,7 @@
 title: Smartshop emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Market
 created: 2026-04-28
 tags:
-  - [mckenna-modest-proposal-drug-policy-reform]]
+  - [mckenna-modest-proposal-drug-policy-reform
   - retail
   - Netherlands
   - smartshops
@@ -12,7 +12,6 @@ updated: 2026-04-28
 sources:
   - carolina-mushrooms_08qxp.md
 type: concept
----
 
 ## Smartshop Hallucinogenic Mushroom Market
 

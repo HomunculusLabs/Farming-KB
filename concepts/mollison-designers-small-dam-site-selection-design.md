@@ -6,7 +6,7 @@ tags:
   - earthworks
   - farm-infrastructure
   - water-storage
-  - [[backyard-water-harvesting]] in
+  - backyard-water-harvesting in
 permaculture-designers-manual-bamboo, Bill
 Mollison provides detailed guidance on selecting suitable dam sites and
 designing storage systems that maximise water availability while minimising
@@ -15,7 +15,6 @@ small dams provide irrigation, stock water, fire protection, [[biochar-and-fungi
   moist soil into a ribbon; longer ribbons indicate higher clay content)
   and the pond test (filling a small hole with water and observing the
   seepage rate).
----
 
 - **Seepage problems:** Sandy, gravelly, or fractured rock sites may
   require clay lining, bentonite treatment, or geomembrane liners to

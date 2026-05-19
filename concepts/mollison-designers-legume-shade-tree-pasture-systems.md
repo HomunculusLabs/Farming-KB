@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Legume Shade Tree Pasture Systems
+---# Legume Shade Tree Pasture Systems
 
 Leguminous shade trees integrated into pastoral systems represent one of the
 most productive and ecologically beneficial forms of permaculture-designers-manual-bamboo, [[bill-mollison]] describes how nitrogen-fixing

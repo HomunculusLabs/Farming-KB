@@ -5,11 +5,9 @@ tags: [mycorrhiza, carbon-cycling, isotopes, fatty-acids, methods]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/symbiotic-fungi.md
+  - raw/papers/symbiotic-fungi.md
 type: concept
----
-
-## Carbon Isotope Labelling in Mycorrhizal Fatty Acid Research
+---# Carbon Isotope Labelling in Mycorrhizal Fatty Acid Research
 
 ## Overview
 

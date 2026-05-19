@@ -6,10 +6,9 @@ tags: [numinous, awe, wonder, mystical-experience, psilocybin,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
----
-## The Numinous Experience and Psychedelic Awe
+--- The Numinous Experience and Psychedelic Awe
 
 Simon G. Powell explores the numinous dimension of the psilocybin
 experience, arguing that the mushroom reliably elicits states of awe,

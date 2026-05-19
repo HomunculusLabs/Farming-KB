@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Tropical Earth-Shaping and Polyculture Economics
+---# Tropical Earth-Shaping and Polyculture Economics
 
 [[comparison-arid-vs-tropical-permaculture]], serving multiple functions including
 water infiltration, mulch retention, [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

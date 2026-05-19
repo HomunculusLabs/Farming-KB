@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md"
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
----
-
-## Growing Sweet Corn and Field Corn
+---# Growing Sweet Corn and Field Corn
 
 Corn occupies a unique position in the [[solomon-complete-organic-fertilizer-guide]])
 over the entire patch and dig it in before sowing. Make a hole about two

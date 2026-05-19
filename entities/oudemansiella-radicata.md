@@ -7,10 +7,9 @@ tags:
   - agaricales
   - edible
   - saprotrophic
-  - [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, it is edible when
+  - oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere, it is edible when
 thoroughly cooked and produces oudemansins — antifungal strobilurin-related
 compounds that have served as lead structures for synthetic agricultural fungicides.
----
 
 ## Taxonomy
 

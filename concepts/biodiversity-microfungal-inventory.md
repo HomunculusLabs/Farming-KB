@@ -2,7 +2,7 @@
 title: Biodiversity Microfungal Inventory
 created: 2026-04-28
 tags:
-  - [mycology]]
+  - [mycology
   - microfungi
   - fungal-survey
   - plant-debris
@@ -12,7 +12,6 @@ updated: 2026-04-28
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----
 
 ## Microfungal Inventory Methods
 

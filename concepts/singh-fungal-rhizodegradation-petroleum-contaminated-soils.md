@@ -5,11 +5,9 @@ tags: [mycoremediation, rhizodegradation, petroleum-hydrocarbons, plant-fungal-i
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Rhizodegradation of Petroleum-Contaminated Soils
+---# Fungal Rhizodegradation of Petroleum-Contaminated Soils
 
 Rhizodegradation, also termed phytoremediation-enhanced biodegradation, harnesses
 the synergistic interactions between plant roots and their associated fungal

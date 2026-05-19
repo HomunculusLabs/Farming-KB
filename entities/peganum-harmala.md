@@ -4,9 +4,8 @@ created: 2026-04-28
 type: species
 tags:
   - zygophyllaceae
-  - [[golden-guide-syrian-rue-and-maoi-plants]], Harmal, Harmel, Aspand, Esfand, African Rue, Wild Rue,
+  - golden-guide-syrian-rue-and-maoi-plants, Harmal, Harmel, Aspand, Esfand, African Rue, Wild Rue,
 Harmala.
----
 
 ## Taxonomy
 

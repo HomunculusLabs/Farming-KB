@@ -2,15 +2,13 @@
 title: Vermicomposting Techniques
 created: 2026-04-26
 sources:
-  - path: raw/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
+  - path: raw/papers/jeavons-john-how-to-grow-more-vegetables.md
     title: How to Grow More Vegetables - John Jeavons
     author: John Jeavons
 updated: 2026-04-24
 type: concept
 tags: [composting]
----
-
-## Vermicomposting Techniques
+---# Vermicomposting Techniques
 
 Vermicomposting — the use of earthworms to transform organic waste into nutrient-rich castings — is a powerful complement to the GROW [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Worms consume [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of the soil they process. The material is further aged outside the animal by the heat of fermentation.
 2. **Surface decomposition**: Animal and plant bodies that decay on top of and within the soil, including in compost piles.

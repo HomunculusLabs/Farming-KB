@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Climate Change Adaptation Strategies in Permaculture
+---# Climate Change Adaptation Strategies in Permaculture
 
 While the Permaculture [[holmgren-permaculture-twelve-design-principles-framework]]
 translate into practical adaptation strategies for a warming, more

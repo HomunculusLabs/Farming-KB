@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Powdery Mildews - Erysiphaceae Diversity and Host Range
+---# Powdery Mildews - Erysiphaceae Diversity and Host Range
 
 The Erysiphaceae, commonly known as powdery mildews, is a
 family of [[mycelium]]

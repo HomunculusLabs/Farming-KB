@@ -12,14 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/lambs-bread
-  - https://www.wikileaf.com/strain/lambs-bread/
   - Clarke, R.C. (1998). Hashish! Red Eye Press.
   - Emboden, W. (1972). "Ritual Use of cannabis-sativa L." Economic Botany.
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. C.C. Thomas.
----
-
-## Lambs Bread
+---# Lambs Bread
 
 **Lambs Bread** (also spelled **Lamb's Bread**, and sometimes called **Lamb's Breath**) is a legendary sativa-dominant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the world, it is deeply intertwined with Rastafarian spiritual practice and Jamaican musical heritage. Bob Marley famously referenced it in his music, and it remains a touchstone strain for cannabis historians and landrace preservationists.
 

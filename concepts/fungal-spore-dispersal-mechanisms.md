@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+  - raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
----
-
-## Fungal Spore Dispersal Mechanisms
+---# Fungal Spore Dispersal Mechanisms
 
 Spore dispersal is fundamental to [[marine-estuarine-fungi]], water currents are the
 primary dispersal vector.

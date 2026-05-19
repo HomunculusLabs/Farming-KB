@@ -4,15 +4,9 @@ tags: [hazelnut, filbert, corylus, nut-crops, orchard, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.extension.oregonstate.edu/treefruits/hazelnuts
-  - https://www.sare.org/publications/uncommon-fruit-with-remarkable-pest-resistance/
-  - https://www.rhs.org.uk/plants/corylus-avellana
-  - https://www.ars.usda.gov/northeast-area/beltsville-md-barc/beltsville-agricultural-research-center/flowering-and-ornamental-plants-research/hazelnut-genetics/
   - Thomas, B. (2009). *Growing Urban Orchards*. New Society Publishers.
   - Reich, L. (2001). *Landscaping with Fruit*. Storey Publishing.
----
-
-## Hazelnut Cultivation and Variety Guide
+---# Hazelnut Cultivation and Variety Guide
 
 The hazelnut (also called filbert or cobnut) is a versatile, long-lived nut-producing shrub or small tree in the genus *Corylus* (family Betulaceae). Cultivated for thousands of years, hazelnuts rank among the most important nut crops worldwide, prized for their rich flavor, high nutritional value, and adaptability to diverse growing systems — from commercial orchards to permaculture-food-waste-cyclingod-forests-design-course.
 

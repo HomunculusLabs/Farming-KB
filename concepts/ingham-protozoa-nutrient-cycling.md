@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
----
-
-## Protozoa in Compost Tea and Nutrient Cycling
+---# Protozoa in Compost Tea and Nutrient Cycling
 
 Protozoa are single-celled eukaryotic organisms that play a
 critical role in the [[ingham-thermal-worm-compost-comparison]] is the best source of protozoa for compost tea. Good

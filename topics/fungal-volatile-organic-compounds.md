@@ -12,14 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1016/j.funbio.2018.06.001
-  - https://doi.org/10.1111/j.1462-2920.2010.02211.x
-  - https://doi.org/10.3389/fmicb.2020.01065
-  - https://doi.org/10.1128/MBIO.01067-20
   - https://doi.org/10.1016/j.cois.2015.10.001
----
-
-## Fungal Volatile Organic Compounds
+---# Fungal Volatile Organic Compounds
 
 ## Introduction
 

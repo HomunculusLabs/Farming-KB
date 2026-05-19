@@ -14,15 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - https://www.richsoil.com/hugelkultur/
-  - https://www.permaculture.co.uk/articles/what-hugelkultur-all-about
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/terra-preta
-  - https://www.biochar-international.org/
-  - https://www.fao.org/3/i4683e/i4683e.pdf
 type: comparison
----
-
-## Hugelkultur vs. Terra Preta for Soil Building
+---# Hugelkultur vs. Terra Preta for Soil Building
 
 Both hugelkultur and terra preta represent ancient or nature-inspired approaches to building extraordinarily fertile, carbon-rich soil. While they share the goal of transforming organic matter into lasting soil fertility, their methods, timelines, materials, and applications differ significantly. This comparison helps growers [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] and water-holding matrix beneath the planting surface.
 

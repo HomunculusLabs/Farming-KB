@@ -4,16 +4,8 @@ tags: [goji, aronia, chokeberry, superfruit, berry, comparison, cultivation, per
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://plants.usda.gov/home/plantProfile?symbol=LYBA2
-  - https://plants.usda.gov/home/plantProfile?symbol=ARME5
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3865395/
-  - https://www.extension.iastate.edu/smallfruit/aronia
-  - https://www.cornell.edu/
-  - https://www.fs.usda.gov/wildflowers/
 type: comparison
----
-
-## Goji Berry vs Aronia Chokeberry Cultivation
+---# Goji Berry vs Aronia Chokeberry Cultivation
 
 Goji berry (*Lycium barbarum*) and aronia chokeberry (*Aronia melanocarpa*) are two nutrient-dense "superfruits" increasingly adopted by permaculture practitioners, market growers, and home gardeners. Though both produce dark, antioxidant-rich berries, they differ substantially in growth habit, hardiness, flavor profile, and market maturity. This comparison covers the key cultivation dimensions to help growers select the appropriate species for their site, climate, and goals.
 

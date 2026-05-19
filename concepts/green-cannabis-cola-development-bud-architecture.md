@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md
+  - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
----
-
-## Cola Development and Bud Architecture
+---# Cola Development and Bud Architecture
 
 The cola is the large central bud cluster at the top of a cannabis plant,
 and understanding how colas develop and how the plant's bud architecture

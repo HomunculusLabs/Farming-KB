@@ -4,14 +4,8 @@ tags: "grazing, livestock, grassland-pasture-management-mollison, soil health, r
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/landuse/rangepasture/?cid=stelprdb1046946
-  - https://www.sare.org/resources/grazing-management-planning/
-  - https://extension.umn.edu/livestock-systems/pasture-and-grazing-management
-  - https://www.fao.org/3/y6340e/y6340e00.htm
   - https://www.noble.org/research/articles/rotational-grazing-benefits/
----
-
-## Rotational Grazing vs Continuous Grazing
+---# Rotational Grazing vs Continuous Grazing
 
 ## Overview of Each Method
 

@@ -13,13 +13,11 @@ sources:
   - Jalas, J. (1971). "Notes on Thymus L. (Lamiaceae) in Europe." Annales Botanici Fennici, 8, 254-301.
   - Stahl-Biskup, E. & Saez, F. (2002). "Thyme: The Genus Thymus." Taylor & Francis.
   - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - Morales, R. (2002). "The history, [[thymus-vulgaris-entity]]*) but is
+  - Morales, R. (2002). "The history, *) but is
 distinguished by its prostrate growth habit, smaller leaves, and lower-growing
 stature. It has been valued for centuries as a culinary herb, medicinal plant,
 and ornamental [[permaculture-designers-manual-essential-oil-plants]], rich in [[carvacrol]], has documented antimicrobial and antiseptic properties.
----
-
-## Taxonomy and Morphology
+---# Taxonomy and Morphology
 
 *Thymus serpyllum* L. was described by Linnaeus in *Species Plantarum* (1753).
 The genus name *Thymus* may derive from the Greek *thymon* (incense) or

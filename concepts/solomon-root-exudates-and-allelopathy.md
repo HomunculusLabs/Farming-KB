@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md"
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
----
-
-## Root Exudates and Allelopathy
+---# Root Exudates and Allelopathy
 
 One of the most important yet least understood aspects of plant growth is
 the role of root exudates -- [[comparison-crop-rotation-vs-cover-cropping]].

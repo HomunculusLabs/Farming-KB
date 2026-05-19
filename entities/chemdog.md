@@ -18,12 +18,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/chemdog
-  - https://www.allbud.com/marijuana-strains/hybrid/chemdog
   - https://www.wikileaf.com/strain/chemdog/
----
-
-## Chemdog
+---# Chemdog
 
 Chemdog (also written Chem Dog) is a legendary [[girl-scout-cookies]]. Originating from a chance
 encounter at a [[vic-high-cannabis-genetics-mendelian-inheritance]].

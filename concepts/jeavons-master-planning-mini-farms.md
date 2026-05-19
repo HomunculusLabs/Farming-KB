@@ -2,15 +2,13 @@
 title: Jeavons Master Planning Mini Farms
 created: 2026-04-26
 sources:
-  - path: raw/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
+  - path: raw/papers/jeavons-john-how-to-grow-more-vegetables.md
     title: How to Grow More Vegetables - john-jeavons
     author: John Jeavons
 updated: 2026-04-24
 type: concept
 tags: [reference]
----
-
-## Master Planning and Mini-Farm Design
+---# Master Planning and Mini-Farm Design
 
 [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], carbon-efficient crops, calorie-efficient crops, open-pollinated seeds, and [[hamilton-composting-and-organic-matter-management]] — the high yields can rapidly deplete the soil.
 

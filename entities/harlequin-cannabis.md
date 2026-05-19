@@ -13,13 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/harlequin
-  - https://www.wikileaf.com/strain/harlequin/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323729/
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8420988/
----
-
-## [[limonene]]** | Citrus, lemon | Mood elevation, stress relief |
+---# [[limonene]]** | Citrus, lemon | Mood elevation, stress relief |
 
 - Dominant terpene: **Myrcene** (typically 0.5–1.0%)
 - Aroma profile: earthy and musky with subtle notes of mango and citrus

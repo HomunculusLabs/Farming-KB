@@ -5,11 +5,10 @@ tags:
   - cannabis
   - ethylene
   - sex reversal
-  - [[cannabis-sex-determination-floral-biology]]
+  - cannabis-sex-determination-floral-biology
 determination. Understanding how ethylene regulates floral development
 has enabled breeders to develop techniques for producing feminized
 (all-female) seed through hormonal sex reversal.
----
 
 ## The Role of Ethylene in Cannabis
 

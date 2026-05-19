@@ -22,16 +22,12 @@ related_entities:
   - waldemar-jochelson
   - gordon-wasson
 sources:
-  - ~/wiki/concepts/siberian-shamanism-and-amanita.md
-  - https://en.wikipedia.org/wiki/Koryaks
-  - https://en.wikipedia.org/wiki/Koryak_language
+  - concepts/siberian-shamanism-and-amanita.md
 created: 2026-05-02
 updated: 2026-05-02
 status: complete
 tags: [profile]
----
-
-## Koryaks
+---# Koryaks
 
 The **Koryaks** are an Indigenous people of the Russian Far East, historically centered north of the Kamchatka Peninsula and along Bering Sea coastlands.
 They are relevant to this wiki because ethnographic accounts of Koryak life became one of the principal sources for claims about [[allegro-amanita-muscaria-properties-and-pharmacology]] ethnography and [[siberian-shamanism]] debates.

@@ -22,8 +22,6 @@ related_concepts:
   - cervantes-hash-cannabis-oil-production
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - https://en.wikipedia.org/wiki/Jorge_Cervantes
-  - https://jorge-cervantes.com/
 tags:
   - person
   - cannabis
@@ -32,9 +30,7 @@ tags:
   - author
   - indoor-growing
   - medical-cannabis
----
-
-## Jorge Cervantes
+---# Jorge Cervantes
 
 ## Overview
 

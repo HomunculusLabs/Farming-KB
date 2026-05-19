@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/gaias-garden-toby-hemenway.md
 type: concept
----
-
-## Soil as Water Storage
+---# Soil as Water Storage
 
 Toby Hemenway makes a compelling case that the cheapest and
 most effective place to store water is in the soil itself.

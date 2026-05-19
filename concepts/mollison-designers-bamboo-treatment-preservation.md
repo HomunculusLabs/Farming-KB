@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Bamboo Treatment and Preservation
+---# Bamboo Treatment and Preservation
 
 [[permplant-willows-salix-erosion-control-fodder]], animal fodder, edible shoots, water pipe,
 handicrafts, and [[mollison-designers-lime-and-cement-natural-building]]

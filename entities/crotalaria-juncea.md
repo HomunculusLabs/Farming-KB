@@ -24,7 +24,6 @@ sources:
   - Rotar, P.P. & Joy, R.J. (1983). "Sunhemp: Crotalaria juncea L." University of Hawaii Extension Bulletin.
   - Ghosh, P.K. et al. (2007). "Evaluation of Crotalaria juncea for Green Manuring." Bioresour. Technol., 98(8), 1668–1674.
   - Mosjidis, J.A. (2001). "Registration of 'Tropic Sun' Sunn Hemp." Crop Sci., 41(5), 1622.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593039-1
 aliases:
   - Sunn Hemp
   - Sun Hemp
@@ -32,9 +31,7 @@ aliases:
   - Sanal
   - Madras Hemp
   - Brown Hemp
----
-
-## Overview
+---# Overview
 
 **Crotalaria juncea** is an annual legume in the family Fabaceae, widely cultivated in tropical and subtropical regions as a fiber crop, [[coleman-cover-crop-rotation-and-soil-health]]. It is one of the fastest-growing warm-season legumes, capable of producing 4–6 tonnes of dry matter per hectare in 60–90 days. Native to the Indian subcontinent, it has been naturalized and cultivated across tropical Asia, Africa, the Americas, and Australia.
 

@@ -13,16 +13,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/lambs-breath
-  - https://www.wikileaf.com/strain/lambsbread/
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany."
     University of California Press.
   - ElSohly, M.A. et al. (2016). "Changes in cannabis-potency-enhanced-flowers Over the Last
     Two Decades." Biological Psychiatry.
   - Ruben, B. (2020). "Cannabis and Jamaican Rastafari: A Historical Review."
     Journal of Ethnopharmacology.
----
-## Lambsbread
+--- Lambsbread
 
 **Lambsbread** (also spelled Lamb's Bread or Lamb's Breath) is a legendary
 sativa southeast-asian-mushroom-tourism-bali and South

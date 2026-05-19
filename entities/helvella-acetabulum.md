@@ -24,11 +24,8 @@ sources:
   - Abbott, S.P. & Curran, R.S. (1997). "The Helvellaceae: systematic revision." Mycotaxon 63: 1–34.
   - Dissing, H. (1966). "The genus Helvella in Europe." Dansk Botanisk Arkiv.
   - Kuo, M. (2024). "Helvella acetabulum." MushroomExpert.com.
-  - https://www.mushroomexpert.com/helvella_acetabulum.html
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 *Helvella acetabulum* is a species of cup fungus in the family Helvellaceae, found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that resembles a small goblet or cider cup.
 

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Small Forest Farm Cool Humid Layout
+---# Small Forest Farm Cool Humid Layout
 
 Mollison presents a detailed model for a 12-16 hectare (30-40 acre) family
 forest farm adapted to [[holzer-kitchen-garden-herbs-and-medicinal-plants]] with annual and perennial

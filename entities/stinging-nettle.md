@@ -10,12 +10,8 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=urtica+dioica
-  - https://pfaf.org/user/Plant.aspx?LatinName=Urtica+dioica
   - Roschek, B. et al. (2009). Nettle extract (Urtica dioica) affects key receptors and enzymes associated with allergic rhinitis. Phytother Res.
----
-
-## [[dynamic-accumulators]] — Comprehensive list of nutrient-mining plants
+---# [[dynamic-accumulators]] — Comprehensive list of nutrient-mining plants
 - Forest-Gardening — [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

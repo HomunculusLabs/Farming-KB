@@ -14,13 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139784/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5372966/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695494/
   - https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003383.pub2/full
----
-
-## Kavalactones
+---# Kavalactones
 
 ## Overview
 

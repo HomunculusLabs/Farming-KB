@@ -13,12 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/4-HO-MET
-  - https://www.erowid.org/chemicals/4_ho_met/4_ho_met.shtml
   - https://pubmed.ncbi.nlm.nih.gov/
----
-
-## 4-HO-MET
+---# 4-HO-MET
 
 ## Overview
 

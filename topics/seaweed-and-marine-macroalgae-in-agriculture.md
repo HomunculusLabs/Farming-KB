@@ -13,14 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/3/x5738e/x5738e07.htm
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/seaweed
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7840888/
-  - https://link.springer.com/article/10.1007/s11101-020-09722-5
   - https://www.frontiersin.org/articles/10.3389/fpls.2020.00695/full
----
-
-## Seaweed and Marine Macroalgae in Agriculture
+---# Seaweed and Marine Macroalgae in Agriculture
 
 ## Overview
 

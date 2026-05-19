@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
----
-
-## Wet-Dry Tropical permaculture
+---# Wet-Dry Tropical permaculture
 
 The wet-dry tropics adjoin the wet tropics but are poleward of
 them, covering about 15% of earth's surface from latitudes 0

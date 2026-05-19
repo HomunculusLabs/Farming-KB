@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Water Purification and Storage Principles
+---# Water Purification and Storage Principles
 
 Water is the most critical resource in any [[agricultural-chemicals-mycorrhizal-impact]].
 

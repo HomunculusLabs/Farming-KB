@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Zone 5 - Wilderness and Conservation
+---# Zone 5 - Wilderness and Conservation
 
 Zone 5 is the wilderness zone in [[fungal-succession-woody-debris-ecology]] for invertebrates, fungi, and small mammals
 - Diverse vegetation structure from ground layer to canopy

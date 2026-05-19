@@ -14,11 +14,9 @@ updated: 2026-04-28
 sources:
   - "Bedry, R. et al. (2001). \"Emergence of new rhabdomyolysis-associated amanita-toxins-and-mushroom-poisoning.\" New England Journal of Medicine, 345(11), 798-802."
   - "Kuo, M. (2023). Tricholoma equestre at MushroomExpert.com. https://www.mushroomexpert.com/tricholoma_equestre.html"
-  - "Siłus, M. et al. (2009). \"Tricholoma equestre: a [[bloomfield-boletus-satanus-edible-mushroom-hazards]] across Europe, it was reclassified as poisonous following a series of documented [[spore-print]]:** White.
+  - "Siłus, M. et al. (2009). \"Tricholoma equestre: a  across Europe, it was reclassified as poisonous following a series of documented :** White.
 - **Chemical reactions:** KOH on cap surface — negative to faintly yellow. Melzer's on spores — inamyloid.
----
-
-### Microscopic Features
+---## Microscopic Features
 
 - **Basidiospores:** Broadly ellipsoidal to subglobose, smooth, 6.0–8.5 × 4.5–6.0 µm, hyaline, thin-walled, inamyloid.
 - **Basidia:** Clavate, 4-spored, 22–30 × 5.5–7.5 µm.

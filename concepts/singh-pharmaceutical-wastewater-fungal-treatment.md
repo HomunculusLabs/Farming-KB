@@ -5,11 +5,9 @@ tags: [mycoremediation, pharmaceutical, wastewater, biofilm]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Pharmaceutical Wastewater Treatment by Fungi
+---# Pharmaceutical Wastewater Treatment by Fungi
 
 Pharmaceutical industry wastewaters represent a complex and challenging
 class of environmental pollutants. Little attention has historically been

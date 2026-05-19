@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 type: concept
----
-
-## Radiation-Resistant Fungi and Myco-Corrosion
+---# Radiation-Resistant Fungi and Myco-Corrosion
 
 Certain fungi demonstrate remarkable tolerance to ionizing radiation and
 [[bacillus-pumilus-radiation-resistance-surface-decontamination]] has important implications for

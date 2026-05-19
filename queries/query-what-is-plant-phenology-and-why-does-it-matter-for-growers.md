@@ -11,14 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.usanpn.org/
-  - https://doi.org/10.1016/j.agrformet.2022.109013
-  - https://www.nature.com/articles/s41558-022-01400-2
-  - https://www.fao.org/climate-smart-agriculture-sourcebook/
 type: query
 created: 2026-04-28
----
-## What Is Plant Phenology and Why Does [[fukuoka-sowing-natural-farming-climate-change]] is reshaping [[vegetable-nutrient-demand-levels]] peaks.
+--- What Is Plant Phenology and Why Does [[fukuoka-sowing-natural-farming-climate-change]] is reshaping [[vegetable-nutrient-demand-levels]] peaks.
 8. **Color break / Veraison**: Fruit begins [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Fever (Temperature Regulation)
+---# Cannabis and Fever (Temperature Regulation)
 
 ## Overview
 

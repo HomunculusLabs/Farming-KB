@@ -12,12 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Terminalia_arjuna
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3147553/
 created: 2026-04-28
----
-
-## Terminalia arjuna
+---# Terminalia arjuna
 
 ## Overview
 

@@ -13,11 +13,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - Guzman G, Allen JW, Gartz J (2000) A worldwide [[claviceps-paspali]]. This diversity is largely attributable to the
+  - Guzman G, Allen JW, Gartz J (2000) A worldwide . This diversity is largely attributable to the
 introduction of livestock and the resulting coprophilous habitats.
----
-
-## Hawaiian Neurotropic Mycoflora
+---# Hawaiian Neurotropic Mycoflora
 
 ### Copelandia Species (5 Species)
 

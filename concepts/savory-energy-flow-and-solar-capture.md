@@ -10,11 +10,9 @@ related: [savory-ecosystem-foundation-blocks, savory-water-cycle-management,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Energy Flow and Solar Capture
+---# Energy Flow and Solar Capture
 
 Energy flow is the fourth [[savory-holistic-resource-management-animal-impact]]. It addresses the question of fuel that keeps all
 [[holmgren-trees-solar-power-plants-detailed]], and management decisions can drastically affect how

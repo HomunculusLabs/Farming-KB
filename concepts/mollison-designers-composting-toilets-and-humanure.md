@@ -10,11 +10,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Composting Toilets and Humanure in Permaculture
+---# Composting Toilets and Humanure in Permaculture
 
 The cycling of human waste back into productive systems is one of the most
 important yet most contentious aspects of [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Mollison argues that the conventional

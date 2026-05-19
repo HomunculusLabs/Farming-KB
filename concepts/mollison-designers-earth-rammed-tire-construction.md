@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Earth-Rammed Tire Construction
+---# Earth-Rammed Tire Construction
 
 [[comparison-lime-plaster-vs-earthen-plaster]], or coloured renders
 - Interior finishes can include [[mollison-designers-wool-insulation-and-natural-textiles]].

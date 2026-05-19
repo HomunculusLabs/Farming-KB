@@ -6,8 +6,7 @@ tags:
   - yerba-mate
   - herbal-plant
   - stimulant
-  - [[guzman-psilocybin-mushrooms-south-america]], valued for its leaves which are brewed into a stimulating tea consumed widely across Argentina, Uruguay, Paraguay, Brazil, and beyond. It is one of the most culturally significant beverages in South America, with indigenous roots stretching back to the Guaraní people who first cultivated and prepared the plant.
----
+  - guzman-psilocybin-mushrooms-south-america, valued for its leaves which are brewed into a stimulating tea consumed widely across Argentina, Uruguay, Paraguay, Brazil, and beyond. It is one of the most culturally significant beverages in South America, with indigenous roots stretching back to the Guaraní people who first cultivated and prepared the plant.
 
 ## Taxonomy and Botany
 

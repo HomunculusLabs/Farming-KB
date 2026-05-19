@@ -18,13 +18,11 @@ sources:
   - Kawagishi, H., et al. (1991). "A facilitator of NGF synthesis from cancer-medicinal-mushrooms-hericium-erinaceus." Phytochemistry, 30(5), 1757-1758.
   - Wong, K.H., et al. (2007). "Hericium erinaceus: From culinary delicacy to lions-mane-hericium-erinaceus on mild cognitive impairment." Phytotherapy Research, 23(3), 367-372.
   - Friedman, M. (2015). "Chemistry, nutrition, and health-promoting properties of Hericium erinaceus." Journal of Agricultural and Food Chemistry, 63(32), 7100-7109.
-  - https://pubchem.ncbi.nlm.nih.gov/ (compound data)
+ (compound data)
 aliases:
   - Hericenone
   - Hericenones A-J
----
-
-## Hericenones
+---# Hericenones
 
 **Hericenones** are a family of cyathane-type sesquiterpenoids isolated from the [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and mycelium of **[[hericium-erinaceus]]** (lion's mane mushroom). First characterized by Kawagishi and colleagues in 1991, hericenones were identified as the first natural compounds found to stimulate **nerve growth factor (NGF)** synthesis in vitro. This discovery established lion's mane as a unique neurotrophic mushroom and sparked decades of research into fungal compounds for cognitive health and neuroprotection.
 

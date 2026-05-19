@@ -5,11 +5,9 @@ tags: [cloches, frost-protection, season-extension, organic-gardening, hamilton]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Cloches and Frost Protection in Organic Gardening
+---# Cloches and Frost Protection in Organic Gardening
 
 [[hamilton-deep-bed-system]]
 - [[hamilton-vegetable-planning-rotation]]

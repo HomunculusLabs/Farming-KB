@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Rabbits in [[ozier-pdc-composting-and-nutrient-cycles]].
+---# Rabbits in [[ozier-pdc-composting-and-nutrient-cycles]].
 The principle of "everything gardens" applies directly to rabbits,
 whose burrowing, defecation, and browsing habits fundamentally alter
 the ecosystems they inhabit.

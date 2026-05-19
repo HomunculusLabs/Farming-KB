@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md
+  - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
----
-
-## Cannabis Nutrient Management
+---# Cannabis Nutrient Management
 
 ## Overview
 

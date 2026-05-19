@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md
+  - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
----
-
-## Soil Flushing and Nutrient Leaching
+---# Soil Flushing and Nutrient Leaching
 
 Soil flushing is an emergency corrective technique used when cannabis
 plants develop severe [[green-cannabis-grow-bible-nutrient-management-ppm]] where it cannot access essential elements.

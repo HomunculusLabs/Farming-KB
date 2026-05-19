@@ -16,8 +16,6 @@ tags:
   - biological-control
   - soil-ecology
 sources:
-  - https://en.wikipedia.org/wiki/Trichoderma
-  - https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5543
 related_concepts:
   - mushroom-cultivation-pests-and-contamination
   - pleurotus-species-and-varieties
@@ -25,9 +23,7 @@ related_concepts:
   - fungal-enzymes-in-environmental-bioremediation
 date: 2026-05-02
 updated: 2026-05-02
----
-
-## Trichoderma
+---# Trichoderma
 
 **Trichoderma** is a genus of fast-growing [[accessible-mushroom-cultivation-for-disabilities]] rooms.
 The genus is important because the same traits that make many species useful biocontrol organisms also make them aggressive competitors of [[trichoderma-viride]] as a broad aggregate rather than a narrowly defined species.

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Broadacre Grain and Pasture Design
+---# Broadacre Grain and Pasture Design
 
 Broadacre [[fukuoka-white-clover-cover-crop-system]], red clover, lucerne, chicory, plantain,
  cocksfoot, and ryegrass form productive and resilient swards. In subtropical

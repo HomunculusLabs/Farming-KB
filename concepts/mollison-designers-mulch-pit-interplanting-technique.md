@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Mulch Pit Interplanting Technique
+---# Mulch Pit Interplanting Technique
 
 The mulch pit interplanting technique is a soil-fertility and water-
 conservation strategy described by [[teaming-with-microbes-tilling-damage-to-fungal-networks]] develop around the woody base layers. Earthworms

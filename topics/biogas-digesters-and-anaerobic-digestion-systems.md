@@ -4,14 +4,8 @@ tags: biogas, anaerobic-digestion, renewable-energy, homesteading, permaculture,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/3/x5698e/x5698e00.htm
-  - https://www.epa.gov/agstar/anaerobic-digestion
-  - https://www.sciencedirect.com/topics/engineering/anaerobic-digester
-  - https://www.build-a-biogas-plant.com/
   - https://www.iwr.uni-bremen.de/biogas
----
-
-## Biogas Digesters and Anaerobic Digestion Systems
+---# Biogas Digesters and Anaerobic Digestion Systems
 
 ## Overview
 

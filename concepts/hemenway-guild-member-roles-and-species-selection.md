@@ -6,11 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/gaias-garden-toby-hemenway.md
 type: concept
----
-
-## Guild Member Roles and Species Selection
+---# Guild Member Roles and Species Selection
 
 Toby Hemenway defines seven key roles that should be filled in
 any well-designed gaias-garden-nitrogen-fixers-guild-design to

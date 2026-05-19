@@ -9,7 +9,7 @@ tags:
   - succulent
   - desert-plant
   - xeriscaping
-  - [[permaculture]]
+  - permaculture
   - ethnobotany
   - fiber-crop
   - mescal
@@ -25,7 +25,6 @@ sources:
   - Garcia-Mendoza, A. (2007). "Agavaceae." In: "Flora del Valle de Tehuacán-Cuicatlán," UNAM.
   - Eguiarte, L.E. et al. (2000). "Agave (Agavaceae)." In: "Economic Botany," Springer.
   - Colunga-GarcíaMarín, P. et al. (2007). "Diversidad y Distribución del Género Agave." Boletín de la Sociedad Botánica de México, 81, 43–52.
----
 
 ## Agave americana
 

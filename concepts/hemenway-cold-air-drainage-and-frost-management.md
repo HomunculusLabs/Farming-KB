@@ -5,11 +5,9 @@ tags: [microclimate, frost, orchard, design, wind]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/gaias-garden-toby-hemenway.md
 type: concept
----
-
-## Cold Air Drainage and Frost Pocket Management
+---# Cold Air Drainage and Frost Pocket Management
 
 [[comparison-windbreak-vs-thermal-mass]] walls to counteract cold air pooling.
 - Deciduous trees on the south side cool a house in summer

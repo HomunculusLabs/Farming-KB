@@ -9,11 +9,9 @@ related: [savory-ecosystem-foundation-blocks, savory-soil-carbon-sequestration,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/savory-holistic-resource-management.md
+  - raw/papers/savory-holistic-resource-management.md
 type: concept
----
-
-## Mineral Cycle Management
+---# Mineral Cycle Management
 
 The mineral cycle is one of the four [[savory-holistic-resource-management-animal-impact]] Management. It describes the circular journey of
 nutrient elements through the ecosystem, from deep soil layers to

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Guinea Pig Integration in Permaculture Gardens
+---# Guinea Pig Integration in Permaculture Gardens
 
 In *Permaculture: A Designers' Manual*, Bill Mollison identifies the
 guinea pig (Cavia porcellus) as a uniquely valuable small domestic

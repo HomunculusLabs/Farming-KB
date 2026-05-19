@@ -2,15 +2,13 @@
 title: Natural Pest Control
 created: 2026-04-26
 sources:
-  - path: raw/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
+  - path: raw/papers/jeavons-john-how-to-grow-more-vegetables.md
     title: How to Grow More Vegetables - John Jeavons
     author: John Jeavons
 updated: 2026-04-24
 type: concept
 tags: [reference]
----
-
-## Natural Pest Control
+---# Natural Pest Control
 
 The GROW BIOINTENSIVE approach to pest control begins with a fundamental insight: most insects look for sick plants to eat. A healthy soil produces healthy plants that are better able to resist [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that attract pests. Synthetic [[aact-disease-suppression-mechanisms-ingham]]**: Healthy soil with diverse microbial populations naturally suppresses many plant diseases.
 

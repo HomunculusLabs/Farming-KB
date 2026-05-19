@@ -13,15 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://doi.org/10.1007/978-3-319-50737-0_6
-  - https://doi.org/10.1016/j.soilbio.2017.07.015
-  - https://doi.org/10.1111/j.1462-2920.2008.01579.x
-  - https://doi.org/10.1007/s00374-014-0978-9
-  - https://doi.org/10.1016/j.apsoil.2014.08.016
 type: comparison
----
-
-## Soil Protozoa vs Nematodes in Nutrient Cycling
+---# Soil Protozoa vs Nematodes in Nutrient Cycling
 
 ## Overview
 

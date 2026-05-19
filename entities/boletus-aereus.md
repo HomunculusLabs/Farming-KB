@@ -14,10 +14,9 @@ tags:
   - europe
   - foraging
   - wild-mushrooms
-  - [[mycology]].
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[edible-wild-mushrooms-by-region]] in Italy, France, and Spain, where it is gathered for
+  - mycology.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "edible-wild-mushrooms-by-region in Italy, France, and Spain, where it is gathered for
 both fresh market and processing into dried products.
----
 
 The species is distinguished by its dark brown to almost black cap, white
 pore surface that bruises blue-green only slowly if at all, and a robust,

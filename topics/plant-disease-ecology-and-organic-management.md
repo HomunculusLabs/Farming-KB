@@ -6,23 +6,23 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - ~/wiki/concepts/bacterial-plant-diseases.md
-  - ~/wiki/concepts/biodiversity-fungi-plant-pathogens.md
-  - ~/wiki/concepts/biodiversity-of-fungi-plant-health-pathogens-biocontrol.md
-  - ~/wiki/concepts/biodiversity-powdery-mildews.md
-  - ~/wiki/concepts/biodiversity-rust-fungi-urediniomycetes.md
-  - ~/wiki/concepts/bloomfield-coffee-rust-and-crop-pathogens.md
-  - ~/wiki/concepts/bloomfield-fungal-plant-pathogens.md
-  - ~/wiki/concepts/bloomfield-potato-blight-phytophthora-infestans.md
-  - ~/wiki/concepts/cervantes-downy-mildew-fungal-blight.md
-  - ~/wiki/concepts/cervantes-foliar-spots-blight-fungal-leaf-diseases.md
-  - ~/wiki/concepts/cervantes-fusarium-vascular-wilt-diseases.md
-  - ~/wiki/concepts/cervantes-powdery-mildew-prevention-treatment.md
-  - ~/wiki/concepts/cervantes-verticillium-wilt-sooty-mold.md
-  - ~/wiki/concepts/fukuoka-disease-pest-management.md
-  - ~/wiki/concepts/fukuoka-pest-management-without-chemicals.md
-  - ~/wiki/concepts/organic-pest-and-disease-management.md
-  - ~/wiki/concepts/fungal-plant-diseases.md
+  - concepts/bacterial-plant-diseases.md
+  - concepts/biodiversity-fungi-plant-pathogens.md
+  - concepts/biodiversity-of-fungi-plant-health-pathogens-biocontrol.md
+  - concepts/biodiversity-powdery-mildews.md
+  - concepts/biodiversity-rust-fungi-urediniomycetes.md
+  - concepts/bloomfield-coffee-rust-and-crop-pathogens.md
+  - concepts/bloomfield-fungal-plant-pathogens.md
+  - concepts/bloomfield-potato-blight-phytophthora-infestans.md
+  - concepts/cervantes-downy-mildew-fungal-blight.md
+  - concepts/cervantes-foliar-spots-blight-fungal-leaf-diseases.md
+  - concepts/cervantes-fusarium-vascular-wilt-diseases.md
+  - concepts/cervantes-powdery-mildew-prevention-treatment.md
+  - concepts/cervantes-verticillium-wilt-sooty-mold.md
+  - concepts/fukuoka-disease-pest-management.md
+  - concepts/fukuoka-pest-management-without-chemicals.md
+  - concepts/organic-pest-and-disease-management.md
+  - concepts/fungal-plant-diseases.md
 related_concepts:
   - bacterial-plant-diseases
   - fungal-plant-diseases
@@ -32,9 +32,7 @@ related_concepts:
   - cervantes-powdery-mildew-prevention-treatment
   - fukuoka-disease-pest-management
   - organic-pest-and-disease-management
----
-
-## Plant Disease Ecology and Organic Management
+---# Plant Disease Ecology and Organic Management
 
 Plant disease is not simply the presence of a pathogen. It is the result
 of an encounter between a susceptible host, a disease causing organism,

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## Holzer Seed Autonomy and Preserving Old Varieties
+---# Holzer Seed Autonomy and Preserving Old Varieties
 
 Everyone talks about biodiversity, yet supermarket shelves tell a different
 story: monotony. The same products are sold across the globe, and the vast

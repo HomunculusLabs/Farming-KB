@@ -14,13 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fs.usda.gov/database/feis/plants/vine/puelob/all.html
-  - https://www.cabi.org/isc/datasheet/46851
   - Piler, K.D. & Luna, A. (2019). "Kudzu (Pueraria montana): History, physiology, and ecology." Invasive Plant Science and Management.
   - Tanner, J.L. et al. (2019). "Phytochemistry and pharmacology of Pueraria." Journal of Ethnopharmacology.
----
-
-## Pueraria montana (Kudzu)
+---# Pueraria montana (Kudzu)
 
 ## Overview
 

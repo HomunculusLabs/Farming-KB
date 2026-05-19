@@ -25,11 +25,8 @@ sources:
   - Watling, R. (1970). "British Fleshy Fungi." HMSO, London.
   - Den Bakker, H.C. et al. (2004). "Phylogeny of Leccinum." Mycologia 96(5): 1007–1017.
   - Kuo, M. (2024). "Leccinum aurantiacum." MushroomExpert.com.
-  - https://www.mycobank.org/page/Leccinum%20aurantiacum
 created: 2026-04-28
----
-
-## Overview
+---# Overview
 
 *Leccinum aurantiacum* (Bull.) Gray, commonly known as the orange birch bolete, is an edible ectomycorrhizal bolete found in association with birch trees across [[psilocybin-north-america-pacific-northwest]]. It is one of the most widely collected boletes for the table due to its abundance, distinctive appearance, and reliable edibility.
 

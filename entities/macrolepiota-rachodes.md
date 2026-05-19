@@ -17,13 +17,11 @@ updated: 2026-04-28
 sources:
   - Breitenbach, J. & Kränzlin, F. (1995). Fungi of Switzerland Vol. 4. Verlag Mykologia.
   - Kibby, G. (2011). Mushrooms and Toadstools of Britain and Europe. A&C Black.
-  - https://www.mycobank.org/ (taxonomic classification)
+ (taxonomic classification)
   - Court, N.W. (2021). "Macrolepiota rachodes complex: phylogeny and morphology." Mycotaxon.
   - Bessette, A.E. et al. (2013). Mushrooms of the Southeastern United States. Syracuse Univ. Press.
   - https://www.firstnature.com/fungi/macrolepiota-rachodes.php
----
-
-## Macrolepiota rachodes (Shaggy Parasol)
+---# Macrolepiota rachodes (Shaggy Parasol)
 
 ## Overview
 

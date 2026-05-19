@@ -5,16 +5,8 @@ tags: breadfruit, cassava, tropical-crops, staple-foods, comparison
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/faostat/en/
-  - https://ntbg.org/breadfruit/
-  - https://www.cabi.org/isc/datasheet/34962
-  - https://nutritiondata.self.com/facts/fruits-and-fruit-juices/1859/2
-  - https://nutritiondata.self.com/facts/vegetables-and-vegetable-products/2060/2
-  - https://www.cgiar.org/research-program-root-tuber-banana/
 type: comparison
----
-
-## Breadfruit (*Artocarpus altilis*) vs Cassava (*[[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
+---# Breadfruit (*Artocarpus altilis*) vs Cassava (*[[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 
 ## Origin and History
 

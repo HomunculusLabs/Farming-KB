@@ -6,10 +6,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-## Mulch Materials, Sources, and Application in the Tropics
+--- Mulch Materials, Sources, and Application in the Tropics
 Mulch is the primary soil management tool in tropical
 turmeric, and vines. Coconut husks and coarse fronds or
 grasses, held by a log edge, provide mulch for home gardens;

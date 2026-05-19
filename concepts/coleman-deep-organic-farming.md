@@ -2,15 +2,13 @@
 title: Deep-Organic Farming and the Small Farm
 created: 2026-04-26
 sources:
-  - path: raw/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - path: raw/papers/eliot-coleman-winter-harvest-handbook.md
     title: The coleman-claytonia-winter-harvest-cultivation Handbook - Eliot Coleman
     author: Eliot Coleman
 updated: 2026-04-24
 type: concept
 tags: [reference]
----
-
-## Deep-Organic Farming and the Small Farm
+---# Deep-Organic Farming and the Small Farm
 
 ## The Missing Rope
 

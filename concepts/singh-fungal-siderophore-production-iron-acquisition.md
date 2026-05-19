@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Fungal Siderophore Production and Iron Acquisition
+---# Fungal Siderophore Production and Iron Acquisition
 
 Siderophores are high-affinity iron-chelating compounds produced by
 fungi, bacteria, and some plants to scavenge iron from environments where

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Olive, Fig, and Mediterranean Tree Crops
+---# Olive, Fig, and Mediterranean Tree Crops
 
 The Mediterranean [[holzer-climate-zone-microclimate-creation]], characterised by mild wet winters and hot dry
 summers, supports a distinctive assemblage of long-lived tree crops that have

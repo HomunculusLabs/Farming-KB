@@ -18,12 +18,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365040/
-  - https://journals.sagepub.com/doi/abs/10.1177/0269881118776568
   - https://en.wikipedia.org/wiki/Silene_capensis
----
-
-## Silene capensis
+---# Silene capensis
 
 *Silene capensis*, commonly known as African dream root, Xhosa dream root, or undlela ziimhlophe (Xhosa: "white
 paths"), is a perennial herb in the family Caryophyllaceae native to the Eastern Cape province of South Africa. It

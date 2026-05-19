@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/holzer-desert-or-paradise.md
+  - raw/papers/holzer-desert-or-paradise.md
 type: concept
----
-
-## Holzer Natural Animal Husbandry
+---# Holzer Natural Animal Husbandry
 
 Animals are co-workers, not merchandise. This principle underpins Holzer's
 approach to animal husbandry, where every animal has a purpose in the

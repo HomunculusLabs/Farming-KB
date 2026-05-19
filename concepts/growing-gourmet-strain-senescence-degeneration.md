@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Strain Senescence and Degeneration in Mushroom Cultivation
+---# Strain Senescence and Degeneration in Mushroom Cultivation
 
 Strain senescence is the progressive loss of vigor and fruiting
 ability in mushroom mycelium as cell divisions accumulate over

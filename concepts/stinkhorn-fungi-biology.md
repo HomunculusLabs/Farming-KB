@@ -14,13 +14,11 @@ updated: 2026-05-11
 sources:
   - Nicholas P. Money (2002). "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists." Oxford University Press.
   - T. Ingold (1971). "Fungal Spores: Their Liberation and Dispersal." Clarendon Press, Oxford.
-  - Krebs, H.A. (2020). "[[fungal-fruiting-body-mechanics-osmotic-pressure]], rupturing the outer skin and
+  - Krebs, H.A. (2020). ", rupturing the outer skin and
 carrying the spore mass aloft. The process is analogous to the mechanics
 of a mammalian erection, though driven by osmotic rather than muscular
 pressure.
----
-
-## Chemical Attraction: The Chemistry of Rot
+---# Chemical Attraction: The Chemistry of Rot
 
 The spore slime contains a cocktail of volatile chemicals including
 hydrogen sulfide, formaldehyde, and methylmercaptan. Unique compounds

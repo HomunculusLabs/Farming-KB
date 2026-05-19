@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Wind Energy and Windmills for Water Supply
+---# Wind Energy and Windmills for Water Supply
 
 Wind energy may be used to lift water to other zones, or other
 dependable technology used. In permaculture systems, windmills have

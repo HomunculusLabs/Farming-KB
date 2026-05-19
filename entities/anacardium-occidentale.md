@@ -6,11 +6,10 @@ tags:
   - cashew
   - anacardiaceae
   - tropical-tree
-  - [[agroforestry]]
+  - agroforestry
   - nut-crop
-  - [[dighton-fungal-drought-tolerance-plant-water-relations]], soil stabilization,
+  - dighton-fungal-drought-tolerance-plant-water-relations, soil stabilization,
 and multi-product yield.
----
 
 ## Taxonomy and Morphology
 

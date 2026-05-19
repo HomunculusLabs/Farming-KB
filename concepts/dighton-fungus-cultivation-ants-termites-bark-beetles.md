@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 type: concept
----
-
-## Fungus Cultivation by Ants, Termites, and Bark Beetles
+---# Fungus Cultivation by Ants, Termites, and Bark Beetles
 
 Several groups of insects have evolved intimate associations with fungi in
 which the insects actively cultivate, maintain, and depend upon specific fungal

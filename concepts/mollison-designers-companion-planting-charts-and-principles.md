@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Companion Planting Charts and Principles
+---# Companion Planting Charts and Principles
 
 Companion planting is the practice of placing plant species in proximity for
 mutual benefit, drawing on observed and researched interactions between plants

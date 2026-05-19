@@ -13,10 +13,9 @@ tags:
   - mushroom-cultivation
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - https://pubmed.ncbi.nlm.nih.gov/ — Auricularia polysaccharide and cardiovascular studies
+ — Auricularia polysaccharide and cardiovascular studies
   - Stamets, P. (2000). cancer-medicinal-mushrooms-extraction-bioavailability in Human Clinical Studies." Pharm. Nutr.
----
-## Auricularia auricula-judae
+--- Auricularia auricula-judae
 
 **Wood Ear** · **Jew's Ear** · **Jelly Ear** · **黑木耳** (Mù'ěrguā)
 

@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Solar Water Heating Systems
+---# Solar Water Heating Systems
 
 Solar water heating is a key [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], providing domestic hot water using
 free [[holmgren-built-environment-household-energy-storage]] uses.

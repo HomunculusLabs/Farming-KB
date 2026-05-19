@@ -17,12 +17,10 @@ updated: 2026-04-28
 sources:
   - Van Beek, T.A. et al. (1984). "Tabernaemontana divaricata: A review of its phytochemistry and pharmacology." Journal of Ethnopharmacology, 10(1), 1-24.
   - Kamel, M.S. et al. (2001). "Iboga-type alkaloids from Tabernaemontana divaricata." Phytochemistry, 58(2), 315-320.
-  - https://www.plantoftheworld.org/ (neurotropic-fungi-taxonomic-classification, Kew)
+ (neurotropic-fungi-taxonomic-classification, Kew)
   - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Perry, L.M. (1980). Medicinal Plants of East and Southeast Asia. MIT Press.---
----
-
-## Tabernaemontana divaricata (Pinwheel Flower)
+---# Tabernaemontana divaricata (Pinwheel Flower)
 
 ## Overview
 

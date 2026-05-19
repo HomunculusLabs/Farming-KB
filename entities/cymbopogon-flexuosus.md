@@ -19,12 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Cymbopogon_flexuosus
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cymbopogon-flexuosus
   - https://pfaf.org/user/Plant.aspx?LatinName=Cymbopogon+flexuosus
----
-
-## Cymbopogon flexuosus
+---# Cymbopogon flexuosus
 
 **Cymbopogon flexuosus**, commonly known as East Indian lemongrass, Malabar
 lemongrass, or Cochin lemongrass, is a perennial aromatic grass in the family

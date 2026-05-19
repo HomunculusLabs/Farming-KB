@@ -7,11 +7,10 @@ tags: [permaculture, poultry, ducks, orchard, pest-control,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-
+  - raw/papers/the-ultimate-guide-to-natural-farming-and-
     sustainable-living.md]
 type: concept
----
-## Permaculture Duck Integration for Orchards and Gardens
+--- Permaculture Duck Integration for Orchards and Gardens
 
 Ducks are among the most versatile and gentlest poultry species in a
 [[hamilton-beneficial-insects-and-biological-pest-control]] (especially [[fukuoka-natural-weed-management]], egg and meat

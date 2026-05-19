@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
----
-
-## Salad Vegetables Organic Growing
+---# Salad Vegetables Organic Growing
 
 Growing your own salad vegetables is particularly beneficial because
 their quality and flavor depends on freshness. They take up

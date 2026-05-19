@@ -10,11 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Mycorrhizal Response Under Salinity Stress
+---# Mycorrhizal Response Under Salinity Stress
 
 Soil salinity affects approximately one-third of irrigated agricultural land
 worldwide, causing billions of dollars in annual crop losses. Arbuscular

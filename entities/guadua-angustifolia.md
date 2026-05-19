@@ -24,16 +24,13 @@ sources:
   - Liese, W. & Köhl, M. (2015). "Bamboo: The Plant and its Uses." Springer.
   - Kleinhenz, V. & Midmore, D.J. (2001). "Aspects of Bamboo Agronomy." Adv. Agron., 74, 99–145.
   - Gutierrez, J.A. (2000). "Structural Use of Bamboo in Housing." INBAR Technical Report No. 21.
-  - https://www.gbif.org/species/4130870
 aliases:
   - Giant Bamboo
   - Colombian Bamboo
   - Guadua
   - Guadua Bamboo
   - Guadua de Castilla
----
-
-## Overview
+---# Overview
 
 **Guadua angustifolia** is the largest and most economically important bamboo species in the Americas, native to tropical and subtropical regions of Central and [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]].
 

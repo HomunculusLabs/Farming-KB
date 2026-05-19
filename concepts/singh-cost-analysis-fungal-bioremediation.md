@@ -5,11 +5,9 @@ tags: [mycoremediation, cost-analysis, remediation-economics, technology-assessm
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
----
-
-## Cost Analysis of Fungal Bioremediation
+---# Cost Analysis of Fungal Bioremediation
 
 Economic feasibility is a primary determinant of remediation technology
 selection. Fungal bioremediation offers compelling cost advantages over

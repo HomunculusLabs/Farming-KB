@@ -13,12 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Morus_alba
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614625/
   - https://www.mdpi.com/1420-3049/22/8/1309
----
-
-## Morus alba
+---# Morus alba
 
 **Morus alba**, commonly known as the **white mulberry**, is a fast-growing deciduous tree in the family Moraceae, native to northern China and widely naturalized across temperate and subtropical regions worldwide.
 It is one of the most ecologically versatile and culturally significant trees in human history, serving as the exclusive food source for the domesticated silkworm (*Bombyx mori*) — the foundation of the global silk industry for over 5,000 years.

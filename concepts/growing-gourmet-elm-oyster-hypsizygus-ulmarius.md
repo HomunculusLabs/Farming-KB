@@ -9,11 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
----
-
-## Elm Oyster Mushroom Cultivation (Hypsizygus ulmarius)
+---# Elm Oyster Mushroom Cultivation (Hypsizygus ulmarius)
 
 Hypsizygus ulmarius is a relatively rare mushroom that usually grows
 singly or in small groups on elms and beeches. It closely parallels

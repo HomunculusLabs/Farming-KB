@@ -4,14 +4,8 @@ tags: [tropical, root-crops, cassava, taro, sweet-potato, yam, staple-crops, per
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.fao.org/potato-2018/en/world.html
-  - https://www.cabi.org/isc/datasheet/15625
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267784/
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cassava
   - https://www.ftw.ugent.be/en/tropical-root-tuber-crops
----
-
-## Tropical Root Crops — Cassava, Taro, Sweet Potato, and Yam
+---# Tropical Root Crops — Cassava, Taro, Sweet Potato, and Yam
 
 ## Introduction
 

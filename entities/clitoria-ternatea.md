@@ -14,13 +14,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ — anthocyanin pharmacology and neuroprotective studies
-  - https://powo.science.kew.org/ — bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson and distribution
+ — anthocyanin pharmacology and neuroprotective studies
+ — bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson and distribution
   - Mukherjee, P.K. et al. "Clitoria ternatea: A Review on Its Phytochemical and Pharmacological Profile." Phytomedicine, 2008.
   - Goh, B.H. et al. "Clitoria ternatea (Butterfly Pea): A Review of Its Ethnobotany, Pharmacology, and Clinical Applications." Frontiers in Pharmacology, 2022.
----
-
-## Clitoria ternatea
+---# Clitoria ternatea
 
 **Clitoria ternatea** L., commonly known as **butterfly pea**, **Asian pigeonwings**, **blue pea**, or **aparajita** (अपराजिता) in Sanskrit, is a perennial climbing vine in the family Fabaceae. Native to tropical equatorial Asia, the plant is widely cultivated across [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - **Cultivated:** Throughout the tropics and subtropics; widely grown as an ornamental, medicinal, and food crop in Thailand, Vietnam, Malaysia, Indonesia, and India

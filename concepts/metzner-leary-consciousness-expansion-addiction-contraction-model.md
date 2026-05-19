@@ -5,10 +5,9 @@ tags:
   - addiction
   - psychedelics
   - leary
-  - [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]
+  - metzner-addiction-transcendence-consciousness-expansion-as-antidote
 of psychedelic states with the narrowed, fixated awareness typical of narcotic
 addictions and obsessive-compulsive patterns.
----
 
 ## Origins at Harvard
 

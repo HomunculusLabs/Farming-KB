@@ -11,11 +11,9 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
----
-
-## Insectary Plants and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] thrive in sufficient
+---# Insectary Plants and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] thrive in sufficient
 numbers to keep pest populations below economic damage thresholds.
 
 ## The Role of Beneficial Insects

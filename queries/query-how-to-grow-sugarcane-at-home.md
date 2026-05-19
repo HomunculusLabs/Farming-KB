@@ -10,13 +10,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://extension.uga.edu/publications/detail.html?number=B1323
-  - https://www.fao.org/3/x4966e/x4966e06.htm
-  - https://edis.ifas.ufl.edu/publication/SC021
-  - https://www.sare.org/publications/building-soils-for-better-crops/
 type: query
----
-## How [[query-how-do-you-grow-and-process-tea-at-home]]
+--- How [[query-how-do-you-grow-and-process-tea-at-home]]
 
 ## Short Answer
 

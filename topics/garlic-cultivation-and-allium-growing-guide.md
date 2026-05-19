@@ -5,16 +5,16 @@ tags: [garlic, alliums, onions, leeks, shallots, vegetable-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ~/wiki/concepts/garlic-growing-guide.md
-  - ~/wiki/concepts/onion-growing-guide.md
-  - ~/wiki/concepts/alliums-growing-guide.md
-  - ~/wiki/concepts/solomon-growing-garlic-onions-leeks.md
-  - ~/wiki/concepts/hamilton-bulb-vegetables-onion-family-organic.md
-  - ~/wiki/concepts/hamilton-garlic-growing-organic.md
-  - ~/wiki/concepts/growing-alliums-organically.md
-  - ~/wiki/concepts/hamilton-leek-growing-organic.md
-  - ~/wiki/concepts/coleman-leek-deep-planting-technique.md
-  - ~/wiki/entities/allium-sativum-entity.md
+  - concepts/garlic-growing-guide.md
+  - concepts/onion-growing-guide.md
+  - concepts/alliums-growing-guide.md
+  - concepts/solomon-growing-garlic-onions-leeks.md
+  - concepts/hamilton-bulb-vegetables-onion-family-organic.md
+  - concepts/hamilton-garlic-growing-organic.md
+  - concepts/growing-alliums-organically.md
+  - concepts/hamilton-leek-growing-organic.md
+  - concepts/coleman-leek-deep-planting-technique.md
+  - entities/allium-sativum-entity.md
 related_concepts:
   - garlic-growing-guide
   - onion-growing-guide
@@ -22,9 +22,7 @@ related_concepts:
   - solomon-growing-garlic-onions-leeks
   - hamilton-bulb-vegetables-onion-family-organic
   - comparison-hardneck-vs-softneck-garlic
----
-
-## Garlic Cultivation and Allium Growing Guide
+---# Garlic Cultivation and Allium Growing Guide
 
 The allium family encompasses some of the most indispensable vegetables
 and herbs in human agriculture. Garlic, onions, leeks, shallots, and

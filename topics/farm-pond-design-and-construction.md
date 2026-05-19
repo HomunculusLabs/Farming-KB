@@ -6,10 +6,10 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-  - ~/wiki/raw/papers/sepp-holzer-practical-guide.md
-  - ~/wiki/raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/sepp-holzer-practical-guide.md
+  - raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 related_concepts:
   - pond-design-and-construction
   - dam-construction
@@ -31,9 +31,7 @@ related_concepts:
   - hamilton-garden-pond-maintenance
   - mollison-designers-fish-pond-fertiliser-and-nutrient-cycling
   - pond-maintenance-and-troubleshooting
----
-
-## Farm Pond Design and Construction
+---# Farm Pond Design and Construction
 
 Water is the single most important element in any productive landscape. Bill Mollison called stored water the "final arbiter of successful settlement," while Sepp Holzer built over seventy ponds at his Krameterhof farm in the Austrian Alps, demonstrating that water retention transforms even marginal land into productive ecosystems. Farm ponds and small dams serve far more functions than simple water storage: they irrigate crops, raise fish, moderate microclimates, protect against fire, create [[hemenway-backyard-wildlife-habitat]], and serve as the centrepiece of integrated farm design.
 

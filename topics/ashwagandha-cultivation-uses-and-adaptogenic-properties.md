@@ -4,13 +4,8 @@ tags: [ashwagandha, adaptogens, medicinal-herbs, ayurveda, withania-somnifera, h
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=withania+somnifera+review
-  - https://www.kew.org/plants/withania-somnifera
-  - https://pfaf.org/user/Plant.aspx?LatinName=Withania+somnifera
-  - https://www.ncbi.nlm.nih.gov/books/NBK560534/
   - https://www.frontiersin.org/articles/10.3389/fphar.2021.647481/full
----
-## Ashwagandha Cultivation, Uses, and Adaptogenic Properties
+--- Ashwagandha Cultivation, Uses, and Adaptogenic Properties
 
 ## Overview
 

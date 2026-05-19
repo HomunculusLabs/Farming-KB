@@ -5,11 +5,9 @@ tags: [cannabis, migraine, headache, pain, endocannabinoid-deficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
----
-
-## Cannabis and Migraine
+---# Cannabis and Migraine
 
 Migraines are recurring headaches that range from moderate to severe. Severe
 migraines lasting for hours or days can be debilitating. The pain can induce

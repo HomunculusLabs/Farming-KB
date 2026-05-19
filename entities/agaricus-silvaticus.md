@@ -14,11 +14,8 @@ updated: 2026-04-28
 sources:
   - Kerrigan, R.W. (2016). Agaricus of psilocybin-north-america-pacific-northwest. Memoirs of the New York Botanical Garden.
   - Wasser, S.P. (2014). "Mushrooms as a Source of Nutraceuticals." Current Pharmaceutical Design, 20(19), 3208-3224.
-  - https://www.firstnature.com/fungi/agaricus-silvaticus.php
   - Cappelli, A. (1984). "Agaricus L.: Fungi Europaei." Giovanna Biella.
----
-
-## Agaricus silvaticus
+---# Agaricus silvaticus
 
 ## Overview
 

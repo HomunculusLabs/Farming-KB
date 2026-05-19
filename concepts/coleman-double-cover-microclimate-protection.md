@@ -2,15 +2,13 @@
 title: Coleman Double Cover Microclimate Protection
 created: 2026-05-08
 sources:
-  - path: raw/raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - path: raw/papers/eliot-coleman-winter-harvest-handbook.md
     title: The coleman-claytonia-winter-harvest-cultivation Handbook - eliot-coleman
     author: eliot-coleman
 updated: 2026-05-08
 type: concept
 tags: [reference]
----
-
-## Double Cover Microclimate Protection
+---# Double Cover Microclimate Protection
 
 ## The Two-Layer Principle
 

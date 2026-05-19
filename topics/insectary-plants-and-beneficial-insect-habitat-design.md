@@ -5,11 +5,11 @@ tags: [insectary-plants, beneficial-insects, pollinators, biological-control, pe
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-  - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
-  - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-  - ~/wiki/raw/papers/a-selection-permaculture-plants.md
+  - raw/papers/gaias-garden-toby-hemenway.md
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - raw/papers/a-selection-permaculture-plants.md
 related_concepts:
   - insectary-plants-guide
   - insectary-plants-for-pest-control
@@ -21,9 +21,7 @@ related_concepts:
   - permaculture-insectary-plants
   - insectary-plantings
   - gaias-garden-beneficial-insects-gallery
----
-
-## Insectary Plants and Beneficial Insect Habitat Design
+---# Insectary Plants and Beneficial Insect Habitat Design
 
 ## Overview
 

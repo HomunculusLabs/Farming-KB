@@ -7,13 +7,11 @@ updated: 2026-04-28
 sources:
   - "Filaree Garlic Farm — comparison-bean-growing-guide-vs-pepper-growing-guide, filareefarm.com"
   - "Ted Jordan Meredith, The Complete Book of Garlic (Timber Press, 2008)"
-  - "Bret L. Markham, [[biointensive-mini-farming]]: Self-Sufficiency on 1/4 Acre (Skyhorse, 2010)"
+  - "Bret L. Markham, : Self-Sufficiency on 1/4 Acre (Skyhorse, 2010)"
   - "ATTRA / NCAT, Garlic: Organic Production (ncat.org/attra-pub/summaries/summary.php?pub=111)"
-  - "Ira Wallace, The Timber Press Guide to [[home-vegetable-garden-planning]] in the Southeast (Timber Press, 2013)"
+  - "Ira Wallace, The Timber Press Guide to  in the Southeast (Timber Press, 2013)"
 type: comparison---
----
-
-## Hardneck Garlic vs Softneck Garlic
+---# Hardneck Garlic vs Softneck Garlic
 
 All garlic falls into two broad categories: **hardneck** (*[[organic-pest-and-disease-management]]
 
