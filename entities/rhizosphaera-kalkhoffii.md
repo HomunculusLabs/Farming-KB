@@ -105,14 +105,6 @@ tags: [fungi, ascomycota, pathogens, conifers, spruce, pollution, needle-cast]
 
 ## See Also
 
-- Phylloplane fungal communities
-- Sclerophoma pythiophila
-- Aureobasidium pullulans
-- Atmospheric pollution effects on fungi
-- Needle diseases of conifers
-- Forest health bioindicators
-## See also
-
-- [[fungal-plant-diseases]]
 - [[discula-quercina]]
+- [[fungal-plant-diseases]]
 - [[sclerophoma-pythiophila]]

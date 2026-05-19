@@ -94,6 +94,7 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
+Related topics include [[2-ag-endocannabinoid-signaling-blesching]] and associated practices.
 
 ## See Also
 - [[beta-caryophyllene-dietary-cannabinoid-cb2-spices-blesching]]
@@ -116,9 +117,4 @@ Integration with existing systems often yields better results than complete repl
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
+See also [[blesching-dietary-beta-caryophyllene-spice-sources-cb2-agonist]] and [[beta-caryophyllene-dietary-cannabinoid-blesching]] for related information.

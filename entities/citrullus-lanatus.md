@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chomicki, G. & Renner, S.S. (2015). "Watermelon [[cannabis-chemdawg-origin-story-lineage]]: How This Fruit Was Domesticated." Proceedings of the National Academy of Sciences, 112(40), 12245-12246.
+  - Chomicki, G. & Renner, S.S. (2015). "Watermelon cannabis-chemdawg-origin-story-lineage: How This Fruit Was Domesticated." Proceedings of the National Academy of Sciences, 112(40), 12245-12246.
   - Levi, A. et al. (2001). "Genetic Analysis among Citrullus lanatus, C. colocynthis, and C. ecirrhosus." Theoretical and Applied Genetics, 103, 211-218.
   - USDA (2019). "Watermelon, Raw." FoodData Central, fdc.nal.usda.gov.
   - Wehner, T.C. (2008). "Watermelon." in Prohens, J. & Nuez, F. (eds.), Handbook of Plant Breeding: Vegetables II, 381-418.

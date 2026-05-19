@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2017). "A Handbook [[hallucinogenic-plants-of-the-world]]'s Conifers." 2nd ed. Brill.
+  - Farjon, A. (2017). "A Handbook hallucinogenic-plants-of-the-world's Conifers." 2nd ed. Brill.
   - Talhouk, S.N. et al. (2001). "Conservation of the Cedar of Lebanon." [[fungal-biodiversity-and-ecosystem-function]] Conservation 10(11).
   - IUCN Red List. "Cedrus libani." https://www.iucnredlist.org/
   - Barbero, M. et al. (1981). "Sur la taxinomie des cèdres." Annales des Sciences Forestières 38(4).

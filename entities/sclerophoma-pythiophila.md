@@ -102,14 +102,6 @@ tags: [fungi, ascomycota, phylloplane, bioindicator, pollution, conifers]
 
 ## See Also
 
-- Phylloplane fungal communities
-- Aureobasidium pullulans
-- Cladosporium cladosporioides
-- Atmospheric pollution effects on fungi
-- Forest health bioindicators
-- Waldsterben
-## See also
-
 - [[fungal-plant-diseases]]
-- [[rhizosphaera-kalkhoffii]]
 - [[peniophora-gigantea]]
+- [[rhizosphaera-kalkhoffii]]

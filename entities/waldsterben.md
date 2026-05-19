@@ -97,14 +97,6 @@ tags: [ecology, pollution, forestry, acid-rain, mycorrhizae, europe, environment
 
 ## See Also
 
-- Acidifying pollutants and mycorrhizae
-- Nitrogen deposition effects on ECM fungi
-- Ectomycorrhizal community structure
-- Forest decline and fungal bioindicators
-- Critical loads for pollutant deposition
-- Lichens as pollution indicators
-## See also
-
-- [[waldsterben-forest-decline]]
 - [[acidifying-pollutants-mycorrhizae]]
 - [[nitrogen-deposition-fungal-communities]]
+- [[waldsterben-forest-decline]]

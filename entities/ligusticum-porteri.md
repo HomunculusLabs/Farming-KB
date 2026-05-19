@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Moore, M. (1993). \"Medicinal [[hallucinogenic-plants-of-the-world]] Mountain West.\" Museum of New Mexico Press."
+  - "Moore, M. (1993). \"Medicinal hallucinogenic-plants-of-the-world Mountain West.\" Museum of New Mexico Press."
   - "Dunmire, S.W. & Tierney, G.D. (1997). \"Wild Plants of the Pueblo Province.\" Museum of New Mexico Press."
   - "Kindscher, K. (1992). \"Medicinal Wild Plants of the Prairie.\" University Press of Kansas."
   - "McCutcheon, A.R. et al. (1995). \"Antibacterial and antifungal activity of medicinal plants.\" Journal of Ethnopharmacology, 49(2), 101-110."

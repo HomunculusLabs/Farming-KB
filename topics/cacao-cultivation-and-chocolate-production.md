@@ -58,23 +58,23 @@ Seeds must be planted fresh — viability drops rapidly after 2 weeks. Seeds are
 
 - **Standard spacing:** 3 × 3 m to 4 × 4 m (625–1,111 trees/ha) depending on [[green-manure-cover-crops]] from shade trees, rock phosphate, wood ash
 
+## Processing and Fermentation
+
+Post-harvest processing of cacao involves several critical steps that determine the final flavor profile. Fermentation of the beans in wooden boxes or heaps for 5-7 days develops precursor compounds for chocolate flavor. Drying follows, reducing moisture content to 6-8% for stable storage and transport.
+
+## Economic and Social Impact
+
+Cacao cultivation supports millions of smallholder farmers worldwide, primarily in tropical regions of West Africa, South America, and Southeast Asia. Fair trade and direct trade initiatives aim to improve farmer livelihoods while maintaining quality standards and environmental sustainability.
+
+## Harvest and Quality
+
+Harvesting cacao pods at peak ripeness ensures optimal flavor development. Quality assessment involves evaluating bean size, fermentation degree, and moisture content. The best beans undergo careful sorting and grading before processing into chocolate products.
+
 ## See Also
 
+- [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]]
+- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
 - [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
 - [[comparison-coffee-vs-cacao-cultivation]]
 - [[query-what-is-companion-planting-and-how-does-it-work]]
 - [[vanilla-cultivation-and-orchid-ecology]]
-
-## Notes
-
-Additional context and supporting information relevant to this topic area.
-Additional context and supporting information relevant to this topic area.
-Additional context and supporting information relevant to this topic area.
-Additional context and supporting information relevant to this topic area.
-Additional context and supporting information relevant to this topic area.
-Additional context and supporting information relevant to this topic area.
-Additional context and supporting information relevant to this topic area.
-
-## See Also
-- [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]]
-- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]

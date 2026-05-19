@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Felter, H.W. & Lloyd, J.U. (1898). King's American Dispensatory. [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]] Co."
+  - "Felter, H.W. & Lloyd, J.U. (1898). King's American Dispensatory. histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus Co."
   - "Millspaugh, C.F. (1974). American Medicinal Plants. Dover Publications."
   - "Moerman, D. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press."
   - "Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. Medpharm Scientific Publishers."

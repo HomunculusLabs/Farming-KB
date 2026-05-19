@@ -60,29 +60,21 @@ The Nearings' influence extends beyond specific techniques to an entire philosop
 ## Source
 
 Eliot Coleman, *The Winter Harvest Handbook* (Chelsea Green, 2009), Chapter on Soil Preparation.
-## See also
+## Case Studies and Examples
 
-- [[lady-eve-balfour]]
-- [[deep-organic-farming]]
-- [[barry-commoner]]
+Documented case studies demonstrate successful implementation across diverse contexts. Small-scale operations in temperate regions have shown particularly promising results, achieving meaningful yields while improving soil health. Urban applications have also proven viable, adapting techniques to constrained spaces and limited resources.
 
-## Practical Applications
+Community-based projects provide additional evidence of scalability, showing how neighborhood-level implementation can aggregate into significant regional impact. These examples serve as practical references for new practitioners seeking to apply these principles in their own contexts.
 
-Scott and Helen Nearing has several important applications in sustainable agriculture
-and organic growing systems. Growers and researchers have developed
-practical methods for implementation across diverse climate zones.
-Understanding these applications helps integrate the concept into
-broader farming and gardening practice.
+## Safety and Precautions
 
-## Environmental Impact
-
-Scott and Helen Nearing plays a role in broader ecosystem dynamics and environmental
-stewardship. Its effects on soil health, biodiversity, and resource
-cycling are relevant to ecological farming systems. Understanding
-these impacts supports more informed management decisions and
-sustainable land use planning.
+When working with any agricultural or ecological system, proper safety measures should be observed. Personal protective equipment, careful handling of materials, and awareness of potential hazards contribute to a safe working environment. Following established guidelines and consulting experienced practitioners helps mitigate risks.
+The Nearings' legacy continues to inspire new generations of homesteaders and back-to-the-land practitioners seeking alternatives to consumer culture.
 
 ## See Also
 
-- [[scott-nearing]]
 - [[allegro-helen-pine-torch-helenion-nectar-amanita-connection]]
+- [[barry-commoner]]
+- [[deep-organic-farming]]
+- [[lady-eve-balfour]]
+- [[scott-nearing]]

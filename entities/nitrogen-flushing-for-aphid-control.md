@@ -69,24 +69,13 @@ This approach is applicable to many greenhouse and high-tunnel operations where 
 - **Aligned with organic philosophy:** Works with natural processes rather than against them
 
 The technique demonstrates that careful observation and understanding of pest ecology often yields simpler, more effective, and more sustainable solutions than direct pest control interventions.
-## See also
-
-- [[aphid-greenhouse-management]]
-- [[cool-greenhouse]]
-- [[deep-organic-farming]]
-
-## Practical Applications
-
-Nitrogen Flushing for Aphid Control has several important applications in sustainable agriculture
-and organic growing systems. Growers and researchers have developed
-practical methods for implementation across diverse climate zones.
-Understanding these applications helps integrate the concept into
-broader farming and gardening practice.
-
 ## See Also
 
-- [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]
-- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
+- [[aphid-greenhouse-management]]
 - [[aphid-management-vegetable-garden-solomon]]
-- [[jadam-aphid-mite-pesticide]]
+- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
+- [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]
+- [[cool-greenhouse]]
+- [[deep-organic-farming]]
 - [[fukuoka-mite-scale-microclimate-control-citrus-orchard]]
+- [[jadam-aphid-mite-pesticide]]

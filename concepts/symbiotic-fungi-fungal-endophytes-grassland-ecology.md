@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[auxin-production-by-symbiotic-fungi]]
 - [[fungi-in-the-environment-symbiotic-relationships]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]

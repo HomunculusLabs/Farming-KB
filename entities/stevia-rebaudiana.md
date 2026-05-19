@@ -19,7 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brandle, J.E., Starratt, A.N., Gijzen, M. (1998). "Stevia rebaudiana: Its Agricultural, Biological, and Chemical Properties." Canadian Journal [[history-of-plant-science]], 78(4), 527-536.
+  - Brandle, J.E., Starratt, A.N., Gijzen, M. (1998). "Stevia rebaudiana: Its Agricultural, Biological, and Chemical Properties." Canadian Journal history-of-plant-science, 78(4), 527-536.
   - Kinghorn, A.D. (2002). "The Genus Stevia." [[holzer-medicinal-and-culinary-herbs-compendium]] Aromatic Plants — Industrial Profiles. Taylor & Francis.
   - Carakostas, M.C. et al. (2008). "Overview: The History, Technical Function, and Safety of Rebiana." Food and Chemical Toxicology, 46, S1-S10.
   - Geuns, J.M.C. (2003). "Molecules of Interest: Stevioside." Phytochemistry, 64(5), 913-921.

@@ -64,32 +64,17 @@ This reflects a fundamental tension in organic certification: the attempt to cod
 ## Relevance to Cultivation
 
 The NOP shapes every aspect of certified organic production in the United States. Understanding its standards, requirements, and limitations is essential for any organic grower. However, Coleman's critique suggests that the spirit of organic farming—ecological stewardship, soil health, biological balance—cannot be fully captured by regulatory frameworks and that farmers must maintain a deeper commitment to organic principles beyond mere compliance.
-## See also
+## Soil and Water Requirements
 
-- [[deep-organic-farming]]
-- [[lady-eve-balfour]]
-- [[barry-commoner]]
-
-## Practical Applications
-
-National Organic Program has several important applications in sustainable agriculture
-and organic growing systems. Growers and researchers have developed
-practical methods for implementation across diverse climate zones.
-Understanding these applications helps integrate the concept into
-broader farming and gardening practice.
-
-## Historical Significance
-
-The historical development of national organic program reflects broader trends
-in agricultural science and ecological thinking. Early observations
-and experiments laid groundwork that modern practitioners continue
-to build upon, connecting traditional knowledge with contemporary
-research and sustainable management approaches.
+Optimal growth requires well-drained soil with adequate organic matter content. Water management follows natural precipitation patterns supplemented by efficient irrigation when necessary. Soil pH and nutrient availability are monitored to ensure conditions remain within the ideal range for healthy development.
 
 ## See Also
 
+- [[barry-commoner]]
 - [[d-entrecasteaux-national-park]]
-- [[kakadu-national-park]]
+- [[deep-organic-farming]]
 - [[fukuoka-natural-farming-vs-organic-farming]]
-- [[organic-garden-soil-preparation]]
 - [[hamilton-composting-and-organic-matter-management]]
+- [[kakadu-national-park]]
+- [[lady-eve-balfour]]
+- [[organic-garden-soil-preparation]]

@@ -91,6 +91,7 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
+Related topics include [[allegro-death-and-resurrection-in-the-mushroom-cult]] and associated practices.
 
 ## See Also
 
@@ -116,9 +117,4 @@ Integration with existing systems often yields better results than complete repl
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
+See also [[fukuoka-one-straw-revolution-philosophy]] and [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]] for related information.

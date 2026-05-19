@@ -39,13 +39,11 @@ Described in Eliot Coleman's "The Winter Harvest Handbook" in the weed control a
 
 ## See Also
 
-- [[eliot-coleman]]
-- [[deep-organic-farming]]
-## See also
-
-- [[collinear-hoe]]
-- [[flame-weeding-and-cultivation]]
 - [[broadfork]]
+- [[collinear-hoe]]
+- [[deep-organic-farming]]
+- [[eliot-coleman]]
+- [[flame-weeding-and-cultivation]]
 
 ## Practical Applications
 

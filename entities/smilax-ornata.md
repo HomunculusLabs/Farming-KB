@@ -22,7 +22,7 @@ aliases:
   - zarzaparrilla
   - Smilax aristolochiifolia
 sources:
-  - Duke, J.A. (2008). "Duke's Handbook of [[amazonian-medicinal-plants-in-amaringos-visions]] of Latin America." CRC Press.
+  - Duke, J.A. (2008). "Duke's Handbook of amazonian-medicinal-plants-in-amaringos-visions of Latin America." CRC Press.
   - Gupta, M.P. (1995). "270 Plantas Medicinales Iberoamericanas." CYTED.
   - Schultes, R.E. & Raffauf, R.F. (1990). "The Healing Forest." Dioscorides Press.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:537307-1

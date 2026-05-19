@@ -86,13 +86,7 @@ Peniophora gigantea (now reclassified as **Phlebiopsis gigantea**) is a saprotro
 
 ## See Also
 
-- Heterobasidion annosum (target pathogen)
-- Mycoparasitism
-- Biological control of forest pathogens
-- Wood decay fungal succession
-- [[white-rot-fungi]]
-## See also
-
 - [[amphinema-byssoides]]
 - [[fungal-plant-diseases]]
 - [[sclerophoma-pythiophila]]
+- [[white-rot-fungi]]
