@@ -23,6 +23,8 @@ Discovered in the 1990s, anandamide was a landmark finding that led to
 the identification of the entire [[two-ag]]
 - [[endocannabinoid-system]] (ECS)
 - fatty [[blesching-cannabis-anandamide]]
+
+Anandamide acts primarily through [[cannabinoid-receptors-cb1-cb2]] and is degraded by the enzyme FAAH. See [[anandamide-and-the-endocannabinoid-system]] for broader context on its role in the ECS, and [[cbd-faah-inhibition-anandamide-preservation-blesching]] for how CBD preserves anandamide levels.
 ## Practical Applications
 
 Anandamide (AEA) has a range of practical applications that make it relevant to

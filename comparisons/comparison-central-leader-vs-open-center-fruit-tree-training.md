@@ -38,6 +38,10 @@ type: comparison
 
 ## See Also
 
+- [[fruit-tree-pruning-and-training-systems]]
+- [[espalier-fruit-tree-training-and-design]]
+- [[fruit-tree-care-and-orchard-management]]
+
 ## Practical Applications
 
 Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.

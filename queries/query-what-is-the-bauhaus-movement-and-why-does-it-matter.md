@@ -45,10 +45,14 @@ Graphic design emphasizes legibility and composition rather than decorative bord
 Textiles use pattern, structure, and material research rather than imitation of older ornament.
 These traits became influential in modern architecture, product design, and visual communication.
 ## Who were the important Bauhaus figures?
-[[bill-mollison]] [[permaculture]]
+The Bauhaus was founded by Walter Gropius and attracted figures such as Ludwig Mies van der Rohe, Marcel Breuer, Wassily Kandinsky, Paul Klee, László Moholy-Nagy, and Josef Albers. See [[bauhaus-movement]] for detailed biographical profiles.
 
 ## See Also
 
+- [[bauhaus-movement]]
+- [[permaculture-guild-design-method]]
+- [[holmgren-pattern-thinking-and-pattern-language]]
+- [[design-principle-integration]]
 - [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]]
 
 ## Practical Applications
