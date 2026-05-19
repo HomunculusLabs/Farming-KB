@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Sheviak, C.J. (1982). "Spiranthes romanzoffiana: guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution." Brittonia, 34(2), 144–156.
+  - Sheviak, C.J. (1982). "Spiranthes romanzoffiana: [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]]." Brittonia, 34(2), 144–156.
   - Catling, P.M. (1990). "Auto-Pollination in the Orchidaceae." In: Arditti, J. (ed.), Orchid Biology: Reviews and Perspectives V, 121–158.
   - Kery, M. & Gregg, K.B. (2004). "Demographic Analysis of the Declining Orchid Spiranthes romanzoffiana." Biological Conservation, 117(1), 23–31.
   - Sipes, S.D. & Tepedino, V.J. (1995). "Pollination Biology of the Western Spiranthes romanzoffiana." Great Basin Naturalist, 55(4), 341–347.

@@ -1,5 +1,5 @@
 ---
-title: Mead and Honey Wine Brewing Guide
+title: Mead and Honey Wine [[ayahuasca-brewing-guide]]
 created: 2026-05-18
 updated: 2026-05-18
 type: topic
@@ -48,7 +48,7 @@ the line between mead and wine in the ancient imagination.
 ## Mead in the Ancient World
 
 The Minoan civilization of Crete placed honey at the center of
-religious life. Murals at Çatal Hüyük depict the life cycle and
+religious life. Murals at Çatal Hüyük depict the [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]]
 metamorphosis of honeybees, suggesting that honey processing held
 deep spiritual significance.
 
@@ -91,7 +91,7 @@ among modern meadmakers because fruit adds acidity, tannin, and
 complex flavor that pure honey meads sometimes lack.
 
 Fruit can be added fresh, frozen, pureed, or as juice. Frozen fruit
-is often preferred because freezing breaks cell walls, releasing
+is often preferred because freezing breaks [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], releasing
 more juice and flavor during fermentation.
 
 ### Cyser
@@ -110,7 +110,7 @@ with finished wine. Both approaches produce distinctive results.
 
 Blackberry, raspberry, blueberry, cherry, peach, and plum meads
 are all popular. Berries contribute vibrant color and tartness.
-Stone fruits add soft, rounded sweetness and aromatic complexity.
+[[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]] add soft, rounded sweetness and aromatic complexity.
 
 ## Metheglin (Spiced and Herbal Mead)
 
@@ -123,7 +123,7 @@ allspice, cardamom, and vanilla. Herbal additions range from
 rosemary and thyme to lavender and chamomile.
 
 Historical metheglins often contained [[medicinal-herbs-for-livestock]], linking
-meadmaking to herbalism and folk medicine. Many modern meadmakers
+meadmaking to herbalism and [[magical-illness-peruvian-amazon-folk-medicine]]. Many modern meadmakers
 continue this tradition by incorporating adaptogenic or therapeutic
 herbs into their recipes.
 

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics stropharia-cubensis-identification-and-natural-history." Cambridge University Press.
+  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics [[stropharia-cubensis-identification-and-natural-history]]." Cambridge University Press.
   - Mossberg, B. & Stenberg, L. (2018). "Nordic Flora." Bonnier Fakta, Stockholm.
   - von Hagen, K.B. & Kadereit, J.W. (2001). "Phylogeny of Gentianella sect. Gentianella." Taxon 50(3): 633–648.
   - Clapham, A.R. et al. (1987). "Flora of the British Isles." 3rd ed. Cambridge University Press.

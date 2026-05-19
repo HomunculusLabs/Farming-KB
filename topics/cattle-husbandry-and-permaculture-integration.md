@@ -1,9 +1,9 @@
 ---
-title: Cattle Husbandry and [[permaculture]] Integration
+title: [[cattle-husbandry]] and [[permaculture]] Integration
 created: 2026-05-18
 updated: 2026-05-18
 type: topic
-tags: [animal-husbandry, permaculture, livestock, cattle, [[holistic-grazing-and-pasture-management|grazing]], homesteading, dairy, beef]
+tags: [animal-husbandry, permaculture, livestock, cattle, [[holistic-grazing-and-pasture-management]], homesteading, dairy, beef]
 synthesized_from:
   - cattle-husbandry
   - cattle-keeping-guide
@@ -17,11 +17,11 @@ synthesized_from:
 
 # Cattle Husbandry and Permaculture Integration
 
-Cattle are among the most productive and versatile [[holzer-livestock-integration|livestock]] available to
-homesteaders, small farmers, and permaculture designers. They convert
+Cattle are among the most productive and versatile [[holzer-livestock-integration]] available to
+homesteaders, small farmers, and [[bill-mollison-permaculture-designers-manual]]. They convert
 pasture and browse that humans cannot digest into high-quality protein
 in the form of meat and milk. Their manure distributes fertility across
-the landscape. Their [[holistic-grazing-and-pasture-management|grazing]] stimulates root growth in grasses and
+the landscape. Their [[holistic-grazing-and-pasture-management]] stimulates root growth in grasses and
 promotes pasture diversity.
 
 Integrating cattle into permaculture systems requires careful management
@@ -30,7 +30,7 @@ properly designed, cattle systems produce food, improve soil, manage
 vegetation, and generate income from land that might otherwise lie
 fallow. This article covers breed selection, grazing management, health
 care, housing, dairy production, finishing, and permaculture-specific
-integration strategies drawn from Bill Mollison, Sepp Holzer, and
+integration strategies drawn from [[bill-mollison]], Sepp Holzer, and
 contemporary homesteading practice.
 
 ## Beef Cattle Breeds
@@ -47,7 +47,7 @@ heavy muscling. Charolais cattle are large, white, and fast-growing,
 often used as terminal sires in crossbreeding programs. Limousin cattle
 produce lean, heavily muscled carcasses and convert feed efficiently.
 Simmental cattle are large and dual-purpose, combining good maternal
-traits with impressive growth rates.
+traits with impressive [[coleman-sunlight-and-winter-crop-growth-rates]].
 
 Heritage and miniature breeds deserve special attention for small-acreage
 permaculture systems. Dexter cattle weigh only 600 to 900 pounds, roughly
@@ -95,7 +95,7 @@ makes the daily work of keeping them very low. The diversity of species
 in a single paddock creates a resilient, self-regulating system.
 
 A key Holzer principle is that animals with access to lush, diverse
-flora including poisonous mushrooms and medicinal plants stay healthy
+flora including [[identifying-poisonous-mushrooms]] and medicinal plants stay healthy
 without routine worming. His district veterinarian examined the livestock
 for decades and confirmed the health benefits of this approach.
 
@@ -125,7 +125,7 @@ then rest the paddock until 8 to 12 inches of regrowth appears.
 Rest periods vary dramatically by season. In spring, 21 to 45 days may
 suffice. During summer drought, paddocks may need 45 to 90 or more
 days of rest. Stocking density should start conservative and increase
-gradually as you learn your land's carrying capacity.
+gradually as you learn your land's [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]].
 
 Multi-species grazing improves pasture utilisation and reduces parasite
 loads. Cattle prefer tall grasses, sheep graze closer to the ground,

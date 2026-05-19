@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-rabbit-vs-quail-husbandry]] and Egg Production"
+title: "[[comparison-rabbit-vs-quail-husbandry]] and [[mollison-designers-chicken-tractors-egg-production]]"
 created: 2026-05-18
 updated: 2026-05-18
 type: topic
@@ -38,7 +38,7 @@ eight to ten weeks. This speed allows multiple production cycles per
 season and rapid flock replacement.
 
 Their space requirements are minimal. Cage systems allocate roughly one
-square foot per bird, making them feasible on suburban lots, rooftops,
+[[comparison-biointensive-vs-square-foot-gardening]] per bird, making them feasible on suburban lots, rooftops,
 and even indoor spaces with proper ventilation. In many jurisdictions
 quail are classified as game birds rather than poultry, which means
 they fall outside chicken-keeping ordinances.
@@ -54,7 +54,7 @@ feed per year, at an annual cost of roughly three to eight dollars.
 
 ## Coturnix Quail Biology
 
-Coturnix quail are native to East Asia and have been domesticated for
+Coturnix quail are native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and have been domesticated for
 centuries. Mature hens weigh 150 to 200 grams, while males are
 slightly larger at 170 to 250 grams. Their natural lifespan is two to
 five years, though productive laying declines after the first year.
@@ -67,7 +67,7 @@ design, as roosts and elevated nesting boxes are unnecessary.
 Their reproductive cycle is strongly photo-periodic. Hens require
 fourteen to sixteen hours of light per day to maintain peak egg
 production. Under natural conditions, production peaks during spring
-and summer and declines as day length shortens in autumn.
+and summer and declines as [[coleman-persephone-months-winter-day-length]] shortens in autumn.
 
 ## Breed Varieties
 

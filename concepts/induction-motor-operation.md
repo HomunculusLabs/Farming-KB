@@ -100,7 +100,7 @@ Practitioners have demonstrated successful implementation across varied climates
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores intersections between traditional knowledge and modern scientific understanding.
+[[psychedelic-therapy-current-research]] explores intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 
