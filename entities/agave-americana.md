@@ -9,7 +9,7 @@ tags:
   - succulent
   - desert-plant
   - xeriscaping
-  - permaculture
+  - [[permaculture]]
   - ethnobotany
   - fiber-crop
   - mescal

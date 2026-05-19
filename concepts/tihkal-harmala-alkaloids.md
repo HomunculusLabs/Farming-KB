@@ -86,7 +86,7 @@ Practitioners frequently encounter predictable obstacles that can be mitigated. 
 
 ## Research Developments
 
-Current research continues to expand understanding of the field. Working with tihkal harmala alkaloids requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
+[[psychedelic-therapy-current-research]] continues to expand understanding of the field. Working with tihkal harmala alkaloids requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
 
 ## Implementation Methods
 
@@ -94,7 +94,7 @@ Proven approaches for putting theory into practice with measurable outcomes. Wor
 
 ## Quality Assessment
 
-Methods for evaluating outcomes and ensuring quality standards. Working with tihkal harmala alkaloids requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
+Methods for evaluating outcomes and ensuring [[aact-compost-quality-standards-ingham]]. Working with tihkal harmala alkaloids requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
 
 ## Technical Specifications
 
@@ -110,10 +110,10 @@ Seeds contain a mixture of harmala alkaloids (harmine, harmaline, tetrahydroharm
 | 5 g | Tinnitus, nystagmus, nausea, intense closed-eye hallucinations, enhanced sex drive |
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
+Field observations and experimental data continue to inform [[arbuscular-mycorrhizal-inoculum-production-best-practices]].
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 Local adaptation and context-specific strategies remain essential for success.

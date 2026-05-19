@@ -17,8 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Habib, M.A.B. et al. (2008). "A review on culture, production and use of
-    spirulina as food for humans and feeds for query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed Science and Technology, 151(2-4), 111-125.
-  - Soni, R.A. et al. (2017). "Microalgae in blesching-cannabis-diabetes-mellitus-endocannabinoid-system." Journal of Medicinal Food, 8(4),
+    spirulina as food for humans and feeds for [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] Science and Technology, 151(2-4), 111-125.
+  - Soni, R.A. et al. (2017). "Microalgae in [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]." Journal of Medicinal Food, 8(4),
     483-486.
   - Deng, R. & Chow, T.J. (2010). "Hypolipidemic, antioxidant, and
     antiinflammatory activities of microalgae Spirulina." Cardiovascular
@@ -61,7 +61,7 @@ are the two primary species in commercial production.
 
 ## Morphology
 
-Arthrospira forms microscopic, unbranched, helical filaments (trichomes)
+Arthrospira forms microscopic, unbranched, helical filaments ([[trichomes]])
 composed of cylindrical cells arranged end-to-end. Helices are typically
 0.2-0.3 mm in diameter and may be loosely or tightly coiled. The blue-green
 coloration comes from chlorophyll *a* (green) and phycocyanin (blue), the

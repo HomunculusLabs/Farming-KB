@@ -34,7 +34,7 @@ subdivisions.
 
 ## Maintenance
 
-Living fences require maintenance during establishment (watering, weeding,
+[[living-fences-and-hedgerows]] require maintenance during establishment (watering, weeding,
 protection from browsing) but become increasingly self-sustaining as they
 mature. Ongoing management includes periodic pruning to maintain barrier
 density, harvesting of useful products, and replacement of any gaps caused
@@ -76,7 +76,7 @@ Frequently encountered obstacles and their proven solutions. Success with mollis
 
 ## Research Developments
 
-Current research directions and emerging findings in this field. Success with mollison designers woven fence hedge live barrier depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
+[[psychedelic-therapy-current-research]] directions and emerging findings in this field. Success with mollison designers woven fence hedge live barrier depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
 
 ## Implementation Methods
 
@@ -110,10 +110,10 @@ This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
+Field observations and experimental data continue to inform [[arbuscular-mycorrhizal-inoculum-production-best-practices]].
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 Local adaptation and context-specific strategies remain essential for success.

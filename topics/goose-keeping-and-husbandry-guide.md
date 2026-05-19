@@ -1,5 +1,5 @@
 ---
-title: Goose Keeping and Husbandry Guide
+title: Goose Keeping And Husbandry Guide
 created: 2026-05-18
 updated: 2026-05-18
 type: topic
@@ -25,7 +25,7 @@ what grain-fed poultry requires.
 
 Domestic geese (Anser anser domesticus) descend from the greylag goose
 of Europe and Asia. Some breeds also carry ancestry from the swan goose
-(Anser cygnoides) of East Asia. Humans have kept geese for thousands of
+(Anser cygnoides) of [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. Humans have kept geese for thousands of
 years, valued for their vigilance, their down, and their rich meat.
 
 ## Botanical and Biological Overview
@@ -66,14 +66,14 @@ farmers paid rent to landowners with fat autumn geese. Charles Dickens
 immortalized this practice in "A Christmas Carol," cementing the goose
 as a symbol of holiday feasting.
 
-Native American peoples hunted wild geese extensively, and several
+[[halpern-sacramental-peyote-and-native-american-church]] peoples hunted wild geese extensively, and several
 tribes managed wetland habitats to attract migrating flocks. The
 domestic goose arrived in the Americas with European colonists.
 
 ## Breeds and Selection
 
 Choosing the right breed depends on your primary goal: meat, eggs,
-weed control, ornamental value, or a combination. The following table
+[[aact-weed-control-and-soil-testing]], ornamental value, or a combination. The following table
 summarizes the most common domestic breeds.
 
 | Breed | Mature Weight | Eggs/Year | Temperament | Best Use |
@@ -88,11 +88,11 @@ summarizes the most common domestic breeds.
 | Roman Tufted | 10–12 lbs | 25–35 | Small, active | Weeding, small farms |
 | Pomeranian | 12–16 lbs | 30–50 | Hardy, tufted | Dual purpose |
 
-For cold climates, Embden and Toulouse are the hardiest choices. For
+[[query-best-kiwifruit-varieties-for-cold-climates]], Embden and Toulouse are the hardiest choices. For
 small homesteads, the Pilgrim is ideal because chicks can be sexed by
 color at hatching — males are white, females are gray.
 
-For egg production, the Chinese goose is unmatched, laying up to 80
+For [[mollison-designers-chicken-tractors-egg-production]], the Chinese goose is unmatched, laying up to 80
 eggs per year. For purely ornamental purposes, the Sebastopol's curly
 feathers make it a living sculpture in the barnyard.
 

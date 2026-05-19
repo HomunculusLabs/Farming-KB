@@ -5,9 +5,9 @@ tags:
   - herbal-plant
   - adaptogen
   - ayurveda
-  - solanaceae
+  - [[solanaceae]]
   - withanolides
-  - ashwagandha
+  - [[ashwagandha]]
   - nootropic
   - anti-inflammatory
   - rasayana

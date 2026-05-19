@@ -5,7 +5,7 @@ related_topics:
   - "photoperiodism"
   - "short-day-and-long-day-plant-classification"
   - "porphyrin-chemistry-heme-chlorophyll-b12"
-  - "phytochrome ecological function dusk dawn [[phytochrome-red-far-red-light-switch]]"
+  - "phytochrome ecological function dusk dawn phytochrome-red-far-red-light-switch"
 tags: [phytochrome, photoreceptor, red-light, far-red-light, photoperiodism, flowering, shade-detection]
 ---
 

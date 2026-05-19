@@ -1,12 +1,12 @@
 ---
-title: [[fungicide-treated-seed-hazard-mushroom-substrate-preparation]] and Formulation
+title: Mushroom Substrate Preparation And Formulation
 created: 2026-05-19
 updated: 2026-05-19
 type: topic
 tags: [mycology, mushroom-cultivation, substrate, pasteurization, sterilization, supplementation]
 sources:
   - Growing Gourmet and Medicinal Mushrooms (Paul Stamets, 1993)
-  - The Mushroom Cultivator (Paul Stamets and Jeff Chilton)
+  - [[coprinus-atrementarius-entity-the-mushroom-cultivator]] (Paul Stamets and Jeff Chilton)
   - Mycelium Running (Paul Stamets, 2005)
   - Indoor Mushroom Growing Technique (D.H. Jarrold)
   - comparison-reishi-vs-oyster-mushroom-cultivation (MushWorld, 2004)
@@ -30,12 +30,12 @@ research from around the world.
 ## Substrate Categories and Material Types
 
 Mushroom substrates fall into three broad categories based on the organic matter
-they contain. Lignocellulosic substrates include hardwood sawdust, wood chips,
+they contain. Lignocellulosic substrates include [[hardwood-sawdust-substrate]], wood chips,
 straw, and agricultural residues. These support species that decompose cellulose
 and lignin — the primary and secondary decomposers.
 
 Composted substrates consist of manure and straw that have undergone a thermophilic
-composting process. Species like Agaricus bisporus (button mushroom) require this
+composting process. Species like [[agaricus-bisporus]] (button mushroom) require this
 partially broken-down material because they are secondary decomposers that cannot
 efficiently break down raw lignin.
 
@@ -83,7 +83,7 @@ in Africa and Southeast Asia, as a sustainable cultivation pathway.
 
 ## The Stamets Fruiting Formula
 
-Paul Stamets developed the standard supplemented sawdust formula that remains
+Paul Stamets developed the standard [[oyster-mushroom-supplemented-sawdust-blocks]] formula that remains
 the benchmark for indoor gourmet and medicinal mushroom production. The base
 formula combines 100 parts hardwood sawdust with 10 parts wheat bran by dry
 weight, plus gypsum at 1-2% of total dry weight.
@@ -105,7 +105,7 @@ It is valued for simplicity, contamination resistance, and consistent results.
 
 Coconut coir is processed from coconut husk fibers, typically sold in compressed
 650g bricks. It is naturally resistant to contamination due to tannins and other
-antimicrobial compounds. Coir holds 8-9 times its weight in water and has a
+[[antimicrobial-compounds-mushroom-mycelium]]. Coir holds 8-9 times its weight in water and has a
 near-neutral pH ideal for mushroom growth.
 
 Vermiculite is a heat-expanded mineral that absorbs and retains water while
@@ -128,6 +128,6 @@ gypsum. Larger gallon jars scale to 800 grams rye with 600 ml water and 4 grams
 gypsum. The gypsum prevents clumping and supplies calcium and sulfur.
 
 Grain that is too dry produces slow, wispy mycelial growth. Grain that is too
-wet promotes bacterial contamination and anaerobic conditions. After sterilization
+wet promotes bacterial contamination [[aact-ph-and-anaerobic-conditions]]. After sterilization
 at 15 psi for 60-90 minutes, the grain should be loose and individual kernels
 easily visible and separable.
