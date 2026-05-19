@@ -1,21 +1,10 @@
 ---
-title: "Coprinopsis atramentaria"
-type: species
-tags:
-  - fungi
-  - agaricales
-  - coprinoid
-  - inky-cap
-  - coprine
-  - mycology
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Ulrich, B. (2014). "Morphological and molecular phylogenetic data support the recognition of Coprinopsis atramentaria." Mycotaxon 129(2): 341-354.
-  - Kühner, R. (1936). "Le genre Coprinus." Encyclopédie Mycologique 7: 1-280.
-  - Redhead, S.A., Vilgalys, R., Moncalvo, J.M., Johnson, J., Hopple, J.S. (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
-  - Lincoff, G.H. (1981). "National Audubon Society [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] and its closest relatives.
+title: "Coprinopsis Atramentaria"
+type: entity
+tags: []
+sources: []
 ---
+
 
 **Synonyms:**
 
@@ -60,7 +49,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish coprinopsis atramentaria
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -74,7 +63,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Coprinopsis Atramentaria finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Identify and Control Pythium Root Rot?
+## How Do I Identify and Control Pythium Root Rot?
 
 ## Short Answer
 

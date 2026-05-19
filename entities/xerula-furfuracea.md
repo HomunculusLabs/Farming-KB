@@ -1,19 +1,10 @@
 ---
-title: "Xerula furfuracea"
-type: species
-tags:
-  - fungi
-  - agaricales
-  - saprotrophic
-  - root-associated
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Pegler, D.N. (1983). "The genus Xerula." Kew Bulletin, 38(3), 423-440.
-  - Redhead, S.A. et al. (1987). "Xerula and related genera." Mycotaxon, 28, 501-519.
-  - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
-  - Arnolds, E. (2005). "The conservation of Xerula species in Europe." Czech [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of [[guzman-psilocybin-mushrooms-north-america]], it occurs from eastern Canada to the southeastern [[dmt-containing-plants-united-states-halpern]], with scattered reports from the Pacific Northwest.
+title: "Xerula Furfuracea"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species fruits from late spring through autumn, typically appearing after sustained rainfall.
 
@@ -47,7 +38,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish xerula furfuracea
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -61,7 +52,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Xerula Furfuracea finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

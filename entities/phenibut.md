@@ -1,24 +1,10 @@
 ---
 title: "Phenibut"
-type: chemical
-tags:
-  - chemical
-  - nootropic
-  - anxiolytic
-  - gabaergic
-  - pharmaceutical
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Lapin I. (2001). "Phenibut (beta-phenyl-GABA): a transporter of phenyl group in the brain and pharmacological aspects of its use." Bulletin of Experimental Biology and Medicine.
-  - Malykh A.G., Sadaie M.R. (2010). "No drugs, no diet, no exercise — what else can protect the aging brain?" Journal of Alzheimer's Disease, 20(1), 25-28.
-  - Samokhvalov A.V. et al. (2013). "Phenibut abuse in the [[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]] — a structural limitation of GABA
-itself. The phenyl group provides lipophilicity, enabling central nervous
-[[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]], phenibut is a prescribed medication
-for anxiety, insomnia, and post-traumatic stress disorder. In the West, it
-exists in a regulatory gray area as an unapproved dietary supplement sold
-through online vendors.
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Chemical Identity
 
@@ -49,7 +35,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish phenibut
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -63,7 +49,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phenibut finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

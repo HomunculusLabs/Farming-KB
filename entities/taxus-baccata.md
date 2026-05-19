@@ -1,13 +1,10 @@
 ---
-title: "Taxus baccata"
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - conifer
-  - toxic
-  - [[cervantes-root-pruning-rootbound-management]]
+title: "Taxus Baccata"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Growth is exceptionally slow: 20–30 cm/year in youth, declining with age.
 
@@ -18,7 +15,7 @@ Growth is exceptionally slow: 20–30 cm/year in youth, declining with age.
 - **Naturalized:** Great Britain (possibly native), parts of northern India,
   New Zealand, and temperate [[ephedrine]]:** Present in small quantities in some populations
 - **Taxol (paclitaxel, C₄₇H₅₁NO₁₄):** Diterpenoid in bark and needles; inhibits
-  microtubule depolymerization, arresting cell division
+  microtubule [[depolymerization]], arresting cell division
 
 ⚠️ **Lethality:** Ingestion of 50–100 g of needles is fatal to adult humans.
 Children and livestock are especially susceptible. The red aril is edible

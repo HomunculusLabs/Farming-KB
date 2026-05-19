@@ -1,21 +1,10 @@
 ---
-title: "Encephalartos altensteinii"
-type: species
-tags:
-  - cycad
-  - zamiaceae
-  - ornamental
-  - south-africa
-  - endangered
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Giddy, C. (1974). "Cycads of South Africa." Struik Publishers, Cape Town.
-  - Jones, D.L. (1993). "Cycads of the World." Reed Books, Chatswood.
-  - Dyer, R.A. (1965). "The Cycads of Southern Africa." Bothalia, 9(1), 1-45.
-  - IUCN Red List (2020). "Encephalartos altensteinii." IUCN Red List of Threatened Species.
-  - Grobbelaar, N. et al. (1986). "Pollination biology of Encephalartos." [[cannabis-leaf-morphology-and-phyllotaxy]]. Careful examination of cone scale morphology and leaflet characteristics is required for accurate [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]], the species often develops a more robust and compact crown compared to [[query-how-to-read-cannabis-plants-for-nutrient-problems]] and water availability in garden conditions.
+title: "Encephalartos Altensteinii"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Leaves are pinnate, 1.5 to 3 meters long, with 120 to 200 leaflets arranged in a V-shaped orientation. Leaflets are lanceolate, 15 to 25 cm long and 2 to 4 cm wide, with serrated margins near the tip and a glossy dark green color.
 
@@ -63,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish encephalartos altensteinii
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -77,7 +66,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Encephalartos Altensteinii finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

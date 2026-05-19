@@ -1,13 +1,8 @@
 ---
-title: THC Heart Protective Mechanisms, Myocardial Protection, CB1, and Nitric Oxide (Blesching 2015)
-source: raw/papers/uwe-blesching-the-cannabis-health-index.md
-author: Uwe Blesching (2015)
-topic: cardiology, [[blesching-cannabis-health-index-autoimmune-conditions]]*, Blesching highlights an emerging body of
-evidence that tetrahydrocannabinol (THC) may protect the heart from damage and
-mitigate injury from myocardial infarction (heart attack). Multiple distinct
-mechanisms have been identified through preclinical research, suggesting that
-cannabinoid-based cardiac protection operates through several complementary
-pathways rather than a single mechanism.
+title: "Thc Heart Protective Mechanisms Myocardial Protection Cb1 Nitric Oxide Blesching 2015"
+type: concept
+tags: []
+sources: []
 ---
 
 ## Mechanism 1: Reduction of Heart Attack Size
@@ -79,13 +74,13 @@ Several caveats apply to the current evidence base:
 
 ## References
 
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books,
+- Blesching, U. (2015). *The [[cannabis-health-index]]*. North Atlantic Books,
   Chapter I.
 - Mechoulam, R. and Gaoni, Y. (1964). Hashish — the active principle of
-  Cannabis sativa. Science, 143, 1340-1342.
+  [[cannabis-sativa]]. Science, 143, 1340-1342.
 - Wagner, J.A. et al. (2003). Activation of cannabinoid CB1 receptors
   protects against myocardial ischemia. Eur. J. Pharmacol., 477, 131-132.
-- Pacher, P. et al. (2005). The endocannabinoid system as an emerging target
+- Pacher, P. et al. (2005). The [[endocannabinoid-system]] as an emerging target
   of pharmacotherapy. Pharmacol. Rev., 57, 389-462.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
@@ -120,3 +115,9 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+Understanding these interconnected mechanisms provides a foundation for both research applications and practical implementation in relevant systems and contexts.
+
+This synthesis highlights the importance of cross-disciplinary
+approaches to understanding complex biological phenomena.
+

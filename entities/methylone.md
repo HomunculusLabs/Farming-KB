@@ -1,30 +1,10 @@
 ---
 title: "Methylone"
-type: chemical
-aliases:
-  - βk-[[mdma]]
-  - 3,4-Methylenedioxymethcathinone
-  - MDMC
-  - 3,4-Methylenedioxy-N-methylcathinone
-tags:
-  - chemical
-  - cathinone
-  - empathogen
-  - stimulant
-  - entactogen
-  - serotonergic
-  - research-chemical
-  - designer-drug
-  - controlled-substance
-  - monoamine-releaser
-  - phenethylamine
-  - neurotoxicity
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - López-Arnau, R. et al. (2012). "3,4-Methylenedioxymethcathinone (Methylone): Pharmacology." Current Neuropharmacology 10(3): 279–285.
-  - Baumann, M.H. et al. (2012). "Methylone and [[serotonin]] transporter affinity.
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Pharmacology
 
@@ -50,7 +30,7 @@ Common reported effects include euphoria, increased talkativeness, enhanced musi
 
 ## Metabolism
 
-Methylone undergoes N-demethylation to form methcathinone, N-demethylation combined with O-demethylenation to form cathinone, and reduction of the ketone to form the corresponding alcohol (corresponding to MDMA metabolites). [[dmt-containing-plants-united-states-halpern]]:** Emergency scheduled in 2011, permanently placed in Schedule I in 2021 under the cathinone class.
+Methylone undergoes N-demethylation to form [[methcathinone]], N-demethylation combined with O-demethylenation to form cathinone, and reduction of the ketone to form the corresponding alcohol (corresponding to MDMA metabolites). [[dmt-containing-plants-united-states-halpern]]:** Emergency scheduled in 2011, permanently placed in Schedule I in 2021 under the cathinone class.
 - **[[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]]:** Controlled across all member states, with most scheduling actions occurring 2010–2013.
 - **United Kingdom:** Class B under the Misuse of Drugs Act (controlled as a cathinone).
 - **China:** Scheduled as a narcotic drug since 2015.
@@ -67,7 +47,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish methylone
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

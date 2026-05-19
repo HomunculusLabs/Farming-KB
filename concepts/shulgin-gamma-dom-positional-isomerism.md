@@ -1,7 +1,8 @@
 ---
-title: Gamma-[[dom]] (Z-7) - Positional Isomerism in Psychedelic Amphetamines
-source: shulgin-a-pihkal.md
-author: [[2c-b-pihkal-entry-20]] #69, gamma-DOM provides a critical data point in understanding structure-activity relationships within the DO series.
+title: "Shulgin Gamma Dom Positional Isomerism"
+type: concept
+tags: []
+sources: []
 ---
 
 ## Chemical Identity
@@ -82,7 +83,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish shulgin gamma dom positional isomerism
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -146,5 +147,4 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
+

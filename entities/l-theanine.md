@@ -1,32 +1,10 @@
 ---
-title: "L-Theanine"
-created: 2026-04-28
-type: chemical
-tags:
-  - l-theanine
-  - amino-acid
-  - nootropic
-  - anxiolytic
-  - tea-constituent
-  - gaba-modulator
-  - alpha-wave
-  - adaptogen
-  - cognitive-enhancer
-  - psychedelic-adjacent
-  - relaxation
-  - green-tea
-  - camellia-sinensis
-  - glutamate
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Kakuda T (2002). "Neuroprotective effects of the green tea components theanine and catechins." Reviews in Amino Acids, 22(3), 155-161.
-  - Hidese S et al. (2019). "Effects of L-theanine administration on stress-related symptoms and cognitive functions in healthy adults: a randomized controlled trial." Nutrients, 11(10), 2362.
-  - Kimura K et al. (2007). "L-Theanine reduces psychological and physiological [[camellia-sinensis]]*), where it constitutes 1–2% of dry leaf
-weight. First identified in green tea in 1949, it is responsible for the characteristic
-"umami" flavor of high-quality tea and for the calming, focused alertness that
-distinguishes tea stimulation from coffee.
+title: "L Theanine"
+type: entity
+tags: []
+sources: []
 ---
+
 
 L-theanine has become one of the most widely used nootropic compounds worldwide, marketed
 for anxiety reduction, improved focus, and sleep quality. Its mechanism involves modulation
@@ -72,7 +50,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish l theanine
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

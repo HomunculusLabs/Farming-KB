@@ -1,9 +1,10 @@
 ---
-title: Power Soil Dna Isolation 16S Microbiome
-slug: "power-soil-dna-isolation-16s-microbiome"
-tags: [microbiome, dna-extraction, 16s-rrna, illumina, sequencing-methodology, cannabis]
-source: [[16s-rrna-sequencing-microbiome-analysis-cannabis]] study employed a standardized molecular workflow combining MO BIO PowerSoil DNA isolation with Illumina MiSeq 16S rRNA V4 amplicon sequencing following the Earth Microbiome Project (EMP) protocols. This pipeline enabled the first comprehensive characterization of [[humic-acids-soil-biology-ingham]], polyphenols, and other PCR-inhibiting compounds common in soil and root samples.
+title: "Power Soil Dna Isolation 16S Microbiome"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ### Critical Modification
 
@@ -11,7 +12,7 @@ The study introduced one important deviation from the standard PowerSoil protoco
 
 ### Sample Preparation Considerations
 
-- Root samples were rinsed with alcohol and sterile water before extraction to remove adhering rhizosphere soil, ensuring that endorhiza samples reflected true endophytic communities rather than rhizosphere contamination
+- Root samples were rinsed with alcohol and sterile water before extraction to remove adhering [[rhizosphere]] soil, ensuring that endorhiza samples reflected true endophytic communities rather than rhizosphere contamination
 - Triplicate extractions were performed for each sample type per plant
 - All samples were kept at 4°C during transit (~4 hours) from field to lab
 

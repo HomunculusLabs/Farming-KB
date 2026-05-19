@@ -1,30 +1,10 @@
 ---
-title: "Schisandra sphenanthera"
-type: species
-tags:
-  - schisandraceae
-  - medicinal-plant
-  - adaptogen
-  - tcm
-  - traditional-chinese-medicine
-  - lignan
-  - hepatoprotective
-  - antioxidant
-  - woody-vine
-  - asia-native
-  - climbing-plant
-  - schisandrin
-  - berries
-  - anti-inflammatory
-  - immunomodulatory
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. I.
-  - Panossian, A. & Wikman, G. (2008). "Pharmacology of Schisandra chinensis Bail.: An Overview of Russian Research and Uses in Medicine." J. Ethnopharmacol., 118(2), 183–212.
-  - Huang, W.H. et al. (2007). "Schisandrin B from Schisandra chinensis Protects Heart from Ischemia-Reperfusion Injury." Cell Mol. Life Sci., 64(4), 408–421.
-  - Li, X.N. et al. (2012). "[[schisandra-chinensis]] (northern five-flavor berry). It is native to central and southwestern China and its dried ripe fruits are a major commercial medicinal material in traditional Chinese medicine (TCM), listed in the Chinese Pharmacopoeia under the name "Nan Wu-wei-zi" (Southern five-flavor fruit).
+title: "Schisandra Sphenanthera"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The fruit of *S. sphenanthera* contains a distinct lignan profile that differs from *S. chinensis*, with schisandrin A (schisandrol A) as the primary bioactive marker compound rather than schisandrin B. Despite this distinction, the two species have historically been used interchangeably in some TCM formulations, though modern pharmacopoeias treat them as separate drugs.
 
@@ -84,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish schisandra sphenanthera
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

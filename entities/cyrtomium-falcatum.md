@@ -1,20 +1,10 @@
 ---
-title: "Cyrtomium falcatum"
-type: species
-tags:
-  - fern
-  - pteridophyta
-  - dryopteridaceae
-  - ornamental
-  - evergreen
-  - shade-garden
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Kramer, K.U. (1990). "Cyrtomium." In: Kubitzki, K. (ed.), The Families and Genera of Vascular Plants, Vol. 1. Springer.
-  - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). "Cyrtomium." Flora [[dmt-containing-plants-united-states-halpern]] and Hawaii, the fern has escaped cultivation and established naturalized populations. It is considered potentially invasive in some Pacific island ecosystems.
+title: "Cyrtomium Falcatum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The genus Cyrtomium contains approximately 15–20 species distributed across eastern and southeastern Asia. C. falcatum is by far the most widely cultivated member of the genus.
 
@@ -52,7 +42,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish cyrtomium falcatum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -66,7 +56,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cyrtomium Falcatum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

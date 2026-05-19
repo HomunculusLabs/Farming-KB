@@ -1,27 +1,15 @@
 ---
-title: Flocculation and Natural Subsoil Loosening - Solomon
-source: Gardening When It Counts - Steve Solomon (2005)
-source_path: ~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
-topics: soil science, flocculation, subsoil, clay, [[cervantes-organic-mineral-amendments]]. The implications are
-significant: a gardener who digs only the top foot of soil and maintains it
-well with [[coleman-british-adoption-of-french-intensive-gardening]] orthodoxy that raised
-beds must be double-dug to 24 inches (60 centimeters). He argues that digging
-12 inches deep is plenty, and that loosening the second foot produces little
-additional benefit in exchange for a heap of effort. His reasoning rests
-partly on the flocculation principle: over time, the second foot will become
-looser without any extra effort on the gardeners part through two natural
-mechanisms working in concert with proper [[cervantes-organic-amendments-chart]] will support minimal worm populations. A well-
-maintained garden bed with regular compost or organic matter applications will
-support dense populations that process the organic material and distribute it
-throughout the topsoil and into the upper subsoil. The worm burrows themselves
-serve as macropores that improve both water infiltration and root penetration,
-compounding the benefits of the flocculation process.
+title: "Flocculation And Natural Subsoil Loosening Solomon"
+type: concept
+tags: []
+sources: []
 ---
+
 ## The Plow Pan Problem
 
 Understanding flocculation is essential for grasping why plow pans are so
-damaging and why they persist for decades. A plow pan is a compacted layer
-created by the repeated action of a moldboard plow or rototiller at a
+damaging and why they persist for decades. A [[plow-pan]] is a compacted layer
+created by the repeated action of a moldboard plow or [[rototiller]] at a
 consistent depth, typically 6-8 inches. The plows bottom slides across the
 unplowed soil at this depth, pressing it down with great weight every single
 time the field is turned over. Over years or decades, this creates a hard
@@ -88,7 +76,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish flocculation and natural subsoil loosening solomon
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -102,7 +90,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Flocculation And Natural Subsoil Loosening Solomon finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

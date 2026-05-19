@@ -1,16 +1,10 @@
 ---
-title: Four Hydroxyindole Psilocin Synthesis Route Shirota
-source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
-topic: tryptamine_chemistry
-related:
-  - [[acetyl-protection-route-psilocin-psilocybin-synthesis]].md
-  - [[psilocybin]] that achieves gram-scale production without chromatographic
-purification. The synthesis begins from commercially available
-4-hydroxyindole and proceeds through a four-step sequence for psilocin
-followed by a phosphorylation step for psilocybin. The choice of
-4-hydroxyindole as starting material and acetylation as the protection
-strategy distinguish this route from earlier approaches.
+title: "Four Hydroxyindole Psilocin Synthesis Route Shirota"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Why 4-Hydroxyindole
 
@@ -56,7 +50,7 @@ C-4 signal at δ 143.6, confirming successful protection.
 ## Oxalylation: Formation of the Glyoxalylamide
 
 The second step converts 4-acetylindole to the glyoxalyl chloride
-intermediate (5) by treatment with oxalyl chloride in diethyl ether
+intermediate (5) by treatment with oxalyl chloride in [[diethyl-ether]]
 at 0°C, followed by addition of n-hexane and storage overnight at
 -20°C. The resulting yellow crystals are filtered and dissolved in
 tetrahydrofuran.

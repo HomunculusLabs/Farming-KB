@@ -1,18 +1,10 @@
 ---
-title: "Elymus hystrix"
-type: species
-tags:
-  - poaceae
-  - native-grass
-  - woodland-grass
-  - shade-tolerant
-  - north-american-native
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Barkworth, M.E. et al. (2007). "Flora huckleberries-and-wild-berries-of-north-america Vol. 24: Poaceae." Oxford University Press.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[polypore-fungi-eastern-north-america]], ranging from Ontario and Quebec south through the Appalachian Mountains to northern Georgia and Alabama.
+title: "Elymus Hystrix"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is named for its distinctive inflorescence, which resembles a bottlebrush or bristly caterpillar with long, straight awns extending outward from a dense spike.
 
@@ -70,7 +62,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish elymus hystrix
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -84,7 +76,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Elymus Hystrix finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

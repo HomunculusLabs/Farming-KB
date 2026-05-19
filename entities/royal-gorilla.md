@@ -1,25 +1,10 @@
 ---
 title: "Royal Gorilla"
-created: 2026-04-28
-type: strain
-tags:
-  - cannabis
-  - hybrid-strain
-  - sour-diesel-lineage
-  - chemdawg-lineage
-  - award-winner
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Snoop Dogg's Leafs by Snoop (2016). \"Royal Gorilla\" cultivar release."
-  - "Mudge, E. et al. (2019). \"Cannabinoid and terpene profiling of commercial [[cervantes-cannabis-flower-anatomy]] Cup (2016-2017). Official results."
-  - "PubMed. (2018). \"Cannabidiol and THC interactions: a review.\" Pharmacology & Therapeutics, 186, 62-77."
-  - "Black, D. et al. (2021). \"cannabis-terpene-profiles-sativa in [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
-Chem's Sister (a phenotype of Chemdawg) with Sour Dubb and Chocolate Diesel.
-Originally bred by the Spanish seed bank Symbiotic Genetics, it gained
-international fame after Snoop Dogg selected it for his Leafs by Snoop product
-line in 2016. It won first place at the 2016 European Cannabis Flower Cup.
+type: entity
+tags: []
+sources: []
 ---
+
 
 The strain is notable for its exceptionally high THC content (often exceeding
 25%) combined with meaningful CBD levels (1–3%), making it one of the few
@@ -73,7 +58,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish royal gorilla
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -87,7 +72,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Royal Gorilla finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

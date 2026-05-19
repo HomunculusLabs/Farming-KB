@@ -1,8 +1,10 @@
 ---
-title: Pf [[pf-tek-perlite-humidification-technique]] [[accessible-mushroom-cultivation-for-disabilities]]
-source: PF TEK - [[passive-humidity-fruit-chamber-polyethylene-sheeting]] management technique central to
-the [[dual-chambered-terrarium]].
+title: "Pf Tek Perlite Humidification Mushroom Cultivation"
+type: concept
+tags: []
+sources: []
 ---
+
 
 When properly prepared in the terrarium base, wet perlite maintains 90%+ relative
 humidity through continuous surface evaporation. This eliminates the need for
@@ -23,7 +25,7 @@ Perlite is inexpensive, widely available at [[mushroom-crop-management-flush-har
 
 ## The "Less is More" Approach
 
-Perlite humidification exemplifies the PF TEK philosophy of minimal
+[[perlite-humidification]] exemplifies the [[pf-tek]] philosophy of minimal
 intervention. [[pf-tek-psilocybe-fanaticus]] advocated for simpler solutions over complex
 technical systems:
 
@@ -55,7 +57,7 @@ Several errors reduce perlite effectiveness:
 - **Too dry** — insufficient soaking leads to poor humidity output
 - **Too wet** — standing water promotes bacterial contamination
 - **Insufficient depth** — too thin a layer cannot sustain humidity
-- **Contaminated** — reusing old perlite without sterilization
+- **Contaminated** — reusing old perlite without [[sterilization]]
 
 A layer of approximately 1-2 inches of properly prepared perlite in the
 terrarium base is typically sufficient for the PF TEK.
@@ -81,7 +83,7 @@ of the enclosed air.
 Heat lamps and heating mats are explicitly discouraged in the PF TEK:
 ## Research Context
 
-Research on pf tek perlite humidification mushroom cultivation continues to evolve with new findings emerging from
+Research on pf tek perlite humidification [[mushroom-cultivation]] continues to evolve with new findings emerging from
 both laboratory studies and field observations. Current investigations focus on
 optimizing parameters, understanding underlying mechanisms, and documenting
 outcomes across diverse conditions and geographic regions. Published literature

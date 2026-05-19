@@ -1,20 +1,10 @@
 ---
-title: "Lychnis chalcedonica"
-type: species
-tags:
-  - caryophyllaceae
-  - ornamental
-  - perennial
-  - pollinator-plant
-  - russian-native
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Royal Botanic Gardens Kew. "Lychnis chalcedonica." Plants of the World Online. https://powo.science.kew.org/
-  - Liberty Hyde Bailey. (1976). Hortus Third. Macmillan Publishing.
-  - Brickell C., et al. (2016). RHS A-Z Encyclopedia of Garden Plants. DK Publishing.
-  - Morton J.K. (2005). "Caryophyllaceae." In: Flora [[gaias-garden-perennial-food-plants]].
+title: "Lychnis Chalcedonica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Maltese cross is valued for its bold vertical accent in perennial borders and cottage gardens. The species blooms prolifically from early to midsummer, with occasional reblooming if spent flowers are removed.
 
@@ -80,7 +70,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish lychnis chalcedonica
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

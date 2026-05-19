@@ -1,17 +1,10 @@
 ---
-title: "Trapa natans"
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - aquatic-plant
-  - [[nematode-management]].\" Hydrobiologia, 285(1-3), 1-8."
-  - "Pandey, R. et al. (2018). \"Nutritional and health benefits of Trapa natans.\" Journal of Food Science and Technology, 55(8), 2843-2853."
-  - "Singh, R. & Singh, J. (2013). \"Phytochemistry and pharmacology of [[cervantes-selfing-single-seed-descent]] per fruit
-- **Seeds:** 1–2 cm diameter; starchy white kernel inside hard shell
-- **[[psilocybe-southeast-asia-pacific]]. Invasive in northeastern [[psilocybin-north-america-pacific-northwest]],
-parts of Australia and Africa.
+title: "Trapa Natans"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Habitat: still or slow freshwater (ponds, lakes, backwaters, rice
 paddies), 0.5–3 m depth, nutrient-rich substrate, water temperature
@@ -37,7 +30,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish trapa natans
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -51,7 +44,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Trapa Natans finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

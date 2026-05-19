@@ -1,12 +1,10 @@
 ---
-title: Lycoperdonosis and Unusual Human-Fungal Respiratory Interactions
-created: 2026-05-10
-updated: 2026-05-10
+title: "Bloomfield Lycoperdonosis And Fungal Respiratory Health"
 type: concept
-tags:
-  - [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that a spritz up the nostrils delivers
-millions of the spiny cells directly into the lungs.
+tags: []
+sources: []
 ---
+
 
 Within a few days of exposure, the Wisconsin teens developed breathing
 difficulties, high fevers, and myalgia, or muscle pain. Biopsies taken
@@ -75,7 +73,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish bloomfield lycoperdonosis and fungal respiratory health
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -89,7 +87,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Bloomfield Lycoperdonosis And Fungal Respiratory Health finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

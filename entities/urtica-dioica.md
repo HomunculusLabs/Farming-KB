@@ -1,21 +1,10 @@
 ---
-title: "Urtica dioica"
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - plant
-  - herbal
-  - medicinal
-  - permaculture
-  - nutrition
-  - fiber
-sources:
-  - Greaves, N. (1995). "comparison-stinging-nettle-vs-horsetail." In: The Encyclopedia of Medicinal Plants. Dorling Kindersley.
-  - Roschek, B. et al. (2009). "Nettle extract (Urtica dioica) affects key receptors and enzymes associated with allergic rhinitis." Phytotherapy Research.
-  - Wagner, H. et al. (1995). "Search for the antiprostatic principle of Urtica dioica roots." Phytomedicine.
-  - Kavalali, G. (2003). "Urtica dioica ([[psilocybin-north-america-pacific-northwest]], and is widely naturalized across [[nutrient-dynamic-accumulator-reference]], its value as a companion plant, and its utility in producing nutrient-rich liquid fertilizers from biomass.
+title: "Urtica Dioica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -38,15 +27,15 @@ The species thrives in nitrogen-rich soils and is an indicator of fertile ground
 - Disturbed sites, floodplains, and riparian zones
 - Forest edges, clearings, and abandoned farmland
 - Waste grounds, roadsides, and urban ruderal areas
-- Areas with high soil nitrogen from animal waste or decomposition
+- Areas with high soil nitrogen from animal waste or [[decomposition]]
 
-Nettle spreads aggressively through rhizomatous root systems that can extend 2+ meters horizontally. This rhizomatous growth makes it both a valuable ground cover in permaculture systems and an aggressive weed in conventional agriculture. It tolerates a wide pH range (5.0–8.0) but prefers slightly acidic to neutral soils.
+Nettle spreads aggressively through rhizomatous root systems that can extend 2+ meters horizontally. This rhizomatous growth makes it both a valuable ground cover in [[permaculture]] systems and an aggressive weed in conventional agriculture. It tolerates a wide pH range (5.0–8.0) but prefers slightly acidic to neutral soils.
 
 ## Bioactive Compounds and Pharmacology
 
 U. dioica contains a diverse array of bioactive phytochemicals:
 
-- **Flavonoids**: Quercetin, kaempferol, and rutin glycosides with anti-inflammatory and antioxidant activity.
+- **Flavonoids**: Quercetin, [[kaempferol]], and rutin glycosides with anti-inflammatory and antioxidant activity.
 - **Phenolic acids**: Caffeic acid, chlorogenic acid, and ferulic acid contribute to antioxidant capacity.
 - **Lignans**: Secoisolariciresinol and neoolivil, particularly concentrated in roots, with documented 5α-reductase inhibitory activity relevant to benign prostatic hyperplasia.
 - **Lectins (UDA)**: Urtica dioica agglutinin, a small lectin with immunomodulatory and antiviral properties.
@@ -93,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Urtica Dioica finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

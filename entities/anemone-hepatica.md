@@ -1,18 +1,10 @@
 ---
-title: "Anemone hepatica"
-type: species
-tags:
-  - ranunculaceae
-  - anemone
-  - spring-flowering
-  - woodland-plant
-  - ornamental
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Tutin, T.G. (1993). "Hepatica." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - RHS (2023). "[[polypore-fungi-eastern-north-america]]. It typically grows 5–15 cm tall and forms slowly spreading clumps over many years.
+title: "Anemone Hepatica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The common name "liverleaf" refers to the three-lobed leaves, which resemble the shape of a human liver. In the medieval Doctrine of Signatures, this resemblance suggested the plant could treat liver ailments.
 
@@ -87,7 +79,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish anemone hepatica
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

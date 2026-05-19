@@ -1,31 +1,10 @@
 ---
-title: "Trichaptum biforme"
-type: species
-tags:
-  - fungi
-  - polyporales
-  - polypores
-  - wood-decay
-  - saprotrophic
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Gilbertson RL, Ryvarden L. "growing-gourmet-north-american-reishi-species Polypores, Vol. 1."
-    Fungiflora, Oslo, 1986.
-  - Ryvarden L, Gilbertson RL. "[[palmer-mushroom-hunting-field-identification]] feature
-- **Context:** Thin (0.5–1 mm), tough and corky; white to pale
-  cream; distinctly duplex with a darker upper layer
-- **Spores:** Cylindrical to allantoid (sausage-shaped), 5–7 × 1.5–2
-  μm, hyaline, smooth, inamyloid; [[psilocybe-semilanceata]] in temperate
-and subtropical regions. It is found across Europe, North America, Asia,
-Africa, and Australasia. The species fruits year-round in mild climates
-and from spring through autumn in temperate zones. It grows almost
-exclusively on dead hardwood, particularly on fallen branches and small
-diameter logs of oak, maple, beech, birch, alder, and willow. It is
-rarely found on large standing trunks, preferring the thinner branches
-that decompose more rapidly. The fungus often forms extensive,
-overlapping fruiting structures along the length of fallen branches.
+title: "Trichaptum Biforme"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Ecological Role
 
@@ -45,7 +24,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish trichaptum biforme
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -59,7 +38,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Trichaptum Biforme finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

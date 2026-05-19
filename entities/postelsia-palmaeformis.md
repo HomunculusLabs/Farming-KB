@@ -1,21 +1,10 @@
 ---
-title: "Postelsia palmaeformis"
-type: species
-tags:
-  - seaweed
-  - phaeophyceae
-  - kelp
-  - marine-algae
-  - edible
-  - brown-algae
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Abbott, I.A. & Hollenberg, G.J. (1976). "Marine Algae of California." Stanford University Press.
-  - Blanchette, C.A. et al. (2002). "Long-term persistence of Postelsia." Ecology, 83, 3343-3352.
-  - Dayton, P.K. (1973). "Dispersion, dispersal, and persistence of Postelsia." Ecological Monographs, 43, 417-439.
-  - Foreman, R.E. (1977). "Benthic community modification and recovery following experimental removal of Postelsia." Journal of Experimental Marine [[psilocybin-north-america-pacific-northwest]], resembling a miniature palm tree with its thick, flexible stipe and frond-like blades.
+title: "Postelsia Palmaeformis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is restricted to the most wave-exposed rocky intertidal zones from central California to British Columbia. Its peculiar morphology and ecological specialization have made it a classic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] within a single year. Populations are maintained by a balance between local spore recruitment and disturbance-driven colonization of newly available space in mussel beds.
 
@@ -63,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish postelsia palmaeformis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -77,7 +66,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Postelsia Palmaeformis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

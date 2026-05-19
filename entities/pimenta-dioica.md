@@ -1,27 +1,10 @@
 ---
-title: "Pimenta dioica"
-type: species
-tags:
-  - myrtaceae
-  - spice
-  - tropical-tree
-  - essential-oil
-  - permaculture
-  - ethnobotany
-  - culinary
-  - caribbean
-created: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Ravindran, P.N., et al. (2004). "Chemistry and technology of Pimenta." In: Spices. CRC Press, pp. 427–452.
-  - Leung, A.Y., Foster, S. (1996). Encyclopedia of Common Natural Ingredients Used in Food, Drugs, and Cosmetics. 2nd ed. Wiley.
-  - Marquez, L., et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Pimenta dioica from Jamaica." Journal of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], it is
-cultivated for its dried unripe berries, which possess a unique flavor profile
-combining the aromas of cinnamon, nutmeg, clove, and [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]. The specific epithet "dioica" refers to the species'
-functionally dioecious reproductive system, though the [[strain-isolation-from-wild-specimens]] occasionally reaching 18 meters. The
-trunk is short and often twisted, with bark that is smooth and grey when
-young, becoming rough and fissured with age.
+title: "Pimenta Dioica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Leaves are opposite, simple, elliptic to oblong, 8–15 cm long and 3–6 cm
 wide, leathery, glossy dark green above and paler below. When crushed, the
@@ -72,7 +55,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pimenta dioica
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -86,7 +69,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pimenta Dioica finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,20 +1,10 @@
 ---
-title: 4-AcO-MET
-created: 2026-04-28
-type: chemical
-tags:
-  - 4-aco-met
-  - 4-acetoxy-met
-  - metocin
-  - [[alexander-shulgin]] and documented in TiHKAL
-(Tryptamines I Have Known and Loved), it is structurally an acetylated derivative
-of 4-HO-MET, functioning as a prodrug that deacetylates to 4-HO-MET in vivo.
-4-AcO-MET is widely regarded as one of the most visually rich short-acting
-psychedelics, producing vivid color enhancement, geometric patterning, and
-entactogenic warmth at common doses while maintaining a manageable headspace
-compared to psilocin or LSD. It is not controlled in most jurisdictions and
-circulates primarily through online research chemical markets.
+title: "4 Aco Met"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Chemical Identity
 
@@ -74,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish 4 aco met
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -88,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 4 Aco Met finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

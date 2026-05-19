@@ -1,17 +1,10 @@
 ---
-title: "Calocybe gambosa"
-created: 2026-04-28
-type: species
-tags: [species, fungi, edible, agaricales, tricholomataceae, [[palmer-edible-mushrooms-north-america]] of the spring
-foraging season. Found across Europe, North Africa, and western Asia,
-C. gambosa grows in grasslands, meadows, and pastures, often in fairy
-rings or arcs. It is considered one of the finest wild edible mushrooms
-in European cuisine, with a firm texture and a mild, flour-like aroma
-that distinguishes it from potentially dangerous lookalikes. The species
-is also relevant to permaculture systems as an indicator of healthy,
-undisturbed [[rolf-singer]]
-in 1938 based on [[comparison-spore-print-collection-vs-spore-syringe-production]] | White to pale cream |
+title: "Calocybe Gambosa"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ### Microscopic Features
 
@@ -57,7 +50,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish calocybe gambosa
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -71,7 +64,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Calocybe Gambosa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

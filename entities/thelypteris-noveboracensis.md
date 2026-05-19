@@ -1,19 +1,8 @@
 ---
-title: "Thelypteris noveboracensis"
-type: species
-tags:
-  - fern
-  - thelypteridaceae
-  - woodland
-  - eastern-north-america
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Flora [[huckleberries-and-wild-berries-of-north-america]] Editorial Committee (1993). "Thelypteris." Flora of [[guzman-psilocybin-mushrooms-north-america]], Vol. 2.
-  - Smith A.R. (1993). "Thelypteridaceae." Flora huckleberries-and-wild-berries-of-north-america, Vol. 2, pp. 152–166.
-  - Wagner W.H. Jr. & Beitel J.M. (1993). "Thelypteris." Michigan Flora Online.
-  - USDA NRCS (2024). "Thelypteris noveboracensis Plant Profile." plants.usda.gov.
-  - Hoshizaki B.J. & Moran R.C. (2001). "Fern Grower's Manual." Timber Press.---
+title: "Thelypteris Noveboracensis"
+type: entity
+tags: []
+sources: []
 ---
 
 ## Overview
@@ -79,10 +68,16 @@ particularly maple-beech, maple-basswood, and mixed oak-hickory associations.
 It is also common along stream banks, in seepage areas, and at the margins of
 swamps and marshes.
 
-It prefers moist, loamy to silty soils with high organic content. Soil pH
+It prefers moist, loamy to silty soils with high organic content. [[soil-ph]]
 tolerance ranges from moderately acidic (pH 5.0) to slightly alkaline (pH
 7.5). It is less tolerant of extremely acidic soils than many co-occurring
 ferns.
 
 Elevation ranges from near sea level to approximately 1,200 m in the southern
 Appalachians. At higher elevations it is typically restricted to moist
+
+Understanding these interconnected mechanisms provides a foundation for both research applications and practical implementation in relevant systems and contexts.
+
+This synthesis highlights the importance of cross-disciplinary
+approaches to understanding complex biological phenomena.
+

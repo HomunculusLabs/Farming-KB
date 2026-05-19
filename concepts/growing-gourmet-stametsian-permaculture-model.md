@@ -6,7 +6,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Stametsian Permaculture Model (Growing Gourmet)
+## Stametsian Permaculture Model (Growing Gourmet)
 
 The [[stametsian-permaculture-model]] integrates Paul Stamets' mycological
 expertise with permaculture design principles, drawing significantly from his

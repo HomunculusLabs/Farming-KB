@@ -1,22 +1,12 @@
 ---
-title: "Crataegus oxyacantha"
-type: species
-tags:
-  - rosaceae
-  - medicinal-plant
-  - edible-fruit
-  - cardiovascular
-  - ornamental-shrub
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Roth L., Daunderer M., Kormann K. (1984). "Giftpflanzen — Pflanzengifte." ecomed.
-  - Fugh-Berman A. (2003). "Herbal Medicine: What Can Phytochemistry Contribute?" Journal of Pharmacy and Pharmacology 55(5): 563–568.
-  - Ammon H.P.T., Kaul R. (1994). "Pharmacology of Crataegus Extracts." Pharmacological Reviews 46(2): 141–166.
-  - USDA NRCS. "[[polypore-fungi-eastern-north-america]] America, New Zealand, and temperate [[psilocybin-north-america-pacific-northwest]] of the [[prunus-spinosa]]* (blackthorn), *Crataegus monogyna*, and various *Rosa* species. These mixed hedges serve as livestock barriers, [[blesching-cannabis-hypertension-cardiovascular-effects]] include positive inotropic action (increased myocardial contractility), coronary vasodilation, and mild ACE-inhibitory activity. [[mushroom-cancer-clinical-trials-overview]] have demonstrated reductions in blood pressure and improvements in exercise tolerance in patients with NYHA class II heart failure.
+title: "Crataegus Oxyacantha"
+type: entity
+tags: []
+sources: []
 ---
 
-The European Medicines Agency recognizes hawthorn leaf and flower extracts as a "well-established use" herbal medicine for mild heart failure (HMPC monograph, 2016). Typical therapeutic doses range from 160–900 mg of standardized extract daily.
+
+The European Medicines Agency recognizes hawthorn leaf and flower extracts as a "well-established use" [[herbal-medicine]] for mild heart failure (HMPC monograph, 2016). Typical therapeutic doses range from 160–900 mg of standardized extract daily.
 
 ## Culinary and Traditional Use
 
@@ -48,7 +38,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish crataegus oxyacantha
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -62,7 +52,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Crataegus Oxyacantha finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

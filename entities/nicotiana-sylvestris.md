@@ -1,22 +1,10 @@
 ---
-title: "Nicotiana sylvestris"
-type: species
-tags:
-  - solanaceae
-  - ornamental
-  - tobacco
-  - fragrant
-  - annual
-  - genetics
-  - night-scented
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Goodspeed, T.H. (1954). The Genus Nicotiana: Origins, Relationships and Evolution of the Species in the Light of Their Distribution, Morphology and Cytogenetics. Chronica Botanica.
-  - Knapp, S., M.W. Chase & J.J. Clarkson (2004). "Nomenclatural Changes and a New Sectional Classification in Nicotiana (Solanaceae)." Taxon, 53(1), 73-94.
-  - Lewis, R.S. (2011). "An Overview of the Genus Nicotiana." In Nicotiana and Tobacco, pp. 1-26. Springer.
-  - Burbank, L. (1914). "The Development of the Burbank Tobacco." In [[guzman-psilocybin-mushrooms-south-america]].
+title: "Nicotiana Sylvestris"
+type: entity
+tags: []
+sources: []
 ---
+
 
 It is prized in ornamental horticulture for its tall, elegant habit and intensely fragrant, tubular white flowers that open in the evening.
 
@@ -78,7 +66,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish nicotiana sylvestris
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +80,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Nicotiana Sylvestris finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

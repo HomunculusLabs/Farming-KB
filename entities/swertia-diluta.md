@@ -148,4 +148,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[swertia-chirata]]
 - [[swertia-chirayita]]
 - [[swertia-japonica]]
-- [[swertia-perennis]]
+

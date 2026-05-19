@@ -4,7 +4,6 @@ tags: []
 sources: []
 ---
 
-
 ## Greenhouse Gardening and Season Extension
 
 **Greenhouse gardening and season extension** encompass the full spectrum of

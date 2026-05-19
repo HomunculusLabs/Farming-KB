@@ -1,15 +1,10 @@
 ---
-title: "7-Hydroxymitragynine"
-created: 2026-04-28
-type: chemical
-tags: [chemical, alkaloid, indole, opioid-receptor-agonist, kratom, mitragyna-speciosa, analgesic]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Takayama, H. et al. (2002). \"7-Hydroxymitragynine, an aminopropyl-silica-gel-chromatography-indole-alkaloid-purification derived from kratom-mitragyna-speciosa-pharmacology.\" Organic Letters, 4(18), 3149-3151."
-  - "Matsumoto, K. et al. (2004). \"Isolation of 7-hydroxymitragynine from Thai kratom.\" Bioorganic & Medicinal Chemistry Letters, 14(7), 1649-1651."
-  - "Kruegel, A.C. et al. (2016). \"[[indole]] alkaloid and the primary active metabolite of mitragynine, the most abundant alkaloid in kratom (*[[kratom-mitragyna-speciosa-pharmacology]]*). First isolated and characterized in 2002 by Takayama and colleagues from Thai kratom leaves, 7-OH is recognized as the most potent opioid receptor agonist naturally occurring in the kratom plant. Despite constituting only a trace fraction of the raw leaf alkaloid profile, 7-OH is formed in vivo through hepatic metabolism and is believed to be largely responsible for the pronounced analgesic effects attributed to kratom consumption. Its unique pharmacological profile — combining high MOR affinity with G-protein biased signaling — has made it a focal point of research into next-generation analgesics with improved safety margins. Simultaneously, its high potency has drawn regulatory scrutiny as a compound of public health concern.
+title: "7 Hydroxymitragynine"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Chemical Identity
 
@@ -55,7 +50,7 @@ Hepatic **CYP3A4** enzymes hydroxylate mitragynine at the C7 position to produce
 - **Oral Bioavailability**: Limited data in humans; animal studies suggest moderate oral bioavailability with significant first-pass metabolism. Sublingual and insufflated routes may bypass some first-pass loss.
 - **Half-life**: Estimated at 1–3 hours based on rodent studies; human pharmacokinetic data are sparse and confounded by the fact that 7-OH is simultaneously produced and eliminated.
 - **Onset of Action**: Rapid onset due to efficient blood-brain barrier penetration, contributing to the relatively fast-acting nature of kratom's analgesic effects.
-- **Metabolic Pathways**: Primarily formed via CYP3A4-mediated hydroxylation of mitragynine. 7-OH itself undergoes further phase I (oxidation, demethylation) an glucuronidation curonidation) metabolism before elimination.
+- **Metabolic Pathways**: Primarily formed via CYP3A4-mediated hydroxylation of mitragynine. 7-OH itself undergoes further phase I (oxidation, demethylation) an [[glucuronidation]] curonidation) metabolism before elimination.
 - **Distribution**: Lipophilic nature (log P estimated ~3.5) permits efficient crossing of the blood-brain barrier, consistent with its central opioid effects.
 - **Excretion**: Primarily via renal elimination of glucuronide conjugates, with a small fraction excreted unchanged in feces.
 
@@ -88,7 +83,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish 7 hydroxymitragynine
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -102,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 7 Hydroxymitragynine finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

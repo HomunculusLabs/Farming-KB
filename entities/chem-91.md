@@ -1,19 +1,10 @@
 ---
 title: "Chem 91"
-type: strain
-tags:
-  - cannabis
-  - strain
-  - hybrid
-  - chemdawg-lineage
-  - us-genetics
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Chemdog: The Unlikely Strain That Changed Everything." Leafly (2023).
-  - "The History of Chemdawg." High Times, 2019.
-  - Pearson, D. et al. (2019). "A genetic and chemical survey of [[cannabis-hybrid-vigor-and-phenotypes-clarke]] that serves as the direct parent or grandparent of dozens of the most influential modern strains.
+type: entity
+tags: []
+sources: []
 ---
+
 
 It emerged from the legendary Chemdawg phenotype lineage that surfaced in the early 1990s at a [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] regularly testing between 22–28%.
 
@@ -49,7 +40,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish chem 91
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -63,7 +54,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Chem 91 finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

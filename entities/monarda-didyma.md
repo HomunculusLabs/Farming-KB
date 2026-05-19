@@ -1,20 +1,10 @@
 ---
-title: "Monarda didyma"
-created: 2026-04-28
-type: species
-tags:
-  - lamiaceae
-  - herbal-plant
-  - medicinal-plant
-  - native-american
-  - permaculture
-  - pollinator
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Tucker, A.O. et al. (2010). "The genus Monarda (Lamiaceae)." Advances in Economic Botany, 13, 1-76.
-  - Nair, M.G. et al. (2002). "Mosquitocidal activity of monarda [[polypore-fungi-eastern-north-america]] America, it is cultivated widely for its striking scarlet flowers, aromatic foliage, [[candida-albicans]]). Mechanism involves disruption of bacterial cell membranes via interaction with lipid bilayers.
+title: "Monarda Didyma"
+type: entity
+tags: []
+sources: []
 ---
+
 
 **Antioxidant activity:** The essential oil demonstrates significant free radical scavenging activity in DPPH and ABTS assays, primarily attributed to the phenolic terpenoids.
 
@@ -34,7 +24,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish monarda didyma
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -48,7 +38,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Monarda Didyma finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

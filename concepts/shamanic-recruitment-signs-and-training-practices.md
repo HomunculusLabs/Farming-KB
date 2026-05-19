@@ -148,4 +148,4 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]
-- [[mckenna-world-made-of-language-shamanic-epistemology]]
+

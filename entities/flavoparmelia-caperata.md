@@ -1,19 +1,10 @@
 ---
-title: "Flavoparmelia caperata"
-type: species
-tags:
-  - lichen
-  - ascomycota
-  - foliose-lichen
-  - epiphyte
-  - bioindicator
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of psilocybin-north-america-pacific-northwest*. Yale University Press.
-  - Hale ME (1979). "How to Know the Lichens." 2nd ed. Wm. C. Brown Company.
-  - Nash TH III (2008). *[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+title: "Flavoparmelia Caperata"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is immediately recognizable by its broad, pale green to yellow-green lobes
 with a distinctive pattern of white macules (pseudocyphellae) on the upper surface. It
@@ -41,7 +32,7 @@ photosynthesis.
 
 ## Chemistry
 
-The secondary chemistry of *F. caperata* is dominated by usnic acid in the cortical layer
+The secondary chemistry of *F. caperata* is dominated by [[usnic-acid]] in the cortical layer
 and protocetraric acid in the medulla. These compounds serve defensive functions against
 herbivory, microbial infection, and UV radiation.
 
@@ -61,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish flavoparmelia caperata
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -75,7 +66,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Flavoparmelia Caperata finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

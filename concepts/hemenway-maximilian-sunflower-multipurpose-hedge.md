@@ -1,16 +1,10 @@
 ---
-title: hemenway maximilian sunflower multipurpose hedge as Multipurpose Hedge Plant
-created: 2026-04-26
-tags: [plants, hedges, deer, [[toby-hemenway]] uses the Maximilian sunflower (Helianthus
-maximilianii) as a detailed case study of how a single species
-can fulfill multiple functions in an [[hemenway-mulch-makers-and-plant-functional-roles]], the Maximilian sunflower has
-significant ornamental value. The tall stems topped with bright
-yellow flowers create a striking visual effect, especially when
-planted in mass as a hedge or border. The late bloom time fills
-a gap in the garden's seasonal color sequence. The dried stalks
-provide winter interest and vertical structure in the dormant
-garden.
+title: "Hemenway Maximilian Sunflower Multipurpose Hedge"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Design Integration
 
@@ -83,7 +77,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish hemenway maximilian sunflower multipurpose hedge
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -97,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Hemenway Maximilian Sunflower Multipurpose Hedge finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

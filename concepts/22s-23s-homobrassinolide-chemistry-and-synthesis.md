@@ -144,7 +144,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
 - [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
-- [[22s-23s-homobrassinolide]]
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 - [[psilocybin]]
 - [[det]]
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]

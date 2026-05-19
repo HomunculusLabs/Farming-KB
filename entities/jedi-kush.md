@@ -1,23 +1,14 @@
 ---
 title: "Jedi Kush"
-type: strain
-tags:
-  - cannabis
-  - indica-dominant
-  - hybrid
-  - kush-lineage
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Leafly Strain Database." https://www.leafly.com/strains/jedi-kush
-  - "AllBud Strain Information." https://www.allbud.com/marijuana-strains/hybrid/jedi-kush
-  - Smart, R. et al. (2010). "Cannabinoid and cannabis-terpene-profiles-sativa of Popular [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
-**SFV OG Kush** with **Death Star**. Bred by the California-based [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] varieties:
+type: entity
+tags: []
+sources: []
 ---
 
-- **SFV OG Kush** (pollen parent): An indica-dominant phenotype of OG Kush
+
+- **[[sfv-og]] Kush** (pollen parent): An indica-dominant phenotype of OG Kush
   originating from California's San Fernando Valley. Provides the foundational
-  Kush [[sensi-star]] and Sour Diesel. Contributes
+  Kush [[sensi-star]] and [[sour-diesel]]. Contributes
   additional potency and a subtle diesel pungency to the aroma.
 
 The genetic ratio is approximately 70% indica / 30% sativa, reflecting the
@@ -79,7 +70,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish jedi kush
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -93,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Jedi Kush finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

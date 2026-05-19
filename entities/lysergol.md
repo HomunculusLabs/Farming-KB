@@ -1,28 +1,15 @@
 ---
 title: "Lysergol"
-created: 2026-04-28
-type: chemical
-tags:
-  - ergoline-alkaloid
-  - psychedelic-compound
-  - fungal-metabolite
-  - tryptamine-derivative
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Hofmann, A. (1978). "ergot-and-lysergic-acid-history Diethylamide and Related Compounds." Pharmacology & Therapeutics, 2(2), 223–243.
-  - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. Charles C Thomas.
-  - Staig, S.M. & Blum, L.N. (1981). "[[golden-guide-morning-glory-and-ololiuqui]] species (*Ipomoea* spp., *Convolvulaceae*).
-It is a direct metabolic precursor in the biosynthetic pathway leading to
-[[lsd-d-lysergic-acid-diethylamide]] (LSD).
-Lysergol itself possesses mild psychoactive properties but is significantly
-less potent than its downstream derivatives.
+type: entity
+tags: []
+sources: []
 ---
+
 
 The compound was first isolated and characterized from *Ipomoea* species
 in the early 1970s. It occupies a critical node in ergoline biosynthesis,
-bridging the simple clavine alkaloids (such as agroclavine and elymoclavine)
-with the more complex lysergic acid derivatives.
+bridging the simple clavine alkaloids (such as [[agroclavine]] and [[elymoclavine]])
+with the more complex [[lysergic-acid]] derivatives.
 
 ## Chemical Properties
 
@@ -47,7 +34,7 @@ subsequent oxidation to the lysergic acid carboxyl group.
 Lysergol is produced as an intermediate in the ergoline alkaloid pathway,
 primarily by sclerotia-forming *[[ipomoea-tricolor]]* ([[morning-glory-lsa-and-ergoline-alkaloids]]. The presence of lysergol in
 plant seeds is attributed to symbiotic [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] is now understood to
-originate from seed-transmitted fungal endophytes related to
+originate from seed-transmitted [[fungal-endophytes]] related to
 *Periglandula* spp. (*Clavicipitaceae*). These endophytes colonize the
 shoot apical meristem and produce the full spectrum of ergoline alkaloids
 found in the seeds, including lysergol.
@@ -74,7 +61,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish lysergol
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -88,7 +75,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lysergol finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,33 +1,10 @@
 ---
-title: Humulus lupulus (Hops)
-created: 2026-04-28
-type: species
-tags:
-  - cannabaceae
-  - hops
-  - brewing
-  - sedative
-  - medicinal-herb
-  - bittering-agent
-  - aromatherapy
-  - [[psilocybin-north-america-pacific-northwest]], it is
-cultivated worldwide as the primary flavoring and stability agent in beer. The
-female cones (strobili) contain lupulin glands rich in alpha acids (humulone,
-cohumulone, adhumulone), beta acids, and [[savory-growing-season-and-non-growing-season-management]]; dies back to the crown in winter
-- **Stem:** Tough, flexible, rough-textured with downward-pointing hooked
-  trichomes that aid climbing; green to brown
-- **Leaves:** Opposite, palmately lobed with 3–5 deep lobes, serrate margins,
-  8–15 cm across; heart-shaped base
-- **Cones (strobili):** Produced only on female plants; oval, 2–5 cm long,
-  composed of overlapping bracts and bracteoles; pale green to yellow when
-  mature, papery when dried
-- **Lupulin glands:** Yellow, resinous, powder-like granules found at the base
-  of bracteoles; contain the bitter acids and [[myrcene]] (herbal, floral), [[linalool]] (floral),
-  [[geraniol]] (citrus); composition defines hop aroma character
-- **Prenylated flavonoids:** Xanthohumol (most abundant; 0.1–1%); 8-prenylnaringenin
-  (potent phytoestrogen); desmethylxanthohumol
-- **Tannins:** Provide astringency and aid protein coagulation in brewing
+title: "Humulus Lupulus"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Medicinal Properties
 
@@ -53,7 +30,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish humulus lupulus
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -67,7 +44,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Humulus Lupulus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

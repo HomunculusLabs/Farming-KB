@@ -1,19 +1,10 @@
 ---
-title: Plant Sensory Biology Chamovitz
-aliases:
-  - What a Plant Knows
-  - Plant senses
-  - [[daniel-chamovitz]]'s "What a Plant Knows" (2012) explores plant sensory
-biology,
-revealing that plants possess perceptual abilities paralleling animal
-senses.
-While lacking nervous systems, they have evolved intricate molecular
-mechanisms
-to detect environmental stimuli. The book examines what plants sense --
-light,
-smell, taste, hearing, touch, proprioception, and memory -- challenging
-anthropocentric views of sensory experience.
+title: "Plant Sensory Biology Chamovitz"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## What Plants See
 
@@ -73,7 +64,7 @@ chronic mechanical stress.
 
 ## Overview
 
-Plant Sensory Biology Chamovitz represents an important element within sustainable
+[[plant-sensory-biology]] Chamovitz represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -81,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish plant sensory biology chamovitz
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -95,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Plant Sensory Biology Chamovitz finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

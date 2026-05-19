@@ -1,27 +1,3 @@
----
-title: "northern-lights Cannabis Strain"
-created: 2026-04-28
-type: strain
-tags:
-  - cannabis
-  - indica
-  - afghani-indica
-  - pure-indica
-  - landrace-genetics
-  - high-thc
-  - resinous
-  - fast-flowering
-  - medical-cannabis
-  - commercial-strain
-  - heritage-strain
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Sensi Seeds (1985). Northern Lights — strain history and cervantes-breeding-program-design-goal-setting. Amsterdam."
-  - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
-  - "ElSohly, M.A., et al. (2016). Changes in [[cuthill-mushroom-cultivation-history-19th-century]]. Originating from Afghani indica landrace genetics and refined in the [[hindu-kush]] mountains, Afghanistan | Pure indica morphology, resin density, sedative effects, hashish quality |
-| **Afghani Indica #2** | Separate Afghani landrace selection | [[jack-herer]], Shiva Skunk, and many others. Sensi Seeds acquired the full Northern Lights program and continues to offer original genetics to this day.
----
 
 ## Morphology and Growing Characteristics
 
@@ -39,7 +15,7 @@ sources:
 | Difficulty | Very easy — one of the most beginner-friendly strains available |
 | Odor during growth | Moderate; less pungent than many modern hybrids (advantage for stealth growers) |
 
-Northern Lights is widely considered the **ideal beginner strain** due to its resilience, rapid flowering, compact size, and consistent results. It tolerates a wide range of growing conditions, nutrient levels, and environmental fluctuations. Its short stature makes it well-suited for limited-height growing spaces. The plants are naturally resistant to mold and pests, though their dense bud structure requires adequate airflow in humid conditions during late flowering.
+[[northern-lights]] is widely considered the **ideal beginner strain** due to its resilience, rapid flowering, compact size, and consistent results. It tolerates a wide range of growing conditions, nutrient levels, and environmental fluctuations. Its short stature makes it well-suited for limited-height growing spaces. The plants are naturally resistant to mold and pests, though their dense bud structure requires adequate airflow in humid conditions during late flowering.
 
 ## Cannabinoid Profile
 
@@ -76,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish northern lights cannabis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -90,7 +66,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Northern Lights Cannabis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +124,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cannabis-strain-mango-haze-northern-lights-skunk-haze]]
 - [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]]
 - [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
-- [[northern-lights]]
+

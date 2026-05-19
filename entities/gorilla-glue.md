@@ -1,22 +1,10 @@
 ---
 title: "Gorilla Glue"
-created: 2026-04-28
-type: strain
-tags:
-  - cannabis
-  - hybrid-strain
-  - strain
-  - high-thc
-  - award-winning
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Biological Psychiatry."
-  - "Mudge, E.M. et al. (2019). \"Cannabinoid and Terpene Profiling of Cannabis.\" Molecules."
-  - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpenoid beta-caryophyllene-entourage-effects-cannabis.\" British Journal of Pharmacology."
-  - "Casajuana Cogul, E. et al. (2018). \"The Association Between [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain that has earned legendary status in the cannabis community for its extraordinarily high [[equatorial-photoperiod-early-flowering]] |
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Appearance
 
@@ -29,7 +17,7 @@ Gorilla Glue's aromatic profile is pungent, complex, and immediately recognizabl
 - **Primary aroma**: Diesel, pine, and earthy chocolate with sour, pungent undertones
 - **Secondary notes**: Coffee, mocha, and subtle chemical/fuel-like quality
 - **Flavor on inhalation**: Earthy, piney, and chocolatey with a pronounced diesel kick
-- **Exhale flavor**: Smooth chocolate and coffee notes with lingering sour diesel and pine
+- **Exhale flavor**: Smooth chocolate and coffee notes with lingering [[sour-diesel]] and pine
 
 ### Dominant Terpenes
 
@@ -76,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish gorilla glue
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -90,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Gorilla Glue finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

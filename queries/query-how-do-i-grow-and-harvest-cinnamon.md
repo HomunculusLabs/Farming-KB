@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Grow and Harvest Cinnamon?
+## How Do I Grow and Harvest Cinnamon?
 
 ## Short Answer
 

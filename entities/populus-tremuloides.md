@@ -1,19 +1,3 @@
----
-title: "Populus tremuloides"
-type: species
-tags:
-  - salicaceae
-  - temperate-hardwood
-  - clonal-colony
-  - north-american-native
-  - pioneer-species
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Mitton, J.B. & Grant, M.C. (1996). "Genetic variation and the natural history of quaking aspen." BioScience, 46(1), 25-31.
-  - DeByle, N.V. & Winokur, R.P. (1985). "Aspen: [[berry-growing]].
----
 
 It is the most widely distributed tree species on the continent, ranging from Alaska to Newfoundland and south to [[mollison-designers-food-forest-succession-design]] across boreal and montane landscapes.
 
@@ -31,7 +15,7 @@ The distinctive white bark provides effective camouflage against winter snow and
 
 **Leaves:** Alternate, nearly circular to broadly ovate, 3–8 cm in diameter, with a flattened petiole that allows the leaf blade to flutter in even light breezes.
 
-This fluttering movement reduces heat loading, increases photosynthetic efficiency through improved [[dmt-containing-plants-united-states-halpern]] and Canada.
+This fluttering movement reduces heat loading, increases [[photosynthetic-efficiency]] through improved [[dmt-containing-plants-united-states-halpern]] and Canada.
 
 **Flowers:** Dioecious, appearing in pendulous catkins before leaf emergence in [[growing-gourmet-north-american-reishi-species]] tree species, spanning from 55°N to 19°N latitude.
 
@@ -79,7 +63,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish populus tremuloides
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -93,7 +77,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Populus Tremuloides finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +132,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[populus-alba]]

@@ -1,19 +1,10 @@
 ---
-title: "Hizikia fusiformis"
-type: species
-tags:
-  - edible-seaweed
-  - marine-algae
-  - culinary
-  - nutrition
-  - phaeophyceae
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Arai M. (2008). "Seaweeds of Japan." Hokkaido University Press.
-  - Nisizawa K. (1971). "Seaweeds and their uses in Japan." Botanica Marina, 14, 89–96.
-  - Jiménez-Escrig A. et al. (2001). "Nutritional evaluation and [[sargassum]]* as *[[coleman-overwintered-onions-and-early-spring-crops]] (March–April), reaching maximum biomass by mid-summer. Fronds senesce and erode through autumn and winter, with the holdfast persisting as the overwintering structure.
+title: "Hizikia Fusiforme"
+type: entity
+tags: []
+sources: []
 ---
+
 
 [[ph-and-nutrient-availability-garden-soils]]. Shaded, wave-protected sites produce longer but thinner fronds, while exposed sites yield shorter, sturdier plants. Anthropogenic nutrient inputs from coastal agriculture and aquaculture have been associated with increased growth rates and expanded distribution in some regions.
 
@@ -47,7 +38,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish hizikia fusiforme
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -61,7 +52,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Hizikia Fusiforme finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

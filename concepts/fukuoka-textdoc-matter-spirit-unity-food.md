@@ -1,11 +1,3 @@
----
-title: Matter and Spirit Unity in Food
-created: 2026-04-28
-tags: [fukuoka, [[cho-natural-farming-philosophy-of-non-interference]] into the realm of diet, arguing that food is not merely physical
-nourishment but a meeting point of matter and spirit. Drawing on Buddhist philosophy
-and his own observations of nature, he presents a view in which flavor, color, and
-nutrition are inseparable from spiritual experience.
----
 
 ## The Buddhist Foundation: Form is Emptiness
 
@@ -79,7 +71,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish fukuoka textdoc matter spirit unity food
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -93,7 +85,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fukuoka Textdoc Matter Spirit Unity Food finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +140,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[fukuoka-earthen-levee-building-artistic-religious-work]]

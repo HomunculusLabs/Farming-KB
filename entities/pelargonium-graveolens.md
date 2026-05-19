@@ -1,14 +1,10 @@
 ---
-title: "Pelargonium graveolens"
-type: species
-tags:
-  - herbal-plant
-  - geraniaceae
-  - essential-oil
-  - medicinal-plant
-  - [[permaculture-designers-manual-essential-oil-plants]], widely used in perfumery,
-aromatherapy, and traditional medicine.
+title: "Pelargonium Graveolens"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is distinguished by its deeply lobed, velvety leaves and
 intensely fragrant foliage. Its essential oil profile closely resembles
@@ -85,7 +81,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pelargonium graveolens
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -99,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pelargonium Graveolens finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Grow Elderberry for Fruit and Medicine?
+## How Do I Grow Elderberry for Fruit and Medicine?
 
 ## Short Answer
 

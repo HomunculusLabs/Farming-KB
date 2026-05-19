@@ -1,13 +1,10 @@
 ---
-title: Ayahuasca Chemistry and the MAO Inhibition Synergy
-created: 2026-05-11
-source: mckenna_t-tryptamines_consciousness.md
-tags: [ayahuasca, dmt, maoi, beta-carboline, harmine, harmaline, ethnopharmacology]
-aliases: [[terence-mckenna]] described
-ayahuasca as "a combination of dimethyltryptamine and a monoamine oxidase
-inhibitor that is taken orally" — a deceptively simple description of one
-of the most sophisticated pharmacological discoveries in human history.
+title: "Ayahuasca Chemistry Mao Inhibition Synergy"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## The Pharmacological Problem
 
@@ -34,19 +31,19 @@ Several plants serve as the DMT component:
   0.1–0.6% DMT in dried leaves
 - **Diplopterys cabrerana** (chaliponga, chalipongá) — contains DMT plus
   5-MeO-DMT; considered more potent than chacruna
-- **Mimosa tenuiflora** (jurema preta) — used in Brazilian preparations;
+- **[[mimosa-tenuiflora]]** (jurema preta) — used in Brazilian preparations;
   bark contains 0.57% DMT
 
 ### MAOI Source Plants (Banisteriopsis caapi)
 
-The ayahuasca vine (*Banisteriopsis caapi*) provides the MAO-inhibiting
+The ayahuasca vine (*[[banisteriopsis-caapi]]*) provides the MAO-inhibiting
 β-carboline alkaloids:
 
 - **Harmine** (7-methoxy-1-methyl-9H-pyrido[3,4-b]indole) — the primary
   MAO-A inhibitor; 0.18–1.36% in dried bark
 - **Harmaline** (3,4-dihydroharmine) — MAO-A inhibitor with additional
   CNS activity; tremorogenic at high doses
-- **Tetrahydroharmine** (THH) — weak MAO inhibitor but potent serotonin
+- **[[tetrahydroharmine]]** (THH) — weak MAO inhibitor but potent serotonin
   reuptake inhibitor (SRI); may contribute to the brew's visionary quality
 
 ## Biochemical Mechanism
@@ -100,7 +97,7 @@ extraordinary:
 
 ## The Experience: Oral vs. Smoked DMT
 
-McKenna noted that ayahuasca and smoked DMT, while both tryptamine
+McKenna noted that ayahuasca and smoked DMT, while both [[tryptamine]]
 experiences, differ significantly in character:
 
 | Feature | Smoked DMT | Ayahuasca |

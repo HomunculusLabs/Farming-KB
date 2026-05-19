@@ -1,24 +1,10 @@
 ---
 title: "Digoxin"
-created: 2026-04-28
-type: chemical
-tags:
-  - cardiac-glycoside
-  - pharmaceutical
-  - plant-derived-drug
-  - cardiology
-  - toxicology
-  - foxglove
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Smith, T.W. (1988). \"Digitalis: mechanisms of action and clinical use.\" New England Journal of Medicine, 318(6), 358–365."
-  - "Hauptman, P.J. & Kelly, R.A. (1999). \"Digitalis.\" Circulation, 99(9), 1265–1270."
-  - "Prassas, I. et al. (2011). \"The challenge of developing effective glycosidase inhibitors.\" Nature Reviews Drug Discovery, 10, 271–281."
-  - "Ma, G. et al. (2015). \"Isolation of digoxin from [[cannabis-cancer-symptom-management]] in
-heart failure with reduced ejection fraction (HFrEF). Its [[blesching-cannabis-therapeutic-window-dosing]] is
-notoriously narrow, requiring serum level monitoring to avoid toxicity.
+type: entity
+tags: []
+sources: []
 ---
+
 
 Digoxin acts by inhibiting the sodium-potassium ATPase (Na+/K+-ATPase) on
 cardiac myocytes, which indirectly increases intracellular calcium concentration
@@ -74,7 +60,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish digoxin
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -88,7 +74,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Digoxin finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

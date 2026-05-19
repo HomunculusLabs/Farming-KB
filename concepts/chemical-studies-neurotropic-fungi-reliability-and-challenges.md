@@ -1,13 +1,16 @@
 ---
-title: Chemical Studies Neurotropic Fungi Reliability and Challenges
-source: Guzmán, Allen & Gartz "Worldwide [[chemical-analysis-psilocybin-mushrooms]] of neurotropic fungi has produced a substantial body of literature since Albert Hofmann's isolation of psilocybin in 1958. However, the reliability of many published chemical studies has been seriously questioned by mycologists and chemists. Problems including species misidentification, mixed-species collections, specimen age and preservation, and the volatility of key alkaloids have introduced significant errors into the published record. Understanding these methodological challenges is essential for interpreting the chemical literature on [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] for additional discussion.
+title: "Chemical Studies Neurotropic Fungi Reliability And Challenges"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Species Misidentification
 
 ### The Central Problem
 
-The most pervasive and consequential problem in the chemical analysis of neurotropic fungi is species misidentification. Many published chemical analyses have been performed on specimens that were later determined to be incorrectly identified, meaning that the reported alkaloid profiles may be attributed to the wrong species entirely.
+The most pervasive and consequential problem in the chemical analysis of [[neurotropic-fungi]] is species misidentification. Many published chemical analyses have been performed on specimens that were later determined to be incorrectly identified, meaning that the reported alkaloid profiles may be attributed to the wrong species entirely.
 
 ### Documented Cases of Misidentification
 
@@ -15,13 +18,13 @@ Several specific cases of misidentification have been documented in the literatu
 
 - **Psilocybe pseudobullacea**: This species has been confused with several morphologically similar lookalikes in chemical studies, leading to erroneous alkaloid reports. The subtle morphological differences between P. pseudobullacea and its close relatives make accurate identification difficult without expert taxonomic examination.
 
-- **[[herbarium-specimens-fungal-collections]] or dried material stored for more than two months may substantially underestimate the original baeocystin content of fresh specimens.
+- **[[herbarium-specimens-fungal-collections]] or dried material stored for more than two months may substantially underestimate the original [[baeocystin]] content of fresh specimens.
 
 ### The Ohenoja Herbarium Study
 
 A particularly illuminating case study was conducted by Ohenoja, who analyzed herbarium specimens of Psilocybe collected over more than a century. The results showed dramatic variation correlated with collection date:
 
-- Specimens collected in 1869 contained only 0.014% psilocybin
+- Specimens collected in 1869 contained only 0.014% [[psilocybin]]
 - Specimens collected in 1976 contained 0.84% psilocybin
 
 This approximately 60-fold difference in psilocybin content between old and recent herbarium specimens demonstrates the severity of alkaloid degradation over time. While some of this difference may reflect natural variation between collections, the dominant factor is almost certainly the progressive loss of alkaloids from dried herbarium material during long-term storage.
@@ -50,7 +53,7 @@ T. Stijve similarly critiqued the reliability of chemical analyses in a 1995 pub
 
 ### Panaeolina foenisecii
 
-Panaeolina foenisecii, the haymaker's mushroom, has generated some of the most contradictory chemical reports in the neurotropic fungi literature. Some studies have reported the presence of psilocybin and related alkaloids, while others have found none. This inconsistency may reflect genuine intraspecific chemical variation, but it more likely results from the misidentification of specimens attributed to P. foenisecii in some studies.
+[[panaeolina-foenisecii]], the haymaker's mushroom, has generated some of the most contradictory chemical reports in the neurotropic fungi literature. Some studies have reported the presence of psilocybin and related alkaloids, while others have found none. This inconsistency may reflect genuine intraspecific chemical variation, but it more likely results from the misidentification of specimens attributed to P. foenisecii in some studies.
 
 ## Practical Applications
 

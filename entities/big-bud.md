@@ -1,27 +1,10 @@
 ---
 title: "Big Bud"
-type: strain
-aliases:
-  - Big Bud (sensi seeds)
-tags:
-  - cannabis
-  - strain
-  - indica
-  - high-yield
-  - skunk-lineage
-  - classic-strain
-  - commercial-cultivation
-  - sensi-seeds
-  - 1980s
-  - afghan-genetics
-  - heavy-producer
-  - indoor-growing
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Green, J. (2003). "The [[query-how-does-no-till-cannabis-cultivation-work]]. Originally developed in the United States during the 1980s from Afghani genetics, it was stabilized and popularized by Sensi Seeds of the Netherlands.
+type: entity
+tags: []
+sources: []
 ---
+
 
 The strain earned its name from its massive, dense colas that can reach extraordinary sizes under optimal growing conditions. It remains a staple for commercial growers seeking maximum output and has served as a genetic parent for numerous high-yielding [[cervantes-breeding-program-design-goal-setting]].
 
@@ -45,7 +28,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish big bud
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -59,7 +42,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Big Bud finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

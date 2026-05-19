@@ -1,23 +1,10 @@
 ---
-title: "Mitchella repens"
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - plants
-  - herb
-  - evergreen
-  - woodland-plant
-  - permaculture
-  - medicinal
-  - rubiaceae
-  - ground-cover
-sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." 2nd ed. New York Botanical Garden.
-  - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
-  - Foster, S. & Duke, J.A. (2014). "A [[psilocybin-north-america-pacific-northwest]]. It is one of the most recognizable woodland [[polypore-fungi-eastern-north-america]] American forests, known for its paired white flowers and distinctive bright red berries.
+title: "Mitchella Repens"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is the only member of its genus found in [[cannabis-sex-determination-floral-biology]]: each "flower" is actually a pair of fused flowers that produce a single berry, resulting in the characteristic double-blossom scar (two dimples) visible on the ripe fruit.
 
@@ -88,7 +75,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish mitchella repens
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

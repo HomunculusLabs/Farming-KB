@@ -1,31 +1,10 @@
 ---
-title: "Sassafras albidum"
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - lauraceae
-  - tree
-  - native-american
-  - medicinal
-  - aromatic
-  - safrole
-  - root-beer
-  - filé
-  - permaculture
-  - dioecious
-  - eastern-north-america
-  - ethnobotanical
-  - dynamic-accumulator
-sources:
-  - Hardin, J.W. (1973). "Sassafras albidum." Econ. Bot. 27(1): 45-48.
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
-  - USDA Forest Service. "Sassafras albidum." www.fs.usda.gov
-  - Burrows, G.E. & Tyrl, R.J. (2013). "Toxic Plants of psilocybin-north-america-pacific-northwest." 2nd ed. Wiley.
-  - Foster, S. & Duke, J.A. (2014). "Peterson [[polypore-fungi-eastern-north-america]] America and the sole
-[[halpern-sacramental-peyote-and-native-american-church]] medicine, culinary
-traditions, and commercial flavoring.
+title: "Sassafras Albidum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is easily identified by its distinctive leaves, which occur in three shapes
 on the same tree: unlobed oval, two-lobed mitten-shaped, and three-lobed. This
@@ -60,7 +39,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish sassafras albidum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -74,7 +53,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Sassafras Albidum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

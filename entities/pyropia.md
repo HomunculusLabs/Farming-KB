@@ -1,24 +1,10 @@
 ---
 title: "Pyropia"
-type: species
-tags:
-  - rhodophyta
-  - red-algae
-  - nori
-  - porphyra
-  - aquaculture
-  - edible-seaweed
-  - laver
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Brawley, S.H. & Blouin, N.A. (2019). "The Taxonomy of Porphyra and Pyropia." Journal of Phycology, 55(1), 9-20.
-  - Miura, A. (1975). "Porphyra Cultivation in Japan." In: Advances in Phycology, Dr. W. Junk Publishers, 273-304.
-  - Niwa, K. (2010). "Genetic Analysis of Artificial Hybrids between [[bloomfield-fungal-life-cycle-spiral-versus-circle]]** alternating between
-a microscopic filamentous **conchocelis phase** (living within calcium carbonate
-substrate such as shells) and a macroscopic leafy **gametophyte phase** (the
-harvested nori blade). This complex [[psilocybin-potency-variation-species-strain-growth-conditions]], and desiccation state.
+type: entity
+tags: []
+sources: []
 ---
+
 
 The blade is attached to substrate by a small basal holdfast and expands
 through marginal cell division. This pattern produces the characteristic
@@ -66,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pyropia
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -80,7 +66,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pyropia finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,24 +1,10 @@
 ---
-title: "Habit Transformation: Trigger, Reaction, and Reward"
+title: "Habit Transformation Trigger Reaction Reward"
 type: concept
-tags:
-  - psychology
-  - mind-body-medicine
-  - habit-change
-  - behavioral-science
-  - relaxation
-  - blesching
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
-  - Benson, H. et al. "Relaxation Response and gene expression." Benson-Henry Institute.
-  - Dusek, J.B. et al. (2008). "Genomic counter-stress effects." PLoS ONE.
-  - University of Regensburg. (2009). "Word choice and physiological [[metzner-ibogaine-addiction-treatment]] research has established that any habit can be
-broken down into three basic phases: a trigger event, the reaction, and
-the reward phase. This framework applies equally to minor habits like
-foot-tapping and severe addictions.
+tags: []
+sources: []
 ---
+
 
 The mind-body medicine approach to habit transformation focuses on
 creating awareness about the trigger phase, replacing choices in the
@@ -86,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish habit transformation trigger reaction reward
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -100,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Habit Transformation Trigger Reaction Reward finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

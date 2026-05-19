@@ -1,11 +1,10 @@
 ---
-title: Mycelial mycelial growth enhancement with phytohormones with Phytohormones
-category: [[mycology]]
-tags: [mycelium, phytohormones, growth-promotion, brassinosteroids, auxins, gibberellins, fungi]
-related: 22s-23s-homobrassinolide
-source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[psilocybe-cubensis-miniculture-on-rye-grain]]*, but other hormone
-classes have also shown activity.
+title: "Mycelial Growth Enhancement With Phytohormones"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Historical Context
 
@@ -15,7 +14,7 @@ mycelial growth and fruiting in fungi (Gartz et al., 1990) challenged
 this assumption and opened the question of whether other plant hormone
 classes might have similar cross-kingdom activity.
 
-Prior to the brassinosteroid findings, some studies had examined the
+Prior to the [[brassinosteroid]] findings, some studies had examined the
 effects of auxins and gibberellins on fungal morphology, but results
 were inconsistent and the field received little sustained attention.
 The brassinosteroid work was notable for the magnitude of effect

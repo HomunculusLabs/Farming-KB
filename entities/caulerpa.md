@@ -1,21 +1,10 @@
 ---
 title: "Caulerpa"
-type: species
-tags:
-  - chlorophyta
-  - green-algae
-  - invasive-species
-  - caulerpenyne
-  - edible-seaweed
-  - siphonous
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Farnham, W.F. (2003). "A Review of the Occurrence of the Green Seaweed caulerpa-taxifolia." Aquatic Conservation, 13(S1), 3-12.
-  - Meinesz, A. (1999). "Killer Algae." University of Chicago Press.
-  - Verlaque, M., et al. (2000). "The [[fungal-life-cycles-sexual-reproduction-metamorphosis]] involves anisogamous gametes released en masse in
-a holocarpic event that exhausts the entire thallus.
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Distribution and Habitat
 
@@ -46,7 +35,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish caulerpa
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -60,7 +49,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Caulerpa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

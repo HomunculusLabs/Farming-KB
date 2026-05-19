@@ -1,23 +1,10 @@
 ---
-title: "Oplopanax horridus"
-created: 2026-04-28
-type: species
-tags:
-  - araliaceae
-  - adaptogen
-  - medicinal-plant
-  - ethnobotanical
-  - pacific-northwest
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Schofield J.J. (1989). "Discovering Wild Plants." Alaska Northwest Books.
-  - Moore M. (1993). "Medicinal Plants of the Pacific West." Red Crane Books.
-  - Turner N.J. (1995). "Food Plants of Coastal First Peoples." UBC Press.
-  - Foster S., Hobbs C. (2002). "A [[psilocybin-north-america-pacific-northwest]]. Reaching heights of 1–5 meters, it is
-among the most distinctive understory plants in its range, instantly recognizable
-by its dense covering of yellowish spines on stems, petioles, and leaf veins.
+title: "Oplopanax Horridus"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species occupies a central role in the ethnobotany of virtually every Indigenous
 group within its range. Inner bark preparations have been used as medicine for
@@ -75,7 +62,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish oplopanax horridus
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

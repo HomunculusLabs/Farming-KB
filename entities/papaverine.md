@@ -1,21 +1,10 @@
 ---
 title: "Papaverine"
-type: chemical
-tags:
-  - alkaloid
-  - benzylisoquinoline
-  - vasodilator
-  - antispasmodic
-  - opium
-  - pharmacology
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Knoll J (1975). "The pharmacology of papaverine." Acta Medica Academiae Scientiarum Hungaricae 32(1): 1-17.
-  - Bülbring E, Tomita T (1987). "Action of papaverine on smooth muscle." Journal of Physiology 389: 131-146.
-  - Kukovetz WR, Pöch G (1970). "Inhibition of cyclic-3',5'-nucleotide phosphodiesterase by papaverine." Naunyn-Schmiedebergs Archives of Pharmacology 267(2): 189-194.
-  - Preziosi P (1983). "The pharmacology of papaverine and related benzylisoquinoline alkaloids." Medical [[morphine]] and [[salvinorin-a-kappa-opioid-receptor-pharmacology]] activity and produces no analgesic, euphoric, or dependence-producing effects.
+type: entity
+tags: []
+sources: []
 ---
+
 
 Papaverine is classified pharmacologically as a non-nitrogenous phosphodiesterase inhibitor with direct vasodilatory and antispasmodic properties.
 
@@ -79,7 +68,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish papaverine
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

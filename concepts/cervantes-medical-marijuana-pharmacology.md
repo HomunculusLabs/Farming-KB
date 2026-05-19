@@ -1,23 +1,10 @@
 ---
-title: cervantes medical marijuana pharmacology - Pharmacology and Qualifying Conditions
-created: 2026-04-28
-tags:
-  - medical-cannabis
-  - cannabinoid-pharmacology
-  - qualifying-conditions
-  - DEA-scheduling
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-synonyms:
-  - medical cannabis
-  - marijuana as medicine
-  - therapeutic cannabis
-  - physician recommendation
-  - Marinol [[cannabis-as-medicine-clinical-reference]] clinical reference, covering its history,
-pharmacology, qualifying conditions, and the regulatory landscape.
+title: "Cervantes Medical Marijuana Pharmacology"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Historical Context
 
@@ -88,7 +75,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish cervantes medical marijuana pharmacology
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -102,7 +89,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cervantes Medical Marijuana Pharmacology finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

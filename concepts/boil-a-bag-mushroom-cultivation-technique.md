@@ -1,21 +1,15 @@
 ---
-title: Boil-a-Bag accessible-mushroom-cultivation-for-disabilities Technique
-created: 2026-04-28
-tags:
-  - mushroom cultivation
-  - mycology
-  - indoor growing
-  - sterilization
-  - [[falconer-growing-mushrooms-in-sheds]] indoors using heat-resistant plastic bags as
-the primary growing container. The approach is designed to be accessible to
-home cultivators, requiring relatively inexpensive equipment and readily
-available materials. The technique combines elements of [[mushroom-humidity-chamber-design-operation]].
+title: "Boil A Bag Mushroom Cultivation Technique"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Overview
 
 At its core, the boil-a-bag method involves preparing a substrate of
-chopped straw supplemented with brown rice flour, packing it into
+chopped straw supplemented with [[brown-rice-flour]], packing it into
 pressure-resistant plastic bags, sterilizing the bags in a pressure cooker,
 inoculating with a spore-syringe, and allowing mycelium to colonize the
 substrate before inducing fruiting in a humidity-controlled environment. The
@@ -37,7 +31,7 @@ The boil-a-bag method requires a specific set of tools and materials:
 - **Pressure cooker**: Used for sterilizing both substrate bags and spore
   syringe equipment at 15 psi for 60 minutes (or two 30-minute stages).
 - **Filter cans**: Homemade filtration devices constructed from empty food cans
-  (3 to 4 inches in diameter) fitted with rock wool and vermiculite to
+  (3 to 4 inches in diameter) fitted with rock wool and [[vermiculite]] to
   allow gas exchange while preventing contamination.
 - **Straw**: Chopped to lengths of 3 to 10 cm, serving as the primary
   substrate base. Pre-cut straw is available from many pet stores.

@@ -1,17 +1,10 @@
 ---
-title: "Haematomma ochroleucum"
-type: species
-tags:
-  - lichen
-  - crustose-lichen
-  - haematommataceae
-  - lichen-acids
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
-  - Nash, T.H. III (2008). [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, [[antifungal-secondary-metabolites-coprophilous-fungi]]. The genus name refers to the blood-red coloration of the apothecial discs.
+title: "Haematomma Ochroleucum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species was historically used in [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] are consistent with the order Lecanorales.
 
@@ -41,7 +34,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish haematomma ochroleucum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -55,7 +48,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Haematomma Ochroleucum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

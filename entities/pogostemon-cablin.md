@@ -1,19 +1,10 @@
 ---
-title: "Pogostemon cablin"
-type: species
-tags:
-  - lamiaceae
-  - essential-oil
-  - aromatic-plant
-  - medicinal-herb
-  - perfumery
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Hu, C.Y. et al. (2016). "Pogostemon cablin: A review of phytochemistry, bioactivities, and uses." Journal of Ethnopharmacology, 194, 844–853.
-  - SWHA (2017). "Patchouli oil (Pogostemon cablin)." In WHO Monographs on Medicinal Plants, Vol. 5, WHO, Geneva.
-  - Lawrence, B.M. (2003). "Patchouli: The raw material, its cannabis-resin-production-and-quality-traits-clarke." In [[psilocybe-southeast-asia-pacific]], it is cultivated worldwide for its essential oil, which is one of the most important and widely used natural fragrance materials in perfumery.
+title: "Pogostemon Cablin"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Patchouli oil possesses a distinctive, earthy, and camphoraceous aroma that serves as a base note in countless perfumes, cosmetics, and personal care products. The oil is also valued in traditional medicine systems across Asia for its antimicrobial, anti-inflammatory, and insect-repellent properties.
 
@@ -43,7 +34,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pogostemon cablin
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -57,7 +48,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pogostemon Cablin finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

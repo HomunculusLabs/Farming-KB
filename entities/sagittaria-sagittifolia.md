@@ -1,20 +1,10 @@
 ---
-title: "Sagittaria sagittifolia"
-type: species
-tags:
-  - alismataceae
-  - aquatic-plant
-  - edible-plant
-  - wetland
-  - ethnobotany
-  - traditional-food
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Bogin, C. (1955). "Revision of the Genus Sagittaria." Memoirs of the New York Botanical Garden, 9(1), 179-251.
-  - Haynes, R.R. & Holm-Nielsen, L.B. (1994). "Alismataceae." Flora of Ecuador, 49, 1-63.
-  - Cook, C.D.K. (1996). [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] for emergent leaves.
+title: "Sagittaria Sagittifolia"
+type: entity
+tags: []
+sources: []
 ---
+
 
 **Inflorescences** are racemose, rising on erect peduncles 20–80 cm above the water. Each peduncle bears 3–12 whorls of flowers, with female flowers in the lower whorls and male flowers in the upper whorls.
 
@@ -50,7 +40,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish sagittaria sagittifolia
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -64,7 +54,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Sagittaria Sagittifolia finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

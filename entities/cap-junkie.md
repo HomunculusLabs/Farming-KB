@@ -1,27 +1,10 @@
 ---
 title: "Cap Junkie"
-created: 2026-04-28
-updated: 2026-04-28
-type: strain
-tags:
-  - cannabis
-  - strain
-  - hybrid
-  - high-thc
-  - exotic
-  - capulator
-  - seed-junky-genetics
-  - Cookies-lineage
-  - OG-lineage
-  - modern-cultivar
-  - us-genetics
-aliases:
-  - [[blesching-cannabis-strain-selection-receptor-targeting]] bred by crossing
-Capulator's MAC ([[thc-content-factors-cultivation-freshness-storage-degradation-blesching]], frequently testing above 30%, and its
-complex [[kush-mints]] #11, adds a heavy OG backbone, deep mint
-and gas aromatics, and potent sedative body effects. Kush Mints #11 is
-a select phenotype of the Kush Mints line ([[trichoderma-forest-green-mold-guide]] and vivid purple, with occasional black undertones.
+type: entity
+tags: []
+sources: []
 ---
+
 
 Trichome coverage is exceptional, coating buds in a thick, frosty layer
 of translucent and amber glandular trichomes. Pistils are abundant, long,
@@ -59,7 +42,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish cap junkie
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -73,7 +56,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cap Junkie finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

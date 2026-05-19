@@ -1,31 +1,10 @@
 ---
-title: "Pedicularis groenlandica"
-created: 2026-05-06
-type: species
-tags:
-  - orobanchaceae
-  - herbal-plant
-  - medicinal-plant
-  - hemiparasitic
-  - north-america
-  - alpine
-  - ethnobotany
-  - muscle-relaxant
-  - wildcrafting
-  - wetland-plant
-  - permaculture
-  - wild-harvesting
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-[[native-american-church]] Ethnobotany." Timber Press.
-  - Tilford, G.L. (1997). "Edible and Medicinal Plants of the West." Mountain Press.
-  - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the [[guzman-psilocybin-mushrooms-north-america]]. Its dense, cylindrical inflorescence of pink to
-magenta flowers with projecting beak-like galeas resembles an elephant's
-trunk, earning the common name **elephant's head**. Indigenous peoples of
-the Rocky Mountains and Sierra Nevada used the plant as a muscle relaxant
-and analgesic, and modern herbalists value it for similar applications.
+title: "Pedicularis Groenlandica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is a root hemiparasite, supplementing its photosynthesis by
 extracting water, mineral nutrients, and [[growing-gourmet-north-american-reishi-species]] Rockies than in Greenland. No
@@ -76,7 +55,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pedicularis groenlandica
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

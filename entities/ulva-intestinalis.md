@@ -1,20 +1,12 @@
 ---
-title: "Ulva intestinalis"
-type: species
-tags:
-  - ulvophyceae
-  - marine-algae
-  - edible-seaweed
-  - green-algae
-  - bioremediation
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Hayden H.S. et al. (2003). "Cryptic Species of Ulva (Ulvales, Ulvophyceae) in the British Isles." Journal of Phycology, 39(2), 369-377.
-  - Steentoft M. et al. (1995). "A Checklist of Marine Benthic [[fungal-single-cell-protein-production]] thick. This simple sheet rolls into a tube during development, creating the characteristic hollow structure.
+title: "Ulva Intestinalis"
+type: entity
+tags: []
+sources: []
 ---
 
-Cells are approximately 10–15 μm in diameter, arranged in a regular pattern. Each cell contains a single parietal chloroplast with one or more pyrenoids.
+
+Cells are approximately 10–15 μm in diameter, arranged in a regular pattern. Each cell contains a single parietal [[chloroplast]] with one or more pyrenoids.
 
 When growing in still water, fronds are long, inflated, and freely floating. In wave-exposed habitats, the tubes are shorter, narrower, and more tightly compressed, sometimes making identification difficult without [[psilocybe-semilanceata]] in temperate and cold waters. It occurs throughout the North Atlantic, North Pacific, Mediterranean, Baltic Sea, and around Antarctica.
 
@@ -54,7 +46,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish ulva intestinalis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -68,7 +60,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ulva Intestinalis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

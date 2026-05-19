@@ -1,21 +1,10 @@
 ---
-title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique"
-created: 2026-04-28
-type: species
-tags:
-  - permaculture
-  - organic-gardening
-  - polyculture
-  - agroecology
-  - sustainable-agriculture
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Jeavons, J. (2012). How to Grow More Vegetables. Ten Speed Press."
-  - "Hart, R. (1996). Forest Gardening. Green Books."
-  - "Crawford, M. (2010). Creating a Forest Garden. Green Books."
-  - "Caroline, M. (2014). [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], and increase overall crop yields. It is a foundational technique in permaculture, [[gaias-garden-keyhole-beds-and-mandala-gardens]] (Java, Indonesia)**: Circular garden designs incorporating diverse companion plantings for food security.
+title: "Companion Planting"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Modern scientific validation of these traditional systems began in the 1970s with the work of agroecologists like Miguel Altieri and Stephen Gliessman, who demonstrated measurable yield advantages and ecological benefits of intercropping and companion planting.
 
@@ -29,14 +18,14 @@ Plants protect neighbors through multiple mechanisms:
 |-----------|---------|-------------|
 | **Volatile masking** | Carrots + onions | Strong onion aromas mask carrot scent from carrot rust fly |
 | **Repellent crops** | Basil + tomatoes | Basil emits volatile oils that repel tomato hornworms and whiteflies |
-| **Trap cropping** | Nasturtiums + brassicas | Aphids prefer nasturtiums, diverting them from cabbage and kale |
+| **[[trap-cropping]]** | Nasturtiums + brassicas | Aphids prefer nasturtiums, diverting them from cabbage and kale |
 | **Push-pull** | Desmodium + maize + Napier grass | Desmodium repels stemborer moths (push); Napier grass attracts them (pull) |
 | **Predator attraction** | Dill + brassicas | Dill flowers attract parasitic wasps that prey on cabbage caterpillars |
 
 ### 2. Nutrient Sharing and Cycling
 
 - **[[fungi-in-the-environment-symbiotic-relationships]] with *Rhizobium* bacteria, converting atmospheric N₂ into plant-available forms. Adjacent nitrogen-hungry crops (corn, leafy greens) benefit from this biological fertilizer.
-- **Deep nutrient mining**: Deep-rooted plants (comfrey, daikon radish, chicory) access nutrients from subsoil layers and bring them to the surface through leaf decomposition.
+- **Deep nutrient mining**: Deep-rooted plants (comfrey, [[daikon-radish]], chicory) access nutrients from subsoil layers and bring them to the surface through leaf [[decomposition]].
 - **Nutrient accumulation**: [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] for climbing plants (beans, cucumbers, Malabar spinach).
 - **Shade regulation**: Tall or broadleaf plants provide shade for heat-sensitive crops (lettuce, spinach, cilantro), extending their growing season in warm climates.
 - **Wind protection**: Hedge-row species and sturdy plants create windbreaks that reduce water loss and physical damage to delicate crops.
@@ -57,7 +46,7 @@ Some plants release biochemical compounds that influence the growth of neighbori
 
 ### The Three Sisters
 The most documented companion planting system:
-- **Corn** (*Zea mays*): Provides structural support; heavy nitrogen feeder
+- **Corn** (*[[zea-mays]]*): Provides structural support; heavy nitrogen feeder
 - **Beans** (*[[phaseolus-vulgaris]]*): Fixes nitrogen; climbs corn stalks; stabilizes the trio
 - **Squash** (*Cucurbita spp.*): Large leaves shade soil, suppress weeds; prickly vines deter pests
 
@@ -66,7 +55,7 @@ The most documented companion planting system:
 | Companion | Benefit |
 |-----------|---------|
 | **Basil** | Repels hornworms, whiteflies, aphids; may enhance tomato flavor |
-| **Marigold** (*Tagetes spp.*) | Root exudates repel root-knot nematodes; flowers attract pollinators |
+| **Marigold** (*Tagetes spp.*) | [[root-exudates]] repel root-knot nematodes; flowers attract pollinators |
 | **Borage** | Repels tomato hornworms; trace mineral accumulator; edible flowers |
 | **Garlic** | Repels spider mites; antifungal properties reduce blight risk |
 
@@ -80,7 +69,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish companion planting
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -94,7 +83,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Companion Planting finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

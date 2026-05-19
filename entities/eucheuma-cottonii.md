@@ -1,20 +1,10 @@
 ---
-title: "Eucheuma cottonii"
-type: species
-tags:
-  - rhodophyta
-  - red-algae
-  - carrageenan
-  - aquaculture
-  - tropical-seaweed
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Doty, M.S. (1973). "Farm the sea for weed." Proceedings of the International Seaweed Symposium, 7, 25–31.
-  - Ask, E.I. & Azanza, R.V. (2002). "Advances in cultivation technology of commercial eucheumatoid species." Hydrobiologia, 512, 181–188.
-  - Trono, G.C. (1992). "Eucheuma and Kappaphycus: Taxonomy and cultivation." Marine Farming Centre, Singapore.
-  - Hayashi, L. et al. (2011). "[[psilocybe-southeast-asia-pacific]], East Africa, and the [[seaweed-farming-and-marine-aquaculture]] operations worldwide, supporting millions of smallholder farmers in tropical [[fungal-life-cycles-sexual-reproduction-metamorphosis]] rarely observed in farmed populations.
+title: "Eucheuma Cottonii"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Distribution and Habitat
 
@@ -60,7 +50,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish eucheuma cottonii
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -74,7 +64,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Eucheuma Cottonii finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

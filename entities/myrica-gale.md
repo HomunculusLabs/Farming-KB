@@ -1,19 +1,10 @@
 ---
-title: "Myrica gale"
-created: 2026-05-06
-type: species
-tags:
-  - herbal-plant
-  - myricaceae
-  - nitrogen-fixer
-  - wetland-plant
-  - insect-repellent
-  - brewing-herb
-  - [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press."
-  - "Hegnauer, R. (1966). Chemotaxonomie der Pflanzen. Birkhäuser Verlag."
-  - "Sprent, J.I. (2009). Legume Nodulation. Wiley-Blackwell."
-  - "Mills, S.Y. (1991). The Essential Book of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
+title: "Myrica Gale"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Sweetgale was a primary flavoring agent in European gruit beers before the
 adoption of hops (*[[coleman-overwintered-onions-and-early-spring-crops]]. Female catkins shorter,
@@ -51,7 +42,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish myrica gale
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -65,7 +56,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Myrica Gale finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

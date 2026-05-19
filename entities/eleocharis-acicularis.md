@@ -1,23 +1,10 @@
 ---
-title: "Eleocharis acicularis"
-type: species
-tags:
-  - cyperaceae
-  - aquatic-plants
-  - wetland-plants
-  - sedges
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Strong, A.S. (2006). "Taxonomic Revision of the Eleocharis acicularis
-    Complex." PhD Dissertation, University of Illinois.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of
-    Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada." New York Botanical Garden.
-  - USDA NRCS (2024). "Eleocharis acicularis Plant Guide." Natural Resources
-    Conservation Service.
-  - Godfrey, R.K. & Wooten, J.W. (1979). "permaculture-plants-aquatic-and-wetland-species Plants of
-    Southeastern [[psilocybin-north-america-pacific-northwest]].
+title: "Eleocharis Acicularis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Its dense root systems stabilize substrates in littoral zones, making it
 valuable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
@@ -82,7 +69,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish eleocharis acicularis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

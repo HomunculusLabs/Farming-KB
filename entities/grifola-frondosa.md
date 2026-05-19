@@ -1,27 +1,15 @@
 ---
-title: "[[maitake-grifola-frondosa-comprehensive-profile]]"
-created: 2026-04-28
-type: species
-tags:
-  - fungi
-  - meripilaceae
-  - medicinal-mushroom
-  - culinary-mushroom
-  - polypore
-  - immunomodulator
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Mayell, M. (2001). \"Maitake extracts and their cbd-therapeutic-effects.\" Alternative Medicine Review, 6(1), 48-60."
-  - "Kodama, N. et al. (2002). \"Maitake D-Fraction: healing and preventive potential for cancer.\" Journal of Orthomolecular Medicine, 17(1), 41-48."
-  - "Matsuzaki, S. et al. (2020). \"A systematic review of the query-what-are-the-main-bioactive-compounds-in-medicinal-plants of [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and [[comparison-chaga-vs-turkey-tail]]-medicinal-mushrooms-comprehensive. Ten Speed Press."
-  - "Wasser, S.P. (2014). \"[[oyster-mushroom-supplemented-sawdust-blocks]] substrates and is among the top three medicinal mushrooms by global market value.
+title: "Grifola Frondosa"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy
 
 - **Kingdom:** Fungi
-- **Division:** Basidiomycota
+- **Division:** [[basidiomycota]]
 - **Class:** Agaricomycetes
 - **Order:** Polyporales
 - **Family:** Meripilaceae
@@ -42,7 +30,7 @@ sources:
 
 **Stipe/stem structure:** Multiple short, tough, branching stems arising from a common base. Interior is white and marbled, firm but becoming tough with age.
 
-**Spores:** Broadly ellipsoid, smooth, hyaline, 5–7 × 3.5–5 µm. Spore print is white.
+**Spores:** Broadly ellipsoid, smooth, hyaline, 5–7 × 3.5–5 µm. [[spore-print]] is white.
 
 **Flesh:** White, firm, and aromatic with a distinctive spicy, earthy fragrance. Taste is described as rich, nutty, and peppery.
 
@@ -68,7 +56,7 @@ Documented immunomodulatory activities include:
 **Other compounds:**
 
 - **Grifolin** — an isoprenoid phenol with antimicrobial and cytotoxic activity
-- **Ergosterol derivatives** — anti-inflammatory and antioxidant properties
+- **[[ergosterol]] derivatives** — anti-inflammatory and antioxidant properties
 - **Phenolic acids** — chlorogenic, ferulic, and p-coumaric acids with free radical scavenging activity
 - **Nucleotides and nucleosides** — adenosine, guanosine, and uridine contributing to umami flavor
 
@@ -82,7 +70,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish grifola frondosa
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -96,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Grifola Frondosa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

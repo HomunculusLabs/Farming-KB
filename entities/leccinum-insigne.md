@@ -1,20 +1,10 @@
 ---
-title: "Leccinum insigne"
-created: 2026-04-28
-type: species
-tags:
-  - fungi
-  - boletaceae
-  - mycorrhizal
-  - edible-mushroom
-  - aspen-associate
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Smith, A.H. & Thiers, H.D. (1971). The Boletes of Michigan. University of Michigan Press."
-  - "Kuo, M. (2024). Leccinum insigne. MushroomExpert.com."
-  - "Fischer, D. & Bessette, A.E. (2012). Mushrooms of the Northeastern [[populus-tremuloides]]*) and cottonwood (*P. deltoides*).
+title: "Leccinum Insigne"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is edible when thoroughly cooked, though some individuals
 report gastrointestinal upset — a pattern common across the genus
@@ -25,7 +15,7 @@ surface typical of the genus.
 ## Taxonomy and Morphology
 
 - **Kingdom:** Fungi
-- **Division:** Basidiomycota
+- **Division:** [[basidiomycota]]
 - **Class:** Agaricomycetes
 - **Order:** Boletales
 - **Family:** Boletaceae
@@ -70,7 +60,7 @@ No pleurocystidia or cheilocystidia observed.
 
 ## Distribution and Habitat
 
-Widely distributed across [[populus-deltoides]]* (eastern cottonwood)
+Widely distributed across [[populus-deltoides]]* (eastern [[cottonwood]])
 
 ## Overview
 
@@ -82,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish leccinum insigne
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -96,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Leccinum Insigne finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

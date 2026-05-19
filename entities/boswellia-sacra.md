@@ -1,29 +1,14 @@
 ---
-title: "Boswellia sacra"
-type: species
-tags:
-  - frankincense
-  - burseraceae
-  - ethnobotanical
-  - resin
-  - traditional-medicine
-  - oman
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Tucker, A.O. (1986). 'Frankincense and myrrh.' Economic Botany 40(4): 425–433."
-  - "Al-Harrasi, A., et al. (2019). 'Boswellia sacra: a review of traditional uses, phytochemistry, and pharmacology.' Journal of Ethnopharmacology 245: 112163."
-  - "Moussaieff, A., et al. (2012). 'Incensole acetate — a novel anti-inflammatory agent from Boswellia resin.' British Journal of Pharmacology 166(5): 1559–1568."
-  - "Wabuyele, E., et al. (2016). '[[fukuoka-natural-farming-in-arid-regions]] of the
-Arabian Peninsula and the Horn of Africa. Revered for over 5,000 years,
-frankincense was one of the most valuable commodities of [[fungal-diversity-arid-environments]]. The bark
-is papery, peeling in thin flakes to reveal a smooth, greenish underlayer. The
-tree is frequently leafless during the dry season to reduce water loss.
+title: "Boswellia Sacra"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Leaves are alternate, imparipinnate, with 7 to 15 pairs of opposite
 leaflets plus a terminal leaflet. Leaflets are oblong to elliptic, 5 to 25
-mm long, with entire margins and a waxy cuticle that reduces transpiration.
+mm long, with entire margins and a waxy cuticle that reduces [[transpiration]].
 Flowers are small, 5-merous, with greenish-white petals arranged in axillary
 racemes. The fruit is a 3-valved capsule containing numerous winged seeds.
 
@@ -61,7 +46,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish boswellia sacra
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -75,7 +60,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Boswellia Sacra finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,26 +1,10 @@
 ---
-title: "3-MeO-PCE"
-created: 2026-04-28
-type: chemical
-tags:
-  - chemical
-  - dissociative
-  - arylcyclohexylamine
-  - research-chemical
-  - nmda-antagonist
-  - recreational
-  - designer-drug
-  - [[tryptamine]]-not
-  - pce
-  - anesthesia-related
-  - sigma-receptor
-  - harm-reduction
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Morris, H. & Wallach, J. (2014). "From PCP to MXE." Drug Science.
-  - Champion, E. et al. (2022). "Novel [[ketamine]] and MXE-like effects.
+title: "3 Meo Pce"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The compound acts primarily as an NMDA receptor antagonist, producing characteristic
 dissociative effects including [[methoxetamine]]),
@@ -71,7 +55,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish 3 meo pce
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

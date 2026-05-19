@@ -1,10 +1,10 @@
 ---
-title: Mckenna Food Gods [[shamanism-techniques-of-ecstasy]] Mircea Eliade
-source: mckenna_t-food_of_the_gods.md
-topic: "Shamanism as the original human religion and its suppression by [[powell-ancient-entheogenic-cults-and-the-religious-impulse]] of the
-human species, one that predates and underlies all subsequent
-spiritual traditions.
+title: "Mckenna Food Gods Shamanism Techniques Of Ecstasy Mircea Eliade"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Eliade's "Techniques of Ecstasy"
 
@@ -43,10 +43,10 @@ McKenna places psychoactive plants at the center of shamanic
 tradition. The ethnographic record is unambiguous: the majority of
 the world's shamanic cultures employ [[chacruna-psychotria-viridis]]*) serves as
 the central sacrament. In North America, **peyote** (*Lophophora
-williamsii*) has been used for millennia. In Mesoamerica, **psilocybin
+williamsii*) has been used for millennia. In Mesoamerica, **[[psilocybin]]
 mushrooms** formed the basis of the mushroom cults. In West Africa,
-**iboga** (*Tabernanthe iboga*) is used by the Bwiti. In Siberia, the
-**Amanita muscaria** mushroom was the sacrament of reindeer-herding
+**iboga** (*[[tabernanthe-iboga]]*) is used by the Bwiti. In Siberia, the
+**[[amanita-muscaria]]** mushroom was the sacrament of reindeer-herding
 peoples. Each produces profoundly altered states that shamans interpret
 within culturally specific frameworks — yet the core experience of
 journeying beyond ordinary reality is remarkably consistent.

@@ -1,22 +1,10 @@
 ---
-title: "verpa bohemica"
-created: 2026-05-06
-type: species
-tags:
-  - fungi
-  - ascomycete
-  - edible-fungi
-  - spring-fruiting
-  - mycology
-  - cup-fungi
-  - early-morel
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Kuo, M. (2023). Verpa bohemica. MushroomExpert.com. https://www.mushroomexpert.com/verpa_bohemica.html"
-  - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Weber, N.S. & Smith, A.H. (1985). A [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+title: "Verpa Bohemica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 It is one of the earliest spring-fruiting [[ascomycota]]
 - **Subdivision:** Pezizomycotina
@@ -68,7 +56,7 @@ Paraphyses are cylindrical, septate, with slightly clavate tips 4–6 µm wide.
 
 **Geographic range:** Widely distributed across Europe,  (particularly the [[dmt-containing-plants-united-states-halpern]] and at low elevations.
 
-**Habitat:** Primarily found in riparian zones and floodplain forests, often growing in association with cottonwood (*[[gyromitra-esculenta]]* | Brain-like mass | Solid stipe, much higher [[gyromitrin]] |
+**Habitat:** Primarily found in riparian zones and floodplain forests, often growing in association with [[cottonwood]] (*[[gyromitra-esculenta]]* | Brain-like mass | Solid stipe, much higher [[gyromitrin]] |
 
 ## Overview
 
@@ -80,7 +68,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish verpa bohemica
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -94,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Verpa Bohemica finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

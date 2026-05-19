@@ -1,18 +1,10 @@
 ---
-title: "Piper auritum"
-type: species
-tags:
-  - piperaceae
-  - culinary-herb
-  - medicinal-plant
-  - tropical-plant
-  - essential-oil
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Dyer, L.A. & Palmer, A.D. (2004). "Piper: A Model Genus for Studies of Phytochemistry, Ecology, and Evolution." Springer.
-  - Gupta, M.P. (1995). "270 Plants of South America with [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] into northern South America.
+title: "Piper Auritum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is most widely recognized for its large, heart-shaped leaves that emit a distinctive anise-like aroma when crushed. This characteristic scent is primarily due to the presence of safrole in its essential oil.
 
@@ -86,7 +78,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish piper auritum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -100,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Piper Auritum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

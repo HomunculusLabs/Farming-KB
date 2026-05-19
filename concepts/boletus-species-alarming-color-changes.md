@@ -1,15 +1,10 @@
 ---
----poisionous-fungi-by-john-ramsbottom-1945.md type: concept ---
-Several species of Boletus produce dramatic colour changes when their
-flesh is cut, bruised, or exposed to air. The most spectacular is an
-instant vivid blue, caused by the oxidation of chromogenic compounds in
-the presence of enzymes. [[john-ramsbottom]], in his 1945 monograph
-*Poisonous Fungi*, devoted considerable attention to dispelling the
-widespread belief that blue-staining boletes are necessarily poisonous.
-His treatment of Boletus satanas, B. luridus, B. erythropus, and B.
-felleus illustrates how colour change has misled generations of
-collectors.
+title: "Boletus Species Alarming Color Changes"
+type: concept
+tags: []
+sources: []
 ---
+
 ## The Chemistry of Flesh Colour Change
 The colour change in boletes is a chemical phenomenon. Certain
 substances called chromogens (for example, boletol in Boletus species)
@@ -69,9 +64,9 @@ reaction. The reddish dots on the stem distinguish it from the net-
 patterned B. luridus in the field, though both share the alarming blue
 colour change on bruising.
 ## Boletus Felleus — Bitter Bolete
-Boletus felleus presents a different kind of hazard: not poisoning, but
+[[boletus-felleus]] presents a different kind of hazard: not poisoning, but
 overwhelming bitterness. When young, with tubes still white, it can be
-confused with the prized Boletus edulis (cep or porcini). The network on
+confused with the prized [[boletus-edulis]] (cep or porcini). The network on
 the stem is more marked than in B. edulis, and the taste has been
 described as "unforgettable" in its bitterness. Mature specimens are
 readily distinguished by their pink tubes and pores.
@@ -96,7 +91,7 @@ the notion that poisonous fungi grow only in woods. He emphasised that
 able to recognise it and to learn its reputation. No rule-of-thumb
 method is safe."
 This message remains central to modern mycological education. The
-Boletus genus provides a compelling case study: among the blue- staining
+[[boletus-genus]] provides a compelling case study: among the blue- staining
 species, some are excellent edibles (B. edulis stains slightly), some
 are edible but alarming (B. luridus, B. erythropus), some are edible
 with caveats (B. satanas when cooked), and some are merely bitter (B.

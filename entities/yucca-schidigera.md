@@ -1,19 +1,16 @@
 ---
-title: "Yucca schidigera"
-type: species
-tags:
-  - asparagaceae
-  - desert-plant
-  - saponins
-  - herbal-plant
-  - [[psilocybin-north-america-pacific-northwest]].
+title: "Yucca Schidigera"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is commercially significant for its high saponin content, extracted and sold as a natural surfactant and feed additive.
 
 Mojave yucca has a long history of ethnobotanical use among indigenous peoples of the American Southwest.
 
-The plant is increasingly valued in permaculture and [[dighton-fungal-drought-tolerance-plant-water-relations]] and soil-building properties.
+The plant is increasingly valued in [[permaculture]] and [[dighton-fungal-drought-tolerance-plant-water-relations]] and soil-building properties.
 
 ## Taxonomy and Morphology
 

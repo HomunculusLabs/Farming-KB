@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Identify and Forage Chanterelle Mushrooms?
+## How Do I Identify and Forage Chanterelle Mushrooms?
 
 ## Short Answer
 

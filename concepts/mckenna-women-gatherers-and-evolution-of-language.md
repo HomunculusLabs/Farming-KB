@@ -1,15 +1,10 @@
 ---
-title: mckenna women gatherers and evolution of language and the Evolution of Language
-created: 2026-04-28
-tags:
-  - linguistics
-  - human-evolution
-  - gender-studies
-  - mckenna
-  - food-of-the-gods
-  - [[fukuoka-america-revisited-agricultural-revolution]] into a coherent narrative about how language
-arose, who possessed it, and what its emergence cost humanity.
+title: "Mckenna Women Gatherers And Evolution Of Language"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## The Hunter Versus the Gatherer
 
@@ -82,7 +77,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish mckenna women gatherers and evolution of language
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

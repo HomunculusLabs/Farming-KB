@@ -1,22 +1,10 @@
 ---
-title: "Durvillaea antarctica"
-type: species
-tags:
-  - seaweed
-  - phaeophyceae
-  - kelp
-  - marine-algae
-  - edible
-  - brown-algae
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Fraser, C.I. et al. (2009). "Genetic and morphological relationships of the southern bull kelp." Journal of Phycology, 45, 551-558.
-  - Hay, C.H. (1979). "Some aspects of the biology of Durvillaea antarctica (Chamisso) Hariot." PhD thesis, University of Canterbury.
-  - Fraser, C.I. et al. (2012). "Rafting by bull kelp." Journal of the Royal Society of New Zealand, 42, 1-12.
-  - Collantes, G. et al. (2002). "Studies in the genus Durvillaea." Gayana Botánica, 59, 53-58.
-  - Bischoff-Bäsmann, B. & Wiencke, C. (1996). "[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], forming extensive beds along the coasts of Chile, New Zealand, and subantarctic islands.
+title: "Durvillaea Antarctica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is remarkable for its buoyant, honeycomb-filled fronds and its role in long-distance rafting dispersal. It is culturally significant as a traditional food source for Māori and Mapuche peoples and is commercially harvested in Chile.
 
@@ -70,7 +58,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish durvillaea antarctica
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -84,7 +72,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Durvillaea Antarctica finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

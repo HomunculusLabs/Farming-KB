@@ -1,20 +1,10 @@
 ---
-title: "Calamintha nepeta"
-type: species
-tags:
-  - lamiaceae
-  - culinary-herb
-  - aromatic
-  - medicinal-herb
-  - pollinator-plant
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Morris S. (1997). "A Monograph of the Genus Calamintha (Labiatae)." Botanical Journal of the Linnean Society, 125(4), 341-373.
-  - Formisano C. et al. (2012). "Chemical Composition and Antimicrobial Activity of Calamintha nepeta permaculture-designers-manual-essential-oil-plants." Chemistry & Biodiversity, 9(4), 723-734.
-  - Tutin T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
-  - Piccaglia R. et al. (1993). "[[psilocybin-north-america-pacific-northwest]] (northeastern [[savory-growing-season-and-non-growing-season-management]]. It is drought-tolerant once established.
+title: "Calamintha Nepeta"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Cultivation
 
@@ -38,7 +28,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish calamintha nepeta
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -52,7 +42,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Calamintha Nepeta finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

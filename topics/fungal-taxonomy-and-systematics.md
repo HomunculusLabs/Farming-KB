@@ -11,7 +11,7 @@ tags:
 created: 2026-05-19
 ---
 
-# Fungal Taxonomy and Systematics
+## Fungal Taxonomy and Systematics
 
 Fungal taxonomy and systematics is the science of classifying, naming, and
 understanding the evolutionary relationships of fungi. It is a field that has

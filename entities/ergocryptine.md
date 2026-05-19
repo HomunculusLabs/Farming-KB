@@ -1,21 +1,10 @@
 ---
 title: "Ergocryptine"
-created: 2026-04-28
-type: chemical
-tags:
-  - ergot-alkaloid
-  - ergopeptine
-  - ergoline
-  - dopamine-agonist
-  - [[lysergic-acid]]-derivative
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Berde, B. & Schild, H.O. (1978). [[claviceps-purpurea]]-chemistry-and-water-soluble-ergot-alkaloids and Related Compounds. Springer-Verlag."
-  - "Hofmann, A. (1978). \"The [[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related fungi.
-It is a cyclic tripeptide derivative of [[ergot-and-lysergic-acid-history]], classified
-structurally as an ergoline.
+type: entity
+tags: []
+sources: []
 ---
+
 
 Ergocryptine exists in two epimeric forms: α-ergocryptine and
 β-ergocryptine (also called ergocristinine), differing in stereochemistry
@@ -61,7 +50,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish ergocryptine
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -75,7 +64,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ergocryptine finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

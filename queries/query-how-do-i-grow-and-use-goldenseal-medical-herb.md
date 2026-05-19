@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Grow and Use Goldenseal?
+## How Do I Grow and Use Goldenseal?
 
 ## Short Answer
 
@@ -77,7 +77,7 @@ Wild goldenseal populations have declined significantly due to habitat loss and 
 The plant is listed as at-risk by conservation organizations, and wild harvesting is discouraged in most regions.
 Growing your own goldenseal is the most sustainable approach and aligns with permaculture ethics of earth care and fair share.
 The [[goldenseal-permaculture]] approach integrates the plant into designed forest-farming systems for long-term yield.
-Bill Mollison discussed goldenseal cultivation in the context of temperate forest gardens, as documented in [[goldenseal-mollison]].
+Bill Mollison discussed goldenseal cultivation in the context of temperate forest gardens, as documented in [[hydrastis-canadensis]].
 By cultivating rather than wildcrafting, you contribute to conservation while building a personal [[herbal-medicine]] apothecary.
 
 ### What About Companion Plants for Goldenseal?

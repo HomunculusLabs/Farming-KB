@@ -1,22 +1,10 @@
 ---
 title: "Starfighter"
-type: strain
-tags:
-  - cannabis
-  - hybrid
-  - chemdog-lineage
-  - lemon-aroma
-  - resinous
-  - cali-genetics
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Leafly Strain Database. "Starfighter." leafly.com.
-  - AllBud Strain Reviews. "Starfighter." allbud.com.
-  - SeedFinder Database. "Starfighter." seedfinder.eu.
-  - Dutch Passion Seed Co. "[[cannabis-strain-breeding-techniques]] notes." dutch-passion.com.
-  - "[[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **Chemdawg 91** (also known as Alien Dawg) with **Lemon OG** (also called Lemon Alien).
+type: entity
+tags: []
+sources: []
 ---
+
 
 The strain was developed by Alien Genetics and gained recognition for its exceptionally resinous buds and complex citrus-fuel aroma.
 
@@ -83,7 +71,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish starfighter
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -97,7 +85,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Starfighter finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

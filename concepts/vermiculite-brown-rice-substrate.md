@@ -1,32 +1,32 @@
 ---
-title: Vermiculite Brown Rice Substrate
-created: 2026-05-11
-source: PF TEK by Psilocybe Fanaticus (1996)
-tags: [substrate, vermiculite, brown-rice, cultivation, mycology, PF-TEK, mushroom-growing]
-aliases: [BRF substrate, brown rice flour substrate, [[boil-a-bag-mushroom-cultivation-method]]. Developed by Psilocybe Fanaticus, this substrate formulation combines **vermiculite** (as a structural, moisture-retaining matrix) with **powdered brown rice** (as a nutrient source) and water to create an ideal growth medium for *Psilocybe cubensis* mycelium. This combination replaced earlier grain-based substrates and remains the standard beginner substrate more than three decades after its introduction.
+title: "Vermiculite Brown Rice Substrate"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## PF Substrate Formula
 
 ### Standard Recipe
 
-The original PF substrate formula uses three ingredients in specific proportions:
+The original [[pf-substrate-formula]] uses three ingredients in specific proportions:
 
 | Ingredient | Amount | Purpose |
 |-----------|--------|---------|
 | Vermiculite (horticultural grade) | 1/2 cup per jar | Structural matrix, moisture retention, gas exchange |
-| Brown rice powder (finely ground) | 1/4 cup per jar | Primary nutrient source |
+| [[brown-rice-powder]] (finely ground) | 1/4 cup per jar | Primary nutrient source |
 | Water (distilled preferred) | ~1/4 cup per jar | Hydration for mycelial growth |
 
-This roughly **2:1:1 ratio** (vermiculite:brown rice:water by volume) provides the optimal balance of moisture, nutrients, and aeration for mycelial colonization.
+This roughly **2:1:1 ratio** (vermiculite:brown rice:water by volume) provides the optimal balance of moisture, nutrients, and aeration for [[mycelial-colonization]].
 
 ### Ingredient Quality
 
 The quality of each ingredient significantly affects cultivation success:
 
-**Vermiculite** should be horticultural grade, fine to medium particle size. Coarse vermiculite provides less surface area for mycelial colonization and holds less water. The vermiculite should be clean and free of contaminants. Fanaticus explicitly stated that vermiculite is the "magic ingredient" of the PF TEK — a ubiquitous horticultural product in the United States and Holland that may be harder to source in some countries (an Italian modification of the TEK substituted sand, perlite, whole grain brown rice, and rye grains, though this was not recommended).
+**Vermiculite** should be horticultural grade, fine to medium particle size. Coarse vermiculite provides less surface area for mycelial colonization and holds less water. The vermiculite should be clean and free of contaminants. Fanaticus explicitly stated that vermiculite is the "magic ingredient" of the [[pf-tek]] — a ubiquitous horticultural product in the United States and Holland that may be harder to source in some countries (an Italian modification of the TEK substituted sand, perlite, whole grain brown rice, and rye grains, though this was not recommended).
 
-**Brown rice powder** should be freshly ground from whole brown rice. Pre-packaged brown rice flour may work but can vary in freshness and particle size. The powder should be fine enough to coat the vermiculite particles evenly but not so fine as to create a compacted layer. Whole grain brown rice provides more complete nutrition than white rice because the bran and germ are retained.
+**Brown rice powder** should be freshly ground from whole brown rice. Pre-packaged [[brown-rice-flour]] may work but can vary in freshness and particle size. The powder should be fine enough to coat the vermiculite particles evenly but not so fine as to create a compacted layer. Whole grain brown rice provides more complete nutrition than white rice because the bran and germ are retained.
 
 **Water** should ideally be distilled or boiled and cooled. Tap water may contain chlorine or other chemicals that could inhibit mycelial growth, though many cultivators report success with tap water. The critical factor is achieving the correct moisture content in the final substrate.
 
@@ -61,7 +61,7 @@ The **dry vermiculite layer** at the top of each jar is one of the PF TEK's most
 - **Gas exchange**: Despite being dry, vermiculite still allows gas exchange, preventing the buildup of CO₂ that could stall colonization
 - **Inoculation target**: The dry vermiculite is where the spore solution is deposited, allowing it to percolate into the moist substrate below
 
-This simple innovation is what allows the PF TEK to work without a laminar flow hood or sophisticated sterile technique. The dry vermiculite barrier provides a level of contamination protection comparable to much more complex filtration systems.
+This simple innovation is what allows the PF TEK to work without a [[laminar-flow-hood]] or sophisticated sterile technique. The dry vermiculite barrier provides a level of contamination protection comparable to much more complex filtration systems.
 
 ## Sterilization
 

@@ -1,21 +1,10 @@
 ---
-title: "Tabebuia avellanedae"
-created: 2026-04-28
-type: species
-tags:
-  - plants
-  - bignoniaceae
-  - tabebuia
-  - medicinal
-  - [[agroforestry]]
-  - nitrogen-fixing
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Lock O. (2011). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants from Natural Sources." CRC Press.
-  - Upton R. (2004). "Pau d'Arco ([[guzman-psilocybin-mushrooms-south-america]]. It is one of the most important medicinal trees in
-[[mollison-designers-gallery-forests-and-valley-bottomland-systems]].
+title: "Tabebuia Avellanedae"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Overview
 
@@ -27,7 +16,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish tabebuia avellanedae
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -41,7 +30,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tabebuia Avellanedae finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

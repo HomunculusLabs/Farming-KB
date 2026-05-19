@@ -1,20 +1,10 @@
 ---
-title: Terence Mckenna Ethnobotany And Psychedelic Plant Intelligence
-subtitle: "The life, theories, and legacy of the philosopher-ethnobotanist who argued that psychedelic plants shaped human evolution and consciousness."
-tags: [mckenna, ethnobotany, psychedelics, stoned-ape, archaic-revival, dmt, tryptamine, consciousness, shamanism, food-of-the-gods]
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - "raw/papers/mckenna_t-food_of_the_gods.md"
-  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
-related_concepts:
-  - mckenna-stoned-ape-hypothesis
-  - mckenna-archaic-revival
-  - [[mckenna-food-gods-fall-consciousness]]
-  - mckenna-dominator-vs-partnership-society-model
-  - [[mckenna-transcendent-other-and-exopheromones]]
-  - mckenna-[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained|Mckenna]], Ethnobotany, and the Intelligence of
+title: "Terence Mckenna Ethnobotany And Psychedelic Plant Intelligence"
+type: topic
+tags: []
+sources: []
 ---
+
 ## [[i-thou-relationship-with-psychedelic-entities]] plants was not
 an incidental feature of prehistory but a driving force in the
 emergence of language, religion, art, and social organization. His
@@ -25,7 +15,7 @@ discussions about consciousness and plant intelligence.
 McKenna's work is distinguished by its synthesis of fields rarely
 combined: mycology, cultural anthropology, pharmacology, comparative
 religion, and speculative philosophy. He drew on the work of R.
-Gordon Wasson, Mircea Eliade, Riane Eisler, Carl Jung, and Julian
+[[gordon-wasson]], [[mircea-eliade]], Riane Eisler, [[carl-jung]], and Julian
 Jaynes, weaving their insights into an original narrative about the
 deep history of human-plant relationships. Whether one accepts his
 more speculative claims, his body of work raises enduring questions
@@ -36,7 +26,7 @@ art, ecology, and conservation of natural resources.
 His intellectual trajectory was shaped by several key encounters. The
 publication of R. Gordon Wasson's 1957 *Life* magazine article
 identifying the Vedic Soma as a psychoactive mushroom opened the
-field of ethnomycology to a wider audience and gave McKenna a
+field of [[ethnomycology]] to a wider audience and gave McKenna a
 historical framework for understanding mushroom use. Carl Jung's
 writings on the collective unconscious and archetypes provided a
 psychological vocabulary for interpreting psychedelic experiences.
@@ -72,7 +62,7 @@ social hierarchy and competitive behavior.
 
 ## Overview
 
-Terence Mckenna Ethnobotany And Psychedelic Plant Intelligence represents an important element within sustainable
+[[terence-mckenna]] Ethnobotany And Psychedelic Plant Intelligence represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -94,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Terence Mckenna Ethnobotany And Psychedelic Plant Intelligence finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

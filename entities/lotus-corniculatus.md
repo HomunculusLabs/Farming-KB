@@ -1,25 +1,10 @@
 ---
-title: "Lotus corniculatus"
-created: 2026-05-06
-type: species
-tags:
-  - fabaceae
-  - forage-legume
-  - nitrogen-fixer
-  - permaculture
-  - ground-cover
-  - pollinator-plant
-  - medicinal-plant
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Frame, J. (2003). "Forage legumes for temperate grasslands."
-    Science Publishers, Enfield, NH.
-  - Acuña, C.A., et al. (2009). "Lotus species: taxonomy, genetics,
-    and breeding." [[fungi-in-the-environment-symbiotic-relationships]] with rhizobia to fix atmospheric
-nitrogen, making it valuable in [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-north-america]],
-it occurs in all contiguous US states and most Canadian provinces.
+title: "Lotus Corniculatus"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Grows in a wide range of habitats: grasslands, meadows, roadsides,
 pastures, and disturbed sites. Tolerates poor, acidic, and shallow soils
@@ -48,7 +33,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish lotus corniculatus
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -62,7 +47,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lotus Corniculatus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

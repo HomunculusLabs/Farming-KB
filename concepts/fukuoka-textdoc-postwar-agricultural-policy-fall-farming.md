@@ -1,13 +1,10 @@
 ---
-title: Fukuoka Textdoc Postwar Agricultural Policy Fall Farming
-source: administrator-[[microsoft-word]]-fukuoka-textdoc.md
-author: [[fukuoka-breakdown-japanese-agriculture]]. He traced the process from the
-postwar food control system, through the [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] could be put to better
-use in industry and housing than for food production. City dwellers began to see
-farmers, who were reluctant to part with their land, as selfish monopolizers of
-land. Laborers and office workers joined in the effort to drive farmers off their
-land, and taxes as high as those on housing land were levied on farmland.
+title: "Fukuoka Textdoc Postwar Agricultural Policy Fall Farming"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## The Farmer Loses Land and Freedom
 Fukuoka documented how the effort by farmers to raise food production backfired
@@ -88,7 +85,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish fukuoka textdoc postwar agricultural policy fall farming
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

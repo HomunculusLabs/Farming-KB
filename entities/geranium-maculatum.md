@@ -1,18 +1,10 @@
 ---
-title: "Geranium maculatum"
-type: species
-tags:
-  - geraniaceae
-  - woodland-herb
-  - native-medicinal
-  - eastern-north-america
-  - astringent
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - "Foster, S. & Duke, J.A. (1990). A Field Guide to Medicinal Plants. Houghton Mifflin."
-  - "Moerman, D. (1998). Native [[polypore-fungi-eastern-north-america]]. It is widely recognized for its showy lavender-pink flowers and deeply lobed, palmately divided leaves.
+title: "Geranium Maculatum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is one of the most important native medicinal plants of eastern North America, with a long history of use among Indigenous peoples and later European settlers. The root contains significant concentrations of tannins, which account for its potent astringent properties.
 
@@ -76,7 +68,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish geranium maculatum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -90,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Geranium Maculatum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

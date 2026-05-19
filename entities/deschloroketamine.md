@@ -1,22 +1,10 @@
 ---
 title: "Deschloroketamine"
-created: 2026-04-28
-type: chemical
-tags:
-  - chemical
-  - dissociative
-  - arylcyclohexylamine
-  - nmda-antagonist
-  - research-chemical
-  - ketamine-analogue
-  - psychoactive
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Morris, H. & Wallach, J. (2014). \"From [[pcp]] to MXE.\" Drug Science, Policy and Law, 1, 1–17."
-  - "Wallach, J. et al. (2019). \"The pharmacology of dissociative anesthetics.\" In Pharmacology of LSD. Springer."
-  - "EMCDDA. (2024). EU Early Warning System: New [[ketamine]] by removal of the chloro substituent on the phenyl ring.
+type: entity
+tags: []
+sources: []
 ---
+
 
 It functions primarily as an NMDA receptor antagonist, producing dissociative, analgesic, and hallucinogenic effects similar to ketamine but with distinct pharmacokinetic and subjective properties.
 
@@ -69,7 +57,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish deschloroketamine
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

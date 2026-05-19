@@ -1,17 +1,3 @@
----
-title: "Solanum carolinense"
-type: species
-tags:
-  - solanaceae
-  - invasive-weed
-  - toxic-plant
-  - solanaceae
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Bassett, I.J. & Munro, D.B. (1986). "The biology of Canadian weeds. 73. Solanum carolinense L." Canadian Journal of Plant Science, 66(4), 977-991.
-  - Cipollini, D.F. et al. (2008). "The potential for [[guzman-psilocybin-mushrooms-north-america]] as an aggressive agricultural weed.
----
 
 The plant is notable for its sharp spines, yellow berries, and high toxicity due to solanine glycoalkaloids. All parts of the plant are poisonous to livestock and humans if ingested.
 
@@ -77,7 +63,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish solanum carolinense
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -91,7 +77,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Solanum Carolinense finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +134,4 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[solanum-dulcamara]]
 - [[solanum-lycopersicum]]
-- [[solanum-melongena]]
+

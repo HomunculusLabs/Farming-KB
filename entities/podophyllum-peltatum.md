@@ -1,26 +1,10 @@
 ---
-title: "Podophyllum peltatum"
-created: 2026-05-06
-type: species
-tags:
-  - plant
-  - berberidaceae
-  - medicinal-plant
-  - toxic-plant
-  - north-american-native
-  - podophyllotoxin
-  - anticancer
-  - woodland-herb
-  - permaculture|permaculture
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Moraes, M.D., et al. (2020). "Podophyllotoxin: current perspectives on its anticancer and antiviral activities." Phytotherapy Research, 34(8), 1832-1846.
-  - Canel, C., et al. (2000). "Podophyllotoxin." Phytochemistry, 54(2), 115-120.
-  - Imbert, C. (1998). "Discovering podophyllotoxins." Biochimie, 80(3), 207-222.
-  - Moerman, D.E. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press.
-  - Lloyd, J.U. (1924). "Podophyllum peltatum." Bulletin of the [[lloyd-library]]|[[polypore-fungi-eastern-north-america]] America. It is the primary natural source of podophyllotoxin, a lignan compound used in the semi-synthesis of the anticancer drugs etoposide and teniposide.
+title: "Podophyllum Peltatum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is immediately recognizable by its single large, umbrella-like leaf (two leaves in mature, fruiting plants) and the single waxy white flower that nodds beneath the leaf canopy. The common name "mayapple" reflects its emergence in spring and the apple-like fruit that ripens in late summer.
 
@@ -88,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish podophyllum peltatum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

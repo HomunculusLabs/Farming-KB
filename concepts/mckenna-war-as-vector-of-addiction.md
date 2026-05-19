@@ -1,12 +1,10 @@
 ---
-source: mckenna_t-food_of_the_gods.md
-source_author: [[mckenna-food-gods-opium-wars-psychopharmacology-de-quincey]], from the Franco-Prussian War to
-modern intelligence operations, armed conflict has repeatedly functioned as a
-pipeline for drug dependence, creating markets and habits that outlast the
-conflicts themselves. This pattern is not accidental but structural — war
-creates the conditions (mass trauma, disrupted supply chains, covert funding
-needs) that make drug proliferation inevitable.
+title: "Mckenna War As Vector Of Addiction"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Morphine and the American Civil War
 
@@ -83,7 +81,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish mckenna war as vector of addiction
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

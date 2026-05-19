@@ -1,15 +1,3 @@
----
-title: Palmer Mushroom Cooking Culinary Uses
-created: 2026-04-26
-updated: 2026-04-26
-sources: [About Mushrooms - Julius Auboineau Palmer (1894)]
-author: Julius Auboineau Palmer
-year: 1894
-tags: [[palmer-edible-mushrooms-north-america]], [[edible-wild-mushrooms-by-region]], grounded in his personal experience
-of eating them "three times a day" during the season. He was sharply
-critical of prevailing cook-book practices that disguised the natural
-flavor of fungi.
----
 
 ## The Two Proper Cooking Methods
 
@@ -22,8 +10,8 @@ Palmer insisted there are only two correct ways to cook mushrooms:
 - Sprinkle with salt
 - If the species is well known as esculent, add red pepper
 - Butter as the fire browns them
-- Best for: honey-colored mushroom (Agaricus melleus), elm-tree
-  mushroom (Agaricus ulmarius), and any others that taste raw of
+- Best for: honey-colored mushroom ([[agaricus-melleus]]), elm-tree
+  mushroom ([[agaricus-ulmarius]]), and any others that taste raw of
   grass or trees
 
 ### 2. Stewing in Milk
@@ -77,7 +65,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish palmer mushroom cooking culinary uses
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -91,7 +79,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Palmer Mushroom Cooking Culinary Uses finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +136,4 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[mushroom-toxicology-palmer-theory]]
 - [[palmer-amanitine-poison-classification-treatment]]
-- [[palmer-fungus-reproduction-spawn]]
+

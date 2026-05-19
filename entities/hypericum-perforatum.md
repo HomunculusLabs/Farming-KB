@@ -1,12 +1,10 @@
 ---
-title: Hypericum perforatum
-type: species
-tags:
-  - herbal-plant
-  - medicinal-plant
-  - antidepressant
-  - [[panax-ginseng]] and regarded as a problematic invasive species in some regions.
+title: "Hypericum Perforatum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Classification
 
@@ -58,7 +56,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish hypericum perforatum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

@@ -1,20 +1,10 @@
 ---
-title: "Himanthalia elongata"
-type: species
-tags:
-  - seaweed
-  - edible-algae
-  - phaeophyceae
-  - marine-botany
-  - nutrition
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Pérez, M.J. et al. (2020). "dighton-fungal-nutritional-composition-animal-diets of edible seaweeds." Journal of Applied Phycology, 32(1), 1-15.
-  - Guiry, M.D. & Guiry, G.M. (2025). "Himanthalia elongata." AlgaeBase. National University of Ireland.
-  - Fleurence, J. (2016). "Seaweeds as food." In: Seaweed in Health and cervantes-pest-disease-prevention-overview. Academic Press, pp. 149-167.
-  - Jiménez-Escrig, A. et al. (2012). "Dietary fiber and [[fucus-vesiculosus]]**, **[[laminaria-digitata]]**. It attaches firmly to stable rock substrates and is absent from sandy or muddy bottoms.
+title: "Himanthalia Elongata"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Nutritional Value
 
@@ -48,7 +38,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish himanthalia elongata
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -62,7 +52,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Himanthalia Elongata finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

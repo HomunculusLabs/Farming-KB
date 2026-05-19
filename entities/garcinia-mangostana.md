@@ -1,28 +1,10 @@
 ---
-title: Garcinia mangostana
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - clusiaceae
-  - mangosteen
-  - tropical-fruit
-  - xanthones
-  - mangostin
-  - antioxidant
-  - anti-inflammatory
-  - medicinal
-  - southeast-asia
-  - permaculture
-  - agroforestry
-  - evergreen
-  - superfruit
-sources:
-  - Kondo, S. et al. (2009). "Antioxidant properties of garcinol." Journal of Agricultural and Food Chemistry, 57(15), 6844–6852.
-  - Pedraza-Chaverri, J. et al. (2008). "[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]." HortScience, 41(7), 1602–1607.
-  - Martin, F.W. (1980). "Durian and mangosteen." In: Tropical and Subtropical Fruits. AVI Publishing.
-  - Osman, A. & Milan, A.R. (2006). Production Practices and [[psilocybe-southeast-asia-pacific]].
+title: "Garcinia Mangostana"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is believed to have originated in the Sunda Islands and the Moluccas of Indonesia. It has been cultivated throughout Southeast Asia for centuries and was introduced to tropical America and Australia in more recent times.
 
@@ -60,7 +42,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish garcinia mangostana
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -74,7 +56,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Garcinia Mangostana finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

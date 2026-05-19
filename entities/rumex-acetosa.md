@@ -1,17 +1,10 @@
 ---
-title: "Rumex acetosa"
-created: 2026-04-28
-type: species
-tags: [species, plant, polygonaceae, edible-herb, [[psilocybin-north-america-pacific-northwest]] and is widely cultivated
-as a culinary herb. Sorrel is prized for its distinctive sharp,
-lemon-sour flavor, which comes from high concentrations of oxalic
-acid in the leaves. The plant has a long history of culinary and
-medicinal use dating back to [[food-forest]]
-designs, sorrel serves as a productive ground-cover perennial
-that provides [[blesching-cannabis-rheumatoid-arthritis]] should consume
-sorrel in moderation due to oxalate's potential to aggravate
-these conditions. Cooking reduces oxalic acid content by 30-50%.
+title: "Rumex Acetosa"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Culinary Uses
 
@@ -31,7 +24,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish rumex acetosa
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -45,7 +38,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Rumex Acetosa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

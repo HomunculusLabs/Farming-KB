@@ -1,20 +1,13 @@
 ---
 title: "Tryptamine Hallucinogens And Nature Of Consciousness"
-created: 2026-05-11
-source: mckenna_t-tryptamines_consciousness.md
-tags: [consciousness, tryptamine, mckenna, psychedelics, philosophy-of-mind, phenomenology]
-aliases: [[alexander-shulgin]] demonstrating that
-moving a single atom on the molecular ring of an inactive tryptamine compound
-transforms it into a highly active psychedelic. To McKenna, this was "a perfect
-proof of the dynamic linkage at the formative level between quantum mechanically
-described matter and mind." The exquisite sensitivity of subjective experience
-to molecular structure suggests that consciousness and physical matter share a
-fundamental operational level.
+type: concept
+tags: []
+sources: []
 ---
 
 ## The Logos: Language Beyond Language
 
-McKenna's central thesis is that DMT and psilocybin "invoke the Logos" — they
+McKenna's central thesis is that DMT and [[psilocybin]] "invoke the Logos" — they
 activate language centers directly, producing an interior dialogue that conveys
 information from an alien source. This concept draws on several traditions:
 
@@ -89,7 +82,7 @@ description in the absence of rigorous experimental methodology.
 
 ## See Also
 
-- dmt nn dimethyltryptamine pharmacology and experience — DMT pharmacology
+- [[dmt-nn-dimethyltryptamine-pharmacology-and-experience]] — DMT pharmacology
 - [[ayahuasca-pharmacology-and-drug-interactions]] — ayahuasca as DMT delivery system
 - [[serotonin-receptor-interference-psychedelic-mechanism]] — neurobiological mechanisms
 ## Practical Applications
@@ -119,3 +112,11 @@ Field experience and systematic observation remain the most reliable guides for 
 ## Future Directions
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
+
+Understanding these interconnected mechanisms provides a foundation for both research applications and practical implementation in relevant systems and contexts.
+
+This synthesis highlights the importance of cross-disciplinary
+approaches to understanding complex biological phenomena.
+The interplay between molecular mechanisms and ecological
+context continues to yield new insights for practitioners.
+

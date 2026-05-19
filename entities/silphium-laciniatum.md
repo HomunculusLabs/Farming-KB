@@ -1,24 +1,10 @@
 ---
-title: "Silphium lacinatum"
-created: 2026-04-28
-type: species
-tags:
-  - asteraceae
-  - prairie-native
-  - permaculture
-  - medicinal-plant
-  - pollinator
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Kaul, R.B. (1986). \"Floral and cannabis-leaf-morphology-and-phyllotaxy phenology of Silphium laciniatum.\" American Midland Naturalist, 115(1), 81-90."
-  - "Morrow, P.A. & Powles, S.B. (1988). \"Comparative biology of the prairie Silphium species.\" Prairie Naturalist, 20, 75-92."
-  - "Foster, S. & Duke, J.A. (1990). A [[psilocybin-north-america-pacific-northwest]].
-Named for its distinctive north-south oriented basal leaves that track
-the sun, it is a deep-rooted, long-lived species reaching heights of
-2–3.5 meters. The compass plant is valued in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], and ethnobotanical traditions for its resinous
-medicinal gum, [[dighton-fungal-drought-tolerance-plant-water-relations]].
+title: "Silphium Laciniatum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy
 
@@ -63,7 +49,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish silphium laciniatum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -77,7 +63,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Silphium Laciniatum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

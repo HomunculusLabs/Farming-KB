@@ -1,10 +1,10 @@
 ---
-title: "Astragalus membranaceus (Astragalus Root)"
-created: 2026-04-28
-type: species
-tags: [herbal-plant, adaptogen, traditional-chinese-medicine, immunomodulator, [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] herbs in Traditional Chinese Medicine (TCM). Native to the arid and semi-arid regions of northern China, Mongolia, and Korea, it has been used medicinally for over 2,000 years to strengthen vitality, support immune function, and [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] typically 4–5 years old. Astragalus is classified as a premier **adaptogen** — a substance that helps the body maintain homeostasis and resist the damaging effects of stress through broad, non-specific physiological support.
-In modern [[adaptogenic-herbs-guide]], with over 3,000 published scientific studies.
+title: "Astragalus Membranaceus"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy
 
@@ -31,7 +31,7 @@ Native to dry, sandy soils in:
 - Mongolia
 - Korea
 - Eastern Siberia
-It thrives in full sun, well-drained sandy or loamy soils, and tolerates drought, cold (hardy to USDA Zone 4), and poor soils. These characteristics make it well-suited for permaculture applications in challenging environments.
+It thrives in full sun, well-drained sandy or loamy soils, and tolerates drought, cold (hardy to USDA Zone 4), and poor soils. These characteristics make it well-suited for [[permaculture]] applications in challenging environments.
 
 ## Active [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Astragalus Membranaceus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

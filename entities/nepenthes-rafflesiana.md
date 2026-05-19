@@ -1,19 +1,10 @@
 ---
-title: "Nepenthes rafflesiana"
-type: species
-tags:
-  - carnivorous-plant
-  - nepenthaceae
-  - pitcher-plant
-  - tropical
-  - melayu
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - Adam, J.H., Wilcock, C.C. (1998). "A review of the genus Nepenthes in Borneo." Journal of [[arbuscular-mycorrhizal-fungi]]-in-tropical-forest-restoration Science, 10(2), 159-178.
-  - McPherson, S.R. (2009). "Pitcher Plants of the [[psilocybe-southeast-asia-pacific]], particularly Borneo, Sumatra, Peninsular Malaysia, and Singapore. It is one of the most widespread and morphologically variable species in the genus.
+title: "Nepenthes Rafflesiana"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is named in honor of Sir Stamford Raffles, founder of modern Singapore. It produces two distinct pitcher types — lower terrestrial and upper aerial — that differ markedly in size, shape, and coloration.
 
@@ -87,7 +78,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish nepenthes rafflesiana
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -101,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Nepenthes Rafflesiana finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

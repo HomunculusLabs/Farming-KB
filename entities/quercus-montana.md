@@ -1,18 +1,10 @@
 ---
-title: "Quercus montana"
-type: species
-tags:
-  - fagaceae
-  - temperate-hardwood
-  - timber-tree
-  - native-north-american
-  - ridge-oak
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of [[psilocybin-north-america-pacific-northwest]]: Volume 2 — Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Stein, J.D. et al. (2003). "Quercus." In: Flora [[bolete-fungi-appalachian-region]] and adjacent areas of [[castanea-dentata]]*), giving the tree its common name.
+title: "Quercus Montana"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -86,7 +78,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish quercus montana
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -100,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Quercus Montana finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,25 +1,10 @@
 ---
-title: "Petroselinum crispum"
-type: species
-tags:
-  - apiaceae
-  - culinary-herb
-  - medicinal-plant
-  - biennial
-  - kitchen-garden
-  - traditional-medicine
-  - herbalism
-  - nutrient-dense
-  - carotenoid-rich
-  - antioxidant
-  - diuretic
-  - apiol
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Simon, J.E. (1990). "Parsley, Petroselinum crispum." In J. Janick & J.E. Simon (Eds.), Advances in New Crops. Timber Press.
-  - Farooq, A. et al. (2013). "A review on [[apium-graveolens]]) and shares many of its aromatic and phytochemical characteristics.
+title: "Petroselinum Crispum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Morphology
 
@@ -67,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish petroselinum crispum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

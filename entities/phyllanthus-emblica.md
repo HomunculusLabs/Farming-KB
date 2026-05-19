@@ -1,25 +1,10 @@
 ---
-title: "Phyllanthus emblica"
-created: 2026-04-28
-type: species
-tags:
-  - medicinal-plant
-  - ayurveda
-  - antioxidant
-  - edible-fruit
-  - tropical-fruit
-  - rasayana
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Kumar, S. et al. (2021). \"Phyllanthus emblica L.: A Comprehensive Review.\" Phytomedicine, 86, 153568."
-  - "Khopde, S.M. et al. (2001). \"Antioxidant Activity of Amla.\" Phytotherapy Research, 15(6), 505-510."
-  - "Bhatt, I.D. et al. (2017). \"Phyllanthus emblica: Chemistry [[psilocybe-southeast-asia-pacific]]. Its fruit
-is among the richest natural sources of ascorbic acid and contains a complex
-array of tannins, flavonoids, and polyphenols. Amla is a premier rasayana
-(rejuvenative) herb in Ayurvedic medicine with over three millennia of
-documented use across South Asian medical traditions.
+title: "Phyllanthus Emblica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy
 
@@ -51,7 +36,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish phyllanthus emblica
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -65,7 +50,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phyllanthus Emblica finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

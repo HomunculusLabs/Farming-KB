@@ -1,19 +1,10 @@
 ---
-title: "Osmundastrum cinnamomeum"
-type: species
-tags:
-  - fern
-  - pteridophyte
-  - osmundaceae
-  - native
-  - wetland
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Metzgar, J.S. et al. (2008). "The resurrection of Osmundastrum." American Fern Journal, 98(3), 104–115.
-  - Yatskievych, G. (1999). "Steyermark's Flora of Missouri." Vol. 1. Missouri Botanical Garden Press.
-  - Flora [[polypore-fungi-eastern-north-america]], Central and [[osmunda-cinnamomea]]* by Linnaeus in 1753. Presl transferred it to *Osmundastrum* in 1848, but it remained in *Osmunda* for most of the 20th century. Molecular studies by Metzgar et al. (2008) confirmed its placement in a separate genus.
+title: "Osmundastrum Cinnamomeum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The genus *Osmundastrum* is monotypic, containing only this single species. It is the oldest living lineage of leptosporangiate ferns, with a fossil record extending back to the Triassic period, over 200 million years ago. Fossil osmundaceous material attributed to *Osmundastrum* has been found on every continent except Antarctica.
 
@@ -71,7 +62,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish osmundastrum cinnamomeum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -85,7 +76,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Osmundastrum Cinnamomeum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

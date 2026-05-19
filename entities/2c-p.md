@@ -1,20 +1,10 @@
 ---
-title: "2C-P"
-type: chemical
-tags:
-  - psychedelic
-  - phenethylamine
-  - 2c-family
-  - pihkal
-  - serotonergic
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Shulgin, A. & Shulgin, A. (1991). "PIHKAL: A Chemical Love Story." Transform Press.
-  - Ray, T.S. (2010). "Psychoactive shulgin-designer-drugs-analysis: The '2C' Family." Drug Enforcement Administration Microgram Journal 8(1): 1–10.
-  - Dean, B.V. et al. (2013). "2C Phenethylamines and NBOMe Compounds." American Journal of Health-System Pharmacy 70(23): 2111–2117.
-  - EMCDDA. (2014). "Europol-EMCDDA Report on New [[alexander-shulgin]]. It is entry #26 in PIHKAL (*Phenethylamines I Have Known and Loved*), published in 1991.
+title: "2C P"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The compound is distinguished among the 2C series by its exceptionally long duration of action — typically 10–16 hours — and its high potency, with active doses ranging from 6–12 mg. These characteristics make 2C-P one of the longest-lasting and most potent members of the 2C family.
 
@@ -80,7 +70,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish 2c p
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -94,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 2C P finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

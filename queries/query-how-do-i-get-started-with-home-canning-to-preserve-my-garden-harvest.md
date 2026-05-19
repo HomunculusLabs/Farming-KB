@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Get Started With Home Canning to Preserve My Garden Harvest?
+## How Do I Get Started With Home Canning to Preserve My Garden Harvest?
 
 ## Short Answer
 

@@ -1,9 +1,8 @@
 ---
-title: Holistic Decision-Making Framework
-created: 2026-04-26
-aliases: [holistic goal setting, HRM model, testing guidelines, holistic context]
-tags: [decision-making, goal-setting, management-framework, holism]
-related: [[savory-ranch-financial-planning]], [[savory-holistic-management-overview]] decision-making framework provides a structured process for making decisions that simultaneously consider economic, social, and ecological factors. At its heart is a "thought model" that enables practitioners to see the whole they are managing and test every action against a comprehensive goal.
+title: "Savory Holistic Decision Making"
+type: concept
+tags: []
+sources: []
 ---
 
 ## The Three-Part Goal
@@ -81,7 +80,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish savory holistic decision making
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -95,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Savory Holistic Decision Making finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +147,3 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also

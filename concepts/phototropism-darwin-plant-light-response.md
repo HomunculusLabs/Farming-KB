@@ -1,14 +1,10 @@
 ---
-title: "Phototropism: Darwin's Discovery of Plant Light Response"
-tags: [phototropism, darwin, phototropism, plant-vision, blue-light, auxin, julius-von-sachs, canary-grass, plant-movement]
-source: "Chamovitz, D. (2012). What a Plant Knows: A [[phototropism]] is the directional growth of a plant toward (positive
-phototropism) or away from (negative phototropism) a light source. This
-ubiquitous plant behavior — observed whenever houseplants bow toward windows —
-was first rigorously characterized by Charles Darwin and his son Francis in
-their 1880 book *The [[darwin-power-of-movement-in-plants]] in Plants*. Their experiments
-demonstrated that plants possess a form of rudimentary sight: the ability to
-detect light direction and translate that information into differential growth.
+title: "Phototropism Darwin Plant Light Response"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Darwin's Experiments
 
@@ -32,7 +28,7 @@ The key insight came from a classic experiment testing which part of the plant
 tip, not at the bending region. They tested five conditions:
 
 1. **Untreated control**: Seedling bent toward light normally, confirming
-   experimental conditions supported phototropism
+   experimental conditions supported [[phototropism]]
 2. **Tip removed**: Seedling did NOT bend — went "blind"
 3. **Tip covered with opaque (lightproof) cap**: Seedling did NOT bend —
    light could not reach the tip
@@ -84,7 +80,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish phototropism darwin plant light response
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -98,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phototropism Darwin Plant Light Response finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

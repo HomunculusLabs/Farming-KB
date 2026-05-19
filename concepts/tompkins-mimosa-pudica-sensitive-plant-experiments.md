@@ -1,21 +1,15 @@
 ---
-title: Tompkins Mimosa Pudica Sensitive Plant Experiments
-created: 2026-04-28
-tags:
-  - [[plant-communication-volatile-organic-compounds]] Plants* documents numerous experiments involving
-**Mimosa pudica**, the "sensitive plant" or "touch-me-not," as a key
-subject for investigating plant sensitivity, electrical signalling, and
-perception. Mimosa pudica's dramatic visible response to touch, its
-leaflets collapsing when disturbed, made it an ideal candidate for
-early [[cleve-backster-plant-perception-experiments]]
-later expanded these investigations into the realm of consciousness and
-perception.
+title: "Tompkins Mimosa Pudica Sensitive Plant Experiments"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Byrd's Instrumentation Experiments
 
 In May 1973, researcher Byrd began instrumenting the tiny leaves of
-Mimosa pudica using a thin wire barely touching a leaf, connected through
+[[mimosa-pudica]] using a thin wire barely touching a leaf, connected through
 a special amplifier to detect minute changes in voltage or resistance.
 Byrd used one of the world's finest chart recorders, a West German Siemens
 device that shot out more than three feet of recording paper per second
@@ -78,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish tompkins mimosa pudica sensitive plant experiments
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tompkins Mimosa Pudica Sensitive Plant Experiments finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

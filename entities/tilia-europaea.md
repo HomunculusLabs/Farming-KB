@@ -1,18 +1,10 @@
 ---
-title: "Tilia europaea"
-type: species
-tags:
-  - malvaceae
-  - temperate-hardwood
-  - ornamental-tree
-  - medicinal-plant
-  - honey-plant
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Pigott, C.D. (2012). Lime-trees and Basswoods. Cambridge University Press.
-  - Farrar, J.L. (1995). Trees of the Northern [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is a natural hybrid between *[[ethnomycology-cultural-significance-sacred-fungi]] in Europe. Linden trees have been planted in village squares, monastery gardens, and royal estates for centuries. They symbolize peace, justice, and community in Germanic and Slavic folklore.
+title: "Tilia Europaea"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Linden flowers produce one of the world's most prized honeys, known as linden or basswood honey. The flowers and bracts have been used medicinally for millennia, particularly as a calming tea for anxiety and insomnia.
 
@@ -56,7 +48,7 @@ European linden is propagated by seed, grafting, or layering. Seeds require warm
 
 [[medicinal-herbs-for-livestock]] in European phytotherapy. They are officially recognized in the European Pharmacopoeia and the German Commission E monographs.
 
-The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include flavonoids (quercetin, kaempferol, and their glycosides), caffeic acid derivatives (chlorogenic acid), mucilage polysaccharides, and volatile oils (farnesol, limonene, eugenol).
+The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include flavonoids (quercetin, [[kaempferol]], and their glycosides), caffeic acid derivatives (chlorogenic acid), mucilage polysaccharides, and volatile oils (farnesol, limonene, eugenol).
 
 Linden flower tea is traditionally used as a mild sedative and anxiolytic. Clinical studies support calming effects, with reductions in blood pressure and mild sedation attributed to flavonoid and volatile oil content.
 
@@ -82,7 +74,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish tilia europaea
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -96,7 +88,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tilia Europaea finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

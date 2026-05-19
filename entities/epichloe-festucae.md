@@ -1,32 +1,14 @@
 ---
-title: "Epichloë festucae"
-type: species
-tags:
-  - fungi
-  - ascomycota
-  - fungal-endophyte
-  - endophyte
-  - clavicipitaceae
-  - grass-symbiosis
-  - alkaloid-production
-  - turfgrass
-  - pasture-toxicology
-  - biological-control
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Schardl, C.L. et al. (2013). "Epichloë endophytes: clavicipitaceous symbionts." Mycologia 105(6): 1433-1457.
-  - Scott, B. & Schardl, C.L. (2011). "Epichloë festucae and the endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium." Fungal Genetics and Biology 48(2): 82-90.
-  - Clay, K. & Schardl, C.L. (2002). "[[fungal-endophyte-colonization-patterns]] in the family Clavicipitaceae
-(order Hypocreales) that forms symbiotic associations with cool-season grasses of the
-genus *Festuca*. Unlike [[dighton-fungal-drought-tolerance-plant-water-relations]],
-improved [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] toxic to livestock,
-making strain selection critical for pastoral use.
+title: "Epichloe Festucae"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Classification
 
-Division: Ascomycota → Subdivision: Pezizomycotina → Class: Sordariomycetes → Order:
+Division: [[ascomycota]] → Subdivision: Pezizomycotina → Class: Sordariomycetes → Order:
 Hypocreales → Family: Clavicipitaceae → Genus: *Epichloë* → Species: *E. festucae*.
 
 The genus was elevated from *Acremonium* sect. *Albo-lanosa* based on molecular systematics
@@ -50,7 +32,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish epichloe festucae
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -64,7 +46,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Epichloe Festucae finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

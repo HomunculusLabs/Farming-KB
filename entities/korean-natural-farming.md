@@ -1,23 +1,12 @@
 ---
-title: Korean [[comparison-natural-farming-vs-permaculture]] (KNF)
-type: species
-tags:
-  - permaculture
-  - regenerative-agriculture
-  - soil-microbiology
-  - indigenous-knowledge
-  - sustainable-farming
-  - fermented-plant-extracts
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Cho, H.K. (2009). korean-natural-farming-and-jadam: beneficial-indigenous-microorganisms-bim and Vital Power of Crops. Master Cho's chos-global-natural-farming-input-reduction-methods.
-  - Drake, M. & Drake, J. (2014). "Korean Natural Farming Handbook." Cho Global Natural Farming.
-  - Patel, H. et al. (2019). "Korean Natural Farming: A sustainable approach to agriculture." Indian Journal of Agricultural Sciences, 89(4), 604-610.
-  - Joshi, D. et al. (2020). "[[mushroom-pests-and-diseases]] without synthetic chemical inputs.
+title: "Korean Natural Farming"
+type: entity
+tags: []
+sources: []
 ---
 
-KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese natural farming (Masanobu Fukuoka), [[green-cannabis-grow-bible-nutrient-management-ppm]].
+
+KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese [[natural-farming]] ([[masanobu-fukuoka]]), [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
 ## Core Philosophy
 
@@ -31,12 +20,12 @@ KNF is guided by several foundational principles:
 
 The cornerstone of KNF. IMOs are collected from pristine natural environments and propagated:
 
-- **IMO-1:** Microorganisms collected from rice cooked and placed in a bamboo basket in a forest near the root zone of healthy plants. Fungi (particularly *Aspergillus*, *Penicillium*, *Trichoderma* spp.) colonize the rice over 5-7 days.
+- **IMO-1:** Microorganisms collected from rice cooked and placed in a bamboo basket in a forest near the root zone of healthy plants. Fungi (particularly *[[aspergillus]]*, *Penicillium*, *[[trichoderma]]* spp.) colonize the rice over 5-7 days.
 - **IMO-2:** IMO-1 mixed with brown rice at 1:1 ratio and fermented with a sugar source for 5-7 days.
 - **IMO-3:** IMO-2 mixed with expanded soil (potting soil) at 1:1 ratio and fermented for 7-10 days in a shaded area.
 - **IMO-4:** IMO-3 mixed with leaf mold or compost and fermented for 10-14 days. This is the final field-ready product, applied at 100-200 kg per 1,000 m².
 
-The microbial communities in IMO typically include beneficial fungi (*Trichoderma*, mycorrhizae), bacteria (*Bacillus*, *Pseudomonas*, *Lactobacillus*), actinomycetes, and yeasts.
+The microbial communities in IMO typically include beneficial fungi (*Trichoderma*, [[mycorrhizae]]), bacteria (*Bacillus*, *[[pseudomonas]]*, *Lactobacillus*), actinomycetes, and yeasts.
 
 ### Fermented Plant Juice (FPJ)
 
@@ -95,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Korean Natural Farming finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

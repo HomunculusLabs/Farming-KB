@@ -1,17 +1,13 @@
 ---
-title: Banisteriopsis caapi and Harmine — MAO Inhibition Chemistry
-source: mckenna_t-food_of_the_gods.md
-author: [[chacruna-psychotria-viridis]] to create an orally active psychedelic brew represents
-one of the most remarkable achievements in the history of ethnopharmacology.
-The biochemical mechanism — monoamine oxidase inhibition — was not
-understood by Western science until the 1950s, yet indigenous peoples had
-been exploiting this pharmacological synergy for centuries or possibly
-millennia.
+title: "Mckenna Banisteriopsis Caapi Harmine Mao Inhibition Chemistry"
+type: concept
+tags: []
+sources: []
 ---
 
 ## The Ayahuasca Vine
 
-Banisteriopsis caapi is a woody liana of the Malpighiaceae family that
+[[banisteriopsis-caapi]] is a woody liana of the Malpighiaceae family that
 climbs through the canopy of Amazonian rainforest trees. The stem bark
 of the vine is the primary source of the beta-carboline alkaloids that
 give ayahuasca its distinctive properties. The vine is harvested, cleaned,
@@ -28,8 +24,8 @@ plant species.
 ## Beta-Carboline Alkaloids
 
 The principal alkaloids in B. caapi are harmine, harmaline, and
-tetrahydroharmine (THH). All three are beta-carboline derivatives —
-tryptamine-related compounds in which an additional ring structure has
+[[tetrahydroharmine]] (THH). All three are beta-carboline derivatives —
+[[tryptamine]]-related compounds in which an additional ring structure has
 been formed. These alkaloids belong to the [[mckenna-food-gods-peganum-harmala-soma]], which contains the same
 compounds.
 
@@ -119,3 +115,9 @@ use of ayahuasca.
 - [[mckenna-food-of-the-gods-thesis]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+Understanding these interconnected mechanisms provides a foundation for both research applications and practical implementation in relevant systems and contexts.
+
+This synthesis highlights the importance of cross-disciplinary
+approaches to understanding complex biological phenomena.
+

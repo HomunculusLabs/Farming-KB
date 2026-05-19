@@ -148,4 +148,4 @@ Design for multiple functions increases overall efficiency.
 - [[mckenna-decentralizing-bender-western-intellectual-history-consciousness]]
 - [[fukuoka-critique-western-dietetics-nutritional-science]]
 - [[mycophobia-in-western-culture]]
-- [[shroom-cultural-history-western-discovery-valentina-wasson]]
+

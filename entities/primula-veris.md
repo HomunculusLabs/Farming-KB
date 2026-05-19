@@ -1,18 +1,3 @@
----
-title: "Primula veris"
-type: species
-tags:
-  - primulaceae
-  - medicinal-plant
-  - meadow-species
-  - european-flora
-  - traditional-herb
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Richens, A. & Matheson, P. (1978). "Primula species: A monograph of the genus Primula." Journal of the Linnean Society of Botany.
-  - Chevallier, A. (2016). "Encyclopedia of [[cannabis-for-skin-conditions-detailed]].
----
 
 Cowslip is easily recognized by its umbel of nodding, fragrant yellow flowers. It is a classic indicator species of species-rich old meadows and unimproved pastures.
 
@@ -56,7 +41,7 @@ The flowers and young leaves are edible and have been used historically in culin
 
 The flowers were also used to make cowslip tea and cordials. In England, the plant was historically used to flavor pottage and other rural dishes.
 
-In traditional European herbal medicine, the roots and flowers have been used to treat coughs, bronchitis, and insomnia. The roots contain saponins with expectorant properties.
+In traditional European [[herbal-medicine]], the roots and flowers have been used to treat coughs, bronchitis, and insomnia. The roots contain saponins with expectorant properties.
 
 The flowers were traditionally infused as a mild sedative and headache remedy. Cowslip tincture was a component of many historic patent medicines in the 18th and 19th centuries.
 
@@ -66,7 +51,7 @@ Modern herbal practitioners still use Primula veris root preparations as an expe
 
 The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] Primula veris are triterpenoid saponins found in the roots. These include primulasaponin and related glycosides derived from oleanolic acid.
 
-Flavonoids are concentrated in the flowers and include quercetin, kaempferol, and their glycosides. These compounds contribute antioxidant activity and may modulate inflammatory pathways.
+Flavonoids are concentrated in the flowers and include quercetin, [[kaempferol]], and their glycosides. These compounds contribute antioxidant activity and may modulate inflammatory pathways.
 
 ## Overview
 
@@ -78,7 +63,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish primula veris
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +77,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Primula Veris finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +133,4 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[primula-auricula]]
-- [[primula-beesiana]]
+

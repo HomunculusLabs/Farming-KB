@@ -1,26 +1,10 @@
 ---
 title: "Thujone"
-created: 2026-04-28
-type: chemical
-tags:
-  - monoterpene
-  - psychoactive
-  - gaba-antagonist
-  - absinthe
-  - herbal-toxicology
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Höld, K.M. et al. (2000). \"Three major terpenoids in extracts of golden-guide-[[salvia-divinorum]]-and-diviner-sage.\" Journal of Ethnopharmacology, 73(1-2), 49-52."
-  - "Leth, P.M. & Gregersen, M. (2005). \"Absinthe.\" Forensic Science International, 155(1), 1-8."
-  - "Pelchat, M.L. et al. (2004). \"Thujone: Absinthe and the GABA receptor.\" Journal of Natural Products, 67(1), 54-57."
-  - "Meschler, J.P. & Howlett, A.C. (1999). \"Thujone exhibits low affinity for [[artemisia-absinthium]]*), the defining botanical of
-absinthe. It exists as two diastereomers: alpha-thujone and beta-thujone.
-Historically blamed for absinthe's purported psychoactive toxicity ("absinthism"),
-modern research attributes thujone's primary pharmacological action to
-GABA_A receptor modulation, though its psychoactive potency is now
-considered modest compared to the ethanol content of absinthe.
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Chemical Properties
 
@@ -36,7 +20,7 @@ considered modest compared to the ethanol content of absinthe.
 - **Alpha-thujone:** More pharmacologically active, more toxic
 - **Beta-thujone:** Less active, minor component in most plant sources
 
-Alpha-thujone is typically the dominant isomer in *Artemisia absinthium*
+Alpha-thujone is typically the dominant isomer in *[[artemisia-absinthium]]*
 (approximately 60–90% of total thujone content).
 
 ## Natural Sources
@@ -88,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish thujone
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -102,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Thujone finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

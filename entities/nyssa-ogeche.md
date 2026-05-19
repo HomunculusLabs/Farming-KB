@@ -1,20 +1,10 @@
 ---
-title: "Nyssa ogeche"
-type: species
-tags:
-  - nyssaceae
-  - wetland-tree
-  - honey-production
-  - ornamental-tree
-  - southeastern-us-native
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america." USDA Forest Service.
-  - USDA NRCS (2024). "Plant Profile: Nyssa ogeche." plants.usda.gov.
-  - Ayers, G.S. & Harman, J.R. (1992). "Beekeeping in the United States." USDA Agricultural Handbook.
-  - Godfrey, R.K. & Wooten, J.W. (1981). "[[growing-gourmet-north-american-reishi-species]] species are commonly called tupelos or sour gums.
+title: "Nyssa Ogeche"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The tree typically grows 9 to 15 meters tall with a narrow, conical crown. The trunk is straight and can reach 50 to 60 centimeters in diameter at maturity.
 
@@ -74,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish nyssa ogeche
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -88,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Nyssa Ogeche finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

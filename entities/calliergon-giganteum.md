@@ -1,21 +1,10 @@
 ---
-title: "Calliergon giganteum"
-type: species
-tags:
-  - bryophyta
-  - moss
-  - calliergonaceae
-  - wetland-moss
-  - fen-moss
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
-  - Hedenäs, L. (1990). "Taxonomic and Nomenclatural Notes on Calliergon." Bryologische Zeitungen.
-  - Flora [[sphagnum-palustre]], [[aulacomnium-palustre]] in transition mires where mineral-rich groundwater
-meets ombrotrophic peat. The species can tolerate moderate shading but
-achieves maximum growth in open, sunny fen conditions.
+title: "Calliergon Giganteum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Ecology
 
@@ -33,7 +22,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish calliergon giganteum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -47,7 +36,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Calliergon Giganteum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

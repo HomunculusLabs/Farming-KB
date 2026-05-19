@@ -1,12 +1,10 @@
 ---
-title: Mushroom [[spore]] Discharge Bullers Drop
-created: 2026-05-11
-tags: [[bloomfield-john-webster-ballistospore-discharge-discovery]]
-and [[single-spore-isolation-and-monokaryon-culture]], only ten-millionths of a meter
-in length, is catapulted from its gill with an acceleration that would
-atomize a human being, reaching a speed equivalent to 400 miles per hour at
-human scale.
+title: "Mushroom Spore Discharge Bullers Drop"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## The Fruiting Body as a Spore-Production Device
 
@@ -98,7 +96,7 @@ potentially colonizing new substrate.
 ## Taxonomic Distribution
 
 This mechanism, called ballistospory, is shared by the vast majority of
-Basidiomycota — the phylum that includes mushrooms, bracket fungi, rusts,
+[[basidiomycota]] — the phylum that includes mushrooms, bracket fungi, rusts,
 and smuts. It is one of the defining characteristics of the group and
 represents a remarkably conserved piece of evolutionary engineering that has
 persisted for hundreds of millions of years. The gasteromycetes (puffballs,

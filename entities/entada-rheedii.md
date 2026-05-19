@@ -1,27 +1,10 @@
 ---
-title: "Entada rheedii"
-created: 2026-04-28
-type: species
-tags:
-  - herbal-plants
-  - psychedelic
-  - entheogen
-  - dream-herb
-  - oneirogen
-  - fabaceae
-  - african-medicine
-  - tropical-plant
-  - traditional-medicine
-  - seed
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/one-straw-revolution-[[masanobu-fukuoka]].md"
-  - "Neuwinger, H.D. (2000). African Traditional Medicine: A Dictionary of Plant Use and Applications. Medpharm Scientific Publishers."
-  - "Hutchings, A., Scott, A.H., Lewis, G., & Cunningham, A.B. (1996). Zulu Medicinal Plants: An Inventory. University of Natal Press."
-  - "Watt, J.M. & Breyer-Brandwijk, M.G. (1962). The Medicinal and Poisonous Plants of Southern and Eastern Africa. 2nd ed. Livingstone."
-  - "De Beer, J.J. & van Wyk, B.E. (2011). An ethnobotanical survey of the Agter-Hantam, Northern Cape. [[psilocybe-southeast-asia-pacific]] use the seeds for divination, dream incubation, communication with ancestors, and as a general tonic.
+title: "Entada Rheedii"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy
 
@@ -34,11 +17,11 @@ sources:
 
 **Synonyms:** Entada pursaetha DC., Entada gigas (L.) Fawc. & Rendle, Entada scandens (L.) Roxb., Acacia rheedii (Spreng.) Roxb.
 
-**Etymology:** The genus name *Entada* is derived from a local name used [[hplc-analysis-of-tryptamine-alkaloids]]:** Trace amounts of dimethyltryptamine (DMT) and 5-methoxy-DMT have been anecdotally reported but not conclusively confirmed in peer-reviewed literature for this species.
+**Etymology:** The genus name *Entada* is derived from a local name used [[hplc-analysis-of-tryptamine-alkaloids]]:** Trace amounts of [[dimethyltryptamine]] (DMT) and 5-methoxy-DMT have been anecdotally reported but not conclusively confirmed in peer-reviewed literature for this species.
 - **Tannins:** Proanthocyanidins and condensed tannins present in seed coat and cotyledon.
-- **Flavonoids:** Quercetin, kaempferol derivatives detected in [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]:** Predominantly linoleic, oleic, and palmitic acids in seed oil.
+- **Flavonoids:** Quercetin, [[kaempferol]] derivatives detected in [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]:** Predominantly linoleic, oleic, and palmitic acids in seed oil.
 
-⚠️ **Phytochemical caveat:** Many online sources attribute significant tryptamine content to E. rheedii seeds, but analytical confirmation is limited. The oneirogenic effects may be primarily saponin-mediated rather than tryptamine-mediated.
+⚠️ **Phytochemical caveat:** Many online sources attribute significant [[tryptamine]] content to E. rheedii seeds, but analytical confirmation is limited. The oneirogenic effects may be primarily saponin-mediated rather than tryptamine-mediated.
 
 ## Traditional and Ethnobotanical Use
 
@@ -52,7 +35,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish entada rheedii
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

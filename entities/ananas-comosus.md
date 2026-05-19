@@ -1,19 +1,10 @@
 ---
-title: "Ananas comosus"
-type: species
-tags:
-  - bromeliaceae
-  - tropical-fruit
-  - food-crop
-  - medicinal-plant
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Bartholomew, D.P. et al. (2003). "The pineapple." In query-how-to-manage-pests-and-diseases-in-mushroom-cultivation of Pineapple, 1–63.
-  - Botella, J.R. & Smith, M.K. (2008). "Pineapple." In Encyclopedia of Fruit and Nuts, 329–336.
-  - Lobo, M.G. & Paull, R.E. (2017). "Pineapple." In Postharvest Biology and Technology of Tropical and Subtropical Fruits, 149–177.
-  - Xuan, T.D. et al. (2008). "[[psilocybin-therapeutic-applications]]. The enzyme is concentrated in the stem and fruit core.
+title: "Ananas Comosus"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -39,7 +30,7 @@ Natural flowering is induced by cool temperatures and short daylengths, but comm
 
 The crop cycle from [[mollison-designers-market-garden-intensive-production-design]] systems.
 
-Major pests include the pineapple mealybug (*Dysmicoccus brevipes*), which transmits pineapple wilt disease (mealybug wilt-associated virus). Nematodes (*Meloidogyne* spp.) and heart rot caused by *Phytophthora* spp. are also significant constraints.
+Major pests include the pineapple mealybug (*Dysmicoccus brevipes*), which transmits pineapple wilt disease (mealybug wilt-associated virus). Nematodes (*[[meloidogyne]]* spp.) and heart rot caused by *[[phytophthora]]* spp. are also significant constraints.
 
 ## Nutritional Value
 
@@ -55,7 +46,7 @@ Pineapple is the only commercially significant dietary source of bromelain, a mi
 
 Bromelain is the most studied bioactive compound in pineapple. It demonstrates anti-inflammatory activity by modulating prostaglandin and leukotriene synthesis, and has been investigated for osteoarthritis, post-surgical swelling, and upper [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in pineapple include gallic acid, caffeic acid, ferulic acid, and various flavonoid glycosides. These contribute antioxidant capacity measured by ORAC assays, though in vivo significance remains less established.
 
-Pineapple core and stem extracts show antimicrobial activity against *Escherichia coli*, *Staphylococcus aureus*, and *[[low-cost-mushroom-growing-house-construction-developing-countries]]. In many regions, pineapple is intercropped with banana, cassava, or legumes during the long crop establishment period.
+Pineapple core and stem extracts show antimicrobial activity against *Escherichia coli*, *[[staphylococcus-aureus]]*, and *[[low-cost-mushroom-growing-house-construction-developing-countries]]. In many regions, pineapple is intercropped with banana, cassava, or legumes during the long crop establishment period.
 
 Post-harvest processing generates substantial waste — the rind, core, and crown represent 40–60% of total fruit weight. This waste is increasingly valorized for bromelain extraction, dietary fiber production, animal feed, and bioethanol fermentation.
 
@@ -73,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish ananas comosus
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -87,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ananas Comosus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -148,4 +148,4 @@ Monitoring integration outcomes supports adaptive management.
 - [[substrate-preparation]]
 - [[grain-spawn]]
 - [[mycelium]]
-- [[spore]]
+

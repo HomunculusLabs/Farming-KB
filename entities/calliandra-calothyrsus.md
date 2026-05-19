@@ -1,23 +1,10 @@
 ---
-title: "Calliandra calothyrsus"
-type: species
-tags:
-  - fabaceae
-  - nitrogen-fixing
-  - permaculture
-  - agroforestry
-  - tropical
-  - multipurpose-tree
-  - soil-erosion-control
-  - fodder
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Hughes CE. (1998). "Monograph of Calliandra (Leguminosae-Mimosoideae)." Royal Botanic Gardens, Kew.
-  - Carsan S, Karanja J, Staudt M, et al. (2012). "A review on the quality of Calliandra calothyrsus as a fodder for ruminants." Agroforestry Systems, 86(2), 247-256.
-  - Sumberg JE. (1985). "Calliandra calothyrsus: An agroforestry tree for the humid tropics." NFTA, Wau, Papua New Guinea.
-  - Orwa C, Mutua A, Kindt R, et al. (2009). "Agroforestree Database: a tree reference [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and widely adopted across tropical agroforestry systems worldwide.
+title: "Calliandra Calothyrsus"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Commonly known as red calliandra or pajón, it has become one of the most important [[comparison-arid-vs-tropical-permaculture]] and smallholder farming systems.
 
@@ -37,7 +24,7 @@ The foliage contains condensed tannins (3–5%) that can reduce bloat risk but m
 
 ### Shade and Companion Planting
 
-In coffee and cocoa agroforestry systems, C. calothyrsus provides dappled shade that improves crop microclimate without excessive light competition.
+In coffee and cocoa [[agroforestry]] systems, C. calothyrsus provides dappled shade that improves crop microclimate without excessive light competition.
 
 Its pruning cycle of 3–6 months generates mulch that suppresses weeds, retains soil moisture, and adds [[biodiversity-of-fungi-ecosystem-services-agriculture]] beyond direct production.
 
@@ -53,7 +40,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish calliandra calothyrsus
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -67,7 +54,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Calliandra Calothyrsus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

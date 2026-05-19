@@ -1,20 +1,10 @@
 ---
-title: "Zingiber cassumunar"
-type: species
-tags:
-  - zingiberaceae
-  - medicinal-plant
-  - rhizome
-  - thai-medicine
-  - aromatherapy
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Pothitirat, W. et al. (2020). "Zingiber cassumunar Roxb.: A comprehensive review of phytochemistry and pharmacology." Journal of Ethnopharmacology, 254, 112667.
-  - Oonmetta-aree, J. et al. (2021). "Anti-inflammatory activity of cassumunar ginger oil formulations." Phytomedicine, 85, 153575.
-  - Jeenapongsa, R. et al. (2019). "Topical analgesic and anti-inflammatory effects of Zingiber cassumunar." Journal of Ethnopharmacology, 237, 1-8.
-  - Suksamrarn, A. et al. (2018). "[[psilocybe-southeast-asia-pacific]] and is one of the most important medicinal plants in Thai traditional medicine.
+title: "Zingiber Cassumunar"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is distinguished from common ginger by its smaller stature, distinct rhizome aroma, and characteristic lanceolate leaves with a purplish tinge along the midrib. The rhizome has a camphoraceous, slightly sweet fragrance.
 
@@ -86,7 +76,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish zingiber cassumunar
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -100,7 +90,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Zingiber Cassumunar finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

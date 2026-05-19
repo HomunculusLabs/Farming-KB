@@ -1,20 +1,12 @@
 ---
-title: "Prunus cerasus"
-type: species
-tags:
-  - rosaceae
-  - temperate-fruit
-  - culinary
-  - medicinal
-  - cultivation
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Iezzoni, A.F. et al. (1990). "A sour cherry germplasm collection." holzer-recommended-old-fruit-varieties Journal, 44(4), 217-224.
-  - Blando, F. & Oomah, B.D. (2019). "[[medicinal-mushroom-dietary-supplements]].
+title: "Prunus Cerasus"
+type: entity
+tags: []
+sources: []
 ---
 
-The species is believed to have originated from a natural hybridization between the sweet cherry (Prunus avium) and the ground cherry (Prunus fruticosa). This hybrid origin accounts for its intermediate morphology and its tetraploid genome (2n = 4x = 32).
+
+The species is believed to have originated from a natural hybridization between the sweet cherry ([[prunus-avium]]) and the ground cherry (Prunus fruticosa). This hybrid origin accounts for its intermediate morphology and its tetraploid genome (2n = 4x = 32).
 
 Global production is concentrated in Eastern Europe, particularly Turkey, Russia, Poland, and Ukraine. Turkey alone produces roughly 20% of the world's sour cherries.
 
@@ -46,7 +38,7 @@ The species is naturalized across much of temperate Europe, from the British Isl
 
 Major pests include the cherry fruit fly (Rhagoletis cerasi), black cherry aphid (Myzus cerasi), and plum curculio (Conotrachelus nenuphar). Pheromone traps and targeted sprays are the primary management approaches.
 
-Fungal diseases are the most serious production constraint. Cherry leaf spot (Blumeriella jaapii), brown rot (Monilinia fructicola), and bacterial canker (Pseudomonas syringae) require regular fungicide programs.
+Fungal diseases are the most serious production constraint. Cherry leaf spot (Blumeriella jaapii), [[brown-rot]] (Monilinia fructicola), and bacterial canker ([[pseudomonas]] syringae) require regular fungicide programs.
 
 Harvest occurs in mid-summer (June–August in the Northern Hemisphere) depending on cultivar and latitude. Mechanical harvesting with shakers is standard for processing cherries, while hand picking is used for premium fresh-market fruit.
 
@@ -78,7 +70,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish prunus cerasus
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Prunus Cerasus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

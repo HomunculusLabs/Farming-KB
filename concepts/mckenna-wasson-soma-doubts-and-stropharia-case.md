@@ -1,21 +1,20 @@
 ---
-title: Wasson's mckenna wasson soma doubts and stropharia case and the Case for mckenna-[[stropharia-cubensis-extraterrestrial-hypothesis]]-spore-dispersal
-source: mckenna_t-food_of_the-gods.md
-author: Terence McKenna
-topics: soma, [[shroom-cultural-history-western-discovery-valentina-wasson]] proposed that the ancient Vedic sacrament Soma was
-*Amanita muscaria* — the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] cults in the
-1950s. Their magnum opus, *Soma: [[powell-shamanic-wisdom-and-ritual-practice]] and cultural memory.
+title: "Mckenna Wasson Soma Doubts And Stropharia Case"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## See Also
 
 - Soma — the Vedic sacrament
-- Amanita muscaria — fly agaric
-- Ethnomycology — the study of fungi in human culture
-- Psilocybin — the active compound in [[stropharia-cubensis]]
+- [[amanita-muscaria]] — [[fly-agaric]]
+- [[ethnomycology]] — the study of fungi in human culture
+- [[psilocybin]] — the active compound in [[stropharia-cubensis]]
 ## Practical Applications
 
-Wasson's Soma Doubts and the Case for Stropharia cubensis has a range of practical applications that make it relevant to
+Wasson's Soma Doubts and the Case for [[stropharia]] cubensis has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -88,7 +87,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish mckenna wasson soma doubts and stropharia case
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

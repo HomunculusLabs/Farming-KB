@@ -1,18 +1,10 @@
 ---
-title: "Zea mays"
-type: species
-tags:
-  - cereal-grain
-  - food-crop
-  - bioenergy
-  - industrial-crop
-  - global-staple
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Shurtleff, M.C. (1980). "Compendium of Corn Diseases." 2nd ed. American Phytopathological Society.
-  - Ranum, P. et al. (2014). "Nutritional impact of diversified maize-based foods." Journal of [[holzer-climate-zone-microclimate-creation]] from the tropics to [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], industrial raw material, and increasingly as a biofuel feedstock.
+title: "Zea Mays"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -61,7 +53,7 @@ The crop is predominantly cross-pollinated, with isolation requirements for main
 
 Yellow maize kernels contain approximately 9–10% protein, 72–74% starch, and 4–5% fat per 100 g dry weight.
 
-The protein is predominantly zein, a prolamin deficient in the essential amino acids lysine and tryptophan.
+The protein is predominantly zein, a prolamin deficient in the essential amino acids lysine and [[tryptophan]].
 
 Quality Protein Maize (QPM) varieties were developed to address this deficiency, containing opaque-2 gene modifiers that double the lysine content.
 
@@ -83,7 +75,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish zea mays
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -97,7 +89,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Zea Mays finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,23 +1,10 @@
 ---
-title: "Wolffia arrhiza"
-type: species
-tags:
-  - araceae
-  - lemnaceae
-  - aquatic-plant
-  - edible-plant
-  - phytoremediation
-  - smallest-flowering-plant
-  - protein-source
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Landolt, E. (1986). "The Family of Lemnaceae — A Monographic Study." Veröffentlichungen des Geobotanischen Institutes der ETH, Stiftung Rübel, Zürich, 71, 1-566.
-  - Sree, K.S. et al. (2016). "Wolffia — An Aquatic Plant with Immense Potential." Annals of Botany, 118(4), 579-586.
-  - Appenroth, K.J. et al. (2017). "Recommendation of Guidelines for the Definition of Duckweed Species." Aquatic Botany, 140, 83-87.
-  - Thanh, N.C. & Böhme, M. (2017). "Aquatic Plants for Food and Feed." Journal of Applied Phycology, 29, 2363-2374.
-  - Xu, J. et al. (2011). "The Potential of Duckweed for [[psilocybe-semilanceata]] in tropical and subtropical regions. It is found across Africa, southern Europe, South and [[soil-temperature-plant-growth-rate-doubling-rule]] makes it one of the fastest-growing plants known.
+title: "Wolffia Arrhiza"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -43,7 +30,7 @@ Wolffia arrhiza has emerged as a promising alternative protein source due to its
 
 The protein quality is high, with a favorable amino acid profile comparable to soy protein. It contains adequate levels of all essential amino acids, particularly lysine and methionine.
 
-In addition to protein, Wolffia biomass contains 20–30% carbohydrate, 5–8% lipid, and significant amounts of dietary fiber, vitamins, and minerals. It is notably rich in omega-3 [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] and several other jurisdictions. It is marketed as a sustainable protein ingredient for food products and supplements.
+In addition to protein, Wolffia biomass contains 20–30% [[carbohydrate]], 5–8% lipid, and significant amounts of dietary fiber, vitamins, and minerals. It is notably rich in omega-3 [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] and several other jurisdictions. It is marketed as a sustainable protein ingredient for food products and supplements.
 
 [[fungal-single-cell-protein-production]] is ongoing, with several companies developing commercial production systems using closed bioreactors and open pond facilities.
 
@@ -65,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish wolffia arrhiza
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -79,7 +66,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Wolffia Arrhiza finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

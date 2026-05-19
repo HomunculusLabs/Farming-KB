@@ -1,27 +1,16 @@
 ---
 title: "Pistil Whippersnapper"
-created: 2026-04-28
-type: strain
-tags:
-  - cannabis-strain
-  - sativa-dominant
-  - energetic
-  - creative
-  - landrace-genetics
-  - equatorial
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - https://www.leafly.com/ — strain databases and user reviews
-  - https://www.wikileaf.com/ — [[cannabis-genetic-stability]] research
-  - Clarke, R.C. "[[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] growers in Mediterranean and subtropical regions.
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Genetic Lineage
 
 - **Type:** Sativa-dominant hybrid (~80% sativa / 20% indica)
 - **Lineage:** Believed to descend from Thai landrace genetics crossed with a fast-flowering sativa of uncertain origin, possibly originating from Colombian or Mexican stock introduced to the breeding community in the [[tihkal-receptor-binding-serotonin]]
-- **Terpinolene** (~0.2–0.4%) — Floral, fruity, slightly herbal; adds complexity and may contribute anxiolytic effects
+- **[[terpinolene]]** (~0.2–0.4%) — Floral, fruity, slightly herbal; adds complexity and may contribute anxiolytic effects
 - **Linalool** (trace) — Floral, lavender; calming undertone
 
 ### Flavor Description
@@ -49,7 +38,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pistil whippersnapper
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -63,7 +52,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pistil Whippersnapper finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

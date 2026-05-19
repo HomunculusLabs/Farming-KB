@@ -148,4 +148,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[emcdda-european-magic-mushroom-smartshop-market]]
 - [[emcdda-smartshop-and-retail-economics-europe]]
 - [[european-legal-responses-smartshop-regulation-hallucinogenic-mushrooms-emcdda]]
-- [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]]
+

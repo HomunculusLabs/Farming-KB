@@ -148,4 +148,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cardamine-pratensis]]
 - [[pulsatilla-alpina]]
 - [[pulsatilla-patens]]
-- [[pulsatilla-vulgaris]]
+

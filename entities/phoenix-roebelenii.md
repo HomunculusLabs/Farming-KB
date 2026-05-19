@@ -1,20 +1,10 @@
 ---
-title: "Phoenix roebelenii"
-type: species
-tags:
-  - arecaceae
-  - palm
-  - date-palm
-  - ornamental
-  - subtropical
-  - southeast-asia
-  - landscaping
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
-  - Henderson, A., Galeano, G., Bernal, R. (1995). "[[psilocybe-southeast-asia-pacific]].
+title: "Phoenix Roebelenii"
+type: entity
+tags: []
+sources: []
 ---
+
 
 It is one of the most widely cultivated ornamental palms in tropical and subtropical landscapes worldwide.
 
@@ -78,7 +68,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish phoenix roebelenii
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phoenix Roebelenii finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

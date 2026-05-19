@@ -1,31 +1,10 @@
 ---
-title: "6-MAPB"
-created: 2026-04-28
-updated: 2026-04-28
-type: chemical
-tags:
-  - chemical
-  - benzofuran
-  - empathogen
-  - entactogen
-  - psychedelic
-  - serotonergic
-  - research-chemical
-  - 5-ht-receptor
-  - designer-drug
-  - substituted-benzofuran
-  - legal-status
-  - harm-reduction
-sources:
-  - Iversen, L. et al. (2014). "Report on the Risk Assessment of 6-MAPB." EMCDDA.
-  - Elliott, S. & Evans, J. (2014). "The first reported death in the UK involving 6-MAPB." Journal of Forensic Sciences 59(5): 1402-1404.
-  - Caspar, A.T. et al. (2018). "Pharmacological profile of 6-MAPB." Neuropharmacology 134: 42-51.
-  - Brandt, S.D. et al. (2014). "An analytical investigation of thirty 'legal high' products." [[serotonin]]-releasing agent and reuptake inhibitor,
-with additional effects on dopamine and norepinephrine systems. Its subjective
-effects are broadly similar to [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] on the benzofuran ring. Both compounds are
-structural analogues of MDMA, where the methylenedioxy phenyl ring is replaced
-by a benzofuran ring system.
+title: "6 Mapb"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The benzofuran substitution increases lipophilicity compared to MDMA, which
 affects blood-brain barrier penetration and metabolic pathways. The free base
@@ -73,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish 6 mapb
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

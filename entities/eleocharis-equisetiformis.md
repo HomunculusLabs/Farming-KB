@@ -1,22 +1,10 @@
 ---
-title: "Eleocharis equisetiformis"
-type: species
-tags:
-  - cyperaceae
-  - spike-rush
-  - wetland-plants
-  - southeastern-us-flora
-  - marsh-plants
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Strong, A.S. (1994). "Eleocharis R. Br." In: Flora huckleberries-and-wild-berries-of-north-america, Vol. 23. Oxford University Press.
-  - Weakley, A.S. (2023). Flora of the Southeastern [[north-carolina-mycodiversity]] Herbarium.
-  - Godfrey, R.K. & Wooten, J.W. (1979). [[dmt-maoi-plants-united-states]]: Monocotyledons. University of Georgia Press.
-  - Kral, R. (1971). "A treatment of Eleocharis (Cyperaceae) for the southeastern [[doc]]
-- [[eleocharis-acicularis]]
-- [[eleocharis-palustris]]
+title: "Eleocharis Equisetiformis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Overview
 
@@ -28,7 +16,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish eleocharis equisetiformis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -42,7 +30,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Eleocharis Equisetiformis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

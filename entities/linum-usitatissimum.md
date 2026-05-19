@@ -1,20 +1,10 @@
 ---
-title: "Linum usitatissimum"
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - linaceae
-  - oilseed-crop
-  - fiber-crop
-  - cover-crop
-  - permaculture
-  - medicinal-herb
-  - omega-3
-sources:
-  - Oplinger, E.S., Oelke, E.A., Doll, J.D., et al. (1989). "Flax." Alternative Field Crops Manual, University of Wisconsin-Extension.
-  - Zohary, D., Hopf, M. (2000). "Domestication of Plants in the [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] and lignans) and its bast fibers (used in textiles, composites, and specialty papers).
+title: "Linum Usitatissimum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -70,7 +60,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish linum usitatissimum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -84,7 +74,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Linum Usitatissimum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

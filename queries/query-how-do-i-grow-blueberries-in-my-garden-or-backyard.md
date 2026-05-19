@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How do I grow blueberries in my garden or backyard?
+## How do I grow blueberries in my garden or backyard?
 
 ## Short Answer
 

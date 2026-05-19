@@ -1,11 +1,10 @@
 ---
-title: "Coffea canephora"
-type: species
-tags:
-  - rubiaceae
-  - food-crop
-  - [[fungal-biodiversity-tropical-forests]] of Central and West Africa.
+title: "Coffea Canephora"
+type: entity
+tags: []
+sources: []
 ---
+
 
 It is the second most widely cultivated coffee species in the world after [[biodiversity-fungal-genetic-diversity]] is in the Democratic Republic of the Congo, Uganda, and Cameroon.
 
@@ -29,7 +28,7 @@ Plants begin bearing fruit at 2–3 years of age and reach full production by 5�
 
 Yields under good [[mollison-game-species-management-range]] from 1.5–3.0 tonnes of green bean per hectare per year, substantially exceeding typical Arabica yields.
 
-The species is significantly more resistant to coffee leaf rust (Hemileia vastatrix) and coffee berry disease than C. arabica.
+The species is significantly more resistant to coffee leaf rust ([[hemileia-vastatrix]]) and coffee berry disease than C. arabica.
 
 It is also more tolerant of root-knot nematodes and the coffee borer beetle (Hypothenemus hampei).
 
@@ -49,7 +48,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish coffea canephora
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -63,7 +62,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Coffea Canephora finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

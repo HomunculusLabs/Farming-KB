@@ -1,17 +1,10 @@
 ---
-title: "Xanthoparmelia conspersa"
-type: species
-tags:
-  - lichen
-  - foliose
-  - parmeliaceae
-  - xanthoparmelia
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Elix, J.A. (2009). "Xanthoparmelia in Australia." Flora of Australia Supplementary Series.
-  - Hale, M.E. (1990). "A Monograph of Xanthoparmelia in [[antifungal-secondary-metabolites-coprophilous-fungi]].
+title: "Xanthoparmelia Conspersa"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -29,7 +22,7 @@ The medulla is white, and the upper cortex is 20 to 40 μm thick with a well-dev
 
 Ascospores are ellipsoid, 8 to 12 by 5 to 7 μm, simple, and hyaline. Pycnidia are common, producing bacilliform conidia approximately 5 to 7 μm long.
 
-Chemical spot tests yield K+ yellow (atranorin), C−, KC−, Pd+ yellow (usnic acid), and UV− on the cortex. The medulla is K−, C−, KC−, and Pd−.
+Chemical spot tests yield K+ yellow (atranorin), C−, KC−, Pd+ yellow ([[usnic-acid]]), and UV− on the cortex. The medulla is K−, C−, KC−, and Pd−.
 
 This secondary chemistry is typical for the genus and distinguishes it from morphologically similar taxa with different medullary reactions. Vegetative reproduction occurs primarily through thallus fragmentation and marginal pustules.
 
@@ -71,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish xanthoparmelia conspersa
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -85,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Xanthoparmelia Conspersa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

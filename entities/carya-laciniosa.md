@@ -1,19 +1,10 @@
 ---
-title: "Carya laciniosa"
-type: species
-tags:
-  - juglandaceae
-  - deciduous-tree
-  - hardwood
-  - north-american-native
-  - nut-tree
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - USDA NRCS (2024). "Carya laciniosa." PLANTS Database.
-  - Grauke, L.J. & Woeste, K.E. (2016). "Carya." In: Jepsen, D. (ed.), Flora [[guzman-psilocybin-mushrooms-north-america]]: Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of [[growing-gourmet-north-american-reishi-species]] hardwoods by virtually every mechanical property measurement.
+title: "Carya Laciniosa"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The specific gravity of shellbark hickory wood ranges from 0.60–0.72, with an average Janka hardness of approximately 1450 pounds-force. These values place it among the top tier of North American woods for applications requiring resistance to impact and abrasion.
 
@@ -47,7 +38,7 @@ Shellbark hickory is somewhat shade-intolerant in youth but becomes increasingly
 
 The species is moderately tolerant of periodic flooding during the dormant season, with mature trees surviving inundation periods of up to several weeks without significant injury. However, growing-season floods that cover the root crown for extended periods can cause mortality, especially in younger trees.
 
-Associated tree species in bottomland communities include [[acer-saccharinum]] (silver maple), [[ulmus-americana]] (American elm). The species composition of these communities varies with flood frequency, soil texture, and drainage class.
+Associated tree species in bottomland communities include [[acer-saccharinum]] (silver maple), [[ulmus-americana]] (American elm). The species composition of these communities varies with flood frequency, [[soil-texture]], and drainage class.
 
 ## Cultivation and Uses
 
@@ -87,7 +78,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish carya laciniosa
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -101,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Carya Laciniosa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

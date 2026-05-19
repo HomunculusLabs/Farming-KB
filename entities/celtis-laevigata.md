@@ -1,19 +1,10 @@
 ---
-title: "Celtis laevigata"
-type: species
-tags:
-  - tree
-  - temperate-hardwood
-  - cannabaceae
-  - edible
-  - ornamental
-  - wildlife
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agriculture Handbook 541.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[celtis-occidentalis]]*) and is sometimes considered conspecific by some authorities. Sugarberry is distinguished by its smoother bark, narrower leaves, and sweeter fruit.
+title: "Celtis Laevigata"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Sugarberry typically reaches 15–25 meters in height with a trunk diameter of 40–80 cm. It develops a broad, rounded to vase-shaped crown with arching branches. In open positions, the crown spreads wider than it is tall.
 
@@ -81,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish celtis laevigata
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -95,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Celtis Laevigata finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

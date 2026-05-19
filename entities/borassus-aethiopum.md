@@ -1,19 +1,10 @@
 ---
-title: "Borassus aethiopum"
-type: species
-tags:
-  - arecaceae
-  - palm
-  - food
-  - africa
-  - multi-use
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). Genera Palmarum: The Evolution and Classification of Palms. Royal Botanic Gardens, Kew.
-  - Barot, S., et al. (2002). "Life history of the African palm Borassus aethiopum." Annals of Botany 89(4): 411-417.
-  - Sambou, B., et al. (2002). "Structure, growth and productivity of Borassus aethiopum palm forests in West Africa." Forest [[borassus-flabellifer]], the Asian palmyra palm, which is one of the most economically important palms in South and [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]], and New Guinea. The African species B. aethiopum is the most widespread member of the genus.
+title: "Borassus Aethiopum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -53,7 +44,7 @@ The palm is fire-adapted and resprouts readily after burning. Its thick bark and
 
 ## Cultivation and Uses
 
-Borassus aethiopum is cultivated primarily for its edible fruits, palm sap, and construction materials. It is one of the most widely utilized wild palms in Africa, though formal cultivation remains limited compared to its Asian relative Borassus flabellifer.
+Borassus aethiopum is cultivated primarily for its edible fruits, palm sap, and construction materials. It is one of the most widely utilized wild palms in Africa, though formal cultivation remains limited compared to its Asian relative [[borassus-flabellifer]].
 
 The mesocarp of ripe fruits is eaten fresh, dried, or fermented into alcoholic beverages. In West Africa, the fruits are commercially harvested and sold in local markets during the fruiting season.
 

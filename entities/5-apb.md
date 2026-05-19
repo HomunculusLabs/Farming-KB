@@ -1,20 +1,10 @@
 ---
-title: "5-APB"
-type: chemical
-tags:
-  - benzofuran
-  - entactogen
-  - stimulant
-  - serotonin-releaser
-  - research-chemical
-  - designer-drug
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Monte, A.P. et al. (1993). "N-substituted piperazines abused as '[[shulgin-designer-drugs-analysis]]'." Pharmacology Biochemistry and Behavior, 46(2), 339-347.
-  - Dawson, J.L. et al. (2014). "Observations in three subjects of the psychoactive compound 5-APB." Journal of Psychopharmacology, 28(10), 975-981.
-  - EMCDDA (2014). "5-APB and 6-APB: New [[mdma]] including euphoria, empathy, and mild stimulation.
+title: "5 Apb"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The compound emerged as a designer drug in the United Kingdom around 2010, marketed
 initially as a "research chemical" and sold through online vendors. It was developed
@@ -72,7 +62,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish 5 apb
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

@@ -1,25 +1,14 @@
 ---
 title: "Agroclavine"
-created: 2026-05-06
-type: chemical
-tags:
-  - ergot-alkaloid
-  - clavine
-  - psychedelic
-  - tryptamine-derivative
-  - mycotoxin
-  - lysergic-acid-precursor
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Hofmann, A. (1964). "The Active Principles of the [[ergot-fungus]]." Perspectives in Biology and Medicine 7(2): 152–163.
-  - Gröger, D. & Floss, H.G. (1998). "Biochemistry of [[gadd-aspergillus-fumigatus-glucan-virulence]]*, and several [[ergot-and-lysergic-acid-history]] amides, placing it in the "simple clavine"
-subclass alongside lysergol, setoclavine, and elymoclavine.
+type: entity
+tags: []
+sources: []
 ---
+
 
 Agroclavine exhibits uterotonic, vasoconstrictive, and mild psychoactive
 properties, though its pharmacological potency is significantly lower
-than that of the peptide ergot alkaloids (ergotamine, ergocristine).
+than that of the peptide ergot alkaloids ([[ergotamine]], [[ergocristine]]).
 
 It serves as a key biosynthetic intermediate in the ergot alkaloid
 pathway, preceding the formation of [[morning-glory-lsa-and-ergoline-alkaloids]].
@@ -29,7 +18,7 @@ low micromolar range), substantially weaker than LSD (nanomolar) or
 [[lysergic-acid]] amides.
 
 Uterotonic activity has been demonstrated in isolated uterine tissue
-preparations, though it is less potent than ergometrine or ergotamine.
+preparations, though it is less potent than [[ergometrine]] or ergotamine.
 
 Vasoconstrictive effects are present but clinically insignificant at
 doses achievable through natural exposure.
@@ -43,7 +32,7 @@ likely due to its low potency and rarity as a recreational substance.
 ## Biosynthesis and Occurrence
 
 Agroclavine is an intermediate in the ergot alkaloid biosynthetic
-pathway, formed from the cyclization of 4-(γ,γ-dimethylallyl)tryptophan
+pathway, formed from the cyclization of 4-(γ,γ-dimethylallyl)[[tryptophan]]
 (DMAT) via the action of the enzyme cloA (a cytochrome P450
 
 ## Overview
@@ -56,7 +45,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish agroclavine
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -70,7 +59,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Agroclavine finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,20 +1,10 @@
 ---
 title: "Dextromethorphan"
-type: chemical
-tags:
-  - dissociative
-  - nmda-antagonist
-  - sigma-agonist
-  - cough-suppressant
-  - otc-drug
-  - recreational
-  - serotonin-reuptake-inhibitor
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Wolber, C.J. et al. (2019). "Clinical Pharmacokinetics of Dextromethorphan." Clinical Pharmacokinetics.
-  - Reissig, C.J. et al. (2012). "Dextromethorphan: A Review of Abuse." Drug and [[tihkal-receptor-binding-serotonin]]. This structural difference confers its non-opioid pharmacological profile.
+type: entity
+tags: []
+sources: []
 ---
+
 
 The drug is metabolized primarily by cytochrome P450 2D6 (CYP2D6) to dextrorphan (DXO), which has greater NMDA antagonist potency than the parent compound. Genetic polymorphisms in CYP2D6 produce significant inter-individual variation in metabolism and response.
 
@@ -67,7 +57,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish dextromethorphan
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

@@ -1,24 +1,10 @@
 ---
-title: "Codonopsis pilosula"
-created: 2026-04-28
-type: species
-tags:
-  - campanulaceae
-  - adaptogen
-  - medicinal-plant
-  - traditional-chinese-medicine
-  - qi-tonic
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Zhu Y.P. (1998). "Chinese herbal-materia-medica: Chemistry, Pharmacology and Applications."
-  - Li T.S.C. (2009). "Medicinal Plants: Culture, Utilization and Phytopharmacology."
-  - Wang J. et al. (2021). "Codonopsis pilosula: A review of phytochemistry."
-  - Normile D. (2003). "Asian medicine. The new face of traditional Chinese medicine."
-  - Gao Q.H. et al. (2012). "[[comparison-ginkgo-biloba-vs-panax-ginseng]]* but is considerably milder, making it suitable for
-long-term daily use. It is valued for tonifying the spleen and lung *qi*,
-nourishing the blood, and promoting the production of body fluids.
+title: "Codonopsis Pilosula"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Modern pharmacological research has validated adaptogenic, immunomodulatory,
 gastroprotective, and neuroprotective activities. Global demand has made
@@ -42,7 +28,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish codonopsis pilosula
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -56,7 +42,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Codonopsis Pilosula finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

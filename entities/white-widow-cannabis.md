@@ -1,34 +1,17 @@
 ---
-title: "White Widow Cannabis Strain"
-created: 2026-04-28
-type: strain
-tags:
-  - cannabis
-  - indica-dominant-hybrid
-  - landrace-genetics
-  - brazilian-sativa
-  - south-indian-indica
-  - high-thc
-  - resinous
-  - commercial-strain
-  - coffee-shop-classic
-  - dutch-bred
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Greenhouse Seeds Co. (1994). White Widow — strain haze-cannabis-lineage-and-breeding-history documentation. Amsterdam."
-  - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
-  - "ElSohly, M.A., et al. (2016). Changes in green-cannabis-potency-maximizing over the last two decades. Biological Psychiatry, 79(7), 613-619."
-  - "Mudge, E.M., et al. (2018). Cannabis sativa L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
-  - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]** in modern [[african-landrace-sativa-modern-hybrids]] and remains one of the most widely available strains in coffee shops, dispensaries, and seed banks worldwide.
+title: "White Widow Cannabis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Lineage and Breeding History
 
 | Parent | Origin | Contribution |
 |--------|--------|-------------|
 | **Brazilian Sativa** | Landrace from southern Brazil | Tall stature, cerebral effects, energetic sativa influence, elongated bud structure |
-| **South Indian Indica** | Landrace from Kerala/Mysore region, India | [[cannabis-sativa-landrace-strains]] with the heavy [[oner-ninja-turtle-white-russian-martian-mean-green]], White Rhino, Blue Widow, and many others.
+| **South Indian Indica** | Landrace from Kerala/Mysore region, India | [[cannabis-sativa-landrace-strains]] with the heavy [[oner-ninja-turtle-white-russian-martian-mean-green]], [[white-rhino]], Blue Widow, and many others.
 
 ## Morphology and Growing Characteristics
 
@@ -44,7 +27,7 @@ sources:
 | Resin production | Exceptional — buds become thickly coated with trichomes by week 6 of flowering |
 | Difficulty | Easy to moderate; forgiving for beginners; resistant to common pests and molds |
 
-White Widow is considered an excellent **beginner-friendly strain** due to its vigor, disease resistance, and consistent performance. It responds well to both SOG (Sea of Green) and ScrOG (Screen of Green) [[mckenna-shamanic-identification-signs-and-training-methods]]. The plants exhibit moderate stretch during the first two weeks of flowering before settling into bud production. Trichome density increases dramatically in the final two weeks, giving the mature buds their signature white appearance.
+White Widow is considered an excellent **beginner-friendly strain** due to its vigor, disease resistance, and consistent performance. It responds well to both SOG ([[sea-of-green]]) and ScrOG ([[screen-of-green]]) [[mckenna-shamanic-identification-signs-and-training-methods]]. The plants exhibit moderate stretch during the first two weeks of flowering before settling into bud production. Trichome density increases dramatically in the final two weeks, giving the mature buds their signature white appearance.
 
 ## Cannabinoid Profile
 
@@ -89,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish white widow cannabis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -103,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 White Widow Cannabis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

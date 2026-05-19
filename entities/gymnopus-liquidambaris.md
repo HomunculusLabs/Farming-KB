@@ -1,36 +1,18 @@
 ---
-title: "Gymnopus liquidambari (Sweetgum Mushroom)"
-type: species
-tags:
-  - fungi
-  - agaricales
-  - omphalotaceae
-  - saprotrophic
-  - wood-decay
-  - temperate-fungi
-  - north-american-fungi
-  - leaf-litter
-  - marasmioid
-  - mycorrhiza
-  - forest-ecology
-  - lignicolous
-  - ectomycorrhizal
-  - liquidambar
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Halling, R.E. (1983). "Marasmius and related genera from the Greater Antilles." Memoirs of the New York Botanical Garden, 37, 1-86.
-  - Antonín, V. & Noordeloos, M.E. (2010). "Monograph of Marasmius, Collybia and related genera in Europe." IHW-Verlag, Eching.
-  - Lodge, D.J. et al. (2014). "Mycodiversity of the Caribbean." In: Mueller, G.M. (ed.), [[liquidambar-styraciflua]]*).
+title: "Gymnopus Liquidambaris"
+type: entity
+tags: []
+sources: []
 ---
 
-Originally described by Rolf Singer in the genus *Marasmius*, it was transferred to *Gymnopus* following taxonomic revisions that redefined generic boundaries within the Marasmiaceae complex.
+
+Originally described by [[rolf-singer]] in the genus *Marasmius*, it was transferred to *Gymnopus* following taxonomic revisions that redefined generic boundaries within the Marasmiaceae complex.
 
 The species is notable for its ability to persist through dry periods, reviving rapidly when rehydrated — a characteristic "marasmioid" trait that allows it to fruit year-round in suitable habitats.
 
 ## Taxonomy and Morphology
 
-**Kingdom** Fungi → **Phylum** Basidiomycota → **Class** Agaricomycetes → **Order** Agaricales → **Family** Omphalotaceae → **Genus** *Gymnopus* → **Species** *G. liquidambari* (Singer) Halling
+**Kingdom** Fungi → **Phylum** [[basidiomycota]] → **Class** Agaricomycetes → **Order** [[agaricales]] → **Family** Omphalotaceae → **Genus** *Gymnopus* → **Species** *G. liquidambari* (Singer) Halling
 
 The basidiocarp is small, with a pileus (cap) 5–25 mm diameter. Cap color ranges from pale orange-brown to reddish-brown, often with a slightly darker disc and paler margin.
 
@@ -44,7 +26,7 @@ Spores are ellipsoid, 6–9 × 3–4.5 μm, inamyloid, smooth, and thin-walled. 
 
 *G. liquidambari* is found in [[bolete-fungi-appalachian-region]] and south to the Gulf Coast states.
 
-It fruits primarily on fallen leaves, twigs, and small branches of *Liquidambar styraciflua* (American sweetgum), especially in bottomland hardwood forests and riparian corridors.
+It fruits primarily on fallen leaves, twigs, and small branches of *[[liquidambar-styraciflua]]* (American sweetgum), especially in bottomland hardwood forests and riparian corridors.
 
 Fruiting occurs from spring through late autumn, often after rain events. The species can persist through dry periods in a desiccated state, rehydrating and resuming spore production when conditions improve.
 
@@ -80,7 +62,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish gymnopus liquidambaris
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -94,7 +76,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Gymnopus Liquidambaris finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

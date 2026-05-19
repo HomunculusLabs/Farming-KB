@@ -1,14 +1,10 @@
 ---
-title: "Coffea arabica"
-type: species
-tags:
-  - rubiaceae
-  - coffee
-  - tropical-crop
-  - alkaloid
-  - [[caffeine]] content compared to C. canephora, and greater
-susceptibility to certain diseases.
+title: "Coffea Arabica"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -45,7 +41,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish coffea arabica
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -59,7 +55,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Coffea Arabica finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

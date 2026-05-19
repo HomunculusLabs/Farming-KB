@@ -1,22 +1,10 @@
 ---
-title: Molasses Fungal Food Sticker Spreader Ingham
-created: 2026-04-28
-tags:
-  - compost-tea
-  - molasses
-  - fungal-foods
-  - sticker-spreaders
-  - aact
-  - osmotic-effects
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/[[elaine-ingham]]-phd-the-field-guide-for-actively-aerated-com.md"
-  - "[[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] is essential for producing effective [[cervantes-trichoderma-beneficial-fungi]]. The residue left after standard analysis is typically humic acid material, which contributes to its value. This is the preferred form for compost tea.
-- **Unsulfured molasses**: Sulfur is a potent fungicide, so molasses treated with sulfur will inhibit the very fungi it is intended to support. Always use unsulfured products.
-- **Dried cane sugar and dried molasses**: These products lose the humic acid residue during the drying process, which is nearly impossible to dry down. Testing shows dried cane products grow mostly bacteria, whereas blackstrap molasses supports both bacteria and beneficial fungi.
-- **Beet molasses**: An alternative to cane molasses that works similarly, available in regions where beet sugar is produced.
+title: "Molasses Fungal Food Sticker Spreader Ingham"
+type: concept
+tags: []
+sources: []
 ---
+
 
 Color variation between batches indicates compositional differences year to year, which can affect microbial growth outcomes.
 
@@ -64,7 +52,7 @@ An additional benefit of high molasses concentrations is the suppression of anae
 
 ## Molasses vs. Dried Cane Sugar
 
-A common substitution error is using dried cane sugar products in place of blackstrap molasses. Comparative testing shows that at usual tea concentrations:
+A common substitution error is using dried cane sugar products in place of [[blackstrap-molasses]]. Comparative testing shows that at usual tea concentrations:
 
 - Dried cane products grow mostly bacteria
 
@@ -78,7 +66,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish molasses fungal food sticker spreader ingham
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +80,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Molasses Fungal Food Sticker Spreader Ingham finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

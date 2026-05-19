@@ -1,19 +1,10 @@
 ---
-title: "Diplazium esculentum"
-type: species
-tags:
-  - edible-fern
-  - vegetable
-  - asian-cuisine
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Copeland, E.B. (1947). "Genera Filicum." Chronica Botanica Company.
-  - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
-  - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
-  - Farnsworth, E. et al. (2007). "Wild edible ferns of Asia." Economic Botany, 61(1), 1-15.
-  - Cheng, H.H. et al. (2016). "[[psilocybe-southeast-asia-pacific]], where it is known by numerous local names including pako (Philippines), ningro (India), and pucuk pakis (Indonesia).
+title: "Diplazium Esculentum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The young fronds are harvested as a [[hamilton-composting-and-organic-matter-management]].
 
@@ -47,7 +38,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish diplazium esculentum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -61,7 +52,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Diplazium Esculentum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

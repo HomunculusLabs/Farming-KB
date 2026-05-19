@@ -1,27 +1,15 @@
 ---
-title: "Asimina triloba"
-type: species
-tags:
-  - plants
-  - annonaceae
-  - fruit-tree
-  - [[agroforestry]]
-  - north-american-native
-  - edible-fruit
-created: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Kral, R. (1960). "A Revision of Asimina and Deeringothamnus (Annonaceae)."
-    Contributions from the dmt-containing-plants-united-states-halpern National Herbarium 34(1).
-  - Pomper, K.W. et al. (2009). "[[ghouled-field-guide-historical-context]] to [[dmt-containing-plants-united-states-halpern]] and the only temperate species in the tropical
-family Annonaceae. It produces a sweet, custard-like fruit with a flavor
-often described as a blend of banana, mango, and melon.
+title: "Asimina Triloba"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species ranges from the Atlantic coast to the eastern edge of the Great
 Plains, and from northern Florida to southern Ontario. Despite its wide native
 range, the pawpaw remains relatively underutilized in commercial agriculture
-and is gaining renewed interest in permaculture and agroforestry systems.
+and is gaining renewed interest in [[permaculture]] and [[agroforestry]] systems.
 
 ## Taxonomy
 
@@ -87,7 +75,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Asimina Triloba finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

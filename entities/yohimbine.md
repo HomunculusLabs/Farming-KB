@@ -1,26 +1,10 @@
 ---
 title: "Yohimbine"
-type: chemical
-tags:
-  - alkaloid
-  - indole-alkaloid
-  - aphrodisiac
-  - alpha-2-antagonist
-  - vasodilator
-  - stimulant
-  - erectile-dysfunction
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Tam, S.W. et al. (2001). "Yohimbine: A clinical review." Pharmacology & Therapeutics, 91(3), 215–243.
-  - Andrianne, R. et al. (1988). "Yohimbine and erectile dysfunction." British Journal of Urology, 62(4), 362–365.
-  - Fontenot, M.B. et al. (2003). "Yohimbine effects on anxiety in humans." Psychopharmacology, 170(4), 418–425.
-  - Corazza, O. et al. (2014). "blesching-cannabis-safety-adverse-effects-evidence of yohimbine-containing products." Drug [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] classified chemically as α-yohimbine or rauwolscine. It is the primary active compound found in the bark of *[[tihkal-receptor-binding-serotonin]] profile:**
-- α₂-adrenergic: Kᵢ ≈ 1–10 nM (potent antagonist)
-- α₁-adrenergic: Kᵢ ≈ 100–1000 nM (weak antagonist)
-- 5-HT₁A: Kᵢ ≈ 200–500 nM (weak antagonist)
-- Dopamine D₂: Minimal affinity
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Effects and Dosage
 
@@ -53,7 +37,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish yohimbine
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -67,7 +51,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Yohimbine finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

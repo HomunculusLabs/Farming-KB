@@ -1,23 +1,10 @@
 ---
 title: "Zombie Kush"
-created: 2026-04-28
-updated: 2026-04-28
-type: strain
-tags:
-  - cannabis
-  - strain
-  - indica-dominant
-  - og-kush-lineage
-  - purple-genetics
-  - relaxation
-sources:
-  - Barney's Farm Seed Bank (2020). "Zombie Kush chupacabra-strain-profile-sickmeds-oner." Official catalog.
-  - Leafly Staff (2022). "Zombie Kush blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
-  - AllBud (2023). "Zombie Kush [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Barney's Farm, a
-Netherlands-based seed bank known for award-winning genetics. The strain was created
-by crossing Sideshow with a Lavender × Amnesia cross, producing a heavy-bodied
-variety with deeply relaxing effects.
+type: entity
+tags: []
+sources: []
 ---
+
 
 The name reflects its powerful sedative properties — users report feeling "couch-
 locked" or immobilized, reminiscent of the zombie archetype in popular culture.
@@ -32,7 +19,7 @@ Zombie Kush has a complex four-way genetic background:
   phenotype derived from the OG Kush family. Sideshow contributes heavy resin
   production, high THC content, and strong sedative effects.
 
-- **Lavender** (Soma Seeds) — created by crossing Super Skunk, Big Skunk Korean,
+- **Lavender** (Soma Seeds) — created by crossing [[super-skunk]], Big Skunk Korean,
   and Afghani Hawaiian. Lavender contributes its distinctive floral aroma, deep
   purple coloration potential, and body-focused relaxation.
 
@@ -87,7 +74,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish zombie kush
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -101,7 +88,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Zombie Kush finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

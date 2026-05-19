@@ -1,18 +1,10 @@
 ---
-title: "Betula alleghaniensis"
-type: species
-tags:
-  - betulaceae
-  - temperate-hardwood
-  - ornamental-tree
-  - medicinal-plant
-  - timber-tree
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Erdmann, G.G. (1990). "Betula alleghaniensis Britton." in Silvics of [[psilocybin-north-america-pacific-northwest]]. USDA Forest Service.
-  - Farrar, J.L. (1995). Trees of the Northern [[guzman-psilocybin-mushrooms-north-america]]. It is the most commercially important birch species in its range, valued for its hard, close-grained wood.
+title: "Betula Alleghaniensis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is named for the Allegheny Mountains where it was first documented. It is easily recognized by its distinctive golden-bronze, peeling bark on mature specimens, which contrasts with the white bark of paper birch.
 
@@ -84,7 +76,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish betula alleghaniensis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -98,7 +90,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Betula Alleghaniensis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

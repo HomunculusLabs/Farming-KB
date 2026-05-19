@@ -1,21 +1,10 @@
 ---
-title: "Nypa fruticans"
-type: species
-tags:
-  - arecaceae
-  - palm
-  - mangrove
-  - coastal-ecology
-  - biofuel
-  - tropical-plant
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum: Evolution and Classification of the Palms." Kew Publishing.
-  - Tomlinson, P.B. (2016). "The Botany of Mangroves." Cambridge University Press.
-  - Matsui, N. et al. (2014). "Nypa fruticans: A potential bioethanol source in [[dighton-fungal-responses-climate-change]]." Estuarine, Coastal and Shelf Science, 76(1), 1-13.
-  - Ellison, J.C. & Farnsworth, E.J. (1996). "Anthropogenic disturbance of Caribbean [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] and mangrove ecosystem stability. Its dense root networks stabilize shorelines and reduce erosion from waves and storm surges.
+title: "Nypa Fruticans"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species has been utilized by coastal communities for millennia across its range. Archaeological evidence from Southeast Asia suggests nipa palm exploitation dates back at least 3,000 years.
 
@@ -59,7 +48,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish nypa fruticans
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -73,7 +62,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Nypa Fruticans finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

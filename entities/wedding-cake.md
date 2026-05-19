@@ -1,19 +1,10 @@
 ---
 title: "Wedding Cake"
-type: strain
-tags:
-  - cannabis
-  - strain
-  - hybrid
-  - indica-dominant
-  - dessert-variety
-  - high-thc
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Leafly Staff (2024). "Wedding Cake Strain Information." Leafly.com.
-  - AllBud (2024). "Wedding Cake [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Seed Junky Genetics in Southern California.
+type: entity
+tags: []
+sources: []
 ---
+
 
 The strain won first place in the Hybrid category at the 2018 High Times Cannabis Cup in Santa Rosa, California.
 
@@ -21,11 +12,11 @@ It has become one of the most commercially successful and widely available strai
 
 ## Lineage and Genetics
 
-**Parent cross:** *[[cannabis-glandular-trichome-types-resin-production-clarke]], while the Girl Scout Cookies lineage provides sweet, vanilla-tinged terpenes.
+**Parent cross:** *[[cannabis-glandular-trichome-types-resin-production-clarke]], while the [[girl-scout-cookies]] lineage provides sweet, vanilla-tinged terpenes.
 
 Animal Mints adds additional minty and earthy undertones that distinguish Wedding Cake from its GSC parent alone.
 
-The strain is a descendant of the legendary OG Kush and Durban Poison lineages through multiple generational crosses.
+The strain is a descendant of the legendary OG Kush and [[durban-poison]] lineages through multiple generational crosses.
 
 ## Appearance and Aroma
 
@@ -37,9 +28,9 @@ Colors range from deep forest green to lavender and purple hues, particularly wh
 
 **Aroma:** Dominated by sweet vanilla and tangy earthiness on the initial impression, followed by layers of peppery spice and sour cream.
 
-Breaking apart the buds releases a more complex profile with diesel undertones from the Triangle Kush lineage.
+Breaking apart the buds releases a more complex profile with diesel undertones from the [[triangle-kush]] lineage.
 
-**Flavor:** Creamy vanilla cake batter dominates the inhale, with a peppery, slightly sour exhale that lingers on the palate.
+**Flavor:** Creamy vanilla [[cake-batter]] dominates the inhale, with a peppery, slightly sour exhale that lingers on the palate.
 
 The flavor is notably smoother than many high-THC strains, contributing to its broad consumer appeal.
 
@@ -83,7 +74,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish wedding cake
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -97,7 +88,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Wedding Cake finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,15 +1,14 @@
 ---
-title: "DMT and Amazonian Snuff Traditions: Virola and Anadenanthera"
-source: "Food of the Gods"
-source_author: "[[terence-mckenna]]"
-topics: ["DMT", "[[psychedelic-substances-comparison]] known to science, administered through snuffing
-traditions that stretch back thousands of years. Among these, the bark
-resins of *Virola* species and the seeds of *[[mexican-sacred-mushroom-traditions]].
+title: "Mckenna Food Gods Dmt Virola Anadenanthera Amazonian Snuff Traditions"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## N,N-Dimethyltryptamine (DMT)
 
-DMT is a simple tryptamine molecule — structurally related to serotonin
+DMT is a simple [[tryptamine]] molecule — structurally related to serotonin
 and the neurotransmitters that regulate mood, perception, and
 consciousness — yet it produces some of the most intense psychedelic
 experiences known. When vaporized or injected, DMT launches the user into
@@ -22,7 +21,7 @@ consciousness with remarkable speed and clarity.
 Oral DMT is normally inactive because the enzyme monoamine oxidase (MAO)
 in the gut rapidly degrades the molecule before it can reach the brain.
 This is why ayahuasca — which combines DMT-containing plants with MAO
-inhibitors such as *Banisteriopsis caapi* vine — must be consumed as a
+inhibitors such as *[[banisteriopsis-caapi]]* vine — must be consumed as a
 brew. Snuffing bypasses the digestive system entirely, delivering DMT
 directly through the highly vascularized nasal mucosa into the bloodstream
 and brain. This route produces a faster onset and more intense experience
@@ -49,12 +48,12 @@ is blown into the nostrils of the user through long tubes by an assistant.
 The experience begins within minutes and is overwhelmingly intense. Users
 report visions of luminous geometric patterns, encounters with animal
 spirits and ancestors, and sensations of flight through multidimensional
-spaces. The Virola snuff experience is among the most powerful psychedelic
+spaces. The [[virola-snuff]] experience is among the most powerful psychedelic
 states produced by any natural substance.
 
 ## Anadenanthera: Yopo and Cohoba
 
-*Anadenanthera peregrina* (formerly *Piptadenia peregrina*) is a tree
+*[[anadenanthera-peregrina]]* (formerly *Piptadenia peregrina*) is a tree
 native to the Orinoco basin and the Caribbean. Its seeds contain
 substantial quantities of bufotenin (5-hydroxy-DMT), DMT, and
 5-MeO-DMT. The snuff prepared from these seeds — called *yopo* in the
@@ -95,7 +94,7 @@ cultures.
 
 ## McKenna's Analysis
 
-Terence McKenna considered the Amazonian snuff traditions to be among the
+[[terence-mckenna]] considered the Amazonian snuff traditions to be among the
 most direct and powerful of all entheogenic practices. Unlike the
 mushroom cults of Mesoamerica, which were largely destroyed by the Spanish
 conquest, or [[mckenna-food-gods-stoned-ape-hypothesis]]

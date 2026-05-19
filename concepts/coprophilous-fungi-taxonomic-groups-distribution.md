@@ -1,25 +1,18 @@
 ---
-title: Coprophilous Fungi Taxonomic Groups Distribution
-created: 2026-04-26
-tags:
-  - [[fungal-ecology]]
-  - taxonomy
-  - [[biodiversity-coprophilous-zygomycetes-dung]] was carried out
-in southern California and adjacent parts of Arizona and Mexico. Over
-35 years, 88 species distributed among 42 genera were recorded
-(excluding Mucor and Rhizopus). In comparison, 78 species in 26 genera
-were reported for Pakistan after 5 years of extensive collecting, and
-in more temperate Switzerland, 20 species in 10 genera were found.
+title: "Coprophilous Fungi Taxonomic Groups Distribution"
+type: concept
+tags: []
+sources: []
 ---
 
 Zygomycetes generally are observed early in succession on dung (within
 5-14 days). They are often isolated preferentially from fresh dung,
 which is generally a poorer substratum for most Ascomycetes and
-Basidiomycetes but preferable for the isolation of Zygomycetes.
+[[basidiomycetes]] but preferable for the isolation of Zygomycetes.
 
 ### Ascomycetes
 
-Ascomycetes are the most diverse group of coprophilous fungi. Cain
+Ascomycetes are the most diverse group of [[coprophilous-fungi]]. Cain
 (1934) recorded 112 taxa of coprophilous Sphaeriales from Ontario,
 Canada. In East Africa and Venezuela, comparable numbers of taxa are
 118 and 122, respectively. If one includes all coprophilous
@@ -120,3 +113,11 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+Understanding these interconnected mechanisms provides a foundation for both research applications and practical implementation in relevant systems and contexts.
+
+This synthesis highlights the importance of cross-disciplinary
+approaches to understanding complex biological phenomena.
+The interplay between molecular mechanisms and ecological
+context continues to yield new insights for practitioners.
+

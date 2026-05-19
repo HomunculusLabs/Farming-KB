@@ -1,32 +1,10 @@
 ---
-title: "Ergine"
-created: 2026-04-28
-type: chemical
-tags:
-  - psychedelic
-  - tryptamine
-  - lysergamide
-  - ergoline
-  - entheogen
-  - morning-glory
-  - hawaiian-baby-woodrose
-  - natural-occurrence
-  - serotonergic
-  - partial-agonist
-  - ergot-alkaloid
-  - oneirogen
-  - plant-alkaloid
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Shulgin, A., Shulgin, A. (1997). "TIHKAL: The Continuation."
-  Transform Press.
-  - Hofmann, A. (1959). "The Active Principles of the Seeds of
-    [[ipomoea-violacea]]." Public Health Service.
-  - Taber, W.A., Heacock, R.A. (1962). "[[ipomoea-tricolor]]*, *I. violacea*, *[[albert-hofmann]] first isolated ergine from *[[rivea-corymbosa]]*
-seeds in 1960, confirming these plants as the botanical source of the
-Aztec entheogen *ololiuqui*.
+title: "Ergine Entity"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Ergine is a structural analog of LSD, with an amide group in place of
 LSD's diethylamide substituent. It is approximately 10–30 times less
@@ -38,7 +16,7 @@ more sedative subjective effects.
 - **IUPAC name:** (6aR,9R)-N,6-dimethyl-9-((S)-oxan-2-yl)-7,8,9,10-
   tetrahydro-6H-6a,9-epimino[1,3]dioxolo[4,5-h]chromen-8-carboxamide
 - **Molecular formula:** C₁₆H₁₇N₃O | **MW:** 267.33 g/mol
-- **Structure type:** Ergoline (tetracyclic lysergamide)
+- **Structure type:** Ergoline (tetracyclic [[lysergamide]])
 - **Solubility:** Insoluble in water; soluble in ethanol, methanol, DMSO,
   and acidic aqueous solutions
 - **CAS:** 478-94-4
@@ -57,7 +35,7 @@ of the amide bond.
   and [[psilocybin-default-mode-network-ego-dissolution]] network
 - **Metabolism:** Hepatic CYP450; N-dealkylation and oxidative pathways;
   half-life ~3–4 hours
-- **Alkaloid synergy:** Co-occurs with ergometrine, isoergine, and
+- **Alkaloid synergy:** Co-occurs with [[ergometrine]], isoergine, and
   lysergol in plant seeds, contributing to overall profile
 
 The pharmacological distinction from LSD is significant: additional
@@ -85,7 +63,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish ergine entity
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -99,7 +77,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ergine Entity finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

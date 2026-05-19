@@ -1,25 +1,14 @@
 ---
 title: "Glaucine"
-type: chemical
-tags:
-  - alkaloid
-  - aporphine
-  - antitussive
-  - bronchodilator
-  - anti-inflammatory
-  - pharmacology
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Capparelli E et al. (2003). "Glaucine: a review of its pharmacology, toxicology and pharmacokinetics." Phytotherapy Research 17(7): 771-777.
-  - Froldi G et al. (1997). "Calcium antagonist activity of glaucine in isolated rat aorta." Pharmacological Research 36(3): 229-233.
-  - Schmeller T et al. (1997). "Biochemical activities of aporphine alkaloids." Phytochemistry 44(3): 443-449.
-  - Orallo F (1996). "Study of the in vivo and in vitro [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] with [[apomorphine]] and has been investigated for a range of pharmacological activities including bronchodilation, anti-inflammatory, and antitussive effects.
+type: entity
+tags: []
+sources: []
 ---
+
 
 Unlike benzylisoquinoline opium alkaloids, glaucine belongs to the aporphine structural class, formed by oxidative coupling of benzylisoquinoline precursors.
 
-The compound is of interest as a potential non-opioid antitussive agent that avoids the side effects associated with codeine and dextromethorphan.
+The compound is of interest as a potential non-opioid antitussive agent that avoids the side effects associated with codeine and [[dextromethorphan]].
 
 ## Chemical Properties
 
@@ -43,7 +32,7 @@ PDE4 inhibition underlies glaucine's bronchodilatory and anti-inflammatory prope
 
 Glaucine also acts as a non-selective calcium channel antagonist, inhibiting voltage-operated calcium channels in vascular and bronchial smooth muscle.
 
-At dopamine receptors, glaucine shows moderate affinity for D1 and D2 receptor subtypes, though this activity is weaker than that of its close relative apomorphine.
+At dopamine receptors, glaucine shows moderate affinity for D1 and D2 receptor subtypes, though this activity is weaker than that of its close relative [[apomorphine]].
 
 The antitussive effect of glaucine is mediated through peripheral mechanisms in the airways rather than central opioid receptors, distinguishing it from codeine.
 
@@ -83,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish glaucine
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

@@ -1,22 +1,10 @@
 ---
 title: "Capsaicin"
-created: 2026-05-09
-type: chemical
-tags:
-  - alkaloid
-  - capsaicinoid
-  - vanilloid
-  - analgesic
-  - anti-inflammatory
-  - pharmacology
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Caterina, M.J. et al. (1997). "The capsaicin receptor: a heat-activated ion channel in the pain pathway." Nature, 389, 816-824.
-  - Szallasi, A. & Blumberg, P.M. (1999). "Vanilloid receptors: new insights enhance potential as a therapeutic target." Pain, 82(2), 109-113.
-  - Rollyson, W.D. et al. (2014). "Bioavailability of capsaicin and its implications for drug delivery." Journal of Pharmacy and Pharmacology, 66(8), 1064-1073.
-  - Sharma, S.K. et al. (2013). "[[query-how-to-grow-chili-peppers-from-seed-to-harvest]] (*Capsicum* species). It is an agonist of the transient receptor potential vanilloid 1 (TRPV1) channel, producing the sensation of burning pain and triggering neurogenic inflammation.
+type: entity
+tags: []
+sources: []
 ---
+
 
 Beyond its role as a food irritant, capsaicin has significant [[psilocybin-therapeutic-applications]] as a topical analgesic and anti-inflammatory agent. Capsaicin and related capsaicinoids are responsible for the heat sensation measured by the Scoville scale.
 
@@ -61,7 +49,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish capsaicin
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

@@ -1,20 +1,10 @@
 ---
-title: "Riccia fluitans"
-type: species
-tags:
-  - bryophyte
-  - liverwort
-  - marchantiopsida
-  - aquatic
-  - thalloid
-  - ricciaceae
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
-  - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae [[fungal-roles-aquatic-environments]] including ponds, ditches, slow-moving streams, marshes, and lake margins. It tolerates both acidic and alkaline water conditions.
+title: "Riccia Fluitans"
+type: entity
+tags: []
+sources: []
 ---
+
 
 It frequently grows among other aquatic bryophytes and macrophytes, forming mixed mats on the water surface. These floating mats provide habitat for numerous invertebrate species.
 
@@ -50,7 +40,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish riccia fluitans
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

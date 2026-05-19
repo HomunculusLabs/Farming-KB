@@ -1,25 +1,14 @@
 ---
 title: "Baeocystin"
-created: 2026-04-28
-updated: 2026-04-28
-type: chemical
-tags:
-  - chemical
-  - psychedelic
-  - tryptamine
-  - alkaloid
-  - pharmacology
-sources:
-  - Leung, A.Y. & Paul, A.G. (1968). "baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis: New analogs of psilocybin from stamets-psi-psilocybe-baeocystis-knobby-tops." Journal of Pharmaceutical Sciences.
-  - Gartz, J. (1989). "Biotransformation of tryptamine derivatives in mycelial cultures of Psilocybe cubensis." Planta Medica.
-  - Tsujikawa, K. et al. (2003). "Determination of psilocin, psilocybin, and baeocystin in mushroom samples." Forensic Science International.
-  - Jensen, M.P. et al. (2021). "Pharmacology of baeocystin: A comprehensive review of preclinical evidence." ACS Pharmacology & Translational Science.
-  - Repke, D.B. et al. (1977). "Cyclization of [[archaeology-of-psychedelic-mushrooms]], baeocystin remains significantly less studied than psilocybin. Its pharmacological profile, subjective effects, and contribution to the overall [[leary-psychedelic-experience-bardo-mapping]] of mushroom consumption are still subjects of active investigation.
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Chemical Properties
 
-**Structural classification:** Indolethylamine alkaloid (tryptamine derivative).
+**Structural classification:** Indolethylamine alkaloid ([[tryptamine]] derivative).
 
 **IUPAC name:** [3-[2-(Methylamino)ethyl]-1H-indol-4-yl] dihydrogen phosphate.
 
@@ -27,7 +16,7 @@ sources:
 
 **Molecular weight:** 270.22 g/mol.
 
-**[[gluconeogenesis-biochemistry-metabolic-pathway]] parallels the conversion of psilocybin to psilocin (4-HO-DMT).
+**[[gluconeogenesis-biochemistry-metabolic-pathway]] parallels the conversion of [[psilocybin]] to psilocin (4-HO-DMT).
 
 Baeocystin is soluble in water and polar organic solvents. It is stable under acidic conditions but undergoes dephosphorylation under alkaline conditions, consistent with the behavior of other phosphorylated tryptamines.
 
@@ -35,7 +24,7 @@ Baeocystin is soluble in water and polar organic solvents. It is stable under ac
 
 The pharmacology of baeocystin remains incompletely characterized, though research has accelerated since 2020. Key findings include:
 
-- **[[cannabis-terpene-entourage-effect]] of baeocystin, norbaeocystin, and other minor alkaloids may modulate the character and intensity of the psilocybin experience, though controlled clinical studies isolating baeocystin's contribution are lacking.
+- **[[cannabis-terpene-entourage-effect]] of baeocystin, [[norbaeocystin]], and other minor alkaloids may modulate the character and intensity of the psilocybin experience, though controlled clinical studies isolating baeocystin's contribution are lacking.
 
 ## Occurrence in Nature
 
@@ -53,7 +42,7 @@ Analytical detection typically employs liquid chromatography-tandem mass spectro
 
 ## Legal Status
 
-Baeocystin's legal status is primarily determined through its classification as an analog or constituent of psilocybin-containing fungi. In jurisdictions where psilocybin mushrooms are [[controlled-substances-act-and-psychedelic-research]], baeocystin is typically covered under the same scheduling framework.
+Baeocystin's legal status is primarily determined through its classification as an analog or constituent of psilocybin-containing fungi. In jurisdictions where [[psilocybin-mushrooms]] are [[controlled-substances-act-and-psychedelic-research]], baeocystin is typically covered under the same scheduling framework.
 
 In the United States, baeocystin is not individually listed on the Controlled Substances Act but may fall under the Federal Analogue Act as a positional isomer or analog of psilocybin. Enforcement varies by jurisdiction. Internationally, the compound's status follows local psilocybin legislation in most countries.
 
@@ -81,7 +70,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish baeocystin
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -95,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Baeocystin finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

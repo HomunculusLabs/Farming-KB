@@ -1,21 +1,10 @@
 ---
-title: "Cladonia portentosa"
-type: species
-tags:
-  - lichen
-  - cladoniaceae
-  - fruticose
-  - subarctic
-  - bioindicator
-  - traditional-medicine
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Ahti, T. (1961). "Taxonomic studies on reindeer lichens (Cladonia, subg. Cladina)." Annales Botanici Societatis Zoologicae Botanicae Fennicae, 32(1), 1-160.
-  - Hammer, S. (1995). "Cladonia." In: Purvis, O.W. et al. (eds), The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and habitat quality in European
-conservation monitoring.
+title: "Cladonia Portentosa"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -37,7 +26,7 @@ branch tips.
 
 Spores are ellipsoid, 7-12 × 4-6 µm, colourless, and simple.
 
-Chemically, the species contains **usnic acid** and **fumarprotocetraric
+Chemically, the species contains **[[usnic-acid]]** and **fumarprotocetraric
 acid** in the cortex and medulla respectively, detectable by standard
 spot tests (K+ yellow, P+ yellow to orange-red).
 
@@ -77,7 +66,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish cladonia portentosa
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -91,7 +80,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cladonia Portentosa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

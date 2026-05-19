@@ -1,24 +1,10 @@
 ---
-title: Copelandia Cyanescens
-created: 2026-04-28
-type: species
-tags:
-  - fungi
-  - psychedelic-mushroom
-  - psilocybin
-  - entheogen
-  - coprophilous
-  - tropical
-  - mycology
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - Guzmán, G., Allen, J.W. & Gartz, J. (2000). "Worldwide [[global-distribution-of-neurotropic-fungi]] fungi." Mycotaxon.
-  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
-  - Gartz, J. (1995). "[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]* by Berkeley and Broome in 1871, it was reclassified into the genus *Copelandia* by Singer in 1951 based on its distinct microscopic features — notably the presence of pleurocystidia (cheilocystidia-like cells on the gill faces), a trait absent in typical *Panaeolus* species. Found primarily in tropical and subtropical regions worldwide, *C. cyanescens* is a coprophilous (dung-inhabiting) species that fruits on the dung of large herbivores. It is among the most potent psilocybin-containing mushrooms known, with [[stamets-psi-psilocybe-azurescens-species-guide]]*. The species is culturally significant in Hawaiian, [[panaeolus-cyanescens-bali-omelette]]* Berk. & Broome (1871), *Coprinus cyanescens* (Berk.) Sacc.
-- **Etymology:** "Cyanescens" refers to the intense blue bruising; type locality: Sri Lanka
+title: "Copelandia Cyanescens"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Description
 
@@ -28,7 +14,7 @@ sources:
 - **Gills:** Adnate to adnexed, close to subdistant, with 2–3 tiers of lamellulae. Greyish at first, becoming mottled black as spores mature. Edges white and fimbriate (fringed).
 - **Stem:** 40–100 mm × 2–4 mm, cylindrical, equal, hollow, smooth to slightly fibrillose. White to pale grey, bruising intensely blue to blue-black upon handling. No annulus present.
 - **Flesh:** Thin, white, bruising vividly blue throughout. Odor farinaceous (mealy).
-- **Spore print:** Dark purplish-black to nearly black.
+- **[[spore-print]]:** Dark purplish-black to nearly black.
 
 ### Microscopic Features
 
@@ -85,7 +71,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish copelandia cyanescens
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -101,7 +87,7 @@ with this element in complex and beneficial ways.
 Copelandia Cyanescens finds practical application in multiple design contexts.
 
 - Related: [[psilocybe-fimetaria]] [[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]]
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

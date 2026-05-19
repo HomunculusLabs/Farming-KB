@@ -141,7 +141,7 @@ desired.
 
 ## See Also
 
-- [[goldenseal-mollison]]
+- [[hydrastis-canadensis]]
 - [[echinacea-growing-guide]]
 - [[comparison-astragalus-vs-echinacea]]
 - [[comparison-ashwagandha-vs-echinacea]]

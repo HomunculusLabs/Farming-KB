@@ -1,21 +1,10 @@
 ---
-title: "Irvingia gabonensis"
-type: species
-tags:
-  - irvingiaceae
-  - food-crop
-  - african-mango
-  - ogbono
-  - agroforestry
-  - nutritional
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Lowe, J. (1932). "Irvingiaceae." Flora of Tropical West Africa, 1(2), 293-296.
-  - Okafor, J.C. (1975). "Varietal delimitation in Irvingia gabonensis." Nigerian Journal of Forestry, 5(1), 34-37.
-  - Ngondi, J.L. et al. (2005). "Irvingia gabonensis extract affects body weight and metabolic parameters." Lipids in Health and Disease, 4, 12.
-  - Atawodi, S.E. et al. (2009). "[[fungal-biodiversity-tropical-forests]] of West and Central Africa. It is commonly known as African mango, bush mango, wild mango, or ogbono.
+title: "Irvingia Gabonensis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species produces edible fruits with sweet, fibrous mesocarp and large seeds that are widely used as a thickening agent in West African soups and stews. The kernels, traded commercially as ogbono or dika nuts, are a significant source of dietary fat and protein.
 
@@ -27,7 +16,7 @@ Irvingia gabonensis was described by Aubry-Lecomte ex O'Rorke in 1857. The genus
 
 Wild trees are often preserved when forest is cleared for agriculture, creating a characteristic parkland landscape in many parts of West Africa. These retained trees continue to provide fruit and serve as seed sources for natural regeneration.
 
-Irvingia gabonensis is widely cultivated in home gardens, compound farms, and agroforestry systems throughout West and Central Africa. Cultivated trees are often retained during forest clearance for agriculture.
+Irvingia gabonensis is widely cultivated in home gardens, compound farms, and [[agroforestry]] systems throughout West and Central Africa. Cultivated trees are often retained during forest clearance for agriculture.
 
 The tree tolerates a range of soil types including ultisols, oxisols, and alluvial soils, provided drainage is adequate. It performs poorly on waterlogged or highly calcareous substrates.
 
@@ -35,7 +24,7 @@ The tree tolerates a range of soil types including ultisols, oxisols, and alluvi
 
 The fruit mesocarp contains approximately 70% moisture, 10% carbohydrates, 2% protein, and 1% fat. It provides significant amounts of vitamin C and beta-carotene, though nutritional content varies among provenances.
 
-The seed kernels are the most nutritionally significant product, containing approximately 50–70% fat, 8–10% protein, and 10–15% carbohydrate. The fat is rich in lauric acid, myristic acid, and oleic acid.
+The seed kernels are the most nutritionally significant product, containing approximately 50–70% fat, 8–10% protein, and 10–15% [[carbohydrate]]. The fat is rich in lauric acid, myristic acid, and oleic acid.
 
 The fatty acid profile is distinctive among tree seeds, with lauric acid comprising 40–55% of total [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]. This profile is more similar to palm kernel oil than to typical temperate tree nut oils.
 
@@ -69,7 +58,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish irvingia gabonensis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -83,7 +72,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Irvingia Gabonensis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

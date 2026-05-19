@@ -1,31 +1,10 @@
 ---
-title: Cerrena unicolor
-type: species
-aliases:
-  - "Cerrena meyenii"
-  - "Daedalea unicolor"
-  - "Polyporus unicolor"
-  - "Spongipellis unicolor"
-  - "white rot polypore"
-  - "smoked bracket"
-tags:
-  - fungi
-  - basidiomycota
-  - polyporaceae
-  - white-rot
-  - wood-decay
-  - laccase
-  - bioremediation
-  - medicinal
-  - enzymology
-  - bracket-fungus
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Ryvarden, L. & Gilbourn, C.L. (2004). "Polyporaceae." Synopsis Fungorum 21: 1–708.
-  - Floudas, D. et al. (2012). "The Paleozoic Origin of Enzymatic Lignin Decomposition Reconstructed from 31 Fungal Genomes." Science 336(6089): 1715–1719.
-  - Dashtban, M. et al. (2010). "[[singh-fungal-laccase-enzymes-bioremediation]] used in biotechnology and bioremediation.
+title: "Cerrena Unicolor"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species colonizes dead and dying hardwood, particularly fallen branches and stumps of oak, beech, and birch. It fruits as tough, semicircular brackets with a distinctive zonate upper surface and a gray-to-cream pore layer underneath.
 
@@ -33,7 +12,7 @@ C. unicolor has attracted significant industrial interest for its laccase produc
 
 ## Taxonomy and Morphology
 
-**Classification:** Basidiomycota → Agaricomycetes → Polyporales → Polyporaceae → *Cerrena* → *C. unicolor*.
+**Classification:** [[basidiomycota]] → Agaricomycetes → Polyporales → Polyporaceae → *Cerrena* → *C. unicolor*.
 
 The species was originally described as *Boletus unicolor* by Bulliard in 1788 and has undergone multiple generic transfers. Murrill placed it in *Cerrena* in 1903.
 
@@ -85,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish cerrena unicolor
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -99,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cerrena Unicolor finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

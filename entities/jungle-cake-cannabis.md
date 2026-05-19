@@ -1,30 +1,14 @@
 ---
-title: "Jungle Cake"
-type: strain
-tags:
-  - cannabis
-  - strain
-  - hybrid
-  - white-[[fire-og]]
-  - wedding-cake
-  - seed-junky-genetics
-  - high-thc
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Leafly Staff (2023). "Jungle Cake blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
-  - AllBud (2023). "Jungle Cake Strain Review." AllBud.
-  - Seedsman (2022). "Jungle Cake [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by Seed Junky Genetics
-through the cross of White Fire #43 (also known as WiFi #43) and Wedding Cake.
-It first gained commercial availability around 2019 and has since become a
-sought-after variety among experienced consumers for its potent effects and
-complex [[african-landrace-sativa-modern-hybrids]]. Its reputation centers on a smooth onset that
-builds into deeply relaxing body effects paired with an uplifted cerebral state.
+title: "Jungle Cake Cannabis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Lineage
 
-- **Female parent:** Wedding Cake (Triangle Kush × [[trichoderma-forest-green-mold-guide]] with occasional
+- **Female parent:** [[wedding-cake]] ([[triangle-kush]] × [[trichoderma-forest-green-mold-guide]] with occasional
 deep purple undertones, especially when exposed to cooler nighttime temperatures
 during late flowering.
 
@@ -80,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish jungle cake cannabis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -94,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Jungle Cake Cannabis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

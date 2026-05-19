@@ -1,18 +1,12 @@
 ---
-title: "Plant Maze Navigation and Spatial Memory"
-source: "What a Plant Knows - Daniel Chamovitz, Chapter 5: How a Plant Knows Where It Is"
-tags:
-  - plant-biology
-  - [[daniel-chamovitz]] explores the remarkable
-ways plants maintain [[cannabis-harvest-timing-visual-cues]] will reliably
-send its roots deeper and push its shoot upward toward the surface. Even if
-a plant is turned upside down, it will begin to reorient its growth within
-hours, curving roots back downward and shoots back upward. This persistent
-correction demonstrates that plants possess a robust gravity-sensing
-mechanism operating continuously throughout their lives.
+title: "Chamovitz Plant Maze Navigation Spatial Memory"
+type: concept
+tags: []
+sources: []
 ---
 
-The universality of gravitropism across the plant kingdom underscores its
+
+The universality of [[gravitropism]] across the plant kingdom underscores its
 evolutionary importance. From the smallest annuals to the tallest trees,
 distinguishing up from down is essential. Roots must reach water and
 minerals in the soil, while shoots must reach sunlight for photosynthesis.
@@ -23,7 +17,7 @@ efficiently gather needed resources.
 
 The cellular mechanism behind gravitropism resides in specialized cells
 called statocytes, found in the root cap (columella cells) and the shoot
-endodermis. Within these statocytes are organelles called amyloplasts, also
+[[endodermis]]. Within these statocytes are organelles called amyloplasts, also
 known as statoliths, filled with dense starch granules. Because starch is
 heavier than the surrounding cytoplasm, amyloplasts settle to the bottom of
 the cell under gravity, much like pebbles settling to the bottom of a glass.
@@ -31,7 +25,7 @@ the cell under gravity, much like pebbles settling to the bottom of a glass.
 When a plant is reoriented, the amyloplasts slide to the new "bottom" of
 the cell. This physical displacement is detected by the cell through
 pressure-sensitive mechanisms, likely involving interactions between the
-amyloplasts and the endoplasmic reticulum or plasma membrane. The
+amyloplasts and the [[endoplasmic-reticulum]] or plasma membrane. The
 sedimentation of starch-filled statoliths provides the plant with a
 biological accelerometer that continuously reports the direction of gravity.
 

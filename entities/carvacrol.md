@@ -1,33 +1,16 @@
 ---
-title: Carvacrol
-created: 2026-05-09
-type: chemical
-tags:
-  - monoterpene-phenol
-  - terpenoid
-  - antimicrobial
-  - antifungal
-  - anti-inflammatory
-  - oregano
-  - essential-oil
-  - food-preservative
-  - antioxidant
-  - medicinal-plant-compound
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=carvacrol+pharmacology+review
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3957829/
-  - https://www.frontiersin.org/articles/10.3389/fphar.2021.641088/full
-  - Burt, S. (2004). "Essential oils: their antibacterial properties and potential applications in foods." International Journal of Food Microbiology, 94(3), 223-253.
-  - Sharifi-Rad, M. et al. (2018). "Biological activities of [[origanum-vulgare-entity]]) essential oil, typically comprising 60–85% of the total volatile fraction in the most common chemotypes. It is a structural isomer of [[dmt-botanical-sources-pharmacology]] include:
+title: "Carvacrol"
+type: entity
+tags: []
+sources: []
 ---
+
 
 - **Origanum vulgare** (oregano): The premier natural source; carvacrol-dominated chemotypes produce essential oil containing 60–85% carvacrol. Greek and Turkish oregano cultivars are particularly valued for high carvacrol content.
 - **Origanum onites** (Turkish oregano): Contains 50–70% carvacrol in essential oil; commercially important for essential oil production.
 - **Thymus vulgaris** (thyme): The carvacrol chemotype contains 40–65% carvacrol, complementing the more common thymol chemotypes.
 - **Origanum syriacum** (Syrian oregano/za'atar): Traditional Middle Eastern herb containing 40–60% carvacrol.
-- **[[staphylococcus-aureus]]* (MIC 32–128 µg/mL), *Bacillus cereus* (MIC 64–256 µg/mL), *Escherichia coli* (MIC 128–512 µg/mL), *Pseudomonas aeruginosa* (MIC 256–1024 µg/mL), *Salmonella Typhimurium* (MIC 64–256 µg/mL), and *Listeria monocytogenes* (MIC 64–128 µg/mL). Against fungi, it is active against *[[aspergillus-flavus]]*, and *Aspergillus niger*. Carvacrol also demonstrates antiparasitic activity against *Giardia lamblia*, *Leishmania major*, and various helminths. Notably, carvacrol disrupts bacterial biofilms and shows synergy with conventional antibiotics, reducing MIC values by 2- to 16-fold when combined with agents like gentamicin, chloramphenicol, and ciprofloxacin.
+- **[[staphylococcus-aureus]]* (MIC 32–128 µg/mL), *Bacillus cereus* (MIC 64–256 µg/mL), *Escherichia coli* (MIC 128–512 µg/mL), *[[pseudomonas]] aeruginosa* (MIC 256–1024 µg/mL), *Salmonella Typhimurium* (MIC 64–256 µg/mL), and *Listeria monocytogenes* (MIC 64–128 µg/mL). Against fungi, it is active against *[[aspergillus-flavus]]*, and *[[aspergillus-niger]]*. Carvacrol also demonstrates antiparasitic activity against *Giardia lamblia*, *Leishmania major*, and various helminths. Notably, carvacrol disrupts bacterial biofilms and shows synergy with conventional antibiotics, reducing MIC values by 2- to 16-fold when combined with agents like gentamicin, chloramphenicol, and ciprofloxacin.
 
 ### Anti-inflammatory Effects
 
@@ -61,7 +44,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish carvacrol
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -75,7 +58,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Carvacrol finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

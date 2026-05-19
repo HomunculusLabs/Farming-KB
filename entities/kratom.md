@@ -1,24 +1,10 @@
 ---
 title: "Kratom"
-type: biological
-tags:
-  - plant
-  - psychoactive
-  - opioid
-  - stimulant
-  - mitragyna-speciosa
-  - rubiaceae
-  - entheogen
-  - traditional-medicine
-  - mitragynine
-  - indole-alkaloid
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Prozialeck, W.C. et al. (2012). "Kratom ([[kratom-mitragyna-speciosa-pharmacology]]): An overview of the science and implications for practitioners." Journal of the American Osteopathic Association, 112(12), 782–787.
-  - Hassan, Z. et al. (2013). "Mechanism of antinociceptive action of Mitragyna speciosa: involvement of supraspinal opioid receptors." International Journal of Molecular Sciences, 14(12), 23482–23496.
-  - Grundmann, O. (2017). "Patterns of kratom use and health impact in the US." Drug and [[7-hydroxymitragynine]] being the primary psychoactive constituents. Kratom has been used traditionally for centuries as a stimulant, analgesic, and treatment for opioid withdrawal in its countries of origin.
+type: entity
+tags: []
+sources: []
 ---
+
 
 The pharmacological profile of kratom is unusual in that it produces both stimulant-like effects at lower doses and opioid-like effects at higher doses. This biphasic action has generated significant scientific and public health interest, particularly as kratom has been increasingly used in Western countries as a self-managed treatment for chronic pain, anxiety, and opioid dependence. The US DEA estimated approximately 10–15 million kratom users in the United States as of the mid-2020s.
 
@@ -65,7 +51,7 @@ Kratom's pharmacological profile is complex and not fully characterized, involvi
 
 The unique biased signaling profile of mitragynine at MOR represents a significant pharmacological distinction from classical opioids. In animal models, mitragynine produces potent antinociception with substantially less respiratory depression, constipation, and physical dependence than morphine at equianalgesic doses. This has generated interest in kratom alkaloids as potential leads for novel analgesic drug development with improved safety profiles.
 
-Mitragynine undergoes hepatic metabolism primarily via CYP3A4 and CYP2D6, with the major metabolite being 7-hydroxymitragynine. The elimination half-life of mitragynine is approximately 7–9 hours, though significant interindividual variability has been observed. O- and N-demethylation, oxidation, and glucuronidation produce numerous [[antifungal-secondary-metabolites-coprophilous-fungi]], some of which retain pharmacological activity.
+Mitragynine undergoes hepatic metabolism primarily via CYP3A4 and CYP2D6, with the major metabolite being 7-hydroxymitragynine. The elimination half-life of mitragynine is approximately 7–9 hours, though significant interindividual variability has been observed. O- and N-demethylation, oxidation, and [[glucuronidation]] produce numerous [[antifungal-secondary-metabolites-coprophilous-fungi]], some of which retain pharmacological activity.
 
 Recent preclinical research has identified mitragynine's biased agonism at MOR as a potential paradigm for developing safer analgesics. By preferentially activating G-protein signaling (which mediates analgesia) over β-arrestin recruitment (which mediates respiratory depression and tolerance), mitragynine and its derivatives may offer a therapeutic window not available with conventional opioid analgesics. Several pharmaceutical companies are actively developing synthetic mitragynine analogues for clinical use.
 
@@ -87,7 +73,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish kratom
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -101,7 +87,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Kratom finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

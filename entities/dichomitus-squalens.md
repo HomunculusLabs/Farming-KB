@@ -1,22 +1,17 @@
 ---
-title: "Dichomitus squalens"
-type: species
-tags:
-  - fungi
-  - polypore
-  - white-rot
-  - bioremediation
-  - [[staycare-phanerochaete-chrysosporium-in-bioremediation]] strain RP78." Nature Biotechnology, 22(6), 695-700.
-  - Floudas, D. et al. (2012). "The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes." Science, 336(6089), 1715-1719.
-  - Hofrichter, M. et al. (2010). "[[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]." [[brown-rot-fungi-cellulose-degradation-wood-decay]] species recognized for its aggressive [[singh-white-rot-fungi-lignin-modifying-enzymes]] in the breakdown of woody substrate.
+title: "Dichomitus Squalens"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Its bio[[fungal-degradation-of-pcbs-by-white-rot-fungi]] recalcitrant pollutants.
 
 ## Taxonomy
 
 - Kingdom: Fungi
-- Phylum: Basidiomycota
+- Phylum: [[basidiomycota]]
 - Class: Agaricomycetes
 - Order: Polyporales
 - Family: Polyporaceae
@@ -61,7 +56,7 @@ Fruiting occurs from late summer through autumn, though in mild climates it may 
 
 D. squalens is a potent producer of lignin-[[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]].
 
-Manganese peroxidase oxidizes Mn²⁺ to Mn³⁺, generating diffusible oxidants that attack phenolic lignin structures.
+[[manganese-peroxidase]] oxidizes Mn²⁺ to Mn³⁺, generating diffusible oxidants that attack phenolic lignin structures.
 
 ## Overview
 
@@ -73,7 +68,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish dichomitus squalens
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -87,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Dichomitus Squalens finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

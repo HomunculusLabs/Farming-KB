@@ -1,22 +1,10 @@
 ---
 title: "Butylone"
-type: chemical
-tags:
-  - cathinone
-  - empathogen
-  - entactogen
-  - stimulant
-  - substituted-cathinone
-  - beta-keto
-  - research-chemical
-  - phenethylamine
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Kamal, A.K.M. et al. (2012). "An analytical overview on the designer drug β-keto-N-methylbenzodioxolylbutanamine (butylone)." psychedelic-drug-testing-and-adulterant-screening and Analysis, 4(4), 307–318.
-  - López-Arnau, R. et al. (2014). "3,4-Methylenedioxymethcathinone (methylone), a new drug of abuse." Toxicology Letters, 227(3), 199–206.
-  - EMCDDA (2014). "Report on the risk assessment of butylone in the framework of the Council Decision on new [[alexander-shulgin]] and documented in *PiHKAL* (Phenethylamines I Have Known and Loved), butylone remained obscure until the mid-2000s when it emerged as a designer drug in the global online research chemical market. It was marketed as a legal alternative to MDMA and methylone, often sold under names such as "B1" or simply as "plant food."
+type: entity
+tags: []
+sources: []
 ---
+
 
 Butylone produces empathogenic and stimulant effects qualitatively similar to MDMA but is generally reported as milder, shorter-acting, and less euphoric. It is classified as a Schedule I controlled substance in the [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]] mean butylone reaches peak plasma concentrations within 1–2 hours of oral administration. The compound is extensively protein-bound (approximately 70–80%) and distributes readily into cardiac and neural tissue.
 
@@ -67,7 +55,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish butylone
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

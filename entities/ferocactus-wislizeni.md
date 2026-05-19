@@ -1,21 +1,10 @@
 ---
-title: "Ferocactus wislizeni"
-type: species
-tags:
-  - cactaceae
-  - barrel-cactus
-  - desert-plant
-  - xerophyte
-  - sonoran-desert
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - E.F. Anderson (2001). "The Cactus Family." Timber Press.
-  - D.R. Hunt (2006). "The New Cactus Lexicon." DH Books.
-  - D. Yetman et al. (2010). "The Great Cacti: Ethnobotany and Biogeography." University of Arizona Press.
-  - R.S. Felger (2000). "Flora of the Gran Desierto." University of Arizona Press.
-  - L.C. Benson (1982). "The Cacti of the [[fukuoka-natural-farming-in-arid-regions]] of the southwestern United States and northern Mexico, where it is one of the most recognizable and iconic elements of the Sonoran and Chihuahuan Desert landscapes.
+title: "Ferocactus Wislizeni"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species typically grows 1 to 2 meters tall and 60 to 100 centimeters in diameter, with prominent ribs armed with heavy, hooked central spines. It is a long-lived species, with individual plants reaching 100 years or more in age under favorable conditions.
 
@@ -53,7 +42,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish ferocactus wislizeni
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -67,7 +56,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ferocactus Wislizeni finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

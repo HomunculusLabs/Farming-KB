@@ -1,23 +1,19 @@
 ---
----poisionous-fungi-by-john-ramsbottom-1945.md type: concept ---
-Inocybe is a genus of agaric fungi characterised by radiating fibrils or
-scales on the cap surface, dull brown spores, and generally small
-stature. Most species are brownish and inconspicuous, easily overlooked
-by casual collectors. [[john-ramsbottom]], in his 1945 monograph *Poisonous
-Fungi*, emphasised that several Inocybe species contain muscarine-type
-toxins and should be regarded as dangerous. While none are known to be
-edible, only a handful have been definitively linked to poisoning
-incidents.
+title: "Inocybe Species Toxicity And Identification"
+type: concept
+tags: []
+sources: []
 ---
+
 ## Muscarine-Type Poisoning in Inocybe
 The toxic species of Inocybe produce symptoms similar to those of
 [[amanita-muscaria]], though the active principle differs. Ramsbottom
 classified Inocybe poisoning as nervous-system paralysis type, along
-with Amanita muscaria, Amanita pantherina, and Clitocybe species. The
+with Amanita muscaria, [[amanita-pantherina]], and Clitocybe species. The
 symptoms typically appear one to three hours after ingestion and include
 giddiness, profuse sweating, vomiting, salivation, lacrimation, and in
 severe cases, respiratory depression.
-Unlike the deadly Amanita phalloides group, which has a long incubation
+Unlike the deadly [[amanita-phalloides]] group, which has a long incubation
 period of ten to twelve hours before symptoms manifest, Inocybe
 poisoning acts relatively quickly. The rapid onset means that stomach-
 emptying measures may still be effective if administered promptly.
@@ -56,7 +52,7 @@ mirrors the pattern seen with many fungal toxins, where factors such as
 amount consumed, individual sensitivity, and preparation method
 influence severity.
 ## Inocybe Geophylla — Earthy Inocybe
-Inocybe geophylla is a smaller, more widely distributed species. The
+[[inocybe-geophylla]] is a smaller, more widely distributed species. The
 silky fibrillose cap is conical with an inrolled margin, later spreading
 with a central boss. Its colour is highly variable: white, yellowish,
 fawn, reddish, lilac, or blue, often with the centre a different shade.
@@ -94,14 +90,14 @@ mycologists. The safest approach is to avoid consuming any Inocybe
 species.
 ## Comparison with Other Muscarine-Containing Genera
 Muscarine-type poisoning is not unique to Inocybe. Clitocybe species,
-particularly Clitocybe dealbata (the fool's funnel), also contain
+particularly [[clitocybe-dealbata]] (the fool's funnel), also contain
 significant muscarine concentrations. The genus Clitocybe shares with
 Inocybe the general trait of being brown-spored and easily overlooked.
 The key distinction is that Clitocybe species typically have decurrent
 gills, while Inocybe species have gills that are more or less free.
-Amanita muscaria, despite its fame as the "fly agaric," actually
+Amanita muscaria, despite its fame as the "[[fly-agaric]]," actually
 contains relatively little muscarine. Its primary psychoactive compounds
-are ibotenic acid and muscimol, which produce CNS excitation rather than
+are [[ibotenic-acid]] and muscimol, which produce CNS excitation rather than
 the parasympathomimetic effects of true muscarine poisoning. The
 clinical presentation of Inocybe poisoning is therefore closer to
 Clitocybe poisoning than to Amanita muscaria intoxication, despite the
@@ -120,3 +116,5 @@ today, where many species are listed as toxic based on genus-level
 assumptions rather than verified case reports.
 ## See Also
 - [[ramsbottom-poisonous-fungi-species]] - [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] - [[poisonous-fungi-identification-toxins-treatment-ramsbottom]]
+
+Understanding these interconnected mechanisms provides a foundation for both research applications and practical implementation in relevant systems and contexts.

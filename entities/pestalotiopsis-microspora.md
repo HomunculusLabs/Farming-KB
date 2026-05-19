@@ -1,22 +1,10 @@
 ---
-title: "pestalotiopsis microspora"
-created: 2026-04-28
-type: species
-tags:
-  - fungi
-  - endophyte
-  - bioremediation
-  - plastic-degradation
-  - [[endophytic-fungi]]." Applied and Environmental Microbiology 77(17):
-    6076-6084.
-  - Barratt, S.R. et al. (2003). "Degradation of polyester polyurethane
-    by fungi." Applied Microbiology and Biotechnology 61(4): 364-369.
-  - Strobel, G.A. (2003). "Endophytes as sources of bioactive products."
-    Microbes and Infection 5(6): 535-544.
-  - Wei, J. et al. (2022). "[[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions.
-Originally isolated from plant tissues in the Ecuadorian Amazon, this species
-represents a significant discovery .
+title: "Pestalotiopsis Microspora"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Beyond plastic degradation, P. microspora produces diverse **secondary
 metabolites** with antimicrobial and antitumor properties. As an endophyte,
@@ -50,7 +38,7 @@ P. microspora has a **pantropical to subtropical distribution**:
   palms, orchids, and tropical hardwoods
 - **Substrates:** Living plant tissues (endophytic), [[dighton-fungal-decomposition-leaf-litter-dynamics]], decaying
   wood, soil
-- **Ecological niche:** Colonizes intercellular spaces of healthy tissues
+- **[[ecological-niche]]:** Colonizes intercellular spaces of healthy tissues
   without causing disease symptoms
 
 ## Plastic Biodegradation
@@ -68,7 +56,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pestalotiopsis microspora
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -82,7 +70,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pestalotiopsis Microspora finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

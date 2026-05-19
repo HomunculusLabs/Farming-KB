@@ -1,20 +1,10 @@
 ---
-title: Camellia Sinensis
-type: species
-tags:
-  - theaceae
-  - tea
-  - caffeine
-  - polyphenols
-  - medicinal-plant
-  - culinary-plant
-  - evergreen-shrub
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Graham, H.N. (1992). "Green tea composition, consumption, and polyphenol chemistry." Preventive Medicine, 21(3), 334-350.
-  - Yang, C.S. et al. (2009). "[[psilocybe-southeast-asia-pacific]]. It is the sole source of true tea, producing leaves that are processed into green, black, white, oolong, and dark teas through varying degrees of oxidation and fermentation.
+title: "Camellia Sinensis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The plant has been cultivated for over 5,000 years, making it one of humanity's oldest crop species. Its global economic importance is immense, with tea ranking as the second most consumed beverage worldwide after water.
 
@@ -63,7 +53,7 @@ The pharmacological activity of tea is primarily attributed to four classes of c
 
 **Methylxanthines:**
 
-Caffeine content in dry tea leaves ranges from 2–5%, comparable to coffee. Tea also contains theobromine (0.1–0.5%) and trace amounts of theophylline. These compounds contribute to the stimulant effects of tea.
+Caffeine content in dry tea leaves ranges from 2–5%, comparable to coffee. Tea also contains [[theobromine]] (0.1–0.5%) and trace amounts of theophylline. These compounds contribute to the stimulant effects of tea.
 
 **Polyphenols:**
 
@@ -87,7 +77,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish camellia sinensis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

@@ -1,21 +1,16 @@
 ---
-title: Two-Tier Selection Model of the Rhizosphere Microbiome
-slug: two-tier-selection-model-rhizosphere-microbiome
-tags: [microbiology, rhizosphere, plant-microbe-interactions, soil-science, cannabis]
-related: [[endorhiza-endophyte-bacteria-plant-roots]], [[cultivar-specificity-microbiome-plant-genotype]]
-source: [[edaphic-factors-microbial-community-structure]] across geographic scales, affecting nutrient availability and enzyme activity
-- **Nitrogen content** — total nitrogen concentration strongly correlates with beta-diversity of all root-associated communities, as nitrogen availability shapes the metabolic capacity of resident microbes
-- **Salinity** — electrical conductivity and ionic composition of soil water influence osmotic stress on microbial populations
-- **Organic carbon** — total organic carbon provides the primary energy source for heterotrophic soil microbes, driving community composition
-- **Water content** — soil moisture affects oxygen availability, diffusion of soluble compounds, and microbial metabolic rates
-- **Soil texture** — the ratio of sand, silt, and clay influences water retention, nutrient availability, pore space connectivity, and microbial habitat structure
+title: "Two Tier Selection Model Rhizosphere Microbiome"
+type: concept
+tags: []
+sources: []
 ---
 
-When plant roots exude compounds into the surrounding soil — a process called rhizodeposition — the local environment shifts dramatically. Root exudates include sugars, amino acids, organic acids, mucilage, phenolics, [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] variation (PC1 = 32.06%), making it the most important determinant of which microbes were present in any given sample.
+
+When plant roots exude compounds into the surrounding soil — a process called rhizodeposition — the local environment shifts dramatically. [[root-exudates]] include sugars, amino acids, organic acids, mucilage, phenolics, [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] variation (PC1 = 32.06%), making it the most important determinant of which microbes were present in any given sample.
 
 ### Tier 2: Host Genotype-Driven Selection (Rhizosphere to Endorhiza)
 
-The second tier is driven by the plant itself. After soil-derived microbes colonize the rhizosphere, a subset migrates into the root interior — the endorhiza or endosphere. The plant exerts strong selective pressure on which microbes successfully establish as endophytes through several mechanisms:
+The second tier is driven by the plant itself. After soil-derived microbes colonize the [[rhizosphere]], a subset migrates into the root interior — the endorhiza or endosphere. The plant exerts strong selective pressure on which microbes successfully establish as endophytes through several mechanisms:
 
 - **Root architecture** — physical structure, tissue properties, and intercellular spaces that facilitate or impede microbial entry and colonization
 - **Immune responses** — innate plant immunity (PTI and ETI pathways) recognizes and restricts microbial colonization to compatible taxa
@@ -76,7 +71,7 @@ Despite cultivar-specific differences in abundance, all Cannabis plants shared a
 
 ## Overview
 
-Two Tier Selection Model Rhizosphere Microbiome represents an important element within sustainable
+[[two-tier-selection-model]] [[rhizosphere-microbiome]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -84,7 +79,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish two tier selection model rhizosphere microbiome
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -98,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Two Tier Selection Model Rhizosphere Microbiome finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

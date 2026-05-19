@@ -1,15 +1,10 @@
 ---
-title: "Coriandrum sativum"
-type: species
-tags:
-  - plants
-  - apiaceae
-  - culinary-herb
-  - medicinal-plant
-  - ethnobotany
-  - [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Major producers include India, Russia, Morocco,
-Romania, and Mexico.
+title: "Coriandrum Sativum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Cilantro prefers full sun to partial shade and well-drained, loamy soils
 with pH 6.2–6.8. It is a cool-season crop that bolts rapidly (flowers and
@@ -37,7 +32,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish coriandrum sativum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -51,7 +46,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Coriandrum Sativum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

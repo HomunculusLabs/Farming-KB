@@ -1,20 +1,10 @@
 ---
-title: "Viburnum acerifolium"
-type: species
-tags:
-  - caprifoliaceae
-  - shrub
-  - native-plant
-  - ornamental
-  - pollinator
-  - wildlife
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Weakley, A.S. (2023). Flora of the Southeastern dmt-containing-plants-united-states-halpern. University of north-carolina-mycodiversity Herbarium.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[polypore-fungi-eastern-north-america]]. It is named for its deeply lobed leaves
-that closely resemble those of maple trees.
+title: "Viburnum Acerifolium"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species typically grows 1.5 to 2 meters tall and forms loose, open thickets
 in the understory of deciduous forests. It is valued in native plant landscaping
@@ -77,7 +67,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish viburnum acerifolium
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -91,7 +81,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Viburnum Acerifolium finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

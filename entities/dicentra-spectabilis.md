@@ -1,19 +1,10 @@
 ---
-title: "Dicentra spectabilis"
-type: species
-tags:
-  - papaveraceae
-  - ornamental
-  - perennial
-  - shade-garden
-  - toxic
-  - spring-flowering
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Went, J.L. (1956). "The Taxonomy of Dicentra." Proceedings of the California Academy of Sciences 28(12): 361–394.
-  - Layne, D.R. (2006). "Dicentra." In: Flora [[hamilton-cottage-garden-design]] perennials.
+title: "Dicentra Spectabilis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
@@ -83,7 +74,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish dicentra spectabilis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

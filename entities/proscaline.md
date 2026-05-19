@@ -1,19 +1,10 @@
 ---
 title: "Proscaline"
-type: chemical
-tags:
-  - psychedelic
-  - phenethylamine
-  - mescaline-analogue
-  - piHKAL
-  - serotonergic
-  - research-chemical
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Shulgin, A. & Shulgin, A. (1991). "PiHKAL: A Chemical Love Story." Transform Press.
-  - Trachsel, D. et al. (2013). "The Psychopharmacology of Novel [[alexander-shulgin]], who documented its synthesis and subjective effects in *PiHKAL* (Phenethylamines I Have Known and Loved), published in 1991. Shulgin assigned it the designation #39 in his research sequence.
+type: entity
+tags: []
+sources: []
 ---
+
 
 Proscaline produces effects broadly similar to mescaline, including visual hallucinations, enhanced [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to scheduled phenethylamines.
 
@@ -35,7 +26,7 @@ The compound belongs to the phenylisopropylamine family of psychedelics. It is s
 
 The hydrochloride salt of proscaline forms white to off-white crystals. It is soluble in water and ethanol. The free base is an oily liquid at room temperature, consistent with higher-molecular-weight phenethylamines.
 
-[[mckenna-roland-fischer-psilocybin-visual-acuity]]. Users frequently report a warm, organic quality to the experience distinct from the more analytical character of tryptamine psychedelics.
+[[mckenna-roland-fischer-psilocybin-visual-acuity]]. Users frequently report a warm, organic quality to the experience distinct from the more analytical character of [[tryptamine]] psychedelics.
 
 Emotional effects include euphoria, increased empathy, and philosophical introspection. The headspace is described as clearer and less confusing than mescaline, with greater cognitive lucidity maintained throughout the experience.
 
@@ -61,7 +52,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish proscaline
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

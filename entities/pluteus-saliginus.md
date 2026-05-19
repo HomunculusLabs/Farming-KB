@@ -1,25 +1,17 @@
 ---
-title: "gartz-[[pluteus-salicinus]]-wood-inhabiting-psilocybin"
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - fungi
-  - agaricales
-  - psychoactive
-  - pluteaceae
-  - wood-inhabiting
-sources:
-  - Gartz, J. (1996). "Distribution and psilocybin content of gartz-pluteus-salicinus-wood-inhabiting-psilocybin." Mycological Research, 100(7), 803-804.
-  - Allen, J.W. & Gartz, J. (2001). "New observations on the [[hplc-analysis-of-psilocybin-and-psilocin]] in European collections during the 1990s. It remains a rarely collected species with limited distribution data.
+title: "Pluteus Saliginus"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Morphology
 
 - **Kingdom:** Fungi
-- **Division:** Basidiomycota
+- **Division:** [[basidiomycota]]
 - **Class:** Agaricomycetes
-- **Order:** Agaricales
+- **Order:** [[agaricales]]
 - **Family:** Pluteaceae
 - **Genus:** Pluteus
 - **Species:** P. salicinus (Pers.) P. Kumm. (1871)
@@ -31,7 +23,7 @@ The margin is initially incurved, sometimes slightly striate in age. Gills are f
 
 The stipe is 30–70 mm tall, 2–5 mm thick, central, cylindrical, white to greyish, smooth or slightly fibrillose. Context is thin and white. Odor is mild or slightly mealy. Taste is not distinctive.
 
-Spore print is pink. Spores are ellipsoid, smooth, 6–8 × 5–6.5 µm. Basidia are 4-spored, clavate. Pleurocystidia are absent or rare.
+[[spore-print]] is pink. Spores are ellipsoid, smooth, 6–8 × 5–6.5 µm. Basidia are 4-spored, clavate. Pleurocystidia are absent or rare.
 
 ## Distribution and Habitat
 
@@ -45,9 +37,9 @@ The fruiting season extends from late summer through autumn (August to November 
 
 ## Chemistry and Pharmacology
 
-*P. salicinus* contains the indole alkaloids psilocybin and psilocin, confirmed by Gartz (1996) through TLC and HPLC analysis of European specimens. Baeocystin has also been detected in some collections, though at lower concentrations than the primary alkaloids.
+*P. salicinus* contains the indole alkaloids [[psilocybin]] and psilocin, confirmed by Gartz (1996) through TLC and HPLC analysis of European specimens. Baeocystin has also been detected in some collections, though at lower concentrations than the primary alkaloids.
 
-Reported alkaloid concentrations are variable and generally lower than those of *Psilocybe cubensis* or *P. semilanceata*. Gartz (1996) reported approximately 0.03% psilocybin and 0.01% psilocin in dried material from German collections.
+Reported alkaloid concentrations are variable and generally lower than those of *[[psilocybe-cubensis]]* or *P. semilanceata*. Gartz (1996) reported approximately 0.03% psilocybin and 0.01% psilocin in dried material from German collections.
 
 North American specimens analyzed by Allen and Gartz (2001) showed slightly higher variability in psilocybin content, ranging from 0.01% to 0.3% of dry weight. This geographic variation may reflect genetic differences between European and North American populations, or differences in substrate and environmental conditions.
 
@@ -65,7 +57,7 @@ Onset occurs within 30–60 minutes after oral ingestion, with effects lasting 3
 
 Field identification of *P. salicinus* is challenging due to its small size, drab coloration, and similarity to non-psychoactive *Pluteus* species. The free pink gills distinguish *Pluteus* from most other genera, but separating *P. salicinus* from *P. cervinus* requires close attention to cap color and habitat.
 
-Unlike many psilocybin mushrooms, *P. salicinus* does not reliably exhibit blue bruising on the stipe or cap when handled. This absence of bluing should not be used to rule out psychoactivity. [[fungal-microscopic-examination-mounting-media-techniques]] of cheilocystidia and spore morphology provides definitive identification.
+Unlike many [[psilocybin-mushrooms]], *P. salicinus* does not reliably exhibit blue bruising on the stipe or cap when handled. This absence of bluing should not be used to rule out psychoactivity. [[fungal-microscopic-examination-mounting-media-techniques]] of cheilocystidia and spore morphology provides definitive identification.
 
 Collectors should be aware that several *Pluteus* species grow in similar habitats. Positive identification requires mature specimens with developed spore color and microscopic confirmation.
 
@@ -99,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pluteus Saliginus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

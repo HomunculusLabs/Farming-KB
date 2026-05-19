@@ -1,22 +1,13 @@
 ---
-title: Bloomfield [[histoplasma-capsulatum]] Ohio Valley Disease
-source: "Mr. Bloomfield's Orchard, Nicholas P. Money (2002)"
-topic: "[[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]], Ohio Valley disease, histoplasmosis, bird droppings, fungal spores"
+title: "Bloomfield Histoplasma Capsulatum Ohio Valley Disease"
 type: concept
-tags:
-  - [[nicholas-money]]
-recounts in *Mr. Bloomfield's Orchard*, this dimorphic fungus inhabits soil
-enriched with bird and bat droppings and is so prevalent in certain regions
-that most residents have been silently colonized without ever knowing it. The
-organism's ability to persist asymptomatically for decades—only to emerge as
-a devastating systemic infection when the immune system falters—makes it a
-paradigmatic example of the complex relationship between environmental fungi
-and human health.
+tags: []
+sources: []
 ---
 
 ## Discovery and Taxonomy
 
-The discovery of the sexual stage of *Histoplasma capsulatum* was a
+The discovery of the sexual stage of *[[histoplasma-capsulatum]]* was a
 significant contribution by **Kwang-Won Kwon-Chung**, the same mycologist
 whose work on *[[ascomycota]], revealing an
 unsuspected connection between a major human pathogen and a group of fungi
@@ -122,3 +113,11 @@ Orchard*.
 ## Practical Considerations
 
 Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.
+
+Understanding these interconnected mechanisms provides a foundation for both research applications and practical implementation in relevant systems and contexts.
+
+This synthesis highlights the importance of cross-disciplinary
+approaches to understanding complex biological phenomena.
+The interplay between molecular mechanisms and ecological
+context continues to yield new insights for practitioners.
+

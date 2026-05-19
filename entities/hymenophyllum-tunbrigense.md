@@ -1,19 +1,10 @@
 ---
-title: "Hymenophyllum tunbrigense"
-type: species
-tags:
-  - hymenophyllaceae
-  - filmy-fern
-  - pteridophyte
-  - epiphytic-fern
-  - hygrophilous
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Page, C. N. (1997). "Ferns: British and European." HarperCollins.
-  - Iwatsuki, K. (1984). "Hymenophyllaceae." In K. U. Kramer & P. S. Green, The Families and Genera of Vascular Plants, Vol. 1. Springer.
-  - Jermy, A. C. & Camus, J. M. (1991). "The Illustrated [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]], occurring in western Europe, the Azores, Madeira, the Canary Islands, [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] regions.
+title: "Hymenophyllum Tunbrigense"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The family Hymenophyllaceae is one of the most ancient fern lineages, with a fossil record extending to the Carboniferous period. These ferns are characterized by their one-cell-thick laminae, which lack stomata entirely.
 
@@ -39,7 +30,7 @@ In [[adaptive-significance-mushroom-tropisms-spore-dispersal]] and vegetative sp
 
 The gametophyte is filamentous and long-lived, capable of persisting for years in suitable microhabitats. Unlike most fern gametophytes, those of Hymenophyllum can reproduce vegetatively through gemmae, small multicellular propagules that disperse on water films.
 
-The fern occupies a specialized ecological niche that few other vascular plants can tolerate. Its ability to grow on bare rock surfaces with virtually no substrate gives it a competitive advantage in deeply shaded, spray-swept habitats.
+The fern occupies a specialized [[ecological-niche]] that few other vascular plants can tolerate. Its ability to grow on bare rock surfaces with virtually no substrate gives it a competitive advantage in deeply shaded, spray-swept habitats.
 
 Associated species include other hygrophilous ferns such as Trichomanes speciosum and the mosses Hookeria lucens and Sphagnum species. In oceanic woodlands, it often grows alongside the lobaria lichen community.
 
@@ -65,7 +56,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish hymenophyllum tunbrigense
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -79,7 +70,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Hymenophyllum Tunbrigense finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

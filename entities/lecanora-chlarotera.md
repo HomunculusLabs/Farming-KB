@@ -1,18 +1,10 @@
 ---
-title: "Lecanora chlarotera"
-type: species
-tags:
-  - lichen
-  - crustose
-  - lecanoraceae
-  - epiphyte
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
-  - Smith, C.W. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and provides a secondary means of [[polypore-fungi-eastern-north-america]]. It extends from the British Isles and Scandinavia southward to the Mediterranean region and occurs across the Appalachian Mountains and eastern deciduous forests of North America.
+title: "Lecanora Chlarotera"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Scattered populations have been reported from the Pacific Northwest of North America, but the species is far less common west of the continental divide.
 
@@ -36,7 +28,7 @@ The presence of atranorin in both cortex and medulla is typical of the Lecanora 
 
 [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has become increasingly important for species delimitation within Lecanora, as many species are morphologically cryptic and separable only by their metabolite profiles.
 
-Usnic acid is absent, which helps differentiate Lecanora chlarotera from yellow-green Lecanora species in the L. subaurifera group.
+[[usnic-acid]] is absent, which helps differentiate Lecanora chlarotera from yellow-green Lecanora species in the L. subaurifera group.
 
 The absence of usnic acid also means that Lecanora chlarotera does not contribute to the yellow staining commonly associated with other bark-inhabiting lichens in the Lecanoraceae.
 
@@ -64,7 +56,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish lecanora chlarotera
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -78,7 +70,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lecanora Chlarotera finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

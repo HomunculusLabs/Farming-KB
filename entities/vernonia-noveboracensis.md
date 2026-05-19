@@ -1,18 +1,10 @@
 ---
-title: "Vernonia noveboracensis"
-type: species
-tags:
-  - asteraceae
-  - native-perennial
-  - pollinator-plant
-  - ironweed
-  - wildflower
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Jones S.B. (1970). "Revision of Vernonia sect. Vernonia in guzman-psilocybin-mushrooms-north-america." Rhodora, 72(791), 204–230.
-  - URBATSCH L.E. (2006). "Vernonia." In Flora [[dmt-containing-plants-united-states-halpern]]. It is the most widely distributed ironweed in the Northeast.
+title: "Vernonia Noveboracensis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species hybridizes with Vernonia glauca where their ranges overlap. Hybrids show intermediate floral and leaf characteristics.
 
@@ -76,7 +68,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish vernonia noveboracensis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -90,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Vernonia Noveboracensis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

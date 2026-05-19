@@ -1,25 +1,10 @@
 ---
 title: "Nitrous Oxide"
-type: chemical
-tags:
-  - dissociative
-  - anesthetic
-  - inhalant
-  - nmda-antagonist
-  - gas
-  - medical
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Banks, R. et al. (2010). "Nitrous oxide and the inhalation anesthetics." Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th ed.
-  - Weimann, J. (2003). "Gas density and airway resistance." British Journal of Anaesthesia 90(2): 166-172.
-  - Jevtović-Todorović, V. et al. (1998). "Prolonged exposure to inhalational anesthetic causes neurodegeneration in the developing brain." Annals of Neurology 43(3): 358-364.
-  - EMCDDA (2023). "Nitrous Oxide — Drug Profile." European Monitoring Centre for Drugs and Drug Addiction.
-  - Committee on the Ethics of [[oner-sativa-medical-applications]], nitrous oxide is used recreationally for its brief
-dissociative and euphoric effects, typically inhaled from balloons filled with
-whipped-cream chargers. It is the second most-used recreational inhalant after
-nitrites in many countries.
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Chemical Properties
 
@@ -86,7 +71,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish nitrous oxide
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -100,7 +85,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Nitrous Oxide finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

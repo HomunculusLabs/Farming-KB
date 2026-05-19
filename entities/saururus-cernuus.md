@@ -1,22 +1,10 @@
 ---
-title: "Saururus cernuus"
-type: species
-tags:
-  - saururaceae
-  - perennial
-  - wetland
-  - aquatic
-  - native-american
-  - medicinal
-  - phytoremediation
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Godfrey, R.K. & Wooten, J.W. (1981). "permaculture-plants-aquatic-and-wetland-species Plants of Southeastern United States." University of Georgia Press.
-  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-[[native-american-church]] Ethnobotany." Timber Press.
-  - USDA NRCS (2024). "Saururus cernuus Plant Guide." USDA Natural Resources Conservation Service.
-  - Cook, C.D.K. (1996). "[[polypore-fungi-eastern-north-america]]. It is commonly known as lizard's tail, a name referring to the arching, tail-like inflorescence that curves downward at its tip.
+title: "Saururus Cernuus"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species grows in shallow water and saturated soils along stream banks, marshes, swamps, and pond margins. It forms dense colonies through creeping rhizomes and can dominate wetland understories where conditions are favorable.
 
@@ -52,7 +40,7 @@ The dense foliage and root masses provide habitat for aquatic macroinvertebrates
 
 Lizard's tail contributes to stream bank stabilization through its extensive rhizome network, which binds soil and reduces erosion. Colonies along stream margins help filter sediments and nutrients from surface runoff.
 
-The species has demonstrated phytoremediation capacity, accumulating heavy metals including lead, copper, and zinc in its tissues. This makes it a candidate for use in constructed wetlands treating contaminated water.
+The species has demonstrated [[phytoremediation]] capacity, accumulating heavy metals including lead, copper, and zinc in its tissues. This makes it a candidate for use in constructed wetlands treating contaminated water.
 
 It provides cover for fish fry and other small aquatic organisms along pond and stream margins. The arching flower spikes also serve as perches for damselflies and other odonates.
 
@@ -70,7 +58,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish saururus cernuus
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -84,7 +72,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Saururus Cernuus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

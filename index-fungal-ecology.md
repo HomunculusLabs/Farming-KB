@@ -6,7 +6,7 @@
 
 ## #
 
-- [[22s-23s-homobrassinolide]]
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 
 ## A

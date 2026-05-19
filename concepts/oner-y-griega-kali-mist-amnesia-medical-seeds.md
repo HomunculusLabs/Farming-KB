@@ -1,16 +1,3 @@
----
-title: "Y Griega — Medical Seeds Co."
-source: "s-t-oner-the-rev-[[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing|cannabis]]-sativa-volume-3_-the-essential-gu.md"
-source_author: "S.T. Oner"
-topic: "cannabis-strain-profile"
-type: concept
-tags: [cannabis, sativa, strain-profile, medical-seeds, kali-mist, amnesia, [[kali-mist]] st × Amnesia
-**Potency:** THC 27.12%
-**Ratio:** Sativa-dominant
-**Flowering Time:** 90 days (indoor)
-**Outdoor Harvest:** Early November
-**Yield:** ~550g per plant (outdoor) / ~550g per square yard (indoor ScrOG)
----
 
 ## Overview
 
@@ -20,8 +7,8 @@ strains of exceptional quality. The strain's name comes from the former Spanish 
 letter "Y" (before the Real Academia Española officially changed it to "ye"), giving this
 strain a distinctly Spanish cultural identity.
 
-The lineage is a pairing of two legendary sativas: Kali Mist and Amnesia (also known as
-Amnesia Haze). Both parent strains are renowned among sativa enthusiasts, and the Haze
+The lineage is a pairing of two legendary sativas: [[kali-mist]] and Amnesia (also known as
+[[amnesia-haze]]). Both parent strains are renowned among sativa enthusiasts, and the Haze
 grandparent genetics come through strongly in Y Griega. This makes it particularly appealing
 to Haze fans, especially those who grow indoors — a combination that would have been
 unthinkable a few decades ago when Haze was considered strictly an outdoor or greenhouse
@@ -59,7 +46,7 @@ Y Griega delivers a classic, powerful Haze-influenced experience:
 - **Onset:** A bolt of energy hits rapidly, described as sending the user soaring
 - **Peak:** Effects are intensely cerebral, euphoric, and mentally stimulating — the kind
   of high that "throws you right up in the air"
-- **Duration:** Long-lasting, consistent with heavy Haze genetics
+- **Duration:** Long-lasting, consistent with heavy [[haze-genetics]]
 - **Come-down:** A gradual descent into a "relaxing bubble" a few hours later, providing
   a smooth transition rather than an abrupt crash
 
@@ -78,7 +65,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish oner y griega kali mist amnesia medical seeds
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +79,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Oner Y Griega Kali Mist Amnesia Medical Seeds finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +135,4 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]
-- [[cannabis-strain-hawaiian-wave-tropical-sativa-landrace-oner]]
+

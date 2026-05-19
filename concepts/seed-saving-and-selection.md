@@ -1,9 +1,8 @@
 ---
-title: Seed Saving And Selection
-aliases: [seed saving, [[cervantes-open-pollinated-heirloom-seeds]], open-pollinated varieties, plant breeding, seed sovereignty]
-tags: [gardening, seeds, plant-breeding, food-sovereignty, heirloom-varieties, genetic-diversity]
-created: 2026-05-09
-source: Gardening When It Counts ([[spanish-cannabis-seed-companies]] offer tested varieties with known germination rates and disease resistance. However, Solomon points out several risks in seed dependence:
+title: "Seed Saving And Selection"
+type: concept
+tags: []
+sources: []
 ---
 
 - **Supply disruption:** Seed companies may face crop failures, shipping delays, or business closures
@@ -86,7 +85,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish seed saving and selection
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -100,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Seed Saving And Selection finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +147,3 @@ Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
-Common challenges include environmental variability, resource

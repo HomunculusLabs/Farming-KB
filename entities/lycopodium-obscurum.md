@@ -1,22 +1,10 @@
 ---
-title: "Lycopodium obscurum"
-type: species
-tags:
-  - lycopodiophyta
-  - lycophyte
-  - clubmoss
-  - medicinal-plant
-  - spore-plant
-  - boreal-forest
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - USDA NRCS (2024). "Lycopodium obscurum." PLANTS Database.
-  - Wagner, W.H. & Beitel, J.M. (1993). "Lycopodiaceae." In: Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 2. Oxford University Press.
-  - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
-  - Jones, G.P. (1987). "Lycopodium Alkaloids." In: S.W. Pelletier (ed.), "Alkaloids: Chemical and Biological Perspectives." Wiley.
-  - Flora [[fungal-diversity-boreal-forests-taiga]] of North America, where it forms extensive colonies on moist forest floors.
+title: "Lycopodium Obscurum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is named for its resemblance to small pine seedlings, with dense radial clusters of sterile branches creating a miniature tree-like silhouette.
 
@@ -50,7 +38,7 @@ The species is distributed across much of temperate North America, from Newfound
 
 Disjunct populations occur in the [[coleman-deep-organic-farming]] duff, often on slopes and ravines.
 
-The species is associated with mature forest conditions and is sensitive to heavy disturbance, canopy removal, and soil compaction.
+The species is associated with mature forest conditions and is sensitive to heavy disturbance, canopy removal, and [[soil-compaction]].
 
 Elevation ranges from near sea level in the north to approximately 1800 meters in southern Appalachian populations.
 
@@ -86,7 +74,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish lycopodium obscurum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -100,7 +88,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Lycopodium Obscurum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

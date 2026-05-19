@@ -1,19 +1,10 @@
 ---
-title: "Inonotus hispidus"
-created: 2026-04-28
-type: species
-tags: [fungi, polypore, medicinal-mushroom, hymenochaetaceae, tree-pathogen]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "https://en.wikipedia.org/wiki/Inonotus_hispidus"
-  - "https://www.firstnature.com/fungi/inonotus-hispidus.php"
-  - "Cancer Treatments and [[ectomycorrhizal-host-tree-partnerships]] structural integrity. Widely distributed across temperate
-Northern Hemisphere regions, the species has attracted medicinal interest
-for its [[hispolon]], and immunomodulatory
-polysaccharides — with demonstrated antioxidant, anti-inflammatory, and
-antitumor activities in preclinical studies.
+title: "Inonotus Hispidus Entity"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Taxonomy and Naming
 
@@ -86,7 +77,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish inonotus hispidus entity
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -100,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Inonotus Hispidus Entity finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,19 +1,10 @@
 ---
-title: Mushroom Life Cycle
-aliases: [fungal life cycle, mushroom development, spore to fruiting body,
-  basidiomycete life cycle, mycelial growth cycle]
-tags: [mycology, biology, fungal-development, cultivation, reproduction]
-created: 2026-05-10
-source: "Growing Gourmet and [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]] [[mushroom-life-cycle-spore-to-fruiting-body]] remains largely invisible to most mushroom hunters,
-but not to cultivators. When a collector finds mushrooms in the wild, the
-encounter is a mere snapshot in time of a far vaster process. Only at the
-completion of the life cycle, which may span weeks or months, do mushrooms
-appear, and then they occur for but a few days. The stages leading up to
-their appearance remain fascinating even to the most experienced mycologists.
-The cycle progresses through several distinct phases: spore release,
-germination, [[growing-gourmet-primordia-formation-pinning]], fruiting body
-development, and spore production.
+title: "Mushroom Life Cycle"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Spore Release and Dispersal
 
@@ -55,7 +46,7 @@ colonized until physical boundaries prevent further growth or a biological
 competitor is encountered. As the mycelial network extends, it produces heat,
 enormous quantities of carbon dioxide, and volatile alcohols and ethylenes.
 One study (Zadrazil, 1976) showed that nearly 50% of the carbon base in wheat
-straw is liberated as CO₂ during decomposition by Oyster mushrooms, with 10%
+straw is liberated as CO₂ during [[decomposition]] by [[oyster-mushrooms]], with 10%
 converted to dried mushrooms and 20% to proteins. After one mushroom species
 has run its course, the partially decomposed substrate becomes available to
 secondary and tertiary saprophytes, ultimately creating rich soil. The mycelium
@@ -84,7 +75,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish mushroom life cycle
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -98,7 +89,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Life Cycle finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

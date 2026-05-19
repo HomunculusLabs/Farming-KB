@@ -1,32 +1,10 @@
 ---
-title: "Bromo-DragonFLY"
-created: 2026-04-28
-type: chemical
-tags:
-  - psychedelic
-  - phenethylamine
-  - dox-compound
-  - research-chemical
-  - designer-drug
-  - serotonin-agonist
-  - 5-ht2a
-  - extremely-potent
-  - long-duration
-  - harm-reduction
-  - lethal-dose
-  - toxicology
-  - scheduling
-  - synthetic-psychedelic
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/one-straw-revolution-[[masanobu-fukuoka]].md"
-  - "Parker, M.A. et al. (1998). \"Bromo-DragonFLY: [[serotonin-receptor-interference-psychedelic-mechanism]] structure-activity studies, it was never
-intended for human consumption. It entered the recreational market as a
-research chemical in the mid-2000s and has been associated with multiple
-deaths due to its exceptional potency, delayed onset, and prolonged
-duration — making it one of the most dangerous [[psychedelic-compounds-reference]] known.
+title: "Bromo Dragonfly"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Chemical Properties
 
@@ -80,7 +58,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish bromo dragonfly
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

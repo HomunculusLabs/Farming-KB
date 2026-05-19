@@ -2846,7 +2846,7 @@
 - [[golden-goat]]
 - [[golden-teacher-cubensis]]
 - [[golden-teacher-psilocybe-cubensis]]
-- [[goldenseal-mollison]]
+- [[hydrastis-canadensis]]
 - [[goldenseal-permaculture]]
 - [[golgi-apparatus]]
 - [[gomphus-clavatus]]

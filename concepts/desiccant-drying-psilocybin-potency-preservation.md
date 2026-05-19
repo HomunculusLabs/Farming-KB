@@ -1,11 +1,10 @@
 ---
-title: Desiccant Drying Psilocybin Potency Preservation
-source: "fanaticus-pf-tek-psilocybe-fanaticus.md"
-source_authors: "[[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] is critical for preserving
-potency and ensuring long-term storage stability. The PF Tek method, developed
-by Robert McPherson (Psilocybe Fanaticus), recommended using desiccant drying
-as a simple, effective, and accessible method for home cultivators.
+title: "Desiccant Drying Psilocybin Potency Preservation"
+type: concept
+tags: []
+sources: []
 ---
+
 
 The choice of drying method directly affects the chemical stability of the
 active compounds [[enzymatic-degradation-in-mycoremediation]]. However, the low temperature minimizes
@@ -13,7 +12,7 @@ thermal degradation of the active compounds.
 
 **Food dehydrator drying** uses controlled heat and airflow to accelerate
 drying. Temperatures in the range of 95-115°F (35-46°C) are generally
-considered safe for psilocybin mushrooms. Higher temperatures can accelerate
+considered safe for [[psilocybin-mushrooms]]. Higher temperatures can accelerate
 degradation. The reduced drying time (12-24 hours) limits oxidative exposure.
 
 **Desiccant drying**, as recommended in the PF Tek, uses chemical desiccants
@@ -23,7 +22,7 @@ the sealed container environment limits oxygen exposure. Drying time is
 typically 2-7 days depending on the desiccant capacity and mushroom size.
 
 **Oven drying** is generally discouraged because the temperatures involved
-(140°F+) can cause significant degradation of psilocybin and psilocin. The
+(140°F+) can cause significant degradation of [[psilocybin]] and psilocin. The
 rapid water removal also concentrates the active compounds before they are
 fully stabilized, potentially accelerating enzymatic reactions.
 

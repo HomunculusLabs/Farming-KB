@@ -1,22 +1,16 @@
 ---
-title: "Agastache foeniculum"
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - lamiaceae
-  - herbal-plant
-  - pollinator-plant
-  - [[psilocybin-north-america-pacific-northwest]]. It is widely recognized for its aromatic,
-anise-scented foliage and its exceptional value as a pollinator plant,
-attracting bees, butterflies, and hummingbirds in large numbers.
+title: "Agastache Foeniculum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species has a long history of use among Indigenous peoples of the Great
 Plains for medicinal purposes, including treatment of coughs, fevers, and
 digestive complaints. In contemporary use, anise hyssop is valued as a culinary
 herb, a tea plant, a garden ornamental, and a component of polyculture and
-permaculture plantings. It received the Royal Horticultural Society's Award of
+[[permaculture]] plantings. It received the Royal Horticultural Society's Award of
 Garden Merit in 1993.
 
 ## Taxonomy and Morphology
@@ -85,7 +79,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Agastache Foeniculum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

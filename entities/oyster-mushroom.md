@@ -1,24 +1,10 @@
 ---
-title: Oyster Mushroom
-created: 2026-04-28
-type: species
-tags:
-  - fungi
-  - edible-mushroom
-  - cultivation
-  - permaculture
-  - bioremediation
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Stamets, P. (2006). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Pleurotus+ostreatus
-  - Chang, S.T. & Miles, P.G. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] and other [[cultivation-of-oyster-mushrooms]] play a critical role in forest decomposition and have become a cornerstone species in mycoremediation and [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]) — similar, prefers warmer temperatures
-- ***P. eryngii*** (King oyster) — thick-stemmed, meaty texture
-- ***P. citrinopileatus*** (Golden oyster) — bright yellow, nutty flavor
-- ***P. djamor*** (Pink oyster) — vibrant pink, tropical, fast-growing
-- ***P. tuber-regium*** (King tuber) — produces edible sclerotia in tropical Africa
+title: "Oyster Mushroom"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Identification
 
@@ -28,7 +14,7 @@ sources:
 - **Gills:** Decurrent (running down the stem); white to cream; close, narrow gills
 - **Stem:** Short, lateral or eccentric (off-center); 1–5 cm; white to pale; often absent in wild specimens growing directly from wood
 - **Flesh:** White, firm, and thick when young; softens with age
-- **Spore print:** White to lilac-gray
+- **[[spore-print]]:** White to lilac-gray
 - **Odor:** Mild, pleasant, anise-like in some strains
 - **Taste:** Mild, slightly sweet, and nutty
 
@@ -55,7 +41,7 @@ sources:
 | Vitamin B5 (Pantothenic acid) | 1.5 mg | ~30% |
 | Vitamin D2 (ergocalciferol) | Variable; up to 25 µg after UV exposure | ~167% |
 
-Oyster mushrooms are one of the few plant sources of **complete protein** containing all nine essential amino acids, with particularly high levels of lysine and leucine.
+[[oyster-mushrooms]] are one of the few plant sources of **complete protein** containing all nine essential amino acids, with particularly high levels of lysine and leucine.
 
 ## Bioactive Compounds
 
@@ -78,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish oyster mushroom
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Oyster Mushroom finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

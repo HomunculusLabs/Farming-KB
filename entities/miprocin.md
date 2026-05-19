@@ -1,20 +1,10 @@
 ---
-title: "Miprocin (4-HO-[[mipt]])"
-created: 2026-04-28
-type: chemical
-tags:
-  - psychedelic
-  - tryptamine
-  - research-chemical
-  - entheogen
-  - schedule-i
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Shulgin, A.T. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press. Entry #33: 4-HO-MiPT."
-  - "Dean, B.S., Stell, J.G., Repke, D.B., & Shulgin, A.T. (1988). \"Synthesis and pharmacological examination of 4-hydroxy-N-isopropyltryptamine and 4-hydroxy-N-isopropyl-N-methyltryptamine.\" Journal of Medicinal Chemistry, 31(2), 459–461."
-  - "EMCDDA (2023). Europol-EMCDDA Joint Report on New [[alexander-shulgin]] in *TiHKAL* (Tryptamines I Have Known and Loved). It acts primarily as a 5-HT₂A receptor agonist, producing effects broadly similar to those of [[tryptamine-family-overview]]. Its isopropyl substitution pattern on the terminal amine nitrogen gives it a distinct pharmacokinetic and subjective character compared to the more familiar psilocin (dimethyl substitution) and 4-HO-MET (ethyl substitution). The compound exists both as a freebase and as a fumarate salt for research purposes.
+title: "Miprocin"
+type: entity
+tags: []
+sources: []
 ---
+
 
 ## Chemical Identity
 
@@ -53,7 +43,7 @@ Fumarate salt: White crystalline powder, more stable and water-soluble than the 
 
 ## Structural Classification
 
-Miprocin belongs to the **4-hydroxy tryptamine** subclass, which can be further characterized:
+Miprocin belongs to the **4-hydroxy [[tryptamine]]** subclass, which can be further characterized:
 
 | Compound | Abbreviation | N-Substitution | Key Characteristics |
 |---|---|---|---|
@@ -83,7 +73,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish miprocin
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

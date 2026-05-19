@@ -1,14 +1,10 @@
 ---
-title: Soil Microbiology [[cho-loess-powder-in-natural-farming]]
-created: 2026-05-09
-tags: [farming, soil, microbiology, ecology, nitrogen-fixation]
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] by [[masanobu-fukuoka]]'s [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], organic matter decomposition, soil structure
-maintenance, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
+title: "Soil Microbiology In Natural Farming"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## Soil Bacteria and Nitrogen Fixation
 
@@ -22,9 +18,9 @@ in his [[jadam-natural-nitrogen-fertilizer]].
 
 In conventional agriculture, tillage is performed by plows and cultivators—steel
 implements driven by fossil fuels. In Fukuoka's system, the work of soil cultivation
-is performed by biological agents. Earthworms, beetle larvae, ants, and other small
+is performed by biological agents. [[earthworms]], beetle larvae, ants, and other small
 animals create channels and burrows that aerate the soil, improve water infiltration,
-and mix organic matter into the soil profile. Fungi—particularly mycorrhizal fungi—
+and mix organic matter into the soil profile. Fungi—particularly [[mycorrhizal-fungi]]—
 extend vast networks of hyphae through the soil, binding soil particles into stable
 aggregates and transporting nutrients over distances that plant roots alone cannot
 reach.
@@ -46,7 +42,7 @@ time.
 
 ## Green Manure Plants Enriching Soil
 
-In Fukuoka's system, green manure plants—primarily the white clover used as a permanent
+In Fukuoka's system, [[green-manure]] plants—primarily the white clover used as a permanent
 ground cover—serve as the primary source of soil fertility. Clover is a legume that
 forms symbiotic associations with rhizobial bacteria in its root nodules, converting
 atmospheric nitrogen into organic forms. When clover plants die back or are partially
@@ -73,7 +69,7 @@ years of accumulated soil biological development.
 
 ## Overview
 
-Soil Microbiology In Natural Farming represents an important element within sustainable
+Soil Microbiology In [[natural-farming]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -81,7 +77,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish soil microbiology in natural farming
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -95,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Soil Microbiology In Natural Farming finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,19 +1,10 @@
 ---
-title: "Campanula divaricata"
-type: species
-tags:
-  - campanulaceae
-  - campanula
-  - appalachian
-  - north-american-native
-  - ornamental
-  - shade-plant
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Shetler, S.G. & Morin, N.R. (1986). "Campanula L." In: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (eds.), Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 19. Oxford University Press.
-  - Weakley, A.S. (2020). Flora of the Southeastern United States. University of [[polypore-fungi-eastern-north-america]].
+title: "Campanula Divaricata"
+type: entity
+tags: []
+sources: []
 ---
+
 
 The species is characterized by its slender, diffusely branched stems bearing small, nodding, pale blue to white campanulate flowers. It is one of the few [[campanula-rotundifolia]]* (harebell), *C. divaricata* occupies cool, moist forest understories rather than open, rocky sites. This habitat preference makes it a useful species for shade-garden native-plant landscaping.
 
@@ -87,7 +78,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish campanula divaricata
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -101,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Campanula Divaricata finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

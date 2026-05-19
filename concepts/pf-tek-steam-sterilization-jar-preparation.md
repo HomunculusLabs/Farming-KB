@@ -1,18 +1,10 @@
----
-title: Pf Tek Steam Sterilization Jar Preparation
-source: PF TEK - [[mushroom-substrate-sterilization-and-pasteurization]] accessible
-using ordinary kitchen cookware. Unlike professional cultivation requiring a
-[[hamilton-greenhouse-heating-and-temperature-control]])
-- Professional grade masking tape
-- Optional: tin foil as lid substitute for drinking glasses
----
 
 The steamer pot provides the enclosed environment necessary to generate and
-maintain steam at atmospheric pressure throughout the sterilization cycle.
+maintain steam at atmospheric pressure throughout the [[sterilization]] cycle.
 
 ## Jar Selection and Requirements
 
-Jar selection is critical for success with the PF TEK method.
+Jar selection is critical for success with the [[pf-tek]] method.
 
 ### Approved Jar Types
 
@@ -42,7 +34,7 @@ deeper substrates, leaving the core unsterilized.
 Each canning lid requires modification before use:
 
 - Punch 4 evenly spaced holes through the metal lid
-- Holes allow inoculation with a spore syringe
+- Holes allow inoculation with a [[spore-syringe]]
 - Rubber sealing edge faces UP toward the substrate
 
 During steaming, lid bands should be left loose. This prevents pressure buildup
@@ -80,7 +72,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish pf tek steam sterilization jar preparation
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -94,7 +86,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pf Tek Steam Sterilization Jar Preparation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +140,4 @@ Monitoring integration outcomes supports adaptive management.
 - [[herbal-steam-inhalation]]
 - [[growing-gourmet-phase-ii-steam-pasteurization]]
 - [[trace-water-flash-steam-microwave-sterilization]]
-- [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]
+

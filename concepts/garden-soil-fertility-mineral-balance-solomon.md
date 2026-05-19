@@ -1,15 +1,10 @@
 ---
-title: Garden Soil Fertility Mineral Balance Solomon
-source: gardening-when-it-counts-steve-solomon
-tags: [soil fertility, minerals, nutrition, [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of homegrown
-vegetables depends primarily on soil mineral balance, not just organic
-matter content. While organic gardening advocates have long promoted
-compost and manure as the primary soil amendments, Solomon's research
-demonstrates that these alone are insufficient to produce maximally
-nutritious food. The key insight is that soil must contain the right
-balance of all essential minerals, not merely adequate organic matter
-and the three major nutrients (NPK).
+title: "Garden Soil Fertility Mineral Balance Solomon"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## The Mineral Depletion Problem
 
@@ -48,7 +43,7 @@ minerals directly through targeted amendments like the COF formula.
 
 ## Forget pH, Focus on Minerals
 
-Solomon challenges the conventional wisdom that soil pH should be the
+Solomon challenges the conventional wisdom that [[soil-ph]] should be the
 primary concern of gardeners. He advises forgetting about pH testing and
 liming specifically to correct acidity. Instead, he recommends applying
 [[dynamic-accumulator-plants-calcium-and-magnesium]] directly. If a
@@ -66,7 +61,7 @@ including vitamins, amino acids, enzymes, growth regulators, and natural
 hormones. Russian researcher Krasilnikov called these "biological active
 substances."
 
-The soil food web produces these substances as it decomposes organic
+[[the-soil-food-web]] produces these substances as it decomposes organic
 matter, creating a living soil that supports plant health in ways that
 mineral fertilizers alone cannot replicate. This is why both compost and
 COF are needed: COF provides the mineral foundation while compost
@@ -88,7 +83,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish garden soil fertility mineral balance solomon
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -102,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Garden Soil Fertility Mineral Balance Solomon finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

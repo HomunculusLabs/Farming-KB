@@ -1,17 +1,10 @@
 ---
-title: "Agrostis stolonifera"
-type: species
-tags:
-  - poaceae
-  - turf-grass
-  - creeping-grass
-  - wetland-grass
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Soreng RJ, Peterson PM, Romaschenko K, et al. (2017). "A worldwide phylogenetic classification of the Poaceae (Gramineae)." Journal of Systematics and Evolution 55(2): 131–153.
-  - Lyman GT, Johnson CR, Throssell CS, Vargas JM Jr. (2007). "Creeping bentgrass putting green performance as affected by [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is now established in [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand, and parts of East Asia.
+title: "Agrostis Stolonifera"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Optimal growth occurs in cool, moist environments with mean temperatures of 15–22 °C during [[psilocybin-north-america-pacific-northwest]], and maritime regions of Canada. It is considered invasive in some wetland habitats where it displaces native wetland grass species.
 
@@ -33,11 +26,11 @@ Genetically modified creeping bentgrass (event ASR368, glyphosate-resistant) was
 
 Creeping bentgrass produces a putting surface of exceptional quality when properly maintained. Ball roll distance and smoothness are superior to most alternative species under cool-season conditions.
 
-Thatch accumulation is a persistent management challenge, requiring annual or semi-annual core aeration and topdressing to maintain an organic matter content below 4% in the root zone. Excessive thatch promotes disease, reduces [[jadam-cover-crop-soil-temperature-management]] is critical, as root growth ceases above 27 °C soil temperature.
+Thatch accumulation is a persistent management challenge, requiring annual or semi-annual core aeration and topdressing to maintain an organic matter content below 4% in the root zone. Excessive thatch promotes disease, reduces [[jadam-cover-crop-soil-temperature-management]] is critical, as root growth ceases above 27 °C [[soil-temperature]].
 
 ## Pests and Diseases
 
-**Dollar spot** (*Clarireedia jacksonii*, syn. *Sclerotinia homoeocarpa*) is the most common and persistent disease of creeping bentgrass. It causes small, sunken, straw-colored patches that can coalesce to damage large areas during warm, humid periods.
+**[[dollar-spot]]** (*Clarireedia jacksonii*, syn. *Sclerotinia homoeocarpa*) is the most common and persistent disease of creeping bentgrass. It causes small, sunken, straw-colored patches that can coalesce to damage large areas during warm, humid periods.
 
 Brown patch (*[[jadam-weed-control-strategies-natural]].
 
@@ -51,7 +44,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish agrostis stolonifera
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -65,7 +58,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Agrostis Stolonifera finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

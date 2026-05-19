@@ -1,31 +1,16 @@
 ---
-title: Stropharia Rugosoannulata Permaculture
-created: 2026-04-28
-updated: 2026-04-28
-type: species
-tags:
-  - fungi
-  - edible-mushroom
-  - permaculture
-  - companion-planting
-  - garden-mushroom
-  - bioremediation
-  - soil-building
-  - strophariaceae
-  - mulch-dweller
-sources:
-  - Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World. Ten Speed Press.
-  - Schisler, L.C. (1964). "The effect of the mushroom Stropharia rugosoannulata on nematodes." Phytopathology, 54(9), 1017-1018.
-  - Zerova, M.Y. et al. (1986). "Symbiosis between higher plants and Stropharia rugosoannulata in garden ecosystems." Mikologiya i Fitopatologiya, 20, 455-460.
-  - Traquair, J.A. (1985). "Wine-cap Stropharia, a potentially useful cultivated mushroom." Mushroom Journal for the Tropics, 5(1), 15-20.
-  - Szudyga, K. et al. (2021). "Cultivation of Stropharia rugosoannulata on [[comparison-vermicomposting-vs-composting-organic-garden]] matter.
+title: "Stropharia Rugosoannulata Permaculture"
+type: entity
+tags: []
+sources: []
 ---
 
-The wine cap has become one of the most significant fungi [[fungal-nematode-predation-and-trapping-mechanisms]], and plant growth promotion. It is arguably the single best mushroom species for integration into home gardens, food forests, and broad-acre permaculture systems.
+
+The [[wine-cap]] has become one of the most significant fungi [[fungal-nematode-predation-and-trapping-mechanisms]], and plant growth promotion. It is arguably the single best mushroom species for integration into home gardens, food forests, and broad-acre [[permaculture]] systems.
 
 ## Taxonomy and Identification
 
-**Kingdom:** Fungi → **Division:** Basidiomycota → **Class:** Agaricomycetes → **Order:** Agaricales → **Family:** Strophariaceae → **Genus:** *Stropharia* → **Species:** *S. rugosoannulata*
+**Kingdom:** Fungi → **Division:** [[basidiomycota]] → **Class:** Agaricomycetes → **Order:** Agaricales → **Family:** Strophariaceae → **Genus:** *Stropharia* → **Species:** *S. rugosoannulata*
 
 **Synonyms:** *Agaricus rugosoannulatus* (Farlow), *Naematoloma rugosoannulatum* (Farlow), *[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere:
 
@@ -50,7 +35,7 @@ The wine cap is one of the easiest mushrooms to cultivate outdoors, requiring mi
 **Wood chip bed method (primary technique):**
 1. Select a shaded to partially shaded site (garden paths, between fruit trees, along fences)
 2. Lay down a 10–15 cm layer of fresh hardwood wood chips (oak, beech, maple, alder — avoid walnut/juglone-containing species)
-3. Inoculate with grain spawn or sawdust spawn at approximately 1 kg per 2–3 m²
+3. Inoculate with [[grain-spawn]] or [[sawdust-spawn]] at approximately 1 kg per 2–3 m²
 4. Cover spawn with an additional 5–10 cm of wood chips
 5. Keep moist but not waterlogged during colonization (typically 2–4 months)
 6. First fruiting typically occurs the following spring or early summer
@@ -71,7 +56,7 @@ The species is remarkably adaptable to substrate — it will colonize and fruit 
 
 ## Overview
 
-Stropharia Rugosoannulata Permaculture represents an important element within sustainable
+[[stropharia-rugosoannulata]] Permaculture represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -93,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Stropharia Rugosoannulata Permaculture finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

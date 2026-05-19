@@ -1,19 +1,10 @@
 ---
-title: "Picea sitchensis"
-type: species
-tags:
-  - pinaceae
-  - conifer
-  - timber
-  - forestry
-  - coastal
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
-  - Harris, A.S. (1990). "Picea sitchensis." In: Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
-  - Packee, E.C. (1990). "Sitka Spruce." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics [[psilocybin-north-america-pacific-northwest]] of the [[soil-temperature-plant-growth-rate-doubling-rule]] in favorable coastal conditions.
+title: "Picea Sitchensis"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Maximum recorded age is approximately 700–800 years, though most trees in managed stands are harvested well before maturity. Old-growth individuals develop massive buttressed root systems and spreading crowns.
 
@@ -87,7 +78,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish picea sitchensis
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

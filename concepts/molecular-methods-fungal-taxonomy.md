@@ -1,11 +1,10 @@
 ---
-title: Molecular Methods in Fungal Taxonomy
-source: "[[biodiversity-fungal-genetic-diversity]] assessment, and population monitoring in
-natural environments. The most accessible techniques include arbitrarily
-primed PCR (apPCR) and random amplified polymorphic DNA (RAPD) analysis,
-which exploit vast sequence diversity in fungal genomes to generate
-species-specific molecular fingerprints without prior sequence knowledge.
+title: "Molecular Methods Fungal Taxonomy"
+type: concept
+tags: []
+sources: []
 ---
+
 
 ## apPCR / RAPD Analysis
 
@@ -79,7 +78,7 @@ dynamics of fungal communities.
 
 ## Overview
 
-Molecular Methods Fungal Taxonomy represents an important element within sustainable
+Molecular Methods [[fungal-taxonomy]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -87,7 +86,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish molecular methods fungal taxonomy
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -101,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Molecular Methods Fungal Taxonomy finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

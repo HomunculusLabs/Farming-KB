@@ -4,7 +4,6 @@ tags: []
 sources: []
 ---
 
-
 ## Microbial Kill Curves — Microwave Exposure
 
 Microbial kill curves quantify the relationship between microwave exposure dose and the reduction in viable microorganism populations on contaminated surfaces.

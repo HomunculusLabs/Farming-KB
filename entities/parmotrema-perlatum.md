@@ -1,18 +1,10 @@
 ---
-title: "Parmotrema perlatum"
-type: species
-tags:
-  - lichen
-  - parmeliaceae
-  - edible-lichen
-  - foliose
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
-  - Kirk, P.M., Cannon, P.F., Minter, D.W., Stalpers, J.A. (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
-  - Nash III, T.H. et al. (2004). "[[polypore-fungi-eastern-north-america]] America, and parts of [[cervantes-air-quality-ventilation]], though it tolerates some pollution.
+title: "Parmotrema Perlatum"
+type: entity
+tags: []
+sources: []
 ---
+
 
 Elevation range extends from sea level to approximately 1500 m in montane habitats.
 
@@ -58,7 +50,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish parmotrema perlatum
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -72,7 +64,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Parmotrema Perlatum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
