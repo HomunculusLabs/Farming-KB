@@ -1,5 +1,5 @@
 ---
-title: "Rice Blast Appressorium Mechanics: Melanin, Glycerol, and 80 Atmospheres"
+title: Bloomfield Rice Blast Appressorium Melanin Glycerol 80 Atmospheres
 tags:
   - concept
 ---
@@ -56,8 +56,8 @@ required in fungal biomechanics research, where standard force measurement tools
 are often inadequate for the microscopic scale of fungal cells.
 
 ## Coffee Rust: A Related Pathogen
-Many rusts have edited versions of the life cycle described for Puccinia graminis
-(black stem rust of wheat). Coffee rust, caused by Hemileia vastatrix, produces
+Many rusts have edited versions of the life cycle described for [[puccinia-graminis]]
+(black stem rust of wheat). Coffee rust, caused by [[hemileia-vastatrix]], produces
 uredospores, teliospores, and basidiospores, but lacks spermatium and aeciospore-
 producing stages. Because the fungus thrives on coffee alone with no alternate host,
 prevention of coffee rust is limited to fungicide spraying and resistant crop
@@ -72,7 +72,7 @@ measures.
 ## Overview
 
 Bloomfield Rice Blast Appressorium Melanin Glycerol 80 Atmospheres represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Bloomfield Rice Blast Appressorium Melanin Glycerol 80 Atmospheres finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 bloomfield rice blast appressorium melanin glycerol 80 atmospheres and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

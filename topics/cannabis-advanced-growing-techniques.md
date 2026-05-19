@@ -1,6 +1,6 @@
 ---
 title: Cannabis Advanced Growing Techniques
-subtitle: "A comprehensive guide to canopy management, plant training, environmental optimization, nutrient delivery, and post-harvest processing for high-performance cannabis cultivation."
+subtitle: "A comprehensive guide to canopy management, plant training, environmental optimization, [[solomon-fertigation-bucket-drip-water-nutrient-delivery]], and post-harvest processing for high-performance [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]."
 tags:
   - cannabis
   - plant-training
@@ -17,8 +17,8 @@ tags:
 date: 2026-05-01
 updated: 2026-05-19
 sources:
-  - "Cervantes, Jorge. Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible"
-  - "Green, Greg. The Cannabis Grow Bible"
+  - "Cervantes, Jorge. marijuana-horticulture-cervantes-artificial-lighting-and-electricity: The Indoor/Outdoor Medical Grower's Bible"
+  - "Green, Greg. The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]"
   - "Rosenthal, Ed. The Cannabis Encyclopedia"
   - "Clarke, Robert Connell. Marijuana Botany"
 ---

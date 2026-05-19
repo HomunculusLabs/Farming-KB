@@ -1,5 +1,5 @@
 ---
-title: "Dighton Mycorrhizal Drought Tolerance Plant Water Relations"
+title: Dighton Mycorrhizal Drought Tolerance Plant Water Relations
 tags:
   - concept
 ---
@@ -26,7 +26,7 @@ providing a buffer against water stress onset.
 
 ## Studies with Acacia and Leucaena
 
-The effect of arbuscular mycorrhiza infection on the tropical trees *Acacia
+The effect of [[functional-genomics-arbuscular-mycorrhiza]] infection on the tropical trees *Acacia
 nilotica* and *[[mycorrhizae]]
 mirrored the effect of adding P. Critically, however, the effect of
 [[mycorrhizae]]
@@ -71,11 +71,11 @@ ecosystem stability, productivity, and species composition.
 The multiple pathways through which fungi influence plant water status—direct
 hyphal transport, nutritional enhancement, hormonal regulation, and
 osmoregulation—provide a redundant system of drought protection. This
-redundancy suggests mycorrhizal contributions to drought tolerance are robust
+redundancy suggests [[mycorrhizal-contributions-terrestrial-carbon-cycle]] to drought tolerance are robust
 and likely to persist across a range of environmental conditions.
 
 The interactions between salinity, drought tolerance, and mycorrhizal
-function underscore the importance of maintaining healthy mycorrhizal communities.
+function underscore the importance of maintaining healthy [[mycorrhizal-communities-ecosystem-function]].
 Managing for mycorrhizal health may help mitigate both water stress and salt
 stress simultaneously, offering a biological approach to improving ecosystem
 resilience under increasingly variable water availability.
@@ -104,7 +104,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Dighton Mycorrhizal Drought Tolerance Plant Water Relations finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -133,7 +133,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 dighton mycorrhizal drought tolerance plant water relations and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

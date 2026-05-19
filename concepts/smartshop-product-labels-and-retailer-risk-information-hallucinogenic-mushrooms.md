@@ -1,5 +1,5 @@
 ---
-title: "Smartshop Product Labels and Retailer Risk Information for Hallucinogenic Mushrooms"
+title: Smartshop Product Labels And Retailer Risk Information Hallucinogenic Mushrooms
 tags:
   - concept
 ---
@@ -37,7 +37,7 @@ quality and completeness of risk information provided to consumers:
 ### What Was Missing or Inconsistent
 - Maximum shelf life information was rarely provided
 - The nature of possible side-effects was inadequately covered
-- The proportion of active substances ([[hallucinogenic-mushroom-mental-health-risks]] than somatic health risks, and can bring to the surface underlying
+- The proportion of active substances ([[hallucinogenic-mushroom-mental-health-risks]] than [[emcdda-psilocybin-mushroom-somatic-health-risks-and-physiological-effects]], and can bring to the surface underlying
 psychotic or personality disorders.
 
 ## Information Quality Assessment
@@ -72,7 +72,7 @@ The January 2006 snapshot of online shops also revealed that:
 ## Overview
 
 Smartshop Product Labels And Retailer Risk Information Hallucinogenic Mushrooms represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Smartshop Product Labels And Retailer Risk Information Hallucinogenic Mushrooms finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 smartshop product labels and retailer risk information hallucinogenic mushrooms and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

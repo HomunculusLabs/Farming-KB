@@ -36,7 +36,7 @@ The rate at which plants and soil surface evaporation remove water from the grow
 
 ### Salinity and Nutrient Stratification
 
-Because water moves upward in a wicking bed by capillary action, dissolved salts and nutrients tend to accumulate at the soil surface through evaporation. Over time, this can create a saline crust at the surface that inhibits seed germination and damages young seedlings. Regular flushing from above (simulated rainfall) can help redistribute accumulated salts. Additionally, [[cervantes-nutrient-mobility-deficiency-diagnosis]] differs by element: nitrogen (as nitrate) moves freely with water, while phosphorus, calcium, and iron are less mobile and may become depleted in the upper root zone. Fertilizer placement and selection should account for this stratification pattern.
+Because water moves upward in a wicking bed by capillary action, dissolved salts and nutrients tend to accumulate at the soil surface through evaporation. Over time, this can create a saline crust at the surface that inhibits [[seed-germination-and-stratification]] damages young seedlings. Regular flushing from above (simulated rainfall) can help redistribute accumulated salts. Additionally, [[cervantes-nutrient-mobility-deficiency-diagnosis]] differs by element: nitrogen (as nitrate) moves freely with water, while phosphorus, calcium, and iron are less mobile and may become depleted in the upper root zone. Fertilizer placement and selection should account for this stratification pattern.
 
 ### Media Compaction Over Time
 
@@ -71,7 +71,7 @@ At the start of each growing season, check the geotextile for clogging or degrad
 ## Overview
 
 Wicking Bed Water Movement Physics represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Wicking Bed Water Movement Physics finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -100,13 +100,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for wicking bed water movement physics. Climate adaptation
+opportunities for wicking bed water movement physics. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 wicking bed water movement physics and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

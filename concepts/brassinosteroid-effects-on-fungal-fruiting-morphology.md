@@ -1,5 +1,5 @@
 ---
-title: "Brassinosteroid Effects on Fungal Fruiting Morphology"
+title: Brassinosteroid Effects On Fungal Fruiting Morphology
 tags:
   - concept
 ---
@@ -7,7 +7,7 @@ tags:
 The application of brassinosteroids to fungal cultures has been
 shown to influence not only growth rate and yield but also the
 morphological characteristics of developing fruit bodies. Research
-on Psilocybe cubensis treated with 22S,23S-homobrassinolide
+[[tryptamine-effects-on-psilocybe-cubensis]] treated with 22S,23S-homobrassinolide
 revealed notable alterations in fruit body structure, particularly
 the absence of the [[annulus-loss-morphological-effect-brassinosteroid-treatment]]
 significantly compressed the fruiting timeline. Control cultures
@@ -19,8 +19,8 @@ The first flush of [[biological-efficiency]]. The effect was
 consistent across the multiple flushes studied.
 
 Importantly, the formation of incomplete (aborted) fruit bodies,
-normally common in mushroom cultivation, was almost completely
-suppressed by brassinosteroid treatment. Aborts represent a
+normally common [[contamination-prevention-in-mushroom-cultivation]], was almost completely
+suppressed by [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]. Aborts represent a
 significant loss of metabolic investment by the fungus, and
 their suppression contributes directly to the improved overall
 yield and biological efficiency.
@@ -46,7 +46,7 @@ reduced expansion that normally preserves the annulus.
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -57,7 +57,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

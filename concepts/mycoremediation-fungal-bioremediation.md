@@ -6,9 +6,9 @@ tags:
 
 ## Overview
 
-Mycoremediation is the use of fungi, particularly their mycelial networks, to degrade, sequester, or otherwise neutralize environmental contaminants. The term was coined and extensively developed by mycologist Paul Stamets in his groundbreaking work "Mycelium Running" (2005). Mycoremediation represents one of the most promising biological approaches to environmental cleanup, leveraging the natural [[phanerochaete-chrysosporium]]* and *Trametes versicolor*, produce lignin-degrading enzymes — including lignin peroxidases, manganese peroxidases, and laccases — that can break down not only the complex lignin molecules in wood but also a wide range of anthropogenic pollutants with similar molecular bonds.
+Mycoremediation is the use of fungi, particularly their mycelial networks, to degrade, sequester, or otherwise neutralize environmental contaminants. The term was coined and extensively developed by mycologist Paul Stamets in his groundbreaking work "Mycelium Running" (2005). Mycoremediation represents one of the most promising biological approaches to environmental cleanup, leveraging the natural [[phanerochaete-chrysosporium]]* and *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*, produce lignin-degrading enzymes — including lignin peroxidases, manganese peroxidases, and laccases — that can break down not only the complex lignin molecules in wood but also a wide range of anthropogenic pollutants with similar molecular bonds.
 
-These enzymes are non-specific in their catalytic action, meaning they can attack many different types of toxic compounds through a broad-spectrum biological decomposition system. This non-specificity is the key to fungal versatility: because the enzymes evolved to break down the enormously complex and variable molecules found in dead wood, they incidentally degrade many synthetic chemicals that share structural features with natural lignin.
+These enzymes are non-specific in their catalytic action, meaning they can attack many different types of toxic compounds through a broad-spectrum biological decomposition system. This non-specificity is the key to fungal versatility: because the enzymes evolved to break down the enormously complex and variable molecules found in dead wood, they incidentally degrade many synthetic chemicals that share [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] with natural lignin.
 
 The mycelial network acts as a biological filter and digestive system spread across large areas of substrate. Stamets describes the extraordinary scale of this network: in a single gram of myceliated soil, more than 1 mile of fungal cells can be present; in a single cubic inch, more than 8 miles of cells can form. The cell surface of mycelium constantly exudes enzymes along with antibiotics and profuse water. This enzymatic system digests lignin and cellulose, petroleum products, and many molecules held together by hydrogen-carbon bonds.
 
@@ -18,9 +18,9 @@ This is the same system that makes fungi the premier recyclers on the planet and
 
 **Lignin peroxidases**: These powerful oxidase enzymes break down aromatic ring structures found in both lignin and many synthetic pollutants including PAHs, dioxins, and certain pesticides. They work by generating highly reactive free radicals that attack chemical bonds holding complex molecules together. The non-specific nature of this radical-based attack means the enzymes are not limited to a single substrate.
 
-**Manganese peroxidases**: Working in conjunction with lignin peroxidases, these enzymes use manganese as a mediator to decompose complex organic molecules. They are particularly effective against phenolic compounds and other aromatic structures. The manganese cycle they drive creates a chain reaction of oxidative decomposition that can spread through contaminated material.
+**Manganese peroxidases**: Working in conjunction with lignin peroxidases, these enzymes use manganese as a mediator to decompose complex organic molecules. They are particularly effective against [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and other aromatic structures. The manganese cycle they drive creates a chain reaction of oxidative decomposition that can spread through contaminated material.
 
-**Laccases**: These copper-containing oxidase enzymes degrade a wide variety of phenolic compounds, which are common structural components of industrial pollutants, dyes, and pesticides. Laccases are particularly promising for industrial wastewater treatment because they work under relatively mild conditions and do not require [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), which are among the most persistent and carcinogenic components of petroleum pollution. The fungal enzymes attack the aromatic rings, breaking them apart and converting the carbon into fungal biomass and carbon dioxide.
+**Laccases**: These copper-containing oxidase enzymes degrade a wide variety of phenolic compounds, which are common structural components of industrial pollutants, dyes, and pesticides. Laccases are particularly promising for [[fungal-industrial-wastewater-treatment]] because they work under relatively mild conditions and do not require [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), which are among the most persistent and carcinogenic components of petroleum pollution. The fungal enzymes attack the aromatic rings, breaking them apart and converting the carbon into fungal biomass and carbon dioxide.
 
 This capability has profound implications for the cleanup of oil spills, contaminated industrial sites, and petroleum storage facilities. Traditional cleanup methods involve excavation and incineration or chemical treatment, both enormously expensive and energy-intensive. Mycoremediation can potentially treat these sites in situ at a fraction of the cost, with the fungi deriving their own energy from the contaminants being degraded.
 
@@ -36,7 +36,7 @@ The research was documented in an unpublished Battelle internal report dated Jul
 
 Polychlorinated biphenyls (PCBs) are among the most problematic environmental contaminants. These synthetic chemicals were used for decades in electrical equipment, hydraulic fluids, and industrial applications before being banned in the 1970s. They persist in the environment for decades, bioaccumulate in food chains, and are linked to cancer, immune system suppression, and reproductive problems.
 
-White-rot fungi have demonstrated the ability to dechlorinate and break down PCB molecules through their extracellular enzyme systems. The process involves reductive dehalogenation (removing chlorine atoms) followed by oxidative breakdown of the remaining biphenyl structure. Multiple patents have been awarded for fungal degradation of PCBs.
+White-rot fungi have demonstrated the ability to dechlorinate and break down PCB molecules through their [[dighton-fungal-extracellular-enzyme-systems-decomposition]]. The process involves reductive dehalogenation (removing chlorine atoms) followed by oxidative breakdown of the remaining biphenyl structure. Multiple patents have been awarded for fungal degradation of PCBs.
 
 Agricultural pesticides and herbicides present another major remediation challenge. Many were designed to be persistent in the environment — that persistence becomes a liability when chemicals migrate off-target or accumulate in soils. The same fungal enzymes that break down natural plant defense compounds can often degrade synthetic pesticides with similar molecular structures.
 
@@ -71,7 +71,7 @@ Mycoremediation offers several significant advantages over traditional remediati
 
 ## Overview
 
-Mycoremediation Fungal Bioremediation represents an important element within sustainable
+[[mycoremediation-fungal-bioremediation-techniques-and-applications]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

@@ -13,7 +13,7 @@ resulted in involuntary hallucinations that ceased when he left the room for fre
 This experience suggests that psilocybin or its volatile breakdown products may be
 released into the air by fresh or fermenting fungal material, providing a route of
 exposure that does not require oral ingestion. The authors stated that "it seems that
-psilocybin and psilocin are volatiles," a property that would explain both Guzmán's
+[[hplc-analysis-of-psilocybin-and-psilocin]] are volatiles," a property that would explain both Guzmán's
 experience and the rapid degradation of these compounds in dried specimens.
 
 ## Variability in Chemical Analysis
@@ -36,7 +36,7 @@ knowledge about these compounds' stability and potency that deserves careful stu
 rather than dismissal as superstition.
 ## Practical Considerations
 
-When working with Psilocybin [[psilocybin-chemistry-stability]] indigenous knowledge Indigenous Knowledge, several practical factors should be
+When working with Psilocybin [[psilocybin-chemistry-stability]] [[desert-food-systems-and-indigenous-knowledge]] Indigenous Knowledge, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -83,7 +83,7 @@ understanding and improve available approaches. New techniques, tools,
 ## Overview
 
 Psilocybin Chemistry Stability Indigenous Knowledge represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -104,7 +104,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psilocybin Chemistry Stability Indigenous Knowledge finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -112,7 +112,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -133,7 +133,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psilocybin chemistry stability indigenous knowledge and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

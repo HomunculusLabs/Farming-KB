@@ -14,7 +14,7 @@ The mechanism operates as follows:
 
 1. **Statolith settling**: In specialised cells called columella cells (in root caps) or endodermal cells (in shoots), dense amyloplasts sediment to the lowest point of the cell under gravity. These starch grains are 1.5-3 times denser than the surrounding cytoplasm.
 
-2. **Signal detection**: The settling of statoliths against the lower cell wall or endoplasmic reticulum triggers a chain of biochemical events. The leading theory is that the pressure of statoliths on membrane-bound structures (possibly mechanosensitive ion channels or the endoplasmic reticulum) initiates a [[plant-phototropism]] hormone auxin (indole-3-acetic acid, IAA). In roots, auxin accumulates on the lower side; in shoots, auxin also accumulates on the lower side but produces the opposite growth effect.
+2. **Signal detection**: The settling of statoliths against the lower cell wall or [[endoplasmic-reticulum]] triggers a chain of biochemical events. The leading theory is that the pressure of statoliths on membrane-bound structures (possibly mechanosensitive ion channels or the endoplasmic reticulum) initiates a [[plant-phototropism]] hormone auxin (indole-3-acetic acid, IAA). In roots, auxin accumulates on the lower side; in shoots, auxin also accumulates on the lower side but produces the opposite growth effect.
 
 4. **Differential [[plant-memory-and-spatial-awareness]] physiology.
 
@@ -72,8 +72,8 @@ The integration of these multiple signals allows plants to optimise their orient
 
 ## Overview
 
-What A Plant Knows Gravitropism Plant Spatial Awareness represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+What A Plant Knows Gravitropism Plant [[plant-gravitropism-and-spatial-awareness]] represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 What A Plant Knows Gravitropism Plant Spatial Awareness finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -102,7 +102,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 what a plant knows gravitropism plant spatial awareness and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

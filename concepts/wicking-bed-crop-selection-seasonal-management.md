@@ -12,7 +12,7 @@ Wicking beds offer a unique growing environment characterized by consistent bott
 
 ### Leafy Greens and Herbs
 
-Leafy vegetables and culinary herbs are the most reliable performers in wicking beds. Lettuce (all types), spinach, rocket, Asian greens (bok choy, mizuna, tatsoi), Swiss chard, kale, and coriander all thrive in the consistently moist but well-aerated root zone. These crops have relatively shallow root systems (15–25 cm) that remain within the capillary fringe, and they benefit from the dry surface layer that reduces fungal disease pressure on foliage. Basil, parsley, chives, mint (in contained beds), and thyme also perform well, though Mediterranean herbs like rosemary and lavender prefer drier conditions and may suffer in the humid root zone.
+Leafy vegetables [[holzer-medicinal-and-culinary-herbs-compendium]] are the most reliable performers in wicking beds. Lettuce (all types), spinach, rocket, Asian greens (bok choy, mizuna, tatsoi), Swiss chard, kale, and coriander all thrive in the consistently moist but well-aerated root zone. These crops have relatively shallow root systems (15–25 cm) that remain within the capillary fringe, and they benefit from the dry surface layer that reduces fungal disease pressure on foliage. Basil, parsley, chives, mint (in contained beds), and thyme also perform well, though Mediterranean herbs like rosemary and lavender prefer drier conditions and may suffer in the humid root zone.
 
 ### Root Vegetables with Shallow Taproots
 
@@ -48,7 +48,7 @@ Mediterranean herbs (rosemary, lavender, oregano, sage), succulents, and plants 
 
 ### Large-Spreading Perennials
 
-perennial vegetables and edible perennial crops herbs with extensive rhizomatous root systems (such as horseradish, [[comparison-seaweed-extract-vs-fish-hydrolysate]], or fish emulsion to replace nutrients drawn upward by evaporation and plant uptake. Watch for pest outbreaks — the moist environment can favor slugs, snails, and fungal gnats.
+[[perennial-vegetables-and-edible-perennial-crops]] edible perennial crops herbs with extensive rhizomatous root systems (such as horseradish, [[comparison-seaweed-extract-vs-fish-hydrolysate]], or fish emulsion to replace nutrients drawn upward by evaporation and plant uptake. Watch for pest outbreaks — the moist environment can favor slugs, snails, and fungal gnats.
 
 ### Autumn Transition
 
@@ -73,7 +73,7 @@ Wicking beds typically use 50–80% less water than equivalent in-ground gardens
 ## Overview
 
 Wicking Bed Crop Selection Seasonal Management represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Wicking Bed Crop Selection Seasonal Management finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -102,7 +102,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 wicking bed crop selection seasonal management and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

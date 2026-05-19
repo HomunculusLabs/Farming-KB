@@ -1,5 +1,5 @@
 ---
-title: "Mycelial Network Nutrient Dynamics and Imaging"
+title: Mycelial Network Nutrient Dynamics And Imaging
 tags:
   - concept
 ---
@@ -10,7 +10,7 @@ Mycelial networks, formed by the filamentous growth of fungi, represent one of t
 remarkable biological transport systems in terrestrial ecosystems. Basidiomycete cord-
 forming fungi, such as *[[dighton-fungal-nutrient-translocation-element-redistribution]] operates through several interconnected mechanisms. The
 primary driver is cytoplasmic streaming within hyphae, powered by osmotically generated
-turgor pressure and the coordinated action of motor proteins along cytoskeletal
+[[bloomfield-turgor-pressure-and-hyphal-invasion]] the coordinated action of motor proteins along cytoskeletal
 elements. In cord-forming fungi, differentiated linear organs of aggregated hyphae
 (rhizomorphs) provide protected channels for long-distance translocation. These cords
 can span centimeters to meters, connecting resource-rich patches to actively growing
@@ -20,7 +20,7 @@ transport that responds dynamically to resource gradients and environmental cues
 
 Research has demonstrated that mycelial networks can buffer local nutrient depletion
 by importing resources from distant, nutrient-rich sectors. This capability is
-especially important in heterogeneous environments where nutrients are patchily
+especially important in [[fungal-foraging-strategies-heterogeneous-environments]] where nutrients are patchily
 distributed, as is typical of forest soils and decomposing wood. The ability to
 redistribute carbon from well-supplied regions to resource-poor zones allows
 mycelial networks to maintain growth fronts even when local conditions are
@@ -44,7 +44,7 @@ analysis of [[nutrient-movement-through-soil-to-plant-roots]]
   resolution of modern phosphor screens allows mapping of nutrient distribution
   across entire colony systems.
 
-- **Photon-counting scintillation imaging**: This technique offers improved
+- **Photon-counting [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]]**: This technique offers improved
   temporal resolution compared to conventional autoradiography, enabling
   researchers to capture dynamic changes in nutrient distribution over minutes
   rather than hours. It has been particularly useful for studying the rapid
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mycelial Network Nutrient Dynamics And Imaging finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -121,7 +121,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mycelial network nutrient dynamics and imaging and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

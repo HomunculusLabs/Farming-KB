@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-Different psilocybin-producing and related mushroom species exhibit significantly different timelines for fruiting body initiation when cultivated on [[grass-seed-substrate]]. Understanding these species-specific timelines is essential for cultivation planning, resource allocation, and troubleshooting when expected fruiting does not occur within the typical window.
+Different psilocybin-producing and related mushroom species exhibit significantly different timelines for fruiting body initiation when cultivated on [[grass-seed-substrate]]. Understanding these species-specific timelines is essential for cultivation planning, [[mycelial-foraging-resource-allocation]], and troubleshooting when expected fruiting does not occur within the typical window.
 
 ## Fruiting Timeline Overview
 
@@ -22,7 +22,7 @@ Based on the grass seed cultivation guide, pinhead (primordia) appearance ranges
 |-------|-----------------|-------|
 | Colonization (grass seed jar) | 5–14 days | Depends on temperature and inoculation method |
 | Casing colonization | 3–7 days | Mycelium grows through casing soil |
-| Pinhead initiation | 6–10 days | After exposure to fruiting conditions |
+| [[pinhead-initiation-techniques]] | 6–10 days | After exposure to fruiting conditions |
 | Maturation to harvest | 5–7 days | From pinhead to harvestable mushroom |
 | **Total (inoculation to harvest)** | **19–38 days** | Strain-dependent |
 
@@ -40,7 +40,7 @@ Based on the grass seed cultivation guide, pinhead (primordia) appearance ranges
 
 ### *Panaeolus subbalteatus*
 
-*P. subbalteatus* (now reclassified as *Panaeolus cinctulus* in some taxonomies) is a coprophilous species that can be cultivated on grass seed:
+*P. subbalteatus* (now reclassified as *[[panaeolus-cinctulus]]* in some taxonomies) is a coprophilous species that can be cultivated on grass seed:
 
 - **Cold shock**: Does not benefit from cold shock treatment.
 - **Fruiting timeline**: Falls within the general 6–15 day window after casing exposure.
@@ -64,7 +64,7 @@ Room temperature (20°C) or slightly higher is recommended for colonization. Hig
 
 The guide uses a simple [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] design that contributes to reliable timelines:
 
-- **Container**: Clear plastic bins covered with polyethylene sheeting.
+- **Container**: Clear plastic bins covered with [[passive-humidity-fruit-chamber-polyethylene-sheeting]].
 - **Air exchange**: Melted holes in bin sides, optionally covered with mesh to exclude insects.
 - **Humidity**: Evaporation from casing surfaces maintains humidity; no external humidification needed.
 - **Capacity**: Five cased trays per bin, creating a self-regulating microclimate.
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Species Specific Fruiting Timelines Grass Seed Cultivation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 species specific fruiting timelines grass seed cultivation and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

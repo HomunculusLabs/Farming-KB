@@ -24,7 +24,7 @@ Research has demonstrated that carbon transfer through mycorrhizal networks
 can amount to a significant fraction of total plant carbon allocation,
 particularly in shaded understory environments where seedlings and suppressed
 individuals benefit from carbon provided by canopy trees. The magnitude and
-ecological significance of interplant carbon transfer remain debated, but the
+[[lichen-biology-and-ecological-significance]] of interplant carbon transfer remain debated, but the
 phenomenon is well-established and has implications for understanding forest
 regeneration, plant competition, and the responses of plant communities to
 disturbance and environmental change.
@@ -51,10 +51,10 @@ The host specificity of ECM fungi influences forest composition and
 succession: early-successional tree species tend to associate with generalist
 ECM fungi, while late-successional species may depend on specialist fungi that
 establish slowly and persist for decades in the soil. This pattern has
-important implications for forest management and restoration, as the
+important implications for forest [[tropical-soil-management-and-restoration]], as the
 mycorrhizal fungal community present at a site can facilitate or hinder the
 establishment of particular tree species. Reforestation efforts that fail to
-consider mycorrhizal associations may result in poor seedling survival or
+consider [[plants-without-mycorrhizal-associations]] may result in poor seedling survival or
 unexpected shifts in forest composition.
 
 The fruiting bodies of many ECM fungi are important food sources for forest
@@ -73,7 +73,7 @@ enhance uptake of immobile nutrients (particularly phosphorus) and improve
 
 ## Overview
 
-Mycorrhizal Fungi Diversity Ecology Mutualism represents an important element within sustainable
+[[arbuscular-mycorrhizal-fungi-diversity-distribution-species-richness]] Ecology Mutualism represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mycorrhizal Fungi Diversity Ecology Mutualism finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mycorrhizal fungi diversity ecology mutualism and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

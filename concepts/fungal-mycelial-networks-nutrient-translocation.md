@@ -1,5 +1,5 @@
 ---
-title: "Fungal core endorhiza bacterial community composition cannabis and dighton fungal decomposition leaf litter dynamics, mycelial cord architecture and nutrient translocation basidiomycetes"
+title: Fungal Mycelial Networks Nutrient Translocation
 tags:
   - concept
 ---
@@ -43,7 +43,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Fungal Mycelial Networks Nutrient Translocation. These include both technical difficulties and broader systemic
+[[fungal-mycelial-networks-ecosystem-engineers]] Nutrient Translocation. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
@@ -68,7 +68,7 @@ more robust and productive overall systems. This integrative approach
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fungal Mycelial Networks Nutrient Translocation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
