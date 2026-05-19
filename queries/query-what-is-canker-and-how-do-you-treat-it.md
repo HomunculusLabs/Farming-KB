@@ -117,6 +117,6 @@ Windbreaks and proper tree spacing reduce the spread of bacterial inoculum by li
 
 ## Related Questions
 
-- [[query-how-to-prevent-fungal-diseases-in-fruit-trees]]
-- [[query-what-causes-gummosis-on-fruit-trees]]
-- [[query-how-does-pruning-affect-tree-health]]
+- [[fungal-fruit-tree-diseases]]
+- [[jadam-fungal-disease-management]]
+- [[fruit-tree-pruning]]
